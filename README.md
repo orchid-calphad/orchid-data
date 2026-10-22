@@ -19,3 +19,11 @@ and `LICENSES.md`.
 See `CITATION.cff`. Versioned releases are archived on Zenodo with a DOI.
 
 Authors: R. Arróyave (Texas A&M University), J. Saal (Citrine Informatics), D. Shin (Oak Ridge National Laboratory).
+
+## Formats
+Besides the JSON (the reference format), `parquet/` holds analysis-ready Parquet tables (zstd) built from the same
+release by `tools/build_parquet.py` in the website repository: `literature_values` (one typed row per value, with a
+by-paper `split` column for ML), `papers`, `experimental_context`, `dft_parity`, `phase_diagram_index`,
+`phase_diagram_invariants` and `hull_vertices`. `parquet/MANIFEST.json` gives row counts, schemas and content hashes.
+`DATASET_CARD.md` is the datasheet (Hugging Face dataset-card format) with loading examples for `datasets`, pandas and
+DuckDB; `hf/README.md` is the same card for a future Hugging Face mirror.
