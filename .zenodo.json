@@ -1,0 +1,36 @@
+{
+  "title": "ORCHID data: literature thermodynamic data, calculated phase diagrams and DFT hulls",
+  "upload_type": "dataset",
+  "description": "Curated, versioned release of openly licensed CALPHAD thermodynamic databases, binary convex hulls (Materials Project, OQMD, SGTE) and evaluated phase-equilibrium data, with licence, source and evidence class for every value. Website: https://orchid-project.org",
+  "creators": [
+    {
+      "name": "Arróyave, Raymundo",
+      "affiliation": "Texas A&M University"
+    },
+    {
+      "name": "Saal, James",
+      "affiliation": "Citrine Informatics"
+    },
+    {
+      "name": "Shin, Dongwon",
+      "affiliation": "Oak Ridge National Laboratory"
+    }
+  ],
+  "keywords": [
+    "CALPHAD",
+    "thermodynamic database",
+    "phase diagram",
+    "convex hull",
+    "DFT",
+    "AI-ready data"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://orchid-project.org",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}

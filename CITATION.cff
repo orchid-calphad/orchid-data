@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use ORCHID data, please cite the release you used (Zenodo DOI) and the original sources of the data."
+title: "ORCHID data: literature thermodynamic data, calculated phase diagrams and DFT hulls"
+type: dataset
+authors:
+  - family-names: "Arróyave"
+    given-names: "Raymundo"
+    affiliation: "Texas A&M University"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # TODO (PI)
+  - family-names: "Saal"
+    given-names: "James"
+    affiliation: "Citrine Informatics"
+  - family-names: "Shin"
+    given-names: "Dongwon"
+    affiliation: "Oak Ridge National Laboratory"
+url: "https://data.orchid-project.org"
+repository-code: "https://github.com/orchid-calphad/orchid-project.org"
+license: CC-BY-4.0
+keywords: [CALPHAD, thermodynamics, phase diagrams, TDB, convex hull, DFT, AI-ready data]
