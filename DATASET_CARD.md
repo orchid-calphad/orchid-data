@@ -314,7 +314,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 76432
-  download_size: 6062486
+  download_size: 6067938
 - config_name: papers
   features:
   - name: id
@@ -350,7 +350,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 4877
-  download_size: 523757
+  download_size: 529209
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -428,7 +428,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 1504
-  download_size: 156333
+  download_size: 161785
 - config_name: dft_parity
   features:
   - name: record_id
@@ -520,7 +520,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 7826
-  download_size: 263573
+  download_size: 270741
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -560,7 +560,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 24828
-  download_size: 845064
+  download_size: 850031
 - config_name: phase_diagram_index
   features:
   - name: system
@@ -598,7 +598,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 2774
-  download_size: 258440
+  download_size: 263411
 - config_name: hull_vertices
   features:
   - name: system
@@ -646,7 +646,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 28143
-  download_size: 674001
+  download_size: 679954
 ---
 
 # ORCHID data: analysis-ready tables
@@ -657,7 +657,11 @@ databases, and binary convex hulls from two DFT databases. This card describes t
 They are derived from the JSON files in `literature/`, `phase-diagrams/` and `hulls/` of the same release and add
 nothing to them; the JSON stays the reference format.
 
-- Release: `orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)`
+- Release: **v2026.10** (version 2026.10; literature record store `orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)`)
+- Status: **Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.**
+- Zenodo: four citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data): literature values (doi:10.5281/zenodo.PENDING-literature),
+  calculated binary phase diagrams (doi:10.5281/zenodo.PENDING-phase-diagrams), binary convex hulls (doi:10.5281/zenodo.PENDING-hulls), DFT-vs-experiment formation-enthalpy
+  benchmark (doi:10.5281/zenodo.PENDING-dft-benchmark)
 - Homepage: <https://orchid-project.org> · data: <https://data.orchid-project.org>
 - Field reference: `literature/SCHEMA.md`, hull format: `hulls/` (interval schema v1)
 - Builder: `tools/build_parquet.py` in the `orchid-project.org` repository (deterministic, `--check`)
@@ -706,21 +710,21 @@ equilibrium state: a quantity (`property`, e.g. `INVARIANT_TEMPERATURE`, `TRANSI
 `PHASE_COMPOSITION`, `HM_FORM`, `CPM`, `LATTICE_A`) of a chemical `system`, with the phases involved, the
 temperature and pressure at which it holds, phase compositions (`compositions`, a list of
 `{phase, element, value, basis, source}`), and the reaction for invariants. There are 76,432 values from 1,322
-papers covering 1,390 chemical systems (519 unary, 55,884 binary, 16,578 ternary, the rest higher order), after
-merging 3,510 exact duplicates (`merged_ids`; see `literature/QUALITY_FIXES.md`).
+papers covering 1,390 chemical systems (by number of elements: 519 unary, 55,884 binary, 16,578 ternary and
+3,451 higher-order values), after merging 3,510 exact duplicates (`merged_ids`; see `literature/QUALITY_FIXES.md`).
 
 **Evidence classes.** Every value carries one `evidence_class`, never mixed or averaged:
-`experimental` (38,039), `model` (29,673: computed from a CALPHAD or other thermodynamic model), `dft` (6,711:
-first-principles), `unspecified` (5,519: the paper does not let the origin be settled). `origin` records how the
+`experimental` (36,918), `model` (28,148: computed from a CALPHAD or other thermodynamic model), `dft` (6,162:
+first-principles), `unspecified` (5,204: the paper does not let the origin be settled). `origin` records how the
 class was decided; `origin_measured_in` the paper the value was measured or calculated in, which is often not the
-paper it was read from (38,013 values are cited from another work; `conditions_kind = cited_source`).
+paper it was read from (36,506 values are cited from another work; `conditions_kind = cited_source`).
 
-**Labels and flags.** `accepted` (78,853 true) means the readers agreed and the deterministic checks passed.
+**Labels and flags.** `accepted` (75,491 true) means the readers agreed and the deterministic checks passed.
 `flag_*` columns are booleans (absent in the source = false; `flag_state_fully_specified` and
 `flag_value_in_quote` are null where not evaluated). `review_flags` and `specification_gaps` list codes.
 `plausibility_*` is a cross-check against a calculated phase diagram where one exists.
 
-**Model links.** 14,375 `model` values are linked unambiguously to a TDB file of the ORCHID catalog
+**Model links.** 13,586 `model` values are linked unambiguously to a TDB file of the ORCHID catalog
 (`model_tdb`, `model_tdb_path`, `model_tdb_sha256`); `model_unlinked_reason` says why the others are not.
 
 **Other tables.** `papers` is the bibliography for `paper_id`, `origin_measured_in` and `cited_dois`.
@@ -741,9 +745,9 @@ printed in a value's quote were removed (`flag_has_dropped_fields`) rather than 
 
 **Readers.** Each table and passage was read independently by machine readers: the PDF text layer, Gemini Flash,
 Claude Opus and, for confirmation or disagreement, Gemini Pro; a judge model chose between disagreeing readers in
-199 cases. `reader_tier` and `readers` record which readings agreed: `preliminary_flash+claude` (65,291),
-`confirmed_pro` (8,567), `preliminary_flash` (5,885, running text, with the second reader's verdict in
-`flag_value_in_quote` / `second_reader`), `preliminary_flash+claude+fable_judge` (199). A value is accepted only
+198 cases. `reader_tier` and `readers` record which readings agreed: `preliminary_flash+claude` (62,292),
+`confirmed_pro` (8,070), `preliminary_flash` (5,872, running text, with the second reader's verdict in
+`flag_value_in_quote` / `second_reader`), `preliminary_flash+claude+fable_judge` (198). A value is accepted only
 on reader agreement plus deterministic checks; `review_flags` lists the codes of checks that fired.
 
 **Quote verification (running text).** A value read from a sentence is kept only if the sentence is verbatim on
@@ -764,11 +768,16 @@ Project and in OQMD, separately; the two are never averaged. `residual = DFT −
 reproduces the published default (experimental, accepted, not unsigned, no sign loss, not magnitude-suspect):
 MAE 10.9 kJ/mol-atom over 1,231 MP pairs (median 6.3, Spearman 0.83) and 9.6 over 1,294 OQMD pairs (median 5.5,
 Spearman 0.88). Large residuals were classified deterministically (`quality_fix`; `literature/QUALITY_FIXES.md`):
-per-formula values labelled per atom were converted, unsigned magnitudes flagged and excluded, the rest flagged
-`dft_outlier_unexplained` and kept.
+per-formula values labelled per atom were converted (47), unsigned magnitudes flagged and excluded (31), the rest
+flagged `dft_outlier_unexplained` (160) and kept.
+
+**Kim et al. 2017 cross-check.** Accepted experimental formation enthalpies (kJ/mol-atom, signed) were compared per
+formula with the experimental compilation of Kim, Meschel, Nash and Chen (Scientific Data 4 (2017) 170162):
+162 formulas in common, MAE 3.85 kJ/mol-atom, median absolute difference 1.19, sign agreement 100 %, 19 formulas
+differing by more than 10 kJ/mol-atom (listed with record ids in `literature/kim2017_crosscheck.md`).
 
 **Timeframe.** Corpus papers published 1975–2025 (cited works back to the 19th century); reading done in 2026;
-release 2026-10-22.
+release v2026.10 built 2026-10-22.
 
 ## Preprocessing
 
@@ -806,13 +815,16 @@ structured target (`property`, `value`, `unit`, `temperature_K`, `phases`, `comp
 (below).
 
 **Uses to avoid.** Do not treat `model` or `unspecified` values as measurements, do not average across evidence
-classes, and do not feed values to an optimizer (ESPEI etc.) without review: `flag_espei_ready` is false
-throughout this release.
+classes, and do not feed values to an optimizer (ESPEI etc.) without review: `flag_espei_ready`
+(14,132 true, all of them accepted experimental or DFT values) comes from the extraction pipeline's automatic
+completeness checks; it is not a review verdict.
 
 ## Distribution
 
-Served at <https://data.orchid-project.org> from the `orchid-data` repository; versioned releases are archived
-on Zenodo with a DOI. A Hugging Face mirror is planned (`hf/README.md` is this card in mirror form).
+Served at <https://data.orchid-project.org> from the `orchid-data` repository. Release v2026.10 is archived on
+Zenodo as four datasets, each its own record and DOI, linked by the umbrella record *ORCHID data* (DataCite
+`isPartOf` / `hasPart`); the deposition metadata and file manifests are in `zenodo/`, changes in `CHANGELOG.md`.
+A Hugging Face mirror is planned (`hf/README.md` is this card in mirror form).
 
 ## Maintenance
 
@@ -853,20 +865,79 @@ next release. Report errors via the project website or repository issues.
 
 ## Licence and citation
 
-Derived data: **CC BY 4.0**. Cite ORCHID (see `CITATION.cff`, Zenodo DOI of the release) and the original source
-of each value (`paper_citation`, `paper_doi`, `cited_dois`). Each `quote` is a single sentence reproduced under fair
-use to make the value verifiable; the source papers, page images and full texts are not redistributed. Third-party
-data keep their licences and citations (`NOTICE.md`, `LICENSES.md`): SGTE binary collection, Hallstedt 2025
-(CC BY 4.0); Materials Project, Jain et al., APL Materials 1 (2013) 011002 (CC BY 4.0); OQMD, Saal et al., JOM 65
-(2013) 1501 and Kirklin et al., npj Comput. Mater. 1 (2015) 15010 (CC BY 4.0).
+Derived data: **CC BY 4.0**. Cite the ORCHID dataset you use and the umbrella record (DOIs below), and the original
+source of each value (`paper_citation`, `paper_doi`, `cited_dois`). Each `quote` is a single sentence reproduced
+under fair use to make the value verifiable; the source papers, page images and full texts are not redistributed.
+Third-party data keep their licences and citations (`NOTICE.md`, `LICENSES.md`): SGTE binary collection, Hallstedt
+2025 (CC BY 4.0); Materials Project, Jain et al., APL Materials 1 (2013) 011002 (CC BY 4.0); OQMD, Saal et al., JOM
+65 (2013) 1501 and Kirklin et al., npj Comput. Mater. 1 (2015) 15010 (CC BY 4.0).
+
+The same citation is machine-readable everywhere: a top-level `cite_as` object (text, BibTeX, DOI) in
+`literature/index.json`, every `literature/systems/*.json`, `phase-diagrams/index.json`, the hull catalogs,
+`literature/dft_parity.json` and `parquet/MANIFEST.json`; `orchid.cite_as` / `orchid.doi` key-value metadata in every
+Parquet file; `literature/CITATION.txt` beside the CSV; `CITATION.cff` at the top and in `literature/`,
+`phase-diagrams/` and `hulls/`.
+
+| dataset | Parquet tables | DOI |
+|---|---|---|
+| ORCHID literature values | `literature_values`, `papers`, `experimental_context` | 10.5281/zenodo.PENDING-literature |
+| ORCHID calculated binary phase diagrams | `phase_diagram_index`, `phase_diagram_invariants` | 10.5281/zenodo.PENDING-phase-diagrams |
+| ORCHID binary convex hulls (MP, OQMD, assessed CALPHAD) | `hull_vertices` | 10.5281/zenodo.PENDING-hulls |
+| ORCHID DFT-vs-experiment formation-enthalpy benchmark | `dft_parity` | 10.5281/zenodo.PENDING-dft-benchmark |
+| ORCHID data (umbrella) | all | 10.5281/zenodo.PENDING-orchid-data |
 
 ```bibtex
+@misc{orchid_literature_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID literature values}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-literature},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_phase_diagrams_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID calculated binary phase diagrams}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-phase-diagrams},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-diagrams}
+}
+
+@misc{orchid_hulls_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-hulls},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-hulls}
+}
+
+@misc{orchid_dft_benchmark_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-dft-benchmark},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-dft-benchmark},
+  note      = {Version 1, machine-extracted}
+}
+
 @misc{orchid_data_2026,
-  title  = {ORCHID data: literature thermodynamic data, calculated phase diagrams and DFT hulls},
-  author = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  year   = {2026},
-  note   = {Release orchid-literature 2026-10-22},
-  url    = {https://data.orchid-project.org}
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
 }
 ```
 

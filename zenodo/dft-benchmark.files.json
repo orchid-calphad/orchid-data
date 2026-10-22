@@ -1,0 +1,85 @@
+{
+ "record": "dft-benchmark",
+ "title": "ORCHID DFT-vs-experiment formation-enthalpy benchmark",
+ "version": "2026.10",
+ "bundle": "orchid-dft-benchmark-v2026.10.zip",
+ "include": [
+  "README.md",
+  "CHANGELOG.md",
+  "LICENSE",
+  "LICENSES.md",
+  "NOTICE.md",
+  "zenodo/dft-benchmark.metadata.json",
+  "literature/dft_parity.json",
+  "literature/kim2017_crosscheck.json",
+  "literature/kim2017_crosscheck.md",
+  "literature/QUALITY_FIXES.md",
+  "parquet/dft_parity.parquet",
+  "parquet/MANIFEST.json"
+ ],
+ "exclude": [],
+ "n_files": 12,
+ "total_bytes": 4536796,
+ "files": [
+  {
+   "path": "CHANGELOG.md",
+   "bytes": 6436,
+   "sha256": "45b60cec9f22ecbc18eceedc84b38a597dd3e2da9c020cf116aa91c01d6b82e6"
+  },
+  {
+   "path": "LICENSE",
+   "bytes": 410,
+   "sha256": "585cba8653777424ed6fb985fcba3dc05b05af0e2d9b11e410a9c274fb977e51"
+  },
+  {
+   "path": "LICENSES.md",
+   "bytes": 752,
+   "sha256": "56c7b4a438df0088405b307a79555b9a5c1f757b769be4a6e27850e5bb43fadc"
+  },
+  {
+   "path": "NOTICE.md",
+   "bytes": 15478,
+   "sha256": "43da981da74f2ea0e22d368a8ae82e71b834358b43f39a62aaf310a671678e46"
+  },
+  {
+   "path": "README.md",
+   "bytes": 4508,
+   "sha256": "1b3844d645c35987ad60a641eb02095051c83debe807f492d10d8590529a4770"
+  },
+  {
+   "path": "literature/QUALITY_FIXES.md",
+   "bytes": 59185,
+   "sha256": "5a8258d8526ba39384ce6cca39886a14a7156cd9b0a5ab345729e782eafa1d86"
+  },
+  {
+   "path": "literature/dft_parity.json",
+   "bytes": 4138592,
+   "sha256": "50a261b86ed9923b129c0cc45f6a22ec729f4f8184bb574358136c8b4e61a3e0"
+  },
+  {
+   "path": "literature/kim2017_crosscheck.json",
+   "bytes": 7083,
+   "sha256": "b5003890ce57bd97df0a4dca77129f3e8a0262dc8e37c181ab7eb364b041de34"
+  },
+  {
+   "path": "literature/kim2017_crosscheck.md",
+   "bytes": 2502,
+   "sha256": "a1943fd1df46f8852a3d9ff88aeaf7b3f607b8a7a4f29d0e6a06dca73e8f717c"
+  },
+  {
+   "path": "parquet/MANIFEST.json",
+   "bytes": 22899,
+   "sha256": "16595999f6e198a2232be2806fbb22e0570a79c123fb3293ae2c8f9333401d40"
+  },
+  {
+   "path": "parquet/dft_parity.parquet",
+   "bytes": 270741,
+   "sha256": "1bbabb50dcaaa02c4125508f002e69b96959b3a9d023dab453ed1c41c3f85f65"
+  },
+  {
+   "path": "zenodo/dft-benchmark.metadata.json",
+   "bytes": 8210,
+   "sha256": "2cb630b964729389ed98d01c954f431ed542c3db1546ddb86640e23f217aecde"
+  }
+ ]
+}

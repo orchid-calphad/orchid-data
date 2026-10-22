@@ -1,4 +1,28 @@
 {
+  "cite_as": {
+    "also_cite": [
+      "A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0)",
+      "J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0)",
+      "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file"
+    ],
+    "bibtex": "@misc{orchid_hulls_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-hulls},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-hulls}\n}",
+    "dataset": "hulls",
+    "doi": "10.5281/zenodo.PENDING-hulls",
+    "license": "CC-BY-4.0",
+    "part_of": {
+      "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
+      "doi": "10.5281/zenodo.PENDING-orchid-data",
+      "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+      "title": "ORCHID data",
+      "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data"
+    },
+    "release_tag": "v2026.10",
+    "status": "Version 1 (calculated / third-party derived data)",
+    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls",
+    "title": "ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)",
+    "url": "https://doi.org/10.5281/zenodo.PENDING-hulls",
+    "version": "2026.10"
+  },
   "provenance": {
     "above_hull_window_eV": 0.05,
     "builder_version": 1,

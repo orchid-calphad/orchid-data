@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite this Zenodo record and the original sources of the data (Materials Project, OQMD and the SGTE binary collection)."
+title: "ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)"
+type: dataset
+authors:
+  - family-names: "Arróyave"
+    given-names: "Raymundo"
+    orcid: "https://orcid.org/0000-0001-7548-8686"
+    affiliation: "Texas A&M University"
+  - family-names: "Saal"
+    given-names: "James"
+    orcid: "https://orcid.org/0000-0003-0935-158X"
+    affiliation: "Citrine Informatics"
+  - family-names: "Shin"
+    given-names: "Dongwon"
+    orcid: "https://orcid.org/0000-0002-5797-3423"
+    affiliation: "Oak Ridge National Laboratory"
+version: "2026.10"
+doi: "10.5281/zenodo.PENDING-hulls"
+license: CC-BY-4.0
+url: "https://data.orchid-project.org"
+repository-code: "https://github.com/orchid-calphad/orchid-data"
+abstract: "Binary formation-energy convex hulls from the Materials Project and OQMD (0 K, DFT) and isotherms of assessed CALPHAD descriptions (SGTE), as interval documents."
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.PENDING-orchid-data"
+    description: "Umbrella record ORCHID data (all datasets of release v2026.10)"
+keywords: [CALPHAD, thermodynamics, phase diagrams, convex hull, DFT, formation enthalpy, AI-ready data]

@@ -1,0 +1,110 @@
+{
+ "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
+ "record": "orchid-data",
+ "doi": "10.5281/zenodo.PENDING-orchid-data",
+ "metadata": {
+  "title": "ORCHID data",
+  "upload_type": "dataset",
+  "version": "2026.10",
+  "description": "<p><b>ORCHID data</b> (Open Repository for CALPHAD Hypotheses, Intelligence, and Discovery), release v2026.10: umbrella record of four citable datasets, each a separate Zenodo record with its own DOI:</p><ul><li><a href=\"https://doi.org/10.5281/zenodo.PENDING-literature\">ORCHID literature values</a> (doi:10.5281/zenodo.PENDING-literature)</li><li><a href=\"https://doi.org/10.5281/zenodo.PENDING-phase-diagrams\">ORCHID calculated binary phase diagrams</a> (doi:10.5281/zenodo.PENDING-phase-diagrams)</li><li><a href=\"https://doi.org/10.5281/zenodo.PENDING-hulls\">ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)</a> (doi:10.5281/zenodo.PENDING-hulls)</li><li><a href=\"https://doi.org/10.5281/zenodo.PENDING-dft-benchmark\">ORCHID DFT-vs-experiment formation-enthalpy benchmark</a> (doi:10.5281/zenodo.PENDING-dft-benchmark)</li></ul><p><b>Status.</b> Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</p><p>This record holds the release documentation: README, CHANGELOG, DATASET_CARD (datasheet with loading examples for pandas, DuckDB and Hugging Face <code>datasets</code>), licences and attributions, the Parquet manifest, and the Zenodo metadata of all five records. The data files are in the four dataset records.</p><h3>Limitations</h3><p>See each dataset record and DATASET_CARD.md (known limitations). Literature values are machine-extracted (Version 1); calculated and DFT values are model results, not measurements.</p><h3>Licence</h3><p>Derived data: CC BY 4.0. Quotes are single sentences under fair use; source papers are not redistributed. Third-party data keep their own licences and citations (NOTICE.md, LICENSES.md in the bundle): SGTE binary collection, Hallstedt 2025 (CC BY 4.0); Materials Project (CC BY 4.0); OQMD (CC BY 4.0).</p><p>Files: one zip (<code>orchid-orchid-data-v2026.10.zip</code>) holding the files at their repository paths, a <code>MANIFEST.sha256</code>, the README, CHANGELOG and licence files. Its file list with sizes and SHA-256 is <code>zenodo/orchid-data.files.json</code> in the data repository.</p><h3>How to cite</h3><p>R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data</p><p>Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).</p><pre>@misc{orchid_data_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}</pre><p>Browse: <a href=\"https://orchid-project.org\">orchid-project.org</a> · data site <a href=\"https://data.orchid-project.org\">data.orchid-project.org</a> · source <a href=\"https://github.com/orchid-calphad/orchid-data\">github.com/orchid-calphad/orchid-data</a>.</p><p>This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge).</p>",
+  "creators": [
+   {
+    "name": "Arróyave, Raymundo",
+    "affiliation": "Texas A&M University",
+    "orcid": "0000-0001-7548-8686"
+   },
+   {
+    "name": "Saal, James",
+    "affiliation": "Citrine Informatics",
+    "orcid": "0000-0003-0935-158X"
+   },
+   {
+    "name": "Shin, Dongwon",
+    "affiliation": "Oak Ridge National Laboratory",
+    "orcid": "0000-0002-5797-3423"
+   }
+  ],
+  "keywords": [
+   "CALPHAD",
+   "thermodynamics",
+   "phase diagrams",
+   "phase equilibria",
+   "formation enthalpy",
+   "DFT",
+   "convex hull",
+   "materials science",
+   "alloys",
+   "AI-ready data"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "grants": [
+   {
+    "id": "10.13039/100000001::2608825"
+   }
+  ],
+  "communities": [
+   {
+    "identifier": "orchid"
+   }
+  ],
+  "related_identifiers": [
+   {
+    "identifier": "10.5281/zenodo.PENDING-literature",
+    "relation": "hasPart",
+    "resource_type": "dataset",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.5281/zenodo.PENDING-phase-diagrams",
+    "relation": "hasPart",
+    "resource_type": "dataset",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.5281/zenodo.PENDING-hulls",
+    "relation": "hasPart",
+    "resource_type": "dataset",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.5281/zenodo.PENDING-dft-benchmark",
+    "relation": "hasPart",
+    "resource_type": "dataset",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "https://orchid-project.org",
+    "relation": "isSupplementTo",
+    "scheme": "url"
+   },
+   {
+    "identifier": "https://data.orchid-project.org",
+    "relation": "isDocumentedBy",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.1016/j.calphad.2025.102833",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.1063/1.4812323",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.1007/s11837-013-0755-4",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.1038/npjcompumats.2015.10",
+    "relation": "references",
+    "scheme": "doi"
+   }
+  ],
+  "notes": "This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress."
+ }
+}

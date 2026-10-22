@@ -1,0 +1,99 @@
+{
+ "record": "orchid-data",
+ "title": "ORCHID data",
+ "version": "2026.10",
+ "bundle": "orchid-orchid-data-v2026.10.zip",
+ "include": [
+  "README.md",
+  "CHANGELOG.md",
+  "LICENSE",
+  "LICENSES.md",
+  "NOTICE.md",
+  "CITATION.cff",
+  "DATASET_CARD.md",
+  "parquet/MANIFEST.json",
+  "zenodo/README.md",
+  "zenodo/dois.json",
+  "zenodo/*.metadata.json"
+ ],
+ "exclude": [],
+ "n_files": 15,
+ "total_bytes": 130286,
+ "files": [
+  {
+   "path": "CHANGELOG.md",
+   "bytes": 6436,
+   "sha256": "45b60cec9f22ecbc18eceedc84b38a597dd3e2da9c020cf116aa91c01d6b82e6"
+  },
+  {
+   "path": "CITATION.cff",
+   "bytes": 2167,
+   "sha256": "3f5c0cb64f90af7fc0f60e95a034b0eeea55d8e847e0fdbb6b047037b10cac14"
+  },
+  {
+   "path": "DATASET_CARD.md",
+   "bytes": 36003,
+   "sha256": "51f828eb99030bb12c12817fe43c0f99491808d41be58087bff819db26d2ba4c"
+  },
+  {
+   "path": "LICENSE",
+   "bytes": 410,
+   "sha256": "585cba8653777424ed6fb985fcba3dc05b05af0e2d9b11e410a9c274fb977e51"
+  },
+  {
+   "path": "LICENSES.md",
+   "bytes": 752,
+   "sha256": "56c7b4a438df0088405b307a79555b9a5c1f757b769be4a6e27850e5bb43fadc"
+  },
+  {
+   "path": "NOTICE.md",
+   "bytes": 15478,
+   "sha256": "43da981da74f2ea0e22d368a8ae82e71b834358b43f39a62aaf310a671678e46"
+  },
+  {
+   "path": "README.md",
+   "bytes": 4508,
+   "sha256": "1b3844d645c35987ad60a641eb02095051c83debe807f492d10d8590529a4770"
+  },
+  {
+   "path": "parquet/MANIFEST.json",
+   "bytes": 22899,
+   "sha256": "16595999f6e198a2232be2806fbb22e0570a79c123fb3293ae2c8f9333401d40"
+  },
+  {
+   "path": "zenodo/README.md",
+   "bytes": 5696,
+   "sha256": "ba615d27ac0e28c60cbf6e4aa30301a2f6175f9bd16f5070d336de5ae4a6370c"
+  },
+  {
+   "path": "zenodo/dft-benchmark.metadata.json",
+   "bytes": 8210,
+   "sha256": "2cb630b964729389ed98d01c954f431ed542c3db1546ddb86640e23f217aecde"
+  },
+  {
+   "path": "zenodo/dois.json",
+   "bytes": 633,
+   "sha256": "db2303ee5349c7decd78b37c808b88a66297e8228d9c1308ac2a2f04b7f3b493"
+  },
+  {
+   "path": "zenodo/hulls.metadata.json",
+   "bytes": 6483,
+   "sha256": "f6a4071dee9a7456022ee4e7aaf5756610157f0d1a8bd7070afee0862decf27c"
+  },
+  {
+   "path": "zenodo/literature.metadata.json",
+   "bytes": 8124,
+   "sha256": "8376f2cd090f04a3d720207bfec0d71a7999eb81855bc1efd0b467172feb0567"
+  },
+  {
+   "path": "zenodo/orchid-data.metadata.json",
+   "bytes": 6977,
+   "sha256": "e8b92c57fda41bb7fc30ecf6bc317d8cb39c4014b788e31fa3495c76945c77e1"
+  },
+  {
+   "path": "zenodo/phase-diagrams.metadata.json",
+   "bytes": 5510,
+   "sha256": "b65d857e91fc847ecfaa1bb38d1ab3524cf153e7462756c5d365826a22ba4797"
+  }
+ ]
+}

@@ -8,6 +8,8 @@ deterministic checks. **Licence:** derived data CC BY 4.0 with attribution to OR
 papers; each `quote` is a single sentence reproduced under fair use to make the value verifiable. The source
 papers, page images, crops and full text are **not** redistributed.
 
+**Status.** Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+
 ## Files
 
 | file | content |
@@ -18,6 +20,7 @@ papers, page images, crops and full text are **not** redistributed.
 | `contexts.json` | paper id -> experimental-context items (samples, treatments, measurements), each with its quote and page |
 | `orchid-literature.jsonl.gz` | all records, one JSON object per line (same fields as `systems/*.json`) |
 | `orchid-literature.csv.gz` | all records flattened; nested fields are compact JSON strings |
+| `CITATION.txt`, `CITATION.cff` | how to cite this dataset (the CSV carries no metadata; a leading comment line would break CSV readers). `index.json` and every `systems/*.json` also carry a top-level `cite_as` object: text citation, BibTeX and Zenodo DOI of this dataset and of the umbrella record, and the sources to cite as well |
 | `QUALITY_FIXES.md`, `quality_fixes.json` | data-hardening report: duplicates merged, vocabulary maps, garbled fields, DFT-parity outlier classes (every changed record with before / after / evidence) |
 
 ## Record fields
