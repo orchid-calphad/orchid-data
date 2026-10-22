@@ -1,20 +1,19 @@
 # Al4Pu: enthalpy of formation
 
-> Enthalpy of formation of Al4Pu: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Al4Pu: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al4Pu.html · Markdown: https://data.orchid-project.org/compounds/Al4Pu.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+1 accepted literature formation-enthalpy value(s) (model 1).
 
 Systems: [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al4Pu reported in the literature (2)
+Table: Enthalpy of formation of Al4Pu reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -154.7 kJ/mol (basis unstated) | PuAl4 |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 11 |  |
 | -154.7 kJ/mol (basis unstated) | PuAl4 |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 11 |  |
 
 ## Sources

@@ -1,23 +1,21 @@
 # EuNi5: enthalpy of formation
 
-> Enthalpy of formation of EuNi5: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of EuNi5: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/EuNi5.html · Markdown: https://data.orchid-project.org/compounds/EuNi5.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 2, model 3); Materials Project -12.017 kJ/mol-atom (mp-aaaabhad); OQMD -21.135 kJ/mol-atom (oqmd-30109).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); Materials Project -12.017 kJ/mol-atom (mp-aaaabhad); OQMD -21.135 kJ/mol-atom (oqmd-30109).
 
 Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of EuNi5 reported in the literature (5)
+Table: Enthalpy of formation of EuNi5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15.6 kJ/mol (basis unstated) | Ni5Eu | 298.15 | experimental | Calorimetry | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5 |  |
-| -15.6 kJ/mol (basis unstated) | Ni5Eu | 298.15 | experimental | Calorimetry | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5 |  |
 | -14.47 kJ/mol-atom | Ni5Eu | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 6 |  |
-| -14.47 kJ/mol (basis unstated) | Ni5Eu |  | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 7, p. 13, row 4 |  |
 | -14.47 kJ/mol (basis unstated) | Ni5Eu |  | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 7, p. 13, row 4 |  |
 
 ## DFT formation energies

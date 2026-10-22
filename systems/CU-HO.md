@@ -89,29 +89,29 @@ Table: Invariant reactions reported in the literature for the Cu–Ho system (23
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1283.15 | Congruent: L ↔ CuHo | L: Ho 0.5; CuHo: Ho 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 21 |  |
-| 1283.15 | Congruent: L ↔ CuHo | L: Ho 0.5; CuHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 20 |  |
-| 1263.15 | Congruent: L ↔ Cu9Ho2 | L: Ho 0.182; Cu9Ho2: Ho 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 8 |  |
-| 1263.15 | Congruent: L ↔ Cu9Ho2 | L: Ho 0.182; Cu9Ho2: Ho 0.182 | model | [1] Wang 2009 | Table 3, p. 4, row 9 |  |
-| 1258.15 | Peritectic: L + Cu9Ho2 ↔ βCu5Ho | L: Ho 0.157; Cu9Ho2: Ho 0.182; βCu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 4 |  |
-| 1258.15 | Peritectic: L + Cu9Ho2 ↔ βCu5Ho | L: Ho 0.164; Cu9Ho2: Ho 0.182; βCu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 5 |  |
-| 1243.15 | Allotropic: αCu5Ho ↔ βCu5Ho | αCu5Ho: Cu 0.833333, Ho 0.166667; βCu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 6 |  |
-| 1243.15 | Allotropic: αCu5Ho ↔ βCu5Ho | αCu5Ho: Cu 0.833333, Ho 0.166667; βCu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 7 |  |
-| 1193.15 | Peritectic: L + Cu9Ho2 ↔ Cu7Ho2 | L: Ho 0.26; Cu9Ho2: Ho 0.182; Cu7Ho2: Ho 0.222 | model | [1] Wang 2009 | Table 3, p. 4, row 11 |  |
-| 1193.15 | Peritectic: L + Cu9Ho2 ↔ Cu7Ho2 | Cu9Ho2: Ho 0.182; Cu7Ho2: Ho 0.222 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 10 |  |
-| 1188.15 | Congruent: L ↔ Cu2Ho | L: Ho 0.333; Cu2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 16 |  |
-| 1163.15 | Congruent: L ↔ Cu2Ho | L: Ho 0.333; Cu2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 17 |  |
-| 1155.15 | Eutectic: L ↔ Cu2Ho + CuHo | L: Ho 0.356; Cu2Ho: Ho 0.333; CuHo: Ho 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 19 |  |
-| 1153.15 | Catatectic: Cu7Ho2 ↔ L + Cu9Ho2 | Cu7Ho2: Ho 0.222; L: Ho 0.282; Cu9Ho2: Ho 0.182 | model | [1] Wang 2009 | Table 3, p. 4, row 13 |  |
-| 1153.15 | Catatectic: Cu7Ho2 ↔ L + Cu9Ho2 | Cu7Ho2: Ho 0.222; Cu9Ho2: Ho 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 12 |  |
-| 1149.15 | Eutectic: L ↔ (Cu) + Cu5Ho | L: Ho 0.083; (Cu): Ho 0; Cu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 3 |  |
-| 1148.15 | Eutectic: L ↔ Cu2Ho + CuHo | L: Ho 0.352; Cu2Ho: Ho 0.333; CuHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 18 |  |
-| 1148.15 | Eutectic: L ↔ (Cu) + Cu5Ho | L: Ho 0.095; (Cu): Ho 2.000e-4; Cu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 2 |  |
-| 1143.15 | Eutectic: L ↔ Cu9Ho2 + Cu2Ho | L: Ho 0.314; Cu9Ho2: Ho 0.182; Cu2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 14 |  |
-| 1143.15 | Eutectic: L ↔ Cu9Ho2 + Cu2Ho | L: Ho 0.287; Cu9Ho2: Ho 0.182; Cu2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
-| 1137.15 | Eutectic: L ↔ (Cu) + Cu5Ho | (Cu): Ho 2.000e-4; Cu5Ho: Cu 0.833333, Ho 0.166667 | experimental | [1] Wang 2009; _cites Wunderlin 1963_ | Table 3, p. 4, row 1 |  |
-| 1103.15 | Eutectic: L ↔ CuHo + (Ho) | L: Ho 0.709; CuHo: Ho 0.5; (Ho): Ho 1 | model | [1] Wang 2009 | Table 3, p. 4, row 23 |  |
-| 1103.15 | Eutectic: L ↔ CuHo + (Ho) | L: Ho 0.7; CuHo: Ho 0.5; (Ho): Ho 1 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 22 |  |
+| 1283.15 | congruent melting: L ↔ CuHo | L: Ho 0.5; CuHo: Ho 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 21 |  |
+| 1283.15 | congruent melting: L ↔ CuHo | L: Ho 0.5; CuHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 20 |  |
+| 1263.15 | congruent melting: L ↔ Cu9Ho2 | L: Ho 0.182; Cu9Ho2: Ho 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 8 |  |
+| 1263.15 | congruent melting: L ↔ Cu9Ho2 | L: Ho 0.182; Cu9Ho2: Ho 0.182 | model | [1] Wang 2009 | Table 3, p. 4, row 9 |  |
+| 1258.15 | peritectic: L + Cu9Ho2 ↔ βCu5Ho | L: Ho 0.157; Cu9Ho2: Ho 0.182; βCu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 4 |  |
+| 1258.15 | peritectic: L + Cu9Ho2 ↔ βCu5Ho | L: Ho 0.164; Cu9Ho2: Ho 0.182; βCu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 5 |  |
+| 1243.15 | polymorphic: αCu5Ho ↔ βCu5Ho | αCu5Ho: Cu 0.833333, Ho 0.166667; βCu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 6 |  |
+| 1243.15 | polymorphic: αCu5Ho ↔ βCu5Ho | αCu5Ho: Cu 0.833333, Ho 0.166667; βCu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 7 |  |
+| 1193.15 | peritectic: L + Cu9Ho2 ↔ Cu7Ho2 | L: Ho 0.26; Cu9Ho2: Ho 0.182; Cu7Ho2: Ho 0.222 | model | [1] Wang 2009 | Table 3, p. 4, row 11 |  |
+| 1193.15 | peritectic: L + Cu9Ho2 ↔ Cu7Ho2 | Cu9Ho2: Ho 0.182; Cu7Ho2: Ho 0.222 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 10 |  |
+| 1188.15 | congruent melting: L ↔ Cu2Ho | L: Ho 0.333; Cu2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 16 |  |
+| 1163.15 | congruent melting: L ↔ Cu2Ho | L: Ho 0.333; Cu2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 17 |  |
+| 1155.15 | eutectic: L ↔ Cu2Ho + CuHo | L: Ho 0.356; Cu2Ho: Ho 0.333; CuHo: Ho 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 19 |  |
+| 1153.15 | metatectic/catatectic: Cu7Ho2 ↔ L + Cu9Ho2 | Cu7Ho2: Ho 0.222; L: Ho 0.282; Cu9Ho2: Ho 0.182 | model | [1] Wang 2009 | Table 3, p. 4, row 13 |  |
+| 1153.15 | metatectic/catatectic: Cu7Ho2 ↔ L + Cu9Ho2 | Cu7Ho2: Ho 0.222; Cu9Ho2: Ho 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 12 |  |
+| 1149.15 | eutectic: L ↔ (Cu) + Cu5Ho | L: Ho 0.083; (Cu): Ho 0; Cu5Ho: Ho 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 3 |  |
+| 1148.15 | eutectic: L ↔ Cu2Ho + CuHo | L: Ho 0.352; Cu2Ho: Ho 0.333; CuHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 18 |  |
+| 1148.15 | eutectic: L ↔ (Cu) + Cu5Ho | L: Ho 0.095; (Cu): Ho 2.000e-4; Cu5Ho: Ho 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 2 |  |
+| 1143.15 | eutectic: L ↔ Cu9Ho2 + Cu2Ho | L: Ho 0.314; Cu9Ho2: Ho 0.182; Cu2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 14 |  |
+| 1143.15 | eutectic: L ↔ Cu9Ho2 + Cu2Ho | L: Ho 0.287; Cu9Ho2: Ho 0.182; Cu2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
+| 1137.15 | eutectic: L ↔ (Cu) + Cu5Ho | (Cu): Ho 2.000e-4; Cu5Ho: Cu 0.833333, Ho 0.166667 | experimental | [1] Wang 2009; _cites Wunderlin 1963_ | Table 3, p. 4, row 1 |  |
+| 1103.15 | eutectic: L ↔ CuHo + (Ho) | L: Ho 0.709; CuHo: Ho 0.5; (Ho): Ho 1 | model | [1] Wang 2009 | Table 3, p. 4, row 23 |  |
+| 1103.15 | eutectic: L ↔ CuHo + (Ho) | L: Ho 0.7; CuHo: Ho 0.5; (Ho): Ho 1 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 3, p. 4, row 22 |  |
 
 ## Sources
 

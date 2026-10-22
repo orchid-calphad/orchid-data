@@ -1,16 +1,16 @@
 # AlCo: enthalpy of formation
 
-> Enthalpy of formation of AlCo: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AlCo: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlCo.html · Markdown: https://data.orchid-project.org/compounds/AlCo.md
 
-7 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 4); experimental median -60.1 kJ/mol-atom (n = 2); Materials Project -58.998 kJ/mol-atom (mp-aaaaaaky); OQMD -59.212 kJ/mol-atom (oqmd-1485020).
+6 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 3); experimental median -60.1 kJ/mol-atom (n = 2); Materials Project -58.998 kJ/mol-atom (mp-aaaaaaky); OQMD -59.212 kJ/mol-atom (oqmd-1485020).
 
 Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) · [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlCo reported in the literature (7)
+Table: Enthalpy of formation of AlCo reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -19,7 +19,6 @@ Table: Enthalpy of formation of AlCo reported in the literature (7)
 | -57.673 kJ/mol-atom | CoAl (B2) | 298 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 1 |  |
 | -58.46 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4 |  |
 | -58.37 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1 |  |
-| -58.37 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 2 |  |
 | -58.18 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3 |  |
 
 ## DFT formation energies

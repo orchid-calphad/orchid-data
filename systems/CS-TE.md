@@ -69,21 +69,21 @@ Table: Invariant reactions reported in the literature for the Cs–Te system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1093 | Congruent melting: β-Cs2Te -> L | β-Cs2Te: Cs 0.666667, Te 0.333333; L: Cs 0.666667, Te 0.333333 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 2 |  |
-| 934 | Peritectic: Cs5Te3 -> β-Cs2Te + L | Cs5Te3: Cs 0.625, Te 0.375; β-Cs2Te: Cs 0.666667, Te 0.333333 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 3 |  |
-| 895 | Structural transition: α-Cs2Te -> β-Cs2Te | α-Cs2Te: Cs 0.666667, Te 0.333333; β-Cs2Te: Cs 0.666667, Te 0.333333 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 1 |  |
-| 723 | Peritectic: β-CsTe -> Cs5Te3 + L | β-CsTe: Cs 0.510204, Te 0.489796; Cs5Te3: Cs 0.625, Te 0.375 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 5 |  |
-| 673 | Structural transition: α-CsTe -> β-CsTe | α-CsTe: Cs 0.510204, Te 0.489796; β-CsTe: Cs 0.510204, Te 0.489796 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 4 |  |
-| 668 | Congruent melting: Cs2Te3 -> L | Cs2Te3: Cs 0.4, Te 0.6; L: Cs 0.4, Te 0.6 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 7 |  |
+| 1093 | congruent melting: β-Cs2Te -> L | β-Cs2Te: Cs 0.666667, Te 0.333333; L: Cs 0.666667, Te 0.333333 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 2 |  |
+| 934 | peritectic: Cs5Te3 -> β-Cs2Te + L | Cs5Te3: Cs 0.625, Te 0.375; β-Cs2Te: Cs 0.666667, Te 0.333333 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 3 |  |
+| 895 | polymorphic: α-Cs2Te -> β-Cs2Te | α-Cs2Te: Cs 0.666667, Te 0.333333; β-Cs2Te: Cs 0.666667, Te 0.333333 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 1 |  |
+| 723 | peritectic: β-CsTe -> Cs5Te3 + L | β-CsTe: Cs 0.510204, Te 0.489796; Cs5Te3: Cs 0.625, Te 0.375 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 5 |  |
+| 673 | polymorphic: α-CsTe -> β-CsTe | α-CsTe: Cs 0.510204, Te 0.489796; β-CsTe: Cs 0.510204, Te 0.489796 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 4 |  |
+| 668 | congruent melting: Cs2Te3 -> L | Cs2Te3: Cs 0.4, Te 0.6; L: Cs 0.4, Te 0.6 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 7 |  |
 | 631 | eutectic |  | experimental | [1] Thi 2015 | p. 3 | “For the eutectic reaction between CsTe and Cs2Te3, again the selected De Boer and Cordfunke value 618 75 K is 13 K below the 631 K measured by Chuntonov et al.” |
-| 618 | Eutectic: CsTe + Cs2Te3 -> L | CsTe: Cs 0.510204, Te 0.489796; Cs2Te3: Cs 0.4, Te 0.6 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 6 |  |
+| 618 | eutectic: CsTe + Cs2Te3 -> L | CsTe: Cs 0.510204, Te 0.489796; Cs2Te3: Cs 0.4, Te 0.6 | experimental | [1] Thi 2015; _cites R 1995_ | Table 1, p. 3, row 6 |  |
 | 536 | peritectic: CsTe52L þTe |  | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | p. 2 | “- On the Te rich side, Chuntonov et al. \[16\] report an eutectic reaction L-CsTe5 þCs2Te5 at 488 K and a peritectic reaction CsTe52L þTe at 536 K.” |
-| 536 | Peritectic: CsTe4 -> Te + L | CsTe4: Cs 0.2, Te 0.8 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 10 |  |
+| 536 | peritectic: CsTe4 -> Te + L | CsTe4: Cs 0.2, Te 0.8 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 10 |  |
 | 536 | peritectic |  | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | p. 3 | “For the same reason, the invariant temperature 536 K measured by Chuntonov et al. \[16\] is attributed to the peritectic decomposition of CsTe4.” |
-| 508 | Peritectic: Cs2Te5 -> L + Cs2Te3 | Cs2Te5: Cs 0.285714, Te 0.714286; Cs2Te3: Cs 0.4, Te 0.6 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 8 |  |
+| 508 | peritectic: Cs2Te5 -> L + Cs2Te3 | Cs2Te5: Cs 0.285714, Te 0.714286; Cs2Te3: Cs 0.4, Te 0.6 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 8 |  |
 | 498 | peritectic |  | experimental | [1] Thi 2015 | p. 3 | “In the composition range of this peritectic reaction, Adamson and Leighty have reported an experimental temperature of 498 K.” |
 | 488 | eutectic |  | experimental | [1] Thi 2015 | p. 3 | “The eutectic temperature 488 K between Cs2Te5 and CsTe4 is from Chuntonov et al. but wrongly attributed by these authors to a reaction between Cs2Te5 and CsTe5.” |
-| 488 | Eutectic: CsTe4 + Cs2Te5 -> L | CsTe4: Cs 0.2, Te 0.8; Cs2Te5: Cs 0.285714, Te 0.714286 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 9 |  |
+| 488 | eutectic: CsTe4 + Cs2Te5 -> L | CsTe4: Cs 0.2, Te 0.8; Cs2Te5: Cs 0.285714, Te 0.714286 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | Table 1, p. 3, row 9 |  |
 | 488 | eutectic: L-CsTe5 þCs2Te5 |  | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | p. 2 | “- On the Te rich side, Chuntonov et al. \[16\] report an eutectic reaction L-CsTe5 þCs2Te5 at 488 K and a peritectic reaction CsTe52L þTe at 536 K.” |
 
 ## Formation enthalpies
@@ -95,9 +95,9 @@ Table: Enthalpies of formation, Cs–Te system (5)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Cs2Te | [Cs2Te](https://data.orchid-project.org/compounds/Cs2Te.html) | -120.467 kJ/mol-atom ± 3.2 | 298.15 | experimental | -109.246 (mp-aaabgqtv) | -99.985 (oqmd-1343671) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
-| Cs5Te3 | [Cs5Te3](https://data.orchid-project.org/compounds/Cs5Te3.html) | -117.775 kJ/mol-atom ± 8.3 | 298.15 ({'op': '>', 'value_K': 298.15}) | model | -107.426 (mp-aaacppvd) | -94.605 (oqmd-6410) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
+| Cs5Te3 | [Cs5Te3](https://data.orchid-project.org/compounds/Cs5Te3.html) | -117.775 kJ/mol-atom ± 8.3 | 298.15 (>) | model | -107.426 (mp-aaacppvd) | -94.605 (oqmd-6410) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 | Cs₂Te |  | -361.4 kJ/mol (basis unstated) ± 3.2 | 298.15 | experimental |  |  | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
-| Cs₅Te₃ |  | -942.2 kJ/mol (basis unstated) ± 8.3 | 298.15 ({'op': '>', 'value_K': 298.15}) | model |  |  | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
+| Cs₅Te₃ |  | -942.2 kJ/mol (basis unstated) ± 8.3 | 298.15 (>) | model |  |  | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 | UNKNOWN |  | -942200 unknown ± 8300 | 298.15 | experimental |  |  | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 8 |  |
 
 ## Other properties
@@ -111,15 +111,15 @@ Table: Phase transition, Cs–Te system
 | Phase transition | 393 K | 393 | CsTe4 | experimental | [1] Thi 2015 | p. 2 | “The existence of CsTe4 is confirmed and structural transitions in this compound are identified at 393 K and 498 K.” |
 | Phase transition | 498 K | 498 | CsTe4 | experimental | [1] Thi 2015 | p. 2 | “The existence of CsTe4 is confirmed and structural transitions in this compound are identified at 393 K and 498 K.” |
 | Phase transition | 508 K | 508 | Cs2Te5 | experimental | [1] Thi 2015 | p. 3 | “Cs2Te5 melts incongruently at 508 K.” |
-| Phase transition | 515 K | 515 | second order | experimental | [1] Thi 2015 | p. 3 | “A second order transition in Cs5Te3 is observed around 515 K.” |
+| Phase transition | 515 K | 515 | other | experimental | [1] Thi 2015 | p. 3 | “A second order transition in Cs5Te3 is observed around 515 K.” |
 | Phase transition | 668 K | 668 | Cs2Te3 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | p. 2 | “- The melting of Cs2Te3 was found at 668 K in \[16\] instead of 707 K in \[14\].” |
 | Phase transition | 668 K | 668 | Cs2Te3 | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | p. 3 | “The melting temperature 668 K of Cs2Te3 is taken from Chuntonov et al. \[16\].” |
 | Phase transition | 707 K | 707 | Cs2Te3 | experimental | [1] Thi 2015; _cites Adamson 1983_ [doi](https://doi.org/10.1016/0022-3115%2883%2990272-6) | p. 2 | “- The melting of Cs2Te3 was found at 668 K in \[16\] instead of 707 K in \[14\].” |
 | Phase transition | 707 K | 707 | Cs2Te3 | experimental | [1] Thi 2015 | p. 3 | “As already mentioned for the high Te alloy, this value is judged more reliable than the measurement of Adamson and Leighty (707 K).” |
-| Phase transition | 723 K | 723 | liquidus | experimental | [1] Thi 2015; _cites Adamson 1983_ [doi](https://doi.org/10.1016/0022-3115%2883%2990272-6) | p. 2 | “- The liquidus value of the 90 at% Te alloy measured at 723 K by Adamson and Leighty is considered highly unlikely as it is the same value as the melting temperature of pure tellurium.” |
-| Phase transition | 953 K | 953 | congruent | experimental | [1] Thi 2015; _cites Bergmann 1937_ [doi](https://doi.org/10.1002/zaac.19372310306) | p. 2 | “In 1937, Bergmann \[27\] reported a congruent melting point of Cs2Te at 953 K which is nowadays judged as a too low value.” |
+| Phase transition | 723 K | 723 | other | experimental | [1] Thi 2015; _cites Adamson 1983_ [doi](https://doi.org/10.1016/0022-3115%2883%2990272-6) | p. 2 | “- The liquidus value of the 90 at% Te alloy measured at 723 K by Adamson and Leighty is considered highly unlikely as it is the same value as the melting temperature of pure tellurium.” |
+| Phase transition | 953 K | 953 | congruent transformation | experimental | [1] Thi 2015; _cites Bergmann 1937_ [doi](https://doi.org/10.1002/zaac.19372310306) | p. 2 | “In 1937, Bergmann \[27\] reported a congruent melting point of Cs2Te at 953 K which is nowadays judged as a too low value.” |
 | Phase transition | 973 K | 973 |  | experimental | [1] Thi 2015; _cites Adamson 1983_ [doi](https://doi.org/10.1016/0022-3115%2883%2990272-6) | p. 2 | “A specimen of Cs2Te which have been purposely contaminated by Adamson and Leighty \[14\] started melting at approximately 973 K.” |
-| Phase transition | 1093 K | 1093 | congruent | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | p. 3 | “Cs2Te presents a structural transition at 895 72 K \[17\] and congruent melting at 1093 K measured by Chuntonov et al. \[16\].” |
+| Phase transition | 1093 K | 1093 | congruent transformation | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | p. 3 | “Cs2Te presents a structural transition at 895 72 K \[17\] and congruent melting at 1093 K measured by Chuntonov et al. \[16\].” |
 
 ### Heat capacity / entropy / enthalpy (6)
 

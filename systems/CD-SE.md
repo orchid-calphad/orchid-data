@@ -83,11 +83,11 @@ Table: Phase equilibrium, Cd–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1512 | congruent; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Reisman 1962_ [doi](https://doi.org/10.1021/j100817a032) | Table III, p. 5, row 1 |  |
-| Phase composition |  | 1531 | congruent; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Mason 1961_ | Table III, p. 5, row 4 |  |
-| Phase composition |  | 1537 | congruent; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Sysoev 1967_ | Table III, p. 5, row 2 |  |
-| Phase composition |  | 1538 | congruent; _liquid: Se 0.5; CdSe: Se 0.5_ | unspecified | [1] Liu 2012 | Table III, p. 5, row 5 |  |
-| Phase composition |  | 1623 | congruent; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Chikashige 1917_ | Table III, p. 5, row 3 |  |
+| Phase composition |  | 1512 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Reisman 1962_ [doi](https://doi.org/10.1021/j100817a032) | Table III, p. 5, row 1 |  |
+| Phase composition |  | 1531 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Mason 1961_ | Table III, p. 5, row 4 |  |
+| Phase composition |  | 1537 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Sysoev 1967_ | Table III, p. 5, row 2 |  |
+| Phase composition |  | 1538 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | unspecified | [1] Liu 2012 | Table III, p. 5, row 5 |  |
+| Phase composition |  | 1623 | congruent melting; _liquid: Se 0.5; CdSe: Se 0.5_ | experimental | [1] Liu 2012; _cites Chikashige 1917_ | Table III, p. 5, row 3 |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 

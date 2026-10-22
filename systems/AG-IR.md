@@ -62,8 +62,8 @@ Table: Crystal structure, Ag–Ir system
 | Lattice a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Ir 0_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 1 |  |
 | Lattice a | 0.38391 nm | 298.15 | Ir(s); _Ir(s): Ag 0, Ir 1_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 2 |  |
 | Lattice a | 0.38391 nm | 298.15 | Ir(s); _Ir(s): Ag 0, Ir 1_ | unspecified | [2] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 2 |  |
-| lattice lattice parameter | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Ir 0_ | unspecified | [2] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 1 |  |
-| lattice lattice parameter | 0.38391 nm | 298.15 | Ir(s); _Ir(s): Ag 0, Ir 1_ | unspecified | [2] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 2 |  |
+| lattice unspecified axis | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Ir 0_ | unspecified | [2] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 1 |  |
+| lattice unspecified axis | 0.38391 nm | 298.15 | Ir(s); _Ir(s): Ag 0, Ir 1_ | unspecified | [2] Karakaya 1986; _cites ref. 1_ | Table 1, p. 1, row 2 |  |
 
 ## Sources
 

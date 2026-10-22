@@ -1,34 +1,26 @@
 # Nd3Ru: enthalpy of formation
 
-> Enthalpy of formation of Nd3Ru: 16 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Nd3Ru: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Nd3Ru.html · Markdown: https://data.orchid-project.org/compounds/Nd3Ru.md
 
-16 accepted literature formation-enthalpy value(s) (model 10, DFT 6); Materials Project -18.787 kJ/mol-atom (mp-aaackyoa); OQMD -18.159 kJ/mol-atom (oqmd-1437319).
+8 accepted literature formation-enthalpy value(s) (model 5, DFT 3); Materials Project -18.787 kJ/mol-atom (mp-aaackyoa); OQMD -18.159 kJ/mol-atom (oqmd-1437319).
 
 Systems: [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Nd3Ru reported in the literature (16)
+Table: Enthalpy of formation of Nd3Ru reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -25.095 kJ/mol-atom | Nd3Ru |  | model | Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 5 |  |
-| -25.095 kJ/mol-atom | Nd3Ru |  | model | Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 5 |  |
-| -21.846 kJ/mol-atom | Nd3Ru |  | model | Modified Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 9 |  |
 | -21.846 kJ/mol-atom | Nd3Ru |  | model | Modified Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 9 |  |
 | -16.974 kJ/mol-atom | Nd3Ru |  | model | OptimizationCM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 4 |  |
-| -16.974 kJ/mol-atom | Nd3Ru |  | model | OptimizationCM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 4 |  |
-| -15.183 kJ/mol-atom | Nd3Ru |  | model | OptimizationEM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 3 |  |
 | -15.183 kJ/mol-atom | Nd3Ru |  | model | OptimizationEM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 3 |  |
 | -15.08 kJ/mol-atom | Nd3Ru |  | model | OptimizationQM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 2 |  |
-| -15.08 kJ/mol-atom | Nd3Ru |  | model | OptimizationQM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 2 |  |
-| -21.451 kJ/mol-atom | Nd3Ru | 0 | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 6 |  |
 | -21.451 kJ/mol-atom | Nd3Ru | 0 | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 6 |  |
 | -18.79 kJ/mol-atom | Nd3Ru | 0 | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 7 |  |
-| -18.79 kJ/mol-atom | Nd3Ru | 0 | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 7 |  |
-| -18.117 kJ/mol-atom | Nd3Ru | 0 | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 7, row 8 |  |
 | -18.117 kJ/mol-atom | Nd3Ru | 0 | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 7, row 8 |  |
 
 ## DFT formation energies

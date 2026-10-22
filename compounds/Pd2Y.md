@@ -1,20 +1,19 @@
 # Pd2Y: enthalpy of formation
 
-> Enthalpy of formation of Pd2Y: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Pd2Y: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pd2Y.html · Markdown: https://data.orchid-project.org/compounds/Pd2Y.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -58.096 kJ/mol-atom (mp-aaacimin); OQMD -77.774 kJ/mol-atom (oqmd-1435845).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -58.096 kJ/mol-atom (mp-aaacimin); OQMD -77.774 kJ/mol-atom (oqmd-1435845).
 
 Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pd2Y reported in the literature (2)
+Table: Enthalpy of formation of Pd2Y reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -94.33 kJ/mol-atom | Pd2Y | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 60 |  |
 | -94.33 kJ/mol-atom | Pd2Y | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 60 |  |
 
 ## DFT formation energies

@@ -1,10 +1,10 @@
 # Ti system
 
-> Ti system: 71 accepted literature values (heat capacity / entropy / enthalpy 48, formation 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti system: 51 accepted literature values (heat capacity / entropy / enthalpy 33, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI.html · Markdown: https://data.orchid-project.org/systems/TI.md
 
-71 accepted literature values from 1 paper(s) (experimental 15, model 50, DFT 6); 0 calculated phase diagram(s).
+51 accepted literature values from 1 paper(s) (experimental 11, model 34, DFT 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI.json) · [CSV](https://data.orchid-project.org/systems/TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI) · [Markdown](https://data.orchid-project.org/systems/TI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
-| model | 50 |
+| experimental | 11 |
+| model | 34 |
 | DFT | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 23 |
-| heat capacity / entropy / enthalpy | 48 |
+| formation | 18 |
+| heat capacity / entropy / enthalpy | 33 |
 
 ## Formation enthalpies
 
@@ -47,48 +47,33 @@ Table: Enthalpies of formation, Ti system (13)
 
 ## Other properties
 
-### Formation (10)
+### Formation (5)
 
 Table: Formation, Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfusS°_ | 7.355 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 7.355 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 7.481 J/mol (basis unstated)/K ± 0.25 |  | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
 | Entropy of formation; _printed: ΔfusS°_ | 7.481 J/mol (basis unstated)/K ± 0.25 |  | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
 | Entropy of formation; _printed: ΔfusS°_ | 7.295 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 7.295 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
 | Entropy of formation; _printed: ΔfusS°_ | 7.288 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 7.288 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 6.823 J/mol (basis unstated)/K ± 0.25 | 298.15 | Ti | experimental | [1] Hu 2020; _cites Treverton 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980029-0) | Table 3, p. 4, row 16 |  |
 | Entropy of formation; _printed: ΔfusS°_ | 6.823 J/mol (basis unstated)/K ± 0.25 | 298.15 | Ti | experimental | [1] Hu 2020; _cites Treverton 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980029-0) | Table 3, p. 4, row 16 |  |
 
-### Heat capacity / entropy / enthalpy (48)
+### Heat capacity / entropy / enthalpy (33)
 
 Table: Heat capacity / entropy / enthalpy, Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: ΔShcp-bcc_ | 3.615 J/(mol·K) |  | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
-| Entropy; _printed: ΔS hcp-bcc_ | 3.615 J/(mol·K) |  | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
 | Entropy; _printed: ΔS hcp-bcc_ | 3.58 J/(mol·K) |  | Ti | experimental | [1] Hu 2020; _cites Cezairliyan 1978_ [doi](https://doi.org/10.6028/jres.083.007) | Table 3, p. 4, row 1 |  |
-| Entropy; _printed: ΔShcp-bcc_ | 3.58 J/(mol·K) |  | Ti | experimental | [1] Hu 2020; _cites Cezairliyan 1978_ [doi](https://doi.org/10.6028/jres.083.007) | Table 3, p. 4, row 1 |  |
 | Entropy; _printed: ΔS hcp-bcc_ | 3.576 J/(mol·K) ± 0.172 |  | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
-| Entropy; _printed: ΔShcp-bcc_ | 3.576 J/(mol·K) ± 0.172 |  | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
 | Entropy; _printed: ΔShcp-bcc_ | 3.578 J/(mol·K) |  | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
-| Entropy; _printed: ΔS hcp-bcc_ | 3.578 J/(mol·K) |  | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
 | Entropy; _printed: ΔShcp-bcc_ | 3.6104 J/(mol·K) |  | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
-| Entropy; _printed: ΔS hcp-bcc_ | 3.6104 J/(mol·K) |  | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
-| Entropy; _printed: S°(298.15 K)_ | 30.6 J/mol (basis unstated)/K | 298.15 | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
 | Entropy; _printed: S°(298.15 K)_ | 30.6 J/mol (basis unstated)/K | 298.15 | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
 | Entropy; _printed: S°(298.15 K)_ | 30.686 J/mol (basis unstated)/K ± 0.08 | 298.15 | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
-| Entropy; _printed: S°(298.15 K)_ | 30.686 J/mol (basis unstated)/K ± 0.08 | 298.15 | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
-| Entropy; _printed: S°(298.15 K)_ | 30.699 J/mol (basis unstated)/K | 298.15 | Ti | experimental | [1] Hu 2020; _cites Kothen 1952_ | Table 3, p. 4, row 7 |  |
 | Entropy; _printed: S°(298.15 K)_ | 30.699 J/mol (basis unstated)/K | 298.15 | Ti | experimental | [1] Hu 2020; _cites Kothen 1952_ | Table 3, p. 4, row 7 |  |
 | Entropy; _printed: S°(298.15 K)_ | 30.759 J/mol (basis unstated)/K ± 0.2 | 298.15 | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
-| Entropy; _printed: S°(298.15 K)_ | 30.759 J/mol (basis unstated)/K ± 0.2 | 298.15 | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
-| Entropy; _printed: S°(298.15 K)_ | 30.72 J/mol (basis unstated)/K | 298.15 | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
 | Entropy; _printed: S°(298.15 K)_ | 30.72 J/mol (basis unstated)/K | 298.15 | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
 | Heat capacity; _printed: γ_ | 3.51 mJ/mol⋅K |  | bcc | model | [1] Hu 2020 | Table 2, p. 3, row 24 |  |
 | Heat capacity; _printed: γ_ | 2.2 mJ/mol⋅K |  | fcc | model | [1] Hu 2020 | Table 2, p. 3, row 27 |  |
@@ -109,14 +94,9 @@ Table: Heat capacity / entropy / enthalpy, Ti system
 | Heat capacity; _printed: γ_ | 4.01 mJ/mol⋅K |  | liquid-amorphous | model | [1] Hu 2020 | Table 2, p. 3, row 35 |  |
 | Heat capacity; _printed: γ_ | 3.51 mJ/mol⋅K |  | ω | model | [1] Hu 2020 | Table 2, p. 3, row 32 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4824 J/mol | 298.15 | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
-| Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4824 J/mol | 298.15 | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
-| Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4822 J/mol ± 10 | 298.15 | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4822 J/mol ± 10 | 298.15 | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4813 J/mol | 298.15 | Ti | experimental | [1] Hu 2020; _cites Kothen 1952_ | Table 3, p. 4, row 7 |  |
-| Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4813 J/mol | 298.15 | Ti | experimental | [1] Hu 2020; _cites Kothen 1952_ | Table 3, p. 4, row 7 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4830 J/mol | 298.15 | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
-| Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4830 J/mol | 298.15 | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
-| Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4824 J/mol | 298.15 | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4824 J/mol | 298.15 | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
 
 ## Sources

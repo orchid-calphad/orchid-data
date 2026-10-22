@@ -41,64 +41,64 @@ Table: Invariant reactions reported in the literature for the Ga–Se system (58
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1293 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Klemm 1934_ [doi](https://doi.org/10.1002/zaac.19342190106) | Table 2, p. 5, row 32 |  |
-| 1293 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 34 |  |
-| 1291 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.606; L: Se 0.606 | experimental | [1] Zheng 2008; _cites Shtanov 1998_ | Table 2, p. 5, row 41 |  |
-| 1283 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6004; L: Se 0.599 | model | [1] Zheng 2008 | Table 2, p. 5, row 42 |  |
-| 1283 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Palatnik 1965_ | Table 2, p. 5, row 33 |  |
-| 1283 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Mikkelsen 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990397-2) | Table 2, p. 5, row 39 |  |
-| 1283 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 38 |  |
-| 1283 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Palatnik 1966_ | Table 2, p. 5, row 35 |  |
-| 1283 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Dieleman 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990135-4) | Table 2, p. 5, row 36 |  |
-| 1280 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 40 |  |
-| 1280 | Critical: L -> L1 + L2 | L: Se 0.253 | model | [1] Zheng 2008 | Table 2, p. 5, row 4 |  |
-| 1279 | Critical: L -> L1 + L2 | L: Se 0.243 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 2 |  |
-| 1278 | Congruent: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 37 |  |
-| 1268 | Critical: L -> L1 + L2 | L: Se 0.23 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 1 |  |
-| 1267 | Critical: L -> L1 + L2 | L: Se 0.24 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 3 |  |
-| 1233 | Congruent: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 16 |  |
-| 1233 | Congruent: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Klemm 1934_ [doi](https://doi.org/10.1002/zaac.19342190106) | Table 2, p. 5, row 15 |  |
-| 1223 | Congruent: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Palatnik 1966_ | Table 2, p. 5, row 17 |  |
-| 1218 | Congruent: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 20 |  |
-| 1211 | Congruent: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 19 |  |
-| 1211 | Congruent: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Dieleman 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990135-4) | Table 2, p. 5, row 18 |  |
-| 1210 | Congruent: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | model | [1] Zheng 2008 | Table 2, p. 5, row 23 |  |
-| 1210 | Congruent: GaSe -> L | GaSe: Se 0.482; L: Se 0.482 | experimental | [1] Zheng 2008; _cites Shtanov 1998_ | Table 2, p. 5, row 22 |  |
-| 1210 | Congruent: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 21 |  |
-| 1190 | Monotectic: L1 + L2 -> GaSe | L1: Se 0.075; L2: Se 0.455; GaSe: Se 0.5 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 7 |  |
-| 1188 | Monotectic: L1 + L2 -> GaSe | L1: Se 0.055; L2: Se 0.44; GaSe: Se 0.5 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 5 |  |
-| 1187 | Monotectic: L1 + L2 -> GaSe | L1: Se 0.082; L2: Se 0.42; GaSe: Se 0.5 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 6 |  |
-| 1185 | Eutectic (or peritectic): GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.6; L: Se 0.55 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 24 |  |
-| 1185 | Monotectic: L1 + L2 -> GaSe | L1: Se 0.078; L2: Se 0.412; GaSe: Se 0.5 | model | [1] Zheng 2008 | Table 2, p. 5, row 9 |  |
-| 1185 | Monotectic: L1 + L2 -> GaSe | GaSe: Se 0.48 | experimental | [1] Zheng 2008; _cites Shtanov 1998_ | Table 2, p. 5, row 8 |  |
-| 1163 | Eutectic (or peritectic): GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.595; L: Se 0.554 | model | [1] Zheng 2008 | Table 2, p. 5, row 31 |  |
-| 1163 | Eutectic (or peritectic): GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.6; L: Se 0.55 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 28 |  |
-| 1162 | Eutectic (or peritectic): GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.6; L: Se 0.551 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 29 |  |
-| 1161 | Eutectic (or peritectic): GaSe + α-Ga2Se3 -> L | GaSe: Ga 0.5, Se 0.5; α-Ga2Se3: Ga 0.4, Se 0.6; L: Se 0.56 | experimental | [1] Zheng 2008; _cites Shtanov 1998_ | Table 2, p. 5, row 30 |  |
-| 1160 | Eutectic (or peritectic): GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.594; L: Se 0.551 | experimental | [1] Zheng 2008; _cites Dieleman 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990135-4) | Table 2, p. 5, row 26 |  |
-| 1157 | Eutectic (or peritectic): GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.6; L: Se 0.55 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 27 |  |
-| 1153 | Eutectic (or peritectic): GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.5976; L: Se 0.554 | experimental | [1] Zheng 2008; _cites Palatnik 1966_ | Table 2, p. 5, row 25 |  |
-| 1004 | Polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | experimental | [1] Zheng 2008; _cites Muhsin 2003_ | Table 2, p. 5, row 49 |  |
-| 1003 | Polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 45 |  |
-| 1003 | Polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | experimental | [1] Zheng 2008; _cites Mikkelsen 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990397-2) | Table 2, p. 5, row 46 |  |
-| 994 | Polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | experimental | [1] Zheng 2008; _cites Muhsin 2003_ | Table 2, p. 5, row 48 |  |
-| 968 | Polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.605; α-Ga2Se3: Se 0.605 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 47 |  |
-| 967 | Polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | model | [1] Zheng 2008 | Table 2, p. 5, row 50 |  |
-| 918 | Peritectic: β-Ga2Se3 + α-Ga2Se3 -> L | β-Ga2Se3: Se 0.607; α-Ga2Se3: Se 0.61 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 51 |  |
-| 918 | Peritectic: β-Ga2Se3 + α-Ga2Se3 -> L | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.61; L: Se 0.983 | model | [1] Zheng 2008 | Table 2, p. 5, row 52 |  |
-| 898 | Eutectoid: GaSe + α-Ga2Se3 -> β-Ga2Se3 | GaSe: Se 0.5; α-Ga2Se3: Se 0.599; β-Ga2Se3: Se 0.602 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 43 |  |
-| 898 | Eutectoid: GaSe + α-Ga2Se3 -> β-Ga2Se3 | GaSe: Se 0.5; α-Ga2Se3: Se 0.593; β-Ga2Se3: Se 0.6 | model | [1] Zheng 2008 | Table 2, p. 5, row 44 |  |
-| 494 | Eutectic (or peritectic): β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | model | [1] Zheng 2008 | Table 2, p. 5, row 58 |  |
-| 493 | Eutectic (or peritectic): β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 55 |  |
-| 493 | Eutectic (or peritectic): β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 56 |  |
-| 493 | Eutectic (or peritectic): β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 53 |  |
-| 493 | Eutectic (or peritectic): β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 57 |  |
-| 478 | Eutectic (or peritectic): β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6024; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Palatnik 1966_ | Table 2, p. 5, row 54 |  |
-| 303 | Eutectic (or peritectic): Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 13 |  |
-| 303 | Eutectic (or peritectic): Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 10 |  |
-| 303 | Eutectic (or peritectic): Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 12 |  |
-| 303 | Eutectic (or peritectic): Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | model | [1] Zheng 2008 | Table 2, p. 5, row 14 |  |
-| 303 | Eutectic (or peritectic): Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 11 |  |
+| 1293 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Klemm 1934_ [doi](https://doi.org/10.1002/zaac.19342190106) | Table 2, p. 5, row 32 |  |
+| 1293 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 34 |  |
+| 1291 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.606; L: Se 0.606 | experimental | [1] Zheng 2008; _cites Shtanov 1998_ | Table 2, p. 5, row 41 |  |
+| 1283 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6004; L: Se 0.599 | model | [1] Zheng 2008 | Table 2, p. 5, row 42 |  |
+| 1283 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Palatnik 1965_ | Table 2, p. 5, row 33 |  |
+| 1283 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Mikkelsen 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990397-2) | Table 2, p. 5, row 39 |  |
+| 1283 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 38 |  |
+| 1283 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Palatnik 1966_ | Table 2, p. 5, row 35 |  |
+| 1283 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Dieleman 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990135-4) | Table 2, p. 5, row 36 |  |
+| 1280 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 40 |  |
+| 1280 | critical point: L -> L1 + L2 | L: Se 0.253 | model | [1] Zheng 2008 | Table 2, p. 5, row 4 |  |
+| 1279 | critical point: L -> L1 + L2 | L: Se 0.243 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 2 |  |
+| 1278 | congruent melting: α-Ga2Se3 -> L | α-Ga2Se3: Se 0.6; L: Se 0.6 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 37 |  |
+| 1268 | critical point: L -> L1 + L2 | L: Se 0.23 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 1 |  |
+| 1267 | critical point: L -> L1 + L2 | L: Se 0.24 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 3 |  |
+| 1233 | congruent melting: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 16 |  |
+| 1233 | congruent melting: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Klemm 1934_ [doi](https://doi.org/10.1002/zaac.19342190106) | Table 2, p. 5, row 15 |  |
+| 1223 | congruent melting: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Palatnik 1966_ | Table 2, p. 5, row 17 |  |
+| 1218 | congruent melting: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 20 |  |
+| 1211 | congruent melting: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 19 |  |
+| 1211 | congruent melting: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Dieleman 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990135-4) | Table 2, p. 5, row 18 |  |
+| 1210 | congruent melting: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | model | [1] Zheng 2008 | Table 2, p. 5, row 23 |  |
+| 1210 | congruent melting: GaSe -> L | GaSe: Se 0.482; L: Se 0.482 | experimental | [1] Zheng 2008; _cites Shtanov 1998_ | Table 2, p. 5, row 22 |  |
+| 1210 | congruent melting: GaSe -> L | GaSe: Se 0.5; L: Se 0.5 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 21 |  |
+| 1190 | monotectic: L1 + L2 -> GaSe | L1: Se 0.075; L2: Se 0.455; GaSe: Se 0.5 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 7 |  |
+| 1188 | monotectic: L1 + L2 -> GaSe | L1: Se 0.055; L2: Se 0.44; GaSe: Se 0.5 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 5 |  |
+| 1187 | monotectic: L1 + L2 -> GaSe | L1: Se 0.082; L2: Se 0.42; GaSe: Se 0.5 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 6 |  |
+| 1185 | other: GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.6; L: Se 0.55 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 24 |  |
+| 1185 | monotectic: L1 + L2 -> GaSe | L1: Se 0.078; L2: Se 0.412; GaSe: Se 0.5 | model | [1] Zheng 2008 | Table 2, p. 5, row 9 |  |
+| 1185 | monotectic: L1 + L2 -> GaSe | GaSe: Se 0.48 | experimental | [1] Zheng 2008; _cites Shtanov 1998_ | Table 2, p. 5, row 8 |  |
+| 1163 | other: GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.595; L: Se 0.554 | model | [1] Zheng 2008 | Table 2, p. 5, row 31 |  |
+| 1163 | other: GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.6; L: Se 0.55 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 28 |  |
+| 1162 | other: GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.6; L: Se 0.551 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 29 |  |
+| 1161 | other: GaSe + α-Ga2Se3 -> L | GaSe: Ga 0.5, Se 0.5; α-Ga2Se3: Ga 0.4, Se 0.6; L: Se 0.56 | experimental | [1] Zheng 2008; _cites Shtanov 1998_ | Table 2, p. 5, row 30 |  |
+| 1160 | other: GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.594; L: Se 0.551 | experimental | [1] Zheng 2008; _cites Dieleman 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990135-4) | Table 2, p. 5, row 26 |  |
+| 1157 | other: GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.6; L: Se 0.55 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 27 |  |
+| 1153 | other: GaSe + α-Ga2Se3 -> L | GaSe: Se 0.5; α-Ga2Se3: Se 0.5976; L: Se 0.554 | experimental | [1] Zheng 2008; _cites Palatnik 1966_ | Table 2, p. 5, row 25 |  |
+| 1004 | polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | experimental | [1] Zheng 2008; _cites Muhsin 2003_ | Table 2, p. 5, row 49 |  |
+| 1003 | polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 45 |  |
+| 1003 | polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | experimental | [1] Zheng 2008; _cites Mikkelsen 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990397-2) | Table 2, p. 5, row 46 |  |
+| 994 | polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | experimental | [1] Zheng 2008; _cites Muhsin 2003_ | Table 2, p. 5, row 48 |  |
+| 968 | polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.605; α-Ga2Se3: Se 0.605 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 47 |  |
+| 967 | polymorphic: β-Ga2Se3 -> α-Ga2Se3 | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.6 | model | [1] Zheng 2008 | Table 2, p. 5, row 50 |  |
+| 918 | peritectic: β-Ga2Se3 + α-Ga2Se3 -> L | β-Ga2Se3: Se 0.607; α-Ga2Se3: Se 0.61 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 51 |  |
+| 918 | peritectic: β-Ga2Se3 + α-Ga2Se3 -> L | β-Ga2Se3: Se 0.6; α-Ga2Se3: Se 0.61; L: Se 0.983 | model | [1] Zheng 2008 | Table 2, p. 5, row 52 |  |
+| 898 | eutectoid: GaSe + α-Ga2Se3 -> β-Ga2Se3 | GaSe: Se 0.5; α-Ga2Se3: Se 0.599; β-Ga2Se3: Se 0.602 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 43 |  |
+| 898 | eutectoid: GaSe + α-Ga2Se3 -> β-Ga2Se3 | GaSe: Se 0.5; α-Ga2Se3: Se 0.593; β-Ga2Se3: Se 0.6 | model | [1] Zheng 2008 | Table 2, p. 5, row 44 |  |
+| 494 | other: β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | model | [1] Zheng 2008 | Table 2, p. 5, row 58 |  |
+| 493 | other: β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 55 |  |
+| 493 | other: β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 56 |  |
+| 493 | other: β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 53 |  |
+| 493 | other: β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 57 |  |
+| 478 | other: β-Ga2Se3 + Se -> L | β-Ga2Se3: Se 0.6024; Se: Se 1; L: Se 1 | experimental | [1] Zheng 2008; _cites Palatnik 1966_ | Table 2, p. 5, row 54 |  |
+| 303 | other: Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | experimental | [1] Zheng 2008; _cites Dieleman 1982_ | Table 2, p. 5, row 13 |  |
+| 303 | other: Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | experimental | [1] Zheng 2008; _cites Rustamov 1965_ | Table 2, p. 5, row 10 |  |
+| 303 | other: Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | experimental | [1] Zheng 2008; _cites Ollitraut-Fichet 1980_ | Table 2, p. 5, row 12 |  |
+| 303 | other: Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | model | [1] Zheng 2008 | Table 2, p. 5, row 14 |  |
+| 303 | other: Ga + GaSe -> L | Ga: Se 0; GaSe: Se 0.5; L: Se 0 | experimental | [1] Zheng 2008; _cites Suzuki 1974_ [doi](https://doi.org/10.1143/jjap.13.417) | Table 2, p. 5, row 11 |  |
 
 ## Formation enthalpies
 

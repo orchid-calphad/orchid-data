@@ -106,19 +106,19 @@ Table: Mixing / partial, Co–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH^E_ | 5575 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 7828 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 6733 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH^E_ | 3186 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: HE_ | 8294 J·mol-1 | 1810.15 | liquid | model | [3] Kubišta 2000 | p. 3 | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
-| Enthalpy of mixing; _printed: ΔHE_ | 2785 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 8294 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 7201 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 5040 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH^E_ | 0 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH^E_ | 8096 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 0 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 9.7 kJ/mole | 1834 |  | experimental | [1] Turchanin 2007; _cites ref. 17_ | p. 2 | “The integral mixing enthalpies were determined in \[17\] for 10 alloys of xCo = 0.092-0.931 by mixing metals heated to an experimental temperature of 1834 K in an isothermal calorimeter. It is established that the mixing enthalpy of the system is endothermic and is maximum (9.7 kJ/mole) near the equiatomic composition (Fig. 2).” |
+| Enthalpy of mixing; _printed: ΔH^E_ | 5.575 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 7.828 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 6.733 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: ΔH^E_ | 3.186 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: HE_ | 8.294 kJ/mol (basis unstated) | 1810.15 | liquid | model | [3] Kubišta 2000 | p. 3 | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
+| Enthalpy of mixing; _printed: ΔHE_ | 2.785 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 8.294 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 7.201 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 5.04 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔH^E_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔH^E_ | 8.096 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 9.7 kJ/mol (basis unstated) | 1834 |  | experimental | [1] Turchanin 2007; _cites ref. 17_ | p. 2 | “The integral mixing enthalpies were determined in \[17\] for 10 alloys of xCo = 0.092-0.931 by mixing metals heated to an experimental temperature of 1834 K in an isothermal calorimeter. It is established that the mixing enthalpy of the system is endothermic and is maximum (9.7 kJ/mole) near the equiatomic composition (Fig. 2).” |
 | Entropy of mixing; _printed: ΔS^E_ | 0.779 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3 |  |
 | Entropy of mixing; _printed: ΔSE_ | 0.847 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7 |  |
 | Entropy of mixing; _printed: ΔSE_ | 0.671 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8 |  |
@@ -130,17 +130,17 @@ Table: Mixing / partial, Co–Cu system
 | Entropy of mixing; _printed: ΔS^E_ | 0 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1 |  |
 | Entropy of mixing; _printed: ΔS^E_ | 1.008 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5 |  |
 | Entropy of mixing; _printed: ΔSE_ | 0 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11 |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 4165 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3 |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 6295 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7 |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 5519 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8 |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 2339 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2 |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 2374 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10 |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 6545 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6 |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 5477 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4 |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 4213 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9 |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 0 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 6272 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5 |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 0 J/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11 |  |
+| Gibbs energy of mixing; _printed: ΔG^E_ | 4.165 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3 |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 6.295 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7 |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 5.519 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8 |  |
+| Gibbs energy of mixing; _printed: ΔG^E_ | 2.339 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2 |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 2.374 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10 |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 6.545 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6 |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 5.477 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4 |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 4.213 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9 |  |
+| Gibbs energy of mixing; _printed: ΔG^E_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1 |  |
+| Gibbs energy of mixing; _printed: ΔG^E_ | 6.272 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5 |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11 |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 

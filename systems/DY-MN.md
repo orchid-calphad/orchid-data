@@ -80,19 +80,19 @@ Table: Invariant reactions reported in the literature for the Dy–Mn system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1393.15 | Catatectic: δMn -> L + γMn | δMn: Mn 0.991; L: Mn 0.865; γMn: Mn 0.993 | model | [1] Wang 2009 | Table 3, p. 4, row 12 |  |
-| 1393.15 | Catatectic: δMn -> L + γMn | δMn: Mn 0.989; L: Mn 0.882; γMn: Mn 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 11 |  |
-| 1348.15 | Peritectic: L + γMn -> DyMn12 | L: Mn 0.74; γMn: Mn 0.99; DyMn12: Mn 0.923 | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 4, row 9 |  |
-| 1348.15 | Peritectic: L + γMn -> DyMn12 | L: Mn 0.741; γMn: Mn 0.995; DyMn12: Mn 0.923 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
-| 1348.15 | Eutectoid: γMn -> DyMn12 + βMn | γMn: Mn 0.993; DyMn12: Mn 0.923; βMn: Mn 0.994 | model | [1] Wang 2009 | Table 3, p. 4, row 14 |  |
-| 1348.15 | Eutectoid: γMn -> DyMn12 + βMn | γMn: Mn 0.99; DyMn12: Mn 0.923; βMn: Mn 0.99 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 13 |  |
-| 1308.15 | Peritectic: L + DyMn12 -> Dy6Mn23 | L: Mn 0.557; DyMn12: Mn 0.923; Dy6Mn23: Mn 0.793 | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 4, row 7 |  |
-| 1308.15 | Peritectic: L + DyMn12 -> Dy6Mn23 | L: Mn 0.554; DyMn12: Mn 0.923; Dy6Mn23: Mn 0.793 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
-| 1203.15 | Peritectic: L + Dy6Mn23 -> DyMn2 | L: Mn 0.371; Dy6Mn23: Mn 0.793; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 5 |  |
-| 1203.15 | Peritectic: L + Dy6Mn23 -> DyMn2 | L: Mn 0.371; Dy6Mn23: Mn 0.793; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
-| 1128.15 | Eutectic: L -> αDy + DyMn2 | L: Mn 0.29; αDy: Mn 0; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
-| 1128.15 | Eutectic: L -> αDy + DyMn2 | L: Mn 0.287; αDy: Mn 0; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 3 |  |
-| 978.15 | Eutectoid: βMn -> DyMn12 + αMn | βMn: Mn 0.998; DyMn12: Mn 0.923; αMn: Mn 1 | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
+| 1393.15 | metatectic/catatectic: δMn -> L + γMn | δMn: Mn 0.991; L: Mn 0.865; γMn: Mn 0.993 | model | [1] Wang 2009 | Table 3, p. 4, row 12 |  |
+| 1393.15 | metatectic/catatectic: δMn -> L + γMn | δMn: Mn 0.989; L: Mn 0.882; γMn: Mn 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 11 |  |
+| 1348.15 | peritectic: L + γMn -> DyMn12 | L: Mn 0.74; γMn: Mn 0.99; DyMn12: Mn 0.923 | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 4, row 9 |  |
+| 1348.15 | peritectic: L + γMn -> DyMn12 | L: Mn 0.741; γMn: Mn 0.995; DyMn12: Mn 0.923 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
+| 1348.15 | eutectoid: γMn -> DyMn12 + βMn | γMn: Mn 0.993; DyMn12: Mn 0.923; βMn: Mn 0.994 | model | [1] Wang 2009 | Table 3, p. 4, row 14 |  |
+| 1348.15 | eutectoid: γMn -> DyMn12 + βMn | γMn: Mn 0.99; DyMn12: Mn 0.923; βMn: Mn 0.99 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 13 |  |
+| 1308.15 | peritectic: L + DyMn12 -> Dy6Mn23 | L: Mn 0.557; DyMn12: Mn 0.923; Dy6Mn23: Mn 0.793 | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 4, row 7 |  |
+| 1308.15 | peritectic: L + DyMn12 -> Dy6Mn23 | L: Mn 0.554; DyMn12: Mn 0.923; Dy6Mn23: Mn 0.793 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
+| 1203.15 | peritectic: L + Dy6Mn23 -> DyMn2 | L: Mn 0.371; Dy6Mn23: Mn 0.793; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 5 |  |
+| 1203.15 | peritectic: L + Dy6Mn23 -> DyMn2 | L: Mn 0.371; Dy6Mn23: Mn 0.793; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
+| 1128.15 | eutectic: L -> αDy + DyMn2 | L: Mn 0.29; αDy: Mn 0; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
+| 1128.15 | eutectic: L -> αDy + DyMn2 | L: Mn 0.287; αDy: Mn 0; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 3 |  |
+| 978.15 | eutectoid: βMn -> DyMn12 + αMn | βMn: Mn 0.998; DyMn12: Mn 0.923; αMn: Mn 1 | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
 
 ## Other properties
 
@@ -102,8 +102,8 @@ Table: Phase transition, Dy–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1654.15 K | 1654.15 | Allotropic: βDy -> αDy; _βDy: Mn 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 1 |  |
-| Phase transition | 1654.15 K | 1654.15 | Allotropic: βDy -> αDy; _βDy: Mn 0_ | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
+| Phase transition | 1654.15 K | 1654.15 | polymorphic: βDy -> αDy; _βDy: Mn 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 1 |  |
+| Phase transition | 1654.15 K | 1654.15 | polymorphic: βDy -> αDy; _βDy: Mn 0_ | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
 
 ## Sources
 

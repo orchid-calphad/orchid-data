@@ -60,9 +60,9 @@ Table: Phase equilibrium, Bi–Hg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 418 | liquidus; _liquid: Bi 0.4, Hg 0.6_ | experimental | [1] Maitre 2002 | Table 4, p. 4, row 3 |  |
-| Phase composition |  | 486 | liquidus; _liquid: Bi 0.6, Hg 0.4_ | experimental | [1] Maitre 2002 | Table 4, p. 4, row 2 |  |
-| Phase composition |  | 508 | liquidus; _liquid: Bi 0.8, Hg 0.2_ | experimental | [1] Maitre 2002 | Table 4, p. 4, row 1 |  |
+| Phase composition |  | 418 | other; _liquid: Bi 0.4, Hg 0.6_ | experimental | [1] Maitre 2002 | Table 4, p. 4, row 3 |  |
+| Phase composition |  | 486 | other; _liquid: Bi 0.6, Hg 0.4_ | experimental | [1] Maitre 2002 | Table 4, p. 4, row 2 |  |
+| Phase composition |  | 508 | other; _liquid: Bi 0.8, Hg 0.2_ | experimental | [1] Maitre 2002 | Table 4, p. 4, row 1 |  |
 
 ## Sources
 

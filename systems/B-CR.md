@@ -31,28 +31,28 @@ Table: Invariant reactions reported in the literature for the B–Cr system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2356.15 | Peritectic: L + CrB2 -> Cr3B4 | L: B 0.533; CrB2: B 0.667; Cr3B4: B 0.571 | model | [1] Campbell 2002 | Table 2, p. 3, row 14 |  |
-| 2354.15 | Eutectic: L -> CrB + Cr3B4 | L: B 0.529; CrB: B 0.5; Cr3B4: B 0.571 | model | [1] Campbell 2002 | Table 2, p. 3, row 12 |  |
+| 2356.15 | peritectic: L + CrB2 -> Cr3B4 | L: B 0.533; CrB2: B 0.667; Cr3B4: B 0.571 | model | [1] Campbell 2002 | Table 2, p. 3, row 14 |  |
+| 2354.15 | eutectic: L -> CrB + Cr3B4 | L: B 0.529; CrB: B 0.5; Cr3B4: B 0.571 | model | [1] Campbell 2002 | Table 2, p. 3, row 12 |  |
 | 2343.15 | peritectic |  | experimental | [1] Campbell 2002 | p. 5 | “The measured eutectic reaction at 2050 "C and the peritectic reaction at 2070 "C are in reasonable agreement with the calculations: the current calculations overestimate the eutectic temperature by 3 1 degrees and the peritectic temperature by 13 degrees.” |
-| 2343.15 | Peritectic: L + CrB2 -> Cr3B4 | L: B 0.56; CrB2: B 0.667; Cr3B4: B 0.571 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 13 |  |
+| 2343.15 | peritectic: L + CrB2 -> Cr3B4 | L: B 0.56; CrB2: B 0.667; Cr3B4: B 0.571 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 13 |  |
 | 2323.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5 | “The measured eutectic reaction at 2050 "C and the peritectic reaction at 2070 "C are in reasonable agreement with the calculations: the current calculations overestimate the eutectic temperature by 3 1 degrees and the peritectic temperature by 13 degrees.” |
-| 2323.15 | Eutectic: L -> CrB + Cr3B4 | L: B 0.535; CrB: B 0.5; Cr3B4: B 0.571 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 11 |  |
-| 2187.15 | Peritectic: L + CrB -> Cr5B3 | L: B 0.357; CrB: B 0.5; Cr5B3: B 0.375 | model | [1] Campbell 2002 | Table 2, p. 3, row 8 |  |
+| 2323.15 | eutectic: L -> CrB + Cr3B4 | L: B 0.535; CrB: B 0.5; Cr3B4: B 0.571 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 11 |  |
+| 2187.15 | peritectic: L + CrB -> Cr5B3 | L: B 0.357; CrB: B 0.5; Cr5B3: B 0.375 | model | [1] Campbell 2002 | Table 2, p. 3, row 8 |  |
 | 2173.15 | peritectic: L + CrB -+ CrsBs |  | model | [1] Campbell 2002 | p. 5 | “The peritectic reactions at 1870 "C (L + CrSBj -+ CrzB) and 1900 "C (L + CrB -+ CrsBs) are in good agreement with the experimental data.” |
-| 2173.15 | Peritectic: L + CrB -> Cr5B3 | L: B 0.34; CrB: B 0.5; Cr5B3: B 0.375 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 7 |  |
-| 2151.15 | Peritectic: L + Cr5B3 -> Cr2B | L: B 0.313; Cr5B3: B 0.375; Cr2B: B 0.333 | model | [1] Campbell 2002 | Table 2, p. 3, row 6 |  |
-| 2143.15 | Peritectic: L + Cr5B3 -> Cr2B | L: B 0.31; Cr5B3: B 0.375; Cr2B: B 0.333 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 5 |  |
+| 2173.15 | peritectic: L + CrB -> Cr5B3 | L: B 0.34; CrB: B 0.5; Cr5B3: B 0.375 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 7 |  |
+| 2151.15 | peritectic: L + Cr5B3 -> Cr2B | L: B 0.313; Cr5B3: B 0.375; Cr2B: B 0.333 | model | [1] Campbell 2002 | Table 2, p. 3, row 6 |  |
+| 2143.15 | peritectic: L + Cr5B3 -> Cr2B | L: B 0.31; Cr5B3: B 0.375; Cr2B: B 0.333 | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 2, p. 3, row 5 |  |
 | 2143.15 | peritectic: L + CrSBj -+ CrzB |  | model | [1] Campbell 2002 | p. 5 | “The peritectic reactions at 1870 "C (L + CrSBj -+ CrzB) and 1900 "C (L + CrB -+ CrsBs) are in good agreement with the experimental data.” |
-| 2112.15 | Eutectic: L -> CrB2 + β(B) | L: B 0.835; CrB2: B 0.667; β(B): B 1 | model | [1] Campbell 2002 | Table 2, p. 3, row 18 |  |
+| 2112.15 | eutectic: L -> CrB2 + β(B) | L: B 0.835; CrB2: B 0.667; β(B): B 1 | model | [1] Campbell 2002 | Table 2, p. 3, row 18 |  |
 | 2112.15 | eutectic |  | model | [1] Campbell 2002 | p. 5 | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
-| 2103.15 | Eutectic: L -> CrB2 + β(B) | L: B 0.83; CrB2: B 0.667; β(B): B 0.98 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 17 |  |
+| 2103.15 | eutectic: L -> CrB2 + β(B) | L: B 0.83; CrB2: B 0.667; β(B): B 0.98 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 17 |  |
 | 2103.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5 | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
-| 1903.15 | Eutectic: L -> BCC(Cr) + Cr2B | L: B 0.135; BCC(Cr): B 0.01; Cr2B: B 0.333 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 3 |  |
+| 1903.15 | eutectic: L -> BCC(Cr) + Cr2B | L: B 0.135; BCC(Cr): B 0.01; Cr2B: B 0.333 | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 3 |  |
 | 1903.15 | eutectic |  | experimental | [1] Campbell 2002 | p. 5 | “The calculated eutectic reaction at 1605 "C is in reasonable agreement with the experimental eutectic temperature of 1630 "C and the measured liquid composition.” |
 | 1878.15 | eutectic |  | model | [1] Campbell 2002 | p. 5 | “The calculated eutectic reaction at 1605 "C is in reasonable agreement with the experimental eutectic temperature of 1630 "C and the measured liquid composition.” |
-| 1878.15 | Eutectic: L -> BCC(Cr) + Cr2B | L: B 0.168; BCC(Cr): B 0.0105; Cr2B: B 0.333 | model | [1] Campbell 2002 | Table 2, p. 3, row 4 |  |
-| 1779.15 | Peritectoid: CrB2 + β(B) -> CrB4 | CrB2: B 0.667; β(B): B 1; CrB4: B 0.8 | model | [1] Campbell 2002 | Table 2, p. 3, row 20 |  |
-| 1773.15 | Peritectoid: CrB2 + β(B) -> CrB4 | CrB2: B 0.667; β(B): B 1; CrB4: B 0.8 | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 2, p. 3, row 19 |  |
+| 1878.15 | eutectic: L -> BCC(Cr) + Cr2B | L: B 0.168; BCC(Cr): B 0.0105; Cr2B: B 0.333 | model | [1] Campbell 2002 | Table 2, p. 3, row 4 |  |
+| 1779.15 | peritectoid: CrB2 + β(B) -> CrB4 | CrB2: B 0.667; β(B): B 1; CrB4: B 0.8 | model | [1] Campbell 2002 | Table 2, p. 3, row 20 |  |
+| 1773.15 | peritectoid: CrB2 + β(B) -> CrB4 | CrB2: B 0.667; β(B): B 1; CrB4: B 0.8 | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 2, p. 3, row 19 |  |
 
 ## Formation enthalpies
 
@@ -90,17 +90,17 @@ Table: Phase transition, B–Cr system
 | Phase transition | 1773.15 K | 1773.15 | other | experimental | [1] Campbell 2002 | p. 5 | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
 | Phase transition | 1779.15 K | 1779.15 | other | model | [1] Campbell 2002 | p. 5 | “The eutectic reaction at 1830 "C and the peritectoid reaction at 1500 "C are overestimated in the assessment with a calculated eutectic temperature of 1839 "C and a peritectoid reaction at 1506 "C.” |
 | Phase transition | 2136.15 K | 2136.15 | Cr | experimental | [1] Campbell 2002; _cites ref. 25_ | p. 5 | “The calculated m elting temperature o f 1907 'C for c hromium i s 4 4 degrees h igher t hart the melting temperature 1863 "C \[25\], which is used in most phase diagram evaluations.” |
-| Phase transition | 2136.15 K | 2136.15 | Melting: L -> BCC(Cr); _BCC(Cr): B 0_ | experimental | [1] Campbell 2002; _cites ref. 25_ | Table 2, p. 3, row 1 |  |
+| Phase transition | 2136.15 K | 2136.15 | congruent melting: L -> BCC(Cr); _BCC(Cr): B 0_ | experimental | [1] Campbell 2002; _cites ref. 25_ | Table 2, p. 3, row 1 |  |
 | Phase transition | 2180.15 K | 2180.15 | Cr | model | [1] Campbell 2002 | p. 5 | “The calculated m elting temperature o f 1907 'C for c hromium i s 4 4 degrees h igher t hart the melting temperature 1863 "C \[25\], which is used in most phase diagram evaluations.” |
-| Phase transition | 2180.15 K | 2180.15 | Melting: L -> BCC(Cr); _BCC(Cr): B 0_ | experimental | [1] Campbell 2002; _cites ref. 10_ | Table 2, p. 3, row 2 |  |
-| Phase transition | 2348.15 K | 2348.15 | Melting: L -> β(B); _β(B): B 1_ | experimental | [1] Campbell 2002; _cites ref. 10_ | Table 2, p. 3, row 22 |  |
-| Phase transition | 2360.15 K | 2360.15 | Congruent Melting: L -> CrB; _L: B 0.5; CrB: B 0.5_ | model | [1] Campbell 2002 | Table 2, p. 3, row 10 |  |
+| Phase transition | 2180.15 K | 2180.15 | congruent melting: L -> BCC(Cr); _BCC(Cr): B 0_ | experimental | [1] Campbell 2002; _cites ref. 10_ | Table 2, p. 3, row 2 |  |
+| Phase transition | 2348.15 K | 2348.15 | congruent melting: L -> β(B); _β(B): B 1_ | experimental | [1] Campbell 2002; _cites ref. 10_ | Table 2, p. 3, row 22 |  |
+| Phase transition | 2360.15 K | 2360.15 | congruent melting: L -> CrB; _L: B 0.5; CrB: B 0.5_ | model | [1] Campbell 2002 | Table 2, p. 3, row 10 |  |
 | Phase transition | 2365.15 K | 2365.15 | B | experimental | [1] Campbell 2002; _cites ref. 25_ | p. 5 | “The melting temperature of boron used by Dinsdale \[lo\] is 17 degrees lower than the melting temperature of 2092 "C \[25\] used in most evaluations.” |
-| Phase transition | 2365.15 K | 2365.15 | Melting: L -> β(B); _β(B): B 1_ | experimental | [1] Campbell 2002; _cites ref. 26_ | Table 2, p. 3, row 21 |  |
-| Phase transition | 2373.15 K | 2373.15 | Congruent Melting: L -> CrB; _L: B 0.5; CrB: B 0.5_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 9 |  |
-| Phase transition | 2373.15 K | 2373.15 | congruent | experimental | [1] Campbell 2002 | p. 5 | “The calculated congruent melting temperature of CrB is 13 degrees below the measured temperature of 2100 "C.” |
-| Phase transition | 2430.15 K | 2430.15 | Congruent Melting: L -> CrB2; _L: B 0.667; CrB2: B 0.667_ | model | [1] Campbell 2002 | Table 2, p. 3, row 16 |  |
-| Phase transition | 2473.15 K | 2473.15 | Congruent Melting: L -> CrB2; _L: B 0.667; CrB2: B 0.667_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 15 |  |
+| Phase transition | 2365.15 K | 2365.15 | congruent melting: L -> β(B); _β(B): B 1_ | experimental | [1] Campbell 2002; _cites ref. 26_ | Table 2, p. 3, row 21 |  |
+| Phase transition | 2373.15 K | 2373.15 | congruent melting: L -> CrB; _L: B 0.5; CrB: B 0.5_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 9 |  |
+| Phase transition | 2373.15 K | 2373.15 | congruent transformation | experimental | [1] Campbell 2002 | p. 5 | “The calculated congruent melting temperature of CrB is 13 degrees below the measured temperature of 2100 "C.” |
+| Phase transition | 2430.15 K | 2430.15 | congruent melting: L -> CrB2; _L: B 0.667; CrB2: B 0.667_ | model | [1] Campbell 2002 | Table 2, p. 3, row 16 |  |
+| Phase transition | 2473.15 K | 2473.15 | congruent melting: L -> CrB2; _L: B 0.667; CrB2: B 0.667_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 2, p. 3, row 15 |  |
 
 ## Sources
 

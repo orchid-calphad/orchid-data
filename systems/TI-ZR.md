@@ -45,14 +45,14 @@ Table: Phase transition, Ti–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 309.15 K | 309.15 | Critical pt.: hcp-(Ti,Zr); _hcp-(Ti,Zr): Zr 0.5_ | model | [1] Cacciamani 2011 | Table 9, p. 9, row 3 |  |
+| Phase transition | 309.15 K | 309.15 | critical point: hcp-(Ti,Zr); _hcp-(Ti,Zr): Zr 0.5_ | model | [1] Cacciamani 2011 | Table 9, p. 9, row 3 |  |
 | Phase transition | 689.6 K | 689.6 | other | model | [2] Kumar 1994 | p. 6 | “As the temperature is lowered, it becomes a tie-triangle and finally degenerates to a tie-line inside the ternary at 689.6 K (416.5 °C).” |
-| Phase transition | 873.15 K | 873.15 | Congruent: bcc-(Ti, Zr) -> hcp-(Ti, Zr); _bcc-(Ti, Zr): Zr 0.5; hcp-(Ti, Zr): Zr 0.5_ | model | [1] Cacciamani 2011 | Table 9, p. 9, row 2 |  |
+| Phase transition | 873.15 K | 873.15 | congruent transformation: bcc-(Ti, Zr) -> hcp-(Ti, Zr); _bcc-(Ti, Zr): Zr 0.5; hcp-(Ti, Zr): Zr 0.5_ | model | [1] Cacciamani 2011 | Table 9, p. 9, row 2 |  |
 | Phase transition | 1720.65 K | 1720.65 | L ? (Ti, Zr)B2= TiB ? (bTi, bZr) | model | [3] Pan 2019 | p. 8 | “Figure 6 shows the calculated isothermal section at 1447.5 C, which discloses the four-phase reaction L ? (Ti, Zr)B2= TiB ? (bTi, bZr).” |
-| Phase transition | 1826.15 K | 1826.15 | Congruent: L -> bcc-(Ti, Zr); _L: Zr 0.35; bcc-(Ti, Zr): Zr 0.35_ | model | [1] Cacciamani 2011 | Table 9, p. 9, row 1 |  |
+| Phase transition | 1826.15 K | 1826.15 | congruent melting: L -> bcc-(Ti, Zr); _L: Zr 0.35; bcc-(Ti, Zr): Zr 0.35_ | model | [1] Cacciamani 2011 | Table 9, p. 9, row 1 |  |
 | Phase transition | 2293.15 K | 2293.15 | L ? (Ti, Zr)B2 = ZrB12 ? (bB) | experimental | [3] Pan 2019; _cites Eckert 1966_ | p. 3 | “For the liquidus projection of the B-Ti-Zr system, the two following invariant transitory equilibria and one eutectic minimum (quasibinary eutectic) were confirmed by Ref 25 and 26: L ? (Ti, Zr)B2 = TiB ? (bTi, bZr) at 1450 C with the liquid composition of 11 at.% B and 37 at.% Zr, L ? (Ti, Zr)B2 = ZrB12 ? (bB) at 2020 C, and L = TiB ? (bTi, bZr) at 1445 C with the liquid composition of \* 9 at.%…” |
-| Phase transition | 2293.15 K | 2293.15 | invariant: Liquid + (Ti, Zr)B2 ZrB12 + B | experimental | [1] Cacciamani 2011 | p. 14 | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
-| Phase transition | 2295.15 K | 2295.15 | invariant: Liquid + (Ti, Zr)B2 ZrB12 + B | model | [1] Cacciamani 2011 | p. 14 | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
+| Phase transition | 2293.15 K | 2293.15 | other: Liquid + (Ti, Zr)B2 ZrB12 + B | experimental | [1] Cacciamani 2011 | p. 14 | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
+| Phase transition | 2295.15 K | 2295.15 | other: Liquid + (Ti, Zr)B2 ZrB12 + B | model | [1] Cacciamani 2011 | p. 14 | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
 
 ## Sources
 

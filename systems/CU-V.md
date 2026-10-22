@@ -76,8 +76,8 @@ Table: Phase equilibrium, Cu–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1354.45 | melting: 1; _liquid: Cu 1, V 0_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 1 |  |
-| Phase composition |  | 1356.15 | melting: 1; _liquid: Cu 1, V 0_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 2 |  |
+| Phase composition |  | 1354.45 | congruent melting: 1; _liquid: Cu 1, V 0_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 1 |  |
+| Phase composition |  | 1356.15 | congruent melting: 1; _liquid: Cu 1, V 0_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 2 |  |
 
 ### Mixing / partial (2)
 
@@ -86,7 +86,7 @@ Table: Mixing / partial, Cu–V system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Enthalpy of mixing; _printed: enthalpy of mixing_ | 80 unspecified ± 25 | 1373.15 |  | experimental | [1] Zhao 2008; _cites Watanabe 1984_ [doi](https://doi.org/10.1007/bf02667340) | p. 4 | “Additionally, the presently calculated value for enthalpy of mixing of the Cu99.97 V0.03 melt at 1100 ◦ C is 56.34 kJ/mol. This computed datum agrees reasonably with the experimental one of 80 ± 25 kJ/mol from Watanabe and Kleppa \[17\].” |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 56.34 kJ/mol | 1373.15 |  | model | [1] Zhao 2008 | p. 4 | “Additionally, the presently calculated value for enthalpy of mixing of the Cu99.97 V0.03 melt at 1100 ◦ C is 56.34 kJ/mol.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 56.34 kJ/mol (basis unstated) | 1373.15 |  | model | [1] Zhao 2008 | p. 4 | “Additionally, the presently calculated value for enthalpy of mixing of the Cu99.97 V0.03 melt at 1100 ◦ C is 56.34 kJ/mol.” |
 
 ## Sources
 

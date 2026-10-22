@@ -56,22 +56,22 @@ Table: Invariant reactions reported in the literature for the Ni–Te system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1277.7 | Eutectic: Liq -> FCC + β1 | β1: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 4 |  |
-| 1271 | Eutectic: Liq -> FCC + β1 | L: Te 0.3277; FCC: Te 7.000e-5; β1: Te 0.371 | model | [1] Arvhult 2019 | Table 7, p. 13, row 3 |  |
-| 1153.4 | Peritectic: β1 + Liq -> γ2 | β1: Te 0.4337; L: Te 0.4887; γ2: Te 0.4595 | model | [1] Arvhult 2019 | Table 7, p. 13, row 9 |  |
-| 1153.2 | Peritectic: β1 + Liq -> γ2 | β1: Te 0.5; γ2: Te 0.459459 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 10 |  |
-| 1147.9 | Eutectic: Liq -> γ2 + δ | L: Te 0.495; γ2: Te 0.4595; δ: Te 0.5286 | model | [1] Arvhult 2019 | Table 7, p. 13, row 15 |  |
-| 1146.2 | Eutectic: Liq -> γ2 + δ | γ2: Te 0.459459; δ: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 16 |  |
-| 1052.8 | Eutectoid: β1 -> β2 + γ2 | β1: Te 0.4182; β2: Te 0.4115; γ2: Te 0.4595 | model | [1] Arvhult 2019 | Table 7, p. 13, row 11 |  |
-| 1048.2 | Eutectoid: β1 -> β2 + γ2 | β1: Te 0.5; β2: Te 0.5; γ2: Te 0.459459 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 12 |  |
-| 1015.7 | Peritectoid: β2 + γ2 -> γ1 | β2: Te 0.5; γ2: Te 0.459459; γ1: Te 0.434783 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 14 |  |
-| 1012 | Peritectoid: β2 + γ2 -> γ1 | β2: Te 0.412; γ2: Te 0.4595; γ1: Te 0.4348 | model | [1] Arvhult 2019 | Table 7, p. 13, row 13 |  |
-| 1004.7 | Eutectoid: β1 -> FCC + β2 | β1: Te 0.5; β2: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 8 |  |
-| 1004.6 | Eutectoid: β1 -> FCC + β2 | β1: Te 0.3744; FCC: Te 1.000e-5; β2: Te 0.3945 | model | [1] Arvhult 2019 | Table 7, p. 13, row 7 |  |
-| 963.2 | Eutectoid: γ2 -> γ1 + δ | γ2: Te 0.459459; γ1: Te 0.434783; δ: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 18 |  |
-| 962.2 | Eutectoid: γ2 -> γ1 + δ | γ2: Te 0.4595; γ1: Te 0.4348; δ: Te 0.5203 | model | [1] Arvhult 2019 | Table 7, p. 13, row 17 |  |
-| 721.7 | Eutectic: Liq -> δ + Te – A8 | δ: Te 0.5; Te – A8: Te 1 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 22 |  |
-| 720.9 | Eutectic: Liq -> δ + Te – A8 | L: Te 0.9932; δ: Te 0.6671; Te – A8: Te 1 | model | [1] Arvhult 2019 | Table 7, p. 13, row 21 |  |
+| 1277.7 | eutectic: Liq -> FCC + β1 | β1: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 4 |  |
+| 1271 | eutectic: Liq -> FCC + β1 | L: Te 0.3277; FCC: Te 7.000e-5; β1: Te 0.371 | model | [1] Arvhult 2019 | Table 7, p. 13, row 3 |  |
+| 1153.4 | peritectic: β1 + Liq -> γ2 | β1: Te 0.4337; L: Te 0.4887; γ2: Te 0.4595 | model | [1] Arvhult 2019 | Table 7, p. 13, row 9 |  |
+| 1153.2 | peritectic: β1 + Liq -> γ2 | β1: Te 0.5; γ2: Te 0.459459 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 10 |  |
+| 1147.9 | eutectic: Liq -> γ2 + δ | L: Te 0.495; γ2: Te 0.4595; δ: Te 0.5286 | model | [1] Arvhult 2019 | Table 7, p. 13, row 15 |  |
+| 1146.2 | eutectic: Liq -> γ2 + δ | γ2: Te 0.459459; δ: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 16 |  |
+| 1052.8 | eutectoid: β1 -> β2 + γ2 | β1: Te 0.4182; β2: Te 0.4115; γ2: Te 0.4595 | model | [1] Arvhult 2019 | Table 7, p. 13, row 11 |  |
+| 1048.2 | eutectoid: β1 -> β2 + γ2 | β1: Te 0.5; β2: Te 0.5; γ2: Te 0.459459 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 12 |  |
+| 1015.7 | peritectoid: β2 + γ2 -> γ1 | β2: Te 0.5; γ2: Te 0.459459; γ1: Te 0.434783 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 14 |  |
+| 1012 | peritectoid: β2 + γ2 -> γ1 | β2: Te 0.412; γ2: Te 0.4595; γ1: Te 0.4348 | model | [1] Arvhult 2019 | Table 7, p. 13, row 13 |  |
+| 1004.7 | eutectoid: β1 -> FCC + β2 | β1: Te 0.5; β2: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 8 |  |
+| 1004.6 | eutectoid: β1 -> FCC + β2 | β1: Te 0.3744; FCC: Te 1.000e-5; β2: Te 0.3945 | model | [1] Arvhult 2019 | Table 7, p. 13, row 7 |  |
+| 963.2 | eutectoid: γ2 -> γ1 + δ | γ2: Te 0.459459; γ1: Te 0.434783; δ: Te 0.5 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 18 |  |
+| 962.2 | eutectoid: γ2 -> γ1 + δ | γ2: Te 0.4595; γ1: Te 0.4348; δ: Te 0.5203 | model | [1] Arvhult 2019 | Table 7, p. 13, row 17 |  |
+| 721.7 | eutectic: Liq -> δ + Te – A8 | δ: Te 0.5; Te – A8: Te 1 | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 22 |  |
+| 720.9 | eutectic: Liq -> δ + Te – A8 | L: Te 0.9932; δ: Te 0.6671; Te – A8: Te 1 | model | [1] Arvhult 2019 | Table 7, p. 13, row 21 |  |
 
 ## Other properties
 
@@ -82,12 +82,12 @@ Table: Phase transition, Ni–Te system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 350 K | 350 | other | experimental | [1] Arvhult 2019 | p. 8 | “Figure 6 shows for 57.1 at.% Te a bump in CP at around 350 K; this was not modeled but the general slope of the data is satisfactory.” |
-| Phase transition | 1057.8 K | 1057.8 | Congruent: β1 -> β2; _β1: Te 0.4077; β2: Te 0.4077_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 5 |  |
-| Phase transition | 1063.2 K | 1063.2 | Congruent: β1 -> β2; _β1: Te 0.5; β2: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 6 |  |
-| Phase transition | 1172.8 K | 1172.8 | Congruent: Liq -> δ; _L: Te 0.5687; δ: Te 0.5687_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 19 |  |
-| Phase transition | 1173.7 K | 1173.7 | Congruent: Liq -> δ; _L: Te 0.5; δ: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 20 |  |
-| Phase transition | 1294.7 K | 1294.7 | Congruent: Liq -> β1; _L: Te 0.5; β1: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 2 |  |
-| Phase transition | 1295.17 K | 1295.17 | Congruent: Liq -> β1; _L: Te 0.3814; β1: Te 0.3814_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 1 |  |
+| Phase transition | 1057.8 K | 1057.8 | congruent transformation: β1 -> β2; _β1: Te 0.4077; β2: Te 0.4077_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 5 |  |
+| Phase transition | 1063.2 K | 1063.2 | congruent transformation: β1 -> β2; _β1: Te 0.5; β2: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 6 |  |
+| Phase transition | 1172.8 K | 1172.8 | congruent melting: Liq -> δ; _L: Te 0.5687; δ: Te 0.5687_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 19 |  |
+| Phase transition | 1173.7 K | 1173.7 | congruent melting: Liq -> δ; _L: Te 0.5; δ: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 20 |  |
+| Phase transition | 1294.7 K | 1294.7 | congruent melting: Liq -> β1; _L: Te 0.5; β1: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 2 |  |
+| Phase transition | 1295.17 K | 1295.17 | congruent melting: Liq -> β1; _L: Te 0.3814; β1: Te 0.3814_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 1 |  |
 
 ### Crystal structure (28)
 

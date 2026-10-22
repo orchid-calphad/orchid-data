@@ -1,26 +1,22 @@
 # Ho3Ni: enthalpy of formation
 
-> Enthalpy of formation of Ho3Ni: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ho3Ni: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ho3Ni.html · Markdown: https://data.orchid-project.org/compounds/Ho3Ni.md
 
-8 accepted literature formation-enthalpy value(s) (model 8); Materials Project -24.74 kJ/mol-atom (mp-aaacprea); OQMD -25.183 kJ/mol-atom (oqmd-30550).
+4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -24.74 kJ/mol-atom (mp-aaacprea); OQMD -25.183 kJ/mol-atom (oqmd-30550).
 
 Systems: [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ho3Ni reported in the literature (8)
+Table: Enthalpy of formation of Ho3Ni reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -38 kJ/mol-atom | Ho3Ni | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 2 |  |
-| -38 kJ/mol-atom | Ho3Ni | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 2 |  |
-| -25 kJ/mol-atom | Ho3Ni | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 1 |  |
 | -25 kJ/mol-atom | Ho3Ni | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 1 |  |
 | -24 kJ/mol-atom | Ho3Ni | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 4 |  |
-| -24 kJ/mol-atom | Ho3Ni | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 4 |  |
-| -23.95 kJ/mol-atom | Ho3Ni | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 3 |  |
 | -23.95 kJ/mol-atom | Ho3Ni | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 3 |  |
 
 ## DFT formation energies

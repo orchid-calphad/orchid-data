@@ -1,29 +1,25 @@
 # Cr5Ga6: enthalpy of formation
 
-> Enthalpy of formation of Cr5Ga6: 11 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Cr5Ga6: 7 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cr5Ga6.html · Markdown: https://data.orchid-project.org/compounds/Cr5Ga6.md
 
-11 accepted literature formation-enthalpy value(s) (experimental 3, model 8); experimental median -4.7 kJ/mol-atom (n = 1).
+7 accepted literature formation-enthalpy value(s) (experimental 2, model 5); experimental median -4.7 kJ/mol-atom (n = 1).
 
 Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) · [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cr5Ga6 reported in the literature (11)
+Table: Enthalpy of formation of Cr5Ga6 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -4.7 kJ/mol-atom | Cr5Ga6 | 850 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 47 |  |
 | -4.7 kJ/mol (basis unstated) | Cr5Ga6 | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 10 |  |
-| -4.7 kJ/mol (basis unstated) | Cr5Ga6 | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 10 |  |
 | -15.15 kJ/mol-atom | Cr5Ga6 | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 48 |  |
 | -15.15 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 11 |  |
-| -15.15 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 11 |  |
-| -15 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 12 |  |
 | -15 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 12 |  |
 | -15 kJ/mol-atom | Cr5Ga6 | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 49 |  |
-| -12.31 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13 |  |
 | -12.31 kJ/mol (basis unstated) | Cr5Ga6 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 13 |  |
 
 ## Sources

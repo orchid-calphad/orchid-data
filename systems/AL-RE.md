@@ -89,32 +89,32 @@ Table: Invariant reactions reported in the literature for the Al–Re system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1934.15 | Eutectic: L -> Al11Re4 + (Re) | L: Re 0.3; Al11Re4: Re 0.266667 | model | [1] Tamim 2020 | Table 1, p. 3, row 19 |  |
-| 1928.15 | Eutectic: L -> Al11Re4 + (Re) | L: Re 0.28; Al11Re4: Re 0.266667 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 20 |  |
-| 1883.15 | Peritectic: L + Al11Re4 -> Al3Re | L: Re 0.22; Al11Re4: Re 0.266667; Al3Re: Re 0.25 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 12 |  |
-| 1878.15 | Peritectic: L + Al11Re4 -> Al3Re | L: Re 0.18; Al11Re4: Re 0.266667; Al3Re: Re 0.25 | model | [1] Tamim 2020 | Table 1, p. 3, row 11 |  |
+| 1934.15 | eutectic: L -> Al11Re4 + (Re) | L: Re 0.3; Al11Re4: Re 0.266667 | model | [1] Tamim 2020 | Table 1, p. 3, row 19 |  |
+| 1928.15 | eutectic: L -> Al11Re4 + (Re) | L: Re 0.28; Al11Re4: Re 0.266667 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 20 |  |
+| 1883.15 | peritectic: L + Al11Re4 -> Al3Re | L: Re 0.22; Al11Re4: Re 0.266667; Al3Re: Re 0.25 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 12 |  |
+| 1878.15 | peritectic: L + Al11Re4 -> Al3Re | L: Re 0.18; Al11Re4: Re 0.266667; Al3Re: Re 0.25 | model | [1] Tamim 2020 | Table 1, p. 3, row 11 |  |
 | 1876.15 | peritectic |  | model | [1] Tamim 2020; _cites Huang 1998_ [doi](https://doi.org/10.1361/105497198770342094) | p. 8 | “In the phase diagram published by this authors, the Al11Re4 melts by a peritectic reaction at 1603 C (instead of a congruent melting at 1665 C) whereas AlRe2 undergoes a transformation at 2002 C (instead of 1494 C).” |
-| 1767.15 | Peritectoid: AlRe2 -> Al11Re4 + (Re) | AlRe2: Re 0.666667; Al11Re4: Re 0.266667 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 24 |  |
-| 1763.15 | Peritectoid: AlRe2 -> Al11Re4 + (Re) | AlRe2: Re 0.666667; Al11Re4: Re 0.266667 | model | [1] Tamim 2020 | Table 1, p. 3, row 23 |  |
-| 1688.15 | Peritectic: L + Al3Re -> h-Al4Re | L: Re 0.1; Al3Re: Re 0.25; h-Al4Re: Re 0.2 | model | [1] Tamim 2020 | Table 1, p. 3, row 9 |  |
-| 1683.15 | Peritectic: L + Al3Re -> h-Al4Re | L: Re 0.01; Al3Re: Re 0.25; h-Al4Re: Re 0.2 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 10 |  |
-| 1333.15 | Peritectoid: AlRe -> Al11Re4 + AlRe2 | AlRe: Re 0.5; Al11Re4: Re 0.266667; AlRe2: Re 0.666667 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 22 |  |
-| 1329.15 | Peritectoid: AlRe -> Al11Re4 + AlRe2 | AlRe: Re 0.5; Al11Re4: Re 0.266667; AlRe2: Re 0.666667 | model | [1] Tamim 2020 | Table 1, p. 3, row 21 |  |
-| 1293.15 | Peritectic: L + h-Al4Re -> l-Al4Re | L: Re 0.03; h-Al4Re: Re 0.2; l-Al4Re: Re 0.2 | model | [1] Tamim 2020 | Table 1, p. 3, row 7 |  |
-| 1273.15 | Peritectic: L + h-Al4Re -> l-Al4Re | L: Re 0.02; h-Al4Re: Re 0.2; l-Al4Re: Re 0.2 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 8 |  |
-| 1219.15 | Eutectoid: h-Al4Re + Al11Re4 -> Al3Re | h-Al4Re: Re 0.2; Al11Re4: Re 0.266667; Al3Re: Re 0.25 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 18 |  |
-| 1219.15 | Eutectoid: h-Al4Re + Al11Re4 -> Al3Re | h-Al4Re: Re 0.2; Al11Re4: Re 0.266667; Al3Re: Re 0.25 | model | [1] Tamim 2020 | Table 1, p. 3, row 17 |  |
-| 1106.15 | Eutectoid: l-Al4Re + Al11Re4 -> h-Al4Re | l-Al4Re: Re 0.2; Al11Re4: Re 0.266667; h-Al4Re: Re 0.2 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 16 |  |
-| 1105.15 | Eutectoid: l-Al4Re + Al11Re4 -> h-Al4Re | l-Al4Re: Re 0.2; Al11Re4: Re 0.266667; h-Al4Re: Re 0.2 | model | [1] Tamim 2020 | Table 1, p. 3, row 15 |  |
-| 1086.15 | Peritectic: L + l-Al4Re -> Al6Re | L: Re 0.01; l-Al4Re: Re 0.2; Al6Re: Re 0.142857 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 6 |  |
-| 1086.15 | Peritectic: L + l-Al4Re -> Al6Re | L: Re 0.008; l-Al4Re: Re 0.2; Al6Re: Re 0.142857 | model | [1] Tamim 2020 | Table 1, p. 3, row 5 |  |
-| 1020.15 | Peritectic: L + Al6Re -> Al12Re | L: Re 0.0035; Al6Re: Re 0.142857; Al12Re: Re 0.0769231 | model | [1] Tamim 2020 | Table 1, p. 3, row 3 |  |
-| 1019.15 | Peritectic: L + Al6Re -> Al12Re | L: Re 0.004; Al6Re: Re 0.142857; Al12Re: Re 0.0769231 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 4 |  |
+| 1767.15 | peritectoid: AlRe2 -> Al11Re4 + (Re) | AlRe2: Re 0.666667; Al11Re4: Re 0.266667 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 24 |  |
+| 1763.15 | peritectoid: AlRe2 -> Al11Re4 + (Re) | AlRe2: Re 0.666667; Al11Re4: Re 0.266667 | model | [1] Tamim 2020 | Table 1, p. 3, row 23 |  |
+| 1688.15 | peritectic: L + Al3Re -> h-Al4Re | L: Re 0.1; Al3Re: Re 0.25; h-Al4Re: Re 0.2 | model | [1] Tamim 2020 | Table 1, p. 3, row 9 |  |
+| 1683.15 | peritectic: L + Al3Re -> h-Al4Re | L: Re 0.01; Al3Re: Re 0.25; h-Al4Re: Re 0.2 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 10 |  |
+| 1333.15 | peritectoid: AlRe -> Al11Re4 + AlRe2 | AlRe: Re 0.5; Al11Re4: Re 0.266667; AlRe2: Re 0.666667 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 22 |  |
+| 1329.15 | peritectoid: AlRe -> Al11Re4 + AlRe2 | AlRe: Re 0.5; Al11Re4: Re 0.266667; AlRe2: Re 0.666667 | model | [1] Tamim 2020 | Table 1, p. 3, row 21 |  |
+| 1293.15 | peritectic: L + h-Al4Re -> l-Al4Re | L: Re 0.03; h-Al4Re: Re 0.2; l-Al4Re: Re 0.2 | model | [1] Tamim 2020 | Table 1, p. 3, row 7 |  |
+| 1273.15 | peritectic: L + h-Al4Re -> l-Al4Re | L: Re 0.02; h-Al4Re: Re 0.2; l-Al4Re: Re 0.2 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 8 |  |
+| 1219.15 | eutectoid: h-Al4Re + Al11Re4 -> Al3Re | h-Al4Re: Re 0.2; Al11Re4: Re 0.266667; Al3Re: Re 0.25 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 18 |  |
+| 1219.15 | eutectoid: h-Al4Re + Al11Re4 -> Al3Re | h-Al4Re: Re 0.2; Al11Re4: Re 0.266667; Al3Re: Re 0.25 | model | [1] Tamim 2020 | Table 1, p. 3, row 17 |  |
+| 1106.15 | eutectoid: l-Al4Re + Al11Re4 -> h-Al4Re | l-Al4Re: Re 0.2; Al11Re4: Re 0.266667; h-Al4Re: Re 0.2 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 16 |  |
+| 1105.15 | eutectoid: l-Al4Re + Al11Re4 -> h-Al4Re | l-Al4Re: Re 0.2; Al11Re4: Re 0.266667; h-Al4Re: Re 0.2 | model | [1] Tamim 2020 | Table 1, p. 3, row 15 |  |
+| 1086.15 | peritectic: L + l-Al4Re -> Al6Re | L: Re 0.01; l-Al4Re: Re 0.2; Al6Re: Re 0.142857 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 6 |  |
+| 1086.15 | peritectic: L + l-Al4Re -> Al6Re | L: Re 0.008; l-Al4Re: Re 0.2; Al6Re: Re 0.142857 | model | [1] Tamim 2020 | Table 1, p. 3, row 5 |  |
+| 1020.15 | peritectic: L + Al6Re -> Al12Re | L: Re 0.0035; Al6Re: Re 0.142857; Al12Re: Re 0.0769231 | model | [1] Tamim 2020 | Table 1, p. 3, row 3 |  |
+| 1019.15 | peritectic: L + Al6Re -> Al12Re | L: Re 0.004; Al6Re: Re 0.142857; Al12Re: Re 0.0769231 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 4 |  |
 | 963.15 | peritectic: L ? Al2Re $ (Al) |  | experimental | [1] Tamim 2020; _cites Savitskii 1961_ | p. 2 | “Thermal analysis data of the Al-rich alloys indicate that the formation of (Al) solid solution is by a peritectic reaction: L ? Al2Re $ (Al) at 690 C.” |
-| 933.15 | Eutectic: L -> Al12Re + (Al) | L: Re 0.005; Al12Re: Re 0.0769231 | model | [1] Tamim 2020 | Table 1, p. 3, row 1 |  |
+| 933.15 | eutectic: L -> Al12Re + (Al) | L: Re 0.005; Al12Re: Re 0.0769231 | model | [1] Tamim 2020 | Table 1, p. 3, row 1 |  |
 | 931.15 | eutectic: L $ Al12Re ? (Al) |  | experimental | [1] Tamim 2020 | p. 3 | “The eutectic behavior of the L $ Al12Re ? (Al) equilibrium is confirmed at 658 C.” |
-| 931.15 | Eutectic: L -> Al12Re + (Al) | L: Re 0.005; Al12Re: Re 0.0769231 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 2 |  |
-| 913 (none) | peritectic |  | experimental | [2] Huang 1998 | p. 2 | “The peritectic melting temperature of All2 Re to L and A16Re was placed at about 913 K, in between the above two reaction temperatures.” |
+| 931.15 | eutectic: L -> Al12Re + (Al) | L: Re 0.005; Al12Re: Re 0.0769231 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 2 |  |
+| 913 | peritectic |  | experimental | [2] Huang 1998 | p. 2 | “The peritectic melting temperature of All2 Re to L and A16Re was placed at about 913 K, in between the above two reaction temperatures.” |
 | 873 | eutectic |  | experimental | [2] Huang 1998; _cites UM 1963_ | p. 3 | “At the Al-rich side of the system, as pointed out previously by \[90Mur\], neither the proposed peritetic reaction at 963 + 7K \[61Sav\] nor the eutectic reaction at 873 K \[63Vei\] involving the fcc and liquid is plausible.” |
 
 ## Other properties
@@ -126,7 +126,7 @@ Table: Phase transition, Al–Re system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 873 K | 873 | L = fcc + Al12Re | experimental | [2] Huang 1998; _cites UM 1963_ | p. 2 | “Therefore, \[63Vei\] suggested that the invariant reactions at 873 and 963 K reported by \[61Say\] might correspond to the invariant reactions: L = fcc + Al12Re, and L + A14Re = A16Re, respectively.” |
-| Phase transition | 873 K | 873 (none) | other | experimental | [2] Huang 1998 | p. 2 | “Decomposition of All2Re to fcc and AlzRe occurred at about 873 K.” |
+| Phase transition | 873 K | 873 | other | experimental | [2] Huang 1998 | p. 2 | “Decomposition of All2Re to fcc and AlzRe occurred at about 873 K.” |
 | Phase transition | 933.6 K | 933.6 | L + AI6Re = fcc + A16Re | model | [2] Huang 1998 | p. 3 | “In the present study, we propose the following invariant reactions as shown in Fig. 3 and 4: A112Re forms at 873 K by a solidstate reaction \[61Sav\], fcc + A16Re = A1\]2Re; A16Re forms at 960 K by L + AI4Re = A16Re \[63Veil; and there is a degenerated invariant reaction very close to the melting point of pure AI, 933.6 K, L + AI6Re = fcc + A16Re.” |
 | Phase transition | 960 K | 960 | L + AI4Re = A16Re | model | [2] Huang 1998 | p. 3 | “In the present study, we propose the following invariant reactions as shown in Fig. 3 and 4: A112Re forms at 873 K by a solidstate reaction \[61Sav\], fcc + A16Re = A1\]2Re; A16Re forms at 960 K by L + AI4Re = A16Re \[63Veil; and there is a degenerated invariant reaction very close to the melting point of pure AI, 933.6 K, L + AI6Re = fcc + A16Re.” |
 | Phase transition | 963 K | 963 | L + A14Re = A16Re | experimental | [2] Huang 1998; _cites UM 1963_ | p. 2 | “Therefore, \[63Vei\] suggested that the invariant reactions at 873 and 963 K reported by \[61Say\] might correspond to the invariant reactions: L = fcc + Al12Re, and L + A14Re = A16Re, respectively.” |
@@ -137,9 +137,9 @@ Table: Phase transition, Al–Re system
 | Phase transition | 1863 K | 1863 | other | experimental | [2] Huang 1998; _cites ref. 61Sav_ | p. 2 | “The decomposition temperature of AlIIRe 4 was placed at 1863 K, which was the decomposition temperature of A1Re according to \[61Sav\].” |
 | Phase transition | 1923.15 K | 1923.15 | Al11Re4 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.075) | p. 3 | “Moreover, we have adopted the temperature of 1665 C as being the Al11Re4 melting temperature \[16\] instead of 1650 C \[4\] which is below the temperature of the L $ Al11Re4 ? (Re) eutectic reaction (Fig. 1).” |
 | Phase transition | 1938.15 K | 1938.15 | Al11Re4 | experimental | [1] Tamim 2020; _cites Schuster 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901485-7) | p. 3 | “Moreover, we have adopted the temperature of 1665 C as being the Al11Re4 melting temperature \[16\] instead of 1650 C \[4\] which is below the temperature of the L $ Al11Re4 ? (Re) eutectic reaction (Fig. 1).” |
-| Phase transition | 1938.15 K | 1938.15 | Congruent: L -> Al11Re4; _L: Re 0.266667; Al11Re4: Re 0.266667_ | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 14 |  |
-| Phase transition | 1938.15 K | 1938.15 | congruent | experimental | [1] Tamim 2020; _cites Schuster 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901485-7) | p. 8 | “In the phase diagram published by this authors, the Al11Re4 melts by a peritectic reaction at 1603 C (instead of a congruent melting at 1665 C) whereas AlRe2 undergoes a transformation at 2002 C (instead of 1494 C).” |
-| Phase transition | 1943.15 K | 1943.15 | Congruent: L -> Al11Re4; _L: Re 0.266667; Al11Re4: Re 0.266667_ | model | [1] Tamim 2020 | Table 1, p. 3, row 13 |  |
+| Phase transition | 1938.15 K | 1938.15 | congruent melting: L -> Al11Re4; _L: Re 0.266667; Al11Re4: Re 0.266667_ | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 14 |  |
+| Phase transition | 1938.15 K | 1938.15 | congruent transformation | experimental | [1] Tamim 2020; _cites Schuster 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901485-7) | p. 8 | “In the phase diagram published by this authors, the Al11Re4 melts by a peritectic reaction at 1603 C (instead of a congruent melting at 1665 C) whereas AlRe2 undergoes a transformation at 2002 C (instead of 1494 C).” |
+| Phase transition | 1943.15 K | 1943.15 | congruent melting: L -> Al11Re4; _L: Re 0.266667; Al11Re4: Re 0.266667_ | model | [1] Tamim 2020 | Table 1, p. 3, row 13 |  |
 | Phase transition | 2273 K | 2273 | chi | experimental | [2] Huang 1998 | p. 2 | “For alloys with 30 to 90 at.% Re, the melting points were measured using an optical pyrometer, and with the help of microstructural analysis and hardness measurements, the invariant melting reactions at 2273, 1863, and 1758 K were determined to be the incongruent melting points of the 3(, AI~Re, and A12Re phases, respectively. The uncertainties of the measurements were estimated to be at least +…” |
 | Phase transition | 2275.15 K | 2275.15 | other | model | [1] Tamim 2020; _cites Huang 1998_ [doi](https://doi.org/10.1361/105497198770342094) | p. 8 | “In the phase diagram published by this authors, the Al11Re4 melts by a peritectic reaction at 1603 C (instead of a congruent melting at 1665 C) whereas AlRe2 undergoes a transformation at 2002 C (instead of 1494 C).” |
 

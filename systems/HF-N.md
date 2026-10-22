@@ -76,7 +76,7 @@ Table: Phase transition, Hf–N system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 3273.15 K | 3273.15 |  | experimental | [1] Pang 2018; _cites Nowotny 1960_ | p. 2 | “The melting point of Fcc phase is 3000 oC according to Nowotny et al. \[24\].” |
 | Phase transition | 3639 K | 3639 |  | model | [1] Pang 2018 | p. 5 | “The calculated melting point of Fcc phase at 1 bar N2 pressure is 3639 K, which is 21 K lower than the experimental value reported by Booker and Brukl \[22\].” |
-| Phase transition | 3660.15 K | 3660.15 | congruent | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 2 | “However, Booker and Brukl \[22\] reported that the congruent melting point of Fcc phase is 3387 oC at 49 at. % N under 2 bar pressure of Ar.” |
+| Phase transition | 3660.15 K | 3660.15 | congruent transformation | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 2 | “However, Booker and Brukl \[22\] reported that the congruent melting point of Fcc phase is 3387 oC at 49 at. % N under 2 bar pressure of Ar.” |
 
 ## Sources
 

@@ -55,22 +55,22 @@ Table: Invariant reactions reported in the literature for the Ag–Dy system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1464 | Congruent: L -> AgDy | L: Dy 0.5; AgDy: Ag 0.5, Dy 0.5 | model | [1] Long 2010 | Table 3, p. 4, row 14 |  |
-| 1458 | Congruent: L -> AgDy | L: Dy 0.5; AgDy: Ag 0.5, Dy 0.5 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 15 |  |
-| 1263 | Congruent: L -> Ag51Dy14 | L: Dy 0.215; Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 11 |  |
-| 1254 | Congruent: L -> Ag51Dy14 | L: Dy 0.215; Ag51Dy14: Ag 0.784615, Dy 0.215385 | model | [1] Long 2010 | Table 3, p. 4, row 10 |  |
-| 1253 | Congruent: L -> Ag2Dy | L: Dy 0.333; Ag2Dy: Ag 0.666667, Dy 0.333333 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 13 |  |
-| 1245 | Congruent: L -> Ag2Dy | L: Dy 0.333; Ag2Dy: Ag 0.666667, Dy 0.333333 | model | [1] Long 2010 | Table 3, p. 4, row 12 |  |
-| 1223 | Eutectic: L -> Ag2Dy + AgDy | L: Dy 0.369; Ag2Dy: Ag 0.666667, Dy 0.333333; AgDy: Ag 0.5, Dy 0.5 | model | [1] Long 2010 | Table 3, p. 4, row 6 |  |
-| 1223 | Eutectic: L -> Ag2Dy + AgDy | L: Dy 0.375; Ag2Dy: Ag 0.666667, Dy 0.333333; AgDy: Ag 0.5, Dy 0.5 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 7 |  |
-| 1182 | Eutectic: L -> Ag51Dy14 + Ag2Dy | L: Dy 0.275; Ag51Dy14: Ag 0.784615, Dy 0.215385; Ag2Dy: Ag 0.666667, Dy 0.333333 | model | [1] Long 2010 | Table 3, p. 4, row 4 |  |
-| 1178 | Eutectic: L -> Ag51Dy14 + Ag2Dy | L: Dy 0.286; Ag51Dy14: Ag 0.784615, Dy 0.215385; Ag2Dy: Ag 0.666667, Dy 0.333333 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 5 |  |
-| 1173 | Eutectic: L -> AgDy + Hcp(Dy) | L: Dy 0.745; AgDy: Ag 0.5, Dy 0.5 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 9 |  |
-| 1171 | Eutectic: L -> AgDy + Hcp(Dy) | L: Dy 0.695; AgDy: Ag 0.5, Dy 0.5 | model | [1] Long 2010 | Table 3, p. 4, row 8 |  |
-| 1075 | Eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.111; Ag51Dy14: Ag 0.784615, Dy 0.215385 | model | [1] Long 2010 | Table 3, p. 4, row 1 |  |
+| 1464 | congruent melting: L -> AgDy | L: Dy 0.5; AgDy: Ag 0.5, Dy 0.5 | model | [1] Long 2010 | Table 3, p. 4, row 14 |  |
+| 1458 | congruent melting: L -> AgDy | L: Dy 0.5; AgDy: Ag 0.5, Dy 0.5 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 15 |  |
+| 1263 | congruent melting: L -> Ag51Dy14 | L: Dy 0.215; Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 11 |  |
+| 1254 | congruent melting: L -> Ag51Dy14 | L: Dy 0.215; Ag51Dy14: Ag 0.784615, Dy 0.215385 | model | [1] Long 2010 | Table 3, p. 4, row 10 |  |
+| 1253 | congruent melting: L -> Ag2Dy | L: Dy 0.333; Ag2Dy: Ag 0.666667, Dy 0.333333 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 13 |  |
+| 1245 | congruent melting: L -> Ag2Dy | L: Dy 0.333; Ag2Dy: Ag 0.666667, Dy 0.333333 | model | [1] Long 2010 | Table 3, p. 4, row 12 |  |
+| 1223 | eutectic: L -> Ag2Dy + AgDy | L: Dy 0.369; Ag2Dy: Ag 0.666667, Dy 0.333333; AgDy: Ag 0.5, Dy 0.5 | model | [1] Long 2010 | Table 3, p. 4, row 6 |  |
+| 1223 | eutectic: L -> Ag2Dy + AgDy | L: Dy 0.375; Ag2Dy: Ag 0.666667, Dy 0.333333; AgDy: Ag 0.5, Dy 0.5 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 7 |  |
+| 1182 | eutectic: L -> Ag51Dy14 + Ag2Dy | L: Dy 0.275; Ag51Dy14: Ag 0.784615, Dy 0.215385; Ag2Dy: Ag 0.666667, Dy 0.333333 | model | [1] Long 2010 | Table 3, p. 4, row 4 |  |
+| 1178 | eutectic: L -> Ag51Dy14 + Ag2Dy | L: Dy 0.286; Ag51Dy14: Ag 0.784615, Dy 0.215385; Ag2Dy: Ag 0.666667, Dy 0.333333 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 5 |  |
+| 1173 | eutectic: L -> AgDy + Hcp(Dy) | L: Dy 0.745; AgDy: Ag 0.5, Dy 0.5 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 9 |  |
+| 1171 | eutectic: L -> AgDy + Hcp(Dy) | L: Dy 0.695; AgDy: Ag 0.5, Dy 0.5 | model | [1] Long 2010 | Table 3, p. 4, row 8 |  |
+| 1075 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.111; Ag51Dy14: Ag 0.784615, Dy 0.215385 | model | [1] Long 2010 | Table 3, p. 4, row 1 |  |
 | 1074 | eutectic: L ↔ Fcc(Ag) + Ag51 Dy14 |  | experimental | [1] Long 2010; _cites Gschneidner 1971_ | p. 1 | “Gschneidner et al. \[16\] measured the maximum solid solubility of Dy in Ag to be 1.3 at.%, and determined the eutectic temperature of L ↔ Fcc(Ag) + Ag51 Dy14 as 1074 K.” |
-| 1074 | Eutectic: L -> Fcc(Ag) + Ag51Dy14 | Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Gschneidner 1971_ | Table 3, p. 4, row 3 |  |
-| 1073 | Eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.12; Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 2 |  |
+| 1074 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Gschneidner 1971_ | Table 3, p. 4, row 3 |  |
+| 1073 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.12; Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 2 |  |
 
 ## Sources
 

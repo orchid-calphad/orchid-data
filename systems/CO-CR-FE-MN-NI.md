@@ -28,90 +28,90 @@ Table: Mixing / partial, Co–Cr–Fe–Mn–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -12497 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -7801 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -6517 J/mol-atom |  | UNKNOWN; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -7568 J/mol-atom |  | UNKNOWN; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -3952 J/mol-atom |  | UNKNOWN; _alloy: Fe 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -5794 J/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 21 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -7185 J/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 21 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -5308 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -4376 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -9484 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -6706 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -9274 J/mol-atom |  | UNKNOWN; _alloy: Co 0, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -6447 J/mol-atom |  | UNKNOWN; _alloy: Co 0, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -6475 J/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 22 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -9786 J/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 22 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | 732 J/mol-atom |  | UNKNOWN; _alloy: Mn 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -3392 J/mol-atom |  | UNKNOWN; _alloy: Co 0.5, Fe 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -5463 J/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 23 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -4827 J/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 23 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -4227 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -4729 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -5506 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -7403 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -3982 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -7043 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -4128 J/mol-atom |  | UNKNOWN; _alloy: Cr 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -9719 J/mol-atom |  | UNKNOWN; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -2865 J/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 24 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -2759 J/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 24 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -7372 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -9275 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -4163 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -2690 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -991 J/mol-atom |  | UNKNOWN; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | 3193 J/mol-atom |  | UNKNOWN; _alloy: Co 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -9782 J/mol-atom |  | UNKNOWN; _alloy: Cr 0.5, Fe 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | 798 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | 3331 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -1450 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -2060 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixHSQS_ | -4694 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -8443 J/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -12497 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7801 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6517 J/mol-atom |  | fcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7568 J/mol-atom |  | fcc; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3952 J/mol-atom |  | fcc; _alloy: Fe 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7185 J/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 21 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5794 J/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 21 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4376 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5308 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9484 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6706 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9274 J/mol-atom |  | fcc; _alloy: Co 0, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6447 J/mol-atom |  | fcc; _alloy: Co 0, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9786 J/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 22 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6475 J/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 22 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 732 J/mol-atom |  | fcc; _alloy: Mn 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3392 J/mol-atom |  | fcc; _alloy: Co 0.5, Fe 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4827 J/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 23 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -5463 J/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 23 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4729 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4227 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7403 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5506 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3982 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7043 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4128 J/mol-atom |  | fcc; _alloy: Cr 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -9719 J/mol-atom |  | fcc; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -2759 J/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 24 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -2865 J/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 24 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9275 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7372 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -2690 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4163 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -991 J/mol-atom |  | fcc; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3193 J/mol-atom |  | fcc; _alloy: Co 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -9782 J/mol-atom |  | fcc; _alloy: Cr 0.5, Fe 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | 798 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3331 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -1450 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -2060 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4694 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -8443 J/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -12.497 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -7.801 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -6.517 kJ/mol-atom |  | UNKNOWN; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -7.568 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -3.952 kJ/mol-atom |  | UNKNOWN; _alloy: Fe 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -5.794 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 21 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -7.185 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 21 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -5.308 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -4.376 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -9.484 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -6.706 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -9.274 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -6.447 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -6.475 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 22 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -9.786 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 22 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | 0.732 kJ/mol-atom |  | UNKNOWN; _alloy: Mn 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -3.392 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.5, Fe 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -5.463 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 23 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -4.827 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0.25, Fe 0, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 23 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -4.227 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -4.729 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -5.506 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -7.403 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -3.982 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -7.043 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -4.128 kJ/mol-atom |  | UNKNOWN; _alloy: Cr 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -9.719 kJ/mol-atom |  | UNKNOWN; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -2.865 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 24 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -2.759 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.25, Cr 0, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 24 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -7.372 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -9.275 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -4.163 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -2.69 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -0.991 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | 3.193 kJ/mol-atom |  | UNKNOWN; _alloy: Co 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -9.782 kJ/mol-atom |  | UNKNOWN; _alloy: Cr 0.5, Fe 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | 0.798 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | 3.331 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -1.45 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -2.06 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixHSQS_ | -4.694 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixHextrapolation_ | -8.443 kJ/mol-atom |  | UNKNOWN | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -12.497 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7.801 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.517 kJ/mol-atom |  | fcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7.568 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.952 kJ/mol-atom |  | fcc; _alloy: Fe 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7.185 kJ/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 21 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5.794 kJ/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 21 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.376 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5.308 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.484 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.706 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.274 kJ/mol-atom |  | fcc; _alloy: Co 0, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.447 kJ/mol-atom |  | fcc; _alloy: Co 0, Cr 0.25, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.786 kJ/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 22 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.475 kJ/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0.25, Mn 0, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 22 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 0.732 kJ/mol-atom |  | fcc; _alloy: Mn 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.392 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Fe 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.827 kJ/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 23 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -5.463 kJ/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0.25, Fe 0, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 23 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.729 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.227 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7.403 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -5.506 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 26 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.982 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -7.043 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 19 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.128 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -9.719 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -2.759 kJ/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 24 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -2.865 kJ/mol-atom |  | fcc; _alloy: Co 0.25, Cr 0, Fe 0.25, Mn 0.25, Ni 0.25_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 24 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -9.275 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7.372 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -2.69 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -4.163 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 20 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -0.991 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3.193 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Mn 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -9.782 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Fe 0.5_ | DFT | [1] Bracq 2021 | Table 1, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | 0.798 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3.331 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -1.45 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -2.06 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.694 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH^extrapolation_ | -8.443 kJ/mol-atom |  | fcc | DFT | [1] Bracq 2021 | Table 1, p. 4, row 13 |  |
 
 ## Sources
 

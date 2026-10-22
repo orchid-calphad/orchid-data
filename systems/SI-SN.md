@@ -60,7 +60,7 @@ Table: Invariant reactions reported in the literature for the Si–Sn system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 505.1 | Degenerate: Liquid -> bct-A5 + diamond | L: Sn 0; bct-A5: Sn 0; diamond: Sn 1 | model | [1] Hämäläinen 1998 | Table I, p. 281, row 1 |  |
+| 505.1 | other: Liquid -> bct-A5 + diamond | L: Sn 0; bct-A5: Sn 0; diamond: Sn 1 | model | [1] Hämäläinen 1998 | Table I, p. 281, row 1 |  |
 | 505.08 | eutectic |  | model | [2] Jacobs 1996 | p. 2 | “The calculated position of the eutectic point is T=505.08 K and 4\*10- at% SI.” |
 
 ## Other properties

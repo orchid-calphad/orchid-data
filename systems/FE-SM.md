@@ -83,14 +83,14 @@ Table: Invariant reactions reported in the literature for the Fe–Sm system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1558 | Peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Liquid: Sm 0.247; f.c.c. Fe: Sm 0; Fe17Sm2: Sm 0.105 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 2 |  |
-| 1553 | Peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Fe17Sm2: Sm 0.105263 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 1 |  |
-| 1287 | Peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Liquid: Sm 0.544; Fe17Sm2: Sm 0.105; Fe3Sm: Sm 0.25 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 4 |  |
-| 1283 | Peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Fe17Sm2: Sm 0.105263; Fe3Sm: Sm 0.25 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 3 |  |
-| 1173 | Peritectic: Liquid + Fe3Sm -> Fe2Sm | Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 5 |  |
-| 1172 | Peritectic: Liquid + Fe3Sm -> Fe2Sm | Liquid: Sm 0.631; Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 6 |  |
-| 997 | Eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.768; Fe2Sm: Sm 0.333; α-Sm: Sm 1 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 8 |  |
-| 993 | Eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.75; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 7 |  |
+| 1558 | peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Liquid: Sm 0.247; f.c.c. Fe: Sm 0; Fe17Sm2: Sm 0.105 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 2 |  |
+| 1553 | peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Fe17Sm2: Sm 0.105263 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 1 |  |
+| 1287 | peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Liquid: Sm 0.544; Fe17Sm2: Sm 0.105; Fe3Sm: Sm 0.25 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 4 |  |
+| 1283 | peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Fe17Sm2: Sm 0.105263; Fe3Sm: Sm 0.25 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 3 |  |
+| 1173 | peritectic: Liquid + Fe3Sm -> Fe2Sm | Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 5 |  |
+| 1172 | peritectic: Liquid + Fe3Sm -> Fe2Sm | Liquid: Sm 0.631; Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 6 |  |
+| 997 | eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.768; Fe2Sm: Sm 0.333; α-Sm: Sm 1 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 8 |  |
+| 993 | eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.75; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 7 |  |
 
 ## Other properties
 

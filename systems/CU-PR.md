@@ -58,16 +58,16 @@ Table: Invariant reactions reported in the literature for the Cu–Pr system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1218 | Congruent: liq -> Cu6Pr | L: Pr 0.143; Cu6Pr: Cu 0.857143, Pr 0.142857 | model | [1] Zhuang 1996 | Table 5, p. 7, row 2 |  |
-| 1169 | Eutectic: liq -> Cu(fcc) + Cu6Pr | L: Pr 0.086; Cu6Pr: Cu 0.857143, Pr 0.142857 | model | [1] Zhuang 1996 | Table 5, p. 7, row 1 |  |
-| 1104 | Peritectic: liq + Cu6Pr -> Cu5Pr | L: Pr 0.243; Cu6Pr: Cu 0.857143, Pr 0.142857; Cu5Pr: Cu 0.833333, Pr 0.166667 | model | [1] Zhuang 1996 | Table 5, p. 7, row 3 |  |
-| 1104 | Congruent: liq -> Cu2Pr | L: Pr 0.333; Cu2Pr: Cu 0.666667, Pr 0.333333 | model | [1] Zhuang 1996 | Table 5, p. 7, row 6 |  |
+| 1218 | congruent melting: liq -> Cu6Pr | L: Pr 0.143; Cu6Pr: Cu 0.857143, Pr 0.142857 | model | [1] Zhuang 1996 | Table 5, p. 7, row 2 |  |
+| 1169 | eutectic: liq -> Cu(fcc) + Cu6Pr | L: Pr 0.086; Cu6Pr: Cu 0.857143, Pr 0.142857 | model | [1] Zhuang 1996 | Table 5, p. 7, row 1 |  |
+| 1104 | peritectic: liq + Cu6Pr -> Cu5Pr | L: Pr 0.243; Cu6Pr: Cu 0.857143, Pr 0.142857; Cu5Pr: Cu 0.833333, Pr 0.166667 | model | [1] Zhuang 1996 | Table 5, p. 7, row 3 |  |
+| 1104 | congruent melting: liq -> Cu2Pr | L: Pr 0.333; Cu2Pr: Cu 0.666667, Pr 0.333333 | model | [1] Zhuang 1996 | Table 5, p. 7, row 6 |  |
 | 1100 | peritectic: liquid + Cu6Pr -> Cu5Pr |  | model | [1] Zhuang 1996 | p. 4 | “According to the formation rule of the other CusR phases, CusPr is likely to form from Cu6Pr and liquid through a peritectic reaction at about 1100 K, which is determined by interpolation of the melting data of other CusR phases.” |
-| 1093 | Peritectic: liq + Cu5Pr -> Cu4Pr | L: Pr 0.249; Cu5Pr: Cu 0.833333, Pr 0.166667; Cu4Pr: Cu 0.8, Pr 0.2 | model | [1] Zhuang 1996 | Table 5, p. 7, row 4 |  |
-| 1069 | Eutectic: liq -> Cu4Pr + Cu2Pr | L: Pr 0.27; Cu4Pr: Cu 0.8, Pr 0.2; Cu2Pr: Cu 0.666667, Pr 0.333333 | model | [1] Zhuang 1996 | Table 5, p. 7, row 5 |  |
-| 1068 | Catatectic: Pr(bcc) -> liq + Pr(dcph) | L: Pr 0.912 | model | [1] Zhuang 1996 | Table 5, p. 7, row 9 |  |
-| 855 | Peritectic: liq + Cu2Pr -> CuPr | L: Pr 0.53; Cu2Pr: Cu 0.666667, Pr 0.333333; CuPr: Cu 0.5, Pr 0.5 | model | [1] Zhuang 1996 | Table 5, p. 7, row 7 |  |
-| 715 | Eutectic: liq -> CuPr + Pr(dcph) | L: Pr 0.698; CuPr: Cu 0.5, Pr 0.5 | model | [1] Zhuang 1996 | Table 5, p. 7, row 8 |  |
+| 1093 | peritectic: liq + Cu5Pr -> Cu4Pr | L: Pr 0.249; Cu5Pr: Cu 0.833333, Pr 0.166667; Cu4Pr: Cu 0.8, Pr 0.2 | model | [1] Zhuang 1996 | Table 5, p. 7, row 4 |  |
+| 1069 | eutectic: liq -> Cu4Pr + Cu2Pr | L: Pr 0.27; Cu4Pr: Cu 0.8, Pr 0.2; Cu2Pr: Cu 0.666667, Pr 0.333333 | model | [1] Zhuang 1996 | Table 5, p. 7, row 5 |  |
+| 1068 | metatectic/catatectic: Pr(bcc) -> liq + Pr(dcph) | L: Pr 0.912 | model | [1] Zhuang 1996 | Table 5, p. 7, row 9 |  |
+| 855 | peritectic: liq + Cu2Pr -> CuPr | L: Pr 0.53; Cu2Pr: Cu 0.666667, Pr 0.333333; CuPr: Cu 0.5, Pr 0.5 | model | [1] Zhuang 1996 | Table 5, p. 7, row 7 |  |
+| 715 | eutectic: liq -> CuPr + Pr(dcph) | L: Pr 0.698; CuPr: Cu 0.5, Pr 0.5 | model | [1] Zhuang 1996 | Table 5, p. 7, row 8 |  |
 
 ## Sources
 

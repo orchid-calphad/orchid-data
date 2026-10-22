@@ -26,8 +26,8 @@ Table: Invariant reactions reported in the literature for the B–C–Fe system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1499.86 | E: L -> Fe3(B,C) + Fe2(B,C) + Fe(B,C) | L: B 0.147353, C 0.113108, Fe 0.739538 | model | [1] Enoki 2024 | Table 3, p. 12, row 2 |  |
-| 1388.06 | E: L -> (γFe) + Fe3(B,C) + Fe2(B,C) | L: B 0.11639, C 0.05459, Fe 0.82902 | model | [1] Enoki 2024 | Table 3, p. 12, row 1 |  |
+| 1499.86 | eutectic: L -> Fe3(B,C) + Fe2(B,C) + Fe(B,C) | L: B 0.147353, C 0.113108, Fe 0.739538 | model | [1] Enoki 2024 | Table 3, p. 12, row 2 |  |
+| 1388.06 | eutectic: L -> (γFe) + Fe3(B,C) + Fe2(B,C) | L: B 0.11639, C 0.05459, Fe 0.82902 | model | [1] Enoki 2024 | Table 3, p. 12, row 1 |  |
 
 ## Sources
 

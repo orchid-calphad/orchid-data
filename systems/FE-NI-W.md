@@ -1,10 +1,10 @@
 # Fe–Ni–W system
 
-> Fe–Ni–W system: 140 accepted literature values (phase equilibrium 140) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ni–W system: 118 accepted literature values (phase equilibrium 118) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NI-W.html · Markdown: https://data.orchid-project.org/systems/FE-NI-W.md
 
-140 accepted literature values from 1 paper(s) (experimental 140); 0 calculated phase diagram(s).
+118 accepted literature values from 1 paper(s) (experimental 118); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NI-W.json) · [CSV](https://data.orchid-project.org/systems/FE-NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NI-W) · [Markdown](https://data.orchid-project.org/systems/FE-NI-W.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 140 |
+| experimental | 118 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase equilibrium | 140 |
+| phase equilibrium | 118 |
 
 ## Other properties
 
-### Phase equilibrium (140)
+### Phase equilibrium (118)
 
 Table: Phase equilibrium, Fe–Ni–W system
 
@@ -30,48 +30,26 @@ Table: Phase equilibrium, Fe–Ni–W system
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 1273 | "Ni4W" + "NiW"; _"Ni4W": Fe 0.001476, Ni 0.808876, W 0.189648; "NiW": Fe 0.004183, Ni 0.531361, W 0.464456_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 11 |  |
 | Phase composition |  | 1273 | "Ni4W" + "NiW"; _"Ni4W": Fe 0.021949, Ni 0.793585, W 0.184466; "NiW": Fe 0, Ni 0.517397, W 0.482603_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 4 |  |
-| Phase composition |  | 1273 | "Ni4W" + "NiW"; _"Ni4W": Fe 0.021949, Ni 0.793585, W 0.184466; "NiW": Fe 0, Ni 0.517397, W 0.482603_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 4 |  |
-| Phase composition |  | 1273 | "Ni4W" + "NiW"; _"Ni4W": Fe 0.001476, Ni 0.808876, W 0.189648; "NiW": Fe 0.004183, Ni 0.531361, W 0.464456_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 11 |  |
 | Phase composition |  | 1273 | bcc + Laves; _bcc: Fe 0.966707, Ni 0.002039, W 0.031254; Laves: Fe 0.685316, Ni 0.001634, W 0.31305_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 22 |  |
 | Phase composition |  | 1273 | bcc + Laves; _bcc: Fe 0.972282, Ni 0.004013, W 0.023705; Laves: Fe 0.690666, Ni 0.001623, W 0.307712_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 9 |  |
-| Phase composition |  | 1273 | bcc + Laves; _bcc: Fe 0.966707, Ni 0.002039, W 0.031254; Laves: Fe 0.685316, Ni 0.001634, W 0.31305_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 22 |  |
-| Phase composition |  | 1273 | bcc + Laves; _bcc: Fe 0.972282, Ni 0.004013, W 0.023705; Laves: Fe 0.690666, Ni 0.001623, W 0.307712_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 9 |  |
 | Phase composition |  | 1273 | bcc(W) + fcc; _fcc: Fe 0.112257, Ni 0.757837, W 0.129906_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 13 |  |
 | Phase composition |  | 1273 | bcc(W) + fcc; _fcc: Fe 0.248505, Ni 0.668569, W 0.082926_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 14 |  |
 | Phase composition |  | 1273 | bcc(W) + fcc; _fcc: Fe 0.440083, Ni 0.515355, W 0.044561_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 15 |  |
 | Phase composition |  | 1273 | bcc(W) + fcc; _bcc(W): Fe 0.030956, Ni 0.055962, W 0.913082; fcc: Fe 0.335068, Ni 0.608933, W 0.055999_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 1 |  |
 | Phase composition |  | 1273 | bcc(W) + fcc; _bcc(W): Fe 0.031018, Ni 0.053123, W 0.915858; fcc: Fe 0.323561, Ni 0.616828, W 0.059611_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 6 |  |
-| Phase composition |  | 1273 | bcc(W) + fcc; _fcc: Fe 0.440083, Ni 0.515355, W 0.044561_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 15 |  |
-| Phase composition |  | 1273 | bcc(W) + fcc; _bcc(W): Fe 0.031018, Ni 0.053123, W 0.915858; fcc: Fe 0.323561, Ni 0.616828, W 0.059611_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 6 |  |
-| Phase composition |  | 1273 | bcc(W) + fcc; _fcc: Fe 0.248505, Ni 0.668569, W 0.082926_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 14 |  |
-| Phase composition |  | 1273 | bcc(W) + fcc; _fcc: Fe 0.112257, Ni 0.757837, W 0.129906_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 13 |  |
-| Phase composition |  | 1273 | bcc(W) + fcc; _bcc(W): Fe 0.030956, Ni 0.055962, W 0.913082; fcc: Fe 0.335068, Ni 0.608933, W 0.055999_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 1 |  |
 | Phase composition |  | 1273 | bcc(W) + μ-Phase; _μ-Phase: Fe 0.453762, Ni 0.132127, W 0.414111_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 16 |  |
-| Phase composition |  | 1273 | bcc(W) + μ-Phase; _μ-Phase: Fe 0.453762, Ni 0.132127, W 0.414111_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 16 |  |
 | Phase composition |  | 1273 | fcc + "Ni4W"; _fcc: Fe 0, Ni 0.853307, W 0.146693; "Ni4W": Fe 0, Ni 0.812222, W 0.187778_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 5 |  |
 | Phase composition |  | 1273 | fcc + "Ni4W"; _fcc: Fe 0.008283, Ni 0.844533, W 0.147184; "Ni4W": Fe 0, Ni 0.810967, W 0.189033_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 12 |  |
 | Phase composition |  | 1273 | fcc + "Ni4W"; _fcc: Fe 0.005669, Ni 0.830721, W 0.163609; "Ni4W": Fe 0, Ni 0.811595, W 0.188405_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 2 |  |
-| Phase composition |  | 1273 | fcc + "Ni4W"; _fcc: Fe 0.005669, Ni 0.830721, W 0.163609; "Ni4W": Fe 0, Ni 0.811595, W 0.188405_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 2 |  |
-| Phase composition |  | 1273 | fcc + "Ni4W"; _fcc: Fe 0.008283, Ni 0.844533, W 0.147184; "Ni4W": Fe 0, Ni 0.810967, W 0.189033_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 12 |  |
-| Phase composition |  | 1273 | fcc + "Ni4W"; _fcc: Fe 0, Ni 0.853307, W 0.146693; "Ni4W": Fe 0, Ni 0.812222, W 0.187778_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 5 |  |
 | Phase composition |  | 1273 | fcc + "NiW"; _fcc: Fe 0.039758, Ni 0.816566, W 0.143676; "NiW": Fe 0.018939, Ni 0.510575, W 0.470486_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 3 |  |
-| Phase composition |  | 1273 | fcc + "NiW"; _fcc: Fe 0.039758, Ni 0.816566, W 0.143676; "NiW": Fe 0.018939, Ni 0.510575, W 0.470486_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 3 |  |
 | Phase composition |  | 1273 | fcc + "NiW"; _fcc: Fe 0.097289, Ni 0.77478, W 0.12793; "NiW": Fe 0.048663, Ni 0.475091, W 0.476247_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 7 |  |
-| Phase composition |  | 1273 | fcc + "NiW"; _fcc: Fe 0.097289, Ni 0.77478, W 0.12793; "NiW": Fe 0.048663, Ni 0.475091, W 0.476247_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 7 |  |
 | Phase composition |  | 1273 | fcc + Laves; _fcc: Fe 0.964137, Ni 0.018802, W 0.017061; Laves: Fe 0.688257, Ni 0.004863, W 0.30688_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 8 |  |
-| Phase composition |  | 1273 | fcc + Laves; _fcc: Fe 0.964137, Ni 0.018802, W 0.017061; Laves: Fe 0.688257, Ni 0.004863, W 0.30688_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 8 |  |
 | Phase composition |  | 1273 | fcc + Laves; _fcc: Fe 0.967111, Ni 0.015831, W 0.017058; Laves: Fe 0.684554, Ni 0.003265, W 0.312181_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 10 |  |
-| Phase composition |  | 1273 | fcc + Laves; _fcc: Fe 0.967111, Ni 0.015831, W 0.017058; Laves: Fe 0.684554, Ni 0.003265, W 0.312181_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 10 |  |
 | Phase composition |  | 1273 | fcc + μ-Phase; _fcc: Fe 0.876704, Ni 0.096405, W 0.026891; μ-Phase: Fe 0.609708, Ni 0.015918, W 0.374374_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 19 |  |
 | Phase composition |  | 1273 | fcc + μ-Phase; _fcc: Fe 0.874662, Ni 0.098445, W 0.026894; μ-Phase: Fe 0.617022, Ni 0.020905, W 0.362073_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 20 |  |
 | Phase composition |  | 1273 | fcc + μ-Phase; _fcc: Fe 0.88194, Ni 0.083502, W 0.034558; μ-Phase: Fe 0.622349, Ni 0.015674, W 0.361977_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 18 |  |
-| Phase composition |  | 1273 | fcc + μ-Phase; _fcc: Fe 0.876704, Ni 0.096405, W 0.026891; μ-Phase: Fe 0.609708, Ni 0.015918, W 0.374374_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 19 |  |
-| Phase composition |  | 1273 | fcc + μ-Phase; _fcc: Fe 0.874662, Ni 0.098445, W 0.026894; μ-Phase: Fe 0.617022, Ni 0.020905, W 0.362073_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 20 |  |
 | Phase composition |  | 1273 | fcc + μ-Phase; _fcc: Fe 0.581045, Ni 0.384589, W 0.034367; μ-Phase: Fe 0.474991, Ni 0.118058, W 0.406951_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 17 |  |
-| Phase composition |  | 1273 | fcc + μ-Phase; _fcc: Fe 0.88194, Ni 0.083502, W 0.034558; μ-Phase: Fe 0.622349, Ni 0.015674, W 0.361977_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 18 |  |
-| Phase composition |  | 1273 | fcc + μ-Phase; _fcc: Fe 0.581045, Ni 0.384589, W 0.034367; μ-Phase: Fe 0.474991, Ni 0.118058, W 0.406951_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 17 |  |
 | Phase composition |  | 1273 | μ-Phase + Laves; _μ-Phase: Fe 0.61024, Ni 0.001798, W 0.387962; Laves: Fe 0.683516, Ni 0.001638, W 0.314846_ | experimental | [1] Guillermet 1986 | Table IV, p. 3, row 21 |  |
-| Phase composition |  | 1273 | μ-Phase + Laves; _μ-Phase: Fe 0.61024, Ni 0.001798, W 0.387962; Laves: Fe 0.683516, Ni 0.001638, W 0.314846_ | experimental | [1] Guillermet 1986 | Table V, p. 3, row 21 |  |
 | Phase composition |  | 1473 | bcc + fcc; _bcc: Fe 0.907306, Ni 0.030481, W 0.062213; fcc: Fe 0.914804, Ni 0.040948, W 0.044248_ | experimental | [1] Guillermet 1986 | Table VI, p. 4, row 9 |  |
 | Phase composition |  | 1473 | bcc + fcc; _bcc: Fe 0.941685, Ni 0.016689, W 0.041626; fcc: Fe 0.948303, Ni 0.020414, W 0.031283_ | experimental | [1] Guillermet 1986 | Table VI, p. 4, row 27 |  |
 | Phase composition |  | 1473 | bcc + fcc; _bcc: Fe 0.951104, Ni 0.012081, W 0.036816; fcc: Fe 0.959867, Ni 0.016075, W 0.024058_ | experimental | [1] Guillermet 1986 | Table VI, p. 4, row 10 |  |

@@ -48,19 +48,19 @@ Table: Crystal structure, Fe–Ni–Ti system
 | Lattice a | 0.35913 nm | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1 |  |
 | Lattice a | 0.35837 nm | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1 |  |
 | Lattice a | 0.35939 nm | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.35523 nm | 790.15 ({'op': '\<', 'printed': '\<517', 'value_K': 790.15}) | FeNi3 | model | [1] Keyzer 2009 | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.29506 nm | 1155.15 ({'op': '\<', 'printed': '\<882', 'value_K': 1155.15}) | α-Ti; _α-Ti: Fe 4.000e-4, Ni 0.002, Ti 0.9976_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 3 |  |
-| Lattice a | 1.1338 nm | 1257.15 ({'op': '\<', 'printed': '\<984', 'value_K': 1257.15}) | NiTi2; _alloy: Ni 0.333333, Ti 0.666667_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 10 |  |
-| Lattice a | 1.13193 nm | 1257.15 ({'op': '\<', 'printed': '\<984', 'value_K': 1257.15}) | NiTi2; _alloy: Ni 0.333333, Ti 0.666667_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.5103 nm | 1653.15 ({'op': '\<', 'printed': '\<1380', 'value_K': 1653.15}) | Ni3Ti | model | [1] Keyzer 2009 | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.51088 nm | 1653.15 ({'op': '\<', 'printed': '\<1380', 'value_K': 1653.15}) | Ni3Ti | model | [1] Keyzer 2009 | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.4956 nm | 1700.15 ({'op': '\<', 'printed': '\<1427', 'value_K': 1700.15}) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.4785 nm | 1700.15 ({'op': '\<', 'printed': '\<1427', 'value_K': 1700.15}) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8 |  |
-| Lattice c | 0.46825 nm | 1155.15 ({'op': '\<', 'printed': '\<882', 'value_K': 1155.15}) | α-Ti; _α-Ti: Fe 4.000e-4, Ni 0.002, Ti 0.9976_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 3 |  |
-| Lattice c | 0.832 nm | 1653.15 ({'op': '\<', 'printed': '\<1380', 'value_K': 1653.15}) | Ni3Ti | model | [1] Keyzer 2009 | Table 1, p. 3, row 9 |  |
-| Lattice c | 0.83187 nm | 1653.15 ({'op': '\<', 'printed': '\<1380', 'value_K': 1653.15}) | Ni3Ti | model | [1] Keyzer 2009 | Table 1, p. 3, row 9 |  |
-| Lattice c | 0.8032 nm | 1700.15 ({'op': '\<', 'printed': '\<1427', 'value_K': 1700.15}) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8 |  |
-| Lattice c | 0.7799 nm | 1700.15 ({'op': '\<', 'printed': '\<1427', 'value_K': 1700.15}) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8 |  |
+| Lattice a | 0.35523 nm | 790.15 (\<) | FeNi3 | model | [1] Keyzer 2009 | Table 1, p. 3, row 4 |  |
+| Lattice a | 0.29506 nm | 1155.15 (\<) | α-Ti; _α-Ti: Fe 4.000e-4, Ni 0.002, Ti 0.9976_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 3 |  |
+| Lattice a | 1.1338 nm | 1257.15 (\<) | NiTi2; _alloy: Ni 0.333333, Ti 0.666667_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 10 |  |
+| Lattice a | 1.13193 nm | 1257.15 (\<) | NiTi2; _alloy: Ni 0.333333, Ti 0.666667_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 10 |  |
+| Lattice a | 0.5103 nm | 1653.15 (\<) | Ni3Ti | model | [1] Keyzer 2009 | Table 1, p. 3, row 9 |  |
+| Lattice a | 0.51088 nm | 1653.15 (\<) | Ni3Ti | model | [1] Keyzer 2009 | Table 1, p. 3, row 9 |  |
+| Lattice a | 0.4956 nm | 1700.15 (\<) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8 |  |
+| Lattice a | 0.4785 nm | 1700.15 (\<) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8 |  |
+| Lattice c | 0.46825 nm | 1155.15 (\<) | α-Ti; _α-Ti: Fe 4.000e-4, Ni 0.002, Ti 0.9976_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 3 |  |
+| Lattice c | 0.832 nm | 1653.15 (\<) | Ni3Ti | model | [1] Keyzer 2009 | Table 1, p. 3, row 9 |  |
+| Lattice c | 0.83187 nm | 1653.15 (\<) | Ni3Ti | model | [1] Keyzer 2009 | Table 1, p. 3, row 9 |  |
+| Lattice c | 0.8032 nm | 1700.15 (\<) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8 |  |
+| Lattice c | 0.7799 nm | 1700.15 (\<) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8 |  |
 
 ## Sources
 

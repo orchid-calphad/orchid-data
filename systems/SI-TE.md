@@ -98,7 +98,7 @@ Table: Phase transition, Si–Te system
 | Phase transition | 1165.25 K | 1165.25 | Si + L + p-SisTes | model | [1] Feutelais 1999 | p. 6 | “The calculated invariants are : T = 892.1"C Si + L + p-SisTes with zke = 0.604 T = 407.O"C L + ,&SisTes + Te with zTe L - 0.865” |
 | Phase transition | 1165.25 K | 1165.25 | peritectic | model | [1] Feutelais 1999 | Table 1, p. 9, row 11 |  |
 | Phase transition | 1168.15 K | 1168.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 14_ | Table 1, p. 9, row 4 |  |
-| Phase transition | 1406 K | 1406 | liquidus | model | [1] Feutelais 1999; _cites ref. 14_ | p. 5 | “As shown in the Figure 1, the liquidus data reported by \[14\] (1406 K, XT= = 0.4) was not used in the final optimization data file because it is in complete disagreement with other results.” |
+| Phase transition | 1406 K | 1406 | other | model | [1] Feutelais 1999; _cites ref. 14_ | p. 5 | “As shown in the Figure 1, the liquidus data reported by \[14\] (1406 K, XT= = 0.4) was not used in the final optimization data file because it is in complete disagreement with other results.” |
 | Phase transition | 1684.15 K | 1684.15 |  | experimental | [1] Feutelais 1999; _cites ref. 16_ | p. 5 | “On thte contrary, \[16\] reported an observed melting point of pure silicon at 1411°C.” |
 
 ## Sources

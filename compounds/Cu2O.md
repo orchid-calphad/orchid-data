@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Cu2O.html · Markdown: https://data.orchid-project.org/compounds/Cu2O.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 5, model 3); experimental median -170.83 kJ/mol-atom (n = 5); Materials Project -62.185 kJ/mol-atom (mp-aaaaaanx); OQMD -66.037 kJ/mol-atom (oqmd-643065).
+8 accepted literature formation-enthalpy value(s) (experimental 5, model 3); experimental median -56.943 kJ/mol-atom (n = 5); Materials Project -62.185 kJ/mol-atom (mp-aaaaaanx); OQMD -66.037 kJ/mol-atom (oqmd-643065).
 
 Systems: [Cu–O](https://data.orchid-project.org/systems/CU-O.html)
 
@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Cu2O reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -179.91 kJ/mol-atom | Cu2O | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
-| -173.18 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
-| -170.83 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 8 |  |
-| -170.29 kJ/mol-atom | Cu2O | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1 |  |
-| -164.85 kJ/mol-atom | Cu2O | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
-| -172.48 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 15 |  |
-| -170.71 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13 |  |
-| -170.26 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 17 |  |
+| -59.97 kJ/mol-atom | Cu2O | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
+| -57.7267 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
+| -56.9433 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 8 |  |
+| -56.7633 kJ/mol-atom | Cu2O | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1 |  |
+| -54.95 kJ/mol-atom | Cu2O | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
+| -57.4933 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 15 |  |
+| -56.9033 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13 |  |
+| -56.7533 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 17 |  |
 
 ## DFT formation energies
 

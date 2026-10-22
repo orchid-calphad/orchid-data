@@ -1,10 +1,10 @@
 # Ce–Co system
 
-> Ce–Co system: 50 accepted literature values (invariant reaction 40, phase transition 10) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Co system: 49 accepted literature values (invariant reaction 39, phase transition 10) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-CO.html · Markdown: https://data.orchid-project.org/systems/CE-CO.md
 
-50 accepted literature values from 1 paper(s) (experimental 29, model 21); 3 calculated phase diagram(s).
+49 accepted literature values from 1 paper(s) (experimental 29, model 20); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-CO.json) · [CSV](https://data.orchid-project.org/systems/CE-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-CO/CeCo-19Xu.json) · [Markdown](https://data.orchid-project.org/systems/CE-CO.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 29 |
-| model | 21 |
+| model | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 40 |
+| invariant reaction | 39 |
 | phase transition | 10 |
 
 ## Calculated phase diagrams
@@ -120,7 +120,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Co system (40)
+Table: Invariant reactions reported in the literature for the Ce–Co system (39)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -153,7 +153,6 @@ Table: Invariant reactions reported in the literature for the Ce–Co system (40
 | 1293 | Liq. + Co3Ce->Co2Ce | Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 19 |  |
 | 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 41 |  |
 | 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 39 |  |
-| 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 40 |  |
 | 716 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 14 |  |
 | 713 | Liq.->Co11Ce24 + Co2Ce | Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 13 |  |
 | 710 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.341; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 12 |  |

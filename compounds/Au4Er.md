@@ -1,22 +1,20 @@
 # Au4Er: enthalpy of formation
 
-> Enthalpy of formation of Au4Er: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Au4Er: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Au4Er.html · Markdown: https://data.orchid-project.org/compounds/Au4Er.md
 
-4 accepted literature formation-enthalpy value(s) (DFT 4).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Au4Er reported in the literature (4)
+Table: Enthalpy of formation of Au4Er reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -60.3 kJ/mol-atom | Au4Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
-| -60.3 kJ/mol-atom | Au4Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
-| -59.2 kJ/mol-atom | Au4Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 35 |  |
 | -59.2 kJ/mol-atom | Au4Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 35 |  |
 
 ## Sources

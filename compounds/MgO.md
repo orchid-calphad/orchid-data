@@ -1,21 +1,20 @@
 # MgO: enthalpy of formation
 
-> Enthalpy of formation of MgO: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of MgO: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/MgO.html · Markdown: https://data.orchid-project.org/compounds/MgO.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 3); Materials Project -294.608 kJ/mol-atom (mp-aaaaabwr); OQMD -284.268 kJ/mol-atom (oqmd-1443261).
+5 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 3); Materials Project -294.608 kJ/mol-atom (mp-aaaaabwr); OQMD -284.268 kJ/mol-atom (oqmd-1443261).
 
 Systems: [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) · [Mg–O](https://data.orchid-project.org/systems/MG-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of MgO reported in the literature (6)
+Table: Enthalpy of formation of MgO reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -602 kJ/(mol 0) | MgO | 298 | experimental |  | [Mg–O](https://data.orchid-project.org/systems/MG-O.html) | [1] Hallstedt 1993; _cites Fikner_ | p. 5 | “However, Fikner \[5J and Otsuka and Kozuka \[6J have found correlations between the enthalpy and entropy of dissolution of 0 into liquid metals and the enthalpy of formation of the oxide at 298 K. Using the expressions provided by Fitzner I5J with the enthalpy of formation of MgO (A?&s = -602 kJ/(mol 0)) gives A"G = -500000 + 90T J/mol for dissolution of 0 in liquid Mg (1 mol-W standard state).” |
-| -300.62 kJ/mol-atom | MgO |  | model |  | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [2] Li 2023 | Table 5, p. 6, row 1 |  |
 | -300.62 kJ/mol-atom | MgO |  | model |  | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [2] Li 2023 | Table 5, p. 6, row 1 |  |
 | -282.82 kJ/mol-atom | MgO |  | DFT | first-principle method | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [2] Li 2023 | Table 3, p. 5, row 2 |  |
 | -281.86 kJ/mol-atom | MgO | 0 | DFT | first-principle method | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [2] Li 2023 | Table 3, p. 5, row 1 |  |

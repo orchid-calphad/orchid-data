@@ -50,16 +50,16 @@ Table: Mixing / partial, Cr–Gd–Mo–Sc–W–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 993 J/mol (basis unstated) | 1873.15 | liquid; _alloy: Gd 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1000 J/mol (basis unstated) | 1873.15 | liquid; _alloy: Gd 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4000 J/mol (basis unstated) | 2173.15 | liquid; _alloy: Sc 0.5, Zr 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4000 J/mol (basis unstated) | 2173.15 | liquid; _alloy: Sc 0.5, Zr 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1000 J/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 975 J/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 11000 J/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 10860 J/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 8750 J/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 9000 J/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 0.993 kJ/mol (basis unstated) | 1873.15 | liquid; _alloy: Gd 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1 kJ/mol (basis unstated) | 1873.15 | liquid; _alloy: Gd 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4 kJ/mol (basis unstated) | 2173.15 | liquid; _alloy: Sc 0.5, Zr 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4 kJ/mol (basis unstated) | 2173.15 | liquid; _alloy: Sc 0.5, Zr 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1 kJ/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 0.975 kJ/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 11 kJ/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 10.86 kJ/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 8.75 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 9 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 7 |  |
 
 ## Sources
 

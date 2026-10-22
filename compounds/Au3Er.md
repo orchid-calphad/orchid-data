@@ -1,26 +1,22 @@
 # Au3Er: enthalpy of formation
 
-> Enthalpy of formation of Au3Er: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Au3Er: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Au3Er.html · Markdown: https://data.orchid-project.org/compounds/Au3Er.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 4, DFT 4); experimental median -66 kJ/mol-atom (n = 4); Materials Project -69.749 kJ/mol-atom (mp-aaacjmto); OQMD -69.851 kJ/mol-atom (oqmd-28151).
+4 accepted literature formation-enthalpy value(s) (experimental 2, DFT 2); experimental median -66 kJ/mol-atom (n = 2); Materials Project -69.749 kJ/mol-atom (mp-aaacjmto); OQMD -69.851 kJ/mol-atom (oqmd-28151).
 
 Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Au3Er reported in the literature (8)
+Table: Enthalpy of formation of Au3Er reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -66.1 kJ/mol-atom ± 1.9 | Au3Er | 298 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 31 |  |
-| -66.1 kJ/mol-atom ± 1.9 | Au3Er | 298 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 31 |  |
-| -65.9 kJ/mol-atom | Au3Er | 298 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 32 |  |
 | -65.9 kJ/mol-atom | Au3Er | 298 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 32 |  |
 | -73 kJ/mol-atom | Au3Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
-| -73 kJ/mol-atom | Au3Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
-| -71.1 kJ/mol-atom | Au3Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 30 |  |
 | -71.1 kJ/mol-atom | Au3Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 30 |  |
 
 ## DFT formation energies

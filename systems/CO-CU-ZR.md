@@ -28,25 +28,25 @@ Table: Invariant reactions reported in the literature for the Co–Cu–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1683 | max: L + Co2Zr \<-> Co23Zr6 | L: Co 0.00653, Cu 0.00161, Zr 0.00186 | model | [1] Zhou 2022 | Table 4, p. 8, row 1 |  |
-| 1633 | max: L + Co2Zr \<-> Cu51Zr14 | L: Co 0.00334, Cu 0.00457, Zr 0.00209 | model | [1] Zhou 2022 | Table 4, p. 8, row 2 |  |
-| 1628 | U: L + Co2Zr \<-> Co23Zr6 + Cu51Zr14 | L: Co 0.00365, Cu 0.00449, Zr 0.00186 | model | [1] Zhou 2022 | Table 4, p. 8, row 10 |  |
-| 1600 | max: L + Co2Zr \<-> (Co,Cu)Zr | L: Co 0.00499, Cu 3.600e-4, Zr 0.00465 | model | [1] Zhou 2022 | Table 4, p. 8, row 3 |  |
-| 1567 | E: L \<-> L + Co23Zr6 + Cu51Zr14 | L: Co 0.00204, Cu 0.00686, Zr 0.0011 | model | [1] Zhou 2022 | Table 4, p. 8, row 12 |  |
-| 1567 | U: L + L \<-> Cu51Zr14 + Co23Zr6 | L: Co 5.700e-4, Cu 0.00904, Zr 3.900e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 11 |  |
-| 1491 | U: L + Co11Zr2 \<-> Co23Zr6 + A1(Co) | L: Co 0.00865, Cu 4.600e-4, Zr 8.900e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 13 |  |
-| 1457 | U: L + L \<-> Co23Zr6 + A1(Cu) | L: Co 8.400e-4, Cu 0.00914, Zr 2.000e-5 | model | [1] Zhou 2022 | Table 4, p. 8, row 14 |  |
-| 1457 | E: L \<-> L + Co23Zr6 + A1(Co) | L: Co 0.0059, Cu 0.00345, Zr 6.500e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 15 |  |
-| 1423 | U: L + Co2Zr \<-> (Co,Cu)Zr + Cu51Zr14 | L: Co 0.00197, Cu 0.00452, Zr 0.00351 | model | [1] Zhou 2022 | Table 4, p. 8, row 16 |  |
-| 1403 | P: L + (Co,Cu)Zr + Cu51Zr14 \<-> Cu8Zr3 | L: Co 0.00168, Cu 0.00479, Zr 0.00353 | model | [1] Zhou 2022 | Table 4, p. 8, row 17 |  |
-| 1400 | max: L + (Co,Cu)Zr \<-> CoZr2 | L: Co 0.00269, Cu 7.300e-4, Zr 0.00658 | model | [1] Zhou 2022 | Table 4, p. 8, row 7 |  |
-| 1378 | U: L + A1(Co) \<-> Co23Zr6 + A1(Cu) | L: Co 5.400e-4, Cu 0.00945, Zr 1.000e-5 | model | [1] Zhou 2022 | Table 4, p. 8, row 18 |  |
-| 1342 | U: L + Co23Zr6 \<-> Cu51Zr14 + A1(Cu) | L: Co 8.000e-5, Cu 0.00977, Zr 1.500e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 19 |  |
-| 1332 | max: L \<-> A2(Zr) + CoZr2 | L: Co 0.00181, Cu 6.200e-4, Zr 0.00757 | model | [1] Zhou 2022 | Table 4, p. 8, row 8 |  |
-| 1318 | max: L + CoZr2 \<-> CuZr2 | L: Co 7.600e-4, Cu 0.00257, Zr 0.00667 | model | [1] Zhou 2022 | Table 4, p. 8, row 9 |  |
-| 1313 | U: L + CoZr2 \<-> CuZr2 + (Co,Cu)Zr | L: Co 8.000e-4, Cu 0.00285, Zr 0.00635 | model | [1] Zhou 2022 | Table 4, p. 8, row 20 |  |
-| 1288 | U: L + CoZr2 \<-> A2(Zr) + CuZr2 | L: Co 6.700e-4, Cu 0.00193, Zr 0.0074 | model | [1] Zhou 2022 | Table 4, p. 8, row 21 |  |
-| 1266 | U: L + Cu51Zr14 \<-> Cu5Zr + A1(Cu) | L: Co 2.000e-5, Cu 0.00932, Zr 6.600e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 22 |  |
+| 1683 | other: L + Co2Zr \<-> Co23Zr6 | L: Co 0.00653, Cu 0.00161, Zr 0.00186 | model | [1] Zhou 2022 | Table 4, p. 8, row 1 |  |
+| 1633 | other: L + Co2Zr \<-> Cu51Zr14 | L: Co 0.00334, Cu 0.00457, Zr 0.00209 | model | [1] Zhou 2022 | Table 4, p. 8, row 2 |  |
+| 1628 | quasi-peritectic: L + Co2Zr \<-> Co23Zr6 + Cu51Zr14 | L: Co 0.00365, Cu 0.00449, Zr 0.00186 | model | [1] Zhou 2022 | Table 4, p. 8, row 10 |  |
+| 1600 | other: L + Co2Zr \<-> (Co,Cu)Zr | L: Co 0.00499, Cu 3.600e-4, Zr 0.00465 | model | [1] Zhou 2022 | Table 4, p. 8, row 3 |  |
+| 1567 | eutectic: L \<-> L + Co23Zr6 + Cu51Zr14 | L: Co 0.00204, Cu 0.00686, Zr 0.0011 | model | [1] Zhou 2022 | Table 4, p. 8, row 12 |  |
+| 1567 | quasi-peritectic: L + L \<-> Cu51Zr14 + Co23Zr6 | L: Co 5.700e-4, Cu 0.00904, Zr 3.900e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 11 |  |
+| 1491 | quasi-peritectic: L + Co11Zr2 \<-> Co23Zr6 + A1(Co) | L: Co 0.00865, Cu 4.600e-4, Zr 8.900e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 13 |  |
+| 1457 | quasi-peritectic: L + L \<-> Co23Zr6 + A1(Cu) | L: Co 8.400e-4, Cu 0.00914, Zr 2.000e-5 | model | [1] Zhou 2022 | Table 4, p. 8, row 14 |  |
+| 1457 | eutectic: L \<-> L + Co23Zr6 + A1(Co) | L: Co 0.0059, Cu 0.00345, Zr 6.500e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 15 |  |
+| 1423 | quasi-peritectic: L + Co2Zr \<-> (Co,Cu)Zr + Cu51Zr14 | L: Co 0.00197, Cu 0.00452, Zr 0.00351 | model | [1] Zhou 2022 | Table 4, p. 8, row 16 |  |
+| 1403 | peritectic: L + (Co,Cu)Zr + Cu51Zr14 \<-> Cu8Zr3 | L: Co 0.00168, Cu 0.00479, Zr 0.00353 | model | [1] Zhou 2022 | Table 4, p. 8, row 17 |  |
+| 1400 | other: L + (Co,Cu)Zr \<-> CoZr2 | L: Co 0.00269, Cu 7.300e-4, Zr 0.00658 | model | [1] Zhou 2022 | Table 4, p. 8, row 7 |  |
+| 1378 | quasi-peritectic: L + A1(Co) \<-> Co23Zr6 + A1(Cu) | L: Co 5.400e-4, Cu 0.00945, Zr 1.000e-5 | model | [1] Zhou 2022 | Table 4, p. 8, row 18 |  |
+| 1342 | quasi-peritectic: L + Co23Zr6 \<-> Cu51Zr14 + A1(Cu) | L: Co 8.000e-5, Cu 0.00977, Zr 1.500e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 19 |  |
+| 1332 | other: L \<-> A2(Zr) + CoZr2 | L: Co 0.00181, Cu 6.200e-4, Zr 0.00757 | model | [1] Zhou 2022 | Table 4, p. 8, row 8 |  |
+| 1318 | other: L + CoZr2 \<-> CuZr2 | L: Co 7.600e-4, Cu 0.00257, Zr 0.00667 | model | [1] Zhou 2022 | Table 4, p. 8, row 9 |  |
+| 1313 | quasi-peritectic: L + CoZr2 \<-> CuZr2 + (Co,Cu)Zr | L: Co 8.000e-4, Cu 0.00285, Zr 0.00635 | model | [1] Zhou 2022 | Table 4, p. 8, row 20 |  |
+| 1288 | quasi-peritectic: L + CoZr2 \<-> A2(Zr) + CuZr2 | L: Co 6.700e-4, Cu 0.00193, Zr 0.0074 | model | [1] Zhou 2022 | Table 4, p. 8, row 21 |  |
+| 1266 | quasi-peritectic: L + Cu51Zr14 \<-> Cu5Zr + A1(Cu) | L: Co 2.000e-5, Cu 0.00932, Zr 6.600e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 22 |  |
 
 ## Other properties
 

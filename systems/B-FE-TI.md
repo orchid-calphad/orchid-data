@@ -1,10 +1,10 @@
 # B–Fe–Ti system
 
-> B–Fe–Ti system: 162 accepted literature values (phase equilibrium 138, invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Fe–Ti system: 146 accepted literature values (phase equilibrium 122, invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-FE-TI.html · Markdown: https://data.orchid-project.org/systems/B-FE-TI.md
 
-162 accepted literature values from 1 paper(s) (experimental 127, model 16, unspecified 19); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+146 accepted literature values from 1 paper(s) (experimental 111, model 16, unspecified 19); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-FE-TI.json) · [CSV](https://data.orchid-project.org/systems/B-FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-FE-TI) · [Markdown](https://data.orchid-project.org/systems/B-FE-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 127 |
+| experimental | 111 |
 | model | 16 |
 | unspecified | 19 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 24 |
-| phase equilibrium | 138 |
+| phase equilibrium | 122 |
 
 ## Invariant reactions (literature)
 
@@ -29,34 +29,34 @@ Table: Invariant reactions reported in the literature for the B–Fe–Ti system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1869 | e: L -> B27 + TiB2 | L: B 0.505, Fe 0.482; B27: B 0.499, Fe 0.496; TiB2: B 0.667, Fe 0.029 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 1 |  |
-| 1768 | E: L -> B27 + TiB2 + βB | L: B 0.641, Fe 0.353; B27: B 0.506, Fe 0.493; TiB2: B 0.667, Fe 0.036; βB: B 0.985, Fe 0.015 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 2 |  |
-| 1757 | p: L + TiB2 -> Ti2FeB2 | L: B 0.148, Fe 0.401; TiB2: B 0.666; Ti2FeB2: B 0.4, Fe 0.206 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 3 |  |
-| 1750 | U: L + TiB2 -> Ti3B4 + Ti2FeB2 | L: B 0.145, Fe 0.365; TiB2: B 0.665; Ti3B4: B 0.571; Ti2FeB2: B 0.4, Fe 0.204 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 4 |  |
-| 1749 | U: L + Ti3B4 -> TiB + Ti2FeB2 | L: B 0.144, Fe 0.364; Ti3B4: B 0.571; TiB: B 0.493, Fe 0.035; Ti2FeB2: B 0.4, Fe 0.204 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 5 |  |
-| 1651 | U: L + B27 -> TiB2 + Fe2B | L: B 0.322, Fe 0.671; B27: B 0.489, Fe 0.502; TiB2: B 0.667, Fe 0.002; Fe2B: B 0.665, Fe 0.333 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 7 |  |
-| 1641 | U: L + B27 -> TiB2 + Fe2B |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 6 |  |
-| 1613 | e: L -> A2 + TiB2 |  | experimental | [1] Witusiewicz 2019; _cites Shurin 1974_ | Table 6, p. 19, row 9 |  |
-| 1609 | e: L -> C14 + Ti2FeB2 | L: B 0.088, Fe 0.564; C14: Fe 0.664; Ti2FeB2: B 0.4, Fe 0.209 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 8 |  |
-| 1599 | e: L -> A2 + TiB2 | L: B 0.102, Fe 0.839; A2: Fe 0.99; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 10 |  |
-| 1598 | U: L + Ti2FeB2 -> C14 + TiB2 |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 12 |  |
-| 1598 | U: L + A2 -> A1 + TiB2 | L: B 0.106, Fe 0.843; A2: Fe 0.993; A1: Fe 0.995; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 11 |  |
-| 1593 | U: L + Ti2FeB2 -> C14 + TiB2 | L: B 0.092, Fe 0.621; Ti2FeB2: B 0.4, Fe 0.215; C14: Fe 0.678; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 13 |  |
-| 1558 | E: L -> B2 + C14 + Ti2FeB2 |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 15 |  |
-| 1550.5 | e: L -> B2 + Ti2FeB2 | L: B 0.049, Fe 0.465; B2: Fe 0.502; Ti2FeB2: B 0.4, Fe 0.201 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 14 |  |
-| 1550 | E: L -> B2 + C14 + Ti2FeB2 | L: B 0.049, Fe 0.476; B2: Fe 0.503; C14: Fe 0.632; Ti2FeB2: B 0.4, Fe 0.202 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 16 |  |
-| 1488 | E: L -> A2 + C14 + TiB2 | L: B 0.055, Fe 0.78; A2: Fe 0.918; C14: Fe 0.729; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 18 |  |
-| 1486 | E: L -> A2 + C14 + TiB2 |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 17 |  |
-| 1471 | U: L + Ti2FeB2 -> B2 + TiB | L: B 0.024, Fe 0.34; Ti2FeB2: B 0.4, Fe 0.2; B2: Fe 0.489; TiB: B 0.495, Fe 0.016 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 19 |  |
-| 1435 | E: L -> A1 + Fe2B + TiB2 | L: B 0.173, Fe 0.822; A1: Fe 0.9997; Fe2B: B 0.333, Fe 0.659; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 22 |  |
-| 1433 | E: L -> A1 + Fe2B + TiB2 | L: B 0.154, Fe 0.839 | experimental | [1] Witusiewicz 2019; _cites Antoni-Zdziobek 2016_ [doi](https://doi.org/10.1016/j.jallcom.2015.10.104) | Table 6, p. 19, row 20 |  |
-| 1431 | E: L -> A1 + Fe2B + TiB2 |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 21 |  |
-| 1346 | E: L -> A2 + B2 + TiB |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 23 |  |
-| 1342 | E: L -> A2 + B2 + TiB | L: B 0.007, Fe 0.268; A2: Fe 0.227; B2: Fe 0.473; TiB: B 0.497, Fe 0.006 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 24 |  |
+| 1869 | eutectic: L -> B27 + TiB2 | L: B 0.505, Fe 0.482; B27: B 0.499, Fe 0.496; TiB2: B 0.667, Fe 0.029 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 1 |  |
+| 1768 | eutectic: L -> B27 + TiB2 + βB | L: B 0.641, Fe 0.353; B27: B 0.506, Fe 0.493; TiB2: B 0.667, Fe 0.036; βB: B 0.985, Fe 0.015 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 2 |  |
+| 1757 | peritectic: L + TiB2 -> Ti2FeB2 | L: B 0.148, Fe 0.401; TiB2: B 0.666; Ti2FeB2: B 0.4, Fe 0.206 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 3 |  |
+| 1750 | quasi-peritectic: L + TiB2 -> Ti3B4 + Ti2FeB2 | L: B 0.145, Fe 0.365; TiB2: B 0.665; Ti3B4: B 0.571; Ti2FeB2: B 0.4, Fe 0.204 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 4 |  |
+| 1749 | quasi-peritectic: L + Ti3B4 -> TiB + Ti2FeB2 | L: B 0.144, Fe 0.364; Ti3B4: B 0.571; TiB: B 0.493, Fe 0.035; Ti2FeB2: B 0.4, Fe 0.204 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 5 |  |
+| 1651 | quasi-peritectic: L + B27 -> TiB2 + Fe2B | L: B 0.322, Fe 0.671; B27: B 0.489, Fe 0.502; TiB2: B 0.667, Fe 0.002; Fe2B: B 0.665, Fe 0.333 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 7 |  |
+| 1641 | quasi-peritectic: L + B27 -> TiB2 + Fe2B |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 6 |  |
+| 1613 | eutectic: L -> A2 + TiB2 |  | experimental | [1] Witusiewicz 2019; _cites Shurin 1974_ | Table 6, p. 19, row 9 |  |
+| 1609 | eutectic: L -> C14 + Ti2FeB2 | L: B 0.088, Fe 0.564; C14: Fe 0.664; Ti2FeB2: B 0.4, Fe 0.209 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 8 |  |
+| 1599 | eutectic: L -> A2 + TiB2 | L: B 0.102, Fe 0.839; A2: Fe 0.99; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 10 |  |
+| 1598 | quasi-peritectic: L + Ti2FeB2 -> C14 + TiB2 |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 12 |  |
+| 1598 | quasi-peritectic: L + A2 -> A1 + TiB2 | L: B 0.106, Fe 0.843; A2: Fe 0.993; A1: Fe 0.995; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 11 |  |
+| 1593 | quasi-peritectic: L + Ti2FeB2 -> C14 + TiB2 | L: B 0.092, Fe 0.621; Ti2FeB2: B 0.4, Fe 0.215; C14: Fe 0.678; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 13 |  |
+| 1558 | eutectic: L -> B2 + C14 + Ti2FeB2 |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 15 |  |
+| 1550.5 | eutectic: L -> B2 + Ti2FeB2 | L: B 0.049, Fe 0.465; B2: Fe 0.502; Ti2FeB2: B 0.4, Fe 0.201 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 14 |  |
+| 1550 | eutectic: L -> B2 + C14 + Ti2FeB2 | L: B 0.049, Fe 0.476; B2: Fe 0.503; C14: Fe 0.632; Ti2FeB2: B 0.4, Fe 0.202 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 16 |  |
+| 1488 | eutectic: L -> A2 + C14 + TiB2 | L: B 0.055, Fe 0.78; A2: Fe 0.918; C14: Fe 0.729; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 18 |  |
+| 1486 | eutectic: L -> A2 + C14 + TiB2 |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 17 |  |
+| 1471 | quasi-peritectic: L + Ti2FeB2 -> B2 + TiB | L: B 0.024, Fe 0.34; Ti2FeB2: B 0.4, Fe 0.2; B2: Fe 0.489; TiB: B 0.495, Fe 0.016 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 19 |  |
+| 1435 | eutectic: L -> A1 + Fe2B + TiB2 | L: B 0.173, Fe 0.822; A1: Fe 0.9997; Fe2B: B 0.333, Fe 0.659; TiB2: B 0.667 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 22 |  |
+| 1433 | eutectic: L -> A1 + Fe2B + TiB2 | L: B 0.154, Fe 0.839 | experimental | [1] Witusiewicz 2019; _cites Antoni-Zdziobek 2016_ [doi](https://doi.org/10.1016/j.jallcom.2015.10.104) | Table 6, p. 19, row 20 |  |
+| 1431 | eutectic: L -> A1 + Fe2B + TiB2 |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 21 |  |
+| 1346 | eutectic: L -> A2 + B2 + TiB |  | experimental | [1] Witusiewicz 2019 | Table 6, p. 19, row 23 |  |
+| 1342 | eutectic: L -> A2 + B2 + TiB | L: B 0.007, Fe 0.268; A2: Fe 0.227; B2: Fe 0.473; TiB: B 0.497, Fe 0.006 | model | [1] Witusiewicz 2019 | Table 6, p. 19, row 24 |  |
 
 ## Other properties
 
-### Phase equilibrium (138)
+### Phase equilibrium (122)
 
 Table: Phase equilibrium, B–Fe–Ti system
 
@@ -68,12 +68,6 @@ Table: Phase equilibrium, B–Fe–Ti system
 | Phase assemblage |  |  | A2(Fe); _alloy: B 0.12, Fe 0.88, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 88 |  |
 | Phase assemblage |  |  | A2(Fe); _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 103 |  |
 | Phase assemblage |  |  | A2(Fe); _alloy: B 0, Fe 0.84, Ti 0.16_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 117 |  |
-| Phase assemblage |  |  | A2(Fe); _alloy: B 0.12, Fe 0.88, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 93 |  |
-| Phase assemblage |  |  | A2(Fe); _alloy: B 0.28, Fe 0.72, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 109 |  |
-| Phase assemblage |  |  | A2(Fe); _alloy: B 0.28, Fe 0.72, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 105 |  |
-| Phase assemblage |  |  | A2(Fe); _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 97 |  |
-| Phase assemblage |  |  | A2(Fe); _alloy: B 0.12, Fe 0.88, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 86 |  |
-| Phase assemblage |  |  | A2(Fe); _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 95 |  |
 | Phase assemblage |  |  | A2(Fe); _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 99 |  |
 | Phase assemblage |  |  | A2(Fe) + C14; _alloy: B 0, Fe 0.82, Ti 0.18_ | unspecified | [1] Witusiewicz 2019 | Table 1, p. 3, row 17 |  |
 | Phase assemblage |  |  | A2(Fe) + Fe2B; _alloy: B 0.28, Fe 0.72, Ti 0_ | unspecified | [1] Witusiewicz 2019 | Table 1, p. 3, row 10 |  |
@@ -86,7 +80,6 @@ Table: Phase equilibrium, B–Fe–Ti system
 | Phase assemblage |  |  | B2; _alloy: B 0, Fe 0.28, Ti 0.72_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 124 |  |
 | Phase assemblage |  |  | B33; _alloy: B 0.49, Fe 0.51, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 115 |  |
 | Phase assemblage |  |  | B33; _alloy: B 0.4, Fe 0.6, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 111 |  |
-| Phase assemblage |  |  | B33; _alloy: B 0.4, Fe 0.6, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 113 |  |
 | Phase assemblage |  |  | B33 + Fe2B; _alloy: B 0.49, Fe 0.51, Ti 0_ | unspecified | [1] Witusiewicz 2019 | Table 1, p. 3, row 15 |  |
 | Phase assemblage |  |  | B33 + Fe2B; _alloy: B 0.4, Fe 0.6, Ti 0_ | unspecified | [1] Witusiewicz 2019 | Table 1, p. 3, row 13 |  |
 | Phase assemblage |  |  | C14; _alloy: B 0, Fe 0.84, Ti 0.16_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 118 |  |
@@ -95,23 +88,14 @@ Table: Phase equilibrium, B–Fe–Ti system
 | Phase assemblage |  |  | Eutectic; _alloy: B 0.05, Fe 0.764, Ti 0.186_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 37 |  |
 | Phase assemblage |  |  | Fe2B; _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 98 |  |
 | Phase assemblage |  |  | Fe2B; _alloy: B 0.4, Fe 0.6, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 114 |  |
-| Phase assemblage |  |  | Fe2B; _alloy: B 0.4, Fe 0.6, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 112 |  |
 | Phase assemblage |  |  | Fe2B; _alloy: B 0.12, Fe 0.88, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 91 |  |
 | Phase assemblage |  |  | Fe2B; _alloy: B 0.49, Fe 0.51, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 116 |  |
 | Phase assemblage |  |  | Fe2B; _alloy: B 0.28, Fe 0.72, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 110 |  |
-| Phase assemblage |  |  | Fe2B; _alloy: B 0.12, Fe 0.88, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 94 |  |
-| Phase assemblage |  |  | Fe2B; _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 96 |  |
-| Phase assemblage |  |  | Fe2B; _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 104 |  |
-| Phase assemblage |  |  | Fe2B; _alloy: B 0.28, Fe 0.72, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 108 |  |
-| Phase assemblage |  |  | Fe2B; _alloy: B 0.28, Fe 0.72, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 106 |  |
-| Phase assemblage |  |  | Fe2B; _alloy: B 0.12, Fe 0.88, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 87 |  |
-| Phase assemblage |  |  | Fe2B; _alloy: B 0.12, Fe 0.88, Ti 0_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 89 |  |
 | Phase assemblage |  |  | Fe2B bct-Fe3B; _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 100 |  |
 | Phase assemblage |  |  | o-Fe3B; _alloy: Fe 0.77_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 101 |  |
 | Phase assemblage |  | 1273 | A2; _alloy: B 0.064, Fe 0.304, Ti 0.632_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 12 |  |
 | Phase assemblage |  | 1273 | A2(Fe); _alloy: B 0, Fe 0.8, Ti 0.2_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 121 |  |
 | Phase assemblage |  | 1273 | A3; _alloy: B 0.064, Fe 0.304, Ti 0.632_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 6 |  |
-| Phase assemblage |  | 1273 | A3; _alloy: B 0.064, Fe 0.304, Ti 0.632_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 10 |  |
 | Phase assemblage |  | 1273 | B2; _alloy: B 0.35, Fe 0.24, Ti 0.41_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 79 |  |
 | Phase assemblage |  | 1273 | C14; _alloy: B 0, Fe 0.8, Ti 0.2_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 122 |  |
 | Phase assemblage |  | 1273 | C14; _alloy: B 0.35, Fe 0.24, Ti 0.41_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 78 |  |

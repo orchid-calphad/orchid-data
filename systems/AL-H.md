@@ -50,20 +50,20 @@ Table: Mixing / partial, Al–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔH_ | 63.18 kJ/mol |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Eichenauer 1968_ | Table 1, p. 2, row 5 |  |
-| Partial enthalpy; _printed: ΔH_ | 96.49 kJ/mol |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Hashimoto 1983_ | Table 1, p. 2, row 7 |  |
-| Partial enthalpy; _printed: ΔH_ | 58.24 kJ/mol |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Eichenauer 1961_ | Table 1, p. 2, row 3 |  |
-| Partial enthalpy; _printed: ΔH_ | 39.82 kJ/mol |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Ransley 1948_ | Table 1, p. 2, row 1 |  |
-| Partial enthalpy; _printed: ΔH_ | 63.94 kJ/mol |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Ichimura 1979_ | Table 1, p. 2, row 6 |  |
-| Partial enthalpy; _printed: ΔH_ | 51.94 kJ/mol |  | liquid | experimental | [1] Qiu 2004; _cites Grigorenko 1967_ | Table 1, p. 2, row 4 |  |
-| Partial enthalpy; _printed: ΔH_ | 51.69 kJ/mol |  | liquid | experimental | [1] Qiu 2004; _cites Talbot 1988_ | Table 1, p. 2, row 9 |  |
-| Partial enthalpy; _printed: ΔH_ | 59.08 kJ/mol |  | liquid | experimental | [1] Qiu 2004; _cites Eichenauer 1961_ | Table 1, p. 2, row 3 |  |
-| Partial enthalpy; _printed: ΔH_ | 52.84 kJ/mol |  | liquid | experimental | [1] Qiu 2004; _cites Ransley 1948_ | Table 1, p. 2, row 1 |  |
-| Partial enthalpy; _printed: ΔH_ | 45.8 kJ/mol |  | liquid | experimental | [1] Qiu 2004; _cites Imabayashi 1995_ | Table 1, p. 2, row 11 |  |
-| Partial enthalpy; _printed: ΔH_ | 48.82 kJ/mol |  | liquid | experimental | [1] Qiu 2004; _cites Opie 1950_ | Table 1, p. 2, row 2 |  |
-| Partial enthalpy; _printed: ΔH_ | 57.05 kJ/mol |  | liquid | experimental | [1] Qiu 2004; _cites Liu 1995_ | Table 1, p. 2, row 10 |  |
-| Partial enthalpy; _printed: ΔH_ | 56.86 kJ/mol |  | liquid | experimental | [1] Qiu 2004; _cites Feichtinger 1987_ | Table 1, p. 2, row 8 |  |
-| Partial enthalpy; _printed: ⌬H_ | 57.505 kJ/mol atom | 933.15 |  | model | [1] Qiu 2004 | p. 6 | “It is seen that the calculated ⌬H for liquid has a value of 57.505 kJ/mol atom at 660 °C and decreases slightly with increasing temperature.” |
+| Partial enthalpy; _printed: ΔH_ | 63.18 kJ/mol (basis unstated) |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Eichenauer 1968_ | Table 1, p. 2, row 5 |  |
+| Partial enthalpy; _printed: ΔH_ | 96.49 kJ/mol (basis unstated) |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Hashimoto 1983_ | Table 1, p. 2, row 7 |  |
+| Partial enthalpy; _printed: ΔH_ | 58.24 kJ/mol (basis unstated) |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Eichenauer 1961_ | Table 1, p. 2, row 3 |  |
+| Partial enthalpy; _printed: ΔH_ | 39.82 kJ/mol (basis unstated) |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Ransley 1948_ | Table 1, p. 2, row 1 |  |
+| Partial enthalpy; _printed: ΔH_ | 63.94 kJ/mol (basis unstated) |  | fcc Al; _alloy: H 0_ | experimental | [1] Qiu 2004; _cites Ichimura 1979_ | Table 1, p. 2, row 6 |  |
+| Partial enthalpy; _printed: ΔH_ | 51.94 kJ/mol (basis unstated) |  | liquid | experimental | [1] Qiu 2004; _cites Grigorenko 1967_ | Table 1, p. 2, row 4 |  |
+| Partial enthalpy; _printed: ΔH_ | 51.69 kJ/mol (basis unstated) |  | liquid | experimental | [1] Qiu 2004; _cites Talbot 1988_ | Table 1, p. 2, row 9 |  |
+| Partial enthalpy; _printed: ΔH_ | 59.08 kJ/mol (basis unstated) |  | liquid | experimental | [1] Qiu 2004; _cites Eichenauer 1961_ | Table 1, p. 2, row 3 |  |
+| Partial enthalpy; _printed: ΔH_ | 52.84 kJ/mol (basis unstated) |  | liquid | experimental | [1] Qiu 2004; _cites Ransley 1948_ | Table 1, p. 2, row 1 |  |
+| Partial enthalpy; _printed: ΔH_ | 45.8 kJ/mol (basis unstated) |  | liquid | experimental | [1] Qiu 2004; _cites Imabayashi 1995_ | Table 1, p. 2, row 11 |  |
+| Partial enthalpy; _printed: ΔH_ | 48.82 kJ/mol (basis unstated) |  | liquid | experimental | [1] Qiu 2004; _cites Opie 1950_ | Table 1, p. 2, row 2 |  |
+| Partial enthalpy; _printed: ΔH_ | 57.05 kJ/mol (basis unstated) |  | liquid | experimental | [1] Qiu 2004; _cites Liu 1995_ | Table 1, p. 2, row 10 |  |
+| Partial enthalpy; _printed: ΔH_ | 56.86 kJ/mol (basis unstated) |  | liquid | experimental | [1] Qiu 2004; _cites Feichtinger 1987_ | Table 1, p. 2, row 8 |  |
+| Partial enthalpy; _printed: ⌬H_ | 57.505 kJ/mol-atom | 933.15 |  | model | [1] Qiu 2004 | p. 6 | “It is seen that the calculated ⌬H for liquid has a value of 57.505 kJ/mol atom at 660 °C and decreases slightly with increasing temperature.” |
 
 ## Sources
 

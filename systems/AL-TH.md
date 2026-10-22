@@ -70,36 +70,36 @@ Table: Invariant reactions reported in the literature for the Al–Th system (30
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1793.15 | Congruent reaction: L -> ThAl2 | L: Al 0.667; ThAl2: Al 0.667 | model | [1] Li 2010 | Table 4, p. 4, row 28 |  |
-| 1793.15 | Congruent reaction: L -> ThAl2 | L: Al 0.667; ThAl2: Al 0.667 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 27 |  |
-| 1667.95 | Peritetic reaction: L + ThAl2 -> Th2Al3 | L: Al 0.538; ThAl2: Al 0.667; Th2Al3: Al 0.6 | model | [1] Li 2010 | Table 4, p. 4, row 2 |  |
-| 1667.15 | Peritetic reaction: L + ThAl2 -> Th2Al3 | L: Al 0.56; ThAl2: Al 0.667; Th2Al3: Al 0.6 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 1 |  |
-| 1664.95 | Peritetic reaction: L + βTh -> αTh | L: Al 0.134; βTh: Al 0.0191; αTh: Al 0.0193 | model | [1] Li 2010 | Table 4, p. 4, row 4 |  |
-| 1655.15 | Peritetic reaction: L + βTh -> αTh | L: Al 0.15; βTh: Al 0.01; αTh: Al 0.01 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 3 |  |
-| 1591.15 | Peritetic reaction: Th2Al3 + L -> ThAl | Th2Al3: Al 0.6; L: Al 0.48; ThAl: Al 0.5 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 5 |  |
-| 1590.45 | Peritetic reaction: Th2Al3 + L -> ThAl | Th2Al3: Al 0.6; L: Al 0.476; ThAl: Al 0.5 | model | [1] Li 2010 | Table 4, p. 4, row 6 |  |
-| 1583.15 | Congruent reaction: L -> Th2Al | L: Al 0.333; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 24 |  |
-| 1580.15 | Congruent reaction: L -> Th2Al | L: Al 0.333; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 23 |  |
-| 1574.15 | Congruent reaction: L -> Th3Al2 | L: Al 0.4; Th3Al2: Al 0.4 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 25 |  |
-| 1573.15 | Congruent reaction: L -> Th3Al2 | L: Al 0.4; Th3Al2: Al 0.4 | model | [1] Li 2010 | Table 4, p. 4, row 26 |  |
-| 1572.35 | Eutectic reaction: L -> Th3Al2 + Th2Al | L: Al 0.388; Th3Al2: Al 0.4; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 8 |  |
-| 1569.15 | Eutectic reaction: L -> Th3Al2 + Th2Al | L: Al 0.35; Th3Al2: Al 0.4; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 7 |  |
-| 1568.95 | Eutectic reaction: L -> ThAl + Th3Al2 | L: Al 0.43; ThAl: Al 0.5; Th3Al2: Al 0.4 | model | [1] Li 2010 | Table 4, p. 4, row 10 |  |
-| 1563.15 | Eutectic reaction: L -> ThAl + Th3Al2 | L: Al 0.43; ThAl: Al 0.5; Th3Al2: Al 0.4 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 9 |  |
-| 1516.15 | Eutectic reaction: L -> Th2Al + αTh | L: Al 0.2; Th2Al: Al 0.333; αTh: Al 0.0085 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 11 |  |
-| 1509.65 | Eutectic reaction: L -> Th2Al + αTh | L: Al 0.183; Th2Al: Al 0.333; αTh: Al 0.024 | model | [1] Li 2010 | Table 4, p. 4, row 12 |  |
-| 1395.75 | Peritetic reaction: L + ThAl2 -> ThAl3 | L: Al 0.856; ThAl2: Al 0.667; ThAl3: Al 0.75 | model | [1] Li 2010 | Table 4, p. 4, row 14 |  |
-| 1393.15 | Peritetic reaction: L + ThAl2 -> ThAl3 | L: Al 0.84; ThAl2: Al 0.667; ThAl3: Al 0.75 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 13 |  |
-| 1377.25 | Eutectoid reaction: Th2Al3 -> ThAl2 + ThAl | Th2Al3: Al 0.6; ThAl2: Al 0.667; ThAl: Al 0.5 | model | [1] Li 2010 | Table 4, p. 4, row 16 |  |
+| 1793.15 | congruent melting: L -> ThAl2 | L: Al 0.667; ThAl2: Al 0.667 | model | [1] Li 2010 | Table 4, p. 4, row 28 |  |
+| 1793.15 | congruent melting: L -> ThAl2 | L: Al 0.667; ThAl2: Al 0.667 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 27 |  |
+| 1667.95 | peritectic: L + ThAl2 -> Th2Al3 | L: Al 0.538; ThAl2: Al 0.667; Th2Al3: Al 0.6 | model | [1] Li 2010 | Table 4, p. 4, row 2 |  |
+| 1667.15 | peritectic: L + ThAl2 -> Th2Al3 | L: Al 0.56; ThAl2: Al 0.667; Th2Al3: Al 0.6 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 1 |  |
+| 1664.95 | peritectic: L + βTh -> αTh | L: Al 0.134; βTh: Al 0.0191; αTh: Al 0.0193 | model | [1] Li 2010 | Table 4, p. 4, row 4 |  |
+| 1655.15 | peritectic: L + βTh -> αTh | L: Al 0.15; βTh: Al 0.01; αTh: Al 0.01 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 3 |  |
+| 1591.15 | peritectic: Th2Al3 + L -> ThAl | Th2Al3: Al 0.6; L: Al 0.48; ThAl: Al 0.5 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 5 |  |
+| 1590.45 | peritectic: Th2Al3 + L -> ThAl | Th2Al3: Al 0.6; L: Al 0.476; ThAl: Al 0.5 | model | [1] Li 2010 | Table 4, p. 4, row 6 |  |
+| 1583.15 | congruent melting: L -> Th2Al | L: Al 0.333; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 24 |  |
+| 1580.15 | congruent melting: L -> Th2Al | L: Al 0.333; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 23 |  |
+| 1574.15 | congruent melting: L -> Th3Al2 | L: Al 0.4; Th3Al2: Al 0.4 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 25 |  |
+| 1573.15 | congruent melting: L -> Th3Al2 | L: Al 0.4; Th3Al2: Al 0.4 | model | [1] Li 2010 | Table 4, p. 4, row 26 |  |
+| 1572.35 | eutectic: L -> Th3Al2 + Th2Al | L: Al 0.388; Th3Al2: Al 0.4; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 8 |  |
+| 1569.15 | eutectic: L -> Th3Al2 + Th2Al | L: Al 0.35; Th3Al2: Al 0.4; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 7 |  |
+| 1568.95 | eutectic: L -> ThAl + Th3Al2 | L: Al 0.43; ThAl: Al 0.5; Th3Al2: Al 0.4 | model | [1] Li 2010 | Table 4, p. 4, row 10 |  |
+| 1563.15 | eutectic: L -> ThAl + Th3Al2 | L: Al 0.43; ThAl: Al 0.5; Th3Al2: Al 0.4 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 9 |  |
+| 1516.15 | eutectic: L -> Th2Al + αTh | L: Al 0.2; Th2Al: Al 0.333; αTh: Al 0.0085 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 11 |  |
+| 1509.65 | eutectic: L -> Th2Al + αTh | L: Al 0.183; Th2Al: Al 0.333; αTh: Al 0.024 | model | [1] Li 2010 | Table 4, p. 4, row 12 |  |
+| 1395.75 | peritectic: L + ThAl2 -> ThAl3 | L: Al 0.856; ThAl2: Al 0.667; ThAl3: Al 0.75 | model | [1] Li 2010 | Table 4, p. 4, row 14 |  |
+| 1393.15 | peritectic: L + ThAl2 -> ThAl3 | L: Al 0.84; ThAl2: Al 0.667; ThAl3: Al 0.75 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 13 |  |
+| 1377.25 | eutectoid: Th2Al3 -> ThAl2 + ThAl | Th2Al3: Al 0.6; ThAl2: Al 0.667; ThAl: Al 0.5 | model | [1] Li 2010 | Table 4, p. 4, row 16 |  |
 | 1373.15 | eutectoid |  | experimental | [1] Li 2010; _cites Murray 1958_ | p. 2 | “Murray \[17\] reported that the Th3Al2 and Th2Al3 compounds eutectoidally decompose at 1075 °C and 1100 °C, respectively, and the solid solubilities of Al in the aTh and bTh phases are 0.4 at.% at 1000 °C and 0.85 at.% at 1300 °C.” |
-| 1373.15 | Eutectoid reaction: Th2Al3 -> ThAl2 + ThAl | Th2Al3: Al 0.6; ThAl2: Al 0.667; ThAl: Al 0.5 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 15 |  |
+| 1373.15 | eutectoid: Th2Al3 -> ThAl2 + ThAl | Th2Al3: Al 0.6; ThAl2: Al 0.667; ThAl: Al 0.5 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 15 |  |
 | 1348.15 | eutectoid |  | experimental | [1] Li 2010; _cites Murray 1958_ | p. 2 | “Murray \[17\] reported that the Th3Al2 and Th2Al3 compounds eutectoidally decompose at 1075 °C and 1100 °C, respectively, and the solid solubilities of Al in the aTh and bTh phases are 0.4 at.% at 1000 °C and 0.85 at.% at 1300 °C.” |
-| 1348.15 | Eutectoid reaction: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 17 |  |
-| 1344.05 | Eutectoid reaction: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 18 |  |
-| 1152.35 | Peritetic reaction: L + ThAl3 -> Th2Al7 | L: Al 0.924; ThAl3: Al 0.75; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 20 |  |
-| 1149.15 | Peritetic reaction: L + ThAl3 -> Th2Al7 | L: Al 0.929; ThAl3: Al 0.75; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 19 |  |
-| 903.15 | Eutectic reaction: L -> (Al) + Th2Al7 | L: Al 0.971; (Al): Al 0; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 21 |  |
-| 901.55 | Eutectic reaction: L -> (Al) + Th2Al7 | L: Al 0.973; (Al): Al 0; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 22 |  |
+| 1348.15 | eutectoid: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 17 |  |
+| 1344.05 | eutectoid: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 18 |  |
+| 1152.35 | peritectic: L + ThAl3 -> Th2Al7 | L: Al 0.924; ThAl3: Al 0.75; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 20 |  |
+| 1149.15 | peritectic: L + ThAl3 -> Th2Al7 | L: Al 0.929; ThAl3: Al 0.75; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 19 |  |
+| 903.15 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.971; (Al): Al 0; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 21 |  |
+| 901.55 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.973; (Al): Al 0; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 22 |  |
 
 ## Sources
 

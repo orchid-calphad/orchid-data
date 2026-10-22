@@ -61,30 +61,30 @@ Table: Invariant reactions reported in the literature for the Cd–Pr system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1276.15 | Congruent melting: L⇄CdPr | CdPr: Cd 0.5 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 18 |  |
-| 1272.15 | Congruent melting: L⇄CdPr | CdPr: Cd 0.5 | model | [1] Reichmann 2014 | Table 1, p. 2, row 17 |  |
-| 1264.15 | Congruent melting: L⇄Cd2Pr | Cd2Pr: Cd 0.667 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 14 |  |
-| 1257.15 | Congruent melting: L⇄Cd2Pr | Cd2Pr: Cd 0.667 | model | [1] Reichmann 2014 | Table 1, p. 2, row 13 |  |
-| 1220.15 | Eutectic: L⇄β-Cd2Pr+CdPr | L: Cd 0.592; β-Cd2Pr: Cd 0.667; CdPr: Cd 0.5 | model | [1] Reichmann 2014 | Table 1, p. 2, row 19 |  |
-| 1213.15 | Eutectic: L⇄β-Cd2Pr+CdPr | L: Cd 0.591; β-Cd2Pr: Cd 0.652; CdPr: Cd 0.501 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 20 |  |
-| 1149.15 | Congruent melting: L⇄Cd58Pr13 | Cd58Pr13: Cd 0.817 | model | [1] Reichmann 2014 | Table 1, p. 2, row 7 |  |
-| 1143.15 | Congruent melting: L⇄Cd58Pr13 | Cd58Pr13: Cd 0.817 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 8 |  |
-| 1142.15 | Peritectic: L+α-Cd2Pr⇄Cd3Pr | L: Cd 0.788; α-Cd2Pr: Cd 0.667; Cd3Pr: Cd 0.75 | model | [1] Reichmann 2014 | Table 1, p. 2, row 15 |  |
-| 1140.15 | Eutectic: L⇄Cd58Pr13+Cd3Pr | L: Cd 0.788; Cd58Pr13: Cd 0.817; Cd3Pr: Cd 0.75 | model | [1] Reichmann 2014 | Table 1, p. 2, row 11 |  |
-| 1136.15 | Peritectic: L+α-Cd2Pr⇄Cd3Pr | L: Cd 0.785; α-Cd2Pr: Cd 0.67; Cd3Pr: Cd 0.763 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 16 |  |
-| 1129.15 | Eutectic: L⇄Cd58Pr13+Cd3Pr | L: Cd 0.789; Cd58Pr13: Cd 0.813; Cd3Pr: Cd 0.763 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 12 |  |
-| 1073.15 | Peritectoid: Cd58Pr13+Cd3Pr⇄Cd45Pr11 | Cd58Pr13: Cd 0.817; Cd3Pr: Cd 0.75; Cd45Pr11: Cd 0.804 | model | [1] Reichmann 2014 | Table 1, p. 2, row 9 |  |
-| 1068.15 | Peritectoid: Cd58Pr13+Cd3Pr⇄Cd45Pr11 | Cd58Pr13: Cd 0.804; Cd3Pr: Cd 0.763; Cd45Pr11: Cd 0.798 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 10 |  |
-| 1013.15 | Peritectic: L+Cd58Pr13⇄Cd6Pr | L: Cd 0.905; Cd58Pr13: Cd 0.818; Cd6Pr: Cd 0.857 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 6 |  |
-| 1007.15 | Peritectic: L+Cd58Pr13⇄Cd6Pr | L: Cd 0.924; Cd58Pr13: Cd 0.817; Cd6Pr: Cd 0.857 | model | [1] Reichmann 2014 | Table 1, p. 2, row 5 |  |
-| 985.15 | Eutectic: L⇄CdPr+β-Pr | L: Cd 0.23; CdPr: Cd 0.471; β-Pr: Cd 0.203 | model | [1] Reichmann 2014 | Table 1, p. 2, row 21 |  |
-| 982.15 | Eutectic: L⇄CdPr+β-Pr | L: Cd 0.25; CdPr: Cd 0.47; β-Pr: Cd 0.221 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 22 |  |
-| 843.15 | Peritectic: L+Cd6Pr⇄Cd11Pr | L: Cd 0.972; Cd6Pr: Cd 0.857; Cd11Pr: Cd 0.917 | model | [1] Reichmann 2014 | Table 1, p. 2, row 3 |  |
-| 839.15 | Peritectic: L+Cd6Pr⇄Cd11Pr | L: Cd 0.965; Cd6Pr: Cd 0.857; Cd11Pr: Cd 0.917 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 4 |  |
-| 723.15 | Eutectoid: β-Pr⇄CdPr+α-Pr | β-Pr: Cd 0.168; CdPr: Cd 0.471; α-Pr: Cd 0.04 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 24 |  |
-| 710.15 | Eutectoid: β-Pr⇄CdPr+α-Pr | β-Pr: Cd 0.17; CdPr: Cd 0.474; α-Pr: Cd 0.045 | model | [1] Reichmann 2014 | Table 1, p. 2, row 23 |  |
-| 595.15 | Degenerate peritectic: aL+Cd11Pr⇄Cd | L: Cd 1; Cd11Pr: Cd 0.917; Cd: Cd 1 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 2 |  |
-| 594.15 | Degenerate peritectic: aL+Cd11Pr⇄Cd | L: Cd 1; Cd11Pr: Cd 0.917; Cd: Cd 1 | model | [1] Reichmann 2014 | Table 1, p. 2, row 1 |  |
+| 1276.15 | congruent melting: L⇄CdPr | CdPr: Cd 0.5 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 18 |  |
+| 1272.15 | congruent melting: L⇄CdPr | CdPr: Cd 0.5 | model | [1] Reichmann 2014 | Table 1, p. 2, row 17 |  |
+| 1264.15 | congruent melting: L⇄Cd2Pr | Cd2Pr: Cd 0.667 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 14 |  |
+| 1257.15 | congruent melting: L⇄Cd2Pr | Cd2Pr: Cd 0.667 | model | [1] Reichmann 2014 | Table 1, p. 2, row 13 |  |
+| 1220.15 | eutectic: L⇄β-Cd2Pr+CdPr | L: Cd 0.592; β-Cd2Pr: Cd 0.667; CdPr: Cd 0.5 | model | [1] Reichmann 2014 | Table 1, p. 2, row 19 |  |
+| 1213.15 | eutectic: L⇄β-Cd2Pr+CdPr | L: Cd 0.591; β-Cd2Pr: Cd 0.652; CdPr: Cd 0.501 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 20 |  |
+| 1149.15 | congruent melting: L⇄Cd58Pr13 | Cd58Pr13: Cd 0.817 | model | [1] Reichmann 2014 | Table 1, p. 2, row 7 |  |
+| 1143.15 | congruent melting: L⇄Cd58Pr13 | Cd58Pr13: Cd 0.817 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 8 |  |
+| 1142.15 | peritectic: L+α-Cd2Pr⇄Cd3Pr | L: Cd 0.788; α-Cd2Pr: Cd 0.667; Cd3Pr: Cd 0.75 | model | [1] Reichmann 2014 | Table 1, p. 2, row 15 |  |
+| 1140.15 | eutectic: L⇄Cd58Pr13+Cd3Pr | L: Cd 0.788; Cd58Pr13: Cd 0.817; Cd3Pr: Cd 0.75 | model | [1] Reichmann 2014 | Table 1, p. 2, row 11 |  |
+| 1136.15 | peritectic: L+α-Cd2Pr⇄Cd3Pr | L: Cd 0.785; α-Cd2Pr: Cd 0.67; Cd3Pr: Cd 0.763 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 16 |  |
+| 1129.15 | eutectic: L⇄Cd58Pr13+Cd3Pr | L: Cd 0.789; Cd58Pr13: Cd 0.813; Cd3Pr: Cd 0.763 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 12 |  |
+| 1073.15 | peritectoid: Cd58Pr13+Cd3Pr⇄Cd45Pr11 | Cd58Pr13: Cd 0.817; Cd3Pr: Cd 0.75; Cd45Pr11: Cd 0.804 | model | [1] Reichmann 2014 | Table 1, p. 2, row 9 |  |
+| 1068.15 | peritectoid: Cd58Pr13+Cd3Pr⇄Cd45Pr11 | Cd58Pr13: Cd 0.804; Cd3Pr: Cd 0.763; Cd45Pr11: Cd 0.798 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 10 |  |
+| 1013.15 | peritectic: L+Cd58Pr13⇄Cd6Pr | L: Cd 0.905; Cd58Pr13: Cd 0.818; Cd6Pr: Cd 0.857 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 6 |  |
+| 1007.15 | peritectic: L+Cd58Pr13⇄Cd6Pr | L: Cd 0.924; Cd58Pr13: Cd 0.817; Cd6Pr: Cd 0.857 | model | [1] Reichmann 2014 | Table 1, p. 2, row 5 |  |
+| 985.15 | eutectic: L⇄CdPr+β-Pr | L: Cd 0.23; CdPr: Cd 0.471; β-Pr: Cd 0.203 | model | [1] Reichmann 2014 | Table 1, p. 2, row 21 |  |
+| 982.15 | eutectic: L⇄CdPr+β-Pr | L: Cd 0.25; CdPr: Cd 0.47; β-Pr: Cd 0.221 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 22 |  |
+| 843.15 | peritectic: L+Cd6Pr⇄Cd11Pr | L: Cd 0.972; Cd6Pr: Cd 0.857; Cd11Pr: Cd 0.917 | model | [1] Reichmann 2014 | Table 1, p. 2, row 3 |  |
+| 839.15 | peritectic: L+Cd6Pr⇄Cd11Pr | L: Cd 0.965; Cd6Pr: Cd 0.857; Cd11Pr: Cd 0.917 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 4 |  |
+| 723.15 | eutectoid: β-Pr⇄CdPr+α-Pr | β-Pr: Cd 0.168; CdPr: Cd 0.471; α-Pr: Cd 0.04 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 24 |  |
+| 710.15 | eutectoid: β-Pr⇄CdPr+α-Pr | β-Pr: Cd 0.17; CdPr: Cd 0.474; α-Pr: Cd 0.045 | model | [1] Reichmann 2014 | Table 1, p. 2, row 23 |  |
+| 595.15 | peritectic: aL+Cd11Pr⇄Cd | L: Cd 1; Cd11Pr: Cd 0.917; Cd: Cd 1 | experimental | [1] Reichmann 2014; _cites Reichmann 2014_ | Table 1, p. 2, row 2 |  |
+| 594.15 | peritectic: aL+Cd11Pr⇄Cd | L: Cd 1; Cd11Pr: Cd 0.917; Cd: Cd 1 | model | [1] Reichmann 2014 | Table 1, p. 2, row 1 |  |
 
 ## Formation enthalpies
 

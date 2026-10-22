@@ -1,24 +1,21 @@
 # Cu2Nd: enthalpy of formation
 
-> Enthalpy of formation of Cu2Nd: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Cu2Nd: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cu2Nd.html · Markdown: https://data.orchid-project.org/compounds/Cu2Nd.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 2); experimental median -16.9 kJ/mol-atom (n = 2); Materials Project -19.536 kJ/mol-atom (mp-aaaaarnw); OQMD -20.057 kJ/mol-atom (oqmd-1435011).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -16.9 kJ/mol-atom (n = 1); Materials Project -19.536 kJ/mol-atom (mp-aaaaarnw); OQMD -20.057 kJ/mol-atom (oqmd-1435011).
 
 Systems: [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cu2Nd reported in the literature (6)
+Table: Enthalpy of formation of Cu2Nd reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -16.9 kJ/mol-atom | Cu2Nd | 298 | experimental |  | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 6 |  |
-| -16.9 kJ/mol-atom | Cu2Nd | 298 | experimental |  | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 6 |  |
 | -20.25 kJ/mol-atom | Cu2Nd | 298 | model | CALPHAD | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
-| -20.25 kJ/mol-atom | Cu2Nd | 298 | model | CALPHAD | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
-| -20.488 kJ/mol-atom | Cu2Nd | 298 | DFT | DFT | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011 | Table 2, p. 3, row 7 |  |
 | -20.488 kJ/mol-atom | Cu2Nd | 298 | DFT | DFT | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011 | Table 2, p. 3, row 7 |  |
 
 ## DFT formation energies

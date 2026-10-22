@@ -100,54 +100,54 @@ Table: Invariant reactions reported in the literature for the La–Zn system (49
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1248 | max: Liquid = La2Zn17 | Liquid: Zn 0.895; La2Zn17: Zn 0.895 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 22 |  |
-| 1248 | max: Liquid = La2Zn17 | Liquid: Zn 0.895; La2Zn17: Zn 0.895 | model | [1] Berche 2012 | Table 1, p. 2, row 23 |  |
-| 1241 | P: Liquid + La2Zn17 = La3Zn22 | Liquid: Zn 0.877; La2Zn17: Zn 0.895; La3Zn22: Zn 0.88 | model | [1] Berche 2012 | Table 1, p. 2, row 21 |  |
-| 1238 | P: Liquid + La2Zn17 = La3Zn22 | La2Zn17: Zn 0.895; La3Zn22: Zn 0.88 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 20 |  |
-| 1229 | Peritectic: L + La2Zn17 -> La3Zn22 | La2Zn17: Zn 0.894737; La3Zn22: Zn 0.88 | model | [2] Qi 2010 | Table 1, p. 3, row 14 |  |
-| 1225 | P: Liquid + La3Zn22 = LaZn7 | Liquid: Zn 0.853; La3Zn22: Zn 0.88; LaZn7: Zn 0.875 | model | [1] Berche 2012 | Table 1, p. 2, row 19 |  |
-| 1178 | Peritectic: L + La3Zn22 -> LaZn5 | La3Zn22: Zn 0.88; LaZn5: Zn 0.833333 | model | [2] Qi 2010 | Table 1, p. 3, row 13 |  |
-| 1146 | P: Liquid + La3Zn22 = LaZn5 | La3Zn22: Zn 0.88; LaZn5: Zn 0.833 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 17 |  |
-| 1145 | Peritectic: L + LaZn5 -> LaZn4 | LaZn5: Zn 0.833333; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 12 |  |
+| 1248 | other: Liquid = La2Zn17 | Liquid: Zn 0.895; La2Zn17: Zn 0.895 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 22 |  |
+| 1248 | other: Liquid = La2Zn17 | Liquid: Zn 0.895; La2Zn17: Zn 0.895 | model | [1] Berche 2012 | Table 1, p. 2, row 23 |  |
+| 1241 | peritectic: Liquid + La2Zn17 = La3Zn22 | Liquid: Zn 0.877; La2Zn17: Zn 0.895; La3Zn22: Zn 0.88 | model | [1] Berche 2012 | Table 1, p. 2, row 21 |  |
+| 1238 | peritectic: Liquid + La2Zn17 = La3Zn22 | La2Zn17: Zn 0.895; La3Zn22: Zn 0.88 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 20 |  |
+| 1229 | peritectic: L + La2Zn17 -> La3Zn22 | La2Zn17: Zn 0.894737; La3Zn22: Zn 0.88 | model | [2] Qi 2010 | Table 1, p. 3, row 14 |  |
+| 1225 | peritectic: Liquid + La3Zn22 = LaZn7 | Liquid: Zn 0.853; La3Zn22: Zn 0.88; LaZn7: Zn 0.875 | model | [1] Berche 2012 | Table 1, p. 2, row 19 |  |
+| 1178 | peritectic: L + La3Zn22 -> LaZn5 | La3Zn22: Zn 0.88; LaZn5: Zn 0.833333 | model | [2] Qi 2010 | Table 1, p. 3, row 13 |  |
+| 1146 | peritectic: Liquid + La3Zn22 = LaZn5 | La3Zn22: Zn 0.88; LaZn5: Zn 0.833 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 17 |  |
+| 1145 | peritectic: L + LaZn5 -> LaZn4 | LaZn5: Zn 0.833333; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 12 |  |
 | 1145 | peritectic |  | model | [2] Qi 2010; _cites Gschneidner 1990_ | p. 1 | “LaZn4 and LaZn13 form through peritectic reactions at 1145 K and 1113 K, respectively.” |
-| 1144 | P: Liquid + LaZn7 = LaZn5 | Liquid: Zn 0.807; LaZn7: Zn 0.875; LaZn5: Zn 0.833 | model | [1] Berche 2012 | Table 1, p. 2, row 18 |  |
-| 1139 | Peritectic: L + LaZn5 -> LaZn4 | LaZn5: Zn 0.833333; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 11 |  |
-| 1136 | P: Liquid + La2Zn17 = LaZn11 | La2Zn17: Zn 0.895; LaZn11: Zn 0.917 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 24 |  |
-| 1135 | P: Liquid + LaZn5 = LaZn4 | LaZn5: Zn 0.833; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 15 |  |
-| 1134 | P: Liquid + La2Zn17 = LaZn11 | Liquid: Zn 0.956; La2Zn17: Zn 0.895; LaZn11: Zn 0.917 | model | [1] Berche 2012 | Table 1, p. 2, row 25 |  |
-| 1128 | P: Liquid + LaZn5 = LaZn4 | Liquid: Zn 0.793; LaZn5: Zn 0.833; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 16 |  |
-| 1125 | max: Liquid = LaZn2 | Liquid: Zn 0.667; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 11 |  |
-| 1123 | max: Liquid = LaZn2 | Liquid: Zn 0.667; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 12 |  |
-| 1117 | Peritectic: L + La2Zn17 -> LaZn11 | La2Zn17: Zn 0.894737; LaZn11: Zn 0.916667 | model | [2] Qi 2010 | Table 1, p. 3, row 17 |  |
+| 1144 | peritectic: Liquid + LaZn7 = LaZn5 | Liquid: Zn 0.807; LaZn7: Zn 0.875; LaZn5: Zn 0.833 | model | [1] Berche 2012 | Table 1, p. 2, row 18 |  |
+| 1139 | peritectic: L + LaZn5 -> LaZn4 | LaZn5: Zn 0.833333; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 11 |  |
+| 1136 | peritectic: Liquid + La2Zn17 = LaZn11 | La2Zn17: Zn 0.895; LaZn11: Zn 0.917 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 24 |  |
+| 1135 | peritectic: Liquid + LaZn5 = LaZn4 | LaZn5: Zn 0.833; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 15 |  |
+| 1134 | peritectic: Liquid + La2Zn17 = LaZn11 | Liquid: Zn 0.956; La2Zn17: Zn 0.895; LaZn11: Zn 0.917 | model | [1] Berche 2012 | Table 1, p. 2, row 25 |  |
+| 1128 | peritectic: Liquid + LaZn5 = LaZn4 | Liquid: Zn 0.793; LaZn5: Zn 0.833; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 16 |  |
+| 1125 | other: Liquid = LaZn2 | Liquid: Zn 0.667; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 11 |  |
+| 1123 | other: Liquid = LaZn2 | Liquid: Zn 0.667; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 12 |  |
+| 1117 | peritectic: L + La2Zn17 -> LaZn11 | La2Zn17: Zn 0.894737; LaZn11: Zn 0.916667 | model | [2] Qi 2010 | Table 1, p. 3, row 17 |  |
 | 1117 | peritectic |  | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | p. 1 | “They found that LaZn13 does not stable all the way up with increasing temperature and observed LaZn13 and LaZn11 decomposes peritectically at 983 K and 1117 K, respectively.” |
-| 1117 | Peritectic: L + La2Zn17 -> LaZn11 | La2Zn17: Zn 0.894737; LaZn11: Zn 0.916667 | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | Table 1, p. 3, row 18 |  |
+| 1117 | peritectic: L + La2Zn17 -> LaZn11 | La2Zn17: Zn 0.894737; LaZn11: Zn 0.916667 | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | Table 1, p. 3, row 18 |  |
 | 1113 | peritectic |  | model | [2] Qi 2010; _cites Gschneidner 1990_ | p. 1 | “LaZn4 and LaZn13 form through peritectic reactions at 1145 K and 1113 K, respectively.” |
-| 1085 | max: Liquid = LaZn | Liquid: Zn 0.5; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 8 |  |
-| 1085 | max: Liquid = LaZn | Liquid: Zn 0.5; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 7 |  |
+| 1085 | other: Liquid = LaZn | Liquid: Zn 0.5; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 8 |  |
+| 1085 | other: Liquid = LaZn | Liquid: Zn 0.5; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 7 |  |
 | 1074 | bcc-La = fcc-La + liquid |  | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 5 |  |
 | 1074 | bcc-La = fcc-La + liquid | bcc-La: Zn 0.021; fcc-La: Zn 0.006; liquid: Zn 0.074 | model | [1] Berche 2012 | Table 1, p. 2, row 6 |  |
-| 1065 | Eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 9 |  |
-| 1055 | E: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.731; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 14 |  |
-| 1055 | Eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 10 |  |
+| 1065 | eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 9 |  |
+| 1055 | eutectic: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.731; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 14 |  |
+| 1055 | eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 10 |  |
 | 1055 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
-| 1047 | E: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.734; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 13 |  |
-| 1041 | Eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | model | [2] Qi 2010 | Table 1, p. 3, row 5 |  |
+| 1047 | eutectic: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.734; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 13 |  |
+| 1041 | eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | model | [2] Qi 2010 | Table 1, p. 3, row 5 |  |
 | 1036 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
-| 1033 | Eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 6 |  |
-| 1031 | E: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 10 |  |
-| 1026 | E: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 9 |  |
-| 993 | P: Liquid + LaZn11 = LaZn13 | LaZn11: Zn 0.917; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 26 |  |
-| 991 | P: Liquid + LaZn11 = LaZn13 | Liquid: Zn 0.986; LaZn11: Zn 0.917; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 27 |  |
+| 1033 | eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 6 |  |
+| 1031 | eutectic: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 10 |  |
+| 1026 | eutectic: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 9 |  |
+| 993 | peritectic: Liquid + LaZn11 = LaZn13 | LaZn11: Zn 0.917; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 26 |  |
+| 991 | peritectic: Liquid + LaZn11 = LaZn13 | Liquid: Zn 0.986; LaZn11: Zn 0.917; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 27 |  |
 | 983 | peritectic |  | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | p. 1 | “They found that LaZn13 does not stable all the way up with increasing temperature and observed LaZn13 and LaZn11 decomposes peritectically at 983 K and 1117 K, respectively.” |
-| 983 | Peritectic: L + LaZn11 -> LaZn13 | LaZn11: Zn 0.916667; LaZn13: Zn 0.928571 | model | [2] Qi 2010 | Table 1, p. 3, row 19 |  |
-| 983 | Peritectic: L + LaZn11 -> LaZn13 | LaZn11: Zn 0.916667; LaZn13: Zn 0.928571 | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | Table 1, p. 3, row 20 |  |
-| 811 | E: Liquid = fcc-La + LaZn | Liquid: Zn 0.231; fcc-La: Zn 0.027; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 4 |  |
-| 810 | E: Liquid = fcc-La + LaZn | Liquid: Zn 0.22; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 3 |  |
-| 803 | Eutectic: L -> Fcc + LaZn(B2) |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 2 |  |
+| 983 | peritectic: L + LaZn11 -> LaZn13 | LaZn11: Zn 0.916667; LaZn13: Zn 0.928571 | model | [2] Qi 2010 | Table 1, p. 3, row 19 |  |
+| 983 | peritectic: L + LaZn11 -> LaZn13 | LaZn11: Zn 0.916667; LaZn13: Zn 0.928571 | experimental | [2] Qi 2010; _cites Iandelli 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990001-x) | Table 1, p. 3, row 20 |  |
+| 811 | eutectic: Liquid = fcc-La + LaZn | Liquid: Zn 0.231; fcc-La: Zn 0.027; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 4 |  |
+| 810 | eutectic: Liquid = fcc-La + LaZn | Liquid: Zn 0.22; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 3 |  |
+| 803 | eutectic: L -> Fcc + LaZn(B2) |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 2 |  |
 | 803 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
-| 796 | Eutectic: L -> Fcc + LaZn(B2) |  | model | [2] Qi 2010 | Table 1, p. 3, row 1 |  |
-| 694 | E: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 28 |  |
-| 692 | E: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 29 |  |
+| 796 | eutectic: L -> Fcc + LaZn(B2) |  | model | [2] Qi 2010 | Table 1, p. 3, row 1 |  |
+| 694 | eutectic: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 28 |  |
+| 692 | eutectic: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 29 |  |
 | 519 | fcc-La = LaZn + dhcp-La | fcc-La: Zn 0.004; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 1 |  |
 
 ## Other properties
@@ -159,15 +159,15 @@ Table: Phase transition, La–Zn system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 993 K | 993 | other | experimental | [1] Berche 2012; _cites Kovalevskii 1972_ | p. 2 | “These values are referred to saturated liquid zinc i.e. \[liquid + LaZn13 \] for temperatures lower than 993 K, and \[liquid + LaZn11 \] for temperatures higher than 993 K.” |
-| Phase transition | 1087 K | 1087 | Congruent: L -> LaZn(B2) | model | [2] Qi 2010 | Table 1, p. 3, row 3 |  |
-| Phase transition | 1088 K | 1088 | Congruent: L -> LaZn(B2) | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 4 |  |
-| Phase transition | 1088 K | 1088 | congruent | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
-| Phase transition | 1120 K | 1120 | Congruent: L -> LaZn2; _L: Zn 0.666667; LaZn2: Zn 0.666667_ | model | [2] Qi 2010 | Table 1, p. 3, row 7 |  |
-| Phase transition | 1128 K | 1128 | Congruent: L -> LaZn2; _L: Zn 0.666667; LaZn2: Zn 0.666667_ | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 8 |  |
-| Phase transition | 1128 K | 1128 | congruent | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
-| Phase transition | 1247 K | 1247 | Congruent: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 16 |  |
-| Phase transition | 1247 K | 1247 | Congruent: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | model | [2] Qi 2010 | Table 1, p. 3, row 15 |  |
-| Phase transition | 1249 K | 1249 | congruent | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
+| Phase transition | 1087 K | 1087 | congruent melting: L -> LaZn(B2) | model | [2] Qi 2010 | Table 1, p. 3, row 3 |  |
+| Phase transition | 1088 K | 1088 | congruent melting: L -> LaZn(B2) | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 4 |  |
+| Phase transition | 1088 K | 1088 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
+| Phase transition | 1120 K | 1120 | congruent melting: L -> LaZn2; _L: Zn 0.666667; LaZn2: Zn 0.666667_ | model | [2] Qi 2010 | Table 1, p. 3, row 7 |  |
+| Phase transition | 1128 K | 1128 | congruent melting: L -> LaZn2; _L: Zn 0.666667; LaZn2: Zn 0.666667_ | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 8 |  |
+| Phase transition | 1128 K | 1128 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
+| Phase transition | 1247 K | 1247 | congruent melting: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 16 |  |
+| Phase transition | 1247 K | 1247 | congruent melting: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | model | [2] Qi 2010 | Table 1, p. 3, row 15 |  |
+| Phase transition | 1249 K | 1249 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1 | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
 
 ### Heat capacity / entropy / enthalpy (2)
 

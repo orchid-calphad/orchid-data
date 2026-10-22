@@ -27,7 +27,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti–V system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1413 | U: Liq. + Fe2Ti -> FeTi + bcc |  | model | [1] Guo 2012 | Table 2, p. 4, row 1 |  |
+| 1413 | quasi-peritectic: Liq. + Fe2Ti -> FeTi + bcc |  | model | [1] Guo 2012 | Table 2, p. 4, row 1 |  |
 | 1413 | Liq. + Fe2Ti -> FeTi + bcc |  | experimental | [1] Guo 2012; _cites Massicot 2010_ [doi](https://doi.org/10.3139/146.110379) | Table 2, p. 4, row 2 |  |
 
 ## Sources

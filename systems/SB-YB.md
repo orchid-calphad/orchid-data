@@ -85,46 +85,46 @@ Table: Invariant reactions reported in the literature for the Sb–Yb system (40
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1953.35 | Congruent reaction: L -> Sb3Yb4 | L: Yb 0.5714; Sb3Yb4: Yb 0.5714 | model | [1] Liu 2012 | Table 5, p. 4, row 2 |  |
-| 1953.15 | Congruent reaction: L -> Sb3Yb4 | L: Yb 0.5714; Sb3Yb4: Yb 0.5714 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 1 |  |
-| 1953 | Congruent: Liquid -> Yb4Sb3 | Liquid: Sb 0.57; Yb4Sb3: Sb 0.428571, Yb 0.571429 | model | [2] Palma 2023 | Table 2, p. 28, row 12 |  |
-| 1953 | Congruent: Liquid -> Yb4Sb3 | Liquid: Sb 0.57; Yb4Sb3: Sb 0.428571, Yb 0.571429 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 11 |  |
-| 1877 | Peritectic: Liquid+Yb4Sb3 -> Yb16Sb11 | Liquid: Sb 0.36; Yb4Sb3: Sb 0.428571, Yb 0.571429; Yb16Sb11: Sb 0.407407, Yb 0.592593 | model | [2] Palma 2023 | Table 2, p. 28, row 13 |  |
-| 1813.17 | Peritectic reaction: L + Sb3Yb4 -> βSb3Yb5 | L: Yb 0.682; Sb3Yb4: Yb 0.5714; βSb3Yb5: Yb 0.625 | model | [1] Liu 2012 | Table 5, p. 4, row 4 |  |
-| 1813.15 | Peritectic reaction: L + Sb3Yb4 -> βSb3Yb5 | Sb3Yb4: Yb 0.5714; βSb3Yb5: Yb 0.625 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 3 |  |
+| 1953.35 | congruent melting: L -> Sb3Yb4 | L: Yb 0.5714; Sb3Yb4: Yb 0.5714 | model | [1] Liu 2012 | Table 5, p. 4, row 2 |  |
+| 1953.15 | congruent melting: L -> Sb3Yb4 | L: Yb 0.5714; Sb3Yb4: Yb 0.5714 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 1 |  |
+| 1953 | congruent melting: Liquid -> Yb4Sb3 | Liquid: Sb 0.57; Yb4Sb3: Sb 0.428571, Yb 0.571429 | model | [2] Palma 2023 | Table 2, p. 28, row 12 |  |
+| 1953 | congruent melting: Liquid -> Yb4Sb3 | Liquid: Sb 0.57; Yb4Sb3: Sb 0.428571, Yb 0.571429 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 11 |  |
+| 1877 | peritectic: Liquid+Yb4Sb3 -> Yb16Sb11 | Liquid: Sb 0.36; Yb4Sb3: Sb 0.428571, Yb 0.571429; Yb16Sb11: Sb 0.407407, Yb 0.592593 | model | [2] Palma 2023 | Table 2, p. 28, row 13 |  |
+| 1813.17 | peritectic: L + Sb3Yb4 -> βSb3Yb5 | L: Yb 0.682; Sb3Yb4: Yb 0.5714; βSb3Yb5: Yb 0.625 | model | [1] Liu 2012 | Table 5, p. 4, row 4 |  |
+| 1813.15 | peritectic: L + Sb3Yb4 -> βSb3Yb5 | Sb3Yb4: Yb 0.5714; βSb3Yb5: Yb 0.625 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 3 |  |
 | 1813.15 | peritectic |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Based on DTA, X-ray diffraction, and microstructural analysis, Abulkhaev \[20\] investigated the phase diagram in the Sb-Yb system, and reported five stoichiometric compounds: Sb2 Yb (peritectic formation at 805 ± 5 °C), SbYb (peritectic formation at 1075 ± 10 °C), Sb10 Yb11 (peritectic formation at 1405 ± 10 °C), Sb3 Yb4 (melting point, 1680 ± 15 °C), and Sb3 Yb5 (peritectic formation at 1540 ± 15…” |
-| 1813 | Peritectic: Liquid+Yb16Sb11 -> Yb5Sb3 | Liquid: Sb 0.34; Yb16Sb11: Sb 0.407407, Yb 0.592593; Yb5Sb3: Sb 0.375, Yb 0.625 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 14 |  |
-| 1813 | Congruent: Liquid -> Yb4Sb3 | Liquid: Sb 0.428571, Yb 0.571429; Yb4Sb3: Sb 0.428571, Yb 0.571429 | experimental | [2] Palma 2023; _cites Bodnar 1967_ [doi](https://doi.org/10.1021/ic50048a030) | Table 2, p. 28, row 10 |  |
-| 1812 | Peritectic: Liquid+Yb16Sb11 -> Yb5Sb3 | Liquid: Sb 0.318; Yb16Sb11: Sb 0.407407, Yb 0.592593; Yb5Sb3: Sb 0.375, Yb 0.625 | model | [2] Palma 2023 | Table 2, p. 28, row 15 |  |
-| 1678.18 | Peritectic reaction: L + Sb3Yb4 -> Sb10Yb11 | L: Yb 0.424; Sb3Yb4: Yb 0.5714; Sb10Yb11: Yb 0.5238 | model | [1] Liu 2012 | Table 5, p. 4, row 6 |  |
-| 1678.15 | Peritectic reaction: L + Sb3Yb4 -> Sb10Yb11 | Sb3Yb4: Yb 0.5714; Sb10Yb11: Yb 0.5238 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 5 |  |
+| 1813 | peritectic: Liquid+Yb16Sb11 -> Yb5Sb3 | Liquid: Sb 0.34; Yb16Sb11: Sb 0.407407, Yb 0.592593; Yb5Sb3: Sb 0.375, Yb 0.625 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 14 |  |
+| 1813 | congruent melting: Liquid -> Yb4Sb3 | Liquid: Sb 0.428571, Yb 0.571429; Yb4Sb3: Sb 0.428571, Yb 0.571429 | experimental | [2] Palma 2023; _cites Bodnar 1967_ [doi](https://doi.org/10.1021/ic50048a030) | Table 2, p. 28, row 10 |  |
+| 1812 | peritectic: Liquid+Yb16Sb11 -> Yb5Sb3 | Liquid: Sb 0.318; Yb16Sb11: Sb 0.407407, Yb 0.592593; Yb5Sb3: Sb 0.375, Yb 0.625 | model | [2] Palma 2023 | Table 2, p. 28, row 15 |  |
+| 1678.18 | peritectic: L + Sb3Yb4 -> Sb10Yb11 | L: Yb 0.424; Sb3Yb4: Yb 0.5714; Sb10Yb11: Yb 0.5238 | model | [1] Liu 2012 | Table 5, p. 4, row 6 |  |
+| 1678.15 | peritectic: L + Sb3Yb4 -> Sb10Yb11 | Sb3Yb4: Yb 0.5714; Sb10Yb11: Yb 0.5238 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 5 |  |
 | 1678.15 | peritectic |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Based on DTA, X-ray diffraction, and microstructural analysis, Abulkhaev \[20\] investigated the phase diagram in the Sb-Yb system, and reported five stoichiometric compounds: Sb2 Yb (peritectic formation at 805 ± 5 °C), SbYb (peritectic formation at 1075 ± 10 °C), Sb10 Yb11 (peritectic formation at 1405 ± 10 °C), Sb3 Yb4 (melting point, 1680 ± 15 °C), and Sb3 Yb5 (peritectic formation at 1540 ± 15…” |
-| 1678 | Peritectic: Liquid+Yb4Sb3 -> Yb11Sb10 | Liquid: Sb 0.55; Yb4Sb3: Sb 0.428571, Yb 0.571429; Yb11Sb10: Sb 0.47619, Yb 0.52381 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 8 |  |
-| 1678 | Peritectic: Liquid+Yb4Sb3 -> Yb11Sb10 | Liquid: Sb 0.554; Yb4Sb3: Sb 0.428571, Yb 0.571429; Yb11Sb10: Sb 0.47619, Yb 0.52381 | model | [2] Palma 2023 | Table 2, p. 28, row 9 |  |
-| 1553.22 | Polymorphic transition: βSb3Yb5 -> αSb3Yb5 | βSb3Yb5: Yb 0.625; αSb3Yb5: Yb 0.625 | model | [1] Liu 2012 | Table 5, p. 4, row 8 |  |
-| 1553.15 | Polymorphic transition: βSb3Yb5 -> αSb3Yb5 | βSb3Yb5: Yb 0.625; αSb3Yb5: Yb 0.625 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 7 |  |
-| 1348.15 | Peritectic reaction: L + Sb10Yb11 -> SbYb | Sb10Yb11: Yb 0.5238; SbYb: Yb 0.5 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 9 |  |
+| 1678 | peritectic: Liquid+Yb4Sb3 -> Yb11Sb10 | Liquid: Sb 0.55; Yb4Sb3: Sb 0.428571, Yb 0.571429; Yb11Sb10: Sb 0.47619, Yb 0.52381 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 8 |  |
+| 1678 | peritectic: Liquid+Yb4Sb3 -> Yb11Sb10 | Liquid: Sb 0.554; Yb4Sb3: Sb 0.428571, Yb 0.571429; Yb11Sb10: Sb 0.47619, Yb 0.52381 | model | [2] Palma 2023 | Table 2, p. 28, row 9 |  |
+| 1553.22 | polymorphic: βSb3Yb5 -> αSb3Yb5 | βSb3Yb5: Yb 0.625; αSb3Yb5: Yb 0.625 | model | [1] Liu 2012 | Table 5, p. 4, row 8 |  |
+| 1553.15 | polymorphic: βSb3Yb5 -> αSb3Yb5 | βSb3Yb5: Yb 0.625; αSb3Yb5: Yb 0.625 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 7 |  |
+| 1348.15 | peritectic: L + Sb10Yb11 -> SbYb | Sb10Yb11: Yb 0.5238; SbYb: Yb 0.5 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 9 |  |
 | 1348.15 | peritectic |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Based on DTA, X-ray diffraction, and microstructural analysis, Abulkhaev \[20\] investigated the phase diagram in the Sb-Yb system, and reported five stoichiometric compounds: Sb2 Yb (peritectic formation at 805 ± 5 °C), SbYb (peritectic formation at 1075 ± 10 °C), Sb10 Yb11 (peritectic formation at 1405 ± 10 °C), Sb3 Yb4 (melting point, 1680 ± 15 °C), and Sb3 Yb5 (peritectic formation at 1540 ± 15…” |
-| 1348.15 | Peritectic reaction: L + Sb10Yb11 -> SbYb | L: Yb 0.3236; Sb10Yb11: Yb 0.5238; SbYb: Yb 0.5 | model | [1] Liu 2012 | Table 5, p. 4, row 10 |  |
-| 1348 | Peritectic: Liquid+Yb11Sb10 -> YbSb | Liquid: Sb 0.66; Yb11Sb10: Sb 0.47619, Yb 0.52381; YbSb: Sb 0.5, Yb 0.5 | experimental | [2] Palma 2023; _cites Bodnar 1967_ [doi](https://doi.org/10.1021/ic50048a030) | Table 2, p. 28, row 6 |  |
-| 1344 | Peritectic: Liquid+Yb11Sb10 -> YbSb | Liquid: Sb 0.675; Yb11Sb10: Sb 0.47619, Yb 0.52381; YbSb: Sb 0.5, Yb 0.5 | model | [2] Palma 2023 | Table 2, p. 28, row 7 |  |
-| 1118 | Peritectic: Liquid+YbSb -> YbSb2 | YbSb: Sb 0.5, Yb 0.5; YbSb2: Sb 0.666667, Yb 0.333333 | experimental | [2] Palma 2023; _cites Bodnar 1967_ [doi](https://doi.org/10.1021/ic50048a030) | Table 2, p. 28, row 3 |  |
-| 1083.15 | Eutectic reaction: L -> αSb3Yb5 + (γYb) | L: Yb 0.99; αSb3Yb5: Yb 0.625 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 11 |  |
+| 1348.15 | peritectic: L + Sb10Yb11 -> SbYb | L: Yb 0.3236; Sb10Yb11: Yb 0.5238; SbYb: Yb 0.5 | model | [1] Liu 2012 | Table 5, p. 4, row 10 |  |
+| 1348 | peritectic: Liquid+Yb11Sb10 -> YbSb | Liquid: Sb 0.66; Yb11Sb10: Sb 0.47619, Yb 0.52381; YbSb: Sb 0.5, Yb 0.5 | experimental | [2] Palma 2023; _cites Bodnar 1967_ [doi](https://doi.org/10.1021/ic50048a030) | Table 2, p. 28, row 6 |  |
+| 1344 | peritectic: Liquid+Yb11Sb10 -> YbSb | Liquid: Sb 0.675; Yb11Sb10: Sb 0.47619, Yb 0.52381; YbSb: Sb 0.5, Yb 0.5 | model | [2] Palma 2023 | Table 2, p. 28, row 7 |  |
+| 1118 | peritectic: Liquid+YbSb -> YbSb2 | YbSb: Sb 0.5, Yb 0.5; YbSb2: Sb 0.666667, Yb 0.333333 | experimental | [2] Palma 2023; _cites Bodnar 1967_ [doi](https://doi.org/10.1021/ic50048a030) | Table 2, p. 28, row 3 |  |
+| 1083.15 | eutectic: L -> αSb3Yb5 + (γYb) | L: Yb 0.99; αSb3Yb5: Yb 0.625 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 11 |  |
 | 1083.15 | eutectic: L (0.9 at.% Yb) ↔ (γ Yb) + α Sb3 Yb5 |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Abulkhaev \[20\] also determined two eutectic reactions: L (0.9 at.% Yb) ↔ (γ Yb) + α Sb3 Yb5 at 810 ± 5 °C, L (10 at.%Yb) ↔ Sb2 Yb + (Sb) at 620 ± 2 °C.” |
-| 1083.15 | Eutectic reaction: L -> αSb3Yb5 + (γYb) | L: Yb 0.986; αSb3Yb5: Yb 0.625; (γYb): Yb 0.9982 | model | [1] Liu 2012 | Table 5, p. 4, row 12 |  |
-| 1083 | Eutectic: Liquid -> Yb5Sb3+ BCC_A2 | Yb5Sb3: Sb 0.375, Yb 0.625 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 16 |  |
-| 1078.15 | Peritectic reaction: L + SbYb -> Sb2Yb | L: Yb 0.254; SbYb: Yb 0.5; Sb2Yb: Yb 0.3333 | model | [1] Liu 2012 | Table 5, p. 4, row 14 |  |
+| 1083.15 | eutectic: L -> αSb3Yb5 + (γYb) | L: Yb 0.986; αSb3Yb5: Yb 0.625; (γYb): Yb 0.9982 | model | [1] Liu 2012 | Table 5, p. 4, row 12 |  |
+| 1083 | eutectic: Liquid -> Yb5Sb3+ BCC_A2 | Yb5Sb3: Sb 0.375, Yb 0.625 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 16 |  |
+| 1078.15 | peritectic: L + SbYb -> Sb2Yb | L: Yb 0.254; SbYb: Yb 0.5; Sb2Yb: Yb 0.3333 | model | [1] Liu 2012 | Table 5, p. 4, row 14 |  |
 | 1078.15 | peritectic |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Based on DTA, X-ray diffraction, and microstructural analysis, Abulkhaev \[20\] investigated the phase diagram in the Sb-Yb system, and reported five stoichiometric compounds: Sb2 Yb (peritectic formation at 805 ± 5 °C), SbYb (peritectic formation at 1075 ± 10 °C), Sb10 Yb11 (peritectic formation at 1405 ± 10 °C), Sb3 Yb4 (melting point, 1680 ± 15 °C), and Sb3 Yb5 (peritectic formation at 1540 ± 15…” |
-| 1078.15 | Peritectic reaction: L + SbYb -> Sb2Yb | SbYb: Yb 0.5; Sb2Yb: Yb 0.3333 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 13 |  |
-| 1078 | Peritectic: Liquid+YbSb -> YbSb2 | Liquid: Sb 0.79; YbSb: Sb 0.5, Yb 0.5; YbSb2: Sb 0.666667, Yb 0.333333 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 4 |  |
-| 1078 | Eutectic: Liquid -> Yb5Sb3+ BCC_A2 | Liquid: Sb 0.0123; Yb5Sb3: Sb 0.375, Yb 0.625; Solid: Sb 0.0086 | model | [2] Palma 2023 | Table 2, p. 28, row 17 |  |
-| 1075 | Peritectic: Liquid+YbSb -> YbSb2 | Liquid: Sb 0.783; YbSb: Sb 0.5, Yb 0.5; YbSb2: Sb 0.666667, Yb 0.333333 | model | [2] Palma 2023 | Table 2, p. 28, row 5 |  |
-| 1038.15 | Peritectoid reaction: αSb3Yb5 + (γYb) -> (βYb) | αSb3Yb5: Yb 0.625; (γYb): Yb 0.9988 | model | [1] Liu 2012 | Table 5, p. 4, row 15 |  |
-| 893.15 | Eutectic reaction: L -> Sb2Yb + (Sb) | L: Yb 0.076; Sb2Yb: Yb 0.3333; (Sb): Yb 0.0086 | model | [1] Liu 2012 | Table 5, p. 4, row 17 |  |
+| 1078.15 | peritectic: L + SbYb -> Sb2Yb | SbYb: Yb 0.5; Sb2Yb: Yb 0.3333 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 13 |  |
+| 1078 | peritectic: Liquid+YbSb -> YbSb2 | Liquid: Sb 0.79; YbSb: Sb 0.5, Yb 0.5; YbSb2: Sb 0.666667, Yb 0.333333 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 4 |  |
+| 1078 | eutectic: Liquid -> Yb5Sb3+ BCC_A2 | Liquid: Sb 0.0123; Yb5Sb3: Sb 0.375, Yb 0.625; Solid: Sb 0.0086 | model | [2] Palma 2023 | Table 2, p. 28, row 17 |  |
+| 1075 | peritectic: Liquid+YbSb -> YbSb2 | Liquid: Sb 0.783; YbSb: Sb 0.5, Yb 0.5; YbSb2: Sb 0.666667, Yb 0.333333 | model | [2] Palma 2023 | Table 2, p. 28, row 5 |  |
+| 1038.15 | peritectoid: αSb3Yb5 + (γYb) -> (βYb) | αSb3Yb5: Yb 0.625; (γYb): Yb 0.9988 | model | [1] Liu 2012 | Table 5, p. 4, row 15 |  |
+| 893.15 | eutectic: L -> Sb2Yb + (Sb) | L: Yb 0.076; Sb2Yb: Yb 0.3333; (Sb): Yb 0.0086 | model | [1] Liu 2012 | Table 5, p. 4, row 17 |  |
 | 893.15 | eutectic: L (10 at.%Yb) ↔ Sb2 Yb + (Sb) |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Abulkhaev \[20\] also determined two eutectic reactions: L (0.9 at.% Yb) ↔ (γ Yb) + α Sb3 Yb5 at 810 ± 5 °C, L (10 at.%Yb) ↔ Sb2 Yb + (Sb) at 620 ± 2 °C.” |
-| 893.15 | Eutectic reaction: L -> Sb2Yb + (Sb) | L: Yb 0.1; Sb2Yb: Yb 0.3333 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 16 |  |
-| 893 | Eutectic: Liquid -> Rhombohedral+YbSb2 | YbSb2: Sb 0.666667, Yb 0.333333 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 1 |  |
-| 885 | Eutectic: Liquid -> Rhombohedral+YbSb2 | Liquid: Sb 0.95; YbSb2: Sb 0.666667, Yb 0.333333; Solid: Sb 0.993 | model | [2] Palma 2023 | Table 2, p. 28, row 2 |  |
+| 893.15 | eutectic: L -> Sb2Yb + (Sb) | L: Yb 0.1; Sb2Yb: Yb 0.3333 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 16 |  |
+| 893 | eutectic: Liquid -> Rhombohedral+YbSb2 | YbSb2: Sb 0.666667, Yb 0.333333 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 1 |  |
+| 885 | eutectic: Liquid -> Rhombohedral+YbSb2 | Liquid: Sb 0.95; YbSb2: Sb 0.666667, Yb 0.333333; Solid: Sb 0.993 | model | [2] Palma 2023 | Table 2, p. 28, row 2 |  |
 
 ## Formation enthalpies
 
@@ -162,7 +162,7 @@ Table: Phase transition, Sb–Yb system
 | Phase transition | 1469.15 K | 1469.15 | other | experimental | [2] Palma 2023; _cites Nesbitt 2014_ [doi](https://doi.org/10.1007/s11664-014-3261-8) | p. 16 | “This is an important finding, since the boiling pressure of Yb is quite high \[28\] with a boiling temperature of 1196°C though not mentioned by Abulkhaev et al. \[21\].” |
 | Phase transition | 1553 K | 1553 |  | experimental | [2] Palma 2023 | p. 5 | “A transformation of the Yb5Sb3 phase at 1553 K was also observed, from a lower temperature orthorhombic structure (β) to a high temperature hexagonal structure (α).” |
 | Phase transition | 1553.15 K | 1553.15 | polymorphic: α Sb3 Yb5 ↔ β Sb3 Yb5 | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “A reversible polymorphic transition (α Sb3 Yb5 ↔ β Sb3 Yb5 at 1280 ± 10 °C) was observed by Abulkhaev \[20\].” |
-| Phase transition | 1813 K | 1813 | congruent | experimental | [2] Palma 2023; _cites Bodnar 1967_ [doi](https://doi.org/10.1021/ic50048a030) | p. 4 | “The study determined that Yb4Sb3 melted congruently at 1813 K, and Yb-rich regions were in equilibrium with the gas phase.” |
+| Phase transition | 1813 K | 1813 | congruent transformation | experimental | [2] Palma 2023; _cites Bodnar 1967_ [doi](https://doi.org/10.1021/ic50048a030) | p. 4 | “The study determined that Yb4Sb3 melted congruently at 1813 K, and Yb-rich regions were in equilibrium with the gas phase.” |
 | Phase transition | 1883 K | 1883 |  | model | [2] Palma 2023 | p. 16 | “Hence, the present model estimates the melting to point to be the average of these two temperatures at ~1883 K.” |
 | Phase transition | 1953.15 K | 1953.15 |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Based on DTA, X-ray diffraction, and microstructural analysis, Abulkhaev \[20\] investigated the phase diagram in the Sb-Yb system, and reported five stoichiometric compounds: Sb2 Yb (peritectic formation at 805 ± 5 °C), SbYb (peritectic formation at 1075 ± 10 °C), Sb10 Yb11 (peritectic formation at 1405 ± 10 °C), Sb3 Yb4 (melting point, 1680 ± 15 °C), and Sb3 Yb5 (peritectic formation at 1540 ± 15…” |
 

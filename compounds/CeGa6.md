@@ -1,28 +1,23 @@
 # CeGa6: enthalpy of formation
 
-> Enthalpy of formation of CeGa6: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CeGa6: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CeGa6.html · Markdown: https://data.orchid-project.org/compounds/CeGa6.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 4, model 6); experimental median -50.5 kJ/mol-atom (n = 4); Materials Project -31.098 kJ/mol-atom (mp-aaaaabbj); OQMD -34.197 kJ/mol-atom (oqmd-19608).
+5 accepted literature formation-enthalpy value(s) (experimental 2, model 3); experimental median -50.5 kJ/mol-atom (n = 2); Materials Project -31.098 kJ/mol-atom (mp-aaaaabbj); OQMD -34.197 kJ/mol-atom (oqmd-19608).
 
 Systems: [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CeGa6 reported in the literature (10)
+Table: Enthalpy of formation of CeGa6 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -52.8 kJ/mol-atom ± 3 | CeGa6_HT | 298.15 | experimental | Precipitation Cal. 876 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 2 |  |
-| -52.8 kJ/mol-atom ± 3 | CeGa6_HT | 298.15 | experimental | Precipitation Cal. 876 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 2 |  |
-| -48.2 kJ/mol-atom ± 3.7 | CeGa6_HT | 298.15 | experimental | Ga. Soln. Calori.; 874 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 1 |  |
 | -48.2 kJ/mol-atom ± 3.7 | CeGa6_HT | 298.15 | experimental | Ga. Soln. Calori.; 874 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 1 |  |
 | -51.56 kJ/mol-atom | CeGa6_LT | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 4 |  |
-| -51.56 kJ/mol-atom | CeGa6_LT | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 4 |  |
 | -51.364 kJ/mol-atom | CeGa6_HT | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 3 |  |
-| -51.364 kJ/mol-atom | CeGa6_HT | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 3 |  |
-| -30.9 kJ/mol-atom | CeGa6_LT | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 5 |  |
 | -30.9 kJ/mol-atom | CeGa6_LT | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 5 |  |
 
 ## DFT formation energies

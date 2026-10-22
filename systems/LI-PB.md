@@ -159,8 +159,8 @@ Table: Crystal structure, Li–Pb system
 | Molar volume; _printed: V0_ | 22.8 Å3/atom | 0 | αLiPb; _alloy: Pb 0.5_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 14 |  |
 | Molar volume; _printed: V0_ | 22.62 Å3/atom | 0 | βLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 4, p. 4, row 17 |  |
 | Molar volume; _printed: V0_ | 24.48 Å3/atom | 0 | βLiPb; _alloy: Pb 0.5_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 16 |  |
-| lattice  | 104.5 deg | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7 |  |
-| lattice  | 89.5 deg | 298.15 | αLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 1, p. 2, row 8 |  |
+| lattice unspecified angle | 104.5 deg | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7 |  |
+| lattice unspecified angle | 89.5 deg | 298.15 | αLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 1, p. 2, row 8 |  |
 | volume; _printed: V0_ | 18.6 Å3/atom | 0 | Li4Pb (Li22Pb5); _alloy: Pb 0.2_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 3 |  |
 | volume; _printed: V0_ | 18.74 Å3/atom | 0 | Li4Pb (Li22Pb5); _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 4, p. 4, row 4 |  |
 

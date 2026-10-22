@@ -146,81 +146,81 @@ Table: Invariant reactions reported in the literature for the Co–Ta system (76
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2226.15 | Peritectic: L + bcc ↔ CoTa2 | L: Ta 0.663; bcc: Ta 0.933; CoTa2: Ta 0.687 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 4 |  |
+| 2226.15 | peritectic: L + bcc ↔ CoTa2 | L: Ta 0.663; bcc: Ta 0.933; CoTa2: Ta 0.687 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 4 |  |
 | 2086.15 | eutectic: Liquid ↔ λ1-Co2Ta + μ-Co6Ta7 |  | model | [1] Wang 2022 | p. 15 | “In the Al-Co-Ta ternary system, the eutectic reaction of Liquid ↔ λ1-Co2Ta + μ-Co6Ta7 occurs at 1813 °C, which is higher than the reaction temperature in the Co-Ta binary system.” |
-| 2073.15 | Peritectic: L + bcc ↔ CoTa2 | L: Ta 0.656; bcc: Ta 0.943; CoTa2: Ta 0.664 | model | [1] Wang 2022 | Table 2, p. 9, row 5 |  |
-| 2073.15 | Peritectic: L + bcc ↔ CoTa2 | L: Ta 0.652; bcc: Ta 0.905; CoTa2: Ta 0.664 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 3 |  |
-| 2073.15 | Peritectic: L + bcc ↔ CoTa2 | CoTa2: Ta 0.666667 | experimental | [1] Wang 2022; _cites Bernard 1976_ | Table 2, p. 9, row 1 |  |
+| 2073.15 | peritectic: L + bcc ↔ CoTa2 | L: Ta 0.656; bcc: Ta 0.943; CoTa2: Ta 0.664 | model | [1] Wang 2022 | Table 2, p. 9, row 5 |  |
+| 2073.15 | peritectic: L + bcc ↔ CoTa2 | L: Ta 0.652; bcc: Ta 0.905; CoTa2: Ta 0.664 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 3 |  |
+| 2073.15 | peritectic: L + bcc ↔ CoTa2 | CoTa2: Ta 0.666667 | experimental | [1] Wang 2022; _cites Bernard 1976_ | Table 2, p. 9, row 1 |  |
 | 2073 | liquid+bcc=CoTa2 | CoTa2: Ta 0.666667 | experimental | [2] Liu 1999; _cites ref. 12_ | Table 4, p. 8, row 1 |  |
 | 2073 | liquid+bcc=CoTa2 | liquid: Ta 0.65; bcc: Ta 0.862; CoTa2: Ta 0.667 | model | [2] Liu 1999 | Table 4, p. 8, row 2 |  |
-| 2060.15 | Peritectic: L + bcc ↔ CoTa2 | L: Ta 0.643; bcc: Ta 0.912; CoTa2: Ta 0.661 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 2 |  |
-| 1958.15 | Eutectic: L ↔ μ + CoTa2 | L: Ta 0.58; μ: Ta 0.534; CoTa2: Ta 0.623 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 9 |  |
+| 2060.15 | peritectic: L + bcc ↔ CoTa2 | L: Ta 0.643; bcc: Ta 0.912; CoTa2: Ta 0.661 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 2 |  |
+| 1958.15 | eutectic: L ↔ μ + CoTa2 | L: Ta 0.58; μ: Ta 0.534; CoTa2: Ta 0.623 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 9 |  |
 | 1945 | liquid=μ+ CoTa2 | liquid: Ta 0.574; μ: Ta 0.556; CoTa2: Ta 0.667 | model | [2] Liu 1999 | Table 4, p. 8, row 7 |  |
-| 1943.15 | Eutectic: L ↔ μ + CoTa2 | CoTa2: Ta 0.666667 | experimental | [1] Wang 2022; _cites Bernard 1976_ | Table 2, p. 9, row 6 |  |
-| 1943.15 | Eutectic: L ↔ μ + CoTa2 | L: Ta 0.551; μ: Ta 0.528; CoTa2: Ta 0.631 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 8 |  |
+| 1943.15 | eutectic: L ↔ μ + CoTa2 | CoTa2: Ta 0.666667 | experimental | [1] Wang 2022; _cites Bernard 1976_ | Table 2, p. 9, row 6 |  |
+| 1943.15 | eutectic: L ↔ μ + CoTa2 | L: Ta 0.551; μ: Ta 0.528; CoTa2: Ta 0.631 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 8 |  |
 | 1943 | liquid=μ+ CoTa2 | CoTa2: Ta 0.666667 | experimental | [2] Liu 1999; _cites ref. 12_ | Table 4, p. 8, row 6 |  |
-| 1896.15 | Eutectic: L ↔ μ + CoTa2 | L: Ta 0.588; μ: Ta 0.54; CoTa2: Ta 0.626 | model | [1] Wang 2022 | Table 2, p. 9, row 10 |  |
-| 1893.15 | Eutectic: L ↔ μ + CoTa2 | L: Ta 0.572; μ: Ta 0.541; CoTa2: Ta 0.65 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 7 |  |
-| 1863.15 | Peritectic: L + λ2 ↔ λ1 | L: Ta 0.393; λ2: Ta 0.345; λ1: Ta 0.369 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 13 |  |
-| 1860.15 | Peritectic: L + λ2 ↔ λ1 | L: Ta 0.401; λ2: Ta 0.341; λ1: Ta 0.36 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 15 |  |
-| 1854.15 | Peritectic: L + λ2 ↔ λ1 | L: Ta 0.393; λ2: Ta 0.337; λ1: Ta 0.36 | model | [1] Wang 2022 | Table 2, p. 9, row 16 |  |
+| 1896.15 | eutectic: L ↔ μ + CoTa2 | L: Ta 0.588; μ: Ta 0.54; CoTa2: Ta 0.626 | model | [1] Wang 2022 | Table 2, p. 9, row 10 |  |
+| 1893.15 | eutectic: L ↔ μ + CoTa2 | L: Ta 0.572; μ: Ta 0.541; CoTa2: Ta 0.65 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 7 |  |
+| 1863.15 | peritectic: L + λ2 ↔ λ1 | L: Ta 0.393; λ2: Ta 0.345; λ1: Ta 0.369 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 13 |  |
+| 1860.15 | peritectic: L + λ2 ↔ λ1 | L: Ta 0.401; λ2: Ta 0.341; λ1: Ta 0.36 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 15 |  |
+| 1854.15 | peritectic: L + λ2 ↔ λ1 | L: Ta 0.393; λ2: Ta 0.337; λ1: Ta 0.36 | model | [1] Wang 2022 | Table 2, p. 9, row 16 |  |
 | 1845 | liquid=C15+μ | liquid: Ta 0.382; C15: Ta 0.333; μ: Ta 0.465 | model | [2] Liu 1999 | Table 4, p. 8, row 11 |  |
-| 1843.15 | Peritectic: L + λ2 ↔ λ1 | L: Ta 0.333; λ2: Ta 0.333; λ1: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 11 |  |
-| 1843.15 | Peritectic: L + λ2 ↔ λ1 | λ2: Ta 0.333333; λ1: Ta 0.333333 | experimental | [1] Wang 2022; _cites Bernard 1976_ | Table 2, p. 9, row 12 |  |
+| 1843.15 | peritectic: L + λ2 ↔ λ1 | L: Ta 0.333; λ2: Ta 0.333; λ1: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 11 |  |
+| 1843.15 | peritectic: L + λ2 ↔ λ1 | λ2: Ta 0.333333; λ1: Ta 0.333333 | experimental | [1] Wang 2022; _cites Bernard 1976_ | Table 2, p. 9, row 12 |  |
 | 1843 | liquid=C15+μ |  | experimental | [2] Liu 1999; _cites ref. 12_ | Table 4, p. 8, row 12 |  |
-| 1833.15 | Peritectic: L + λ2 ↔ λ1 | L: Ta 0.375; λ2: Ta 0.329; λ1: Ta 0.362 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 14 |  |
+| 1833.15 | peritectic: L + λ2 ↔ λ1 | L: Ta 0.375; λ2: Ta 0.329; λ1: Ta 0.362 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 14 |  |
 | 1833 | liquid=C15+μ |  | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 10 |  |
-| 1830.15 | Eutectic: L ↔ λ1 + μ | L: Ta 0.42; λ1: Ta 0.368; μ: Ta 0.458 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 19 |  |
-| 1828.15 | Eutectic: L ↔ λ1 + μ | L: Ta 0.413; λ1: Ta 0.37; μ: Ta 0.463 | model | [1] Wang 2022 | Table 2, p. 9, row 20 |  |
-| 1823.15 | Eutectic: L ↔ λ1 + μ | λ1: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 17 |  |
+| 1830.15 | eutectic: L ↔ λ1 + μ | L: Ta 0.42; λ1: Ta 0.368; μ: Ta 0.458 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 19 |  |
+| 1828.15 | eutectic: L ↔ λ1 + μ | L: Ta 0.413; λ1: Ta 0.37; μ: Ta 0.463 | model | [1] Wang 2022 | Table 2, p. 9, row 20 |  |
+| 1823.15 | eutectic: L ↔ λ1 + μ | λ1: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 17 |  |
 | 1813 | C15+μ=C14 |  | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 13 |  |
 | 1812 | C15+μ=C14 | C15: Ta 0.333; μ: Ta 0.465; C14: Ta 0.371 | model | [2] Liu 1999 | Table 4, p. 8, row 14 |  |
-| 1808.15 | Eutectic: L ↔ λ1 + μ | L: Ta 0.402; λ1: Ta 0.373; μ: Ta 0.465 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 18 |  |
-| 1729.15 | Peritectic: L + λ2 ↔ λ3 | L: Ta 0.187; λ2: Ta 0.279; λ3: Ta 0.275 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 25 |  |
-| 1723.15 | Peritectic: L + λ2 ↔ λ3 | λ2: Ta 0.333333; λ3: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 21 |  |
+| 1808.15 | eutectic: L ↔ λ1 + μ | L: Ta 0.402; λ1: Ta 0.373; μ: Ta 0.465 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 18 |  |
+| 1729.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.187; λ2: Ta 0.279; λ3: Ta 0.275 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 25 |  |
+| 1723.15 | peritectic: L + λ2 ↔ λ3 | λ2: Ta 0.333333; λ3: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 21 |  |
 | 1723 | liquid+C15=C36 |  | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 15 |  |
-| 1721.15 | Peritectic: L + λ2 ↔ λ3 | L: Ta 0.182; λ2: Ta 0.267; λ3: Ta 0.257 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 24 |  |
-| 1721.15 | Peritectic: L + λ2 ↔ λ3 | L: Ta 0.205; λ2: Ta 0.287; λ3: Ta 0.271 | model | [1] Wang 2022; _cites Liu 1999_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900005-5) | Table 2, p. 9, row 22 |  |
-| 1721.15 | Peritectic: L + λ2 ↔ λ3 | L: Ta 0.182; λ2: Ta 0.287; λ3: Ta 0.254 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 23 |  |
+| 1721.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.182; λ2: Ta 0.267; λ3: Ta 0.257 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 24 |  |
+| 1721.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.205; λ2: Ta 0.287; λ3: Ta 0.271 | model | [1] Wang 2022; _cites Liu 1999_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900005-5) | Table 2, p. 9, row 22 |  |
+| 1721.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.182; λ2: Ta 0.287; λ3: Ta 0.254 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 23 |  |
 | 1721.15 | peritectic: liquid + l2 = l3 |  | experimental | [3] Shinagawa 2014 | p. 8 | “Two endothermic signals obtained in the 21 at.% Ta shown in Fig. 4(a) are caused by the eutectic reaction, liquid 1⁄4 g(Co) þ l3 at 1311 C, and the peritectic reaction, liquid þ l2 1⁄4 l3 at 1448 C.” |
 | 1721 | liquid+C15=C36 | liquid: Ta 0.205; C15: Ta 0.271; C36: Ta 0.287 | model | [2] Liu 1999 | Table 4, p. 8, row 16 |  |
-| 1720.15 | Peritectic: L + λ2 ↔ λ3 | L: Ta 0.186; λ2: Ta 0.272; λ3: Ta 0.269 | model | [1] Wang 2022 | Table 2, p. 9, row 26 |  |
-| 1594.15 | Eutectic: L ↔ fcc + λ3 | L: Ta 0.126; fcc: Ta 0.059; λ3: Ta 0.237 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 29 |  |
-| 1593.15 | Eutectic: L ↔ fcc + λ3 | L: Ta 0.132; fcc: Ta 0.059; λ3: Ta 0.227 | model | [1] Wang 2022 | Table 2, p. 9, row 32 |  |
-| 1588.15 | Eutectic: L ↔ fcc + λ3 | L: Ta 0.134; fcc: Ta 0.061; λ3: Ta 0.237 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 31 |  |
-| 1584.15 | Eutectic: L ↔ fcc + λ3 | L: Ta 0.134; fcc: Ta 0.051; λ3: Ta 0.242 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 30 |  |
+| 1720.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.186; λ2: Ta 0.272; λ3: Ta 0.269 | model | [1] Wang 2022 | Table 2, p. 9, row 26 |  |
+| 1594.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.126; fcc: Ta 0.059; λ3: Ta 0.237 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 29 |  |
+| 1593.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.132; fcc: Ta 0.059; λ3: Ta 0.227 | model | [1] Wang 2022 | Table 2, p. 9, row 32 |  |
+| 1588.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.134; fcc: Ta 0.061; λ3: Ta 0.237 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 31 |  |
+| 1584.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.134; fcc: Ta 0.051; λ3: Ta 0.242 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 30 |  |
 | 1584.15 | eutectic: liquid = g(Co) + l3 |  | experimental | [3] Shinagawa 2014 | p. 8 | “Two endothermic signals obtained in the 21 at.% Ta shown in Fig. 4(a) are caused by the eutectic reaction, liquid 1⁄4 g(Co) þ l3 at 1311 C, and the peritectic reaction, liquid þ l2 1⁄4 l3 at 1448 C.” |
 | 1583.15 | eutectic |  | model | [3] Shinagawa 2014 | p. 8 | “The revised eutectic temperature (1310 C) is 30 C higher than the previous value (1280 C) shown in Fig. 1.” |
-| 1570.15 | Eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.351; μ: Ta 0.468; λ2: Ta 0.332 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 34 |  |
-| 1567.15 | Eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.362; μ: Ta 0.466; λ2: Ta 0.337 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 35 |  |
-| 1567.15 | Eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.363; μ: Ta 0.464; λ2: Ta 0.338 | model | [1] Wang 2022 | Table 2, p. 9, row 37 |  |
-| 1566.15 | Eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.366; μ: Ta 0.461; λ2: Ta 0.342 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 36 |  |
-| 1563.15 | Eutectic: L ↔ fcc + λ3 | λ3: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 27 |  |
-| 1553.15 | Eutectic: L ↔ fcc + λ3 | L: Ta 0.137; fcc: Ta 0.051; λ3: Ta 0.252 | model | [1] Wang 2022; _cites Liu 1999_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900005-5) | Table 2, p. 9, row 28 |  |
+| 1570.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.351; μ: Ta 0.468; λ2: Ta 0.332 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 34 |  |
+| 1567.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.362; μ: Ta 0.466; λ2: Ta 0.337 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 35 |  |
+| 1567.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.363; μ: Ta 0.464; λ2: Ta 0.338 | model | [1] Wang 2022 | Table 2, p. 9, row 37 |  |
+| 1566.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.366; μ: Ta 0.461; λ2: Ta 0.342 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 36 |  |
+| 1563.15 | eutectic: L ↔ fcc + λ3 | λ3: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 27 |  |
+| 1553.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.137; fcc: Ta 0.051; λ3: Ta 0.252 | model | [1] Wang 2022; _cites Liu 1999_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900005-5) | Table 2, p. 9, row 28 |  |
 | 1553.15 | eutectic |  | experimental | [3] Shinagawa 2014 | p. 8 | “The revised eutectic temperature (1310 C) is 30 C higher than the previous value (1280 C) shown in Fig. 1.” |
 | 1553 | liquid=fcc+C36 |  | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 19 |  |
 | 1553 | liquid=fcc+C36 | liquid: Ta 0.137; fcc: Ta 0.051; C36: Ta 0.252 | model | [2] Liu 1999 | Table 4, p. 8, row 18 |  |
 | 1551 | liquid=fcc+C36 | liquid: Ta 0.138 | experimental | [2] Liu 1999; _cites ref. 16_ | Table 4, p. 8, row 17 |  |
 | 1405 | C14=C15+μ | C14: Ta 0.367; C15: Ta 0.332; μ: Ta 0.462 | model | [2] Liu 1999 | Table 4, p. 8, row 21 |  |
-| 1403.15 | Eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.333333; λ2: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 33 |  |
+| 1403.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.333333; λ2: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 33 |  |
 | 1403 | C14=C15+μ |  | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 20 |  |
-| 1336.15 | Peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.025; λ3: Ta 0.241; Co7Ta2: Ta 0.222 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 40 |  |
-| 1320.15 | Peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.032; λ3: Ta 0.246; Co7Ta2: Ta 0.236 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 39 |  |
-| 1313.15 | Peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.016; λ3: Ta 0.23; Co7Ta2: Ta 0.222 | model | [1] Wang 2022 | Table 2, p. 9, row 41 |  |
+| 1336.15 | peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.025; λ3: Ta 0.241; Co7Ta2: Ta 0.222 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 40 |  |
+| 1320.15 | peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.032; λ3: Ta 0.246; Co7Ta2: Ta 0.236 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 39 |  |
+| 1313.15 | peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.016; λ3: Ta 0.23; Co7Ta2: Ta 0.222 | model | [1] Wang 2022 | Table 2, p. 9, row 41 |  |
 | 1306.15 | peritectoid: g(Co) + l3 = cCo7Ta2 |  | experimental | [3] Shinagawa 2014 | p. 8 | “A sharp endothermic reaction was detected at 1033 C in 8.5 at.%Ta alloy, which corresponds to the peritectoid reaction, g(Co) þ l3 1⁄4 cCo7Ta2.” |
 | 1306.15 | peritectoid |  | experimental | [3] Shinagawa 2014 | p. 1 | “The solvus temperature of the g0 Co3Ta (L12) phase precipitated in the 5.8 at.%Ta g(Co) and the peritectoid temperature of the Co7Ta2 phase in an 8.5 at.%Ta alloy were determined to be 1013 C and 1033 C, respectively, by differential scanning calorimeter (DSC).” |
-| 1303.15 | Eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.254; Co7Ta2: Ta 0.242; λ2: Ta 0.265 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 43 |  |
-| 1291.15 | Peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.0227; λ3: Ta 0.234; Co7Ta2: Ta 0.222 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 38 |  |
+| 1303.15 | eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.254; Co7Ta2: Ta 0.242; λ2: Ta 0.265 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 43 |  |
+| 1291.15 | peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.0227; λ3: Ta 0.234; Co7Ta2: Ta 0.222 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 38 |  |
 | 1281 | fcc+C36= Co7Ta2 | Co7Ta2: Ta 0.222222 | experimental | [2] Liu 1999; _cites ref. 16_ | Table 4, p. 8, row 24 |  |
-| 1272.15 | Eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.243; Co7Ta2: Ta 0.222; λ2: Ta 0.266 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 42 |  |
+| 1272.15 | eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.243; Co7Ta2: Ta 0.222; λ2: Ta 0.266 | unspecified | [1] Wang 2022; _cites Wang 2018_ | Table 2, p. 9, row 42 |  |
 | 1263 | fcc+C36= Co7Ta2 | fcc: Ta 0.013; Co7Ta2: Ta 0.222222 | experimental | [2] Liu 1999; _cites ref. 10_ | Table 4, p. 8, row 22 |  |
 | 1263 | peritectic |  | experimental | [2] Liu 1999 | p. 3 | “The results of the metallographic and X-ray studies depicted a peritectic formation of the CoTTaz phase (denoted as CosTa in the reference) at 1263 K.” |
-| 1231.15 | Eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.259; Co7Ta2: Ta 0.222; λ2: Ta 0.265 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 44 |  |
+| 1231.15 | eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.259; Co7Ta2: Ta 0.222; λ2: Ta 0.265 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 44 |  |
 | 1223 | fcc+C36= Co7Ta2 | Co7Ta2: Ta 0.222222 | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 25 |  |
 | 1222 | fcc+C36= Co7Ta2 | fcc: Ta 0.029; C36: Ta 0.249; Co7Ta2: Ta 0.222 | model | [2] Liu 1999 | Table 4, p. 8, row 23 |  |
-| 1220.15 | Eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.251; Co7Ta2: Ta 0.222; λ2: Ta 0.259 | model | [1] Wang 2022 | Table 2, p. 9, row 45 |  |
-| 904.15 | Eutectoid: Co7Ta2 ↔ λ2 + fcc | Co7Ta2: Ta 0.222; λ2: Ta 0.289; fcc: Ta 3.000e-4 | model | [1] Wang 2022 | Table 2, p. 9, row 47 |  |
-| 889.15 | Eutectoid: Co7Ta2 ↔ λ2 + fcc | Co7Ta2: Ta 0.222; λ2: Ta 0.296; fcc: Ta 9.000e-4 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 46 |  |
+| 1220.15 | eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.251; Co7Ta2: Ta 0.222; λ2: Ta 0.259 | model | [1] Wang 2022 | Table 2, p. 9, row 45 |  |
+| 904.15 | eutectoid: Co7Ta2 ↔ λ2 + fcc | Co7Ta2: Ta 0.222; λ2: Ta 0.289; fcc: Ta 3.000e-4 | model | [1] Wang 2022 | Table 2, p. 9, row 47 |  |
+| 889.15 | eutectoid: Co7Ta2 ↔ λ2 + fcc | Co7Ta2: Ta 0.222; λ2: Ta 0.296; fcc: Ta 9.000e-4 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 46 |  |
 | 696 | fcc=hcp+Co7Ta2 | fcc: Ta 0.01208; hcp: Ta 0.01209; Co7Ta2: Ta 0.222 | model | [2] Liu 1999 | Table 4, p. 8, row 26 |  |
 
 ## Formation enthalpies
@@ -295,10 +295,10 @@ Table: Phase transition, Co–Ta system
 | Phase transition | 1584.95 K | 1584.95 | eutectic: L ⇒ γ(Co) + λ3; _alloy: Co 0.86, Ta 0.14_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 14 |  |
 | Phase transition | 1587.15 K | 1587.15 | eutectic: L ⇒ γ(Co) + λ3; _alloy: Co 0.84, Ta 0.16_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 15 |  |
 | Phase transition | 1587.15 K | 1587.15 | eutectic: L ⇒ γ(Co) + λ3; _alloy: Co 0.82, Ta 0.18_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 16 |  |
-| Phase transition | 1701.65 K | 1701.65 | solidus: Co–3.5Ta; _alloy: Co 0.965, Ta 0.035_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 5 |  |
+| Phase transition | 1701.65 K | 1701.65 | other: Co–3.5Ta; _alloy: Co 0.965, Ta 0.035_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 5 |  |
 | Phase transition | 1720.35 K | 1720.35 | peritectic: L + λ2(C15) ⇒ λ3(C36); _alloy: Co 0.76, Ta 0.24_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 20 |  |
 | Phase transition | 1722.05 K | 1722.05 | peritectic: L + λ2(C15) ⇒ λ3(C36); _alloy: Co 0.79, Ta 0.21_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 18 |  |
-| Phase transition | 1735.65 K | 1735.65 | solidus: Co–2Ta; _alloy: Ta 0_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 2 |  |
+| Phase transition | 1735.65 K | 1735.65 | other: Co–2Ta; _alloy: Ta 0_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 2 |  |
 | Phase transition | 1888 K | 1888 | liquid=C15; _liquid: Ta 0.328; C15: Ta 0.328_ | model | [2] Liu 1999 | Table 4, p. 8, row 9 |  |
 | Phase transition | 1893 K | 1893 | liquid=C15; _liquid: Ta 0.33; C15: Ta 0.33_ | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 8 |  |
 | Phase transition | 1923 K | 1923 | liquid=μ; _liquid: Ta 0.5; μ: Ta 0.5_ | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 3 |  |
@@ -330,12 +330,12 @@ Table: Phase equilibrium, Co–Ta system
 | Phase composition |  | 1573.15 | μ + CoTa2; _μ: Co 0.466, Ta 0.534; CoTa2: Co 0.356, Ta 0.644_ | experimental | [3] Shinagawa 2014 | Table 3, p. 6, row 15 |  |
 | Phase composition |  | 1623.15 | λ1 + μ; _λ1: Co 0.633, Ta 0.367; μ: Co 0.58, Ta 0.42_ | experimental | [3] Shinagawa 2014 | Table 3, p. 6, row 13 |  |
 | Phase composition |  | 1623.15 | λ2 (C15) + λ1 (C14); _λ2 (C15): Co 0.66, Ta 0.34; λ1 (C14): Co 0.641, Ta 0.359_ | experimental | [3] Shinagawa 2014 | Table 3, p. 6, row 6 |  |
-| Phase composition |  | 1637.75 | liquidus: Co–12Ta; _liquid: Co 0.88, Ta 0.12_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 12 |  |
+| Phase composition |  | 1637.75 | other: Co–12Ta; _liquid: Co 0.88, Ta 0.12_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 12 |  |
 | Phase composition |  | 1673.15 | λ1 + μ; _λ1: Co 0.632, Ta 0.368; μ: Co 0.538, Ta 0.462_ | experimental | [3] Shinagawa 2014 | Table 3, p. 6, row 14 |  |
 | Phase composition |  | 1673.15 | λ2 + λ1; _λ2: Co 0.664, Ta 0.336; λ1: Co 0.644, Ta 0.356_ | experimental | [3] Shinagawa 2014 | Table 3, p. 6, row 7 |  |
-| Phase composition |  | 1702.45 | liquidus: Co–8.5Ta; _liquid: Co 0.915, Ta 0.085_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 8 |  |
-| Phase composition |  | 1736.85 | liquidus: Co–3.5Ta; _liquid: Co 0.965, Ta 0.035_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 4 |  |
-| Phase composition |  | 1754.25 | liquidus: Co–2Ta; _liquid: Ta 0_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 1 |  |
+| Phase composition |  | 1702.45 | other: Co–8.5Ta; _liquid: Co 0.915, Ta 0.085_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 8 |  |
+| Phase composition |  | 1736.85 | other: Co–3.5Ta; _liquid: Co 0.965, Ta 0.035_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 4 |  |
+| Phase composition |  | 1754.25 | other: Co–2Ta; _liquid: Ta 0_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 1 |  |
 
 ## Sources
 

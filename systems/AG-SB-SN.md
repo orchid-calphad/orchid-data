@@ -42,8 +42,8 @@ Table: Phase transition, Ag–Sb–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 502.8 K | 502.8 | liquidus | model | [1] Oh 1996 | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
-| Phase transition | 503 K | 503 | liquidus | experimental | [1] Oh 1996; _cites Loomans 1994_ [doi](https://doi.org/10.1007/bf02651368) | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
+| Phase transition | 502.8 K | 502.8 | other | model | [1] Oh 1996 | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
+| Phase transition | 503 K | 503 | other | experimental | [1] Oh 1996; _cites Loomans 1994_ [doi](https://doi.org/10.1007/bf02651368) | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
 
 ## Sources
 

@@ -1,16 +1,16 @@
 # NiTi: enthalpy of formation
 
-> Enthalpy of formation of NiTi: 63 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NiTi: 62 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiTi.html · Markdown: https://data.orchid-project.org/compounds/NiTi.md
 
-63 accepted literature formation-enthalpy value(s) (experimental 10, model 34, DFT 19); experimental median -33.9 kJ/mol-atom (n = 5); Materials Project -38.194 kJ/mol-atom (mp-aaaaaboi); OQMD -40.882 kJ/mol-atom (oqmd-2036103).
+62 accepted literature formation-enthalpy value(s) (experimental 10, model 34, DFT 18); experimental median -33.9 kJ/mol-atom (n = 5); Materials Project -38.194 kJ/mol-atom (mp-aaaaaboi); OQMD -40.882 kJ/mol-atom (oqmd-2036103).
 
 Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) · [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiTi reported in the literature (63)
+Table: Enthalpy of formation of NiTi reported in the literature (62)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -68,7 +68,6 @@ Table: Enthalpy of formation of NiTi reported in the literature (63)
 | -2895 unknown | TiNi B19 | 0 | DFT | USPP-GGA | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Huang 2003_ [doi](https://doi.org/10.1038/nmat884) | Table 4, p. 5, row 13 |  |
 | -36.665 kJ/mol-atom | TiNi-B2 | 0 | DFT | 1st-princ. (EMTO/GGA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Lu 2007_ [doi](https://doi.org/10.1103/physrevb.75.094108) | Table 6, p. 8, row 31 |  |
 | -36.1 kJ/mol-atom | NiTi | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 5, p. 4, row 12 |  |
-| -34.59 kJ/mol-atom | NiTi(B2) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [4] Tokunaga 2004 | Table 2, p. 3, row 2 |  |
 | -34.59 kJ/mol-atom | NiTi(B2) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [4] Tokunaga 2004 | Table 2, p. 3, row 2 |  |
 | -33.77 kJ/mol-atom | TiNi-B2 | 0 | DFT | 1st-princ. (PW/LDA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Huang 2002_ | Table 6, p. 8, row 32 |  |
 | -33.24 kJ/mol-atom | NiTi(B2) | 0 | DFT | First-principles | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014 | Table 1, p. 5, row 6 |  |

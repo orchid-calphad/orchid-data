@@ -29,13 +29,13 @@ Table: Invariant reactions reported in the literature for the Ni–Sb–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 759.35 | P: P1: L+NiSb2+ζ->T | L: Ni 0.028, Sb 0.504, Sn 0.468; NiSb2: Ni 0.333, Sb 0.624, Sn 0.043; ζ: Ni 0.475, Sb 0.497, Sn 0.028; T: Ni 0.245, Sb 0.542, Sn 0.213 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 7 |  |
-| 743.05 | U: U6: L+NiSb2->(Sb)+T | L: Ni 0.017, Sb 0.572, Sn 0.411; NiSb2: Ni 0.333, Sb 0.637, Sn 0.03; (Sb): Sb 0.886, Sn 0.114; T: Ni 0.245, Sb 0.56, Sn 0.195 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 6 |  |
-| 697.65 | U: U5: L+(Sb)->T+SbSn | L: Ni 0.01, Sb 0.5, Sn 0.49; (Sb): Sb 0.845, Sn 0.155; T: Ni 0.245, Sb 0.539, Sn 0.216; SbSn: Ni 0.007, Sb 0.606, Sn 0.387 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 5 |  |
-| 629.25 | U: U4: L+ζ->T+Ni3Sn4 | L: Ni 0.012, Sb 0.118, Sn 0.87; ζ: Ni 0.497, Sb 0.312, Sn 0.191; T: Ni 0.245, Sb 0.44, Sn 0.315; Ni3Sn4: Ni 0.402, Sb 0.11, Sn 0.488 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 4 |  |
-| 520.45 | U: U3: L+T->SbSn+Ni3Sn4 | L: Ni 0.001, Sb 0.03, Sn 0.969; T: Ni 0.245, Sb 0.423, Sn 0.332; SbSn: Ni 0.105, Sb 0.394, Sn 0.501; Ni3Sn4: Ni 0.401, Sb 0.099, Sn 0.5 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 3 |  |
-| 518.85 | U: U2: L+Sb2Sn3->(Sn)+SbSn | L: Ni 0, Sb 0.089, Sn 0.911; Sb2Sn3: Ni 0.002, Sb 0.398, Sn 0.6; Sn: Ni 0, Sb 0.107, Sn 0.893; SbSn: Ni 0.006, Sb 0.461, Sn 0.533 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 2 |  |
-| 509.25 | U: U1: L+SbSn->(Sn)+Ni3Sn4 | L: Ni 0.001, Sb 0.024, Sn 0.975; SbSn: Ni 0.106, Sb 0.393, Sn 0.501; (Sn): Ni 0, Sb 0.035, Sn 0.965; Ni3Sn4: Ni 0.401, Sb 0.098, Sn 0.501 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 1 |  |
+| 759.35 | peritectic: P1: L+NiSb2+ζ->T | L: Ni 0.028, Sb 0.504, Sn 0.468; NiSb2: Ni 0.333, Sb 0.624, Sn 0.043; ζ: Ni 0.475, Sb 0.497, Sn 0.028; T: Ni 0.245, Sb 0.542, Sn 0.213 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 7 |  |
+| 743.05 | quasi-peritectic: U6: L+NiSb2->(Sb)+T | L: Ni 0.017, Sb 0.572, Sn 0.411; NiSb2: Ni 0.333, Sb 0.637, Sn 0.03; (Sb): Sb 0.886, Sn 0.114; T: Ni 0.245, Sb 0.56, Sn 0.195 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 6 |  |
+| 697.65 | quasi-peritectic: U5: L+(Sb)->T+SbSn | L: Ni 0.01, Sb 0.5, Sn 0.49; (Sb): Sb 0.845, Sn 0.155; T: Ni 0.245, Sb 0.539, Sn 0.216; SbSn: Ni 0.007, Sb 0.606, Sn 0.387 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 5 |  |
+| 629.25 | quasi-peritectic: U4: L+ζ->T+Ni3Sn4 | L: Ni 0.012, Sb 0.118, Sn 0.87; ζ: Ni 0.497, Sb 0.312, Sn 0.191; T: Ni 0.245, Sb 0.44, Sn 0.315; Ni3Sn4: Ni 0.402, Sb 0.11, Sn 0.488 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 4 |  |
+| 520.45 | quasi-peritectic: U3: L+T->SbSn+Ni3Sn4 | L: Ni 0.001, Sb 0.03, Sn 0.969; T: Ni 0.245, Sb 0.423, Sn 0.332; SbSn: Ni 0.105, Sb 0.394, Sn 0.501; Ni3Sn4: Ni 0.401, Sb 0.099, Sn 0.5 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 3 |  |
+| 518.85 | quasi-peritectic: U2: L+Sb2Sn3->(Sn)+SbSn | L: Ni 0, Sb 0.089, Sn 0.911; Sb2Sn3: Ni 0.002, Sb 0.398, Sn 0.6; Sn: Ni 0, Sb 0.107, Sn 0.893; SbSn: Ni 0.006, Sb 0.461, Sn 0.533 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 2 |  |
+| 509.25 | quasi-peritectic: U1: L+SbSn->(Sn)+Ni3Sn4 | L: Ni 0.001, Sb 0.024, Sn 0.975; SbSn: Ni 0.106, Sb 0.393, Sn 0.501; (Sn): Ni 0, Sb 0.035, Sn 0.965; Ni3Sn4: Ni 0.401, Sb 0.098, Sn 0.501 | unspecified | [1] Kroupa 2014 | Table 4, p. 11, row 1 |  |
 
 ## Other properties
 
@@ -45,23 +45,23 @@ Table: Phase transition, Ni–Sb–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1020.15 K | 1020.15 | liquidus: Section Ni3Sn2–Sb, 85.0 at% Sb; _alloy: Sb 0.85_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 13 |  |
-| Phase transition | 1046.15 K | 1046.15 | liquidus: Section Ni3Sn4–Sb, 79.4 at% Sb; _alloy: Sb 0.794_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 19 |  |
-| Phase transition | 1073.15 K | 1073.15 | liquidus: Section Ni3Sn4–Sb, 72.4 at% Sb; _alloy: Sb 0.724_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 18 |  |
-| Phase transition | 1126.15 K | 1126.15 | liquidus: Section Ni3Sn–Sb, 90.0 at% Sb; _alloy: Sb 0.9_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 7 |  |
-| Phase transition | 1127.15 K | 1127.15 | liquidus: Section Ni3Sn4–Sb, 64.2 at% Sb; _alloy: Sb 0.642_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 17 |  |
-| Phase transition | 1132.15 K | 1132.15 | liquidus: Section Ni3Sn–Sb, 82.0 at% Sb; _alloy: Sb 0.82_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 6 |  |
-| Phase transition | 1167.15 K | 1167.15 | liquidus: Section Ni3Sn2–Sb, 73.0 at% Sb; _alloy: Sb 0.73_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 12 |  |
-| Phase transition | 1173.15 K | 1173.15 | liquidus: Section Ni3Sn4–Sb, 56.0 at% Sb; _alloy: Sb 0.56_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 16 |  |
-| Phase transition | 1173.15 K | 1173.15 | liquidus: Section Ni3Sn–Sb, 77.8 at% Sb; _alloy: Sb 0.778_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 5 |  |
-| Phase transition | 1202.15 K | 1202.15 | liquidus: Section Ni3Sn–Sb, 72.8 at% Sb; _alloy: Sb 0.728_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 4 |  |
-| Phase transition | 1212.15 K | 1212.15 | liquidus: Section Ni3Sn4–Sb, 48.0 at% Sb; _alloy: Sb 0.48_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 15 |  |
-| Phase transition | 1242.15 K | 1242.15 | liquidus: Section Ni3Sn4–Sb, 40.0 at% Sb; _alloy: Sb 0.4_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 14 |  |
-| Phase transition | 1243.15 K | 1243.15 | liquidus: Section Ni3Sn–Sb, 69.0 at% Sb; _alloy: Sb 0.69_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 3 |  |
-| Phase transition | 1244.15 K | 1244.15 | liquidus: Section Ni3Sn–Sb, 60.0 at% Sb; _alloy: Sb 0.6_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 2 |  |
-| Phase transition | 1280.15 K | 1280.15 | liquidus: Section Ni3Sn2–Sb, 53.0 at% Sb; _alloy: Sb 0.53_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 9 |  |
-| Phase transition | 1299.15 K | 1299.15 | liquidus: Section Ni3Sn–Sb, 43.0 at% Sb; _alloy: Sb 0.43_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 1 |  |
-| Phase transition | 1361.15 K | 1361.15 | liquidus: Section Ni3Sn2–Sb, 35.0 at% Sb; _alloy: Sb 0.35_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 8 |  |
+| Phase transition | 1020.15 K | 1020.15 | other: Section Ni3Sn2–Sb, 85.0 at% Sb; _alloy: Sb 0.85_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 13 |  |
+| Phase transition | 1046.15 K | 1046.15 | other: Section Ni3Sn4–Sb, 79.4 at% Sb; _alloy: Sb 0.794_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 19 |  |
+| Phase transition | 1073.15 K | 1073.15 | other: Section Ni3Sn4–Sb, 72.4 at% Sb; _alloy: Sb 0.724_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 18 |  |
+| Phase transition | 1126.15 K | 1126.15 | other: Section Ni3Sn–Sb, 90.0 at% Sb; _alloy: Sb 0.9_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 7 |  |
+| Phase transition | 1127.15 K | 1127.15 | other: Section Ni3Sn4–Sb, 64.2 at% Sb; _alloy: Sb 0.642_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 17 |  |
+| Phase transition | 1132.15 K | 1132.15 | other: Section Ni3Sn–Sb, 82.0 at% Sb; _alloy: Sb 0.82_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 6 |  |
+| Phase transition | 1167.15 K | 1167.15 | other: Section Ni3Sn2–Sb, 73.0 at% Sb; _alloy: Sb 0.73_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 12 |  |
+| Phase transition | 1173.15 K | 1173.15 | other: Section Ni3Sn4–Sb, 56.0 at% Sb; _alloy: Sb 0.56_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 16 |  |
+| Phase transition | 1173.15 K | 1173.15 | other: Section Ni3Sn–Sb, 77.8 at% Sb; _alloy: Sb 0.778_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 5 |  |
+| Phase transition | 1202.15 K | 1202.15 | other: Section Ni3Sn–Sb, 72.8 at% Sb; _alloy: Sb 0.728_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 4 |  |
+| Phase transition | 1212.15 K | 1212.15 | other: Section Ni3Sn4–Sb, 48.0 at% Sb; _alloy: Sb 0.48_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 15 |  |
+| Phase transition | 1242.15 K | 1242.15 | other: Section Ni3Sn4–Sb, 40.0 at% Sb; _alloy: Sb 0.4_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 14 |  |
+| Phase transition | 1243.15 K | 1243.15 | other: Section Ni3Sn–Sb, 69.0 at% Sb; _alloy: Sb 0.69_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 3 |  |
+| Phase transition | 1244.15 K | 1244.15 | other: Section Ni3Sn–Sb, 60.0 at% Sb; _alloy: Sb 0.6_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 2 |  |
+| Phase transition | 1280.15 K | 1280.15 | other: Section Ni3Sn2–Sb, 53.0 at% Sb; _alloy: Sb 0.53_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 9 |  |
+| Phase transition | 1299.15 K | 1299.15 | other: Section Ni3Sn–Sb, 43.0 at% Sb; _alloy: Sb 0.43_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 1 |  |
+| Phase transition | 1361.15 K | 1361.15 | other: Section Ni3Sn2–Sb, 35.0 at% Sb; _alloy: Sb 0.35_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 8 |  |
 
 ### Phase equilibrium (98)
 

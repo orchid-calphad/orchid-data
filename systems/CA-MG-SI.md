@@ -1,10 +1,10 @@
 # Ca–Mg–Si system
 
-> Ca–Mg–Si system: 123 accepted literature values (phase transition 68, invariant reaction 22, phase equilibrium 18, crystal structure 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg–Si system: 121 accepted literature values (phase transition 66, invariant reaction 22, phase equilibrium 18, crystal structure 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG-SI.html · Markdown: https://data.orchid-project.org/systems/CA-MG-SI.md
 
-123 accepted literature values from 1 paper(s) (experimental 98, model 25); 0 calculated phase diagram(s).
+121 accepted literature values from 1 paper(s) (experimental 96, model 25); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SI) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 98 |
+| experimental | 96 |
 | model | 25 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 22 |
-| phase transition | 68 |
+| phase transition | 66 |
 | phase equilibrium | 18 |
 | crystal structure | 14 |
 | other property | 1 |
@@ -31,32 +31,32 @@ Table: Invariant reactions reported in the literature for the Ca–Mg–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1500.15 | max: Liquid = CaSi + CaMgSi | L: Ca 0.4178, Mg 0.1848 | model | [1] Gröbner 2003 | Table 6, p. 8, row 1 |  |
-| 1477.15 | max: Liquid -> Ca2Si + CaMgSi | L: Ca 0.5222, Mg 0.1412 | model | [1] Gröbner 2003 | Table 6, p. 8, row 2 |  |
-| 1476.95 | U: Liquid + CaSi -> CaMgSi + Ca5Si3 | L: Ca 0.5248, Mg 0.1148 | model | [1] Gröbner 2003 | Table 6, p. 8, row 3 |  |
-| 1476.85 | E: Liquid -> Ca2Si + CaMgSi + Ca5Si3 | L: Ca 0.5259, Mg 0.121 | model | [1] Gröbner 2003 | Table 6, p. 8, row 4 |  |
-| 1423.45 | max: Liquid -> CaSi + Ca7Mg6Si14 | L: Ca 0.2539, Mg 0.2301 | model | [1] Gröbner 2003 | Table 6, p. 8, row 5 |  |
-| 1423.15 | U: Liquid + CaSi -> CaMgSi + Ca7Mg6Si14 | L: Ca 0.2459, Mg 0.2522 | model | [1] Gröbner 2003 | Table 6, p. 8, row 7 |  |
-| 1423.15 | U: Liquid + CaSi -> CaMgSi + Ca7Mg6Si14 |  | experimental | [1] Gröbner 2003 | Table 6, p. 8, row 6 |  |
-| 1349.15 | U: Liquid + CaSi -> Ca14Si19 + Ca7Mg6Si14 | L: Ca 0.2821, Mg 0.0297 | model | [1] Gröbner 2003 | Table 6, p. 8, row 8 |  |
-| 1330.15 | max: Liquid -> Ca7Mg6Si14 + Mg2Si | L: Ca 0.0401, Mg 0.5926 | model | [1] Gröbner 2003 | Table 6, p. 8, row 9 |  |
-| 1328.15 | max: Liquid -> Ca7Mg6Si14 + (Si) | L: Ca 0.155, Mg 0.1318 | model | [1] Gröbner 2003 | Table 6, p. 8, row 10 |  |
-| 1327.15 | U: Liquid + Ca7Mg6Si14 -> CaMgSi + Mg2Si | L: Ca 0.0441, Mg 0.6289 | model | [1] Gröbner 2003 | Table 6, p. 8, row 11 |  |
-| 1298.15 | U: Liquid + Ca14Si19 -> CaSi2 + Ca7Mg6Si14 | L: Ca 0.2458, Mg 0.0179 | model | [1] Gröbner 2003 | Table 6, p. 8, row 12 |  |
-| 1293.15 | E: Liquid -> CaSi2 + Ca7Mg6Si14 + (Si) | L: Ca 0.2384, Mg 0.0184 | model | [1] Gröbner 2003 | Table 6, p. 8, row 13 |  |
-| 1221.15 | E: Liquid -> Mg2Si + Ca7Mg6Si14 + (Si) |  | experimental | [1] Gröbner 2003 | Table 6, p. 8, row 14 |  |
-| 1216.15 | E: Liquid -> Mg2Si + Ca7Mg6Si14 + (Si) | L: Ca 0.0073, Mg 0.449 | model | [1] Gröbner 2003 | Table 6, p. 8, row 15 |  |
-| 983.15 | max: Liquid -> CaMgSi + CaMg2 | L: Ca 0.3313, Mg 0.6683 | model | [1] Gröbner 2003 | Table 6, p. 8, row 16 |  |
-| 982.15 | U: Liquid + CaMgSi -> Ca2Si + CaMg2 |  | experimental | [1] Gröbner 2003 | Table 6, p. 8, row 17 |  |
-| 982.15 | U: Liquid + CaMgSi -> Ca2Si + CaMg2 | L: Ca 0.3482, Mg 0.6514 | model | [1] Gröbner 2003 | Table 6, p. 8, row 18 |  |
-| 918.15 | max: Liquid -> CaMgSi + (Mg) | L: Ca 0.0022, Mg 0.9944 | model | [1] Gröbner 2003 | Table 6, p. 8, row 19 |  |
-| 910.15 | E: Liquid -> CaMgSi + Mg2Si + (Mg) | L: Ca 4.000e-4, Mg 0.9851 | model | [1] Gröbner 2003 | Table 6, p. 8, row 20 |  |
-| 789.15 | U: Liquid + CaMgSi -> CaMg2 + (Mg) | L: Ca 0.1058, Mg 0.8942 | model | [1] Gröbner 2003 | Table 6, p. 8, row 21 |  |
-| 719.15 | U: Liquid + Ca2Si -> CaMg2 + β(Ca) | L: Ca 0.7078, Mg 0.2921 | model | [1] Gröbner 2003 | Table 6, p. 8, row 22 |  |
+| 1500.15 | other: Liquid = CaSi + CaMgSi | L: Ca 0.4178, Mg 0.1848 | model | [1] Gröbner 2003 | Table 6, p. 8, row 1 |  |
+| 1477.15 | other: Liquid -> Ca2Si + CaMgSi | L: Ca 0.5222, Mg 0.1412 | model | [1] Gröbner 2003 | Table 6, p. 8, row 2 |  |
+| 1476.95 | quasi-peritectic: Liquid + CaSi -> CaMgSi + Ca5Si3 | L: Ca 0.5248, Mg 0.1148 | model | [1] Gröbner 2003 | Table 6, p. 8, row 3 |  |
+| 1476.85 | eutectic: Liquid -> Ca2Si + CaMgSi + Ca5Si3 | L: Ca 0.5259, Mg 0.121 | model | [1] Gröbner 2003 | Table 6, p. 8, row 4 |  |
+| 1423.45 | other: Liquid -> CaSi + Ca7Mg6Si14 | L: Ca 0.2539, Mg 0.2301 | model | [1] Gröbner 2003 | Table 6, p. 8, row 5 |  |
+| 1423.15 | quasi-peritectic: Liquid + CaSi -> CaMgSi + Ca7Mg6Si14 | L: Ca 0.2459, Mg 0.2522 | model | [1] Gröbner 2003 | Table 6, p. 8, row 7 |  |
+| 1423.15 | quasi-peritectic: Liquid + CaSi -> CaMgSi + Ca7Mg6Si14 |  | experimental | [1] Gröbner 2003 | Table 6, p. 8, row 6 |  |
+| 1349.15 | quasi-peritectic: Liquid + CaSi -> Ca14Si19 + Ca7Mg6Si14 | L: Ca 0.2821, Mg 0.0297 | model | [1] Gröbner 2003 | Table 6, p. 8, row 8 |  |
+| 1330.15 | other: Liquid -> Ca7Mg6Si14 + Mg2Si | L: Ca 0.0401, Mg 0.5926 | model | [1] Gröbner 2003 | Table 6, p. 8, row 9 |  |
+| 1328.15 | other: Liquid -> Ca7Mg6Si14 + (Si) | L: Ca 0.155, Mg 0.1318 | model | [1] Gröbner 2003 | Table 6, p. 8, row 10 |  |
+| 1327.15 | quasi-peritectic: Liquid + Ca7Mg6Si14 -> CaMgSi + Mg2Si | L: Ca 0.0441, Mg 0.6289 | model | [1] Gröbner 2003 | Table 6, p. 8, row 11 |  |
+| 1298.15 | quasi-peritectic: Liquid + Ca14Si19 -> CaSi2 + Ca7Mg6Si14 | L: Ca 0.2458, Mg 0.0179 | model | [1] Gröbner 2003 | Table 6, p. 8, row 12 |  |
+| 1293.15 | eutectic: Liquid -> CaSi2 + Ca7Mg6Si14 + (Si) | L: Ca 0.2384, Mg 0.0184 | model | [1] Gröbner 2003 | Table 6, p. 8, row 13 |  |
+| 1221.15 | eutectic: Liquid -> Mg2Si + Ca7Mg6Si14 + (Si) |  | experimental | [1] Gröbner 2003 | Table 6, p. 8, row 14 |  |
+| 1216.15 | eutectic: Liquid -> Mg2Si + Ca7Mg6Si14 + (Si) | L: Ca 0.0073, Mg 0.449 | model | [1] Gröbner 2003 | Table 6, p. 8, row 15 |  |
+| 983.15 | other: Liquid -> CaMgSi + CaMg2 | L: Ca 0.3313, Mg 0.6683 | model | [1] Gröbner 2003 | Table 6, p. 8, row 16 |  |
+| 982.15 | quasi-peritectic: Liquid + CaMgSi -> Ca2Si + CaMg2 |  | experimental | [1] Gröbner 2003 | Table 6, p. 8, row 17 |  |
+| 982.15 | quasi-peritectic: Liquid + CaMgSi -> Ca2Si + CaMg2 | L: Ca 0.3482, Mg 0.6514 | model | [1] Gröbner 2003 | Table 6, p. 8, row 18 |  |
+| 918.15 | other: Liquid -> CaMgSi + (Mg) | L: Ca 0.0022, Mg 0.9944 | model | [1] Gröbner 2003 | Table 6, p. 8, row 19 |  |
+| 910.15 | eutectic: Liquid -> CaMgSi + Mg2Si + (Mg) | L: Ca 4.000e-4, Mg 0.9851 | model | [1] Gröbner 2003 | Table 6, p. 8, row 20 |  |
+| 789.15 | quasi-peritectic: Liquid + CaMgSi -> CaMg2 + (Mg) | L: Ca 0.1058, Mg 0.8942 | model | [1] Gröbner 2003 | Table 6, p. 8, row 21 |  |
+| 719.15 | quasi-peritectic: Liquid + Ca2Si -> CaMg2 + β(Ca) | L: Ca 0.7078, Mg 0.2921 | model | [1] Gröbner 2003 | Table 6, p. 8, row 22 |  |
 
 ## Other properties
 
-### Phase transition (68)
+### Phase transition (66)
 
 Table: Phase transition, Ca–Mg–Si system
 
@@ -70,7 +70,6 @@ Table: Phase transition, Ca–Mg–Si system
 | Phase transition | 961.65 K | 961.65 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 63 |  |
 | Phase transition | 975.95 K | 975.95 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 59 |  |
 | Phase transition | 982.15 K | 982.15 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 61 |  |
-| Phase transition | 982.15 K | 982.15 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 60 |  |
 | Phase transition | 987.95 K | 987.95 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 62 |  |
 | Phase transition | 1183.45 K | 1183.45 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 28 |  |
 | Phase transition | 1187.65 K | 1187.65 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 51 |  |
@@ -81,7 +80,6 @@ Table: Phase transition, Ca–Mg–Si system
 | Phase transition | 1199.65 K | 1199.65 | E3; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 49 |  |
 | Phase transition | 1200.15 K | 1200.15 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 29 |  |
 | Phase transition | 1200.25 K | 1200.25 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 30 |  |
-| Phase transition | 1200.25 K | 1200.25 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 27 |  |
 | Phase transition | 1204.65 K | 1204.65 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 53 |  |
 | Phase transition | 1206.75 K | 1206.75 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 50 |  |
 | Phase transition | 1208.25 K | 1208.25 | E3; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 48 |  |
@@ -162,20 +160,20 @@ Table: Crystal structure, Ca–Mg–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1270.8 not_printed ± 0.5 | 1423.15 ({'op': '\<', 'printed': '\< 1150', 'value_K': 1423.15}) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 5 |  |
-| Lattice a | 1271 pm | 1423.15 ({'op': '\<', 'printed': '\< 1150', 'value_K': 1423.15}) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
-| Lattice a | 748.1 not_printed | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
-| Lattice a | 748.1 not_printed ± 0.4 | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
-| Lattice a | 750.4 not_printed ± 0.5 | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
-| Lattice a | 748 pm | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
-| Lattice b | 445.2 not_printed ± 0.6 | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
-| Lattice b | 445.2 not_printed ± 0.4 | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
-| Lattice b | 440 pm | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
-| Lattice c | 438.8 not_printed ± 0.3 | 1423.15 ({'op': '\<', 'printed': '\< 1150', 'value_K': 1423.15}) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 5 |  |
-| Lattice c | 437 pm | 1423.15 ({'op': '\<', 'printed': '\< 1150', 'value_K': 1423.15}) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
-| Lattice c | 829.7 not_printed ± 0.8 | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
-| Lattice c | 837.1 not_printed ± 0.7 | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
-| Lattice c | 829 pm | 1507.15 ({'op': '\<', 'printed': '\< 1234', 'value_K': 1507.15}) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
+| Lattice a | 1270.8 not_printed ± 0.5 | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 5 |  |
+| Lattice a | 1271 pm | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
+| Lattice a | 748.1 not_printed | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
+| Lattice a | 748.1 not_printed ± 0.4 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
+| Lattice a | 750.4 not_printed ± 0.5 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
+| Lattice a | 748 pm | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
+| Lattice b | 445.2 not_printed ± 0.6 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
+| Lattice b | 445.2 not_printed ± 0.4 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
+| Lattice b | 440 pm | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
+| Lattice c | 438.8 not_printed ± 0.3 | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 5 |  |
+| Lattice c | 437 pm | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
+| Lattice c | 829.7 not_printed ± 0.8 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
+| Lattice c | 837.1 not_printed ± 0.7 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
+| Lattice c | 829 pm | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
 
 ### Other property (1)
 

@@ -30,34 +30,34 @@ Table: Invariant reactions reported in the literature for the Al–Nb–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2223 | U: L + δ -> β + σ | L: Al 0.3, Nb 0.51 | unspecified | [1] Witusiewicz 2009; _cites Pavlov 1992_ | Table 6, p. 11, row 3 |  |
-| 2203 | U: L + δ -> β + σ | L: Al 0.322, Nb 0.589; δ: Al 0.262, Nb 0.661; β: Al 0.237, Nb 0.705; σ: Al 0.3, Nb 0.635 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 7 |  |
-| 2102 | U: L + δ -> β + σ | L: Al 0.295, Nb 0.409; δ: Al 0.226, Nb 0.504; β: Al 0.217, Nb 0.561; σ: Al 0.281, Nb 0.516 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 6 |  |
-| 2073 | U: L + δ -> β + σ |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 4 |  |
-| 2073 | U: L + δ -> β + σ | L: Al 0.3, Nb 0.41 | unspecified | [1] Witusiewicz 2009; _cites Kaltenbach 1989_ | Table 6, p. 11, row 2 |  |
-| 2023 | P: L + β + γ -> σ | L: Al 0.49, Nb 0.2 | unspecified | [1] Witusiewicz 2009; _cites Pavlov 1992_ | Table 6, p. 11, row 9 |  |
-| 2012 | P: L + β + σ -> γ | L: Al 0.415, Nb 0.338; β: Al 0.378, Nb 0.374; σ: Al 0.36, Nb 0.438; γ: Al 0.396, Nb 0.355 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 14 |  |
-| 1945 | U: L + δ -> β + σ | L: Al 0.395, Nb 0.257; β: Al 0.325, Nb 0.309; σ: Al 0.327, Nb 0.428; γ: Al 0.375, Nb 0.26 | unspecified | [1] Witusiewicz 2009; _cites Perepezko 1990_ | Table 6, p. 11, row 1 |  |
-| 1945 | U: L + δ -> β + σ |  | model | [1] Witusiewicz 2009; _cites Kattner 1992_ [doi](https://doi.org/10.1016/0921-5093%2892%2990039-4) | Table 6, p. 11, row 5 |  |
-| 1945 | U: L + β -> γ + σ |  | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 13 |  |
-| 1941 | U: L + β -> γ + α | L: Al 0.39, Nb 0.163; β: Al 0.335, Nb 0.193; γ: Al 0.353, Nb 0.201; α: Al 0.36, Nb 0.144 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 31 |  |
-| 1871 | e: L -> γ + ε | L: Al 0.613, Nb 0.276; γ: Al 0.553, Nb 0.298; ε: Al 0.746, Nb 0.226 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 19 |  |
-| 1858 | e: L -> γ + ε | L: Al 0.602, Nb 0.282; γ: Al 0.555, Nb 0.299; ε: Al 0.728, Nb 0.239 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 20 |  |
-| 1856 | E: L -> γ + ε + σ | L: Al 0.577, Nb 0.385; γ: Al 0.53, Nb 0.409; ε: Al 0.745, Nb 0.246; σ: Al 0.403, Nb 0.558 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 27 |  |
-| 1831 | E: L -> γ + ε + σ | L: Al 0.564, Nb 0.387; γ: Al 0.529, Nb 0.385; ε: Al 0.733, Nb 0.252; σ: Al 0.4, Nb 0.515 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 28 |  |
-| 1791 | P: L + β + γ -> α | L: Al 0.519, Nb 0.104; β: Al 0.475, Nb 0.121; γ: Al 0.517, Nb 0.137; α: Al 0.494, Nb 0.115 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 33 |  |
-| 1773 | e: L -> γ + ε |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 17 |  |
-| 1743 | E: L -> γ + ε + σ | L: Al 0.59, Nb 0.22 | unspecified | [1] Witusiewicz 2009; _cites Pavlov 1992_ | Table 6, p. 11, row 24 |  |
-| 1742 | U: L + ε -> γ + σ |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 25 |  |
-| 1742 | U: L + ε -> γ + σ | L: Al 0.52, Nb 0.39 | unspecified | [1] Witusiewicz 2009; _cites Perepezko 1990_ | Table 6, p. 11, row 22 |  |
-| 1739 | U: L + σ -> β + γ |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 11 |  |
-| 1736 | U: L + β -> γ + α |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 30 |  |
-| 1679 | U: L + γ -> ε + ζ | L: Al 0.705, Nb 0.012; γ: Al 0.648, Nb 0.017; ε: Al 0.736, Nb 0.025; ζ: Al 0.675, Nb 0.007 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 37 |  |
-| 1645 | U: L + γ -> ε + ζ | L: Al 0.71, Nb 0.003; γ: Al 0.628, Nb 0.014; ε: Al 0.749, Nb 0.029; ζ: Al 0.68, Nb 0 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 36 |  |
-| 1623 | U: L + β -> γ + σ | L: Al 0.45, Nb 0.24 | unspecified | [1] Witusiewicz 2009; _cites Kaltenbach 1989_ | Table 6, p. 11, row 10 |  |
-| 1573 | U: L + ζ -> γ + ε | L: Al 0.67, Nb 0.03 | unspecified | [1] Witusiewicz 2009; _cites Kaltenbach 1989_ | Table 6, p. 11, row 35 |  |
-| 1523 | E: L -> γ + ε + σ | L: Al 0.57, Nb 0.29 | unspecified | [1] Witusiewicz 2009; _cites Kaltenbach 1989_ | Table 6, p. 11, row 23 |  |
-| 938.7 | P: L + ε + ε(l) -> (αAl) | L: Al 0.999, Nb 0; ε: Al 0.765, Nb 0.006; ε(l): Al 0.757, Nb 0; (αAl): Al 0.992, Nb 3.000e-5 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 38 |  |
+| 2223 | quasi-peritectic: L + δ -> β + σ | L: Al 0.3, Nb 0.51 | unspecified | [1] Witusiewicz 2009; _cites Pavlov 1992_ | Table 6, p. 11, row 3 |  |
+| 2203 | quasi-peritectic: L + δ -> β + σ | L: Al 0.322, Nb 0.589; δ: Al 0.262, Nb 0.661; β: Al 0.237, Nb 0.705; σ: Al 0.3, Nb 0.635 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 7 |  |
+| 2102 | quasi-peritectic: L + δ -> β + σ | L: Al 0.295, Nb 0.409; δ: Al 0.226, Nb 0.504; β: Al 0.217, Nb 0.561; σ: Al 0.281, Nb 0.516 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 6 |  |
+| 2073 | quasi-peritectic: L + δ -> β + σ |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 4 |  |
+| 2073 | quasi-peritectic: L + δ -> β + σ | L: Al 0.3, Nb 0.41 | unspecified | [1] Witusiewicz 2009; _cites Kaltenbach 1989_ | Table 6, p. 11, row 2 |  |
+| 2023 | peritectic: L + β + γ -> σ | L: Al 0.49, Nb 0.2 | unspecified | [1] Witusiewicz 2009; _cites Pavlov 1992_ | Table 6, p. 11, row 9 |  |
+| 2012 | peritectic: L + β + σ -> γ | L: Al 0.415, Nb 0.338; β: Al 0.378, Nb 0.374; σ: Al 0.36, Nb 0.438; γ: Al 0.396, Nb 0.355 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 14 |  |
+| 1945 | quasi-peritectic: L + δ -> β + σ | L: Al 0.395, Nb 0.257; β: Al 0.325, Nb 0.309; σ: Al 0.327, Nb 0.428; γ: Al 0.375, Nb 0.26 | unspecified | [1] Witusiewicz 2009; _cites Perepezko 1990_ | Table 6, p. 11, row 1 |  |
+| 1945 | quasi-peritectic: L + δ -> β + σ |  | model | [1] Witusiewicz 2009; _cites Kattner 1992_ [doi](https://doi.org/10.1016/0921-5093%2892%2990039-4) | Table 6, p. 11, row 5 |  |
+| 1945 | quasi-peritectic: L + β -> γ + σ |  | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 13 |  |
+| 1941 | quasi-peritectic: L + β -> γ + α | L: Al 0.39, Nb 0.163; β: Al 0.335, Nb 0.193; γ: Al 0.353, Nb 0.201; α: Al 0.36, Nb 0.144 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 31 |  |
+| 1871 | eutectic: L -> γ + ε | L: Al 0.613, Nb 0.276; γ: Al 0.553, Nb 0.298; ε: Al 0.746, Nb 0.226 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 19 |  |
+| 1858 | eutectic: L -> γ + ε | L: Al 0.602, Nb 0.282; γ: Al 0.555, Nb 0.299; ε: Al 0.728, Nb 0.239 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 20 |  |
+| 1856 | eutectic: L -> γ + ε + σ | L: Al 0.577, Nb 0.385; γ: Al 0.53, Nb 0.409; ε: Al 0.745, Nb 0.246; σ: Al 0.403, Nb 0.558 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 27 |  |
+| 1831 | eutectic: L -> γ + ε + σ | L: Al 0.564, Nb 0.387; γ: Al 0.529, Nb 0.385; ε: Al 0.733, Nb 0.252; σ: Al 0.4, Nb 0.515 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 28 |  |
+| 1791 | peritectic: L + β + γ -> α | L: Al 0.519, Nb 0.104; β: Al 0.475, Nb 0.121; γ: Al 0.517, Nb 0.137; α: Al 0.494, Nb 0.115 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 33 |  |
+| 1773 | eutectic: L -> γ + ε |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 17 |  |
+| 1743 | eutectic: L -> γ + ε + σ | L: Al 0.59, Nb 0.22 | unspecified | [1] Witusiewicz 2009; _cites Pavlov 1992_ | Table 6, p. 11, row 24 |  |
+| 1742 | quasi-peritectic: L + ε -> γ + σ |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 25 |  |
+| 1742 | quasi-peritectic: L + ε -> γ + σ | L: Al 0.52, Nb 0.39 | unspecified | [1] Witusiewicz 2009; _cites Perepezko 1990_ | Table 6, p. 11, row 22 |  |
+| 1739 | quasi-peritectic: L + σ -> β + γ |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 11 |  |
+| 1736 | quasi-peritectic: L + β -> γ + α |  | unspecified | [1] Witusiewicz 2009; _cites Raghvan 2005_ [doi](https://doi.org/10.1361/154770305x56845) | Table 6, p. 11, row 30 |  |
+| 1679 | quasi-peritectic: L + γ -> ε + ζ | L: Al 0.705, Nb 0.012; γ: Al 0.648, Nb 0.017; ε: Al 0.736, Nb 0.025; ζ: Al 0.675, Nb 0.007 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 37 |  |
+| 1645 | quasi-peritectic: L + γ -> ε + ζ | L: Al 0.71, Nb 0.003; γ: Al 0.628, Nb 0.014; ε: Al 0.749, Nb 0.029; ζ: Al 0.68, Nb 0 | model | [1] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 6, p. 11, row 36 |  |
+| 1623 | quasi-peritectic: L + β -> γ + σ | L: Al 0.45, Nb 0.24 | unspecified | [1] Witusiewicz 2009; _cites Kaltenbach 1989_ | Table 6, p. 11, row 10 |  |
+| 1573 | quasi-peritectic: L + ζ -> γ + ε | L: Al 0.67, Nb 0.03 | unspecified | [1] Witusiewicz 2009; _cites Kaltenbach 1989_ | Table 6, p. 11, row 35 |  |
+| 1523 | eutectic: L -> γ + ε + σ | L: Al 0.57, Nb 0.29 | unspecified | [1] Witusiewicz 2009; _cites Kaltenbach 1989_ | Table 6, p. 11, row 23 |  |
+| 938.7 | peritectic: L + ε + ε(l) -> (αAl) | L: Al 0.999, Nb 0; ε: Al 0.765, Nb 0.006; ε(l): Al 0.757, Nb 0; (αAl): Al 0.992, Nb 3.000e-5 | model | [1] Witusiewicz 2009 | Table 6, p. 11, row 38 |  |
 
 ## Other properties
 

@@ -63,30 +63,30 @@ Table: Invariant reactions reported in the literature for the Au–Zn system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 957 | Eutectic: L -> (Au) + β' | L: Zn 0.34; β': Zn 0.5 | experimental | [1] Liu 2003; _cites Pemsler 1971_ [doi](https://doi.org/10.1007/bf02662640) | Table 4, p. 7, row 10 |  |
-| 956 | Eutectic: L -> (Au) + β' | L: Zn 0.36; (Au): Zn 0.335; β': Zn 0.395 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 9 |  |
-| 955 | Eutectic: L -> (Au) + β' | L: Zn 0.36; (Au): Zn 0.345; β': Zn 0.395 | model | [1] Liu 2003 | Table 4, p. 7, row 11 |  |
-| 946 | Eutectic: L + β' -> γ (L -> β' + γ) | L: Zn 0.625; β': Zn 0.572; γ: Zn 0.646 | model | [1] Liu 2003 | Table 4, p. 7, row 21 |  |
-| 932 | Eutectic: L + β' -> γ (L -> β' + γ) | L: Zn 0.615; β': Zn 0.5; γ: Zn 0.692308 | experimental | [1] Liu 2003; _cites Pemsler 1971_ [doi](https://doi.org/10.1007/bf02662640) | Table 4, p. 7, row 20 |  |
-| 927 | Eutectic: L + β' -> γ (L -> β' + γ) | L: Zn 0.63; β': Zn 0.57; γ: Zn 0.625 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 19 |  |
-| 858 | Peritectic: L + γ -> γ3 | L: Zn 0.845; γ: Zn 0.76; γ3: Zn 0.795 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 22 |  |
-| 855 | Peritectic: L + γ -> γ3 | L: Zn 0.821; γ: Zn 0.741; γ3: Zn 0.793 | model | [1] Liu 2003 | Table 4, p. 7, row 23 |  |
-| 794 | Peritectoid: γ + γ3 -> γ2 | γ: Zn 0.742; γ3: Zn 0.79; γ2: Zn 0.75 | model | [1] Liu 2003 | Table 4, p. 7, row 25 |  |
-| 793 | Peritectoid: γ + γ3 -> γ2 | γ: Zn 0.74; γ3: Zn 0.78; γ2: Zn 0.75 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 24 |  |
-| 763 | Peritectic: L + γ3 -> ϵ | L: Zn 0.917; γ3: Zn 0.833; ϵ: Zn 0.875 | model | [1] Liu 2003 | Table 4, p. 7, row 27 |  |
-| 763 | Peritectic: L + γ3 -> ϵ | L: Zn 0.92; γ3: Zn 0.835; ϵ: Zn 0.88 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 26 |  |
-| 718 | Peritectic: L + ϵ -> (Zn) | L: Zn 0.958; ϵ: Zn 0.898; (Zn): Zn 0.948 | model | [1] Liu 2003 | Table 4, p. 7, row 31 |  |
-| 711 | Peritectic: L + ϵ -> (Zn) | L: Zn 0.96; ϵ: Zn 0.89; (Zn): Zn 0.925 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 30 |  |
-| 676 | Eutectoid: (Au) -> α1 + β' | (Au): Zn 0.295; α1: Zn 0.27; β': Zn 0.38 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 7 |  |
-| 670 | Eutectoid: (Au) -> α1 + β' | (Au): Zn 0.292; α1: Zn 0.275; β': Zn 0.383 | model | [1] Liu 2003 | Table 4, p. 7, row 8 |  |
-| 578 | Peritectoid: α1 + β' -> Au5Zn3 | α1: Zn 0.291; β': Zn 0.415; Au5Zn3: Zn 0.375 | model | [1] Liu 2003 | Table 4, p. 7, row 13 |  |
-| 573 | Peritectoid: (Au) + α1 -> α3 | (Au): Zn 0.18; α1: Zn 0.215; α3: Zn 0.19 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 1 |  |
-| 573 | Peritectoid: α1 + β' -> Au5Zn3 | α1: Zn 0.29; β': Zn 0.405; Au5Zn3: Zn 0.375 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 12 |  |
-| 572 | Peritectoid: (Au) + α1 -> α3 | (Au): Zn 0.16; α1: Zn 0.22; α3: Zn 0.186 | model | [1] Liu 2003 | Table 4, p. 7, row 2 |  |
-| 458 | Peritectoid: ε + γ3 ε' | γ3: Zn 0.8; ε': Zn 0.85 | model | [1] Liu 2003 | Table 4, p. 7, row 29 |  |
-| 455 | Peritectoid: β' + γ -> δ | β': Zn 0.545; γ: Zn 0.641; δ: Zn 0.56 | model | [1] Liu 2003 | Table 4, p. 7, row 18 |  |
-| 453 | Peritectoid: β' + γ -> δ | β': Zn 0.525; γ: Zn 0.655; δ: Zn 0.56 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 17 |  |
-| 443 | Peritectoid: ε + γ3 ε' | γ3: Zn 0.825; ε': Zn 0.85 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 28 |  |
+| 957 | eutectic: L -> (Au) + β' | L: Zn 0.34; β': Zn 0.5 | experimental | [1] Liu 2003; _cites Pemsler 1971_ [doi](https://doi.org/10.1007/bf02662640) | Table 4, p. 7, row 10 |  |
+| 956 | eutectic: L -> (Au) + β' | L: Zn 0.36; (Au): Zn 0.335; β': Zn 0.395 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 9 |  |
+| 955 | eutectic: L -> (Au) + β' | L: Zn 0.36; (Au): Zn 0.345; β': Zn 0.395 | model | [1] Liu 2003 | Table 4, p. 7, row 11 |  |
+| 946 | eutectic: L + β' -> γ (L -> β' + γ) | L: Zn 0.625; β': Zn 0.572; γ: Zn 0.646 | model | [1] Liu 2003 | Table 4, p. 7, row 21 |  |
+| 932 | eutectic: L + β' -> γ (L -> β' + γ) | L: Zn 0.615; β': Zn 0.5; γ: Zn 0.692308 | experimental | [1] Liu 2003; _cites Pemsler 1971_ [doi](https://doi.org/10.1007/bf02662640) | Table 4, p. 7, row 20 |  |
+| 927 | eutectic: L + β' -> γ (L -> β' + γ) | L: Zn 0.63; β': Zn 0.57; γ: Zn 0.625 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 19 |  |
+| 858 | peritectic: L + γ -> γ3 | L: Zn 0.845; γ: Zn 0.76; γ3: Zn 0.795 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 22 |  |
+| 855 | peritectic: L + γ -> γ3 | L: Zn 0.821; γ: Zn 0.741; γ3: Zn 0.793 | model | [1] Liu 2003 | Table 4, p. 7, row 23 |  |
+| 794 | peritectoid: γ + γ3 -> γ2 | γ: Zn 0.742; γ3: Zn 0.79; γ2: Zn 0.75 | model | [1] Liu 2003 | Table 4, p. 7, row 25 |  |
+| 793 | peritectoid: γ + γ3 -> γ2 | γ: Zn 0.74; γ3: Zn 0.78; γ2: Zn 0.75 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 24 |  |
+| 763 | peritectic: L + γ3 -> ϵ | L: Zn 0.917; γ3: Zn 0.833; ϵ: Zn 0.875 | model | [1] Liu 2003 | Table 4, p. 7, row 27 |  |
+| 763 | peritectic: L + γ3 -> ϵ | L: Zn 0.92; γ3: Zn 0.835; ϵ: Zn 0.88 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 26 |  |
+| 718 | peritectic: L + ϵ -> (Zn) | L: Zn 0.958; ϵ: Zn 0.898; (Zn): Zn 0.948 | model | [1] Liu 2003 | Table 4, p. 7, row 31 |  |
+| 711 | peritectic: L + ϵ -> (Zn) | L: Zn 0.96; ϵ: Zn 0.89; (Zn): Zn 0.925 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 30 |  |
+| 676 | eutectoid: (Au) -> α1 + β' | (Au): Zn 0.295; α1: Zn 0.27; β': Zn 0.38 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 7 |  |
+| 670 | eutectoid: (Au) -> α1 + β' | (Au): Zn 0.292; α1: Zn 0.275; β': Zn 0.383 | model | [1] Liu 2003 | Table 4, p. 7, row 8 |  |
+| 578 | peritectoid: α1 + β' -> Au5Zn3 | α1: Zn 0.291; β': Zn 0.415; Au5Zn3: Zn 0.375 | model | [1] Liu 2003 | Table 4, p. 7, row 13 |  |
+| 573 | peritectoid: (Au) + α1 -> α3 | (Au): Zn 0.18; α1: Zn 0.215; α3: Zn 0.19 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 1 |  |
+| 573 | peritectoid: α1 + β' -> Au5Zn3 | α1: Zn 0.29; β': Zn 0.405; Au5Zn3: Zn 0.375 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 12 |  |
+| 572 | peritectoid: (Au) + α1 -> α3 | (Au): Zn 0.16; α1: Zn 0.22; α3: Zn 0.186 | model | [1] Liu 2003 | Table 4, p. 7, row 2 |  |
+| 458 | peritectoid: ε + γ3 ε' | γ3: Zn 0.8; ε': Zn 0.85 | model | [1] Liu 2003 | Table 4, p. 7, row 29 |  |
+| 455 | peritectoid: β' + γ -> δ | β': Zn 0.545; γ: Zn 0.641; δ: Zn 0.56 | model | [1] Liu 2003 | Table 4, p. 7, row 18 |  |
+| 453 | peritectoid: β' + γ -> δ | β': Zn 0.525; γ: Zn 0.655; δ: Zn 0.56 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 17 |  |
+| 443 | peritectoid: ε + γ3 ε' | γ3: Zn 0.825; ε': Zn 0.85 | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 28 |  |
 
 ## Formation enthalpies
 
@@ -123,14 +123,14 @@ Table: Phase transition, Au–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 540 K | 540 | Congruent: α1 -> α2; _α1: Zn 0.25; α2: Zn 0.25_ | model | [1] Liu 2003 | Table 4, p. 7, row 6 |  |
-| Phase transition | 543 K | 543 | Congruent: α1 -> α2; _α1: Zn 0.25; α2: Zn 0.25_ | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 5 |  |
-| Phase transition | 681 K | 681 | Congruent: (Au) -> α1; _(Au): Zn 0.256; α1: Zn 0.25_ | model | [1] Liu 2003 | Table 4, p. 7, row 4 |  |
-| Phase transition | 693 K | 693 | Congruent: (Au) -> α1; _(Au): Zn 0.25; α1: Zn 0.25_ | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 3 |  |
-| Phase transition | 954 K | 954 | Congruent: Lγ; _L: Zn 0.667; γ: Zn 0.692308_ | model | [1] Liu 2003 | Table 4, p. 7, row 32 |  |
-| Phase transition | 1008 K | 1008 | Congruent: L -> β'; _L: Zn 0.491; β': Zn 0.5_ | model | [1] Liu 2003 | Table 4, p. 7, row 16 |  |
-| Phase transition | 1024 K | 1024 | Congruent: L -> β'; _L: Zn 0.5; β': Zn 0.5_ | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 14 |  |
-| Phase transition | 1031 K | 1031 | Congruent: L -> β'; _L: Zn 0.485; β': Zn 0.5_ | experimental | [1] Liu 2003; _cites Pemsler 1971_ [doi](https://doi.org/10.1007/bf02662640) | Table 4, p. 7, row 15 |  |
+| Phase transition | 540 K | 540 | congruent transformation: α1 -> α2; _α1: Zn 0.25; α2: Zn 0.25_ | model | [1] Liu 2003 | Table 4, p. 7, row 6 |  |
+| Phase transition | 543 K | 543 | congruent transformation: α1 -> α2; _α1: Zn 0.25; α2: Zn 0.25_ | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 5 |  |
+| Phase transition | 681 K | 681 | congruent transformation: (Au) -> α1; _(Au): Zn 0.256; α1: Zn 0.25_ | model | [1] Liu 2003 | Table 4, p. 7, row 4 |  |
+| Phase transition | 693 K | 693 | congruent transformation: (Au) -> α1; _(Au): Zn 0.25; α1: Zn 0.25_ | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 3 |  |
+| Phase transition | 954 K | 954 | congruent melting: Lγ; _L: Zn 0.667; γ: Zn 0.692308_ | model | [1] Liu 2003 | Table 4, p. 7, row 32 |  |
+| Phase transition | 1008 K | 1008 | congruent melting: L -> β'; _L: Zn 0.491; β': Zn 0.5_ | model | [1] Liu 2003 | Table 4, p. 7, row 16 |  |
+| Phase transition | 1024 K | 1024 | congruent melting: L -> β'; _L: Zn 0.5; β': Zn 0.5_ | experimental | [1] Liu 2003; _cites Okamoto 1989_ [doi](https://doi.org/10.1007/bf02882177) | Table 4, p. 7, row 14 |  |
+| Phase transition | 1031 K | 1031 | congruent melting: L -> β'; _L: Zn 0.485; β': Zn 0.5_ | experimental | [1] Liu 2003; _cites Pemsler 1971_ [doi](https://doi.org/10.1007/bf02662640) | Table 4, p. 7, row 15 |  |
 
 ## Sources
 

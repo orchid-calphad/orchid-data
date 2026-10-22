@@ -1,21 +1,20 @@
 # Cr3C2: enthalpy of formation
 
-> Enthalpy of formation of Cr3C2: 21 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Cr3C2: 19 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cr3C2.html · Markdown: https://data.orchid-project.org/compounds/Cr3C2.md
 
-21 accepted literature formation-enthalpy value(s) (experimental 15, model 6).
+19 accepted literature formation-enthalpy value(s) (experimental 14, model 5).
 
 Systems: [C–Cr](https://data.orchid-project.org/systems/C-CR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cr3C2 reported in the literature (21)
+Table: Enthalpy of formation of Cr3C2 reported in the literature (19)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -85000 unknown | Cr3C2 | 298.15 | experimental |  | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [1] Lee 1992 | Table 2, p. 11, row 1 |  |
-| -85000 unknown | Cr3C2 | 298.15 | experimental |  | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [1] Lee 1992 | Table 2, p. 11, row 5 |  |
 | -114.4 kJ/mol (basis unstated) | Cr3C2 | 298.15 | experimental | CO equilibrium pressure (1965) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [2] Teng 2004; _cites Gleiser 1965_ [doi](https://doi.org/10.1021/j100889a519) | Table II, p. 4, row 2 |  |
 | -102.1 kJ/mol (basis unstated) | Cr3C2 | 298.15 | experimental | EMF, BaF2-BaC2 (1984) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [2] Teng 2004; _cites Coltters 1984_ [doi](https://doi.org/10.1007/bf02657382) | Table II, p. 4, row 6 |  |
 | -95.6 kJ/mol (basis unstated) | Cr3C2 | 298.15 | experimental | CO equilibrium pressure (1944) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [2] Teng 2004; _cites Kelley 2004_ | Table II, p. 4, row 1 |  |
@@ -30,7 +29,6 @@ Table: Enthalpy of formation of Cr3C2 reported in the literature (21)
 | -56.8 kJ/mol (basis unstated) | Cr3C2 | 298.15 | experimental | Knudsen effusion cells (1963) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [2] Teng 2004; _cites Vintaikin 1963_ | Table II, p. 4, row 5 |  |
 | -56.4 kJ/mol (basis unstated) | Cr3C2 | 298.15 | experimental | EMF, CaF2 (1969) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [2] Teng 2004; _cites Kleykamp 1969_ [doi](https://doi.org/10.1002/bbpc.19690730407) | Table II, p. 4, row 8 |  |
 | -71412 unknown | Cr3C2 | 298.15 | model |  | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [1] Lee 1992 | Table 2, p. 11, row 2 |  |
-| -71412 unknown | Cr3C2 | 298.15 | model |  | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [1] Lee 1992 | Table 2, p. 11, row 6 |  |
 | -87.8 kJ/mol (basis unstated) | Cr3C2 | 298.15 | model | estimation (1963) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [2] Teng 2004; _cites Wicks 1963_ | Table II, p. 4, row 15 |  |
 | -85.3 kJ/mol (basis unstated) | Cr3C2 | 298.15 | model | estimation (1993) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [2] Teng 2004; _cites Barin 1993_ | Table II, p. 4, row 17 |  |
 | -71.4 kJ/mol (basis unstated) | Cr3C2 | 298.15 | model | estimation (1987) | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [2] Teng 2004; _cites Andersson 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990045-9) | Table II, p. 4, row 16 |  |

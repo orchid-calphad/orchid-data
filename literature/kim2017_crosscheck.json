@@ -1,0 +1,32 @@
+{
+ "candidates_searched": [
+  "~/projects/open-tdb/build/kim2017/formation_enthalpy_expt.csv",
+  "~/projects/open-tdb/examples/thermo-extraction-benchmark/real-paper/formation_enthalpy_expt.csv",
+  "~/data/kim2017/formation_enthalpy_expt.csv",
+  "~/data/PD-extraction/datasets/kim2017/formation_enthalpy_expt.csv"
+ ],
+ "inputs": {
+  "literature": {
+   "path": "data/literature/orchid-literature.jsonl.gz",
+   "sha256": "a4b72c282ebf7ac96a79d7d2107be820e0fe4369a7351759f8706d1a93390599"
+  }
+ },
+ "orchid_candidates": {
+  "formulas": 603,
+  "records": 1498
+ },
+ "reference": {
+  "citation": "G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162.",
+  "dataset_doi": "10.6084/m9.figshare.7289723",
+  "dataset_file": "formation_enthalpy_expt.csv",
+  "dataset_sha256_expected": "694ba240c2b45da9a11b772cb2be30554941f9e04ee1a51f783416f4cd6fe240",
+  "doi": "10.1038/sdata.2017.162",
+  "license": "MIT (Figshare dataset)",
+  "n_values_reported": 1276
+ },
+ "result": null,
+ "schema": "orchid-kim2017-crosscheck-v1",
+ "search_note": "Searched on 2026-10-22 without a match: the CANDIDATES paths; every file named *formation_enthalpy* or *expt_formation* under $HOME (excluding ~/Library; only an unrelated HEACalculator pair-enthalpy table was found); every *.csv / *.csv.gz / *.json.gz under ~/projects and ~/data (depth 6) for the SHA-256 prefix 694ba240c2b45da9 of formation_enthalpy_expt.csv recorded in open-tdb's benchmark intake (examples/thermo-extraction-benchmark/real-paper/kim2018-figshare-formation-enthalpy-intake-v1.json); no matminer dataset cache. The intake names the source file but the bytes are not on this machine.",
+ "status": "reference_not_available_locally",
+ "unit": "kJ/mol-atom"
+}

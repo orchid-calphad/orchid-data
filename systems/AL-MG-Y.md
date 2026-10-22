@@ -26,37 +26,37 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1361.75 | saddle: Liquid ↔ Al2Y + τ |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 2 |  |
-| 1360.55 | e: Liquid ↔ AlY + Al2Y3 |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 10 |  |
-| 1242.25 | U: Liquid + Al2Y -> τ + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 8 |  |
-| 1240.45 | e: Liquid ↔ AlY2 + cph-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 9 |  |
-| 1181.85 | U: Liquid + AlY2 -> Al2Y3 + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 15 |  |
-| 1090.65 | E: Liquid -> Al2Y + ε + AlY |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 6 |  |
-| 1044.55 | U: Liquid + β-Y -> γMg-Y + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 14 |  |
-| 1003.85 | saddle: Liquid ↔ Al2Y3 + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 8 |  |
-| 1000.15 | E: Liquid -> Al2Y3 + γMg-Y + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 7 |  |
-| 966.95 | U: Liquid + Al3Y -> γMg-Y + Al2Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 10 |  |
-| 925.15 | U: Liquid + γMg-Y -> δ + Al2Y3 |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 13 |  |
-| 913.15 | e: Liquid ↔ Al-fcc + Al3Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 11 |  |
-| 898.15 | saddle: Liquid ↔ Al2Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 5 |  |
-| 887.05 | saddle: Liquid ↔ τ + fcc-Al |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 1 |  |
-| 885.95 | E: Liquid -> τ + Al3Y + fcc-Al |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 1 |  |
-| 848.45 | U: Liquid + Al2Y3 -> AlY + δ |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 12 |  |
-| 831.55 | e: Liquid ↔ cph-Mg + ε |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 15 |  |
-| 822.95 | saddle: Liquid ↔ ε + AlY |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 7 |  |
-| 822.85 | U: Liquid + δ -> ε + AlY |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 11 |  |
-| 820.75 | saddle: Liquid ↔ Al2Y + ε |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 6 |  |
-| 811.65 | E: Liquid -> Al2Y + cph-Mg + ε |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 5 |  |
-| 804.75 | P: Al2Y + τ -> Liquid + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 16 |  |
-| 723.15 | e: Liquid ↔ Al140Mg89 + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 13 |  |
-| 722.45 | e: Liquid ↔ fcc-Al + Al140Mg89 |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 12 |  |
-| 712.45 | saddle: Liquid ↔ τ + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 4 |  |
-| 707.75 | U: Liquid + τ -> γMg-Y + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 9 |  |
-| 705.15 | saddle: Liquid ↔ Al140Mg89 + τ |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 3 |  |
-| 704.55 | E: Liquid -> fcc-Al + Al140Mg89 + τ |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 2 |  |
-| 703.65 | E: Liquid -> Al140Mg89 + τ + γAl-Mg |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 3 |  |
-| 703.45 | e: Liquid ↔ γMg-Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 14 |  |
-| 692.75 | E: Liquid -> γMg-Y + Al2Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 4 |  |
+| 1361.75 | other: Liquid ↔ Al2Y + τ |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 2 |  |
+| 1360.55 | eutectic: Liquid ↔ AlY + Al2Y3 |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 10 |  |
+| 1242.25 | quasi-peritectic: Liquid + Al2Y -> τ + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 8 |  |
+| 1240.45 | eutectic: Liquid ↔ AlY2 + cph-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 9 |  |
+| 1181.85 | quasi-peritectic: Liquid + AlY2 -> Al2Y3 + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 15 |  |
+| 1090.65 | eutectic: Liquid -> Al2Y + ε + AlY |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 6 |  |
+| 1044.55 | quasi-peritectic: Liquid + β-Y -> γMg-Y + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 14 |  |
+| 1003.85 | other: Liquid ↔ Al2Y3 + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 8 |  |
+| 1000.15 | eutectic: Liquid -> Al2Y3 + γMg-Y + cph-Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 7 |  |
+| 966.95 | quasi-peritectic: Liquid + Al3Y -> γMg-Y + Al2Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 10 |  |
+| 925.15 | quasi-peritectic: Liquid + γMg-Y -> δ + Al2Y3 |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 13 |  |
+| 913.15 | eutectic: Liquid ↔ Al-fcc + Al3Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 11 |  |
+| 898.15 | other: Liquid ↔ Al2Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 5 |  |
+| 887.05 | other: Liquid ↔ τ + fcc-Al |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 1 |  |
+| 885.95 | eutectic: Liquid -> τ + Al3Y + fcc-Al |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 1 |  |
+| 848.45 | quasi-peritectic: Liquid + Al2Y3 -> AlY + δ |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 12 |  |
+| 831.55 | eutectic: Liquid ↔ cph-Mg + ε |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 15 |  |
+| 822.95 | other: Liquid ↔ ε + AlY |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 7 |  |
+| 822.85 | quasi-peritectic: Liquid + δ -> ε + AlY |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 11 |  |
+| 820.75 | other: Liquid ↔ Al2Y + ε |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 6 |  |
+| 811.65 | eutectic: Liquid -> Al2Y + cph-Mg + ε |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 5 |  |
+| 804.75 | peritectic: Al2Y + τ -> Liquid + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 16 |  |
+| 723.15 | eutectic: Liquid ↔ Al140Mg89 + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 13 |  |
+| 722.45 | eutectic: Liquid ↔ fcc-Al + Al140Mg89 |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 12 |  |
+| 712.45 | other: Liquid ↔ τ + γMg-Y |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 4 |  |
+| 707.75 | quasi-peritectic: Liquid + τ -> γMg-Y + Al3Y |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 9 |  |
+| 705.15 | other: Liquid ↔ Al140Mg89 + τ |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 3 |  |
+| 704.55 | eutectic: Liquid -> fcc-Al + Al140Mg89 + τ |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 2 |  |
+| 703.65 | eutectic: Liquid -> Al140Mg89 + τ + γAl-Mg |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 3 |  |
+| 703.45 | eutectic: Liquid ↔ γMg-Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 7, p. 11, row 14 |  |
+| 692.75 | eutectic: Liquid -> γMg-Y + Al2Y + cph-Mg |  | model | [1] Shakhshir 2006 | Table 6, p. 11, row 4 |  |
 
 ## Sources
 

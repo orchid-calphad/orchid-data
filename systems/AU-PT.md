@@ -42,7 +42,7 @@ Table: Phase transition, Au–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1473.15 K | 1473.15 (none) | other | model | [1] XU 2012 | p. 1 | “According to the presently assessed results, the miscibility gap region in the AuPt system slightly shifts to the Au-rich side, and the critical point of the miscibility gap is about 1200 °C and Au56% Pt.” |
+| Phase transition | 1473.15 K | 1473.15 | other | model | [1] XU 2012 | p. 1 | “According to the presently assessed results, the miscibility gap region in the AuPt system slightly shifts to the Au-rich side, and the critical point of the miscibility gap is about 1200 °C and Au56% Pt.” |
 | Phase transition | 1533 K | 1533 | other | experimental | [2] Hu 2022; _cites Zarkevich 2007_ [doi](https://doi.org/10.1103/physrevb.75.104203) | p. 2 | “Previous study found that the critical point of the miscibility gap in this system lies at 61 at.% Pt and at 1533 K, and that the shape of miscibility gap is highly asymmetric due to differences in enthalpies of formation in a solid state \[7\].” |
 
 ## Sources

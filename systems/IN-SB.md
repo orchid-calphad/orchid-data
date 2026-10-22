@@ -96,7 +96,7 @@ Table: Phase transition, In–Sb system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 609.15 K | 609.15 | other: f + L = InSb + g | model | [2] Cao 2013 | p. 14 | “In the vertical section Ni-InSb, the liquid phase is formed at 336C according to the calculated invariant reaction U6: f + L = InSb + g.” |
-| Phase transition | 798.15 K | 798.15 | congruent: InSb -> liquid | experimental | [1] Gierlotka 2019 | p. 3 | “The InSb is involved in reactions: the first invariant reaction is the congruent melting reaction of InSb, at 525 °C.” |
+| Phase transition | 798.15 K | 798.15 | congruent transformation: InSb -> liquid | experimental | [1] Gierlotka 2019 | p. 3 | “The InSb is involved in reactions: the first invariant reaction is the congruent melting reaction of InSb, at 525 °C.” |
 
 ## Sources
 

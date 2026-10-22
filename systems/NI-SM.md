@@ -102,54 +102,54 @@ Table: Invariant reactions reported in the literature for the Ni–Sm system (51
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1565 | Peritectic: Liq + SmNi5 -> Sm2Ni17 | L: Sm 0.081; SmNi5: Sm 0.166667; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 39 |  |
+| 1565 | peritectic: Liq + SmNi5 -> Sm2Ni17 | L: Sm 0.081; SmNi5: Sm 0.166667; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 39 |  |
 | 1565 | Liq.+Ni5Sm->Ni17Sm2 | L: Sm 0.081; Ni5Sm: Sm 0.166667; Ni17Sm2: Sm 0.105263 | model | [2] Su 1998 | Table 2, p. 3, row 19 |  |
-| 1563 | Peritectic: Liq + SmNi5 -> Sm2Ni17 | L: Sm 0.093; SmNi5: Sm 0.166667; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016 | Table 4, p. 4, row 37 |  |
-| 1561 | Peritectic: Liq + SmNi5 -> Sm2Ni17 | L: Sm 0.065; SmNi5: Sm 0.166667; Sm2Ni17: Sm 0.105263 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 38 |  |
+| 1563 | peritectic: Liq + SmNi5 -> Sm2Ni17 | L: Sm 0.093; SmNi5: Sm 0.166667; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016 | Table 4, p. 4, row 37 |  |
+| 1561 | peritectic: Liq + SmNi5 -> Sm2Ni17 | L: Sm 0.065; SmNi5: Sm 0.166667; Sm2Ni17: Sm 0.105263 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 38 |  |
 | 1561 | Liq.+Ni5Sm->Ni17Sm2 | L: Sm 0.065; Ni5Sm: Sm 0.166667; Ni17Sm2: Sm 0.105263 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 20 |  |
 | 1555 | Liq.+Ni5Sm->Ni19Sm5 | L: Sm 0.267; Ni5Sm: Sm 0.166667; Ni19Sm5: Sm 0.208333 | model | [2] Su 1998 | Table 2, p. 3, row 15 |  |
-| 1555 | Peritectic: Liq + SmNi5 -> Sm5Ni19 | L: Sm 0.261; SmNi5: Sm 0.166667; Sm5Ni19: Sm 0.208333 | model | [1] Rahou 2016 | Table 4, p. 4, row 31 |  |
+| 1555 | peritectic: Liq + SmNi5 -> Sm5Ni19 | L: Sm 0.261; SmNi5: Sm 0.166667; Sm5Ni19: Sm 0.208333 | model | [1] Rahou 2016 | Table 4, p. 4, row 31 |  |
 | 1555 | Liq.+Ni5Sm->Ni19Sm5 | L: Sm 0.283; Ni5Sm: Sm 0.166667; Ni19Sm5: Sm 0.208333 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 16 |  |
 | 1553 | eutectic: L→Ni 17 Sm 2 1a-Ni(fcc) |  | experimental | [2] Su 1998; _cites Pan 1983_ | p. 2 | “Three eutectic reactions occur: L→Ni 17 Sm 2 1a-Ni(fcc) (1553 K, 94 at% Ni), L→Ni 2 Sm1NiSm (1082 K, 53.5 at% Ni), L→NiSm1NiSm 3 (843 K, \|32at% Ni).” |
 | 1553 | Liq.->α-Ni(fcc)+Ni17Sm2 | L: Sm 0.06; α-Ni(fcc): Sm 0; Ni17Sm2: Sm 0.105263 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 22 |  |
-| 1553 | Eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.06; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 41 |  |
-| 1548 | Eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.071; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016 | Table 4, p. 4, row 40 |  |
-| 1547 | Eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.068; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 42 |  |
+| 1553 | eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.06; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 41 |  |
+| 1548 | eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.071; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016 | Table 4, p. 4, row 40 |  |
+| 1547 | eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.068; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 42 |  |
 | 1547 | Liq.->α-Ni(fcc)+Ni17Sm2 | L: Sm 0.068; α-Ni(fcc): Sm 0; Ni17Sm2: Sm 0.105263 | model | [2] Su 1998 | Table 2, p. 3, row 21 |  |
 | 1493 | Liq.+Ni19Sm5->Ni7Sm2 | L: Sm 0.313; Ni19Sm5: Sm 0.208333; Ni7Sm2: Sm 0.222222 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 14 |  |
 | 1493 | Liq.+Ni19Sm5->Ni7Sm2 | L: Sm 0.294; Ni19Sm5: Sm 0.208333; Ni7Sm2: Sm 0.222222 | model | [2] Su 1998 | Table 2, p. 3, row 13 |  |
-| 1493 | Peritectic: Liq + Sm5Ni19 -> Sm2Ni7 | L: Sm 0.285; Sm5Ni19: Sm 0.208333; Sm2Ni7: Sm 0.222222 | model | [1] Rahou 2016 | Table 4, p. 4, row 29 |  |
-| 1493 | Peritectic: Liq + Sm5Ni19 -> Sm2Ni7 | L: Sm 0.313; Sm5Ni19: Sm 0.208333; Sm2Ni7: Sm 0.222222 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 30 |  |
-| 1409 | Peritectic: Liq + Sm2Ni7 -> SmNi3 | L: Sm 0.309; Sm2Ni7: Sm 0.222222; SmNi3: Sm 0.25 | model | [1] Rahou 2016 | Table 4, p. 4, row 26 |  |
+| 1493 | peritectic: Liq + Sm5Ni19 -> Sm2Ni7 | L: Sm 0.285; Sm5Ni19: Sm 0.208333; Sm2Ni7: Sm 0.222222 | model | [1] Rahou 2016 | Table 4, p. 4, row 29 |  |
+| 1493 | peritectic: Liq + Sm5Ni19 -> Sm2Ni7 | L: Sm 0.313; Sm5Ni19: Sm 0.208333; Sm2Ni7: Sm 0.222222 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 30 |  |
+| 1409 | peritectic: Liq + Sm2Ni7 -> SmNi3 | L: Sm 0.309; Sm2Ni7: Sm 0.222222; SmNi3: Sm 0.25 | model | [1] Rahou 2016 | Table 4, p. 4, row 26 |  |
 | 1408 | Liq.+Ni7Sm2->Ni3Sm | L: Sm 0.333; Ni7Sm2: Sm 0.222222; Ni3Sm: Sm 0.25 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 12 |  |
 | 1408 | Liq.+Ni7Sm2->Ni3Sm | L: Sm 0.322; Ni7Sm2: Sm 0.222222; Ni3Sm: Sm 0.25 | model | [2] Su 1998 | Table 2, p. 3, row 11 |  |
 | 1304 | Liq.+Ni3Sm->Ni2Sm | L: Sm 0.404; Ni3Sm: Sm 0.25; Ni2Sm: Sm 0.333333 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 10 |  |
-| 1304 | Peritectic: Liq + SmNi3 -> SmNi2 | L: Sm 0.401; SmNi3: Sm 0.25; SmNi2: Sm 0.333333 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 24 |  |
-| 1301 | Peritectic: Liq + SmNi3 -> SmNi2 | L: Sm 0.354; SmNi3: Sm 0.25; SmNi2: Sm 0.333333 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 25 |  |
+| 1304 | peritectic: Liq + SmNi3 -> SmNi2 | L: Sm 0.401; SmNi3: Sm 0.25; SmNi2: Sm 0.333333 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 24 |  |
+| 1301 | peritectic: Liq + SmNi3 -> SmNi2 | L: Sm 0.354; SmNi3: Sm 0.25; SmNi2: Sm 0.333333 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 25 |  |
 | 1301 | Liq.+Ni3Sm->Ni2Sm | L: Sm 0.354; Ni3Sm: Sm 0.25; Ni2Sm: Sm 0.333333 | model | [2] Su 1998 | Table 2, p. 3, row 9 |  |
-| 1297 | Peritectic: Liq + SmNi3 -> SmNi2 | L: Sm 0.338; SmNi3: Sm 0.25; SmNi2: Sm 0.333333 | model | [1] Rahou 2016 | Table 4, p. 4, row 23 |  |
-| 1094 | Eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.407; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | model | [1] Rahou 2016 | Table 4, p. 4, row 20 |  |
-| 1089 | Eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.422; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 22 |  |
+| 1297 | peritectic: Liq + SmNi3 -> SmNi2 | L: Sm 0.338; SmNi3: Sm 0.25; SmNi2: Sm 0.333333 | model | [1] Rahou 2016 | Table 4, p. 4, row 23 |  |
+| 1094 | eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.407; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | model | [1] Rahou 2016 | Table 4, p. 4, row 20 |  |
+| 1089 | eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.422; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 22 |  |
 | 1089 | Liq.->NiSm+Ni2Sm | L: Sm 0.422; NiSm: Sm 0.5; Ni2Sm: Sm 0.333333 | model | [2] Su 1998 | Table 2, p. 3, row 7 |  |
-| 1082 | Eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.465; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 21 |  |
+| 1082 | eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.465; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 21 |  |
 | 1082 | eutectic: L→Ni 2 Sm1NiSm |  | experimental | [2] Su 1998; _cites Pan 1983_ | p. 2 | “Three eutectic reactions occur: L→Ni 17 Sm 2 1a-Ni(fcc) (1553 K, 94 at% Ni), L→Ni 2 Sm1NiSm (1082 K, 53.5 at% Ni), L→NiSm1NiSm 3 (843 K, \|32at% Ni).” |
 | 1082 | Liq.->NiSm+Ni2Sm | L: Sm 0.465; NiSm: Sm 0.5; Ni2Sm: Sm 0.333333 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 8 |  |
-| 948 | Eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.779; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | model | [1] Rahou 2016 | Table 4, p. 4, row 1 |  |
-| 948 | Eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.78; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 2 |  |
+| 948 | eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.779; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | model | [1] Rahou 2016 | Table 4, p. 4, row 1 |  |
+| 948 | eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.78; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 2 |  |
 | 937 | Liq.+α-Sm(rhom)->NiSm3 | L: Sm 0.74; α-Sm(rhom): Sm 1; NiSm3: Sm 0.75 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 2 |  |
-| 937 | Eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.74; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 3 |  |
+| 937 | eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.74; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 3 |  |
 | 936 | Liq.+α-Sm(rhom)->NiSm3 | L: Sm 0.736; α-Sm(rhom): Sm 1; NiSm3: Sm 0.75 | model | [2] Su 1998 | Table 2, p. 3, row 1 |  |
-| 936 | Eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.736; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 4 |  |
-| 927 | Peritectic: Liq + Sm3Ni -> Sm7Ni3 | L: Sm 0.69; Sm3Ni: Sm 0.75; Sm7Ni3: Sm 0.7 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 8 |  |
-| 925 | Peritectic: Liq + Sm3Ni -> Sm7Ni3 | L: Sm 0.68; Sm3Ni: Sm 0.75; Sm7Ni3: Sm 0.7 | model | [1] Rahou 2016 | Table 4, p. 4, row 7 |  |
-| 903 | Peritectic: Liq + SmNi -> Sm3Ni2 | L: Sm 0.643; SmNi: Sm 0.5; Sm3Ni2: Sm 0.6 | model | [1] Rahou 2016 | Table 4, p. 4, row 13 |  |
-| 902 | Peritectic: Liq + SmNi -> Sm3Ni2 | L: Sm 0.68; SmNi: Sm 0.5; Sm3Ni2: Sm 0.6 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 14 |  |
-| 900 | Eutectic: Liq -> Sm7Ni3 + Sm3Ni2 | L: Sm 0.647; Sm7Ni3: Sm 0.7; Sm3Ni2: Sm 0.6 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 12 |  |
-| 896 | Eutectic: Liq -> Sm7Ni3 + Sm3Ni2 | L: Sm 0.646; Sm7Ni3: Sm 0.7; Sm3Ni2: Sm 0.6 | model | [1] Rahou 2016 | Table 4, p. 4, row 11 |  |
-| 892 | Eutectoid: Sm7Ni3 -> Sm3Ni + Sm3Ni2 | Sm7Ni3: Sm 0.7; Sm3Ni: Sm 0.75; Sm3Ni2: Sm 0.6 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 10 |  |
-| 890 | Eutectoid: Sm7Ni3 -> Sm3Ni + Sm3Ni2 | Sm7Ni3: Sm 0.7; Sm3Ni: Sm 0.75; Sm3Ni2: Sm 0.6 | model | [1] Rahou 2016 | Table 4, p. 4, row 9 |  |
-| 873 | Eutectoid: Sm3Ni2 -> Sm3Ni + SmNi | Sm3Ni2: Sm 0.6; Sm3Ni: Sm 0.75; SmNi: Sm 0.5 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 16 |  |
-| 873 | Eutectoid: Sm3Ni2 -> Sm3Ni + SmNi | Sm3Ni2: Sm 0.6; Sm3Ni: Sm 0.75; SmNi: Sm 0.5 | model | [1] Rahou 2016 | Table 4, p. 4, row 15 |  |
+| 936 | eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.736; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 4 |  |
+| 927 | peritectic: Liq + Sm3Ni -> Sm7Ni3 | L: Sm 0.69; Sm3Ni: Sm 0.75; Sm7Ni3: Sm 0.7 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 8 |  |
+| 925 | peritectic: Liq + Sm3Ni -> Sm7Ni3 | L: Sm 0.68; Sm3Ni: Sm 0.75; Sm7Ni3: Sm 0.7 | model | [1] Rahou 2016 | Table 4, p. 4, row 7 |  |
+| 903 | peritectic: Liq + SmNi -> Sm3Ni2 | L: Sm 0.643; SmNi: Sm 0.5; Sm3Ni2: Sm 0.6 | model | [1] Rahou 2016 | Table 4, p. 4, row 13 |  |
+| 902 | peritectic: Liq + SmNi -> Sm3Ni2 | L: Sm 0.68; SmNi: Sm 0.5; Sm3Ni2: Sm 0.6 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 14 |  |
+| 900 | eutectic: Liq -> Sm7Ni3 + Sm3Ni2 | L: Sm 0.647; Sm7Ni3: Sm 0.7; Sm3Ni2: Sm 0.6 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 12 |  |
+| 896 | eutectic: Liq -> Sm7Ni3 + Sm3Ni2 | L: Sm 0.646; Sm7Ni3: Sm 0.7; Sm3Ni2: Sm 0.6 | model | [1] Rahou 2016 | Table 4, p. 4, row 11 |  |
+| 892 | eutectoid: Sm7Ni3 -> Sm3Ni + Sm3Ni2 | Sm7Ni3: Sm 0.7; Sm3Ni: Sm 0.75; Sm3Ni2: Sm 0.6 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 10 |  |
+| 890 | eutectoid: Sm7Ni3 -> Sm3Ni + Sm3Ni2 | Sm7Ni3: Sm 0.7; Sm3Ni: Sm 0.75; Sm3Ni2: Sm 0.6 | model | [1] Rahou 2016 | Table 4, p. 4, row 9 |  |
+| 873 | eutectoid: Sm3Ni2 -> Sm3Ni + SmNi | Sm3Ni2: Sm 0.6; Sm3Ni: Sm 0.75; SmNi: Sm 0.5 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 16 |  |
+| 873 | eutectoid: Sm3Ni2 -> Sm3Ni + SmNi | Sm3Ni2: Sm 0.6; Sm3Ni: Sm 0.75; SmNi: Sm 0.5 | model | [1] Rahou 2016 | Table 4, p. 4, row 15 |  |
 | 845 | Liq.->NiSm +NiSm3 | L: Sm 0.626; NiSm: Sm 0.5; NiSm3: Sm 0.75 | model | [2] Su 1998 | Table 2, p. 3, row 3 |  |
 | 843 | Liq.->NiSm +NiSm3 | L: Sm 0.68; NiSm: Sm 0.5; NiSm3: Sm 0.75 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 4 |  |
 | 843 | eutectic: L→NiSm1NiSm 3 |  | experimental | [2] Su 1998; _cites Pan 1983_ | p. 2 | “Three eutectic reactions occur: L→Ni 17 Sm 2 1a-Ni(fcc) (1553 K, 94 at% Ni), L→Ni 2 Sm1NiSm (1082 K, 53.5 at% Ni), L→NiSm1NiSm 3 (843 K, \|32at% Ni).” |
@@ -230,18 +230,18 @@ Table: Phase transition, Ni–Sm system
 | Phase transition | 45 K | 45 | magnetic: SmNi; _alloy: Sm 0.5_ | experimental | [1] Rahou 2016; _cites Walline 1964_ [doi](https://doi.org/10.1063/1.1726127) | Table 1, p. 3, row 6 |  |
 | Phase transition | 85 K | 85 | magnetic: SmNi3; _alloy: Sm 0.25_ | experimental | [1] Rahou 2016; _cites Paccard 1967_ | Table 1, p. 3, row 8 |  |
 | Phase transition | 186 K | 186 | magnetic: Sm2Ni17; _alloy: Sm 0.105263_ | experimental | [1] Rahou 2016; _cites Laforest 1967_ | Table 1, p. 3, row 10 |  |
-| Phase transition | 951 K | 951 | Congruent: Liq -> Sm3Ni; _L: Sm 0.75; Sm3Ni: Sm 0.75_ | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 6 |  |
-| Phase transition | 952 K | 952 | Congruent: Liq -> Sm3Ni; _L: Sm 0.75; Sm3Ni: Sm 0.75_ | model | [1] Rahou 2016 | Table 4, p. 4, row 5 |  |
-| Phase transition | 1345 K | 1345 | Congruent: Liq -> SmNi; _L: Sm 0.5; SmNi: Sm 0.5_ | model | [1] Rahou 2016 | Table 4, p. 4, row 17 |  |
-| Phase transition | 1350 K | 1350 | Congruent: Liq -> SmNi; _L: Sm 0.5; SmNi: Sm 0.5_ | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 19 |  |
+| Phase transition | 951 K | 951 | congruent melting: Liq -> Sm3Ni; _L: Sm 0.75; Sm3Ni: Sm 0.75_ | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 6 |  |
+| Phase transition | 952 K | 952 | congruent melting: Liq -> Sm3Ni; _L: Sm 0.75; Sm3Ni: Sm 0.75_ | model | [1] Rahou 2016 | Table 4, p. 4, row 5 |  |
+| Phase transition | 1345 K | 1345 | congruent melting: Liq -> SmNi; _L: Sm 0.5; SmNi: Sm 0.5_ | model | [1] Rahou 2016 | Table 4, p. 4, row 17 |  |
 | Phase transition | 1350 K | 1350 | Liq.->NiSm; _L: Sm 0.5; NiSm: Sm 0.5_ | model | [2] Su 1998 | Table 2, p. 3, row 5 |  |
-| Phase transition | 1352 K | 1352 | Congruent: Liq -> SmNi; _L: Sm 0.5; SmNi: Sm 0.5_ | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 18 |  |
+| Phase transition | 1350 K | 1350 | congruent melting: Liq -> SmNi; _L: Sm 0.5; SmNi: Sm 0.5_ | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 19 |  |
 | Phase transition | 1352 K | 1352 | Liq.->NiSm; _L: Sm 0.5; NiSm: Sm 0.5_ | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 6 |  |
-| Phase transition | 1703 K | 1703 | Congruent: Liq -> SmNi5; _L: Sm 0.166667; SmNi5: Sm 0.166667_ | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 35 |  |
+| Phase transition | 1352 K | 1352 | congruent melting: Liq -> SmNi; _L: Sm 0.5; SmNi: Sm 0.5_ | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 18 |  |
 | Phase transition | 1703 K | 1703 | Liq.->Ni5Sm; _L: Sm 0.166667; Ni5Sm: Sm 0.166667_ | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 18 |  |
-| Phase transition | 1706 K | 1706 | Congruent: Liq -> SmNi5; _L: Sm 0.166667; SmNi5: Sm 0.166667_ | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 36 |  |
+| Phase transition | 1703 K | 1703 | congruent melting: Liq -> SmNi5; _L: Sm 0.166667; SmNi5: Sm 0.166667_ | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 35 |  |
 | Phase transition | 1706 K | 1706 | Liq.->Ni5Sm; _L: Sm 0.166667; Ni5Sm: Sm 0.166667_ | model | [2] Su 1998 | Table 2, p. 3, row 17 |  |
-| Phase transition | 1709 K | 1709 | Congruent: Liq -> SmNi5; _L: Sm 0.166667; SmNi5: Sm 0.166667_ | model | [1] Rahou 2016 | Table 4, p. 4, row 34 |  |
+| Phase transition | 1706 K | 1706 | congruent melting: Liq -> SmNi5; _L: Sm 0.166667; SmNi5: Sm 0.166667_ | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 36 |  |
+| Phase transition | 1709 K | 1709 | congruent melting: Liq -> SmNi5; _L: Sm 0.166667; SmNi5: Sm 0.166667_ | model | [1] Rahou 2016 | Table 4, p. 4, row 34 |  |
 
 ## Sources
 

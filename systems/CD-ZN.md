@@ -60,8 +60,8 @@ Table: Phase transition, Cd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 594.11 K | 594.11 | Congruent melting: L \<-> (Cd); _L: Zn 0; (Cd): Zn 0_ | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 2 |  |
-| Phase transition | 692.58 K | 692.58 | Melting: L \<-> (Zn); _L: Zn 1; (Zn): Zn 1_ | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 1 |  |
+| Phase transition | 594.11 K | 594.11 | congruent melting: L \<-> (Cd); _L: Zn 0; (Cd): Zn 0_ | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 2 |  |
+| Phase transition | 692.58 K | 692.58 | congruent melting: L \<-> (Zn); _L: Zn 1; (Zn): Zn 1_ | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 1 |  |
 
 ## Sources
 

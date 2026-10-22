@@ -64,37 +64,37 @@ Table: Invariant reactions reported in the literature for the Ag–Er system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1468.25 | Congruent: L -> AgEr | L: Er 0.5; AgEr: Er 0.5 | model | [1] Wang 2010 | Table 3, p. 3, row 6 |  |
-| 1468.15 | Congruent: L -> AgEr | L: Er 0.5; AgEr: Er 0.5 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 5 |  |
-| 1468.15 | Congruent: L -> AgEr | L: Er 0.5; AgEr: Er 0.5 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 4 |  |
-| 1293.45 | Congruent: L -> Ag2Er | L: Er 0.333; Ag2Er: Er 0.333 | model | [1] Wang 2010 | Table 3, p. 3, row 12 |  |
-| 1293.15 | Congruent: L -> Ag2Er | L: Er 0.333; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 10 |  |
-| 1293.15 | Congruent: L -> Ag2Er | L: Er 0.333; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 11 |  |
-| 1266.15 | Eutectic: L -> AgEr + Ag2Er | L: Er 0.37; AgEr: Er 0.5; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 7 |  |
-| 1266.15 | Eutectic: L -> AgEr + Ag2Er | L: Er 0.37; AgEr: Er 0.5; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 8 |  |
-| 1266.05 | Eutectic: L -> AgEr + Ag2Er | L: Er 0.369; AgEr: Er 0.5; Ag2Er: Er 0.333 | model | [1] Wang 2010 | Table 3, p. 3, row 9 |  |
-| 1266 | Eutectic: L -> Ag2Er + AgEr | L: Er 0.37; Ag2Er: Er 0.333333; AgEr: Er 0.5 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 7 |  |
-| 1260 | Eutectic: L -> Ag2Er + AgEr | L: Er 0.374; Ag2Er: Er 0.333333; AgEr: Er 0.5 | model | [2] Long 2010 | Table 4, p. 4, row 6 |  |
-| 1205.25 | Eutectic: L -> (Er) + AgEr | L: Er 0.754; (Er): Er 1; AgEr: Er 0.5 | model | [1] Wang 2010 | Table 3, p. 3, row 3 |  |
-| 1205.15 | Eutectic: L -> (Er) + AgEr | L: Er 0.76; (Er): Er 1; AgEr: Er 0.5 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 1 |  |
-| 1205.15 | Eutectic: L -> (Er) + AgEr | L: Er 0.76; (Er): Er 1; AgEr: Er 0.5 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 2 |  |
-| 1205 | Eutectic: L -> AgEr + Hcp(Er) | L: Er 0.76; AgEr: Er 0.5 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 9 |  |
-| 1203.65 | Congruent: L -> Ag51Er14 |  | model | [1] Wang 2010 | Table 3, p. 3, row 18 |  |
-| 1203.15 | Congruent: L -> Ag51Er14 | L: Er 0.25; Ag51Er14: Er 0.25 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 16 |  |
-| 1203.15 | Congruent: L -> Ag51Er14 | L: Er 0.215; Ag51Er14: Er 0.215 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 17 |  |
-| 1199 | Eutectic: L -> AgEr + Hcp(Er) | L: Er 0.726; AgEr: Er 0.5 | model | [2] Long 2010 | Table 4, p. 4, row 8 |  |
-| 1168 | Eutectic: L -> Ag51Er14 + Ag2Er | L: Er 0.258; Ag51Er14: Er 0.215385; Ag2Er: Er 0.333333 | model | [2] Long 2010 | Table 4, p. 4, row 4 |  |
-| 1167.75 | Peritectic: L -> Ag51Er14 + Ag2Er | L: Er 0.262; Ag51Er14: Er 0.222; Ag2Er: Er 0.333 | model | [1] Wang 2010 | Table 3, p. 3, row 15 |  |
-| 1163.15 | Peritectic: L -> Ag51Er14 + Ag2Er | L: Er 0.265; Ag51Er14: Er 0.25; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 13 |  |
-| 1163.15 | Peritectic: L -> Ag51Er14 + Ag2Er | L: Er 0.265; Ag51Er14: Er 0.215; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 14 |  |
-| 1163 | Eutectic: L -> Ag51Er14 + Ag2Er | L: Er 0.265; Ag51Er14: Er 0.215385; Ag2Er: Er 0.333333 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 5 |  |
-| 1068.15 | Eutectic: L -> Ag51Er14 + (Ag) | Ag51Er14: Ag 0.784615, Er 0.215385; (Ag): Er 0.036 | experimental | [1] Wang 2010; _cites Conclusions_ | Table 3, p. 3, row 20 |  |
-| 1068.15 | Eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.122; Ag51Er14: Er 0.215; (Ag): Er 0.0313 | model | [1] Wang 2010 | Table 3, p. 3, row 22 |  |
-| 1068.15 | Eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.115; Ag51Er14: Er 0.215; (Ag): Er 0.036 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 21 |  |
-| 1068 | Eutectic: L -> Fcc(Ag) + Ag51Er14 | Ag51Er14: Er 0.215385 | experimental | [2] Long 2010; _cites Gschneidner 1971_ | Table 4, p. 4, row 3 |  |
-| 1060 | Eutectic: L -> Fcc(Ag) + Ag51Er14 | L: Er 0.121; Ag51Er14: Er 0.215385 | model | [2] Long 2010 | Table 4, p. 4, row 1 |  |
-| 1045.15 | Eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.115; Ag51Er14: Er 0.25; (Ag): Er 0.05 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 19 |  |
-| 1045 | Eutectic: L -> Fcc(Ag) + Ag51Er14 | L: Er 0.115; Ag51Er14: Er 0.215385 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 2 |  |
+| 1468.25 | congruent melting: L -> AgEr | L: Er 0.5; AgEr: Er 0.5 | model | [1] Wang 2010 | Table 3, p. 3, row 6 |  |
+| 1468.15 | congruent melting: L -> AgEr | L: Er 0.5; AgEr: Er 0.5 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 5 |  |
+| 1468.15 | congruent melting: L -> AgEr | L: Er 0.5; AgEr: Er 0.5 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 4 |  |
+| 1293.45 | congruent melting: L -> Ag2Er | L: Er 0.333; Ag2Er: Er 0.333 | model | [1] Wang 2010 | Table 3, p. 3, row 12 |  |
+| 1293.15 | congruent melting: L -> Ag2Er | L: Er 0.333; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 10 |  |
+| 1293.15 | congruent melting: L -> Ag2Er | L: Er 0.333; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 11 |  |
+| 1266.15 | eutectic: L -> AgEr + Ag2Er | L: Er 0.37; AgEr: Er 0.5; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 7 |  |
+| 1266.15 | eutectic: L -> AgEr + Ag2Er | L: Er 0.37; AgEr: Er 0.5; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 8 |  |
+| 1266.05 | eutectic: L -> AgEr + Ag2Er | L: Er 0.369; AgEr: Er 0.5; Ag2Er: Er 0.333 | model | [1] Wang 2010 | Table 3, p. 3, row 9 |  |
+| 1266 | eutectic: L -> Ag2Er + AgEr | L: Er 0.37; Ag2Er: Er 0.333333; AgEr: Er 0.5 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 7 |  |
+| 1260 | eutectic: L -> Ag2Er + AgEr | L: Er 0.374; Ag2Er: Er 0.333333; AgEr: Er 0.5 | model | [2] Long 2010 | Table 4, p. 4, row 6 |  |
+| 1205.25 | eutectic: L -> (Er) + AgEr | L: Er 0.754; (Er): Er 1; AgEr: Er 0.5 | model | [1] Wang 2010 | Table 3, p. 3, row 3 |  |
+| 1205.15 | eutectic: L -> (Er) + AgEr | L: Er 0.76; (Er): Er 1; AgEr: Er 0.5 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 1 |  |
+| 1205.15 | eutectic: L -> (Er) + AgEr | L: Er 0.76; (Er): Er 1; AgEr: Er 0.5 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 2 |  |
+| 1205 | eutectic: L -> AgEr + Hcp(Er) | L: Er 0.76; AgEr: Er 0.5 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 9 |  |
+| 1203.65 | congruent melting: L -> Ag51Er14 |  | model | [1] Wang 2010 | Table 3, p. 3, row 18 |  |
+| 1203.15 | congruent melting: L -> Ag51Er14 | L: Er 0.25; Ag51Er14: Er 0.25 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 16 |  |
+| 1203.15 | congruent melting: L -> Ag51Er14 | L: Er 0.215; Ag51Er14: Er 0.215 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 17 |  |
+| 1199 | eutectic: L -> AgEr + Hcp(Er) | L: Er 0.726; AgEr: Er 0.5 | model | [2] Long 2010 | Table 4, p. 4, row 8 |  |
+| 1168 | eutectic: L -> Ag51Er14 + Ag2Er | L: Er 0.258; Ag51Er14: Er 0.215385; Ag2Er: Er 0.333333 | model | [2] Long 2010 | Table 4, p. 4, row 4 |  |
+| 1167.75 | peritectic: L -> Ag51Er14 + Ag2Er | L: Er 0.262; Ag51Er14: Er 0.222; Ag2Er: Er 0.333 | model | [1] Wang 2010 | Table 3, p. 3, row 15 |  |
+| 1163.15 | peritectic: L -> Ag51Er14 + Ag2Er | L: Er 0.265; Ag51Er14: Er 0.25; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 13 |  |
+| 1163.15 | peritectic: L -> Ag51Er14 + Ag2Er | L: Er 0.265; Ag51Er14: Er 0.215; Ag2Er: Er 0.333 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 14 |  |
+| 1163 | eutectic: L -> Ag51Er14 + Ag2Er | L: Er 0.265; Ag51Er14: Er 0.215385; Ag2Er: Er 0.333333 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 5 |  |
+| 1068.15 | eutectic: L -> Ag51Er14 + (Ag) | Ag51Er14: Ag 0.784615, Er 0.215385; (Ag): Er 0.036 | experimental | [1] Wang 2010; _cites Conclusions_ | Table 3, p. 3, row 20 |  |
+| 1068.15 | eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.122; Ag51Er14: Er 0.215; (Ag): Er 0.0313 | model | [1] Wang 2010 | Table 3, p. 3, row 22 |  |
+| 1068.15 | eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.115; Ag51Er14: Er 0.215; (Ag): Er 0.036 | experimental | [1] Wang 2010; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871168) | Table 3, p. 3, row 21 |  |
+| 1068 | eutectic: L -> Fcc(Ag) + Ag51Er14 | Ag51Er14: Er 0.215385 | experimental | [2] Long 2010; _cites Gschneidner 1971_ | Table 4, p. 4, row 3 |  |
+| 1060 | eutectic: L -> Fcc(Ag) + Ag51Er14 | L: Er 0.121; Ag51Er14: Er 0.215385 | model | [2] Long 2010 | Table 4, p. 4, row 1 |  |
+| 1045.15 | eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.115; Ag51Er14: Er 0.25; (Ag): Er 0.05 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 19 |  |
+| 1045 | eutectic: L -> Fcc(Ag) + Ag51Er14 | L: Er 0.115; Ag51Er14: Er 0.215385 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 2 |  |
 
 ## Other properties
 
@@ -108,17 +108,17 @@ Table: Phase transition, Ag–Er system
 | Phase transition | 18.8 K | 18.8 | magnetic | experimental | [1] Wang 2010; _cites Kaneko 1983_ | p. 1 | “Nerson \[11\] and Kaneko et al. \[12\] found that the AgEr phase is antiferromagnetic with the Neel temperature of 18 K \[11\] and 18.8 K \[12\].” |
 | Phase transition | 1045.15 K | 1045.15 | L \<-> (Ag) + Ag3Er | experimental | [1] Wang 2010 | p. 1 | “L ↔ (Ag) + Ag3 Er at 772 ◦ C, L ↔ Ag3 Er + Ag2 Er at 890 ◦ C, L ↔ Ag2 Er + AgEr at 993 ◦ C, and L ↔ AgEr + (Er) at 932 ◦ C.” |
 | Phase transition | 1163.15 K | 1163.15 | L \<-> Ag3Er + Ag2Er | experimental | [1] Wang 2010 | p. 1 | “L ↔ (Ag) + Ag3 Er at 772 ◦ C, L ↔ Ag3 Er + Ag2 Er at 890 ◦ C, L ↔ Ag2 Er + AgEr at 993 ◦ C, and L ↔ AgEr + (Er) at 932 ◦ C.” |
-| Phase transition | 1203 K | 1203 | Congruent: L -> Ag51Er14; _L: Er 0.215; Ag51Er14: Er 0.215385_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 11 |  |
+| Phase transition | 1203 K | 1203 | congruent melting: L -> Ag51Er14; _L: Er 0.215; Ag51Er14: Er 0.215385_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 11 |  |
 | Phase transition | 1203.15 K | 1203.15 |  | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | p. 1 | “Based on thermal analysis, metallography and X-ray method, Gebhardt et al. \[4\] investigated the phase diagram in the Ag-Er system, and reported three stoichiometry compounds of the Ag3 Er (melting point, 930 ◦ C), Ag2 Er (melting point, 1020 ◦ C) and AgEr (melting point, 1195 ◦ C).” |
-| Phase transition | 1204 K | 1204 | Congruent: L -> Ag51Er14; _L: Er 0.215; Ag51Er14: Er 0.215385_ | model | [2] Long 2010 | Table 4, p. 4, row 10 |  |
+| Phase transition | 1204 K | 1204 | congruent melting: L -> Ag51Er14; _L: Er 0.215; Ag51Er14: Er 0.215385_ | model | [2] Long 2010 | Table 4, p. 4, row 10 |  |
 | Phase transition | 1205.15 K | 1205.15 | L \<-> AgEr + (Er) | experimental | [1] Wang 2010 | p. 1 | “L ↔ (Ag) + Ag3 Er at 772 ◦ C, L ↔ Ag3 Er + Ag2 Er at 890 ◦ C, L ↔ Ag2 Er + AgEr at 993 ◦ C, and L ↔ AgEr + (Er) at 932 ◦ C.” |
 | Phase transition | 1266.15 K | 1266.15 | L \<-> Ag2Er + AgEr | experimental | [1] Wang 2010 | p. 1 | “L ↔ (Ag) + Ag3 Er at 772 ◦ C, L ↔ Ag3 Er + Ag2 Er at 890 ◦ C, L ↔ Ag2 Er + AgEr at 993 ◦ C, and L ↔ AgEr + (Er) at 932 ◦ C.” |
-| Phase transition | 1293 K | 1293 | Congruent: L -> Ag2Er; _L: Er 0.333; Ag2Er: Er 0.333333_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 13 |  |
+| Phase transition | 1293 K | 1293 | congruent melting: L -> Ag2Er; _L: Er 0.333; Ag2Er: Er 0.333333_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 13 |  |
 | Phase transition | 1293.15 K | 1293.15 |  | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | p. 1 | “Based on thermal analysis, metallography and X-ray method, Gebhardt et al. \[4\] investigated the phase diagram in the Ag-Er system, and reported three stoichiometry compounds of the Ag3 Er (melting point, 930 ◦ C), Ag2 Er (melting point, 1020 ◦ C) and AgEr (melting point, 1195 ◦ C).” |
-| Phase transition | 1295 K | 1295 | Congruent: L -> Ag2Er; _L: Er 0.333; Ag2Er: Er 0.333333_ | model | [2] Long 2010 | Table 4, p. 4, row 12 |  |
-| Phase transition | 1468 K | 1468 | Congruent: L -> AgEr; _L: Er 0.5; AgEr: Er 0.5_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 15 |  |
+| Phase transition | 1295 K | 1295 | congruent melting: L -> Ag2Er; _L: Er 0.333; Ag2Er: Er 0.333333_ | model | [2] Long 2010 | Table 4, p. 4, row 12 |  |
+| Phase transition | 1468 K | 1468 | congruent melting: L -> AgEr; _L: Er 0.5; AgEr: Er 0.5_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 15 |  |
 | Phase transition | 1468.15 K | 1468.15 |  | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | p. 1 | “Based on thermal analysis, metallography and X-ray method, Gebhardt et al. \[4\] investigated the phase diagram in the Ag-Er system, and reported three stoichiometry compounds of the Ag3 Er (melting point, 930 ◦ C), Ag2 Er (melting point, 1020 ◦ C) and AgEr (melting point, 1195 ◦ C).” |
-| Phase transition | 1476 K | 1476 | Congruent: L -> AgEr; _L: Er 0.5; AgEr: Er 0.5_ | model | [2] Long 2010 | Table 4, p. 4, row 14 |  |
+| Phase transition | 1476 K | 1476 | congruent melting: L -> AgEr; _L: Er 0.5; AgEr: Er 0.5_ | model | [2] Long 2010 | Table 4, p. 4, row 14 |  |
 
 ## Sources
 

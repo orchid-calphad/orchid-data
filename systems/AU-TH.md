@@ -62,31 +62,31 @@ Table: Invariant reactions reported in the literature for the Au–Th system (25
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1713.15 | Melting: L -> Au51Th14 | L: Th 0.215; Au51Th14: Th 0.215 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 19 |  |
-| 1713.15 | Melting: L -> Au51Th14 | L: Th 0.215; Au51Th14: Th 0.215 | model | [1] Wang 2013 | Table 3, p. 3, row 20 |  |
-| 1693.15 | Melting: L -> Au4Th3 | L: Th 0.429; Au4Th3: Th 0.429 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 23 |  |
-| 1693.15 | Melting: L -> Au4Th3 | L: Th 0.429; Au4Th3: Th 0.429 | model | [1] Wang 2013 | Table 3, p. 3, row 24 |  |
-| 1678.15 | Melting: L -> Au2Th | L: Th 0.333; Au2Th: Th 0.333 | model | [1] Wang 2013 | Table 3, p. 3, row 22 |  |
-| 1678.15 | Melting: L -> Au2Th | L: Th 0.333; Au2Th: Th 0.333 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 21 |  |
-| 1633.15 | Peritectic: L + (βTh) -> (αTh) | (βTh): Th 0.999; (αTh): Th 0.999 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 17 |  |
-| 1633.15 | Peritectic: L + (βTh) -> (αTh) | L: Th 0.855; (βTh): Th 0.999; (αTh): Th 0.999 | model | [1] Wang 2013 | Table 3, p. 3, row 18 |  |
-| 1603.15 | Eutectic: L -> Au2Th + Au4Th3 | L: Th 0.395; Au2Th: Th 0.333; Au4Th3: Th 0.429 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 3 |  |
-| 1603.15 | Eutectic: L -> Au2Th + Au4Th3 | L: Th 0.38; Au2Th: Th 0.333; Au4Th3: Th 0.429 | experimental | [1] Wang 2013; _cites Okamoto 1987_ | Table 3, p. 3, row 4 |  |
-| 1603.15 | Eutectic: L -> Au2Th + Au4Th3 | L: Th 0.375; Au2Th: Th 0.333; Au4Th3: Th 0.429 | model | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
-| 1598.15 | Eutectic: L -> Au51Th14 + Au2Th | L: Th 0.294; Au51Th14: Th 0.215; Au2Th: Th 0.333 | model | [1] Wang 2013 | Table 3, p. 3, row 2 |  |
-| 1598.15 | Eutectic: L -> Au51Th14 + Au2Th | L: Th 0.295; Au51Th14: Th 0.215; Au2Th: Th 0.333 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 1 |  |
-| 1553.15 | Peritectic: L + Au4Th3 -> AuTh | Au4Th3: Th 0.429; AuTh: Th 0.5 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 11 |  |
-| 1553.15 | Peritectic: L + Au4Th3 -> AuTh | L: Th 0.503; Au4Th3: Th 0.429; AuTh: Th 0.5 | model | [1] Wang 2013 | Table 3, p. 3, row 12 |  |
-| 1453.15 | Peritectic: L + AuTh -> Au2Th3 | AuTh: Th 0.5; Au2Th3: Th 0.6 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 13 |  |
-| 1453.15 | Peritectic: L + AuTh -> Au2Th3 | L: Th 0.603; AuTh: Th 0.5; Au2Th3: Th 0.6 | model | [1] Wang 2013 | Table 3, p. 3, row 14 |  |
-| 1383.15 | Peritectic: L + Au2Th3 -> AuTh2 | Au2Th3: Th 0.6; AuTh2: Th 0.667 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 15 |  |
-| 1383.15 | Peritectic: L + Au2Th3 -> AuTh2 | L: Th 0.705; Au2Th3: Th 0.6; AuTh2: Th 0.667 | model | [1] Wang 2013 | Table 3, p. 3, row 16 |  |
-| 1323.15 | Eutectic: L -> AuTh2 + (αTh) | L: Th 0.765; AuTh2: Th 0.667; (αTh): Th 0.999 | model | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
-| 1323.15 | Eutectic: L -> AuTh2 + (αTh) | L: Th 0.76; AuTh2: Th 0.667; (αTh): Th 1 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 6 |  |
-| 1098.15 | Eutectic: L -> (Au) + Au51Th14 | L: Th 0.1; (Au): Th 0; Au51Th14: Th 0.215 | experimental | [1] Wang 2013; _cites Okamoto 1987_ | Table 3, p. 3, row 9 |  |
+| 1713.15 | congruent melting: L -> Au51Th14 | L: Th 0.215; Au51Th14: Th 0.215 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 19 |  |
+| 1713.15 | congruent melting: L -> Au51Th14 | L: Th 0.215; Au51Th14: Th 0.215 | model | [1] Wang 2013 | Table 3, p. 3, row 20 |  |
+| 1693.15 | congruent melting: L -> Au4Th3 | L: Th 0.429; Au4Th3: Th 0.429 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 23 |  |
+| 1693.15 | congruent melting: L -> Au4Th3 | L: Th 0.429; Au4Th3: Th 0.429 | model | [1] Wang 2013 | Table 3, p. 3, row 24 |  |
+| 1678.15 | congruent melting: L -> Au2Th | L: Th 0.333; Au2Th: Th 0.333 | model | [1] Wang 2013 | Table 3, p. 3, row 22 |  |
+| 1678.15 | congruent melting: L -> Au2Th | L: Th 0.333; Au2Th: Th 0.333 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 21 |  |
+| 1633.15 | peritectic: L + (βTh) -> (αTh) | (βTh): Th 0.999; (αTh): Th 0.999 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 17 |  |
+| 1633.15 | peritectic: L + (βTh) -> (αTh) | L: Th 0.855; (βTh): Th 0.999; (αTh): Th 0.999 | model | [1] Wang 2013 | Table 3, p. 3, row 18 |  |
+| 1603.15 | eutectic: L -> Au2Th + Au4Th3 | L: Th 0.395; Au2Th: Th 0.333; Au4Th3: Th 0.429 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 3 |  |
+| 1603.15 | eutectic: L -> Au2Th + Au4Th3 | L: Th 0.38; Au2Th: Th 0.333; Au4Th3: Th 0.429 | experimental | [1] Wang 2013; _cites Okamoto 1987_ | Table 3, p. 3, row 4 |  |
+| 1603.15 | eutectic: L -> Au2Th + Au4Th3 | L: Th 0.375; Au2Th: Th 0.333; Au4Th3: Th 0.429 | model | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
+| 1598.15 | eutectic: L -> Au51Th14 + Au2Th | L: Th 0.294; Au51Th14: Th 0.215; Au2Th: Th 0.333 | model | [1] Wang 2013 | Table 3, p. 3, row 2 |  |
+| 1598.15 | eutectic: L -> Au51Th14 + Au2Th | L: Th 0.295; Au51Th14: Th 0.215; Au2Th: Th 0.333 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 1 |  |
+| 1553.15 | peritectic: L + Au4Th3 -> AuTh | Au4Th3: Th 0.429; AuTh: Th 0.5 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 11 |  |
+| 1553.15 | peritectic: L + Au4Th3 -> AuTh | L: Th 0.503; Au4Th3: Th 0.429; AuTh: Th 0.5 | model | [1] Wang 2013 | Table 3, p. 3, row 12 |  |
+| 1453.15 | peritectic: L + AuTh -> Au2Th3 | AuTh: Th 0.5; Au2Th3: Th 0.6 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 13 |  |
+| 1453.15 | peritectic: L + AuTh -> Au2Th3 | L: Th 0.603; AuTh: Th 0.5; Au2Th3: Th 0.6 | model | [1] Wang 2013 | Table 3, p. 3, row 14 |  |
+| 1383.15 | peritectic: L + Au2Th3 -> AuTh2 | Au2Th3: Th 0.6; AuTh2: Th 0.667 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 15 |  |
+| 1383.15 | peritectic: L + Au2Th3 -> AuTh2 | L: Th 0.705; Au2Th3: Th 0.6; AuTh2: Th 0.667 | model | [1] Wang 2013 | Table 3, p. 3, row 16 |  |
+| 1323.15 | eutectic: L -> AuTh2 + (αTh) | L: Th 0.765; AuTh2: Th 0.667; (αTh): Th 0.999 | model | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
+| 1323.15 | eutectic: L -> AuTh2 + (αTh) | L: Th 0.76; AuTh2: Th 0.667; (αTh): Th 1 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 6 |  |
+| 1098.15 | eutectic: L -> (Au) + Au51Th14 | L: Th 0.1; (Au): Th 0; Au51Th14: Th 0.215 | experimental | [1] Wang 2013; _cites Okamoto 1987_ | Table 3, p. 3, row 9 |  |
 | 1098.15 | eutectic |  | model | [1] Wang 2013 | p. 5 | “Starting from Au, the first eutectic point locates at 7.9 at.% and 825 °C between 5 at.% reported by Palenzona \[29\] and 10 at.% reported by Okamoto \[30\].” |
-| 1098.15 | Eutectic: L -> (Au) + Au51Th14 | L: Th 0.05; (Au): Th 0; Au51Th14: Th 0.215 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 8 |  |
-| 1098.15 | Eutectic: L -> (Au) + Au51Th14 | L: Th 0.079; (Au): Th 0; Au51Th14: Th 0.215 | model | [1] Wang 2013 | Table 3, p. 3, row 10 |  |
+| 1098.15 | eutectic: L -> (Au) + Au51Th14 | L: Th 0.05; (Au): Th 0; Au51Th14: Th 0.215 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 8 |  |
+| 1098.15 | eutectic: L -> (Au) + Au51Th14 | L: Th 0.079; (Au): Th 0; Au51Th14: Th 0.215 | model | [1] Wang 2013 | Table 3, p. 3, row 10 |  |
 
 ## Sources
 

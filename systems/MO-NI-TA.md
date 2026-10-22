@@ -160,18 +160,18 @@ Table: Mixing / partial, Mo–Ni–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | -12160 J/mol-atom |  | A1 fcc-SQS16; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -7540 J/mol-atom |  | A1 fcc-SQS16; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -9280 J/mol-atom |  | A1 fcc-SQS16; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 12 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 588 J/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -5170 J/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -230 J/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 588 J/mol-atom |  | UNKNOWN; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -5170 J/mol-atom |  | UNKNOWN; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -12160 J/mol-atom |  | UNKNOWN; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -7540 J/mol-atom |  | UNKNOWN; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -230 J/mol-atom |  | UNKNOWN; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -9280 J/mol-atom |  | UNKNOWN; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 12 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -12.16 kJ/mol-atom |  | A1 fcc-SQS16; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 10 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -7.54 kJ/mol-atom |  | A1 fcc-SQS16; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 11 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -9.28 kJ/mol-atom |  | A1 fcc-SQS16; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 12 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0.588 kJ/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 7 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -5.17 kJ/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 9 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -0.23 kJ/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 8 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0.588 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 7 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -5.17 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 9 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -12.16 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 10 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -7.54 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 11 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -0.23 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 8 |  |
+| Enthalpy of mixing; _printed: ΔH_ | -9.28 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 12 |  |
 
 ## Sources
 

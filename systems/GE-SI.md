@@ -54,45 +54,45 @@ Table: Mixing / partial, Ge–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: H f, \*\*si_ | 6.61 kJ/mol | 1327 |  | experimental | [2] Bergman 1992 | p. 3 | “Then the partial enthalpy of Si at infinite dilution, H f, \*\*si, is 6.61 kJ/mol with reference to Si (L, 1327 K).” |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 52.789 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9787, Si 0.0213_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 9 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.706 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9991, Si 9.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 1 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.118 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9885, Si 0.0115_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 16 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.7 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9808, Si 0.0192_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 19 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 57.774 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9936, Si 0.0064_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 14 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.137 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.985, Si 0.015_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 7 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.938 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9993, Si 7.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 11 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.326 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9976, Si 0.0024_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 12 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.406 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9925, Si 0.0075_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 4 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.867 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9912, Si 0.0088_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 15 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 58.855 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9956, Si 0.0044_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 13 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.873 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9876, Si 0.0124_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 6 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.513 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9751, Si 0.0249_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 10 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.816 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.982, Si 0.018_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 8 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.513 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9862, Si 0.0138_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 17 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.811 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.99, Si 0.01_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 5 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 60.142 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9951, Si 0.0049_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 3 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.576 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9973, Si 0.0027_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 2 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.947 kJ/mol | 1327 | UNKNOWN; _alloy: Ge 0.9836, Si 0.0164_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 18 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 52.789 kJ/mol | 1327 | l; _alloy: Ge 0.9787, Si 0.0213_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 9 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 54.706 kJ/mol | 1327 | l; _alloy: Ge 0.9991, Si 9.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 1 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 53.118 kJ/mol | 1327 | l; _alloy: Ge 0.9885, Si 0.0115_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 16 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 54.7 kJ/mol | 1327 | l; _alloy: Ge 0.9808, Si 0.0192_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 19 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 57.774 kJ/mol | 1327 | l; _alloy: Ge 0.9936, Si 0.0064_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 14 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 54.137 kJ/mol | 1327 | l; _alloy: Ge 0.985, Si 0.015_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 7 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 53.938 kJ/mol | 1327 | l; _alloy: Ge 0.9993, Si 7.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 11 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 56.326 kJ/mol | 1327 | l; _alloy: Ge 0.9976, Si 0.0024_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 12 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 54.406 kJ/mol | 1327 | l; _alloy: Ge 0.9925, Si 0.0075_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 4 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 56.867 kJ/mol | 1327 | l; _alloy: Ge 0.9912, Si 0.0088_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 15 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 58.855 kJ/mol | 1327 | l; _alloy: Ge 0.9956, Si 0.0044_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 13 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 55.873 kJ/mol | 1327 | l; _alloy: Ge 0.9876, Si 0.0124_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 6 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 54.513 kJ/mol | 1327 | l; _alloy: Ge 0.9751, Si 0.0249_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 10 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 55.816 kJ/mol | 1327 | l; _alloy: Ge 0.982, Si 0.018_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 8 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 54.513 kJ/mol | 1327 | l; _alloy: Ge 0.9862, Si 0.0138_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 17 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 55.811 kJ/mol | 1327 | l; _alloy: Ge 0.99, Si 0.01_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 5 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 60.142 kJ/mol | 1327 | l; _alloy: Ge 0.9951, Si 0.0049_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 3 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 56.576 kJ/mol | 1327 | l; _alloy: Ge 0.9973, Si 0.0027_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 2 |  |
-| Partial enthalpy; _printed: H^l_Si_ | 53.947 kJ/mol | 1327 | l; _alloy: Ge 0.9836, Si 0.0164_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 18 |  |
+| Partial enthalpy; _printed: H f, \*\*si_ | 6.61 kJ/mol (basis unstated) | 1327 |  | experimental | [2] Bergman 1992 | p. 3 | “Then the partial enthalpy of Si at infinite dilution, H f, \*\*si, is 6.61 kJ/mol with reference to Si (L, 1327 K).” |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 52.789 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9787, Si 0.0213_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 9 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.706 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9991, Si 9.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 1 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.118 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9885, Si 0.0115_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 16 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.7 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9808, Si 0.0192_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 19 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 57.774 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9936, Si 0.0064_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 14 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.137 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.985, Si 0.015_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 7 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.938 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9993, Si 7.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 11 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.326 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9976, Si 0.0024_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 12 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.406 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9925, Si 0.0075_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 4 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.867 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9912, Si 0.0088_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 15 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 58.855 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9956, Si 0.0044_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 13 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.873 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9876, Si 0.0124_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 6 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.513 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9751, Si 0.0249_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 10 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.816 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.982, Si 0.018_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 8 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.513 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9862, Si 0.0138_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 17 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.811 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.99, Si 0.01_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 5 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 60.142 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9951, Si 0.0049_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 3 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.576 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9973, Si 0.0027_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 2 |  |
+| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.947 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9836, Si 0.0164_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 18 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 52.789 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9787, Si 0.0213_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 9 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 54.706 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9991, Si 9.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 1 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 53.118 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9885, Si 0.0115_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 16 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 54.7 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9808, Si 0.0192_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 19 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 57.774 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9936, Si 0.0064_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 14 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 54.137 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.985, Si 0.015_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 7 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 53.938 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9993, Si 7.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 11 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 56.326 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9976, Si 0.0024_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 12 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 54.406 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9925, Si 0.0075_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 4 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 56.867 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9912, Si 0.0088_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 15 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 58.855 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9956, Si 0.0044_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 13 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 55.873 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9876, Si 0.0124_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 6 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 54.513 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9751, Si 0.0249_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 10 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 55.816 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.982, Si 0.018_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 8 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 54.513 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9862, Si 0.0138_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 17 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 55.811 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.99, Si 0.01_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 5 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 60.142 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9951, Si 0.0049_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 3 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 56.576 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9973, Si 0.0027_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 2 |  |
+| Partial enthalpy; _printed: H^l_Si_ | 53.947 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9836, Si 0.0164_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 18 |  |
 
 ### Activity / EMF / Gibbs energy (63)
 
@@ -197,27 +197,27 @@ Table: Crystal structure, Ge–Si system
 | Lattice a | 0.55373 nm | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
 | Lattice c | 0.2692 nm | 298.15 | Ge; _alloy: Si 0_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 3 |  |
 | Lattice c | 0.2585 nm | 298.15 | Si; _alloy: Si 1_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 4 |  |
-| lattice lattice parameter | 0.5596 nm | 298.15 | UNKNOWN; _alloy: Ge 0.75, Si 0.25_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 6 |  |
-| lattice lattice parameter | 0.55842 nm | 298.15 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 7 |  |
-| lattice lattice parameter | 0.55261 nm | 298.15 | UNKNOWN; _alloy: Ge 0.45, Si 0.55_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 12 |  |
-| lattice lattice parameter | 0.56206 nm | 298.15 | UNKNOWN; _alloy: Ge 0.85, Si 0.15_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 4 |  |
-| lattice lattice parameter | 0.54419 nm | 298.15 | UNKNOWN; _alloy: Ge 0.05, Si 0.95_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 20 |  |
-| lattice lattice parameter | 0.54624 nm | 298.15 | UNKNOWN; _alloy: Ge 0.15, Si 0.85_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 18 |  |
-| lattice lattice parameter | 0.55149 nm | 298.15 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 13 |  |
-| lattice lattice parameter | 0.56575 nm | 298.15 | UNKNOWN; _alloy: Ge 1, Si 0_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 1 |  |
-| lattice lattice parameter | 0.55727 nm | 298.15 | UNKNOWN; _alloy: Ge 0.65, Si 0.35_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 8 |  |
-| lattice lattice parameter | 0.54522 nm | 298.15 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 19 |  |
-| lattice lattice parameter | 0.54722 nm | 298.15 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 17 |  |
-| lattice lattice parameter | 0.54928 nm | 298.15 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 15 |  |
-| lattice lattice parameter | 0.56325 nm | 298.15 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 3 |  |
-| lattice lattice parameter | 0.56085 nm | 298.15 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 5 |  |
-| lattice lattice parameter | 0.55609 nm | 298.15 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 9 |  |
-| lattice lattice parameter | 0.5431 nm | 298.15 | UNKNOWN; _alloy: Ge 0, Si 1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 21 |  |
-| lattice lattice parameter | 0.55492 nm | 298.15 | UNKNOWN; _alloy: Ge 0.55, Si 0.45_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 10 |  |
-| lattice lattice parameter | 0.56448 nm | 298.15 | UNKNOWN; _alloy: Ge 0.95, Si 0.05_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 2 |  |
-| lattice lattice parameter | 0.55038 nm | 298.15 | UNKNOWN; _alloy: Ge 0.35, Si 0.65_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 14 |  |
-| lattice lattice parameter | 0.54825 nm | 298.15 | UNKNOWN; _alloy: Ge 0.25, Si 0.75_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 16 |  |
-| lattice lattice parameter | 0.55373 nm | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
+| lattice unspecified axis | 0.5596 nm | 298.15 | UNKNOWN; _alloy: Ge 0.75, Si 0.25_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 6 |  |
+| lattice unspecified axis | 0.55842 nm | 298.15 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 7 |  |
+| lattice unspecified axis | 0.55261 nm | 298.15 | UNKNOWN; _alloy: Ge 0.45, Si 0.55_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 12 |  |
+| lattice unspecified axis | 0.56206 nm | 298.15 | UNKNOWN; _alloy: Ge 0.85, Si 0.15_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 4 |  |
+| lattice unspecified axis | 0.54419 nm | 298.15 | UNKNOWN; _alloy: Ge 0.05, Si 0.95_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 20 |  |
+| lattice unspecified axis | 0.54624 nm | 298.15 | UNKNOWN; _alloy: Ge 0.15, Si 0.85_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 18 |  |
+| lattice unspecified axis | 0.55149 nm | 298.15 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 13 |  |
+| lattice unspecified axis | 0.56575 nm | 298.15 | UNKNOWN; _alloy: Ge 1, Si 0_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 1 |  |
+| lattice unspecified axis | 0.55727 nm | 298.15 | UNKNOWN; _alloy: Ge 0.65, Si 0.35_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 8 |  |
+| lattice unspecified axis | 0.54522 nm | 298.15 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 19 |  |
+| lattice unspecified axis | 0.54722 nm | 298.15 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 17 |  |
+| lattice unspecified axis | 0.54928 nm | 298.15 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 15 |  |
+| lattice unspecified axis | 0.56325 nm | 298.15 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 3 |  |
+| lattice unspecified axis | 0.56085 nm | 298.15 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 5 |  |
+| lattice unspecified axis | 0.55609 nm | 298.15 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 9 |  |
+| lattice unspecified axis | 0.5431 nm | 298.15 | UNKNOWN; _alloy: Ge 0, Si 1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 21 |  |
+| lattice unspecified axis | 0.55492 nm | 298.15 | UNKNOWN; _alloy: Ge 0.55, Si 0.45_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 10 |  |
+| lattice unspecified axis | 0.56448 nm | 298.15 | UNKNOWN; _alloy: Ge 0.95, Si 0.05_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 2 |  |
+| lattice unspecified axis | 0.55038 nm | 298.15 | UNKNOWN; _alloy: Ge 0.35, Si 0.65_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 14 |  |
+| lattice unspecified axis | 0.54825 nm | 298.15 | UNKNOWN; _alloy: Ge 0.25, Si 0.75_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 16 |  |
+| lattice unspecified axis | 0.55373 nm | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
 
 ## Sources
 

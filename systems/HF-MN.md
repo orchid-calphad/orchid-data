@@ -97,7 +97,7 @@ Table: Phase transition, Hf–Mn system
 | Phase transition | 1465.85 K | 1465.85 | eutectic: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 6 |  |
 | Phase transition | 1466.55 K | 1466.55 | eutectic: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 10 |  |
 | Phase transition | 1466.55 K | 1466.55 | eutectic: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 13 |  |
-| Phase transition | 1486.55 K | 1486.55 | liquidus: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 7 |  |
+| Phase transition | 1486.55 K | 1486.55 | other: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 7 |  |
 | Phase transition | 1715.74 K | 1715.74 | bHf M L + aHf | model | [1] Zhou 2012 | p. 6 | “mono-phase region extends from the pure Hf side into the Hf-Mn binary system, which disappears at 1715.74 K with 8.49 at.% Mn. Thus a new invariant equilibrium of bHf M L + aHf is thermodynamically predicted.” |
 | Phase transition | 2000.16 K | 2000.16 | L -> HfMn2; _L: Mn 0.6667; HfMn2: Mn 0.6667_ | model | [1] Zhou 2012 | Table 5, p. 8, row 5 |  |
 | Phase transition | 2003 K | 2003 | L -> HfMn2; _L: Mn 0.667; HfMn2: Mn 0.667_ | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 6 |  |
@@ -108,9 +108,9 @@ Table: Phase equilibrium, Hf–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 973.15 | liquidus: 2–98; _liquid: Hf 0.016, Mn 0.984_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 1 |  |
-| Phase composition |  | 973.15 | liquidus: 4–96; _liquid: Hf 0.055, Mn 0.945_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 2 |  |
-| Phase composition |  | 973.15 | liquidus: 6–94; _liquid: Hf 0.044, Mn 0.956_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 3 |  |
+| Phase composition |  | 973.15 | other: 2–98; _liquid: Hf 0.016, Mn 0.984_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 1 |  |
+| Phase composition |  | 973.15 | other: 4–96; _liquid: Hf 0.055, Mn 0.945_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 2 |  |
+| Phase composition |  | 973.15 | other: 6–94; _liquid: Hf 0.044, Mn 0.956_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 3 |  |
 
 ### Crystal structure (21)
 
@@ -126,19 +126,19 @@ Table: Crystal structure, Hf–Mn system
 | Lattice a | 0.496 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
 | Lattice a | 0.49464 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
 | Lattice a | 0.5016 nm | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.8913 nm | 727 ({'op': '\<', 'value_K': 727.0}) | (αMn); _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 12 |  |
+| Lattice a | 0.8913 nm | 727 (\<) | (αMn); _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 12 |  |
 | Lattice a | 0.6315 nm | 913.5 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 13 |  |
 | Lattice a | 0.386 nm | 1119 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 14 |  |
 | Lattice a | 0.308 nm | 1192 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 15 |  |
-| Lattice a | 0.5007 nm | 1730 ({'op': '\<', 'value_K': 1730.0}) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
-| Lattice a | 0.31949 nm | 1743 ({'op': '\<', 'value_K': 1743.0}) | (αHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 1 |  |
+| Lattice a | 0.5007 nm | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
+| Lattice a | 0.31949 nm | 1743 (\<) | (αHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 1 |  |
 | Lattice a | 0.3615 nm | 1987 | UNKNOWN; _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 2 |  |
 | Lattice c | 0.823508 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10 |  |
 | Lattice c | 0.8122 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8 |  |
 | Lattice c | 0.8147 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
 | Lattice c | 0.80964 nm | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
 | Lattice c | 1.6367 nm | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
-| Lattice c | 0.8236 nm | 1730 ({'op': '\<', 'value_K': 1730.0}) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
+| Lattice c | 0.8236 nm | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

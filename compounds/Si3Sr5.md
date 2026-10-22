@@ -1,25 +1,22 @@
 # Si3Sr5: enthalpy of formation
 
-> Enthalpy of formation of Si3Sr5: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Si3Sr5: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Si3Sr5.html · Markdown: https://data.orchid-project.org/compounds/Si3Sr5.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 3, model 4, DFT 3); experimental median -43.8 kJ/mol-atom (n = 3); Materials Project -35.254 kJ/mol-atom (mp-aaaaabcs); OQMD -38.219 kJ/mol-atom (oqmd-24997).
+7 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 3); experimental median -43.8 kJ/mol-atom (n = 2); Materials Project -35.254 kJ/mol-atom (mp-aaaaabcs); OQMD -38.219 kJ/mol-atom (oqmd-24997).
 
 Systems: [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Si3Sr5 reported in the literature (10)
+Table: Enthalpy of formation of Si3Sr5 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -43.8 kJ/mol-atom | Sr5Si3 | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 10 |  |
 | -43.8 kJ/mol-atom ± 3.6 | Si3Sr5 | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4 |  |
-| -43.8 kJ/mol-atom ± 3.6 | Si3Sr5 | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4 |  |
 | -44.3 kJ/mol-atom | Si3Sr5 | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 6 |  |
-| -44.3 kJ/mol-atom | Si3Sr5 | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 6 |  |
-| -40.3 kJ/mol-atom | Si3Sr5 | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 5 |  |
 | -40.3 kJ/mol-atom | Si3Sr5 | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 5 |  |
 | -44.3 kJ/mol-atom | Sr5Si3 | 298 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009 | Table 2, p. 4, row 7 |  |
 | -40.3 kJ/mol-atom | Sr5Si3 | 298 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009 | Table 2, p. 4, row 8 |  |

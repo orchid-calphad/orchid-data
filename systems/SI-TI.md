@@ -149,13 +149,13 @@ Table: Invariant reactions reported in the literature for the Si–Ti system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2192.6 | Peritectic: Liquid + Si3Ti5 -> Si4Ti5 | Liquid: Ti 0.509; Si3Ti5: Ti 0.602; Si4Ti5: Ti 0.555 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 5 |  |
-| 1842.8 | Peritectic: Liquid + Si4Ti5 -> SiTi | Liquid: Ti 0.396; Si4Ti5: Ti 0.556; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 4 |  |
-| 1747.4 | Eutectic: Liquid -> Si2Ti + SiTi | Liquid: Ti 0.363; Si2Ti: Ti 0.333; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 2 |  |
-| 1613 | Eutectic: Liquid -> Si3Ti5 + bcc-A2 | Liquid: Ti 0.869; Si3Ti5: Ti 0.644; bcc-A2: Ti 0.951 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 7 |  |
-| 1604.3 | Eutectic: Liquid -> diamond + Si2Ti | Liquid: Ti 0.185; diamond: Ti 0; Si2Ti: Ti 0.333 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 1 |  |
-| 1443.2 | Peritectoid: Si3Ti5 + bcc-A2 -> SiTi3 | Si3Ti5: Ti 0.641; bcc-A2: Ti 0.963; SiTi3: Ti 0.75 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 8 |  |
-| 1139.4 | Eutectoid: bcc-A2 -> SiTi3 + hcp-A3 | bcc-A2: Ti 0.988; SiTi3: Ti 0.75; hcp-A3: Ti 0.995 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 9 |  |
+| 2192.6 | peritectic: Liquid + Si3Ti5 -> Si4Ti5 | Liquid: Ti 0.509; Si3Ti5: Ti 0.602; Si4Ti5: Ti 0.555 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 5 |  |
+| 1842.8 | peritectic: Liquid + Si4Ti5 -> SiTi | Liquid: Ti 0.396; Si4Ti5: Ti 0.556; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 4 |  |
+| 1747.4 | eutectic: Liquid -> Si2Ti + SiTi | Liquid: Ti 0.363; Si2Ti: Ti 0.333; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 2 |  |
+| 1613 | eutectic: Liquid -> Si3Ti5 + bcc-A2 | Liquid: Ti 0.869; Si3Ti5: Ti 0.644; bcc-A2: Ti 0.951 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 7 |  |
+| 1604.3 | eutectic: Liquid -> diamond + Si2Ti | Liquid: Ti 0.185; diamond: Ti 0; Si2Ti: Ti 0.333 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 1 |  |
+| 1443.2 | peritectoid: Si3Ti5 + bcc-A2 -> SiTi3 | Si3Ti5: Ti 0.641; bcc-A2: Ti 0.963; SiTi3: Ti 0.75 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 8 |  |
+| 1139.4 | eutectoid: bcc-A2 -> SiTi3 + hcp-A3 | bcc-A2: Ti 0.988; SiTi3: Ti 0.75; hcp-A3: Ti 0.995 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 9 |  |
 
 ## Other properties
 
@@ -165,8 +165,8 @@ Table: Phase transition, Si–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1757 K | 1757 | Congruent: Si2Ti -> Liquid; _Si2Ti: Ti 0.333; Liquid: Ti 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 3 |  |
-| Phase transition | 2394 K | 2394 | Congruent: Si3Ti5 -> Liquid; _Si3Ti5: Ti 0.625; Liquid: Ti 0.625_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 6 |  |
+| Phase transition | 1757 K | 1757 | congruent melting: Si2Ti -> Liquid; _Si2Ti: Ti 0.333; Liquid: Ti 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 3 |  |
+| Phase transition | 2394 K | 2394 | congruent melting: Si3Ti5 -> Liquid; _Si3Ti5: Ti 0.625; Liquid: Ti 0.625_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 6 |  |
 
 ## Sources
 

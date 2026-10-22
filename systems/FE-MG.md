@@ -50,10 +50,10 @@ Table: Invariant reactions reported in the literature for the Fe–Mg system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1791.4 | Monotectic: Liquid' -> bcc-A2 + Liquid" | Liquid': Mg 0.018; bcc-A2: Mg 0.008; Liquid": Mg 0.987 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 1 |  |
-| 1661.6 | Degenerate: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.992; bcc-A2: Mg 0.005; fcc-A1: Mg 0.005 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 2 |  |
-| 1183.4 | Degenerate: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.999; bcc-A2: Mg 0.001; fcc-A1: Mg 0.001 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 3 |  |
-| 922.9 | Degenerate: Liquid" +bcc-A2 -> hcp-A3 | Liquid": Mg 1; bcc-A2: Mg 0; hcp-A3: Mg 1 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 4 |  |
+| 1791.4 | monotectic: Liquid' -> bcc-A2 + Liquid" | Liquid': Mg 0.018; bcc-A2: Mg 0.008; Liquid": Mg 0.987 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 1 |  |
+| 1661.6 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.992; bcc-A2: Mg 0.005; fcc-A1: Mg 0.005 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 2 |  |
+| 1183.4 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.999; bcc-A2: Mg 0.001; fcc-A1: Mg 0.001 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 3 |  |
+| 922.9 | other: Liquid" +bcc-A2 -> hcp-A3 | Liquid": Mg 1; bcc-A2: Mg 0; hcp-A3: Mg 1 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 4 |  |
 
 ## Other properties
 

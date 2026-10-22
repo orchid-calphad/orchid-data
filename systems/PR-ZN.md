@@ -100,57 +100,57 @@ Table: Invariant reactions reported in the literature for the Pr–Zn system (52
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1251 | Congruent: L -> Pr2Zn17-H | L: Pr 0.105263, Zn 0.894737; Pr2Zn17-H: Pr 0.105263, Zn 0.894737 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 24 |  |
-| 1251 | Congruent: L -> Pr2Zn17-H | L: Pr 0.105263, Zn 0.894737; Pr2Zn17-H: Pr 0.105263, Zn 0.894737 | model | [1] Huang 2008 | Table 3, p. 4, row 25 |  |
-| 1229.15 | Peritectic: L + βPr2Zn17 ↔ Pr3Zn22 | L: Zn 0.86; βPr2Zn17: Zn 0.895; Pr3Zn22: Zn 0.88 | model | [2] Wang 2008 | Table 7, p. 6, row 15 |  |
-| 1229.15 | Peritectic: L + βPr2Zn17 ↔ Pr3Zn22 | L: Zn 0.856; βPr2Zn17: Zn 0.895; Pr3Zn22: Zn 0.88 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 14 |  |
-| 1229 | Peritectic: L + Pr2Zn17-H -> Pr3Zn22 | Pr2Zn17-H: Pr 0.105263, Zn 0.894737; Pr3Zn22: Pr 0.12, Zn 0.88 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 22 |  |
-| 1229 | Peritectic: L + Pr2Zn17-H -> Pr3Zn22 | L: Zn 0.858; Pr2Zn17-H: Pr 0.105263, Zn 0.894737; Pr3Zn22: Pr 0.12, Zn 0.88 | model | [1] Huang 2008 | Table 3, p. 4, row 23 |  |
-| 1172 | Congruent: L -> PrZn2 | L: Pr 0.333333, Zn 0.666667; PrZn2: Pr 0.333333, Zn 0.666667 | model | [1] Huang 2008 | Table 3, p. 4, row 13 |  |
-| 1171 | Congruent: L -> PrZn2 | L: Pr 0.333333, Zn 0.666667; PrZn2: Pr 0.333333, Zn 0.666667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 12 |  |
-| 1169 | Congruent: L -> PrZn2 | L: Pr 0.333333, Zn 0.666667; PrZn2: Pr 0.333333, Zn 0.666667 | experimental | [1] Huang 2008; _cites Michel 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990058-0) | Table 3, p. 4, row 11 |  |
-| 1164.15 | Peritectic: L + Pr3Zn22 ↔ Pr13Zn58 | L: Zn 0.815; Pr3Zn22: Zn 0.88; Pr13Zn58: Zn 0.817 | model | [2] Wang 2008 | Table 7, p. 6, row 13 |  |
-| 1164.15 | Peritectic: L + Pr3Zn22 ↔ Pr13Zn58 | L: Zn 0.8; Pr3Zn22: Zn 0.88; Pr13Zn58: Zn 0.817 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 12 |  |
-| 1164 | Peritectic: L + Pr3Zn22 -> Pr13Zn58 | Pr3Zn22: Pr 0.12, Zn 0.88; Pr13Zn58: Pr 0.183099, Zn 0.816901 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 20 |  |
-| 1163 | Peritectic: L + Pr3Zn22 -> Pr13Zn58 | L: Zn 0.81; Pr3Zn22: Pr 0.12, Zn 0.88; Pr13Zn58: Pr 0.183099, Zn 0.816901 | model | [1] Huang 2008 | Table 3, p. 4, row 21 |  |
-| 1155 | Congruent: L -> PrZn | L: Pr 0.5, Zn 0.5; PrZn: Pr 0.5, Zn 0.5 | model | [1] Huang 2008 | Table 3, p. 4, row 8 |  |
-| 1155 | Congruent: L -> PrZn | L: Pr 0.5, Zn 0.5; PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 7 |  |
-| 1129.15 | Peritectic: L + Pr13Zn58 ↔ Pr3Zn11 | L: Zn 0.771; Pr13Zn58: Zn 0.817; Pr3Zn11: Zn 0.786 | model | [2] Wang 2008 | Table 7, p. 6, row 11 |  |
-| 1128.15 | Peritectic: L + Pr13Zn58 ↔ Pr3Zn11 | L: Zn 0.766; Pr13Zn58: Zn 0.817; Pr3Zn11: Zn 0.786 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 10 |  |
-| 1128 | Peritectic: L + Pr13Zn58 -> Pr3Zn11 | Pr13Zn58: Pr 0.183099, Zn 0.816901; Pr3Zn11: Pr 0.214286, Zn 0.785714 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 18 |  |
-| 1123 | Peritectic: L + Pr13Zn58 -> Pr3Zn11 | L: Zn 0.765; Pr13Zn58: Pr 0.183099, Zn 0.816901; Pr3Zn11: Pr 0.214286, Zn 0.785714 | model | [1] Huang 2008 | Table 3, p. 4, row 19 |  |
-| 1107.15 | Peritectic: L + Pr3Zn11 ↔ PrZn3 | L: Zn 0.746; Pr3Zn11: Zn 0.786; PrZn3: Zn 0.75 | model | [2] Wang 2008 | Table 7, p. 6, row 9 |  |
-| 1106.15 | Peritectic: L + Pr3Zn11 ↔ PrZn3 | L: Zn 0.744; Pr3Zn11: Zn 0.786; PrZn3: Zn 0.75 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 8 |  |
-| 1106.15 | Eutectic: L ↔ PrZn + βPrZn2 | L: Zn 0.579; PrZn: Zn 0.5; βPrZn2: Zn 0.667 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 4 |  |
-| 1106 | Peritectic: L + Pr3Zn11 -> PrZn3 | Pr3Zn11: Pr 0.214286, Zn 0.785714; PrZn3: Pr 0.25, Zn 0.75 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 16 |  |
-| 1106 | Eutectic: L -> PrZn + PrZn2 | L: Zn 0.579; PrZn: Pr 0.5, Zn 0.5; PrZn2: Pr 0.333333, Zn 0.666667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 9 |  |
-| 1103.15 | Eutectic: L ↔ βPrZn2 + PrZn3 | L: Zn 0.739; βPrZn2: Zn 0.667; PrZn3: Zn 0.75 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 6 |  |
-| 1103.15 | Eutectic: L ↔ βPrZn2 + PrZn3 | L: Zn 0.732; βPrZn2: Zn 0.667; PrZn3: Zn 0.75 | model | [2] Wang 2008 | Table 7, p. 6, row 7 |  |
-| 1103 | Eutectic: L -> PrZn2 + PrZn3 | L: Zn 0.739; PrZn2: Pr 0.333333, Zn 0.666667; PrZn3: Pr 0.25, Zn 0.75 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 14 |  |
-| 1103 | Eutectic: L -> PrZn + PrZn2 | L: Zn 0.578; PrZn: Pr 0.5, Zn 0.5; PrZn2: Pr 0.333333, Zn 0.666667 | model | [1] Huang 2008 | Table 3, p. 4, row 10 |  |
-| 1102 | Eutectic: L -> PrZn2 + PrZn3 | L: Zn 0.742; PrZn2: Pr 0.333333, Zn 0.666667; PrZn3: Pr 0.25, Zn 0.75 | model | [1] Huang 2008 | Table 3, p. 4, row 15 |  |
-| 1102 | Peritectic: L + Pr3Zn11 -> PrZn3 | L: Zn 0.743; Pr3Zn11: Pr 0.214286, Zn 0.785714; PrZn3: Pr 0.25, Zn 0.75 | model | [1] Huang 2008 | Table 3, p. 4, row 17 |  |
-| 1095.15 | Eutectic: L ↔ PrZn + βPrZn2 | L: Zn 0.584; PrZn: Zn 0.5; βPrZn2: Zn 0.667 | model | [2] Wang 2008 | Table 7, p. 6, row 5 |  |
-| 1048 | Allotropic: Pr2Zn17-H -> Pr2Zn17-L | Pr2Zn17-H: Pr 0.105263, Zn 0.894737; Pr2Zn17-L: Pr 0.105263, Zn 0.894737 | model | [1] Huang 2008 | Table 3, p. 4, row 27 |  |
-| 1048 | Allotropic: Pr2Zn17-H -> Pr2Zn17-L | Pr2Zn17-H: Pr 0.105263, Zn 0.894737; Pr2Zn17-L: Pr 0.105263, Zn 0.894737 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 26 |  |
-| 1016.15 | Peritectic: L + Pr2Zn17 ↔ PrZn11 | L: Zn 0.895; Pr2Zn17: Zn 0.895; PrZn11: Zn 0.917 | model | [2] Wang 2008 | Table 7, p. 6, row 17 |  |
-| 1016.15 | Peritectic: L + Pr2Zn17 ↔ PrZn11 | L: Zn 0.895; Pr2Zn17: Zn 0.895; PrZn11: Zn 0.917 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 16 |  |
-| 1016 | Peritectic: L + Pr2Zn17-L -> PrZn11 | Pr2Zn17-L: Pr 0.105263, Zn 0.894737; PrZn11: Pr 0.083333, Zn 0.916667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 28 |  |
-| 1016 | Peritectic: L + Pr2Zn17-L -> PrZn11 | L: Zn 0.988; Pr2Zn17-L: Pr 0.105263, Zn 0.894737; PrZn11: Pr 0.083333, Zn 0.916667 | model | [1] Huang 2008 | Table 3, p. 4, row 29 |  |
-| 849.15 | Eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.225; PrZn: Zn 0.5 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 1 |  |
-| 849 | Eutectic: L -> bcc + PrZn | L: Zn 0.228; PrZn: Pr 0.5, Zn 0.5 | model | [1] Huang 2008 | Table 3, p. 4, row 3 |  |
-| 849 | Eutectic: L -> bcc + PrZn | L: Zn 0.225; PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 2 |  |
+| 1251 | congruent melting: L -> Pr2Zn17-H | L: Pr 0.105263, Zn 0.894737; Pr2Zn17-H: Pr 0.105263, Zn 0.894737 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 24 |  |
+| 1251 | congruent melting: L -> Pr2Zn17-H | L: Pr 0.105263, Zn 0.894737; Pr2Zn17-H: Pr 0.105263, Zn 0.894737 | model | [1] Huang 2008 | Table 3, p. 4, row 25 |  |
+| 1229.15 | peritectic: L + βPr2Zn17 ↔ Pr3Zn22 | L: Zn 0.86; βPr2Zn17: Zn 0.895; Pr3Zn22: Zn 0.88 | model | [2] Wang 2008 | Table 7, p. 6, row 15 |  |
+| 1229.15 | peritectic: L + βPr2Zn17 ↔ Pr3Zn22 | L: Zn 0.856; βPr2Zn17: Zn 0.895; Pr3Zn22: Zn 0.88 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 14 |  |
+| 1229 | peritectic: L + Pr2Zn17-H -> Pr3Zn22 | Pr2Zn17-H: Pr 0.105263, Zn 0.894737; Pr3Zn22: Pr 0.12, Zn 0.88 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 22 |  |
+| 1229 | peritectic: L + Pr2Zn17-H -> Pr3Zn22 | L: Zn 0.858; Pr2Zn17-H: Pr 0.105263, Zn 0.894737; Pr3Zn22: Pr 0.12, Zn 0.88 | model | [1] Huang 2008 | Table 3, p. 4, row 23 |  |
+| 1172 | congruent melting: L -> PrZn2 | L: Pr 0.333333, Zn 0.666667; PrZn2: Pr 0.333333, Zn 0.666667 | model | [1] Huang 2008 | Table 3, p. 4, row 13 |  |
+| 1171 | congruent melting: L -> PrZn2 | L: Pr 0.333333, Zn 0.666667; PrZn2: Pr 0.333333, Zn 0.666667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 12 |  |
+| 1169 | congruent melting: L -> PrZn2 | L: Pr 0.333333, Zn 0.666667; PrZn2: Pr 0.333333, Zn 0.666667 | experimental | [1] Huang 2008; _cites Michel 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990058-0) | Table 3, p. 4, row 11 |  |
+| 1164.15 | peritectic: L + Pr3Zn22 ↔ Pr13Zn58 | L: Zn 0.815; Pr3Zn22: Zn 0.88; Pr13Zn58: Zn 0.817 | model | [2] Wang 2008 | Table 7, p. 6, row 13 |  |
+| 1164.15 | peritectic: L + Pr3Zn22 ↔ Pr13Zn58 | L: Zn 0.8; Pr3Zn22: Zn 0.88; Pr13Zn58: Zn 0.817 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 12 |  |
+| 1164 | peritectic: L + Pr3Zn22 -> Pr13Zn58 | Pr3Zn22: Pr 0.12, Zn 0.88; Pr13Zn58: Pr 0.183099, Zn 0.816901 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 20 |  |
+| 1163 | peritectic: L + Pr3Zn22 -> Pr13Zn58 | L: Zn 0.81; Pr3Zn22: Pr 0.12, Zn 0.88; Pr13Zn58: Pr 0.183099, Zn 0.816901 | model | [1] Huang 2008 | Table 3, p. 4, row 21 |  |
+| 1155 | congruent melting: L -> PrZn | L: Pr 0.5, Zn 0.5; PrZn: Pr 0.5, Zn 0.5 | model | [1] Huang 2008 | Table 3, p. 4, row 8 |  |
+| 1155 | congruent melting: L -> PrZn | L: Pr 0.5, Zn 0.5; PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 7 |  |
+| 1129.15 | peritectic: L + Pr13Zn58 ↔ Pr3Zn11 | L: Zn 0.771; Pr13Zn58: Zn 0.817; Pr3Zn11: Zn 0.786 | model | [2] Wang 2008 | Table 7, p. 6, row 11 |  |
+| 1128.15 | peritectic: L + Pr13Zn58 ↔ Pr3Zn11 | L: Zn 0.766; Pr13Zn58: Zn 0.817; Pr3Zn11: Zn 0.786 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 10 |  |
+| 1128 | peritectic: L + Pr13Zn58 -> Pr3Zn11 | Pr13Zn58: Pr 0.183099, Zn 0.816901; Pr3Zn11: Pr 0.214286, Zn 0.785714 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 18 |  |
+| 1123 | peritectic: L + Pr13Zn58 -> Pr3Zn11 | L: Zn 0.765; Pr13Zn58: Pr 0.183099, Zn 0.816901; Pr3Zn11: Pr 0.214286, Zn 0.785714 | model | [1] Huang 2008 | Table 3, p. 4, row 19 |  |
+| 1107.15 | peritectic: L + Pr3Zn11 ↔ PrZn3 | L: Zn 0.746; Pr3Zn11: Zn 0.786; PrZn3: Zn 0.75 | model | [2] Wang 2008 | Table 7, p. 6, row 9 |  |
+| 1106.15 | peritectic: L + Pr3Zn11 ↔ PrZn3 | L: Zn 0.744; Pr3Zn11: Zn 0.786; PrZn3: Zn 0.75 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 8 |  |
+| 1106.15 | eutectic: L ↔ PrZn + βPrZn2 | L: Zn 0.579; PrZn: Zn 0.5; βPrZn2: Zn 0.667 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 4 |  |
+| 1106 | peritectic: L + Pr3Zn11 -> PrZn3 | Pr3Zn11: Pr 0.214286, Zn 0.785714; PrZn3: Pr 0.25, Zn 0.75 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 16 |  |
+| 1106 | eutectic: L -> PrZn + PrZn2 | L: Zn 0.579; PrZn: Pr 0.5, Zn 0.5; PrZn2: Pr 0.333333, Zn 0.666667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 9 |  |
+| 1103.15 | eutectic: L ↔ βPrZn2 + PrZn3 | L: Zn 0.739; βPrZn2: Zn 0.667; PrZn3: Zn 0.75 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 6 |  |
+| 1103.15 | eutectic: L ↔ βPrZn2 + PrZn3 | L: Zn 0.732; βPrZn2: Zn 0.667; PrZn3: Zn 0.75 | model | [2] Wang 2008 | Table 7, p. 6, row 7 |  |
+| 1103 | eutectic: L -> PrZn2 + PrZn3 | L: Zn 0.739; PrZn2: Pr 0.333333, Zn 0.666667; PrZn3: Pr 0.25, Zn 0.75 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 14 |  |
+| 1103 | eutectic: L -> PrZn + PrZn2 | L: Zn 0.578; PrZn: Pr 0.5, Zn 0.5; PrZn2: Pr 0.333333, Zn 0.666667 | model | [1] Huang 2008 | Table 3, p. 4, row 10 |  |
+| 1102 | eutectic: L -> PrZn2 + PrZn3 | L: Zn 0.742; PrZn2: Pr 0.333333, Zn 0.666667; PrZn3: Pr 0.25, Zn 0.75 | model | [1] Huang 2008 | Table 3, p. 4, row 15 |  |
+| 1102 | peritectic: L + Pr3Zn11 -> PrZn3 | L: Zn 0.743; Pr3Zn11: Pr 0.214286, Zn 0.785714; PrZn3: Pr 0.25, Zn 0.75 | model | [1] Huang 2008 | Table 3, p. 4, row 17 |  |
+| 1095.15 | eutectic: L ↔ PrZn + βPrZn2 | L: Zn 0.584; PrZn: Zn 0.5; βPrZn2: Zn 0.667 | model | [2] Wang 2008 | Table 7, p. 6, row 5 |  |
+| 1048 | polymorphic: Pr2Zn17-H -> Pr2Zn17-L | Pr2Zn17-H: Pr 0.105263, Zn 0.894737; Pr2Zn17-L: Pr 0.105263, Zn 0.894737 | model | [1] Huang 2008 | Table 3, p. 4, row 27 |  |
+| 1048 | polymorphic: Pr2Zn17-H -> Pr2Zn17-L | Pr2Zn17-H: Pr 0.105263, Zn 0.894737; Pr2Zn17-L: Pr 0.105263, Zn 0.894737 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 26 |  |
+| 1016.15 | peritectic: L + Pr2Zn17 ↔ PrZn11 | L: Zn 0.895; Pr2Zn17: Zn 0.895; PrZn11: Zn 0.917 | model | [2] Wang 2008 | Table 7, p. 6, row 17 |  |
+| 1016.15 | peritectic: L + Pr2Zn17 ↔ PrZn11 | L: Zn 0.895; Pr2Zn17: Zn 0.895; PrZn11: Zn 0.917 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 16 |  |
+| 1016 | peritectic: L + Pr2Zn17-L -> PrZn11 | Pr2Zn17-L: Pr 0.105263, Zn 0.894737; PrZn11: Pr 0.083333, Zn 0.916667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 28 |  |
+| 1016 | peritectic: L + Pr2Zn17-L -> PrZn11 | L: Zn 0.988; Pr2Zn17-L: Pr 0.105263, Zn 0.894737; PrZn11: Pr 0.083333, Zn 0.916667 | model | [1] Huang 2008 | Table 3, p. 4, row 29 |  |
+| 849.15 | eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.225; PrZn: Zn 0.5 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 1 |  |
+| 849 | eutectic: L -> bcc + PrZn | L: Zn 0.228; PrZn: Pr 0.5, Zn 0.5 | model | [1] Huang 2008 | Table 3, p. 4, row 3 |  |
+| 849 | eutectic: L -> bcc + PrZn | L: Zn 0.225; PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 2 |  |
 | 849 | eutectic |  | experimental | [1] Huang 2008 | p. 1 | “They found three eutectics, five peritectics, one eutectoid reactions and the maximum solid solubility of Zn in bcc A2(␤Pr) to be 11 at.% Zn at the eutectic temperature of 849 K in this system.” |
-| 845.15 | Eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.217; bcc_A2: Zn 0.125; PrZn: Zn 0.5 | model | [2] Wang 2008 | Table 7, p. 6, row 3 |  |
-| 843.15 | Eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.215; bcc_A2: Zn 0.14; PrZn: Zn 0.5 | experimental | [2] Wang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 7, p. 6, row 2 |  |
-| 843 | Eutectic: L -> bcc + PrZn | L: Zn 0.215; PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 3, p. 4, row 1 |  |
-| 831.15 | Eutectoid: dhcp + PrZn ↔ bcc_A2 | PrZn: Zn 0.5; bcc_A2: Zn 0.106 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 18 |  |
-| 831 | Eutectoid: Bcc -> dhcp + PrZn | PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 5 |  |
-| 831 | Eutectoid: Bcc -> dhcp + PrZn | PrZn: Pr 0.5, Zn 0.5 | model | [1] Huang 2008 | Table 3, p. 4, row 6 |  |
-| 823.15 | Eutectoid: dhcp + PrZn ↔ bcc_A2 | dhcp: Zn 0.015; PrZn: Zn 0.5; bcc_A2: Zn 0.115 | model | [2] Wang 2008 | Table 7, p. 6, row 20 |  |
-| 823.15 | Eutectoid: dhcp + PrZn ↔ bcc_A2 | dhcp: Zn 0.02; PrZn: Zn 0.5; bcc_A2: Zn 0.11 | experimental | [2] Wang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 7, p. 6, row 19 |  |
-| 823 | Eutectoid: Bcc -> dhcp + PrZn | PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 3, p. 4, row 4 |  |
-| 693 | Eutectic: L -> hcp + PrZn11 | L: Zn 0.01; PrZn11: Pr 0.083333, Zn 0.916667 | model | [1] Huang 2008 | Table 3, p. 4, row 31 |  |
+| 845.15 | eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.217; bcc_A2: Zn 0.125; PrZn: Zn 0.5 | model | [2] Wang 2008 | Table 7, p. 6, row 3 |  |
+| 843.15 | eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.215; bcc_A2: Zn 0.14; PrZn: Zn 0.5 | experimental | [2] Wang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 7, p. 6, row 2 |  |
+| 843 | eutectic: L -> bcc + PrZn | L: Zn 0.215; PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 3, p. 4, row 1 |  |
+| 831.15 | eutectoid: dhcp + PrZn ↔ bcc_A2 | PrZn: Zn 0.5; bcc_A2: Zn 0.106 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 18 |  |
+| 831 | eutectoid: Bcc -> dhcp + PrZn | PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 5 |  |
+| 831 | eutectoid: Bcc -> dhcp + PrZn | PrZn: Pr 0.5, Zn 0.5 | model | [1] Huang 2008 | Table 3, p. 4, row 6 |  |
+| 823.15 | eutectoid: dhcp + PrZn ↔ bcc_A2 | dhcp: Zn 0.015; PrZn: Zn 0.5; bcc_A2: Zn 0.115 | model | [2] Wang 2008 | Table 7, p. 6, row 20 |  |
+| 823.15 | eutectoid: dhcp + PrZn ↔ bcc_A2 | dhcp: Zn 0.02; PrZn: Zn 0.5; bcc_A2: Zn 0.11 | experimental | [2] Wang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 7, p. 6, row 19 |  |
+| 823 | eutectoid: Bcc -> dhcp + PrZn | PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 3, p. 4, row 4 |  |
+| 693 | eutectic: L -> hcp + PrZn11 | L: Zn 0.01; PrZn11: Pr 0.083333, Zn 0.916667 | model | [1] Huang 2008 | Table 3, p. 4, row 31 |  |
 | 693 | L -> hcp + PrZn11 | PrZn11: Pr 0.083333, Zn 0.916667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 30 |  |
 
 ## Other properties
@@ -161,21 +161,21 @@ Table: Phase transition, Pr–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 823.15 K | 823.15 | Polymorphic-transformation: βPrZn2 ↔ αPrZn2; _βPrZn2: Zn 0.666667; αPrZn2: Zn 0.666667_ | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 21 |  |
-| Phase transition | 823.15 K | 823.15 | Polymorphic-transformation: βPrZn2 ↔ αPrZn2; _βPrZn2: Zn 0.666667; αPrZn2: Zn 0.666667_ | model | [2] Wang 2008 | Table 7, p. 6, row 22 |  |
+| Phase transition | 823.15 K | 823.15 | polymorphic: βPrZn2 ↔ αPrZn2; _βPrZn2: Zn 0.666667; αPrZn2: Zn 0.666667_ | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 21 |  |
+| Phase transition | 823.15 K | 823.15 | polymorphic: βPrZn2 ↔ αPrZn2; _βPrZn2: Zn 0.666667; αPrZn2: Zn 0.666667_ | model | [2] Wang 2008 | Table 7, p. 6, row 22 |  |
 | Phase transition | 1048 K | 1048 |  | experimental | [1] Huang 2008 | p. 1 | “Pr2 Zn17 transforms from low-temperature hexagonal structure (Th2 Ni17 -type) to high-temperature Rhombohedral structure (Th2 Zn17 -type) at 1048 K.” |
-| Phase transition | 1048.15 K | 1048.15 | Polymorphic-transformation: βPr2Zn17 ↔ αPr2Zn17; _βPr2Zn17: Zn 0.894737; αPr2Zn17: Zn 0.894737_ | model | [2] Wang 2008 | Table 7, p. 6, row 24 |  |
-| Phase transition | 1048.15 K | 1048.15 | Polymorphic-transformation: βPr2Zn17 ↔ αPr2Zn17; _βPr2Zn17: Zn 0.894737; αPr2Zn17: Zn 0.894737_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 23 |  |
-| Phase transition | 1155 K | 1155 | congruent | experimental | [1] Huang 2008 | p. 1 | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
-| Phase transition | 1155.15 K | 1155.15 | Congruent: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 25 |  |
-| Phase transition | 1157.15 K | 1157.15 | Congruent: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | model | [2] Wang 2008 | Table 7, p. 6, row 27 |  |
-| Phase transition | 1171 K | 1171 | congruent | experimental | [1] Huang 2008 | p. 1 | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
-| Phase transition | 1171.15 K | 1171.15 | Congruent: L ↔ PrZn2; _L: Zn 0.666667; PrZn2: Zn 0.666667_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 28 |  |
-| Phase transition | 1171.15 K | 1171.15 | Congruent: L ↔ PrZn2; _L: Zn 0.666667; PrZn2: Zn 0.666667_ | model | [2] Wang 2008 | Table 7, p. 6, row 29 |  |
-| Phase transition | 1173.15 K | 1173.15 | Congruent: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | experimental | [2] Wang 2008; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 7, p. 6, row 26 |  |
-| Phase transition | 1251 K | 1251 | congruent | experimental | [1] Huang 2008 | p. 1 | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
-| Phase transition | 1251.15 K | 1251.15 | Congruent: L ↔ Pr2Zn17 | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 30 |  |
-| Phase transition | 1251.15 K | 1251.15 | Congruent: L ↔ Pr2Zn17 | model | [2] Wang 2008 | Table 7, p. 6, row 31 |  |
+| Phase transition | 1048.15 K | 1048.15 | polymorphic: βPr2Zn17 ↔ αPr2Zn17; _βPr2Zn17: Zn 0.894737; αPr2Zn17: Zn 0.894737_ | model | [2] Wang 2008 | Table 7, p. 6, row 24 |  |
+| Phase transition | 1048.15 K | 1048.15 | polymorphic: βPr2Zn17 ↔ αPr2Zn17; _βPr2Zn17: Zn 0.894737; αPr2Zn17: Zn 0.894737_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 23 |  |
+| Phase transition | 1155 K | 1155 | congruent transformation | experimental | [1] Huang 2008 | p. 1 | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
+| Phase transition | 1155.15 K | 1155.15 | congruent melting: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 25 |  |
+| Phase transition | 1157.15 K | 1157.15 | congruent melting: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | model | [2] Wang 2008 | Table 7, p. 6, row 27 |  |
+| Phase transition | 1171 K | 1171 | congruent transformation | experimental | [1] Huang 2008 | p. 1 | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
+| Phase transition | 1171.15 K | 1171.15 | congruent melting: L ↔ PrZn2; _L: Zn 0.666667; PrZn2: Zn 0.666667_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 28 |  |
+| Phase transition | 1171.15 K | 1171.15 | congruent melting: L ↔ PrZn2; _L: Zn 0.666667; PrZn2: Zn 0.666667_ | model | [2] Wang 2008 | Table 7, p. 6, row 29 |  |
+| Phase transition | 1173.15 K | 1173.15 | congruent melting: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | experimental | [2] Wang 2008; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 7, p. 6, row 26 |  |
+| Phase transition | 1251 K | 1251 | congruent transformation | experimental | [1] Huang 2008 | p. 1 | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
+| Phase transition | 1251.15 K | 1251.15 | congruent melting: L ↔ Pr2Zn17 | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 30 |  |
+| Phase transition | 1251.15 K | 1251.15 | congruent melting: L ↔ Pr2Zn17 | model | [2] Wang 2008 | Table 7, p. 6, row 31 |  |
 
 ### Mixing / partial (17)
 
@@ -183,23 +183,23 @@ Table: Mixing / partial, Pr–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28220 J/mol-atom | 773.15 | Pr13Zn58; _alloy: Zn 0.816901_ | model | [2] Wang 2008 | Table 8, p. 6, row 9 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28150 J/mol-atom | 773.15 | Pr13Zn58; _alloy: Zn 0.816901_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 10 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29330 J/mol-atom | 773.15 | Pr3Zn11; _alloy: Zn 0.785714_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 8 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29410 J/mol-atom | 773.15 | Pr3Zn11; _alloy: Zn 0.785714_ | model | [2] Wang 2008 | Table 8, p. 6, row 7 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24580 J/mol-atom | 773.15 | Pr3Zn22; _alloy: Zn 0.88_ | model | [2] Wang 2008 | Table 8, p. 6, row 11 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24280 J/mol-atom | 773.15 | Pr3Zn22; _alloy: Zn 0.88_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 12 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29880 J/mol-atom | 773.15 | PrZn; _alloy: Zn 0.5_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 2 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29900 J/mol-atom | 773.15 | PrZn; _alloy: Zn 0.5_ | model | [2] Wang 2008 | Table 8, p. 6, row 1 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19250 J/mol-atom | 773.15 | PrZn11; _alloy: Zn 0.916667_ | model | [2] Wang 2008 | Table 8, p. 6, row 15 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -18250 J/mol-atom | 773.15 | PrZn11; _alloy: Zn 0.916667_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 8, p. 6, row 17 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -18910 J/mol-atom | 773.15 | PrZn11; _alloy: Zn 0.916667_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 16 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30400 J/mol-atom | 773.15 | PrZn3; _alloy: Zn 0.75_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30500 J/mol-atom | 773.15 | PrZn3; _alloy: Zn 0.75_ | model | [2] Wang 2008 | Table 8, p. 6, row 5 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22920 J/mol-atom | 773.15 | αPr2Zn17; _alloy: Zn 0.894737_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 14 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23340 J/mol-atom | 773.15 | αPr2Zn17; _alloy: Zn 0.894737_ | model | [2] Wang 2008 | Table 8, p. 6, row 13 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32410 J/mol-atom | 773.15 | αPrZn2; _alloy: Zn 0.666667_ | model | [2] Wang 2008 | Table 8, p. 6, row 3 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32540 J/mol-atom | 773.15 | αPrZn2; _alloy: Zn 0.666667_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 4 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.22 kJ/mol-atom | 773.15 | Pr13Zn58; _alloy: Zn 0.816901_ | model | [2] Wang 2008 | Table 8, p. 6, row 9 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.15 kJ/mol-atom | 773.15 | Pr13Zn58; _alloy: Zn 0.816901_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 10 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.33 kJ/mol-atom | 773.15 | Pr3Zn11; _alloy: Zn 0.785714_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 8 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.41 kJ/mol-atom | 773.15 | Pr3Zn11; _alloy: Zn 0.785714_ | model | [2] Wang 2008 | Table 8, p. 6, row 7 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.58 kJ/mol-atom | 773.15 | Pr3Zn22; _alloy: Zn 0.88_ | model | [2] Wang 2008 | Table 8, p. 6, row 11 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.28 kJ/mol-atom | 773.15 | Pr3Zn22; _alloy: Zn 0.88_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 12 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.88 kJ/mol-atom | 773.15 | PrZn; _alloy: Zn 0.5_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 2 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.9 kJ/mol-atom | 773.15 | PrZn; _alloy: Zn 0.5_ | model | [2] Wang 2008 | Table 8, p. 6, row 1 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19.25 kJ/mol-atom | 773.15 | PrZn11; _alloy: Zn 0.916667_ | model | [2] Wang 2008 | Table 8, p. 6, row 15 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -18.25 kJ/mol-atom | 773.15 | PrZn11; _alloy: Zn 0.916667_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 8, p. 6, row 17 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -18.91 kJ/mol-atom | 773.15 | PrZn11; _alloy: Zn 0.916667_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 16 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.4 kJ/mol-atom | 773.15 | PrZn3; _alloy: Zn 0.75_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 6 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.5 kJ/mol-atom | 773.15 | PrZn3; _alloy: Zn 0.75_ | model | [2] Wang 2008 | Table 8, p. 6, row 5 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22.92 kJ/mol-atom | 773.15 | αPr2Zn17; _alloy: Zn 0.894737_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 14 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23.34 kJ/mol-atom | 773.15 | αPr2Zn17; _alloy: Zn 0.894737_ | model | [2] Wang 2008 | Table 8, p. 6, row 13 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32.41 kJ/mol-atom | 773.15 | αPrZn2; _alloy: Zn 0.666667_ | model | [2] Wang 2008 | Table 8, p. 6, row 3 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32.54 kJ/mol-atom | 773.15 | αPrZn2; _alloy: Zn 0.666667_ | experimental | [2] Wang 2008; _cites Chiotti 1971_ [doi](https://doi.org/10.1007/bf02664226) | Table 8, p. 6, row 4 |  |
 
 ## Sources
 

@@ -28,10 +28,10 @@ Table: Phase transition, Fe–Mn–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1563 K | 1563 | liquidus | model | [1] Miettinen 1998 | p. 8 | “As an example, at a ratio of w&wre=0.0873 and silicon content of 5 wt pet, the liquidus temperature raised with 6K, from 1675K to 1681K, but at a higher silicon content of 10 wt pet, it raised only with lK, from 1563K to 1564K.” |
-| Phase transition | 1564 K | 1564 | liquidus | model | [1] Miettinen 1998 | p. 8 | “As an example, at a ratio of w&wre=0.0873 and silicon content of 5 wt pet, the liquidus temperature raised with 6K, from 1675K to 1681K, but at a higher silicon content of 10 wt pet, it raised only with lK, from 1563K to 1564K.” |
-| Phase transition | 1675 K | 1675 | liquidus | model | [1] Miettinen 1998 | p. 8 | “As an example, at a ratio of w&wre=0.0873 and silicon content of 5 wt pet, the liquidus temperature raised with 6K, from 1675K to 1681K, but at a higher silicon content of 10 wt pet, it raised only with lK, from 1563K to 1564K.” |
-| Phase transition | 1681 K | 1681 | liquidus | model | [1] Miettinen 1998 | p. 8 | “As an example, at a ratio of w&wre=0.0873 and silicon content of 5 wt pet, the liquidus temperature raised with 6K, from 1675K to 1681K, but at a higher silicon content of 10 wt pet, it raised only with lK, from 1563K to 1564K.” |
+| Phase transition | 1563 K | 1563 | other | model | [1] Miettinen 1998 | p. 8 | “As an example, at a ratio of w&wre=0.0873 and silicon content of 5 wt pet, the liquidus temperature raised with 6K, from 1675K to 1681K, but at a higher silicon content of 10 wt pet, it raised only with lK, from 1563K to 1564K.” |
+| Phase transition | 1564 K | 1564 | other | model | [1] Miettinen 1998 | p. 8 | “As an example, at a ratio of w&wre=0.0873 and silicon content of 5 wt pet, the liquidus temperature raised with 6K, from 1675K to 1681K, but at a higher silicon content of 10 wt pet, it raised only with lK, from 1563K to 1564K.” |
+| Phase transition | 1675 K | 1675 | other | model | [1] Miettinen 1998 | p. 8 | “As an example, at a ratio of w&wre=0.0873 and silicon content of 5 wt pet, the liquidus temperature raised with 6K, from 1675K to 1681K, but at a higher silicon content of 10 wt pet, it raised only with lK, from 1563K to 1564K.” |
+| Phase transition | 1681 K | 1681 | other | model | [1] Miettinen 1998 | p. 8 | “As an example, at a ratio of w&wre=0.0873 and silicon content of 5 wt pet, the liquidus temperature raised with 6K, from 1675K to 1681K, but at a higher silicon content of 10 wt pet, it raised only with lK, from 1563K to 1564K.” |
 
 ## Sources
 

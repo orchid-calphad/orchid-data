@@ -68,7 +68,7 @@ Table: Phase transition, Gd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1800 K | 1800 | liquidus | experimental | [1] Mattern 2013 | p. 4 | “The liquidus line ranges from about 927 3 at% Gd for T 1⁄41500 K up to about 8073 at% Gd for T1⁄4 1800 K.” |
+| Phase transition | 1800 K | 1800 | other | experimental | [1] Mattern 2013 | p. 4 | “The liquidus line ranges from about 927 3 at% Gd for T 1⁄41500 K up to about 8073 at% Gd for T1⁄4 1800 K.” |
 
 ### Phase equilibrium (3)
 

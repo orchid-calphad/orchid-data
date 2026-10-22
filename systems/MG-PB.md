@@ -59,13 +59,13 @@ Table: Invariant reactions reported in the literature for the Mg–Pb system (39
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 824.1 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | model | [1] Zhang 2014 | Table 3, p. 6, row 6 |  |
-| 823.4 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | model | [1] Zhang 2014 | Table 3, p. 6, row 7 |  |
-| 823.15 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Dobovisek 1965_ | Table 3, p. 6, row 3 |  |
-| 823.15 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 5 |  |
-| 823.15 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Knappwost 1959_ | Table 3, p. 6, row 4 |  |
-| 822.65 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Grethe 1959_ | Table 3, p. 6, row 1 |  |
-| 822.15 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.35; Mg2Pb: Pb 0.35 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 2 |  |
+| 824.1 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | model | [1] Zhang 2014 | Table 3, p. 6, row 6 |  |
+| 823.4 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | model | [1] Zhang 2014 | Table 3, p. 6, row 7 |  |
+| 823.15 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Dobovisek 1965_ | Table 3, p. 6, row 3 |  |
+| 823.15 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 5 |  |
+| 823.15 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Knappwost 1959_ | Table 3, p. 6, row 4 |  |
+| 822.65 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Grethe 1959_ | Table 3, p. 6, row 1 |  |
+| 822.15 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.35; Mg2Pb: Pb 0.35 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 2 |  |
 | 748.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.2; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 13 |  |
 | 748.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.2; Mg2Pb: Pb 0.333; Phase 3: Pb 0.333 | experimental | [2] Dębski 2021; _cites Kurnakov 1933_ | Table 5, p. 7, row 7 |  |
 | 739.35 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0775 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 8 |  |
@@ -156,40 +156,40 @@ Table: Mixing / partial, Mg–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH_ | -4267 J/mol (basis unstated) ± 108 | 1012 | liquid; _alloy: Mg 0.25, Pb 0.75_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2331 J/mol (basis unstated) ± 57 | 1012 | liquid; _alloy: Mg 0.139, Pb 0.861_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -7900 J/mol (basis unstated) ± 194 | 1012 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8849 J/mol (basis unstated) ± 201 | 1012 | liquid; _alloy: Mg 0.6117, Pb 0.3883_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -7824 J/mol (basis unstated) ± 386 | 1012 | liquid; _alloy: Mg 0.75, Pb 0.25_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4739 J/mol (basis unstated) ± 128 | 1014 | liquid; _alloy: Mg 0.289, Pb 0.711_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8776 J/mol (basis unstated) ± 148 | 1014 | liquid; _alloy: Mg 0.5497, Pb 0.4503_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2877 J/mol (basis unstated) ± 35 | 1014 | liquid; _alloy: Mg 0.1765, Pb 0.8235_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6941 J/mol (basis unstated) ± 91 | 1014 | liquid; _alloy: Mg 0.4066, Pb 0.5934_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -7847 J/mol (basis unstated) ± 274 | 1014 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -5012 J/mol (basis unstated) ± 66 | 1014 | liquid; _alloy: Mg 0.3047, Pb 0.6953_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2789 J/mol (basis unstated) ± 66 | 1014 | liquid; _alloy: Mg 0.1666, Pb 0.8334_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8991 J/mol (basis unstated) ± 179 | 1014 | liquid; _alloy: Mg 0.5983, Pb 0.4017_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -7282 J/mol (basis unstated) ± 226 | 1014 | liquid; _alloy: Mg 0.4479, Pb 0.5521_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9067 J/mol (basis unstated) ± 210 | 1014 | liquid; _alloy: Mg 0.6402, Pb 0.3598_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6286 J/mol (basis unstated) ± 176 | 1014 | liquid; _alloy: Mg 0.3782, Pb 0.6218_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8227 J/mol (basis unstated) ± 118 | 1014 | liquid; _alloy: Mg 0.4889, Pb 0.5111_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 14 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -17354 J/mol | 1012 | liquid; _alloy: Mg 0.25, Pb 0.75_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 10 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -16764 J/mol | 1012 | liquid; _alloy: Mg 0.139, Pb 0.861_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 9 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -15800 J/mol | 1012 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 3 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -14465 J/mol | 1012 | liquid; _alloy: Mg 0.6117, Pb 0.3883_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 1 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -5970 J/mol | 1012 | liquid; _alloy: Mg 0.75, Pb 0.25_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 2 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -16060 J/mol | 1014 | liquid; _alloy: Mg 0.289, Pb 0.711_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 5 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -12845 J/mol | 1014 | liquid; _alloy: Mg 0.5497, Pb 0.4503_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 15 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -16299 J/mol | 1014 | liquid; _alloy: Mg 0.1765, Pb 0.8235_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 11 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -18180 J/mol | 1014 | liquid; _alloy: Mg 0.4066, Pb 0.5934_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 13 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -13273 J/mol | 1014 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 8 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -16590 J/mol | 1014 | liquid; _alloy: Mg 0.3047, Pb 0.6953_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 12 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -16740 J/mol | 1014 | liquid; _alloy: Mg 0.1666, Pb 0.8334_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 4 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -10765 J/mol | 1014 | liquid; _alloy: Mg 0.5983, Pb 0.4017_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 16 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -15168 J/mol | 1014 | liquid; _alloy: Mg 0.4479, Pb 0.5521_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 7 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -9718 J/mol | 1014 | liquid; _alloy: Mg 0.6402, Pb 0.3598_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 17 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -17077 J/mol | 1014 | liquid; _alloy: Mg 0.3782, Pb 0.6218_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 6 |  |
-| Partial enthalpy; _printed: Δ¯HMg_ | -16212 J/mol | 1014 | liquid; _alloy: Mg 0.4889, Pb 0.5111_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.267 kJ/mol (basis unstated) ± 0.108 | 1012 | liquid; _alloy: Mg 0.25, Pb 0.75_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.331 kJ/mol (basis unstated) ± 0.057 | 1012 | liquid; _alloy: Mg 0.139, Pb 0.861_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.9 kJ/mol (basis unstated) ± 0.194 | 1012 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.849 kJ/mol (basis unstated) ± 0.201 | 1012 | liquid; _alloy: Mg 0.6117, Pb 0.3883_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.824 kJ/mol (basis unstated) ± 0.386 | 1012 | liquid; _alloy: Mg 0.75, Pb 0.25_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.739 kJ/mol (basis unstated) ± 0.128 | 1014 | liquid; _alloy: Mg 0.289, Pb 0.711_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.776 kJ/mol (basis unstated) ± 0.148 | 1014 | liquid; _alloy: Mg 0.5497, Pb 0.4503_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.877 kJ/mol (basis unstated) ± 0.035 | 1014 | liquid; _alloy: Mg 0.1765, Pb 0.8235_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.941 kJ/mol (basis unstated) ± 0.091 | 1014 | liquid; _alloy: Mg 0.4066, Pb 0.5934_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.847 kJ/mol (basis unstated) ± 0.274 | 1014 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.012 kJ/mol (basis unstated) ± 0.066 | 1014 | liquid; _alloy: Mg 0.3047, Pb 0.6953_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.789 kJ/mol (basis unstated) ± 0.066 | 1014 | liquid; _alloy: Mg 0.1666, Pb 0.8334_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.991 kJ/mol (basis unstated) ± 0.179 | 1014 | liquid; _alloy: Mg 0.5983, Pb 0.4017_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.282 kJ/mol (basis unstated) ± 0.226 | 1014 | liquid; _alloy: Mg 0.4479, Pb 0.5521_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.067 kJ/mol (basis unstated) ± 0.21 | 1014 | liquid; _alloy: Mg 0.6402, Pb 0.3598_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.286 kJ/mol (basis unstated) ± 0.176 | 1014 | liquid; _alloy: Mg 0.3782, Pb 0.6218_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.227 kJ/mol (basis unstated) ± 0.118 | 1014 | liquid; _alloy: Mg 0.4889, Pb 0.5111_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 14 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -17.354 kJ/mol (basis unstated) | 1012 | liquid; _alloy: Mg 0.25, Pb 0.75_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 10 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16.764 kJ/mol (basis unstated) | 1012 | liquid; _alloy: Mg 0.139, Pb 0.861_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 9 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -15.8 kJ/mol (basis unstated) | 1012 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 3 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -14.465 kJ/mol (basis unstated) | 1012 | liquid; _alloy: Mg 0.6117, Pb 0.3883_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 1 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -5.97 kJ/mol (basis unstated) | 1012 | liquid; _alloy: Mg 0.75, Pb 0.25_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 2 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16.06 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.289, Pb 0.711_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 5 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -12.845 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.5497, Pb 0.4503_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 15 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16.299 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.1765, Pb 0.8235_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 11 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -18.18 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.4066, Pb 0.5934_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 13 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -13.273 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 8 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16.59 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.3047, Pb 0.6953_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 12 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16.74 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.1666, Pb 0.8334_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 4 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -10.765 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.5983, Pb 0.4017_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 16 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -15.168 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.4479, Pb 0.5521_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 7 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -9.718 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.6402, Pb 0.3598_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 17 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -17.077 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.3782, Pb 0.6218_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 6 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16.212 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.4889, Pb 0.5111_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 14 |  |
 
 ### Crystal structure (20)
 

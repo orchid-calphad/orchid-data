@@ -1,23 +1,21 @@
 # GaGd: enthalpy of formation
 
-> Enthalpy of formation of GaGd: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of GaGd: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/GaGd.html · Markdown: https://data.orchid-project.org/compounds/GaGd.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -60.894 kJ/mol-atom (mp-aaaabecv); OQMD -60.055 kJ/mol-atom (oqmd-19090).
+4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -60.894 kJ/mol-atom (mp-aaaabecv); OQMD -60.055 kJ/mol-atom (oqmd-19090).
 
 Systems: [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) · [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of GaGd reported in the literature (6)
+Table: Enthalpy of formation of GaGd reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -72.65 kJ/mol-atom | GaGd | 298 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 23 |  |
 | -72.65 kJ/mol-atom | GaGd |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 7 |  |
-| -72.65 kJ/mol-atom | GaGd |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 7 |  |
-| -70 kJ/mol-atom | GaGd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Boukideur 2020 | Table 4, p. 4, row 8 |  |
 | -70 kJ/mol-atom | GaGd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Boukideur 2020 | Table 4, p. 4, row 8 |  |
 | -61.701 kJ/mol-atom | GaGd | 298 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 24 |  |
 

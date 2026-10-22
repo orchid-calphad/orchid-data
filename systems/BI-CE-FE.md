@@ -26,20 +26,20 @@ Table: Invariant reactions reported in the literature for the Bi–Ce–Fe syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2191.69 | U: Liquid(1#) + Ce4Bi3 = Liquid(2#) + CeBi |  | model | [1] Li 2012 | Table 4, p. 5, row 1 |  |
-| 1891.83 | U: Liquid(1#) + Ce4Bi3 = CeBi + BCC_A2 |  | model | [1] Li 2012 | Table 4, p. 5, row 2 |  |
-| 1809.35 | U: Liquid(1#) + Liquid(2#) = BCC_A2 + CeBi |  | model | [1] Li 2012 | Table 4, p. 5, row 3 |  |
-| 1672.96 | U: Liquid + BCC_A2 = Ce4Bi3 + FCC_A1 |  | model | [1] Li 2012 | Table 4, p. 5, row 4 |  |
-| 1667.28 | P: Liquid + BCC_A2 + CeBi = FCC_A1 |  | model | [1] Li 2012 | Table 4, p. 5, row 5 |  |
-| 1399.7 | U: Liquid + Ce4Bi3 = Ce5Bi3 + FCC_A1 |  | model | [1] Li 2012 | Table 4, p. 5, row 6 |  |
-| 1300.55 | U: Liquid + FCC_A1 = Ce2Fe17 + Ce5Bi3 |  | model | [1] Li 2012 | Table 4, p. 5, row 7 |  |
-| 1213.91 | U: Liquid + Ce2Fe17 = Ce5Bi3 + CeFe2 |  | model | [1] Li 2012 | Table 4, p. 5, row 8 |  |
-| 1183.49 | P: Liquid + CeBi + FCC_A1 = BCC_A2 |  | model | [1] Li 2012 | Table 4, p. 5, row 9 |  |
-| 1183.09 | U: Liquid + CeBi = BCC_A2 + CeBi2 |  | model | [1] Li 2012 | Table 4, p. 5, row 10 |  |
-| 1176.75 | U: Liquid + Ce5Bi3 = Ce2Bi + CeFe2 |  | model | [1] Li 2012 | Table 4, p. 5, row 11 |  |
-| 975.63 | P: Liquid + Ce2Bi + FCC_A1 = BCC_A2 |  | model | [1] Li 2012 | Table 4, p. 5, row 12 |  |
-| 867.98 | E: Liquid = Ce2Bi + CeFe2 + FCC_A1 |  | model | [1] Li 2012 | Table 4, p. 5, row 13 |  |
-| 544.58 | U: Liquid + BCC_A2 = CeBi2 + Rhombo_A7 |  | model | [1] Li 2012 | Table 4, p. 5, row 14 |  |
+| 2191.69 | quasi-peritectic: Liquid(1#) + Ce4Bi3 = Liquid(2#) + CeBi |  | model | [1] Li 2012 | Table 4, p. 5, row 1 |  |
+| 1891.83 | quasi-peritectic: Liquid(1#) + Ce4Bi3 = CeBi + BCC_A2 |  | model | [1] Li 2012 | Table 4, p. 5, row 2 |  |
+| 1809.35 | quasi-peritectic: Liquid(1#) + Liquid(2#) = BCC_A2 + CeBi |  | model | [1] Li 2012 | Table 4, p. 5, row 3 |  |
+| 1672.96 | quasi-peritectic: Liquid + BCC_A2 = Ce4Bi3 + FCC_A1 |  | model | [1] Li 2012 | Table 4, p. 5, row 4 |  |
+| 1667.28 | peritectic: Liquid + BCC_A2 + CeBi = FCC_A1 |  | model | [1] Li 2012 | Table 4, p. 5, row 5 |  |
+| 1399.7 | quasi-peritectic: Liquid + Ce4Bi3 = Ce5Bi3 + FCC_A1 |  | model | [1] Li 2012 | Table 4, p. 5, row 6 |  |
+| 1300.55 | quasi-peritectic: Liquid + FCC_A1 = Ce2Fe17 + Ce5Bi3 |  | model | [1] Li 2012 | Table 4, p. 5, row 7 |  |
+| 1213.91 | quasi-peritectic: Liquid + Ce2Fe17 = Ce5Bi3 + CeFe2 |  | model | [1] Li 2012 | Table 4, p. 5, row 8 |  |
+| 1183.49 | peritectic: Liquid + CeBi + FCC_A1 = BCC_A2 |  | model | [1] Li 2012 | Table 4, p. 5, row 9 |  |
+| 1183.09 | quasi-peritectic: Liquid + CeBi = BCC_A2 + CeBi2 |  | model | [1] Li 2012 | Table 4, p. 5, row 10 |  |
+| 1176.75 | quasi-peritectic: Liquid + Ce5Bi3 = Ce2Bi + CeFe2 |  | model | [1] Li 2012 | Table 4, p. 5, row 11 |  |
+| 975.63 | peritectic: Liquid + Ce2Bi + FCC_A1 = BCC_A2 |  | model | [1] Li 2012 | Table 4, p. 5, row 12 |  |
+| 867.98 | eutectic: Liquid = Ce2Bi + CeFe2 + FCC_A1 |  | model | [1] Li 2012 | Table 4, p. 5, row 13 |  |
+| 544.58 | quasi-peritectic: Liquid + BCC_A2 = CeBi2 + Rhombo_A7 |  | model | [1] Li 2012 | Table 4, p. 5, row 14 |  |
 
 ## Sources
 

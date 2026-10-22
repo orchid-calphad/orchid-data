@@ -27,15 +27,15 @@ Table: Invariant reactions reported in the literature for the B–C–Si system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2526.43 | U: Liquid + (C) -> SiC + B4C |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 4 |  |
-| 2526.43 | U: Liquid + (C) -> SiC + B4C |  | model | [1] Chen 2009 | Table 5, p. 5, row 3 |  |
-| 2288.5 | U: Liquid + (B) -> B4C + SiBn |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 8 |  |
-| 2288.5 | U: Liquid + (B) -> B4C + SiBn |  | model | [1] Chen 2009 | Table 5, p. 5, row 7 |  |
-| 2120.89 | U: Liquid + SiBn -> B4C + SiB6 |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 6 |  |
-| 2120.89 | U: Liquid + SiBn -> B4C + SiB6 |  | model | [1] Chen 2009 | Table 5, p. 5, row 5 |  |
-| 1649.97 | U: Liquid + B4C -> SiB6 + SiC |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 10 |  |
-| 1649.97 | U: Liquid + B4C -> SiB6 + SiC |  | model | [1] Chen 2009 | Table 5, p. 5, row 9 |  |
-| 1635.39 | E: Liquid -> SiC + SiB6 + (Si) |  | model | [1] Chen 2009 | Table 5, p. 5, row 1 |  |
+| 2526.43 | quasi-peritectic: Liquid + (C) -> SiC + B4C |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 4 |  |
+| 2526.43 | quasi-peritectic: Liquid + (C) -> SiC + B4C |  | model | [1] Chen 2009 | Table 5, p. 5, row 3 |  |
+| 2288.5 | quasi-peritectic: Liquid + (B) -> B4C + SiBn |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 8 |  |
+| 2288.5 | quasi-peritectic: Liquid + (B) -> B4C + SiBn |  | model | [1] Chen 2009 | Table 5, p. 5, row 7 |  |
+| 2120.89 | quasi-peritectic: Liquid + SiBn -> B4C + SiB6 |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 6 |  |
+| 2120.89 | quasi-peritectic: Liquid + SiBn -> B4C + SiB6 |  | model | [1] Chen 2009 | Table 5, p. 5, row 5 |  |
+| 1649.97 | quasi-peritectic: Liquid + B4C -> SiB6 + SiC |  | unspecified | [1] Chen 2009; _cites Gugel 1972_ | Table 5, p. 5, row 10 |  |
+| 1649.97 | quasi-peritectic: Liquid + B4C -> SiB6 + SiC |  | model | [1] Chen 2009 | Table 5, p. 5, row 9 |  |
+| 1635.39 | eutectic: Liquid -> SiC + SiB6 + (Si) |  | model | [1] Chen 2009 | Table 5, p. 5, row 1 |  |
 
 ## Sources
 

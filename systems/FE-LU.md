@@ -85,46 +85,46 @@ Table: Invariant reactions reported in the literature for the Fe–Lu system (40
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1667.5 | Peritectic: L + bcc(δ-Fe) ↔ fcc(γ-Fe) | L: Lu 0.07 | model | [1] Ye 2023 | Table 9, p. 15, row 3 |  |
+| 1667.5 | peritectic: L + bcc(δ-Fe) ↔ fcc(γ-Fe) | L: Lu 0.07 | model | [1] Ye 2023 | Table 9, p. 15, row 3 |  |
 | 1667.15 | δFe + Liq -> γFe | δFe: Lu 0; Liq: Lu 0; γFe: Lu 0.087 | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 4 |  |
 | 1667.15 | δFe + Liq -> γFe | δFe: Lu 0; Liq: Lu 0; γFe: Lu 0.061 | model | [2] Kardellass 2014 | Table 6, p. 7, row 5 |  |
-| 1667 | Peritectic: L + bcc(δ-Fe) ↔ fcc(γ-Fe) |  | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 1 |  |
-| 1667 | Peritectic: L + bcc(δ-Fe) ↔ fcc(γ-Fe) |  | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 2 |  |
-| 1602 | Peritectic: L + fcc(γ-Fe) ↔ Fe17Lu2 | L: Lu 0.111 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 9 |  |
+| 1667 | peritectic: L + bcc(δ-Fe) ↔ fcc(γ-Fe) |  | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 1 |  |
+| 1667 | peritectic: L + bcc(δ-Fe) ↔ fcc(γ-Fe) |  | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 2 |  |
+| 1602 | peritectic: L + fcc(γ-Fe) ↔ Fe17Lu2 | L: Lu 0.111 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 9 |  |
 | 1593.15 | L + γFe -> Fe17Lu2_HT | L: Lu 0.13; γFe: Lu 0; Fe17Lu2_HT: Lu 0.105 | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 6 |  |
 | 1593.15 | L + γFe -> Fe17Lu2_HT | L: Lu 0.09; γFe: Lu 0; Fe17Lu2_HT: Lu 0.082 | model | [2] Kardellass 2014 | Table 6, p. 7, row 7 |  |
-| 1593 | Peritectic: L + fcc(γ-Fe) ↔ Fe17Lu2 | L: Lu 0.09 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 8 |  |
+| 1593 | peritectic: L + fcc(γ-Fe) ↔ Fe17Lu2 | L: Lu 0.09 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 8 |  |
 | 1593 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 88_ | p. 5 | “There are three peritectic reactions (1,593 K, 1,563 K, and 1,583 K), which are corresponding to the formation of Fe17Lu2, Fe23Lu6, and Fe3Lu, respectively.” |
-| 1593 | Peritectic: L + fcc(γ-Fe) ↔ Fe17Lu2 | L: Lu 0.13 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 7 |  |
-| 1590.1 | Peritectic: L + fcc(γ-Fe) ↔ Fe17Lu2 | L: Lu 0.105 | model | [1] Ye 2023 | Table 9, p. 15, row 10 |  |
+| 1593 | peritectic: L + fcc(γ-Fe) ↔ Fe17Lu2 | L: Lu 0.13 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 7 |  |
+| 1590.1 | peritectic: L + fcc(γ-Fe) ↔ Fe17Lu2 | L: Lu 0.105 | model | [1] Ye 2023 | Table 9, p. 15, row 10 |  |
 | 1583.15 | L + Fe3Lu -> Fe2Lu | L: Lu 0.236; Fe3Lu: Lu 0.25; Fe2Lu: Lu 0.333 | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 15 |  |
-| 1583 | Peritectic: L + Fe2Lu ↔ Fe3Lu | L: Lu 0.225 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 19 |  |
+| 1583 | peritectic: L + Fe2Lu ↔ Fe3Lu | L: Lu 0.225 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 19 |  |
 | 1583 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 88_ | p. 5 | “There are three peritectic reactions (1,593 K, 1,563 K, and 1,583 K), which are corresponding to the formation of Fe17Lu2, Fe23Lu6, and Fe3Lu, respectively.” |
 | 1581.15 | L + Fe3Lu -> Fe2Lu | L: Lu 0.229; Fe3Lu: Lu 0.25; Fe2Lu: Lu 0.333 | model | [2] Kardellass 2014 | Table 6, p. 7, row 16 |  |
-| 1581 | Peritectic: L + Fe2Lu ↔ Fe3Lu | L: Lu 0.229 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 20 |  |
-| 1580.4 | Peritectic: L + Fe2Lu ↔ Fe3Lu | L: Lu 0.241 | model | [1] Ye 2023 | Table 9, p. 15, row 22 |  |
-| 1580 | Peritectic: L + Fe2Lu ↔ Fe3Lu | L: Lu 0.333 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 21 |  |
+| 1581 | peritectic: L + Fe2Lu ↔ Fe3Lu | L: Lu 0.229 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 20 |  |
+| 1580.4 | peritectic: L + Fe2Lu ↔ Fe3Lu | L: Lu 0.241 | model | [1] Ye 2023 | Table 9, p. 15, row 22 |  |
+| 1580 | peritectic: L + Fe2Lu ↔ Fe3Lu | L: Lu 0.333 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 21 |  |
 | 1563.15 | L + Fe3Lu -> Fe23Lu6 | L: Lu 0.2; Fe3Lu: Lu 0.25; Fe23Lu6: Lu 0.206 | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 13 |  |
 | 1563 | peritectic |  | experimental | [1] Ye 2023; _cites ref. 88_ | p. 5 | “There are three peritectic reactions (1,593 K, 1,563 K, and 1,583 K), which are corresponding to the formation of Fe17Lu2, Fe23Lu6, and Fe3Lu, respectively.” |
-| 1563 | Peritectic: L + Fe3Lu ↔ Fe23Lu6 | L: Lu 0.196 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 15 |  |
-| 1560.9 | Peritectic: L + Fe3Lu ↔ Fe23Lu6 | L: Lu 0.188 | model | [1] Ye 2023 | Table 9, p. 15, row 18 |  |
+| 1563 | peritectic: L + Fe3Lu ↔ Fe23Lu6 | L: Lu 0.196 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 15 |  |
+| 1560.9 | peritectic: L + Fe3Lu ↔ Fe23Lu6 | L: Lu 0.188 | model | [1] Ye 2023 | Table 9, p. 15, row 18 |  |
 | 1560.15 | L + Fe3Lu -> Fe23Lu6 | L: Lu 0.183; Fe3Lu: Lu 0.25; Fe23Lu6: Lu 0.206 | model | [2] Kardellass 2014 | Table 6, p. 7, row 14 |  |
-| 1560 | Peritectic: L + Fe3Lu ↔ Fe23Lu6 | L: Lu 0.183 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 16 |  |
-| 1560 | Peritectic: L + Fe3Lu ↔ Fe23Lu6 | L: Lu 0.202 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 17 |  |
-| 1559.9 | Eutectic: L ↔ Fe17Lu2 + Fe23Lu6 | L: Lu 0.184 | model | [1] Ye 2023 | Table 9, p. 15, row 14 |  |
+| 1560 | peritectic: L + Fe3Lu ↔ Fe23Lu6 | L: Lu 0.183 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 16 |  |
+| 1560 | peritectic: L + Fe3Lu ↔ Fe23Lu6 | L: Lu 0.202 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 17 |  |
+| 1559.9 | eutectic: L ↔ Fe17Lu2 + Fe23Lu6 | L: Lu 0.184 | model | [1] Ye 2023 | Table 9, p. 15, row 14 |  |
 | 1549.15 | L -> Fe17Lu2_HT + Fe23Lu6 | L: Lu 0.158; Fe17Lu2_HT: Lu 0.105; Fe23Lu6: Lu 0.206 | model | [2] Kardellass 2014 | Table 6, p. 7, row 12 |  |
-| 1549 | Eutectic: L ↔ Fe17Lu2 + Fe23Lu6 | L: Lu 0.158 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 12 |  |
-| 1548 | Eutectic: L ↔ Fe17Lu2 + Fe23Lu6 | L: Lu 0.18 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 11 |  |
-| 1546 | Eutectic: L ↔ Fe17Lu2 + Fe23Lu6 | L: Lu 0.172 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 13 |  |
-| 1249 | Eutectic: L ↔ Fe2Lu + hcp-Lu | L: Lu 0.67 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 29 |  |
+| 1549 | eutectic: L ↔ Fe17Lu2 + Fe23Lu6 | L: Lu 0.158 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 12 |  |
+| 1548 | eutectic: L ↔ Fe17Lu2 + Fe23Lu6 | L: Lu 0.18 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 11 |  |
+| 1546 | eutectic: L ↔ Fe17Lu2 + Fe23Lu6 | L: Lu 0.172 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 13 |  |
+| 1249 | eutectic: L ↔ Fe2Lu + hcp-Lu | L: Lu 0.67 | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 29 |  |
 | 1243.15 | L -> Fe2Lu + (Lu) | L: Lu 0.75; Fe2Lu: Lu 0.333; (Lu): Lu 1 | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 19 |  |
-| 1243 | Eutectic: L ↔ Fe2Lu + hcp-Lu | L: Lu 0.75 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 27 |  |
-| 1240.3 | Eutectic: L ↔ Fe2Lu + hcp-Lu | L: Lu 0.642 | model | [1] Ye 2023 | Table 9, p. 15, row 30 |  |
+| 1243 | eutectic: L ↔ Fe2Lu + hcp-Lu | L: Lu 0.75 | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 27 |  |
+| 1240.3 | eutectic: L ↔ Fe2Lu + hcp-Lu | L: Lu 0.642 | model | [1] Ye 2023 | Table 9, p. 15, row 30 |  |
 | 1237.15 | L -> Fe2Lu + (Lu) | L: Lu 0.741; Fe2Lu: Lu 0.333; (Lu): Lu 1 | model | [2] Kardellass 2014 | Table 6, p. 7, row 20 |  |
-| 1237 | Eutectic: L ↔ Fe2Lu + hcp-Lu | L: Lu 0.741 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 28 |  |
-| 1185 | Peritectoid: Fe17Lu2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 5 |  |
-| 1185 | Peritectoid: Fe17Lu2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 4 |  |
-| 1184.8 | Peritectoid: Fe17Lu2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023 | Table 9, p. 15, row 6 |  |
+| 1237 | eutectic: L ↔ Fe2Lu + hcp-Lu | L: Lu 0.741 | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 28 |  |
+| 1185 | peritectoid: Fe17Lu2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 5 |  |
+| 1185 | peritectoid: Fe17Lu2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 4 |  |
+| 1184.8 | peritectoid: Fe17Lu2 + fcc(γ-Fe) ↔ bcc(α-Fe) |  | model | [1] Ye 2023 | Table 9, p. 15, row 6 |  |
 
 ## Formation enthalpies
 
@@ -151,13 +151,13 @@ Table: Phase transition, Fe–Lu system
 | Phase transition | 1185.15 K | 1185.15 | γFe -> αFe; _γFe: Lu 0; αFe: Lu 0_ | model | [2] Kardellass 2014 | Table 6, p. 7, row 9 |  |
 | Phase transition | 1188.15 K | 1188.15 | αFe17Lu2_HT -> Fe17Lu2_LT; _αFe17Lu2_HT: Lu 0.105; Fe17Lu2_LT: Lu 0.105_ | experimental | [2] Kardellass 2014; _cites Kolesnichenko 1972_ | Table 6, p. 7, row 26 |  |
 | Phase transition | 1188.15 K | 1188.15 | αFe17Lu2_HT -> Fe17Lu2_LT; _αFe17Lu2_HT: Lu 0.105; Fe17Lu2_LT: Lu 0.105_ | model | [2] Kardellass 2014 | Table 6, p. 7, row 27 |  |
-| Phase transition | 1618 K | 1618 | Congruent: L ↔ Fe2Lu; _L: Lu 0.333_ | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 23 |  |
-| Phase transition | 1618 K | 1618 | Congruent: L ↔ Fe2Lu; _L: Lu 0.333_ | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 24 |  |
-| Phase transition | 1618 K | 1618 | congruent | experimental | [1] Ye 2023 | p. 5 | “The congruent reaction at 1,618 K is corresponding to the formation of Fe2Lu.” |
+| Phase transition | 1618 K | 1618 | congruent melting: L ↔ Fe2Lu; _L: Lu 0.333_ | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 23 |  |
+| Phase transition | 1618 K | 1618 | congruent melting: L ↔ Fe2Lu; _L: Lu 0.333_ | model | [1] Ye 2023; _cites ref. 90_ | Table 9, p. 15, row 24 |  |
+| Phase transition | 1618 K | 1618 | congruent transformation | experimental | [1] Ye 2023 | p. 5 | “The congruent reaction at 1,618 K is corresponding to the formation of Fe2Lu.” |
 | Phase transition | 1618.15 K | 1618.15 | L -> Fe2Lu; _L: Lu 0.333; Fe2Lu: Lu 0.333_ | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 17 |  |
 | Phase transition | 1618.15 K | 1618.15 | L -> Fe2Lu; _L: Lu 0.333; Fe2Lu: Lu 0.333_ | model | [2] Kardellass 2014 | Table 6, p. 7, row 18 |  |
-| Phase transition | 1619.6 K | 1619.6 | Congruent: L ↔ Fe2Lu; _L: Lu 0.333_ | model | [1] Ye 2023 | Table 9, p. 15, row 26 |  |
-| Phase transition | 1620 K | 1620 | Congruent: L ↔ Fe2Lu; _L: Lu 0.333_ | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 25 |  |
+| Phase transition | 1619.6 K | 1619.6 | congruent melting: L ↔ Fe2Lu; _L: Lu 0.333_ | model | [1] Ye 2023 | Table 9, p. 15, row 26 |  |
+| Phase transition | 1620 K | 1620 | congruent melting: L ↔ Fe2Lu; _L: Lu 0.333_ | model | [1] Ye 2023; _cites (cal_ | Table 9, p. 15, row 25 |  |
 | Phase transition | 1809.15 K | 1809.15 | δFe -> Liq; _δFe: Lu 0_ | experimental | [2] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 7, row 2 |  |
 | Phase transition | 1811.15 K | 1811.15 | δFe -> Liq; _δFe: Lu 0_ | model | [2] Kardellass 2014 | Table 6, p. 7, row 3 |  |
 | Phase transition | 1811.15 K | 1811.15 | δFe -> Liq; _δFe: Lu 0; Liq: Lu 0_ | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 1 |  |

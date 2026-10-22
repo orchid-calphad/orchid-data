@@ -1,23 +1,21 @@
 # CaSiO3: enthalpy of formation
 
-> Enthalpy of formation of CaSiO3: 5 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of CaSiO3: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CaSiO3.html · Markdown: https://data.orchid-project.org/compounds/CaSiO3.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 1, DFT 4).
+3 accepted literature formation-enthalpy value(s) (experimental 1, DFT 2).
 
 Systems: [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CaSiO3 reported in the literature (5)
+Table: Enthalpy of formation of CaSiO3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -1634.32 kJ/mol (basis unstated) ± 2.71 | wollastonite-CaSiO3 | 298.15 | experimental |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Grevel 2021_ | Table A.2, p. 13, row 21 |  |
 | -17.14 kJ/mol-atom | CaSiO3-wollastonite | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 6 |  |
-| -17.14 kJ/mol-atom | CaSiO3-wollastonite | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 6 |  |
-| -15.5 kJ/mol-atom | CaSiO3-cyclowollastonite | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 7 |  |
 | -15.5 kJ/mol-atom | CaSiO3-cyclowollastonite | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 7 |  |
 
 ## Sources

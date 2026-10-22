@@ -28,10 +28,10 @@ Table: Invariant reactions reported in the literature for the B–Hf–Zr system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2293.15 | U: U1: L+(Hf,Zr)B2= (βB)+ZrB12 |  | experimental | [1] Pan 2021; _cites Harmon 1965_ | Table 4, p. 13, row 2 |  |
-| 2282.15 | U: U1: L+(Hf,Zr)B2= (βB)+ZrB12 | L: B 0.9572, Hf 0.002, Zr 0.0408 | model | [1] Pan 2021 | Table 4, p. 13, row 1 |  |
-| 1988.15 | U: U2: L+HfB= (Hf,Zr)B2+(βHf, βZr) | L: B 0.1335, Hf 0.2005, Zr 0.666 | experimental | [1] Pan 2021; _cites Harmon 1965_ | Table 4, p. 13, row 4 |  |
-| 1973.15 | U: U2: L+HfB= (Hf,Zr)B2+(βHf, βZr) | L: B 0.1393, Hf 0.2379, Zr 0.6228 | model | [1] Pan 2021 | Table 4, p. 13, row 3 |  |
+| 2293.15 | quasi-peritectic: U1: L+(Hf,Zr)B2= (βB)+ZrB12 |  | experimental | [1] Pan 2021; _cites Harmon 1965_ | Table 4, p. 13, row 2 |  |
+| 2282.15 | quasi-peritectic: U1: L+(Hf,Zr)B2= (βB)+ZrB12 | L: B 0.9572, Hf 0.002, Zr 0.0408 | model | [1] Pan 2021 | Table 4, p. 13, row 1 |  |
+| 1988.15 | quasi-peritectic: U2: L+HfB= (Hf,Zr)B2+(βHf, βZr) | L: B 0.1335, Hf 0.2005, Zr 0.666 | experimental | [1] Pan 2021; _cites Harmon 1965_ | Table 4, p. 13, row 4 |  |
+| 1973.15 | quasi-peritectic: U2: L+HfB= (Hf,Zr)B2+(βHf, βZr) | L: B 0.1393, Hf 0.2379, Zr 0.6228 | model | [1] Pan 2021 | Table 4, p. 13, row 3 |  |
 
 ## Other properties
 

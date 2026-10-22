@@ -1,10 +1,10 @@
 # Cu–In system
 
-> Cu–In system: 214 accepted literature values (formation 158, activity / EMF / Gibbs energy 24, invariant reaction 16, heat capacity / entropy / enthalpy 13) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–In system: 170 accepted literature values (formation 114, activity / EMF / Gibbs energy 24, invariant reaction 16, heat capacity / entropy / enthalpy 13) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-IN.html · Markdown: https://data.orchid-project.org/systems/CU-IN.md
 
-214 accepted literature values from 3 paper(s) (experimental 108, model 62, unspecified 44); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+170 accepted literature values from 3 paper(s) (experimental 88, model 57, unspecified 25); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-IN.json) · [CSV](https://data.orchid-project.org/systems/CU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-IN/CuIn-02Her.json) · [Markdown](https://data.orchid-project.org/systems/CU-IN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 108 |
-| model | 62 |
-| unspecified | 44 |
+| experimental | 88 |
+| model | 57 |
+| unspecified | 25 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 16 |
 | phase transition | 2 |
-| formation | 158 |
+| formation | 114 |
 | heat capacity / entropy / enthalpy | 13 |
 | activity / EMF / Gibbs energy | 24 |
 | other property | 1 |
@@ -148,26 +148,18 @@ Table: Invariant reactions reported in the literature for the Cu–In system (16
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cu–In system (158)
+Table: Enthalpies of formation, Cu–In system (114)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | β |  | -2.423 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 5 |  |
 | β |  | -2.423 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 3 |  |
-| β |  | -2.423 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 3 |  |
 | β |  | -1.487 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 6 |  |
 | β |  | -1.33 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 4 |  |
-| β |  | -1.33 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 2 |  |
 | β |  | -0.976 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 4 |  |
-| β |  | -0.976 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 4 |  |
-| β |  | -0.976 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 2 |  |
-| β |  | -0.976 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 2 |  |
-| β |  | -0.949 kJ/mol (basis unstated) | 941 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 6 |  |
 | β |  | -0.949 kJ/mol (basis unstated) | 941 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 6 |  |
 | β |  | -0.464 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 3 |  |
 | β |  | -0.464 kJ/mol (basis unstated) | 941 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 5 |  |
-| β |  | -0.464 kJ/mol (basis unstated) | 941 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 5 |  |
-| β |  | -0.431 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 1 |  |
 | β |  | -0.431 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 1 |  |
 | β |  | -0.431 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 1 |  |
 | β |  | -0.431 kJ/mol (basis unstated) | 903 | experimental |  |  | [2] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 1 |  |
@@ -177,14 +169,10 @@ Table: Enthalpies of formation, Cu–In system (158)
 | γ |  | -6.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 13 |  |
 | γ |  | -6.088 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 15 |  |
 | γ |  | -5.667 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 14 |  |
-| γ |  | -5.667 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 16 |  |
-| γ |  | -5.665 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 7 |  |
 | γ |  | -5.665 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 7 |  |
 | γ |  | -5.542 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 12 |  |
 | γ |  | -5.23 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 7 |  |
 | γ |  | -5.147 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 10 |  |
-| γ |  | -5.147 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 8 |  |
-| γ |  | -4.424 kJ/mol (basis unstated) | 941 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 9 |  |
 | γ |  | -4.424 kJ/mol (basis unstated) | 941 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 9 |  |
 | γ |  | -4.218 kJ/mol (basis unstated) | 935 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 4 |  |
 | γ |  | -3.874 kJ/mol (basis unstated) | 941 | experimental |  |  | [2] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 3 |  |
@@ -192,83 +180,51 @@ Table: Enthalpies of formation, Cu–In system (158)
 | γ |  | -3.31 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 9 |  |
 | δ |  | -8.745 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 5 |  |
 | δ |  | -8.68 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 13 |  |
-| δ |  | -8.68 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 13 |  |
-| δ |  | -8.65 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 15 |  |
 | δ |  | -8.65 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 15 |  |
 | δ |  | -8.62 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Dichi 2000_ | Table 3, p. 6, row 18 |  |
 | δ |  | -8.62 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Hertz 2002; _cites Dichi 2000_ | Table 2, p. 5, row 7 |  |
 | δ |  | -8.535 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Hertz 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 5, row 9 |  |
 | δ |  | -8.52 kJ/mol (basis unstated) | 298 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 8 |  |
 | δ |  | -8.52 kJ/mol (basis unstated) | 723 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 6 |  |
-| δ |  | -8.52 kJ/mol (basis unstated) | 723 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 10 |  |
-| δ |  | -8.5 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 11 |  |
 | δ |  | -8.5 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 11 |  |
 | δ |  | -7.991 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 19 |  |
 | δ |  | -6.962 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 12 |  |
-| δ |  | -6.962 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 14 |  |
 | δ |  | -6.909 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 16 |  |
 | η |  | -8.211 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites ref. 200_ | Table 3, p. 6, row 37 |  |
 | η |  | -8.211 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Hertz 2002; _cites Dichi 2000_ | Table 2, p. 5, row 17 |  |
 | η |  | -8.117 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 38 |  |
 | η |  | -8 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 17 |  |
-| η |  | -8 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 17 |  |
-| η |  | -7.78 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 21 |  |
 | η |  | -7.78 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 21 |  |
 | η |  | -7.7 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 19 |  |
-| η |  | -7.7 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 19 |  |
 | η |  | -7.7 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 23 |  |
-| η |  | -7.7 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 23 |  |
-| η |  | -7.55 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 29 |  |
 | η |  | -7.55 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 29 |  |
 | η |  | -7.548 kJ/mol (basis unstated) | 773 | experimental |  |  | [2] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 15 |  |
 | η |  | -7.531 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Hertz 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 5, row 21 |  |
 | η |  | -7.47 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 25 |  |
-| η |  | -7.47 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 25 |  |
-| η |  | -7.47 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 35 |  |
 | η |  | -7.47 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 35 |  |
 | η |  | -7.45 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 31 |  |
-| η |  | -7.45 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 31 |  |
-| η |  | -7.42 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 33 |  |
 | η |  | -7.42 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 33 |  |
 | η |  | -7.382 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 19 |  |
 | η |  | -7.38 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 27 |  |
-| η |  | -7.38 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 27 |  |
-| η |  | -7.185 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 24 |  |
 | η |  | -7.185 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 24 |  |
 | η |  | -7.132 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 26 |  |
-| η |  | -7.132 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 26 |  |
-| η |  | -7.132 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 20 |  |
-| η |  | -7.132 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 20 |  |
-| η |  | -7.11 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 22 |  |
 | η |  | -7.11 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 22 |  |
 | η |  | -7.096 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 34 |  |
-| η |  | -7.096 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 34 |  |
 | η |  | -7.074 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 32 |  |
-| η |  | -7.074 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 32 |  |
-| η |  | -7.048 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 36 |  |
 | η |  | -7.048 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 36 |  |
 | η |  | -6.962 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 12 |  |
-| η |  | -6.962 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 14 |  |
-| η |  | -6.933 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 30 |  |
 | η |  | -6.933 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 30 |  |
 | η |  | -6.909 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 16 |  |
-| η |  | -6.839 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 28 |  |
 | η |  | -6.839 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 28 |  |
 | η |  | -6.774 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 8 |  |
 | η |  | -6.734 kJ/mol (basis unstated) | 941 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 10 |  |
 | η |  | -6.636 kJ/mol (basis unstated) | 903 | experimental |  |  | [2] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 11 |  |
 | η |  | -6.636 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 37 |  |
-| η |  | -6.636 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 37 |  |
 | η |  | -6.591 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 40 |  |
-| η |  | -6.591 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 40 |  |
-| η |  | -6.573 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 18 |  |
 | η |  | -6.573 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 18 |  |
 | η |  | -6.54 kJ/mol (basis unstated) | 723 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 20 |  |
-| η |  | -6.54 kJ/mol (basis unstated) | 723 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 22 |  |
-| η |  | -6.477 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 38 |  |
 | η |  | -6.477 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 38 |  |
 | η |  | -6.402 kJ/mol (basis unstated) | 903 | experimental |  |  | [2] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 13 |  |
-| η |  | -6.402 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 39 |  |
 | η |  | -6.402 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 39 |  |
 | η |  | -5.916 kJ/mol (basis unstated) | 903 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 14 |  |
 | η |  | -5.837 kJ/mol (basis unstated) | 903 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 12 |  |

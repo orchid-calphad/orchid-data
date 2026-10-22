@@ -30,7 +30,7 @@ Table: Invariant reactions reported in the literature for the S–Sn system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1150 | melting: Tm for beta-SnS | beta-SnS: S 0.5 | model | [1] Lindwall 2016 | Table 1, p. 4, row 23 |  |
+| 1150 | congruent melting: Tm for beta-SnS | beta-SnS: S 0.5 | model | [1] Lindwall 2016 | Table 1, p. 4, row 23 |  |
 | 1137 | L2 \<=> L1 + beta-SnS | L2: S 0.48; L1: S 0.075; beta-SnS: S 0.5, Sn 0.5 | experimental | [1] Lindwall 2016; _cites ref. 22_ | Table 1, p. 4, row 7 |  |
 | 1137 | L2 \<=> L1 + beta-SnS | L2: S 0.48; beta-SnS: S 0.5, Sn 0.5 | experimental | [1] Lindwall 2016; _cites ref. 12_ | Table 1, p. 4, row 8 |  |
 | 1137 | L2 \<=> L1 + beta-SnS | L2: S 0.465; L1: S 0.071; beta-SnS: S 0.5 | model | [1] Lindwall 2016 | Table 1, p. 4, row 3 |  |

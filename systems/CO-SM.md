@@ -200,7 +200,7 @@ Table: Mixing / partial, Co–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: limiting partial enthalpy of mixing_ | -55.5 kJ/mol | 1400 | liquid | model | [2] Yuan 2011 | p. 3 | “The calculated limiting partial enthalpy of mixing of Co in the Co-Sm liquid at 1400 K is -55.5 kJ/mol, which agrees well with the value of -50.5 ± 3.9 kJ/mol reported by Usenko and Ivanov \[20\].” |
+| Partial enthalpy; _printed: limiting partial enthalpy of mixing_ | -55.5 kJ/mol (basis unstated) | 1400 | liquid | model | [2] Yuan 2011 | p. 3 | “The calculated limiting partial enthalpy of mixing of Co in the Co-Sm liquid at 1400 K is -55.5 kJ/mol, which agrees well with the value of -50.5 ± 3.9 kJ/mol reported by Usenko and Ivanov \[20\].” |
 
 ## Sources
 

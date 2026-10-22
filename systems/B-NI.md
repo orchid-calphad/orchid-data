@@ -31,41 +31,41 @@ Table: Invariant reactions reported in the literature for the B–Ni system (35)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2365.15 | Melting: β -> L | β: B 1; L: B 1 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 31 |  |
-| 2348.15 | Melting: β -> L | β: B 1; L: B 1 | model | [1] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 4, row 32 |  |
-| 1435.15 | Congruent Melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | model | [1] Campbell 1999 | Table 4, p. 4, row 6 |  |
-| 1433.15 | Congruent Melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 5 |  |
-| 1429.15 | Congruent Melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 4 |  |
-| 1398.15 | Congruent Melting: Ni2B -> L | Ni2B: B 0.333; L: B 0.333 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 10 |  |
-| 1392.15 | Congruent Melting: Ni2B -> L | Ni2B: B 0.333; L: B 0.333 | model | [1] Campbell 1999 | Table 4, p. 4, row 12 |  |
-| 1388.15 | Eutectic: Ni3B + Ni2B -> L | Ni3B: B 0.25; Ni2B: B 0.333; L: B 0.32 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 8 |  |
-| 1388.15 | Eutectic: Ni3B + Ni2B -> L | Ni3B: B 0.25; Ni2B: B 0.333; L: B 0.316 | model | [1] Campbell 1999 | Table 4, p. 4, row 9 |  |
-| 1387.15 | Congruent Melting: Ni2B -> L | Ni2B: B 0.333; L: B 0.333 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 11 |  |
-| 1384.15 | Eutectic: Ni3B + Ni2B -> L | Ni3B: B 0.25; Ni2B: B 0.333; L: B 0.3 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 7 |  |
-| 1383.15 | Eutectic: L -> Ni2B + Ni3B | L: Ni 0.68; Ni2B: Ni 0.667; Ni3B: Ni 0.75 | model | [2] Cacciamani 2011 | Table 2, p. 5, row 3 |  |
-| 1366.15 | Eutectic: Ni(γ) + Ni3B -> L | Ni(γ): B 0.003; Ni3B: B 0.25; L: B 0.17 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 1 |  |
-| 1363.15 | Eutectic: Ni(γ) + Ni3B -> L | Ni(γ): B 0.0029; Ni3B: B 0.25; L: B 0.159 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 2 |  |
-| 1362.15 | Eutectic: Ni(γ) + Ni3B -> L | Ni(γ): B 0.00267; Ni3B: B 0.25; L: B 0.162 | model | [1] Campbell 1999 | Table 4, p. 4, row 3 |  |
-| 1361.15 | Eutectic: L -> Ni3B + Ni | L: Ni 0.839; Ni3B: Ni 0.75; Ni: Ni 0.999 | model | [2] Cacciamani 2011 | Table 2, p. 5, row 4 |  |
-| 1309.15 | Peritectic: NiB -> β + L | NiB: B 0.5; β: B 1; L: B 0.485 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 29 |  |
-| 1308.55 | Congruent Melting: Ni4B3(m) -> L | Ni4B3(m): B 0.436; L: B 0.436 | model | [1] Campbell 1999 | Table 4, p. 4, row 24 |  |
-| 1308.15 | Peritectic: NiB -> β + L | NiB: B 0.5; β: B 1; L: B 0.46 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 28 |  |
-| 1306.15 | Peritectic: NiB -> β + L | NiB: B 0.5; β: B 1; L: B 0.5 | model | [1] Campbell 1999 | Table 4, p. 4, row 30 |  |
-| 1306.15 | Peritectic: L + B -> NiB | L: Ni 0.5; B: Ni 0; NiB: Ni 0.5 | model | [2] Cacciamani 2011 | Table 2, p. 5, row 5 |  |
-| 1304.15 | Congruent Melting: Ni4B3(m) -> L | Ni4B3(m): B 0.436; L: B 0.436 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 22 |  |
-| 1302.39 | Eutectic: Ni2B + Ni4B3(o) -> L | Ni2B: B 0.333; Ni4B3(o): B 0.414; L: B 0.412 | model | [1] Campbell 1999 | Table 4, p. 4, row 15 |  |
-| 1302.36 | Congruent Melting: Ni4B3(o) -> L | Ni4B3(o): B 0.414; L: B 0.414 | model | [1] Campbell 1999 | Table 4, p. 4, row 18 |  |
-| 1302.34 | Eutectic: Ni4B3(o) + Ni4B3(m) -> L | Ni4B3(o): B 0.414; Ni4B3(m): B 0.436; L: B 0.413 | model | [1] Campbell 1999 | Table 4, p. 4, row 21 |  |
-| 1300.15 | Congruent Melting: Ni4B3(m) -> L | Ni4B3(m): B 0.436; L: B 0.436 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 23 |  |
-| 1300.15 | Eutectic: Ni2B + Ni4B3(o) -> L | Ni2B: B 0.333; Ni4B3(o): B 0.414; L: B 0.408 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 14 |  |
-| 1300.15 | Congruent Melting: Ni4B3(o) -> L | Ni4B3(o): B 0.414; L: B 0.414 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 17 |  |
-| 1299.15 | Congruent Melting: Ni4B3(o) -> L | Ni4B3(o): B 0.414; L: B 0.414 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 16 |  |
-| 1298.15 | Eutectic: Ni4B3(o) + Ni4B3(m) -> L | Ni4B3(o): B 0.414; Ni4B3(m): B 0.436; L: B 0.43 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 19 |  |
-| 1296.15 | Eutectic: Ni4B3(m) + NiB -> L | Ni4B3(m): B 0.436; NiB: B 0.5; L: B 0.468 | model | [1] Campbell 1999 | Table 4, p. 4, row 27 |  |
-| 1294.15 | Eutectic: Ni4B3(o) + Ni4B3(m) -> L | Ni4B3(o): B 0.414; Ni4B3(m): B 0.436; L: B 0.415 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 20 |  |
-| 1292.15 | Eutectic: Ni2B + Ni4B3(o) -> L | Ni2B: B 0.333; Ni4B3(o): B 0.414; L: B 0.395 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 13 |  |
-| 1291.15 | Eutectic: Ni4B3(m) + NiB -> L | Ni4B3(m): B 0.436; NiB: B 0.5; L: B 0.453 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 25 |  |
-| 1285.15 | Eutectic: Ni4B3(m) + NiB -> L | Ni4B3(m): B 0.436; NiB: B 0.5; L: B 0.45 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 26 |  |
+| 2365.15 | congruent melting: β -> L | β: B 1; L: B 1 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 31 |  |
+| 2348.15 | congruent melting: β -> L | β: B 1; L: B 1 | model | [1] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 4, row 32 |  |
+| 1435.15 | congruent melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | model | [1] Campbell 1999 | Table 4, p. 4, row 6 |  |
+| 1433.15 | congruent melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 5 |  |
+| 1429.15 | congruent melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 4 |  |
+| 1398.15 | congruent melting: Ni2B -> L | Ni2B: B 0.333; L: B 0.333 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 10 |  |
+| 1392.15 | congruent melting: Ni2B -> L | Ni2B: B 0.333; L: B 0.333 | model | [1] Campbell 1999 | Table 4, p. 4, row 12 |  |
+| 1388.15 | eutectic: Ni3B + Ni2B -> L | Ni3B: B 0.25; Ni2B: B 0.333; L: B 0.32 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 8 |  |
+| 1388.15 | eutectic: Ni3B + Ni2B -> L | Ni3B: B 0.25; Ni2B: B 0.333; L: B 0.316 | model | [1] Campbell 1999 | Table 4, p. 4, row 9 |  |
+| 1387.15 | congruent melting: Ni2B -> L | Ni2B: B 0.333; L: B 0.333 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 11 |  |
+| 1384.15 | eutectic: Ni3B + Ni2B -> L | Ni3B: B 0.25; Ni2B: B 0.333; L: B 0.3 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 7 |  |
+| 1383.15 | eutectic: L -> Ni2B + Ni3B | L: Ni 0.68; Ni2B: Ni 0.667; Ni3B: Ni 0.75 | model | [2] Cacciamani 2011 | Table 2, p. 5, row 3 |  |
+| 1366.15 | eutectic: Ni(γ) + Ni3B -> L | Ni(γ): B 0.003; Ni3B: B 0.25; L: B 0.17 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 1 |  |
+| 1363.15 | eutectic: Ni(γ) + Ni3B -> L | Ni(γ): B 0.0029; Ni3B: B 0.25; L: B 0.159 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 2 |  |
+| 1362.15 | eutectic: Ni(γ) + Ni3B -> L | Ni(γ): B 0.00267; Ni3B: B 0.25; L: B 0.162 | model | [1] Campbell 1999 | Table 4, p. 4, row 3 |  |
+| 1361.15 | eutectic: L -> Ni3B + Ni | L: Ni 0.839; Ni3B: Ni 0.75; Ni: Ni 0.999 | model | [2] Cacciamani 2011 | Table 2, p. 5, row 4 |  |
+| 1309.15 | peritectic: NiB -> β + L | NiB: B 0.5; β: B 1; L: B 0.485 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 29 |  |
+| 1308.55 | congruent melting: Ni4B3(m) -> L | Ni4B3(m): B 0.436; L: B 0.436 | model | [1] Campbell 1999 | Table 4, p. 4, row 24 |  |
+| 1308.15 | peritectic: NiB -> β + L | NiB: B 0.5; β: B 1; L: B 0.46 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 28 |  |
+| 1306.15 | peritectic: NiB -> β + L | NiB: B 0.5; β: B 1; L: B 0.5 | model | [1] Campbell 1999 | Table 4, p. 4, row 30 |  |
+| 1306.15 | peritectic: L + B -> NiB | L: Ni 0.5; B: Ni 0; NiB: Ni 0.5 | model | [2] Cacciamani 2011 | Table 2, p. 5, row 5 |  |
+| 1304.15 | congruent melting: Ni4B3(m) -> L | Ni4B3(m): B 0.436; L: B 0.436 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 22 |  |
+| 1302.39 | eutectic: Ni2B + Ni4B3(o) -> L | Ni2B: B 0.333; Ni4B3(o): B 0.414; L: B 0.412 | model | [1] Campbell 1999 | Table 4, p. 4, row 15 |  |
+| 1302.36 | congruent melting: Ni4B3(o) -> L | Ni4B3(o): B 0.414; L: B 0.414 | model | [1] Campbell 1999 | Table 4, p. 4, row 18 |  |
+| 1302.34 | eutectic: Ni4B3(o) + Ni4B3(m) -> L | Ni4B3(o): B 0.414; Ni4B3(m): B 0.436; L: B 0.413 | model | [1] Campbell 1999 | Table 4, p. 4, row 21 |  |
+| 1300.15 | congruent melting: Ni4B3(m) -> L | Ni4B3(m): B 0.436; L: B 0.436 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 23 |  |
+| 1300.15 | eutectic: Ni2B + Ni4B3(o) -> L | Ni2B: B 0.333; Ni4B3(o): B 0.414; L: B 0.408 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 14 |  |
+| 1300.15 | congruent melting: Ni4B3(o) -> L | Ni4B3(o): B 0.414; L: B 0.414 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 17 |  |
+| 1299.15 | congruent melting: Ni4B3(o) -> L | Ni4B3(o): B 0.414; L: B 0.414 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 16 |  |
+| 1298.15 | eutectic: Ni4B3(o) + Ni4B3(m) -> L | Ni4B3(o): B 0.414; Ni4B3(m): B 0.436; L: B 0.43 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 19 |  |
+| 1296.15 | eutectic: Ni4B3(m) + NiB -> L | Ni4B3(m): B 0.436; NiB: B 0.5; L: B 0.468 | model | [1] Campbell 1999 | Table 4, p. 4, row 27 |  |
+| 1294.15 | eutectic: Ni4B3(o) + Ni4B3(m) -> L | Ni4B3(o): B 0.414; Ni4B3(m): B 0.436; L: B 0.415 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 20 |  |
+| 1292.15 | eutectic: Ni2B + Ni4B3(o) -> L | Ni2B: B 0.333; Ni4B3(o): B 0.414; L: B 0.395 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 13 |  |
+| 1291.15 | eutectic: Ni4B3(m) + NiB -> L | Ni4B3(m): B 0.436; NiB: B 0.5; L: B 0.453 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 25 |  |
+| 1285.15 | eutectic: Ni4B3(m) + NiB -> L | Ni4B3(m): B 0.436; NiB: B 0.5; L: B 0.45 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 26 |  |
 
 ## Formation enthalpies
 
@@ -98,9 +98,9 @@ Table: Phase transition, B–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1298.15 K | 1298.15 | Congruent: L -> m–Ni4B3; _L: Ni 0.565; m–Ni4B3: Ni 0.565_ | model | [2] Cacciamani 2011 | Table 2, p. 5, row 6 |  |
-| Phase transition | 1385.15 K | 1385.15 | Congruent: L -> Ni2B; _L: Ni 0.667; Ni2B: Ni 0.667_ | model | [2] Cacciamani 2011 | Table 2, p. 5, row 2 |  |
-| Phase transition | 1435.15 K | 1435.15 | Congruent: L -> Ni3B; _L: Ni 0.75; Ni3B: Ni 0.75_ | model | [2] Cacciamani 2011 | Table 2, p. 5, row 1 |  |
+| Phase transition | 1298.15 K | 1298.15 | congruent melting: L -> m–Ni4B3; _L: Ni 0.565; m–Ni4B3: Ni 0.565_ | model | [2] Cacciamani 2011 | Table 2, p. 5, row 6 |  |
+| Phase transition | 1385.15 K | 1385.15 | congruent melting: L -> Ni2B; _L: Ni 0.667; Ni2B: Ni 0.667_ | model | [2] Cacciamani 2011 | Table 2, p. 5, row 2 |  |
+| Phase transition | 1435.15 K | 1435.15 | congruent melting: L -> Ni3B; _L: Ni 0.75; Ni3B: Ni 0.75_ | model | [2] Cacciamani 2011 | Table 2, p. 5, row 1 |  |
 
 ## Sources
 

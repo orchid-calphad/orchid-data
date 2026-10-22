@@ -1,24 +1,22 @@
 # CrGa: enthalpy of formation
 
-> Enthalpy of formation of CrGa: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CrGa: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CrGa.html · Markdown: https://data.orchid-project.org/compounds/CrGa.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -1.491 kJ/mol-atom (mp-aaacphey); OQMD -0.148 kJ/mol-atom (oqmd-2052343).
+4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -1.491 kJ/mol-atom (mp-aaacphey); OQMD -0.148 kJ/mol-atom (oqmd-2052343).
 
 Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) · [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CrGa reported in the literature (6)
+Table: Enthalpy of formation of CrGa reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -16 kJ/mol-atom | CrGa | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 45 |  |
 | -7.29 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8 |  |
-| -7.29 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8 |  |
 | -7.29 kJ/mol-atom | CrGa | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 46 |  |
-| -6.06 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9 |  |
 | -6.06 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9 |  |
 
 ## DFT formation energies

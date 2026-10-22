@@ -28,52 +28,52 @@ Table: Invariant reactions reported in the literature for the Al–Ni–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 4020.15 | e: Liq + τ8-NiAlY + τ5-Ni3Al7Y2 (e4) |  | model | [1] Huang 2015 | Table 4, p. 7, row 47 |  |
-| 3627.15 | e: Liq + τ8-NiAlY + τ10-Ni6Al2Y3 (e3) |  | model | [1] Huang 2015 | Table 4, p. 7, row 46 |  |
-| 1971.15 | P: Liq + τ5-Ni3Al7Y2 + τ8-NiAlY -> τ6-Ni2Al3Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 1 |  |
-| 1933.15 | U: Liq + τ10-Ni6Al2Y3 -> Ni5Y + τ12-Ni8AlY3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 2 |  |
-| 1886.15 | P: Liq + τ5-Ni3Al7Y2 + τ8-NiAlY -> Al2Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 3 |  |
-| 1855.15 | e: Liq + NiY + τ5-Ni3Al7Y2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 45 |  |
-| 1835.15 | U: Liq + τ5-Ni3Al7Y2 -> NiAl + τ6-Ni2Al3Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 4 |  |
-| 1800.15 | U: Liq + τ10-Ni6Al2Y3 -> τ8-NiAlY + Ni5Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 5 |  |
-| 1739.15 | U: Liq + τ6-Ni2Al3Y -> τ8-NiAlY + NiAl |  | model | [1] Huang 2015 | Table 4, p. 7, row 6 |  |
-| 1692.15 | E: Liq -> τ8-NiAlY + Ni5Y + NiAl |  | model | [1] Huang 2015 | Table 4, p. 7, row 7 |  |
-| 1627.15 | e: Liq + τ8-NiAlY + τ10-Ni6Al2Y3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 43 |  |
-| 1606.15 | U: Liq + Ni17Y2 -> Ni5Y + (Ni) |  | model | [1] Huang 2015 | Table 4, p. 7, row 8 |  |
-| 1589.15 | E: Liq -> Ni5Y + Ni3Al + (Ni) |  | model | [1] Huang 2015 | Table 4, p. 7, row 9 |  |
-| 1587.15 | E: Liq -> Ni5Y + NiAl + Ni3Al |  | model | [1] Huang 2015 | Table 4, p. 7, row 10 |  |
-| 1570.15 | U: Liq + Ni4Y -> Ni5Y + Ni7Y2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 11 |  |
-| 1534.15 | U: Liq + Ni5Y -> τ12-Ni8AlY3 + Ni7Y2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 12 |  |
-| 1509.15 | U: Liq + Ni7Y2 -> τ12-Ni8AlY3 + Ni3Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 13 |  |
-| 1503.15 | U: Liq + τ5-Ni3Al7Y2 -> τ3-NiAl4Y + Al2Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 14 |  |
-| 1485.15 | P: Liq + τ8-NiAlY + τ10-Ni6Al2Y3 -> τ9-Ni2AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 15 |  |
-| 1466.15 | U: Liq + τ5-Ni3Al7Y2 -> τ1-Ni6Al23Y4 + τ3-NiAl4Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 16 |  |
-| 1393.15 | U: Liq + NiAl -> Ni2Al3 + τ5-Ni3Al7Y2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 17 |  |
-| 1378.15 | U: Liq + Ni3Y -> τ12-Ni8AlY3 + Ni2Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 18 |  |
-| 1377.15 | U: Liq + τ5-Ni3Al7Y2 -> Ni2Al3 + τ1-Ni6Al23Y4 |  | model | [1] Huang 2015 | Table 4, p. 7, row 19 |  |
-| 1353.15 | P: Liq + τ9-Ni2AlY2 + τ10-Ni6Al2Y3 -> τ11-Ni3AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 20 |  |
-| 1352.15 | e: Liq + Al2Y3 + τ8-NiAlY | Al2Y3: Al 0.4, Ni 0, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 42 |  |
-| 1351.15 | E: Liq -> τ8-NiAlY + Al2Y + Al2Y3 | Al2Y3: Al 0.4, Ni 0, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 21 |  |
-| 1351.15 | E: Liq -> Al2Y + Al2Y3 + AlY | Al2Y3: Al 0.4, Ni 0, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 22 |  |
-| 1340.15 | e: Liq + α-Y + τ8-NiAlY |  | model | [1] Huang 2015 | Table 4, p. 7, row 41 |  |
-| 1289.15 | U: Liq + τ10-Ni6Al2Y3 -> NiY + τ11-Ni3AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 23 |  |
-| 1243.15 | U: Liq + τ11-Ni3AlY2 -> NiY + τ9-Ni2AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 24 |  |
-| 1237.15 | U: Liq + Al2Y -> τ3-NiAl4Y + Al3Y_HT | Al3Y_HT: Al 0.75, Ni 0, Y 0.25 | model | [1] Huang 2015 | Table 4, p. 7, row 25 |  |
-| 1229.15 | U: Liq + τ12-Ni8AlY3 -> Ni2Y + τ10-Ni6Al2Y3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 26 |  |
-| 1221.15 | E: Liq -> Ni2Y + τ10-Ni6Al2Y3 + NiY |  | model | [1] Huang 2015 | Table 4, p. 7, row 27 |  |
-| 1212.15 | U: Liq + Al2Y3 -> AlY2 + τ8-NiAlY | Al2Y3: Al 0.4, Ni 0, Y 0.6; AlY2: Al 0.333333, Ni 0, Y 0.666667 | model | [1] Huang 2015 | Table 4, p. 7, row 28 |  |
-| 1157.15 | E: Liq -> AlY2 + α-Y + τ8-NiAlY | AlY2: Al 0.333333, Ni 0, Y 0.666667 | model | [1] Huang 2015 | Table 4, p. 7, row 29 |  |
-| 1136.15 | P: Liq + Ni2Al3 + τ1-Ni6Al23Y4 -> τ2-Ni3Al9Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 30 |  |
-| 1120.15 | U: Liq + Ni2Al3 -> Al3Ni + τ2-Ni3Al9Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 31 |  |
-| 1117.15 | U: Liq + τ3-NiAl4Y -> Al3Y_HT + τ1-Ni6Al23Y4 | Al3Y_HT: Al 0.75, Ni 0, Y 0.25 | model | [1] Huang 2015 | Table 4, p. 7, row 32 |  |
-| 1113.15 | U: Liq + τ8-NiAlY -> α-Y + τ9-Ni2AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 33 |  |
-| 1113.15 | U: Liq + τ2-Ni3Al9Y -> τ1-Ni6Al23Y4 + NiAl3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 34 |  |
-| 1095.15 | E: Liq -> NiY3 + α-Y + τ9-Ni2AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 35 |  |
-| 1081.15 | U: Liq + NiY -> τ9-Ni2AlY2 + Ni2Y3 | Ni2Y3: Al 0, Ni 0.4, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 36 |  |
-| 1059.15 | E: Liq -> τ9-Ni2AlY2 + Ni2Y3 + NiY3 | Ni2Y3: Al 0, Ni 0.4, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 37 |  |
-| 917.15 | U: Liq + Al3Y_HT -> τ1-Ni6Al23Y4 + Al3Y_LT | Al3Y_HT: Al 0.75, Ni 0, Y 0.25 | model | [1] Huang 2015 | Table 4, p. 7, row 38 |  |
-| 911.15 | E: Liq -> (Al) + τ1-Ni6Al23Y4 + NiAl3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 39 |  |
-| 906.15 | E: Liq -> (Al) + Al3Y_HT + τ1-Ni6Al23Y4 | Al3Y_HT: Al 0.75, Ni 0, Y 0.25 | model | [1] Huang 2015 | Table 4, p. 7, row 40 |  |
+| 4020.15 | eutectic: Liq + τ8-NiAlY + τ5-Ni3Al7Y2 (e4) |  | model | [1] Huang 2015 | Table 4, p. 7, row 47 |  |
+| 3627.15 | eutectic: Liq + τ8-NiAlY + τ10-Ni6Al2Y3 (e3) |  | model | [1] Huang 2015 | Table 4, p. 7, row 46 |  |
+| 1971.15 | peritectic: Liq + τ5-Ni3Al7Y2 + τ8-NiAlY -> τ6-Ni2Al3Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 1 |  |
+| 1933.15 | quasi-peritectic: Liq + τ10-Ni6Al2Y3 -> Ni5Y + τ12-Ni8AlY3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 2 |  |
+| 1886.15 | peritectic: Liq + τ5-Ni3Al7Y2 + τ8-NiAlY -> Al2Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 3 |  |
+| 1855.15 | eutectic: Liq + NiY + τ5-Ni3Al7Y2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 45 |  |
+| 1835.15 | quasi-peritectic: Liq + τ5-Ni3Al7Y2 -> NiAl + τ6-Ni2Al3Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 4 |  |
+| 1800.15 | quasi-peritectic: Liq + τ10-Ni6Al2Y3 -> τ8-NiAlY + Ni5Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 5 |  |
+| 1739.15 | quasi-peritectic: Liq + τ6-Ni2Al3Y -> τ8-NiAlY + NiAl |  | model | [1] Huang 2015 | Table 4, p. 7, row 6 |  |
+| 1692.15 | eutectic: Liq -> τ8-NiAlY + Ni5Y + NiAl |  | model | [1] Huang 2015 | Table 4, p. 7, row 7 |  |
+| 1627.15 | eutectic: Liq + τ8-NiAlY + τ10-Ni6Al2Y3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 43 |  |
+| 1606.15 | quasi-peritectic: Liq + Ni17Y2 -> Ni5Y + (Ni) |  | model | [1] Huang 2015 | Table 4, p. 7, row 8 |  |
+| 1589.15 | eutectic: Liq -> Ni5Y + Ni3Al + (Ni) |  | model | [1] Huang 2015 | Table 4, p. 7, row 9 |  |
+| 1587.15 | eutectic: Liq -> Ni5Y + NiAl + Ni3Al |  | model | [1] Huang 2015 | Table 4, p. 7, row 10 |  |
+| 1570.15 | quasi-peritectic: Liq + Ni4Y -> Ni5Y + Ni7Y2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 11 |  |
+| 1534.15 | quasi-peritectic: Liq + Ni5Y -> τ12-Ni8AlY3 + Ni7Y2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 12 |  |
+| 1509.15 | quasi-peritectic: Liq + Ni7Y2 -> τ12-Ni8AlY3 + Ni3Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 13 |  |
+| 1503.15 | quasi-peritectic: Liq + τ5-Ni3Al7Y2 -> τ3-NiAl4Y + Al2Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 14 |  |
+| 1485.15 | peritectic: Liq + τ8-NiAlY + τ10-Ni6Al2Y3 -> τ9-Ni2AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 15 |  |
+| 1466.15 | quasi-peritectic: Liq + τ5-Ni3Al7Y2 -> τ1-Ni6Al23Y4 + τ3-NiAl4Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 16 |  |
+| 1393.15 | quasi-peritectic: Liq + NiAl -> Ni2Al3 + τ5-Ni3Al7Y2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 17 |  |
+| 1378.15 | quasi-peritectic: Liq + Ni3Y -> τ12-Ni8AlY3 + Ni2Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 18 |  |
+| 1377.15 | quasi-peritectic: Liq + τ5-Ni3Al7Y2 -> Ni2Al3 + τ1-Ni6Al23Y4 |  | model | [1] Huang 2015 | Table 4, p. 7, row 19 |  |
+| 1353.15 | peritectic: Liq + τ9-Ni2AlY2 + τ10-Ni6Al2Y3 -> τ11-Ni3AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 20 |  |
+| 1352.15 | eutectic: Liq + Al2Y3 + τ8-NiAlY | Al2Y3: Al 0.4, Ni 0, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 42 |  |
+| 1351.15 | eutectic: Liq -> τ8-NiAlY + Al2Y + Al2Y3 | Al2Y3: Al 0.4, Ni 0, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 21 |  |
+| 1351.15 | eutectic: Liq -> Al2Y + Al2Y3 + AlY | Al2Y3: Al 0.4, Ni 0, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 22 |  |
+| 1340.15 | eutectic: Liq + α-Y + τ8-NiAlY |  | model | [1] Huang 2015 | Table 4, p. 7, row 41 |  |
+| 1289.15 | quasi-peritectic: Liq + τ10-Ni6Al2Y3 -> NiY + τ11-Ni3AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 23 |  |
+| 1243.15 | quasi-peritectic: Liq + τ11-Ni3AlY2 -> NiY + τ9-Ni2AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 24 |  |
+| 1237.15 | quasi-peritectic: Liq + Al2Y -> τ3-NiAl4Y + Al3Y_HT | Al3Y_HT: Al 0.75, Ni 0, Y 0.25 | model | [1] Huang 2015 | Table 4, p. 7, row 25 |  |
+| 1229.15 | quasi-peritectic: Liq + τ12-Ni8AlY3 -> Ni2Y + τ10-Ni6Al2Y3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 26 |  |
+| 1221.15 | eutectic: Liq -> Ni2Y + τ10-Ni6Al2Y3 + NiY |  | model | [1] Huang 2015 | Table 4, p. 7, row 27 |  |
+| 1212.15 | quasi-peritectic: Liq + Al2Y3 -> AlY2 + τ8-NiAlY | Al2Y3: Al 0.4, Ni 0, Y 0.6; AlY2: Al 0.333333, Ni 0, Y 0.666667 | model | [1] Huang 2015 | Table 4, p. 7, row 28 |  |
+| 1157.15 | eutectic: Liq -> AlY2 + α-Y + τ8-NiAlY | AlY2: Al 0.333333, Ni 0, Y 0.666667 | model | [1] Huang 2015 | Table 4, p. 7, row 29 |  |
+| 1136.15 | peritectic: Liq + Ni2Al3 + τ1-Ni6Al23Y4 -> τ2-Ni3Al9Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 30 |  |
+| 1120.15 | quasi-peritectic: Liq + Ni2Al3 -> Al3Ni + τ2-Ni3Al9Y |  | model | [1] Huang 2015 | Table 4, p. 7, row 31 |  |
+| 1117.15 | quasi-peritectic: Liq + τ3-NiAl4Y -> Al3Y_HT + τ1-Ni6Al23Y4 | Al3Y_HT: Al 0.75, Ni 0, Y 0.25 | model | [1] Huang 2015 | Table 4, p. 7, row 32 |  |
+| 1113.15 | quasi-peritectic: Liq + τ8-NiAlY -> α-Y + τ9-Ni2AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 33 |  |
+| 1113.15 | quasi-peritectic: Liq + τ2-Ni3Al9Y -> τ1-Ni6Al23Y4 + NiAl3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 34 |  |
+| 1095.15 | eutectic: Liq -> NiY3 + α-Y + τ9-Ni2AlY2 |  | model | [1] Huang 2015 | Table 4, p. 7, row 35 |  |
+| 1081.15 | quasi-peritectic: Liq + NiY -> τ9-Ni2AlY2 + Ni2Y3 | Ni2Y3: Al 0, Ni 0.4, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 36 |  |
+| 1059.15 | eutectic: Liq -> τ9-Ni2AlY2 + Ni2Y3 + NiY3 | Ni2Y3: Al 0, Ni 0.4, Y 0.6 | model | [1] Huang 2015 | Table 4, p. 7, row 37 |  |
+| 917.15 | quasi-peritectic: Liq + Al3Y_HT -> τ1-Ni6Al23Y4 + Al3Y_LT | Al3Y_HT: Al 0.75, Ni 0, Y 0.25 | model | [1] Huang 2015 | Table 4, p. 7, row 38 |  |
+| 911.15 | eutectic: Liq -> (Al) + τ1-Ni6Al23Y4 + NiAl3 |  | model | [1] Huang 2015 | Table 4, p. 7, row 39 |  |
+| 906.15 | eutectic: Liq -> (Al) + Al3Y_HT + τ1-Ni6Al23Y4 | Al3Y_HT: Al 0.75, Ni 0, Y 0.25 | model | [1] Huang 2015 | Table 4, p. 7, row 40 |  |
 
 ## Formation enthalpies
 

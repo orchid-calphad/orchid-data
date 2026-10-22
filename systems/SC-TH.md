@@ -46,9 +46,9 @@ Table: Invariant reactions reported in the literature for the Sc–Th system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1423.15 | Eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.367; αTh: Th 0.29; αSc: Th 0.212 | model | [1] Liu 2009 | Table 7, p. 6, row 7 |  |
-| 1423.15 | Eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.34; αTh: Th 0.2 | experimental | [1] Liu 2009; _cites Terekhov 1990_ | Table 7, p. 6, row 5 |  |
-| 1273.15 | Eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.5 | experimental | [1] Liu 2009; _cites Badayeva 1969_ | Table 7, p. 6, row 6 |  |
+| 1423.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.367; αTh: Th 0.29; αSc: Th 0.212 | model | [1] Liu 2009 | Table 7, p. 6, row 7 |  |
+| 1423.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.34; αTh: Th 0.2 | experimental | [1] Liu 2009; _cites Terekhov 1990_ | Table 7, p. 6, row 5 |  |
+| 1273.15 | eutectoid: (βSc, βTh) -> αTh + αSc | (βSc, βTh): Th 0.5 | experimental | [1] Liu 2009; _cites Badayeva 1969_ | Table 7, p. 6, row 6 |  |
 
 ## Other properties
 
@@ -58,14 +58,14 @@ Table: Phase transition, Sc–Th system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc -> αSc; _βSc: Th 0_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 3 |  |
-| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc -> αSc; _βSc: Th 0_ | model | [1] Liu 2009 | Table 7, p. 6, row 4 |  |
-| Phase transition | 1633.15 K | 1633.15 | Polymorphic: βTh -> αTh; _βTh: Th 1_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 10 |  |
-| Phase transition | 1633.15 K | 1633.15 | Polymorphic: βTh -> αTh; _βTh: Th 1_ | model | [1] Liu 2009 | Table 7, p. 6, row 11 |  |
-| Phase transition | 1814.15 K | 1814.15 | Melting: L -> βSc; _βSc: Th 0_ | model | [1] Liu 2009 | Table 7, p. 6, row 2 |  |
-| Phase transition | 1814.15 K | 1814.15 | Melting: L -> βSc; _βSc: Th 0_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 1 |  |
-| Phase transition | 2028.15 K | 2028.15 | Melting: L -> βTh; _βTh: Th 1_ | model | [1] Liu 2009 | Table 7, p. 6, row 9 |  |
-| Phase transition | 2028.15 K | 2028.15 | Melting: L -> βTh; _βTh: Th 1_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 8 |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _βSc: Th 0_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 3 |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _βSc: Th 0_ | model | [1] Liu 2009 | Table 7, p. 6, row 4 |  |
+| Phase transition | 1633.15 K | 1633.15 | polymorphic: βTh -> αTh; _βTh: Th 1_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 10 |  |
+| Phase transition | 1633.15 K | 1633.15 | polymorphic: βTh -> αTh; _βTh: Th 1_ | model | [1] Liu 2009 | Table 7, p. 6, row 11 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Th 0_ | model | [1] Liu 2009 | Table 7, p. 6, row 2 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Th 0_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 1 |  |
+| Phase transition | 2028.15 K | 2028.15 | congruent melting: L -> βTh; _βTh: Th 1_ | model | [1] Liu 2009 | Table 7, p. 6, row 9 |  |
+| Phase transition | 2028.15 K | 2028.15 | congruent melting: L -> βTh; _βTh: Th 1_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 8 |  |
 
 ## Sources
 

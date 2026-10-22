@@ -1,10 +1,10 @@
 # Ca–Ce system
 
-> Ca–Ce system: 41 accepted literature values (invariant reaction 14, crystal structure 12, mixing / partial 12, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ce system: 40 accepted literature values (invariant reaction 14, mixing / partial 12, crystal structure 11, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-CE.html · Markdown: https://data.orchid-project.org/systems/CA-CE.md
 
-41 accepted literature values from 2 paper(s) (experimental 12, model 11, DFT 18); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+40 accepted literature values from 2 paper(s) (experimental 11, model 11, DFT 18); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CE.json) · [CSV](https://data.orchid-project.org/systems/CA-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CE/CaCe-07Ham.json) · [Markdown](https://data.orchid-project.org/systems/CA-CE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 11 |
 | model | 11 |
 | DFT | 18 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 14 |
 | phase transition | 3 |
 | mixing / partial | 12 |
-| crystal structure | 12 |
+| crystal structure | 11 |
 
 ## Calculated phase diagrams
 
@@ -92,20 +92,20 @@ Table: Mixing / partial, Ca–Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing | 22719 J/mol (basis unstated) | 0 | Ca0.25Ce0.75; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 7 |  |
-| Enthalpy of mixing | 18208 J/mol (basis unstated) | 0 | Ca0.25Ce0.75 (with magnetic); _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10 |  |
-| Enthalpy of mixing | 21928 J/mol (basis unstated) | 0 | Ca0.50Ce0.50; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 8 |  |
-| Enthalpy of mixing | 20989 J/mol (basis unstated) | 0 | Ca0.50Ce0.50 (with magnetic); _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 11 |  |
-| Enthalpy of mixing | 16488 J/mol (basis unstated) | 0 | Ca0.75Ce0.25; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9 |  |
-| Enthalpy of mixing | 15827 J/mol (basis unstated) | 0 | Ca0.75Ce0.25 (with magnetic); _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 12 |  |
-| Enthalpy of mixing | 15827 J/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 12 |  |
-| Enthalpy of mixing | 22719 J/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 7 |  |
-| Enthalpy of mixing | 20989 J/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 11 |  |
-| Enthalpy of mixing | 21928 J/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 8 |  |
-| Enthalpy of mixing | 18208 J/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10 |  |
-| Enthalpy of mixing | 16488 J/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9 |  |
+| Enthalpy of mixing | 22.719 kJ/mol (basis unstated) | 0 | Ca0.25Ce0.75; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 7 |  |
+| Enthalpy of mixing | 18.208 kJ/mol (basis unstated) | 0 | Ca0.25Ce0.75 (with magnetic); _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10 |  |
+| Enthalpy of mixing | 21.928 kJ/mol (basis unstated) | 0 | Ca0.50Ce0.50; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 8 |  |
+| Enthalpy of mixing | 20.989 kJ/mol (basis unstated) | 0 | Ca0.50Ce0.50 (with magnetic); _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 11 |  |
+| Enthalpy of mixing | 16.488 kJ/mol (basis unstated) | 0 | Ca0.75Ce0.25; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9 |  |
+| Enthalpy of mixing | 15.827 kJ/mol (basis unstated) | 0 | Ca0.75Ce0.25 (with magnetic); _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 12 |  |
+| Enthalpy of mixing | 15.827 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 12 |  |
+| Enthalpy of mixing | 22.719 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 7 |  |
+| Enthalpy of mixing | 20.989 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 11 |  |
+| Enthalpy of mixing | 21.928 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.5_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 8 |  |
+| Enthalpy of mixing | 18.208 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10 |  |
+| Enthalpy of mixing | 16.488 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9 |  |
 
-### Crystal structure (12)
+### Crystal structure (11)
 
 Table: Crystal structure, Ca–Ce system
 
@@ -122,7 +122,6 @@ Table: Crystal structure, Ca–Ce system
 | lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.756 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 3 |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | bcc; _alloy: Ce 1_ | experimental | [2] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6 |  |
 | lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.759 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 5 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | bcc; _alloy: Ce 1_ | experimental | [2] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 4 |  |
 
 ## Sources
 

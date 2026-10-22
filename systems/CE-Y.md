@@ -54,19 +54,19 @@ Table: Invariant reactions reported in the literature for the Ce–Y system (14)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1055 | bcc_a2 + hcp -> dhcp | bcc_a2: Y 0.31; hcp: Y 0.701; dhcp: Y 0.404 | model | [1] Meng 2006 | Table 2, p. 3, row 1 |  |
-| 1053 | Peritectoid: bcc+hcp->dhcp |  | experimental | [2] DJUROVIC 2008; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 5, p. 8, row 2 |  |
-| 1053 (none) | peritectic: bcc + hcp → dhcp |  | experimental | [1] Meng 2006 | p. 2 | “Additionally they proposed the occurrence of a peritectic reaction, bcc + hcp → dhcp, at about 1053 K.” |
+| 1053 | peritectoid: bcc+hcp->dhcp |  | experimental | [2] DJUROVIC 2008; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 5, p. 8, row 2 |  |
+| 1053 | peritectic: bcc + hcp → dhcp |  | experimental | [1] Meng 2006 | p. 2 | “Additionally they proposed the occurrence of a peritectic reaction, bcc + hcp → dhcp, at about 1053 K.” |
 | 1053 | bcc_a2 + hcp -> dhcp |  | experimental | [1] Meng 2006; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 2, p. 3, row 2 |  |
-| 1040 | Peritectoid: bcc+hcp->dhcp | bcc: Y 0.279; hcp: Y 0.65; dhcp: Y 0.433 | model | [2] DJUROVIC 2008 | Table 5, p. 8, row 1 |  |
-| 978 | Eutectoid: bcc->fcc+dhcp | bcc: Y 0.1 | experimental | [2] DJUROVIC 2008; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 5, p. 8, row 4 |  |
-| 978 (none) | eutectic |  | experimental | [1] Meng 2006; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | p. 2 | “They determined the location of the eutectic decomposition of the bcc phase at about 978 K and 10 at.% Y, which compares well with the data shown in Fig. 1.” |
+| 1040 | peritectoid: bcc+hcp->dhcp | bcc: Y 0.279; hcp: Y 0.65; dhcp: Y 0.433 | model | [2] DJUROVIC 2008 | Table 5, p. 8, row 1 |  |
+| 978 | eutectoid: bcc->fcc+dhcp | bcc: Y 0.1 | experimental | [2] DJUROVIC 2008; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 5, p. 8, row 4 |  |
+| 978 | eutectic |  | experimental | [1] Meng 2006; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | p. 2 | “They determined the location of the eutectic decomposition of the bcc phase at about 978 K and 10 at.% Y, which compares well with the data shown in Fig. 1.” |
 | 978 | bcc_a2 -> fcc_a1 + dhcp | bcc_a2: Y 0.1 | experimental | [1] Meng 2006; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 2, p. 3, row 4 |  |
 | 973 | bcc_a2 -> fcc_a1 + dhcp |  | experimental | [1] Meng 2006; _cites Gschneidner 1982_ [doi](https://doi.org/10.1007/bf02892383) | Table 2, p. 3, row 5 |  |
-| 973 | Eutectoid: bcc->fcc+dhcp |  | unspecified | [2] DJUROVIC 2008; _cites Gschneidner 1982_ [doi](https://doi.org/10.1007/bf02892383) | Table 5, p. 8, row 5 |  |
+| 973 | eutectoid: bcc->fcc+dhcp |  | unspecified | [2] DJUROVIC 2008; _cites Gschneidner 1982_ [doi](https://doi.org/10.1007/bf02892383) | Table 5, p. 8, row 5 |  |
 | 973 | eutectoid: bcc → fcc + dhcp |  | experimental | [1] Meng 2006; _cites Gschneidner 1982_ [doi](https://doi.org/10.1007/bf02892383) | p. 1 | “It was believed that there are five solution phases, liquid, bcc, hcp, fcc and dhcp, in the Ce-Y binary system, and the bcc phase transforms into the fcc phase and the dhcp phase at 973 K by the eutectoid reaction, bcc → fcc + dhcp \[3\].” |
 | 967 | eutectoid |  | model | [1] Meng 2006 | p. 3 | “The calculated results show that the eutectoid decomposition of the bcc phase occurs at 967 K and 16.1 at.% Y.” |
 | 967 | bcc_a2 -> fcc_a1 + dhcp | bcc_a2: Y 0.161; fcc_a1: Y 0.127; dhcp: Y 0.283 | model | [1] Meng 2006 | Table 2, p. 3, row 3 |  |
-| 953 | Eutectoid: bcc->fcc+dhcp | bcc: Y 0.107; fcc: Y 0.089; dhcp: Y 0.339 | model | [2] DJUROVIC 2008 | Table 5, p. 8, row 3 |  |
+| 953 | eutectoid: bcc->fcc+dhcp | bcc: Y 0.107; fcc: Y 0.089; dhcp: Y 0.339 | model | [2] DJUROVIC 2008 | Table 5, p. 8, row 3 |  |
 
 ## Sources
 

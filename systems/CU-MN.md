@@ -1,10 +1,10 @@
 # Cu–Mn system
 
-> Cu–Mn system: 45 accepted literature values (invariant reaction 21, phase transition 16, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Mn system: 44 accepted literature values (invariant reaction 20, phase transition 16, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-MN.html · Markdown: https://data.orchid-project.org/systems/CU-MN.md
 
-45 accepted literature values from 3 paper(s) (experimental 26, model 19); 3 calculated phase diagram(s).
+44 accepted literature values from 3 paper(s) (experimental 25, model 19); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-MN.json) · [CSV](https://data.orchid-project.org/systems/CU-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-MN/CuMn-03Mie-LB.json) · [Markdown](https://data.orchid-project.org/systems/CU-MN.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 26 |
+| experimental | 25 |
 | model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 21 |
+| invariant reaction | 20 |
 | phase transition | 16 |
 | phase equilibrium | 8 |
 
@@ -54,7 +54,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Mn system (21)
+Table: Invariant reactions reported in the literature for the Cu–Mn system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -73,7 +73,6 @@ Table: Invariant reactions reported in the literature for the Cu–Mn system (21
 | 998.15 | FCC_A1 + CUB_A13 = CBCC_A12 |  | experimental | [1] He 2008 | Table 3, p. 4, row 5 |  |
 | 998.15 | Fcc - cub - cbcc | Fcc: Mn 0.78; cub: Mn 0.996; cbcc: Mn 0.997 | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 7 |  |
 | 994.15 | FCC_A1 + CUB_A13 = CBCC_A12 | FCC_A1: Mn 0.776; CUB_A13: Mn 0.99; CBCC_A12: Mn 0.985 | model | [1] He 2008 | Table 3, p. 4, row 4 |  |
-| 993.15 | peritectoid: CUB A13 + FCC A1 ↔ CBCC A12 |  | experimental | [1] He 2008 | p. 3 | “The obtained peritectoid reaction temperatures were 725 ◦ C from alloy Cu20 Mn80 and 720 ◦ C from both alloys Cu13 Mn87 and Cu7 Mn93 .” |
 | 993.15 | peritectoid: CUB A13 + FCC A1 ↔ CBCC A12 |  | experimental | [1] He 2008 | p. 3 | “The obtained peritectoid reaction temperatures were 725 ◦ C from alloy Cu20 Mn80 and 720 ◦ C from both alloys Cu13 Mn87 and Cu7 Mn93 .” |
 | 980.15 | Fcc - cub - cbcc | Fcc: Mn 0.893; cub: Mn 1; cbcc: Mn 1 | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 9 |  |
 | 978.15 | FCC_A1 + CUB_A13 = CBCC_A12 | FCC_A1: Mn 0.67; CUB_A13: Mn 1; CBCC_A12: Mn 1 | experimental | [1] He 2008; _cites Dean 1945_ | Table 3, p. 4, row 7 |  |
@@ -96,10 +95,10 @@ Table: Phase transition, Cu–Mn system
 | Phase transition | 976 K | 976 | other | model | [3] Wang 2007 | p. 6 | “According to the calculation by the optimized parameters, the metastable miscibility gap of the fcc phase can be predicted in the Mn-rich portion, as shown in Fig. 3, where the highest critical temperatures is 976 K at 78 at.% Mn (75.4 wt.% Mn).” |
 | Phase transition | 998.15 K | 998.15 |  | experimental | [1] He 2008 | p. 3 | “A DSC measurement on alloy Cu13 Mn87 was subsequently conducted to accurately determine this phase transition temperature and it was measured to be 725 ◦ C.” |
 | Phase transition | 1146.15 K | 1146.15 |  | experimental | [1] He 2008 | p. 3 | “It is worth mentioning that the alloy Cu61 Mn39 is considered to be very close to the minimum melting point of the FCC A1 solid solution for the onset temperature of the thermal effect of the alloy on heating is 873.5 ◦ C and the onset temperature of the thermal effect on cooling is 873 ◦ C.” |
-| Phase transition | 1146.15 K | 1146.15 | congruent point: Liq - fcc (congruent point); _Liq: Mn 0.38; fcc: Mn 0.38_ | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 4 |  |
+| Phase transition | 1146.15 K | 1146.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.38; fcc: Mn 0.38_ | experimental | [2] Miettinen 2003; _cites ref. 94Goc_ | Table 4, p. 4, row 4 |  |
 | Phase transition | 1146.65 K | 1146.65 |  | experimental | [1] He 2008 | p. 3 | “It is worth mentioning that the alloy Cu61 Mn39 is considered to be very close to the minimum melting point of the FCC A1 solid solution for the onset temperature of the thermal effect of the alloy on heating is 873.5 ◦ C and the onset temperature of the thermal effect on cooling is 873 ◦ C.” |
-| Phase transition | 1152.15 K | 1152.15 | congruent point: Liq - fcc (congruent point); _Liq: Mn 0.38; fcc: Mn 0.38_ | model | [2] Miettinen 2003 | Table 4, p. 4, row 5 |  |
-| Phase transition | 1154.15 K | 1154.15 | congruent point: Liq - fcc (congruent point); _Liq: Mn 0.369; fcc: Mn 0.369_ | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 6 |  |
+| Phase transition | 1152.15 K | 1152.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.38; fcc: Mn 0.38_ | model | [2] Miettinen 2003 | Table 4, p. 4, row 5 |  |
+| Phase transition | 1154.15 K | 1154.15 | congruent melting: Liq - fcc (congruent point); _Liq: Mn 0.369; fcc: Mn 0.369_ | model | [2] Miettinen 2003; _cites ref. 96Vre_ | Table 4, p. 4, row 6 |  |
 | Phase transition | 1169.5 K | 1169.5 | C2 | model | [3] Wang 2007 | Table 2, p. 7, row 2 |  |
 | Phase transition | 1242.9 K | 1242.9 | C2 | model | [3] Wang 2007 | Table 2, p. 7, row 4 |  |
 | Phase transition | 1409.1 K | 1409.1 | Cu–Mn–Co special point C1 | model | [3] Wang 2007 | Table 2, p. 7, row 3 |  |

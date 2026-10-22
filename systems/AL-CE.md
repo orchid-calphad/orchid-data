@@ -134,29 +134,29 @@ Table: Invariant reactions reported in the literature for the Al–Ce system (24
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1529 | Liquid + CeAl2 -> βCe3Al11 | Liquid: Ce 0.1874; CeAl2: Ce 0.3293; βCe3Al11: Ce 0.2143 | model | [1] Cacciamani 2001 | Table 3, p. 7, row 3 |  |
-| 1497.1 | Peritectic: Liquid + Laves-C15\* -> Al11Ce3 | Liquid: Ce 0.179; Laves-C15\*: Ce 0.333; Al11Ce3: Ce 0.214 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 2 |  |
-| 1408 | Peritectoid: Al11Ce3 + Laves-C15\* -> Al3Ce | Al11Ce3: Ce 0.214; Laves-C15\*: Ce 0.333; Al3Ce: Ce 0.25 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 7 |  |
+| 1497.1 | peritectic: Liquid + Laves-C15\* -> Al11Ce3 | Liquid: Ce 0.179; Laves-C15\*: Ce 0.333; Al11Ce3: Ce 0.214 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 2 |  |
+| 1408 | peritectoid: Al11Ce3 + Laves-C15\* -> Al3Ce | Al11Ce3: Ce 0.214; Laves-C15\*: Ce 0.333; Al3Ce: Ce 0.25 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 7 |  |
 | 1407 | βCe3Al11 + CeAl2 -> CeAl3 | βCe3Al11: Ce 0.2143; CeAl2: Ce 0.3308; CeAl3: Ce 0.25 | model | [1] Cacciamani 2001 | Table 3, p. 7, row 4 |  |
 | 1138.15 | peritectic: AlCe -> Al2Ce + Liq |  | experimental | [3] Gao 2005 | p. 3 | “The first corresponds to the decomposition of AlCe3 into AlCe and AlCe2 at 648 °C; the second is the peritectic melting of AlCe2 into AlCe and liquid at 775 °C; the third is the peritectic melting of AlCe into Al2Ce and liquid at 865 °C.” |
-| 1116.9 | Peritectic: Liquid + Laves-C15\* -> AlCe | Liquid: Ce 0.619; Laves-C15\*: Ce 0.333; AlCe: Ce 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 3 |  |
+| 1116.9 | peritectic: Liquid + Laves-C15\* -> AlCe | Liquid: Ce 0.619; Laves-C15\*: Ce 0.333; AlCe: Ce 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 3 |  |
 | 1116 | Liquid + CeAl2 -> AlCe | Liquid: Ce 0.6292; CeAl2: Ce 0.3788; AlCe: Ce 0.5 | model | [1] Cacciamani 2001 | Table 3, p. 7, row 6 |  |
 | 1048.15 | peritectic |  | model | [3] Gao 2005 | p. 1 | “It forms through a peritectic reaction of liquid and AlCe phases at 775 °C, and decomposes into AlCe and AlCe3 at 648 °C and below.” |
 | 1048.15 | peritectic: AlCe2 -> AlCe + Liq |  | experimental | [3] Gao 2005 | p. 3 | “The first corresponds to the decomposition of AlCe3 into AlCe and AlCe2 at 648 °C; the second is the peritectic melting of AlCe2 into AlCe and liquid at 775 °C; the third is the peritectic melting of AlCe into Al2Ce and liquid at 865 °C.” |
 | 1048.15 | peritectic: AlCe + Liq -> AlCe2 |  | experimental | [3] Gao 2005 | p. 3 | “Based on the DTA measurements of these three alloys, the peritectic reaction of AlCe Liq 4 AlCe2 at 775 °C can be reasonably justified.” |
-| 1000 | Polymorphic: Liquid -> bcc-A2 + fcc-A1 | Liquid: Ce 0.956; bcc-A2: Ce 1; fcc-A1: Ce 1 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 6 |  |
+| 1000 | polymorphic: Liquid -> bcc-A2 + fcc-A1 | Liquid: Ce 0.956; bcc-A2: Ce 1; fcc-A1: Ce 1 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 6 |  |
 | 961 | (δCe) -> Liquid + (γCe) | (δCe): Ce 0.9867; Liquid: Ce 0.926; (γCe): Ce 0.9999 | model | [1] Cacciamani 2001 | Table 3, p. 7, row 11 |  |
 | 925 | Liquid -> AlCe + αCe3Al | Liquid: Ce 0.7213; AlCe: Ce 0.5; αCe3Al: Ce 0.75 | model | [1] Cacciamani 2001 | Table 3, p. 7, row 7 |  |
 | 914.15 | eutectic |  | experimental | [3] Gao 2005 | p. 8 | “Also, the current study places the eutectic reaction in the very Al-rich side, occurring at 641 °C with a eutectic point of 2.6 at. pct Ce (Figure 2(a)).” |
 | 914.15 | eutectic |  | experimental | [3] Gao 2005 | p. 2 | “The DTA scan was repeated over a series of temperature ranges (only one scan is shown in Figure 2 for Al97.4Ce2.6), and there was only one reproducible thermal event observed; thus, it was concluded that the eutectic point is 2.6 at. pct Ce at 641 °C.” |
 | 913.15 | eutectic |  | model | [3] Gao 2005 | p. 8 | “This eutectic point was reported as 4.0 at. pct Ce at 640 °C,\[8\] and at 2.6 at. pct Ce at 633 °C.\[10\]” |
-| 911.3 | Eutectic: Liquid -> AlCe + AlCe3 | Liquid: Ce 0.704; AlCe: Ce 0.5; AlCe3: Ce 0.75 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 4 |  |
+| 911.3 | eutectic: Liquid -> AlCe + AlCe3 | Liquid: Ce 0.704; AlCe: Ce 0.5; AlCe3: Ce 0.75 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 4 |  |
 | 906.15 | eutectic |  | model | [3] Gao 2005 | p. 8 | “This eutectic point was reported as 4.0 at. pct Ce at 640 °C,\[8\] and at 2.6 at. pct Ce at 633 °C.\[10\]” |
 | 904 | Liquid -> αCe3Al11 + (Al) | Liquid: Ce 0.026; αCe3Al11: Ce 0.2143; (Al): Ce 0 | model | [1] Cacciamani 2001 | Table 3, p. 7, row 1 |  |
-| 902.6 | Eutectic: Liquid -> fcc-A1 + Al11Ce3 | Liquid: Ce 0.028; fcc-A1: Ce 0; Al11Ce3: Ce 0.214 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 1 |  |
+| 902.6 | eutectic: Liquid -> fcc-A1 + Al11Ce3 | Liquid: Ce 0.028; fcc-A1: Ce 0; Al11Ce3: Ce 0.214 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 1 |  |
 | 866 | Liquid -> αCe3Al + (γCe) | Liquid: Ce 0.8647; αCe3Al: Ce 0.75; (γCe): Ce 0.9999 | model | [1] Cacciamani 2001 | Table 3, p. 7, row 9 |  |
 | 863.15 | eutectic |  | experimental | [3] Gao 2005 | p. 8 | “The eutectic point of Liq 4 AlCe3 Ce is now identified to be 90 at. pct Ce at 590 °C.” |
 | 863.15 | eutectic: Liq -> Ce + AlCe3 |  | experimental | [3] Gao 2005 | p. 3 | “The first peak is the eutectic reaction of Liq 4 Ce AlCe3 occurring at 590 °C, and the second peak is believed to be the peritectic reaction of AlCe2 Liq 4 AlCe3.” |
-| 852.2 | Eutectic: Liquid -> AlCe3 + fcc-A1 | Liquid: Ce 0.854; AlCe3: Ce 0.75; fcc-A1: Ce 1 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 5 |  |
+| 852.2 | eutectic: Liquid -> AlCe3 + fcc-A1 | Liquid: Ce 0.854; AlCe3: Ce 0.75; fcc-A1: Ce 1 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 5 |  |
 
 ## Other properties
 
@@ -173,20 +173,20 @@ Table: Phase transition, Al–Ce system
 | Phase transition | 920.15 K | 920.15 | AlCe2 -> AlCe3 + AlCe | experimental | [3] Gao 2005 | p. 3 | “But the more important conclusion is that the reaction AlCe2 Liq 4 AlCe3 occurs at a slightly higher temperature than does that of AlCe2 4 AlCe3 AlCe at 647 °C, and that these two temperatures are almost too close for DTA to differentiate clearly.” |
 | Phase transition | 921.15 K | 921.15 | AlCe3 -> AlCe + AlCe2 | experimental | [3] Gao 2005 | p. 3 | “The first corresponds to the decomposition of AlCe3 into AlCe and AlCe2 at 648 °C; the second is the peritectic melting of AlCe2 into AlCe and liquid at 775 °C; the third is the peritectic melting of AlCe into Al2Ce and liquid at 865 °C.” |
 | Phase transition | 921.15 K | 921.15 | other | model | [3] Gao 2005 | p. 1 | “It forms through a peritectic reaction of liquid and AlCe phases at 775 °C, and decomposes into AlCe and AlCe3 at 648 °C and below.” |
-| Phase transition | 928.15 K | 928.15 | congruent | experimental | [3] Gao 2005; _cites Buschow 1966_ | p. 3 | “Note that Al25Ce75 was reported to melt congruently at 655 °C by Buschow et al.;\[8\] this is fairly close to the present value.” |
+| Phase transition | 928.15 K | 928.15 | congruent transformation | experimental | [3] Gao 2005; _cites Buschow 1966_ | p. 3 | “Note that Al25Ce75 was reported to melt congruently at 655 °C by Buschow et al.;\[8\] this is fairly close to the present value.” |
 | Phase transition | 930 K | 930 | Liquid -> αCe3Al; _Liquid: Ce 0.75; αCe3Al: Ce 0.75_ | model | [1] Cacciamani 2001 | Table 3, p. 7, row 8 |  |
-| Phase transition | 958.15 K | 958.15 | congruent | experimental | [3] Gao 2005; _cites Saccone 1996_ | p. 3 | “On the other hand, Saccone et al. reported that Al25Ce75 melted congruently at 685 °C,\[17\] but they also reported another peak at 600 °C for this alloy.\[17\]” |
+| Phase transition | 958.15 K | 958.15 | congruent transformation | experimental | [3] Gao 2005; _cites Saccone 1996_ | p. 3 | “On the other hand, Saccone et al. reported that Al25Ce75 melted congruently at 685 °C,\[17\] but they also reported another peak at 600 °C for this alloy.\[17\]” |
 | Phase transition | 1075.15 K | 1075.15 |  | experimental | [3] Gao 2005 | p. 3 | “The perectic point is estimated to be slightly richer in Ce than is Al30Ce70, the final melting point of which is about 802 °C.” |
-| Phase transition | 1231.15 K | 1231.15 | liquidus | experimental | [3] Gao 2005 | p. 3 | “The final melting signal is very weak and the liquidus temperature is estimated to be 958 °C.” |
+| Phase transition | 1231.15 K | 1231.15 | other | experimental | [3] Gao 2005 | p. 3 | “The final melting signal is very weak and the liquidus temperature is estimated to be 958 °C.” |
 | Phase transition | 1246.15 K | 1246.15 | polymorphic | experimental | [3] Gao 2005 | p. 3 | “The first thermal event shown in the heating segment corresponds to the /Al3Ce polymorphous phase transition occurring at 973 °C.” |
 | Phase transition | 1246.15 K | 1246.15 | polymorphic | model | [3] Gao 2005 | p. 1 | “Based on current differential thermal analysis (DTA) measurements and theoretical calculations, it is also proposed that there is an /Al3Ce polymorphous transition occurring at 973 °C in the Al-Ce system and an /Al3Nd polymorphous transition occurring at 888 °C in the Al-Nd system.” |
 | Phase transition | 1246.15 K | 1246.15 | polymorphic | experimental | [3] Gao 2005 | p. 7 | “From the DTA measurements, it is shown that there is a high probability that an /Al3Ce polymorphous transition will occur at 973 °C in the Al-Ce system and, likewise, that an /Al3Nd transition will occur at 888 °C in the Al-Nd system.” |
 | Phase transition | 1290 K | 1290 | βCe3Al11 -> αCe3Al11; _βCe3Al11: Ce 0.2143; αCe3Al11: Ce 0.2143_ | model | [1] Cacciamani 2001 | Table 3, p. 7, row 2 |  |
 | Phase transition | 1293.15 K | 1293.15 |  | model | [3] Gao 2005 | p. 8 | “The Al11Ce3 is formed eutectoidally from Al4Ce and Al3Ce; the transformation temperature is not identified in this study, but is proposed to be at 1020 °C, the /Al11Ce3 transition temperature originally reported by Buschow.\[8\]” |
-| Phase transition | 1728.15 K | 1728.15 | congruent | experimental | [3] Gao 2005 | p. 8 | “The Al2Ce is found to melt congruently at 1455 °C, while it was reported as 1480 °C.\[8\]” |
+| Phase transition | 1728.15 K | 1728.15 | congruent transformation | experimental | [3] Gao 2005 | p. 8 | “The Al2Ce is found to melt congruently at 1455 °C, while it was reported as 1480 °C.\[8\]” |
 | Phase transition | 1748 K | 1748 | Liquid -> CeAl2; _Liquid: Ce 0.3357; CeAl2: Ce 0.3357_ | model | [1] Cacciamani 2001 | Table 3, p. 7, row 5 |  |
-| Phase transition | 1752 K | 1752 | Congruent: Laves-C15\* -> Liquid; _Laves-C15\*: Ce 0.333; Liquid: Ce 0.333_ | model | [2] Hämäläinen 1998 | Table I, p. 38, row 8 |  |
-| Phase transition | 1753.15 K | 1753.15 | congruent | model | [3] Gao 2005 | p. 8 | “The Al2Ce is found to melt congruently at 1455 °C, while it was reported as 1480 °C.\[8\]” |
+| Phase transition | 1752 K | 1752 | congruent melting: Laves-C15\* -> Liquid; _Laves-C15\*: Ce 0.333; Liquid: Ce 0.333_ | model | [2] Hämäläinen 1998 | Table I, p. 38, row 8 |  |
+| Phase transition | 1753.15 K | 1753.15 | congruent transformation | model | [3] Gao 2005 | p. 8 | “The Al2Ce is found to melt congruently at 1455 °C, while it was reported as 1480 °C.\[8\]” |
 
 ## Sources
 

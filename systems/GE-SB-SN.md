@@ -28,13 +28,13 @@ Table: Invariant reactions reported in the literature for the Ge–Sb–Sn syste
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 692 | Liq. + rhom -> SbSn + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 2 |  |
-| 692 | U: Liq. + rhom -> SbSn + diamond | L: Ge 0.0219, Sb 0.4898, Sn 0.4883 | model | [1] Liu 2011 | Table 3, p. 6, row 1 |  |
+| 692 | quasi-peritectic: Liq. + rhom -> SbSn + diamond | L: Ge 0.0219, Sb 0.4898, Sn 0.4883 | model | [1] Liu 2011 | Table 3, p. 6, row 1 |  |
 | 594 | Liq. + SbSn -> Sb2Sn3 + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 4 |  |
-| 594 | U: Liq. + SbSn -> Sb2Sn3 + diamond | L: Ge 0.0057, Sb 0.2054, Sn 0.7889 | model | [1] Liu 2011 | Table 3, p. 6, row 3 |  |
+| 594 | quasi-peritectic: Liq. + SbSn -> Sb2Sn3 + diamond | L: Ge 0.0057, Sb 0.2054, Sn 0.7889 | model | [1] Liu 2011 | Table 3, p. 6, row 3 |  |
 | 518 | Liq. + Sb2Sn3 -> bct + diamond |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 6 |  |
-| 518 | U: Liq. + Sb2Sn3 -> bct + diamond | L: Ge 0.0821, Sb 0.0089, Sn 0.909 | model | [1] Liu 2011 | Table 3, p. 6, row 5 |  |
+| 518 | quasi-peritectic: Liq. + Sb2Sn3 -> bct + diamond | L: Ge 0.0821, Sb 0.0089, Sn 0.909 | model | [1] Liu 2011 | Table 3, p. 6, row 5 |  |
 | 516 | Sb2Sn3 -> bct + diamond + SbSn |  | experimental | [1] Liu 2011; _cites Dichi 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901489-4) | Table 3, p. 6, row 8 |  |
-| 516 | E: Sb2Sn3 -> bct + diamond + SbSn |  | model | [1] Liu 2011 | Table 3, p. 6, row 7 |  |
+| 516 | eutectic: Sb2Sn3 -> bct + diamond + SbSn |  | model | [1] Liu 2011 | Table 3, p. 6, row 7 |  |
 
 ## Sources
 

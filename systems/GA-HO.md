@@ -1,10 +1,10 @@
 # Ga–Ho system
 
-> Ga–Ho system: 114 accepted literature values (formation 76, invariant reaction 36, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Ho system: 109 accepted literature values (formation 76, invariant reaction 31, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-HO.html · Markdown: https://data.orchid-project.org/systems/GA-HO.md
 
-114 accepted literature values from 1 paper(s) (experimental 17, model 97); 1 calculated phase diagram(s).
+109 accepted literature values from 1 paper(s) (experimental 17, model 92); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-HO.json) · [CSV](https://data.orchid-project.org/systems/GA-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-HO/GaHo-20Ait.json) · [Markdown](https://data.orchid-project.org/systems/GA-HO.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 17 |
-| model | 97 |
+| model | 92 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 36 |
+| invariant reaction | 31 |
 | phase transition | 2 |
 | formation | 76 |
 
@@ -55,17 +55,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–Ho system (36)
+Table: Invariant reactions reported in the literature for the Ga–Ho system (31)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1573.15 | Liq \<=> HoGa2 | Liq: Ga 0.667; HoGa2: Ga 0.666667, Ho 0.333333 | model | [1] Boukideur 2020 | Table 3, p. 6, row 18 |  |
-| 1573.15 | Liq \<=> HoGa2 | Liq: Ga 0.667; HoGa2: Ga 0.666667, Ho 0.333333 | model | [1] Boukideur 2020 | Table 3, p. 6, row 19 |  |
-| 1573.15 | Liq \<=> HoGa2 | Liq: Ga 0.667; HoGa2: Ga 0.666667, Ho 0.333333 | model | [1] Boukideur 2020 | Table 3, p. 6, row 17 |  |
 | 1573.15 | Liq \<=> HoGa2 | Liq: Ga 0.667; HoGa2: Ga 0.666667, Ho 0.333333 | experimental | [1] Boukideur 2020; _cites Pelleg 1982_ [doi](https://doi.org/10.1016/0025-5416%2882%2990075-1) | Table 3, p. 6, row 20 |  |
 | 1553.15 | Liq \<=> HoGa | Liq: Ga 0.5; HoGa: Ga 0.5, Ho 0.5 | model | [1] Boukideur 2020 | Table 3, p. 6, row 10 |  |
-| 1553.15 | Liq \<=> HoGa | Liq: Ga 0.5; HoGa: Ga 0.5, Ho 0.5 | model | [1] Boukideur 2020 | Table 3, p. 6, row 11 |  |
-| 1553.15 | Liq \<=> HoGa | Liq: Ga 0.5; HoGa: Ga 0.5, Ho 0.5 | model | [1] Boukideur 2020 | Table 3, p. 6, row 9 |  |
 | 1553.15 | Liq \<=> HoGa | Liq: Ga 0.5; HoGa: Ga 0.5, Ho 0.5 | experimental | [1] Boukideur 2020; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 6, row 12 |  |
 | 1543.15 | Liq \<=> HoGa2 | Liq: Ga 0.667; HoGa2: Ga 0.666667, Ho 0.333333 | experimental | [1] Boukideur 2020; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 6, row 21 |  |
 | 1503.15 | eutectic |  | model | [1] Boukideur 2020 | p. 10 | “To solve the problem of the anomalous asymmetry of liquidus between 50 and 70 at.% Ga, our optimizations by the Redlich-Kister model and Kaptay model guided to a congruent point, for the compound Ho5 Ga3 at 1260 C and 0.375 at.% Ga (Redlich-Kister)/at 1270 C and 0.375 at.% Ga (Kaptay), and a eutectic reaction Liq , HoGa þ Ho5 Ga3 at 1230 C and 0.430 at.% Ga (Figs. 3, 4) instead of a peritectic re…” |
@@ -75,7 +71,6 @@ Table: Invariant reactions reported in the literature for the Ga–Ho system (36
 | 1503.15 | Liq \<=> Ho5Ga3 + HoGa | Liq: Ga 0.375; Ho5Ga3: Ga 0.375, Ho 0.625; HoGa: Ga 0.5, Ho 0.5 | experimental | [1] Boukideur 2020; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 6, row 8 |  |
 | 1483.15 | Liq \<=> HoGa2 + HoGa | Liq: Ga 0.586; HoGa2: Ga 0.666667, Ho 0.333333; HoGa: Ga 0.5, Ho 0.5 | model | [1] Boukideur 2020 | Table 3, p. 6, row 15 |  |
 | 1483.15 | Liq \<=> HoGa2 + HoGa | Liq: Ga 0.576; HoGa2: Ga 0.666667, Ho 0.333333; HoGa: Ga 0.5, Ho 0.5 | model | [1] Boukideur 2020 | Table 3, p. 6, row 13 |  |
-| 1483.15 | Liq \<=> HoGa2 + HoGa | Liq: Ga 0.576; HoGa2: Ga 0.666667, Ho 0.333333; HoGa: Ga 0.5, Ho 0.5 | model | [1] Boukideur 2020 | Table 3, p. 6, row 14 |  |
 | 1483.15 | Liq \<=> HoGa2 + HoGa | Liq: Ga 0.575; HoGa2: Ga 0.666667, Ho 0.333333; HoGa: Ga 0.5, Ho 0.5 | experimental | [1] Boukideur 2020; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 6, row 16 |  |
 | 1223.15 | Liq \<=> Ho5Ga3 + (Ho) | Liq: Ga 0.183; Ho5Ga3: Ga 0.375, Ho 0.625 | model | [1] Boukideur 2020 | Table 3, p. 6, row 2 |  |
 | 1223.15 | Liq \<=> Ho5Ga3 + (Ho) | Liq: Ga 0.204; Ho5Ga3: Ga 0.375, Ho 0.625 | model | [1] Boukideur 2020 | Table 3, p. 6, row 1 |  |
@@ -159,8 +154,8 @@ Table: Phase transition, Ga–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1533.15 K | 1533.15 | congruent | model | [1] Boukideur 2020 | p. 10 | “To solve the problem of the anomalous asymmetry of liquidus between 50 and 70 at.% Ga, our optimizations by the Redlich-Kister model and Kaptay model guided to a congruent point, for the compound Ho5 Ga3 at 1260 C and 0.375 at.% Ga (Redlich-Kister)/at 1270 C and 0.375 at.% Ga (Kaptay), and a eutectic reaction Liq , HoGa þ Ho5 Ga3 at 1230 C and 0.430 at.% Ga (Figs. 3, 4) instead of a peritectic re…” |
-| Phase transition | 1543.15 K | 1543.15 | congruent | model | [1] Boukideur 2020 | p. 10 | “To solve the problem of the anomalous asymmetry of liquidus between 50 and 70 at.% Ga, our optimizations by the Redlich-Kister model and Kaptay model guided to a congruent point, for the compound Ho5 Ga3 at 1260 C and 0.375 at.% Ga (Redlich-Kister)/at 1270 C and 0.375 at.% Ga (Kaptay), and a eutectic reaction Liq , HoGa þ Ho5 Ga3 at 1230 C and 0.430 at.% Ga (Figs. 3, 4) instead of a peritectic re…” |
+| Phase transition | 1533.15 K | 1533.15 | congruent transformation | model | [1] Boukideur 2020 | p. 10 | “To solve the problem of the anomalous asymmetry of liquidus between 50 and 70 at.% Ga, our optimizations by the Redlich-Kister model and Kaptay model guided to a congruent point, for the compound Ho5 Ga3 at 1260 C and 0.375 at.% Ga (Redlich-Kister)/at 1270 C and 0.375 at.% Ga (Kaptay), and a eutectic reaction Liq , HoGa þ Ho5 Ga3 at 1230 C and 0.430 at.% Ga (Figs. 3, 4) instead of a peritectic re…” |
+| Phase transition | 1543.15 K | 1543.15 | congruent transformation | model | [1] Boukideur 2020 | p. 10 | “To solve the problem of the anomalous asymmetry of liquidus between 50 and 70 at.% Ga, our optimizations by the Redlich-Kister model and Kaptay model guided to a congruent point, for the compound Ho5 Ga3 at 1260 C and 0.375 at.% Ga (Redlich-Kister)/at 1270 C and 0.375 at.% Ga (Kaptay), and a eutectic reaction Liq , HoGa þ Ho5 Ga3 at 1230 C and 0.430 at.% Ga (Figs. 3, 4) instead of a peritectic re…” |
 
 ### Formation (30)
 

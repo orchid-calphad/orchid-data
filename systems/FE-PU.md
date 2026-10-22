@@ -74,7 +74,7 @@ Table: Phase transition, Fe–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1300 K | 1300 (none) | Fe2Pu | experimental | [1] Kurata 2001 | p. 3 | “A phase transformation for Fe2 Pu was observed at approximately 1300 K.” |
+| Phase transition | 1300 K | 1300 | Fe2Pu | experimental | [1] Kurata 2001 | p. 3 | “A phase transformation for Fe2 Pu was observed at approximately 1300 K.” |
 
 ## Sources
 

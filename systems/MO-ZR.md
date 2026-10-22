@@ -64,49 +64,49 @@ Table: Invariant reactions reported in the literature for the Mo–Zr system (43
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2253 | Peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.18; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Rudy 1969_ | Table 1, p. 3, row 2 |  |
+| 2253 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.18; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Rudy 1969_ | Table 1, p. 3, row 2 |  |
 | 2223 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.42; Mo2Zr: Mo 0.666667, Zr 0.333333 | model | [2] Zinkevich 2002; _cites Brewer 1980_ | Table 1, p. 3, row 6 |  |
-| 2223 | Peritectic: L + Mobcc -> Mo2Zr | Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [1] Pérez 2003; _cites Petkov 1972_ | Table 1, p. 3, row 4 |  |
-| 2223 | Peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.2; Mo2Zr: Mo 0.666667, Zr 0.333333 | model | [1] Pérez 2003; _cites Brewer 1980_ | Table 1, p. 3, row 6 |  |
+| 2223 | peritectic: L + Mobcc -> Mo2Zr | Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [1] Pérez 2003; _cites Petkov 1972_ | Table 1, p. 3, row 4 |  |
+| 2223 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.2; Mo2Zr: Mo 0.666667, Zr 0.333333 | model | [1] Pérez 2003; _cites Brewer 1980_ | Table 1, p. 3, row 6 |  |
 | 2223 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [2] Zinkevich 2002; _cites Petkov 1972_ | Table 1, p. 3, row 5 |  |
-| 2194 | Peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.457; Mobcc: Zr 0.098; Mo2Zr: Zr 0.335 | model | [1] Pérez 2003 | Table 1, p. 3, row 9 |  |
+| 2194 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.457; Mobcc: Zr 0.098; Mo2Zr: Zr 0.335 | model | [1] Pérez 2003 | Table 1, p. 3, row 9 |  |
 | 2193 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.42; Mo: Zr 0.12; Mo2Zr: Zr 0.33 | experimental | [2] Zinkevich 2002; _cites Prima 1984_ | Table 1, p. 3, row 4 |  |
-| 2193 | Peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.12; Mo2Zr: Zr 0.33 | unspecified | [1] Pérez 2003; _cites Prima 1984_ | Table 1, p. 3, row 7 |  |
+| 2193 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.12; Mo2Zr: Zr 0.33 | unspecified | [1] Pérez 2003; _cites Prima 1984_ | Table 1, p. 3, row 7 |  |
 | 2191.15 | peritectic: Mo (bcc) + liquid = Mo2 Zr |  | experimental | [3] Jiang 2020; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | p. 2 | “In addition to the liquid, bcc, and hcp solution phases, an intermetallic compound Mo2 Zr with cubic C15 Laves structure (space group Fd-3m) also exists in this system, which is formed from the peritectic reaction "Mo (bcc) + liquid = Mo2 Zr" at around 1918 °C \[21\].” |
-| 2191 | Peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.46; Mobcc: Zr 0.06; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 5 |  |
+| 2191 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.46; Mobcc: Zr 0.06; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 5 |  |
 | 2191 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.46; Mo: Zr 0.06; Mo2Zr: Zr 0.333 | experimental | [2] Zinkevich 2002; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 3 |  |
 | 2188.4 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.4728; Mo: Zr 0.0661; Mo2Zr: Zr 0.3431 | model | [2] Zinkevich 2002 | Table 1, p. 3, row 7 |  |
-| 2188 | Peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.47; Mobcc: Zr 0.066; Mo2Zr: Zr 0.343 | model | [1] Pérez 2003; _cites Zinkevich 2002_ [doi](https://doi.org/10.1361/1054971023604242) | Table 1, p. 3, row 8 |  |
-| 2178 | Peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.1; Mo2Zr: Zr 0.32 | experimental | [1] Pérez 2003; _cites Svechnikov 1967_ | Table 1, p. 3, row 3 |  |
+| 2188 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.47; Mobcc: Zr 0.066; Mo2Zr: Zr 0.343 | model | [1] Pérez 2003; _cites Zinkevich 2002_ [doi](https://doi.org/10.1361/1054971023604242) | Table 1, p. 3, row 8 |  |
+| 2178 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.1; Mo2Zr: Zr 0.32 | experimental | [1] Pérez 2003; _cites Svechnikov 1967_ | Table 1, p. 3, row 3 |  |
 | 2178 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.41; Mo: Zr 0.1; Mo2Zr: Zr 0.32 | experimental | [2] Zinkevich 2002; _cites Svechnikov 1967_ | Table 1, p. 3, row 2 |  |
-| 2153 | Peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.43; Mo2Zr: Zr 0.3333 | experimental | [1] Pérez 2003; _cites Domagala 1953_ | Table 1, p. 3, row 1 |  |
+| 2153 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.43; Mo2Zr: Zr 0.3333 | experimental | [1] Pérez 2003; _cites Domagala 1953_ | Table 1, p. 3, row 1 |  |
 | 2153 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.43; Mo2Zr: Zr 0.3333 | experimental | [2] Zinkevich 2002; _cites Domagala 1953_ | Table 1, p. 3, row 1 |  |
 | 2102 | peritectic |  | experimental | [1] Pérez 2003; _cites Bhatt 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2900678-2) | p. 3 | “Below the peritectic temperature at 2102 K \[47\] found a very low solubility of Zr in Mo-bcc, i.e. 2 at.% Zr, using EPMA measurements.” |
-| 1868 | Peritectic: L + Mo2Zr -> Zrbcc | L: Zr 0.68; Mo2Zr: Zr 0.34; Zrbcc: Zr 0.655 | experimental | [1] Pérez 2003; _cites Rudy 1969_ | Table 1, p. 3, row 10 |  |
+| 1868 | peritectic: L + Mo2Zr -> Zrbcc | L: Zr 0.68; Mo2Zr: Zr 0.34; Zrbcc: Zr 0.655 | experimental | [1] Pérez 2003; _cites Rudy 1969_ | Table 1, p. 3, row 10 |  |
 | 1849.1 | eutectic: Liquid -> bcc-Zr + Mo2Zr (Eutectic) | Liquid: Zr 0.7039; bcc-Zr: Zr 0.8193; Mo2Zr: Zr 0.3726 | model | [2] Zinkevich 2002 | Table 1, p. 3, row 12 |  |
-| 1849 | Eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.704; Zrbcc: Zr 0.819; Mo2Zr: Zr 0.373 | model | [1] Pérez 2003; _cites Zinkevich 2002_ [doi](https://doi.org/10.1361/1054971023604242) | Table 1, p. 3, row 16 |  |
-| 1846 | Peritectic: L + Mo2Zr -> Zrbcc | L: Zr 0.68; Mo2Zr: Mo 0.666667, Zr 0.333333; Zrbcc: Zr 0.68 | model | [1] Pérez 2003; _cites Brewer 1980_ | Table 1, p. 3, row 11 |  |
-| 1825 | Eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.717; Zrbcc: Zr 0.77; Mo2Zr: Zr 0.343 | model | [1] Pérez 2003 | Table 1, p. 3, row 17 |  |
+| 1849 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.704; Zrbcc: Zr 0.819; Mo2Zr: Zr 0.373 | model | [1] Pérez 2003; _cites Zinkevich 2002_ [doi](https://doi.org/10.1361/1054971023604242) | Table 1, p. 3, row 16 |  |
+| 1846 | peritectic: L + Mo2Zr -> Zrbcc | L: Zr 0.68; Mo2Zr: Mo 0.666667, Zr 0.333333; Zrbcc: Zr 0.68 | model | [1] Pérez 2003; _cites Brewer 1980_ | Table 1, p. 3, row 11 |  |
+| 1825 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.717; Zrbcc: Zr 0.77; Mo2Zr: Zr 0.343 | model | [1] Pérez 2003 | Table 1, p. 3, row 17 |  |
 | 1824.15 | eutectic: liquid = Mo2 Zr + Zr (bcc) |  | experimental | [3] Jiang 2020; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | p. 2 | “At the Zr-rich side, liquid will eutectically decompose into a mixture of Mo2 Zr and bcc via the reaction "liquid = Mo2 Zr + Zr (bcc)" at around 1551 °C \[21\].” |
-| 1824 | Eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.71; Zrbcc: Zr 0.77; Mo2Zr: Zr 0.36 | experimental | [1] Pérez 2003; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 15 |  |
+| 1824 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.71; Zrbcc: Zr 0.77; Mo2Zr: Zr 0.36 | experimental | [1] Pérez 2003; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 15 |  |
 | 1824 | eutectic: Liquid -> bcc-Zr + Mo2Zr (Eutectic) | Liquid: Zr 0.71; bcc-Zr: Zr 0.77; Mo2Zr: Zr 0.36 | experimental | [2] Zinkevich 2002; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 10 |  |
-| 1823 | Eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.52; Zrbcc: Zr 0.59; Mo2Zr: Zr 0.37 | model | [1] Pérez 2003; _cites Kubaschewski_ | Table 1, p. 3, row 14 |  |
+| 1823 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.52; Zrbcc: Zr 0.59; Mo2Zr: Zr 0.37 | model | [1] Pérez 2003; _cites Kubaschewski_ | Table 1, p. 3, row 14 |  |
 | 1823 | eutectic: Liquid -> bcc-Zr + Mo2Zr (Eutectic) | Liquid: Zr 0.52; bcc-Zr: Zr 0.59; Mo2Zr: Zr 0.37 | model | [2] Zinkevich 2002; _cites Kubaschewski 1976_ | Table 1, p. 3, row 11 |  |
-| 1793 | Eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.7; Zrbcc: Zr 0.79; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Domagala 1953_ | Table 1, p. 3, row 12 |  |
+| 1793 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.7; Zrbcc: Zr 0.79; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Domagala 1953_ | Table 1, p. 3, row 12 |  |
 | 1793 | eutectic: Liquid -> bcc-Zr + Mo2Zr (Eutectic) | Liquid: Zr 0.7; bcc-Zr: Zr 0.79; Mo2Zr: Zr 0.3333 | experimental | [2] Zinkevich 2002; _cites Domagala 1953_ | Table 1, p. 3, row 8 |  |
-| 1773 | Eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.64; Zrbcc: Zr 0.81; Mo2Zr: Zr 0.35 | experimental | [1] Pérez 2003; _cites Svechnikov 1967_ | Table 1, p. 3, row 13 |  |
+| 1773 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.64; Zrbcc: Zr 0.81; Mo2Zr: Zr 0.35 | experimental | [1] Pérez 2003; _cites Svechnikov 1967_ | Table 1, p. 3, row 13 |  |
 | 1773 | eutectic: Liquid -> bcc-Zr + Mo2Zr (Eutectic) | Liquid: Zr 0.64; bcc-Zr: Zr 0.81; Mo2Zr: Zr 0.345 | experimental | [2] Zinkevich 2002; _cites Svechnikov 1967_ | Table 1, p. 3, row 9 |  |
 | 1053 | eutectoid: bcc-Zr -> cph-Zr + Mo2Zr (Eutectoid) | bcc-Zr: Zr 0.928; Mo2Zr: Zr 0.3333 | experimental | [2] Zinkevich 2002; _cites Domagala 1953_ | Table 1, p. 3, row 13 |  |
-| 1053 | Eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.925; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Domagala 1953_ | Table 1, p. 3, row 18 |  |
-| 1053 | Eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.928; Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [1] Pérez 2003; _cites Rudy 1969_ | Table 1, p. 3, row 19 |  |
-| 1050 | Eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.957; Zrhcp: Zr 0.9978; Mo2Zr: Zr 0.334 | model | [1] Pérez 2003 | Table 1, p. 3, row 24 |  |
+| 1053 | eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.925; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Domagala 1953_ | Table 1, p. 3, row 18 |  |
+| 1053 | eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.928; Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [1] Pérez 2003; _cites Rudy 1969_ | Table 1, p. 3, row 19 |  |
+| 1050 | eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.957; Zrhcp: Zr 0.9978; Mo2Zr: Zr 0.334 | model | [1] Pérez 2003 | Table 1, p. 3, row 24 |  |
 | 1011 | eutectoid: bcc-Zr -> cph-Zr + Mo2Zr (Eutectoid) | bcc-Zr: Zr 0.925; cph-Zr: Zr 0.998; Mo2Zr: Mo 0.666667, Zr 0.333333 | model | [2] Zinkevich 2002; _cites ref. 1984Bre_ | Table 1, p. 3, row 15 |  |
-| 1011 | Eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [1] Pérez 2003; _cites Samsonov 1972_ | Table 1, p. 3, row 21 |  |
-| 1011 | Eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.928; Mo2Zr: Mo 0.666667, Zr 0.333333 | model | [1] Pérez 2003; _cites Brewer 1980_ | Table 1, p. 3, row 22 |  |
-| 1003 | Eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.937; Zrhcp: Zr 0.9969; Mo2Zr: Zr 0.339 | model | [1] Pérez 2003; _cites Zinkevich 2002_ [doi](https://doi.org/10.1361/1054971023604242) | Table 1, p. 3, row 23 |  |
+| 1011 | eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [1] Pérez 2003; _cites Samsonov 1972_ | Table 1, p. 3, row 21 |  |
+| 1011 | eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.928; Mo2Zr: Mo 0.666667, Zr 0.333333 | model | [1] Pérez 2003; _cites Brewer 1980_ | Table 1, p. 3, row 22 |  |
+| 1003 | eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.937; Zrhcp: Zr 0.9969; Mo2Zr: Zr 0.339 | model | [1] Pérez 2003; _cites Zinkevich 2002_ [doi](https://doi.org/10.1361/1054971023604242) | Table 1, p. 3, row 23 |  |
 | 1002.7 | eutectoid: bcc-Zr -> cph-Zr + Mo2Zr (Eutectoid) | bcc-Zr: Zr 0.9307; cph-Zr: Zr 0.9969; Mo2Zr: Zr 0.3387 | model | [2] Zinkevich 2002 | Table 1, p. 3, row 16 |  |
 | 903 | eutectoid: bcc-Zr -> cph-Zr + Mo2Zr (Eutectoid) | bcc-Zr: Zr 0.92; Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [2] Zinkevich 2002; _cites Svechnikov 1967_ | Table 1, p. 3, row 14 |  |
-| 903 | Eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.92; Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [1] Pérez 2003; _cites Svechnikov 1967_ | Table 1, p. 3, row 20 |  |
+| 903 | eutectoid: Zrbcc -> Zrhcp + Mo2Zr | Zrbcc: Zr 0.92; Mo2Zr: Mo 0.666667, Zr 0.333333 | experimental | [1] Pérez 2003; _cites Svechnikov 1967_ | Table 1, p. 3, row 20 |  |
 
 ## Formation enthalpies
 
@@ -132,7 +132,7 @@ Table: Phase transition, Mo–Zr system
 | Phase transition | 1053 K | 1053 |  | experimental | [1] Pérez 2003; _cites Domagala 1953_ | p. 6 | “In the recent assessment of Mo-Zr by Zinkevich and Mattern \[52\] a lower eutectoid temperature, T = 1011 ± 30 K by \[25\], was fitted instead of 1053 K reported by \[3, 11\].” |
 | Phase transition | 1053.15 K | 1053.15 | other: Zr (bcc) = Mo2 Zr + Zr (hcp) | experimental | [3] Jiang 2020; _cites Domagala 1953_ | p. 2 | “The third invariant reaction is the eutectoid reaction "Zr (bcc) = Mo2 Zr + Zr (hcp)" that occurs at around 780 °C \[22\].” |
 | Phase transition | 1136 K | 1136 |  | model | [1] Pérez 2003; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5 | “At low temperatures pure zirconium has a hexagonal closed packed (hcp) structure as stable state called α-Zr, above 1136 K this phase transforms to a body centred cubic (bcc) or β-Zr.” |
-| Phase transition | 2730 K | 2730 | solidus | experimental | [2] Zinkevich 2002; _cites Zakharov 1970_ | p. 3 | “Several works reported the experimental determination of Mo-solidus \[1970Zak, 1977Gar, 1984Pri, 2000Bha\] ranging from the peritectic temperature up to 2730 K, about 160 K lower than the melting point of pure molybdenum.” |
+| Phase transition | 2730 K | 2730 | other | experimental | [2] Zinkevich 2002; _cites Zakharov 1970_ | p. 3 | “Several works reported the experimental determination of Mo-solidus \[1970Zak, 1977Gar, 1984Pri, 2000Bha\] ranging from the peritectic temperature up to 2730 K, about 160 K lower than the melting point of pure molybdenum.” |
 
 ## Sources
 

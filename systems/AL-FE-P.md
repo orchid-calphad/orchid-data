@@ -27,15 +27,15 @@ Table: Invariant reactions reported in the literature for the Al–Fe–P system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1480.15 | E: L = Fe2P + FeP + AlP | L: P 0.3765 | model | [1] Miettinen 2015 | Table 5, p. 9, row 1 |  |
-| 1414.15 | U: L + Al5Fe2 = Al13Fe4 + AlP | L: P 0.016 | model | [1] Miettinen 2015 | Table 5, p. 9, row 2 |  |
-| 1405.15 | U: L + Al5Fe2 = Al2Fe + AlP | L: P 0.0352 | model | [1] Miettinen 2015 | Table 5, p. 9, row 3 |  |
-| 1393.15 | U: L + Al2Fe = Al5Fe4 + AlP | L: P 0.0517 | model | [1] Miettinen 2015 | Table 5, p. 9, row 4 |  |
-| 1385.15 | U: L + Al5Fe4 = bcc + AlP | L: P 0.0679 | model | [1] Miettinen 2015 | Table 5, p. 9, row 5 |  |
-| 1306.15 | U: L + Fe3P = bcc + Fe2P | L: P 0.1827 | model | [1] Miettinen 2015 | Table 5, p. 9, row 6 |  |
-| 1293.15 | U: L + Fe3P = bcc + Fe2P | L: P 0.183 | experimental | [1] Miettinen 2015; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200953) | Table 5, p. 9, row 7 |  |
-| 1269.15 | E: L = bcc + AlP + Fe2P | L: P 0.1751 | model | [1] Miettinen 2015 | Table 5, p. 9, row 8 |  |
-| 1268.15 | E: L = bcc + AlP + Fe2P | L: P 0.169 | experimental | [1] Miettinen 2015; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200953) | Table 5, p. 9, row 9 |  |
+| 1480.15 | eutectic: L = Fe2P + FeP + AlP | L: P 0.3765 | model | [1] Miettinen 2015 | Table 5, p. 9, row 1 |  |
+| 1414.15 | quasi-peritectic: L + Al5Fe2 = Al13Fe4 + AlP | L: P 0.016 | model | [1] Miettinen 2015 | Table 5, p. 9, row 2 |  |
+| 1405.15 | quasi-peritectic: L + Al5Fe2 = Al2Fe + AlP | L: P 0.0352 | model | [1] Miettinen 2015 | Table 5, p. 9, row 3 |  |
+| 1393.15 | quasi-peritectic: L + Al2Fe = Al5Fe4 + AlP | L: P 0.0517 | model | [1] Miettinen 2015 | Table 5, p. 9, row 4 |  |
+| 1385.15 | quasi-peritectic: L + Al5Fe4 = bcc + AlP | L: P 0.0679 | model | [1] Miettinen 2015 | Table 5, p. 9, row 5 |  |
+| 1306.15 | quasi-peritectic: L + Fe3P = bcc + Fe2P | L: P 0.1827 | model | [1] Miettinen 2015 | Table 5, p. 9, row 6 |  |
+| 1293.15 | quasi-peritectic: L + Fe3P = bcc + Fe2P | L: P 0.183 | experimental | [1] Miettinen 2015; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200953) | Table 5, p. 9, row 7 |  |
+| 1269.15 | eutectic: L = bcc + AlP + Fe2P | L: P 0.1751 | model | [1] Miettinen 2015 | Table 5, p. 9, row 8 |  |
+| 1268.15 | eutectic: L = bcc + AlP + Fe2P | L: P 0.169 | experimental | [1] Miettinen 2015; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200953) | Table 5, p. 9, row 9 |  |
 
 ## Sources
 

@@ -1,20 +1,19 @@
 # CeCu5Sn: enthalpy of formation
 
-> Enthalpy of formation of CeCu5Sn: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of CeCu5Sn: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CeCu5Sn.html · Markdown: https://data.orchid-project.org/compounds/CeCu5Sn.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CeCu5Sn reported in the literature (2)
+Table: Enthalpy of formation of CeCu5Sn reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -25.691 kJ/mol-atom | τ9—CeCu5Sn | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [1] Li 2013 | Table 1, p. 3, row 31 |  |
 | -25.691 kJ/mol-atom | τ9—CeCu5Sn | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [1] Li 2013 | Table 1, p. 3, row 31 |  |
 
 ## Sources

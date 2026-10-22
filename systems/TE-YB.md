@@ -30,14 +30,14 @@ Table: Invariant reactions reported in the literature for the Te–Yb system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1093 | Eutectic: Liq -> (γYb) + TeYb | (γYb): Te 0; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 5 |  |
+| 1093 | eutectic: Liq -> (γYb) + TeYb | (γYb): Te 0; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 5 |  |
 | 1093 | eutectic |  | experimental | [1] Ghamri 2015; _cites Kh 1970_ | p. 2 | “The two reactions between TeYb and (Te, Yb), which their temperatures reported to be 726 and 1093 K, respectively, by Abrikosov et al. \[18\] may be eutectic reactions and the liquidus of TeYb may be flat near the melting point (Fig. 3).” |
 | 1090 | eutectic |  | model | [1] Ghamri 2015 | p. 6 | “The reactions between TeYb and (Te,Yb) are calculated to be eutectic at 721.7 and 1090 K, respectively.” |
-| 1090 | Eutectic: Liq -> (γYb) + TeYb | L: Te 0.005; (γYb): Te 0; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 6 |  |
-| 726 | Eutectic: Liq -> (Te) + TeYb | (Te): Te 1; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 1 |  |
+| 1090 | eutectic: Liq -> (γYb) + TeYb | L: Te 0.005; (γYb): Te 0; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 6 |  |
+| 726 | eutectic: Liq -> (Te) + TeYb | (Te): Te 1; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 1 |  |
 | 726 | eutectic |  | experimental | [1] Ghamri 2015; _cites Kh 1970_ | p. 2 | “The two reactions between TeYb and (Te, Yb), which their temperatures reported to be 726 and 1093 K, respectively, by Abrikosov et al. \[18\] may be eutectic reactions and the liquidus of TeYb may be flat near the melting point (Fig. 3).” |
 | 721.7 | eutectic |  | model | [1] Ghamri 2015 | p. 6 | “The reactions between TeYb and (Te,Yb) are calculated to be eutectic at 721.7 and 1090 K, respectively.” |
-| 721.7 | Eutectic: Liq -> (Te) + TeYb | L: Te 0.9967; (Te): Te 1; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 2 |  |
+| 721.7 | eutectic: Liq -> (Te) + TeYb | L: Te 0.9967; (Te): Te 1; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 2 |  |
 
 ## Other properties
 
@@ -47,13 +47,13 @@ Table: Phase transition, Te–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1033 K | 1033 | Polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 10 |  |
-| Phase transition | 1061 K | 1061 | Polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 7 |  |
-| Phase transition | 1068 K | 1068 | Polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Okamoto 1990_ | Table 5, p. 6, row 9 |  |
-| Phase transition | 1071 K | 1071 | Polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 5, p. 6, row 8 |  |
-| Phase transition | 2003 K | 2003 | Congruent: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 3 |  |
-| Phase transition | 2003 K | 2003 | congruent | experimental | [1] Ghamri 2015 | p. 2 | “This later melts congruently at about 2003 K.” |
-| Phase transition | 2003.46 K | 2003.46 | Congruent: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 4 |  |
+| Phase transition | 1033 K | 1033 | polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 10 |  |
+| Phase transition | 1061 K | 1061 | polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 7 |  |
+| Phase transition | 1068 K | 1068 | polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Okamoto 1990_ | Table 5, p. 6, row 9 |  |
+| Phase transition | 1071 K | 1071 | polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 5, p. 6, row 8 |  |
+| Phase transition | 2003 K | 2003 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 3 |  |
+| Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Ghamri 2015 | p. 2 | “This later melts congruently at about 2003 K.” |
+| Phase transition | 2003.46 K | 2003.46 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 4 |  |
 
 ## Sources
 

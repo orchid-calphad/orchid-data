@@ -28,11 +28,11 @@ Table: Invariant reactions reported in the literature for the Co–Nb–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1655 | E: liq. -> λ1 + λ2 + μ | liq.: Co 0.5685, Nb 0.4287, Ti 0.0028 | model | [1] Wei 2022 | Table 4, p. 16, row 1 |  |
-| 1647 | E: liq. -> CoTi + λ2 + μ | liq.: Co 0.5261, Nb 0.3304, Ti 0.1435 | model | [1] Wei 2022 | Table 4, p. 16, row 2 |  |
-| 1576 | E: liq. -> bcc(Nb,Ti) + CoTi + μ | liq.: Co 0.3551, Nb 0.4216, Ti 0.2233 | model | [1] Wei 2022 | Table 4, p. 16, row 3 |  |
-| 1433 | P: liq. + fcc(Co) + λ3 -> Co3Ti | liq.: Co 0.7928, Nb 0.0113, Ti 0.1959 | model | [1] Wei 2022 | Table 4, p. 16, row 4 |  |
-| 1315 | U: liq. + CoTi -> bcc(Nb,Ti) + CoTi2 | liq.: Co 0.2278, Nb 0.0237, Ti 0.7485 | model | [1] Wei 2022 | Table 4, p. 16, row 5 |  |
+| 1655 | eutectic: liq. -> λ1 + λ2 + μ | liq.: Co 0.5685, Nb 0.4287, Ti 0.0028 | model | [1] Wei 2022 | Table 4, p. 16, row 1 |  |
+| 1647 | eutectic: liq. -> CoTi + λ2 + μ | liq.: Co 0.5261, Nb 0.3304, Ti 0.1435 | model | [1] Wei 2022 | Table 4, p. 16, row 2 |  |
+| 1576 | eutectic: liq. -> bcc(Nb,Ti) + CoTi + μ | liq.: Co 0.3551, Nb 0.4216, Ti 0.2233 | model | [1] Wei 2022 | Table 4, p. 16, row 3 |  |
+| 1433 | peritectic: liq. + fcc(Co) + λ3 -> Co3Ti | liq.: Co 0.7928, Nb 0.0113, Ti 0.1959 | model | [1] Wei 2022 | Table 4, p. 16, row 4 |  |
+| 1315 | quasi-peritectic: liq. + CoTi -> bcc(Nb,Ti) + CoTi2 | liq.: Co 0.2278, Nb 0.0237, Ti 0.7485 | model | [1] Wei 2022 | Table 4, p. 16, row 5 |  |
 
 ## Other properties
 

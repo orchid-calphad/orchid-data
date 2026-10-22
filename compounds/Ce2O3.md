@@ -1,20 +1,19 @@
 # Ce2O3: enthalpy of formation
 
-> Enthalpy of formation of Ce2O3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ce2O3: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ce2O3.html · Markdown: https://data.orchid-project.org/compounds/Ce2O3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+1 accepted literature formation-enthalpy value(s) (model 1).
 
 Systems: [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ce2O3 reported in the literature (2)
+Table: Enthalpy of formation of Ce2O3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1792380 unknown | A-Ce2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 19 |  |
 | -1792380 unknown | A-Ce2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 19 |  |
 
 ## Sources

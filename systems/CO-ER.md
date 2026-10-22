@@ -65,24 +65,24 @@ Table: Invariant reactions reported in the literature for the Co–Er system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1629.15 | Peritectic: L + Co3Er -> Co7Er2 | Co3Er: Er 0.25; Co7Er2: Er 0.222 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 12 |  |
-| 1625.15 | Peritectic: L + Co3Er -> Co7Er2 | L: Er 0.184; Co3Er: Er 0.25; Co7Er2: Er 0.222 | model | [1] Wang 2009 | Table 4, p. 4, row 11 |  |
-| 1620.15 | Peritectic: L + Co3Er -> Co2Er | Co3Er: Er 0.25; Co2Er: Er 0.333 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 16 |  |
-| 1620.15 | Eutectic: L -> (αCo) + Co17Er2 | L: Er 0.065; (αCo): Er 0; Co17Er2: Er 0.105 | model | [1] Wang 2009 | Table 4, p. 4, row 1 |  |
-| 1613.15 | Peritectic: L + Co7Er2 -> Co5Er | Co7Er2: Er 0.222; Co5Er: Er 0.167 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 8 |  |
-| 1612.15 | Eutectic: L -> (αCo) + Co17Er2 | L: Er 0.077; (αCo): Er 0; Co17Er2: Er 0.105 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 2 |  |
-| 1611.15 | Peritectic: L + Co3Er -> Co2Er | L: Er 0.333; Co3Er: Er 0.25; Co2Er: Er 0.333 | model | [1] Wang 2009 | Table 4, p. 4, row 15 |  |
-| 1610.15 | Peritectic: L + Co7Er2 -> Co5Er | L: Er 0.167; Co7Er2: Er 0.222; Co5Er: Er 0.167 | model | [1] Wang 2009 | Table 4, p. 4, row 7 |  |
-| 1609.15 | Eutectic: L -> Co17Er2 + Co5Er | L: Er 0.16; Co17Er2: Er 0.105; Co5Er: Er 0.167 | model | [1] Wang 2009 | Table 4, p. 4, row 5 |  |
-| 1603.15 | Eutectic: L -> Co17Er2 + Co5Er | L: Er 0.135; Co17Er2: Er 0.105; Co5Er: Er 0.167 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 6 |  |
-| 1513.15 | Eutectoid: Co5Er -> Co17Er2 + Co7Er2 | Co5Er: Er 0.167; Co17Er2: Er 0.105; Co7Er2: Er 0.222 | model | [1] Wang 2009 | Table 4, p. 4, row 9 |  |
-| 1513.15 | Eutectoid: Co5Er -> Co17Er2 + Co7Er2 | Co5Er: Er 0.167; Co17Er2: Er 0.105; Co7Er2: Er 0.222 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 10 |  |
-| 1185.15 | Peritectic: L + (Er) -> CoEr3 | (Er): Er 1; CoEr3: Er 0.75 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 24 |  |
-| 1184.15 | Peritectic: L + (Er) -> CoEr3 | L: Er 0.74; (Er): Er 1; CoEr3: Er 0.75 | model | [1] Wang 2009 | Table 4, p. 4, row 23 |  |
-| 1087.15 | Eutectic: L -> Co3Er + Co7Er12 | L: Er 0.66; Co3Er: Er 0.75; Co7Er12: Er 0.632 | model | [1] Wang 2009 | Table 4, p. 4, row 21 |  |
-| 1078.15 | Eutectic: L -> Co3Er + Co7Er12 | L: Er 0.675; Co3Er: Er 0.75; Co7Er12: Er 0.64 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 22 |  |
-| 1074.15 | Eutectic: L -> Co2Er + Co7Er12 | L: Er 0.585; Co2Er: Er 0.333; Co7Er12: Er 0.632 | model | [1] Wang 2009 | Table 4, p. 4, row 17 |  |
-| 1068.15 | Eutectic: L -> Co2Er + Co7Er12 | L: Er 0.5625; Co2Er: Er 0.333; Co7Er12: Er 0.64 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 18 |  |
+| 1629.15 | peritectic: L + Co3Er -> Co7Er2 | Co3Er: Er 0.25; Co7Er2: Er 0.222 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 12 |  |
+| 1625.15 | peritectic: L + Co3Er -> Co7Er2 | L: Er 0.184; Co3Er: Er 0.25; Co7Er2: Er 0.222 | model | [1] Wang 2009 | Table 4, p. 4, row 11 |  |
+| 1620.15 | peritectic: L + Co3Er -> Co2Er | Co3Er: Er 0.25; Co2Er: Er 0.333 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 16 |  |
+| 1620.15 | eutectic: L -> (αCo) + Co17Er2 | L: Er 0.065; (αCo): Er 0; Co17Er2: Er 0.105 | model | [1] Wang 2009 | Table 4, p. 4, row 1 |  |
+| 1613.15 | peritectic: L + Co7Er2 -> Co5Er | Co7Er2: Er 0.222; Co5Er: Er 0.167 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 8 |  |
+| 1612.15 | eutectic: L -> (αCo) + Co17Er2 | L: Er 0.077; (αCo): Er 0; Co17Er2: Er 0.105 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 2 |  |
+| 1611.15 | peritectic: L + Co3Er -> Co2Er | L: Er 0.333; Co3Er: Er 0.25; Co2Er: Er 0.333 | model | [1] Wang 2009 | Table 4, p. 4, row 15 |  |
+| 1610.15 | peritectic: L + Co7Er2 -> Co5Er | L: Er 0.167; Co7Er2: Er 0.222; Co5Er: Er 0.167 | model | [1] Wang 2009 | Table 4, p. 4, row 7 |  |
+| 1609.15 | eutectic: L -> Co17Er2 + Co5Er | L: Er 0.16; Co17Er2: Er 0.105; Co5Er: Er 0.167 | model | [1] Wang 2009 | Table 4, p. 4, row 5 |  |
+| 1603.15 | eutectic: L -> Co17Er2 + Co5Er | L: Er 0.135; Co17Er2: Er 0.105; Co5Er: Er 0.167 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 6 |  |
+| 1513.15 | eutectoid: Co5Er -> Co17Er2 + Co7Er2 | Co5Er: Er 0.167; Co17Er2: Er 0.105; Co7Er2: Er 0.222 | model | [1] Wang 2009 | Table 4, p. 4, row 9 |  |
+| 1513.15 | eutectoid: Co5Er -> Co17Er2 + Co7Er2 | Co5Er: Er 0.167; Co17Er2: Er 0.105; Co7Er2: Er 0.222 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 10 |  |
+| 1185.15 | peritectic: L + (Er) -> CoEr3 | (Er): Er 1; CoEr3: Er 0.75 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 24 |  |
+| 1184.15 | peritectic: L + (Er) -> CoEr3 | L: Er 0.74; (Er): Er 1; CoEr3: Er 0.75 | model | [1] Wang 2009 | Table 4, p. 4, row 23 |  |
+| 1087.15 | eutectic: L -> Co3Er + Co7Er12 | L: Er 0.66; Co3Er: Er 0.75; Co7Er12: Er 0.632 | model | [1] Wang 2009 | Table 4, p. 4, row 21 |  |
+| 1078.15 | eutectic: L -> Co3Er + Co7Er12 | L: Er 0.675; Co3Er: Er 0.75; Co7Er12: Er 0.64 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 22 |  |
+| 1074.15 | eutectic: L -> Co2Er + Co7Er12 | L: Er 0.585; Co2Er: Er 0.333; Co7Er12: Er 0.632 | model | [1] Wang 2009 | Table 4, p. 4, row 17 |  |
+| 1068.15 | eutectic: L -> Co2Er + Co7Er12 | L: Er 0.5625; Co2Er: Er 0.333; Co7Er12: Er 0.64 | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 18 |  |
 
 ## Other properties
 
@@ -92,14 +92,14 @@ Table: Phase transition, Co–Er system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1096.15 K | 1096.15 | Congruent melting: L -> Co7Er12; _L: Er 0.632; Co7Er12: Er 0.632_ | model | [1] Wang 2009 | Table 4, p. 4, row 19 |  |
-| Phase transition | 1098.15 K | 1098.15 | Congruent melting: L -> Co7Er12; _L: Er 0.64; Co7Er12: Er 0.64_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 20 |  |
-| Phase transition | 1628.15 K | 1628.15 | congruent | experimental | [1] Wang 2009; _cites Buschow 1971_ | p. 2 | “The major differences between them are as follows: (1) Wu et al. \[19\] and Buschow \[16\] reported the congruent melting point of the Co17 Er2 compound is about 1442 ◦ C and 1355 ◦ C, respectively; (2) Wu et al. observed that the Co3 Er4 phase is metastable phase \[19\], while Buschow included the Co3 Er4 phase in the stable phase diagram \[16\]; (3) Wu et al. identified that the phase near 64 at.% Er i…” |
-| Phase transition | 1645.15 K | 1645.15 | Congruent melting: L -> Co17Er2; _L: Er 0.105; Co17Er2: Er 0.105_ | model | [1] Wang 2009 | Table 4, p. 4, row 3 |  |
-| Phase transition | 1668.15 K | 1668.15 | Congruent melting: L -> Co3Er; _L: Er 0.25; Co3Er: Er 0.25_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 14 |  |
-| Phase transition | 1670.15 K | 1670.15 | Congruent melting: L -> Co3Er; _L: Er 0.25; Co3Er: Er 0.25_ | model | [1] Wang 2009 | Table 4, p. 4, row 13 |  |
-| Phase transition | 1715.15 K | 1715.15 | Congruent melting: L -> Co17Er2; _L: Er 0.105; Co17Er2: Er 0.105_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 4 |  |
-| Phase transition | 1715.15 K | 1715.15 | congruent | experimental | [1] Wang 2009; _cites Wu 1993_ | p. 2 | “The major differences between them are as follows: (1) Wu et al. \[19\] and Buschow \[16\] reported the congruent melting point of the Co17 Er2 compound is about 1442 ◦ C and 1355 ◦ C, respectively; (2) Wu et al. observed that the Co3 Er4 phase is metastable phase \[19\], while Buschow included the Co3 Er4 phase in the stable phase diagram \[16\]; (3) Wu et al. identified that the phase near 64 at.% Er i…” |
+| Phase transition | 1096.15 K | 1096.15 | congruent melting: L -> Co7Er12; _L: Er 0.632; Co7Er12: Er 0.632_ | model | [1] Wang 2009 | Table 4, p. 4, row 19 |  |
+| Phase transition | 1098.15 K | 1098.15 | congruent melting: L -> Co7Er12; _L: Er 0.64; Co7Er12: Er 0.64_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 20 |  |
+| Phase transition | 1628.15 K | 1628.15 | congruent transformation | experimental | [1] Wang 2009; _cites Buschow 1971_ | p. 2 | “The major differences between them are as follows: (1) Wu et al. \[19\] and Buschow \[16\] reported the congruent melting point of the Co17 Er2 compound is about 1442 ◦ C and 1355 ◦ C, respectively; (2) Wu et al. observed that the Co3 Er4 phase is metastable phase \[19\], while Buschow included the Co3 Er4 phase in the stable phase diagram \[16\]; (3) Wu et al. identified that the phase near 64 at.% Er i…” |
+| Phase transition | 1645.15 K | 1645.15 | congruent melting: L -> Co17Er2; _L: Er 0.105; Co17Er2: Er 0.105_ | model | [1] Wang 2009 | Table 4, p. 4, row 3 |  |
+| Phase transition | 1668.15 K | 1668.15 | congruent melting: L -> Co3Er; _L: Er 0.25; Co3Er: Er 0.25_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 14 |  |
+| Phase transition | 1670.15 K | 1670.15 | congruent melting: L -> Co3Er; _L: Er 0.25; Co3Er: Er 0.25_ | model | [1] Wang 2009 | Table 4, p. 4, row 13 |  |
+| Phase transition | 1715.15 K | 1715.15 | congruent melting: L -> Co17Er2; _L: Er 0.105; Co17Er2: Er 0.105_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 4 |  |
+| Phase transition | 1715.15 K | 1715.15 | congruent transformation | experimental | [1] Wang 2009; _cites Wu 1993_ | p. 2 | “The major differences between them are as follows: (1) Wu et al. \[19\] and Buschow \[16\] reported the congruent melting point of the Co17 Er2 compound is about 1442 ◦ C and 1355 ◦ C, respectively; (2) Wu et al. observed that the Co3 Er4 phase is metastable phase \[19\], while Buschow included the Co3 Er4 phase in the stable phase diagram \[16\]; (3) Wu et al. identified that the phase near 64 at.% Er i…” |
 
 ## Sources
 

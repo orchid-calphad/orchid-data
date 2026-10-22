@@ -1,10 +1,10 @@
 # Al–S system
 
-> Al–S system: 27 accepted literature values (invariant reaction 23, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–S system: 24 accepted literature values (invariant reaction 20, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-S.html · Markdown: https://data.orchid-project.org/systems/AL-S.md
 
-27 accepted literature values from 1 paper(s) (experimental 11, model 16); 1 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 11, model 13); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-S.json) · [CSV](https://data.orchid-project.org/systems/AL-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-S/AlS-19Shi.json) · [Markdown](https://data.orchid-project.org/systems/AL-S.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
-| model | 16 |
+| model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 23 |
+| invariant reaction | 20 |
 | phase transition | 4 |
 
 ## Calculated phase diagrams
@@ -49,33 +49,30 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–S system (23)
+Table: Invariant reactions reported in the literature for the Al–S system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1333.15 | Syntectic: L1 + L2 -> AlS | L2: S 0.51; AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 4 |  |
-| 1333.05 | Syntectic: L1 + L2 -> AlS | L1: S 0.041; L2: S 0.548; AlS: S 0.5 | model | [1] Shi 2019 | Table 5, p. 8, row 6 |  |
-| 1331.45 | Syntectic: L1 + L2 -> AlS | L1: S 0; L2: S 0.543; AlS: S 0.5 | model | [1] Shi 2019 | Table 5, p. 8, row 5 |  |
-| 1325.75 | Eutectic: L1 -> AlS + γAl2S3 | L1: S 0.557; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 9 |  |
-| 1325.75 | Eutectic: L1 -> AlS + γAl2S3 | L1: S 0.553; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 8 |  |
-| 1313.15 | Eutectic: L1 -> AlS + γAl2S3 | L1: S 0.56; AlS: S 0.5; γAl2S3: S 0.59 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 7 |  |
+| 1333.15 | syntectic: L1 + L2 -> AlS | L2: S 0.51; AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 4 |  |
+| 1333.05 | syntectic: L1 + L2 -> AlS | L1: S 0.041; L2: S 0.548; AlS: S 0.5 | model | [1] Shi 2019 | Table 5, p. 8, row 6 |  |
+| 1331.45 | syntectic: L1 + L2 -> AlS | L1: S 0; L2: S 0.543; AlS: S 0.5 | model | [1] Shi 2019 | Table 5, p. 8, row 5 |  |
+| 1325.75 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.557; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 9 |  |
+| 1325.75 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.553; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 8 |  |
+| 1313.15 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.56; AlS: S 0.5; γAl2S3: S 0.59 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 7 |  |
 | 1313.15 | eutectic: L2? AlS ? cAl2S3 |  | experimental | [1] Shi 2019; _cites Forland 1974_ | p. 2 | “Two eutectic reactions, L1 ? (Al) ? aAl2S3 and L2? AlS ? cAl2S3, were reported at 660 C and 0.02 at.% S and 1040 C and 56.0 at.% S, respectively.” |
-| 1284.75 | Catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 11 |  |
-| 1284.65 | Catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0.026; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 12 |  |
-| 1283.15 | Catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 10 |  |
-| 1263.45 | Monotectic: L2 -> γAl2S3 + L3 | L2: S 0.707; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 14 |  |
-| 1246.15 | Monotectic: L2 -> γAl2S3 + L3 | γAl2S3: Al 0.4, S 0.6 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 13 |  |
-| 1243.75 | Monotectic: L2 -> γAl2S3 + L3 | L2: S 0.636; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 15 |  |
-| 933.65 | Eutectic: L1 -> (Al) + αAl2S3 | L1: S 0; (Al): S 0; αAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 2 |  |
-| 933.65 | Eutectic: L1 -> (Al) + αAl2S3 | L1: S 0; (Al): S 0; αAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 3 |  |
+| 1284.75 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 11 |  |
+| 1284.65 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0.026; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 12 |  |
+| 1283.15 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 10 |  |
+| 1263.45 | monotectic: L2 -> γAl2S3 + L3 | L2: S 0.707; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 14 |  |
+| 1246.15 | monotectic: L2 -> γAl2S3 + L3 | γAl2S3: Al 0.4, S 0.6 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 13 |  |
+| 1243.75 | monotectic: L2 -> γAl2S3 + L3 | L2: S 0.636; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 15 |  |
+| 933.65 | eutectic: L1 -> (Al) + αAl2S3 | L1: S 0; (Al): S 0; αAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 2 |  |
 | 933.15 | eutectic: L1 ? (Al) ? aAl2S3 |  | experimental | [1] Shi 2019; _cites Forland 1974_ | p. 2 | “Two eutectic reactions, L1 ? (Al) ? aAl2S3 and L2? AlS ? cAl2S3, were reported at 660 C and 0.02 at.% S and 1040 C and 56.0 at.% S, respectively.” |
-| 933.15 | Eutectic: L1 -> (Al) + αAl2S3 | (Al): S 0; αAl2S3: S 0.6 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 1 |  |
-| 388.35 | Eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 18 |  |
-| 388.35 | Eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 17 |  |
-| 388.15 | Eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 16 |  |
-| 368.65 | Eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 19 |  |
-| 368.45 | Eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 20 |  |
-| 368.45 | Eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 21 |  |
+| 933.15 | eutectic: L1 -> (Al) + αAl2S3 | (Al): S 0; αAl2S3: S 0.6 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 1 |  |
+| 388.35 | eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 18 |  |
+| 388.15 | eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 16 |  |
+| 368.65 | eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 19 |  |
+| 368.45 | eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 20 |  |
 
 ## Other properties
 

@@ -1,41 +1,33 @@
 # Cr3Ga: enthalpy of formation
 
-> Enthalpy of formation of Cr3Ga: 23 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Cr3Ga: 15 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cr3Ga.html · Markdown: https://data.orchid-project.org/compounds/Cr3Ga.md
 
-23 accepted literature formation-enthalpy value(s) (experimental 13, model 10); experimental median -3.3 kJ/mol-atom (n = 1); Materials Project -4.035 kJ/mol-atom (mp-aaaaabvj); OQMD -5.328 kJ/mol-atom (oqmd-29544).
+15 accepted literature formation-enthalpy value(s) (experimental 9, model 6); experimental median -3.3 kJ/mol-atom (n = 1); Materials Project -4.035 kJ/mol-atom (mp-aaaaabvj); OQMD -5.328 kJ/mol-atom (oqmd-29544).
 
 Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) · [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cr3Ga reported in the literature (23)
+Table: Enthalpy of formation of Cr3Ga reported in the literature (15)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -8.56 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2 |  |
-| -8.56 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 6 |  |
 | -8.1 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 2 |  |
-| -8.1 kJ/mol (basis unstated) ± 0.3 | Cr3Ga (α) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 4 |  |
 | -8.1 kJ/mol (basis unstated) ± 0.3 | Cr3Ga (α) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 4 |  |
 | -7.97 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 4 |  |
 | -7.76 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 3 |  |
 | -7.25 kJ/mol (basis unstated) | β-Cr3Ga | 1423.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 1 |  |
 | -7.25 kJ/mol (basis unstated) ± 0.7 | Cr3Ga (β) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 6 |  |
-| -7.25 kJ/mol (basis unstated) ± 0.7 | Cr3Ga (β) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 6 |  |
 | -3.3 kJ/mol-atom | Cr3Ga | 850 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42 |  |
 | -3.3 kJ/mol (basis unstated) | Cr3Ga (α) | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1 |  |
-| -3.3 kJ/mol (basis unstated) | Cr3Ga (α) | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1 |  |
-| -12 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3 |  |
 | -12 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3 |  |
 | -12 kJ/mol-atom | Cr3Ga | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44 |  |
 | -9.75 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2 |  |
-| -9.75 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2 |  |
 | -9.75 kJ/mol-atom | Cr3Ga | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999 | Table 1, p. 2, row 43 |  |
 | -8.24 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5 |  |
-| -8.24 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5 |  |
-| -6.98 kJ/mol (basis unstated) | Cr3Ga (β) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7 |  |
 | -6.98 kJ/mol (basis unstated) | Cr3Ga (β) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7 |  |
 
 ## DFT formation energies

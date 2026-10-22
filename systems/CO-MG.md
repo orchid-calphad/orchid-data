@@ -82,11 +82,11 @@ Table: Phase equilibrium, Co–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 911.35 | liquidus; _liquid: Co 0.0165, Mg 0.9835_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 13 |  |
-| Phase composition |  | 911.65 | liquidus; _liquid: Co 0.0199, Mg 0.9801_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 14 |  |
-| Phase composition |  | 916.95 | liquidus; _liquid: Co 0.0077, Mg 0.9923_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 12 |  |
-| Phase composition |  | 920.15 | liquidus; _liquid: Co 0.0042, Mg 0.9958_ | experimental | [2] Sheldon 1987; _cites ref. 47Cra_ | Table 1, p. 6, row 15 |  |
-| Phase composition |  | 923.65 | liquidus; _liquid: Co 0.0013, Mg 0.9987_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 11 |  |
+| Phase composition |  | 911.35 | other; _liquid: Co 0.0165, Mg 0.9835_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 13 |  |
+| Phase composition |  | 911.65 | other; _liquid: Co 0.0199, Mg 0.9801_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 14 |  |
+| Phase composition |  | 916.95 | other; _liquid: Co 0.0077, Mg 0.9923_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 12 |  |
+| Phase composition |  | 920.15 | other; _liquid: Co 0.0042, Mg 0.9958_ | experimental | [2] Sheldon 1987; _cites ref. 47Cra_ | Table 1, p. 6, row 15 |  |
+| Phase composition |  | 923.65 | other; _liquid: Co 0.0013, Mg 0.9987_ | experimental | [2] Sheldon 1987; _cites ref. 35Wet_ | Table 1, p. 6, row 11 |  |
 
 ## Sources
 

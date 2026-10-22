@@ -143,6 +143,18 @@ dataset_info:
     dtype: string
   - name: transition_kind
     dtype: string
+  - name: transition_kind_printed
+    dtype: string
+  - name: property_code_raw
+    dtype: string
+  - name: unit_basis
+    dtype: string
+  - name: per_formula_unit_divisor
+    dtype: float64
+  - name: value_before_quality_fix
+    dtype: float64
+  - name: merged_ids
+    list: string
   - name: compositions
     list:
     - name: phase
@@ -208,6 +220,18 @@ dataset_info:
   - name: flag_composition_conflict_between_readers
     dtype: bool
   - name: flag_unit_conflict_between_readers
+    dtype: bool
+  - name: flag_page_unreadable
+    dtype: bool
+  - name: flag_basis_inferred_from_magnitude
+    dtype: bool
+  - name: flag_basis_corrected_from_formula
+    dtype: bool
+  - name: flag_sign_from_heading
+    dtype: bool
+  - name: flag_dft_outlier_unexplained
+    dtype: bool
+  - name: flag_reference_state_dropped_not_in_quote
     dtype: bool
   - name: flag_state_fully_specified
     dtype: bool
@@ -289,8 +313,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 79942
-  download_size: 6044195
+    num_examples: 76432
+  download_size: 6062486
 - config_name: papers
   features:
   - name: id
@@ -326,7 +350,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 4877
-  download_size: 523763
+  download_size: 523757
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -487,10 +511,16 @@ dataset_info:
     dtype: bool
   - name: dft_release
     dtype: string
+  - name: quality_fix
+    dtype: string
+  - name: unit_basis
+    dtype: string
+  - name: basis_inferred_from_magnitude
+    dtype: bool
   splits:
   - name: full
-    num_examples: 9035
-  download_size: 276058
+    num_examples: 7826
+  download_size: 263573
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -636,10 +666,10 @@ nothing to them; the JSON stays the reference format.
 
 | config | rows | content |
 |---|---:|---|
-| `literature_values` | 79,942 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, ML split |
+| `literature_values` | 76,432 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, ML split |
 | `papers` | 4,877 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
 | `experimental_context` | 1,504 | samples, heat treatments and measurements of 225 papers, each with its quote and page |
-| `dft_parity` | 9,035 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
+| `dft_parity` | 7,826 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
 | `phase_diagram_invariants` | 24,828 | invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions |
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
@@ -675,8 +705,9 @@ D. Shin (Oak Ridge National Laboratory), as part of the ORCHID project.
 equilibrium state: a quantity (`property`, e.g. `INVARIANT_TEMPERATURE`, `TRANSITION_TEMPERATURE`,
 `PHASE_COMPOSITION`, `HM_FORM`, `CPM`, `LATTICE_A`) of a chemical `system`, with the phases involved, the
 temperature and pressure at which it holds, phase compositions (`compositions`, a list of
-`{phase, element, value, basis, source}`), and the reaction for invariants. There are 79,942 values from 1,322
-papers covering 1,390 chemical systems (576 unary, 58,237 binary, 17,417 ternary, the rest higher order).
+`{phase, element, value, basis, source}`), and the reaction for invariants. There are 76,432 values from 1,322
+papers covering 1,390 chemical systems (519 unary, 55,884 binary, 16,578 ternary, the rest higher order), after
+merging 3,510 exact duplicates (`merged_ids`; see `literature/QUALITY_FIXES.md`).
 
 **Evidence classes.** Every value carries one `evidence_class`, never mixed or averaged:
 `experimental` (38,039), `model` (29,673: computed from a CALPHAD or other thermodynamic model), `dft` (6,711:
@@ -731,7 +762,10 @@ paper's convention); `flag_sign_pdf_page_verified` marks a sign corrected from t
 or unspecified) to the lowest-energy non-deprecated entry at exactly the same reduced composition in the Materials
 Project and in OQMD, separately; the two are never averaged. `residual = DFT − literature`. `default_subset`
 reproduces the published default (experimental, accepted, not unsigned, no sign loss, not magnitude-suspect):
-MAE 13.6 kJ/mol-atom over 1,406 MP pairs and 12.4 over 1,489 OQMD pairs.
+MAE 10.9 kJ/mol-atom over 1,231 MP pairs (median 6.3, Spearman 0.83) and 9.6 over 1,294 OQMD pairs (median 5.5,
+Spearman 0.88). Large residuals were classified deterministically (`quality_fix`; `literature/QUALITY_FIXES.md`):
+per-formula values labelled per atom were converted, unsigned magnitudes flagged and excluded, the rest flagged
+`dft_outlier_unexplained` and kept.
 
 **Timeframe.** Corpus papers published 1975–2025 (cited works back to the 19th century); reading done in 2026;
 release 2026-10-22.
@@ -740,12 +774,16 @@ release 2026-10-22.
 
 Temperatures are converted to K (`temperature_printed` keeps the printed string), compositions in atomic or mass
 percent to mole fraction (the `basis` of each composition says which), formation quantities to kJ/mol-atom when
-the paper states the basis (`value_stored`/`unit_stored` and `value_printed`/`unit_printed` keep the earlier
-forms). For the Parquet tables only: nested JSON is flattened into typed columns; `temperature_bound` becomes
+the paper states the basis, and likewise mixing enthalpies, Gibbs energies of mixing and partial molar enthalpies
+(kJ/mol-atom only with an explicit per-atom basis, otherwise `kJ/mol (basis unstated)`; `unit_basis` says how the
+basis was established; `value_stored`/`unit_stored` and `value_printed`/`unit_printed` keep the earlier forms).
+Exact duplicates are merged (`merged_ids`), reaction types and malformed property codes are mapped to controlled
+vocabularies (raw values kept in `transition_kind_printed` and `property_code_raw`), and every correction is
+listed with its evidence in `literature/QUALITY_FIXES.md`. For the Parquet tables only: nested JSON is flattened into typed columns; `temperature_bound` becomes
 `bound` (`upper` for `<`, `lower` for `>`) and `temperature_bound_K`; `reference_state` is kept as a JSON string
-(`reference_state_json`); `transition_kind` is the lower-cased reaction type of `phase_transition` values; the
-`split` column is added. Two corrupted `quote_page` values in the source release (non-page integers) are set to
-null. No value is altered.
+(`reference_state_json`); `transition_kind` is the controlled reaction / transition class (see Known limitations); the
+`split` column is added. Two corrupted `quote_page` values (non-page integers) are null with
+`flag_page_unreadable`.
 
 ## Uses
 
@@ -757,8 +795,8 @@ supervision signal; the source PDFs are not included).
 
 **Recommended ML split.** `literature_values.split` assigns every paper to `train` / `validation` / `test`
 deterministically: `sha256("orchid-split-v1:" + paper_id)`, first 8 bytes as an integer mod 100, `< 80` train,
-`< 90` validation, else test. No paper spans two splits. This release: train 62,730 values (1,053 papers),
-validation 7,841 (124 papers), test 9,371 (145 papers). Because many values are reprinted from earlier work,
+`< 90` validation, else test. No paper spans two splits. This release: train 59,967 values (1,053 papers),
+validation 7,527 (124 papers), test 8,938 (145 papers). Because many values are reprinted from earlier work,
 the same measurement can appear under several papers; for strict leakage control also group by
 `origin_measured_in` (or by `system` for extrapolation to unseen chemistries).
 
@@ -785,27 +823,29 @@ next release. Report errors via the project website or repository issues.
 
 ## Known limitations
 
-- **Per-formula vs per-atom.** 2,925 formation values have unit `kJ/mol (basis unstated)`: the paper does not say
+- **Per-formula vs per-atom.** 2,765 formation values have unit `kJ/mol (basis unstated)`: the paper does not say
   whether they are per mole of atoms or per formula unit, and they are not converted. Exclude them from per-atom
-  analyses (`dft_parity` already does).
+  analyses (`dft_parity` already does). A further 2,680 formation values are per atom only by the record builder's
+  magnitude heuristic (`unit_basis = magnitude_heuristic`, `flag_basis_inferred_from_magnitude`).
 - **Unsigned magnitudes.** Some papers print formation enthalpies without a minus sign by convention
-  (`flag_unsigned_in_print`, 13 values; more found by the sign check in `dft_parity.sign_check`). The value is
+  (`flag_unsigned_in_print`, 44 values; more found by the sign check in `dft_parity.sign_check`). The value is
   stored as printed.
-- **Placeholder uncertainties.** Only `uncertainty_basis = printed` (4,039) or `printed_range` (23) is the
-  source's own uncertainty. `stated_default` (25,215; e.g. "5% default") and `reading_resolution` (7,587) are ORCHID
+- **Placeholder uncertainties.** Only `uncertainty_basis = printed` (3,742) or `printed_range` (23) is the
+  source's own uncertainty. `stated_default` (23,133; e.g. "5% default") and `reading_resolution` (6,936) are ORCHID
   placeholders, not measured uncertainties. Most values have none.
 - **Multi-system tables.** Some tables report many systems at once; values are assigned to the system of their
   row, and a record can carry up to 18 elements when the table's system could not be narrowed.
-  `flag_system_mismatch` (559) marks rows whose phases or compositions do not fit the assigned system.
+  `flag_system_mismatch` (495) marks rows whose phases or compositions do not fit the assigned system.
 - **Evidence-class caveats.** `experimental` values cited from older work carry the citing paper's reading of
   them (`origin` says how the class was decided, e.g. `cited_work_before_1980_assumed_experimental`); `unspecified`
-  values may be experimental or calculated. `flag_source_disputed` (513) and `flag_magnitude_suspect` (545) mark
+  values may be experimental or calculated. `flag_source_disputed` (512) and `flag_magnitude_suspect` (499) mark
   values to check before use.
 - **Assumed conditions.** Pressure is usually `unstated_assumed` 1 atm; some temperatures are
   `assumed_room_temperature` or `assumed_standard_298K` (`temperature_basis`).
-- **Vocabulary.** `reaction_type` is as read (e.g. `Congruent`, `congruent melting`, `C.M.`); `transition_kind`
-  only lower-cases it (48 distinct values). A few property codes are irregular (`ACR_`, `LATTICE_A_`, `LATTICE__`,
-  `LATTICE_LATTICE_PARAMETER_*`).
+- **Vocabulary.** `transition_kind` (= `reaction_type`) is one of eutectic, peritectic, monotectic, syntectic,
+  eutectoid, peritectoid, monotectoid, quasi-peritectic, congruent melting, congruent transformation, polymorphic,
+  magnetic, order-disorder, critical point, metatectic/catatectic, other; the reading is in
+  `transition_kind_printed` (187 variants). Liquidus / solidus points and ambiguous labels are `other`.
 - **DFT.** MP and OQMD energies use different references and corrections and are not comparable to each other.
   OQMD formulas are written with spaces and explicit 1s (`Al3 Ni1`). Hulls are binary and at 0 K.
 - **Calculated diagrams.** 54 SGTE files did not calculate (`phase_diagram_index.status = failed`); calculated

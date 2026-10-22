@@ -210,8 +210,8 @@ Table: Enthalpies of formation, Ni–Sn system (43)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -32.714 kJ/mol-atom | 1023 | model |  |  | [2] Liu 2004 | p. 6 | “However, for Ni3 Sn2 and Ni3 Sn4 at 1023 K, the heats of formation are calculated to be -32 714 and -30 823 J/g atm, respectively, which agree with those in \[1\], but deviate about 10% from the measured values \[11\].” |
-| — |  | -30.823 kJ/mol-atom | 1023 | model |  |  | [2] Liu 2004 | p. 6 | “However, for Ni3 Sn2 and Ni3 Sn4 at 1023 K, the heats of formation are calculated to be -32 714 and -30 823 J/g atm, respectively, which agree with those in \[1\], but deviate about 10% from the measured values \[11\].” |
+| — |  | -32714 J/g atm | 1023 | model |  |  | [2] Liu 2004 | p. 6 | “However, for Ni3 Sn2 and Ni3 Sn4 at 1023 K, the heats of formation are calculated to be -32 714 and -30 823 J/g atm, respectively, which agree with those in \[1\], but deviate about 10% from the measured values \[11\].” |
+| — |  | -30823 J/g atm | 1023 | model |  |  | [2] Liu 2004 | p. 6 | “However, for Ni3 Sn2 and Ni3 Sn4 at 1023 K, the heats of formation are calculated to be -32 714 and -30 823 J/g atm, respectively, which agree with those in \[1\], but deviate about 10% from the measured values \[11\].” |
 | Ni3Sn(γ1) |  | -26.66 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 3 |  |
 | Ni3Sn(γ1) |  | -26.4 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003 | Table 5, p. 5, row 4 |  |
 | Ni3Sn(γ1) |  | -26.31 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 1 |  |
@@ -320,7 +320,7 @@ Table: Phase transition, Ni–Sn system
 | Phase transition | 1535 K | 1535 | Liq–Ni3Sn2(η); _Liq: Sn 0.4; Ni3Sn2(η): Sn 0.4_ | model | [3] Miettinen 2003 | Table 4, p. 5, row 22 |  |
 | Phase transition | 1537 K | 1537 | L -> Ni3Sn2_HT; _L: Sn 0.4; Ni3Sn2_HT: Sn 0.4_ | unspecified | [2] Liu 2004; _cites Nash 1985_ [doi](https://doi.org/10.1007/bf02880521) | Table 4, p. 7, row 24 |  |
 | Phase transition | 1540 K | 1540 | L -> Ni3Sn2_HT; _L: Sn 0.396; Ni3Sn2_HT: Sn 0.4_ | model | [2] Liu 2004 | Table 4, p. 7, row 26 |  |
-| Phase transition | 1540 K | 1540 | congruent | experimental | [4] Ghosh 1999; _cites Heumann 1943_ | p. 2 | “Ni3Sn2 also melts congruently\[34\] around 1540 K.” |
+| Phase transition | 1540 K | 1540 | congruent transformation | experimental | [4] Ghosh 1999; _cites Heumann 1943_ | p. 2 | “Ni3Sn2 also melts congruently\[34\] around 1540 K.” |
 | Phase transition | 1540.15 K | 1540.15 | Liquid + Ni3Sn2 | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 5 |  |
 | Phase transition | 1540.15 K | 1540.15 | Liquid / Ni3Sn2; _L: Sn 0.401; Ni3Sn2: Sn 0.4_ | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 5 |  |
 | Phase transition | 1553.15 K | 1553.15 | Liquid + Ni3Sn2 | experimental | [1] Zemanova 2012; _cites Schmetterer 2007_ [doi](https://doi.org/10.1016/j.intermet.2006.10.045) | Table 3, p. 5, row 3 |  |

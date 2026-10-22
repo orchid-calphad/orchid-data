@@ -64,29 +64,29 @@ Table: Invariant reactions reported in the literature for the Ge–Sc system (23
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2338 | Congruent: Sc5Ge3 = Liquid | Sc5Ge3: Ge 0.375; Liquid: Ge 0.375 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 7 |  |
-| 2334 | Congruent: Sc5Ge3 = Liquid | Sc5Ge3: Ge 0.375; Liquid: Ge 0.375 | model | [1] Cheng 2012 | Table 5, p. 7, row 8 |  |
-| 2145 | Peritectic: Sc5Ge3 + Liquid = Sc5Ge4 | Sc5Ge3: Ge 0.375; Liquid: Ge 0.476; Sc5Ge4: Ge 0.4445 | model | [1] Cheng 2012 | Table 5, p. 7, row 10 |  |
-| 2143 | Peritectic: Sc5Ge3 + Liquid = Sc5Ge4 | Sc5Ge3: Ge 0.385; Liquid: Ge 0.452; Sc5Ge4: Ge 0.4445 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 9 |  |
-| 1941 | Peritectic: Sc5Ge4 + Liquid = Sc11Ge10 | Sc5Ge4: Ge 0.4445; Liquid: Ge 0.559; Sc11Ge10: Ge 0.4762 | model | [1] Cheng 2012 | Table 5, p. 7, row 12 |  |
-| 1938 | Peritectic: Sc5Ge4 + Liquid = Sc11Ge10 | Sc5Ge4: Ge 0.4445; Liquid: Ge 0.493; Sc11Ge10: Ge 0.4762 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 11 |  |
-| 1605 | Metatectic: (βSc) = (αSc) + Liquid | (βSc): Ge 0.0221; (αSc): Ge 0.0217; Liquid: Ge 0.107 | model | [1] Cheng 2012 | Table 5, p. 7, row 3 |  |
-| 1605 | Metatectic: (βSc) = (αSc) + Liquid |  | experimental | [1] Cheng 2012 | Table 5, p. 7, row 2 |  |
-| 1603 | Metatectic: (βSc) = (αSc) + Liquid | (βSc): Ge 0.02; (αSc): Ge 0; Liquid: Ge 0.089 | model | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 1 |  |
-| 1547 | Eutectic: Liquid = (αSc) + Sc5Ge3 | Liquid: Ge 0.12; (αSc): Ge 0.027; Sc5Ge3: Ge 0.365 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 4 |  |
-| 1547 | Eutectic: Liquid = (αSc) + Sc5Ge3 | Liquid: Ge 0.123; (αSc): Ge 0.0267; Sc5Ge3: Ge 0.3453 | model | [1] Cheng 2012 | Table 5, p. 7, row 6 |  |
+| 2338 | congruent melting: Sc5Ge3 = Liquid | Sc5Ge3: Ge 0.375; Liquid: Ge 0.375 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 7 |  |
+| 2334 | congruent melting: Sc5Ge3 = Liquid | Sc5Ge3: Ge 0.375; Liquid: Ge 0.375 | model | [1] Cheng 2012 | Table 5, p. 7, row 8 |  |
+| 2145 | peritectic: Sc5Ge3 + Liquid = Sc5Ge4 | Sc5Ge3: Ge 0.375; Liquid: Ge 0.476; Sc5Ge4: Ge 0.4445 | model | [1] Cheng 2012 | Table 5, p. 7, row 10 |  |
+| 2143 | peritectic: Sc5Ge3 + Liquid = Sc5Ge4 | Sc5Ge3: Ge 0.385; Liquid: Ge 0.452; Sc5Ge4: Ge 0.4445 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 9 |  |
+| 1941 | peritectic: Sc5Ge4 + Liquid = Sc11Ge10 | Sc5Ge4: Ge 0.4445; Liquid: Ge 0.559; Sc11Ge10: Ge 0.4762 | model | [1] Cheng 2012 | Table 5, p. 7, row 12 |  |
+| 1938 | peritectic: Sc5Ge4 + Liquid = Sc11Ge10 | Sc5Ge4: Ge 0.4445; Liquid: Ge 0.493; Sc11Ge10: Ge 0.4762 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 11 |  |
+| 1605 | metatectic/catatectic: (βSc) = (αSc) + Liquid | (βSc): Ge 0.0221; (αSc): Ge 0.0217; Liquid: Ge 0.107 | model | [1] Cheng 2012 | Table 5, p. 7, row 3 |  |
+| 1605 | metatectic/catatectic: (βSc) = (αSc) + Liquid |  | experimental | [1] Cheng 2012 | Table 5, p. 7, row 2 |  |
+| 1603 | metatectic/catatectic: (βSc) = (αSc) + Liquid | (βSc): Ge 0.02; (αSc): Ge 0; Liquid: Ge 0.089 | model | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 1 |  |
+| 1547 | eutectic: Liquid = (αSc) + Sc5Ge3 | Liquid: Ge 0.12; (αSc): Ge 0.027; Sc5Ge3: Ge 0.365 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 4 |  |
+| 1547 | eutectic: Liquid = (αSc) + Sc5Ge3 | Liquid: Ge 0.123; (αSc): Ge 0.0267; Sc5Ge3: Ge 0.3453 | model | [1] Cheng 2012 | Table 5, p. 7, row 6 |  |
 | 1547 | eutectic: L = (α Sc)+ Sc5 Ge3 |  | experimental | [1] Cheng 2012 | p. 2 | “two eutectic reactions L = (α Sc)+ Sc5 Ge3 and L = ScGe2 +(Ge) at 1547 and 1165 K with the eutectic compositions of 12 and 85 at.% Ge, respectively.” |
-| 1547 | Eutectic: Liquid = (αSc) + Sc5Ge3 | Sc5Ge3: Ge 0.375, Sc 0.625 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 5 |  |
-| 1466 | Peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.47619, Sc 0.52381; ScGe: Ge 0.5, Sc 0.5 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 14 |  |
-| 1466 | Peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.4762; Liquid: Ge 0.677; ScGe: Ge 0.5 | model | [1] Cheng 2012 | Table 5, p. 7, row 15 |  |
-| 1465 | Peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.4762; Liquid: Ge 0.625; ScGe: Ge 0.5 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 13 |  |
-| 1389 | Peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5; Liquid: Ge 0.699; ScGe2: Ge 0.667 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 16 |  |
-| 1389 | Peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5; Liquid: Ge 0.699; ScGe2: Ge 0.667 | model | [1] Cheng 2012 | Table 5, p. 7, row 18 |  |
-| 1389 | Peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5, Sc 0.5; ScGe2: Ge 0.666667, Sc 0.333333 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 17 |  |
-| 1167 | Eutectic: Liquid = ScGe2 + (Ge) | ScGe2: Ge 0.666667, Sc 0.333333 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 20 |  |
-| 1167 | Eutectic: Liquid = ScGe2 + (Ge) | Liquid: Ge 0.85; ScGe2: Ge 0.667; (Ge): Ge 1 | model | [1] Cheng 2012 | Table 5, p. 7, row 21 |  |
+| 1547 | eutectic: Liquid = (αSc) + Sc5Ge3 | Sc5Ge3: Ge 0.375, Sc 0.625 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 5 |  |
+| 1466 | peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.47619, Sc 0.52381; ScGe: Ge 0.5, Sc 0.5 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 14 |  |
+| 1466 | peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.4762; Liquid: Ge 0.677; ScGe: Ge 0.5 | model | [1] Cheng 2012 | Table 5, p. 7, row 15 |  |
+| 1465 | peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.4762; Liquid: Ge 0.625; ScGe: Ge 0.5 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 13 |  |
+| 1389 | peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5; Liquid: Ge 0.699; ScGe2: Ge 0.667 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 16 |  |
+| 1389 | peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5; Liquid: Ge 0.699; ScGe2: Ge 0.667 | model | [1] Cheng 2012 | Table 5, p. 7, row 18 |  |
+| 1389 | peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5, Sc 0.5; ScGe2: Ge 0.666667, Sc 0.333333 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 17 |  |
+| 1167 | eutectic: Liquid = ScGe2 + (Ge) | ScGe2: Ge 0.666667, Sc 0.333333 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 20 |  |
+| 1167 | eutectic: Liquid = ScGe2 + (Ge) | Liquid: Ge 0.85; ScGe2: Ge 0.667; (Ge): Ge 1 | model | [1] Cheng 2012 | Table 5, p. 7, row 21 |  |
 | 1165 | eutectic: L = ScGe2 +(Ge) |  | experimental | [1] Cheng 2012 | p. 2 | “two eutectic reactions L = (α Sc)+ Sc5 Ge3 and L = ScGe2 +(Ge) at 1547 and 1165 K with the eutectic compositions of 12 and 85 at.% Ge, respectively.” |
-| 1165 | Eutectic: Liquid = ScGe2 + (Ge) | Liquid: Ge 0.85; ScGe2: Ge 0.667; (Ge): Ge 1 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 19 |  |
+| 1165 | eutectic: Liquid = ScGe2 + (Ge) | Liquid: Ge 0.85; ScGe2: Ge 0.667; (Ge): Ge 1 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 19 |  |
 
 ## Other properties
 
@@ -100,11 +100,11 @@ Table: Phase transition, Ge–Sc system
 | Phase transition | 1167 K | 1167 | Liquid = ScGe2 + (Ge) | experimental | [1] Cheng 2012 | p. 5 | “Fig. 2(c) gives the DTA curve of alloy 7 (Sc30 Ge70 ) with a heating rate of 5 K min-1 , the two peaks represent the invariant equilibria (Liquid = ScGe2 + (Ge)) at 1167 K and the temperature of liquidus at this composition (1370.6 K).” |
 | Phase transition | 1167 K | 1167 | Liquid = ScGe2 + (Ge) | experimental | [1] Cheng 2012 | p. 5 | “On the Ge-rich side, three invariant equilibria (Sc11 Ge10 + Liquid = ScGe, ScGe + Liquid = ScGe2 and Liquid = ScGe2 + (Ge)) were detected at 1466 K, 1389 K and 1167 K, respectively, showing a good agreement with previous results \[9\].” |
 | Phase transition | 1211.4 K | 1211.4 |  | model | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | p. 1 | “Most of the results from \[9\] were accepted by Gokhale and Abbschian \[8\] assessing the Sc-Ge phase diagram, except for changing the melting temperatures of Sc and Ge from 1823 K and 1208 K to 1814 K and 1211.4 K, respectively, to conform with the currently accepted values.” |
-| Phase transition | 1370.6 K | 1370.6 | liquidus | experimental | [1] Cheng 2012 | p. 5 | “Fig. 2(c) gives the DTA curve of alloy 7 (Sc30 Ge70 ) with a heating rate of 5 K min-1 , the two peaks represent the invariant equilibria (Liquid = ScGe2 + (Ge)) at 1167 K and the temperature of liquidus at this composition (1370.6 K).” |
+| Phase transition | 1370.6 K | 1370.6 | other | experimental | [1] Cheng 2012 | p. 5 | “Fig. 2(c) gives the DTA curve of alloy 7 (Sc30 Ge70 ) with a heating rate of 5 K min-1 , the two peaks represent the invariant equilibria (Liquid = ScGe2 + (Ge)) at 1167 K and the temperature of liquidus at this composition (1370.6 K).” |
 | Phase transition | 1389 K | 1389 | Sc11 Ge10 + Liquid = ScGe | model | [1] Cheng 2012 | p. 6 | “The calculated reaction temperature and peritectic point of invariant equilibrium Sc11 Ge10 + Liquid = ScGe are 1389 K and 68.1 at.% Ge, which agree well with the present experimental results.” |
 | Phase transition | 1389 K | 1389 | ScGe + Liquid = ScGe2 | experimental | [1] Cheng 2012 | p. 5 | “On the Ge-rich side, three invariant equilibria (Sc11 Ge10 + Liquid = ScGe, ScGe + Liquid = ScGe2 and Liquid = ScGe2 + (Ge)) were detected at 1466 K, 1389 K and 1167 K, respectively, showing a good agreement with previous results \[9\].” |
 | Phase transition | 1466 K | 1466 | Sc11 Ge10 + Liquid = ScGe | experimental | [1] Cheng 2012 | p. 5 | “On the Ge-rich side, three invariant equilibria (Sc11 Ge10 + Liquid = ScGe, ScGe + Liquid = ScGe2 and Liquid = ScGe2 + (Ge)) were detected at 1466 K, 1389 K and 1167 K, respectively, showing a good agreement with previous results \[9\].” |
-| Phase transition | 1475.1 K | 1475.1 | liquidus | experimental | [1] Cheng 2012 | p. 5 | “The liquidus for Sc11 Ge10 alloy reported by Eremenko et al. \[9\] is thus not reasonable and the temperature of 1475.1 K from the peak maximum of the second thermal effect is assumed as the liquidus point in the present assessment.” |
+| Phase transition | 1475.1 K | 1475.1 | other | experimental | [1] Cheng 2012 | p. 5 | “The liquidus for Sc11 Ge10 alloy reported by Eremenko et al. \[9\] is thus not reasonable and the temperature of 1475.1 K from the peak maximum of the second thermal effect is assumed as the liquidus point in the present assessment.” |
 | Phase transition | 1547 K | 1547 | Liquid = (α Sc) + Sc5 Ge3 | experimental | [1] Cheng 2012 | p. 5 | “The presently determined two invariant reactions on the Sc-rich side ((β Sc) = (α Sc) + Liquid at1605 K, Liquid = (α Sc) + Sc5 Ge3 at 1547 K) match well with those reported in the previous work \[9\].” |
 | Phase transition | 1605 K | 1605 | (β Sc) = (α Sc) + Liquid | experimental | [1] Cheng 2012 | p. 5 | “The presently determined two invariant reactions on the Sc-rich side ((β Sc) = (α Sc) + Liquid at1605 K, Liquid = (α Sc) + Sc5 Ge3 at 1547 K) match well with those reported in the previous work \[9\].” |
 | Phase transition | 1814 K | 1814 |  | model | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | p. 1 | “Most of the results from \[9\] were accepted by Gokhale and Abbschian \[8\] assessing the Sc-Ge phase diagram, except for changing the melting temperatures of Sc and Ge from 1823 K and 1208 K to 1814 K and 1211.4 K, respectively, to conform with the currently accepted values.” |

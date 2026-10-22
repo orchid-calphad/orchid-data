@@ -91,74 +91,74 @@ Table: Invariant reactions reported in the literature for the Au–Tb system (68
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1896.15 | Melting: L \<-> βAuTb | L: Tb 0.5; βAuTb: Tb 0.5 | experimental | [1] Wang 2016; _cites McMasters 1971_ | Table 2, p. 3, row 8 |  |
-| 1863.15 | Melting: L \<-> βAuTb | L: Tb 0.5; βAuTb: Tb 0.5 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 7 |  |
-| 1862.55 | Melting: L \<-> βAuTb | L: Tb 0.5; βAuTb: Tb 0.5 | model | [1] Wang 2016 | Table 2, p. 3, row 9 |  |
-| 1723.25 | Polymorphic: βAuTb \<-> αAuTb | βAuTb: Tb 0.5; αAuTb: Au 0.5, Tb 0.5 | model | [1] Wang 2016 | Table 2, p. 3, row 11 |  |
-| 1723.15 | Polymorphic: βAuTb \<-> αAuTb | βAuTb: Tb 0.5; αAuTb: Au 0.5, Tb 0.5 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 10 |  |
+| 1896.15 | congruent melting: L \<-> βAuTb | L: Tb 0.5; βAuTb: Tb 0.5 | experimental | [1] Wang 2016; _cites McMasters 1971_ | Table 2, p. 3, row 8 |  |
+| 1863.15 | congruent melting: L \<-> βAuTb | L: Tb 0.5; βAuTb: Tb 0.5 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 7 |  |
+| 1862.55 | congruent melting: L \<-> βAuTb | L: Tb 0.5; βAuTb: Tb 0.5 | model | [1] Wang 2016 | Table 2, p. 3, row 9 |  |
+| 1723.25 | polymorphic: βAuTb \<-> αAuTb | βAuTb: Tb 0.5; αAuTb: Au 0.5, Tb 0.5 | model | [1] Wang 2016 | Table 2, p. 3, row 11 |  |
+| 1723.15 | polymorphic: βAuTb \<-> αAuTb | βAuTb: Tb 0.5; αAuTb: Au 0.5, Tb 0.5 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 10 |  |
 | 1628 | peritectic: L+αTbAu⇔Tb3Au4 | αTbAu: Tb 0.5; Tb3Au4: Tb 0.428571 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 36 |  |
-| 1613.25 | Peritectic: L + αAuTb \<-> Au4Tb3 | L: Tb 0.408; αAuTb: Tb 0.5; Au4Tb3: Tb 0.429 | model | [1] Wang 2016 | Table 2, p. 3, row 13 |  |
+| 1613.25 | peritectic: L + αAuTb \<-> Au4Tb3 | L: Tb 0.408; αAuTb: Tb 0.5; Au4Tb3: Tb 0.429 | model | [1] Wang 2016 | Table 2, p. 3, row 13 |  |
 | 1613.15 | peritectic: L + aAuTb -> Au4Tb3 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1613.15 | Peritectic: L + αAuTb \<-> Au4Tb3 | L: Tb 0.41; αAuTb: Tb 0.5; Au4Tb3: Tb 0.429 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 12 |  |
+| 1613.15 | peritectic: L + αAuTb \<-> Au4Tb3 | L: Tb 0.41; αAuTb: Tb 0.5; Au4Tb3: Tb 0.429 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 12 |  |
 | 1613 | peritectic: L + αTbAu -> Tb3Au4 | L: Tb 0.4; αTbAu: Tb 0.5; Tb3Au4: Tb 0.428571 | model | [2] Otmani 2016 | Table 1, p. 3, row 14 |  |
 | 1613 | peritectic: L + αTbAu -> Tb3Au4 | L: Tb 0.41; αTbAu: Tb 0.5; Tb3Au4: Tb 0.428571 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 13 |  |
-| 1562 | Catatectic: (βTb) -> (αTb) + L | L: Tb 0.975 | model | [2] Otmani 2016 | Table 1, p. 3, row 6 |  |
-| 1538.15 | Melting: L \<-> Au2Tb | L: Tb 0.333; Au2Tb: Tb 0.333 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 18 |  |
-| 1538.05 | Melting: L \<-> Au2Tb | L: Tb 0.333; Au2Tb: Tb 0.333 | model | [1] Wang 2016 | Table 2, p. 3, row 19 |  |
+| 1562 | metatectic/catatectic: (βTb) -> (αTb) + L | L: Tb 0.975 | model | [2] Otmani 2016 | Table 1, p. 3, row 6 |  |
+| 1538.15 | congruent melting: L \<-> Au2Tb | L: Tb 0.333; Au2Tb: Tb 0.333 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 18 |  |
+| 1538.05 | congruent melting: L \<-> Au2Tb | L: Tb 0.333; Au2Tb: Tb 0.333 | model | [1] Wang 2016 | Table 2, p. 3, row 19 |  |
 | 1498 | peritectic: L+Tb3Au4⇔Tb7Au10 | L: Tb 0.25; Tb3Au4: Tb 0.428571; Tb7Au10: Tb 0.411765 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 23 |  |
 | 1496 | peritectic: L + Tb3Au4 -> Tb7Au10 | L: Tb 0.37; Tb3Au4: Tb 0.428571; Tb7Au10: Tb 0.411765 | model | [2] Otmani 2016 | Table 1, p. 3, row 16 |  |
-| 1492 | Eutectic: L -> Tb7Au10 + TbAu2 | L: Tb 0.362; Tb7Au10: Tb 0.411765; TbAu2: Tb 0.333333 | model | [2] Otmani 2016 | Table 1, p. 3, row 18 |  |
-| 1488.65 | Melting: L \<-> Au3Tb | L: Tb 0.25; Au3Tb: Tb 0.25 | model | [1] Wang 2016 | Table 2, p. 3, row 23 |  |
-| 1488.15 | Melting: L \<-> Au3Tb | L: Tb 0.25; Au3Tb: Tb 0.25 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 22 |  |
-| 1483.25 | Peritectic: L + Au4Tb3 \<-> Au10Tb7 | L: Tb 0.373; Au4Tb3: Tb 0.429; Au10Tb7: Tb 0.412 | model | [1] Wang 2016 | Table 2, p. 3, row 15 |  |
-| 1483.15 | Catatectic: (βTb) \<-> (αTb) + L | (βTb): Tb 0.987; (αTb): Tb 0.999; L: Tb 0.941 | model | [1] Wang 2016 | Table 2, p. 3, row 2 |  |
+| 1492 | eutectic: L -> Tb7Au10 + TbAu2 | L: Tb 0.362; Tb7Au10: Tb 0.411765; TbAu2: Tb 0.333333 | model | [2] Otmani 2016 | Table 1, p. 3, row 18 |  |
+| 1488.65 | congruent melting: L \<-> Au3Tb | L: Tb 0.25; Au3Tb: Tb 0.25 | model | [1] Wang 2016 | Table 2, p. 3, row 23 |  |
+| 1488.15 | congruent melting: L \<-> Au3Tb | L: Tb 0.25; Au3Tb: Tb 0.25 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 22 |  |
+| 1483.25 | peritectic: L + Au4Tb3 \<-> Au10Tb7 | L: Tb 0.373; Au4Tb3: Tb 0.429; Au10Tb7: Tb 0.412 | model | [1] Wang 2016 | Table 2, p. 3, row 15 |  |
+| 1483.15 | metatectic/catatectic: (βTb) \<-> (αTb) + L | (βTb): Tb 0.987; (αTb): Tb 0.999; L: Tb 0.941 | model | [1] Wang 2016 | Table 2, p. 3, row 2 |  |
 | 1483.15 | peritectic: L + Au4Tb3 -> Au10Tb7 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1483.15 | Catatectic: (βTb) \<-> (αTb) + L | (βTb): Tb 0.975; L: Tb 0.915 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 1 |  |
-| 1483.15 | Peritectic: L + Au4Tb3 \<-> Au10Tb7 | L: Tb 0.38; Au4Tb3: Tb 0.429; Au10Tb7: Tb 0.412 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 14 |  |
-| 1483 | Catatectic: (βTb) -> (αTb) + L | L: Tb 0.975 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 5 |  |
-| 1483 | Eutectic: L⇔Tb7Au10+TbAu2 | Tb7Au10: Tb 0.411765; TbAu2: Tb 0.333333 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 37 |  |
+| 1483.15 | metatectic/catatectic: (βTb) \<-> (αTb) + L | (βTb): Tb 0.975; L: Tb 0.915 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 1 |  |
+| 1483.15 | peritectic: L + Au4Tb3 \<-> Au10Tb7 | L: Tb 0.38; Au4Tb3: Tb 0.429; Au10Tb7: Tb 0.412 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 14 |  |
+| 1483 | metatectic/catatectic: (βTb) -> (αTb) + L | L: Tb 0.975 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 5 |  |
+| 1483 | eutectic: L⇔Tb7Au10+TbAu2 | Tb7Au10: Tb 0.411765; TbAu2: Tb 0.333333 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 37 |  |
 | 1483 | peritectic: L + Tb3Au4 -> Tb7Au10 | L: Tb 0.38; Tb3Au4: Tb 0.428571; Tb7Au10: Tb 0.411765 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 15 |  |
-| 1472.75 | Eutectic: L \<-> Au10Tb7 + Au2Tb | L: Tb 0.37; Au10Tb7: Tb 0.412; Au2Tb: Tb 0.333 | model | [1] Wang 2016 | Table 2, p. 3, row 17 |  |
+| 1472.75 | eutectic: L \<-> Au10Tb7 + Au2Tb | L: Tb 0.37; Au10Tb7: Tb 0.412; Au2Tb: Tb 0.333 | model | [1] Wang 2016 | Table 2, p. 3, row 17 |  |
 | 1468.15 | eutectic: L -> Au10Tb7 + Au2Tb |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1468.15 | Eutectic: L \<-> Au10Tb7 + Au2Tb | L: Tb 0.375; Au10Tb7: Tb 0.412; Au2Tb: Tb 0.333 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 16 |  |
-| 1468 | Eutectic: L -> Tb7Au10 + TbAu2 | L: Tb 0.375; Tb7Au10: Tb 0.411765; TbAu2: Tb 0.333333 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 17 |  |
+| 1468.15 | eutectic: L \<-> Au10Tb7 + Au2Tb | L: Tb 0.375; Au10Tb7: Tb 0.412; Au2Tb: Tb 0.333 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 16 |  |
+| 1468 | eutectic: L -> Tb7Au10 + TbAu2 | L: Tb 0.375; Tb7Au10: Tb 0.411765; TbAu2: Tb 0.333333 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 17 |  |
 | 1448.15 | peritectic: L + Au3Tb -> Au51Tb14 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1448.15 | Peritectic: L + Au3Tb \<-> Au51Tb14 | L: Tb 0.21; Au3Tb: Tb 0.25; Au51Tb14: Tb 0.2154 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 24 |  |
-| 1448 | Peritectic: L + TbAu3 -> Tb14Au51 | L: Tb 0.21; TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 25 |  |
-| 1445.55 | Peritectic: L + Au3Tb \<-> Au51Tb14 | L: Tb 0.2153; Au3Tb: Tb 0.25; Au51Tb14: Tb 0.2154 | model | [1] Wang 2016 | Table 2, p. 3, row 25 |  |
-| 1443 | Eutectic: L⇔TbAu2+TbAu3 | TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 39 |  |
-| 1435.35 | Eutectic: L \<-> Au2Tb + Au3Tb | L: Tb 0.288; Au2Tb: Tb 0.333; Au3Tb: Tb 0.25 | model | [1] Wang 2016 | Table 2, p. 3, row 21 |  |
-| 1435 | Eutectic: L -> TbAu2 + TbAu3 | L: Tb 0.29; TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | model | [2] Otmani 2016 | Table 1, p. 3, row 22 |  |
+| 1448.15 | peritectic: L + Au3Tb \<-> Au51Tb14 | L: Tb 0.21; Au3Tb: Tb 0.25; Au51Tb14: Tb 0.2154 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 24 |  |
+| 1448 | peritectic: L + TbAu3 -> Tb14Au51 | L: Tb 0.21; TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 25 |  |
+| 1445.55 | peritectic: L + Au3Tb \<-> Au51Tb14 | L: Tb 0.2153; Au3Tb: Tb 0.25; Au51Tb14: Tb 0.2154 | model | [1] Wang 2016 | Table 2, p. 3, row 25 |  |
+| 1443 | eutectic: L⇔TbAu2+TbAu3 | TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 39 |  |
+| 1435.35 | eutectic: L \<-> Au2Tb + Au3Tb | L: Tb 0.288; Au2Tb: Tb 0.333; Au3Tb: Tb 0.25 | model | [1] Wang 2016 | Table 2, p. 3, row 21 |  |
+| 1435 | eutectic: L -> TbAu2 + TbAu3 | L: Tb 0.29; TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | model | [2] Otmani 2016 | Table 1, p. 3, row 22 |  |
 | 1433.15 | eutectic: L -> Au2Tb + Au3Tb |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1433.15 | Eutectic: L \<-> Au2Tb + Au3Tb | L: Tb 0.29; Au2Tb: Tb 0.333; Au3Tb: Tb 0.25 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 20 |  |
-| 1433 | Eutectic: L -> TbAu2 + TbAu3 | L: Tb 0.29; TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 21 |  |
-| 1388 | Peritectic: L+TbAu3⇔Tb14Au51 | TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 42 |  |
-| 1376 | Peritectic: L + TbAu3 -> Tb14Au51 | L: Tb 0.2; TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | model | [2] Otmani 2016 | Table 1, p. 3, row 26 |  |
-| 1273.25 | Peritectic: L + αAuTb \<-> AuTb2 | L: Tb 0.7; αAuTb: Tb 0.5; AuTb2: Tb 0.667 | model | [1] Wang 2016 | Table 2, p. 3, row 6 |  |
+| 1433.15 | eutectic: L \<-> Au2Tb + Au3Tb | L: Tb 0.29; Au2Tb: Tb 0.333; Au3Tb: Tb 0.25 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 20 |  |
+| 1433 | eutectic: L -> TbAu2 + TbAu3 | L: Tb 0.29; TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 21 |  |
+| 1388 | peritectic: L+TbAu3⇔Tb14Au51 | TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 42 |  |
+| 1376 | peritectic: L + TbAu3 -> Tb14Au51 | L: Tb 0.2; TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | model | [2] Otmani 2016 | Table 1, p. 3, row 26 |  |
+| 1273.25 | peritectic: L + αAuTb \<-> AuTb2 | L: Tb 0.7; αAuTb: Tb 0.5; AuTb2: Tb 0.667 | model | [1] Wang 2016 | Table 2, p. 3, row 6 |  |
 | 1273.15 | peritectic: L + aAuTb -> AuTb2 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1273.15 | Peritectic: L + αAuTb \<-> AuTb2 | L: Tb 0.71; αAuTb: Tb 0.5; AuTb2: Tb 0.667 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 5 |  |
-| 1273 | Peritectic: L+TbAu⇔Tb2Au | TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 34 |  |
-| 1273 | Peritectic: L + TbAu -> Tb2Au | L: Tb 0.71; TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 9 |  |
-| 1270 | Peritectic: L + TbAu -> Tb2Au | L: Tb 0.672; TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | model | [2] Otmani 2016 | Table 1, p. 3, row 10 |  |
-| 1163 | Eutectic: L⇔(αTb)+Tb2Au | Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 33 |  |
+| 1273.15 | peritectic: L + αAuTb \<-> AuTb2 | L: Tb 0.71; αAuTb: Tb 0.5; AuTb2: Tb 0.667 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 5 |  |
+| 1273 | peritectic: L+TbAu⇔Tb2Au | TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 34 |  |
+| 1273 | peritectic: L + TbAu -> Tb2Au | L: Tb 0.71; TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 9 |  |
+| 1270 | peritectic: L + TbAu -> Tb2Au | L: Tb 0.672; TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | model | [2] Otmani 2016 | Table 1, p. 3, row 10 |  |
+| 1163 | eutectic: L⇔(αTb)+Tb2Au | Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 33 |  |
 | 1153.15 | eutectic: L -> (aTb) + AuTb2 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1153.15 | Eutectic: L \<-> (αTb) + AuTb2 | L: Tb 0.814; (αTb): Tb 0.996; AuTb2: Tb 0.667 | model | [1] Wang 2016 | Table 2, p. 3, row 4 |  |
-| 1153.15 | Eutectic: L \<-> (αTb) + AuTb2 | L: Tb 0.8; AuTb2: Tb 0.667 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 3 |  |
-| 1153 | Eutectic: L -> (αTb) + Tb2Au | L: Tb 0.8; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 7 |  |
-| 1153 | Eutectic: L -> (αTb) + Tb2Au | L: Tb 0.795; Tb2Au: Tb 0.666667 | model | [2] Otmani 2016 | Table 1, p. 3, row 8 |  |
-| 1129.65 | Peritectic: L + Au51Tb14 \<-> Au6Tb | L: Tb 0.121; Au51Tb14: Tb 0.215; Au6Tb: Tb 0.143 | model | [1] Wang 2016 | Table 2, p. 3, row 27 |  |
+| 1153.15 | eutectic: L \<-> (αTb) + AuTb2 | L: Tb 0.814; (αTb): Tb 0.996; AuTb2: Tb 0.667 | model | [1] Wang 2016 | Table 2, p. 3, row 4 |  |
+| 1153.15 | eutectic: L \<-> (αTb) + AuTb2 | L: Tb 0.8; AuTb2: Tb 0.667 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 3 |  |
+| 1153 | eutectic: L -> (αTb) + Tb2Au | L: Tb 0.8; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 7 |  |
+| 1153 | eutectic: L -> (αTb) + Tb2Au | L: Tb 0.795; Tb2Au: Tb 0.666667 | model | [2] Otmani 2016 | Table 1, p. 3, row 8 |  |
+| 1129.65 | peritectic: L + Au51Tb14 \<-> Au6Tb | L: Tb 0.121; Au51Tb14: Tb 0.215; Au6Tb: Tb 0.143 | model | [1] Wang 2016 | Table 2, p. 3, row 27 |  |
 | 1128.15 | peritectic: L + Au51Tb14 -> Au6Tb |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1128.15 | Peritectic: L + Au51Tb14 \<-> Au6Tb | L: Tb 0.12; Au51Tb14: Tb 0.215; Au6Tb: Tb 0.143 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 26 |  |
-| 1128 | Peritectic: L + Tb14Au51 -> TbAu6 | L: Tb 0.12; Tb14Au51: Tb 0.215385; TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 27 |  |
-| 1121 | Peritectic: L + Tb14Au51 -> TbAu6 | L: Tb 0.12; Tb14Au51: Tb 0.215385; TbAu6: Tb 0.142857 | model | [2] Otmani 2016 | Table 1, p. 3, row 28 |  |
-| 1082.15 | Eutectic: L \<-> Au6Tb + (Au) | Au6Tb: Au 0.857143, Tb 0.142857; (Au): Tb 0.015 | experimental | [1] Wang 2016; _cites Rider 1965_ | Table 2, p. 3, row 29 |  |
+| 1128.15 | peritectic: L + Au51Tb14 \<-> Au6Tb | L: Tb 0.12; Au51Tb14: Tb 0.215; Au6Tb: Tb 0.143 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 26 |  |
+| 1128 | peritectic: L + Tb14Au51 -> TbAu6 | L: Tb 0.12; Tb14Au51: Tb 0.215385; TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 27 |  |
+| 1121 | peritectic: L + Tb14Au51 -> TbAu6 | L: Tb 0.12; Tb14Au51: Tb 0.215385; TbAu6: Tb 0.142857 | model | [2] Otmani 2016 | Table 1, p. 3, row 28 |  |
+| 1082.15 | eutectic: L \<-> Au6Tb + (Au) | Au6Tb: Au 0.857143, Tb 0.142857; (Au): Tb 0.015 | experimental | [1] Wang 2016; _cites Rider 1965_ | Table 2, p. 3, row 29 |  |
 | 1078.15 | eutectic: L -> Au6Tb + (Au) |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3 | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
-| 1078.15 | Eutectic: L \<-> Au6Tb + (Au) | L: Tb 0.11; Au6Tb: Tb 0.143; (Au): Tb 0.015 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 28 |  |
-| 1078 | Eutectic: L -> TbAu6 + (Au) | L: Tb 0.11; TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 29 |  |
-| 1076.65 | Eutectic: L \<-> Au6Tb + (Au) | L: Tb 0.095; Au6Tb: Tb 0.143; (Au): Tb 0.021 | model | [1] Wang 2016 | Table 2, p. 3, row 30 |  |
-| 1075 | Eutectic: L -> TbAu6 + (Au) | L: Tb 0.09; TbAu6: Tb 0.142857 | model | [2] Otmani 2016 | Table 1, p. 3, row 30 |  |
-| 1033 | Peritectic: L+Tb14Au51⇔TbAu6 | Tb14Au51: Tb 0.215385; TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 43 |  |
-| 1023 | Eutectic: L⇔TbAu6+(Au) | TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 44 |  |
+| 1078.15 | eutectic: L \<-> Au6Tb + (Au) | L: Tb 0.11; Au6Tb: Tb 0.143; (Au): Tb 0.015 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 28 |  |
+| 1078 | eutectic: L -> TbAu6 + (Au) | L: Tb 0.11; TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 29 |  |
+| 1076.65 | eutectic: L \<-> Au6Tb + (Au) | L: Tb 0.095; Au6Tb: Tb 0.143; (Au): Tb 0.021 | model | [1] Wang 2016 | Table 2, p. 3, row 30 |  |
+| 1075 | eutectic: L -> TbAu6 + (Au) | L: Tb 0.09; TbAu6: Tb 0.142857 | model | [2] Otmani 2016 | Table 1, p. 3, row 30 |  |
+| 1033 | peritectic: L+Tb14Au51⇔TbAu6 | Tb14Au51: Tb 0.215385; TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 43 |  |
+| 1023 | eutectic: L⇔TbAu6+(Au) | TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 44 |  |
 
 ## Other properties
 
@@ -168,21 +168,21 @@ Table: Phase transition, Au–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1337 K | 1337 | Melting point: L -> (Au); _L: Tb 0_ | model | [2] Otmani 2016 | Table 1, p. 3, row 32 |  |
-| Phase transition | 1337 K | 1337 | Melting point: L -> (Au); _L: Tb 0_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 31 |  |
-| Phase transition | 1484 K | 1484 | Congruent: L -> TbAu3; _L: Tb 0.25; TbAu3: Tb 0.25_ | model | [2] Otmani 2016 | Table 1, p. 3, row 24 |  |
-| Phase transition | 1488 K | 1488 | Congruent: L⇔TbAu3; _L: Tb 0.25; TbAu3: Tb 0.25_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 40 |  |
-| Phase transition | 1498 K | 1498 | Congruent: L⇔TbAu3; _L: Tb 0.25; TbAu3: Tb 0.25_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 41 |  |
-| Phase transition | 1530 K | 1530 | Congruent: L -> TbAu2; _L: Tb 0.333; TbAu2: Tb 0.333333_ | model | [2] Otmani 2016 | Table 1, p. 3, row 20 |  |
-| Phase transition | 1538 K | 1538 | Congruent: L -> TbAu2; _L: Tb 0.333; TbAu2: Tb 0.333333_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 19 |  |
-| Phase transition | 1553 K | 1553 | Congruent: L⇔TbAu2; _L: Tb 0.333333; TbAu2: Tb 0.333333_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 38 |  |
-| Phase transition | 1562 K | 1562 | Allotropic transformation: αTb -> βTb; _αTb: Tb 1_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 3 |  |
-| Phase transition | 1562 K | 1562 | Allotropic transformation: αTb -> βTb; _αTb: Tb 1_ | model | [2] Otmani 2016 | Table 1, p. 3, row 4 |  |
-| Phase transition | 1629 K | 1629 | Melting point: L -> βTb; _L: Tb 1_ | model | [2] Otmani 2016 | Table 1, p. 3, row 2 |  |
-| Phase transition | 1629 K | 1629 | Melting point: L -> βTb; _L: Tb 1_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 1 |  |
-| Phase transition | 1863 K | 1863 | Congruent: L -> βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 11 |  |
-| Phase transition | 1863 K | 1863 | Congruent: L⇔βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 35 |  |
-| Phase transition | 1866 K | 1866 | Congruent: L -> βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | model | [2] Otmani 2016 | Table 1, p. 3, row 12 |  |
+| Phase transition | 1337 K | 1337 | congruent melting: L -> (Au); _L: Tb 0_ | model | [2] Otmani 2016 | Table 1, p. 3, row 32 |  |
+| Phase transition | 1337 K | 1337 | congruent melting: L -> (Au); _L: Tb 0_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 31 |  |
+| Phase transition | 1484 K | 1484 | congruent melting: L -> TbAu3; _L: Tb 0.25; TbAu3: Tb 0.25_ | model | [2] Otmani 2016 | Table 1, p. 3, row 24 |  |
+| Phase transition | 1488 K | 1488 | congruent melting: L⇔TbAu3; _L: Tb 0.25; TbAu3: Tb 0.25_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 40 |  |
+| Phase transition | 1498 K | 1498 | congruent melting: L⇔TbAu3; _L: Tb 0.25; TbAu3: Tb 0.25_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 41 |  |
+| Phase transition | 1530 K | 1530 | congruent melting: L -> TbAu2; _L: Tb 0.333; TbAu2: Tb 0.333333_ | model | [2] Otmani 2016 | Table 1, p. 3, row 20 |  |
+| Phase transition | 1538 K | 1538 | congruent melting: L -> TbAu2; _L: Tb 0.333; TbAu2: Tb 0.333333_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 19 |  |
+| Phase transition | 1553 K | 1553 | congruent melting: L⇔TbAu2; _L: Tb 0.333333; TbAu2: Tb 0.333333_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 38 |  |
+| Phase transition | 1562 K | 1562 | polymorphic: αTb -> βTb; _αTb: Tb 1_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 3 |  |
+| Phase transition | 1562 K | 1562 | polymorphic: αTb -> βTb; _αTb: Tb 1_ | model | [2] Otmani 2016 | Table 1, p. 3, row 4 |  |
+| Phase transition | 1629 K | 1629 | congruent melting: L -> βTb; _L: Tb 1_ | model | [2] Otmani 2016 | Table 1, p. 3, row 2 |  |
+| Phase transition | 1629 K | 1629 | congruent melting: L -> βTb; _L: Tb 1_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 1 |  |
+| Phase transition | 1863 K | 1863 | congruent melting: L -> βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 11 |  |
+| Phase transition | 1863 K | 1863 | congruent melting: L⇔βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 35 |  |
+| Phase transition | 1866 K | 1866 | congruent melting: L -> βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | model | [2] Otmani 2016 | Table 1, p. 3, row 12 |  |
 
 ## Sources
 

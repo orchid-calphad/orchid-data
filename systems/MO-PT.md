@@ -1,10 +1,10 @@
 # Mo–Pt system
 
-> Mo–Pt system: 94 accepted literature values (formation 42, phase equilibrium 30, invariant reaction 17, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Pt system: 84 accepted literature values (formation 32, phase equilibrium 30, invariant reaction 17, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-PT.html · Markdown: https://data.orchid-project.org/systems/MO-PT.md
 
-94 accepted literature values from 1 paper(s) (experimental 50, model 31, DFT 13); 1 calculated phase diagram(s).
+84 accepted literature values from 1 paper(s) (experimental 45, model 26, DFT 13); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-PT.json) · [CSV](https://data.orchid-project.org/systems/MO-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-PT/MoPt-24Fio.json) · [Markdown](https://data.orchid-project.org/systems/MO-PT.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 50 |
-| model | 31 |
+| experimental | 45 |
+| model | 26 |
 | DFT | 13 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 17 |
 | phase transition | 5 |
 | phase equilibrium | 30 |
-| formation | 42 |
+| formation | 32 |
 
 ## Calculated phase diagrams
 
@@ -81,21 +81,17 @@ Table: Invariant reactions reported in the literature for the Mo–Pt system (17
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Pt system (42)
+Table: Enthalpies of formation, Mo–Pt system (32)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | A1 |  | -27.1 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 5 |  |
-| A1 |  | -27.1 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 5 |  |
 | A1 |  | -25.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 10 |  |
-| A1 |  | -25.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 10 |  |
-| A15 |  | -13 kJ/mol (basis unstated) ± 1.9 | 1768 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 1 |  |
 | A15 |  | -13 kJ/mol (basis unstated) ± 1.9 | 1768 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 1 |  |
 | A15 |  | -10.839 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 18 |  |
 | A15 |  | -10.828 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 17 |  |
 | A15 |  | -10.444 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 19 |  |
 | A15 |  | -10.437 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 20 |  |
-| A15 |  | -7.4 kJ/mol (basis unstated) | 1768 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 6 |  |
 | A15 |  | -7.4 kJ/mol (basis unstated) | 1768 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 6 |  |
 | A15 |  | 8.582 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 16 |  |
 | A15 |  | 8.582 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 15 |  |
@@ -105,14 +101,10 @@ Table: Enthalpies of formation, Mo–Pt system (42)
 | B19 |  | -30.661 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 12 |  |
 | B19 |  | -30.65 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 13 |  |
 | B19 |  | -27.7 kJ/mol (basis unstated) ± 3.9 | 298.15 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 3 |  |
-| B19 |  | -27.7 kJ/mol (basis unstated) ± 3.9 | 298.15 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 3 |  |
 | B19 |  | -26.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 8 |  |
-| B19 |  | -26.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 8 |  |
-| D019 |  | -26.1 kJ/mol (basis unstated) ± 4.9 | 298.15 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 2 |  |
 | D019 |  | -26.1 kJ/mol (basis unstated) ± 4.9 | 298.15 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 2 |  |
 | D019 |  | -22.026 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 11 |  |
 | D019 |  | -22.005 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 10 |  |
-| D019 |  | -17.9 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 7 |  |
 | D019 |  | -17.9 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 7 |  |
 | D019 |  | -6.445 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 8 |  |
 | D019 |  | -6.409 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 9 |  |
@@ -120,10 +112,8 @@ Table: Enthalpies of formation, Mo–Pt system (42)
 | MoPt2 |  | -37.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024; _cites Lu 1994_ [doi](https://doi.org/10.1103/physrevb.50.5962) | Table 5, p. 21, row 5 |  |
 | MoPt2 |  | -37.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024; _cites Stojkovic 2008_ [doi](https://doi.org/10.1103/physrevb.77.193111) | Table 5, p. 21, row 7 |  |
 | MoPt2 |  | -36.9 kJ/mol (basis unstated) ± 1.8 | 298.15 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 4 |  |
-| MoPt2 |  | -36.9 kJ/mol (basis unstated) ± 1.8 | 298.15 | experimental |  |  | [1] Fiorani 2024; _cites My 2009_ | Table 4, p. 20, row 4 |  |
 | MoPt2 |  | -34.707 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 3 |  |
 | MoPt2 |  | -34.639 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 4 |  |
-| MoPt2 |  | -32.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 9 |  |
 | MoPt2 |  | -32.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 9 |  |
 | MoPt2 |  | -4.053 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 2 |  |
 | MoPt2 |  | -4.049 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 1 |  |

@@ -28,21 +28,21 @@ Table: Invariant reactions reported in the literature for the In–Sb–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 681.7 | U: L+(Sb)->InSb+(SbSn) | L: Sb 0.502, Sn 0.354 | model | [1] Lysenko 2019 | Table 3, p. 7, row 1 |  |
-| 680 | U: L+(Sb)->InSb+(SbSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 2 |  |
-| 603.3 | U: L+(SbSn)->InSb+(Sb2Sn3) | L: Sb 0.234, Sn 0.683 | model | [1] Lysenko 2019 | Table 3, p. 7, row 3 |  |
-| 603 | U: L+(SbSn)->InSb+(Sb2Sn3) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 4 |  |
-| 515 | U: L+(Sb2Sn3)->InSb+(Sn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 6 |  |
-| 513 | E: (Sb2Sn3)->InSb+(SbSn)+(Sn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 8 |  |
-| 512.4 | U: L+(Sb2Sn3)->InSb+(Sn) | L: Sb 0.081, Sn 0.893 | model | [1] Lysenko 2019 | Table 3, p. 7, row 5 |  |
-| 507.8 | E: (Sb2Sn3)->InSb+(SbSn)+(Sn) |  | model | [1] Lysenko 2019 | Table 3, p. 7, row 7 |  |
-| 500.5 | U: InSb+Sb3Sn4->(SbSn)+(Sn) |  | model | [1] Lysenko 2019 | Table 3, p. 7, row 9 |  |
-| 488 | U: L+(Sn)->InSb+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 11 |  |
-| 482.6 | U: L+(Sn)->InSb+(γInSn) | L: Sb 0.012, Sn 0.864 | model | [1] Lysenko 2019 | Table 3, p. 7, row 10 |  |
-| 413 | U: L+(In)->InSb+(βInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 13 |  |
-| 413 | U: L+(In)->InSb+(βInSn) | L: Sb 0.002, Sn 0.144 | model | [1] Lysenko 2019 | Table 3, p. 7, row 12 |  |
-| 392 | E: L->InSb+(βInSn)+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 15 |  |
-| 391 | E: L->InSb+(βInSn)+(γInSn) | L: Sb 0.001, Sn 0.476 | model | [1] Lysenko 2019 | Table 3, p. 7, row 14 |  |
+| 681.7 | quasi-peritectic: L+(Sb)->InSb+(SbSn) | L: Sb 0.502, Sn 0.354 | model | [1] Lysenko 2019 | Table 3, p. 7, row 1 |  |
+| 680 | quasi-peritectic: L+(Sb)->InSb+(SbSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 2 |  |
+| 603.3 | quasi-peritectic: L+(SbSn)->InSb+(Sb2Sn3) | L: Sb 0.234, Sn 0.683 | model | [1] Lysenko 2019 | Table 3, p. 7, row 3 |  |
+| 603 | quasi-peritectic: L+(SbSn)->InSb+(Sb2Sn3) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 4 |  |
+| 515 | quasi-peritectic: L+(Sb2Sn3)->InSb+(Sn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 6 |  |
+| 513 | eutectic: (Sb2Sn3)->InSb+(SbSn)+(Sn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 8 |  |
+| 512.4 | quasi-peritectic: L+(Sb2Sn3)->InSb+(Sn) | L: Sb 0.081, Sn 0.893 | model | [1] Lysenko 2019 | Table 3, p. 7, row 5 |  |
+| 507.8 | eutectic: (Sb2Sn3)->InSb+(SbSn)+(Sn) |  | model | [1] Lysenko 2019 | Table 3, p. 7, row 7 |  |
+| 500.5 | quasi-peritectic: InSb+Sb3Sn4->(SbSn)+(Sn) |  | model | [1] Lysenko 2019 | Table 3, p. 7, row 9 |  |
+| 488 | quasi-peritectic: L+(Sn)->InSb+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 11 |  |
+| 482.6 | quasi-peritectic: L+(Sn)->InSb+(γInSn) | L: Sb 0.012, Sn 0.864 | model | [1] Lysenko 2019 | Table 3, p. 7, row 10 |  |
+| 413 | quasi-peritectic: L+(In)->InSb+(βInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 13 |  |
+| 413 | quasi-peritectic: L+(In)->InSb+(βInSn) | L: Sb 0.002, Sn 0.144 | model | [1] Lysenko 2019 | Table 3, p. 7, row 12 |  |
+| 392 | eutectic: L->InSb+(βInSn)+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 15 |  |
+| 391 | eutectic: L->InSb+(βInSn)+(γInSn) | L: Sb 0.001, Sn 0.476 | model | [1] Lysenko 2019 | Table 3, p. 7, row 14 |  |
 
 ## Other properties
 

@@ -1,28 +1,23 @@
 # PbYb: enthalpy of formation
 
-> Enthalpy of formation of PbYb: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of PbYb: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PbYb.html · Markdown: https://data.orchid-project.org/compounds/PbYb.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 6, model 4); experimental median -64 kJ/mol-atom (n = 6); OQMD -54.442 kJ/mol-atom (oqmd-52379).
+5 accepted literature formation-enthalpy value(s) (experimental 3, model 2); experimental median -64 kJ/mol-atom (n = 3); OQMD -54.442 kJ/mol-atom (oqmd-52379).
 
 Systems: [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PbYb reported in the literature (10)
+Table: Enthalpy of formation of PbYb reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -65 kJ/mol-atom ± 2 | βPbYb | 298.15 | experimental | Direct calorimeter | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 11 |  |
-| -65 kJ/mol-atom ± 2 | βPbYb | 298.15 | experimental | Direct calorimeter | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 11 |  |
-| -64 kJ/mol-atom ± 2.5 | βPbYb | 298.15 | experimental | Solution calorimeter | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 10 |  |
 | -64 kJ/mol-atom ± 2.5 | βPbYb | 298.15 | experimental | Solution calorimeter | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 10 |  |
 | -57 kJ/mol-atom ± 1 | βPbYb | 298.15 | experimental | Knudsen data | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 12 |  |
-| -57 kJ/mol-atom ± 1 | βPbYb | 298.15 | experimental | Knudsen data | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 12 |  |
 | -62.59 kJ/mol-atom | αPbYb |  | model | Optimization | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009 | Table 4, p. 6, row 9 |  |
-| -62.59 kJ/mol-atom | αPbYb |  | model | Optimization | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009 | Table 4, p. 6, row 9 |  |
-| -62.16 kJ/mol-atom | βPbYb |  | model | Optimization | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009 | Table 4, p. 6, row 13 |  |
 | -62.16 kJ/mol-atom | βPbYb |  | model | Optimization | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009 | Table 4, p. 6, row 13 |  |
 
 ## DFT formation energies

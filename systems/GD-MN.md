@@ -75,44 +75,44 @@ Table: Invariant reactions reported in the literature for the Gd–Mn system (38
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1530.1 | Peritectic: L + β-Gd ↔ α-Gd | L: Mn 0.027 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 19 |  |
-| 1501 | Peritectic: L + β-Gd ↔ α-Gd |  | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 18 |  |
-| 1407 | Peritectic: L + δ-Mn ↔ γ-Mn |  | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 21 |  |
-| 1400.6 | Peritectic: L + δ-Mn ↔ γ-Mn | L: Mn 0.93 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 23 |  |
-| 1400 | Peritectic: L + δ-Mn ↔ γ-Mn |  | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 22 |  |
-| 1398 | Peritectic: L + δ-Mn ↔ γ-Mn |  | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 6, row 20 |  |
-| 1360 | Peritectic: L + γ-Mn ↔ β-Mn | β-Mn: Mn 1 | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 24 |  |
-| 1358 | Peritectic: L + β-Mn ↔ Mn12Gd | L: Mn 0.887; β-Mn: Mn 1; Mn12Gd: Mn 0.923077 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 15 |  |
-| 1358 | Peritectic: L + β-Mn ↔ Mn12Gd | L: Mn 0.89; β-Mn: Mn 1; Mn12Gd: Mn 0.923077 | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 6, row 14 |  |
-| 1357.6 | Peritectic: L + γ-Mn ↔ β-Mn | L: Mn 0.904; β-Mn: Mn 1 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 25 |  |
+| 1530.1 | peritectic: L + β-Gd ↔ α-Gd | L: Mn 0.027 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 19 |  |
+| 1501 | peritectic: L + β-Gd ↔ α-Gd |  | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 18 |  |
+| 1407 | peritectic: L + δ-Mn ↔ γ-Mn |  | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 21 |  |
+| 1400.6 | peritectic: L + δ-Mn ↔ γ-Mn | L: Mn 0.93 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 23 |  |
+| 1400 | peritectic: L + δ-Mn ↔ γ-Mn |  | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 22 |  |
+| 1398 | peritectic: L + δ-Mn ↔ γ-Mn |  | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 6, row 20 |  |
+| 1360 | peritectic: L + γ-Mn ↔ β-Mn | β-Mn: Mn 1 | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 24 |  |
+| 1358 | peritectic: L + β-Mn ↔ Mn12Gd | L: Mn 0.887; β-Mn: Mn 1; Mn12Gd: Mn 0.923077 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 15 |  |
+| 1358 | peritectic: L + β-Mn ↔ Mn12Gd | L: Mn 0.89; β-Mn: Mn 1; Mn12Gd: Mn 0.923077 | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 6, row 14 |  |
+| 1357.6 | peritectic: L + γ-Mn ↔ β-Mn | L: Mn 0.904; β-Mn: Mn 1 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 25 |  |
 | 1325 | eutectic |  | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | p. 8 | “The calculated temperature (1313.8 K) of the eutectic reaction (L $ Mn23Gd6 ? Mn2Gd) agrees well with the value (1311.0 K) calculated by Kim and Jung \[26\] and is lower than the data (1325.0 K) calculated by Gröbner et al. \[21\].” |
-| 1325 | Eutectic: L ↔ Mn23Gd6 + Mn12Gd | L: Mn 0.795; Mn23Gd6: Mn 0.793103; Mn12Gd: Mn 0.923077 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 10 |  |
-| 1320 | Peritectic: L + β-Mn ↔ Mn12Gd | β-Mn: Mn 1; Mn12Gd: Mn 0.923077 | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 16 |  |
-| 1320 | Peritectic: L + β-Mn ↔ Mn12Gd | L: Mn 0.879; β-Mn: Mn 1; Mn12Gd: Mn 0.923077 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 17 |  |
+| 1325 | eutectic: L ↔ Mn23Gd6 + Mn12Gd | L: Mn 0.795; Mn23Gd6: Mn 0.793103; Mn12Gd: Mn 0.923077 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 10 |  |
+| 1320 | peritectic: L + β-Mn ↔ Mn12Gd | β-Mn: Mn 1; Mn12Gd: Mn 0.923077 | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 16 |  |
+| 1320 | peritectic: L + β-Mn ↔ Mn12Gd | L: Mn 0.879; β-Mn: Mn 1; Mn12Gd: Mn 0.923077 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 17 |  |
 | 1313.8 | eutectic: L -> Mn23Gd6 + Mn2Gd |  | model | [1] Wang 2017 | p. 8 | “The calculated temperature (1313.8 K) of the eutectic reaction (L $ Mn23Gd6 ? Mn2Gd) agrees well with the value (1311.0 K) calculated by Kim and Jung \[26\] and is lower than the data (1325.0 K) calculated by Gröbner et al. \[21\].” |
-| 1313.8 | Eutectic: L ↔ Mn23Gd6 + Mn12Gd | L: Mn 0.867; Mn23Gd6: Mn 0.793103; Mn12Gd: Mn 0.923077 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 13 |  |
-| 1313.1 | Eutectic: L ↔ Mn23Gd6 + Mn12Gd | Mn23Gd6: Mn 0.793103; Mn12Gd: Mn 0.923077 | experimental | [1] Wang 2017 | Table 3, p. 6, row 12 |  |
+| 1313.8 | eutectic: L ↔ Mn23Gd6 + Mn12Gd | L: Mn 0.867; Mn23Gd6: Mn 0.793103; Mn12Gd: Mn 0.923077 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 13 |  |
+| 1313.1 | eutectic: L ↔ Mn23Gd6 + Mn12Gd | Mn23Gd6: Mn 0.793103; Mn12Gd: Mn 0.923077 | experimental | [1] Wang 2017 | Table 3, p. 6, row 12 |  |
 | 1313.1 | eutectic: L -> Mn23Gd6 + Mn12Gd |  | experimental | [1] Wang 2017 | p. 5 | “According to two endothermic peaks in the thermal analysis heating curve of the annealed Mn80Gd20 alloy as shown in Fig. 2c, the temperature of the eutectic reaction (L $ Mn23Gd6 ? Mn12Gd) and the liquidus temperature were measured to be 1313.10 and 1340.37 K, respectively.” |
 | 1311 | eutectic |  | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | p. 8 | “The calculated temperature (1313.8 K) of the eutectic reaction (L $ Mn23Gd6 ? Mn2Gd) agrees well with the value (1311.0 K) calculated by Kim and Jung \[26\] and is lower than the data (1325.0 K) calculated by Gröbner et al. \[21\].” |
-| 1311 | Eutectic: L ↔ Mn23Gd6 + Mn12Gd | Mn23Gd6: Mn 0.793103; Mn12Gd: Mn 0.923077 | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 11 |  |
+| 1311 | eutectic: L ↔ Mn23Gd6 + Mn12Gd | Mn23Gd6: Mn 0.793103; Mn12Gd: Mn 0.923077 | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 11 |  |
 | 1283.95 | peritectic: L + Mn23Gd6 -> Mn2Gd |  | experimental | [1] Wang 2017 | p. 5 | “There are two endothermic peaks and two exothermic peaks in the thermal analysis curves, which are responsible to be the peritectic reaction (L ? Mn23Gd6 $ Mn2Gd) at 1283.95 K and the liquidus temperature at 1333.72 K, respectively.” |
 | 1278.53 | peritectic: L + Mn23Gd6 -> Mn2Gd |  | experimental | [1] Wang 2017 | p. 5 | “In Fig. 2b, two endothermic peaks were observed in the thermal analysis heating curve of the annealed Mn75Gd25 alloy, which is related to the peritectic reaction (L ? Mn23 Gd6 $ Mn2Gd) at 1278.53 K and the liquidus temperature at 1337.54 K.” |
-| 1278 | Peritectic: L + Mn23Gd6 ↔ Mn2Gd | L: Mn 0.647; Mn23Gd6: Mn 0.793103; Mn2Gd: Mn 0.666667 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 9 |  |
-| 1277.9 | Peritectic: L + Mn23Gd6 ↔ Mn2Gd | Mn23Gd6: Mn 0.793103; Mn2Gd: Mn 0.666667 | experimental | [1] Wang 2017 | Table 3, p. 6, row 8 |  |
-| 1223 | Peritectic: L + Mn23Gd6 ↔ Mn2Gd | L: Mn 0.52; Mn23Gd6: Mn 0.793103; Mn2Gd: Mn 0.666667 | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 6, row 6 |  |
-| 1214 | Peritectic: L + Mn23Gd6 ↔ Mn2Gd | L: Mn 0.527; Mn23Gd6: Mn 0.793103; Mn2Gd: Mn 0.666667 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 7 |  |
+| 1278 | peritectic: L + Mn23Gd6 ↔ Mn2Gd | L: Mn 0.647; Mn23Gd6: Mn 0.793103; Mn2Gd: Mn 0.666667 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 9 |  |
+| 1277.9 | peritectic: L + Mn23Gd6 ↔ Mn2Gd | Mn23Gd6: Mn 0.793103; Mn2Gd: Mn 0.666667 | experimental | [1] Wang 2017 | Table 3, p. 6, row 8 |  |
+| 1223 | peritectic: L + Mn23Gd6 ↔ Mn2Gd | L: Mn 0.52; Mn23Gd6: Mn 0.793103; Mn2Gd: Mn 0.666667 | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 6, row 6 |  |
+| 1214 | peritectic: L + Mn23Gd6 ↔ Mn2Gd | L: Mn 0.527; Mn23Gd6: Mn 0.793103; Mn2Gd: Mn 0.666667 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 7 |  |
 | 1214 | peritectic |  | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | p. 2 | “In these two assessments mentioned above, there is a contradiction that Kim and Jung \[26\] took the congruent melting of Mn2Gd into consideration, while Gröbner et al. \[21\] suggested the formation of Mn2Gd through a peritectic reaction at 1214 K.” |
 | 1103 | eutectic |  | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ | p. 7 | “However, the calculated temperature (1092.20 K) of eutectic reaction (L $ Mn23Gd6 ? Mn2 Gd) is lower than the value (1103.0 K) determined by Kirchmayr and Lugscheider \[22\] and is higher than the data (1083.0 K) calculated by Kim and Jung \[26\].” |
-| 1103 | Eutectic: L ↔ α-Gd + Mn2Gd | L: Mn 0.353; Mn2Gd: Mn 0.666667 | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 6, row 1 |  |
-| 1101 | Eutectic: L ↔ α-Gd + Mn2Gd | L: Mn 0.338; Mn2Gd: Mn 0.666667 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 2 |  |
-| 1093 | Eutectic: L ↔ α-Gd + Mn2Gd | Mn2Gd: Mn 0.666667 | experimental | [1] Wang 2017 | Table 3, p. 6, row 4 |  |
+| 1103 | eutectic: L ↔ α-Gd + Mn2Gd | L: Mn 0.353; Mn2Gd: Mn 0.666667 | experimental | [1] Wang 2017; _cites Kirchmayr 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580307) | Table 3, p. 6, row 1 |  |
+| 1101 | eutectic: L ↔ α-Gd + Mn2Gd | L: Mn 0.338; Mn2Gd: Mn 0.666667 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 2 |  |
+| 1093 | eutectic: L ↔ α-Gd + Mn2Gd | Mn2Gd: Mn 0.666667 | experimental | [1] Wang 2017 | Table 3, p. 6, row 4 |  |
 | 1092.2 | eutectic: L -> Mn23Gd6 + Mn2Gd |  | model | [1] Wang 2017 | p. 7 | “However, the calculated temperature (1092.20 K) of eutectic reaction (L $ Mn23Gd6 ? Mn2 Gd) is lower than the value (1103.0 K) determined by Kirchmayr and Lugscheider \[22\] and is higher than the data (1083.0 K) calculated by Kim and Jung \[26\].” |
-| 1092.2 | Eutectic: L ↔ α-Gd + Mn2Gd | L: Mn 0.331; Mn2Gd: Mn 0.666667 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 5 |  |
+| 1092.2 | eutectic: L ↔ α-Gd + Mn2Gd | L: Mn 0.331; Mn2Gd: Mn 0.666667 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 5 |  |
 | 1091.41 | eutectic: L -> Mn2Gd + a-Gd |  | experimental | [1] Wang 2017 | p. 5 | “In Fig. 2a, there are two endothermic peaks in the thermal analysis heating curve of the annealed Mn50Gd50 alloy, which are responsible to be the eutectic reaction (L $ Mn2Gd ? a-Gd) at 1091.41 K and the liquidus temperature at 1226.92 K, respectively.” |
-| 1086 | Eutectic: L ↔ α-Gd + Mn2Gd | Mn2Gd: Mn 0.666667 | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 3 |  |
+| 1086 | eutectic: L ↔ α-Gd + Mn2Gd | Mn2Gd: Mn 0.666667 | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 3 |  |
 | 1083 | eutectic |  | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | p. 7 | “However, the calculated temperature (1092.20 K) of eutectic reaction (L $ Mn23Gd6 ? Mn2 Gd) is lower than the value (1103.0 K) determined by Kirchmayr and Lugscheider \[22\] and is higher than the data (1083.0 K) calculated by Kim and Jung \[26\].” |
-| 980 | Peritectoid: Mn12Gd + β-Mn ↔ α-Mn | Mn12Gd: Mn 0.923077; β-Mn: Mn 1; α-Mn: Mn 1 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 29 |  |
-| 980 | Peritectoid: Mn12Gd + β-Mn ↔ α-Mn | Mn12Gd: Mn 0.923077; β-Mn: Mn 1; α-Mn: Mn 1 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 28 |  |
+| 980 | peritectoid: Mn12Gd + β-Mn ↔ α-Mn | Mn12Gd: Mn 0.923077; β-Mn: Mn 1; α-Mn: Mn 1 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 29 |  |
+| 980 | peritectoid: Mn12Gd + β-Mn ↔ α-Mn | Mn12Gd: Mn 0.923077; β-Mn: Mn 1; α-Mn: Mn 1 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 28 |  |
 
 ## Other properties
 
@@ -134,18 +134,18 @@ Table: Phase transition, Gd–Mn system
 | Phase transition | 1096.17 K | 1096.17 | Mn40Gd60; _alloy: Gd 0.6, Mn 0.4_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 5 |  |
 | Phase transition | 1099.27 K | 1099.27 | Mn60Gd40; _alloy: Gd 0.4, Mn 0.6_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 11 |  |
 | Phase transition | 1109.59 K | 1109.59 | Mn65Gd35; _alloy: Gd 0.35, Mn 0.65_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 13 |  |
-| Phase transition | 1226.92 K | 1226.92 | liquidus | experimental | [1] Wang 2017 | p. 5 | “In Fig. 2a, there are two endothermic peaks in the thermal analysis heating curve of the annealed Mn50Gd50 alloy, which are responsible to be the eutectic reaction (L $ Mn2Gd ? a-Gd) at 1091.41 K and the liquidus temperature at 1226.92 K, respectively.” |
+| Phase transition | 1226.92 K | 1226.92 | other | experimental | [1] Wang 2017 | p. 5 | “In Fig. 2a, there are two endothermic peaks in the thermal analysis heating curve of the annealed Mn50Gd50 alloy, which are responsible to be the eutectic reaction (L $ Mn2Gd ? a-Gd) at 1091.41 K and the liquidus temperature at 1226.92 K, respectively.” |
 | Phase transition | 1271.41 K | 1271.41 | Mn65Gd35; _alloy: Gd 0.35, Mn 0.65_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 14 |  |
 | Phase transition | 1277.9 K | 1277.9 | L + Mn23Gd6 -> Mn2Gd | experimental | [1] Wang 2017 | p. 5 | “As shown in Table 1, in the present work, the temperatures of three invariant reactions in the Mn-Gd binary system were determined to be 1093.00 K (L $ Mn2Gd ? a-Gd), 1277.90 K (L ? Mn23Gd6 $ Mn2Gd) and 1313.10 K (L $ Mn23Gd6 ? Mn12Gd), respectively.” |
 | Phase transition | 1278.53 K | 1278.53 | Mn75Gd25; _alloy: Gd 0.25, Mn 0.75_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 17 |  |
 | Phase transition | 1283.95 K | 1283.95 | peritectic: Mn70Gd30 (as-cast); _alloy: Gd 0.3, Mn 0.7_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 15 |  |
 | Phase transition | 1313.1 K | 1313.1 | L -> Mn23Gd6 + Mn12Gd | experimental | [1] Wang 2017 | p. 5 | “As shown in Table 1, in the present work, the temperatures of three invariant reactions in the Mn-Gd binary system were determined to be 1093.00 K (L $ Mn2Gd ? a-Gd), 1277.90 K (L ? Mn23Gd6 $ Mn2Gd) and 1313.10 K (L $ Mn23Gd6 ? Mn12Gd), respectively.” |
 | Phase transition | 1313.1 K | 1313.1 | eutectic: Mn80Gd20; _alloy: Gd 0.2, Mn 0.8_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 19 |  |
-| Phase transition | 1329 K | 1329 | Congruent: L ↔ Mn23Gd6; _L: Mn 0.793103; Mn23Gd6: Mn 0.793103_ | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 26 |  |
-| Phase transition | 1333.72 K | 1333.72 | liquidus | experimental | [1] Wang 2017 | p. 5 | “There are two endothermic peaks and two exothermic peaks in the thermal analysis curves, which are responsible to be the peritectic reaction (L ? Mn23Gd6 $ Mn2Gd) at 1283.95 K and the liquidus temperature at 1333.72 K, respectively.” |
-| Phase transition | 1337.54 K | 1337.54 | liquidus | experimental | [1] Wang 2017 | p. 5 | “In Fig. 2b, two endothermic peaks were observed in the thermal analysis heating curve of the annealed Mn75Gd25 alloy, which is related to the peritectic reaction (L ? Mn23 Gd6 $ Mn2Gd) at 1278.53 K and the liquidus temperature at 1337.54 K.” |
-| Phase transition | 1340 K | 1340 | Congruent: L ↔ Mn23Gd6; _L: Mn 0.793103; Mn23Gd6: Mn 0.793103_ | unspecified | [1] Wang 2017 | Table 3, p. 6, row 27 |  |
-| Phase transition | 1340.37 K | 1340.37 | liquidus | experimental | [1] Wang 2017 | p. 5 | “According to two endothermic peaks in the thermal analysis heating curve of the annealed Mn80Gd20 alloy as shown in Fig. 2c, the temperature of the eutectic reaction (L $ Mn23Gd6 ? Mn12Gd) and the liquidus temperature were measured to be 1313.10 and 1340.37 K, respectively.” |
+| Phase transition | 1329 K | 1329 | congruent melting: L ↔ Mn23Gd6; _L: Mn 0.793103; Mn23Gd6: Mn 0.793103_ | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 26 |  |
+| Phase transition | 1333.72 K | 1333.72 | other | experimental | [1] Wang 2017 | p. 5 | “There are two endothermic peaks and two exothermic peaks in the thermal analysis curves, which are responsible to be the peritectic reaction (L ? Mn23Gd6 $ Mn2Gd) at 1283.95 K and the liquidus temperature at 1333.72 K, respectively.” |
+| Phase transition | 1337.54 K | 1337.54 | other | experimental | [1] Wang 2017 | p. 5 | “In Fig. 2b, two endothermic peaks were observed in the thermal analysis heating curve of the annealed Mn75Gd25 alloy, which is related to the peritectic reaction (L ? Mn23 Gd6 $ Mn2Gd) at 1278.53 K and the liquidus temperature at 1337.54 K.” |
+| Phase transition | 1340 K | 1340 | congruent melting: L ↔ Mn23Gd6; _L: Mn 0.793103; Mn23Gd6: Mn 0.793103_ | unspecified | [1] Wang 2017 | Table 3, p. 6, row 27 |  |
+| Phase transition | 1340.37 K | 1340.37 | other | experimental | [1] Wang 2017 | p. 5 | “According to two endothermic peaks in the thermal analysis heating curve of the annealed Mn80Gd20 alloy as shown in Fig. 2c, the temperature of the eutectic reaction (L $ Mn23Gd6 ? Mn12Gd) and the liquidus temperature were measured to be 1313.10 and 1340.37 K, respectively.” |
 
 ### Phase equilibrium (6)
 
@@ -153,12 +153,12 @@ Table: Phase equilibrium, Gd–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1226.92 | liquidus: Mn50Gd50; _liquid: Gd 0.5, Mn 0.5_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 8 |  |
-| Phase composition |  | 1229.95 | liquidus: Mn55Gd45; _liquid: Gd 0.45, Mn 0.55_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 10 |  |
-| Phase composition |  | 1248.38 | liquidus: Mn60Gd40; _liquid: Gd 0.4, Mn 0.6_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 12 |  |
-| Phase composition |  | 1333.72 | liquidus: Mn70Gd30 (as-cast); _liquid: Gd 0.3, Mn 0.7_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 16 |  |
-| Phase composition |  | 1337.54 | liquidus: Mn75Gd25; _liquid: Gd 0.25, Mn 0.75_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 18 |  |
-| Phase composition |  | 1340.37 | liquidus: Mn80Gd20; _liquid: Gd 0.2, Mn 0.8_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 20 |  |
+| Phase composition |  | 1226.92 | other: Mn50Gd50; _liquid: Gd 0.5, Mn 0.5_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 8 |  |
+| Phase composition |  | 1229.95 | other: Mn55Gd45; _liquid: Gd 0.45, Mn 0.55_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 10 |  |
+| Phase composition |  | 1248.38 | other: Mn60Gd40; _liquid: Gd 0.4, Mn 0.6_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 12 |  |
+| Phase composition |  | 1333.72 | other: Mn70Gd30 (as-cast); _liquid: Gd 0.3, Mn 0.7_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 16 |  |
+| Phase composition |  | 1337.54 | other: Mn75Gd25; _liquid: Gd 0.25, Mn 0.75_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 18 |  |
+| Phase composition |  | 1340.37 | other: Mn80Gd20; _liquid: Gd 0.2, Mn 0.8_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 20 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # O–U system
 
-> O–U system: 996 accepted literature values (phase equilibrium 617, phase transition 205, heat capacity / entropy / enthalpy 79, formation 61) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–U system: 979 accepted literature values (phase equilibrium 601, phase transition 204, heat capacity / entropy / enthalpy 79, formation 61) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-U.html · Markdown: https://data.orchid-project.org/systems/O-U.md
 
-996 accepted literature values from 4 paper(s) (experimental 585, model 402, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+979 accepted literature values from 4 paper(s) (experimental 584, model 386, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-U.json) · [CSV](https://data.orchid-project.org/systems/O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-U) · [Markdown](https://data.orchid-project.org/systems/O-U.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 585 |
-| model | 402 |
+| experimental | 584 |
+| model | 386 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 23 |
-| phase transition | 205 |
-| phase equilibrium | 617 |
+| phase transition | 204 |
+| phase equilibrium | 601 |
 | formation | 61 |
 | heat capacity / entropy / enthalpy | 79 |
 | other property | 11 |
@@ -131,7 +131,7 @@ Table: Enthalpies of formation, O–U system (61)
 
 ## Other properties
 
-### Phase transition (205)
+### Phase transition (204)
 
 Table: Phase transition, O–U system
 
@@ -148,202 +148,201 @@ Table: Phase transition, O–U system
 | Phase transition | 1049 K | 1049 | b-U \<-> c-U | experimental | [1] Chevalier 2002 | p. 2 | “Below this temperature, only the uranium transitions occur at 1049 K (b-U () c-U)and 942 K (a-U () b-U).” |
 | Phase transition | 1398 K | 1398 |  | experimental | [1] Chevalier 2002 | p. 9 | “The homogeneity range of U4 O9 has been determined by Van Lierde et al. \[25\] by X-ray analysis, metallography, chemical analysis and electron microscopy. It extends from O/U 1⁄4 2:235 ðxðUÞ 1⁄4 0:3091Þ to 2.240 (xðUÞ 1⁄4 0:3086) at 1373 K and from O/U 1⁄4 2:235 (xðUÞ 1⁄4 0:3091) to 2.245 (xðUÞ 1⁄4 0:3082) at 298.15 K. U4 O9y transformed in UO2þx at 1398 K.” |
 | Phase transition | 1408 K | 1408 |  | experimental | [1] Chevalier 2002 | p. 2 | “Below this temperature, a diphasic region UO2x þ L2 exists, and the solubility of oxygen in L2 decreases down to the eutectic reaction L2 () UO2x þ c-U, deported on the uranium-rich side, not far from the uranium melting point (1408 K).” |
-| Phase transition | 1873 K | 1873 | liquidus: 1873; _alloy: O 0.048, U 0.952_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 5 |  |
-| Phase transition | 1873 K | 1873 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 1 |  |
-| Phase transition | 1873 K | 1873 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 17 |  |
+| Phase transition | 1873 K | 1873 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 1 |  |
+| Phase transition | 1873 K | 1873 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 17 |  |
+| Phase transition | 1873 K | 1873 | other: 1873; _alloy: O 0.048, U 0.952_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 5 |  |
 | Phase transition | 1878 K | 1878 | U3O8-S4 decomposition in air | model | [3] Guéneau 2002 | Table 5, p. 13, row 18 |  |
-| Phase transition | 2020 K | 2020 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 2 |  |
+| Phase transition | 2020 K | 2020 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 2 |  |
 | Phase transition | 2023 K | 2023 |  | experimental | [4] Barrachin 2008; _cites Skokan 1984_ | p. 1 | “At T 2023 K, the cladding melts and at 2173 K, it forms eutectics according to the UO2-(a-Zr(O)) pseudo binary phase diagram \[12\].” |
-| Phase transition | 2073 K | 2073 | liquidus: 2073; _alloy: O 0.076, U 0.924_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 4 |  |
-| Phase transition | 2096 K | 2096 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 16 |  |
-| Phase transition | 2101 K | 2101 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 3 |  |
-| Phase transition | 2173 K | 2173 | liquidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 7 |  |
-| Phase transition | 2191 K | 2191 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 15 |  |
-| Phase transition | 2192 K | 2192 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 4 |  |
-| Phase transition | 2243 K | 2243 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 5 |  |
-| Phase transition | 2273 K | 2273 | liquidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 6 |  |
-| Phase transition | 2273 K | 2273 | liquidus: 2273; _alloy: O 0.123, U 0.877_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 3 |  |
-| Phase transition | 2273 K | 2273 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 14 |  |
-| Phase transition | 2339 K | 2339 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 6 |  |
-| Phase transition | 2373 K | 2373 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 13 |  |
+| Phase transition | 2073 K | 2073 | other: 2073; _alloy: O 0.076, U 0.924_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 4 |  |
+| Phase transition | 2096 K | 2096 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 16 |  |
+| Phase transition | 2101 K | 2101 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 3 |  |
+| Phase transition | 2173 K | 2173 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 7 |  |
+| Phase transition | 2191 K | 2191 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 15 |  |
+| Phase transition | 2192 K | 2192 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 4 |  |
+| Phase transition | 2243 K | 2243 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 5 |  |
+| Phase transition | 2273 K | 2273 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 14 |  |
+| Phase transition | 2273 K | 2273 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 6 |  |
+| Phase transition | 2273 K | 2273 | other: 2273; _alloy: O 0.123, U 0.877_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 3 |  |
+| Phase transition | 2339 K | 2339 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 6 |  |
+| Phase transition | 2373 K | 2373 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 13 |  |
 | Phase transition | 2400 K | 2400 |  | model | [4] Barrachin 2008 | p. 6 | “The hyper-stoichiometric liquid appears in this field around 2500 K, for 1 atm. total pressure, while it appears around 2400 K for 2 atm. total pressure.” |
-| Phase transition | 2410 K | 2410 | solidus: 2.21 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 39 |  |
-| Phase transition | 2418 K | 2418 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 7 |  |
-| Phase transition | 2438 K | 2438 | solidus: 2.20 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 37 |  |
-| Phase transition | 2473 K | 2473 | liquidus: 2473; _alloy: O 0.177, U 0.823_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 2 |  |
-| Phase transition | 2473 K | 2473 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 12 |  |
-| Phase transition | 2479 K | 2479 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 8 |  |
-| Phase transition | 2493 K | 2493 | liquidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 5 |  |
+| Phase transition | 2410 K | 2410 | other: 2.21 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 39 |  |
+| Phase transition | 2418 K | 2418 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 7 |  |
+| Phase transition | 2438 K | 2438 | other: 2.20 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 37 |  |
+| Phase transition | 2473 K | 2473 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 12 |  |
+| Phase transition | 2473 K | 2473 | other: 2473; _alloy: O 0.177, U 0.823_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 2 |  |
+| Phase transition | 2479 K | 2479 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 8 |  |
+| Phase transition | 2493 K | 2493 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 5 |  |
 | Phase transition | 2500 K | 2500 |  | model | [4] Barrachin 2008 | p. 6 | “The hyper-stoichiometric liquid appears in this field around 2500 K, for 1 atm. total pressure, while it appears around 2400 K for 2 atm. total pressure.” |
-| Phase transition | 2501 K | 2501 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 9 |  |
-| Phase transition | 2521 K | 2521 | solidus | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 10 |  |
-| Phase transition | 2528 K | 2528 | solidus: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 32 |  |
-| Phase transition | 2530 K | 2530 | solidus: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 35 |  |
-| Phase transition | 2531 K | 2531 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 11 |  |
-| Phase transition | 2550 K | 2550 | solidus: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 34 |  |
-| Phase transition | 2573 K | 2573 | liquidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 4 |  |
-| Phase transition | 2591 K | 2591 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 10 |  |
+| Phase transition | 2501 K | 2501 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 9 |  |
+| Phase transition | 2521 K | 2521 | other | experimental | [2] Chevalier 1998; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 7, p. 6, row 10 |  |
+| Phase transition | 2528 K | 2528 | other: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 32 |  |
+| Phase transition | 2530 K | 2530 | other: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 35 |  |
+| Phase transition | 2531 K | 2531 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 11 |  |
+| Phase transition | 2550 K | 2550 | other: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 34 |  |
+| Phase transition | 2573 K | 2573 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 4 |  |
+| Phase transition | 2591 K | 2591 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 10 |  |
 | Phase transition | 2598 K | 2598 | other | model | [1] Chevalier 2002 | p. 18 | “The heat capacity of the liquid below the melting point was kept constant down to the glass transition estimated at 2598 K.” |
+| Phase transition | 2600 K | 2600 | other | model | [4] Barrachin 2008 | p. 12 | “The liquid phase for compositions representative of FPT1 irradiated fuel could be present at around 2600 K (solidus temperatures in Table 7).” |
 | Phase transition | 2600 K | 2600 | other: L \<=> G + UO2+x | model | [4] Barrachin 2008 | p. 6 | “For a vapour pressure in equilibrium of two atmospheres, the temperature of the previous reaction is around 2600 K.” |
-| Phase transition | 2600 K | 2600 | solidus | model | [4] Barrachin 2008 | p. 12 | “The liquid phase for compositions representative of FPT1 irradiated fuel could be present at around 2600 K (solidus temperatures in Table 7).” |
-| Phase transition | 2606 K | 2606 | solidus: 2.16 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 30 |  |
-| Phase transition | 2607 K | 2607 | solidus: 2.14 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 28 |  |
-| Phase transition | 2673 K | 2673 | liquidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 2 |  |
-| Phase transition | 2673 K | 2673 | liquidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 3 |  |
-| Phase transition | 2673 K | 2673 | liquidus: 2673; _alloy: O 0.232, U 0.768_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 1 |  |
-| Phase transition | 2686 K | 2686 | liquidus: O/U=1.662 (T L); _alloy: O 0.624, U 0.376_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 55 |  |
-| Phase transition | 2693 K | 2693 | liquidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 5 |  |
-| Phase transition | 2693 K | 2693 | solidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 10 |  |
-| Phase transition | 2696 K | 2696 | liquidus: O/U=1.600 (T L); _alloy: O 0.615, U 0.385_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 57 |  |
-| Phase transition | 2696 K | 2696 | solidus: 2.12 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 26 |  |
-| Phase transition | 2699 K | 2699 | solidus: 2.12 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 24 |  |
+| Phase transition | 2606 K | 2606 | other: 2.16 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 30 |  |
+| Phase transition | 2607 K | 2607 | other: 2.14 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 28 |  |
+| Phase transition | 2673 K | 2673 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 2 |  |
+| Phase transition | 2673 K | 2673 | other: 2673; _alloy: O 0.232, U 0.768_ | model | [2] Chevalier 1998; _cites Wang 1993_ [doi](https://doi.org/10.1111/j.1151-2916.1993.tb03748.x) | Table 9, p. 7, row 1 |  |
+| Phase transition | 2686 K | 2686 | other: O/U=1.662 (T L); _alloy: O 0.624, U 0.376_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 55 |  |
+| Phase transition | 2693 K | 2693 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 10 |  |
+| Phase transition | 2693 K | 2693 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 5 |  |
+| Phase transition | 2696 K | 2696 | other: 2.12 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 26 |  |
+| Phase transition | 2696 K | 2696 | other: O/U=1.600 (T L); _alloy: O 0.615, U 0.385_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 57 |  |
+| Phase transition | 2699 K | 2699 | other: 2.12 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 24 |  |
 | Phase transition | 2700 K | 2700 | L \<=> G + UO2+x | model | [4] Barrachin 2008; _cites Gueneau 2002_ [doi](https://doi.org/10.1016/s0022-3115%2802%2900878-4) | p. 2 | “The uncertainty on the real liquidus shape in the hyper-stoichiometric field led to obtain various temperatures in the literature for the invariant reaction L \<=> G + UO2+x for 1 atm. total pressure: 3077 K (Chevalier et al. \[23\]); 2700 K (Gueneau et al. \[24\]), 2873 K (Roth et al. \[25\]).” |
-| Phase transition | 2700 K | 2700 (none) | other: L1 (oxide-rich) \<-> UO2-x + L2 (uranium-rich) | experimental | [1] Chevalier 2002 | p. 2 | “In the hypo-stoichiometric range (UO2x ), the liquidus decreases down to the monotectic reaction L1 ðoxide-richÞ () UO2x þ L2 (uranium-rich), at about 2700 K.” |
-| Phase transition | 2701 K | 2701 | liquidus: O/U=1.500 (T L); _alloy: O 0.6, U 0.4_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 61 |  |
-| Phase transition | 2702 K | 2702 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 9 |  |
-| Phase transition | 2708 K | 2708 | liquidus: O/U=1.556 (T L); _alloy: O 0.609, U 0.391_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 59 |  |
-| Phase transition | 2753 K | 2753 | liquidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 4 |  |
-| Phase transition | 2753 K | 2753 | solidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 9 |  |
-| Phase transition | 2763 K | 2763 | liquidus: O/U=1.790 (T L); _alloy: O 0.642, U 0.358_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 51 |  |
-| Phase transition | 2771 K | 2771 | solidus: O/U=1.500 (T S); _alloy: O 0.6, U 0.4_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 62 |  |
-| Phase transition | 2773 K | 2773 | liquidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 1 |  |
-| Phase transition | 2773 K | 2773 | solidus | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 8 |  |
-| Phase transition | 2783 K | 2783 | solidus: O/U=1.556 (T S); _alloy: O 0.609, U 0.391_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 60 |  |
-| Phase transition | 2786 K | 2786 | liquidus: O/U=1.736 (T L); _alloy: O 0.634, U 0.366_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 53 |  |
-| Phase transition | 2793 K | 2793 | solidus: 2.11 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 22 |  |
-| Phase transition | 2795 K | 2795 | liquidus: 2.21 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 38 |  |
-| Phase transition | 2798 K | 2798 | liquidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 3 |  |
-| Phase transition | 2806 K | 2806 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 18 |  |
-| Phase transition | 2818 K | 2818 | liquidus: O/U=1.750 (T L); _alloy: O 0.636, U 0.364_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 49 |  |
-| Phase transition | 2823 K | 2823 | solidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 8 |  |
-| Phase transition | 2837 K | 2837 | liquidus: O/U=2.23 (T L); _alloy: O 0.6904, U 0.3096_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 1 |  |
-| Phase transition | 2837 K | 2837 | solidus: 2.230; _alloy: O 0.6904, U 0.3096_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 24 |  |
+| Phase transition | 2700 K | 2700 | other: L1 (oxide-rich) \<-> UO2-x + L2 (uranium-rich) | experimental | [1] Chevalier 2002 | p. 2 | “In the hypo-stoichiometric range (UO2x ), the liquidus decreases down to the monotectic reaction L1 ðoxide-richÞ () UO2x þ L2 (uranium-rich), at about 2700 K.” |
+| Phase transition | 2701 K | 2701 | other: O/U=1.500 (T L); _alloy: O 0.6, U 0.4_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 61 |  |
+| Phase transition | 2702 K | 2702 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 9 |  |
+| Phase transition | 2708 K | 2708 | other: O/U=1.556 (T L); _alloy: O 0.609, U 0.391_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 59 |  |
+| Phase transition | 2753 K | 2753 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 4 |  |
+| Phase transition | 2753 K | 2753 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 9 |  |
+| Phase transition | 2763 K | 2763 | other: O/U=1.790 (T L); _alloy: O 0.642, U 0.358_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 51 |  |
+| Phase transition | 2771 K | 2771 | other: O/U=1.500 (T S); _alloy: O 0.6, U 0.4_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 62 |  |
+| Phase transition | 2773 K | 2773 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 8 |  |
+| Phase transition | 2773 K | 2773 | other | experimental | [2] Chevalier 1998; _cites Martin 1966_ | Table 3, p. 4, row 1 |  |
+| Phase transition | 2783 K | 2783 | other: O/U=1.556 (T S); _alloy: O 0.609, U 0.391_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 60 |  |
+| Phase transition | 2786 K | 2786 | other: O/U=1.736 (T L); _alloy: O 0.634, U 0.366_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 53 |  |
+| Phase transition | 2793 K | 2793 | other: 2.11 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 22 |  |
+| Phase transition | 2795 K | 2795 | other: 2.21 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 38 |  |
+| Phase transition | 2798 K | 2798 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 3 |  |
+| Phase transition | 2806 K | 2806 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 18 |  |
+| Phase transition | 2818 K | 2818 | other: O/U=1.750 (T L); _alloy: O 0.636, U 0.364_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 49 |  |
+| Phase transition | 2823 K | 2823 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 8 |  |
+| Phase transition | 2837 K | 2837 | other: 2.230; _alloy: O 0.6904, U 0.3096_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 24 |  |
+| Phase transition | 2837 K | 2837 | other: O/U=2.23 (T L); _alloy: O 0.6904, U 0.3096_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 1 |  |
 | Phase transition | 2840 K | 2840 |  | experimental | [4] Barrachin 2008; _cites Uetsuka 1993_ | p. 12 | “Uetsuka and Nagase \[48\] measured, by a thermal arrest method the melting temperature of simulated fuel debris samples having a similar chemical composition and porosity to TMI-2. The melting temperature was around 2840 ± 20 K.” |
-| Phase transition | 2841 K | 2841 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 17 |  |
-| Phase transition | 2851 K | 2851 | liquidus: O/U=2.23 (T L); _alloy: O 0.6904, U 0.3096_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 3 |  |
-| Phase transition | 2851 K | 2851 | solidus: 2.230; _alloy: O 0.6904, U 0.3096_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 22 |  |
-| Phase transition | 2857 K | 2857 | solidus: O/U=1.600 (T S); _alloy: O 0.615, U 0.385_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 58 |  |
-| Phase transition | 2865 K | 2865 | liquidus: 2.20 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 36 |  |
+| Phase transition | 2841 K | 2841 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 17 |  |
+| Phase transition | 2851 K | 2851 | other: 2.230; _alloy: O 0.6904, U 0.3096_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 22 |  |
+| Phase transition | 2851 K | 2851 | other: O/U=2.23 (T L); _alloy: O 0.6904, U 0.3096_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 3 |  |
+| Phase transition | 2857 K | 2857 | other: O/U=1.600 (T S); _alloy: O 0.615, U 0.385_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 58 |  |
+| Phase transition | 2865 K | 2865 | other: 2.20 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 36 |  |
 | Phase transition | 2873 K | 2873 | L \<=> G + UO2+x | model | [4] Barrachin 2008; _cites Roth 1974_ | p. 2 | “The uncertainty on the real liquidus shape in the hyper-stoichiometric field led to obtain various temperatures in the literature for the invariant reaction L \<=> G + UO2+x for 1 atm. total pressure: 3077 K (Chevalier et al. \[23\]); 2700 K (Gueneau et al. \[24\]), 2873 K (Roth et al. \[25\]).” |
-| Phase transition | 2874 K | 2874 | liquidus: O/U=1.793 (T L); _alloy: O 0.642, U 0.358_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 47 |  |
-| Phase transition | 2876 K | 2876 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 14 |  |
-| Phase transition | 2878 K | 2878 | liquidus: O/U=2.184 (T L); _alloy: O 0.6859, U 0.3141_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 5 |  |
-| Phase transition | 2878 K | 2878 | solidus: 2.184; _alloy: O 0.6859, U 0.3141_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 20 |  |
-| Phase transition | 2886 K | 2886 | solidus: 2.08 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 18 |  |
-| Phase transition | 2887 K | 2887 | liquidus: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 31 |  |
-| Phase transition | 2888 K | 2888 | liquidus: O/U=1.809 (T L); _alloy: O 0.644, U 0.356_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 43 |  |
-| Phase transition | 2891 K | 2891 | liquidus: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 33 |  |
-| Phase transition | 2893 K | 2893 | liquidus: O/U=1.803 (T L); _alloy: O 0.643, U 0.357_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 45 |  |
-| Phase transition | 2893 K | 2893 | solidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 7 |  |
-| Phase transition | 2900 K | 2900 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 13 |  |
-| Phase transition | 2901 K | 2901 | solidus: 2.09 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 20 |  |
-| Phase transition | 2907 K | 2907 | liquidus: O/U=2.12 (T L); _alloy: O 0.6795, U 0.3205_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 9 |  |
-| Phase transition | 2907 K | 2907 | solidus: 2.120; _alloy: O 0.6795, U 0.3205_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 16 |  |
-| Phase transition | 2920 K | 2920 | liquidus: 2.16 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 29 |  |
-| Phase transition | 2921 K | 2921 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 16 |  |
-| Phase transition | 2923 K | 2923 | solidus: O/U=1.662 (T S); _alloy: O 0.624, U 0.376_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 56 |  |
-| Phase transition | 2930 K | 2930 | liquidus: 2.14 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 27 |  |
-| Phase transition | 2933 K | 2933 | liquidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 2 |  |
-| Phase transition | 2937 K | 2937 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 15 |  |
-| Phase transition | 2940 K | 2940 | liquidus: O/U=2.13 (T L); _alloy: O 0.6805, U 0.3195_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 7 |  |
-| Phase transition | 2940 K | 2940 | solidus: 2.130; _alloy: O 0.6805, U 0.3195_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 18 |  |
-| Phase transition | 2948 K | 2948 | solidus: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 12 |  |
-| Phase transition | 2954 K | 2954 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 11 |  |
-| Phase transition | 2954 K | 2954 | solidus: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 16 |  |
-| Phase transition | 2958 K | 2958 | solidus: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 14 |  |
-| Phase transition | 2963 K | 2963 | solidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 6 |  |
-| Phase transition | 2964 K | 2964 | solidus: 2.05 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 10 |  |
-| Phase transition | 2968 K | 2968 | solidus: O/U=1.736 (T S); _alloy: O 0.634, U 0.366_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 54 |  |
-| Phase transition | 2970 K | 2970 | liquidus: O/U=1.856 (T L); _alloy: O 0.65, U 0.35_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 41 |  |
-| Phase transition | 2971 K | 2971 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 12 |  |
-| Phase transition | 2974 K | 2974 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 9 |  |
-| Phase transition | 2976 K | 2976 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 6 |  |
-| Phase transition | 2983 K | 2983 | solidus: O/U=1.750 (T S); _alloy: O 0.636, U 0.364_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 50 |  |
-| Phase transition | 2989 K | 2989 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 7 |  |
-| Phase transition | 2993 K | 2993 | liquidus | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 1 |  |
-| Phase transition | 2994 K | 2994 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 10 |  |
-| Phase transition | 2995 K | 2995 | liquidus: 2.11 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 21 |  |
-| Phase transition | 3001 K | 3001 | liquidus: O/U=2.095 (T L); _alloy: O 0.6769, U 0.3231_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 13 |  |
-| Phase transition | 3001 K | 3001 | solidus: 2.095; _alloy: O 0.6769, U 0.3231_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 12 |  |
-| Phase transition | 3002 K | 3002 | liquidus: O/U=1.890 (T L); _alloy: O 0.654, U 0.346_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 39 |  |
-| Phase transition | 3003 K | 3003 | liquidus: O/U=2.095 (T L); _alloy: O 0.6769, U 0.3231_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 11 |  |
-| Phase transition | 3003 K | 3003 | solidus: 2.095; _alloy: O 0.6769, U 0.3231_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 14 |  |
-| Phase transition | 3008 K | 3008 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 4 |  |
-| Phase transition | 3008 K | 3008 | liquidus: 2.12 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 23 |  |
-| Phase transition | 3013 K | 3013 | solidus: O/U=1.790 (T S); _alloy: O 0.642, U 0.358_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 52 |  |
-| Phase transition | 3013 K | 3013 | solidus: O/U=2.23 (T S); _alloy: O 0.6904, U 0.3096_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 4 |  |
-| Phase transition | 3017 K | 3017 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 5 |  |
-| Phase transition | 3019 K | 3019 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 8 |  |
-| Phase transition | 3020 K | 3020 | liquidus: 2.12 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 25 |  |
-| Phase transition | 3028 K | 3028 | liquidus: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 11 |  |
-| Phase transition | 3031 K | 3031 | solidus: O/U=1.793 (T S); _alloy: O 0.642, U 0.358_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 48 |  |
-| Phase transition | 3031 K | 3031 | solidus: O/U=2.23 (T S); _alloy: O 0.6904, U 0.3096_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 2 |  |
-| Phase transition | 3033 K | 3033 | solidus: O/U=1.803 (T S); _alloy: O 0.643, U 0.357_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 46 |  |
-| Phase transition | 3033 K | 3033 | solidus: O/U=1.809 (T S); _alloy: O 0.644, U 0.356_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 44 |  |
-| Phase transition | 3043 K | 3043 | liquidus: O/U=1.920 (T L); _alloy: O 0.6575, U 0.3425_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 37 |  |
-| Phase transition | 3045 K | 3045 | solidus: O/U=2.184 (T S); _alloy: O 0.6859, U 0.3141_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 6 |  |
-| Phase transition | 3055 K | 3055 | solidus: 2.03 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 6 |  |
-| Phase transition | 3056 K | 3056 | liquidus: 2.09 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 19 |  |
-| Phase transition | 3060 K | 3060 | solidus: 2.03 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 8 |  |
-| Phase transition | 3063 K | 3063 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 1 |  |
-| Phase transition | 3063 K | 3063 | liquidus: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 15 |  |
-| Phase transition | 3065 K | 3065 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 3 |  |
-| Phase transition | 3067 K | 3067 | liquidus: O/U=2.095 (T L); _alloy: O 0.6795, U 0.3205_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 15 |  |
-| Phase transition | 3067 K | 3067 | solidus: 2.058; _alloy: O 0.673, U 0.327_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 10 |  |
-| Phase transition | 3069 K | 3069 | liquidus: O/U=1.943 (T L); _alloy: O 0.6602, U 0.3398_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 35 |  |
-| Phase transition | 3070 K | 3070 | liquidus: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 13 |  |
-| Phase transition | 3071 K | 3071 | solidus: 2.01 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 4 |  |
-| Phase transition | 3071 K | 3071 | solidus: O/U=2.12 (T S); _alloy: O 0.6795, U 0.3205_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 10 |  |
-| Phase transition | 3075 K | 3075 | liquidus: 2.08 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 17 |  |
-| Phase transition | 3076 K | 3076 | liquidus: O/U=1.956 (T L); _alloy: O 0.6617, U 0.3383_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 33 |  |
+| Phase transition | 2874 K | 2874 | other: O/U=1.793 (T L); _alloy: O 0.642, U 0.358_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 47 |  |
+| Phase transition | 2876 K | 2876 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 14 |  |
+| Phase transition | 2878 K | 2878 | other: 2.184; _alloy: O 0.6859, U 0.3141_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 20 |  |
+| Phase transition | 2878 K | 2878 | other: O/U=2.184 (T L); _alloy: O 0.6859, U 0.3141_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 5 |  |
+| Phase transition | 2886 K | 2886 | other: 2.08 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 18 |  |
+| Phase transition | 2887 K | 2887 | other: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 31 |  |
+| Phase transition | 2888 K | 2888 | other: O/U=1.809 (T L); _alloy: O 0.644, U 0.356_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 43 |  |
+| Phase transition | 2891 K | 2891 | other: 2.17 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 33 |  |
+| Phase transition | 2893 K | 2893 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 7 |  |
+| Phase transition | 2893 K | 2893 | other: O/U=1.803 (T L); _alloy: O 0.643, U 0.357_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 45 |  |
+| Phase transition | 2900 K | 2900 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 13 |  |
+| Phase transition | 2901 K | 2901 | other: 2.09 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 20 |  |
+| Phase transition | 2907 K | 2907 | other: 2.120; _alloy: O 0.6795, U 0.3205_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 16 |  |
+| Phase transition | 2907 K | 2907 | other: O/U=2.12 (T L); _alloy: O 0.6795, U 0.3205_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 9 |  |
+| Phase transition | 2920 K | 2920 | other: 2.16 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 29 |  |
+| Phase transition | 2921 K | 2921 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 16 |  |
+| Phase transition | 2923 K | 2923 | other: O/U=1.662 (T S); _alloy: O 0.624, U 0.376_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 56 |  |
+| Phase transition | 2930 K | 2930 | other: 2.14 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 27 |  |
+| Phase transition | 2933 K | 2933 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 2 |  |
+| Phase transition | 2937 K | 2937 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 15 |  |
+| Phase transition | 2940 K | 2940 | other: 2.130; _alloy: O 0.6805, U 0.3195_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 18 |  |
+| Phase transition | 2940 K | 2940 | other: O/U=2.13 (T L); _alloy: O 0.6805, U 0.3195_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 7 |  |
+| Phase transition | 2948 K | 2948 | other: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 12 |  |
+| Phase transition | 2954 K | 2954 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 11 |  |
+| Phase transition | 2954 K | 2954 | other: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 16 |  |
+| Phase transition | 2958 K | 2958 | other: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 14 |  |
+| Phase transition | 2963 K | 2963 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 6 |  |
+| Phase transition | 2964 K | 2964 | other: 2.05 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 10 |  |
+| Phase transition | 2968 K | 2968 | other: O/U=1.736 (T S); _alloy: O 0.634, U 0.366_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 54 |  |
+| Phase transition | 2970 K | 2970 | other: O/U=1.856 (T L); _alloy: O 0.65, U 0.35_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 41 |  |
+| Phase transition | 2971 K | 2971 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 12 |  |
+| Phase transition | 2974 K | 2974 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 9 |  |
+| Phase transition | 2976 K | 2976 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 6 |  |
+| Phase transition | 2983 K | 2983 | other: O/U=1.750 (T S); _alloy: O 0.636, U 0.364_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 50 |  |
+| Phase transition | 2989 K | 2989 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 7 |  |
+| Phase transition | 2993 K | 2993 | other | experimental | [2] Chevalier 1998; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | Table 6, p. 6, row 1 |  |
+| Phase transition | 2994 K | 2994 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 10 |  |
+| Phase transition | 2995 K | 2995 | other: 2.11 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 21 |  |
+| Phase transition | 3001 K | 3001 | other: 2.095; _alloy: O 0.6769, U 0.3231_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 12 |  |
+| Phase transition | 3001 K | 3001 | other: O/U=2.095 (T L); _alloy: O 0.6769, U 0.3231_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 13 |  |
+| Phase transition | 3002 K | 3002 | other: O/U=1.890 (T L); _alloy: O 0.654, U 0.346_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 39 |  |
+| Phase transition | 3003 K | 3003 | other: 2.095; _alloy: O 0.6769, U 0.3231_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 14 |  |
+| Phase transition | 3003 K | 3003 | other: O/U=2.095 (T L); _alloy: O 0.6769, U 0.3231_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 11 |  |
+| Phase transition | 3008 K | 3008 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 4 |  |
+| Phase transition | 3008 K | 3008 | other: 2.12 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 23 |  |
+| Phase transition | 3013 K | 3013 | other: O/U=1.790 (T S); _alloy: O 0.642, U 0.358_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 52 |  |
+| Phase transition | 3013 K | 3013 | other: O/U=2.23 (T S); _alloy: O 0.6904, U 0.3096_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 4 |  |
+| Phase transition | 3017 K | 3017 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 5 |  |
+| Phase transition | 3019 K | 3019 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 8 |  |
+| Phase transition | 3020 K | 3020 | other: 2.12 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 25 |  |
+| Phase transition | 3028 K | 3028 | other: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 11 |  |
+| Phase transition | 3031 K | 3031 | other: O/U=1.793 (T S); _alloy: O 0.642, U 0.358_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 48 |  |
+| Phase transition | 3031 K | 3031 | other: O/U=2.23 (T S); _alloy: O 0.6904, U 0.3096_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 2 |  |
+| Phase transition | 3033 K | 3033 | other: O/U=1.803 (T S); _alloy: O 0.643, U 0.357_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 46 |  |
+| Phase transition | 3033 K | 3033 | other: O/U=1.809 (T S); _alloy: O 0.644, U 0.356_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 44 |  |
+| Phase transition | 3043 K | 3043 | other: O/U=1.920 (T L); _alloy: O 0.6575, U 0.3425_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 37 |  |
+| Phase transition | 3045 K | 3045 | other: O/U=2.184 (T S); _alloy: O 0.6859, U 0.3141_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 6 |  |
+| Phase transition | 3055 K | 3055 | other: 2.03 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 6 |  |
+| Phase transition | 3056 K | 3056 | other: 2.09 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 19 |  |
+| Phase transition | 3060 K | 3060 | other: 2.03 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 8 |  |
+| Phase transition | 3063 K | 3063 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 1 |  |
+| Phase transition | 3063 K | 3063 | other: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 15 |  |
+| Phase transition | 3065 K | 3065 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 3 |  |
+| Phase transition | 3067 K | 3067 | other: 2.058; _alloy: O 0.673, U 0.327_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 10 |  |
+| Phase transition | 3067 K | 3067 | other: O/U=2.095 (T L); _alloy: O 0.6795, U 0.3205_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 15 |  |
+| Phase transition | 3069 K | 3069 | other: O/U=1.943 (T L); _alloy: O 0.6602, U 0.3398_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 35 |  |
+| Phase transition | 3070 K | 3070 | other: 2.07 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 13 |  |
+| Phase transition | 3071 K | 3071 | other: 2.01 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 4 |  |
+| Phase transition | 3071 K | 3071 | other: O/U=2.12 (T S); _alloy: O 0.6795, U 0.3205_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 10 |  |
+| Phase transition | 3075 K | 3075 | other: 2.08 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 17 |  |
+| Phase transition | 3076 K | 3076 | other: O/U=1.956 (T L); _alloy: O 0.6617, U 0.3383_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 33 |  |
 | Phase transition | 3077 K | 3077 | L \<=> G + UO2+x | model | [4] Barrachin 2008; _cites Chevalier 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.03.005) | p. 2 | “The uncertainty on the real liquidus shape in the hyper-stoichiometric field led to obtain various temperatures in the literature for the invariant reaction L \<=> G + UO2+x for 1 atm. total pressure: 3077 K (Chevalier et al. \[23\]); 2700 K (Gueneau et al. \[24\]), 2873 K (Roth et al. \[25\]).” |
-| Phase transition | 3077 K | 3077 | liquidus | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 2 |  |
+| Phase transition | 3077 K | 3077 | other | experimental | [2] Chevalier 1998; _cites Bates 1998_ | Table 4, p. 5, row 2 |  |
 | Phase transition | 3077 K | 3077 | other: L \<=> G + UO2+x | model | [4] Barrachin 2008; _cites Chevalier 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.03.005) | p. 6 | “The lowest temperature for which the vapor pressure in equilibrium reaches one atmosphere corresponds to the monotectic reaction L \<=> G + UO2+x and is calculated as 2694 K (Fig. 1), instead of 3077 K previously \[23\].” |
-| Phase transition | 3078 K | 3078 | solidus: O/U=2.13 (T S); _alloy: O 0.6805, U 0.3195_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 8 |  |
-| Phase transition | 3083 K | 3083 | solidus: O/U=1.856 (T S); _alloy: O 0.65, U 0.35_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 42 |  |
-| Phase transition | 3085 K | 3085 | liquidus: O/U=2.058 (T L); _alloy: O 0.673, U 0.327_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 17 |  |
-| Phase transition | 3085 K | 3085 | solidus: 2.022; _alloy: O 0.6691, U 0.3309_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 8 |  |
-| Phase transition | 3088 K | 3088 | solidus: O/U=2.095 (T S); _alloy: O 0.6769, U 0.3231_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 12 |  |
-| Phase transition | 3090 K | 3090 | solidus: O/U=2.095 (T S); _alloy: O 0.6769, U 0.3231_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 14 |  |
-| Phase transition | 3098 K | 3098 | liquidus: 2.05 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 9 |  |
-| Phase transition | 3105 K | 3105 | liquidus: O/U=1.993 (T L); _alloy: O 0.6659, U 0.3341_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 29 |  |
-| Phase transition | 3105 K | 3105 | solidus: O/U=1.890 (T S); _alloy: O 0.654, U 0.346_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 40 |  |
-| Phase transition | 3106 K | 3106 | liquidus: O/U=1.980 (T L); _alloy: O 0.6644, U 0.3356_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 31 |  |
-| Phase transition | 3107 K | 3107 | liquidus: O/U=1.997 (T L); _alloy: O 0.6663, U 0.3337_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 27 |  |
-| Phase transition | 3109 K | 3109 | liquidus: O/U=2.022 (T L); _alloy: O 0.669, U 0.331_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 19 |  |
-| Phase transition | 3109 K | 3109 | solidus: 2.019; _alloy: O 0.6688, U 0.3312_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 6 |  |
-| Phase transition | 3109 K | 3109 | solidus: O/U=2.095 (T S); _alloy: O 0.6795, U 0.3205_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 16 |  |
-| Phase transition | 3113 K | 3113 | solidus: O/U=1.920 (T S); _alloy: O 0.6575, U 0.3425_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 38 |  |
-| Phase transition | 3115 K | 3115 | liquidus: 2.03 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 7 |  |
-| Phase transition | 3118 K | 3118 | liquidus: O/U=1.998 (T L); _alloy: O 0.6664, U 0.3336_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 23 |  |
-| Phase transition | 3118 K | 3118 | liquidus: O/U=2.019 (T L); _alloy: O 0.6688, U 0.3312_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 21 |  |
-| Phase transition | 3118 K | 3118 | solidus: 1.998; _alloy: O 0.6664, U 0.3336_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 4 |  |
-| Phase transition | 3118 K | 3118 | solidus: O/U=1.943 (T S); _alloy: O 0.6602, U 0.3398_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 36 |  |
+| Phase transition | 3078 K | 3078 | other: O/U=2.13 (T S); _alloy: O 0.6805, U 0.3195_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 8 |  |
+| Phase transition | 3083 K | 3083 | other: O/U=1.856 (T S); _alloy: O 0.65, U 0.35_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 42 |  |
+| Phase transition | 3085 K | 3085 | other: 2.022; _alloy: O 0.6691, U 0.3309_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 8 |  |
+| Phase transition | 3085 K | 3085 | other: O/U=2.058 (T L); _alloy: O 0.673, U 0.327_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 17 |  |
+| Phase transition | 3088 K | 3088 | other: O/U=2.095 (T S); _alloy: O 0.6769, U 0.3231_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 12 |  |
+| Phase transition | 3090 K | 3090 | other: O/U=2.095 (T S); _alloy: O 0.6769, U 0.3231_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 14 |  |
+| Phase transition | 3098 K | 3098 | other: 2.05 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 9 |  |
+| Phase transition | 3105 K | 3105 | other: O/U=1.890 (T S); _alloy: O 0.654, U 0.346_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 40 |  |
+| Phase transition | 3105 K | 3105 | other: O/U=1.993 (T L); _alloy: O 0.6659, U 0.3341_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 29 |  |
+| Phase transition | 3106 K | 3106 | other: O/U=1.980 (T L); _alloy: O 0.6644, U 0.3356_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 31 |  |
+| Phase transition | 3107 K | 3107 | other: O/U=1.997 (T L); _alloy: O 0.6663, U 0.3337_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 27 |  |
+| Phase transition | 3109 K | 3109 | other: 2.019; _alloy: O 0.6688, U 0.3312_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 6 |  |
+| Phase transition | 3109 K | 3109 | other: O/U=2.022 (T L); _alloy: O 0.669, U 0.331_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 19 |  |
+| Phase transition | 3109 K | 3109 | other: O/U=2.095 (T S); _alloy: O 0.6795, U 0.3205_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 16 |  |
+| Phase transition | 3113 K | 3113 | other: O/U=1.920 (T S); _alloy: O 0.6575, U 0.3425_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 38 |  |
+| Phase transition | 3115 K | 3115 | other: 2.03 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 7 |  |
+| Phase transition | 3118 K | 3118 | other: 1.998; _alloy: O 0.6664, U 0.3336_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 4 |  |
+| Phase transition | 3118 K | 3118 | other: O/U=1.943 (T S); _alloy: O 0.6602, U 0.3398_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 36 |  |
+| Phase transition | 3118 K | 3118 | other: O/U=1.998 (T L); _alloy: O 0.6664, U 0.3336_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 23 |  |
+| Phase transition | 3118 K | 3118 | other: O/U=2.019 (T L); _alloy: O 0.6688, U 0.3312_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 21 |  |
 | Phase transition | 3120 K | 3120 |  | experimental | [4] Barrachin 2008 | p. 1 | “Above this temperature, the fuel dissolution starts, resulting in the liquefaction of fuel rods at temperatures 1000 K below the standard melting temperature of UO2 (3120 K).” |
 | Phase transition | 3120 K | 3120 | UO2 | experimental | [1] Chevalier 2002 | p. 1 | “The fuel of civil nuclear plants, UO2 , melts at 3120 K.” |
-| Phase transition | 3120 K | 3120 | liquidus: O/U=1.997 (T L); _alloy: O 0.6663, U 0.3337_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 25 |  |
 | Phase transition | 3120 K | 3120 | other | experimental | [4] Barrachin 2008 | p. 9 | “Whatever the respective flow rates of hydrogen and steam which varied from one test to another one, the temperature at which the fuel loses its cylindrical integrity was lower than both the melting temperature of fresh UO2 (3120 K) and the ZrO2-UO2 eutectic temperature (2800 K).” |
-| Phase transition | 3120 K | 3120 | solidus: 1.997; _alloy: O 0.6663, U 0.3337_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 2 |  |
-| Phase transition | 3125 K | 3125 | solidus: O/U=2.022 (T S); _alloy: O 0.669, U 0.331_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 20 |  |
-| Phase transition | 3130 K | 3130 | liquidus: 2.03 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 5 |  |
-| Phase transition | 3130 K | 3130 | solidus: O/U=1.956 (T S); _alloy: O 0.6617, U 0.3383_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 34 |  |
+| Phase transition | 3120 K | 3120 | other: 1.997; _alloy: O 0.6663, U 0.3337_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 2 |  |
+| Phase transition | 3120 K | 3120 | other: O/U=1.997 (T L); _alloy: O 0.6663, U 0.3337_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 25 |  |
+| Phase transition | 3125 K | 3125 | other: O/U=2.022 (T S); _alloy: O 0.669, U 0.331_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 20 |  |
+| Phase transition | 3130 K | 3130 | other: 2.03 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 5 |  |
+| Phase transition | 3130 K | 3130 | other: O/U=1.956 (T S); _alloy: O 0.6617, U 0.3383_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 34 |  |
 | Phase transition | 3133 K | 3133 |  | experimental | [1] Chevalier 2002; _cites Bannister 1967_ [doi](https://doi.org/10.1016/0022-3115%2867%2990207-3) | p. 3 | “The monotectic was located at 2693 K and xS ðUÞ 1⁄4 0:382, the melting point of UO2 at 3133 K, (although another value taken from literature, 3078 15 K, was also reported in the original paper).” |
-| Phase transition | 3133 K | 3133 | solidus: O/U=1.980 (T S); _alloy: O 0.6644, U 0.3356_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 32 |  |
-| Phase transition | 3133 K | 3133 | solidus: O/U=1.993 (T S); _alloy: O 0.6659, U 0.3341_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 30 |  |
-| Phase transition | 3133 K | 3133 | solidus: O/U=1.997 (T S); _alloy: O 0.6663, U 0.3337_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 28 |  |
-| Phase transition | 3135 K | 3135 | liquidus: 2.01 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 3 |  |
-| Phase transition | 3135 K | 3135 | solidus: O/U=1.997 (T S); _alloy: O 0.6663, U 0.3337_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 26 |  |
-| Phase transition | 3136 K | 3136 | solidus: O/U=2.058 (T S); _alloy: O 0.673, U 0.327_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 18 |  |
+| Phase transition | 3133 K | 3133 | other: O/U=1.980 (T S); _alloy: O 0.6644, U 0.3356_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 32 |  |
+| Phase transition | 3133 K | 3133 | other: O/U=1.993 (T S); _alloy: O 0.6659, U 0.3341_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 30 |  |
+| Phase transition | 3133 K | 3133 | other: O/U=1.997 (T S); _alloy: O 0.6663, U 0.3337_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 28 |  |
+| Phase transition | 3135 K | 3135 | other: 2.01 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 3 |  |
+| Phase transition | 3135 K | 3135 | other: O/U=1.997 (T S); _alloy: O 0.6663, U 0.3337_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 26 |  |
+| Phase transition | 3136 K | 3136 | other: O/U=2.058 (T S); _alloy: O 0.673, U 0.327_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 18 |  |
 | Phase transition | 3138 K | 3138 |  | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | p. 3 | “The melting point of UO2 was given as 3138 K and the monotectic determined as 2698 K, xS ðUÞ 1⁄4 0:3745, xL1 ðUÞ 1⁄4 0:4065.” |
-| Phase transition | 3138 K | 3138 | solidus: O/U=1.998 (T S); _alloy: O 0.6664, U 0.3336_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 24 |  |
-| Phase transition | 3138 K | 3138 | solidus: O/U=2.019 (T S); _alloy: O 0.6688, U 0.3312_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 22 |  |
+| Phase transition | 3138 K | 3138 | other: O/U=1.998 (T S); _alloy: O 0.6664, U 0.3336_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 24 |  |
+| Phase transition | 3138 K | 3138 | other: O/U=2.019 (T S); _alloy: O 0.6688, U 0.3312_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 8, p. 6, row 22 |  |
 | Phase transition | 3142 K | 3142 | UO2 (0.664) = Liquid (0.664); _UO2: U 0.336; Liquid: U 0.336_ | model | [3] Guéneau 2002 | Table 5, p. 13, row 3 |  |
-| Phase transition | 3147 K | 3147 | liquidus: 2.00 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 1 |  |
-| Phase transition | 3147 K | 3147 | solidus: 2.00 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 2 |  |
+| Phase transition | 3147 K | 3147 | other: 2.00 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 2 |  |
+| Phase transition | 3147 K | 3147 | other: 2.00 | experimental | [4] Barrachin 2008; _cites Manara 2005_ [doi](https://doi.org/10.1016/j.jnucmat.2005.04.002) | Table 2, p. 3, row 1 |  |
 | Phase transition | 4182 K | 4182 | Liquid (0.46) = Gas (0.46); _Liquid: U 0.54; Gas: U 0.54_ | model | [3] Guéneau 2002 | Table 5, p. 13, row 2 |  |
 | Phase transition | 4252 K | 4252 | Liquid (0.58) = Gas (0.58); _Liquid: U 0.42; Gas: U 0.42_ | model | [3] Guéneau 2002 | Table 5, p. 13, row 1 |  |
 
-### Phase equilibrium (617)
+### Phase equilibrium (601)
 
 Table: Phase equilibrium, O–U system
 
@@ -351,7 +350,6 @@ Table: Phase equilibrium, O–U system
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 293 | Φ2; _Φ2: O 0.68954, U 0.31046_ | experimental | [1] Chevalier 2002; _cites Ishii 1970_ [doi](https://doi.org/10.1016/0038-1098%2870%2990194-8) | Table 5, p. 6, row 81 |  |
 | Phase composition |  | 298 | Φ1; _Φ1: O 0.6667, U 0.3333_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 134 |  |
-| Phase composition |  | 298 | Φ1; _Φ1: O 0.6667, U 0.3333_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 78 |  |
 | Phase composition |  | 298 | Φ1 + U4O9±y; _Φ1: O 0.69231, U 0.30769; U4O9±y: O 0.69231, U 0.30769_ | experimental | [1] Chevalier 2002; _cites Matsui 1975_ | Table 7, p. 7, row 13 |  |
 | Phase composition |  | 298 | Φ1 + U4O9±y; _Φ1: O 0.69183, U 0.30817; U4O9±y: O 0.69183, U 0.30817_ | experimental | [1] Chevalier 2002; _cites Van 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990157-1) | Table 7, p. 7, row 12 |  |
 | Phase composition |  | 298 | Φ2; _Φ2: O 0.69088, U 0.30912_ | experimental | [1] Chevalier 2002; _cites Van 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990157-1) | Table 5, p. 6, row 77 |  |
@@ -360,17 +358,14 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 630 | Φ1; _Φ1: O 0.6676, U 0.3324_ | experimental | [1] Chevalier 2002; _cites Schaner 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990038-6) | Table 5, p. 6, row 13 |  |
 | Phase composition |  | 630 | Φ1; _Φ1: O 0.668, U 0.332_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 14 |  |
 | Phase composition |  | 673 | Φ1; _Φ1: O 0.6693, U 0.3307_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 114 |  |
-| Phase composition |  | 673 | Φ1; _Φ1: O 0.6693, U 0.3307_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 88 |  |
 | Phase composition |  | 673 | Φ1; _Φ1: O 0.6711, U 0.3289_ | experimental | [1] Chevalier 2002; _cites Saito 1974_ | Table 5, p. 6, row 113 |  |
 | Phase composition |  | 673 | Φ1; _Φ1: O 0.6689, U 0.3311_ | experimental | [1] Chevalier 2002; _cites Nakamura 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990501-0) | Table 5, p. 6, row 137 |  |
 | Phase composition |  | 673 | Φ1; _Φ1: O 0.6678, U 0.3322_ | experimental | [1] Chevalier 2002; _cites Bannister 1974_ | Table 5, p. 6, row 87 |  |
-| Phase composition |  | 673 | Φ1; _Φ1: O 0.6693, U 0.3307_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 138 |  |
 | Phase composition |  | 689 | Φ1; _Φ1: O 0.6701, U 0.3299_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 16 |  |
 | Phase composition |  | 689 | Φ1; _Φ1: O 0.6701, U 0.3299_ | unspecified | [1] Chevalier 2002 | Table 5, p. 7, row 2 |  |
 | Phase composition |  | 689 | Φ1; _Φ1: O 0.6692, U 0.3308_ | experimental | [1] Chevalier 2002 | Table 5, p. 7, row 1 |  |
 | Phase composition |  | 689 | Φ1; _Φ1: O 0.669, U 0.331_ | experimental | [1] Chevalier 2002; _cites Schaner 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990038-6) | Table 5, p. 6, row 15 |  |
 | Phase composition |  | 689 | Φ1; _Φ1: O 0.6692, U 0.3308_ | experimental | [1] Chevalier 2002; _cites Bannister 1974_ | Table 5, p. 6, row 193 |  |
-| Phase composition |  | 689 | Φ1; _Φ1: O 0.6701, U 0.3299_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 194 |  |
 | Phase composition |  | 695 | Φ1; _Φ1: O 0.6705, U 0.3295_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 90 |  |
 | Phase composition |  | 695 | Φ1; _Φ1: O 0.6684, U 0.3316_ | experimental | [1] Chevalier 2002; _cites Bannister 1974_ | Table 5, p. 6, row 89 |  |
 | Phase composition |  | 696 | Φ1; _Φ1: O 0.67, U 0.33_ | experimental | [1] Chevalier 2002; _cites Nakamura 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990501-0) | Table 5, p. 6, row 139 |  |
@@ -395,7 +390,6 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 741 | Φ1; _Φ1: O 0.6747, U 0.3253_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 148 |  |
 | Phase composition |  | 741 | Φ1; _Φ1: O 0.673, U 0.327_ | experimental | [1] Chevalier 2002; _cites Bannister 1974_ | Table 5, p. 6, row 197 |  |
 | Phase composition |  | 741 | Φ1; _Φ1: O 0.6747, U 0.3253_ | unspecified | [1] Chevalier 2002 | Table 5, p. 7, row 6 |  |
-| Phase composition |  | 741 | Φ1; _Φ1: O 0.6747, U 0.3253_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 198 |  |
 | Phase composition |  | 745 | Φ1; _Φ1: O 0.675, U 0.325_ | unspecified | [1] Chevalier 2002 | Table 5, p. 7, row 8 |  |
 | Phase composition |  | 745 | Φ1; _Φ1: O 0.675, U 0.325_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 200 |  |
 | Phase composition |  | 745 | Φ1; _Φ1: O 0.673, U 0.327_ | experimental | [1] Chevalier 2002; _cites Bannister 1974_ | Table 5, p. 6, row 199 |  |
@@ -446,7 +440,6 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 838 | Φ1; _Φ1: O 0.6797, U 0.3203_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 26 |  |
 | Phase composition |  | 838 | Φ1; _Φ1: O 0.6802, U 0.3198_ | experimental | [1] Chevalier 2002; _cites Schaner 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990038-6) | Table 5, p. 6, row 25 |  |
 | Phase composition |  | 838 | Φ1; _Φ1: O 0.6805, U 0.3195_ | experimental | [1] Chevalier 2002; _cites Nakamura 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990501-0) | Table 5, p. 6, row 159 |  |
-| Phase composition |  | 838 | Φ1; _Φ1: O 0.6797, U 0.3203_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 160 |  |
 | Phase composition |  | 844 | Φ1 + Φ2; _Φ1: O 0.72647, U 0.27353; Φ2: O 0.72727, U 0.27273_ | experimental | [1] Chevalier 2002; _cites Caneiro 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990037-0) | Table 8, p. 8, row 6 |  |
 | Phase composition |  | 853 | Φ1; _Φ1: O 0.6802, U 0.3198_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 92 |  |
 | Phase composition |  | 853 | Φ1; _Φ1: O 0.6796, U 0.3204_ | experimental | [1] Chevalier 2002; _cites Bannister 1974_ | Table 5, p. 6, row 91 |  |
@@ -458,7 +451,6 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 888 | Φ1; _Φ1: O 0.6812, U 0.3188_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 124 |  |
 | Phase composition |  | 890 | Φ1; _Φ1: O 0.6813, U 0.3187_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 162 |  |
 | Phase composition |  | 890 | Φ1; _Φ1: O 0.6815, U 0.3185_ | experimental | [1] Chevalier 2002; _cites Nakamura 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990501-0) | Table 5, p. 6, row 161 |  |
-| Phase composition |  | 890 | Φ1; _Φ1: O 0.6813, U 0.3187_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 100 |  |
 | Phase composition |  | 890 | Φ1; _Φ1: O 0.6816, U 0.3184_ | experimental | [1] Chevalier 2002; _cites Bannister 1974_ | Table 5, p. 6, row 99 |  |
 | Phase composition |  | 918 | Φ1; _Φ1: O 0.6821, U 0.3179_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 52 |  |
 | Phase composition |  | 918 | Φ1; _Φ1: O 0.68143, U 0.31857_ | experimental | [1] Chevalier 2002; _cites Aronson 1961_ [doi](https://doi.org/10.1063/1.1732057) | Table 5, p. 6, row 51 |  |
@@ -555,7 +547,6 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 1331 | Φ1 + Φ2 + U4O9±y + U8O21±x; _Φ1: O 0.69503, U 0.30497; Φ2: O 0.72261, U 0.27739; U4O9±y: O 0.69503, U 0.30497; U8O21±x: O 0.72261, U 0.27739_ | experimental | [1] Chevalier 2002; _cites Blackburn 1958_ [doi](https://doi.org/10.1021/j150566a001) | Table 7, p. 7, row 4 |  |
 | Phase composition |  | 1341 | Φ1; _Φ1: O 0.6894, U 0.3106_ | experimental | [1] Chevalier 2002; _cites Nakamura 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990501-0) | Table 5, p. 6, row 177 |  |
 | Phase composition |  | 1341 | Φ1; _Φ1: O 0.6903, U 0.3097_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 178 |  |
-| Phase composition |  | 1341 | Φ1; _Φ1: O 0.6903, U 0.3097_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 36 |  |
 | Phase composition |  | 1341 | Φ2; _Φ2: O 0.69126, U 0.30874_ | experimental | [1] Chevalier 2002; _cites Roberts 1961_ [doi](https://doi.org/10.1016/0022-1902%2861%2980437-5) | Table 5, p. 6, row 35 |  |
 | Phase composition |  | 1344 | Φ1; _Φ1: O 0.68896, U 0.31104_ | experimental | [1] Chevalier 2002; _cites Roberts 1961_ [doi](https://doi.org/10.1016/0022-1902%2861%2980437-5) | Table 5, p. 6, row 37 |  |
 | Phase composition |  | 1344 | Φ1; _Φ1: O 0.6904, U 0.3096_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 38 |  |
@@ -575,9 +566,7 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 1371 | Φ2 + U8O21±x; _Φ2: O 0.72332, U 0.27668; U8O21±x: O 0.72332, U 0.27668_ | experimental | [1] Chevalier 2002; _cites Caneiro 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990037-0) | Table 7, p. 7, row 18 |  |
 | Phase composition |  | 1373 | Φ1; _Φ1: O 0.692, U 0.308_ | model | [1] Chevalier 2002 | Table 6, p. 7, row 26 |  |
 | Phase composition |  | 1373 | Φ1; _Φ1: O 0.691, U 0.309_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 66 |  |
-| Phase composition |  | 1373 | Φ1; _Φ1: O 0.691, U 0.309_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 190 |  |
 | Phase composition |  | 1373 | Φ1; _Φ1: O 0.69126, U 0.30874_ | experimental | [1] Chevalier 2002; _cites Kiukkola 1962_ [doi](https://doi.org/10.3891/acta.chem.scand.16-0327) | Table 5, p. 6, row 189 |  |
-| Phase composition |  | 1373 | Φ1; _Φ1: O 0.691, U 0.309_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 80 |  |
 | Phase composition |  | 1373 | Φ1; _Φ1: O 0.69031, U 0.30969_ | experimental | [1] Chevalier 2002; _cites Aronson 1961_ [doi](https://doi.org/10.1063/1.1732057) | Table 5, p. 6, row 65 |  |
 | Phase composition |  | 1373 | Φ1 + U4O9±y; _Φ1: O 0.69136, U 0.30864; U4O9±y: O 0.69136, U 0.30864_ | experimental | [1] Chevalier 2002; _cites Van 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990157-1) | Table 7, p. 7, row 11 |  |
 | Phase composition |  | 1373 | Φ2; _Φ2: O 0.72315, U 0.27685_ | experimental | [1] Chevalier 2002; _cites Hagemark 1966_ [doi](https://doi.org/10.1016/0022-1902%2866%2980010-6) | Table 6, p. 7, row 25 |  |
@@ -623,7 +612,6 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 1460 | Φ1; _Φ1: O 0.692, U 0.308_ | model | [1] Chevalier 2002 | Table 6, p. 7, row 48 |  |
 | Phase composition |  | 1460 | Φ1; _Φ1: O 0.69142, U 0.30858_ | experimental | [1] Chevalier 2002; _cites Kotlar 1968_ | Table 6, p. 7, row 47 |  |
 | Phase composition |  | 1473 | Φ1; _Φ1: O 0.692, U 0.308_ | model | [1] Chevalier 2002 | Table 6, p. 7, row 52 |  |
-| Phase composition |  | 1473 | Φ1; _Φ1: O 0.692, U 0.308_ | model | [1] Chevalier 2002 | Table 6, p. 7, row 28 |  |
 | Phase composition |  | 1473 | Φ1; _Φ1: O 0.69212, U 0.30788_ | experimental | [1] Chevalier 2002; _cites Kiukkola 1962_ [doi](https://doi.org/10.3891/acta.chem.scand.16-0327) | Table 6, p. 7, row 51 |  |
 | Phase composition |  | 1473 | Φ1; _Φ1: O 0.692, U 0.308_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 210 |  |
 | Phase composition |  | 1473 | Φ1; _Φ1: O 0.69212, U 0.30788_ | experimental | [1] Chevalier 2002; _cites Kiukkola 1962_ [doi](https://doi.org/10.3891/acta.chem.scand.16-0327) | Table 5, p. 6, row 209 |  |
@@ -651,18 +639,15 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 1673 | Φ1; _Φ1: O 0.69231, U 0.30769_ | experimental | [1] Chevalier 2002; _cites Hagemark 1966_ [doi](https://doi.org/10.1016/0022-1902%2866%2980010-6) | Table 6, p. 7, row 31 |  |
 | Phase composition |  | 1673 | Φ1; _Φ1: O 0.6919, U 0.3081_ | model | [1] Chevalier 2002 | Table 6, p. 7, row 32 |  |
 | Phase composition |  | 1673 | Φ1; _Φ1: O 0.69278, U 0.30722_ | experimental | [1] Chevalier 2002; _cites Hagemark 1966_ [doi](https://doi.org/10.1016/0022-1902%2866%2980010-6) | Table 6, p. 7, row 33 |  |
-| Phase composition |  | 1673 | Φ1; _Φ1: O 0.6919, U 0.3081_ | model | [1] Chevalier 2002 | Table 6, p. 7, row 34 |  |
 | Phase composition |  | 1779 | Φ1 + Φ2; _Φ1: O 0.694, U 0.306; Φ2: O 0.72299, U 0.27701_ | experimental | [1] Chevalier 2002; _cites Anthony 1963_ [doi](https://doi.org/10.1016/0022-3115%2863%2990112-0) | Table 6, p. 7, row 21 |  |
 | Phase composition |  | 1779 | Φ2; _Φ2: O 0.6919, U 0.3081_ | model | [1] Chevalier 2002 | Table 6, p. 7, row 22 |  |
 | Phase composition |  | 1803 | L; _L: O 0.107, U 0.893_ | experimental | [2] Chevalier 1998; _cites Guinet 1966_ | Table 5, p. 5, row 1 |  |
 | Phase composition |  | 1803 | L; _L: O 0.233, U 0.767_ | experimental | [2] Chevalier 1998; _cites Blum 1963_ | Table 1, p. 4, row 4 |  |
 | Phase composition |  | 1803 | L2 + UO2-x; _L2: O 9.000e-4, U 0.9991_ | model | [1] Chevalier 2002 | Table 3, p. 4, row 16 |  |
 | Phase composition |  | 1803 | L2 + UO2-x; _L2: O 0.233, U 0.767_ | experimental | [1] Chevalier 2002; _cites Blum 1963_ | Table 3, p. 4, row 15 |  |
-| Phase composition |  | 1803 | L2 + UO2-x; _L2: O 9.000e-4, U 0.9991_ | model | [1] Chevalier 2002 | Table 3, p. 4, row 24 |  |
 | Phase composition |  | 1803 | L2 + UO2-x; _L2: O 0.107, U 0.893_ | experimental | [1] Chevalier 2002; _cites Guinet 1966_ | Table 3, p. 4, row 23 |  |
 | Phase composition |  | 1873 | UO2-x; _UO2-x: O 0.6618, U 0.3382_ | model | [1] Chevalier 2002 | Table 2, p. 4, row 10 |  |
 | Phase composition |  | 1873 | UO2-x; _UO2-x: O 0.6627, U 0.3373_ | experimental | [1] Chevalier 2002; _cites Martin 1966_ | Table 2, p. 4, row 9 |  |
-| Phase composition |  | 1873 | UO2-x; _UO2-x: O 0.6618, U 0.3382_ | model | [1] Chevalier 2002 | Table 2, p. 4, row 37 |  |
 | Phase composition |  | 1873 | UO2-x; _UO2-x: O 0.6622, U 0.3378_ | experimental | [1] Chevalier 2002; _cites Ackermann 1969_ [doi](https://doi.org/10.1021/j100724a002) | Table 2, p. 4, row 36 |  |
 | Phase composition |  | 1911 | Φ1 + Φ2; _Φ1: O 0.69438, U 0.30562; Φ2: O 0.72299, U 0.27701_ | experimental | [1] Chevalier 2002; _cites Anthony 1963_ [doi](https://doi.org/10.1016/0022-3115%2863%2990112-0) | Table 6, p. 7, row 23 |  |
 | Phase composition |  | 1911 | Φ2; _Φ2: O 0.6917, U 0.3083_ | model | [1] Chevalier 2002 | Table 6, p. 7, row 24 |  |
@@ -781,7 +766,6 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 2683 | L2 + UO2-x; _L2: O 0.0391, U 0.9609_ | model | [1] Chevalier 2002 | Table 3, p. 4, row 14 |  |
 | Phase composition |  | 2683 | L2 + UO2-x; _L2: O 0.0464, U 0.9536_ | experimental | [1] Chevalier 2002; _cites Martin 1966_ | Table 3, p. 4, row 11 |  |
 | Phase composition |  | 2683 | L2 + UO2-x; _L2: O 0.0237, U 0.9763_ | experimental | [1] Chevalier 2002; _cites Martin 1966_ | Table 3, p. 4, row 13 |  |
-| Phase composition |  | 2683 | L2 + UO2-x; _L2: O 0.0391, U 0.9609_ | model | [1] Chevalier 2002 | Table 3, p. 4, row 12 |  |
 | Phase composition |  | 2686 | UO2±x; _UO2±x: O 0.6265, U 0.3735_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 156 |  |
 | Phase composition |  | 2686 | UO2±x; _UO2±x: O 0.6243, U 0.3757_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 155 |  |
 | Phase composition |  | 2693 | L1; _L1: O 0.5816, U 0.4184_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 38 |  |
@@ -886,7 +870,7 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 3013 | L1; _L1: O 0.643, U 0.357_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 146 |  |
 | Phase composition |  | 3013 | L1; _L1: O 0.6904, U 0.3096_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 61 |  |
 | Phase composition |  | 3013 | L1; _L1: O 0.6416, U 0.3584_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 145 |  |
-| Phase composition |  | 3013 | liquidus: 2.230; _liquid: O 0.6904, U 0.3096_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 21 |  |
+| Phase composition |  | 3013 | other: 2.230; _liquid: O 0.6904, U 0.3096_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 21 |  |
 | Phase composition |  | 3017 | L1; _L1: O 0.65386, U 0.34614_ | experimental | [1] Chevalier 2002; _cites Bates 1966_ | Table 4, p. 5, row 27 |  |
 | Phase composition |  | 3017 | L1; _L1: O 0.6437, U 0.3563_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 28 |  |
 | Phase composition |  | 3019 | L1; _L1: O 0.644, U 0.356_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 22 |  |
@@ -895,16 +879,15 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 3031 | L1; _L1: O 0.642, U 0.358_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 137 |  |
 | Phase composition |  | 3031 | L1; _L1: O 0.6459, U 0.3541_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 138 |  |
 | Phase composition |  | 3031 | L1; _L1: O 0.6881, U 0.3119_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 58 |  |
-| Phase composition |  | 3031 | liquidus: 2.230; _liquid: O 0.6904, U 0.3096_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 23 |  |
+| Phase composition |  | 3031 | other: 2.230; _liquid: O 0.6904, U 0.3096_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 23 |  |
 | Phase composition |  | 3033 | L1; _L1: O 0.6432, U 0.3568_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 133 |  |
 | Phase composition |  | 3033 | L1; _L1: O 0.6462, U 0.3538_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 134 |  |
-| Phase composition |  | 3033 | L1; _L1: O 0.6462, U 0.3538_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 130 |  |
 | Phase composition |  | 3033 | L1; _L1: O 0.644, U 0.356_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 129 |  |
 | Phase composition |  | 3043 | UO2±x; _UO2±x: O 0.6575, U 0.3425_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 119 |  |
 | Phase composition |  | 3043 | UO2±x; _UO2±x: O 0.6563, U 0.3437_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 120 |  |
 | Phase composition |  | 3045 | L1; _L1: O 0.6859, U 0.3141_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 65 |  |
 | Phase composition |  | 3045 | L1; _L1: O 0.6855, U 0.3145_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 66 |  |
-| Phase composition |  | 3045 | liquidus: 2.184; _liquid: O 0.6859, U 0.3141_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 19 |  |
+| Phase composition |  | 3045 | other: 2.184; _liquid: O 0.6859, U 0.3141_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 19 |  |
 | Phase composition |  | 3063 | L1; _L1: O 0.6512, U 0.3488_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 36 |  |
 | Phase composition |  | 3063 | L1; _L1: O 0.66689, U 0.33311_ | experimental | [1] Chevalier 2002; _cites Bates 1966_ | Table 4, p. 5, row 35 |  |
 | Phase composition |  | 3065 | L1; _L1: O 0.65777, U 0.34223_ | experimental | [1] Chevalier 2002; _cites Bates 1966_ | Table 4, p. 5, row 31 |  |
@@ -915,24 +898,24 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 3069 | UO2±x; _UO2±x: O 0.6602, U 0.3398_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 115 |  |
 | Phase composition |  | 3071 | L1; _L1: O 0.6801, U 0.3199_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 74 |  |
 | Phase composition |  | 3071 | L1; _L1: O 0.6795, U 0.3205_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 73 |  |
-| Phase composition |  | 3071 | liquidus: 2.120; _liquid: O 0.6795, U 0.3205_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 15 |  |
+| Phase composition |  | 3071 | other: 2.120; _liquid: O 0.6795, U 0.3205_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 15 |  |
 | Phase composition |  | 3076 | UO2±x; _UO2±x: O 0.6596, U 0.3404_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 112 |  |
 | Phase composition |  | 3076 | UO2±x; _UO2±x: O 0.6617, U 0.3383_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 111 |  |
 | Phase composition |  | 3077 | L1; _L1: O 0.6536, U 0.3464_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 34 |  |
 | Phase composition |  | 3077 | L1; _L1: O 0.66678, U 0.33322_ | experimental | [1] Chevalier 2002; _cites Bates 1966_ | Table 4, p. 5, row 33 |  |
 | Phase composition |  | 3078 | L1; _L1: O 0.6805, U 0.3195_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 69 |  |
 | Phase composition |  | 3078 | L1; _L1: O 0.6785, U 0.3215_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 70 |  |
-| Phase composition |  | 3078 | liquidus: 2.130; _liquid: O 0.6805, U 0.3195_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 17 |  |
+| Phase composition |  | 3078 | other: 2.130; _liquid: O 0.6805, U 0.3195_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 17 |  |
 | Phase composition |  | 3083 | L1; _L1: O 0.6547, U 0.3453_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 126 |  |
 | Phase composition |  | 3083 | L1; _L1: O 0.6499, U 0.3501_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 125 |  |
 | Phase composition |  | 3085 | UO2±x; _UO2±x: O 0.6691, U 0.3309_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 90 |  |
 | Phase composition |  | 3085 | UO2±x; _UO2±x: O 0.6733, U 0.3267_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 91 |  |
 | Phase composition |  | 3088 | L1; _L1: O 0.6761, U 0.3239_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 78 |  |
 | Phase composition |  | 3088 | L1; _L1: O 0.6769, U 0.3231_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 77 |  |
-| Phase composition |  | 3088 | liquidus: 2.095; _liquid: O 0.6769, U 0.3231_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 13 |  |
+| Phase composition |  | 3088 | other: 2.095; _liquid: O 0.6769, U 0.3231_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 13 |  |
 | Phase composition |  | 3090 | L1; _L1: O 0.6756, U 0.3244_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 82 |  |
 | Phase composition |  | 3090 | L1; _L1: O 0.6769, U 0.3231_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 81 |  |
-| Phase composition |  | 3090 | liquidus: 2.095; _liquid: O 0.6769, U 0.3231_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 11 |  |
+| Phase composition |  | 3090 | other: 2.095; _liquid: O 0.6769, U 0.3231_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 11 |  |
 | Phase composition |  | 3105 | L1; _L1: O 0.654, U 0.346_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 121 |  |
 | Phase composition |  | 3105 | L1; _L1: O 0.6591, U 0.3409_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 122 |  |
 | Phase composition |  | 3105 | UO2±x; _UO2±x: O 0.6625, U 0.3375_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 106 |  |
@@ -945,7 +928,7 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 3109 | L1; _L1: O 0.673, U 0.327_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 85 |  |
 | Phase composition |  | 3109 | UO2±x; _UO2±x: O 0.6688, U 0.3312_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 93 |  |
 | Phase composition |  | 3109 | UO2±x; _UO2±x: O 0.6691, U 0.3309_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 94 |  |
-| Phase composition |  | 3109 | liquidus: 2.058; _liquid: O 0.673, U 0.327_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 9 |  |
+| Phase composition |  | 3109 | other: 2.058; _liquid: O 0.673, U 0.327_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 9 |  |
 | Phase composition |  | 3113 | L1; _L1: O 0.661, U 0.339_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 118 |  |
 | Phase composition |  | 3113 | L1; _L1: O 0.6575, U 0.3425_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 117 |  |
 | Phase composition |  | 3118 | L1; _L1: O 0.6625, U 0.3375_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 114 |  |
@@ -955,17 +938,17 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 3120 | UO2±x; _UO2±x: O 0.6663, U 0.3337_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 99 |  |
 | Phase composition |  | 3120 | UO2±x; _UO2±x: O 0.6644, U 0.3356_ | model | [1] Chevalier 2002 | Table 4, p. 5, row 100 |  |
 | Phase composition |  | 3125 | L1; _L1: O 0.6688, U 0.3312_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 92 |  |
-| Phase composition |  | 3125 | liquidus: 2.019; _liquid: O 0.6688, U 0.3312_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 5 |  |
+| Phase composition |  | 3125 | other: 2.019; _liquid: O 0.6688, U 0.3312_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 5 |  |
 | Phase composition |  | 3130 | L1; _L1: O 0.6617, U 0.3383_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 110 |  |
 | Phase composition |  | 3133 | L1; _L1: O 0.6663, U 0.3337_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 101 |  |
 | Phase composition |  | 3133 | L1; _L1: O 0.6659, U 0.3341_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 104 |  |
 | Phase composition |  | 3133 | L1; _L1: O 0.6644, U 0.3356_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 107 |  |
 | Phase composition |  | 3135 | L1; _L1: O 0.6663, U 0.3337_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 98 |  |
-| Phase composition |  | 3135 | liquidus: 1.997; _liquid: O 0.6663, U 0.3337_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 1 |  |
+| Phase composition |  | 3135 | other: 1.997; _liquid: O 0.6663, U 0.3337_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 1 |  |
 | Phase composition |  | 3136 | L1; _L1: O 0.6691, U 0.3309_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 89 |  |
-| Phase composition |  | 3136 | liquidus: 2.022; _liquid: O 0.6691, U 0.3309_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 7 |  |
+| Phase composition |  | 3136 | other: 2.022; _liquid: O 0.6691, U 0.3309_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 7 |  |
 | Phase composition |  | 3138 | L1; _L1: O 0.6664, U 0.3336_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 95 |  |
-| Phase composition |  | 3138 | liquidus: 1.998; _liquid: O 0.6664, U 0.3336_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 3 |  |
+| Phase composition |  | 3138 | other: 1.998; _liquid: O 0.6664, U 0.3336_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 3 |  |
 
 ### Heat capacity / entropy / enthalpy (79)
 

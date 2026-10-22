@@ -1,29 +1,24 @@
 # HoNi: enthalpy of formation
 
-> Enthalpy of formation of HoNi: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of HoNi: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/HoNi.html · Markdown: https://data.orchid-project.org/compounds/HoNi.md
 
-11 accepted literature formation-enthalpy value(s) (experimental 4, model 7); experimental median -45.15 kJ/mol-atom (n = 4); Materials Project -45.179 kJ/mol-atom (mp-aaaaarop); OQMD -45.907 kJ/mol-atom (oqmd-18379).
+6 accepted literature formation-enthalpy value(s) (experimental 2, model 4); experimental median -45.15 kJ/mol-atom (n = 2); Materials Project -45.179 kJ/mol-atom (mp-aaaaarop); OQMD -45.907 kJ/mol-atom (oqmd-18379).
 
 Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of HoNi reported in the literature (11)
+Table: Enthalpy of formation of HoNi reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -48.6 kJ/mol-atom ± 0.77 | HoNi | 1476 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Gozzi 2005_ [doi](https://doi.org/10.1016/j.intermet.2005.03.002) | Table 3, p. 4, row 12 |  |
-| -48.6 kJ/mol-atom ± 0.77 | HoNi | 1476 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Gozzi 2005_ [doi](https://doi.org/10.1016/j.intermet.2005.03.002) | Table 3, p. 4, row 12 |  |
-| -41.7 kJ/mol-atom ± 1.4 | HoNi | 1476 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 11 |  |
 | -41.7 kJ/mol-atom ± 1.4 | HoNi | 1476 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 11 |  |
 | -48.8 kJ/mol-atom | HoNi | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 13 |  |
-| -48.8 kJ/mol-atom | HoNi | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 13 |  |
-| -48.23 kJ/mol-atom | HoNi | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 14 |  |
 | -48.23 kJ/mol-atom | HoNi | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 14 |  |
 | -48.23 kJ/mol-atom | NiHo | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 13 |  |
-| -45 kJ/mol-atom | HoNi | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 10 |  |
 | -45 kJ/mol-atom | HoNi | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 10 |  |
 
 ## DFT formation energies

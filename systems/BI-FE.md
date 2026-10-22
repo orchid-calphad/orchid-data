@@ -50,11 +50,11 @@ Table: Invariant reactions reported in the literature for the Bi–Fe system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1808.05 | Monotectic: L2 = L1 + δFe | L2: Fe 0.9743; L1: Fe 0.0419; δFe: Fe 0.9769 | model | [1] Boa 2008 | Table 7, p. 8, row 1 |  |
-| 1665.24 | Metatectic: δFe = L1 + γFe | δFe: Fe 0.9819; L1: Fe 0.0257; γFe: Fe 0.982 | model | [1] Boa 2008 | Table 7, p. 8, row 2 |  |
-| 1182.62 | Metatectic: γFe = L1 + αFe | γFe: Fe 0.9952; L1: Fe 0.0027; αFe: Fe 0.9954 | model | [1] Boa 2008 | Table 7, p. 8, row 3 |  |
-| 544.64 | Peritectic: L1 + αFe = (Bi) | L1: Fe 2.000e-9; αFe: Fe 0.9999; (Bi): Fe 5.000e-4 | model | [1] Boa 2008 | Table 7, p. 8, row 4 |  |
-| 544.63 | Peritectic: L1 + αFe = (Bi) |  | experimental | [1] Boa 2008 | Table 7, p. 8, row 5 |  |
+| 1808.05 | monotectic: L2 = L1 + δFe | L2: Fe 0.9743; L1: Fe 0.0419; δFe: Fe 0.9769 | model | [1] Boa 2008 | Table 7, p. 8, row 1 |  |
+| 1665.24 | metatectic/catatectic: δFe = L1 + γFe | δFe: Fe 0.9819; L1: Fe 0.0257; γFe: Fe 0.982 | model | [1] Boa 2008 | Table 7, p. 8, row 2 |  |
+| 1182.62 | metatectic/catatectic: γFe = L1 + αFe | γFe: Fe 0.9952; L1: Fe 0.0027; αFe: Fe 0.9954 | model | [1] Boa 2008 | Table 7, p. 8, row 3 |  |
+| 544.64 | peritectic: L1 + αFe = (Bi) | L1: Fe 2.000e-9; αFe: Fe 0.9999; (Bi): Fe 5.000e-4 | model | [1] Boa 2008 | Table 7, p. 8, row 4 |  |
+| 544.63 | peritectic: L1 + αFe = (Bi) |  | experimental | [1] Boa 2008 | Table 7, p. 8, row 5 |  |
 | 544.63 | peritectic: L + αFe = (Bi) |  | experimental | [1] Boa 2008 | p. 2 | “The invariant transformation that occurs at low temperature in the binary Bi-Fe system can be associated to the degenerated peritectic reaction: L + αFe = (Bi) at 544.63 K.” |
 | 544.6 | peritectic: L + αFe = (Bi) |  | experimental | [1] Boa 2008 | p. 12 | “The invariant transformation that occurs at low temperature in the binary Bi-Fe system is associated to the peritectic reaction: L + αFe = (Bi) at 544.6 ± 0.5 K.” |
 
@@ -71,7 +71,7 @@ Table: Phase transition, Bi–Fe system
 | Phase transition | 544.63 K | 544.63 | UNKNOWN; _alloy: Bi 0.8, Fe 0.2_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 2 |  |
 | Phase transition | 544.64 K | 544.64 | UNKNOWN; _alloy: Bi 0.6, Fe 0.4_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 3 |  |
 | Phase transition | 544.64 K | 544.64 | UNKNOWN; _alloy: Bi 0.2, Fe 0.8_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 5 |  |
-| Phase transition | 545 K | 545 | solidus | model | [2] Gossé 2014 | p. 3 | “At low temperature, the Bi rich solidus is calculated at 545 K but the nature of the reaction is not known.” |
+| Phase transition | 545 K | 545 | other | model | [2] Gossé 2014 | p. 3 | “At low temperature, the Bi rich solidus is calculated at 545 K but the nature of the reaction is not known.” |
 | Phase transition | 1185 K | 1185 |  | model | [2] Gossé 2014 | p. 3 | “At high temperature, the transition of a iron (ferrite, BCC) towards c iron (austenite, FCC) is calculated at 1185 K, and then the transition towards d iron (BCC) occurs at 1667 K.” |
 | Phase transition | 1667 K | 1667 |  | model | [2] Gossé 2014 | p. 3 | “At high temperature, the transition of a iron (ferrite, BCC) towards c iron (austenite, FCC) is calculated at 1185 K, and then the transition towards d iron (BCC) occurs at 1667 K.” |
 

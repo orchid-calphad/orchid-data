@@ -1,10 +1,10 @@
 # Se–Sn system
 
-> Se–Sn system: 143 accepted literature values (phase transition 50, phase equilibrium 39, invariant reaction 37, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Se–Sn system: 142 accepted literature values (phase transition 49, phase equilibrium 39, invariant reaction 37, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SE-SN.html · Markdown: https://data.orchid-project.org/systems/SE-SN.md
 
-143 accepted literature values from 1 paper(s) (experimental 116, model 12, unspecified 15); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+142 accepted literature values from 1 paper(s) (experimental 115, model 12, unspecified 15); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SE-SN.json) · [CSV](https://data.orchid-project.org/systems/SE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SE-SN) · [Markdown](https://data.orchid-project.org/systems/SE-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 116 |
+| experimental | 115 |
 | model | 12 |
 | unspecified | 15 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 37 |
-| phase transition | 50 |
+| phase transition | 49 |
 | phase equilibrium | 39 |
 | formation | 16 |
 | mixing / partial | 1 |
@@ -47,26 +47,26 @@ Table: Invariant reactions reported in the literature for the Se–Sn system (37
 | 903.9 | L2 \<-> βSnSe + SnSe2 | L2: Se 0.611; βSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | model | [1] Feutelais 1996 | Table 10, p. 9, row 23 |  |
 | 903 | L2 \<-> βSnSe + SnSe2 | βSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996; _cites Rouland 1976_ | Table 10, p. 9, row 19 |  |
 | 902.5 | L2 \<-> βSnSe + SnSe2 | L2: Se 0.613; βSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996 | Table 10, p. 9, row 22 |  |
-| 902.45 | E: L2 -> βSnSe + SnSe2 | L2: Se 0.613; βSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 4 |  |
+| 902.45 | eutectic: L2 -> βSnSe + SnSe2 | L2: Se 0.613; βSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 4 |  |
 | 898 | L2 \<-> βSnSe + SnSe2 | L2: Se 0.61; βSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | unspecified | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 10, p. 9, row 18 |  |
 | 813 | αSnSe \<-> L1 + βSnSe | αSnSe: Se 0.5, Sn 0.5; βSnSe: Se 0.5, Sn 0.5 | unspecified | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 10, p. 9, row 7 |  |
 | 813 | βSnSe \<-> αSnSe + SnSe2 | βSnSe: Se 0.5, Sn 0.5; αSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | unspecified | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 10, p. 9, row 24 |  |
 | 803 | αSnSe \<-> L1 + βSnSe | αSnSe: Se 0.5, Sn 0.5; βSnSe: Se 0.5, Sn 0.5 | experimental | [1] Feutelais 1996; _cites Rouland 1976_ | Table 10, p. 9, row 8 |  |
 | 803 | βSnSe \<-> αSnSe + SnSe2 | βSnSe: Se 0.5, Sn 0.5; αSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996; _cites Rouland 1976_ | Table 10, p. 9, row 25 |  |
 | 799.5 | αSnSe \<-> L1 + βSnSe | αSnSe: Se 0.5, Sn 0.5; L1: Se 0.025; βSnSe: Se 0.5, Sn 0.5 | experimental | [1] Feutelais 1996 | Table 10, p. 9, row 9 |  |
-| 799.45 | P: αSnSe -> L1 + βSnSe | αSnSe: Se 0.5, Sn 0.5 (basis unresolved); βSnSe: Se 0.5, Sn 0.5 (basis unresolved) | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 2 |  |
+| 799.45 | peritectic: αSnSe -> L1 + βSnSe | αSnSe: Se 0.5, Sn 0.5 (basis unresolved); βSnSe: Se 0.5, Sn 0.5 (basis unresolved) | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 2 |  |
 | 796.5 | βSnSe \<-> αSnSe + SnSe2 | βSnSe: Se 0.5, Sn 0.5; αSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | model | [1] Feutelais 1996 | Table 10, p. 9, row 27 |  |
 | 796.5 | αSnSe \<-> L1 + βSnSe | αSnSe: Se 0.5, Sn 0.5; L1: Se 0.008; βSnSe: Se 0.5, Sn 0.5 | model | [1] Feutelais 1996 | Table 10, p. 9, row 10 |  |
 | 793.4 | βSnSe \<-> αSnSe + SnSe2 | βSnSe: Se 0.5, Sn 0.5; αSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996 | Table 10, p. 9, row 26 |  |
-| 793.35 | E: βSnSe -> αSnSe + SnSe2 | βSnSe: Se 0.5, Sn 0.5; αSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 5 |  |
+| 793.35 | eutectic: βSnSe -> αSnSe + SnSe2 | βSnSe: Se 0.5, Sn 0.5; αSnSe: Se 0.5, Sn 0.5; SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 5 |  |
 | 506 | L1 \<-> βSn + αSnSe | αSnSe: Se 0.5, Sn 0.5 | unspecified | [1] Feutelais 1996; _cites ref. 09Bil_ | Table 10, p. 9, row 1 |  |
 | 505.1 | L1 \<-> βSn + αSnSe | αSnSe: Se 0.5, Sn 0.5 | model | [1] Feutelais 1996 | Table 10, p. 9, row 6 |  |
 | 505 | L1 \<-> βSn + αSnSe | αSnSe: Se 0.5, Sn 0.5 | experimental | [1] Feutelais 1996; _cites Rouland 1976_ | Table 10, p. 9, row 3 |  |
 | 505 | L1 \<-> βSn + αSnSe | αSnSe: Se 0.5, Sn 0.5 | unspecified | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 10, p. 9, row 2 |  |
 | 505 | L1 \<-> βSn + αSnSe | αSnSe: Se 0.5, Sn 0.5 | unspecified | [1] Feutelais 1996; _cites Kotchi 1987_ | Table 10, p. 9, row 4 |  |
 | 504.9 | L1 \<-> βSn + αSnSe | αSnSe: Se 0.5, Sn 0.5 | experimental | [1] Feutelais 1996 | Table 10, p. 9, row 5 |  |
-| 504.85 | E: L1 -> βSn + αSnSe | αSnSe: Se 0.5, Sn 0.5 | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 1 |  |
-| 493.05 | E: L2 -> SnSe2 + Se | SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 6 |  |
+| 504.85 | eutectic: L1 -> βSn + αSnSe | αSnSe: Se 0.5, Sn 0.5 | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 1 |  |
+| 493.05 | eutectic: L2 -> SnSe2 + Se | SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996 | Table 4, p. 3, row 6 |  |
 | 493 | L2 \<-> SnSe2 + Se | SnSe2: Se 0.666667, Sn 0.333333 | unspecified | [1] Feutelais 1996; _cites ref. 09Bil_ | Table 10, p. 9, row 28 |  |
 | 493 | L2 \<-> SnSe2 + Se | SnSe2: Se 0.666667, Sn 0.333333 | unspecified | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 10, p. 9, row 29 |  |
 | 493 | L2 \<-> SnSe2 + Se | SnSe2: Se 0.666667, Sn 0.333333 | experimental | [1] Feutelais 1996; _cites Rouland 1976_ | Table 10, p. 9, row 30 |  |
@@ -99,7 +99,7 @@ Table: Enthalpies of formation, Se–Sn system (16)
 
 ## Other properties
 
-### Phase transition (50)
+### Phase transition (49)
 
 Table: Phase transition, Se–Sn system
 
@@ -130,16 +130,15 @@ Table: Phase transition, Se–Sn system
 | Phase transition | 792.75 K | 792.75 | other: Invariants; _alloy: Se 0.6, Sn 0.4_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 56 |  |
 | Phase transition | 792.85 K | 792.85 | other: Invariants; _alloy: Se 0.56, Sn 0.44_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 44 |  |
 | Phase transition | 793.15 K | 793.15 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 2 |  |
-| Phase transition | 793.15 K | 793.15 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 4 |  |
 | Phase transition | 793.15 K | 793.15 | other: Invariants; _alloy: Se 0.63, Sn 0.37_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 61 |  |
 | Phase transition | 793.15 K | 793.15 | other: Invariants; _alloy: Se 0.57, Sn 0.43_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 47 |  |
 | Phase transition | 793.15 K | 793.15 | other: Invariants; _alloy: Se 0.58, Sn 0.42_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 50 |  |
 | Phase transition | 793.15 K | 793.15 | other: Invariants; _alloy: Se 0.61, Sn 0.39_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 58 |  |
 | Phase transition | 793.55 K | 793.55 | other: Invariants; _alloy: Se 0.53, Sn 0.47_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 38 |  |
 | Phase transition | 793.75 K | 793.75 | other: Invariants; _alloy: Se 0.55, Sn 0.45_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 41 |  |
-| Phase transition | 794.15 K | 794.15 | solidus: Solidus; _alloy: Se 0.505, Sn 0.495_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 33 |  |
-| Phase transition | 794.25 K | 794.25 | solidus: Solidus; _alloy: Se 0.51, Sn 0.49_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 36 |  |
-| Phase transition | 797.45 K | 797.45 | solidus: Solidus; _alloy: Se 0.495, Sn 0.505_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 27 |  |
+| Phase transition | 794.15 K | 794.15 | other: Solidus; _alloy: Se 0.505, Sn 0.495_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 33 |  |
+| Phase transition | 794.25 K | 794.25 | other: Solidus; _alloy: Se 0.51, Sn 0.49_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 36 |  |
+| Phase transition | 797.45 K | 797.45 | other: Solidus; _alloy: Se 0.495, Sn 0.505_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 27 |  |
 | Phase transition | 799.15 K | 799.15 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 3 |  |
 | Phase transition | 799.25 K | 799.25 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 5 |  |
 | Phase transition | 799.65 K | 799.65 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 1 |  |
@@ -163,44 +162,44 @@ Table: Phase equilibrium, Se–Sn system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 793.35 | polymorphic: αSnSe -> βSnSe; _αSnSe: Sn 0.5; βSnSe: Sn 0.5_ | experimental | [1] Feutelais 1996 | Table 5, p. 3, row 14 |  |
-| Phase composition |  | 794.25 | solidus: Solidus; _αSnSe: Se 0.5, Sn 0.5_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 30 |  |
+| Phase composition |  | 794.25 | other: Solidus; _αSnSe: Se 0.5, Sn 0.5_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 30 |  |
 | Phase composition |  | 799.45 | polymorphic: αSnSe -> βSnSe; _αSnSe: Sn 0.5; βSnSe: Sn 0.5_ | experimental | [1] Feutelais 1996 | Table 5, p. 3, row 15 |  |
-| Phase composition |  | 872.45 | liquidus: Liquidus; _liquid: Se 0.9, Sn 0.1_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 74 |  |
-| Phase composition |  | 886.95 | liquidus: Liquidus; _liquid: Se 0.85, Sn 0.15_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 72 |  |
-| Phase composition |  | 897.35 | liquidus: Liquidus; _liquid: Se 0.8, Sn 0.2_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 70 |  |
-| Phase composition |  | 908.15 | liquidus: Liquidus; _liquid: Se 0.75, Sn 0.25_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 68 |  |
-| Phase composition |  | 913.15 | liquidus: Liquidus; _liquid: Se 0.63, Sn 0.37_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 60 |  |
-| Phase composition |  | 915.55 | liquidus: Liquidus; _liquid: Se 0.7, Sn 0.3_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 66 |  |
-| Phase composition |  | 916.75 | liquidus: Liquidus; _liquid: Se 0.65, Sn 0.35_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 63 |  |
-| Phase composition |  | 918 | melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites ref. 06Pel_ | Table 3, p. 3, row 24 |  |
-| Phase composition |  | 918.2 | melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996 | Table 3, p. 3, row 37 |  |
-| Phase composition |  | 919.8 | melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | model | [1] Feutelais 1996 | Table 3, p. 3, row 39 |  |
-| Phase composition |  | 929 | melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites ref. 09Bil_ | Table 3, p. 3, row 26 |  |
-| Phase composition |  | 929 | melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites Aleshina 1982_ | Table 3, p. 3, row 33 |  |
-| Phase composition |  | 930 | melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 3, p. 3, row 28 |  |
-| Phase composition |  | 933.15 | liquidus: Liquidus; _liquid: Se 0.6, Sn 0.4_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 55 |  |
-| Phase composition |  | 948 | melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites A 1970_ | Table 3, p. 3, row 29 |  |
-| Phase composition |  | 963.15 | liquidus: Liquidus; _liquid: Se 0.59, Sn 0.41_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 52 |  |
-| Phase composition |  | 995.15 | liquidus: Liquidus; _liquid: Se 0.58, Sn 0.42_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 49 |  |
-| Phase composition |  | 1017.55 | liquidus: Liquidus; _liquid: Se 0.57, Sn 0.43_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 46 |  |
-| Phase composition |  | 1043.65 | liquidus: Liquidus; _liquid: Se 0.56, Sn 0.44_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 43 |  |
-| Phase composition |  | 1048.75 | liquidus: Liquidus; _liquid: Se 0.1, Sn 0.9_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 1 |  |
-| Phase composition |  | 1066.75 | liquidus: Liquidus; _liquid: Se 0.55, Sn 0.45_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 40 |  |
-| Phase composition |  | 1095.85 | liquidus: Liquidus; _liquid: Se 0.2, Sn 0.8_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 4 |  |
-| Phase composition |  | 1104.55 | liquidus: Liquidus; _liquid: Se 0.25, Sn 0.75_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 7 |  |
-| Phase composition |  | 1133 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 06Pel_ | Table 3, p. 3, row 23 |  |
-| Phase composition |  | 1134 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 09Bil_ | Table 3, p. 3, row 25 |  |
-| Phase composition |  | 1135 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 81Bal_ | Table 3, p. 3, row 31 |  |
-| Phase composition |  | 1135 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites Rouland 1976_ | Table 3, p. 3, row 30 |  |
-| Phase composition |  | 1138 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites Huifang 1992_ | Table 3, p. 3, row 34 |  |
-| Phase composition |  | 1138.15 | liquidus: Liquidus; _liquid: Se 0.51, Sn 0.49_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 35 |  |
-| Phase composition |  | 1138.65 | liquidus: Liquidus; _liquid: Se 0.49, Sn 0.51_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 22 |  |
-| Phase composition |  | 1144.05 | liquidus: Liquidus; _liquid: Se 0.505, Sn 0.495_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 32 |  |
-| Phase composition |  | 1144.65 | liquidus: Liquidus; _liquid: Se 0.495, Sn 0.505_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 26 |  |
-| Phase composition |  | 1145.7 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996 | Table 3, p. 3, row 36 |  |
-| Phase composition |  | 1146.9 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | model | [1] Feutelais 1996 | Table 3, p. 3, row 38 |  |
-| Phase composition |  | 1149 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites Yamaguchi 1994_ [doi](https://doi.org/10.2320/matertrans1989.35.118) | Table 3, p. 3, row 35 |  |
-| Phase composition |  | 1153 | melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 3, p. 3, row 27 |  |
+| Phase composition |  | 872.45 | other: Liquidus; _liquid: Se 0.9, Sn 0.1_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 74 |  |
+| Phase composition |  | 886.95 | other: Liquidus; _liquid: Se 0.85, Sn 0.15_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 72 |  |
+| Phase composition |  | 897.35 | other: Liquidus; _liquid: Se 0.8, Sn 0.2_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 70 |  |
+| Phase composition |  | 908.15 | other: Liquidus; _liquid: Se 0.75, Sn 0.25_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 68 |  |
+| Phase composition |  | 913.15 | other: Liquidus; _liquid: Se 0.63, Sn 0.37_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 60 |  |
+| Phase composition |  | 915.55 | other: Liquidus; _liquid: Se 0.7, Sn 0.3_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 66 |  |
+| Phase composition |  | 916.75 | other: Liquidus; _liquid: Se 0.65, Sn 0.35_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 63 |  |
+| Phase composition |  | 918 | congruent melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites ref. 06Pel_ | Table 3, p. 3, row 24 |  |
+| Phase composition |  | 918.2 | congruent melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996 | Table 3, p. 3, row 37 |  |
+| Phase composition |  | 919.8 | congruent melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | model | [1] Feutelais 1996 | Table 3, p. 3, row 39 |  |
+| Phase composition |  | 929 | congruent melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites ref. 09Bil_ | Table 3, p. 3, row 26 |  |
+| Phase composition |  | 929 | congruent melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites Aleshina 1982_ | Table 3, p. 3, row 33 |  |
+| Phase composition |  | 930 | congruent melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 3, p. 3, row 28 |  |
+| Phase composition |  | 933.15 | other: Liquidus; _liquid: Se 0.6, Sn 0.4_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 55 |  |
+| Phase composition |  | 948 | congruent melting: Sn0.33Se0.67; _liquid: Sn 0.33_ | experimental | [1] Feutelais 1996; _cites A 1970_ | Table 3, p. 3, row 29 |  |
+| Phase composition |  | 963.15 | other: Liquidus; _liquid: Se 0.59, Sn 0.41_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 52 |  |
+| Phase composition |  | 995.15 | other: Liquidus; _liquid: Se 0.58, Sn 0.42_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 49 |  |
+| Phase composition |  | 1017.55 | other: Liquidus; _liquid: Se 0.57, Sn 0.43_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 46 |  |
+| Phase composition |  | 1043.65 | other: Liquidus; _liquid: Se 0.56, Sn 0.44_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 43 |  |
+| Phase composition |  | 1048.75 | other: Liquidus; _liquid: Se 0.1, Sn 0.9_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 1 |  |
+| Phase composition |  | 1066.75 | other: Liquidus; _liquid: Se 0.55, Sn 0.45_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 40 |  |
+| Phase composition |  | 1095.85 | other: Liquidus; _liquid: Se 0.2, Sn 0.8_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 4 |  |
+| Phase composition |  | 1104.55 | other: Liquidus; _liquid: Se 0.25, Sn 0.75_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 7 |  |
+| Phase composition |  | 1133 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 06Pel_ | Table 3, p. 3, row 23 |  |
+| Phase composition |  | 1134 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 09Bil_ | Table 3, p. 3, row 25 |  |
+| Phase composition |  | 1135 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 81Bal_ | Table 3, p. 3, row 31 |  |
+| Phase composition |  | 1135 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites Rouland 1976_ | Table 3, p. 3, row 30 |  |
+| Phase composition |  | 1138 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites Huifang 1992_ | Table 3, p. 3, row 34 |  |
+| Phase composition |  | 1138.15 | other: Liquidus; _liquid: Se 0.51, Sn 0.49_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 35 |  |
+| Phase composition |  | 1138.65 | other: Liquidus; _liquid: Se 0.49, Sn 0.51_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 22 |  |
+| Phase composition |  | 1144.05 | other: Liquidus; _liquid: Se 0.505, Sn 0.495_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 32 |  |
+| Phase composition |  | 1144.65 | other: Liquidus; _liquid: Se 0.495, Sn 0.505_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 26 |  |
+| Phase composition |  | 1145.7 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996 | Table 3, p. 3, row 36 |  |
+| Phase composition |  | 1146.9 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | model | [1] Feutelais 1996 | Table 3, p. 3, row 38 |  |
+| Phase composition |  | 1149 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites Yamaguchi 1994_ [doi](https://doi.org/10.2320/matertrans1989.35.118) | Table 3, p. 3, row 35 |  |
+| Phase composition |  | 1153 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 3, p. 3, row 27 |  |
 
 ### Mixing / partial (1)
 

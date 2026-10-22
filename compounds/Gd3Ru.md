@@ -1,30 +1,24 @@
 # Gd3Ru: enthalpy of formation
 
-> Enthalpy of formation of Gd3Ru: 12 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Gd3Ru: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Gd3Ru.html · Markdown: https://data.orchid-project.org/compounds/Gd3Ru.md
 
-12 accepted literature formation-enthalpy value(s) (model 10, DFT 2); OQMD -27.234 kJ/mol-atom (oqmd-1437320).
+6 accepted literature formation-enthalpy value(s) (model 5, DFT 1); OQMD -27.234 kJ/mol-atom (oqmd-1437320).
 
 Systems: [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Gd3Ru reported in the literature (12)
+Table: Enthalpy of formation of Gd3Ru reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -26.599 kJ/mol-atom | Gd3Ru |  | model | Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 13 |  |
-| -26.599 kJ/mol-atom | Gd3Ru |  | model | Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 13 |  |
-| -23.258 kJ/mol-atom | Gd3Ru |  | model | Modified Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 14 |  |
 | -23.258 kJ/mol-atom | Gd3Ru |  | model | Modified Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 14 |  |
 | -21.447 kJ/mol-atom | Gd3Ru |  | model | OptimizationQM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 10 |  |
-| -21.447 kJ/mol-atom | Gd3Ru |  | model | OptimizationQM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 10 |  |
-| -15.612 kJ/mol-atom | Gd3Ru |  | model | OptimizationEM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 11 |  |
 | -15.612 kJ/mol-atom | Gd3Ru |  | model | OptimizationEM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 11 |  |
 | -15.131 kJ/mol-atom | Gd3Ru |  | model | OptimizationCM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 12 |  |
-| -15.131 kJ/mol-atom | Gd3Ru |  | model | OptimizationCM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 12 |  |
-| -27.175 kJ/mol-atom | Gd3Ru |  | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 15 |  |
 | -27.175 kJ/mol-atom | Gd3Ru |  | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 15 |  |
 
 ## DFT formation energies

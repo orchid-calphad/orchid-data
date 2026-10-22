@@ -53,7 +53,7 @@ Table: Phase transition, Ge–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 804.45 K | 804.45 | liquidus | experimental | [1] Feutelais 1996 | p. 2 | “In their study of the ternary system Au-Ge-Sn, (SZMOU\] obtained by DSC measurements on purified samples carefully weighed, an invariant temperature of 231.1"C and a liquidus temperature of 531.3"C for the composition Xsn = .90.” |
+| Phase transition | 804.45 K | 804.45 | other | experimental | [1] Feutelais 1996 | p. 2 | “In their study of the ternary system Au-Ge-Sn, (SZMOU\] obtained by DSC measurements on purified samples carefully weighed, an invariant temperature of 231.1"C and a liquidus temperature of 531.3"C for the composition Xsn = .90.” |
 
 ### Mixing / partial (14)
 
@@ -61,20 +61,20 @@ Table: Mixing / partial, Ge–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔH_Ge^∞_ | 40100.4 J.mol^{-1} |  | liquid | model | [1] Feutelais 1996 | Table 4, p. 7, row 5 |  |
-| Partial enthalpy; _printed: ΔH_Ge^∞_ | 41714.5 J.mol^{-1} | 623 | liquid | experimental | [1] Feutelais 1996; _cites ref. 66_ | Table 4, p. 7, row 2 |  |
-| Partial enthalpy; _printed: ΔH_Ge^∞_ | 41714.5 J.mol^{-1} | 623 | liquid | experimental | [1] Feutelais 1996; _cites ref. 62_ | Table 4, p. 7, row 1 |  |
-| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.35 kJ/mol at. ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 3 |  |
-| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.65 kJ/mol at. ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 1 |  |
-| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.1 kJ/mol at. ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 4 |  |
-| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 2.86 kJ/mol at. ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 2 |  |
-| Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.35 kJ/mol at. ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 3 |  |
-| Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.65 kJ/mol at. ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 1 |  |
-| Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.1 kJ/mol at. ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 4 |  |
-| Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 2.86 kJ/mol at. ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 2 |  |
-| Partial enthalpy; _printed: ΔH_Ge^∞_ | 40153.8 J.mol^{-1} | 963.5 | liquid | experimental | [1] Feutelais 1996; _cites ref. 66_ | Table 4, p. 7, row 3 |  |
-| Partial enthalpy; _printed: heat of solution_ | 3210 J.mol'1 | 973 |  | experimental | [3] Ansara 1979; _cites SCHMIEDL 1973_ | p. 4 | “MATHIEU (25) has measured the heat of solution of Ge in liquid tin at infinite dilution at973K and obtaineda value of 3210 J.mol'1 if the liquid elmentsare taken as reference state.” |
-| Partial enthalpy; _printed: ΔH_Ge^∞_ | 40333.8 J.mol^{-1} | 1083 | liquid | experimental | [1] Feutelais 1996; _cites ref. 79_ | Table 4, p. 7, row 4 |  |
+| Partial enthalpy; _printed: ΔH_Ge^∞_ | 40.1004 kJ/mol (basis unstated) |  | liquid | model | [1] Feutelais 1996 | Table 4, p. 7, row 5 |  |
+| Partial enthalpy; _printed: ΔH_Ge^∞_ | 41.7145 kJ/mol (basis unstated) | 623 | liquid | experimental | [1] Feutelais 1996; _cites ref. 66_ | Table 4, p. 7, row 2 |  |
+| Partial enthalpy; _printed: ΔH_Ge^∞_ | 41.7145 kJ/mol (basis unstated) | 623 | liquid | experimental | [1] Feutelais 1996; _cites ref. 62_ | Table 4, p. 7, row 1 |  |
+| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.35 kJ/mol-atom ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 3 |  |
+| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.65 kJ/mol-atom ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 1 |  |
+| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.1 kJ/mol-atom ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 4 |  |
+| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 2.86 kJ/mol-atom ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 2 |  |
+| Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.35 kJ/mol-atom ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 3 |  |
+| Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.65 kJ/mol-atom ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 1 |  |
+| Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.1 kJ/mol-atom ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 4 |  |
+| Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 2.86 kJ/mol-atom ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 2 |  |
+| Partial enthalpy; _printed: ΔH_Ge^∞_ | 40.1538 kJ/mol (basis unstated) | 963.5 | liquid | experimental | [1] Feutelais 1996; _cites ref. 66_ | Table 4, p. 7, row 3 |  |
+| Partial enthalpy; _printed: heat of solution_ | 3.21 kJ/mol (basis unstated) | 973 |  | experimental | [3] Ansara 1979; _cites SCHMIEDL 1973_ | p. 4 | “MATHIEU (25) has measured the heat of solution of Ge in liquid tin at infinite dilution at973K and obtaineda value of 3210 J.mol'1 if the liquid elmentsare taken as reference state.” |
+| Partial enthalpy; _printed: ΔH_Ge^∞_ | 40.3338 kJ/mol (basis unstated) | 1083 | liquid | experimental | [1] Feutelais 1996; _cites ref. 79_ | Table 4, p. 7, row 4 |  |
 
 ## Sources
 

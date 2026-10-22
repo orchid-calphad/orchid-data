@@ -36,16 +36,16 @@ Table: Phase transition, Ag–Sn–Zn system
 | Phase transition | 492.15 K | 492.15 | other: Sn60-Ag30-Zn10; _alloy: Ag 0.296996, Sn 0.539742, Zn 0.163262_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 31 |  |
 | Phase transition | 492.15 K | 492.15 | other: Sn70-Ag20-Zn10; _alloy: Ag 0.199804, Sn 0.635445, Zn 0.164752_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 19 |  |
 | Phase transition | 494.15 K | 494.15 | other: Sn90-Ag5-Zn5; _alloy: Sn 1_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 3 |  |
-| Phase transition | 587.75 K | 587.75 | liquidus: Sn90-Ag5-Zn5; _alloy: Sn 1_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 2 |  |
-| Phase transition | 604.15 K | 604.15 | liquidus: Sn90-Ag5-Zn5; _alloy: Sn 1_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 1 |  |
-| Phase transition | 679.15 K | 679.15 | liquidus: Sn70-Ag20-Zn10; _alloy: Ag 0.199804, Sn 0.635445, Zn 0.164752_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 18 |  |
-| Phase transition | 746.15 K | 746.15 | liquidus: Sn50-Ag30-Zn20; _alloy: Ag 0.276711, Sn 0.419066, Zn 0.304223_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 55 |  |
+| Phase transition | 587.75 K | 587.75 | other: Sn90-Ag5-Zn5; _alloy: Sn 1_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 2 |  |
+| Phase transition | 604.15 K | 604.15 | other: Sn90-Ag5-Zn5; _alloy: Sn 1_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 1 |  |
+| Phase transition | 679.15 K | 679.15 | other: Sn70-Ag20-Zn10; _alloy: Ag 0.199804, Sn 0.635445, Zn 0.164752_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 18 |  |
+| Phase transition | 746.15 K | 746.15 | other: Sn50-Ag30-Zn20; _alloy: Ag 0.276711, Sn 0.419066, Zn 0.304223_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 55 |  |
 | Phase transition | 762.15 K | 762.15 | other: Sn20-Ag40-Zn40; _alloy: Ag 0.32222, Sn 0.146396, Zn 0.531384_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 138 |  |
-| Phase transition | 775.15 K | 775.15 | liquidus: Sn40-Ag20-Zn40; _alloy: Ag 0.163516, Sn 0.297164, Zn 0.53932_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 74 |  |
-| Phase transition | 797.15 K | 797.15 | liquidus: Sn30-Ag40-Zn30; _alloy: Ag 0.342659, Sn 0.233523, Zn 0.423818_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 109 |  |
-| Phase transition | 805.15 K | 805.15 | liquidus: Sn20-Ag20-Zn60; _alloy: Ag 0.145856, Sn 0.132535, Zn 0.721609_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 141 |  |
-| Phase transition | 817.15 K | 817.15 | liquidus: Sn20-Ag40-Zn40; _alloy: Ag 0.32222, Sn 0.146396, Zn 0.531384_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 136 |  |
-| Phase transition | 818.15 K | 818.15 | liquidus: Sn20-Ag20-Zn60; _alloy: Ag 0.145856, Sn 0.132535, Zn 0.721609_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 140 |  |
+| Phase transition | 775.15 K | 775.15 | other: Sn40-Ag20-Zn40; _alloy: Ag 0.163516, Sn 0.297164, Zn 0.53932_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 74 |  |
+| Phase transition | 797.15 K | 797.15 | other: Sn30-Ag40-Zn30; _alloy: Ag 0.342659, Sn 0.233523, Zn 0.423818_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 109 |  |
+| Phase transition | 805.15 K | 805.15 | other: Sn20-Ag20-Zn60; _alloy: Ag 0.145856, Sn 0.132535, Zn 0.721609_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 141 |  |
+| Phase transition | 817.15 K | 817.15 | other: Sn20-Ag40-Zn40; _alloy: Ag 0.32222, Sn 0.146396, Zn 0.531384_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 136 |  |
+| Phase transition | 818.15 K | 818.15 | other: Sn20-Ag20-Zn60; _alloy: Ag 0.145856, Sn 0.132535, Zn 0.721609_ | experimental | [1] Ohtani 1999 | Table l, p. 2, row 140 |  |
 
 ## Sources
 

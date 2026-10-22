@@ -82,9 +82,9 @@ Table: Phase transition, Ag–Ge system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 923 K | 923 |  | experimental | [2] Chevalier 1988 | p. 4 | “The calculated temperature T = 923.4 K and composition xke = 0.249 are very near the mean experimental values T = 923 K, x,& = 0.247.” |
 | Phase transition | 923.4 K | 923.4 |  | model | [2] Chevalier 1988 | p. 4 | “The calculated temperature T = 923.4 K and composition xke = 0.249 are very near the mean experimental values T = 923 K, x,& = 0.247.” |
-| Phase transition | 1028 K | 1028 ({'op': '>', 'printed': 'T_s > 1028', 'value_K': 1028.0}) | solidus: 7.49 ± 0.742 at.% Ge solidus; _alloy: Ag 0.9251, Ge 0.0749_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 6 |  |
-| Phase transition | 1073 K | 1073 ({'op': '>', 'printed': 'T_s > 1073', 'value_K': 1073.0}) | solidus: 5.51 ± 0.748 at.% Ge solidus; _alloy: Ag 0.9449, Ge 0.0551_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 4 |  |
-| Phase transition | 1132 K | 1132 ({'op': '>', 'printed': 'T_s > 1132', 'value_K': 1132.0}) | solidus: 3.67 ± 0.649 at.% Ge solidus; _alloy: Ag 0.9633, Ge 0.0367_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 2 |  |
+| Phase transition | 1028 K | 1028 (>) | other: 7.49 ± 0.742 at.% Ge solidus; _alloy: Ag 0.9251, Ge 0.0749_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 6 |  |
+| Phase transition | 1073 K | 1073 (>) | other: 5.51 ± 0.748 at.% Ge solidus; _alloy: Ag 0.9449, Ge 0.0551_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 4 |  |
+| Phase transition | 1132 K | 1132 (>) | other: 3.67 ± 0.649 at.% Ge solidus; _alloy: Ag 0.9633, Ge 0.0367_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 2 |  |
 | Phase transition | 1235.08 K | 1235.08 |  | experimental | [2] Chevalier 1988; _cites S_ | p. 4 | “The value of dia Ai has been obtained by combining a linear approximation for 'GL - ' Gf," = 11296.8 - 9.146614T which yields a melting point for silver equa?o T' = 1235.08 K (18 1, and an assumption for the quantity \[20\] "GA"g- 'G,$: = - 30.OT which has been made and which takes the same value as that proposed by Kaufman \[20\] for C, Al, Ti, Cr, Mn, Fe, Co, Ni, Cu, Nb, MO and W.” |
 
 ### Phase equilibrium (3)
@@ -93,9 +93,9 @@ Table: Phase equilibrium, Ag–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1154 | liquidus: 7.49 ± 0.742 at.% Ge liquidus; _liquid: Ag 0.9251, Ge 0.0749_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 5 |  |
-| Phase composition |  | 1178 | liquidus: 5.51 ± 0.748 at.% Ge liquidus; _liquid: Ag 0.9449, Ge 0.0551_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 3 |  |
-| Phase composition |  | 1201 | liquidus: 3.67 ± 0.649 at.% Ge liquidus; _liquid: Ag 0.9633, Ge 0.0367_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 1 |  |
+| Phase composition |  | 1154 | other: 7.49 ± 0.742 at.% Ge liquidus; _liquid: Ag 0.9251, Ge 0.0749_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 5 |  |
+| Phase composition |  | 1178 | other: 5.51 ± 0.748 at.% Ge liquidus; _liquid: Ag 0.9449, Ge 0.0551_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 3 |  |
+| Phase composition |  | 1201 | other: 3.67 ± 0.649 at.% Ge liquidus; _liquid: Ag 0.9633, Ge 0.0367_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 1 |  |
 
 ## Sources
 

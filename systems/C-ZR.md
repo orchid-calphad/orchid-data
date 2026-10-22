@@ -73,23 +73,23 @@ Table: Phase transition, C–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3450 K | 3450 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Friederich 1925_ [doi](https://doi.org/10.1002/zaac.19251440118) | Table 3, p. 10, row 1 |  |
-| Phase transition | 3455 K | 3455 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Glaser 1953_ | Table 3, p. 10, row 3 |  |
-| Phase transition | 3530 K | 3530 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Wilhelm 1964_ | Table 3, p. 10, row 7 |  |
-| Phase transition | 3700 K | 3700 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Shunk 1969_ | Table 3, p. 10, row 13 |  |
-| Phase transition | 3700 K | 3700 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Sara 1965_ | Table 3, p. 10, row 8 |  |
-| Phase transition | 3700 K | 3700 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Farr 1962_ | Table 3, p. 10, row 5 |  |
-| Phase transition | 3700 K | 3700 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Kubaschewski-von 1976_ | Table 3, p. 10, row 15 |  |
-| Phase transition | 3700 K | 3700 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Storms 1967_ | Table 3, p. 10, row 10 |  |
-| Phase transition | 3700 K | 3700 | congruent: ZrCx (γ) congruent melting | model | [1] Guillermet 1995 | Table 3, p. 10, row 17 |  |
-| Phase transition | 3720 K | 3720 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Rudy 1967_ | Table 3, p. 10, row 11 |  |
-| Phase transition | 3720 K | 3720 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Rudy 1965_ | Table 3, p. 10, row 9 |  |
-| Phase transition | 3725 K | 3725 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Rudy 1975_ | Table 3, p. 10, row 12 |  |
-| Phase transition | 3784 K | 3784 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Agte 1930_ | Table 3, p. 10, row 2 |  |
-| Phase transition | 3810 K | 3810 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites ref. 63_ | Table 3, p. 10, row 14 |  |
-| Phase transition | 3813 K | 3813 | congruent: ZrCx (γ) congruent melting | model | [1] Guillermet 1995; _cites Okamoto_ | Table 3, p. 10, row 16 |  |
-| Phase transition | 3816 K | 3816 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Brownlee 1959_ | Table 3, p. 10, row 4 |  |
-| Phase transition | 4016 K | 4016 | congruent: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Paderno 1962_ | Table 3, p. 10, row 6 |  |
+| Phase transition | 3450 K | 3450 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Friederich 1925_ [doi](https://doi.org/10.1002/zaac.19251440118) | Table 3, p. 10, row 1 |  |
+| Phase transition | 3455 K | 3455 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Glaser 1953_ | Table 3, p. 10, row 3 |  |
+| Phase transition | 3530 K | 3530 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Wilhelm 1964_ | Table 3, p. 10, row 7 |  |
+| Phase transition | 3700 K | 3700 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Shunk 1969_ | Table 3, p. 10, row 13 |  |
+| Phase transition | 3700 K | 3700 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Sara 1965_ | Table 3, p. 10, row 8 |  |
+| Phase transition | 3700 K | 3700 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Farr 1962_ | Table 3, p. 10, row 5 |  |
+| Phase transition | 3700 K | 3700 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Kubaschewski-von 1976_ | Table 3, p. 10, row 15 |  |
+| Phase transition | 3700 K | 3700 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Storms 1967_ | Table 3, p. 10, row 10 |  |
+| Phase transition | 3700 K | 3700 | congruent transformation: ZrCx (γ) congruent melting | model | [1] Guillermet 1995 | Table 3, p. 10, row 17 |  |
+| Phase transition | 3720 K | 3720 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Rudy 1967_ | Table 3, p. 10, row 11 |  |
+| Phase transition | 3720 K | 3720 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Rudy 1965_ | Table 3, p. 10, row 9 |  |
+| Phase transition | 3725 K | 3725 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Rudy 1975_ | Table 3, p. 10, row 12 |  |
+| Phase transition | 3784 K | 3784 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Agte 1930_ | Table 3, p. 10, row 2 |  |
+| Phase transition | 3810 K | 3810 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites ref. 63_ | Table 3, p. 10, row 14 |  |
+| Phase transition | 3813 K | 3813 | congruent transformation: ZrCx (γ) congruent melting | model | [1] Guillermet 1995; _cites Okamoto_ | Table 3, p. 10, row 16 |  |
+| Phase transition | 3816 K | 3816 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Brownlee 1959_ | Table 3, p. 10, row 4 |  |
+| Phase transition | 4016 K | 4016 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Paderno 1962_ | Table 3, p. 10, row 6 |  |
 
 ### Phase equilibrium (9)
 

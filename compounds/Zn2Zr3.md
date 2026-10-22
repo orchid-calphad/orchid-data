@@ -1,22 +1,20 @@
 # Zn2Zr3: enthalpy of formation
 
-> Enthalpy of formation of Zn2Zr3: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Zn2Zr3: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Zn2Zr3.html · Markdown: https://data.orchid-project.org/compounds/Zn2Zr3.md
 
-5 accepted literature formation-enthalpy value(s) (model 3, DFT 2); Materials Project -18.32 kJ/mol-atom (mp-aaacqsdh).
+3 accepted literature formation-enthalpy value(s) (model 1, DFT 2); Materials Project -18.32 kJ/mol-atom (mp-aaacqsdh).
 
 Systems: [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Zn2Zr3 reported in the literature (5)
+Table: Enthalpy of formation of Zn2Zr3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -19.35 kJ/mol-atom | Zn2Zr3 | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 38 |  |
-| -19.35 kJ/mol-atom | Zn2Zr3 | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 40 |  |
-| -19.35 kJ/mol-atom | Zn2Zr3 | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 39 |  |
 | -20.96 kJ/mol-atom | Zn2Zr3 | 298 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 36 |  |
 | -17.74 kJ/mol-atom | Zn2Zr3 | 298 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 37 |  |
 

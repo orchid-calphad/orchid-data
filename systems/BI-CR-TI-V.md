@@ -64,17 +64,17 @@ Table: Crystal structure, Bi–Cr–Ti–V system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.4746 nm | 298.15 | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 0.4746 nm | 544.55 ({'op': '\<', 'printed': '\<271.4', 'value_K': 544.55}) | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.29503 nm | 1154.95 ({'op': '\<', 'printed': '\<881.8', 'value_K': 1154.95}) | (αTi); _alloy: Cr 0, Ti 1, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 1.0277 nm | 1270.95 ({'op': '\<', 'printed': '\<997.8', 'value_K': 1270.95}) | Bi9Ti8; _alloy: Cr 0, Ti 0.470588, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 0.408 nm | 1562.65 ({'op': '\<', 'printed': '\<1289.5', 'value_K': 1562.65}) | BiTi2; _alloy: Cr 0, Ti 0.666667, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 0.602 nm | 1609.15 ({'op': '\<', 'printed': '\<1336.0', 'value_K': 1609.15}) | BiTi3; _alloy: Cr 0, Ti 0.75, V 0_ | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 0.2884 nm | 2179.95 ({'op': '\<', 'printed': '\<1906.8', 'value_K': 2179.95}) | (Cr); _alloy: Cr 1, Ti 0, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.3025 nm | 2182.95 ({'op': '\<', 'printed': '\<1909.8', 'value_K': 2182.95}) | (V); _alloy: Cr 0, Ti 0, V 1_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 0.46836 nm | 1154.95 ({'op': '\<', 'printed': '\<881.8', 'value_K': 1154.95}) | (αTi); _alloy: Cr 0, Ti 1, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 0.7375 nm | 1270.95 ({'op': '\<', 'printed': '\<997.8', 'value_K': 1270.95}) | Bi9Ti8; _alloy: Cr 0, Ti 0.470588, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 1.457 nm | 1562.65 ({'op': '\<', 'printed': '\<1289.5', 'value_K': 1562.65}) | BiTi2; _alloy: Cr 0, Ti 0.666667, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.8204 nm | 1609.15 ({'op': '\<', 'printed': '\<1336.0', 'value_K': 1609.15}) | BiTi3; _alloy: Cr 0, Ti 0.75, V 0_ | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 0.4746 nm | 544.55 (\<) | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 0.29503 nm | 1154.95 (\<) | (αTi); _alloy: Cr 0, Ti 1, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 1.0277 nm | 1270.95 (\<) | Bi9Ti8; _alloy: Cr 0, Ti 0.470588, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 0.408 nm | 1562.65 (\<) | BiTi2; _alloy: Cr 0, Ti 0.666667, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 0.602 nm | 1609.15 (\<) | BiTi3; _alloy: Cr 0, Ti 0.75, V 0_ | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 0.2884 nm | 2179.95 (\<) | (Cr); _alloy: Cr 1, Ti 0, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 0.3025 nm | 2182.95 (\<) | (V); _alloy: Cr 0, Ti 0, V 1_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 0.46836 nm | 1154.95 (\<) | (αTi); _alloy: Cr 0, Ti 1, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2 |  |
+| Lattice c | 0.7375 nm | 1270.95 (\<) | Bi9Ti8; _alloy: Cr 0, Ti 0.470588, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 1.457 nm | 1562.65 (\<) | BiTi2; _alloy: Cr 0, Ti 0.666667, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 0.8204 nm | 1609.15 (\<) | BiTi3; _alloy: Cr 0, Ti 0.75, V 0_ | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
 
 ## Sources
 

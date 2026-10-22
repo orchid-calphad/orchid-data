@@ -29,9 +29,9 @@ Table: Phase transition, Au–In–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 701 K | 701 | congruent | model | [1] Liu 2003 | p. 5 | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
-| Phase transition | 704 K | 704 | congruent | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 2 | “What is known about this ternary compound is that it is a high-temperature phase with limited composition that melts congruently at 704 K.8” |
-| Phase transition | 704 K | 704 | congruent | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 5 | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
+| Phase transition | 701 K | 701 | congruent transformation | model | [1] Liu 2003 | p. 5 | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
+| Phase transition | 704 K | 704 | congruent transformation | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 2 | “What is known about this ternary compound is that it is a high-temperature phase with limited composition that melts congruently at 704 K.8” |
+| Phase transition | 704 K | 704 | congruent transformation | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 5 | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
 
 ## Sources
 

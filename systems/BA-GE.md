@@ -76,30 +76,30 @@ Table: Invariant reactions reported in the literature for the Ba–Ge system (27
 | 1323 | peritectic |  | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
 | 1228 | peritectic |  | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
 | 1213 | peritectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Two new compounds were observed: Ba5Ge3, peritectically formed at 1213 K and dimorphic Ba3Ge4, melting by peritectic reaction at 1188 K and transformed to low temperature form at about 613 K.” |
-| 1213 | Peritectic: Liq + Ba2Ge -> Ba5Ge3 | Liq: Ge 0.6; Ba2Ge: Ge 0.667; Ba5Ge3: Ge 0.625 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 6 |  |
-| 1201 | Peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.4389; BaGe2: Ge 0.333; Ba3Ge4: Ge 0.429 | model | [1] Benhafid 2019 | Table 7, p. 9, row 16 |  |
-| 1199 | Eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.4431; βBa3Ge4: Ge 0.429; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 14 |  |
-| 1192.91 | Peritectic: Liq + Ba2Ge -> Ba5Ge3 | Liq: Ge 0.5958; Ba2Ge: Ge 0.667; Ba5Ge3: Ge 0.625 | model | [1] Benhafid 2019 | Table 7, p. 9, row 7 |  |
-| 1188 | Peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.431; BaGe2: Ge 0.333; Ba3Ge4: Ge 0.429 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 15 |  |
+| 1213 | peritectic: Liq + Ba2Ge -> Ba5Ge3 | Liq: Ge 0.6; Ba2Ge: Ge 0.667; Ba5Ge3: Ge 0.625 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 6 |  |
+| 1201 | peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.4389; BaGe2: Ge 0.333; Ba3Ge4: Ge 0.429 | model | [1] Benhafid 2019 | Table 7, p. 9, row 16 |  |
+| 1199 | eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.4431; βBa3Ge4: Ge 0.429; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 14 |  |
+| 1192.91 | peritectic: Liq + Ba2Ge -> Ba5Ge3 | Liq: Ge 0.5958; Ba2Ge: Ge 0.667; Ba5Ge3: Ge 0.625 | model | [1] Benhafid 2019 | Table 7, p. 9, row 7 |  |
+| 1188 | peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.431; BaGe2: Ge 0.333; Ba3Ge4: Ge 0.429 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 15 |  |
 | 1188 | peritectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Two new compounds were observed: Ba5Ge3, peritectically formed at 1213 K and dimorphic Ba3Ge4, melting by peritectic reaction at 1188 K and transformed to low temperature form at about 613 K.” |
-| 1178 | Eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.44; βBa3Ge4: Ge 0.429; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 13 |  |
+| 1178 | eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.44; βBa3Ge4: Ge 0.429; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 13 |  |
 | 1178 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
-| 1168 | Eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.573; Ba5Ge3: Ge 0.625; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 9 |  |
+| 1168 | eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.573; Ba5Ge3: Ge 0.625; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 9 |  |
 | 1168 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
-| 1167 | Eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.575; Ba5Ge3: Ge 0.625; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 8 |  |
+| 1167 | eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.575; Ba5Ge3: Ge 0.625; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 8 |  |
 | 1088 | peritectic |  | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
-| 1088 | Peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.185; BaGe2: Ge 0.333; Ba6Ge25: Ge 0.194 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 19 |  |
-| 1082.78 | Peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.179; BaGe2: Ge 0.333; Ba6Ge25: Ge 0.194 | model | [1] Benhafid 2019 | Table 7, p. 9, row 20 |  |
-| 1081.63 | Eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.1748; Ba6Ge25: Ge 0.194; Ba8Ge43: Ge 0.157 | model | [1] Benhafid 2019 | Table 7, p. 9, row 22 |  |
-| 1081 | Eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.174; Ba6Ge25: Ge 0.194; Ba8Ge43: Ge 0.157 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 21 |  |
+| 1088 | peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.185; BaGe2: Ge 0.333; Ba6Ge25: Ge 0.194 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 19 |  |
+| 1082.78 | peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.179; BaGe2: Ge 0.333; Ba6Ge25: Ge 0.194 | model | [1] Benhafid 2019 | Table 7, p. 9, row 20 |  |
+| 1081.63 | eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.1748; Ba6Ge25: Ge 0.194; Ba8Ge43: Ge 0.157 | model | [1] Benhafid 2019 | Table 7, p. 9, row 22 |  |
+| 1081 | eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.174; Ba6Ge25: Ge 0.194; Ba8Ge43: Ge 0.157 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 21 |  |
 | 1081 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “According to this study, there is an eutectic reaction at 1081 K and 82.5 at.% Ge and the compound BaGe4 is designed as Ba6Ge25.” |
 | 1081 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
 | 1043 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Two eutectic reactions occur at the compositions of 4 at.% Ge at 838 K and 84 at.% Ge at 1043 K.” |
-| 934.79 | Eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.885; Ba: Ge 1; Ba2Ge: Ge 0.667 | model | [1] Benhafid 2019 | Table 7, p. 9, row 3 |  |
-| 913 | Eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.925; Ba: Ge 1; Ba2Ge: Ge 0.667 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 2 |  |
+| 934.79 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.885; Ba: Ge 1; Ba2Ge: Ge 0.667 | model | [1] Benhafid 2019 | Table 7, p. 9, row 3 |  |
+| 913 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.925; Ba: Ge 1; Ba2Ge: Ge 0.667 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 2 |  |
 | 913 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
 | 838 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Two eutectic reactions occur at the compositions of 4 at.% Ge at 838 K and 84 at.% Ge at 1043 K.” |
-| 818 | Eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.96; Ba: Ge 1; Ba2Ge: Ge 0.667 | experimental | [1] Benhafid 2019; _cites Andrianov 1966_ | Table 7, p. 9, row 1 |  |
+| 818 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.96; Ba: Ge 1; Ba2Ge: Ge 0.667 | experimental | [1] Benhafid 2019; _cites Andrianov 1966_ | Table 7, p. 9, row 1 |  |
 
 ## Other properties
 
@@ -110,17 +110,17 @@ Table: Phase transition, Ba–Ge system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 613 K | 613 | Ba3Ge4 | experimental | [1] Benhafid 2019 | p. 3 | “Two new compounds were observed: Ba5Ge3, peritectically formed at 1213 K and dimorphic Ba3Ge4, melting by peritectic reaction at 1188 K and transformed to low temperature form at about 613 K.” |
-| Phase transition | 1253 K | 1253 | Congruent: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 11 |  |
-| Phase transition | 1253 K | 1253 | Congruent: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 12 |  |
-| Phase transition | 1253 K | 1253 | congruent | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
-| Phase transition | 1273 K | 1273 | Congruent: Liq -> Ba2Ge; _Liq: Ge 0.667; Ba2Ge: Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 4 |  |
-| Phase transition | 1273 K | 1273 | congruent | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
-| Phase transition | 1273.2 K | 1273.2 | Congruent: Liq -> Ba2Ge; _Liq: Ge 0.667; Ba2Ge: Ge 0.667_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 5 |  |
-| Phase transition | 1378 K | 1378 | Congruent: Liq -> BaGe2; _Liq: Ge 0.333; BaGe2: Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 17 |  |
-| Phase transition | 1378 K | 1378 | congruent | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
-| Phase transition | 1378.69 K | 1378.69 | Congruent: Liq -> BaGe2; _Liq: Ge 0.333; BaGe2: Ge 0.333_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 18 |  |
-| Phase transition | 1428 K | 1428 | Congruent: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Massalski 1990_ | Table 7, p. 9, row 10 |  |
-| Phase transition | 1428 K | 1428 | congruent | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
+| Phase transition | 1253 K | 1253 | congruent melting: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 11 |  |
+| Phase transition | 1253 K | 1253 | congruent melting: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 12 |  |
+| Phase transition | 1253 K | 1253 | congruent transformation | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
+| Phase transition | 1273 K | 1273 | congruent melting: Liq -> Ba2Ge; _Liq: Ge 0.667; Ba2Ge: Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 4 |  |
+| Phase transition | 1273 K | 1273 | congruent transformation | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
+| Phase transition | 1273.2 K | 1273.2 | congruent melting: Liq -> Ba2Ge; _Liq: Ge 0.667; Ba2Ge: Ge 0.667_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 5 |  |
+| Phase transition | 1378 K | 1378 | congruent melting: Liq -> BaGe2; _Liq: Ge 0.333; BaGe2: Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 17 |  |
+| Phase transition | 1378 K | 1378 | congruent transformation | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
+| Phase transition | 1378.69 K | 1378.69 | congruent melting: Liq -> BaGe2; _Liq: Ge 0.333; BaGe2: Ge 0.333_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 18 |  |
+| Phase transition | 1428 K | 1428 | congruent melting: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Massalski 1990_ | Table 7, p. 9, row 10 |  |
+| Phase transition | 1428 K | 1428 | congruent transformation | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
 
 ### Crystal structure (78)
 

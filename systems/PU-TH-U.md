@@ -29,25 +29,25 @@ Table: Invariant reactions reported in the literature for the Pu–Th–U system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1923 | Critical point: L -> L1 + L2 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 4 |  |
+| 1923 | critical point: L -> L1 + L2 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 4 |  |
 | 1658 | monotectic: L1 \<-> β-Th + L2 |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 15 |  |
-| 1655 | Monotectic: L1 -> β-Th + L2 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 3 |  |
-| 1535 | Catatectic: β-Th -> α-Th + L |  | model | [1] Beneš 2014 | Table 4, p. 4, row 2 |  |
-| 1533 | catatectic: β-Th \<-> α-Th + L |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 14 |  |
-| 1384 | Eutectic: L -> α-Th + γ-U |  | model | [1] Beneš 2014 | Table 4, p. 4, row 1 |  |
+| 1655 | monotectic: L1 -> β-Th + L2 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 3 |  |
+| 1535 | metatectic/catatectic: β-Th -> α-Th + L |  | model | [1] Beneš 2014 | Table 4, p. 4, row 2 |  |
+| 1533 | metatectic/catatectic: β-Th \<-> α-Th + L |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 14 |  |
+| 1384 | eutectic: L -> α-Th + γ-U |  | model | [1] Beneš 2014 | Table 4, p. 4, row 1 |  |
 | 1367 | eutectic: L \<-> α-Th + γ-U |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 13 |  |
 | 887 | peritectic: L + (β-Th,Pu) \<-> Th3Pu7 |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 19 |  |
-| 883 | Peritectic: L + (β-Th,Pu) -> Th3Pu7 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 10 |  |
+| 883 | peritectic: L + (β-Th,Pu) -> Th3Pu7 |  | model | [1] Beneš 2014 | Table 4, p. 4, row 10 |  |
 | 875 | eutectic: L \<-> Th3Pu7 + (ϵ-Pu,Th) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 18 |  |
-| 874 | Eutectic: L -> Th3Pu7 + (ϵ-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 9 |  |
+| 874 | eutectic: L -> Th3Pu7 + (ϵ-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 9 |  |
 | 864 | eutectoid: (β-Th,Pu) \<-> Th3Pu7 + (α-Th,Pu) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 17 |  |
-| 858 | Eutectoid: (β-Th,Pu) -> Th3Pu7 + (α-Th,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 8 |  |
-| 857 | Quasi-peritectic: L + (β-Th,U,Pu) -> Th3Pu7 + (α-Th,U,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 12 |  |
-| 855 | Eutectic: L -> Th3Pu7 + (ϵ-Pu,γ-U,Th) + (α-Th,U,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 11 |  |
-| 783 | Peritectoid: Th3Pu7 + (ϵ-Pu,Th) -> (δ-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 7 |  |
+| 858 | eutectoid: (β-Th,Pu) -> Th3Pu7 + (α-Th,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 8 |  |
+| 857 | quasi-peritectic: L + (β-Th,U,Pu) -> Th3Pu7 + (α-Th,U,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 12 |  |
+| 855 | eutectic: L -> Th3Pu7 + (ϵ-Pu,γ-U,Th) + (α-Th,U,Pu) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 11 |  |
+| 783 | peritectoid: Th3Pu7 + (ϵ-Pu,Th) -> (δ-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 7 |  |
 | 774 | peritectoid: Th3Pu7 + (ϵ-Pu,Th) \<-> (δ-Pu,Th) |  | experimental | [1] Beneš 2014 | Table 4, p. 4, row 16 |  |
-| 764 | Peritectoid: (δ-Pu,Th) + (ϵ-Pu,Th) -> (δ'-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 6 |  |
-| 575 | Eutectoid: (δ-Pu,Th) -> Th3Pu7 + γ-Pu |  | model | [1] Beneš 2014 | Table 4, p. 4, row 5 |  |
+| 764 | peritectoid: (δ-Pu,Th) + (ϵ-Pu,Th) -> (δ'-Pu,Th) |  | model | [1] Beneš 2014 | Table 4, p. 4, row 6 |  |
+| 575 | eutectoid: (δ-Pu,Th) -> Th3Pu7 + γ-Pu |  | model | [1] Beneš 2014 | Table 4, p. 4, row 5 |  |
 
 ## Formation enthalpies
 

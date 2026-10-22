@@ -1,23 +1,21 @@
 # Nb5Si3: enthalpy of formation
 
-> Enthalpy of formation of Nb5Si3: 42 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Nb5Si3: 40 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Nb5Si3.html · Markdown: https://data.orchid-project.org/compounds/Nb5Si3.md
 
-42 accepted literature formation-enthalpy value(s) (experimental 10, model 28, DFT 2, unspecified 2); experimental median -64.6 kJ/mol-atom (n = 10); Materials Project -62.965 kJ/mol-atom (mp-aaaaaugk); OQMD -65.593 kJ/mol-atom (oqmd-3572).
+40 accepted literature formation-enthalpy value(s) (experimental 8, model 28, DFT 2, unspecified 2); experimental median -64.2 kJ/mol-atom (n = 8); Materials Project -62.965 kJ/mol-atom (mp-aaaaaugk); OQMD -65.593 kJ/mol-atom (oqmd-3572).
 
 Systems: [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) · [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Nb5Si3 reported in the literature (42)
+Table: Enthalpy of formation of Nb5Si3 reported in the literature (40)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -65.379 kJ/mol-atom | αNb5Si3 | 298 | experimental |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Fernandes 2002; _cites Nunes_ | Table 3, p. 6, row 5 |  |
 | -64.6 kJ/mol-atom ± 2.4 | Nb5Si3 | 298 | experimental | Calorimetry | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 9 |  |
-| -64.6 kJ/mol-atom ± 2.4 | Nb5Si3 | 298 | experimental | Calorimetry | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 9 |  |
-| -64.6 kJ/mol-atom ± 19.2 | α(Nb5Si3) | 273.15 | experimental | Calorimetry | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [3] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 2 |  |
 | -64.6 kJ/mol-atom ± 19.2 | α(Nb5Si3) | 273.15 | experimental | Calorimetry | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [3] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 2 |  |
 | -64.6 kJ/mol-atom | αNb5Si3 | 298 | experimental |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Fernandes 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 3 |  |
 | -63.8 kJ/mol-atom | αNb5Si3 | 298.15 | experimental |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006; _cites Gorelkin 1972_ | Table 7, p. 8, row 1 |  |

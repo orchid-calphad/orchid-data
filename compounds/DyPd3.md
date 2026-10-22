@@ -1,20 +1,19 @@
 # DyPd3: enthalpy of formation
 
-> Enthalpy of formation of DyPd3: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of DyPd3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/DyPd3.html · Markdown: https://data.orchid-project.org/compounds/DyPd3.md
 
-3 accepted literature formation-enthalpy value(s) (model 3); Materials Project -86.399 kJ/mol-atom (mp-aaaaaber); OQMD -86.219 kJ/mol-atom (oqmd-18314).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -86.399 kJ/mol-atom (mp-aaaaaber); OQMD -86.219 kJ/mol-atom (oqmd-18314).
 
 Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of DyPd3 reported in the literature (3)
+Table: Enthalpy of formation of DyPd3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -79.821 kJ/mol-atom | Pd3Dy | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 5 |  |
 | -79.821 kJ/mol-atom | Pd3Dy | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 5 |  |
 | -48.326 kJ/mol-atom | Pd3Dy | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 75 |  |
 

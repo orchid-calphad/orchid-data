@@ -115,7 +115,7 @@ Table: Phase transition, Nb–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3073 K | 3073 | congruent | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2 | “Knapton also noted the congruent melting of χ at 3073 K \[6\].” |
+| Phase transition | 3073 K | 3073 | congruent transformation | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2 | “Knapton also noted the congruent melting of χ at 3073 K \[6\].” |
 
 ### Formation (12)
 

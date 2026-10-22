@@ -1,10 +1,10 @@
 # Ga–U system
 
-> Ga–U system: 52 accepted literature values (invariant reaction 30, phase equilibrium 17, crystal structure 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–U system: 50 accepted literature values (invariant reaction 28, phase equilibrium 17, crystal structure 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-U.html · Markdown: https://data.orchid-project.org/systems/GA-U.md
 
-52 accepted literature values from 2 paper(s) (experimental 46, unspecified 6); 2 calculated phase diagram(s).
+50 accepted literature values from 2 paper(s) (experimental 44, unspecified 6); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-U.json) · [CSV](https://data.orchid-project.org/systems/GA-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-U/GaU-08Wan.json) · [Markdown](https://data.orchid-project.org/systems/GA-U.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
+| experimental | 44 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 30 |
+| invariant reaction | 28 |
 | phase transition | 2 |
 | phase equilibrium | 17 |
 | crystal structure | 3 |
@@ -64,12 +64,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–U system (30)
+Table: Invariant reactions reported in the literature for the Ga–U system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1628.15 | Congruent: L -> Ga2U | L: Ga 0.667; Ga2U: Ga 0.666667, U 0.333333 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 6 |  |
-| 1628.15 | Congruent: L -> Ga2U | L: Ga 0.667; Ga2U: Ga 0.666667, U 0.333333 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 5 |  |
+| 1628.15 | congruent melting: L -> Ga2U | L: Ga 0.667; Ga2U: Ga 0.666667, U 0.333333 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 6 |  |
+| 1628.15 | congruent melting: L -> Ga2U | L: Ga 0.667; Ga2U: Ga 0.666667, U 0.333333 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 5 |  |
 | 1628 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 4 |  |
 | 1623 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 11 |  |
 | 1621 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 6 |  |
@@ -77,27 +77,25 @@ Table: Invariant reactions reported in the literature for the Ga–U system (30)
 | 1560 | UGa3 -> UGa2 + L | UGa3: Ga 0.75, U 0.25 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 1 |  |
 | 1548 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 5 |  |
 | 1545 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 3 |  |
-| 1533.15 | Peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.483; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 4 |  |
-| 1533.15 | Peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.445; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 3 |  |
+| 1533.15 | peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.483; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 4 |  |
+| 1533.15 | peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.445; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 3 |  |
 | 1533 | peritectic: U-richest phase -> UGa2 + liquid |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “According to \[15\] this U-richest phase has a peritectic decomposition at 1533 K yielding UGa2 and liquid.” |
-| 1523.15 | Peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 7 |  |
-| 1523.15 | Peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 8 |  |
+| 1523.15 | peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 7 |  |
+| 1523.15 | peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 8 |  |
 | 1523 | peritectic: UGa3 -> UGa2 + L |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “According to \[15\] it decomposes by peritectic reaction at 1523 K as UGa3 / UGa2 þ L.” |
 | 1509 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 10 |  |
 | 1411 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 15 |  |
-| 1303.15 | Eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.214; γ (U): Ga 0.099; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 2 |  |
-| 1303.15 | Eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.22; γ (U): Ga 0.092; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 1 |  |
+| 1303.15 | eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.214; γ (U): Ga 0.099; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 2 |  |
+| 1303.15 | eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.22; γ (U): Ga 0.092; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 1 |  |
 | 1303 | eutectic |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “The liquidus was drawn by joining the experimental points measured by DTA \[15\] revealing an eutectic composition at about 22 at.% Ga with a melting point about 1303 K.” |
 | 1293 | U3Ga5 + γU -> L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 14 |  |
-| 1293 | U3Ga5 + γU -> L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 9 |  |
 | 1009 | βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 8 |  |
-| 1008.15 | Eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.01; Ga3U2: Ga 0.6; β (U): Ga 0.001 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 9 |  |
+| 1008.15 | eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.01; Ga3U2: Ga 0.6; β (U): Ga 0.001 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 9 |  |
 | 1008 | βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 13 |  |
-| 1007.15 | Eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.03; Ga3U2: Ga 0.6; β (U): Ga 0.001 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 10 |  |
-| 933.15 | Eutectoid: β (U) -> Ga3U2 + α (U) | β (U): Ga 5.000e-4; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 12 |  |
-| 933.15 | Eutectoid: β (U) -> Ga3U2 + α (U) | Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 11 |  |
+| 1007.15 | eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.03; Ga3U2: Ga 0.6; β (U): Ga 0.001 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 10 |  |
+| 933.15 | eutectoid: β (U) -> Ga3U2 + α (U) | β (U): Ga 5.000e-4; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 12 |  |
+| 933.15 | eutectoid: β (U) -> Ga3U2 + α (U) | Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 11 |  |
 | 932 | αU -> βU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 7 |  |
-| 932 | αU -> βU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 12 |  |
 
 ## Other properties
 
@@ -108,7 +106,7 @@ Table: Phase transition, Ga–U system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 80 K | 80 | UGa2 | experimental | [2] Moussa 2018; _cites Andreev 1978_ | p. 2 | “It crystallizes with the hexagonal AlB2 type of structure as suggested by Buschow \[15\], latter confirmed by Ref. \[17\] at least down to 80 K, a temperature at which a hexagonal to orthorhombic transition associated to magnetic ordering is supposed to occur \[20\].” |
-| Phase transition | 1628 K | 1628 | congruent | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “This assumption is in disagreement with the DTA measurements \[15\], which does not show any transition below the congruent melting of UGa2 estimated at 1628 K and the crystallographic analysis of a single crystal directly grown from the melt which shows the AlB2 type of structure \[22\].” |
+| Phase transition | 1628 K | 1628 | congruent transformation | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2 | “This assumption is in disagreement with the DTA measurements \[15\], which does not show any transition below the congruent melting of UGa2 estimated at 1628 K and the crystallographic analysis of a single crystal directly grown from the melt which shows the AlB2 type of structure \[22\].” |
 
 ### Phase equilibrium (17)
 

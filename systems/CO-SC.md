@@ -57,28 +57,28 @@ Table: Invariant reactions reported in the literature for the Co–Sc system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1814.15 | Melting: L ↔ βSc | βSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 2 |  |
-| 1814.15 | Melting: L ↔ βSc | βSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 1 |  |
-| 1793.15 | Melting: L ↔ Co2Sc |  | model | [1] Liu 2008 | Table 2, p. 4, row 16 |  |
-| 1793.15 | Melting: L ↔ Co2Sc |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 15 |  |
-| 1768.15 | Melting: L ↔ αCo | αCo: Sc 0 | model | [1] Liu 2008 | Table 2, p. 4, row 20 |  |
-| 1768.15 | Melting: L ↔ αCo | αCo: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 19 |  |
-| 1610.15 | Polymorphic: βSc ↔ αSc | αSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 3 |  |
-| 1610.15 | Polymorphic: βSc ↔ αSc | αSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 4 |  |
-| 1413.15 | E: L ↔ Co2Sc + αCo | L: Sc 0.137; Co2Sc: Sc 0.31; αCo: Sc 0.006 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 17 |  |
-| 1413.15 | E: L ↔ Co2Sc + αCo | L: Sc 0.142; Co2Sc: Sc 0.31; αCo: Sc 0.013 | model | [1] Liu 2008 | Table 2, p. 4, row 18 |  |
-| 1323.15 | P: L + Co2Sc ↔ CoSc | L: Sc 0.542; Co2Sc: Sc 0.364; CoSc: Sc 0.48 | model | [1] Liu 2008 | Table 2, p. 4, row 14 |  |
-| 1323.15 | P: L + Co2Sc ↔ CoSc | Co2Sc: Sc 0.36; CoSc: Sc 0.48 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 13 |  |
-| 1143.15 | P: L + αSc ↔ CoSc3 | L: Sc 0.768; αSc: Sc 0.999; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 6 |  |
-| 1143.15 | P: L + αSc ↔ CoSc3 | αSc: Sc 0.997; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 5 |  |
-| 1113.15 | Melting: L ↔ CoSc2 | L: Sc 0.667; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 10 |  |
-| 1113.15 | Melting: L ↔ CoSc2 | L: Sc 0.667; CoSc2: Sc 0.667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 9 |  |
-| 1093.15 | E: L ↔ CoSc + CoSc2 | L: Sc 0.63; CoSc: Sc 0.48; CoSc2: Sc 0.667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 11 |  |
-| 1092.15 | E: L ↔ CoSc + CoSc2 | L: Sc 0.639; CoSc: Sc 0.48; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 12 |  |
-| 1046.15 | E: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 8 |  |
-| 1043.15 | E: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 7 |  |
-| 695.15 | Polymorphic: αCo ↔ εCo | εCo: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 21 |  |
-| 694.15 | Polymorphic: αCo ↔ εCo | εCo: Sc 0 | model | [1] Liu 2008 | Table 2, p. 4, row 22 |  |
+| 1814.15 | congruent melting: L ↔ βSc | βSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 2 |  |
+| 1814.15 | congruent melting: L ↔ βSc | βSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 1 |  |
+| 1793.15 | congruent melting: L ↔ Co2Sc |  | model | [1] Liu 2008 | Table 2, p. 4, row 16 |  |
+| 1793.15 | congruent melting: L ↔ Co2Sc |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 15 |  |
+| 1768.15 | congruent melting: L ↔ αCo | αCo: Sc 0 | model | [1] Liu 2008 | Table 2, p. 4, row 20 |  |
+| 1768.15 | congruent melting: L ↔ αCo | αCo: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 19 |  |
+| 1610.15 | polymorphic: βSc ↔ αSc | αSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 3 |  |
+| 1610.15 | polymorphic: βSc ↔ αSc | αSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 4 |  |
+| 1413.15 | eutectic: L ↔ Co2Sc + αCo | L: Sc 0.137; Co2Sc: Sc 0.31; αCo: Sc 0.006 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 17 |  |
+| 1413.15 | eutectic: L ↔ Co2Sc + αCo | L: Sc 0.142; Co2Sc: Sc 0.31; αCo: Sc 0.013 | model | [1] Liu 2008 | Table 2, p. 4, row 18 |  |
+| 1323.15 | peritectic: L + Co2Sc ↔ CoSc | L: Sc 0.542; Co2Sc: Sc 0.364; CoSc: Sc 0.48 | model | [1] Liu 2008 | Table 2, p. 4, row 14 |  |
+| 1323.15 | peritectic: L + Co2Sc ↔ CoSc | Co2Sc: Sc 0.36; CoSc: Sc 0.48 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 13 |  |
+| 1143.15 | peritectic: L + αSc ↔ CoSc3 | L: Sc 0.768; αSc: Sc 0.999; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 6 |  |
+| 1143.15 | peritectic: L + αSc ↔ CoSc3 | αSc: Sc 0.997; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 5 |  |
+| 1113.15 | congruent melting: L ↔ CoSc2 | L: Sc 0.667; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 10 |  |
+| 1113.15 | congruent melting: L ↔ CoSc2 | L: Sc 0.667; CoSc2: Sc 0.667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 9 |  |
+| 1093.15 | eutectic: L ↔ CoSc + CoSc2 | L: Sc 0.63; CoSc: Sc 0.48; CoSc2: Sc 0.667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 11 |  |
+| 1092.15 | eutectic: L ↔ CoSc + CoSc2 | L: Sc 0.639; CoSc: Sc 0.48; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 12 |  |
+| 1046.15 | eutectic: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 8 |  |
+| 1043.15 | eutectic: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 7 |  |
+| 695.15 | polymorphic: αCo ↔ εCo | εCo: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 21 |  |
+| 694.15 | polymorphic: αCo ↔ εCo | εCo: Sc 0 | model | [1] Liu 2008 | Table 2, p. 4, row 22 |  |
 
 ## Sources
 

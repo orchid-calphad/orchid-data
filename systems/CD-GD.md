@@ -1,10 +1,10 @@
 # Cd–Gd system
 
-> Cd–Gd system: 97 accepted literature values (invariant reaction 77, formation 15, activity / EMF / Gibbs energy 4, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Gd system: 94 accepted literature values (invariant reaction 74, formation 15, activity / EMF / Gibbs energy 4, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-GD.html · Markdown: https://data.orchid-project.org/systems/CD-GD.md
 
-97 accepted literature values from 2 paper(s) (experimental 43, model 46, unspecified 8); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+94 accepted literature values from 2 paper(s) (experimental 43, model 43, unspecified 8); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-GD.json) · [CSV](https://data.orchid-project.org/systems/CD-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-GD/CdGd-01Kur.json) · [Markdown](https://data.orchid-project.org/systems/CD-GD.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 43 |
-| model | 46 |
+| model | 43 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 77 |
+| invariant reaction | 74 |
 | phase transition | 1 |
 | formation | 15 |
 | activity / EMF / Gibbs energy | 4 |
@@ -103,87 +103,84 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cd–Gd system (77)
+Table: Invariant reactions reported in the literature for the Cd–Gd system (74)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1443.15 | Congruent melting: CdGd -> L | CdGd: Cd 0.5 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 7 |  |
+| 1443.15 | congruent melting: CdGd -> L | CdGd: Cd 0.5 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 7 |  |
 | 1443 | liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 45 |  |
 | 1443 | liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 46 |  |
 | 1425 | liq. -> CdGd | liq.: Gd 0.005035; CdGd: Cd 0.5, Gd 0.5 | model | [2] Liu 2019 | Table 2, p. 8, row 43 |  |
-| 1423.15 | Congruent melting: CdGd -> L | CdGd: Cd 0.5 | model | [1] Azza 2024 | Table 3, p. 7, row 9 |  |
-| 1420.15 | Congruent melting: CdGd -> L | CdGd: Cd 0.5 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 8 |  |
+| 1423.15 | congruent melting: CdGd -> L | CdGd: Cd 0.5 | model | [1] Azza 2024 | Table 3, p. 7, row 9 |  |
+| 1420.15 | congruent melting: CdGd -> L | CdGd: Cd 0.5 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 8 |  |
 | 1420 | liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 44 |  |
 | 1420 | liq. -> CdGd | liq.: Gd 0.00503; CdGd: Cd 0.5, Gd 0.5 | model | [2] Liu 2019 | Table 2, p. 8, row 42 |  |
-| 1283.15 | Peritectic: L + CdGd -> β- Cd2Gd | L: Cd 0.672; CdGd: Cd 0.5; β- Cd2Gd: Cd 0.667 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 14 |  |
+| 1283.15 | peritectic: L + CdGd -> β- Cd2Gd | L: Cd 0.672; CdGd: Cd 0.5; β- Cd2Gd: Cd 0.667 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 14 |  |
 | 1283 | liq. + CdGd -> β-Cd2Gd | CdGd: Cd 0.5, Gd 0.5; β-Cd2Gd: Cd 0.666667, Gd 0.333333 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 5 |  |
 | 1283 | liq. + CdGd -> β-Cd2Gd | CdGd: Cd 0.5, Gd 0.5; β-Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 4 |  |
-| 1271.15 | Peritectic: L + CdGd -> β- Cd2Gd | L: Cd 0.683; CdGd: Cd 0.512; β- Cd2Gd: Cd 0.661 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 15 |  |
+| 1271.15 | peritectic: L + CdGd -> β- Cd2Gd | L: Cd 0.683; CdGd: Cd 0.512; β- Cd2Gd: Cd 0.661 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 15 |  |
 | 1271 | liq. + CdGd -> β-Cd2Gd | liq.: Gd 0.002949; CdGd: Gd 0.005815; β-Cd2Gd: Gd 0.003343 | model | [2] Liu 2019 | Table 2, p. 8, row 1 |  |
 | 1271 | liq. + CdGd -> β-Cd2Gd | liq.: Gd 0.00317; CdGd: Gd 0.00488; β-Cd2Gd: Gd 0.00339 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 3 |  |
 | 1270 | liq. + CdGd -> β-Cd2Gd | liq.: Gd 0.003139; CdGd: Gd 0.004764; β-Cd2Gd: Gd 0.00335 | model | [2] Liu 2019 | Table 2, p. 8, row 2 |  |
 | 1269 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 9 |  |
-| 1268.15 | Polymorphic transformation: α- Cd2Gd -> β- Cd2Gd | α- Cd2Gd: Cd 0.666667, Gd 0.333333; β- Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 10 |  |
+| 1268.15 | polymorphic: α- Cd2Gd -> β- Cd2Gd | α- Cd2Gd: Cd 0.666667, Gd 0.333333; β- Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 10 |  |
 | 1268 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 10 |  |
-| 1267.95 | Peritectic: L + CdGd -> β- Cd2Gd | L: Cd 0.659; CdGd: Cd 0.512; β- Cd2Gd: Cd 0.642 | model | [1] Azza 2024 | Table 3, p. 7, row 16 |  |
-| 1262.25 | Peritectoid: β- Cd2Gd + CdGd -> α- Cd2Gd | β- Cd2Gd: Cd 0.642; CdGd: Cd 0.513; α- Cd2Gd: Cd 0.642 | model | [1] Azza 2024 | Table 3, p. 7, row 12 |  |
-| 1259.15 | Polymorphic transformation: α- Cd2Gd -> β- Cd2Gd | α- Cd2Gd: Cd 0.666667, Gd 0.333333; β- Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 11 |  |
+| 1267.95 | peritectic: L + CdGd -> β- Cd2Gd | L: Cd 0.659; CdGd: Cd 0.512; β- Cd2Gd: Cd 0.642 | model | [1] Azza 2024 | Table 3, p. 7, row 16 |  |
+| 1262.25 | peritectoid: β- Cd2Gd + CdGd -> α- Cd2Gd | β- Cd2Gd: Cd 0.642; CdGd: Cd 0.513; α- Cd2Gd: Cd 0.642 | model | [1] Azza 2024 | Table 3, p. 7, row 12 |  |
+| 1259.15 | polymorphic: α- Cd2Gd -> β- Cd2Gd | α- Cd2Gd: Cd 0.666667, Gd 0.333333; β- Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 11 |  |
 | 1259 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | model | [2] Liu 2019 | Table 2, p. 8, row 6 |  |
-| 1259 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | model | [2] Liu 2019 | Table 2, p. 8, row 7 |  |
 | 1259 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 8 |  |
-| 1257.25 | Metatectic: β- Cd2Gd -> L + α- Cd2Gd | β- Cd2Gd: Cd 0.645; L: Cd 0.681; α- Cd2Gd: Cd 0.649 | model | [1] Azza 2024 | Table 3, p. 7, row 13 |  |
-| 1210.15 | Eutectic: L -> CdGd + (βGd) | L: Cd 0.27; CdGd: Cd 0.5; (βGd): Cd 0.22 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 4 |  |
+| 1257.25 | metatectic/catatectic: β- Cd2Gd -> L + α- Cd2Gd | β- Cd2Gd: Cd 0.645; L: Cd 0.681; α- Cd2Gd: Cd 0.649 | model | [1] Azza 2024 | Table 3, p. 7, row 13 |  |
+| 1210.15 | eutectic: L -> CdGd + (βGd) | L: Cd 0.27; CdGd: Cd 0.5; (βGd): Cd 0.22 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 4 |  |
 | 1210 | liq. -> CdGd + bcc | liq.: Gd 0.008354; CdGd: Gd 0.005281; bcc: Gd 0.008858 | model | [2] Liu 2019 | Table 2, p. 8, row 11 |  |
 | 1210 | liq. -> CdGd + bcc | liq.: Gd 0.0073; CdGd: Cd 0.5, Gd 0.5 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 15 |  |
 | 1193 | liq. -> CdGd + bcc | CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 14 |  |
-| 1168.15 | Eutectic: L -> CdGd + (βGd) | L: Cd 0.265; CdGd: Cd 0.49; (βGd): Cd 0.226 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 5 |  |
+| 1168.15 | eutectic: L -> CdGd + (βGd) | L: Cd 0.265; CdGd: Cd 0.49; (βGd): Cd 0.226 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 5 |  |
 | 1168 | liq. -> CdGd + bcc | liq.: Gd 0.007631; CdGd: Gd 0.0047; bcc: Gd 0.008329 | model | [2] Liu 2019 | Table 2, p. 8, row 12 |  |
 | 1168 | liq. -> CdGd + bcc | liq.: Gd 0.00735; CdGd: Gd 0.0051; bcc: Gd 0.00774 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 13 |  |
-| 1166.05 | Eutectic: L -> CdGd + (βGd) | L: Cd 0.269; CdGd: Cd 0.493; (βGd): Cd 0.223 | model | [1] Azza 2024 | Table 3, p. 7, row 6 |  |
-| 1102.95 | Peritectic: L + α- Cd2Gd -> Cd3Gd | L: Cd 0.789; α- Cd2Gd: Cd 0.666; Cd3Gd: Cd 0.75 | model | [1] Azza 2024 | Table 3, p. 7, row 19 |  |
-| 1092.15 | Peritectic: L + α- Cd2Gd -> Cd3Gd | L: Cd 0.79; α- Cd2Gd: Cd 0.671; Cd3Gd: Cd 0.75 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 18 |  |
+| 1166.05 | eutectic: L -> CdGd + (βGd) | L: Cd 0.269; CdGd: Cd 0.493; (βGd): Cd 0.223 | model | [1] Azza 2024 | Table 3, p. 7, row 6 |  |
+| 1102.95 | peritectic: L + α- Cd2Gd -> Cd3Gd | L: Cd 0.789; α- Cd2Gd: Cd 0.666; Cd3Gd: Cd 0.75 | model | [1] Azza 2024 | Table 3, p. 7, row 19 |  |
+| 1092.15 | peritectic: L + α- Cd2Gd -> Cd3Gd | L: Cd 0.79; α- Cd2Gd: Cd 0.671; Cd3Gd: Cd 0.75 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 18 |  |
 | 1092 | liq. + α-Cd2Gd -> Cd3Gd | liq.: Gd 0.0021; α-Cd2Gd: Gd 0.00329; Cd3Gd: Gd 0.0025 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 23 |  |
 | 1092 | liq. + α-Cd2Gd -> Cd3Gd | liq.: Gd 0.001571; α-Cd2Gd: Gd 0.002992; Cd3Gd: Gd 0.0025 | model | [2] Liu 2019 | Table 2, p. 8, row 22 |  |
 | 1092 | liq. + α-Cd2Gd -> Cd3Gd | liq.: Gd 0.001549; α-Cd2Gd: Gd 0.002984; Cd3Gd: Gd 0.0025 | model | [2] Liu 2019 | Table 2, p. 8, row 21 |  |
-| 1088.15 | Peritectic: L + α- Cd2Gd -> Cd3Gd | L: Cd 0.79; α- Cd2Gd: Cd 0.667; Cd3Gd: Cd 0.75 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 17 |  |
+| 1088.15 | peritectic: L + α- Cd2Gd -> Cd3Gd | L: Cd 0.79; α- Cd2Gd: Cd 0.667; Cd3Gd: Cd 0.75 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 17 |  |
 | 1088 | liq. + α-Cd2Gd -> Cd3Gd | α-Cd2Gd: Cd 0.666667, Gd 0.333333; Cd3Gd: Cd 0.75, Gd 0.25 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 24 |  |
 | 1088 | liq. + α-Cd2Gd -> Cd3Gd | α-Cd2Gd: Cd 0.666667, Gd 0.333333; Cd3Gd: Cd 0.75, Gd 0.25 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 25 |  |
-| 1081.15 | Peritectic: L + Cd3Gd -> Cd45Gd11 | L: Cd 0.815; Cd3Gd: Cd 0.75; Cd45Gd11: Cd 0.802 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 21 |  |
+| 1081.15 | peritectic: L + Cd3Gd -> Cd45Gd11 | L: Cd 0.815; Cd3Gd: Cd 0.75; Cd45Gd11: Cd 0.802 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 21 |  |
 | 1081 | liq. + Cd3Gd -> Cd45Gd11 | liq.: Gd 0.00149; Cd3Gd: Gd 0.0025; Cd45Gd11: Gd 0.001933 | model | [2] Liu 2019 | Table 2, p. 8, row 27 |  |
 | 1081 | liq. + Cd3Gd -> Cd45Gd11 | liq.: Gd 0.001476; Cd3Gd: Gd 0.0025; Cd45Gd11: Gd 0.001933 | model | [2] Liu 2019 | Table 2, p. 8, row 26 |  |
 | 1081 | liq. + Cd3Gd -> Cd45Gd11 | liq.: Gd 0.00185; Cd3Gd: Gd 0.0025; Cd45Gd11: Gd 0.00198 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 28 |  |
-| 1079.15 | Peritectic: L + Cd3Gd -> Cd45Gd11 | L: Cd 0.816; Cd3Gd: Cd 0.75; Cd45Gd11: Cd 0.804 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 20 |  |
+| 1079.15 | peritectic: L + Cd3Gd -> Cd45Gd11 | L: Cd 0.816; Cd3Gd: Cd 0.75; Cd45Gd11: Cd 0.804 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 20 |  |
 | 1079 | liq. + Cd3Gd -> Cd45Gd11 | Cd3Gd: Cd 0.75, Gd 0.25; Cd45Gd11: Cd 0.803571, Gd 0.196429 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 29 |  |
-| 1076.15 | Peritectic: L + Cd45Gd11 -> Cd58Gd13 | L: Cd 0.824; Cd45Gd11: Cd 0.804; Cd58Gd13: Cd 0.817 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 23 |  |
-| 1055.75 | Peritectic: L + Cd3Gd -> Cd45Gd11 | L: Cd 0.824; Cd3Gd: Cd 0.75; Cd45Gd11: Cd 0.81 | model | [1] Azza 2024 | Table 3, p. 7, row 22 |  |
+| 1076.15 | peritectic: L + Cd45Gd11 -> Cd58Gd13 | L: Cd 0.824; Cd45Gd11: Cd 0.804; Cd58Gd13: Cd 0.817 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 23 |  |
+| 1055.75 | peritectic: L + Cd3Gd -> Cd45Gd11 | L: Cd 0.824; Cd3Gd: Cd 0.75; Cd45Gd11: Cd 0.81 | model | [1] Azza 2024 | Table 3, p. 7, row 22 |  |
 | 1035 | bcc -> CdGd + hcp | bcc: Gd 0.008977; CdGd: Gd 0.005271; hcp: Gd 0.009695 | model | [2] Liu 2019 | Table 2, p. 8, row 16 |  |
-| 1018.15 | Eutectoid: (βGd) -> CdGd + (αGd) | (βGd): Cd 0.191; CdGd: Cd 0.496; (αGd): Cd 0.046 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 2 |  |
+| 1018.15 | eutectoid: (βGd) -> CdGd + (αGd) | (βGd): Cd 0.191; CdGd: Cd 0.496; (αGd): Cd 0.046 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 2 |  |
 | 1018 | bcc -> CdGd + hcp | bcc: Gd 0.00809; CdGd: Gd 0.00504; hcp: Gd 0.00954 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 18 |  |
-| 1017.95 | Eutectoid: (βGd) -> CdGd + (αGd) | (βGd): Cd 0.155; CdGd: Cd 0.489; (αGd): Cd 0.085 | model | [1] Azza 2024 | Table 3, p. 7, row 3 |  |
+| 1017.95 | eutectoid: (βGd) -> CdGd + (αGd) | (βGd): Cd 0.155; CdGd: Cd 0.489; (αGd): Cd 0.085 | model | [1] Azza 2024 | Table 3, p. 7, row 3 |  |
 | 1010 | bcc -> CdGd + hcp | bcc: Gd 0.008607; CdGd: Gd 0.005281; hcp: Gd 0.009489 | model | [2] Liu 2019 | Table 2, p. 8, row 17 |  |
-| 1003.15 | Peritectic: L + Cd45Gd11 -> Cd6Gd | L: Cd 0.882; Cd45Gd11: Cd 0.817; Cd6Gd: Cd 0.857 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 25 |  |
+| 1003.15 | peritectic: L + Cd45Gd11 -> Cd6Gd | L: Cd 0.882; Cd45Gd11: Cd 0.817; Cd6Gd: Cd 0.857 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 25 |  |
 | 1003 | liq. + Cd45Gd11 -> Cd6Gd | liq.: Gd 0.00118; Cd45Gd11: Gd 0.00183; Cd6Gd: Gd 0.00143 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 32 |  |
 | 1003 | liq. + Cd45Gd11 -> Cd6Gd | liq.: Gd 8.320e-4; Cd45Gd11: Gd 0.001765; Cd6Gd: Gd 0.001429 | model | [2] Liu 2019 | Table 2, p. 8, row 31 |  |
 | 1000 | liq. + Cd45Gd11 -> Cd6Gd | liq.: Gd 8.170e-4; Cd45Gd11: Gd 0.001773; Cd6Gd: Gd 0.001429 | model | [2] Liu 2019 | Table 2, p. 8, row 30 |  |
-| 998.15 | Eutectoid: (βGd) -> CdGd + (αGd) | (βGd): Cd 0.16; CdGd: Cd 0.5 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 1 |  |
+| 998.15 | eutectoid: (βGd) -> CdGd + (αGd) | (βGd): Cd 0.16; CdGd: Cd 0.5 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 1 |  |
 | 998 | bcc -> CdGd + hcp | bcc: Gd 0.0084; CdGd: Cd 0.5, Gd 0.5 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 20 |  |
 | 998 | bcc -> CdGd + hcp | CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 19 |  |
-| 989.15 | Peritectic: L + Cd58Gd13 -> Cd6Gd | L: Cd 0.886; Cd58Gd13: Cd 0.817; Cd6Gd: Cd 0.857 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 24 |  |
-| 967.15 | Peritectic: L + Cd45Gd11 -> Cd6Gd | L: Cd 0.895; Cd45Gd11: Cd 0.827; Cd6Gd: Cd 0.845 | model | [1] Azza 2024 | Table 3, p. 7, row 26 |  |
-| 852.65 | Peritectic: L + Cd6Gd -> Cd8Gd | L: Cd 0.944; Cd6Gd: Cd 0.856; Cd8Gd: Cd 0.889 | model | [1] Azza 2024 | Table 3, p. 7, row 29 |  |
+| 989.15 | peritectic: L + Cd58Gd13 -> Cd6Gd | L: Cd 0.886; Cd58Gd13: Cd 0.817; Cd6Gd: Cd 0.857 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 24 |  |
+| 967.15 | peritectic: L + Cd45Gd11 -> Cd6Gd | L: Cd 0.895; Cd45Gd11: Cd 0.827; Cd6Gd: Cd 0.845 | model | [1] Azza 2024 | Table 3, p. 7, row 26 |  |
+| 852.65 | peritectic: L + Cd6Gd -> Cd8Gd | L: Cd 0.944; Cd6Gd: Cd 0.856; Cd8Gd: Cd 0.889 | model | [1] Azza 2024 | Table 3, p. 7, row 29 |  |
 | 738.15 | peritectic |  | experimental | [1] Azza 2024 | p. 2 | “A new compound was reported a stoichiometry of ''GdCd8'', decomposing peritectically at 465 C.” |
-| 738.15 | Peritectic: L + Cd6Gd -> Cd8Gd | L: Cd 0.99; Cd6Gd: Cd 0.857; Cd8Gd: Cd 0.889 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 28 |  |
+| 738.15 | peritectic: L + Cd6Gd -> Cd8Gd | L: Cd 0.99; Cd6Gd: Cd 0.857; Cd8Gd: Cd 0.889 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 28 |  |
 | 738 | liq. + Cd6Gd -> Cd8Gd | liq.: Gd 1.000e-4; Cd6Gd: Gd 0.00143; Cd8Gd: Gd 0.00113 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 35 |  |
 | 738 | liq. + Cd6Gd -> Cd8Gd | liq.: Gd 1.500e-5; Cd6Gd: Gd 0.001429; Cd8Gd: Gd 0.001111 | model | [2] Liu 2019 | Table 2, p. 8, row 34 |  |
 | 738 | liq. + Cd6Gd -> Cd8Gd | liq.: Gd 4.700e-5; Cd6Gd: Gd 0.001429; Cd8Gd: Gd 0.001111 | model | [2] Liu 2019 | Table 2, p. 8, row 33 |  |
 | 600 | Cd45Gd11 + Cd6Gd -> Cd58Gd13 | Cd45Gd11: Gd 0.001964; Cd6Gd: Gd 0.001429; Cd58Gd13: Gd 0.001831 | model | [2] Liu 2019 | Table 2, p. 8, row 37 |  |
-| 600 | Cd45Gd11 + Cd6Gd -> Cd58Gd13 | Cd45Gd11: Gd 0.001964; Cd6Gd: Gd 0.001429; Cd58Gd13: Gd 0.001831 | model | [2] Liu 2019 | Table 2, p. 8, row 36 |  |
 | 594 | liq. -> hcp + Cd8Gd | liq.: Gd 0; hcp: Gd 0; Cd8Gd: Gd 0.001111 | model | [2] Liu 2019 | Table 2, p. 8, row 39 |  |
-| 594 | liq. -> hcp + Cd8Gd | liq.: Gd 0; hcp: Gd 0; Cd8Gd: Gd 0.001111 | model | [2] Liu 2019 | Table 2, p. 8, row 40 |  |
-| 593.15 | Eutectic: L -> (Cd) + Cd8Gd | L: Cd 0.998; (Cd): Cd 1; Cd8Gd: Cd 0.889 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 30 |  |
+| 593.15 | eutectic: L -> (Cd) + Cd8Gd | L: Cd 0.998; (Cd): Cd 1; Cd8Gd: Cd 0.889 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 30 |  |
 | 593 | liq. -> hcp + Cd8Gd | liq.: Gd 2.000e-5; hcp: Gd 0; Cd8Gd: Gd 0.00113 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 41 |  |
-| 592.15 | Eutectic: L -> (Cd) + Cd8Gd | L: Cd 0.996; (Cd): Cd 1; Cd8Gd: Cd 0.889 | model | [1] Azza 2024 | Table 3, p. 7, row 31 |  |
-| 589.15 | Eutectic: L -> (Cd) + Cd6Gd | L: Cd 0.975; (Cd): Cd 1; Cd6Gd: Cd 0.857 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 27 |  |
+| 592.15 | eutectic: L -> (Cd) + Cd8Gd | L: Cd 0.996; (Cd): Cd 1; Cd8Gd: Cd 0.889 | model | [1] Azza 2024 | Table 3, p. 7, row 31 |  |
+| 589.15 | eutectic: L -> (Cd) + Cd6Gd | L: Cd 0.975; (Cd): Cd 1; Cd6Gd: Cd 0.857 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 27 |  |
 
 ## Formation enthalpies
 

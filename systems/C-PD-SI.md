@@ -26,15 +26,15 @@ Table: Invariant reactions reported in the literature for the C–Pd–Si system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1638 | U: liq. + graphite(C) -> βPd2Si + SiC | L: C 9.000e-4, Pd 0.6275, Si 0.3716; liquid: C 9.000e-4, Pd 0.6275, Si 0.3716 | unspecified | [1] Du 2006 | Table 4, p. 4, row 4 |  |
-| 1363 | U: liq. + βPd2Si -> αPd2Si + SiC | L: C 0, Pd 0.5508, Si 0.4492; liquid: C 0, Pd 0.5508, Si 0.4492 | unspecified | [1] Du 2006 | Table 4, p. 4, row 5 |  |
-| 1353 | U: liq. + αPd2Si -> Pd39Si20 + SiC | L: C 0, Pd 0.5487, Si 0.4513; liquid: C 0, Pd 0.5487, Si 0.4513 | unspecified | [1] Du 2006 | Table 4, p. 4, row 6 |  |
-| 1345 | U: liq. + Pd39Si20 -> Pd19Si10 + SiC | L: C 0, Pd 0.5469, Si 0.4531; liquid: C 0, Pd 0.5469, Si 0.4531 | unspecified | [1] Du 2006 | Table 4, p. 4, row 7 |  |
-| 1337 | U: liq. + βPd2Si -> graphite(C) + Pd3Si | L: C 4.000e-4, Pd 0.7609, Si 0.2387; liquid: C 4.000e-4, Pd 0.7609, Si 0.2387 | unspecified | [1] Du 2006 | Table 4, p. 4, row 3 |  |
-| 1164 | E: liq. -> Pd19Si10 + SiC + PdSi | L: C 0, Pd 0.5074, Si 0.4926; liquid: C 0, Pd 0.5074, Si 0.4926 | unspecified | [1] Du 2006 | Table 4, p. 4, row 8 |  |
-| 1138 | E: liq. -> diamond(Si) + SiC + PdSi | L: C 0, Pd 0.4819, Si 0.5181; liquid: C 0, Pd 0.4819, Si 0.5181 | unspecified | [1] Du 2006 | Table 4, p. 4, row 9 |  |
-| 1092 | E: liq. -> graphite(C) + Pd3Si + Pd5Si | L: C 3.000e-4, Pd 0.817, Si 0.1827; liquid: C 3.000e-4, Pd 0.817, Si 0.1827 | unspecified | [1] Du 2006 | Table 4, p. 4, row 2 |  |
-| 1092 | U: liq. + graphite(C) -> fcc(Pd) + Pd5Si | L: C 0.001, Pd 0.8492, Si 0.1498; liquid: C 0.001, Pd 0.8492, Si 0.1498 | unspecified | [1] Du 2006 | Table 4, p. 4, row 1 |  |
+| 1638 | quasi-peritectic: liq. + graphite(C) -> βPd2Si + SiC | L: C 9.000e-4, Pd 0.6275, Si 0.3716; liquid: C 9.000e-4, Pd 0.6275, Si 0.3716 | unspecified | [1] Du 2006 | Table 4, p. 4, row 4 |  |
+| 1363 | quasi-peritectic: liq. + βPd2Si -> αPd2Si + SiC | L: C 0, Pd 0.5508, Si 0.4492; liquid: C 0, Pd 0.5508, Si 0.4492 | unspecified | [1] Du 2006 | Table 4, p. 4, row 5 |  |
+| 1353 | quasi-peritectic: liq. + αPd2Si -> Pd39Si20 + SiC | L: C 0, Pd 0.5487, Si 0.4513; liquid: C 0, Pd 0.5487, Si 0.4513 | unspecified | [1] Du 2006 | Table 4, p. 4, row 6 |  |
+| 1345 | quasi-peritectic: liq. + Pd39Si20 -> Pd19Si10 + SiC | L: C 0, Pd 0.5469, Si 0.4531; liquid: C 0, Pd 0.5469, Si 0.4531 | unspecified | [1] Du 2006 | Table 4, p. 4, row 7 |  |
+| 1337 | quasi-peritectic: liq. + βPd2Si -> graphite(C) + Pd3Si | L: C 4.000e-4, Pd 0.7609, Si 0.2387; liquid: C 4.000e-4, Pd 0.7609, Si 0.2387 | unspecified | [1] Du 2006 | Table 4, p. 4, row 3 |  |
+| 1164 | eutectic: liq. -> Pd19Si10 + SiC + PdSi | L: C 0, Pd 0.5074, Si 0.4926; liquid: C 0, Pd 0.5074, Si 0.4926 | unspecified | [1] Du 2006 | Table 4, p. 4, row 8 |  |
+| 1138 | eutectic: liq. -> diamond(Si) + SiC + PdSi | L: C 0, Pd 0.4819, Si 0.5181; liquid: C 0, Pd 0.4819, Si 0.5181 | unspecified | [1] Du 2006 | Table 4, p. 4, row 9 |  |
+| 1092 | eutectic: liq. -> graphite(C) + Pd3Si + Pd5Si | L: C 3.000e-4, Pd 0.817, Si 0.1827; liquid: C 3.000e-4, Pd 0.817, Si 0.1827 | unspecified | [1] Du 2006 | Table 4, p. 4, row 2 |  |
+| 1092 | quasi-peritectic: liq. + graphite(C) -> fcc(Pd) + Pd5Si | L: C 0.001, Pd 0.8492, Si 0.1498; liquid: C 0.001, Pd 0.8492, Si 0.1498 | unspecified | [1] Du 2006 | Table 4, p. 4, row 1 |  |
 
 ## Sources
 

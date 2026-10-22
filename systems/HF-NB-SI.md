@@ -27,12 +27,12 @@ Table: Invariant reactions reported in the literature for the Hf–Nb–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2313.15 | II: II2: L + Hf(Nb)5Si3->Hf(Nb)2Si + Nb(Hf)5Si3 | L: Hf 0.27, Si 0.22 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 3 |  |
-| 2296.15 | II: II2: L + Hf(Nb)5Si3->Hf(Nb)2Si + Nb(Hf)5Si3 | L: Hf 0.297, Si 0.2 | model | [1] Yang 2003 | Table 4, p. 5, row 4 |  |
-| 2123.15 | II: II1: L + Nb(Hf)3Si->Nb(Hf)5Si3 + β(Nb,Hf,Si) | L: Hf 0.21, Si 0.16 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 1 |  |
-| 2113.15 | II: II3: L + Nb(Hf)5Si3->Hf(Nb)2Si + β(Nb,Hf,Si) | L: Hf 0.26, Si 0.14 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 5 |  |
-| 2110.15 | II: II1: L + Nb(Hf)3Si->Nb(Hf)5Si3 + β(Nb,Hf,Si) | L: Hf 0.19, Si 0.151 | model | [1] Yang 2003 | Table 4, p. 5, row 2 |  |
-| 2106.15 | II: II3: L + Nb(Hf)5Si3->Hf(Nb)2Si + β(Nb,Hf,Si) | L: Hf 0.21, Si 0.15 | model | [1] Yang 2003 | Table 4, p. 5, row 6 |  |
+| 2313.15 | quasi-peritectic: II2: L + Hf(Nb)5Si3->Hf(Nb)2Si + Nb(Hf)5Si3 | L: Hf 0.27, Si 0.22 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 3 |  |
+| 2296.15 | quasi-peritectic: II2: L + Hf(Nb)5Si3->Hf(Nb)2Si + Nb(Hf)5Si3 | L: Hf 0.297, Si 0.2 | model | [1] Yang 2003 | Table 4, p. 5, row 4 |  |
+| 2123.15 | quasi-peritectic: II1: L + Nb(Hf)3Si->Nb(Hf)5Si3 + β(Nb,Hf,Si) | L: Hf 0.21, Si 0.16 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 1 |  |
+| 2113.15 | quasi-peritectic: II3: L + Nb(Hf)5Si3->Hf(Nb)2Si + β(Nb,Hf,Si) | L: Hf 0.26, Si 0.14 | experimental | [1] Yang 2003; _cites Bewlay 1999_ | Table 4, p. 5, row 5 |  |
+| 2110.15 | quasi-peritectic: II1: L + Nb(Hf)3Si->Nb(Hf)5Si3 + β(Nb,Hf,Si) | L: Hf 0.19, Si 0.151 | model | [1] Yang 2003 | Table 4, p. 5, row 2 |  |
+| 2106.15 | quasi-peritectic: II3: L + Nb(Hf)5Si3->Hf(Nb)2Si + β(Nb,Hf,Si) | L: Hf 0.21, Si 0.15 | model | [1] Yang 2003 | Table 4, p. 5, row 6 |  |
 
 ## Sources
 

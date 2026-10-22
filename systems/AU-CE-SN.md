@@ -30,40 +30,40 @@ Table: Invariant reactions reported in the literature for the Au–Ce–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1765.72 | E: L->τ5+Ce5Sn4+Ce5Sn3 |  | model | [1] Dong 2013 | Table 9, p. 12, row 1 |  |
-| 1712.4 | P: L+τ2+τ4->τ3 |  | model | [1] Dong 2013 | Table 9, p. 12, row 28 |  |
-| 1627.9 | U: L+τ5->τ4+Ce5Sn4 |  | model | [1] Dong 2013 | Table 9, p. 12, row 6 |  |
-| 1623.8 | U: L+τ4->τ2+βAuCe |  | model | [1] Dong 2013 | Table 9, p. 12, row 7 |  |
-| 1621.4 | E: L->τ5+βAuCe+τ4 |  | model | [1] Dong 2013 | Table 9, p. 12, row 2 |  |
-| 1563 | U: L+Ce5Sn4->τ4+Ce11Sn10 |  | model | [1] Dong 2013 | Table 9, p. 12, row 8 |  |
-| 1517.7 | P: L+τ3+τ4->τ6 |  | model | [1] Dong 2013 | Table 9, p. 12, row 29 |  |
-| 1452.4 | U: L+τ4->Ce11Sn10+Ce3Sn5 |  | model | [1] Dong 2013 | Table 9, p. 12, row 9 |  |
-| 1410 | U: L+CeSn3->τ4+Ce2Sn5 |  | model | [1] Dong 2013 | Table 9, p. 12, row 10 |  |
-| 1401 | U: L+Ce2Sn5->τ4+Ce3Sn7 |  | model | [1] Dong 2013 | Table 9, p. 12, row 11 |  |
-| 1400.9 | E: L->τ4+Ce3Sn5+Ce3Sn7 |  | model | [1] Dong 2013 | Table 9, p. 12, row 3 |  |
-| 1400.2 | P: L+τ4+τ6->τ7 |  | model | [1] Dong 2013 | Table 9, p. 12, row 30 |  |
-| 1387.5 | U: L+τ3->τ2+Au51Ce14 |  | model | [1] Dong 2013 | Table 9, p. 12, row 12 |  |
-| 1338.5 | U: L+τ2->Au2Ce+βAuCe |  | model | [1] Dong 2013 | Table 9, p. 12, row 13 |  |
-| 1315.4 | U: L+τ2->Au51Ce14+Au2Ce |  | model | [1] Dong 2013 | Table 9, p. 12, row 14 |  |
-| 1310.9 | U: L+τ5->Ce5Sn3+βAuCe |  | model | [1] Dong 2013 | Table 9, p. 12, row 15 |  |
-| 1277.4 | U: L+τ4->τ7+CeSn3 |  | model | [1] Dong 2013 | Table 9, p. 12, row 16 |  |
-| 1075.8 | P: L+τ3+Au51Ce14->τ1 |  | model | [1] Dong 2013 | Table 9, p. 12, row 31 |  |
-| 1005.2 | U: L+τ7->CeSn3+τ6 |  | model | [1] Dong 2013 | Table 9, p. 12, row 17 |  |
-| 998.8 | U: L+τ3->τ6+τ1 |  | model | [1] Dong 2013 | Table 9, p. 12, row 18 |  |
-| 972.6 | U: L+Bcc->Fcc+Ce3Sn |  | model | [1] Dong 2013 | Table 9, p. 12, row 19 |  |
-| 935.8 | U: L+βAuCe->AuCe2+Ce5Sn3 |  | model | [1] Dong 2013 | Table 9, p. 12, row 20 |  |
-| 934.2 | U: L+Au51Ce14->τ1+Au6Ce |  | model | [1] Dong 2013 | Table 9, p. 12, row 21 |  |
-| 929.7 | U: L+Ce5Sn3->Ce3Sn+AuCe2 |  | model | [1] Dong 2013 | Table 9, p. 12, row 22 |  |
-| 793.6 | U: L+Au6Ce->τ1+Fcc |  | model | [1] Dong 2013 | Table 9, p. 12, row 23 |  |
-| 792.9 | E: L->Fcc+Ce3Sn+AuCe2 |  | model | [1] Dong 2013 | Table 9, p. 12, row 4 |  |
-| 750.9 | U: L+Fcc->τ1+Au10Sn |  | model | [1] Dong 2013 | Table 9, p. 12, row 24 |  |
-| 740.1 | U: L+Au10Sn->τ1+Hcp |  | model | [1] Dong 2013 | Table 9, p. 12, row 25 |  |
-| 598.8 | U: L+τ6->τ1+AuSn |  | model | [1] Dong 2013 | Table 9, p. 12, row 26 |  |
-| 584.3 | P: L+τ6+AuSn->AuSn2 |  | model | [1] Dong 2013 | Table 9, p. 12, row 32 |  |
-| 556.1 | E: L->τ1+AuSn+Hcp |  | model | [1] Dong 2013 | Table 9, p. 12, row 5 |  |
-| 525.6 | P: L+τ6+AuSn2->AuSn4 |  | model | [1] Dong 2013 | Table 9, p. 12, row 33 |  |
-| 503.6 | P: L+τ6+CeSn3->Bct |  | model | [1] Dong 2013 | Table 9, p. 12, row 34 |  |
-| 484.4 | U: L+τ6->Bct+AuSn4 |  | model | [1] Dong 2013 | Table 9, p. 12, row 27 |  |
+| 1765.72 | eutectic: L->τ5+Ce5Sn4+Ce5Sn3 |  | model | [1] Dong 2013 | Table 9, p. 12, row 1 |  |
+| 1712.4 | peritectic: L+τ2+τ4->τ3 |  | model | [1] Dong 2013 | Table 9, p. 12, row 28 |  |
+| 1627.9 | quasi-peritectic: L+τ5->τ4+Ce5Sn4 |  | model | [1] Dong 2013 | Table 9, p. 12, row 6 |  |
+| 1623.8 | quasi-peritectic: L+τ4->τ2+βAuCe |  | model | [1] Dong 2013 | Table 9, p. 12, row 7 |  |
+| 1621.4 | eutectic: L->τ5+βAuCe+τ4 |  | model | [1] Dong 2013 | Table 9, p. 12, row 2 |  |
+| 1563 | quasi-peritectic: L+Ce5Sn4->τ4+Ce11Sn10 |  | model | [1] Dong 2013 | Table 9, p. 12, row 8 |  |
+| 1517.7 | peritectic: L+τ3+τ4->τ6 |  | model | [1] Dong 2013 | Table 9, p. 12, row 29 |  |
+| 1452.4 | quasi-peritectic: L+τ4->Ce11Sn10+Ce3Sn5 |  | model | [1] Dong 2013 | Table 9, p. 12, row 9 |  |
+| 1410 | quasi-peritectic: L+CeSn3->τ4+Ce2Sn5 |  | model | [1] Dong 2013 | Table 9, p. 12, row 10 |  |
+| 1401 | quasi-peritectic: L+Ce2Sn5->τ4+Ce3Sn7 |  | model | [1] Dong 2013 | Table 9, p. 12, row 11 |  |
+| 1400.9 | eutectic: L->τ4+Ce3Sn5+Ce3Sn7 |  | model | [1] Dong 2013 | Table 9, p. 12, row 3 |  |
+| 1400.2 | peritectic: L+τ4+τ6->τ7 |  | model | [1] Dong 2013 | Table 9, p. 12, row 30 |  |
+| 1387.5 | quasi-peritectic: L+τ3->τ2+Au51Ce14 |  | model | [1] Dong 2013 | Table 9, p. 12, row 12 |  |
+| 1338.5 | quasi-peritectic: L+τ2->Au2Ce+βAuCe |  | model | [1] Dong 2013 | Table 9, p. 12, row 13 |  |
+| 1315.4 | quasi-peritectic: L+τ2->Au51Ce14+Au2Ce |  | model | [1] Dong 2013 | Table 9, p. 12, row 14 |  |
+| 1310.9 | quasi-peritectic: L+τ5->Ce5Sn3+βAuCe |  | model | [1] Dong 2013 | Table 9, p. 12, row 15 |  |
+| 1277.4 | quasi-peritectic: L+τ4->τ7+CeSn3 |  | model | [1] Dong 2013 | Table 9, p. 12, row 16 |  |
+| 1075.8 | peritectic: L+τ3+Au51Ce14->τ1 |  | model | [1] Dong 2013 | Table 9, p. 12, row 31 |  |
+| 1005.2 | quasi-peritectic: L+τ7->CeSn3+τ6 |  | model | [1] Dong 2013 | Table 9, p. 12, row 17 |  |
+| 998.8 | quasi-peritectic: L+τ3->τ6+τ1 |  | model | [1] Dong 2013 | Table 9, p. 12, row 18 |  |
+| 972.6 | quasi-peritectic: L+Bcc->Fcc+Ce3Sn |  | model | [1] Dong 2013 | Table 9, p. 12, row 19 |  |
+| 935.8 | quasi-peritectic: L+βAuCe->AuCe2+Ce5Sn3 |  | model | [1] Dong 2013 | Table 9, p. 12, row 20 |  |
+| 934.2 | quasi-peritectic: L+Au51Ce14->τ1+Au6Ce |  | model | [1] Dong 2013 | Table 9, p. 12, row 21 |  |
+| 929.7 | quasi-peritectic: L+Ce5Sn3->Ce3Sn+AuCe2 |  | model | [1] Dong 2013 | Table 9, p. 12, row 22 |  |
+| 793.6 | quasi-peritectic: L+Au6Ce->τ1+Fcc |  | model | [1] Dong 2013 | Table 9, p. 12, row 23 |  |
+| 792.9 | eutectic: L->Fcc+Ce3Sn+AuCe2 |  | model | [1] Dong 2013 | Table 9, p. 12, row 4 |  |
+| 750.9 | quasi-peritectic: L+Fcc->τ1+Au10Sn |  | model | [1] Dong 2013 | Table 9, p. 12, row 24 |  |
+| 740.1 | quasi-peritectic: L+Au10Sn->τ1+Hcp |  | model | [1] Dong 2013 | Table 9, p. 12, row 25 |  |
+| 598.8 | quasi-peritectic: L+τ6->τ1+AuSn |  | model | [1] Dong 2013 | Table 9, p. 12, row 26 |  |
+| 584.3 | peritectic: L+τ6+AuSn->AuSn2 |  | model | [1] Dong 2013 | Table 9, p. 12, row 32 |  |
+| 556.1 | eutectic: L->τ1+AuSn+Hcp |  | model | [1] Dong 2013 | Table 9, p. 12, row 5 |  |
+| 525.6 | peritectic: L+τ6+AuSn2->AuSn4 |  | model | [1] Dong 2013 | Table 9, p. 12, row 33 |  |
+| 503.6 | peritectic: L+τ6+CeSn3->Bct |  | model | [1] Dong 2013 | Table 9, p. 12, row 34 |  |
+| 484.4 | quasi-peritectic: L+τ6->Bct+AuSn4 |  | model | [1] Dong 2013 | Table 9, p. 12, row 27 |  |
 
 ## Formation enthalpies
 

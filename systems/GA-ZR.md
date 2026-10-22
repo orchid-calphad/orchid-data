@@ -76,33 +76,33 @@ Table: Invariant reactions reported in the literature for the Ga–Zr system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1854 | Congruent: Liquid ↔ Ga3Zr5 | Liquid: Zr 0.625; Ga3Zr5: Zr 0.625 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 20 |  |
-| 1828 | Peritectic: Liquid + Ga3Zr5 ↔ Ga2Zr3 | Liquid: Zr 0.563; Ga3Zr5: Zr 0.625; Ga2Zr3: Zr 0.6 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 22 |  |
-| 1799 | Peritectic: Liquid + Ga2Zr3 ↔ Ga4Zr5 | Liquid: Zr 0.523; Ga2Zr3: Zr 0.6; Ga4Zr5: Zr 0.556 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 24 |  |
-| 1782 | Peritectic: Liquid + Ga4Zr5 ↔ βGaZr | Liquid: Zr 0.495; Ga4Zr5: Zr 0.556; βGaZr: Zr 0.5 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 26 |  |
-| 1778 | Polymorphic: βGaZr ↔ αGaZr | βGaZr: Zr 0.5; αGaZr: Zr 0.5 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 28 |  |
-| 1773 | Polymorphic: βGaZr ↔ αGaZr | βGaZr: Zr 0.5; αGaZr: Zr 0.5 | model | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 27 |  |
+| 1854 | congruent melting: Liquid ↔ Ga3Zr5 | Liquid: Zr 0.625; Ga3Zr5: Zr 0.625 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 20 |  |
+| 1828 | peritectic: Liquid + Ga3Zr5 ↔ Ga2Zr3 | Liquid: Zr 0.563; Ga3Zr5: Zr 0.625; Ga2Zr3: Zr 0.6 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 22 |  |
+| 1799 | peritectic: Liquid + Ga2Zr3 ↔ Ga4Zr5 | Liquid: Zr 0.523; Ga2Zr3: Zr 0.6; Ga4Zr5: Zr 0.556 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 24 |  |
+| 1782 | peritectic: Liquid + Ga4Zr5 ↔ βGaZr | Liquid: Zr 0.495; Ga4Zr5: Zr 0.556; βGaZr: Zr 0.5 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 26 |  |
+| 1778 | polymorphic: βGaZr ↔ αGaZr | βGaZr: Zr 0.5; αGaZr: Zr 0.5 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 28 |  |
+| 1773 | polymorphic: βGaZr ↔ αGaZr | βGaZr: Zr 0.5; αGaZr: Zr 0.5 | model | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 27 |  |
 | 1723.5 | eutectoid: Ga4Zr5 M Ga2Zr3 + aGaZr |  | experimental | [1] Luo 2014 | p. 6 | “Fig. 3(a) shows a clearly visible peak with an onset at 1723.5 K, which represents the temperature of the eutectoid reaction (Ga4Zr5 M Ga2Zr3 + aGaZr).” |
 | 1723 | eutectoid: Ga4Zr5 M aGaZr + Ga3Zr2 |  | model | [1] Luo 2014 | p. 7 | “The calculated reaction temperature of the eutectoid reaction Ga4Zr5 M aGaZr + Ga3Zr2 is 1723 K, and the calculated eutectic point of Liquid M Ga3Zr5 + (bZr) is at 1669 K and 80.0 at.% Zr.” |
-| 1723 | Eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 14 |  |
-| 1723 | Eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | experimental | [1] Luo 2014 | Table 5, p. 8, row 13 |  |
-| 1703 | Peritectic: Liquid + αGaZr ↔ Ga3Zr2 | Liquid: Zr 0.38; αGaZr: Zr 0.5; Ga3Zr2: Zr 0.4 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 6 |  |
-| 1703 | Peritectic: Liquid + αGaZr ↔ Ga3Zr2 | Liquid: Zr 0.379; αGaZr: Zr 0.5; Ga3Zr2: Zr 0.4 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 7 |  |
-| 1673 | Eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 12 |  |
+| 1723 | eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 14 |  |
+| 1723 | eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | experimental | [1] Luo 2014 | Table 5, p. 8, row 13 |  |
+| 1703 | peritectic: Liquid + αGaZr ↔ Ga3Zr2 | Liquid: Zr 0.38; αGaZr: Zr 0.5; Ga3Zr2: Zr 0.4 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 6 |  |
+| 1703 | peritectic: Liquid + αGaZr ↔ Ga3Zr2 | Liquid: Zr 0.379; αGaZr: Zr 0.5; Ga3Zr2: Zr 0.4 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 7 |  |
+| 1673 | eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 12 |  |
 | 1671.5 | eutectic: Liquid M (bZr) + Ga3Zr5 |  | experimental | [1] Luo 2014 | p. 6 | “The peak temperature of 1671.5 K is the temperature of the eutectic reaction (Liquid M (bZr) + Ga3Zr5).” |
-| 1671 | Eutectic: Liquid ↔ Ga3Zr5 + (βZr) | Ga3Zr5: Zr 0.625 | experimental | [1] Luo 2014 | Table 5, p. 8, row 17 |  |
+| 1671 | eutectic: Liquid ↔ Ga3Zr5 + (βZr) | Ga3Zr5: Zr 0.625 | experimental | [1] Luo 2014 | Table 5, p. 8, row 17 |  |
 | 1669 | eutectic: Liquid M Ga3Zr5 + (bZr) |  | model | [1] Luo 2014 | p. 7 | “The calculated reaction temperature of the eutectoid reaction Ga4Zr5 M aGaZr + Ga3Zr2 is 1723 K, and the calculated eutectic point of Liquid M Ga3Zr5 + (bZr) is at 1669 K and 80.0 at.% Zr.” |
-| 1669 | Eutectic: Liquid ↔ Ga3Zr5 + (βZr) | Liquid: Zr 0.8; Ga3Zr5: Zr 0.625; (βZr): Zr 0.9 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 18 |  |
-| 1573 | Peritectic: Liquid + Ga3Zr2 ↔ Ga2Zr | Liquid: Zr 0.23; Ga3Zr2: Zr 0.4; Ga2Zr: Zr 0.333 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 4 |  |
-| 1570 | Peritectic: Liquid + Ga3Zr2 ↔ Ga2Zr | Liquid: Zr 0.236; Ga3Zr2: Zr 0.4; Ga2Zr: Zr 0.333 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 5 |  |
-| 1561 | Peritectoid: Ga2Zr + Ga3Zr2 ↔ Ga5Zr3 | Ga2Zr: Zr 0.333; Ga3Zr2: Zr 0.4; Ga5Zr3: Zr 0.375 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 30 |  |
-| 1548 | Peritectic: Liquid + Ga2Zr ↔ Ga3Zr | Liquid: Zr 0.216; Ga2Zr: Zr 0.333; Ga3Zr: Zr 0.25 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 3 |  |
-| 1548 | Peritectic: Liquid + Ga2Zr ↔ Ga3Zr | Liquid: Zr 0.194; Ga2Zr: Zr 0.333; Ga3Zr: Zr 0.25 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 2 |  |
-| 1223 | Peritectoid: (βZr) + Ga3Zr5 ↔ GaZr2 | (βZr): Zr 0.972; Ga3Zr5: Zr 0.625; GaZr2: Zr 0.667 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 11 |  |
-| 1223 | Peritectoid: (βZr) + Ga3Zr5 ↔ GaZr2 | (βZr): Zr 0.97; Ga3Zr5: Zr 0.625; GaZr2: Zr 0.667 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 10 |  |
-| 1133 | Eutectoid: (βZr) ↔ (αZr) + GaZr2 | (βZr): Zr 0.982; (αZr): Zr 0.992; GaZr2: Zr 0.667 | experimental | [1] Luo 2014; _cites Easton 1970_ [doi](https://doi.org/10.1007/bf03037856) | Table 5, p. 8, row 8 |  |
-| 1115 | Eutectoid: (βZr) ↔ (αZr) + GaZr2 | (βZr): Zr 0.984; (αZr): Zr 0.992; GaZr2: Zr 0.667 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 9 |  |
-| 303 | Eutectic: Liquid ↔ (Ga) + Ga3Zr | Liquid: Zr 0; (Ga): Zr 0; Ga3Zr: Zr 0.25 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 1 |  |
+| 1669 | eutectic: Liquid ↔ Ga3Zr5 + (βZr) | Liquid: Zr 0.8; Ga3Zr5: Zr 0.625; (βZr): Zr 0.9 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 18 |  |
+| 1573 | peritectic: Liquid + Ga3Zr2 ↔ Ga2Zr | Liquid: Zr 0.23; Ga3Zr2: Zr 0.4; Ga2Zr: Zr 0.333 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 4 |  |
+| 1570 | peritectic: Liquid + Ga3Zr2 ↔ Ga2Zr | Liquid: Zr 0.236; Ga3Zr2: Zr 0.4; Ga2Zr: Zr 0.333 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 5 |  |
+| 1561 | peritectoid: Ga2Zr + Ga3Zr2 ↔ Ga5Zr3 | Ga2Zr: Zr 0.333; Ga3Zr2: Zr 0.4; Ga5Zr3: Zr 0.375 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 30 |  |
+| 1548 | peritectic: Liquid + Ga2Zr ↔ Ga3Zr | Liquid: Zr 0.216; Ga2Zr: Zr 0.333; Ga3Zr: Zr 0.25 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 3 |  |
+| 1548 | peritectic: Liquid + Ga2Zr ↔ Ga3Zr | Liquid: Zr 0.194; Ga2Zr: Zr 0.333; Ga3Zr: Zr 0.25 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 2 |  |
+| 1223 | peritectoid: (βZr) + Ga3Zr5 ↔ GaZr2 | (βZr): Zr 0.972; Ga3Zr5: Zr 0.625; GaZr2: Zr 0.667 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 11 |  |
+| 1223 | peritectoid: (βZr) + Ga3Zr5 ↔ GaZr2 | (βZr): Zr 0.97; Ga3Zr5: Zr 0.625; GaZr2: Zr 0.667 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 10 |  |
+| 1133 | eutectoid: (βZr) ↔ (αZr) + GaZr2 | (βZr): Zr 0.982; (αZr): Zr 0.992; GaZr2: Zr 0.667 | experimental | [1] Luo 2014; _cites Easton 1970_ [doi](https://doi.org/10.1007/bf03037856) | Table 5, p. 8, row 8 |  |
+| 1115 | eutectoid: (βZr) ↔ (αZr) + GaZr2 | (βZr): Zr 0.984; (αZr): Zr 0.992; GaZr2: Zr 0.667 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 9 |  |
+| 303 | eutectic: Liquid ↔ (Ga) + Ga3Zr | Liquid: Zr 0; (Ga): Zr 0; Ga3Zr: Zr 0.25 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 1 |  |
 
 ## Other properties
 

@@ -1,22 +1,20 @@
 # Au6Ho: enthalpy of formation
 
-> Enthalpy of formation of Au6Ho: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Au6Ho: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Au6Ho.html · Markdown: https://data.orchid-project.org/compounds/Au6Ho.md
 
-4 accepted literature formation-enthalpy value(s) (model 2, DFT 2); Materials Project -40.545 kJ/mol-atom (mp-aaacqgip); OQMD -39.995 kJ/mol-atom (oqmd-2052235).
+2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -40.545 kJ/mol-atom (mp-aaacqgip); OQMD -39.995 kJ/mol-atom (oqmd-2052235).
 
 Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Au6Ho reported in the literature (4)
+Table: Enthalpy of formation of Au6Ho reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -42.9 kJ/mol-atom | Au6Ho | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 31 |  |
-| -42.9 kJ/mol-atom | Au6Ho | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 31 |  |
-| -40.8 kJ/mol-atom | Au6Ho | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 30 |  |
 | -40.8 kJ/mol-atom | Au6Ho | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 30 |  |
 
 ## DFT formation energies

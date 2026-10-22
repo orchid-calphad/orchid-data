@@ -166,8 +166,8 @@ Table: Phase equilibrium, Si–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1681.15 | liquidus: V7Si93; _liquid: Si 0.93, V 0.07_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1683.15 | liquidus: V3Si97; _liquid: Si 0.97, V 0.03_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 4 |  |
+| Phase composition |  | 1681.15 | other: V7Si93; _liquid: Si 0.93, V 0.07_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 2 |  |
+| Phase composition |  | 1683.15 | other: V3Si97; _liquid: Si 0.97, V 0.03_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 4 |  |
 
 ## Sources
 

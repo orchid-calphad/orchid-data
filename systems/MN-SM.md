@@ -83,27 +83,27 @@ Table: Invariant reactions reported in the literature for the Mn–Sm system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1411.15 | Peritectic: L + δMn ↔ γMn | L: Sm 0.2187; δMn: Sm 0; γMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 19 |  |
-| 1411.15 | Peritectic: L + δMn ↔ γMn | δMn: Sm 0; γMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 17 |  |
-| 1406.15 | Peritectic: L + δMn ↔ γMn | δMn: Sm 0; γMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 18 |  |
-| 1373.15 | Peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 14 |  |
-| 1373.15 | Peritectic: L + γMn ↔ βMn | L: Sm 0.3003; γMn: Sm 0; βMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 16 |  |
-| 1368.15 | Peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 15 |  |
-| 1298.15 | Peritectic: L + βMn ↔ Mn23Sm6 | L: Sm 0.3956; βMn: Sm 0; Mn23Sm6: Sm 0.2069 | model | [1] Wang 2009 | Table 3, p. 3, row 13 |  |
-| 1298.15 | Peritectic: L + βMn ↔ Mn23Sm6 | βMn: Sm 0; Mn23Sm6: Sm 0.2069 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 12 |  |
+| 1411.15 | peritectic: L + δMn ↔ γMn | L: Sm 0.2187; δMn: Sm 0; γMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 19 |  |
+| 1411.15 | peritectic: L + δMn ↔ γMn | δMn: Sm 0; γMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 17 |  |
+| 1406.15 | peritectic: L + δMn ↔ γMn | δMn: Sm 0; γMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 18 |  |
+| 1373.15 | peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 14 |  |
+| 1373.15 | peritectic: L + γMn ↔ βMn | L: Sm 0.3003; γMn: Sm 0; βMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 16 |  |
+| 1368.15 | peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 15 |  |
+| 1298.15 | peritectic: L + βMn ↔ Mn23Sm6 | L: Sm 0.3956; βMn: Sm 0; Mn23Sm6: Sm 0.2069 | model | [1] Wang 2009 | Table 3, p. 3, row 13 |  |
+| 1298.15 | peritectic: L + βMn ↔ Mn23Sm6 | βMn: Sm 0; Mn23Sm6: Sm 0.2069 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 12 |  |
 | 1298 | peritectic: L þ cub-Mn ↔ Mn23Sm6 |  | experimental | [2] Ye 2024; _cites Kim 2012_ | p. 5 | “Two intermetallic compounds Mn23Sm6 and Mn2Sm were confirmed, which were formed by peritectic reactions (L þ cub-Mn ↔ Mn23Sm6 at 1298 K and L þ Mn23Sm6 ↔ Mn2Sm at 1203 K).” |
-| 1203.15 | Peritectic: L + Mn23Sm6 ↔ Mn2Sm | Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 10 |  |
+| 1203.15 | peritectic: L + Mn23Sm6 ↔ Mn2Sm | Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 10 |  |
 | 1203 | peritectic: L þ Mn23Sm6 ↔ Mn2Sm |  | experimental | [2] Ye 2024; _cites Kim 2012_ | p. 5 | “Two intermetallic compounds Mn23Sm6 and Mn2Sm were confirmed, which were formed by peritectic reactions (L þ cub-Mn ↔ Mn23Sm6 at 1298 K and L þ Mn23Sm6 ↔ Mn2Sm at 1203 K).” |
-| 1202.15 | Peritectic: L + Mn23Sm6 ↔ Mn2Sm | L: Sm 0.5259; Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | model | [1] Wang 2009 | Table 3, p. 3, row 11 |  |
-| 1195.15 | Peritectic: L + γSm ↔ βSm | L: Sm 0.836; γSm: Sm 1; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 9 |  |
-| 1195.15 | Peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 7 |  |
-| 1190.15 | Peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 8 |  |
-| 1068.15 | Eutectic: L ↔ Mn2Sm + βSm | L: Sm 0.6948; Mn2Sm: Sm 0.3333; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 6 |  |
-| 1068.15 | Eutectic: L ↔ Mn2Sm + βSm | Mn2Sm: Sm 0.3333; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 5 |  |
-| 1007.15 | Eutectoid: βSm ↔ Mn2Sm + αSm | βSm: Sm 0.9999; Mn2Sm: Sm 0.3333; αSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 4 |  |
-| 1007.15 | Eutectoid: βSm ↔ Mn2Sm + αSm | Mn2Sm: Sm 0.3333; αSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 3 |  |
-| 1000.15 | Peritectoid: βMn + Mn23Sm6 ↔ αMn | βMn: Sm 0; Mn23Sm6: Sm 0.2069; αMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 1 |  |
-| 979.15 | Peritectoid: βMn + Mn23Sm6 ↔ αMn | βMn: Sm 0; Mn23Sm6: Sm 0.2069; αMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 2 |  |
+| 1202.15 | peritectic: L + Mn23Sm6 ↔ Mn2Sm | L: Sm 0.5259; Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | model | [1] Wang 2009 | Table 3, p. 3, row 11 |  |
+| 1195.15 | peritectic: L + γSm ↔ βSm | L: Sm 0.836; γSm: Sm 1; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 9 |  |
+| 1195.15 | peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 7 |  |
+| 1190.15 | peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 8 |  |
+| 1068.15 | eutectic: L ↔ Mn2Sm + βSm | L: Sm 0.6948; Mn2Sm: Sm 0.3333; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 6 |  |
+| 1068.15 | eutectic: L ↔ Mn2Sm + βSm | Mn2Sm: Sm 0.3333; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 5 |  |
+| 1007.15 | eutectoid: βSm ↔ Mn2Sm + αSm | βSm: Sm 0.9999; Mn2Sm: Sm 0.3333; αSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 4 |  |
+| 1007.15 | eutectoid: βSm ↔ Mn2Sm + αSm | Mn2Sm: Sm 0.3333; αSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 3 |  |
+| 1000.15 | peritectoid: βMn + Mn23Sm6 ↔ αMn | βMn: Sm 0; Mn23Sm6: Sm 0.2069; αMn: Sm 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 1 |  |
+| 979.15 | peritectoid: βMn + Mn23Sm6 ↔ αMn | βMn: Sm 0; Mn23Sm6: Sm 0.2069; αMn: Sm 0 | model | [1] Wang 2009 | Table 3, p. 3, row 2 |  |
 
 ## Formation enthalpies
 

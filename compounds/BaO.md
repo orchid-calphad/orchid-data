@@ -1,21 +1,20 @@
 # BaO: enthalpy of formation
 
-> Enthalpy of formation of BaO: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of BaO: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/BaO.html · Markdown: https://data.orchid-project.org/compounds/BaO.md
 
-3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); Materials Project -272.439 kJ/mol-atom (mp-aaaaabzq); OQMD -259.209 kJ/mol-atom (oqmd-1343705).
+2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); Materials Project -272.439 kJ/mol-atom (mp-aaaaabzq); OQMD -259.209 kJ/mol-atom (oqmd-1343705).
 
 Systems: [Ba–O](https://data.orchid-project.org/systems/BA-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of BaO reported in the literature (3)
+Table: Enthalpy of formation of BaO reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -274.03 kJ/mol (basis unstated) | BaO | 298 | experimental |  | [Ba–O](https://data.orchid-project.org/systems/BA-O.html) | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2 |  |
-| -276.68 kJ/mol-atom | BaO(S) | 298.15 | model |  | [Ba–O](https://data.orchid-project.org/systems/BA-O.html) | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
 | -276.68 kJ/mol-atom | BaO(S) | 298.15 | model |  | [Ba–O](https://data.orchid-project.org/systems/BA-O.html) | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
 
 ## DFT formation energies

@@ -1,10 +1,10 @@
 # Nd–O–U system
 
-> Nd–O–U system: 31 accepted literature values (crystal structure 21, phase equilibrium 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–O–U system: 30 accepted literature values (crystal structure 20, phase equilibrium 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-O-U.html · Markdown: https://data.orchid-project.org/systems/ND-O-U.md
 
-31 accepted literature values from 1 paper(s) (experimental 21, model 10); 0 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (experimental 20, model 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-O-U.json) · [CSV](https://data.orchid-project.org/systems/ND-O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-O-U) · [Markdown](https://data.orchid-project.org/systems/ND-O-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
+| experimental | 20 |
 | model | 10 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 10 |
-| crystal structure | 21 |
+| crystal structure | 20 |
 
 ## Other properties
 
@@ -41,7 +41,7 @@ Table: Phase equilibrium, Nd–O–U system
 | Phase composition |  |  | FCC 2; _FCC 2: Nd 0.051, O 0.658, U 0.291_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 6 |  |
 | Phase composition |  |  | FCC 2; _FCC 2: Nd 0.136, O 0.643, U 0.221_ | model | [1] Dottavio 2015 | Table 3, p. 4, row 10 |  |
 
-### Crystal structure (21)
+### Crystal structure (20)
 
 Table: Crystal structure, Nd–O–U system
 
@@ -57,17 +57,16 @@ Table: Crystal structure, Nd–O–U system
 | Lattice a | 5.468 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 5 |  |
 | Lattice a | 5.47 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 3 |  |
 | Lattice a | 5.458 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 6 |  |
-| Lattice a | 5.47 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 1 |  |
 | Lattice a | 5.471 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 7 |  |
 | Lattice a | 5.46 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 4 |  |
 | Lattice a | 5.465 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 2 |  |
-| lattice lattice parameters error 5  | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8 |  |
-| lattice lattice parameters error 5  | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13 |  |
-| lattice lattice parameters error 5  | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9 |  |
-| lattice lattice parameters error 5  | 5.46 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 11 |  |
-| lattice lattice parameters error 5  | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 14 |  |
-| lattice lattice parameters error 5  | 5.47 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 10 |  |
-| lattice lattice parameters error 5  | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 12 |  |
+| lattice unspecified axis | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8 |  |
+| lattice unspecified axis | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13 |  |
+| lattice unspecified axis | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9 |  |
+| lattice unspecified axis | 5.46 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 11 |  |
+| lattice unspecified axis | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 14 |  |
+| lattice unspecified axis | 5.47 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 10 |  |
+| lattice unspecified axis | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 12 |  |
 
 ## Sources
 

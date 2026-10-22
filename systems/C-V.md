@@ -55,7 +55,7 @@ Table: Invariant reactions reported in the literature for the C–V system (25)
 | 1385 | V8C7 \<-> VCx | V8C7: C 0.00467 | unspecified | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 2, p. 3, row 5 |  |
 | 1383 | V8C7 \<-> VCx | V8C7: C 0.00467 | model | [1] Hu 2006 | Table 2, p. 3, row 7 |  |
 | 1331 | VCx \<-> V6C5 + V8C7 | VCx: C 0.0046; V6C5: C 0.454545, V 0.545455; V8C7: C 0.00467 | unspecified | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 2, p. 3, row 8 |  |
-| 1331 (none) | eutectic: VCx ↔ V6 C5 + V8 C7 |  | model | [1] Hu 2006 | p. 6 | “The eutectic reaction: VCx ↔ V6 C5 + V8 C7 occurs at 1329 K with the compositions of 0.459 at.% C, 0.451 at.% C and 0.467 at.% C, respectively; this results is very close to the estimate by Lipatnikov et al., T ≈ 1331 K and at.% C ≈ 0.460 for VCx .” |
+| 1331 | eutectic: VCx ↔ V6 C5 + V8 C7 |  | model | [1] Hu 2006 | p. 6 | “The eutectic reaction: VCx ↔ V6 C5 + V8 C7 occurs at 1329 K with the compositions of 0.459 at.% C, 0.451 at.% C and 0.467 at.% C, respectively; this results is very close to the estimate by Lipatnikov et al., T ≈ 1331 K and at.% C ≈ 0.460 for VCx .” |
 | 1329 | VCx \<-> V6C5 + V8C7 | VCx: C 0.00459; V6C5: C 0.00451; V8C7: C 0.00467 | model | [1] Hu 2006 | Table 2, p. 3, row 9 |  |
 | 1329 | eutectic: VCx ↔ V6 C5 + V8 C7 |  | model | [1] Hu 2006 | p. 6 | “The eutectic reaction: VCx ↔ V6 C5 + V8 C7 occurs at 1329 K with the compositions of 0.459 at.% C, 0.451 at.% C and 0.467 at.% C, respectively; this results is very close to the estimate by Lipatnikov et al., T ≈ 1331 K and at.% C ≈ 0.460 for VCx .” |
 
@@ -69,15 +69,15 @@ Table: Phase transition, C–V system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1329 K | 1329 | eutectic: VCx \<-> V6C5 + V8C7; _alloy: V 0.545455_ | model | [1] Hu 2006 | Table 1, p. 2, row 28 |  |
 | Phase transition | 1331 K | 1331 | eutectic: VCx \<-> V6C5 + V8C7; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 27 |  |
-| Phase transition | 1366 K | 1366 | ordering: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 22 |  |
-| Phase transition | 1380 K | 1380 | ordering: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006 | Table 1, p. 2, row 24 |  |
-| Phase transition | 1428 K | 1428 | ordering: VCx + V6C5 \<-> V6C5; _alloy: V 0.545455_ | model | [1] Hu 2006 | Table 1, p. 2, row 26 |  |
-| Phase transition | 1430 K | 1430 | ordering: VCx + V6C5 \<-> V6C5; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 25 |  |
-| Phase transition | 1440 K | 1440 | ordering: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 19 |  |
-| Phase transition | 1448 K | 1448 | ordering: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006 | Table 1, p. 2, row 23 |  |
-| Phase transition | 1450 K | 1450 | ordering: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 21 |  |
-| Phase transition | 1457 K | 1457 | ordering: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 1, p. 2, row 20 |  |
-| Phase transition | 1473 K | 1473 | ordering: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 18 |  |
+| Phase transition | 1366 K | 1366 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 22 |  |
+| Phase transition | 1380 K | 1380 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006 | Table 1, p. 2, row 24 |  |
+| Phase transition | 1428 K | 1428 | order-disorder: VCx + V6C5 \<-> V6C5; _alloy: V 0.545455_ | model | [1] Hu 2006 | Table 1, p. 2, row 26 |  |
+| Phase transition | 1430 K | 1430 | order-disorder: VCx + V6C5 \<-> V6C5; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 25 |  |
+| Phase transition | 1440 K | 1440 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 19 |  |
+| Phase transition | 1448 K | 1448 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006 | Table 1, p. 2, row 23 |  |
+| Phase transition | 1450 K | 1450 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 21 |  |
+| Phase transition | 1457 K | 1457 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 1, p. 2, row 20 |  |
+| Phase transition | 1473 K | 1473 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 18 |  |
 | Phase transition | 1485 K | 1485 | VCx + V2 C ↔ V6 C5 | model | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | p. 6 | “The calculated temperature for VCx + V2 C ↔ V6 C5 is 1512 K, which is higher than 1485K calculated by Lipatnikov et al.” |
 | Phase transition | 1512 K | 1512 | VCx + V2 C ↔ V6 C5 | model | [1] Hu 2006 | p. 6 | “The calculated temperature for VCx + V2 C ↔ V6 C5 is 1512 K, which is higher than 1485K calculated by Lipatnikov et al.” |
 | Phase transition | 2183 K | 2183 | bcc | experimental | [1] Hu 2006 | p. 4 | “However, in order to avoid a kink in CP due to the change in the description of ◦ Gbcc V at the melting point (2183 K), it is decided to replace ◦ Gbcc V in Eqs. (7) and (8) with a quantity ◦ Ghyp , which is identical to ◦ Gbcc except that the expression for V V φ 790 to 2183 K is used extensively up to 4000 K \[2\].” |
@@ -88,10 +88,10 @@ Table: Phase equilibrium, C–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1358 | congruent: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 29 |  |
-| Phase composition |  | 1383 | congruent: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | model | [1] Hu 2006 | Table 1, p. 2, row 32 |  |
-| Phase composition |  | 1385 | congruent: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | experimental | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 1, p. 2, row 30 |  |
-| Phase composition |  | 1397 | congruent: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | experimental | [1] Hu 2006; _cites Shacklette 1973_ [doi](https://doi.org/10.1103/physrevb.7.5041) | Table 1, p. 2, row 31 |  |
+| Phase composition |  | 1358 | congruent melting: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 29 |  |
+| Phase composition |  | 1383 | congruent melting: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | model | [1] Hu 2006 | Table 1, p. 2, row 32 |  |
+| Phase composition |  | 1385 | congruent melting: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | experimental | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 1, p. 2, row 30 |  |
+| Phase composition |  | 1397 | congruent melting: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | experimental | [1] Hu 2006; _cites Shacklette 1973_ [doi](https://doi.org/10.1103/physrevb.7.5041) | Table 1, p. 2, row 31 |  |
 
 ### Crystal structure (2)
 

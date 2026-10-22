@@ -26,10 +26,10 @@ Table: Invariant reactions reported in the literature for the Hf–Ni–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1503.45 | U: Liquid + beta-HfNi -> (Hf, Zr)Ni + (Hf, Zr)9Ni11 |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 1 |  |
-| 1457.55 | E: Liquid -> (Hf, Zr)7Ni10 + (Hf, Zr)8Ni21 + Hf3Ni7 |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 2 |  |
-| 1421.45 | U: Liquid + (Hf, Zr)Ni -> beta-HfNi + (Hf, Zr)2Ni |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 3 |  |
-| 1321.05 | U: Liquid + hcp-(Hf, Zr) -> bcc-(Hf, Zr) + (Hf, Zr)2Ni |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 4 |  |
+| 1503.45 | quasi-peritectic: Liquid + beta-HfNi -> (Hf, Zr)Ni + (Hf, Zr)9Ni11 |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 1 |  |
+| 1457.55 | eutectic: Liquid -> (Hf, Zr)7Ni10 + (Hf, Zr)8Ni21 + Hf3Ni7 |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 2 |  |
+| 1421.45 | quasi-peritectic: Liquid + (Hf, Zr)Ni -> beta-HfNi + (Hf, Zr)2Ni |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 3 |  |
+| 1321.05 | quasi-peritectic: Liquid + hcp-(Hf, Zr) -> bcc-(Hf, Zr) + (Hf, Zr)2Ni |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 4 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Mo system
 
-> Mo system: 38 accepted literature values (formation 24, phase equilibrium 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo system: 26 accepted literature values (phase equilibrium 14, formation 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO.html · Markdown: https://data.orchid-project.org/systems/MO.md
 
-38 accepted literature values from 2 paper(s) (experimental 14, model 24); 0 calculated phase diagram(s).
+26 accepted literature values from 2 paper(s) (experimental 14, model 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO.json) · [CSV](https://data.orchid-project.org/systems/MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO) · [Markdown](https://data.orchid-project.org/systems/MO.md)
 
@@ -13,34 +13,28 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 14 |
-| model | 24 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 14 |
-| formation | 24 |
+| formation | 12 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo system (12)
+Table: Enthalpies of formation, Mo system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | ε |  | -5.36 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 1 |  |
-| ε |  | -5.36 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 1 |  |
-| ε |  | -5.3 kJ/mol-atom ± 1.2 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 2 |  |
 | ε |  | -5.3 kJ/mol-atom ± 1.2 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 2 |  |
 | μ |  | -3.8 kJ/mol-atom ± 0.4 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 4 |  |
-| μ |  | -3.8 kJ/mol-atom ± 0.4 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 4 |  |
-| μ |  | -3.53 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 3 |  |
 | μ |  | -3.53 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 3 |  |
 | σ |  | -1.9 kJ/mol-atom ± 2.5 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 6 |  |
-| σ |  | -1.9 kJ/mol-atom ± 2.5 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 6 |  |
-| σ |  | -0.94 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 5 |  |
 | σ |  | -0.94 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 5 |  |
 
 ## Other properties
@@ -66,24 +60,18 @@ Table: Phase equilibrium, Mo system
 | Phase composition |  | 2021.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.862; (Mo): Mo 0.862_ | experimental | [2] Ltd. 1997; _cites ref. 82Shi_ | Table 3, p. 4, row 8 |  |
 | Phase composition |  | 2423.15 | Mo-rich solvus + (Mo); _Mo-rich solvus: Mo 0.795; (Mo): Mo 0.795_ | experimental | [2] Ltd. 1997; _cites ref. 51Ham_ | Table 3, p. 4, row 1 |  |
 
-### Formation (12)
+### Formation (6)
 
 Table: Formation, Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfS298_ | 0.1 J/mol-atom/K | 298.15 | ε; _alloy: Mo 0.25_ | model | [1] Davydov 1999 | Table 5, p. 10, row 1 |  |
-| Entropy of formation; _printed: ΔfS^298_ | 0.1 J/mol-atom/K | 298.15 | ε; _alloy: Mo 0.25_ | model | [1] Davydov 1999 | Table 5, p. 10, row 1 |  |
 | Entropy of formation; _printed: ΔfS^298_ | -1.3 J/mol-atom/K ± 0.8 | 298.15 | ε; _alloy: Mo 0.25_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 2 |  |
-| Entropy of formation; _printed: ΔfS298_ | -1.3 J/mol-atom/K ± 0.8 | 298.15 | ε; _alloy: Mo 0.25_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 2 |  |
 | Entropy of formation; _printed: ΔfS298_ | 1.8 J/mol-atom/K ± 0.8 | 298.15 | μ; _alloy: Mo 0.48_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 4 |  |
-| Entropy of formation; _printed: ΔfS^298_ | 1.8 J/mol-atom/K ± 0.8 | 298.15 | μ; _alloy: Mo 0.48_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 4 |  |
 | Entropy of formation; _printed: ΔfS^298_ | 2.4 J/mol-atom/K | 298.15 | μ; _alloy: Mo 0.48_ | model | [1] Davydov 1999 | Table 5, p. 10, row 3 |  |
-| Entropy of formation; _printed: ΔfS298_ | 2.4 J/mol-atom/K | 298.15 | μ; _alloy: Mo 0.48_ | model | [1] Davydov 1999 | Table 5, p. 10, row 3 |  |
 | Entropy of formation; _printed: ΔfS^298_ | 3.3 J/mol-atom/K ± 1.2 | 298.15 | σ; _alloy: Mo 0.63_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 6 |  |
-| Entropy of formation; _printed: ΔfS298_ | 3.3 J/mol-atom/K ± 1.2 | 298.15 | σ; _alloy: Mo 0.63_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 6 |  |
 | Entropy of formation; _printed: ΔfS298_ | 3 J/mol-atom/K | 298.15 | σ; _alloy: Mo 0.63_ | model | [1] Davydov 1999 | Table 5, p. 10, row 5 |  |
-| Entropy of formation; _printed: ΔfS^298_ | 3 J/mol-atom/K | 298.15 | σ; _alloy: Mo 0.63_ | model | [1] Davydov 1999 | Table 5, p. 10, row 5 |  |
 
 ## Sources
 

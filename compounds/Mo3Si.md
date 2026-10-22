@@ -1,16 +1,16 @@
 # Mo3Si: enthalpy of formation
 
-> Enthalpy of formation of Mo3Si: 44 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Mo3Si: 35 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Mo3Si.html · Markdown: https://data.orchid-project.org/compounds/Mo3Si.md
 
-44 accepted literature formation-enthalpy value(s) (experimental 17, model 26, DFT 1); experimental median -29.1 kJ/mol-atom (n = 17); Materials Project -30.345 kJ/mol-atom (mp-aaaaabxb); OQMD -29.355 kJ/mol-atom (oqmd-5887).
+35 accepted literature formation-enthalpy value(s) (experimental 13, model 21, DFT 1); experimental median -29.1 kJ/mol-atom (n = 13); Materials Project -30.345 kJ/mol-atom (mp-aaaaabxb); OQMD -29.355 kJ/mol-atom (oqmd-5887).
 
 Systems: [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Mo3Si reported in the literature (44)
+Table: Enthalpy of formation of Mo3Si reported in the literature (35)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -19,15 +19,11 @@ Table: Enthalpy of formation of Mo3Si reported in the literature (44)
 | -30.5 kJ/mol-atom ± 1.5 | Mo3Si | 298 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 15 |  |
 | -30.5 kJ/mol-atom ± 1.5 | Mo3Si | 298 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 15 |  |
 | -29.1 kJ/mol-atom ± 3 | Mo3Si | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
-| -29.1 kJ/mol-atom ± 3 | Mo3Si | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
 | -29.1 kJ/mol-atom ± 3 | Mo3Si | 298 | experimental | Knudsen effusion | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Chart 1974_ | Table 8, p. 10, row 40 |  |
 | -29.1 kJ/mol-atom ± 3 | Mo3Si | 298 | experimental | Knudsen effusion | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Chart 1974_ | Table 8, p. 10, row 40 |  |
-| -29.1 kJ/mol-atom ± 3 | Mo3Si | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | -29.1 kJ/mol-atom ± 3 | Mo3Si | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | -29.1 kJ/mol-atom ± 3 | Mo3Si | 298 | experimental | Exp | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | -25.418 kJ/mol-atom | Mo3Si | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
-| -25.418 kJ/mol-atom | Mo3Si | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
-| -24.89 kJ/mol-atom ± 2.09 | Mo3Si | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
 | -24.89 kJ/mol-atom ± 2.09 | Mo3Si | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
 | -24.4 kJ/mol-atom ± 4.2 | Mo3Si | 298 | experimental | Knudsen effusion | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Searcy 1960_ | Table 8, p. 10, row 43 |  |
 | -24.4 kJ/mol-atom ± 4.2 | Mo3Si | 298 | experimental | Knudsen effusion | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Searcy 1960_ | Table 8, p. 10, row 43 |  |
@@ -35,12 +31,9 @@ Table: Enthalpy of formation of Mo3Si reported in the literature (44)
 | -35.83 kJ/mol-atom | Mo3Si | 298 | model | Local density approximation | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Zhong 2016_ | Table 8, p. 10, row 4 |  |
 | -32.28 kJ/mol-atom | Mo3Si | 298 | model | Generalized gradient approximation | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Zhong 2016_ | Table 8, p. 10, row 5 |  |
 | -31.75 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
-| -31.75 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
 | -31.75 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
 | -29.8052 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
-| -29.8052 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | -29.8052 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
-| -29.7102 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | -29.7102 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | -29.7102 kJ/mol-atom | Mo3Si | 298 | model | Assessed | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | -29.6 kJ/mol-atom | Mo3Si | 298 | model | Calculation similar to Miedema | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Machlin 1981_ | Table 8, p. 10, row 35 |  |
@@ -49,9 +42,7 @@ Table: Enthalpy of formation of Mo3Si reported in the literature (44)
 | -29.259 kJ/mol-atom | Mo3Si | 298 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010 | Table 2, p. 6, row 10 |  |
 | -29.1 kJ/mol-atom ± 3 | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
 | -28.372 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
-| -28.372 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | -28.372 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
-| -27.9 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000 | Table 2, p. 6, row 9 |  |
 | -27.9 kJ/mol-atom | Mo3Si | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000 | Table 2, p. 6, row 9 |  |
 | -27.9 kJ/mol-atom | Mo3Si | 298 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
 | -26 kJ/mol-atom | Mo3Si | 298 | model | Prediction with Miedema model | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Niessen 1981_ | Table 8, p. 10, row 33 |  |

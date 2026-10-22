@@ -28,13 +28,13 @@ Table: Mixing / partial, Al–Nb–Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔdissH̄i°_ | -55.9 kJ mol−1 ± 1.8 | 1773 | UNKNOWN; _alloy: Nb 0.19, Ni 0, Ti 0.253_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 4 |  |
-| Partial enthalpy; _printed: ΔdissH̄i°_ | -98.3 kJ mol−1 ± 1.9 | 1773 | UNKNOWN; _alloy: Nb 0, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 3 |  |
-| Partial enthalpy; _printed: ΔdissH̄i°_ | -88.8 kJ mol−1 ± 1.9 | 1773 | UNKNOWN; _alloy: Nb 0, Ni 0, Ti 1_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 2 |  |
-| Partial enthalpy; _printed: ΔdissH̄i°_ | -81.3 kJ mol−1 ± 1.7 | 1773 | UNKNOWN; _alloy: Nb 1, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 1 |  |
-| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -98.3 kJ mol−1 ± 1.9 | 1773 | liquid Ni; _alloy: Nb 0, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 3 |  |
-| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -88.8 kJ mol−1 ± 1.9 | 1773 | liquid Ni; _alloy: Nb 0, Ni 0, Ti 1_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 2 |  |
-| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -81.3 kJ mol−1 ± 1.7 | 1773 | liquid Ni; _alloy: Nb 1, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 1 |  |
+| Partial enthalpy; _printed: ΔdissH̄i°_ | -55.9 kJ/mol (basis unstated) ± 1.8 | 1773 | UNKNOWN; _alloy: Nb 0.19, Ni 0, Ti 0.253_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 4 |  |
+| Partial enthalpy; _printed: ΔdissH̄i°_ | -98.3 kJ/mol (basis unstated) ± 1.9 | 1773 | UNKNOWN; _alloy: Nb 0, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 3 |  |
+| Partial enthalpy; _printed: ΔdissH̄i°_ | -88.8 kJ/mol (basis unstated) ± 1.9 | 1773 | UNKNOWN; _alloy: Nb 0, Ni 0, Ti 1_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 2 |  |
+| Partial enthalpy; _printed: ΔdissH̄i°_ | -81.3 kJ/mol (basis unstated) ± 1.7 | 1773 | UNKNOWN; _alloy: Nb 1, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 1 |  |
+| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -98.3 kJ/mol (basis unstated) ± 1.9 | 1773 | liquid Ni; _alloy: Nb 0, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 3 |  |
+| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -88.8 kJ/mol (basis unstated) ± 1.9 | 1773 | liquid Ni; _alloy: Nb 0, Ni 0, Ti 1_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 2 |  |
+| Partial enthalpy; _printed: ΔdissH°i (infinite dilution in Ni)_ | -81.3 kJ/mol (basis unstated) ± 1.7 | 1773 | liquid Ni; _alloy: Nb 1, Ni 0, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 4, p. 10, row 1 |  |
 
 ## Sources
 

@@ -58,14 +58,14 @@ Table: Invariant reactions reported in the literature for the Pb–Pt system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1189 | Peritectic: L + fcc (Pt) -> Pt3Pb | L: Pt 0.583; Pt3Pb: Pt 0.75 | model | [1] Long 2009 | Table 3, p. 3, row 2 |  |
-| 1188 | Peritectic: L + fcc (Pt) -> Pt3Pb | L: Pt 0.58; Pt3Pb: Pt 0.75 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 1 |  |
-| 1068 | Peritectic: L + Pt3Pb -> PtPb | L: Pt 0.475; Pt3Pb: Pt 0.75; PtPb: Pt 0.5 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 3 |  |
-| 1065 | Peritectic: L + Pt3Pb -> PtPb | L: Pt 0.488; Pt3Pb: Pt 0.75; PtPb: Pt 0.5 | model | [1] Long 2009 | Table 3, p. 3, row 4 |  |
-| 633 | Peritectic: L + PtPb -> PtPb4 | L: Pt 0.133; PtPb: Pt 0.5; PtPb4: Pt 0.2 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 5 |  |
-| 633 | Peritectic: L + PtPb -> PtPb4 | L: Pt 0.133; PtPb: Pt 0.5; PtPb4: Pt 0.2 | model | [1] Long 2009 | Table 3, p. 3, row 6 |  |
-| 563 | Eutectic: L -> PtPb4 + fcc (Pb) | L: Pt 0.053; PtPb4: Pt 0.2 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 7 |  |
-| 557 | Eutectic: L -> PtPb4 + fcc (Pb) | L: Pt 0.052; PtPb4: Pt 0.2 | model | [1] Long 2009 | Table 3, p. 3, row 8 |  |
+| 1189 | peritectic: L + fcc (Pt) -> Pt3Pb | L: Pt 0.583; Pt3Pb: Pt 0.75 | model | [1] Long 2009 | Table 3, p. 3, row 2 |  |
+| 1188 | peritectic: L + fcc (Pt) -> Pt3Pb | L: Pt 0.58; Pt3Pb: Pt 0.75 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 1 |  |
+| 1068 | peritectic: L + Pt3Pb -> PtPb | L: Pt 0.475; Pt3Pb: Pt 0.75; PtPb: Pt 0.5 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 3 |  |
+| 1065 | peritectic: L + Pt3Pb -> PtPb | L: Pt 0.488; Pt3Pb: Pt 0.75; PtPb: Pt 0.5 | model | [1] Long 2009 | Table 3, p. 3, row 4 |  |
+| 633 | peritectic: L + PtPb -> PtPb4 | L: Pt 0.133; PtPb: Pt 0.5; PtPb4: Pt 0.2 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 5 |  |
+| 633 | peritectic: L + PtPb -> PtPb4 | L: Pt 0.133; PtPb: Pt 0.5; PtPb4: Pt 0.2 | model | [1] Long 2009 | Table 3, p. 3, row 6 |  |
+| 563 | eutectic: L -> PtPb4 + fcc (Pb) | L: Pt 0.053; PtPb4: Pt 0.2 | unspecified | [1] Long 2009; _cites Conclusions_ | Table 3, p. 3, row 7 |  |
+| 557 | eutectic: L -> PtPb4 + fcc (Pb) | L: Pt 0.052; PtPb4: Pt 0.2 | model | [1] Long 2009 | Table 3, p. 3, row 8 |  |
 
 ## Other properties
 

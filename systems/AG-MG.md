@@ -110,142 +110,142 @@ Table: Mixing / partial, Ag–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH_ | -8699 J/mol (basis unstated) ± 502 | 991 | L; _alloy: Ag 0.2057, Mg 0.7943_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -5356 J/mol (basis unstated) ± 884 | 991 | L; _alloy: Ag 0.1134, Mg 0.8866_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4419 J/mol (basis unstated) ± 1014 | 991 | L; _alloy: Ag 0.0934, Mg 0.9066_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -3658 J/mol (basis unstated) ± 1149 | 991 | L; _alloy: Ag 0.0762, Mg 0.9238_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9415 J/mol (basis unstated) ± 422 | 991 | L; _alloy: Ag 0.2332, Mg 0.7668_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -7270 J/mol (basis unstated) ± 640 | 991 | L; _alloy: Ag 0.1655, Mg 0.8345_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6337 J/mol (basis unstated) ± 757 | 991 | L; _alloy: Ag 0.1378, Mg 0.8622_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9568 J/mol (basis unstated) ± 387 | 991 | L; _alloy: Ag 0.2484, Mg 0.7516_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9071 J/mol (basis unstated) ± 460 | 991 | L; _alloy: Ag 0.2197, Mg 0.7803_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8699 J/mol (basis unstated) ± 502 | 991 | liquid; _alloy: Ag 0.2057, Mg 0.7943_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -5356 J/mol (basis unstated) ± 884 | 991 | liquid; _alloy: Ag 0.1134, Mg 0.8866_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4419 J/mol (basis unstated) ± 1014 | 991 | liquid; _alloy: Ag 0.0934, Mg 0.9066_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -3658 J/mol (basis unstated) ± 1149 | 991 | liquid; _alloy: Ag 0.0762, Mg 0.9238_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9415 J/mol (basis unstated) ± 422 | 991 | liquid; _alloy: Ag 0.2332, Mg 0.7668_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -7270 J/mol (basis unstated) ± 640 | 991 | liquid; _alloy: Ag 0.1655, Mg 0.8345_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6337 J/mol (basis unstated) ± 757 | 991 | liquid; _alloy: Ag 0.1378, Mg 0.8622_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9568 J/mol (basis unstated) ± 387 | 991 | liquid; _alloy: Ag 0.2484, Mg 0.7516_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9071 J/mol (basis unstated) ± 460 | 991 | liquid; _alloy: Ag 0.2197, Mg 0.7803_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13173 J/mol (basis unstated) ± 516 | 1141 | L; _alloy: Ag 0.5345, Mg 0.4655_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -11153 J/mol (basis unstated) ± 389 | 1141 | L; _alloy: Ag 0.3333, Mg 0.6667_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -11940 J/mol (basis unstated) ± 397 | 1141 | L; _alloy: Ag 0.366, Mg 0.634_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12752 J/mol (basis unstated) ± 411 | 1141 | L; _alloy: Ag 0.4053, Mg 0.5947_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13219 J/mol (basis unstated) ± 497 | 1141 | L; _alloy: Ag 0.516, Mg 0.484_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13451 J/mol (basis unstated) ± 436 | 1141 | L; _alloy: Ag 0.4548, Mg 0.5452_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -10215 J/mol (basis unstated) ± 381 | 1141 | L; _alloy: Ag 0.2968, Mg 0.7032_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13174 J/mol (basis unstated) ± 534 | 1141 | L; _alloy: Ag 0.5522, Mg 0.4478_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 21 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12989 J/mol (basis unstated) ± 551 | 1141 | L; _alloy: Ag 0.5645, Mg 0.4355_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 22 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13338 J/mol (basis unstated) ± 477 | 1141 | L; _alloy: Ag 0.4981, Mg 0.5019_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13194 J/mol (basis unstated) ± 422 | 1141 | L; _alloy: Ag 0.4311, Mg 0.5689_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12420 J/mol (basis unstated) ± 404 | 1141 | L; _alloy: Ag 0.3878, Mg 0.6122_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12901 J/mol (basis unstated) ± 568 | 1141 | L; _alloy: Ag 0.5777, Mg 0.4223_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 23 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13547 J/mol (basis unstated) ± 454 | 1141 | L; _alloy: Ag 0.4782, Mg 0.5218_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13173 J/mol (basis unstated) ± 516 | 1141 | liquid; _alloy: Ag 0.5345, Mg 0.4655_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -11153 J/mol (basis unstated) ± 389 | 1141 | liquid; _alloy: Ag 0.3333, Mg 0.6667_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -11940 J/mol (basis unstated) ± 397 | 1141 | liquid; _alloy: Ag 0.366, Mg 0.634_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12752 J/mol (basis unstated) ± 411 | 1141 | liquid; _alloy: Ag 0.4053, Mg 0.5947_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13219 J/mol (basis unstated) ± 497 | 1141 | liquid; _alloy: Ag 0.516, Mg 0.484_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13451 J/mol (basis unstated) ± 436 | 1141 | liquid; _alloy: Ag 0.4548, Mg 0.5452_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -10215 J/mol (basis unstated) ± 381 | 1141 | liquid; _alloy: Ag 0.2968, Mg 0.7032_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13174 J/mol (basis unstated) ± 534 | 1141 | liquid; _alloy: Ag 0.5522, Mg 0.4478_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 21 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12989 J/mol (basis unstated) ± 551 | 1141 | liquid; _alloy: Ag 0.5645, Mg 0.4355_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 22 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13338 J/mol (basis unstated) ± 477 | 1141 | liquid; _alloy: Ag 0.4981, Mg 0.5019_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13194 J/mol (basis unstated) ± 422 | 1141 | liquid; _alloy: Ag 0.4311, Mg 0.5689_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12420 J/mol (basis unstated) ± 404 | 1141 | liquid; _alloy: Ag 0.3878, Mg 0.6122_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12901 J/mol (basis unstated) ± 568 | 1141 | liquid; _alloy: Ag 0.5777, Mg 0.4223_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 23 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13547 J/mol (basis unstated) ± 454 | 1141 | liquid; _alloy: Ag 0.4782, Mg 0.5218_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4879 J/mol (basis unstated) ± 44 | 1272 | L; _alloy: Ag 0.9012, Mg 0.0988_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13177 J/mol (basis unstated) ± 199 | 1272 | L; _alloy: Ag 0.5919, Mg 0.4081_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 34 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9821 J/mol (basis unstated) ± 66 | 1272 | L; _alloy: Ag 0.7707, Mg 0.2293_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 28 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -10894 J/mol (basis unstated) ± 81 | 1272 | L; _alloy: Ag 0.7309, Mg 0.2691_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 29 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -11855 J/mol (basis unstated) ± 91 | 1272 | L; _alloy: Ag 0.6979, Mg 0.3021_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 30 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13076 J/mol (basis unstated) ± 166 | 1272 | L; _alloy: Ag 0.6156, Mg 0.3844_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 33 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12488 J/mol (basis unstated) ± 108 | 1272 | L; _alloy: Ag 0.6696, Mg 0.3304_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 31 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12773 J/mol (basis unstated) ± 138 | 1272 | L; _alloy: Ag 0.6418, Mg 0.3582_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 32 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6898 J/mol (basis unstated) ± 52 | 1272 | L; _alloy: Ag 0.8527, Mg 0.1473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2573 J/mol (basis unstated) ± 29 | 1272 | L; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8696 J/mol (basis unstated) ± 58 | 1272 | L; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4879 J/mol (basis unstated) ± 44 | 1272 | liquid; _alloy: Ag 0.9012, Mg 0.0988_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13177 J/mol (basis unstated) ± 199 | 1272 | liquid; _alloy: Ag 0.5919, Mg 0.4081_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 34 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9821 J/mol (basis unstated) ± 66 | 1272 | liquid; _alloy: Ag 0.7707, Mg 0.2293_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 28 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -10894 J/mol (basis unstated) ± 81 | 1272 | liquid; _alloy: Ag 0.7309, Mg 0.2691_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 29 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -11855 J/mol (basis unstated) ± 91 | 1272 | liquid; _alloy: Ag 0.6979, Mg 0.3021_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 30 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -13076 J/mol (basis unstated) ± 166 | 1272 | liquid; _alloy: Ag 0.6156, Mg 0.3844_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 33 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12488 J/mol (basis unstated) ± 108 | 1272 | liquid; _alloy: Ag 0.6696, Mg 0.3304_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 31 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12773 J/mol (basis unstated) ± 138 | 1272 | liquid; _alloy: Ag 0.6418, Mg 0.3582_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 32 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6898 J/mol (basis unstated) ± 52 | 1272 | liquid; _alloy: Ag 0.8527, Mg 0.1473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2573 J/mol (basis unstated) ± 29 | 1272 | liquid; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8696 J/mol (basis unstated) ± 58 | 1272 | liquid; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -3216 J/mol | 991 | L; _alloy: Ag 0.2057, Mg 0.7943_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 4 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -787 J/mol | 991 | L; _alloy: Ag 0.1134, Mg 0.8866_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 7 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -49 J/mol | 991 | L; _alloy: Ag 0.0934, Mg 0.9066_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 8 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -289 J/mol | 991 | L; _alloy: Ag 0.0762, Mg 0.9238_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 9 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -7051 J/mol | 991 | L; _alloy: Ag 0.2332, Mg 0.7668_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 2 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -1382 J/mol | 991 | L; _alloy: Ag 0.1655, Mg 0.8345_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 5 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -1708 J/mol | 991 | L; _alloy: Ag 0.1378, Mg 0.8622_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 6 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -12730 J/mol | 991 | L; _alloy: Ag 0.2484, Mg 0.7516_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 1 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -3499 J/mol | 991 | L; _alloy: Ag 0.2197, Mg 0.7803_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 3 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -3216 J/mol | 991 | liquid; _alloy: Ag 0.2057, Mg 0.7943_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 4 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -787 J/mol | 991 | liquid; _alloy: Ag 0.1134, Mg 0.8866_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 7 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -49 J/mol | 991 | liquid; _alloy: Ag 0.0934, Mg 0.9066_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 8 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -289 J/mol | 991 | liquid; _alloy: Ag 0.0762, Mg 0.9238_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 9 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -7051 J/mol | 991 | liquid; _alloy: Ag 0.2332, Mg 0.7668_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 2 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -1382 J/mol | 991 | liquid; _alloy: Ag 0.1655, Mg 0.8345_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 5 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -1708 J/mol | 991 | liquid; _alloy: Ag 0.1378, Mg 0.8622_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 6 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -12730 J/mol | 991 | liquid; _alloy: Ag 0.2484, Mg 0.7516_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 1 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -3499 J/mol | 991 | liquid; _alloy: Ag 0.2197, Mg 0.7803_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 3 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -12020 J/mol | 1141 | L; _alloy: Ag 0.5345, Mg 0.4655_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 20 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -28278 J/mol | 1141 | L; _alloy: Ag 0.3333, Mg 0.6667_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 11 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -27239 J/mol | 1141 | L; _alloy: Ag 0.366, Mg 0.634_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 12 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -24000 J/mol | 1141 | L; _alloy: Ag 0.4053, Mg 0.5947_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 14 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -9973 J/mol | 1141 | L; _alloy: Ag 0.516, Mg 0.484_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 19 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -19359 J/mol | 1141 | L; _alloy: Ag 0.4548, Mg 0.5452_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 16 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -14526 J/mol | 1141 | L; _alloy: Ag 0.2968, Mg 0.7032_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 10 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -13209 J/mol | 1141 | L; _alloy: Ag 0.5522, Mg 0.4478_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 21 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -6428 J/mol | 1141 | L; _alloy: Ag 0.5645, Mg 0.4355_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 22 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -8096 J/mol | 1141 | L; _alloy: Ag 0.4981, Mg 0.5019_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 18 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -22960 J/mol | 1141 | L; _alloy: Ag 0.4311, Mg 0.5689_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 15 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -25851 J/mol | 1141 | L; _alloy: Ag 0.3878, Mg 0.6122_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 13 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -10127 J/mol | 1141 | L; _alloy: Ag 0.5777, Mg 0.4223_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 23 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -15688 J/mol | 1141 | L; _alloy: Ag 0.4782, Mg 0.5218_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 17 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -12020 J/mol | 1141 | liquid; _alloy: Ag 0.5345, Mg 0.4655_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 20 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -28278 J/mol | 1141 | liquid; _alloy: Ag 0.3333, Mg 0.6667_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 11 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -27239 J/mol | 1141 | liquid; _alloy: Ag 0.366, Mg 0.634_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 12 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -24000 J/mol | 1141 | liquid; _alloy: Ag 0.4053, Mg 0.5947_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 14 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -9973 J/mol | 1141 | liquid; _alloy: Ag 0.516, Mg 0.484_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 19 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -19359 J/mol | 1141 | liquid; _alloy: Ag 0.4548, Mg 0.5452_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 16 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -14526 J/mol | 1141 | liquid; _alloy: Ag 0.2968, Mg 0.7032_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 10 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -13209 J/mol | 1141 | liquid; _alloy: Ag 0.5522, Mg 0.4478_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 21 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -6428 J/mol | 1141 | liquid; _alloy: Ag 0.5645, Mg 0.4355_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 22 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -8096 J/mol | 1141 | liquid; _alloy: Ag 0.4981, Mg 0.5019_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 18 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -22960 J/mol | 1141 | liquid; _alloy: Ag 0.4311, Mg 0.5689_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 15 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -25851 J/mol | 1141 | liquid; _alloy: Ag 0.3878, Mg 0.6122_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 13 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -10127 J/mol | 1141 | liquid; _alloy: Ag 0.5777, Mg 0.4223_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 23 |  |
-| Partial enthalpy; _printed: ΔH̄\_Ag_ | -15688 J/mol | 1141 | liquid; _alloy: Ag 0.4782, Mg 0.5218_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 17 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -45183 J/mol | 1272 | L; _alloy: Ag 0.9012, Mg 0.0988_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 25 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -15722 J/mol | 1272 | L; _alloy: Ag 0.5919, Mg 0.4081_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 34 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -33364 J/mol | 1272 | L; _alloy: Ag 0.7707, Mg 0.2293_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 28 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -30577 J/mol | 1272 | L; _alloy: Ag 0.7309, Mg 0.2691_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 29 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -32182 J/mol | 1272 | L; _alloy: Ag 0.6979, Mg 0.3021_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 30 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -20159 J/mol | 1272 | L; _alloy: Ag 0.6156, Mg 0.3844_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 33 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -27481 J/mol | 1272 | L; _alloy: Ag 0.6696, Mg 0.3304_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 31 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -19364 J/mol | 1272 | L; _alloy: Ag 0.6418, Mg 0.3582_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 32 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -42411 J/mol | 1272 | L; _alloy: Ag 0.8527, Mg 0.1473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 26 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -54443 J/mol | 1272 | L; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -40854 J/mol | 1272 | L; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -45183 J/mol | 1272 | liquid; _alloy: Ag 0.9012, Mg 0.0988_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 25 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -15722 J/mol | 1272 | liquid; _alloy: Ag 0.5919, Mg 0.4081_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 34 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -33364 J/mol | 1272 | liquid; _alloy: Ag 0.7707, Mg 0.2293_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 28 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -30577 J/mol | 1272 | liquid; _alloy: Ag 0.7309, Mg 0.2691_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 29 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -32182 J/mol | 1272 | liquid; _alloy: Ag 0.6979, Mg 0.3021_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 30 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -20159 J/mol | 1272 | liquid; _alloy: Ag 0.6156, Mg 0.3844_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 33 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -27481 J/mol | 1272 | liquid; _alloy: Ag 0.6696, Mg 0.3304_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 31 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -19364 J/mol | 1272 | liquid; _alloy: Ag 0.6418, Mg 0.3582_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 32 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -42411 J/mol | 1272 | liquid; _alloy: Ag 0.8527, Mg 0.1473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 26 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -54443 J/mol | 1272 | liquid; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
-| Partial enthalpy; _printed: ΔH̄\_Mg_ | -40854 J/mol | 1272 | liquid; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.699 kJ/mol (basis unstated) ± 0.502 | 991 | L; _alloy: Ag 0.2057, Mg 0.7943_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.356 kJ/mol (basis unstated) ± 0.884 | 991 | L; _alloy: Ag 0.1134, Mg 0.8866_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.419 kJ/mol (basis unstated) ± 1.014 | 991 | L; _alloy: Ag 0.0934, Mg 0.9066_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -3.658 kJ/mol (basis unstated) ± 1.149 | 991 | L; _alloy: Ag 0.0762, Mg 0.9238_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.415 kJ/mol (basis unstated) ± 0.422 | 991 | L; _alloy: Ag 0.2332, Mg 0.7668_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.27 kJ/mol (basis unstated) ± 0.64 | 991 | L; _alloy: Ag 0.1655, Mg 0.8345_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.337 kJ/mol (basis unstated) ± 0.757 | 991 | L; _alloy: Ag 0.1378, Mg 0.8622_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.568 kJ/mol (basis unstated) ± 0.387 | 991 | L; _alloy: Ag 0.2484, Mg 0.7516_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.071 kJ/mol (basis unstated) ± 0.46 | 991 | L; _alloy: Ag 0.2197, Mg 0.7803_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.699 kJ/mol (basis unstated) ± 0.502 | 991 | liquid; _alloy: Ag 0.2057, Mg 0.7943_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.356 kJ/mol (basis unstated) ± 0.884 | 991 | liquid; _alloy: Ag 0.1134, Mg 0.8866_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.419 kJ/mol (basis unstated) ± 1.014 | 991 | liquid; _alloy: Ag 0.0934, Mg 0.9066_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -3.658 kJ/mol (basis unstated) ± 1.149 | 991 | liquid; _alloy: Ag 0.0762, Mg 0.9238_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.415 kJ/mol (basis unstated) ± 0.422 | 991 | liquid; _alloy: Ag 0.2332, Mg 0.7668_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.27 kJ/mol (basis unstated) ± 0.64 | 991 | liquid; _alloy: Ag 0.1655, Mg 0.8345_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.337 kJ/mol (basis unstated) ± 0.757 | 991 | liquid; _alloy: Ag 0.1378, Mg 0.8622_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.568 kJ/mol (basis unstated) ± 0.387 | 991 | liquid; _alloy: Ag 0.2484, Mg 0.7516_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.071 kJ/mol (basis unstated) ± 0.46 | 991 | liquid; _alloy: Ag 0.2197, Mg 0.7803_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.173 kJ/mol (basis unstated) ± 0.516 | 1141 | L; _alloy: Ag 0.5345, Mg 0.4655_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 20 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -11.153 kJ/mol (basis unstated) ± 0.389 | 1141 | L; _alloy: Ag 0.3333, Mg 0.6667_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -11.94 kJ/mol (basis unstated) ± 0.397 | 1141 | L; _alloy: Ag 0.366, Mg 0.634_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.752 kJ/mol (basis unstated) ± 0.411 | 1141 | L; _alloy: Ag 0.4053, Mg 0.5947_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.219 kJ/mol (basis unstated) ± 0.497 | 1141 | L; _alloy: Ag 0.516, Mg 0.484_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 19 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.451 kJ/mol (basis unstated) ± 0.436 | 1141 | L; _alloy: Ag 0.4548, Mg 0.5452_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -10.215 kJ/mol (basis unstated) ± 0.381 | 1141 | L; _alloy: Ag 0.2968, Mg 0.7032_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.174 kJ/mol (basis unstated) ± 0.534 | 1141 | L; _alloy: Ag 0.5522, Mg 0.4478_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 21 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.989 kJ/mol (basis unstated) ± 0.551 | 1141 | L; _alloy: Ag 0.5645, Mg 0.4355_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 22 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.338 kJ/mol (basis unstated) ± 0.477 | 1141 | L; _alloy: Ag 0.4981, Mg 0.5019_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.194 kJ/mol (basis unstated) ± 0.422 | 1141 | L; _alloy: Ag 0.4311, Mg 0.5689_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.42 kJ/mol (basis unstated) ± 0.404 | 1141 | L; _alloy: Ag 0.3878, Mg 0.6122_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.901 kJ/mol (basis unstated) ± 0.568 | 1141 | L; _alloy: Ag 0.5777, Mg 0.4223_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 23 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.547 kJ/mol (basis unstated) ± 0.454 | 1141 | L; _alloy: Ag 0.4782, Mg 0.5218_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.173 kJ/mol (basis unstated) ± 0.516 | 1141 | liquid; _alloy: Ag 0.5345, Mg 0.4655_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 20 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -11.153 kJ/mol (basis unstated) ± 0.389 | 1141 | liquid; _alloy: Ag 0.3333, Mg 0.6667_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -11.94 kJ/mol (basis unstated) ± 0.397 | 1141 | liquid; _alloy: Ag 0.366, Mg 0.634_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.752 kJ/mol (basis unstated) ± 0.411 | 1141 | liquid; _alloy: Ag 0.4053, Mg 0.5947_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.219 kJ/mol (basis unstated) ± 0.497 | 1141 | liquid; _alloy: Ag 0.516, Mg 0.484_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 19 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.451 kJ/mol (basis unstated) ± 0.436 | 1141 | liquid; _alloy: Ag 0.4548, Mg 0.5452_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -10.215 kJ/mol (basis unstated) ± 0.381 | 1141 | liquid; _alloy: Ag 0.2968, Mg 0.7032_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.174 kJ/mol (basis unstated) ± 0.534 | 1141 | liquid; _alloy: Ag 0.5522, Mg 0.4478_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 21 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.989 kJ/mol (basis unstated) ± 0.551 | 1141 | liquid; _alloy: Ag 0.5645, Mg 0.4355_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 22 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.338 kJ/mol (basis unstated) ± 0.477 | 1141 | liquid; _alloy: Ag 0.4981, Mg 0.5019_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.194 kJ/mol (basis unstated) ± 0.422 | 1141 | liquid; _alloy: Ag 0.4311, Mg 0.5689_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.42 kJ/mol (basis unstated) ± 0.404 | 1141 | liquid; _alloy: Ag 0.3878, Mg 0.6122_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.901 kJ/mol (basis unstated) ± 0.568 | 1141 | liquid; _alloy: Ag 0.5777, Mg 0.4223_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 23 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.547 kJ/mol (basis unstated) ± 0.454 | 1141 | liquid; _alloy: Ag 0.4782, Mg 0.5218_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.879 kJ/mol (basis unstated) ± 0.044 | 1272 | L; _alloy: Ag 0.9012, Mg 0.0988_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.177 kJ/mol (basis unstated) ± 0.199 | 1272 | L; _alloy: Ag 0.5919, Mg 0.4081_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 34 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.821 kJ/mol (basis unstated) ± 0.066 | 1272 | L; _alloy: Ag 0.7707, Mg 0.2293_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 28 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -10.894 kJ/mol (basis unstated) ± 0.081 | 1272 | L; _alloy: Ag 0.7309, Mg 0.2691_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 29 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -11.855 kJ/mol (basis unstated) ± 0.091 | 1272 | L; _alloy: Ag 0.6979, Mg 0.3021_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 30 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.076 kJ/mol (basis unstated) ± 0.166 | 1272 | L; _alloy: Ag 0.6156, Mg 0.3844_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 33 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.488 kJ/mol (basis unstated) ± 0.108 | 1272 | L; _alloy: Ag 0.6696, Mg 0.3304_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 31 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.773 kJ/mol (basis unstated) ± 0.138 | 1272 | L; _alloy: Ag 0.6418, Mg 0.3582_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 32 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.898 kJ/mol (basis unstated) ± 0.052 | 1272 | L; _alloy: Ag 0.8527, Mg 0.1473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 26 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.573 kJ/mol (basis unstated) ± 0.029 | 1272 | L; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.696 kJ/mol (basis unstated) ± 0.058 | 1272 | L; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.879 kJ/mol (basis unstated) ± 0.044 | 1272 | liquid; _alloy: Ag 0.9012, Mg 0.0988_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.177 kJ/mol (basis unstated) ± 0.199 | 1272 | liquid; _alloy: Ag 0.5919, Mg 0.4081_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 34 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.821 kJ/mol (basis unstated) ± 0.066 | 1272 | liquid; _alloy: Ag 0.7707, Mg 0.2293_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 28 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -10.894 kJ/mol (basis unstated) ± 0.081 | 1272 | liquid; _alloy: Ag 0.7309, Mg 0.2691_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 29 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -11.855 kJ/mol (basis unstated) ± 0.091 | 1272 | liquid; _alloy: Ag 0.6979, Mg 0.3021_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 30 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -13.076 kJ/mol (basis unstated) ± 0.166 | 1272 | liquid; _alloy: Ag 0.6156, Mg 0.3844_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 33 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.488 kJ/mol (basis unstated) ± 0.108 | 1272 | liquid; _alloy: Ag 0.6696, Mg 0.3304_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 31 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.773 kJ/mol (basis unstated) ± 0.138 | 1272 | liquid; _alloy: Ag 0.6418, Mg 0.3582_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 32 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.898 kJ/mol (basis unstated) ± 0.052 | 1272 | liquid; _alloy: Ag 0.8527, Mg 0.1473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 26 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.573 kJ/mol (basis unstated) ± 0.029 | 1272 | liquid; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.696 kJ/mol (basis unstated) ± 0.058 | 1272 | liquid; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -3.216 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.2057, Mg 0.7943_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 4 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -0.787 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.1134, Mg 0.8866_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 7 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -0.049 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.0934, Mg 0.9066_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 8 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -0.289 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.0762, Mg 0.9238_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 9 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -7.051 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.2332, Mg 0.7668_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 2 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -1.382 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.1655, Mg 0.8345_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 5 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -1.708 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.1378, Mg 0.8622_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 6 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -12.73 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.2484, Mg 0.7516_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 1 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -3.499 kJ/mol (basis unstated) | 991 | L; _alloy: Ag 0.2197, Mg 0.7803_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 3 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -3.216 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.2057, Mg 0.7943_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 4 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -0.787 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.1134, Mg 0.8866_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 7 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -0.049 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.0934, Mg 0.9066_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 8 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -0.289 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.0762, Mg 0.9238_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 9 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -7.051 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.2332, Mg 0.7668_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 2 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -1.382 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.1655, Mg 0.8345_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 5 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -1.708 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.1378, Mg 0.8622_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 6 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -12.73 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.2484, Mg 0.7516_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 1 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -3.499 kJ/mol (basis unstated) | 991 | liquid; _alloy: Ag 0.2197, Mg 0.7803_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 3 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -12.02 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.5345, Mg 0.4655_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 20 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -28.278 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.3333, Mg 0.6667_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 11 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -27.239 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.366, Mg 0.634_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 12 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -24 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.4053, Mg 0.5947_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 14 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -9.973 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.516, Mg 0.484_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 19 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -19.359 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.4548, Mg 0.5452_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 16 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -14.526 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.2968, Mg 0.7032_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 10 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -13.209 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.5522, Mg 0.4478_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 21 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -6.428 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.5645, Mg 0.4355_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 22 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -8.096 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.4981, Mg 0.5019_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 18 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -22.96 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.4311, Mg 0.5689_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 15 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -25.851 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.3878, Mg 0.6122_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 13 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -10.127 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.5777, Mg 0.4223_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 23 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -15.688 kJ/mol (basis unstated) | 1141 | L; _alloy: Ag 0.4782, Mg 0.5218_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 17 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -12.02 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.5345, Mg 0.4655_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 20 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -28.278 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.3333, Mg 0.6667_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 11 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -27.239 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.366, Mg 0.634_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 12 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -24 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.4053, Mg 0.5947_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 14 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -9.973 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.516, Mg 0.484_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 19 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -19.359 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.4548, Mg 0.5452_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 16 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -14.526 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.2968, Mg 0.7032_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 10 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -13.209 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.5522, Mg 0.4478_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 21 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -6.428 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.5645, Mg 0.4355_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 22 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -8.096 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.4981, Mg 0.5019_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 18 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -22.96 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.4311, Mg 0.5689_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 15 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -25.851 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.3878, Mg 0.6122_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 13 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -10.127 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.5777, Mg 0.4223_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 23 |  |
+| Partial enthalpy; _printed: ΔH̄\_Ag_ | -15.688 kJ/mol (basis unstated) | 1141 | liquid; _alloy: Ag 0.4782, Mg 0.5218_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 17 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -45.183 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.9012, Mg 0.0988_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 25 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -15.722 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.5919, Mg 0.4081_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 34 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -33.364 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.7707, Mg 0.2293_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 28 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -30.577 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.7309, Mg 0.2691_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 29 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -32.182 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.6979, Mg 0.3021_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 30 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -20.159 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.6156, Mg 0.3844_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 33 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -27.481 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.6696, Mg 0.3304_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 31 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -19.364 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.6418, Mg 0.3582_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 32 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -42.411 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.8527, Mg 0.1473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 26 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -54.443 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -40.854 kJ/mol (basis unstated) | 1272 | L; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -45.183 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.9012, Mg 0.0988_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 25 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -15.722 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.5919, Mg 0.4081_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 34 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -33.364 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.7707, Mg 0.2293_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 28 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -30.577 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.7309, Mg 0.2691_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 29 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -32.182 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.6979, Mg 0.3021_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 30 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -20.159 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.6156, Mg 0.3844_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 33 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -27.481 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.6696, Mg 0.3304_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 31 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -19.364 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.6418, Mg 0.3582_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 32 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -42.411 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.8527, Mg 0.1473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 26 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -54.443 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
+| Partial enthalpy; _printed: ΔH̄\_Mg_ | -40.854 kJ/mol (basis unstated) | 1272 | liquid; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
 
 ### Heat capacity / entropy / enthalpy (27)
 

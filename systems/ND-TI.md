@@ -73,8 +73,8 @@ Table: Phase transition, Nd–Ti system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1140 K | 1140 | polymorphic: dhcp-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 2 |  |
 | Phase transition | 1159 K | 1159 | polymorphic: hcp-Ti; _alloy: Ti 1_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 4 |  |
-| Phase transition | 1294 K | 1294 | congruent: bcc-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 1 |  |
-| Phase transition | 1943 K | 1943 | congruent: bcc-Ti; _alloy: Ti 1_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 3 |  |
+| Phase transition | 1294 K | 1294 | congruent transformation: bcc-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 1 |  |
+| Phase transition | 1943 K | 1943 | congruent transformation: bcc-Ti; _alloy: Ti 1_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 3 |  |
 | Phase transition | 2120 K | 2120 | other | model | [1] Mattern 2014 | p. 7 | “The calculated coordinates of the miscibility gap critical point are 2120 K and 52.32 at%Ti.” |
 
 ### Phase equilibrium (5)

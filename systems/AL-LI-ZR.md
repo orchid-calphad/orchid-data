@@ -1,10 +1,10 @@
 # Al–Li–Zr system
 
-> Al–Li–Zr system: 383 accepted literature values (formation 344, crystal structure 39) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Li–Zr system: 382 accepted literature values (formation 343, crystal structure 39) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-LI-ZR.html · Markdown: https://data.orchid-project.org/systems/AL-LI-ZR.md
 
-383 accepted literature values from 1 paper(s) (experimental 40, model 176, DFT 130, unspecified 37); 0 calculated phase diagram(s).
+382 accepted literature values from 1 paper(s) (experimental 40, model 176, DFT 129, unspecified 37); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-LI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI-ZR) · [Markdown](https://data.orchid-project.org/systems/AL-LI-ZR.md)
 
@@ -14,21 +14,21 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 40 |
 | model | 176 |
-| DFT | 130 |
+| DFT | 129 |
 | unspecified | 37 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 344 |
+| formation | 343 |
 | crystal structure | 39 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Li–Zr system (344)
+Table: Enthalpies of formation, Al–Li–Zr system (343)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -350,7 +350,6 @@ Table: Enthalpies of formation, Al–Li–Zr system (344)
 | UNKNOWN |  | -14 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 133 |  |
 | UNKNOWN |  | -13.8 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 136 |  |
 | UNKNOWN |  | -13.7 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 135 |  |
-| UNKNOWN |  | -13.7 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 139 |  |
 | UNKNOWN |  | -13.1 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 138 |  |
 | UNKNOWN |  | -13.1 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 142 |  |
 | UNKNOWN |  | -11.9 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 140 |  |

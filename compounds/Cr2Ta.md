@@ -1,27 +1,23 @@
 # Cr2Ta: enthalpy of formation
 
-> Enthalpy of formation of Cr2Ta: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Cr2Ta: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cr2Ta.html · Markdown: https://data.orchid-project.org/compounds/Cr2Ta.md
 
-9 accepted literature formation-enthalpy value(s) (experimental 3, model 6); experimental median -8.5 kJ/mol-atom (n = 2); Materials Project -11.01 kJ/mol-atom (mp-aaaaadnt); OQMD -12.142 kJ/mol-atom (oqmd-18299).
+5 accepted literature formation-enthalpy value(s) (experimental 2, model 3); experimental median -8.5 kJ/mol-atom (n = 1); Materials Project -11.01 kJ/mol-atom (mp-aaaaadnt); OQMD -12.142 kJ/mol-atom (oqmd-18299).
 
 Systems: [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) · [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cr2Ta reported in the literature (9)
+Table: Enthalpy of formation of Cr2Ta reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -8.5 kJ/mol-atom ± 0.5 | Cr2Ta (LT) | 1693 | experimental |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1 |  |
-| -8.5 kJ/mol-atom ± 0.5 | Cr2Ta (LT) | 1693 | experimental |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1 |  |
 | -8.5 kJ/mol (basis unstated) | Cr2Ta C14 | 0 | experimental | Experiment | [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) | [2] Pavlů 2009; _cites Feschotte 1941_ | Table 4, p. 4, row 5 |  |
 | -8.93 kJ/mol-atom | Cr2Ta (LT) |  | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993 | Table 4, p. 5, row 3 |  |
-| -8.93 kJ/mol-atom | Cr2Ta (LT) |  | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993 | Table 4, p. 5, row 3 |  |
 | -8.596 kJ/mol-atom | Cr2Ta (LT) |  | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993 | Table 4, p. 5, row 4 |  |
-| -8.596 kJ/mol-atom | Cr2Ta (LT) |  | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993 | Table 4, p. 5, row 4 |  |
-| -5 kJ/mol-atom | Cr2Ta (LT) | 1693 | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2 |  |
 | -5 kJ/mol-atom | Cr2Ta (LT) | 1693 | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2 |  |
 
 ## DFT formation energies

@@ -27,23 +27,23 @@ Table: Invariant reactions reported in the literature for the Er–Fe–Sb syste
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1958 | other: liq. + αErSb + τ |  | model | [1] Wang 2011 | Table 5, p. 9, row 1 |  |
-| 1910 | U: liq. + αErSb -> τ + Er5Sb3 |  | model | [1] Wang 2011 | Table 5, p. 9, row 6 |  |
+| 1910 | quasi-peritectic: liq. + αErSb -> τ + Er5Sb3 |  | model | [1] Wang 2011 | Table 5, p. 9, row 6 |  |
 | 1783 | other: bcc + liq. + αErSb |  | model | [1] Wang 2011 | Table 5, p. 9, row 2 |  |
-| 1658 | U: liq. + bcc -> αErSb + fcc |  | model | [1] Wang 2011 | Table 5, p. 9, row 7 |  |
+| 1658 | quasi-peritectic: liq. + bcc -> αErSb + fcc |  | model | [1] Wang 2011 | Table 5, p. 9, row 7 |  |
 | 1626 | other: liq. + ErFe2 + τ |  | model | [1] Wang 2011 | Table 5, p. 9, row 3 |  |
-| 1618 | U: liq. + fcc -> αErSb + Er2Fe17 |  | model | [1] Wang 2011 | Table 5, p. 9, row 8 |  |
-| 1608 | U: liq. + ErFe2 -> ErFe3 + τ |  | model | [1] Wang 2011 | Table 5, p. 9, row 9 |  |
-| 1602 | U: liq. + τ -> αErSb + ErFe3 |  | model | [1] Wang 2011 | Table 5, p. 9, row 10 |  |
-| 1598 | U: liq. + ErFe3 -> αErSb + Er6Fe23 |  | model | [1] Wang 2011 | Table 5, p. 9, row 11 |  |
-| 1598 | E: liq. -> αErSb + Er2Fe17 + Er6Fe23 |  | model | [1] Wang 2011 | Table 5, p. 9, row 12 |  |
+| 1618 | quasi-peritectic: liq. + fcc -> αErSb + Er2Fe17 |  | model | [1] Wang 2011 | Table 5, p. 9, row 8 |  |
+| 1608 | quasi-peritectic: liq. + ErFe2 -> ErFe3 + τ |  | model | [1] Wang 2011 | Table 5, p. 9, row 9 |  |
+| 1602 | quasi-peritectic: liq. + τ -> αErSb + ErFe3 |  | model | [1] Wang 2011 | Table 5, p. 9, row 10 |  |
+| 1598 | quasi-peritectic: liq. + ErFe3 -> αErSb + Er6Fe23 |  | model | [1] Wang 2011 | Table 5, p. 9, row 11 |  |
+| 1598 | eutectic: liq. -> αErSb + Er2Fe17 + Er6Fe23 |  | model | [1] Wang 2011 | Table 5, p. 9, row 12 |  |
 | 1533 | other: liq. + hcp + τ |  | model | [1] Wang 2011 | Table 5, p. 9, row 4 |  |
-| 1442 | E: liq. -> τ + hcp + Er5Sb3 |  | model | [1] Wang 2011 | Table 5, p. 9, row 13 |  |
+| 1442 | eutectic: liq. -> τ + hcp + Er5Sb3 |  | model | [1] Wang 2011 | Table 5, p. 9, row 13 |  |
 | 1296 | other: liq. + αErSb + FeSb |  | model | [1] Wang 2011 | Table 5, p. 9, row 5 |  |
-| 1279 | E: liq. -> αErSb + FeSb + bcc |  | model | [1] Wang 2011 | Table 5, p. 9, row 14 |  |
-| 1189 | U: liq. + τ -> ErFe2 + hcp |  | model | [1] Wang 2011 | Table 5, p. 9, row 15 |  |
-| 1013 | U: liq. + FeSb -> αErSb + FeSb2 |  | model | [1] Wang 2011 | Table 5, p. 9, row 16 |  |
-| 921 | U: liq. + αErSb -> FeSb2 + ErSb2 |  | model | [1] Wang 2011 | Table 5, p. 9, row 17 |  |
-| 890 | E: liq. -> FeSb2 + ErSb2 + rhombohedral |  | model | [1] Wang 2011 | Table 5, p. 9, row 18 |  |
+| 1279 | eutectic: liq. -> αErSb + FeSb + bcc |  | model | [1] Wang 2011 | Table 5, p. 9, row 14 |  |
+| 1189 | quasi-peritectic: liq. + τ -> ErFe2 + hcp |  | model | [1] Wang 2011 | Table 5, p. 9, row 15 |  |
+| 1013 | quasi-peritectic: liq. + FeSb -> αErSb + FeSb2 |  | model | [1] Wang 2011 | Table 5, p. 9, row 16 |  |
+| 921 | quasi-peritectic: liq. + αErSb -> FeSb2 + ErSb2 |  | model | [1] Wang 2011 | Table 5, p. 9, row 17 |  |
+| 890 | eutectic: liq. -> FeSb2 + ErSb2 + rhombohedral |  | model | [1] Wang 2011 | Table 5, p. 9, row 18 |  |
 
 ## Sources
 

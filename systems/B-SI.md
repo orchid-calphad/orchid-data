@@ -1,10 +1,10 @@
 # B–Si system
 
-> B–Si system: 67 accepted literature values (invariant reaction 31, formation 22, activity / EMF / Gibbs energy 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Si system: 60 accepted literature values (invariant reaction 31, formation 15, activity / EMF / Gibbs energy 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-SI.html · Markdown: https://data.orchid-project.org/systems/B-SI.md
 
-67 accepted literature values from 3 paper(s) (experimental 41, model 16, unspecified 10); 0 calculated phase diagram(s).
+60 accepted literature values from 3 paper(s) (experimental 37, model 16, unspecified 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-SI.json) · [CSV](https://data.orchid-project.org/systems/B-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-SI) · [Markdown](https://data.orchid-project.org/systems/B-SI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 41 |
+| experimental | 37 |
 | model | 16 |
-| unspecified | 10 |
+| unspecified | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 31 |
-| formation | 22 |
+| formation | 15 |
 | activity / EMF / Gibbs energy | 14 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-SI.json) · [CALPHAD hull SiB-01Tok](https://data.orchid-project.org/hulls/calphad-sgte/B/B-SI--SiB-01Tok.json) · [CALPHAD hull SiB-03Tok](https://data.orchid-project.org/hulls/calphad-sgte/B/B-SI--SiB-03Tok.json) · [CALPHAD hull SiB-95Lim-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-SI--SiB-95Lim-LB.json)
@@ -36,51 +36,46 @@ Table: Invariant reactions reported in the literature for the B–Si system (31)
 | 2538 | eutectic |  | model | [1] Chen 2009 | p. 6 | “The eutectic temperature for this pseudo-binary system is 2538 K, which is in agreement with the value determined by Gugel et al. \[33\], Secrist \[31\] and Shaffer \[32\] within experimental error.” |
 | 2523 | eutectic |  | experimental | [1] Chen 2009; _cites Gugel 1972_ | p. 2 | “As to the pseudo-binary system of B4 C-SiC, Secrist \[31\] reported a eutectic reaction at 2573 K, Shaffer \[32\] found it at 2518 K while Gugel et al. \[33\] reported a temperature of 2523 K.” |
 | 2518 | eutectic |  | experimental | [1] Chen 2009; _cites Shaffer 1969_ [doi](https://doi.org/10.1016/0025-5408%2869%2990058-0) | p. 2 | “As to the pseudo-binary system of B4 C-SiC, Secrist \[31\] reported a eutectic reaction at 2573 K, Shaffer \[32\] found it at 2518 K while Gugel et al. \[33\] reported a temperature of 2523 K.” |
-| 2310 | Peritectic: Liquid + β-rhombo-B -> BnSi | L: Si 0.074; β-rhombo-B: Si 0.021; BnSi: Si 0.033 | unspecified | [2] Hämäläinen 1998 | Table I, p. 144, row 4 |  |
-| 2305.15 | Peritectic: L + (B) -> SiBn | L: B 0.914; (B): B 0.968; SiBn: B 0.959 | model | [3] Tokunaga 2001 | Table 2, p. 3, row 2 |  |
-| 2293.15 | Peritectic: L + (B) -> SiBn | L: B 0.907; (B): B 0.97; SiBn: B 0.959 | experimental | [3] Tokunaga 2001; _cites Male 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 2, p. 3, row 1 |  |
-| 2293 | Peritectic: Liquid + (B) -> SiBn | L: B 0.907; SiBn: B 0.96, Si 0.04 | experimental | [1] Chen 2009; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 4, p. 4, row 11 |  |
-| 2289.8 | Peritectic: Liquid + (B) -> SiBn | L: B 0.889; SiBn: B 0.96, Si 0.04 | model | [1] Chen 2009 | Table 4, p. 4, row 12 |  |
-| 2127.15 | Peritectic: L + SiBn -> SiB6 | L: B 0.639; SiBn: B 0.959; SiB6: B 0.857 | model | [3] Tokunaga 2001 | Table 2, p. 3, row 4 |  |
-| 2123.15 | Peritectic: L + SiBn -> SiB6 | L: B 0.653; SiBn: B 0.94; SiB6: B 0.857 | experimental | [3] Tokunaga 2001; _cites Male 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 2, p. 3, row 3 |  |
-| 2123 | Peritectic: Liquid + SiBn -> SiB6 | L: B 0.653; SiBn: B 0.96, Si 0.04; SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 4, p. 4, row 9 |  |
-| 2123 | Peritectic: Liquid + BnSi -> B6Si | L: Si 0.379; BnSi: Si 0.059; B6Si: Si 0.138 | unspecified | [2] Hämäläinen 1998 | Table I, p. 144, row 3 |  |
-| 2121 | Peritectic: Liquid + SiBn -> SiB6 | L: B 0.649; SiBn: B 0.96, Si 0.04; SiB6: B 0.857143, Si 0.142857 | model | [1] Chen 2009 | Table 4, p. 4, row 10 |  |
-| 1676 | Eutectic: Liquid -> (Si) + SiB6 | L: B 0.08; SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Brosset 1960_ | Table 4, p. 4, row 1 |  |
-| 1662.15 | Eutectic: L -> (Si) + SiB6 | L: B 0.109; (Si): B 0.016; SiB6: B 0.857 | model | [3] Tokunaga 2001 | Table 2, p. 3, row 6 |  |
-| 1661 | Eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Tokunaga 2003_ [doi](https://doi.org/10.2320/matertrans.44.1651) | Table 4, p. 4, row 6 |  |
-| 1658.15 | Eutectic: L -> (Si) + SiB6 | L: B 0.08; (Si): B 0.03; SiB6: B 0.857 | experimental | [3] Tokunaga 2001; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 2, p. 3, row 5 |  |
-| 1658 | Eutectic: Liquid -> (Si) + SiB6 | L: B 0.14; SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 4, p. 4, row 3 |  |
-| 1658 | Eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Arabey 1979_ | Table 4, p. 4, row 4 |  |
-| 1657.6 | Eutectic: Liquid -> B6Si + diamond | L: Si 0.919; B6Si: Si 0.146; diamond: Si 0.989 | unspecified | [2] Hämäläinen 1998 | Table I, p. 144, row 2 |  |
-| 1648 | Eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Samsonov 1962_ | Table 4, p. 4, row 2 |  |
+| 2310 | peritectic: Liquid + β-rhombo-B -> BnSi | L: Si 0.074; β-rhombo-B: Si 0.021; BnSi: Si 0.033 | unspecified | [2] Hämäläinen 1998 | Table I, p. 144, row 4 |  |
+| 2305.15 | peritectic: L + (B) -> SiBn | L: B 0.914; (B): B 0.968; SiBn: B 0.959 | model | [3] Tokunaga 2001 | Table 2, p. 3, row 2 |  |
+| 2293.15 | peritectic: L + (B) -> SiBn | L: B 0.907; (B): B 0.97; SiBn: B 0.959 | experimental | [3] Tokunaga 2001; _cites Male 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 2, p. 3, row 1 |  |
+| 2293 | peritectic: Liquid + (B) -> SiBn | L: B 0.907; SiBn: B 0.96, Si 0.04 | experimental | [1] Chen 2009; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 4, p. 4, row 11 |  |
+| 2289.8 | peritectic: Liquid + (B) -> SiBn | L: B 0.889; SiBn: B 0.96, Si 0.04 | model | [1] Chen 2009 | Table 4, p. 4, row 12 |  |
+| 2127.15 | peritectic: L + SiBn -> SiB6 | L: B 0.639; SiBn: B 0.959; SiB6: B 0.857 | model | [3] Tokunaga 2001 | Table 2, p. 3, row 4 |  |
+| 2123.15 | peritectic: L + SiBn -> SiB6 | L: B 0.653; SiBn: B 0.94; SiB6: B 0.857 | experimental | [3] Tokunaga 2001; _cites Male 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 2, p. 3, row 3 |  |
+| 2123 | peritectic: Liquid + SiBn -> SiB6 | L: B 0.653; SiBn: B 0.96, Si 0.04; SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 4, p. 4, row 9 |  |
+| 2123 | peritectic: Liquid + BnSi -> B6Si | L: Si 0.379; BnSi: Si 0.059; B6Si: Si 0.138 | unspecified | [2] Hämäläinen 1998 | Table I, p. 144, row 3 |  |
+| 2121 | peritectic: Liquid + SiBn -> SiB6 | L: B 0.649; SiBn: B 0.96, Si 0.04; SiB6: B 0.857143, Si 0.142857 | model | [1] Chen 2009 | Table 4, p. 4, row 10 |  |
+| 1676 | eutectic: Liquid -> (Si) + SiB6 | L: B 0.08; SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Brosset 1960_ | Table 4, p. 4, row 1 |  |
+| 1662.15 | eutectic: L -> (Si) + SiB6 | L: B 0.109; (Si): B 0.016; SiB6: B 0.857 | model | [3] Tokunaga 2001 | Table 2, p. 3, row 6 |  |
+| 1661 | eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Tokunaga 2003_ [doi](https://doi.org/10.2320/matertrans.44.1651) | Table 4, p. 4, row 6 |  |
+| 1658.15 | eutectic: L -> (Si) + SiB6 | L: B 0.08; (Si): B 0.03; SiB6: B 0.857 | experimental | [3] Tokunaga 2001; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 2, p. 3, row 5 |  |
+| 1658 | eutectic: Liquid -> (Si) + SiB6 | L: B 0.14; SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 4, p. 4, row 3 |  |
+| 1658 | eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Arabey 1979_ | Table 4, p. 4, row 4 |  |
+| 1657.6 | eutectic: Liquid -> B6Si + diamond | L: Si 0.919; B6Si: Si 0.146; diamond: Si 0.989 | unspecified | [2] Hämäläinen 1998 | Table I, p. 144, row 2 |  |
+| 1648 | eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Samsonov 1962_ | Table 4, p. 4, row 2 |  |
 | 1636 | eutectic |  | experimental | [1] Chen 2009 | p. 3 | “The eutectic temperature was measured to be 1636 K, which is consistent with the experimental results determined by Samsonov and Sleptsov \[37\] and Lungschneider et al. \[19\] as well as the calculated value of Zaitsev \[11,14\] within the experimental error.” |
-| 1636 | Eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Lungschneider 1979_ | Table 4, p. 4, row 5 |  |
-| 1636 | Eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009 | Table 4, p. 4, row 7 |  |
-| 1635.4 | Eutectic: Liquid -> (Si) + SiB6 | L: B 0.127; SiB6: B 0.857143, Si 0.142857 | model | [1] Chen 2009 | Table 4, p. 4, row 8 |  |
-| 1543.15 | Peritectoid: (Si) + SiB6 -> SiB3 | (Si): B 0.011; SiB6: B 0.857; SiB3: B 0.75 | model | [3] Tokunaga 2001 | Table 2, p. 3, row 8 |  |
-| 1543.15 | Peritectoid: (Si) + SiB6 -> SiB3 | (Si): B 0.01; SiB6: B 0.857; SiB3: B 0.75 | experimental | [3] Tokunaga 2001; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 2, p. 3, row 7 |  |
-| 1543 | Peritectoid: (Si) + SiB6 -> SiB3 | SiB6: B 0.857143, Si 0.142857; SiB3: B 0.75, Si 0.25 | experimental | [1] Chen 2009; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 4, p. 4, row 13 |  |
-| 1543 | Peritectoid: B6Si + diamond -> B3Si | B6Si: Si 0.145; diamond: Si 0.993; B3Si: Si 0.262 | unspecified | [2] Hämäläinen 1998 | Table I, p. 144, row 1 |  |
-| 1543 | Peritectoid: (Si) + SiB6 -> SiB3 | SiB6: B 0.857143, Si 0.142857; SiB3: B 0.75, Si 0.25 | model | [1] Chen 2009 | Table 4, p. 4, row 14 |  |
+| 1636 | eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009; _cites Lungschneider 1979_ | Table 4, p. 4, row 5 |  |
+| 1636 | eutectic: Liquid -> (Si) + SiB6 | SiB6: B 0.857143, Si 0.142857 | experimental | [1] Chen 2009 | Table 4, p. 4, row 7 |  |
+| 1635.4 | eutectic: Liquid -> (Si) + SiB6 | L: B 0.127; SiB6: B 0.857143, Si 0.142857 | model | [1] Chen 2009 | Table 4, p. 4, row 8 |  |
+| 1543.15 | peritectoid: (Si) + SiB6 -> SiB3 | (Si): B 0.011; SiB6: B 0.857; SiB3: B 0.75 | model | [3] Tokunaga 2001 | Table 2, p. 3, row 8 |  |
+| 1543.15 | peritectoid: (Si) + SiB6 -> SiB3 | (Si): B 0.01; SiB6: B 0.857; SiB3: B 0.75 | experimental | [3] Tokunaga 2001; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 2, p. 3, row 7 |  |
+| 1543 | peritectoid: (Si) + SiB6 -> SiB3 | SiB6: B 0.857143, Si 0.142857; SiB3: B 0.75, Si 0.25 | experimental | [1] Chen 2009; _cites Olesinski 1984_ [doi](https://doi.org/10.1007/bf02872900) | Table 4, p. 4, row 13 |  |
+| 1543 | peritectoid: B6Si + diamond -> B3Si | B6Si: Si 0.145; diamond: Si 0.993; B3Si: Si 0.262 | unspecified | [2] Hämäläinen 1998 | Table I, p. 144, row 1 |  |
+| 1543 | peritectoid: (Si) + SiB6 -> SiB3 | SiB6: B 0.857143, Si 0.142857; SiB3: B 0.75, Si 0.25 | model | [1] Chen 2009 | Table 4, p. 4, row 14 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, B–Si system (14)
+Table: Enthalpies of formation, B–Si system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | SiB3 |  | -90.8 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 1 |  |
-| SiB3 |  | -90.8 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 1 |  |
-| SiB3 |  | -26.99 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Chen 2009; _cites Chubinidze 1982_ | Table 1, p. 2, row 2 |  |
 | SiB3 |  | -26.99 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Chen 2009; _cites Chubinidze 1982_ | Table 1, p. 2, row 2 |  |
 | SiB6 |  | -148 kJ/mol (basis unstated) ± 7.5 | 1757 | experimental |  |  | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4 |  |
-| SiB6 |  | -148 kJ/mol (basis unstated) ± 7.5 | 1757 | experimental |  |  | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4 |  |
 | SiB6 |  | -122.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 3 |  |
-| SiB6 |  | -122.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 3 |  |
-| SiB6 |  | -121 kJ/mol (basis unstated) ± 48 | 1800 | experimental |  |  | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
 | SiB6 |  | -121 kJ/mol (basis unstated) ± 48 | 1800 | experimental |  |  | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
 | SiBn |  | -217 kJ/mol (basis unstated) ± 92 | 1800 | experimental |  |  | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 7 |  |
 | SiBn |  | -205 kJ/mol (basis unstated) ± 23 | 1769 | experimental |  |  | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 6 |  |
@@ -89,18 +84,16 @@ Table: Enthalpies of formation, B–Si system (14)
 
 ## Other properties
 
-### Formation (8)
+### Formation (6)
 
 Table: Formation, B–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy of formation; _printed: -Δ\_fG_ | -68.6 kJ/mol (basis unstated) ± 1.2 | 1757 | SiB6; _alloy: B 0.8571, Si 0.1429_ | experimental | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4 |  |
-| Gibbs energy of formation; _printed: −ΔfG_ | -68.6 kJ/mol (basis unstated) ± 1.2 | 1757 | SiB6; _alloy: B 0.8571, Si 0.1429_ | experimental | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4 |  |
 | Gibbs energy of formation; _printed: −ΔfG_ | -105.5 kJ/mol (basis unstated) ± 3 | 1769 | SiBn | experimental | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 6 |  |
 | Gibbs energy of formation; _printed: -Δ\_fG_ | -105.5 kJ/mol (basis unstated) ± 3 | 1769 | UNKNOWN | experimental | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 6 |  |
 | Gibbs energy of formation; _printed: −ΔfG_ | -54 kJ/mol (basis unstated) ± 15 | 1800 | SiB6; _alloy: B 0.8571, Si 0.1429_ | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
-| Gibbs energy of formation; _printed: -Δ\_fG_ | -54 kJ/mol (basis unstated) ± 15 | 1800 | SiB6; _alloy: B 0.8571, Si 0.1429_ | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
 | Gibbs energy of formation; _printed: −ΔfG_ | -108 kJ/mol (basis unstated) ± 35 | 1800 | SiBn | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 7 |  |
 | Gibbs energy of formation; _printed: -Δ\_fG_ | -108 kJ/mol (basis unstated) ± 35 | 1800 | UNKNOWN | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 7 |  |
 

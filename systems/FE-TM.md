@@ -1,10 +1,10 @@
 # Fe–Tm system
 
-> Fe–Tm system: 134 accepted literature values (formation 78, invariant reaction 21, heat capacity / entropy / enthalpy 20, phase transition 15) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Tm system: 132 accepted literature values (formation 78, invariant reaction 21, heat capacity / entropy / enthalpy 20, phase transition 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TM.html · Markdown: https://data.orchid-project.org/systems/FE-TM.md
 
-134 accepted literature values from 2 paper(s) (experimental 30, model 102, DFT 2); 2 calculated phase diagram(s).
+132 accepted literature values from 2 paper(s) (experimental 30, model 100, DFT 2); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TM.json) · [CSV](https://data.orchid-project.org/systems/FE-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TM/FeTm-14Kar.json) · [Markdown](https://data.orchid-project.org/systems/FE-TM.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 30 |
-| model | 102 |
+| model | 100 |
 | DFT | 2 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 21 |
-| phase transition | 15 |
+| phase transition | 13 |
 | formation | 78 |
 | heat capacity / entropy / enthalpy | 20 |
 
@@ -81,27 +81,27 @@ Table: Invariant reactions reported in the literature for the Fe–Tm system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1793.15 | Catatectic: L + (betaTm) \<-> (alphaTm) | L: Tm 1; (betaTm): Tm 1; (alphaTm): Tm 1 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 31 |  |
-| 1667.15 | Catatectic: Liq + deltaFe \<-> gammaFe | deltaFe: Tm 0; gammaFe: Tm 0.067 | model | [1] Kardellass 2014 | Table 8, p. 10, row 7 |  |
-| 1667.15 | Catatectic: Liq + deltaFe \<-> gammaFe | Liq: Tm 0; deltaFe: Tm 0; gammaFe: Tm 0.067 | model | [1] Kardellass 2014 | Table 8, p. 10, row 6 |  |
-| 1667.15 | Catatectic: Liq + deltaFe \<-> gammaFe | Liq: Tm 0; deltaFe: Tm 0; gammaFe: Tm 0.094 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 5 |  |
-| 1573.15 | Peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.125; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 8 |  |
-| 1567.15 | Peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.11; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | model | [1] Kardellass 2014 | Table 8, p. 10, row 9 |  |
-| 1565.15 | Peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.11; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | model | [1] Kardellass 2014 | Table 8, p. 10, row 10 |  |
-| 1553.15 | Peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.2; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 20 |  |
-| 1549.15 | Peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.243; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | model | [1] Kardellass 2014 | Table 8, p. 10, row 22 |  |
-| 1549.15 | Peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.242; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | model | [1] Kardellass 2014 | Table 8, p. 10, row 21 |  |
-| 1543.15 | Peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.187; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 17 |  |
-| 1539.15 | Peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.199; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 19 |  |
-| 1537.15 | Peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.195; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 18 |  |
-| 1534.15 | Eutectic: L \<-> Fe17Tm2 + Fe23Tm6 | L: Tm 0.176; Fe17Tm2: Tm 0.105; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 16 |  |
-| 1533.15 | Eutectic: L \<-> Fe17Tm2 + Fe23Tm6 | L: Tm 0.176; Fe17Tm2: Tm 0.105; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 15 |  |
-| 1528.15 | Eutectic: L \<-> Fe17Tm2 + Fe23Tm6 | L: Tm 0.16; Fe17Tm2: Tm 0.105; Fe23Tm6: Tm 0.206 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 14 |  |
-| 1210.15 | Eutectic: L \<-> Fe2Tm + (alphaTm) | L: Tm 0.73; Fe2Tm: Tm 0.333; (alphaTm): Tm 1 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 28 |  |
-| 1182.15 | Eutectic: L \<-> Fe2Tm + (alphaTm) | L: Tm 0.753; Fe2Tm: Tm 0.333; (alphaTm): Tm 1 | model | [1] Kardellass 2014 | Table 8, p. 10, row 29 |  |
-| 1181.15 | Eutectic: L \<-> Fe2Tm + (alphaTm) | L: Tm 0.753; Fe2Tm: Tm 0.333; (alphaTm): Tm 1 | model | [1] Kardellass 2014 | Table 8, p. 10, row 30 |  |
-| 427.85 | Fe17Tm2 Metastable from154.7 to 0 °C: Fe17Tm2(no stable) \<-> alphaFe + Fe23Tm6 | Fe17Tm2(no stable): Tm 0.105; alphaFe: Tm 0; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 26 |  |
-| 273.15 | Fe17Tm2 Metastable from154.7 to 0 °C: Fe17Tm2(no stable) \<-> alphaFe + Fe23Tm6 | Fe17Tm2(no stable): Tm 0.105; alphaFe: Tm 0; Fe23Tm6: Tm 0.206897 | model | [1] Kardellass 2014 | Table 8, p. 10, row 27 |  |
+| 1793.15 | metatectic/catatectic: L + (betaTm) \<-> (alphaTm) | L: Tm 1; (betaTm): Tm 1; (alphaTm): Tm 1 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 31 |  |
+| 1667.15 | metatectic/catatectic: Liq + deltaFe \<-> gammaFe | deltaFe: Tm 0; gammaFe: Tm 0.067 | model | [1] Kardellass 2014 | Table 8, p. 10, row 7 |  |
+| 1667.15 | metatectic/catatectic: Liq + deltaFe \<-> gammaFe | Liq: Tm 0; deltaFe: Tm 0; gammaFe: Tm 0.067 | model | [1] Kardellass 2014 | Table 8, p. 10, row 6 |  |
+| 1667.15 | metatectic/catatectic: Liq + deltaFe \<-> gammaFe | Liq: Tm 0; deltaFe: Tm 0; gammaFe: Tm 0.094 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 5 |  |
+| 1573.15 | peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.125; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 8 |  |
+| 1567.15 | peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.11; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | model | [1] Kardellass 2014 | Table 8, p. 10, row 9 |  |
+| 1565.15 | peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.11; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | model | [1] Kardellass 2014 | Table 8, p. 10, row 10 |  |
+| 1553.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.2; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 20 |  |
+| 1549.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.243; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | model | [1] Kardellass 2014 | Table 8, p. 10, row 22 |  |
+| 1549.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.242; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | model | [1] Kardellass 2014 | Table 8, p. 10, row 21 |  |
+| 1543.15 | peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.187; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 17 |  |
+| 1539.15 | peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.199; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 19 |  |
+| 1537.15 | peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.195; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 18 |  |
+| 1534.15 | eutectic: L \<-> Fe17Tm2 + Fe23Tm6 | L: Tm 0.176; Fe17Tm2: Tm 0.105; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 16 |  |
+| 1533.15 | eutectic: L \<-> Fe17Tm2 + Fe23Tm6 | L: Tm 0.176; Fe17Tm2: Tm 0.105; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 15 |  |
+| 1528.15 | eutectic: L \<-> Fe17Tm2 + Fe23Tm6 | L: Tm 0.16; Fe17Tm2: Tm 0.105; Fe23Tm6: Tm 0.206 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 14 |  |
+| 1210.15 | eutectic: L \<-> Fe2Tm + (alphaTm) | L: Tm 0.73; Fe2Tm: Tm 0.333; (alphaTm): Tm 1 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 28 |  |
+| 1182.15 | eutectic: L \<-> Fe2Tm + (alphaTm) | L: Tm 0.753; Fe2Tm: Tm 0.333; (alphaTm): Tm 1 | model | [1] Kardellass 2014 | Table 8, p. 10, row 29 |  |
+| 1181.15 | eutectic: L \<-> Fe2Tm + (alphaTm) | L: Tm 0.753; Fe2Tm: Tm 0.333; (alphaTm): Tm 1 | model | [1] Kardellass 2014 | Table 8, p. 10, row 30 |  |
+| 427.85 | other: Fe17Tm2(no stable) \<-> alphaFe + Fe23Tm6 | Fe17Tm2(no stable): Tm 0.105; alphaFe: Tm 0; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 26 |  |
+| 273.15 | other: Fe17Tm2(no stable) \<-> alphaFe + Fe23Tm6 | Fe17Tm2(no stable): Tm 0.105; alphaFe: Tm 0; Fe23Tm6: Tm 0.206897 | model | [1] Kardellass 2014 | Table 8, p. 10, row 27 |  |
 
 ## Formation enthalpies
 
@@ -162,27 +162,25 @@ Table: Enthalpies of formation, Fe–Tm system (48)
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (13)
 
 Table: Phase transition, Fe–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1185.15 K | 1185.15 | Allotropic: gammaFe \<-> alphaFe; _gammaFe: Tm 0; alphaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 12 |  |
-| Phase transition | 1185.15 K | 1185.15 | Allotropic: gammaFe \<-> alphaFe; _gammaFe: Tm 0; alphaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 13 |  |
-| Phase transition | 1185.15 K | 1185.15 | Allotropic: gammaFe \<-> alphaFe; _gammaFe: Tm 0; alphaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 11 |  |
-| Phase transition | 1573 K | 1573 | congruent | experimental | [2] Ye 2023; _cites ref. 89_ | p. 4 | “Fe2Tm is formed congruently from liquid phase at 1573 K, while Fe17Tm2, Fe23Tm6, and Fe3Tm form by three peritectic transformation.” |
-| Phase transition | 1573.15 K | 1573.15 | Congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 23 |  |
-| Phase transition | 1575.15 K | 1575.15 | Congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 25 |  |
-| Phase transition | 1576.15 K | 1576.15 | Congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 24 |  |
-| Phase transition | 1667.15 K | 1667.15 | Allotropic: deltaFe \<-> gammaFe; _deltaFe: Tm 0; gammaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 3 |  |
-| Phase transition | 1667.15 K | 1667.15 | Allotropic: deltaFe \<-> gammaFe; _deltaFe: Tm 0; gammaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 4 |  |
-| Phase transition | 1793.15 K | 1793.15 | Allotropic: alphaTm \<-> betaTm; _alphaTm: Tm 1; betaTm: Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 32 |  |
-| Phase transition | 1811.15 K | 1811.15 | Melting: Liq \<-> deltaFe; _Liq: Tm 0; deltaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 2 |  |
-| Phase transition | 1812.15 K | 1812.15 | Melting: Liq \<-> deltaFe; _Liq: Tm 0; deltaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 1 |  |
-| Phase transition | 1818.15 K | 1818.15 | Melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 35 |  |
-| Phase transition | 1818.15 K | 1818.15 | Melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 34 |  |
-| Phase transition | 1818.15 K | 1818.15 | Melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 33 |  |
+| Phase transition | 1185.15 K | 1185.15 | polymorphic: gammaFe \<-> alphaFe; _gammaFe: Tm 0; alphaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 12 |  |
+| Phase transition | 1185.15 K | 1185.15 | polymorphic: gammaFe \<-> alphaFe; _gammaFe: Tm 0; alphaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 11 |  |
+| Phase transition | 1573 K | 1573 | congruent transformation | experimental | [2] Ye 2023; _cites ref. 89_ | p. 4 | “Fe2Tm is formed congruently from liquid phase at 1573 K, while Fe17Tm2, Fe23Tm6, and Fe3Tm form by three peritectic transformation.” |
+| Phase transition | 1573.15 K | 1573.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 23 |  |
+| Phase transition | 1575.15 K | 1575.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 25 |  |
+| Phase transition | 1576.15 K | 1576.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 24 |  |
+| Phase transition | 1667.15 K | 1667.15 | polymorphic: deltaFe \<-> gammaFe; _deltaFe: Tm 0; gammaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 3 |  |
+| Phase transition | 1667.15 K | 1667.15 | polymorphic: deltaFe \<-> gammaFe; _deltaFe: Tm 0; gammaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 4 |  |
+| Phase transition | 1793.15 K | 1793.15 | polymorphic: alphaTm \<-> betaTm; _alphaTm: Tm 1; betaTm: Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 32 |  |
+| Phase transition | 1811.15 K | 1811.15 | congruent melting: Liq \<-> deltaFe; _Liq: Tm 0; deltaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 2 |  |
+| Phase transition | 1812.15 K | 1812.15 | congruent melting: Liq \<-> deltaFe; _Liq: Tm 0; deltaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 1 |  |
+| Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 34 |  |
+| Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 33 |  |
 
 ### Formation (30)
 

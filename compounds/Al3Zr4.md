@@ -1,20 +1,19 @@
 # Al3Zr4: enthalpy of formation
 
-> Enthalpy of formation of Al3Zr4: 30 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al3Zr4: 24 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al3Zr4.html · Markdown: https://data.orchid-project.org/compounds/Al3Zr4.md
 
-30 accepted literature formation-enthalpy value(s) (model 20, DFT 10); Materials Project -44.408 kJ/mol-atom (mp-aaaaaswm); OQMD -44.415 kJ/mol-atom (oqmd-27981).
+24 accepted literature formation-enthalpy value(s) (model 17, DFT 7); Materials Project -44.408 kJ/mol-atom (mp-aaaaaswm); OQMD -44.415 kJ/mol-atom (oqmd-27981).
 
 Systems: [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) · [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al3Zr4 reported in the literature (30)
+Table: Enthalpy of formation of Al3Zr4 reported in the literature (24)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -58.5 unknown | Al3Zr4 |  | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 3, p. 9, row 40 |  |
 | -58.5 unknown | Al3Zr4 |  | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 3, p. 9, row 40 |  |
 | -58.5 kJ/mol-atom | Al3Zr4 | 298.15 | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Fischer 2015; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 2, p. 4, row 70 |  |
 | -58.5 kJ/mol-atom | Zr4Al3 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [3] T 2001 | Table 2, p. 2, row 11 |  |
@@ -24,23 +23,18 @@ Table: Enthalpy of formation of Al3Zr4 reported in the literature (30)
 | -46.3 kJ/mol-atom | Al3Zr4 | 298.15 | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Fischer 2015; _cites Mihalkovic 2011_ | Table 2, p. 4, row 74 |  |
 | -46.21 kJ/mol-atom | Al3Zr4 | 298.15 | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Fischer 2015; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 2, p. 4, row 75 |  |
 | -45.708 unknown | Al3Zr4 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018 | Table 3, p. 9, row 35 |  |
-| -45.708 unknown | Al3Zr4 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018 | Table 3, p. 9, row 35 |  |
 | -44.57 kJ/mol-atom | Al3Zr4 | 298.15 | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Fischer 2015; _cites Duan 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.12.079) | Table 2, p. 4, row 78 |  |
 | -44.54 kJ/mol-atom | Al3Zr4 | 298.15 | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Fischer 2015; _cites Colinet 2013_ [doi](https://doi.org/10.1016/j.jssc.2013.07.017) | Table 2, p. 4, row 76 |  |
 | -44.38 kJ/mol-atom | Al3Zr4 | 298.15 | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Fischer 2015; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 4, row 77 |  |
-| -42.925 unknown | Al3Zr4 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018 | Table 3, p. 9, row 36 |  |
 | -42.925 unknown | Al3Zr4 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018 | Table 3, p. 9, row 36 |  |
 | -42.925 kJ/mol-atom | Al3Zr4 |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [4] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 75 |  |
 | -41.18 kJ/mol-atom | Al3Zr4 | 298.15 | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Fischer 2015 | Table 2, p. 4, row 71 |  |
 | -40.894 kJ/mol-atom | Al3Zr4 |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [4] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 74 |  |
 | -39 kJ/mol-atom | Al3Zr4 | 298.15 | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Fischer 2015; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 2, p. 4, row 73 |  |
 | -47.555 unknown | Al3Zr4 |  | DFT | ab initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 3, p. 9, row 39 |  |
-| -47.555 unknown | Al3Zr4 |  | DFT | ab initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 3, p. 9, row 39 |  |
 | -47.555 kJ/mol-atom | Al3Zr4 |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [4] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 71 |  |
 | -46.21 unknown | Al3Zr4 |  | DFT | ab initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 3, p. 9, row 38 |  |
-| -46.21 unknown | Al3Zr4 |  | DFT | ab initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 3, p. 9, row 38 |  |
 | -46.21 kJ/mol-atom | Al3Zr4 |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [4] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 70 |  |
-| -44.875 unknown | Al3Zr4 |  | DFT | ab initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018; _cites Duan 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.12.079) | Table 3, p. 9, row 37 |  |
 | -44.875 unknown | Al3Zr4 |  | DFT | ab initio | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Tamim 2018; _cites Duan 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.12.079) | Table 3, p. 9, row 37 |  |
 | -44.875 kJ/mol-atom | Al3Zr4 |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [4] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 69 |  |
 | -39 kJ/mol-atom | Al3Zr4 |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [4] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 72 |  |

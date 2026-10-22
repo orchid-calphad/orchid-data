@@ -1,10 +1,10 @@
 # Ag–Pd system
 
-> Ag–Pd system: 22 accepted literature values (mixing / partial 12, phase transition 5, phase equilibrium 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Pd system: 18 accepted literature values (mixing / partial 8, phase transition 5, phase equilibrium 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-PD.html · Markdown: https://data.orchid-project.org/systems/AG-PD.md
 
-22 accepted literature values from 2 paper(s) (experimental 10, model 12); 4 calculated phase diagram(s).
+18 accepted literature values from 2 paper(s) (experimental 10, model 8); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-PD.json) · [CSV](https://data.orchid-project.org/systems/AG-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-PD/AgPd-10Sop.json) · [Markdown](https://data.orchid-project.org/systems/AG-PD.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 10 |
-| model | 12 |
+| model | 8 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 5 |
 | phase equilibrium | 5 |
-| mixing / partial | 12 |
+| mixing / partial | 8 |
 
 ## Calculated phase diagrams
 
@@ -46,11 +46,11 @@ Table: Phase transition, Ag–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1247.9 K | 1247.9 | solidus: Ag–6.62Pd; _alloy: Ag 0.9338, Pd 0.0662_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 1 |  |
-| Phase transition | 1291.6 K | 1291.6 | solidus: Ag–12.86Pd; _alloy: Ag 0.8714, Pd 0.1286_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 3 |  |
-| Phase transition | 1328 K | 1328 | solidus: Ag–18.06Pd; _alloy: Ag 0.8194, Pd 0.1806_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 5 |  |
-| Phase transition | 1375.6 K | 1375.6 | solidus: Ag–23.27Pd; _alloy: Ag 0.7673, Pd 0.2327_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 7 |  |
-| Phase transition | 1398.2 K | 1398.2 | solidus: Ag–25.92Pd; _alloy: Ag 0.7408, Pd 0.2592_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 9 |  |
+| Phase transition | 1247.9 K | 1247.9 | other: Ag–6.62Pd; _alloy: Ag 0.9338, Pd 0.0662_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 1 |  |
+| Phase transition | 1291.6 K | 1291.6 | other: Ag–12.86Pd; _alloy: Ag 0.8714, Pd 0.1286_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 3 |  |
+| Phase transition | 1328 K | 1328 | other: Ag–18.06Pd; _alloy: Ag 0.8194, Pd 0.1806_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 5 |  |
+| Phase transition | 1375.6 K | 1375.6 | other: Ag–23.27Pd; _alloy: Ag 0.7673, Pd 0.2327_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 7 |  |
+| Phase transition | 1398.2 K | 1398.2 | other: Ag–25.92Pd; _alloy: Ag 0.7408, Pd 0.2592_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 9 |  |
 
 ### Phase equilibrium (5)
 
@@ -58,30 +58,26 @@ Table: Phase equilibrium, Ag–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1277.5 | liquidus: Ag–6.62Pd; _liquid: Ag 0.9338, Pd 0.0662_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1325 | liquidus: Ag–12.86Pd; _liquid: Ag 0.8714, Pd 0.1286_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 1372 | liquidus: Ag–18.06Pd; _liquid: Ag 0.8194, Pd 0.1806_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1418.4 | liquidus: Ag–23.27Pd; _liquid: Ag 0.7673, Pd 0.2327_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1441.1 | liquidus: Ag–25.92Pd; _liquid: Ag 0.7408, Pd 0.2592_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 10 |  |
+| Phase composition |  | 1277.5 | other: Ag–6.62Pd; _liquid: Ag 0.9338, Pd 0.0662_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 2 |  |
+| Phase composition |  | 1325 | other: Ag–12.86Pd; _liquid: Ag 0.8714, Pd 0.1286_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 4 |  |
+| Phase composition |  | 1372 | other: Ag–18.06Pd; _liquid: Ag 0.8194, Pd 0.1806_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 6 |  |
+| Phase composition |  | 1418.4 | other: Ag–23.27Pd; _liquid: Ag 0.7673, Pd 0.2327_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 8 |  |
+| Phase composition |  | 1441.1 | other: Ag–25.92Pd; _liquid: Ag 0.7408, Pd 0.2592_ | experimental | [1] Sopoušek 2010 | Table 1, p. 2, row 10 |  |
 
-### Mixing / partial (12)
+### Mixing / partial (8)
 
 Table: Mixing / partial, Ag–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 5949 J/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 9 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 5949 J/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 8 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1520 J/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 7 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 5949 J/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 10 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4584 J/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 11 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4522 J/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999; _cites Morioka 1999_ | Table 2, p. 5, row 12 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1942 J/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999; _cites Morioka 1999_ | Table 2, p. 5, row 6 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4067 J/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 3641 J/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 2 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 3641 J/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 3 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 3641 J/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 4 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1049 J/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 1 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 5.949 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 9 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.52 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 7 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.584 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999 | Table 2, p. 5, row 11 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.522 kJ/mol (basis unstated) | 1200.15 | fcc | model | [2] Morioka 1999; _cites Morioka 1999_ | Table 2, p. 5, row 12 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.942 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999; _cites Morioka 1999_ | Table 2, p. 5, row 6 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 4.067 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 5 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 3.641 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 2 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 1.049 kJ/mol (basis unstated) | 1850.15 | Liquid | model | [2] Morioka 1999 | Table 2, p. 5, row 1 |  |
 
 ## Sources
 

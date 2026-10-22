@@ -1,10 +1,10 @@
 # H–La–Ni system
 
-> H–La–Ni system: 104 accepted literature values (crystal structure 52, formation 40, phase transition 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–La–Ni system: 78 accepted literature values (formation 40, crystal structure 26, phase transition 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-LA-NI.html · Markdown: https://data.orchid-project.org/systems/H-LA-NI.md
 
-104 accepted literature values from 2 paper(s) (experimental 40, model 10, DFT 2, unspecified 52); 0 calculated phase diagram(s).
+78 accepted literature values from 2 paper(s) (experimental 40, model 10, DFT 2, unspecified 26); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/H-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA-NI) · [Markdown](https://data.orchid-project.org/systems/H-LA-NI.md)
 
@@ -15,7 +15,7 @@ Table: Accepted values by evidence class
 | experimental | 40 |
 | model | 10 |
 | DFT | 2 |
-| unspecified | 52 |
+| unspecified | 26 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 12 |
 | formation | 40 |
-| crystal structure | 52 |
+| crystal structure | 26 |
 
 ## Formation enthalpies
 
@@ -102,7 +102,7 @@ Table: Formation, H–La–Ni system
 | Entropy of formation | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6 |  |
 | Entropy of formation | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5 |  |
 
-### Crystal structure (52)
+### Crystal structure (26)
 
 Table: Crystal structure, H–La–Ni system
 
@@ -134,32 +134,6 @@ Table: Crystal structure, H–La–Ni system
 | Lattice c | 0.4396 nm | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
 | Lattice c | 2.5011 nm | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
 | Lattice c | 0.398 nm | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
-| lattice lattice parameter a | 0.377 nm | 298.15 | (αLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 1 |  |
-| lattice lattice parameter a | 0.5303 nm | 298.15 | (βLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 3 |  |
-| lattice lattice parameter a | 0.426 nm | 298.15 | (γLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 2 |  |
-| lattice lattice parameter a | 0.5114 nm | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [2] An 2013 | Table 3, p. 5, row 8 |  |
-| lattice lattice parameter a | 0.5056 nm | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 13 |  |
-| lattice lattice parameter a | 0.5058 nm | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 12 |  |
-| lattice lattice parameter a | 0.6601 nm | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [2] An 2013 | Table 3, p. 5, row 5 |  |
-| lattice lattice parameter a | 0.5052 nm | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 14 |  |
-| lattice lattice parameter a | 0.7355 nm | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [2] An 2013 | Table 3, p. 5, row 10 |  |
-| lattice lattice parameter a | 1.013 nm | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [2] An 2013 | Table 3, p. 5, row 6 |  |
-| lattice lattice parameter a | 0.3907 nm | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
-| lattice lattice parameter a | 0.734 nm | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 9 |  |
-| lattice lattice parameter a | 0.5086 nm | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
-| lattice lattice parameter a | 0.502 nm | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
-| lattice lattice parameter a | 0.5409 nm | 298.15 | LaNi5H7; _alloy: La 0.076923, Ni 0.384615_ | unspecified | [2] An 2013 | Table 3, p. 5, row 16 |  |
-| lattice lattice parameter a | 0.3523 nm | 298.15 | Ni; _alloy: La 0, Ni 1_ | unspecified | [2] An 2013 | Table 3, p. 5, row 4 |  |
-| lattice lattice parameter c | 0.7908 nm | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [2] An 2013 | Table 3, p. 5, row 8 |  |
-| lattice lattice parameter c | 3.6981 nm | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 13 |  |
-| lattice lattice parameter c | 2.471 nm | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 12 |  |
-| lattice lattice parameter c | 0.5111 nm | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [2] An 2013 | Table 3, p. 5, row 5 |  |
-| lattice lattice parameter c | 3.2653 nm | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 14 |  |
-| lattice lattice parameter c | 1.4511 nm | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [2] An 2013 | Table 3, p. 5, row 10 |  |
-| lattice lattice parameter c | 0.6462 nm | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [2] An 2013 | Table 3, p. 5, row 6 |  |
-| lattice lattice parameter c | 0.4396 nm | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
-| lattice lattice parameter c | 2.5011 nm | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
-| lattice lattice parameter c | 0.398 nm | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
 
 ## Sources
 

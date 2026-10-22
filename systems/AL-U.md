@@ -77,26 +77,26 @@ Table: Invariant reactions reported in the literature for the Al–U system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1893.15 | Congruent: L -> Al2U | Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 20 |  |
-| 1893.15 | Congruent: L -> Al2U | Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 19 |  |
-| 1863.15 | Congruent: L -> Al2U | Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 18 |  |
-| 1624.15 | Peritectic: L + Al2U -> Al3U | L: Al 0.845; Al2U: Al 0.667; Al3U: Al 0.75 | model | [1] Wang 2008 | Table 2, p. 5, row 15 |  |
-| 1623.15 | Peritectic: L + Al2U -> Al3U | L: Al 0.832; Al2U: Al 0.667; Al3U: Al 0.75 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 13 |  |
-| 1623.15 | Peritectic: L + Al2U -> Al3U | L: Al 0.87; Al2U: Al 0.667; Al3U: Al 0.75 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 14 |  |
-| 1378.15 | Eutectic: L -> γ (U) + Al2U | L: Al 0.0713; γ (U): Al 0.0488; Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 5 |  |
-| 1378.15 | Eutectic: L -> γ (U) + Al2U | γ (U): Al 0.047; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 3 |  |
-| 1378.15 | Eutectic: L -> γ (U) + Al2U | L: Al 0.06; γ (U): Al 0.047; Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 4 |  |
-| 1033.15 | Eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.014; β (U): Al 0.0054; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 7 |  |
-| 1031.15 | Eutectoid: γ (U) -> β (U) + Al2U | Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 8 |  |
-| 1029.15 | Eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.0141; β (U): Al 0.004; Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 9 |  |
-| 1023.15 | Eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.014; β (U): Al 0.0054; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 6 |  |
-| 1005.15 | Peritectic: L + Al3U -> Al4U (β) | Al3U: Al 0.75, U 0.25; Al4U (β): Al 0.8, U 0.2 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 10 |  |
-| 1004.15 | Peritectic: L + Al3U -> Al4U (β) | L: Al 0.972; Al3U: Al 0.75; Al4U (β): Al 0.814 | model | [1] Wang 2008 | Table 2, p. 5, row 12 |  |
-| 1004.15 | Peritectic: L + Al3U -> Al4U (β) | L: Al 0.977; Al3U: Al 0.75; Al4U (β): Al 0.818 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 11 |  |
-| 919.15 | Polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.8; Al4U (β): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 16 |  |
-| 919.15 | Polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.809; Al4U (β): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 17 |  |
-| 914.15 | Eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.982; fcc (Al): Al 0; Al4U (α): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 2 |  |
-| 914.15 | Eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.983; fcc (Al): Al 7.000e-5; Al4U (α): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 1 |  |
+| 1893.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 20 |  |
+| 1893.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 19 |  |
+| 1863.15 | congruent melting: L -> Al2U | Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 18 |  |
+| 1624.15 | peritectic: L + Al2U -> Al3U | L: Al 0.845; Al2U: Al 0.667; Al3U: Al 0.75 | model | [1] Wang 2008 | Table 2, p. 5, row 15 |  |
+| 1623.15 | peritectic: L + Al2U -> Al3U | L: Al 0.832; Al2U: Al 0.667; Al3U: Al 0.75 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 13 |  |
+| 1623.15 | peritectic: L + Al2U -> Al3U | L: Al 0.87; Al2U: Al 0.667; Al3U: Al 0.75 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 14 |  |
+| 1378.15 | eutectic: L -> γ (U) + Al2U | L: Al 0.0713; γ (U): Al 0.0488; Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 5 |  |
+| 1378.15 | eutectic: L -> γ (U) + Al2U | γ (U): Al 0.047; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 3 |  |
+| 1378.15 | eutectic: L -> γ (U) + Al2U | L: Al 0.06; γ (U): Al 0.047; Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 4 |  |
+| 1033.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.014; β (U): Al 0.0054; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 7 |  |
+| 1031.15 | eutectoid: γ (U) -> β (U) + Al2U | Al2U: Al 0.667 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 8 |  |
+| 1029.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.0141; β (U): Al 0.004; Al2U: Al 0.667 | model | [1] Wang 2008 | Table 2, p. 5, row 9 |  |
+| 1023.15 | eutectoid: γ (U) -> β (U) + Al2U | γ (U): Al 0.014; β (U): Al 0.0054; Al2U: Al 0.667 | experimental | [1] Wang 2008; _cites Straatman 1964_ | Table 2, p. 5, row 6 |  |
+| 1005.15 | peritectic: L + Al3U -> Al4U (β) | Al3U: Al 0.75, U 0.25; Al4U (β): Al 0.8, U 0.2 | experimental | [1] Wang 2008; _cites Cabane 1955_ | Table 2, p. 5, row 10 |  |
+| 1004.15 | peritectic: L + Al3U -> Al4U (β) | L: Al 0.972; Al3U: Al 0.75; Al4U (β): Al 0.814 | model | [1] Wang 2008 | Table 2, p. 5, row 12 |  |
+| 1004.15 | peritectic: L + Al3U -> Al4U (β) | L: Al 0.977; Al3U: Al 0.75; Al4U (β): Al 0.818 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 11 |  |
+| 919.15 | polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.8; Al4U (β): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 16 |  |
+| 919.15 | polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.809; Al4U (β): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 17 |  |
+| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.982; fcc (Al): Al 0; Al4U (α): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 2 |  |
+| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.983; fcc (Al): Al 7.000e-5; Al4U (α): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 1 |  |
 
 ## Sources
 

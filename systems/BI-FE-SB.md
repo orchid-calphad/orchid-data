@@ -31,10 +31,10 @@ Table: Invariant reactions reported in the literature for the Bi–Fe–Sb syste
 |---:|---|---|---|---|---|---|
 | 1264.25 | other: L1 = L2 + δFe + ε-FeSb (M) |  | experimental | [1] Boa 2008 | Table 11, p. 12, row 2 |  |
 | 1260.8 | other: L1 = L2 + δFe + ε-FeSb (M) | L1: Sb 0.3759; L2: Sb 0.3578; δFe: Sb 0.0526; ε-FeSb: Sb 0.4025 | model | [1] Boa 2008 | Table 11, p. 12, row 1 |  |
-| 550.7 | U: L + FeSb2 = β + ε-FeSb (U1) | L: Sb 0.01676; FeSb2: Sb 0.6667; β: Sb 0.04447; ε-FeSb: Sb 0.4893 | model | [1] Boa 2008 | Table 11, p. 12, row 3 |  |
-| 549.4 | U: L + FeSb2 = β + ε-FeSb (U1) | FeSb2: Sb 0.6667 | experimental | [1] Boa 2008 | Table 11, p. 12, row 4 |  |
-| 546.5 | U: L + ε-FeSb = β + αFe (U2) |  | experimental | [1] Boa 2008 | Table 11, p. 12, row 6 |  |
-| 546.4 | U: L + ε-FeSb = β + αFe (U2) | L: Sb 0.00483; ε-FeSb: Sb 0.465; β: Sb 0.01285; αFe: Sb 0.01595 | model | [1] Boa 2008 | Table 11, p. 12, row 5 |  |
+| 550.7 | quasi-peritectic: L + FeSb2 = β + ε-FeSb (U1) | L: Sb 0.01676; FeSb2: Sb 0.6667; β: Sb 0.04447; ε-FeSb: Sb 0.4893 | model | [1] Boa 2008 | Table 11, p. 12, row 3 |  |
+| 549.4 | quasi-peritectic: L + FeSb2 = β + ε-FeSb (U1) | FeSb2: Sb 0.6667 | experimental | [1] Boa 2008 | Table 11, p. 12, row 4 |  |
+| 546.5 | quasi-peritectic: L + ε-FeSb = β + αFe (U2) |  | experimental | [1] Boa 2008 | Table 11, p. 12, row 6 |  |
+| 546.4 | quasi-peritectic: L + ε-FeSb = β + αFe (U2) | L: Sb 0.00483; ε-FeSb: Sb 0.465; β: Sb 0.01285; αFe: Sb 0.01595 | model | [1] Boa 2008 | Table 11, p. 12, row 5 |  |
 
 ## Other properties
 

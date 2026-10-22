@@ -73,8 +73,8 @@ Table: Crystal structure, As–Fe system
 | Lattice c | 5.985 Å | 298.15 | UNKNOWN; _alloy: Fe 0.666667_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 30 |  |
 | Lattice c | 2.882 Å | 298.15 | UNKNOWN; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 9 |  |
 | Lattice c | 6.029 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 19 |  |
-| lattice  | 54.26 ° |  | UNKNOWN; _alloy: Fe 0_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 4 |  |
-| lattice  | 54.12 ° | 298.15 | UNKNOWN; _alloy: Fe 0_ | experimental | [1] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 3 |  |
+| lattice unspecified angle | 54.26 ° |  | UNKNOWN; _alloy: Fe 0_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 4 |  |
+| lattice unspecified angle | 54.12 ° | 298.15 | UNKNOWN; _alloy: Fe 0_ | experimental | [1] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 3 |  |
 
 ## Sources
 

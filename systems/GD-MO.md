@@ -75,9 +75,9 @@ Table: Phase transition, Gd–Mo system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1489 K | 1489 | other: bcc-Gd ⫹ bcc-Mo ⇔ hcp-Gd | model | [1] Zinkevich 2001 | p. 7 | “A eutectoid invariant reaction bcc-Gd ⫹ bcc-Mo ⇔ hcp-Gd has been predicted at T ⫽ 1489 K (Fig. 2b, Table 5).” |
-| Phase transition | 1873 K | 1873 | solidus | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
-| Phase transition | 2783 K | 2783 | solidus | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
-| Phase transition | 2843 K | 2843 | solidus | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
+| Phase transition | 1873 K | 1873 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
+| Phase transition | 2783 K | 2783 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
+| Phase transition | 2843 K | 2843 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2 | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
 
 ### Phase equilibrium (5)
 

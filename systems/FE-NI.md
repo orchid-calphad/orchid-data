@@ -1,10 +1,10 @@
 # Fe–Ni system
 
-> Fe–Ni system: 99 accepted literature values (crystal structure 52, phase transition 24, formation 14, invariant reaction 9) and 12 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ni system: 83 accepted literature values (crystal structure 36, phase transition 24, formation 14, invariant reaction 9) and 12 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NI.html · Markdown: https://data.orchid-project.org/systems/FE-NI.md
 
-99 accepted literature values from 3 paper(s) (experimental 13, model 18, DFT 60, unspecified 8); 12 calculated phase diagram(s).
+83 accepted literature values from 3 paper(s) (experimental 13, model 18, DFT 44, unspecified 8); 12 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NI.json) · [CSV](https://data.orchid-project.org/systems/FE-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-NI/FeNi-00Ans-2SL.json) · [Markdown](https://data.orchid-project.org/systems/FE-NI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 13 |
 | model | 18 |
-| DFT | 60 |
+| DFT | 44 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 9 |
 | phase transition | 24 |
 | formation | 14 |
-| crystal structure | 52 |
+| crystal structure | 36 |
 
 ## Calculated phase diagrams
 
@@ -106,14 +106,14 @@ Table: Invariant reactions reported in the literature for the Fe–Ni system (9)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1787.15 | peritectic: d-Fe þ liquid $ g-(Fe, Ni) |  | model | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | p. 2 | “A narrow peritectic equilibrium d-Fe þ liquid $ g-(Fe, Ni) occurs at about 1514 C with phase compositions of 3.5, 4.9 and 4.2 at% Ni, respectively \[11\].” |
-| 1787.15 | Peritectic: δ-Fe + liquid -> γ-(Fe,Ni) | δ-Fe: Ni 0.035; L: Ni 0.049; γ-(Fe,Ni): Ni 0.042 | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 1 |  |
-| 1787.15 | Peritectic: δ-Fe + liquid -> γ-(Fe,Ni) | δ-Fe: Ni 0.052; L: Ni 0.064; γ-(Fe,Ni): Ni 0.057 | model | [1] Cacciamani 2010 | Table 4, p. 11, row 2 |  |
-| 701.15 | Monotectoid: γ-(Fe,Ni)PM -> α-Fe + γ-(Fe,Ni)FM | γ-(Fe,Ni)PM: Ni 0.444; α-Fe: Ni 0.064; γ-(Fe,Ni)FM: Ni 0.475 | model | [1] Cacciamani 2010 | Table 4, p. 11, row 10 |  |
-| 688.15 | Monotectoid: γ-(Fe,Ni)PM -> α-Fe + γ-(Fe,Ni)FM | γ-(Fe,Ni)PM: Ni 0.435; α-Fe: Ni 0.042; γ-(Fe,Ni)FM: Ni 0.475 | unspecified | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 4, p. 11, row 8 |  |
-| 673.15 | Monotectoid: γ-(Fe,Ni)PM -> α-Fe + γ-(Fe,Ni)FM | γ-(Fe,Ni)PM: Ni 0.4; α-Fe: Ni 0.06; γ-(Fe,Ni)FM: Ni 0.46 | experimental | [1] Cacciamani 2010; _cites Yang 1996_ [doi](https://doi.org/10.1007/bf02665999) | Table 4, p. 11, row 9 |  |
-| 626.15 | Eutectoid: γ-(Fe,Ni)FM -> α-Fe + FeNi3 | γ-(Fe,Ni)FM: Ni 0.525; α-Fe: Ni 0.056; FeNi3: Ni 0.555 | model | [1] Cacciamani 2010 | Table 4, p. 11, row 15 |  |
-| 620.15 | Eutectoid: γ-(Fe,Ni)FM -> α-Fe + FeNi3 | γ-(Fe,Ni)FM: Ni 0.49; α-Fe: Ni 0.047; FeNi3: Ni 0.63 | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 13 |  |
-| 618.15 | Eutectoid: γ-(Fe,Ni)FM -> α-Fe + FeNi3 | γ-(Fe,Ni)FM: Ni 0.53; α-Fe: Ni 0.032; FeNi3: Ni 0.636 | unspecified | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 4, p. 11, row 14 |  |
+| 1787.15 | peritectic: δ-Fe + liquid -> γ-(Fe,Ni) | δ-Fe: Ni 0.035; L: Ni 0.049; γ-(Fe,Ni): Ni 0.042 | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 1 |  |
+| 1787.15 | peritectic: δ-Fe + liquid -> γ-(Fe,Ni) | δ-Fe: Ni 0.052; L: Ni 0.064; γ-(Fe,Ni): Ni 0.057 | model | [1] Cacciamani 2010 | Table 4, p. 11, row 2 |  |
+| 701.15 | monotectoid: γ-(Fe,Ni)PM -> α-Fe + γ-(Fe,Ni)FM | γ-(Fe,Ni)PM: Ni 0.444; α-Fe: Ni 0.064; γ-(Fe,Ni)FM: Ni 0.475 | model | [1] Cacciamani 2010 | Table 4, p. 11, row 10 |  |
+| 688.15 | monotectoid: γ-(Fe,Ni)PM -> α-Fe + γ-(Fe,Ni)FM | γ-(Fe,Ni)PM: Ni 0.435; α-Fe: Ni 0.042; γ-(Fe,Ni)FM: Ni 0.475 | unspecified | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 4, p. 11, row 8 |  |
+| 673.15 | monotectoid: γ-(Fe,Ni)PM -> α-Fe + γ-(Fe,Ni)FM | γ-(Fe,Ni)PM: Ni 0.4; α-Fe: Ni 0.06; γ-(Fe,Ni)FM: Ni 0.46 | experimental | [1] Cacciamani 2010; _cites Yang 1996_ [doi](https://doi.org/10.1007/bf02665999) | Table 4, p. 11, row 9 |  |
+| 626.15 | eutectoid: γ-(Fe,Ni)FM -> α-Fe + FeNi3 | γ-(Fe,Ni)FM: Ni 0.525; α-Fe: Ni 0.056; FeNi3: Ni 0.555 | model | [1] Cacciamani 2010 | Table 4, p. 11, row 15 |  |
+| 620.15 | eutectoid: γ-(Fe,Ni)FM -> α-Fe + FeNi3 | γ-(Fe,Ni)FM: Ni 0.49; α-Fe: Ni 0.047; FeNi3: Ni 0.63 | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 13 |  |
+| 618.15 | eutectoid: γ-(Fe,Ni)FM -> α-Fe + FeNi3 | γ-(Fe,Ni)FM: Ni 0.53; α-Fe: Ni 0.032; FeNi3: Ni 0.636 | unspecified | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 4, p. 11, row 14 |  |
 
 ## Formation enthalpies
 
@@ -155,66 +155,50 @@ Table: Phase transition, Fe–Ni system
 | Phase transition | 673.15 K | 673.15 | magnetic | model | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | p. 3 | “The monotectoid equilibrium was not reported by \[11\], who, however, set to 400 C the TC of g-(Fe,Ni) in equilibrium with a-Fe.” |
 | Phase transition | 673.15 K | 673.15 | other | experimental | [1] Cacciamani 2010; _cites Chuang 1986_ [doi](https://doi.org/10.1007/bf02650117) | p. 3 | “- The tricritical point and the miscibility gap between g-(Fe, Ni)PM and g-(Fe,Ni)FM, proposed by \[30, 31\] are confirmed and the consequent monotectoid equilibrium occurs at about 400 C.” |
 | Phase transition | 701.15 K | 701.15 | other: g-(Fe,Ni)PM $ a-Fe þ g-(Fe,Ni)FM | model | [1] Cacciamani 2010 | p. 11 | “According to the present assessment the monotectoid equilibrium g-(Fe,Ni)PM $ a-Fe þ g-(Fe,Ni)FM, never observed experimentally, occurs at 428 C.” |
-| Phase transition | 735.15 K | 735.15 | Tricritical: γ-(Fe,Ni)PM + γ-(Fe,Ni)FM; _γ-(Fe,Ni)PM: Ni 0.48; γ-(Fe,Ni)FM: Ni 0.48_ | unspecified | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 4, p. 11, row 6 |  |
+| Phase transition | 735.15 K | 735.15 | critical point: γ-(Fe,Ni)PM + γ-(Fe,Ni)FM; _γ-(Fe,Ni)PM: Ni 0.48; γ-(Fe,Ni)FM: Ni 0.48_ | unspecified | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 4, p. 11, row 6 |  |
 | Phase transition | 735.15 K | 735.15 | other | experimental | [1] Cacciamani 2010 | p. 3 | “obtained a tricritical point at about 462 C and 48 at% Ni, followed by a monotectoid equilibrium g-(Fe,Ni)PM $ a-Fe þ g-(Fe,Ni)FM at 389 C with phase compositions of 40, 6 and 46 at% Ni, respectively.” |
-| Phase transition | 745.15 K | 745.15 | Tricritical: γ-(Fe,Ni)PM + γ-(Fe,Ni)FM; _γ-(Fe,Ni)PM: Ni 0.484; γ-(Fe,Ni)FM: Ni 0.484_ | model | [1] Cacciamani 2010 | Table 4, p. 11, row 7 |  |
-| Phase transition | 787.15 K | 787.15 | Congruent: FeNi3 -> γ-(Fe,Ni); _FeNi3: Ni 0.723; γ-(Fe,Ni): Ni 0.723_ | model | [1] Cacciamani 2010 | Table 4, p. 11, row 12 |  |
+| Phase transition | 745.15 K | 745.15 | critical point: γ-(Fe,Ni)PM + γ-(Fe,Ni)FM; _γ-(Fe,Ni)PM: Ni 0.484; γ-(Fe,Ni)FM: Ni 0.484_ | model | [1] Cacciamani 2010 | Table 4, p. 11, row 7 |  |
+| Phase transition | 787.15 K | 787.15 | congruent transformation: FeNi3 -> γ-(Fe,Ni); _FeNi3: Ni 0.723; γ-(Fe,Ni): Ni 0.723_ | model | [1] Cacciamani 2010 | Table 4, p. 11, row 12 |  |
 | Phase transition | 790.15 K | 790.15 |  | experimental | [1] Cacciamani 2010 | p. 3 | “On the basis of the literature data it can be concluded that ordering occurs through a first order transformation with a maximum at about 517 C and 72e73 at% Ni, i.e. a slightly offstoichiometric composition.” |
-| Phase transition | 790.15 K | 790.15 | Congruent: FeNi3 -> γ-(Fe,Ni); _FeNi3: Ni 0.725; γ-(Fe,Ni): Ni 0.725_ | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 11 |  |
+| Phase transition | 790.15 K | 790.15 | congruent transformation: FeNi3 -> γ-(Fe,Ni); _FeNi3: Ni 0.725; γ-(Fe,Ni): Ni 0.725_ | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 11 |  |
 | Phase transition | 883.15 K | 883.15 | magnetic | experimental | [1] Cacciamani 2010; _cites Peschard 1925_ [doi](https://doi.org/10.1051/metal/192522080490) | p. 2 | “With increasing Fe concentration the Curie temperature (TC) increases up to a maximum of about 610 C at about 66 at% Ni and then decreases \[34e38\].” |
 | Phase transition | 888.4 K | 888.4 | magnetic | model | [2] Mathon 2009; _cites Dinsdale 1986_ | p. 4 | “It has to be noticed that the TC (fcc_A1, FeNi3 ) calculated from \[16\] chosen for our thermodynamic database is 888,4 K.” |
 | Phase transition | 953 K | 953 | magnetic | experimental | [2] Mathon 2009 | p. 4 | “From their experimental results, they deduced by extrapolation the Curie temperature for the ordered L12 \_FeNi3 to be 953 K; they point out that they are in agreement with the value of 954 K from Wakelin and Yates \[68\].” |
 | Phase transition | 954 K | 954 | magnetic | experimental | [2] Mathon 2009; _cites Wakelin 1953_ [doi](https://doi.org/10.1088/0370-1301/66/3/310) | p. 4 | “From their experimental results, they deduced by extrapolation the Curie temperature for the ordered L12 \_FeNi3 to be 953 K; they point out that they are in agreement with the value of 954 K from Wakelin and Yates \[68\].” |
 | Phase transition | 1185.15 K | 1185.15 |  | experimental | [1] Cacciamani 2010 | p. 2 | “The a-Fe þ g-(Fe,Ni) two-phase field starts at 912 C, the a to g transformation temperature of pure Fe.” |
-| Phase transition | 1705.15 K | 1705.15 | Congruent: γ-(Fe,Ni) -> liquid; _γ-(Fe,Ni): Ni 0.663; L: Ni 0.663_ | model | [1] Cacciamani 2010 | Table 4, p. 11, row 5 |  |
-| Phase transition | 1713.15 K | 1713.15 | Congruent: γ-(Fe,Ni) -> liquid; _γ-(Fe,Ni): Ni 0.66; L: Ni 0.66_ | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 3 |  |
+| Phase transition | 1705.15 K | 1705.15 | congruent melting: γ-(Fe,Ni) -> liquid; _γ-(Fe,Ni): Ni 0.663; L: Ni 0.663_ | model | [1] Cacciamani 2010 | Table 4, p. 11, row 5 |  |
+| Phase transition | 1713.15 K | 1713.15 | congruent melting: γ-(Fe,Ni) -> liquid; _γ-(Fe,Ni): Ni 0.66; L: Ni 0.66_ | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 3 |  |
 | Phase transition | 1713.15 K | 1713.15 | other | model | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | p. 2 | “The g-(Fe,Ni) þ liquid two-phase field is very narrow with a minimum which is most probably located at approximately 1440 C and 66 at% Ni, according to the critical assessment by \[11\].” |
-| Phase transition | 1716.15 K | 1716.15 | Congruent: γ-(Fe,Ni) -> liquid; _γ-(Fe,Ni): Ni 0.66; L: Ni 0.66_ | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 4 |  |
+| Phase transition | 1716.15 K | 1716.15 | congruent melting: γ-(Fe,Ni) -> liquid; _γ-(Fe,Ni): Ni 0.66; L: Ni 0.66_ | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 4 |  |
 
-### Crystal structure (52)
+### Crystal structure (36)
 
 Table: Crystal structure, Fe–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.28577 nm |  | bcc; _alloy: Fe 0.75, Ni 0.25_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 7 |  |
-| Lattice a | 0.28577 nm |  | bcc; _alloy: Fe 0.75, Ni 0.25_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 7 |  |
-| Lattice a | 0.28547 nm |  | bcc; _alloy: Fe 0.7, Ni 0.3_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 8 |  |
 | Lattice a | 0.28547 nm |  | bcc; _alloy: Fe 0.7, Ni 0.3_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 8 |  |
 | Lattice a | 0.28279 nm |  | bcc; _alloy: Fe 0.3, Ni 0.7_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 11 |  |
-| Lattice a | 0.28279 nm |  | bcc; _alloy: Fe 0.3, Ni 0.7_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 11 |  |
-| Lattice a | 0.28041 nm |  | bcc; _alloy: Fe 0, Ni 1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 16 |  |
 | Lattice a | 0.28041 nm |  | bcc; _alloy: Fe 0, Ni 1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 16 |  |
 | Lattice a | 0.28368 nm |  | bcc; _alloy: Fe 1, Ni 0_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 1 |  |
-| Lattice a | 0.28368 nm |  | bcc; _alloy: Fe 1, Ni 0_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 1 |  |
-| Lattice a | 0.28487 nm |  | bcc; _alloy: Fe 0.96, Ni 0.04_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 3 |  |
 | Lattice a | 0.28487 nm |  | bcc; _alloy: Fe 0.96, Ni 0.04_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 3 |  |
 | Lattice a | 0.2812 nm |  | bcc; _alloy: Fe 0.1, Ni 0.9_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 14 |  |
-| Lattice a | 0.2812 nm |  | bcc; _alloy: Fe 0.1, Ni 0.9_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 14 |  |
-| Lattice a | 0.28602 nm |  | bcc; _alloy: Fe 0.9, Ni 0.1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 6 |  |
 | Lattice a | 0.28602 nm |  | bcc; _alloy: Fe 0.9, Ni 0.1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 6 |  |
 | Lattice a | 0.28202 nm |  | bcc; _alloy: Fe 0.2, Ni 0.8_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 13 |  |
-| Lattice a | 0.28202 nm |  | bcc; _alloy: Fe 0.2, Ni 0.8_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 13 |  |
-| Lattice a | 0.28514 nm |  | bcc; _alloy: Fe 0.95, Ni 0.05_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 4 |  |
 | Lattice a | 0.28514 nm |  | bcc; _alloy: Fe 0.95, Ni 0.05_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 4 |  |
 | Lattice a | 0.28428 nm |  | bcc; _alloy: Fe 0.98, Ni 0.02_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 2 |  |
-| Lattice a | 0.28428 nm |  | bcc; _alloy: Fe 0.98, Ni 0.02_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 2 |  |
-| Lattice a | 0.28569 nm |  | bcc; _alloy: Fe 0.925, Ni 0.075_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 5 |  |
 | Lattice a | 0.28569 nm |  | bcc; _alloy: Fe 0.925, Ni 0.075_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 5 |  |
 | Lattice a | 0.28241 nm |  | bcc; _alloy: Fe 0.25, Ni 0.75_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 12 |  |
-| Lattice a | 0.28241 nm |  | bcc; _alloy: Fe 0.25, Ni 0.75_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 12 |  |
-| Lattice a | 0.28353 nm |  | bcc; _alloy: Fe 0.4, Ni 0.6_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 10 |  |
 | Lattice a | 0.28353 nm |  | bcc; _alloy: Fe 0.4, Ni 0.6_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 10 |  |
 | Lattice a | 0.28422 nm |  | bcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 9 |  |
-| Lattice a | 0.28422 nm |  | bcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 9 |  |
-| Lattice a | 0.2805 nm |  | bcc; _alloy: Fe 0.01, Ni 0.99_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 15 |  |
 | Lattice a | 0.2805 nm |  | bcc; _alloy: Fe 0.01, Ni 0.99_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 15 |  |
 | Lattice a | 0.35523 nm | 298.15 | FeNi3; _alloy: Ni 0.75_ | model | [1] Cacciamani 2010 | Table 1, p. 4, row 5 |  |
-| lattice a fe  | 0.28665 nm | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
-| lattice a fe  | 0.29315 nm | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
-| lattice a fe  | 0.36467 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
-| lattice a fe50ni50  | 0.3575 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
-| lattice a ni  | 0.3524 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
+| Lattice a | 0.28665 nm | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
+| Lattice a | 0.29315 nm | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
+| Lattice a | 0.36467 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
+| Lattice a | 0.3524 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
+| Lattice a | 0.3575 nm | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
 | lattice unspecified axis; _printed: a0_ | 0.37 nm | 0 | Fe A1; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 3 |  |
 | lattice unspecified axis; _printed: a0_ | 0.35 nm | 0 | Fe A1; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 2 |  |
 | lattice unspecified axis; _printed: a0_ | 0.2826 nm | 0 | Fe A2; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 1 |  |

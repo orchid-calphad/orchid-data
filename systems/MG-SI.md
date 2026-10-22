@@ -92,84 +92,84 @@ Table: Invariant reactions reported in the literature for the Mg–Si system (82
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1363.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Lebeau 1901_ | Table 5, p. 5, row 2 |  |
+| 1363.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Lebeau 1901_ | Table 5, p. 5, row 2 |  |
 | 1363 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 15 |  |
 | 1358.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Klemm 1941_ [doi](https://doi.org/10.1002/zaac.19412450404) | Table 5, p. 4, row 12 |  |
-| 1358.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Caulfield 1966_ | Table 5, p. 5, row 14 |  |
+| 1358.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Caulfield 1966_ | Table 5, p. 5, row 14 |  |
 | 1358.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 16 |  |
-| 1358.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 18 |  |
+| 1358.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 18 |  |
 | 1358 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 17 |  |
 | 1357.75 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 22 |  |
-| 1357.45 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 36 |  |
-| 1354.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 27 |  |
-| 1353.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 24 |  |
+| 1357.45 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 36 |  |
+| 1354.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 27 |  |
+| 1353.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 24 |  |
 | 1353.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Eldridge 1967_ | Table 5, p. 4, row 13 |  |
 | 1351.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 19 |  |
-| 1351.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 21 |  |
+| 1351.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 21 |  |
 | 1351 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 18 |  |
 | 1350.5 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | model | [2] Schick 2012 | Table 5, p. 8, row 21 |  |
-| 1350.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Eldridge 1967_ | Table 5, p. 5, row 15 |  |
-| 1349.95 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 30 |  |
-| 1349.55 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 33 |  |
+| 1350.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Eldridge 1967_ | Table 5, p. 5, row 15 |  |
+| 1349.95 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 30 |  |
+| 1349.55 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 33 |  |
 | 1346 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012 | Table 5, p. 8, row 20 |  |
-| 1345.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Beardmore 1966_ | Table 5, p. 5, row 13 |  |
+| 1345.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Beardmore 1966_ | Table 5, p. 5, row 13 |  |
 | 1343.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 3 |  |
-| 1343.15 | Congruent: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 5 |  |
+| 1343.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 5 |  |
 | 1343 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 8, row 16 |  |
 | 1241.15 | eutectic |  | model | [4] Kevorkov 2004 | p. 10 | “This is the reason why this line ends at 968 °C and does not touch the liquidus line. This maximum corresponds to e1 on the eutectic line between ␶3 and LixMg2Si, given in Fig. 19.” |
-| 1223.15 | Eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5444; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 4 |  |
+| 1223.15 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5444; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 4 |  |
 | 1223.15 | L -> Mg2Si + Si-diamond | L: Si 0.544; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 2 |  |
 | 1223 | L -> Mg2Si + Si (dia) | L: Si 0.54; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 8 |  |
 | 1219 | L -> Mg2Si + Si (dia) | L: Si 0.529; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Farkas 1985_ | Table 5, p. 8, row 12 |  |
 | 1218.8 | L -> Mg2Si + Si (dia) | L: Si 0.53; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 10 |  |
 | 1218.75 | L -> Mg2Si + Si-diamond | L: Si 0.53; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 15 |  |
-| 1218.75 | Eutectic: L \<-> Mg2Si + (Si) | L: Si 0.53; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 17 |  |
+| 1218.75 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.53; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 17 |  |
 | 1218.75 | L -> Mg2Si + Si-diamond | L: Si 0.535; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 21 |  |
-| 1217.15 | Eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5302; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 35 |  |
-| 1217.15 | Eutectic: L \<-> Mg2Si + (Si) | Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 23 |  |
-| 1216.71 | Eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5418; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 32 |  |
-| 1216.69 | Eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5401; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 29 |  |
-| 1215.5 | Eutectic: L \<-> Mg2Si + (Si) | L: Si 0.529; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 26 |  |
+| 1217.15 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5302; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 35 |  |
+| 1217.15 | eutectic: L \<-> Mg2Si + (Si) | Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 23 |  |
+| 1216.71 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5418; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 32 |  |
+| 1216.69 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5401; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 29 |  |
+| 1215.5 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.529; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 26 |  |
 | 1215 | eutectic: Liquid → Mg2 Si + (Si) |  | experimental | [2] Schick 2012 | p. 4 | “The temperature of the eutectic reaction Liquid → Mg2 Si + (Si), determined from onset values of peaks on heating, was 1215 K.” |
 | 1215 | L -> Mg2Si + Si (dia) | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [2] Schick 2012 | Table 5, p. 8, row 13 |  |
-| 1214.4 | Eutectic: Liquid -> Mg2Si + diamond | Liquid: Si 0.53; Mg2Si: Si 0.333; diamond: Si 1 | model | [5] Hämäläinen 1998 | Table I, p. 239, row 2 |  |
-| 1213.15 | Eutectic: L \<-> Mg2Si + (Si) | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 20 |  |
+| 1214.4 | eutectic: Liquid -> Mg2Si + diamond | Liquid: Si 0.53; Mg2Si: Si 0.333; diamond: Si 1 | model | [5] Hämäläinen 1998 | Table I, p. 239, row 2 |  |
+| 1213.15 | eutectic: L \<-> Mg2Si + (Si) | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 20 |  |
 | 1213.15 | L -> Mg2Si + Si-diamond | L: Si 0.541; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 18 |  |
 | 1213 | L -> Mg2Si + Si (dia) | L: Si 0.541; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 11 |  |
 | 1212.5 | L -> Mg2Si + Si (dia) | L: Si 0.543; Mg2Si: Si 0.333; Si (dia): Si 1 | model | [2] Schick 2012 | Table 5, p. 8, row 14 |  |
 | 1193.15 | L -> Mg2Si + Si-diamond | L: Si 0.534; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 4, row 6 |  |
-| 1193.15 | Eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5343; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Woler 1926_ | Table 5, p. 5, row 7 |  |
+| 1193.15 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5343; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Woler 1926_ | Table 5, p. 5, row 7 |  |
 | 1193 | L -> Mg2Si + Si (dia) | L: Si 0.53; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 8, row 9 |  |
 | 919 | L -> Mg (hcp) + Mg2Si | L: Si 0.035; Mg (hcp): Si 0; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 1 |  |
 | 918.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0348; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 1 |  |
 | 918.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.012; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schmidt 1927_ | Table 5, p. 4, row 7 |  |
-| 918.15 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0348; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 3 |  |
-| 918.15 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0119; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schmidt 1927_ | Table 5, p. 5, row 8 |  |
+| 918.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0348; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 3 |  |
+| 918.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0119; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schmidt 1927_ | Table 5, p. 5, row 8 |  |
 | 918 | L -> Mg (hcp) + Mg2Si | L: Si 0.012; Mg (hcp): Si 0; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schmidt 1927_ | Table 5, p. 8, row 2 |  |
 | 915.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0105; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Goto 1937_ | Table 5, p. 4, row 10 |  |
-| 915.15 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0105; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Goto 1937_ | Table 5, p. 5, row 11 |  |
-| 913.15 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Elchardus 1938_ | Table 5, p. 5, row 9 |  |
-| 912.35 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 34 |  |
-| 912.3 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0117; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 22 |  |
-| 912.02 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0129; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 31 |  |
-| 912 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0133; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 25 |  |
-| 911.82 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 28 |  |
-| 911.8 | Eutectic: Liquid -> hcp-A3 + Mg2Si | Liquid: Si 0.013; hcp-A3: Si 0; Mg2Si: Si 0.333 | model | [5] Hämäläinen 1998 | Table I, p. 239, row 1 |  |
+| 915.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0105; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Goto 1937_ | Table 5, p. 5, row 11 |  |
+| 913.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Elchardus 1938_ | Table 5, p. 5, row 9 |  |
+| 912.35 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 34 |  |
+| 912.3 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0117; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 22 |  |
+| 912.02 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0129; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 31 |  |
+| 912 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0133; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 25 |  |
+| 911.82 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 28 |  |
+| 911.8 | eutectic: Liquid -> hcp-A3 + Mg2Si | Liquid: Si 0.013; hcp-A3: Si 0; Mg2Si: Si 0.333 | model | [5] Hämäläinen 1998 | Table I, p. 239, row 1 |  |
 | 911.75 | L -> (Mg)-hcp + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 14 |  |
 | 911.75 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0135; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 20 |  |
-| 911.75 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 16 |  |
+| 911.75 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 16 |  |
 | 911.7 | L -> Mg (hcp) + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 5 |  |
 | 910.85 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Raynor 1940_ | Table 5, p. 4, row 11 |  |
-| 910.75 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Raynor 1940_ | Table 5, p. 5, row 12 |  |
+| 910.75 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Raynor 1940_ | Table 5, p. 5, row 12 |  |
 | 910.7 | L -> Mg (hcp) + Mg2Si | L: Si 0.0116; Mg (hcp): Si 3.000e-5; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Raynor 1940_ | Table 5, p. 8, row 3 |  |
 | 910.2 | L -> Mg (hcp) + Mg2Si | L: Si 0.0146; Mg (hcp): Si 2.900e-5; Mg2Si: Si 0.333 | model | [2] Schick 2012 | Table 5, p. 8, row 7 |  |
-| 910.15 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.015; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 19 |  |
+| 910.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.015; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 19 |  |
 | 910.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 17 |  |
 | 910 | L -> Mg (hcp) + Mg2Si | L: Si 0.013; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 6 |  |
 | 910 | eutectic |  | model | [2] Schick 2012; _cites Yue 1959_ | p. 2 | “Yue \[10\] used a modified zone-melting technique to determine the maximum Si solubility (at the eutectic temperature; 910 K) to be 0.0028 at.% Si, in good agreement with Raynor \[13\].” |
-| 905.15 | Eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0208; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Sawamoto 1935_ | Table 5, p. 5, row 10 |  |
+| 905.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0208; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Sawamoto 1935_ | Table 5, p. 5, row 10 |  |
 | 905.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0208; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Sawamoto 1935_ | Table 5, p. 4, row 9 |  |
-| 898.15 | Eutectic: L \<-> (Mg) + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Woler 1926_ | Table 5, p. 5, row 6 |  |
+| 898.15 | eutectic: L \<-> (Mg) + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Woler 1926_ | Table 5, p. 5, row 6 |  |
 | 898.15 | L -> (Mg)-hcp + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 4, row 5 |  |
 | 848.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Elchardus 1940_ | Table 5, p. 4, row 8 |  |
 | 0.333 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 8, row 19 |  |
@@ -228,12 +228,12 @@ Table: Phase transition, Mg–Si system
 | Phase transition | 879.15 K | 879.15 | L → LixMg2Si | model | [4] Kevorkov 2004 | p. 11 | “The solidification continues with L → LixMg2Si, 843-606 °C.” |
 | Phase transition | 1346 K | 1346 |  | experimental | [2] Schick 2012 | p. 4 | “From repeated heating/cooling cycles with the rates of 5 and 1 K/min, the melting temperature of Mg2 Si was determined to be 1346 K.” |
 | Phase transition | 1346 K | 1346 |  | experimental | [2] Schick 2012 | p. 8 | “Within the present work we obtained TL = 1346 K from DSC measurements and TL = 1350 K from the optimization.” |
-| Phase transition | 1346 K | 1346 | congruent | experimental | [2] Schick 2012 | p. 6 | “Also the congruent melting temperature of Mg2 Si has been determined TL = 1346 K.” |
+| Phase transition | 1346 K | 1346 | congruent melting | experimental | [2] Schick 2012 | p. 6 | “Also the congruent melting temperature of Mg2 Si has been determined TL = 1346 K.” |
 | Phase transition | 1350 K | 1350 |  | model | [2] Schick 2012 | p. 8 | “Within the present work we obtained TL = 1346 K from DSC measurements and TL = 1350 K from the optimization.” |
-| Phase transition | 1350 K | 1350 | Congruent: Mg2Si -> Liquid; _Mg2Si: Si 0.333; Liquid: Si 0.333_ | model | [5] Hämäläinen 1998 | Table I, p. 239, row 3 |  |
+| Phase transition | 1350 K | 1350 | congruent melting: Mg2Si -> Liquid; _Mg2Si: Si 0.333; Liquid: Si 0.333_ | model | [5] Hämäläinen 1998 | Table I, p. 239, row 3 |  |
 | Phase transition | 1351 K | 1351 |  | experimental | [2] Schick 2012; _cites Schurmann 1977_ | p. 9 | “Both values are in very good agreement with each other and with the value from Schürmann and Fischer \[12\] (TL = 1351 K).” |
 | Phase transition | 1358 K | 1358 |  | experimental | [2] Schick 2012; _cites Geffken 1968_ | p. 9 | “Geffken and Miller's \[11\] melting temperature is a few K higher (TL = 1358 K).” |
-| Phase transition | 1358 K | 1358 | congruent | model | [6] Zhou 2010; _cites Nayeb-Hashemi 1984_ [doi](https://doi.org/10.1007/bf02868321) | p. 2 | “Mg-Si binary system was well established according to the evaluation by Nayeb-Hashemi et al. \[31\], which shows only one compound (Mg2 Si) and it forms congruently at 1358 K.” |
+| Phase transition | 1358 K | 1358 | congruent transformation | model | [6] Zhou 2010; _cites Nayeb-Hashemi 1984_ [doi](https://doi.org/10.1007/bf02868321) | p. 2 | “Mg-Si binary system was well established according to the evaluation by Nayeb-Hashemi et al. \[31\], which shows only one compound (Mg2 Si) and it forms congruently at 1358 K.” |
 
 ### Formation (17)
 
@@ -265,30 +265,30 @@ Table: Mixing / partial, Mg–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Δ^{E,0}H\_{Mg+Si}_ | 19640 J/mol (basis unstated) ± 1180 | 1000 | liquid | experimental | [7] Feufel 1997 | Table 3, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 23840 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21710 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21020 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22150 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.989, Si 0.011_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22670 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.983, Si 0.017_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 19720 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 20620 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.996, Si 0.004_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21050 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.986, Si 0.014_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22550 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.987, Si 0.013_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 19270 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.997, Si 0.003_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 23260 J/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.984, Si 0.016_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 11 |  |
-| Partial enthalpy; _printed: ΔE,0 H Mg+Si (infinite dilution)_ | 19.64 kJ mol−1 ± 1.18 | 1000 | UNKNOWN | experimental | [7] Feufel 1997 | Table 3, p. 3, row 12 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 23.84 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 9 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.71 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 2 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.02 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 3 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.15 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.989, Si 0.011_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 4 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.67 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.983, Si 0.017_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 6 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 19.72 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 8 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 20.62 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.996, Si 0.004_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 1 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.05 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.986, Si 0.014_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 5 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.55 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.987, Si 0.013_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 10 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 19.27 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.997, Si 0.003_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 7 |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 23.26 kJ mol−1 | 1000 | liquid; _alloy: Mg 0.984, Si 0.016_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: Δ^{E,0}H\_{Mg+Si}_ | 19.64 kJ/mol (basis unstated) ± 1.18 | 1000 | liquid | experimental | [7] Feufel 1997 | Table 3, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 23.84 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.71 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.02 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.15 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.989, Si 0.011_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.67 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.983, Si 0.017_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 19.72 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 20.62 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.996, Si 0.004_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.05 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.986, Si 0.014_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.55 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.987, Si 0.013_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 19.27 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.997, Si 0.003_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 23.26 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.984, Si 0.016_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 11 |  |
+| Partial enthalpy; _printed: ΔE,0 H Mg+Si (infinite dilution)_ | 19.64 kJ/mol (basis unstated) ± 1.18 | 1000 | UNKNOWN | experimental | [7] Feufel 1997 | Table 3, p. 3, row 12 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 23.84 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 9 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.71 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 2 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.02 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 3 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.15 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.989, Si 0.011_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 4 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.67 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.983, Si 0.017_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 6 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 19.72 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 8 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 20.62 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.996, Si 0.004_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 1 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.05 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.986, Si 0.014_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 5 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.55 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.987, Si 0.013_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 10 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 19.27 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.997, Si 0.003_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 7 |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 23.26 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.984, Si 0.016_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 11 |  |
 
 ### Heat capacity / entropy / enthalpy (62)
 

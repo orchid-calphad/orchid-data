@@ -66,22 +66,22 @@ Table: Invariant reactions reported in the literature for the Ag–Yb system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1000 | Peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.17; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 5 |  |
-| 997 | Peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.172; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 4 |  |
-| 977 | Eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.135; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 1 |  |
-| 968 | Eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Gschneidner 1970_ [doi](https://doi.org/10.1007/bf02642796) | Table 2, p. 3, row 2 |  |
+| 1000 | peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.17; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 5 |  |
+| 997 | peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.172; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 4 |  |
+| 977 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.135; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 1 |  |
+| 968 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Gschneidner 1970_ [doi](https://doi.org/10.1007/bf02642796) | Table 2, p. 3, row 2 |  |
 | 958.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1 | “The temperature of eutectic between Ag and Ag5 Yb was 685 ◦ C.” |
-| 958 | Eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 3 |  |
-| 919 | Eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.325; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 9 |  |
-| 916 | Eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.331; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | model | [1] Zhang 2008 | Table 2, p. 3, row 8 |  |
-| 905 | Peritectic: L + AgYb_H -> Ag2Yb3 | L: Yb 0.605; AgYb_H: Yb 0.5; Ag2Yb3: Yb 0.6 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 17 |  |
-| 897 | Peritectic: L + AgYb_H -> Ag2Yb3 | L: Yb 0.601; AgYb_H: Yb 0.5; Ag2Yb3: Yb 0.6 | model | [1] Zhang 2008 | Table 2, p. 3, row 16 |  |
-| 877 | Eutectic: L -> Ag2Yb + AgYb_H | L: Yb 0.395; Ag2Yb: Yb 0.333333; AgYb_H: Yb 0.5 | model | [1] Zhang 2008 | Table 2, p. 3, row 10 |  |
-| 865 | Eutectic: L -> Ag2Yb + AgYb_H | L: Yb 0.395; Ag2Yb: Yb 0.333333; AgYb_H: Yb 0.5 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 11 |  |
-| 834 | Peritectic: L + Ag2Yb3 -> Ag3Yb5 | L: Yb 0.706; Ag2Yb3: Yb 0.6; Ag3Yb5: Yb 0.625 | model | [1] Zhang 2008 | Table 2, p. 3, row 18 |  |
-| 825 | Peritectic: L + Ag2Yb3 -> Ag3Yb5 | L: Yb 0.695; Ag2Yb3: Yb 0.6; Ag3Yb5: Yb 0.625 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 19 |  |
-| 719 | Eutectic: L -> Ag3Yb5 + fcc | L: Yb 0.79; Ag3Yb5: Yb 0.625 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 21 |  |
-| 716 | Eutectic: L -> Ag3Yb5 + fcc | L: Yb 0.799; Ag3Yb5: Yb 0.625 | model | [1] Zhang 2008 | Table 2, p. 3, row 20 |  |
+| 958 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 3 |  |
+| 919 | eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.325; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 9 |  |
+| 916 | eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.331; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | model | [1] Zhang 2008 | Table 2, p. 3, row 8 |  |
+| 905 | peritectic: L + AgYb_H -> Ag2Yb3 | L: Yb 0.605; AgYb_H: Yb 0.5; Ag2Yb3: Yb 0.6 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 17 |  |
+| 897 | peritectic: L + AgYb_H -> Ag2Yb3 | L: Yb 0.601; AgYb_H: Yb 0.5; Ag2Yb3: Yb 0.6 | model | [1] Zhang 2008 | Table 2, p. 3, row 16 |  |
+| 877 | eutectic: L -> Ag2Yb + AgYb_H | L: Yb 0.395; Ag2Yb: Yb 0.333333; AgYb_H: Yb 0.5 | model | [1] Zhang 2008 | Table 2, p. 3, row 10 |  |
+| 865 | eutectic: L -> Ag2Yb + AgYb_H | L: Yb 0.395; Ag2Yb: Yb 0.333333; AgYb_H: Yb 0.5 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 11 |  |
+| 834 | peritectic: L + Ag2Yb3 -> Ag3Yb5 | L: Yb 0.706; Ag2Yb3: Yb 0.6; Ag3Yb5: Yb 0.625 | model | [1] Zhang 2008 | Table 2, p. 3, row 18 |  |
+| 825 | peritectic: L + Ag2Yb3 -> Ag3Yb5 | L: Yb 0.695; Ag2Yb3: Yb 0.6; Ag3Yb5: Yb 0.625 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 19 |  |
+| 719 | eutectic: L -> Ag3Yb5 + fcc | L: Yb 0.79; Ag3Yb5: Yb 0.625 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 21 |  |
+| 716 | eutectic: L -> Ag3Yb5 + fcc | L: Yb 0.799; Ag3Yb5: Yb 0.625 | model | [1] Zhang 2008 | Table 2, p. 3, row 20 |  |
 
 ## Other properties
 
@@ -91,13 +91,13 @@ Table: Phase transition, Ag–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 729 K | 729 | Allotropic: AgYb_H -> AgYb_L; _AgYb_H: Yb 0.5; AgYb_L: Yb 0.5_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 15 |  |
-| Phase transition | 729 K | 729 | Allotropic: AgYb_H -> AgYb_L; _AgYb_H: Yb 0.5; AgYb_L: Yb 0.5_ | model | [1] Zhang 2008 | Table 2, p. 3, row 14 |  |
+| Phase transition | 729 K | 729 | polymorphic: AgYb_H -> AgYb_L; _AgYb_H: Yb 0.5; AgYb_L: Yb 0.5_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 15 |  |
+| Phase transition | 729 K | 729 | polymorphic: AgYb_H -> AgYb_L; _AgYb_H: Yb 0.5; AgYb_L: Yb 0.5_ | model | [1] Zhang 2008 | Table 2, p. 3, row 14 |  |
 | Phase transition | 729.15 K | 729.15 | AgYb | experimental | [1] Zhang 2008 | p. 1 | “The AgYb compound transform from orthorhombic ␤-type Fe structure at room temperature to cubic CsCl-type structure at 456 ◦ C.” |
-| Phase transition | 994 K | 994 | Congruent: L -> AgYb_H; _L: Yb 0.5; AgYb_H: Yb 0.5_ | model | [1] Zhang 2008 | Table 2, p. 3, row 12 |  |
-| Phase transition | 997 K | 997 | Congruent: L -> AgYb_H; _L: Yb 0.5; AgYb_H: Yb 0.5_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 13 |  |
-| Phase transition | 1022 K | 1022 | Congruent: L -> Ag7Yb2; _L: Yb 0.222222; Ag7Yb2: Yb 0.222222_ | model | [1] Zhang 2008 | Table 2, p. 3, row 6 |  |
-| Phase transition | 1022 K | 1022 | Congruent: L -> Ag7Yb2; _L: Yb 0.222222; Ag7Yb2: Yb 0.222222_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 7 |  |
+| Phase transition | 994 K | 994 | congruent melting: L -> AgYb_H; _L: Yb 0.5; AgYb_H: Yb 0.5_ | model | [1] Zhang 2008 | Table 2, p. 3, row 12 |  |
+| Phase transition | 997 K | 997 | congruent melting: L -> AgYb_H; _L: Yb 0.5; AgYb_H: Yb 0.5_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 13 |  |
+| Phase transition | 1022 K | 1022 | congruent melting: L -> Ag7Yb2; _L: Yb 0.222222; Ag7Yb2: Yb 0.222222_ | model | [1] Zhang 2008 | Table 2, p. 3, row 6 |  |
+| Phase transition | 1022 K | 1022 | congruent melting: L -> Ag7Yb2; _L: Yb 0.222222; Ag7Yb2: Yb 0.222222_ | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 7 |  |
 
 ## Sources
 

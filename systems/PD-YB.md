@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/PD-YB.html · Markdown: https://data.orchid-project.org/systems/PD-YB.md
 
-28 accepted literature values from 1 paper(s) (experimental 22, model 6); 1 calculated phase diagram(s). 127 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+28 accepted literature values from 1 paper(s) (experimental 22, model 6); 1 calculated phase diagram(s). 124 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-YB.json) · [CSV](https://data.orchid-project.org/systems/PD-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-YB/PdYb-20Kar.json) · [Markdown](https://data.orchid-project.org/systems/PD-YB.md)
 
@@ -74,24 +74,24 @@ Table: Invariant reactions reported in the literature for the Pd–Yb system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1710.15 | Transition: PdYb_LT -> PdYb_HT + Liq | PdYb_LT: Yb 0.5185; PdYb_HT: Yb 0.5 | model | [1] Kardellass 2020 | Table 2, p. 4, row 20 |  |
-| 1708.15 | Transition: PdYb_LT -> PdYb_HT + Liq | PdYb_LT: Yb 0.492; PdYb_HT: Yb 0.5 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 19 |  |
-| 1667.15 | Transition: PdYb_HT -> PdYb_LT + Liq | PdYb_HT: Yb 0.4483; PdYb_LT: Yb 0.5 | model | [1] Kardellass 2020 | Table 2, p. 4, row 23 |  |
-| 1663.15 | Eutectic: PdYb_LT + Pd4Yb3 -> Liq | PdYb_LT: Yb 0.454; Pd4Yb3: Yb 0.428571 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 25 |  |
-| 1663.15 | Transition: PdYb_HT -> PdYb_LT + Liq | PdYb_HT: Yb 0.452; PdYb_LT: Yb 0.5 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 22 |  |
-| 1653.15 | Peritectic: Pd21Yb10_HT -> Pd3Yb + Liq | Pd21Yb10_HT: Yb 0.352; Pd3Yb: Yb 0.25 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 52 |  |
-| 1623.15 | Eutectic: Pd3Yb + fcc_A1 -> Liq | Pd3Yb: Yb 0.134 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 58 |  |
-| 1618.15 | Eutectic: Pd5Yb3_HT + Pd4Yb3 -> Liq | Pd5Yb3_HT: Yb 0.393; Pd4Yb3: Yb 0.428571 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 31 |  |
-| 1613.15 | Eutectic: Pd5Yb3_HT + Pd21Yb10_HT -> Liq | Pd5Yb3_HT: Yb 0.369; Pd21Yb10_HT: Yb 0.322581 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 43 |  |
-| 1468.15 | Peritectoid: Pd2Yb -> Pd21Yb10_LT + Pd5Yb3_HT | Pd2Yb: Yb 0.333; Pd21Yb10_LT: Yb 0.322581; Pd5Yb3_HT: Yb 0.375 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 46 |  |
-| 1458.15 | Transition: Pd5Yb3_HT -> Pd2Yb + Pd5Yb3_LT | Pd5Yb3_HT: Yb 0.375; Pd2Yb: Yb 0.333333; Pd5Yb3_LT: Yb 0.375 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 40 |  |
-| 1428.15 | Transition: Pd5Yb3_LT -> Pd4Yb3 + Pd5Yb3_LT | Pd5Yb3_LT: Yb 0.372; Pd4Yb3: Yb 0.428571; Pd5Yb3_LT: Yb 0.372 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 37 |  |
-| 1048.15 | Peritectoid: βYb -> αYb + Liq | βYb: Yb 0.9472 | model | [1] Kardellass 2020 | Table 2, p. 4, row 2 |  |
-| 1038.15 | Peritectoid: βYb -> αYb + Liq | βYb: Yb 0.95 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 1 |  |
-| 968.15 | Peritectic: Pd2Yb5_HT -> PdYb_LT + Liq | Pd2Yb5_HT: Yb 0.736; PdYb_LT: Yb 0.5 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 10 |  |
-| 943.15 | Peritectic: PdYb3 -> Pd2Yb5_LT + Liq | PdYb3: Yb 0.778; Pd2Yb5_LT: Yb 0.714286 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 7 |  |
-| 888.15 | Eutectic: βYb + PdYb3 -> Liq | βYb: Yb 0.851; PdYb3: Yb 0.75 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 4 |  |
-| 722.15 | Peritectoid: Pd7Yb -> Pd3Yb + fcc_A1 | Pd7Yb: Yb 0.125; Pd3Yb: Yb 0.25 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 61 |  |
+| 1710.15 | other: PdYb_LT -> PdYb_HT + Liq | PdYb_LT: Yb 0.5185; PdYb_HT: Yb 0.5 | model | [1] Kardellass 2020 | Table 2, p. 4, row 20 |  |
+| 1708.15 | other: PdYb_LT -> PdYb_HT + Liq | PdYb_LT: Yb 0.492; PdYb_HT: Yb 0.5 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 19 |  |
+| 1667.15 | other: PdYb_HT -> PdYb_LT + Liq | PdYb_HT: Yb 0.4483; PdYb_LT: Yb 0.5 | model | [1] Kardellass 2020 | Table 2, p. 4, row 23 |  |
+| 1663.15 | eutectic: PdYb_LT + Pd4Yb3 -> Liq | PdYb_LT: Yb 0.454; Pd4Yb3: Yb 0.428571 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 25 |  |
+| 1663.15 | other: PdYb_HT -> PdYb_LT + Liq | PdYb_HT: Yb 0.452; PdYb_LT: Yb 0.5 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 22 |  |
+| 1653.15 | peritectic: Pd21Yb10_HT -> Pd3Yb + Liq | Pd21Yb10_HT: Yb 0.352; Pd3Yb: Yb 0.25 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 52 |  |
+| 1623.15 | eutectic: Pd3Yb + fcc_A1 -> Liq | Pd3Yb: Yb 0.134 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 58 |  |
+| 1618.15 | eutectic: Pd5Yb3_HT + Pd4Yb3 -> Liq | Pd5Yb3_HT: Yb 0.393; Pd4Yb3: Yb 0.428571 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 31 |  |
+| 1613.15 | eutectic: Pd5Yb3_HT + Pd21Yb10_HT -> Liq | Pd5Yb3_HT: Yb 0.369; Pd21Yb10_HT: Yb 0.322581 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 43 |  |
+| 1468.15 | peritectoid: Pd2Yb -> Pd21Yb10_LT + Pd5Yb3_HT | Pd2Yb: Yb 0.333; Pd21Yb10_LT: Yb 0.322581; Pd5Yb3_HT: Yb 0.375 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 46 |  |
+| 1458.15 | other: Pd5Yb3_HT -> Pd2Yb + Pd5Yb3_LT | Pd5Yb3_HT: Yb 0.375; Pd2Yb: Yb 0.333333; Pd5Yb3_LT: Yb 0.375 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 40 |  |
+| 1428.15 | other: Pd5Yb3_LT -> Pd4Yb3 + Pd5Yb3_LT | Pd5Yb3_LT: Yb 0.372; Pd4Yb3: Yb 0.428571; Pd5Yb3_LT: Yb 0.372 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 37 |  |
+| 1048.15 | peritectoid: βYb -> αYb + Liq | βYb: Yb 0.9472 | model | [1] Kardellass 2020 | Table 2, p. 4, row 2 |  |
+| 1038.15 | peritectoid: βYb -> αYb + Liq | βYb: Yb 0.95 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 1 |  |
+| 968.15 | peritectic: Pd2Yb5_HT -> PdYb_LT + Liq | Pd2Yb5_HT: Yb 0.736; PdYb_LT: Yb 0.5 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 10 |  |
+| 943.15 | peritectic: PdYb3 -> Pd2Yb5_LT + Liq | PdYb3: Yb 0.778; Pd2Yb5_LT: Yb 0.714286 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 7 |  |
+| 888.15 | eutectic: βYb + PdYb3 -> Liq | βYb: Yb 0.851; PdYb3: Yb 0.75 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 4 |  |
+| 722.15 | peritectoid: Pd7Yb -> Pd3Yb + fcc_A1 | Pd7Yb: Yb 0.125; Pd3Yb: Yb 0.25 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 61 |  |
 
 ## Other properties
 
@@ -102,15 +102,15 @@ Table: Phase transition, Pd–Yb system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 553 K | 553 |  | model | [1] Kardellass 2020 | p. 9 | “As we can see the transition temperature calculated in this study was 553 K.” |
-| Phase transition | 958.15 K | 958.15 | Transition: Pd2Yb5_LT -> Pd2Yb5_HT; _Pd2Yb5_LT: Yb 0.714; Pd2Yb5_HT: Yb 0.714286_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 13 |  |
-| Phase transition | 1468.15 K | 1468.15 | Transition: Pd21Yb10_LT -> Pd21Yb10_HT; _Pd21Yb10_LT: Yb 0.322; Pd21Yb10_HT: Yb 0.322581_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 49 |  |
-| Phase transition | 1633.15 K | 1633.15 | Congruent: Pd5Yb3_HT -> Liq; _Pd5Yb3_HT: Yb 0.375; Liq: Yb 0.375_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 34 |  |
-| Phase transition | 1688.15 K | 1688.15 | Congruent: Pd4Yb3 -> Liq; _Pd4Yb3: Yb 0.428_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 28 |  |
-| Phase transition | 1718.15 K | 1718.15 | Congruent: PdYb_HT -> Liq; _PdYb_HT: Yb 0.5_ | model | [1] Kardellass 2020 | Table 2, p. 4, row 17 |  |
-| Phase transition | 1733.15 K | 1733.15 | Congruent: PdYb_HT -> Liq; _PdYb_HT: Yb 0.5_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 16 |  |
-| Phase transition | 1828.15 K | 1828.15 | Melting: Liq -> (Pd) | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 64 |  |
-| Phase transition | 1828.15 K | 1828.15 | Melting: Liq -> (Pd); _(Pd): Yb 0_ | model | [1] Kardellass 2020 | Table 2, p. 4, row 65 |  |
-| Phase transition | 1973.15 K | 1973.15 | Congruent: Pd3Yb -> Liq; _Pd3Yb: Yb 0.25_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 55 |  |
+| Phase transition | 958.15 K | 958.15 | other: Pd2Yb5_LT -> Pd2Yb5_HT; _Pd2Yb5_LT: Yb 0.714; Pd2Yb5_HT: Yb 0.714286_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 13 |  |
+| Phase transition | 1468.15 K | 1468.15 | other: Pd21Yb10_LT -> Pd21Yb10_HT; _Pd21Yb10_LT: Yb 0.322; Pd21Yb10_HT: Yb 0.322581_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 49 |  |
+| Phase transition | 1633.15 K | 1633.15 | congruent melting: Pd5Yb3_HT -> Liq; _Pd5Yb3_HT: Yb 0.375; Liq: Yb 0.375_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 34 |  |
+| Phase transition | 1688.15 K | 1688.15 | congruent melting: Pd4Yb3 -> Liq; _Pd4Yb3: Yb 0.428_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 28 |  |
+| Phase transition | 1718.15 K | 1718.15 | congruent melting: PdYb_HT -> Liq; _PdYb_HT: Yb 0.5_ | model | [1] Kardellass 2020 | Table 2, p. 4, row 17 |  |
+| Phase transition | 1733.15 K | 1733.15 | congruent melting: PdYb_HT -> Liq; _PdYb_HT: Yb 0.5_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 16 |  |
+| Phase transition | 1828.15 K | 1828.15 | congruent melting: Liq -> (Pd) | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 64 |  |
+| Phase transition | 1828.15 K | 1828.15 | congruent melting: Liq -> (Pd); _(Pd): Yb 0_ | model | [1] Kardellass 2020 | Table 2, p. 4, row 65 |  |
+| Phase transition | 1973.15 K | 1973.15 | congruent melting: Pd3Yb -> Liq; _Pd3Yb: Yb 0.25_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 55 |  |
 
 ## Sources
 

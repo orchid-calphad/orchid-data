@@ -42,14 +42,14 @@ Table: Mixing / partial, Al–Hf–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -73638.4 J/mol (basis unstated) | 300 | Ni2AlHf; _alloy: Hf 0.25, Ni 0.5_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 6 |  |
-| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -67153.2 J/mol (basis unstated) | 300 | Ni64Al20Hf16; _alloy: Hf 0.16, Ni 0.64_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 6 |  |
-| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -75102.8 J/mol (basis unstated) | 500 | Ni2AlHf; _alloy: Hf 0.25, Ni 0.5_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 5 |  |
-| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -67362.4 J/mol (basis unstated) | 500 | Ni64Al20Hf16; _alloy: Hf 0.16, Ni 0.64_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 5 |  |
-| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -74684.4 J/mol (basis unstated) | 1000 | Ni2AlHf; _alloy: Hf 0.25, Ni 0.5_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 4 |  |
-| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -65688.8 J/mol (basis unstated) | 1000 | Ni64Al20Hf16; _alloy: Hf 0.16, Ni 0.64_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 4 |  |
-| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -73429.2 J/mol (basis unstated) | 1200 | Ni2AlHf; _alloy: Hf 0.25, Ni 0.5_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 3 |  |
-| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -63806 J/mol (basis unstated) | 1200 | Ni64Al20Hf16; _alloy: Hf 0.16, Ni 0.64_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 3 |  |
+| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -73.6384 kJ/mol (basis unstated) | 300 | Ni2AlHf; _alloy: Hf 0.25, Ni 0.5_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 6 |  |
+| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -67.1532 kJ/mol (basis unstated) | 300 | Ni64Al20Hf16; _alloy: Hf 0.16, Ni 0.64_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 6 |  |
+| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -75.1028 kJ/mol (basis unstated) | 500 | Ni2AlHf; _alloy: Hf 0.25, Ni 0.5_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 5 |  |
+| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -67.3624 kJ/mol (basis unstated) | 500 | Ni64Al20Hf16; _alloy: Hf 0.16, Ni 0.64_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 5 |  |
+| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -74.6844 kJ/mol (basis unstated) | 1000 | Ni2AlHf; _alloy: Hf 0.25, Ni 0.5_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 4 |  |
+| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -65.6888 kJ/mol (basis unstated) | 1000 | Ni64Al20Hf16; _alloy: Hf 0.16, Ni 0.64_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 4 |  |
+| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -73.4292 kJ/mol (basis unstated) | 1200 | Ni2AlHf; _alloy: Hf 0.25, Ni 0.5_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 3 |  |
+| Gibbs energy of mixing; _printed: Free Energy of Formation_ | -63.806 kJ/mol (basis unstated) | 1200 | Ni64Al20Hf16; _alloy: Hf 0.16, Ni 0.64_ | model | [2] Kaufman 1975 | Table VIII, p. 10, row 3 |  |
 
 ## Sources
 

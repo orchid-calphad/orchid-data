@@ -65,23 +65,23 @@ Table: Invariant reactions reported in the literature for the Cu–Pu system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1202.15 | Peritectic: L + Cu17Pu4 -> Cu6Pu | L: Pu 0.14; Cu17Pu4: Pu 0.191; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
-| 1199.15 | Peritectic: L + Cu17Pu4 -> Cu6Pu | L: Pu 0.14; Cu17Pu4: Pu 0.191; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 11 |  |
-| 1179.15 | Peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.25; Cu4Pu: Pu 0.2 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 13 |  |
-| 1174.15 | Peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.265; Cu4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 5, p. 5, row 14 |  |
-| 1154.15 | Eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.09; (Cu): Pu 0; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 9 |  |
-| 1149.15 | Eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.079; (Cu): Pu 0; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
+| 1202.15 | peritectic: L + Cu17Pu4 -> Cu6Pu | L: Pu 0.14; Cu17Pu4: Pu 0.191; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
+| 1199.15 | peritectic: L + Cu17Pu4 -> Cu6Pu | L: Pu 0.14; Cu17Pu4: Pu 0.191; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 11 |  |
+| 1179.15 | peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.25; Cu4Pu: Pu 0.2 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 13 |  |
+| 1174.15 | peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.265; Cu4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 5, p. 5, row 14 |  |
+| 1154.15 | eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.09; (Cu): Pu 0; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 9 |  |
+| 1149.15 | eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.079; (Cu): Pu 0; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
 | 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | model | [1] Wang 2009; _cites Kutaitsev 1967_ | p. 4 | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
 | 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | model | [1] Wang 2009 | p. 4 | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
-| 1130.15 | Eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.306; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 8 |  |
+| 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.306; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 8 |  |
 | 1122.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | experimental | [1] Wang 2009; _cites This_ | p. 4 | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
-| 1122.15 | Eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.295; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 7 |  |
-| 899.15 | Eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.97 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 5 |  |
-| 899.15 | Eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.955 | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
-| 723.15 | Eutectoid: εPu -> Cu2Pu + δ'Pu | εPu: Pu 0.97; Cu2Pu: Pu 0.333; δ'Pu: Pu 1 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 3 |  |
-| 720.15 | Eutectoid: εPu -> Cu2Pu + δ'Pu | εPu: Pu 0.98; Cu2Pu: Pu 0.333; δ'Pu: Pu 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
-| 704.15 | Eutectoid: δ'Pu -> Cu2Pu + δPu | δ'Pu: Pu 0.995; Cu2Pu: Pu 0.333; δPu: Pu 1; δ′Pu: Pu 0.995 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
-| 698.15 | Eutectoid: δ'Pu -> Cu2Pu + δPu | δ'Pu: Pu 1; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 1 |  |
+| 1122.15 | eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.295; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 7 |  |
+| 899.15 | eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.97 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 5 |  |
+| 899.15 | eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.955 | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
+| 723.15 | eutectoid: εPu -> Cu2Pu + δ'Pu | εPu: Pu 0.97; Cu2Pu: Pu 0.333; δ'Pu: Pu 1 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 3 |  |
+| 720.15 | eutectoid: εPu -> Cu2Pu + δ'Pu | εPu: Pu 0.98; Cu2Pu: Pu 0.333; δ'Pu: Pu 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
+| 704.15 | eutectoid: δ'Pu -> Cu2Pu + δPu | δ'Pu: Pu 0.995; Cu2Pu: Pu 0.333; δPu: Pu 1; δ′Pu: Pu 0.995 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
+| 698.15 | eutectoid: δ'Pu -> Cu2Pu + δPu | δ'Pu: Pu 1; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 1 |  |
 
 ## Sources
 

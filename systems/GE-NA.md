@@ -63,8 +63,8 @@ Table: Phase transition, Ge–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1093.15 K | 1093.15 | congruent | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
-| Phase transition | 1442.15 K | 1442.15 | congruent | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
+| Phase transition | 1093.15 K | 1093.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
+| Phase transition | 1442.15 K | 1442.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
 
 ## Sources
 

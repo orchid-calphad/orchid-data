@@ -43,7 +43,7 @@ Table: Phase transition, Ba–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 878.15 K | 878.15 | liquidus | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1 | “The liquidus has a minimum at about 605 ~ and 45.5 at.% Ba.” |
+| Phase transition | 878.15 K | 878.15 | other | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1 | “The liquidus has a minimum at about 605 ~ and 45.5 at.% Ba.” |
 | Phase transition | 878.15 K | 878.15 | polymorphic | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1 | “By X-ray analysis, \[49She\] found three allotropes in pure Ca samples, with the temperatures 335 and 605 ~ for the fcc ~ cph and cph ~ bcc transformations, respectively.” |
 | Phase transition | 1000.15 K | 1000.15 |  | experimental | [1] Alcock 1986; _cites ref. 83Cha_ | p. 1 | “The melting points of pure/3Ca and Ba are 842 and 727 ~ r e s p e c t i v e l y \[83Cha\].” |
 
@@ -53,15 +53,15 @@ Table: Mixing / partial, Ba–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Δmix H_ | -1234 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.2, Ca 0.8_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2301 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.48, Ca 0.52_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -1611 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.805, Ca 0.195_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2134 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.63, Ca 0.37_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2280 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.55, Ca 0.45_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -1904 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.27, Ca 0.73_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -1925 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.71, Ca 0.29_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2008 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.34, Ca 0.66_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: Δmix H_ | -2284 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.44, Ca 0.56_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -1.234 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.2, Ca 0.8_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.301 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.48, Ca 0.52_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -1.611 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.805, Ca 0.195_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.134 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.63, Ca 0.37_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.28 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.55, Ca 0.45_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -1.904 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.27, Ca 0.73_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -1.925 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.71, Ca 0.29_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.008 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.34, Ca 0.66_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: Δmix H_ | -2.284 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.44, Ca 0.56_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
 
 ### Crystal structure (4)
 

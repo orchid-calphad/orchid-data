@@ -1,10 +1,10 @@
 # H–Ti–Zr system
 
-> H–Ti–Zr system: 216 accepted literature values (crystal structure 170, formation 46) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Ti–Zr system: 200 accepted literature values (crystal structure 155, formation 45) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-TI-ZR.html · Markdown: https://data.orchid-project.org/systems/H-TI-ZR.md
 
-216 accepted literature values from 1 paper(s) (model 40, DFT 176); 0 calculated phase diagram(s).
+200 accepted literature values from 1 paper(s) (model 30, DFT 170); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/H-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-TI-ZR) · [Markdown](https://data.orchid-project.org/systems/H-TI-ZR.md)
 
@@ -12,21 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 40 |
-| DFT | 176 |
+| model | 30 |
+| DFT | 170 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 46 |
-| crystal structure | 170 |
+| formation | 45 |
+| crystal structure | 155 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, H–Ti–Zr system (46)
+Table: Enthalpies of formation, H–Ti–Zr system (45)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -45,7 +45,6 @@ Table: Enthalpies of formation, H–Ti–Zr system (46)
 | α |  | -10.18 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 54 |  |
 | α |  | -3.543 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 59 |  |
 | α |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 53 |  |
-| α |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 35 |  |
 | α |  | 2.524 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 44 |  |
 | β |  | -54.2 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 63 |  |
 | β |  | -46.4 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 48 |  |
@@ -79,7 +78,7 @@ Table: Enthalpies of formation, H–Ti–Zr system (46)
 
 ## Other properties
 
-### Crystal structure (170)
+### Crystal structure (155)
 
 Table: Crystal structure, H–Ti–Zr system
 
@@ -108,17 +107,11 @@ Table: Crystal structure, H–Ti–Zr system
 | Lattice a; _printed: lattice parameter a_ | 0.6474 nm |  | β; _alloy: H 0.8, Ti 0, Zr 0.2_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 65 |  |
 | Lattice a; _printed: lattice parameter a_ | 0.5317 nm |  | β; _alloy: H 0.333, Ti 0, Zr 0.667_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 61 |  |
 | Lattice a; _printed: lattice parameter a_ | 0.4214 nm |  | γ-TiH; _alloy: Ti 0.5, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
-| Lattice a; _printed: a_ | 0.4214 nm |  | γ-TiH; _alloy: Ti 0.5, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
 | Lattice a; _printed: lattice parameter a_ | 0.4586 nm |  | γ-ZrH; _alloy: Ti 0, Zr 0.5_ | model | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
-| Lattice a; _printed: a_ | 0.4586 nm |  | γ-ZrH; _alloy: Ti 0, Zr 0.5_ | model | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
 | Lattice a; _printed: lattice parameter a_ | 0.4445 nm |  | δ-TiH2; _alloy: Ti 0.333333, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 2 |  |
-| Lattice a; _printed: a_ | 0.4445 nm |  | δ-TiH2; _alloy: Ti 0.333333, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 2 |  |
 | Lattice a; _printed: a_ | 0.4777 nm |  | δ-ZrH2; _alloy: Ti 0, Zr 0.333333_ | model | [1] Ukita 2007 | Table 2, p. 5, row 5 |  |
-| Lattice a; _printed: lattice parameter a_ | 0.4777 nm |  | δ-ZrH2; _alloy: Ti 0, Zr 0.333333_ | model | [1] Ukita 2007 | Table 2, p. 5, row 5 |  |
 | Lattice a; _printed: lattice parameter a_ | 0.3202 nm |  | ε-TiH2; _alloy: Ti 0.333333, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 3 |  |
-| Lattice a; _printed: a_ | 0.3202 nm |  | ε-TiH2; _alloy: Ti 0.333333, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 3 |  |
 | Lattice a; _printed: lattice parameter a_ | 0.3536 nm |  | ε-ZrH2; _alloy: Ti 0, Zr 0.333333_ | model | [1] Ukita 2007 | Table 2, p. 5, row 6 |  |
-| Lattice a; _printed: a_ | 0.3536 nm |  | ε-ZrH2; _alloy: Ti 0, Zr 0.333333_ | model | [1] Ukita 2007 | Table 2, p. 5, row 6 |  |
 | Lattice b; _printed: lattice parameter b_ | 0.3242 nm |  | α; _alloy: H 0.2, Ti 0, Zr 0.8_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 54 |  |
 | Lattice b; _printed: lattice parameter b_ | 0.3409 nm |  | α; _alloy: H 0.429_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 56 |  |
 | Lattice b; _printed: lattice parameter b_ | 0.3251 nm |  | α; _alloy: H 0.333, Ti 0, Zr 0.667_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 55 |  |
@@ -177,15 +170,11 @@ Table: Crystal structure, H–Ti–Zr system
 | Lattice c; _printed: lattice parameter c_ | 0.5542 nm |  | β; _alloy: H 0.8, Ti 0, Zr 0.2_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 65 |  |
 | Lattice c; _printed: lattice parameter c_ | 0.5251 nm |  | β; _alloy: H 0.333, Ti 0, Zr 0.667_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 61 |  |
 | Lattice c; _printed: c_ | 0.4602 nm |  | γ-TiH; _alloy: Ti 0.5, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
-| Lattice c; _printed: lattice parameter c_ | 0.4602 nm |  | γ-TiH; _alloy: Ti 0.5, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
 | Lattice c; _printed: lattice parameter c_ | 0.4948 nm |  | γ-ZrH; _alloy: Ti 0, Zr 0.5_ | model | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
-| Lattice c; _printed: c_ | 0.4948 nm |  | γ-ZrH; _alloy: Ti 0, Zr 0.5_ | model | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
 | Lattice c; _printed: c_ | 0.4445 nm |  | δ-TiH2; _alloy: Ti 0.333333, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 2 |  |
 | Lattice c; _printed: c_ | 0.4777 nm |  | δ-ZrH2; _alloy: Ti 0, Zr 0.333333_ | model | [1] Ukita 2007 | Table 2, p. 5, row 5 |  |
 | Lattice c; _printed: c_ | 0.4279 nm |  | ε-TiH2; _alloy: Ti 0.333333, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 3 |  |
-| Lattice c; _printed: lattice parameter c_ | 0.4279 nm |  | ε-TiH2; _alloy: Ti 0.333333, Zr 0_ | model | [1] Ukita 2007 | Table 2, p. 5, row 3 |  |
 | Lattice c; _printed: lattice parameter c_ | 0.444 nm |  | ε-ZrH2; _alloy: Ti 0, Zr 0.333333_ | model | [1] Ukita 2007 | Table 2, p. 5, row 6 |  |
-| Lattice c; _printed: c_ | 0.444 nm |  | ε-ZrH2; _alloy: Ti 0, Zr 0.333333_ | model | [1] Ukita 2007 | Table 2, p. 5, row 6 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.2, Ti 0, Zr 0.8_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 54 |  |
 | lattice unspecified axis; _printed: β_ | 117.04 ° |  | α; _alloy: H 0.2, Ti 0, Zr 0.8_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 54 |  |
 | lattice unspecified axis; _printed: β_ | 103.75 ° |  | α; _alloy: H 0.429_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 56 |  |
@@ -212,11 +201,8 @@ Table: Crystal structure, H–Ti–Zr system
 | lattice unspecified axis; _printed: β_ | 88.38 ° |  | α; _alloy: H 0.636_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 42 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.636_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 42 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.5, Ti 0, Zr 0.5_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 57 |  |
-| lattice unspecified axis; _printed: γ_ | 120 ° |  | α; _alloy: H 0_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 53 |  |
 | lattice unspecified axis; _printed: lattice parameter a=b_ | 0.3233 nm |  | α; _alloy: H 0_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 53 |  |
-| lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 53 |  |
 | lattice unspecified axis; _printed: β_ | 88.92 ° |  | α; _alloy: H 0.636_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 58 |  |
-| lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.636_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 58 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.6_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 40 |  |
 | lattice unspecified axis; _printed: β_ | 88.15 ° |  | α; _alloy: H 0.428_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 37 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.428_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 37 |  |
@@ -234,7 +220,6 @@ Table: Crystal structure, H–Ti–Zr system
 | lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.75, Ti 0, Zr 0.25_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 64 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.75, Ti 0.25, Zr 0_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 49 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.5, Ti 0, Zr 0.5_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 62 |  |
-| lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.857_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 68 |  |
 | lattice unspecified axis; _printed: lattice parameter a=b=c_ | 0.4109 nm |  | β; _alloy: H 0.857_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 68 |  |
 | lattice unspecified axis; _printed: α_ | 60.94 ° |  | β; _alloy: H 0.833_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 66 |  |
 | lattice unspecified axis; _printed: γ_ | 91.78 ° |  | β; _alloy: H 0.833_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 66 |  |
@@ -245,7 +230,6 @@ Table: Crystal structure, H–Ti–Zr system
 | lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.667, Ti 0.333, Zr 0_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 48 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.5, Ti 0.5, Zr 0_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 47 |  |
 | lattice unspecified axis; _printed: lattice parameter a=b=c_ | 0.3231 nm |  | β; _alloy: H 0_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 45 |  |
-| lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 45 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.846_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 67 |  |
 | lattice unspecified axis; _printed: β_ | 91.62 ° |  | β; _alloy: H 0.846_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 67 |  |
 | lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.8, Ti 0, Zr 0.2_ | DFT | [1] Ukita 2007 | Table 1, p. 4, row 65 |  |

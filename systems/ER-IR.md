@@ -1,10 +1,10 @@
 # Er–Ir system
 
-> Er–Ir system: 35 accepted literature values (crystal structure 35) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Ir system: 34 accepted literature values (crystal structure 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-IR.html · Markdown: https://data.orchid-project.org/systems/ER-IR.md
 
-35 accepted literature values from 1 paper(s) (unspecified 35); 0 calculated phase diagram(s).
+34 accepted literature values from 1 paper(s) (unspecified 34); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-IR.json) · [CSV](https://data.orchid-project.org/systems/ER-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-IR) · [Markdown](https://data.orchid-project.org/systems/ER-IR.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| unspecified | 35 |
+| unspecified | 34 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 35 |
+| crystal structure | 34 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/ER/ER-IR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/ER/ER-IR.json)
 
 ## Other properties
 
-### Crystal structure (35)
+### Crystal structure (34)
 
 Table: Crystal structure, Er–Ir system
 
@@ -43,7 +43,6 @@ Table: Crystal structure, Er–Ir system
 | Lattice a | 1.5218 nm | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 10 |  |
 | Lattice a | 1.0754 nm | 298.15 | Er5Ir3; _Er5Ir3: Er 0.625, Ir 0.375_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 9 |  |
 | Lattice a | 0.3367 nm | 298.15 | ErIr; _ErIr: Er 0.5, Ir 0.5_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 13 |  |
-| Lattice a | 0.3367 nm | 298.15 | ErIr; _ErIr: Er 0.5, Ir 0.5_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 14 |  |
 | Lattice a | 0.74923 nm | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 17 |  |
 | Lattice a | 0.7473 nm | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 15 |  |
 | Lattice a | 0.7488 nm | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 16 |  |

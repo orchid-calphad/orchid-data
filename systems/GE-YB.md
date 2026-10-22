@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/GE-YB.html · Markdown: https://data.orchid-project.org/systems/GE-YB.md
 
-128 accepted literature values from 2 paper(s) (experimental 51, model 69, DFT 8); 2 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+128 accepted literature values from 2 paper(s) (experimental 51, model 69, DFT 8); 2 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-YB.json) · [CSV](https://data.orchid-project.org/systems/GE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-YB/GeYb-18Ach.json) · [Markdown](https://data.orchid-project.org/systems/GE-YB.md)
 
@@ -89,63 +89,63 @@ Table: Invariant reactions reported in the literature for the Ge–Yb system (57
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1913 | Congruent: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 13 |  |
-| 1913 | Congruent: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | model | [1] Dai-man 2018 | Table 1, p. 3, row 15 |  |
-| 1913 | Congruent: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 14 |  |
-| 1858.15 | Peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 13 |  |
-| 1858 | Peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 16 |  |
-| 1858 | Peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 17 |  |
+| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 13 |  |
+| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | model | [1] Dai-man 2018 | Table 1, p. 3, row 15 |  |
+| 1913 | congruent melting: Liq -> Yb5Ge4 | L: Ge 0.5556; Yb5Ge4: Ge 0.5556 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 14 |  |
+| 1858.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 13 |  |
+| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 16 |  |
+| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 17 |  |
 | 1858 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1858 | Peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | model | [1] Dai-man 2018 | Table 1, p. 3, row 18 |  |
-| 1854.15 | Peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 15 |  |
-| 1845.15 | Peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 14 |  |
-| 1778.15 | Peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 21 |  |
-| 1775.15 | Peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 20 |  |
-| 1773.15 | Peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 19 |  |
-| 1773 | Peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.53; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 11 |  |
-| 1773 | Peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.5511; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | model | [1] Dai-man 2018 | Table 1, p. 3, row 12 |  |
-| 1773 | Peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.53; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 10 |  |
+| 1858 | peritectic: Liq+Yb5Ge4 -> Yb5Ge3 | L: Ge 0.374; Yb5Ge4: Ge 0.4444; Yb5Ge3: Ge 0.375 | model | [1] Dai-man 2018 | Table 1, p. 3, row 18 |  |
+| 1854.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 15 |  |
+| 1845.15 | peritectic: Yb5Ge3 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 14 |  |
+| 1778.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 21 |  |
+| 1775.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 20 |  |
+| 1773.15 | peritectic: Yb11Ge10 -> L + Yb5Ge4 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 19 |  |
+| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.53; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 11 |  |
+| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.5511; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | model | [1] Dai-man 2018 | Table 1, p. 3, row 12 |  |
+| 1773 | peritectic: Liq+Yb5Ge4 -> Yb11Ge10 | L: Ge 0.53; Yb5Ge4: Ge 0.4444; Yb11Ge10: Ge 0.4762 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 10 |  |
 | 1773 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1480.15 | Peritectic: Yb2Ge -> L + Yb5Ge3 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 11 |  |
-| 1478.15 | Peritectic: Yb2Ge -> L + Yb5Ge3 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 10 |  |
-| 1478 | Peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.2; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 19 |  |
-| 1478 | Peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.1659; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | model | [1] Dai-man 2018 | Table 1, p. 3, row 21 |  |
+| 1480.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 11 |  |
+| 1478.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 10 |  |
+| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.2; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 19 |  |
+| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.1659; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | model | [1] Dai-man 2018 | Table 1, p. 3, row 21 |  |
 | 1478 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1478 | Peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.2; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 20 |  |
-| 1476.15 | Peritectic: Yb2Ge -> L + Yb5Ge3 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 12 |  |
-| 1351.15 | Peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 23 |  |
-| 1348.15 | Peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 22 |  |
-| 1348 | Peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.6717; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | model | [1] Dai-man 2018 | Table 1, p. 3, row 9 |  |
-| 1348 | Peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.63; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 7 |  |
-| 1348 | Peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.63; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 8 |  |
+| 1478 | peritectic: Liq+Yb5Ge3 -> Yb2Ge | L: Ge 0.2; Yb5Ge3: Ge 0.375; Yb2Ge: Ge 0.3333 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 20 |  |
+| 1476.15 | peritectic: Yb2Ge -> L + Yb5Ge3 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 12 |  |
+| 1351.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 23 |  |
+| 1348.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 22 |  |
+| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.6717; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | model | [1] Dai-man 2018 | Table 1, p. 3, row 9 |  |
+| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.63; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 7 |  |
+| 1348 | peritectic: Liq+Yb11Ge10 -> Yb3Ge5 | L: Ge 0.63; Yb11Ge10: Ge 0.4762; Yb3Ge5: Ge 0.625 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 8 |  |
 | 1348 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1342.15 | Peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 24 |  |
-| 1139.15 | Peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 26 |  |
-| 1138.15 | Peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 25 |  |
-| 1138 | Peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.73; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 5 |  |
-| 1138 | Peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.73; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 4 |  |
+| 1342.15 | peritectic: Yb3Ge5 -> L + Yb11Ge10 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 24 |  |
+| 1139.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 26 |  |
+| 1138.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 25 |  |
+| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.73; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 5 |  |
+| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.73; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 4 |  |
 | 1138 | peritectic |  | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “The compounds Yb3Ge8, Yb3Ge5, Yb11Ge10, Yb5Ge3 and Yb2Ge are formed by the peritectic reactions at 1138, 1348, 1773, 1858 and 1478 K, respectively.” |
-| 1138 | Peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.7592; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 6 |  |
-| 1131.15 | Peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 27 |  |
-| 1087.15 | Eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 8 |  |
-| 1086.15 | Eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 9 |  |
-| 1083.15 | Eutectic: L -> γLa + Yb2Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 7 |  |
+| 1138 | peritectic: Liq+Yb3Ge5 -> Yb3Ge8 | L: Ge 0.7592; Yb3Ge5: Ge 0.625; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 6 |  |
+| 1131.15 | peritectic: Yb3Ge8 -> L + Yb3Ge5 |  | model | [2] Achgar 2018 | Table 5, p. 8, row 27 |  |
+| 1087.15 | eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 8 |  |
+| 1086.15 | eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 9 |  |
+| 1083.15 | eutectic: L -> γLa + Yb2Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 7 |  |
 | 1083.15 | eutectic |  | experimental | [2] Achgar 2018 | p. 3 | “Ytterbium results in eutectic reaction among liquid, Yb (bcc_A2), and Yb2Ge at 810 C and \\1 at.% Ge.” |
-| 1083 | Eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 22 |  |
+| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 22 |  |
 | 1083 | eutectic: Liq $ Yb2Ge CBcc_A2(Yb) |  | experimental | [1] Dai-man 2018 | p. 3 | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
-| 1083 | Eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 23 |  |
-| 1083 | Eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0114; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | model | [1] Dai-man 2018 | Table 1, p. 3, row 24 |  |
-| 1033 | Allotropic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 26 |  |
-| 1033 | Allotropic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | model | [1] Dai-man 2018 | Table 1, p. 3, row 27 |  |
-| 1023 | Allotropic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 25 |  |
-| 1014.15 | Eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 30 |  |
-| 1007.15 | Eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 29 |  |
-| 1003.15 | Eutectic: L -> Yb3Ge8 + Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 28 |  |
+| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 23 |  |
+| 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0114; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | model | [1] Dai-man 2018 | Table 1, p. 3, row 24 |  |
+| 1033 | polymorphic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 26 |  |
+| 1033 | polymorphic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | model | [1] Dai-man 2018 | Table 1, p. 3, row 27 |  |
+| 1023 | polymorphic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 25 |  |
+| 1014.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 30 |  |
+| 1007.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 29 |  |
+| 1003.15 | eutectic: L -> Yb3Ge8 + Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 28 |  |
 | 1003.15 | eutectic |  | experimental | [2] Achgar 2018; _cites Eremenko 1983_ | p. 3 | “In Gerich part, the addition of Ytterbium to Germanium results in a eutectic reaction among liquid, Yb3Ge8, and Ge (diamond_A4) at 730 C and about 80 at.% Ge, in accordance with Eremenko \[15\].” |
-| 1003 | Eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.8411; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 3 |  |
+| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.8411; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 3 |  |
 | 1003 | eutectic: Liq$Diamond_A4(Ge)C Yb3Ge8 |  | experimental | [1] Dai-man 2018 | p. 3 | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
-| 1003 | Eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 2 |  |
-| 1003 | Eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 1 |  |
+| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 2 |  |
+| 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 1 |  |
 
 ## Formation enthalpies
 
@@ -206,19 +206,19 @@ Table: Phase transition, Ge–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1053.15 K | 1053.15 | Allotropic: γYb -> βYb | model | [2] Achgar 2018 | Table 5, p. 8, row 6 |  |
-| Phase transition | 1053.15 K | 1053.15 | Allotropic: γYb -> βYb | model | [2] Achgar 2018 | Table 5, p. 8, row 5 |  |
-| Phase transition | 1053.15 K | 1053.15 | Allotropic: γYb -> βYb | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 4 |  |
-| Phase transition | 1093.15 K | 1093.15 | Melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 3 |  |
-| Phase transition | 1093.15 K | 1093.15 | Melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 2 |  |
-| Phase transition | 1093.15 K | 1093.15 | Melting: L -> γYb | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 1 |  |
-| Phase transition | 1211.15 K | 1211.15 | Melting: L -> Ge | model | [2] Achgar 2018 | Table 5, p. 8, row 32 |  |
-| Phase transition | 1211.15 K | 1211.15 | Melting: L -> Ge | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 31 |  |
-| Phase transition | 1211.15 K | 1211.15 | Melting: L -> Ge | model | [2] Achgar 2018 | Table 5, p. 8, row 33 |  |
-| Phase transition | 1913 K | 1913 | congruent | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “In the work of Ref. \[17\], the Yb5Ge4 compound melts congruently at 1913 K.” |
-| Phase transition | 1913.15 K | 1913.15 | Congruent: L -> Yb5Ge4 | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 16 |  |
-| Phase transition | 1915.15 K | 1915.15 | Congruent: L -> Yb5Ge4 | model | [2] Achgar 2018 | Table 5, p. 8, row 18 |  |
-| Phase transition | 1916.15 K | 1916.15 | Congruent: L -> Yb5Ge4 | model | [2] Achgar 2018 | Table 5, p. 8, row 17 |  |
+| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | model | [2] Achgar 2018 | Table 5, p. 8, row 6 |  |
+| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | model | [2] Achgar 2018 | Table 5, p. 8, row 5 |  |
+| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 4 |  |
+| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 3 |  |
+| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 2 |  |
+| Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 1 |  |
+| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | model | [2] Achgar 2018 | Table 5, p. 8, row 32 |  |
+| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 31 |  |
+| Phase transition | 1211.15 K | 1211.15 | congruent melting: L -> Ge | model | [2] Achgar 2018 | Table 5, p. 8, row 33 |  |
+| Phase transition | 1913 K | 1913 | congruent melting | experimental | [1] Dai-man 2018; _cites Pani 2003_ | p. 3 | “In the work of Ref. \[17\], the Yb5Ge4 compound melts congruently at 1913 K.” |
+| Phase transition | 1913.15 K | 1913.15 | congruent melting: L -> Yb5Ge4 | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 16 |  |
+| Phase transition | 1915.15 K | 1915.15 | congruent melting: L -> Yb5Ge4 | model | [2] Achgar 2018 | Table 5, p. 8, row 18 |  |
+| Phase transition | 1916.15 K | 1916.15 | congruent melting: L -> Yb5Ge4 | model | [2] Achgar 2018 | Table 5, p. 8, row 17 |  |
 
 ### Formation (14)
 

@@ -148,8 +148,8 @@ Table: Phase transition, Al–Pd system
 | Phase transition | 1055 K | 1055 | liquid + Al21 Pd8 ↔ Al3 Pd | experimental | [3] Homolová 2021; _cites ref. 21_ | p. 6 | “According to Grushko \[21\], reaction liquid + Al21 Pd8 ↔ Al3 Pd at 1055 K that was suggested in study \[27\] is considered as quite uncertain because only a weak kink associated with this reaction was observed in a DTA plot of the study \[27\].” |
 | Phase transition | 1062 K | 1062 | liquid + Al3Pd2 ↔ Al3Pd | experimental | [3] Homolová 2021; _cites ref. 21_ | p. 10 | “liquid + Al3 Pd2 ↔ Al3 Pd at 1062 K in the binary system according to Grushko \[21\], which is in accordance with the presented calculations.” |
 | Phase transition | 1225 K | 1225 | L + (AlPd) -> Al3Pd2 | experimental | [1] Li 2006; _cites Yurehko 2001_ | p. 2 | “But Yurehko et al. \[4\] determined that this temperature is 1225 K.” |
-| Phase transition | 1691 K | 1691 | congruent | experimental | [1] Li 2006; _cites Grube 1951_ | p. 2 | “The (AlPd2) (r), with a homogeneity range of w65-73 at.% Pd at 1323 K, forms congruently from the melt at 1691 K \[6,12,17\].” |
-| Phase transition | 1918 K | 1918 | congruent | experimental | [1] Li 2006; _cites Grube 1951_ | p. 2 | “The hightemperature b(AlPd) phase melting congruently at w1918 K has a solubility range from w44.0 to 56 at.% Pd \[6,12,15\].” |
+| Phase transition | 1691 K | 1691 | congruent transformation | experimental | [1] Li 2006; _cites Grube 1951_ | p. 2 | “The (AlPd2) (r), with a homogeneity range of w65-73 at.% Pd at 1323 K, forms congruently from the melt at 1691 K \[6,12,17\].” |
+| Phase transition | 1918 K | 1918 | congruent transformation | experimental | [1] Li 2006; _cites Grube 1951_ | p. 2 | “The hightemperature b(AlPd) phase melting congruently at w1918 K has a solubility range from w44.0 to 56 at.% Pd \[6,12,15\].” |
 
 ## Sources
 

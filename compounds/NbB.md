@@ -1,36 +1,26 @@
 # NbB: enthalpy of formation
 
-> Enthalpy of formation of NbB: 18 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NbB: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NbB.html · Markdown: https://data.orchid-project.org/compounds/NbB.md
 
-18 accepted literature formation-enthalpy value(s) (model 4, DFT 14); Materials Project -74.259 kJ/mol-atom (mp-aaaaadvg); OQMD -74.633 kJ/mol-atom (oqmd-7942).
+8 accepted literature formation-enthalpy value(s) (model 2, DFT 6); Materials Project -74.259 kJ/mol-atom (mp-aaaaadvg); OQMD -74.633 kJ/mol-atom (oqmd-7942).
 
 Systems: [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NbB reported in the literature (18)
+Table: Enthalpy of formation of NbB reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -78.7 kJ/mol-atom | NbB |  | model |  | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 13 |  |
-| -78.7 kJ/mol-atom | NbB |  | model |  | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 13 |  |
-| -67.9 kJ/mol-atom | NbB |  | model |  | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 20 |  |
 | -67.9 kJ/mol-atom | NbB |  | model |  | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 20 |  |
 | -82.6 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 18 |  |
-| -82.6 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 18 |  |
-| -82.6 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 19 |  |
-| -82.6 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 19 |  |
-| -82.4 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 17 |  |
 | -82.4 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 17 |  |
 | -82.2 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 16 |  |
-| -82.2 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 16 |  |
-| -79.4 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 15 |  |
 | -79.4 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 15 |  |
 | -79.2 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 14 |  |
-| -79.2 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 14 |  |
-| -78.7 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 12 |  |
 | -78.7 kJ/mol-atom | NbB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [1] Nakama 2009 | Table 4, p. 7, row 12 |  |
 
 ## DFT formation energies

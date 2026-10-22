@@ -26,9 +26,9 @@ Table: Invariant reactions reported in the literature for the Ag–Cu–Fe syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1762.15 | P: Liquid#1 + Liquid#2 + (δFe) -> (γFe) |  | model | [1] Zhang 2022 | Table 3, p. 11, row 1 |  |
-| 1446.15 | U: Liquid#1 + (γFe) -> Liquid#2 + (αFe) |  | model | [1] Zhang 2022 | Table 3, p. 11, row 2 |  |
-| 1118.15 | E: Liquid#1 -> (αFe) + (Ag) + (Cu) |  | model | [1] Zhang 2022 | Table 3, p. 11, row 3 |  |
+| 1762.15 | peritectic: Liquid#1 + Liquid#2 + (δFe) -> (γFe) |  | model | [1] Zhang 2022 | Table 3, p. 11, row 1 |  |
+| 1446.15 | quasi-peritectic: Liquid#1 + (γFe) -> Liquid#2 + (αFe) |  | model | [1] Zhang 2022 | Table 3, p. 11, row 2 |  |
+| 1118.15 | eutectic: Liquid#1 -> (αFe) + (Ag) + (Cu) |  | model | [1] Zhang 2022 | Table 3, p. 11, row 3 |  |
 
 ## Sources
 

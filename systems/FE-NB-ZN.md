@@ -26,18 +26,18 @@ Table: Invariant reactions reported in the literature for the Fe–Nb–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1772.9 | E: L -> ε + (Nb) + μ |  | model | [1] Long 2016 | Table 4, p. 7, row 1 |  |
-| 1385.5 | U: L + NbZn -> (Nb) + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 2 |  |
-| 1376.3 | U: L + (Nb) -> ε + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 3 |  |
-| 1323.3 | U: L + NbZn1.5 -> ε + NbZn2 |  | model | [1] Long 2016 | Table 4, p. 7, row 4 |  |
-| 1298.7 | U: L + NbZn2 -> ε + NbZn3 |  | model | [1] Long 2016 | Table 4, p. 7, row 5 |  |
-| 1192.6 | P: L + NbZn3 + ε -> τ |  | model | [1] Long 2016 | Table 4, p. 7, row 6 |  |
-| 1080.2 | P: L + (Fe) + ε -> Γ |  | model | [1] Long 2016 | Table 4, p. 7, row 7 |  |
-| 970.8 | U: L + ε -> Γ + τ |  | model | [1] Long 2016 | Table 4, p. 7, row 8 |  |
-| 941.4 | P: L + Γ + τ -> δ |  | model | [1] Long 2016 | Table 4, p. 7, row 9 |  |
-| 802.2 | P: L + τ + δ -> ζ |  | model | [1] Long 2016 | Table 4, p. 7, row 10 |  |
-| 750.1 | P: L + τ + NbZn3 -> NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 11 |  |
-| 709.3 | U: L + τ -> ζ + NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 12 |  |
+| 1772.9 | eutectic: L -> ε + (Nb) + μ |  | model | [1] Long 2016 | Table 4, p. 7, row 1 |  |
+| 1385.5 | quasi-peritectic: L + NbZn -> (Nb) + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 2 |  |
+| 1376.3 | quasi-peritectic: L + (Nb) -> ε + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 3 |  |
+| 1323.3 | quasi-peritectic: L + NbZn1.5 -> ε + NbZn2 |  | model | [1] Long 2016 | Table 4, p. 7, row 4 |  |
+| 1298.7 | quasi-peritectic: L + NbZn2 -> ε + NbZn3 |  | model | [1] Long 2016 | Table 4, p. 7, row 5 |  |
+| 1192.6 | peritectic: L + NbZn3 + ε -> τ |  | model | [1] Long 2016 | Table 4, p. 7, row 6 |  |
+| 1080.2 | peritectic: L + (Fe) + ε -> Γ |  | model | [1] Long 2016 | Table 4, p. 7, row 7 |  |
+| 970.8 | quasi-peritectic: L + ε -> Γ + τ |  | model | [1] Long 2016 | Table 4, p. 7, row 8 |  |
+| 941.4 | peritectic: L + Γ + τ -> δ |  | model | [1] Long 2016 | Table 4, p. 7, row 9 |  |
+| 802.2 | peritectic: L + τ + δ -> ζ |  | model | [1] Long 2016 | Table 4, p. 7, row 10 |  |
+| 750.1 | peritectic: L + τ + NbZn3 -> NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 11 |  |
+| 709.3 | quasi-peritectic: L + τ -> ζ + NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 12 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ru–Zr system
 
-> Ru–Zr system: 42 accepted literature values (formation 28, invariant reaction 10, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–Zr system: 28 accepted literature values (formation 14, invariant reaction 10, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-ZR.html · Markdown: https://data.orchid-project.org/systems/RU-ZR.md
 
-42 accepted literature values from 1 paper(s) (experimental 15, model 27); 2 calculated phase diagram(s).
+28 accepted literature values from 1 paper(s) (experimental 11, model 17); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-ZR.json) · [CSV](https://data.orchid-project.org/systems/RU-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-ZR/RuZr-05Che-LB.json) · [Markdown](https://data.orchid-project.org/systems/RU-ZR.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
-| model | 27 |
+| experimental | 11 |
+| model | 17 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 10 |
 | phase transition | 4 |
-| formation | 28 |
+| formation | 14 |
 
 ## Calculated phase diagrams
 
@@ -84,37 +84,23 @@ Table: Invariant reactions reported in the literature for the Ru–Zr system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ru–Zr system (28)
+Table: Enthalpies of formation, Ru–Zr system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ru2Zr |  | -78 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 12 |  |
-| Ru2Zr |  | -78 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 12 |  |
-| Ru2Zr |  | -49 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 11 |  |
 | Ru2Zr |  | -49 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 11 |  |
 | Ru2Zr |  | -32.08 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 13 |  |
-| Ru2Zr |  | -32.08 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 13 |  |
-| Ru2Zr |  | -32 kJ/mol (basis unstated) ± 0.9 | 1743 | experimental |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 10 |  |
 | Ru2Zr |  | -32 kJ/mol (basis unstated) ± 0.9 | 1743 | experimental |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 10 |  |
 | Ru2Zr |  | -31.97 kJ/mol (basis unstated) | 1743 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 14 |  |
-| Ru2Zr |  | -31.97 kJ/mol (basis unstated) | 1743 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 14 |  |
-| RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Guo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900956-2) | Table 1, p. 2, row 7 |  |
 | RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Guo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900956-2) | Table 1, p. 2, row 7 |  |
 | RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 5 |  |
-| RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 5 |  |
-| RuZr |  | -68.7 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1988_ [doi](https://doi.org/10.1007/bf02628390) | Table 1, p. 2, row 6 |  |
 | RuZr |  | -68.7 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1988_ [doi](https://doi.org/10.1007/bf02628390) | Table 1, p. 2, row 6 |  |
 | RuZr |  | -68.65 kJ/mol (basis unstated) ± 2.5 | 298 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990449-9) | Table 1, p. 2, row 2 |  |
-| RuZr |  | -68.65 kJ/mol (basis unstated) ± 2.5 | 298 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990449-9) | Table 1, p. 2, row 2 |  |
-| RuZr |  | -61 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Watson 1988_ [doi](https://doi.org/10.1016/s0036-9748%2888%2980148-0) | Table 1, p. 2, row 4 |  |
 | RuZr |  | -61 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Watson 1988_ [doi](https://doi.org/10.1016/s0036-9748%2888%2980148-0) | Table 1, p. 2, row 4 |  |
 | RuZr |  | -55.95 kJ/mol (basis unstated) | 1753 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 9 |  |
-| RuZr |  | -55.95 kJ/mol (basis unstated) | 1753 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 9 |  |
-| RuZr |  | -55.8 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 8 |  |
 | RuZr |  | -55.8 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 8 |  |
 | RuZr |  | -55.8 kJ/mol (basis unstated) ± 2.3 | 1753 | experimental |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 1 |  |
-| RuZr |  | -55.8 kJ/mol (basis unstated) ± 2.3 | 1753 | experimental |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 1 |  |
-| RuZr |  | -53 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 3 |  |
 | RuZr |  | -53 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 1, p. 2, row 3 |  |
 
 ## Other properties
@@ -125,8 +111,8 @@ Table: Phase transition, Ru–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2128 K | 2128 | congruent | experimental | [1] Idbenali 2007; _cites Eremenko 1988_ | p. 5 | “The congruent melting of RuZr calculated at 2131K and x(Zr) = 0.5 is in very good agreement with the experimental data of Eremenko et al.\[3\] (2128 K and x(Zr) = 0.494).” |
-| Phase transition | 2131 K | 2131 | congruent | model | [1] Idbenali 2007 | p. 5 | “The congruent melting of RuZr calculated at 2131K and x(Zr) = 0.5 is in very good agreement with the experimental data of Eremenko et al.\[3\] (2128 K and x(Zr) = 0.494).” |
+| Phase transition | 2128 K | 2128 | congruent transformation | experimental | [1] Idbenali 2007; _cites Eremenko 1988_ | p. 5 | “The congruent melting of RuZr calculated at 2131K and x(Zr) = 0.5 is in very good agreement with the experimental data of Eremenko et al.\[3\] (2128 K and x(Zr) = 0.494).” |
+| Phase transition | 2131 K | 2131 | congruent transformation | model | [1] Idbenali 2007 | p. 5 | “The congruent melting of RuZr calculated at 2131K and x(Zr) = 0.5 is in very good agreement with the experimental data of Eremenko et al.\[3\] (2128 K and x(Zr) = 0.494).” |
 | Phase transition | 2403.15 K | 2403.15 | Liq -> RuZr; _L: Zr 0.5; RuZr: Zr 0.5_ | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 5 |  |
 | Phase transition | 2404.15 K | 2404.15 | Liq -> RuZr; _L: Zr 0.5; RuZr: Zr 0.5_ | model | [1] Idbenali 2007 | Table 4, p. 5, row 6 |  |
 

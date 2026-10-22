@@ -108,37 +108,37 @@ Table: Invariant reactions reported in the literature for the Dy–Ni system (32
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1625 | Peritectic: L + DyNi5 -> Dy4Ni17 | DyNi5: Ni 0.833333; Dy4Ni17: Ni 0.809524 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 20 |  |
+| 1625 | peritectic: L + DyNi5 -> Dy4Ni17 | DyNi5: Ni 0.833333; Dy4Ni17: Ni 0.809524 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 20 |  |
 | 1625 | peritectic |  | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| 1625 | Peritectic: L + DyNi5 -> Dy4Ni17 | DyNi5: Ni 0.833333; Dy4Ni17: Ni 0.809524 | model | [1] Li 2009 | Table 1, p. 2, row 21 |  |
-| 1609 | Peritectic: L + Dy4Ni17 -> DyNi4 | Dy4Ni17: Ni 0.809524; DyNi4: Ni 0.8 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 18 |  |
+| 1625 | peritectic: L + DyNi5 -> Dy4Ni17 | DyNi5: Ni 0.833333; Dy4Ni17: Ni 0.809524 | model | [1] Li 2009 | Table 1, p. 2, row 21 |  |
+| 1609 | peritectic: L + Dy4Ni17 -> DyNi4 | Dy4Ni17: Ni 0.809524; DyNi4: Ni 0.8 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 18 |  |
 | 1609 | peritectic |  | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| 1608 | Peritectic: L + Dy4Ni17 -> DyNi4 | Dy4Ni17: Ni 0.809524; DyNi4: Ni 0.8 | model | [1] Li 2009 | Table 1, p. 2, row 19 |  |
-| 1594 | Peritectic: L + DyNi5 -> Dy2Ni17 | DyNi5: Ni 0.833333; Dy2Ni17: Ni 0.894737 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 24 |  |
+| 1608 | peritectic: L + Dy4Ni17 -> DyNi4 | Dy4Ni17: Ni 0.809524; DyNi4: Ni 0.8 | model | [1] Li 2009 | Table 1, p. 2, row 19 |  |
+| 1594 | peritectic: L + DyNi5 -> Dy2Ni17 | DyNi5: Ni 0.833333; Dy2Ni17: Ni 0.894737 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 24 |  |
 | 1594 | peritectic |  | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| 1586 | Peritectic: L + DyNi5 -> Dy2Ni17 | DyNi5: Ni 0.833333; Dy2Ni17: Ni 0.894737 | model | [1] Li 2009 | Table 1, p. 2, row 25 |  |
-| 1580 | Peritectic: L + DyNi4 -> Dy2Ni7 | DyNi4: Ni 0.8; Dy2Ni7: Ni 0.777778 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 16 |  |
+| 1586 | peritectic: L + DyNi5 -> Dy2Ni17 | DyNi5: Ni 0.833333; Dy2Ni17: Ni 0.894737 | model | [1] Li 2009 | Table 1, p. 2, row 25 |  |
+| 1580 | peritectic: L + DyNi4 -> Dy2Ni7 | DyNi4: Ni 0.8; Dy2Ni7: Ni 0.777778 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 16 |  |
 | 1580 | peritectic |  | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| 1579 | Peritectic: L + DyNi4 -> Dy2Ni7 | DyNi4: Ni 0.8; Dy2Ni7: Ni 0.777778 | model | [1] Li 2009 | Table 1, p. 2, row 17 |  |
-| 1565 | Eutectic: L -> (Ni) + Dy2Ni17 | (Ni): Ni 1; Dy2Ni17: Ni 0.894737 | model | [1] Li 2009 | Table 1, p. 2, row 27 |  |
-| 1556 | Peritectic: L + Dy2Ni7 -> DyNi3 | Dy2Ni7: Ni 0.777778; DyNi3: Ni 0.75 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 14 |  |
-| 1554 | Peritectic: L + Dy2Ni7 -> DyNi3 | Dy2Ni7: Ni 0.777778; DyNi3: Ni 0.75 | model | [1] Li 2009 | Table 1, p. 2, row 15 |  |
+| 1579 | peritectic: L + DyNi4 -> Dy2Ni7 | DyNi4: Ni 0.8; Dy2Ni7: Ni 0.777778 | model | [1] Li 2009 | Table 1, p. 2, row 17 |  |
+| 1565 | eutectic: L -> (Ni) + Dy2Ni17 | (Ni): Ni 1; Dy2Ni17: Ni 0.894737 | model | [1] Li 2009 | Table 1, p. 2, row 27 |  |
+| 1556 | peritectic: L + Dy2Ni7 -> DyNi3 | Dy2Ni7: Ni 0.777778; DyNi3: Ni 0.75 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 14 |  |
+| 1554 | peritectic: L + Dy2Ni7 -> DyNi3 | Dy2Ni7: Ni 0.777778; DyNi3: Ni 0.75 | model | [1] Li 2009 | Table 1, p. 2, row 15 |  |
 | 1552 | eutectic |  | experimental | [1] Li 2009; _cites Zheng 1982_ | p. 1 | “Three eutectic reactions occurred: at 31 at.% Ni and 966 K, 56 at.% Ni and 1446 K, 93 at.% Ni and 1552 K.” |
-| 1552 | Eutectic: L -> (Ni) + Dy2Ni17 | (Ni): Ni 1; Dy2Ni17: Ni 0.894737 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 26 |  |
-| 1540 | Eutectic: L -> DyNi3 + DyNi2 | DyNi3: Ni 0.75; DyNi2: Ni 0.666667 | model | [1] Li 2009 | Table 1, p. 2, row 12 |  |
-| 1531 | Peritectic: L + DyNi3 -> DyNi2 | DyNi3: Ni 0.75; DyNi2: Ni 0.666667 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 11 |  |
+| 1552 | eutectic: L -> (Ni) + Dy2Ni17 | (Ni): Ni 1; Dy2Ni17: Ni 0.894737 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 26 |  |
+| 1540 | eutectic: L -> DyNi3 + DyNi2 | DyNi3: Ni 0.75; DyNi2: Ni 0.666667 | model | [1] Li 2009 | Table 1, p. 2, row 12 |  |
+| 1531 | peritectic: L + DyNi3 -> DyNi2 | DyNi3: Ni 0.75; DyNi2: Ni 0.666667 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 11 |  |
 | 1531 | peritectic |  | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
 | 1446 | eutectic |  | experimental | [1] Li 2009; _cites Zheng 1982_ | p. 1 | “Three eutectic reactions occurred: at 31 at.% Ni and 966 K, 56 at.% Ni and 1446 K, 93 at.% Ni and 1552 K.” |
-| 1446 | Eutectic: L -> DyNi + DyNi2 | DyNi: Ni 0.5; DyNi2: Ni 0.666667 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 9 |  |
-| 1434 | Eutectic: L -> DyNi + DyNi2 | DyNi: Ni 0.5; DyNi2: Ni 0.666667 | model | [1] Li 2009 | Table 1, p. 2, row 10 |  |
-| 1201 | Peritectic: L + DyNi -> Dy3Ni2 | DyNi: Ni 0.5; Dy3Ni2: Ni 0.4 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 5 |  |
+| 1446 | eutectic: L -> DyNi + DyNi2 | DyNi: Ni 0.5; DyNi2: Ni 0.666667 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 9 |  |
+| 1434 | eutectic: L -> DyNi + DyNi2 | DyNi: Ni 0.5; DyNi2: Ni 0.666667 | model | [1] Li 2009 | Table 1, p. 2, row 10 |  |
+| 1201 | peritectic: L + DyNi -> Dy3Ni2 | DyNi: Ni 0.5; Dy3Ni2: Ni 0.4 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 5 |  |
 | 1201 | peritectic |  | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| 1200 | Peritectic: L + DyNi -> Dy3Ni2 | DyNi: Ni 0.5; Dy3Ni2: Ni 0.4 | model | [1] Li 2009 | Table 1, p. 2, row 6 |  |
-| 1035 | Peritectic: L + (αDy) -> Dy3Ni | (αDy): Ni 0; Dy3Ni: Ni 0.25 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 1 |  |
+| 1200 | peritectic: L + DyNi -> Dy3Ni2 | DyNi: Ni 0.5; Dy3Ni2: Ni 0.4 | model | [1] Li 2009 | Table 1, p. 2, row 6 |  |
+| 1035 | peritectic: L + (αDy) -> Dy3Ni | (αDy): Ni 0; Dy3Ni: Ni 0.25 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 1 |  |
 | 1035 | peritectic |  | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| 1032 | Peritectic: L + (αDy) -> Dy3Ni | (αDy): Ni 0; Dy3Ni: Ni 0.25 | model | [1] Li 2009 | Table 1, p. 2, row 2 |  |
-| 970 | Eutectic: L -> Dy3Ni2 + Dy3Ni | Dy3Ni2: Ni 0.4; Dy3Ni: Ni 0.25 | model | [1] Li 2009 | Table 1, p. 2, row 4 |  |
-| 966 | Eutectic: L -> Dy3Ni2 + Dy3Ni | Dy3Ni2: Ni 0.4; Dy3Ni: Ni 0.25 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 3 |  |
+| 1032 | peritectic: L + (αDy) -> Dy3Ni | (αDy): Ni 0; Dy3Ni: Ni 0.25 | model | [1] Li 2009 | Table 1, p. 2, row 2 |  |
+| 970 | eutectic: L -> Dy3Ni2 + Dy3Ni | Dy3Ni2: Ni 0.4; Dy3Ni: Ni 0.25 | model | [1] Li 2009 | Table 1, p. 2, row 4 |  |
+| 966 | eutectic: L -> Dy3Ni2 + Dy3Ni | Dy3Ni2: Ni 0.4; Dy3Ni: Ni 0.25 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 3 |  |
 | 966 | eutectic |  | experimental | [1] Li 2009; _cites Zheng 1982_ | p. 1 | “Three eutectic reactions occurred: at 31 at.% Ni and 966 K, 56 at.% Ni and 1446 K, 93 at.% Ni and 1552 K.” |
 
 ## Other properties
@@ -149,13 +149,13 @@ Table: Phase transition, Dy–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1521 K | 1521 | Congruent: L -> DyNi; _L: Ni 0.5; DyNi: Ni 0.5_ | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 7 |  |
-| Phase transition | 1521 K | 1521 | congruent | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| Phase transition | 1527 K | 1527 | Congruent: L -> DyNi; _L: Ni 0.5; DyNi: Ni 0.5_ | model | [1] Li 2009 | Table 1, p. 2, row 8 |  |
-| Phase transition | 1558 K | 1558 | Congruent: L -> DyNi2; _L: Ni 0.666667; DyNi2: Ni 0.666667_ | model | [1] Li 2009 | Table 1, p. 2, row 13 |  |
-| Phase transition | 1660 K | 1660 | congruent | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| Phase transition | 1669 K | 1669 | Congruent: L -> DyNi5; _L: Ni 0.833333; DyNi5: Ni 0.833333_ | model | [1] Li 2009 | Table 1, p. 2, row 23 |  |
-| Phase transition | 1670 K | 1670 | Congruent: L -> DyNi5; _L: Ni 0.833333; DyNi5: Ni 0.833333_ | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 22 |  |
+| Phase transition | 1521 K | 1521 | congruent melting: L -> DyNi; _L: Ni 0.5; DyNi: Ni 0.5_ | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 7 |  |
+| Phase transition | 1521 K | 1521 | congruent transformation | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
+| Phase transition | 1527 K | 1527 | congruent melting: L -> DyNi; _L: Ni 0.5; DyNi: Ni 0.5_ | model | [1] Li 2009 | Table 1, p. 2, row 8 |  |
+| Phase transition | 1558 K | 1558 | congruent melting: L -> DyNi2; _L: Ni 0.666667; DyNi2: Ni 0.666667_ | model | [1] Li 2009 | Table 1, p. 2, row 13 |  |
+| Phase transition | 1660 K | 1660 | congruent transformation | experimental | [1] Li 2009 | p. 1 | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
+| Phase transition | 1669 K | 1669 | congruent melting: L -> DyNi5; _L: Ni 0.833333; DyNi5: Ni 0.833333_ | model | [1] Li 2009 | Table 1, p. 2, row 23 |  |
+| Phase transition | 1670 K | 1670 | congruent melting: L -> DyNi5; _L: Ni 0.833333; DyNi5: Ni 0.833333_ | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 22 |  |
 
 ## Sources
 

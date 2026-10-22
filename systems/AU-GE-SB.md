@@ -28,19 +28,19 @@ Table: Invariant reactions reported in the literature for the Au–Ge–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 865 | e: L -> (Ge) + (Sb) | L: Ge 0.135, Sb 0.865 | experimental | [1] Wang 2009; _cites Ruttewit 1949_ | Table 1, p. 2, row 1 |  |
-| 865 | e: L -> (Ge) + (Sb) | L: Ge 0.145, Sb 0.855 | experimental | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 1, p. 2, row 3 |  |
-| 860 | e: L -> (Ge) + (Sb) | L: Ge 0.143, Sb 0.857 | model | [1] Wang 2009 | Table 1, p. 2, row 5 |  |
-| 859 | e: L -> (Ge) + (Sb) | L: Ge 0.168, Sb 0.832 | experimental | [1] Wang 2009; _cites Stohr 1940_ | Table 1, p. 2, row 2 |  |
-| 859 | e: L -> (Ge) + (Sb) | L: Ge 0.162, Sb 0.838 | experimental | [1] Wang 2009; _cites Chevalier 1989_ | Table 1, p. 2, row 4 |  |
-| 740 | p: L + (Sb) -> AuSb2 | L: Sb 0.655 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 7 |  |
-| 703 | U: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.14, Sb 0.51 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 9 |  |
-| 702 | U: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.137, Sb 0.487 | model | [1] Wang 2009 | Table 1, p. 2, row 10 |  |
-| 631 | e: L -> (Au) + (Ge) | L: Ge 0.294 | model | [1] Wang 2009; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.03.114) | Table 1, p. 2, row 6 |  |
-| 626 | e: L -> (Au) + AuSb2 | L: Sb 0.366 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 8 |  |
+| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.135, Sb 0.865 | experimental | [1] Wang 2009; _cites Ruttewit 1949_ | Table 1, p. 2, row 1 |  |
+| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.145, Sb 0.855 | experimental | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 1, p. 2, row 3 |  |
+| 860 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.143, Sb 0.857 | model | [1] Wang 2009 | Table 1, p. 2, row 5 |  |
+| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.168, Sb 0.832 | experimental | [1] Wang 2009; _cites Stohr 1940_ | Table 1, p. 2, row 2 |  |
+| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.162, Sb 0.838 | experimental | [1] Wang 2009; _cites Chevalier 1989_ | Table 1, p. 2, row 4 |  |
+| 740 | peritectic: L + (Sb) -> AuSb2 | L: Sb 0.655 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 7 |  |
+| 703 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.14, Sb 0.51 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 9 |  |
+| 702 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.137, Sb 0.487 | model | [1] Wang 2009 | Table 1, p. 2, row 10 |  |
+| 631 | eutectic: L -> (Au) + (Ge) | L: Ge 0.294 | model | [1] Wang 2009; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.03.114) | Table 1, p. 2, row 6 |  |
+| 626 | eutectic: L -> (Au) + AuSb2 | L: Sb 0.366 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 8 |  |
 | 561 | eutectic: Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 |  | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | p. 2 | “Experimental results obtained by Zwingmann \[31\] further showed that the Au-Ge-Sb ternary system contains two invariant reactions: a transition reaction (U) at 703 K, Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 and a eutectic reaction (E) at 561 K, Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 .” |
-| 561 | E: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.15, Sb 0.17 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 11 |  |
-| 560 | E: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.166, Sb 0.195 | model | [1] Wang 2009 | Table 1, p. 2, row 12 |  |
+| 561 | eutectic: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.15, Sb 0.17 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 11 |  |
+| 560 | eutectic: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.166, Sb 0.195 | model | [1] Wang 2009 | Table 1, p. 2, row 12 |  |
 
 ## Other properties
 

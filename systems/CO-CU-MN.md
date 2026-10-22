@@ -26,7 +26,7 @@ Table: Invariant reactions reported in the literature for the Co–Cu–Mn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1450.1 | P: L + (βMn) + bcc -> fcc | L: Co 0.114775, Cu 0.005409, Mn 0.879815; (βMn): Co 0.103327, Cu 8.710e-4, Mn 0.895801; bcc: Co 0.089362, Cu 0.002786, Mn 0.907853; fcc: Co 0.095509, Cu 0.003048, Mn 0.901442 | model | [1] Wang 2007 | Table 3, p. 9, row 1 |  |
+| 1450.1 | peritectic: L + (βMn) + bcc -> fcc | L: Co 0.114775, Cu 0.005409, Mn 0.879815; (βMn): Co 0.103327, Cu 8.710e-4, Mn 0.895801; bcc: Co 0.089362, Cu 0.002786, Mn 0.907853; fcc: Co 0.095509, Cu 0.003048, Mn 0.901442 | model | [1] Wang 2007 | Table 3, p. 9, row 1 |  |
 
 ## Sources
 

@@ -59,24 +59,24 @@ Table: Invariant reactions reported in the literature for the Bi–Tb system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2033.15 | Congruent: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
-| 2033.15 | Congruent: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 3 |  |
+| 2033.15 | congruent melting: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
+| 2033.15 | congruent melting: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 3 |  |
 | 1873.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
-| 1873.15 | Peritectic: L + BiTb -> Bi3Tb4 | BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 5 |  |
-| 1873.15 | Peritectic: L + BiTb -> Bi3Tb4 | L: Tb 0.623; BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 6 |  |
+| 1873.15 | peritectic: L + BiTb -> Bi3Tb4 | BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 5 |  |
+| 1873.15 | peritectic: L + BiTb -> Bi3Tb4 | L: Tb 0.623; BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 6 |  |
 | 1763.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
-| 1763.15 | Peritectic: L + Bi3Tb4 -> βBi3Tb5 | Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 7 |  |
-| 1763.05 | Peritectic: L + Bi3Tb4 -> βBi3Tb5 | L: Tb 0.687; Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
-| 1683.15 | Polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 9 |  |
-| 1683.05 | Polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | model | [1] Wang 2011 | Table 2, p. 3, row 10 |  |
-| 1539.55 | Metatectic: βTb -> L + αTb | βTb: Tb 0.991; L: Tb 0.924; αTb: Tb 0.995 | model | [1] Wang 2011 | Table 2, p. 3, row 14 |  |
-| 1538.15 | Metatectic: βTb -> L + αTb |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 13 |  |
+| 1763.15 | peritectic: L + Bi3Tb4 -> βBi3Tb5 | Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 7 |  |
+| 1763.05 | peritectic: L + Bi3Tb4 -> βBi3Tb5 | L: Tb 0.687; Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
+| 1683.15 | polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 9 |  |
+| 1683.05 | polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | model | [1] Wang 2011 | Table 2, p. 3, row 10 |  |
+| 1539.55 | metatectic/catatectic: βTb -> L + αTb | βTb: Tb 0.991; L: Tb 0.924; αTb: Tb 0.995 | model | [1] Wang 2011 | Table 2, p. 3, row 14 |  |
+| 1538.15 | metatectic/catatectic: βTb -> L + αTb |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 13 |  |
 | 1378.15 | eutectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Abulkhaev\[14\] also determined a metatectic reaction (bTb (99 at.% Tb) M L + aTb (>99 at.% Tb) at 1538 ± 10 C) and two eutectic reactions: L (0.2 at.% Tb) M (Bi) + BiTb at 269 ± 2 C and L (83 ± 1 at.% Tb) M aTb (>99 at.% Tb) + aBi3Tb5 at 1105 ± 10 C.” |
-| 1378.15 | Eutectic: L -> αBi3Tb5 + αTb | L: Tb 0.83; αBi3Tb5: Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 11 |  |
-| 1377.75 | Eutectic: L -> αBi3Tb5 + αTb | L: Tb 0.848; αBi3Tb5: Tb 0.625; αTb: Tb 0.992 | model | [1] Wang 2011 | Table 2, p. 3, row 12 |  |
-| 543.45 | Eutectic: L -> (Bi) + BiTb | L: Tb 0.005; (Bi): Tb 0; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2 |  |
+| 1378.15 | eutectic: L -> αBi3Tb5 + αTb | L: Tb 0.83; αBi3Tb5: Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 11 |  |
+| 1377.75 | eutectic: L -> αBi3Tb5 + αTb | L: Tb 0.848; αBi3Tb5: Tb 0.625; αTb: Tb 0.992 | model | [1] Wang 2011 | Table 2, p. 3, row 12 |  |
+| 543.45 | eutectic: L -> (Bi) + BiTb | L: Tb 0.005; (Bi): Tb 0; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2 |  |
 | 542.15 | eutectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1 | “Abulkhaev\[14\] also determined a metatectic reaction (bTb (99 at.% Tb) M L + aTb (>99 at.% Tb) at 1538 ± 10 C) and two eutectic reactions: L (0.2 at.% Tb) M (Bi) + BiTb at 269 ± 2 C and L (83 ± 1 at.% Tb) M aTb (>99 at.% Tb) + aBi3Tb5 at 1105 ± 10 C.” |
-| 542.15 | Eutectic: L -> (Bi) + BiTb | L: Tb 0.002; (Bi): Tb 0; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 1 |  |
+| 542.15 | eutectic: L -> (Bi) + BiTb | L: Tb 0.002; (Bi): Tb 0; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 1 |  |
 
 ## Other properties
 

@@ -1,26 +1,22 @@
 # Si0.3333Ta0.6667: enthalpy of formation
 
-> Enthalpy of formation of Si0.3333Ta0.6667: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Si0.3333Ta0.6667: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Si0.3333Ta0.6667.html · Markdown: https://data.orchid-project.org/compounds/Si0.3333Ta0.6667.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 4, model 4); experimental median -54.043 kJ/mol-atom (n = 4); Materials Project -51.407 kJ/mol-atom (mp-aaaaaedb); OQMD -53.99 kJ/mol-atom (oqmd-7796).
+4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -54.043 kJ/mol-atom (n = 2); Materials Project -51.407 kJ/mol-atom (mp-aaaaaedb); OQMD -53.99 kJ/mol-atom (oqmd-7796).
 
 Systems: [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Si0.3333Ta0.6667 reported in the literature (8)
+Table: Enthalpy of formation of Si0.3333Ta0.6667 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -55.969 kJ/mol-atom | Si0.3333Ta0.6667 | 1027 | experimental | Method unknown | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 23 |  |
-| -55.969 kJ/mol-atom | Si0.3333Ta0.6667 | 1027 | experimental | Method unknown | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 23 |  |
-| -52.117 kJ/mol-atom | Si0.3333Ta0.6667 | 2045 | experimental | Kundsen eff. Method | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 21 |  |
 | -52.117 kJ/mol-atom | Si0.3333Ta0.6667 | 2045 | experimental | Kundsen eff. Method | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 21 |  |
 | -52.0086 kJ/mol-atom | Si0.3333Ta0.6667 | 298.15 | model | Optimization | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013 | Table 2, p. 2, row 22 |  |
-| -52.0086 kJ/mol-atom | Si0.3333Ta0.6667 | 298.15 | model | Optimization | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013 | Table 2, p. 2, row 22 |  |
-| -51 kJ/mol-atom | Si0.3333Ta0.6667 | 298.15 | model | Prediction | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 20 |  |
 | -51 kJ/mol-atom | Si0.3333Ta0.6667 | 298.15 | model | Prediction | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 20 |  |
 
 ## DFT formation energies

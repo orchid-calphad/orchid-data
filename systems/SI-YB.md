@@ -66,33 +66,33 @@ Table: Invariant reactions reported in the literature for the Si–Yb system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1983 | Congruent m.t.: L = YbSi | L: Si 0.5, Yb 0.5; YbSi: Si 0.5, Yb 0.5 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 10 |  |
-| 1974 | Congruent m.t.: L = YbSi | L: Si 0.5, Yb 0.5; YbSi: Si 0.5, Yb 0.5 | model | [1] Brutti 2005 | Table 5, p. 6, row 9 |  |
-| 1954 | Incongruent m.t.: L + Yb5Si4 = YbSi | Yb5Si4: Si 0.444444, Yb 0.555556; YbSi: Si 0.5, Yb 0.5 | model | [1] Brutti 2005 | Table 5, p. 6, row 7 |  |
-| 1953 | Incongruent m.t.: L + Yb5Si4 = YbSi | Yb5Si4: Si 0.444444, Yb 0.555556; YbSi: Si 0.5, Yb 0.5 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 8 |  |
-| 1907 | Incongruent m.t.: L + Yb5Si4 = Yb5Si3 | Yb5Si4: Si 0.444444, Yb 0.555556; Yb5Si3: Si 0.375, Yb 0.625 | model | [1] Brutti 2005 | Table 5, p. 6, row 5 |  |
-| 1903 | Incongruent m.t.: L + Yb5Si4 = Yb5Si3 | Yb5Si4: Si 0.444444, Yb 0.555556; Yb5Si3: Si 0.375, Yb 0.625 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 6 |  |
-| 1698 | Incongruent m.t.: L + YbSi = YbSi1.74 | YbSi: Si 0.5, Yb 0.5; YbSi1.74: Si 0.635036, Yb 0.364964 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 12 |  |
-| 1681 | Incongruent m.t.: L + YbSi = YbSi1.74 | YbSi: Si 0.5, Yb 0.5; YbSi1.74: Si 0.635036, Yb 0.364964 | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 5, p. 6, row 13 |  |
-| 1681 | Incongruent m.t.: L + YbSi = YbSi1.74 | YbSi: Si 0.5, Yb 0.5; YbSi1.74: Si 0.635036, Yb 0.364964 | model | [1] Brutti 2005 | Table 5, p. 6, row 11 |  |
-| 1440 | Eutectic: L = Si + YbSi1.74 | L: Si 0.844; YbSi1.74: Si 0.635036, Yb 0.364964 | model | [1] Brutti 2005 | Table 5, p. 6, row 14 |  |
+| 1983 | other: L = YbSi | L: Si 0.5, Yb 0.5; YbSi: Si 0.5, Yb 0.5 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 10 |  |
+| 1974 | other: L = YbSi | L: Si 0.5, Yb 0.5; YbSi: Si 0.5, Yb 0.5 | model | [1] Brutti 2005 | Table 5, p. 6, row 9 |  |
+| 1954 | other: L + Yb5Si4 = YbSi | Yb5Si4: Si 0.444444, Yb 0.555556; YbSi: Si 0.5, Yb 0.5 | model | [1] Brutti 2005 | Table 5, p. 6, row 7 |  |
+| 1953 | other: L + Yb5Si4 = YbSi | Yb5Si4: Si 0.444444, Yb 0.555556; YbSi: Si 0.5, Yb 0.5 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 8 |  |
+| 1907 | other: L + Yb5Si4 = Yb5Si3 | Yb5Si4: Si 0.444444, Yb 0.555556; Yb5Si3: Si 0.375, Yb 0.625 | model | [1] Brutti 2005 | Table 5, p. 6, row 5 |  |
+| 1903 | other: L + Yb5Si4 = Yb5Si3 | Yb5Si4: Si 0.444444, Yb 0.555556; Yb5Si3: Si 0.375, Yb 0.625 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 6 |  |
+| 1698 | other: L + YbSi = YbSi1.74 | YbSi: Si 0.5, Yb 0.5; YbSi1.74: Si 0.635036, Yb 0.364964 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 12 |  |
+| 1681 | other: L + YbSi = YbSi1.74 | YbSi: Si 0.5, Yb 0.5; YbSi1.74: Si 0.635036, Yb 0.364964 | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 5, p. 6, row 13 |  |
+| 1681 | other: L + YbSi = YbSi1.74 | YbSi: Si 0.5, Yb 0.5; YbSi1.74: Si 0.635036, Yb 0.364964 | model | [1] Brutti 2005 | Table 5, p. 6, row 11 |  |
+| 1440 | eutectic: L = Si + YbSi1.74 | L: Si 0.844; YbSi1.74: Si 0.635036, Yb 0.364964 | model | [1] Brutti 2005 | Table 5, p. 6, row 14 |  |
 | 1421 | eutectic |  | experimental | [1] Brutti 2005 | p. 3 | “Vapor pressure measurements have been performed starting from a 65 at.% Si sample (YbSi1.74 -Si) heated above the Si-rich eutectic reaction temperature (1421 K).” |
-| 1418 | Eutectic: L = Si + YbSi1.74 | L: Si 0.81; YbSi1.74: Si 0.635036, Yb 0.364964 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 15 |  |
-| 1408 | Eutectic: L = Si + YbSi1.74 | L: Si 0.806; YbSi1.74: Si 0.635036, Yb 0.364964 | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 5, p. 6, row 16 |  |
-| 1261 | Peritectoid: YbSi1.74 + YbSi = Yb8Si11 | YbSi1.74: Si 0.635036, Yb 0.364964; YbSi: Si 0.5, Yb 0.5; Yb8Si11: Si 0.578947, Yb 0.421053 | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 5, p. 6, row 19 |  |
-| 1259 | Peritectoid: YbSi1.74 + YbSi = Yb8Si11 | YbSi1.74: Si 0.635036, Yb 0.364964; YbSi: Si 0.5, Yb 0.5; Yb8Si11: Si 0.578947, Yb 0.421053 | model | [1] Brutti 2005 | Table 5, p. 6, row 17 |  |
-| 1253 | Peritectoid: YbSi1.74 + YbSi = Yb8Si11 | YbSi1.74: Si 0.635036, Yb 0.364964; YbSi: Si 0.5, Yb 0.5; Yb8Si11: Si 0.578947, Yb 0.421053 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 18 |  |
-| 1252 | Peritectoid: Yb8Si11 + YbSi1.74 = Yb3Si5 | Yb8Si11: Si 0.578947, Yb 0.421053; YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 5, p. 6, row 22 |  |
-| 1243 | Peritectoid: Yb8Si11 + YbSi1.74 = Yb3Si5 | Yb8Si11: Si 0.578947, Yb 0.421053; YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | model | [1] Brutti 2005 | Table 5, p. 6, row 20 |  |
-| 1238 | Peritectoid: Yb8Si11 + YbSi1.74 = Yb3Si5 | Yb8Si11: Si 0.578947, Yb 0.421053; YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 21 |  |
-| 1096 | Eutectic: L = Yb(bcc) + Yb5Si3 | L: Si 0.001; Yb5Si3: Si 0.375, Yb 0.625 | model | [1] Brutti 2005 | Table 5, p. 6, row 3 |  |
-| 1088 | Eutectic: L = Yb(bcc) + Yb5Si3 | Yb5Si3: Si 0.375, Yb 0.625 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 4 |  |
-| 1056 | Eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 5, p. 6, row 26 |  |
-| 1053 | Degenerate: Yb(bcc) = Yb(fcc) |  | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 2 |  |
-| 1043 | Eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 24 |  |
-| 1036 | Eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 5, p. 6, row 25 |  |
-| 1036 | Eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | model | [1] Brutti 2005 | Table 5, p. 6, row 23 |  |
-| 1033 | Degenerate: Yb(bcc) = Yb(fcc) |  | model | [1] Brutti 2005 | Table 5, p. 6, row 1 |  |
+| 1418 | eutectic: L = Si + YbSi1.74 | L: Si 0.81; YbSi1.74: Si 0.635036, Yb 0.364964 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 15 |  |
+| 1408 | eutectic: L = Si + YbSi1.74 | L: Si 0.806; YbSi1.74: Si 0.635036, Yb 0.364964 | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 5, p. 6, row 16 |  |
+| 1261 | peritectoid: YbSi1.74 + YbSi = Yb8Si11 | YbSi1.74: Si 0.635036, Yb 0.364964; YbSi: Si 0.5, Yb 0.5; Yb8Si11: Si 0.578947, Yb 0.421053 | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 5, p. 6, row 19 |  |
+| 1259 | peritectoid: YbSi1.74 + YbSi = Yb8Si11 | YbSi1.74: Si 0.635036, Yb 0.364964; YbSi: Si 0.5, Yb 0.5; Yb8Si11: Si 0.578947, Yb 0.421053 | model | [1] Brutti 2005 | Table 5, p. 6, row 17 |  |
+| 1253 | peritectoid: YbSi1.74 + YbSi = Yb8Si11 | YbSi1.74: Si 0.635036, Yb 0.364964; YbSi: Si 0.5, Yb 0.5; Yb8Si11: Si 0.578947, Yb 0.421053 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 18 |  |
+| 1252 | peritectoid: Yb8Si11 + YbSi1.74 = Yb3Si5 | Yb8Si11: Si 0.578947, Yb 0.421053; YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 5, p. 6, row 22 |  |
+| 1243 | peritectoid: Yb8Si11 + YbSi1.74 = Yb3Si5 | Yb8Si11: Si 0.578947, Yb 0.421053; YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | model | [1] Brutti 2005 | Table 5, p. 6, row 20 |  |
+| 1238 | peritectoid: Yb8Si11 + YbSi1.74 = Yb3Si5 | Yb8Si11: Si 0.578947, Yb 0.421053; YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 21 |  |
+| 1096 | eutectic: L = Yb(bcc) + Yb5Si3 | L: Si 0.001; Yb5Si3: Si 0.375, Yb 0.625 | model | [1] Brutti 2005 | Table 5, p. 6, row 3 |  |
+| 1088 | eutectic: L = Yb(bcc) + Yb5Si3 | Yb5Si3: Si 0.375, Yb 0.625 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 4 |  |
+| 1056 | eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 5, p. 6, row 26 |  |
+| 1053 | other: Yb(bcc) = Yb(fcc) |  | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 2 |  |
+| 1043 | eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 24 |  |
+| 1036 | eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 5, p. 6, row 25 |  |
+| 1036 | eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | model | [1] Brutti 2005 | Table 5, p. 6, row 23 |  |
+| 1033 | other: Yb(bcc) = Yb(fcc) |  | model | [1] Brutti 2005 | Table 5, p. 6, row 1 |  |
 
 ## Formation enthalpies
 
@@ -169,7 +169,7 @@ Table: Phase transition, Si–Yb system
 | Phase transition | 1903 K | 1903 | peritectic: Yb5Si3 = Liquid + Yb5Si4; _alloy: Si 0.444, Yb 0.556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 19 |  |
 | Phase transition | 1903 K | 1903 | peritectic: Yb5Si3 = Liquid + Yb5Si4; _alloy: Si 0.4, Yb 0.6_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 18 |  |
 | Phase transition | 1953 K | 1953 | peritectic: Yb5Si4 = Liquid + YbSi; _alloy: Si 0.444, Yb 0.556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 20 |  |
-| Phase transition | 1983 K | 1983 | congruent: Liquid = YbSi; _alloy: Si 0.5, Yb 0.5_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 17 |  |
+| Phase transition | 1983 K | 1983 | congruent transformation: Liquid = YbSi; _alloy: Si 0.5, Yb 0.5_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 17 |  |
 
 ### Phase equilibrium (21)
 
@@ -177,27 +177,27 @@ Table: Phase equilibrium, Si–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1443 | liquidus: Liquidus + Yb5Si3; _liquid: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 1 |  |
-| Phase composition |  | 1443 | liquidus: Liquidus + Yb5Si3; _liquid: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 2 |  |
-| Phase composition |  | 1543 | liquidus: Liquidus + Si; _liquid: Si 0.87, Yb 0.13_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 51 |  |
-| Phase composition |  | 1612 | liquidus: Liquidus + Yb5Si3; _liquid: Si 0.1, Yb 0.9_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 3 |  |
-| Phase composition |  | 1643 | liquidus: Liquidus + YbSi1.74; _liquid: Si 0.7, Yb 0.3_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 50 |  |
-| Phase composition |  | 1661 | liquidus: Liquidus + YbSi1.74; _liquid: Si 0.7, Yb 0.3_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 16 |  |
-| Phase composition |  | 1693 | liquidus: Liquidus + Yb5Si3; _liquid: Si 0.15, Yb 0.85_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 1708 | liquidus: Liquidus + YbSi; _liquid: Si 0.66, Yb 0.34_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 49 |  |
-| Phase composition |  | 1727 | liquidus: Liquidus + YbSi; _liquid: Si 0.625, Yb 0.375_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 14 |  |
-| Phase composition |  | 1733 | liquidus: Liquidus + YbSi; _liquid: Si 0.64, Yb 0.36_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 48 |  |
-| Phase composition |  | 1733 | liquidus: Liquidus + YbSi; _liquid: Si 0.61, Yb 0.39_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 46 |  |
-| Phase composition |  | 1743 | liquidus: Liquidus + YbSi; _liquid: Si 0.625, Yb 0.375_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 47 |  |
-| Phase composition |  | 1785 | liquidus: Liquidus + Yb5Si3; _liquid: Si 0.2, Yb 0.8_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 5 |  |
-| Phase composition |  | 1830 | liquidus: Liquidus + YbSi; _liquid: Si 0.6, Yb 0.4_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 13 |  |
-| Phase composition |  | 1839 | liquidus: Liquidus + Yb5Si3; _liquid: Si 0.25, Yb 0.75_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 1873 | liquidus: Liquidus + Yb5Si3; _liquid: Si 0.3, Yb 0.7_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 7 |  |
-| Phase composition |  | 1875 | liquidus: Liquidus + YbSi; _liquid: Si 0.571, Yb 0.429_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 12 |  |
-| Phase composition |  | 1891 | liquidus: Liquidus + Yb5Si3; _liquid: Si 0.35, Yb 0.65_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 8 |  |
-| Phase composition |  | 1925 | liquidus: Liquidus + YbSi; _liquid: Si 0.45, Yb 0.55_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 11 |  |
-| Phase composition |  | 1936 | liquidus: Liquidus + Yb5Si4; _liquid: Si 0.4, Yb 0.6_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 9 |  |
-| Phase composition |  | 1965 | liquidus: Liquidus + YbSi; _liquid: Si 0.444, Yb 0.556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 10 |  |
+| Phase composition |  | 1443 | other: Liquidus + Yb5Si3; _liquid: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 1 |  |
+| Phase composition |  | 1443 | other: Liquidus + Yb5Si3; _liquid: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 2 |  |
+| Phase composition |  | 1543 | other: Liquidus + Si; _liquid: Si 0.87, Yb 0.13_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 51 |  |
+| Phase composition |  | 1612 | other: Liquidus + Yb5Si3; _liquid: Si 0.1, Yb 0.9_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 3 |  |
+| Phase composition |  | 1643 | other: Liquidus + YbSi1.74; _liquid: Si 0.7, Yb 0.3_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 50 |  |
+| Phase composition |  | 1661 | other: Liquidus + YbSi1.74; _liquid: Si 0.7, Yb 0.3_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 16 |  |
+| Phase composition |  | 1693 | other: Liquidus + Yb5Si3; _liquid: Si 0.15, Yb 0.85_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 4 |  |
+| Phase composition |  | 1708 | other: Liquidus + YbSi; _liquid: Si 0.66, Yb 0.34_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 49 |  |
+| Phase composition |  | 1727 | other: Liquidus + YbSi; _liquid: Si 0.625, Yb 0.375_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 14 |  |
+| Phase composition |  | 1733 | other: Liquidus + YbSi; _liquid: Si 0.64, Yb 0.36_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 48 |  |
+| Phase composition |  | 1733 | other: Liquidus + YbSi; _liquid: Si 0.61, Yb 0.39_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 46 |  |
+| Phase composition |  | 1743 | other: Liquidus + YbSi; _liquid: Si 0.625, Yb 0.375_ | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 2, p. 3, row 47 |  |
+| Phase composition |  | 1785 | other: Liquidus + Yb5Si3; _liquid: Si 0.2, Yb 0.8_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 5 |  |
+| Phase composition |  | 1830 | other: Liquidus + YbSi; _liquid: Si 0.6, Yb 0.4_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 13 |  |
+| Phase composition |  | 1839 | other: Liquidus + Yb5Si3; _liquid: Si 0.25, Yb 0.75_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 6 |  |
+| Phase composition |  | 1873 | other: Liquidus + Yb5Si3; _liquid: Si 0.3, Yb 0.7_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 7 |  |
+| Phase composition |  | 1875 | other: Liquidus + YbSi; _liquid: Si 0.571, Yb 0.429_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 12 |  |
+| Phase composition |  | 1891 | other: Liquidus + Yb5Si3; _liquid: Si 0.35, Yb 0.65_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 8 |  |
+| Phase composition |  | 1925 | other: Liquidus + YbSi; _liquid: Si 0.45, Yb 0.55_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 11 |  |
+| Phase composition |  | 1936 | other: Liquidus + Yb5Si4; _liquid: Si 0.4, Yb 0.6_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 9 |  |
+| Phase composition |  | 1965 | other: Liquidus + YbSi; _liquid: Si 0.444, Yb 0.556_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 10 |  |
 
 ### Formation (17)
 

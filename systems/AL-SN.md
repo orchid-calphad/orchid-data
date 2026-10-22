@@ -53,7 +53,7 @@ Table: Invariant reactions reported in the literature for the Al–Sn system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 502.4 | Eutectic: Liquid -> fcc-A1 + bct-A5 | Liquid: Sn 0.98; fcc-A1: Sn 0; bct-A5: Sn 0.99 | unspecified | [1] Hämäläinen 1998 | Table I, p. 98, row 1 |  |
+| 502.4 | eutectic: Liquid -> fcc-A1 + bct-A5 | Liquid: Sn 0.98; fcc-A1: Sn 0; bct-A5: Sn 0.99 | unspecified | [1] Hämäläinen 1998 | Table I, p. 98, row 1 |  |
 | 501.3 | eutectic |  | experimental | [2] Ansara 1979; _cites ref. 30_ | p. 5 | “The aluminium-tin phase diagram presents a eutectic (xA1 = 0.022, at T, = 501.3K) and has been investigated by different authors using thermal analysis or e.m.f. measurements (30 to 34).” |
 
 ## Sources

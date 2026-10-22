@@ -101,45 +101,45 @@ Table: Invariant reactions reported in the literature for the Au–Dy system (39
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1517 | Eutectic: L -> αDyAu + DyAu2 | L: Dy 0.38; αDyAu: Dy 0.5; DyAu2: Dy 0.333333 | model | [1] Otmani 2015 | Table 2, p. 3, row 14 |  |
-| 1511.95 | Eutectic: L -> αAuDy + Au2Dy | L: Dy 0.376; αAuDy: Dy 0.5; Au2Dy: Dy 0.333 | model | [2] Wang 2015 | Table 3, p. 5, row 10 |  |
-| 1508.15 | Eutectic: L -> αAuDy + Au2Dy | L: Dy 0.38; αAuDy: Dy 0.5; Au2Dy: Dy 0.333 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 9 |  |
+| 1517 | eutectic: L -> αDyAu + DyAu2 | L: Dy 0.38; αDyAu: Dy 0.5; DyAu2: Dy 0.333333 | model | [1] Otmani 2015 | Table 2, p. 3, row 14 |  |
+| 1511.95 | eutectic: L -> αAuDy + Au2Dy | L: Dy 0.376; αAuDy: Dy 0.5; Au2Dy: Dy 0.333 | model | [2] Wang 2015 | Table 3, p. 5, row 10 |  |
+| 1508.15 | eutectic: L -> αAuDy + Au2Dy | L: Dy 0.38; αAuDy: Dy 0.5; Au2Dy: Dy 0.333 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 9 |  |
 | 1508.15 | eutectic: L M Au2Dy + AuDy |  | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | p. 2 | “McMasters and McMasters\[23\] also determined four eutectic reactions (L M (Au) + Au6Dy at 9.5 at.% Dy and 808 C, L M Au3Dy + Au2Dy at 27.0 at.% Dy and 1185 C, L M Au2Dy + AuDy at 38.0 at.% Dy and 1235 C” |
-| 1508 | Eutectic: L -> αDyAu + DyAu2 | L: Dy 0.38; αDyAu: Dy 0.5; DyAu2: Dy 0.333333 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 13 |  |
-| 1482.65 | Eutectic: L -> Au2Dy + Au3Dy | L: Dy 0.286; Au2Dy: Dy 0.333; Au3Dy: Dy 0.25 | model | [2] Wang 2015 | Table 3, p. 5, row 14 |  |
-| 1463 | Eutectic: L -> DyAu2+ DyAu3 | L: Dy 0.283; DyAu2: Dy 0.333333; DyAu3: Dy 0.25 | model | [1] Otmani 2015 | Table 2, p. 3, row 18 |  |
+| 1508 | eutectic: L -> αDyAu + DyAu2 | L: Dy 0.38; αDyAu: Dy 0.5; DyAu2: Dy 0.333333 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 13 |  |
+| 1482.65 | eutectic: L -> Au2Dy + Au3Dy | L: Dy 0.286; Au2Dy: Dy 0.333; Au3Dy: Dy 0.25 | model | [2] Wang 2015 | Table 3, p. 5, row 14 |  |
+| 1463 | eutectic: L -> DyAu2+ DyAu3 | L: Dy 0.283; DyAu2: Dy 0.333333; DyAu3: Dy 0.25 | model | [1] Otmani 2015 | Table 2, p. 3, row 18 |  |
 | 1458.15 | eutectic: L M Au3Dy + Au2Dy |  | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | p. 2 | “McMasters and McMasters\[23\] also determined four eutectic reactions (L M (Au) + Au6Dy at 9.5 at.% Dy and 808 C, L M Au3Dy + Au2Dy at 27.0 at.% Dy and 1185 C, L M Au2Dy + AuDy at 38.0 at.% Dy and 1235 C” |
-| 1458.15 | Eutectic: L -> Au2Dy + Au3Dy | L: Dy 0.27; Au2Dy: Dy 0.333; Au3Dy: Dy 0.25 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 13 |  |
-| 1458 | Eutectic: L -> DyAu2+ DyAu3 | L: Dy 0.28; DyAu2: Dy 0.333333; DyAu3: Dy 0.25 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 17 |  |
-| 1373 | Peritectic: L + DyAu3 -> Dy14Au51 | L: Dy 0.19; DyAu3: Dy 0.25; Dy14Au51: Dy 0.215385 | model | [1] Otmani 2015 | Table 2, p. 3, row 22 |  |
-| 1368.15 | Eutectic: L + Au3Dy -> Au51Dy14 | L: Dy 0.164; Au3Dy: Dy 0.25; Au51Dy14: Dy 0.215 | model | [2] Wang 2015 | Table 3, p. 5, row 18 |  |
-| 1368.15 | Eutectic: L + Au3Dy -> Au51Dy14 | Au3Dy: Dy 0.25; Au51Dy14: Dy 0.215 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 17 |  |
+| 1458.15 | eutectic: L -> Au2Dy + Au3Dy | L: Dy 0.27; Au2Dy: Dy 0.333; Au3Dy: Dy 0.25 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 13 |  |
+| 1458 | eutectic: L -> DyAu2+ DyAu3 | L: Dy 0.28; DyAu2: Dy 0.333333; DyAu3: Dy 0.25 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 17 |  |
+| 1373 | peritectic: L + DyAu3 -> Dy14Au51 | L: Dy 0.19; DyAu3: Dy 0.25; Dy14Au51: Dy 0.215385 | model | [1] Otmani 2015 | Table 2, p. 3, row 22 |  |
+| 1368.15 | eutectic: L + Au3Dy -> Au51Dy14 | L: Dy 0.164; Au3Dy: Dy 0.25; Au51Dy14: Dy 0.215 | model | [2] Wang 2015 | Table 3, p. 5, row 18 |  |
+| 1368.15 | eutectic: L + Au3Dy -> Au51Dy14 | Au3Dy: Dy 0.25; Au51Dy14: Dy 0.215 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 17 |  |
 | 1368.15 | peritectic: L + Au3Dy M Au51Dy14 |  | experimental | [2] Wang 2015 | p. 3 | “three peritectic reactions (L + Au51Dy14 M Au6Dy at 845 C, L + Au3Dy M Au51Dy14 at 1095 C, and L + aAuDy M AuDy2 at 1065 C) and a polymorphic reaction (bAuDy M aAuDy at 1360 C).” |
-| 1368 | Peritectic: L + DyAu3 -> Dy14Au51 | L: Dy 0.17; DyAu3: Dy 0.25; Dy14Au51: Dy 0.215385 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 21 |  |
-| 1338.25 | Peritectic: L + αAuDy -> AuDy2 | L: Dy 0.729; αAuDy: Dy 0.5; AuDy2: Dy 0.667 | model | [2] Wang 2015 | Table 3, p. 5, row 4 |  |
-| 1338.15 | Peritectic: L + αAuDy -> AuDy2 | αAuDy: Dy 0.5; AuDy2: Dy 0.667 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 3 |  |
+| 1368 | peritectic: L + DyAu3 -> Dy14Au51 | L: Dy 0.17; DyAu3: Dy 0.25; Dy14Au51: Dy 0.215385 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 21 |  |
+| 1338.25 | peritectic: L + αAuDy -> AuDy2 | L: Dy 0.729; αAuDy: Dy 0.5; AuDy2: Dy 0.667 | model | [2] Wang 2015 | Table 3, p. 5, row 4 |  |
+| 1338.15 | peritectic: L + αAuDy -> AuDy2 | αAuDy: Dy 0.5; AuDy2: Dy 0.667 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 3 |  |
 | 1338.15 | peritectic: L + aAuDy M AuDy2 |  | experimental | [2] Wang 2015 | p. 3 | “three peritectic reactions (L + Au51Dy14 M Au6Dy at 845 C, L + Au3Dy M Au51Dy14 at 1095 C, and L + aAuDy M AuDy2 at 1065 C) and a polymorphic reaction (bAuDy M aAuDy at 1360 C).” |
-| 1338 | Peritectic: L + αDyAu -> Dy2Au | L: Dy 0.71; αDyAu: Dy 0.5; Dy2Au: Dy 0.666667 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 7 |  |
-| 1338 | Peritectic: L + αDyAu -> Dy2Au | L: Dy 0.68; αDyAu: Dy 0.5; Dy2Au: Dy 0.666667 | model | [1] Otmani 2015 | Table 2, p. 3, row 8 |  |
+| 1338 | peritectic: L + αDyAu -> Dy2Au | L: Dy 0.71; αDyAu: Dy 0.5; Dy2Au: Dy 0.666667 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 7 |  |
+| 1338 | peritectic: L + αDyAu -> Dy2Au | L: Dy 0.68; αDyAu: Dy 0.5; Dy2Au: Dy 0.666667 | model | [1] Otmani 2015 | Table 2, p. 3, row 8 |  |
 | 1336 | peritectic |  | model | [1] Otmani 2015 | p. 4 | “The Dy2Au phase forms at 1336 K, trough the following peritectic reaction: Liq (32 at % Au)þaDyAu4Dy2Au.” |
-| 1209 | Eutectic: L -> αDy + Dy2Au | L: Dy 0.77; Dy2Au: Dy 0.666667 | model | [1] Otmani 2015 | Table 2, p. 3, row 6 |  |
-| 1208.15 | Eutectic: L -> αDy + AuDy2 | L: Dy 0.79; AuDy2: Dy 0.667 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 1 |  |
-| 1208 | Eutectic: L -> αDy + Dy2Au | L: Dy 0.79; Dy2Au: Dy 0.666667 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 5 |  |
-| 1207.15 | Eutectic: L -> αDy + AuDy2 | L: Dy 0.812; αDy: Dy 1; AuDy2: Dy 0.667 | model | [2] Wang 2015 | Table 3, p. 5, row 2 |  |
-| 1121 | Peritectic: L + Dy14Au51 -> DyAu6 | L: Dy 0.12; Dy14Au51: Dy 0.215385; DyAu6: Dy 0.142857 | model | [1] Otmani 2015 | Table 2, p. 3, row 24 |  |
-| 1118.35 | Peritectic: L + Au51Dy14 -> Au6Dy | L: Dy 0.102; Au51Dy14: Dy 0.215; Au6Dy: Dy 0.143 | model | [2] Wang 2015 | Table 3, p. 5, row 20 |  |
-| 1118.15 | Peritectic: L + Au51Dy14 -> Au6Dy | Au51Dy14: Dy 0.215; Au6Dy: Dy 0.143 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 19 |  |
+| 1209 | eutectic: L -> αDy + Dy2Au | L: Dy 0.77; Dy2Au: Dy 0.666667 | model | [1] Otmani 2015 | Table 2, p. 3, row 6 |  |
+| 1208.15 | eutectic: L -> αDy + AuDy2 | L: Dy 0.79; AuDy2: Dy 0.667 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 1 |  |
+| 1208 | eutectic: L -> αDy + Dy2Au | L: Dy 0.79; Dy2Au: Dy 0.666667 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 5 |  |
+| 1207.15 | eutectic: L -> αDy + AuDy2 | L: Dy 0.812; αDy: Dy 1; AuDy2: Dy 0.667 | model | [2] Wang 2015 | Table 3, p. 5, row 2 |  |
+| 1121 | peritectic: L + Dy14Au51 -> DyAu6 | L: Dy 0.12; Dy14Au51: Dy 0.215385; DyAu6: Dy 0.142857 | model | [1] Otmani 2015 | Table 2, p. 3, row 24 |  |
+| 1118.35 | peritectic: L + Au51Dy14 -> Au6Dy | L: Dy 0.102; Au51Dy14: Dy 0.215; Au6Dy: Dy 0.143 | model | [2] Wang 2015 | Table 3, p. 5, row 20 |  |
+| 1118.15 | peritectic: L + Au51Dy14 -> Au6Dy | Au51Dy14: Dy 0.215; Au6Dy: Dy 0.143 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 19 |  |
 | 1118.15 | peritectic: L + Au51Dy14 M Au6Dy |  | experimental | [2] Wang 2015 | p. 3 | “three peritectic reactions (L + Au51Dy14 M Au6Dy at 845 C, L + Au3Dy M Au51Dy14 at 1095 C, and L + aAuDy M AuDy2 at 1065 C) and a polymorphic reaction (bAuDy M aAuDy at 1360 C).” |
-| 1118 | Peritectic: L + Dy14Au51 -> DyAu6 | L: Dy 0.12; Dy14Au51: Dy 0.215385; DyAu6: Dy 0.142857 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 23 |  |
+| 1118 | peritectic: L + Dy14Au51 -> DyAu6 | L: Dy 0.12; Dy14Au51: Dy 0.215385; DyAu6: Dy 0.142857 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 23 |  |
 | 1081.15 | eutectic: L M (Au) + Au6Dy |  | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | p. 2 | “McMasters and McMasters\[23\] also determined four eutectic reactions (L M (Au) + Au6Dy at 9.5 at.% Dy and 808 C, L M Au3Dy + Au2Dy at 27.0 at.% Dy and 1185 C, L M Au2Dy + AuDy at 38.0 at.% Dy and 1235 C” |
-| 1081.15 | Eutectic: L -> Au6Dy + (Au) | Au6Dy: Dy 0.142857; (Au): Dy 0.023 | experimental | [2] Wang 2015; _cites Rider 1965_ | Table 3, p. 5, row 21 |  |
-| 1081.15 | Eutectic: L -> Au6Dy + (Au) | L: Dy 0.085; Au6Dy: Dy 0.143; (Au): Dy 0.021 | model | [2] Wang 2015 | Table 3, p. 5, row 23 |  |
-| 1081.15 | Eutectic: L -> Au6Dy + (Au) | L: Dy 0.095; Au6Dy: Dy 0.143; (Au): Dy 0.023 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 22 |  |
+| 1081.15 | eutectic: L -> Au6Dy + (Au) | Au6Dy: Dy 0.142857; (Au): Dy 0.023 | experimental | [2] Wang 2015; _cites Rider 1965_ | Table 3, p. 5, row 21 |  |
+| 1081.15 | eutectic: L -> Au6Dy + (Au) | L: Dy 0.085; Au6Dy: Dy 0.143; (Au): Dy 0.021 | model | [2] Wang 2015 | Table 3, p. 5, row 23 |  |
+| 1081.15 | eutectic: L -> Au6Dy + (Au) | L: Dy 0.095; Au6Dy: Dy 0.143; (Au): Dy 0.023 | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 22 |  |
 | 1081 | eutectic |  | experimental | [1] Otmani 2015 | p. 4 | “Our results give another proposition for this eutectic reaction: 92 at % Au instead of 90 at % Au and 1073 K instead of 1081 K for the temperature as shown in the Table 2.” |
-| 1081 | Eutectic: L -> DyAu6 + Au | L: Dy 0.1; DyAu6: Dy 0.142857 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 25 |  |
+| 1081 | eutectic: L -> DyAu6 + Au | L: Dy 0.1; DyAu6: Dy 0.142857 | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 25 |  |
 | 1073 | eutectic |  | model | [1] Otmani 2015 | p. 4 | “Our results give another proposition for this eutectic reaction: 92 at % Au instead of 90 at % Au and 1073 K instead of 1081 K for the temperature as shown in the Table 2.” |
 | 1073 | eutectic |  | model | [1] Otmani 2015 | p. 5 | “dysprosium in gold varies with temperature, decreasing from 1 at% Dy at the eutectic temperature 1073 K to 0.2 at% Dy at 573 K which is less extended than that mentioned by McMasters et al.\[13\] as shown in the enlarged phase diagram of Au rich part (Fig. 3).” |
-| 1073 | Eutectic: L -> DyAu6 + Au | L: Dy 0.08; DyAu6: Dy 0.142857 | model | [1] Otmani 2015 | Table 2, p. 3, row 26 |  |
+| 1073 | eutectic: L -> DyAu6 + Au | L: Dy 0.08; DyAu6: Dy 0.142857 | model | [1] Otmani 2015 | Table 2, p. 3, row 26 |  |
 
 ## Other properties
 
@@ -149,34 +149,34 @@ Table: Phase transition, Au–Dy system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1337 K | 1337 | Melting point: L -> Au; _L: Dy 0_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 27 |  |
-| Phase transition | 1337 K | 1337 | Melting point: L -> Au; _L: Dy 0_ | model | [1] Otmani 2015 | Table 2, p. 3, row 28 |  |
-| Phase transition | 1502 K | 1502 | Congruent: L -> DyAu3; _L: Dy 0.25; DyAu3: Dy 0.25_ | model | [1] Otmani 2015 | Table 2, p. 3, row 20 |  |
-| Phase transition | 1503 K | 1503 | Congruent: L -> DyAu3; _L: Dy 0.25; DyAu3: Dy 0.25_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 19 |  |
+| Phase transition | 1337 K | 1337 | congruent melting: L -> Au; _L: Dy 0_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 27 |  |
+| Phase transition | 1337 K | 1337 | congruent melting: L -> Au; _L: Dy 0_ | model | [1] Otmani 2015 | Table 2, p. 3, row 28 |  |
+| Phase transition | 1502 K | 1502 | congruent melting: L -> DyAu3; _L: Dy 0.25; DyAu3: Dy 0.25_ | model | [1] Otmani 2015 | Table 2, p. 3, row 20 |  |
+| Phase transition | 1503 K | 1503 | congruent melting: L -> DyAu3; _L: Dy 0.25; DyAu3: Dy 0.25_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 19 |  |
 | Phase transition | 1503.15 K | 1503.15 | Au3Dy | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | p. 2 | “Later, based on microscopic, DTA and XRD, McMasters and Gschneidner\[23\] investigated the Au-Dy phase diagram, and reported three stoichiometry compounds of the AuDy (melting point, 1660 C), Au2Dy (melting point, 1320 C) and Au3Dy (melting point, 1230 C).” |
-| Phase transition | 1503.15 K | 1503.15 | Congruent: L -> Au3Dy; _L: Dy 0.25; Au3Dy: Dy 0.25_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 15 |  |
-| Phase transition | 1503.55 K | 1503.55 | Congruent: L -> Au3Dy; _L: Dy 0.25; Au3Dy: Dy 0.25_ | model | [2] Wang 2015 | Table 3, p. 5, row 16 |  |
-| Phase transition | 1585 K | 1585 | Congruent: L -> DyAu2; _L: Dy 0.33; DyAu2: Dy 0.333333_ | model | [1] Otmani 2015 | Table 2, p. 3, row 16 |  |
-| Phase transition | 1589.45 K | 1589.45 | Congruent: L -> Au2Dy; _L: Dy 0.333; Au2Dy: Dy 0.333_ | model | [2] Wang 2015 | Table 3, p. 5, row 12 |  |
-| Phase transition | 1593 K | 1593 | Congruent: L -> DyAu2; _L: Dy 0.33; DyAu2: Dy 0.333333_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 15 |  |
+| Phase transition | 1503.15 K | 1503.15 | congruent melting: L -> Au3Dy; _L: Dy 0.25; Au3Dy: Dy 0.25_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 15 |  |
+| Phase transition | 1503.55 K | 1503.55 | congruent melting: L -> Au3Dy; _L: Dy 0.25; Au3Dy: Dy 0.25_ | model | [2] Wang 2015 | Table 3, p. 5, row 16 |  |
+| Phase transition | 1585 K | 1585 | congruent melting: L -> DyAu2; _L: Dy 0.33; DyAu2: Dy 0.333333_ | model | [1] Otmani 2015 | Table 2, p. 3, row 16 |  |
+| Phase transition | 1589.45 K | 1589.45 | congruent melting: L -> Au2Dy; _L: Dy 0.333; Au2Dy: Dy 0.333_ | model | [2] Wang 2015 | Table 3, p. 5, row 12 |  |
+| Phase transition | 1593 K | 1593 | congruent melting: L -> DyAu2; _L: Dy 0.33; DyAu2: Dy 0.333333_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 15 |  |
 | Phase transition | 1593.15 K | 1593.15 | Au2Dy | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | p. 2 | “Later, based on microscopic, DTA and XRD, McMasters and Gschneidner\[23\] investigated the Au-Dy phase diagram, and reported three stoichiometry compounds of the AuDy (melting point, 1660 C), Au2Dy (melting point, 1320 C) and Au3Dy (melting point, 1230 C).” |
-| Phase transition | 1593.15 K | 1593.15 | Congruent: L -> Au2Dy; _L: Dy 0.333; Au2Dy: Dy 0.333_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 11 |  |
-| Phase transition | 1632.65 K | 1632.65 | Allotropic: βAuDy -> αAuDy; _βAuDy: Dy 0.5; αAuDy: Dy 0.5_ | model | [2] Wang 2015 | Table 3, p. 5, row 8 |  |
-| Phase transition | 1633 K | 1633 | Allotropic transformation: αDyAu -> βDyAu; _αDyAu: Dy 0.5; βDyAu: Dy 0.5_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 11 |  |
-| Phase transition | 1633 K | 1633 | Allotropic transformation: αDyAu -> βDyAu; _αDyAu: Dy 0.5; βDyAu: Dy 0.5_ | model | [1] Otmani 2015 | Table 2, p. 3, row 12 |  |
+| Phase transition | 1593.15 K | 1593.15 | congruent melting: L -> Au2Dy; _L: Dy 0.333; Au2Dy: Dy 0.333_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 11 |  |
+| Phase transition | 1632.65 K | 1632.65 | polymorphic: βAuDy -> αAuDy; _βAuDy: Dy 0.5; αAuDy: Dy 0.5_ | model | [2] Wang 2015 | Table 3, p. 5, row 8 |  |
 | Phase transition | 1633 K | 1633 | polymorphic | model | [1] Otmani 2015 | p. 4 | “Concerning the equiatomic DyAu phase which melts congruently at 1934 K with two allotropic forms (aDyAu and bDyAu), the temperature of this allotropic transformation is obtained at 1633 K, and this is in excellent agreement with the literature data \[13\].” |
-| Phase transition | 1633.15 K | 1633.15 | Allotropic: βAuDy -> αAuDy; _βAuDy: Dy 0.5; αAuDy: Dy 0.5_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 7 |  |
+| Phase transition | 1633 K | 1633 | polymorphic: αDyAu -> βDyAu; _αDyAu: Dy 0.5; βDyAu: Dy 0.5_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 11 |  |
+| Phase transition | 1633 K | 1633 | polymorphic: αDyAu -> βDyAu; _αDyAu: Dy 0.5; βDyAu: Dy 0.5_ | model | [1] Otmani 2015 | Table 2, p. 3, row 12 |  |
 | Phase transition | 1633.15 K | 1633.15 | polymorphic: bAuDy M aAuDy | experimental | [2] Wang 2015 | p. 3 | “three peritectic reactions (L + Au51Dy14 M Au6Dy at 845 C, L + Au3Dy M Au51Dy14 at 1095 C, and L + aAuDy M AuDy2 at 1065 C) and a polymorphic reaction (bAuDy M aAuDy at 1360 C).” |
-| Phase transition | 1651 K | 1651 | Allotropic transformation: βDy -> αDy; _βDy: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 4 |  |
-| Phase transition | 1653 K | 1653 | Allotropic transformation: βDy -> αDy; _βDy: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 3 |  |
-| Phase transition | 1685 K | 1685 | Melting point: L -> βDy; _L: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 1 |  |
-| Phase transition | 1685 K | 1685 | Melting point: L -> βDy; _L: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 2 |  |
-| Phase transition | 1933 K | 1933 | Congruent: L -> βDyAu; _L: Dy 0.5; βDyAu: Dy 0.5_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 9 |  |
+| Phase transition | 1633.15 K | 1633.15 | polymorphic: βAuDy -> αAuDy; _βAuDy: Dy 0.5; αAuDy: Dy 0.5_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 7 |  |
+| Phase transition | 1651 K | 1651 | polymorphic: βDy -> αDy; _βDy: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 4 |  |
+| Phase transition | 1653 K | 1653 | polymorphic: βDy -> αDy; _βDy: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 3 |  |
+| Phase transition | 1685 K | 1685 | congruent melting: L -> βDy; _L: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 1 |  |
+| Phase transition | 1685 K | 1685 | congruent melting: L -> βDy; _L: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 2 |  |
+| Phase transition | 1933 K | 1933 | congruent melting: L -> βDyAu; _L: Dy 0.5; βDyAu: Dy 0.5_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 9 |  |
 | Phase transition | 1933.15 K | 1933.15 | AuDy | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | p. 2 | “Later, based on microscopic, DTA and XRD, McMasters and Gschneidner\[23\] investigated the Au-Dy phase diagram, and reported three stoichiometry compounds of the AuDy (melting point, 1660 C), Au2Dy (melting point, 1320 C) and Au3Dy (melting point, 1230 C).” |
-| Phase transition | 1933.15 K | 1933.15 | Congruent: L -> βAuDy; _L: Dy 0.5; βAuDy: Dy 0.5_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 5 |  |
-| Phase transition | 1933.15 K | 1933.15 | Congruent: L -> βAuDy; _L: Dy 0.5; βAuDy: Dy 0.5_ | model | [2] Wang 2015 | Table 3, p. 5, row 6 |  |
-| Phase transition | 1934 K | 1934 | congruent | model | [1] Otmani 2015 | p. 4 | “Concerning the equiatomic DyAu phase which melts congruently at 1934 K with two allotropic forms (aDyAu and bDyAu), the temperature of this allotropic transformation is obtained at 1633 K, and this is in excellent agreement with the literature data \[13\].” |
-| Phase transition | 1935 K | 1935 | Congruent: L -> βDyAu; _L: Dy 0.5; βDyAu: Dy 0.5_ | model | [1] Otmani 2015 | Table 2, p. 3, row 10 |  |
+| Phase transition | 1933.15 K | 1933.15 | congruent melting: L -> βAuDy; _L: Dy 0.5; βAuDy: Dy 0.5_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 5 |  |
+| Phase transition | 1933.15 K | 1933.15 | congruent melting: L -> βAuDy; _L: Dy 0.5; βAuDy: Dy 0.5_ | model | [2] Wang 2015 | Table 3, p. 5, row 6 |  |
+| Phase transition | 1934 K | 1934 | congruent transformation | model | [1] Otmani 2015 | p. 4 | “Concerning the equiatomic DyAu phase which melts congruently at 1934 K with two allotropic forms (aDyAu and bDyAu), the temperature of this allotropic transformation is obtained at 1633 K, and this is in excellent agreement with the literature data \[13\].” |
+| Phase transition | 1935 K | 1935 | congruent melting: L -> βDyAu; _L: Dy 0.5; βDyAu: Dy 0.5_ | model | [1] Otmani 2015 | Table 2, p. 3, row 10 |  |
 
 ## Sources
 

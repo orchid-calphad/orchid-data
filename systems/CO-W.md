@@ -1,10 +1,10 @@
 # Co–W system
 
-> Co–W system: 194 accepted literature values (formation 128, mixing / partial 24, invariant reaction 19, phase equilibrium 12) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–W system: 182 accepted literature values (formation 128, invariant reaction 19, mixing / partial 12, phase equilibrium 12) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-W.html · Markdown: https://data.orchid-project.org/systems/CO-W.md
 
-194 accepted literature values from 5 paper(s) (experimental 29, model 37, DFT 128); 10 calculated phase diagram(s).
+182 accepted literature values from 5 paper(s) (experimental 23, model 31, DFT 128); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-W.json) · [CSV](https://data.orchid-project.org/systems/CO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-W/CoW-05Mar.json) · [Markdown](https://data.orchid-project.org/systems/CO-W.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 37 |
+| experimental | 23 |
+| model | 31 |
 | DFT | 128 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 10 |
 | phase equilibrium | 12 |
 | formation | 128 |
-| mixing / partial | 24 |
+| mixing / partial | 12 |
 | activity / EMF / Gibbs energy | 1 |
 
 ## Calculated phase diagrams
@@ -314,7 +314,7 @@ Table: Phase transition, Co–W system
 | Phase transition | 1396 K | 1396 | magnetic | experimental | [2] Guillermet 1989 | p. 16 | “Since C and W decrease the Curie temperature of fcc Co (which is 1396 KU9\]), the fcc phase in isothermal sections of the Co-W-C phase diagram corresponding to T \< 1396 K will show a ferromagnetic state at the Co-rich corner, but paramagnetic states at sufficiently large C or W contents.” |
 | Phase transition | 1582 K | 1582 | hcp + liq. + /x | model | [2] Guillermet 1989 | p. 7 | “The representative value Te/Ty = 0.93 was selected in the present work and combined with the melting point of hcp Co ~91 to estimate Te = 1582 K for the hcp + liq. + /x equilibrium.” |
 | Phase transition | 1768 K | 1768 | Liq => (αCo) | model | [1] Wang 2017; _cites ref. 68_ | Table 11, p. 53, row 8 |  |
-| Phase transition | 1777 K | 1777 | liquidus | model | [2] Guillermet 1989 | p. 9 | “There is a maximum in the calculated liquidus of fcc, the coordinates of which are Xw = 0.071, T = 1777 K (see also Figure 4).” |
+| Phase transition | 1777 K | 1777 | other | model | [2] Guillermet 1989 | p. 9 | “There is a maximum in the calculated liquidus of fcc, the coordinates of which are Xw = 0.071, T = 1777 K (see also Figure 4).” |
 | Phase transition | 1779.5 K | 1779.5 | Liq => (αCo) | model | [1] Wang 2017 | Table 11, p. 53, row 5 |  |
 | Phase transition | 1782.6 K | 1782.6 | Liq => (αCo) | model | [1] Wang 2017; _cites ref. 19_ | Table 11, p. 53, row 7 |  |
 | Phase transition | 1813.6 K | 1813.6 | Liq => (αCo) | model | [1] Wang 2017; _cites ref. 67_ | Table 11, p. 53, row 6 |  |
@@ -338,36 +338,24 @@ Table: Phase equilibrium, Co–W system
 | Phase composition |  | 1623 | αCopara + μ; _αCopara: Co 0.843, W 0.157; μ: Co 0.571, W 0.429_ | experimental | [4] Sato 2005 | Table 1, p. 3, row 1 |  |
 | Phase composition |  | 1623 | μ + W; _μ: Co 0.515, W 0.485; W: Co 0.024, W 0.976_ | experimental | [4] Sato 2005 | Table 1, p. 3, row 7 |  |
 
-### Mixing / partial (24)
+### Mixing / partial (12)
 
 Table: Mixing / partial, Co–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: ΔG^M_ | -869 J/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | model | [2] Guillermet 1989 | Table III, p. 11, row 6 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -869 J/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | model | [2] Guillermet 1989 | Table III, p. 11, row 6 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1178 J/mol (basis unstated) ± 318 | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 5 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1178 J/mol (basis unstated) ± 318 | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 5 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -866 J/mol (basis unstated) ± 226 | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -866 J/mol (basis unstated) ± 226 | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -597 J/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | model | [2] Guillermet 1989 | Table III, p. 11, row 2 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -597 J/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | model | [2] Guillermet 1989 | Table III, p. 11, row 2 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1459 J/mol (basis unstated) ± 427 | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 9 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1459 J/mol (basis unstated) ± 427 | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 9 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1605 J/mol (basis unstated) | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | model | [2] Guillermet 1989 | Table III, p. 11, row 10 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1605 J/mol (basis unstated) | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | model | [2] Guillermet 1989 | Table III, p. 11, row 10 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1034 J/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | model | [2] Guillermet 1989 | Table III, p. 11, row 4 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1034 J/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | model | [2] Guillermet 1989 | Table III, p. 11, row 4 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1819 J/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | model | [2] Guillermet 1989 | Table III, p. 11, row 12 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1819 J/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | model | [2] Guillermet 1989 | Table III, p. 11, row 12 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1472 J/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | model | [2] Guillermet 1989 | Table III, p. 11, row 8 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1472 J/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | model | [2] Guillermet 1989 | Table III, p. 11, row 8 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1280 J/mol (basis unstated) ± 337 | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 7 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1280 J/mol (basis unstated) ± 337 | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 7 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1498 J/mol (basis unstated) ± 435 | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 11 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1498 J/mol (basis unstated) ± 435 | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 11 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -941 J/mol (basis unstated) ± 238 | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 3 |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -941 J/mol (basis unstated) ± 238 | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 3 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -0.869 kJ/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | model | [2] Guillermet 1989 | Table III, p. 11, row 6 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.178 kJ/mol (basis unstated) ± 0.318 | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 5 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -0.866 kJ/mol (basis unstated) ± 0.226 | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 1 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -0.597 kJ/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | model | [2] Guillermet 1989 | Table III, p. 11, row 2 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.459 kJ/mol (basis unstated) ± 0.427 | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 9 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.605 kJ/mol (basis unstated) | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | model | [2] Guillermet 1989 | Table III, p. 11, row 10 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.034 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | model | [2] Guillermet 1989 | Table III, p. 11, row 4 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.819 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | model | [2] Guillermet 1989 | Table III, p. 11, row 12 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.472 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | model | [2] Guillermet 1989 | Table III, p. 11, row 8 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.28 kJ/mol (basis unstated) ± 0.337 | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 7 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.498 kJ/mol (basis unstated) ± 0.435 | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 11 |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -0.941 kJ/mol (basis unstated) ± 0.238 | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 3 |  |
 
 ### Activity / EMF / Gibbs energy (1)
 

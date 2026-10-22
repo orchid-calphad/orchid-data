@@ -70,90 +70,90 @@ Table: Invariant reactions reported in the literature for the Cu–Ga system (87
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1189 | LIQUID + FCC_A1 + BCC_A2 |  | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 1 |  |
-| 1188 | Peritectic: fcc + L \<-> bcc | fcc: Ga 0.162; L: Ga 0.215; bcc: Ga 0.193 | experimental | [2] Li 2008; _cites Hume-Rothery 1934_ [doi](https://doi.org/10.1098/rsta.1934.0014) | Table 1, p. 2, row 3 |  |
+| 1188 | peritectic: fcc + L \<-> bcc | fcc: Ga 0.162; L: Ga 0.215; bcc: Ga 0.193 | experimental | [2] Li 2008; _cites Hume-Rothery 1934_ [doi](https://doi.org/10.1098/rsta.1934.0014) | Table 1, p. 2, row 3 |  |
 | 1188 | LIQUID + FCC_A1 + BCC_A2 |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Hume-Rothery 1934_ [doi](https://doi.org/10.1098/rsta.1934.0014) | Table 4, p. 5, row 4 |  |
-| 1184 | Peritectic: fcc + L \<-> bcc | fcc: Ga 0.164; L: Ga 0.209; bcc: Ga 0.194 | model | [2] Li 2008 | Table 1, p. 2, row 1 |  |
+| 1184 | peritectic: fcc + L \<-> bcc | fcc: Ga 0.164; L: Ga 0.209; bcc: Ga 0.194 | model | [2] Li 2008 | Table 1, p. 2, row 1 |  |
 | 1184 | LIQUID + FCC_A1 + BCC_A2 |  | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 2 |  |
-| 1182 | Peritectic: fcc + L \<-> bcc | fcc: Ga 0.156; L: Ga 0.21; bcc: Ga 0.185 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 2 |  |
+| 1182 | peritectic: fcc + L \<-> bcc | fcc: Ga 0.156; L: Ga 0.21; bcc: Ga 0.185 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 2 |  |
 | 1182 | LIQUID + FCC_A1 + BCC_A2 |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 3 |  |
 | 1110 | LIQUID + BCC_A2 + GAMMA_DIS |  | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 6 |  |
-| 1110 | Peritectic: bcc + L \<-> gamma0 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 5 |  |
+| 1110 | peritectic: bcc + L \<-> gamma0 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 5 |  |
 | 1109 | LIQUID + BCC_A2 + GAMMA_DIS |  | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 5 |  |
 | 1109 | LIQUID + BCC_A2 + GAMMA_DIS |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Hume-Rothery 1937_ | Table 4, p. 5, row 8 |  |
-| 1109 | Peritectic: bcc + L \<-> gamma0 | L: Ga 0.317; gamma0: Ga 0.295 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 8 |  |
-| 1109 | Peritectic: bcc + L \<-> gamma0 | bcc: Ga 0.2745; L: Ga 0.3125; gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 7 |  |
-| 1108 | Peritectic: bcc + L \<-> gamma0 | bcc: Ga 0.28; L: Ga 0.305; gamma0: Ga 0.285 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 6 |  |
+| 1109 | peritectic: bcc + L \<-> gamma0 | L: Ga 0.317; gamma0: Ga 0.295 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 8 |  |
+| 1109 | peritectic: bcc + L \<-> gamma0 | bcc: Ga 0.2745; L: Ga 0.3125; gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 7 |  |
+| 1108 | peritectic: bcc + L \<-> gamma0 | bcc: Ga 0.28; L: Ga 0.305; gamma0: Ga 0.285 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 6 |  |
 | 1108 | LIQUID + BCC_A2 + GAMMA_DIS |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 7 |  |
-| 1105.5 | Peritectic: bcc + L \<-> gamma0 | bcc: Ga 0.266; L: Ga 0.314; gamma0: Ga 0.301 | model | [2] Li 2008 | Table 1, p. 2, row 4 |  |
-| 918 | Order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 22 |  |
-| 915 | Order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 21 |  |
-| 912 | Peritectic: gamma + L \<-> delta | gamma: Ga 0.357; L: Ga 0.508; delta: Ga 0.382; γ: Ga 0.357; δ: Ga 0.382 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 23 |  |
+| 1105.5 | peritectic: bcc + L \<-> gamma0 | bcc: Ga 0.266; L: Ga 0.314; gamma0: Ga 0.301 | model | [2] Li 2008 | Table 1, p. 2, row 4 |  |
+| 918 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 22 |  |
+| 915 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 21 |  |
+| 912 | peritectic: gamma + L \<-> delta | gamma: Ga 0.357; L: Ga 0.508; delta: Ga 0.382; γ: Ga 0.357; δ: Ga 0.382 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 23 |  |
 | 912 | LIQUID + GAMMA_DIS + GAMMA_ORD | GAMMA_ORD: Cu 0.5, Ga 0.5 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 9 |  |
-| 911.2 | Order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | model | [2] Li 2008 | Table 1, p. 2, row 20 |  |
-| 895.5 | Peritectoid: bcc + fcc \<-> hcp | bcc: Ga 0.237; fcc: Ga 0.203; hcp: Ga 0.224 | model | [2] Li 2008 | Table 1, p. 2, row 9 |  |
+| 911.2 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | model | [2] Li 2008 | Table 1, p. 2, row 20 |  |
+| 895.5 | peritectoid: bcc + fcc \<-> hcp | bcc: Ga 0.237; fcc: Ga 0.203; hcp: Ga 0.224 | model | [2] Li 2008 | Table 1, p. 2, row 9 |  |
 | 895 | HCP_A3 + FCC_A1 + BCC_A2 |  | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 11 |  |
-| 895 | Eutectoid: bcc \<-> hcp + gamma0 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 13 |  |
-| 893 | Eutectoid: bcc \<-> fcc + gamma | bcc: Ga 0.232; fcc: Ga 0.19; gamma: Ga 0.295; γ: Ga 0.295 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 11 |  |
+| 895 | eutectoid: bcc \<-> hcp + gamma0 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 13 |  |
+| 893 | eutectoid: bcc \<-> fcc + gamma | bcc: Ga 0.232; fcc: Ga 0.19; gamma: Ga 0.295; γ: Ga 0.295 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 11 |  |
 | 893 | HCP_A3 + FCC_A1 + BCC_A2 |  | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 10 |  |
 | 893 | HCP_A3 + FCC_A1 + BCC_A2 |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 13 |  |
-| 892.5 | Peritectoid: bcc + fcc \<-> hcp | bcc: Ga 0.23; hcp: Ga 0.22 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 10 |  |
+| 892.5 | peritectoid: bcc + fcc \<-> hcp | bcc: Ga 0.23; hcp: Ga 0.22 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 10 |  |
 | 892 | HCP_A3 + FCC_A1 + BCC_A2 |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Hume-Rothery 1937_ | Table 4, p. 5, row 12 |  |
-| 891 | Eutectoid: bcc \<-> hcp + gamma0 | bcc: Ga 0.237; hcp: Ga 0.224; gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 14 |  |
+| 891 | eutectoid: bcc \<-> hcp + gamma0 | bcc: Ga 0.237; hcp: Ga 0.224; gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 14 |  |
 | 890 | HCP_A3 + BCC_A2 + GAMMA_DIS |  | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 15 |  |
-| 890 | Eutectoid: bcc \<-> hcp + gamma0 | bcc: Ga 0.239; hcp: Ga 0.226; gamma0: Ga 0.291 | model | [2] Li 2008 | Table 1, p. 2, row 12 |  |
+| 890 | eutectoid: bcc \<-> hcp + gamma0 | bcc: Ga 0.239; hcp: Ga 0.226; gamma0: Ga 0.291 | model | [2] Li 2008 | Table 1, p. 2, row 12 |  |
 | 890 | HCP_A3 + BCC_A2 + GAMMA_DIS |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Hume-Rothery 1937_ | Table 4, p. 5, row 16 |  |
 | 889 | HCP_A3 + BCC_A2 + GAMMA_DIS |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Betterton 1952_ | Table 4, p. 5, row 17 |  |
-| 889 | Eutectoid: bcc \<-> hcp + gamma0 | gamma0: Ga 0.287 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 15 |  |
+| 889 | eutectoid: bcc \<-> hcp + gamma0 | gamma0: Ga 0.287 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 15 |  |
 | 880 | HCP_A3 + BCC_A2 + GAMMA_DIS |  | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 14 |  |
-| 776 | Order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 17 |  |
-| 772.8 | Order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | model | [2] Li 2008 | Table 1, p. 2, row 16 |  |
+| 776 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 17 |  |
+| 772.8 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | model | [2] Li 2008 | Table 1, p. 2, row 16 |  |
 | 772 | GAMMA_DIS + GAMMA_ORD + HCP_A3 | GAMMA_ORD: Cu 0.5, Ga 0.5 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 19 |  |
 | 768 | GAMMA_DIS + GAMMA_ORD + HCP_A3 | GAMMA_ORD: Cu 0.5, Ga 0.5 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 18 |  |
-| 763 | Order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 18 |  |
+| 763 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 18 |  |
 | 763 | GAMMA_DIS + GAMMA_ORD + HCP_A3 | GAMMA_ORD: Cu 0.5, Ga 0.5 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Betterton 1952_ | Table 4, p. 5, row 20 |  |
 | 762 | GAMMA_ORD + GAMMA_2 + LIQUID | GAMMA_ORD: Cu 0.5, Ga 0.5; GAMMA_2: Cu 0.5, Ga 0.5 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 21 |  |
-| 762 | Eutectoid: gamma \<-> fcc + delta | gamma: Ga 0.29; fcc: Ga 0.195; delta: Ga 0.295; γ: Ga 0.29; δ: Ga 0.295 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 19 |  |
-| 759.6 | Peritectic: gamma1 + L \<-> gamma2 | gamma1: Ga 0.354; L: Ga 0.726; gamma2: Ga 0.366 | model | [2] Li 2008 | Table 1, p. 2, row 30 |  |
+| 762 | eutectoid: gamma \<-> fcc + delta | gamma: Ga 0.29; fcc: Ga 0.195; delta: Ga 0.295; γ: Ga 0.29; δ: Ga 0.295 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 19 |  |
+| 759.6 | peritectic: gamma1 + L \<-> gamma2 | gamma1: Ga 0.354; L: Ga 0.726; gamma2: Ga 0.366 | model | [2] Li 2008 | Table 1, p. 2, row 30 |  |
 | 759 | GAMMA_ORD + GAMMA_2 + LIQUID | GAMMA_ORD: Cu 0.5, Ga 0.5; GAMMA_2: Cu 0.5, Ga 0.5 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 22 |  |
 | 758 | GAMMA_ORD + GAMMA_2 + LIQUID | GAMMA_ORD: Cu 0.5, Ga 0.5; GAMMA_2: Cu 0.5, Ga 0.5 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Betterton 1952_ | Table 4, p. 5, row 24 |  |
-| 758 | Peritectic: gamma1 + L \<-> gamma2 | gamma1: Ga 0.374; gamma2: Ga 0.376 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 32 |  |
+| 758 | peritectic: gamma1 + L \<-> gamma2 | gamma1: Ga 0.374; gamma2: Ga 0.376 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 32 |  |
 | 756 | GAMMA_ORD + GAMMA_2 + LIQUID | GAMMA_ORD: Cu 0.5, Ga 0.5; GAMMA_2: Cu 0.5, Ga 0.5 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 23 |  |
-| 756 | Peritectic: gamma1 + L \<-> gamma2 | gamma1: Cu 0.5, Ga 0.5; gamma2: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 31 |  |
-| 753 | Peritectoid: hcp + fcc \<-> zeta' | hcp: Ga 0.22; zeta': Ga 0.213 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 26 |  |
-| 751 | Peritectic: gamma + L \<-> epsilon | gamma: Ga 0.374; L: Ga 0.722; epsilon: Ga 0.43; γ: Ga 0.374 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 33 |  |
+| 756 | peritectic: gamma1 + L \<-> gamma2 | gamma1: Cu 0.5, Ga 0.5; gamma2: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 31 |  |
+| 753 | peritectoid: hcp + fcc \<-> zeta' | hcp: Ga 0.22; zeta': Ga 0.213 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 26 |  |
+| 751 | peritectic: gamma + L \<-> epsilon | gamma: Ga 0.374; L: Ga 0.722; epsilon: Ga 0.43; γ: Ga 0.374 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 33 |  |
 | 751 | GAMMA_ORD + GAMMA_2 + LIQUID | GAMMA_ORD: Cu 0.5, Ga 0.5; GAMMA_2: Cu 0.5, Ga 0.5 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 25 |  |
-| 748 | Eutectoid: hcp \<-> gamma1 + zeta' | hcp: Ga 0.226; gamma1: Cu 0.5, Ga 0.5; zeta': Ga 0.2165 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 29 |  |
-| 745 | Peritectic: gamma2 + L \<-> gamma3 | gamma2: Ga 0.3672; L: Ga 0.756; gamma3: Ga 0.3775 | model | [2] Li 2008 | Table 1, p. 2, row 34 |  |
+| 748 | eutectoid: hcp \<-> gamma1 + zeta' | hcp: Ga 0.226; gamma1: Cu 0.5, Ga 0.5; zeta': Ga 0.2165 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 29 |  |
+| 745 | peritectic: gamma2 + L \<-> gamma3 | gamma2: Ga 0.3672; L: Ga 0.756; gamma3: Ga 0.3775 | model | [2] Li 2008 | Table 1, p. 2, row 34 |  |
 | 745 | GAMMA_2 + LIQUID + GAMMA_3 | GAMMA_2: Cu 0.5, Ga 0.5; GAMMA_3: Cu 0.5, Ga 0.5 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 27 |  |
 | 741 | GAMMA_2 + LIQUID + GAMMA_3 | GAMMA_2: Cu 0.5, Ga 0.5; GAMMA_3: Cu 0.5, Ga 0.5 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Betterton 1952_ | Table 4, p. 5, row 29 |  |
-| 741 | Peritectic: gamma2 + L \<-> gamma3 | gamma2: Cu 0.5, Ga 0.5; gamma3: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 35 |  |
+| 741 | peritectic: gamma2 + L \<-> gamma3 | gamma2: Cu 0.5, Ga 0.5; gamma3: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 35 |  |
 | 741 | GAMMA_2 + LIQUID + GAMMA_3 | GAMMA_2: Cu 0.5, Ga 0.5; GAMMA_3: Cu 0.5, Ga 0.5 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 28 |  |
-| 741 | Peritectic: gamma2 + L \<-> gamma3 | gamma2: Ga 0.377; gamma3: Ga 0.381 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 36 |  |
-| 740 | Isomeric transition: epsilon \<-> epsilon' | epsilon: Ga 0.741 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 37 |  |
+| 741 | peritectic: gamma2 + L \<-> gamma3 | gamma2: Ga 0.377; gamma3: Ga 0.381 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 36 |  |
+| 740 | other: epsilon \<-> epsilon' | epsilon: Ga 0.741 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 37 |  |
 | 740 | GAMMA_2 + LIQUID + GAMMA_3 | GAMMA_2: Cu 0.5, Ga 0.5; GAMMA_3: Cu 0.5, Ga 0.5 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 30 |  |
 | 739 | GAMMA_2 + LIQUID + GAMMA_3 | GAMMA_2: Cu 0.5, Ga 0.5; GAMMA_3: Cu 0.5, Ga 0.5 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 26 |  |
 | 598 | GAMMA_ORD + HCP_A3 + CU0778GA0222 | GAMMA_ORD: Cu 0.5, Ga 0.5; CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 31 |  |
 | 596 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 34 |  |
-| 595 | Peritectoid: hcp + gamma1 \<-> zeta' | hcp: Ga 0.205; gamma1: Cu 0.5, Ga 0.5; zeta': Ga 0.219 | experimental | [2] Li 2008; _cites Kittl 1964_ | Table 1, p. 2, row 28 |  |
+| 595 | peritectoid: hcp + gamma1 \<-> zeta' | hcp: Ga 0.205; gamma1: Cu 0.5, Ga 0.5; zeta': Ga 0.219 | experimental | [2] Li 2008; _cites Kittl 1964_ | Table 1, p. 2, row 28 |  |
 | 595 | GAMMA_ORD + HCP_A3 + CU0778GA0222 | GAMMA_ORD: Cu 0.5, Ga 0.5; CU0778GA0222: Cu 0.778, Ga 0.222 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Kittl 1965_ [doi](https://doi.org/10.1001/jama.1964.03060380116096) | Table 4, p. 5, row 33 |  |
-| 595 | Eutectoid: hcp \<-> fcc + zeta' | zeta': Ga 0.219 | experimental | [2] Li 2008; _cites Kittl 1964_ | Table 1, p. 2, row 25 |  |
+| 595 | eutectoid: hcp \<-> fcc + zeta' | zeta': Ga 0.219 | experimental | [2] Li 2008; _cites Kittl 1964_ | Table 1, p. 2, row 25 |  |
 | 595 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Kittl 1965_ [doi](https://doi.org/10.1001/jama.1964.03060380116096) | Table 4, p. 5, row 36 |  |
 | 593 | GAMMA_ORD + HCP_A3 + CU0778GA0222 | GAMMA_ORD: Cu 0.5, Ga 0.5; CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 32 |  |
-| 592 | Peritectoid: hcp + gamma1 \<-> zeta' | hcp: Ga 0.213; gamma1: Ga 0.296; zeta': Ga 0.00222 | model | [2] Li 2008 | Table 1, p. 2, row 27 |  |
+| 592 | peritectoid: hcp + gamma1 \<-> zeta' | hcp: Ga 0.213; gamma1: Ga 0.296; zeta': Ga 0.00222 | model | [2] Li 2008 | Table 1, p. 2, row 27 |  |
 | 591 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 35 |  |
-| 591 | Eutectoid: hcp \<-> fcc + zeta' | hcp: Ga 0.213; fcc: Ga 0.194; zeta': Ga 0.00222 | model | [2] Li 2008 | Table 1, p. 2, row 24 |  |
-| 532.6 | Peritectic: gamma3 + L \<-> CuGa2 | gamma3: Ga 0.43; L: Ga 0.948; CuGa2: Cu 0.333333, Ga 0.666667 | model | [2] Li 2008 | Table 1, p. 2, row 38 |  |
+| 591 | eutectoid: hcp \<-> fcc + zeta' | hcp: Ga 0.213; fcc: Ga 0.194; zeta': Ga 0.00222 | model | [2] Li 2008 | Table 1, p. 2, row 24 |  |
+| 532.6 | peritectic: gamma3 + L \<-> CuGa2 | gamma3: Ga 0.43; L: Ga 0.948; CuGa2: Cu 0.333333, Ga 0.666667 | model | [2] Li 2008 | Table 1, p. 2, row 38 |  |
 | 532 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 38 |  |
 | 532 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 39 |  |
-| 532 | Peritectic: gamma3 + L \<-> CuGa2 | gamma3: Cu 0.5, Ga 0.5; CuGa2: Cu 0.333333, Ga 0.666667 | experimental | [2] Li 2008 | Table 1, p. 2, row 39 |  |
-| 527 | Peritectic: gamma3 + L \<-> CuGa2 | gamma3: Ga 0.00426; CuGa2: Cu 0.333333, Ga 0.666667 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 41 |  |
+| 532 | peritectic: gamma3 + L \<-> CuGa2 | gamma3: Cu 0.5, Ga 0.5; CuGa2: Cu 0.333333, Ga 0.666667 | experimental | [2] Li 2008 | Table 1, p. 2, row 39 |  |
+| 527 | peritectic: gamma3 + L \<-> CuGa2 | gamma3: Ga 0.00426; CuGa2: Cu 0.333333, Ga 0.666667 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 41 |  |
 | 527 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Betterton 1952_ | Table 4, p. 5, row 41 |  |
 | 526 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 37 |  |
 | 522 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 40 |  |
-| 522 | Peritectic: gamma3 + L \<-> CuGa2 | gamma3: Cu 0.5, Ga 0.5; L: Ga 0.94; CuGa2: Ga 0.56 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 40 |  |
-| 302.7 | Eutectic: L \<-> CuGa2 + Ga | L: Ga 0.9986; CuGa2: Cu 0.333333, Ga 0.666667; Ga: Ga 1 | model | [2] Li 2008 | Table 1, p. 2, row 42 |  |
+| 522 | peritectic: gamma3 + L \<-> CuGa2 | gamma3: Cu 0.5, Ga 0.5; L: Ga 0.94; CuGa2: Ga 0.56 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 40 |  |
+| 302.7 | eutectic: L \<-> CuGa2 + Ga | L: Ga 0.9986; CuGa2: Cu 0.333333, Ga 0.666667; Ga: Ga 1 | model | [2] Li 2008 | Table 1, p. 2, row 42 |  |
 | 302 | LIQUID + CUGA2 + ORTHORHOMBIC_GA | CUGA2: Cu 0.333333, Ga 0.666667 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 42 |  |
-| 302 | Eutectic: L \<-> CuGa2 + Ga | L: Ga 0.99; CuGa2: Ga 0.56; Ga: Ga 1 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 43 |  |
+| 302 | eutectic: L \<-> CuGa2 + Ga | L: Ga 0.99; CuGa2: Ga 0.56; Ga: Ga 1 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 43 |  |
 | 302 | LIQUID + CUGA2 + ORTHORHOMBIC_GA | CUGA2: Cu 0.333333, Ga 0.666667 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 43 |  |
 | 302 | LIQUID + CUGA2 + ORTHORHOMBIC_GA | CUGA2: Cu 0.333333, Ga 0.666667 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 44 |  |
 

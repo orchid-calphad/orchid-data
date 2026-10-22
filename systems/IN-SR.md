@@ -89,8 +89,8 @@ Table: Phase transition, In–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 831 K | 831 | congruent | experimental | [1] Wang 2014 | p. 1 | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
-| Phase transition | 1203 K | 1203 | congruent | experimental | [1] Wang 2014 | p. 1 | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
+| Phase transition | 831 K | 831 | congruent transformation | experimental | [1] Wang 2014 | p. 1 | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
+| Phase transition | 1203 K | 1203 | congruent transformation | experimental | [1] Wang 2014 | p. 1 | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
 
 ## Sources
 

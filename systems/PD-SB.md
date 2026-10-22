@@ -68,28 +68,28 @@ Table: Invariant reactions reported in the literature for the Pd–Sb system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1402 | Peritectic: L + Pd3Sb → Pd5Sb2 | L: Sb 0.298; Pd3Sb: Sb 0.259; Pd5Sb2: Sb 0.286 | model | [1] Han 2010 | Table 1, p. 2, row 12 |  |
-| 1402 | Peritectic: L + Pd3Sb → Pd5Sb2 | L: Sb 0.3; Pd3Sb: Sb 0.27; Pd5Sb2: Sb 0.286 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 11 |  |
-| 1383 | Peritectoid: Pd3Sb + Pd5Sb2 → Pd8Sb3 | Pd3Sb: Sb 0.257; Pd5Sb2: Sb 0.285; Pd8Sb3: Sb 0.275 | model | [1] Han 2010 | Table 1, p. 2, row 10 |  |
-| 1383 | Peritectoid: Pd3Sb + Pd5Sb2 → Pd8Sb3 | Pd3Sb: Sb 0.267; Pd5Sb2: Sb 0.281; Pd8Sb3: Sb 0.275 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 9 |  |
-| 1320 | Eutectic: L→ Fcc+Pd3Sb | L: Sb 0.216; Fcc: Sb 0.167; Pd3Sb: Sb 0.25 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 1 |  |
-| 1317 | Eutectic: L→ Fcc+Pd3Sb | L: Sb 0.202; Fcc: Sb 0.157; Pd3Sb: Sb 0.25 | model | [1] Han 2010 | Table 1, p. 2, row 2 |  |
-| 1221 | Peritectoid: Pd3Sb + Pd8Sb3 → Pd20Sb7 | Pd3Sb: Sb 0.255; Pd8Sb3: Sb 0.273; Pd20Sb7: Sb 0.259 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 7 |  |
-| 1221 | Peritectoid: Pd3Sb + Pd8Sb3 → Pd20Sb7 | Pd3Sb: Sb 0.25; Pd8Sb3: Sb 0.273; Pd20Sb7: Sb 0.259 | model | [1] Han 2010 | Table 1, p. 2, row 8 |  |
-| 1213 | Eutectoid: Pd3Sb → fcc + Pd20Sb7 | Pd3Sb: Sb 0.254; fcc: Sb 0.163; Pd20Sb7: Sb 0.259 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 5 |  |
-| 1213 | Eutectoid: Pd3Sb → fcc + Pd20Sb7 | Pd3Sb: Sb 0.25; fcc: Sb 0.167; Pd20Sb7: Sb 0.259 | model | [1] Han 2010 | Table 1, p. 2, row 6 |  |
-| 1111 | Peritectic: L + Pd5Sb2 → Pd5Sb3 | L: Sb 0.364; Pd5Sb2: Sb 0.286; Pd5Sb3: Sb 0.345 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 13 |  |
-| 1109 | Peritectic: L + Pd5Sb2 → Pd5Sb3 | L: Sb 0.387; Pd5Sb2: Sb 0.286; Pd5Sb3: Sb 0.353 | model | [1] Han 2010 | Table 1, p. 2, row 14 |  |
-| 1003 | Eutectic: L + Pd5Sb3 → PdSb | L: Sb 0.425; Pd5Sb3: Sb 0.376; PdSb: Sb 0.5 | model | [1] Han 2010 | Table 1, p. 2, row 20 |  |
-| 996 | Eutectic: L + Pd5Sb3 → PdSb | L: Sb 0.42; Pd5Sb3: Sb 0.385; PdSb: Sb 0.5 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 19 |  |
-| 951 | Eutectic: L→ PdSb + Pd2Sb | L: Sb 0.666; PdSb: Sb 0.508; Pd2Sb: Sb 0.667 | experimental | [1] Han 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02665777) | Table 1, p. 2, row 23 |  |
-| 942 | Eutectic: L→ PdSb + Pd2Sb | L: Sb 0.624; PdSb: Sb 0.5; Pd2Sb: Sb 0.667 | model | [1] Han 2010 | Table 1, p. 2, row 24 |  |
-| 865 | Eutectic: L→ PdSb + (Sb) | L: Sb 0.853; PdSb: Sb 0.667; (Sb): Sb 1 | model | [1] Han 2010 | Table 1, p. 2, row 28 |  |
-| 865 | Peritectoid: Pd5Sb2 + Pd5Sb3 → Pd2Sb | Pd5Sb2: Sb 0.286; Pd5Sb3: Sb 0.362; Pd2Sb: Sb 0.333 | model | [1] Han 2010 | Table 1, p. 2, row 16 |  |
-| 864 | Peritectoid: Pd5Sb2 + Pd5Sb3 → Pd2Sb | Pd5Sb2: Sb 0.286; Pd5Sb3: Sb 0.344; Pd2Sb: Sb 0.333 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 15 |  |
-| 860 | Eutectic: L→ PdSb + (Sb) | L: Sb 0.88; PdSb: Sb 0.667; (Sb): Sb 1 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 27 |  |
-| 849 | Eutectoid: Pd5Sb3 → Pd2Sb + PdSb | Pd5Sb3: Sb 0.345; Pd2Sb: Sb 0.333; PdSb: Sb 0.5 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 17 |  |
-| 848 | Eutectoid: Pd5Sb3 → Pd2Sb + PdSb | Pd5Sb3: Sb 0.362; Pd2Sb: Sb 0.333; PdSb: Sb 0.5 | model | [1] Han 2010 | Table 1, p. 2, row 18 |  |
+| 1402 | peritectic: L + Pd3Sb → Pd5Sb2 | L: Sb 0.298; Pd3Sb: Sb 0.259; Pd5Sb2: Sb 0.286 | model | [1] Han 2010 | Table 1, p. 2, row 12 |  |
+| 1402 | peritectic: L + Pd3Sb → Pd5Sb2 | L: Sb 0.3; Pd3Sb: Sb 0.27; Pd5Sb2: Sb 0.286 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 11 |  |
+| 1383 | peritectoid: Pd3Sb + Pd5Sb2 → Pd8Sb3 | Pd3Sb: Sb 0.257; Pd5Sb2: Sb 0.285; Pd8Sb3: Sb 0.275 | model | [1] Han 2010 | Table 1, p. 2, row 10 |  |
+| 1383 | peritectoid: Pd3Sb + Pd5Sb2 → Pd8Sb3 | Pd3Sb: Sb 0.267; Pd5Sb2: Sb 0.281; Pd8Sb3: Sb 0.275 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 9 |  |
+| 1320 | eutectic: L→ Fcc+Pd3Sb | L: Sb 0.216; Fcc: Sb 0.167; Pd3Sb: Sb 0.25 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 1 |  |
+| 1317 | eutectic: L→ Fcc+Pd3Sb | L: Sb 0.202; Fcc: Sb 0.157; Pd3Sb: Sb 0.25 | model | [1] Han 2010 | Table 1, p. 2, row 2 |  |
+| 1221 | peritectoid: Pd3Sb + Pd8Sb3 → Pd20Sb7 | Pd3Sb: Sb 0.255; Pd8Sb3: Sb 0.273; Pd20Sb7: Sb 0.259 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 7 |  |
+| 1221 | peritectoid: Pd3Sb + Pd8Sb3 → Pd20Sb7 | Pd3Sb: Sb 0.25; Pd8Sb3: Sb 0.273; Pd20Sb7: Sb 0.259 | model | [1] Han 2010 | Table 1, p. 2, row 8 |  |
+| 1213 | eutectoid: Pd3Sb → fcc + Pd20Sb7 | Pd3Sb: Sb 0.254; fcc: Sb 0.163; Pd20Sb7: Sb 0.259 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 5 |  |
+| 1213 | eutectoid: Pd3Sb → fcc + Pd20Sb7 | Pd3Sb: Sb 0.25; fcc: Sb 0.167; Pd20Sb7: Sb 0.259 | model | [1] Han 2010 | Table 1, p. 2, row 6 |  |
+| 1111 | peritectic: L + Pd5Sb2 → Pd5Sb3 | L: Sb 0.364; Pd5Sb2: Sb 0.286; Pd5Sb3: Sb 0.345 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 13 |  |
+| 1109 | peritectic: L + Pd5Sb2 → Pd5Sb3 | L: Sb 0.387; Pd5Sb2: Sb 0.286; Pd5Sb3: Sb 0.353 | model | [1] Han 2010 | Table 1, p. 2, row 14 |  |
+| 1003 | eutectic: L + Pd5Sb3 → PdSb | L: Sb 0.425; Pd5Sb3: Sb 0.376; PdSb: Sb 0.5 | model | [1] Han 2010 | Table 1, p. 2, row 20 |  |
+| 996 | eutectic: L + Pd5Sb3 → PdSb | L: Sb 0.42; Pd5Sb3: Sb 0.385; PdSb: Sb 0.5 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 19 |  |
+| 951 | eutectic: L→ PdSb + Pd2Sb | L: Sb 0.666; PdSb: Sb 0.508; Pd2Sb: Sb 0.667 | experimental | [1] Han 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02665777) | Table 1, p. 2, row 23 |  |
+| 942 | eutectic: L→ PdSb + Pd2Sb | L: Sb 0.624; PdSb: Sb 0.5; Pd2Sb: Sb 0.667 | model | [1] Han 2010 | Table 1, p. 2, row 24 |  |
+| 865 | eutectic: L→ PdSb + (Sb) | L: Sb 0.853; PdSb: Sb 0.667; (Sb): Sb 1 | model | [1] Han 2010 | Table 1, p. 2, row 28 |  |
+| 865 | peritectoid: Pd5Sb2 + Pd5Sb3 → Pd2Sb | Pd5Sb2: Sb 0.286; Pd5Sb3: Sb 0.362; Pd2Sb: Sb 0.333 | model | [1] Han 2010 | Table 1, p. 2, row 16 |  |
+| 864 | peritectoid: Pd5Sb2 + Pd5Sb3 → Pd2Sb | Pd5Sb2: Sb 0.286; Pd5Sb3: Sb 0.344; Pd2Sb: Sb 0.333 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 15 |  |
+| 860 | eutectic: L→ PdSb + (Sb) | L: Sb 0.88; PdSb: Sb 0.667; (Sb): Sb 1 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 27 |  |
+| 849 | eutectoid: Pd5Sb3 → Pd2Sb + PdSb | Pd5Sb3: Sb 0.345; Pd2Sb: Sb 0.333; PdSb: Sb 0.5 | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 17 |  |
+| 848 | eutectoid: Pd5Sb3 → Pd2Sb + PdSb | Pd5Sb3: Sb 0.362; Pd2Sb: Sb 0.333; PdSb: Sb 0.5 | model | [1] Han 2010 | Table 1, p. 2, row 18 |  |
 
 ## Other properties
 
@@ -99,13 +99,13 @@ Table: Phase transition, Pd–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 951 K | 951 | Congruent: L→ PdSb2; _L: Sb 0.667; PdSb2: Sb 0.667_ | experimental | [1] Han 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02665777) | Table 1, p. 2, row 25 |  |
-| Phase transition | 952 K | 952 | Congruent: L→ PdSb2; _L: Sb 0.667; PdSb2: Sb 0.667_ | model | [1] Han 2010 | Table 1, p. 2, row 26 |  |
-| Phase transition | 1067 K | 1067 | Congruent: L→ PdSb; _L: Sb 0.5; PdSb: Sb 0.5_ | model | [1] Han 2010 | Table 1, p. 2, row 22 |  |
-| Phase transition | 1067 K | 1067 | Congruent: L→ PdSb; _L: Sb 0.5; PdSb: Sb 0.5_ | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 21 |  |
+| Phase transition | 951 K | 951 | congruent melting: L→ PdSb2; _L: Sb 0.667; PdSb2: Sb 0.667_ | experimental | [1] Han 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02665777) | Table 1, p. 2, row 25 |  |
+| Phase transition | 952 K | 952 | congruent melting: L→ PdSb2; _L: Sb 0.667; PdSb2: Sb 0.667_ | model | [1] Han 2010 | Table 1, p. 2, row 26 |  |
+| Phase transition | 1067 K | 1067 | congruent melting: L→ PdSb; _L: Sb 0.5; PdSb: Sb 0.5_ | model | [1] Han 2010 | Table 1, p. 2, row 22 |  |
+| Phase transition | 1067 K | 1067 | congruent melting: L→ PdSb; _L: Sb 0.5; PdSb: Sb 0.5_ | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 21 |  |
 | Phase transition | 1320 K | 1320 | other | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | p. 1 | “The maximum solid solubility of antimony was reported to be xSb = 0.167 at 1320 K.” |
-| Phase transition | 1479 K | 1479 | Congruent: L→ Pd3Sb; _L: Sb 0.264; Pd3Sb: Sb 0.264_ | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 3 |  |
-| Phase transition | 1480 K | 1480 | Congruent: L→ Pd3Sb; _L: Sb 0.25; Pd3Sb: Sb 0.25_ | model | [1] Han 2010 | Table 1, p. 2, row 4 |  |
+| Phase transition | 1479 K | 1479 | congruent melting: L→ Pd3Sb; _L: Sb 0.264; Pd3Sb: Sb 0.264_ | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 3 |  |
+| Phase transition | 1480 K | 1480 | congruent melting: L→ Pd3Sb; _L: Sb 0.25; Pd3Sb: Sb 0.25_ | model | [1] Han 2010 | Table 1, p. 2, row 4 |  |
 
 ## Sources
 

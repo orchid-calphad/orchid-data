@@ -71,7 +71,7 @@ Table: Phase transition, Co–Pt system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 822 K | 822 | Co3Pt | model | [1] Kim 2011 | p. 5 | “Co3 Pt is predicted to be stable up to about 822 K.” |
-| Phase transition | 840 K | 840 | congruent | experimental | [1] Kim 2011; _cites Inden 1983_ | p. 5 | “This behavior is similar to that measured by Inden \[25\] with a congruent temperature of approximately 840 K.” |
+| Phase transition | 840 K | 840 | congruent transformation | experimental | [1] Kim 2011; _cites Inden 1983_ | p. 5 | “This behavior is similar to that measured by Inden \[25\] with a congruent temperature of approximately 840 K.” |
 | Phase transition | 1104 K | 1104 | other | experimental | [1] Kim 2011 | p. 6 | “The calculated LRO parameter for L10 according to Eq. (12) is plotted in Fig. 9 along with the experimental data \[24\] with the temperature normalized by the order/disorder transition temperature of the L10 CoPt phase of 1104 K, showing a good agreement.” |
 
 ### Mixing / partial (1)
@@ -80,7 +80,7 @@ Table: Mixing / partial, Co–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -8651 J/mol-atom | 300 | Co3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011 | Table 2, p. 3, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -8.651 kJ/mol-atom | 300 | Co3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011 | Table 2, p. 3, row 17 |  |
 
 ### Crystal structure (10)
 

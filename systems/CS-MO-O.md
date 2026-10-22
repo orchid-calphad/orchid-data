@@ -31,32 +31,32 @@ Table: Invariant reactions reported in the literature for the Cs–Mo–O system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 848 | P: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Spitsyn 1951_ | Table 7, p. 7, row 47 |  |
-| 846 | P: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 48 |  |
-| 837 | P: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 49 |  |
-| 836.2 | P: Cs2Mo7O22 = MoO3 + Liq |  | model | [1] Smith 2021 | Table 7, p. 7, row 45 |  |
-| 836 | Peritectic: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 53 |  |
-| 835 | P: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 46 |  |
-| 823 | P: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 43 |  |
-| 818 | P: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 44 |  |
-| 813 | Peritectic: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 52 |  |
-| 810 | P: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 42 |  |
-| 808.7 | P: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | model | [1] Smith 2021 | Table 7, p. 7, row 41 |  |
-| 798 | E: Liq. = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 33 |  |
-| 797 | Peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 38 |  |
-| 796 | E: Liq. = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Spitsyn 1951_ | Table 7, p. 7, row 34 |  |
-| 793.2 | E: Liq. = Cs2Mo3O10 + Cs2Mo5O16 |  | model | [1] Smith 2021 | Table 7, p. 7, row 32 |  |
-| 792 | E: Liq. = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 35 |  |
-| 787 | Peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 40 |  |
-| 783.9 | Peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | model | [1] Smith 2021 | Table 7, p. 7, row 36 |  |
-| 781 | Peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 39 |  |
-| 776 | Peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 37 |  |
-| 736 | E: Liq. = β-Cs2Mo2O7 + Cs2Mo3O10 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 26 |  |
-| 736 | E: Liq. = β-Cs2Mo2O7 + Cs2Mo3O10 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 25 |  |
-| 733 | E: Liq. = α-Cs2MoO4 + β-Cs2Mo2O7 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 14 |  |
-| 732.5 | E: Liq. = β-Cs2Mo2O7 + Cs2Mo3O10 |  | model | [1] Smith 2021 | Table 7, p. 7, row 24 |  |
-| 732.2 | E: Liq. = α-Cs2MoO4 + β-Cs2Mo2O7 |  | model | [1] Smith 2021 | Table 7, p. 7, row 12 |  |
-| 731 | E: Liq. = α-Cs2MoO4 + β-Cs2Mo2O7 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 13 |  |
+| 848 | peritectic: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Spitsyn 1951_ | Table 7, p. 7, row 47 |  |
+| 846 | peritectic: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 48 |  |
+| 837 | peritectic: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 49 |  |
+| 836.2 | peritectic: Cs2Mo7O22 = MoO3 + Liq |  | model | [1] Smith 2021 | Table 7, p. 7, row 45 |  |
+| 836 | peritectic: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 53 |  |
+| 835 | peritectic: Cs2Mo7O22 = MoO3 + Liq |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 46 |  |
+| 823 | peritectic: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 43 |  |
+| 818 | peritectic: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 44 |  |
+| 813 | peritectic: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 52 |  |
+| 810 | peritectic: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 42 |  |
+| 808.7 | peritectic: Cs2Mo5O16 = Cs2Mo7O22 + Liq. |  | model | [1] Smith 2021 | Table 7, p. 7, row 41 |  |
+| 798 | eutectic: Liq. = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 33 |  |
+| 797 | peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 38 |  |
+| 796 | eutectic: Liq. = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Spitsyn 1951_ | Table 7, p. 7, row 34 |  |
+| 793.2 | eutectic: Liq. = Cs2Mo3O10 + Cs2Mo5O16 |  | model | [1] Smith 2021 | Table 7, p. 7, row 32 |  |
+| 792 | eutectic: Liq. = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 35 |  |
+| 787 | peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 40 |  |
+| 783.9 | peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | model | [1] Smith 2021 | Table 7, p. 7, row 36 |  |
+| 781 | peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 7, p. 7, row 39 |  |
+| 776 | peritectoid: Cs2Mo4O13 = Cs2Mo3O10 + Cs2Mo5O16 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 37 |  |
+| 736 | eutectic: Liq. = β-Cs2Mo2O7 + Cs2Mo3O10 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 26 |  |
+| 736 | eutectic: Liq. = β-Cs2Mo2O7 + Cs2Mo3O10 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 25 |  |
+| 733 | eutectic: Liq. = α-Cs2MoO4 + β-Cs2Mo2O7 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | Table 7, p. 7, row 14 |  |
+| 732.5 | eutectic: Liq. = β-Cs2Mo2O7 + Cs2Mo3O10 |  | model | [1] Smith 2021 | Table 7, p. 7, row 24 |  |
+| 732.2 | eutectic: Liq. = α-Cs2MoO4 + β-Cs2Mo2O7 |  | model | [1] Smith 2021 | Table 7, p. 7, row 12 |  |
+| 731 | eutectic: Liq. = α-Cs2MoO4 + β-Cs2Mo2O7 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | Table 7, p. 7, row 13 |  |
 
 ## Formation enthalpies
 

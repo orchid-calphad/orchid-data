@@ -1,10 +1,10 @@
 # Ga–Gd system
 
-> Ga–Gd system: 101 accepted literature values (invariant reaction 52, formation 35, phase transition 14) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Gd system: 84 accepted literature values (invariant reaction 52, formation 18, phase transition 14) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-GD.html · Markdown: https://data.orchid-project.org/systems/GA-GD.md
 
-101 accepted literature values from 3 paper(s) (experimental 51, model 50); 3 calculated phase diagram(s).
+84 accepted literature values from 3 paper(s) (experimental 49, model 35); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-GD.json) · [CSV](https://data.orchid-project.org/systems/GA-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-GD/GaGd-19Liu.json) · [Markdown](https://data.orchid-project.org/systems/GA-GD.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 51 |
-| model | 50 |
+| experimental | 49 |
+| model | 35 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 52 |
 | phase transition | 14 |
-| formation | 35 |
+| formation | 18 |
 
 ## Calculated phase diagrams
 
@@ -86,49 +86,49 @@ Table: Invariant reactions reported in the literature for the Ga–Gd system (52
 | 1673 | liq. → Ga2Gd | liq.: Gd 0.3333; Ga2Gd: Ga 0.666667, Gd 0.333333 | experimental | [1] Liu 2019; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990171-5) | Table 3, p. 7, row 10 |  |
 | 1673 | liq. → Ga2Gd | liq.: Gd 0.3333; Ga2Gd: Ga 0.666667, Gd 0.333333 | experimental | [1] Liu 2019; _cites Yatsenko 1972_ | Table 3, p. 7, row 9 |  |
 | 1535 | liq. + bcc → hcp(Gd) | liq.: Gd 0.9795; bcc: Gd 1; hcp(Gd): Gd 1 | model | [1] Liu 2019 | Table 3, p. 7, row 1 |  |
-| 1508.15 | Catatectic: Liq + (αGd) \<=> (βGd) | Liq: Gd 0.95 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 27 |  |
-| 1508.15 | Catatectic: Liq + (αGd) \<=> (βGd) | Liq: Gd 0.97 | model | [2] Boukideur 2020 | Table 3, p. 4, row 26 |  |
+| 1508.15 | metatectic/catatectic: Liq + (αGd) \<=> (βGd) | Liq: Gd 0.95 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 27 |  |
+| 1508.15 | metatectic/catatectic: Liq + (αGd) \<=> (βGd) | Liq: Gd 0.97 | model | [2] Boukideur 2020 | Table 3, p. 4, row 26 |  |
 | 1508 | liq. + bcc → hcp(Gd) | bcc: Gd 1; hcp(Gd): Gd 1 | experimental | [1] Liu 2019; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 7, row 2 |  |
 | 1473 | liq. + Ga2Gd → GaGd | Ga2Gd: Ga 0.666667, Gd 0.333333; GaGd: Ga 0.5, Gd 0.5 | experimental | [1] Liu 2019; _cites Yatsenko 1972_ | Table 3, p. 7, row 5 |  |
-| 1468.15 | Peritectic: Liq + Ga2Gd \<=> GaGd | Liq: Gd 0.55; Ga2Gd: Gd 0.333333; GaGd: Gd 0.5 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 16 |  |
+| 1468.15 | peritectic: Liq + Ga2Gd \<=> GaGd | Liq: Gd 0.55; Ga2Gd: Gd 0.333333; GaGd: Gd 0.5 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 16 |  |
 | 1468 | liq. + Ga2Gd → GaGd | liq.: Gd 0.5225; Ga2Gd: Gd 0.3333; GaGd: Gd 0.5 | model | [1] Liu 2019 | Table 3, p. 7, row 3 |  |
 | 1468 | liq. + Ga2Gd → GaGd | liq.: Gd 0.55; Ga2Gd: Gd 0.3333; GaGd: Gd 0.5 | experimental | [1] Liu 2019; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 7, row 4 |  |
-| 1463.15 | Peritectic: Liq + Ga2Gd \<=> GaGd | Liq: Gd 0.54; Ga2Gd: Gd 0.333333; GaGd: Gd 0.5 | model | [2] Boukideur 2020 | Table 3, p. 4, row 14 |  |
-| 1463.15 | Peritectic: Liq + Ga2Gd \<=> GaGd | Liq: Gd 0.56; Ga2Gd: Gd 0.333333; GaGd: Gd 0.5 | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 15 |  |
+| 1463.15 | peritectic: Liq + Ga2Gd \<=> GaGd | Liq: Gd 0.54; Ga2Gd: Gd 0.333333; GaGd: Gd 0.5 | model | [2] Boukideur 2020 | Table 3, p. 4, row 14 |  |
+| 1463.15 | peritectic: Liq + Ga2Gd \<=> GaGd | Liq: Gd 0.56; Ga2Gd: Gd 0.333333; GaGd: Gd 0.5 | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 15 |  |
 | 1463 | liq. + Ga2Gd → GaGd | Ga2Gd: Ga 0.666667, Gd 0.333333; GaGd: Ga 0.5, Gd 0.5 | experimental | [1] Liu 2019; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990171-5) | Table 3, p. 7, row 6 |  |
 | 1463 | liq. + Ga2Gd → GaGd | Ga2Gd: Ga 0.666667, Gd 0.333333; GaGd: Ga 0.5, Gd 0.5 | experimental | [1] Liu 2019; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 7, row 7 |  |
 | 1393 | liq. + GaGd → Ga2Gd3 | GaGd: Ga 0.5, Gd 0.5; Ga2Gd3: Ga 0.4, Gd 0.6 | experimental | [1] Liu 2019; _cites Yatsenko 1972_ | Table 3, p. 7, row 14 |  |
-| 1383.15 | Peritectic: Liq + GaGd \<=> Ga2Gd3 | Liq: Gd 0.615; GaGd: Gd 0.5; Ga2Gd3: Gd 0.6 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 19 |  |
+| 1383.15 | peritectic: Liq + GaGd \<=> Ga2Gd3 | Liq: Gd 0.615; GaGd: Gd 0.5; Ga2Gd3: Gd 0.6 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 19 |  |
 | 1383 | liq. + GaGd → Ga2Gd3 | liq.: Gd 0.634; GaGd: Gd 0.5; Ga2Gd3: Gd 0.6 | model | [1] Liu 2019 | Table 3, p. 7, row 12 |  |
 | 1383 | liq. + GaGd → Ga2Gd3 | liq.: Gd 0.615; GaGd: Gd 0.5; Ga2Gd3: Gd 0.6 | experimental | [1] Liu 2019; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 7, row 13 |  |
-| 1373.15 | Peritectic: Liq + GaGd \<=> Ga2Gd3 | Liq: Gd 0.66; GaGd: Gd 0.5; Ga2Gd3: Gd 0.6 | model | [2] Boukideur 2020 | Table 3, p. 4, row 17 |  |
-| 1373.15 | Peritectic: Liq + GaGd \<=> Ga2Gd3 | Liq: Gd 0.64; GaGd: Gd 0.5; Ga2Gd3: Gd 0.6 | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 18 |  |
+| 1373.15 | peritectic: Liq + GaGd \<=> Ga2Gd3 | Liq: Gd 0.66; GaGd: Gd 0.5; Ga2Gd3: Gd 0.6 | model | [2] Boukideur 2020 | Table 3, p. 4, row 17 |  |
+| 1373.15 | peritectic: Liq + GaGd \<=> Ga2Gd3 | Liq: Gd 0.64; GaGd: Gd 0.5; Ga2Gd3: Gd 0.6 | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 18 |  |
 | 1373 | liq. + GaGd → Ga2Gd3 | GaGd: Ga 0.5, Gd 0.5; Ga2Gd3: Ga 0.4, Gd 0.6 | experimental | [1] Liu 2019; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 7, row 15 |  |
 | 1373 | liq. + Ga2Gd3 → Ga3Gd5 | Ga2Gd3: Ga 0.4, Gd 0.6; Ga3Gd5: Ga 0.375, Gd 0.625 | experimental | [1] Liu 2019; _cites Yatsenko 1972_ | Table 3, p. 7, row 19 |  |
-| 1363.15 | Peritectic: Liq + Ga2Gd3 \<=> Ga3Gd5 | Liq: Gd 0.64; Ga2Gd3: Gd 0.6; Ga3Gd5: Gd 0.625 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 22 |  |
+| 1363.15 | peritectic: Liq + Ga2Gd3 \<=> Ga3Gd5 | Liq: Gd 0.64; Ga2Gd3: Gd 0.6; Ga3Gd5: Gd 0.625 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 22 |  |
 | 1363 | liq. + Ga2Gd3 → Ga3Gd5 | liq.: Gd 0.64; Ga2Gd3: Gd 0.6; Ga3Gd5: Gd 0.625 | experimental | [1] Liu 2019; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 7, row 18 |  |
-| 1353.15 | Peritectic: Liq + Ga2Gd3 \<=> Ga3Gd5 | Liq: Gd 0.666; Ga2Gd3: Gd 0.6; Ga3Gd5: Gd 0.625 | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 21 |  |
-| 1353.15 | Peritectic: Liq + Ga2Gd3 \<=> Ga3Gd5 | Liq: Gd 0.69; Ga2Gd3: Gd 0.6; Ga3Gd5: Gd 0.625 | model | [2] Boukideur 2020 | Table 3, p. 4, row 20 |  |
+| 1353.15 | peritectic: Liq + Ga2Gd3 \<=> Ga3Gd5 | Liq: Gd 0.666; Ga2Gd3: Gd 0.6; Ga3Gd5: Gd 0.625 | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 21 |  |
+| 1353.15 | peritectic: Liq + Ga2Gd3 \<=> Ga3Gd5 | Liq: Gd 0.69; Ga2Gd3: Gd 0.6; Ga3Gd5: Gd 0.625 | model | [2] Boukideur 2020 | Table 3, p. 4, row 20 |  |
 | 1352 | liq. + Ga2Gd3 → Ga3Gd5 | Ga2Gd3: Ga 0.4, Gd 0.6; Ga3Gd5: Ga 0.375, Gd 0.625 | experimental | [1] Liu 2019; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 7, row 20 |  |
 | 1283 | liq. + Ga2Gd3 → Ga3Gd5 | Ga2Gd3: Ga 0.4, Gd 0.6; Ga3Gd5: Ga 0.375, Gd 0.625 | experimental | [1] Liu 2019; _cites Predel 1996_ | Table 3, p. 7, row 17 |  |
 | 1283 | liq. + Ga2Gd3 → Ga3Gd5 | liq.: Gd 0.7465; Ga2Gd3: Gd 0.6; Ga3Gd5: Gd 0.625 | model | [1] Liu 2019 | Table 3, p. 7, row 16 |  |
-| 1123.15 | Eutectic: Liq \<=> Ga3Gd5 + (αGd) | Liq: Gd 0.8; Ga3Gd5: Gd 0.625 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 25 |  |
+| 1123.15 | eutectic: Liq \<=> Ga3Gd5 + (αGd) | Liq: Gd 0.8; Ga3Gd5: Gd 0.625 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 25 |  |
 | 1123 | liq. → hcp + Ga3Gd5 | liq.: Gd 0.8; hcp: Gd 1; Ga3Gd5: Gd 0.625 | experimental | [1] Liu 2019; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 7, row 23 |  |
 | 1123 | liq. → hcp + Ga3Gd5 | Ga3Gd5: Ga 0.375, Gd 0.625 | experimental | [1] Liu 2019; _cites Yatsenko 1972_ | Table 3, p. 7, row 22 |  |
-| 1118.15 | Eutectic: Liq \<=> Ga3Gd5 + (αGd) | Liq: Gd 0.797; Ga3Gd5: Gd 0.625 | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 24 |  |
-| 1118.15 | Eutectic: Liq \<=> Ga3Gd5 + (αGd) | Liq: Gd 0.83; Ga3Gd5: Gd 0.625 | model | [2] Boukideur 2020 | Table 3, p. 4, row 23 |  |
+| 1118.15 | eutectic: Liq \<=> Ga3Gd5 + (αGd) | Liq: Gd 0.797; Ga3Gd5: Gd 0.625 | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 24 |  |
+| 1118.15 | eutectic: Liq \<=> Ga3Gd5 + (αGd) | Liq: Gd 0.83; Ga3Gd5: Gd 0.625 | model | [2] Boukideur 2020 | Table 3, p. 4, row 23 |  |
 | 1118 | liq. → hcp + Ga3Gd5 | Ga3Gd5: Ga 0.375, Gd 0.625 | experimental | [1] Liu 2019; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 7, row 24 |  |
 | 1114 | liq. → hcp + Ga3Gd5 | liq.: Gd 0.8479; hcp: Gd 1; Ga3Gd5: Gd 0.625 | model | [1] Liu 2019 | Table 3, p. 7, row 21 |  |
-| 679.15 | Peritectic: Liq + Ga2Gd \<=> Ga6Gd | Liq: Gd 0.004; Ga2Gd: Gd 0.333333; Ga6Gd: Gd 0.142857 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 9 |  |
+| 679.15 | peritectic: Liq + Ga2Gd \<=> Ga6Gd | Liq: Gd 0.004; Ga2Gd: Gd 0.333333; Ga6Gd: Gd 0.142857 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 9 |  |
 | 679 | liq. + Ga2Gd → Ga6Gd | liq.: Gd 6.000e-4; Ga2Gd: Gd 0.1964; Ga6Gd: Gd 0.1429 | model | [1] Liu 2019 | Table 3, p. 7, row 25 |  |
 | 679 | liq. + Ga2Gd → Ga6Gd | liq.: Gd 0.4; Ga2Gd: Gd 0.22; Ga6Gd: Gd 0.143 | experimental | [1] Liu 2019; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 7, row 27 |  |
 | 679 | liq. + Ga2Gd → Ga6Gd | Ga2Gd: Ga 0.666667, Gd 0.333333; Ga6Gd: Ga 0.857143, Gd 0.142857 | experimental | [1] Liu 2019; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990171-5) | Table 3, p. 7, row 26 |  |
-| 652.15 | Peritectic: Liq + Ga2Gd \<=> Ga6Gd | Liq: Gd 0.005; Ga2Gd: Gd 0.333333; Ga6Gd: Gd 0.142857 | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 8 |  |
-| 652.15 | Peritectic: Liq + Ga2Gd \<=> Ga6Gd | Liq: Gd 0.007; Ga2Gd: Gd 0.333333; Ga6Gd: Gd 0.142857 | model | [2] Boukideur 2020 | Table 3, p. 4, row 7 |  |
+| 652.15 | peritectic: Liq + Ga2Gd \<=> Ga6Gd | Liq: Gd 0.005; Ga2Gd: Gd 0.333333; Ga6Gd: Gd 0.142857 | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 8 |  |
+| 652.15 | peritectic: Liq + Ga2Gd \<=> Ga6Gd | Liq: Gd 0.007; Ga2Gd: Gd 0.333333; Ga6Gd: Gd 0.142857 | model | [2] Boukideur 2020 | Table 3, p. 4, row 7 |  |
 | 652 | peritectic |  | experimental | [3] Tamim 2023 | p. 5 | “By using different combined methods like X-ray diffraction, thermal analysis and metallography, these authors found a Ga6Gd intermetallic compound, previously unknown, which formed peritectically at 652 ± 4K.” |
-| 573.15 | Eutectic: Liq + (αGa) \<=> Ga6Gd | (αGa): Gd 0.001; Ga6Gd: Gd 0.142857 | model | [2] Boukideur 2020 | Table 3, p. 4, row 4 |  |
-| 573.15 | Eutectic: Liq + (αGa) \<=> Ga6Gd | (αGa): Gd 0.001; Ga6Gd: Gd 0.142857 | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 5 |  |
-| 573.15 | Eutectic: Liq + (αGa) \<=> Ga6Gd | (αGa): Gd 0.001; Ga6Gd: Gd 0.142857 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 6 |  |
+| 573.15 | eutectic: Liq + (αGa) \<=> Ga6Gd | (αGa): Gd 0.001; Ga6Gd: Gd 0.142857 | model | [2] Boukideur 2020 | Table 3, p. 4, row 4 |  |
+| 573.15 | eutectic: Liq + (αGa) \<=> Ga6Gd | (αGa): Gd 0.001; Ga6Gd: Gd 0.142857 | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 5 |  |
+| 573.15 | eutectic: Liq + (αGa) \<=> Ga6Gd | (αGa): Gd 0.001; Ga6Gd: Gd 0.142857 | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 6 |  |
 | 303 | liq. + Ga6Gd → orth. | liq.: Gd 0; Ga6Gd: Gd 0.1429; orth.: Gd 0 | model | [1] Liu 2019 | Table 3, p. 7, row 28 |  |
 | 303 | liq. + Ga6Gd → orth. | Ga6Gd: Ga 0.857143, Gd 0.142857 | experimental | [1] Liu 2019; _cites Yatsenko 1972_ | Table 3, p. 7, row 29 |  |
 | 302 | liq. + Ga6Gd → orth. | Ga6Gd: Gd 0.143; orth.: Gd 0 | experimental | [1] Liu 2019; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 7, row 31 |  |
@@ -138,34 +138,22 @@ Table: Invariant reactions reported in the literature for the Ga–Gd system (52
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ga–Gd system (25)
+Table: Enthalpies of formation, Ga–Gd system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ga2Gd |  | -261.5 unspecified ± 5.9 | 823.15 | model |  |  | [1] Liu 2019; _cites Kober 1983_ | p. 4 | “The enthalpy, entropy, and Gibbs energy of formation of ­Ga2Gd from liquid Ga and solid Gd at 550 °C were as: - 261.5 ± 5.9 kJ/mol, - 88.3 ± 7.1 J/mol, and - 189.0 ± 0.4 kJ/mol \[42\], respectively, which was cited from Ref. \[17\].” |
 | Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -83.5 kJ/mol-atom | 298.15 | experimental | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites Bayanov 1975_ | Table 4, p. 4, row 5 |  |
-| Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -83.5 kJ/mol-atom | 298.15 | experimental | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites Bayanov 1975_ | Table 4, p. 4, row 5 |  |
-| Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -72.8 kJ/mol-atom |  | model | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020 | Table 4, p. 4, row 6 |  |
 | Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -72.8 kJ/mol-atom |  | model | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020 | Table 4, p. 4, row 6 |  |
 | Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -72.8 kJ/mol-atom | 298.15 | experimental | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 4, p. 4, row 4 |  |
-| Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -72.8 kJ/mol-atom | 298.15 | experimental | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 4, p. 4, row 4 |  |
-| Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -65.03 kJ/mol-atom |  | model | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 3 |  |
 | Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -65.03 kJ/mol-atom |  | model | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 3 |  |
 | Ga2Gd3 | [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.html) | -64.68 kJ/mol-atom |  | model | -49.123 (mp-aaaeiziy) | -50.779 (oqmd-89453) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 9 |  |
-| Ga2Gd3 | [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.html) | -64.68 kJ/mol-atom |  | model | -49.123 (mp-aaaeiziy) | -50.779 (oqmd-89453) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 9 |  |
-| Ga2Gd3 | [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.html) | -63.06 kJ/mol-atom |  | model | -49.123 (mp-aaaeiziy) | -50.779 (oqmd-89453) | [2] Boukideur 2020 | Table 4, p. 4, row 10 |  |
 | Ga2Gd3 | [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.html) | -63.06 kJ/mol-atom |  | model | -49.123 (mp-aaaeiziy) | -50.779 (oqmd-89453) | [2] Boukideur 2020 | Table 4, p. 4, row 10 |  |
 | Ga3Gd5 | [Ga3Gd5](https://data.orchid-project.org/compounds/Ga3Gd5.html) | -61.56 kJ/mol-atom |  | model |  | -46.682 (oqmd-18351) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 11 |  |
-| Ga3Gd5 | [Ga3Gd5](https://data.orchid-project.org/compounds/Ga3Gd5.html) | -61.56 kJ/mol-atom |  | model |  | -46.682 (oqmd-18351) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 11 |  |
-| Ga3Gd5 | [Ga3Gd5](https://data.orchid-project.org/compounds/Ga3Gd5.html) | -59.78 kJ/mol-atom |  | model |  | -46.682 (oqmd-18351) | [2] Boukideur 2020 | Table 4, p. 4, row 12 |  |
 | Ga3Gd5 | [Ga3Gd5](https://data.orchid-project.org/compounds/Ga3Gd5.html) | -59.78 kJ/mol-atom |  | model |  | -46.682 (oqmd-18351) | [2] Boukideur 2020 | Table 4, p. 4, row 12 |  |
 | Ga6Gd | [Ga6Gd](https://data.orchid-project.org/compounds/Ga6Gd.html) | -36 kJ/mol-atom |  | model | -31.251 (mp-aaackwju) | -31.82 (oqmd-1484077) | [2] Boukideur 2020 | Table 4, p. 4, row 2 |  |
-| Ga6Gd | [Ga6Gd](https://data.orchid-project.org/compounds/Ga6Gd.html) | -36 kJ/mol-atom |  | model | -31.251 (mp-aaackwju) | -31.82 (oqmd-1484077) | [2] Boukideur 2020 | Table 4, p. 4, row 2 |  |
-| Ga6Gd | [Ga6Gd](https://data.orchid-project.org/compounds/Ga6Gd.html) | -30.14 kJ/mol-atom |  | model | -31.251 (mp-aaackwju) | -31.82 (oqmd-1484077) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 1 |  |
 | Ga6Gd | [Ga6Gd](https://data.orchid-project.org/compounds/Ga6Gd.html) | -30.14 kJ/mol-atom |  | model | -31.251 (mp-aaackwju) | -31.82 (oqmd-1484077) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 1 |  |
 | GaGd | [GaGd](https://data.orchid-project.org/compounds/GaGd.html) | -72.65 kJ/mol-atom |  | model | -60.894 (mp-aaaabecv) | -60.055 (oqmd-19090) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 7 |  |
-| GaGd | [GaGd](https://data.orchid-project.org/compounds/GaGd.html) | -72.65 kJ/mol-atom |  | model | -60.894 (mp-aaaabecv) | -60.055 (oqmd-19090) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 7 |  |
-| GaGd | [GaGd](https://data.orchid-project.org/compounds/GaGd.html) | -70 kJ/mol-atom |  | model | -60.894 (mp-aaaabecv) | -60.055 (oqmd-19090) | [2] Boukideur 2020 | Table 4, p. 4, row 8 |  |
 | GaGd | [GaGd](https://data.orchid-project.org/compounds/GaGd.html) | -70 kJ/mol-atom |  | model | -60.894 (mp-aaaabecv) | -60.055 (oqmd-19090) | [2] Boukideur 2020 | Table 4, p. 4, row 8 |  |
 
 ## Other properties
@@ -176,36 +164,31 @@ Table: Phase transition, Ga–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 302.15 K | 302.15 | Melting: Liq \<=> (αGa); _(αGa): Gd 0_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 1 |  |
-| Phase transition | 302.15 K | 302.15 | Melting: Liq \<=> (αGa); _(αGa): Gd 0_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 3 |  |
-| Phase transition | 302.15 K | 302.15 | Melting: Liq \<=> (αGa); _(αGa): Gd 0_ | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 2 |  |
+| Phase transition | 302.15 K | 302.15 | congruent melting: Liq \<=> (αGa); _(αGa): Gd 0_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 1 |  |
+| Phase transition | 302.15 K | 302.15 | congruent melting: Liq \<=> (αGa); _(αGa): Gd 0_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 3 |  |
+| Phase transition | 302.15 K | 302.15 | congruent melting: Liq \<=> (αGa); _(αGa): Gd 0_ | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 2 |  |
 | Phase transition | 652.15 K | 652.15 |  | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | p. 1 | “They detected the presence of an intermetallic compound that formed perectectically at 379 °C.” |
 | Phase transition | 679 K | 679 |  | experimental | [3] Tamim 2023 | p. 5 | “This temperature was later modified by the same authors to 679K.” |
-| Phase transition | 1508.15 K | 1508.15 | Allotropic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 30 |  |
-| Phase transition | 1508.15 K | 1508.15 | Allotropic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 31 |  |
-| Phase transition | 1586.15 K | 1586.15 | Melting: Liq \<=> (βGd); _(βGd): Gd 1_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 29 |  |
-| Phase transition | 1586.15 K | 1586.15 | Melting: Liq \<=> (βGd); _(βGd): Gd 1_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 28 |  |
-| Phase transition | 1673.15 K | 1673.15 | Congruent: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 12 |  |
-| Phase transition | 1673.15 K | 1673.15 | Congruent: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 13 |  |
-| Phase transition | 1673.15 K | 1673.15 | Congruent: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 10 |  |
-| Phase transition | 1673.15 K | 1673.15 | Congruent: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 11 |  |
-| Phase transition | 1673.15 K | 1673.15 | congruent | experimental | [3] Tamim 2023; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990171-5) | p. 11 | “The hexagonal Ga2Gd (ɛ) compound melts congruently at 1400°C, and exhibits a wide homogeneity range that extends from the stoichiometric composition to the gallium-rich side Ga2(1+x)Gd1-x \[23\].” |
+| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 30 |  |
+| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 31 |  |
+| Phase transition | 1586.15 K | 1586.15 | congruent melting: Liq \<=> (βGd); _(βGd): Gd 1_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 29 |  |
+| Phase transition | 1586.15 K | 1586.15 | congruent melting: Liq \<=> (βGd); _(βGd): Gd 1_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 28 |  |
+| Phase transition | 1673.15 K | 1673.15 | congruent melting: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 12 |  |
+| Phase transition | 1673.15 K | 1673.15 | congruent melting: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 13 |  |
+| Phase transition | 1673.15 K | 1673.15 | congruent melting: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 10 |  |
+| Phase transition | 1673.15 K | 1673.15 | congruent melting: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 11 |  |
+| Phase transition | 1673.15 K | 1673.15 | congruent transformation | experimental | [3] Tamim 2023; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990171-5) | p. 11 | “The hexagonal Ga2Gd (ɛ) compound melts congruently at 1400°C, and exhibits a wide homogeneity range that extends from the stoichiometric composition to the gallium-rich side Ga2(1+x)Gd1-x \[23\].” |
 
-### Formation (10)
+### Formation (5)
 
 Table: Formation, Ga–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: Entropies of formation_ | 1 J/mol-atom/K |  | Ga2Gd; _alloy: Gd 0.333333_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 6 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 1 J/mol-atom/K |  | Ga2Gd; _alloy: Gd 0.333333_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 6 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 9.45 J/mol-atom/K |  | Ga2Gd3; _alloy: Gd 0.6_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 10 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 9.45 J/mol-atom/K |  | Ga2Gd3; _alloy: Gd 0.6_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 10 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 9 J/mol-atom/K |  | Ga3Gd5; _alloy: Gd 0.625_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 12 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 9 J/mol-atom/K |  | Ga3Gd5; _alloy: Gd 0.625_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 12 |  |
 | Entropy of formation; _printed: Entropies of formation_ | -5.35 J/mol-atom/K |  | Ga6Gd; _alloy: Gd 0.142857_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 2 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -5.35 J/mol-atom/K |  | Ga6Gd; _alloy: Gd 0.142857_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 2 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 7.23 J/mol-atom/K |  | GaGd; _alloy: Gd 0.5_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 8 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 7.23 J/mol-atom/K |  | GaGd; _alloy: Gd 0.5_ | model | [2] Boukideur 2020 | Table 4, p. 4, row 8 |  |
 
 ## Sources

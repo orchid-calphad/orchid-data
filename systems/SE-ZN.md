@@ -57,10 +57,10 @@ Table: Phase equilibrium, Se–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1373 ({'op': '>', 'printed': '>1373', 'value_K': 1373.0}) | congruent; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Chikashige 1917_ | Table 6, p. 6, row 2 |  |
-| Phase composition |  | 1788 | congruent; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Fischer 1959_ [doi](https://doi.org/10.1149/1.2427507) | Table 6, p. 6, row 3 |  |
-| Phase composition |  | 1799 | congruent; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Sysoev 1967_ | Table 6, p. 6, row 4 |  |
-| Phase composition |  | 1811 | congruent; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | model | [1] Chen 2014 | Table 6, p. 6, row 1 |  |
+| Phase composition |  | 1373 (>) | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Chikashige 1917_ | Table 6, p. 6, row 2 |  |
+| Phase composition |  | 1788 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Fischer 1959_ [doi](https://doi.org/10.1149/1.2427507) | Table 6, p. 6, row 3 |  |
+| Phase composition |  | 1799 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | experimental | [1] Chen 2014; _cites Sysoev 1967_ | Table 6, p. 6, row 4 |  |
+| Phase composition |  | 1811 | congruent melting; _liquid: Zn 0.5; ZnSe: Zn 0.5_ | model | [1] Chen 2014 | Table 6, p. 6, row 1 |  |
 
 ### Formation (3)
 

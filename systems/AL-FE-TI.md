@@ -1,10 +1,10 @@
 # Al–Fe–Ti system
 
-> Al–Fe–Ti system: 64 accepted literature values (phase transition 34, formation 30) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe–Ti system: 62 accepted literature values (phase transition 34, formation 28) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE-TI.html · Markdown: https://data.orchid-project.org/systems/AL-FE-TI.md
 
-64 accepted literature values from 1 paper(s) (experimental 17, model 33, DFT 14); 0 calculated phase diagram(s).
+62 accepted literature values from 1 paper(s) (experimental 17, model 32, DFT 13); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-TI) · [Markdown](https://data.orchid-project.org/systems/AL-FE-TI.md)
 
@@ -13,21 +13,21 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 17 |
-| model | 33 |
-| DFT | 14 |
+| model | 32 |
+| DFT | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 34 |
-| formation | 30 |
+| formation | 28 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Fe–Ti system (30)
+Table: Enthalpies of formation, Al–Fe–Ti system (28)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -36,9 +36,7 @@ Table: Enthalpies of formation, Al–Fe–Ti system (30)
 | BCC_4SL |  | -36.7619 kJ/mol (basis unstated) |  | DFT |  |  | [1] Liang 2024; _cites Kirklin 1995_ | Table 8, p. 12, row 3 |  |
 | BCC_4SL |  | -36.7266 kJ/mol (basis unstated) |  | model |  |  | [1] Liang 2024 | Table 8, p. 12, row 4 |  |
 | BCC_4SL |  | -26.1482 kJ/mol (basis unstated) |  | DFT |  |  | [1] Liang 2024; _cites Kirklin 1995_ | Table 8, p. 12, row 9 |  |
-| BCC_4SL |  | -26.1482 kJ/mol (basis unstated) |  | DFT |  |  | [1] Liang 2024; _cites Kirklin 1995_ | Table 8, p. 12, row 11 |  |
 | BCC_4SL |  | -26.0676 kJ/mol (basis unstated) |  | model |  |  | [1] Liang 2024 | Table 8, p. 12, row 12 |  |
-| BCC_4SL |  | -26.0676 kJ/mol (basis unstated) |  | model |  |  | [1] Liang 2024 | Table 8, p. 12, row 10 |  |
 | BCC_4SL |  | -22.3852 kJ/mol (basis unstated) |  | DFT |  |  | [1] Liang 2024; _cites Kirklin 1995_ | Table 8, p. 12, row 1 |  |
 | BCC_4SL |  | -22.3503 kJ/mol (basis unstated) |  | model |  |  | [1] Liang 2024 | Table 8, p. 12, row 2 |  |
 | BCC_4SL |  | -19.587 kJ/mol (basis unstated) |  | DFT |  |  | [1] Liang 2024; _cites Kirklin 1995_ | Table 8, p. 12, row 7 |  |
@@ -70,40 +68,40 @@ Table: Phase transition, Al–Fe–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1495.15 K | 1495.15 | liquidus: ssm99; _alloy: Al 0.475, Fe 0.35, Ti 0.175_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 9 |  |
-| Phase transition | 1512.49 K | 1512.49 | liquidus: lsm1274; _alloy: Al 0.491, Fe 0.245, Ti 0.264_ | model | [1] Liang 2024 | Table 7, p. 12, row 28 |  |
-| Phase transition | 1521.15 K | 1521.15 | liquidus: ssm72; _alloy: Al 0.553, Fe 0.423, Ti 0.024_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 7 |  |
-| Phase transition | 1554.51 K | 1554.51 | liquidus: ssm192; _alloy: Al 0.425, Fe 0.25, Ti 0.325_ | model | [1] Liang 2024 | Table 7, p. 12, row 12 |  |
-| Phase transition | 1555.25 K | 1555.25 | liquidus: ssm347; _alloy: Al 0.412, Fe 0.237, Ti 0.351_ | model | [1] Liang 2024 | Table 7, p. 12, row 22 |  |
-| Phase transition | 1559.15 K | 1559.15 | liquidus: ssm349; _alloy: Al 0.51, Fe 0.125, Ti 0.365_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 25 |  |
-| Phase transition | 1560.15 K | 1560.15 | liquidus: lsm1274; _alloy: Al 0.491, Fe 0.245, Ti 0.264_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 27 |  |
-| Phase transition | 1563.56 K | 1563.56 | liquidus: ssm193; _alloy: Al 0.375, Fe 0.25, Ti 0.375_ | model | [1] Liang 2024 | Table 7, p. 12, row 14 |  |
-| Phase transition | 1569.31 K | 1569.31 | liquidus: ssm348; _alloy: Al 0.44, Fe 0.125, Ti 0.435_ | model | [1] Liang 2024 | Table 7, p. 12, row 24 |  |
-| Phase transition | 1569.75 K | 1569.75 | liquidus: ssm64; _alloy: Al 0.403, Fe 0.354, Ti 0.243_ | model | [1] Liang 2024 | Table 7, p. 12, row 6 |  |
-| Phase transition | 1573.15 K | 1573.15 | liquidus: ssm348; _alloy: Al 0.44, Fe 0.125, Ti 0.435_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 23 |  |
-| Phase transition | 1574.15 K | 1574.15 | liquidus: ssm64; _alloy: Al 0.403, Fe 0.354, Ti 0.243_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 5 |  |
-| Phase transition | 1576.15 K | 1576.15 | liquidus: ssm198; _alloy: Al 0.275, Fe 0.525, Ti 0.2_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 15 |  |
-| Phase transition | 1576.83 K | 1576.83 | liquidus: ssm99; _alloy: Al 0.475, Fe 0.35, Ti 0.175_ | model | [1] Liang 2024 | Table 7, p. 12, row 10 |  |
-| Phase transition | 1586.35 K | 1586.35 | liquidus: ssm72; _alloy: Al 0.553, Fe 0.423, Ti 0.024_ | model | [1] Liang 2024 | Table 7, p. 12, row 8 |  |
-| Phase transition | 1596.15 K | 1596.15 | liquidus: ssm347; _alloy: Al 0.412, Fe 0.237, Ti 0.351_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 21 |  |
-| Phase transition | 1597.06 K | 1597.06 | liquidus: sm3847; _alloy: Al 0.3, Fe 0.375, Ti 0.325_ | model | [1] Liang 2024 | Table 7, p. 12, row 34 |  |
-| Phase transition | 1598.15 K | 1598.15 | liquidus: ssm60; _alloy: Al 0.201, Fe 0.603, Ti 0.196_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 3 |  |
-| Phase transition | 1598.82 K | 1598.82 | liquidus: ssm349; _alloy: Al 0.51, Fe 0.125, Ti 0.365_ | model | [1] Liang 2024 | Table 7, p. 12, row 26 |  |
-| Phase transition | 1599.15 K | 1599.15 | liquidus: ssm193; _alloy: Al 0.375, Fe 0.25, Ti 0.375_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 13 |  |
-| Phase transition | 1604.15 K | 1604.15 | liquidus: ssm192; _alloy: Al 0.425, Fe 0.25, Ti 0.325_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 11 |  |
-| Phase transition | 1611.15 K | 1611.15 | liquidus: ssm58; _alloy: Al 0.101, Fe 0.704, Ti 0.195_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 1 |  |
-| Phase transition | 1624.32 K | 1624.32 | liquidus: ssm58; _alloy: Al 0.101, Fe 0.704, Ti 0.195_ | model | [1] Liang 2024 | Table 7, p. 12, row 2 |  |
-| Phase transition | 1629.15 K | 1629.15 | liquidus: sm3847; _alloy: Al 0.3, Fe 0.375, Ti 0.325_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 33 |  |
-| Phase transition | 1638.19 K | 1638.19 | liquidus: ssm60; _alloy: Al 0.201, Fe 0.603, Ti 0.196_ | model | [1] Liang 2024 | Table 7, p. 12, row 4 |  |
-| Phase transition | 1644.15 K | 1644.15 | liquidus: lsm1275; _alloy: Al 0.3, Fe 0.6, Ti 0.1_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 29 |  |
-| Phase transition | 1649.74 K | 1649.74 | liquidus: lsm1275; _alloy: Al 0.3, Fe 0.6, Ti 0.1_ | model | [1] Liang 2024 | Table 7, p. 12, row 30 |  |
-| Phase transition | 1658.35 K | 1658.35 | liquidus: ssm278; _alloy: Al 0.2, Fe 0.7, Ti 0.1_ | model | [1] Liang 2024 | Table 7, p. 12, row 20 |  |
-| Phase transition | 1670.15 K | 1670.15 | liquidus: ssm278; _alloy: Al 0.2, Fe 0.7, Ti 0.1_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 19 |  |
-| Phase transition | 1674.73 K | 1674.73 | liquidus: ssm198; _alloy: Al 0.275, Fe 0.525, Ti 0.2_ | model | [1] Liang 2024 | Table 7, p. 12, row 16 |  |
-| Phase transition | 1674.76 K | 1674.76 | liquidus: sm3845; _alloy: Al 0.1, Fe 0.575, Ti 0.325_ | model | [1] Liang 2024 | Table 7, p. 12, row 32 |  |
-| Phase transition | 1681.15 K | 1681.15 | liquidus: sm3845; _alloy: Al 0.1, Fe 0.575, Ti 0.325_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 31 |  |
-| Phase transition | 1710.63 K | 1710.63 | liquidus: ssm276; _alloy: Al 0.25, Fe 0.7, Ti 0.05_ | model | [1] Liang 2024 | Table 7, p. 12, row 18 |  |
-| Phase transition | 1720.15 K | 1720.15 | liquidus: ssm276; _alloy: Al 0.25, Fe 0.7, Ti 0.05_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 17 |  |
+| Phase transition | 1495.15 K | 1495.15 | other: ssm99; _alloy: Al 0.475, Fe 0.35, Ti 0.175_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 9 |  |
+| Phase transition | 1512.49 K | 1512.49 | other: lsm1274; _alloy: Al 0.491, Fe 0.245, Ti 0.264_ | model | [1] Liang 2024 | Table 7, p. 12, row 28 |  |
+| Phase transition | 1521.15 K | 1521.15 | other: ssm72; _alloy: Al 0.553, Fe 0.423, Ti 0.024_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 7 |  |
+| Phase transition | 1554.51 K | 1554.51 | other: ssm192; _alloy: Al 0.425, Fe 0.25, Ti 0.325_ | model | [1] Liang 2024 | Table 7, p. 12, row 12 |  |
+| Phase transition | 1555.25 K | 1555.25 | other: ssm347; _alloy: Al 0.412, Fe 0.237, Ti 0.351_ | model | [1] Liang 2024 | Table 7, p. 12, row 22 |  |
+| Phase transition | 1559.15 K | 1559.15 | other: ssm349; _alloy: Al 0.51, Fe 0.125, Ti 0.365_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 25 |  |
+| Phase transition | 1560.15 K | 1560.15 | other: lsm1274; _alloy: Al 0.491, Fe 0.245, Ti 0.264_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 27 |  |
+| Phase transition | 1563.56 K | 1563.56 | other: ssm193; _alloy: Al 0.375, Fe 0.25, Ti 0.375_ | model | [1] Liang 2024 | Table 7, p. 12, row 14 |  |
+| Phase transition | 1569.31 K | 1569.31 | other: ssm348; _alloy: Al 0.44, Fe 0.125, Ti 0.435_ | model | [1] Liang 2024 | Table 7, p. 12, row 24 |  |
+| Phase transition | 1569.75 K | 1569.75 | other: ssm64; _alloy: Al 0.403, Fe 0.354, Ti 0.243_ | model | [1] Liang 2024 | Table 7, p. 12, row 6 |  |
+| Phase transition | 1573.15 K | 1573.15 | other: ssm348; _alloy: Al 0.44, Fe 0.125, Ti 0.435_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 23 |  |
+| Phase transition | 1574.15 K | 1574.15 | other: ssm64; _alloy: Al 0.403, Fe 0.354, Ti 0.243_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 5 |  |
+| Phase transition | 1576.15 K | 1576.15 | other: ssm198; _alloy: Al 0.275, Fe 0.525, Ti 0.2_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 15 |  |
+| Phase transition | 1576.83 K | 1576.83 | other: ssm99; _alloy: Al 0.475, Fe 0.35, Ti 0.175_ | model | [1] Liang 2024 | Table 7, p. 12, row 10 |  |
+| Phase transition | 1586.35 K | 1586.35 | other: ssm72; _alloy: Al 0.553, Fe 0.423, Ti 0.024_ | model | [1] Liang 2024 | Table 7, p. 12, row 8 |  |
+| Phase transition | 1596.15 K | 1596.15 | other: ssm347; _alloy: Al 0.412, Fe 0.237, Ti 0.351_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 21 |  |
+| Phase transition | 1597.06 K | 1597.06 | other: sm3847; _alloy: Al 0.3, Fe 0.375, Ti 0.325_ | model | [1] Liang 2024 | Table 7, p. 12, row 34 |  |
+| Phase transition | 1598.15 K | 1598.15 | other: ssm60; _alloy: Al 0.201, Fe 0.603, Ti 0.196_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 3 |  |
+| Phase transition | 1598.82 K | 1598.82 | other: ssm349; _alloy: Al 0.51, Fe 0.125, Ti 0.365_ | model | [1] Liang 2024 | Table 7, p. 12, row 26 |  |
+| Phase transition | 1599.15 K | 1599.15 | other: ssm193; _alloy: Al 0.375, Fe 0.25, Ti 0.375_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 13 |  |
+| Phase transition | 1604.15 K | 1604.15 | other: ssm192; _alloy: Al 0.425, Fe 0.25, Ti 0.325_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 11 |  |
+| Phase transition | 1611.15 K | 1611.15 | other: ssm58; _alloy: Al 0.101, Fe 0.704, Ti 0.195_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 1 |  |
+| Phase transition | 1624.32 K | 1624.32 | other: ssm58; _alloy: Al 0.101, Fe 0.704, Ti 0.195_ | model | [1] Liang 2024 | Table 7, p. 12, row 2 |  |
+| Phase transition | 1629.15 K | 1629.15 | other: sm3847; _alloy: Al 0.3, Fe 0.375, Ti 0.325_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 33 |  |
+| Phase transition | 1638.19 K | 1638.19 | other: ssm60; _alloy: Al 0.201, Fe 0.603, Ti 0.196_ | model | [1] Liang 2024 | Table 7, p. 12, row 4 |  |
+| Phase transition | 1644.15 K | 1644.15 | other: lsm1275; _alloy: Al 0.3, Fe 0.6, Ti 0.1_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 29 |  |
+| Phase transition | 1649.74 K | 1649.74 | other: lsm1275; _alloy: Al 0.3, Fe 0.6, Ti 0.1_ | model | [1] Liang 2024 | Table 7, p. 12, row 30 |  |
+| Phase transition | 1658.35 K | 1658.35 | other: ssm278; _alloy: Al 0.2, Fe 0.7, Ti 0.1_ | model | [1] Liang 2024 | Table 7, p. 12, row 20 |  |
+| Phase transition | 1670.15 K | 1670.15 | other: ssm278; _alloy: Al 0.2, Fe 0.7, Ti 0.1_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 19 |  |
+| Phase transition | 1674.73 K | 1674.73 | other: ssm198; _alloy: Al 0.275, Fe 0.525, Ti 0.2_ | model | [1] Liang 2024 | Table 7, p. 12, row 16 |  |
+| Phase transition | 1674.76 K | 1674.76 | other: sm3845; _alloy: Al 0.1, Fe 0.575, Ti 0.325_ | model | [1] Liang 2024 | Table 7, p. 12, row 32 |  |
+| Phase transition | 1681.15 K | 1681.15 | other: sm3845; _alloy: Al 0.1, Fe 0.575, Ti 0.325_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 31 |  |
+| Phase transition | 1710.63 K | 1710.63 | other: ssm276; _alloy: Al 0.25, Fe 0.7, Ti 0.05_ | model | [1] Liang 2024 | Table 7, p. 12, row 18 |  |
+| Phase transition | 1720.15 K | 1720.15 | other: ssm276; _alloy: Al 0.25, Fe 0.7, Ti 0.05_ | experimental | [1] Liang 2024; _cites Kumar 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 7, p. 12, row 17 |  |
 
 ## Sources
 

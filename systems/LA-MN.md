@@ -135,9 +135,9 @@ Table: Phase equilibrium, La–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1067.6 | liquidus: Mn10La90; _liquid: La 0.9, Mn 0.1_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 3 |  |
-| Phase composition |  | 1332.7 | liquidus: Mn60La40; _liquid: La 0.4, Mn 0.6_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 11 |  |
-| Phase composition |  | 1343.3 | liquidus: Mn66La34; _liquid: La 0.34, Mn 0.66_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 14 |  |
+| Phase composition |  | 1067.6 | other: Mn10La90; _liquid: La 0.9, Mn 0.1_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 3 |  |
+| Phase composition |  | 1332.7 | other: Mn60La40; _liquid: La 0.4, Mn 0.6_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 11 |  |
+| Phase composition |  | 1343.3 | other: Mn66La34; _liquid: La 0.34, Mn 0.66_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 14 |  |
 
 ## Sources
 

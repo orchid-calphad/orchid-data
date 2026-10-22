@@ -1,10 +1,10 @@
 # Al–Ca system
 
-> Al–Ca system: 351 accepted literature values (formation 159, crystal structure 97, invariant reaction 62, phase transition 33) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ca system: 349 accepted literature values (formation 159, crystal structure 95, invariant reaction 62, phase transition 33) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CA.html · Markdown: https://data.orchid-project.org/systems/AL-CA.md
 
-351 accepted literature values from 5 paper(s) (experimental 93, model 99, DFT 129, unspecified 30); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+349 accepted literature values from 5 paper(s) (experimental 93, model 99, DFT 127, unspecified 30); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CA.json) · [CSV](https://data.orchid-project.org/systems/AL-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CA/AlCa-01Kev-LB.json) · [Markdown](https://data.orchid-project.org/systems/AL-CA.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 93 |
 | model | 99 |
-| DFT | 129 |
+| DFT | 127 |
 | unspecified | 30 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 62 |
 | phase transition | 33 |
 | formation | 159 |
-| crystal structure | 97 |
+| crystal structure | 95 |
 
 ## Calculated phase diagrams
 
@@ -128,60 +128,60 @@ Table: Invariant reactions reported in the literature for the Al–Ca system (62
 |---:|---|---|---|---|---|---|
 | 976.1 | peritectic: Liquid + C15 = Al4Ca | Liquid: Ca 0.0932; C15: Ca 0.333333; Al4Ca: Ca 0.2 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 37 |  |
 | 974.3 | peritectic: Liquid + C15 = Al4Ca | Liquid: Ca 0.098; C15: Ca 0.333333; Al4Ca: Ca 0.2 | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 38 |  |
-| 974.3 | Peritectic: L + Al2Ca -> Al4Ca | L: Ca 0.098; Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 25 |  |
-| 974.02 | Peritectic: L + Al2Ca -> Al4Ca | L: Ca 0.0906; Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | model | [2] ISLAM 2005 | Table IV, p. 8, row 27 |  |
-| 974 | Peritectic: L + Al2Ca -> Al4Ca | L: Ca 0.0989; Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 26 |  |
+| 974.3 | peritectic: L + Al2Ca -> Al4Ca | L: Ca 0.098; Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 25 |  |
+| 974.02 | peritectic: L + Al2Ca -> Al4Ca | L: Ca 0.0906; Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | model | [2] ISLAM 2005 | Table IV, p. 8, row 27 |  |
+| 974 | peritectic: L + Al2Ca -> Al4Ca | L: Ca 0.0989; Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 26 |  |
 | 974 | peritectic: Liquid + C15 = Al4Ca | Liquid: Ca 0.0989; C15: Ca 0.333333; Al4Ca: Ca 0.2 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 36 |  |
 | 973.7 | peritectic: Liquid + C15 = Al4Ca | Liquid: Ca 0.0919; C15: Ca 0.333333; Al4Ca: Ca 0.2 | model | [1] Ozturk 2005 | Table V, p. 7, row 39 |  |
 | 973 | peritectic |  | experimental | [3] Ozturk 2002; _cites Matsuyama 1928_ | p. 2 | “Al 4 Ca melts incongruently at the peritectic reaction temperature (973 K) forming liquid (10 at.% Ca) and Al 2 Ca (33 at.% Ca) \[11\].” |
-| 973 | Peritectic: L + Al2Ca -> Al4Ca | Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 24 |  |
+| 973 | peritectic: L + Al2Ca -> Al4Ca | Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 24 |  |
 | 973 | peritectic: Liquid + C15 = Al4Ca | Liquid: Ca 0.1; C15: Ca 0.333333; Al4Ca: Ca 0.2 | experimental | [1] Ozturk 2005; _cites Matsuyama 1928_ | Table V, p. 7, row 34 |  |
 | 973 | peritectic: Liquid + C15 = Al4Ca | C15: Ca 0.333333; Al4Ca: Ca 0.2 | experimental | [1] Ozturk 2005 | Table V, p. 7, row 35 |  |
-| 973 | Peritectic: L + Al2Ca -> Al4Ca | L: Ca 0.1; Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 23 |  |
-| 907.46 | Peritectic: L+ Al2Ca -> Al14Ca13 | L: Ca 0.6095; Al2Ca: Ca 0.333333; Al14Ca13: Ca 0.481481 | model | [2] ISLAM 2005 | Table IV, p. 8, row 31 |  |
+| 973 | peritectic: L + Al2Ca -> Al4Ca | L: Ca 0.1; Al2Ca: Ca 0.333333; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 23 |  |
+| 907.46 | peritectic: L+ Al2Ca -> Al14Ca13 | L: Ca 0.6095; Al2Ca: Ca 0.333333; Al14Ca13: Ca 0.481481 | model | [2] ISLAM 2005 | Table IV, p. 8, row 31 |  |
 | 906.2 | peritectic: Liquid + C15 = Al14Ca13 | Liquid: Ca 0.616; C15: Ca 0.333333; Al14Ca13: Ca 0.481481 | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 43 |  |
-| 906.2 | Peritectic: L+ Al2Ca -> Al14Ca13 | L: Ca 0.616; Al2Ca: Ca 0.333333; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 29 |  |
+| 906.2 | peritectic: L+ Al2Ca -> Al14Ca13 | L: Ca 0.616; Al2Ca: Ca 0.333333; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 29 |  |
 | 906 | peritectic: Liquid + C15 = Al14Ca13 | Liquid: Ca 0.616; C15: Ca 0.333333; Al14Ca13: Ca 0.481481 | experimental | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0172) | Table V, p. 7, row 40 |  |
 | 906 | peritectic: Al14Ca13 -> liquid + Al2Ca |  | experimental | [3] Ozturk 2002; _cites Kevorkov 2001_ | p. 3 | “It melts incongruently at the peritectic reaction temperature of about 906 K forming liquid (61.6 at.% Ca) and Al 2 Ca phases \[16\].” |
-| 906 | Peritectic: L+ Al2Ca -> Al14Ca13 | Al2Ca: Ca 0.333333; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 28 |  |
+| 906 | peritectic: L+ Al2Ca -> Al14Ca13 | Al2Ca: Ca 0.333333; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 28 |  |
 | 905.7 | peritectic: Liquid + C15 = Al14Ca13 | Liquid: Ca 0.6229; C15: Ca 0.333333; Al14Ca13: Ca 0.481481 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 42 |  |
 | 905.5 | peritectic: Liquid + C15 = Al14Ca13 | Liquid: Ca 0.6197; C15: Ca 0.333333; Al14Ca13: Ca 0.481481 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 41 |  |
-| 905.5 | Peritectic: L+ Al2Ca -> Al14Ca13 | L: Ca 0.6197; Al2Ca: Ca 0.333333; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 30 |  |
+| 905.5 | peritectic: L+ Al2Ca -> Al14Ca13 | L: Ca 0.6197; Al2Ca: Ca 0.333333; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 30 |  |
 | 905 | peritectic: Liquid + C15 = Al14Ca13 | Liquid: Ca 0.6129; C15: Ca 0.333333; Al14Ca13: Ca 0.481481 | model | [1] Ozturk 2005 | Table V, p. 7, row 44 |  |
 | 889 | eutectic |  | experimental | [3] Ozturk 2002; _cites Matsuyama 1928_ | p. 3 | “Matsuyama \[11\] found two eutectic reactions and determined most of the liquidus lines, as well. The eutectic point is determined precisely on the Al-rich side with the composition of 5.24 at.% Ca at 889 K.” |
-| 889 | Eutectic: L -> Al4Ca+ Al-fcc | L: Ca 0.052; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 10 |  |
+| 889 | eutectic: L -> Al4Ca+ Al-fcc | L: Ca 0.052; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 10 |  |
 | 889 | eutectic: Liquid = Al + Al4Ca | Liquid: Ca 0.052; Al4Ca: Ca 0.2 | experimental | [1] Ozturk 2005; _cites Matsuyama 1928_ | Table V, p. 7, row 3 |  |
-| 886 | Eutectic: L -> Al4Ca+ Al-fcc | L: Ca 0.051; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 12 |  |
-| 886 | Eutectic: L -> Al4Ca+ Al-fcc | Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 11 |  |
+| 886 | eutectic: L -> Al4Ca+ Al-fcc | L: Ca 0.051; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 12 |  |
+| 886 | eutectic: L -> Al4Ca+ Al-fcc | Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 11 |  |
 | 886 | eutectic: Liquid = Al + Al4Ca | Al4Ca: Ca 0.2 | experimental | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0172) | Table V, p. 7, row 4 |  |
 | 886 | eutectic: Liquid = Al + Al4Ca | Liquid: Ca 0.064; Al4Ca: Ca 0.2 | experimental | [1] Ozturk 2005; _cites Bozza 1928_ | Table V, p. 7, row 2 |  |
 | 886 | eutectic: Liquid = Al + Al4Ca | Liquid: Ca 0.051; Al4Ca: Ca 0.2 | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 7 |  |
 | 885.9 | eutectic: Liquid = Al + Al4Ca | Liquid: Ca 0.0545; Al4Ca: Ca 0.2 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 5 |  |
-| 885.9 | Eutectic: L -> Al4Ca+ Al-fcc | L: Ca 0.052; Al4Ca: Ca 0.2 | model | [2] ISLAM 2005 | Table IV, p. 8, row 14 |  |
-| 885.9 | Eutectic: L -> Al4Ca+ Al-fcc | L: Ca 0.0545; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 13 |  |
+| 885.9 | eutectic: L -> Al4Ca+ Al-fcc | L: Ca 0.052; Al4Ca: Ca 0.2 | model | [2] ISLAM 2005 | Table IV, p. 8, row 14 |  |
+| 885.9 | eutectic: L -> Al4Ca+ Al-fcc | L: Ca 0.0545; Al4Ca: Ca 0.2 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 13 |  |
 | 884.2 | eutectic: Liquid = Al + Al4Ca | Liquid: Ca 0.053; Al4Ca: Ca 0.2 | model | [1] Ozturk 2005 | Table V, p. 7, row 8 |  |
 | 884 | eutectic: Liquid = Al + Al4Ca | Liquid: Ca 0.056; Al4Ca: Ca 0.2 | experimental | [1] Ozturk 2005; _cites Donski 1908_ [doi](https://doi.org/10.1002/zaac.19080570109) | Table V, p. 7, row 1 |  |
 | 881.2 | eutectic: Liquid = Al + Al4Ca | Liquid: Ca 0.0545; Al4Ca: Ca 0.2 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 6 |  |
 | 837.3 | eutectic: Liquid = Al3Ca8 + βCa | Liquid: Ca 0.7779; Al3Ca8: Ca 0.727273 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 20 |  |
-| 833 | Eutectic: L -> Al14Ca13+ Ca-bcc | Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 19 |  |
+| 833 | eutectic: L -> Al14Ca13+ Ca-bcc | Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 19 |  |
 | 833 | eutectic: Liquid = Al3Ca8 + βCa | Liquid: Ca 0.795; Al3Ca8: Ca 0.727273 | experimental | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0172) | Table V, p. 7, row 18 |  |
 | 833 | eutectic |  | experimental | [3] Ozturk 2002; _cites Kevorkov 2001_ | p. 3 | “These eutectic reactions occur at around 829 K and 833 K with the compositions of 66.2 and 79.5 at.% Ca, respectively \[16\].” |
 | 830.5 | eutectic: Liquid = Al14Ca13 + Al3Ca8 | Liquid: Ca 0.664; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 12 |  |
-| 830.5 | Eutectic: L -> Al14Ca13+ Al3Ca8 | L: Ca 0.664; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 17 |  |
+| 830.5 | eutectic: L -> Al14Ca13+ Al3Ca8 | L: Ca 0.664; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 17 |  |
 | 829.4 | eutectic: Liquid = Al14Ca13 + Al3Ca8 | Liquid: Ca 0.6681; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 13 |  |
-| 829 | Eutectic: L -> Al14Ca13+ Al3Ca8 | Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 15 |  |
+| 829 | eutectic: L -> Al14Ca13+ Al3Ca8 | Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 15 |  |
 | 829 | eutectic: Liquid = Al14Ca13 + Al3Ca8 | Liquid: Ca 0.662; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | experimental | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0172) | Table V, p. 7, row 11 |  |
 | 829 | eutectic |  | experimental | [3] Ozturk 2002; _cites Kevorkov 2001_ | p. 3 | “These eutectic reactions occur at around 829 K and 833 K with the compositions of 66.2 and 79.5 at.% Ca, respectively \[16\].” |
 | 828.1 | eutectic: Liquid = Al14Ca13 + Al3Ca8 | Liquid: Ca 0.6634; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | model | [1] Ozturk 2005 | Table V, p. 7, row 15 |  |
-| 827.85 | Eutectic: L -> Al14Ca13+ Ca-bcc | L: Ca 0.7969; Al14Ca13: Ca 0.481481 | model | [2] ISLAM 2005 | Table IV, p. 8, row 22 |  |
+| 827.85 | eutectic: L -> Al14Ca13+ Ca-bcc | L: Ca 0.7969; Al14Ca13: Ca 0.481481 | model | [2] ISLAM 2005 | Table IV, p. 8, row 22 |  |
 | 827.8 | eutectic: Liquid = Al3Ca8 + βCa | Liquid: Ca 0.7975; Al3Ca8: Ca 0.727273 | model | [1] Ozturk 2005 | Table V, p. 7, row 22 |  |
 | 827.5 | eutectic: Liquid = Al3Ca8 + βCa | Liquid: Ca 0.795; Al3Ca8: Ca 0.727273 | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 21 |  |
-| 827.5 | Eutectic: L -> Al14Ca13+ Ca-bcc | L: Ca 0.795; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 20 |  |
-| 825.24 | Eutectic: L -> Al14Ca13+ Al3Ca8 | L: Ca 0.6597; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | model | [2] ISLAM 2005 | Table IV, p. 8, row 18 |  |
+| 827.5 | eutectic: L -> Al14Ca13+ Ca-bcc | L: Ca 0.795; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 20 |  |
+| 825.24 | eutectic: L -> Al14Ca13+ Al3Ca8 | L: Ca 0.6597; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | model | [2] ISLAM 2005 | Table IV, p. 8, row 18 |  |
 | 825.15 | eutectic |  | experimental | [4] Hampl 2015 | p. 3 | “The temperature was chosen just below the lowest melting binary eutectic, 552 °C in Al-Ca, to avoid the occurrence of liquid phase.” |
 | 825.1 | eutectic: Liquid = Al14Ca13 + Al3Ca8 | Liquid: Ca 0.622; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 14 |  |
-| 825.1 | Eutectic: L -> Al14Ca13+ Al3Ca8 | L: Ca 0.662; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 16 |  |
-| 822.5 | Eutectic: L -> Al14Ca13+ Ca-bcc | L: Ca 0.8053; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 21 |  |
+| 825.1 | eutectic: L -> Al14Ca13+ Al3Ca8 | L: Ca 0.662; Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 16 |  |
+| 822.5 | eutectic: L -> Al14Ca13+ Ca-bcc | L: Ca 0.8053; Al14Ca13: Ca 0.481481 | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 21 |  |
 | 822.5 | eutectic: Liquid = Al3Ca8 + βCa | Liquid: Ca 0.8053; Al3Ca8: Ca 0.727273 | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 19 |  |
 | 820 | eutectic: Liquid = Al3Ca8 + βCa | Al3Ca8: Ca 0.727273 | experimental | [1] Ozturk 2005; _cites Donski 1908_ [doi](https://doi.org/10.1002/zaac.19080570109) | Table V, p. 7, row 17 |  |
 | 820 | eutectic: Liquid = Al14Ca13 + Al3Ca8 | Al14Ca13: Ca 0.481481; Al3Ca8: Ca 0.727273 | experimental | [1] Ozturk 2005; _cites Donski 1908_ [doi](https://doi.org/10.1002/zaac.19080570109) | Table V, p. 7, row 10 |  |
@@ -327,39 +327,39 @@ Table: Phase transition, Al–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 714.28 K | 714.28 | Allotropic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 8 |  |
-| Phase transition | 715.9 K | 715.9 | Allotropic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 9 |  |
-| Phase transition | 715.9 K | 715.9 | Allotropic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 7 |  |
-| Phase transition | 847.6 K | 847.6 | congruent: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005 | Table V, p. 7, row 33 |  |
-| Phase transition | 849.5 K | 849.5 | congruent: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 31 |  |
-| Phase transition | 850 K | 850 | congruent | experimental | [3] Ozturk 2002; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | p. 2 | “The recently discovered Al 3 Ca 8 phase \[15,16\] in the system is triclinic in crystalline nature and melts congruently at around 850 K.” |
-| Phase transition | 852 K | 852 | Congruent: L -> Al3Ca8; _L: Ca 0.7272; Al3Ca8: Ca 0.727273_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 39 |  |
-| Phase transition | 852 K | 852 | Congruent: L -> Al3Ca8; _L: Ca 0.727273; Al3Ca8: Ca 0.727273_ | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 37 |  |
-| Phase transition | 852 K | 852 | congruent: Liquid = Al3Ca8; _Liquid: Ca 0.727; Al3Ca8: Ca 0.727273_ | experimental | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0172) | Table V, p. 7, row 29 |  |
-| Phase transition | 852 K | 852 | congruent: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 30 |  |
-| Phase transition | 852.43 K | 852.43 | Congruent: L -> Al3Ca8; _L: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 40 |  |
-| Phase transition | 853.4 K | 853.4 | Congruent: L -> Al3Ca8; _L: Ca 0.727; Al3Ca8: Ca 0.727273_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 38 |  |
-| Phase transition | 853.4 K | 853.4 | congruent: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 32 |  |
-| Phase transition | 933 K | 933 | Melting: L -> Al-bcc; _L: Ca 0_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 1 |  |
-| Phase transition | 933.33 K | 933.33 | Melting: L -> Al-bcc; _L: Ca 0_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 2 |  |
-| Phase transition | 933.45 K | 933.45 | Melting: L -> Al-bcc; _L: Ca 0_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 3 |  |
+| Phase transition | 714.28 K | 714.28 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 8 |  |
+| Phase transition | 715.9 K | 715.9 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 9 |  |
+| Phase transition | 715.9 K | 715.9 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 7 |  |
+| Phase transition | 847.6 K | 847.6 | congruent melting: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005 | Table V, p. 7, row 33 |  |
+| Phase transition | 849.5 K | 849.5 | congruent melting: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 31 |  |
+| Phase transition | 850 K | 850 | congruent transformation | experimental | [3] Ozturk 2002; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | p. 2 | “The recently discovered Al 3 Ca 8 phase \[15,16\] in the system is triclinic in crystalline nature and melts congruently at around 850 K.” |
+| Phase transition | 852 K | 852 | congruent melting: L -> Al3Ca8; _L: Ca 0.7272; Al3Ca8: Ca 0.727273_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 39 |  |
+| Phase transition | 852 K | 852 | congruent melting: L -> Al3Ca8; _L: Ca 0.727273; Al3Ca8: Ca 0.727273_ | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 37 |  |
+| Phase transition | 852 K | 852 | congruent melting: Liquid = Al3Ca8; _Liquid: Ca 0.727; Al3Ca8: Ca 0.727273_ | experimental | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0172) | Table V, p. 7, row 29 |  |
+| Phase transition | 852 K | 852 | congruent melting: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 30 |  |
+| Phase transition | 852.43 K | 852.43 | congruent melting: L -> Al3Ca8; _L: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 40 |  |
+| Phase transition | 853.4 K | 853.4 | congruent melting: L -> Al3Ca8; _L: Ca 0.727; Al3Ca8: Ca 0.727273_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 38 |  |
+| Phase transition | 853.4 K | 853.4 | congruent melting: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 32 |  |
+| Phase transition | 933 K | 933 | congruent melting: L -> Al-bcc; _L: Ca 0_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 1 |  |
+| Phase transition | 933.33 K | 933.33 | congruent melting: L -> Al-bcc; _L: Ca 0_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 2 |  |
+| Phase transition | 933.45 K | 933.45 | congruent melting: L -> Al-bcc; _L: Ca 0_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 3 |  |
 | Phase transition | 973 K | 973 |  | experimental | [2] ISLAM 2005; _cites ref. 24_ | p. 6 | “They reported two intermetallic compounds: Al2Ca which melts congruently at 1352 K and Al4Ca which melts incongruently at 973 K \[24\].” |
-| Phase transition | 1114.9 K | 1114.9 | Melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 4 |  |
-| Phase transition | 1115 K | 1115 | Melting: L -> Ca-bcc; _L: Ca 1_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 6 |  |
-| Phase transition | 1116.66 K | 1116.66 | Melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 5 |  |
-| Phase transition | 1346.4 K | 1346.4 | congruent: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 26 |  |
-| Phase transition | 1349.8 K | 1349.8 | congruent: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005 | Table V, p. 7, row 28 |  |
-| Phase transition | 1352 K | 1352 | Congruent: L -> Al2Ca; _L: Ca 0.333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 32 |  |
-| Phase transition | 1352 K | 1352 | congruent | experimental | [2] ISLAM 2005; _cites ref. 24_ | p. 6 | “They reported two intermetallic compounds: Al2Ca which melts congruently at 1352 K and Al4Ca which melts incongruently at 973 K \[24\].” |
-| Phase transition | 1352 K | 1352 | congruent | experimental | [3] Ozturk 2002; _cites Nowotny 1939_ [doi](https://doi.org/10.1524/zkri.1939.100.1.540) | p. 2 | “The Al 2 Ca phase has f.c.c. structure with a lattice parameter of a58.038 ̊A \[13\] and melts congruently at 1352 K.” |
-| Phase transition | 1352 K | 1352 | congruent: Liquid = C15; _Liquid: Ca 0.333; C15: Ca 0.333333_ | experimental | [1] Ozturk 2005; _cites Matsuyama 1928_ | Table V, p. 7, row 23 |  |
-| Phase transition | 1354 K | 1354 | Congruent: L -> Al2Ca; _L: Ca 0.3333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 35 |  |
-| Phase transition | 1354 K | 1354 | congruent: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 25 |  |
-| Phase transition | 1359 K | 1359 | Congruent: L -> Al2Ca; _L: Ca 0.333333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 33 |  |
-| Phase transition | 1359 K | 1359 | congruent: Liquid = C15; _Liquid: Ca 0.333; C15: Ca 0.333333_ | experimental | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0172) | Table V, p. 7, row 24 |  |
-| Phase transition | 1359.1 K | 1359.1 | Congruent: L -> Al2Ca; _L: Ca 0.3333; Al2Ca: Ca 0.333333_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 36 |  |
-| Phase transition | 1359.6 K | 1359.6 | Congruent: L -> Al2Ca; _L: Ca 0.333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 34 |  |
-| Phase transition | 1359.6 K | 1359.6 | congruent: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 27 |  |
+| Phase transition | 1114.9 K | 1114.9 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 4 |  |
+| Phase transition | 1115 K | 1115 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 6 |  |
+| Phase transition | 1116.66 K | 1116.66 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 5 |  |
+| Phase transition | 1346.4 K | 1346.4 | congruent melting: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 26 |  |
+| Phase transition | 1349.8 K | 1349.8 | congruent melting: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005 | Table V, p. 7, row 28 |  |
+| Phase transition | 1352 K | 1352 | congruent melting: L -> Al2Ca; _L: Ca 0.333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 32 |  |
+| Phase transition | 1352 K | 1352 | congruent melting: Liquid = C15; _Liquid: Ca 0.333; C15: Ca 0.333333_ | experimental | [1] Ozturk 2005; _cites Matsuyama 1928_ | Table V, p. 7, row 23 |  |
+| Phase transition | 1352 K | 1352 | congruent transformation | experimental | [2] ISLAM 2005; _cites ref. 24_ | p. 6 | “They reported two intermetallic compounds: Al2Ca which melts congruently at 1352 K and Al4Ca which melts incongruently at 973 K \[24\].” |
+| Phase transition | 1352 K | 1352 | congruent transformation | experimental | [3] Ozturk 2002; _cites Nowotny 1939_ [doi](https://doi.org/10.1524/zkri.1939.100.1.540) | p. 2 | “The Al 2 Ca phase has f.c.c. structure with a lattice parameter of a58.038 ̊A \[13\] and melts congruently at 1352 K.” |
+| Phase transition | 1354 K | 1354 | congruent melting: L -> Al2Ca; _L: Ca 0.3333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 35 |  |
+| Phase transition | 1354 K | 1354 | congruent melting: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 25 |  |
+| Phase transition | 1359 K | 1359 | congruent melting: L -> Al2Ca; _L: Ca 0.333333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 25_ | Table IV, p. 8, row 33 |  |
+| Phase transition | 1359 K | 1359 | congruent melting: Liquid = C15; _Liquid: Ca 0.333; C15: Ca 0.333333_ | experimental | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0172) | Table V, p. 7, row 24 |  |
+| Phase transition | 1359.1 K | 1359.1 | congruent melting: L -> Al2Ca; _L: Ca 0.3333; Al2Ca: Ca 0.333333_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 36 |  |
+| Phase transition | 1359.6 K | 1359.6 | congruent melting: L -> Al2Ca; _L: Ca 0.333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 34 |  |
+| Phase transition | 1359.6 K | 1359.6 | congruent melting: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 27 |  |
 
 ### Formation (38)
 
@@ -406,7 +406,7 @@ Table: Formation, Al–Ca system
 | Gibbs energy of formation; _printed: ΔGf_ | -89 kJ/mol (basis unstated) | 823 | Al₄Ca | experimental | [5] Anglezio 1994; _cites ref. 77Pre_ | Table II, p. 8, row 3 |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -89 kJ/mol (basis unstated) | 823 | UNKNOWN | experimental | [5] Anglezio 1994; _cites ref. 77Pre_ | Table II, p. 8, row 3 |  |
 
-### Crystal structure (97)
+### Crystal structure (95)
 
 Table: Crystal structure, Al–Ca system
 
@@ -492,7 +492,6 @@ Table: Crystal structure, Al–Ca system
 | Lattice c | 9.567 Å | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 23 |  |
 | Lattice c | 11.09 Å | 298.15 | Al4Ca; _alloy: Ca 0.2_ | experimental | [1] Ozturk 2005; _cites Nowotny 2005_ | Table III, p. 4, row 4 |  |
 | lattice alpha | 90 deg | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 19 |  |
-| lattice alpha | 90 deg | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 20 |  |
 | lattice alpha | 90 deg | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | experimental | [1] Ozturk 2005; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | Table III, p. 4, row 21 |  |
 | lattice alpha | 99.02 deg | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | experimental | [1] Ozturk 2005; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | Table III, p. 4, row 24 |  |
 | lattice alpha | 98.87 deg | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 22 |  |
@@ -504,7 +503,6 @@ Table: Crystal structure, Al–Ca system
 | lattice beta | 101.01 deg | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 22 |  |
 | lattice beta | 101.13 deg | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 23 |  |
 | lattice gamma | 90 deg | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 19 |  |
-| lattice gamma | 90 deg | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 20 |  |
 | lattice gamma | 90 deg | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | experimental | [1] Ozturk 2005; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | Table III, p. 4, row 21 |  |
 | lattice gamma | 119.55 deg | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | experimental | [1] Ozturk 2005; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | Table III, p. 4, row 24 |  |
 | lattice gamma | 119.85 deg | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 22 |  |

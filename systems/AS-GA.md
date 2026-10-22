@@ -62,49 +62,49 @@ Table: Phase transition, As–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 960 K | 960 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 9 |  |
-| Phase transition | 964 K | 964 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 24 |  |
-| Phase transition | 965 K | 965 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 23 |  |
-| Phase transition | 965 K | 965 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 10 |  |
-| Phase transition | 981 K | 981 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 26 |  |
-| Phase transition | 981 K | 981 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 25 |  |
-| Phase transition | 1000 K | 1000 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 11 |  |
-| Phase transition | 1003 K | 1003 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 12 |  |
-| Phase transition | 1009 K | 1009 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 28 |  |
-| Phase transition | 1009 K | 1009 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 27 |  |
-| Phase transition | 1023 K | 1023 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 30 |  |
-| Phase transition | 1024 K | 1024 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 29 |  |
-| Phase transition | 1026 K | 1026 | liquidus: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 1 |  |
-| Phase transition | 1028 K | 1028 | liquidus: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 2 |  |
-| Phase transition | 1034 K | 1034 | liquidus: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 3 |  |
-| Phase transition | 1037 K | 1037 | liquidus: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 4 |  |
-| Phase transition | 1049 K | 1049 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 32 |  |
-| Phase transition | 1050 K | 1050 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 13 |  |
-| Phase transition | 1051 K | 1051 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 31 |  |
-| Phase transition | 1052 K | 1052 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 14 |  |
-| Phase transition | 1071 K | 1071 | liquidus: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 5 |  |
-| Phase transition | 1073 K | 1073 | liquidus: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 7 |  |
-| Phase transition | 1073 K | 1073 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 34 |  |
-| Phase transition | 1073 K | 1073 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 15 |  |
-| Phase transition | 1074 K | 1074 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 36 |  |
-| Phase transition | 1074 K | 1074 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 16 |  |
-| Phase transition | 1075 K | 1075 | liquidus: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 6 |  |
-| Phase transition | 1075 K | 1075 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 33 |  |
-| Phase transition | 1076 K | 1076 | liquidus: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 8 |  |
-| Phase transition | 1077 K | 1077 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 35 |  |
-| Phase transition | 1100 K | 1100 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 17 |  |
-| Phase transition | 1101 K | 1101 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 38 |  |
-| Phase transition | 1101 K | 1101 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 37 |  |
-| Phase transition | 1101 K | 1101 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 18 |  |
-| Phase transition | 1125 K | 1125 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 40 |  |
-| Phase transition | 1126 K | 1126 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 39 |  |
-| Phase transition | 1150 K | 1150 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 19 |  |
-| Phase transition | 1152 K | 1152 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 20 |  |
-| Phase transition | 1172 K | 1172 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 42 |  |
-| Phase transition | 1173 K | 1173 | liquidus: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 41 |  |
-| Phase transition | 1190 K | 1190 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 21 |  |
-| Phase transition | 1196 K | 1196 | liquidus: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 22 |  |
-| Phase transition | 1510 K | 1510 | congruent | experimental | [1] Ghasemi 2015 | p. 1 | “In the As-Ga system, there are three solution phases, liquid, (Ga) and (As) and one stoichiometric phase, GaAs, with zinc-blende structure which melts congruently at 1510 K.” |
+| Phase transition | 960 K | 960 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 9 |  |
+| Phase transition | 964 K | 964 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 24 |  |
+| Phase transition | 965 K | 965 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 23 |  |
+| Phase transition | 965 K | 965 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 10 |  |
+| Phase transition | 981 K | 981 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 26 |  |
+| Phase transition | 981 K | 981 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 25 |  |
+| Phase transition | 1000 K | 1000 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 11 |  |
+| Phase transition | 1003 K | 1003 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 12 |  |
+| Phase transition | 1009 K | 1009 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 28 |  |
+| Phase transition | 1009 K | 1009 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 27 |  |
+| Phase transition | 1023 K | 1023 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 30 |  |
+| Phase transition | 1024 K | 1024 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 29 |  |
+| Phase transition | 1026 K | 1026 | other: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 1 |  |
+| Phase transition | 1028 K | 1028 | other: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 2 |  |
+| Phase transition | 1034 K | 1034 | other: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 3 |  |
+| Phase transition | 1037 K | 1037 | other: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 4 |  |
+| Phase transition | 1049 K | 1049 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 32 |  |
+| Phase transition | 1050 K | 1050 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 13 |  |
+| Phase transition | 1051 K | 1051 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 31 |  |
+| Phase transition | 1052 K | 1052 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 14 |  |
+| Phase transition | 1071 K | 1071 | other: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 5 |  |
+| Phase transition | 1073 K | 1073 | other: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 7 |  |
+| Phase transition | 1073 K | 1073 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 34 |  |
+| Phase transition | 1073 K | 1073 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 15 |  |
+| Phase transition | 1074 K | 1074 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 36 |  |
+| Phase transition | 1074 K | 1074 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 16 |  |
+| Phase transition | 1075 K | 1075 | other: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 6 |  |
+| Phase transition | 1075 K | 1075 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 33 |  |
+| Phase transition | 1076 K | 1076 | other: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 8 |  |
+| Phase transition | 1077 K | 1077 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 35 |  |
+| Phase transition | 1100 K | 1100 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 17 |  |
+| Phase transition | 1101 K | 1101 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 38 |  |
+| Phase transition | 1101 K | 1101 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 37 |  |
+| Phase transition | 1101 K | 1101 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 18 |  |
+| Phase transition | 1125 K | 1125 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 40 |  |
+| Phase transition | 1126 K | 1126 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 39 |  |
+| Phase transition | 1150 K | 1150 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 19 |  |
+| Phase transition | 1152 K | 1152 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 20 |  |
+| Phase transition | 1172 K | 1172 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 42 |  |
+| Phase transition | 1173 K | 1173 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 41 |  |
+| Phase transition | 1190 K | 1190 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 21 |  |
+| Phase transition | 1196 K | 1196 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 22 |  |
+| Phase transition | 1510 K | 1510 | congruent transformation | experimental | [1] Ghasemi 2015 | p. 1 | “In the As-Ga system, there are three solution phases, liquid, (Ga) and (As) and one stoichiometric phase, GaAs, with zinc-blende structure which melts congruently at 1510 K.” |
 | Phase transition | 1511 K | 1511 | GaAs | experimental | [2] Ansara 1984 | p. 1 | “Klister and Thoma ( ) using a differential temperature analysis, measured a melting temperature qf 1511 K.” |
 
 ### Heat capacity / entropy / enthalpy (3)

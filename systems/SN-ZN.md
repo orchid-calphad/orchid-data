@@ -55,7 +55,7 @@ Table: Invariant reactions reported in the literature for the Sn–Zn system (9)
 | 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.139 | experimental | [1] Srivastava 1993; _cites ref. 7_ | Table 4, p. 7, row 3 |  |
 | 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.135 | experimental | [1] Srivastava 1993; _cites ref. 5_ | Table 4, p. 7, row 2 |  |
 | 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.146 | experimental | [1] Srivastava 1993; _cites ref. 15_ | Table 4, p. 7, row 5 |  |
-| 471.7 | Eutectic: Liquid -> bct-A5 + hcp-Zn | L: Zn 0.135; bct-A5: Zn 0.006; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 305, row 1 |  |
+| 471.7 | eutectic: Liquid -> bct-A5 + hcp-Zn | L: Zn 0.135; bct-A5: Zn 0.006; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 305, row 1 |  |
 | 471.46 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.149 | model | [1] Srivastava 1993 | Table 4, p. 7, row 7 |  |
 | 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.146 | experimental | [1] Srivastava 1993; _cites ref. 9_ | Table 4, p. 7, row 6 |  |
 | 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.158 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 4, p. 7, row 1 |  |

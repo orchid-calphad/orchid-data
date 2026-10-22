@@ -61,20 +61,20 @@ Table: Invariant reactions reported in the literature for the Sc–Zn system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1607.15 | Eutectic: βSc -> Liquid+αSc | βSc: Zn 0.0016; L: Zn 0.0977; αSc: Zn 0.0014 | model | [1] Tang 2012 | Table 3, p. 6, row 1 |  |
-| 1298.15 | Peritectic: Liquid+ScZn -> ScZn2 | L: Zn 0.6893; ScZn: Zn 0.5; ScZn2: Zn 0.6667 | model | [1] Tang 2012 | Table 3, p. 6, row 5 |  |
-| 1298.15 | Peritectic: Liquid+ScZn -> ScZn2 | ScZn: Zn 0.5; ScZn2: Zn 0.666667 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 4 |  |
+| 1607.15 | eutectic: βSc -> Liquid+αSc | βSc: Zn 0.0016; L: Zn 0.0977; αSc: Zn 0.0014 | model | [1] Tang 2012 | Table 3, p. 6, row 1 |  |
+| 1298.15 | peritectic: Liquid+ScZn -> ScZn2 | L: Zn 0.6893; ScZn: Zn 0.5; ScZn2: Zn 0.6667 | model | [1] Tang 2012 | Table 3, p. 6, row 5 |  |
+| 1298.15 | peritectic: Liquid+ScZn -> ScZn2 | ScZn: Zn 0.5; ScZn2: Zn 0.666667 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 4 |  |
 | 1223.15 | eutectic: liquid = ScZn+αSc |  | model | [1] Tang 2012 | p. 6 | “According to the present calculation, the computed eutectic reaction: liquid = ScZn+αSc is located at 950 oC and 77.45 at.% Sc.” |
-| 1223.15 | Eutectic: Liquid -> ScZn+Hcp_A3 | L: Zn 0.2455; ScZn: Zn 0.5; Hcp_A3: Zn 0.0024 | model | [1] Tang 2012 | Table 3, p. 6, row 7 |  |
-| 1223.15 | Eutectic: Liquid -> ScZn+Hcp_A3 | ScZn: Zn 0.5 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 6 |  |
-| 1093.15 | Peritectic: Liquid+ScZn2 -> Sc13Zn58 | L: Zn 0.8392; ScZn2: Zn 0.6667; Sc13Zn58: Zn 0.8169 | model | [1] Tang 2012 | Table 3, p. 6, row 9 |  |
-| 1093.15 | Peritectic: Liquid+ScZn2 -> Sc13Zn58 | ScZn2: Zn 0.666667; Sc13Zn58: Zn 0.816901 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 8 |  |
-| 1088.15 | Eutectic: Liquid -> Sc13Zn58+Sc3Zn17 | Sc13Zn58: Zn 0.816901; Sc3Zn17: Zn 0.85 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 10 |  |
-| 1088.15 | Eutectic: Liquid -> Sc13Zn58+Sc3Zn17 | L: Zn 0.8517; Sc13Zn58: Zn 0.8169; Sc3Zn17: Zn 0.85 | model | [1] Tang 2012 | Table 3, p. 6, row 11 |  |
-| 748.15 | Peritectic: Liquid+Sc3Zn17 -> ScZn12 | Sc3Zn17: Zn 0.85; ScZn12: Zn 0.923077 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 12 |  |
-| 748.15 | Peritectic: Liquid+Sc3Zn17 -> ScZn12 | L: Zn 0.9973; Sc3Zn17: Zn 0.85; ScZn12: Zn 0.923 | model | [1] Tang 2012 | Table 3, p. 6, row 13 |  |
-| 692.15 | Eutectic: Liquid -> (Zn)+ScZn12 | L: Zn 0.9997; (Zn): Zn 1; ScZn12: Zn 0.923 | model | [1] Tang 2012 | Table 3, p. 6, row 15 |  |
-| 688.15 | Eutectic: Liquid -> (Zn)+ScZn12 | ScZn12: Zn 0.923077 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 14 |  |
+| 1223.15 | eutectic: Liquid -> ScZn+Hcp_A3 | L: Zn 0.2455; ScZn: Zn 0.5; Hcp_A3: Zn 0.0024 | model | [1] Tang 2012 | Table 3, p. 6, row 7 |  |
+| 1223.15 | eutectic: Liquid -> ScZn+Hcp_A3 | ScZn: Zn 0.5 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 6 |  |
+| 1093.15 | peritectic: Liquid+ScZn2 -> Sc13Zn58 | L: Zn 0.8392; ScZn2: Zn 0.6667; Sc13Zn58: Zn 0.8169 | model | [1] Tang 2012 | Table 3, p. 6, row 9 |  |
+| 1093.15 | peritectic: Liquid+ScZn2 -> Sc13Zn58 | ScZn2: Zn 0.666667; Sc13Zn58: Zn 0.816901 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 8 |  |
+| 1088.15 | eutectic: Liquid -> Sc13Zn58+Sc3Zn17 | Sc13Zn58: Zn 0.816901; Sc3Zn17: Zn 0.85 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 10 |  |
+| 1088.15 | eutectic: Liquid -> Sc13Zn58+Sc3Zn17 | L: Zn 0.8517; Sc13Zn58: Zn 0.8169; Sc3Zn17: Zn 0.85 | model | [1] Tang 2012 | Table 3, p. 6, row 11 |  |
+| 748.15 | peritectic: Liquid+Sc3Zn17 -> ScZn12 | Sc3Zn17: Zn 0.85; ScZn12: Zn 0.923077 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 12 |  |
+| 748.15 | peritectic: Liquid+Sc3Zn17 -> ScZn12 | L: Zn 0.9973; Sc3Zn17: Zn 0.85; ScZn12: Zn 0.923 | model | [1] Tang 2012 | Table 3, p. 6, row 13 |  |
+| 692.15 | eutectic: Liquid -> (Zn)+ScZn12 | L: Zn 0.9997; (Zn): Zn 1; ScZn12: Zn 0.923 | model | [1] Tang 2012 | Table 3, p. 6, row 15 |  |
+| 688.15 | eutectic: Liquid -> (Zn)+ScZn12 | ScZn12: Zn 0.923077 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 14 |  |
 
 ## Other properties
 
@@ -84,8 +84,8 @@ Table: Phase transition, Sc–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1503.15 K | 1503.15 | Congruent: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 2 |  |
-| Phase transition | 1503.15 K | 1503.15 | Congruent: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | model | [1] Tang 2012 | Table 3, p. 6, row 3 |  |
+| Phase transition | 1503.15 K | 1503.15 | congruent melting: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 2 |  |
+| Phase transition | 1503.15 K | 1503.15 | congruent melting: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | model | [1] Tang 2012 | Table 3, p. 6, row 3 |  |
 
 ### Crystal structure (26)
 

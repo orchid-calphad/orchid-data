@@ -67,20 +67,20 @@ Table: Enthalpies of formation, Ca–O system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -635.1 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 6 |  |
-| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -635.1 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
-| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -634.6 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
 | CaO(cr) |  | -634.6 kJ/mol-atom | 298.15 | DFT |  |  | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
-| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -634 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
-| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -634 kJ/mol-atom ± 1.5 | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 4 |  |
+| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.55 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 6 |  |
+| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.55 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
+| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.3 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
+| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
+| CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317 kJ/mol-atom ± 0.75 | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 4 |  |
 | CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -600.9 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
 | CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -565.6 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
 | CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -557.3 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1963_ | Table 3, p. 17, row 10 |  |
 | CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -555.6 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
-| CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -659 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
-| CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -652.7 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
 | CaO2(cr) |  | -648.1 kJ/mol-atom | 298.15 | DFT |  |  | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
-| CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -648.1 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
+| CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -219.667 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
+| CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -217.567 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
+| CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -216.033 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
 
 ## Other properties
 
@@ -92,7 +92,7 @@ Table: Phase transition, Ca–O system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2845 K | 2845 |  | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | p. 17 | “Compared to previous modellings of the system, the description of Lindberg et al. \[17\] features a discontinuity in heat content at their selected melting point of 2845 K, and the one of Liang et al. \[18\] does not reproduce the very high temperature increase in heat content observed experimentally by Chekhovskoi et al. \[34\] and in molecular dynamics simulations conducted by Alvares et al. \[37\].” |
 | Phase transition | 3217 K | 3217 | other | model | [1] Liang 2018 | p. 6 | “At 3217 K the three-phase equilibrium, Gas (0.8 at.% O) + L + CaO(s) is calculated in the binary Ca-O system at 1 bar.” |
-| Phase transition | 3221.8 K | 3221.8 | congruent | model | [1] Liang 2018 | p. 14 | “However, in the binary Ca-O system the congruent melting point of CaO occurs at 3221.8 K.” |
+| Phase transition | 3221.8 K | 3221.8 | congruent transformation | model | [1] Liang 2018 | p. 14 | “However, in the binary Ca-O system the congruent melting point of CaO occurs at 3221.8 K.” |
 | Phase transition | 3222 K | 3222 |  | model | [2] Deffrennes 2020 | p. 19 | “The heat capacity of liquid CaO modelled by Liang et al. \[18\] is in acceptable agreement with the one proposed in this work above the melting point of CaO selected at 3222 K in both assessments.” |
 | Phase transition | 3222 K | 3222 |  | experimental | [2] Deffrennes 2020 | p. 12 | “To begin with, the heat capacity of the phase was described up to the compound's selected melting point of 3222 K using the DFT data from Alvares et al. \[37\] up to 1700 K and the heat content data obtained by the same authors by ab initio molecular dynamics.” |
 
@@ -102,24 +102,24 @@ Table: Phase equilibrium, Ca–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 2843 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Kanolt 1913_ | Table 2, p. 5, row 1 |  |
-| Phase composition |  | 2845 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Factsage 2017_ | Table 2, p. 5, row 16 |  |
-| Phase composition |  | 2849 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Schumacher 1926_ [doi](https://doi.org/10.1021/ja01413a013) | Table 2, p. 5, row 2 |  |
-| Phase composition |  | 2863 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Noguchi 1967_ [doi](https://doi.org/10.1016/0038-092x%2867%2990022-9) | Table 2, p. 5, row 6 |  |
-| Phase composition |  | 2886 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Hlavac 1982_ [doi](https://doi.org/10.1351/pac198254030681) | Table 2, p. 5, row 12 |  |
-| Phase composition |  | 2886 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Wriedt 1985_ [doi](https://doi.org/10.1007/bf02880517) | Table 2, p. 5, row 13 |  |
-| Phase composition |  | 2890 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Panek 1979_ | Table 2, p. 5, row 9 |  |
-| Phase composition |  | 2893 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites OlShanskil 1958_ | Table 2, p. 5, row 3 |  |
-| Phase composition |  | 2898 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Doman 1963_ | Table 2, p. 5, row 4 |  |
-| Phase composition |  | 2900 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Kubaschewski 1993_ | Table 2, p. 5, row 14 |  |
-| Phase composition |  | 3172 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Yamada 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb07350.x) | Table 2, p. 5, row 10 |  |
-| Phase composition |  | 3172 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites SGTE 2013_ | Table 2, p. 5, row 17 |  |
-| Phase composition |  | 3173 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Traverse 1969_ | Table 2, p. 5, row 8 |  |
-| Phase composition |  | 3183 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Foex 1965_ [doi](https://doi.org/10.1016/0038-092x%2865%2990162-3) | Table 2, p. 5, row 5 |  |
-| Phase composition |  | 3200 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Chase 1998_ | Table 2, p. 5, row 15 |  |
-| Phase composition |  | 3222 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018 | Table 2, p. 5, row 18 |  |
-| Phase composition |  | 3222 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Manara 2013_ | Table 2, p. 5, row 11 |  |
-| Phase composition |  | 3223 | congruent: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Foex 1968_ | Table 2, p. 5, row 7 |  |
+| Phase composition |  | 2843 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Kanolt 1913_ | Table 2, p. 5, row 1 |  |
+| Phase composition |  | 2845 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Factsage 2017_ | Table 2, p. 5, row 16 |  |
+| Phase composition |  | 2849 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Schumacher 1926_ [doi](https://doi.org/10.1021/ja01413a013) | Table 2, p. 5, row 2 |  |
+| Phase composition |  | 2863 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Noguchi 1967_ [doi](https://doi.org/10.1016/0038-092x%2867%2990022-9) | Table 2, p. 5, row 6 |  |
+| Phase composition |  | 2886 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Hlavac 1982_ [doi](https://doi.org/10.1351/pac198254030681) | Table 2, p. 5, row 12 |  |
+| Phase composition |  | 2886 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Wriedt 1985_ [doi](https://doi.org/10.1007/bf02880517) | Table 2, p. 5, row 13 |  |
+| Phase composition |  | 2890 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Panek 1979_ | Table 2, p. 5, row 9 |  |
+| Phase composition |  | 2893 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites OlShanskil 1958_ | Table 2, p. 5, row 3 |  |
+| Phase composition |  | 2898 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Doman 1963_ | Table 2, p. 5, row 4 |  |
+| Phase composition |  | 2900 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Kubaschewski 1993_ | Table 2, p. 5, row 14 |  |
+| Phase composition |  | 3172 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Yamada 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb07350.x) | Table 2, p. 5, row 10 |  |
+| Phase composition |  | 3172 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites SGTE 2013_ | Table 2, p. 5, row 17 |  |
+| Phase composition |  | 3173 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Traverse 1969_ | Table 2, p. 5, row 8 |  |
+| Phase composition |  | 3183 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Foex 1965_ [doi](https://doi.org/10.1016/0038-092x%2865%2990162-3) | Table 2, p. 5, row 5 |  |
+| Phase composition |  | 3200 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018; _cites Chase 1998_ | Table 2, p. 5, row 15 |  |
+| Phase composition |  | 3222 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | model | [1] Liang 2018 | Table 2, p. 5, row 18 |  |
+| Phase composition |  | 3222 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Manara 2013_ | Table 2, p. 5, row 11 |  |
+| Phase composition |  | 3223 | congruent melting: CaO; _liquid: O 0.5; CaO: O 0.5_ | experimental | [1] Liang 2018; _cites Foex 1968_ | Table 2, p. 5, row 7 |  |
 
 ### Heat capacity / entropy / enthalpy (26)
 

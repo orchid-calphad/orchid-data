@@ -1,20 +1,19 @@
 # AuPt2Sn4: enthalpy of formation
 
-> Enthalpy of formation of AuPt2Sn4: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of AuPt2Sn4: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AuPt2Sn4.html · Markdown: https://data.orchid-project.org/compounds/AuPt2Sn4.md
 
-2 accepted literature formation-enthalpy value(s) (unspecified 2).
+1 accepted literature formation-enthalpy value(s) (unspecified 1).
 
 Systems: [Au–Pt–Sn](https://data.orchid-project.org/systems/AU-PT-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AuPt2Sn4 reported in the literature (2)
+Table: Enthalpy of formation of AuPt2Sn4 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44 kJ/mol-atom | AuPt2Sn4 | 298.15 | unspecified |  | [Au–Pt–Sn](https://data.orchid-project.org/systems/AU-PT-SN.html) | [1] Grolier 2008 | Table VI, p. 13, row 4 |  |
 | -44 kJ/mol-atom | AuPt2Sn4 | 298.15 | unspecified |  | [Au–Pt–Sn](https://data.orchid-project.org/systems/AU-PT-SN.html) | [1] Grolier 2008 | Table VI, p. 13, row 4 |  |
 
 ## Sources

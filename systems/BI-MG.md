@@ -62,38 +62,38 @@ Table: Invariant reactions reported in the literature for the Bi–Mg system (32
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1098 | Congruent: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 2, p. 7, row 31 |  |
-| 1096 | Congruent: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 28 |  |
-| 1094 | Congruent: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Wobst 1962_ | Table 2, p. 7, row 29 |  |
-| 1094 | Congruent: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 30 |  |
-| 1094 | Congruent: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 32 |  |
-| 988 | Congruent: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Grube 1906_ | Table 2, p. 7, row 27 |  |
-| 976 | Allotropic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Wobst 1962_ | Table 2, p. 7, row 15 |  |
-| 976 | Allotropic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 16 |  |
-| 976 | Allotropic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 18 |  |
-| 974 | Allotropic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 2, p. 7, row 17 |  |
-| 973 | Congruent: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Stepanow 1905_ | Table 2, p. 7, row 26 |  |
-| 973 | Allotropic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 14 |  |
-| 961 | Peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.387; L: Bi 0.315; α-Bi2M3: Bi 0.393 | experimental | [1] Acta Metall 2012; _cites Wobst 1962_ | Table 2, p. 7, row 10 |  |
-| 961 | Peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.387; L: Bi 0.315; α-Bi2M3: Bi 0.393 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 11 |  |
-| 961 | Peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.388; L: Bi 0.316; α-Bi2M3: Bi 0.391 | model | [1] Acta Metall 2012; _cites Oh 1992_ | Table 2, p. 7, row 12 |  |
-| 961 | Peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.388; L: Bi 0.32; α-Bi2M3: Bi 0.395 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 13 |  |
-| 959 | Peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.387; L: Bi 0.315; α-Bi2M3: Bi 0.393 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 9 |  |
-| 827 | Eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.133; α-Bi2Mg3: Bi 0.4, Mg 0.6 | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 2, p. 7, row 7 |  |
-| 826 | Eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.128; hcp_A3: Bi 0.011; α-Bi2Mg3: Bi 0.35 | model | [1] Acta Metall 2012; _cites Oh 1992_ | Table 2, p. 7, row 6 |  |
-| 826 | Eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.143; hcp_A3: Bi 0.0112; α-Bi2Mg3: Bi 0.35 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 5 |  |
-| 826 | Eutectic: L->hcp_A3+α-Bi2Mg3 | α-Bi2Mg3: Bi 0.4, Mg 0.6 | experimental | [1] Acta Metall 2012; _cites Wobst 1962_ | Table 2, p. 7, row 4 |  |
-| 825 | Eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.1776; hcp_A3: Bi 0; α-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Grube 1906_ | Table 2, p. 7, row 2 |  |
-| 825 | Eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.143; hcp_A3: Bi 0.015; α-Bi2Mg3: Bi 0.35 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 3 |  |
-| 825 | Eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.124; hcp_A3: Bi 0.011; α-Bi2Mg3: Bi 0.349 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 8 |  |
-| 823 | Eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.13; hcp_A3: Bi 0; α-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Stepanow 1905_ | Table 2, p. 7, row 1 |  |
-| 541 | Eutectic: L->α-Bi2Mg3+Rhom | L: Bi 1; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | experimental | [1] Acta Metall 2012; _cites Grube 1906_ | Table 2, p. 7, row 20 |  |
-| 536 | Eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.967; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 25 |  |
-| 534 | Eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.954; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 2, p. 7, row 24 |  |
-| 534 | Eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.97; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | experimental | [1] Acta Metall 2012; _cites Stepanow 1905_ | Table 2, p. 7, row 19 |  |
-| 533 | Eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.958; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | model | [1] Acta Metall 2012; _cites Oh 1992_ | Table 2, p. 7, row 23 |  |
-| 533 | Eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.957; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 22 |  |
-| 533 | Eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.957; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 21 |  |
+| 1098 | congruent melting: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 2, p. 7, row 31 |  |
+| 1096 | congruent melting: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 28 |  |
+| 1094 | congruent melting: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Wobst 1962_ | Table 2, p. 7, row 29 |  |
+| 1094 | congruent melting: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 30 |  |
+| 1094 | congruent melting: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 32 |  |
+| 988 | congruent melting: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Grube 1906_ | Table 2, p. 7, row 27 |  |
+| 976 | polymorphic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Wobst 1962_ | Table 2, p. 7, row 15 |  |
+| 976 | polymorphic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 16 |  |
+| 976 | polymorphic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 18 |  |
+| 974 | polymorphic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 2, p. 7, row 17 |  |
+| 973 | congruent melting: L->β-Bi2Mg3 | L: Bi 0.4; β-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Stepanow 1905_ | Table 2, p. 7, row 26 |  |
+| 973 | polymorphic: β-Bi2Mg3->α-Bi2Mg3 | β-Bi2Mg3: Bi 0.4; α-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 14 |  |
+| 961 | peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.387; L: Bi 0.315; α-Bi2M3: Bi 0.393 | experimental | [1] Acta Metall 2012; _cites Wobst 1962_ | Table 2, p. 7, row 10 |  |
+| 961 | peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.387; L: Bi 0.315; α-Bi2M3: Bi 0.393 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 11 |  |
+| 961 | peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.388; L: Bi 0.316; α-Bi2M3: Bi 0.391 | model | [1] Acta Metall 2012; _cites Oh 1992_ | Table 2, p. 7, row 12 |  |
+| 961 | peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.388; L: Bi 0.32; α-Bi2M3: Bi 0.395 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 13 |  |
+| 959 | peritectic: β-Bi2Mg3->L+α-Bi2M3 | β-Bi2Mg3: Bi 0.387; L: Bi 0.315; α-Bi2M3: Bi 0.393 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 9 |  |
+| 827 | eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.133; α-Bi2Mg3: Bi 0.4, Mg 0.6 | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 2, p. 7, row 7 |  |
+| 826 | eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.128; hcp_A3: Bi 0.011; α-Bi2Mg3: Bi 0.35 | model | [1] Acta Metall 2012; _cites Oh 1992_ | Table 2, p. 7, row 6 |  |
+| 826 | eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.143; hcp_A3: Bi 0.0112; α-Bi2Mg3: Bi 0.35 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 5 |  |
+| 826 | eutectic: L->hcp_A3+α-Bi2Mg3 | α-Bi2Mg3: Bi 0.4, Mg 0.6 | experimental | [1] Acta Metall 2012; _cites Wobst 1962_ | Table 2, p. 7, row 4 |  |
+| 825 | eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.1776; hcp_A3: Bi 0; α-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Grube 1906_ | Table 2, p. 7, row 2 |  |
+| 825 | eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.143; hcp_A3: Bi 0.015; α-Bi2Mg3: Bi 0.35 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 3 |  |
+| 825 | eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.124; hcp_A3: Bi 0.011; α-Bi2Mg3: Bi 0.349 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 8 |  |
+| 823 | eutectic: L->hcp_A3+α-Bi2Mg3 | L: Bi 0.13; hcp_A3: Bi 0; α-Bi2Mg3: Bi 0.4 | experimental | [1] Acta Metall 2012; _cites Stepanow 1905_ | Table 2, p. 7, row 1 |  |
+| 541 | eutectic: L->α-Bi2Mg3+Rhom | L: Bi 1; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | experimental | [1] Acta Metall 2012; _cites Grube 1906_ | Table 2, p. 7, row 20 |  |
+| 536 | eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.967; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | model | [1] Acta Metall 2012 | Table 2, p. 7, row 25 |  |
+| 534 | eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.954; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 2, p. 7, row 24 |  |
+| 534 | eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.97; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | experimental | [1] Acta Metall 2012; _cites Stepanow 1905_ | Table 2, p. 7, row 19 |  |
+| 533 | eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.958; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | model | [1] Acta Metall 2012; _cites Oh 1992_ | Table 2, p. 7, row 23 |  |
+| 533 | eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.957; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | model | [1] Acta Metall 2012; _cites Nayeb-Hashemi 1985_ | Table 2, p. 7, row 22 |  |
+| 533 | eutectic: L->α-Bi2Mg3+Rhom | L: Bi 0.957; α-Bi2Mg3: Bi 0.4; Rhom: Bi 1 | experimental | [1] Acta Metall 2012; _cites Grube 1934_ | Table 2, p. 7, row 21 |  |
 
 ## Formation enthalpies
 

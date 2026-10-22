@@ -1,10 +1,10 @@
 # Al–Sm system
 
-> Al–Sm system: 103 accepted literature values (invariant reaction 55, crystal structure 31, phase transition 12, phase equilibrium 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sm system: 102 accepted literature values (invariant reaction 55, crystal structure 30, phase transition 12, phase equilibrium 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SM.html · Markdown: https://data.orchid-project.org/systems/AL-SM.md
 
-103 accepted literature values from 2 paper(s) (experimental 42, model 30, unspecified 31); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+102 accepted literature values from 2 paper(s) (experimental 42, model 30, unspecified 30); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SM.json) · [CSV](https://data.orchid-project.org/systems/AL-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SM/AlSm-08Jia.json) · [Markdown](https://data.orchid-project.org/systems/AL-SM.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 42 |
 | model | 30 |
-| unspecified | 31 |
+| unspecified | 30 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 55 |
 | phase transition | 12 |
 | phase equilibrium | 5 |
-| crystal structure | 31 |
+| crystal structure | 30 |
 
 ## Calculated phase diagrams
 
@@ -173,10 +173,10 @@ Table: Phase transition, Al–Sm system
 | Phase transition | 1339.15 K | 1339.15 | other | experimental | [2] Saccone 1998 | p. 10 | “In the literature (see Fig. 7) a catatectic decomposition was proposed for SmsAlit, with the invariant temperature of 1066°C.” |
 | Phase transition | 1393.15 K | 1393.15 |  | experimental | [2] Saccone 1998 | p. 10 | “The temperature here suggested is 113O"C, in very good agreement with the value 1120°C proposed in literature.” |
 | Phase transition | 1487.15 K | 1487.15 |  | experimental | [2] Saccone 1998 | p. 10 | “Previously a composition of x77 at% Al and a lower temperature ( z 1214°C) have been suggested.” |
-| Phase transition | 1644.9 K | 1644.9 | congruent | model | [1] Zhou 2008; _cites Saccone 1998_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900066-6) | p. 9 | “Our model yields a eutectic (L fi b + r) temperature of 1585 K, where the previously reported model gives 1643.5 K, a value almost equal to the congruent melting temperature of 1644.9 K for the Al4Sm-b phase.\[20\]” |
+| Phase transition | 1644.9 K | 1644.9 | congruent transformation | model | [1] Zhou 2008; _cites Saccone 1998_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900066-6) | p. 9 | “Our model yields a eutectic (L fi b + r) temperature of 1585 K, where the previously reported model gives 1643.5 K, a value almost equal to the congruent melting temperature of 1644.9 K for the Al4Sm-b phase.\[20\]” |
 | Phase transition | 1653.15 K | 1653.15 |  | experimental | [2] Saccone 1998 | p. 9 | “The melting temperature now measured is x 1380°C (instead of = 145O"C, average of the values given by Refs 45 and 46).” |
-| Phase transition | 1653.15 K | 1653.15 (none) | SmsAlr | experimental | [2] Saccone 1998 | p. 1 | “The following inter-metallic compounds exist: Sm2Al (peritectic decomposition, at 860°C) SmAl (per.dec.960"Q SmAl2 (melting point 148O"Q SmAls (peritectoidal decomposition at 113o"C), SmsAlr , (melting point -1380°C).” |
-| Phase transition | 1655 K | 1655 | congruent | model | [1] Zhou 2008 | p. 10 | “Most notably, our results include (1) stability of the Al4Sm-b phase from its congruent melting temperature of 1655 K to a decomposition temperature of 1333.3 K, (2) Gibbs free energy functions for the metastable Al11Sm3-a and Al4Sm-c phases, (3) prediction of chemical ordering as a function of temperature in the liquid phase, and (4) liquidus boundaries for both stable and metastable phases that…” |
+| Phase transition | 1653.15 K | 1653.15 | SmsAlr | experimental | [2] Saccone 1998 | p. 1 | “The following inter-metallic compounds exist: Sm2Al (peritectic decomposition, at 860°C) SmAl (per.dec.960"Q SmAl2 (melting point 148O"Q SmAls (peritectoidal decomposition at 113o"C), SmsAlr , (melting point -1380°C).” |
+| Phase transition | 1655 K | 1655 | congruent transformation | model | [1] Zhou 2008 | p. 10 | “Most notably, our results include (1) stability of the Al4Sm-b phase from its congruent melting temperature of 1655 K to a decomposition temperature of 1333.3 K, (2) Gibbs free energy functions for the metastable Al11Sm3-a and Al4Sm-c phases, (3) prediction of chemical ordering as a function of temperature in the liquid phase, and (4) liquidus boundaries for both stable and metastable phases that…” |
 
 ### Phase equilibrium (5)
 
@@ -190,7 +190,7 @@ Table: Phase equilibrium, Al–Sm system
 | Phase composition |  | 1453 | σ + β; _σ: Al 0.686, Sm 0.314; β: Al 0.79, Sm 0.21_ | experimental | [1] Zhou 2008 | Table II, p. 3, row 4 |  |
 | Phase composition |  | 1453 | σ + δ + β; _σ: Al 0.687, Sm 0.313; δ: Al 0.756, Sm 0.244; β: Al 0.786, Sm 0.214_ | experimental | [1] Zhou 2008 | Table II, p. 3, row 3 |  |
 
-### Crystal structure (31)
+### Crystal structure (30)
 
 Table: Crystal structure, Al–Sm system
 
@@ -219,7 +219,6 @@ Table: Crystal structure, Al–Sm system
 | Lattice c | 963.1 pm | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
 | Lattice c | 962.5 pm | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
 | Lattice c | 990 pm | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 12 |  |
-| Lattice c | 990 pm | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 13 |  |
 | Lattice c | 997 pm | 298.15 | Sm3Al11 (metastable?); _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 14 |  |
 | Lattice c | 568.8 pm | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 7 |  |
 | Lattice c | 567.8 pm | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 6 |  |

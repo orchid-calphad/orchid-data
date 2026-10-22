@@ -49,10 +49,10 @@ Table: Invariant reactions reported in the literature for the Au–Co system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1270.4 | Eutectic: L -> Au + αCo | L: Co 0.262; Au: Co 0.208; αCo: Co 0.977 | model | [1] Dong 2009 | Table I, p. 2, row 2 |  |
-| 1269.5 | Eutectic: L -> Au + αCo | L: Co 0.248; Au: Co 0.23; αCo: Co 0.981 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 1 |  |
-| 695 | Eutectoid: αCo -> Au + εCo | αCo: Co 0.9995; Au: Co 0.002 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 3 |  |
-| 694 | Eutectoid: αCo -> Au + εCo | αCo: Co 0.999; Au: Co 0.009; εCo: Co 0.9993 | model | [1] Dong 2009 | Table I, p. 2, row 4 |  |
+| 1270.4 | eutectic: L -> Au + αCo | L: Co 0.262; Au: Co 0.208; αCo: Co 0.977 | model | [1] Dong 2009 | Table I, p. 2, row 2 |  |
+| 1269.5 | eutectic: L -> Au + αCo | L: Co 0.248; Au: Co 0.23; αCo: Co 0.981 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 1 |  |
+| 695 | eutectoid: αCo -> Au + εCo | αCo: Co 0.9995; Au: Co 0.002 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 3 |  |
+| 694 | eutectoid: αCo -> Au + εCo | αCo: Co 0.999; Au: Co 0.009; εCo: Co 0.9993 | model | [1] Dong 2009 | Table I, p. 2, row 4 |  |
 
 ## Sources
 

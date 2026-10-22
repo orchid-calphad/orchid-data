@@ -99,7 +99,7 @@ Table: Phase transition, In–La system
 | Phase transition | 1413 K | 1413 | L->LaIn3; _L: La 0.25; LaIn3: La 0.25_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 24 |  |
 | Phase transition | 1454 K | 1454 | L->La3In5; _L: La 0.375; La3In5: La 0.375_ | model | [1] Wei 2002 | Table 1, p. 2, row 17 |  |
 | Phase transition | 1458 K | 1458 | L->La3In5; _L: La 0.375; La3In5: La 0.375_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 18 |  |
-| Phase transition | 1458 K | 1458 | congruent | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2 | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
+| Phase transition | 1458 K | 1458 | congruent transformation | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2 | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
 | Phase transition | 1498 K | 1498 |  | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2 | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
 
 ## Sources

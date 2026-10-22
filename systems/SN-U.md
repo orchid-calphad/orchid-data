@@ -84,48 +84,48 @@ Table: Invariant reactions reported in the literature for the Sn–U system (42)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1773.15 | Congruent: L -> Sn2U3 | L: Sn 0.4, U 0.6; Sn2U3: Sn 0.4, U 0.6 | model | [1] Sheldon 1987 | Table 1, p. 2, row 8 |  |
-| 1773.15 | Congruent: L -> Sn2U3 | L: U 0.6; Sn2U3: U 0.6 | model | [1] Sheldon 1987 | Table 1, p. 2, row 7 |  |
-| 1666.15 | Congruently melting: Liquid->U5Sn4 | Liquid: U 0.556; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 3 |  |
-| 1663.15 | Congruently melting: Liquid->U5Sn4 | Liquid: U 0.556; U5Sn4: U 0.556 | model | [2] Wang 2021 | Table 3, p. 7, row 1 |  |
-| 1663.15 | Congruently melting: Liquid->U5Sn4 | Liquid: U 0.556; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 2 |  |
-| 1661.15 | Peritectic: Liquid+U5Sn4->USn | Liquid: U 0.5; U5Sn4: U 0.556; USn: U 0.5 | model | [2] Wang 2021 | Table 3, p. 7, row 4 |  |
-| 1658.15 | Peritectic: Liquid+U5Sn4->USn | Liquid: U 0.5; U5Sn4: U 0.556; USn: U 0.5 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 5 |  |
-| 1655.15 | Peritectic: Liquid+U5Sn4->USn | Liquid: U 0.5; U5Sn4: U 0.556; USn: U 0.5 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 6 |  |
-| 1653.15 | Peritectic: L + Sn2U3 -> Sn5U3 | L: U 0.333; Sn2U3: U 0.6; Sn5U3: U 0.375 | model | [1] Sheldon 1987 | Table 1, p. 2, row 5 |  |
-| 1653.15 | Peritectic: L + Sn2U3 -> Sn5U3 | L: U 0.338; Sn2U3: U 0.6; Sn5U3: U 0.375 | model | [1] Sheldon 1987 | Table 1, p. 2, row 6 |  |
+| 1773.15 | congruent melting: L -> Sn2U3 | L: Sn 0.4, U 0.6; Sn2U3: Sn 0.4, U 0.6 | model | [1] Sheldon 1987 | Table 1, p. 2, row 8 |  |
+| 1773.15 | congruent melting: L -> Sn2U3 | L: U 0.6; Sn2U3: U 0.6 | model | [1] Sheldon 1987 | Table 1, p. 2, row 7 |  |
+| 1666.15 | congruent melting: Liquid->U5Sn4 | Liquid: U 0.556; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 3 |  |
+| 1663.15 | congruent melting: Liquid->U5Sn4 | Liquid: U 0.556; U5Sn4: U 0.556 | model | [2] Wang 2021 | Table 3, p. 7, row 1 |  |
+| 1663.15 | congruent melting: Liquid->U5Sn4 | Liquid: U 0.556; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 2 |  |
+| 1661.15 | peritectic: Liquid+U5Sn4->USn | Liquid: U 0.5; U5Sn4: U 0.556; USn: U 0.5 | model | [2] Wang 2021 | Table 3, p. 7, row 4 |  |
+| 1658.15 | peritectic: Liquid+U5Sn4->USn | Liquid: U 0.5; U5Sn4: U 0.556; USn: U 0.5 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 5 |  |
+| 1655.15 | peritectic: Liquid+U5Sn4->USn | Liquid: U 0.5; U5Sn4: U 0.556; USn: U 0.5 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 6 |  |
+| 1653.15 | peritectic: L + Sn2U3 -> Sn5U3 | L: U 0.333; Sn2U3: U 0.6; Sn5U3: U 0.375 | model | [1] Sheldon 1987 | Table 1, p. 2, row 5 |  |
+| 1653.15 | peritectic: L + Sn2U3 -> Sn5U3 | L: U 0.338; Sn2U3: U 0.6; Sn5U3: U 0.375 | model | [1] Sheldon 1987 | Table 1, p. 2, row 6 |  |
 | 1653.15 | peritectic |  | experimental | [1] Sheldon 1987; _cites ref. 45Tre_ | p. 3 | “B a s e d on m e t a l l o g r a p h i c a n d t h e r m a l a n a l y s i s data, the composition of t h i s compound was proposed by \[45Tre\] to be Sn~U3, with a peritectic decomposition a t 1380 ~” |
-| 1633.15 | Peritectic: Liquid+USn->USn2 | USn: U 0.5; USn2: U 0.3333 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 8 |  |
-| 1633.15 | Peritectic: Liquid+USn->USn2 | Liquid: U 0.2903; USn: U 0.5; USn2: U 0.3333 | model | [2] Wang 2021 | Table 3, p. 7, row 7 |  |
-| 1633.15 | Peritectic: Liquid+USn->USn2 | Liquid: U 0.256; USn: U 0.5; USn2: U 0.3333 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 9 |  |
-| 1623.15 | Peritectic: Liquid+USn2->U3Sn7 | USn2: U 0.3333; U3Sn7: U 0.3 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 11 |  |
-| 1623.15 | Peritectic: Liquid+USn2->U3Sn7 | Liquid: U 0.235; USn2: U 0.3333; U3Sn7: U 0.3 | model | [2] Wang 2021 | Table 3, p. 7, row 10 |  |
-| 1623.15 | Peritectic: L + Sn5U3 -> Sn3U | L: U 0.232; Sn5U3: U 0.375; Sn3U: U 0.25 | model | [1] Sheldon 1987 | Table 1, p. 2, row 3 |  |
-| 1623.15 | Peritectic: L + Sn5U3 -> Sn3U | L: U 0.244; Sn5U3: U 0.375; Sn3U: U 0.25 | model | [1] Sheldon 1987 | Table 1, p. 2, row 4 |  |
+| 1633.15 | peritectic: Liquid+USn->USn2 | USn: U 0.5; USn2: U 0.3333 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 8 |  |
+| 1633.15 | peritectic: Liquid+USn->USn2 | Liquid: U 0.2903; USn: U 0.5; USn2: U 0.3333 | model | [2] Wang 2021 | Table 3, p. 7, row 7 |  |
+| 1633.15 | peritectic: Liquid+USn->USn2 | Liquid: U 0.256; USn: U 0.5; USn2: U 0.3333 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 9 |  |
+| 1623.15 | peritectic: Liquid+USn2->U3Sn7 | USn2: U 0.3333; U3Sn7: U 0.3 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 11 |  |
+| 1623.15 | peritectic: Liquid+USn2->U3Sn7 | Liquid: U 0.235; USn2: U 0.3333; U3Sn7: U 0.3 | model | [2] Wang 2021 | Table 3, p. 7, row 10 |  |
+| 1623.15 | peritectic: L + Sn5U3 -> Sn3U | L: U 0.232; Sn5U3: U 0.375; Sn3U: U 0.25 | model | [1] Sheldon 1987 | Table 1, p. 2, row 3 |  |
+| 1623.15 | peritectic: L + Sn5U3 -> Sn3U | L: U 0.244; Sn5U3: U 0.375; Sn3U: U 0.25 | model | [1] Sheldon 1987 | Table 1, p. 2, row 4 |  |
 | 1623.15 | peritectic |  | experimental | [1] Sheldon 1987; _cites ref. 45Tre_ | p. 3 | “\[45Tre\| reported this compound decomposes peritectically at 1350 ~” |
-| 1623.15 | Peritectic: Liquid+USn2->U3Sn7 | Liquid: U 0.221; USn2: U 0.3333; U3Sn7: U 0.3 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 12 |  |
-| 1613.15 | Peritectic: Liquid+U3Sn7->USn3 | U3Sn7: U 0.3; USn3: U 0.25 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 14 |  |
-| 1613.15 | Peritectic: Liquid+U3Sn7->USn3 | Liquid: U 0.196; U3Sn7: U 0.3; USn3: U 0.25 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 15 |  |
-| 1613.15 | Peritectic: Liquid+U3Sn7->USn3 | Liquid: U 0.1982; U3Sn7: U 0.3; USn3: U 0.25 | model | [2] Wang 2021 | Table 3, p. 7, row 13 |  |
-| 1408.15 | Freezing point: L -> γU | L: U 1; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 11 |  |
-| 1408.15 | Eutectic: L -> Sn2U3 + γU | L: U 0.999; Sn2U3: U 0.6; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 9 |  |
-| 1402.15 | Eutectic: Liquid->bcc_A2+U5Sn4 | Liquid: U 0.97; bcc_A2: U 0.984; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 18 |  |
-| 1393.15 | Eutectic: Liquid->bcc_A2+U5Sn4 | Liquid: U 0.88; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 17 |  |
-| 1388.15 | Eutectic: Liquid->bcc_A2+U5Sn4 | Liquid: U 0.9682; bcc_A2: U 0.9661; U5Sn4: U 0.556 | model | [2] Wang 2021 | Table 3, p. 7, row 16 |  |
-| 1354.15 | Eutectic: L -> Sn2U3 + γU | L: U 0.97; Sn2U3: U 0.6; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 10 |  |
-| 1049.15 | Eutectoid: bcc_U->U5Sn4+Tetragonal_U | bcc_U: U 0.9953; U5Sn4: U 0.556; Tetragonal_U: U 0.9954 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 21 |  |
-| 1049.15 | Eutectoid: bcc_U->U5Sn4+Tetragonal_U | U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 20 |  |
-| 1049.15 | Allotropic transformation: γU -> βU | γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 12 |  |
-| 1049.15 | Eutectoid: bcc_U->U5Sn4+Tetragonal_U | bcc_U: U 0.9999; U5Sn4: U 0.556; Tetragonal_U: U 1 | model | [2] Wang 2021 | Table 3, p. 7, row 19 |  |
-| 942.15 | Eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | Tetragonal_U: U 1; U5Sn4: U 0.556; Orthorhombic_U: U 1 | model | [2] Wang 2021 | Table 3, p. 7, row 22 |  |
-| 942.15 | Allotropic transformation: βU -> αU | βU: U 1; αU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 13 |  |
-| 941.15 | Eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | Tetragonal_U: U 0.9971; U5Sn4: U 0.556; Orthorhombic_U: U 0.9968 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 24 |  |
-| 938.15 | Eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 23 |  |
-| 505.15 | Eutectic: Liquid->USn3+bct_Sn | Liquid: U 0; USn3: U 0.25; bct_Sn: U 0 | model | [2] Wang 2021 | Table 3, p. 7, row 25 |  |
-| 505.15 | Eutectic: Liquid->USn3+bct_Sn | USn3: U 0.25 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 26 |  |
-| 505.15 | Eutectic: Liquid->USn3+bct_Sn | Liquid: U 0; USn3: U 0.25; bct_Sn: U 0 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 27 |  |
-| 505.15 | Freezing point: L -> βSn | L: U 0; βSn: U 0 | model | [1] Sheldon 1987 | Table 1, p. 2, row 1 |  |
-| 286.15 | Allotropic transformation: βSn -> αSn | βSn: U 0; αSn: U 0 | model | [1] Sheldon 1987 | Table 1, p. 2, row 2 |  |
+| 1623.15 | peritectic: Liquid+USn2->U3Sn7 | Liquid: U 0.221; USn2: U 0.3333; U3Sn7: U 0.3 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 12 |  |
+| 1613.15 | peritectic: Liquid+U3Sn7->USn3 | U3Sn7: U 0.3; USn3: U 0.25 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 14 |  |
+| 1613.15 | peritectic: Liquid+U3Sn7->USn3 | Liquid: U 0.196; U3Sn7: U 0.3; USn3: U 0.25 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 15 |  |
+| 1613.15 | peritectic: Liquid+U3Sn7->USn3 | Liquid: U 0.1982; U3Sn7: U 0.3; USn3: U 0.25 | model | [2] Wang 2021 | Table 3, p. 7, row 13 |  |
+| 1408.15 | other: L -> γU | L: U 1; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 11 |  |
+| 1408.15 | eutectic: L -> Sn2U3 + γU | L: U 0.999; Sn2U3: U 0.6; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 9 |  |
+| 1402.15 | eutectic: Liquid->bcc_A2+U5Sn4 | Liquid: U 0.97; bcc_A2: U 0.984; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 18 |  |
+| 1393.15 | eutectic: Liquid->bcc_A2+U5Sn4 | Liquid: U 0.88; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 17 |  |
+| 1388.15 | eutectic: Liquid->bcc_A2+U5Sn4 | Liquid: U 0.9682; bcc_A2: U 0.9661; U5Sn4: U 0.556 | model | [2] Wang 2021 | Table 3, p. 7, row 16 |  |
+| 1354.15 | eutectic: L -> Sn2U3 + γU | L: U 0.97; Sn2U3: U 0.6; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 10 |  |
+| 1049.15 | eutectoid: bcc_U->U5Sn4+Tetragonal_U | bcc_U: U 0.9953; U5Sn4: U 0.556; Tetragonal_U: U 0.9954 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 21 |  |
+| 1049.15 | eutectoid: bcc_U->U5Sn4+Tetragonal_U | U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 20 |  |
+| 1049.15 | polymorphic: γU -> βU | γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 12 |  |
+| 1049.15 | eutectoid: bcc_U->U5Sn4+Tetragonal_U | bcc_U: U 0.9999; U5Sn4: U 0.556; Tetragonal_U: U 1 | model | [2] Wang 2021 | Table 3, p. 7, row 19 |  |
+| 942.15 | eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | Tetragonal_U: U 1; U5Sn4: U 0.556; Orthorhombic_U: U 1 | model | [2] Wang 2021 | Table 3, p. 7, row 22 |  |
+| 942.15 | polymorphic: βU -> αU | βU: U 1; αU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 13 |  |
+| 941.15 | eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | Tetragonal_U: U 0.9971; U5Sn4: U 0.556; Orthorhombic_U: U 0.9968 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 24 |  |
+| 938.15 | eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 23 |  |
+| 505.15 | eutectic: Liquid->USn3+bct_Sn | Liquid: U 0; USn3: U 0.25; bct_Sn: U 0 | model | [2] Wang 2021 | Table 3, p. 7, row 25 |  |
+| 505.15 | eutectic: Liquid->USn3+bct_Sn | USn3: U 0.25 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 26 |  |
+| 505.15 | eutectic: Liquid->USn3+bct_Sn | Liquid: U 0; USn3: U 0.25; bct_Sn: U 0 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 27 |  |
+| 505.15 | other: L -> βSn | L: U 0; βSn: U 0 | model | [1] Sheldon 1987 | Table 1, p. 2, row 1 |  |
+| 286.15 | polymorphic: βSn -> αSn | βSn: U 0; αSn: U 0 | model | [1] Sheldon 1987 | Table 1, p. 2, row 2 |  |
 
 ## Formation enthalpies
 
@@ -171,7 +171,7 @@ Table: Phase transition, Sn–U system
 | Phase transition | 1643.15 K | 1643.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2 | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
 | Phase transition | 1658.15 K | 1658.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2 | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
 | Phase transition | 1663.15 K | 1663.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2 | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
-| Phase transition | 1773.15 K | 1773.15 | congruent | experimental | [1] Sheldon 1987; _cites ref. 45Tre_ | p. 3 | “T h e r m a l d a t a i n d i c a t e d this compound m e l t s c o n g r u e n t l y at 1500 ~ \[45Tre\].” |
+| Phase transition | 1773.15 K | 1773.15 | congruent transformation | experimental | [1] Sheldon 1987; _cites ref. 45Tre_ | p. 3 | “T h e r m a l d a t a i n d i c a t e d this compound m e l t s c o n g r u e n t l y at 1500 ~ \[45Tre\].” |
 
 ### Crystal structure (11)
 

@@ -32,12 +32,12 @@ Table: Invariant reactions reported in the literature for the Sn–Ti–Zn syste
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 505.85 | other: TiZn15 + Sn3Ti5Zn12 -> L + TiZn10 | L: Sn 0.806633, Ti 2.990e-4, Zn 0.193068 | model | [1] Doi 2006 | Table 6, p. 10, row 1 |  |
-| 488.35 | U: L + Sn5Ti6 -> Sn3Ti5Zn12 + (βSn) | L: Sn 0.939651, Ti 0.00103, Zn 0.059319 | model | [1] Doi 2006 | Table 6, p. 10, row 3 |  |
+| 488.35 | quasi-peritectic: L + Sn5Ti6 -> Sn3Ti5Zn12 + (βSn) | L: Sn 0.939651, Ti 0.00103, Zn 0.059319 | model | [1] Doi 2006 | Table 6, p. 10, row 3 |  |
 | 471.95 | other: TiZn10 + Sn3Ti5Zn12 -> L + TiZn5 | L: Sn 0.863264, Ti 1.210e-4, Zn 0.136615 | model | [1] Doi 2006 | Table 6, p. 10, row 2 |  |
-| 469.35 | U: L + Sn3Ti5Zn12 -> TiZn5 + (βSn) | L: Sn 0.867919, Ti 1.120e-4, Zn 0.131969 | model | [1] Doi 2006 | Table 6, p. 10, row 4 |  |
-| 469.05 | U: L + TiZn5 -> TiZn10 + (βSn) | L: Sn 0.8668, Ti 1.070e-4, Zn 0.133093 | model | [1] Doi 2006 | Table 6, p. 10, row 5 |  |
-| 467.85 | U: L + TiZn10 -> TiZn15 + (βSn) | L: Sn 0.861875, Ti 6.700e-5, Zn 0.138058 | model | [1] Doi 2006 | Table 6, p. 10, row 6 |  |
-| 465.55 | E: L -> (βSn) + (Zn) + TiZn15 | L: Sn 0.852697, Ti 2.100e-5, Zn 0.147282 | model | [1] Doi 2006 | Table 6, p. 10, row 7 |  |
+| 469.35 | quasi-peritectic: L + Sn3Ti5Zn12 -> TiZn5 + (βSn) | L: Sn 0.867919, Ti 1.120e-4, Zn 0.131969 | model | [1] Doi 2006 | Table 6, p. 10, row 4 |  |
+| 469.05 | quasi-peritectic: L + TiZn5 -> TiZn10 + (βSn) | L: Sn 0.8668, Ti 1.070e-4, Zn 0.133093 | model | [1] Doi 2006 | Table 6, p. 10, row 5 |  |
+| 467.85 | quasi-peritectic: L + TiZn10 -> TiZn15 + (βSn) | L: Sn 0.861875, Ti 6.700e-5, Zn 0.138058 | model | [1] Doi 2006 | Table 6, p. 10, row 6 |  |
+| 465.55 | eutectic: L -> (βSn) + (Zn) + TiZn15 | L: Sn 0.852697, Ti 2.100e-5, Zn 0.147282 | model | [1] Doi 2006 | Table 6, p. 10, row 7 |  |
 
 ## Other properties
 

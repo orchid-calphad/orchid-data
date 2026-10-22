@@ -107,7 +107,7 @@ Table: Phase transition, Gd–Zn system
 | Phase transition | 613.15 K | 613.15 | U18 | experimental | [1] Gröbner 2015 | p. 11 | “The thermal signal at 340 °C in Samples 7 and 8 may be explained by solidification simulation under Scheil conditions in these alloys; that temperature is related to the reaction U18, not attained during equilibrium solidification in Samples 7 and 8.” |
 | Phase transition | 613.15 K | 613.15 | U18 | experimental | [1] Gröbner 2015 | p. 14 | “Thermal signal at 340 °C probably related to reaction U18 occurring under Scheil conditions in samples 6, 7 and 8.” |
 | Phase transition | 704.15 K | 704.15 | U14 | experimental | [1] Gröbner 2015 | p. 14 | “Thermal signal at 431 °C probably related to reaction U14 occurring under Scheil conditions in samples 7 and 8.” |
-| Phase transition | 893.15 K | 893.15 | liquidus | model | [1] Gröbner 2015 | p. 12 | “The liquidus temperature of this alloy is 620 °C, see the liquidus projection in Fig. 15, and solidification terminates with just the eutectic L ! (Mg) + GdMg5, at about 565 °C (from 562 to 548 °C under Scheil conditions).” |
+| Phase transition | 893.15 K | 893.15 | other | model | [1] Gröbner 2015 | p. 12 | “The liquidus temperature of this alloy is 620 °C, see the liquidus projection in Fig. 15, and solidification terminates with just the eutectic L ! (Mg) + GdMg5, at about 565 °C (from 562 to 548 °C under Scheil conditions).” |
 
 ## Sources
 

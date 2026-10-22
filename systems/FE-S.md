@@ -106,7 +106,7 @@ Table: Phase transition, Fe–S system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1016 K | 1016 | pyrite | experimental | [2] Guillermet 1981 | p. 8 | “Values of the Gibbs energy of formation of FeS 2 were evaluated using reported composition values of pyrrhotite in equilibrium with pyrite 1:.4~-47and the incongruent melting point of pyrite at 1016 K. 4~” |
-| Phase transition | 1463 K | 1463 | congruent | experimental | [2] Guillermet 1981; _cites Jensen 1942_ [doi](https://doi.org/10.2475/ajs.240.10.695) | p. 4 | “When the result was used to calculate the sulfur activity at the experimental point of congruent melting, x s = 0.52 at 1463 K (Ref. 18), a value of 0.49 was obtained whereas experiments in the liquid just above the melting point have suggested a value of about 0.6.13,19-21” |
+| Phase transition | 1463 K | 1463 | congruent transformation | experimental | [2] Guillermet 1981; _cites Jensen 1942_ [doi](https://doi.org/10.2475/ajs.240.10.695) | p. 4 | “When the result was used to calculate the sulfur activity at the experimental point of congruent melting, x s = 0.52 at 1463 K (Ref. 18), a value of 0.49 was obtained whereas experiments in the liquid just above the melting point have suggested a value of about 0.6.13,19-21” |
 
 ## Sources
 

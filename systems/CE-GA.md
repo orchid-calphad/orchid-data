@@ -1,10 +1,10 @@
 # Ce–Ga system
 
-> Ce–Ga system: 107 accepted literature values (invariant reaction 50, formation 40, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Ga system: 89 accepted literature values (invariant reaction 50, formation 22, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-GA.html · Markdown: https://data.orchid-project.org/systems/CE-GA.md
 
-107 accepted literature values from 2 paper(s) (experimental 36, model 71); 2 calculated phase diagram(s).
+89 accepted literature values from 2 paper(s) (experimental 29, model 60); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-GA.json) · [CSV](https://data.orchid-project.org/systems/CE-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-GA/CeGa-13Idb.json) · [Markdown](https://data.orchid-project.org/systems/CE-GA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 36 |
-| model | 71 |
+| experimental | 29 |
+| model | 60 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 50 |
 | phase transition | 17 |
-| formation | 40 |
+| formation | 22 |
 
 ## Calculated phase diagrams
 
@@ -128,49 +128,31 @@ Table: Invariant reactions reported in the literature for the Ce–Ga system (50
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ce–Ga system (40)
+Table: Enthalpies of formation, Ce–Ga system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ce0.21Ga0.79 |  | -51.5 kJ/mol-atom ± 1.4 | 298.15 | experimental |  |  | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 8 |  |
-| Ce0.21Ga0.79 |  | -51.5 kJ/mol-atom ± 1.4 | 298.15 | experimental |  |  | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 8 |  |
-| Ce0.21Ga0.79 |  | -46.1 kJ/mol-atom | 298.15 | model |  |  | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 7 |  |
 | Ce0.21Ga0.79 |  | -46.1 kJ/mol-atom | 298.15 | model |  |  | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 7 |  |
 | Ce0.21Ga0.79 |  | -36.7 kJ/mol-atom ± 2.9 | 298.15 | experimental |  |  | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 6 |  |
-| Ce0.21Ga0.79 |  | -36.7 kJ/mol-atom ± 2.9 | 298.15 | experimental |  |  | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 6 |  |
-| Ce3Ga | [Ce3Ga](https://data.orchid-project.org/compounds/Ce3Ga.html) | -50.727 kJ/mol-atom | 298.15 | model | -24.233 (mp-aaaabdme) | -21.97 (oqmd-17084) | [1] Idbenali 2013 | Table 4, p. 6, row 20 |  |
 | Ce3Ga | [Ce3Ga](https://data.orchid-project.org/compounds/Ce3Ga.html) | -50.727 kJ/mol-atom | 298.15 | model | -24.233 (mp-aaaabdme) | -21.97 (oqmd-17084) | [1] Idbenali 2013 | Table 4, p. 6, row 20 |  |
 | Ce3Ga2 | [Ce3Ga2](https://data.orchid-project.org/compounds/Ce3Ga2.html) | -69.036 kJ/mol-atom | 298.15 | model | -35.389 (mp-aaackyfv) | -44.021 (oqmd-1450840) | [1] Idbenali 2013 | Table 4, p. 6, row 19 |  |
-| Ce3Ga2 | [Ce3Ga2](https://data.orchid-project.org/compounds/Ce3Ga2.html) | -69.036 kJ/mol-atom | 298.15 | model | -35.389 (mp-aaackyfv) | -44.021 (oqmd-1450840) | [1] Idbenali 2013 | Table 4, p. 6, row 19 |  |
-| Ce3Ga2 | [Ce3Ga2](https://data.orchid-project.org/compounds/Ce3Ga2.html) | -64.6 kJ/mol-atom | 298.15 | model | -35.389 (mp-aaackyfv) | -44.021 (oqmd-1450840) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 18 |  |
 | Ce3Ga2 | [Ce3Ga2](https://data.orchid-project.org/compounds/Ce3Ga2.html) | -64.6 kJ/mol-atom | 298.15 | model | -35.389 (mp-aaackyfv) | -44.021 (oqmd-1450840) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 18 |  |
 | CeGa | [CeGa](https://data.orchid-project.org/compounds/CeGa.html) | -71.1 kJ/mol-atom ± 2.7 | 298.15 | experimental | -45.635 (mp-aaacfyim) | -55.036 (oqmd-29083) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 17 |  |
-| CeGa | [CeGa](https://data.orchid-project.org/compounds/CeGa.html) | -71.1 kJ/mol-atom ± 2.7 | 298.15 | experimental | -45.635 (mp-aaacfyim) | -55.036 (oqmd-29083) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 17 |  |
-| CeGa | [CeGa](https://data.orchid-project.org/compounds/CeGa.html) | -70.212 kJ/mol-atom | 298.15 | model | -45.635 (mp-aaacfyim) | -55.036 (oqmd-29083) | [1] Idbenali 2013 | Table 4, p. 6, row 16 |  |
 | CeGa | [CeGa](https://data.orchid-project.org/compounds/CeGa.html) | -70.212 kJ/mol-atom | 298.15 | model | -45.635 (mp-aaacfyim) | -55.036 (oqmd-29083) | [1] Idbenali 2013 | Table 4, p. 6, row 16 |  |
 | CeGa | [CeGa](https://data.orchid-project.org/compounds/CeGa.html) | -64.6 kJ/mol-atom | 298.15 | model | -45.635 (mp-aaacfyim) | -55.036 (oqmd-29083) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 15 |  |
-| CeGa | [CeGa](https://data.orchid-project.org/compounds/CeGa.html) | -64.6 kJ/mol-atom | 298.15 | model | -45.635 (mp-aaacfyim) | -55.036 (oqmd-29083) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 15 |  |
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -102.6 kJ/mol-atom ± 0.1 | 298.15 | experimental | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites Yatsenko 1972_ | Table 4, p. 6, row 9 |  |
-| CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -102.6 kJ/mol-atom ± 0.1 | 298.15 | experimental | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites Yatsenko 1972_ | Table 4, p. 6, row 9 |  |
-| CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -88.9 kJ/mol-atom ± 0.8 | 298.15 | experimental | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites Vnuchkova 1971_ | Table 4, p. 6, row 10 |  |
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -88.9 kJ/mol-atom ± 0.8 | 298.15 | experimental | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites Vnuchkova 1971_ | Table 4, p. 6, row 10 |  |
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -84.1 kJ/mol-atom ± 1.9 | 298.15 | experimental | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 14 |  |
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -72.036 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013 | Table 4, p. 6, row 12 |  |
-| CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -72.036 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013 | Table 4, p. 6, row 12 |  |
-| CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -66.6 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 11 |  |
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -66.6 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 11 |  |
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -57.382 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013 | Table 4, p. 6, row 13 |  |
 | CeGa2 with x(Ga) = 0.79 at.% Ga | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -84.1 kJ/mol-atom ± 1.9 | 298.15 | experimental | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 14 |  |
 | CeGa2 with x(Ga) = 0.79 at.% Ga | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -57.382 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013 | Table 4, p. 6, row 13 |  |
 | CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -52.8 kJ/mol-atom ± 3 | 298.15 | experimental | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 2 |  |
-| CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -52.8 kJ/mol-atom ± 3 | 298.15 | experimental | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 2 |  |
-| CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -51.364 kJ/mol-atom | 298.15 | model | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013 | Table 4, p. 6, row 3 |  |
 | CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -51.364 kJ/mol-atom | 298.15 | model | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013 | Table 4, p. 6, row 3 |  |
 | CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -48.2 kJ/mol-atom ± 3.7 | 298.15 | experimental | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 1 |  |
-| CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -48.2 kJ/mol-atom ± 3.7 | 298.15 | experimental | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 1 |  |
 | CeGa6_LT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -51.56 kJ/mol-atom | 298.15 | model | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013 | Table 4, p. 6, row 4 |  |
-| CeGa6_LT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -51.56 kJ/mol-atom | 298.15 | model | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013 | Table 4, p. 6, row 4 |  |
-| CeGa6_LT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -30.9 kJ/mol-atom | 298.15 | model | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 5 |  |
 | CeGa6_LT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -30.9 kJ/mol-atom | 298.15 | model | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 5 |  |
 
 ## Other properties
@@ -186,7 +168,7 @@ Table: Phase transition, Ce–Ga system
 | Phase transition | 1123.15 K | 1123.15 | other | experimental | [2] Liu 2019; _cites Dayan 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990057-2) | p. 2 | “Ce-Ga alloys were investigated, and the compounds ­Ce3Ga2 and CeGa (decomposition at 850 and 960 °C, respectively) and ­CeGa2 (melting point at 1444 °C) were found by Dayan and Pelleg \[7\].” |
 | Phase transition | 1233.15 K | 1233.15 | other | model | [1] Idbenali 2013 | p. 1 | “They found only three compounds: Ce3Ga2 and CeGa (respective decomposition at 850 and 960 C) and CeGa2 (melting point at 1444 C).” |
 | Phase transition | 1233.15 K | 1233.15 | other | experimental | [2] Liu 2019; _cites Dayan 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990057-2) | p. 2 | “Ce-Ga alloys were investigated, and the compounds ­Ce3Ga2 and CeGa (decomposition at 850 and 960 °C, respectively) and ­CeGa2 (melting point at 1444 °C) were found by Dayan and Pelleg \[7\].” |
-| Phase transition | 1463 K | 1463 | congruent | model | [1] Idbenali 2013 | p. 5 | “The congruent melting of CeGa2 calculated at 1463 K is in very good agreement with the experimental data of Ref 8.” |
+| Phase transition | 1463 K | 1463 | congruent transformation | model | [1] Idbenali 2013 | p. 5 | “The congruent melting of CeGa2 calculated at 1463 K is in very good agreement with the experimental data of Ref 8.” |
 | Phase transition | 1717 K | 1717 | liq → CeGa2; _L: Ga 0.6667; CeGa2: Ga 0.666667_ | model | [2] Liu 2019 | Table 2, p. 5, row 17 |  |
 | Phase transition | 1717 K | 1717 | liq → CeGa2; _L: Ga 0.666667; CeGa2: Ga 0.666667_ | experimental | [2] Liu 2019; _cites Dayan 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990057-2) | Table 2, p. 5, row 21 |  |
 | Phase transition | 1717.15 K | 1717.15 |  | model | [1] Idbenali 2013 | p. 1 | “They found only three compounds: Ce3Ga2 and CeGa (respective decomposition at 850 and 960 C) and CeGa2 (melting point at 1444 C).” |
@@ -196,8 +178,8 @@ Table: Phase transition, Ce–Ga system
 | Phase transition | 1727.15 K | 1727.15 | Liq -> CeGa2; _Liq: Ga 0.667; CeGa2: Ga 0.666667_ | model | [1] Idbenali 2013 | Table 3, p. 5, row 14 |  |
 | Phase transition | 1733 K | 1733 | liq → CeGa2; _L: Ga 0.6667; CeGa2: Ga 0.666667_ | experimental | [2] Liu 2019; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 2, p. 5, row 18 |  |
 | Phase transition | 1733.15 K | 1733.15 | Liq -> CeGa2; _Liq: Ga 0.667; CeGa2: Ga 0.666667_ | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 13 |  |
-| Phase transition | 1733.15 K | 1733.15 | congruent | experimental | [1] Idbenali 2013 | p. 1 | “Ce3Ga, Ce5Ga3, and CeGa were formed by a peritectic reaction at 557, 830, and 955 C respectively, while the fourth compound CeGa2 melted congruently at 1460 C.” |
-| Phase transition | 1733.15 K | 1733.15 | congruent | model | [1] Idbenali 2013 | p. 1 | “The binary phase diagram of the Ce-Ga system was compiled by Massalski\[8\] based on the studies carried out by Refs 5-7, indicating the existence of five intermetallic compounds (see Fig. 1): CeGa2 which melts congruently at 1460 C, the other intermetallic compounds Ce3Ga, Ce4.8Ga3.2 = Ce3Ga2, CeGa, and CeGa6 are formed by a peritectic reaction at 557, 850, 960, and 637 C respectively.” |
+| Phase transition | 1733.15 K | 1733.15 | congruent transformation | experimental | [1] Idbenali 2013 | p. 1 | “Ce3Ga, Ce5Ga3, and CeGa were formed by a peritectic reaction at 557, 830, and 955 C respectively, while the fourth compound CeGa2 melted congruently at 1460 C.” |
+| Phase transition | 1733.15 K | 1733.15 | congruent transformation | model | [1] Idbenali 2013 | p. 1 | “The binary phase diagram of the Ce-Ga system was compiled by Massalski\[8\] based on the studies carried out by Refs 5-7, indicating the existence of five intermetallic compounds (see Fig. 1): CeGa2 which melts congruently at 1460 C, the other intermetallic compounds Ce3Ga, Ce4.8Ga3.2 = Ce3Ga2, CeGa, and CeGa6 are formed by a peritectic reaction at 557, 850, 960, and 637 C respectively.” |
 
 ## Sources
 

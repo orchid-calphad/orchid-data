@@ -121,9 +121,9 @@ Table: Mixing / partial, Ga–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: AIP'x_ | -37 kJ | 1130 |  | model | [2] Chang-Seok 1992 | p. 5 | “Calculated results show minimum points AIP'x= -37 IcJ,X,,- 0.59 and Ad" - -34 kJ, X,.= 0.58 at 1130 and 1230 K, respectively.” |
-| Enthalpy of mixing; _printed: Ad"_ | -34 kJ | 1230 |  | model | [2] Chang-Seok 1992 | p. 5 | “Calculated results show minimum points AIP'x= -37 IcJ,X,,- 0.59 and Ad" - -34 kJ, X,.= 0.58 at 1130 and 1230 K, respectively.” |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | -50 kJ/mol | 1233 |  | model | [1] Yu 2022 | p. 11 | “Fitting this set of data requires a more negative enthalpy for all of the compounds and the calculated enthalpy of mixing decreases to -50 kJ/mol at 1233K at the composition of Ga2Te3, which is much lower than the experimental value reported by Irle et al.\[21\]” |
+| Enthalpy of mixing; _printed: AIP'x_ | -37 kJ/mol (basis unstated) | 1130 |  | model | [2] Chang-Seok 1992 | p. 5 | “Calculated results show minimum points AIP'x= -37 IcJ,X,,- 0.59 and Ad" - -34 kJ, X,.= 0.58 at 1130 and 1230 K, respectively.” |
+| Enthalpy of mixing; _printed: Ad"_ | -34 kJ/mol (basis unstated) | 1230 |  | model | [2] Chang-Seok 1992 | p. 5 | “Calculated results show minimum points AIP'x= -37 IcJ,X,,- 0.59 and Ad" - -34 kJ, X,.= 0.58 at 1130 and 1230 K, respectively.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | -50 kJ/mol (basis unstated) | 1233 |  | model | [1] Yu 2022 | p. 11 | “Fitting this set of data requires a more negative enthalpy for all of the compounds and the calculated enthalpy of mixing decreases to -50 kJ/mol at 1233K at the composition of Ga2Te3, which is much lower than the experimental value reported by Irle et al.\[21\]” |
 
 ## Sources
 

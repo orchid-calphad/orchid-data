@@ -183,14 +183,14 @@ Table: Invariant reactions reported in the literature for the Au–Sn system (76
 | 805.7 | L+Fcc(Au)->Au10Sn | L: Sn 0.209; Fcc(Au): Sn 0.07; Au10Sn: Sn 0.087 | model | [1] Dong 2013; _cites Grolier 2007_ [doi](https://doi.org/10.3139/146.101544) | Table 5, p. 5, row 1 |  |
 | 805.4 | L+Fcc(Au)->Au10Sn | L: Sn 0.205; Fcc(Au): Sn 0.072; Au10Sn: Sn 0.089 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 2 |  |
 | 805 | fcc + L -> Au10Sn | fcc: Sn 0.071; L: Sn 0.211; Au10Sn: Sn 0.0909091 | experimental | [2] Chevalier 1988; _cites Legendre 1987_ | Table 3, p. 8, row 29 |  |
-| 805 | Peritectic: L + fcc(Au) -> DO24 |  | unspecified | [3] Liu 2003 | Table II, p. 5, row 2 |  |
-| 805 | Peritectic: L + fcc(Au) -> DO24 |  | experimental | [3] Liu 2003; _cites Ciulik 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990273-p) | Table II, p. 5, row 1 |  |
+| 805 | peritectic: L + fcc(Au) -> DO24 |  | unspecified | [3] Liu 2003 | Table II, p. 5, row 2 |  |
+| 805 | peritectic: L + fcc(Au) -> DO24 |  | experimental | [3] Liu 2003; _cites Ciulik 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990273-p) | Table II, p. 5, row 1 |  |
 | 798 | fcc + L -> Au10Sn | fcc: Sn 0.07; L: Sn 0.21; Au10Sn: Sn 0.0909091 | model | [2] Chevalier 1988 | Table 3, p. 8, row 28 |  |
-| 795 | Peritectic: L + DO24 -> hcp |  | unspecified | [3] Liu 2003 | Table II, p. 5, row 4 |  |
+| 795 | peritectic: L + DO24 -> hcp |  | unspecified | [3] Liu 2003 | Table II, p. 5, row 4 |  |
 | 794.5 | L+Au10Sn->Hcp | L: Sn 0.21; Au10Sn: Sn 0.092; Hcp: Sn 0.109 | model | [1] Dong 2013; _cites Grolier 2007_ [doi](https://doi.org/10.3139/146.101544) | Table 5, p. 5, row 4 |  |
 | 794.5 | L+Au10Sn->Hcp | L: Sn 0.21; Au10Sn: Sn 0.092; Hcp: Sn 0.112 | model | [1] Dong 2013 | Table 5, p. 5, row 6 |  |
 | 794.5 | L+Au10Sn->Hcp | L: Sn 0.21; Au10Sn: Sn 0.092; Hcp: Sn 0.111 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 5 |  |
-| 794 | Peritectic: L + DO24 -> hcp |  | experimental | [3] Liu 2003; _cites Ciulik 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990273-p) | Table II, p. 5, row 3 |  |
+| 794 | peritectic: L + DO24 -> hcp |  | experimental | [3] Liu 2003; _cites Ciulik 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990273-p) | Table II, p. 5, row 3 |  |
 | 792 | Au10Sn + L -> hcp | Au10Sn: Sn 0.0909091; L: Sn 0.216; hcp: Sn 0.138 | experimental | [2] Chevalier 1988; _cites Legendre 1987_ | Table 3, p. 8, row 27 |  |
 | 750 | L + fcc -> hcp | L: Sn 0.23; fcc: Sn 0.068; hcp: Sn 0.14 | experimental | [2] Chevalier 1988; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980241-9) | Table 3, p. 8, row 30 |  |
 | 742.9 | Au10Sn + L -> hcp | Au10Sn: Sn 0.0909091; L: Sn 0.226; hcp: Sn 0.12 | model | [2] Chevalier 1988 | Table 3, p. 8, row 26 |  |
@@ -200,61 +200,61 @@ Table: Invariant reactions reported in the literature for the Au–Sn system (76
 | 590.5 | AuSn + L -> AuSn2 | AuSn: Sn 0.5; L: Sn 0.705; AuSn2: Sn 0.666667 | model | [2] Chevalier 1988 | Table 3, p. 8, row 10 |  |
 | 584.6 | L+AuSn->AuSn2 | L: Sn 0.733; AuSn: Sn 0.5; AuSn2: Sn 0.666667 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 17 |  |
 | 584.3 | L+AuSn->AuSn2 | L: Sn 0.733; AuSn: Sn 0.508; AuSn2: Sn 0.666667 | model | [1] Dong 2013 | Table 5, p. 5, row 18 |  |
-| 584 | Peritectic: L -> AuSn + AuSn2 | AuSn: Sn 0.5; AuSn2: Sn 0.666667 | unspecified | [3] Liu 2003 | Table II, p. 5, row 12 |  |
+| 584 | peritectic: L -> AuSn + AuSn2 | AuSn: Sn 0.5; AuSn2: Sn 0.666667 | unspecified | [3] Liu 2003 | Table II, p. 5, row 12 |  |
 | 582.6 | L+AuSn->AuSn2 | L: Sn 0.71; AuSn: Sn 0.5; AuSn2: Sn 0.666667 | model | [1] Dong 2013; _cites Grolier 2007_ [doi](https://doi.org/10.3139/146.101544) | Table 5, p. 5, row 16 |  |
-| 582 | Peritectic: L -> AuSn + AuSn2 | AuSn: Sn 0.5; AuSn2: Sn 0.666667 | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 11 |  |
+| 582 | peritectic: L -> AuSn + AuSn2 | AuSn: Sn 0.5; AuSn2: Sn 0.666667 | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 11 |  |
 | 582 | AuSn + L -> AuSn2 | AuSn: Sn 0.5; L: Sn 0.72; AuSn2: Sn 0.666667 | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 11 |  |
 | 556.4 | L->Hcp+AuSn | L: Sn 0.302; Hcp: Sn 0.163; AuSn: Sn 0.5 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 8 |  |
 | 555.7 | L -> hcp + AuSn | L: Sn 0.304; hcp: Sn 0.188; AuSn: Sn 0.5 | model | [2] Chevalier 1988 | Table 3, p. 8, row 23 |  |
 | 555.6 | L->Hcp+AuSn | L: Sn 0.303; Hcp: Sn 0.162; AuSn: Sn 0.5 | model | [1] Dong 2013 | Table 5, p. 5, row 9 |  |
 | 553.3 | L->Hcp+AuSn | L: Sn 0.311; Hcp: Sn 0.16; AuSn: Sn 0.5 | model | [1] Dong 2013; _cites Grolier 2007_ [doi](https://doi.org/10.3139/146.101544) | Table 5, p. 5, row 7 |  |
-| 553 | Eutectic: L -> hcp + AuSn | AuSn: Sn 0.5 | experimental | [3] Liu 2003; _cites Ciulik 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990273-p) | Table II, p. 5, row 5 |  |
+| 553 | eutectic: L -> hcp + AuSn | AuSn: Sn 0.5 | experimental | [3] Liu 2003; _cites Ciulik 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990273-p) | Table II, p. 5, row 5 |  |
 | 552.5 | L -> hcp + AuSn | AuSn: Sn 0.5 | experimental | [2] Chevalier 1988; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050460105) | Table 3, p. 8, row 25 |  |
 | 551 | L -> hcp + AuSn | L: Sn 0.29; hcp: Sn 0.175; AuSn: Sn 0.5 | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 24 |  |
-| 551 | Eutectic: L -> hcp + AuSn | AuSn: Sn 0.5 | unspecified | [3] Liu 2003 | Table II, p. 5, row 6 |  |
+| 551 | eutectic: L -> hcp + AuSn | AuSn: Sn 0.5 | unspecified | [3] Liu 2003 | Table II, p. 5, row 6 |  |
 | 535.8 | Au10Sn -> fcc + hcp | Au10Sn: Sn 0.0909091; fcc: Sn 0.049; hcp: Sn 0.111 | model | [2] Chevalier 1988 | Table 3, p. 8, row 21 |  |
 | 529 | AuSn2 + L -> AuSn4 | AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | experimental | [2] Chevalier 1988; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980241-9) | Table 3, p. 8, row 9 |  |
 | 527.8 | AuSn2 + L -> AuSn4 | AuSn2: Sn 0.666667; L: Sn 0.867; AuSn4: Sn 0.8 | model | [2] Chevalier 1988 | Table 3, p. 8, row 6 |  |
 | 527 | AuSn2 + L -> AuSn4 | AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | experimental | [2] Chevalier 1988; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980241-9) | Table 3, p. 8, row 8 |  |
 | 525.3 | L+AuSn2->AuSn4 | L: Sn 0.871; AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | model | [1] Dong 2013 | Table 5, p. 5, row 21 |  |
 | 525.3 | L+AuSn2->AuSn4 | L: Sn 0.866; AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 20 |  |
-| 525 | Peritectic: L -> AuSn2 + AuSn4 | AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | unspecified | [3] Liu 2003 | Table II, p. 5, row 14 |  |
-| 525 | Peritectic: L -> AuSn2 + AuSn4 | AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 13 |  |
+| 525 | peritectic: L -> AuSn2 + AuSn4 | AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | unspecified | [3] Liu 2003 | Table II, p. 5, row 14 |  |
+| 525 | peritectic: L -> AuSn2 + AuSn4 | AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 13 |  |
 | 525 | AuSn2 + L -> AuSn4 | AuSn2: Sn 0.666667; L: Sn 0.885; AuSn4: Sn 0.8 | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 7 |  |
 | 524.4 | L+AuSn2->AuSn4 | L: Sn 0.864; AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | model | [1] Dong 2013; _cites Grolier 2007_ [doi](https://doi.org/10.3139/146.101544) | Table 5, p. 5, row 19 |  |
 | 523 | Au10Sn -> fcc + hcp | Au10Sn: Sn 0.0909091; fcc: Sn 0.048; hcp: Sn 0.11 | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 22 |  |
 | 491 | L -> AuSn4 + bct | L: Sn 0.949; AuSn4: Sn 0.8; bct: Sn 0.9966 | model | [2] Chevalier 1988 | Table 3, p. 8, row 3 |  |
-| 490 | Eutectic: L -> AuSn4 + Bct(Sn) | AuSn4: Sn 0.8; Bct(Sn): Sn 1 | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 15 |  |
+| 490 | eutectic: L -> AuSn4 + Bct(Sn) | AuSn4: Sn 0.8; Bct(Sn): Sn 1 | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 15 |  |
 | 490 | L -> AuSn4 + bct | L: Sn 0.937; AuSn4: Sn 0.8; bct: Sn 0.998 | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 4 |  |
 | 488.6 | L->AuSn4+Bct(Sn) | L: Sn 0.948; AuSn4: Sn 0.8; Bct(Sn): Sn 1 | model | [1] Dong 2013; _cites Grolier 2007_ [doi](https://doi.org/10.3139/146.101544) | Table 5, p. 5, row 22 |  |
 | 488 | L -> AuSn4 + bct | AuSn4: Sn 0.8 | experimental | [2] Chevalier 1988; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980241-9) | Table 3, p. 8, row 5 |  |
-| 488 | Eutectic: L -> AuSn4 + Bct(Sn) | AuSn4: Sn 0.8; Bct(Sn): Sn 1 | unspecified | [3] Liu 2003 | Table II, p. 5, row 16 |  |
+| 488 | eutectic: L -> AuSn4 + Bct(Sn) | AuSn4: Sn 0.8; Bct(Sn): Sn 1 | unspecified | [3] Liu 2003 | Table II, p. 5, row 16 |  |
 | 484.5 | L->AuSn4+Bct(Sn) | L: Sn 0.946; AuSn4: Sn 0.8; Bct(Sn): Sn 1 | model | [1] Dong 2013 | Table 5, p. 5, row 24 |  |
 | 483.1 | L->AuSn4+Bct(Sn) | L: Sn 0.942; AuSn4: Sn 0.8; Bct(Sn): Sn 1 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 23 |  |
 | 463.23 | hcp -> Au5Sn + AuSn | hcp: Sn 0.173; Au5Sn: Sn 0.166667; AuSn: Sn 0.5 | model | [2] Chevalier 1988 | Table 3, p. 8, row 17 |  |
 | 463 | Hcp+AuSn->Au5Sn | Hcp: Sn 0.136; AuSn: Sn 0.5; Au5Sn: Sn 0.166667 | model | [1] Dong 2013; _cites Grolier 2007_ [doi](https://doi.org/10.3139/146.101544) | Table 5, p. 5, row 10 |  |
-| 463 | Peritectoid: Hcp + AuSn -> ζ’ | AuSn: Sn 0.5; ζ’: Sn 0.16 | experimental | [3] Liu 2003; _cites Ciulik 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990273-p) | Table II, p. 5, row 7 |  |
+| 463 | peritectoid: Hcp + AuSn -> ζ’ | AuSn: Sn 0.5; ζ’: Sn 0.16 | experimental | [3] Liu 2003; _cites Ciulik 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990273-p) | Table II, p. 5, row 7 |  |
 | 463 | hcp -> Au5Sn + AuSn | hcp: Sn 0.185; Au5Sn: Sn 0.166667; AuSn: Sn 0.5 | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 18 |  |
-| 463 | Peritectoid: Hcp + AuSn -> ζ’ | AuSn: Sn 0.5; ζ’: Sn 0.16 | unspecified | [3] Liu 2003 | Table II, p. 5, row 8 |  |
+| 463 | peritectoid: Hcp + AuSn -> ζ’ | AuSn: Sn 0.5; ζ’: Sn 0.16 | unspecified | [3] Liu 2003 | Table II, p. 5, row 8 |  |
 | 452 | Hcp+AuSn->Au5Sn | Hcp: Sn 0.137; AuSn: Sn 0.5; Au5Sn: Sn 0.166667 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 11 |  |
 | 451.6 | Hcp+AuSn->Au5Sn | Hcp: Sn 0.137; AuSn: Sn 0.5; Au5Sn: Sn 0.166667 | model | [1] Dong 2013 | Table 5, p. 5, row 12 |  |
 | 377 | AuSn4 -> AuSn2 + bct | AuSn4: Sn 0.8; AuSn2: Sn 0.666667; bct: Sn 0.9997 | model | [2] Chevalier 1988 | Table 3, p. 8, row 1 |  |
 | 359.3 | hcp -> fcc + Au5Sn | hcp: Sn 0.118; fcc: Sn 0.031; Au5Sn: Sn 0.166667 | model | [2] Chevalier 1988 | Table 3, p. 8, row 15 |  |
 | 333 | hcp -> fcc + Au5Sn | hcp: Sn 0.1; fcc: Sn 0.03; Au5Sn: Sn 0.166667 | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 16 |  |
 | 323.1 | AuSn4->AuSn2+Bct(Sn) | AuSn4: Sn 0.8; AuSn2: Sn 0.666667; Bct(Sn): Sn 1 | model | [1] Dong 2013 | Table 5, p. 5, row 26 |  |
-| 323 | Eutectoid: Bct(Sn) -> AuSn2 + AuSn4 | Bct(Sn): Sn 1; AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 17 |  |
+| 323 | eutectoid: Bct(Sn) -> AuSn2 + AuSn4 | Bct(Sn): Sn 1; AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 17 |  |
 | 323 | AuSn4 -> AuSn2 + bct | AuSn4: Sn 0.8; AuSn2: Sn 0.666667 | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 2 |  |
-| 323 | Eutectoid: Bct(Sn) -> AuSn2 + AuSn4 | Bct(Sn): Sn 1; AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | unspecified | [3] Liu 2003 | Table II, p. 5, row 18 |  |
+| 323 | eutectoid: Bct(Sn) -> AuSn2 + AuSn4 | Bct(Sn): Sn 1; AuSn2: Sn 0.666667; AuSn4: Sn 0.8 | unspecified | [3] Liu 2003 | Table II, p. 5, row 18 |  |
 | 322.7 | AuSn4->AuSn2+Bct(Sn) | AuSn4: Sn 0.8; AuSn2: Sn 0.666667; Bct(Sn): Sn 1 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 25 |  |
 | 301.3 | Au10Sn->Fcc(Au)+Hcp | Au10Sn: Sn 0.059; Fcc(Au): Sn 0.016; Hcp: Sn 0.08 | model | [1] Dong 2013 | Table 5, p. 5, row 28 |  |
 | 300.5 | Au10Sn->Fcc(Au)+Hcp | Au10Sn: Sn 0.059; Fcc(Au): Sn 0.019; Hcp: Sn 0.08 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 27 |  |
-| 300 | Eutectoid: DO24 -> fcc(Au) + hcp |  | unspecified | [3] Liu 2003 | Table II, p. 5, row 19 |  |
+| 300 | eutectoid: DO24 -> fcc(Au) + hcp |  | unspecified | [3] Liu 2003 | Table II, p. 5, row 19 |  |
 | 275.6 | Hcp->Au5Sn+Fcc(Au) | Hcp: Sn 0.08; Au5Sn: Sn 0.166667; Fcc(Au): Sn 0.013 | model | [1] Dong 2013 | Table 5, p. 5, row 30 |  |
 | 274.3 | Hcp->Au5Sn+Fcc(Au) | Hcp: Sn 0.08; Au5Sn: Sn 0.166667; Fcc(Au): Sn 0.016 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 29 |  |
-| 268 | Eutectoid: Hcp -> fcc(Au) + ζ’ | ζ’: Sn 0.16 | unspecified | [3] Liu 2003 | Table II, p. 5, row 20 |  |
+| 268 | eutectoid: Hcp -> fcc(Au) + ζ’ | ζ’: Sn 0.16 | unspecified | [3] Liu 2003 | Table II, p. 5, row 20 |  |
 | 249.1 | Au5Sn->Fcc (Au)+AuSn | Au5Sn: Sn 0.166667; Fcc (Au): Sn 0.009; AuSn: Sn 0.5 | model | [1] Dong 2013 | Table 5, p. 5, row 32 |  |
 | 248.7 | Au5Sn->Fcc (Au)+AuSn | Au5Sn: Sn 0.166667; Fcc (Au): Sn 0.01; AuSn: Sn 0.5 | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 31 |  |
-| 206 | Eutectoid: ζ’ -> fcc(Au) + AuSn | ζ’: Sn 0.16; AuSn: Sn 0.5 | unspecified | [3] Liu 2003 | Table II, p. 5, row 21 |  |
+| 206 | eutectoid: ζ’ -> fcc(Au) + AuSn | ζ’: Sn 0.16; AuSn: Sn 0.5 | unspecified | [3] Liu 2003 | Table II, p. 5, row 21 |  |
 
 ## Formation enthalpies
 
@@ -287,15 +287,15 @@ Table: Phase transition, Au–Sn system
 | Phase transition | 468 K | 468 | hcp -> Au5Sn; _Au5Sn: Sn 0.167_ | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 20 |  |
 | Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | model | [2] Chevalier 1988 | Table 3, p. 8, row 34 |  |
 | Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 35 |  |
-| Phase transition | 553 K | 553 | melting | experimental | [6] Dong 2009 | p. 11 | “Figures 12 and 13 indicate that a new kind of solder with lower melting temperature than that of Au-30 at.% Sn solder, i.e., 553 K, can be designed based on the eutectic point of E2.” |
+| Phase transition | 553 K | 553 | congruent melting | experimental | [6] Dong 2009 | p. 11 | “Figures 12 and 13 indicate that a new kind of solder with lower melting temperature than that of Au-30 at.% Sn solder, i.e., 553 K, can be designed based on the eutectic point of E2.” |
 | Phase transition | 584.45 K | 584.45 | other | model | [4] Gao 2010 | p. 10 | “The calculated decomposition temperature of the ternary intermetallic compound (j) is 311.3 C, which agrees with the experimental results (312.7 C) determined in the present work.” |
 | Phase transition | 585.85 K | 585.85 | other | experimental | [4] Gao 2010 | p. 10 | “The calculated decomposition temperature of the ternary intermetallic compound (j) is 311.3 C, which agrees with the experimental results (312.7 C) determined in the present work.” |
-| Phase transition | 586.15 K | 586.15 (none) | other | experimental | [4] Gao 2010 | p. 10 | “DSC measurements indicate the decomposition temperature of the j phase is about 313 C.” |
+| Phase transition | 586.15 K | 586.15 | other | experimental | [4] Gao 2010 | p. 10 | “DSC measurements indicate the decomposition temperature of the j phase is about 313 C.” |
 | Phase transition | 691.4 K | 691.4 | L->AuSn; _L: Sn 0.5; AuSn: Sn 0.5_ | model | [1] Dong 2013; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | Table 5, p. 5, row 14 |  |
 | Phase transition | 691.7 K | 691.7 | L->AuSn; _L: Sn 0.5; AuSn: Sn 0.5_ | model | [1] Dong 2013; _cites Grolier 2007_ [doi](https://doi.org/10.3139/146.101544) | Table 5, p. 5, row 13 |  |
 | Phase transition | 691.8 K | 691.8 | L->AuSn; _L: Sn 0.5; AuSn: Sn 0.5_ | model | [1] Dong 2013 | Table 5, p. 5, row 15 |  |
-| Phase transition | 692 K | 692 | Congruent: L -> AuSn; _L: Sn 0.5; AuSn: Sn 0.5_ | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 9 |  |
-| Phase transition | 692 K | 692 | Congruent: L -> AuSn; _L: Sn 0.5; AuSn: Sn 0.5_ | unspecified | [3] Liu 2003 | Table II, p. 5, row 10 |  |
+| Phase transition | 692 K | 692 | congruent melting: L -> AuSn; _L: Sn 0.5; AuSn: Sn 0.5_ | experimental | [3] Liu 2003; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table II, p. 5, row 9 |  |
+| Phase transition | 692 K | 692 | congruent melting: L -> AuSn; _L: Sn 0.5; AuSn: Sn 0.5_ | unspecified | [3] Liu 2003 | Table II, p. 5, row 10 |  |
 | Phase transition | 692.5 K | 692.5 | AuSn -> L; _AuSn: Sn 0.5_ | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 14 |  |
 | Phase transition | 692.6 K | 692.6 | AuSn -> L; _AuSn: Sn 0.5_ | model | [2] Chevalier 1988 | Table 3, p. 8, row 13 |  |
 | Phase transition | 1337.58 K | 1337.58 | Au(fcc) -> Au(liq); _Au(fcc): Sn 0_ | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 33 |  |

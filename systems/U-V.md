@@ -74,8 +74,8 @@ Table: Phase transition, U–V system
 | Phase transition | 1325.3 K | 1325.3 | eutectic: U60–V40; _alloy: U 0.593, V 0.407_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 9 |  |
 | Phase transition | 1326.4 K | 1326.4 | eutectic: U38–V62; _alloy: U 0.379, V 0.621_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 15 |  |
 | Phase transition | 1327.4 K | 1327.4 | eutectic: U59–V41; _alloy: U 0.597, V 0.403_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 11 |  |
-| Phase transition | 1358.9 K | 1358.9 | solidus: U95–V05; _alloy: U 0.935, V 0.065_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 3 |  |
-| Phase transition | 1381.6 K | 1381.6 | solidus: U96–V04; _alloy: U 0.952, V 0.048_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 1 |  |
+| Phase transition | 1358.9 K | 1358.9 | other: U95–V05; _alloy: U 0.935, V 0.065_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 3 |  |
+| Phase transition | 1381.6 K | 1381.6 | other: U96–V04; _alloy: U 0.952, V 0.048_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 1 |  |
 
 ### Phase equilibrium (10)
 
@@ -83,16 +83,16 @@ Table: Phase equilibrium, U–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1331 | liquidus: U82–V18; _liquid: U 0.819, V 0.181_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 6 |  |
-| Phase composition |  | 1368.6 | liquidus: U95–V05; _liquid: U 0.935, V 0.065_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 4 |  |
-| Phase composition |  | 1395.7 | liquidus: U96–V04; _liquid: U 0.952, V 0.048_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 2 |  |
-| Phase composition |  | 1445.5 | liquidus: U75–V25; _liquid: U 0.75, V 0.25_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 8 |  |
-| Phase composition |  | 1622.1 | liquidus: U59–V41; _liquid: U 0.597, V 0.403_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 12 |  |
-| Phase composition |  | 1623.2 | liquidus: U60–V40; _liquid: U 0.593, V 0.407_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 10 |  |
-| Phase composition |  | 1732.6 | liquidus: U50–V50; _liquid: U 0.495, V 0.505_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 14 |  |
-| Phase composition |  | 1829 | liquidus: U38–V62; _liquid: U 0.379, V 0.621_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 16 |  |
-| Phase composition |  | 1937.4 | liquidus: U25–V75; _liquid: U 0.249, V 0.751_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 18 |  |
-| Phase composition |  | 2118.3 | liquidus: U08–V92; _liquid: U 0.079, V 0.921_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 19 |  |
+| Phase composition |  | 1331 | other: U82–V18; _liquid: U 0.819, V 0.181_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 6 |  |
+| Phase composition |  | 1368.6 | other: U95–V05; _liquid: U 0.935, V 0.065_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 4 |  |
+| Phase composition |  | 1395.7 | other: U96–V04; _liquid: U 0.952, V 0.048_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 2 |  |
+| Phase composition |  | 1445.5 | other: U75–V25; _liquid: U 0.75, V 0.25_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 8 |  |
+| Phase composition |  | 1622.1 | other: U59–V41; _liquid: U 0.597, V 0.403_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 12 |  |
+| Phase composition |  | 1623.2 | other: U60–V40; _liquid: U 0.593, V 0.407_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 10 |  |
+| Phase composition |  | 1732.6 | other: U50–V50; _liquid: U 0.495, V 0.505_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 14 |  |
+| Phase composition |  | 1829 | other: U38–V62; _liquid: U 0.379, V 0.621_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 16 |  |
+| Phase composition |  | 1937.4 | other: U25–V75; _liquid: U 0.249, V 0.751_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 18 |  |
+| Phase composition |  | 2118.3 | other: U08–V92; _liquid: U 0.079, V 0.921_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 19 |  |
 
 ## Sources
 

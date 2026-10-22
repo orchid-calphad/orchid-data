@@ -49,7 +49,7 @@ Table: Invariant reactions reported in the literature for the Li–Mg system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 865.2 | Eutectic: Liquid -> bcc-A2 + hcp-A3 | L: Mg 0.774; bcc-A2: Mg 0.76; hcp-A3: Mg 0.834 | model | [1] Hämäläinen 1998 | Table I, p. 228, row 1 |  |
+| 865.2 | eutectic: Liquid -> bcc-A2 + hcp-A3 | L: Mg 0.774; bcc-A2: Mg 0.76; hcp-A3: Mg 0.834 | model | [1] Hämäläinen 1998 | Table I, p. 228, row 1 |  |
 
 ## Other properties
 
@@ -59,7 +59,7 @@ Table: Phase transition, Li–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 867.4 K | 867.4 | Congurent: Liquid -> bcc-A2; _L: Mg 0.727; bcc-A2: Mg 0.727_ | model | [1] Hämäläinen 1998 | Table I, p. 228, row 2 |  |
+| Phase transition | 867.4 K | 867.4 | other: Liquid -> bcc-A2; _L: Mg 0.727; bcc-A2: Mg 0.727_ | model | [1] Hämäläinen 1998 | Table I, p. 228, row 2 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Pd–Zn system
 
-> Pd–Zn system: 98 accepted literature values (crystal structure 50, formation 15, invariant reaction 11, phase transition 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Zn system: 77 accepted literature values (crystal structure 29, formation 15, invariant reaction 11, phase transition 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-ZN.html · Markdown: https://data.orchid-project.org/systems/PD-ZN.md
 
-98 accepted literature values from 2 paper(s) (experimental 52, model 6, DFT 40); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+77 accepted literature values from 2 paper(s) (experimental 41, model 6, DFT 30); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-ZN.json) · [CSV](https://data.orchid-project.org/systems/PD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-ZN/PdZn-06Viz.json) · [Markdown](https://data.orchid-project.org/systems/PD-ZN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 52 |
+| experimental | 41 |
 | model | 6 |
-| DFT | 40 |
+| DFT | 30 |
 
 Table: Accepted values by property group
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 10 |
 | phase equilibrium | 4 |
 | formation | 15 |
-| crystal structure | 50 |
+| crystal structure | 29 |
 | other property | 8 |
 
 ## Calculated phase diagrams
@@ -129,8 +129,8 @@ Table: Phase transition, Pd–Zn system
 | Phase transition | 707 K | 707 | Liquid + Gamma → Pd9Zn91 | experimental | [1] Gong 2022; _cites ref. 9_ | p. 5 | “Vizdal et al. \[9\] measured the temperatures of the invariant reactions, i.e., Liquid → Pd9Zn91 + HCP at 690 K and Liquid + Gamma → Pd9Zn91 at 707 K, in the Zn-rich region using differential thermal analysis (DTA).” |
 | Phase transition | 708.15 K | 708.15 | other: A2 2nd invariant reaction; _alloy: Pd 0.03, Zn 0.97_ | experimental | [2] Vizdal 2006 | Table 2, p. 6, row 4 |  |
 | Phase transition | 709.15 K | 709.15 | other: A1 2nd invariant reaction; _alloy: Pd 0.03, Zn 0.97_ | experimental | [2] Vizdal 2006 | Table 2, p. 6, row 2 |  |
-| Phase transition | 1150 K | 1150 | congruent | model | [1] Gong 2022 | p. 15 | “The congruent melting temperature of the γ phase is 1150 K in good agreement with 1153 K suggested by Massalski \[17\].” |
-| Phase transition | 1153 K | 1153 | congruent | experimental | [1] Gong 2022; _cites ref. 17_ | p. 15 | “The congruent melting temperature of the γ phase is 1150 K in good agreement with 1153 K suggested by Massalski \[17\].” |
+| Phase transition | 1150 K | 1150 | congruent transformation | model | [1] Gong 2022 | p. 15 | “The congruent melting temperature of the γ phase is 1150 K in good agreement with 1153 K suggested by Massalski \[17\].” |
+| Phase transition | 1153 K | 1153 | congruent transformation | experimental | [1] Gong 2022; _cites ref. 17_ | p. 15 | “The congruent melting temperature of the γ phase is 1150 K in good agreement with 1153 K suggested by Massalski \[17\].” |
 
 ### Phase equilibrium (4)
 
@@ -143,7 +143,7 @@ Table: Phase equilibrium, Pd–Zn system
 | Phase composition |  | 673.15 | γ + η; _γ: Pd 0.196, Zn 0.804; η: Pd 0.122, Zn 0.878_ | experimental | [2] Vizdal 2006 | Table 1, p. 3, row 4 |  |
 | Phase composition |  | 673.15 | η + HCP_Zn; _η: Pd 0.085, Zn 0.915; HCP_Zn: Pd 0.009, Zn 0.991_ | experimental | [2] Vizdal 2006 | Table 1, p. 3, row 2 |  |
 
-### Crystal structure (50)
+### Crystal structure (29)
 
 Table: Crystal structure, Pd–Zn system
 
@@ -170,27 +170,6 @@ Table: Crystal structure, Pd–Zn system
 | Lattice c | 12.307 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
 | Lattice c | 4.9328 Å | 0 | Zn; _alloy: Zn 1_ | experimental | [1] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4 |  |
 | Lattice c | 5.0268 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 3 |  |
-| lattice a  | 3.8902 Å | 0 | Pd; _alloy: Zn 0_ | experimental | [1] Gong 2022; _cites ref. 50_ | Table 3, p. 29, row 2 |  |
-| lattice a  | 3.9309 Å | 0 | Pd; _alloy: Zn 0_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 1 |  |
-| lattice a  | 5.3975 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 5 |  |
-| lattice a  | 5.35 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
-| lattice a  | 7.4235 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 7 |  |
-| lattice a  | 7.363 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
-| lattice a  | 2.6594 Å | 0 | Zn; _alloy: Zn 1_ | experimental | [1] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4 |  |
-| lattice a  | 2.6426 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 3 |  |
-| lattice a  | 9.1024 Å | 0 | γ phase | DFT | [1] Gong 2022 | Table 3, p. 29, row 9 |  |
-| lattice a  | 9.1022 Å | 0 | γ phase | experimental | [1] Gong 2022; _cites ref. 8_ | Table 3, p. 29, row 10 |  |
-| lattice a  | 9.0906 Å | 0 | γ phase | experimental | [1] Gong 2022; _cites ref. 42_ | Table 3, p. 29, row 11 |  |
-| lattice b  | 4.1917 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 5 |  |
-| lattice b  | 4.14 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
-| lattice b  | 7.5773 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 7 |  |
-| lattice b  | 7.525 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
-| lattice c  | 7.8343 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 5 |  |
-| lattice c  | 7.65 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
-| lattice c  | 12.3196 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 7 |  |
-| lattice c  | 12.307 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
-| lattice c  | 4.9328 Å | 0 | Zn; _alloy: Zn 1_ | experimental | [1] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4 |  |
-| lattice c  | 5.0268 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 3 |  |
 | volume; _printed: V0_ | 15.3 Å3/atom | 0 | Pd; _alloy: Zn 0_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 1 |  |
 | volume; _printed: V0_ | 14.716 Å3/atom | 0 | Pd; _alloy: Zn 0_ | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 3 |  |
 | volume; _printed: V0_ | 15.34 Å3/atom | 0 | Pd; _alloy: Zn 0_ | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 2 |  |

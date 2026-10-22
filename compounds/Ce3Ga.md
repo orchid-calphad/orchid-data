@@ -1,20 +1,19 @@
 # Ce3Ga: enthalpy of formation
 
-> Enthalpy of formation of Ce3Ga: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ce3Ga: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ce3Ga.html · Markdown: https://data.orchid-project.org/compounds/Ce3Ga.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -24.233 kJ/mol-atom (mp-aaaabdme); OQMD -21.97 kJ/mol-atom (oqmd-17084).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -24.233 kJ/mol-atom (mp-aaaabdme); OQMD -21.97 kJ/mol-atom (oqmd-17084).
 
 Systems: [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ce3Ga reported in the literature (2)
+Table: Enthalpy of formation of Ce3Ga reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -50.727 kJ/mol-atom | Ce3Ga | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 20 |  |
 | -50.727 kJ/mol-atom | Ce3Ga | 298.15 | model | Optimisation | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013 | Table 4, p. 6, row 20 |  |
 
 ## DFT formation energies

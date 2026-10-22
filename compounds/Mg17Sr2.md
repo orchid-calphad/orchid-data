@@ -1,20 +1,19 @@
 # Mg17Sr2: enthalpy of formation
 
-> Enthalpy of formation of Mg17Sr2: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Mg17Sr2: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Mg17Sr2.html · Markdown: https://data.orchid-project.org/compounds/Mg17Sr2.md
 
-2 accepted literature formation-enthalpy value(s) (unspecified 2); Materials Project -2.741 kJ/mol-atom (mp-aaaaabqy); OQMD -4.846 kJ/mol-atom (oqmd-90157).
+1 accepted literature formation-enthalpy value(s) (unspecified 1); Materials Project -2.741 kJ/mol-atom (mp-aaaaabqy); OQMD -4.846 kJ/mol-atom (oqmd-90157).
 
 Systems: [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Mg17Sr2 reported in the literature (2)
+Table: Enthalpy of formation of Mg17Sr2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4.7963 kJ/mol-atom | Mg17Sr2 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 2 |  |
 | -4.7963 kJ/mol-atom | Mg17Sr2 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 2 |  |
 
 ## DFT formation energies

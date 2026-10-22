@@ -190,7 +190,7 @@ Table: Phase transition, N–U system
 | Phase transition | 1618 K | 1618 | other | experimental | [1] Chevalier 2000; _cites Bugl 1964_ | p. 6 | “UN decomposed at 3073 K (2800°C) and N3 U2 at 1618 K (1345°C) at P N2   1 atm.” |
 | Phase transition | 1623 K | 1623 | other: sesquinitride = UN + nitrogen | experimental | [1] Chevalier 2000 | p. 10 | “The sesquinitride decomposes between UN and nitrogen at 1623 K (1350°C) at 1 atm.” |
 | Phase transition | 3073 K | 3073 | other | experimental | [1] Chevalier 2000; _cites Bugl 1964_ | p. 6 | “UN decomposed at 3073 K (2800°C) and N3 U2 at 1618 K (1345°C) at P N2   1 atm.” |
-| Phase transition | 3123 K | 3123 | congruent | experimental | [1] Chevalier 2000; _cites Bugl 1964_ | p. 6 | “Cast specimens of UN were heated in a controlled nitrogen-pressure apparatus in order to study the decomposition behaviour: at pressures of nitrogen below 2.5 atm, UN decomposed at temperatures below 3123 K (2850°C), while at pressures greater than 2.5 atm, it melted congruently at 3123 K (2850°C).” |
+| Phase transition | 3123 K | 3123 | congruent transformation | experimental | [1] Chevalier 2000; _cites Bugl 1964_ | p. 6 | “Cast specimens of UN were heated in a controlled nitrogen-pressure apparatus in order to study the decomposition behaviour: at pressures of nitrogen below 2.5 atm, UN decomposed at temperatures below 3123 K (2850°C), while at pressures greater than 2.5 atm, it melted congruently at 3123 K (2850°C).” |
 
 ### Phase equilibrium (23)
 

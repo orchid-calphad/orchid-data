@@ -1,27 +1,23 @@
 # NiSi3: enthalpy of formation
 
-> Enthalpy of formation of NiSi3: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NiSi3: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiSi3.html · Markdown: https://data.orchid-project.org/compounds/NiSi3.md
 
-8 accepted literature formation-enthalpy value(s) (model 4, DFT 2, unspecified 2); OQMD 19.223 kJ/mol-atom (oqmd-298337).
+4 accepted literature formation-enthalpy value(s) (model 2, DFT 1, unspecified 1); OQMD 19.223 kJ/mol-atom (oqmd-298337).
 
 Systems: [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) · [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiSi3 reported in the literature (8)
+Table: Enthalpy of formation of NiSi3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -8.61 kJ/mol-atom | NiSi3–L12 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 10 |  |
-| -8.61 kJ/mol-atom | NiSi3–L12 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 1, p. 4, row 10 |  |
 | 22.867 kJ/mol-atom | NiSi3–L12 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 9 |  |
-| 22.867 kJ/mol-atom | NiSi3–L12 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 2, p. 4, row 9 |  |
-| 20.6 kJ/mol-atom | Si3Ni(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004; _cites Tokunaga 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900049-x) | Table 2, p. 3, row 5 |  |
 | 20.6 kJ/mol-atom | Si3Ni(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004; _cites Tokunaga 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900049-x) | Table 2, p. 3, row 5 |  |
 | 22.881 kJ/mol-atom | NiSi3–L12 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012 | Table 1, p. 4, row 8 |  |
-| 22.881 kJ/mol-atom | NiSi3–L12 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012 | Table 2, p. 4, row 8 |  |
 
 ## DFT formation energies
 

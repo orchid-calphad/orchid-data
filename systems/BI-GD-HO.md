@@ -1,10 +1,10 @@
 # Bi–Gd–Ho system
 
-> Bi–Gd–Ho system: 64 accepted literature values (crystal structure 37, formation 27) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Gd–Ho system: 48 accepted literature values (formation 27, crystal structure 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-GD-HO.html · Markdown: https://data.orchid-project.org/systems/BI-GD-HO.md
 
-64 accepted literature values from 1 paper(s) (experimental 19, model 12, DFT 33); 0 calculated phase diagram(s).
+48 accepted literature values from 1 paper(s) (experimental 11, model 12, DFT 25); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GD-HO.json) · [CSV](https://data.orchid-project.org/systems/BI-GD-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GD-HO) · [Markdown](https://data.orchid-project.org/systems/BI-GD-HO.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
+| experimental | 11 |
 | model | 12 |
-| DFT | 33 |
+| DFT | 25 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 27 |
-| crystal structure | 37 |
+| crystal structure | 21 |
 
 ## Formation enthalpies
 
@@ -61,43 +61,27 @@ Table: Enthalpies of formation, Bi–Gd–Ho system (27)
 
 ## Other properties
 
-### Crystal structure (37)
+### Crystal structure (21)
 
 Table: Crystal structure, Bi–Gd–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 9.4418 Å | 0 | Gd4Bi3; _alloy: Gd 0.571429, Ho 0_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 3 |  |
-| Lattice a | 9.4418 Å | 0 | Gd4Bi3; _alloy: Gd 0.571429, Ho 0_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 3 |  |
-| Lattice a | 9.252 Å | 0 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 1 |  |
 | Lattice a | 9.252 Å | 0 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 1 |  |
 | Lattice a | 6.3562 Å | 0 | GdBi; _alloy: Gd 0.5, Ho 0_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
-| Lattice a | 6.3562 Å | 0 | GdBi; _alloy: Gd 0.5, Ho 0_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
-| Lattice a | 8.194 Å | 0 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
 | Lattice a | 8.194 Å | 0 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
 | Lattice a | 6.2853 Å | 0 | HoBi; _alloy: Gd 0, Ho 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 9 |  |
-| Lattice a | 6.2853 Å | 0 | HoBi; _alloy: Gd 0, Ho 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 9 |  |
-| Lattice a | 9.3853 Å | 298.15 | Gd4Bi3; _alloy: Gd 0.571429, Ho 0_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 4 |  |
 | Lattice a | 9.3853 Å | 298.15 | Gd4Bi3; _alloy: Gd 0.571429, Ho 0_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 4 |  |
 | Lattice a | 9.182 Å | 298.15 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | experimental | [1] Wang 2013; _cites Hohnke 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990146-5) | Table 3, p. 3, row 2 |  |
-| Lattice a | 9.182 Å | 298.15 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | experimental | [1] Wang 2013; _cites Hohnke 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990146-5) | Table 3, p. 3, row 2 |  |
-| Lattice a | 6.3108 Å | 298.15 | GdBi; _alloy: Gd 0.5, Ho 0_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 6 |  |
 | Lattice a | 6.3108 Å | 298.15 | GdBi; _alloy: Gd 0.5, Ho 0_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 6 |  |
 | Lattice a | 8.128 Å | 298.15 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
-| Lattice a | 8.128 Å | 298.15 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
-| Lattice a | 6.2291 Å | 298.15 | HoBi; _alloy: Gd 0, Ho 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 10 |  |
 | Lattice a | 6.2291 Å | 298.15 | HoBi; _alloy: Gd 0, Ho 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 10 |  |
 | Lattice b | 9.469 Å | 0 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
-| Lattice b | 9.469 Å | 0 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
-| Lattice b | 9.385 Å | 298.15 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
 | Lattice b | 9.385 Å | 298.15 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
 | Lattice c | 6.412 Å | 0 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 1 |  |
-| Lattice c | 6.412 Å | 0 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 1 |  |
-| Lattice c | 11.942 Å | 0 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
 | Lattice c | 11.942 Å | 0 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
 | Lattice c | 6.426 Å | 298.15 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | experimental | [1] Wang 2013; _cites Hohnke 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990146-5) | Table 3, p. 3, row 2 |  |
-| Lattice c | 6.426 Å | 298.15 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | experimental | [1] Wang 2013; _cites Hohnke 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990146-5) | Table 3, p. 3, row 2 |  |
-| Lattice c | 11.874 Å | 298.15 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
 | Lattice c | 11.874 Å | 298.15 | Ho5Bi3; _alloy: Gd 0, Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
 | Molar volume; _printed: V0_ | 420.857 Å3 | 0 | Gd4Bi3; _alloy: Gd 0.571429, Ho 0_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 2 |  |
 | Molar volume; _printed: V0_ | 475.316 Å3 | 0 | Gd5Bi3; _alloy: Gd 0.625, Ho 0_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 1 |  |

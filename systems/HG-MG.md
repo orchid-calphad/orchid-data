@@ -58,17 +58,17 @@ Table: Invariant reactions reported in the literature for the Hg–Mg system (34
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 903 | congruent: L↔MgHg | MgHg: Hg 0.5 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 24 |  |
-| 900 | congruent: L↔MgHg | MgHg: Hg 0.5 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 25 |  |
-| 899 | congruent: L↔MgHg | MgHg: Hg 0.5 | model | [1] Feng 2009 | Table 6, p. 5, row 27 |  |
-| 889 | congruent: L↔MgHg | MgHg: Hg 0.5 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 26 |  |
-| 853 | congruent: L↔Mg2Hg | Mg2Hg: Hg 0.3333 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 11 |  |
-| 847 | congruent: L↔Mg2Hg | Mg2Hg: Hg 0.333 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 13 |  |
-| 843 | congruent: L↔Mg2Hg | Mg2Hg: Hg 0.3333 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 12 |  |
-| 842 | congruent: L↔Mg2Hg | Mg2Hg: Hg 0.333 | model | [1] Feng 2009 | Table 6, p. 5, row 14 |  |
-| 835 | congruent: L↔Mg5Hg3 | Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 18 |  |
-| 835 | congruent: L↔Mg5Hg3 | L: Hg 0.375, Mg 0.625; Mg5Hg3: Hg 0.375, Mg 0.625 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 19 |  |
-| 834 | congruent: L↔Mg5Hg3 | Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 20 |  |
+| 903 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 24 |  |
+| 900 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 25 |  |
+| 899 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | model | [1] Feng 2009 | Table 6, p. 5, row 27 |  |
+| 889 | congruent melting: L↔MgHg | MgHg: Hg 0.5 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 26 |  |
+| 853 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.3333 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 11 |  |
+| 847 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.333 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 13 |  |
+| 843 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.3333 | experimental | [1] Feng 2009; _cites ref. 26_ | Table 6, p. 5, row 12 |  |
+| 842 | congruent melting: L↔Mg2Hg | Mg2Hg: Hg 0.333 | model | [1] Feng 2009 | Table 6, p. 5, row 14 |  |
+| 835 | congruent melting: L↔Mg5Hg3 | Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 18 |  |
+| 835 | congruent melting: L↔Mg5Hg3 | L: Hg 0.375, Mg 0.625; Mg5Hg3: Hg 0.375, Mg 0.625 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 19 |  |
+| 834 | congruent melting: L↔Mg5Hg3 | Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 20 |  |
 | 833.5 | eutectic: L↔Mg2Hg+Mg5Hg3 | L: Hg 0.371; Mg2Hg: Hg 0.333; Mg5Hg3: Hg 0.375 | model | [1] Feng 2009 | Table 6, p. 5, row 17 |  |
 | 833 | eutectic: L↔MgHg+Mg5Hg3 | L: Hg 0.4; MgHg: Hg 0.5; Mg5Hg3: Hg 0.375 | experimental | [1] Feng 2009; _cites ref. 25_ | Table 6, p. 5, row 21 |  |
 | 832 | eutectic: L↔MgHg+Mg5Hg3 | MgHg: Hg 0.5, Mg 0.5; Mg5Hg3: Hg 0.375, Mg 0.625 | model | [1] Feng 2009; _cites ref. 27_ | Table 6, p. 5, row 22 |  |

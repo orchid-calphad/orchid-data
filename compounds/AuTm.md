@@ -1,28 +1,23 @@
 # AuTm: enthalpy of formation
 
-> Enthalpy of formation of AuTm: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AuTm: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AuTm.html · Markdown: https://data.orchid-project.org/compounds/AuTm.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 4); experimental median -92.8 kJ/mol-atom (n = 2); Materials Project -87.323 kJ/mol-atom (mp-aaacfxex); OQMD -87.084 kJ/mol-atom (oqmd-28226).
+5 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 2); experimental median -92.8 kJ/mol-atom (n = 1); Materials Project -87.323 kJ/mol-atom (mp-aaacfxex); OQMD -87.084 kJ/mol-atom (oqmd-28226).
 
 Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AuTm reported in the literature (10)
+Table: Enthalpy of formation of AuTm reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -92.8 kJ/mol-atom ± 1.9 | αAuTm | 298 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 41 |  |
-| -92.8 kJ/mol-atom ± 1.9 | αAuTm | 298 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 41 |  |
-| -90.5 kJ/mol-atom | αAuTm | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 42 |  |
 | -90.5 kJ/mol-atom | αAuTm | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 42 |  |
 | -68.9 kJ/mol-atom | βAuTm | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 45 |  |
-| -68.9 kJ/mol-atom | βAuTm | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 45 |  |
 | -90 kJ/mol-atom | αAuTm | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 40 |  |
-| -90 kJ/mol-atom | αAuTm | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 40 |  |
-| -87.5 kJ/mol-atom | βAuTm | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 44 |  |
 | -87.5 kJ/mol-atom | βAuTm | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 44 |  |
 
 ## DFT formation energies

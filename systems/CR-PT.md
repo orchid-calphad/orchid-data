@@ -65,10 +65,10 @@ Table: Invariant reactions reported in the literature for the Cr–Pt system (12
 | 1830 | eutectic: L ↔ A15 Cr3Pt + Pt fcc | A15: Pt 0.2 | model | [1] Preußner 2009 | Table 3, p. 5, row 6 |  |
 | 1803 | eutectic: L ↔ A15 Cr3Pt + Pt fcc | L: Pt 0.24; A15: Pt 0.2; fcc: Pt 0.29 | experimental | [1] Preußner 2009 | Table 3, p. 5, row 5 |  |
 | 1773 | eutectic: L ↔ Cr bcc + A15 Cr3Pt | L: Pt 0.13; bcc: Pt 0.1; A15: Pt 0.17 | experimental | [1] Preußner 2009 | Table 3, p. 5, row 7 |  |
-| 1542 | Ordering reaction fcc ↔ L12: Pt fcc ↔ L12 Cr3Pt + A15 | A15: Cr 0.75, Pt 0.25 | model | [1] Preußner 2009 | Table 3, p. 5, row 12 |  |
-| 1440 | Ordering reaction fcc ↔ L10: Pt fcc ↔ L10 CrPt |  | model | [1] Preußner 2009 | Table 3, p. 5, row 9 |  |
-| 1425 | Ordering reaction fcc ↔ L12: Pt fcc ↔ L12 CrPt3 |  | model | [1] Preußner 2009 | Table 3, p. 5, row 11 |  |
-| 1403 | Ordering reaction fcc ↔ L12: Pt fcc ↔ L12 CrPt3 | Pt fcc: Pt 0.67; L12 CrPt3: Pt 0.67 | experimental | [1] Preußner 2009 | Table 3, p. 5, row 10 |  |
+| 1542 | order-disorder: Pt fcc ↔ L12 Cr3Pt + A15 | A15: Cr 0.75, Pt 0.25 | model | [1] Preußner 2009 | Table 3, p. 5, row 12 |  |
+| 1440 | order-disorder: Pt fcc ↔ L10 CrPt |  | model | [1] Preußner 2009 | Table 3, p. 5, row 9 |  |
+| 1425 | order-disorder: Pt fcc ↔ L12 CrPt3 |  | model | [1] Preußner 2009 | Table 3, p. 5, row 11 |  |
+| 1403 | order-disorder: Pt fcc ↔ L12 CrPt3 | Pt fcc: Pt 0.67; L12 CrPt3: Pt 0.67 | experimental | [1] Preußner 2009 | Table 3, p. 5, row 10 |  |
 
 ## Other properties
 

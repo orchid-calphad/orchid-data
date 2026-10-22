@@ -168,14 +168,14 @@ Table: Invariant reactions reported in the literature for the Fe–Gd system (69
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1661 | b.c.c. -> f.c.c. + liq. |  | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 3 |  |
-| 1653 | metatectic: δFe \<=> liquid + γFe | δFe: Gd 0.0064; liquid: Gd 0.093; γFe: Gd 0.0059 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 4 |  |
+| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.0064; liquid: Gd 0.093; γFe: Gd 0.0059 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 4 |  |
 | 1653 | b.c.c. -> f.c.c. + liq. |  | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 2 |  |
-| 1653 | metatectic: δFe \<=> liquid + γFe | liquid: Gd 0.09 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 3 |  |
-| 1653 | metatectic: δFe \<=> liquid + γFe | δFe: Gd 0.008; liquid: Gd 0.15; γFe: Gd 0.006 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 2 |  |
+| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | liquid: Gd 0.09 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 3 |  |
+| 1653 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.008; liquid: Gd 0.15; γFe: Gd 0.006 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 2 |  |
 | 1653 | b.c.c. -> f.c.c. + liq. | L: Gd 0.09 | model | [1] Liu 1995 | Table 3, p. 4, row 1 |  |
 | 1653 | δFe \<-> Liquid + γFe | δFe: Gd 0.008; Liquid: Gd 0.15; γFe: Gd 0.006 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 2 |  |
 | 1646 | δFe \<-> Liquid + γFe | δFe: Gd 0.016; Liquid: Gd 0.16; γFe: Gd 0.005 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 1 |  |
-| 1646 | metatectic: δFe \<=> liquid + γFe | δFe: Gd 0.016; liquid: Gd 0.16; γFe: Gd 0.005 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 1 |  |
+| 1646 | metatectic/catatectic: δFe \<=> liquid + γFe | δFe: Gd 0.016; liquid: Gd 0.16; γFe: Gd 0.005 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 1 |  |
 | 1608 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.124; γFe: Gd 0.0072; Fe17Gd2(H): Gd 0.105263 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 11 |  |
 | 1608 | liq. + f.c.c. -> Fe17Gd2 | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 5 |  |
 | 1608 | peritectic: liquid + γFe \<=> Fe17Gd2(H) | liquid: Gd 0.19; γFe: Gd 0.009; Fe17Gd2(H): Gd 0.105263 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 8 |  |
@@ -192,11 +192,11 @@ Table: Invariant reactions reported in the literature for the Fe–Gd system (69
 | 1553 | peritectic: liquid + Fe17Gd2(H) \<=> Fe23Gd6 | liquid: Gd 0.27; Fe17Gd2(H): Gd 0.105263; Fe23Gd6: Gd 0.206897 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 12 |  |
 | 1553 | liq. + Fe17Gd2 -> Fe23Gd6 | Fe17Gd2: Gd 0.105263; Fe23Gd6: Gd 0.206897 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 9 |  |
 | 1552 | peritectic: liquid + Fe17Gd2(H) \<=> Fe23Gd6 | liquid: Gd 0.216; Fe17Gd2(H): Gd 0.105263; Fe23Gd6: Gd 0.206897 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 14 |  |
-| 1532 | metatectic: βGd \<=> liquid + αGd | βGd: Gd 0.995; liquid: Gd 0.95; αGd: Gd 0.995 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 28 |  |
+| 1532 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.995; liquid: Gd 0.95; αGd: Gd 0.995 | experimental | [2] Zinkevich 2002; _cites Savitskii 1969_ | Table 2, p. 3, row 28 |  |
 | 1532 | βGd \<-> Liquid + αGd | βGd: Gd 0.995; Liquid: Gd 0.95; αGd: Gd 0.995 | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 14 |  |
 | 1512 | b.c.c. -> h.c.p. + liq. | b.c.c.: Gd 0.9956; L: Gd 0.96 | model | [1] Liu 1995 | Table 3, p. 4, row 21 |  |
-| 1512 | metatectic: βGd \<=> liquid + αGd | βGd: Gd 0.9956; liquid: Gd 0.96 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 29 |  |
-| 1505 | metatectic: βGd \<=> liquid + αGd | βGd: Gd 0.9994; liquid: Gd 0.96; αGd: Gd 0.9999 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 30 |  |
+| 1512 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.9956; liquid: Gd 0.96 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 29 |  |
+| 1505 | metatectic/catatectic: βGd \<=> liquid + αGd | βGd: Gd 0.9994; liquid: Gd 0.96; αGd: Gd 0.9999 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 30 |  |
 | 1446 | liq. + Fe23Gd6 -> Fe3Gd | Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | experimental | [1] Liu 1995; _cites Spedding 1961_ | Table 3, p. 4, row 13 |  |
 | 1433 | Liquid + Fe23Gd6 \<-> Fe3Gd | Liquid: Gd 0.47; Fe23Gd6: Gd 0.207; Fe3Gd: Gd 0.25 | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 8 |  |
 | 1433 | peritectic: liquid + Fe23Gd6 \<=> Fe3Gd | liquid: Gd 0.472; Fe23Gd6: Gd 0.206897; Fe3Gd: Gd 0.25 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 18 |  |

@@ -1,26 +1,22 @@
 # Pb3Yb5: enthalpy of formation
 
-> Enthalpy of formation of Pb3Yb5: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Pb3Yb5: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pb3Yb5.html · Markdown: https://data.orchid-project.org/compounds/Pb3Yb5.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 6, model 2); experimental median -57.7 kJ/mol-atom (n = 6); OQMD -50.708 kJ/mol-atom (oqmd-17938).
+4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -57.7 kJ/mol-atom (n = 3); OQMD -50.708 kJ/mol-atom (oqmd-17938).
 
 Systems: [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pb3Yb5 reported in the literature (8)
+Table: Enthalpy of formation of Pb3Yb5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -66.5 kJ/mol-atom ± 2 | Pb3Yb5 | 298.15 | experimental | Direct calorimeter | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 7 |  |
-| -66.5 kJ/mol-atom ± 2 | Pb3Yb5 | 298.15 | experimental | Direct calorimeter | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 7 |  |
-| -57.7 kJ/mol-atom ± 1 | Pb3Yb5 | 298.15 | experimental | Knudsen data | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 6 |  |
 | -57.7 kJ/mol-atom ± 1 | Pb3Yb5 | 298.15 | experimental | Knudsen data | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 6 |  |
 | -55.5 kJ/mol-atom ± 2 | Pb3Yb5 | 298.15 | experimental | Direct calorimeter | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 5 |  |
-| -55.5 kJ/mol-atom ± 2 | Pb3Yb5 | 298.15 | experimental | Direct calorimeter | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 5 |  |
-| -68.02 kJ/mol-atom | Pb3Yb5 |  | model | Optimization | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009 | Table 4, p. 6, row 8 |  |
 | -68.02 kJ/mol-atom | Pb3Yb5 |  | model | Optimization | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html) | [1] Idbenali 2009 | Table 4, p. 6, row 8 |  |
 
 ## DFT formation energies

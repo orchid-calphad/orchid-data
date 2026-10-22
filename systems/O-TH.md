@@ -61,12 +61,12 @@ Table: Phase equilibrium, O–Th system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 2480 | liquidus: ThO0.11; _liquid: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 16 |  |
-| Phase composition |  | 2720 | liquidus: ThO0.33; _liquid: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 13 |  |
-| Phase composition |  | 2940 | liquidus: ThO0.66; _liquid: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 10 |  |
-| Phase composition |  | 3400 | liquidus: ThO; _liquid: Th 0.5_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 3505 | liquidus: ThO1.22; _liquid: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 4 |  |
-| Phase composition |  | 3535 | liquidus: ThO1.5; _liquid: Th 0.4_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 1 |  |
+| Phase composition |  | 2480 | other: ThO0.11; _liquid: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 16 |  |
+| Phase composition |  | 2720 | other: ThO0.33; _liquid: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 13 |  |
+| Phase composition |  | 2940 | other: ThO0.66; _liquid: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 10 |  |
+| Phase composition |  | 3400 | other: ThO; _liquid: Th 0.5_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 7 |  |
+| Phase composition |  | 3505 | other: ThO1.22; _liquid: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 4 |  |
+| Phase composition |  | 3535 | other: ThO1.5; _liquid: Th 0.4_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 1 |  |
 
 ## Sources
 

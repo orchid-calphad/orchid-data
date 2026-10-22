@@ -1,24 +1,22 @@
 # Ga3Gd5: enthalpy of formation
 
-> Enthalpy of formation of Ga3Gd5: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ga3Gd5: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ga3Gd5.html · Markdown: https://data.orchid-project.org/compounds/Ga3Gd5.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); OQMD -46.682 kJ/mol-atom (oqmd-18351).
+4 accepted literature formation-enthalpy value(s) (model 4); OQMD -46.682 kJ/mol-atom (oqmd-18351).
 
 Systems: [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) · [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ga3Gd5 reported in the literature (6)
+Table: Enthalpy of formation of Ga3Gd5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -61.56 kJ/mol-atom | Ga3Gd5 |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 11 |  |
-| -61.56 kJ/mol-atom | Ga3Gd5 |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 11 |  |
 | -61.56 kJ/mol-atom | Ga3Gd5 | 298 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 27 |  |
 | -60.698 kJ/mol-atom | Ga3Gd5 | 298 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023 | Table 2, p. 8, row 28 |  |
-| -59.78 kJ/mol-atom | Ga3Gd5 |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 12 |  |
 | -59.78 kJ/mol-atom | Ga3Gd5 |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 12 |  |
 
 ## DFT formation energies

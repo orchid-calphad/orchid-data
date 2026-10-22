@@ -1,10 +1,10 @@
 # C–Fe–N system
 
-> C–Fe–N system: 35 accepted literature values (phase equilibrium 20, invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Fe–N system: 34 accepted literature values (phase equilibrium 19, invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-FE-N.html · Markdown: https://data.orchid-project.org/systems/C-FE-N.md
 
-35 accepted literature values from 1 paper(s) (experimental 15, model 10, unspecified 10); 0 calculated phase diagram(s).
+34 accepted literature values from 1 paper(s) (experimental 15, model 10, unspecified 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-FE-N.json) · [CSV](https://data.orchid-project.org/systems/C-FE-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-FE-N) · [Markdown](https://data.orchid-project.org/systems/C-FE-N.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 15 |
 | model | 10 |
-| unspecified | 10 |
+| unspecified | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 15 |
-| phase equilibrium | 20 |
+| phase equilibrium | 19 |
 
 ## Invariant reactions (literature)
 
@@ -29,25 +29,25 @@ Table: Invariant reactions reported in the literature for the C–Fe–N system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 952 | U: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 4 |  |
-| 873 | U: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016 | Table IV, p. 9, row 2 |  |
-| 868 | U: U1, γ + θ ⇌ α + ε |  | experimental | [1] Göhring 2016; _cites Woehrle 2016_ [doi](https://doi.org/10.3139/146.111341) | Table IV, p. 9, row 1 |  |
-| 867 | U: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 3 |  |
-| 859 | E: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 7 |  |
-| 857 | E: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016 | Table IV, p. 9, row 6 |  |
-| 857 | E: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 8 |  |
-| 853 | E: E1, γ ⇌ α + γ′ + ε |  | experimental | [1] Göhring 2016; _cites Woehrle 2016_ [doi](https://doi.org/10.3139/146.111341) | Table IV, p. 9, row 5 |  |
-| 842 | U: U2, α + ε ⇌ γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 9 |  |
-| 840 | E: E2, ε ⇌ γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 12 |  |
-| 840 | e: e4, ε ⇌ α + γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 14 |  |
-| 839 | U: U2, α + ε ⇌ γ′ + θ |  | model | [1] Göhring 2016 | Table IV, p. 9, row 10 |  |
-| 833 | E: E2, ε ⇌ γ′ + θ |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 13 |  |
-| 825 | e: e4, ε ⇌ α + γ′ + θ |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 15 |  |
-| 783 | U: U2, α + ε ⇌ γ′ + θ |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 11 |  |
+| 952 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 4 |  |
+| 873 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016 | Table IV, p. 9, row 2 |  |
+| 868 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | experimental | [1] Göhring 2016; _cites Woehrle 2016_ [doi](https://doi.org/10.3139/146.111341) | Table IV, p. 9, row 1 |  |
+| 867 | quasi-peritectic: U1, γ + θ ⇌ α + ε |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 3 |  |
+| 859 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 7 |  |
+| 857 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016 | Table IV, p. 9, row 6 |  |
+| 857 | eutectic: E1, γ ⇌ α + γ′ + ε |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 8 |  |
+| 853 | eutectic: E1, γ ⇌ α + γ′ + ε |  | experimental | [1] Göhring 2016; _cites Woehrle 2016_ [doi](https://doi.org/10.3139/146.111341) | Table IV, p. 9, row 5 |  |
+| 842 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 9 |  |
+| 840 | eutectic: E2, ε ⇌ γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 12 |  |
+| 840 | eutectic: e4, ε ⇌ α + γ′ + θ |  | experimental | [1] Göhring 2016; _cites Gohring 2016_ [doi](https://doi.org/10.1016/j.calphad.2015.10.014) | Table IV, p. 9, row 14 |  |
+| 839 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | model | [1] Göhring 2016 | Table IV, p. 9, row 10 |  |
+| 833 | eutectic: E2, ε ⇌ γ′ + θ |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 13 |  |
+| 825 | eutectic: e4, ε ⇌ α + γ′ + θ |  | model | [1] Göhring 2016; _cites Kunze 1996_ | Table IV, p. 9, row 15 |  |
+| 783 | quasi-peritectic: U2, α + ε ⇌ γ′ + θ |  | model | [1] Göhring 2016; _cites Du 1993_ [doi](https://doi.org/10.1007/bf02667880) | Table IV, p. 9, row 11 |  |
 
 ## Other properties
 
-### Phase equilibrium (20)
+### Phase equilibrium (19)
 
 Table: Phase equilibrium, C–Fe–N system
 
@@ -61,7 +61,6 @@ Table: Phase equilibrium, C–Fe–N system
 | Phase composition |  | 1373 | γ; _γ: C 0.019001, Fe 0.905828, N 0.075171_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 4 |  |
 | Phase composition |  | 1423 | γ; _γ: C 0.032494, Fe 0.89418, N 0.073326_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 11 |  |
 | Phase composition |  | 1423 | γ; _γ: C 0.032719, Fe 0.902677, N 0.064604_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 14 |  |
-| Phase composition |  | 1423 | γ; _γ: C 0.032719, Fe 0.902677, N 0.064604_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 12 |  |
 | Phase composition |  | 1423 | γ; _γ: C 0.021626, Fe 0.907906, N 0.070468_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 10 |  |
 | Phase composition |  | 1423 | γ; _γ: C 0.018617, Fe 0.908989, N 0.072394_ | unspecified | [1] Göhring 2016 | Table V, p. 10, row 8 |  |
 | Phase composition |  | 1423 | γ; _γ: C 0.032548, Fe 0.896208, N 0.071244_ | experimental | [1] Göhring 2016; _cites Schenck 1963_ | Table V, p. 10, row 13 |  |

@@ -1,23 +1,22 @@
 # Al11Cr2: enthalpy of formation
 
-> Enthalpy of formation of Al11Cr2: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al11Cr2: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al11Cr2.html · Markdown: https://data.orchid-project.org/compounds/Al11Cr2.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 3, model 3); experimental median -15.062 kJ/mol-atom (n = 3); OQMD 10.793 kJ/mol-atom (oqmd-1477065).
+5 accepted literature formation-enthalpy value(s) (experimental 3, model 2); experimental median -15.062 kJ/mol-atom (n = 3); OQMD 10.793 kJ/mol-atom (oqmd-1477065).
 
 Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) · [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al11Cr2 reported in the literature (6)
+Table: Enthalpy of formation of Al11Cr2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15.062 kJ/mol-atom | Al11Cr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 2 |  |
 | -15.062 kJ/mol-atom | Al11Cr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 2 |  |
 | -15.06 kJ/mol-atom | Al11Cr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 3 |  |
-| -15.322 kJ/mol-atom | Al11Cr2 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 2 |  |
 | -15.322 kJ/mol-atom | Al11Cr2 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 2 |  |
 | -15.32 kJ/mol-atom | Al11Cr2 |  | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986 | Table 1, p. 4, row 4 |  |
 

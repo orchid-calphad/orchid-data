@@ -1,22 +1,20 @@
 # NbZn15: enthalpy of formation
 
-> Enthalpy of formation of NbZn15: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of NbZn15: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NbZn15.html · Markdown: https://data.orchid-project.org/compounds/NbZn15.md
 
-4 accepted literature formation-enthalpy value(s) (model 4).
+2 accepted literature formation-enthalpy value(s) (model 2).
 
 Systems: [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NbZn15 reported in the literature (4)
+Table: Enthalpy of formation of NbZn15 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -3.637 kJ/mol (basis unstated) | NbZn15 | 0 | model |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| -3.637 kJ/mol (basis unstated) | NbZn15 | 0 | model |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| -3.636 kJ/mol (basis unstated) | NbZn15 | 0 | model |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 5 |  |
 | -3.636 kJ/mol (basis unstated) | NbZn15 | 0 | model |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 5 |  |
 
 ## Sources

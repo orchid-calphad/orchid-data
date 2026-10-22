@@ -30,27 +30,27 @@ Table: Invariant reactions reported in the literature for the Ga–Ge–Pt syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1608.2 | E: L -> GaPt3 + GaGePt6 + (Pt) |  | model | [1] Wang 2009 | Table 7, p. 8, row 1 |  |
-| 1439.4 | U: L + GaPt3 -> GaGePt4 + GaGePt6 |  | model | [1] Wang 2009 | Table 7, p. 8, row 2 |  |
-| 1415.9 | U: L + GaPt3 -> GaGePt4 + GaPt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 3 |  |
-| 1399.8 | U: L + GaPt2 -> Ga3Pt5 + GaGePt4 |  | model | [1] Wang 2009 | Table 7, p. 8, row 4 |  |
-| 1297.7 | U: L + GaGePt4 -> GePt + Ga3Pt5 |  | model | [1] Wang 2009 | Table 7, p. 8, row 5 |  |
-| 1265.1 | E: L -> GePt + GaPt + Ga3Pt5 |  | model | [1] Wang 2009 | Table 7, p. 8, row 6 |  |
-| 1222 | P: L + GaGePt6 + (Pt) -> GePt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 7 |  |
-| 1171.1 | P: L + GaGePt4 + GePt -> Ge2Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 8 |  |
-| 1161.5 | U: L + Ga3Pt2 -> Ga11GePt7 + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 9 |  |
-| 1136.2 | P: L + GaGePt6 + GaGePt4 -> GePt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 10 |  |
-| 1133.2 | U: L + GaGePt4 -> GePt2 + Ge2Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 11 |  |
-| 1130.9 | U: L + Ga3Pt2 -> GaPt + Ga11GePt7 |  | model | [1] Wang 2009 | Table 7, p. 8, row 12 |  |
-| 1097.4 | U: L + GaGePt6 -> GePt3 + GePt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 13 |  |
-| 1078.4 | U: L + Ga11GePt7 -> Ga2Pt + GaPt |  | model | [1] Wang 2009 | Table 7, p. 8, row 14 |  |
-| 1066.9 | U: L + GaPt -> Ga2Pt + GePt |  | model | [1] Wang 2009 | Table 7, p. 8, row 15 |  |
-| 1025.3 | U: L + GePt -> Ga2Pt + Ge3Pt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 16 |  |
-| 1019.7 | U: L + Ge3Pt2 -> Ge2Pt + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 17 |  |
-| 978 | U: L + Ge2Pt -> (Ge) + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 18 |  |
-| 892.6 | U: L + Ga2Pt -> (Ge) + Ga7Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 19 |  |
-| 564.4 | P: L + (Ge) + Ga7Pt3 -> Ga6Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 20 |  |
-| 302.9 | P: L + Ga6Pt + (Ge) -> (Ga) |  | model | [1] Wang 2009 | Table 7, p. 8, row 21 |  |
+| 1608.2 | eutectic: L -> GaPt3 + GaGePt6 + (Pt) |  | model | [1] Wang 2009 | Table 7, p. 8, row 1 |  |
+| 1439.4 | quasi-peritectic: L + GaPt3 -> GaGePt4 + GaGePt6 |  | model | [1] Wang 2009 | Table 7, p. 8, row 2 |  |
+| 1415.9 | quasi-peritectic: L + GaPt3 -> GaGePt4 + GaPt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 3 |  |
+| 1399.8 | quasi-peritectic: L + GaPt2 -> Ga3Pt5 + GaGePt4 |  | model | [1] Wang 2009 | Table 7, p. 8, row 4 |  |
+| 1297.7 | quasi-peritectic: L + GaGePt4 -> GePt + Ga3Pt5 |  | model | [1] Wang 2009 | Table 7, p. 8, row 5 |  |
+| 1265.1 | eutectic: L -> GePt + GaPt + Ga3Pt5 |  | model | [1] Wang 2009 | Table 7, p. 8, row 6 |  |
+| 1222 | peritectic: L + GaGePt6 + (Pt) -> GePt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 7 |  |
+| 1171.1 | peritectic: L + GaGePt4 + GePt -> Ge2Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 8 |  |
+| 1161.5 | quasi-peritectic: L + Ga3Pt2 -> Ga11GePt7 + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 9 |  |
+| 1136.2 | peritectic: L + GaGePt6 + GaGePt4 -> GePt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 10 |  |
+| 1133.2 | quasi-peritectic: L + GaGePt4 -> GePt2 + Ge2Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 11 |  |
+| 1130.9 | quasi-peritectic: L + Ga3Pt2 -> GaPt + Ga11GePt7 |  | model | [1] Wang 2009 | Table 7, p. 8, row 12 |  |
+| 1097.4 | quasi-peritectic: L + GaGePt6 -> GePt3 + GePt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 13 |  |
+| 1078.4 | quasi-peritectic: L + Ga11GePt7 -> Ga2Pt + GaPt |  | model | [1] Wang 2009 | Table 7, p. 8, row 14 |  |
+| 1066.9 | quasi-peritectic: L + GaPt -> Ga2Pt + GePt |  | model | [1] Wang 2009 | Table 7, p. 8, row 15 |  |
+| 1025.3 | quasi-peritectic: L + GePt -> Ga2Pt + Ge3Pt2 |  | model | [1] Wang 2009 | Table 7, p. 8, row 16 |  |
+| 1019.7 | quasi-peritectic: L + Ge3Pt2 -> Ge2Pt + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 17 |  |
+| 978 | quasi-peritectic: L + Ge2Pt -> (Ge) + Ga2Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 18 |  |
+| 892.6 | quasi-peritectic: L + Ga2Pt -> (Ge) + Ga7Pt3 |  | model | [1] Wang 2009 | Table 7, p. 8, row 19 |  |
+| 564.4 | peritectic: L + (Ge) + Ga7Pt3 -> Ga6Pt |  | model | [1] Wang 2009 | Table 7, p. 8, row 20 |  |
+| 302.9 | peritectic: L + Ga6Pt + (Ge) -> (Ga) |  | model | [1] Wang 2009 | Table 7, p. 8, row 21 |  |
 
 ## Formation enthalpies
 

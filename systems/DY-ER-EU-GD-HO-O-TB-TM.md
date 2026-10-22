@@ -1,10 +1,10 @@
 # Dy–Er–Eu–Gd–Ho–O–Tb–Tm system
 
-> Dy–Er–Eu–Gd–Ho–O–Tb–Tm system: 180 accepted literature values (heat capacity / entropy / enthalpy 90, other property 72, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Er–Eu–Gd–Ho–O–Tb–Tm system: 179 accepted literature values (heat capacity / entropy / enthalpy 89, other property 72, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html · Markdown: https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md
 
-180 accepted literature values from 1 paper(s) (model 180); 0 calculated phase diagram(s).
+179 accepted literature values from 1 paper(s) (model 179); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-ER-EU-GD-HO-O-TB-TM.json) · [CSV](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-ER-EU-GD-HO-O-TB-TM) · [Markdown](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 180 |
+| model | 179 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 18 |
-| heat capacity / entropy / enthalpy | 90 |
+| heat capacity / entropy / enthalpy | 89 |
 | other property | 72 |
 
 ## Formation enthalpies
@@ -51,7 +51,7 @@ Table: Enthalpies of formation, Dy–Er–Eu–Gd–Ho–O–Tb–Tm system (18)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (90)
+### Heat capacity / entropy / enthalpy (89)
 
 Table: Heat capacity / entropy / enthalpy, Dy–Er–Eu–Gd–Ho–O–Tb–Tm system
 
@@ -73,7 +73,6 @@ Table: Heat capacity / entropy / enthalpy, Dy–Er–Eu–Gd–Ho–O–Tb–Tm 
 | Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 51 |  |
 | Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 56 |  |
 | Entropy; _printed: Δtrs°S_ | 5.546 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 48 |  |
-| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 53 |  |
 | Entropy; _printed: Δtrs°S_ | 5.451 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 49 |  |
 | Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 52 |  |
 | Entropy; _printed: Δtrs°S_ | 22.537 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 50 |  |

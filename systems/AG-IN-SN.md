@@ -37,12 +37,12 @@ Table: Phase transition, Ag–In–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 399.15 K | 399.15 | liquidus: 4,4b; _alloy: In 0.5_ | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 4 |  |
-| Phase transition | 423.15 K | 423.15 | liquidus: 2 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 2 |  |
-| Phase transition | 449.15 K | 449.15 | liquidus: 6 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 6 |  |
-| Phase transition | 463.15 K | 463.15 | liquidus: 1, 1b | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 1 |  |
-| Phase transition | 478.15 K | 478.15 | liquidus: 3 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 3 |  |
-| Phase transition | 480.15 K | 480.15 | liquidus: 5 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 5 |  |
+| Phase transition | 399.15 K | 399.15 | other: 4,4b; _alloy: In 0.5_ | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 4 |  |
+| Phase transition | 423.15 K | 423.15 | other: 2 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 2 |  |
+| Phase transition | 449.15 K | 449.15 | other: 6 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 6 |  |
+| Phase transition | 463.15 K | 463.15 | other: 1, 1b | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 1 |  |
+| Phase transition | 478.15 K | 478.15 | other: 3 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 3 |  |
+| Phase transition | 480.15 K | 480.15 | other: 5 | experimental | [1] Korhonen 1998 | Table IV, p. 8, row 5 |  |
 
 ## Sources
 

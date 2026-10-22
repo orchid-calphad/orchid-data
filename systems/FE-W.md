@@ -68,8 +68,8 @@ Table: Phase transition, Fe–W system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1488 K | 1488 | other: /z-phase + W-rich solid solution -> FeW | experimental | [1] Gustafson 1987 | p. 1 | “In a complementary work Hofmann ~~employed DTA analysis on alloys containing the FeW phase and he found that it forms from the/z-phase and W-rich solid solution at 1488 K and that the /~-phase decomposes eutectoidally into an Fe-rich bcc phase and FeW at 1463 K.” |
-| Phase transition | 1525 K | 1525 (none) | W2C/ bcc + WC | experimental | [1] Gustafson 1987 | p. 4 | “To start with, he gives a value of \<2673 K for the liq + M2C/bcc + WC equilibrium whereas the W2C/ bcc + WC equilibrium in the W-C system is at 1525 K.” |
-| Phase transition | 1893 K | 1893 (none) | L + WC + bcc/M6C | experimental | [1] Gustafson 1987; _cites Lugscheider 1982_ | p. 4 | “They found the L + WC + bcc/M6C equilibrium at 1893 K.” |
+| Phase transition | 1525 K | 1525 | W2C/ bcc + WC | experimental | [1] Gustafson 1987 | p. 4 | “To start with, he gives a value of \<2673 K for the liq + M2C/bcc + WC equilibrium whereas the W2C/ bcc + WC equilibrium in the W-C system is at 1525 K.” |
+| Phase transition | 1893 K | 1893 | L + WC + bcc/M6C | experimental | [1] Gustafson 1987; _cites Lugscheider 1982_ | p. 4 | “They found the L + WC + bcc/M6C equilibrium at 1893 K.” |
 | Phase transition | 2350 K | 2350 |  | experimental | [1] Gustafson 1987 | p. 3 | “At about 2350 K an ordered hexagonal structure forms.” |
 | Phase transition | 2750 K | 2750 |  | experimental | [1] Gustafson 1987; _cites Holleck 1981_ | p. 3 | “It transforms at about 2750 K into an orthorhombic structure, with a lower maximum solubility of carbon.” |
 

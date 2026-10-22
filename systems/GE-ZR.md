@@ -64,21 +64,21 @@ Table: Invariant reactions reported in the literature for the Ge–Zr system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2613 | Congruent: Liquid \<=> Zr5Ge3 | Liquid: Ge 0.375; Zr5Ge3: Ge 0.375 | model | [1] Sha 2011 | Table 5, p. 8, row 8 |  |
-| 2603 | Congruent: Liquid \<=> Zr5Ge3 | Liquid: Ge 0.375; Zr5Ge3: Ge 0.375 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 7 |  |
-| 2538 | Peritectic: Liquid + Zr5Ge3 \<=> Zr5Ge4 | Liquid: Ge 0.4561; Zr5Ge3: Ge 0.375; Zr5Ge4: Ge 0.4444 | model | [1] Sha 2011 | Table 5, p. 8, row 9 |  |
-| 2513 | Peritectic: Liquid + Zr5Ge4 \<=> ZrGe | Zr5Ge4: Ge 0.444444, Zr 0.555556; ZrGe: Ge 0.5, Zr 0.5 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 10 |  |
-| 2498 | Peritectic: Liquid + Zr5Ge4 \<=> ZrGe | Liquid: Ge 0.5121; Zr5Ge4: Ge 0.4444; ZrGe: Ge 0.5 | model | [1] Sha 2011 | Table 5, p. 8, row 11 |  |
-| 1865 | Peritectic: Liquid + Zr5Ge3 \<=> Zr3Ge | Liquid: Ge 0.1244; Zr5Ge3: Ge 0.375; Zr3Ge: Ge 0.25 | model | [1] Sha 2011 | Table 5, p. 8, row 6 |  |
-| 1860 | Peritectic: Liquid + Zr5Ge3 \<=> Zr3Ge | Zr5Ge3: Ge 0.375; Zr3Ge: Ge 0.25 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 5 |  |
-| 1810 | Eutectic: Liquid \<=> (βZr) + Zr3Ge | Liquid: Ge 0.095; (βZr): Ge 0.009; Zr3Ge: Ge 0.25 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 1 |  |
-| 1799 | Eutectic: Liquid \<=> (βZr) + Zr3Ge | Liquid: Ge 0.1068; (βZr): Ge 0.00936; Zr3Ge: Ge 0.25 | model | [1] Sha 2011 | Table 5, p. 8, row 2 |  |
-| 1793 | Peritectic: Liquid + ZrGe \<=> ZrGe2 | Liquid: Ge 0.7945; ZrGe: Ge 0.5; ZrGe2: Ge 0.6667 | model | [1] Sha 2011 | Table 5, p. 8, row 13 |  |
-| 1793 | Peritectic: Liquid + ZrGe \<=> ZrGe2 | ZrGe: Ge 0.5, Zr 0.5; ZrGe2: Ge 0.666667, Zr 0.333333 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 12 |  |
-| 1207 | Eutectic: Liquid \<=> (Ge) + ZrGe2 | Liquid: Ge 0.9872; (Ge): Ge 1; ZrGe2: Ge 0.6667 | model | [1] Sha 2011 | Table 5, p. 8, row 15 |  |
-| 1207 | Eutectic: Liquid \<=> (Ge) + ZrGe2 | Liquid: Ge 0.987; (Ge): Ge 1; ZrGe2: Ge 0.6667 | experimental | [1] Sha 2011; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02874981) | Table 5, p. 8, row 14 |  |
-| 1169 | Peritectoid: (βZr) + Zr3Ge \<=> (αZr) | (βZr): Ge 0; Zr3Ge: Ge 0.25 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 3 |  |
-| 1169 | Peritectoid: (βZr) + Zr3Ge \<=> (αZr) | (βZr): Ge 1.000e-4; Zr3Ge: Ge 0.25; (αZr): Ge 0.00938 | model | [1] Sha 2011 | Table 5, p. 8, row 4 |  |
+| 2613 | congruent melting: Liquid \<=> Zr5Ge3 | Liquid: Ge 0.375; Zr5Ge3: Ge 0.375 | model | [1] Sha 2011 | Table 5, p. 8, row 8 |  |
+| 2603 | congruent melting: Liquid \<=> Zr5Ge3 | Liquid: Ge 0.375; Zr5Ge3: Ge 0.375 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 7 |  |
+| 2538 | peritectic: Liquid + Zr5Ge3 \<=> Zr5Ge4 | Liquid: Ge 0.4561; Zr5Ge3: Ge 0.375; Zr5Ge4: Ge 0.4444 | model | [1] Sha 2011 | Table 5, p. 8, row 9 |  |
+| 2513 | peritectic: Liquid + Zr5Ge4 \<=> ZrGe | Zr5Ge4: Ge 0.444444, Zr 0.555556; ZrGe: Ge 0.5, Zr 0.5 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 10 |  |
+| 2498 | peritectic: Liquid + Zr5Ge4 \<=> ZrGe | Liquid: Ge 0.5121; Zr5Ge4: Ge 0.4444; ZrGe: Ge 0.5 | model | [1] Sha 2011 | Table 5, p. 8, row 11 |  |
+| 1865 | peritectic: Liquid + Zr5Ge3 \<=> Zr3Ge | Liquid: Ge 0.1244; Zr5Ge3: Ge 0.375; Zr3Ge: Ge 0.25 | model | [1] Sha 2011 | Table 5, p. 8, row 6 |  |
+| 1860 | peritectic: Liquid + Zr5Ge3 \<=> Zr3Ge | Zr5Ge3: Ge 0.375; Zr3Ge: Ge 0.25 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 5 |  |
+| 1810 | eutectic: Liquid \<=> (βZr) + Zr3Ge | Liquid: Ge 0.095; (βZr): Ge 0.009; Zr3Ge: Ge 0.25 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 1 |  |
+| 1799 | eutectic: Liquid \<=> (βZr) + Zr3Ge | Liquid: Ge 0.1068; (βZr): Ge 0.00936; Zr3Ge: Ge 0.25 | model | [1] Sha 2011 | Table 5, p. 8, row 2 |  |
+| 1793 | peritectic: Liquid + ZrGe \<=> ZrGe2 | Liquid: Ge 0.7945; ZrGe: Ge 0.5; ZrGe2: Ge 0.6667 | model | [1] Sha 2011 | Table 5, p. 8, row 13 |  |
+| 1793 | peritectic: Liquid + ZrGe \<=> ZrGe2 | ZrGe: Ge 0.5, Zr 0.5; ZrGe2: Ge 0.666667, Zr 0.333333 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 12 |  |
+| 1207 | eutectic: Liquid \<=> (Ge) + ZrGe2 | Liquid: Ge 0.9872; (Ge): Ge 1; ZrGe2: Ge 0.6667 | model | [1] Sha 2011 | Table 5, p. 8, row 15 |  |
+| 1207 | eutectic: Liquid \<=> (Ge) + ZrGe2 | Liquid: Ge 0.987; (Ge): Ge 1; ZrGe2: Ge 0.6667 | experimental | [1] Sha 2011; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02874981) | Table 5, p. 8, row 14 |  |
+| 1169 | peritectoid: (βZr) + Zr3Ge \<=> (αZr) | (βZr): Ge 0; Zr3Ge: Ge 0.25 | experimental | [1] Sha 2011; _cites Carlson 1956_ | Table 5, p. 8, row 3 |  |
+| 1169 | peritectoid: (βZr) + Zr3Ge \<=> (αZr) | (βZr): Ge 1.000e-4; Zr3Ge: Ge 0.25; (αZr): Ge 0.00938 | model | [1] Sha 2011 | Table 5, p. 8, row 4 |  |
 
 ## Other properties
 

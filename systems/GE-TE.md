@@ -1,10 +1,10 @@
 # Ge–Te system
 
-> Ge–Te system: 67 accepted literature values (invariant reaction 35, phase equilibrium 27, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Te system: 66 accepted literature values (invariant reaction 34, phase equilibrium 27, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-TE.html · Markdown: https://data.orchid-project.org/systems/GE-TE.md
 
-67 accepted literature values from 1 paper(s) (experimental 48, model 6, unspecified 13); 1 calculated phase diagram(s).
+66 accepted literature values from 1 paper(s) (experimental 47, model 6, unspecified 13); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-TE.json) · [CSV](https://data.orchid-project.org/systems/GE-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-TE/GeTe-99Sch-LB.json) · [Markdown](https://data.orchid-project.org/systems/GE-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 48 |
+| experimental | 47 |
 | model | 6 |
 | unspecified | 13 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 35 |
+| invariant reaction | 34 |
 | phase transition | 5 |
 | phase equilibrium | 27 |
 
@@ -48,45 +48,44 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Te system (35)
+Table: Invariant reactions reported in the literature for the Ge–Te system (34)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 998 | Eutectic: L -> β + Ge | β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 34_ | Table 2, p. 3, row 1 |  |
-| 996 | Eutectic: L -> β + Ge | β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 60_ | Table 2, p. 3, row 6 |  |
-| 993.1 | Eutectic: L -> β + Ge | β: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 31 |  |
-| 993 | Eutectic: L -> β + Ge | β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 22 |  |
-| 733 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 51_ | Table 2, p. 3, row 3 |  |
-| 725 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 62_ | Table 2, p. 3, row 7 |  |
-| 713 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 53_ | Table 2, p. 3, row 5 |  |
-| 703.2 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 32 |  |
-| 703 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 65_ | Table 2, p. 3, row 8 |  |
-| 703 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 23 |  |
-| 701 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 69_ | Table 2, p. 3, row 11 |  |
-| 700 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 75_ | Table 2, p. 3, row 14 |  |
-| 700 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 18 |  |
-| 700 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 75_ | Table 2, p. 3, row 13 |  |
-| 683 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 86_ | Table 2, p. 3, row 30 |  |
-| 678.2 | Metatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 33 |  |
-| 678 | Metatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 84_ | Table 2, p. 3, row 28 |  |
-| 675 | Metatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 19 |  |
-| 673 | Metatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 24 |  |
-| 673 | Metatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 69_ | Table 2, p. 3, row 12 |  |
-| 673 | Peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 76_ | Table 2, p. 3, row 16 |  |
-| 663 | Metatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 51_ | Table 2, p. 3, row 4 |  |
-| 658.1 | Eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 34 |  |
-| 658 | Eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 84_ | Table 2, p. 3, row 29 |  |
-| 655 | Eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 82_ | Table 2, p. 3, row 27 |  |
-| 655 | Eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 20 |  |
-| 653 | Eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 65_ | Table 2, p. 3, row 9 |  |
-| 648 | Eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 25 |  |
-| 643 | Eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 34_ | Table 2, p. 3, row 2 |  |
-| 638.3 | Peritectoid: γ -> α + Te | γ: Ge 0.49, Te 0.51; α: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 35 |  |
-| 638 | Peritectoid: γ -> α + Te | γ: Ge 0.49, Te 0.51; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 65_ | Table 2, p. 3, row 10 |  |
-| 638 | Peritectoid: γ -> α + Te | γ: Ge 0.49, Te 0.51; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 26 |  |
-| 638 | Metatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 76_ | Table 2, p. 3, row 17 |  |
-| 630 | Metatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 75_ | Table 2, p. 3, row 15 |  |
-| 629 | Peritectoid: γ -> α + Te | γ: Ge 0.49, Te 0.51; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 21 |  |
+| 998 | eutectic: L -> β + Ge | β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 34_ | Table 2, p. 3, row 1 |  |
+| 996 | eutectic: L -> β + Ge | β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 60_ | Table 2, p. 3, row 6 |  |
+| 993.1 | eutectic: L -> β + Ge | β: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 31 |  |
+| 993 | eutectic: L -> β + Ge | β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 22 |  |
+| 733 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 51_ | Table 2, p. 3, row 3 |  |
+| 725 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 62_ | Table 2, p. 3, row 7 |  |
+| 713 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 53_ | Table 2, p. 3, row 5 |  |
+| 703.2 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 32 |  |
+| 703 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 65_ | Table 2, p. 3, row 8 |  |
+| 703 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 23 |  |
+| 701 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 69_ | Table 2, p. 3, row 11 |  |
+| 700 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 75_ | Table 2, p. 3, row 14 |  |
+| 700 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 18 |  |
+| 683 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 86_ | Table 2, p. 3, row 30 |  |
+| 678.2 | metatectic/catatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 33 |  |
+| 678 | metatectic/catatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 84_ | Table 2, p. 3, row 28 |  |
+| 675 | metatectic/catatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 19 |  |
+| 673 | metatectic/catatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 24 |  |
+| 673 | metatectic/catatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 69_ | Table 2, p. 3, row 12 |  |
+| 673 | peritectoid: α -> β + Ge | α: Ge 0.5, Te 0.5; β: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 76_ | Table 2, p. 3, row 16 |  |
+| 663 | metatectic/catatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 51_ | Table 2, p. 3, row 4 |  |
+| 658.1 | eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 34 |  |
+| 658 | eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 84_ | Table 2, p. 3, row 29 |  |
+| 655 | eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 82_ | Table 2, p. 3, row 27 |  |
+| 655 | eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 20 |  |
+| 653 | eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 65_ | Table 2, p. 3, row 9 |  |
+| 648 | eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 25 |  |
+| 643 | eutectic: L -> α + Te | α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 34_ | Table 2, p. 3, row 2 |  |
+| 638.3 | peritectoid: γ -> α + Te | γ: Ge 0.49, Te 0.51; α: Ge 0.5, Te 0.5 | model | [1] Schlieper 1999 | Table 2, p. 3, row 35 |  |
+| 638 | peritectoid: γ -> α + Te | γ: Ge 0.49, Te 0.51; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 65_ | Table 2, p. 3, row 10 |  |
+| 638 | peritectoid: γ -> α + Te | γ: Ge 0.49, Te 0.51; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 26 |  |
+| 638 | metatectic/catatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 76_ | Table 2, p. 3, row 17 |  |
+| 630 | metatectic/catatectic: β -> α + L | β: Ge 0.5, Te 0.5; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 75_ | Table 2, p. 3, row 15 |  |
+| 629 | peritectoid: γ -> α + Te | γ: Ge 0.49, Te 0.51; α: Ge 0.5, Te 0.5 | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 2, p. 3, row 21 |  |
 
 ## Other properties
 
@@ -96,11 +95,11 @@ Table: Phase transition, Ge–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 993.3 K | 993.3 | melting: calculated | model | [1] Schlieper 1999 | Table 1, p. 2, row 5 |  |
-| Phase transition | 997 K | 997 | melting: \[60McH\] | experimental | [1] Schlieper 1999; _cites ref. 60_ | Table 1, p. 2, row 1 |  |
-| Phase transition | 997 K | 997 | melting: \[77LEG1, 77LEG2\] | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 1, p. 2, row 3 |  |
-| Phase transition | 998 K | 998 | melting: \[66BRE\] | experimental | [1] Schlieper 1999; _cites ref. 66_ | Table 1, p. 2, row 2 |  |
-| Phase transition | 998 K | 998 | melting: \[96Opp\] | experimental | [1] Schlieper 1999; _cites ref. 96Opp_ | Table 1, p. 2, row 4 |  |
+| Phase transition | 993.3 K | 993.3 | congruent melting: calculated | model | [1] Schlieper 1999 | Table 1, p. 2, row 5 |  |
+| Phase transition | 997 K | 997 | congruent melting: \[60McH\] | experimental | [1] Schlieper 1999; _cites ref. 60_ | Table 1, p. 2, row 1 |  |
+| Phase transition | 997 K | 997 | congruent melting: \[77LEG1, 77LEG2\] | experimental | [1] Schlieper 1999; _cites ref. 77_ | Table 1, p. 2, row 3 |  |
+| Phase transition | 998 K | 998 | congruent melting: \[66BRE\] | experimental | [1] Schlieper 1999; _cites ref. 66_ | Table 1, p. 2, row 2 |  |
+| Phase transition | 998 K | 998 | congruent melting: \[96Opp\] | experimental | [1] Schlieper 1999; _cites ref. 96Opp_ | Table 1, p. 2, row 4 |  |
 
 ### Phase equilibrium (27)
 

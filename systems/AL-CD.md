@@ -52,10 +52,10 @@ Table: Invariant reactions reported in the literature for the Al–Cd system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 923.15 | Monotectic: L1 -> α + L2 | L1: Cd 0.018; α: Cd 9.000e-4; L2: Cd 0.949 | unspecified | [1] McAlister 1982 | Table I, p. 4, row 1 |  |
+| 923.15 | monotectic: L1 -> α + L2 | L1: Cd 0.018; α: Cd 9.000e-4; L2: Cd 0.949 | unspecified | [1] McAlister 1982 | Table I, p. 4, row 1 |  |
 | 923.15 | monotectic |  | model | [1] McAlister 1982 | p. 4 | “The fit carried out in this study yields a maximum solubility of Cd of 0.091 at.% at a monotectic temperature of 650 ~” |
 | 593.15 | eutectic |  | model | [1] McAlister 1982 | p. 4 | “Fitting of the data in the present work suggests it to be a eutectic at 320 ~” |
-| 593.15 | Eutectic: L -> α + ε | L: Cd 0.998; α: Cd 2.000e-5; ε: Cd 1 | unspecified | [1] McAlister 1982 | Table I, p. 4, row 2 |  |
+| 593.15 | eutectic: L -> α + ε | L: Cd 0.998; α: Cd 2.000e-5; ε: Cd 1 | unspecified | [1] McAlister 1982 | Table I, p. 4, row 2 |  |
 
 ## Other properties
 
@@ -66,34 +66,34 @@ Table: Phase transition, Al–Cd system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 594.15 K | 594.15 | L -> ε | unspecified | [1] McAlister 1982 | Table I, p. 4, row 4 |  |
-| Phase transition | 625.15 K | 625.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 16 |  |
-| Phase transition | 677.15 K | 677.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 15 |  |
-| Phase transition | 708.15 K | 708.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 14 |  |
-| Phase transition | 737.15 K | 737.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 13 |  |
-| Phase transition | 743.15 K | 743.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 7 |  |
-| Phase transition | 779.15 K | 779.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 12 |  |
-| Phase transition | 788.15 K | 788.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 6 |  |
-| Phase transition | 803.15 K | 803.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 5 |  |
-| Phase transition | 813.15 K | 813.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 11 |  |
-| Phase transition | 817.15 K | 817.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 4 |  |
-| Phase transition | 840.15 K | 840.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 10 |  |
-| Phase transition | 842.15 K | 842.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 3 |  |
-| Phase transition | 866.15 K | 866.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 9 |  |
-| Phase transition | 869.15 K | 869.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 2 |  |
-| Phase transition | 888.15 K | 888.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 1 |  |
-| Phase transition | 899.15 K | 899.15 | liquidus | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 8 |  |
-| Phase transition | 920.65 K | 920.65 | solidus: \[31Han\]; _alloy: Al 0.9893, Cd 0.0107_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 9 |  |
-| Phase transition | 921.65 K | 921.65 | solidus: \[31Han\]; _alloy: Al 0.9858, Cd 0.0142_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 11 |  |
-| Phase transition | 922.15 K | 922.15 | solidus: \[63Dri\]; _alloy: Al 0.9844, Cd 0.0156_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 19 |  |
-| Phase transition | 922.15 K | 922.15 | solidus: \[63Dri\]; _alloy: Al 0.982, Cd 0.018_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 23 |  |
-| Phase transition | 922.15 K | 922.15 | solidus: \[63Dri\]; _alloy: Al 0.9809, Cd 0.0191_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 25 |  |
-| Phase transition | 922.15 K | 922.15 | solidus: \[63Dri\]; _alloy: Al 0.9983, Cd 0.0017_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 13 |  |
-| Phase transition | 922.15 K | 922.15 | solidus: \[63Dri\]; _alloy: Al 0.9878, Cd 0.0122_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 17 |  |
-| Phase transition | 922.15 K | 922.15 | solidus: \[63Dri\]; _alloy: Al 0.9836, Cd 0.0164_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 21 |  |
-| Phase transition | 922.15 K | 922.15 | solidus: \[63Dri\]; _alloy: Al 0.9934, Cd 0.0066_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 15 |  |
-| Phase transition | 922.65 K | 922.65 | solidus: \[31Han\]; _alloy: Al 0.99466, Cd 0.00534_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 3 |  |
-| Phase transition | 922.65 K | 922.65 | solidus: \[31Han\]; _alloy: Al 0.99175, Cd 0.00825_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 5 |  |
-| Phase transition | 923.15 K | 923.15 | solidus: \[31Han\]; _alloy: Al 0.99099, Cd 0.00901_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 7 |  |
+| Phase transition | 625.15 K | 625.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 16 |  |
+| Phase transition | 677.15 K | 677.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 15 |  |
+| Phase transition | 708.15 K | 708.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 14 |  |
+| Phase transition | 737.15 K | 737.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 13 |  |
+| Phase transition | 743.15 K | 743.15 | other | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 7 |  |
+| Phase transition | 779.15 K | 779.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 12 |  |
+| Phase transition | 788.15 K | 788.15 | other | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 6 |  |
+| Phase transition | 803.15 K | 803.15 | other | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 5 |  |
+| Phase transition | 813.15 K | 813.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 11 |  |
+| Phase transition | 817.15 K | 817.15 | other | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 4 |  |
+| Phase transition | 840.15 K | 840.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 10 |  |
+| Phase transition | 842.15 K | 842.15 | other | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 3 |  |
+| Phase transition | 866.15 K | 866.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 9 |  |
+| Phase transition | 869.15 K | 869.15 | other | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 2 |  |
+| Phase transition | 888.15 K | 888.15 | other | experimental | [1] McAlister 1982; _cites ref. 65Pre_ | Table 4, p. 4, row 1 |  |
+| Phase transition | 899.15 K | 899.15 | other | experimental | [1] McAlister 1982; _cites ref. 67Mar_ | Table 4, p. 4, row 8 |  |
+| Phase transition | 920.65 K | 920.65 | other: \[31Han\]; _alloy: Al 0.9893, Cd 0.0107_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 9 |  |
+| Phase transition | 921.65 K | 921.65 | other: \[31Han\]; _alloy: Al 0.9858, Cd 0.0142_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 11 |  |
+| Phase transition | 922.15 K | 922.15 | other: \[63Dri\]; _alloy: Al 0.9844, Cd 0.0156_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 19 |  |
+| Phase transition | 922.15 K | 922.15 | other: \[63Dri\]; _alloy: Al 0.982, Cd 0.018_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 23 |  |
+| Phase transition | 922.15 K | 922.15 | other: \[63Dri\]; _alloy: Al 0.9809, Cd 0.0191_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 25 |  |
+| Phase transition | 922.15 K | 922.15 | other: \[63Dri\]; _alloy: Al 0.9983, Cd 0.0017_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 13 |  |
+| Phase transition | 922.15 K | 922.15 | other: \[63Dri\]; _alloy: Al 0.9878, Cd 0.0122_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 17 |  |
+| Phase transition | 922.15 K | 922.15 | other: \[63Dri\]; _alloy: Al 0.9836, Cd 0.0164_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 21 |  |
+| Phase transition | 922.15 K | 922.15 | other: \[63Dri\]; _alloy: Al 0.9934, Cd 0.0066_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 15 |  |
+| Phase transition | 922.65 K | 922.65 | other: \[31Han\]; _alloy: Al 0.99466, Cd 0.00534_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 3 |  |
+| Phase transition | 922.65 K | 922.65 | other: \[31Han\]; _alloy: Al 0.99175, Cd 0.00825_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 5 |  |
+| Phase transition | 923.15 K | 923.15 | other: \[31Han\]; _alloy: Al 0.99099, Cd 0.00901_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 7 |  |
 | Phase transition | 933.15 K | 933.15 | L -> α | unspecified | [1] McAlister 1982 | Table I, p. 4, row 3 |  |
 
 ### Phase equilibrium (32)
@@ -115,21 +115,21 @@ Table: Phase equilibrium, Al–Cd system
 | Phase composition |  | 893.15 | α(Al); _α(Al): Al 0.99923, Cd 7.700e-4_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 2, p. 4, row 8 |  |
 | Phase composition |  | 913.15 | α(Al); _α(Al): Al 0.99898, Cd 0.00102_ | experimental | [1] McAlister 1982; _cites ref. 55Sam_ | Table 2, p. 4, row 2 |  |
 | Phase composition |  | 921.15 | α(Al); _α(Al): Al 0.99911, Cd 8.900e-4_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 922.15 | liquidus: \[63Dri\]; _liquid: Al 0.9809, Cd 0.0191_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 26 |  |
+| Phase composition |  | 922.15 | other: \[63Dri\]; _liquid: Al 0.9809, Cd 0.0191_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 26 |  |
 | Phase composition |  | 922.15 | α(Al); _α(Al): Al 0.99888, Cd 0.00112_ | experimental | [1] McAlister 1982; _cites ref. 55Sam_ | Table 2, p. 4, row 1 |  |
-| Phase composition |  | 923.15 | liquidus: \[63Dri\]; _liquid: Al 0.982, Cd 0.018_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 24 |  |
-| Phase composition |  | 923.65 | liquidus: \[31Han\]; _liquid: Al 0.99797, Cd 0.00203_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 2 |  |
-| Phase composition |  | 924.15 | liquidus: \[63Dri\]; _liquid: Al 0.9836, Cd 0.0164_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 22 |  |
-| Phase composition |  | 925.15 | liquidus: \[31Han\]; _liquid: Al 0.9893, Cd 0.0107_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 10 |  |
-| Phase composition |  | 925.15 | liquidus: \[63Dri\]; _liquid: Al 0.9844, Cd 0.0156_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 20 |  |
-| Phase composition |  | 926.65 | liquidus: \[31Han\]; _liquid: Al 0.9858, Cd 0.0142_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 12 |  |
-| Phase composition |  | 927.65 | liquidus: \[31Han\]; _liquid: Al 0.99099, Cd 0.00901_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 8 |  |
-| Phase composition |  | 928.15 | liquidus: \[31Han\]; _liquid: Al 0.99175, Cd 0.00825_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 6 |  |
-| Phase composition |  | 929.15 | liquidus: \[63Dri\]; _liquid: Al 0.9878, Cd 0.0122_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 18 |  |
-| Phase composition |  | 930.15 | liquidus: \[31Han\]; _liquid: Al 0.99466, Cd 0.00534_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 4 |  |
-| Phase composition |  | 930.15 | liquidus: \[63Dri\]; _liquid: Al 0.9934, Cd 0.0066_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 16 |  |
-| Phase composition |  | 932.15 | liquidus: \[63Dri\]; _liquid: Al 0.9983, Cd 0.0017_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 14 |  |
-| Phase composition |  | 933.15 | liquidus: \[31Han\]; _liquid: Al 0.99875, Cd 0.00125_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 1 |  |
+| Phase composition |  | 923.15 | other: \[63Dri\]; _liquid: Al 0.982, Cd 0.018_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 24 |  |
+| Phase composition |  | 923.65 | other: \[31Han\]; _liquid: Al 0.99797, Cd 0.00203_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 2 |  |
+| Phase composition |  | 924.15 | other: \[63Dri\]; _liquid: Al 0.9836, Cd 0.0164_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 22 |  |
+| Phase composition |  | 925.15 | other: \[31Han\]; _liquid: Al 0.9893, Cd 0.0107_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 10 |  |
+| Phase composition |  | 925.15 | other: \[63Dri\]; _liquid: Al 0.9844, Cd 0.0156_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 20 |  |
+| Phase composition |  | 926.65 | other: \[31Han\]; _liquid: Al 0.9858, Cd 0.0142_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 12 |  |
+| Phase composition |  | 927.65 | other: \[31Han\]; _liquid: Al 0.99099, Cd 0.00901_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 8 |  |
+| Phase composition |  | 928.15 | other: \[31Han\]; _liquid: Al 0.99175, Cd 0.00825_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 6 |  |
+| Phase composition |  | 929.15 | other: \[63Dri\]; _liquid: Al 0.9878, Cd 0.0122_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 18 |  |
+| Phase composition |  | 930.15 | other: \[31Han\]; _liquid: Al 0.99466, Cd 0.00534_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 4 |  |
+| Phase composition |  | 930.15 | other: \[63Dri\]; _liquid: Al 0.9934, Cd 0.0066_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 16 |  |
+| Phase composition |  | 932.15 | other: \[63Dri\]; _liquid: Al 0.9983, Cd 0.0017_ | experimental | [1] McAlister 1982; _cites ref. 63Dri_ | Table 3, p. 4, row 14 |  |
+| Phase composition |  | 933.15 | other: \[31Han\]; _liquid: Al 0.99875, Cd 0.00125_ | experimental | [1] McAlister 1982; _cites ref. 31Han_ | Table 3, p. 4, row 1 |  |
 | Phase composition |  | 956.15 | L1 + L2; _L1: Al 0.9749, Cd 0.0251; L2: Al 0.057, Cd 0.943_ | experimental | [1] McAlister 1982; _cites ref. 62Caf_ | Table 6, p. 5, row 2 |  |
 | Phase composition |  | 975.15 | L1 + L2; _L1: Al 0.9711, Cd 0.0289; L2: Al 0.066, Cd 0.934_ | experimental | [1] McAlister 1982; _cites ref. 62Caf_ | Table 6, p. 5, row 3 |  |
 | Phase composition |  | 988.15 | L1 + L2; _L1: Al 0.966, Cd 0.034; L2: Al 0.075, Cd 0.925_ | experimental | [1] McAlister 1982; _cites ref. 63Wit_ | Table 6, p. 5, row 1 |  |

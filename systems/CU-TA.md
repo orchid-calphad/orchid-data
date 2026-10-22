@@ -47,9 +47,9 @@ Table: Invariant reactions reported in the literature for the Cu–Ta system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1356.15 | Eutectic reaction: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0; (Cu): Ta 0; (Ta): Ta 1 | unspecified | [1] Liu 2015; _cites Subramanian 1989_ [doi](https://doi.org/10.1007/bf02877637) | Table 3, p. 6, row 1 |  |
-| 1345.15 | Eutectic reaction: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0.012; (Cu): Ta 0; (Ta): Ta 1 | experimental | [1] Liu 2015; _cites Subramanian 1994_ | Table 3, p. 6, row 2 |  |
-| 1338.85 | Eutectic reaction: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0.018; (Cu): Ta 0; (Ta): Ta 1 | unspecified | [1] Liu 2015 | Table 3, p. 6, row 3 |  |
+| 1356.15 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0; (Cu): Ta 0; (Ta): Ta 1 | unspecified | [1] Liu 2015; _cites Subramanian 1989_ [doi](https://doi.org/10.1007/bf02877637) | Table 3, p. 6, row 1 |  |
+| 1345.15 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0.012; (Cu): Ta 0; (Ta): Ta 1 | experimental | [1] Liu 2015; _cites Subramanian 1994_ | Table 3, p. 6, row 2 |  |
+| 1338.85 | eutectic: Liquid \<-> (Cu) + (Ta) | Liquid: Ta 0.018; (Cu): Ta 0; (Ta): Ta 1 | unspecified | [1] Liu 2015 | Table 3, p. 6, row 3 |  |
 
 ## Other properties
 
@@ -59,7 +59,7 @@ Table: Mixing / partial, Cu–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 2.38 kJ/mol | 3773.15 |  | model | [1] Liu 2015 | p. 7 | “The liquid-phase enthalpy of mixing in the Cu-Ta binary system at 3500 C was calculated, as presented in Fig. 5. The calculated value at 50 at.% Ta is 2.38 kJ/mol, which is close to the predicted value of 2 kJ/mol.\[17\]” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 2.38 kJ/mol (basis unstated) | 3773.15 |  | model | [1] Liu 2015 | p. 7 | “The liquid-phase enthalpy of mixing in the Cu-Ta binary system at 3500 C was calculated, as presented in Fig. 5. The calculated value at 50 at.% Ta is 2.38 kJ/mol, which is close to the predicted value of 2 kJ/mol.\[17\]” |
 
 ## Sources
 

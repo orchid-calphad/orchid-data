@@ -81,7 +81,7 @@ Table: Invariant reactions reported in the literature for the V–Zn system (14)
 | 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “The peritectic temperatures for two equilibrium phases, V4 Zn5 and VZn3 , were 651 ◦ C and 621 ◦ C, respectively.” |
 | 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 4 | “It is worth noting that the equilibrium peritectic temperature of VZn3 is 621 °C.” |
 | 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 8 | “(3) The peritectic reaction temperatures for VZn3 and V4 Zn5 were determined to be 621 °C and 651 °C, respectively.” |
-| 700.15 (none) | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “DTA results indicated that the peritectic temperature for VZn16 was about 427 ◦ C.” |
+| 700.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “DTA results indicated that the peritectic temperature for VZn16 was about 427 ◦ C.” |
 | 700.15 | peritectic: VZn3 + Liq. → VZn16 |  | experimental | [2] Wu 2011 | p. 3 | “Therefore, it was believed that the peritectic reaction temperature of VZn3 + Liq. → VZn16 was around 427 °C.” |
 | 691.85 | L -> VZn3 + (Zn) | L: Zn 0.99823; VZn3: V 0.25, Zn 0.75 | model | [1] Chang 2010 | Table 2, p. 2, row 6 |  |
 | 690.45 | L -> VZn3 + (Zn) | L: Zn 0.99828; VZn3: V 0.25, Zn 0.75 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 5 |  |

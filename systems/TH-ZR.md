@@ -46,12 +46,12 @@ Table: Invariant reactions reported in the literature for the Th–Zr system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1230.15 | Critical: (βZr, βTh) ↔ βZr + βTh | (βZr, βTh): Th 0.46 | model | [1] Li 2009 | Table 4, p. 4, row 6 |  |
-| 1228.15 | Critical: (βZr, βTh) ↔ βZr + βTh | (βZr, βTh): Th 0.5, Zr 0.5 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 5 |  |
-| 1178.15 | Monotectoid: βTh ↔ βZr + αTh | βTh: Th 0.54; βZr: Th 0.4; αTh: Th 0.852 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 3 |  |
-| 1177.15 | Monotectoid: βTh ↔ βZr + αTh | βTh: Th 0.535; βZr: Th 0.395; αTh: Th 0.85 | model | [1] Li 2009 | Table 4, p. 4, row 4 |  |
-| 923.15 | Eutectoid: βZr ↔ αZr + αTh | βZr: Th 0.15; αZr: Th 0 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 1 |  |
-| 923.15 | Eutectoid: βZr ↔ αZr + αTh | βZr: Th 0.15; αZr: Th 0.005; αTh: Th 0.87 | model | [1] Li 2009 | Table 4, p. 4, row 2 |  |
+| 1230.15 | critical point: (βZr, βTh) ↔ βZr + βTh | (βZr, βTh): Th 0.46 | model | [1] Li 2009 | Table 4, p. 4, row 6 |  |
+| 1228.15 | critical point: (βZr, βTh) ↔ βZr + βTh | (βZr, βTh): Th 0.5, Zr 0.5 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 5 |  |
+| 1178.15 | monotectoid: βTh ↔ βZr + αTh | βTh: Th 0.54; βZr: Th 0.4; αTh: Th 0.852 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 3 |  |
+| 1177.15 | monotectoid: βTh ↔ βZr + αTh | βTh: Th 0.535; βZr: Th 0.395; αTh: Th 0.85 | model | [1] Li 2009 | Table 4, p. 4, row 4 |  |
+| 923.15 | eutectoid: βZr ↔ αZr + αTh | βZr: Th 0.15; αZr: Th 0 | experimental | [1] Li 2009; _cites Massalski 1990_ | Table 4, p. 4, row 1 |  |
+| 923.15 | eutectoid: βZr ↔ αZr + αTh | βZr: Th 0.15; αZr: Th 0.005; αTh: Th 0.87 | model | [1] Li 2009 | Table 4, p. 4, row 2 |  |
 
 ## Sources
 

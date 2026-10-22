@@ -1,24 +1,22 @@
 # NiTi3: enthalpy of formation
 
-> Enthalpy of formation of NiTi3: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NiTi3: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiTi3.html · Markdown: https://data.orchid-project.org/compounds/NiTi3.md
 
-6 accepted literature formation-enthalpy value(s) (model 1, DFT 5); Materials Project -7.619 kJ/mol-atom (mp-aaacdvmv); OQMD -24.754 kJ/mol-atom (oqmd-1280355).
+4 accepted literature formation-enthalpy value(s) (model 1, DFT 3); Materials Project -7.619 kJ/mol-atom (mp-aaacdvmv); OQMD -24.754 kJ/mol-atom (oqmd-1280355).
 
 Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) · [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiTi3 reported in the literature (6)
+Table: Enthalpy of formation of NiTi3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -13.68 kJ/mol-atom | NiTi3(D03) | 298.15 | model | CALPHAD | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Hu 2014 | Table 1, p. 5, row 17 |  |
 | -12.11 kJ/mol-atom | NiTi3(D03) | 0 | DFT | First-principles | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Hu 2014 | Table 1, p. 5, row 16 |  |
 | -8.04 kJ/mol-atom | Ti3Ni(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
-| -8.04 kJ/mol-atom | Ti3Ni(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
-| -5.69 kJ/mol-atom | Ti3Ni(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
 | -5.69 kJ/mol-atom | Ti3Ni(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
 
 ## DFT formation energies

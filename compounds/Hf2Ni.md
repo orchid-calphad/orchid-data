@@ -1,22 +1,20 @@
 # Hf2Ni: enthalpy of formation
 
-> Enthalpy of formation of Hf2Ni: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Hf2Ni: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Hf2Ni.html · Markdown: https://data.orchid-project.org/compounds/Hf2Ni.md
 
-5 accepted literature formation-enthalpy value(s) (model 4, DFT 1); Materials Project -32.839 kJ/mol-atom (mp-aaaaabhd); OQMD -32.982 kJ/mol-atom (oqmd-88683).
+3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -32.839 kJ/mol-atom (mp-aaaaabhd); OQMD -32.982 kJ/mol-atom (oqmd-88683).
 
 Systems: [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) · [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Hf2Ni reported in the literature (5)
+Table: Enthalpy of formation of Hf2Ni reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -32.88 kJ/mol-atom | NiHf2 | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018 | Table 1, p. 4, row 11 |  |
-| -32.88 kJ/mol-atom | NiHf2 | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018 | Table 1, p. 4, row 11 |  |
-| -32.85 kJ/mol-atom | NiHf2 | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 12 |  |
 | -32.85 kJ/mol-atom | NiHf2 | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 12 |  |
 | -32.85 kJ/mol (basis unstated) | C16-Hf2Ni | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [2] Berche 2016 | Table 2, p. 4, row 4 |  |
 

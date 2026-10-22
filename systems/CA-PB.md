@@ -78,38 +78,38 @@ Table: Invariant reactions reported in the literature for the Ca–Pb system (39
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1476.52 | Congruent: Liq ↔ Ca2Pb | Liq: Pb 0.333; Ca2Pb: Pb 0.333 | model | [1] Cartigny 2004 | Table 3, p. 4, row 6 |  |
-| 1476.15 | Congruent: Liq ↔ Ca2Pb | Liq: Pb 0.333; Ca2Pb: Pb 0.333 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 7 |  |
-| 1403.23 | Peritectic: Liq + Ca2Pb ↔ Ca5Pb3 | Liq: Pb 0.4078; Ca2Pb: Pb 0.333; Ca5Pb3: Pb 0.375 | model | [1] Cartigny 2004 | Table 3, p. 4, row 8 |  |
+| 1476.52 | congruent melting: Liq ↔ Ca2Pb | Liq: Pb 0.333; Ca2Pb: Pb 0.333 | model | [1] Cartigny 2004 | Table 3, p. 4, row 6 |  |
+| 1476.15 | congruent melting: Liq ↔ Ca2Pb | Liq: Pb 0.333; Ca2Pb: Pb 0.333 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 7 |  |
+| 1403.23 | peritectic: Liq + Ca2Pb ↔ Ca5Pb3 | Liq: Pb 0.4078; Ca2Pb: Pb 0.333; Ca5Pb3: Pb 0.375 | model | [1] Cartigny 2004 | Table 3, p. 4, row 8 |  |
 | 1403.23 | Ca5Pb3 -> Ca2Pb + Liq. | Ca5Pb3: Pb 0.375; Ca2Pb: Pb 0.333333; L: Pb 0.4078 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 8 |  |
-| 1400.15 | Peritectic: Liq + Ca2Pb ↔ Ca5Pb3 | Liq: Pb 0.4; Ca2Pb: Pb 0.333; Ca5Pb3: Pb 0.375 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 9 |  |
+| 1400.15 | peritectic: Liq + Ca2Pb ↔ Ca5Pb3 | Liq: Pb 0.4; Ca2Pb: Pb 0.333; Ca5Pb3: Pb 0.375 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 9 |  |
 | 1400 | Ca5Pb3 -> Ca2Pb + Liq. | Ca5Pb3: Pb 0.375; Ca2Pb: Pb 0.333333; L: Pb 0.4 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 7 |  |
 | 1398 | Ca5Pb3 -> Ca2Pb + Liq. | Ca5Pb3: Pb 0.375; Ca2Pb: Pb 0.333333; L: Pb 0.3935 | model | [2] Idbenali 2008 | Table 4, p. 5, row 9 |  |
 | 1247 | CaPb -> Ca5Pb3 + Liq. | CaPb: Pb 0.5; Ca5Pb3: Pb 0.375; L: Pb 0.491 | model | [2] Idbenali 2008 | Table 4, p. 5, row 12 |  |
-| 1241.15 | Peritectic: Liq + Ca5Pb3 ↔ CaPb | Liq: Pb 0.505; Ca5Pb3: Pb 0.375; CaPb: Pb 0.5 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 11 |  |
+| 1241.15 | peritectic: Liq + Ca5Pb3 ↔ CaPb | Liq: Pb 0.505; Ca5Pb3: Pb 0.375; CaPb: Pb 0.5 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 11 |  |
 | 1241 | CaPb -> Ca5Pb3 + Liq. | CaPb: Pb 0.5; Ca5Pb3: Pb 0.375; L: Pb 0.52 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 10 |  |
-| 1238.04 | Peritectic: Liq + Ca5Pb3 ↔ CaPb | Liq: Pb 0.5002; Ca5Pb3: Pb 0.375; CaPb: Pb 0.5 | model | [1] Cartigny 2004 | Table 3, p. 4, row 10 |  |
+| 1238.04 | peritectic: Liq + Ca5Pb3 ↔ CaPb | Liq: Pb 0.5002; Ca5Pb3: Pb 0.375; CaPb: Pb 0.5 | model | [1] Cartigny 2004 | Table 3, p. 4, row 10 |  |
 | 1238.04 | CaPb -> Ca5Pb3 + Liq. | CaPb: Pb 0.5; Ca5Pb3: Pb 0.375; L: Pb 0.5002 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 11 |  |
-| 1115 | Melting: Liq ↔ βCa | βCa: Pb 0 | model | [1] Cartigny 2004 | Table 3, p. 4, row 1 |  |
-| 1023.15 | Eutectic: Liq ↔ βCa + Ca2Pb | Liq: Pb 0.095; βCa: Pb 0; Ca2Pb: Pb 0.333 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 5 |  |
-| 1023.13 | Eutectic: Liq ↔ βCa + Ca2Pb | Liq: Pb 0.0974; βCa: Pb 0; Ca2Pb: Pb 0.333 | model | [1] Cartigny 2004 | Table 3, p. 4, row 4 |  |
+| 1115 | congruent melting: Liq ↔ βCa | βCa: Pb 0 | model | [1] Cartigny 2004 | Table 3, p. 4, row 1 |  |
+| 1023.15 | eutectic: Liq ↔ βCa + Ca2Pb | Liq: Pb 0.095; βCa: Pb 0; Ca2Pb: Pb 0.333 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 5 |  |
+| 1023.13 | eutectic: Liq ↔ βCa + Ca2Pb | Liq: Pb 0.0974; βCa: Pb 0; Ca2Pb: Pb 0.333 | model | [1] Cartigny 2004 | Table 3, p. 4, row 4 |  |
 | 1023.13 | (βCa)+Ca2Pb -> Liq. | (βCa): Pb 0; Ca2Pb: Pb 0.333333; L: Pb 0.0974 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 2 |  |
 | 1023 | (βCa)+Ca2Pb -> Liq. | (βCa): Pb 0; Ca2Pb: Pb 0.333333; L: Pb 0.095 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 1 |  |
 | 1017 | (βCa)+Ca2Pb -> Liq. | (βCa): Pb 0; Ca2Pb: Pb 0.333333; L: Pb 0.0761 | model | [2] Idbenali 2008 | Table 4, p. 5, row 3 |  |
-| 939.15 | Melting: Liq ↔ CaPb3 | Liq: Pb 0.75; CaPb3: Pb 0.75 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 15 |  |
-| 924.21 | Melting: Liq ↔ CaPb3 | Liq: Pb 0.75; CaPb3: Pb 0.75 | model | [1] Cartigny 2004 | Table 3, p. 4, row 14 |  |
+| 939.15 | congruent melting: Liq ↔ CaPb3 | Liq: Pb 0.75; CaPb3: Pb 0.75 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 15 |  |
+| 924.21 | congruent melting: Liq ↔ CaPb3 | Liq: Pb 0.75; CaPb3: Pb 0.75 | model | [1] Cartigny 2004 | Table 3, p. 4, row 14 |  |
 | 911.2 | CaPb + CaPb3 -> Liq. | CaPb: Pb 0.5; CaPb3: Pb 0.75; L: Pb 0.6974 | model | [2] Idbenali 2008 | Table 4, p. 5, row 15 |  |
-| 911.15 | Eutectic: Liq ↔ CaPb + CaPb3 | Liq: Pb 0.635; CaPb: Pb 0.5; CaPb3: Pb 0.75 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 13 |  |
+| 911.15 | eutectic: Liq ↔ CaPb + CaPb3 | Liq: Pb 0.635; CaPb: Pb 0.5; CaPb3: Pb 0.75 | experimental | [1] Cartigny 2004; _cites Bruzzone 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990236-8) | Table 3, p. 4, row 13 |  |
 | 911 | CaPb + CaPb3 -> Liq. | CaPb: Pb 0.5; CaPb3: Pb 0.75; L: Pb 0.635 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 13 |  |
-| 896.79 | Eutectic: Liq ↔ CaPb + CaPb3 | Liq: Pb 0.6852; CaPb: Pb 0.5; CaPb3: Pb 0.75 | model | [1] Cartigny 2004 | Table 3, p. 4, row 12 |  |
+| 896.79 | eutectic: Liq ↔ CaPb + CaPb3 | Liq: Pb 0.6852; CaPb: Pb 0.5; CaPb3: Pb 0.75 | model | [1] Cartigny 2004 | Table 3, p. 4, row 12 |  |
 | 896.79 | CaPb + CaPb3 -> Liq. | CaPb: Pb 0.5; CaPb3: Pb 0.75; L: Pb 0.6852 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 14 |  |
-| 716.15 | Allotropic: βCa ↔ αCa | αCa: Pb 0 | experimental | [1] Cartigny 2004; _cites Chase 1985_ | Table 3, p. 4, row 3 |  |
-| 716.03 | Allotropic: βCa ↔ αCa | αCa: Pb 0 | model | [1] Cartigny 2004 | Table 3, p. 4, row 2 |  |
+| 716.15 | polymorphic: βCa ↔ αCa | αCa: Pb 0 | experimental | [1] Cartigny 2004; _cites Chase 1985_ | Table 3, p. 4, row 3 |  |
+| 716.03 | polymorphic: βCa ↔ αCa | αCa: Pb 0 | model | [1] Cartigny 2004 | Table 3, p. 4, row 2 |  |
 | 602.52 | Liq. + CaPb3 -> (Pb) | L: Pb 0.996; CaPb3: Pb 0.75; (Pb): Pb 0.9949 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 21 |  |
-| 602.52 | Peritectic: Liq ↔ CaPb3 + Pb | Liq: Pb 0.996; CaPb3: Pb 0.75; Pb: Pb 0.9961 | model | [1] Cartigny 2004 | Table 3, p. 4, row 16 |  |
-| 601.9 | Peritectic: Liq ↔ CaPb3 + Pb | Liq: Pb 0.9964; CaPb3: Pb 0.75; Pb: Pb 0.9949 | experimental | [1] Cartigny 2004; _cites Vigdorovich 1959_ | Table 3, p. 4, row 17 |  |
+| 602.52 | peritectic: Liq ↔ CaPb3 + Pb | Liq: Pb 0.996; CaPb3: Pb 0.75; Pb: Pb 0.9961 | model | [1] Cartigny 2004 | Table 3, p. 4, row 16 |  |
+| 601.9 | peritectic: Liq ↔ CaPb3 + Pb | Liq: Pb 0.9964; CaPb3: Pb 0.75; Pb: Pb 0.9949 | experimental | [1] Cartigny 2004; _cites Vigdorovich 1959_ | Table 3, p. 4, row 17 |  |
 | 601.15 | peritectic |  | experimental | [1] Cartigny 2004; _cites Shumacher 1930_ | p. 1 | “Contrarily, Shumacher and Bouton \[11\] found by resistivity and hardness measurements a peritectic reaction at 601.15 K.” |
-| 600.65 | Melting: Liq ↔ Pb | Liq: Pb 0.01; Pb: Pb 0.01 | model | [1] Cartigny 2004 | Table 3, p. 4, row 18 |  |
+| 600.65 | congruent melting: Liq ↔ Pb | Liq: Pb 0.01; Pb: Pb 0.01 | model | [1] Cartigny 2004 | Table 3, p. 4, row 18 |  |
 | 600 | eutectic: L -> CaPb3 + (Pb) |  | experimental | [2] Idbenali 2008; _cites Bouirden 1984_ | p. 4 | “The temperature of this Lh-iCaPb3 + (Pb) eutectic reaction is calculated at 599.1 K, and is therefore in very good agreement with the data of Bouirden (600 K) \[9\], as well as the Pb compositions of the liquid eutectic and the (Pb) terminal solid solution.” |
 | 600 | eutectic |  | experimental | [2] Idbenali 2008; _cites Bouirden 1984_ | p. 1 | “The eutectic reaction was confirmed by Bouirden \[9,10\] at T = 600 K, who extensively studied the Ca-Pb system and determined phase diagram data as well as thermodynamic” |
 | 599.2 | Liq. -> CaPb3 + (Pb) | L: Pb 0.9959; CaPb3: Pb 0.75; (Pb): Pb 0.9964 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 19 |  |
@@ -173,15 +173,15 @@ Table: Phase transition, Ca–Pb system
 | Phase transition | 898 K | 898 |  | experimental | [3] Notin 1989 | p. 8 | “Les alliages de composition 0,25 \< xca \< 0,50 presentent un invariant h 898 K (625 "C) a la fusion qui se retrouve sans decalage h la solidification.” |
 | Phase transition | 903 K | 903 |  | experimental | [3] Notin 1989; _cites ref. 1_ | p. 8 | “Ce palier eutectique CaPb-CaPbs avait 6th precedemment sit& a temperature legerement plus elevee: 903 K d'apres Hansen \[l\], ou 911 K d'apres Bruzzone et Merlo \[ 71.” |
 | Phase transition | 911 K | 911 |  | experimental | [3] Notin 1989; _cites ref. 7_ | p. 8 | “Ce palier eutectique CaPb-CaPbs avait 6th precedemment sit& a temperature legerement plus elevee: 903 K d'apres Hansen \[l\], ou 911 K d'apres Bruzzone et Merlo \[ 71.” |
-| Phase transition | 924 K | 924 | congruent | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | p. 4 | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
+| Phase transition | 924 K | 924 | congruent transformation | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | p. 4 | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
 | Phase transition | 924.21 K | 924.21 | CaPb3 -> Liq.; _CaPb3: Pb 0.75; L: Pb 0.75_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 17 |  |
 | Phase transition | 925.8 K | 925.8 | CaPb3 -> Liq.; _CaPb3: Pb 0.75; L: Pb 0.75_ | model | [2] Idbenali 2008 | Table 4, p. 5, row 18 |  |
-| Phase transition | 925.8 K | 925.8 | congruent | model | [2] Idbenali 2008 | p. 4 | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
+| Phase transition | 925.8 K | 925.8 | congruent transformation | model | [2] Idbenali 2008 | p. 4 | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
 | Phase transition | 939 K | 939 | CaPb3 -> Liq.; _CaPb3: Pb 0.75; L: Pb 0.75_ | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 16 |  |
-| Phase transition | 939 K | 939 | congruent | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | p. 4 | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
-| Phase transition | 939 K | 939 | congruent | experimental | [2] Idbenali 2008; _cites Vigdorovich 1959_ | p. 1 | “For Ca2 Pb and CaPb3 a congruent melting was experimentally determined respectively at 1476 and 939 K, while for Ca5 Pb3 and CaPb a peritectic formation was described; see Fig. 1.” |
+| Phase transition | 939 K | 939 | congruent transformation | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | p. 4 | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
+| Phase transition | 939 K | 939 | congruent transformation | experimental | [2] Idbenali 2008; _cites Vigdorovich 1959_ | p. 1 | “For Ca2 Pb and CaPb3 a congruent melting was experimentally determined respectively at 1476 and 939 K, while for Ca5 Pb3 and CaPb a peritectic formation was described; see Fig. 1.” |
 | Phase transition | 1476 K | 1476 | Ca2Pb -> Liq.; _Ca2Pb: Pb 0.333333; L: Pb 0.3333_ | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 4 |  |
-| Phase transition | 1476 K | 1476 | congruent | experimental | [2] Idbenali 2008; _cites Vigdorovich 1959_ | p. 1 | “For Ca2 Pb and CaPb3 a congruent melting was experimentally determined respectively at 1476 and 939 K, while for Ca5 Pb3 and CaPb a peritectic formation was described; see Fig. 1.” |
+| Phase transition | 1476 K | 1476 | congruent transformation | experimental | [2] Idbenali 2008; _cites Vigdorovich 1959_ | p. 1 | “For Ca2 Pb and CaPb3 a congruent melting was experimentally determined respectively at 1476 and 939 K, while for Ca5 Pb3 and CaPb a peritectic formation was described; see Fig. 1.” |
 | Phase transition | 1476.52 K | 1476.52 | Ca2Pb -> Liq.; _Ca2Pb: Pb 0.333333; L: Pb 0.3333_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 5 |  |
 | Phase transition | 1482 K | 1482 | Ca2Pb -> Liq.; _Ca2Pb: Pb 0.333333; L: Pb 0.3333_ | model | [2] Idbenali 2008 | Table 4, p. 5, row 6 |  |
 
@@ -191,18 +191,18 @@ Table: Mixing / partial, Ca–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing | -57297 J/mol-atom | 1020 | Ca2Pb(l); _alloy: Pb 0.333333_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 30 |  |
-| Enthalpy of mixing | -54000 J/mol-atom ± 2500 | 1020 | Ca2Pb(l); _alloy: Pb 0.333333_ | experimental | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 28 |  |
-| Enthalpy of mixing | -53756 J/mol-atom | 1020 | Ca2Pb(l); _alloy: Pb 0.333333_ | model | [2] Idbenali 2008 | Table 5, p. 8, row 29 |  |
-| Enthalpy of mixing | -26804 J/mol-atom | 1020 | CaPb3(l); _alloy: Pb 0.75_ | model | [2] Idbenali 2008 | Table 5, p. 8, row 32 |  |
-| Enthalpy of mixing | -27426 J/mol-atom | 1020 | CaPb3(l); _alloy: Pb 0.75_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 33 |  |
-| Enthalpy of mixing | -27000 J/mol-atom ± 2000 | 1020 | CaPb3(l); _alloy: Pb 0.75_ | experimental | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 31 |  |
-| Enthalpy of mixing | -57297 J/mol-atom | 1020 | liquid; _alloy: Pb 0.333333_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 30 |  |
-| Enthalpy of mixing | -26804 J/mol-atom | 1020 | liquid; _alloy: Pb 0.75_ | model | [2] Idbenali 2008 | Table 5, p. 8, row 32 |  |
-| Enthalpy of mixing | -54000 J/mol-atom ± 2500 | 1020 | liquid; _alloy: Pb 0.333333_ | experimental | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 28 |  |
-| Enthalpy of mixing | -53756 J/mol-atom | 1020 | liquid; _alloy: Pb 0.333333_ | model | [2] Idbenali 2008 | Table 5, p. 8, row 29 |  |
-| Enthalpy of mixing | -27426 J/mol-atom | 1020 | liquid; _alloy: Pb 0.75_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 33 |  |
-| Enthalpy of mixing | -27000 J/mol-atom ± 2000 | 1020 | liquid; _alloy: Pb 0.75_ | experimental | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 31 |  |
+| Enthalpy of mixing | -57.297 kJ/mol-atom | 1020 | Ca2Pb(l); _alloy: Pb 0.333333_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 30 |  |
+| Enthalpy of mixing | -54 kJ/mol-atom ± 2.5 | 1020 | Ca2Pb(l); _alloy: Pb 0.333333_ | experimental | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 28 |  |
+| Enthalpy of mixing | -53.756 kJ/mol-atom | 1020 | Ca2Pb(l); _alloy: Pb 0.333333_ | model | [2] Idbenali 2008 | Table 5, p. 8, row 29 |  |
+| Enthalpy of mixing | -26.804 kJ/mol-atom | 1020 | CaPb3(l); _alloy: Pb 0.75_ | model | [2] Idbenali 2008 | Table 5, p. 8, row 32 |  |
+| Enthalpy of mixing | -27.426 kJ/mol-atom | 1020 | CaPb3(l); _alloy: Pb 0.75_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 33 |  |
+| Enthalpy of mixing | -27 kJ/mol-atom ± 2 | 1020 | CaPb3(l); _alloy: Pb 0.75_ | experimental | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 31 |  |
+| Enthalpy of mixing | -57.297 kJ/mol-atom | 1020 | liquid; _alloy: Pb 0.333333_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 30 |  |
+| Enthalpy of mixing | -26.804 kJ/mol-atom | 1020 | liquid; _alloy: Pb 0.75_ | model | [2] Idbenali 2008 | Table 5, p. 8, row 32 |  |
+| Enthalpy of mixing | -54 kJ/mol-atom ± 2.5 | 1020 | liquid; _alloy: Pb 0.333333_ | experimental | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 28 |  |
+| Enthalpy of mixing | -53.756 kJ/mol-atom | 1020 | liquid; _alloy: Pb 0.333333_ | model | [2] Idbenali 2008 | Table 5, p. 8, row 29 |  |
+| Enthalpy of mixing | -27.426 kJ/mol-atom | 1020 | liquid; _alloy: Pb 0.75_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 5, p. 8, row 33 |  |
+| Enthalpy of mixing | -27 kJ/mol-atom ± 2 | 1020 | liquid; _alloy: Pb 0.75_ | experimental | [2] Idbenali 2008; _cites Sommer 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.06.003) | Table 5, p. 8, row 31 |  |
 
 ## Sources
 

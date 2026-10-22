@@ -31,16 +31,16 @@ Table: Invariant reactions reported in the literature for the Bi–Fe–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1592.7 | U: Liquid(#1) + Liquid(#2) = Fe2Ti + Bi2FeTi4 |  | model | [1] Huang 2014 | Table 6, p. 6, row 1 |  |
-| 1574.4 | E: Liquid = Bi2FeTi4 + BCC_Ti + BiTi3 |  | model | [1] Huang 2014 | Table 6, p. 6, row 2 |  |
-| 1568.5 | E: Liquid = Fe2Ti + Bi2FeTi4 + FeTi |  | model | [1] Huang 2014 | Table 6, p. 6, row 3 |  |
-| 1553.9 | E: Liquid(#1) = Liquid(#2) + BCC_Fe + Fe2Ti |  | model | [1] Huang 2014 | Table 6, p. 6, row 4 |  |
-| 1436 | U: Liquid + BiTi3 = Bi2FeTi4 + BiTi2 |  | model | [1] Huang 2014 | Table 6, p. 6, row 5 |  |
-| 1351.2 | E: Liquid = Bi2FeTi4 + FeTi + BCC_Ti |  | model | [1] Huang 2014 | Table 6, p. 6, row 6 |  |
-| 1249 | U: Liquid + BiTi2 = Bi2FeTi4 + Bi2Ti3 |  | model | [1] Huang 2014 | Table 6, p. 6, row 7 |  |
-| 1204.5 | U: Liquid + Bi2Ti3 = Bi2FeTi4 + Bi9Ti8 |  | model | [1] Huang 2014 | Table 6, p. 6, row 8 |  |
-| 698.5 | P: Liquid + Bi2FeTi4 + Bi9Ti8 = Bi2Ti |  | model | [1] Huang 2014 | Table 6, p. 6, row 9 |  |
-| 544.6 | P: Liquid + Bi2FeTi4 + Bi2Ti = Rhomb_Bi |  | model | [1] Huang 2014 | Table 6, p. 6, row 10 |  |
+| 1592.7 | quasi-peritectic: Liquid(#1) + Liquid(#2) = Fe2Ti + Bi2FeTi4 |  | model | [1] Huang 2014 | Table 6, p. 6, row 1 |  |
+| 1574.4 | eutectic: Liquid = Bi2FeTi4 + BCC_Ti + BiTi3 |  | model | [1] Huang 2014 | Table 6, p. 6, row 2 |  |
+| 1568.5 | eutectic: Liquid = Fe2Ti + Bi2FeTi4 + FeTi |  | model | [1] Huang 2014 | Table 6, p. 6, row 3 |  |
+| 1553.9 | eutectic: Liquid(#1) = Liquid(#2) + BCC_Fe + Fe2Ti |  | model | [1] Huang 2014 | Table 6, p. 6, row 4 |  |
+| 1436 | quasi-peritectic: Liquid + BiTi3 = Bi2FeTi4 + BiTi2 |  | model | [1] Huang 2014 | Table 6, p. 6, row 5 |  |
+| 1351.2 | eutectic: Liquid = Bi2FeTi4 + FeTi + BCC_Ti |  | model | [1] Huang 2014 | Table 6, p. 6, row 6 |  |
+| 1249 | quasi-peritectic: Liquid + BiTi2 = Bi2FeTi4 + Bi2Ti3 |  | model | [1] Huang 2014 | Table 6, p. 6, row 7 |  |
+| 1204.5 | quasi-peritectic: Liquid + Bi2Ti3 = Bi2FeTi4 + Bi9Ti8 |  | model | [1] Huang 2014 | Table 6, p. 6, row 8 |  |
+| 698.5 | peritectic: Liquid + Bi2FeTi4 + Bi9Ti8 = Bi2Ti |  | model | [1] Huang 2014 | Table 6, p. 6, row 9 |  |
+| 544.6 | peritectic: Liquid + Bi2FeTi4 + Bi2Ti = Rhomb_Bi |  | model | [1] Huang 2014 | Table 6, p. 6, row 10 |  |
 
 ## Formation enthalpies
 

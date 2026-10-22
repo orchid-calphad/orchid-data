@@ -66,24 +66,24 @@ Table: Invariant reactions reported in the literature for the Re–Ta system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3103 | Eutectic: Liq->(Re)+χ | (Re): Ta 0.052; χ: Ta 0.195 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 2 |  |
-| 3040 | Eutectic: Liq->(Re)+χ | L: Ta 0.164; (Re): Ta 0.021; χ: Ta 0.206 | model | [1] Cui 1999 | Table 2, p. 4, row 3 |  |
-| 3033 | Eutectic: Liq->(Re)+χ | L: Ta 0.164; (Re): Ta 0.052; χ: Ta 0.205 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 1 |  |
+| 3103 | eutectic: Liq->(Re)+χ | (Re): Ta 0.052; χ: Ta 0.195 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 2 |  |
+| 3040 | eutectic: Liq->(Re)+χ | L: Ta 0.164; (Re): Ta 0.021; χ: Ta 0.206 | model | [1] Cui 1999 | Table 2, p. 4, row 3 |  |
+| 3033 | eutectic: Liq->(Re)+χ | L: Ta 0.164; (Re): Ta 0.052; χ: Ta 0.205 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 1 |  |
 | 3033 | liq = hcp + χ | liq: Ta 0.187; hcp: Ta 0.0393; χ: Ta 0.203 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 2 |  |
-| 3018 | Peritectic: Liq+χ->σ | χ: Ta 0.376; σ: Ta 0.41 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 6 |  |
+| 3018 | peritectic: Liq+χ->σ | χ: Ta 0.376; σ: Ta 0.41 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 6 |  |
 | 2977 | liq + χ = σ | liq: Ta 0.457; χ: Ta 0.373; σ: Ta 0.436 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 3 |  |
-| 2968 | Eutectic: Liq->σ+(Ta) | L: Ta 0.497; σ: Ta 0.417; (Ta): Ta 0.546 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 9 |  |
+| 2968 | eutectic: Liq->σ+(Ta) | L: Ta 0.497; σ: Ta 0.417; (Ta): Ta 0.546 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 9 |  |
 | 2966 | liq + χ = σ | liq: Ta 0.465; χ: Ta 0.375; σ: Ta 0.433 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 6 |  |
-| 2958 | Peritectic: Liq+χ->σ | L: Ta 0.428; χ: Ta 0.342; σ: Ta 0.4 | model | [1] Cui 1999 | Table 2, p. 4, row 8 |  |
-| 2953 | Peritectic: Liq+χ->σ | χ: Ta 0.36; σ: Ta 0.47 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 7 |  |
+| 2958 | peritectic: Liq+χ->σ | L: Ta 0.428; χ: Ta 0.342; σ: Ta 0.4 | model | [1] Cui 1999 | Table 2, p. 4, row 8 |  |
+| 2953 | peritectic: Liq+χ->σ | χ: Ta 0.36; σ: Ta 0.47 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 7 |  |
 | 2933 | liq = σ + bcc | liq: Ta 0.517; σ: Ta 0.454; bcc: Ta 0.553 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 4 |  |
 | 2929 | liq = σ + bcc | liq: Ta 0.51; σ: Ta 0.445; bcc: Ta 0.546 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 7 |  |
-| 2920 | Eutectic: Liq->σ+(Ta) | L: Ta 0.485; σ: Ta 0.4; (Ta): Ta 0.547 | model | [1] Cui 1999 | Table 2, p. 4, row 11 |  |
-| 2737 | Eutectoid: σ->(Ta)+χ | σ: Ta 0.4; (Ta): Ta 0.525; χ: Ta 0.398 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 12 |  |
-| 2735 | Eutectoid: σ->(Ta)+χ | σ: Ta 0.4; (Ta): Ta 0.536; χ: Ta 0.367 | model | [1] Cui 1999 | Table 2, p. 4, row 13 |  |
+| 2920 | eutectic: Liq->σ+(Ta) | L: Ta 0.485; σ: Ta 0.4; (Ta): Ta 0.547 | model | [1] Cui 1999 | Table 2, p. 4, row 11 |  |
+| 2737 | eutectoid: σ->(Ta)+χ | σ: Ta 0.4; (Ta): Ta 0.525; χ: Ta 0.398 | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 12 |  |
+| 2735 | eutectoid: σ->(Ta)+χ | σ: Ta 0.4; (Ta): Ta 0.536; χ: Ta 0.367 | model | [1] Cui 1999 | Table 2, p. 4, row 13 |  |
 | 2735 | σ = χ + bcc | σ: Ta 0.449; χ: Ta 0.384; bcc: Ta 0.533 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 5 |  |
 | 2730 | σ = χ + bcc | σ: Ta 0.442; χ: Ta 0.384; bcc: Ta 0.533 | unspecified | [2] Liu 2000 | Table 8, p. 6, row 8 |  |
-| 2673 | Eutectic: Liq->σ+(Ta) | σ: Ta 0.48; (Ta): Ta 0.58 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 10 |  |
+| 2673 | eutectic: Liq->σ+(Ta) | σ: Ta 0.48; (Ta): Ta 0.58 | experimental | [1] Cui 1999; _cites Tylkina 1905_ | Table 2, p. 4, row 10 |  |
 
 ## Other properties
 
@@ -94,8 +94,8 @@ Table: Phase transition, Re–Ta system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 3066 K | 3066 | liq = χ; _liq: Ta 0.31; χ: Ta 0.31_ | unspecified | [2] Liu 2000 | Table 8, p. 6, row 1 |  |
-| Phase transition | 3068 K | 3068 | Congruent: Liq->χ; _L: Ta 0.215; χ: Ta 0.215_ | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 4 |  |
-| Phase transition | 3070 K | 3070 | Congruent: Liq->χ; _L: Ta 0.239; χ: Ta 0.239_ | model | [1] Cui 1999 | Table 2, p. 4, row 5 |  |
+| Phase transition | 3068 K | 3068 | congruent melting: Liq->χ; _L: Ta 0.215; χ: Ta 0.215_ | experimental | [1] Cui 1999; _cites Brophy 1960_ | Table 2, p. 4, row 4 |  |
+| Phase transition | 3070 K | 3070 | congruent melting: Liq->χ; _L: Ta 0.239; χ: Ta 0.239_ | model | [1] Cui 1999 | Table 2, p. 4, row 5 |  |
 
 ### Phase equilibrium (12)
 

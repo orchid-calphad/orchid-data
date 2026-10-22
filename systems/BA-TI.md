@@ -56,7 +56,7 @@ Table: Invariant reactions reported in the literature for the Ba–Ti system (3)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1155 | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | model | [1] Shang 2007 | p. 5 | “The invariant reactions in the Ba-Ti system are also listed in Table 4 with the eutectic temperature of the reaction liquid → hcp (Ti) + bcc (Ba) at 1000 K close to the estimation of 1002 K from Chase \[12\], the peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) of 1155 K at the allotropic transformation point between bcc (Ti) and hcp (Ti).” |
-| 1155 (none) | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | experimental | [1] Shang 2007; _cites Alidzhanov 1978_ | p. 1 | “The peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) was measured approximately at 1155 K \[11\], which is close to the allotropic transformation point of bcc (Ti) ↔ hcp (Ti).” |
+| 1155 | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | experimental | [1] Shang 2007; _cites Alidzhanov 1978_ | p. 1 | “The peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) was measured approximately at 1155 K \[11\], which is close to the allotropic transformation point of bcc (Ti) ↔ hcp (Ti).” |
 | 1000 | eutectic: liquid → hcp (Ti) + bcc (Ba) |  | model | [1] Shang 2007 | p. 5 | “The invariant reactions in the Ba-Ti system are also listed in Table 4 with the eutectic temperature of the reaction liquid → hcp (Ti) + bcc (Ba) at 1000 K close to the estimation of 1002 K from Chase \[12\], the peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) of 1155 K at the allotropic transformation point between bcc (Ti) and hcp (Ti).” |
 
 ## Other properties
@@ -67,23 +67,23 @@ Table: Mixing / partial, Ba–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Bcc; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 20 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Bcc; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 16 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 101736 J/mol (basis unstated) | 0 | Bcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 18 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 76684 J/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 24 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 67674 J/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 33 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 67674 J/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 22 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Fcc; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 21 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 95688 J/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 23 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 76684 J/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 34 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Fcc; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 25 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 99832 J/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 28 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Hcp; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 26 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 68979 J/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 35 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 81870 J/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 29 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Hcp; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 30 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 68979 J/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 27 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 81870 J/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 36 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 20 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 16 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 101.736 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 18 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 76.684 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 24 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 67.674 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 33 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 67.674 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 22 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 21 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 95.688 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 23 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 76.684 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 34 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 25 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 99.832 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 28 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 26 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 68.979 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 35 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 81.87 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 29 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 30 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 68.979 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 27 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 81.87 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 36 |  |
 
 ### Crystal structure (21)
 

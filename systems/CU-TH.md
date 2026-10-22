@@ -61,24 +61,24 @@ Table: Invariant reactions reported in the literature for the Cu–Th system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1328.15 | Congruent: L -> Cu6Th | L: Th 0.1429; Cu6Th: Cu 0.857143, Th 0.142857 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 11 |  |
-| 1327.75 | Congruent: L -> Cu6Th | L: Th 0.1429; Cu6Th: Cu 0.857143, Th 0.142857 | model | [1] Wang 2008 | Table 3, p. 3, row 12 |  |
-| 1325.15 | Congruent: L -> Cu3.6Th | L: Th 0.2174; Cu3.6Th: Cu 0.782609, Th 0.217391 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 13 |  |
-| 1325.05 | Congruent: L -> Cu3.6Th | L: Th 0.2174; Cu3.6Th: Cu 0.782609, Th 0.217391 | model | [1] Wang 2008 | Table 3, p. 3, row 14 |  |
-| 1293.35 | Eutectic: L -> Cu6Th + Cu3.6Th | L: Th 0.186; Cu6Th: Cu 0.857143, Th 0.142857; Cu3.6Th: Cu 0.782609, Th 0.217391 | model | [1] Wang 2008 | Table 3, p. 3, row 4 |  |
-| 1293.15 | Eutectic: L -> Cu6Th + Cu3.6Th | L: Th 0.18; Cu6Th: Cu 0.857143, Th 0.142857; Cu3.6Th: Cu 0.782609, Th 0.217391 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 3 |  |
-| 1288.15 | Congruent: L -> Cu2Th | L: Th 0.3333; Cu2Th: Cu 0.666667, Th 0.333333 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 15 |  |
-| 1288.15 | Congruent: L -> Cu2Th | L: Th 0.3333; Cu2Th: Cu 0.666667, Th 0.333333 | model | [1] Wang 2008 | Table 3, p. 3, row 16 |  |
-| 1280.15 | Congruent: L -> CuTh2 | L: Th 0.6667; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 17 |  |
-| 1277.95 | Congruent: L -> CuTh2 | L: Th 0.6667; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 18 |  |
-| 1275.05 | Eutectic: L -> CuTh2 + (αTh) | L: Th 0.702; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 10 |  |
-| 1273.15 | Eutectic: L -> CuTh2 + (αTh) | L: Th 0.7; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 9 |  |
-| 1257.75 | Eutectic: L -> Cu3.6Th + Cu2Th | L: Th 0.265; Cu3.6Th: Cu 0.782609, Th 0.217391; Cu2Th: Cu 0.666667, Th 0.333333 | model | [1] Wang 2008 | Table 3, p. 3, row 6 |  |
-| 1253.15 | Eutectic: L -> Cu3.6Th + Cu2Th | L: Th 0.26; Cu3.6Th: Cu 0.782609, Th 0.217391; Cu2Th: Cu 0.666667, Th 0.333333 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 5 |  |
-| 1208.15 | Eutectic: L -> (Cu) + Cu6Th | L: Th 0.07; Cu6Th: Cu 0.857143, Th 0.142857 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 1 |  |
-| 1206.05 | Eutectic: L -> (Cu) + Cu6Th | L: Th 0.074; Cu6Th: Cu 0.857143, Th 0.142857 | model | [1] Wang 2008 | Table 3, p. 3, row 2 |  |
-| 1157.75 | Eutectic: L -> Cu2Th + CuTh2 | L: Th 0.488; Cu2Th: Cu 0.666667, Th 0.333333; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 8 |  |
-| 1153.15 | Eutectic: L -> Cu2Th + CuTh2 | L: Th 0.49; Cu2Th: Cu 0.666667, Th 0.333333; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 7 |  |
+| 1328.15 | congruent melting: L -> Cu6Th | L: Th 0.1429; Cu6Th: Cu 0.857143, Th 0.142857 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 11 |  |
+| 1327.75 | congruent melting: L -> Cu6Th | L: Th 0.1429; Cu6Th: Cu 0.857143, Th 0.142857 | model | [1] Wang 2008 | Table 3, p. 3, row 12 |  |
+| 1325.15 | congruent melting: L -> Cu3.6Th | L: Th 0.2174; Cu3.6Th: Cu 0.782609, Th 0.217391 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 13 |  |
+| 1325.05 | congruent melting: L -> Cu3.6Th | L: Th 0.2174; Cu3.6Th: Cu 0.782609, Th 0.217391 | model | [1] Wang 2008 | Table 3, p. 3, row 14 |  |
+| 1293.35 | eutectic: L -> Cu6Th + Cu3.6Th | L: Th 0.186; Cu6Th: Cu 0.857143, Th 0.142857; Cu3.6Th: Cu 0.782609, Th 0.217391 | model | [1] Wang 2008 | Table 3, p. 3, row 4 |  |
+| 1293.15 | eutectic: L -> Cu6Th + Cu3.6Th | L: Th 0.18; Cu6Th: Cu 0.857143, Th 0.142857; Cu3.6Th: Cu 0.782609, Th 0.217391 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 3 |  |
+| 1288.15 | congruent melting: L -> Cu2Th | L: Th 0.3333; Cu2Th: Cu 0.666667, Th 0.333333 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 15 |  |
+| 1288.15 | congruent melting: L -> Cu2Th | L: Th 0.3333; Cu2Th: Cu 0.666667, Th 0.333333 | model | [1] Wang 2008 | Table 3, p. 3, row 16 |  |
+| 1280.15 | congruent melting: L -> CuTh2 | L: Th 0.6667; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 17 |  |
+| 1277.95 | congruent melting: L -> CuTh2 | L: Th 0.6667; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 18 |  |
+| 1275.05 | eutectic: L -> CuTh2 + (αTh) | L: Th 0.702; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 10 |  |
+| 1273.15 | eutectic: L -> CuTh2 + (αTh) | L: Th 0.7; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 9 |  |
+| 1257.75 | eutectic: L -> Cu3.6Th + Cu2Th | L: Th 0.265; Cu3.6Th: Cu 0.782609, Th 0.217391; Cu2Th: Cu 0.666667, Th 0.333333 | model | [1] Wang 2008 | Table 3, p. 3, row 6 |  |
+| 1253.15 | eutectic: L -> Cu3.6Th + Cu2Th | L: Th 0.26; Cu3.6Th: Cu 0.782609, Th 0.217391; Cu2Th: Cu 0.666667, Th 0.333333 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 5 |  |
+| 1208.15 | eutectic: L -> (Cu) + Cu6Th | L: Th 0.07; Cu6Th: Cu 0.857143, Th 0.142857 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 1 |  |
+| 1206.05 | eutectic: L -> (Cu) + Cu6Th | L: Th 0.074; Cu6Th: Cu 0.857143, Th 0.142857 | model | [1] Wang 2008 | Table 3, p. 3, row 2 |  |
+| 1157.75 | eutectic: L -> Cu2Th + CuTh2 | L: Th 0.488; Cu2Th: Cu 0.666667, Th 0.333333; CuTh2: Cu 0.333333, Th 0.666667 | model | [1] Wang 2008 | Table 3, p. 3, row 8 |  |
+| 1153.15 | eutectic: L -> Cu2Th + CuTh2 | L: Th 0.49; Cu2Th: Cu 0.666667, Th 0.333333; CuTh2: Cu 0.333333, Th 0.666667 | experimental | [1] Wang 2008; _cites Schiltz 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990128-7) | Table 3, p. 3, row 7 |  |
 
 ## Sources
 

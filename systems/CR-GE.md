@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CR-GE.html · Markdown: https://data.orchid-project.org/systems/CR-GE.md
 
-131 accepted literature values from 2 paper(s) (experimental 81, model 50); 3 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+131 accepted literature values from 2 paper(s) (experimental 81, model 50); 3 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-GE.json) · [CSV](https://data.orchid-project.org/systems/CR-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-GE/CrGe-09Li.json) · [Markdown](https://data.orchid-project.org/systems/CR-GE.md)
 
@@ -79,65 +79,65 @@ Table: Invariant reactions reported in the literature for the Cr–Ge system (60
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1837.15 | peritectic |  | experimental | [1] Liu 2010 | p. 1 | “The Cr-richest phase Cr3 Ge, with a homogeneity range from 20.5 to 25 at.% Ge, decomposes peritectically at 1564 ◦ C.” |
-| 1837.15 | Peritectic: L + (Cr) -> Cr3Ge | L: Ge 0.252; (Cr): Ge 0.118; Cr3Ge: Ge 0.214 | model | [1] Liu 2010 | Table 3, p. 6, row 3 |  |
-| 1837.15 | Peritectic: L + (Cr) -> Cr3Ge | Cr3Ge: Ge 0.228 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 1 |  |
+| 1837.15 | peritectic: L + (Cr) -> Cr3Ge | L: Ge 0.252; (Cr): Ge 0.118; Cr3Ge: Ge 0.214 | model | [1] Liu 2010 | Table 3, p. 6, row 3 |  |
+| 1837.15 | peritectic: L + (Cr) -> Cr3Ge | Cr3Ge: Ge 0.228 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 1 |  |
 | 1837 | liq + bcc -> Cr3Ge | liq: Ge 0.29; bcc: Ge 0.11; Cr3Ge: Ge 0.228 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 3 |  |
 | 1837 | liq + bcc -> Cr3Ge | liq: Ge 0.2291; bcc: Ge 0.1113; Cr3Ge: Ge 0.2128 | model | [2] Li 2009 | Table 3, p. 3, row 2 |  |
 | 1837 | liq + bcc -> Cr3Ge | liq: Ge 0.2384; bcc: Ge 0.1191; Cr3Ge: Ge 0.2161 | model | [2] Li 2009 | Table 3, p. 3, row 1 |  |
-| 1683.15 | Peritectic: L + (Cr) -> Cr3Ge | Cr3Ge: Cr 0.75, Ge 0.25 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 2 |  |
+| 1683.15 | peritectic: L + (Cr) -> Cr3Ge | Cr3Ge: Cr 0.75, Ge 0.25 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 2 |  |
 | 1683.15 | peritectic: L + BCC ↔ Cr3 Ge |  | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | p. 2 | “In the Cr-rich region, Svechnikov et al. \[12\] reported a monotectic reaction L1 ↔ L2 + BCC at 1565 ◦ C and peritectic reaction L + BCC ↔ Cr3 Ge at 1410 ◦ C.” |
-| 1535.15 | Peritectic: L + Cr3Ge -> βCr5Ge3 | Cr3Ge: Ge 0.251; βCr5Ge3: Ge 0.378 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 4 |  |
+| 1535.15 | peritectic: L + Cr3Ge -> βCr5Ge3 | Cr3Ge: Ge 0.251; βCr5Ge3: Ge 0.378 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 4 |  |
 | 1535.15 | peritectic |  | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | p. 1 | “The Cr5 Ge3 phase, with a homogeneity range from 37.4 to 38.2 at.% Ge, decomposes peritectically at 1262 ◦ C and undergoes an allotropic transformation at 1002 ◦ C.” |
-| 1535.15 | Peritectic: L + Cr3Ge -> βCr5Ge3 | L: Ge 0.446; Cr3Ge: Ge 0.253; βCr5Ge3: Ge 0.372 | model | [1] Liu 2010 | Table 3, p. 6, row 8 |  |
-| 1523.15 | Peritectic: L + Cr3Ge -> βCr5Ge3 | L: Ge 0.48; Cr3Ge: Ge 0.25; βCr5Ge3: Ge 0.375 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 5 |  |
+| 1535.15 | peritectic: L + Cr3Ge -> βCr5Ge3 | L: Ge 0.446; Cr3Ge: Ge 0.253; βCr5Ge3: Ge 0.372 | model | [1] Liu 2010 | Table 3, p. 6, row 8 |  |
+| 1523.15 | peritectic: L + Cr3Ge -> βCr5Ge3 | L: Ge 0.48; Cr3Ge: Ge 0.25; βCr5Ge3: Ge 0.375 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 5 |  |
 | 1518.15 | peritectic |  | experimental | [1] Liu 2010 | p. 2 | “The microstructural and XRD studies revealed that Cr5 Ge3 , CrGe, and Cr11 Ge19 are formed peritectically at 1245 ◦ C, 995 ◦ C and 925 ◦ C, respectively, in agreement with the findings of Ref. \[10\].” |
-| 1518.15 | Peritectic: L + Cr3Ge -> βCr5Ge3 | Cr3Ge: Cr 0.75, Ge 0.25; βCr5Ge3: Cr 0.625, Ge 0.375 | experimental | [1] Liu 2010; _cites Kalishevich 1969_ | Table 3, p. 6, row 7 |  |
-| 1498.15 | Peritectic: L + Cr3Ge -> βCr5Ge3 | L: Ge 0.48; Cr3Ge: Ge 0.26; βCr5Ge3: Ge 0.37 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 6 |  |
-| 1443.15 | Peritectic: L + βCr5Ge3 -> Cr11Ge8 | L: Ge 0.504; βCr5Ge3: Ge 0.384; Cr11Ge8: Ge 0.421 | model | [1] Liu 2010 | Table 3, p. 6, row 12 |  |
-| 1443.15 | Peritectic: L + βCr5Ge3 -> Cr11Ge8 | βCr5Ge3: Ge 0.3823; Cr11Ge8: Ge 0.4221 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 9 |  |
+| 1518.15 | peritectic: L + Cr3Ge -> βCr5Ge3 | Cr3Ge: Cr 0.75, Ge 0.25; βCr5Ge3: Cr 0.625, Ge 0.375 | experimental | [1] Liu 2010; _cites Kalishevich 1969_ | Table 3, p. 6, row 7 |  |
+| 1498.15 | peritectic: L + Cr3Ge -> βCr5Ge3 | L: Ge 0.48; Cr3Ge: Ge 0.26; βCr5Ge3: Ge 0.37 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 6 |  |
+| 1443.15 | peritectic: L + βCr5Ge3 -> Cr11Ge8 | L: Ge 0.504; βCr5Ge3: Ge 0.384; Cr11Ge8: Ge 0.421 | model | [1] Liu 2010 | Table 3, p. 6, row 12 |  |
+| 1443.15 | peritectic: L + βCr5Ge3 -> Cr11Ge8 | βCr5Ge3: Ge 0.3823; Cr11Ge8: Ge 0.4221 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 9 |  |
 | 1443.15 | peritectic |  | experimental | [1] Liu 2010 | p. 1 | “The other three phases, Cr11 Ge8 , CrGe and Cr11 Ge19 , are stoichiometric and melt peritectically at 1170 ◦ C, 998 ◦ C and 928 ◦ C, respectively.” |
 | 1443 | liq + βCr5Ge3 -> Cr11Ge8 | βCr5Ge3: Ge 0.3955; Cr11Ge8: Ge 0.4211 | model | [2] Li 2009 | Table 3, p. 3, row 10 |  |
 | 1443 | liq + βCr5Ge3 -> Cr11Ge8 | liq: Ge 0.53; βCr5Ge3: Ge 0.382; Cr11Ge8: Ge 0.421 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 11 |  |
 | 1443 | liq + βCr5Ge3 -> Cr11Ge8 | liq: Ge 0.5809; βCr5Ge3: Ge 0.3955; Cr11Ge8: Ge 0.4211 | model | [2] Li 2009 | Table 3, p. 3, row 9 |  |
-| 1433.15 | Peritectic: L + βCr5Ge3 -> Cr11Ge8 | L: Ge 0.52; βCr5Ge3: Ge 0.375; Cr11Ge8: Ge 0.421 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 10 |  |
-| 1388.15 | Peritectic: L + βCr5Ge3 -> Cr11Ge8 | L: Ge 0.51; βCr5Ge3: Cr 0.625, Ge 0.375; Cr11Ge8: Cr 0.578947, Ge 0.421053 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 11 |  |
-| 1298.15 | Peritectic: L + Cr11Ge8 -> CrGe | L: Ge 0.6; Cr11Ge8: Ge 0.421; CrGe: Ge 0.5 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 14 |  |
-| 1275.15 | Allotropic transformation: αCr5Ge3 -> βCr5Ge3 | αCr5Ge3: Cr 0.625, Ge 0.375; βCr5Ge3: Cr 0.625, Ge 0.375 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 29 |  |
-| 1275.15 | Allotropic transformation: αCr5Ge3 -> βCr5Ge3 | αCr5Ge3: Cr 0.625, Ge 0.375; βCr5Ge3: Cr 0.625, Ge 0.375 | model | [1] Liu 2010 | Table 3, p. 6, row 30 |  |
+| 1433.15 | peritectic: L + βCr5Ge3 -> Cr11Ge8 | L: Ge 0.52; βCr5Ge3: Ge 0.375; Cr11Ge8: Ge 0.421 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 10 |  |
+| 1388.15 | peritectic: L + βCr5Ge3 -> Cr11Ge8 | L: Ge 0.51; βCr5Ge3: Cr 0.625, Ge 0.375; Cr11Ge8: Cr 0.578947, Ge 0.421053 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 11 |  |
+| 1298.15 | peritectic: L + Cr11Ge8 -> CrGe | L: Ge 0.6; Cr11Ge8: Ge 0.421; CrGe: Ge 0.5 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 14 |  |
+| 1275.15 | polymorphic: αCr5Ge3 -> βCr5Ge3 | αCr5Ge3: Cr 0.625, Ge 0.375; βCr5Ge3: Cr 0.625, Ge 0.375 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 29 |  |
+| 1275.15 | polymorphic: αCr5Ge3 -> βCr5Ge3 | αCr5Ge3: Cr 0.625, Ge 0.375; βCr5Ge3: Cr 0.625, Ge 0.375 | model | [1] Liu 2010 | Table 3, p. 6, row 30 |  |
 | 1275 | Cr3Ge + βCr5Ge3 -> αCr5Ge3 | Cr3Ge: Ge 0.254; βCr5Ge3: Ge 0.372; αCr5Ge3: Ge 0.375 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 27 |  |
 | 1275 | βCr5Ge3 -> αCr5Ge3 + Cr11Ge8 | βCr5Ge3: Ge 0.375; αCr5Ge3: Ge 0.375; Cr11Ge8: Ge 0.4211 | model | [2] Li 2009 | Table 3, p. 3, row 30 |  |
 | 1275 | βCr5Ge3 -> αCr5Ge3 + Cr11Ge8 | βCr5Ge3: Ge 0.382; αCr5Ge3: Ge 0.382; Cr11Ge8: Ge 0.421 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 31 |  |
 | 1275 | βCr5Ge3 -> αCr5Ge3 + Cr11Ge8 | βCr5Ge3: Ge 0.3822; αCr5Ge3: Ge 0.3822; Cr11Ge8: Ge 0.4211 | model | [2] Li 2009 | Table 3, p. 3, row 29 |  |
 | 1275 | Cr3Ge + βCr5Ge3 -> αCr5Ge3 | Cr3Ge: Ge 0.2495; βCr5Ge3: Ge 0.3797; αCr5Ge3: Ge 0.3797 | model | [2] Li 2009 | Table 3, p. 3, row 25 |  |
 | 1275 | Cr3Ge + βCr5Ge3 -> αCr5Ge3 | Cr3Ge: Ge 0.2495; βCr5Ge3: Ge 0.3797; αCr5Ge3: Ge 0.375 | model | [2] Li 2009 | Table 3, p. 3, row 26 |  |
-| 1271.15 | Peritectic: L + Cr11Ge8 -> CrGe | L: Ge 0.665; Cr11Ge8: Ge 0.421; CrGe: Ge 0.5 | model | [1] Liu 2010 | Table 3, p. 6, row 18 |  |
-| 1271.15 | Peritectic: L + Cr11Ge8 -> CrGe | Cr11Ge8: Cr 0.578947, Ge 0.421053; CrGe: Cr 0.5, Ge 0.5 | experimental | [1] Liu 2010; _cites Kawasumi 1978_ [doi](https://doi.org/10.1143/jjap.17.2173) | Table 3, p. 6, row 17 |  |
-| 1271.15 | Peritectic: L + Cr11Ge8 -> CrGe | Cr11Ge8: Ge 0.4221; CrGe: Ge 0.4991 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 13 |  |
+| 1271.15 | peritectic: L + Cr11Ge8 -> CrGe | L: Ge 0.665; Cr11Ge8: Ge 0.421; CrGe: Ge 0.5 | model | [1] Liu 2010 | Table 3, p. 6, row 18 |  |
+| 1271.15 | peritectic: L + Cr11Ge8 -> CrGe | Cr11Ge8: Cr 0.578947, Ge 0.421053; CrGe: Cr 0.5, Ge 0.5 | experimental | [1] Liu 2010; _cites Kawasumi 1978_ [doi](https://doi.org/10.1143/jjap.17.2173) | Table 3, p. 6, row 17 |  |
+| 1271.15 | peritectic: L + Cr11Ge8 -> CrGe | Cr11Ge8: Ge 0.4221; CrGe: Ge 0.4991 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 13 |  |
 | 1271.15 | peritectic |  | experimental | [1] Liu 2010 | p. 1 | “The other three phases, Cr11 Ge8 , CrGe and Cr11 Ge19 , are stoichiometric and melt peritectically at 1170 ◦ C, 998 ◦ C and 928 ◦ C, respectively.” |
 | 1271 | liq + Cr11Ge8 -> CrGe | liq: Ge 0.7355; Cr11Ge8: Ge 0.4211; CrGe: Ge 0.5 | model | [2] Li 2009 | Table 3, p. 3, row 13 |  |
 | 1271 | liq + Cr11Ge8 -> CrGe | liq: Ge 0.68; Cr11Ge8: Ge 0.421; CrGe: Ge 0.5 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 15 |  |
 | 1271 | liq + Cr11Ge8 -> CrGe | Cr11Ge8: Ge 0.4211; CrGe: Ge 0.5 | model | [2] Li 2009 | Table 3, p. 3, row 14 |  |
-| 1268.15 | Peritectic: L + Cr11Ge8 -> CrGe | Cr11Ge8: Cr 0.578947, Ge 0.421053; CrGe: Cr 0.5, Ge 0.5 | experimental | [1] Liu 2010; _cites Kalishevich 1969_ | Table 3, p. 6, row 16 |  |
+| 1268.15 | peritectic: L + Cr11Ge8 -> CrGe | Cr11Ge8: Cr 0.578947, Ge 0.421053; CrGe: Cr 0.5, Ge 0.5 | experimental | [1] Liu 2010; _cites Kalishevich 1969_ | Table 3, p. 6, row 16 |  |
 | 1268.15 | peritectic |  | experimental | [1] Liu 2010 | p. 2 | “The microstructural and XRD studies revealed that Cr5 Ge3 , CrGe, and Cr11 Ge19 are formed peritectically at 1245 ◦ C, 995 ◦ C and 925 ◦ C, respectively, in agreement with the findings of Ref. \[10\].” |
-| 1263.15 | Peritectic: L + Cr11Ge8 -> CrGe | L: Ge 0.67; Cr11Ge8: Ge 0.42; CrGe: Ge 0.5 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 15 |  |
-| 1228.15 | Peritectic: L + CrGe -> Cr11Ge19 | L: Ge 0.72; CrGe: Ge 0.5; Cr11Ge19: Ge 0.633 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 20 |  |
-| 1208.15 | Peritectic: L + CrGe -> Cr11Ge19 | CrGe: Cr 0.5, Ge 0.5; Cr11Ge19: Cr 0.366667, Ge 0.633333 | experimental | [1] Liu 2010; _cites Kawasumi 1978_ [doi](https://doi.org/10.1143/jjap.17.2173) | Table 3, p. 6, row 23 |  |
-| 1201.15 | Peritectic: L + CrGe -> Cr11Ge19 | CrGe: Ge 0.4991; Cr11Ge19: Ge 0.6343 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 19 |  |
+| 1263.15 | peritectic: L + Cr11Ge8 -> CrGe | L: Ge 0.67; Cr11Ge8: Ge 0.42; CrGe: Ge 0.5 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 15 |  |
+| 1228.15 | peritectic: L + CrGe -> Cr11Ge19 | L: Ge 0.72; CrGe: Ge 0.5; Cr11Ge19: Ge 0.633 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 20 |  |
+| 1208.15 | peritectic: L + CrGe -> Cr11Ge19 | CrGe: Cr 0.5, Ge 0.5; Cr11Ge19: Cr 0.366667, Ge 0.633333 | experimental | [1] Liu 2010; _cites Kawasumi 1978_ [doi](https://doi.org/10.1143/jjap.17.2173) | Table 3, p. 6, row 23 |  |
+| 1201.15 | peritectic: L + CrGe -> Cr11Ge19 | CrGe: Ge 0.4991; Cr11Ge19: Ge 0.6343 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 19 |  |
 | 1201.15 | peritectic |  | experimental | [1] Liu 2010 | p. 1 | “The other three phases, Cr11 Ge8 , CrGe and Cr11 Ge19 , are stoichiometric and melt peritectically at 1170 ◦ C, 998 ◦ C and 928 ◦ C, respectively.” |
 | 1201 | liq + CrGe -> Cr11Ge19 | liq: Ge 0.8097; CrGe: Ge 0.5; Cr11Ge19: Ge 0.6333 | model | [2] Li 2009 | Table 3, p. 3, row 17 |  |
 | 1201 | liq + CrGe -> Cr11Ge19 | liq: Ge 0.78; CrGe: Ge 0.5; Cr11Ge19: Ge 0.633 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 19 |  |
 | 1201 | liq + CrGe -> Cr11Ge19 | CrGe: Ge 0.5; Cr11Ge19: Ge 0.6333 | model | [2] Li 2009 | Table 3, p. 3, row 18 |  |
-| 1200.15 | Peritectic: L + CrGe -> Cr11Ge19 | L: Ge 0.793; CrGe: Ge 0.5; Cr11Ge19: Ge 0.633 | model | [1] Liu 2010 | Table 3, p. 6, row 24 |  |
-| 1198.15 | Peritectic: L + CrGe -> Cr11Ge19 | CrGe: Cr 0.5, Ge 0.5; Cr11Ge19: Cr 0.366667, Ge 0.633333 | experimental | [1] Liu 2010; _cites Kalishevich 1969_ | Table 3, p. 6, row 22 |  |
+| 1200.15 | peritectic: L + CrGe -> Cr11Ge19 | L: Ge 0.793; CrGe: Ge 0.5; Cr11Ge19: Ge 0.633 | model | [1] Liu 2010 | Table 3, p. 6, row 24 |  |
+| 1198.15 | peritectic: L + CrGe -> Cr11Ge19 | CrGe: Cr 0.5, Ge 0.5; Cr11Ge19: Cr 0.366667, Ge 0.633333 | experimental | [1] Liu 2010; _cites Kalishevich 1969_ | Table 3, p. 6, row 22 |  |
 | 1198.15 | peritectic |  | experimental | [1] Liu 2010 | p. 2 | “The microstructural and XRD studies revealed that Cr5 Ge3 , CrGe, and Cr11 Ge19 are formed peritectically at 1245 ◦ C, 995 ◦ C and 925 ◦ C, respectively, in agreement with the findings of Ref. \[10\].” |
-| 1193.15 | Eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.78; Cr11Ge19: Ge 0.633; (Ge): Ge 1 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 26 |  |
-| 1173.15 | Peritectic: L + CrGe -> Cr11Ge19 | L: Ge 0.75; CrGe: Ge 0.5; Cr11Ge19: Ge 0.66 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 21 |  |
-| 1168.15 | Eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.85; Cr11Ge19: Ge 0.6343; (Ge): Ge 1 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 25 |  |
-| 1168.15 | Eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.867; Cr11Ge19: Ge 0.633; (Ge): Ge 1 | model | [1] Liu 2010 | Table 3, p. 6, row 28 |  |
+| 1193.15 | eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.78; Cr11Ge19: Ge 0.633; (Ge): Ge 1 | experimental | [1] Liu 2010; _cites Zagryazhskii 1966_ [doi](https://doi.org/10.1007/bf01140038) | Table 3, p. 6, row 26 |  |
+| 1173.15 | peritectic: L + CrGe -> Cr11Ge19 | L: Ge 0.75; CrGe: Ge 0.5; Cr11Ge19: Ge 0.66 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 21 |  |
+| 1168.15 | eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.85; Cr11Ge19: Ge 0.6343; (Ge): Ge 1 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 25 |  |
+| 1168.15 | eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.867; Cr11Ge19: Ge 0.633; (Ge): Ge 1 | model | [1] Liu 2010 | Table 3, p. 6, row 28 |  |
 | 1168 | liq -> Cr11Ge19 + diamond | Cr11Ge19: Ge 0.6333; diamond: Ge 0.998 | model | [2] Li 2009 | Table 3, p. 3, row 22 |  |
 | 1168 | liq -> Cr11Ge19 + diamond | liq: Ge 0.85; Cr11Ge19: Ge 0.633; diamond: Ge 0.997 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 23 |  |
 | 1168 | liq -> Cr11Ge19 + diamond | liq: Ge 0.8654; Cr11Ge19: Ge 0.6333; diamond: Ge 0.9927 | model | [2] Li 2009 | Table 3, p. 3, row 21 |  |
-| 1138.15 | Eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.78; Cr11Ge19: Ge 0.66; (Ge): Ge 0.97 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 27 |  |
+| 1138.15 | eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.78; Cr11Ge19: Ge 0.66; (Ge): Ge 0.97 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 27 |  |
 
 ## Formation enthalpies
 
@@ -186,8 +186,8 @@ Table: Phase transition, Cr–Ge system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1208.15 K | 1208.15 | Cr11Ge19 | experimental | [1] Liu 2010; _cites Kawasumi 1978_ [doi](https://doi.org/10.1143/jjap.17.2173) | p. 2 | “The latter two temperatures agree well with those of 998 ◦ C and 935 ◦ C reported by Kawasumi et al. \[14\].” |
 | Phase transition | 1271.15 K | 1271.15 | CrGe | experimental | [1] Liu 2010; _cites Kawasumi 1978_ [doi](https://doi.org/10.1143/jjap.17.2173) | p. 2 | “The latter two temperatures agree well with those of 998 ◦ C and 935 ◦ C reported by Kawasumi et al. \[14\].” |
-| Phase transition | 1275.15 K | 1275.15 | allotropic | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | p. 1 | “The Cr5 Ge3 phase, with a homogeneity range from 37.4 to 38.2 at.% Ge, decomposes peritectically at 1262 ◦ C and undergoes an allotropic transformation at 1002 ◦ C.” |
-| Phase transition | 1275.15 K | 1275.15 | polymorphic | model | [1] Liu 2010 | p. 40000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004 | “The nonstoichiometric Cr5 Ge3 phase undergoes an allotropic transformation at 1002 ◦ C \[10\].” |
+| Phase transition | 1275.15 K | 1275.15 | polymorphic | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | p. 1 | “The Cr5 Ge3 phase, with a homogeneity range from 37.4 to 38.2 at.% Ge, decomposes peritectically at 1262 ◦ C and undergoes an allotropic transformation at 1002 ◦ C.” |
+| Phase transition | 1275.15 K | 1275.15 | polymorphic | model | [1] Liu 2010 | p. 4 | “The nonstoichiometric Cr5 Ge3 phase undergoes an allotropic transformation at 1002 ◦ C \[10\].” |
 | Phase transition | 1838.15 K | 1838.15 | other: L1 ↔ L2 + BCC | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | p. 2 | “In the Cr-rich region, Svechnikov et al. \[12\] reported a monotectic reaction L1 ↔ L2 + BCC at 1565 ◦ C and peritectic reaction L + BCC ↔ Cr3 Ge at 1410 ◦ C.” |
 
 ### Formation (20)

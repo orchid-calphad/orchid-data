@@ -44,7 +44,7 @@ Table: Phase transition, Gd–Sc system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1398.15 K | 1398.15 |  | experimental | [1] Wang 2015; _cites Beaudry 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990129-8) | p. 1 | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Gd system was measured by Beaudry and Daane,\[12\] who indicated the minimum solidus at 35 at.% Sc and 1275 °C, and the minimum transition temperature from the hcp phase to the bcc phase at 45 at.% Sc and 1125 °C.” |
-| Phase transition | 1548.15 K | 1548.15 | solidus | experimental | [1] Wang 2015; _cites Beaudry 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990129-8) | p. 1 | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Gd system was measured by Beaudry and Daane,\[12\] who indicated the minimum solidus at 35 at.% Sc and 1275 °C, and the minimum transition temperature from the hcp phase to the bcc phase at 45 at.% Sc and 1125 °C.” |
+| Phase transition | 1548.15 K | 1548.15 | other | experimental | [1] Wang 2015; _cites Beaudry 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990129-8) | p. 1 | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Gd system was measured by Beaudry and Daane,\[12\] who indicated the minimum solidus at 35 at.% Sc and 1275 °C, and the minimum transition temperature from the hcp phase to the bcc phase at 45 at.% Sc and 1125 °C.” |
 
 ### Mixing / partial (2)
 
@@ -52,8 +52,8 @@ Table: Mixing / partial, Gd–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpies of mixing_ | 1 kJ/mol | 1873.15 |  | model | [1] Wang 2015; _cites F 1988_ | p. 3 | “The calculated enthalpies of mixing of the liquid phase at 1600 °C with reference states of pure Sc (liquid) and Gd (liquid) is shown in Fig. 4, and the calculated value at 50 at.% Sc is 0.993 kJ/mol, which shows good agreement with the predicted values of 1 kJ/mol.\[5\]” |
-| Enthalpy of mixing; _printed: enthalpies of mixing_ | 0.993 kJ/mol | 1873.15 |  | model | [1] Wang 2015 | p. 3 | “The calculated enthalpies of mixing of the liquid phase at 1600 °C with reference states of pure Sc (liquid) and Gd (liquid) is shown in Fig. 4, and the calculated value at 50 at.% Sc is 0.993 kJ/mol, which shows good agreement with the predicted values of 1 kJ/mol.\[5\]” |
+| Enthalpy of mixing; _printed: enthalpies of mixing_ | 1 kJ/mol (basis unstated) | 1873.15 |  | model | [1] Wang 2015; _cites F 1988_ | p. 3 | “The calculated enthalpies of mixing of the liquid phase at 1600 °C with reference states of pure Sc (liquid) and Gd (liquid) is shown in Fig. 4, and the calculated value at 50 at.% Sc is 0.993 kJ/mol, which shows good agreement with the predicted values of 1 kJ/mol.\[5\]” |
+| Enthalpy of mixing; _printed: enthalpies of mixing_ | 0.993 kJ/mol (basis unstated) | 1873.15 |  | model | [1] Wang 2015 | p. 3 | “The calculated enthalpies of mixing of the liquid phase at 1600 °C with reference states of pure Sc (liquid) and Gd (liquid) is shown in Fig. 4, and the calculated value at 50 at.% Sc is 0.993 kJ/mol, which shows good agreement with the predicted values of 1 kJ/mol.\[5\]” |
 
 ## Sources
 

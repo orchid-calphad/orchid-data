@@ -30,25 +30,25 @@ Table: Invariant reactions reported in the literature for the Fe–Gd–Mo syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1673 | U: U2: L+σ+R->τ |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 6 |  |
-| 1642 | U: U2: L+σ+R->τ | L: Gd 0.116, Mo 0.22 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 5 |  |
-| 1613 | U: U3: L+σ->τ+(Mo) |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 8 |  |
-| 1604 | U: U9: L+fccFe->bccFe+Fe17Gd2 | L: Gd 0.123, Mo 0.005 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 19 |  |
-| 1592 | U: U8: L+R->bccFe+τ | L: Gd 0.071, Mo 0.173 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 1 |  |
-| 1589 | U: U1: L+bccFe->Fe17Gd2+τ |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 4 |  |
-| 1557 | U: U8: L+R->bccFe+τ |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 2 |  |
-| 1520 | U: U3: L+σ->τ+(Mo) | L: Gd 0.312, Mo 0.177 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 7 |  |
-| 1497 | U: U1: L+bccFe->Fe17Gd2+τ | L: Gd 0.145, Mo 0.094 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 3 |  |
-| 1447 | U: U4: L+Fe17Gd2->τ+Fe23Gd6 | L: Gd 0.221, Mo 0.084 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 9 |  |
-| 1439 | U: U4: L+Fe17Gd2->τ+Fe23Gd6 |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 10 |  |
-| 1343 | U: U7: L+Fe3Gd->τ+Fe2Gd |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 14 |  |
-| 1343 | U: U5: L+Fe23Gd6->τ+Fe3Gd |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 12 |  |
-| 1255.1 | U: U5: L+Fe23Gd6->τ+Fe3Gd | L: Gd 0.401, Mo 0.094 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 11 |  |
-| 1255 | U: U7: L+Fe3Gd->τ+Fe2Gd | L: Gd 0.401, Mo 0.094 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 13 |  |
-| 1123 | U: U6: L+τ->Fe2Gd+(Mo) |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 16 |  |
-| 925 | U: U6: L+τ->Fe2Gd+(Mo) | L: Gd 0.484, Mo 0.131 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 15 |  |
-| 923 | E: E2: L->Fe2Gd+Gd+(Mo) |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 18 |  |
-| 920 | E: E2: L->Fe2Gd+Gd+(Mo) | L: Gd 0.487, Mo 0.13 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 17 |  |
+| 1673 | quasi-peritectic: U2: L+σ+R->τ |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 6 |  |
+| 1642 | quasi-peritectic: U2: L+σ+R->τ | L: Gd 0.116, Mo 0.22 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 5 |  |
+| 1613 | quasi-peritectic: U3: L+σ->τ+(Mo) |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 8 |  |
+| 1604 | quasi-peritectic: U9: L+fccFe->bccFe+Fe17Gd2 | L: Gd 0.123, Mo 0.005 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 19 |  |
+| 1592 | quasi-peritectic: U8: L+R->bccFe+τ | L: Gd 0.071, Mo 0.173 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 1 |  |
+| 1589 | quasi-peritectic: U1: L+bccFe->Fe17Gd2+τ |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 4 |  |
+| 1557 | quasi-peritectic: U8: L+R->bccFe+τ |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 2 |  |
+| 1520 | quasi-peritectic: U3: L+σ->τ+(Mo) | L: Gd 0.312, Mo 0.177 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 7 |  |
+| 1497 | quasi-peritectic: U1: L+bccFe->Fe17Gd2+τ | L: Gd 0.145, Mo 0.094 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 3 |  |
+| 1447 | quasi-peritectic: U4: L+Fe17Gd2->τ+Fe23Gd6 | L: Gd 0.221, Mo 0.084 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 9 |  |
+| 1439 | quasi-peritectic: U4: L+Fe17Gd2->τ+Fe23Gd6 |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 10 |  |
+| 1343 | quasi-peritectic: U7: L+Fe3Gd->τ+Fe2Gd |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 14 |  |
+| 1343 | quasi-peritectic: U5: L+Fe23Gd6->τ+Fe3Gd |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 12 |  |
+| 1255.1 | quasi-peritectic: U5: L+Fe23Gd6->τ+Fe3Gd | L: Gd 0.401, Mo 0.094 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 11 |  |
+| 1255 | quasi-peritectic: U7: L+Fe3Gd->τ+Fe2Gd | L: Gd 0.401, Mo 0.094 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 13 |  |
+| 1123 | quasi-peritectic: U6: L+τ->Fe2Gd+(Mo) |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 16 |  |
+| 925 | quasi-peritectic: U6: L+τ->Fe2Gd+(Mo) | L: Gd 0.484, Mo 0.131 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 15 |  |
+| 923 | eutectic: E2: L->Fe2Gd+Gd+(Mo) |  | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 5, p. 5, row 18 |  |
+| 920 | eutectic: E2: L->Fe2Gd+Gd+(Mo) | L: Gd 0.487, Mo 0.13 | model | [1] Zinkevich 2002 | Table 5, p. 5, row 17 |  |
 
 ## Other properties
 
@@ -59,26 +59,26 @@ Table: Phase transition, Fe–Gd–Mo system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 229 K | 229 | magnetic | experimental | [1] Zinkevich 2002 | p. 6 | “For the sample of composition Fe61.0Gd9.3Mo29.7 a second order phase transition at TΩ229 K has been detected (Fig. 8), which can be associated with the vanishing of magnetic ordering.” |
-| Phase transition | 1077 K | 1077 | liquidus: Fe2Gd; _alloy: Fe 0.36, Gd 0.58, Mo 0.06_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 19 |  |
-| Phase transition | 1265 K | 1265 | liquidus: Fe2Gd; _alloy: Fe 0.36, Gd 0.58, Mo 0.06_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 20 |  |
-| Phase transition | 1303 K | 1303 | liquidus: τ; _alloy: Fe 0.469, Gd 0.409, Mo 0.122_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 11 |  |
-| Phase transition | 1448 K | 1448 | liquidus: τ; _alloy: Fe 0.514, Gd 0.346, Mo 0.14_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 9 |  |
-| Phase transition | 1460 K | 1460 | liquidus: τ; _alloy: Fe 0.647, Gd 0.248, Mo 0.105_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 7 |  |
-| Phase transition | 1477 K | 1477 | liquidus: τ; _alloy: Fe 0.696, Gd 0.204, Mo 0.1_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 5 |  |
-| Phase transition | 1571 K | 1571 | liquidus: τ; _alloy: Fe 0.469, Gd 0.409, Mo 0.122_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 12 |  |
-| Phase transition | 1617 K | 1617 | liquidus: bccFe; _alloy: Fe 0.856, Gd 0.094, Mo 0.05_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 3 |  |
-| Phase transition | 1631 K | 1631 | liquidus: bccFe; _alloy: Fe 0.856, Gd 0.094, Mo 0.05_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 4 |  |
-| Phase transition | 1641 K | 1641 | liquidus: τ; _alloy: Fe 0.514, Gd 0.346, Mo 0.14_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 10 |  |
-| Phase transition | 1670 K | 1670 | liquidus: τ; _alloy: Fe 0.696, Gd 0.204, Mo 0.1_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 6 |  |
-| Phase transition | 1680 K | 1680 | liquidus: σ; _alloy: Fe 0.657, Gd 0.103, Mo 0.24_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 13 |  |
-| Phase transition | 1689 K | 1689 | liquidus: τ; _alloy: Fe 0.647, Gd 0.248, Mo 0.105_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 8 |  |
-| Phase transition | 1705 K | 1705 | liquidus: bccFe; _alloy: Fe 0.909, Gd 0.046, Mo 0.045_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 1 |  |
-| Phase transition | 1743 K | 1743 | liquidus: bccFe; _alloy: Fe 0.909, Gd 0.046, Mo 0.045_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 2 |  |
-| Phase transition | 1743 K | 1743 | liquidus: σ; _alloy: Fe 0.62, Gd 0.103, Mo 0.277_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 15 |  |
-| Phase transition | 1773 K | 1773 | liquidus: (Mo); _alloy: Fe 0.555, Gd 0.2, Mo 0.245_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 18 |  |
-| Phase transition | 1778 K | 1778 | liquidus: σ; _alloy: Fe 0.657, Gd 0.103, Mo 0.24_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 14 |  |
-| Phase transition | 1786 K | 1786 | liquidus: (Mo); _alloy: Fe 0.555, Gd 0.2, Mo 0.245_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 17 |  |
-| Phase transition | 1843 K | 1843 | liquidus: σ; _alloy: Fe 0.62, Gd 0.103, Mo 0.277_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 16 |  |
+| Phase transition | 1077 K | 1077 | other: Fe2Gd; _alloy: Fe 0.36, Gd 0.58, Mo 0.06_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 19 |  |
+| Phase transition | 1265 K | 1265 | other: Fe2Gd; _alloy: Fe 0.36, Gd 0.58, Mo 0.06_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 20 |  |
+| Phase transition | 1303 K | 1303 | other: τ; _alloy: Fe 0.469, Gd 0.409, Mo 0.122_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 11 |  |
+| Phase transition | 1448 K | 1448 | other: τ; _alloy: Fe 0.514, Gd 0.346, Mo 0.14_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 9 |  |
+| Phase transition | 1460 K | 1460 | other: τ; _alloy: Fe 0.647, Gd 0.248, Mo 0.105_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 7 |  |
+| Phase transition | 1477 K | 1477 | other: τ; _alloy: Fe 0.696, Gd 0.204, Mo 0.1_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 5 |  |
+| Phase transition | 1571 K | 1571 | other: τ; _alloy: Fe 0.469, Gd 0.409, Mo 0.122_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 12 |  |
+| Phase transition | 1617 K | 1617 | other: bccFe; _alloy: Fe 0.856, Gd 0.094, Mo 0.05_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 3 |  |
+| Phase transition | 1631 K | 1631 | other: bccFe; _alloy: Fe 0.856, Gd 0.094, Mo 0.05_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 4 |  |
+| Phase transition | 1641 K | 1641 | other: τ; _alloy: Fe 0.514, Gd 0.346, Mo 0.14_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 10 |  |
+| Phase transition | 1670 K | 1670 | other: τ; _alloy: Fe 0.696, Gd 0.204, Mo 0.1_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 6 |  |
+| Phase transition | 1680 K | 1680 | other: σ; _alloy: Fe 0.657, Gd 0.103, Mo 0.24_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 13 |  |
+| Phase transition | 1689 K | 1689 | other: τ; _alloy: Fe 0.647, Gd 0.248, Mo 0.105_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 8 |  |
+| Phase transition | 1705 K | 1705 | other: bccFe; _alloy: Fe 0.909, Gd 0.046, Mo 0.045_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 1 |  |
+| Phase transition | 1743 K | 1743 | other: bccFe; _alloy: Fe 0.909, Gd 0.046, Mo 0.045_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 2 |  |
+| Phase transition | 1743 K | 1743 | other: σ; _alloy: Fe 0.62, Gd 0.103, Mo 0.277_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 15 |  |
+| Phase transition | 1773 K | 1773 | other: (Mo); _alloy: Fe 0.555, Gd 0.2, Mo 0.245_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 18 |  |
+| Phase transition | 1778 K | 1778 | other: σ; _alloy: Fe 0.657, Gd 0.103, Mo 0.24_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 14 |  |
+| Phase transition | 1786 K | 1786 | other: (Mo); _alloy: Fe 0.555, Gd 0.2, Mo 0.245_ | model | [1] Zinkevich 2002 | Table 6, p. 6, row 17 |  |
+| Phase transition | 1843 K | 1843 | other: σ; _alloy: Fe 0.62, Gd 0.103, Mo 0.277_ | experimental | [1] Zinkevich 2002; _cites Zinkevitch 1999_ | Table 6, p. 6, row 16 |  |
 
 ### Heat capacity / entropy / enthalpy (32)
 

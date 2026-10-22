@@ -1,20 +1,19 @@
 # Al9Ir2: enthalpy of formation
 
-> Enthalpy of formation of Al9Ir2: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Al9Ir2: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al9Ir2.html · Markdown: https://data.orchid-project.org/compounds/Al9Ir2.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al9Ir2 reported in the literature (2)
+Table: Enthalpy of formation of Al9Ir2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -52 kJ/mol-atom | Al9Ir2 | 0 | DFT | First-principles | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 1, p. 2, row 1 |  |
 | -52 kJ/mol-atom | Al9Ir2 | 0 | DFT | First-principles | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 1, p. 2, row 1 |  |
 
 ## Sources

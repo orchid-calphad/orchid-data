@@ -62,28 +62,28 @@ Table: Invariant reactions reported in the literature for the Bi–Gd system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2043 | Congruent: L -> GdBi | L: Bi 0.5; GdBi: Bi 0.5, Gd 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 7 |  |
-| 2042 | Congruent: L -> GdBi | L: Bi 0.5; GdBi: Bi 0.5, Gd 0.5 | model | [1] Wang 2013 | Table 1, p. 2, row 8 |  |
-| 1853 | Peritectic: L + GdBi -> Gd4Bi3 | L: Bi 0.37; GdBi: Bi 0.5, Gd 0.5; Gd4Bi3: Bi 0.428571, Gd 0.571429 | model | [1] Wang 2013 | Table 1, p. 2, row 6 |  |
+| 2043 | congruent melting: L -> GdBi | L: Bi 0.5; GdBi: Bi 0.5, Gd 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 7 |  |
+| 2042 | congruent melting: L -> GdBi | L: Bi 0.5; GdBi: Bi 0.5, Gd 0.5 | model | [1] Wang 2013 | Table 1, p. 2, row 8 |  |
+| 1853 | peritectic: L + GdBi -> Gd4Bi3 | L: Bi 0.37; GdBi: Bi 0.5, Gd 0.5; Gd4Bi3: Bi 0.428571, Gd 0.571429 | model | [1] Wang 2013 | Table 1, p. 2, row 6 |  |
 | 1853 | peritectic |  | model | [1] Wang 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
 | 1853 | peritectic: L + GdBi -> Gd4Bi3 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1 | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
-| 1853 | Peritectic: L + GdBi -> Gd4Bi3 | L: Bi 0.36; GdBi: Bi 0.5, Gd 0.5; Gd4Bi3: Bi 0.428571, Gd 0.571429 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 5 |  |
-| 1753 | Peritectic: L + Gd4Bi3 -> Gd5Bi3 | L: Bi 0.32; Gd4Bi3: Bi 0.428571, Gd 0.571429; Gd5Bi3: Bi 0.375, Gd 0.625 | model | [1] Wang 2013 | Table 1, p. 2, row 4 |  |
-| 1753 | Peritectic: L + Gd4Bi3 -> Gd5Bi3 | L: Bi 0.325; Gd4Bi3: Bi 0.428571, Gd 0.571429; Gd5Bi3: Bi 0.375, Gd 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 3 |  |
+| 1853 | peritectic: L + GdBi -> Gd4Bi3 | L: Bi 0.36; GdBi: Bi 0.5, Gd 0.5; Gd4Bi3: Bi 0.428571, Gd 0.571429 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 5 |  |
+| 1753 | peritectic: L + Gd4Bi3 -> Gd5Bi3 | L: Bi 0.32; Gd4Bi3: Bi 0.428571, Gd 0.571429; Gd5Bi3: Bi 0.375, Gd 0.625 | model | [1] Wang 2013 | Table 1, p. 2, row 4 |  |
+| 1753 | peritectic: L + Gd4Bi3 -> Gd5Bi3 | L: Bi 0.325; Gd4Bi3: Bi 0.428571, Gd 0.571429; Gd5Bi3: Bi 0.375, Gd 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 3 |  |
 | 1753 | peritectic |  | model | [1] Wang 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
 | 1753 | peritectic: L + Gd4Bi3 -> Gd5Bi3 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1 | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
 | 1353 | eutectic: L -> Hcp_A3 (Gd) + Gd5Bi3 |  | experimental | [1] Wang 2013 | p. 1 | “There were two eutectic reactions, L2Hcp_A3 (Gd)þGd5Bi3 at 1353 K and L2Rhomb (Bi)þGdBi2 at 542 K.” |
-| 1353 | Eutectic: L -> Gd5Bi3 + Hcp_A3 (Gd) | L: Bi 0.149; Gd5Bi3: Bi 0.375, Gd 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 1 |  |
-| 1353 | Eutectic: L -> Gd5Bi3 + Hcp_A3 (Gd) | L: Bi 0.146; Gd5Bi3: Bi 0.375, Gd 0.625 | model | [1] Wang 2013 | Table 1, p. 2, row 2 |  |
+| 1353 | eutectic: L -> Gd5Bi3 + Hcp_A3 (Gd) | L: Bi 0.149; Gd5Bi3: Bi 0.375, Gd 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 1 |  |
+| 1353 | eutectic: L -> Gd5Bi3 + Hcp_A3 (Gd) | L: Bi 0.146; Gd5Bi3: Bi 0.375, Gd 0.625 | model | [1] Wang 2013 | Table 1, p. 2, row 2 |  |
 | 1353 | eutectic |  | model | [1] Wang 2013 | p. 4 | “The eutectic reaction temperatures for L2Fcc_A1 (Gd)þGd5Bi3 and L2Rhomb (Bi)þGdBi2 are 1353 and 541 K, respectively.” |
-| 1183 | Peritectic: L + GdBi -> GdBi2 | L: Bi 0.82; GdBi: Bi 0.5, Gd 0.5; GdBi2: Bi 0.666667, Gd 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 10 |  |
-| 1183 | Peritectic: L + GdBi -> GdBi2 | L: Bi 0.83; GdBi: Bi 0.5, Gd 0.5; GdBi2: Bi 0.666667, Gd 0.333333 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 9 |  |
+| 1183 | peritectic: L + GdBi -> GdBi2 | L: Bi 0.82; GdBi: Bi 0.5, Gd 0.5; GdBi2: Bi 0.666667, Gd 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 10 |  |
+| 1183 | peritectic: L + GdBi -> GdBi2 | L: Bi 0.83; GdBi: Bi 0.5, Gd 0.5; GdBi2: Bi 0.666667, Gd 0.333333 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 9 |  |
 | 1183 | peritectic |  | model | [1] Wang 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
 | 1183 | peritectic: L + GdBi -> GdBi2 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1 | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
 | 542 | eutectic: L -> Rhomb (Bi) + GdBi2 |  | experimental | [1] Wang 2013 | p. 1 | “There were two eutectic reactions, L2Hcp_A3 (Gd)þGd5Bi3 at 1353 K and L2Rhomb (Bi)þGdBi2 at 542 K.” |
-| 542 | Eutectic: L -> GdBi2 + Rhomb_A7 (Bi) | L: Bi 0.985; GdBi2: Bi 0.666667, Gd 0.333333 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 11 |  |
+| 542 | eutectic: L -> GdBi2 + Rhomb_A7 (Bi) | L: Bi 0.985; GdBi2: Bi 0.666667, Gd 0.333333 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 11 |  |
 | 541 | eutectic |  | model | [1] Wang 2013 | p. 4 | “The eutectic reaction temperatures for L2Fcc_A1 (Gd)þGd5Bi3 and L2Rhomb (Bi)þGdBi2 are 1353 and 541 K, respectively.” |
-| 541 | Eutectic: L -> GdBi2 + Rhomb_A7 (Bi) | L: Bi 0.989; GdBi2: Bi 0.666667, Gd 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 12 |  |
+| 541 | eutectic: L -> GdBi2 + Rhomb_A7 (Bi) | L: Bi 0.989; GdBi2: Bi 0.666667, Gd 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 12 |  |
 
 ## Other properties
 
@@ -93,8 +93,8 @@ Table: Phase transition, Bi–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2042 K | 2042 | congruent | model | [1] Wang 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
-| Phase transition | 2043 K | 2043 | congruent | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1 | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
+| Phase transition | 2042 K | 2042 | congruent transformation | model | [1] Wang 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
+| Phase transition | 2043 K | 2043 | congruent melting | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1 | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
 
 ## Sources
 

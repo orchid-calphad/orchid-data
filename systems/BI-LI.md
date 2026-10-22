@@ -90,7 +90,7 @@ Table: Phase transition, Bi–Li system
 | Phase transition | 673 K | 673 | polymorphic | experimental | [1] Liu 2013 | p. 1 | “BiLi has an allotropic transformation around 673 K.” |
 | Phase transition | 673 K | 673 | polymorphic | model | [1] Liu 2013; _cites Grube 1934_ | p. 2 | “From both thermal analysis and electrical resistivity measurement, Gruber et al. \[8\] identified two invariant reactions at 688 and 673 K, respectively, which were related with the peritectic melting of BiLi and the allotropic transformation of BiLi, respectively.” |
 | Phase transition | 688 K | 688 | BiLi + BiLi3 + liquid | experimental | [1] Liu 2013 | p. 1 | “In addition, BiLi melts incongruently, with the formation of Bi-Li melts and BiLi3 when the temperature is raised above 688 K.” |
-| Phase transition | 1418 K | 1418 | congruent | model | [1] Liu 2013; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645966) | p. 1 | “BiLi3 melts congruently around 1418 K, and the liquidus around BiLi3 shows a certain degree of steepness, indicating the presence of short-range ordering for the melts around such a composition.” |
+| Phase transition | 1418 K | 1418 | congruent melting | model | [1] Liu 2013; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645966) | p. 1 | “BiLi3 melts congruently around 1418 K, and the liquidus around BiLi3 shows a certain degree of steepness, indicating the presence of short-range ordering for the melts around such a composition.” |
 
 ### Formation (5)
 

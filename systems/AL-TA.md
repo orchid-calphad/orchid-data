@@ -93,61 +93,61 @@ Table: Invariant reactions reported in the literature for the Al–Ta system (55
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2373 | Peritectic: L + β -> σ |  | experimental | [1] Witusiewicz 2010; _cites Wilhelm 1962_ | Table 4, p. 10, row 1 |  |
+| 2373 | peritectic: L + β -> σ |  | experimental | [1] Witusiewicz 2010; _cites Wilhelm 1962_ | Table 4, p. 10, row 1 |  |
 | 2373 | peritectic: Liquid + bcc (Ta) \<-> σAlTa2 | σAlTa2: Al 0.333333, Ta 0.666667 | experimental | [2] Du 1996; _cites ref. 62Wil_ | Table 6, p. 7, row 1 |  |
 | 2353 | peritectic: Liquid + bcc (Ta) \<-> σAlTa2 | Liquid: Ta 0.625; bcc (Ta): Ta 0.93; σAlTa2: Al 0.333333, Ta 0.666667 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 3 |  |
-| 2353 | Peritectic: L + β -> σ |  | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 3 |  |
-| 2347 | Peritectic: L + β -> σ | L: Ta 0.678; β: Ta 0.93; σ: Ta 0.759 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 5 |  |
+| 2353 | peritectic: L + β -> σ |  | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 3 |  |
+| 2347 | peritectic: L + β -> σ | L: Ta 0.678; β: Ta 0.93; σ: Ta 0.759 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 5 |  |
 | 2334 | peritectic: Liquid + bcc (Ta) \<-> σAlTa2 | Liquid: Ta 0.637; bcc (Ta): Ta 0.92; σAlTa2: Ta 0.76 | model | [2] Du 1996 | Table 6, p. 7, row 4 |  |
-| 2334 | Peritectic: L + β -> σ | L: Ta 0.637; β: Ta 0.92; σ: Ta 0.76 | model | [1] Witusiewicz 2010; _cites Du 1996_ [doi](https://doi.org/10.1007/bf02665557) | Table 4, p. 10, row 4 |  |
-| 2275 | Peritectic: L + β -> σ | L: Ta 0.63; β: Ta 0.88; σ: Ta 0.667 | experimental | [1] Witusiewicz 2010; _cites Kimura 2006_ | Table 4, p. 10, row 2 |  |
+| 2334 | peritectic: L + β -> σ | L: Ta 0.637; β: Ta 0.92; σ: Ta 0.76 | model | [1] Witusiewicz 2010; _cites Du 1996_ [doi](https://doi.org/10.1007/bf02665557) | Table 4, p. 10, row 4 |  |
+| 2275 | peritectic: L + β -> σ | L: Ta 0.63; β: Ta 0.88; σ: Ta 0.667 | experimental | [1] Witusiewicz 2010; _cites Kimura 2006_ | Table 4, p. 10, row 2 |  |
 | 2275 | peritectic: Liquid + bcc (Ta) \<-> σAlTa2 | Liquid: Ta 0.63; bcc (Ta): Ta 0.88; σAlTa2: Ta 0.667 | experimental | [2] Du 1996; _cites ref. 73Kim_ | Table 6, p. 7, row 2 |  |
 | 2273 | peritectic: Lp + b -> s |  | experimental | [1] Witusiewicz 2010; _cites Kimura 2006_ | p. 4 | “The temperature of the peritectic reaction Lp þ b 4 s was reported to be about 2373 \[44\] or 2273 K \[23\].” |
-| 2270.4 | Peritectic: Liquid + bcc-A2 -> σ | Liquid: Ta 0.643; bcc-A2: Ta 0.877; σ: Ta 0.72 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 4 |  |
+| 2270.4 | peritectic: Liquid + bcc-A2 -> σ | Liquid: Ta 0.643; bcc-A2: Ta 0.877; σ: Ta 0.72 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 4 |  |
 | 2043 | peritectic: Lp + s -> 4 |  | experimental | [1] Witusiewicz 2010; _cites Subramanian 1990_ [doi](https://doi.org/10.1007/bf02671926) | p. 3 | “Although Subramanian et al. \[14\] claimed the peritectic reaction Lp þ s 4 4 to take place at 2043 K, this phase never was found in as-cast alloys \[17\].” |
-| 1901 | Congruent: Al3Ta\* -> Liquid | Al3Ta\*: Ta 0.25; Liquid: Ta 0.25 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 5 |  |
-| 1900 | congruent: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 85Sch_ | Table 6, p. 7, row 22 |  |
-| 1888 | congruent: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 96Sch_ | Table 6, p. 7, row 24 |  |
-| 1885 | Peritectic: L + σ -> Ta39Al69 | L: Ta 0.327; σ: Ta 0.51; Ta39Al69: Ta 0.378 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 7 |  |
-| 1883 | Peritectic: L + σ -> Ta39Al69 | σ: Ta 0.512; Ta39Al69: Ta 0.376 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 6 |  |
-| 1881 | congruent: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | model | [2] Du 1996 | Table 6, p. 7, row 25 |  |
-| 1865 | congruent: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 23 |  |
-| 1854 | Congruent: σ -> φ | σ: Ta 0.552; φ: Ta 0.552 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 8 |  |
+| 1901 | congruent melting: Al3Ta\* -> Liquid | Al3Ta\*: Ta 0.25; Liquid: Ta 0.25 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 5 |  |
+| 1900 | congruent melting: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 85Sch_ | Table 6, p. 7, row 22 |  |
+| 1888 | congruent melting: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 96Sch_ | Table 6, p. 7, row 24 |  |
+| 1885 | peritectic: L + σ -> Ta39Al69 | L: Ta 0.327; σ: Ta 0.51; Ta39Al69: Ta 0.378 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 7 |  |
+| 1883 | peritectic: L + σ -> Ta39Al69 | σ: Ta 0.512; Ta39Al69: Ta 0.376 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 6 |  |
+| 1881 | congruent melting: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | model | [2] Du 1996 | Table 6, p. 7, row 25 |  |
+| 1865 | congruent melting: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 23 |  |
+| 1854 | congruent transformation: σ -> φ | σ: Ta 0.552; φ: Ta 0.552 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 8 |  |
 | 1840 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.39; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.4 | experimental | [2] Du 1996; _cites ref. 85Sch_ | Table 6, p. 7, row 5 |  |
-| 1826.8 | Eutectic: Liquid -> + AlM-D0\*22 + Al3Ta2-II | Liquid: Ta 0.366; AlM-D0\*22: Ta 0.25; Al3Ta2-II: Ta 0.4; Al3Ta2-H: Ta 0.4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 2 |  |
+| 1826.8 | eutectic: Liquid -> + AlM-D0\*22 + Al3Ta2-II | Liquid: Ta 0.366; AlM-D0\*22: Ta 0.25; Al3Ta2-II: Ta 0.4; Al3Ta2-H: Ta 0.4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 2 |  |
 | 1824 | peritectic |  | experimental | [1] Witusiewicz 2010; _cites Subramanian 1990_ [doi](https://doi.org/10.1007/bf02671926) | p. 3 | “In the literature there are both variants of melting for the 3-phase, congruent at 1823 \[23\] or 1900 K \[20\] and peritectic at 1773 \[44\] or 1824 K \[14\].” |
-| 1822 | Peritectic: L + Ta39Al69 -> ε | Ta39Al69: Ta 0.359; ε: Ta 0.249 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 9 |  |
+| 1822 | peritectic: L + Ta39Al69 -> ε | Ta39Al69: Ta 0.359; ε: Ta 0.249 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 9 |  |
 | 1821 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.37; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.361 | model | [2] Du 1996 | Table 6, p. 7, row 7 |  |
 | 1820 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.43; Al69Ta39: Ta 0.4; AlTa2: Al 0.333333, Ta 0.666667 | experimental | [2] Du 1996; _cites ref. 85Sch_ | Table 6, p. 7, row 9 |  |
-| 1819.8 | Eutectic: Liquid -> Al3Ta2-H -> + σ | Liquid: Ta 0.444; Al3Ta2-H: Ta 0.4; σ: Ta 0.576 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 3 |  |
-| 1814 | Peritectic: L + Ta39Al69 -> ε | L: Ta 0.237; Ta39Al69: Ta 0.355; ε: Ta 0.244 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 10 |  |
+| 1819.8 | eutectic: Liquid -> Al3Ta2-H -> + σ | Liquid: Ta 0.444; Al3Ta2-H: Ta 0.4; σ: Ta 0.576 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 3 |  |
+| 1814 | peritectic: L + Ta39Al69 -> ε | L: Ta 0.237; Ta39Al69: Ta 0.355; ε: Ta 0.244 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 10 |  |
 | 1812 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.42; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.361 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 6 |  |
 | 1776 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.45; Al69Ta39: Ta 0.361; AlTa2: Ta 0.64 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 10 |  |
 | 1773 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.42; Al69Ta39: Ta 0.25; AlTa2: Ta 0.667; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 73Kim_ | Table 6, p. 7, row 8 |  |
 | 1772 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.45; Al69Ta39: Ta 0.361; AlTa2: Ta 0.65 | model | [2] Du 1996 | Table 6, p. 7, row 11 |  |
-| 1737 | Eutectoid: σ -> Ta39Al69 + φ | σ: Ta 0.511; Ta39Al69: Ta 0.376; φ: Ta 0.522 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 12 |  |
-| 1733 | Eutectoid: σ -> Ta39Al69 + φ | σ: Ta 0.51; Ta39Al69: Ta 0.361; φ: Al 0.44186, Ta 0.55814 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 11 |  |
+| 1737 | eutectoid: σ -> Ta39Al69 + φ | σ: Ta 0.511; Ta39Al69: Ta 0.376; φ: Ta 0.522 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 12 |  |
+| 1733 | eutectoid: σ -> Ta39Al69 + φ | σ: Ta 0.51; Ta39Al69: Ta 0.361; φ: Al 0.44186, Ta 0.55814 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 11 |  |
 | 1720 | peritectoid: Al69Ta39 + AlTa2 \<-> AlTa | Al69Ta39: Ta 0.361; AlTa2: Ta 0.65; AlTa: Ta 0.5 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 12 |  |
 | 1719 | peritectoid: Al69Ta39 + AlTa2 \<-> AlTa | Al69Ta39: Ta 0.361; AlTa2: Ta 0.65; AlTa: Ta 0.5 | model | [2] Du 1996 | Table 6, p. 7, row 13 |  |
 | 1620 | peritectoid: Al69Ta39 + AlTa \<-> Al7Ta5 | Al69Ta39: Ta 0.361; AlTa: Ta 0.5; Al7Ta5: Ta 0.416 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 14 |  |
 | 1618 | peritectoid: Al69Ta39 + AlTa \<-> Al7Ta5 | Al69Ta39: Ta 0.361; AlTa: Ta 0.5; Al7Ta5: Ta 0.416 | model | [2] Du 1996 | Table 6, p. 7, row 15 |  |
 | 1500 | peritectoid: Al69Ta39 + Al7Ta5 \<-> Al3Ta2 | Al69Ta39: Ta 0.361; Al7Ta5: Ta 0.416; Al3Ta2: Ta 0.4 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 16 |  |
 | 1499 | peritectoid: Al69Ta39 + Al7Ta5 \<-> Al3Ta2 | Al69Ta39: Ta 0.361; Al7Ta5: Ta 0.416; Al3Ta2: Ta 0.4 | model | [2] Du 1996 | Table 6, p. 7, row 17 |  |
-| 1498.1 | Polymorphic: Al3Ta2-H -> Al3Ta2-II | Al3Ta2-H: Ta 0.4; Al3Ta2-II: Ta 0.4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 6 |  |
+| 1498.1 | polymorphic: Al3Ta2-H -> Al3Ta2-II | Al3Ta2-H: Ta 0.4; Al3Ta2-II: Ta 0.4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 6 |  |
 | 1456 | eutectoid: Al69Ta39 \<-> Al3Ta + Al3Ta2 | Al69Ta39: Ta 0.361; Al3Ta: Ta 0.25; Al3Ta2: Ta 0.4 | model | [2] Du 1996 | Table 6, p. 7, row 19 |  |
 | 1450 | eutectoid: Al69Ta39 \<-> Al3Ta + Al3Ta2 | Al69Ta39: Ta 0.361; Al3Ta: Ta 0.25; Al3Ta2: Ta 0.4 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 18 |  |
-| 1371 | Eutectoid: Ta39Al69 -> ε + φ | Ta39Al69: Ta 0.368; ε: Ta 0.25; φ: Ta 0.524 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 14 |  |
-| 1367 | Eutectoid: Ta39Al69 -> ε + φ | Ta39Al69: Ta 0.356; ε: Ta 0.251; φ: Ta 0.512 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 13 |  |
+| 1371 | eutectoid: Ta39Al69 -> ε + φ | Ta39Al69: Ta 0.368; ε: Ta 0.25; φ: Ta 0.524 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 14 |  |
+| 1367 | eutectoid: Ta39Al69 -> ε + φ | Ta39Al69: Ta 0.356; ε: Ta 0.251; φ: Ta 0.512 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 13 |  |
 | 941 | peritectic: L þ 3 4 (aAl) |  | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | p. 9 | “The temperature of the peritectic reaction L þ 3 4 (aAl) was reported in \[10\] to be 941 K.” |
 | 941 | peritectic |  | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | p. 10 | “The temperature of the peritectic reaction of (aAl) formation is calculated to be 933.7 K, which agrees with our own DTA and DSC measurements and is lower than the value of 941 K reported in \[10\].” |
-| 941 | Peritectic: L + ε -> (αAl) | L: Ta 2.000e-4; ε: Ta 0.25; (αAl): Ta 3.700e-4 | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | Table 4, p. 10, row 15 |  |
+| 941 | peritectic: L + ε -> (αAl) | L: Ta 2.000e-4; ε: Ta 0.25; (αAl): Ta 3.700e-4 | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | Table 4, p. 10, row 15 |  |
 | 941 | peritectic: Liquid + Al3Ta \<-> fcc (Al) | Liquid: Ta 2.200e-4; Al3Ta: Ta 0.25; fcc (Al): Ta 3.700e-4 | experimental | [2] Du 1996; _cites ref. 56Gla_ | Table 6, p. 7, row 20 |  |
 | 935 | peritectic: Liquid + Al3Ta \<-> fcc (Al) | Liquid: Ta 2.500e-4; Al3Ta: Ta 0.25; fcc (Al): Ta 0.0045 | model | [2] Du 1996 | Table 6, p. 7, row 21 |  |
-| 935 | Peritectic: L + ε -> (αAl) | L: Ta 2.500e-4; ε: Ta 0.25; (αAl): Ta 0.0045 | model | [1] Witusiewicz 2010; _cites Du 1996_ [doi](https://doi.org/10.1007/bf02665557) | Table 4, p. 10, row 19 |  |
-| 934 | Peritectic: Liquid + AlM-D0\*22 -> fcc-Al | Liquid: Ta 1.000e-5; AlM-D0\*22: Ta 0.25; fcc-Al: Ta 8.000e-4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 1 |  |
-| 933.8 | Peritectic: L + ε -> (αAl) |  | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 18 |  |
+| 935 | peritectic: L + ε -> (αAl) | L: Ta 2.500e-4; ε: Ta 0.25; (αAl): Ta 0.0045 | model | [1] Witusiewicz 2010; _cites Du 1996_ [doi](https://doi.org/10.1007/bf02665557) | Table 4, p. 10, row 19 |  |
+| 934 | peritectic: Liquid + AlM-D0\*22 -> fcc-Al | Liquid: Ta 1.000e-5; AlM-D0\*22: Ta 0.25; fcc-Al: Ta 8.000e-4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 1 |  |
+| 933.8 | peritectic: L + ε -> (αAl) |  | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 18 |  |
 | 933.7 | peritectic |  | model | [1] Witusiewicz 2010 | p. 10 | “The temperature of the peritectic reaction of (aAl) formation is calculated to be 933.7 K, which agrees with our own DTA and DSC measurements and is lower than the value of 941 K reported in \[10\].” |
-| 933.7 | Peritectic: L + ε -> (αAl) | L: Ta 3.800e-5; ε: Ta 0.247; (αAl): Ta 3.800e-4 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 20 |  |
+| 933.7 | peritectic: L + ε -> (αAl) | L: Ta 3.800e-5; ε: Ta 0.247; (αAl): Ta 3.800e-4 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 20 |  |
 
 ## Formation enthalpies
 
@@ -210,7 +210,7 @@ Table: Phase transition, Al–Ta system
 | Phase transition | 1820 K | 1820 | Ta39Al69 + σ ↔ Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 19 |  |
 | Phase transition | 1822 K | 1822 | Ta39Al69 + ε ↔ L + Ta39Al69; _alloy: Al 0.692, Ta 0.308_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 10 |  |
 | Phase transition | 1840 K | 1840 | peritectic: Al3Ta2; _alloy: Ta 0.4_ | unspecified | [2] Du 1996; _cites ref. 85Sch_ | Table I, p. 2, row 38 |  |
-| Phase transition | 1848 K | 1848 ({'op': '\<', 'printed': '\<1848', 'value_K': 1848.0}) | L + ε ↔ L; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 5 |  |
+| Phase transition | 1848 K | 1848 (\<) | L + ε ↔ L; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 5 |  |
 | Phase transition | 1855 K | 1855 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 47 |  |
 | Phase transition | 1855 K | 1855 | Ta39Al69 ↔ L + Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 23 |  |
 | Phase transition | 1862 K | 1862 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 36 |  |
@@ -227,10 +227,10 @@ Table: Phase transition, Al–Ta system
 | Phase transition | 1885 K | 1885 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 34 |  |
 | Phase transition | 1885 K | 1885 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 37 |  |
 | Phase transition | 1895 K | 1895 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 35 |  |
-| Phase transition | 1900 K | 1900 | congruent | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | p. 3 | “In the literature there are both variants of melting for the 3-phase, congruent at 1823 \[23\] or 1900 K \[20\] and peritectic at 1773 \[44\] or 1824 K \[14\].” |
+| Phase transition | 1900 K | 1900 | congruent transformation | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | p. 3 | “In the literature there are both variants of melting for the 3-phase, congruent at 1823 \[23\] or 1900 K \[20\] and peritectic at 1773 \[44\] or 1824 K \[14\].” |
 | Phase transition | 1966.15 K | 1966.15 | AlTaO4 | experimental | [4] Gebauer 2022; _cites King 1956_ | p. 6 | “The second coefficient is used to stabilize the phase from room temperature to its melting point of 1693 °C, which is in very good agreement with the experimental results of King et al.\[27\]” |
 | Phase transition | 1972 K | 1972 | L + σ ↔ L; _alloy: Al 0.624, Ta 0.376_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 29 |  |
-| Phase transition | 1973 K | 1973 ({'op': '>', 'printed': '>1973', 'value_K': 1973.0}) | Al3Ta; _alloy: Ta 0.25_ | unspecified | [2] Du 1996; _cites ref. 65Bea_ | Table I, p. 2, row 36 |  |
+| Phase transition | 1973 K | 1973 (>) | Al3Ta; _alloy: Ta 0.25_ | unspecified | [2] Du 1996; _cites ref. 65Bea_ | Table I, p. 2, row 36 |  |
 | Phase transition | 1978 K | 1978 | L + σ ↔ L; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 27 |  |
 | Phase transition | 2002 K | 2002 | L + σ ↔ L; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 28 |  |
 | Phase transition | 2063 K | 2063 | L + σ ↔ L; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 39 |  |
@@ -279,7 +279,7 @@ Table: Phase equilibrium, Al–Ta system
 | Phase assemblage |  | 2023 | σ; _alloy: Al 0.416, Ta 0.584_ | experimental | [1] Witusiewicz 2010 | Table 2, p. 4, row 9 |  |
 | Phase assemblage |  | 2273 | σ + β; _alloy: Ta 1_ | experimental | [1] Witusiewicz 2010 | Table 2, p. 4, row 19 |  |
 | Phase assemblage |  | 2273 | σ + β; _alloy: Al 0.12, Ta 0.88_ | experimental | [1] Witusiewicz 2010 | Table 2, p. 4, row 11 |  |
-| Phase composition |  | 1823 | congruent: Al3Ta; _liquid: Ta 0.25; Al3Ta: Ta 0.25_ | unspecified | [2] Du 1996; _cites ref. 73Kim_ | Table I, p. 2, row 37 |  |
+| Phase composition |  | 1823 | congruent melting: Al3Ta; _liquid: Ta 0.25; Al3Ta: Ta 0.25_ | unspecified | [2] Du 1996; _cites ref. 73Kim_ | Table I, p. 2, row 37 |  |
 
 ### Heat capacity / entropy / enthalpy (12)
 

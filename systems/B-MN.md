@@ -119,7 +119,7 @@ Table: Crystal structure, B–Mn system
 | Lattice c | 2.949 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
 | Lattice c | 4.208 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6 |  |
 | Lattice c | 4.208 Å | 298.15 | t-Mn2B; _alloy: Mn 0.666667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 7 |  |
-| lattice  | 122.71 °C | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
+| lattice unspecified axis | 122.71 °C | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
 
 ## Sources
 

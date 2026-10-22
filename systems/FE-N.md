@@ -86,7 +86,7 @@ Table: Phase transition, Fe–N system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 763 K | 763 | magnetic | experimental | [1] Göhring 2016; _cites Wriedt 1987_ | p. 4 | “The c0 phase shows ferromagnetic ordering with a somewhat concentration-dependent Curie temperature around 763 K (490 C).\[12\]” |
 | Phase transition | 839 K | 839 | other: a + e -> c0 + h | model | [1] Göhring 2016 | p. 8 | “The temperature of the transitional reaction U2 as calculated using the dataset from the present work \[839 K (566 C)\] is only slightly below the value of the temperature for this reaction as determined experimentally \[842 ± 2 K (569 ± 2 C)\].\[53\]” |
-| Phase transition | 855 K | 855 (none) | other | model | [1] Göhring 2016 | p. 12 | “The present thermodynamic description predicts that a small miscibility gap occurs in e below approximately 855 K (582 C) close to the line connecting Fe2 N and Fe2 C.” |
+| Phase transition | 855 K | 855 | other | model | [1] Göhring 2016 | p. 12 | “The present thermodynamic description predicts that a small miscibility gap occurs in e below approximately 855 K (582 C) close to the line connecting Fe2 N and Fe2 C.” |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # C–S–Ti system
 
-> C–S–Ti system: 23 accepted literature values (formation 16, crystal structure 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–S–Ti system: 20 accepted literature values (formation 16, crystal structure 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-S-TI.html · Markdown: https://data.orchid-project.org/systems/C-S-TI.md
 
-23 accepted literature values from 1 paper(s) (experimental 8, model 15); 0 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 8, model 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-S-TI.json) · [CSV](https://data.orchid-project.org/systems/C-S-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-S-TI) · [Markdown](https://data.orchid-project.org/systems/C-S-TI.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 15 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 16 |
-| crystal structure | 7 |
+| crystal structure | 4 |
 
 ## Formation enthalpies
 
@@ -49,18 +49,15 @@ Table: Enthalpies of formation, C–S–Ti system (16)
 
 ## Other properties
 
-### Crystal structure (7)
+### Crystal structure (4)
 
 Table: Crystal structure, C–S–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a; _printed: a_ | 0.32 nm per mol-atom | 277.15 | Ti4C2S2; _alloy: S 0.25, Ti 0.5_ | model | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
-| Lattice a; _printed: a_ | 0.32 nm per mol-atom | 277.15 | Ti4C2S2; _alloy: S 0.25, Ti 0.5_ | model | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
-| Lattice a; _printed: a_ | 0.433 nm per mol-atom | 277.15 | TiC; _alloy: S 0, Ti 0.5_ | model | [1] Saeki 2020 | Table 1, p. 4, row 1 |  |
 | Lattice a; _printed: a_ | 0.433 nm per mol-atom | 277.15 | TiC; _alloy: S 0, Ti 0.5_ | model | [1] Saeki 2020 | Table 1, p. 4, row 1 |  |
 | Lattice b; _printed: b_ | 0.32 nm per mol-atom | 277.15 | Ti4C2S2; _alloy: S 0.25, Ti 0.5_ | model | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
-| Lattice c; _printed: c_ | 1.126 nm per mol-atom | 277.15 | Ti4C2S2; _alloy: S 0.25, Ti 0.5_ | model | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
 | Lattice c; _printed: c_ | 1.126 nm per mol-atom | 277.15 | Ti4C2S2; _alloy: S 0.25, Ti 0.5_ | model | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
 
 ## Sources

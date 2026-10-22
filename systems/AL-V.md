@@ -156,12 +156,12 @@ Table: Invariant reactions reported in the literature for the Al–V system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1932.7 | Peritectic: Liquid + bcc-A2 -> Al8V5 | bcc-A2: V 0.471; Al8V5: V 0.384; Liquid: V 0.376 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 6 |  |
-| 1640.1 | Peritectic: Liquid + Al8V5 -> AlM-D0\*22 | Al8V5: V 0.384; AlM-D0\*22: V 0.25; Liquid: V 0.167 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 5 |  |
-| 1007.3 | Peritectic: Liquid + AlM-D0\*22 -> Al23V4 | AlM-D0\*22: V 0.25; Al23V4: V 0.148; Liquid: V 0.003 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 1 |  |
-| 969 | Peritectic: Liquid + Al23V4 -> Al7V | Al23V4: V 0.148; Al7V: V 0.125; Liquid: V 0.002 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 2 |  |
-| 945.2 | Peritectic: Liquid + Al7V -> Al10V | Al7V: V 0.125; Al10V: V 0.091; Liquid: V 0.001 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 3 |  |
-| 935.3 | Peritectic: Liquid + Al10V -> fcc-Al | Al10V: V 0.091; fcc-Al: V 0.001; Liquid: V 0 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 4 |  |
+| 1932.7 | peritectic: Liquid + bcc-A2 -> Al8V5 | bcc-A2: V 0.471; Al8V5: V 0.384; Liquid: V 0.376 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 6 |  |
+| 1640.1 | peritectic: Liquid + Al8V5 -> AlM-D0\*22 | Al8V5: V 0.384; AlM-D0\*22: V 0.25; Liquid: V 0.167 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 5 |  |
+| 1007.3 | peritectic: Liquid + AlM-D0\*22 -> Al23V4 | AlM-D0\*22: V 0.25; Al23V4: V 0.148; Liquid: V 0.003 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 1 |  |
+| 969 | peritectic: Liquid + Al23V4 -> Al7V | Al23V4: V 0.148; Al7V: V 0.125; Liquid: V 0.002 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 2 |  |
+| 945.2 | peritectic: Liquid + Al7V -> Al10V | Al7V: V 0.125; Al10V: V 0.091; Liquid: V 0.001 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 3 |  |
+| 935.3 | peritectic: Liquid + Al10V -> fcc-Al | Al10V: V 0.091; fcc-Al: V 0.001; Liquid: V 0 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 4 |  |
 
 ## Other properties
 
@@ -171,7 +171,7 @@ Table: Phase transition, Al–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 910 K | 910 | congruent | model | [2] Berche 2018 | p. 6 | “The A15 phase is transformed congruently into the A2 phase at 910 K and at 77.6 at.% of V.” |
+| Phase transition | 910 K | 910 | congruent transformation | model | [2] Berche 2018 | p. 6 | “The A15 phase is transformed congruently into the A2 phase at 910 K and at 77.6 at.% of V.” |
 
 ## Sources
 

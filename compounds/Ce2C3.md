@@ -1,20 +1,19 @@
 # Ce2C3: enthalpy of formation
 
-> Enthalpy of formation of Ce2C3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ce2C3: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ce2C3.html · Markdown: https://data.orchid-project.org/compounds/Ce2C3.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 2); experimental median -35.3 kJ/mol-atom (n = 2); Materials Project -24.666 kJ/mol-atom (mp-aaaabdwf); OQMD -11.083 kJ/mol-atom (oqmd-13369).
+1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -35.3 kJ/mol-atom (n = 1); Materials Project -24.666 kJ/mol-atom (mp-aaaabdwf); OQMD -11.083 kJ/mol-atom (oqmd-13369).
 
 Systems: [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ce2C3 reported in the literature (2)
+Table: Enthalpy of formation of Ce2C3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.3 kJ/mol-atom ± 1.1 | Ce2C3 | 298 | experimental | Bomb calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 8 |  |
 | -35.3 kJ/mol-atom ± 1.1 | Ce2C3 | 298 | experimental | Bomb calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 8 |  |
 
 ## DFT formation energies

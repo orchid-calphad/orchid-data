@@ -28,14 +28,14 @@ Table: Phase transition, Ag–Cu–Fe–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1213 K | 1213 | congruent: Silver | experimental | [1] Berche 2011 | Table 3, p. 4, row 2 |  |
-| Phase transition | 1235 K | 1235 | congruent: Silver | experimental | [1] Berche 2011; _cites Lide 1996_ | Table 3, p. 4, row 1 |  |
-| Phase transition | 1321 K | 1321 | congruent: Copper | experimental | [1] Berche 2011 | Table 3, p. 4, row 4 |  |
-| Phase transition | 1358 K | 1358 | congruent: Copper | experimental | [1] Berche 2011; _cites Lide 1996_ | Table 3, p. 4, row 3 |  |
-| Phase transition | 1736 K | 1736 | congruent: Iron | experimental | [1] Berche 2011 | Table 3, p. 4, row 6 |  |
-| Phase transition | 1811 K | 1811 | congruent: Iron | experimental | [1] Berche 2011; _cites Lide 1996_ | Table 3, p. 4, row 5 |  |
-| Phase transition | 2096 K | 2096 | congruent: Vanadium | experimental | [1] Berche 2011 | Table 3, p. 4, row 8 |  |
-| Phase transition | 2183 K | 2183 | congruent: Vanadium | experimental | [1] Berche 2011; _cites Lide 1996_ | Table 3, p. 4, row 7 |  |
+| Phase transition | 1213 K | 1213 | congruent transformation: Silver | experimental | [1] Berche 2011 | Table 3, p. 4, row 2 |  |
+| Phase transition | 1235 K | 1235 | congruent transformation: Silver | experimental | [1] Berche 2011; _cites Lide 1996_ | Table 3, p. 4, row 1 |  |
+| Phase transition | 1321 K | 1321 | congruent transformation: Copper | experimental | [1] Berche 2011 | Table 3, p. 4, row 4 |  |
+| Phase transition | 1358 K | 1358 | congruent transformation: Copper | experimental | [1] Berche 2011; _cites Lide 1996_ | Table 3, p. 4, row 3 |  |
+| Phase transition | 1736 K | 1736 | congruent transformation: Iron | experimental | [1] Berche 2011 | Table 3, p. 4, row 6 |  |
+| Phase transition | 1811 K | 1811 | congruent transformation: Iron | experimental | [1] Berche 2011; _cites Lide 1996_ | Table 3, p. 4, row 5 |  |
+| Phase transition | 2096 K | 2096 | congruent transformation: Vanadium | experimental | [1] Berche 2011 | Table 3, p. 4, row 8 |  |
+| Phase transition | 2183 K | 2183 | congruent transformation: Vanadium | experimental | [1] Berche 2011; _cites Lide 1996_ | Table 3, p. 4, row 7 |  |
 
 ## Sources
 

@@ -69,7 +69,7 @@ Table: Phase transition, Bi–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1943.15 K | 1943.15 | congruent | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | p. 2 | “Except for the La4Bi3 phase, which melts congruently at 1670 C, the other four compounds are formed via peritectic reactions.” |
+| Phase transition | 1943.15 K | 1943.15 | congruent transformation | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | p. 2 | “Except for the La4Bi3 phase, which melts congruently at 1670 C, the other four compounds are formed via peritectic reactions.” |
 
 ## Sources
 

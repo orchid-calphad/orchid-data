@@ -46,10 +46,10 @@ Table: Invariant reactions reported in the literature for the Cu–Mo system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2788.2 | Monotectic: L2 -> (Mo) + L1 | L2: Mo 92.8 (basis unresolved); (Mo): Mo 98.9 (basis unresolved); L1: Mo 16.8 (basis unresolved) | unspecified | [1] Wang 2000; _cites Brewer 1980_ | Table 7, p. 7, row 3 |  |
-| 2787.6 | Monotectic: L2 -> (Mo) + L1 | L2: Mo 93.22 (basis unresolved); (Mo): Mo 98.96 (basis unresolved); L1: Mo 15.89 (basis unresolved) | experimental | [1] Wang 2000 | Table 7, p. 7, row 4 |  |
-| 1357.3 | Eutectic: L1 -> (Cu) + (Mo) | L1: Mo 0.119; (Cu): Mo 0.023; (Mo): Mo 99.962 (basis unresolved) | experimental | [1] Wang 2000 | Table 7, p. 7, row 2 |  |
-| 1356.6 | Eutectic: L1 -> (Cu) + (Mo) | L1: Mo 0.101; (Cu): Mo 0.092; (Mo): Mo 99.958 (basis unresolved) | unspecified | [1] Wang 2000; _cites Brewer 1980_ | Table 7, p. 7, row 1 |  |
+| 2788.2 | monotectic: L2 -> (Mo) + L1 | L2: Mo 92.8 (basis unresolved); (Mo): Mo 98.9 (basis unresolved); L1: Mo 16.8 (basis unresolved) | unspecified | [1] Wang 2000; _cites Brewer 1980_ | Table 7, p. 7, row 3 |  |
+| 2787.6 | monotectic: L2 -> (Mo) + L1 | L2: Mo 93.22 (basis unresolved); (Mo): Mo 98.96 (basis unresolved); L1: Mo 15.89 (basis unresolved) | experimental | [1] Wang 2000 | Table 7, p. 7, row 4 |  |
+| 1357.3 | eutectic: L1 -> (Cu) + (Mo) | L1: Mo 0.119; (Cu): Mo 0.023; (Mo): Mo 99.962 (basis unresolved) | experimental | [1] Wang 2000 | Table 7, p. 7, row 2 |  |
+| 1356.6 | eutectic: L1 -> (Cu) + (Mo) | L1: Mo 0.101; (Cu): Mo 0.092; (Mo): Mo 99.958 (basis unresolved) | unspecified | [1] Wang 2000; _cites Brewer 1980_ | Table 7, p. 7, row 1 |  |
 
 ## Sources
 

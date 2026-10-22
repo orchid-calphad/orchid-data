@@ -60,18 +60,18 @@ Table: Invariant reactions reported in the literature for the Mg–Pu system (13
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1416.15 | L2 + gas -> L1 | L2: Pu 0.993; gas: Pu 0; L1: Pu 0.107 | model | [1] Wang 2009 | Table 3, p. 4, row 11 |  |
-| 913.15 | Monotectic: L2 -> L1 + εPu | L2: Pu 0.995; L1: Pu 0.077; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
-| 913.15 | Monotectic: L2 -> L1 + εPu | L2: Pu 0.995; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 9 |  |
-| 832.15 | Eutectic: L1 -> (Mg) + εPu | L1: Pu 0.069; (Mg): Pu 0.037; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
-| 829.15 | Eutectic: L1 -> (Mg) + εPu | L1: Pu 0.065; (Mg): Pu 0.038; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 7 |  |
+| 913.15 | monotectic: L2 -> L1 + εPu | L2: Pu 0.995; L1: Pu 0.077; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
+| 913.15 | monotectic: L2 -> L1 + εPu | L2: Pu 0.995; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 9 |  |
+| 832.15 | eutectic: L1 -> (Mg) + εPu | L1: Pu 0.069; (Mg): Pu 0.037; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
+| 829.15 | eutectic: L1 -> (Mg) + εPu | L1: Pu 0.065; (Mg): Pu 0.038; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 7 |  |
 | 826.15 | eutectic: L1 -> (Mg) + ePu |  | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | p. 2 | “Later, Axler et al. \[23\] determined the phase diagram in the MgPu binary system using metallography, electron microprobe, X-ray diffraction (XRD) and differential thermal analysis (DTA), where the temperature (553 ± 3 °C) of the L1 M (Mg) + ePu eutectic reaction is consistent with that (550 °C) determined by Schonfeld” |
 | 823.15 | eutectic: L1 -> (Mg) + ePu |  | experimental | [1] Wang 2009; _cites Schonfeld 1959_ | p. 2 | “Later, Axler et al. \[23\] determined the phase diagram in the MgPu binary system using metallography, electron microprobe, X-ray diffraction (XRD) and differential thermal analysis (DTA), where the temperature (553 ± 3 °C) of the L1 M (Mg) + ePu eutectic reaction is consistent with that (550 °C) determined by Schonfeld” |
-| 711.15 | Peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.02; δPu: Pu 1; Mg6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 5 |  |
-| 710.15 | Peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.021; δPu: Pu 1; Mg6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
-| 680.15 | Peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
-| 680.15 | Peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 3 |  |
-| 500.15 | Peritectoid: Mg4Pu + γPu -> Mg2Pu | Mg4Pu: Pu 0.2; γPu: Pu 1; Mg2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
-| 498.15 | Peritectoid: Mg4Pu + γPu -> Mg2Pu | Mg4Pu: Pu 0.2; γPu: Pu 1; Mg2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 1 |  |
+| 711.15 | peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.02; δPu: Pu 1; Mg6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 5 |  |
+| 710.15 | peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.021; δPu: Pu 1; Mg6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
+| 680.15 | peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
+| 680.15 | peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 3 |  |
+| 500.15 | peritectoid: Mg4Pu + γPu -> Mg2Pu | Mg4Pu: Pu 0.2; γPu: Pu 1; Mg2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
+| 498.15 | peritectoid: Mg4Pu + γPu -> Mg2Pu | Mg4Pu: Pu 0.2; γPu: Pu 1; Mg2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 1 |  |
 
 ## Sources
 

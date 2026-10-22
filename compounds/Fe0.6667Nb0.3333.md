@@ -1,23 +1,22 @@
 # Fe0.6667Nb0.3333: enthalpy of formation
 
-> Enthalpy of formation of Fe0.6667Nb0.3333: 10 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Fe0.6667Nb0.3333: 9 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe0.6667Nb0.3333.html · Markdown: https://data.orchid-project.org/compounds/Fe0.6667Nb0.3333.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 2, model 8).
+9 accepted literature formation-enthalpy value(s) (experimental 2, model 7).
 
 Systems: [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe0.6667Nb0.3333 reported in the literature (10)
+Table: Enthalpy of formation of Fe0.6667Nb0.3333 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -23.7 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 | 1200 | experimental | emf | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2 |  |
 | -20.5 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 | 1250 | experimental | emf | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1 |  |
 | -23.67 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000 | Table I, p. 2, row 9 |  |
-| -23.67 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000 | Table I, p. 2, row 10 |  |
 | -23.41 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8 |  |
 | -22.5 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 67_ | Table I, p. 2, row 3 |  |
 | -21 kJ/mol (basis unstated) | Fe0.6667Nb0.3333 |  | model |  | [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.html) | [1] Toffolon 2000; _cites ref. 77_ | Table I, p. 2, row 5 |  |

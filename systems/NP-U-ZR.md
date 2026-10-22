@@ -31,34 +31,34 @@ Table: Phase transition, Np–U–Zr system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1228 K | 1228 | other: R5; _alloy: Np 0.15, U 0.55, Zr 0.3_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 13 |  |
 | Phase transition | 1243 K | 1243 | other: R1; _alloy: Np 0.3, U 0.3, Zr 0.4_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 1 |  |
-| Phase transition | 1257 K | 1257 | solidus: R1; _alloy: Np 0.3, U 0.3, Zr 0.4_ | model | [1] Xie 2018 | Table 2, p. 6, row 2 |  |
+| Phase transition | 1257 K | 1257 | other: R1; _alloy: Np 0.3, U 0.3, Zr 0.4_ | model | [1] Xie 2018 | Table 2, p. 6, row 2 |  |
 | Phase transition | 1267 K | 1267 | other: R7; _alloy: Np 0.3, U 0.45, Zr 0.25_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 19 |  |
-| Phase transition | 1278 K | 1278 | solidus: R7; _alloy: Np 0.3, U 0.45, Zr 0.25_ | model | [1] Xie 2018 | Table 2, p. 6, row 20 |  |
+| Phase transition | 1278 K | 1278 | other: R7; _alloy: Np 0.3, U 0.45, Zr 0.25_ | model | [1] Xie 2018 | Table 2, p. 6, row 20 |  |
 | Phase transition | 1323 K | 1323 | other: R9; _alloy: Np 0.16, U 0.6, Zr 0.24_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 22 |  |
-| Phase transition | 1328 K | 1328 | solidus: R6; _alloy: Np 0.2, U 0.7, Zr 0.1_ | model | [1] Xie 2018 | Table 2, p. 6, row 17 |  |
+| Phase transition | 1328 K | 1328 | other: R6; _alloy: Np 0.2, U 0.7, Zr 0.1_ | model | [1] Xie 2018 | Table 2, p. 6, row 17 |  |
 | Phase transition | 1338 K | 1338 | other: R6; _alloy: Np 0.2, U 0.7, Zr 0.1_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 16 |  |
 | Phase transition | 1355 K | 1355 | other: R11; _alloy: Np 0.1, U 0.8, Zr 0.1_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 28 |  |
 | Phase transition | 1373 K | 1373 | other: R2; _alloy: Np 0.11, U 0.67, Zr 0.22_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 4 |  |
 | Phase transition | 1388 K | 1388 | other: R10; _alloy: Np 0.08, U 0.69, Zr 0.23_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 25 |  |
-| Phase transition | 1389 K | 1389 | liquidus: R6; _alloy: Np 0.2, U 0.7, Zr 0.1_ | model | [1] Xie 2018 | Table 2, p. 6, row 18 |  |
-| Phase transition | 1390 K | 1390 | solidus: R11; _alloy: Np 0.1, U 0.8, Zr 0.1_ | model | [1] Xie 2018 | Table 2, p. 6, row 29 |  |
-| Phase transition | 1400 K | 1400 | solidus: R9; _alloy: Np 0.16, U 0.6, Zr 0.24_ | model | [1] Xie 2018 | Table 2, p. 6, row 23 |  |
-| Phase transition | 1429 K | 1429 | solidus: R5; _alloy: Np 0.15, U 0.55, Zr 0.3_ | model | [1] Xie 2018 | Table 2, p. 6, row 14 |  |
-| Phase transition | 1436 K | 1436 | solidus: R2; _alloy: Np 0.11, U 0.67, Zr 0.22_ | model | [1] Xie 2018 | Table 2, p. 6, row 5 |  |
+| Phase transition | 1389 K | 1389 | other: R6; _alloy: Np 0.2, U 0.7, Zr 0.1_ | model | [1] Xie 2018 | Table 2, p. 6, row 18 |  |
+| Phase transition | 1390 K | 1390 | other: R11; _alloy: Np 0.1, U 0.8, Zr 0.1_ | model | [1] Xie 2018 | Table 2, p. 6, row 29 |  |
+| Phase transition | 1400 K | 1400 | other: R9; _alloy: Np 0.16, U 0.6, Zr 0.24_ | model | [1] Xie 2018 | Table 2, p. 6, row 23 |  |
+| Phase transition | 1429 K | 1429 | other: R5; _alloy: Np 0.15, U 0.55, Zr 0.3_ | model | [1] Xie 2018 | Table 2, p. 6, row 14 |  |
+| Phase transition | 1436 K | 1436 | other: R2; _alloy: Np 0.11, U 0.67, Zr 0.22_ | model | [1] Xie 2018 | Table 2, p. 6, row 5 |  |
 | Phase transition | 1437 K | 1437 | other: R4; _alloy: Np 0.05, U 0.8, Zr 0.15_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 10 |  |
-| Phase transition | 1438 K | 1438 | liquidus: R7; _alloy: Np 0.3, U 0.45, Zr 0.25_ | model | [1] Xie 2018 | Table 2, p. 6, row 21 |  |
-| Phase transition | 1443 K | 1443 | liquidus: R11; _alloy: Np 0.1, U 0.8, Zr 0.1_ | model | [1] Xie 2018 | Table 2, p. 6, row 30 |  |
+| Phase transition | 1438 K | 1438 | other: R7; _alloy: Np 0.3, U 0.45, Zr 0.25_ | model | [1] Xie 2018 | Table 2, p. 6, row 21 |  |
+| Phase transition | 1443 K | 1443 | other: R11; _alloy: Np 0.1, U 0.8, Zr 0.1_ | model | [1] Xie 2018 | Table 2, p. 6, row 30 |  |
 | Phase transition | 1443 K | 1443 | other: R3; _alloy: Np 0.05, U 0.7, Zr 0.25_ | experimental | [1] Xie 2018; _cites Rodriguez 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2991110-x) | Table 2, p. 6, row 7 |  |
-| Phase transition | 1447 K | 1447 | solidus: R4; _alloy: Np 0.05, U 0.8, Zr 0.15_ | model | [1] Xie 2018 | Table 2, p. 6, row 11 |  |
-| Phase transition | 1467 K | 1467 | solidus: R10; _alloy: Np 0.08, U 0.69, Zr 0.23_ | model | [1] Xie 2018 | Table 2, p. 6, row 26 |  |
-| Phase transition | 1505 K | 1505 | solidus: R3; _alloy: Np 0.05, U 0.7, Zr 0.25_ | model | [1] Xie 2018 | Table 2, p. 6, row 8 |  |
-| Phase transition | 1507 K | 1507 | liquidus: R1; _alloy: Np 0.3, U 0.3, Zr 0.4_ | model | [1] Xie 2018 | Table 2, p. 6, row 3 |  |
-| Phase transition | 1515 K | 1515 | liquidus: R4; _alloy: Np 0.05, U 0.8, Zr 0.15_ | model | [1] Xie 2018 | Table 2, p. 6, row 12 |  |
-| Phase transition | 1532 K | 1532 | liquidus: R9; _alloy: Np 0.16, U 0.6, Zr 0.24_ | model | [1] Xie 2018 | Table 2, p. 6, row 24 |  |
-| Phase transition | 1552 K | 1552 | liquidus: R2; _alloy: Np 0.11, U 0.67, Zr 0.22_ | model | [1] Xie 2018 | Table 2, p. 6, row 6 |  |
-| Phase transition | 1572 K | 1572 | liquidus: R10; _alloy: Np 0.08, U 0.69, Zr 0.23_ | model | [1] Xie 2018 | Table 2, p. 6, row 27 |  |
-| Phase transition | 1588 K | 1588 | liquidus: R5; _alloy: Np 0.15, U 0.55, Zr 0.3_ | model | [1] Xie 2018 | Table 2, p. 6, row 15 |  |
-| Phase transition | 1614 K | 1614 | liquidus: R3; _alloy: Np 0.05, U 0.7, Zr 0.25_ | model | [1] Xie 2018 | Table 2, p. 6, row 9 |  |
+| Phase transition | 1447 K | 1447 | other: R4; _alloy: Np 0.05, U 0.8, Zr 0.15_ | model | [1] Xie 2018 | Table 2, p. 6, row 11 |  |
+| Phase transition | 1467 K | 1467 | other: R10; _alloy: Np 0.08, U 0.69, Zr 0.23_ | model | [1] Xie 2018 | Table 2, p. 6, row 26 |  |
+| Phase transition | 1505 K | 1505 | other: R3; _alloy: Np 0.05, U 0.7, Zr 0.25_ | model | [1] Xie 2018 | Table 2, p. 6, row 8 |  |
+| Phase transition | 1507 K | 1507 | other: R1; _alloy: Np 0.3, U 0.3, Zr 0.4_ | model | [1] Xie 2018 | Table 2, p. 6, row 3 |  |
+| Phase transition | 1515 K | 1515 | other: R4; _alloy: Np 0.05, U 0.8, Zr 0.15_ | model | [1] Xie 2018 | Table 2, p. 6, row 12 |  |
+| Phase transition | 1532 K | 1532 | other: R9; _alloy: Np 0.16, U 0.6, Zr 0.24_ | model | [1] Xie 2018 | Table 2, p. 6, row 24 |  |
+| Phase transition | 1552 K | 1552 | other: R2; _alloy: Np 0.11, U 0.67, Zr 0.22_ | model | [1] Xie 2018 | Table 2, p. 6, row 6 |  |
+| Phase transition | 1572 K | 1572 | other: R10; _alloy: Np 0.08, U 0.69, Zr 0.23_ | model | [1] Xie 2018 | Table 2, p. 6, row 27 |  |
+| Phase transition | 1588 K | 1588 | other: R5; _alloy: Np 0.15, U 0.55, Zr 0.3_ | model | [1] Xie 2018 | Table 2, p. 6, row 15 |  |
+| Phase transition | 1614 K | 1614 | other: R3; _alloy: Np 0.05, U 0.7, Zr 0.25_ | model | [1] Xie 2018 | Table 2, p. 6, row 9 |  |
 
 ## Sources
 

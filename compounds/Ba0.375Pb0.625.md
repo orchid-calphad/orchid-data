@@ -1,34 +1,26 @@
 # Ba0.375Pb0.625: enthalpy of formation
 
-> Enthalpy of formation of Ba0.375Pb0.625: 16 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ba0.375Pb0.625: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html · Markdown: https://data.orchid-project.org/compounds/Ba0.375Pb0.625.md
 
-16 accepted literature formation-enthalpy value(s) (experimental 4, model 12); experimental median -60 kJ/mol-atom (n = 4); Materials Project -48.835 kJ/mol-atom (mp-aaabjxih); OQMD -48.642 kJ/mol-atom (oqmd-20937).
+8 accepted literature formation-enthalpy value(s) (experimental 2, model 6); experimental median -60 kJ/mol-atom (n = 2); Materials Project -48.835 kJ/mol-atom (mp-aaabjxih); OQMD -48.642 kJ/mol-atom (oqmd-20937).
 
 Systems: [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ba0.375Pb0.625 reported in the literature (16)
+Table: Enthalpy of formation of Ba0.375Pb0.625 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -60 kJ/mol-atom ± 2 | βBa0.375Pb0.625 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 20 |  |
-| -60 kJ/mol-atom ± 2 | βBa0.375Pb0.625 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 20 |  |
-| -60 kJ/mol-atom ± 2 | αBa0.375Pb0.625 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 24 |  |
 | -60 kJ/mol-atom ± 2 | αBa0.375Pb0.625 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 24 |  |
 | -62.811 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 25 |  |
-| -62.811 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 25 |  |
-| -62.809 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 21 |  |
 | -62.809 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 21 |  |
 | -62.709 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 23 |  |
-| -62.709 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 23 |  |
-| -62.708 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 19 |  |
 | -62.708 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 19 |  |
 | -59.844 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 26 |  |
-| -59.844 kJ/mol-atom | αBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 26 |  |
-| -59.843 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 22 |  |
 | -59.843 kJ/mol-atom | βBa0.375Pb0.625 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 22 |  |
 
 ## DFT formation energies

@@ -58,12 +58,12 @@ Table: Invariant reactions reported in the literature for the Mg–Mn system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1447 | Monotectic: Liquid" -> Liquid' + bcc-A2 | Liquid": Mn 0.937; Liquid': Mn 0.063; bcc-A2: Mn 0.998 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 5 |  |
-| 1409.6 | Metatectic: bcc-A2 -> Liquid' + fcc-A1 | bcc-A2: Mn 0.998; Liquid': Mn 0.057; fcc-A1: Mn 0.999 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 4 |  |
-| 1351.7 | Metatectic: fcc-A1 -> Liquid' + cub-A13 | fcc-A1: Mn 0.999; Liquid': Mn 0.048; cub-A13: Mn 1 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 3 |  |
-| 980.5 | Metatectic: cub-A13 -> Liquid' + cbcc-A12 | cub-A13: Mn 0.999; Liquid': Mn 0.012; cbcc-A12: Mn 1 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 2 |  |
+| 1447 | monotectic: Liquid" -> Liquid' + bcc-A2 | Liquid": Mn 0.937; Liquid': Mn 0.063; bcc-A2: Mn 0.998 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 5 |  |
+| 1409.6 | metatectic/catatectic: bcc-A2 -> Liquid' + fcc-A1 | bcc-A2: Mn 0.998; Liquid': Mn 0.057; fcc-A1: Mn 0.999 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 4 |  |
+| 1351.7 | metatectic/catatectic: fcc-A1 -> Liquid' + cub-A13 | fcc-A1: Mn 0.999; Liquid': Mn 0.048; cub-A13: Mn 1 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 3 |  |
+| 980.5 | metatectic/catatectic: cub-A13 -> Liquid' + cbcc-A12 | cub-A13: Mn 0.999; Liquid': Mn 0.012; cbcc-A12: Mn 1 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 2 |  |
 | 924.15 | peritectic: L⬘ + ␣Mn ⳱ (Mg) |  | model | [2] Gröbner 2005 | p. 4 | “The first equilibrium is given by the thermodynamic assessment as a peritectic reaction L⬘ + ␣Mn ⳱ (Mg) at 651 °C based on the Mn solubility data in solid and liquid magnesium (Fig. 4).” |
-| 923.8 | Peritectic: Liquid' + cbcc-A12 -> hcp-A3 | Liquid': Mn 0.008; cbcc-A12: Mn 1; hcp-A3: Mn 0.009 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 1 |  |
+| 923.8 | peritectic: Liquid' + cbcc-A12 -> hcp-A3 | Liquid': Mn 0.008; cbcc-A12: Mn 1; hcp-A3: Mn 0.009 | model | [1] Hämäläinen 1998 | Table I, p. 233, row 1 |  |
 
 ## Other properties
 

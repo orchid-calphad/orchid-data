@@ -1,10 +1,10 @@
 # Nd–Zr system
 
-> Nd–Zr system: 54 accepted literature values (phase transition 42, invariant reaction 9, phase equilibrium 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–Zr system: 38 accepted literature values (phase transition 26, invariant reaction 9, phase equilibrium 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-ZR.html · Markdown: https://data.orchid-project.org/systems/ND-ZR.md
 
-54 accepted literature values from 2 paper(s) (experimental 32, model 3, unspecified 19); 2 calculated phase diagram(s).
+38 accepted literature values from 2 paper(s) (experimental 32, model 3, unspecified 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-ZR.json) · [CSV](https://data.orchid-project.org/systems/ND-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-ZR/NdZr-14Che.json) · [Markdown](https://data.orchid-project.org/systems/ND-ZR.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 32 |
 | model | 3 |
-| unspecified | 19 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 9 |
-| phase transition | 42 |
+| phase transition | 26 |
 | phase equilibrium | 3 |
 
 ## Calculated phase diagrams
@@ -67,7 +67,7 @@ Table: Invariant reactions reported in the literature for the Nd–Zr system (9)
 
 ## Other properties
 
-### Phase transition (42)
+### Phase transition (26)
 
 Table: Phase transition, Nd–Zr system
 
@@ -78,16 +78,8 @@ Table: Phase transition, Nd–Zr system
 | Phase transition | 1108.7 K | 1108.7 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 31 |  |
 | Phase transition | 1109.4 K | 1109.4 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 23 |  |
 | Phase transition | 1111.9 K | 1111.9 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 19 |  |
-| Phase transition | 1112 K | 1112 | invariant | experimental | [2] Cheng 2014 | p. 6 | “There are two thermal signals in most of the Nd-Zr alloys, indicating two invariant reactions at 1268 K and 1112 K (995 °C and 839 °C), while the overlapped peaks are detected in the alloy 1 when comparing the DSC curves with a heating rate of 5 K/min to that of 2 K/min, as shown in Figure 10.” |
+| Phase transition | 1112 K | 1112 | other | experimental | [2] Cheng 2014 | p. 6 | “There are two thermal signals in most of the Nd-Zr alloys, indicating two invariant reactions at 1268 K and 1112 K (995 °C and 839 °C), while the overlapped peaks are detected in the alloy 1 when comparing the DSC curves with a heating rate of 5 K/min to that of 2 K/min, as shown in Figure 10.” |
 | Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 8 |  |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 16 |  |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 32 |  |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 20 |  |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 12 |  |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 28 |  |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 36 |  |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 2 |  |
-| Phase transition | 1112.7 K | 1112.7 | (βZr) ↔ (αNd) + (αZr) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 24 |  |
 | Phase transition | 1114 K | 1114 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 27 |  |
 | Phase transition | 1114.3 K | 1114.3 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 7 |  |
 | Phase transition | 1114.6 K | 1114.6 | (βZr) ↔ (αNd) + (αZr) | experimental | [2] Cheng 2014 | Table III, p. 7, row 15 |  |
@@ -103,16 +95,8 @@ Table: Phase transition, Nd–Zr system
 | Phase transition | 1266.4 K | 1266.4 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 37 |  |
 | Phase transition | 1266.6 K | 1266.6 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 29 |  |
 | Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 22 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 34 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 30 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 14 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 38 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 6 |  |
 | Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 21 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 18 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 26 |  |
-| Phase transition | 1268 K | 1268 | Liquid + (βZr) ↔ (αNd) | unspecified | [2] Cheng 2014 | Table III, p. 7, row 10 |  |
-| Phase transition | 1268 K | 1268 | invariant | experimental | [2] Cheng 2014 | p. 6 | “There are two thermal signals in most of the Nd-Zr alloys, indicating two invariant reactions at 1268 K and 1112 K (995 °C and 839 °C), while the overlapped peaks are detected in the alloy 1 when comparing the DSC curves with a heating rate of 5 K/min to that of 2 K/min, as shown in Figure 10.” |
+| Phase transition | 1268 K | 1268 | other | experimental | [2] Cheng 2014 | p. 6 | “There are two thermal signals in most of the Nd-Zr alloys, indicating two invariant reactions at 1268 K and 1112 K (995 °C and 839 °C), while the overlapped peaks are detected in the alloy 1 when comparing the DSC curves with a heating rate of 5 K/min to that of 2 K/min, as shown in Figure 10.” |
 | Phase transition | 1269.5 K | 1269.5 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 25 |  |
 | Phase transition | 1270.3 K | 1270.3 | Liquid + (βZr) ↔ (αNd) | experimental | [2] Cheng 2014 | Table III, p. 7, row 33 |  |
 

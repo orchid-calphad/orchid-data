@@ -29,29 +29,29 @@ Table: Phase transition, Ag–Au–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 771 K | 771 | liquidus; _alloy: Ag 0.183, Au 0.549, Ge 0.268_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 14 |  |
-| Phase transition | 839 K | 839 | liquidus; _alloy: Ag 0.168, Au 0.506, Ge 0.325_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 16 |  |
-| Phase transition | 894 K | 894 | liquidus: Tliq; _alloy: Ag 0.581, Au 0.193, Ge 0.225_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 20 |  |
-| Phase transition | 899 K | 899 | liquidus; _alloy: Ag 0.203, Au 0.611, Ge 0.185_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 9 |  |
-| Phase transition | 912 K | 912 | liquidus; _alloy: Ag 0.148, Au 0.445, Ge 0.406_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 20 |  |
-| Phase transition | 915 K | 915 | liquidus: Tliq; _alloy: Ag 0.562, Au 0.187, Ge 0.25_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 21 |  |
-| Phase transition | 919 K | 919 | liquidus; _alloy: Ag 0.142, Au 0.428, Ge 0.428_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 22 |  |
-| Phase transition | 971 K | 971 | liquidus: Tliq; _alloy: Ag 0.525, Au 0.175, Ge 0.3_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 22 |  |
-| Phase transition | 984 K | 984 | liquidus; _alloy: Ag 0.125, Au 0.375, Ge 0.5_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 24 |  |
-| Phase transition | 1005 K | 1005 | liquidus: Tliq; _alloy: Ag 0.486, Au 0.162, Ge 0.351_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 23 |  |
-| Phase transition | 1033 K | 1033 | liquidus: Tliq; _alloy: Ag 0.45, Au 0.15, Ge 0.4_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 24 |  |
-| Phase transition | 1037 K | 1037 | liquidus; _alloy: Ag 0.1, Au 0.3, Ge 0.6_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 26 |  |
-| Phase transition | 1039 K | 1039 | liquidus: Tliq; _alloy: Ag 0.428, Au 0.142, Ge 0.429_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 25 |  |
-| Phase transition | 1040 K | 1040 | liquidus; _alloy: Ag 0.212, Au 0.637, Ge 0.15_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 6 |  |
-| Phase transition | 1057 K | 1057 | liquidus: Tliq; _alloy: Ag 0.637, Au 0.212, Ge 0.15_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 18 |  |
-| Phase transition | 1068 K | 1068 | liquidus: Tliq; _alloy: Ag 0.626, Au 0.208, Ge 0.165_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 19 |  |
-| Phase transition | 1077 K | 1077 | liquidus: Tliq; _alloy: Ag 0.375, Au 0.125, Ge 0.5_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 26 |  |
-| Phase transition | 1103 K | 1103 | liquidus: Tliq; _alloy: Ag 0.3, Au 0.1, Ge 0.6_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 27 |  |
-| Phase transition | 1154 K | 1154 | liquidus: Tliq; _alloy: Ag 0.66, Au 0.22, Ge 0.12_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 17 |  |
-| Phase transition | 1178 K | 1178 | liquidus; _alloy: Ag 0.225, Au 0.675, Ge 0.1_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 4 |  |
-| Phase transition | 1188 K | 1188 | liquidus: Tliq; _alloy: Ag 0.696, Au 0.232, Ge 0.072_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 16 |  |
-| Phase transition | 1216 K | 1216 | liquidus: Tliq; _alloy: Ag 0.712, Au 0.237, Ge 0.05_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 15 |  |
-| Phase transition | 1260 K | 1260 | liquidus; _alloy: Ag 0.237, Au 0.712, Ge 0.05_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 2 |  |
+| Phase transition | 771 K | 771 | other; _alloy: Ag 0.183, Au 0.549, Ge 0.268_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 14 |  |
+| Phase transition | 839 K | 839 | other; _alloy: Ag 0.168, Au 0.506, Ge 0.325_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 16 |  |
+| Phase transition | 894 K | 894 | other: Tliq; _alloy: Ag 0.581, Au 0.193, Ge 0.225_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 20 |  |
+| Phase transition | 899 K | 899 | other; _alloy: Ag 0.203, Au 0.611, Ge 0.185_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 9 |  |
+| Phase transition | 912 K | 912 | other; _alloy: Ag 0.148, Au 0.445, Ge 0.406_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 20 |  |
+| Phase transition | 915 K | 915 | other: Tliq; _alloy: Ag 0.562, Au 0.187, Ge 0.25_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 21 |  |
+| Phase transition | 919 K | 919 | other; _alloy: Ag 0.142, Au 0.428, Ge 0.428_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 22 |  |
+| Phase transition | 971 K | 971 | other: Tliq; _alloy: Ag 0.525, Au 0.175, Ge 0.3_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 22 |  |
+| Phase transition | 984 K | 984 | other; _alloy: Ag 0.125, Au 0.375, Ge 0.5_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 24 |  |
+| Phase transition | 1005 K | 1005 | other: Tliq; _alloy: Ag 0.486, Au 0.162, Ge 0.351_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 23 |  |
+| Phase transition | 1033 K | 1033 | other: Tliq; _alloy: Ag 0.45, Au 0.15, Ge 0.4_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 24 |  |
+| Phase transition | 1037 K | 1037 | other; _alloy: Ag 0.1, Au 0.3, Ge 0.6_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 26 |  |
+| Phase transition | 1039 K | 1039 | other: Tliq; _alloy: Ag 0.428, Au 0.142, Ge 0.429_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 25 |  |
+| Phase transition | 1040 K | 1040 | other; _alloy: Ag 0.212, Au 0.637, Ge 0.15_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 6 |  |
+| Phase transition | 1057 K | 1057 | other: Tliq; _alloy: Ag 0.637, Au 0.212, Ge 0.15_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 18 |  |
+| Phase transition | 1068 K | 1068 | other: Tliq; _alloy: Ag 0.626, Au 0.208, Ge 0.165_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 19 |  |
+| Phase transition | 1077 K | 1077 | other: Tliq; _alloy: Ag 0.375, Au 0.125, Ge 0.5_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 26 |  |
+| Phase transition | 1103 K | 1103 | other: Tliq; _alloy: Ag 0.3, Au 0.1, Ge 0.6_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 27 |  |
+| Phase transition | 1154 K | 1154 | other: Tliq; _alloy: Ag 0.66, Au 0.22, Ge 0.12_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 17 |  |
+| Phase transition | 1178 K | 1178 | other; _alloy: Ag 0.225, Au 0.675, Ge 0.1_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 4 |  |
+| Phase transition | 1188 K | 1188 | other: Tliq; _alloy: Ag 0.696, Au 0.232, Ge 0.072_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 16 |  |
+| Phase transition | 1216 K | 1216 | other: Tliq; _alloy: Ag 0.712, Au 0.237, Ge 0.05_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 15 |  |
+| Phase transition | 1260 K | 1260 | other; _alloy: Ag 0.237, Au 0.712, Ge 0.05_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 2 |  |
 
 ### Phase equilibrium (17)
 

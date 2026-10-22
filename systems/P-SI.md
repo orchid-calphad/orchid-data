@@ -36,20 +36,20 @@ Table: Invariant reactions reported in the literature for the P–Si system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1451.15 | max: Congruent melting L = SiP2 | L: P 0.666667, Si 0.333333; SiP2: P 0.666667, Si 0.333333 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 11 |  |
-| 1443.15 | max: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 7 |  |
-| 1442.15 | max: Congruent melting L = SiP2 | L: P 0.666667, Si 0.333333; SiP2: P 0.666667, Si 0.333333 | model | [1] Liang 2014 | Table 4, p. 7, row 13 |  |
-| 1434.15 | max: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | model | [1] Liang 2014 | Table 4, p. 7, row 10 |  |
-| 1430.15 | e: Eutectic L = SiP + SiP2 | SiP: P 0.5, Si 0.5 (basis unresolved); SiP2: P 0.666667, Si 0.333333 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 16 |  |
-| 1429.15 | max: Congruent melting L = SiP2 | L: P 0.666667, Si 0.333333; SiP2: P 0.666667, Si 0.333333 | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 12 |  |
-| 1412.15 | max: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Safarian 2011_ [doi](https://doi.org/10.1557/jmr.2011.130) | Table 4, p. 7, row 8 |  |
-| 1410.15 | max: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 9 |  |
-| 1407.15 | e: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 6 |  |
-| 1407.15 | e: Eutectic L = SiP + SiP2 | SiP: P 0.5, Si 0.5; SiP2: P 0.666667, Si 0.333333 | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 15 |  |
+| 1451.15 | other: Congruent melting L = SiP2 | L: P 0.666667, Si 0.333333; SiP2: P 0.666667, Si 0.333333 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 11 |  |
+| 1443.15 | other: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 7 |  |
+| 1442.15 | other: Congruent melting L = SiP2 | L: P 0.666667, Si 0.333333; SiP2: P 0.666667, Si 0.333333 | model | [1] Liang 2014 | Table 4, p. 7, row 13 |  |
+| 1434.15 | other: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | model | [1] Liang 2014 | Table 4, p. 7, row 10 |  |
+| 1430.15 | eutectic: Eutectic L = SiP + SiP2 | SiP: P 0.5, Si 0.5 (basis unresolved); SiP2: P 0.666667, Si 0.333333 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 16 |  |
+| 1429.15 | other: Congruent melting L = SiP2 | L: P 0.666667, Si 0.333333; SiP2: P 0.666667, Si 0.333333 | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 12 |  |
+| 1412.15 | other: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Safarian 2011_ [doi](https://doi.org/10.1557/jmr.2011.130) | Table 4, p. 7, row 8 |  |
+| 1410.15 | other: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 9 |  |
+| 1407.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 6 |  |
+| 1407.15 | eutectic: Eutectic L = SiP + SiP2 | SiP: P 0.5, Si 0.5; SiP2: P 0.666667, Si 0.333333 | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 15 |  |
 | 1407 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5; L: P 39.4 (basis unresolved) | model | [2] Favre 2024 | Table 9, p. 50, row 6 |  |
-| 1404.15 | e: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 5 |  |
-| 1404.15 | e: Eutectic L = (Si) + SiP | L: P 0.32807, Si 0.67193; SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Giessen 1959_ | Table 4, p. 7, row 1 |  |
-| 1404.15 | e: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 2 |  |
+| 1404.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 5 |  |
+| 1404.15 | eutectic: Eutectic L = (Si) + SiP | L: P 0.32807, Si 0.67193; SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Giessen 1959_ | Table 4, p. 7, row 1 |  |
+| 1404.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 2 |  |
 | 1404 | eutectic |  | experimental | [2] Favre 2024 | p. 12 | “Conventional thermal analysis TGA-DTA experiment of Safarian and Tangstad \[6\] previously mentioned in this paper is able to determine the low phosphorus composition of the Si(s. sat. P) in equilibrium with liquid eutectic as mentioned above: indeed at XP = 0.0094 a thermal event occurs at 1400K slightly lower than the eutectic plateau at 1404K.” |
 | 1404 | eutectic |  | experimental | [2] Favre 2024; _cites ref. 43_ | p. 32 | “We retain P activity values from Blitz\[43\] and Korb and Hein\[44\] as thermodynamic data for the diphasic Si-SiP up to the eutectic temperature at 1404K.” |
 | 1404 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5; L: P 34.3 (basis unresolved) | unspecified | [2] Favre 2024; _cites ref. 1_ | Table 9, p. 50, row 5 |  |
@@ -57,11 +57,11 @@ Table: Invariant reactions reported in the literature for the P–Si system (26)
 | 1404 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5 | unspecified | [2] Favre 2024; _cites as well as Safarian and Tangstad\[6\] namely for liquidus retained data_ | Table 9, p. 50, row 1 |  |
 | 1404 | eutectic |  | experimental | [2] Favre 2024 | p. 6 | “The mean value of the eutectic temperature is therefore close to that adopted by other authors at 1404K.” |
 | 1404 | eutectic |  | experimental | [2] Favre 2024 | p. 5 | “Eutectic temperature plateau is found at 1404 ± 2 K with an extrapolated molar fraction XP ≈ 0.35 ± 0.03.” |
-| 1402.15 | e: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | experimental | [1] Liang 2014; _cites Safarian 2011_ [doi](https://doi.org/10.1557/jmr.2011.130) | Table 4, p. 7, row 3 |  |
+| 1402.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | experimental | [1] Liang 2014; _cites Safarian 2011_ [doi](https://doi.org/10.1557/jmr.2011.130) | Table 4, p. 7, row 3 |  |
 | 1402 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5 | unspecified | [2] Favre 2024; _cites ref. 6_ | Table 9, p. 50, row 4 |  |
-| 1400.15 | e: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 4 |  |
+| 1400.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 4 |  |
 | 1400 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5 | experimental | [2] Favre 2024; _cites values for SiP and – (ii) Philipp and Schmidt \[59\] for SiP2_ | Table 9, p. 50, row 3 |  |
-| 1398.15 | e: Eutectic L = SiP + SiP2 | SiP: P 0.5, Si 0.5; SiP2: P 0.666667, Si 0.333333 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 14 |  |
+| 1398.15 | eutectic: Eutectic L = SiP + SiP2 | SiP: P 0.5, Si 0.5; SiP2: P 0.666667, Si 0.333333 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 14 |  |
 
 ## Formation enthalpies
 
@@ -102,10 +102,10 @@ Table: Phase transition, P–Si system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1237.15 K | 1237.15 | other | experimental | [1] Liang 2014 | p. 2 | “Differential thermal analysis in static air from room temperature to 1015 C shows heating signals in the range 964-990 C but no thermal activity was seen upon cooling.” |
 | Phase transition | 1375 K | 1375 | other | model | [2] Favre 2024 | p. 48 | “We observed that applying a 1 bar pressure, the SiP compound decomposes at 1375K before melting - equilibrium with 1 bar pressure of P2(g) + P4(g).” |
-| Phase transition | 1410.15 K | 1410.15 | congruent | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | p. 9 | “They chose 1137 C as congruent melting temperature of SiP, but it is noted that the pressure-discrepancy increases in their Gas + SiP + liquid range.\[5\]” |
+| Phase transition | 1410.15 K | 1410.15 | congruent melting | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | p. 9 | “They chose 1137 C as congruent melting temperature of SiP, but it is noted that the pressure-discrepancy increases in their Gas + SiP + liquid range.\[5\]” |
 | Phase transition | 1413.15 K | 1413.15 | other | experimental | [1] Liang 2014; _cites Zumbusch 1939_ [doi](https://doi.org/10.1002/zaac.19392420304) | p. 6 | “In the original paper,\[44\] the main focus was on germanium phosphide, GeP, while the thermal decomposition temperature of SiP phase was only mentioned at one atmosphere to be 1140 C and another Ref 25 was given, which is also cited by Korb et al.\[24\] but the original source is not available.” |
-| Phase transition | 1443.15 K | 1443.15 | congruent | experimental | [1] Liang 2014; _cites Ugai 1987_ | p. 9 | “It was found impossible to reconcile in a consistent thermodynamic assessment the experimentally determined\[34\] high congruent melting temperature of SiP (1170 C, Fig. 2) with the low experimental pressure value at that point from the same group of authors\[26\] (2.7 bar, Fig. 4); the calculated values are 1161 C and 13 bar.” |
-| Phase transition | 1443.15 K | 1443.15 | congruent | experimental | [1] Liang 2014; _cites Ugai 1987_ | p. 10 | “The only direct experimental value of 1170 C by Ugai et al.\[34\] is reflected better by the current modeling; the calculated congruent melting temperature is 24 K above that of.\[5\]” |
+| Phase transition | 1443.15 K | 1443.15 | congruent melting | experimental | [1] Liang 2014; _cites Ugai 1987_ | p. 9 | “It was found impossible to reconcile in a consistent thermodynamic assessment the experimentally determined\[34\] high congruent melting temperature of SiP (1170 C, Fig. 2) with the low experimental pressure value at that point from the same group of authors\[26\] (2.7 bar, Fig. 4); the calculated values are 1161 C and 13 bar.” |
+| Phase transition | 1443.15 K | 1443.15 | congruent transformation | experimental | [1] Liang 2014; _cites Ugai 1987_ | p. 10 | “The only direct experimental value of 1170 C by Ugai et al.\[34\] is reflected better by the current modeling; the calculated congruent melting temperature is 24 K above that of.\[5\]” |
 | Phase transition | 1685 K | 1685 |  | experimental | [2] Favre 2024 | p. 6 | “In addition, in order to match the current melting temperature of silicon (1685 K), temperatures taken from the work of Giessen and Vogel \[10\] are increased by +6 K for the liquidus as well as for the eutectic temperatures (see more information in Supplementary Elements_Item I).” |
 
 ### Phase equilibrium (7)
@@ -128,7 +128,7 @@ Table: Heat capacity / entropy / enthalpy, P–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298(SiP, est.)_ | 65 J/mol (basis unstated)/K | 298 ({'op': '>', 'printed': '>298K Not published', 'value_K': 298.0}) | SiP; _alloy: Si 0.5_ | experimental | [2] Favre 2024; _cites ref. 59_ | Table 6, p. 44, row 3 |  |
+| Entropy; _printed: S°298(SiP, est.)_ | 65 J/mol (basis unstated)/K | 298 (>) | SiP; _alloy: Si 0.5_ | experimental | [2] Favre 2024; _cites ref. 59_ | Table 6, p. 44, row 3 |  |
 | Entropy; _printed: S°298(SiP)_ | 34.78 J/mol (basis unstated)/K | 298.15 | SiP; _alloy: Si 0.5_ | experimental | [2] Favre 2024; _cites ref. 55_ | Table 6, p. 44, row 2 |  |
 | Entropy; _printed: S°298_ | 6.3 J/mol-atom/K | 298.15 | SiP; _alloy: Si 0.5_ | unspecified | [1] Liang 2014; _cites ref. 1938Bil_ | Table 5, p. 8, row 3 |  |
 | Entropy; _printed: S°298_ | 14.7 J/mol-atom/K | 298.15 | SiP; _alloy: Si 0.5_ | model | [1] Liang 2014; _cites ref. 2011Aru_ | Table 5, p. 8, row 5 |  |
@@ -148,7 +148,7 @@ Table: Activity / EMF / Gibbs energy, P–Si system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Vapour pressure; _printed: p_ | 3.37 bar | 1398 |  | experimental | [2] Favre 2024 | p. 29 | “Eutectic temperature between the two compounds is 1398K and 3.37 bar obtained by extrapolation.” |
-| Vapour pressure; _printed: p_ | 0.944 bar | 1400 (none) |  | experimental | [2] Favre 2024 | p. 29 | “A minimum temperature as extrapolated corresponds to the eutectic between Si and SiP is at about 1400 K for 0.944 bar according to their original graph.” |
+| Vapour pressure; _printed: p_ | 0.944 bar | 1400 |  | experimental | [2] Favre 2024 | p. 29 | “A minimum temperature as extrapolated corresponds to the eutectic between Si and SiP is at about 1400 K for 0.944 bar according to their original graph.” |
 | Vapour pressure; _printed: p_ | 2.5 bar | 1439 |  | experimental | [2] Favre 2024; _cites ref. 45_ | p. 29 | “The maximum temperature would correspond to the congruent melting point of SiP that is observed at 1439 ± 5 K for 2.5 bar a pressure composed mainly by P2(g) + P4(g).” |
 | Vapour pressure; _printed: total pressure_ | 2.7 bar | 1443 |  | experimental | [2] Favre 2024 | p. 29 | “Full results allow the authors to propose the melting temperature of the two compounds as well as their total pressure in equilibrium: for SiP 1443K and 2.7 bar and for SiP2 1451K and 3.7 bar.” |
 | Vapour pressure; _printed: total pressure_ | 3.7 bar | 1451 |  | experimental | [2] Favre 2024 | p. 29 | “Full results allow the authors to propose the melting temperature of the two compounds as well as their total pressure in equilibrium: for SiP 1443K and 2.7 bar and for SiP2 1451K and 3.7 bar.” |
@@ -159,7 +159,7 @@ Table: Model expression, P–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: C°p(SiP2)_ | expression: 67.02 + 17.14·10^-3 T | 298 ({'op': '>', 'printed': '>298K Not published', 'value_K': 298.0}) | SiP2 | experimental | [2] Favre 2024; _cites ref. 59_ | Table 6, p. 44, row 3 |  |
+| Heat capacity; _printed: C°p(SiP2)_ | expression: 67.02 + 17.14·10^-3 T | 298 (>) | SiP2 | experimental | [2] Favre 2024; _cites ref. 59_ | Table 6, p. 44, row 3 |  |
 
 ## Sources
 

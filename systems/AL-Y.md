@@ -1,10 +1,10 @@
 # Al–Y system
 
-> Al–Y system: 125 accepted literature values (invariant reaction 100, formation 14, phase transition 11) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Y system: 123 accepted literature values (invariant reaction 100, formation 12, phase transition 11) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-Y.html · Markdown: https://data.orchid-project.org/systems/AL-Y.md
 
-125 accepted literature values from 4 paper(s) (experimental 51, model 74); 6 calculated phase diagram(s).
+123 accepted literature values from 4 paper(s) (experimental 51, model 72); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-Y/AlY-06AlS.json) · [Markdown](https://data.orchid-project.org/systems/AL-Y.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 51 |
-| model | 74 |
+| model | 72 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 100 |
 | phase transition | 11 |
-| formation | 14 |
+| formation | 12 |
 
 ## Calculated phase diagrams
 
@@ -254,7 +254,7 @@ Table: Invariant reactions reported in the literature for the Al–Y system (100
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Y system (14)
+Table: Enthalpies of formation, Al–Y system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -267,10 +267,8 @@ Table: Enthalpies of formation, Al–Y system (14)
 | YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -80.9 kJ/mol-atom | 298.15 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 3 |  |
 | YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom |  | model | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995 | Table 1, p. 2, row 4 |  |
 | YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom | 1473 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 1, p. 2, row 9 |  |
-| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom |  | model | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995 | Table 1, p. 2, row 10 |  |
 | YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom |  | model | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995 | Table 1, p. 2, row 2 |  |
 | YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom | 763 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites F 1988_ | Table 1, p. 2, row 7 |  |
-| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom |  | model | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995 | Table 1, p. 2, row 8 |  |
 | YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.1 kJ/mol-atom | 298 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1 |  |
 
 ## Other properties
@@ -287,10 +285,10 @@ Table: Phase transition, Al–Y system
 | Phase transition | 918.15 K | 918.15 | Al3Y | experimental | [3] Shakhshir 2006; _cites Bailey 1967_ [doi](https://doi.org/10.1107/s0365110x67003603) | p. 3 | “A transformation of Al3Y from ␣ to ␤ was noticed by Bailey\[23\] at 645 °C; however, the two different phases ␣ and ␤ were not confirmed by Raggio et al.,\[24\] or by Lingmin et al.\[20\]” |
 | Phase transition | 1053.15 K | 1053.15 | other | experimental | [3] Shakhshir 2006; _cites Kh 1990_ | p. 11 | “However, the calculated melting point of this compound is 1085 °C, which is much higher than ∼780 °C obtained by Odinaev and Ganiev.\[11\]” |
 | Phase transition | 1358.15 K | 1358.15 | other | model | [3] Shakhshir 2006 | p. 11 | “However, the calculated melting point of this compound is 1085 °C, which is much higher than ∼780 °C obtained by Odinaev and Ganiev.\[11\]” |
-| Phase transition | 1373.15 K | 1373.15 | congruent | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2 | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
+| Phase transition | 1373.15 K | 1373.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2 | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
 | Phase transition | 1748.15 K | 1748.15 | other | experimental | [3] Shakhshir 2006 | p. 5 | “This discrepancy is probably caused by the difficulty in obtaining accurate measurements in this region, due to the existence of the high melting Al2Y compound (Tm ⳱ 1475 °C).” |
 | Phase transition | 1751.15 K | 1751.15 | polymorphic: ␣ ↔ ␤ | experimental | [3] Shakhshir 2006 | p. 2 | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
-| Phase transition | 1758.15 K | 1758.15 | congruent | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2 | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
+| Phase transition | 1758.15 K | 1758.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2 | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
 | Phase transition | 1795.15 K | 1795.15 | ␤Y | experimental | [3] Shakhshir 2006 | p. 2 | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
 
 ## Sources

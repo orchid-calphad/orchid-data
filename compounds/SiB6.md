@@ -1,24 +1,21 @@
 # SiB6: enthalpy of formation
 
-> Enthalpy of formation of SiB6: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of SiB6: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SiB6.html · Markdown: https://data.orchid-project.org/compounds/SiB6.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 4, unspecified 2).
+3 accepted literature formation-enthalpy value(s) (experimental 2, unspecified 1).
 
 Systems: [B–Si](https://data.orchid-project.org/systems/B-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SiB6 reported in the literature (6)
+Table: Enthalpy of formation of SiB6 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -148 kJ/mol (basis unstated) ± 7.5 | SiB6 | 1757 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4 |  |
-| -148 kJ/mol (basis unstated) ± 7.5 | SiB6 | 1757 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4 |  |
 | -121 kJ/mol (basis unstated) ± 48 | SiB6 | 1800 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
-| -121 kJ/mol (basis unstated) ± 48 | SiB6 | 1800 | experimental |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
-| -122.2 kJ/mol (basis unstated) | SiB6 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 3 |  |
 | -122.2 kJ/mol (basis unstated) | SiB6 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 3 |  |
 
 ## Sources

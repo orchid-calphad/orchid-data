@@ -71,7 +71,7 @@ Table: Phase transition, Dy–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1423 K | 1423 | congruent | experimental | [1] Kardellass 2023 | p. 3 | “Within the four compounds, only two with the composition Ln73Ru27, melt congruently at 1173 K for Gd73Ru27 and 1423 K for Dy73Ru27.” |
+| Phase transition | 1423 K | 1423 | congruent transformation | experimental | [1] Kardellass 2023 | p. 3 | “Within the four compounds, only two with the composition Ln73Ru27, melt congruently at 1173 K for Gd73Ru27 and 1423 K for Dy73Ru27.” |
 
 ## Sources
 

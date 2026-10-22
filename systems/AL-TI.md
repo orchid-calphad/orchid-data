@@ -1,10 +1,10 @@
 # Al–Ti system
 
-> Al–Ti system: 378 accepted literature values (invariant reaction 165, phase transition 142, formation 51, phase equilibrium 18) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ti system: 377 accepted literature values (invariant reaction 164, phase transition 142, formation 51, phase equilibrium 18) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TI.html · Markdown: https://data.orchid-project.org/systems/AL-TI.md
 
-378 accepted literature values from 8 paper(s) (experimental 189, model 145, DFT 21, unspecified 23); 4 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+377 accepted literature values from 8 paper(s) (experimental 188, model 145, DFT 21, unspecified 23); 4 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TI/AlTi-00Ohn.json) · [Markdown](https://data.orchid-project.org/systems/AL-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 189 |
+| experimental | 188 |
 | model | 145 |
 | DFT | 21 |
 | unspecified | 23 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 165 |
+| invariant reaction | 164 |
 | phase transition | 142 |
 | phase equilibrium | 18 |
 | formation | 51 |
@@ -127,175 +127,174 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Ti system (165)
+Table: Invariant reactions reported in the literature for the Al–Ti system (164)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2123 | peritectic |  | experimental | [1] Ilatovskaia 2017 | p. 4 | “Therefore, it was shown experimentally that Al2TiO5 melted by peritectic reaction, L ? Al2O3 $ Al2TiO5, at 2123 K using DTA followed by” |
-| 1989 | Congruent: L ↔ β | L: Al 0.212; β: Al 0.212 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 4 |  |
-| 1983 | Congruent: L ↔ β | L: Al 0.085; β: Al 0.085 | experimental | [2] Witusiewicz 2008; _cites Ogden 1951_ | Table 4, p. 6, row 1 |  |
-| 1963 | Congruent: L ↔ β | L: Al 0.096; β: Al 0.096 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 5 |  |
-| 1963 | Congruent: L ↔ β | L: Al 0.085; β: Al 0.085 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 3 |  |
-| 1962 | Congruent: L ↔ β |  | experimental | [2] Witusiewicz 2008 | Table 4, p. 6, row 2 |  |
-| 1793 | Peritectic: L + β ↔ α |  | experimental | [2] Witusiewicz 2008; _cites Bulanova 2004_ [doi](https://doi.org/10.1007/s11669-004-0110-0) | Table 4, p. 6, row 10 |  |
-| 1776 | Peritectic: L + β ↔ α | L: Al 0.509; β: Al 0.445; α: Al 0.46 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 13 |  |
-| 1775.9 | Peritectic: Liquid + bcc-A2 -> hcp-A3 | L: Ti 0.491; bcc-A2: Ti 0.555; hcp-A3: Ti 0.54 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 7 |  |
+| 1989 | congruent melting: L ↔ β | L: Al 0.212; β: Al 0.212 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 4 |  |
+| 1983 | congruent melting: L ↔ β | L: Al 0.085; β: Al 0.085 | experimental | [2] Witusiewicz 2008; _cites Ogden 1951_ | Table 4, p. 6, row 1 |  |
+| 1963 | congruent melting: L ↔ β | L: Al 0.096; β: Al 0.096 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 5 |  |
+| 1963 | congruent melting: L ↔ β | L: Al 0.085; β: Al 0.085 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 3 |  |
+| 1962 | congruent melting: L ↔ β |  | experimental | [2] Witusiewicz 2008 | Table 4, p. 6, row 2 |  |
+| 1793 | peritectic: L + β ↔ α |  | experimental | [2] Witusiewicz 2008; _cites Bulanova 2004_ [doi](https://doi.org/10.1007/s11669-004-0110-0) | Table 4, p. 6, row 10 |  |
+| 1776 | peritectic: L + β ↔ α | L: Al 0.509; β: Al 0.445; α: Al 0.46 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 13 |  |
+| 1775.9 | peritectic: Liquid + bcc-A2 -> hcp-A3 | L: Ti 0.491; bcc-A2: Ti 0.555; hcp-A3: Ti 0.54 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 7 |  |
 | 1768.15 | peritectic: L + (βTi) -> (αTi) | L: Al 0.49; (βTi): Al 0.465; (αTi): Al 0.47 | experimental | [4] Kattner 1992; _cites Mishurda_ | Table II, p. 4, row 2 |  |
 | 1765.43 | L + β-Ti -> α-Ti |  | model | [5] Liang 2024 | Table 3, p. 8, row 2 |  |
-| 1764 | Peritectic: L + β ↔ α | L: Al 0.495; β: Al 0.446; α: Al 0.467 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 11 |  |
-| 1764 | Peritectic: L + β ↔ α | L: Al 0.494; β: Al 0.446; α: Al 0.467 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 14 |  |
+| 1764 | peritectic: L + β ↔ α | L: Al 0.495; β: Al 0.446; α: Al 0.467 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 11 |  |
+| 1764 | peritectic: L + β ↔ α | L: Al 0.494; β: Al 0.446; α: Al 0.467 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 14 |  |
 | 1763.15 | peritectic: L + (βTi) -> (αTi) | L: Al 0.494; (βTi): Al 0.448; (αTi): Al 0.473 | model | [4] Kattner 1992 | Table II, p. 4, row 1 |  |
-| 1763 | Peritectic: L + β ↔ α | L: Al 0.48; β: Al 0.435; α: Al 0.46 | unspecified | [2] Witusiewicz 2008; _cites Yu 2000_ | Table 4, p. 6, row 8 |  |
-| 1763 | Peritectic: L + β ↔ α | L: Al 0.495; β: Al 0.465; α: Al 0.475 | unspecified | [2] Witusiewicz 2008; _cites Perepezko 1993_ | Table 4, p. 6, row 6 |  |
-| 1763 | Peritectic: L + β ↔ α | L: Al 0.497; β: Al 0.46; α: Al 0.479 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 6, row 12 |  |
-| 1759 | Peritectic: L + β ↔ α | L: Al 0.478; β: Al 0.445; α: Al 0.462 | experimental | [2] Witusiewicz 2008; _cites Hall 1990_ [doi](https://doi.org/10.1016/0956-7151%2890%2990208-x) | Table 4, p. 6, row 7 |  |
-| 1745 | Peritectic: L + β ↔ α |  | experimental | [2] Witusiewicz 2008; _cites Ence 1961_ | Table 4, p. 6, row 9 |  |
-| 1737 | Peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | experimental | [2] Witusiewicz 2008; _cites Ogden 1951_ | Table 4, p. 6, row 17 |  |
-| 1736 | Peritectic: L + α ↔ γ | L: Al 0.549; α: Al 0.517; γ: Al 0.547 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 6, row 24 |  |
+| 1763 | peritectic: L + β ↔ α | L: Al 0.48; β: Al 0.435; α: Al 0.46 | unspecified | [2] Witusiewicz 2008; _cites Yu 2000_ | Table 4, p. 6, row 8 |  |
+| 1763 | peritectic: L + β ↔ α | L: Al 0.495; β: Al 0.465; α: Al 0.475 | unspecified | [2] Witusiewicz 2008; _cites Perepezko 1993_ | Table 4, p. 6, row 6 |  |
+| 1763 | peritectic: L + β ↔ α | L: Al 0.497; β: Al 0.46; α: Al 0.479 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 6, row 12 |  |
+| 1759 | peritectic: L + β ↔ α | L: Al 0.478; β: Al 0.445; α: Al 0.462 | experimental | [2] Witusiewicz 2008; _cites Hall 1990_ [doi](https://doi.org/10.1016/0956-7151%2890%2990208-x) | Table 4, p. 6, row 7 |  |
+| 1745 | peritectic: L + β ↔ α |  | experimental | [2] Witusiewicz 2008; _cites Ence 1961_ | Table 4, p. 6, row 9 |  |
+| 1737 | peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | experimental | [2] Witusiewicz 2008; _cites Ogden 1951_ | Table 4, p. 6, row 17 |  |
+| 1736 | peritectic: L + α ↔ γ | L: Al 0.549; α: Al 0.517; γ: Al 0.547 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 6, row 24 |  |
 | 1735.95 | peritectic: L + (αTi) -> TiAl | L: Al 0.551; (αTi): Al 0.514; TiAl: Al 0.55 | model | [4] Kattner 1992 | Table II, p. 4, row 3 |  |
 | 1735.15 | peritectic: L + (αTi) -> TiAl | L: Al 0.56; (αTi): Al 0.51; TiAl: Al 0.5, Ti 0.5 | experimental | [4] Kattner 1992; _cites Mishurda_ | Table II, p. 4, row 4 |  |
-| 1735 | Peritectic: L + α ↔ γ | L: Al 0.56; α: Al 0.51; γ: Al 0.53 | unspecified | [2] Witusiewicz 2008; _cites Perepezko 1993_ | Table 4, p. 6, row 15 |  |
-| 1733 | Peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | experimental | [2] Witusiewicz 2008; _cites McPherson 1954_ | Table 4, p. 6, row 20 |  |
+| 1735 | peritectic: L + α ↔ γ | L: Al 0.56; α: Al 0.51; γ: Al 0.53 | unspecified | [2] Witusiewicz 2008; _cites Perepezko 1993_ | Table 4, p. 6, row 15 |  |
+| 1733 | peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | experimental | [2] Witusiewicz 2008; _cites McPherson 1954_ | Table 4, p. 6, row 20 |  |
 | 1730.61 | L + α-Ti -> L10-TiAl | L10-TiAl: Ti 0.5 | model | [5] Liang 2024 | Table 3, p. 8, row 5 |  |
-| 1729 | Peritectic: L + α ↔ γ | L: Al 0.59; α: Al 0.505; γ: Al 0.545 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 23 |  |
-| 1729 | Peritectic: L + α ↔ γ | L: Al 0.547; α: Al 0.515; γ: Al 0.546 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 26 |  |
-| 1729 | Peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | unspecified | [2] Witusiewicz 2008; _cites Anderson 1991_ | Table 4, p. 6, row 16 |  |
-| 1725 | Peritectic: L + α ↔ γ | L: Al 0.567; γ: Al 0.535 | unspecified | [2] Witusiewicz 2008; _cites Schuster 1990_ | Table 4, p. 6, row 18 |  |
-| 1723 | Peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | experimental | [2] Witusiewicz 2008 | Table 4, p. 6, row 22 |  |
-| 1717 | Peritectic: L + α ↔ γ | L: Al 0.564; α: Al 0.502; γ: Al 0.541 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 25 |  |
-| 1716.7 | Peritectic: Liquid + hcp-A3 -> AlTi-L10 | L: Ti 0.436; hcp-A3: Ti 0.498; AlTi-L10: Ti 0.459 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 6 |  |
-| 1715 | Peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | experimental | [2] Witusiewicz 2008; _cites Hall 1990_ [doi](https://doi.org/10.1016/0956-7151%2890%2990208-x) | Table 4, p. 6, row 19 |  |
+| 1729 | peritectic: L + α ↔ γ | L: Al 0.59; α: Al 0.505; γ: Al 0.545 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 23 |  |
+| 1729 | peritectic: L + α ↔ γ | L: Al 0.547; α: Al 0.515; γ: Al 0.546 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 26 |  |
+| 1729 | peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | unspecified | [2] Witusiewicz 2008; _cites Anderson 1991_ | Table 4, p. 6, row 16 |  |
+| 1725 | peritectic: L + α ↔ γ | L: Al 0.567; γ: Al 0.535 | unspecified | [2] Witusiewicz 2008; _cites Schuster 1990_ | Table 4, p. 6, row 18 |  |
+| 1723 | peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | experimental | [2] Witusiewicz 2008 | Table 4, p. 6, row 22 |  |
+| 1717 | peritectic: L + α ↔ γ | L: Al 0.564; α: Al 0.502; γ: Al 0.541 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 25 |  |
+| 1716.7 | peritectic: Liquid + hcp-A3 -> AlTi-L10 | L: Ti 0.436; hcp-A3: Ti 0.498; AlTi-L10: Ti 0.459 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 6 |  |
+| 1715 | peritectic: L + α ↔ γ | γ: Al 0.5, Ti 0.5 | experimental | [2] Witusiewicz 2008; _cites Hall 1990_ [doi](https://doi.org/10.1016/0956-7151%2890%2990208-x) | Table 4, p. 6, row 19 |  |
 | 1706.15 | L + TiAl -> h-TiAl2 | L: Al 0.72; TiAl: Al 0.5, Ti 0.5 | experimental | [4] Kattner 1992; _cites Schuster 1990_ | Table IV, p. 8, row 2 |  |
 | 1705 | L + γ ↔ ζ | L: Al 0.655; γ: Al 0.621; ζ: Al 0.637 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 31 |  |
 | 1703.15 | L + TiAl -> h-TiAl2 | L: Al 0.698; TiAl: Al 0.649; h-TiAl2: Al 0.667 | model | [4] Kattner 1992 | Table IV, p. 8, row 1 |  |
 | 1698.15 | peritectic: L + TiAl -> Ti2Al5 | L: Al 0.73; TiAl: Al 0.5, Ti 0.5; Ti2Al5: Al 0.714286, Ti 0.285714 | experimental | [4] Kattner 1992; _cites Mishurda_ | Table II, p. 4, row 8 |  |
 | 1698.15 | L + TiAl -> h-TiAl2 | L: Al 0.73; TiAl: Al 0.5, Ti 0.5 | unspecified | [4] Kattner 1992; _cites Mishurda_ | Table IV, p. 8, row 3 |  |
-| 1698 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.78; ζ: Al 0.715; ε(h): Al 0.75 | experimental | [2] Witusiewicz 2008; _cites Bulanova 2004_ [doi](https://doi.org/10.1007/s11669-004-0110-0) | Table 4, p. 6, row 37 |  |
-| 1698 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.78; ζ: Al 0.715; ε(h): Al 0.75 | experimental | [2] Witusiewicz 2008; _cites Bulanova 2004_ [doi](https://doi.org/10.1007/s11669-004-0110-0) | Table 4, p. 6, row 36 |  |
+| 1698 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.78; ζ: Al 0.715; ε(h): Al 0.75 | experimental | [2] Witusiewicz 2008; _cites Bulanova 2004_ [doi](https://doi.org/10.1007/s11669-004-0110-0) | Table 4, p. 6, row 37 |  |
 | 1689.15 | L + h-TiAl2 -> Ti2Al5 | L: Al 0.765; h-TiAl2: Al 0.667; Ti2Al5: Al 0.714286, Ti 0.285714 | experimental | [4] Kattner 1992; _cites Schuster 1990_ | Table IV, p. 8, row 5 |  |
 | 1689.15 | peritectic: L + TiAl -> Ti2Al5 | L: Al 0.76; TiAl: Al 0.64; Ti2Al5: Al 0.714286, Ti 0.285714 | experimental | [4] Kattner 1992; _cites Schuster 1990_ | Table II, p. 4, row 7 |  |
 | 1689.05 | peritectic: L + TiAl -> Ti2Al5 | L: Al 0.725; TiAl: Al 0.665; Ti2Al5: Al 0.714 | model | [4] Kattner 1992 | Table II, p. 4, row 5 |  |
-| 1689 | Peritectic: L + γ ↔ ζ or L + γ ↔ Ti5Al11 or else L + Ti1-xAl1+x ↔ Ti5Al11 | L: Al 0.719; γ: Al 0.5, Ti 0.5; ζ: Al 0.714286, Ti 0.285714 | unspecified | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 6, row 28 |  |
-| 1689 | Peritectic: L + γ ↔ ζ or L + γ ↔ Ti5Al11 or else L + Ti1-xAl1+x ↔ Ti5Al11 | L: Al 0.719; γ: Al 0.676; ζ: Al 0.714 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 6, row 29 |  |
+| 1689 | peritectic: L + γ ↔ ζ or L + γ ↔ Ti5Al11 or else L + Ti1-xAl1+x ↔ Ti5Al11 | L: Al 0.719; γ: Al 0.5, Ti 0.5; ζ: Al 0.714286, Ti 0.285714 | unspecified | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 6, row 28 |  |
+| 1689 | peritectic: L + γ ↔ ζ or L + γ ↔ Ti5Al11 or else L + Ti1-xAl1+x ↔ Ti5Al11 | L: Al 0.719; γ: Al 0.676; ζ: Al 0.714 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 6, row 29 |  |
 | 1688.76 | L + L10-TiAl -> D023-Ti5Al11 | L10-TiAl: Ti 0.5; D023-Ti5Al11: Ti 0.3125 | model | [5] Liang 2024 | Table 3, p. 8, row 6 |  |
 | 1688.25 | L + h-TiAl2 -> Ti2Al5 | L: Al 0.732; h-TiAl2: Al 0.667; Ti2Al5: Al 0.714 | model | [4] Kattner 1992 | Table IV, p. 8, row 4 |  |
 | 1688.15 | peritectic: L + TiAl -> Ti2Al5 | L: Al 0.68; TiAl: Al 0.5, Ti 0.5; Ti2Al5: Al 0.714286, Ti 0.285714 | experimental | [4] Kattner 1992; _cites Kaltenbach 1989_ | Table II, p. 4, row 6 |  |
-| 1688 | Peritectic: L + γ ↔ ζ or L + γ ↔ Ti5Al11 or else L + Ti1-xAl1+x ↔ Ti5Al11 | L: Al 0.68; γ: Al 0.5, Ti 0.5; ζ: Al 0.714286, Ti 0.285714 | unspecified | [2] Witusiewicz 2008; _cites Kaltenbach 1989_ | Table 4, p. 6, row 27 |  |
-| 1685 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.775; ζ: Al 0.73; ε(h): Al 0.75 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 39 |  |
-| 1683 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | ζ: Al 0.714286, Ti 0.285714 | experimental | [2] Witusiewicz 2008; _cites Kornilov 1956_ | Table 4, p. 6, row 32 |  |
-| 1681 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | ζ: Al 0.714286, Ti 0.285714 | experimental | [2] Witusiewicz 2008; _cites Palm 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900022-5) | Table 4, p. 6, row 35 |  |
-| 1678 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | ζ: Al 0.714286, Ti 0.285714 | experimental | [2] Witusiewicz 2008 | Table 4, p. 6, row 38 |  |
+| 1688 | peritectic: L + γ ↔ ζ or L + γ ↔ Ti5Al11 or else L + Ti1-xAl1+x ↔ Ti5Al11 | L: Al 0.68; γ: Al 0.5, Ti 0.5; ζ: Al 0.714286, Ti 0.285714 | unspecified | [2] Witusiewicz 2008; _cites Kaltenbach 1989_ | Table 4, p. 6, row 27 |  |
+| 1685 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.775; ζ: Al 0.73; ε(h): Al 0.75 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 39 |  |
+| 1683 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | ζ: Al 0.714286, Ti 0.285714 | experimental | [2] Witusiewicz 2008; _cites Kornilov 1956_ | Table 4, p. 6, row 32 |  |
+| 1681 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | ζ: Al 0.714286, Ti 0.285714 | experimental | [2] Witusiewicz 2008; _cites Palm 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900022-5) | Table 4, p. 6, row 35 |  |
+| 1678 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | ζ: Al 0.714286, Ti 0.285714 | experimental | [2] Witusiewicz 2008 | Table 4, p. 6, row 38 |  |
 | 1669.15 | peritectic: L + Ti2Al5 -> TiAl3 | Ti2Al5: Al 0.714286, Ti 0.285714; TiAl3: Al 0.75, Ti 0.25 | experimental | [4] Kattner 1992; _cites Mishurda_ | Table II, p. 4, row 12 |  |
 | 1669 | L + Ti2Al5 ↔ ε(h) | L: Al 0.749; Ti2Al5: Al 0.704; ε(h): Al 0.742 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 42 |  |
 | 1668.15 | peritectic: L + Ti2Al5 -> TiAl3 | L: Al 0.78; Ti2Al5: Al 0.714286, Ti 0.285714; TiAl3: Al 0.75, Ti 0.25 | experimental | [4] Kattner 1992; _cites Kaltenbach 1989_ | Table II, p. 4, row 10 |  |
-| 1668 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.79; ζ: Al 0.714; ε(h): Al 0.75 | unspecified | [2] Witusiewicz 2008; _cites Kaltenbach 1989_ | Table 4, p. 6, row 33 |  |
+| 1668 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.79; ζ: Al 0.714; ε(h): Al 0.75 | unspecified | [2] Witusiewicz 2008; _cites Kaltenbach 1989_ | Table 4, p. 6, row 33 |  |
 | 1666.05 | peritectic: L + Ti2Al5 -> TiAl3 | L: Al 0.791; Ti2Al5: Al 0.714; TiAl3: Al 0.746 | model | [4] Kattner 1992 | Table II, p. 4, row 9 |  |
-| 1666 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.786; ζ: Al 0.714; ε(h): Al 0.74 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 6, row 40 |  |
+| 1666 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.786; ζ: Al 0.714; ε(h): Al 0.74 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 6, row 40 |  |
 | 1660.15 | peritectic: L + Ti2Al5 -> TiAl3 | Ti2Al5: Al 0.714286, Ti 0.285714; TiAl3: Al 0.75, Ti 0.25 | experimental | [4] Kattner 1992; _cites Schuster 1990_ | Table II, p. 4, row 11 |  |
-| 1660 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.81; ζ: Al 0.711; ε(h): Al 0.75 | unspecified | [2] Witusiewicz 2008; _cites Schmid-Fetzer 2003_ | Table 4, p. 6, row 34 |  |
+| 1660 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.81; ζ: Al 0.711; ε(h): Al 0.75 | unspecified | [2] Witusiewicz 2008; _cites Schmid-Fetzer 2003_ | Table 4, p. 6, row 34 |  |
 | 1657.41 | L + D023-Ti5Al11 -> D022-TiAl3 | D023-Ti5Al11: Ti 0.3125; D022-TiAl3: Ti 0.25 | model | [5] Liang 2024 | Table 3, p. 8, row 11 |  |
-| 1652 | Peritectic: L + γ ↔ ζ or L + γ ↔ Ti5Al11 or else L + Ti1-xAl1+x ↔ Ti5Al11 | L: Al 0.69; γ: Al 0.62; ζ: Al 0.68 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 30 |  |
-| 1651.9 | Peritectic: Liquid + AlTi-L10 -> Al11Ti5 | L: Ti 0.31; AlTi-L10: Ti 0.38; Al11Ti5: Ti 0.32 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 5 |  |
-| 1628 | Peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.753; ζ: Al 0.68; ε(h): Al 0.75 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 41 |  |
-| 1523 | Congruent: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.667; η: Al 0.667 | experimental | [2] Witusiewicz 2008; _cites Raman 1965_ | Table 4, p. 6, row 44 |  |
-| 1523 | Peritectoid: α + β \<-> α2 | α2: Al 0.25, Ti 0.75 | experimental | [2] Witusiewicz 2008; _cites Kornilov 1965_ | Table 4, p. 7, row 7 |  |
-| 1498 | Peritectoid: α + β \<-> α2 | α2: Al 0.25, Ti 0.75 | experimental | [2] Witusiewicz 2008; _cites Ouchi 1980_ | Table 4, p. 7, row 6 |  |
+| 1652 | peritectic: L + γ ↔ ζ or L + γ ↔ Ti5Al11 or else L + Ti1-xAl1+x ↔ Ti5Al11 | L: Al 0.69; γ: Al 0.62; ζ: Al 0.68 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 30 |  |
+| 1651.9 | peritectic: Liquid + AlTi-L10 -> Al11Ti5 | L: Ti 0.31; AlTi-L10: Ti 0.38; Al11Ti5: Ti 0.32 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 5 |  |
+| 1628 | peritectic: L + ζ ↔ ε(h) or L + Ti5Al11 ↔ ε(h) or else L + γ/1d-APS ↔ ε(h) | L: Al 0.753; ζ: Al 0.68; ε(h): Al 0.75 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 6, row 41 |  |
+| 1523 | congruent transformation: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.667; η: Al 0.667 | experimental | [2] Witusiewicz 2008; _cites Raman 1965_ | Table 4, p. 6, row 44 |  |
+| 1523 | peritectoid: α + β \<-> α2 | α2: Al 0.25, Ti 0.75 | experimental | [2] Witusiewicz 2008; _cites Kornilov 1965_ | Table 4, p. 7, row 7 |  |
+| 1498 | peritectoid: α + β \<-> α2 | α2: Al 0.25, Ti 0.75 | experimental | [2] Witusiewicz 2008; _cites Ouchi 1980_ | Table 4, p. 7, row 6 |  |
 | 1497 | ζ ↔ η | ζ: Al 0.666; η: Al 0.666 | unspecified | [2] Witusiewicz 2008 | Table 4, p. 6, row 48 |  |
 | 1488.15 | h-TiAl2 -> r-TiAl2 | r-TiAl2: Al 0.667 | model | [4] Kattner 1992 | Table IV, p. 8, row 6 |  |
 | 1488.15 | h-TiAl2 -> r-TiAl2 | r-TiAl2: Al 0.667 | experimental | [4] Kattner 1992; _cites Schuster 1990_ | Table IV, p. 8, row 8 |  |
 | 1488.15 | peritectoid: TiAl + Ti2Al5 -> TiAl2 | TiAl: Al 0.5, Ti 0.5; Ti2Al5: Al 0.714286, Ti 0.285714; TiAl2: Al 0.666667, Ti 0.333333 | experimental | [4] Kattner 1992; _cites Schuster 1990_ | Table II, p. 4, row 25 |  |
-| 1488 | Congruent: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.665; η: Al 0.665 | unspecified | [2] Witusiewicz 2008; _cites Braun 1999_ | Table 4, p. 6, row 45 |  |
-| 1488 | Congruent: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.6875, Ti 0.3125; η: Al 0.666667, Ti 0.333333 | model | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 6, row 46 |  |
-| 1488 | Congruent: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.657; η: Al 0.657 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 47 |  |
+| 1488 | congruent transformation: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.665; η: Al 0.665 | unspecified | [2] Witusiewicz 2008; _cites Braun 1999_ | Table 4, p. 6, row 45 |  |
+| 1488 | congruent transformation: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.6875, Ti 0.3125; η: Al 0.666667, Ti 0.333333 | model | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 6, row 46 |  |
+| 1488 | congruent transformation: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.657; η: Al 0.657 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 6, row 47 |  |
 | 1478.15 | h-TiAl2 -> r-TiAl2 | h-TiAl2: Al 0.666667, Ti 0.333333; r-TiAl2: Al 0.666667, Ti 0.333333 | unspecified | [4] Kattner 1992; _cites Mishurda_ | Table IV, p. 8, row 9 |  |
 | 1478.15 | peritectoid: TiAl + Ti2Al5 -> TiAl2 | TiAl: Al 0.5, Ti 0.5; Ti2Al5: Al 0.714286, Ti 0.285714; TiAl2: Al 0.666667, Ti 0.333333 | experimental | [4] Kattner 1992; _cites Mishurda_ | Table II, p. 4, row 26 |  |
-| 1478 | Peritectoid: ζ + γ ↔ η | ζ: Al 0.714; γ: Al 0.6; η: Al 0.667 | unspecified | [2] Witusiewicz 2008; _cites Mishurda 1991_ | Table 4, p. 6, row 50 |  |
+| 1478 | peritectoid: ζ + γ ↔ η | ζ: Al 0.714; γ: Al 0.6; η: Al 0.667 | unspecified | [2] Witusiewicz 2008; _cites Mishurda 1991_ | Table 4, p. 6, row 50 |  |
 | 1473.15 | peritectoid: (βTi) + (αTi) -> Ti3Al | (βTi): Al 0.29; (αTi): Al 0.35; Ti3Al: Al 0.3 | experimental | [4] Kattner 1992; _cites Waterstrat 1988_ | Table II, p. 4, row 18 |  |
-| 1473 | Peritectoid: Ti5Al11 + γ \<-> η | Ti5Al11: Al 0.714; γ: Al 0.612; η: Al 0.667 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 7, row 1 |  |
-| 1473 | Peritectoid: α + β \<-> α2 | α: Al 0.33; β: Al 0.28; α2: Al 0.32 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 7, row 9 |  |
+| 1473 | peritectoid: Ti5Al11 + γ \<-> η | Ti5Al11: Al 0.714; γ: Al 0.612; η: Al 0.667 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 7, row 1 |  |
+| 1473 | peritectoid: α + β \<-> α2 | α: Al 0.33; β: Al 0.28; α2: Al 0.32 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 7, row 9 |  |
 | 1473 | peritectoid |  | model | [6] Cupid 2010; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | p. 4 | “However, the critically assessed TieAl phase diagram of Schuster and Palm \[56\] shows the peritectoid formation of the a2-Ti3Al phase from the b and a phases at 1473 K.” |
-| 1473 | Peritectoid: α + β \<-> α2 | α: Al 0.35; β: Al 0.29; α2: Al 0.33 | experimental | [2] Witusiewicz 2008; _cites Waterstrat 1988_ [doi](https://doi.org/10.6028/nist.ir.88-3856) | Table 4, p. 7, row 4 |  |
+| 1473 | peritectoid: α + β \<-> α2 | α: Al 0.35; β: Al 0.29; α2: Al 0.33 | experimental | [2] Witusiewicz 2008; _cites Waterstrat 1988_ [doi](https://doi.org/10.6028/nist.ir.88-3856) | Table 4, p. 7, row 4 |  |
 | 1472.55 | peritectoid: TiAl + Ti2Al5 -> TiAl2 | TiAl: Al 0.645; Ti2Al5: Al 0.714; TiAl2: Al 0.667 | model | [4] Kattner 1992 | Table II, p. 4, row 23 |  |
-| 1469 | Eutectoid: ζ \<-> γ + η | ζ: Al 0.656; γ: Al 0.619; η: Al 0.65 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 3 |  |
-| 1469 | Peritectoid: α + β \<-> α2 | α: Al 0.32; β: Al 0.287; α2: Al 0.313 | experimental | [2] Witusiewicz 2008; _cites Suzuki 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900113-9) | Table 4, p. 7, row 5 |  |
-| 1466 | Congruent: α \<-> α2 | α: Al 0.00333; α2: Al 0.00333 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 14 |  |
-| 1462 | Eutectoid: α \<-> β0 + α2 | α: Al 0.317; β0: Al 0.308; α2: Al 0.32 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 10 |  |
-| 1454.3 | Peritectoid: Al11Ti5 + AlTi-L10 -> Al2Ti | Al11Ti5: Ti 0.32; AlTi-L10: Ti 0.388; Al2Ti: Ti 0.333 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 1 |  |
-| 1454 | Peritectoid: Ti5Al11 + γ \<-> η | Ti5Al11: Al 0.68; γ: Al 0.612; η: Al 0.667 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 7, row 2 |  |
-| 1453 | Peritectoid: β + α2 \<-> α | β: Al 0.187; α2: Al 0.26; α: Al 0.21 | experimental | [2] Witusiewicz 2008; _cites Sasano 1973_ | Table 4, p. 7, row 16 |  |
-| 1453 | Peritectoid: α + β \<-> α2 | α2: Al 0.25, Ti 0.75 | experimental | [2] Witusiewicz 2008; _cites Martin 1980_ | Table 4, p. 7, row 8 |  |
+| 1469 | eutectoid: ζ \<-> γ + η | ζ: Al 0.656; γ: Al 0.619; η: Al 0.65 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 3 |  |
+| 1469 | peritectoid: α + β \<-> α2 | α: Al 0.32; β: Al 0.287; α2: Al 0.313 | experimental | [2] Witusiewicz 2008; _cites Suzuki 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900113-9) | Table 4, p. 7, row 5 |  |
+| 1466 | congruent transformation: α \<-> α2 | α: Al 0.00333; α2: Al 0.00333 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 14 |  |
+| 1462 | eutectoid: α \<-> β0 + α2 | α: Al 0.317; β0: Al 0.308; α2: Al 0.32 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 10 |  |
+| 1454.3 | peritectoid: Al11Ti5 + AlTi-L10 -> Al2Ti | Al11Ti5: Ti 0.32; AlTi-L10: Ti 0.388; Al2Ti: Ti 0.333 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 1 |  |
+| 1454 | peritectoid: Ti5Al11 + γ \<-> η | Ti5Al11: Al 0.68; γ: Al 0.612; η: Al 0.667 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 7, row 2 |  |
+| 1453 | peritectoid: β + α2 \<-> α | β: Al 0.187; α2: Al 0.26; α: Al 0.21 | experimental | [2] Witusiewicz 2008; _cites Sasano 1973_ | Table 4, p. 7, row 16 |  |
+| 1453 | peritectoid: α + β \<-> α2 | α2: Al 0.25, Ti 0.75 | experimental | [2] Witusiewicz 2008; _cites Martin 1980_ | Table 4, p. 7, row 8 |  |
 | 1448.15 | h-TiAl2 -> r-TiAl2 | h-TiAl2: Al 0.666667, Ti 0.333333; r-TiAl2: Al 0.666667, Ti 0.333333 | unspecified | [4] Kattner 1992; _cites Kaltenbach 1989_ | Table IV, p. 8, row 7 |  |
 | 1448.15 | peritectoid: TiAl + Ti2Al5 -> TiAl2 | TiAl: Al 0.5, Ti 0.5; Ti2Al5: Al 0.714286, Ti 0.285714; TiAl2: Al 0.666667, Ti 0.333333 | experimental | [4] Kattner 1992; _cites Kaltenbach 1989_ | Table II, p. 4, row 24 |  |
-| 1448 | Congruent: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.667; η: Al 0.667 | unspecified | [2] Witusiewicz 2008; _cites Kaltenbach 1989_ | Table 4, p. 6, row 43 |  |
-| 1445 | Peritectoid: β + α2 \<-> α | β: Al 0.239; α2: Al 0.28; α: Al 0.26 | experimental | [2] Witusiewicz 2008; _cites Ence 1961_ | Table 4, p. 7, row 15 |  |
-| 1443 | Peritectoid: β + α2 \<-> α | β: Al 0.25; α2: Al 0.275; α: Al 0.27 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 7, row 21 |  |
-| 1443 | Eutectoid: Ti1-xAl1+x ↔ γ + η | Ti1-xAl1+x: Al 0.633; γ: Al 0.623; η: Al 0.658; Ti1−xAl1+x: Al 0.633 | unspecified | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 6, row 49 |  |
-| 1442.15 | congruent: (αTi) -> Ti3Al | (αTi): Al 0.325; Ti3Al: Al 0.325 | experimental | [4] Kattner 1992; _cites Shull 1985_ | Table II, p. 4, row 17 |  |
-| 1442 | Congruent: α \<-> α2 | α: Al 0.325; α2: Al 0.325 | experimental | [2] Witusiewicz 2008; _cites Shull 1985_ | Table 4, p. 7, row 11 |  |
-| 1439 | Congruent: α \<-> α2 | α: Al 0.31; α2: Al 0.31 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 7, row 13 |  |
-| 1437.15 | congruent: (αTi) -> Ti3Al | (αTi): Al 0.309; Ti3Al: Al 0.309 | model | [4] Kattner 1992 | Table II, p. 4, row 16 |  |
-| 1437 | Congruent: α \<-> α2 | α: Al 0.309; α2: Al 0.309 | model | [2] Witusiewicz 2008; _cites Kattner 1992_ [doi](https://doi.org/10.1007/bf02646001) | Table 4, p. 7, row 12 |  |
+| 1448 | congruent transformation: Ti5Al11 ↔ η or ζ ↔ η or else γ/1d-APS ↔ η | Ti5Al11: Al 0.667; η: Al 0.667 | unspecified | [2] Witusiewicz 2008; _cites Kaltenbach 1989_ | Table 4, p. 6, row 43 |  |
+| 1445 | peritectoid: β + α2 \<-> α | β: Al 0.239; α2: Al 0.28; α: Al 0.26 | experimental | [2] Witusiewicz 2008; _cites Ence 1961_ | Table 4, p. 7, row 15 |  |
+| 1443 | peritectoid: β + α2 \<-> α | β: Al 0.25; α2: Al 0.275; α: Al 0.27 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 7, row 21 |  |
+| 1443 | eutectoid: Ti1-xAl1+x ↔ γ + η | Ti1-xAl1+x: Al 0.633; γ: Al 0.623; η: Al 0.658; Ti1−xAl1+x: Al 0.633 | unspecified | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 6, row 49 |  |
+| 1442.15 | congruent transformation: (αTi) -> Ti3Al | (αTi): Al 0.325; Ti3Al: Al 0.325 | experimental | [4] Kattner 1992; _cites Shull 1985_ | Table II, p. 4, row 17 |  |
+| 1442 | congruent transformation: α \<-> α2 | α: Al 0.325; α2: Al 0.325 | experimental | [2] Witusiewicz 2008; _cites Shull 1985_ | Table 4, p. 7, row 11 |  |
+| 1439 | congruent transformation: α \<-> α2 | α: Al 0.31; α2: Al 0.31 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 7, row 13 |  |
+| 1437.15 | congruent transformation: (αTi) -> Ti3Al | (αTi): Al 0.309; Ti3Al: Al 0.309 | model | [4] Kattner 1992 | Table II, p. 4, row 16 |  |
+| 1437 | congruent transformation: α \<-> α2 | α: Al 0.309; α2: Al 0.309 | model | [2] Witusiewicz 2008; _cites Kattner 1992_ [doi](https://doi.org/10.1007/bf02646001) | Table 4, p. 7, row 12 |  |
 | 1436.35 | D023-Ti5Al11 -> TiAl2 + L10-TiAl | D023-Ti5Al11: Ti 0.3125; TiAl2: Ti 0.333333; L10-TiAl: Ti 0.5 | model | [5] Liang 2024 | Table 3, p. 8, row 8 |  |
-| 1432 | Peritectoid: β0 + α2 \<-> α | β0: Al 0.278; α2: Al 0.294; α: Al 0.285 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 23 |  |
+| 1432 | peritectoid: β0 + α2 \<-> α | β0: Al 0.278; α2: Al 0.294; α: Al 0.285 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 23 |  |
 | 1423.15 | peritectoid: (βTi) + Ti3Al -> (αTi) | (βTi): Al 0.24; Ti3Al: Al 0.26; (αTi): Al 0.25 | experimental | [4] Kattner 1992; _cites Waterstrat 1988_ | Table II, p. 4, row 19 |  |
-| 1423 | Peritectoid: β + α2 \<-> α | β: Al 0.24; α2: Al 0.26; α: Al 0.25 | experimental | [2] Witusiewicz 2008; _cites Waterstrat 1988_ [doi](https://doi.org/10.6028/nist.ir.88-3856) | Table 4, p. 7, row 18 |  |
-| 1398 | Eutectoid: α \<-> α2 + γ | α: Al 0.4; α2: Al 0.39; γ: Al 0.48 | experimental | [2] Witusiewicz 2008; _cites Schuster 1990_ | Table 4, p. 7, row 28 |  |
+| 1423 | peritectoid: β + α2 \<-> α | β: Al 0.24; α2: Al 0.26; α: Al 0.25 | experimental | [2] Witusiewicz 2008; _cites Waterstrat 1988_ [doi](https://doi.org/10.6028/nist.ir.88-3856) | Table 4, p. 7, row 18 |  |
+| 1398 | eutectoid: α \<-> α2 + γ | α: Al 0.4; α2: Al 0.39; γ: Al 0.48 | experimental | [2] Witusiewicz 2008; _cites Schuster 1990_ | Table 4, p. 7, row 28 |  |
 | 1393.33 | α-Ti -> D019-Ti3Al + L10-TiAl | D019-Ti3Al: Ti 0.75; L10-TiAl: Ti 0.5 | model | [5] Liang 2024 | Table 3, p. 8, row 4 |  |
 | 1393.15 | eutectoid: (αTi) -> Ti3Al + TiAl | Ti3Al: Al 0.25, Ti 0.75; TiAl: Al 0.5, Ti 0.5 | experimental | [4] Kattner 1992; _cites Jones 1988_ [doi](https://doi.org/10.1016/s0036-9748%2888%2980138-8) | Table II, p. 4, row 21 |  |
-| 1393 | Eutectoid: α \<-> α2 + γ | α: Al 0.39; α2: Al 0.385; γ: Al 0.465 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 7, row 29 |  |
-| 1393 | Eutectoid: α \<-> α2 + γ | α: Al 0.39; α2: Al 0.385; γ: Al 0.458 | experimental | [2] Witusiewicz 2008; _cites Kainuma 1994_ [doi](https://doi.org/10.1016/0966-9795%2894%2990018-3) | Table 4, p. 7, row 25 |  |
-| 1393 | Eutectoid: α \<-> α2 + γ | α: Al 0.39; α2: Al 0.385; γ: Al 0.458 | experimental | [2] Witusiewicz 2008; _cites Hellwig 1992_ [doi](https://doi.org/10.1016/0956-716x%2892%2990103-l) | Table 4, p. 7, row 24 |  |
-| 1392 | Eutectoid: α \<-> α2 + γ | α: Al 0.398; α2: Al 0.385; γ: Al 0.468 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 32 |  |
+| 1393 | eutectoid: α \<-> α2 + γ | α: Al 0.39; α2: Al 0.385; γ: Al 0.465 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 7, row 29 |  |
+| 1393 | eutectoid: α \<-> α2 + γ | α: Al 0.39; α2: Al 0.385; γ: Al 0.458 | experimental | [2] Witusiewicz 2008; _cites Kainuma 1994_ [doi](https://doi.org/10.1016/0966-9795%2894%2990018-3) | Table 4, p. 7, row 25 |  |
+| 1393 | eutectoid: α \<-> α2 + γ | α: Al 0.39; α2: Al 0.385; γ: Al 0.458 | experimental | [2] Witusiewicz 2008; _cites Hellwig 1992_ [doi](https://doi.org/10.1016/0956-716x%2892%2990103-l) | Table 4, p. 7, row 24 |  |
+| 1392 | eutectoid: α \<-> α2 + γ | α: Al 0.398; α2: Al 0.385; γ: Al 0.468 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 32 |  |
 | 1391.65 | eutectoid: (αTi) -> Ti3Al + TiAl | (αTi): Al 0.396; Ti3Al: Al 0.382; TiAl: Al 0.467 | model | [4] Kattner 1992 | Table II, p. 4, row 20 |  |
-| 1388 | Peritectoid: β + α2 \<-> α | α2: Al 0.25, Ti 0.75; α: Al 0.24 | experimental | [2] Witusiewicz 2008; _cites Ouchi 1980_ | Table 4, p. 7, row 19 |  |
-| 1387 | Eutectoid: α \<-> α2 + γ | α: Al 0.392; α2: Al 0.377; γ: Al 0.478 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 7, row 30 |  |
-| 1384.4 | Eutectoid: hcp-A3 -> L10-AlTi + AlM-D019 | hcp-A3: Ti 0.595; L10-AlTi: Ti 0.518; AlM-D019: Ti 0.607 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 8 |  |
-| 1384 | Eutectoid: α \<-> α2 + γ | α: Al 0.405; α2: Al 0.393; γ: Al 0.482 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 7, row 31 |  |
-| 1383 | Eutectoid: α \<-> α2 + γ | α: Al 0.396; α2: Al 0.385; γ: Al 0.485 | experimental | [2] Witusiewicz 2008; _cites Bartz 1993_ | Table 4, p. 7, row 26 |  |
-| 1383 | Eutectoid: α \<-> α2 + γ | α: Al 0.39; α2: Al 0.375; γ: Al 0.48 | experimental | [2] Witusiewicz 2008; _cites Shull 1985_ | Table 4, p. 7, row 27 |  |
+| 1388 | peritectoid: β + α2 \<-> α | α2: Al 0.25, Ti 0.75; α: Al 0.24 | experimental | [2] Witusiewicz 2008; _cites Ouchi 1980_ | Table 4, p. 7, row 19 |  |
+| 1387 | eutectoid: α \<-> α2 + γ | α: Al 0.392; α2: Al 0.377; γ: Al 0.478 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 7, row 30 |  |
+| 1384.4 | eutectoid: hcp-A3 -> L10-AlTi + AlM-D019 | hcp-A3: Ti 0.595; L10-AlTi: Ti 0.518; AlM-D019: Ti 0.607 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 8 |  |
+| 1384 | eutectoid: α \<-> α2 + γ | α: Al 0.405; α2: Al 0.393; γ: Al 0.482 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 7, row 31 |  |
+| 1383 | eutectoid: α \<-> α2 + γ | α: Al 0.396; α2: Al 0.385; γ: Al 0.485 | experimental | [2] Witusiewicz 2008; _cites Bartz 1993_ | Table 4, p. 7, row 26 |  |
+| 1383 | eutectoid: α \<-> α2 + γ | α: Al 0.39; α2: Al 0.375; γ: Al 0.48 | experimental | [2] Witusiewicz 2008; _cites Shull 1985_ | Table 4, p. 7, row 27 |  |
 | 1380.15 | eutectoid: (αTi) -> Ti3Al + TiAl | Ti3Al: Al 0.37; TiAl: Al 0.48 | experimental | [4] Kattner 1992; _cites Mishurda_ | Table II, p. 4, row 22 |  |
-| 1373 | Peritectoid: β + α2 \<-> α | β: Al 0.155; α2: Al 0.253; α: Al 0.235 | experimental | [2] Witusiewicz 2008; _cites Clark 1963_ | Table 4, p. 7, row 17 |  |
-| 1353 | Peritectoid: β + α2 \<-> α | β: Al 0.15; α2: Al 0.225; α: Al 0.175 | experimental | [2] Witusiewicz 2008; _cites Kornilov 1976_ | Table 4, p. 7, row 20 |  |
+| 1373 | peritectoid: β + α2 \<-> α | β: Al 0.155; α2: Al 0.253; α: Al 0.235 | experimental | [2] Witusiewicz 2008; _cites Clark 1963_ | Table 4, p. 7, row 17 |  |
+| 1353 | peritectoid: β + α2 \<-> α | β: Al 0.15; α2: Al 0.225; α: Al 0.175 | experimental | [2] Witusiewicz 2008; _cites Kornilov 1976_ | Table 4, p. 7, row 20 |  |
 | 1268.81 | D023-Ti5Al11 -> TiAl2 + D022-TiAl3 | D023-Ti5Al11: Ti 0.3125; TiAl2: Ti 0.333333; D022-TiAl3: Ti 0.25 | model | [5] Liang 2024 | Table 3, p. 8, row 9 |  |
-| 1268 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Braun 1999_ | Table 4, p. 7, row 36 |  |
-| 1268 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | model | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 7, row 39 |  |
-| 1265 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | γ/1d-APS: Al 0.714; η: Al 0.667; ε(h): Al 0.736 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 7, row 41 |  |
+| 1268 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Braun 1999_ | Table 4, p. 7, row 36 |  |
+| 1268 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | model | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 7, row 39 |  |
+| 1265 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | γ/1d-APS: Al 0.714; η: Al 0.667; ε(h): Al 0.736 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ [doi](https://doi.org/10.1016/s0966-9795%2897%2900030-7) | Table 4, p. 7, row 41 |  |
 | 1263.15 | Ti2Al5 -> r-TiAl2 + TiAl3 | Ti2Al5: Al 0.714286, Ti 0.285714; TiAl3: Al 0.75, Ti 0.25 | unspecified | [4] Kattner 1992; _cites Kaltenbach 1989_ | Table IV, p. 8, row 11 |  |
 | 1263.15 | Ti2Al5 -> r-TiAl2 + TiAl3 | Ti2Al5: Al 0.714; r-TiAl2: Al 0.667; TiAl3: Al 0.742 | model | [4] Kattner 1992 | Table IV, p. 8, row 10 |  |
 | 1263.15 | eutectoid: Ti2Al5 -> TiAl2 + TiAl3 | Ti2Al5: Al 0.714; TiAl2: Al 0.667; TiAl3: Al 0.742 | model | [4] Kattner 1992 | Table II, p. 4, row 27 |  |
 | 1263.15 | eutectoid: Ti2Al5 -> TiAl2 + TiAl3 | Ti2Al5: Al 0.714286, Ti 0.285714; TiAl2: Al 0.666667, Ti 0.333333; TiAl3: Al 0.75, Ti 0.25 | experimental | [4] Kattner 1992; _cites Kaltenbach 1989_ | Table II, p. 4, row 28 |  |
-| 1263 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | γ/1d-APS: Al 0.702; η: Al 0.667; ε(h): Al 0.751 | experimental | [2] Witusiewicz 2008; _cites Kaltenbach 1989_ | Table 4, p. 7, row 33 |  |
-| 1260 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | γ/1d-APS: Al 0.68; η: Al 0.667; ε(h): Al 0.75 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 7, row 42 |  |
-| 1259.8 | Eutectoid: Al11Ti5 -> AlM\* + Al2Ti | Al11Ti5: Ti 0.32; AlM\*: Ti 0.25; Al2Ti: Ti 0.333 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 2 |  |
-| 1253 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Kainuma 2005_ [doi](https://doi.org/10.1016/j.intermet.2004.12.028) | Table 4, p. 7, row 35 |  |
-| 1249 | Eutectoid: ζ \<-> η + ε(h) | ζ: Al 0.698; η: Al 0.673; ε(h): Al 0.748 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 43 |  |
-| 1248 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | γ/1d-APS: Al 0.715; η: Al 0.67; ε(h): Al 0.742 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 7, row 40 |  |
-| 1248 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Palm 1999_ | Table 4, p. 7, row 34 |  |
-| 1243 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Schuster 1990_ | Table 4, p. 7, row 37 |  |
-| 1223 | Peritectoid: η + ε(h) \<-> ε(l) | η: Al 0.666667, Ti 0.333333 | model | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 7, row 45 |  |
-| 1223 | Eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Raman 1965_ | Table 4, p. 7, row 38 |  |
-| 1223 | Peritectoid: η + ε(h) \<-> ε(l) | η: Al 0.666667, Ti 0.333333; ε(h): Al 0.75; ε(l): Al 0.745 | experimental | [2] Witusiewicz 2008; _cites Braun 1999_ | Table 4, p. 7, row 44 |  |
+| 1263 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | γ/1d-APS: Al 0.702; η: Al 0.667; ε(h): Al 0.751 | experimental | [2] Witusiewicz 2008; _cites Kaltenbach 1989_ | Table 4, p. 7, row 33 |  |
+| 1260 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | γ/1d-APS: Al 0.68; η: Al 0.667; ε(h): Al 0.75 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 7, row 42 |  |
+| 1259.8 | eutectoid: Al11Ti5 -> AlM\* + Al2Ti | Al11Ti5: Ti 0.32; AlM\*: Ti 0.25; Al2Ti: Ti 0.333 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 2 |  |
+| 1253 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Kainuma 2005_ [doi](https://doi.org/10.1016/j.intermet.2004.12.028) | Table 4, p. 7, row 35 |  |
+| 1249 | eutectoid: ζ \<-> η + ε(h) | ζ: Al 0.698; η: Al 0.673; ε(h): Al 0.748 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 43 |  |
+| 1248 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | γ/1d-APS: Al 0.715; η: Al 0.67; ε(h): Al 0.742 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ [doi](https://doi.org/10.1361/154770306x109809) | Table 4, p. 7, row 40 |  |
+| 1248 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Palm 1999_ | Table 4, p. 7, row 34 |  |
+| 1243 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Schuster 1990_ | Table 4, p. 7, row 37 |  |
+| 1223 | peritectoid: η + ε(h) \<-> ε(l) | η: Al 0.666667, Ti 0.333333 | model | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 7, row 45 |  |
+| 1223 | eutectoid: γ/1d-APS \<-> η + ε(h) or Ti5Al11 \<-> η + ε(h) or else ζ \<-> η + ε(h) | η: Al 0.666667, Ti 0.333333 | experimental | [2] Witusiewicz 2008; _cites Raman 1965_ | Table 4, p. 7, row 38 |  |
+| 1223 | peritectoid: η + ε(h) \<-> ε(l) | η: Al 0.666667, Ti 0.333333; ε(h): Al 0.75; ε(l): Al 0.745 | experimental | [2] Witusiewicz 2008; _cites Braun 1999_ | Table 4, p. 7, row 44 |  |
 | 1205 | peritectoid: ␩ + ␧(h) ↔ ␧(l) |  | model | [2] Witusiewicz 2008 | p. 8 | “In order to fulfil Gibbs phase rule, the occurrence of the low temperature modification ␧(l) below the transition temperature reported by Braun and Ellner \[15-17\] ∼1223 K for the Ti-rich phase boundary (74.5 at.% Al) and 1008 K for the Al-rich phase boundary (75 at.% Al), was modelled by two invariant reactions, i.e. peritectoid ␩ + ␧(h) ↔ ␧(l) and metatectic ␧(h) ↔ ␧(l) + L, respectively (see al…” |
-| 1205 | Peritectoid: η + ε(h) \<-> ε(l) | η: Al 0.673; ε(h): Al 0.748 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 46 |  |
+| 1205 | peritectoid: η + ε(h) \<-> ε(l) | η: Al 0.673; ε(h): Al 0.748 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 46 |  |
 | 1085.21 | Al2Ti + L10-TiAl -> Al5Ti3 | Al2Ti: Ti 0.333333; L10-TiAl: Ti 0.5; Al5Ti3: Ti 0.375 | model | [5] Liang 2024 | Table 3, p. 8, row 10 |  |
-| 1083 | Peritectoid: γ + η \<-> Ti3Al5 | γ: Al 0.56; η: Al 0.665; Ti3Al5: Al 0.62 | experimental | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 7, row 47 |  |
-| 1082 | Peritectoid: γ + η \<-> Ti3Al5 | γ: Al 0.583; η: Al 0.651; Ti3Al5: Al 0.625 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 48 |  |
-| 1008 | Metatectic: ε(h) \<-> ε(l) + L |  | model | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 7, row 52 |  |
-| 1008 | Metatectic: ε(h) \<-> ε(l) + L | ε(h): Al 0.75; ε(l): Al 0.745 | experimental | [2] Witusiewicz 2008; _cites Braun 1999_ | Table 4, p. 7, row 51 |  |
+| 1083 | peritectoid: γ + η \<-> Ti3Al5 | γ: Al 0.56; η: Al 0.665; Ti3Al5: Al 0.62 | experimental | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 7, row 47 |  |
+| 1082 | peritectoid: γ + η \<-> Ti3Al5 | γ: Al 0.583; η: Al 0.651; Ti3Al5: Al 0.625 | model | [2] Witusiewicz 2008 | Table 4, p. 7, row 48 |  |
+| 1008 | metatectic/catatectic: ε(h) \<-> ε(l) + L |  | model | [2] Witusiewicz 2008; _cites Grytsiv 2003_ [doi](https://doi.org/10.1361/105497103772084552) | Table 4, p. 7, row 52 |  |
+| 1008 | metatectic/catatectic: ε(h) \<-> ε(l) + L | ε(h): Al 0.75; ε(l): Al 0.745 | experimental | [2] Witusiewicz 2008; _cites Braun 1999_ | Table 4, p. 7, row 51 |  |
 | 1007 | ε(h) -> ε(l) + L | ε(h): Ti 0.235; ε(l): Ti 0.245; L: Ti 0.002 | model | [2] Witusiewicz 2008 | Table 4, p. 8, row 1 |  |
-| 1007 | metatectic: ␧(h) ↔ ␧(l) + L |  | model | [2] Witusiewicz 2008 | p. 8 | “In order to fulfil Gibbs phase rule, the occurrence of the low temperature modification ␧(l) below the transition temperature reported by Braun and Ellner \[15-17\] ∼1223 K for the Ti-rich phase boundary (74.5 at.% Al) and 1008 K for the Al-rich phase boundary (75 at.% Al), was modelled by two invariant reactions, i.e. peritectoid ␩ + ␧(h) ↔ ␧(l) and metatectic ␧(h) ↔ ␧(l) + L, respectively (see al…” |
-| 938.7 | Peritectic: L + ε(l) -> (αAl) | L: Ti 0.001; ε(l): Ti 0.243; (αAl): Ti 0.008 | model | [2] Witusiewicz 2008 | Table 4, p. 8, row 6 |  |
+| 1007 | metatectic/catatectic: ␧(h) ↔ ␧(l) + L |  | model | [2] Witusiewicz 2008 | p. 8 | “In order to fulfil Gibbs phase rule, the occurrence of the low temperature modification ␧(l) below the transition temperature reported by Braun and Ellner \[15-17\] ∼1223 K for the Ti-rich phase boundary (74.5 at.% Al) and 1008 K for the Al-rich phase boundary (75 at.% Al), was modelled by two invariant reactions, i.e. peritectoid ␩ + ␧(h) ↔ ␧(l) and metatectic ␧(h) ↔ ␧(l) + L, respectively (see al…” |
+| 938.7 | peritectic: L + ε(l) -> (αAl) | L: Ti 0.001; ε(l): Ti 0.243; (αAl): Ti 0.008 | model | [2] Witusiewicz 2008 | Table 4, p. 8, row 6 |  |
 | 938.25 | peritectic: L + TiAl3 -> (Al) | TiAl3: Al 0.75, Ti 0.25 | experimental | [4] Kattner 1992; _cites Fink 1931_ | Table II, p. 4, row 14 |  |
-| 938.2 | Peritectic: L + ε(l) -> (αAl) | L: Ti 0.002; ε(l): Ti 0.249; (αAl): Ti 0.008 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ | Table 4, p. 8, row 4 |  |
+| 938.2 | peritectic: L + ε(l) -> (αAl) | L: Ti 0.002; ε(l): Ti 0.249; (αAl): Ti 0.008 | model | [2] Witusiewicz 2008; _cites Zhang 1997_ | Table 4, p. 8, row 4 |  |
 | 938.15 | L + D022-TiAl3 -> FCC-Al | D022-TiAl3: Ti 0.25 | model | [5] Liang 2024 | Table 3, p. 8, row 12 |  |
 | 938.15 | peritectic: L + TiAl3 -> (Al) | L: Al 0.999; TiAl3: Al 0.75; (Al): Al 0.993 | experimental | [4] Kattner 1992; _cites Cisse 1974_ [doi](https://doi.org/10.1007/bf02644659) | Table II, p. 4, row 15 |  |
-| 938 | Peritectic: L + ε(l) -> (αAl) | L: Ti 8.000e-4; ε(l): Ti 0.245; (αAl): Ti 0.008 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ | Table 4, p. 8, row 3 |  |
-| 938 | Peritectic: L + ε(l) -> (αAl) | L: Ti 0.001; ε(l): Ti 0.25; (αAl): Ti 0.007 | experimental | [2] Witusiewicz 2008; _cites Fink 1931_ | Table 4, p. 8, row 2 |  |
+| 938 | peritectic: L + ε(l) -> (αAl) | L: Ti 8.000e-4; ε(l): Ti 0.245; (αAl): Ti 0.008 | model | [2] Witusiewicz 2008; _cites Schuster 2006_ | Table 4, p. 8, row 3 |  |
+| 938 | peritectic: L + ε(l) -> (αAl) | L: Ti 0.001; ε(l): Ti 0.25; (αAl): Ti 0.007 | experimental | [2] Witusiewicz 2008; _cites Fink 1931_ | Table 4, p. 8, row 2 |  |
 | 937.35 | peritectic: L + TiAl3 -> (Al) | L: Al 0.999; TiAl3: Al 0.75; (Al): Al 0.994 | model | [4] Kattner 1992 | Table II, p. 4, row 13 |  |
-| 934.2 | Degenerate: Liquid + AlM-D0\*22 \<-> fcc-A1 | Liquid: Ti 0.001; AlM-D0\*22: Ti 0.25; fcc-A1: Ti 0 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 4 |  |
-| 934.2 | Peritectic: L + ε(l) -> (αAl) | L: Ti 0.001; ε(l): Ti 0.25; (αAl): Ti 0 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 8, row 5 |  |
-| 911 | Allotropic: ε(h) \<-> ε(l) |  | experimental | [2] Witusiewicz 2008; _cites F 1973_ | Table 4, p. 7, row 49 |  |
-| 873 | Allotropic: ε(h) \<-> ε(l) |  | experimental | [2] Witusiewicz 2008; _cites Rao 1983_ [doi](https://doi.org/10.1007/bf02643738) | Table 4, p. 7, row 50 |  |
+| 934.2 | other: Liquid + AlM-D0\*22 \<-> fcc-A1 | Liquid: Ti 0.001; AlM-D0\*22: Ti 0.25; fcc-A1: Ti 0 | model | [3] Hämäläinen 1998 | Table I, p. 109, row 4 |  |
+| 934.2 | peritectic: L + ε(l) -> (αAl) | L: Ti 0.001; ε(l): Ti 0.25; (αAl): Ti 0 | model | [2] Witusiewicz 2008; _cites Saunders 1998_ | Table 4, p. 8, row 5 |  |
+| 911 | polymorphic: ε(h) \<-> ε(l) |  | experimental | [2] Witusiewicz 2008; _cites F 1973_ | Table 4, p. 7, row 49 |  |
+| 873 | polymorphic: ε(h) \<-> ε(l) |  | experimental | [2] Witusiewicz 2008; _cites Rao 1983_ [doi](https://doi.org/10.1007/bf02643738) | Table 4, p. 7, row 50 |  |
 
 ## Formation enthalpies
 
@@ -389,7 +388,7 @@ Table: Phase transition, Al–Ti system
 | Phase transition | 1440.15 K | 1440.15 | UNKNOWN; _alloy: Al 0.35, Ti 0.65_ | experimental | [8] Ohnuma 2000 | Table 2, p. 3, row 5 |  |
 | Phase transition | 1442.15 K | 1442.15 | UNKNOWN; _alloy: Al 0.326, Ti 0.674_ | experimental | [8] Ohnuma 2000 | Table 2, p. 3, row 2 |  |
 | Phase transition | 1443 K | 1443 | α ↔ α + β; _alloy: Al 0.225, Ti 0.775_ | experimental | [2] Witusiewicz 2008 | Table 2, p. 3, row 15 |  |
-| Phase transition | 1452 K | 1452 | Congruent: AlM-D019 -> hcp-A3; _AlM-D019: Ti 0.682; hcp-A3: Ti 0.682_ | model | [3] Hämäläinen 1998 | Table I, p. 109, row 9 |  |
+| Phase transition | 1452 K | 1452 | congruent transformation: AlM-D019 -> hcp-A3; _AlM-D019: Ti 0.682; hcp-A3: Ti 0.682_ | model | [3] Hämäläinen 1998 | Table I, p. 109, row 9 |  |
 | Phase transition | 1457.15 K | 1457.15 | UNKNOWN; _alloy: Al 0.326, Ti 0.674_ | experimental | [8] Ohnuma 2000 | Table 2, p. 3, row 3 |  |
 | Phase transition | 1476 K | 1476 | γ ↔ γ + α; _alloy: Al 0.475, Ti 0.525_ | experimental | [2] Witusiewicz 2008 | Table 2, p. 3, row 28 |  |
 | Phase transition | 1476 K | 1476 | γ ↔ γ + α; _alloy: Al 0.49, Ti 0.51_ | experimental | [2] Witusiewicz 2008 | Table 2, p. 3, row 56 |  |
@@ -505,8 +504,8 @@ Table: Phase transition, Al–Ti system
 | Phase transition | 1962 K | 1962 | β ↔ L; _alloy: Al 0.1, Ti 0.9_ | experimental | [2] Witusiewicz 2008 | Table 2, p. 3, row 6 |  |
 | Phase transition | 1963 K | 1963 | β ↔ L; _alloy: Al 0.1, Ti 0.9_ | model | [2] Witusiewicz 2008 | Table 2, p. 3, row 7 |  |
 | Phase transition | 1966.75 K | 1966.75 | L -> β-Ti | model | [5] Liang 2024 | Table 3, p. 8, row 1 |  |
-| Phase transition | 1989 K | 1989 | Congruent: bcc-A2 -> liquid; _bcc-A2: Ti 0.788; L: Ti 0.788_ | model | [3] Hämäläinen 1998 | Table I, p. 109, row 10 |  |
-| Phase transition | 2133 K | 2133 | congruent | experimental | [1] Ilatovskaia 2017; _cites Bunting 1933_ [doi](https://doi.org/10.6028/jres.011.049) | p. 1 | “Bunting\[4\] reported a congruent transformation of Al2TiO5 at about 2133 K and two eutectic reactions at 1988 and 2123 K.” |
+| Phase transition | 1989 K | 1989 | congruent melting: bcc-A2 -> liquid; _bcc-A2: Ti 0.788; L: Ti 0.788_ | model | [3] Hämäläinen 1998 | Table I, p. 109, row 10 |  |
+| Phase transition | 2133 K | 2133 | congruent transformation | experimental | [1] Ilatovskaia 2017; _cites Bunting 1933_ [doi](https://doi.org/10.6028/jres.011.049) | p. 1 | “Bunting\[4\] reported a congruent transformation of Al2TiO5 at about 2133 K and two eutectic reactions at 1988 and 2123 K.” |
 
 ### Phase equilibrium (18)
 

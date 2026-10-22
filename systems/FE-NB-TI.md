@@ -28,10 +28,10 @@ Table: Invariant reactions reported in the literature for the Fe–Nb–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1755.78 | E: L -> FeNb + (Nb, βTi) + Fe2(Nb, Ti) | L: Nb 0.5672, Ti 0.0148 | model | [1] Wang 2011 | Table 7, p. 8, row 4 |  |
-| 1599.12 | U: L + FeNb -> (Nb, βTi) + Fe2(Nb, Ti) | L: Nb 0.2737, Ti 0.2787 | model | [1] Wang 2011 | Table 7, p. 8, row 3 |  |
-| 1492 | U: L + Fe2(Nb, Ti) -> FeNb + FeTi | L: Nb 0.2005, Ti 0.3743 | model | [1] Wang 2011 | Table 7, p. 8, row 2 |  |
-| 1483.36 | E: L -> FeNb + FeTi + (Nb, βTi) | L: Nb 0.2205, Ti 0.3919 | model | [1] Wang 2011 | Table 7, p. 8, row 1 |  |
+| 1755.78 | eutectic: L -> FeNb + (Nb, βTi) + Fe2(Nb, Ti) | L: Nb 0.5672, Ti 0.0148 | model | [1] Wang 2011 | Table 7, p. 8, row 4 |  |
+| 1599.12 | quasi-peritectic: L + FeNb -> (Nb, βTi) + Fe2(Nb, Ti) | L: Nb 0.2737, Ti 0.2787 | model | [1] Wang 2011 | Table 7, p. 8, row 3 |  |
+| 1492 | quasi-peritectic: L + Fe2(Nb, Ti) -> FeNb + FeTi | L: Nb 0.2005, Ti 0.3743 | model | [1] Wang 2011 | Table 7, p. 8, row 2 |  |
+| 1483.36 | eutectic: L -> FeNb + FeTi + (Nb, βTi) | L: Nb 0.2205, Ti 0.3919 | model | [1] Wang 2011 | Table 7, p. 8, row 1 |  |
 
 ## Other properties
 

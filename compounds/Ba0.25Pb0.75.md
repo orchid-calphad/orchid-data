@@ -1,26 +1,22 @@
 # Ba0.25Pb0.75: enthalpy of formation
 
-> Enthalpy of formation of Ba0.25Pb0.75: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ba0.25Pb0.75: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ba0.25Pb0.75.html · Markdown: https://data.orchid-project.org/compounds/Ba0.25Pb0.75.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 4, model 4); experimental median -45 kJ/mol-atom (n = 4); Materials Project -35.948 kJ/mol-atom (mp-aaaabfsw); OQMD -35.568 kJ/mol-atom (oqmd-10854).
+4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -45 kJ/mol-atom (n = 2); Materials Project -35.948 kJ/mol-atom (mp-aaaabfsw); OQMD -35.568 kJ/mol-atom (oqmd-10854).
 
 Systems: [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ba0.25Pb0.75 reported in the literature (8)
+Table: Enthalpy of formation of Ba0.25Pb0.75 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -46 kJ/mol-atom ± 2 | Ba0.25Pb0.75 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 28 |  |
-| -46 kJ/mol-atom ± 2 | Ba0.25Pb0.75 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 28 |  |
-| -44 kJ/mol-atom ± 2 | Ba0.25Pb0.75 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Kubaschewski 1949_ | Table 5, p. 9, row 30 |  |
 | -44 kJ/mol-atom ± 2 | Ba0.25Pb0.75 | 300 | experimental |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007; _cites Kubaschewski 1949_ | Table 5, p. 9, row 30 |  |
 | -49.434 kJ/mol-atom | Ba0.25Pb0.75 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 27 |  |
-| -49.434 kJ/mol-atom | Ba0.25Pb0.75 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 27 |  |
-| -47.202 kJ/mol-atom | Ba0.25Pb0.75 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 29 |  |
 | -47.202 kJ/mol-atom | Ba0.25Pb0.75 | 300 | model |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html) | [1] Idbenali 2007 | Table 5, p. 9, row 29 |  |
 
 ## DFT formation energies

@@ -29,34 +29,34 @@ Table: Invariant reactions reported in the literature for the Au–Ni–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1229.62 | U: L + Bcc -> Ni3Sn_LT + Ni3Sn2 | L: Au 0.3205, Ni 0.4936 | model | [1] Dong 2013 | Table 3, p. 10, row 1 |  |
-| 1220.95 | U: L + Bcc -> Ni3Sn_LT + Fcc | L: Au 0.2441, Ni 0.62 | model | [1] Dong 2013 | Table 3, p. 10, row 2 |  |
-| 1210.15 | P: L + Ni3Sn-HT \<=> Ni3Sn-LT + fcc (P12) | L: Au 0.279, Ni 0.59 | model | [2] Liu 2005 | Table V, p. 10, row 13 |  |
-| 1155.35 | P: L + SnNi3-HT \<=> SnNi3-LT + Sn2Ni3 (P11) | L: Au 0.511, Ni 0.255 | model | [2] Liu 2005 | Table V, p. 10, row 12 |  |
-| 860.25 | P: L + SnNi3-LT \<=> Sn2Ni3 + fcc (P10) | L: Au 0.794, Ni 0.017 | model | [2] Liu 2005 | Table V, p. 10, row 11 |  |
-| 844.34 | U: L + Ni3Sn_LT -> Ni3Sn2 + Fcc | L: Au 0.7873, Ni 0.0198 | model | [1] Dong 2013 | Table 3, p. 10, row 3 |  |
-| 843.35 | P: L + Sn2Ni3 + fcc \<=> hcp (P9) | L: Au 0.793, Ni 0.013 | model | [2] Liu 2005 | Table V, p. 10, row 10 |  |
-| 835.91 | P: L + Ni3Sn2 + Fcc -> Hcp | L: Au 0.7867, Ni 0.0176 | model | [1] Dong 2013 | Table 3, p. 10, row 10 |  |
-| 802.55 | P: L + fcc \<=> hcp + SnAu10 (P8) | L: Au 0.793, Ni 5.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 9 |  |
-| 802.15 | U: L + Fcc -> Au10Sn + Hcp | L: Au 0.7921, Ni 0.001 | model | [1] Dong 2013 | Table 3, p. 10, row 4 |  |
-| 718.45 | P: L + Sn2Ni3 \<=> Sn4Ni3 + SnAu (P7) | L: Au 0.257, Ni 0.0064 | model | [2] Liu 2005 | Table V, p. 10, row 8 |  |
+| 1229.62 | quasi-peritectic: L + Bcc -> Ni3Sn_LT + Ni3Sn2 | L: Au 0.3205, Ni 0.4936 | model | [1] Dong 2013 | Table 3, p. 10, row 1 |  |
+| 1220.95 | quasi-peritectic: L + Bcc -> Ni3Sn_LT + Fcc | L: Au 0.2441, Ni 0.62 | model | [1] Dong 2013 | Table 3, p. 10, row 2 |  |
+| 1210.15 | peritectic: L + Ni3Sn-HT \<=> Ni3Sn-LT + fcc (P12) | L: Au 0.279, Ni 0.59 | model | [2] Liu 2005 | Table V, p. 10, row 13 |  |
+| 1155.35 | peritectic: L + SnNi3-HT \<=> SnNi3-LT + Sn2Ni3 (P11) | L: Au 0.511, Ni 0.255 | model | [2] Liu 2005 | Table V, p. 10, row 12 |  |
+| 860.25 | peritectic: L + SnNi3-LT \<=> Sn2Ni3 + fcc (P10) | L: Au 0.794, Ni 0.017 | model | [2] Liu 2005 | Table V, p. 10, row 11 |  |
+| 844.34 | quasi-peritectic: L + Ni3Sn_LT -> Ni3Sn2 + Fcc | L: Au 0.7873, Ni 0.0198 | model | [1] Dong 2013 | Table 3, p. 10, row 3 |  |
+| 843.35 | peritectic: L + Sn2Ni3 + fcc \<=> hcp (P9) | L: Au 0.793, Ni 0.013 | model | [2] Liu 2005 | Table V, p. 10, row 10 |  |
+| 835.91 | peritectic: L + Ni3Sn2 + Fcc -> Hcp | L: Au 0.7867, Ni 0.0176 | model | [1] Dong 2013 | Table 3, p. 10, row 10 |  |
+| 802.55 | peritectic: L + fcc \<=> hcp + SnAu10 (P8) | L: Au 0.793, Ni 5.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 9 |  |
+| 802.15 | quasi-peritectic: L + Fcc -> Au10Sn + Hcp | L: Au 0.7921, Ni 0.001 | model | [1] Dong 2013 | Table 3, p. 10, row 4 |  |
+| 718.45 | peritectic: L + Sn2Ni3 \<=> Sn4Ni3 + SnAu (P7) | L: Au 0.257, Ni 0.0064 | model | [2] Liu 2005 | Table V, p. 10, row 8 |  |
 | 695.15 | peritectic |  | experimental | [2] Liu 2005; _cites Neumann 1995_ [doi](https://doi.org/10.1016/0022-4596%2895%2980021-g) | p. 4 | “The present DSC results show that this peritectic reaction occurs at 422°C, which is in good agreement with the data reported by Neumann et al.19” |
 | 695.15 | peritectic |  | model | [2] Liu 2005 | p. 7 | “Figure 6d shows the calculated vertical section including the Sn4AuNi2 ternary compound. It is seen that the ternary compound is stable until 422°C, at which a peritectic reaction occurs.” |
-| 694.85 | P: L + Sn2Ni3 + Sn4Ni3 \<=> Sn4AuNi2 (P6) | L: Au 0.242, Ni 0.0054 | model | [2] Liu 2005 | Table V, p. 10, row 7 |  |
-| 693.39 | P: L + Ni3Sn4 + Ni3Sn2 -> τ | L: Au 0.2379, Ni 0.0027 | model | [1] Dong 2013 | Table 3, p. 10, row 11 |  |
+| 694.85 | peritectic: L + Sn2Ni3 + Sn4Ni3 \<=> Sn4AuNi2 (P6) | L: Au 0.242, Ni 0.0054 | model | [2] Liu 2005 | Table V, p. 10, row 7 |  |
+| 693.39 | peritectic: L + Ni3Sn4 + Ni3Sn2 -> τ | L: Au 0.2379, Ni 0.0027 | model | [1] Dong 2013 | Table 3, p. 10, row 11 |  |
 | 693.15 | peritectic: L Sn4Ni3 Sn2Ni3 ↔ Sn4AuNi2 |  | experimental | [2] Liu 2005; _cites Neumann 1995_ [doi](https://doi.org/10.1016/0022-4596%2895%2980021-g) | p. 4 | “Neumann et al. studied the crystal structure of the Sn4AuNi2 compound, and reported that it is stable up to 420°C, at which temperature it undergoes the peritectic reaction (L Sn4Ni3 Sn2Ni3 ↔ Sn4AuNi2).19” |
-| 578.05 | P: L + SnAu \<=> Sn2Au + Sn2Ni3 (P5) | L: Au 0.246, Ni 6.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 6 |  |
-| 577.88 | U: L + AuSn -> Ni3Sn2 + AuSn2 | L: Au 0.2416, Ni 3.600e-4 | model | [1] Dong 2013 | Table 3, p. 10, row 5 |  |
-| 577.57 | U: L + Ni3Sn2 -> AuSn2 + τ | L: Au 0.2404, Ni 3.700e-4 | model | [1] Dong 2013 | Table 3, p. 10, row 6 |  |
-| 573.05 | P: L + Sn2Ni3 \<=> Sn4AuNi2 + Sn2Au (P4) | L: Au 0.226, Ni 8.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 5 |  |
-| 572.82 | P: L + τ + Ni3Sn4 -> AuSn4 | L: Au 0.1255, Ni 0.001 | model | [1] Dong 2013 | Table 3, p. 10, row 12 |  |
-| 569.65 | P: L + Sn4AuNi2 \<=> Sn4Au + Sn2Au (P3) | L: Au 0.214, Ni 8.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 4 |  |
-| 568.35 | P: L + Sn4AuNi2 \<=> Sn4Ni3 + Sn4Au (P2) | L: Au 0.103, Ni 0.0031 | model | [2] Liu 2005 | Table V, p. 10, row 3 |  |
-| 563.33 | U: L + τ -> AuSn4 + AuSn2 | L: Au 0.1999, Ni 4.000e-4 | model | [1] Dong 2013 | Table 3, p. 10, row 7 |  |
-| 561.05 | U: L + Ni3Sn2 -> AuSn + Hcp | L: Au 0.6983, Ni 6.100e-5 | model | [1] Dong 2013 | Table 3, p. 10, row 8 |  |
-| 557.55 | P: L + Sn2Ni3 \<=> SnAu + hcp (P1) | L: Au 0.697, Ni 2.000e-5 | model | [2] Liu 2005 | Table V, p. 10, row 2 |  |
-| 503.35 | E: L \<=> Sn4Ni3 + Sn4Au + βSn (E) | L: Au 0.0023, Ni 0.0033 | model | [2] Liu 2005 | Table V, p. 10, row 1 |  |
-| 489.9 | U: L + Ni3Sn4 -> AuSn4 + Bct | L: Au 0.0095, Ni 8.000e-4 | model | [1] Dong 2013 | Table 3, p. 10, row 9 |  |
+| 578.05 | peritectic: L + SnAu \<=> Sn2Au + Sn2Ni3 (P5) | L: Au 0.246, Ni 6.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 6 |  |
+| 577.88 | quasi-peritectic: L + AuSn -> Ni3Sn2 + AuSn2 | L: Au 0.2416, Ni 3.600e-4 | model | [1] Dong 2013 | Table 3, p. 10, row 5 |  |
+| 577.57 | quasi-peritectic: L + Ni3Sn2 -> AuSn2 + τ | L: Au 0.2404, Ni 3.700e-4 | model | [1] Dong 2013 | Table 3, p. 10, row 6 |  |
+| 573.05 | peritectic: L + Sn2Ni3 \<=> Sn4AuNi2 + Sn2Au (P4) | L: Au 0.226, Ni 8.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 5 |  |
+| 572.82 | peritectic: L + τ + Ni3Sn4 -> AuSn4 | L: Au 0.1255, Ni 0.001 | model | [1] Dong 2013 | Table 3, p. 10, row 12 |  |
+| 569.65 | peritectic: L + Sn4AuNi2 \<=> Sn4Au + Sn2Au (P3) | L: Au 0.214, Ni 8.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 4 |  |
+| 568.35 | peritectic: L + Sn4AuNi2 \<=> Sn4Ni3 + Sn4Au (P2) | L: Au 0.103, Ni 0.0031 | model | [2] Liu 2005 | Table V, p. 10, row 3 |  |
+| 563.33 | quasi-peritectic: L + τ -> AuSn4 + AuSn2 | L: Au 0.1999, Ni 4.000e-4 | model | [1] Dong 2013 | Table 3, p. 10, row 7 |  |
+| 561.05 | quasi-peritectic: L + Ni3Sn2 -> AuSn + Hcp | L: Au 0.6983, Ni 6.100e-5 | model | [1] Dong 2013 | Table 3, p. 10, row 8 |  |
+| 557.55 | peritectic: L + Sn2Ni3 \<=> SnAu + hcp (P1) | L: Au 0.697, Ni 2.000e-5 | model | [2] Liu 2005 | Table V, p. 10, row 2 |  |
+| 503.35 | eutectic: L \<=> Sn4Ni3 + Sn4Au + βSn (E) | L: Au 0.0023, Ni 0.0033 | model | [2] Liu 2005 | Table V, p. 10, row 1 |  |
+| 489.9 | quasi-peritectic: L + Ni3Sn4 -> AuSn4 + Bct | L: Au 0.0095, Ni 8.000e-4 | model | [1] Dong 2013 | Table 3, p. 10, row 9 |  |
 
 ## Other properties
 
@@ -84,16 +84,16 @@ Table: Phase transition, Au–Ni–Sn system
 | Phase transition | 757.15 K | 757.15 | other: Ni40 Au10 (at.%); _alloy: Au 0.1, Ni 0.4, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 21 |  |
 | Phase transition | 786.15 K | 786.15 | other: Ni40 Au10 (at.%); _alloy: Au 0.1, Ni 0.4, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 20 |  |
 | Phase transition | 791.15 K | 791.15 | other: Ni25 Au25 (at.%); _alloy: Au 0.25, Ni 0.25, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 11 |  |
-| Phase transition | 878.15 K | 878.15 | liquidus | experimental | [2] Liu 2005 | Table III, p. 7, row 4 |  |
+| Phase transition | 878.15 K | 878.15 | other | experimental | [2] Liu 2005 | Table III, p. 7, row 4 |  |
 | Phase transition | 984.15 K | 984.15 | other: Ni12.5 Au12.5 (at.%); _alloy: Au 0.125, Ni 0.125, Sn 0.75_ | experimental | [2] Liu 2005 | Table III, p. 7, row 17 |  |
-| Phase transition | 1048.15 K | 1048.15 | liquidus; _alloy: Au 0.125, Ni 0.125, Sn 0.75_ | experimental | [2] Liu 2005 | Table III, p. 7, row 3 |  |
-| Phase transition | 1138.15 K | 1138.15 | liquidus; _alloy: Au 0.4, Ni 0.1, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 6 |  |
-| Phase transition | 1148.15 K | 1148.15 | liquidus; _alloy: Au 0.45, Ni 0.15, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 9 |  |
-| Phase transition | 1153.15 K | 1153.15 | liquidus; _alloy: Au 0.175, Ni 0.175, Sn 0.65_ | experimental | [2] Liu 2005 | Table III, p. 7, row 2 |  |
-| Phase transition | 1290.15 K | 1290.15 | liquidus; _alloy: Au 0.25, Ni 0.25, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 1 |  |
-| Phase transition | 1303.15 K | 1303.15 | liquidus; _alloy: Au 0.3, Ni 0.3, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 8 |  |
-| Phase transition | 1423.15 K | 1423.15 | liquidus; _alloy: Au 0.15, Ni 0.45, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 7 |  |
-| Phase transition | 1441.15 K | 1441.15 | liquidus; _alloy: Au 0.1, Ni 0.4, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 5 |  |
+| Phase transition | 1048.15 K | 1048.15 | other; _alloy: Au 0.125, Ni 0.125, Sn 0.75_ | experimental | [2] Liu 2005 | Table III, p. 7, row 3 |  |
+| Phase transition | 1138.15 K | 1138.15 | other; _alloy: Au 0.4, Ni 0.1, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 6 |  |
+| Phase transition | 1148.15 K | 1148.15 | other; _alloy: Au 0.45, Ni 0.15, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 9 |  |
+| Phase transition | 1153.15 K | 1153.15 | other; _alloy: Au 0.175, Ni 0.175, Sn 0.65_ | experimental | [2] Liu 2005 | Table III, p. 7, row 2 |  |
+| Phase transition | 1290.15 K | 1290.15 | other; _alloy: Au 0.25, Ni 0.25, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 1 |  |
+| Phase transition | 1303.15 K | 1303.15 | other; _alloy: Au 0.3, Ni 0.3, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 8 |  |
+| Phase transition | 1423.15 K | 1423.15 | other; _alloy: Au 0.15, Ni 0.45, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 7 |  |
+| Phase transition | 1441.15 K | 1441.15 | other; _alloy: Au 0.1, Ni 0.4, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 5 |  |
 
 ### Phase equilibrium (83)
 

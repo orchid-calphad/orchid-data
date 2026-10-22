@@ -1,27 +1,23 @@
 # CaGe: enthalpy of formation
 
-> Enthalpy of formation of CaGe: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CaGe: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CaGe.html · Markdown: https://data.orchid-project.org/compounds/CaGe.md
 
-9 accepted literature formation-enthalpy value(s) (experimental 4, model 3, DFT 2); experimental median -62.65 kJ/mol-atom (n = 4); Materials Project -63.815 kJ/mol-atom (mp-aaaaadmu); OQMD -64.906 kJ/mol-atom (oqmd-7940).
+5 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 1); experimental median -62.65 kJ/mol-atom (n = 2); Materials Project -63.815 kJ/mol-atom (mp-aaaaadmu); OQMD -64.906 kJ/mol-atom (oqmd-7940).
 
 Systems: [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CaGe reported in the literature (9)
+Table: Enthalpy of formation of CaGe reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -67.8 kJ/mol-atom ± 2.8 | CaGe | 1000 | experimental | emf | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 12 |  |
-| -67.8 kJ/mol-atom ± 2.8 | CaGe | 1000 | experimental | emf | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 12 |  |
-| -57.5 kJ/mol-atom ± 10 | CaGe | 1000 | experimental | Dissolution calorimetry | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 13 |  |
 | -57.5 kJ/mol-atom ± 10 | CaGe | 1000 | experimental | Dissolution calorimetry | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 13 |  |
 | -76.3627 kJ/mol-atom | CaGe | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 21 |  |
 | -63.9 kJ/mol-atom | CaGe | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 16 |  |
-| -63.9 kJ/mol-atom | CaGe | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 16 |  |
-| -64.3 kJ/mol-atom | CaGe | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 14 |  |
 | -64.3 kJ/mol-atom | CaGe | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 14 |  |
 
 ## DFT formation energies

@@ -1,29 +1,25 @@
 # Ga2Gd: enthalpy of formation
 
-> Enthalpy of formation of Ga2Gd: 12 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ga2Gd: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ga2Gd.html · Markdown: https://data.orchid-project.org/compounds/Ga2Gd.md
 
-12 accepted literature formation-enthalpy value(s) (experimental 6, model 6); experimental median -72.8 kJ/mol-atom (n = 6); Materials Project -63.164 kJ/mol-atom (mp-aaaabdgn); OQMD -64.461 kJ/mol-atom (oqmd-91491).
+8 accepted literature formation-enthalpy value(s) (experimental 4, model 4); experimental median -72.8 kJ/mol-atom (n = 4); Materials Project -63.164 kJ/mol-atom (mp-aaaabdgn); OQMD -64.461 kJ/mol-atom (oqmd-91491).
 
 Systems: [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) · [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ga2Gd reported in the literature (12)
+Table: Enthalpy of formation of Ga2Gd reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -83.5 kJ/mol-atom | Ga2Gd | 298.15 | experimental |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites Bayanov 1975_ | Table 4, p. 4, row 5 |  |
-| -83.5 kJ/mol-atom | Ga2Gd | 298.15 | experimental |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites Bayanov 1975_ | Table 4, p. 4, row 5 |  |
 | -72.8 kJ/mol-atom ± 2.8 | Ga2Gd | 1373 | experimental | Calorimetry | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 2, p. 8, row 20 |  |
-| -72.8 kJ/mol-atom | Ga2Gd | 298.15 | experimental |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 4, p. 4, row 4 |  |
 | -72.8 kJ/mol-atom | Ga2Gd | 298.15 | experimental |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 4, p. 4, row 4 |  |
 | -65.03 kJ/mol-atom ± 1 | Ga2Gd | 298 | experimental | EMF | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023; _cites Bayanov 1975_ | Table 2, p. 8, row 21 |  |
 | -261.5 unspecified ± 5.9 | Ga2Gd | 823.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [3] Liu 2019; _cites Kober 1983_ | p. 4 | “The enthalpy, entropy, and Gibbs energy of formation of ­Ga2Gd from liquid Ga and solid Gd at 550 °C were as: - 261.5 ± 5.9 kJ/mol, - 88.3 ± 7.1 J/mol, and - 189.0 ± 0.4 kJ/mol \[42\], respectively, which was cited from Ref. \[17\].” |
 | -72.8 kJ/mol-atom | Ga2Gd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 6 |  |
-| -72.8 kJ/mol-atom | Ga2Gd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 6 |  |
-| -65.03 kJ/mol-atom | Ga2Gd |  | model | Emf (723–923 K) optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 3 |  |
 | -65.03 kJ/mol-atom | Ga2Gd |  | model | Emf (723–923 K) optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 3 |  |
 | -63.156 kJ/mol-atom | Ga2Gd | 298 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023 | Table 2, p. 8, row 22 |  |
 

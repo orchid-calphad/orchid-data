@@ -1,10 +1,10 @@
 # Mn–Ta system
 
-> Mn–Ta system: 5 accepted literature values (crystal structure 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Ta system: 4 accepted literature values (crystal structure 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-TA.html · Markdown: https://data.orchid-project.org/systems/MN-TA.md
 
-5 accepted literature values from 1 paper(s) (experimental 5); 2 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+4 accepted literature values from 1 paper(s) (experimental 4); 2 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TA.json) · [CSV](https://data.orchid-project.org/systems/MN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TA/MnTa-14Wan.json) · [Markdown](https://data.orchid-project.org/systems/MN-TA.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 5 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -56,7 +56,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Crystal structure (5)
+### Crystal structure (4)
 
 Table: Crystal structure, Mn–Ta system
 
@@ -64,7 +64,6 @@ Table: Crystal structure, Mn–Ta system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.487077 nm ± 7.000e-6 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
 | Lattice b | 0.487077 nm ± 7.000e-6 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
-| Lattice c | 0.797175 nm ± 1.100e-5 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
 | Lattice c | 0.797175 nm ± 1.100e-5 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
 | lattice a b | 0.487077 nm ± 7.000e-6 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
 

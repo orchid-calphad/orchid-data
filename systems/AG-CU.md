@@ -56,11 +56,11 @@ Table: Invariant reactions reported in the literature for the Ag–Cu system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1054 | Eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.146; (Cu): Cu 0.951 | model | [1] Witusiewicz 2004; _cites Murray 1984_ | Table 8, p. 8, row 4 |  |
-| 1053 | Eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.399; (Ag): Cu 0.141; (Cu): Cu 0.951 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 8, p. 8, row 1 |  |
-| 1053 | Eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.403; (Ag): Cu 0.131; (Cu): Cu 0.955 | model | [1] Witusiewicz 2004; _cites Kusoffsky 2002_ | Table 8, p. 8, row 6 |  |
-| 1053 | Eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.121; (Cu): Cu 0.953 | model | [1] Witusiewicz 2004 | Table 8, p. 8, row 7 |  |
-| 1050 | Eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.361; (Ag): Cu 0.129; (Cu): Cu 0.948 | model | [1] Witusiewicz 2004; _cites S-S 1997_ | Table 8, p. 8, row 5 |  |
+| 1054 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.146; (Cu): Cu 0.951 | model | [1] Witusiewicz 2004; _cites Murray 1984_ | Table 8, p. 8, row 4 |  |
+| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.399; (Ag): Cu 0.141; (Cu): Cu 0.951 | experimental | [1] Witusiewicz 2004; _cites Hansen 1958_ | Table 8, p. 8, row 1 |  |
+| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.403; (Ag): Cu 0.131; (Cu): Cu 0.955 | model | [1] Witusiewicz 2004; _cites Kusoffsky 2002_ | Table 8, p. 8, row 6 |  |
+| 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.121; (Cu): Cu 0.953 | model | [1] Witusiewicz 2004 | Table 8, p. 8, row 7 |  |
+| 1050 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.361; (Ag): Cu 0.129; (Cu): Cu 0.948 | model | [1] Witusiewicz 2004; _cites S-S 1997_ | Table 8, p. 8, row 5 |  |
 | 490.35 | eutectic |  | experimental | [2] Moon 2000 | p. 12 | “The present results indicate the eutectic composition to be 3.5 wt.% Ag ± 0.3 wt.% Ag and 0.9 wt.% Cu ± 0.2 wt.% at 217.2 °C ± 0.2 °C.” |
 | 490.35 | eutectic |  | experimental | [2] Moon 2000 | p. 1 | “The ternary eutectic is confirmed to be at a composition of 3.5 wt.% Ag, 0.9 wt.% Cu at a temperature of 217.2 ± 0.2°C (2σ).” |
 | 490.15 | eutectic |  | experimental | [2] Moon 2000; _cites Miller 1994_ [doi](https://doi.org/10.1007/bf02653344) | p. 1 | “In 1994, Miller et al.,5 using DTA, found a ternary eutectic at 217°C and placed its composition at 4.7 wt.% Ag, 1.7 wt.% Cu.” |

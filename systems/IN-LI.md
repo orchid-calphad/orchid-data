@@ -91,10 +91,10 @@ Table: Phase transition, In–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 680 K | 680 | liquidus | experimental | [1] Gierlotka 2022; _cites Lamprecht 1902_ | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
-| Phase transition | 730 K | 730 | liquidus | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
-| Phase transition | 898 K | 898 | congruent | model | [1] Gierlotka 2022 | p. 6 | “The calculated congruent melting occurs at the temperature 898 K and the composition equals 0.544 mole fraction of Li.” |
-| Phase transition | 898 K | 898 | congruent | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | p. 1 | “Grube and Wolf \[6\] measured the congruent melting temperature of the InLi phase at 898 K and determined the liquidus line as well.” |
+| Phase transition | 680 K | 680 | other | experimental | [1] Gierlotka 2022; _cites Lamprecht 1902_ | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
+| Phase transition | 730 K | 730 | other | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 5 | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
+| Phase transition | 898 K | 898 | congruent transformation | model | [1] Gierlotka 2022 | p. 6 | “The calculated congruent melting occurs at the temperature 898 K and the composition equals 0.544 mole fraction of Li.” |
+| Phase transition | 898 K | 898 | congruent transformation | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | p. 1 | “Grube and Wolf \[6\] measured the congruent melting temperature of the InLi phase at 898 K and determined the liquidus line as well.” |
 | Phase transition | 902 K | 902 |  | experimental | [1] Gierlotka 2022; _cites Lamprecht 1902_ | p. 1 | “Based on the experimental results, they concluded that, in the binary In - Li system, InLi and InLi4 phases exist, and also that the melting temperature of the InLi phase equals 902 K.” |
 
 ### Phase equilibrium (1)

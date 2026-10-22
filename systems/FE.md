@@ -54,9 +54,9 @@ Table: Phase transition, Fe system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 535 K | 535 | magnetic | experimental | [1] Ye 2023; _cites ref. 124_ | p. 6 | “However, Dariel et al. did not report the specific heat data but only gave the Curie temperature of Fe2Y to be 535 K\[124\].” |
-| Phase transition | 1573 K | 1573 | congruent | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
-| Phase transition | 1608 K | 1608 | congruent | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
-| Phase transition | 1673 K | 1673 | congruent | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
+| Phase transition | 1573 K | 1573 | congruent transformation | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
+| Phase transition | 1608 K | 1608 | congruent transformation | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
+| Phase transition | 1673 K | 1673 | congruent transformation | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
 
 ### Mixing / partial (18)
 
@@ -64,24 +64,24 @@ Table: Mixing / partial, Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH_ | -6434.48 J/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [2] Zhou 2010 | Table 5, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2863.02 J/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [2] Zhou 2010 | Table 5, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -1479.69 J/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [2] Zhou 2010 | Table 5, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8144.93 J/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [2] Zhou 2010 | Table 5, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6081.52 J/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [2] Zhou 2010 | Table 5, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4666.67 J/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [2] Zhou 2010 | Table 5, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2057.97 J/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [2] Zhou 2010 | Table 5, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2150.8 J/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [2] Zhou 2010 | Table 5, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4405.8 J/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [2] Zhou 2010 | Table 5, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -7391.3 J/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [2] Zhou 2010 | Table 5, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6146.53 J/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [2] Zhou 2010 | Table 5, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -5290.93 J/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [2] Zhou 2010 | Table 5, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9154.21 J/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [2] Zhou 2010 | Table 5, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -5480 J/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [2] Zhou 2010 | Table 5, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9304.35 J/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [2] Zhou 2010 | Table 5, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4166.4 J/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [2] Zhou 2010 | Table 5, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4067.06 J/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [2] Zhou 2010 | Table 5, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9623.19 J/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [2] Zhou 2010 | Table 5, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.43448 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [2] Zhou 2010 | Table 5, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.86302 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [2] Zhou 2010 | Table 5, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -1.47969 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [2] Zhou 2010 | Table 5, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.14493 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [2] Zhou 2010 | Table 5, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.08152 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [2] Zhou 2010 | Table 5, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.66667 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [2] Zhou 2010 | Table 5, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.05797 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [2] Zhou 2010 | Table 5, p. 4, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.1508 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [2] Zhou 2010 | Table 5, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.4058 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [2] Zhou 2010 | Table 5, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.3913 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [2] Zhou 2010 | Table 5, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.14653 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [2] Zhou 2010 | Table 5, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.29093 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [2] Zhou 2010 | Table 5, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.15421 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [2] Zhou 2010 | Table 5, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.48 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [2] Zhou 2010 | Table 5, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.30435 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [2] Zhou 2010 | Table 5, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.1664 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [2] Zhou 2010 | Table 5, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.06706 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [2] Zhou 2010 | Table 5, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.62319 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [2] Zhou 2010 | Table 5, p. 4, row 8 |  |
 
 ## Sources
 

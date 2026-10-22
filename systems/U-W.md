@@ -56,15 +56,15 @@ Table: Invariant reactions reported in the literature for the U–W system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1408.15 | Eutectic: L → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 1 |  |
-| 1407.65 | Eutectic: L → γ (U) + bcc (W) | L: W 0.0026; γ (U): W 0.0024; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 2 |  |
+| 1408.15 | eutectic: L → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 1 |  |
+| 1407.65 | eutectic: L → γ (U) + bcc (W) | L: W 0.0026; γ (U): W 0.0024; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 2 |  |
 | 1404 | Liquid -> (γ-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 1 |  |
-| 1049.15 | Eutectoid: γ (U) → β (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 3 |  |
+| 1049.15 | eutectoid: γ (U) → β (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 3 |  |
 | 1049 | (γ-U) -> (β-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 2 |  |
-| 1047.65 | Eutectoid: γ (U) → β (U) + bcc (W) | γ (U): W 0.001; β (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 4 |  |
-| 942.15 | Congruent: β (U) → γ (U) + bcc (W) | β (U): W 0; γ (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 6 |  |
+| 1047.65 | eutectoid: γ (U) → β (U) + bcc (W) | γ (U): W 0.001; β (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 4 |  |
+| 942.15 | congruent transformation: β (U) → γ (U) + bcc (W) | β (U): W 0; γ (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 6 |  |
 | 942 | (β-U) -> (α-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 3 |  |
-| 941.15 | Congruent: β (U) → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 5 |  |
+| 941.15 | congruent transformation: β (U) → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 5 |  |
 
 ## Other properties
 
@@ -74,22 +74,22 @@ Table: Mixing / partial, U–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 20 J/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 13 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 5200 J/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3170 J/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 9 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3400 J/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 1 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3320 J/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 2 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 49 J/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 14 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 5220 J/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 6 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3190 J/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 10 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3340 J/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 3 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3140 J/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 11 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 78 J/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 15 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 5200 J/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 7 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 49 J/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 16 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3120 J/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 12 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 3330 J/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 4 |  |
-| Enthalpy of mixing; _printed: mixing enthalpy_ | 5210 J/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 8 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.02 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 13 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.2 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 5 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.17 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 9 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.4 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 1 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.32 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 2 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.049 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 14 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.22 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 6 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.19 kJ/mol (basis unstated) | 3873.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 10 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.34 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 3 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.14 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 11 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.078 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 15 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.2 kJ/mol (basis unstated) | 3973.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 7 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 0.049 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.7, W 0.3_ | model | [1] Wang 2008 | Table 5, p. 5, row 16 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.12 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.5, W 0.5_ | model | [1] Wang 2008 | Table 5, p. 5, row 12 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 3.33 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.1, W 0.9_ | model | [1] Wang 2008 | Table 5, p. 5, row 4 |  |
+| Enthalpy of mixing; _printed: mixing enthalpy_ | 5.21 kJ/mol (basis unstated) | 4073.15 | liquid; _alloy: U 0.3, W 0.7_ | model | [1] Wang 2008 | Table 5, p. 5, row 8 |  |
 
 ## Sources
 

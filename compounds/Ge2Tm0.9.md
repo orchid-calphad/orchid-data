@@ -1,22 +1,20 @@
 # Ge2Tm0.9: enthalpy of formation
 
-> Enthalpy of formation of Ge2Tm0.9: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ge2Tm0.9: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ge2Tm0.9.html · Markdown: https://data.orchid-project.org/compounds/Ge2Tm0.9.md
 
-4 accepted literature formation-enthalpy value(s) (model 4).
+2 accepted literature formation-enthalpy value(s) (model 2).
 
 Systems: [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ge2Tm0.9 reported in the literature (4)
+Table: Enthalpy of formation of Ge2Tm0.9 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -69.24 kJ/mol-atom | Tm0.9Ge2 |  | model | Prediction | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 19 |  |
-| -69.24 kJ/mol-atom | Tm0.9Ge2 |  | model | Prediction | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 19 |  |
-| -61.46 kJ/mol-atom | Tm0.9Ge2 |  | model | Optimization | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018 | Table 2, p. 5, row 18 |  |
 | -61.46 kJ/mol-atom | Tm0.9Ge2 |  | model | Optimization | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018 | Table 2, p. 5, row 18 |  |
 
 ## Sources

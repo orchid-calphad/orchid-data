@@ -1,61 +1,45 @@
 # SbZn: enthalpy of formation
 
-> Enthalpy of formation of SbZn: 43 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of SbZn: 27 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SbZn.html · Markdown: https://data.orchid-project.org/compounds/SbZn.md
 
-43 accepted literature formation-enthalpy value(s) (experimental 21, model 22); experimental median -12.845 kJ/mol-atom (n = 21); Materials Project -11.964 kJ/mol-atom (mp-aaaaabcz); OQMD -3.464 kJ/mol-atom (oqmd-2031988).
+27 accepted literature formation-enthalpy value(s) (experimental 15, model 12); experimental median -12.845 kJ/mol-atom (n = 15); Materials Project -11.964 kJ/mol-atom (mp-aaaaabcz); OQMD -3.464 kJ/mol-atom (oqmd-2031988).
 
 Systems: [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) · [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SbZn reported in the literature (43)
+Table: Enthalpy of formation of SbZn reported in the literature (27)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -20.011 kJ/mol-atom | SbZn | 804 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 10 |  |
-| -20.011 kJ/mol-atom | SbZn | 804 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 10 |  |
 | -20.011 kJ/mol-atom | SbZn | 804.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 11 |  |
-| -15.052 kJ/mol-atom | SbZn | 298.15 | experimental | Calorimetry | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Oelsen 1937_ | Table 4, p. 4, row 12 |  |
 | -15.052 kJ/mol-atom | SbZn | 298.15 | experimental | Calorimetry | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Oelsen 1937_ | Table 4, p. 4, row 12 |  |
 | -15.052 kJ/mol-atom | SbZn | 298.15 | experimental | Calorimetry | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Oelsen 1937_ | Table 8, p. 14, row 2 |  |
 | -14.853 kJ/mol-atom | SbZn | 298.15 | experimental | Vapor | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 4, p. 4, row 6 |  |
-| -14.853 kJ/mol-atom | SbZn | 298.15 | experimental | Vapor | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 4, p. 4, row 6 |  |
 | -14.853 kJ/mol-atom | SbZn | 298.15 | experimental | Vapor | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 8, p. 14, row 3 |  |
-| -12.845 kJ/mol-atom | SbZn | 298.15 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 8 |  |
 | -12.845 kJ/mol-atom | SbZn | 298.15 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 8 |  |
 | -12.845 kJ/mol-atom | SbZn | 298.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 1 |  |
 | -11.89 kJ/mol-atom | SbZn | 750.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 9 |  |
 | -11.89 kJ/mol-atom | SbZn | 750 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 14 |  |
-| -11.89 kJ/mol-atom | SbZn | 750 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 14 |  |
 | -11.89 kJ/mol-atom | β(SbZn) | 723.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [3] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 11 |  |
 | -10.9 kJ/mol-atom | SbZn | 420.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Goryacheva 1997_ | Table 8, p. 14, row 5 |  |
-| -10.9 kJ/mol-atom | SbZn | 420 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 2 |  |
 | -10.9 kJ/mol-atom | SbZn | 420 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 2 |  |
 | -9.517 kJ/mol-atom ± 0.627 | β(SbZn) | 700.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [3] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 12 |  |
 | -9.517 kJ/mol-atom | SbZn | 700.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Hultgren 1978_ | Table 8, p. 14, row 7 |  |
 | -25.086 kJ/mol-atom | SbZn | 804 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 9 |  |
-| -25.086 kJ/mol-atom | SbZn | 804 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 9 |  |
 | -24.9572 kJ/mol-atom | SbZn | 804.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 12 |  |
-| -15.149 kJ/mol-atom | SbZn | 750 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 13 |  |
 | -15.149 kJ/mol-atom | SbZn | 750 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 13 |  |
 | -15.102 kJ/mol-atom | SbZn | 750.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 10 |  |
 | -11.541 kJ/mol-atom | β(SbZn) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [3] Liu 2000 | Table 2, p. 3, row 10 |  |
 | -11.4879 kJ/mol-atom | SbZn | 298.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 4 |  |
 | -11.4875 kJ/mol-atom | SbZn | 420.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 6 |  |
 | -11.459 kJ/mol-atom | SbZn | 298.15 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 7 |  |
-| -11.459 kJ/mol-atom | SbZn | 298.15 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 7 |  |
-| -11.459 kJ/mol-atom | SbZn | 298.15 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 11 |  |
-| -11.459 kJ/mol-atom | SbZn | 298.15 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 11 |  |
-| -11.459 kJ/mol-atom | SbZn | 298.15 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 5 |  |
-| -11.459 kJ/mol-atom | SbZn | 298.15 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 5 |  |
 | -11.455 kJ/mol-atom | SbZn | 420 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 1 |  |
-| -11.455 kJ/mol-atom | SbZn | 420 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 1 |  |
-| -11.455 kJ/mol-atom | SbZn | 700 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 3 |  |
 | -11.455 kJ/mol-atom | SbZn | 700 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 3 |  |
 | -11.4395 kJ/mol-atom | SbZn | 700.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 8 |  |
-| -9.517 kJ/mol-atom | SbZn | 700 | model | Evaluated | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hulgren 1973_ | Table 4, p. 4, row 4 |  |
 | -9.517 kJ/mol-atom | SbZn | 700 | model | Evaluated | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Hulgren 1973_ | Table 4, p. 4, row 4 |  |
 
 ## DFT formation energies

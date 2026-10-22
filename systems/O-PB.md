@@ -1,10 +1,10 @@
 # O–Pb system
 
-> O–Pb system: 255 accepted literature values (activity / EMF / Gibbs energy 64, formation 56, heat capacity / entropy / enthalpy 50, invariant reaction 46) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Pb system: 236 accepted literature values (activity / EMF / Gibbs energy 64, heat capacity / entropy / enthalpy 47, invariant reaction 46, formation 40) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-PB.html · Markdown: https://data.orchid-project.org/systems/O-PB.md
 
-255 accepted literature values from 1 paper(s) (experimental 180, model 48, unspecified 27); 0 calculated phase diagram(s).
+236 accepted literature values from 1 paper(s) (experimental 169, model 43, unspecified 24); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-PB.json) · [CSV](https://data.orchid-project.org/systems/O-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PB) · [Markdown](https://data.orchid-project.org/systems/O-PB.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 180 |
-| model | 48 |
-| unspecified | 27 |
+| experimental | 169 |
+| model | 43 |
+| unspecified | 24 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 46 |
 | phase transition | 39 |
-| formation | 56 |
-| heat capacity / entropy / enthalpy | 50 |
+| formation | 40 |
+| heat capacity / entropy / enthalpy | 47 |
 | activity / EMF / Gibbs energy | 64 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-PB.json)
@@ -85,7 +85,7 @@ Table: Invariant reactions reported in the literature for the O–Pb system (46)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, O–Pb system (29)
+Table: Enthalpies of formation, O–Pb system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -93,24 +93,14 @@ Table: Enthalpies of formation, O–Pb system (29)
 | — |  | -274.5 unspecified ± 3 | 298 | experimental |  |  | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | p. 12 | “The enthalpy of formation at 298 K was determined by \[70Esp\] as -274.5 + 3 kJ/mol.” |
 | — |  | 1648 unspecified ± 300 | 298 | experimental |  |  | [1] Risold 1998; _cites Knacke 1964_ | p. 3 | “The difference in the enthalpies of formation of PbO-L and PbO-M at 298 K has been measured as 1648 \_+300 J/mol by \[64Kna\] using solution calorimetry.” |
 | Pb12O17 |  | -104.58 kJ/mol-atom | 298.15 | model |  |  | [1] Risold 1998 | Table 1, p. 1, row 17 |  |
-| Pb12O17 |  | -104.58 kJ/mol-atom | 298.15 | model |  |  | [1] Risold 1998 | Table 1, p. 1, row 17 |  |
-| Pb12O19 |  | -100.368 kJ/mol-atom | 298.15 | model |  |  | [1] Risold 1998 | Table 1, p. 1, row 18 |  |
 | Pb12O19 |  | -100.368 kJ/mol-atom | 298.15 | model |  |  | [1] Risold 1998 | Table 1, p. 1, row 18 |  |
 | Pb3O4-T | [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.html) | -104.839 kJ/mol-atom | 298.15 | model | -139.612 (mp-aaaabhmn) | -123.983 (oqmd-669607) | [1] Risold 1998 | Table 1, p. 1, row 14 |  |
-| Pb3O4-T | [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.html) | -104.839 kJ/mol-atom | 298.15 | model | -139.612 (mp-aaaabhmn) | -123.983 (oqmd-669607) | [1] Risold 1998 | Table 1, p. 1, row 14 |  |
-| Pb3O4-T | [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.html) | -102.669 kJ/mol-atom | 298.15 | experimental | -139.612 (mp-aaaabhmn) | -123.983 (oqmd-669607) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 12 |  |
 | Pb3O4-T | [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.html) | -102.669 kJ/mol-atom | 298.15 | experimental | -139.612 (mp-aaaabhmn) | -123.983 (oqmd-669607) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 12 |  |
 | Pb3O4-T | [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.html) | -102.669 kJ/mol-atom | 298.15 | unspecified | -139.612 (mp-aaaabhmn) | -123.983 (oqmd-669607) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 13 |  |
-| Pb3O4-T | [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.html) | -102.669 kJ/mol-atom | 298.15 | unspecified | -139.612 (mp-aaaabhmn) | -123.983 (oqmd-669607) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 13 |  |
-| PbO-L | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.704 kJ/mol-atom | 298.15 | unspecified | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
 | PbO-L | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.704 kJ/mol-atom | 298.15 | unspecified | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
 | PbO-L | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.528 kJ/mol-atom | 298.15 | model | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998 | Table 1, p. 1, row 2 |  |
-| PbO-L | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.528 kJ/mol-atom | 298.15 | model | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998 | Table 1, p. 1, row 2 |  |
-| PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.031 kJ/mol-atom | 298.15 | experimental | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 6 |  |
 | PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.031 kJ/mol-atom | 298.15 | experimental | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 6 |  |
 | PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.031 kJ/mol-atom | 298.15 | unspecified | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
-| PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.031 kJ/mol-atom | 298.15 | unspecified | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
-| PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -108.721 kJ/mol-atom | 298.15 | model | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
 | PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -108.721 kJ/mol-atom | 298.15 | model | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
 | PbO2-I | [PbO2](https://data.orchid-project.org/compounds/PbO2.html) | -93.9067 kJ/mol-atom | 298.15 | model | -125.396 (mp-aaaaberd) | -107.539 (oqmd-4264) | [1] Risold 1998 | Table 1, p. 1, row 22 |  |
 | PbO2-I | [PbO2](https://data.orchid-project.org/compounds/PbO2.html) | -91.504 kJ/mol-atom | 298.15 | experimental | -125.396 (mp-aaaaberd) | -107.539 (oqmd-4264) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 20 |  |
@@ -149,25 +139,25 @@ Table: Phase transition, O–Pb system
 | Phase transition | 853 K | 853 | polymorphic: PbO-L \<-> PbO-M | unspecified | [1] Risold 1998; _cites ref. 1897Lec_ | Table 2, p. 3, row 1 |  |
 | Phase transition | 860 K | 860 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites EM 1921_ | Table 2, p. 3, row 3 |  |
 | Phase transition | 893 K | 893 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Ruer 1906_ [doi](https://doi.org/10.1002/zaac.19060500125) | Table 2, p. 3, row 2 |  |
-| Phase transition | 1103 K | 1103 | congruent: \[1897Lec\] | unspecified | [1] Risold 1998; _cites ref. 1897Lec_ | Table 5, p. 5, row 1 |  |
-| Phase transition | 1143 K | 1143 | congruent: \[22Bel\] | experimental | [1] Risold 1998; _cites Belladen 1922_ | Table 5, p. 5, row 7 |  |
-| Phase transition | 1143 K | 1143 | congruent: \[81Kha\] | unspecified | [1] Risold 1998; _cites Ya 1998_ | Table 5, p. 5, row 15 |  |
-| Phase transition | 1149 K | 1149 | congruent: \[09Hil\] | unspecified | [1] Risold 1998; _cites ref. 09Hil_ | Table 5, p. 5, row 4 |  |
-| Phase transition | 1151 K | 1151 | congruent: \[21Jae\] | experimental | [1] Risold 1998; _cites EM 1921_ | Table 5, p. 5, row 6 |  |
-| Phase transition | 1152 K | 1152 | congruent: \[08Sch\] | unspecified | [1] Risold 1998; _cites ref. 08Sch_ | Table 5, p. 5, row 2 |  |
-| Phase transition | 1157 K | 1157 | congruent: \[34Coh\] | experimental | [1] Risold 1998; _cites Cohen 1934_ [doi](https://doi.org/10.1515/zpch-1934-16813) | Table 5, p. 5, row 8 |  |
-| Phase transition | 1158 K | 1158 | congruent: \[64Kna\] | experimental | [1] Risold 1998; _cites Knacke 1964_ | Table 5, p. 5, row 14 |  |
-| Phase transition | 1159 K | 1159 | congruent: This work | model | [1] Risold 1998 | Table 5, p. 5, row 16 |  |
-| Phase transition | 1159 K | 1159 | congruent: \[34Gel\] | experimental | [1] Risold 1998; _cites R 1934_ | Table 5, p. 5, row 9 |  |
-| Phase transition | 1159 K | 1159 | congruent: \[36Kra\] | unspecified | [1] Risold 1998; _cites ref. 36Kra_ | Table 5, p. 5, row 10 |  |
-| Phase transition | 1159 K | 1159 | congruent: \[39Leb\] | experimental | [1] Risold 1998; _cites Le 1940_ | Table 5, p. 5, row 11 |  |
-| Phase transition | 1159 K | 1159 | congruent: \[63Sch\] | model | [1] Risold 1998; _cites Schneider 1964_ | Table 5, p. 5, row 13 |  |
-| Phase transition | 1161 K | 1161 | congruent: \[09Coo\] | unspecified | [1] Risold 1998; _cites ref. 09Coo_ | Table 5, p. 5, row 3 |  |
-| Phase transition | 1161 K | 1161 | congruent: \[12Kro\] | experimental | [1] Risold 1998; _cites Kroll 1912_ [doi](https://doi.org/10.1002/zaac.19120780107) | Table 5, p. 5, row 5 |  |
-| Phase transition | 1170 K | 1170 | congruent: \[61Rod\] | experimental | [1] Risold 1998; _cites Rodigina 1961_ | Table 5, p. 5, row 12 |  |
+| Phase transition | 1103 K | 1103 | congruent transformation: \[1897Lec\] | unspecified | [1] Risold 1998; _cites ref. 1897Lec_ | Table 5, p. 5, row 1 |  |
+| Phase transition | 1143 K | 1143 | congruent transformation: \[22Bel\] | experimental | [1] Risold 1998; _cites Belladen 1922_ | Table 5, p. 5, row 7 |  |
+| Phase transition | 1143 K | 1143 | congruent transformation: \[81Kha\] | unspecified | [1] Risold 1998; _cites Ya 1998_ | Table 5, p. 5, row 15 |  |
+| Phase transition | 1149 K | 1149 | congruent transformation: \[09Hil\] | unspecified | [1] Risold 1998; _cites ref. 09Hil_ | Table 5, p. 5, row 4 |  |
+| Phase transition | 1151 K | 1151 | congruent transformation: \[21Jae\] | experimental | [1] Risold 1998; _cites EM 1921_ | Table 5, p. 5, row 6 |  |
+| Phase transition | 1152 K | 1152 | congruent transformation: \[08Sch\] | unspecified | [1] Risold 1998; _cites ref. 08Sch_ | Table 5, p. 5, row 2 |  |
+| Phase transition | 1157 K | 1157 | congruent transformation: \[34Coh\] | experimental | [1] Risold 1998; _cites Cohen 1934_ [doi](https://doi.org/10.1515/zpch-1934-16813) | Table 5, p. 5, row 8 |  |
+| Phase transition | 1158 K | 1158 | congruent transformation: \[64Kna\] | experimental | [1] Risold 1998; _cites Knacke 1964_ | Table 5, p. 5, row 14 |  |
+| Phase transition | 1159 K | 1159 | congruent transformation: This work | model | [1] Risold 1998 | Table 5, p. 5, row 16 |  |
+| Phase transition | 1159 K | 1159 | congruent transformation: \[34Gel\] | experimental | [1] Risold 1998; _cites R 1934_ | Table 5, p. 5, row 9 |  |
+| Phase transition | 1159 K | 1159 | congruent transformation: \[36Kra\] | unspecified | [1] Risold 1998; _cites ref. 36Kra_ | Table 5, p. 5, row 10 |  |
+| Phase transition | 1159 K | 1159 | congruent transformation: \[39Leb\] | experimental | [1] Risold 1998; _cites Le 1940_ | Table 5, p. 5, row 11 |  |
+| Phase transition | 1159 K | 1159 | congruent transformation: \[63Sch\] | model | [1] Risold 1998; _cites Schneider 1964_ | Table 5, p. 5, row 13 |  |
+| Phase transition | 1161 K | 1161 | congruent transformation: \[09Coo\] | unspecified | [1] Risold 1998; _cites ref. 09Coo_ | Table 5, p. 5, row 3 |  |
+| Phase transition | 1161 K | 1161 | congruent transformation: \[12Kro\] | experimental | [1] Risold 1998; _cites Kroll 1912_ [doi](https://doi.org/10.1002/zaac.19120780107) | Table 5, p. 5, row 5 |  |
+| Phase transition | 1170 K | 1170 | congruent transformation: \[61Rod\] | experimental | [1] Risold 1998; _cites Rodigina 1961_ | Table 5, p. 5, row 12 |  |
 | Phase transition | 1808 K | 1808 | other | model | [1] Risold 1998 | p. 13 | “The boiling point of PbO has been determined by \[64Kna\] as 1808 K.” |
 
-### Formation (27)
+### Formation (21)
 
 Table: Formation, O–Pb system
 
@@ -179,21 +169,15 @@ Table: Formation, O–Pb system
 | Gibbs energy of formation; _printed: ΔfG298_ | -86.5045 kJ/mol-atom | 298.15 | Pb12O17; _alloy: Pb 0.413793_ | model | [1] Risold 1998 | Table 1, p. 1, row 17 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -82.3885 kJ/mol-atom | 298.15 | Pb12O19; _alloy: Pb 0.387097_ | model | [1] Risold 1998 | Table 1, p. 1, row 25 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -81.74 kJ/mol-atom | 298.15 | Pb12O19; _alloy: Pb 0.387097_ | experimental | [1] Risold 1998; _cites E Chattier 1963_ | Table 1, p. 1, row 19 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -81.74 kJ/mol-atom | 298.15 | Pb12O19; _alloy: Pb 0.387097_ | experimental | [1] Risold 1998; _cites E Chattier 1963_ | Table 1, p. 1, row 19 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -88.17 kJ/mol-atom | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | experimental | [1] Risold 1998; _cites E Chattier 1963_ | Table 1, p. 1, row 16 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -88.17 kJ/mol-atom | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | experimental | [1] Risold 1998; _cites E Chattier 1963_ | Table 1, p. 1, row 16 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -85.3297 kJ/mol-atom | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | experimental | [1] Risold 1998; _cites Andrews 1934_ [doi](https://doi.org/10.1021/ja01317a032) | Table 1, p. 1, row 15 |  |
-| Gibbs energy of formation; _printed: ΔfG298 (a)_ | -85.3297 kJ/mol-atom | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | experimental | [1] Risold 1998; _cites Andrews 1934_ [doi](https://doi.org/10.1021/ja01317a032) | Table 1, p. 1, row 15 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -87.8996 kJ/mol-atom | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | model | [1] Risold 1998 | Table 1, p. 1, row 14 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -85.9437 kJ/mol-atom | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 13 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.4685 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 1, p. 1, row 2 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.5205 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites D 1923_ | Table 1, p. 1, row 3 |  |
-| Gibbs energy of formation; _printed: ΔfG298 (a)_ | -94.5205 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites D 1923_ | Table 1, p. 1, row 3 |  |
 | Gibbs energy of formation; _printed: ΔfG298 (a)_ | -94.659 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 4 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -94.659 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 4 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.6415 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
 | Gibbs energy of formation; _printed: ΔfG298 (a)_ | -94.3555 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 9 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -94.3555 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 9 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.018 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.3235 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
 | Gibbs energy of formation; _printed: ΔfG298 (a)_ | -72.983 kJ/mol-atom | 298.15 | PbO2-I; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites ref. 29Mil_ | Table 1, p. 1, row 23 |  |
@@ -201,7 +185,7 @@ Table: Formation, O–Pb system
 | Gibbs energy of formation; _printed: ΔfG298_ | -72.983 kJ/mol-atom | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites ref. 29Mil_ | Table 1, p. 1, row 23 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -71.799 kJ/mol-atom | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 21 |  |
 
-### Heat capacity / entropy / enthalpy (50)
+### Heat capacity / entropy / enthalpy (47)
 
 Table: Heat capacity / entropy / enthalpy, O–Pb system
 
@@ -242,11 +226,8 @@ Table: Heat capacity / entropy / enthalpy, O–Pb system
 | Entropy; _printed: S298_ | 30.2857 J/mol-atom/K | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 13 |  |
 | Entropy; _printed: S298_ | 33.15 J/mol-atom/K | 298.15 | PbO-L; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 1, p. 1, row 2 |  |
 | Entropy; _printed: S298_ | 32.65 J/mol-atom/K | 298.15 | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites King 1958_ [doi](https://doi.org/10.1021/ja01543a014) | Table 1, p. 1, row 5 |  |
-| Entropy; _printed: S298_ | 32.65 J/mol-atom/K | 298.15 | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites King 1958_ [doi](https://doi.org/10.1021/ja01543a014) | Table 1, p. 1, row 5 |  |
 | Entropy; _printed: S298_ | 33.15 J/mol-atom/K | 298.15 | PbO-L; _alloy: Pb 0.5_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
 | Entropy; _printed: S298_ | 34.35 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kostryukov 1960_ | Table 1, p. 1, row 11 |  |
-| Entropy; _printed: S298_ | 34.35 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kostryukov 1960_ | Table 1, p. 1, row 11 |  |
-| Entropy; _printed: S298_ | 33.7 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites King 1958_ [doi](https://doi.org/10.1021/ja01543a014) | Table 1, p. 1, row 10 |  |
 | Entropy; _printed: S298_ | 33.7 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites King 1958_ [doi](https://doi.org/10.1021/ja01543a014) | Table 1, p. 1, row 10 |  |
 | Entropy; _printed: S298_ | 34.35 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
 | Entropy; _printed: S298_ | 34.35 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |

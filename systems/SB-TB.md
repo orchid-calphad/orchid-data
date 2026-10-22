@@ -86,7 +86,7 @@ Table: Phase transition, Sb–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2433.15 K | 2433.15 | congruent | model | [1] Gao 2012 | p. 4 | “The congruent melting temperature of SbTb calculated in the present work is 2160 °C, in agreement with the experimental result \[11\].” |
+| Phase transition | 2433.15 K | 2433.15 | congruent transformation | model | [1] Gao 2012 | p. 4 | “The congruent melting temperature of SbTb calculated in the present work is 2160 °C, in agreement with the experimental result \[11\].” |
 
 ## Sources
 

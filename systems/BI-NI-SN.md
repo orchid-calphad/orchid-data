@@ -28,8 +28,8 @@ Table: Invariant reactions reported in the literature for the Bi–Ni–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1195.47 | P: L + Ni3Sn_HT -> fcc(Ni) + Ni3Sn_LT | L: Bi 0.688, Ni 0.3073, Sn 0.0046 | unspecified | [1] Seo 2007 | Table V, p. 7, row 1 |  |
-| 1123.24 | P: L + Ni3Sn_HT -> Ni3Sn_LT + Ni3Sn2 | L: Bi 0.8403, Ni 0.1377, Sn 0.022 | unspecified | [1] Seo 2007 | Table V, p. 7, row 2 |  |
+| 1195.47 | peritectic: L + Ni3Sn_HT -> fcc(Ni) + Ni3Sn_LT | L: Bi 0.688, Ni 0.3073, Sn 0.0046 | unspecified | [1] Seo 2007 | Table V, p. 7, row 1 |  |
+| 1123.24 | peritectic: L + Ni3Sn_HT -> Ni3Sn_LT + Ni3Sn2 | L: Bi 0.8403, Ni 0.1377, Sn 0.022 | unspecified | [1] Seo 2007 | Table V, p. 7, row 2 |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Au–Nd system
 
-> Au–Nd system: 147 accepted literature values (invariant reaction 75, formation 70, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Nd system: 145 accepted literature values (invariant reaction 75, formation 68, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-ND.html · Markdown: https://data.orchid-project.org/systems/AU-ND.md
 
-147 accepted literature values from 2 paper(s) (experimental 43, model 104); 2 calculated phase diagram(s).
+145 accepted literature values from 2 paper(s) (experimental 43, model 102); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-ND.json) · [CSV](https://data.orchid-project.org/systems/AU-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ND/AuNd-15Wan.json) · [Markdown](https://data.orchid-project.org/systems/AU-ND.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 43 |
-| model | 104 |
+| model | 102 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 75 |
 | phase transition | 2 |
-| formation | 70 |
+| formation | 68 |
 
 ## Calculated phase diagrams
 
@@ -66,78 +66,78 @@ Table: Invariant reactions reported in the literature for the Au–Nd system (75
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1743.55 | Congruent: L \<-> γAuNd | L: Nd 0.5; γAuNd: Nd 0.5 | model | [1] Wang 2015 | Table 1, p. 3, row 8 |  |
+| 1743.55 | congruent melting: L \<-> γAuNd | L: Nd 0.5; γAuNd: Nd 0.5 | model | [1] Wang 2015 | Table 1, p. 3, row 8 |  |
 | 1743.4 | Liq ↔ γNdAu | Liq: Au 0.5, Nd 0.5; γNdAu: Au 0.5, Nd 0.5 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 11 |  |
-| 1743.15 | Congruent: L \<-> γAuNd | L: Nd 0.5; γAuNd: Nd 0.5 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 7 |  |
+| 1743.15 | congruent melting: L \<-> γAuNd | L: Nd 0.5; γAuNd: Nd 0.5 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 7 |  |
 | 1743 | Liq ↔ γNdAu | Liq: Au 0.5; γNdAu: Au 0.5, Nd 0.5 | model | [2] Moustaine 2016 | Table 4, p. 5, row 9 |  |
 | 1743 | Liq ↔ γNdAu | Liq: Au 0.5, Nd 0.5; γNdAu: Au 0.5, Nd 0.5 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 12 |  |
 | 1723 | Liq ↔ γNdAu | Liq: Au 0.5; γNdAu: Au 0.5, Nd 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1987_ | Table 4, p. 5, row 10 |  |
-| 1633.95 | Allotropic: γAuNd \<-> βAuNd | γAuNd: Au 0.5, Nd 0.5; βAuNd: Nd 0.5 | model | [1] Wang 2015 | Table 1, p. 3, row 10 |  |
+| 1633.95 | polymorphic: γAuNd \<-> βAuNd | γAuNd: Au 0.5, Nd 0.5; βAuNd: Nd 0.5 | model | [1] Wang 2015 | Table 1, p. 3, row 10 |  |
 | 1633.8 | βNdAu ↔ γNdAu | βNdAu: Au 0.5; γNdAu: Au 0.5, Nd 0.5 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 17 |  |
-| 1633.15 | Allotropic: γAuNd \<-> βAuNd | γAuNd: Au 0.5, Nd 0.5; βAuNd: Nd 0.5 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 9 |  |
+| 1633.15 | polymorphic: γAuNd \<-> βAuNd | γAuNd: Au 0.5, Nd 0.5; βAuNd: Nd 0.5 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 9 |  |
 | 1633 | βNdAu ↔ γNdAu | βNdAu: Au 0.5; γNdAu: Au 0.5, Nd 0.5 | model | [2] Moustaine 2016 | Table 4, p. 5, row 16 |  |
 | 1633 | βNdAu ↔ γNdAu | βNdAu: Au 0.5; γNdAu: Au 0.5, Nd 0.5 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 18 |  |
-| 1523.25 | Peritectic: L + βAuNd \<-> Au4Nd3 | L: Nd 0.417; βAuNd: Nd 0.5; Au4Nd3: Nd 0.429 | model | [1] Wang 2015 | Table 1, p. 3, row 14 |  |
-| 1523.15 | Peritectic: L + βAuNd \<-> Au4Nd3 | L: Nd 0.415; βAuNd: Nd 0.5; Au4Nd3: Nd 0.429 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 13 |  |
+| 1523.25 | peritectic: L + βAuNd \<-> Au4Nd3 | L: Nd 0.417; βAuNd: Nd 0.5; Au4Nd3: Nd 0.429 | model | [1] Wang 2015 | Table 1, p. 3, row 14 |  |
+| 1523.15 | peritectic: L + βAuNd \<-> Au4Nd3 | L: Nd 0.415; βAuNd: Nd 0.5; Au4Nd3: Nd 0.429 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 13 |  |
 | 1523.1 | Liq + βNdAu ↔ Nd3Au4 | Liq: Au 0.585; βNdAu: Au 0.5; Nd3Au4: Au 0.571 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 20 |  |
 | 1523 | Liq + βNdAu ↔ Nd3Au4 | Liq: Au 0.591; βNdAu: Au 0.5; Nd3Au4: Au 0.571 | model | [2] Moustaine 2016 | Table 4, p. 5, row 19 |  |
 | 1523 | Liq + βNdAu ↔ Nd3Au4 | Liq: Au 0.583; βNdAu: Au 0.5; Nd3Au4: Au 0.571 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 21 |  |
-| 1483.55 | Congruent: L \<-> Au51Nd14 | L: Nd 0.215; Au51Nd14: Nd 0.215 | model | [1] Wang 2015 | Table 1, p. 3, row 22 |  |
+| 1483.55 | congruent melting: L \<-> Au51Nd14 | L: Nd 0.215; Au51Nd14: Nd 0.215 | model | [1] Wang 2015 | Table 1, p. 3, row 22 |  |
 | 1483.4 | Liq ↔ Nd14Au51 | Liq: Au 0.785; Nd14Au51: Au 0.784615, Nd 0.215385 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 33 |  |
-| 1483.15 | Congruent: L \<-> Au51Nd14 | L: Nd 0.215; Au51Nd14: Nd 0.215 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 21 |  |
+| 1483.15 | congruent melting: L \<-> Au51Nd14 | L: Nd 0.215; Au51Nd14: Nd 0.215 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 21 |  |
 | 1483 | Liq ↔ Nd14Au51 | Liq: Au 0.785; Nd14Au51: Au 0.784615, Nd 0.215385 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 34 |  |
 | 1483 | Liq ↔ Nd14Au51 | Liq: Au 0.785; Nd14Au51: Au 0.784615, Nd 0.215385 | model | [2] Moustaine 2016 | Table 4, p. 5, row 31 |  |
 | 1452 | Liq ↔ Nd14Au51 | Liq: Au 0.785; Nd14Au51: Au 0.784615, Nd 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneidner 1987_ | Table 4, p. 5, row 32 |  |
-| 1443.95 | Congruent: L \<-> Au36Nd17 | L: Nd 0.321; Au36Nd17: Nd 0.321 | model | [1] Wang 2015 | Table 1, p. 3, row 18 |  |
+| 1443.95 | congruent melting: L \<-> Au36Nd17 | L: Nd 0.321; Au36Nd17: Nd 0.321 | model | [1] Wang 2015 | Table 1, p. 3, row 18 |  |
 | 1443.8 | Liq ↔ Nd17Au36 | Liq: Au 0.679; Nd17Au36: Au 0.679245, Nd 0.320755 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 26 |  |
-| 1443.15 | Congruent: L \<-> Au36Nd17 | L: Nd 0.321; Au36Nd17: Nd 0.321 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 17 |  |
+| 1443.15 | congruent melting: L \<-> Au36Nd17 | L: Nd 0.321; Au36Nd17: Nd 0.321 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 17 |  |
 | 1443 | Liq ↔ Nd17Au36 | Liq: Au 0.679; Nd17Au36: Au 0.679245, Nd 0.320755 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 27 |  |
 | 1443 | Liq ↔ Nd17Au36 | Liq: Au 0.679; Nd17Au36: Au 0.679245, Nd 0.320755 | model | [2] Moustaine 2016 | Table 4, p. 5, row 25 |  |
 | 1356 | Liq ↔ Nd17Au36 + Nd3Au4 | Liq: Au 0.64; Nd17Au36: Au 0.679; Nd3Au4: Au 0.571 | model | [2] Moustaine 2016 | Table 4, p. 5, row 22 |  |
-| 1353.15 | Eutectic: L \<-> Au4Nd3 + Au36Nd17 | L: Nd 0.37; Au4Nd3: Nd 0.429; Au36Nd17: Nd 0.321 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 15 |  |
+| 1353.15 | eutectic: L \<-> Au4Nd3 + Au36Nd17 | L: Nd 0.37; Au4Nd3: Nd 0.429; Au36Nd17: Nd 0.321 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 15 |  |
 | 1353 | Liq ↔ Nd17Au36 + Nd3Au4 | Liq: Au 0.63; Nd17Au36: Au 0.679; Nd3Au4: Au 0.571 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 24 |  |
-| 1351.55 | Eutectic: L \<-> Au4Nd3 + Au36Nd17 | L: Nd 0.364; Au4Nd3: Nd 0.429; Au36Nd17: Nd 0.321 | model | [1] Wang 2015 | Table 1, p. 3, row 16 |  |
+| 1351.55 | eutectic: L \<-> Au4Nd3 + Au36Nd17 | L: Nd 0.364; Au4Nd3: Nd 0.429; Au36Nd17: Nd 0.321 | model | [1] Wang 2015 | Table 1, p. 3, row 16 |  |
 | 1351.4 | Liq ↔ Nd17Au36 + Nd3Au4 | Liq: Au 0.636; Nd17Au36: Au 0.679; Nd3Au4: Au 0.571 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 23 |  |
-| 1323.15 | Eutectic: L \<-> Au36Nd17 + Au51Nd14 | L: Nd 0.28; Au36Nd17: Nd 0.321; Au51Nd14: Nd 0.215 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 19 |  |
+| 1323.15 | eutectic: L \<-> Au36Nd17 + Au51Nd14 | L: Nd 0.28; Au36Nd17: Nd 0.321; Au51Nd14: Nd 0.215 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 19 |  |
 | 1323 | Liq ↔ Nd17Au36 + Nd14Au51 | Liq: Au 0.724; Nd17Au36: Au 0.679; Nd14Au51: Au 0.785 | model | [2] Moustaine 2016 | Table 4, p. 5, row 28 |  |
 | 1323 | Liq ↔ Nd17Au36 + Nd14Au51 | Liq: Au 0.72; Nd17Au36: Au 0.679; Nd14Au51: Au 0.785 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 30 |  |
-| 1322.25 | Eutectic: L \<-> Au36Nd17 + Au51Nd14 | L: Nd 0.273; Au36Nd17: Nd 0.321; Au51Nd14: Nd 0.215 | model | [1] Wang 2015 | Table 1, p. 3, row 20 |  |
+| 1322.25 | eutectic: L \<-> Au36Nd17 + Au51Nd14 | L: Nd 0.273; Au36Nd17: Nd 0.321; Au51Nd14: Nd 0.215 | model | [1] Wang 2015 | Table 1, p. 3, row 20 |  |
 | 1322.1 | Liq ↔ Nd17Au36 + Nd14Au51 | Liq: Au 0.727; Nd17Au36: Au 0.679; Nd14Au51: Au 0.785 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 29 |  |
-| 1148.15 | Peritectic: L + Au51Nd14 \<-> Au6Nd | L: Nd 0.129; Au51Nd14: Nd 0.215; Au6Nd: Nd 0.143 | model | [1] Wang 2015 | Table 1, p. 3, row 24 |  |
-| 1148.15 | Peritectic: L + Au51Nd14 \<-> Au6Nd | L: Nd 0.13; Au51Nd14: Nd 0.215; Au6Nd: Nd 0.143 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 23 |  |
+| 1148.15 | peritectic: L + Au51Nd14 \<-> Au6Nd | L: Nd 0.129; Au51Nd14: Nd 0.215; Au6Nd: Nd 0.143 | model | [1] Wang 2015 | Table 1, p. 3, row 24 |  |
+| 1148.15 | peritectic: L + Au51Nd14 \<-> Au6Nd | L: Nd 0.13; Au51Nd14: Nd 0.215; Au6Nd: Nd 0.143 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 23 |  |
 | 1148 | Liq + Nd14Au51 ↔ NdAu6 | Liq: Au 0.875; Nd14Au51: Au 0.785; NdAu6: Au 0.857 | model | [2] Moustaine 2016 | Table 4, p. 5, row 35 |  |
 | 1148 | Liq + Nd14Au51 ↔ NdAu6 | Liq: Au 0.87; Nd14Au51: Au 0.785; NdAu6: Au 0.857 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 38 |  |
 | 1148 | Liq + Nd14Au51 ↔ NdAu6 | Liq: Au 0.871; Nd14Au51: Au 0.785; NdAu6: Au 0.857 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 37 |  |
 | 1148 | peritectic |  | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | p. 2 | “These authors reported that the homogeneity range of the Nd14Au51 compound is towards the Au rich part with a maximum homogeneity, reached at the 1148 K peritectic temperature.” |
 | 1116 | Liq + Nd14Au51 ↔ NdAu6 | Liq: Au 0.892; Nd14Au51: Au 0.785; NdAu6: Au 0.857 | experimental | [2] Moustaine 2016; _cites Gschneidner 1987_ | Table 4, p. 5, row 36 |  |
 | 1099 | (βNd) ↔ (αNd) + liq | (βNd): Au 0.009; (αNd): Au 8.000e-4; liq: Au 0.132 | model | [2] Moustaine 2016 | Table 4, p. 5, row 43 |  |
-| 1098.15 | Catatectic: βNd \<-> L + αNd | βNd: Nd 0.991; L: Nd 0.909; αNd: Nd 0.998 | model | [1] Wang 2015 | Table 1, p. 3, row 2 |  |
-| 1098.15 | Catatectic: βNd \<-> L + αNd | βNd: Nd 0.99; L: Nd 0.9 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 1 |  |
+| 1098.15 | metatectic/catatectic: βNd \<-> L + αNd | βNd: Nd 0.991; L: Nd 0.909; αNd: Nd 0.998 | model | [1] Wang 2015 | Table 1, p. 3, row 2 |  |
+| 1098.15 | metatectic/catatectic: βNd \<-> L + αNd | βNd: Nd 0.99; L: Nd 0.9 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 1 |  |
 | 1098 | (βNd) ↔ (αNd) + liq | (βNd): Au 0.009; (αNd): Au 0.002; liq: Au 0.091 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 44 |  |
 | 1098 | (βNd) ↔ (αNd) + liq | (βNd): Au 0.01; liq: Au 0.1 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 45 |  |
 | 1091 | Liq + βNdAu ↔ Nd2Au | Liq: Au 0.273; βNdAu: Au 0.5; Nd2Au: Au 0.333 | experimental | [2] Moustaine 2016; _cites Gschneidner 1987_ | Table 4, p. 5, row 6 |  |
 | 1085 | Liq + βNdAu ↔ Nd2Au | Liq: Au 0.32; βNdAu: Au 0.5; Nd2Au: Au 0.334 | model | [2] Moustaine 2016 | Table 4, p. 5, row 5 |  |
 | 1085 | peritectic: Liq þ bNdAu4 Nd2Au |  | model | [2] Moustaine 2016 | p. 4 | “Satisfactory agreement was obtained between our calculated results and both experimental ones by Ref. \[27\] and the recently optimized values published by Wang et al. \[40\] except for the peritectic reaction Liq þ bNdAu4 Nd2Au for which we note a discrepancy of about 4.7 at % for the liquid composition at 1085 K.” |
-| 1083.45 | Peritectic: L + βAuNd \<-> AuNd2 | L: Nd 0.715; βAuNd: Nd 0.5; AuNd2: Nd 0.667 | model | [1] Wang 2015 | Table 1, p. 3, row 6 |  |
+| 1083.45 | peritectic: L + βAuNd \<-> AuNd2 | L: Nd 0.715; βAuNd: Nd 0.5; AuNd2: Nd 0.667 | model | [1] Wang 2015 | Table 1, p. 3, row 6 |  |
 | 1083.3 | Liq + βNdAu ↔ Nd2Au | Liq: Au 0.285; βNdAu: Au 0.5; Nd2Au: Au 0.333 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 7 |  |
-| 1083.15 | Peritectic: L + βAuNd \<-> AuNd2 | L: Nd 0.7; βAuNd: Nd 0.5; AuNd2: Nd 0.667 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 5 |  |
+| 1083.15 | peritectic: L + βAuNd \<-> AuNd2 | L: Nd 0.7; βAuNd: Nd 0.5; AuNd2: Nd 0.667 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 5 |  |
 | 1083 | Liq + βNdAu ↔ Nd2Au | Liq: Au 0.3; βNdAu: Au 0.5; Nd2Au: Au 0.333 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 8 |  |
-| 1071.15 | Eutectic: L \<-> Au6Nd + (Au) | L: Nd 0.085; Au6Nd: Nd 0.143; (Au): Nd 0.003 | model | [1] Wang 2015 | Table 1, p. 3, row 27 |  |
+| 1071.15 | eutectic: L \<-> Au6Nd + (Au) | L: Nd 0.085; Au6Nd: Nd 0.143; (Au): Nd 0.003 | model | [1] Wang 2015 | Table 1, p. 3, row 27 |  |
 | 1071 | Liq ↔ NdAu6 + Au | Liq: Au 0.915; NdAu6: Au 0.857; Au: Au 0.997 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 41 |  |
 | 1069 | Liq ↔ NdAu6 + Au | Liq: Au 0.905; NdAu6: Au 0.857; Au: Au 1 | experimental | [2] Moustaine 2016; _cites Gschneidner 1987_ | Table 4, p. 5, row 40 |  |
-| 1068.15 | Eutectic: L \<-> Au6Nd + (Au) | L: Nd 0.09; Au6Nd: Nd 0.143; (Au): Nd 0.003 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 26 |  |
-| 1068.15 | Eutectic: L \<-> Au6Nd + (Au) | Au6Nd: Au 0.857143, Nd 0.142857 | experimental | [1] Wang 2015; _cites Rider 1965_ | Table 1, p. 3, row 25 |  |
+| 1068.15 | eutectic: L \<-> Au6Nd + (Au) | L: Nd 0.09; Au6Nd: Nd 0.143; (Au): Nd 0.003 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 26 |  |
+| 1068.15 | eutectic: L \<-> Au6Nd + (Au) | Au6Nd: Au 0.857143, Nd 0.142857 | experimental | [1] Wang 2015; _cites Rider 1965_ | Table 1, p. 3, row 25 |  |
 | 1068 | Liq ↔ NdAu6 + Au | Liq: Au 0.91; NdAu6: Au 0.857; Au: Au 1 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 42 |  |
 | 1068 | eutectic |  | experimental | [2] Moustaine 2016; _cites Rider 1965_ | p. 2 | “Rider et al. \[31\] measured the solubility of Nd in Au by using the Xeray parametric method, and they reported that a solubility limit from 0.2 to 0.3 at % Nd at 1068 K eutectic temperature by using the lattice parameter of fcc_A1 (Au) as a function of the Nd content for annealed and quenched alloys.” |
 | 1067 | Liq ↔ NdAu6 + Au | Liq: Au 0.922; NdAu6: Au 0.857; Au: Au 1 | model | [2] Moustaine 2016 | Table 4, p. 5, row 39 |  |
-| 928.15 | Eutectic: L \<-> αNd + AuNd2 | L: Nd 0.826; αNd: Nd 0.998; AuNd2: Nd 0.667 | model | [1] Wang 2015 | Table 1, p. 3, row 4 |  |
-| 928.15 | Eutectic: L \<-> αNd + AuNd2 | L: Nd 0.81; AuNd2: Nd 0.667 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 3 |  |
+| 928.15 | eutectic: L \<-> αNd + AuNd2 | L: Nd 0.826; αNd: Nd 0.998; AuNd2: Nd 0.667 | model | [1] Wang 2015 | Table 1, p. 3, row 4 |  |
+| 928.15 | eutectic: L \<-> αNd + AuNd2 | L: Nd 0.81; AuNd2: Nd 0.667 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 3 |  |
 | 928 | Liq ↔ Nd2Au + αNd | Liq: Au 0.19; Nd2Au: Au 0.333 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 4 |  |
 | 928 | Liq ↔ Nd2Au + αNd | Liq: Au 0.191; Nd2Au: Au 0.333 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 3 |  |
 | 927 | Liq ↔ Nd2Au + αNd | Liq: Au 0.195; Nd2Au: Au 0.333; αNd: Au 0.005 | model | [2] Moustaine 2016 | Table 4, p. 5, row 1 |  |
 | 924 | Liq ↔ Nd2Au + αNd | Liq: Au 0.176; Nd2Au: Au 0.333 | experimental | [2] Moustaine 2016; _cites Gschneidner 1987_ | Table 4, p. 5, row 2 |  |
-| 703.25 | Allotropic: βAuNd \<-> αAuNd | βAuNd: Au 0.5, Nd 0.5; αAuNd: Nd 0.5 | model | [1] Wang 2015 | Table 1, p. 3, row 12 |  |
-| 703.15 | Allotropic: βAuNd \<-> αAuNd | βAuNd: Au 0.5, Nd 0.5; αAuNd: Nd 0.5 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 11 |  |
+| 703.25 | polymorphic: βAuNd \<-> αAuNd | βAuNd: Au 0.5, Nd 0.5; αAuNd: Nd 0.5 | model | [1] Wang 2015 | Table 1, p. 3, row 12 |  |
+| 703.15 | polymorphic: βAuNd \<-> αAuNd | βAuNd: Au 0.5, Nd 0.5; αAuNd: Nd 0.5 | experimental | [1] Wang 2015; _cites Saccone 1999_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 1, p. 3, row 11 |  |
 | 703.1 | αNdAu ↔ βNdAu | αNdAu: Au 0.5; βNdAu: Au 0.5, Nd 0.5 | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 4, p. 5, row 15 |  |
 | 703 | αNdAu ↔ βNdAu | αNdAu: Au 0.5; βNdAu: Au 0.5, Nd 0.5 | model | [2] Moustaine 2016 | Table 4, p. 5, row 13 |  |
 | 703 | αNdAu ↔ βNdAu | αNdAu: Au 0.5; βNdAu: Au 0.5, Nd 0.5 | experimental | [2] Moustaine 2016; _cites Saccone_ [doi](https://doi.org/10.1007/s11661-999-0266-7) | Table 4, p. 5, row 14 |  |
@@ -146,7 +146,7 @@ Table: Invariant reactions reported in the literature for the Au–Nd system (75
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Nd system (38)
+Table: Enthalpies of formation, Au–Nd system (37)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -168,7 +168,6 @@ Table: Enthalpies of formation, Au–Nd system (38)
 | UNKNOWN |  | -74.7 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 10 |  |
 | UNKNOWN |  | -74 kJ/mol-atom | 298 | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
 | UNKNOWN |  | -73.8 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 7 |  |
-| UNKNOWN |  | -73.8 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 9 |  |
 | UNKNOWN |  | -70.2 kJ/mol-atom ± 3.7 | 298 | experimental |  |  | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 3 |  |
 | UNKNOWN |  | -69 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 11 |  |
 | UNKNOWN |  | -67.5 kJ/mol-atom | 298 | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 13 |  |
@@ -200,7 +199,7 @@ Table: Phase transition, Au–Nd system
 | Phase transition | 703 K | 703 | polymorphic: aNdAu 4 bNdAu | experimental | [2] Moustaine 2016; _cites Mcmasters 1971_ | p. 2 | “These authors confirmed that NdAu has two allotropic transitions aNdAu 4 bNdAu and bNdAu 4 gNdAu which occurs at 703 K and at 1633 K, respectively.” |
 | Phase transition | 1633 K | 1633 | polymorphic: bNdAu 4 gNdAu | experimental | [2] Moustaine 2016; _cites Mcmasters 1971_ | p. 2 | “These authors confirmed that NdAu has two allotropic transitions aNdAu 4 bNdAu and bNdAu 4 gNdAu which occurs at 703 K and at 1633 K, respectively.” |
 
-### Formation (32)
+### Formation (31)
 
 Table: Formation, Au–Nd system
 
@@ -221,7 +220,6 @@ Table: Formation, Au–Nd system
 | Entropy of formation; _printed: ΔSf°_ | 0.2224 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 6 |  |
 | Entropy of formation; _printed: ΔSf°_ | -3.01 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.857, Nd 0.143_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 18 |  |
 | Entropy of formation; _printed: ΔSf°_ | 1.5076 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 8 |  |
-| Entropy of formation; _printed: ΔSf°_ | -4.36 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 9 |  |
 | Entropy of formation; _printed: ΔSf°_ | -4.36 J/mol-atom/K |  | βNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 7 |  |
 | Entropy of formation; _printed: ΔSf°_ | 0.2224 J/mol-atom/K |  | βNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 6 |  |
 | Entropy of formation; _printed: ΔSf°_ | 1.5076 J/mol-atom/K |  | γNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 8 |  |

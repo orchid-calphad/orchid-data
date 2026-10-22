@@ -33,15 +33,15 @@ Table: Invariant reactions reported in the literature for the N–Ti system (10)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2623 | peritectic: L + (Y+ S |  | experimental | [1] Vahlas 1991; _cites Palty 1954_ | p. 3 | “According to Palty et al. \[8\], the solidus of Ti-a starting from the peritectic L + (Y+ /? at 2323 K ends up in a peritectic L + (Y+ S localized at 2623 K with 20.5 at.% N in the (Y phase.” |
-| 2618 | Peritectic: Liquid + fcc-A1\* -> hcp-A3 | L: Ti 0.882; fcc-A1\*: Ti 0.695; hcp-A3: Ti 0.793 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 6 |  |
+| 2618 | peritectic: Liquid + fcc-A1\* -> hcp-A3 | L: Ti 0.882; fcc-A1\*: Ti 0.695; hcp-A3: Ti 0.793 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 6 |  |
 | 2293.15 | peritectic: peritectic |  | experimental | [3] Ohtani 1990 | p. 5 | “Thus, the compositions of the liquid phase in the lower(at 2020°C) and upper(at 235OOC) peritectic reactions were selected on the basis of Palty's phase diagram, although the locations are not supported by any experiments.” |
 | 2293 | peritectic |  | experimental | [4] Andersson 2008; _cites Palty 1954_ | p. 16 | “• the peritectic melting point of β -Ti (2293 ± 25 K) from Ref. \[96\].” |
-| 2268.6 | Peritectic: Liquid + hcp-A3 -> bcc-A2 | L: Ti 0.967; hcp-A3: Ti 0.863; bcc-A2: Ti 0.932 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 7 |  |
-| 1551.1 | Peritectoid: fcc-A1 + hcp-A3 -> Ti4N3 | fcc-A1: Ti 0.673; hcp-A3: Ti 0.784; Ti4N3: Ti 0.685 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 1 |  |
-| 1376.8 | Peritectoid: Ti4N3 + hcp-A3 -> Ti3N2 | Ti4N3: Ti 0.685; hcp-A3: Ti 0.784; Ti3N2: Ti 0.71 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 2 |  |
-| 1354.8 | Peritectoid: fcc-A1\* + Ti3N2 -> Ti2N | fcc-A1\*: Ti 0.658; Ti3N2: Ti 0.685; Ti2N: Ti 0.667 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 5 |  |
-| 1348.5 | Eutectoid: Ti4N3 -> Ti2N + Ti3N2 | Ti4N3: Ti 0.685; Ti2N: Ti 0.667; Ti3N2: Ti 0.71 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 4 |  |
-| 1336.2 | Eutectoid: Ti3N2 -> Ti2N + hcp-A3 | Ti3N2: Ti 0.71; Ti2N: Ti 0.667; hcp-A3: Ti 0.787 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 3 |  |
+| 2268.6 | peritectic: Liquid + hcp-A3 -> bcc-A2 | L: Ti 0.967; hcp-A3: Ti 0.863; bcc-A2: Ti 0.932 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 7 |  |
+| 1551.1 | peritectoid: fcc-A1 + hcp-A3 -> Ti4N3 | fcc-A1: Ti 0.673; hcp-A3: Ti 0.784; Ti4N3: Ti 0.685 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 1 |  |
+| 1376.8 | peritectoid: Ti4N3 + hcp-A3 -> Ti3N2 | Ti4N3: Ti 0.685; hcp-A3: Ti 0.784; Ti3N2: Ti 0.71 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 2 |  |
+| 1354.8 | peritectoid: fcc-A1\* + Ti3N2 -> Ti2N | fcc-A1\*: Ti 0.658; Ti3N2: Ti 0.685; Ti2N: Ti 0.667 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 5 |  |
+| 1348.5 | eutectoid: Ti4N3 -> Ti2N + Ti3N2 | Ti4N3: Ti 0.685; Ti2N: Ti 0.667; Ti3N2: Ti 0.71 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 4 |  |
+| 1336.2 | eutectoid: Ti3N2 -> Ti2N + hcp-A3 | Ti3N2: Ti 0.71; Ti2N: Ti 0.667; hcp-A3: Ti 0.787 | model | [2] Hämäläinen 1998 | Table I, p. 271, row 3 |  |
 
 ## Formation enthalpies
 
@@ -66,14 +66,14 @@ Table: Phase transition, N–Ti system
 | Phase transition | 1140 K | 1140 |  | model | [4] Andersson 2008 | p. 13 | “Below 1140 K this compound is of Ti3 C2 (AAAABB{111} ) type (labeled as '4' in Fig. 23) and above 1140 K the stable structure is instead of Ti2 C (AAABBB{111} ) type (labeled as '2' in Fig. 23), which is in qualitative agreement with Monte-Carlo simulations of Ref. \[22\].” |
 | Phase transition | 1323 K | 1323 | other: (Ti-a)-(Ti,N-e)-(Ti,N, \_,-a) | model | [1] Vahlas 1991; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02869274) | p. 4 | “Wriedt and Murray \[1\], after a critical analysis of the experimental methods used by the authors, suggested 1383 K for the temperature of the congruent decomposition of T&N-e and 1323 K for the temperature of the peritectoid (Ti-a)-(Ti,N-e)-(Ti,N, \_,-a).” |
 | Phase transition | 1332 K | 1332 | other | experimental | [4] Andersson 2008; _cites Lengauer 1988_ | p. 16 | “• the decomposition temperature of -Ti2 N (1332 ± 13 K) as reported in Ref. \[99\].” |
-| Phase transition | 1383 K | 1383 | congruent: congruent decomposition of T&N-e | model | [1] Vahlas 1991; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02869274) | p. 4 | “Wriedt and Murray \[1\], after a critical analysis of the experimental methods used by the authors, suggested 1383 K for the temperature of the congruent decomposition of T&N-e and 1323 K for the temperature of the peritectoid (Ti-a)-(Ti,N-e)-(Ti,N, \_,-a).” |
-| Phase transition | 1690 K | 1690 (none) | other | model | [4] Andersson 2008 | p. 14 | “Just above the order-disorder reaction at 1690 K the δ phase field is narrower than predicted by experiments.” |
+| Phase transition | 1383 K | 1383 | congruent transformation: congruent decomposition of T&N-e | model | [1] Vahlas 1991; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02869274) | p. 4 | “Wriedt and Murray \[1\], after a critical analysis of the experimental methods used by the authors, suggested 1383 K for the temperature of the congruent decomposition of T&N-e and 1323 K for the temperature of the peritectoid (Ti-a)-(Ti,N-e)-(Ti,N, \_,-a).” |
+| Phase transition | 1690 K | 1690 | other | model | [4] Andersson 2008 | p. 14 | “Just above the order-disorder reaction at 1690 K the δ phase field is narrower than predicted by experiments.” |
 | Phase transition | 1690 K | 1690 | other | model | [4] Andersson 2008 | p. 13 | “At 1690 K the low carbon δ phase boundary splits into another two-phase field, where the carbon-poor phase is disordered TiCx (labeled as '1' in Fig. 23) and the carbon rich phase exhibits the AAABBB{111} superstructure.” |
 | Phase transition | 1720 K | 1720 | other | model | [4] Andersson 2008 | p. 17 | “There is a small kink at 1720 K at the N poor side of the δ phase boundary, which is the effect of a phase transformation from the AAABBB{011} type of structure to a completely disordered state (labeled as '1' in Fig. 29).” |
 | Phase transition | 1860 K | 1860 |  | model | [4] Andersson 2008 | p. 17 | “Above 720 K the δ phase orders according to the AAABBB{011} pattern, which finally transforms into a completely disordered state above 1860 K.” |
-| Phase transition | 3223.15 K | 3223.15 | congruent | experimental | [3] Ohtani 1990 | p. 5 | “Accepting the results of Agte and Moers(lB), Palty et al. represented the melting point of the y phase as congruent without any own experimental evidence, and this congruent melting point(2950°C at SOat.% N) has been adopted in all published diagrams However, since then.” |
-| Phase transition | 3563.15 K | 3563.15 | congruent | model | [3] Ohtani 1990 | p. 5 | “On the basis of this information, pressure. Wriedt and Murray questioned the validity of the 2950°C value for the melting point at SOat.% N, and adopted the value of 3290°C for the congruent melting point of y phase with 47.4at.% N reported by Eron'yan et al..” |
-| Phase transition | 3585 K | 3585 | Congruent: fcc-A1 -> Liquid; _fcc-A1: Ti 0.533; L: Ti 0.541_ | model | [2] Hämäläinen 1998 | Table I, p. 271, row 8 |  |
+| Phase transition | 3223.15 K | 3223.15 | congruent transformation | experimental | [3] Ohtani 1990 | p. 5 | “Accepting the results of Agte and Moers(lB), Palty et al. represented the melting point of the y phase as congruent without any own experimental evidence, and this congruent melting point(2950°C at SOat.% N) has been adopted in all published diagrams However, since then.” |
+| Phase transition | 3563.15 K | 3563.15 | congruent transformation | model | [3] Ohtani 1990 | p. 5 | “On the basis of this information, pressure. Wriedt and Murray questioned the validity of the 2950°C value for the melting point at SOat.% N, and adopted the value of 3290°C for the congruent melting point of y phase with 47.4at.% N reported by Eron'yan et al..” |
+| Phase transition | 3585 K | 3585 | congruent melting: fcc-A1 -> Liquid; _fcc-A1: Ti 0.533; L: Ti 0.541_ | model | [2] Hämäläinen 1998 | Table I, p. 271, row 8 |  |
 
 ### Other property (1)
 

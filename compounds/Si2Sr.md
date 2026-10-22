@@ -1,33 +1,27 @@
 # Si2Sr: enthalpy of formation
 
-> Enthalpy of formation of Si2Sr: 22 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Si2Sr: 16 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Si2Sr.html · Markdown: https://data.orchid-project.org/compounds/Si2Sr.md
 
-22 accepted literature formation-enthalpy value(s) (experimental 6, model 9, DFT 6, unspecified 1); experimental median -41.5 kJ/mol-atom (n = 6); Materials Project -30.715 kJ/mol-atom (mp-aaaaacol); OQMD -35.357 kJ/mol-atom (oqmd-6867).
+16 accepted literature formation-enthalpy value(s) (experimental 4, model 5, DFT 6, unspecified 1); experimental median -41.5 kJ/mol-atom (n = 4); Materials Project -30.715 kJ/mol-atom (mp-aaaaacol); OQMD -35.357 kJ/mol-atom (oqmd-6867).
 
 Systems: [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Si2Sr reported in the literature (22)
+Table: Enthalpy of formation of Si2Sr reported in the literature (16)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -42.7 kJ/mol-atom | α-SrSi2 | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 22 |  |
 | -42.7 kJ/mol-atom ± 4.3 | α-Si2Sr | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 13 |  |
-| -42.7 kJ/mol-atom ± 4.3 | α-Si2Sr | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 13 |  |
-| -40.3 kJ/mol-atom ± 3.7 | β-Si2Sr | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10 |  |
 | -40.3 kJ/mol-atom ± 3.7 | β-Si2Sr | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10 |  |
 | -40.3 kJ/mol-atom | β-SrSi2 | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 26 |  |
 | -67.3 kJ/mol-atom | α-SrSi2 | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 17 |  |
 | -44.7 kJ/mol-atom | β-Si2Sr | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 12 |  |
-| -44.7 kJ/mol-atom | β-Si2Sr | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 12 |  |
-| -42 kJ/mol-atom | α-Si2Sr |  | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 15 |  |
 | -42 kJ/mol-atom | α-Si2Sr |  | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 15 |  |
 | -35.9 kJ/mol-atom | β-Si2Sr | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 11 |  |
-| -35.9 kJ/mol-atom | β-Si2Sr | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 11 |  |
-| -35.7 kJ/mol-atom | α-Si2Sr |  | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 14 |  |
 | -35.7 kJ/mol-atom | α-Si2Sr |  | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 14 |  |
 | -44.7 kJ/mol-atom | β-SrSi2 | 298 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009 | Table 2, p. 4, row 23 |  |
 | -42 kJ/mol-atom | α-SrSi2 | 298 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Garay 2009 | Table 2, p. 4, row 19 |  |

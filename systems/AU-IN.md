@@ -1,10 +1,10 @@
 # Au–In system
 
-> Au–In system: 212 accepted literature values (invariant reaction 96, crystal structure 76, phase transition 22, activity / EMF / Gibbs energy 17) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–In system: 174 accepted literature values (invariant reaction 96, crystal structure 38, phase transition 22, activity / EMF / Gibbs energy 17) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-IN.html · Markdown: https://data.orchid-project.org/systems/AU-IN.md
 
-212 accepted literature values from 4 paper(s) (experimental 74, model 127, unspecified 11); 5 calculated phase diagram(s).
+174 accepted literature values from 4 paper(s) (experimental 54, model 110, unspecified 10); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-IN.json) · [CSV](https://data.orchid-project.org/systems/AU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-IN/AuIn-03Liu.json) · [Markdown](https://data.orchid-project.org/systems/AU-IN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 74 |
-| model | 127 |
-| unspecified | 11 |
+| experimental | 54 |
+| model | 110 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 22 |
 | phase equilibrium | 1 |
 | activity / EMF / Gibbs energy | 17 |
-| crystal structure | 76 |
+| crystal structure | 38 |
 
 ## Calculated phase diagrams
 
@@ -161,85 +161,85 @@ Table: Invariant reactions reported in the literature for the Au–In system (96
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 923 | Peritectic: L + fcc -> α1 |  | model | [1] Shen 2021 | Table 4, p. 7, row 4 |  |
+| 923 | peritectic: L + fcc -> α1 |  | model | [1] Shen 2021 | Table 4, p. 7, row 4 |  |
 | 922.4 | peritectic: fcc - A1 + liq = α1 | fcc - A1: In 0.125; liq: In 0.24; α1: In 0.142 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 1 |  |
 | 922.15 | L -> α1+Fcc |  | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 2 |  |
 | 922.15 | L -> α1+Fcc |  | model | [3] Liu 2003 | Table 3, p. 6, row 3 |  |
-| 922 | Peritectic: L + fcc -> α1 |  | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 2 |  |
-| 922 | Peritectic: L + fcc -> α1 |  | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 3 |  |
+| 922 | peritectic: L + fcc -> α1 |  | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 2 |  |
+| 922 | peritectic: L + fcc -> α1 |  | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 3 |  |
 | 915.15 | L -> α1+Fcc |  | unspecified | [3] Liu 2003; _cites ref. 1_ | Table 3, p. 6, row 1 |  |
-| 915 | Peritectic: L + fcc -> α1 |  | model | [1] Shen 2021; _cites Ansara 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990032-s) | Table 4, p. 7, row 1 |  |
+| 915 | peritectic: L + fcc -> α1 |  | model | [1] Shen 2021; _cites Ansara 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990032-s) | Table 4, p. 7, row 1 |  |
 | 914.8 | peritectic: fcc - A1 + liq = α1 | fcc - A1: In 0.131; liq: In 0.225; α1: In 0.139 | model | [2] Ansara 1992 | Table 1, p. 3, row 2 |  |
 | 914.15 | L -> α1+Hcp |  | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 5 |  |
 | 914.15 | L -> α1+Hcp |  | model | [3] Liu 2003 | Table 3, p. 6, row 6 |  |
-| 914 | Peritectic: L + α1 -> hcp |  | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 7 |  |
-| 914 | Peritectic: L + α1 -> hcp |  | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 6 |  |
+| 914 | peritectic: L + α1 -> hcp |  | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 7 |  |
+| 914 | peritectic: L + α1 -> hcp |  | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 6 |  |
 | 914 | peritectic: α1 + liq -> hcp - A3 | α1: In 0.143; liq: In 0.244; hcp - A3: In 0.157 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 3 |  |
-| 913.1 | Peritectic: L + α1 -> hcp |  | model | [1] Shen 2021 | Table 4, p. 7, row 8 |  |
+| 913.1 | peritectic: L + α1 -> hcp |  | model | [1] Shen 2021 | Table 4, p. 7, row 8 |  |
 | 907.3 | peritectic: α1 + liq -> hcp - A3 | α1: In 0.14; liq: In 0.228; hcp - A3: In 0.163 | model | [2] Ansara 1992 | Table 1, p. 3, row 4 |  |
 | 907.15 | L -> α1+Hcp |  | unspecified | [3] Liu 2003; _cites ref. 1_ | Table 3, p. 6, row 4 |  |
-| 907 | Peritectic: L + α1 -> hcp |  | model | [1] Shen 2021; _cites Ansara 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990032-s) | Table 4, p. 7, row 5 |  |
-| 813.7 | fusion: AuIn2 = liq | AuIn2: In 0.667; liq: In 0.667 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 23 |  |
-| 812.1 | fusion: AuIn2 = liq | AuIn2: Au 0.333333, In 0.666667; liq: Au 0.333333, In 0.666667 | model | [2] Ansara 1992 | Table 1, p. 3, row 24 |  |
-| 783.4 | fusion: AuIn = liq | AuIn: Au 0.5, In 0.5; liq: Au 0.5, In 0.5 | model | [2] Ansara 1992 | Table 1, p. 3, row 26 |  |
-| 782.6 | fusion: AuIn = liq | AuIn: In 0.5; liq: In 0.5 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 25 |  |
-| 772 | Eutectic: L -> AuIn + AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | model | [1] Shen 2021 | Table 4, p. 7, row 23 |  |
+| 907 | peritectic: L + α1 -> hcp |  | model | [1] Shen 2021; _cites Ansara 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990032-s) | Table 4, p. 7, row 5 |  |
+| 813.7 | congruent melting: AuIn2 = liq | AuIn2: In 0.667; liq: In 0.667 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 23 |  |
+| 812.1 | congruent melting: AuIn2 = liq | AuIn2: Au 0.333333, In 0.666667; liq: Au 0.333333, In 0.666667 | model | [2] Ansara 1992 | Table 1, p. 3, row 24 |  |
+| 783.4 | congruent melting: AuIn = liq | AuIn: Au 0.5, In 0.5; liq: Au 0.5, In 0.5 | model | [2] Ansara 1992 | Table 1, p. 3, row 26 |  |
+| 782.6 | congruent melting: AuIn = liq | AuIn: In 0.5; liq: In 0.5 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 25 |  |
+| 772 | eutectic: L -> AuIn + AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | model | [1] Shen 2021 | Table 4, p. 7, row 23 |  |
 | 770.5 | eutectic: AuIn + AuIn2 = liq | AuIn: In 0.5; AuIn2: In 0.667; liq: In 0.547 | model | [2] Ansara 1992 | Table 1, p. 3, row 17 |  |
 | 770.15 | L -> AuIn+AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | unspecified | [3] Liu 2003; _cites Mikler 1984_ [doi](https://doi.org/10.1515/ijmr-1984-750910) | Table 3, p. 6, row 19 |  |
 | 769.15 | L -> AuIn+AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | model | [3] Liu 2003 | Table 3, p. 6, row 20 |  |
-| 769 | Eutectic: L -> AuIn + AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 22 |  |
+| 769 | eutectic: L -> AuIn + AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 22 |  |
 | 768.4 | eutectic: AuIn + AuIn2 = liq | AuIn: In 0.5; AuIn2: In 0.667; liq: In 0.553 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 16 |  |
 | 768.15 | L -> AuIn+AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 18 |  |
-| 768 | Eutectic: L -> AuIn + AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 21 |  |
+| 768 | eutectic: L -> AuIn + AuIn2 | AuIn: In 0.5; AuIn2: In 0.666667 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 21 |  |
 | 766.15 | L -> Hcp+Au3In | Au3In: In 0.25 | unspecified | [3] Liu 2003; _cites ref. 1_ | Table 3, p. 6, row 7 |  |
-| 766 | Peritectic: L + hcp -> Au3In | Au3In: In 0.25 | model | [1] Shen 2021; _cites Ansara 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990032-s) | Table 4, p. 7, row 9 |  |
+| 766 | peritectic: L + hcp -> Au3In | Au3In: In 0.25 | model | [1] Shen 2021; _cites Ansara 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990032-s) | Table 4, p. 7, row 9 |  |
 | 765.8 | peritectic: hcp - A3 + liq -> Au3In\* | hcp - A3: In 0.225; liq: In 0.296; Au3In\*: In 0.25 | model | [2] Ansara 1992 | Table 1, p. 3, row 9 |  |
 | 765.5 | peritectic: hcp - A3 + liq -> ε | hcp - A3: In 0.23; liq: In 0.292; ε: In 0.25 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 8 |  |
-| 765 | Peritectic: L + hcp -> Au3In | Au3In: In 0.25 | model | [1] Shen 2021 | Table 4, p. 7, row 12 |  |
+| 765 | peritectic: L + hcp -> Au3In | Au3In: In 0.25 | model | [1] Shen 2021 | Table 4, p. 7, row 12 |  |
 | 760.15 | L -> Hcp+Au3In | Au3In: In 0.25 | model | [3] Liu 2003 | Table 3, p. 6, row 9 |  |
 | 760.15 | L -> Hcp+Au3In | Au3In: In 0.25 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 8 |  |
-| 760 | Peritectic: L + hcp -> Au3In | Au3In: In 0.25 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 11 |  |
+| 760 | peritectic: L + hcp -> Au3In | Au3In: In 0.25 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 11 |  |
 | 760 | peritectic: ε + liq -> γ | ε: In 0.25; liq: In 0.297; γ: In 0.288 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 10 |  |
-| 760 | Eutectic: L -> Au3In + γ | Au3In: In 0.25; γ: In 0.307692 | model | [1] Shen 2021; _cites Ansara 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990032-s) | Table 4, p. 7, row 13 |  |
-| 760 | Peritectic: L + hcp -> Au3In | Au3In: In 0.25 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 10 |  |
+| 760 | eutectic: L -> Au3In + γ | Au3In: In 0.25; γ: In 0.307692 | model | [1] Shen 2021; _cites Ansara 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990032-s) | Table 4, p. 7, row 13 |  |
+| 760 | peritectic: L + hcp -> Au3In | Au3In: In 0.25 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 10 |  |
 | 759.5 | peritectic: Au3In + liq -> Au7In3\* | Au3In: In 0.25; liq: In 0.301; Au7In3\*: In 0.3 | model | [2] Ansara 1992 | Table 1, p. 3, row 11 |  |
 | 755.15 | L -> Au3In+γ | Au3In: In 0.25; γ: In 0.307692 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 10 |  |
 | 752.15 | L -> Au3In+γ | Au3In: In 0.25; γ: In 0.307692 | model | [3] Liu 2003 | Table 3, p. 6, row 11 |  |
-| 751 | Eutectic: L -> Au3In + γ | Au3In: In 0.25; γ: In 0.307692 | model | [1] Shen 2021 | Table 4, p. 7, row 14 |  |
+| 751 | eutectic: L -> Au3In + γ | Au3In: In 0.25; γ: In 0.307692 | model | [1] Shen 2021 | Table 4, p. 7, row 14 |  |
 | 732.15 | L -> γ+Ψ | γ: In 0.307692; Ψ: In 0.4 | unspecified | [3] Liu 2003; _cites Mikler 1984_ [doi](https://doi.org/10.1515/ijmr-1984-750910) | Table 3, p. 6, row 13 |  |
-| 732 | Eutectic: L -> γ + Ψ | γ: In 0.307692; Ψ: In 0.4 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 16 |  |
+| 732 | eutectic: L -> γ + Ψ | γ: In 0.307692; Ψ: In 0.4 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 16 |  |
 | 729.5 | eutectic: γ + ψ = liq | γ: In 0.314; ψ: In 0.353; liq: In 0.35 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 12 |  |
 | 729.15 | L -> Ψ+AuIn | Ψ: In 0.4; AuIn: In 0.5 | unspecified | [3] Liu 2003; _cites Mikler 1984_ [doi](https://doi.org/10.1515/ijmr-1984-750910) | Table 3, p. 6, row 16 |  |
 | 729.15 | L -> Ψ+AuIn | Ψ: In 0.4; AuIn: In 0.5 | model | [3] Liu 2003 | Table 3, p. 6, row 17 |  |
-| 729 | Eutectic: L -> Ψ + AuIn | Ψ: In 0.4; AuIn: In 0.5 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 19 |  |
-| 729 | Eutectic: L -> Ψ + AuIn | Ψ: In 0.4; AuIn: In 0.5 | model | [1] Shen 2021 | Table 4, p. 7, row 20 |  |
+| 729 | eutectic: L -> Ψ + AuIn | Ψ: In 0.4; AuIn: In 0.5 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 19 |  |
+| 729 | eutectic: L -> Ψ + AuIn | Ψ: In 0.4; AuIn: In 0.5 | model | [1] Shen 2021 | Table 4, p. 7, row 20 |  |
 | 728.15 | L -> γ+Ψ | γ: In 0.307692; Ψ: In 0.4 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 12 |  |
-| 728 | Eutectic: L -> γ + Ψ | γ: In 0.307692; Ψ: In 0.4 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 15 |  |
+| 728 | eutectic: L -> γ + Ψ | γ: In 0.307692; Ψ: In 0.4 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 15 |  |
 | 727.3 | eutectic: ψ + AuIn = liq | ψ: In 0.395; AuIn: In 0.5; liq: In 0.398 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 14 |  |
 | 727.15 | L -> Ψ+AuIn | Ψ: In 0.4; AuIn: In 0.5 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 15 |  |
-| 727 | Eutectic: L -> Ψ + AuIn | Ψ: In 0.4; AuIn: In 0.5 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 18 |  |
+| 727 | eutectic: L -> Ψ + AuIn | Ψ: In 0.4; AuIn: In 0.5 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 18 |  |
 | 724 | eutectic: Au62In38 + AuIn = liq\* | Au62In38: In 0.38; AuIn: In 0.5; liq\*: In 0.405 | model | [2] Ansara 1992 | Table 1, p. 3, row 15 |  |
-| 723.6 | Eutectic: L -> γ + Ψ | γ: In 0.307692; Ψ: In 0.4 | model | [1] Shen 2021 | Table 4, p. 7, row 17 |  |
+| 723.6 | eutectic: L -> γ + Ψ | γ: In 0.307692; Ψ: In 0.4 | model | [1] Shen 2021 | Table 4, p. 7, row 17 |  |
 | 723.15 | L -> γ+Ψ | γ: In 0.307692; Ψ: In 0.4 | model | [3] Liu 2003 | Table 3, p. 6, row 14 |  |
 | 722.9 | eutectic: Au7In3 + Au62In38 = liq\* | Au7In3: In 0.3; Au62In38: In 0.38; liq\*: In 0.354 | model | [2] Ansara 1992 | Table 1, p. 3, row 13 |  |
-| 653.9 | Peritectoid: Au3In + γ -> γ' | Au3In: In 0.25; γ: In 0.307692; γ': In 0.3 | model | [1] Shen 2021 | Table 4, p. 7, row 38 |  |
+| 653.9 | peritectoid: Au3In + γ -> γ' | Au3In: In 0.25; γ: In 0.307692; γ': In 0.3 | model | [1] Shen 2021 | Table 4, p. 7, row 38 |  |
 | 653.15 | Au3In+γ -> γ' | Au3In: In 0.25; γ: In 0.307692; γ': In 0.3 | model | [3] Liu 2003 | Table 3, p. 6, row 33 |  |
-| 653 | Peritectoid: Au3In + γ -> γ' | Au3In: In 0.25; γ: In 0.307692; γ': In 0.3 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 37 |  |
+| 653 | peritectoid: Au3In + γ -> γ' | Au3In: In 0.25; γ: In 0.307692; γ': In 0.3 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 37 |  |
 | 648.15 | Au3In+γ -> γ' | Au3In: In 0.25; γ: In 0.307692; γ': In 0.3 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 32 |  |
-| 648 | Peritectoid: Au3In + γ -> γ' | Au3In: In 0.25; γ: In 0.307692; γ': In 0.3 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 36 |  |
+| 648 | peritectoid: Au3In + γ -> γ' | Au3In: In 0.25; γ: In 0.307692; γ': In 0.3 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 36 |  |
 | 638.15 | γ -> γ'+Ψ | γ: In 0.307692; γ': In 0.3; Ψ: In 0.4 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 34 |  |
-| 638 | Eutectoid: γ -> γ' + Ψ | γ: In 0.307692; γ': In 0.3; Ψ: In 0.4 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 39 |  |
+| 638 | eutectoid: γ -> γ' + Ψ | γ: In 0.307692; γ': In 0.3; Ψ: In 0.4 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 39 |  |
 | 634.15 | γ -> γ'+Ψ | γ: In 0.307692; γ': In 0.3; Ψ: In 0.4 | model | [3] Liu 2003 | Table 3, p. 6, row 35 |  |
-| 634 | Eutectoid: γ -> γ' + Ψ | γ: In 0.307692; γ': In 0.3; Ψ: In 0.4 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 40 |  |
-| 633.1 | Eutectoid: γ -> γ' + Ψ | γ: In 0.307692; γ': In 0.3; Ψ: In 0.4 | model | [1] Shen 2021 | Table 4, p. 7, row 41 |  |
-| 612 | congruent: ε = ε' | ε: In 0.25 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 22 |  |
+| 634 | eutectoid: γ -> γ' + Ψ | γ: In 0.307692; γ': In 0.3; Ψ: In 0.4 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 40 |  |
+| 633.1 | eutectoid: γ -> γ' + Ψ | γ: In 0.307692; γ': In 0.3; Ψ: In 0.4 | model | [1] Shen 2021 | Table 4, p. 7, row 41 |  |
+| 612 | congruent transformation: ε = ε' | ε: In 0.25 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 22 |  |
 | 610.15 | Au3In+Hcp -> β | Au3In: In 0.25; β: In 0.215 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 36 |  |
 | 610.15 | Au3In+Hcp -> β | Au3In: In 0.25; β: In 0.215 | model | [3] Liu 2003 | Table 3, p. 6, row 37 |  |
-| 610 | Peritectoid: Au3In + hcp -> β | Au3In: In 0.25; β: In 0.214 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 43 |  |
+| 610 | peritectoid: Au3In + hcp -> β | Au3In: In 0.25; β: In 0.214 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 43 |  |
 | 610 | peritectoid: hcp - A3 + ε = β | hcp - A3: In 0.193; ε: In 0.222; β: In 0.245 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 6 |  |
-| 610 | Peritectoid: Au3In + hcp -> β | Au3In: In 0.25; β: In 0.214 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 42 |  |
+| 610 | peritectoid: Au3In + hcp -> β | Au3In: In 0.25; β: In 0.214 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 42 |  |
 | 592 | peritectoid: hcp - A3 + Au3In -> Au7In2\* | hcp - A3: In 0.199; Au3In: In 0.25; Au7In2\*: In 0.22 | model | [2] Ansara 1992 | Table 1, p. 3, row 7 |  |
-| 590 | Peritectoid: Au3In + hcp -> β | Au3In: In 0.25; β: In 0.214 | model | [1] Shen 2021 | Table 4, p. 7, row 44 |  |
+| 590 | peritectoid: Au3In + hcp -> β | Au3In: In 0.25; β: In 0.214 | model | [1] Shen 2021 | Table 4, p. 7, row 44 |  |
 | 568.15 | Au3In+β -> β' | Au3In: In 0.25; β: In 0.215; β': In 0.222222 | model | [3] Liu 2003 | Table 3, p. 6, row 38 |  |
 | 548.15 | β -> β'+Hcp | β: In 0.215; β': In 0.222222 | model | [3] Liu 2003 | Table 3, p. 6, row 41 |  |
 | 548.15 | β -> β'+Hcp | β: In 0.215; β': In 0.222222 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 40 |  |
@@ -249,12 +249,12 @@ Table: Invariant reactions reported in the literature for the Au–In system (96
 | 497.15 | Ψ -> γ'+AuIn | Ψ: In 0.4; γ': In 0.3; AuIn: In 0.5 | model | [3] Liu 2003 | Table 3, p. 6, row 43 |  |
 | 486.6 | eutectoid: Au7In3 + AuIn = Au62In38 | Au7In3: In 0.3; AuIn: In 0.5; Au62In38: In 0.38 | model | [2] Ansara 1992 | Table 1, p. 3, row 21 |  |
 | 449.6 | eutectoid: α1 = fcc - A1 + hcp - A3 | α1: In 0.095; fcc - A1: In 0.0676; hcp - A3: In 0.121 | model | [2] Ansara 1992 | Table 1, p. 3, row 27 |  |
-| 429.4 | Eutectic: L -> AuIn2 + In (Bct) | AuIn2: In 0.666667; In (Bct): In 1 | model | [1] Shen 2021 | Table 4, p. 7, row 26 |  |
+| 429.4 | eutectic: L -> AuIn2 + In (Bct) | AuIn2: In 0.666667; In (Bct): In 1 | model | [1] Shen 2021 | Table 4, p. 7, row 26 |  |
 | 429.4 | eutectic: AuIn2 + In = liq | AuIn2: In 0.667; In: In 1; liq: In 0.999 | model | [2] Ansara 1992 | Table 1, p. 3, row 19 |  |
 | 429.15 | L -> AuIn2+Tetr(In) | AuIn2: In 0.666667; Tetr(In): In 1 | model | [3] Liu 2003 | Table 3, p. 6, row 23 |  |
 | 429.15 | L -> AuIn2+Tetr(In) | AuIn2: In 0.666667; Tetr(In): In 1 | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 21 |  |
-| 429 | Eutectic: L -> AuIn2 + In (Bct) | AuIn2: In 0.666667; In (Bct): In 1 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 24 |  |
-| 429 | Eutectic: L -> AuIn2 + In (Bct) | AuIn2: In 0.666667; In (Bct): In 1 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 25 |  |
+| 429 | eutectic: L -> AuIn2 + In (Bct) | AuIn2: In 0.666667; In (Bct): In 1 | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 24 |  |
+| 429 | eutectic: L -> AuIn2 + In (Bct) | AuIn2: In 0.666667; In (Bct): In 1 | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 25 |  |
 | 429 | eutectic: AuIn2 + In = liq | AuIn2: In 0.667; In: In 1; liq: In 0.999 | model | [2] Ansara 1992; _cites ref. 86_ | Table 1, p. 3, row 18 |  |
 | 428.15 | L -> AuIn2+Tetr(In) | AuIn2: In 0.666667; Tetr(In): In 1 | unspecified | [3] Liu 2003; _cites Mikler 1984_ [doi](https://doi.org/10.1515/ijmr-1984-750910) | Table 3, p. 6, row 22 |  |
 
@@ -266,26 +266,26 @@ Table: Phase transition, Au–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 659.15 K | 659.15 | liquidus | experimental | [4] Ghasemi 2014 | p. 6 | “While a fairly good agreement for most temperatures can be noticed, there are discrepancies between the calculated and the measured temperatures in some cases; especially for liquidus temperatures at 386 °C and 419 °C at gold composition of about 54 at.% and 68 at.%, respectively.” |
-| Phase transition | 692.15 K | 692.15 | liquidus | experimental | [4] Ghasemi 2014 | p. 6 | “While a fairly good agreement for most temperatures can be noticed, there are discrepancies between the calculated and the measured temperatures in some cases; especially for liquidus temperatures at 386 °C and 419 °C at gold composition of about 54 at.% and 68 at.%, respectively.” |
-| Phase transition | 731 K | 731 | Congruent: L -> Ψ; _L: In 0.4; Ψ: In 0.4_ | model | [1] Shen 2021 | Table 4, p. 7, row 29 |  |
-| Phase transition | 731 K | 731 | Congruent: L -> Ψ; _L: In 0.4; Ψ: In 0.4_ | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 27 |  |
+| Phase transition | 659.15 K | 659.15 | other | experimental | [4] Ghasemi 2014 | p. 6 | “While a fairly good agreement for most temperatures can be noticed, there are discrepancies between the calculated and the measured temperatures in some cases; especially for liquidus temperatures at 386 °C and 419 °C at gold composition of about 54 at.% and 68 at.%, respectively.” |
+| Phase transition | 692.15 K | 692.15 | other | experimental | [4] Ghasemi 2014 | p. 6 | “While a fairly good agreement for most temperatures can be noticed, there are discrepancies between the calculated and the measured temperatures in some cases; especially for liquidus temperatures at 386 °C and 419 °C at gold composition of about 54 at.% and 68 at.%, respectively.” |
+| Phase transition | 731 K | 731 | congruent melting: L -> Ψ; _L: In 0.4; Ψ: In 0.4_ | model | [1] Shen 2021 | Table 4, p. 7, row 29 |  |
+| Phase transition | 731 K | 731 | congruent melting: L -> Ψ; _L: In 0.4; Ψ: In 0.4_ | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 27 |  |
 | Phase transition | 731.15 K | 731.15 | L -> Ψ; _L: In 0.4; Ψ: In 0.4_ | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 24 |  |
-| Phase transition | 734 K | 734 | Congruent: L -> Ψ; _L: In 0.4; Ψ: In 0.4_ | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 28 |  |
+| Phase transition | 734 K | 734 | congruent melting: L -> Ψ; _L: In 0.4; Ψ: In 0.4_ | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 28 |  |
 | Phase transition | 734.15 K | 734.15 | L -> Ψ; _L: In 0.4; Ψ: In 0.4_ | model | [3] Liu 2003 | Table 3, p. 6, row 25 |  |
-| Phase transition | 779 K | 779 | Congruent: L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 31 |  |
+| Phase transition | 779 K | 779 | congruent melting: L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 31 |  |
 | Phase transition | 779.15 K | 779.15 | L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | model | [3] Liu 2003 | Table 3, p. 6, row 28 |  |
-| Phase transition | 782 K | 782 | Congruent: L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 30 |  |
+| Phase transition | 782 K | 782 | congruent melting: L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 30 |  |
 | Phase transition | 782.15 K | 782.15 | L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | unspecified | [3] Liu 2003; _cites Mikler 1984_ [doi](https://doi.org/10.1515/ijmr-1984-750910) | Table 3, p. 6, row 27 |  |
 | Phase transition | 782.15 K | 782.15 | L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 26 |  |
 | Phase transition | 782.75 K | 782.75 |  | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | p. 2 | “The accepted melting points of AuIn is 509.6 C and AuIn2 540.7 C.\[7\]” |
-| Phase transition | 783 K | 783 | Congruent: L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | model | [1] Shen 2021 | Table 4, p. 7, row 32 |  |
-| Phase transition | 812 K | 812 | Congruent: L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 34 |  |
+| Phase transition | 783 K | 783 | congruent melting: L -> AuIn; _L: In 0.5; AuIn: In 0.5_ | model | [1] Shen 2021 | Table 4, p. 7, row 32 |  |
+| Phase transition | 812 K | 812 | congruent melting: L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | model | [1] Shen 2021; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 4, p. 7, row 34 |  |
 | Phase transition | 812.15 K | 812.15 | L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | model | [3] Liu 2003 | Table 3, p. 6, row 31 |  |
 | Phase transition | 812.15 K | 812.15 | L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | unspecified | [3] Liu 2003; _cites Mikler 1984_ [doi](https://doi.org/10.1515/ijmr-1984-750910) | Table 3, p. 6, row 30 |  |
 | Phase transition | 813.85 K | 813.85 |  | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | p. 2 | “The accepted melting points of AuIn is 509.6 C and AuIn2 540.7 C.\[7\]” |
-| Phase transition | 814 K | 814 | Congruent: L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 33 |  |
-| Phase transition | 814 K | 814 | Congruent: L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | model | [1] Shen 2021 | Table 4, p. 7, row 35 |  |
+| Phase transition | 814 K | 814 | congruent melting: L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | experimental | [1] Shen 2021; _cites Okamoto 1987_ | Table 4, p. 7, row 33 |  |
+| Phase transition | 814 K | 814 | congruent melting: L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | model | [1] Shen 2021 | Table 4, p. 7, row 35 |  |
 | Phase transition | 814.15 K | 814.15 | L -> AuIn2; _L: In 0.666667; AuIn2: In 0.666667_ | experimental | [3] Liu 2003; _cites Okamoto 1987_ | Table 3, p. 6, row 29 |  |
 | Phase transition | 922.15 K | 922.15 | L + fcc ¢ D024 | model | [4] Ghasemi 2014; _cites Mikler 1984_ | p. 3 | “The Gibbs energies of the phases in the Au-rich corner of the Au-In phase diagram (fcc, D024 and liquid) at 649 °C, the temperature of the invariant reaction: L + fcc ¢ D024, according to \[26\], reproduced with the parameters evaluated in the current assessment and with those assessed by Liu et al. \[10\] have been compared.” |
 
@@ -321,87 +321,49 @@ Table: Activity / EMF / Gibbs energy, Au–In system
 | Gibbs energy; _printed: ΔG_ | -16540 J/mol | 673.15 | Ψ | model | [3] Liu 2003 | Table 4, p. 7, row 13 |  |
 | Gibbs energy; _printed: ΔG_ | -14222 J/mol | 673.15 | γ | model | [3] Liu 2003 | Table 4, p. 7, row 10 |  |
 
-### Crystal structure (76)
+### Crystal structure (38)
 
 Table: Crystal structure, Au–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 4.157 Å |  | Au; _Au: Au 1, In 0_ | model | [1] Shen 2021 | Table 3, p. 6, row 2 |  |
-| Lattice a | 4.157 Å |  | Au; _Au: Au 1, In 0_ | model | [1] Shen 2021 | Table 3, p. 6, row 2 |  |
-| Lattice a | 10.6875 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | model | [1] Shen 2021 | Table 3, p. 6, row 6 |  |
 | Lattice a | 10.6875 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | model | [1] Shen 2021 | Table 3, p. 6, row 6 |  |
 | Lattice a | 10.5387 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 5 |  |
-| Lattice a | 10.5387 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 5 |  |
-| Lattice a | 20.5948 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
 | Lattice a | 20.5948 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
 | Lattice a | 20.437 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 3 |  |
-| Lattice a | 20.437 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 3 |  |
-| Lattice a | 5.9358 Å |  | Au3In; _Au3In: Au 0.75, In 0.25_ | model | [1] Shen 2021 | Table 3, p. 6, row 9 |  |
 | Lattice a | 5.9358 Å |  | Au3In; _Au3In: Au 0.75, In 0.25_ | model | [1] Shen 2021 | Table 3, p. 6, row 9 |  |
 | Lattice a | 4.6826 Å |  | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | model | [1] Shen 2021 | Table 3, p. 6, row 15 |  |
-| Lattice a | 4.6826 Å |  | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | model | [1] Shen 2021 | Table 3, p. 6, row 15 |  |
-| Lattice a | 12.279 Å |  | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | model | [1] Shen 2021 | Table 3, p. 6, row 11 |  |
 | Lattice a | 12.279 Å |  | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | model | [1] Shen 2021 | Table 3, p. 6, row 11 |  |
 | Lattice a | 9.9631 Å |  | Au9In4 (γ); _Au9In4 (γ): Au 0.693, In 0.307_ | model | [1] Shen 2021 | Table 3, p. 6, row 13 |  |
-| Lattice a | 9.9631 Å |  | Au9In4 (γ); _Au9In4 (γ): Au 0.693, In 0.307_ | model | [1] Shen 2021 | Table 3, p. 6, row 13 |  |
-| Lattice a | 6.6867 Å |  | AuIn2; _AuIn2: Au 0.333, In 0.667_ | model | [1] Shen 2021 | Table 3, p. 6, row 18 |  |
 | Lattice a | 6.6867 Å |  | AuIn2; _AuIn2: Au 0.333, In 0.667_ | model | [1] Shen 2021 | Table 3, p. 6, row 18 |  |
 | Lattice a | 3.2816 Å |  | In; _In: Au 0, In 1_ | model | [1] Shen 2021 | Table 3, p. 6, row 20 |  |
-| Lattice a | 3.2816 Å |  | In; _In: Au 0, In 1_ | model | [1] Shen 2021 | Table 3, p. 6, row 20 |  |
-| Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1, In 0_ | unspecified | [1] Shen 2021 | Table 3, p. 6, row 1 |  |
 | Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1, In 0_ | unspecified | [1] Shen 2021 | Table 3, p. 6, row 1 |  |
 | Lattice a | 5.8572 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
-| Lattice a | 5.8572 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
-| Lattice a | 5.864 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
 | Lattice a | 5.864 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
 | Lattice a | 4.54 Å | 298.15 | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | experimental | [1] Shen 2021; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 3, p. 6, row 14 |  |
-| Lattice a | 4.54 Å | 298.15 | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | experimental | [1] Shen 2021; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 3, p. 6, row 14 |  |
-| Lattice a | 12.215 Å | 298.15 | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 10 |  |
 | Lattice a | 12.215 Å | 298.15 | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 10 |  |
 | Lattice a | 9.843 Å | 298.15 | Au9In4 (γ); _Au9In4 (γ): Au 0.693, In 0.307_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 12 |  |
-| Lattice a | 9.843 Å | 298.15 | Au9In4 (γ); _Au9In4 (γ): Au 0.693, In 0.307_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 12 |  |
-| Lattice a | 6.515 Å | 298.15 | AuIn2; _AuIn2: Au 0.333, In 0.667_ | experimental | [1] Shen 2021; _cites Zintl 1937_ [doi](https://doi.org/10.1515/zpch-1937-3528) | Table 3, p. 6, row 16 |  |
 | Lattice a | 6.515 Å | 298.15 | AuIn2; _AuIn2: Au 0.333, In 0.667_ | experimental | [1] Shen 2021; _cites Zintl 1937_ [doi](https://doi.org/10.1515/zpch-1937-3528) | Table 3, p. 6, row 16 |  |
 | Lattice a | 6.511 Å | 298.15 | AuIn2; _AuIn2: Au 0.333, In 0.667_ | experimental | [1] Shen 2021; _cites Jan 1965_ [doi](https://doi.org/10.1080/14786436508228675) | Table 3, p. 6, row 17 |  |
-| Lattice a | 6.511 Å | 298.15 | AuIn2; _AuIn2: Au 0.333, In 0.667_ | experimental | [1] Shen 2021; _cites Jan 1965_ [doi](https://doi.org/10.1080/14786436508228675) | Table 3, p. 6, row 17 |  |
-| Lattice a | 3.252 Å | 298.15 | In; _In: Au 0, In 1_ | experimental | [1] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19 |  |
 | Lattice a | 3.252 Å | 298.15 | In; _In: Au 0, In 1_ | experimental | [1] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19 |  |
 | Lattice b | 5.1006 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
-| Lattice b | 5.1006 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
-| Lattice b | 5.071 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 3 |  |
 | Lattice b | 5.071 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 3 |  |
 | Lattice b | 5.2624 Å |  | Au3In; _Au3In: Au 0.75, In 0.25_ | model | [1] Shen 2021 | Table 3, p. 6, row 9 |  |
-| Lattice b | 5.2624 Å |  | Au3In; _Au3In: Au 0.75, In 0.25_ | model | [1] Shen 2021 | Table 3, p. 6, row 9 |  |
-| Lattice b | 5.1504 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
 | Lattice b | 5.1504 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
 | Lattice b | 5.168 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
-| Lattice b | 5.168 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
-| Lattice c | 4.805 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | model | [1] Shen 2021 | Table 3, p. 6, row 6 |  |
 | Lattice c | 4.805 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | model | [1] Shen 2021 | Table 3, p. 6, row 6 |  |
 | Lattice c | 4.7862 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 5 |  |
-| Lattice c | 4.7862 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 5 |  |
-| Lattice c | 4.8739 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
 | Lattice c | 4.8739 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
 | Lattice c | 4.784 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 3 |  |
-| Lattice c | 4.784 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 3 |  |
-| Lattice c | 4.7686 Å |  | Au3In; _Au3In: Au 0.75, In 0.25_ | model | [1] Shen 2021 | Table 3, p. 6, row 9 |  |
 | Lattice c | 4.7686 Å |  | Au3In; _Au3In: Au 0.75, In 0.25_ | model | [1] Shen 2021 | Table 3, p. 6, row 9 |  |
 | Lattice c | 5.7883 Å |  | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | model | [1] Shen 2021 | Table 3, p. 6, row 15 |  |
-| Lattice c | 5.7883 Å |  | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | model | [1] Shen 2021 | Table 3, p. 6, row 15 |  |
-| Lattice c | 8.5941 Å |  | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | model | [1] Shen 2021 | Table 3, p. 6, row 11 |  |
 | Lattice c | 8.5941 Å |  | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | model | [1] Shen 2021 | Table 3, p. 6, row 11 |  |
 | Lattice c | 4.9362 Å |  | In; _In: Au 0, In 1_ | model | [1] Shen 2021 | Table 3, p. 6, row 20 |  |
-| Lattice c | 4.9362 Å |  | In; _In: Au 0, In 1_ | model | [1] Shen 2021 | Table 3, p. 6, row 20 |  |
-| Lattice c | 4.7532 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
 | Lattice c | 4.7532 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
 | Lattice c | 4.746 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
-| Lattice c | 4.746 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
-| Lattice c | 5.66 Å | 298.15 | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | experimental | [1] Shen 2021; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 3, p. 6, row 14 |  |
 | Lattice c | 5.66 Å | 298.15 | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | experimental | [1] Shen 2021; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 3, p. 6, row 14 |  |
 | Lattice c | 8.509 Å | 298.15 | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 10 |  |
-| Lattice c | 8.509 Å | 298.15 | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 10 |  |
-| Lattice c | 4.9466 Å | 298.15 | In; _In: Au 0, In 1_ | experimental | [1] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19 |  |
 | Lattice c | 4.9466 Å | 298.15 | In; _In: Au 0, In 1_ | experimental | [1] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19 |  |
 
 ## Sources

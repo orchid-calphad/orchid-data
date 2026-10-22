@@ -99,7 +99,7 @@ Table: Phase transition, Ho–Sn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2181 K | 2181 | Liq -> Ho5Sn3; _Liq: Sn 0.375; Ho5Sn3: Sn 0.375_ | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 16 |  |
 | Phase transition | 2188 K | 2188 | Liq -> Ho5Sn3; _Liq: Sn 0.375; Ho5Sn3: Sn 0.375_ | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 15 |  |
-| Phase transition | 2188 K | 2188 | congruent | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1 | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
+| Phase transition | 2188 K | 2188 | congruent transformation | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1 | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ni–Si system
 
-> Ni–Si system: 246 accepted literature values (invariant reaction 137, formation 78, phase transition 25, activity / EMF / Gibbs energy 6) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Si system: 224 accepted literature values (invariant reaction 137, formation 56, phase transition 25, activity / EMF / Gibbs energy 6) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SI.html · Markdown: https://data.orchid-project.org/systems/NI-SI.md
 
-246 accepted literature values from 5 paper(s) (experimental 123, model 77, DFT 1, unspecified 45); 10 calculated phase diagram(s).
+224 accepted literature values from 5 paper(s) (experimental 118, model 71, DFT 1, unspecified 34); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SI.json) · [CSV](https://data.orchid-project.org/systems/NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SI/NiSi-01Tok.json) · [Markdown](https://data.orchid-project.org/systems/NI-SI.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 123 |
-| model | 77 |
+| experimental | 118 |
+| model | 71 |
 | DFT | 1 |
-| unspecified | 45 |
+| unspecified | 34 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 137 |
 | phase transition | 25 |
-| formation | 78 |
+| formation | 56 |
 | activity / EMF / Gibbs energy | 6 |
 
 ## Calculated phase diagrams
@@ -269,158 +269,155 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1558.15 | Congruent point: Liquid -> θ | Liquid: Si 0.333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 33 |  |
-| 1556.15 | Congruent point: Liquid -> θ | Liquid: Ni 0.666667, Si 0.333333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 34 |  |
-| 1554.15 | Congruent point: Liquid -> θ | Liquid: Si 0.337; θ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 32 |  |
+| 1558.15 | congruent melting: Liquid -> θ | Liquid: Si 0.333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 33 |  |
+| 1556.15 | congruent melting: Liquid -> θ | Liquid: Ni 0.666667, Si 0.333333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 34 |  |
+| 1554.15 | congruent melting: Liquid -> θ | Liquid: Si 0.337; θ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 32 |  |
 | 1540.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 47 |  |
-| 1529.15 | Congruent point: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 23 |  |
-| 1528.15 | Peritectic: Liquid + θ -> δ | Liquid: Si 0.308; θ: Si 0.334; δ: Si 0.333 | experimental | [1] Tokunaga 2003; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02868885) | Table 3, p. 6, row 30 |  |
-| 1527.15 | Congruent point: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 24 |  |
-| 1525.15 | Peritectic: Liquid + θ -> δ | Liquid: Si 0.301; θ: Si 0.335; δ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 29 |  |
+| 1529.15 | congruent melting: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 23 |  |
+| 1528.15 | peritectic: Liquid + θ -> δ | Liquid: Si 0.308; θ: Si 0.334; δ: Si 0.333 | experimental | [1] Tokunaga 2003; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02868885) | Table 3, p. 6, row 30 |  |
+| 1527.15 | congruent melting: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 24 |  |
+| 1525.15 | peritectic: Liquid + θ -> δ | Liquid: Si 0.301; θ: Si 0.335; δ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 29 |  |
 | 1524.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | unspecified | [2] Du 1999 | Table IV, p. 4, row 46 |  |
 | 1524.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | experimental | [2] Du 1999 | Table IV, p. 4, row 45 |  |
-| 1524.15 | Peritectic: Liquid + θ -> δ | θ: Ni 0.666667, Si 0.333333; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 31 |  |
+| 1524.15 | peritectic: Liquid + θ -> δ | θ: Ni 0.666667, Si 0.333333; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 31 |  |
 | 1517.15 | L–γ–δ | L: Si 0.296; γ: Si 0.289; δ: Si 0.333 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 14 |  |
 | 1517.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 39 |  |
-| 1517.15 | Congruent point: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 21 |  |
-| 1515.15 | Congruent point: Liquid -> γ | Liquid: Si 0.28; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 22 |  |
+| 1517.15 | congruent melting: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 21 |  |
+| 1515.15 | congruent melting: Liquid -> γ | Liquid: Si 0.28; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 22 |  |
 | 1515.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 44 |  |
 | 1515.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 34 |  |
-| 1515.15 | Eutectic: Liquid -> γ + δ | Liquid: Si 0.295; γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 25 |  |
+| 1515.15 | eutectic: Liquid -> γ + δ | Liquid: Si 0.295; γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 25 |  |
 | 1513.15 | L–γ–δ | L: Si 0.297; γ: Si 0.289; δ: Si 0.333 | model | [3] Miettinen 2005 | Table 4, p. 6, row 15 |  |
 | 1513.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | unspecified | [2] Du 1999 | Table IV, p. 4, row 38 |  |
 | 1505.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999 | Table IV, p. 4, row 37 |  |
-| 1505.15 | Eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 28 |  |
+| 1505.15 | eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 28 |  |
 | 1504.15 | L–γ–δ | L: Si 0.314; γ: Si 0.289; δ: Si 0.333333 | experimental | [3] Miettinen 2005; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table 4, p. 6, row 13 |  |
-| 1504.15 | Eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 27 |  |
+| 1504.15 | eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 27 |  |
 | 1504.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 36 |  |
 | 1488.15 | L–γ–δ | L: Si 0.305; γ: Si 0.285714; δ: Si 0.333333 | experimental | [3] Miettinen 2005; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table 4, p. 6, row 12 |  |
-| 1488.15 | Eutectic: Liquid -> γ + δ | Liquid: Si 0.298; γ: Si 0.279; δ: Si 0.333 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 26 |  |
+| 1488.15 | eutectic: Liquid -> γ + δ | Liquid: Si 0.298; γ: Si 0.279; δ: Si 0.333 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 26 |  |
 | 1488.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table IV, p. 4, row 35 |  |
 | 1487.15 | L–γ–δ | L: Si 0.306; γ: Si 0.285714; δ: Si 0.333333 | experimental | [3] Miettinen 2005; _cites Iwase 1936_ | Table 4, p. 6, row 11 |  |
 | 1472.15 | L + γ ↔ β3 | γ: Si 0.285714; β3: Si 0.25 | unspecified | [2] Du 1999 | Table IV, p. 4, row 28 |  |
-| 1470.15 | Peritectic: Liquid + γ -> β3 | Liquid: Si 0.238; γ: Ni 0.714286, Si 0.285714; β3: Ni 0.75, Si 0.25 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 17 |  |
+| 1470.15 | peritectic: Liquid + γ -> β3 | Liquid: Si 0.238; γ: Ni 0.714286, Si 0.285714; β3: Ni 0.75, Si 0.25 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 17 |  |
 | 1464.15 | L + γ ↔ β3 | γ: Si 0.285714; β3: Si 0.25 | experimental | [2] Du 1999 | Table IV, p. 4, row 27 |  |
-| 1464.15 | Peritectic: Liquid + γ -> β3 | γ: Ni 0.714286, Si 0.285714; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 20 |  |
-| 1462.15 | Peritectic: Liquid + γ -> β3 | γ: Ni 0.714286, Si 0.285714; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 19 |  |
+| 1464.15 | peritectic: Liquid + γ -> β3 | γ: Ni 0.714286, Si 0.285714; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 20 |  |
+| 1462.15 | peritectic: Liquid + γ -> β3 | γ: Ni 0.714286, Si 0.285714; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 19 |  |
 | 1462.15 | L + γ ↔ β3 | γ: Si 0.285714; β3: Si 0.25 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 26 |  |
 | 1462.15 | L–β3–γ | L: Si 0.221; β3: Si 0.25; γ: Si 0.282 | experimental | [3] Miettinen 2005; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table 4, p. 6, row 8 |  |
 | 1446.15 | L + γ ↔ β3 | γ: Si 0.285714; β3: Si 0.25 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 29 |  |
 | 1446.15 | L–β3–γ | L: Si 0.232; β3: Si 0.25; γ: Si 0.286 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 9 |  |
 | 1443.15 | L–β3–γ | L: Si 0.225; β3: Si 0.25; γ: Si 0.286 | model | [3] Miettinen 2005 | Table 4, p. 6, row 10 |  |
 | 1443.15 | L–β3–γ | L: Si 0.225; β3: Si 0.25; γ: Si 0.28 | experimental | [3] Miettinen 2005; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table 4, p. 6, row 7 |  |
-| 1443.15 | Peritectic: Liquid + γ -> β3 | Liquid: Si 0.22; γ: Si 0.279; β3: Si 0.252 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 18 |  |
+| 1443.15 | peritectic: Liquid + γ -> β3 | Liquid: Si 0.22; γ: Si 0.279; β3: Si 0.252 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 18 |  |
 | 1443.15 | L + γ ↔ β3 | γ: Si 0.285714; β3: Si 0.25 | experimental | [2] Du 1999; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table IV, p. 4, row 25 |  |
 | 1436.15 | L + γ ↔ β3 | γ: Si 0.285714; β3: Si 0.25 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 24 |  |
 | 1436.15 | L–β3–γ | L: Si 0.222; β3: Si 0.25; γ: Si 0.285714 | experimental | [3] Miettinen 2005; _cites Iwase 1936_ | Table 4, p. 6, row 6 |  |
 | 1431.15 | L ↔ (Ni) + β3 | β3: Si 0.25 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 20 |  |
 | 1431.15 | L–fcc–β3 | L: Si 0.207; fcc: Si 0.161; β3: Si 0.248 | experimental | [3] Miettinen 2005; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table 4, p. 6, row 3 |  |
-| 1431.15 | Eutectic: Liquid -> (Ni) + β3 | β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 3 |  |
-| 1430.15 | Eutectic: Liquid -> (Ni) + β3 | β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 4 |  |
+| 1431.15 | eutectic: Liquid -> (Ni) + β3 | β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 3 |  |
+| 1430.15 | eutectic: Liquid -> (Ni) + β3 | β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 4 |  |
 | 1430.15 | L ↔ (Ni) + β3 | β3: Si 0.25 | experimental | [2] Du 1999 | Table IV, p. 4, row 21 |  |
 | 1424.15 | L–fcc–β3 | β3: Si 0.25 | experimental | [3] Miettinen 2005; _cites Iwase 1936_ | Table 4, p. 6, row 1 |  |
 | 1424.15 | L ↔ (Ni) + β3 | β3: Si 0.25 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 18 |  |
 | 1424.15 | L ↔ (Ni) + β3 | β3: Si 0.25 | unspecified | [2] Du 1999 | Table IV, p. 4, row 22 |  |
 | 1417.15 | L–fcc–β3 | L: Si 0.211; fcc: Si 0.158; β3: Si 0.25 | model | [3] Miettinen 2005 | Table 4, p. 6, row 5 |  |
 | 1416.15 | L–fcc–β3 | L: Si 0.21; fcc: Si 0.17; β3: Si 0.25 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 4 |  |
-| 1416.15 | Eutectic: Liquid -> (Ni) + β3 | Liquid: Si 0.214; (Ni): Si 0.158; β3: Si 0.25 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 2 |  |
+| 1416.15 | eutectic: Liquid -> (Ni) + β3 | Liquid: Si 0.214; (Ni): Si 0.158; β3: Si 0.25 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 2 |  |
 | 1416.15 | L ↔ (Ni) + β3 | β3: Si 0.25 | experimental | [2] Du 1999; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table IV, p. 4, row 19 |  |
 | 1416.15 | L ↔ (Ni) + β3 | β3: Si 0.25 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 23 |  |
 | 1416.15 | L–fcc–β3 | L: Si 0.214; fcc: Si 0.158; β3: Si 0.249 | experimental | [3] Miettinen 2005; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table 4, p. 6, row 2 |  |
-| 1415.15 | Eutectic: Liquid -> (Ni) + β3 | Liquid: Si 0.202; (Ni): Si 0.152; β3: Ni 0.75, Si 0.25 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 1 |  |
+| 1415.15 | eutectic: Liquid -> (Ni) + β3 | Liquid: Si 0.202; (Ni): Si 0.152; β3: Ni 0.75, Si 0.25 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 1 |  |
 | 1400.15 | β3 ↔ β2, (Ni), γ | β3: Si 0.25; β2: Si 0.25; γ: Si 0.285714 | experimental | [2] Du 1999 | Table IV, p. 4, row 4 |  |
 | 1400.15 | β3 ↔ β2, (Ni), γ | β3: Si 0.25; β2: Si 0.25; γ: Si 0.285714 | unspecified | [2] Du 1999 | Table IV, p. 4, row 5 |  |
-| 1400.15 | Polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 8 |  |
+| 1400.15 | polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 8 |  |
 | 1398.15 | β3 ↔ β2, (Ni), γ | β3: Si 0.25; β2: Si 0.25; γ: Si 0.285714 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 3 |  |
-| 1398.15 | Polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 7 |  |
+| 1398.15 | polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 7 |  |
 | 1392.15 | β3 ↔ β2, (Ni), γ | β3: Si 0.25; β2: Si 0.25; γ: Si 0.285714 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 1 |  |
 | 1390.15 | β3 ↔ β2, (Ni), γ | β3: Si 0.25; β2: Si 0.25; γ: Si 0.285714 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 6 |  |
-| 1390.15 | Polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 5 |  |
+| 1390.15 | polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 5 |  |
 | 1388.15 | β3 ↔ β2, (Ni), γ | β3: Si 0.25; β2: Si 0.25; γ: Si 0.285714 | experimental | [2] Du 1999; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table IV, p. 4, row 2 |  |
-| 1388.15 | Polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 6 |  |
+| 1388.15 | polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 6 |  |
 | 1320.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999 | Table IV, p. 4, row 10 |  |
-| 1320.15 | Peritectoid: (Ni) + β2 -> β1 | β2: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 12 |  |
+| 1320.15 | peritectoid: (Ni) + β2 -> β1 | β2: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 12 |  |
 | 1315.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | unspecified | [2] Du 1999 | Table IV, p. 4, row 11 |  |
 | 1313.15 | fcc–β1–β2 | β1: Si 0.24; β2: Si 0.25 | experimental | [3] Miettinen 2005; _cites Iwase 1936_ | Table 4, p. 6, row 28 |  |
 | 1313.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 7 |  |
 | 1309.15 | fcc–β1–β2 | fcc: Si 0.16; β1: Si 0.232; β2: Si 0.25 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 31 |  |
-| 1308.15 | Peritectoid: (Ni) + β2 -> β1 | (Ni): Si 0.147; β2: Si 0.251; β1: Si 0.237 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 10 |  |
+| 1308.15 | peritectoid: (Ni) + β2 -> β1 | (Ni): Si 0.147; β2: Si 0.251; β1: Si 0.237 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 10 |  |
 | 1308.15 | fcc–β1–β2 | fcc: Si 0.148; β1: Si 0.239; β2: Si 0.249 | experimental | [3] Miettinen 2005; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table 4, p. 6, row 29 |  |
-| 1308.15 | Peritectoid: (Ni) + β2 -> β1 | (Ni): Si 0.149; β2: Ni 0.75, Si 0.25; β1: Si 0.225 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 9 |  |
+| 1308.15 | peritectoid: (Ni) + β2 -> β1 | (Ni): Si 0.149; β2: Ni 0.75, Si 0.25; β1: Si 0.225 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 9 |  |
 | 1308.15 | fcc–β1–β2 | fcc: Si 0.149; β1: Si 0.24; β2: Si 0.25 | model | [3] Miettinen 2005 | Table 4, p. 6, row 32 |  |
 | 1308.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table IV, p. 4, row 8 |  |
 | 1307.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 12 |  |
 | 1288.15 | β1 + γ ↔ β2 | γ: Si 0.285714; β2: Si 0.25 | unspecified | [2] Du 1999 | Table IV, p. 4, row 16 |  |
 | 1283.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 9 |  |
 | 1283.15 | fcc–β1–β2 | fcc: Si 0.15; β1: Si 0.239; β2: Si 0.248 | experimental | [3] Miettinen 2005; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table 4, p. 6, row 30 |  |
-| 1283.15 | Peritectoid: (Ni) + β2 -> β1 | β2: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 11 |  |
-| 1279.15 | Eutectoid: β2 -> β1 + γ | β2: Ni 0.75, Si 0.25; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 16 |  |
+| 1283.15 | peritectoid: (Ni) + β2 -> β1 | β2: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 11 |  |
+| 1279.15 | eutectoid: β2 -> β1 + γ | β2: Ni 0.75, Si 0.25; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 16 |  |
 | 1279.15 | β1 + γ ↔ β2 | γ: Si 0.285714; β2: Si 0.25 | experimental | [2] Du 1999 | Table IV, p. 4, row 15 |  |
 | 1274.15 | β1–β2–γ | β1: Si 0.242; β2: Si 0.25; γ: Si 0.282 | experimental | [3] Miettinen 2005; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table 4, p. 6, row 34 |  |
 | 1274.15 | β1 + γ ↔ β2 | γ: Si 0.285714; β2: Si 0.25 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 14 |  |
-| 1274.15 | Eutectoid: β2 -> β1 + γ | β2: Ni 0.75, Si 0.25; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 15 |  |
+| 1274.15 | eutectoid: β2 -> β1 + γ | β2: Ni 0.75, Si 0.25; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 15 |  |
 | 1269.15 | L + (Si) ↔ NiSi2 | (Si): Si 1; NiSi2: Si 0.666667 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 51 |  |
 | 1266.15 | β1–β2–γ | β1: Si 0.24; β2: Si 0.25; γ: Si 0.286 | model | [3] Miettinen 2005 | Table 4, p. 6, row 36 |  |
-| 1266.15 | Peritectic: Liquid + Si -> NiSi2 | Liquid: Si 0.602; Si: Si 1; NiSi2: Si 0.667 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 51 |  |
+| 1266.15 | peritectic: Liquid + Si -> NiSi2 | Liquid: Si 0.602; Si: Si 1; NiSi2: Si 0.667 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 51 |  |
 | 1266.15 | L + (Si) ↔ NiSi2 | (Si): Si 1; NiSi2: Si 0.666667 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 48 |  |
-| 1266.15 | Peritectic: Liquid + Si -> NiSi2 | Liquid: Si 0.601; NiSi2: Ni 0.333333, Si 0.666667 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 50 |  |
+| 1266.15 | peritectic: Liquid + Si -> NiSi2 | Liquid: Si 0.601; NiSi2: Ni 0.333333, Si 0.666667 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 50 |  |
 | 1265.15 | L -> NiSi + SiC |  | experimental | [2] Du 1999; _cites Brukl 1969_ | Table V, p. 7, row 1 |  |
-| 1265.15 | Congruent point: Liquid -> NiSi | Liquid: Si 0.506; NiSi: Ni 0.5, Si 0.5 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 45 |  |
-| 1263.15 | Eutectoid: β2 -> β1 + γ | β2: Si 0.252; β1: Si 0.245; γ: Si 0.279 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 14 |  |
+| 1265.15 | congruent melting: Liquid -> NiSi | Liquid: Si 0.506; NiSi: Ni 0.5, Si 0.5 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 45 |  |
+| 1263.15 | eutectoid: β2 -> β1 + γ | β2: Si 0.252; β1: Si 0.245; γ: Si 0.279 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 14 |  |
 | 1263.15 | β1 + γ ↔ β2 | γ: Si 0.285714; β2: Si 0.25 | experimental | [2] Du 1999; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table IV, p. 4, row 13 |  |
 | 1263.15 | β1–β2–γ | β1: Si 0.246; β2: Si 0.252; γ: Si 0.28 | experimental | [3] Miettinen 2005; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table 4, p. 6, row 33 |  |
-| 1262.15 | Eutectoid: β2 -> β1 + γ | β2: Ni 0.75, Si 0.25; β1: Si 0.248; γ: Ni 0.714286, Si 0.285714 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 13 |  |
+| 1262.15 | eutectoid: β2 -> β1 + γ | β2: Ni 0.75, Si 0.25; β1: Si 0.248; γ: Ni 0.714286, Si 0.285714 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 13 |  |
 | 1262.15 | β1–β2–γ | β1: Si 0.245; β2: Si 0.25; γ: Si 0.286 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 35 |  |
 | 1260.15 | L -> NiSi + SiC | L: Si 0.4999; NiSi: Si 0.5; SiC: Si 0.5 | model | [2] Du 1999 | Table V, p. 7, row 2 |  |
 | 1260.15 | β1 + γ ↔ β2 | γ: Si 0.285714; β2: Si 0.25 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 17 |  |
-| 1258.15 | Congruent point: Liquid -> NiSi | Liquid: Ni 0.5, Si 0.5; NiSi: Ni 0.5, Si 0.5 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 44 |  |
-| 1252.15 | Congruent point: Liquid -> NiSi | Liquid: Ni 0.5, Si 0.5; NiSi: Ni 0.5, Si 0.5 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 46 |  |
-| 1248.15 | Eutectic: Liquid -> θ + NiSi | Liquid: Si 0.47; θ: Si 0.385; NiSi: Ni 0.5, Si 0.5 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 41 |  |
+| 1258.15 | congruent melting: Liquid -> NiSi | Liquid: Ni 0.5, Si 0.5; NiSi: Ni 0.5, Si 0.5 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 44 |  |
+| 1252.15 | congruent melting: Liquid -> NiSi | Liquid: Ni 0.5, Si 0.5; NiSi: Ni 0.5, Si 0.5 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 46 |  |
+| 1248.15 | eutectic: Liquid -> θ + NiSi | Liquid: Si 0.47; θ: Si 0.385; NiSi: Ni 0.5, Si 0.5 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 41 |  |
 | 1245.15 | L ↔ θ + NiSi | θ: Si 0.333333; NiSi: Si 0.5 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 33 |  |
 | 1243.15 | L + (Si) ↔ NiSi2 | (Si): Si 1; NiSi2: Si 0.666667 | unspecified | [2] Du 1999 | Table IV, p. 4, row 50 |  |
 | 1241.15 | L + (Si) ↔ NiSi2 | (Si): Si 1; NiSi2: Si 0.666667 | experimental | [2] Du 1999 | Table IV, p. 4, row 49 |  |
-| 1241.15 | Peritectic: Liquid + Si -> NiSi2 | NiSi2: Ni 0.333333, Si 0.666667 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 52 |  |
+| 1241.15 | peritectic: Liquid + Si -> NiSi2 | NiSi2: Ni 0.333333, Si 0.666667 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 52 |  |
 | 1239.15 | L ↔ NiSi + NiSi2 | NiSi: Si 0.5; NiSi2: Si 0.666667 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 40 |  |
-| 1239.15 | Eutectic: Liquid -> NiSi + NiSi2 | Liquid: Si 0.562; NiSi: Si 0.5; NiSi2: Si 0.667 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 48 |  |
+| 1239.15 | eutectic: Liquid -> NiSi + NiSi2 | Liquid: Si 0.562; NiSi: Si 0.5; NiSi2: Si 0.667 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 48 |  |
 | 1239.15 | L ↔ θ + NiSi | θ: Si 0.333333; NiSi: Si 0.5 | unspecified | [2] Du 1999 | Table IV, p. 4, row 32 |  |
-| 1237.15 | Eutectic: Liquid -> θ + NiSi | Liquid: Si 0.46; θ: Si 0.41; NiSi: Si 0.5 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 42 |  |
+| 1237.15 | eutectic: Liquid -> θ + NiSi | Liquid: Si 0.46; θ: Si 0.41; NiSi: Si 0.5 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 42 |  |
 | 1237.15 | L ↔ θ + NiSi | θ: Si 0.333333; NiSi: Si 0.5 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 30 |  |
 | 1233.15 | L ↔ NiSi + NiSi2 | NiSi: Si 0.5; NiSi2: Si 0.666667 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 43 |  |
-| 1231.15 | Eutectic: Liquid -> θ + NiSi | θ: Ni 0.666667, Si 0.333333; NiSi: Ni 0.5, Si 0.5 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 43 |  |
+| 1231.15 | eutectic: Liquid -> θ + NiSi | θ: Ni 0.666667, Si 0.333333; NiSi: Ni 0.5, Si 0.5 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 43 |  |
 | 1231.15 | L ↔ θ + NiSi | θ: Si 0.333333; NiSi: Si 0.5 | experimental | [2] Du 1999 | Table IV, p. 4, row 31 |  |
-| 1230.15 | Eutectic: Liquid -> NiSi + NiSi2 | Liquid: Si 0.558; NiSi: Ni 0.5, Si 0.5; NiSi2: Ni 0.333333, Si 0.666667 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 47 |  |
+| 1230.15 | eutectic: Liquid -> NiSi + NiSi2 | Liquid: Si 0.558; NiSi: Ni 0.5, Si 0.5; NiSi2: Ni 0.333333, Si 0.666667 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 47 |  |
 | 1226.15 | L ↔ NiSi + NiSi2 | NiSi: Si 0.5; NiSi2: Si 0.666667 | experimental | [2] Du 1999 | Table IV, p. 4, row 41 |  |
-| 1226.15 | Eutectic: Liquid -> NiSi + NiSi2 | NiSi: Ni 0.5, Si 0.5; NiSi2: Ni 0.333333, Si 0.666667 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 49 |  |
+| 1226.15 | eutectic: Liquid -> NiSi + NiSi2 | NiSi: Ni 0.5, Si 0.5; NiSi2: Ni 0.333333, Si 0.666667 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 49 |  |
 | 1221.15 | L ↔ NiSi + NiSi2 | NiSi: Si 0.5; NiSi2: Si 0.666667 | unspecified | [2] Du 1999 | Table IV, p. 4, row 42 |  |
 | 1133.15 | θ + NiSi ↔ ε | θ: Si 0.333333; NiSi: Si 0.5; ε: Si 0.4 | experimental | [2] Du 1999 | Table IV, p. 4, row 70 |  |
-| 1133.15 | Peritectoid: θ + NiSi -> ε | θ: Ni 0.666667, Si 0.333333; NiSi: Ni 0.5, Si 0.5; ε: Ni 0.6, Si 0.4 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 40 |  |
+| 1133.15 | peritectoid: θ + NiSi -> ε | θ: Ni 0.666667, Si 0.333333; NiSi: Ni 0.5, Si 0.5; ε: Ni 0.6, Si 0.4 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 40 |  |
 | 1131.15 | θ + NiSi ↔ ε | θ: Si 0.333333; NiSi: Si 0.5; ε: Si 0.4 | unspecified | [2] Du 1999 | Table IV, p. 4, row 71 |  |
 | 1118.15 | θ + NiSi ↔ ε | θ: Si 0.333333; NiSi: Si 0.5; ε: Si 0.4 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 69 |  |
-| 1118.15 | Peritectoid: θ + NiSi -> ε | θ: Si 0.391; NiSi: Si 0.5; ε: Si 0.4 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 39 |  |
-| 1113.15 | Peritectoid: θ + NiSi -> ε | θ: Si 0.366; NiSi: Ni 0.5, Si 0.5; ε: Ni 0.6, Si 0.4 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 38 |  |
+| 1118.15 | peritectoid: θ + NiSi -> ε | θ: Si 0.391; NiSi: Si 0.5; ε: Si 0.4 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 39 |  |
+| 1113.15 | peritectoid: θ + NiSi -> ε | θ: Si 0.366; NiSi: Ni 0.5, Si 0.5; ε: Ni 0.6, Si 0.4 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 38 |  |
 | 1110.15 | θ + NiSi ↔ ε | θ: Si 0.333333; NiSi: Si 0.5; ε: Si 0.4 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 72 |  |
-| 1100.15 | Eutectoid: θ -> δ + ε | θ: Si 0.363; δ: Ni 0.666667, Si 0.333333; ε: Ni 0.6, Si 0.4 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 35 |  |
+| 1100.15 | eutectoid: θ -> δ + ε | θ: Si 0.363; δ: Ni 0.666667, Si 0.333333; ε: Ni 0.6, Si 0.4 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 35 |  |
 | 1097.15 | θ ↔ δ + ε | θ: Si 0.333333; δ: Si 0.333333; ε: Si 0.4 | unspecified | [2] Du 1999 | Table IV, p. 4, row 67 |  |
 | 1096.15 | θ ↔ δ + ε | θ: Si 0.333333; δ: Si 0.333333; ε: Si 0.4 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 68 |  |
-| 1094.15 | Eutectoid: θ -> δ + ε | θ: Ni 0.666667, Si 0.333333; δ: Ni 0.666667, Si 0.333333; ε: Ni 0.6, Si 0.4 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 37 |  |
+| 1094.15 | eutectoid: θ -> δ + ε | θ: Ni 0.666667, Si 0.333333; δ: Ni 0.666667, Si 0.333333; ε: Ni 0.6, Si 0.4 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 37 |  |
 | 1094.15 | θ ↔ δ + ε | θ: Si 0.333333; δ: Si 0.333333; ε: Si 0.4 | experimental | [2] Du 1999 | Table IV, p. 4, row 66 |  |
 | 1079.15 | θ ↔ δ + ε | θ: Si 0.333333; δ: Si 0.333333; ε: Si 0.4 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 65 |  |
-| 1079.15 | Eutectoid: θ -> δ + ε | θ: Si 0.388; δ: Si 0.333; ε: Si 0.4 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 36 |  |
+| 1079.15 | eutectoid: θ -> δ + ε | θ: Si 0.388; δ: Si 0.333; ε: Si 0.4 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 36 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Si system (78)
+Table: Enthalpies of formation, Ni–Si system (56)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | (Ni) |  | -32.385 kJ/mol-atom | 0 | unspecified |  |  | [4] Yuan 2012 | Table 1, p. 4, row 2 |  |
-| (Ni) |  | -32.385 kJ/mol-atom | 0 | unspecified |  |  | [4] Yuan 2012 | Table 2, p. 4, row 2 |  |
 | (Ni) |  | -27.841 kJ/mol-atom | 0 | unspecified |  |  | [4] Yuan 2012 | Table 2, p. 4, row 1 |  |
-| (Ni) |  | -27.841 kJ/mol-atom | 0 | unspecified |  |  | [4] Yuan 2012 | Table 1, p. 4, row 1 |  |
 | (Ni) |  | 5.94 kJ/mol-atom | 0 | unspecified |  |  | [4] Yuan 2012 | Table 1, p. 4, row 3 |  |
-| (Ni) |  | 5.94 kJ/mol-atom | 0 | unspecified |  |  | [4] Yuan 2012 | Table 2, p. 4, row 3 |  |
 | L12 |  | -40.1 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 2 |  |
 | L12 |  | -37.7 kJ/mol-atom | 298 | experimental |  |  | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 1 |  |
 | L1_2 |  | -40.1 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 2 |  |
@@ -437,40 +434,28 @@ Table: Enthalpies of formation, Ni–Si system (78)
 | Ni3Si2(ε) | [Ni3Si2](https://data.orchid-project.org/compounds/Ni3Si2.html) | -45.2 kJ/mol-atom | 298.15 | experimental | -50.491 (mp-aaaabrxb) | -51.144 (oqmd-8128) | [1] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
 | Ni3Si2(ε) | [Ni3Si2](https://data.orchid-project.org/compounds/Ni3Si2.html) | -42.8 kJ/mol-atom |  | model | -50.491 (mp-aaaabrxb) | -51.144 (oqmd-8128) | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
 | Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -44.672 kJ/mol-atom | 0 | model | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 5 |  |
-| Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -44.672 kJ/mol-atom | 0 | model | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 2, p. 4, row 5 |  |
 | Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -44.671 kJ/mol-atom | 0 | unspecified | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012 | Table 1, p. 4, row 4 |  |
-| Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -44.671 kJ/mol-atom | 0 | unspecified | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012 | Table 2, p. 4, row 4 |  |
 | Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -40.582 kJ/mol-atom | 0 | model | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 6 |  |
-| Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -40.582 kJ/mol-atom | 0 | model | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 1, p. 4, row 6 |  |
 | Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -37.7 kJ/mol-atom | 0 | experimental | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Oelsen 1936_ | Table 1, p. 4, row 7 |  |
-| Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -37.7 kJ/mol-atom | 0 | experimental | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Oelsen 1936_ | Table 2, p. 4, row 7 |  |
 | Ni5Si2(γ) |  | -48.8 kJ/mol-atom |  | model |  |  | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | Ni5Si2(γ) |  | -45.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Tokunaga 2003; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 7, row 3 |  |
 | Ni5Si2(γ) |  | -43.5 kJ/mol-atom |  | model |  |  | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
 | Ni5Si2(γ) |  | -42.3 kJ/mol-atom | 298.15 | experimental |  |  | [1] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
-| NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -43.1 kJ/mol-atom | 298 | experimental | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 12 |  |
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -43.1 kJ/mol-atom | 298 | experimental | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 12 |  |
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -43.1 kJ/mol-atom | 298.15 | experimental | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [1] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -42.4 kJ/mol-atom | 298.15 | experimental | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [1] Tokunaga 2003; _cites Topor 1986_ | Table 4, p. 7, row 2 |  |
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -41.9 kJ/mol-atom |  | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -38.7 kJ/mol-atom |  | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -38.7 kJ/mol-atom | 298 | unspecified | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [5] Lindholm 1996 | Table I, p. 2, row 13 |  |
-| NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -38.7 kJ/mol-atom | 298 | unspecified | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [5] Lindholm 1996 | Table I, p. 2, row 13 |  |
 | NiSi2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -34 kJ/mol-atom |  | model | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
 | NiSi2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -30.7 kJ/mol-atom |  | model | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | NiSi2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -29.3 kJ/mol-atom | 298.15 | experimental | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [1] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
 | NiSi3–L12 | [NiSi3](https://data.orchid-project.org/compounds/NiSi3.html) | -8.61 kJ/mol-atom | 0 | model |  | 19.223 (oqmd-298337) | [4] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 10 |  |
-| NiSi3–L12 | [NiSi3](https://data.orchid-project.org/compounds/NiSi3.html) | -8.61 kJ/mol-atom | 0 | model |  | 19.223 (oqmd-298337) | [4] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 1, p. 4, row 10 |  |
 | NiSi3–L12 | [NiSi3](https://data.orchid-project.org/compounds/NiSi3.html) | 22.867 kJ/mol-atom | 0 | model |  | 19.223 (oqmd-298337) | [4] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 9 |  |
-| NiSi3–L12 | [NiSi3](https://data.orchid-project.org/compounds/NiSi3.html) | 22.867 kJ/mol-atom | 0 | model |  | 19.223 (oqmd-298337) | [4] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 2, p. 4, row 9 |  |
 | NiSi3–L12 | [NiSi3](https://data.orchid-project.org/compounds/NiSi3.html) | 22.881 kJ/mol-atom | 0 | unspecified |  | 19.223 (oqmd-298337) | [4] Yuan 2012 | Table 1, p. 4, row 8 |  |
-| NiSi3–L12 | [NiSi3](https://data.orchid-project.org/compounds/NiSi3.html) | 22.881 kJ/mol-atom | 0 | unspecified |  | 19.223 (oqmd-298337) | [4] Yuan 2012 | Table 2, p. 4, row 8 |  |
 | NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -40.169 kJ/mol-atom | 0 | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 1, p. 4, row 13 |  |
-| NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -40.169 kJ/mol-atom | 0 | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 13 |  |
 | NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -28.028 kJ/mol-atom | 0 | unspecified | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012 | Table 2, p. 4, row 11 |  |
-| NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -28.028 kJ/mol-atom | 0 | unspecified | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012 | Table 1, p. 4, row 11 |  |
 | NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -27.981 kJ/mol-atom | 0 | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 2, p. 4, row 12 |  |
-| NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -27.981 kJ/mol-atom | 0 | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 12 |  |
 | αNiSi2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -34 kJ/mol-atom | 298 | unspecified | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [5] Lindholm 1996 | Table I, p. 2, row 15 |  |
 | αNiSi2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -29.3 kJ/mol-atom | 298 | experimental | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 14 |  |
 | αNiSi_2 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -34 kJ/mol-atom | 298 | unspecified | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [5] Lindholm 1996 | Table I, p. 2, row 15 |  |
@@ -480,18 +465,11 @@ Table: Enthalpies of formation, Ni–Si system (78)
 | β\_2 |  | -36.7 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 3 |  |
 | β\_3 |  | -36.6 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 4 |  |
 | γ |  | -43.5 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 6 |  |
-| γ |  | -43.5 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 6 |  |
-| γ |  | -42.3 kJ/mol-atom | 298 | experimental |  |  | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 5 |  |
 | γ |  | -42.3 kJ/mol-atom | 298 | experimental |  |  | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 5 |  |
 | δ |  | -46.9 kJ/mol-atom | 298 | experimental |  |  | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 7 |  |
-| δ |  | -46.9 kJ/mol-atom | 298 | experimental |  |  | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 7 |  |
-| δ |  | -41.7 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 8 |  |
 | δ |  | -41.7 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 8 |  |
 | ε |  | -45.6 kJ/mol-atom | 298 | experimental |  |  | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 10 |  |
-| ε |  | -45.6 kJ/mol-atom | 298 | experimental |  |  | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 10 |  |
 | ε |  | -42.8 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 11 |  |
-| ε |  | -42.8 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 11 |  |
-| θ |  | -39.8 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 9 |  |
 | θ |  | -39.8 kJ/mol-atom | 298 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 9 |  |
 
 ## Other properties

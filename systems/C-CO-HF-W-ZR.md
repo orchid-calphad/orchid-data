@@ -29,18 +29,18 @@ Table: Phase transition, C–Co–Hf–W–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1556.15 K | 1556.15 | solidus: C-Co-W-Zr | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 9 |  |
-| Phase transition | 1557.15 K | 1557.15 | solidus: C-Co-W-Zr | model | [1] Bratberg 2006 | Table 2, p. 3, row 10 |  |
-| Phase transition | 1563.15 K | 1563.15 | solidus: C-Co-W-Hf | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 5 |  |
-| Phase transition | 1564.15 K | 1564.15 | solidus: C-Co-W-Hf | model | [1] Bratberg 2006 | Table 2, p. 3, row 6 |  |
-| Phase transition | 1568.15 K | 1568.15 | solidus: C-Co-Zr | model | [1] Bratberg 2006 | Table 2, p. 3, row 4 |  |
-| Phase transition | 1568.15 K | 1568.15 | solidus: C-Co-Zr | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 3 |  |
-| Phase transition | 1583.15 K | 1583.15 | solidus: C-Co-Hf | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 1 |  |
-| Phase transition | 1583.15 K | 1583.15 | solidus: C-Co-Hf | model | [1] Bratberg 2006 | Table 2, p. 3, row 2 |  |
-| Phase transition | 1627.15 K | 1627.15 | solidus: C-Co-W-Zr | model | [1] Bratberg 2006 | Table 2, p. 3, row 12 |  |
-| Phase transition | 1631.15 K | 1631.15 | solidus: C-Co-W-Hf | model | [1] Bratberg 2006 | Table 2, p. 3, row 8 |  |
-| Phase transition | 1631.15 K | 1631.15 | solidus: C-Co-W-Zr | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 11 |  |
-| Phase transition | 1633.15 K | 1633.15 | solidus: C-Co-W-Hf | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 7 |  |
+| Phase transition | 1556.15 K | 1556.15 | other: C-Co-W-Zr | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 9 |  |
+| Phase transition | 1557.15 K | 1557.15 | other: C-Co-W-Zr | model | [1] Bratberg 2006 | Table 2, p. 3, row 10 |  |
+| Phase transition | 1563.15 K | 1563.15 | other: C-Co-W-Hf | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 5 |  |
+| Phase transition | 1564.15 K | 1564.15 | other: C-Co-W-Hf | model | [1] Bratberg 2006 | Table 2, p. 3, row 6 |  |
+| Phase transition | 1568.15 K | 1568.15 | other: C-Co-Zr | model | [1] Bratberg 2006 | Table 2, p. 3, row 4 |  |
+| Phase transition | 1568.15 K | 1568.15 | other: C-Co-Zr | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 3 |  |
+| Phase transition | 1583.15 K | 1583.15 | other: C-Co-Hf | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 1 |  |
+| Phase transition | 1583.15 K | 1583.15 | other: C-Co-Hf | model | [1] Bratberg 2006 | Table 2, p. 3, row 2 |  |
+| Phase transition | 1627.15 K | 1627.15 | other: C-Co-W-Zr | model | [1] Bratberg 2006 | Table 2, p. 3, row 12 |  |
+| Phase transition | 1631.15 K | 1631.15 | other: C-Co-W-Hf | model | [1] Bratberg 2006 | Table 2, p. 3, row 8 |  |
+| Phase transition | 1631.15 K | 1631.15 | other: C-Co-W-Zr | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 11 |  |
+| Phase transition | 1633.15 K | 1633.15 | other: C-Co-W-Hf | experimental | [1] Bratberg 2006 | Table 2, p. 3, row 7 |  |
 
 ## Sources
 

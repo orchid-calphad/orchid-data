@@ -82,12 +82,12 @@ Table: Phase transition, In–N system
 | Phase transition | 823 K | 823 | Thin film InN monocrystal decomposition, RHEED, XPS, optical microscopy; _alloy: N 0.5_ | experimental | [1] F 2010; _cites Guo 1993_ | Table V, p. 14, row 4 |  |
 | Phase transition | 831 K | 831 |  | model | [2] Onderka 2002; _cites Van 1973_ | p. 15 | “If a much lower melting point of InN was assumed, like the value 831 K from van Vechten's model,39 a resulting curve, not shown in Fig. 16, would show a temperature maximum at that limit, irrespective of the pressure level, and then extend to higher pressure with decreasing temperature and nitrogen-rich liquid.” |
 | Phase transition | 843 K | 843 | Decomposition of pure InN powder under high N2 pressure, XRD; _alloy: N 0_ | experimental | [1] F 2010; _cites Grzegory 1994_ | Table V, p. 14, row 5 |  |
-| Phase transition | 873 K | 873 ({'op': '\<', 'printed': '\<873', 'value_K': 873.0}) | Decomposition of pure InN powder under high N2 pressure, XRD; _alloy: N 0_ | experimental | [1] F 2010; _cites Grzegory 1994_ | Table V, p. 14, row 6 |  |
+| Phase transition | 873 K | 873 (\<) | Decomposition of pure InN powder under high N2 pressure, XRD; _alloy: N 0_ | experimental | [1] F 2010; _cites Grzegory 1994_ | Table V, p. 14, row 6 |  |
 | Phase transition | 903 K | 903 | Thin film InN decomposition, mass-spectrometer. Only upper limit of P(N2) given; _alloy: N 0_ | experimental | [1] F 2010; _cites Ambacher 1996_ | Table V, p. 14, row 9 |  |
 | Phase transition | 933 K | 933 | Decomposition of InN crystallites (10–50 μm) under high pressure, XRD; _alloy: N 0.5_ | experimental | [1] F 2010; _cites Krukowski 1998_ | Table V, p. 14, row 10 |  |
 | Phase transition | 945 K | 945 | Decomposition of InN (+In) powders, high pressure autoclave 1–1000 bar, XRD; _alloy: N 0.5_ | experimental | [1] F 2010; _cites MacChesney 1970_ | Table V, p. 14, row 2 |  |
 | Phase transition | 973 K | 973 | Decomposition of pure InN powder under high N2 pressure, XRD; _alloy: N 0_ | experimental | [1] F 2010; _cites Grzegory 1994_ | Table V, p. 14, row 7 |  |
-| Phase transition | 973 K | 973 ({'op': '>', 'printed': '>973', 'value_K': 973.0}) | Decomposition of pure InN powder under high N2 pressure, XRD; _alloy: N 0_ | experimental | [1] F 2010; _cites Grzegory 1994_ | Table V, p. 14, row 8 |  |
+| Phase transition | 973 K | 973 (>) | Decomposition of pure InN powder under high N2 pressure, XRD; _alloy: N 0_ | experimental | [1] F 2010; _cites Grzegory 1994_ | Table V, p. 14, row 8 |  |
 | Phase transition | 983 K | 983 | Decomposition of InN crystallites (10–50 μm) under high pressure, XRD; _alloy: N 0.5_ | experimental | [1] F 2010; _cites Krukowski 1998_ | Table V, p. 14, row 11 |  |
 | Phase transition | 1714 K | 1714 |  | model | [2] Onderka 2002 | p. 10 | “The present estimation of Tm(InN) ⳱ 1714 K was made on the basis of the trend line given in Fig. 11.” |
 

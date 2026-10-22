@@ -89,35 +89,35 @@ Table: Invariant reactions reported in the literature for the Al–B system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2448 | Congruent: AlB12-H -> Liquid |  | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 5 |  |
-| 2367.15 | Congruent: Liquid -> AlB12 | Liquid: B 0.923; AlB12: B 0.923 | model | [2] Mirković 2004 | Table 3, p. 5, row 1 |  |
-| 2365.15 | Melting: β ↔ L | β: B 1; L: B 1 | experimental | [3] Campbell 1999; _cites Carlson 1990_ [doi](https://doi.org/10.1007/bf02841717) | Table 3, p. 3, row 14 |  |
-| 2348.15 | Melting: β ↔ L | β: B 1; L: B 1 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 3, row 15 |  |
-| 2336 | Eutectic: Liquid -> AlB12-H + β-rhombo-B |  | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 4 |  |
-| 2323.15 | Peritectic: AlB12 ↔ β + L | AlB12: B 0.923; β: B 0.97 | experimental | [3] Campbell 1999; _cites Duschanek 1995_ [doi](https://doi.org/10.1007/bf02649415) | Table 3, p. 3, row 12 |  |
-| 2320.15 | Eutectic: Liquid -> AlB12 + β-B | Liquid: B 0.975; AlB12: B 0.923; β-B: B 1 | model | [2] Mirković 2004 | Table 3, p. 5, row 2 |  |
-| 2251.15 | Peritectic: AlB12 ↔ β + L | AlB12: B 0.923; β: B 0.975; L: B 0.898 | model | [3] Campbell 1999 | Table 3, p. 3, row 13 |  |
-| 1826.2 | Polymorphic: AlB12-L -> AlB12-H | AlB12-L: Al 0.076923, B 0.923077; AlB12-H: Al 0.076923, B 0.923077 | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 3 |  |
-| 1303.15 | Peritectic: AlB2 ↔ AlB12 + L | AlB2: B 0.667; AlB12: B 0.923; L: B 0.006 | experimental | [3] Campbell 1999; _cites Sigworth 1984_ [doi](https://doi.org/10.1007/bf02645112) | Table 3, p. 3, row 9 |  |
-| 1302.15 | Peritectic: AlB2 ↔ AlB12 + L | AlB2: B 0.667; AlB12: B 0.923; L: B 0.025 | model | [3] Campbell 1999 | Table 3, p. 3, row 11 |  |
-| 1251.15 | Peritectic: AlB2 ↔ AlB12 + L | AlB2: B 0.667; AlB12: B 0.923; L: B 0.02 | model | [3] Campbell 1999; _cites Batzner 1994_ | Table 3, p. 3, row 10 |  |
-| 1245.8 | Peritectic: Liquid + AlB12-L -> AlB2 | AlB12-L: Al 0.076923, B 0.923077; AlB2: Al 0.333333, B 0.666667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 2 |  |
-| 1245.15 | Peritectic: Liquid + AlB12 -> AlB2 | Liquid: B 0.012; AlB12: B 0.923; AlB2: B 0.667 | model | [2] Mirković 2004 | Table 3, p. 5, row 3 |  |
+| 2448 | congruent melting: AlB12-H -> Liquid |  | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 5 |  |
+| 2367.15 | congruent melting: Liquid -> AlB12 | Liquid: B 0.923; AlB12: B 0.923 | model | [2] Mirković 2004 | Table 3, p. 5, row 1 |  |
+| 2365.15 | congruent melting: β ↔ L | β: B 1; L: B 1 | experimental | [3] Campbell 1999; _cites Carlson 1990_ [doi](https://doi.org/10.1007/bf02841717) | Table 3, p. 3, row 14 |  |
+| 2348.15 | congruent melting: β ↔ L | β: B 1; L: B 1 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 3, row 15 |  |
+| 2336 | eutectic: Liquid -> AlB12-H + β-rhombo-B |  | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 4 |  |
+| 2323.15 | peritectic: AlB12 ↔ β + L | AlB12: B 0.923; β: B 0.97 | experimental | [3] Campbell 1999; _cites Duschanek 1995_ [doi](https://doi.org/10.1007/bf02649415) | Table 3, p. 3, row 12 |  |
+| 2320.15 | eutectic: Liquid -> AlB12 + β-B | Liquid: B 0.975; AlB12: B 0.923; β-B: B 1 | model | [2] Mirković 2004 | Table 3, p. 5, row 2 |  |
+| 2251.15 | peritectic: AlB12 ↔ β + L | AlB12: B 0.923; β: B 0.975; L: B 0.898 | model | [3] Campbell 1999 | Table 3, p. 3, row 13 |  |
+| 1826.2 | polymorphic: AlB12-L -> AlB12-H | AlB12-L: Al 0.076923, B 0.923077; AlB12-H: Al 0.076923, B 0.923077 | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 3 |  |
+| 1303.15 | peritectic: AlB2 ↔ AlB12 + L | AlB2: B 0.667; AlB12: B 0.923; L: B 0.006 | experimental | [3] Campbell 1999; _cites Sigworth 1984_ [doi](https://doi.org/10.1007/bf02645112) | Table 3, p. 3, row 9 |  |
+| 1302.15 | peritectic: AlB2 ↔ AlB12 + L | AlB2: B 0.667; AlB12: B 0.923; L: B 0.025 | model | [3] Campbell 1999 | Table 3, p. 3, row 11 |  |
+| 1251.15 | peritectic: AlB2 ↔ AlB12 + L | AlB2: B 0.667; AlB12: B 0.923; L: B 0.02 | model | [3] Campbell 1999; _cites Batzner 1994_ | Table 3, p. 3, row 10 |  |
+| 1245.8 | peritectic: Liquid + AlB12-L -> AlB2 | AlB12-L: Al 0.076923, B 0.923077; AlB2: Al 0.333333, B 0.666667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 2 |  |
+| 1245.15 | peritectic: Liquid + AlB12 -> AlB2 | Liquid: B 0.012; AlB12: B 0.923; AlB2: B 0.667 | model | [2] Mirković 2004 | Table 3, p. 5, row 3 |  |
 | 1245.15 | peritectic |  | experimental | [2] Mirković 2004 | p. 5 | “Moreover, together with the independently measured peritectic temperature of 972 ◦ C, it pro◦ duces a most reasonable value of S298 (AlB2 ) = 14.3 J/mol atoms·K as shown in Fig. 3 without any curve fitting.” |
 | 1245.15 | peritectic |  | experimental | [2] Mirković 2004 | p. 2 | “The linear extrapolation of the average onset temperatures at heating rates 5 and 2 K/min to zero heating rate is given as the assessed peritectic temperature 972 ◦ C.” |
-| 935 | Peritectic: Liquid + AlB2 -> fcc-Al | AlB2: Al 0.333333, B 0.666667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 1 |  |
-| 933.602 | Melting: L ↔ Al | L: B 0; Al: B 0 | experimental | [3] Campbell 1999; _cites Carlson 1990_ [doi](https://doi.org/10.1007/bf02841717) | Table 3, p. 3, row 1 |  |
-| 933.47 | Melting: L ↔ Al | L: B 0; Al: B 0 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 3, row 2 |  |
-| 933.25 | Eutectic: Al + AlB2 ↔ L | Al: B 6.300e-4; AlB2: B 0.667; L: B 3.500e-4 | model | [3] Campbell 1999; _cites Batzner 1994_ | Table 3, p. 3, row 7 |  |
-| 932.99 | Eutectic: Liquid -> AlB2 + fcc | Liquid: B 7.600e-4; AlB2: B 0.667; fcc: B 5.400e-5 | model | [2] Mirković 2004 | Table 3, p. 5, row 4 |  |
+| 935 | peritectic: Liquid + AlB2 -> fcc-Al | AlB2: Al 0.333333, B 0.666667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 1 |  |
+| 933.602 | congruent melting: L ↔ Al | L: B 0; Al: B 0 | experimental | [3] Campbell 1999; _cites Carlson 1990_ [doi](https://doi.org/10.1007/bf02841717) | Table 3, p. 3, row 1 |  |
+| 933.47 | congruent melting: L ↔ Al | L: B 0; Al: B 0 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 3, row 2 |  |
+| 933.25 | eutectic: Al + AlB2 ↔ L | Al: B 6.300e-4; AlB2: B 0.667; L: B 3.500e-4 | model | [3] Campbell 1999; _cites Batzner 1994_ | Table 3, p. 3, row 7 |  |
+| 932.99 | eutectic: Liquid -> AlB2 + fcc | Liquid: B 7.600e-4; AlB2: B 0.667; fcc: B 5.400e-5 | model | [2] Mirković 2004 | Table 3, p. 5, row 4 |  |
 | 932.99 | eutectic: L ↔ (Al) + AlB2 |  | model | [2] Mirković 2004 | p. 6 | “The Al-rich eutectic reaction L ↔ (Al) + AlB2 is calculated at 659.84 ◦ C with 0.076 at.% B in Liquid and 0.005 at.% B in (Al).” |
 | 932.93 | eutectic: L ↔ (Al) + AlB12 |  | model | [2] Mirković 2004 | p. 6 | “The metastable eutectic reaction L ↔ (Al) + AlB12 is calculated 0.06 K lower, at 659.78 ◦ C with similar compositions.” |
-| 932.85 | Eutectic: Al + AlB2 ↔ L | Al: B 4.500e-5; AlB2: B 0.667; L: B 5.500e-4 | experimental | [3] Campbell 1999; _cites Sigworth 1984_ [doi](https://doi.org/10.1007/bf02645112) | Table 3, p. 3, row 6 |  |
+| 932.85 | eutectic: Al + AlB2 ↔ L | Al: B 4.500e-5; AlB2: B 0.667; L: B 5.500e-4 | experimental | [3] Campbell 1999; _cites Sigworth 1984_ [doi](https://doi.org/10.1007/bf02645112) | Table 3, p. 3, row 6 |  |
 | 932.75 | eutectic |  | experimental | [2] Mirković 2004; _cites Duschanek 1994_ [doi](https://doi.org/10.1007/bf02649415) | p. 6 | “This agrees with the reported eutectic temperature of 659.6 ◦ C and essentially also with the solubilities of 0.055 at.% B in Liquid and 0.0045 at.% B in (Al) \[2,20\].” |
-| 932.63 | Eutectic: Al + AlB2 ↔ L | Al: B 4.400e-5; AlB2: B 0.667; L: B 0.0013 | model | [3] Campbell 1999 | Table 3, p. 3, row 8 |  |
-| 798.15 | Peritectoid: Al + AlB2 ↔ Al2B3 | Al: B 4.000e-5; AlB2: B 0.667; Al2B3: B 0.6 | experimental | [3] Campbell 1999; _cites Vardiman 1992_ [doi](https://doi.org/10.1016/0956-7151%2892%2990080-x) | Table 3, p. 3, row 3 |  |
-| 798.15 | Peritectoid: Al + AlB2 ↔ Al2B3 | Al: B 4.300e-5; AlB2: B 0.667; Al2B3: B 0.6 | model | [3] Campbell 1999; _cites Batzner 1994_ | Table 3, p. 3, row 4 |  |
-| 775.45 | Peritectoid: Al + AlB2 ↔ Al2B3 | Al: B 4.700e-5; AlB2: B 0.667; Al2B3: B 0.6 | model | [3] Campbell 1999 | Table 3, p. 3, row 5 |  |
+| 932.63 | eutectic: Al + AlB2 ↔ L | Al: B 4.400e-5; AlB2: B 0.667; L: B 0.0013 | model | [3] Campbell 1999 | Table 3, p. 3, row 8 |  |
+| 798.15 | peritectoid: Al + AlB2 ↔ Al2B3 | Al: B 4.000e-5; AlB2: B 0.667; Al2B3: B 0.6 | experimental | [3] Campbell 1999; _cites Vardiman 1992_ [doi](https://doi.org/10.1016/0956-7151%2892%2990080-x) | Table 3, p. 3, row 3 |  |
+| 798.15 | peritectoid: Al + AlB2 ↔ Al2B3 | Al: B 4.300e-5; AlB2: B 0.667; Al2B3: B 0.6 | model | [3] Campbell 1999; _cites Batzner 1994_ | Table 3, p. 3, row 4 |  |
+| 775.45 | peritectoid: Al + AlB2 ↔ Al2B3 | Al: B 4.700e-5; AlB2: B 0.667; Al2B3: B 0.6 | model | [3] Campbell 1999 | Table 3, p. 3, row 5 |  |
 
 ## Formation enthalpies
 
@@ -159,7 +159,7 @@ Table: Phase transition, Al–B system
 | Phase transition | 486.15 K | 486.15 |  | model | [2] Mirković 2004 | p. 5 | “Its eutectoid decomposition occurs probably around 213 ◦ C, given dashed in Fig. 2, with an uncertainty in the order of ± 100 ◦ C.” |
 | Phase transition | 486.15 K | 486.15 |  | model | [2] Mirković 2004 | p. 6 | “If we comply with that and assess H \<\< 2.55 kJ/mol atoms, the eutectoid decomposition temperature of AlB2 would become much higher than 213 ◦ C as detailed above.” |
 | Phase transition | 486.15 K | 486.15 | other: AlB2 ↔ (Al) + AlB12 | model | [2] Mirković 2004 | p. 5 | “It is interesting to note that the phase AlB2 is entropy stablized and predicted to decompose at temperatures lower than 213 ◦ C in the calculated eutectoid reaction: AlB2 ↔ (Al) + AlB12 at 213 ◦ C” |
-| Phase transition | 1779.15 K | 1779.15 | congruent | model | [2] Mirković 2004 | p. 6 | “Suspending the AlB12 phase from calculation results in a metastable congruent melting point of AlB2 at 1506 ◦ C and the existence of AlB2 down to room temperature.” |
+| Phase transition | 1779.15 K | 1779.15 | congruent transformation | model | [2] Mirković 2004 | p. 6 | “Suspending the AlB12 phase from calculation results in a metastable congruent melting point of AlB2 at 1506 ◦ C and the existence of AlB2 down to room temperature.” |
 | Phase transition | 2348.15 K | 2348.15 |  | model | [2] Mirković 2004; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5 | “The melting temparature of pure boron based on the SGTE data \[22\] and used in this study, 2075 ◦ C, is 17 K below the experimental value of 2092 ◦ C compiled by \[18\].” |
 | Phase transition | 2348.15 K | 2348.15 |  | experimental | [2] Mirković 2004; _cites Serebryansky 1967_ | p. 3 | “According to Serebryansky et al. \[12\] the AlB12 phase melts incongruently at 2075 ◦ C and the B phase can contain about 4 at.% of Al.” |
 | Phase transition | 2365.15 K | 2365.15 |  | model | [2] Mirković 2004; _cites Carlson 1990_ [doi](https://doi.org/10.1007/bf02841717) | p. 5 | “The melting temparature of pure boron based on the SGTE data \[22\] and used in this study, 2075 ◦ C, is 17 K below the experimental value of 2092 ◦ C compiled by \[18\].” |

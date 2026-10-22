@@ -30,23 +30,23 @@ Table: Invariant reactions reported in the literature for the As–U system (17)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2978.15 | Melting: L ↔ AsU | L: U 0.5; AsU: U 0.5 | unspecified | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 16 |  |
-| 2978.15 | Melting: L ↔ AsU | L: U 0.5; AsU: U 0.5 | model | [1] Wang 2013 | Table 5, p. 5, row 17 |  |
-| 1773.15 | Peritectic: L + AsU ↔ As4U3 | AsU: U 0.5; As4U3: U 0.429 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 9 |  |
-| 1772.15 | Peritectic: L + AsU ↔ As4U3 | L: U 0.018; AsU: U 0.5; As4U3: U 0.429 | model | [1] Wang 2013 | Table 5, p. 5, row 10 |  |
-| 1398.15 | Eutectic: L ↔ AsU + (γU) | L: U 0.995; AsU: U 0.5; (γU): U 0.999 | model | [1] Wang 2013 | Table 5, p. 5, row 5 |  |
-| 1398.15 | Eutectic: L ↔ AsU + (γU) | AsU: U 0.5; (γU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 4 |  |
-| 1398.15 | Eutectic: L ↔ AsU + (γU) | AsU: U 0.5; (γU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 3 |  |
-| 1273.15 | Peritectic: L + As4U3 ↔ As2U | L: U 0.002; As4U3: U 0.429; As2U: U 0.333 | model | [1] Wang 2013 | Table 5, p. 5, row 12 |  |
-| 1273.15 | Peritectic: L + As4U3 ↔ As2U | As4U3: U 0.429; As2U: U 0.333 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 11 |  |
-| 1090.15 | Eutectic: L ↔ (As) + As2U | (As): U 0; As2U: U 0.333 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 1 |  |
-| 1090.15 | Eutectic: L ↔ (As) + As2U | L: U 4.000e-4; (As): U 0; As2U: U 0.333 | model | [1] Wang 2013 | Table 5, p. 5, row 2 |  |
-| 1049.15 | Eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 7 |  |
-| 1049.15 | Eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | model | [1] Wang 2013 | Table 5, p. 5, row 8 |  |
-| 1048.15 | Eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 6 |  |
-| 942.15 | Peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | model | [1] Wang 2013 | Table 5, p. 5, row 15 |  |
-| 941.15 | Peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 14 |  |
-| 938.15 | Peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 13 |  |
+| 2978.15 | congruent melting: L ↔ AsU | L: U 0.5; AsU: U 0.5 | unspecified | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 16 |  |
+| 2978.15 | congruent melting: L ↔ AsU | L: U 0.5; AsU: U 0.5 | model | [1] Wang 2013 | Table 5, p. 5, row 17 |  |
+| 1773.15 | peritectic: L + AsU ↔ As4U3 | AsU: U 0.5; As4U3: U 0.429 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 9 |  |
+| 1772.15 | peritectic: L + AsU ↔ As4U3 | L: U 0.018; AsU: U 0.5; As4U3: U 0.429 | model | [1] Wang 2013 | Table 5, p. 5, row 10 |  |
+| 1398.15 | eutectic: L ↔ AsU + (γU) | L: U 0.995; AsU: U 0.5; (γU): U 0.999 | model | [1] Wang 2013 | Table 5, p. 5, row 5 |  |
+| 1398.15 | eutectic: L ↔ AsU + (γU) | AsU: U 0.5; (γU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 4 |  |
+| 1398.15 | eutectic: L ↔ AsU + (γU) | AsU: U 0.5; (γU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 3 |  |
+| 1273.15 | peritectic: L + As4U3 ↔ As2U | L: U 0.002; As4U3: U 0.429; As2U: U 0.333 | model | [1] Wang 2013 | Table 5, p. 5, row 12 |  |
+| 1273.15 | peritectic: L + As4U3 ↔ As2U | As4U3: U 0.429; As2U: U 0.333 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 11 |  |
+| 1090.15 | eutectic: L ↔ (As) + As2U | (As): U 0; As2U: U 0.333 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 1 |  |
+| 1090.15 | eutectic: L ↔ (As) + As2U | L: U 4.000e-4; (As): U 0; As2U: U 0.333 | model | [1] Wang 2013 | Table 5, p. 5, row 2 |  |
+| 1049.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 7 |  |
+| 1049.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | model | [1] Wang 2013 | Table 5, p. 5, row 8 |  |
+| 1048.15 | eutectoid: (γU) ↔ AsU + (βU) | (γU): U 1; AsU: U 0.5; (βU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 6 |  |
+| 942.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | model | [1] Wang 2013 | Table 5, p. 5, row 15 |  |
+| 941.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | experimental | [1] Wang 2013; _cites Massalski 1990_ | Table 5, p. 5, row 14 |  |
+| 938.15 | peritectoid: AsU + (βU) ↔ (αU) | AsU: U 0.5; (βU): U 1; (αU): U 1 | experimental | [1] Wang 2013; _cites Benz 1968_ [doi](https://doi.org/10.1149/1.2411157) | Table 5, p. 5, row 13 |  |
 
 ## Sources
 

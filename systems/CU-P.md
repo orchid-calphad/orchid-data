@@ -83,10 +83,10 @@ Table: Phase transition, Cu–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 975.57 K | 975.57 | solidus or eutectic: Cu-4; _alloy: Cu 0.959, P 0.041_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 7 |  |
-| Phase transition | 975.59 K | 975.59 | solidus or eutectic: Cu-3; _alloy: Cu 0.9688, P 0.0312_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 5 |  |
-| Phase transition | 1134.91 K | 1134.91 | solidus or eutectic: Cu-2; _alloy: Cu 0.9804, P 0.0196_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 3 |  |
-| Phase transition | 1227.74 K | 1227.74 | solidus or eutectic: Cu-1; _alloy: Cu 0.9892, P 0.0108_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 1 |  |
+| Phase transition | 975.57 K | 975.57 | other: Cu-4; _alloy: Cu 0.959, P 0.041_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 7 |  |
+| Phase transition | 975.59 K | 975.59 | other: Cu-3; _alloy: Cu 0.9688, P 0.0312_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 5 |  |
+| Phase transition | 1134.91 K | 1134.91 | other: Cu-2; _alloy: Cu 0.9804, P 0.0196_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 3 |  |
+| Phase transition | 1227.74 K | 1227.74 | other: Cu-1; _alloy: Cu 0.9892, P 0.0108_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 1 |  |
 
 ### Phase equilibrium (6)
 
@@ -96,10 +96,10 @@ Table: Phase equilibrium, Cu–P system
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 823.15 | α + Cu3P; _α: Cu 0.9805, P 0.0195; Cu3P: Cu 0.7475, P 0.2525_ | experimental | [1] Oikawa 2024 | Table 2, p. 7, row 1 |  |
 | Phase composition |  | 873.15 | α + Cu3P; _α: Cu 0.9773, P 0.0227; Cu3P: Cu 0.7464, P 0.2536_ | experimental | [1] Oikawa 2024 | Table 2, p. 7, row 2 |  |
-| Phase composition |  | 1294.25 | liquidus: Cu-4; _liquid: Cu 0.959, P 0.041_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 8 |  |
-| Phase composition |  | 1314.95 | liquidus: Cu-3; _liquid: Cu 0.9688, P 0.0312_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 6 |  |
-| Phase composition |  | 1336.15 | liquidus: Cu-2; _liquid: Cu 0.9804, P 0.0196_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 4 |  |
-| Phase composition |  | 1345.45 | liquidus: Cu-1; _liquid: Cu 0.9892, P 0.0108_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 2 |  |
+| Phase composition |  | 1294.25 | other: Cu-4; _liquid: Cu 0.959, P 0.041_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 8 |  |
+| Phase composition |  | 1314.95 | other: Cu-3; _liquid: Cu 0.9688, P 0.0312_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 6 |  |
+| Phase composition |  | 1336.15 | other: Cu-2; _liquid: Cu 0.9804, P 0.0196_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 4 |  |
+| Phase composition |  | 1345.45 | other: Cu-1; _liquid: Cu 0.9892, P 0.0108_ | experimental | [1] Oikawa 2024 | Table 1, p. 4, row 2 |  |
 
 ## Sources
 

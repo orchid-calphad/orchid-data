@@ -49,13 +49,13 @@ Table: Invariant reactions reported in the literature for the Ag–Pt system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1459.15 | Peritectic: L + (Pt) -> (Ag) | L: Pt 0.201; (Pt): Pt 0.779; (Ag): Pt 0.406 | model | [1] Karakaya 1987 | Table 1, p. 1, row 1 |  |
+| 1459.15 | peritectic: L + (Pt) -> (Ag) | L: Pt 0.201; (Pt): Pt 0.779; (Ag): Pt 0.406 | model | [1] Karakaya 1987 | Table 1, p. 1, row 1 |  |
 | 1459.15 | peritectic |  | model | [1] Karakaya 1987 | p. 3 | “The assessed peritectic is between liquid with 20.1 at.% Pt a n d fcc solid solutions of 40.6 at.% Pt a n d 77.9 at.% Pt at 1186 ~” |
 | 1457.15 | peritectic: liquid + Pt-rich solid solution -> Ag-rich solid solution |  | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | p. 3 | “The measured peritectic t e m p e r a t u r e is 1184 ~ \[07Doe\[, b u t this has a precision of only -+5 ~” |
-| 1173.15 | Eutectoid: (Ag) -> α' + (Pt) | (Ag): Pt 0.344; α': Pt 0.325; (Pt): Pt 0.843; α′: Pt 0.325 | model | [1] Karakaya 1987 | Table 1, p. 1, row 2 |  |
-| 1013.15 | Peritectoid: α' + (Pt) -> β | α': Pt 0.31; (Pt): Pt 0.85; β: Pt 0.5; α′: Pt 0.31 | model | [1] Karakaya 1987 | Table 1, p. 1, row 3 |  |
-| 973.15 | Peritectoid: β + (Pt) -> γ | β: Pt 0.53; (Pt): Pt 0.915; γ: Pt 0.75 | model | [1] Karakaya 1987 | Table 1, p. 1, row 4 |  |
-| 943.15 | Peritectoid: α" + β -> β' | α": Pt 0.275; β: Pt 0.465; β': Pt 0.445; α″: Pt 0.275; β′: Pt 0.445 | model | [1] Karakaya 1987 | Table 1, p. 1, row 5 |  |
+| 1173.15 | eutectoid: (Ag) -> α' + (Pt) | (Ag): Pt 0.344; α': Pt 0.325; (Pt): Pt 0.843; α′: Pt 0.325 | model | [1] Karakaya 1987 | Table 1, p. 1, row 2 |  |
+| 1013.15 | peritectoid: α' + (Pt) -> β | α': Pt 0.31; (Pt): Pt 0.85; β: Pt 0.5; α′: Pt 0.31 | model | [1] Karakaya 1987 | Table 1, p. 1, row 3 |  |
+| 973.15 | peritectoid: β + (Pt) -> γ | β: Pt 0.53; (Pt): Pt 0.915; γ: Pt 0.75 | model | [1] Karakaya 1987 | Table 1, p. 1, row 4 |  |
+| 943.15 | peritectoid: α" + β -> β' | α": Pt 0.275; β: Pt 0.465; β': Pt 0.445; α″: Pt 0.275; β′: Pt 0.445 | model | [1] Karakaya 1987 | Table 1, p. 1, row 5 |  |
 
 ## Other properties
 
@@ -127,18 +127,18 @@ Table: Crystal structure, Ag–Pt system
 | Lattice a | 0.3913 nm | 1403.15 | (Pt); _(Pt): Ag 0, Pt 1_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9 |  |
 | Lattice a | 0.3917 nm | 1403.15 | (Pt); _(Pt): Ag 0.06, Pt 0.94_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 8 |  |
 | Lattice a | 0.3928 nm | 1403.15 | (Pt); _(Pt): Ag 0.14, Pt 0.86_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 6 |  |
-| lattice lattice parameter | 0.40861 nm | 298.15 | (Ag); _(Ag): Ag 1, Pt 0_ | experimental | [1] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1 |  |
-| lattice lattice parameter | 0.389 nm | 298.15 | γ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 12 |  |
-| lattice lattice parameter | 0.4061 nm | 1023.15 | (Ag); _(Ag): Ag 0.93, Pt 0.07_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 4 |  |
-| lattice lattice parameter | 0.4068 nm | 1073.15 | (Ag); _(Ag): Ag 0.972, Pt 0.028_ | experimental | [1] Karakaya 1987; _cites Novikova 1987_ | Table 4, p. 4, row 2 |  |
-| lattice lattice parameter | 0.3895 nm | 1073.15 | α″; _α″: Ag 0.75, Pt 0.25_ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 11 |  |
-| lattice lattice parameter | 0.391 nm | 1093.15 | α′; _α′: Ag 0.75, Pt 0.25_ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 10 |  |
-| lattice lattice parameter | 0.4067 nm | 1173.15 | (Ag); _(Ag): Ag 0.946, Pt 0.054_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 3 |  |
-| lattice lattice parameter | 0.3932 nm | 1403.15 | (Pt); _(Pt): Ag 0.2, Pt 0.8_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 5 |  |
-| lattice lattice parameter | 0.3921 nm | 1403.15 | (Pt); _(Pt): Ag 0.08, Pt 0.92_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 7 |  |
-| lattice lattice parameter | 0.3913 nm | 1403.15 | (Pt); _(Pt): Ag 0, Pt 1_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9 |  |
-| lattice lattice parameter | 0.3917 nm | 1403.15 | (Pt); _(Pt): Ag 0.06, Pt 0.94_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 8 |  |
-| lattice lattice parameter | 0.3928 nm | 1403.15 | (Pt); _(Pt): Ag 0.14, Pt 0.86_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 6 |  |
+| lattice unspecified axis | 0.40861 nm | 298.15 | (Ag); _(Ag): Ag 1, Pt 0_ | experimental | [1] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1 |  |
+| lattice unspecified axis | 0.389 nm | 298.15 | γ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 12 |  |
+| lattice unspecified axis | 0.4061 nm | 1023.15 | (Ag); _(Ag): Ag 0.93, Pt 0.07_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 4 |  |
+| lattice unspecified axis | 0.4068 nm | 1073.15 | (Ag); _(Ag): Ag 0.972, Pt 0.028_ | experimental | [1] Karakaya 1987; _cites Novikova 1987_ | Table 4, p. 4, row 2 |  |
+| lattice unspecified axis | 0.3895 nm | 1073.15 | α″; _α″: Ag 0.75, Pt 0.25_ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 11 |  |
+| lattice unspecified axis | 0.391 nm | 1093.15 | α′; _α′: Ag 0.75, Pt 0.25_ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 10 |  |
+| lattice unspecified axis | 0.4067 nm | 1173.15 | (Ag); _(Ag): Ag 0.946, Pt 0.054_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 3 |  |
+| lattice unspecified axis | 0.3932 nm | 1403.15 | (Pt); _(Pt): Ag 0.2, Pt 0.8_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 5 |  |
+| lattice unspecified axis | 0.3921 nm | 1403.15 | (Pt); _(Pt): Ag 0.08, Pt 0.92_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 7 |  |
+| lattice unspecified axis | 0.3913 nm | 1403.15 | (Pt); _(Pt): Ag 0, Pt 1_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9 |  |
+| lattice unspecified axis | 0.3917 nm | 1403.15 | (Pt); _(Pt): Ag 0.06, Pt 0.94_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 8 |  |
+| lattice unspecified axis | 0.3928 nm | 1403.15 | (Pt); _(Pt): Ag 0.14, Pt 0.86_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 6 |  |
 
 ## Sources
 

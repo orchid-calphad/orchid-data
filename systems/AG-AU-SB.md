@@ -27,12 +27,12 @@ Table: Invariant reactions reported in the literature for the Ag–Au–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 690 | U: L + ε -> ζ + (Sb) |  | experimental | [1] Zoro 2007 | Table 2, p. 3, row 2 |  |
-| 688.1 | U: L + ε -> ζ + (Sb) | L: Au 0.1544, Sb 0.3853; ε: Au 0.0952, Sb 0.2517; ζ: Au 0.1419, Sb 0.175; (Sb): Sb 1 | model | [1] Zoro 2007 | Table 2, p. 3, row 1 |  |
-| 663.1 | E: L -> AuSb2 + ζ + α | L: Au 0.3874, Sb 0.3634; AuSb2: Au 0.3284, Sb 0.6667; ζ: Au 0.4068, Sb 0.1057; α: Au 0.5669, Sb 0.0029 | model | [1] Zoro 2007 | Table 2, p. 3, row 5 |  |
-| 662 | U: L + (Sb) -> ζ + AuSb2 |  | experimental | [1] Zoro 2007 | Table 2, p. 3, row 4 |  |
-| 661.8 | E: L -> (Sb) + ζ + AuSb2 | L: Au 0.2504, Sb 0.3943; (Sb): Sb 1; ζ: Au 0.2412, Sb 0.1579; AuSb2: Au 0.3117, Sb 0.6667 | model | [1] Zoro 2007 | Table 2, p. 3, row 3 |  |
-| 650 | U: L + ζ -> α + AuSb2 |  | experimental | [1] Zoro 2007 | Table 2, p. 3, row 6 |  |
+| 690 | quasi-peritectic: L + ε -> ζ + (Sb) |  | experimental | [1] Zoro 2007 | Table 2, p. 3, row 2 |  |
+| 688.1 | quasi-peritectic: L + ε -> ζ + (Sb) | L: Au 0.1544, Sb 0.3853; ε: Au 0.0952, Sb 0.2517; ζ: Au 0.1419, Sb 0.175; (Sb): Sb 1 | model | [1] Zoro 2007 | Table 2, p. 3, row 1 |  |
+| 663.1 | eutectic: L -> AuSb2 + ζ + α | L: Au 0.3874, Sb 0.3634; AuSb2: Au 0.3284, Sb 0.6667; ζ: Au 0.4068, Sb 0.1057; α: Au 0.5669, Sb 0.0029 | model | [1] Zoro 2007 | Table 2, p. 3, row 5 |  |
+| 662 | quasi-peritectic: L + (Sb) -> ζ + AuSb2 |  | experimental | [1] Zoro 2007 | Table 2, p. 3, row 4 |  |
+| 661.8 | eutectic: L -> (Sb) + ζ + AuSb2 | L: Au 0.2504, Sb 0.3943; (Sb): Sb 1; ζ: Au 0.2412, Sb 0.1579; AuSb2: Au 0.3117, Sb 0.6667 | model | [1] Zoro 2007 | Table 2, p. 3, row 3 |  |
+| 650 | quasi-peritectic: L + ζ -> α + AuSb2 |  | experimental | [1] Zoro 2007 | Table 2, p. 3, row 6 |  |
 
 ## Sources
 

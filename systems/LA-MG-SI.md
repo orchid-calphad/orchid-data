@@ -28,30 +28,30 @@ Table: Invariant reactions reported in the literature for the La–Mg–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1885.12 | U: Liquid + La5Si4 -> La3Si2 + LaSi |  | model | [1] Zhou 2010 | Table 4, p. 6, row 7 |  |
-| 1846.73 | U: Liquid + Liquid -> La3Si2 + LaSi2-a1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 8 |  |
-| 1846.73 | E: Liquid -> La3Si2 + Liquid + LaSi2-a1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 1 |  |
-| 1830.52 | U: Liquid + LaSi2-a1 -> Liquid + LaSi2-a2 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 9 |  |
-| 1830.52 | P: Liquid + Liquid + LaSi2-a1 -> LaSi2-a2 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 20 |  |
-| 1809.43 | E: Liquid -> La3Si2 + LaSi + LaSi2-a1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 2 |  |
-| 1448.58 | P: Liquid + La3Si2 + LaSi2-a1 -> τ1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 21 |  |
-| 1325.25 | U: Liquid + LaSi2-a2 -> LaSi2-a1 + Mg2Si |  | model | [1] Zhou 2010 | Table 4, p. 6, row 10 |  |
-| 1280.59 | P: Liquid + τ1 + LaSi2-a1 -> τ2 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 22 |  |
-| 1271.25 | U: Liquid + LaSi2-a1 -> Mg2Si + τ2 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 11 |  |
-| 1216.08 | E: Liquid -> LaSi2-a2 + Mg2Si + Diamond |  | model | [1] Zhou 2010 | Table 4, p. 6, row 3 |  |
-| 1130 | U: Liquid + La3Si2 -> τ4 + τ5 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 12 |  |
-| 1084.32 | U: Liquid + La3Si2 -> τ4 + τ1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 13 |  |
-| 1047.32 | U: Liquid + τ5 -> τ4 + LaMg3 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 14 |  |
-| 1014.02 | U: Liquid + La3Si2 -> τ5 + La5Si3 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 15 |  |
-| 1007.93 | U: Liquid + τ5 -> La5Si3 + LaMg |  | model | [1] Zhou 2010 | Table 4, p. 6, row 16 |  |
-| 994.39 | E: Liquid -> La5Si3 + BCC + FCC |  | model | [1] Zhou 2010 | Table 4, p. 6, row 4 |  |
-| 980.87 | E: Liquid -> La5Si3 + LaMg + BCC |  | model | [1] Zhou 2010 | Table 4, p. 6, row 5 |  |
-| 944.76 | P: Liquid + τ4 + LaMg3 -> La2Mg17 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 23 |  |
-| 923.27 | P: Liquid + τ4 + La2Mg17 -> LaMg12 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 24 |  |
-| 914.45 | U: Liquid + τ4 -> τ1 + LaMg12 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 17 |  |
-| 914 | U: Liquid + τ1 -> τ2 + HCP |  | model | [1] Zhou 2010 | Table 4, p. 6, row 18 |  |
-| 908.17 | U: Liquid + τ2 -> Mg2Si + HCP |  | model | [1] Zhou 2010 | Table 4, p. 6, row 19 |  |
-| 886.51 | E: Liquid -> HCP + τ1 + LaMg12 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 6 |  |
+| 1885.12 | quasi-peritectic: Liquid + La5Si4 -> La3Si2 + LaSi |  | model | [1] Zhou 2010 | Table 4, p. 6, row 7 |  |
+| 1846.73 | quasi-peritectic: Liquid + Liquid -> La3Si2 + LaSi2-a1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 8 |  |
+| 1846.73 | eutectic: Liquid -> La3Si2 + Liquid + LaSi2-a1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 1 |  |
+| 1830.52 | quasi-peritectic: Liquid + LaSi2-a1 -> Liquid + LaSi2-a2 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 9 |  |
+| 1830.52 | peritectic: Liquid + Liquid + LaSi2-a1 -> LaSi2-a2 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 20 |  |
+| 1809.43 | eutectic: Liquid -> La3Si2 + LaSi + LaSi2-a1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 2 |  |
+| 1448.58 | peritectic: Liquid + La3Si2 + LaSi2-a1 -> τ1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 21 |  |
+| 1325.25 | quasi-peritectic: Liquid + LaSi2-a2 -> LaSi2-a1 + Mg2Si |  | model | [1] Zhou 2010 | Table 4, p. 6, row 10 |  |
+| 1280.59 | peritectic: Liquid + τ1 + LaSi2-a1 -> τ2 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 22 |  |
+| 1271.25 | quasi-peritectic: Liquid + LaSi2-a1 -> Mg2Si + τ2 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 11 |  |
+| 1216.08 | eutectic: Liquid -> LaSi2-a2 + Mg2Si + Diamond |  | model | [1] Zhou 2010 | Table 4, p. 6, row 3 |  |
+| 1130 | quasi-peritectic: Liquid + La3Si2 -> τ4 + τ5 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 12 |  |
+| 1084.32 | quasi-peritectic: Liquid + La3Si2 -> τ4 + τ1 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 13 |  |
+| 1047.32 | quasi-peritectic: Liquid + τ5 -> τ4 + LaMg3 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 14 |  |
+| 1014.02 | quasi-peritectic: Liquid + La3Si2 -> τ5 + La5Si3 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 15 |  |
+| 1007.93 | quasi-peritectic: Liquid + τ5 -> La5Si3 + LaMg |  | model | [1] Zhou 2010 | Table 4, p. 6, row 16 |  |
+| 994.39 | eutectic: Liquid -> La5Si3 + BCC + FCC |  | model | [1] Zhou 2010 | Table 4, p. 6, row 4 |  |
+| 980.87 | eutectic: Liquid -> La5Si3 + LaMg + BCC |  | model | [1] Zhou 2010 | Table 4, p. 6, row 5 |  |
+| 944.76 | peritectic: Liquid + τ4 + LaMg3 -> La2Mg17 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 23 |  |
+| 923.27 | peritectic: Liquid + τ4 + La2Mg17 -> LaMg12 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 24 |  |
+| 914.45 | quasi-peritectic: Liquid + τ4 -> τ1 + LaMg12 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 17 |  |
+| 914 | quasi-peritectic: Liquid + τ1 -> τ2 + HCP |  | model | [1] Zhou 2010 | Table 4, p. 6, row 18 |  |
+| 908.17 | quasi-peritectic: Liquid + τ2 -> Mg2Si + HCP |  | model | [1] Zhou 2010 | Table 4, p. 6, row 19 |  |
+| 886.51 | eutectic: Liquid -> HCP + τ1 + LaMg12 |  | model | [1] Zhou 2010 | Table 4, p. 6, row 6 |  |
 
 ## Other properties
 

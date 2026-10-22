@@ -77,7 +77,7 @@ Table: Phase transition, Dy–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1970.15 K | 1970.15 | congruent | experimental | [1] Iddaoudi 2014 | p. 2 | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
+| Phase transition | 1970.15 K | 1970.15 | congruent transformation | experimental | [1] Iddaoudi 2014 | p. 2 | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
 
 ## Sources
 

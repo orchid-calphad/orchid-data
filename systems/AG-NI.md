@@ -1,10 +1,10 @@
 # Ag–Ni system
 
-> Ag–Ni system: 25 accepted literature values (invariant reaction 14, phase transition 7, phase equilibrium 2, mixing / partial 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ni system: 24 accepted literature values (invariant reaction 13, phase transition 7, phase equilibrium 2, mixing / partial 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-NI.html · Markdown: https://data.orchid-project.org/systems/AG-NI.md
 
-25 accepted literature values from 2 paper(s) (experimental 14, model 11); 3 calculated phase diagram(s).
+24 accepted literature values from 2 paper(s) (experimental 13, model 11); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-NI.json) · [CSV](https://data.orchid-project.org/systems/AG-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-NI/AgNi-04Din.json) · [Markdown](https://data.orchid-project.org/systems/AG-NI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
+| experimental | 13 |
 | model | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 13 |
 | phase transition | 7 |
 | phase equilibrium | 2 |
 | mixing / partial | 2 |
@@ -51,23 +51,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Ni system (14)
+Table: Invariant reactions reported in the literature for the Ag–Ni system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2460 | G + L2 -> L1 | G: Ni 0.0158; L2: Ni 0.8199; L1: Ni 0.1904 | model | [1] Rajkumar 2017 | Table III, p. 7, row 1 |  |
-| 1708.15 | Eutectic: L1 -> fcc (Ni) + L2 | L1: Ag 0.03; fcc (Ni): Ag 0.01; L2: Ag 0.9611 | experimental | [2] Liu 2008; _cites Sinoleton 1991_ | Table II, p. 3, row 1 |  |
-| 1708.15 | Eutectic: L1 -> fcc (Ni) + L2 | L1: Ag 0.031; fcc (Ni): Ag 0.014; L2: Ag 0.958 | model | [2] Liu 2008 | Table II, p. 3, row 2 |  |
+| 1708.15 | eutectic: L1 -> fcc (Ni) + L2 | L1: Ag 0.03; fcc (Ni): Ag 0.01; L2: Ag 0.9611 | experimental | [2] Liu 2008; _cites Sinoleton 1991_ | Table II, p. 3, row 1 |  |
+| 1708.15 | eutectic: L1 -> fcc (Ni) + L2 | L1: Ag 0.031; fcc (Ni): Ag 0.014; L2: Ag 0.958 | model | [2] Liu 2008 | Table II, p. 3, row 2 |  |
 | 1708 | L2 -> L1 + (Ni) | L2: Ni 0.9836; L1: Ni 0.0386; (Ni): Ni 0.9992 | model | [1] Rajkumar 2017 | Table III, p. 7, row 2 |  |
 | 1708 | monotectic |  | experimental | [1] Rajkumar 2017; _cites Singleton 1987_ [doi](https://doi.org/10.1007/bf02873194) | p. 3 | “The monotectic at 1708 K6 is taken as internal reference.” |
 | 1234 | L1 -> (Ag) + (Ni) | L1: Ni 0.0051; (Ag): Ni 0.0038; (Ni): Ni 0.9999 | model | [1] Rajkumar 2017 | Table III, p. 7, row 3 |  |
 | 1233.15 | eutectic: L -> fcc (Ni) + fcc (Ag) |  | model | [2] Liu 2008; _cites Sinoleton 1991_ | p. 2 | “There is a eutectic reaction \[L fi fcc (Ni) + fcc (Ag)\] at 960C and a monotectic reaction \[L1 fi fcc (Ni) + L2\] at 1435C.” |
-| 1233.15 | Monotectic: L -> fcc (Ni) + fcc (Ag) | L: Ag 0.9968; fcc (Ag): Ag 0.998 | experimental | [2] Liu 2008; _cites Sinoleton 1991_ | Table II, p. 3, row 3 |  |
+| 1233.15 | monotectic: L -> fcc (Ni) + fcc (Ag) | L: Ag 0.9968; fcc (Ag): Ag 0.998 | experimental | [2] Liu 2008; _cites Sinoleton 1991_ | Table II, p. 3, row 3 |  |
 | 1233 | eutectic |  | experimental | [1] Rajkumar 2017; _cites Singleton 1987_ [doi](https://doi.org/10.1007/bf02873194) | p. 4 | “The eutectic temperature measured in the present work (average, 1229 K) is in accordance with the value (1233 K) reported by Singleton and Nash.6” |
-| 1232.15 | Monotectic: L -> fcc (Ni) + fcc (Ag) | L: Ag 0.995; fcc (Ni): Ag 0.0045; fcc (Ag): Ag 0.998 | model | [2] Liu 2008 | Table II, p. 3, row 4 |  |
+| 1232.15 | monotectic: L -> fcc (Ni) + fcc (Ag) | L: Ag 0.995; fcc (Ni): Ag 0.0045; fcc (Ag): Ag 0.998 | model | [2] Liu 2008 | Table II, p. 3, row 4 |  |
 | 1231 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4 | “According to the heating curve, the eutectic reaction temperature measured is 1228 K, 1231 K, 1228 K for Ag-20 at.%, 50 at.% and 80 at.% Ni respectively.” |
 | 1229 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4 | “The eutectic temperature measured in the present work (average, 1229 K) is in accordance with the value (1233 K) reported by Singleton and Nash.6” |
-| 1228 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4 | “According to the heating curve, the eutectic reaction temperature measured is 1228 K, 1231 K, 1228 K for Ag-20 at.%, 50 at.% and 80 at.% Ni respectively.” |
 | 1228 | eutectic |  | experimental | [1] Rajkumar 2017 | p. 4 | “According to the heating curve, the eutectic reaction temperature measured is 1228 K, 1231 K, 1228 K for Ag-20 at.%, 50 at.% and 80 at.% Ni respectively.” |
 
 ## Other properties
@@ -101,8 +100,8 @@ Table: Mixing / partial, Ag–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 13.5 kJ mol 1 | 1773 |  | experimental | [1] Rajkumar 2017; _cites Saeed 2006_ [doi](https://doi.org/10.1557/jmr.2006.0157) | p. 5 | “The enthalpy of mixing of the liquid at 1773 K by Saeed et al.20 shows a kink at about 4.5 and 98.5 at.% Ni which confirms the immiscibility. These experimental values were fitted by Saeed et al.20 to give a maximum value of +13.5 kJ mol1 at Ag-60 at.% Ni.” |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 16.77 kJ mol 1 | 1773 |  | model | [1] Rajkumar 2017 | p. 5 | “In the present work, the enthalpy of mixing of Ag-59.9 at.% Ni at 1773 K is maximum with a value of 16.77 kJ mol1.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 13.5 kJ/mol (basis unstated) | 1773 |  | experimental | [1] Rajkumar 2017; _cites Saeed 2006_ [doi](https://doi.org/10.1557/jmr.2006.0157) | p. 5 | “The enthalpy of mixing of the liquid at 1773 K by Saeed et al.20 shows a kink at about 4.5 and 98.5 at.% Ni which confirms the immiscibility. These experimental values were fitted by Saeed et al.20 to give a maximum value of +13.5 kJ mol1 at Ag-60 at.% Ni.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 16.77 kJ/mol (basis unstated) | 1773 |  | model | [1] Rajkumar 2017 | p. 5 | “In the present work, the enthalpy of mixing of Ag-59.9 at.% Ni at 1773 K is maximum with a value of 16.77 kJ mol1.” |
 
 ## Sources
 

@@ -62,22 +62,22 @@ Table: Invariant reactions reported in the literature for the Cu–Er system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1278 | Peritectic: L + Cu9Er2 -> Cu5Er | L: Er 0.162; Cu9Er2: Er 0.181818; Cu5Er: Er 0.166667 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 3 |  |
-| 1273 | Peritectic: L + Cu9Er2 -> Cu5Er | L: Er 0.164; Cu9Er2: Er 0.181818; Cu5Er: Er 0.166667 | model | [1] Zhang 2008 | Table 3, p. 6, row 4 |  |
-| 1213 | Peritectic: L + Cu9Er2 -> Cu7Er2 | Cu9Er2: Er 0.181818; Cu7Er2: Er 0.222222 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 7 |  |
-| 1210 | Peritectic: L + Cu9Er2 -> Cu7Er2 | L: Er 0.259; Cu9Er2: Er 0.181818; Cu7Er2: Er 0.222222 | model | [1] Zhang 2008 | Table 3, p. 6, row 8 |  |
+| 1278 | peritectic: L + Cu9Er2 -> Cu5Er | L: Er 0.162; Cu9Er2: Er 0.181818; Cu5Er: Er 0.166667 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 3 |  |
+| 1273 | peritectic: L + Cu9Er2 -> Cu5Er | L: Er 0.164; Cu9Er2: Er 0.181818; Cu5Er: Er 0.166667 | model | [1] Zhang 2008 | Table 3, p. 6, row 4 |  |
+| 1213 | peritectic: L + Cu9Er2 -> Cu7Er2 | Cu9Er2: Er 0.181818; Cu7Er2: Er 0.222222 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 7 |  |
+| 1210 | peritectic: L + Cu9Er2 -> Cu7Er2 | L: Er 0.259; Cu9Er2: Er 0.181818; Cu7Er2: Er 0.222222 | model | [1] Zhang 2008 | Table 3, p. 6, row 8 |  |
 | 1178.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1 | “His investigation indicated the occurrence of four eutectic reactions: Cu-Cu5 Er (895 ◦ C, 9.5 at.% Er); Cux Er-Cu2 Er (885 ◦ C, 30 at.% Er); Cu2 Er-CuEr (905 ◦ C, 40 at.% Er); and CuEr-Hcp_Er (880 ◦ C, 69.5 at.% Er).” |
-| 1178 | Eutectic: L -> Cu2Er + CuEr | L: Er 0.385; Cu2Er: Er 0.333333; CuEr: Er 0.5 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 11 |  |
-| 1173 | Eutectic: L -> Cu2Er + CuEr | L: Er 0.344; Cu2Er: Er 0.333333; CuEr: Er 0.5 | model | [1] Zhang 2008 | Table 3, p. 6, row 12 |  |
+| 1178 | eutectic: L -> Cu2Er + CuEr | L: Er 0.385; Cu2Er: Er 0.333333; CuEr: Er 0.5 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 11 |  |
+| 1173 | eutectic: L -> Cu2Er + CuEr | L: Er 0.344; Cu2Er: Er 0.333333; CuEr: Er 0.5 | model | [1] Zhang 2008 | Table 3, p. 6, row 12 |  |
 | 1168.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1 | “His investigation indicated the occurrence of four eutectic reactions: Cu-Cu5 Er (895 ◦ C, 9.5 at.% Er); Cux Er-Cu2 Er (885 ◦ C, 30 at.% Er); Cu2 Er-CuEr (905 ◦ C, 40 at.% Er); and CuEr-Hcp_Er (880 ◦ C, 69.5 at.% Er).” |
-| 1168 | Eutectic: L -> Fcc_Cu + Cu5Er | L: Er 0.095; Cu5Er: Er 0.166667 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 1 |  |
-| 1162 | Eutectic: L -> Fcc_Cu + Cu5Er | L: Er 0.0815; Cu5Er: Er 0.166667 | model | [1] Zhang 2008 | Table 3, p. 6, row 2 |  |
-| 1160 | Eutectic: L -> Cu7Er2 + Cu2Er | L: Er 0.293; Cu7Er2: Er 0.222222; Cu2Er: Er 0.333333 | model | [1] Zhang 2008 | Table 3, p. 6, row 10 |  |
+| 1168 | eutectic: L -> Fcc_Cu + Cu5Er | L: Er 0.095; Cu5Er: Er 0.166667 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 1 |  |
+| 1162 | eutectic: L -> Fcc_Cu + Cu5Er | L: Er 0.0815; Cu5Er: Er 0.166667 | model | [1] Zhang 2008 | Table 3, p. 6, row 2 |  |
+| 1160 | eutectic: L -> Cu7Er2 + Cu2Er | L: Er 0.293; Cu7Er2: Er 0.222222; Cu2Er: Er 0.333333 | model | [1] Zhang 2008 | Table 3, p. 6, row 10 |  |
 | 1158.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1 | “His investigation indicated the occurrence of four eutectic reactions: Cu-Cu5 Er (895 ◦ C, 9.5 at.% Er); Cux Er-Cu2 Er (885 ◦ C, 30 at.% Er); Cu2 Er-CuEr (905 ◦ C, 40 at.% Er); and CuEr-Hcp_Er (880 ◦ C, 69.5 at.% Er).” |
-| 1158 | Eutectic: L -> Cu7Er2 + Cu2Er | L: Er 0.3; Cu7Er2: Er 0.222222; Cu2Er: Er 0.333333 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 9 |  |
+| 1158 | eutectic: L -> Cu7Er2 + Cu2Er | L: Er 0.3; Cu7Er2: Er 0.222222; Cu2Er: Er 0.333333 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 9 |  |
 | 1153.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1 | “His investigation indicated the occurrence of four eutectic reactions: Cu-Cu5 Er (895 ◦ C, 9.5 at.% Er); Cux Er-Cu2 Er (885 ◦ C, 30 at.% Er); Cu2 Er-CuEr (905 ◦ C, 40 at.% Er); and CuEr-Hcp_Er (880 ◦ C, 69.5 at.% Er).” |
-| 1153 | Eutectic: L -> CuEr + Hcp_Er | L: Er 0.695; CuEr: Er 0.5 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 15 |  |
-| 1152 | Eutectic: L -> CuEr + Hcp_Er | L: Er 0.699; CuEr: Er 0.5 | model | [1] Zhang 2008 | Table 3, p. 6, row 16 |  |
+| 1153 | eutectic: L -> CuEr + Hcp_Er | L: Er 0.695; CuEr: Er 0.5 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 15 |  |
+| 1152 | eutectic: L -> CuEr + Hcp_Er | L: Er 0.699; CuEr: Er 0.5 | model | [1] Zhang 2008 | Table 3, p. 6, row 16 |  |
 | 1133.15 | eutectic |  | experimental | [1] Zhang 2008; _cites Love 1960_ | p. 1 | “According to Love \[10\], the eutectic temperature was found to be 860 ◦ C and the composition was 75.5 at.% Er, while these were given as 845 ◦ C and 71.8 at.% Er by Kato and Copeland \[11\].” |
 | 1118.15 | eutectic |  | experimental | [1] Zhang 2008; _cites Kato 1961_ | p. 1 | “According to Love \[10\], the eutectic temperature was found to be 860 ◦ C and the composition was 75.5 at.% Er, while these were given as 845 ◦ C and 71.8 at.% Er by Kato and Copeland \[11\].” |
 
@@ -89,10 +89,10 @@ Table: Phase transition, Cu–Er system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1278 K | 1278 | Congruent: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | model | [1] Zhang 2008 | Table 3, p. 6, row 6 |  |
-| Phase transition | 1283 K | 1283 | Congruent: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 5 |  |
-| Phase transition | 1319 K | 1319 | Congruent: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | model | [1] Zhang 2008 | Table 3, p. 6, row 14 |  |
-| Phase transition | 1328 K | 1328 | Congruent: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 13 |  |
+| Phase transition | 1278 K | 1278 | congruent melting: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | model | [1] Zhang 2008 | Table 3, p. 6, row 6 |  |
+| Phase transition | 1283 K | 1283 | congruent melting: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 5 |  |
+| Phase transition | 1319 K | 1319 | congruent melting: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | model | [1] Zhang 2008 | Table 3, p. 6, row 14 |  |
+| Phase transition | 1328 K | 1328 | congruent melting: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 13 |  |
 
 ## Sources
 

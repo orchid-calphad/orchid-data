@@ -1,10 +1,10 @@
 # Ag–Os system
 
-> Ag–Os system: 7 accepted literature values (crystal structure 6, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Os system: 4 accepted literature values (crystal structure 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-OS.html · Markdown: https://data.orchid-project.org/systems/AG-OS.md
 
-7 accepted literature values from 1 paper(s) (experimental 7); 1 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-OS.json) · [CSV](https://data.orchid-project.org/systems/AG-OS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-OS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-OS/AgOs-86Kar-LB.json) · [Markdown](https://data.orchid-project.org/systems/AG-OS.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| crystal structure | 6 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -51,7 +51,7 @@ Table: Phase transition, Ag–Os system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2173.15 K | 2173.15 | other | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 3 | “A monotectic reaction was reported at about 1900 ~ and near 20 at.% Ag \[59Rud\].” |
 
-### Crystal structure (6)
+### Crystal structure (3)
 
 Table: Crystal structure, Ag–Os system
 
@@ -60,9 +60,6 @@ Table: Crystal structure, Ag–Os system
 | Lattice a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Os 0_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
 | Lattice a | 0.27348 nm | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
 | Lattice c | 0.43913 nm | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
-| lattice lattice parameter a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Os 0_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
-| lattice lattice parameter a | 0.27348 nm | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
-| lattice lattice parameter c | 0.43913 nm | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
 
 ## Sources
 

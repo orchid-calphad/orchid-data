@@ -1,22 +1,20 @@
 # Sm2O3: enthalpy of formation
 
-> Enthalpy of formation of Sm2O3: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Sm2O3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Sm2O3.html · Markdown: https://data.orchid-project.org/compounds/Sm2O3.md
 
-4 accepted literature formation-enthalpy value(s) (model 4).
+2 accepted literature formation-enthalpy value(s) (model 2).
 
 Systems: [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Sm2O3 reported in the literature (4)
+Table: Enthalpy of formation of Sm2O3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -1826800 unknown | C-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
-| -1826800 unknown | C-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
-| -1823000 unknown | B-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
 | -1823000 unknown | B-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
 
 ## Sources

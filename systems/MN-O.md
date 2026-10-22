@@ -1,10 +1,10 @@
 # Mn–O system
 
-> Mn–O system: 358 accepted literature values (activity / EMF / Gibbs energy 113, formation 103, heat capacity / entropy / enthalpy 69, invariant reaction 55) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–O system: 356 accepted literature values (activity / EMF / Gibbs energy 113, formation 103, heat capacity / entropy / enthalpy 69, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-O.html · Markdown: https://data.orchid-project.org/systems/MN-O.md
 
-358 accepted literature values from 2 paper(s) (experimental 178, model 162, unspecified 18); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+356 accepted literature values from 2 paper(s) (experimental 176, model 162, unspecified 18); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-O.json) · [CSV](https://data.orchid-project.org/systems/MN-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-O/MnO-03Gru-LB.json) · [Markdown](https://data.orchid-project.org/systems/MN-O.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 178 |
+| experimental | 176 |
 | model | 162 |
 | unspecified | 18 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
+| invariant reaction | 53 |
 | phase transition | 17 |
 | formation | 103 |
 | mixing / partial | 1 |
@@ -67,25 +67,24 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mn–O system (55)
+Table: Invariant reactions reported in the literature for the Mn–O system (53)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2158 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Schurmann 1984_ [doi](https://doi.org/10.1002/srin.198405356) | Table 2, p. 4, row 18 |  |
-| 2148 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Fischer 1961_ [doi](https://doi.org/10.1002/srin.196103182) | Table 2, p. 4, row 13 |  |
+| 2158 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Schurmann 1984_ [doi](https://doi.org/10.1002/srin.198405356) | Table 2, p. 4, row 18 |  |
+| 2148 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Fischer 1961_ [doi](https://doi.org/10.1002/srin.196103182) | Table 2, p. 4, row 13 |  |
 | 2148 | monotectic: L1 + L2 + MnO | MnO: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Schurmann 1984_ [doi](https://doi.org/10.1002/srin.198405356) | Table 2, p. 4, row 4 |  |
-| 2124 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | model | [1] Grundy 2003 | Table 2, p. 4, row 21 |  |
-| 2123 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Glasser 1958_ [doi](https://doi.org/10.2475/ajs.256.6.398) | Table 2, p. 4, row 15 |  |
-| 2123 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Tromel 1976_ | Table 2, p. 4, row 17 |  |
-| 2115 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Schenck 1964_ [doi](https://doi.org/10.1002/srin.196402318) | Table 2, p. 4, row 19 |  |
+| 2124 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | model | [1] Grundy 2003 | Table 2, p. 4, row 21 |  |
+| 2123 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Glasser 1958_ [doi](https://doi.org/10.2475/ajs.256.6.398) | Table 2, p. 4, row 15 |  |
+| 2123 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Tromel 1976_ | Table 2, p. 4, row 17 |  |
+| 2115 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Schenck 1964_ [doi](https://doi.org/10.1002/srin.196402318) | Table 2, p. 4, row 19 |  |
 | 2063 | monotectic: L1 + L2 + MnO | MnO: Mn 0.5, O 0.5; Liquid: O 0.495 | experimental | [1] Grundy 2003; _cites Tromel 1976_ | Table 2, p. 4, row 3 |  |
 | 2057 | monotectic: L1 + L2 + MnO | MnO: Mn 0.5, O 0.5; Liquid: O 0.477 | model | [1] Grundy 2003 | Table 2, p. 4, row 5 |  |
-| 2033 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Hed 1967_ [doi](https://doi.org/10.1149/1.2426584) | Table 2, p. 4, row 16 |  |
-| 2023 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Schenck 1957_ [doi](https://doi.org/10.1002/srin.195702172) | Table 2, p. 4, row 14 |  |
-| 1973 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Benedicks 1930_ | Table 2, p. 4, row 11 |  |
-| 1973 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Benedicks 1930_ | Table 2, p. 4, row 20 |  |
+| 2033 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Hed 1967_ [doi](https://doi.org/10.1149/1.2426584) | Table 2, p. 4, row 16 |  |
+| 2023 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Schenck 1957_ [doi](https://doi.org/10.1002/srin.195702172) | Table 2, p. 4, row 14 |  |
+| 1973 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Benedicks 1930_ | Table 2, p. 4, row 11 |  |
 | 1863 | β-Mn3O4 -> Liq + O2(g) (in air/O2) |  | experimental | [1] Grundy 2003; _cites Von 1937_ | Table 2, p. 4, row 37 |  |
-| 1858 | congruent: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Andrew 1931_ | Table 2, p. 4, row 12 |  |
+| 1858 | congruent melting: MnO -> Liquid | MnO: Mn 0.5, O 0.5; Liquid: Mn 0.5, O 0.5 | experimental | [1] Grundy 2003; _cites Andrew 1931_ | Table 2, p. 4, row 12 |  |
 | 1853 | β-Mn3O4 -> Liq + O2(g) (in air/O2) |  | experimental | [1] Grundy 2003; _cites Tromel 1976_ | Table 2, p. 4, row 42 |  |
 | 1846 | β-Mn3O4 -> Liq + O2(g) (in air/O2) | Liquid: O 0.548 | model | [1] Grundy 2003 | Table 2, p. 4, row 44 |  |
 | 1840 | β-Mn3O4 -> Liq + O2(g) (in air/O2) |  | experimental | [1] Grundy 2003; _cites Hahn 1960_ [doi](https://doi.org/10.2475/ajs.258.1.66) | Table 2, p. 4, row 38 |  |
@@ -108,7 +107,6 @@ Table: Invariant reactions reported in the literature for the Mn–O system (55)
 | 1443 | α-Mn3O4-β-Mn3O4 |  | experimental | [1] Grundy 2003; _cites Irani 1962_ [doi](https://doi.org/10.1016/0022-3697%2862%2990530-9) | Table 2, p. 4, row 25 |  |
 | 1443 | α-Mn3O4-β-Mn3O4 |  | model | [1] Grundy 2003 | Table 2, p. 4, row 36 |  |
 | 1443 | α-Mn3O4-β-Mn3O4 |  | experimental | [1] Grundy 2003; _cites McMurdie 1948_ [doi](https://doi.org/10.6028/jres.041.046) | Table 2, p. 4, row 35 |  |
-| 1443 | α-Mn3O4-β-Mn3O4 |  | experimental | [1] Grundy 2003; _cites McMurdie 1948_ [doi](https://doi.org/10.6028/jres.041.046) | Table 2, p. 4, row 23 |  |
 | 1433 | α-Mn3O4-β-Mn3O4 |  | experimental | [1] Grundy 2003; _cites Van 1958_ | Table 2, p. 4, row 24 |  |
 | 1430 | α-Mn3O4-β-Mn3O4 |  | experimental | [1] Grundy 2003; _cites Metselaar 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990064-5) | Table 2, p. 4, row 30 |  |
 | 1429.2 | α-Mn3O4-β-Mn3O4 |  | experimental | [1] Grundy 2003; _cites Keller 1985_ [doi](https://doi.org/10.1002/bbpc.19850890815) | Table 2, p. 4, row 32 |  |
@@ -248,7 +246,7 @@ Table: Phase transition, Mn–O system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 300 K | 300 | a-Mn2O3 -> b-Mn2O3 | experimental | [2] Kjellqvist 2010 | p. 5 | “a-Bixbyite (a-Mn2O3) transforms to b-Mn2O3 (Strukturbericht D53) at around 300 K.” |
-| Phase transition | 300 K | 300 (none) | alpha-Mn2O3 + beta-Mn2O3 | experimental | [1] Grundy 2003; _cites Geller 1970_ [doi](https://doi.org/10.1103/physrevb.1.3763) | p. 3 | “Orthorhombic ␣-bixbyite (␣-Mn2O3) transforms to cubic ␤-bixbyite\[59\] at around 300 K.” |
+| Phase transition | 300 K | 300 | alpha-Mn2O3 + beta-Mn2O3 | experimental | [1] Grundy 2003; _cites Geller 1970_ [doi](https://doi.org/10.1103/physrevb.1.3763) | p. 3 | “Orthorhombic ␣-bixbyite (␣-Mn2O3) transforms to cubic ␤-bixbyite\[59\] at around 300 K.” |
 | Phase transition | 300 K | 300 | α-Mn2O3 → β-Mn2O3 | experimental | [1] Grundy 2003 | p. 10 | “It should again be noted that no attempt was made to model the ␣ → ␤-Mn2O3 transition at ∼300 K, which causes the pronounced peak in the measured cP values (Fig. 8), and only the cP data above the transition temperature were used for the optimization.” |
 | Phase transition | 980 K | 980 | alpha-Mn + beta-Mn | experimental | [1] Grundy 2003; _cites Fernandez 1990_ | p. 1 | “Manganese exists in four modifications: ␣-Mn (up to 980 K), ␤-Mn (up to 1360 K), ␥-Mn (up to 1411 K), and ␦-Mn (up to the melting temperature of 1519 K).” |
 | Phase transition | 1360 K | 1360 | beta-Mn + gamma-Mn | experimental | [1] Grundy 2003; _cites Fernandez 1990_ | p. 1 | “Manganese exists in four modifications: ␣-Mn (up to 980 K), ␤-Mn (up to 1360 K), ␥-Mn (up to 1411 K), and ␦-Mn (up to the melting temperature of 1519 K).” |
@@ -259,11 +257,11 @@ Table: Phase transition, Mn–O system
 | Phase transition | 1473 K | 1473 | alpha-Mn3O4 + beta-Mn3O4 | experimental | [1] Grundy 2003; _cites Schmier 1966_ [doi](https://doi.org/10.1002/zaac.19663460310) | p. 3 | “The measured temperatures at which this transformation takes place are between 1408 K,\[52\] 1430 K,\[54\] 1433 K,\[30\] and 1473 K \[51\] with a larger number of other measurements\[5,20,55-57\] grouped between 1443 and 1450 K (Table 2).” |
 | Phase transition | 1519 K | 1519 | delta-Mn + liquid | experimental | [1] Grundy 2003; _cites Fernandez 1990_ | p. 1 | “Manganese exists in four modifications: ␣-Mn (up to 980 K), ␤-Mn (up to 1360 K), ␥-Mn (up to 1411 K), and ␦-Mn (up to the melting temperature of 1519 K).” |
 | Phase transition | 1835 K | 1835 | beta-Mn3O4 + liquid | experimental | [1] Grundy 2003; _cites Van 1958_ | p. 1 | “The temperature of melting in air has been determined a number of times\[20,27-30\] (Table 2) with measured temperatures ranging from 1835 K\[30\] to 1863 K.\[28\]” |
-| Phase transition | 1858 K | 1858 | liquidus | experimental | [1] Grundy 2003; _cites Andrew 1931_ | p. 1 | “The melting temperature of Mn1-xO has been determined a number of times (Table 2), either by measuring the melting point of pure MnO,\[18,20\] giving 2123 and 2115 K respectively, or by extrapolating the liquidus line of pseudobinary systems (MnO-FeO,\[15,21-24\] MnO-SiO2\[25\]) to pure MnO, giving temperatures ranging from 1858 K\[21\] to 2158 K.\[24\]” |
+| Phase transition | 1858 K | 1858 | other | experimental | [1] Grundy 2003; _cites Andrew 1931_ | p. 1 | “The melting temperature of Mn1-xO has been determined a number of times (Table 2), either by measuring the melting point of pure MnO,\[18,20\] giving 2123 and 2115 K respectively, or by extrapolating the liquidus line of pseudobinary systems (MnO-FeO,\[15,21-24\] MnO-SiO2\[25\]) to pure MnO, giving temperatures ranging from 1858 K\[21\] to 2158 K.\[24\]” |
 | Phase transition | 1863 K | 1863 | beta-Mn3O4 + liquid | experimental | [1] Grundy 2003; _cites Von 1937_ | p. 1 | “The temperature of melting in air has been determined a number of times\[20,27-30\] (Table 2) with measured temperatures ranging from 1835 K\[30\] to 1863 K.\[28\]” |
-| Phase transition | 2115 K | 2115 | liquidus | experimental | [1] Grundy 2003; _cites Tromel 1976_ | p. 1 | “The melting temperature of Mn1-xO has been determined a number of times (Table 2), either by measuring the melting point of pure MnO,\[18,20\] giving 2123 and 2115 K respectively, or by extrapolating the liquidus line of pseudobinary systems (MnO-FeO,\[15,21-24\] MnO-SiO2\[25\]) to pure MnO, giving temperatures ranging from 1858 K\[21\] to 2158 K.\[24\]” |
-| Phase transition | 2123 K | 2123 | liquidus | experimental | [1] Grundy 2003; _cites Schenck 1964_ [doi](https://doi.org/10.1002/srin.196402318) | p. 1 | “The melting temperature of Mn1-xO has been determined a number of times (Table 2), either by measuring the melting point of pure MnO,\[18,20\] giving 2123 and 2115 K respectively, or by extrapolating the liquidus line of pseudobinary systems (MnO-FeO,\[15,21-24\] MnO-SiO2\[25\]) to pure MnO, giving temperatures ranging from 1858 K\[21\] to 2158 K.\[24\]” |
-| Phase transition | 2158 K | 2158 | liquidus | experimental | [1] Grundy 2003; _cites Schurmann 1984_ [doi](https://doi.org/10.1002/srin.198405356) | p. 1 | “The melting temperature of Mn1-xO has been determined a number of times (Table 2), either by measuring the melting point of pure MnO,\[18,20\] giving 2123 and 2115 K respectively, or by extrapolating the liquidus line of pseudobinary systems (MnO-FeO,\[15,21-24\] MnO-SiO2\[25\]) to pure MnO, giving temperatures ranging from 1858 K\[21\] to 2158 K.\[24\]” |
+| Phase transition | 2115 K | 2115 | other | experimental | [1] Grundy 2003; _cites Tromel 1976_ | p. 1 | “The melting temperature of Mn1-xO has been determined a number of times (Table 2), either by measuring the melting point of pure MnO,\[18,20\] giving 2123 and 2115 K respectively, or by extrapolating the liquidus line of pseudobinary systems (MnO-FeO,\[15,21-24\] MnO-SiO2\[25\]) to pure MnO, giving temperatures ranging from 1858 K\[21\] to 2158 K.\[24\]” |
+| Phase transition | 2123 K | 2123 | other | experimental | [1] Grundy 2003; _cites Schenck 1964_ [doi](https://doi.org/10.1002/srin.196402318) | p. 1 | “The melting temperature of Mn1-xO has been determined a number of times (Table 2), either by measuring the melting point of pure MnO,\[18,20\] giving 2123 and 2115 K respectively, or by extrapolating the liquidus line of pseudobinary systems (MnO-FeO,\[15,21-24\] MnO-SiO2\[25\]) to pure MnO, giving temperatures ranging from 1858 K\[21\] to 2158 K.\[24\]” |
+| Phase transition | 2158 K | 2158 | other | experimental | [1] Grundy 2003; _cites Schurmann 1984_ [doi](https://doi.org/10.1002/srin.198405356) | p. 1 | “The melting temperature of Mn1-xO has been determined a number of times (Table 2), either by measuring the melting point of pure MnO,\[18,20\] giving 2123 and 2115 K respectively, or by extrapolating the liquidus line of pseudobinary systems (MnO-FeO,\[15,21-24\] MnO-SiO2\[25\]) to pure MnO, giving temperatures ranging from 1858 K\[21\] to 2158 K.\[24\]” |
 
 ### Mixing / partial (1)
 

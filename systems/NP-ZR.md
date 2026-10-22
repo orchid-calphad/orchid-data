@@ -71,20 +71,20 @@ Table: Invariant reactions reported in the literature for the Np–Zr system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 903 | Eutectic: L -> γ-Np + β-Zr | L: Zr 0.15 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 1 |  |
-| 883 | Eutectoid: β-Zr -> γ-Np + α-Zr | β-Zr: Zr 0.83 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 3 |  |
-| 882 | Eutectic: L -> γ-Np + β-Zr | L: Zr 0.08 | model | [1] Bajaj 2011 | Table 3, p. 5, row 2 |  |
-| 852.3 | Eutectoid: β-Zr -> γ-Np + α-Zr | β-Zr: Zr 0.86 | model | [1] Bajaj 2011 | Table 3, p. 5, row 4 |  |
-| 852.2 | Peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 1) | γ-Np: Zr 0.73; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 6 |  |
-| 843.5 | Peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 2) | γ-Np: Zr 0.79; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 8 |  |
-| 838.5 | Eutectoid: γ-Np -> β-Np + δ-NpZr2 | γ-Np: Zr 0.03; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 10 |  |
-| 823 | Peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 2) | γ-Np: Zr 0.7; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 7 |  |
-| 823 | Peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 1) | γ-Np: Zr 0.7; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 5 |  |
-| 803 | Eutectoid: γ-Np -> β-Np + δ-NpZr2 | γ-Np: Zr 0.03; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 9 |  |
-| 588 | Peritectoid: β-Np + δ-NpZr2 -> θ-Np4Zr | δ-NpZr2: Zr 0.666667; θ-Np4Zr: Zr 0.2 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 11 |  |
-| 585.5 | Peritectoid: β-Np + δ-NpZr2 -> θ-Np4Zr | δ-NpZr2: Zr 0.666667; θ-Np4Zr: Zr 0.2 | model | [1] Bajaj 2011 | Table 3, p. 5, row 12 |  |
-| 553 | Eutectoid: β-Np -> α-Np + θ-Np4Zr | β-Np: Zr 0.015; θ-Np4Zr: Zr 0.2 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 13 |  |
-| 551 | Eutectoid: β-Np -> α-Np + θ-Np4Zr | β-Np: Zr 0.015; θ-Np4Zr: Zr 0.2 | model | [1] Bajaj 2011 | Table 3, p. 5, row 14 |  |
+| 903 | eutectic: L -> γ-Np + β-Zr | L: Zr 0.15 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 1 |  |
+| 883 | eutectoid: β-Zr -> γ-Np + α-Zr | β-Zr: Zr 0.83 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 3 |  |
+| 882 | eutectic: L -> γ-Np + β-Zr | L: Zr 0.08 | model | [1] Bajaj 2011 | Table 3, p. 5, row 2 |  |
+| 852.3 | eutectoid: β-Zr -> γ-Np + α-Zr | β-Zr: Zr 0.86 | model | [1] Bajaj 2011 | Table 3, p. 5, row 4 |  |
+| 852.2 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 1) | γ-Np: Zr 0.73; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 6 |  |
+| 843.5 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 2) | γ-Np: Zr 0.79; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 8 |  |
+| 838.5 | eutectoid: γ-Np -> β-Np + δ-NpZr2 | γ-Np: Zr 0.03; δ-NpZr2: Zr 0.666667 | model | [1] Bajaj 2011 | Table 3, p. 5, row 10 |  |
+| 823 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 2) | γ-Np: Zr 0.7; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 7 |  |
+| 823 | peritectoid: γ-Np + α-Zr -> δ-NpZr2 (Model 1) | γ-Np: Zr 0.7; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 5 |  |
+| 803 | eutectoid: γ-Np -> β-Np + δ-NpZr2 | γ-Np: Zr 0.03; δ-NpZr2: Zr 0.666667 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 9 |  |
+| 588 | peritectoid: β-Np + δ-NpZr2 -> θ-Np4Zr | δ-NpZr2: Zr 0.666667; θ-Np4Zr: Zr 0.2 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 11 |  |
+| 585.5 | peritectoid: β-Np + δ-NpZr2 -> θ-Np4Zr | δ-NpZr2: Zr 0.666667; θ-Np4Zr: Zr 0.2 | model | [1] Bajaj 2011 | Table 3, p. 5, row 12 |  |
+| 553 | eutectoid: β-Np -> α-Np + θ-Np4Zr | β-Np: Zr 0.015; θ-Np4Zr: Zr 0.2 | experimental | [1] Bajaj 2011; _cites Okamoto 2000_ | Table 3, p. 5, row 13 |  |
+| 551 | eutectoid: β-Np -> α-Np + θ-Np4Zr | β-Np: Zr 0.015; θ-Np4Zr: Zr 0.2 | model | [1] Bajaj 2011 | Table 3, p. 5, row 14 |  |
 
 ## Other properties
 

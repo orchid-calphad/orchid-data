@@ -1,10 +1,10 @@
 # Au–Co–Sn system
 
-> Au–Co–Sn system: 65 accepted literature values (formation 20, phase equilibrium 18, invariant reaction 15, crystal structure 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Co–Sn system: 63 accepted literature values (formation 20, phase equilibrium 16, invariant reaction 15, crystal structure 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-CO-SN.html · Markdown: https://data.orchid-project.org/systems/AU-CO-SN.md
 
-65 accepted literature values from 1 paper(s) (experimental 14, model 22, DFT 20, unspecified 9); 0 calculated phase diagram(s).
+63 accepted literature values from 1 paper(s) (experimental 13, model 22, DFT 20, unspecified 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CO-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-CO-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CO-SN) · [Markdown](https://data.orchid-project.org/systems/AU-CO-SN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
+| experimental | 13 |
 | model | 22 |
 | DFT | 20 |
-| unspecified | 9 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 15 |
-| phase equilibrium | 18 |
+| phase equilibrium | 16 |
 | formation | 20 |
 | crystal structure | 12 |
 
@@ -32,21 +32,21 @@ Table: Invariant reactions reported in the literature for the Au–Co–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 795.1 | P: L + Au + β -> ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 12 |  |
-| 781.4 | U: L + CoSn -> βCo3Sn2 + AuSn |  | model | [1] Dong 2009 | Table V, p. 11, row 1 |  |
-| 761.5 | E: L -> Au + αCo + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 10 |  |
-| 697.1 | P: L + αCo + ζ -> εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 13 |  |
-| 696.7 | U: L + αCo -> βCo3Sn2 + εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 2 |  |
+| 795.1 | peritectic: L + Au + β -> ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 12 |  |
+| 781.4 | quasi-peritectic: L + CoSn -> βCo3Sn2 + AuSn |  | model | [1] Dong 2009 | Table V, p. 11, row 1 |  |
+| 761.5 | eutectic: L -> Au + αCo + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 10 |  |
+| 697.1 | peritectic: L + αCo + ζ -> εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 13 |  |
+| 696.7 | quasi-peritectic: L + αCo -> βCo3Sn2 + εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 2 |  |
 | 668.15 | peritectic: s1 ! L þ CoSn þ Au15 Co41 Sn44 |  | experimental | [1] Dong 2009; _cites Neumann 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902302-x) | p. 2 | “A ternary compound phase (denoted s1) was detected; it melted peritectically at 395°C (668 K): s1 ! L þ CoSn þ Au15 Co41 Sn44 ; where Au15Co41Sn44 belongs to the bCo3Sn2 phase with ternary solubility of Au.” |
-| 667.9 | P: L + AuSn + CoSn -> τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 14 |  |
-| 660.6 | U: L + CoSn -> CoSn2 + τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 3 |  |
-| 654.2 | U: L + εCo -> ζ + βCo3Sn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 4 |  |
-| 577 | U: L + βCo3Sn2 -> AuSn + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 5 |  |
-| 565.8 | U: L + AuSn -> τ1 + AuSn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 6 |  |
-| 552.2 | U: L + τ1 -> AuSn2 + CoSn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 7 |  |
-| 525.5 | U: L + AuSn2 -> CoSn2 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 8 |  |
-| 522.5 | U: L + CoSn2 -> CoSn3 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 9 |  |
-| 483 | E: L -> CoSn3 + AuSn4 + βSn |  | model | [1] Dong 2009 | Table V, p. 11, row 11 |  |
+| 667.9 | peritectic: L + AuSn + CoSn -> τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 14 |  |
+| 660.6 | quasi-peritectic: L + CoSn -> CoSn2 + τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 3 |  |
+| 654.2 | quasi-peritectic: L + εCo -> ζ + βCo3Sn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 4 |  |
+| 577 | quasi-peritectic: L + βCo3Sn2 -> AuSn + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 5 |  |
+| 565.8 | quasi-peritectic: L + AuSn -> τ1 + AuSn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 6 |  |
+| 552.2 | quasi-peritectic: L + τ1 -> AuSn2 + CoSn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 7 |  |
+| 525.5 | quasi-peritectic: L + AuSn2 -> CoSn2 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 8 |  |
+| 522.5 | quasi-peritectic: L + CoSn2 -> CoSn3 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 9 |  |
+| 483 | eutectic: L -> CoSn3 + AuSn4 + βSn |  | model | [1] Dong 2009 | Table V, p. 11, row 11 |  |
 
 ## Formation enthalpies
 
@@ -79,7 +79,7 @@ Table: Enthalpies of formation, Au–Co–Sn system (20)
 
 ## Other properties
 
-### Phase equilibrium (18)
+### Phase equilibrium (16)
 
 Table: Phase equilibrium, Au–Co–Sn system
 
@@ -91,8 +91,6 @@ Table: Phase equilibrium, Au–Co–Sn system
 | Phase assemblage |  | 635 | CoSn + AuSn + τ1; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 7 |  |
 | Phase assemblage |  | 635 | CoSn + CoSn2 + τ1; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 9 |  |
 | Phase assemblage |  | 635 | CoSn + CoSn2 + τ1; _alloy: Co 0.5, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 6 |  |
-| Phase assemblage |  | 635 | CoSn + CoSn2 + τ1; _alloy: Co 0.5, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 10 |  |
-| Phase assemblage |  | 635 | CoSn + CoSn2 + τ1; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 5 |  |
 | Phase assemblage |  | 635 | L + AuSn + αCo3Sn2; _alloy: Co 0, Sn 0.5_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 12 |  |
 | Phase assemblage |  | 635 | L + AuSn + αCo3Sn2; _alloy: Co 0, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 11 |  |
 | Phase assemblage |  | 635 | L + AuSn + τ1; _alloy: Co 0, Sn 0.5_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 3 |  |

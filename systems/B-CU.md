@@ -31,18 +31,18 @@ Table: Invariant reactions reported in the literature for the B–Cu system (14)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1333.15 | eutectic |  | experimental | [1] Zhang 2009 | p. 1 | “The eutectic point is at 10.7 at.% (2.0 wt.%) B and at 1060 ± 2 C.” |
-| 1333.15 | Eutectic: L -> (Cu) + (B) | L: B 0.107 | experimental | [2] Wang 2009; _cites Lihl 1954_ | Table 3, p. 4, row 1 |  |
+| 1333.15 | eutectic: L -> (Cu) + (B) | L: B 0.107 | experimental | [2] Wang 2009; _cites Lihl 1954_ | Table 3, p. 4, row 1 |  |
 | 1301.15 | eutectic: L -> (B) + (Cu) |  | experimental | [1] Zhang 2009 | p. 1 | “The temperature associated with the eutectic reaction, L , (B) + (Cu); was measured to be 1028 ± 2 °C.” |
 | 1301.15 | eutectic: L -> (B) + (Cu) |  | experimental | [1] Zhang 2009 | p. 4 | “The presently measured eutectic temperature of the L , (B) þ (Cu); is at 1028 ± 2 C, which is close to that in Ref 5 but is higher by 15 C than that reported in Ref 7.” |
 | 1300.15 | eutectic |  | model | [1] Zhang 2009 | p. 5 | “The calculated eutectic point is at 1027 C and 13.3% B.” |
 | 1294.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Smiryagin 1965_ | p. 1 | “The eutectic point is reported to be at 1021 C and 10.7 at.% (2 wt.%) B.” |
-| 1294.15 | Eutectic: L -> (Cu) + (B) | L: B 0.107; (Cu): B 0.0029 | experimental | [2] Wang 2009; _cites Smiryagin 1965_ | Table 3, p. 4, row 2 |  |
+| 1294.15 | eutectic: L -> (Cu) + (B) | L: B 0.107; (Cu): B 0.0029 | experimental | [2] Wang 2009; _cites Smiryagin 1965_ | Table 3, p. 4, row 2 |  |
 | 1286.15 | eutectic: L ↔ (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Rexer 1970_ | p. 2 | “Rexer and Petzow \[18\] reported the composition (13.3 at.% B) and the temperature (1013 ◦ C) of the eutectic reaction L ↔ (Cu) + (B).” |
 | 1286.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Rexer 1970_ | p. 2 | “Using optical microscopy, XRD, chemical analysis and TA, they\[7\] determined the eutectic point to be at 13.3 at.% B and 1013 C.” |
-| 1286.15 | Eutectic: L -> (Cu) + (B) | L: B 0.133 | experimental | [2] Wang 2009; _cites Rexer 1970_ | Table 3, p. 4, row 4 |  |
-| 1286.15 | Eutectic: L -> (Cu) + (B) | L: B 0.133; (Cu): B 0.0029; (B): B 0.97 | model | [2] Wang 2009 | Table 3, p. 4, row 6 |  |
-| 1283.15 | Eutectic: L -> (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Piton 1974_ | Table 3, p. 4, row 5 |  |
-| 1281.15 | Eutectic: L -> (Cu) + (B) | (B): B 0.97 | experimental | [2] Wang 2009; _cites Wald 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990126-8) | Table 3, p. 4, row 3 |  |
+| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133 | experimental | [2] Wang 2009; _cites Rexer 1970_ | Table 3, p. 4, row 4 |  |
+| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133; (Cu): B 0.0029; (B): B 0.97 | model | [2] Wang 2009 | Table 3, p. 4, row 6 |  |
+| 1283.15 | eutectic: L -> (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Piton 1974_ | Table 3, p. 4, row 5 |  |
+| 1281.15 | eutectic: L -> (Cu) + (B) | (B): B 0.97 | experimental | [2] Wang 2009; _cites Wald 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990126-8) | Table 3, p. 4, row 3 |  |
 | 1281.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Wald 2009_ | p. 2 | “The eutectic temperature was found to be 1008 C with the eutectic composition being higher than 10 at.% B.” |
 
 ## Other properties

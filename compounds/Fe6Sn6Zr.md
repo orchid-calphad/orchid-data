@@ -1,20 +1,19 @@
 # Fe6Sn6Zr: enthalpy of formation
 
-> Enthalpy of formation of Fe6Sn6Zr: 3 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Fe6Sn6Zr: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe6Sn6Zr.html · Markdown: https://data.orchid-project.org/compounds/Fe6Sn6Zr.md
 
-3 accepted literature formation-enthalpy value(s) (model 3).
+2 accepted literature formation-enthalpy value(s) (model 2).
 
 Systems: [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe6Sn6Zr reported in the literature (3)
+Table: Enthalpy of formation of Fe6Sn6Zr reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8.94 kJ/mol-atom | Fe6Sn6Zr |  | model |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html) | [1] Lafaye 2020 | Table 7, p. 8, row 10 |  |
 | -8.94 kJ/mol-atom | Fe6Sn6Zr |  | model |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html) | [1] Lafaye 2020 | Table 7, p. 8, row 3 |  |
 | -8.789 kJ/mol-atom | Fe6Sn6Zr |  | model |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html) | [1] Lafaye 2020 | Table 7, p. 8, row 3 |  |
 

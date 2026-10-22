@@ -83,7 +83,7 @@ Table: Phase transition, Ca–Cu system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 728 K | 728 | Ca | experimental | [1] Risold 1996 | p. 2 | “Bruzzone reports that the ,0Ca to &a transition in equilibrium with CasCu occurs at 728 K, which is 12 K higher than the value for pure Ca used in this work \[SlDin\].” |
-| Phase transition | 1223 K | 1223 | congruent | experimental | [1] Risold 1996 | p. 2 | “Bruzzone and Kuznetzov et al. report in perfect agreement that CaCus melts congruently at 1223 K.” |
+| Phase transition | 1223 K | 1223 | congruent melting | experimental | [1] Risold 1996 | p. 2 | “Bruzzone and Kuznetzov et al. report in perfect agreement that CaCus melts congruently at 1223 K.” |
 
 ## Sources
 

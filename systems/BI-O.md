@@ -57,21 +57,21 @@ Table: Invariant reactions reported in the literature for the Bi–O system (21)
 | 1090 | monotectic: L2 -> L1 + δ-Bi2O3 (monotectic) | δ-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites B 1979_ | Table I, p. 3, row 8 |  |
 | 1077 | monotectic: L2 -> L1 + δ-Bi2O3 (monotectic) | δ-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites S 1984_ | Table I, p. 3, row 9 |  |
 | 1061 | monotectic: L2 -> L1 + δ-Bi2O3 (monotectic) | L2: O 0.592; L1: O 0.005; δ-Bi2O3: O 0.6 | model | [1] Risold 1995 | Table I, p. 3, row 10 |  |
-| 1003 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites ref. 79Har_ | Table I, p. 3, row 16 |  |
-| 1003 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Levin 1965_ [doi](https://doi.org/10.6028/jres.069a.023) | Table I, p. 3, row 12 |  |
-| 1003 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Korobeinikova 1976_ | Table I, p. 3, row 15 |  |
-| 1003 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Cubicciotti 1967_ [doi](https://doi.org/10.1021/je60035a021) | Table I, p. 3, row 13 |  |
-| 1002 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites ref. 79Har_ | Table I, p. 3, row 17 |  |
-| 1002 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6; L1: O 0.003 | model | [1] Risold 1995 | Table I, p. 3, row 25 |  |
-| 1000 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Rao 1969_ [doi](https://doi.org/10.1021/j100723a031) | Table I, p. 3, row 14 |  |
-| 997 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table I, p. 3, row 23 |  |
-| 997 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table I, p. 3, row 24 |  |
-| 997 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table I, p. 3, row 21 |  |
-| 991 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table I, p. 3, row 19 |  |
-| 990 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Gattow 1962_ [doi](https://doi.org/10.1002/zaac.19623180307) | Table I, p. 3, row 11 |  |
-| 980 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites B 1979_ | Table I, p. 3, row 20 |  |
-| 978 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table I, p. 3, row 18 |  |
-| 974 | solid state transition: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table I, p. 3, row 22 |  |
+| 1003 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites ref. 79Har_ | Table I, p. 3, row 16 |  |
+| 1003 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Levin 1965_ [doi](https://doi.org/10.6028/jres.069a.023) | Table I, p. 3, row 12 |  |
+| 1003 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Korobeinikova 1976_ | Table I, p. 3, row 15 |  |
+| 1003 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Cubicciotti 1967_ [doi](https://doi.org/10.1021/je60035a021) | Table I, p. 3, row 13 |  |
+| 1002 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites ref. 79Har_ | Table I, p. 3, row 17 |  |
+| 1002 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6; L1: O 0.003 | model | [1] Risold 1995 | Table I, p. 3, row 25 |  |
+| 1000 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Rao 1969_ [doi](https://doi.org/10.1021/j100723a031) | Table I, p. 3, row 14 |  |
+| 997 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table I, p. 3, row 23 |  |
+| 997 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table I, p. 3, row 24 |  |
+| 997 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table I, p. 3, row 21 |  |
+| 991 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Mehrotra 1995_ | Table I, p. 3, row 19 |  |
+| 990 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Gattow 1962_ [doi](https://doi.org/10.1002/zaac.19623180307) | Table I, p. 3, row 11 |  |
+| 980 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites B 1979_ | Table I, p. 3, row 20 |  |
+| 978 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table I, p. 3, row 18 |  |
+| 974 | polymorphic: δ-Bi2O3 -> α-Bi2O3 (+ L1) (solid state transition) | δ-Bi2O3: O 0.6; α-Bi2O3: O 0.6 | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table I, p. 3, row 22 |  |
 | 544 | eutectic: L1 -> Bi + α-Bi2O3 (eutectic) | L1: O 4.000e-7; Bi: O 0; α-Bi2O3: O 0.6 | model | [1] Risold 1995 | Table I, p. 3, row 26 |  |
 
 ## Formation enthalpies
@@ -104,11 +104,11 @@ Table: Phase transition, Bi–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1097 K | 1097 | melting point: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites ref. 79Har_ | Table I, p. 3, row 4 |  |
-| Phase transition | 1097 K | 1097 | melting point: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites Gattow 1964_ [doi](https://doi.org/10.1002/zaac.19643280106) | Table I, p. 3, row 1 |  |
-| Phase transition | 1098 K | 1098 | melting point: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites Levin 1965_ [doi](https://doi.org/10.6028/jres.069a.023) | Table I, p. 3, row 2 |  |
-| Phase transition | 1098 K | 1098 | melting point: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | model | [1] Risold 1995 | Table I, p. 3, row 5 |  |
-| Phase transition | 1101 K | 1101 | melting point: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites Cubicciotti 1967_ [doi](https://doi.org/10.1021/je60035a021) | Table I, p. 3, row 3 |  |
+| Phase transition | 1097 K | 1097 | congruent melting: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites ref. 79Har_ | Table I, p. 3, row 4 |  |
+| Phase transition | 1097 K | 1097 | congruent melting: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites Gattow 1964_ [doi](https://doi.org/10.1002/zaac.19643280106) | Table I, p. 3, row 1 |  |
+| Phase transition | 1098 K | 1098 | congruent melting: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites Levin 1965_ [doi](https://doi.org/10.6028/jres.069a.023) | Table I, p. 3, row 2 |  |
+| Phase transition | 1098 K | 1098 | congruent melting: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | model | [1] Risold 1995 | Table I, p. 3, row 5 |  |
+| Phase transition | 1101 K | 1101 | congruent melting: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites Cubicciotti 1967_ [doi](https://doi.org/10.1021/je60035a021) | Table I, p. 3, row 3 |  |
 | Phase transition | 1668 K | 1668 | Critical point | experimental | [1] Risold 1995; _cites B 1979_ | Table I, p. 3, row 27 |  |
 | Phase transition | 1677 K | 1677 | Critical point | model | [1] Risold 1995 | Table I, p. 3, row 28 |  |
 | Phase transition | 1950 K | 1950 | other | model | [1] Risold 1995 | p. 11 | “An experimental verification of the azeotropic boiling point at 1950 K is desirable.” |

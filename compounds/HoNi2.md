@@ -1,27 +1,23 @@
 # HoNi2: enthalpy of formation
 
-> Enthalpy of formation of HoNi2: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of HoNi2: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/HoNi2.html · Markdown: https://data.orchid-project.org/compounds/HoNi2.md
 
-9 accepted literature formation-enthalpy value(s) (model 9); Materials Project -44.81 kJ/mol-atom (mp-aaaaaazx); OQMD -44.977 kJ/mol-atom (oqmd-17463).
+5 accepted literature formation-enthalpy value(s) (model 5); Materials Project -44.81 kJ/mol-atom (mp-aaaaaazx); OQMD -44.977 kJ/mol-atom (oqmd-17463).
 
 Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of HoNi2 reported in the literature (9)
+Table: Enthalpy of formation of HoNi2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -47.5 kJ/mol-atom | HoNi2 | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 16 |  |
-| -47.5 kJ/mol-atom | HoNi2 | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 16 |  |
 | -45 kJ/mol-atom | HoNi2 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 15 |  |
-| -45 kJ/mol-atom | HoNi2 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 15 |  |
-| -45 kJ/mol-atom | HoNi2 | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 18 |  |
 | -45 kJ/mol-atom | HoNi2 | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 18 |  |
 | -42.67 kJ/mol-atom | Ni2Ho | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 9 |  |
-| -42.67 kJ/mol-atom | HoNi2 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 17 |  |
 | -42.67 kJ/mol-atom | HoNi2 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 17 |  |
 
 ## DFT formation energies

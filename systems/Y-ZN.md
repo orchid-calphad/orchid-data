@@ -100,61 +100,61 @@ Table: Invariant reactions reported in the literature for the Y–Zn system (55)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1378.15 | Congruent: L -> YZn | L: Zn 0.5; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 8 |  |
-| 1378.15 | Congruent: L -> YZn | L: Zn 0.5; YZn: Y 0.5, Zn 0.5 | model | [1] Liu 2008 | Table 3, p. 5, row 5 |  |
-| 1378.15 | Congruent: L -> YZn | L: Zn 0.5; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 6 |  |
-| 1378.15 | Congruent: L -> YZn | L: Zn 0.5; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 7 |  |
-| 1353.15 | Congruent: L -> βYZn2 | L: Zn 0.6667; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 15 |  |
-| 1353.15 | Congruent: L -> βYZn2 | L: Zn 0.6667; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 16 |  |
-| 1353.15 | Congruent: L -> βYZn2 | L: Zn 0.6667; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 14 |  |
-| 1353.15 | Congruent: L -> βYZn2 | L: Zn 0.6667; βYZn2: Y 0.333333, Zn 0.666667 | model | [1] Liu 2008 | Table 3, p. 5, row 13 |  |
-| 1313.15 | Eutectic: L -> YZn + βYZn2 | L: Zn 0.5945; YZn: Y 0.5, Zn 0.5; βYZn2: Y 0.333333, Zn 0.666667 | model | [1] Liu 2008 | Table 3, p. 5, row 9 |  |
-| 1288.15 | Eutectic: L -> YZn + βYZn2 | L: Zn 0.59; YZn: Y 0.5, Zn 0.5; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 12 |  |
-| 1288.15 | Eutectic: L -> YZn + βYZn2 | L: Zn 0.59; YZn: Y 0.5, Zn 0.5; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 11 |  |
-| 1288.15 | Eutectic: L -> YZn + βYZn2 | L: Zn 0.59; YZn: Y 0.5, Zn 0.5; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 10 |  |
-| 1178.15 | Peritectic: L + βYZn2 -> YZn3 | L: Zn 0.82; βYZn2: Y 0.333333, Zn 0.666667; YZn3: Y 0.25, Zn 0.75 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 19 |  |
-| 1178.15 | Peritectic: L + βYZn2 -> YZn3 | L: Zn 0.8182; βYZn2: Y 0.333333, Zn 0.666667; YZn3: Y 0.25, Zn 0.75 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 18 |  |
-| 1178.15 | Peritectic: L + βYZn2 -> YZn3 | L: Zn 0.83; βYZn2: Y 0.333333, Zn 0.666667; YZn3: Y 0.25, Zn 0.75 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 20 |  |
-| 1178.15 | Peritectic: L + βYZn2 -> YZn3 | L: Zn 0.8028; βYZn2: Y 0.333333, Zn 0.666667; YZn3: Y 0.25, Zn 0.75 | model | [1] Liu 2008 | Table 3, p. 5, row 17 |  |
-| 1169.15 | Peritectic: L + YZn3 -> Y3Zn11 | L: Zn 0.831; YZn3: Y 0.25, Zn 0.75; Y3Zn11: Y 0.214286, Zn 0.785714 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 23 |  |
-| 1168.15 | Peritectic: L + YZn3 -> Y3Zn11 | L: Zn 0.838; YZn3: Y 0.25, Zn 0.75; Y3Zn11: Y 0.214286, Zn 0.785714 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 24 |  |
-| 1168.15 | Peritectic: L + YZn3 -> Y3Zn11 | L: Zn 0.824; YZn3: Y 0.25, Zn 0.75; Y3Zn11: Y 0.214286, Zn 0.785714 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 22 |  |
-| 1168.15 | Peritectic: L + YZn3 -> Y3Zn11 | L: Zn 0.8118; YZn3: Y 0.25, Zn 0.75; Y3Zn11: Y 0.214286, Zn 0.785714 | model | [1] Liu 2008 | Table 3, p. 5, row 21 |  |
-| 1163.15 | Congruent: L -> Y2Zn17 | L: Zn 0.8947; Y2Zn17: Y 0.105263, Zn 0.894737 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 37 |  |
-| 1163.15 | Congruent: L -> Y2Zn17 | L: Zn 0.8947; Y2Zn17: Y 0.105263, Zn 0.894737 | model | [1] Liu 2008 | Table 3, p. 5, row 36 |  |
-| 1163.15 | Congruent: L -> Y2Zn17 | L: Zn 0.8947; Y2Zn17: Y 0.105263, Zn 0.894737 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 38 |  |
-| 1163.15 | Congruent: L -> Y2Zn17 | L: Zn 0.8947; Y2Zn17: Y 0.105263, Zn 0.894737 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 39 |  |
-| 1155.15 | Peritectic: L + Y3Zn11 -> Y13Zn58 | L: Zn 0.837; Y3Zn11: Y 0.214286, Zn 0.785714; Y13Zn58: Y 0.183099, Zn 0.816901 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 26 |  |
-| 1153.15 | Peritectic: L + Y3Zn11 -> Y13Zn58 | L: Zn 0.852; Y3Zn11: Y 0.214286, Zn 0.785714; Y13Zn58: Y 0.183099, Zn 0.816901 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 27 |  |
-| 1153.15 | Peritectic: L + Y3Zn11 -> Y13Zn58 | L: Zn 0.8309; Y3Zn11: Y 0.214286, Zn 0.785714; Y13Zn58: Y 0.183099, Zn 0.816901 | model | [1] Liu 2008 | Table 3, p. 5, row 25 |  |
-| 1148.15 | Eutectic: L -> hcp + YZn | L: Zn 0.291; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 4 |  |
-| 1148.15 | Eutectic: L -> hcp + YZn | L: Zn 0.2912; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 3 |  |
-| 1148.15 | Eutectic: L -> hcp + YZn | L: Zn 0.2912; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 2 |  |
-| 1148.15 | Eutectic: L -> hcp + YZn | L: Zn 0.2854; YZn: Y 0.5, Zn 0.5 | model | [1] Liu 2008 | Table 3, p. 5, row 1 |  |
-| 1145.15 | Peritectic: L + Y13Zn58 -> YZn5 | L: Zn 0.854; Y13Zn58: Y 0.183099, Zn 0.816901; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 30 |  |
-| 1143.15 | Peritectic: L + Y13Zn58 -> YZn5 | L: Zn 0.8495; Y13Zn58: Y 0.183099, Zn 0.816901; YZn5: Y 0.166667, Zn 0.833333 | model | [1] Liu 2008 | Table 3, p. 5, row 28 |  |
-| 1143.15 | Peritectic: L + Y13Zn58 -> YZn5 | L: Zn 0.8472; Y13Zn58: Y 0.183099, Zn 0.816901; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 29 |  |
-| 1143.15 | Peritectic: L + Y13Zn58 -> YZn5 | L: Zn 0.861; Y13Zn58: Y 0.183099, Zn 0.816901; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 31 |  |
-| 1141.15 | Eutectic: L -> Y2Zn17 + YZn5 | L: Zn 0.8533; Y2Zn17: Y 0.105263, Zn 0.894737; YZn5: Y 0.166667, Zn 0.833333 | model | [1] Liu 2008 | Table 3, p. 5, row 32 |  |
-| 1138.15 | Eutectic: L -> Y2Zn17 + YZn5 | L: Zn 0.86; Y2Zn17: Y 0.105263, Zn 0.894737; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 33 |  |
-| 1136.15 | Eutectic: L -> Y2Zn17 + YZn5 | L: Zn 0.86; Y2Zn17: Y 0.105263, Zn 0.894737; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 34 |  |
-| 1133.15 | Eutectic: L -> Y2Zn17 + YZn5 | L: Zn 0.87; Y2Zn17: Y 0.105263, Zn 0.894737; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 35 |  |
-| 1023.15 | Polymorphic-transformation: βYZn2 -> αYZn2 (in the YZn–YZn2 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 51 |  |
-| 1023.15 | Polymorphic-transformation: βYZn2 -> αYZn2 (in the YZn–YZn2 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | model | [1] Liu 2008 | Table 3, p. 5, row 48 |  |
-| 1023.15 | Polymorphic-transformation: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | model | [1] Liu 2008 | Table 3, p. 5, row 52 |  |
-| 1023.15 | Polymorphic-transformation: βYZn2 -> αYZn2 (in the YZn–YZn2 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 49 |  |
-| 1023.15 | Polymorphic-transformation: βYZn2 -> αYZn2 (in the YZn–YZn2 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 50 |  |
-| 958.15 | Peritectic: L + Y2Zn17 -> YZn12 | L: Zn 0.9933; Y2Zn17: Y 0.105263, Zn 0.894737; YZn12: Y 0.076923, Zn 0.923077 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 43 |  |
-| 958.15 | Peritectic: L + Y2Zn17 -> YZn12 | L: Zn 0.9928; Y2Zn17: Y 0.105263, Zn 0.894737; YZn12: Y 0.076923, Zn 0.923077 | model | [1] Liu 2008 | Table 3, p. 5, row 40 |  |
-| 958.15 | Peritectic: L + Y2Zn17 -> YZn12 | L: Zn 0.9942; Y2Zn17: Y 0.105263, Zn 0.894737; YZn12: Y 0.076923, Zn 0.923077 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 42 |  |
-| 958.15 | Peritectic: L + Y2Zn17 -> YZn12 | L: Zn 0.9943; Y2Zn17: Y 0.105263, Zn 0.894737; YZn12: Y 0.076923, Zn 0.923077 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 41 |  |
-| 903.15 | Polymorphic-transformation: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 54 |  |
-| 903.15 | Polymorphic-transformation: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 55 |  |
-| 823.15 | Polymorphic-transformation: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 53 |  |
-| 693.15 | Congruent: L -> hcp - Zn | L: Zn 1 | model | [1] Liu 2008 | Table 3, p. 5, row 44 |  |
-| 693.15 | Congruent: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 46 |  |
-| 692.73 | Congruent: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 47 |  |
-| 692.15 | Congruent: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 45 |  |
+| 1378.15 | congruent melting: L -> YZn | L: Zn 0.5; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 8 |  |
+| 1378.15 | congruent melting: L -> YZn | L: Zn 0.5; YZn: Y 0.5, Zn 0.5 | model | [1] Liu 2008 | Table 3, p. 5, row 5 |  |
+| 1378.15 | congruent melting: L -> YZn | L: Zn 0.5; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 6 |  |
+| 1378.15 | congruent melting: L -> YZn | L: Zn 0.5; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 7 |  |
+| 1353.15 | congruent melting: L -> βYZn2 | L: Zn 0.6667; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 15 |  |
+| 1353.15 | congruent melting: L -> βYZn2 | L: Zn 0.6667; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 16 |  |
+| 1353.15 | congruent melting: L -> βYZn2 | L: Zn 0.6667; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 14 |  |
+| 1353.15 | congruent melting: L -> βYZn2 | L: Zn 0.6667; βYZn2: Y 0.333333, Zn 0.666667 | model | [1] Liu 2008 | Table 3, p. 5, row 13 |  |
+| 1313.15 | eutectic: L -> YZn + βYZn2 | L: Zn 0.5945; YZn: Y 0.5, Zn 0.5; βYZn2: Y 0.333333, Zn 0.666667 | model | [1] Liu 2008 | Table 3, p. 5, row 9 |  |
+| 1288.15 | eutectic: L -> YZn + βYZn2 | L: Zn 0.59; YZn: Y 0.5, Zn 0.5; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 12 |  |
+| 1288.15 | eutectic: L -> YZn + βYZn2 | L: Zn 0.59; YZn: Y 0.5, Zn 0.5; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 11 |  |
+| 1288.15 | eutectic: L -> YZn + βYZn2 | L: Zn 0.59; YZn: Y 0.5, Zn 0.5; βYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 10 |  |
+| 1178.15 | peritectic: L + βYZn2 -> YZn3 | L: Zn 0.82; βYZn2: Y 0.333333, Zn 0.666667; YZn3: Y 0.25, Zn 0.75 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 19 |  |
+| 1178.15 | peritectic: L + βYZn2 -> YZn3 | L: Zn 0.8182; βYZn2: Y 0.333333, Zn 0.666667; YZn3: Y 0.25, Zn 0.75 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 18 |  |
+| 1178.15 | peritectic: L + βYZn2 -> YZn3 | L: Zn 0.83; βYZn2: Y 0.333333, Zn 0.666667; YZn3: Y 0.25, Zn 0.75 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 20 |  |
+| 1178.15 | peritectic: L + βYZn2 -> YZn3 | L: Zn 0.8028; βYZn2: Y 0.333333, Zn 0.666667; YZn3: Y 0.25, Zn 0.75 | model | [1] Liu 2008 | Table 3, p. 5, row 17 |  |
+| 1169.15 | peritectic: L + YZn3 -> Y3Zn11 | L: Zn 0.831; YZn3: Y 0.25, Zn 0.75; Y3Zn11: Y 0.214286, Zn 0.785714 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 23 |  |
+| 1168.15 | peritectic: L + YZn3 -> Y3Zn11 | L: Zn 0.838; YZn3: Y 0.25, Zn 0.75; Y3Zn11: Y 0.214286, Zn 0.785714 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 24 |  |
+| 1168.15 | peritectic: L + YZn3 -> Y3Zn11 | L: Zn 0.824; YZn3: Y 0.25, Zn 0.75; Y3Zn11: Y 0.214286, Zn 0.785714 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 22 |  |
+| 1168.15 | peritectic: L + YZn3 -> Y3Zn11 | L: Zn 0.8118; YZn3: Y 0.25, Zn 0.75; Y3Zn11: Y 0.214286, Zn 0.785714 | model | [1] Liu 2008 | Table 3, p. 5, row 21 |  |
+| 1163.15 | congruent melting: L -> Y2Zn17 | L: Zn 0.8947; Y2Zn17: Y 0.105263, Zn 0.894737 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 37 |  |
+| 1163.15 | congruent melting: L -> Y2Zn17 | L: Zn 0.8947; Y2Zn17: Y 0.105263, Zn 0.894737 | model | [1] Liu 2008 | Table 3, p. 5, row 36 |  |
+| 1163.15 | congruent melting: L -> Y2Zn17 | L: Zn 0.8947; Y2Zn17: Y 0.105263, Zn 0.894737 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 38 |  |
+| 1163.15 | congruent melting: L -> Y2Zn17 | L: Zn 0.8947; Y2Zn17: Y 0.105263, Zn 0.894737 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 39 |  |
+| 1155.15 | peritectic: L + Y3Zn11 -> Y13Zn58 | L: Zn 0.837; Y3Zn11: Y 0.214286, Zn 0.785714; Y13Zn58: Y 0.183099, Zn 0.816901 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 26 |  |
+| 1153.15 | peritectic: L + Y3Zn11 -> Y13Zn58 | L: Zn 0.852; Y3Zn11: Y 0.214286, Zn 0.785714; Y13Zn58: Y 0.183099, Zn 0.816901 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 27 |  |
+| 1153.15 | peritectic: L + Y3Zn11 -> Y13Zn58 | L: Zn 0.8309; Y3Zn11: Y 0.214286, Zn 0.785714; Y13Zn58: Y 0.183099, Zn 0.816901 | model | [1] Liu 2008 | Table 3, p. 5, row 25 |  |
+| 1148.15 | eutectic: L -> hcp + YZn | L: Zn 0.291; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 4 |  |
+| 1148.15 | eutectic: L -> hcp + YZn | L: Zn 0.2912; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 3 |  |
+| 1148.15 | eutectic: L -> hcp + YZn | L: Zn 0.2912; YZn: Y 0.5, Zn 0.5 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 2 |  |
+| 1148.15 | eutectic: L -> hcp + YZn | L: Zn 0.2854; YZn: Y 0.5, Zn 0.5 | model | [1] Liu 2008 | Table 3, p. 5, row 1 |  |
+| 1145.15 | peritectic: L + Y13Zn58 -> YZn5 | L: Zn 0.854; Y13Zn58: Y 0.183099, Zn 0.816901; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 30 |  |
+| 1143.15 | peritectic: L + Y13Zn58 -> YZn5 | L: Zn 0.8495; Y13Zn58: Y 0.183099, Zn 0.816901; YZn5: Y 0.166667, Zn 0.833333 | model | [1] Liu 2008 | Table 3, p. 5, row 28 |  |
+| 1143.15 | peritectic: L + Y13Zn58 -> YZn5 | L: Zn 0.8472; Y13Zn58: Y 0.183099, Zn 0.816901; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 29 |  |
+| 1143.15 | peritectic: L + Y13Zn58 -> YZn5 | L: Zn 0.861; Y13Zn58: Y 0.183099, Zn 0.816901; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 31 |  |
+| 1141.15 | eutectic: L -> Y2Zn17 + YZn5 | L: Zn 0.8533; Y2Zn17: Y 0.105263, Zn 0.894737; YZn5: Y 0.166667, Zn 0.833333 | model | [1] Liu 2008 | Table 3, p. 5, row 32 |  |
+| 1138.15 | eutectic: L -> Y2Zn17 + YZn5 | L: Zn 0.86; Y2Zn17: Y 0.105263, Zn 0.894737; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 33 |  |
+| 1136.15 | eutectic: L -> Y2Zn17 + YZn5 | L: Zn 0.86; Y2Zn17: Y 0.105263, Zn 0.894737; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 34 |  |
+| 1133.15 | eutectic: L -> Y2Zn17 + YZn5 | L: Zn 0.87; Y2Zn17: Y 0.105263, Zn 0.894737; YZn5: Y 0.166667, Zn 0.833333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 35 |  |
+| 1023.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn–YZn2 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 51 |  |
+| 1023.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn–YZn2 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | model | [1] Liu 2008 | Table 3, p. 5, row 48 |  |
+| 1023.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | model | [1] Liu 2008 | Table 3, p. 5, row 52 |  |
+| 1023.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn–YZn2 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 49 |  |
+| 1023.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn–YZn2 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 50 |  |
+| 958.15 | peritectic: L + Y2Zn17 -> YZn12 | L: Zn 0.9933; Y2Zn17: Y 0.105263, Zn 0.894737; YZn12: Y 0.076923, Zn 0.923077 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 43 |  |
+| 958.15 | peritectic: L + Y2Zn17 -> YZn12 | L: Zn 0.9928; Y2Zn17: Y 0.105263, Zn 0.894737; YZn12: Y 0.076923, Zn 0.923077 | model | [1] Liu 2008 | Table 3, p. 5, row 40 |  |
+| 958.15 | peritectic: L + Y2Zn17 -> YZn12 | L: Zn 0.9942; Y2Zn17: Y 0.105263, Zn 0.894737; YZn12: Y 0.076923, Zn 0.923077 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 42 |  |
+| 958.15 | peritectic: L + Y2Zn17 -> YZn12 | L: Zn 0.9943; Y2Zn17: Y 0.105263, Zn 0.894737; YZn12: Y 0.076923, Zn 0.923077 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 41 |  |
+| 903.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 54 |  |
+| 903.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 55 |  |
+| 823.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 53 |  |
+| 693.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | model | [1] Liu 2008 | Table 3, p. 5, row 44 |  |
+| 693.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 46 |  |
+| 692.73 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 47 |  |
+| 692.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 45 |  |
 
 ## Formation enthalpies
 
@@ -200,59 +200,59 @@ Table: Mixing / partial, Y–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28000 J/mol-atom ± 1000 | 773.15 | Y13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 30 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28400 J/mol-atom | 773.15 | Y13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2008 | Table 4, p. 5, row 29 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21000 J/mol-atom ± 1000 | 773.15 | Y2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 42 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21200 J/mol-atom | 773.15 | Y2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2008 | Table 4, p. 5, row 40 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23000 J/mol-atom ± 1000 | 773.15 | Y2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 41 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30000 J/mol-atom ± 1000 | 773.15 | Y3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 24 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31200 J/mol-atom | 773.15 | Y3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2008 | Table 4, p. 5, row 22 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31000 J/mol-atom ± 1000 | 773.15 | Y3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 23 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -38270 J/mol-atom | 773.15 | YZn; _alloy: Zn 0.5_ | model | [1] Liu 2008 | Table 4, p. 5, row 1 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -36000 J/mol-atom ± 1000 | 773.15 | YZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 3 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -38000 J/mol-atom ± 1000 | 773.15 | YZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 2 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -16400 J/mol-atom | 773.15 | YZn12; _alloy: Zn 0.923077_ | model | [1] Liu 2008 | Table 4, p. 5, row 47 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19000 J/mol-atom ± 1000 | 773.15 | YZn12; _alloy: Zn 0.923077_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 48 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -16000 J/mol-atom ± 1000 | 773.15 | YZn12; _alloy: Zn 0.923077_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 49 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35000 J/mol-atom ± 1000 | 773.15 | YZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 16 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32000 J/mol-atom ± 1000 | 773.15 | YZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 17 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -34100 J/mol-atom | 773.15 | YZn3; _alloy: Zn 0.75_ | model | [1] Liu 2008 | Table 4, p. 5, row 15 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24000 J/mol-atom ± 1000 | 773.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 35 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26900 J/mol-atom | 773.15 | YZn5; _alloy: Zn 0.833333_ | model | [1] Liu 2008 | Table 4, p. 5, row 33 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29000 J/mol-atom ± 1000 | 773.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 34 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -38000 J/mol-atom ± 1000 | 773.15 | αYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 10 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -40000 J/mol-atom ± 1000 | 773.15 | αYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 9 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -40100 J/mol-atom | 773.15 | αYZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2008 | Table 4, p. 5, row 8 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24800 J/mol-atom | 973.15 | Y13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2008 | Table 4, p. 5, row 31 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -17600 J/mol-atom | 973.15 | Y2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2008 | Table 4, p. 5, row 43 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19000 J/mol-atom ± 1000 | 973.15 | Y2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 44 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27400 J/mol-atom | 973.15 | Y3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2008 | Table 4, p. 5, row 25 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28000 J/mol-atom ± 1000 | 973.15 | Y3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 26 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35500 J/mol-atom | 973.15 | YZn; _alloy: Zn 0.5_ | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35000 J/mol-atom ± 1000 | 973.15 | YZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 5 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -15000 J/mol-atom ± 1000 | 973.15 | YZn12; _alloy: Zn 0.923077_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 51 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -12800 J/mol-atom | 973.15 | YZn12; _alloy: Zn 0.923077_ | model | [1] Liu 2008 | Table 4, p. 5, row 50 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30200 J/mol-atom | 973.15 | YZn3; _alloy: Zn 0.75_ | model | [1] Liu 2008 | Table 4, p. 5, row 18 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31000 J/mol-atom ± 1000 | 973.15 | YZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 19 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23400 J/mol-atom | 973.15 | YZn5; _alloy: Zn 0.833333_ | model | [1] Liu 2008 | Table 4, p. 5, row 36 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -25000 J/mol-atom ± 1000 | 973.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 37 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35900 J/mol-atom | 973.15 | αYZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2008 | Table 4, p. 5, row 11 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -36000 J/mol-atom ± 1000 | 973.15 | αYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 12 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21100 J/mol-atom | 1173.15 | Y13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2008 | Table 4, p. 5, row 32 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -14100 J/mol-atom | 1173.15 | Y2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2008 | Table 4, p. 5, row 45 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -14000 J/mol-atom ± 1000 | 1173.15 | Y2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 46 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23600 J/mol-atom | 1173.15 | Y3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2008 | Table 4, p. 5, row 27 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24000 J/mol-atom ± 1000 | 1173.15 | Y3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 28 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32700 J/mol-atom | 1173.15 | YZn; _alloy: Zn 0.5_ | model | [1] Liu 2008 | Table 4, p. 5, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31000 J/mol-atom ± 1000 | 1173.15 | YZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 7 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -9400 J/mol-atom | 1173.15 | YZn12; _alloy: Zn 0.923077_ | model | [1] Liu 2008 | Table 4, p. 5, row 52 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -11000 J/mol-atom ± 1000 | 1173.15 | YZn12; _alloy: Zn 0.923077_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 53 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26300 J/mol-atom | 1173.15 | YZn3; _alloy: Zn 0.75_ | model | [1] Liu 2008 | Table 4, p. 5, row 20 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27000 J/mol-atom ± 1000 | 1173.15 | YZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 21 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19600 J/mol-atom | 1173.15 | YZn5; _alloy: Zn 0.833333_ | model | [1] Liu 2008 | Table 4, p. 5, row 38 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21000 J/mol-atom ± 1000 | 1173.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 39 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32000 J/mol-atom ± 1000 | 1173.15 | βYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 14 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32200 J/mol-atom | 1173.15 | βYZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2008 | Table 4, p. 5, row 13 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28 kJ/mol-atom ± 1 | 773.15 | Y13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 30 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.4 kJ/mol-atom | 773.15 | Y13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2008 | Table 4, p. 5, row 29 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21 kJ/mol-atom ± 1 | 773.15 | Y2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 42 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21.2 kJ/mol-atom | 773.15 | Y2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2008 | Table 4, p. 5, row 40 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23 kJ/mol-atom ± 1 | 773.15 | Y2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 41 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30 kJ/mol-atom ± 1 | 773.15 | Y3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 24 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31.2 kJ/mol-atom | 773.15 | Y3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2008 | Table 4, p. 5, row 22 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31 kJ/mol-atom ± 1 | 773.15 | Y3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 23 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -38.27 kJ/mol-atom | 773.15 | YZn; _alloy: Zn 0.5_ | model | [1] Liu 2008 | Table 4, p. 5, row 1 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -36 kJ/mol-atom ± 1 | 773.15 | YZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 3 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -38 kJ/mol-atom ± 1 | 773.15 | YZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 2 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -16.4 kJ/mol-atom | 773.15 | YZn12; _alloy: Zn 0.923077_ | model | [1] Liu 2008 | Table 4, p. 5, row 47 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19 kJ/mol-atom ± 1 | 773.15 | YZn12; _alloy: Zn 0.923077_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 48 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -16 kJ/mol-atom ± 1 | 773.15 | YZn12; _alloy: Zn 0.923077_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 49 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35 kJ/mol-atom ± 1 | 773.15 | YZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 16 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32 kJ/mol-atom ± 1 | 773.15 | YZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 17 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -34.1 kJ/mol-atom | 773.15 | YZn3; _alloy: Zn 0.75_ | model | [1] Liu 2008 | Table 4, p. 5, row 15 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24 kJ/mol-atom ± 1 | 773.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 35 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26.9 kJ/mol-atom | 773.15 | YZn5; _alloy: Zn 0.833333_ | model | [1] Liu 2008 | Table 4, p. 5, row 33 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29 kJ/mol-atom ± 1 | 773.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 34 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -38 kJ/mol-atom ± 1 | 773.15 | αYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 4, p. 5, row 10 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -40 kJ/mol-atom ± 1 | 773.15 | αYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 9 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -40.1 kJ/mol-atom | 773.15 | αYZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2008 | Table 4, p. 5, row 8 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.8 kJ/mol-atom | 973.15 | Y13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2008 | Table 4, p. 5, row 31 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -17.6 kJ/mol-atom | 973.15 | Y2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2008 | Table 4, p. 5, row 43 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19 kJ/mol-atom ± 1 | 973.15 | Y2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 44 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27.4 kJ/mol-atom | 973.15 | Y3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2008 | Table 4, p. 5, row 25 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28 kJ/mol-atom ± 1 | 973.15 | Y3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 26 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35.5 kJ/mol-atom | 973.15 | YZn; _alloy: Zn 0.5_ | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35 kJ/mol-atom ± 1 | 973.15 | YZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 5 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -15 kJ/mol-atom ± 1 | 973.15 | YZn12; _alloy: Zn 0.923077_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 51 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -12.8 kJ/mol-atom | 973.15 | YZn12; _alloy: Zn 0.923077_ | model | [1] Liu 2008 | Table 4, p. 5, row 50 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.2 kJ/mol-atom | 973.15 | YZn3; _alloy: Zn 0.75_ | model | [1] Liu 2008 | Table 4, p. 5, row 18 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31 kJ/mol-atom ± 1 | 973.15 | YZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 19 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23.4 kJ/mol-atom | 973.15 | YZn5; _alloy: Zn 0.833333_ | model | [1] Liu 2008 | Table 4, p. 5, row 36 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -25 kJ/mol-atom ± 1 | 973.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 37 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35.9 kJ/mol-atom | 973.15 | αYZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2008 | Table 4, p. 5, row 11 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -36 kJ/mol-atom ± 1 | 973.15 | αYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 12 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21.1 kJ/mol-atom | 1173.15 | Y13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2008 | Table 4, p. 5, row 32 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -14.1 kJ/mol-atom | 1173.15 | Y2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2008 | Table 4, p. 5, row 45 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -14 kJ/mol-atom ± 1 | 1173.15 | Y2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 46 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23.6 kJ/mol-atom | 1173.15 | Y3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2008 | Table 4, p. 5, row 27 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24 kJ/mol-atom ± 1 | 1173.15 | Y3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 28 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32.7 kJ/mol-atom | 1173.15 | YZn; _alloy: Zn 0.5_ | model | [1] Liu 2008 | Table 4, p. 5, row 6 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31 kJ/mol-atom ± 1 | 1173.15 | YZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 7 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -9.4 kJ/mol-atom | 1173.15 | YZn12; _alloy: Zn 0.923077_ | model | [1] Liu 2008 | Table 4, p. 5, row 52 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -11 kJ/mol-atom ± 1 | 1173.15 | YZn12; _alloy: Zn 0.923077_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 53 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26.3 kJ/mol-atom | 1173.15 | YZn3; _alloy: Zn 0.75_ | model | [1] Liu 2008 | Table 4, p. 5, row 20 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27 kJ/mol-atom ± 1 | 1173.15 | YZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 21 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19.6 kJ/mol-atom | 1173.15 | YZn5; _alloy: Zn 0.833333_ | model | [1] Liu 2008 | Table 4, p. 5, row 38 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21 kJ/mol-atom ± 1 | 1173.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 39 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32 kJ/mol-atom ± 1 | 1173.15 | βYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 14 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32.2 kJ/mol-atom | 1173.15 | βYZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2008 | Table 4, p. 5, row 13 |  |
 
 ## Sources
 

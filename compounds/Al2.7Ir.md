@@ -1,34 +1,24 @@
 # Al2.7Ir: enthalpy of formation
 
-> Enthalpy of formation of Al2.7Ir: 16 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Al2.7Ir: 6 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al2.7Ir.html · Markdown: https://data.orchid-project.org/compounds/Al2.7Ir.md
 
-16 accepted literature formation-enthalpy value(s) (model 14, DFT 2).
+6 accepted literature formation-enthalpy value(s) (model 5, DFT 1).
 
 Systems: [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al2.7Ir reported in the literature (16)
+Table: Enthalpy of formation of Al2.7Ir reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -69.7 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 3 |  |
-| -69.7 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 3 |  |
 | -68.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
-| -68.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
-| -68.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 5 |  |
-| -68.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 5 |  |
 | -68.3 kJ/mol-atom ± 0.5 | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
 | -68.3 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
 | -67.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
-| -67.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 6 |  |
-| -67.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 3 |  |
-| -67.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 3 |  |
-| -67.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 5 |  |
-| -67.8 kJ/mol-atom | Al2.7Ir | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] JIANG 2006 | Table 4, p. 4, row 5 |  |
-| -68.3 kJ/mol-atom | Al2.7Ir |  | DFT |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 16 |  |
 | -68.3 kJ/mol-atom | Al2.7Ir |  | DFT |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 16 |  |
 
 ## Sources

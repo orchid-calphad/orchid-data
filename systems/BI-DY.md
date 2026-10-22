@@ -53,18 +53,18 @@ Table: Invariant reactions reported in the literature for the Bi–Dy system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2048 | Congruent: L -> BiDy | L: Bi 0.5; BiDy: Bi 0.5, Dy 0.5 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 5 |  |
-| 2048 | Congruent: L -> BiDy | L: Bi 0.5; BiDy: Bi 0.5, Dy 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 6 |  |
-| 1719 | Peritectic: L + BiDy -> Bi3Dy5 | L: Bi 0.335; BiDy: Bi 0.5, Dy 0.5; Bi3Dy5: Bi 0.375, Dy 0.625 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 3 |  |
-| 1719 | Peritectic: L + BiDy -> Bi3Dy5 | L: Bi 0.33; BiDy: Bi 0.5, Dy 0.5; Bi3Dy5: Bi 0.375, Dy 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 4 |  |
+| 2048 | congruent melting: L -> BiDy | L: Bi 0.5; BiDy: Bi 0.5, Dy 0.5 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 5 |  |
+| 2048 | congruent melting: L -> BiDy | L: Bi 0.5; BiDy: Bi 0.5, Dy 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 6 |  |
+| 1719 | peritectic: L + BiDy -> Bi3Dy5 | L: Bi 0.335; BiDy: Bi 0.5, Dy 0.5; Bi3Dy5: Bi 0.375, Dy 0.625 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 3 |  |
+| 1719 | peritectic: L + BiDy -> Bi3Dy5 | L: Bi 0.33; BiDy: Bi 0.5, Dy 0.5; Bi3Dy5: Bi 0.375, Dy 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 4 |  |
 | 1719 | peritectic |  | model | [1] Wang 2013 | p. 5 | “The peritectic temperature for the formation of the intermetallic compound Bi3 Dy5 is 1719 K, and the congruent melting temperature of BiDy is 2023 K, the eutectic temperatures of the reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 and L ↔ Rhomb (Bi) + BiDy, are 1420 and 543.5 K, respectively.” |
 | 1693 | peritectic: L + BiDy ↔ Bi3 Dy5 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “According to measured data, the compound Bi3 Dy5 is formed by the peritectic reactions, L + BiDy ↔ Bi3 Dy5 at 1693 K, and the compound BiDy melts congruently at about 2048 K.” |
 | 1428 | eutectic: L ↔ Hcp A3 (Dy) + Bi3 Dy5 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “There are two eutectic reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 at 1428 K and L ↔ Rhomb (Bi) + BiDy at 544 K.” |
-| 1420 | Eutectic: L -> Bi3Dy5 + Hcp_A3 (Dy) | L: Bi 0.185; Bi3Dy5: Bi 0.375, Dy 0.625 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 1 |  |
-| 1420 | Eutectic: L -> Bi3Dy5 + Hcp_A3 (Dy) | L: Bi 0.175; Bi3Dy5: Bi 0.375, Dy 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 2 |  |
+| 1420 | eutectic: L -> Bi3Dy5 + Hcp_A3 (Dy) | L: Bi 0.185; Bi3Dy5: Bi 0.375, Dy 0.625 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 1 |  |
+| 1420 | eutectic: L -> Bi3Dy5 + Hcp_A3 (Dy) | L: Bi 0.175; Bi3Dy5: Bi 0.375, Dy 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 2 |  |
 | 544 | eutectic: L ↔ Rhomb (Bi) + BiDy |  | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “There are two eutectic reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 at 1428 K and L ↔ Rhomb (Bi) + BiDy at 544 K.” |
-| 543.5 | Eutectic: L -> BiDy + Rhomb_A7 (Bi) | L: Bi 0.995; BiDy: Bi 0.5, Dy 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8 |  |
-| 542 | Eutectic: L -> BiDy + Rhomb_A7 (Bi) | L: Bi 0.99; BiDy: Bi 0.5, Dy 0.5 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 7 |  |
+| 543.5 | eutectic: L -> BiDy + Rhomb_A7 (Bi) | L: Bi 0.995; BiDy: Bi 0.5, Dy 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8 |  |
+| 542 | eutectic: L -> BiDy + Rhomb_A7 (Bi) | L: Bi 0.99; BiDy: Bi 0.5, Dy 0.5 | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | Table 2, p. 2, row 7 |  |
 
 ## Other properties
 
@@ -74,8 +74,8 @@ Table: Phase transition, Bi–Dy system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2023 K | 2023 | congruent | model | [1] Wang 2013 | p. 5 | “The peritectic temperature for the formation of the intermetallic compound Bi3 Dy5 is 1719 K, and the congruent melting temperature of BiDy is 2023 K, the eutectic temperatures of the reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 and L ↔ Rhomb (Bi) + BiDy, are 1420 and 543.5 K, respectively.” |
-| Phase transition | 2048 K | 2048 | congruent | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “According to measured data, the compound Bi3 Dy5 is formed by the peritectic reactions, L + BiDy ↔ Bi3 Dy5 at 1693 K, and the compound BiDy melts congruently at about 2048 K.” |
+| Phase transition | 2023 K | 2023 | congruent transformation | model | [1] Wang 2013 | p. 5 | “The peritectic temperature for the formation of the intermetallic compound Bi3 Dy5 is 1719 K, and the congruent melting temperature of BiDy is 2023 K, the eutectic temperatures of the reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 and L ↔ Rhomb (Bi) + BiDy, are 1420 and 543.5 K, respectively.” |
+| Phase transition | 2048 K | 2048 | congruent transformation | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “According to measured data, the compound Bi3 Dy5 is formed by the peritectic reactions, L + BiDy ↔ Bi3 Dy5 at 1693 K, and the compound BiDy melts congruently at about 2048 K.” |
 
 ## Sources
 

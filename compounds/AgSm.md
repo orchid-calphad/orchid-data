@@ -1,20 +1,19 @@
 # AgSm: enthalpy of formation
 
-> Enthalpy of formation of AgSm: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AgSm: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AgSm.html · Markdown: https://data.orchid-project.org/compounds/AgSm.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 1, unspecified 1); experimental median -37 kJ/mol-atom (n = 2); Materials Project -26.737 kJ/mol-atom (mp-aaaaadrf); OQMD -28.228 kJ/mol-atom (oqmd-10667).
+5 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 1, unspecified 1); experimental median -37 kJ/mol-atom (n = 1); Materials Project -26.737 kJ/mol-atom (mp-aaaaadrf); OQMD -28.228 kJ/mol-atom (oqmd-10667).
 
 Systems: [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AgSm reported in the literature (6)
+Table: Enthalpy of formation of AgSm reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37 kJ/mol-atom ± 2.7 | AgSm | 298.15 | experimental | HTDSC | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.069) | Table 7, p. 10, row 2 |  |
 | -37 kJ/mol-atom ± 2.7 | AgSm | 298.15 | experimental | HTDSC | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.069) | Table 7, p. 10, row 2 |  |
 | -42 kJ/mol-atom | AgSm | 298.15 | model | Evaluation | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 7, p. 10, row 1 |  |
 | -27.8 kJ/mol-atom | AgSm | 298.15 | model | CALPHAD | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020 | Table 7, p. 10, row 5 |  |

@@ -1,30 +1,25 @@
 # Nb7Ni6: enthalpy of formation
 
-> Enthalpy of formation of Nb7Ni6: 20 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Nb7Ni6: 15 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Nb7Ni6.html · Markdown: https://data.orchid-project.org/compounds/Nb7Ni6.md
 
-20 accepted literature formation-enthalpy value(s) (experimental 8, model 2, DFT 10); experimental median -22.735 kJ/mol-atom (n = 8); Materials Project -19.894 kJ/mol-atom (mp-aaackvmr); OQMD -19.955 kJ/mol-atom (oqmd-30782).
+15 accepted literature formation-enthalpy value(s) (experimental 5, model 1, DFT 9); experimental median -22.47 kJ/mol-atom (n = 5); Materials Project -19.894 kJ/mol-atom (mp-aaackvmr); OQMD -19.955 kJ/mol-atom (oqmd-30782).
 
 Systems: [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Nb7Ni6 reported in the literature (20)
+Table: Enthalpy of formation of Nb7Ni6 reported in the literature (15)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -23 kJ/mol-atom | Nb7Ni6 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 3 |  |
-| -23 kJ/mol-atom | Nb7Ni6 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 3 |  |
 | -23 kJ/mol-atom ± 3 | Nb7Ni6 | 600.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 2 |  |
-| -23 kJ/mol-atom ± 3 | Nb7Ni6 | 600.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 2 |  |
-| -22.47 kJ/mol-atom ± 2.2 | Nb7Ni6 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 1 |  |
 | -22.47 kJ/mol-atom ± 2.2 | Nb7Ni6 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 1 |  |
 | -22.45 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 5 |  |
 | -22.45 kJ/mol-atom | µ-Nb7Ni6 | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 5 |  |
 | -20.76 kJ/mol-atom | Nb7Ni6 | 298.15 | model | Miedema | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 4 |  |
-| -20.76 kJ/mol-atom | Nb7Ni6 | 298.15 | model | Miedema | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 4 |  |
-| -22.5 kJ/mol-atom | Nb7Ni6 | 0 | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015 | Table 6, p. 4, row 5 |  |
 | -22.5 kJ/mol-atom | Nb7Ni6 | 0 | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015 | Table 6, p. 4, row 5 |  |
 | -20.63 kJ/mol-atom | μ-Nb7Ni6 + µ-Nb7Ni6 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 3 |  |
 | -20.63 kJ/mol-atom | µ-Nb7Ni6 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Sun 2023 | Table 6, p. 33, row 3 |  |

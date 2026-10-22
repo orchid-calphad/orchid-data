@@ -111,9 +111,9 @@ Table: Invariant reactions reported in the literature for the Co–La system (26
 | 869.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.375; Co3La2: Co 0.6; Co23La27: Co 0.46 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 16 |  |
 | 843.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.376; Co3La2: Co 0.6; Co23La27: Co 0.46 | model | [1] Wang 2008 | Table 2, p. 5, row 17 |  |
 | 843.15 | peritectic: L + Co3La2 -> Co23La27 | L: Co 0.357; Co3La2: Co 0.6; Co23La27: Co 0.46 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 15 |  |
-| 818.15 | congruent: L -> CoLa3 | CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 25 |  |
-| 818.15 | congruent: L -> CoLa3 | CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 24 |  |
-| 816.15 | congruent: L -> CoLa3 | CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 26 |  |
+| 818.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 25 |  |
+| 818.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 24 |  |
+| 816.15 | congruent melting: L -> CoLa3 | CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 26 |  |
 | 796.15 | eutectic: L -> Co23La27 + CoLa3 | L: Co 0.315; Co23La27: Co 0.46; CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 20 |  |
 | 794.15 | eutectic: L -> fcc (La) + CoLa3 | L: Co 0.187; fcc (La): Co 0.001; CoLa3: Co 0.25 | model | [1] Wang 2008 | Table 2, p. 5, row 23 |  |
 | 793.15 | eutectic: L -> fcc (La) + CoLa3 | L: Co 0.2; fcc (La): Co 0.001; CoLa3: Co 0.25 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 22 |  |

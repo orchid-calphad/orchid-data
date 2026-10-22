@@ -71,21 +71,21 @@ Table: Invariant reactions reported in the literature for the La–Pt system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2440 | Peritectic: Pt7La2 -> L + Pt5La | Pt7La2: La 0.222222, Pt 0.777778; Pt5La: La 0.166667, Pt 0.833333 | model | [1] Reimann 2006 | Table 6, p. 6, row 12 |  |
-| 1913 | Eutectic: L -> (Pt) + Pt5La | Pt5La: La 0.166667, Pt 0.833333 | experimental | [1] Reimann 2006; _cites Voronova 1983_ | Table 6, p. 6, row 14 |  |
-| 1911 | Eutectic: L -> (Pt) + Pt5La | Pt5La: La 0.166667, Pt 0.833333 | model | [1] Reimann 2006 | Table 6, p. 6, row 13 |  |
-| 1760 | Peritectic: Pt2La -> L + Pt7La2 | Pt2La: La 0.333333, Pt 0.666667; Pt7La2: La 0.222222, Pt 0.777778 | model | [1] Reimann 2006 | Table 6, p. 6, row 11 |  |
-| 1557 | Eutectic: L -> Pt2La + PtLa | Pt2La: La 0.333333, Pt 0.666667; PtLa: La 0.5, Pt 0.5 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 10 |  |
-| 1552 | Eutectic: L -> Pt2La + PtLa | Pt2La: La 0.333333, Pt 0.666667; PtLa: La 0.5, Pt 0.5 | model | [1] Reimann 2006 | Table 6, p. 6, row 9 |  |
-| 1319 | Peritectic: Pt2La3 -> L + PtLa | Pt2La3: La 0.6, Pt 0.4; PtLa: La 0.5, Pt 0.5 | model | [1] Reimann 2006 | Table 6, p. 6, row 5 |  |
-| 1317 | Peritectic: Pt2La3 -> L + PtLa | Pt2La3: La 0.6, Pt 0.4; PtLa: La 0.5, Pt 0.5 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 6 |  |
-| 1190 | Peritectoid: Pt4La3 -> Pt2La + PtLa | Pt4La3: La 0.428571, Pt 0.571429; Pt2La: La 0.333333, Pt 0.666667; PtLa: La 0.5, Pt 0.5 | model | [1] Reimann 2006 | Table 6, p. 6, row 7 |  |
-| 1190 | Peritectoid: Pt4La3 -> Pt2La + PtLa | Pt4La3: La 0.428571, Pt 0.571429; Pt2La: La 0.333333, Pt 0.666667; PtLa: La 0.5, Pt 0.5 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 8 |  |
-| 1179 | Peritectic: Pt3La7 -> L + Pt2La3 | Pt3La7: La 0.7, Pt 0.3; Pt2La3: La 0.6, Pt 0.4 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 4 |  |
-| 1167 | Peritectic: Pt3La7 -> L + Pt2La3 | Pt3La7: La 0.7, Pt 0.3; Pt2La3: La 0.6, Pt 0.4 | model | [1] Reimann 2006 | Table 6, p. 6, row 3 |  |
+| 2440 | peritectic: Pt7La2 -> L + Pt5La | Pt7La2: La 0.222222, Pt 0.777778; Pt5La: La 0.166667, Pt 0.833333 | model | [1] Reimann 2006 | Table 6, p. 6, row 12 |  |
+| 1913 | eutectic: L -> (Pt) + Pt5La | Pt5La: La 0.166667, Pt 0.833333 | experimental | [1] Reimann 2006; _cites Voronova 1983_ | Table 6, p. 6, row 14 |  |
+| 1911 | eutectic: L -> (Pt) + Pt5La | Pt5La: La 0.166667, Pt 0.833333 | model | [1] Reimann 2006 | Table 6, p. 6, row 13 |  |
+| 1760 | peritectic: Pt2La -> L + Pt7La2 | Pt2La: La 0.333333, Pt 0.666667; Pt7La2: La 0.222222, Pt 0.777778 | model | [1] Reimann 2006 | Table 6, p. 6, row 11 |  |
+| 1557 | eutectic: L -> Pt2La + PtLa | Pt2La: La 0.333333, Pt 0.666667; PtLa: La 0.5, Pt 0.5 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 10 |  |
+| 1552 | eutectic: L -> Pt2La + PtLa | Pt2La: La 0.333333, Pt 0.666667; PtLa: La 0.5, Pt 0.5 | model | [1] Reimann 2006 | Table 6, p. 6, row 9 |  |
+| 1319 | peritectic: Pt2La3 -> L + PtLa | Pt2La3: La 0.6, Pt 0.4; PtLa: La 0.5, Pt 0.5 | model | [1] Reimann 2006 | Table 6, p. 6, row 5 |  |
+| 1317 | peritectic: Pt2La3 -> L + PtLa | Pt2La3: La 0.6, Pt 0.4; PtLa: La 0.5, Pt 0.5 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 6 |  |
+| 1190 | peritectoid: Pt4La3 -> Pt2La + PtLa | Pt4La3: La 0.428571, Pt 0.571429; Pt2La: La 0.333333, Pt 0.666667; PtLa: La 0.5, Pt 0.5 | model | [1] Reimann 2006 | Table 6, p. 6, row 7 |  |
+| 1190 | peritectoid: Pt4La3 -> Pt2La + PtLa | Pt4La3: La 0.428571, Pt 0.571429; Pt2La: La 0.333333, Pt 0.666667; PtLa: La 0.5, Pt 0.5 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 8 |  |
+| 1179 | peritectic: Pt3La7 -> L + Pt2La3 | Pt3La7: La 0.7, Pt 0.3; Pt2La3: La 0.6, Pt 0.4 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 4 |  |
+| 1167 | peritectic: Pt3La7 -> L + Pt2La3 | Pt3La7: La 0.7, Pt 0.3; Pt2La3: La 0.6, Pt 0.4 | model | [1] Reimann 2006 | Table 6, p. 6, row 3 |  |
 | 1022 | eutectic |  | experimental | [1] Reimann 2006 | p. 3 | “The EMF versus T data in Fig. 2 were obtained by employing a two-phase mixture of (La) and Pt3 La7 as the alloy electrode in cell (I). The data above and below 1022 K are straight lines with different slopes. The point of intersection is the eutectic temperature, which can be obtained from this plot with high precision.” |
-| 1015 | Eutectic: L -> La(fcc) + Pt3La7 | Pt3La7: La 0.7, Pt 0.3 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 2 |  |
-| 1009 | Eutectic: L -> La(fcc) + Pt3La7 | Pt3La7: La 0.7, Pt 0.3 | model | [1] Reimann 2006 | Table 6, p. 6, row 1 |  |
+| 1015 | eutectic: L -> La(fcc) + Pt3La7 | Pt3La7: La 0.7, Pt 0.3 | experimental | [1] Reimann 2006 | Table 6, p. 6, row 2 |  |
+| 1009 | eutectic: L -> La(fcc) + Pt3La7 | Pt3La7: La 0.7, Pt 0.3 | model | [1] Reimann 2006 | Table 6, p. 6, row 1 |  |
 
 ## Formation enthalpies
 

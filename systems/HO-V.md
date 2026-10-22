@@ -50,10 +50,10 @@ Table: Invariant reactions reported in the literature for the Ho–V system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2150.15 | Monotectic: L2 -> L1 +(V) | L2: V 0.976; L1: V 0.088; (V): V 0.997 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
-| 2150.15 | Monotectic: L2 -> L1 +(V) | L2: V 0.979; L1: V 0.106; (V): V 0.999 | experimental | [1] Wang 2009; _cites Smith 1989_ | Table 5, p. 5, row 1 |  |
-| 1703.15 | Eutectic: L -> (V) +(Ho) | L: V 0.035; (V): V 1; (Ho): V 0.004 | experimental | [1] Wang 2009; _cites Smith 1989_ | Table 5, p. 5, row 3 |  |
-| 1703.15 | Eutectic: L -> (V) +(Ho) | L: V 0.027; (V): V 1; (Ho): V 0.005 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
+| 2150.15 | monotectic: L2 -> L1 +(V) | L2: V 0.976; L1: V 0.088; (V): V 0.997 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
+| 2150.15 | monotectic: L2 -> L1 +(V) | L2: V 0.979; L1: V 0.106; (V): V 0.999 | experimental | [1] Wang 2009; _cites Smith 1989_ | Table 5, p. 5, row 1 |  |
+| 1703.15 | eutectic: L -> (V) +(Ho) | L: V 0.035; (V): V 1; (Ho): V 0.004 | experimental | [1] Wang 2009; _cites Smith 1989_ | Table 5, p. 5, row 3 |  |
+| 1703.15 | eutectic: L -> (V) +(Ho) | L: V 0.027; (V): V 1; (Ho): V 0.005 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
 
 ## Sources
 

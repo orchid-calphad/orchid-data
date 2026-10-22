@@ -62,9 +62,9 @@ Table: Invariant reactions reported in the literature for the Al–Bi system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 930.15 | Monotectic: L -> (Al) + L | L: Bi 0.84; (Al): Bi 2.000e-4 | unspecified | [1] McAlister 1984 | Table 1, p. 2, row 1 |  |
+| 930.15 | monotectic: L -> (Al) + L | L: Bi 0.84; (Al): Bi 2.000e-4 | unspecified | [1] McAlister 1984 | Table 1, p. 2, row 1 |  |
 | 543.55 | eutectic |  | model | [1] McAlister 1984 | p. 1 | “The eutectic has been calculated to fall at 270.4 ~ with the eutectic composition 99.51 at.% Bi.” |
-| 543.15 | Eutectic: L -> (Al) + Bi | L: Bi 0.995; (Al): Bi 0; Bi: Bi 1 | unspecified | [1] McAlister 1984 | Table 1, p. 2, row 2 |  |
+| 543.15 | eutectic: L -> (Al) + Bi | L: Bi 0.995; (Al): Bi 0; Bi: Bi 1 | unspecified | [1] McAlister 1984 | Table 1, p. 2, row 2 |  |
 
 ## Other properties
 
@@ -202,34 +202,34 @@ Table: Mixing / partial, Al–Bi system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH_ | 6278 J/mol (basis unstated) |  | L; _alloy: Al 0.7, Bi 0.3_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 7323 J/mol (basis unstated) |  | L; _alloy: Al 0.51, Bi 0.49_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 7952 J/mol (basis unstated) |  | L; _alloy: Al 0.6, Bi 0.4_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 5859 J/mol (basis unstated) |  | L; _alloy: Al 0.4, Bi 0.6_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 4101 J/mol (basis unstated) |  | L; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 6800 J/mol (basis unstated) |  | L; _alloy: Al 0.7, Bi 0.3_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 3766 J/mol (basis unstated) |  | L; _alloy: Al 0.9, Bi 0.1_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 4520 J/mol (basis unstated) |  | L; _alloy: Al 0.3, Bi 0.7_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 6319 J/mol (basis unstated) |  | L; _alloy: Al 0.4, Bi 0.6_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 6278 J/mol (basis unstated) |  | liquid; _alloy: Al 0.7, Bi 0.3_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 7323 J/mol (basis unstated) |  | liquid; _alloy: Al 0.51, Bi 0.49_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 7952 J/mol (basis unstated) |  | liquid; _alloy: Al 0.6, Bi 0.4_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 5859 J/mol (basis unstated) |  | liquid; _alloy: Al 0.4, Bi 0.6_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 4101 J/mol (basis unstated) |  | liquid; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 6800 J/mol (basis unstated) |  | liquid; _alloy: Al 0.7, Bi 0.3_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 3766 J/mol (basis unstated) |  | liquid; _alloy: Al 0.9, Bi 0.1_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 4520 J/mol (basis unstated) |  | liquid; _alloy: Al 0.3, Bi 0.7_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 6319 J/mol (basis unstated) |  | liquid; _alloy: Al 0.4, Bi 0.6_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 1750 J/mol (basis unstated) | 975.15 | L; _alloy: Al 0.09, Bi 0.91_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 1962 J/mol (basis unstated) | 975.15 | L; _alloy: Al 0.1, Bi 0.9_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 2561 J/mol (basis unstated) | 975.15 | L; _alloy: Al 0.15, Bi 0.85_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 832 J/mol (basis unstated) | 975.15 | L; _alloy: Al 0.04, Bi 0.96_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 1750 J/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.09, Bi 0.91_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 1962 J/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.1, Bi 0.9_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 2561 J/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.15, Bi 0.85_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 832 J/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.04, Bi 0.96_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 433 J/mol (basis unstated) | 1077.15 | L; _alloy: Al 0.98, Bi 0.02_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 433 J/mol (basis unstated) | 1077.15 | liquid; _alloy: Al 0.98, Bi 0.02_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 6.278 kJ/mol (basis unstated) |  | L; _alloy: Al 0.7, Bi 0.3_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 7.323 kJ/mol (basis unstated) |  | L; _alloy: Al 0.51, Bi 0.49_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 7.952 kJ/mol (basis unstated) |  | L; _alloy: Al 0.6, Bi 0.4_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 5.859 kJ/mol (basis unstated) |  | L; _alloy: Al 0.4, Bi 0.6_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 4.101 kJ/mol (basis unstated) |  | L; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 6.8 kJ/mol (basis unstated) |  | L; _alloy: Al 0.7, Bi 0.3_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 3.766 kJ/mol (basis unstated) |  | L; _alloy: Al 0.9, Bi 0.1_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 4.52 kJ/mol (basis unstated) |  | L; _alloy: Al 0.3, Bi 0.7_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 6.319 kJ/mol (basis unstated) |  | L; _alloy: Al 0.4, Bi 0.6_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 6.278 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.7, Bi 0.3_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 7.323 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.51, Bi 0.49_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 7.952 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.6, Bi 0.4_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 5.859 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.4, Bi 0.6_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 4.101 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 6.8 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.7, Bi 0.3_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 3.766 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.9, Bi 0.1_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 4.52 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.3, Bi 0.7_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 6.319 kJ/mol (basis unstated) |  | liquid; _alloy: Al 0.4, Bi 0.6_ | experimental | [1] McAlister 1984; _cites ref. 69Pre_ | Table 4, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 1.75 kJ/mol (basis unstated) | 975.15 | L; _alloy: Al 0.09, Bi 0.91_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 1.962 kJ/mol (basis unstated) | 975.15 | L; _alloy: Al 0.1, Bi 0.9_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 2.561 kJ/mol (basis unstated) | 975.15 | L; _alloy: Al 0.15, Bi 0.85_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 0.832 kJ/mol (basis unstated) | 975.15 | L; _alloy: Al 0.04, Bi 0.96_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 1.75 kJ/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.09, Bi 0.91_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 1.962 kJ/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.1, Bi 0.9_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 2.561 kJ/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.15, Bi 0.85_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 0.832 kJ/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.04, Bi 0.96_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 0.433 kJ/mol (basis unstated) | 1077.15 | L; _alloy: Al 0.98, Bi 0.02_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 0.433 kJ/mol (basis unstated) | 1077.15 | liquid; _alloy: Al 0.98, Bi 0.02_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 10 |  |
 
 ### Activity / EMF / Gibbs energy (16)
 

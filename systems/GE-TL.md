@@ -49,7 +49,7 @@ Table: Mixing / partial, Ge–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH_ | 3443 J | 1273 |  | experimental | [1] Chewvalier 1989; _cites Predel 1971_ | p. 5 | “The enthalpy of mixing of Ge-Tl liquid alloys has been measured calorimetrically by Predel and Stein \[21\]: T = 1273 K, xT, = 0.202-0.896. Enthalpies are positive and show a maximum of 3443 J.” |
+| Enthalpy of mixing; _printed: ΔmixH_ | 3.443 kJ/mol (basis unstated) | 1273 |  | experimental | [1] Chewvalier 1989; _cites Predel 1971_ | p. 5 | “The enthalpy of mixing of Ge-Tl liquid alloys has been measured calorimetrically by Predel and Stein \[21\]: T = 1273 K, xT, = 0.202-0.896. Enthalpies are positive and show a maximum of 3443 J.” |
 
 ## Sources
 

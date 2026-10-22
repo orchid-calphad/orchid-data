@@ -88,95 +88,95 @@ Table: Invariant reactions reported in the literature for the Ni–Zn system (91
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1318 | L + (Ni) -> β | L: Zn 0.533; (Ni): Zn 0.359; β: Zn 0.493 | experimental | [1] Su 2002; _cites Tamaru 1932_ | Table 2, p. 5, row 3 |  |
-| 1316 | Peritectic: L + (Ni) = β | L: Zn 0.533; (Ni): Zn 0.359; β: Zn 0.493 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 4 |  |
+| 1316 | peritectic: L + (Ni) = β | L: Zn 0.533; (Ni): Zn 0.359; β: Zn 0.493 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 4 |  |
 | 1316 | Liq–fcc–bcc | Liq: Zn 0.533; fcc: Zn 0.359; bcc: Zn 0.493 | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 1 |  |
 | 1313 | Liq–fcc–bcc | Liq: Zn 0.522; fcc: Zn 0.396; bcc: Zn 0.496 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 3 |  |
 | 1313 | Liq–fcc–bcc | Liq: Zn 0.528; fcc: Zn 0.404; bcc: Zn 0.5 | experimental | [3] Miettinen 2003; _cites Heike 1936_ | Table 4, p. 5, row 2 |  |
 | 1313 | L + (Ni) -> β | L: Zn 0.525; (Ni): Zn 0.395; β: Zn 0.485 | experimental | [1] Su 2002; _cites ref. 1936Ham_ | Table 2, p. 5, row 5 |  |
-| 1313 | Peritectic: L + (Ni) = β | L: Zn 0.522; (Ni): Zn 0.396; β: Zn 0.494 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 3 |  |
+| 1313 | peritectic: L + (Ni) = β | L: Zn 0.522; (Ni): Zn 0.396; β: Zn 0.494 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 3 |  |
 | 1313 | Liq–fcc–bcc | Liq: Zn 0.522; fcc: Zn 0.396; bcc: Zn 0.494 | model | [3] Miettinen 2003 | Table 4, p. 5, row 5 |  |
-| 1313 | Peritectic: L + (Ni) = β | L: Zn 0.528; (Ni): Zn 0.404; β: Zn 0.5 | experimental | [2] Xiong 2011; _cites Heike 1932_ | Table 5, p. 7, row 5 |  |
+| 1313 | peritectic: L + (Ni) = β | L: Zn 0.528; (Ni): Zn 0.404; β: Zn 0.5 | experimental | [2] Xiong 2011; _cites Heike 1932_ | Table 5, p. 7, row 5 |  |
 | 1313 | L + (Ni) -> β | L: Zn 0.525; (Ni): Zn 0.395; β: Zn 0.485 | experimental | [1] Su 2002; _cites Heike 1932_ | Table 2, p. 5, row 4 |  |
-| 1310 | Peritectic: L + (Ni) = β | L: Zn 0.516; (Ni): Zn 0.39; β: Zn 0.487 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 2 |  |
+| 1310 | peritectic: L + (Ni) = β | L: Zn 0.516; (Ni): Zn 0.39; β: Zn 0.487 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 2 |  |
 | 1310 | Liq–fcc–bcc | Liq: Zn 0.516; fcc: Zn 0.39; bcc: Zn 0.487 | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 4 |  |
 | 1310 | L + (Ni) -> β | L: Zn 0.5157; (Ni): Zn 0.3897; β: Zn 0.487 | model | [1] Su 2002 | Table 2, p. 5, row 1 |  |
 | 1308 | L + (Ni) -> β | L: Zn 0.523; (Ni): Zn 0.384; β: Zn 0.473 | experimental | [1] Su 2002; _cites Tafel 1907_ | Table 2, p. 5, row 2 |  |
-| 1307 | Peritectic: L + (Ni) = β | L: Zn 0.516; (Ni): Zn 0.379; β: Zn 0.478 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 1 |  |
+| 1307 | peritectic: L + (Ni) = β | L: Zn 0.516; (Ni): Zn 0.379; β: Zn 0.478 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 1 |  |
 | 1156 | L -> γ | L: Zn 0.7403; γ: Ni 0.153846, Zn 0.846154 | model | [1] Su 2002 | Table 2, p. 5, row 20 |  |
-| 1149 | Peritectoid: L = β + Γ | L: Zn 0.7; β: Zn 0.575; Γ: Zn 0.723 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 11 |  |
+| 1149 | peritectoid: L = β + Γ | L: Zn 0.7; β: Zn 0.575; Γ: Zn 0.723 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 11 |  |
 | 1148 | eutectic |  | experimental | [1] Su 2002; _cites Tamaru 1932_ | p. 3 | “The ␤ phase has a relatively wide homogeneity range \[1932Tam, 1934Tam\] with a maximum at a temperature of 1148K \[1932Tam, 1933Hei\] where the eutectic reaction involving the ␥ phase occurs.” |
 | 1148 | Liq–bcc–γ | Liq: Zn 0.688; bcc: Zn 0.584; γ: Zn 0.698 | experimental | [3] Miettinen 2003; _cites Heike 1936_ | Table 4, p. 5, row 7 |  |
 | 1148 | L -> β + γ | L: Zn 0.6941; β: Zn 0.564; γ: Zn 0.7219 | model | [1] Su 2002 | Table 2, p. 5, row 16 |  |
-| 1148 | Peritectoid: L = β + Γ | L: Zn 0.694; β: Zn 0.564; Γ: Zn 0.722 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 12 |  |
-| 1148 | Peritectoid: L = β + Γ | L: Zn 0.688; β: Zn 0.584; Γ: Zn 0.698 | experimental | [2] Xiong 2011; _cites Heike 1933_ | Table 5, p. 7, row 15 |  |
+| 1148 | peritectoid: L = β + Γ | L: Zn 0.694; β: Zn 0.564; Γ: Zn 0.722 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 12 |  |
+| 1148 | peritectoid: L = β + Γ | L: Zn 0.688; β: Zn 0.584; Γ: Zn 0.698 | experimental | [2] Xiong 2011; _cites Heike 1933_ | Table 5, p. 7, row 15 |  |
 | 1148 | L -> β + γ | L: Zn 0.695; β: Zn 0.585; γ: Zn 0.7 | experimental | [1] Su 2002; _cites Heike 1933_ | Table 2, p. 5, row 18 |  |
 | 1148 | Liq–bcc–γ | Liq: Zn 0.694; bcc: Zn 0.564; γ: Zn 0.722 | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 9 |  |
 | 1148 | L -> β + γ | L: Zn 0.69; β: Zn 0.585; γ: Zn 0.7 | experimental | [1] Su 2002; _cites Hansen 1936_ [doi](https://doi.org/10.1007/978-3-642-47516-0) | Table 2, p. 5, row 19 |  |
 | 1146 | Liq–bcc–γ | Liq: Zn 0.7; bcc: Zn 0.554; γ: Zn 0.723 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 8 |  |
 | 1145 | Liq–bcc–γ | Liq: Zn 0.698; bcc: Zn 0.599; γ: Zn 0.75 | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 6 |  |
-| 1145 | Peritectoid: L = β + Γ | L: Zn 0.698; β: Zn 0.5993; Γ: Zn 0.846154 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 14 |  |
+| 1145 | peritectoid: L = β + Γ | L: Zn 0.698; β: Zn 0.5993; Γ: Zn 0.846154 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 14 |  |
 | 1145 | L -> β + γ | L: Zn 0.7; β: Zn 0.599; γ: Zn 0.73 | experimental | [1] Su 2002; _cites Tamaru 1932_ | Table 2, p. 5, row 17 |  |
-| 1144 | Peritectoid: L = β + Γ | L: Zn 0.703; β: Zn 0.551; Γ: Zn 0.739 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 13 |  |
+| 1144 | peritectoid: L = β + Γ | L: Zn 0.703; β: Zn 0.551; Γ: Zn 0.739 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 13 |  |
 | 1144 | Liq–bcc–γ | Liq: Zn 0.703; bcc: Zn 0.551; γ: Zn 0.739 | model | [3] Miettinen 2003 | Table 4, p. 5, row 10 |  |
-| 1088 | Peritectoid: β + (Ni) = β1 | β: Zn 0.465; (Ni): Zn 0.353; β1: Zn 0.454 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 6 |  |
+| 1088 | peritectoid: β + (Ni) = β1 | β: Zn 0.465; (Ni): Zn 0.353; β1: Zn 0.454 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 6 |  |
 | 1084 | Fcc–bcc–β1 | Fcc: Zn 0.376; bcc: Zn 0.472; β1: Zn 0.456 | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 14 |  |
-| 1084 | Peritectoid: β + (Ni) = β1 | β: Zn 0.472; (Ni): Zn 0.376; β1: Zn 0.456 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 7 |  |
+| 1084 | peritectoid: β + (Ni) = β1 | β: Zn 0.472; (Ni): Zn 0.376; β1: Zn 0.456 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 7 |  |
 | 1084 | (Ni) + β -> β1 | (Ni): Zn 0.3761; β: Zn 0.472; β1: Zn 0.4555 | model | [1] Su 2002 | Table 2, p. 5, row 6 |  |
 | 1083 | (Ni) + β -> β1 | (Ni): Zn 0.335; β: Zn 0.475; β1: Zn 0.455 | experimental | [1] Su 2002; _cites Hansen 1936_ [doi](https://doi.org/10.1007/978-3-642-47516-0) | Table 2, p. 5, row 10 |  |
 | 1083 | (Ni) + β -> β1 | (Ni): Zn 0.34; β: Zn 0.473 | experimental | [1] Su 2002; _cites Heike 1932_ | Table 2, p. 5, row 9 |  |
-| 1083 | Peritectoid: β + (Ni) = β1 | β: Zn 0.473; (Ni): Zn 0.338 | experimental | [2] Xiong 2011; _cites Heike 1932_ | Table 5, p. 7, row 10 |  |
+| 1083 | peritectoid: β + (Ni) = β1 | β: Zn 0.473; (Ni): Zn 0.338 | experimental | [2] Xiong 2011; _cites Heike 1932_ | Table 5, p. 7, row 10 |  |
 | 1083 | Fcc–bcc–β1 | Fcc: Zn 0.338; bcc: Zn 0.473; β1: Zn 0.473 | experimental | [3] Miettinen 2003; _cites Heike 1933_ | Table 4, p. 5, row 12 |  |
 | 1082 | Fcc–bcc–β1 | Fcc: Zn 0.354; bcc: Zn 0.474; β1: Zn 0.466 | model | [3] Miettinen 2003 | Table 4, p. 5, row 15 |  |
 | 1082 | Fcc–bcc–β1 | Fcc: Zn 0.353; bcc: Zn 0.48; β1: Zn 0.466 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 13 |  |
-| 1082 | Peritectoid: β + (Ni) = β1 | β: Zn 0.474; (Ni): Zn 0.354; β1: Zn 0.466 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 8 |  |
-| 1077 | Peritectoid: β + (Ni) = β1 | β: Zn 0.516; (Ni): Zn 0.3587; β1: Zn 0.5 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 9 |  |
+| 1082 | peritectoid: β + (Ni) = β1 | β: Zn 0.474; (Ni): Zn 0.354; β1: Zn 0.466 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 8 |  |
+| 1077 | peritectoid: β + (Ni) = β1 | β: Zn 0.516; (Ni): Zn 0.3587; β1: Zn 0.5 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 9 |  |
 | 1077 | (Ni) + β -> β1 | (Ni): Zn 0.359; β: Zn 0.516; β1: Zn 0.473 | experimental | [1] Su 2002; _cites Tamaru 1932_ | Table 2, p. 5, row 8 |  |
 | 1077 | Fcc–bcc–β1 | Fcc: Zn 0.359; bcc: Zn 0.514; β1: Zn 0.5 | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 11 |  |
 | 1053 | (Ni) + β -> β1 | (Ni): Zn 0.423; β: Zn 0.513; β1: Zn 0.473 | experimental | [1] Su 2002; _cites Tafel 1907_ | Table 2, p. 5, row 7 |  |
 | 958 | β -> β1 + γ | β: Zn 0.535; β1: Zn 0.52; γ: Zn 0.74 | experimental | [1] Su 2002; _cites ref. 36Han_ | Table 2, p. 5, row 15 |  |
 | 948 | eutectoid |  | experimental | [1] Su 2002; _cites ref. 32Tam_ | p. 3 | “This phase decomposes by a eutectoid reaction at various reported temperatures of 913 K \[1907Taf\], 923 K \[32Hei\], and 948 K \[32Tam\].” |
 | 948 | β -> β1 + γ | β: Zn 0.543; β1: Zn 0.522; γ: Zn 0.736 | experimental | [1] Su 2002; _cites Tamaru 1932_ | Table 2, p. 5, row 13 |  |
-| 948 | Eutectoid: β = β1 + Γ | β: Zn 0.543; β1: Zn 0.522; Γ: Zn 0.736 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 19 |  |
+| 948 | eutectoid: β = β1 + Γ | β: Zn 0.543; β1: Zn 0.522; Γ: Zn 0.736 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 19 |  |
 | 948 | Bcc–β1–γ | Bcc: Zn 0.532; β1: Zn 0.52; γ: Zn 0.733 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 18 |  |
 | 948 | Bcc–β1–γ | Bcc: Zn 0.543; β1: Zn 0.522; γ: Zn 0.736 | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 16 |  |
-| 946 | Eutectoid: β = β1 + Γ | β: Zn 0.538; β1: Zn 0.521; Γ: Zn 0.721 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 17 |  |
+| 946 | eutectoid: β = β1 + Γ | β: Zn 0.538; β1: Zn 0.521; Γ: Zn 0.721 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 17 |  |
 | 946 | Bcc–β1–γ | Bcc: Zn 0.538; β1: Zn 0.521; γ: Zn 0.721 | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 19 |  |
 | 946 | β -> β1 + γ | β: Zn 0.5381; β1: Zn 0.5213; γ: Zn 0.7208 | model | [1] Su 2002 | Table 2, p. 5, row 11 |  |
 | 936 | Bcc–β1–γ | Bcc: Zn 0.536; β1: Zn 0.519; γ: Zn 0.739 | model | [3] Miettinen 2003 | Table 4, p. 5, row 20 |  |
-| 936 | Eutectoid: β = β1 + Γ | β: Zn 0.536; β1: Zn 0.519; Γ: Zn 0.739 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 18 |  |
-| 925 | Eutectoid: β = β1 + Γ | β: Zn 0.56; β1: Zn 0.512; Γ: Zn 0.715 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 16 |  |
+| 936 | eutectoid: β = β1 + Γ | β: Zn 0.536; β1: Zn 0.519; Γ: Zn 0.739 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 18 |  |
+| 925 | eutectoid: β = β1 + Γ | β: Zn 0.56; β1: Zn 0.512; Γ: Zn 0.715 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 16 |  |
 | 923 | eutectoid |  | experimental | [1] Su 2002; _cites ref. 32Hei_ | p. 3 | “This phase decomposes by a eutectoid reaction at various reported temperatures of 913 K \[1907Taf\], 923 K \[32Hei\], and 948 K \[32Tam\].” |
 | 923 | Bcc–β1–γ | Bcc: Zn 0.533; β1: Zn 0.518; γ: Zn 0.743 | experimental | [3] Miettinen 2003; _cites Heike 1936_ | Table 4, p. 5, row 17 |  |
 | 923 | β -> β1 + γ | β: Zn 0.533; β1: Zn 0.518; γ: Zn 0.743 | experimental | [1] Su 2002; _cites Heike 1932_ | Table 2, p. 5, row 14 |  |
-| 923 | Eutectoid: β = β1 + Γ | β: Zn 0.533; β1: Zn 0.518; Γ: Zn 0.743 | experimental | [2] Xiong 2011; _cites Heike 1932_ | Table 5, p. 7, row 20 |  |
+| 923 | eutectoid: β = β1 + Γ | β: Zn 0.533; β1: Zn 0.518; Γ: Zn 0.743 | experimental | [2] Xiong 2011; _cites Heike 1932_ | Table 5, p. 7, row 20 |  |
 | 913 | eutectoid |  | experimental | [1] Su 2002; _cites Tafel 1907_ | p. 3 | “This phase decomposes by a eutectoid reaction at various reported temperatures of 913 K \[1907Taf\], 923 K \[32Hei\], and 948 K \[32Tam\].” |
 | 913 | β -> β1 + γ | β: Zn 0.548; β1: Zn 0.473; γ: Zn 0.729 | experimental | [1] Su 2002; _cites Tafel 1907_ | Table 2, p. 5, row 12 |  |
-| 790 | Peritectic: L + Γ = δ | Γ: Zn 0.852; δ: Zn 0.88 | experimental | [2] Xiong 2011; _cites Tamaru 1935_ | Table 5, p. 7, row 24 |  |
+| 790 | peritectic: L + Γ = δ | Γ: Zn 0.852; δ: Zn 0.88 | experimental | [2] Xiong 2011; _cites Tamaru 1935_ | Table 5, p. 7, row 24 |  |
 | 790 | Liq–γ–δ | Liq: Zn 0.994; γ: Zn 0.852; δ: Zn 0.88 | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 21 |  |
-| 764 | Peritectic: L + Γ = δ | L: Zn 0.994; Γ: Zn 0.852; δ: Zn 0.889 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 21 |  |
+| 764 | peritectic: L + Γ = δ | L: Zn 0.994; Γ: Zn 0.852; δ: Zn 0.889 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 21 |  |
 | 764 | Liq–γ–δ | Liq: Zn 0.976; γ: Zn 0.855; δ: Zn 0.889 | model | [3] Miettinen 2003 | Table 4, p. 5, row 25 |  |
-| 764 | Peritectic: L + Γ = δ | L: Zn 0.976; Γ: Zn 0.855; δ: Zn 0.889 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 23 |  |
-| 763 | Peritectic: L + Γ = δ | L: Zn 0.9; Γ: Zn 0.846; δ: Zn 0.882 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 22 |  |
+| 764 | peritectic: L + Γ = δ | L: Zn 0.976; Γ: Zn 0.855; δ: Zn 0.889 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 23 |  |
+| 763 | peritectic: L + Γ = δ | L: Zn 0.9; Γ: Zn 0.846; δ: Zn 0.882 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 22 |  |
 | 763 | peritectic |  | experimental | [1] Su 2002; _cites Heike 1932_ | p. 3 | “The ␦ phase results from a peritectic reaction at 763 K \[1932Hei\].” |
 | 763 | L + γ -> δ | L: Zn 0.99; γ: Zn 0.85; δ: Zn 0.889 | experimental | [1] Su 2002; _cites Hansen 1936_ [doi](https://doi.org/10.1007/978-3-642-47516-0) | Table 2, p. 5, row 23 |  |
 | 763 | L + γ -> δ | L: Zn 0.991; γ: Zn 0.851; δ: Zn 0.882 | experimental | [1] Su 2002; _cites Heike 1933_ | Table 2, p. 5, row 22 |  |
-| 763 | Peritectic: L + Γ = δ | L: Zn 0.991; Γ: Zn 0.853; δ: Zn 0.882 | experimental | [2] Xiong 2011; _cites Heike 1933_ | Table 5, p. 7, row 25 |  |
+| 763 | peritectic: L + Γ = δ | L: Zn 0.991; Γ: Zn 0.853; δ: Zn 0.882 | experimental | [2] Xiong 2011; _cites Heike 1933_ | Table 5, p. 7, row 25 |  |
 | 763 | Liq–γ–δ | Liq: Zn 0.99; γ: Zn 0.846; δ: Zn 0.882 | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 24 |  |
 | 763 | Liq–γ–δ | Liq: Zn 0.991; γ: Zn 0.853; δ: Zn 0.882 | experimental | [3] Miettinen 2003; _cites Heike 1933_ | Table 4, p. 5, row 22 |  |
 | 763 | L + γ -> δ | L: Zn 0.9896; γ: Zn 0.8459; δ: Zn 0.8824 | model | [1] Su 2002 | Table 2, p. 5, row 21 |  |
 | 762 | Liq–γ–δ | Liq: Zn 0.986; γ: Zn 0.862; δ: Zn 0.889 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 23 |  |
 | 692.1 | L -> δ + Zn(hcp) | L: Zn 0.89; δ: Zn 0.997; Zn(hcp): Zn 1 | model | [1] Su 2002 | Table 2, p. 5, row 26 |  |
 | 692 | Liq–δ–hcp(Zn) | Liq: Zn 0.997; δ: Zn 0.882; hcp(Zn): Zn 0.999 | experimental | [3] Miettinen 2003; _cites Heike 1933_ | Table 4, p. 5, row 27 |  |
-| 692 | Eutectic (Degenerated invariant equilibrium): L = δ + (Zn) | δ: Zn 0.88 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 29 |  |
-| 692 | Eutectic (Degenerated invariant equilibrium): L = δ + (Zn) | L: Zn 0.999; δ: Zn 0.889; (Zn): Zn 1 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 26 |  |
+| 692 | eutectic: L = δ + (Zn) | δ: Zn 0.88 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 29 |  |
+| 692 | eutectic: L = δ + (Zn) | L: Zn 0.999; δ: Zn 0.889; (Zn): Zn 1 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 26 |  |
 | 692 | Liq–δ–hcp(Zn) | Liq: Zn 1; δ: Zn 0.88; hcp(Zn): Zn 1 | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 26 |  |
 | 691.6 | L -> δ + Zn(hcp) | L: Zn 0.889; δ: Zn 0.997; Zn(hcp): Zn 1 | experimental | [1] Su 2002; _cites Hansen 1936_ [doi](https://doi.org/10.1007/978-3-642-47516-0) | Table 2, p. 5, row 25 |  |
-| 691.5 | Eutectic (Degenerated invariant equilibrium): L = δ + (Zn) | L: Zn 0.9967; δ: Zn 0.882; (Zn): Zn 0.999 | experimental | [2] Xiong 2011; _cites Heike 1933_ | Table 5, p. 7, row 30 |  |
+| 691.5 | eutectic: L = δ + (Zn) | L: Zn 0.9967; δ: Zn 0.882; (Zn): Zn 0.999 | experimental | [2] Xiong 2011; _cites Heike 1933_ | Table 5, p. 7, row 30 |  |
 | 691.1 | L -> δ + Zn(hcp) | L: Zn 0.889; δ: Zn 0.997; Zn(hcp): Zn 0.9997 | model | [1] Su 2002 | Table 2, p. 5, row 24 |  |
 | 691 | Liq–δ–hcp(Zn) | Liq: Zn 0.989; δ: Zn 0.882; hcp(Zn): Zn 1 | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 29 |  |
-| 691 | Eutectic (Degenerated invariant equilibrium): L = δ + (Zn) | L: Zn 0.997; δ: Zn 0.889; (Zn): Zn 0.9997 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 27 |  |
+| 691 | eutectic: L = δ + (Zn) | L: Zn 0.997; δ: Zn 0.889; (Zn): Zn 0.9997 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 27 |  |
 | 690 | Liq–δ–hcp(Zn) | Liq: Zn 0.995; δ: Zn 0.889; hcp(Zn): Zn 1 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 28 |  |
-| 686 | Eutectic (Degenerated invariant equilibrium): L = δ + (Zn) | L: Zn 0.991; δ: Zn 0.889; (Zn): Zn 1 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 28 |  |
+| 686 | eutectic: L = δ + (Zn) | L: Zn 0.991; δ: Zn 0.889; (Zn): Zn 1 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 28 |  |
 | 686 | Liq–δ–hcp(Zn) | Liq: Zn 0.991; δ: Zn 0.889; hcp(Zn): Zn 1 | model | [3] Miettinen 2003 | Table 4, p. 5, row 30 |  |
 
 ## Other properties
@@ -195,7 +195,7 @@ Table: Phase transition, Ni–Zn system
 | Phase transition | 1153 K | 1153 | Liq–γ; _Liq: Zn 0.75; γ: Zn 0.75_ | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 31 |  |
 | Phase transition | 1154 K | 1154 | Liq–γ; _Liq: Zn 0.75; γ: Zn 0.75_ | experimental | [3] Miettinen 2003; _cites Heike 1933_ | Table 4, p. 5, row 32 |  |
 | Phase transition | 1154 K | 1154 | Liq–γ; _Liq: Zn 0.75; γ: Zn 0.75_ | model | [3] Miettinen 2003 | Table 4, p. 5, row 35 |  |
-| Phase transition | 1154 K | 1154 | congruent | experimental | [1] Su 2002; _cites Tafel 1907_ | p. 3 | “The ␥ phase melts congruently at 1154 K at the composition NiZn3 \[1907Taf, 1931Ekm, 1938Sch3, 1950Now\].” |
+| Phase transition | 1154 K | 1154 | congruent transformation | experimental | [1] Su 2002; _cites Tafel 1907_ | p. 3 | “The ␥ phase melts congruently at 1154 K at the composition NiZn3 \[1907Taf, 1931Ekm, 1938Sch3, 1950Now\].” |
 | Phase transition | 1155 K | 1155 | Liq–γ; _Liq: Zn 0.747; γ: Zn 0.747_ | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 33 |  |
 | Phase transition | 1156 K | 1156 | Liq–γ; _Liq: Zn 0.74; γ: Zn 0.74_ | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 34 |  |
 | Phase transition | 1308 K | 1308 | beta | experimental | [1] Su 2002; _cites Tafel 1907_ | p. 3 | “The reported values are 1308 K \[1907Taf\], 1313 K \[1932Hei\], and 1316 K \[1932Tam\].” |

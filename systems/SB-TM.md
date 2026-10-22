@@ -60,22 +60,22 @@ Table: Invariant reactions reported in the literature for the Sb–Tm system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2293.15 | Congruent: L ↔ βSbTm | L: Tm 0.5; βSbTm: Tm 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 8 |  |
-| 2293.15 | Congruent: L ↔ βSbTm | L: Tm 0.5; βSbTm: Tm 0.5 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 7 |  |
-| 2053.55 | Polymorphic: αSbTm ↔ βSbTm | αSbTm: Tm 0.5; βSbTm: Sb 0.5, Tm 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 6 |  |
-| 2053.15 | Polymorphic: αSbTm ↔ βSbTm | αSbTm: Tm 0.5; βSbTm: Sb 0.5, Tm 0.5 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 5 |  |
-| 1913.65 | Peritectic: L + αSbTm ↔ βSb3Tm5 | L: Tm 0.673; αSbTm: Tm 0.5; βSb3Tm5: Tm 0.625 | model | [1] Wang 2011 | Table 5, p. 5, row 10 |  |
-| 1913.15 | Peritectic: L + αSbTm ↔ βSb3Tm5 | αSbTm: Tm 0.5; βSb3Tm5: Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 9 |  |
+| 2293.15 | congruent melting: L ↔ βSbTm | L: Tm 0.5; βSbTm: Tm 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 8 |  |
+| 2293.15 | congruent melting: L ↔ βSbTm | L: Tm 0.5; βSbTm: Tm 0.5 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 7 |  |
+| 2053.55 | polymorphic: αSbTm ↔ βSbTm | αSbTm: Tm 0.5; βSbTm: Sb 0.5, Tm 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 6 |  |
+| 2053.15 | polymorphic: αSbTm ↔ βSbTm | αSbTm: Tm 0.5; βSbTm: Sb 0.5, Tm 0.5 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 5 |  |
+| 1913.65 | peritectic: L + αSbTm ↔ βSb3Tm5 | L: Tm 0.673; αSbTm: Tm 0.5; βSb3Tm5: Tm 0.625 | model | [1] Wang 2011 | Table 5, p. 5, row 10 |  |
+| 1913.15 | peritectic: L + αSbTm ↔ βSb3Tm5 | αSbTm: Tm 0.5; βSb3Tm5: Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 9 |  |
 | 1913.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2 | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
-| 1893.75 | Polymorphic: αSb3Tm5 ↔ βSb3Tm5 | αSb3Tm5: Tm 0.625; βSb3Tm5: Sb 0.375, Tm 0.625 | model | [1] Wang 2011 | Table 5, p. 5, row 12 |  |
-| 1893.15 | Polymorphic: αSb3Tm5 ↔ βSb3Tm5 | αSb3Tm5: Tm 0.625; βSb3Tm5: Sb 0.375, Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 11 |  |
-| 1453.15 | Eutectic: L ↔ αSb3Tm5 + (Tm) | L: Tm 0.85; αSb3Tm5: Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 13 |  |
-| 1452.15 | Eutectic: L ↔ αSb3Tm5 + (Tm) | L: Tm 0.838; αSb3Tm5: Tm 0.625; (Tm): Tm 0.988 | model | [1] Wang 2011 | Table 5, p. 5, row 14 |  |
-| 913.15 | Peritectic: L + αSbTm ↔ Sb2Tm | αSbTm: Tm 0.5; Sb2Tm: Tm 0.667 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1988_ | Table 5, p. 5, row 3 |  |
-| 913.15 | Peritectic: L + αSbTm ↔ Sb2Tm | L: Tm 0.011; αSbTm: Tm 0.5; Sb2Tm: Tm 0.667 | model | [1] Wang 2011 | Table 5, p. 5, row 4 |  |
+| 1893.75 | polymorphic: αSb3Tm5 ↔ βSb3Tm5 | αSb3Tm5: Tm 0.625; βSb3Tm5: Sb 0.375, Tm 0.625 | model | [1] Wang 2011 | Table 5, p. 5, row 12 |  |
+| 1893.15 | polymorphic: αSb3Tm5 ↔ βSb3Tm5 | αSb3Tm5: Tm 0.625; βSb3Tm5: Sb 0.375, Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 11 |  |
+| 1453.15 | eutectic: L ↔ αSb3Tm5 + (Tm) | L: Tm 0.85; αSb3Tm5: Tm 0.625 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 13 |  |
+| 1452.15 | eutectic: L ↔ αSb3Tm5 + (Tm) | L: Tm 0.838; αSb3Tm5: Tm 0.625; (Tm): Tm 0.988 | model | [1] Wang 2011 | Table 5, p. 5, row 14 |  |
+| 913.15 | peritectic: L + αSbTm ↔ Sb2Tm | αSbTm: Tm 0.5; Sb2Tm: Tm 0.667 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1988_ | Table 5, p. 5, row 3 |  |
+| 913.15 | peritectic: L + αSbTm ↔ Sb2Tm | L: Tm 0.011; αSbTm: Tm 0.5; Sb2Tm: Tm 0.667 | model | [1] Wang 2011 | Table 5, p. 5, row 4 |  |
 | 913.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2 | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
-| 900.25 | Eutectic: L ↔ (Sb) + Sb2Tm | L: Tm 0.0096; (Sb): Tm 0; Sb2Tm: Tm 0.333 | model | [1] Wang 2011 | Table 5, p. 5, row 2 |  |
-| 893.15 | Eutectic: L ↔ (Sb) + Sb2Tm | (Sb): Tm 0; Sb2Tm: Tm 0.333 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 1 |  |
+| 900.25 | eutectic: L ↔ (Sb) + Sb2Tm | L: Tm 0.0096; (Sb): Tm 0; Sb2Tm: Tm 0.333 | model | [1] Wang 2011 | Table 5, p. 5, row 2 |  |
+| 893.15 | eutectic: L ↔ (Sb) + Sb2Tm | (Sb): Tm 0; Sb2Tm: Tm 0.333 | unspecified | [1] Wang 2011; _cites Abdusalyamova 1991_ | Table 5, p. 5, row 1 |  |
 
 ## Formation enthalpies
 

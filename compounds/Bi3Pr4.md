@@ -1,24 +1,21 @@
 # Bi3Pr4: enthalpy of formation
 
-> Enthalpy of formation of Bi3Pr4: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi3Pr4: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi3Pr4.html · Markdown: https://data.orchid-project.org/compounds/Bi3Pr4.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -81.229 kJ/mol-atom (mp-aaaabims); OQMD -83.262 kJ/mol-atom (oqmd-28760).
+3 accepted literature formation-enthalpy value(s) (model 3); Materials Project -81.229 kJ/mol-atom (mp-aaaabims); OQMD -83.262 kJ/mol-atom (oqmd-28760).
 
 Systems: [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi3Pr4 reported in the literature (6)
+Table: Enthalpy of formation of Bi3Pr4 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -94 kJ/mol-atom | Pr4Bi3 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017; _cites Borsese 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2980024-4) | Table 7, p. 6, row 7 |  |
-| -94 kJ/mol-atom | Pr4Bi3 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017; _cites Borsese 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2980024-4) | Table 7, p. 6, row 7 |  |
 | -94 kJ/mol-atom | Pr4Bi3 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 6, row 6 |  |
-| -94 kJ/mol-atom | Pr4Bi3 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 6, row 6 |  |
-| -92.877 kJ/mol-atom | Pr4Bi3 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017 | Table 7, p. 6, row 8 |  |
 | -92.877 kJ/mol-atom | Pr4Bi3 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017 | Table 7, p. 6, row 8 |  |
 
 ## DFT formation energies

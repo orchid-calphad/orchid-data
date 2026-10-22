@@ -85,51 +85,51 @@ Table: Mixing / partial, Ag–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: mix Hm_ | 2109.2 J/mol | 973 |  | experimental | [1] Hassam 2010 | p. 3 | “The ternary mixing enthalpy for xAu = 0 in the section xAg /xPb = 1/4 corresponds to the enthalpy in the Ag-Pb binary system for xAg = 0.2 at 973 K. Because the value used by Hassam and Gheribi \[54\] (2322 J/mol) is not obtained by a direct measure, our value (2109.2 J/mol) appears to be more accurate.” |
-| Enthalpy of mixing; _printed: mix Hm_ | 2322 J/mol | 973 |  | model | [1] Hassam 2010; _cites Hassam 2007_ [doi](https://doi.org/10.1016/j.tca.2007.07.015) | p. 3 | “The ternary mixing enthalpy for xAu = 0 in the section xAg /xPb = 1/4 corresponds to the enthalpy in the Ag-Pb binary system for xAg = 0.2 at 973 K. Because the value used by Hassam and Gheribi \[54\] (2322 J/mol) is not obtained by a direct measure, our value (2109.2 J/mol) appears to be more accurate.” |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2594.29 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.3602, Pb 0.6398_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2460.54 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.2802, Pb 0.7198_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1871.65 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.16689, Pb 0.83311_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1508.7 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.12528, Pb 0.87472_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2575.12 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.40964, Pb 0.59036_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 20 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2624.7 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.37109, Pb 0.62891_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2085.85 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.19619, Pb 0.80381_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2569.96 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.44441, Pb 0.55559_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 22 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1005.74 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.07133, Pb 0.92867_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1429.89 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.11066, Pb 0.88934_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2344.12 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.2452, Pb 0.7548_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1102.07 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.08516, Pb 0.91484_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2560.93 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.32169, Pb 0.67831_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 615.34 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.04349, Pb 0.95651_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2604.7 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.32987, Pb 0.67013_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 511.51 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.03335, Pb 0.96665_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2554.38 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.43079, Pb 0.56921_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 21 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2301.49 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.23962, Pb 0.76038_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1801.94 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.15342, Pb 0.84658_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2511.77 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.28708, Pb 0.71292_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2598.14 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.39685, Pb 0.60315_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 19 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2129.36 J/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.20483, Pb 0.79517_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1834.31 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.165, Pb 0.835_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 29 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2734.65 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.3461, Pb 0.6539_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 38 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2596.7 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.27179, Pb 0.72821_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 35 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2693.03 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.30917, Pb 0.69083_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 37 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2526.74 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.26144, Pb 0.73856_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 34 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2836.5 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.42525, Pb 0.57475_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 41 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2762.61 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.35015, Pb 0.64985_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 39 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2212.13 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.21508, Pb 0.78492_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 32 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2247.15 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.20218, Pb 0.79782_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 31 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 662.17 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.0553, Pb 0.9447_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 24 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1329.04 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.11171, Pb 0.88829_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 27 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1376.12 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.09511, Pb 0.90489_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 26 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2830.75 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.38965, Pb 0.61035_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 40 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 1717.59 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.13134, Pb 0.86866_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 28 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2444.69 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.23703, Pb 0.76297_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 33 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2657.59 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.30729, Pb 0.69271_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 36 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2013.8 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.16736, Pb 0.83264_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 30 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2731.95 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.49017, Pb 0.50983_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 43 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 926.24 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.05811, Pb 0.94189_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 25 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 441.49 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.02505, Pb 0.97495_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 23 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | 2802.63 J/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.4585, Pb 0.5415_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 42 |  |
+| Enthalpy of mixing; _printed: mix Hm_ | 2.1092 kJ/mol (basis unstated) | 973 |  | experimental | [1] Hassam 2010 | p. 3 | “The ternary mixing enthalpy for xAu = 0 in the section xAg /xPb = 1/4 corresponds to the enthalpy in the Ag-Pb binary system for xAg = 0.2 at 973 K. Because the value used by Hassam and Gheribi \[54\] (2322 J/mol) is not obtained by a direct measure, our value (2109.2 J/mol) appears to be more accurate.” |
+| Enthalpy of mixing; _printed: mix Hm_ | 2.322 kJ/mol (basis unstated) | 973 |  | model | [1] Hassam 2010; _cites Hassam 2007_ [doi](https://doi.org/10.1016/j.tca.2007.07.015) | p. 3 | “The ternary mixing enthalpy for xAu = 0 in the section xAg /xPb = 1/4 corresponds to the enthalpy in the Ag-Pb binary system for xAg = 0.2 at 973 K. Because the value used by Hassam and Gheribi \[54\] (2322 J/mol) is not obtained by a direct measure, our value (2109.2 J/mol) appears to be more accurate.” |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.59429 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.3602, Pb 0.6398_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.46054 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.2802, Pb 0.7198_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.87165 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.16689, Pb 0.83311_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.5087 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.12528, Pb 0.87472_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.57512 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.40964, Pb 0.59036_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 20 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.6247 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.37109, Pb 0.62891_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.08585 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.19619, Pb 0.80381_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.56996 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.44441, Pb 0.55559_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 22 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.00574 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.07133, Pb 0.92867_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.42989 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.11066, Pb 0.88934_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.34412 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.2452, Pb 0.7548_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.10207 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.08516, Pb 0.91484_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.56093 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.32169, Pb 0.67831_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 0.61534 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.04349, Pb 0.95651_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.6047 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.32987, Pb 0.67013_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 0.51151 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.03335, Pb 0.96665_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.55438 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.43079, Pb 0.56921_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 21 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.30149 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.23962, Pb 0.76038_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.80194 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.15342, Pb 0.84658_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.51177 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.28708, Pb 0.71292_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.59814 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.39685, Pb 0.60315_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 19 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.12936 kJ/mol (basis unstated) | 973 | liquid; _alloy: Ag 0.20483, Pb 0.79517_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.83431 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.165, Pb 0.835_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 29 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.73465 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.3461, Pb 0.6539_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 38 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.5967 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.27179, Pb 0.72821_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 35 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.69303 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.30917, Pb 0.69083_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 37 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.52674 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.26144, Pb 0.73856_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 34 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.8365 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.42525, Pb 0.57475_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 41 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.76261 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.35015, Pb 0.64985_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 39 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.21213 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.21508, Pb 0.78492_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 32 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.24715 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.20218, Pb 0.79782_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 31 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 0.66217 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.0553, Pb 0.9447_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 24 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.32904 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.11171, Pb 0.88829_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 27 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.37612 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.09511, Pb 0.90489_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 26 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.83075 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.38965, Pb 0.61035_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 40 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 1.71759 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.13134, Pb 0.86866_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 28 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.44469 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.23703, Pb 0.76297_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 33 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.65759 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.30729, Pb 0.69271_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 36 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.0138 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.16736, Pb 0.83264_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 30 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.73195 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.49017, Pb 0.50983_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 43 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 0.92624 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.05811, Pb 0.94189_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 0.44149 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.02505, Pb 0.97495_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 23 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | 2.80263 kJ/mol (basis unstated) | 1065 | liquid; _alloy: Ag 0.4585, Pb 0.5415_ | experimental | [1] Hassam 2010 | Table 1, p. 3, row 42 |  |
 
 ### Heat capacity / entropy / enthalpy (342)
 

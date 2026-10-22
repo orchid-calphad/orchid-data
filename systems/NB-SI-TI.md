@@ -30,19 +30,19 @@ Table: Invariant reactions reported in the literature for the Nb–Si–Ti syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2628.15 | max: Liquid -> αNb(Ti)5Si3 + βNb(Ti)5Si3 | L: Nb 0.00495, Si 0.00372, Ti 0.00133; Liquid: Nb 0.00495, Si 0.00372, Ti 0.00133 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 4 |  |
-| 2412.15 | max: Liquid -> αNb(Ti)5Si3 + Ti(Nb)5Si4 | L: Nb 0.00318, Si 0.00483, Ti 0.00199; Liquid: Nb 0.00318, Si 0.00483, Ti 0.00199 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 2 |  |
-| 2402.15 | U: L + αNb(Ti)5Si3 -> Ti(Nb)5Si4 + βNb(Ti)5Si3 | L: Nb 0.00373, Si 0.00494, Ti 0.00133 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 12 |  |
-| 2342.15 | max: Liquid -> αNb(Ti)5Si3 + Ti(Nb)5Si3 | L: Nb 0.00147, Si 0.00365, Ti 0.00489; Liquid: Nb 0.00147, Si 0.00365, Ti 0.00489 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 3 |  |
-| 2317.15 | U: L + αNb(Ti)5Si3 -> Ti(Nb)5Si3 + Ti(Nb)5Si4 | L: Nb 0.00134, Si 0.00416, Ti 0.00452 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 8 |  |
-| 2245.15 | U: L + βNb(Ti)5Si3 -> (Nb,Ti)3Si + αNb(Ti)5Si3 | L: Nb 0.00786, Si 0.00204, Ti 1.000e-4 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 13 |  |
-| 2132.15 | U: L + βNb(Ti)5Si3 -> Nb(Ti)Si2 + Ti(Nb)5Si4 | L: Nb 0.00407, Si 0.00575, Ti 1.800e-4 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 11 |  |
-| 1904.15 | U: L + αNb(Ti)5Si3 -> (Nb,Ti)3Si + Ti(Nb)5Si3 | L: Nb 0.00224, Si 0.002, Ti 0.00576 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 9 |  |
-| 1793.15 | max: Liquid -> Nb(Ti)Si2 + Ti(Nb)Si2 | L: Nb 3.900e-4, Si 0.00669, Ti 0.00293; Liquid: Nb 3.900e-4, Si 0.00669, Ti 0.00293 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 1 |  |
-| 1771.15 | U: L + Nb(Ti)Si2 -> Ti(Nb)Si2 + Ti(Nb)5Si4 | L: Nb 4.300e-4, Si 0.00625, Ti 0.00332 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 6 |  |
-| 1762.15 | U: L + Ti(Nb)5Si4 -> Ti(Nb)Si2 + Ti(Nb)Si | L: Nb 2.200e-4, Si 0.00625, Ti 0.00353 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 7 |  |
-| 1623.15 | U: L + (Nb,Ti)3Si -> Bcc + Ti(Nb)5Si3 | L: Nb 9.900e-4, Si 0.00139, Ti 0.00762 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 10 |  |
-| 1610.15 | U: L + Nb(Ti)Si2 -> Si + Ti(Nb)Si2 | L: Nb 2.000e-4, Si 0.00821, Ti 0.00159 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 5 |  |
+| 2628.15 | other: Liquid -> αNb(Ti)5Si3 + βNb(Ti)5Si3 | L: Nb 0.00495, Si 0.00372, Ti 0.00133; Liquid: Nb 0.00495, Si 0.00372, Ti 0.00133 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 4 |  |
+| 2412.15 | other: Liquid -> αNb(Ti)5Si3 + Ti(Nb)5Si4 | L: Nb 0.00318, Si 0.00483, Ti 0.00199; Liquid: Nb 0.00318, Si 0.00483, Ti 0.00199 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 2 |  |
+| 2402.15 | quasi-peritectic: L + αNb(Ti)5Si3 -> Ti(Nb)5Si4 + βNb(Ti)5Si3 | L: Nb 0.00373, Si 0.00494, Ti 0.00133 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 12 |  |
+| 2342.15 | other: Liquid -> αNb(Ti)5Si3 + Ti(Nb)5Si3 | L: Nb 0.00147, Si 0.00365, Ti 0.00489; Liquid: Nb 0.00147, Si 0.00365, Ti 0.00489 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 3 |  |
+| 2317.15 | quasi-peritectic: L + αNb(Ti)5Si3 -> Ti(Nb)5Si3 + Ti(Nb)5Si4 | L: Nb 0.00134, Si 0.00416, Ti 0.00452 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 8 |  |
+| 2245.15 | quasi-peritectic: L + βNb(Ti)5Si3 -> (Nb,Ti)3Si + αNb(Ti)5Si3 | L: Nb 0.00786, Si 0.00204, Ti 1.000e-4 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 13 |  |
+| 2132.15 | quasi-peritectic: L + βNb(Ti)5Si3 -> Nb(Ti)Si2 + Ti(Nb)5Si4 | L: Nb 0.00407, Si 0.00575, Ti 1.800e-4 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 11 |  |
+| 1904.15 | quasi-peritectic: L + αNb(Ti)5Si3 -> (Nb,Ti)3Si + Ti(Nb)5Si3 | L: Nb 0.00224, Si 0.002, Ti 0.00576 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 9 |  |
+| 1793.15 | other: Liquid -> Nb(Ti)Si2 + Ti(Nb)Si2 | L: Nb 3.900e-4, Si 0.00669, Ti 0.00293; Liquid: Nb 3.900e-4, Si 0.00669, Ti 0.00293 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 1 |  |
+| 1771.15 | quasi-peritectic: L + Nb(Ti)Si2 -> Ti(Nb)Si2 + Ti(Nb)5Si4 | L: Nb 4.300e-4, Si 0.00625, Ti 0.00332 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 6 |  |
+| 1762.15 | quasi-peritectic: L + Ti(Nb)5Si4 -> Ti(Nb)Si2 + Ti(Nb)Si | L: Nb 2.200e-4, Si 0.00625, Ti 0.00353 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 7 |  |
+| 1623.15 | quasi-peritectic: L + (Nb,Ti)3Si -> Bcc + Ti(Nb)5Si3 | L: Nb 9.900e-4, Si 0.00139, Ti 0.00762 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 10 |  |
+| 1610.15 | quasi-peritectic: L + Nb(Ti)Si2 -> Si + Ti(Nb)Si2 | L: Nb 2.000e-4, Si 0.00821, Ti 0.00159 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 5 |  |
 
 ## Other properties
 

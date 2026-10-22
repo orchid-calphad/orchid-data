@@ -1,10 +1,10 @@
 # Cu–Zr system
 
-> Cu–Zr system: 792 accepted literature values (invariant reaction 420, activity / EMF / Gibbs energy 168, formation 106, phase transition 47) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Zr system: 778 accepted literature values (invariant reaction 420, activity / EMF / Gibbs energy 168, formation 92, phase transition 47) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-ZR.html · Markdown: https://data.orchid-project.org/systems/CU-ZR.md
 
-792 accepted literature values from 8 paper(s) (experimental 396, model 316, DFT 34, unspecified 46); 11 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+778 accepted literature values from 8 paper(s) (experimental 392, model 316, DFT 24, unspecified 46); 11 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ZR.json) · [CSV](https://data.orchid-project.org/systems/CU-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ZR/CuZr-06Abe.json) · [Markdown](https://data.orchid-project.org/systems/CU-ZR.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 396 |
+| experimental | 392 |
 | model | 316 |
-| DFT | 34 |
+| DFT | 24 |
 | unspecified | 46 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 420 |
 | phase transition | 47 |
 | phase equilibrium | 29 |
-| formation | 106 |
+| formation | 92 |
 | heat capacity / entropy / enthalpy | 6 |
 | activity / EMF / Gibbs energy | 168 |
 | crystal structure | 16 |
@@ -277,88 +277,88 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1413 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Pogodin 1940_ | Table 5, p. 9, row 1 |  |
+| 1413 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Pogodin 1940_ | Table 5, p. 9, row 1 |  |
 | 1411 | L \<=> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Zr 0.25 | experimental | [2] Turchanin 2008; _cites ref. 3_ | Table 2, p. 5, row 16 |  |
-| 1393 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 8 |  |
+| 1393 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 8 |  |
 | 1393 | L \<=> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Zr 0.2154 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 5, row 23 |  |
-| 1389 | Congruent: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 8 |  |
-| 1389 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 7 |  |
-| 1389 | Congruent: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | model | [3] Wang 2006 | Table 1, p. 4, row 12 |  |
+| 1389 | congruent melting: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 8 |  |
+| 1389 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 7 |  |
+| 1389 | congruent melting: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | model | [3] Wang 2006 | Table 1, p. 4, row 12 |  |
 | 1389 | L \<=> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Zr 0.2154 | experimental | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 5, row 22 |  |
-| 1388 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 5, p. 9, row 6 |  |
-| 1388 | Congruent: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 11 |  |
+| 1388 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 5, p. 9, row 6 |  |
+| 1388 | congruent melting: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 11 |  |
 | 1388 | L \<=> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Zr 0.2154 | experimental | [2] Turchanin 2008; _cites ref. 22_ | Table 2, p. 5, row 21 |  |
-| 1388 | Congruent: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 9 |  |
+| 1388 | congruent melting: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 9 |  |
 | 1386 | L \<=> Cu51Zr14 | L: Zr 0.2; Cu51Zr14: Zr 0.2 | experimental | [2] Turchanin 2008; _cites ref. 15_ | Table 2, p. 5, row 19 |  |
-| 1386 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.2; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Perry 1972_ | Table 5, p. 9, row 4 |  |
-| 1386 | Congruent: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 10 |  |
-| 1386 | Congruent: Cu51Zr14 -> Liquid | Cu51Zr14: Zr 0.215; Liquid: Zr 0.215 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 3 |  |
-| 1385 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Raub 1948_ | Table 5, p. 9, row 2 |  |
+| 1386 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.2; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Perry 1972_ | Table 5, p. 9, row 4 |  |
+| 1386 | congruent melting: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 10 |  |
+| 1386 | congruent melting: Cu51Zr14 -> Liquid | Cu51Zr14: Zr 0.215; Liquid: Zr 0.215 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 3 |  |
+| 1385 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Raub 1948_ | Table 5, p. 9, row 2 |  |
 | 1383 | L \<=> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Zr 0.25 | experimental | [2] Turchanin 2008; _cites ref. 4_ | Table 2, p. 5, row 17 |  |
 | 1382 | L \<=> Cu51Zr14 | L: Zr 0.2154; Cu51Zr14: Zr 0.2154 | model | [2] Turchanin 2008 | Table 2, p. 5, row 24 |  |
-| 1380.6 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | model | [1] Liu 2017 | Table 5, p. 9, row 9 |  |
+| 1380.6 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | model | [1] Liu 2017 | Table 5, p. 9, row 9 |  |
 | 1377 | L \<=> Cu51Zr14 | L: Zr 0.2222; Cu51Zr14: Zr 0.2222 | experimental | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 5, row 20 |  |
-| 1377 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.2222; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Kuznetsov 1978_ | Table 5, p. 9, row 5 |  |
-| 1373 | Congruent: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 4, row 7 |  |
-| 1373 | Congruent: Liquid \<-> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 3 |  |
+| 1377 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.2222; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Kuznetsov 1978_ | Table 5, p. 9, row 5 |  |
+| 1373 | congruent melting: L -> Cu51Zr14 | L: Zr 0.215; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 4, row 7 |  |
+| 1373 | congruent melting: Liquid \<-> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Cu 0.784615, Zr 0.215385 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 3 |  |
 | 1373 | L \<=> Cu51Zr14 | L: Zr 0.25; Cu51Zr14: Zr 0.25 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 5, row 18 |  |
-| 1343 | Peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.3081; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 4, row 21 |  |
+| 1343 | peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.3081; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 4, row 21 |  |
 | 1343 | Liquid + Cu51Zr14 = Cu8Zr3 | Liquid: Zr 0.308; Cu51Zr14: Zr 0.215385; Cu8Zr3: Zr 0.272727 | experimental | [5] Gierlotka 2011; _cites Lundin 1953_ | Table 3, p. 5, row 18 |  |
 | 1343 | Liq + β -> δ | L: Zr 0.308; δ: Zr 0.272727 | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 60 |  |
-| 1343 | Peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | L: Zr 0.308; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 40 |  |
+| 1343 | peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | L: Zr 0.308; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 40 |  |
 | 1343 | L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.3081; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 5, p. 4, row 17 |  |
 | 1343 | L + Cu51Zr14 \<=> Cu8Zr3 | L: Zr 0.31; Cu51Zr14: Zr 0.25; Cu8Zr3: Zr 0.29 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 5, row 25 |  |
 | 1338 | L \<=> CuZr2 | L: Zr 0.67; CuZr2: Zr 0.67 | experimental | [2] Turchanin 2008; _cites ref. 5_ | Table 2, p. 7, row 4 |  |
-| 1311 | Peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006 | Table 1, p. 4, row 19 |  |
+| 1311 | peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006 | Table 1, p. 4, row 19 |  |
 | 1311 | Liquid + Cu51Zr14 = Cu9Zr2 | Liquid: Zr 0.107; Cu51Zr14: Zr 0.215385; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 14 |  |
-| 1311 | Peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | L: Zr 0.125; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 36 |  |
-| 1311 | Peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.125; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 15 |  |
+| 1311 | peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | L: Zr 0.125; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 36 |  |
+| 1311 | peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.125; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 15 |  |
 | 1311 | L + Cu51Zr14 \<=> Cu5Zr | L: Zr 0.125; Cu51Zr14: Zr 0.2154; Cu5Zr: Zr 0.1818 | experimental | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 5, row 13 |  |
 | 1311 | Liq + β -> C15b | L: Zr 0.107; C15b: Zr 0.182 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 12 |  |
 | 1311 | Liquid + Cu51Zr14 = Cu9Zr2 | Liquid: Zr 0.125; Cu51Zr14: Zr 0.215385; Cu9Zr2: Zr 0.181818 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 11 |  |
 | 1309 | Liquid + Cu51Zr14 = Cu9Zr2 | Liquid: Zr 0.113; Cu51Zr14: Zr 0.215385; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 8 |  |
 | 1305 | Liquid + Cu51Zr14 = Cu8Zr3 | Liquid: Zr 0.316; Cu51Zr14: Zr 0.215385; Cu8Zr3: Zr 0.272727 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 22 |  |
-| 1305 | Peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | L: Zr 0.34; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 42 |  |
+| 1305 | peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | L: Zr 0.34; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 42 |  |
 | 1305 | Liq + β -> δ | L: Zr 0.316; δ: Zr 0.272727 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 59 |  |
-| 1305 | Peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.34; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 22 |  |
-| 1305 | Peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.316; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | model | [3] Wang 2006 | Table 1, p. 4, row 26 |  |
+| 1305 | peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.34; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 22 |  |
+| 1305 | peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.316; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | model | [3] Wang 2006 | Table 1, p. 4, row 26 |  |
 | 1305 | L + Cu51Zr14 \<=> Cu8Zr3 | L: Zr 0.34; Cu51Zr14: Zr 0.2154; Cu8Zr3: Zr 0.2727 | experimental | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 5, row 27 |  |
 | 1305 | Liquid + Cu51Zr14 = Cu8Zr3 | Liquid: Zr 0.34; Cu51Zr14: Zr 0.215385; Cu8Zr3: Zr 0.272727 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 19 |  |
-| 1293 | Eutectic: L -> CuZr2-h + (βZr) | CuZr2-h: Zr 0.666667 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 35 |  |
+| 1293 | eutectic: L -> CuZr2-h + (βZr) | CuZr2-h: Zr 0.666667 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 35 |  |
 | 1293 | Liquid = CuZr2+BCC A2 | CuZr2: Zr 0.666667 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 31 |  |
 | 1290 | Liquid + Cu51Zr14 = Cu9Zr2 | Liquid: Zr 0.182; Cu51Zr14: Zr 0.215385; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 15 |  |
 | 1288 | L + Cu51Zr14 -> Cu5Zr | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | model | [7] Zeng 1994 | Table 5, p. 4, row 16 |  |
 | 1288 | Liquid + Cu51Zr14 = Cu9Zr2 | Liquid: Zr 0.107; Cu51Zr14: Zr 0.215385; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 3, p. 5, row 12 |  |
-| 1288 | Peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 17 |  |
-| 1287.5 | Peritectic: Liquid + Cu51Zr14 -> Cu5Zr | Cu51Zr14: Zr 0.215; Cu5Zr: Zr 0.167; Liquid: Zr 0.107 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 2 |  |
+| 1288 | peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 17 |  |
+| 1287.5 | peritectic: Liquid + Cu51Zr14 -> Cu5Zr | Cu51Zr14: Zr 0.215; Cu5Zr: Zr 0.167; Liquid: Zr 0.107 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 2 |  |
 | 1287.5 | Liq + β -> C15b | L: Zr 0.107; C15b: Zr 0.167 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 10 |  |
 | 1287 | L + Cu51Zr14 -> Cu5Zr | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 5, p. 4, row 14 |  |
 | 1287 | Liquid + Cu51Zr14 = Cu9Zr2 | Cu51Zr14: Zr 0.215385; Cu9Zr2: Zr 0.181818 | experimental | [5] Gierlotka 2011; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 3, p. 5, row 10 |  |
-| 1287 | Peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 5, p. 9, row 35 |  |
-| 1287 | Peritectic: L + Cu51Zr14 -> Cu9Zr2 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 1, p. 4, row 14 |  |
+| 1287 | peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 5, p. 9, row 35 |  |
+| 1287 | peritectic: L + Cu51Zr14 -> Cu9Zr2 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 1, p. 4, row 14 |  |
 | 1287 | L + Cu51Zr14 \<=> Cu5Zr | Cu51Zr14: Zr 0.2154; Cu5Zr: Zr 0.1667 | experimental | [2] Turchanin 2008; _cites ref. 22_ | Table 2, p. 5, row 12 |  |
 | 1286 | Liq + β -> C15b | L: Zr 0.098; C15b: Zr 0.167 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 9 |  |
 | 1286 | Liq -> C11b + bcc | C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 26 |  |
-| 1285 | Congruent: Liquid \<-> CuZr2 | L: Zr 0.6667; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 19 |  |
-| 1285 | Peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.11; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 18 |  |
+| 1285 | congruent melting: Liquid \<-> CuZr2 | L: Zr 0.6667; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 19 |  |
+| 1285 | peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.11; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 18 |  |
 | 1285 | Liquid + Cu51Zr14 = Cu9Zr2 | Liquid: Zr 0.11; Cu51Zr14: Zr 0.215385; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 13 |  |
 | 1285 | Liq + β -> C15b | L: Zr 0.11; C15b: Zr 0.182 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 11 |  |
 | 1285 | Liquid + Cu51Zr14 = Cu8Zr3 | Cu51Zr14: Zr 0.215385; Cu8Zr3: Zr 0.272727 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 23 |  |
-| 1285 | Peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.115; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 16 |  |
+| 1285 | peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.115; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 16 |  |
 | 1285 | L \<=> CuZr2 | L: Zr 0.6667; CuZr2: Zr 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 7, row 6 |  |
 | 1285 | L + Cu51Zr14 -> Cu5Zr | L: Zr 0.115; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 15 |  |
-| 1284 | Eutectic: L -> CuZr2-h + (βZr) | L: Zr 0.685; CuZr2-h: Zr 0.666667 | model | [3] Wang 2006 | Table 1, p. 5, row 37 |  |
-| 1284 | Peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | L: Zr 0.108; Cu51Zr14: Zr 0.215; Cu5Zr: Zr 0.167 | model | [1] Liu 2017 | Table 5, p. 9, row 38 |  |
+| 1284 | eutectic: L -> CuZr2-h + (βZr) | L: Zr 0.685; CuZr2-h: Zr 0.666667 | model | [3] Wang 2006 | Table 1, p. 5, row 37 |  |
+| 1284 | peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | L: Zr 0.108; Cu51Zr14: Zr 0.215; Cu5Zr: Zr 0.167 | model | [1] Liu 2017 | Table 5, p. 9, row 38 |  |
 | 1284 | Liquid = CuZr2+BCC A2 | Liquid: Zr 0.685; CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 32 |  |
 | 1284 | Liq -> C11b + bcc | L: Zr 0.685; C11b: Zr 0.666667 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 24 |  |
-| 1283 | Peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Kuznetsov 1978_ | Table 1, p. 4, row 13 |  |
-| 1283 | Peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Pogodin 1940_ | Table 5, p. 9, row 33 |  |
-| 1283 | Peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.326; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 25 |  |
+| 1283 | peritectic: L + Cu51Zr14 -> Cu9Zr2 | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Kuznetsov 1978_ | Table 1, p. 4, row 13 |  |
+| 1283 | peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Pogodin 1940_ | Table 5, p. 9, row 33 |  |
+| 1283 | peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.326; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 25 |  |
 | 1283 | Liquid + Cu51Zr14 = Cu9Zr2 | Liquid: Zr 0.107; Cu51Zr14: Zr 0.215385; Cu9Zr2: Zr 0.181818 | experimental | [5] Gierlotka 2011; _cites Pogodin 1940_ | Table 3, p. 5, row 9 |  |
 | 1283 | Liq + β -> C15b | C15b: Zr 0.166667 | experimental | [6] Zhou 2010; _cites Kuznetsov 1978_ | Table 7, p. 9, row 14 |  |
 | 1283 | Liquid + Cu51Zr14 = Cu8Zr3 | Liquid: Zr 0.326; Cu51Zr14: Zr 0.215385; Cu8Zr3: Zr 0.272727 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 21 |  |
 | 1283 | L + Cu51Zr14 -> Cu5Zr | L: Zr 0.107; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Kuznetsov 1978_ | Table 5, p. 4, row 13 |  |
-| 1283 | Peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | L: Zr 0.105; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Kuznetsov 1978_ | Table 5, p. 9, row 34 |  |
+| 1283 | peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | L: Zr 0.105; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Kuznetsov 1978_ | Table 5, p. 9, row 34 |  |
 | 1283 | Liq + β -> δ | L: Zr 0.326; δ: Zr 0.272727 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 58 |  |
 | 1283 | Liq -> fcc + C15b | L: Zr 0.065; C15b: Zr 0.166667 | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 34 |  |
 | 1283 | L + Cu51Zr14 \<=> Cu5Zr | L: Zr 0.105; Cu51Zr14: Zr 0.2222; Cu5Zr: Zr 0.1818 | experimental | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 5, row 11 |  |
@@ -366,20 +366,20 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 | 1281 | Liquid = CuZr2+BCC A2 | Liquid: Zr 0.697; CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 33 |  |
 | 1280 | L + Cu51Zr14 \<=> Cu5Zr | L: Zr 0.103; Cu51Zr14: Zr 0.2154; Cu5Zr: Zr 0.1667 | model | [2] Turchanin 2008 | Table 2, p. 5, row 15 |  |
 | 1279 | L \<=> CuZr2 | L: Zr 0.6667; CuZr2: Zr 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 7, row 7 |  |
-| 1279 | Congruent: Liquid \<-> CuZr2 | L: Zr 0.6667; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 20 |  |
-| 1277 | Peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 37 |  |
+| 1279 | congruent melting: Liquid \<-> CuZr2 | L: Zr 0.6667; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 20 |  |
+| 1277 | peritectic: Liquid + Cu51Zr14 \<-> Cu5Zr | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 37 |  |
 | 1277 | L + Cu51Zr14 \<=> Cu5Zr | Cu51Zr14: Zr 0.2154; Cu5Zr: Zr 0.1818 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 5, row 14 |  |
-| 1276 | Eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.0773; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006 | Table 1, p. 4, row 6 |  |
+| 1276 | eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.0773; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006 | Table 1, p. 4, row 6 |  |
 | 1276 | Liquid = CuZr2+BCC A2 | Liquid: Zr 0.692; CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 29 |  |
 | 1276 | Liq -> fcc + C15b | L: Zr 0.077; C15b: Zr 0.166667 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 33 |  |
 | 1276 | Liquid = FCC_A1+Cu9Zr2 | Liquid: Zr 0.073; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 6 |  |
-| 1275 | Congruent: CuZr2 -> Liquid | CuZr2: Zr 0.666; Liquid: Zr 0.666 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 12 |  |
+| 1275 | congruent melting: CuZr2 -> Liquid | CuZr2: Zr 0.666; Liquid: Zr 0.666 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 12 |  |
 | 1273 | Liq + β -> δ | L: Zr 0.353; δ: Zr 0.272727 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 56 |  |
 | 1273 | L \<=> CuZr2 | L: Zr 0.67; CuZr2: Zr 0.67 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 7, row 5 |  |
-| 1273 | Congruent: Liquid \<-> CuZr2 | L: Zr 0.67; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 18 |  |
-| 1271.4 | Congruent: Liquid \<-> CuZr2 | L: Zr 0.667; CuZr2: Cu 0.333333, Zr 0.666667 | model | [1] Liu 2017 | Table 5, p. 9, row 21 |  |
+| 1273 | congruent melting: Liquid \<-> CuZr2 | L: Zr 0.67; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 18 |  |
+| 1271.4 | congruent melting: Liquid \<-> CuZr2 | L: Zr 0.667; CuZr2: Cu 0.333333, Zr 0.666667 | model | [1] Liu 2017 | Table 5, p. 9, row 21 |  |
 | 1271 | L \<=> CuZr2 + (βZr) | L: Zr 0.74; CuZr2: Zr 0.67 | experimental | [2] Turchanin 2008; _cites ref. 5_ | Table 2, p. 7, row 9 |  |
-| 1271 | Eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.106; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 2 |  |
+| 1271 | eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.106; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 2 |  |
 | 1271 | L \<=> (Cu) + Cu5Zr | L: Zr 0.106; Cu5Zr: Zr 0.1667 | experimental | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 5, row 8 |  |
 | 1271 | L -> CuZr2 + (βZr) | L: Zr 0.7395; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [7] Zeng 1994; _cites Auguston 1950_ | Table 5, p. 4, row 30 |  |
 | 1271 | L \<=> CuZr2 + (βZr) | L: Zr 0.709; CuZr2: Zr 0.6667; (βZr): Zr 0.95 | model | [2] Turchanin 2008 | Table 2, p. 7, row 11 |  |
@@ -388,8 +388,8 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 | 1270 | L -> CuZr2 + (βZr) | L: Zr 0.7; CuZr2: Cu 0.333333, Zr 0.666667 | model | [7] Zeng 1994 | Table 5, p. 4, row 33 |  |
 | 1270 | Liq + β -> δ | δ: Zr 0.272727 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 61 |  |
 | 1269.5 | Liq -> C11b + bcc | L: Zr 0.7; C11b: Zr 0.666667; bcc: Zr 0.947 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 23 |  |
-| 1269.5 | Eutectic: Liquid -> CuZr2 + bcc-A2 | CuZr2: Zr 0.666; bcc-A2: Zr 0.947; Liquid: Zr 0.7 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 11 |  |
-| 1269 | Eutectic: L -> Cu8Zr3 + Cu24Zr13 | L: Zr 0.347; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu24Zr13: Cu 0.65, Zr 0.35 | model | [3] Wang 2006 | Table 1, p. 4, row 28 |  |
+| 1269.5 | eutectic: Liquid -> CuZr2 + bcc-A2 | CuZr2: Zr 0.666; bcc-A2: Zr 0.947; Liquid: Zr 0.7 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 11 |  |
+| 1269 | eutectic: L -> Cu8Zr3 + Cu24Zr13 | L: Zr 0.347; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu24Zr13: Cu 0.65, Zr 0.35 | model | [3] Wang 2006 | Table 1, p. 4, row 28 |  |
 | 1269 | Liq + δ -> μ | L: Zr 0.347; δ: Zr 0.272727; μ: Zr 0.411765 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 28 |  |
 | 1269 | L -> Cu8Zr3 + Cu24Zr13 | Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu24Zr13: Cu 0.65, Zr 0.35 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 27 |  |
 | 1269 | Liquid + Cu8Zr3 = Cu2Zr | Cu8Zr3: Zr 0.272727; Cu2Zr: Zr 0.333333 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 35 |  |
@@ -398,208 +398,208 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 | 1268 | L -> CuZr2 + (βZr) | L: Zr 0.724; CuZr2: Cu 0.333333, Zr 0.666667 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 32 |  |
 | 1268 | Liq -> C11b + bcc | L: Zr 0.702; C11b: Zr 0.666667; bcc: Zr 0.946 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 22 |  |
 | 1268 | L -> CuZr2 + (βZr) | L: Zr 0.724; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 5, p. 4, row 31 |  |
-| 1268 | Eutectic: L -> CuZr2-h + (βZr) | L: Zr 0.724; CuZr2-h: Zr 0.666667 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 34 |  |
+| 1268 | eutectic: L -> CuZr2-h + (βZr) | L: Zr 0.724; CuZr2-h: Zr 0.666667 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 34 |  |
 | 1268 | L \<=> CuZr2 + (βZr) | L: Zr 0.72; CuZr2: Zr 0.67; (βZr): Zr 0.94 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 7, row 10 |  |
-| 1268 | Eutectic: L -> CuZr2-h + (βZr) | L: Zr 0.724; CuZr2-h: Zr 0.666667 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 36 |  |
+| 1268 | eutectic: L -> CuZr2-h + (βZr) | L: Zr 0.724; CuZr2-h: Zr 0.666667 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 36 |  |
 | 1268 | Liq -> C11b + bcc | L: Zr 0.724; C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 25 |  |
 | 1258 | Liquid + Cu51Zr14 = Cu8Zr3 | Liquid: Zr 0.328; Cu51Zr14: Zr 0.215385; Cu8Zr3: Zr 0.272727 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 16 |  |
 | 1256 | Liquid + Cu8Zr3 = Cu2Zr | Cu8Zr3: Zr 0.272727; Cu2Zr: Zr 0.333333 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 37 |  |
-| 1253 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.09; (Cu): Zr 0.007; Cu5Zr: Zr 0.25 | experimental | [1] Liu 2017; _cites Pogodin 1940_ | Table 5, p. 9, row 22 |  |
+| 1253 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.09; (Cu): Zr 0.007; Cu5Zr: Zr 0.25 | experimental | [1] Liu 2017; _cites Pogodin 1940_ | Table 5, p. 9, row 22 |  |
 | 1253 | Liquid = FCC_A1+Cu9Zr2 | Liquid: Zr 0.081; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 7 |  |
 | 1253 | L \<=> (Cu) + Cu5Zr | L: Zr 0.09; (Cu): Zr 0.007; Cu5Zr: Zr 0.25 | experimental | [2] Turchanin 2008; _cites ref. 3_ | Table 2, p. 5, row 1 |  |
 | 1253 | Liquid + Cu8Zr3 = Cu2Zr | Liquid: Zr 0.354; Cu8Zr3: Zr 0.272727; Cu2Zr: Zr 0.333333 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 34 |  |
-| 1253 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.094; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 30 |  |
+| 1253 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.094; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 30 |  |
 | 1253 | L -> (Cu) + Cu5Zr | L: Zr 0.0935; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Pogodin 1940_ | Table 5, p. 4, row 1 |  |
 | 1253 | L -> (Cu) + Cu5Zr | Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Saarivirta 1960_ | Table 5, p. 4, row 5 |  |
-| 1253 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Showak 1962_ | Table 5, p. 9, row 25 |  |
+| 1253 | eutectic: Liquid \<-> (Cu) + Cu5Zr | Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Showak 1962_ | Table 5, p. 9, row 25 |  |
 | 1253 | L -> (Cu) + Cu5Zr | Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Showak 1962_ | Table 5, p. 4, row 6 |  |
 | 1253 | L \<=> (Cu) + Cu5Zr | L: Zr 0.082; (Cu): Zr 0.0013; Cu5Zr: Zr 0.1667 | model | [2] Turchanin 2008 | Table 2, p. 5, row 10 |  |
 | 1252 | Liq -> fcc + C15b | L: Zr 0.072; fcc: Zr 0.001; C15b: Zr 0.166667 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 30 |  |
 | 1251 | Liquid = FCC_A1+Cu9Zr2 | Liquid: Zr 0.081; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 1 |  |
 | 1250 | L -> (Cu) + Cu5Zr | L: Zr 0.0995; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Raub 1948_ | Table 5, p. 4, row 2 |  |
-| 1250 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.088; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 5, p. 9, row 29 |  |
+| 1250 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.088; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 5, p. 9, row 29 |  |
 | 1250 | Liq -> fcc + C15b | C15b: Zr 0.166667 | experimental | [6] Zhou 2010; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 7, p. 9, row 36 |  |
 | 1250 | L \<=> (Cu) + Cu5Zr | L: Zr 0.088; Cu5Zr: Zr 0.1818 | experimental | [2] Turchanin 2008; _cites ref. 22_ | Table 2, p. 5, row 7 |  |
 | 1250 | L \<=> (Cu) + Cu5Zr | L: Zr 0.1; Cu5Zr: Zr 0.25 | experimental | [2] Turchanin 2008; _cites ref. 4_ | Table 2, p. 5, row 2 |  |
-| 1250 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.1; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Raub 1948_ | Table 5, p. 9, row 23 |  |
+| 1250 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.1; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Raub 1948_ | Table 5, p. 9, row 23 |  |
 | 1250 | L -> (Cu) + Cu5Zr | L: Zr 0.088; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 5, p. 4, row 10 |  |
-| 1248 | Peritectic: L + Cu51Zr14 -> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [3] Wang 2006; _cites Kuznetsov 1978_ | Table 1, p. 4, row 20 |  |
+| 1248 | peritectic: L + Cu51Zr14 -> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [3] Wang 2006; _cites Kuznetsov 1978_ | Table 1, p. 4, row 20 |  |
 | 1248 | L + Cu51Zr14 -> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [7] Zeng 1994; _cites Kuznetsov 1978_ | Table 5, p. 4, row 18 |  |
-| 1248 | Peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Kuznetsov 1978_ | Table 5, p. 9, row 41 |  |
-| 1248 | Peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Pogodin 1940_ | Table 5, p. 9, row 39 |  |
+| 1248 | peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Kuznetsov 1978_ | Table 5, p. 9, row 41 |  |
+| 1248 | peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Pogodin 1940_ | Table 5, p. 9, row 39 |  |
 | 1248 | L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.36; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 19 |  |
 | 1248 | Liq + β -> δ | δ: Zr 0.272727 | experimental | [6] Zhou 2010; _cites Kuznetsov 1978_ | Table 7, p. 9, row 62 |  |
-| 1248 | Peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.36; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 23 |  |
+| 1248 | peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.36; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 23 |  |
 | 1248 | Liquid + Cu51Zr14 = Cu8Zr3 | Cu51Zr14: Zr 0.215385; Cu8Zr3: Zr 0.272727 | experimental | [5] Gierlotka 2011; _cites Pogodin 1940_ | Table 3, p. 5, row 17 |  |
 | 1248 | L + Cu51Zr14 \<=> Cu8Zr3 | Cu51Zr14: Zr 0.2222; Cu8Zr3: Zr 0.2857 | experimental | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 5, row 26 |  |
-| 1245 | Eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.086; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 5 |  |
+| 1245 | eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.086; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 5 |  |
 | 1245 | Liq -> fcc + C15b | L: Zr 0.086; C15b: Zr 0.166667 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 32 |  |
-| 1245 | Eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.086; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 3 |  |
+| 1245 | eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.086; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 3 |  |
 | 1245 | Liquid = FCC_A1+Cu9Zr2 | Liquid: Zr 0.086; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 5 |  |
 | 1245 | L -> (Cu) + Cu5Zr | L: Zr 0.086; Cu5Zr: Cu 0.833333, Zr 0.166667 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 11 |  |
 | 1244 | L + Cu51Zr14 \<=> Cu8Zr3 | L: Zr 0.343; Cu51Zr14: Zr 0.2154; Cu8Zr3: Zr 0.2727 | model | [2] Turchanin 2008 | Table 2, p. 5, row 29 |  |
 | 1244 | L \<=> (Cu) + Cu5Zr | Cu5Zr: Zr 0.1818 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 5, row 9 |  |
 | 1244 | L \<=> (Cu) + Cu5Zr | L: Zr 0.089; Cu5Zr: Zr 0.1667 | experimental | [2] Turchanin 2008; _cites ref. 15_ | Table 2, p. 5, row 5 |  |
-| 1244 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 31 |  |
+| 1244 | eutectic: Liquid \<-> (Cu) + Cu5Zr | Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 31 |  |
 | 1244 | L -> (Cu) + Cu5Zr | L: Zr 0.089; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Perry 1972_ | Table 5, p. 4, row 8 |  |
-| 1244 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.089; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Perry 1972_ | Table 5, p. 9, row 27 |  |
+| 1244 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.089; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Perry 1972_ | Table 5, p. 9, row 27 |  |
 | 1243 | L -> (Cu) + Cu5Zr | L: Zr 0.098; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Donachie 1964_ | Table 5, p. 4, row 7 |  |
 | 1243 | L \<=> (Cu) + Cu5Zr | L: Zr 0.098; Cu5Zr: Zr 0.2 | experimental | [2] Turchanin 2008; _cites ref. 11_ | Table 2, p. 5, row 4 |  |
-| 1243 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.079; (Cu): Zr 0.00122; Cu5Zr: Zr 0.167 | model | [1] Liu 2017 | Table 5, p. 9, row 32 |  |
-| 1243 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.098; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Donachie 1964_ | Table 5, p. 9, row 26 |  |
+| 1243 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.079; (Cu): Zr 0.00122; Cu5Zr: Zr 0.167 | model | [1] Liu 2017 | Table 5, p. 9, row 32 |  |
+| 1243 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.098; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Donachie 1964_ | Table 5, p. 9, row 26 |  |
 | 1243 | L + Cu51Zr14 \<=> Cu8Zr3 | Cu51Zr14: Zr 0.2154; Cu8Zr3: Zr 0.2727 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 5, row 28 |  |
 | 1242 | Liquid + CuZr2 = Cu5Zr7 | Liquid: Zr 0.574; CuZr2: Zr 0.666667; Cu5Zr7: Zr 0.583333 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 38 |  |
-| 1241 | Eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.0769; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 4 |  |
+| 1241 | eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.0769; Cu9Zr2: Cu 0.818182, Zr 0.181818 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 4 |  |
 | 1241 | L -> (Cu) + Cu5Zr | L: Zr 0.0769; Cu5Zr: Cu 0.833333, Zr 0.166667 | model | [7] Zeng 1994 | Table 5, p. 4, row 12 |  |
 | 1241 | Liquid = FCC_A1+Cu9Zr2 | Liquid: Zr 0.0769; Cu9Zr2: Zr 0.181818 | model | [5] Gierlotka 2011; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 3, p. 5, row 4 |  |
-| 1240.8 | Eutectic: Liquid -> fcc-A1 + Cu5Zr | fcc-A1: Zr 0.001; Cu5Zr: Zr 0.167; Liquid: Zr 0.078 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 1 |  |
+| 1240.8 | eutectic: Liquid -> fcc-A1 + Cu5Zr | fcc-A1: Zr 0.001; Cu5Zr: Zr 0.167; Liquid: Zr 0.078 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 1 |  |
 | 1240.8 | Liq -> fcc + C15b | L: Zr 0.077; fcc: Zr 0.001; C15b: Zr 0.166667 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 31 |  |
 | 1240 | L \<=> (Cu) + Cu5Zr | L: Zr 0.082; Cu5Zr: Zr 0.1818 | experimental | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 5, row 6 |  |
-| 1240 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.082; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Kuznetsov 1978_ | Table 5, p. 9, row 28 |  |
+| 1240 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.082; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Kuznetsov 1978_ | Table 5, p. 9, row 28 |  |
 | 1240 | Liq -> fcc + C15b | C15b: Zr 0.166667 | experimental | [6] Zhou 2010; _cites Kuznetsov 1978_ | Table 7, p. 9, row 37 |  |
 | 1240 | L -> (Cu) + Cu5Zr | L: Zr 0.082; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Kuznetsov 1978_ | Table 5, p. 4, row 9 |  |
-| 1240 | Peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 43 |  |
-| 1239.8 | Peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | L: Zr 0.367; Cu51Zr14: Zr 0.215; Cu8Zr3: Zr 0.273 | model | [1] Liu 2017 | Table 5, p. 9, row 44 |  |
+| 1240 | peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 43 |  |
+| 1239.8 | peritectic: Liquid + Cu51Zr14 \<-> Cu8Zr3 | L: Zr 0.367; Cu51Zr14: Zr 0.215; Cu8Zr3: Zr 0.273 | model | [1] Liu 2017 | Table 5, p. 9, row 44 |  |
 | 1238 | L \<=> (Cu) + Cu5Zr | L: Zr 0.07; Cu5Zr: Zr 0.25 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 5, row 3 |  |
 | 1238 | Liquid = FCC_A1+Cu9Zr2 | Liquid: Zr 0.065; Cu9Zr2: Zr 0.181818 | experimental | [5] Gierlotka 2011; _cites Lundin 1953_ | Table 3, p. 5, row 2 |  |
 | 1238 | L -> (Cu) + Cu5Zr | L: Zr 0.065; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 5, p. 4, row 4 |  |
-| 1238 | Peritectic: L + CuZr2-h -> Cu5Zr8 | CuZr2-h: Zr 0.666667; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 23 |  |
-| 1238 | Eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.065; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 24 |  |
-| 1238 | Eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.065; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 4, row 1 |  |
+| 1238 | peritectic: L + CuZr2-h -> Cu5Zr8 | CuZr2-h: Zr 0.666667; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 23 |  |
+| 1238 | eutectic: Liquid \<-> (Cu) + Cu5Zr | L: Zr 0.065; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 24 |  |
+| 1238 | eutectic: L -> (Cu) + Cu9Zr2 | L: Zr 0.065; Cu9Zr2: Cu 0.818182, Zr 0.181818 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 4, row 1 |  |
 | 1238 | Liquid + CuZr2 = Cu5Zr7 | CuZr2: Zr 0.666667; Cu5Zr7: Zr 0.583333 | experimental | [5] Gierlotka 2011; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 3, p. 5, row 39 |  |
 | 1237 | L -> (Cu) + Cu5Zr | L: Zr 0.091; Cu5Zr: Cu 0.833333, Zr 0.166667 | experimental | [7] Zeng 1994; _cites Allibone 1928_ | Table 5, p. 4, row 3 |  |
-| 1237 | Peritectic: L + CuZr2-h -> Cu5Zr8 | L: Zr 0.576; CuZr2-h: Zr 0.666667; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 25 |  |
+| 1237 | peritectic: L + CuZr2-h -> Cu5Zr8 | L: Zr 0.576; CuZr2-h: Zr 0.666667; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 25 |  |
 | 1237 | Liquid + CuZr2 = Cu5Zr7 | Liquid: Zr 0.576; CuZr2: Zr 0.666667; Cu5Zr7: Zr 0.583333 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 41 |  |
 | 1237 | Liq + C11b -> Cu5Zr8 | L: Zr 0.576; C11b: Zr 0.666667 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 38 |  |
 | 1234 | Liquid + Cu2Zr = Cu10Zr7 | Cu2Zr: Zr 0.333333; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 53 |  |
 | 1233 | L \<=> CuZr | L: Zr 0.5; CuZr: Zr 0.5 | experimental | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 6, row 16 |  |
-| 1233 | Congruent: Liquid \<-> CuZr | L: Zr 0.5; CuZr: Cu 0.5, Zr 0.5 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 15 |  |
-| 1227.1 | Congruent: Liquid \<-> CuZr | L: Zr 0.5; CuZr: Cu 0.5, Zr 0.5 | model | [1] Liu 2017 | Table 5, p. 9, row 17 |  |
+| 1233 | congruent melting: Liquid \<-> CuZr | L: Zr 0.5; CuZr: Cu 0.5, Zr 0.5 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 15 |  |
+| 1227.1 | congruent melting: Liquid \<-> CuZr | L: Zr 0.5; CuZr: Cu 0.5, Zr 0.5 | model | [1] Liu 2017 | Table 5, p. 9, row 17 |  |
 | 1223 | Liq + β -> C15b | C15b: Zr 0.166667 | experimental | [6] Zhou 2010; _cites Forey 1980_ | Table 7, p. 9, row 15 |  |
 | 1223 | Liq + β -> C15b | C15b: Zr 0.166667 | experimental | [6] Zhou 2010; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 7, p. 9, row 13 |  |
 | 1221 | Liquid = Cu5Zr7 + CuZr | Liquid: Zr 0.528; Cu5Zr7: Zr 0.583333; CuZr: Zr 0.5 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 44 |  |
-| 1220 | Peritectic: L + CuZr2-h -> Cu5Zr8 | L: Zr 0.57; CuZr2-h: Zr 0.666667; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 24 |  |
+| 1220 | peritectic: L + CuZr2-h -> Cu5Zr8 | L: Zr 0.57; CuZr2-h: Zr 0.666667; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 24 |  |
 | 1220 | Liquid + CuZr2 = Cu5Zr7 | Liquid: Zr 0.57; CuZr2: Zr 0.666667; Cu5Zr7: Zr 0.583333 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 40 |  |
-| 1219 | Eutectoid: Cu8Zr3 + Cu24Zr13 -> Cu2Zr | Cu8Zr3: Zr 0.27; Cu24Zr13: Cu 0.65, Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333 | model | [3] Wang 2006 | Table 1, p. 4, row 31 |  |
+| 1219 | eutectoid: Cu8Zr3 + Cu24Zr13 -> Cu2Zr | Cu8Zr3: Zr 0.27; Cu24Zr13: Cu 0.65, Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333 | model | [3] Wang 2006 | Table 1, p. 4, row 31 |  |
 | 1219 | δ + μ -> σ | δ: Zr 0.272727; σ: Zr 0.333333 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 41 |  |
-| 1219 | Eutectoid: Cu8Zr3 + Cu24Zr13 -> Cu2Zr | Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu24Zr13: Cu 0.65, Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 30 |  |
-| 1218 | Peritectic: L + CuZr2-h -> Cu5Zr8 | L: Zr 0.565; CuZr2-h: Zr 0.666667; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006 | Table 1, p. 5, row 26 |  |
+| 1219 | eutectoid: Cu8Zr3 + Cu24Zr13 -> Cu2Zr | Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu24Zr13: Cu 0.65, Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 30 |  |
+| 1218 | peritectic: L + CuZr2-h -> Cu5Zr8 | L: Zr 0.565; CuZr2-h: Zr 0.666667; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006 | Table 1, p. 5, row 26 |  |
 | 1218 | Liquid + CuZr2 = Cu5Zr7 | Liquid: Zr 0.565; CuZr2: Zr 0.666667; Cu5Zr7: Zr 0.583333 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 42 |  |
 | 1218 | Liq + C11b -> Cu5Zr8 | L: Zr 0.565; C11b: Zr 0.666667 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 39 |  |
 | 1213 | δ + μ -> σ | δ: Zr 0.272727; σ: Zr 0.333333 | experimental | [6] Zhou 2010; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 7, p. 9, row 42 |  |
-| 1213 | Eutectoid: Cu8Zr3 + Cu24Zr13 -> Cu2Zr | Cu8Zr3: Zr 0.273; Cu24Zr13: Cu 0.65, Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 29 |  |
+| 1213 | eutectoid: Cu8Zr3 + Cu24Zr13 -> Cu2Zr | Cu8Zr3: Zr 0.273; Cu24Zr13: Cu 0.65, Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 29 |  |
 | 1211 | L \<=> CuZr | L: Zr 0.5; CuZr: Zr 0.5 | model | [2] Turchanin 2008 | Table 2, p. 6, row 18 |  |
-| 1208.5 | Congruent: CuZr -> Liquid | CuZr: Zr 0.5; Liquid: Zr 0.5 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 10 |  |
-| 1208 | Congruent: Liquid \<-> CuZr | L: Zr 0.5; CuZr: Cu 0.5, Zr 0.5 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 14 |  |
+| 1208.5 | congruent melting: CuZr -> Liquid | CuZr: Zr 0.5; Liquid: Zr 0.5 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 10 |  |
+| 1208 | congruent melting: Liquid \<-> CuZr | L: Zr 0.5; CuZr: Cu 0.5, Zr 0.5 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 14 |  |
 | 1208 | L \<=> CuZr | L: Zr 0.5; CuZr: Zr 0.5 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 6, row 15 |  |
 | 1207 | Liquid = Cu5Zr7 + CuZr | Cu5Zr7: Zr 0.583333; CuZr: Zr 0.5 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 48 |  |
 | 1207 | Liquid = Cu10Zr7 + CuZr | Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 60 |  |
 | 1206 | L \<=> CuZr | L: Zr 0.5; CuZr: Zr 0.5 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 6, row 17 |  |
-| 1206 | Congruent: Liquid \<-> CuZr | L: Zr 0.5; CuZr: Cu 0.5, Zr 0.5 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 16 |  |
+| 1206 | congruent melting: Liquid \<-> CuZr | L: Zr 0.5; CuZr: Cu 0.5, Zr 0.5 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 16 |  |
 | 1206 | Liq + δ -> μ | L: Zr 0.407; δ: Zr 0.272727; μ: Zr 0.411765 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 27 |  |
-| 1204 | Congruent: Liquid \<-> Cu10Zr7 | L: Zr 0.4118; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 11 |  |
+| 1204 | congruent melting: Liquid \<-> Cu10Zr7 | L: Zr 0.4118; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 11 |  |
 | 1203 | Liq -> μ + φ | L: Zr 0.412; μ: Zr 0.272727; φ: Zr 0.411765 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 70 |  |
 | 1202 | Liq -> B2 + C11b | B2: Zr 0.5; C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 55 |  |
 | 1201 | Liq -> δ + φ | δ: Zr 0.272727; φ: Zr 0.411765 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 78 |  |
 | 1201 | L -> CuZr + CuZr2 | L: Zr 0.543; CuZr: Cu 0.5, Zr 0.5; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 5, p. 4, row 27 |  |
 | 1201 | L \<=> CuZr + CuZr2 | L: Zr 0.54; CuZr: Zr 0.5; CuZr2: Zr 0.67 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 7, row 1 |  |
 | 1201 | L -> CuZr + CuZr2 | L: Zr 0.543; CuZr: Cu 0.5, Zr 0.5; CuZr2: Cu 0.333333, Zr 0.666667 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 28 |  |
-| 1201 | Eutectic: Liquid \<-> Cu8Zr3 + Cu10Zr7 | Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 48 |  |
+| 1201 | eutectic: Liquid \<-> Cu8Zr3 + Cu10Zr7 | Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Braga 1998_ | Table 5, p. 9, row 48 |  |
 | 1200 | Liq -> B2 + Cu5Zr8 | L: Zr 0.545; B2: Zr 0.5; Cu5Zr8: Zr 0.615385 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 51 |  |
 | 1200 | Liq -> B2 + C11b | L: Zr 0.54; B2: Zr 0.5; C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 54 |  |
 | 1200 | Liquid + Cu2Zr = Cu10Zr7 | Cu2Zr: Zr 0.333333; Cu10Zr7: Zr 0.411765 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 51 |  |
 | 1200 | Liq -> B2 + Cu5Zr8 | L: Zr 0.526; B2: Zr 0.5; Cu5Zr8: Zr 0.615385 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 50 |  |
-| 1200 | Congruent: L -> Cu10Zr7 | L: Zr 0.41; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006 | Table 1, p. 4, row 37 |  |
-| 1200 | Eutectic: L -> CuZr + Cu5Zr8 | L: Zr 0.526; CuZr: Zr 0.5; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 13 |  |
-| 1200 | Eutectic: L -> Cu10Zr7 + Cu24Zr13 | Cu10Zr7: Cu 0.588235, Zr 0.411765; Cu24Zr13: Cu 0.65, Zr 0.35 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 39 |  |
-| 1200 | Congruent: L -> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 33 |  |
+| 1200 | congruent melting: L -> Cu10Zr7 | L: Zr 0.41; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006 | Table 1, p. 4, row 37 |  |
+| 1200 | eutectic: L -> CuZr + Cu5Zr8 | L: Zr 0.526; CuZr: Zr 0.5; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 13 |  |
+| 1200 | eutectic: L -> Cu10Zr7 + Cu24Zr13 | Cu10Zr7: Cu 0.588235, Zr 0.411765; Cu24Zr13: Cu 0.65, Zr 0.35 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 39 |  |
+| 1200 | congruent melting: L -> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 33 |  |
 | 1200 | Liquid = Cu5Zr7 + CuZr | Liquid: Zr 0.545; Cu5Zr7: Zr 0.583333; CuZr: Zr 0.5 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 47 |  |
 | 1200 | L \<=> Cu10Zr7 | L: Zr 0.4118; Cu10Zr7: Zr 0.4118 | experimental | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 6, row 7 |  |
-| 1200 | Eutectic: L -> CuZr + Cu5Zr8 | L: Zr 0.545; CuZr: Zr 0.5; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006 | Table 1, p. 5, row 14 |  |
+| 1200 | eutectic: L -> CuZr + Cu5Zr8 | L: Zr 0.545; CuZr: Zr 0.5; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006 | Table 1, p. 5, row 14 |  |
 | 1200 | Liquid = Cu5Zr7 + CuZr | Liquid: Zr 0.526; Cu5Zr7: Zr 0.583333; CuZr: Zr 0.5 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 46 |  |
 | 1199 | Liq -> μ + φ | L: Zr 0.399; μ: Zr 0.272727; φ: Zr 0.411765 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 71 |  |
-| 1199 | Eutectic: L -> Cu10Zr7 + Cu24Zr13 | L: Zr 0.399; Cu10Zr7: Cu 0.588235, Zr 0.411765; Cu24Zr13: Cu 0.65, Zr 0.35 | model | [3] Wang 2006 | Table 1, p. 4, row 40 |  |
+| 1199 | eutectic: L -> Cu10Zr7 + Cu24Zr13 | L: Zr 0.399; Cu10Zr7: Cu 0.588235, Zr 0.411765; Cu24Zr13: Cu 0.65, Zr 0.35 | model | [3] Wang 2006 | Table 1, p. 4, row 40 |  |
 | 1199 | Liquid + Cu2Zr = Cu10Zr7 | Liquid: Zr 0.399; Cu2Zr: Zr 0.333333; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 52 |  |
 | 1197 | L -> CuZr + CuZr2 | L: Zr 0.538; CuZr: Cu 0.5, Zr 0.5; CuZr2: Cu 0.333333, Zr 0.666667 | model | [7] Zeng 1994 | Table 5, p. 4, row 29 |  |
-| 1196.7 | Eutectic: Liquid -> CuZr + CuZr2 | CuZr: Zr 0.5; CuZr2: Zr 0.667; Liquid: Zr 0.538 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 9 |  |
-| 1196 | Eutectoid: Cu24Zr13 -> Cu2Zr + Cu10Zr7 | Cu24Zr13: Cu 0.65, Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 42 |  |
+| 1196.7 | eutectic: Liquid -> CuZr + CuZr2 | CuZr: Zr 0.5; CuZr2: Zr 0.667; Liquid: Zr 0.538 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 9 |  |
+| 1196 | eutectoid: Cu24Zr13 -> Cu2Zr + Cu10Zr7 | Cu24Zr13: Cu 0.65, Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 42 |  |
 | 1196 | Liq + δ -> μ | δ: Zr 0.272727; μ: Zr 0.411765 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 29 |  |
 | 1196 | Liq -> B2 + C11b | L: Zr 0.538; B2: Zr 0.5; C11b: Zr 0.666667 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 53 |  |
 | 1195.3 | Liq + β -> δ | L: Zr 0.388; δ: Zr 0.272727 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 57 |  |
-| 1195.3 | Peritectic: Liquid + Cu51Zr14 -> Cu8Zr3 | Cu51Zr14: Zr 0.273; Cu8Zr3: Zr 0.215; Liquid: Zr 0.388 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 4 |  |
+| 1195.3 | peritectic: Liquid + Cu51Zr14 -> Cu8Zr3 | Cu51Zr14: Zr 0.273; Cu8Zr3: Zr 0.215; Liquid: Zr 0.388 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 4 |  |
 | 1195 | Liquid + Cu51Zr14 = Cu8Zr3 | Liquid: Zr 0.388; Cu51Zr14: Zr 0.215385; Cu8Zr3: Zr 0.272727 | model | [5] Gierlotka 2011; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 3, p. 5, row 20 |  |
 | 1195 | peritectic |  | model | [7] Zeng 1994 | p. 8 | “The calculated peritectic temperature of equilibrium L + Cu 5iZrl4 +--)CuaZr 3, 1195 K, is much lower than the measured data.” |
-| 1195 | Peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.388; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 24 |  |
+| 1195 | peritectic: L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.388; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 24 |  |
 | 1195 | L + Cu51Zr14 -> Cu8Zr3 | L: Zr 0.388; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu8Zr3: Cu 0.727273, Zr 0.272727 | model | [7] Zeng 1994 | Table 5, p. 4, row 20 |  |
 | 1195 | Liq -> B2 + C11b | L: Zr 0.543; B2: Zr 0.5; C11b: Zr 0.666667 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 52 |  |
 | 1194 | L \<=> CuZr + CuZr2 | L: Zr 0.541; CuZr: Zr 0.5; CuZr2: Zr 0.6667 | model | [2] Turchanin 2008 | Table 2, p. 7, row 3 |  |
-| 1194 | Eutectoid: Cu24Zr13 -> Cu2Zr + Cu10Zr7 | Cu24Zr13: Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006 | Table 1, p. 4, row 43 |  |
+| 1194 | eutectoid: Cu24Zr13 -> Cu2Zr + Cu10Zr7 | Cu24Zr13: Zr 0.35; Cu2Zr: Cu 0.666667, Zr 0.333333; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006 | Table 1, p. 4, row 43 |  |
 | 1194 | μ -> φ + σ | φ: Zr 0.411765; σ: Zr 0.333333 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 74 |  |
 | 1193 | Liq -> φ + B2 | L: Zr 0.456; φ: Zr 0.411765; B2: Zr 0.5 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 79 |  |
 | 1189 | (βZr) -> CuZr2 + (αZr) | (βZr): Zr 0.93; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [7] Zeng 1994; _cites Auguston 1950_ | Table 5, p. 4, row 34 |  |
 | 1189 | Liquid = Cu10Zr7 + CuZr | Liquid: Zr 0.447; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 59 |  |
-| 1189 | Eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.447; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | model | [3] Wang 2006 | Table 1, p. 5, row 6 |  |
+| 1189 | eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.447; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | model | [3] Wang 2006 | Table 1, p. 5, row 6 |  |
 | 1189 | BCC_A2 = CuZr2 + HCP_A3 | CuZr2: Zr 0.666667 | experimental | [5] Gierlotka 2011; _cites Sommer 1989_ [doi](https://doi.org/10.1515/ijmr-1989-800410) | Table 3, p. 5, row 68 |  |
 | 1189 | eutectoid |  | experimental | [7] Zeng 1994; _cites Auguston 1950_ | p. 4 | “The experimental w o r k o f A u g u s t o n 44 probably had a serious o x y g e n c o n t a m i n a t i o n p r o b l e m because his reported eutectoid temperature (1189 K) o f (~Zr) ~ C u Z r 2 + (c~Zr) is e v e n m u c h higher than the transformation temperature of (ccZr) ~ (~Zr).” |
 | 1189 | Liq -> φ + B2 | L: Zr 0.447; φ: Zr 0.411765; B2: Zr 0.5 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 82 |  |
 | 1189 | (βZr) \<=> CuZr2 + (αZr) | (βZr): Zr 0.93; CuZr2: Zr 0.67 | experimental | [2] Turchanin 2008; _cites ref. 5_ | Table 2, p. 7, row 12 |  |
 | 1186 | δ + μ -> σ | δ: Zr 0.272727; σ: Zr 0.333333 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 40 |  |
-| 1186 | Congruent: Liquid \<-> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [1] Liu 2017 | Table 5, p. 9, row 13 |  |
+| 1186 | congruent melting: Liquid \<-> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [1] Liu 2017 | Table 5, p. 9, row 13 |  |
 | 1186 | Liquid = Cu5Zr7 + CuZr | Liquid: Zr 0.56; Cu5Zr7: Zr 0.583333; CuZr: Zr 0.5 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 45 |  |
-| 1186 | Eutectic: L -> CuZr + Cu5Zr8 | L: Zr 0.56; CuZr: Zr 0.5; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 12 |  |
-| 1185 | Congruent: Liquid \<-> Cu10Zr7 | L: Zr 0.4148; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 12 |  |
+| 1186 | eutectic: L -> CuZr + Cu5Zr8 | L: Zr 0.56; CuZr: Zr 0.5; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 12 |  |
+| 1185 | congruent melting: Liquid \<-> Cu10Zr7 | L: Zr 0.4148; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 5, p. 9, row 12 |  |
 | 1185 | L \<=> Cu10Zr7 | L: Zr 0.4118; Cu10Zr7: Zr 0.4118 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 6, row 8 |  |
 | 1184 | Cu2Zr = Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.333333; Cu8Zr3: Zr 0.272727; Cu10Zr7: Zr 0.411765 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 63 |  |
 | 1184 | δ + μ -> σ | δ: Zr 0.272727; σ: Zr 0.333333 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 43 |  |
 | 1184 | Liquid + Cu2Zr = Cu10Zr7 | Liquid: Zr 0.424; Cu2Zr: Zr 0.333333; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 49 |  |
-| 1184 | Eutectoid: Cu2Zr -> Cu8Zr3 + Cu10Zr7 | Cu2Zr: Cu 0.666667, Zr 0.333333; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 45 |  |
+| 1184 | eutectoid: Cu2Zr -> Cu8Zr3 + Cu10Zr7 | Cu2Zr: Cu 0.666667, Zr 0.333333; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 4, row 45 |  |
 | 1182 | Liquid + CuZr2 = Cu5Zr7 | CuZr2: Zr 0.666667; Cu5Zr7: Zr 0.583333 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 43 |  |
 | 1180 | Liquid = Cu10Zr7 + CuZr | Liquid: Zr 0.428; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 54 |  |
 | 1178 | Liquid = Cu10Zr7 + CuZr | Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 57 |  |
 | 1178 | Liq -> φ + B2 | φ: Zr 0.411765; B2: Zr 0.5 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 85 |  |
 | 1178 | L \<=> Cu10Zr7 + CuZr | Cu10Zr7: Zr 0.4118; CuZr: Zr 0.5 | experimental | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 6, row 12 |  |
-| 1178 | Eutectic: L -> Cu10Zr7 + CuZr | Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 3 |  |
-| 1177 | Eutectic: L -> Cu10Zr7 + Cu24Zr13 | L: Zr 0.355; Cu10Zr7: Cu 0.588235, Zr 0.411765; Cu24Zr13: Cu 0.65, Zr 0.35 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 38 |  |
+| 1178 | eutectic: L -> Cu10Zr7 + CuZr | Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 3 |  |
+| 1177 | eutectic: L -> Cu10Zr7 + Cu24Zr13 | L: Zr 0.355; Cu10Zr7: Cu 0.588235, Zr 0.411765; Cu24Zr13: Cu 0.65, Zr 0.35 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 38 |  |
 | 1177 | Liq -> μ + φ | μ: Zr 0.272727; φ: Zr 0.411765 | experimental | [6] Zhou 2010; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 7, p. 9, row 72 |  |
-| 1177 | Eutectic: Liquid \<-> Cu8Zr3 + Cu10Zr7 | Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Kneller 1986_ | Table 5, p. 9, row 47 |  |
+| 1177 | eutectic: Liquid \<-> Cu8Zr3 + Cu10Zr7 | Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Kneller 1986_ | Table 5, p. 9, row 47 |  |
 | 1177 | Liquid + Cu2Zr = Cu10Zr7 | Liquid: Zr 0.355; Cu2Zr: Zr 0.333333; Cu10Zr7: Zr 0.411765 | experimental | [5] Gierlotka 2011; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 3, p. 5, row 50 |  |
 | 1177 | L \<=> Cu8Zr3 + Cu10Zr7 | L: Zr 0.355; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Zr 0.4118 | experimental | [2] Turchanin 2008; _cites ref. 23_ | Table 2, p. 6, row 3 |  |
 | 1174 | μ -> φ + σ | φ: Zr 0.411765; σ: Zr 0.333333 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 73 |  |
 | 1170 | Liq -> σ + φ | L: Zr 0.409; σ: Zr 0.333333; φ: Zr 0.411765 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 63 |  |
-| 1170 | Congruent: L -> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 36 |  |
-| 1168 | Eutectoid: Cu24Zr13 -> Cu2Zr + Cu10Zr7 | Cu24Zr13: Zr 0.352; Cu2Zr: Cu 0.666667, Zr 0.333333; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 41 |  |
+| 1170 | congruent melting: L -> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 36 |  |
+| 1168 | eutectoid: Cu24Zr13 -> Cu2Zr + Cu10Zr7 | Cu24Zr13: Zr 0.352; Cu2Zr: Cu 0.666667, Zr 0.333333; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 41 |  |
 | 1168 | μ -> φ + σ | φ: Zr 0.411765; σ: Zr 0.333333 | experimental | [6] Zhou 2010; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 7, p. 9, row 75 |  |
-| 1168 | Congruent: Liquid \<-> Cu10Zr7 | L: Zr 0.4; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 10 |  |
-| 1168 | Congruent: L -> Cu10Zr7 | L: Zr 0.413; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 4, row 32 |  |
+| 1168 | congruent melting: Liquid \<-> Cu10Zr7 | L: Zr 0.4; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 10 |  |
+| 1168 | congruent melting: L -> Cu10Zr7 | L: Zr 0.413; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 4, row 32 |  |
 | 1168 | L \<=> Cu10Zr7 | L: Zr 0.4; Cu10Zr7: Zr 0.4 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 6, row 6 |  |
-| 1168 | Congruent: L -> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 34 |  |
+| 1168 | congruent melting: L -> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 4, row 34 |  |
 | 1167 | Liq -> φ + B2 | L: Zr 0.432; φ: Zr 0.411765; B2: Zr 0.5 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 81 |  |
-| 1167 | Eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.432; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 5 |  |
+| 1167 | eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.432; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 5 |  |
 | 1167 | Liquid = Cu10Zr7 + CuZr | Liquid: Zr 0.432; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 58 |  |
 | 1165 | L \<=> Cu10Zr7 | L: Zr 0.4118; Cu10Zr7: Zr 0.4118 | model | [2] Turchanin 2008 | Table 2, p. 6, row 9 |  |
-| 1164.2 | Eutectic: Liquid -> Cu8Zr3 + Cu10Zr7 | Cu8Zr3: Zr 0.273; Cu10Zr7: Zr 0.412; Liquid: Zr 0.408 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 5 |  |
-| 1164.2 | Congruent: Cu10Zr7 -> Liquid | Cu10Zr7: Zr 0.412; Liquid: Zr 0.412 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 6 |  |
+| 1164.2 | eutectic: Liquid -> Cu8Zr3 + Cu10Zr7 | Cu8Zr3: Zr 0.273; Cu10Zr7: Zr 0.412; Liquid: Zr 0.408 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 5 |  |
+| 1164.2 | congruent melting: Cu10Zr7 -> Liquid | Cu10Zr7: Zr 0.412; Liquid: Zr 0.412 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 6 |  |
 | 1164.2 | Liq -> δ + φ | L: Zr 0.408; δ: Zr 0.272727; φ: Zr 0.411765 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 76 |  |
 | 1164 | Liquid = Cu10Zr7 + CuZr | Liquid: Zr 0.44; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [5] Gierlotka 2011; _cites Lundin 1953_ | Table 3, p. 5, row 55 |  |
-| 1164 | Congruent: L -> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 35 |  |
+| 1164 | congruent melting: L -> Cu10Zr7 | L: Zr 0.412; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 1, p. 4, row 35 |  |
 | 1164 | L -> Cu8Zr3 + Cu10Zr7 | L: Zr 0.408; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [7] Zeng 1994 | Table 5, p. 4, row 23 |  |
-| 1163.2 | Eutectic: Liquid -> Cu10Zr7 + CuZr | Cu10Zr7: Zr 0.412; CuZr: Zr 0.5; Liquid: Zr 0.425 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 7 |  |
+| 1163.2 | eutectic: Liquid -> Cu10Zr7 + CuZr | Cu10Zr7: Zr 0.412; CuZr: Zr 0.5; Liquid: Zr 0.425 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 7 |  |
 | 1163.2 | Liq -> φ + B2 | L: Zr 0.425; φ: Zr 0.411765; B2: Zr 0.5 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 80 |  |
 | 1163 | L -> Cu10Zr7 + CuZr | L: Zr 0.425; Cu10Zr7: Cu 0.588235, Zr 0.411765; CuZr: Cu 0.5, Zr 0.5 | model | [7] Zeng 1994 | Table 5, p. 4, row 26 |  |
 | 1163 | L -> Cu10Zr7 + CuZr | L: Zr 0.44; Cu10Zr7: Cu 0.588235, Zr 0.411765; CuZr: Cu 0.5, Zr 0.5 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 25 |  |
-| 1163 | Eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.44; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 4 |  |
+| 1163 | eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.44; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 4 |  |
 | 1163 | Liquid = Cu10Zr7 + CuZr | Liquid: Zr 0.475; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [5] Gierlotka 2011; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 3, p. 5, row 56 |  |
-| 1163 | Eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.475; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 2 |  |
+| 1163 | eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.475; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 2 |  |
 | 1163 | L \<=> Cu10Zr7 + CuZr | L: Zr 0.44; Cu10Zr7: Zr 0.4; CuZr: Zr 0.5 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 6, row 10 |  |
 | 1163 | Liq -> φ + B2 | L: Zr 0.44; φ: Zr 0.411765; B2: Zr 0.5 | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 83 |  |
 | 1163 | Liq -> φ + B2 | L: Zr 0.475; φ: Zr 0.411765; B2: Zr 0.5 | experimental | [6] Zhou 2010; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 7, p. 9, row 84 |  |
-| 1163 | Eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.44; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 1 |  |
+| 1163 | eutectic: L -> Cu10Zr7 + CuZr | L: Zr 0.44; Cu10Zr7: Zr 0.411765; CuZr: Zr 0.5 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 1 |  |
 | 1163 | L -> Cu10Zr7 + CuZr | L: Zr 0.44; Cu10Zr7: Cu 0.588235, Zr 0.411765; CuZr: Cu 0.5, Zr 0.5 | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 5, p. 4, row 24 |  |
 | 1163 | L \<=> Cu10Zr7 + CuZr | L: Zr 0.475; Cu10Zr7: Zr 0.4118; CuZr: Zr 0.515 | experimental | [2] Turchanin 2008; _cites ref. 23_ | Table 2, p. 6, row 11 |  |
 | 1161 | L \<=> Cu8Zr3 + Cu10Zr7 | L: Zr 0.391; Cu8Zr3: Zr 0.2727; Cu10Zr7: Zr 0.4118 | model | [2] Turchanin 2008 | Table 2, p. 6, row 5 |  |
 | 1161 | L \<=> Cu10Zr7 + CuZr | L: Zr 0.433; Cu10Zr7: Zr 0.4118; CuZr: Zr 0.5 | model | [2] Turchanin 2008 | Table 2, p. 6, row 14 |  |
-| 1160 | Eutectoid: Cu2Zr -> Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.333; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006 | Table 1, p. 4, row 47 |  |
-| 1160 | Eutectoid: Cu2Zr -> Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.33; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 44 |  |
+| 1160 | eutectoid: Cu2Zr -> Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.333; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006 | Table 1, p. 4, row 47 |  |
+| 1160 | eutectoid: Cu2Zr -> Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.33; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 44 |  |
 | 1160 | σ -> φ + δ | σ: Zr 0.333333; φ: Zr 0.411765; δ: Zr 0.272727 | experimental | [6] Zhou 2010; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 7, p. 9, row 89 |  |
 | 1160 | Liq -> δ + φ | L: Zr 0.382; δ: Zr 0.272727; φ: Zr 0.411765 | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 77 |  |
 | 1160 | Cu2Zr = Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.333333; Cu8Zr3: Zr 0.272727; Cu10Zr7: Zr 0.411765 | experimental | [5] Gierlotka 2011; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 3, p. 5, row 62 |  |
@@ -609,10 +609,10 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 | 1158 | L -> Cu8Zr3 + Cu10Zr7 | L: Zr 0.382; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 22 |  |
 | 1158 | L -> Cu8Zr3 + Cu10Zr7 | L: Zr 0.382; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 5, p. 4, row 21 |  |
 | 1158 | L \<=> Cu8Zr3 + Cu10Zr7 | L: Zr 0.382; Cu8Zr3: Zr 0.29; Cu10Zr7: Zr 0.4 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 6, row 2 |  |
-| 1158 | Eutectic: Liquid \<-> Cu8Zr3 + Cu10Zr7 | L: Zr 0.382; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 46 |  |
+| 1158 | eutectic: Liquid \<-> Cu8Zr3 + Cu10Zr7 | L: Zr 0.382; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Lundin 1953_ | Table 5, p. 9, row 46 |  |
 | 1157 | σ -> φ + δ | σ: Zr 0.333333; φ: Zr 0.411765; δ: Zr 0.272727 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 86 |  |
 | 1150 | L \<=> Cu8Zr3 + Cu10Zr7 | L: Zr 0.42; Cu8Zr3: Zr 0.25; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [2] Turchanin 2008; _cites ref. 4_ | Table 2, p. 6, row 1 |  |
-| 1150 | Eutectic: Liquid \<-> Cu8Zr3 + Cu10Zr7 | L: Zr 0.42; Cu8Zr3: Zr 0.25; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Raub 1948_ | Table 5, p. 9, row 45 |  |
+| 1150 | eutectic: Liquid \<-> Cu8Zr3 + Cu10Zr7 | L: Zr 0.42; Cu8Zr3: Zr 0.25; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [1] Liu 2017; _cites Raub 1948_ | Table 5, p. 9, row 45 |  |
 | 1145 | L \<=> CuZr + CuZr2 | CuZr: Zr 0.5; CuZr2: Zr 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 7, row 2 |  |
 | 1143 | L \<=> Cu10Zr7 + CuZr | Cu10Zr7: Zr 0.4118; CuZr: Zr 0.5 | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 2, p. 6, row 13 |  |
 | 1124 | bcc -> C11b + hcp | C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 94 |  |
@@ -622,30 +622,30 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 | 1104 | σ -> φ + δ | σ: Zr 0.333333; φ: Zr 0.411765; δ: Zr 0.272727 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 87 |  |
 | 1104 | Cu2Zr = Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.333333; Cu8Zr3: Zr 0.272727; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 66 |  |
 | 1104 | Cu2Zr = Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.333333; Cu8Zr3: Zr 0.272727; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 64 |  |
-| 1104 | Eutectoid: Cu2Zr -> Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.33; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 46 |  |
+| 1104 | eutectoid: Cu2Zr -> Cu8Zr3 + Cu10Zr7 | Cu2Zr: Zr 0.33; Cu8Zr3: Cu 0.727273, Zr 0.272727; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 46 |  |
 | 1099 | BCC_A2 = CuZr2 + HCP_A3 | CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 71 |  |
 | 1097 | (βZr) \<=> CuZr2 + (αZr) | (βZr): Zr 0.983; CuZr2: Zr 0.6667; (αZr): Zr 0.9996 | model | [2] Turchanin 2008 | Table 2, p. 7, row 14 |  |
-| 1095.2 | Eutectoid: bcc-A2 -> CuZr2 + hcp-A3 | bcc-A2: Zr 0.975; CuZr2: Zr 0.667; hcp-A3: Zr 0.992 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 13 |  |
+| 1095.2 | eutectoid: bcc-A2 -> CuZr2 + hcp-A3 | bcc-A2: Zr 0.975; CuZr2: Zr 0.667; hcp-A3: Zr 0.992 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 13 |  |
 | 1095 | (βZr) -> CuZr2 + (αZr) | (βZr): Zr 0.978; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 5, p. 4, row 35 |  |
 | 1095 | BCC_A2 = CuZr2 + HCP_A3 | CuZr2: Zr 0.666667 | experimental | [5] Gierlotka 2011; _cites Lundin 1953_ | Table 3, p. 5, row 69 |  |
-| 1095 | Eutectoid: (βZr) -> CuZr2-l + (αZr) | (βZr): Zr 0.978; CuZr2-l: Zr 0.666667 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 39 |  |
+| 1095 | eutectoid: (βZr) -> CuZr2-l + (αZr) | (βZr): Zr 0.978; CuZr2-l: Zr 0.666667 | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 39 |  |
 | 1095 | bcc -> C11b + hcp | bcc: Zr 0.978; C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 93 |  |
 | 1095 | (βZr) -> CuZr2 + (αZr) | (βZr): Zr 0.978; CuZr2: Cu 0.333333, Zr 0.666667 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 36 |  |
-| 1095 | Eutectoid: (βZr) -> CuZr2-l + (αZr) | (βZr): Zr 0.978; CuZr2-l: Zr 0.666667 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 38 |  |
+| 1095 | eutectoid: (βZr) -> CuZr2-l + (αZr) | (βZr): Zr 0.978; CuZr2-l: Zr 0.666667 | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 38 |  |
 | 1095 | eutectoid: (βZr) → CuZr2 + (αZr) |  | experimental | [3] Wang 2006; _cites Lundin 1953_ | p. 2 | “A temperature of 1095 K and a (βZr) composition of 97.8 at.% Zr for the eutectoid reaction (βZr) → CuZr2 + (αZr) were established.” |
 | 1095 | (βZr) \<=> CuZr2 + (αZr) | (βZr): Zr 0.98; CuZr2: Zr 0.67 | experimental | [2] Turchanin 2008; _cites ref. 6_ | Table 2, p. 7, row 13 |  |
-| 1091 | Eutectoid: (βZr) -> CuZr2-l + (αZr) | (βZr): Zr 0.978; CuZr2-l: Zr 0.666667 | model | [3] Wang 2006 | Table 1, p. 5, row 40 |  |
+| 1091 | eutectoid: (βZr) -> CuZr2-l + (αZr) | (βZr): Zr 0.978; CuZr2-l: Zr 0.666667 | model | [3] Wang 2006 | Table 1, p. 5, row 40 |  |
 | 1091 | BCC_A2 = CuZr2 + HCP_A3 | CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 70 |  |
 | 1091 | bcc -> C11b + hcp | C11b: Zr 0.666667 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 92 |  |
 | 1089 | (βZr) -> CuZr2 + (αZr) | (βZr): Zr 0.976; CuZr2: Cu 0.333333, Zr 0.666667 | model | [7] Zeng 1994 | Table 5, p. 4, row 37 |  |
 | 1088.8 | bcc -> C11b + hcp | bcc: Zr 0.976; C11b: Zr 0.666667; hcp: Zr 0.996 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 91 |  |
 | 1086 | BCC_A2 = CuZr2 + HCP_A3 | CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 67 |  |
 | 1004 | CuZr = Cu10Zr7 + Cu5Zr7 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr7: Zr 0.583333 | experimental | [5] Gierlotka 2011; _cites Braga 1988_ | Table 3, p. 5, row 74 |  |
-| 1004 | Eutectoid: CuZr -> Cu10Zr7 + Cu5Zr8 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 28 |  |
+| 1004 | eutectoid: CuZr -> Cu10Zr7 + Cu5Zr8 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 28 |  |
 | 1003 | B2 -> φ + C11b | B2: Zr 0.5; φ: Zr 0.411765; C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 100 |  |
 | 1003 | CuZr = Cu10Zr7 + Cu5Zr7 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr7: Zr 0.583333 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 76 |  |
 | 1003 | B2 -> Cu5Zr8 + φ | B2: Zr 0.5; φ: Zr 0.411765 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 96 |  |
-| 1003 | Eutectoid: CuZr -> Cu10Zr7 + Cu5Zr8 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006 | Table 1, p. 5, row 30 |  |
+| 1003 | eutectoid: CuZr -> Cu10Zr7 + Cu5Zr8 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006 | Table 1, p. 5, row 30 |  |
 | 1002 | B2 -> φ + C11b | B2: Zr 0.5; φ: Zr 0.411765; C11b: Zr 0.666667 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 98 |  |
 | 995 | CuZr = Cu10Zr7 + Cu5Zr7 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr7: Zr 0.583333 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 72 |  |
 | 994 | CuZr = Cu10Zr7 + Cu5Zr7 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr7: Zr 0.583333 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 77 |  |
@@ -653,13 +653,13 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 | 988 | CuZr -> Cu10Zr7 + CuZr2 | CuZr: Zr 0.5; Cu10Zr7: Cu 0.588235, Zr 0.411765; CuZr2: Cu 0.333333, Zr 0.666667 | experimental | [7] Zeng 1994; _cites Carvalho 1980_ [doi](https://doi.org/10.1007/bf00551811) | Table 5, p. 4, row 38 |  |
 | 988 | CuZr -> Cu10Zr7 + CuZr2 | CuZr: Zr 0.5; Cu10Zr7: Cu 0.588235, Zr 0.411765; CuZr2: Cu 0.333333, Zr 0.666667 | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 5, p. 4, row 39 |  |
 | 987 | CuZr = Cu10Zr7 + Cu5Zr7 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr7: Zr 0.583333 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 75 |  |
-| 987 | Eutectoid: CuZr -> Cu10Zr7 + Cu5Zr8 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 29 |  |
+| 987 | eutectoid: CuZr -> Cu10Zr7 + Cu5Zr8 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr8: Zr 0.615385 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 29 |  |
 | 987 | B2 -> Cu5Zr8 + φ | B2: Zr 0.5; φ: Zr 0.411765 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 95 |  |
 | 985 | CuZr \<=> Cu10Zr7 + CuZr2 | CuZr: Zr 0.515; Cu10Zr7: Zr 0.4118; CuZr2: Zr 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 23_ | Table 2, p. 6, row 20 |  |
-| 985 | Eutectoid: CuZr -> Cu10Zr7 + Cu5Zr8 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 27 |  |
+| 985 | eutectoid: CuZr -> Cu10Zr7 + Cu5Zr8 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr8: Zr 0.615385 | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 27 |  |
 | 985 | CuZr = Cu10Zr7 + Cu5Zr7 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.411765; Cu5Zr7: Zr 0.583333 | experimental | [5] Gierlotka 2011; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 3, p. 5, row 73 |  |
 | 985 | CuZr \<=> Cu10Zr7 + CuZr2 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.4118; CuZr2: Zr 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 21_ | Table 2, p. 6, row 19 |  |
-| 985 | Eutectoid: Cu5Zr8 -> Cu10Zr7 + CuZr2-l | Cu5Zr8: Zr 0.615; Cu10Zr7: Zr 0.411765; CuZr2-l: Zr 0.666667 | model | [3] Wang 2006 | Table 1, p. 5, row 33 |  |
+| 985 | eutectoid: Cu5Zr8 -> Cu10Zr7 + CuZr2-l | Cu5Zr8: Zr 0.615; Cu10Zr7: Zr 0.411765; CuZr2-l: Zr 0.666667 | model | [3] Wang 2006 | Table 1, p. 5, row 33 |  |
 | 985 | Cu5Zr7 = Cu10Zr7 + CuZr2 | Cu5Zr7: Zr 0.583333; Cu10Zr7: Zr 0.411765; CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 81 |  |
 | 985 | CuZr \<=> Cu10Zr7 + CuZr2 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.4118; CuZr2: Zr 0.6667 | model | [2] Turchanin 2008 | Table 2, p. 6, row 21 |  |
 | 985 | B2 -> φ + C11b | B2: Zr 0.5; φ: Zr 0.411765; C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Carvalho 1980_ [doi](https://doi.org/10.1007/bf00551811) | Table 7, p. 9, row 101 |  |
@@ -668,11 +668,11 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 | 978 | Cu5Zr7 = Cu10Zr7 + CuZr2 | Cu5Zr7: Zr 0.583333; Cu10Zr7: Zr 0.411765; CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 78 |  |
 | 977 | CuZr -> Cu10Zr7 + CuZr2 | CuZr: Zr 0.5; Cu10Zr7: Cu 0.588235, Zr 0.411765; CuZr2: Cu 0.333333, Zr 0.666667 | model | [7] Zeng 1994 | Table 5, p. 4, row 40 |  |
 | 976.7 | B2 -> φ + C11b | B2: Zr 0.5; φ: Zr 0.411765; C11b: Zr 0.666667 | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 99 |  |
-| 976.7 | Eutectoid: CuZr -> Cu10Zr7 + CuZr2 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.412; CuZr2: Zr 0.667 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 8 |  |
-| 972 | Eutectoid: Cu5Zr8 -> Cu10Zr7 + CuZr2-l | Cu5Zr8: Zr 0.615; Cu10Zr7: Zr 0.411765; CuZr2-l: Zr 0.666667 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 32 |  |
+| 976.7 | eutectoid: CuZr -> Cu10Zr7 + CuZr2 | CuZr: Zr 0.5; Cu10Zr7: Zr 0.412; CuZr2: Zr 0.667 | unspecified | [4] Hämäläinen 1998 | Table I, p. 210, row 8 |  |
+| 972 | eutectoid: Cu5Zr8 -> Cu10Zr7 + CuZr2-l | Cu5Zr8: Zr 0.615; Cu10Zr7: Zr 0.411765; CuZr2-l: Zr 0.666667 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 32 |  |
 | 972 | Cu5Zr8 -> φ + C11b | φ: Zr 0.411765; C11b: Zr 0.666667 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 103 |  |
 | 972 | Cu5Zr7 = Cu10Zr7 + CuZr2 | Cu5Zr7: Zr 0.583333; Cu10Zr7: Zr 0.411765; CuZr2: Zr 0.666667 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 80 |  |
-| 970 | Eutectoid: Cu5Zr8 -> Cu10Zr7 + CuZr2-l | Cu5Zr8: Zr 0.615; Cu10Zr7: Zr 0.411765; CuZr2-l: Zr 0.666667 | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 31 |  |
+| 970 | eutectoid: Cu5Zr8 -> Cu10Zr7 + CuZr2-l | Cu5Zr8: Zr 0.615; Cu10Zr7: Zr 0.411765; CuZr2-l: Zr 0.666667 | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 31 |  |
 | 970 | Cu5Zr8 -> φ + C11b | φ: Zr 0.411765; C11b: Zr 0.666667 | experimental | [6] Zhou 2010; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 7, p. 9, row 105 |  |
 | 970 | eutectoid |  | experimental | [6] Zhou 2010; _cites Kneller 1986_ | p. 5 | “These observations are different from those of Kneller et al. \[29\] who reported that the Cu5Zr8 phase has a range of full stability above a eutectoid temperature of 970 K and that it can be retained at room temperature by quenching from this stable range.” |
 | 970 | Cu5Zr7 = Cu10Zr7 + CuZr2 | Cu5Zr7: Zr 0.583333; Cu10Zr7: Zr 0.411765; CuZr2: Zr 0.666667 | experimental | [5] Gierlotka 2011; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 3, p. 5, row 79 |  |
@@ -681,13 +681,13 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 | 888 | Cu8Zr3 = Cu51Zr14+Cu10Zr7 | Cu8Zr3: Zr 0.272727; Cu51Zr14: Zr 0.215385; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011 | Table 3, p. 5, row 24 |  |
 | 887 | δ -> β + φ | δ: Zr 0.272727; φ: Zr 0.411765 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 106 |  |
 | 886 | Cu8Zr3 = Cu51Zr14+Cu10Zr7 | Cu8Zr3: Zr 0.272727; Cu51Zr14: Zr 0.215385; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 3, p. 5, row 27 |  |
-| 886 | Eutectoid: Cu8Zr3 -> Cu51Zr14 + Cu10Zr7 | Cu8Zr3: Zr 0.27; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006 | Table 1, p. 4, row 50 |  |
+| 886 | eutectoid: Cu8Zr3 -> Cu51Zr14 + Cu10Zr7 | Cu8Zr3: Zr 0.27; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006 | Table 1, p. 4, row 50 |  |
 | 886 | Cu8Zr3 = Cu51Zr14+Cu10Zr7 | Cu8Zr3: Zr 0.272727; Cu51Zr14: Zr 0.215385; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011; _cites Kang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.12.013) | Table 3, p. 5, row 28 |  |
 | 886 | δ -> β + φ | δ: Zr 0.272727; φ: Zr 0.411765 | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 108 |  |
 | 885 | Cu8Zr3 = Cu51Zr14+Cu10Zr7 | Cu8Zr3: Zr 0.272727; Cu51Zr14: Zr 0.215385; Cu10Zr7: Zr 0.411765 | experimental | [5] Gierlotka 2011; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 3, p. 5, row 25 |  |
-| 885 | Eutectoid: Cu8Zr3 -> Cu51Zr14 + Cu10Zr7 | Cu8Zr3: Zr 0.273; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 48 |  |
+| 885 | eutectoid: Cu8Zr3 -> Cu51Zr14 + Cu10Zr7 | Cu8Zr3: Zr 0.273; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu10Zr7: Cu 0.588235, Zr 0.411765 | experimental | [3] Wang 2006; _cites Kneller 1986_ | Table 1, p. 4, row 48 |  |
 | 885 | δ -> β + φ | δ: Zr 0.272727; φ: Zr 0.411765 | experimental | [6] Zhou 2010; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 7, p. 9, row 109 |  |
-| 883 | Eutectoid: Cu8Zr3 -> Cu51Zr14 + Cu10Zr7 | Cu8Zr3: Zr 0.27; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 49 |  |
+| 883 | eutectoid: Cu8Zr3 -> Cu51Zr14 + Cu10Zr7 | Cu8Zr3: Zr 0.27; Cu51Zr14: Cu 0.784615, Zr 0.215385; Cu10Zr7: Cu 0.588235, Zr 0.411765 | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 4, row 49 |  |
 | 883 | δ -> β + φ | δ: Zr 0.272727; φ: Zr 0.411765 | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 107 |  |
 | 883 | Cu8Zr3 = Cu51Zr14+Cu10Zr7 | Cu8Zr3: Zr 0.272727; Cu51Zr14: Zr 0.215385; Cu10Zr7: Zr 0.411765 | model | [5] Gierlotka 2011; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 5, row 26 |  |
 | 864 | C15b -> fcc + β | C15b: Zr 0.166667 | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 110 |  |
@@ -702,7 +702,7 @@ Table: Invariant reactions reported in the literature for the Cu–Zr system (42
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cu–Zr system (94)
+Table: Enthalpies of formation, Cu–Zr system (80)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -727,12 +727,8 @@ Table: Enthalpies of formation, Cu–Zr system (94)
 | Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -11.23 kJ/mol-atom |  | model | -15.74 (mp-aaacrfmf) |  | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 3 |  |
 | Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -2.90594 kJ/mol-atom |  | model | -15.74 (mp-aaacrfmf) |  | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 4 |  |
 | Cu51Zr14-β | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -24.3 kJ/mol-atom | 0 | experimental | -15.74 (mp-aaacrfmf) |  | [6] Zhou 2010; _cites Meschel 2003_ | Table 2, p. 3, row 9 |  |
-| Cu51Zr14-β | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -24.3 kJ/mol-atom | 0 | experimental | -15.74 (mp-aaacrfmf) |  | [6] Zhou 2010; _cites Meschel 2003_ | Table 2, p. 3, row 9 |  |
-| Cu51Zr14-β |  | -20.24 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 6 |  |
 | Cu51Zr14-β |  | -20.24 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 6 |  |
 | Cu51Zr14-β | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -14.38 kJ/mol-atom | 0 | experimental | -15.74 (mp-aaacrfmf) |  | [6] Zhou 2010; _cites Weihs 1996_ | Table 2, p. 3, row 8 |  |
-| Cu51Zr14-β | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -14.38 kJ/mol-atom | 0 | experimental | -15.74 (mp-aaacrfmf) |  | [6] Zhou 2010; _cites Weihs 1996_ | Table 2, p. 3, row 8 |  |
-| Cu51Zr14-β |  | -8.64 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 7 |  |
 | Cu51Zr14-β |  | -8.64 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 7 |  |
 | Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -23.8 kJ/mol-atom | 1123 | unspecified | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 3 |  |
 | Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -10.389 kJ/mol-atom ± 0.077 | 1123 | experimental | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 2 |  |
@@ -741,10 +737,7 @@ Table: Enthalpies of formation, Cu–Zr system (94)
 | Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -8.7 kJ/mol-atom ± 1.9 | 1123 | experimental | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites ref. 34_ | Table 3, p. 10, row 1 |  |
 | Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -2.20724 kJ/mol-atom |  | model | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 1 |  |
 | Cu5Zr-C15b |  | -12.52 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 5 |  |
-| Cu5Zr-C15b |  | -12.52 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 5 |  |
 | Cu5Zr-C15b |  | -11.37 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 3 |  |
-| Cu5Zr-C15b |  | -11.37 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 3 |  |
-| Cu5Zr-C15b |  | -11.25 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 4 |  |
 | Cu5Zr-C15b |  | -11.25 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 4 |  |
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -16.2 kJ/mol-atom | 1123 | unspecified | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 10 |  |
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -15.816 kJ/mol-atom |  | model | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 7 |  |
@@ -752,7 +745,6 @@ Table: Enthalpies of formation, Cu–Zr system (94)
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -13.4603 kJ/mol-atom |  | model | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [7] Zeng 1994 | Table 1, p. 1, row 9 |  |
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -13.129 kJ/mol-atom ± 0.083 | 1123 | experimental | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 9 |  |
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -3.24593 kJ/mol-atom |  | model | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 8 |  |
-| Cu8Zr3-δ |  | -18.21 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 10 |  |
 | Cu8Zr3-δ |  | -18.21 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 10 |  |
 | CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24.4 kJ/mol-atom ± 0.96 | 1123 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites ref. 44_ | Table 3, p. 10, row 16 |  |
 | CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24.4 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [7] Zeng 1994; _cites 1 1982_ | Table 1, p. 1, row 18 |  |
@@ -789,16 +781,10 @@ Table: Enthalpies of formation, Cu–Zr system (94)
 | CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -10.95 kJ/mol-atom ± 0.69 | 1123 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 22 |  |
 | CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -10.95 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [7] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 22 |  |
 | CuZr2-C11b | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -17.3 kJ/mol-atom | 0 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [6] Zhou 2010; _cites Ansara 1982_ | Table 2, p. 3, row 22 |  |
-| CuZr2-C11b | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -17.3 kJ/mol-atom | 0 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [6] Zhou 2010; _cites Ansara 1982_ | Table 2, p. 3, row 22 |  |
-| CuZr2-C11b |  | -14.52 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 21 |  |
 | CuZr2-C11b |  | -14.52 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 21 |  |
 | CuZr2-C11b |  | -13.84 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 20 |  |
-| CuZr2-C11b |  | -13.84 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 20 |  |
-| CuZr2-C11b | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -10.95 kJ/mol-atom | 0 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [6] Zhou 2010; _cites Kleppa 1982_ | Table 2, p. 3, row 23 |  |
 | CuZr2-C11b | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -10.95 kJ/mol-atom | 0 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [6] Zhou 2010; _cites Kleppa 1982_ | Table 2, p. 3, row 23 |  |
 | fcc-Cu |  | 0 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 1 |  |
-| fcc-Cu |  | 0 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 1 |  |
-| hcp-Zr |  | 0 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 2 |  |
 | hcp-Zr |  | 0 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 2 |  |
 
 ## Other properties
@@ -817,38 +803,38 @@ Table: Phase transition, Cu–Zr system
 | Phase transition | 1170 K | 1170 | Liq -> φ; _L: Zr 0.411765; φ: Zr 0.411765_ | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 66 |  |
 | Phase transition | 1189 K | 1189 | peritectic: Cu10Zr7; _alloy: Zr 0.411765_ | model | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 6, p. 5, row 21 |  |
 | Phase transition | 1200 K | 1200 |  | experimental | [3] Wang 2006 | p. 2 | “The high and the low temperature modifications of the phase CuZr2 were observed with a transition near 1200 K.” |
-| Phase transition | 1200 K | 1200 | Allotropy: CuZr2-h -> CuZr2-l; _CuZr2-h: Zr 0.667; CuZr2-l: Zr 0.666667_ | model | [3] Wang 2006 | Table 1, p. 5, row 22 |  |
-| Phase transition | 1200 K | 1200 | Allotropy: CuZr2-h -> CuZr2-l; _CuZr2-h: Zr 0.667; CuZr2-l: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 20 |  |
 | Phase transition | 1200 K | 1200 | Liq -> φ; _L: Zr 0.411765; φ: Zr 0.411765_ | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 67 |  |
+| Phase transition | 1200 K | 1200 | polymorphic: CuZr2-h -> CuZr2-l; _CuZr2-h: Zr 0.667; CuZr2-l: Zr 0.666667_ | model | [3] Wang 2006 | Table 1, p. 5, row 22 |  |
+| Phase transition | 1200 K | 1200 | polymorphic: CuZr2-h -> CuZr2-l; _CuZr2-h: Zr 0.667; CuZr2-l: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Kneller 1986_ [doi](https://doi.org/10.1515/ijmr-1986-770109) | Table 1, p. 5, row 20 |  |
 | Phase transition | 1204 K | 1204 | Liq -> φ; _L: Zr 0.411765; φ: Zr 0.411765_ | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 64 |  |
 | Phase transition | 1204 K | 1204 | Liq -> φ; _L: Zr 0.411765; φ: Zr 0.411765_ | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 69 |  |
-| Phase transition | 1206 K | 1206 | Congruent: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 10 |  |
 | Phase transition | 1206 K | 1206 | Liq -> B2; _L: Zr 0.5; B2: Zr 0.5_ | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 46 |  |
-| Phase transition | 1208 K | 1208 | Congruent: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 7 |  |
-| Phase transition | 1208 K | 1208 | Congruent: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 9 |  |
+| Phase transition | 1206 K | 1206 | congruent melting: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 10 |  |
 | Phase transition | 1208 K | 1208 | Liq -> B2; _L: Zr 0.5; B2: Zr 0.5_ | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 48 |  |
 | Phase transition | 1208 K | 1208 | Liq -> B2; _L: Zr 0.5; B2: Zr 0.5_ | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 44 |  |
+| Phase transition | 1208 K | 1208 | congruent melting: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 7 |  |
+| Phase transition | 1208 K | 1208 | congruent melting: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 9 |  |
 | Phase transition | 1208.5 K | 1208.5 | Liq -> B2; _L: Zr 0.5; B2: Zr 0.5_ | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 45 |  |
 | Phase transition | 1218 K | 1218 | liquid $ CuZr ? CuZr2 | experimental | [1] Liu 2017 | p. 7 | “Combined the XRD and BEI analysis on the as-cast and annealed alloys, the first one with an onset at 1218 K corresponds to the invariant reaction liquid $ CuZr ? CuZr2.” |
-| Phase transition | 1226 K | 1226 | Congruent: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | model | [3] Wang 2006 | Table 1, p. 5, row 11 |  |
 | Phase transition | 1226 K | 1226 | Liq -> B2; _L: Zr 0.5; B2: Zr 0.5_ | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 47 |  |
+| Phase transition | 1226 K | 1226 | congruent melting: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | model | [3] Wang 2006 | Table 1, p. 5, row 11 |  |
 | Phase transition | 1229 K | 1229 | Liq -> B2; _L: Zr 0.5; B2: Zr 0.5_ | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 49 |  |
-| Phase transition | 1230 K | 1230 | Allotropy: CuZr2-h -> CuZr2-l; _CuZr2-h: Zr 0.667; CuZr2-l: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 21 |  |
-| Phase transition | 1233 K | 1233 | Congruent: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 8 |  |
-| Phase transition | 1273 K | 1273 | Congruent: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 17 |  |
-| Phase transition | 1273 K | 1273 | Congruent: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 15 |  |
+| Phase transition | 1230 K | 1230 | polymorphic: CuZr2-h -> CuZr2-l; _CuZr2-h: Zr 0.667; CuZr2-l: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 21 |  |
+| Phase transition | 1233 K | 1233 | congruent melting: L -> CuZr; _L: Zr 0.5; CuZr: Zr 0.5_ | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 8 |  |
 | Phase transition | 1273 K | 1273 | Liq -> C11b; _L: Zr 0.666667; C11b: Zr 0.666667_ | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 20 |  |
-| Phase transition | 1274 K | 1274 | Congruent: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 18 |  |
+| Phase transition | 1273 K | 1273 | congruent melting: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 1, p. 5, row 17 |  |
+| Phase transition | 1273 K | 1273 | congruent melting: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Lundin 1953_ | Table 1, p. 5, row 15 |  |
 | Phase transition | 1274 K | 1274 | Liq -> C11b; _L: Zr 0.666667; C11b: Zr 0.666667_ | model | [6] Zhou 2010; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 7, p. 9, row 18 |  |
+| Phase transition | 1274 K | 1274 | congruent melting: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | model | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 1, p. 5, row 18 |  |
 | Phase transition | 1274.9 K | 1274.9 | Liq -> C11b; _L: Zr 0.666667; C11b: Zr 0.666667_ | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 17 |  |
 | Phase transition | 1275 K | 1275 | Liq -> C11b; _L: Zr 0.666667; C11b: Zr 0.666667_ | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 16 |  |
-| Phase transition | 1275 K | 1275 | liquidus | experimental | [1] Liu 2017 | p. 7 | “The typical DSC curve of the annealed 3# alloy (Cu36Zr64) with a heating rate of 5 K/min is shown in Fig. 3. This curve shows two clearly visible peaks. Combined the XRD and BEI analysis on the as-cast and annealed alloys, the first one with an onset at 1218 K corresponds to the invariant reaction liquid $ CuZr ? CuZr2. The second one with a temperature of 1275 K is assigned to the liquidus.” |
-| Phase transition | 1285 K | 1285 | Congruent: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 16 |  |
-| Phase transition | 1286 K | 1286 | Congruent: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | model | [3] Wang 2006 | Table 1, p. 5, row 19 |  |
+| Phase transition | 1275 K | 1275 | other | experimental | [1] Liu 2017 | p. 7 | “The typical DSC curve of the annealed 3# alloy (Cu36Zr64) with a heating rate of 5 K/min is shown in Fig. 3. This curve shows two clearly visible peaks. Combined the XRD and BEI analysis on the as-cast and annealed alloys, the first one with an onset at 1218 K corresponds to the invariant reaction liquid $ CuZr ? CuZr2. The second one with a temperature of 1275 K is assigned to the liquidus.” |
+| Phase transition | 1285 K | 1285 | congruent melting: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | experimental | [3] Wang 2006; _cites Braga 1998_ | Table 1, p. 5, row 16 |  |
 | Phase transition | 1286 K | 1286 | Liq -> C11b; _L: Zr 0.666667; C11b: Zr 0.666667_ | model | [6] Zhou 2010; _cites Wang 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.06.002) | Table 7, p. 9, row 19 |  |
+| Phase transition | 1286 K | 1286 | congruent melting: L -> CuZr2-h; _L: Zr 0.667; CuZr2-h: Zr 0.666667_ | model | [3] Wang 2006 | Table 1, p. 5, row 19 |  |
 | Phase transition | 1299 K | 1299 | Liq -> C11b; _L: Zr 0.666667; C11b: Zr 0.666667_ | experimental | [6] Zhou 2010; _cites Braga 1998_ | Table 7, p. 9, row 21 |  |
 | Phase transition | 1373 K | 1373 | Liq -> β | experimental | [6] Zhou 2010; _cites Lundin 1953_ | Table 7, p. 9, row 5 |  |
-| Phase transition | 1373 K | 1373 | liquidus | model | [7] Zeng 1994 | p. 8 | “As these compositions are very close to the liquidus of Cu51Zr\]4 (the calculated liquidus at 1373 K is about N17 at.% Zr), it could be reasonably supposed that the measured heat effects for these compositions of samples bad included the enthalpy of formation of a small amount of solid phase Cu 5l Zrl4.” |
+| Phase transition | 1373 K | 1373 | other | model | [7] Zeng 1994 | p. 8 | “As these compositions are very close to the liquidus of Cu51Zr\]4 (the calculated liquidus at 1373 K is about N17 at.% Zr), it could be reasonably supposed that the measured heat effects for these compositions of samples bad included the enthalpy of formation of a small amount of solid phase Cu 5l Zrl4.” |
 | Phase transition | 1377 K | 1377 | Liq -> β | experimental | [6] Zhou 2010; _cites Kuznetsov 1978_ | Table 7, p. 9, row 8 |  |
 | Phase transition | 1382 K | 1382 | Liq -> β | unspecified | [6] Zhou 2010 | Table 7, p. 9, row 1 |  |
 | Phase transition | 1385.7 K | 1385.7 | Liq -> β | model | [6] Zhou 2010; _cites Zeng 1994_ [doi](https://doi.org/10.1007/bf02647618) | Table 7, p. 9, row 2 |  |
@@ -871,27 +857,27 @@ Table: Phase equilibrium, Cu–Zr system
 | Phase composition |  | 1123.15 | CuZr + CuZr2; _CuZr: Cu 0.509, Zr 0.491; CuZr2: Cu 0.352, Zr 0.648_ | experimental | [1] Liu 2017 | Table 3, p. 4, row 2 |  |
 | Phase composition |  | 1123.15 | CuZr + CuZr2; _CuZr: Cu 0.502, Zr 0.498; CuZr2: Cu 0.347, Zr 0.653_ | experimental | [1] Liu 2017 | Table 3, p. 4, row 3 |  |
 | Phase composition |  | 1123.15 | CuZr2 + (αZr); _CuZr2: Cu 0.341, Zr 0.659; (αZr): Cu 0.025, Zr 0.975_ | experimental | [1] Liu 2017 | Table 3, p. 4, row 4 |  |
-| Phase composition |  | 1164.4 | congruent: Cu10Zr7; _liquid: Zr 0.411765; Cu10Zr7: Zr 0.411765_ | model | [7] Zeng 1994 | Table 6, p. 5, row 22 |  |
-| Phase composition |  | 1168 | congruent: Cu10Zr7; _liquid: Zr 0.411765; Cu10Zr7: Zr 0.411765_ | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 6, p. 5, row 20 |  |
-| Phase composition |  | 1168 | congruent: Cu10Zr7; _liquid: Zr 0.411765; Cu10Zr7: Zr 0.411765_ | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 6, p. 5, row 19 |  |
-| Phase composition |  | 1201 | congruent: CuZr; _liquid: Zr 0.5; CuZr: Zr 0.5_ | model | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 6, p. 5, row 12 |  |
-| Phase composition |  | 1208 | congruent: CuZr; _liquid: Zr 0.5; CuZr: Zr 0.5_ | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 6, p. 5, row 10 |  |
-| Phase composition |  | 1208 | congruent: CuZr; _liquid: Zr 0.5; CuZr: Zr 0.5_ | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 6, p. 5, row 11 |  |
-| Phase composition |  | 1209 | congruent: CuZr; _liquid: Zr 0.5; CuZr: Zr 0.5_ | model | [7] Zeng 1994 | Table 6, p. 5, row 13 |  |
-| Phase composition |  | 1273 | congruent: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 6, p. 5, row 15 |  |
-| Phase composition |  | 1273 | congruent: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 6, p. 5, row 16 |  |
-| Phase composition |  | 1275 | congruent: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | model | [7] Zeng 1994 | Table 6, p. 5, row 18 |  |
-| Phase composition |  | 1284 | congruent: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | model | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 6, p. 5, row 17 |  |
-| Phase composition |  | 1338 | congruent: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | experimental | [7] Zeng 1994; _cites Auguston 1950_ | Table 6, p. 5, row 14 |  |
-| Phase composition |  | 1373 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 6, p. 5, row 1 |  |
-| Phase composition |  | 1377 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Kuznetsov 1978_ | Table 6, p. 5, row 6 |  |
-| Phase composition |  | 1385 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Raub 1948_ | Table 6, p. 5, row 5 |  |
-| Phase composition |  | 1386 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | model | [7] Zeng 1994 | Table 6, p. 5, row 9 |  |
-| Phase composition |  | 1386 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Perry 1972_ | Table 6, p. 5, row 2 |  |
-| Phase composition |  | 1388 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 6, p. 5, row 3 |  |
-| Phase composition |  | 1388 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 6, p. 5, row 7 |  |
-| Phase composition |  | 1395 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | model | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 6, p. 5, row 8 |  |
-| Phase composition |  | 1413 | congruent: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Pogodin 1940_ | Table 6, p. 5, row 4 |  |
+| Phase composition |  | 1164.4 | congruent melting: Cu10Zr7; _liquid: Zr 0.411765; Cu10Zr7: Zr 0.411765_ | model | [7] Zeng 1994 | Table 6, p. 5, row 22 |  |
+| Phase composition |  | 1168 | congruent melting: Cu10Zr7; _liquid: Zr 0.411765; Cu10Zr7: Zr 0.411765_ | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 6, p. 5, row 20 |  |
+| Phase composition |  | 1168 | congruent melting: Cu10Zr7; _liquid: Zr 0.411765; Cu10Zr7: Zr 0.411765_ | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 6, p. 5, row 19 |  |
+| Phase composition |  | 1201 | congruent melting: CuZr; _liquid: Zr 0.5; CuZr: Zr 0.5_ | model | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 6, p. 5, row 12 |  |
+| Phase composition |  | 1208 | congruent melting: CuZr; _liquid: Zr 0.5; CuZr: Zr 0.5_ | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 6, p. 5, row 10 |  |
+| Phase composition |  | 1208 | congruent melting: CuZr; _liquid: Zr 0.5; CuZr: Zr 0.5_ | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 6, p. 5, row 11 |  |
+| Phase composition |  | 1209 | congruent melting: CuZr; _liquid: Zr 0.5; CuZr: Zr 0.5_ | model | [7] Zeng 1994 | Table 6, p. 5, row 13 |  |
+| Phase composition |  | 1273 | congruent melting: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 6, p. 5, row 15 |  |
+| Phase composition |  | 1273 | congruent melting: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 6, p. 5, row 16 |  |
+| Phase composition |  | 1275 | congruent melting: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | model | [7] Zeng 1994 | Table 6, p. 5, row 18 |  |
+| Phase composition |  | 1284 | congruent melting: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | model | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 6, p. 5, row 17 |  |
+| Phase composition |  | 1338 | congruent melting: CuZr2; _liquid: Zr 0.666667; CuZr2: Zr 0.666667_ | experimental | [7] Zeng 1994; _cites Auguston 1950_ | Table 6, p. 5, row 14 |  |
+| Phase composition |  | 1373 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Lundin 1953_ | Table 6, p. 5, row 1 |  |
+| Phase composition |  | 1377 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Kuznetsov 1978_ | Table 6, p. 5, row 6 |  |
+| Phase composition |  | 1385 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Raub 1948_ | Table 6, p. 5, row 5 |  |
+| Phase composition |  | 1386 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | model | [7] Zeng 1994 | Table 6, p. 5, row 9 |  |
+| Phase composition |  | 1386 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Perry 1972_ | Table 6, p. 5, row 2 |  |
+| Phase composition |  | 1388 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Glimois 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990279-6) | Table 6, p. 5, row 3 |  |
+| Phase composition |  | 1388 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | model | [7] Zeng 1994; _cites Arias 1990_ [doi](https://doi.org/10.1007/bf02898260) | Table 6, p. 5, row 7 |  |
+| Phase composition |  | 1395 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | model | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 6, p. 5, row 8 |  |
+| Phase composition |  | 1413 | congruent melting: Cu51Zr14; _liquid: Zr 0.215385; Cu51Zr14: Zr 0.215385_ | experimental | [7] Zeng 1994; _cites Pogodin 1940_ | Table 6, p. 5, row 4 |  |
 
 ### Formation (12)
 

@@ -153,51 +153,51 @@ Table: Mixing / partial, Cu–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ⌬H_ | 11.8 kJ mol-1 | 1673 |  | model | [2] Turchanin 2003 | p. 8 | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
-| Enthalpy of mixing; _printed: ΔH_ | 2900 J/mol (basis unstated) ± 100 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 5300 J/mol (basis unstated) ± 200 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: ⌬H_ | 11 kJ mol-1 | 1873 |  | model | [2] Turchanin 2003 | p. 8 | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
+| Enthalpy of mixing; _printed: ⌬H_ | 11.8 kJ/mol (basis unstated) | 1673 |  | model | [2] Turchanin 2003 | p. 8 | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
+| Enthalpy of mixing; _printed: ΔH_ | 2.9 kJ/mol (basis unstated) ± 0.1 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 5.3 kJ/mol (basis unstated) ± 0.2 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: ⌬H_ | 11 kJ/mol (basis unstated) | 1873 |  | model | [2] Turchanin 2003 | p. 8 | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
 | Enthalpy of mixing; _printed: ⌬H_ | 10.8 unspecified ± 0.7 | 1873 |  | experimental | [2] Turchanin 2003 | p. 2 | “Those measurements were carried out at 1873 K and covered the whole range of concentrations. As can be seen from Fig. 1, our results are in good agreement with the data of \[1967Woo, 1971Toz, 1981Yas\]. Thus, according to our work, ⌬H reaches a maximum value of 10.8 ± 0.7 kJ mol-1 at xCu ⳱ 0.43.” |
-| Enthalpy of mixing; _printed: ΔH_ | 3300 J/mol (basis unstated) ± 300 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 10800 J/mol (basis unstated) ± 600 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 6000 J/mol (basis unstated) ± 500 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 8100 J/mol (basis unstated) ± 600 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 5000 J/mol (basis unstated) ± 200 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 8200 J/mol (basis unstated) ± 300 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 10600 J/mol (basis unstated) ± 900 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 9700 J/mol (basis unstated) ± 800 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 10100 J/mol (basis unstated) ± 400 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0.24 kJ mol−1 ± 0.07 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 53.4 kJ mol−1 ± 2.5 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ mol−1 | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 62.7 kJ mol−1 ± 2.8 | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0.91 kJ mol−1 ± 0.4 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 45.1 kJ mol−1 ± 3 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 0.3 kJ mol−1 ± 0.03 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 30.3 kJ mol−1 ± 2.8 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 4.8 kJ mol−1 ± 0.4 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 12.3 kJ mol−1 ± 1 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 59.4 kJ mol−1 ± 3.3 | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ mol−1 | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 1.2 kJ mol−1 ± 0.1 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 25.3 kJ mol−1 ± 1.9 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 21.1 kJ mol−1 ± 1.5 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 2.6 kJ mol−1 ± 0.3 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 41.4 kJ mol−1 ± 1.9 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 0.9 kJ mol−1 ± 0.02 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 3.2 kJ mol−1 ± 0.1 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 28.2 kJ mol−1 ± 1.2 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 7.8 kJ mol−1 ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 13.5 kJ mol−1 ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 17.2 kJ mol−1 ± 1.2 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 4.7 kJ mol−1 ± 0.5 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 18.8 kJ mol−1 ± 1 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 6.3 kJ mol−1 ± 0.2 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
-| Partial enthalpy; _printed: ΔH̄Fe_ | 0 kJ mol−1 | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
-| Partial enthalpy; _printed: ΔH̄Cu_ | 36.6 kJ mol−1 ± 3.9 | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 3.3 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 10.8 kJ/mol (basis unstated) ± 0.6 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 6 kJ/mol (basis unstated) ± 0.5 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 8.1 kJ/mol (basis unstated) ± 0.6 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 5 kJ/mol (basis unstated) ± 0.2 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 8.2 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 10.6 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 9.7 kJ/mol (basis unstated) ± 0.8 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 10.1 kJ/mol (basis unstated) ± 0.4 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0.24 kJ/mol (basis unstated) ± 0.07 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 53.4 kJ/mol (basis unstated) ± 2.5 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ/mol (basis unstated) | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 62.7 kJ/mol (basis unstated) ± 2.8 | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0.91 kJ/mol (basis unstated) ± 0.4 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 45.1 kJ/mol (basis unstated) ± 3 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 0.3 kJ/mol (basis unstated) ± 0.03 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 30.3 kJ/mol (basis unstated) ± 2.8 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 4.8 kJ/mol (basis unstated) ± 0.4 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 12.3 kJ/mol (basis unstated) ± 1 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 59.4 kJ/mol (basis unstated) ± 3.3 | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 1.2 kJ/mol (basis unstated) ± 0.1 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 25.3 kJ/mol (basis unstated) ± 1.9 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 21.1 kJ/mol (basis unstated) ± 1.5 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 2.6 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 41.4 kJ/mol (basis unstated) ± 1.9 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 0.9 kJ/mol (basis unstated) ± 0.02 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 3.2 kJ/mol (basis unstated) ± 0.1 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 28.2 kJ/mol (basis unstated) ± 1.2 | 1873 | liquid; _alloy: Cu 0.8, Fe 0.2_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 6 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 7.8 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 13.5 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 17.2 kJ/mol (basis unstated) ± 1.2 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 4.7 kJ/mol (basis unstated) ± 0.5 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 18.8 kJ/mol (basis unstated) ± 1 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 6.3 kJ/mol (basis unstated) ± 0.2 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
+| Partial enthalpy; _printed: ΔH̄Fe_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
+| Partial enthalpy; _printed: ΔH̄Cu_ | 36.6 kJ/mol (basis unstated) ± 3.9 | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
 
 ### Heat capacity / entropy / enthalpy (2)
 

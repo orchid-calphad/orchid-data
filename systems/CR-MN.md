@@ -81,14 +81,14 @@ Table: Invariant reactions reported in the literature for the Cr–Mn system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1598.4 | Peritectic: Liquid + bcc-A2 -> σ-H | L: Mn 0.813; bcc-A2: Mn 0.717; σ-H: Mn 0.755 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 3 |  |
-| 1556.2 | Peritectic: Liquid + σ-H -> bcc-A2 | L: Mn 0.876; σ-H: Mn 0.794; bcc-A2: Mn 0.831 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 4 |  |
-| 1382.1 | Peritectoid: bcc-A2 + fcc-A1 -> cub-A13 | bcc-A2: Mn 0.898; fcc-A1: Mn 0.993; cub-A13: Mn 0.913 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 6 |  |
-| 1293.6 | Eutectoid: bcc-A2 -> cub-A13 + σ-H | bcc-A2: Mn 0.88; cub-A13: Mn 0.873; σ-H: Mn 0.894 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 5 |  |
-| 1268.1 | Eutectoid: σ-H -> bcc-A2 + σ-L | σ-H: Mn 0.758; bcc-A2: Mn 0.683; σ-L: Mn 0.76 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 2 |  |
-| 1264.4 | Eutectoid: σ-H -> σ-L + cub-A13 | σ-H: Mn 0.815; σ-L: Mn 0.811; cub-A13: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 7 |  |
-| 1197.8 | Peritectoid: bcc-A2 + σ-L -> Cr3Mn5 | bcc-A2: Mn 0.57; σ-L: Mn 0.719; Cr3Mn5: Mn 0.625 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 1 |  |
-| 1117.4 | Peritectoid: σ-L + cub-A13 -> cbcc-A12 | σ-L: Mn 0.812; cub-A13: Mn 0.934; cbcc-A12: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 8 |  |
+| 1598.4 | peritectic: Liquid + bcc-A2 -> σ-H | L: Mn 0.813; bcc-A2: Mn 0.717; σ-H: Mn 0.755 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 3 |  |
+| 1556.2 | peritectic: Liquid + σ-H -> bcc-A2 | L: Mn 0.876; σ-H: Mn 0.794; bcc-A2: Mn 0.831 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 4 |  |
+| 1382.1 | peritectoid: bcc-A2 + fcc-A1 -> cub-A13 | bcc-A2: Mn 0.898; fcc-A1: Mn 0.993; cub-A13: Mn 0.913 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 6 |  |
+| 1293.6 | eutectoid: bcc-A2 -> cub-A13 + σ-H | bcc-A2: Mn 0.88; cub-A13: Mn 0.873; σ-H: Mn 0.894 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 5 |  |
+| 1268.1 | eutectoid: σ-H -> bcc-A2 + σ-L | σ-H: Mn 0.758; bcc-A2: Mn 0.683; σ-L: Mn 0.76 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 2 |  |
+| 1264.4 | eutectoid: σ-H -> σ-L + cub-A13 | σ-H: Mn 0.815; σ-L: Mn 0.811; cub-A13: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 7 |  |
+| 1197.8 | peritectoid: bcc-A2 + σ-L -> Cr3Mn5 | bcc-A2: Mn 0.57; σ-L: Mn 0.719; Cr3Mn5: Mn 0.625 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 1 |  |
+| 1117.4 | peritectoid: σ-L + cub-A13 -> cbcc-A12 | σ-L: Mn 0.812; cub-A13: Mn 0.934; cbcc-A12: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 8 |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Mg–Sn system
 
-> Mg–Sn system: 45 accepted literature values (invariant reaction 21, mixing / partial 12, phase transition 12) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Sn system: 41 accepted literature values (invariant reaction 21, phase transition 12, mixing / partial 8) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SN.html · Markdown: https://data.orchid-project.org/systems/MG-SN.md
 
-45 accepted literature values from 3 paper(s) (experimental 27, model 18); 5 calculated phase diagram(s).
+41 accepted literature values from 3 paper(s) (experimental 27, model 14); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SN.json) · [CSV](https://data.orchid-project.org/systems/MG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SN/MgSn-04Fri.json) · [Markdown](https://data.orchid-project.org/systems/MG-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 27 |
-| model | 18 |
+| model | 14 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 21 |
 | phase transition | 12 |
-| mixing / partial | 12 |
+| mixing / partial | 8 |
 
 ## Calculated phase diagrams
 
@@ -64,27 +64,27 @@ Table: Invariant reactions reported in the literature for the Mg–Sn system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 854 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.12; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Kurnakow 1905_ [doi](https://doi.org/10.1002/zaac.19050460112) | Table 2, p. 4, row 2 |  |
-| 840 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.107; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Nayak 1969_ | Table 2, p. 4, row 6 |  |
-| 839 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.105; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Nayak 1968_ | Table 2, p. 4, row 5 |  |
-| 838 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.116; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Grube 1905_ | Table 2, p. 4, row 1 |  |
+| 854 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.12; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Kurnakow 1905_ [doi](https://doi.org/10.1002/zaac.19050460112) | Table 2, p. 4, row 2 |  |
+| 840 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.107; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Nayak 1969_ | Table 2, p. 4, row 6 |  |
+| 839 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.105; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Nayak 1968_ | Table 2, p. 4, row 5 |  |
+| 838 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.116; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Grube 1905_ | Table 2, p. 4, row 1 |  |
 | 836.15 | eutectic: L -> (Mg) + Mg2Sn |  | experimental | [2] Kozlov 2008 | p. 2 | “There are two eutectic reactions: one is L 4 (Mg) þ Mg2Sn at 563 C on the Mg-rich side and the other is L 4 bSn þ Mg2Sn at 204 C on the Sn-rich side.” |
-| 834 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.118; Mg2Sn: Sn 0.333333 | model | [1] Meng 2010 | Table 2, p. 4, row 11 |  |
-| 834 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.11; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Steiner 1964_ | Table 2, p. 4, row 7 |  |
-| 834 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.105; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Hume-Rothery 1926_ | Table 2, p. 4, row 3 |  |
-| 834 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.107; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Raynor 1940_ | Table 2, p. 4, row 4 |  |
-| 834 | Eutectic: L -> hcp(Mg) + Mg2Sn | Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Vosskuhler 1941_ | Table 2, p. 4, row 9 |  |
-| 834 | Eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.112; Mg2Sn: Sn 0.333333 | model | [1] Meng 2010; _cites Fries 1993_ [doi](https://doi.org/10.1051/jcp/1993900181) | Table 2, p. 4, row 10 |  |
-| 833 | Eutectic: L -> hcp(Mg) + Mg2Sn | Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400806) | Table 2, p. 4, row 8 |  |
-| 482 | Eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.889; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Grube 1905_ | Table 2, p. 4, row 22 |  |
+| 834 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.118; Mg2Sn: Sn 0.333333 | model | [1] Meng 2010 | Table 2, p. 4, row 11 |  |
+| 834 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.11; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Steiner 1964_ | Table 2, p. 4, row 7 |  |
+| 834 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.105; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Hume-Rothery 1926_ | Table 2, p. 4, row 3 |  |
+| 834 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.107; Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Raynor 1940_ | Table 2, p. 4, row 4 |  |
+| 834 | eutectic: L -> hcp(Mg) + Mg2Sn | Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Vosskuhler 1941_ | Table 2, p. 4, row 9 |  |
+| 834 | eutectic: L -> hcp(Mg) + Mg2Sn | L: Sn 0.112; Mg2Sn: Sn 0.333333 | model | [1] Meng 2010; _cites Fries 1993_ [doi](https://doi.org/10.1051/jcp/1993900181) | Table 2, p. 4, row 10 |  |
+| 833 | eutectic: L -> hcp(Mg) + Mg2Sn | Mg2Sn: Sn 0.333333 | experimental | [1] Meng 2010; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400806) | Table 2, p. 4, row 8 |  |
+| 482 | eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.889; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Grube 1905_ | Table 2, p. 4, row 22 |  |
 | 477.15 | eutectic: L -> bSn + Mg2Sn |  | experimental | [2] Kozlov 2008 | p. 2 | “There are two eutectic reactions: one is L 4 (Mg) þ Mg2Sn at 563 C on the Mg-rich side and the other is L 4 bSn þ Mg2Sn at 204 C on the Sn-rich side.” |
-| 477 | Eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.915; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Kurnakow 1905_ [doi](https://doi.org/10.1002/zaac.19050460112) | Table 2, p. 4, row 23 |  |
-| 477 | Eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.905; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | model | [1] Meng 2010 | Table 2, p. 4, row 29 |  |
-| 476 | Eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.904; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Steiner 1964_ | Table 2, p. 4, row 27 |  |
-| 476 | Eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.908; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | model | [1] Meng 2010; _cites Fries 1993_ [doi](https://doi.org/10.1051/jcp/1993900181) | Table 2, p. 4, row 28 |  |
-| 473 | Eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.903; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Hume-Rothery 1926_ | Table 2, p. 4, row 24 |  |
-| 471 | Eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.914; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Nayak 1969_ | Table 2, p. 4, row 26 |  |
-| 471 | Eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.914; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Nayak 1968_ | Table 2, p. 4, row 25 |  |
+| 477 | eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.915; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Kurnakow 1905_ [doi](https://doi.org/10.1002/zaac.19050460112) | Table 2, p. 4, row 23 |  |
+| 477 | eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.905; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | model | [1] Meng 2010 | Table 2, p. 4, row 29 |  |
+| 476 | eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.904; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Steiner 1964_ | Table 2, p. 4, row 27 |  |
+| 476 | eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.908; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | model | [1] Meng 2010; _cites Fries 1993_ [doi](https://doi.org/10.1051/jcp/1993900181) | Table 2, p. 4, row 28 |  |
+| 473 | eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.903; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Hume-Rothery 1926_ | Table 2, p. 4, row 24 |  |
+| 471 | eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.914; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Nayak 1969_ | Table 2, p. 4, row 26 |  |
+| 471 | eutectic: L -> Mg2Sn + bct(Sn) | L: Sn 0.914; Mg2Sn: Sn 0.333333; bct(Sn): Sn 1 | experimental | [1] Meng 2010; _cites Nayak 1968_ | Table 2, p. 4, row 25 |  |
 
 ## Other properties
 
@@ -94,37 +94,33 @@ Table: Phase transition, Mg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1043 K | 1043 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Eckert 1983_ [doi](https://doi.org/10.1007/bf02654364) | Table 2, p. 4, row 19 |  |
-| Phase transition | 1043 K | 1043 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | model | [1] Meng 2010 | Table 2, p. 4, row 21 |  |
-| Phase transition | 1043 K | 1043 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Egan 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990111-1) | Table 2, p. 4, row 18 |  |
-| Phase transition | 1043 K | 1043 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | model | [1] Meng 2010; _cites Fries 1993_ [doi](https://doi.org/10.1051/jcp/1993900181) | Table 2, p. 4, row 20 |  |
-| Phase transition | 1043.65 K | 1043.65 | congruent | experimental | [3] Morioka 1999 | p. 6 | “Two eutectic points at 561.2 °C in the Mg-rich side and 203.5 °C in the Sn-rich side One congruent melting point of Mg2Sn at 770.5 °C” |
-| Phase transition | 1044 K | 1044 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Steiner 1964_ | Table 2, p. 4, row 17 |  |
-| Phase transition | 1047.15 K | 1047.15 | congruent | experimental | [2] Kozlov 2008 | p. 2 | “The congruent melting of Mg2Sn occurs at 774 C.” |
-| Phase transition | 1051 K | 1051 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Nayak 1969_ | Table 2, p. 4, row 16 |  |
-| Phase transition | 1051 K | 1051 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Hume-Rothery 1926_ | Table 2, p. 4, row 14 |  |
-| Phase transition | 1053 K | 1053 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Nayak 1968_ | Table 2, p. 4, row 15 |  |
-| Phase transition | 1056 K | 1056 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Grube 1905_ | Table 2, p. 4, row 12 |  |
-| Phase transition | 1068 K | 1068 | Congruent: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Kurnakow 1905_ [doi](https://doi.org/10.1002/zaac.19050460112) | Table 2, p. 4, row 13 |  |
+| Phase transition | 1043 K | 1043 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Eckert 1983_ [doi](https://doi.org/10.1007/bf02654364) | Table 2, p. 4, row 19 |  |
+| Phase transition | 1043 K | 1043 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | model | [1] Meng 2010 | Table 2, p. 4, row 21 |  |
+| Phase transition | 1043 K | 1043 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Egan 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990111-1) | Table 2, p. 4, row 18 |  |
+| Phase transition | 1043 K | 1043 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | model | [1] Meng 2010; _cites Fries 1993_ [doi](https://doi.org/10.1051/jcp/1993900181) | Table 2, p. 4, row 20 |  |
+| Phase transition | 1043.65 K | 1043.65 | congruent transformation | experimental | [3] Morioka 1999 | p. 6 | “Two eutectic points at 561.2 °C in the Mg-rich side and 203.5 °C in the Sn-rich side One congruent melting point of Mg2Sn at 770.5 °C” |
+| Phase transition | 1044 K | 1044 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Steiner 1964_ | Table 2, p. 4, row 17 |  |
+| Phase transition | 1047.15 K | 1047.15 | congruent melting | experimental | [2] Kozlov 2008 | p. 2 | “The congruent melting of Mg2Sn occurs at 774 C.” |
+| Phase transition | 1051 K | 1051 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Nayak 1969_ | Table 2, p. 4, row 16 |  |
+| Phase transition | 1051 K | 1051 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Hume-Rothery 1926_ | Table 2, p. 4, row 14 |  |
+| Phase transition | 1053 K | 1053 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Nayak 1968_ | Table 2, p. 4, row 15 |  |
+| Phase transition | 1056 K | 1056 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Grube 1905_ | Table 2, p. 4, row 12 |  |
+| Phase transition | 1068 K | 1068 | congruent melting: L -> Mg2Sn; _L: Sn 0.333; Mg2Sn: Sn 0.333333_ | experimental | [1] Meng 2010; _cites Kurnakow 1905_ [doi](https://doi.org/10.1002/zaac.19050460112) | Table 2, p. 4, row 13 |  |
 
-### Mixing / partial (12)
+### Mixing / partial (8)
 
 Table: Mixing / partial, Mg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH_ | -9479 J/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9479 J/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6692 J/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -12338 J/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9479 J/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 2960 J/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6950 J/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4908 J/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8736 J/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6950 J/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | 9347 J/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6950 J/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.479 kJ/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.692 kJ/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -12.338 kJ/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 2.96 kJ/mol (basis unstated) | 1100.15 | Liquid | model | [3] Morioka 1999 | Table 5, p. 7, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.95 kJ/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.908 kJ/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.736 kJ/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | 9.347 kJ/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 12 |  |
 
 ## Sources
 

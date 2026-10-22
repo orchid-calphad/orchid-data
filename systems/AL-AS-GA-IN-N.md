@@ -1,10 +1,10 @@
 # Al–As–Ga–In–N system
 
-> Al–As–Ga–In–N system: 66 accepted literature values (heat capacity / entropy / enthalpy 38, formation 28) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–As–Ga–In–N system: 65 accepted literature values (heat capacity / entropy / enthalpy 37, formation 28) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-AS-GA-IN-N.html · Markdown: https://data.orchid-project.org/systems/AL-AS-GA-IN-N.md
 
-66 accepted literature values from 1 paper(s) (model 25, unspecified 41); 0 calculated phase diagram(s).
+65 accepted literature values from 1 paper(s) (model 24, unspecified 41); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AS-GA-IN-N.json) · [CSV](https://data.orchid-project.org/systems/AL-AS-GA-IN-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AS-GA-IN-N) · [Markdown](https://data.orchid-project.org/systems/AL-AS-GA-IN-N.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 25 |
+| model | 24 |
 | unspecified | 41 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | formation | 28 |
-| heat capacity / entropy / enthalpy | 38 |
+| heat capacity / entropy / enthalpy | 37 |
 
 ## Formation enthalpies
 
@@ -61,7 +61,7 @@ Table: Enthalpies of formation, Al–As–Ga–In–N system (28)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (38)
+### Heat capacity / entropy / enthalpy (37)
 
 Table: Heat capacity / entropy / enthalpy, Al–As–Ga–In–N system
 
@@ -75,7 +75,6 @@ Table: Heat capacity / entropy / enthalpy, Al–As–Ga–In–N system
 | Entropy; _printed: ΔmS_ | 60.2 J/mol-formula K | 298.15 | unspecified | model | [1] F 2010; _cites Jones 1984_ | Table AI, p. 18, row 36 |  |
 | Entropy; _printed: ΔmS_ | 67.4 J/mol-formula K | 298.15 | unspecified | model | [1] F 2010; _cites Jones 1984_ | Table AI, p. 18, row 19 |  |
 | Entropy; _printed: ΔmS_ | 59 J/mol-formula K | 298.15 | unspecified | model | [1] F 2010; _cites Jones 1984_ | Table AI, p. 18, row 35 |  |
-| Entropy; _printed: ΔmS_ | 67.4 J/mol-formula K | 298.15 | unspecified | model | [1] F 2010; _cites Jones 1984_ | Table AI, p. 18, row 20 |  |
 | Entropy; _printed: S°298_ | 20.1 J/mol-formula K | 298.15 | unspecified | unspecified | [1] F 2010; _cites Mah 1961_ | Table AI, p. 18, row 7 |  |
 | Entropy; _printed: S°298_ | 19.69 J/mol-formula K | 298.15 | unspecified | unspecified | [1] F 2010; _cites Koshchenko 1984_ | Table AI, p. 18, row 8 |  |
 | Entropy; _printed: ΔmS_ | 42.6 J/mol-formula K | 831 | unspecified | unspecified | [1] F 2010; _cites Van 1973_ | Table AI, p. 18, row 31 |  |

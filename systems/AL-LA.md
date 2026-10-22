@@ -131,7 +131,7 @@ Table: Invariant reactions reported in the literature for the Al–La system (64
 | 1505.7 | Liq -> Al11La3-β + Al7La3 | Liq: La 0.232; Al11La3-β: La 0.214; Al7La3: La 0.293 | model | [1] Zhou 2006 | Table 4, p. 8, row 7 |  |
 | 1505.7 | eutectic |  | model | [1] Zhou 2006 | p. 7 | “Our model indicates congruent melting at 1513.2 K for the Al11La3-b phase, with a eutectic invariant at 1505.7 K.” |
 | 1500 | Liq.->La3Al11 + LaAlx | L: La 0.236; La3Al11: La 0.214286; LaAlx: La 0.5 | model | [3] Yin 2000 | Table 2, p. 3, row 5 |  |
-| 1493 (none) | eutectic: L→La x Al1La 3 Al 11 |  | experimental | [3] Yin 2000 | p. 2 | “The three eutectic reactions occur: L→b-La(fcc)1LaAl (803 K, 0.767 at% La), L→La x Al1La 3 Al 11 (1493 K, 0.24 at% La), L→fcc-Al1La 3 Al 11 (913 K, 0.974 at% La).” |
+| 1493 | eutectic: L→La x Al1La 3 Al 11 |  | experimental | [3] Yin 2000 | p. 2 | “The three eutectic reactions occur: L→b-La(fcc)1LaAl (803 K, 0.767 at% La), L→La x Al1La 3 Al 11 (1493 K, 0.24 at% La), L→fcc-Al1La 3 Al 11 (913 K, 0.974 at% La).” |
 | 1493 | Liq -> Al11La3-β + Al7La3 | Al11La3-β: Al 0.785714, La 0.214286; Al7La3: Al 0.7, La 0.3 | experimental | [1] Zhou 2006; _cites Buschow 1965_ | Table 4, p. 8, row 8 |  |
 | 1493 | Liq.->La3Al11 + LaAlx | L: La 0.24; La3Al11: La 0.214286; LaAlx: La 0.5 | experimental | [3] Yin 2000; _cites Buschow 1965_ | Table 2, p. 3, row 6 |  |
 | 1463.15 | peritectoid: Al7 La3 → Al3 La + Al2 La |  | experimental | [4] Liao 2018; _cites ref. 16_ | p. 2 | “The calculated temperature of the peritectoid reaction Al7 La3 → Al3 La + Al2 La was 1051 ◦ C \[23\], which deviates substantially from the experimental value of 1190 ◦ C \[16\].” |
@@ -157,16 +157,16 @@ Table: Invariant reactions reported in the literature for the Al–La system (64
 | 1105.2 | bcc -> Liq + fcc | bcc: La 0.956; Liq: La 0.992; fcc: La 1 | model | [1] Zhou 2006 | Table 4, p. 8, row 17 |  |
 | 1105 | bcc -> Liq + fcc |  | experimental | [1] Zhou 2006; _cites Saccone 1996_ | Table 4, p. 8, row 18 |  |
 | 913 | Liquid -> αLa3Al11 + (Al) | Liquid: La 0.0232; αLa3Al11: La 0.2143; (Al): La 0 | model | [2] Cacciamani 2001 | Table 2, p. 7, row 1 |  |
-| 913 (none) | eutectic: L→fcc-Al1La 3 Al 11 |  | experimental | [3] Yin 2000 | p. 2 | “The three eutectic reactions occur: L→b-La(fcc)1LaAl (803 K, 0.767 at% La), L→La x Al1La 3 Al 11 (1493 K, 0.24 at% La), L→fcc-Al1La 3 Al 11 (913 K, 0.974 at% La).” |
+| 913 | eutectic: L→fcc-Al1La 3 Al 11 |  | experimental | [3] Yin 2000 | p. 2 | “The three eutectic reactions occur: L→b-La(fcc)1LaAl (803 K, 0.767 at% La), L→La x Al1La 3 Al 11 (1493 K, 0.24 at% La), L→fcc-Al1La 3 Al 11 (913 K, 0.974 at% La).” |
 | 909 | Liq.->fcc-Al+ La3Al11 | L: La 0.026; La3Al11: La 0.214286 | experimental | [3] Yin 2000; _cites Buschow 1965_ | Table 2, p. 3, row 2 |  |
 | 907.15 | eutectic: Liq → Fcc + α-Al11 La3 |  | experimental | [4] Liao 2018; _cites ref. 18_ | p. 10 | “The temperature of the eutectic reaction Liq → Fcc + α-Al11 La3 is calculated to be 631 ◦ C, which is consistent with the 634 ◦ C reported by Kononenko and Golubev \[18\].” |
 | 907 | Liq -> fcc + α-Al11La3 | α-Al11La3: Al 0.785714, La 0.214286 | experimental | [1] Zhou 2006; _cites Kononenko 1990_ | Table 4, p. 8, row 20 |  |
 | 905 | Liq.->fcc-Al+ La3Al11 | L: La 0.022; La3Al11: La 0.214286 | model | [3] Yin 2000 | Table 2, p. 3, row 1 |  |
 | 904.15 | eutectic: Liq → Fcc + α-Al11 La3 |  | model | [4] Liao 2018 | p. 10 | “The temperature of the eutectic reaction Liq → Fcc + α-Al11 La3 is calculated to be 631 ◦ C, which is consistent with the 634 ◦ C reported by Kononenko and Golubev \[18\].” |
 | 901.1 | Liq -> fcc + α-Al11La3 | Liq: La 0.035; fcc: La 0; α-Al11La3: La 0.214 | model | [1] Zhou 2006 | Table 4, p. 8, row 19 |  |
-| 823 (none) | peritectic: peritectic |  | experimental | [3] Yin 2000; _cites Buschow 1965_ | p. 2 | “According to Saccone's work \[2\], La 3 Al is formed by peritectoidal reaction at about 793 K instead of peritectic reaction 823 K \[1\] and to decompose into b-La and LaAl at a temperature slightly higher than 673 K.” |
+| 823 | peritectic: peritectic |  | experimental | [3] Yin 2000; _cites Buschow 1965_ | p. 2 | “According to Saccone's work \[2\], La 3 Al is formed by peritectoidal reaction at about 793 K instead of peritectic reaction 823 K \[1\] and to decompose into b-La and LaAl at a temperature slightly higher than 673 K.” |
 | 803 | Liq.->LaAl+β-La | L: La 0.77; LaAl: La 0.5 | experimental | [3] Yin 2000; _cites Saccone 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870202) | Table 2, p. 3, row 22 |  |
-| 803 (none) | eutectic: L→b-La(fcc)1LaAl |  | experimental | [3] Yin 2000 | p. 2 | “The three eutectic reactions occur: L→b-La(fcc)1LaAl (803 K, 0.767 at% La), L→La x Al1La 3 Al 11 (1493 K, 0.24 at% La), L→fcc-Al1La 3 Al 11 (913 K, 0.974 at% La).” |
+| 803 | eutectic: L→b-La(fcc)1LaAl |  | experimental | [3] Yin 2000 | p. 2 | “The three eutectic reactions occur: L→b-La(fcc)1LaAl (803 K, 0.767 at% La), L→La x Al1La 3 Al 11 (1493 K, 0.24 at% La), L→fcc-Al1La 3 Al 11 (913 K, 0.974 at% La).” |
 | 800.7 | Liquid + LaAl -> La3Al | Liquid: La 0.7669; LaAl: La 0.5; La3Al: La 0.75 | model | [2] Cacciamani 2001 | Table 2, p. 7, row 9 |  |
 | 800.6 | Liquid -> La3Al + (βLa) | Liquid: La 0.7671; La3Al: La 0.75; (βLa): La 0.9999 | model | [2] Cacciamani 2001 | Table 2, p. 7, row 10 |  |
 | 799.6 | Liq.->LaAl+β-La | L: La 0.753; LaAl: La 0.5 | model | [3] Yin 2000 | Table 2, p. 3, row 21 |  |
@@ -174,7 +174,7 @@ Table: Invariant reactions reported in the literature for the Al–La system (64
 | 794.5 | Liq -> Al3La + fcc | Liq: La 0.772; Al3La: La 0.75; fcc: La 1 | model | [1] Zhou 2006 | Table 4, p. 8, row 23 |  |
 | 793.6 | LaAl+β-La->LaAl3 | LaAl: La 0.5; LaAl3: La 0.25 | model | [3] Yin 2000 | Table 2, p. 3, row 17 |  |
 | 793 | LaAl+β-La->LaAl3 | LaAl: La 0.5; LaAl3: La 0.25 | experimental | [3] Yin 2000; _cites Saccone 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870202) | Table 2, p. 3, row 18 |  |
-| 793 (none) | peritectic: peritectoidal |  | experimental | [3] Yin 2000; _cites Saccone 1996_ | p. 2 | “According to Saccone's work \[2\], La 3 Al is formed by peritectoidal reaction at about 793 K instead of peritectic reaction 823 K \[1\] and to decompose into b-La and LaAl at a temperature slightly higher than 673 K.” |
+| 793 | peritectic: peritectoidal |  | experimental | [3] Yin 2000; _cites Saccone 1996_ | p. 2 | “According to Saccone's work \[2\], La 3 Al is formed by peritectoidal reaction at about 793 K instead of peritectic reaction 823 K \[1\] and to decompose into b-La and LaAl at a temperature slightly higher than 673 K.” |
 | 790 | Liq + AlLa -> Al3La | AlLa: Al 0.5, La 0.5; Al3La: Al 0.75, La 0.25 | experimental | [1] Zhou 2006; _cites Saccone 1996_ | Table 4, p. 8, row 22 |  |
 | 790 | Liq -> Al3La + fcc | Al3La: Al 0.75, La 0.25 | experimental | [1] Zhou 2006; _cites Saccone 1996_ | Table 4, p. 8, row 24 |  |
 | 673.5 | LaAl3->LaAl+β-La | LaAl3: La 0.25; LaAl: La 0.5 | model | [3] Yin 2000 | Table 2, p. 3, row 19 |  |
@@ -208,12 +208,12 @@ Table: Phase transition, Al–La system
 | Phase transition | 1200 K | 1200 | βLa3Al11 -> αLa3Al11; _βLa3Al11: La 0.2143; αLa3Al11: La 0.2143_ | model | [2] Cacciamani 2001 | Table 2, p. 7, row 2 |  |
 | Phase transition | 1506 K | 1506 | Liq.->La3Al11; _L: La 0.214286; La3Al11: La 0.214286_ | model | [3] Yin 2000 | Table 2, p. 3, row 3 |  |
 | Phase transition | 1513 K | 1513 | Liq.->La3Al11; _L: La 0.214286; La3Al11: La 0.214286_ | experimental | [3] Yin 2000; _cites Buschow 1965_ | Table 2, p. 3, row 4 |  |
-| Phase transition | 1513 K | 1513 (none) | congruent | experimental | [3] Yin 2000 | p. 3 | “An agreement within 4 K between calculated and experimentally determined invariant reaction temperatures has been obtained except the eutectic reaction at 1493 K and congruent reaction at 1513 K, and the disagreement is 6-7 K.” |
-| Phase transition | 1513.2 K | 1513.2 | congruent | model | [1] Zhou 2006 | p. 7 | “Our model indicates congruent melting at 1513.2 K for the Al11La3-b phase, with a eutectic invariant at 1505.7 K.” |
+| Phase transition | 1513 K | 1513 | congruent transformation | experimental | [3] Yin 2000 | p. 3 | “An agreement within 4 K between calculated and experimentally determined invariant reaction temperatures has been obtained except the eutectic reaction at 1493 K and congruent reaction at 1513 K, and the disagreement is 6-7 K.” |
+| Phase transition | 1513.2 K | 1513.2 | congruent transformation | model | [1] Zhou 2006 | p. 7 | “Our model indicates congruent melting at 1513.2 K for the Al11La3-b phase, with a eutectic invariant at 1505.7 K.” |
 | Phase transition | 1658 K | 1658 | Liquid -> LaAl2; _Liquid: La 0.3362; LaAl2: La 0.3362_ | model | [2] Cacciamani 2001 | Table 2, p. 7, row 7 |  |
 | Phase transition | 1678 K | 1678 | Liq.->LaAl2; _L: La 0.333333; LaAl2: La 0.333333_ | model | [3] Yin 2000 | Table 2, p. 3, row 11 |  |
 | Phase transition | 1678 K | 1678 | Liq.->LaAl2; _L: La 0.333333; LaAl2: La 0.333333_ | experimental | [3] Yin 2000; _cites Buschow 1965_ | Table 2, p. 3, row 12 |  |
-| Phase transition | 1678.3 K | 1678.3 | congruent | model | [1] Zhou 2006 | p. 10 | “Most notably, we report (i) stability of the Al11La3-b phase up to a congruent melting temperature of 1678.3 K, (ii) stability of the AlLa3D019 phase extending down to 0 K, and (iii) liquidus boundaries that offer generally better agreement with experimental observation than previously reported phase diagrams.” |
+| Phase transition | 1678.3 K | 1678.3 | congruent transformation | model | [1] Zhou 2006 | p. 10 | “Most notably, we report (i) stability of the Al11La3-b phase up to a congruent melting temperature of 1678.3 K, (ii) stability of the AlLa3D019 phase extending down to 0 K, and (iii) liquidus boundaries that offer generally better agreement with experimental observation than previously reported phase diagrams.” |
 
 ## Sources
 

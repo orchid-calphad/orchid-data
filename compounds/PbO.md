@@ -1,28 +1,23 @@
 # PbO: enthalpy of formation
 
-> Enthalpy of formation of PbO: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of PbO: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PbO.html · Markdown: https://data.orchid-project.org/compounds/PbO.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 2, model 4, unspecified 4); experimental median -109.031 kJ/mol-atom (n = 2); Materials Project -141.744 kJ/mol-atom (mp-aaabmglh); OQMD -128.56 kJ/mol-atom (oqmd-2074732).
+5 accepted literature formation-enthalpy value(s) (experimental 1, model 2, unspecified 2); experimental median -109.031 kJ/mol-atom (n = 1); Materials Project -141.744 kJ/mol-atom (mp-aaabmglh); OQMD -128.56 kJ/mol-atom (oqmd-2074732).
 
 Systems: [O–Pb](https://data.orchid-project.org/systems/O-PB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PbO reported in the literature (10)
+Table: Enthalpy of formation of PbO reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -109.031 kJ/mol-atom | PbO-M | 298.15 | experimental |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 6 |  |
-| -109.031 kJ/mol-atom | PbO-M | 298.15 | experimental |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 6 |  |
-| -109.528 kJ/mol-atom | PbO-L | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 2 |  |
 | -109.528 kJ/mol-atom | PbO-L | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 2 |  |
 | -108.721 kJ/mol-atom | PbO-M | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
-| -108.721 kJ/mol-atom | PbO-M | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
 | -109.704 kJ/mol-atom | PbO-L | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
-| -109.704 kJ/mol-atom | PbO-L | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
-| -109.031 kJ/mol-atom | PbO-M | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
 | -109.031 kJ/mol-atom | PbO-M | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
 
 ## DFT formation energies

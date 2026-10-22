@@ -1,10 +1,10 @@
 # B–Mg system
 
-> B–Mg system: 111 accepted literature values (formation 87, phase transition 18, invariant reaction 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Mg system: 94 accepted literature values (formation 70, phase transition 18, invariant reaction 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-MG.html · Markdown: https://data.orchid-project.org/systems/B-MG.md
 
-111 accepted literature values from 2 paper(s) (experimental 66, model 45); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+94 accepted literature values from 2 paper(s) (experimental 56, model 38); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-MG.json) · [CSV](https://data.orchid-project.org/systems/B-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-MG) · [Markdown](https://data.orchid-project.org/systems/B-MG.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 66 |
-| model | 45 |
+| experimental | 56 |
+| model | 38 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 18 |
-| formation | 87 |
+| formation | 70 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-MG.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-MG.json) · [CALPHAD hull MgB-01Liu-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-MG--MgB-01Liu-LB.json)
 
@@ -127,45 +127,28 @@ Table: Phase transition, B–Mg system
 | Phase transition | 2700 K | 2700 | other: MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 4, p. 5, row 28 |  |
 | Phase transition | 2759 K | 2759 | other: MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 4, p. 5, row 26 |  |
 
-### Formation (34)
+### Formation (17)
 
 Table: Formation, B–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfS0298_ | -2.8 per mol-atom ± 0.1 | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 4 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -2.8 per mol-atom ± 0.1 | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 4 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -2.86 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | model | [2] Balducci 2005 | Table 3, p. 4, row 2 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -2.86 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | model | [2] Balducci 2005 | Table 3, p. 4, row 2 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -4.25 per mol-atom ± 0.5 | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 1 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -4.25 per mol-atom ± 0.5 | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 1 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.343 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | model | [2] Balducci 2005 | Table 3, p. 4, row 3 |  |
 | Entropy of formation; _printed: ΔfS0298_ | 0.343 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | model | [2] Balducci 2005 | Table 3, p. 4, row 3 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -2.82 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -2.82 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.03 per mol-atom ± 0.01 | 298 | MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 15 |  |
 | Entropy of formation; _printed: ΔfS0298_ | 0.03 per mol-atom ± 0.01 | 298 | MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 15 |  |
 | Entropy of formation; _printed: ΔfS0298_ | 0.04 J/mol-atom/K | 298 | MgB20; _alloy: Mg 0.047619_ | model | [2] Balducci 2005 | Table 3, p. 4, row 16 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.04 J/mol-atom/K | 298 | MgB20; _alloy: Mg 0.047619_ | model | [2] Balducci 2005 | Table 3, p. 4, row 16 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -0.47 per mol-atom ± 0.1 | 298 | MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 17 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -0.47 per mol-atom ± 0.1 | 298 | MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 17 |  |
 | Entropy of formation; _printed: ΔfS0298_ | 0.655 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | model | [2] Balducci 2005 | Table 3, p. 4, row 8 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.655 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | model | [2] Balducci 2005 | Table 3, p. 4, row 8 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -1.18 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | model | [2] Balducci 2005 | Table 3, p. 4, row 7 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -1.18 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | model | [2] Balducci 2005 | Table 3, p. 4, row 7 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -1.32 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02057252) | Table 3, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -1.32 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02057252) | Table 3, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -3.04 per mol-atom ± 0.5 | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 6 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -3.04 per mol-atom ± 0.5 | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 6 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -0.84 per mol-atom ± 0.1 | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 9 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -0.84 per mol-atom ± 0.1 | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 9 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -0.1 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | model | [2] Balducci 2005 | Table 3, p. 4, row 13 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -0.1 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | model | [2] Balducci 2005 | Table 3, p. 4, row 13 |  |
 | Entropy of formation; _printed: ΔfS0298_ | 0.02 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | experimental | [2] Balducci 2005; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02057252) | Table 3, p. 4, row 14 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.02 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | experimental | [2] Balducci 2005; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02057252) | Table 3, p. 4, row 14 |  |
 | Entropy of formation; _printed: ΔfS0298_ | 0.94 per mol-atom ± 0.5 | 298 | MgB7; _alloy: Mg 0.125_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 11 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.94 per mol-atom ± 0.5 | 298 | MgB7; _alloy: Mg 0.125_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 11 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -1.21 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | model | [2] Balducci 2005 | Table 3, p. 4, row 12 |  |
 | Entropy of formation; _printed: ΔfS0298_ | -1.21 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | model | [2] Balducci 2005 | Table 3, p. 4, row 12 |  |
 
 ## Sources

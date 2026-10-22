@@ -1,10 +1,10 @@
 # Cr–Ta system
 
-> Cr–Ta system: 8 accepted literature values (formation 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ta system: 4 accepted literature values (formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-TA.html · Markdown: https://data.orchid-project.org/systems/CR-TA.md
 
-8 accepted literature values from 1 paper(s) (experimental 2, model 6); 2 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 1, model 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-TA.json) · [CSV](https://data.orchid-project.org/systems/CR-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-TA/CrTa-09Pav.json) · [Markdown](https://data.orchid-project.org/systems/CR-TA.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 6 |
+| experimental | 1 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 8 |
+| formation | 4 |
 
 ## Calculated phase diagrams
 
@@ -51,17 +51,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Ta system (8)
+Table: Enthalpies of formation, Cr–Ta system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.93 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 3 |  |
-| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.93 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 3 |  |
-| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.596 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 4 |  |
 | Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.596 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 4 |  |
 | Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.5 kJ/mol-atom ± 0.5 | 1693 | experimental | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1 |  |
-| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.5 kJ/mol-atom ± 0.5 | 1693 | experimental | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1 |  |
-| Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -5 kJ/mol-atom | 1693 | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2 |  |
 | Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -5 kJ/mol-atom | 1693 | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2 |  |
 
 ## Sources

@@ -54,8 +54,8 @@ Table: Phase transition, Hg–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 287.3 K | 287.3 | congruent | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3 | “They described also the congruent melting point of the Gamma phase as 28.6 at. % of Tl at 287.3 K.” |
-| Phase transition | 291 K | 291 | congruent: L -> gamma; _L: Tl 0.286; γ: Tl 0.286_ | experimental | [1] Gierlotka 2006; _cites Hansen 1958_ | Table 3, p. 3, row 1 |  |
+| Phase transition | 287.3 K | 287.3 | congruent transformation | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3 | “They described also the congruent melting point of the Gamma phase as 28.6 at. % of Tl at 287.3 K.” |
+| Phase transition | 291 K | 291 | congruent melting: L -> gamma; _L: Tl 0.286; γ: Tl 0.286_ | experimental | [1] Gierlotka 2006; _cites Hansen 1958_ | Table 3, p. 3, row 1 |  |
 
 ### Crystal structure (12)
 
@@ -63,18 +63,18 @@ Table: Crystal structure, Hg–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 399.5 not_printed | 78 ({'op': '\<', 'printed': '\< 78', 'value_K': 78.0}) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1 |  |
+| Lattice a | 399.5 not_printed | 78 (\<) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1 |  |
 | Lattice a | 460.2 not_printed | 156.5 | (αHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 2 |  |
 | Lattice a | 300.5 not_printed | 156.5 | (αHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 2 |  |
-| Lattice a | 468 not_printed | 291 ({'op': '\<', 'printed': '\< 291', 'value_K': 291.0}) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5 |  |
-| Lattice a | 462.8 not_printed | 291 ({'op': '\<', 'printed': '\< 291', 'value_K': 291.0}) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5 |  |
-| Lattice a | 345.63 not_printed | 503 ({'op': '\<', 'printed': '\<503', 'value_K': 503.0}) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice a | 547.6 not_printed | 503 ({'op': '\<', 'printed': '\<503', 'value_K': 503.0}) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice a | 378.9 not_printed | 577 ({'op': '\<', 'printed': '\<577', 'value_K': 577.0}) | (βTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4 |  |
-| Lattice a | 387.9 not_printed | 577 ({'op': '\<', 'printed': '\<577', 'value_K': 577.0}) | (βTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4 |  |
-| Lattice c | 282.5 not_printed | 78 ({'op': '\<', 'printed': '\< 78', 'value_K': 78.0}) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1 |  |
-| Lattice c | 552.6 not_printed | 503 ({'op': '\<', 'printed': '\<503', 'value_K': 503.0}) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice c | 342.5 not_printed | 503 ({'op': '\<', 'printed': '\<503', 'value_K': 503.0}) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
+| Lattice a | 468 not_printed | 291 (\<) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5 |  |
+| Lattice a | 462.8 not_printed | 291 (\<) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5 |  |
+| Lattice a | 345.63 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
+| Lattice a | 547.6 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
+| Lattice a | 378.9 not_printed | 577 (\<) | (βTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4 |  |
+| Lattice a | 387.9 not_printed | 577 (\<) | (βTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4 |  |
+| Lattice c | 282.5 not_printed | 78 (\<) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1 |  |
+| Lattice c | 552.6 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
+| Lattice c | 342.5 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
 
 ## Sources
 

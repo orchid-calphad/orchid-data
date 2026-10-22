@@ -55,11 +55,11 @@ Table: Invariant reactions reported in the literature for the In–Pb system (6)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 445.15 | peritectic |  | experimental | [1] Boa 1998 | p. 2 | “Two peritectic reactions occur at 445.15 and 432.15 K.” |
-| 445 | Peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.195; (Pb): Pb 0.29; β: Pb 0.26 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 3 |  |
-| 445 | Peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.198; (Pb): Pb 0.287; β: Pb 0.257 | model | [2] David 2004 | Table 1, p. 2, row 4 |  |
+| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.195; (Pb): Pb 0.29; β: Pb 0.26 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 3 |  |
+| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.198; (Pb): Pb 0.287; β: Pb 0.257 | model | [2] David 2004 | Table 1, p. 2, row 4 |  |
 | 432.15 | peritectic |  | experimental | [1] Boa 1998 | p. 2 | “Two peritectic reactions occur at 445.15 and 432.15 K.” |
-| 432 | Peritectic: Liquid+ β ⇔ (In) | L: Pb 0.102; β: Pb 0.139; (In): Pb 0.105 | model | [2] David 2004 | Table 1, p. 2, row 2 |  |
-| 432 | Peritectic: Liquid+ β ⇔ (In) | L: Pb 0.1016; β: Pb 0.1267; (In): Pb 0.1156 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 1 |  |
+| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.102; β: Pb 0.139; (In): Pb 0.105 | model | [2] David 2004 | Table 1, p. 2, row 2 |  |
+| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.1016; β: Pb 0.1267; (In): Pb 0.1156 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 1 |  |
 
 ## Other properties
 
@@ -69,7 +69,7 @@ Table: Phase transition, In–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 429 K | 429 | Congruent: Liquid ⇔ (In); _L: Pb 0.025; (In): Pb 0.025_ | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 5 |  |
+| Phase transition | 429 K | 429 | congruent melting: Liquid ⇔ (In); _L: Pb 0.025; (In): Pb 0.025_ | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 5 |  |
 
 ## Sources
 

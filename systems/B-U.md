@@ -34,23 +34,23 @@ Table: Phase transition, B–U system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1380 K | 1380 | eutectic | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 1 |  |
-| Phase transition | 1933 K | 1933 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 2 |  |
-| Phase transition | 2048 K | 2048 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 3 |  |
-| Phase transition | 2273 K | 2273 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 4 |  |
-| Phase transition | 2298 K | 2298 | liquidus | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 17 |  |
+| Phase transition | 1933 K | 1933 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 2 |  |
+| Phase transition | 2048 K | 2048 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 3 |  |
+| Phase transition | 2273 K | 2273 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 4 |  |
+| Phase transition | 2298 K | 2298 | other | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 17 |  |
 | Phase transition | 2309 K | 2309 | eutectic | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 18 |  |
-| Phase transition | 2348 K | 2348 | liquidus | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 16 |  |
-| Phase transition | 2367 K | 2367 | liquidus | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 15 |  |
-| Phase transition | 2406 K | 2406 | liquidus | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 13 |  |
-| Phase transition | 2409 K | 2409 | liquidus | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 14 |  |
-| Phase transition | 2508 K | 2508 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 12 |  |
-| Phase transition | 2533 K | 2533 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 5 |  |
-| Phase transition | 2548 K | 2548 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 11 |  |
-| Phase transition | 2613 K | 2613 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 8 |  |
-| Phase transition | 2658 K | 2658 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 6 |  |
-| Phase transition | 2663 K | 2663 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 9 |  |
-| Phase transition | 2703 K | 2703 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 7 |  |
-| Phase transition | 2768 K | 2768 | liquidus | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 10 |  |
+| Phase transition | 2348 K | 2348 | other | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 16 |  |
+| Phase transition | 2367 K | 2367 | other | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 15 |  |
+| Phase transition | 2406 K | 2406 | other | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 13 |  |
+| Phase transition | 2409 K | 2409 | other | experimental | [1] Chevalier 2001; _cites Mar 1975_ | Table 26, p. 23, row 14 |  |
+| Phase transition | 2508 K | 2508 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 12 |  |
+| Phase transition | 2533 K | 2533 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 5 |  |
+| Phase transition | 2548 K | 2548 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 11 |  |
+| Phase transition | 2613 K | 2613 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 8 |  |
+| Phase transition | 2658 K | 2658 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 6 |  |
+| Phase transition | 2663 K | 2663 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 9 |  |
+| Phase transition | 2703 K | 2703 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 7 |  |
+| Phase transition | 2768 K | 2768 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 10 |  |
 
 ### Heat capacity / entropy / enthalpy (110)
 

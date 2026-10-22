@@ -68,23 +68,23 @@ Table: Invariant reactions reported in the literature for the Ni–U system (17)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1562.15 | Eutectic: L -> ε + UNi5 | L: U 0.2; ε: U 0.22; UNi5: U 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 18 |  |
-| 1535.15 | Peritectoid: L + ε -> δ | L: U 0.269; ε: U 0.22; δ: U 0.23 | model | [1] Wang 2009 | Table 3, p. 4, row 14 |  |
-| 1533.15 | Peritectoid: L + ε -> δ | L: U 0.26; ε: U 0.22; δ: U 0.23 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 13 |  |
-| 1386.15 | Eutectic: L -> UNi5 + (Ni) | L: U 0.081; UNi5: U 0.167; (Ni): U 0.013 | model | [1] Wang 2009 | Table 3, p. 4, row 20 |  |
-| 1383.15 | Eutectic: L -> UNi5 + (Ni) | L: U 0.09; UNi5: U 0.167; (Ni): U 0.01 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 19 |  |
-| 1259.15 | Peritectoid: L + δ -> UNi2 | L: U 0.39; δ: U 0.23; UNi2: U 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 12 |  |
-| 1258.15 | Peritectoid: L + δ -> UNi2 | L: U 0.375; δ: U 0.23; UNi2: U 0.333 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 11 |  |
-| 1093.15 | Peritectoid: L + UNi2 -> U5Ni7 | L: U 0.52; UNi2: U 0.333; U5Ni7: U 0.405 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 9 |  |
-| 1093.15 | Peritectoid: L + UNi2 -> U5Ni7 | L: U 0.53; UNi2: U 0.333; U5Ni7: U 0.415 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
-| 1063.15 | Peritectoid: γU + L -> U6Ni | γU: U 0.976; L: U 0.747; U6Ni: U 0.857 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
-| 1063.15 | Peritectoid: γU + L -> U6Ni | γU: U 0.98; L: U 0.725; U6Ni: U 0.857 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 3 |  |
-| 1059.15 | Peritectoid: L + U5Ni7 -> U7Ni9 | L: U 0.588; U5Ni7: U 0.418; U7Ni9: U 0.438 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
-| 1058.15 | Peritectoid: L + U5Ni7 -> U7Ni9 | L: U 0.58; U5Ni7: U 0.418; U7Ni9: U 0.438 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 7 |  |
-| 1033.15 | Eutectic: γU -> βU + U6Ni | γU: U 0.985; βU: U 0.99; U6Ni: U 0.857 | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
-| 1033.15 | Eutectic: γU -> βU + U6Ni | γU: U 0.9875; βU: U 0.99; U6Ni: U 0.857 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 1 |  |
-| 1015.15 | Eutectic: L -> U6Ni + U7Ni9 | L: U 0.662; U6Ni: U 0.857; U7Ni9: U 0.438 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
-| 1013.15 | Eutectic: L -> U6Ni + U7Ni9 | L: U 0.67; U6Ni: U 0.857; U7Ni9: U 0.438 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 5 |  |
+| 1562.15 | eutectic: L -> ε + UNi5 | L: U 0.2; ε: U 0.22; UNi5: U 0.167 | model | [1] Wang 2009 | Table 3, p. 4, row 18 |  |
+| 1535.15 | peritectoid: L + ε -> δ | L: U 0.269; ε: U 0.22; δ: U 0.23 | model | [1] Wang 2009 | Table 3, p. 4, row 14 |  |
+| 1533.15 | peritectoid: L + ε -> δ | L: U 0.26; ε: U 0.22; δ: U 0.23 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 13 |  |
+| 1386.15 | eutectic: L -> UNi5 + (Ni) | L: U 0.081; UNi5: U 0.167; (Ni): U 0.013 | model | [1] Wang 2009 | Table 3, p. 4, row 20 |  |
+| 1383.15 | eutectic: L -> UNi5 + (Ni) | L: U 0.09; UNi5: U 0.167; (Ni): U 0.01 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 19 |  |
+| 1259.15 | peritectoid: L + δ -> UNi2 | L: U 0.39; δ: U 0.23; UNi2: U 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 12 |  |
+| 1258.15 | peritectoid: L + δ -> UNi2 | L: U 0.375; δ: U 0.23; UNi2: U 0.333 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 11 |  |
+| 1093.15 | peritectoid: L + UNi2 -> U5Ni7 | L: U 0.52; UNi2: U 0.333; U5Ni7: U 0.405 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 9 |  |
+| 1093.15 | peritectoid: L + UNi2 -> U5Ni7 | L: U 0.53; UNi2: U 0.333; U5Ni7: U 0.415 | model | [1] Wang 2009 | Table 3, p. 4, row 10 |  |
+| 1063.15 | peritectoid: γU + L -> U6Ni | γU: U 0.976; L: U 0.747; U6Ni: U 0.857 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
+| 1063.15 | peritectoid: γU + L -> U6Ni | γU: U 0.98; L: U 0.725; U6Ni: U 0.857 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 3 |  |
+| 1059.15 | peritectoid: L + U5Ni7 -> U7Ni9 | L: U 0.588; U5Ni7: U 0.418; U7Ni9: U 0.438 | model | [1] Wang 2009 | Table 3, p. 4, row 8 |  |
+| 1058.15 | peritectoid: L + U5Ni7 -> U7Ni9 | L: U 0.58; U5Ni7: U 0.418; U7Ni9: U 0.438 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 7 |  |
+| 1033.15 | eutectic: γU -> βU + U6Ni | γU: U 0.985; βU: U 0.99; U6Ni: U 0.857 | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
+| 1033.15 | eutectic: γU -> βU + U6Ni | γU: U 0.9875; βU: U 0.99; U6Ni: U 0.857 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 1 |  |
+| 1015.15 | eutectic: L -> U6Ni + U7Ni9 | L: U 0.662; U6Ni: U 0.857; U7Ni9: U 0.438 | model | [1] Wang 2009 | Table 3, p. 4, row 6 |  |
+| 1013.15 | eutectic: L -> U6Ni + U7Ni9 | L: U 0.67; U6Ni: U 0.857; U7Ni9: U 0.438 | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 5 |  |
 
 ## Other properties
 
@@ -94,9 +94,9 @@ Table: Phase transition, Ni–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1570.15 K | 1570.15 | Melting: L -> ε; _L: U 0.22; ε: U 0.22_ | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
-| Phase transition | 1578.15 K | 1578.15 | Melting: L -> UNi5; _L: U 0.167; UNi5: U 0.166667_ | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 16 |  |
-| Phase transition | 1578.15 K | 1578.15 | Melting: L -> UNi5; _L: U 0.167; UNi5: U 0.166667_ | model | [1] Wang 2009 | Table 3, p. 4, row 17 |  |
+| Phase transition | 1570.15 K | 1570.15 | congruent melting: L -> ε; _L: U 0.22; ε: U 0.22_ | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
+| Phase transition | 1578.15 K | 1578.15 | congruent melting: L -> UNi5; _L: U 0.167; UNi5: U 0.166667_ | experimental | [1] Wang 2009; _cites Peterson 1988_ | Table 3, p. 4, row 16 |  |
+| Phase transition | 1578.15 K | 1578.15 | congruent melting: L -> UNi5; _L: U 0.167; UNi5: U 0.166667_ | model | [1] Wang 2009 | Table 3, p. 4, row 17 |  |
 
 ## Sources
 

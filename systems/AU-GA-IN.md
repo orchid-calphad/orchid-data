@@ -30,24 +30,24 @@ Table: Invariant reactions reported in the literature for the Au–Ga–In syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 673.15 | P: L + AuGa2 + AuIn2 -> Au2InGa2 | L: Au 0.4368, Ga 0.3168, In 0.2494 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 11 |  |
-| 672.15 | P: L + AuIn2 + Au2InGa2 -> AuGa | L: Au 0.4466, Ga 0.3295, In 0.2239 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 12 |  |
-| 671.15 | P: L + hcp -> Au3In + D024 | L: Au 0.7181, Ga 0.0884, In 0.1935 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 1 |  |
-| 658.15 | P: L + AuIn2 + Au2InGa2 -> AuIn | L: Au 0.4851, Ga 0.2481, In 0.2668 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 13 |  |
-| 657.15 | E: L -> Au2InGa2 + AuIn + AuGa | L: Au 0.4879, Ga 0.2486, In 0.2635 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 14 |  |
-| 649.15 | P: L + Au9In4 -> Au3In + Au7In3 | L: Au 0.6924, Ga 0.0847, In 0.2228 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 2 |  |
-| 637.15 | P: L + Au9In4 + Au7In3 -> Au3In2 | L: Au 0.66, Ga 0.0823, In 0.2577 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 3 |  |
-| 613.15 | P: L + Au7Ga2-HT -> D024 + Au7Ga2-LT | L: Au 0.724, Ga 0.1803, In 0.0957 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 4 |  |
-| 580.15 | P: L + D024 -> Au3In + Au7Ga2-LT | L: Au 0.7078, Ga 0.149, In 0.1432 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 5 |  |
-| 566.15 | P: L + Au7Ga2-LT + Au3In -> Au7In3 | L: Au 0.6954, Ga 0.1515, In 0.1531 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 6 |  |
-| 563.15 | P: L + (Ga) -> Au2InGa2 + AuGa2 | L: Au 0, Ga 0.9947, In 0.0053 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 16 |  |
-| 557.15 | P: L + Au7Ga2-LT -> Au7In3 + Au7Ga3 | L: Au 0.6856, Ga 0.1596, In 0.1548 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 7 |  |
-| 549.15 | P: L + AuIn -> Au3In2 + AuGa | L: Au 0.6492, Ga 0.159, In 0.1918 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 8 |  |
-| 547.15 | E: L -> Au7In3 + Au3In2 + AuGa | L: Au 0.6511, Ga 0.1588, In 0.1901 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 9 |  |
-| 545.15 | E: L -> Au7In3 + Au7Ga3 + AuGa | L: Au 0.6572, Ga 0.1637, In 0.1791 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 10 |  |
-| 465.15 | P: L + Au2InGa2 -> AuGa2 + AuIn2 | L: Au 0.0179, Ga 0.6524, In 0.3297 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 15 |  |
-| 425.15 | E: L -> Au2InGa2 + (In) + (Ga) | L: Au 0, Ga 0.8571, In 0.1429 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 17 |  |
-| 369.15 | P: L + (In) -> Au2InGa2 + AuGa2 | L: Au 4.000e-4, Ga 0.214, In 0.7856 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 18 |  |
+| 673.15 | peritectic: L + AuGa2 + AuIn2 -> Au2InGa2 | L: Au 0.4368, Ga 0.3168, In 0.2494 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 11 |  |
+| 672.15 | peritectic: L + AuIn2 + Au2InGa2 -> AuGa | L: Au 0.4466, Ga 0.3295, In 0.2239 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 12 |  |
+| 671.15 | peritectic: L + hcp -> Au3In + D024 | L: Au 0.7181, Ga 0.0884, In 0.1935 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 1 |  |
+| 658.15 | peritectic: L + AuIn2 + Au2InGa2 -> AuIn | L: Au 0.4851, Ga 0.2481, In 0.2668 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 13 |  |
+| 657.15 | eutectic: L -> Au2InGa2 + AuIn + AuGa | L: Au 0.4879, Ga 0.2486, In 0.2635 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 14 |  |
+| 649.15 | peritectic: L + Au9In4 -> Au3In + Au7In3 | L: Au 0.6924, Ga 0.0847, In 0.2228 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 2 |  |
+| 637.15 | peritectic: L + Au9In4 + Au7In3 -> Au3In2 | L: Au 0.66, Ga 0.0823, In 0.2577 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 3 |  |
+| 613.15 | peritectic: L + Au7Ga2-HT -> D024 + Au7Ga2-LT | L: Au 0.724, Ga 0.1803, In 0.0957 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 4 |  |
+| 580.15 | peritectic: L + D024 -> Au3In + Au7Ga2-LT | L: Au 0.7078, Ga 0.149, In 0.1432 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 5 |  |
+| 566.15 | peritectic: L + Au7Ga2-LT + Au3In -> Au7In3 | L: Au 0.6954, Ga 0.1515, In 0.1531 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 6 |  |
+| 563.15 | peritectic: L + (Ga) -> Au2InGa2 + AuGa2 | L: Au 0, Ga 0.9947, In 0.0053 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 16 |  |
+| 557.15 | peritectic: L + Au7Ga2-LT -> Au7In3 + Au7Ga3 | L: Au 0.6856, Ga 0.1596, In 0.1548 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 7 |  |
+| 549.15 | peritectic: L + AuIn -> Au3In2 + AuGa | L: Au 0.6492, Ga 0.159, In 0.1918 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 8 |  |
+| 547.15 | eutectic: L -> Au7In3 + Au3In2 + AuGa | L: Au 0.6511, Ga 0.1588, In 0.1901 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 9 |  |
+| 545.15 | eutectic: L -> Au7In3 + Au7Ga3 + AuGa | L: Au 0.6572, Ga 0.1637, In 0.1791 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 10 |  |
+| 465.15 | peritectic: L + Au2InGa2 -> AuGa2 + AuIn2 | L: Au 0.0179, Ga 0.6524, In 0.3297 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 15 |  |
+| 425.15 | eutectic: L -> Au2InGa2 + (In) + (Ga) | L: Au 0, Ga 0.8571, In 0.1429 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 17 |  |
+| 369.15 | peritectic: L + (In) -> Au2InGa2 + AuGa2 | L: Au 4.000e-4, Ga 0.214, In 0.7856 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 18 |  |
 
 ## Other properties
 

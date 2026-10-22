@@ -100,10 +100,10 @@ Table: Phase transition, Ge–O system
 | Phase transition | 1293 K | 1293 |  | experimental | [1] Dinsdale 2015; _cites Sarver 1960_ | p. 2 | “There is some evidence for a metastable a to b transformation in the hexagonal form at 1293 K.\[9\]” |
 | Phase transition | 1308 K | 1308 |  | experimental | [1] Dinsdale 2015; _cites Laubengayer 1932_ | p. 1 | “The measurements of Laubengayer and Morton,\[8\] Monnage and Bouaziz\[13\] and Marinov et al.\[14\] are thought to be the most reliable giving a value of 1308 ± 5 K although it has been reported to be a low as 1281 K.\[15\]” |
 | Phase transition | 1308 K | 1308 | polymorphic: tet → hex; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 4 |  |
-| Phase transition | 1342.3 K | 1342.3 | congruent: tet → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 6 |  |
+| Phase transition | 1342.3 K | 1342.3 | congruent transformation: tet → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 6 |  |
 | Phase transition | 1359 K | 1359 | tetragonal GeO2 | experimental | [1] Dinsdale 2015; _cites Laubengayer 1932_ | p. 2 | “The metastable melting point of tetragonal GeO2 was reported to be 1359 ± 5 K by Laubengayer and Morton.\[8\]” |
 | Phase transition | 1388 K | 1388 |  | experimental | [1] Dinsdale 2015; _cites Hill 1968_ | p. 2 | “The temperature of fusion has been determined by,\[12-14,30-32\] yielding an average value of 1388 K.” |
-| Phase transition | 1388 K | 1388 | congruent: hex → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 5 |  |
+| Phase transition | 1388 K | 1388 | congruent transformation: hex → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 5 |  |
 
 ### Heat capacity / entropy / enthalpy (9)
 

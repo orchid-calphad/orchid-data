@@ -30,16 +30,16 @@ Table: Invariant reactions reported in the literature for the B–Lu system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2525.1 | Peritectic: L + LuB4 -> LuB2 | L: B 0.541; LuB4: B 0.8; LuB2: B 0.666667 | model | [1] Li 2020 | Table 9, p. 31, row 8 |  |
-| 2523 | Peritectic: L + LuB4 -> LuB2 | L: B 0.62; LuB4: B 0.8; LuB2: B 0.666667 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 7 |  |
-| 2449 | Peritectic: L + LuB4 -> LuB12 | L: B 0.93; LuB4: B 0.8; LuB12: B 0.923077 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 3 |  |
-| 2445.8 | Peritectic: L + LuB4 -> LuB12 | L: B 0.983; LuB4: B 0.8; LuB12: B 0.923077 | model | [1] Li 2020 | Table 9, p. 31, row 4 |  |
-| 2377.3 | Peritectic: L + LuB12 -> LuB66 | L: B 0.994; LuB12: B 0.923077; LuB66: B 0.985075 | model | [1] Li 2020 | Table 9, p. 31, row 6 |  |
-| 2373 | Peritectic: L + LuB12 -> LuB66 | L: B 0.98; LuB12: B 0.923077; LuB66: B 0.985075 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 5 |  |
-| 2348.7 | Eutectic: L -> LuB66 + β-B | L: B 0.999; LuB66: B 0.985075; β-B: B 1 | model | [1] Li 2020 | Table 9, p. 31, row 10 |  |
-| 2333 | Eutectic: L -> LuB66 + β-B | L: B 0.99; LuB66: B 0.985075; β-B: B 1 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 9 |  |
-| 1773 | Eutectic: L -> LuB2 + α-Lu | L: B 0.1; LuB2: B 0.666667 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 11 |  |
-| 1768.5 | Eutectic: L -> LuB2 + α-Lu | L: B 0.109; LuB2: B 0.666667 | model | [1] Li 2020 | Table 9, p. 31, row 12 |  |
+| 2525.1 | peritectic: L + LuB4 -> LuB2 | L: B 0.541; LuB4: B 0.8; LuB2: B 0.666667 | model | [1] Li 2020 | Table 9, p. 31, row 8 |  |
+| 2523 | peritectic: L + LuB4 -> LuB2 | L: B 0.62; LuB4: B 0.8; LuB2: B 0.666667 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 7 |  |
+| 2449 | peritectic: L + LuB4 -> LuB12 | L: B 0.93; LuB4: B 0.8; LuB12: B 0.923077 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 3 |  |
+| 2445.8 | peritectic: L + LuB4 -> LuB12 | L: B 0.983; LuB4: B 0.8; LuB12: B 0.923077 | model | [1] Li 2020 | Table 9, p. 31, row 4 |  |
+| 2377.3 | peritectic: L + LuB12 -> LuB66 | L: B 0.994; LuB12: B 0.923077; LuB66: B 0.985075 | model | [1] Li 2020 | Table 9, p. 31, row 6 |  |
+| 2373 | peritectic: L + LuB12 -> LuB66 | L: B 0.98; LuB12: B 0.923077; LuB66: B 0.985075 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 5 |  |
+| 2348.7 | eutectic: L -> LuB66 + β-B | L: B 0.999; LuB66: B 0.985075; β-B: B 1 | model | [1] Li 2020 | Table 9, p. 31, row 10 |  |
+| 2333 | eutectic: L -> LuB66 + β-B | L: B 0.99; LuB66: B 0.985075; β-B: B 1 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 9 |  |
+| 1773 | eutectic: L -> LuB2 + α-Lu | L: B 0.1; LuB2: B 0.666667 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 11 |  |
+| 1768.5 | eutectic: L -> LuB2 + α-Lu | L: B 0.109; LuB2: B 0.666667 | model | [1] Li 2020 | Table 9, p. 31, row 12 |  |
 
 ## Other properties
 
@@ -49,8 +49,8 @@ Table: Phase transition, B–Lu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2872.9 K | 2872.9 | Congruent: L -> LuB4; _L: B 0.8; LuB4: B 0.8_ | model | [1] Li 2020 | Table 9, p. 31, row 2 |  |
-| Phase transition | 2873 K | 2873 | Congruent: L -> LuB4; _L: B 0.8; LuB4: B 0.8_ | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 1 |  |
+| Phase transition | 2872.9 K | 2872.9 | congruent melting: L -> LuB4; _L: B 0.8; LuB4: B 0.8_ | model | [1] Li 2020 | Table 9, p. 31, row 2 |  |
+| Phase transition | 2873 K | 2873 | congruent melting: L -> LuB4; _L: B 0.8; LuB4: B 0.8_ | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 1 |  |
 
 ## Sources
 

@@ -75,9 +75,9 @@ Table: Mixing / partial, Fe–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -44250 J/mol-atom | 0 | Fe3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -65250 J/mol-atom | 0 | FePt; _alloy: Pt 0.5_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -48938 J/mol-atom | 0 | FePt3; _alloy: Pt 0.75_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -44.25 kJ/mol-atom | 0 | Fe3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -65.25 kJ/mol-atom | 0 | FePt; _alloy: Pt 0.5_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -48.938 kJ/mol-atom | 0 | FePt3; _alloy: Pt 0.75_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
 
 ### Crystal structure (7)
 

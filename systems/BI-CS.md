@@ -50,32 +50,32 @@ Table: Invariant reactions reported in the literature for the Bi–Cs system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 937.4 | Congruent: L -> BiCs3 | L: Cs 0.75; BiCs3: Cs 0.75 | model | [1] Djaballah 2015 | Table 4, p. 5, row 22 |  |
-| 933 | Congruent: L -> BiCs3 | L: Cs 0.75; BiCs3: Cs 0.75 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 19 |  |
-| 923 | Congruent: L -> BiCs3 | L: Cs 0.75; BiCs3: Cs 0.75 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 21 |  |
-| 908 | Congruent: L -> BiCs3 | L: Cs 0.75; BiCs3: Cs 0.75 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 20 |  |
-| 903 | Congruent: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 5 |  |
-| 868 | Congruent: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 6 |  |
-| 868 | Congruent: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 7 |  |
-| 854.9 | Congruent: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | model | [1] Djaballah 2015 | Table 4, p. 5, row 8 |  |
-| 774 | Peritectic: L + BiCs3 -> Bi2Cs3 | BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 15 |  |
+| 937.4 | congruent melting: L -> BiCs3 | L: Cs 0.75; BiCs3: Cs 0.75 | model | [1] Djaballah 2015 | Table 4, p. 5, row 22 |  |
+| 933 | congruent melting: L -> BiCs3 | L: Cs 0.75; BiCs3: Cs 0.75 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 19 |  |
+| 923 | congruent melting: L -> BiCs3 | L: Cs 0.75; BiCs3: Cs 0.75 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 21 |  |
+| 908 | congruent melting: L -> BiCs3 | L: Cs 0.75; BiCs3: Cs 0.75 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 20 |  |
+| 903 | congruent melting: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 5 |  |
+| 868 | congruent melting: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 6 |  |
+| 868 | congruent melting: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 7 |  |
+| 854.9 | congruent melting: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | model | [1] Djaballah 2015 | Table 4, p. 5, row 8 |  |
+| 774 | peritectic: L + BiCs3 -> Bi2Cs3 | BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 15 |  |
 | 774 | peritectic: L+BiCs3->Bi2Cs3 |  | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | p. 3 | “All reactions are reproduced with experiment uncertainties, except the peritectic reaction LþBiCs32Bi2Cs3 proposed by Zhuravlev \[16\] at 763 K and by Gnutzmann and Klemm \[17\] at 774 K.” |
-| 773 | Peritectic: L + BiCs3 -> Bi2Cs3 | L: Cs 0.599; BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 16 |  |
-| 763 | Peritectic: L + BiCs3 -> Bi2Cs3 | BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 14 |  |
+| 773 | peritectic: L + BiCs3 -> Bi2Cs3 | L: Cs 0.599; BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 16 |  |
+| 763 | peritectic: L + BiCs3 -> Bi2Cs3 | BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 14 |  |
 | 763 | peritectic: L+BiCs3->Bi2Cs3 |  | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | p. 3 | “All reactions are reproduced with experiment uncertainties, except the peritectic reaction LþBiCs32Bi2Cs3 proposed by Zhuravlev \[16\] at 763 K and by Gnutzmann and Klemm \[17\] at 774 K.” |
-| 758.1 | Congruent: L -> Bi2Cs3 | L: Cs 0.6; Bi2Cs3: Cs 0.6 | model | [1] Djaballah 2015 | Table 4, p. 5, row 18 |  |
-| 754.95 | Eutectic: L + BiCs3 -> Bi2Cs3 | L: Cs 0.616; BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | model | [1] Djaballah 2015 | Table 4, p. 5, row 17 |  |
-| 691 | Peritectic: L + Bi2Cs3 -> Bi4Cs5 | L: Cs 0.54; Bi2Cs3: Cs 0.6; Bi4Cs5: Cs 0.556 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 12 |  |
-| 678.7 | Peritectic: L + Bi2Cs3 -> Bi4Cs5 | L: Cs 0.523; Bi2Cs3: Cs 0.6; Bi4Cs5: Cs 0.556 | model | [1] Djaballah 2015 | Table 4, p. 5, row 13 |  |
-| 667.13 | Eutectic: L -> Bi2Cs + Bi4Cs5 | L: Cs 0.508; Bi2Cs: Cs 0.333; Bi4Cs5: Cs 0.556 | model | [1] Djaballah 2015 | Table 4, p. 5, row 11 |  |
-| 663 | Eutectic: L -> Bi2Cs + Bi4Cs5 | L: Cs 0.505; Bi2Cs: Cs 0.333; Bi4Cs5: Cs 0.556 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 10 |  |
-| 663 | Eutectic: L -> Bi2Cs + Bi4Cs5 | L: Cs 0.57; Bi2Cs: Cs 0.333; Bi4Cs5: Cs 0.556 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 9 |  |
-| 543 | Eutectic: L -> (Bi) + Bi2Cs | L: Cs 0.025; (Bi): Cs 0; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 2 |  |
-| 542.6 | Eutectic: L -> (Bi) + Bi2Cs | L: Cs 0.013; (Bi): Cs 0; Bi2Cs: Cs 0.333 | model | [1] Djaballah 2015 | Table 4, p. 5, row 4 |  |
-| 540 | Eutectic: L -> (Bi) + Bi2Cs | L: Cs 0.02; (Bi): Cs 0; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 3 |  |
-| 523 | Eutectic: L -> (Bi) + Bi2Cs | L: Cs 0.03; (Bi): Cs 0; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 1 |  |
-| 301.5 | Eutectic: L -> BiCs3 + (Cs) | L: Cs 0.999; BiCs3: Cs 0.75; (Cs): Cs 1 | model | [1] Djaballah 2015 | Table 4, p. 5, row 24 |  |
-| 301.39 | Eutectic: L -> BiCs3 + (Cs) | L: Cs 1; BiCs3: Cs 0.75; (Cs): Cs 1 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 23 |  |
+| 758.1 | congruent melting: L -> Bi2Cs3 | L: Cs 0.6; Bi2Cs3: Cs 0.6 | model | [1] Djaballah 2015 | Table 4, p. 5, row 18 |  |
+| 754.95 | eutectic: L + BiCs3 -> Bi2Cs3 | L: Cs 0.616; BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | model | [1] Djaballah 2015 | Table 4, p. 5, row 17 |  |
+| 691 | peritectic: L + Bi2Cs3 -> Bi4Cs5 | L: Cs 0.54; Bi2Cs3: Cs 0.6; Bi4Cs5: Cs 0.556 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 12 |  |
+| 678.7 | peritectic: L + Bi2Cs3 -> Bi4Cs5 | L: Cs 0.523; Bi2Cs3: Cs 0.6; Bi4Cs5: Cs 0.556 | model | [1] Djaballah 2015 | Table 4, p. 5, row 13 |  |
+| 667.13 | eutectic: L -> Bi2Cs + Bi4Cs5 | L: Cs 0.508; Bi2Cs: Cs 0.333; Bi4Cs5: Cs 0.556 | model | [1] Djaballah 2015 | Table 4, p. 5, row 11 |  |
+| 663 | eutectic: L -> Bi2Cs + Bi4Cs5 | L: Cs 0.505; Bi2Cs: Cs 0.333; Bi4Cs5: Cs 0.556 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 10 |  |
+| 663 | eutectic: L -> Bi2Cs + Bi4Cs5 | L: Cs 0.57; Bi2Cs: Cs 0.333; Bi4Cs5: Cs 0.556 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 9 |  |
+| 543 | eutectic: L -> (Bi) + Bi2Cs | L: Cs 0.025; (Bi): Cs 0; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 2 |  |
+| 542.6 | eutectic: L -> (Bi) + Bi2Cs | L: Cs 0.013; (Bi): Cs 0; Bi2Cs: Cs 0.333 | model | [1] Djaballah 2015 | Table 4, p. 5, row 4 |  |
+| 540 | eutectic: L -> (Bi) + Bi2Cs | L: Cs 0.02; (Bi): Cs 0; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 3 |  |
+| 523 | eutectic: L -> (Bi) + Bi2Cs | L: Cs 0.03; (Bi): Cs 0; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 1 |  |
+| 301.5 | eutectic: L -> BiCs3 + (Cs) | L: Cs 0.999; BiCs3: Cs 0.75; (Cs): Cs 1 | model | [1] Djaballah 2015 | Table 4, p. 5, row 24 |  |
+| 301.39 | eutectic: L -> BiCs3 + (Cs) | L: Cs 1; BiCs3: Cs 0.75; (Cs): Cs 1 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 23 |  |
 
 ## Other properties
 
@@ -85,7 +85,7 @@ Table: Phase transition, Bi–Cs system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 773 K | 773 | congruent | model | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | p. 4 | “This result confirms the suggestion of Sangster and Pelton \[18\] that the congruent melting near 773 K of this compound is equally probable with the peritectic decomposition.” |
+| Phase transition | 773 K | 773 | congruent transformation | model | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | p. 4 | “This result confirms the suggestion of Sangster and Pelton \[18\] that the congruent melting near 773 K of this compound is equally probable with the peritectic decomposition.” |
 
 ## Sources
 

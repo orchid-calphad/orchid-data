@@ -74,41 +74,41 @@ Table: Invariant reactions reported in the literature for the Ge–V system (35)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2235.15 | Congruent melting: L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | model | [1] Wang 2008 | Table 4, p. 4, row 10 |  |
+| 2235.15 | congruent melting: L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | model | [1] Wang 2008 | Table 4, p. 4, row 10 |  |
 | 2204.15 | L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | model | [2] Yuan 2011 | Table 6, p. 5, row 7 |  |
 | 2203.15 | L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | Table 6, p. 5, row 8 |  |
-| 2203.15 | Congruent melting: L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 9 |  |
-| 2193.15 | Congruent melting: L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | model | [1] Wang 2008 | Table 4, p. 4, row 6 |  |
+| 2203.15 | congruent melting: L -> V5Ge3 | L: Ge 0.375; V5Ge3: Ge 0.375 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 9 |  |
+| 2193.15 | congruent melting: L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | model | [1] Wang 2008 | Table 4, p. 4, row 6 |  |
 | 2193.15 | L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | model | [2] Yuan 2011 | Table 6, p. 5, row 3 |  |
 | 2193.15 | L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | experimental | [2] Yuan 2011; _cites Waterstrat 1980_ | Table 6, p. 5, row 4 |  |
-| 2193.15 | Congruent melting: L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 5 |  |
-| 2183.15 | Melting: L -> (V) | L: Ge 0; (V): Ge 0 | model | [1] Wang 2008 | Table 4, p. 4, row 2 |  |
-| 2183.15 | Melting: L -> (V) | L: Ge 0; (V): Ge 0 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 1 |  |
+| 2193.15 | congruent melting: L -> V3Ge | L: Ge 0.25; V3Ge: Ge 0.25 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 5 |  |
+| 2183.15 | congruent melting: L -> (V) | L: Ge 0; (V): Ge 0 | model | [1] Wang 2008 | Table 4, p. 4, row 2 |  |
+| 2183.15 | congruent melting: L -> (V) | L: Ge 0; (V): Ge 0 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 1 |  |
 | 2167.15 | L -> V3Ge + V5Ge3 | L: Ge 0.306; V3Ge: Ge 0.25; V5Ge3: Ge 0.375 | model | [2] Yuan 2011 | Table 6, p. 5, row 5 |  |
-| 2164.15 | Eutectic: L -> V5Ge3 + V3Ge | L: Ge 0.301; V5Ge3: Ge 0.375; V3Ge: Ge 0.25 | model | [1] Wang 2008 | Table 4, p. 4, row 8 |  |
+| 2164.15 | eutectic: L -> V5Ge3 + V3Ge | L: Ge 0.301; V5Ge3: Ge 0.375; V3Ge: Ge 0.25 | model | [1] Wang 2008 | Table 4, p. 4, row 8 |  |
 | 2149.15 | L -> V3Ge + V5Ge3 | L: Ge 0.307; V3Ge: Ge 0.25; V5Ge3: Ge 0.375 | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | Table 6, p. 5, row 6 |  |
-| 2073.15 | Eutectic: L -> V5Ge3 + V3Ge | V5Ge3: Ge 0.375; V3Ge: Ge 0.25 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 7 |  |
+| 2073.15 | eutectic: L -> V5Ge3 + V3Ge | V5Ge3: Ge 0.375; V3Ge: Ge 0.25 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 7 |  |
 | 2042.15 | L -> (V) + V3Ge | L: Ge 0.102; (V): Ge 0.043; V3Ge: Ge 0.25 | model | [2] Yuan 2011 | Table 6, p. 5, row 1 |  |
-| 2036.15 | Eutectic: L -> V3Ge + (V) | L: Ge 0.133; V3Ge: Ge 0.25; (V): Ge 0.047 | model | [1] Wang 2008 | Table 4, p. 4, row 4 |  |
-| 2033.15 | Eutectic: L -> V3Ge + (V) | L: Ge 0.16; V3Ge: Ge 0.25; (V): Ge 0.045 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 3 |  |
+| 2036.15 | eutectic: L -> V3Ge + (V) | L: Ge 0.133; V3Ge: Ge 0.25; (V): Ge 0.047 | model | [1] Wang 2008 | Table 4, p. 4, row 4 |  |
+| 2033.15 | eutectic: L -> V3Ge + (V) | L: Ge 0.16; V3Ge: Ge 0.25; (V): Ge 0.045 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 3 |  |
 | 2032.15 | L -> (V) + V3Ge | L: Ge 0.14; (V): Ge 0.045; V3Ge: Ge 0.25 | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | Table 6, p. 5, row 2 |  |
 | 1952.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | experimental | [2] Yuan 2011; _cites Svechnikov 1974_ | p. 5 | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
 | 1895.15 | L + V5Ge3 -> V11Ge8 | L: Ge 0.589; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | model | [2] Yuan 2011 | Table 6, p. 5, row 9 |  |
 | 1895.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | model | [2] Yuan 2011 | p. 5 | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
-| 1874.15 | Peritectic: L + V5Ge3 -> V11Ge8 | L: Ge 0.541; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | model | [1] Wang 2008 | Table 4, p. 4, row 12 |  |
-| 1873.15 | Peritectic: L + V5Ge3 -> V11Ge8 | V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 11 |  |
+| 1874.15 | peritectic: L + V5Ge3 -> V11Ge8 | L: Ge 0.541; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | model | [1] Wang 2008 | Table 4, p. 4, row 12 |  |
+| 1873.15 | peritectic: L + V5Ge3 -> V11Ge8 | V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 11 |  |
 | 1848.15 | L + V5Ge3 -> V11Ge8 | L: Ge 0.54; V5Ge3: Ge 0.375; V11Ge8: Ge 0.421 | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | Table 6, p. 5, row 10 |  |
 | 1848.15 | peritectic: liquid + V5 Ge3 ↔ V11 Ge8 |  | experimental | [2] Yuan 2011; _cites Savitskii 1974_ | p. 5 | “The calculated peritectic temperature of liquid + V5 Ge3 ↔ V11 Ge8 is at 1622 ◦ C, which is higher than 1575 ◦ C \[11\] but lower than 1679 ◦ C \[12\].” |
 | 1234.25 | L + V11Ge8 -> V17Ge31 | L: Ge 0.962; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | model | [2] Yuan 2011 | Table 6, p. 5, row 11 |  |
-| 1233.15 | Peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.95; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 13 |  |
+| 1233.15 | peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.95; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 13 |  |
 | 1233.15 | L + V11Ge8 -> V17Ge31 | L: Ge 0.958; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [2] Yuan 2011 | Table 6, p. 5, row 12 |  |
-| 1232.15 | Peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.961; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 14 |  |
-| 1210.15 | Melting: L -> (Ge) | L: Ge 1; (Ge): Ge 1 | model | [1] Wang 2008 | Table 4, p. 4, row 18 |  |
-| 1210.15 | Melting: L -> (Ge) | L: Ge 1; (Ge): Ge 1 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 17 |  |
+| 1232.15 | peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.961; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 14 |  |
+| 1210.15 | congruent melting: L -> (Ge) | L: Ge 1; (Ge): Ge 1 | model | [1] Wang 2008 | Table 4, p. 4, row 18 |  |
+| 1210.15 | congruent melting: L -> (Ge) | L: Ge 1; (Ge): Ge 1 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 17 |  |
 | 1203.85 | L -> V17Ge31 + Ge | L: Ge 0.971; V17Ge31: Ge 0.646; Ge: Ge 1 | experimental | [2] Yuan 2011 | Table 6, p. 5, row 14 |  |
 | 1203.85 | L -> V17Ge31 + Ge | L: Ge 0.975; V17Ge31: Ge 0.646; Ge: Ge 1 | model | [2] Yuan 2011 | Table 6, p. 5, row 13 |  |
-| 1203.15 | Eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.98; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 15 |  |
-| 1201.15 | Eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.972; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 16 |  |
+| 1203.15 | eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.98; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 15 |  |
+| 1201.15 | eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.972; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 16 |  |
 
 ## Formation enthalpies
 

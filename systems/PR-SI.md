@@ -81,7 +81,7 @@ Table: Phase transition, Pr–Si system
 | Phase transition | 330.15 K | 330.15 | polymorphic | experimental | [1] Xu 2020; _cites ref. 19_ | p. 4 | “Eremenko et al19 reported the polymorphic transition between α-Pr5Si9 (orthorhombic) and β-Pr5Si9 (tetragonal) at Pr-rich Pr5Si9 to be at 157°C and the temperature was 57°C at 0.353 mole fraction Pr” |
 | Phase transition | 430.15 K | 430.15 | polymorphic | experimental | [1] Xu 2020; _cites ref. 19_ | p. 4 | “Eremenko et al19 reported the polymorphic transition between α-Pr5Si9 (orthorhombic) and β-Pr5Si9 (tetragonal) at Pr-rich Pr5Si9 to be at 157°C and the temperature was 57°C at 0.353 mole fraction Pr” |
 | Phase transition | 1625.15 K | 1625.15 | other | experimental | [1] Xu 2020 | p. 4 | “The Pr5Si3 and Pr5Si4 phases formed at 1417°C and 1532°C by peritectic reactions, while PrSi melted congruently at 1657°C and Pr3Si4 formed at 1352°C by a peritectoid reaction.” |
-| Phase transition | 1930.15 K | 1930.15 | congruent | experimental | [1] Xu 2020 | p. 4 | “The Pr5Si3 and Pr5Si4 phases formed at 1417°C and 1532°C by peritectic reactions, while PrSi melted congruently at 1657°C and Pr3Si4 formed at 1352°C by a peritectoid reaction.” |
+| Phase transition | 1930.15 K | 1930.15 | congruent transformation | experimental | [1] Xu 2020 | p. 4 | “The Pr5Si3 and Pr5Si4 phases formed at 1417°C and 1532°C by peritectic reactions, while PrSi melted congruently at 1657°C and Pr3Si4 formed at 1352°C by a peritectoid reaction.” |
 
 ## Sources
 

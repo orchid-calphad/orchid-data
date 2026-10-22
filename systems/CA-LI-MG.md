@@ -28,8 +28,8 @@ Table: Invariant reactions reported in the literature for the Ca–Li–Mg syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 764.15 | E: L = (Mg) + (Li) + Ca(Li,Mg)2 |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 1 |  |
-| 664.15 | U: βCa + Ca(Li,Mg)2 = αCa + L |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 2 |  |
+| 764.15 | eutectic: L = (Mg) + (Li) + Ca(Li,Mg)2 |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 1 |  |
+| 664.15 | quasi-peritectic: βCa + Ca(Li,Mg)2 = αCa + L |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 2 |  |
 
 ## Other properties
 
@@ -39,7 +39,7 @@ Table: Phase transition, Ca–Li–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 873.15 K | 873.15 | solidus | experimental | [1] Gröbner 2002 | p. 5 | “The solidus temperature of this alloy was taken from the heating peak onset at about 600 C 20 K.” |
+| Phase transition | 873.15 K | 873.15 | other | experimental | [1] Gröbner 2002 | p. 5 | “The solidus temperature of this alloy was taken from the heating peak onset at about 600 C 20 K.” |
 
 ## Sources
 

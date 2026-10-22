@@ -60,18 +60,18 @@ Table: Invariant reactions reported in the literature for the Mn–U system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1415.15 | Peritectic: δMn + L -> γMn | δMn: U 0.003; L: U 0.075; γMn: U 0.002 | model | [1] Liu 2008 | Table 4, p. 5, row 12 |  |
-| 1384.15 | Peritectic: γMn + L -> βMn | γMn: U 0.004; L: U 0.099; βMn: U 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 13 |  |
-| 1308.15 | Eutectic: L -> βMn + Mn2U | L: U 0.163; βMn: U 0.011; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 9 |  |
-| 1308.15 | Eutectic: L -> βMn + Mn2U | L: U 0.16; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 8 |  |
-| 1018.15 | Catatectic: γU -> βU + L | γU: U 0.977; βU: U 0.988; L: U 0.794 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 1 |  |
-| 1018.15 | Catatectic: γU -> βU + L | γU: U 0.973; βU: U 0.9878; L: U 0.807 | model | [1] Liu 2008 | Table 4, p. 5, row 2 |  |
-| 998.15 | Peritectic: βU + L -> MnU6 | βU: U 0.988; L: U 0.785; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 3 |  |
-| 998.15 | Peritectic: βU + L -> MnU6 | βU: U 0.987; L: U 0.79; MnU6: U 0.857 | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
-| 989.15 | Eutectic: L -> MnU6 + Mn2U | L: U 0.785; MnU6: U 0.857; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 6 |  |
-| 989.15 | Eutectic: L -> MnU6 + Mn2U | L: U 0.774; MnU6: U 0.857; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 7 |  |
-| 971.15 | Eutectoid: βMn -> αMn + Mn2U | βMn: U 0.003; αMn: U 0.99; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
-| 899.15 | Eutectoid: βU -> αU + MnU6 | βU: U 0.988; αU: U 1; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 5 |  |
+| 1415.15 | peritectic: δMn + L -> γMn | δMn: U 0.003; L: U 0.075; γMn: U 0.002 | model | [1] Liu 2008 | Table 4, p. 5, row 12 |  |
+| 1384.15 | peritectic: γMn + L -> βMn | γMn: U 0.004; L: U 0.099; βMn: U 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 13 |  |
+| 1308.15 | eutectic: L -> βMn + Mn2U | L: U 0.163; βMn: U 0.011; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 9 |  |
+| 1308.15 | eutectic: L -> βMn + Mn2U | L: U 0.16; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 8 |  |
+| 1018.15 | metatectic/catatectic: γU -> βU + L | γU: U 0.977; βU: U 0.988; L: U 0.794 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 1 |  |
+| 1018.15 | metatectic/catatectic: γU -> βU + L | γU: U 0.973; βU: U 0.9878; L: U 0.807 | model | [1] Liu 2008 | Table 4, p. 5, row 2 |  |
+| 998.15 | peritectic: βU + L -> MnU6 | βU: U 0.988; L: U 0.785; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 3 |  |
+| 998.15 | peritectic: βU + L -> MnU6 | βU: U 0.987; L: U 0.79; MnU6: U 0.857 | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
+| 989.15 | eutectic: L -> MnU6 + Mn2U | L: U 0.785; MnU6: U 0.857; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 6 |  |
+| 989.15 | eutectic: L -> MnU6 + Mn2U | L: U 0.774; MnU6: U 0.857; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 7 |  |
+| 971.15 | eutectoid: βMn -> αMn + Mn2U | βMn: U 0.003; αMn: U 0.99; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
+| 899.15 | eutectoid: βU -> αU + MnU6 | βU: U 0.988; αU: U 1; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 5 |  |
 
 ## Other properties
 
@@ -81,8 +81,8 @@ Table: Phase transition, Mn–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1393.15 K | 1393.15 | Melting: L -> Mn2U; _L: U 0.333; Mn2U: U 0.333_ | model | [1] Liu 2008 | Table 4, p. 5, row 11 |  |
-| Phase transition | 1393.15 K | 1393.15 | Melting: L -> Mn2U; _L: U 0.333; Mn2U: U 0.333_ | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 10 |  |
+| Phase transition | 1393.15 K | 1393.15 | congruent melting: L -> Mn2U; _L: U 0.333; Mn2U: U 0.333_ | model | [1] Liu 2008 | Table 4, p. 5, row 11 |  |
+| Phase transition | 1393.15 K | 1393.15 | congruent melting: L -> Mn2U; _L: U 0.333; Mn2U: U 0.333_ | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 10 |  |
 
 ## Sources
 

@@ -1,22 +1,21 @@
 # ZrH: enthalpy of formation
 
-> Enthalpy of formation of ZrH: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of ZrH: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/ZrH.html · Markdown: https://data.orchid-project.org/compounds/ZrH.md
 
-4 accepted literature formation-enthalpy value(s) (model 2, DFT 2).
+3 accepted literature formation-enthalpy value(s) (model 2, DFT 1).
 
 Systems: [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) · [H–Zr](https://data.orchid-project.org/systems/H-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of ZrH reported in the literature (4)
+Table: Enthalpy of formation of ZrH reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -41.24 kJ/mol (basis unstated) | γ-ZrH |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
 | -41.24 kJ/mol (basis unstated) | γ-ZrH |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
-| -41.4 kJ/mol-atom | γ-ZrH | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [2] Zhong 2012 | Table 3, p. 2, row 1 |  |
 | -41.4 kJ/mol-atom | γ-ZrH | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [2] Zhong 2012 | Table 3, p. 2, row 1 |  |
 
 ## Sources

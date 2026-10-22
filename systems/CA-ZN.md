@@ -105,7 +105,7 @@ Table: Phase transition, Ca–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 915 K | 915 | liquidus | model | [1] Brubaker 2001; _cites Messing 1963_ | p. 2 | “If the suggested curvature of Messing's liquidus data for CaZn2 is extrapolated downward to the temperature of the peritectic reaction, 915K, the amount of zinc in the liquid would be about 74.2% Zn.” |
+| Phase transition | 915 K | 915 | other | model | [1] Brubaker 2001; _cites Messing 1963_ | p. 2 | “If the suggested curvature of Messing's liquidus data for CaZn2 is extrapolated downward to the temperature of the peritectic reaction, 915K, the amount of zinc in the liquid would be about 74.2% Zn.” |
 
 ## Sources
 

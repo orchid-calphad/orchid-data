@@ -1,37 +1,31 @@
 # NiSi: enthalpy of formation
 
-> Enthalpy of formation of NiSi: 18 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NiSi: 12 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiSi.html · Markdown: https://data.orchid-project.org/compounds/NiSi.md
 
-18 accepted literature formation-enthalpy value(s) (experimental 5, model 6, DFT 2, unspecified 5); experimental median -43.1 kJ/mol-atom (n = 5); Materials Project -48.213 kJ/mol-atom (mp-aaaaaann); OQMD -48.61 kJ/mol-atom (oqmd-5883).
+12 accepted literature formation-enthalpy value(s) (experimental 4, model 4, DFT 1, unspecified 3); experimental median -42.75 kJ/mol-atom (n = 4); Materials Project -48.213 kJ/mol-atom (mp-aaaaaann); OQMD -48.61 kJ/mol-atom (oqmd-5883).
 
 Systems: [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) · [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiSi reported in the literature (18)
+Table: Enthalpy of formation of NiSi reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.1 kJ/mol-atom | NiSi | 298 | experimental |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 12 |  |
 | -43.1 kJ/mol-atom | NiSi | 298 | experimental |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 12 |  |
 | -43.1 kJ/mol-atom | NiSi | 298.15 | experimental |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
 | -42.4 kJ/mol-atom | NiSi | 298.15 | experimental |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Topor 1986_ | Table 4, p. 7, row 2 |  |
 | -29.3 kJ/mol-atom | αNiSi_2 | 298 | experimental |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 14 |  |
 | -41.9 kJ/mol-atom | NiSi |  | model | CALPHAD assessment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | -40.169 kJ/mol-atom | NiSi–L10 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [3] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 1, p. 4, row 13 |  |
-| -40.169 kJ/mol-atom | NiSi–L10 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [3] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 13 |  |
 | -38.7 kJ/mol-atom | NiSi |  | model |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
 | -27.981 kJ/mol-atom | NiSi–L10 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [3] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 2, p. 4, row 12 |  |
-| -27.981 kJ/mol-atom | NiSi–L10 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [3] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 12 |  |
 | -25.99 kJ/mol-atom | NiSi(B2) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [4] Tokunaga 2004 | Table 2, p. 3, row 1 |  |
-| -25.99 kJ/mol-atom | NiSi(B2) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [4] Tokunaga 2004 | Table 2, p. 3, row 1 |  |
-| -38.7 kJ/mol-atom | NiSi | 298 | unspecified |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Lindholm 1996 | Table I, p. 2, row 13 |  |
 | -38.7 kJ/mol-atom | NiSi | 298 | unspecified |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Lindholm 1996 | Table I, p. 2, row 13 |  |
 | -34 kJ/mol-atom | αNiSi_2 | 298 | unspecified |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Lindholm 1996 | Table I, p. 2, row 15 |  |
 | -28.028 kJ/mol-atom | NiSi–L10 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [3] Yuan 2012 | Table 2, p. 4, row 11 |  |
-| -28.028 kJ/mol-atom | NiSi–L10 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [3] Yuan 2012 | Table 1, p. 4, row 11 |  |
 
 ## DFT formation energies
 

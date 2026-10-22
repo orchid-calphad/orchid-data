@@ -112,8 +112,8 @@ Table: Invariant reactions reported in the literature for the Pd–Se system (41
 | 658 | Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 30 |  |
 | 655 | Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 29 |  |
 | 648 | eutectic |  | experimental | [1] Bordier 2014 | p. 7 | “The eutectic reaction at 648 K (Fig. 5a) is slightly lower than the temperatures measured by Olsen et al. \[3\] and Takabarake et al. \[4\]; this value is assigned to a metastable eutectic reaction.” |
-| 648 | metastable eutectic: Liq -> Pd34Se11 + Pd17Se15 | Pd34Se11: Se 0.244444; Pd17Se15: Se 0.46875 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 33 |  |
-| 646 | metastable eutectic: Liq -> Pd34Se11 + Pd17Se15 | Pd34Se11: Se 0.244444; Pd17Se15: Se 0.46875 | model | [1] Bordier 2014 | Table 4, p. 8, row 34 |  |
+| 648 | eutectic: Liq -> Pd34Se11 + Pd17Se15 | Pd34Se11: Se 0.244444; Pd17Se15: Se 0.46875 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 33 |  |
+| 646 | eutectic: Liq -> Pd34Se11 + Pd17Se15 | Pd34Se11: Se 0.244444; Pd17Se15: Se 0.46875 | model | [1] Bordier 2014 | Table 4, p. 8, row 34 |  |
 | 468 | PdSe -> PdSe2 + Pd17Se15 | PdSe: Se 0.5; PdSe2: Se 0.666667; Pd17Se15: Se 0.46875 | model | [1] Bordier 2014 | Table 4, p. 8, row 39 |  |
 
 ## Formation enthalpies
@@ -146,7 +146,7 @@ Table: Phase transition, Pd–Se system
 | Phase transition | 468 K | 468 | other | model | [1] Bordier 2014 | p. 7 | “Its low temperature of decomposition is calculated at 468 K, in accordance with the 473 K value recommanded by Vymazalová \[14\].” |
 | Phase transition | 473 K | 473 | other | experimental | [1] Bordier 2014; _cites Vymazalova 2013_ | p. 7 | “Its low temperature of decomposition is calculated at 468 K, in accordance with the 473 K value recommanded by Vymazalová \[14\].” |
 | Phase transition | 705 K | 705 | other | experimental | [1] Bordier 2014 | p. 7 | “The liquidus at 759 K and the decomposition of Pd34 Se11 measured at 705 K are consistent with Olsen et al. \[3\].” |
-| Phase transition | 759 K | 759 | liquidus | experimental | [1] Bordier 2014 | p. 7 | “The liquidus at 759 K and the decomposition of Pd34 Se11 measured at 705 K are consistent with Olsen et al. \[3\].” |
+| Phase transition | 759 K | 759 | other | experimental | [1] Bordier 2014 | p. 7 | “The liquidus at 759 K and the decomposition of Pd34 Se11 measured at 705 K are consistent with Olsen et al. \[3\].” |
 | Phase transition | 788 K | 788 | polymorphic | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | p. 3 | “This compound undergoes a polymorphic phase transition at 800 K \[3\] or 788 K \[4\].” |
 | Phase transition | 788 K | 788 | β-Pd4Se -> α; _β-Pd4Se: Se 0.2; α: Se 0.2_ | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 25 |  |
 | Phase transition | 796 K | 796 |  | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | p. 3 | “The intermetallic compound Pd7 Se2 is stable up to 811 K \[3\] or 796 K \[4\].” |
@@ -159,7 +159,7 @@ Table: Phase transition, Pd–Se system
 | Phase transition | 811 K | 811 |  | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 3 | “The intermetallic compound Pd7 Se2 is stable up to 811 K \[3\] or 796 K \[4\].” |
 | Phase transition | 817 K | 817 |  | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 3 | “It is stable at room temperature and it decomposes at 817 K \[3\] or 803 K \[4\].” |
 | Phase transition | 953 K | 953 |  | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 3 | “First of all, the intermetallic compound Pd17 Se15 is stable up to 953 K.” |
-| Phase transition | 1017 K | 1017 | liquidus | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 7 | “The attempt to calculate the experimental point \[3\] at xðSeÞ 1⁄4 50 at:% and T 1⁄4 1017 K as a liquidus was unsuccessful.” |
+| Phase transition | 1017 K | 1017 | other | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 7 | “The attempt to calculate the experimental point \[3\] at xðSeÞ 1⁄4 50 at:% and T 1⁄4 1017 K as a liquidus was unsuccessful.” |
 
 ### Crystal structure (17)
 

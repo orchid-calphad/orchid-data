@@ -29,9 +29,9 @@ Table: Mixing / partial, Nb–O–Ta–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -439 kJ/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022 | Table 3, p. 30, row 3 |  |
-| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -714 kJ/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 62_ | Table 3, p. 30, row 1 |  |
-| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -316 kJ/mol | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 63_ | Table 3, p. 30, row 2 |  |
+| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -439 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022 | Table 3, p. 30, row 3 |  |
+| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -714 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 62_ | Table 3, p. 30, row 1 |  |
+| Partial enthalpy; _printed: ΔH° \[½O2(g) → MOx\]_ | -316 kJ/mol (basis unstated) | 1500 | UNKNOWN | unspecified | [1] Meisner 2022; _cites ref. 63_ | Table 3, p. 30, row 2 |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 

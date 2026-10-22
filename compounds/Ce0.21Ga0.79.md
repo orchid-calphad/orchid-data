@@ -1,24 +1,21 @@
 # Ce0.21Ga0.79: enthalpy of formation
 
-> Enthalpy of formation of Ce0.21Ga0.79: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ce0.21Ga0.79: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ce0.21Ga0.79.html · Markdown: https://data.orchid-project.org/compounds/Ce0.21Ga0.79.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 4, model 2); experimental median -44.1 kJ/mol-atom (n = 4).
+3 accepted literature formation-enthalpy value(s) (experimental 2, model 1); experimental median -44.1 kJ/mol-atom (n = 2).
 
 Systems: [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ce0.21Ga0.79 reported in the literature (6)
+Table: Enthalpy of formation of Ce0.21Ga0.79 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -51.5 kJ/mol-atom ± 1.4 | Ce0.21Ga0.79 | 298.15 | experimental | Ga. Soln. Calori.; 1103 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 8 |  |
-| -51.5 kJ/mol-atom ± 1.4 | Ce0.21Ga0.79 | 298.15 | experimental | Ga. Soln. Calori.; 1103 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 8 |  |
 | -36.7 kJ/mol-atom ± 2.9 | Ce0.21Ga0.79 | 298.15 | experimental | Precipitation Cal. 1125 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 6 |  |
-| -36.7 kJ/mol-atom ± 2.9 | Ce0.21Ga0.79 | 298.15 | experimental | Precipitation Cal. 1125 K | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 6 |  |
-| -46.1 kJ/mol-atom | Ce0.21Ga0.79 | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 7 |  |
 | -46.1 kJ/mol-atom | Ce0.21Ga0.79 | 298.15 | model | Miedema’s Model | [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.html) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 7 |  |
 
 ## Sources

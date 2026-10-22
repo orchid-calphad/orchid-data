@@ -32,37 +32,37 @@ Table: Invariant reactions reported in the literature for the B–Zr system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3518 | Congruent: L -> ZrB2 | L: Zr 0.66; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 4 |  |
-| 3506 | Congruent: L -> ZrB2 | L: Zr 0.666; ZrB2: B 0.666667, Zr 0.333333 | model | [1] Chen 2009 | Table 4, p. 5, row 6 |  |
-| 3500 | Congruent: L -> ZrB2 | L: B 0.666667, Zr 0.333333; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Portnoi 1970_ | Table 4, p. 5, row 5 |  |
-| 2523 | Peritectic: L + ZrB2 -> ZrB12 | L: Zr 0.91; ZrB2: B 0.666667, Zr 0.333333; ZrB12: B 0.923077, Zr 0.076923 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 7 |  |
-| 2362.15 | Peritectic: L + ZrB2 -> ZrB12 | L: B 0.938; ZrB2: B 0.675; ZrB12: B 0.923 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 2 |  |
-| 2310.15 | Peritectic: L + ZrB2 = ZrB12 | L: B 0.939; ZrB2: B 0.666667; ZrB12: B 0.923077 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 5 |  |
-| 2310 | Peritectic: L + ZrB2 -> ZrB12 | L: Zr 0.939; ZrB2: B 0.666667, Zr 0.333333; ZrB12: B 0.923077, Zr 0.076923 | model | [1] Chen 2009 | Table 4, p. 5, row 9 |  |
-| 2309.15 | Peritectic: L + ZrB2 = ZrB12 | L: B 0.94; ZrB2: B 0.666667; ZrB12: B 0.923077 | model | [3] Pan 2019 | Table 2, p. 4, row 6 |  |
-| 2303 | Peritectic: L + ZrB2 -> ZrB12 | L: Zr 0.92; ZrB2: B 0.666667, Zr 0.333333; ZrB12: B 0.923077, Zr 0.076923 | experimental | [1] Chen 2009; _cites Portnoi 1970_ | Table 4, p. 5, row 8 |  |
-| 2299.15 | Eutectic: L -> B + ZrB12 | L: B 0.967; B: B 1; ZrB12: B 0.923 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 3 |  |
-| 2282.15 | Eutectic: L = ZrB12 + (βB) | L: B 0.9573; ZrB12: B 0.923077 | model | [3] Pan 2019 | Table 2, p. 4, row 8 |  |
-| 2282.15 | Eutectic: L = ZrB12 + (βB) | L: B 0.957; ZrB12: B 0.923077 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 7 |  |
-| 2282 | Eutectic: L -> ZrB12+β-B | L: Zr 0.957; ZrB12: B 0.923077, Zr 0.076923 | model | [1] Chen 2009 | Table 4, p. 5, row 12 |  |
-| 2273 | Eutectic: L -> ZrB12+β-B | L: Zr 0.98; ZrB12: B 0.923077, Zr 0.076923 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 10 |  |
-| 2248 | Eutectic: L -> ZrB12+β-B | L: Zr 0.96; ZrB12: B 0.923077, Zr 0.076923 | experimental | [1] Chen 2009; _cites Portnoi 1970_ | Table 4, p. 5, row 11 |  |
-| 1988.15 | Eutectoid: ZrB12 = ZrB2 + β-B | ZrB12: B 0.923077; ZrB2: B 0.666667 | model | [3] Pan 2019 | Table 2, p. 4, row 10 |  |
-| 1984.15 | Eutectoid: ZrB12 = ZrB2 + β-B | ZrB12: B 0.923077; ZrB2: B 0.666667 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 9 |  |
-| 1984 | Eutectoid: ZrB12 -> ZrB2+β-B | ZrB12: B 0.923077, Zr 0.076923; ZrB2: B 0.666667, Zr 0.333333 | model | [1] Chen 2009 | Table 4, p. 5, row 14 |  |
-| 1983 | Eutectoid: ZrB12 -> ZrB2+β-B | ZrB12: B 0.923077, Zr 0.076923; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 13 |  |
-| 1963.15 | Eutectic: L -> ZrB2 + bcc-Zr | L: B 0.135; ZrB2: B 0.667; bcc-Zr: B 0.01 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 4 |  |
-| 1953 | Eutectic: L -> ZrB2 + bcc-Zr | L: Zr 0.14; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Portnoi 1970_ | Table 4, p. 5, row 2 |  |
-| 1934.15 | Eutectic: L = ZrB2 + (βZr) | L: B 0.124; ZrB2: B 0.666667 | model | [3] Pan 2019 | Table 2, p. 4, row 2 |  |
-| 1934.15 | Eutectic: L = ZrB2 + (βZr) | L: B 0.1242; ZrB2: B 0.666667 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 1 |  |
-| 1934 | Eutectic: L -> ZrB2 + bcc-Zr | L: Zr 0.1242; ZrB2: B 0.666667, Zr 0.333333 | model | [1] Chen 2009 | Table 4, p. 5, row 3 |  |
-| 1933 | Eutectic: L -> ZrB2 + bcc-Zr | L: Zr 0.12; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 1 |  |
+| 3518 | congruent melting: L -> ZrB2 | L: Zr 0.66; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 4 |  |
+| 3506 | congruent melting: L -> ZrB2 | L: Zr 0.666; ZrB2: B 0.666667, Zr 0.333333 | model | [1] Chen 2009 | Table 4, p. 5, row 6 |  |
+| 3500 | congruent melting: L -> ZrB2 | L: B 0.666667, Zr 0.333333; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Portnoi 1970_ | Table 4, p. 5, row 5 |  |
+| 2523 | peritectic: L + ZrB2 -> ZrB12 | L: Zr 0.91; ZrB2: B 0.666667, Zr 0.333333; ZrB12: B 0.923077, Zr 0.076923 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 7 |  |
+| 2362.15 | peritectic: L + ZrB2 -> ZrB12 | L: B 0.938; ZrB2: B 0.675; ZrB12: B 0.923 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 2 |  |
+| 2310.15 | peritectic: L + ZrB2 = ZrB12 | L: B 0.939; ZrB2: B 0.666667; ZrB12: B 0.923077 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 5 |  |
+| 2310 | peritectic: L + ZrB2 -> ZrB12 | L: Zr 0.939; ZrB2: B 0.666667, Zr 0.333333; ZrB12: B 0.923077, Zr 0.076923 | model | [1] Chen 2009 | Table 4, p. 5, row 9 |  |
+| 2309.15 | peritectic: L + ZrB2 = ZrB12 | L: B 0.94; ZrB2: B 0.666667; ZrB12: B 0.923077 | model | [3] Pan 2019 | Table 2, p. 4, row 6 |  |
+| 2303 | peritectic: L + ZrB2 -> ZrB12 | L: Zr 0.92; ZrB2: B 0.666667, Zr 0.333333; ZrB12: B 0.923077, Zr 0.076923 | experimental | [1] Chen 2009; _cites Portnoi 1970_ | Table 4, p. 5, row 8 |  |
+| 2299.15 | eutectic: L -> B + ZrB12 | L: B 0.967; B: B 1; ZrB12: B 0.923 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 3 |  |
+| 2282.15 | eutectic: L = ZrB12 + (βB) | L: B 0.9573; ZrB12: B 0.923077 | model | [3] Pan 2019 | Table 2, p. 4, row 8 |  |
+| 2282.15 | eutectic: L = ZrB12 + (βB) | L: B 0.957; ZrB12: B 0.923077 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 7 |  |
+| 2282 | eutectic: L -> ZrB12+β-B | L: Zr 0.957; ZrB12: B 0.923077, Zr 0.076923 | model | [1] Chen 2009 | Table 4, p. 5, row 12 |  |
+| 2273 | eutectic: L -> ZrB12+β-B | L: Zr 0.98; ZrB12: B 0.923077, Zr 0.076923 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 10 |  |
+| 2248 | eutectic: L -> ZrB12+β-B | L: Zr 0.96; ZrB12: B 0.923077, Zr 0.076923 | experimental | [1] Chen 2009; _cites Portnoi 1970_ | Table 4, p. 5, row 11 |  |
+| 1988.15 | eutectoid: ZrB12 = ZrB2 + β-B | ZrB12: B 0.923077; ZrB2: B 0.666667 | model | [3] Pan 2019 | Table 2, p. 4, row 10 |  |
+| 1984.15 | eutectoid: ZrB12 = ZrB2 + β-B | ZrB12: B 0.923077; ZrB2: B 0.666667 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 9 |  |
+| 1984 | eutectoid: ZrB12 -> ZrB2+β-B | ZrB12: B 0.923077, Zr 0.076923; ZrB2: B 0.666667, Zr 0.333333 | model | [1] Chen 2009 | Table 4, p. 5, row 14 |  |
+| 1983 | eutectoid: ZrB12 -> ZrB2+β-B | ZrB12: B 0.923077, Zr 0.076923; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 13 |  |
+| 1963.15 | eutectic: L -> ZrB2 + bcc-Zr | L: B 0.135; ZrB2: B 0.667; bcc-Zr: B 0.01 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 4 |  |
+| 1953 | eutectic: L -> ZrB2 + bcc-Zr | L: Zr 0.14; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Portnoi 1970_ | Table 4, p. 5, row 2 |  |
+| 1934.15 | eutectic: L = ZrB2 + (βZr) | L: B 0.124; ZrB2: B 0.666667 | model | [3] Pan 2019 | Table 2, p. 4, row 2 |  |
+| 1934.15 | eutectic: L = ZrB2 + (βZr) | L: B 0.1242; ZrB2: B 0.666667 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 1 |  |
+| 1934 | eutectic: L -> ZrB2 + bcc-Zr | L: Zr 0.1242; ZrB2: B 0.666667, Zr 0.333333 | model | [1] Chen 2009 | Table 4, p. 5, row 3 |  |
+| 1933 | eutectic: L -> ZrB2 + bcc-Zr | L: Zr 0.12; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 1 |  |
 | 1718.15 | eutectic |  | experimental | [3] Pan 2019; _cites Eckert 1966_ | p. 3 | “For the liquidus projection of the B-Ti-Zr system, the two following invariant transitory equilibria and one eutectic minimum (quasibinary eutectic) were confirmed by Ref 25 and 26: L ? (Ti, Zr)B2 = TiB ? (bTi, bZr) at 1450 C with the liquid composition of 11 at.% B and 37 at.% Zr, L ? (Ti, Zr)B2 = ZrB12 ? (bB) at 2020 C, and L = TiB ? (bTi, bZr) at 1445 C with the liquid composition of \* 9 at.%…” |
-| 1523.15 | Peritectoid: ZrB2 + (βZr) = ZrB | ZrB2: B 0.666667; ZrB: B 0.5 | model | [3] Pan 2019 | Table 2, p. 4, row 12 |  |
-| 1523.15 | Peritectoid: ZrB2 + (βZr) = ZrB | ZrB2: B 0.666667; ZrB: B 0.5 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 11 |  |
-| 1523 | Peritectoid: ZrB2+bcc-Zr -> ZrB | ZrB2: B 0.666667, Zr 0.333333; ZrB: B 0.5, Zr 0.5 | experimental | [1] Chen 2009; _cites Glaser 1953_ | Table 4, p. 5, row 16 |  |
-| 1523 | Peritectoid: ZrB2+bcc-Zr -> ZrB | ZrB2: B 0.666667, Zr 0.333333; ZrB: B 0.5, Zr 0.5 | model | [1] Chen 2009 | Table 4, p. 5, row 17 |  |
-| 1461.15 | Peritectoid: ZrB2 + bcc-Zr -> ZrB | ZrB2: B 0.667; bcc-Zr: B 0.001; ZrB: B 0.5 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 5 |  |
+| 1523.15 | peritectoid: ZrB2 + (βZr) = ZrB | ZrB2: B 0.666667; ZrB: B 0.5 | model | [3] Pan 2019 | Table 2, p. 4, row 12 |  |
+| 1523.15 | peritectoid: ZrB2 + (βZr) = ZrB | ZrB2: B 0.666667; ZrB: B 0.5 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 11 |  |
+| 1523 | peritectoid: ZrB2+bcc-Zr -> ZrB | ZrB2: B 0.666667, Zr 0.333333; ZrB: B 0.5, Zr 0.5 | experimental | [1] Chen 2009; _cites Glaser 1953_ | Table 4, p. 5, row 16 |  |
+| 1523 | peritectoid: ZrB2+bcc-Zr -> ZrB | ZrB2: B 0.666667, Zr 0.333333; ZrB: B 0.5, Zr 0.5 | model | [1] Chen 2009 | Table 4, p. 5, row 17 |  |
+| 1461.15 | peritectoid: ZrB2 + bcc-Zr -> ZrB | ZrB2: B 0.667; bcc-Zr: B 0.001; ZrB: B 0.5 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 5 |  |
 | 1153 | peritectoid |  | experimental | [1] Chen 2009 | p. 2 | “This corresponds to the peritectoid decomposition of hcp-Zr (1 at.% B) solid solution into bcc-Zr + ZrB2 at 1153 ± 15 K.” |
 
 ## Formation enthalpies
@@ -94,9 +94,9 @@ Table: Phase transition, B–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3503.15 K | 3503.15 | Congruent: L = ZrB2; _L: B 0.6667; ZrB2: B 0.666667_ | model | [3] Pan 2019 | Table 2, p. 4, row 4 |  |
-| Phase transition | 3506.15 K | 3506.15 | Congruent: L = ZrB2; _L: B 0.666; ZrB2: B 0.666667_ | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 3 |  |
-| Phase transition | 3516.15 K | 3516.15 | Congruent: L -> ZrB2; _L: B 0.667; ZrB2: B 0.667_ | model | [2] Cacciamani 2011 | Table 4, p. 6, row 1 |  |
+| Phase transition | 3503.15 K | 3503.15 | congruent melting: L = ZrB2; _L: B 0.6667; ZrB2: B 0.666667_ | model | [3] Pan 2019 | Table 2, p. 4, row 4 |  |
+| Phase transition | 3506.15 K | 3506.15 | congruent melting: L = ZrB2; _L: B 0.666; ZrB2: B 0.666667_ | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 3 |  |
+| Phase transition | 3516.15 K | 3516.15 | congruent melting: L -> ZrB2; _L: B 0.667; ZrB2: B 0.667_ | model | [2] Cacciamani 2011 | Table 4, p. 6, row 1 |  |
 
 ## Sources
 

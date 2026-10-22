@@ -1,20 +1,19 @@
 # Al2O3: enthalpy of formation
 
-> Enthalpy of formation of Al2O3: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al2O3: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al2O3.html · Markdown: https://data.orchid-project.org/compounds/Al2O3.md
 
-5 accepted literature formation-enthalpy value(s) (model 2, DFT 3); Materials Project -330.611 kJ/mol-atom (mp-aaaaabrz); OQMD -315.03 kJ/mol-atom (oqmd-1234774).
+4 accepted literature formation-enthalpy value(s) (model 1, DFT 3); Materials Project -330.611 kJ/mol-atom (mp-aaaaabrz); OQMD -315.03 kJ/mol-atom (oqmd-1234774).
 
 Systems: [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al2O3 reported in the literature (5)
+Table: Enthalpy of formation of Al2O3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -335.14 kJ/mol-atom | Al2O3 |  | model |  | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [1] Li 2023 | Table 5, p. 6, row 2 |  |
 | -335.14 kJ/mol-atom | Al2O3 |  | model |  | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [1] Li 2023 | Table 5, p. 6, row 2 |  |
 | -329.86 kJ/mol-atom | Al2O3 |  | DFT | first-principle method | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [1] Li 2023 | Table 3, p. 5, row 6 |  |
 | -313.44 kJ/mol-atom | Al2O3 |  | DFT | first-principle method | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [1] Li 2023 | Table 3, p. 5, row 5 |  |

@@ -118,31 +118,31 @@ Table: Mixing / partial, Cu–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: δH_ | 8368 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.3, Tl 0.7_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: δH_ | 7975 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.597, Tl 0.403_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: δH_ | 6619 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.3, Tl 0.7_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 23 |  |
-| Enthalpy of mixing; _printed: δH_ | 4552 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.2, Tl 0.8_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 24 |  |
-| Enthalpy of mixing; _printed: δH_ | 5569 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.703, Tl 0.297_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: δH_ | 8632 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.5, Tl 0.5_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: δH_ | 4837 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.25, Tl 0.75_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: δH_ | 8368 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.547, Tl 0.453_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: δH_ | 6276 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.8, Tl 0.2_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: δH_ | 7063 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.695, Tl 0.305_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: δH_ | 5100 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.797, Tl 0.203_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: δH_ | 2272 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.1, Tl 0.9_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 25 |  |
-| Enthalpy of mixing; _printed: δH_ | 6014 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.3, Tl 0.7_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: δH_ | 2615 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.903, Tl 0.097_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: δH_ | 8176 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.6, Tl 0.4_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 20 |  |
-| Enthalpy of mixing; _printed: δH_ | 3269 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.1, Tl 0.9_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 15 |  |
-| Enthalpy of mixing; _printed: δH_ | 5079 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.8, Tl 0.2_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 18 |  |
-| Enthalpy of mixing; _printed: δH_ | 6950 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.7, Tl 0.3_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 19 |  |
-| Enthalpy of mixing; _printed: δH_ | 8577 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.5, Tl 0.5_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 21 |  |
-| Enthalpy of mixing; _printed: δH_ | 4446 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.2, Tl 0.8_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 14 |  |
-| Enthalpy of mixing; _printed: δH_ | 2707 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.9, Tl 0.1_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 17 |  |
-| Enthalpy of mixing; _printed: δH_ | 2092 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.1, Tl 0.9_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 16 |  |
-| Enthalpy of mixing; _printed: δH_ | 7976 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.398, Tl 0.602_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: δH_ | 1439 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.922, Tl 0.078_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: δH_ | 8075 (J (g at.)^-1) |  | liquid; _alloy: Cu 0.4, Tl 0.6_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 22 |  |
+| Enthalpy of mixing; _printed: δH_ | 8.368 kJ/mol-atom |  | liquid; _alloy: Cu 0.3, Tl 0.7_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: δH_ | 7.975 kJ/mol-atom |  | liquid; _alloy: Cu 0.597, Tl 0.403_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: δH_ | 6.619 kJ/mol-atom |  | liquid; _alloy: Cu 0.3, Tl 0.7_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 23 |  |
+| Enthalpy of mixing; _printed: δH_ | 4.552 kJ/mol-atom |  | liquid; _alloy: Cu 0.2, Tl 0.8_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 24 |  |
+| Enthalpy of mixing; _printed: δH_ | 5.569 kJ/mol-atom |  | liquid; _alloy: Cu 0.703, Tl 0.297_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: δH_ | 8.632 kJ/mol-atom |  | liquid; _alloy: Cu 0.5, Tl 0.5_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: δH_ | 4.837 kJ/mol-atom |  | liquid; _alloy: Cu 0.25, Tl 0.75_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 13 |  |
+| Enthalpy of mixing; _printed: δH_ | 8.368 kJ/mol-atom |  | liquid; _alloy: Cu 0.547, Tl 0.453_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: δH_ | 6.276 kJ/mol-atom |  | liquid; _alloy: Cu 0.8, Tl 0.2_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: δH_ | 7.063 kJ/mol-atom |  | liquid; _alloy: Cu 0.695, Tl 0.305_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: δH_ | 5.1 kJ/mol-atom |  | liquid; _alloy: Cu 0.797, Tl 0.203_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: δH_ | 2.272 kJ/mol-atom |  | liquid; _alloy: Cu 0.1, Tl 0.9_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 25 |  |
+| Enthalpy of mixing; _printed: δH_ | 6.014 kJ/mol-atom |  | liquid; _alloy: Cu 0.3, Tl 0.7_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: δH_ | 2.615 kJ/mol-atom |  | liquid; _alloy: Cu 0.903, Tl 0.097_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: δH_ | 8.176 kJ/mol-atom |  | liquid; _alloy: Cu 0.6, Tl 0.4_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 20 |  |
+| Enthalpy of mixing; _printed: δH_ | 3.269 kJ/mol-atom |  | liquid; _alloy: Cu 0.1, Tl 0.9_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 15 |  |
+| Enthalpy of mixing; _printed: δH_ | 5.079 kJ/mol-atom |  | liquid; _alloy: Cu 0.8, Tl 0.2_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 18 |  |
+| Enthalpy of mixing; _printed: δH_ | 6.95 kJ/mol-atom |  | liquid; _alloy: Cu 0.7, Tl 0.3_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 19 |  |
+| Enthalpy of mixing; _printed: δH_ | 8.577 kJ/mol-atom |  | liquid; _alloy: Cu 0.5, Tl 0.5_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 21 |  |
+| Enthalpy of mixing; _printed: δH_ | 4.446 kJ/mol-atom |  | liquid; _alloy: Cu 0.2, Tl 0.8_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: δH_ | 2.707 kJ/mol-atom |  | liquid; _alloy: Cu 0.9, Tl 0.1_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 17 |  |
+| Enthalpy of mixing; _printed: δH_ | 2.092 kJ/mol-atom |  | liquid; _alloy: Cu 0.1, Tl 0.9_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 16 |  |
+| Enthalpy of mixing; _printed: δH_ | 7.976 kJ/mol-atom |  | liquid; _alloy: Cu 0.398, Tl 0.602_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: δH_ | 1.439 kJ/mol-atom |  | liquid; _alloy: Cu 0.922, Tl 0.078_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: δH_ | 8.075 kJ/mol-atom |  | liquid; _alloy: Cu 0.4, Tl 0.6_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 22 |  |
 
 ### Activity / EMF / Gibbs energy (22)
 

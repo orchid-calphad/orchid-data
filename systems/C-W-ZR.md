@@ -27,16 +27,16 @@ Table: Invariant reactions reported in the literature for the C–W–Zr system 
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3084.15 | min: e1,min: L = (W,Zr)C + W | L: C 0.191, W 0.594 | model | [1] Zhou 2015 | Table 3, p. 7, row 3 |  |
-| 3073.15 | min: e1,min: L = (W,Zr)C + W | L: C 0.192, W 0.572 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 4 |  |
-| 3013.15 | E: E1: L = C + (W,Zr)C + WC | L: C 0.458, W 0.514; WC: C 0.5, W 0.5, Zr 0 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 2 |  |
-| 3010.15 | E: E1: L = C + (W,Zr)C + WC | L: C 0.436, W 0.531; WC: C 0.5, W 0.5, Zr 0 | model | [1] Zhou 2015 | Table 3, p. 7, row 1 |  |
-| 2897.15 | E: E2: L = W2C + (W,Zr)C + W | L: C 0.247, W 0.682 | model | [1] Zhou 2015 | Table 3, p. 7, row 5 |  |
-| 2893.15 | E: E2: L = W2C + (W,Zr)C + W | L: C 0.264, W 0.65 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 6 |  |
-| 2613.15 | P: P1: L + (W,Zr)C + W = W2Zr | L: C 0.034, W 0.163 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 8 |  |
-| 2613.15 | P: P1: L + (W,Zr)C + W = W2Zr | L: C 0.044, W 0.334 | model | [1] Zhou 2015 | Table 3, p. 7, row 7 |  |
-| 2013.15 | U: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.035, W 0.071 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 10 |  |
-| 2012.15 | U: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.002, W 0.109 | model | [1] Zhou 2015 | Table 3, p. 7, row 9 |  |
+| 3084.15 | other: e1,min: L = (W,Zr)C + W | L: C 0.191, W 0.594 | model | [1] Zhou 2015 | Table 3, p. 7, row 3 |  |
+| 3073.15 | other: e1,min: L = (W,Zr)C + W | L: C 0.192, W 0.572 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 4 |  |
+| 3013.15 | eutectic: E1: L = C + (W,Zr)C + WC | L: C 0.458, W 0.514; WC: C 0.5, W 0.5, Zr 0 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 2 |  |
+| 3010.15 | eutectic: E1: L = C + (W,Zr)C + WC | L: C 0.436, W 0.531; WC: C 0.5, W 0.5, Zr 0 | model | [1] Zhou 2015 | Table 3, p. 7, row 1 |  |
+| 2897.15 | eutectic: E2: L = W2C + (W,Zr)C + W | L: C 0.247, W 0.682 | model | [1] Zhou 2015 | Table 3, p. 7, row 5 |  |
+| 2893.15 | eutectic: E2: L = W2C + (W,Zr)C + W | L: C 0.264, W 0.65 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 6 |  |
+| 2613.15 | peritectic: P1: L + (W,Zr)C + W = W2Zr | L: C 0.034, W 0.163 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 8 |  |
+| 2613.15 | peritectic: P1: L + (W,Zr)C + W = W2Zr | L: C 0.044, W 0.334 | model | [1] Zhou 2015 | Table 3, p. 7, row 7 |  |
+| 2013.15 | quasi-peritectic: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.035, W 0.071 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 10 |  |
+| 2012.15 | quasi-peritectic: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.002, W 0.109 | model | [1] Zhou 2015 | Table 3, p. 7, row 9 |  |
 
 ## Sources
 

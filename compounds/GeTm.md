@@ -1,22 +1,20 @@
 # GeTm: enthalpy of formation
 
-> Enthalpy of formation of GeTm: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of GeTm: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/GeTm.html · Markdown: https://data.orchid-project.org/compounds/GeTm.md
 
-4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -80.939 kJ/mol-atom (mp-aaacevrr); OQMD -80.988 kJ/mol-atom (oqmd-30502).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -80.939 kJ/mol-atom (mp-aaacevrr); OQMD -80.988 kJ/mol-atom (oqmd-30502).
 
 Systems: [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of GeTm reported in the literature (4)
+Table: Enthalpy of formation of GeTm reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -87.57 kJ/mol-atom | TmGe |  | model | Prediction | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 9 |  |
-| -87.57 kJ/mol-atom | TmGe |  | model | Prediction | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 9 |  |
-| -83.8 kJ/mol-atom | TmGe |  | model | Optimization | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018 | Table 2, p. 5, row 8 |  |
 | -83.8 kJ/mol-atom | TmGe |  | model | Optimization | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018 | Table 2, p. 5, row 8 |  |
 
 ## DFT formation energies

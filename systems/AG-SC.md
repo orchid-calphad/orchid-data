@@ -67,16 +67,16 @@ Table: Invariant reactions reported in the literature for the Ag–Sc system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1404.45 | Eutectic: L -> AgSc + Ag2Sc | L: Sc 0.389; AgSc: Sc 0.5; Ag2Sc: Sc 0.333 | model | [1] Liu 2009 | Table 3, p. 4, row 11 |  |
-| 1403.15 | Eutectic: L -> AgSc + Ag2Sc | L: Sc 0.4; AgSc: Sc 0.5; Ag2Sc: Sc 0.333 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 10 |  |
-| 1209.15 | Peritectic: L + Ag2Sc -> Ag4Sc | Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 14 |  |
-| 1208.75 | Peritectic: L + Ag2Sc -> Ag4Sc | L: Sc 0.164; Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | model | [1] Liu 2009 | Table 3, p. 4, row 16 |  |
-| 1199.15 | Eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.12; Ag4Sc: Sc 0.2; (Ag): Sc 0.104 | experimental | [1] Liu 2009; _cites Gschneidner 1971_ | Table 3, p. 4, row 17 |  |
-| 1198.95 | Eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.139; Ag4Sc: Sc 0.2; (Ag): Sc 0.115 | model | [1] Liu 2009 | Table 3, p. 4, row 19 |  |
-| 1193.15 | Eutectic: L -> αSc + AgSc | L: Sc 0.8; αSc: Sc 1; AgSc: Sc 0.5 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 6 |  |
-| 1193.15 | Eutectic: L -> αSc + AgSc | L: Sc 0.787; αSc: Sc 1; AgSc: Sc 0.5 | model | [1] Liu 2009 | Table 3, p. 4, row 7 |  |
-| 1193.15 | Peritectic: L + Ag2Sc -> Ag4Sc | L: Sc 0.115; Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 15 |  |
-| 1183.15 | Eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.1; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 18 |  |
+| 1404.45 | eutectic: L -> AgSc + Ag2Sc | L: Sc 0.389; AgSc: Sc 0.5; Ag2Sc: Sc 0.333 | model | [1] Liu 2009 | Table 3, p. 4, row 11 |  |
+| 1403.15 | eutectic: L -> AgSc + Ag2Sc | L: Sc 0.4; AgSc: Sc 0.5; Ag2Sc: Sc 0.333 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 10 |  |
+| 1209.15 | peritectic: L + Ag2Sc -> Ag4Sc | Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 14 |  |
+| 1208.75 | peritectic: L + Ag2Sc -> Ag4Sc | L: Sc 0.164; Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | model | [1] Liu 2009 | Table 3, p. 4, row 16 |  |
+| 1199.15 | eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.12; Ag4Sc: Sc 0.2; (Ag): Sc 0.104 | experimental | [1] Liu 2009; _cites Gschneidner 1971_ | Table 3, p. 4, row 17 |  |
+| 1198.95 | eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.139; Ag4Sc: Sc 0.2; (Ag): Sc 0.115 | model | [1] Liu 2009 | Table 3, p. 4, row 19 |  |
+| 1193.15 | eutectic: L -> αSc + AgSc | L: Sc 0.8; αSc: Sc 1; AgSc: Sc 0.5 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 6 |  |
+| 1193.15 | eutectic: L -> αSc + AgSc | L: Sc 0.787; αSc: Sc 1; AgSc: Sc 0.5 | model | [1] Liu 2009 | Table 3, p. 4, row 7 |  |
+| 1193.15 | peritectic: L + Ag2Sc -> Ag4Sc | L: Sc 0.115; Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 15 |  |
+| 1183.15 | eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.1; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 18 |  |
 
 ## Other properties
 
@@ -86,18 +86,18 @@ Table: Phase transition, Ag–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1233.65 K | 1233.65 | Melting: L -> (Ag); _(Ag): Sc 0_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 21 |  |
-| Phase transition | 1235.05 K | 1235.05 | Melting: L -> (Ag); _(Ag): Sc 0_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 20 |  |
-| Phase transition | 1235.05 K | 1235.05 | Melting: L -> (Ag); _(Ag): Sc 0_ | model | [1] Liu 2009 | Table 3, p. 4, row 22 |  |
-| Phase transition | 1427.85 K | 1427.85 | Congruent: L -> Ag2Sc; _L: Sc 0.333; Ag2Sc: Sc 0.333_ | model | [1] Liu 2009 | Table 3, p. 4, row 13 |  |
-| Phase transition | 1428.15 K | 1428.15 | Congruent: L -> Ag2Sc; _L: Sc 0.333; Ag2Sc: Sc 0.333_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 12 |  |
-| Phase transition | 1502.95 K | 1502.95 | Congruent: L -> AgSc; _L: Sc 0.5; AgSc: Sc 0.5_ | model | [1] Liu 2009 | Table 3, p. 4, row 9 |  |
-| Phase transition | 1503.15 K | 1503.15 | Congruent: L -> AgSc; _L: Sc 0.5; AgSc: Sc 0.5_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 8 |  |
-| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc -> αSc; _αSc: Sc 1_ | model | [1] Liu 2009 | Table 3, p. 4, row 5 |  |
-| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc -> αSc; _αSc: Sc 1_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 4 |  |
-| Phase transition | 1811.15 K | 1811.15 | Melting: L -> βSc; _βSc: Sc 1_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 2 |  |
-| Phase transition | 1814.15 K | 1814.15 | Melting: L -> βSc; _βSc: Sc 1_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 1 |  |
-| Phase transition | 1814.15 K | 1814.15 | Melting: L -> βSc; _βSc: Sc 1_ | model | [1] Liu 2009 | Table 3, p. 4, row 3 |  |
+| Phase transition | 1233.65 K | 1233.65 | congruent melting: L -> (Ag); _(Ag): Sc 0_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 21 |  |
+| Phase transition | 1235.05 K | 1235.05 | congruent melting: L -> (Ag); _(Ag): Sc 0_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 20 |  |
+| Phase transition | 1235.05 K | 1235.05 | congruent melting: L -> (Ag); _(Ag): Sc 0_ | model | [1] Liu 2009 | Table 3, p. 4, row 22 |  |
+| Phase transition | 1427.85 K | 1427.85 | congruent melting: L -> Ag2Sc; _L: Sc 0.333; Ag2Sc: Sc 0.333_ | model | [1] Liu 2009 | Table 3, p. 4, row 13 |  |
+| Phase transition | 1428.15 K | 1428.15 | congruent melting: L -> Ag2Sc; _L: Sc 0.333; Ag2Sc: Sc 0.333_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 12 |  |
+| Phase transition | 1502.95 K | 1502.95 | congruent melting: L -> AgSc; _L: Sc 0.5; AgSc: Sc 0.5_ | model | [1] Liu 2009 | Table 3, p. 4, row 9 |  |
+| Phase transition | 1503.15 K | 1503.15 | congruent melting: L -> AgSc; _L: Sc 0.5; AgSc: Sc 0.5_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 8 |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: Sc 1_ | model | [1] Liu 2009 | Table 3, p. 4, row 5 |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: Sc 1_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 4 |  |
+| Phase transition | 1811.15 K | 1811.15 | congruent melting: L -> βSc; _βSc: Sc 1_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 2 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Sc 1_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 1 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Sc 1_ | model | [1] Liu 2009 | Table 3, p. 4, row 3 |  |
 
 ## Sources
 

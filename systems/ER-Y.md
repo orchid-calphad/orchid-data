@@ -46,10 +46,10 @@ Table: Invariant reactions reported in the literature for the Er–Y system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1780.15 | Eutectoid: L + (Er, αY) -> βY | L: Y 0.47; (Er, αY): Y 0.5 | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 10 |  |
-| 1780.15 | Eutectoid: L + (Er, αY) -> βY | L: Y 0.47; (Er, αY): Y 0.5 | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 11 |  |
-| 1779.95 | Eutectoid: L + (Er, αY) -> βY | L: Y 0.4731; (Er, αY): Y 0.4688; βY: Y 0.4729 | model | [1] Wang 2010 | Table 5, p. 4, row 12 |  |
-| 1773.15 | Eutectoid: L + (Er, αY) -> βY | (Er, αY): Y 0.5 | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 9 |  |
+| 1780.15 | eutectoid: L + (Er, αY) -> βY | L: Y 0.47; (Er, αY): Y 0.5 | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 10 |  |
+| 1780.15 | eutectoid: L + (Er, αY) -> βY | L: Y 0.47; (Er, αY): Y 0.5 | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 11 |  |
+| 1779.95 | eutectoid: L + (Er, αY) -> βY | L: Y 0.4731; (Er, αY): Y 0.4688; βY: Y 0.4729 | model | [1] Wang 2010 | Table 5, p. 4, row 12 |  |
+| 1773.15 | eutectoid: L + (Er, αY) -> βY | (Er, αY): Y 0.5 | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 9 |  |
 
 ## Other properties
 
@@ -59,18 +59,18 @@ Table: Phase transition, Er–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1751.15 K | 1751.15 | Polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 6 |  |
-| Phase transition | 1751.15 K | 1751.15 | Polymorphic: βY -> αY; _βY: Y 1_ | model | [1] Wang 2010 | Table 5, p. 4, row 8 |  |
-| Phase transition | 1751.15 K | 1751.15 | Polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 7 |  |
-| Phase transition | 1753.15 K | 1753.15 | Polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 5 |  |
-| Phase transition | 1763.15 K | 1763.15 | Melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 13 |  |
-| Phase transition | 1788.15 K | 1788.15 | Melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 1 |  |
-| Phase transition | 1795.15 K | 1795.15 | Melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 2 |  |
-| Phase transition | 1795.15 K | 1795.15 | Melting: L -> βY; _L: Y 1_ | model | [1] Wang 2010 | Table 5, p. 4, row 4 |  |
-| Phase transition | 1795.15 K | 1795.15 | Melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 3 |  |
-| Phase transition | 1802.15 K | 1802.15 | Melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 14 |  |
-| Phase transition | 1802.15 K | 1802.15 | Melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 15 |  |
-| Phase transition | 1802.15 K | 1802.15 | Melting: L -> (Er); _L: Y 0_ | model | [1] Wang 2010 | Table 5, p. 4, row 16 |  |
+| Phase transition | 1751.15 K | 1751.15 | polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 6 |  |
+| Phase transition | 1751.15 K | 1751.15 | polymorphic: βY -> αY; _βY: Y 1_ | model | [1] Wang 2010 | Table 5, p. 4, row 8 |  |
+| Phase transition | 1751.15 K | 1751.15 | polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 7 |  |
+| Phase transition | 1753.15 K | 1753.15 | polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 5 |  |
+| Phase transition | 1763.15 K | 1763.15 | congruent melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 13 |  |
+| Phase transition | 1788.15 K | 1788.15 | congruent melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 1 |  |
+| Phase transition | 1795.15 K | 1795.15 | congruent melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 2 |  |
+| Phase transition | 1795.15 K | 1795.15 | congruent melting: L -> βY; _L: Y 1_ | model | [1] Wang 2010 | Table 5, p. 4, row 4 |  |
+| Phase transition | 1795.15 K | 1795.15 | congruent melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 3 |  |
+| Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 14 |  |
+| Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 15 |  |
+| Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> (Er); _L: Y 0_ | model | [1] Wang 2010 | Table 5, p. 4, row 16 |  |
 
 ## Sources
 

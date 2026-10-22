@@ -71,29 +71,29 @@ Table: Invariant reactions reported in the literature for the Sm–Sn system (23
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1778.25 | Congruent: L -> Sm5Sn3 | L: Sn 0.375; Sm5Sn3: Sn 0.375 | model | [1] Liu 2014 | Table 5, p. 6, row 6 |  |
-| 1778.15 | Congruent: L -> Sm5Sn3 | L: Sn 0.375; Sm5Sn3: Sn 0.375 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 5 |  |
-| 1713.15 | Peritectic: L + Sm5Sn3 -> Sm4Sn3 | Sm5Sn3: Sn 0.375; Sm4Sn3: Sn 0.429 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 7 |  |
-| 1712.95 | Peritectic: L + Sm5Sn3 -> Sm4Sn3 | L: Sn 0.458; Sm5Sn3: Sn 0.375; Sm4Sn3: Sn 0.429 | model | [1] Liu 2014 | Table 5, p. 6, row 8 |  |
-| 1693.15 | Peritectic: L + Sm4Sn3 -> Sm5Sn4 | Sm4Sn3: Sn 0.429; Sm5Sn4: Sn 0.444 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 9 |  |
-| 1692.85 | Peritectic: L + Sm4Sn3 -> Sm5Sn4 | L: Sn 0.488; Sm4Sn3: Sn 0.429; Sm5Sn4: Sn 0.444 | model | [1] Liu 2014 | Table 5, p. 6, row 10 |  |
-| 1513.15 | Peritectic: L + Sm5Sn4 -> Sm11Sn10 | Sm5Sn4: Sn 0.444; Sm11Sn10: Sn 0.476 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 11 |  |
-| 1511.75 | Peritectic: L + Sm5Sn4 -> Sm11Sn10 | L: Sn 0.61; Sm5Sn4: Sn 0.444; Sm11Sn10: Sn 0.476 | model | [1] Liu 2014 | Table 5, p. 6, row 12 |  |
-| 1443.15 | Metatectic: Sm11Sn10 -> L + Sm5Sn4 | Sm11Sn10: Sn 0.476; L: Sn 0.635; Sm5Sn4: Sn 0.444 | model | [1] Liu 2014 | Table 5, p. 6, row 14 |  |
-| 1443.15 | Metatectic: Sm11Sn10 -> L + Sm5Sn4 | Sm11Sn10: Sn 0.476; Sm5Sn4: Sn 0.444 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 13 |  |
-| 1378.15 | Peritectic: L + Sm5Sn4 -> Sm2Sn3 | Sm5Sn4: Sn 0.444; Sm2Sn3: Sn 0.6 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 15 |  |
-| 1378.15 | Peritectic: L + Sm5Sn4 -> Sm2Sn3 | L: Sn 0.656; Sm5Sn4: Sn 0.444; Sm2Sn3: Sn 0.6 | model | [1] Liu 2014 | Table 5, p. 6, row 16 |  |
-| 1366.65 | Pertectic: L + Sm2Sn3 -> SmSn2 | L: Sn 0.67; Sm2Sn3: Sn 0.6; SmSn2: Sn 0.667 | model | [1] Liu 2014 | Table 5, p. 6, row 17 |  |
-| 1363.35 | Congruent: L -> SmSn3 | L: Sn 0.75; SmSn3: Sn 0.75 | model | [1] Liu 2014 | Table 5, p. 6, row 21 |  |
-| 1363.15 | Congruent: L -> SmSn3 | L: Sn 0.75; SmSn3: Sn 0.75 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 20 |  |
-| 1353.15 | Eutectic: L -> SmSn2 + SmSn3 | L: Sn 0.667; SmSn2: Sn 0.67; SmSn3: Sn 0.75 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 18 |  |
-| 1353.05 | Eutectic: L -> SmSn2 + SmSn3 | L: Sn 0.667; SmSn2: Sn 0.712; SmSn3: Sn 0.75 | model | [1] Liu 2014 | Table 5, p. 6, row 19 |  |
-| 1189.15 | Metatectic: (γSm) -> L + (βSm) | (γSm): Sn 0.001; L: Sn 0.105; (βSm): Sn 0 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 1 |  |
-| 1189.15 | Metatectic: (γSm) -> L + (βSm) | (γSm): Sn 0.001; L: Sn 0.105; (βSm): Sn 0 | model | [1] Liu 2014 | Table 5, p. 6, row 2 |  |
-| 1179.15 | Eutectic: L -> (βSm) + Sm5Sn3 | L: Sn 0.11; (βSm): Sn 0; Sm5Sn3: Sn 0.375 | model | [1] Liu 2014 | Table 5, p. 6, row 4 |  |
-| 1179.15 | Eutectic: L -> (βSm) + Sm5Sn3 | L: Sn 0.11; (βSm): Sn 0; Sm5Sn3: Sn 0.375 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 3 |  |
-| 504.15 | Eutectic: L -> SmSn3 + (Sn) | L: Sn 0.997; SmSn3: Sn 0.75; (Sn): Sn 1 | model | [1] Liu 2014 | Table 5, p. 6, row 23 |  |
-| 502.15 | Eutectic: L -> SmSn3 + (Sn) | L: Sn 0.998; SmSn3: Sn 0.75; (Sn): Sn 1 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 22 |  |
+| 1778.25 | congruent melting: L -> Sm5Sn3 | L: Sn 0.375; Sm5Sn3: Sn 0.375 | model | [1] Liu 2014 | Table 5, p. 6, row 6 |  |
+| 1778.15 | congruent melting: L -> Sm5Sn3 | L: Sn 0.375; Sm5Sn3: Sn 0.375 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 5 |  |
+| 1713.15 | peritectic: L + Sm5Sn3 -> Sm4Sn3 | Sm5Sn3: Sn 0.375; Sm4Sn3: Sn 0.429 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 7 |  |
+| 1712.95 | peritectic: L + Sm5Sn3 -> Sm4Sn3 | L: Sn 0.458; Sm5Sn3: Sn 0.375; Sm4Sn3: Sn 0.429 | model | [1] Liu 2014 | Table 5, p. 6, row 8 |  |
+| 1693.15 | peritectic: L + Sm4Sn3 -> Sm5Sn4 | Sm4Sn3: Sn 0.429; Sm5Sn4: Sn 0.444 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 9 |  |
+| 1692.85 | peritectic: L + Sm4Sn3 -> Sm5Sn4 | L: Sn 0.488; Sm4Sn3: Sn 0.429; Sm5Sn4: Sn 0.444 | model | [1] Liu 2014 | Table 5, p. 6, row 10 |  |
+| 1513.15 | peritectic: L + Sm5Sn4 -> Sm11Sn10 | Sm5Sn4: Sn 0.444; Sm11Sn10: Sn 0.476 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 11 |  |
+| 1511.75 | peritectic: L + Sm5Sn4 -> Sm11Sn10 | L: Sn 0.61; Sm5Sn4: Sn 0.444; Sm11Sn10: Sn 0.476 | model | [1] Liu 2014 | Table 5, p. 6, row 12 |  |
+| 1443.15 | metatectic/catatectic: Sm11Sn10 -> L + Sm5Sn4 | Sm11Sn10: Sn 0.476; L: Sn 0.635; Sm5Sn4: Sn 0.444 | model | [1] Liu 2014 | Table 5, p. 6, row 14 |  |
+| 1443.15 | metatectic/catatectic: Sm11Sn10 -> L + Sm5Sn4 | Sm11Sn10: Sn 0.476; Sm5Sn4: Sn 0.444 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 13 |  |
+| 1378.15 | peritectic: L + Sm5Sn4 -> Sm2Sn3 | Sm5Sn4: Sn 0.444; Sm2Sn3: Sn 0.6 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 15 |  |
+| 1378.15 | peritectic: L + Sm5Sn4 -> Sm2Sn3 | L: Sn 0.656; Sm5Sn4: Sn 0.444; Sm2Sn3: Sn 0.6 | model | [1] Liu 2014 | Table 5, p. 6, row 16 |  |
+| 1366.65 | other: L + Sm2Sn3 -> SmSn2 | L: Sn 0.67; Sm2Sn3: Sn 0.6; SmSn2: Sn 0.667 | model | [1] Liu 2014 | Table 5, p. 6, row 17 |  |
+| 1363.35 | congruent melting: L -> SmSn3 | L: Sn 0.75; SmSn3: Sn 0.75 | model | [1] Liu 2014 | Table 5, p. 6, row 21 |  |
+| 1363.15 | congruent melting: L -> SmSn3 | L: Sn 0.75; SmSn3: Sn 0.75 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 20 |  |
+| 1353.15 | eutectic: L -> SmSn2 + SmSn3 | L: Sn 0.667; SmSn2: Sn 0.67; SmSn3: Sn 0.75 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 18 |  |
+| 1353.05 | eutectic: L -> SmSn2 + SmSn3 | L: Sn 0.667; SmSn2: Sn 0.712; SmSn3: Sn 0.75 | model | [1] Liu 2014 | Table 5, p. 6, row 19 |  |
+| 1189.15 | metatectic/catatectic: (γSm) -> L + (βSm) | (γSm): Sn 0.001; L: Sn 0.105; (βSm): Sn 0 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 1 |  |
+| 1189.15 | metatectic/catatectic: (γSm) -> L + (βSm) | (γSm): Sn 0.001; L: Sn 0.105; (βSm): Sn 0 | model | [1] Liu 2014 | Table 5, p. 6, row 2 |  |
+| 1179.15 | eutectic: L -> (βSm) + Sm5Sn3 | L: Sn 0.11; (βSm): Sn 0; Sm5Sn3: Sn 0.375 | model | [1] Liu 2014 | Table 5, p. 6, row 4 |  |
+| 1179.15 | eutectic: L -> (βSm) + Sm5Sn3 | L: Sn 0.11; (βSm): Sn 0; Sm5Sn3: Sn 0.375 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 3 |  |
+| 504.15 | eutectic: L -> SmSn3 + (Sn) | L: Sn 0.997; SmSn3: Sn 0.75; (Sn): Sn 1 | model | [1] Liu 2014 | Table 5, p. 6, row 23 |  |
+| 502.15 | eutectic: L -> SmSn3 + (Sn) | L: Sn 0.998; SmSn3: Sn 0.75; (Sn): Sn 1 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 5, p. 6, row 22 |  |
 
 ## Sources
 

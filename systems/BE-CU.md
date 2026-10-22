@@ -105,7 +105,7 @@ Table: Phase transition, Be–Cu system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1082 K | 1082 |  | model | [1] Liu 2018; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6 | “However, the SGTE unary database \[7\] provides a melting point for the metastable pure bcc_A2 Cu at 1082 K, which is lower than the experimental three-phase equilibrium (Cu) ? liquid ? b.” |
-| Phase transition | 1133 K | 1133 | liquidus | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6 | “Chakrabarti and Tanner \[28\] proposed a minimum at 1133 K in the liquidus line between these two peritectic equilibria.” |
+| Phase transition | 1133 K | 1133 | other | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6 | “Chakrabarti and Tanner \[28\] proposed a minimum at 1133 K in the liquidus line between these two peritectic equilibria.” |
 
 ### Crystal structure (7)
 

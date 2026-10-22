@@ -1,10 +1,10 @@
 # Cu–Sb–Se system
 
-> Cu–Sb–Se system: 89 accepted literature values (crystal structure 69, invariant reaction 17, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sb–Se system: 88 accepted literature values (crystal structure 69, invariant reaction 16, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SB-SE.html · Markdown: https://data.orchid-project.org/systems/CU-SB-SE.md
 
-89 accepted literature values from 1 paper(s) (experimental 72, model 17); 0 calculated phase diagram(s).
+88 accepted literature values from 1 paper(s) (experimental 72, model 16); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SB-SE.json) · [CSV](https://data.orchid-project.org/systems/CU-SB-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SB-SE) · [Markdown](https://data.orchid-project.org/systems/CU-SB-SE.md)
 
@@ -13,39 +13,38 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 72 |
-| model | 17 |
+| model | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
+| invariant reaction | 16 |
 | phase transition | 3 |
 | crystal structure | 69 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Sb–Se system (17)
+Table: Invariant reactions reported in the literature for the Cu–Sb–Se system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 919.9 | E: L = β-Cu2Se + (Cu) + β |  | model | [1] Liu 2023 | Table 3, p. 8, row 1 |  |
-| 857.8 | U: L + β = β-Cu2Se + η |  | model | [1] Liu 2023 | Table 3, p. 8, row 2 |  |
-| 839.3 | E: L = (Se) + L1 + β-Cu2Se |  | model | [1] Liu 2023 | Table 3, p. 8, row 3 |  |
-| 839.3 | E: L = (Se) + L1 + β-Cu2Se |  | model | [1] Liu 2023 | Table 3, p. 8, row 4 |  |
-| 797 | E: L = β-Cu2Se + η + (Se) |  | model | [1] Liu 2023 | Table 3, p. 8, row 5 |  |
-| 785 | E: L = (Se) + β-Cu2Se + Cu3SbSe3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 6 |  |
-| 784.5 | E: L = (Se) + Sb2Se3 + CuSb3Se5 |  | model | [1] Liu 2023 | Table 3, p. 8, row 7 |  |
-| 753.8 | E: L = (Se) + Cu3SbSe3 + CuSb3Se5 |  | model | [1] Liu 2023 | Table 3, p. 8, row 8 |  |
-| 753.7 | E: L2 = Cu3SbSe3 + CuSb3Se5 + CuSbSe2 |  | model | [1] Liu 2023 | Table 3, p. 8, row 9 |  |
-| 751.3 | U: L + β-Cu2Se = Cu3SbSe3 + Cu3SbSe4(h) |  | model | [1] Liu 2023 | Table 3, p. 8, row 10 |  |
-| 744.3 | E: L2 = L3 + β-Cu2Se + Cu3SbSe4(h) |  | model | [1] Liu 2023 | Table 3, p. 8, row 11 |  |
-| 726.1 | U: L + Cu3SbSe3 = Cu3SbSe4(h) + CuSbSe2 |  | model | [1] Liu 2023 | Table 3, p. 8, row 12 |  |
-| 720.7 | E: CuSb3Se5 = L + CuSbSe2 + Sb2Se3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 13 |  |
-| 699.9 | U: L + Cu3SbSe4(r) = Cu3SbSe4(h) + CuSbSe2 |  | model | [1] Liu 2023 | Table 3, p. 8, row 14 |  |
-| 699.9 | P: L2 + L3 + Cu3SbSe4(r) = Cu3SbSe4(h) |  | model | [1] Liu 2023 | Table 3, p. 8, row 15 |  |
-| 682.2 | U: L + CuSbSe2 = Cu3SbSe4(r) + Sb2Se3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 16 |  |
-| 672 | E: L2 = Cu3SbSe4(r) + Sb2Se3 + L3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 17 |  |
+| 919.9 | eutectic: L = β-Cu2Se + (Cu) + β |  | model | [1] Liu 2023 | Table 3, p. 8, row 1 |  |
+| 857.8 | quasi-peritectic: L + β = β-Cu2Se + η |  | model | [1] Liu 2023 | Table 3, p. 8, row 2 |  |
+| 839.3 | eutectic: L = (Se) + L1 + β-Cu2Se |  | model | [1] Liu 2023 | Table 3, p. 8, row 3 |  |
+| 797 | eutectic: L = β-Cu2Se + η + (Se) |  | model | [1] Liu 2023 | Table 3, p. 8, row 5 |  |
+| 785 | eutectic: L = (Se) + β-Cu2Se + Cu3SbSe3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 6 |  |
+| 784.5 | eutectic: L = (Se) + Sb2Se3 + CuSb3Se5 |  | model | [1] Liu 2023 | Table 3, p. 8, row 7 |  |
+| 753.8 | eutectic: L = (Se) + Cu3SbSe3 + CuSb3Se5 |  | model | [1] Liu 2023 | Table 3, p. 8, row 8 |  |
+| 753.7 | eutectic: L2 = Cu3SbSe3 + CuSb3Se5 + CuSbSe2 |  | model | [1] Liu 2023 | Table 3, p. 8, row 9 |  |
+| 751.3 | quasi-peritectic: L + β-Cu2Se = Cu3SbSe3 + Cu3SbSe4(h) |  | model | [1] Liu 2023 | Table 3, p. 8, row 10 |  |
+| 744.3 | eutectic: L2 = L3 + β-Cu2Se + Cu3SbSe4(h) |  | model | [1] Liu 2023 | Table 3, p. 8, row 11 |  |
+| 726.1 | quasi-peritectic: L + Cu3SbSe3 = Cu3SbSe4(h) + CuSbSe2 |  | model | [1] Liu 2023 | Table 3, p. 8, row 12 |  |
+| 720.7 | eutectic: CuSb3Se5 = L + CuSbSe2 + Sb2Se3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 13 |  |
+| 699.9 | quasi-peritectic: L + Cu3SbSe4(r) = Cu3SbSe4(h) + CuSbSe2 |  | model | [1] Liu 2023 | Table 3, p. 8, row 14 |  |
+| 699.9 | peritectic: L2 + L3 + Cu3SbSe4(r) = Cu3SbSe4(h) |  | model | [1] Liu 2023 | Table 3, p. 8, row 15 |  |
+| 682.2 | quasi-peritectic: L + CuSbSe2 = Cu3SbSe4(r) + Sb2Se3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 16 |  |
+| 672 | eutectic: L2 = Cu3SbSe4(r) + Sb2Se3 + L3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 17 |  |
 
 ## Other properties
 

@@ -63,41 +63,41 @@ Table: Invariant reactions reported in the literature for the Cu–Y system (37)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1752 | Polymorphic: hcp-A3 \<=> bcc-A2 | hcp-A3: Y 1; bcc-A2: Y 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 7 |  |
-| 1224 | Congruent: Liquid \<=> Cu4Y | Liquid: Y 0.2; Cu4Y: Y 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 9 |  |
-| 1220 | Congruent: Liquid \<=> CuY | Liquid: Y 0.5; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 11 |  |
+| 1752 | polymorphic: hcp-A3 \<=> bcc-A2 | hcp-A3: Y 1; bcc-A2: Y 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 7 |  |
+| 1224 | congruent melting: Liquid \<=> Cu4Y | Liquid: Y 0.2; Cu4Y: Y 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 9 |  |
+| 1220 | congruent melting: Liquid \<=> CuY | Liquid: Y 0.5; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 11 |  |
 | 1203 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 34 |  |
-| 1198 | Peritectic: Liquid \<=> Cu4Y + Cu7Y2 | Liquid: Y 0.262; Cu4Y: Y 0.2; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 4 |  |
+| 1198 | peritectic: Liquid \<=> Cu4Y + Cu7Y2 | Liquid: Y 0.262; Cu4Y: Y 0.2; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 4 |  |
 | 1198 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | experimental | [2] Fries 1994 | Table 2, p. 4, row 26 |  |
 | 1198 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | model | [2] Fries 1994 | Table 2, p. 4, row 27 |  |
 | 1193 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 25 |  |
 | 1184 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 36 |  |
 | 1184 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 35 |  |
-| 1184 | Peritectic: Liquid + Cu4Y \<=> Cu6Y | Liquid: Y 0.133; Cu4Y: Y 0.2; Cu6Y: Y 0.147 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 5 |  |
+| 1184 | peritectic: Liquid + Cu4Y \<=> Cu6Y | Liquid: Y 0.133; Cu4Y: Y 0.2; Cu6Y: Y 0.147 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 5 |  |
 | 1183 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 33 |  |
 | 1163 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 39 |  |
 | 1155 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 41 |  |
-| 1153 | Eutectic: Liquid \<=> fcc-A1 + Cu6Y | Liquid: Y 0.094; fcc-A1: Y 0; Cu6Y: Y 0.129 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 6 |  |
+| 1153 | eutectic: Liquid \<=> fcc-A1 + Cu6Y | Liquid: Y 0.094; fcc-A1: Y 0; Cu6Y: Y 0.129 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 6 |  |
 | 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 43 |  |
 | 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 42 |  |
-| 1149 | Congruent: Liquid \<=> Cu2Y-H | Liquid: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 10 |  |
+| 1149 | congruent melting: Liquid \<=> Cu2Y-H | Liquid: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 10 |  |
 | 1149 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | model | [2] Fries 1994 | Table 2, p. 4, row 24 |  |
-| 1148.6 | Eutectic: Liquid \<=> Cu2Y-H + Cu7Y2 | Liquid: Y 0.299; Cu2Y-H: Y 0.222; Cu7Y2: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 3 |  |
+| 1148.6 | eutectic: Liquid \<=> Cu2Y-H + Cu7Y2 | Liquid: Y 0.299; Cu2Y-H: Y 0.222; Cu7Y2: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 3 |  |
 | 1139 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 38 |  |
 | 1135 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 21 |  |
 | 1133 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 75Fed_ | Table 2, p. 4, row 40 |  |
-| 1128 | Polymorphic: Cu2Y-R \<=> Cu2Y-H | Cu2Y-R: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 8 |  |
+| 1128 | polymorphic: Cu2Y-R \<=> Cu2Y-H | Cu2Y-R: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 8 |  |
 | 1127 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 23 |  |
 | 1123 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 57Daa_ | Table 2, p. 4, row 37 |  |
 | 1116 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994 | Table 2, p. 4, row 12 |  |
 | 1113 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 13 |  |
-| 1113 | Eutectic: Liquid \<=> Cu2Y-R + CuY | Liquid: Y 0.396; Cu2Y-R: Y 0.333; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 2 |  |
+| 1113 | eutectic: Liquid \<=> Cu2Y-R + CuY | Liquid: Y 0.396; Cu2Y-R: Y 0.333; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 2 |  |
 | 1113 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 22 |  |
 | 1110 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 11 |  |
 | 1109 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 9 |  |
 | 1070 | L -> Y + YCu | YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 4 |  |
 | 1070 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 3 |  |
-| 1070 | Eutectic: Liquid \<=> CuY + hcp-A3 | Liquid: Y 0.646; CuY: Y 0.646; hcp-A3: Y 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 1 |  |
+| 1070 | eutectic: Liquid \<=> CuY + hcp-A3 | Liquid: Y 0.646; CuY: Y 0.646; hcp-A3: Y 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 1 |  |
 | 1055 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 1 |  |
 | 1033 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 2 |  |
 
@@ -111,7 +111,7 @@ Table: Phase transition, Cu–Y system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1128 K | 1128 | YCu2(r) -> YCu2(h); _YCu2(r): Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994 | Table 2, p. 4, row 14 |  |
 | Phase transition | 1128 K | 1128 | YCu2(r) -> YCu2(h); _YCu2(r): Y 0.333333; YCu2(h): Y 0.333333_ | model | [2] Fries 1994 | Table 2, p. 4, row 15 |  |
-| Phase transition | 1166 K | 1166 | liquidus | experimental | [2] Fries 1994 | p. 3 | “Note that the "liquidus" temperatures (second peak on heating) for all three samples are almost the same, 1166 K upon cooling, indicating a very flat liquidus at YCu2.” |
+| Phase transition | 1166 K | 1166 | other | experimental | [2] Fries 1994 | p. 3 | “Note that the "liquidus" temperatures (second peak on heating) for all three samples are almost the same, 1166 K upon cooling, indicating a very flat liquidus at YCu2.” |
 | Phase transition | 1168 K | 1168 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 16 |  |
 | Phase transition | 1170 K | 1170 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 18 |  |
 | Phase transition | 1170 K | 1170 | L -> YCu2(h); _L: Y 0.333333; YCu2(h): Y 0.333333_ | experimental | [2] Fries 1994 | Table 2, p. 4, row 19 |  |

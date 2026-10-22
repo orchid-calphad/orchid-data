@@ -1,10 +1,10 @@
 # Nb–Sn system
 
-> Nb–Sn system: 149 accepted literature values (formation 69, invariant reaction 59, heat capacity / entropy / enthalpy 19, mixing / partial 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Sn system: 147 accepted literature values (formation 67, invariant reaction 59, heat capacity / entropy / enthalpy 19, mixing / partial 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-SN.html · Markdown: https://data.orchid-project.org/systems/NB-SN.md
 
-149 accepted literature values from 2 paper(s) (experimental 66, model 82, unspecified 1); 3 calculated phase diagram(s).
+147 accepted literature values from 2 paper(s) (experimental 65, model 81, unspecified 1); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SN.json) · [CSV](https://data.orchid-project.org/systems/NB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-SN/NbSn-02Tof.json) · [Markdown](https://data.orchid-project.org/systems/NB-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 66 |
-| model | 82 |
+| experimental | 65 |
+| model | 81 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 59 |
-| formation | 69 |
+| formation | 67 |
 | mixing / partial | 2 |
 | heat capacity / entropy / enthalpy | 19 |
 
@@ -206,7 +206,7 @@ Table: Enthalpies of formation, Nb–Sn system (59)
 
 ## Other properties
 
-### Formation (10)
+### Formation (8)
 
 Table: Formation, Nb–Sn system
 
@@ -215,12 +215,10 @@ Table: Formation, Nb–Sn system
 | Entropy of formation; _printed: ΔfS_ | -10.23 J/mol (basis unstated)/K | 298 | NbSn2; _alloy: Sn 0.666667_ | model | [2] Toffolon 1998 | Table 3, p. 2, row 4 |  |
 | Entropy of formation; _printed: ΔfS_ | -10.23 J/mol (basis unstated)/K | 298 | UNKNOWN | model | [2] Toffolon 1998 | Table 3, p. 2, row 4 |  |
 | Entropy of formation; _printed: ΔfS_ | -13.58 J/mol (basis unstated)/K ± 2.45 | 860 | Nb3Sn; _alloy: Sn 0.25_ | experimental | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 1, p. 1, row 1 |  |
-| Entropy of formation; _printed: ΔfS_ | -13.58 J/mol (basis unstated)/K ± 2.45 | 860 | Nb3Sn; _alloy: Sn 0.25_ | experimental | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 1, p. 1, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -6.87 J/mol (basis unstated)/K ± 0.93 | 860 | NbSn2; _alloy: Sn 0.666667_ | experimental | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -10.23 J/mol (basis unstated)/K | 860 | NbSn2; _alloy: Sn 0.666667_ | model | [2] Toffolon 1998 | Table 3, p. 2, row 3 |  |
 | Entropy of formation; _printed: ΔfS_ | -6.87 J/mol (basis unstated)/K ± 0.93 | 860 | UNKNOWN | experimental | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -10.23 J/mol (basis unstated)/K | 860 | UNKNOWN | model | [2] Toffolon 1998 | Table 3, p. 2, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | 5.18 J/mol (basis unstated)/K | 1273 | Nb3Sn; _alloy: Sn 0.25_ | model | [2] Toffolon 1998 | Table 1, p. 1, row 6 |  |
 | Entropy of formation; _printed: ΔfS_ | 5.18 J/mol (basis unstated)/K | 1273 | Nb3Sn; _alloy: Sn 0.25_ | model | [2] Toffolon 1998 | Table 1, p. 1, row 6 |  |
 
 ### Mixing / partial (2)

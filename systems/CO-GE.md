@@ -1,10 +1,10 @@
 # Co–Ge system
 
-> Co–Ge system: 171 accepted literature values (invariant reaction 78, formation 73, crystal structure 17, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ge system: 155 accepted literature values (invariant reaction 78, formation 57, crystal structure 17, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-GE.html · Markdown: https://data.orchid-project.org/systems/CO-GE.md
 
-171 accepted literature values from 3 paper(s) (experimental 65, model 106); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+155 accepted literature values from 3 paper(s) (experimental 57, model 98); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GE.json) · [CSV](https://data.orchid-project.org/systems/CO-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GE/CoGe-04Kor-LB.json) · [Markdown](https://data.orchid-project.org/systems/CO-GE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 65 |
-| model | 106 |
+| experimental | 57 |
+| model | 98 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 78 |
 | phase transition | 3 |
-| formation | 73 |
+| formation | 57 |
 | crystal structure | 17 |
 
 ## Calculated phase diagrams
@@ -112,90 +112,90 @@ Table: Invariant reactions reported in the literature for the Co–Ge system (78
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1768.15 | Melting: L -> αCo | αCo: Ge 0 | model | [1] Ansara 1991 | Table 1, p. 5, row 1 |  |
-| 1483.15 | Congruent: L -> βCo5Ge3 | L: Ge 0.375; βCo5Ge3: Ge 0.375 | model | [1] Ansara 1991 | Table 1, p. 5, row 2 |  |
-| 1483 | Congruent: L \<-> βCo5Ge3 | L: Ge 0.375; βCo5Ge3: Ge 0.375 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 1 |  |
-| 1477 | Congruent: L \<-> βCo5Ge3 | L: Ge 0.348; βCo5Ge3: Ge 0.348 | model | [2] Zeng 2019 | Table 2, p. 3, row 4 |  |
-| 1473 | Congruent: L \<-> βCo5Ge3 | L: Ge 0.345; βCo5Ge3: Ge 0.345 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 2 |  |
-| 1457 | Congruent: L \<-> βCo5Ge3 | L: Ge 0.355; βCo5Ge3: Ge 0.355 | model | [2] Zeng 2019 | Table 2, p. 3, row 3 |  |
-| 1426 | Peritectic: L + α(Co) \<-> ε(Co) | L: Ge 0.235; α(Co): Ge 0.148; ε(Co): Ge 0.169 | model | [2] Zeng 2019 | Table 2, p. 3, row 7 |  |
-| 1414 | Peritectic: L + α(Co) \<-> ε(Co) | L: Ge 0.245; α(Co): Ge 0.131; ε(Co): Ge 0.15 | model | [2] Zeng 2019 | Table 2, p. 3, row 8 |  |
-| 1406 | Peritectic: L + α(Co) \<-> ε(Co) |  | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 6 |  |
-| 1402 | Eutectic: L \<-> ε(Co) + βCo5Ge3 | L: Ge 0.251; ε(Co): Ge 0.154; βCo5Ge3: Ge 0.34 | model | [2] Zeng 2019 | Table 2, p. 3, row 13 |  |
-| 1396.15 | Peritectic: L + (αCo) -> (εCo) | L: Ge 0.252; (αCo): Ge 0.165; (εCo): Ge 0.175 | model | [1] Ansara 1991 | Table 1, p. 5, row 3 |  |
-| 1396 | Peritectic: L + α(Co) \<-> ε(Co) | L: Ge 0.252; α(Co): Ge 0.165; ε(Co): Ge 0.175 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 5 |  |
-| 1396 | Peritectic: L + α(Co) -> ε(Co) | L: Ge 0.252; α(Co): Ge 0.165; ε(Co): Ge 0.175 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 3 |  |
-| 1395 | Peritectic: L + α(Co) -> ε(Co) | L: Ge 0.251; α(Co): Ge 0.154; ε(Co): Ge 0.196 | model | [3] Dong 2013 | Table 7, p. 6, row 5 |  |
-| 1393 | Eutectic: L \<-> ε(Co) + βCo5Ge3 | L: Ge 0.258; ε(Co): Ge 0.186; βCo5Ge3: Ge 0.345 | model | [2] Zeng 2019 | Table 2, p. 3, row 12 |  |
-| 1393 | Peritectic: L + α(Co) -> ε(Co) |  | experimental | [3] Dong 2013; _cites Enoki 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990117-3) | Table 7, p. 6, row 4 |  |
-| 1391 | Eutectic: L \<-> ε(Co) + βCo5Ge3 | βCo5Ge3: Co 0.625, Ge 0.375 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 11 |  |
-| 1386 | Eutectic: L -> ε(Co) + βCo5Ge3 | L: Ge 0.258; ε(Co): Ge 0.202; βCo5Ge3: Ge 0.339 | model | [3] Dong 2013 | Table 7, p. 6, row 9 |  |
-| 1383 | Eutectic: L \<-> ε(Co) + βCo5Ge3 | L: Ge 0.255; ε(Co): Ge 0.18; βCo5Ge3: Ge 0.325 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 9 |  |
-| 1383 | Eutectic: L -> ε(Co) + βCo5Ge3 | βCo5Ge3: Ge 0.375 | experimental | [3] Dong 2013; _cites Pfisterer 1949_ [doi](https://doi.org/10.1515/ijmr-1949-401006) | Table 7, p. 6, row 7 |  |
-| 1381.15 | Eutectic: L -> (εCo) + βCo5Ge3 | L: Ge 0.255; (εCo): Ge 0.18; βCo5Ge3: Ge 0.325 | model | [1] Ansara 1991 | Table 1, p. 5, row 4 |  |
-| 1381 | Eutectic: L -> ε(Co) + βCo5Ge3 | L: Ge 0.255; ε(Co): Ge 0.18; βCo5Ge3: Ge 0.325 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 6 |  |
-| 1381 | Eutectic: L \<-> ε(Co) + βCo5Ge3 | L: Ge 0.255; ε(Co): Ge 0.18; βCo5Ge3: Ge 0.325 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 10 |  |
-| 1378 | Eutectic: L -> ε(Co) + βCo5Ge3 | βCo5Ge3: Ge 0.375 | experimental | [3] Dong 2013; _cites Enoki 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990117-3) | Table 7, p. 6, row 8 |  |
-| 1277 | Peritectic: L + βCo5Ge3 \<-> CoGe | L: Ge 0.566; βCo5Ge3: Ge 0.412; CoGe: Ge 0.487 | model | [2] Zeng 2019 | Table 2, p. 3, row 16 |  |
-| 1263 | Peritectic: L + βCo5Ge3 \<-> CoGe | βCo5Ge3: Co 0.625, Ge 0.375; CoGe: Co 0.5, Ge 0.5 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 15 |  |
-| 1262 | Peritectic: L + βCo5Ge3 \<-> CoGe | L: Ge 0.569; βCo5Ge3: Ge 0.401; CoGe: Ge 0.495 | model | [2] Zeng 2019 | Table 2, p. 3, row 17 |  |
-| 1260 | Peritectic: L + βCo5Ge3 -> CoGe | L: Ge 0.594; βCo5Ge3: Ge 0.405; CoGe: Ge 0.5 | model | [3] Dong 2013 | Table 7, p. 6, row 12 |  |
-| 1258.15 | Peritectic: βCo5Ge3 + L -> CoGe | βCo5Ge3: Ge 0.43; L: Ge 0.525; CoGe: Ge 0.5 | model | [1] Ansara 1991 | Table 1, p. 5, row 5 |  |
-| 1258 | Peritectic: L + βCo5Ge3 -> CoGe | L: Ge 0.525; βCo5Ge3: Ge 0.43; CoGe: Ge 0.5 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 10 |  |
-| 1256.45 | Melting: L -> Ge | Ge: Ge 1 | model | [1] Ansara 1991 | Table 1, p. 5, row 6 |  |
-| 1255 | Peritectic: L + βCo5Ge3 -> CoGe | βCo5Ge3: Ge 0.375; CoGe: Ge 0.5 | experimental | [3] Dong 2013; _cites Pfisterer 1949_ [doi](https://doi.org/10.1515/ijmr-1949-401006) | Table 7, p. 6, row 11 |  |
-| 1255 | Peritectic: L + βCo5Ge3 \<-> CoGe | L: Ge 0.525; βCo5Ge3: Ge 0.43; CoGe: Ge 0.5 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 14 |  |
-| 1123 | Peritectic: L + CoGe \<-> CoGe2 | L: Ge 0.741; CoGe: Ge 0.528; CoGe2: Ge 0.667 | model | [2] Zeng 2019 | Table 2, p. 3, row 22 |  |
-| 1115 | Peritectic: L + CoGe -> CoGe2 | CoGe: Ge 0.5; CoGe2: Ge 0.666667 | experimental | [3] Dong 2013; _cites Pfisterer 1949_ [doi](https://doi.org/10.1515/ijmr-1949-401006) | Table 7, p. 6, row 14 |  |
-| 1115 | Peritectic: L + CoGe \<-> CoGe2 | L: Ge 0.71; CoGe: Ge 0.5; CoGe2: Ge 0.667 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 18 |  |
-| 1112 | Peritectic: L + CoGe \<-> CoGe2 | CoGe: Co 0.5, Ge 0.5; CoGe2: Co 0.333333, Ge 0.666667 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 20 |  |
-| 1109 | Peritectic: L + CoGe \<-> CoGe2 | L: Ge 0.751; CoGe: Ge 0.529; CoGe2: Ge 0.667 | model | [2] Zeng 2019 | Table 2, p. 3, row 21 |  |
-| 1107 | Peritectic: L + CoGe -> CoGe2 | L: Ge 0.744; CoGe: Ge 0.527; CoGe2: Ge 0.667 | model | [3] Dong 2013 | Table 7, p. 6, row 15 |  |
-| 1105.15 | Peritectic: CoGe + L -> CoGe2 | CoGe: Ge 0.525; L: Ge 0.71; CoGe2: Ge 0.667 | model | [1] Ansara 1991 | Table 1, p. 5, row 7 |  |
-| 1105 | Peritectic: L + CoGe \<-> CoGe2 | CoGe: Co 0.5, Ge 0.5; CoGe2: Co 0.333333, Ge 0.666667 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 19 |  |
-| 1105 | Peritectic: L + CoGe -> CoGe2 | L: Ge 0.71; CoGe: Ge 0.525; CoGe2: Ge 0.667 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 13 |  |
-| 1104 | Eutectic: L \<-> CoGe2 + (Ge) | L: Ge 0.788; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [2] Zeng 2019 | Table 2, p. 3, row 27 |  |
-| 1099 | Eutectic: L \<-> CoGe2 + (Ge) | CoGe2: Co 0.333333, Ge 0.666667 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 25 |  |
-| 1092 | Eutectic: L \<-> CoGe2 + (Ge) | L: Ge 0.787; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [2] Zeng 2019 | Table 2, p. 3, row 26 |  |
-| 1090.15 | Eutectic: L -> CoGe2 + (Ge) | L: Ge 0.73; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [1] Ansara 1991 | Table 1, p. 5, row 8 |  |
-| 1090 | Eutectic: L -> CoGe2 + (Ge) | L: Ge 0.73; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 16 |  |
-| 1090 | Eutectic: L \<-> CoGe2 + (Ge) | L: Ge 0.75; CoGe2: Ge 0.665; (Ge): Ge 1 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 24 |  |
-| 1089 | Peritectoid: CoGe2 + CoGe \<-> Co5Ge7 | CoGe2: Co 0.333333, Ge 0.666667; CoGe: Co 0.5, Ge 0.5; Co5Ge7: Co 0.416667, Ge 0.583333 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 29 |  |
-| 1088 | Eutectic: L -> CoGe2 + (Ge) | L: Ge 0.783; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [3] Dong 2013 | Table 7, p. 6, row 18 |  |
-| 1083 | Eutectic: L -> CoGe2 + (Ge) | CoGe2: Ge 0.666667; (Ge): Ge 1 | experimental | [3] Dong 2013; _cites Pfisterer 1949_ [doi](https://doi.org/10.1515/ijmr-1949-401006) | Table 7, p. 6, row 17 |  |
-| 1083 | Eutectic: L \<-> CoGe2 + (Ge) | L: Ge 0.73; CoGe2: Ge 0.667; (Ge): Ge 1 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 23 |  |
-| 1080 | Peritectoid: CoGe2 + CoGe \<-> Co5Ge7 | CoGe2: Ge 0.667; CoGe: Ge 0.523; Co5Ge7: Ge 0.583 | model | [2] Zeng 2019 | Table 2, p. 3, row 31 |  |
-| 1079.15 | Peritectoid: CoGe + CoGe2 -> Co5Ge7 | CoGe: Ge 0.52; CoGe2: Ge 0.667; Co5Ge7: Ge 0.583 | model | [1] Ansara 1991 | Table 1, p. 5, row 9 |  |
-| 1079 | Peritectoid: CoGe + CoGe2 -> Co5Ge7 | CoGe: Ge 0.52; CoGe2: Ge 0.667; Co5Ge7: Ge 0.583 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 19 |  |
-| 1079 | Peritectoid: CoGe + CoGe2 -> Co5Ge7 | CoGe: Ge 0.524; CoGe2: Ge 0.667; Co5Ge7: Ge 0.583 | model | [3] Dong 2013 | Table 7, p. 6, row 20 |  |
-| 1079 | Peritectoid: CoGe2 + CoGe \<-> Co5Ge7 | CoGe2: Ge 0.665; CoGe: Ge 0.5; Co5Ge7: Ge 0.58 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 28 |  |
-| 1078 | Peritectoid: CoGe2 + CoGe \<-> Co5Ge7 | CoGe2: Ge 0.667; CoGe: Ge 0.525; Co5Ge7: Ge 0.583 | model | [2] Zeng 2019 | Table 2, p. 3, row 30 |  |
-| 1072 | Eutectoid: ε(Co) + βCo5Ge3 \<-> Co3Ge | ε(Co): Ge 0.142; βCo5Ge3: Ge 0.339; Co3Ge: Ge 0.248 | model | [2] Zeng 2019 | Table 2, p. 3, row 34 |  |
-| 1053 | Eutectoid: ε(Co) + βCo5Ge3 \<-> Co3Ge | ε(Co): Ge 0.17; βCo5Ge3: Ge 0.346; Co3Ge: Ge 0.25 | model | [2] Zeng 2019 | Table 2, p. 3, row 33 |  |
-| 1043.15 | Peritectoid: (εCo) + βCo5Ge3 -> Co3Ge | (εCo): Ge 0.17; βCo5Ge3: Ge 0.22; Co3Ge: Ge 0.345 | model | [1] Ansara 1991 | Table 1, p. 5, row 10 |  |
-| 1043 | Peritectoid: ε(Co) + βCo5Ge3 -> Co3Ge | ε(Co): Ge 0.17; βCo5Ge3: Ge 0.345; Co3Ge: Ge 0.22 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 21 |  |
-| 1043 | Peritectoid: ε(Co) + βCo5Ge3 -> Co3Ge | ε(Co): Ge 0.187; βCo5Ge3: Ge 0.355; Co3Ge: Ge 0.25 | model | [3] Dong 2013 | Table 7, p. 6, row 22 |  |
-| 1043 | Eutectoid: ε(Co) + βCo5Ge3 \<-> Co3Ge | ε(Co): Ge 0.17; βCo5Ge3: Ge 0.345; Co3Ge: Ge 0.22 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 32 |  |
-| 958 | Peritectoid: Co3Ge + βCo5Ge3 \<-> Co2Ge | Co3Ge: Ge 0.248; βCo5Ge3: Ge 0.339; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 36 |  |
-| 927 | Eutectoid: Co3Ge -> ε(Co) + βCo5Ge3 | Co3Ge: Ge 0.25; ε(Co): Ge 0.177; βCo5Ge3: Ge 0.362 | model | [3] Dong 2013 | Table 7, p. 6, row 24 |  |
-| 923.15 | Eutectoid: Co3Ge -> (εCo) + βCo5Ge3 | Co3Ge: Ge 0.22; (εCo): Ge 0.168; βCo5Ge3: Ge 0.348 | model | [1] Ansara 1991 | Table 1, p. 5, row 11 |  |
-| 923 | Eutectoid: Co3Ge -> ε(Co) + βCo5Ge3 | Co3Ge: Ge 0.22; ε(Co): Ge 0.168; βCo5Ge3: Ge 0.348 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 23 |  |
-| 920 | Eutectoid: Co3Ge \<-> ε(Co) + Co2Ge | Co3Ge: Ge 0.248; ε(Co): Ge 0.129; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 38 |  |
-| 912 | Peritectoid: ε(Co) + βCo5Ge3 -> Co5Ge2 | ε(Co): Ge 0.175; βCo5Ge3: Ge 0.363; Co5Ge2: Ge 0.286 | model | [3] Dong 2013 | Table 7, p. 6, row 26 |  |
-| 909.15 | Peritectoid: (εCo) + βCo5Ge3 -> Co5Ge2 | (εCo): Ge 0.167; βCo5Ge3: Ge 0.286; Co5Ge2: Ge 0.35 | model | [1] Ansara 1991 | Table 1, p. 5, row 12 |  |
-| 909 | Peritectoid: Co3Ge + βCo5Ge3 \<-> Co2Ge | Co3Ge: Ge 0.25; βCo5Ge3: Ge 0.347; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 35 |  |
-| 909 | Peritectoid: ε(Co) + βCo5Ge3 -> Co5Ge2 | ε(Co): Ge 0.167; βCo5Ge3: Ge 0.35; Co5Ge2: Ge 0.286 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 25 |  |
-| 901 | Eutectoid: Co3Ge \<-> ε(Co) + Co2Ge | Co3Ge: Ge 0.25; ε(Co): Ge 0.157; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 37 |  |
-| 695.15 | Allotropic: αCo -> εCo | εCo: Ge 0 | model | [1] Ansara 1991 | Table 1, p. 5, row 13 |  |
-| 656 | Eutectoid: Co5Ge2 -> ε(Co) + βCo5Ge3 | Co5Ge2: Ge 0.286; ε(Co): Ge 0.153; βCo5Ge3: Ge 0.388 | model | [3] Dong 2013 | Table 7, p. 6, row 27 |  |
-| 655.15 | Eutectoid: Co5Ge2 -> (εCo) + (αCo5Ge3) | Co5Ge2: Ge 0.286; (εCo): Ge 0.16; (αCo5Ge3): Ge 0.365 | model | [1] Ansara 1991 | Table 1, p. 5, row 14 |  |
-| 655 | Peritectoid: ε(Co) + βCo5Ge3 -> αCo5G3 | ε(Co): Ge 0.153; βCo5Ge3: Ge 0.388; αCo5G3: Ge 0.375 | model | [3] Dong 2013 | Table 7, p. 6, row 28 |  |
+| 1768.15 | congruent melting: L -> αCo | αCo: Ge 0 | model | [1] Ansara 1991 | Table 1, p. 5, row 1 |  |
+| 1483.15 | congruent melting: L -> βCo5Ge3 | L: Ge 0.375; βCo5Ge3: Ge 0.375 | model | [1] Ansara 1991 | Table 1, p. 5, row 2 |  |
+| 1483 | congruent melting: L \<-> βCo5Ge3 | L: Ge 0.375; βCo5Ge3: Ge 0.375 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 1 |  |
+| 1477 | congruent melting: L \<-> βCo5Ge3 | L: Ge 0.348; βCo5Ge3: Ge 0.348 | model | [2] Zeng 2019 | Table 2, p. 3, row 4 |  |
+| 1473 | congruent melting: L \<-> βCo5Ge3 | L: Ge 0.345; βCo5Ge3: Ge 0.345 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 2 |  |
+| 1457 | congruent melting: L \<-> βCo5Ge3 | L: Ge 0.355; βCo5Ge3: Ge 0.355 | model | [2] Zeng 2019 | Table 2, p. 3, row 3 |  |
+| 1426 | peritectic: L + α(Co) \<-> ε(Co) | L: Ge 0.235; α(Co): Ge 0.148; ε(Co): Ge 0.169 | model | [2] Zeng 2019 | Table 2, p. 3, row 7 |  |
+| 1414 | peritectic: L + α(Co) \<-> ε(Co) | L: Ge 0.245; α(Co): Ge 0.131; ε(Co): Ge 0.15 | model | [2] Zeng 2019 | Table 2, p. 3, row 8 |  |
+| 1406 | peritectic: L + α(Co) \<-> ε(Co) |  | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 6 |  |
+| 1402 | eutectic: L \<-> ε(Co) + βCo5Ge3 | L: Ge 0.251; ε(Co): Ge 0.154; βCo5Ge3: Ge 0.34 | model | [2] Zeng 2019 | Table 2, p. 3, row 13 |  |
+| 1396.15 | peritectic: L + (αCo) -> (εCo) | L: Ge 0.252; (αCo): Ge 0.165; (εCo): Ge 0.175 | model | [1] Ansara 1991 | Table 1, p. 5, row 3 |  |
+| 1396 | peritectic: L + α(Co) \<-> ε(Co) | L: Ge 0.252; α(Co): Ge 0.165; ε(Co): Ge 0.175 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 5 |  |
+| 1396 | peritectic: L + α(Co) -> ε(Co) | L: Ge 0.252; α(Co): Ge 0.165; ε(Co): Ge 0.175 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 3 |  |
+| 1395 | peritectic: L + α(Co) -> ε(Co) | L: Ge 0.251; α(Co): Ge 0.154; ε(Co): Ge 0.196 | model | [3] Dong 2013 | Table 7, p. 6, row 5 |  |
+| 1393 | eutectic: L \<-> ε(Co) + βCo5Ge3 | L: Ge 0.258; ε(Co): Ge 0.186; βCo5Ge3: Ge 0.345 | model | [2] Zeng 2019 | Table 2, p. 3, row 12 |  |
+| 1393 | peritectic: L + α(Co) -> ε(Co) |  | experimental | [3] Dong 2013; _cites Enoki 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990117-3) | Table 7, p. 6, row 4 |  |
+| 1391 | eutectic: L \<-> ε(Co) + βCo5Ge3 | βCo5Ge3: Co 0.625, Ge 0.375 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 11 |  |
+| 1386 | eutectic: L -> ε(Co) + βCo5Ge3 | L: Ge 0.258; ε(Co): Ge 0.202; βCo5Ge3: Ge 0.339 | model | [3] Dong 2013 | Table 7, p. 6, row 9 |  |
+| 1383 | eutectic: L \<-> ε(Co) + βCo5Ge3 | L: Ge 0.255; ε(Co): Ge 0.18; βCo5Ge3: Ge 0.325 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 9 |  |
+| 1383 | eutectic: L -> ε(Co) + βCo5Ge3 | βCo5Ge3: Ge 0.375 | experimental | [3] Dong 2013; _cites Pfisterer 1949_ [doi](https://doi.org/10.1515/ijmr-1949-401006) | Table 7, p. 6, row 7 |  |
+| 1381.15 | eutectic: L -> (εCo) + βCo5Ge3 | L: Ge 0.255; (εCo): Ge 0.18; βCo5Ge3: Ge 0.325 | model | [1] Ansara 1991 | Table 1, p. 5, row 4 |  |
+| 1381 | eutectic: L -> ε(Co) + βCo5Ge3 | L: Ge 0.255; ε(Co): Ge 0.18; βCo5Ge3: Ge 0.325 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 6 |  |
+| 1381 | eutectic: L \<-> ε(Co) + βCo5Ge3 | L: Ge 0.255; ε(Co): Ge 0.18; βCo5Ge3: Ge 0.325 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 10 |  |
+| 1378 | eutectic: L -> ε(Co) + βCo5Ge3 | βCo5Ge3: Ge 0.375 | experimental | [3] Dong 2013; _cites Enoki 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990117-3) | Table 7, p. 6, row 8 |  |
+| 1277 | peritectic: L + βCo5Ge3 \<-> CoGe | L: Ge 0.566; βCo5Ge3: Ge 0.412; CoGe: Ge 0.487 | model | [2] Zeng 2019 | Table 2, p. 3, row 16 |  |
+| 1263 | peritectic: L + βCo5Ge3 \<-> CoGe | βCo5Ge3: Co 0.625, Ge 0.375; CoGe: Co 0.5, Ge 0.5 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 15 |  |
+| 1262 | peritectic: L + βCo5Ge3 \<-> CoGe | L: Ge 0.569; βCo5Ge3: Ge 0.401; CoGe: Ge 0.495 | model | [2] Zeng 2019 | Table 2, p. 3, row 17 |  |
+| 1260 | peritectic: L + βCo5Ge3 -> CoGe | L: Ge 0.594; βCo5Ge3: Ge 0.405; CoGe: Ge 0.5 | model | [3] Dong 2013 | Table 7, p. 6, row 12 |  |
+| 1258.15 | peritectic: βCo5Ge3 + L -> CoGe | βCo5Ge3: Ge 0.43; L: Ge 0.525; CoGe: Ge 0.5 | model | [1] Ansara 1991 | Table 1, p. 5, row 5 |  |
+| 1258 | peritectic: L + βCo5Ge3 -> CoGe | L: Ge 0.525; βCo5Ge3: Ge 0.43; CoGe: Ge 0.5 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 10 |  |
+| 1256.45 | congruent melting: L -> Ge | Ge: Ge 1 | model | [1] Ansara 1991 | Table 1, p. 5, row 6 |  |
+| 1255 | peritectic: L + βCo5Ge3 -> CoGe | βCo5Ge3: Ge 0.375; CoGe: Ge 0.5 | experimental | [3] Dong 2013; _cites Pfisterer 1949_ [doi](https://doi.org/10.1515/ijmr-1949-401006) | Table 7, p. 6, row 11 |  |
+| 1255 | peritectic: L + βCo5Ge3 \<-> CoGe | L: Ge 0.525; βCo5Ge3: Ge 0.43; CoGe: Ge 0.5 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 14 |  |
+| 1123 | peritectic: L + CoGe \<-> CoGe2 | L: Ge 0.741; CoGe: Ge 0.528; CoGe2: Ge 0.667 | model | [2] Zeng 2019 | Table 2, p. 3, row 22 |  |
+| 1115 | peritectic: L + CoGe -> CoGe2 | CoGe: Ge 0.5; CoGe2: Ge 0.666667 | experimental | [3] Dong 2013; _cites Pfisterer 1949_ [doi](https://doi.org/10.1515/ijmr-1949-401006) | Table 7, p. 6, row 14 |  |
+| 1115 | peritectic: L + CoGe \<-> CoGe2 | L: Ge 0.71; CoGe: Ge 0.5; CoGe2: Ge 0.667 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 18 |  |
+| 1112 | peritectic: L + CoGe \<-> CoGe2 | CoGe: Co 0.5, Ge 0.5; CoGe2: Co 0.333333, Ge 0.666667 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 20 |  |
+| 1109 | peritectic: L + CoGe \<-> CoGe2 | L: Ge 0.751; CoGe: Ge 0.529; CoGe2: Ge 0.667 | model | [2] Zeng 2019 | Table 2, p. 3, row 21 |  |
+| 1107 | peritectic: L + CoGe -> CoGe2 | L: Ge 0.744; CoGe: Ge 0.527; CoGe2: Ge 0.667 | model | [3] Dong 2013 | Table 7, p. 6, row 15 |  |
+| 1105.15 | peritectic: CoGe + L -> CoGe2 | CoGe: Ge 0.525; L: Ge 0.71; CoGe2: Ge 0.667 | model | [1] Ansara 1991 | Table 1, p. 5, row 7 |  |
+| 1105 | peritectic: L + CoGe \<-> CoGe2 | CoGe: Co 0.5, Ge 0.5; CoGe2: Co 0.333333, Ge 0.666667 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 19 |  |
+| 1105 | peritectic: L + CoGe -> CoGe2 | L: Ge 0.71; CoGe: Ge 0.525; CoGe2: Ge 0.667 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 13 |  |
+| 1104 | eutectic: L \<-> CoGe2 + (Ge) | L: Ge 0.788; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [2] Zeng 2019 | Table 2, p. 3, row 27 |  |
+| 1099 | eutectic: L \<-> CoGe2 + (Ge) | CoGe2: Co 0.333333, Ge 0.666667 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 25 |  |
+| 1092 | eutectic: L \<-> CoGe2 + (Ge) | L: Ge 0.787; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [2] Zeng 2019 | Table 2, p. 3, row 26 |  |
+| 1090.15 | eutectic: L -> CoGe2 + (Ge) | L: Ge 0.73; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [1] Ansara 1991 | Table 1, p. 5, row 8 |  |
+| 1090 | eutectic: L -> CoGe2 + (Ge) | L: Ge 0.73; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 16 |  |
+| 1090 | eutectic: L \<-> CoGe2 + (Ge) | L: Ge 0.75; CoGe2: Ge 0.665; (Ge): Ge 1 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 24 |  |
+| 1089 | peritectoid: CoGe2 + CoGe \<-> Co5Ge7 | CoGe2: Co 0.333333, Ge 0.666667; CoGe: Co 0.5, Ge 0.5; Co5Ge7: Co 0.416667, Ge 0.583333 | experimental | [2] Zeng 2019; _cites Zeng 2017_ [doi](https://doi.org/10.1007/s11669-017-0592-1) | Table 2, p. 3, row 29 |  |
+| 1088 | eutectic: L -> CoGe2 + (Ge) | L: Ge 0.783; CoGe2: Ge 0.667; (Ge): Ge 1 | model | [3] Dong 2013 | Table 7, p. 6, row 18 |  |
+| 1083 | eutectic: L -> CoGe2 + (Ge) | CoGe2: Ge 0.666667; (Ge): Ge 1 | experimental | [3] Dong 2013; _cites Pfisterer 1949_ [doi](https://doi.org/10.1515/ijmr-1949-401006) | Table 7, p. 6, row 17 |  |
+| 1083 | eutectic: L \<-> CoGe2 + (Ge) | L: Ge 0.73; CoGe2: Ge 0.667; (Ge): Ge 1 | experimental | [2] Zeng 2019; _cites Pfisterer 1949_ | Table 2, p. 3, row 23 |  |
+| 1080 | peritectoid: CoGe2 + CoGe \<-> Co5Ge7 | CoGe2: Ge 0.667; CoGe: Ge 0.523; Co5Ge7: Ge 0.583 | model | [2] Zeng 2019 | Table 2, p. 3, row 31 |  |
+| 1079.15 | peritectoid: CoGe + CoGe2 -> Co5Ge7 | CoGe: Ge 0.52; CoGe2: Ge 0.667; Co5Ge7: Ge 0.583 | model | [1] Ansara 1991 | Table 1, p. 5, row 9 |  |
+| 1079 | peritectoid: CoGe + CoGe2 -> Co5Ge7 | CoGe: Ge 0.52; CoGe2: Ge 0.667; Co5Ge7: Ge 0.583 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 19 |  |
+| 1079 | peritectoid: CoGe + CoGe2 -> Co5Ge7 | CoGe: Ge 0.524; CoGe2: Ge 0.667; Co5Ge7: Ge 0.583 | model | [3] Dong 2013 | Table 7, p. 6, row 20 |  |
+| 1079 | peritectoid: CoGe2 + CoGe \<-> Co5Ge7 | CoGe2: Ge 0.665; CoGe: Ge 0.5; Co5Ge7: Ge 0.58 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 28 |  |
+| 1078 | peritectoid: CoGe2 + CoGe \<-> Co5Ge7 | CoGe2: Ge 0.667; CoGe: Ge 0.525; Co5Ge7: Ge 0.583 | model | [2] Zeng 2019 | Table 2, p. 3, row 30 |  |
+| 1072 | eutectoid: ε(Co) + βCo5Ge3 \<-> Co3Ge | ε(Co): Ge 0.142; βCo5Ge3: Ge 0.339; Co3Ge: Ge 0.248 | model | [2] Zeng 2019 | Table 2, p. 3, row 34 |  |
+| 1053 | eutectoid: ε(Co) + βCo5Ge3 \<-> Co3Ge | ε(Co): Ge 0.17; βCo5Ge3: Ge 0.346; Co3Ge: Ge 0.25 | model | [2] Zeng 2019 | Table 2, p. 3, row 33 |  |
+| 1043.15 | peritectoid: (εCo) + βCo5Ge3 -> Co3Ge | (εCo): Ge 0.17; βCo5Ge3: Ge 0.22; Co3Ge: Ge 0.345 | model | [1] Ansara 1991 | Table 1, p. 5, row 10 |  |
+| 1043 | peritectoid: ε(Co) + βCo5Ge3 -> Co3Ge | ε(Co): Ge 0.17; βCo5Ge3: Ge 0.345; Co3Ge: Ge 0.22 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 21 |  |
+| 1043 | peritectoid: ε(Co) + βCo5Ge3 -> Co3Ge | ε(Co): Ge 0.187; βCo5Ge3: Ge 0.355; Co3Ge: Ge 0.25 | model | [3] Dong 2013 | Table 7, p. 6, row 22 |  |
+| 1043 | eutectoid: ε(Co) + βCo5Ge3 \<-> Co3Ge | ε(Co): Ge 0.17; βCo5Ge3: Ge 0.345; Co3Ge: Ge 0.22 | experimental | [2] Zeng 2019; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 2, p. 3, row 32 |  |
+| 958 | peritectoid: Co3Ge + βCo5Ge3 \<-> Co2Ge | Co3Ge: Ge 0.248; βCo5Ge3: Ge 0.339; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 36 |  |
+| 927 | eutectoid: Co3Ge -> ε(Co) + βCo5Ge3 | Co3Ge: Ge 0.25; ε(Co): Ge 0.177; βCo5Ge3: Ge 0.362 | model | [3] Dong 2013 | Table 7, p. 6, row 24 |  |
+| 923.15 | eutectoid: Co3Ge -> (εCo) + βCo5Ge3 | Co3Ge: Ge 0.22; (εCo): Ge 0.168; βCo5Ge3: Ge 0.348 | model | [1] Ansara 1991 | Table 1, p. 5, row 11 |  |
+| 923 | eutectoid: Co3Ge -> ε(Co) + βCo5Ge3 | Co3Ge: Ge 0.22; ε(Co): Ge 0.168; βCo5Ge3: Ge 0.348 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 23 |  |
+| 920 | eutectoid: Co3Ge \<-> ε(Co) + Co2Ge | Co3Ge: Ge 0.248; ε(Co): Ge 0.129; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 38 |  |
+| 912 | peritectoid: ε(Co) + βCo5Ge3 -> Co5Ge2 | ε(Co): Ge 0.175; βCo5Ge3: Ge 0.363; Co5Ge2: Ge 0.286 | model | [3] Dong 2013 | Table 7, p. 6, row 26 |  |
+| 909.15 | peritectoid: (εCo) + βCo5Ge3 -> Co5Ge2 | (εCo): Ge 0.167; βCo5Ge3: Ge 0.286; Co5Ge2: Ge 0.35 | model | [1] Ansara 1991 | Table 1, p. 5, row 12 |  |
+| 909 | peritectoid: Co3Ge + βCo5Ge3 \<-> Co2Ge | Co3Ge: Ge 0.25; βCo5Ge3: Ge 0.347; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 35 |  |
+| 909 | peritectoid: ε(Co) + βCo5Ge3 -> Co5Ge2 | ε(Co): Ge 0.167; βCo5Ge3: Ge 0.35; Co5Ge2: Ge 0.286 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 25 |  |
+| 901 | eutectoid: Co3Ge \<-> ε(Co) + Co2Ge | Co3Ge: Ge 0.25; ε(Co): Ge 0.157; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 37 |  |
+| 695.15 | polymorphic: αCo -> εCo | εCo: Ge 0 | model | [1] Ansara 1991 | Table 1, p. 5, row 13 |  |
+| 656 | eutectoid: Co5Ge2 -> ε(Co) + βCo5Ge3 | Co5Ge2: Ge 0.286; ε(Co): Ge 0.153; βCo5Ge3: Ge 0.388 | model | [3] Dong 2013 | Table 7, p. 6, row 27 |  |
+| 655.15 | eutectoid: Co5Ge2 -> (εCo) + (αCo5Ge3) | Co5Ge2: Ge 0.286; (εCo): Ge 0.16; (αCo5Ge3): Ge 0.365 | model | [1] Ansara 1991 | Table 1, p. 5, row 14 |  |
+| 655 | peritectoid: ε(Co) + βCo5Ge3 -> αCo5G3 | ε(Co): Ge 0.153; βCo5Ge3: Ge 0.388; αCo5G3: Ge 0.375 | model | [3] Dong 2013 | Table 7, p. 6, row 28 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–Ge system (73)
+Table: Enthalpies of formation, Co–Ge system (57)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -203,19 +203,15 @@ Table: Enthalpies of formation, Co–Ge system (73)
 | CoGe |  | -21847 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 23 |  |
 | CoGe |  | -15943 per mol-atom ± 946 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -21.752 kJ/mol-atom | 1060 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 6, p. 5, row 16 |  |
-| CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -21.752 kJ/mol-atom | 1060 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 6, p. 5, row 16 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -21.394 kJ/mol-atom | 298 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -20.991 kJ/mol-atom | 298 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -15.943 kJ/mol-atom | 1060 | experimental | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -15.943 kJ/mol-atom | 1060 | experimental | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
 | CoGe2 |  | -16579 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 27 |  |
 | CoGe2 |  | -16241 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 26 |  |
 | CoGe2 |  | -11800 per mol-atom ± 1274 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 25 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -15.836 kJ/mol-atom | 1060 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 6, p. 5, row 18 |  |
-| CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -15.836 kJ/mol-atom | 1060 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 6, p. 5, row 18 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -15.343 kJ/mol-atom | 298 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -14.874 kJ/mol-atom | 298 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
-| CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -11.8 kJ/mol-atom | 1060 | experimental | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 17 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -11.8 kJ/mol-atom | 1060 | experimental | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 17 |  |
 | α(Co) |  | -4022 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 8 |  |
 | α(Co) |  | -3914 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 9 |  |
@@ -227,16 +223,10 @@ Table: Enthalpies of formation, Co–Ge system (73)
 | α(Co) |  | -1710 per mol-atom ± 223 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 4 |  |
 | α(Co) |  | -1089 per mol-atom ± 149 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 1 |  |
 | α(Co) |  | -2.797 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 6 |  |
-| α(Co) |  | -2.797 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 6 |  |
-| α(Co) |  | -2.448 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 4 |  |
 | α(Co) |  | -2.448 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 4 |  |
 | α(Co) |  | -2.355 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 5 |  |
-| α(Co) |  | -2.355 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 5 |  |
-| α(Co) |  | -1.71 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 3 |  |
 | α(Co) |  | -1.71 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 3 |  |
 | α(Co) |  | -1.327 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 2 |  |
-| α(Co) |  | -1.327 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 2 |  |
-| α(Co) |  | -1.089 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 1 |  |
 | α(Co) |  | -1.089 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 1 |  |
 | α(Co) + βCo5Ge3 |  | -15844 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 12 |  |
 | α(Co) + βCo5Ge3 |  | -13797 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 11 |  |
@@ -258,19 +248,13 @@ Table: Enthalpies of formation, Co–Ge system (73)
 | βCo5Ge3 |  | -15124 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 14 |  |
 | βCo5Ge3 |  | -10994 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 21 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -20.136 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 13 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -20.136 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 13 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -19.6 kJ/mol-atom | 298 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Kleppa 1990_ | Table 5, p. 4, row 6 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -19 kJ/mol-atom | 298 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 4, row 7 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -18.665 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 14 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -18.665 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 14 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -18.279 kJ/mol-atom | 298 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 5, p. 4, row 8 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -17.237 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 11 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -17.237 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 11 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -16.171 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 12 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -16.171 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 12 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -15.868 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 9 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -15.868 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 9 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -14.314 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 10 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -14.314 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 10 |  |
 
 ## Other properties
@@ -282,8 +266,8 @@ Table: Phase transition, Co–Ge system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 960 K | 960 |  | experimental | [2] Zeng 2019; _cites Audebrand 2000_ [doi](https://doi.org/10.1017/s0885715600010964) | p. 2 | “Audebrand et al. \[15,16\] analyzed the high-temperature phase bCo5Ge3, and the displacive phase transformation bCo5Ge3 (h)/ Co2Ge(l) was indicated to display at 960 K \[16\].” |
-| Phase transition | 1482 K | 1482 | Congruent: L -> βCo5Ge3; _L: Ge 0.383; βCo5Ge3: Ge 0.383_ | model | [3] Dong 2013 | Table 7, p. 6, row 2 |  |
-| Phase transition | 1483 K | 1483 | Congruent: L -> βCo5Ge3; _L: Ge 0.375; βCo5Ge3: Ge 0.375_ | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 1 |  |
+| Phase transition | 1482 K | 1482 | congruent melting: L -> βCo5Ge3; _L: Ge 0.383; βCo5Ge3: Ge 0.383_ | model | [3] Dong 2013 | Table 7, p. 6, row 2 |  |
+| Phase transition | 1483 K | 1483 | congruent melting: L -> βCo5Ge3; _L: Ge 0.375; βCo5Ge3: Ge 0.375_ | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 1 |  |
 
 ### Crystal structure (17)
 

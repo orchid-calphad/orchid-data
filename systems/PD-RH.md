@@ -45,11 +45,11 @@ Table: Phase transition, Pd–Rh system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1183 K | 1183 |  | model | [1] Gossé 2016; _cites Gurler 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990291-t) | p. 5 | “This temperature is slightly higher than the electrical resistivity results by Shield and Williams \[32\] and the 1183 K calculated value by Gürler et al. \[24\].” |
 | Phase transition | 1204 K | 1204 |  | model | [1] Gossé 2016 | p. 5 | “The use of all the experimental data led to a critical point at 53.6 at.% Rh in good accordance with \[30,32,36\]. The critical temperature is calculated at 1204 K.” |
-| Phase transition | 1827.8 K | 1827.8 | solidus | experimental | [1] Gossé 2016 | Table 4, p. 5, row 1 |  |
-| Phase transition | 1832.8 K | 1832.8 | solidus; _alloy: Pd 0.9646, Rh 0.0354_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 2 |  |
-| Phase transition | 1833.3 K | 1833.3 | solidus; _alloy: Pd 0.9456, Rh 0.0544_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 3 |  |
-| Phase transition | 1842.2 K | 1842.2 | solidus; _alloy: Pd 0.8961, Rh 0.1039_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 4 |  |
-| Phase transition | 1878.6 K | 1878.6 | solidus; _alloy: Pd 0.7583, Rh 0.2417_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 5 |  |
+| Phase transition | 1827.8 K | 1827.8 | other | experimental | [1] Gossé 2016 | Table 4, p. 5, row 1 |  |
+| Phase transition | 1832.8 K | 1832.8 | other; _alloy: Pd 0.9646, Rh 0.0354_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 2 |  |
+| Phase transition | 1833.3 K | 1833.3 | other; _alloy: Pd 0.9456, Rh 0.0544_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 3 |  |
+| Phase transition | 1842.2 K | 1842.2 | other; _alloy: Pd 0.8961, Rh 0.1039_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 4 |  |
+| Phase transition | 1878.6 K | 1878.6 | other; _alloy: Pd 0.7583, Rh 0.2417_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 5 |  |
 
 ## Sources
 

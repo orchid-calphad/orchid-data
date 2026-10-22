@@ -1,22 +1,20 @@
 # KNa2: enthalpy of formation
 
-> Enthalpy of formation of KNa2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of KNa2: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/KNa2.html · Markdown: https://data.orchid-project.org/compounds/KNa2.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, DFT 2); experimental median -0.607 kJ/mol-atom (n = 2); Materials Project 0.954 kJ/mol-atom (mp-aaabgmji); OQMD -7.272 kJ/mol-atom (oqmd-668086).
+2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -0.607 kJ/mol-atom (n = 1); Materials Project 0.954 kJ/mol-atom (mp-aaabgmji); OQMD -7.272 kJ/mol-atom (oqmd-668086).
 
 Systems: [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of KNa2 reported in the literature (4)
+Table: Enthalpy of formation of KNa2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -0.60668 kJ/mol-atom | KNa2 | 0 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31 |  |
-| -0.60668 kJ/mol-atom | KNa2 | 0 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31 |  |
-| -0.699 kJ/mol-atom | KNa2 | 0 | DFT | first-principle calculations | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
 | -0.699 kJ/mol-atom | KNa2 | 0 | DFT | first-principle calculations | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
 
 ## DFT formation energies

@@ -64,14 +64,14 @@ Table: Invariant reactions reported in the literature for the In–Sn system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 497 | Peritectic: Liquid + (βSn) -> γ | L: Sn 0.963; (βSn): Sn 0.989; γ: Sn 0.98 | model | [1] David 2004 | Table 3, p. 3, row 6 |  |
-| 497 | Peritectic: Liquid + (βSn) -> γ | L: Sn 0.957; (βSn): Sn 0.995; γ: Sn 0.99 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 5 |  |
-| 416 | Peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.14; (In): Sn 0.12 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 1 |  |
-| 415 | Peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.131; (In): Sn 0.129 | model | [1] David 2004 | Table 3, p. 3, row 2 |  |
+| 497 | peritectic: Liquid + (βSn) -> γ | L: Sn 0.963; (βSn): Sn 0.989; γ: Sn 0.98 | model | [1] David 2004 | Table 3, p. 3, row 6 |  |
+| 497 | peritectic: Liquid + (βSn) -> γ | L: Sn 0.957; (βSn): Sn 0.995; γ: Sn 0.99 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 5 |  |
+| 416 | peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.14; (In): Sn 0.12 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 1 |  |
+| 415 | peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.131; (In): Sn 0.129 | model | [1] David 2004 | Table 3, p. 3, row 2 |  |
 | 393.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 5 | “There is a eutectic reaction in the middle of the diagram (at 52% In, 120°C) and two peritectic reactions.” |
 | 393.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 2 | “Two of its binaries have already been successfully used in electronic soldering for some time, the eutectic Ag-Sn at higher temperatures (Tm = 221°C), and the eutectic In-Sn at low temperatures (Tm = 120°C).” |
-| 393 | Eutectic: Liquid -> β + γ | L: Sn 0.483; β: Sn 0.44; γ: Sn 0.77 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 3 |  |
-| 393 | Eutectic: Liquid -> β + γ | L: Sn 0.481; β: Sn 0.43; γ: Sn 0.77 | model | [1] David 2004 | Table 3, p. 3, row 4 |  |
+| 393 | eutectic: Liquid -> β + γ | L: Sn 0.483; β: Sn 0.44; γ: Sn 0.77 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 3 |  |
+| 393 | eutectic: Liquid -> β + γ | L: Sn 0.481; β: Sn 0.43; γ: Sn 0.77 | model | [1] David 2004 | Table 3, p. 3, row 4 |  |
 | 391.15 | eutectic |  | experimental | [3] Vizdal 2006 | p. 13 | “The choice of the applied solder was dictated by low melting temperature of the eutectic alloy (118 °C).” |
 
 ## Sources

@@ -29,28 +29,28 @@ Table: Invariant reactions reported in the literature for the B–Fe–Nd system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1684.15 | p: L + NdB4 -> T2 | L: B 0.29, Fe 0.62, Nd 0.09 | model | [1] Hallemans 1995 | Table 6, p. 10, row 1 |  |
-| 1661.15 | U: L + FeB -> NdB4 + Fe2B | L: B 0.32, Fe 0.66, Nd 0.02 | model | [1] Hallemans 1995 | Table 6, p. 10, row 3 |  |
-| 1648.15 | U: L + NdB4 -> Fe2B + T2 | L: B 0.31, Fe 0.66, Nd 0.03 | model | [1] Hallemans 1995 | Table 6, p. 10, row 6 |  |
-| 1618.15 | p: L + NdB4 -> T2 | L: B 0.4, Fe 0.45, Nd 0.15 | experimental | [1] Hallemans 1995; _cites Knoch 1994_ | Table 6, p. 10, row 2 |  |
-| 1454.15 | p: L + γ -> T1 | L: B 0.088, Fe 0.732, Nd 0.169 | model | [1] Hallemans 1995 | Table 6, p. 10, row 9 |  |
-| 1453.15 | p: L + γ -> T1 |  | unspecified | [1] Hallemans 1995; _cites ref. 87Tsa_ | Table 6, p. 10, row 12 |  |
-| 1453.15 | p: L + γ -> T1 | L: B 0.08, Fe 0.76, Nd 0.16 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 11 |  |
-| 1443.15 | U: L + γ -> T1 + Fe17Nd2 | L: B 0.06, Fe 0.71, Nd 0.23 | model | [1] Hallemans 1995 | Table 6, p. 10, row 14 |  |
-| 1428.15 | p: L + γ -> T1 | L: B 0.07, Fe 0.79, Nd 0.14 | experimental | [1] Hallemans 1995; _cites Matsuura 1985_ [doi](https://doi.org/10.1143/jjap.24.l635) | Table 6, p. 10, row 10 |  |
-| 1403.15 | U: L + γ -> T1 + Fe17Nd2 | L: B 0.02, Fe 0.66, Nd 0.32 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 16 |  |
-| 1390.15 | e: L -> T1 + T2 | L: B 0.16, Fe 0.72, Nd 0.12 | model | [1] Hallemans 1995 | Table 6, p. 10, row 17 |  |
-| 1388.15 | e: L -> T1 + T2 | L: B 0.17, Fe 0.73, Nd 0.1 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 18 |  |
-| 1383.15 | e: L -> Fe2B + T1 | L: B 0.18, Fe 0.75, Nd 0.07 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 20 |  |
-| 1382.15 | e: L -> Fe2B + T1 | L: B 0.163, Fe 0.764, Nd 0.073 | model | [1] Hallemans 1995 | Table 6, p. 10, row 19 |  |
-| 1382.15 | E: L -> Fe2B + T1 + T2 | L: B 0.163, Fe 0.763, Nd 0.074 | model | [1] Hallemans 1995 | Table 6, p. 10, row 21 |  |
-| 1381.15 | E: L -> Fe2B + T1 + γ | L: B 0.16, Fe 0.78, Nd 0.06 | model | [1] Hallemans 1995 | Table 6, p. 10, row 23 |  |
-| 1378.15 | E: L -> Fe2B + T1 + γ | L: B 0.17, Fe 0.76, Nd 0.07 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 24 |  |
-| 1368.15 | E: L -> Fe2B + T1 + T2 | L: B 0.2, Fe 0.72, Nd 0.08 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 22 |  |
-| 1018.15 | U: L + T3 -> ε + T2 |  | experimental | [1] Hallemans 1995; _cites Knoch 1994_ | Table 6, p. 10, row 27 |  |
-| 983.15 | U: L + T2 -> ε + T1 | L: B 0.02, Fe 0.23, Nd 0.75 | experimental | [1] Hallemans 1995; _cites EJ 1991_ | Table 6, p. 10, row 29 |  |
-| 975.15 | U: L + T3 -> ε + T2 | L: B 0.01, Fe 0.22, Nd 0.77 | model | [1] Hallemans 1995 | Table 6, p. 10, row 25 |  |
-| 958.15 | U: L + T2 -> ε + T1 | L: B 0.01, Fe 0.23, Nd 0.76 | model | [1] Hallemans 1995 | Table 6, p. 10, row 28 |  |
+| 1684.15 | peritectic: L + NdB4 -> T2 | L: B 0.29, Fe 0.62, Nd 0.09 | model | [1] Hallemans 1995 | Table 6, p. 10, row 1 |  |
+| 1661.15 | quasi-peritectic: L + FeB -> NdB4 + Fe2B | L: B 0.32, Fe 0.66, Nd 0.02 | model | [1] Hallemans 1995 | Table 6, p. 10, row 3 |  |
+| 1648.15 | quasi-peritectic: L + NdB4 -> Fe2B + T2 | L: B 0.31, Fe 0.66, Nd 0.03 | model | [1] Hallemans 1995 | Table 6, p. 10, row 6 |  |
+| 1618.15 | peritectic: L + NdB4 -> T2 | L: B 0.4, Fe 0.45, Nd 0.15 | experimental | [1] Hallemans 1995; _cites Knoch 1994_ | Table 6, p. 10, row 2 |  |
+| 1454.15 | peritectic: L + γ -> T1 | L: B 0.088, Fe 0.732, Nd 0.169 | model | [1] Hallemans 1995 | Table 6, p. 10, row 9 |  |
+| 1453.15 | peritectic: L + γ -> T1 |  | unspecified | [1] Hallemans 1995; _cites ref. 87Tsa_ | Table 6, p. 10, row 12 |  |
+| 1453.15 | peritectic: L + γ -> T1 | L: B 0.08, Fe 0.76, Nd 0.16 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 11 |  |
+| 1443.15 | quasi-peritectic: L + γ -> T1 + Fe17Nd2 | L: B 0.06, Fe 0.71, Nd 0.23 | model | [1] Hallemans 1995 | Table 6, p. 10, row 14 |  |
+| 1428.15 | peritectic: L + γ -> T1 | L: B 0.07, Fe 0.79, Nd 0.14 | experimental | [1] Hallemans 1995; _cites Matsuura 1985_ [doi](https://doi.org/10.1143/jjap.24.l635) | Table 6, p. 10, row 10 |  |
+| 1403.15 | quasi-peritectic: L + γ -> T1 + Fe17Nd2 | L: B 0.02, Fe 0.66, Nd 0.32 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 16 |  |
+| 1390.15 | eutectic: L -> T1 + T2 | L: B 0.16, Fe 0.72, Nd 0.12 | model | [1] Hallemans 1995 | Table 6, p. 10, row 17 |  |
+| 1388.15 | eutectic: L -> T1 + T2 | L: B 0.17, Fe 0.73, Nd 0.1 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 18 |  |
+| 1383.15 | eutectic: L -> Fe2B + T1 | L: B 0.18, Fe 0.75, Nd 0.07 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 20 |  |
+| 1382.15 | eutectic: L -> Fe2B + T1 | L: B 0.163, Fe 0.764, Nd 0.073 | model | [1] Hallemans 1995 | Table 6, p. 10, row 19 |  |
+| 1382.15 | eutectic: L -> Fe2B + T1 + T2 | L: B 0.163, Fe 0.763, Nd 0.074 | model | [1] Hallemans 1995 | Table 6, p. 10, row 21 |  |
+| 1381.15 | eutectic: L -> Fe2B + T1 + γ | L: B 0.16, Fe 0.78, Nd 0.06 | model | [1] Hallemans 1995 | Table 6, p. 10, row 23 |  |
+| 1378.15 | eutectic: L -> Fe2B + T1 + γ | L: B 0.17, Fe 0.76, Nd 0.07 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 24 |  |
+| 1368.15 | eutectic: L -> Fe2B + T1 + T2 | L: B 0.2, Fe 0.72, Nd 0.08 | unspecified | [1] Hallemans 1995; _cites ref. 86Sch_ | Table 6, p. 10, row 22 |  |
+| 1018.15 | quasi-peritectic: L + T3 -> ε + T2 |  | experimental | [1] Hallemans 1995; _cites Knoch 1994_ | Table 6, p. 10, row 27 |  |
+| 983.15 | quasi-peritectic: L + T2 -> ε + T1 | L: B 0.02, Fe 0.23, Nd 0.75 | experimental | [1] Hallemans 1995; _cites EJ 1991_ | Table 6, p. 10, row 29 |  |
+| 975.15 | quasi-peritectic: L + T3 -> ε + T2 | L: B 0.01, Fe 0.22, Nd 0.77 | model | [1] Hallemans 1995 | Table 6, p. 10, row 25 |  |
+| 958.15 | quasi-peritectic: L + T2 -> ε + T1 | L: B 0.01, Fe 0.23, Nd 0.76 | model | [1] Hallemans 1995 | Table 6, p. 10, row 28 |  |
 
 ## Other properties
 

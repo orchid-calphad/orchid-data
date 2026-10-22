@@ -1,10 +1,10 @@
 # Ni–Se system
 
-> Ni–Se system: 55 accepted literature values (invariant reaction 29, formation 24, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Se system: 43 accepted literature values (invariant reaction 29, formation 12, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SE.html · Markdown: https://data.orchid-project.org/systems/NI-SE.md
 
-55 accepted literature values from 1 paper(s) (experimental 25, model 12, unspecified 18); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+43 accepted literature values from 1 paper(s) (experimental 22, model 12, unspecified 9); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SE.json) · [CSV](https://data.orchid-project.org/systems/NI-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SE/NiSe-21Zob.json) · [Markdown](https://data.orchid-project.org/systems/NI-SE.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 22 |
 | model | 12 |
-| unspecified | 18 |
+| unspecified | 9 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 29 |
 | phase transition | 2 |
-| formation | 24 |
+| formation | 12 |
 
 ## Calculated phase diagrams
 
@@ -60,7 +60,7 @@ Table: Invariant reactions reported in the literature for the Ni–Se system (29
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1232 | congruent: Liquid ↔ NiSe | Liquid: Se 0.535; NiSe: Se 0.535 | experimental | [1] Zobač 2021; _cites Komarek 1972_ [doi](https://doi.org/10.1007/bf00905165) | Table 2, p. 3, row 1 |  |
+| 1232 | congruent melting: Liquid ↔ NiSe | Liquid: Se 0.535; NiSe: Se 0.535 | experimental | [1] Zobač 2021; _cites Komarek 1972_ [doi](https://doi.org/10.1007/bf00905165) | Table 2, p. 3, row 1 |  |
 | 1232 | Liquid ↔ NiSe | Liquid: Se 0.535; NiSe: Se 0.535 | experimental | [1] Zobač 2021; _cites Predel 2021_ | Table 2, p. 3, row 2 |  |
 | 1231.3 | Liquid ↔ NiSe | Liquid: Se 0.532; NiSe: Se 0.532 | model | [1] Zobač 2021 | Table 2, p. 3, row 3 |  |
 | 1131 | Liquid + NiSe ↔ NiSe2 | Liquid: Se 0.672; NiSe: Se 0.547; NiSe2: Se 0.667 | model | [1] Zobač 2021 | Table 2, p. 3, row 6 |  |
@@ -94,33 +94,21 @@ Table: Invariant reactions reported in the literature for the Ni–Se system (29
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Se system (24)
+Table: Enthalpies of formation, Ni–Se system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | NiSe |  | -39.97 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 7 |  |
-| NiSe |  | -39.97 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 7 |  |
-| NiSe |  | -38.5 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Zobač 2021; _cites Fabre 1887_ | Table 3, p. 4, row 4 |  |
 | NiSe |  | -38.5 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Zobač 2021; _cites Fabre 1887_ | Table 3, p. 4, row 4 |  |
 | NiSe |  | -29 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Zobač 2021; _cites Bichowsky 1936_ | Table 3, p. 4, row 5 |  |
-| NiSe |  | -29 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Zobač 2021; _cites Bichowsky 1936_ | Table 3, p. 4, row 5 |  |
-| NiSe |  | -21 kJ/mol (basis unstated) ± 5 | 298 | experimental |  |  | [1] Zobač 2021; _cites Rossini 1952_ | Table 3, p. 4, row 6 |  |
 | NiSe |  | -21 kJ/mol (basis unstated) ± 5 | 298 | experimental |  |  | [1] Zobač 2021; _cites Rossini 1952_ | Table 3, p. 4, row 6 |  |
 | NiSe0.512 |  | -40.93 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 8 |  |
-| NiSe0.512 |  | -40.93 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 8 |  |
-| NiSe0.513 |  | -36.5 kJ/mol (basis unstated) ± 0.2 | 298 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 1 |  |
 | NiSe0.513 |  | -36.5 kJ/mol (basis unstated) ± 0.2 | 298 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 1 |  |
 | NiSe0.524 |  | -41.16 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 9 |  |
-| NiSe0.524 |  | -41.16 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 9 |  |
-| NiSe0.533 |  | -37.2 kJ/mol (basis unstated) ± 0.2 | 298 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 2 |  |
 | NiSe0.533 |  | -37.2 kJ/mol (basis unstated) ± 0.2 | 298 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 2 |  |
 | NiSe0.535 |  | -41.01 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 10 |  |
-| NiSe0.535 |  | -41.01 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 10 |  |
-| NiSe0.545 |  | -41.14 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 11 |  |
 | NiSe0.545 |  | -41.14 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 11 |  |
 | NiSe0.565 |  | -40.77 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 12 |  |
-| NiSe0.565 |  | -40.77 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 12 |  |
-| NiSe0.566 |  | -36.8 kJ/mol (basis unstated) ± 0.2 | 298 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 3 |  |
 | NiSe0.566 |  | -36.8 kJ/mol (basis unstated) ± 0.2 | 298 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 3 |  |
 
 ## Other properties

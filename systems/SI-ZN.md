@@ -55,7 +55,7 @@ Table: Invariant reactions reported in the literature for the Si–Zn system (5)
 | 1189.29 | eutectic: \<Si>-Liq- Vap | Liq: Zn 0.8985 | model | [1] Jacobs 1996 | Table 1, p. 3, row 2 |  |
 | 692.17 | eutectic |  | experimental | [1] Jacobs 1996 | p. 3 | “In order to keep the eutectic point in the system Si-Zn at the position given in Table 1 (T=692.17 K, XZ =0.99906), a value of 100000 J/mol rather then 50000 Jlmol must be introducedfor the first coefficient o Pthe excess Gibbs energy of the Diamond_F4_add phase.” |
 | 692.17 | eutectic: \<Si>-Liq-\<Zn> | Liq: Zn 0.9991 | model | [1] Jacobs 1996 | Table 1, p. 3, row 3 |  |
-| 692.1 | Degenerate: Liquid -> diamond + hcp-Zn | L: Zn 1; diamond: Zn 0; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 295, row 1 |  |
+| 692.1 | other: Liquid -> diamond + hcp-Zn | L: Zn 1; diamond: Zn 0; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 295, row 1 |  |
 
 ## Other properties
 

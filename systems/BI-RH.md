@@ -61,24 +61,24 @@ Table: Invariant reactions reported in the literature for the Bi–Rh system (24
 | 1270.15 | L + Rh -> BiRh | L: Rh 0.45; Rh: Rh 1 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 2 |  |
 | 1253.25 | L + Rh -> BiRh | L: Rh 0.471; Rh: Rh 1; BiRh: Rh 0.496 | model | [1] Zobač 2020 | Table 2, p. 3, row 4 |  |
 | 1252.15 | L + Rh -> BiRh | L: Rh 0.47; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 3 |  |
-| 1250.15 | Peritectic: L + Rh -> BiRh | L: Rh 0.46; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 1 |  |
+| 1250.15 | peritectic: L + Rh -> BiRh | L: Rh 0.46; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 1 |  |
 | 1058.15 | L + BiRh -> Bi2Rh_HT | L: Rh 0.29; BiRh: Rh 0.47; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 7 |  |
 | 1058.05 | L + BiRh -> Bi2Rh_HT | L: Rh 0.298; BiRh: Rh 0.461; Bi2Rh_HT: Rh 0.333 | model | [1] Zobač 2020 | Table 2, p. 3, row 8 |  |
-| 1053.15 | Peritectic: L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.48; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 5 |  |
+| 1053.15 | peritectic: L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.48; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 5 |  |
 | 1049.15 | L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.45; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 6 |  |
 | 755.05 | Bi2Rh_HT + BiRh -> Bi55Rh45 | Bi2Rh_HT: Rh 0.333; BiRh: Rh 0.493; Bi55Rh45: Rh 0.467 | model | [1] Zobač 2020 | Table 2, p. 3, row 10 |  |
-| 753.15 | Peritectoid: Bi2Rh_HT + BiRh -> Bi55Rh45 | BiRh: Rh 0.5; Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 9 |  |
+| 753.15 | peritectoid: Bi2Rh_HT + BiRh -> Bi55Rh45 | BiRh: Rh 0.5; Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 9 |  |
 | 739.15 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.083; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 12 |  |
 | 734.35 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.141; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | model | [1] Zobač 2020 | Table 2, p. 3, row 14 |  |
-| 733.15 | Peritectic: L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.07; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 11 |  |
+| 733.15 | peritectic: L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.07; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 11 |  |
 | 732.15 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.085; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 13 |  |
-| 713.15 | Peritectoid: Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 17 |  |
+| 713.15 | peritectoid: Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 17 |  |
 | 701.85 | Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi55Rh45: Rh 0.45; Bi2Rh_LT: Rh 0.334 | model | [1] Zobač 2020 | Table 2, p. 3, row 18 |  |
 | 699.95 | Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi4Rh: Rh 0.2; Bi2Rh_LT: Rh 0.334 | model | [1] Zobač 2020 | Table 2, p. 3, row 20 |  |
-| 699.15 | Eutectoid: Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 19 |  |
-| 698.15 | Polymorphic: Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 15 |  |
+| 699.15 | eutectoid: Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 19 |  |
+| 698.15 | polymorphic: Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 15 |  |
 | 643.15 | Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 16 |  |
-| 542.15 | Eutectic: L -> Bi + Bi4Rh | L: Rh 0.01; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 21 |  |
+| 542.15 | eutectic: L -> Bi + Bi4Rh | L: Rh 0.01; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 21 |  |
 | 540.15 | L -> Bi + Bi4Rh | L: Rh 0.017; Bi: Rh 0; Bi4Rh: Rh 0.2 | model | [1] Zobač 2020 | Table 2, p. 3, row 24 |  |
 | 539.15 | L -> Bi + Bi4Rh | L: Rh 0.005; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 22 |  |
 | 539.15 | L -> Bi + Bi4Rh | L: Rh 0.005; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 23 |  |

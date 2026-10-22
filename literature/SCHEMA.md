@@ -18,6 +18,7 @@ papers, page images, crops and full text are **not** redistributed.
 | `contexts.json` | paper id -> experimental-context items (samples, treatments, measurements), each with its quote and page |
 | `orchid-literature.jsonl.gz` | all records, one JSON object per line (same fields as `systems/*.json`) |
 | `orchid-literature.csv.gz` | all records flattened; nested fields are compact JSON strings |
+| `QUALITY_FIXES.md`, `quality_fixes.json` | data-hardening report: duplicates merged, vocabulary maps, garbled fields, DFT-parity outlier classes (every changed record with before / after / evidence) |
 
 ## Record fields
 
@@ -28,19 +29,23 @@ papers, page images, crops and full text are **not** redistributed.
 | `system`, `elements` | chemical system (sorted uppercase elements joined by `-`) |
 | `record_kind` | `invariant_table` (invariant-reaction table), `general_table` (thermochemical / phase-equilibrium / structure table), `running_text` (value stated in a sentence) |
 | `observation_type` | `invariant_reaction`, `phase_transition`, `equilibrium_property`, `structural_property`, `phase_region_vertex_set`, `phase_assemblage_node`, `property_expression` |
-| `property` | quantity kind: `INVARIANT_TEMPERATURE`, `TRANSITION_TEMPERATURE`, `PHASE_COMPOSITION`, `PHASE_ASSEMBLAGE`, or a thermodynamic / structural quantity (`HM_FORM`, `HM_MIX`, `CPM`, `SM`, `GIBBS_ENERGY`, `EMF`, `ACR_<EL>`, `LATTICE_A`, ...) |
+| `property` | quantity kind: `INVARIANT_TEMPERATURE`, `TRANSITION_TEMPERATURE`, `PHASE_COMPOSITION`, `PHASE_ASSEMBLAGE`, or a thermodynamic / structural quantity (`HM_FORM`, `HM_MIX`, `CPM`, `SM`, `GIBBS_ENERGY`, `EMF`, `ACR_<EL>`, `LATTICE_A`, ...); a controlled code (see Controlled vocabularies). `property_code_raw`: the code as the record builder wrote it, when it was malformed and cleaned |
 | `property_group` | coarse filter group (invariant reaction, phase transition, phase equilibrium, formation, mixing / partial, heat capacity / entropy / enthalpy, activity / EMF / Gibbs energy, crystal structure, model expression, other property) |
 | `property_printed` | the quantity symbol or name as printed |
-| `value`, `unit` | value in the normalized unit (temperatures: K; formation enthalpies and Gibbs energies of formation: kJ/mol-atom, or kJ/mol (basis unstated) when the paper does not say per atom). `value_stored`, `unit_stored`: the value before that conversion. `value_printed`, `unit_printed`: as printed (tables) |
+| `value`, `unit` | value in the normalized unit (temperatures: K; formation enthalpies and Gibbs energies of formation, mixing enthalpies, Gibbs energies of mixing and partial molar enthalpies: kJ/mol-atom when the per-atom basis is explicit, otherwise kJ/mol (basis unstated)). `value_stored`, `unit_stored`: the value before that conversion. `value_printed`, `unit_printed`: as printed (tables) |
+| `unit_basis` | how the per-atom / per-formula basis of an energy was established: `printed_unit` (in the printed unit), `column_header`, `caption`, `reviewer`, `state_completion_<where>` (a quoted header / caption / footnote / sentence), `eV_per_atom_printed`, `magnitude_heuristic` (inferred by the record builder from the magnitude; formation values flagged `basis_inferred_from_magnitude`), `assumed_per_mole_of_atoms` (solution phase, not printed), `not_printed`, `unstated`. For mixing / partial quantities only an explicit basis gives kJ/mol-atom. `per_formula_unit_divisor`: the record builder divided a per-formula-unit value by this number of atoms |
+| `value_before_quality_fix`, `basis_correction`, `sign_heading_printed` | set when a DFT-parity outlier was corrected (QUALITY_FIXES.md): the value before the fix; `{formula, atoms_per_formula_unit, operation}` for a per-formula value that was labelled per atom; the printed heading that carries a minus sign |
+| `merged_ids`, `merged_pids` | ids (and persistent locators) of records that were exact duplicates of this one and were merged into it |
 | `value_range` | `{min,max}` when a range was printed; `value_expression`: a printed expression (model parameters) |
 | `uncertainty` | `{value, basis, note}`; `basis: printed` is the source's own; `stated_default` / `reading_resolution` are ORCHID placeholders (e.g. "5% default", "10% placeholder; none printed") and are **not** measured uncertainties |
-| `temperature_K` | equilibrium / measurement temperature in K; `temperature_printed` as printed (unit as printed, often °C); `temperature_basis` how it was obtained (`printed`, `quantity_label`, `caption`, `assumed_room_temperature`, `not_printed`, ...); `temperature_bound` (`upper`/`lower` for printed bounds), `temperature_max_K` / `temperature_range_K` for ranges; `temperature_uncertainty` `{value,basis}` |
+| `temperature_K` | equilibrium / measurement temperature in K; `temperature_printed` as printed (unit as printed, often °C); `temperature_basis` how it was obtained (`printed`, `quantity_label`, `caption`, `assumed_room_temperature`, `not_printed`, ...); `temperature_bound` `{op, value_K, printed}` for a printed bound (`op` `<` upper bound, `>` lower bound), `temperature_max_K` / `temperature_range_K` for ranges; `temperature_uncertainty` `{value,basis}` |
 | `pressure_Pa`, `pressure_basis` | pressure and how it was set (`stated_default_1_atm`, `unstated_assumed`, `printed`) |
 | `phases` | `[{label, model_phase, mapping_confidence, pearson_symbol, prototype}]`: printed phase label and, where mapped, the CALPHAD model phase |
 | `phase_compositions` | `[{phase, composition{EL: x}, basis, composition_source}]`. `basis` is `mole_fraction` (possibly "converted from atomic/mass percent") or `unresolved` (printed basis disputed/mixed, or values outside 0..1: do not use as mole fractions). `composition_source`: `printed`, `stoichiometry`, `formula_nominal`, `congruent_same_composition`, `printed_range`, `printed_bound`, ... |
 | `overall_composition`, `overall_composition_basis` | alloy / sample composition (mole fraction) where given |
-| `reference_state` | reference state of a thermodynamic quantity (per element phase), where stated or set by an explicit convention |
-| `reaction` | `{printed, type}`: reaction as printed and its class (eutectic, peritectic, congruent, ...) |
+| `reference_state` | reference state of a thermodynamic quantity, always an object: per element `{EL: {phase, fixed_state_variables}}`, or `{printed: "..."}` when only free text was read |
+| `reaction` | `{printed, type}`: reaction as printed and its class (`type` = `transition_kind`) |
+| `transition_kind`, `transition_kind_printed` | controlled reaction / transition class (see Controlled vocabularies) and the class as printed or read |
 | `evidence_class` | `experimental`, `model` (value from a CALPHAD/thermodynamic model), `dft` (first-principles), `unspecified` (origin could not be settled). Never mixed or averaged |
 | `origin` | `{class, basis, measured_in, measured_in_basis, own_work_of_paper, attribution_note}`: how the evidence class was decided (e.g. `printed_source_experimental`, `cited_work_before_1980_assumed_experimental`), the paper the value was measured/calculated in, and whether that is the containing paper itself |
 | `model` | for `model` values linked unambiguously to a TDB: `{tdb, tdb_path, tdb_sha256, catalog_entry, link_basis, model_citation, model_doi, reproduced_by_calculation}`; `model_unlinked_reason` otherwise |
@@ -50,11 +55,32 @@ papers, page images, crops and full text are **not** redistributed.
 | `cited_sources` | the value's own source(s) as printed in the paper's reference list: `{label, reference, doi, first_author, year, kind, status, paper}` |
 | `citations_printed` | (text) citation labels printed in the sentence |
 | `paper` | id of the containing paper (`doi:<doi>` or `sha256:<pdf prefix>`) -> `papers.json`; CSV adds `paper_citation`, `paper_doi` |
-| `quote`, `quote_page` | (running text) the one verbatim sentence backing the value and its page; for tables `locator` gives table label, caption, page and row instead |
+| `quote`, `quote_page` | (running text) the one verbatim sentence backing the value and its page (`null` with `flags.page_unreadable` when the page read was not a page number); for tables `locator` gives table label, caption, page and row instead |
 | `locator` | `{artifact: table|text_passage, label, caption, page, row, asset}` |
-| `flags` | `extraction_accepted` (reader agreement + checks passed; the explorer hides `false` by default), `row_state` (`settled`, `awaiting_reader`, `disputed_in_review_queue`), `review_state`, `espei_ready`, `state_fully_specified`, `specification_gaps`, `plausibility` (CALPHAD cross-check result, model, dT), `source_disputed`, `judge_adjudicated`, `magnitude_suspect`, `system_mismatch`, `value_in_quote`, `unsigned_in_print` (minus sign absent in print, value as printed), `sign_pdf_page_verified` (sign corrected from the PDF page image; `value_first_reader` kept), `has_dropped_fields` / `dropped_field_count` (fields removed because they were not printed in the quote; content not published), `review_flags` (codes only), `second_reader`, reader conflicts |
+| `flags` | `extraction_accepted` (reader agreement + checks passed; the explorer hides `false` by default), `row_state` (`settled`, `awaiting_reader`, `disputed_in_review_queue`), `review_state`, `espei_ready`, `state_fully_specified`, `specification_gaps`, `plausibility` (CALPHAD cross-check result, model, dT), `source_disputed`, `judge_adjudicated`, `magnitude_suspect`, `system_mismatch`, `value_in_quote`, `unsigned_in_print` (minus sign absent in print, value as printed), `sign_pdf_page_verified` (sign corrected from the PDF page image; `value_first_reader` kept), `has_dropped_fields` / `dropped_field_count` (fields removed because they were not printed in the quote; content not published), `review_flags` (codes only), `second_reader`, reader conflicts; data-hardening flags (QUALITY_FIXES.md): `page_unreadable`, `reference_state_dropped_not_in_quote`, `basis_inferred_from_magnitude`, `basis_corrected_from_formula`, `sign_from_heading`, `dft_outlier_unexplained` |
 | `link_rule` | (text) the rule that linked the value to its quote: the quote is verbatim on one page/passage and the printed value is inside it |
 | `readers`, `reader_tier`, `tool_release` | extraction provenance: the readers whose readings agreed (`text_layer` = the PDF text layer), the reader tier (`preliminary_flash+claude`: two independent model readers agree; `confirmed_pro`: confirmed by a third reader; `+fable_judge`: a judge chose between disagreeing readers; `preliminary_flash` for text: first reader, with the second reader's agreement in `flags.second_reader`), the record-builder release |
+
+## Controlled vocabularies
+
+`transition_kind`: `eutectic`, `peritectic`, `monotectic`, `syntectic`, `eutectoid`, `peritectoid`, `monotectoid`, `quasi-peritectic`, `congruent melting`, `congruent transformation`, `polymorphic`, `magnetic`, `order-disorder`, `critical point`, `metatectic/catatectic`, `other`. Mapping (deterministic, `tools/literature_quality.py`): typos repaired (Peritetic,
+Peritectiod, ...); keywords (eutectoid before eutectic, magnetic before order-disorder, metatectic and catatectic
+together); Rhines letters (E/e eutectic, P/p peritectic, U and class II quasi-peritectic; ternary class I eutectic);
+"C.M.", "melting point", "congruent melting" congruent melting; a bare "congruent" (point, reaction) is congruent
+melting when a liquid phase is among the record's phases and congruent transformation otherwise; "polymorphic",
+"allotropic", "solid state transition" polymorphic; printed alternatives ("eutectic (or peritectic)"), liquidus /
+solidus points, extrema (max, min, saddle), "C" and anything else are `other`. Every printed variant, its term and
+the rule are listed in QUALITY_FIXES.md.
+
+Property codes: malformed builder codes are cleaned (`ACR_` -> `ACTIVITY`, `LATTICE_4F_Z_1_` -> `LATTICE_4F_Z_1`, `LATTICE_4F_Z_2_` -> `LATTICE_4F_Z_2`, `LATTICE_4F_Z_FIRST_` -> `LATTICE_4F_Z_1`, `LATTICE_4F_Z_SECOND_` -> `LATTICE_4F_Z_2`, `LATTICE_A_` -> `LATTICE_A`, `LATTICE_A_FE50NI50_` -> `LATTICE_A`, `LATTICE_A_FE_` -> `LATTICE_A`, `LATTICE_A_NI_` -> `LATTICE_A`, `LATTICE_B_` -> `LATTICE_B`, `LATTICE_COMMENTS_UNLABELLED_VALUE_` -> `LATTICE_UNLABELLED_VALUE`, `LATTICE_C_` -> `LATTICE_C`, `LATTICE_LATTICE_PARAMETER` -> `LATTICE_UNSPECIFIED_AXIS`, `LATTICE_LATTICE_PARAMETERS` -> `LATTICE_UNSPECIFIED_AXIS`, `LATTICE_LATTICE_PARAMETERS_ERROR_5_` -> `LATTICE_UNSPECIFIED_AXIS`, `LATTICE_LATTICE_PARAMETER_A` -> `LATTICE_A`, `LATTICE_LATTICE_PARAMETER_ALPHA` -> `LATTICE_ALPHA`, `LATTICE_LATTICE_PARAMETER_B` -> `LATTICE_B`, `LATTICE_LATTICE_PARAMETER_BETA` -> `LATTICE_BETA`, `LATTICE_LATTICE_PARAMETER_C` -> `LATTICE_C`, `LATTICE_LATTICE_PARAMETER_GAMMA` -> `LATTICE_GAMMA`, `LATTICE_VAT` -> `LATTICE_V_ATOM`, `LATTICE_V_AT` -> `LATTICE_V_ATOM`; `LATTICE__` -> `LATTICE_UNSPECIFIED_ANGLE` for
+angles, `LATTICE_UNSPECIFIED_AXIS` otherwise; other `LATTICE_LATTICE_PARAMETER_*` and trailing / doubled
+underscores stripped). The raw code is kept in `property_code_raw`.
+
+## Data hardening (`QUALITY_FIXES.md`, `quality_fixes.json`)
+
+Duplicates merged (`merged_ids`), vocabularies, garbled pages / bounds / reference states, DFT-parity outlier
+classes and energy-unit conversions, with every changed record (id, before, after, evidence) for pages,
+reference states and outliers, and the complete variant tables for the vocabularies.
 
 ## Paper fields (`papers.json`)
 

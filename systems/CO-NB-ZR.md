@@ -28,13 +28,13 @@ Table: Invariant reactions reported in the literature for the Co–Nb–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1672.15 | E: Liq. -> CoZr + λ2 + μ | Liq.: Co 0.55, Zr 0.327 | model | [1] Sun 2023 | Table VII, p. 23, row 1 |  |
-| 1657.15 | U: Liq. + λ2 -> λ1 + μ | Liq.: Co 0.571, Zr 0.002 | model | [1] Sun 2023 | Table VII, p. 23, row 2 |  |
-| 1524.15 | E: Liq. -> Co11Zr2 + Co23Zr6 + fcc(Co) | Liq.: Co 0.893, Zr 0.104 | model | [1] Sun 2023 | Table VII, p. 23, row 3 |  |
-| 1522.15 | E: Liq. -> Co23Zr6 + fcc(Co) + λ2 | Liq.: Co 0.878, Zr 0.072 | model | [1] Sun 2023 | Table VII, p. 23, row 4 |  |
-| 1512.15 | E: Liq. -> fcc(Co) + λ2 + λ3 | Liq.: Co 0.847 | model | [1] Sun 2023 | Table VII, p. 23, row 5 |  |
-| 1447.15 | U: Liq. + μ -> bcc(Nb,Zr) + CoZr | Liq.: Co 0.349, Zr 0.338 | model | [1] Sun 2023 | Table VII, p. 23, row 6 |  |
-| 1285.15 | E: Liq. -> bcc(Nb,Zr) + CoZr2 + CoZr | Liq.: Co 0.304, Zr 0.514 | model | [1] Sun 2023 | Table VII, p. 23, row 7 |  |
+| 1672.15 | eutectic: Liq. -> CoZr + λ2 + μ | Liq.: Co 0.55, Zr 0.327 | model | [1] Sun 2023 | Table VII, p. 23, row 1 |  |
+| 1657.15 | quasi-peritectic: Liq. + λ2 -> λ1 + μ | Liq.: Co 0.571, Zr 0.002 | model | [1] Sun 2023 | Table VII, p. 23, row 2 |  |
+| 1524.15 | eutectic: Liq. -> Co11Zr2 + Co23Zr6 + fcc(Co) | Liq.: Co 0.893, Zr 0.104 | model | [1] Sun 2023 | Table VII, p. 23, row 3 |  |
+| 1522.15 | eutectic: Liq. -> Co23Zr6 + fcc(Co) + λ2 | Liq.: Co 0.878, Zr 0.072 | model | [1] Sun 2023 | Table VII, p. 23, row 4 |  |
+| 1512.15 | eutectic: Liq. -> fcc(Co) + λ2 + λ3 | Liq.: Co 0.847 | model | [1] Sun 2023 | Table VII, p. 23, row 5 |  |
+| 1447.15 | quasi-peritectic: Liq. + μ -> bcc(Nb,Zr) + CoZr | Liq.: Co 0.349, Zr 0.338 | model | [1] Sun 2023 | Table VII, p. 23, row 6 |  |
+| 1285.15 | eutectic: Liq. -> bcc(Nb,Zr) + CoZr2 + CoZr | Liq.: Co 0.304, Zr 0.514 | model | [1] Sun 2023 | Table VII, p. 23, row 7 |  |
 
 ## Other properties
 

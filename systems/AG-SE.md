@@ -1,10 +1,10 @@
 # Ag–Se system
 
-> Ag–Se system: 147 accepted literature values (formation 82, heat capacity / entropy / enthalpy 32, phase transition 21, invariant reaction 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Se system: 145 accepted literature values (formation 81, heat capacity / entropy / enthalpy 31, phase transition 21, invariant reaction 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-SE.html · Markdown: https://data.orchid-project.org/systems/AG-SE.md
 
-147 accepted literature values from 2 paper(s) (experimental 117, model 10, DFT 18, unspecified 2); 3 calculated phase diagram(s).
+145 accepted literature values from 2 paper(s) (experimental 115, model 10, DFT 18, unspecified 2); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SE.json) · [CSV](https://data.orchid-project.org/systems/AG-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SE/AgSe-18Li.json) · [Markdown](https://data.orchid-project.org/systems/AG-SE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 117 |
+| experimental | 115 |
 | model | 10 |
 | DFT | 18 |
 | unspecified | 2 |
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 11 |
 | phase transition | 21 |
-| formation | 82 |
-| heat capacity / entropy / enthalpy | 32 |
+| formation | 81 |
+| heat capacity / entropy / enthalpy | 31 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -75,23 +75,23 @@ Table: Invariant reactions reported in the literature for the Ag–Se system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1163.01 | Monotectic: L1 -> Ag + L2 | L1: Se 0.076; Ag: Se 0; L2: Se 0.307 | model | [1] Li 2018 | Table 6, p. 9, row 4 |  |
-| 1163 | Monotectic: L1 -> Ag + L2 | L1: Se 0.082; Ag: Se 0; L2: Se 0.312 | experimental | [1] Li 2018; _cites Wiggett 1999_ [doi](https://doi.org/10.1007/s11663-999-0019-4) | Table 6, p. 9, row 2 |  |
-| 1163 | Monotectic: L1 -> Ag + L2 | L1: Se 0.12; Ag: Se 0; L2: Se 0.313 | experimental | [1] Li 2018; _cites Pellini 1915_ | Table 6, p. 9, row 1 |  |
-| 1163 | Monotectic: L1 -> Ag + L2 | L1: Se 0.11; Ag: Se 0; L2: Se 0.31 | experimental | [1] Li 2018; _cites Houphouet-Boigny 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990272-8) | Table 6, p. 9, row 3 |  |
-| 1113 | Eutectic: L2 -> Ag + β-Ag2Se | L2: Se 0.32; Ag: Se 0; β-Ag2Se: Se 0.333 | experimental | [1] Li 2018; _cites Friedrich 1908_ | Table 6, p. 9, row 5 |  |
-| 1112.53 | Eutectic: L2 -> Ag + β-Ag2Se | L2: Se 0.30876; Ag: Se 0; β-Ag2Se: Se 0.333 | model | [1] Li 2018 | Table 6, p. 9, row 6 |  |
-| 889 | Monotectic: L2 -> β-Ag2Se + L3 | L2: Se 0.445; β-Ag2Se: Se 0.333; L3: Se 0.955 | unspecified | [1] Li 2018; _cites Pelabon 1906_ | Table 6, p. 9, row 11 |  |
-| 887.31 | Monotectic: L2 -> β-Ag2Se + L3 | L2: Se 0.439; β-Ag2Se: Se 0.333; L3: Se 0.9402 | model | [1] Li 2018 | Table 6, p. 9, row 12 |  |
-| 490 | Eutectic: L3 -> β-Ag2Se + Se | L3: Se 1; β-Ag2Se: Se 0.333; Se: Se 1 | unspecified | [1] Li 2018; _cites Karakaya 1990_ [doi](https://doi.org/10.1007/bf03029297) | Table 6, p. 9, row 13 |  |
+| 1163.01 | monotectic: L1 -> Ag + L2 | L1: Se 0.076; Ag: Se 0; L2: Se 0.307 | model | [1] Li 2018 | Table 6, p. 9, row 4 |  |
+| 1163 | monotectic: L1 -> Ag + L2 | L1: Se 0.082; Ag: Se 0; L2: Se 0.312 | experimental | [1] Li 2018; _cites Wiggett 1999_ [doi](https://doi.org/10.1007/s11663-999-0019-4) | Table 6, p. 9, row 2 |  |
+| 1163 | monotectic: L1 -> Ag + L2 | L1: Se 0.12; Ag: Se 0; L2: Se 0.313 | experimental | [1] Li 2018; _cites Pellini 1915_ | Table 6, p. 9, row 1 |  |
+| 1163 | monotectic: L1 -> Ag + L2 | L1: Se 0.11; Ag: Se 0; L2: Se 0.31 | experimental | [1] Li 2018; _cites Houphouet-Boigny 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990272-8) | Table 6, p. 9, row 3 |  |
+| 1113 | eutectic: L2 -> Ag + β-Ag2Se | L2: Se 0.32; Ag: Se 0; β-Ag2Se: Se 0.333 | experimental | [1] Li 2018; _cites Friedrich 1908_ | Table 6, p. 9, row 5 |  |
+| 1112.53 | eutectic: L2 -> Ag + β-Ag2Se | L2: Se 0.30876; Ag: Se 0; β-Ag2Se: Se 0.333 | model | [1] Li 2018 | Table 6, p. 9, row 6 |  |
+| 889 | monotectic: L2 -> β-Ag2Se + L3 | L2: Se 0.445; β-Ag2Se: Se 0.333; L3: Se 0.955 | unspecified | [1] Li 2018; _cites Pelabon 1906_ | Table 6, p. 9, row 11 |  |
+| 887.31 | monotectic: L2 -> β-Ag2Se + L3 | L2: Se 0.439; β-Ag2Se: Se 0.333; L3: Se 0.9402 | model | [1] Li 2018 | Table 6, p. 9, row 12 |  |
+| 490 | eutectic: L3 -> β-Ag2Se + Se | L3: Se 1; β-Ag2Se: Se 0.333; Se: Se 1 | unspecified | [1] Li 2018; _cites Karakaya 1990_ [doi](https://doi.org/10.1007/bf03029297) | Table 6, p. 9, row 13 |  |
 | 489.75 | eutectic |  | model | [1] Li 2018 | p. 9 | “In this work, the eutectic composition and temperature of the liquid were calculated as x(Liquid, Se) = 0.9714 and T = 489.75 K, respectively, in agreement with the experimental data by Pellini et al..\[61\]” |
-| 489.75 | Eutectic: L3 -> β-Ag2Se + Se | L3: Se 0.9714; β-Ag2Se: Se 0.333; Se: Se 1 | model | [1] Li 2018 | Table 6, p. 9, row 14 |  |
+| 489.75 | eutectic: L3 -> β-Ag2Se + Se | L3: Se 0.9714; β-Ag2Se: Se 0.333; Se: Se 1 | model | [1] Li 2018 | Table 6, p. 9, row 14 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ag–Se system (50)
+Table: Enthalpies of formation, Ag–Se system (49)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -99,7 +99,6 @@ Table: Enthalpies of formation, Ag–Se system (50)
 | UNKNOWN |  | -14.2433 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1 |  |
 | UNKNOWN |  | -14.2433 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018 | Table 1, p. 3, row 9 |  |
 | UNKNOWN |  | -14.2333 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 15 |  |
-| UNKNOWN |  | -14.2333 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 2 |  |
 | UNKNOWN |  | -14.1367 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3 |  |
 | UNKNOWN |  | -14.12 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7 |  |
 | UNKNOWN |  | -13.7067 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8 |  |
@@ -155,24 +154,24 @@ Table: Phase transition, Ag–Se system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 397.5 K | 397.5 |  | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | p. 2 | “Measured transition temperatures between a-Ag2Se and b-Ag2Se are mostly consistent with the exception of the data obtained by Voronin et al.,\[27\] who used electromotive force (EMF) measurement using either a solid (AgCl) or liquid (glycerol solution with constant stirring) electrolyte to record the transformation temperature of 397.5 K.” |
-| Phase transition | 397.5 K | 397.5 | Polymorphic transformation: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 6, p. 9, row 17 |  |
-| Phase transition | 405.4 K | 405.4 | Polymorphic transformation: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 6, p. 9, row 15 |  |
-| Phase transition | 405.42 K | 405.42 | Polymorphic transformation: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | model | [1] Li 2018 | Table 6, p. 9, row 20 |  |
+| Phase transition | 397.5 K | 397.5 | polymorphic: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 6, p. 9, row 17 |  |
+| Phase transition | 405.4 K | 405.4 | polymorphic: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 6, p. 9, row 15 |  |
+| Phase transition | 405.42 K | 405.42 | polymorphic: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | model | [1] Li 2018 | Table 6, p. 9, row 20 |  |
 | Phase transition | 405.5 K | 405.5 |  | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | p. 2 | “However, Echmaeva et al.,\[28\] Nasar et al.,\[29\] and Feng et al.\[30\] also using EMF measurements, reported higher values for the transformation temperature of 405.5, 406, and 407.7 K, respectively.” |
 | Phase transition | 406 K | 406 |  | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | p. 2 | “However, Echmaeva et al.,\[28\] Nasar et al.,\[29\] and Feng et al.\[30\] also using EMF measurements, reported higher values for the transformation temperature of 405.5, 406, and 407.7 K, respectively.” |
-| Phase transition | 406 K | 406 | Polymorphic transformation: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 6, p. 9, row 19 |  |
-| Phase transition | 406 K | 406 | Polymorphic transformation: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Olin 2005_ | Table 6, p. 9, row 16 |  |
+| Phase transition | 406 K | 406 | polymorphic: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 6, p. 9, row 19 |  |
+| Phase transition | 406 K | 406 | polymorphic: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Olin 2005_ | Table 6, p. 9, row 16 |  |
 | Phase transition | 407.7 K | 407.7 |  | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | p. 2 | “However, Echmaeva et al.,\[28\] Nasar et al.,\[29\] and Feng et al.\[30\] also using EMF measurements, reported higher values for the transformation temperature of 405.5, 406, and 407.7 K, respectively.” |
-| Phase transition | 407.7 K | 407.7 | Polymorphic transformation: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 6, p. 9, row 18 |  |
+| Phase transition | 407.7 K | 407.7 | polymorphic: β-Ag2Se -> α-Ag2Se; _β-Ag2Se: Se 0.333; α-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 6, p. 9, row 18 |  |
 | Phase transition | 490 K | 490 |  | experimental | [1] Li 2018; _cites Pellini 1915_ | p. 9 | “Based on the phase equilibrium data reported by Pellini et al.,\[21\] however, the temperature that b-Ag2Se ? liquid transforms to b-Ag2Se ? Se is 490 K, which is slightly lower than the Se melting temperature of 494.2 K.\[33\]” |
 | Phase transition | 494.2 K | 494.2 |  | experimental | [1] Li 2018; _cites Olin 2005_ | p. 9 | “Based on the phase equilibrium data reported by Pellini et al.,\[21\] however, the temperature that b-Ag2Se ? liquid transforms to b-Ag2Se ? Se is 490 K, which is slightly lower than the Se melting temperature of 494.2 K.\[33\]” |
 | Phase transition | 1167 K | 1167 |  | experimental | [1] Li 2018; _cites Kulwicki 1963_ | p. 2 | “The melting temperature of b-Ag2Se was measured using thermal analysis,\[21\] differential thermal analysis (DTA)\[26\] and conductivity measurements,\[23\] and these results show good consistency with reported values of 1170, 1167 and 1168 K, respectively.” |
-| Phase transition | 1167 K | 1167 | Congruent: L2 -> β-Ag2Se; _L2: Se 0.333; β-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Kulwicki 1963_ | Table 6, p. 9, row 9 |  |
+| Phase transition | 1167 K | 1167 | congruent melting: L2 -> β-Ag2Se; _L2: Se 0.333; β-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Kulwicki 1963_ | Table 6, p. 9, row 9 |  |
 | Phase transition | 1168 K | 1168 |  | experimental | [1] Li 2018; _cites Ohno 1994_ [doi](https://doi.org/10.1088/0953-8984/6/28/010) | p. 2 | “The melting temperature of b-Ag2Se was measured using thermal analysis,\[21\] differential thermal analysis (DTA)\[26\] and conductivity measurements,\[23\] and these results show good consistency with reported values of 1170, 1167 and 1168 K, respectively.” |
-| Phase transition | 1168 K | 1168 | Congruent: L2 -> β-Ag2Se; _L2: Se 0.333; β-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Ohno 1994_ [doi](https://doi.org/10.1088/0953-8984/6/28/010) | Table 6, p. 9, row 8 |  |
+| Phase transition | 1168 K | 1168 | congruent melting: L2 -> β-Ag2Se; _L2: Se 0.333; β-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Ohno 1994_ [doi](https://doi.org/10.1088/0953-8984/6/28/010) | Table 6, p. 9, row 8 |  |
 | Phase transition | 1170 K | 1170 |  | experimental | [1] Li 2018; _cites Pellini 1915_ | p. 2 | “The melting temperature of b-Ag2Se was measured using thermal analysis,\[21\] differential thermal analysis (DTA)\[26\] and conductivity measurements,\[23\] and these results show good consistency with reported values of 1170, 1167 and 1168 K, respectively.” |
-| Phase transition | 1170 K | 1170 | Congruent: L2 -> β-Ag2Se; _L2: Se 0.333; β-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Pellini 1915_ | Table 6, p. 9, row 7 |  |
-| Phase transition | 1170.12 K | 1170.12 | Congruent: L2 -> β-Ag2Se; _L2: Se 0.333; β-Ag2Se: Se 0.333333_ | model | [1] Li 2018 | Table 6, p. 9, row 10 |  |
+| Phase transition | 1170 K | 1170 | congruent melting: L2 -> β-Ag2Se; _L2: Se 0.333; β-Ag2Se: Se 0.333333_ | experimental | [1] Li 2018; _cites Pellini 1915_ | Table 6, p. 9, row 7 |  |
+| Phase transition | 1170.12 K | 1170.12 | congruent melting: L2 -> β-Ag2Se; _L2: Se 0.333; β-Ag2Se: Se 0.333333_ | model | [1] Li 2018 | Table 6, p. 9, row 10 |  |
 | Phase transition | 1233.15 K | 1233.15 | Ag2Se3 | model | [2] Shi 2019; _cites Yaws 2015_ [doi](https://doi.org/10.1016/b978-0-12-800834-8.00002-5) | p. 4 | “Yaws\[29\] assessed the melting temperature of Ag2Se3 to be 960 C based on experimental values.” |
 | Phase transition | 2096.26 K | 2096.26 | other | model | [1] Li 2018 | p. 8 | “The calculated miscibility gap in liquid phase converges at 2096.26 K, which agrees with the value of Wiggett et al.\[25\] in that the boundary of the miscibility gap does not converge even at relatively high temperature (\* 1450 K).” |
 
@@ -215,7 +214,7 @@ Table: Formation, Ag–Se system
 | Gibbs energy of formation; _printed: −ΔfG°_ | -15.88 kJ/mol-atom | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13 |  |
 | Gibbs energy of formation; _printed: −ΔfG°_ | -15.84 kJ/mol-atom | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14 |  |
 
-### Heat capacity / entropy / enthalpy (32)
+### Heat capacity / entropy / enthalpy (31)
 
 Table: Heat capacity / entropy / enthalpy, Ag–Se system
 
@@ -233,7 +232,6 @@ Table: Heat capacity / entropy / enthalpy, Ag–Se system
 | Entropy; _printed: S°_ | 50.0267 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3 |  |
 | Entropy; _printed: S°_ | 56.5233 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13 |  |
 | Entropy; _printed: S°_ | 51.8467 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 5 |  |
-| Entropy; _printed: S°_ | 49.4 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 2 |  |
 | Entropy; _printed: S°_ | 56.46 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14 |  |
 | Entropy; _printed: S°_ | 49.9667 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Olin 2005_ | Table 1, p. 3, row 6 |  |
 | Entropy; _printed: S°_ | 50.3433 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7 |  |

@@ -1,10 +1,10 @@
 # Fe–Mn–Nb system
 
-> Fe–Mn–Nb system: 286 accepted literature values (crystal structure 230, invariant reaction 56) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Mn–Nb system: 277 accepted literature values (crystal structure 222, invariant reaction 55) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-MN-NB.html · Markdown: https://data.orchid-project.org/systems/FE-MN-NB.md
 
-286 accepted literature values from 1 paper(s) (experimental 31, model 39, DFT 216); 0 calculated phase diagram(s).
+277 accepted literature values from 1 paper(s) (experimental 31, model 38, DFT 208); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN-NB.json) · [CSV](https://data.orchid-project.org/systems/FE-MN-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN-NB) · [Markdown](https://data.orchid-project.org/systems/FE-MN-NB.md)
 
@@ -13,19 +13,19 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 31 |
-| model | 39 |
-| DFT | 216 |
+| model | 38 |
+| DFT | 208 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 56 |
-| crystal structure | 230 |
+| invariant reaction | 55 |
+| crystal structure | 222 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Mn–Nb system (56)
+Table: Invariant reactions reported in the literature for the Fe–Mn–Nb system (55)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -73,7 +73,6 @@ Table: Invariant reactions reported in the literature for the Fe–Mn–Nb syste
 | 1416.15 | (δMn) + λ ↔ (βMn) | (δMn): Nb 0.0151; λ: Nb 0.2914; (βMn): Nb 0.0225 | model | [1] Liu 2012 | Table 2, p. 4, row 59 |  |
 | 1408.15 | (γMn) + λ ↔ (βMn) |  | experimental | [1] Liu 2012; _cites Savitskii 1960_ | Table 2, p. 4, row 60 |  |
 | 1395.15 | (δMn) ↔ (γMn) + (βMn) | (δMn): Nb 0.0051; (γMn): Nb 0.0032; (βMn): Nb 0.0079 | model | [1] Liu 2012 | Table 2, p. 4, row 62 |  |
-| 1395.15 | (δMn) ↔ (γMn) + (βMn) | (δMn): Nb 0.0051; (γMn): Nb 0.0032; (βMn): Nb 0.0079 | model | [1] Liu 2012 | Table 2, p. 4, row 63 |  |
 | 1393.15 | (δMn) ↔ (γMn) + (βMn) | (γMn): Nb 0.004 | experimental | [1] Liu 2012; _cites Hellawell 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990036-0) | Table 2, p. 4, row 61 |  |
 | 1373.15 | (δMn) + λ ↔ (βMn) |  | experimental | [1] Liu 2012; _cites Svechnikov 1976_ | Table 2, p. 4, row 57 |  |
 | 1262.15 | (γFe) + ε ↔ (αFe) |  | experimental | [1] Liu 2012; _cites Genders 1939_ | Table 2, p. 4, row 24 |  |
@@ -88,7 +87,7 @@ Table: Invariant reactions reported in the literature for the Fe–Mn–Nb syste
 
 ## Other properties
 
-### Crystal structure (230)
+### Crystal structure (222)
 
 Table: Crystal structure, Fe–Mn–Nb system
 
@@ -107,19 +106,16 @@ Table: Crystal structure, Fe–Mn–Nb system
 | Lattice a | 5.438 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 4 |  |
 | Lattice a | 5.467 Å | 0 | C14; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 10 |  |
 | Lattice a | 5.423 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 15 |  |
-| Lattice a | 4.547 Å | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 9 |  |
 | Lattice a | 4.766 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 11 |  |
 | Lattice a | 5.341 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 16 |  |
 | Lattice a | 5.385 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 14 |  |
 | Lattice a | 4.806 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 3 |  |
-| Lattice a | 4.547 Å | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 8 |  |
 | Lattice a | 5.471 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 5 |  |
 | Lattice a | 4.531 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 17 |  |
 | Lattice a | 4.797 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 13 |  |
 | Lattice a | 4.56 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 19 |  |
 | Lattice a | 4.802 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 2 |  |
 | Lattice a | 5.432 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 6 |  |
-| Lattice a | 4.802 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 1 |  |
 | Lattice a | 4.743 Å | 0 | μ; _alloy: Mn 0.307692, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 43 |  |
 | Lattice a | 4.855 Å | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 21 |  |
 | Lattice a | 4.854 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 36 |  |
@@ -166,7 +162,6 @@ Table: Crystal structure, Fe–Mn–Nb system
 | Lattice c | 8.482 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 16 |  |
 | Lattice c | 8.258 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 14 |  |
 | Lattice c | 7.937 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 3 |  |
-| Lattice c | 7.358 Å | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 8 |  |
 | Lattice c | 8.524 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 5 |  |
 | Lattice c | 7.288 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 17 |  |
 | Lattice c | 7.891 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 13 |  |
@@ -228,8 +223,6 @@ Table: Crystal structure, Fe–Mn–Nb system
 | lattice v0 | 229.6 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 10 |  |
 | lattice v0 | 218.7 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 15 |  |
 | lattice v0 | 218.7 Å3 | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 15 |  |
-| lattice v0 | 131.7 Å3 per formula unit | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 9 |  |
-| lattice v0 | 131.7 Å3 | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 9 |  |
 | lattice v0 | 153.6 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 11 |  |
 | lattice v0 | 153.6 Å3 | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 11 |  |
 | lattice v0 | 209.6 Å3 | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 16 |  |
@@ -238,8 +231,6 @@ Table: Crystal structure, Fe–Mn–Nb system
 | lattice v0 | 207.4 Å3 | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 14 |  |
 | lattice v0 | 158.7 Å3 per formula unit | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 3 |  |
 | lattice v0 | 158.7 Å3 | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 3 |  |
-| lattice v0 | 131.7 Å3 per formula unit | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 8 |  |
-| lattice v0 | 131.7 Å3 | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 8 |  |
 | lattice v0 | 221 Å3 per formula unit | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 5 |  |
 | lattice v0 | 221 Å3 | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 5 |  |
 | lattice v0 | 129.6 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 17 |  |

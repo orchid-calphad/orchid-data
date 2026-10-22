@@ -1,10 +1,10 @@
 # Ge–Hf system
 
-> Ge–Hf system: 186 accepted literature values (crystal structure 102, formation 41, invariant reaction 27, phase equilibrium 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Hf system: 135 accepted literature values (crystal structure 51, formation 41, invariant reaction 27, phase equilibrium 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-HF.html · Markdown: https://data.orchid-project.org/systems/GE-HF.md
 
-186 accepted literature values from 1 paper(s) (experimental 106, model 28, DFT 14, unspecified 38); 1 calculated phase diagram(s).
+135 accepted literature values from 1 paper(s) (experimental 73, model 28, DFT 14, unspecified 20); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-HF.json) · [CSV](https://data.orchid-project.org/systems/GE-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-HF/GeHf-14Tan.json) · [Markdown](https://data.orchid-project.org/systems/GE-HF.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 106 |
+| experimental | 73 |
 | model | 28 |
 | DFT | 14 |
-| unspecified | 38 |
+| unspecified | 20 |
 
 Table: Accepted values by property group
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase transition | 1 |
 | phase equilibrium | 15 |
 | formation | 41 |
-| crystal structure | 102 |
+| crystal structure | 51 |
 
 ## Calculated phase diagrams
 
@@ -71,33 +71,33 @@ Table: Invariant reactions reported in the literature for the Ge–Hf system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2473.15 | Congruent: Liquid -> Hf5Ge3 | Liquid: Ge 0.375, Hf 0.625; Hf5Ge3: Ge 0.375, Hf 0.625 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 9 |  |
-| 2466.35 | Congruent: Liquid -> Hf5Ge3 | Liquid: Ge 0.375, Hf 0.625; Hf5Ge3: Ge 0.375, Hf 0.625 | model | [1] Tang 2014 | Table 6, p. 9, row 10 |  |
-| 2436.35 | Peritectic: Liquid + Hf5Ge3 -> Hf3Ge2 | Hf5Ge3: Ge 0.375, Hf 0.625; Hf3Ge2: Ge 0.4, Hf 0.6 | model | [1] Tang 2014; _cites Gokhale 1990_ [doi](https://doi.org/10.1007/bf03029294) | Table 6, p. 9, row 11 |  |
-| 2433.75 | Peritectic: Liquid + Hf5Ge3 -> Hf3Ge2 | Hf5Ge3: Ge 0.375, Hf 0.625; Hf3Ge2: Ge 0.4, Hf 0.6 | model | [1] Tang 2014 | Table 6, p. 9, row 12 |  |
-| 2415.35 | Peritectic: Liquid + Hf3Ge2 -> Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge4: Ge 0.444444, Hf 0.555556 | model | [1] Tang 2014 | Table 6, p. 9, row 14 |  |
-| 2412.55 | Peritectic: Liquid + Hf3Ge2 -> Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge4: Ge 0.444444, Hf 0.555556 | model | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 13 |  |
-| 2299.15 | Peritectic: Liquid + Hf5Ge3 -> Hf2Ge | Hf5Ge3: Ge 0.375, Hf 0.625; Hf2Ge: Ge 0.333333, Hf 0.666667 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 7 |  |
-| 2295.55 | Peritectic: Liquid + Hf5Ge3 -> Hf2Ge | Hf5Ge3: Ge 0.375, Hf 0.625; Hf2Ge: Ge 0.333333, Hf 0.666667 | model | [1] Tang 2014 | Table 6, p. 9, row 8 |  |
-| 2256.15 | Peritectic: Liquid + Hf2Ge -> Hf3Ge | Hf2Ge: Ge 0.333333, Hf 0.666667; Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014 | Table 6, p. 9, row 6 |  |
-| 2251.35 | Peritectic: Liquid + Hf2Ge -> Hf3Ge | Hf2Ge: Ge 0.333333, Hf 0.666667; Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014; _cites Gokhale 1990_ [doi](https://doi.org/10.1007/bf03029294) | Table 6, p. 9, row 5 |  |
-| 2048.15 | Eutectic: Liquid -> (βHf) + Hf3Ge | Hf3Ge: Ge 0.25, Hf 0.75 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 1 |  |
-| 2047.05 | Eutectic: Liquid -> (βHf) + Hf3Ge | Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014 | Table 6, p. 9, row 2 |  |
-| 2022.85 | Peritectic: Liquid + Hf5Ge4 -> HfGe2 | Hf5Ge4: Ge 0.444444, Hf 0.555556; HfGe2: Ge 0.666667, Hf 0.333333 | model | [1] Tang 2014 | Table 6, p. 9, row 16 |  |
-| 2018.15 | Peritectoid: (βHf) + Hf3Ge -> (αHf) | Hf3Ge: Ge 0.25, Hf 0.75 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 3 |  |
-| 2017.35 | Peritectoid: (βHf) + Hf3Ge -> (αHf) | Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014 | Table 6, p. 9, row 4 |  |
-| 2017.15 | Peritectic: Liquid + Hf5Ge4 -> HfGe2 | Hf5Ge4: Ge 0.444444, Hf 0.555556; HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 15 |  |
-| 1512.05 | Eutectoid: Hf3Ge2 -> Hf5Ge3 + Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge3: Ge 0.375, Hf 0.625; Hf5Ge4: Ge 0.444444, Hf 0.555556 | model | [1] Tang 2014 | Table 6, p. 9, row 21 |  |
+| 2473.15 | congruent melting: Liquid -> Hf5Ge3 | Liquid: Ge 0.375, Hf 0.625; Hf5Ge3: Ge 0.375, Hf 0.625 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 9 |  |
+| 2466.35 | congruent melting: Liquid -> Hf5Ge3 | Liquid: Ge 0.375, Hf 0.625; Hf5Ge3: Ge 0.375, Hf 0.625 | model | [1] Tang 2014 | Table 6, p. 9, row 10 |  |
+| 2436.35 | peritectic: Liquid + Hf5Ge3 -> Hf3Ge2 | Hf5Ge3: Ge 0.375, Hf 0.625; Hf3Ge2: Ge 0.4, Hf 0.6 | model | [1] Tang 2014; _cites Gokhale 1990_ [doi](https://doi.org/10.1007/bf03029294) | Table 6, p. 9, row 11 |  |
+| 2433.75 | peritectic: Liquid + Hf5Ge3 -> Hf3Ge2 | Hf5Ge3: Ge 0.375, Hf 0.625; Hf3Ge2: Ge 0.4, Hf 0.6 | model | [1] Tang 2014 | Table 6, p. 9, row 12 |  |
+| 2415.35 | peritectic: Liquid + Hf3Ge2 -> Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge4: Ge 0.444444, Hf 0.555556 | model | [1] Tang 2014 | Table 6, p. 9, row 14 |  |
+| 2412.55 | peritectic: Liquid + Hf3Ge2 -> Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge4: Ge 0.444444, Hf 0.555556 | model | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 13 |  |
+| 2299.15 | peritectic: Liquid + Hf5Ge3 -> Hf2Ge | Hf5Ge3: Ge 0.375, Hf 0.625; Hf2Ge: Ge 0.333333, Hf 0.666667 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 7 |  |
+| 2295.55 | peritectic: Liquid + Hf5Ge3 -> Hf2Ge | Hf5Ge3: Ge 0.375, Hf 0.625; Hf2Ge: Ge 0.333333, Hf 0.666667 | model | [1] Tang 2014 | Table 6, p. 9, row 8 |  |
+| 2256.15 | peritectic: Liquid + Hf2Ge -> Hf3Ge | Hf2Ge: Ge 0.333333, Hf 0.666667; Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014 | Table 6, p. 9, row 6 |  |
+| 2251.35 | peritectic: Liquid + Hf2Ge -> Hf3Ge | Hf2Ge: Ge 0.333333, Hf 0.666667; Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014; _cites Gokhale 1990_ [doi](https://doi.org/10.1007/bf03029294) | Table 6, p. 9, row 5 |  |
+| 2048.15 | eutectic: Liquid -> (βHf) + Hf3Ge | Hf3Ge: Ge 0.25, Hf 0.75 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 1 |  |
+| 2047.05 | eutectic: Liquid -> (βHf) + Hf3Ge | Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014 | Table 6, p. 9, row 2 |  |
+| 2022.85 | peritectic: Liquid + Hf5Ge4 -> HfGe2 | Hf5Ge4: Ge 0.444444, Hf 0.555556; HfGe2: Ge 0.666667, Hf 0.333333 | model | [1] Tang 2014 | Table 6, p. 9, row 16 |  |
+| 2018.15 | peritectoid: (βHf) + Hf3Ge -> (αHf) | Hf3Ge: Ge 0.25, Hf 0.75 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 3 |  |
+| 2017.35 | peritectoid: (βHf) + Hf3Ge -> (αHf) | Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014 | Table 6, p. 9, row 4 |  |
+| 2017.15 | peritectic: Liquid + Hf5Ge4 -> HfGe2 | Hf5Ge4: Ge 0.444444, Hf 0.555556; HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 15 |  |
+| 1512.05 | eutectoid: Hf3Ge2 -> Hf5Ge3 + Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge3: Ge 0.375, Hf 0.625; Hf5Ge4: Ge 0.444444, Hf 0.555556 | model | [1] Tang 2014 | Table 6, p. 9, row 21 |  |
 | 1512.05 | eutectoid: Hf3Ge2 $ Hf5Ge3 ? Hf5Ge4 |  | model | [1] Tang 2014 | p. 10 | “The calculated temperature of the proposed eutectoid reaction Hf3Ge2 $ Hf5Ge3 ? Hf5Ge4 was at 1238.9 °C, which is within the range from 1100 to 1350 °C.” |
-| 1373.15 | Eutectoid: Hf3Ge2 -> Hf5Ge3 + Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge3: Ge 0.375, Hf 0.625; Hf5Ge4: Ge 0.444444, Hf 0.555556 | experimental | [1] Tang 2014 | Table 6, p. 9, row 20 |  |
+| 1373.15 | eutectoid: Hf3Ge2 -> Hf5Ge3 + Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge3: Ge 0.375, Hf 0.625; Hf5Ge4: Ge 0.444444, Hf 0.555556 | experimental | [1] Tang 2014 | Table 6, p. 9, row 20 |  |
 | 1208.35 | eutectic |  | experimental | [1] Tang 2014 | p. 8 | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
 | 1207.05 | eutectic |  | experimental | [1] Tang 2014 | p. 8 | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
-| 1206.45 | Eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | model | [1] Tang 2014 | Table 6, p. 9, row 19 |  |
-| 1205.75 | Eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014 | Table 6, p. 9, row 17 |  |
+| 1206.45 | eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | model | [1] Tang 2014 | Table 6, p. 9, row 19 |  |
+| 1205.75 | eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014 | Table 6, p. 9, row 17 |  |
 | 1204.65 | eutectic |  | experimental | [1] Tang 2014 | p. 8 | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
 | 1204.45 | eutectic |  | experimental | [1] Tang 2014 | p. 8 | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
 | 1204.35 | eutectic |  | experimental | [1] Tang 2014 | p. 8 | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
-| 1203.15 | Eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 18 |  |
+| 1203.15 | eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 18 |  |
 
 ## Formation enthalpies
 
@@ -181,113 +181,62 @@ Table: Phase equilibrium, Ge–Hf system
 | Phase assemblage |  | 1373.15 | Hf5Ge3 + Hf5Ge4; _alloy: Ge 0.385, Hf 0.615_ | experimental | [1] Tang 2014 | Table 3, p. 4, row 5 |  |
 | Phase assemblage |  | 1373.15 | HfGe2 + Hf5Ge4; _alloy: Ge 0.465, Hf 0.535_ | experimental | [1] Tang 2014 | Table 3, p. 4, row 7 |  |
 
-### Crystal structure (102)
+### Crystal structure (51)
 
 Table: Crystal structure, Ge–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.5651 nm |  | (Ge); _alloy: Hf 0_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 8 |  |
-| Lattice a | 0.5651 nm |  | (Ge); _alloy: Hf 0_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 8 |  |
-| Lattice a | 0.3192 nm |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
 | Lattice a | 0.3192 nm |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
 | Lattice a | 0.3532 nm |  | (βHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 5 |  |
-| Lattice a | 0.3532 nm |  | (βHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 5 |  |
-| Lattice a | 0.6609 nm |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
 | Lattice a | 0.6609 nm |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
 | Lattice a | 1.0953 nm |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
-| Lattice a | 1.0953 nm |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
-| Lattice a | 0.7156 nm |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
 | Lattice a | 0.7156 nm |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
 | Lattice a | 0.7991 nm |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
-| Lattice a | 0.7991 nm |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
-| Lattice a | 0.7056 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
 | Lattice a | 0.7056 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
 | Lattice a | 0.3833 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
-| Lattice a | 0.3833 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
-| Lattice a | 0.5651 nm | 298.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014; _cites Qadri 1983_ [doi](https://doi.org/10.1063/1.332434) | Table 4, p. 5, row 6 |  |
 | Lattice a | 0.5651 nm | 298.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014; _cites Qadri 1983_ [doi](https://doi.org/10.1063/1.332434) | Table 4, p. 5, row 6 |  |
 | Lattice a | 0.3197 nm | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
-| Lattice a | 0.3197 nm | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
-| Lattice a | 0.35 nm | 298.15 | (βHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 4, p. 5, row 4 |  |
 | Lattice a | 0.35 nm | 298.15 | (βHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 4, p. 5, row 4 |  |
 | Lattice a | 0.6577 nm | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
-| Lattice a | 0.6577 nm | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
-| Lattice a | 1.0901 nm | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
 | Lattice a | 1.0901 nm | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
 | Lattice a | 0.706 nm | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
-| Lattice a | 0.706 nm | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
-| Lattice a | 0.7938 nm | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
 | Lattice a | 0.7938 nm | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
 | Lattice a | 0.6995 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
-| Lattice a | 0.6995 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
-| Lattice a | 0.3791 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
 | Lattice a | 0.3791 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
 | Lattice a | 0.5663 nm | 1073.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 7 |  |
-| Lattice a | 0.5663 nm | 1073.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 7 |  |
-| Lattice a | 0.3206 nm | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
 | Lattice a | 0.3206 nm | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
 | Lattice a | 0.6592 nm | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
-| Lattice a | 0.6592 nm | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
-| Lattice a | 1.0908 nm | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
 | Lattice a | 1.0908 nm | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
 | Lattice a | 0.7912 nm | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
-| Lattice a | 0.7912 nm | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
-| Lattice a | 0.7003 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
 | Lattice a | 0.7003 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
 | Lattice a | 0.3841 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
-| Lattice a | 0.3841 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
-| Lattice b | 1.3475 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
 | Lattice b | 1.3475 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
 | Lattice b | 1.4927 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
-| Lattice b | 1.4927 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
-| Lattice b | 1.3389 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
 | Lattice b | 1.3389 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
 | Lattice b | 1.4863 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
-| Lattice b | 1.4863 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
-| Lattice b | 1.3389 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
 | Lattice b | 1.3389 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
 | Lattice b | 1.4905 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
-| Lattice b | 1.4905 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
-| Lattice c | 0.5046 nm |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
 | Lattice c | 0.5046 nm |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
 | Lattice c | 0.5316 nm |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
-| Lattice c | 0.5316 nm |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
-| Lattice c | 0.5421 nm |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
 | Lattice c | 0.5421 nm |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
 | Lattice c | 0.3697 nm |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
-| Lattice c | 0.3697 nm |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
-| Lattice c | 0.5541 nm |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
 | Lattice c | 0.5541 nm |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
 | Lattice c | 0.7128 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
-| Lattice c | 0.7128 nm |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
-| Lattice c | 0.3799 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
 | Lattice c | 0.3799 nm |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
 | Lattice c | 0.5058 nm | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
-| Lattice c | 0.5058 nm | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
-| Lattice c | 0.5274 nm | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
 | Lattice c | 0.5274 nm | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
 | Lattice c | 0.541 nm | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
-| Lattice c | 0.541 nm | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
-| Lattice c | 0.372 nm | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
 | Lattice c | 0.372 nm | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
 | Lattice c | 0.5549 nm | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
-| Lattice c | 0.5549 nm | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
-| Lattice c | 0.7077 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
 | Lattice c | 0.7077 nm | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
 | Lattice c | 0.3754 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
-| Lattice c | 0.3754 nm | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
-| Lattice c | 0.5085 nm | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
 | Lattice c | 0.5085 nm | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
 | Lattice c | 0.5306 nm | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
-| Lattice c | 0.5306 nm | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
-| Lattice c | 0.5401 nm | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
 | Lattice c | 0.5401 nm | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
 | Lattice c | 0.5545 nm | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
-| Lattice c | 0.5545 nm | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
 | Lattice c | 0.7091 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
-| Lattice c | 0.7091 nm | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
-| Lattice c | 0.3798 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
 | Lattice c | 0.3798 nm | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
 
 ## Sources

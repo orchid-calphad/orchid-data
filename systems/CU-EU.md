@@ -61,16 +61,16 @@ Table: Invariant reactions reported in the literature for the Cu–Eu system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1115 | Eutectic: L -> FCC(Cu) + Cu5Eu | L: Eu 0.13; Cu5Eu: Eu 0.166667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 2 |  |
-| 1109 | Eutectic: L -> FCC(Cu) + Cu5Eu | L: Eu 0.1176; Cu5Eu: Eu 0.166667 | model | [1] Zhang 2007 | Table 3, p. 3, row 1 |  |
-| 870 | Peritectic: L + Cu5Eu -> Cu2Eu | L: Eu 0.41; Cu5Eu: Eu 0.166667; Cu2Eu: Eu 0.333333 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 6 |  |
-| 869 | Peritectic: L + Cu5Eu -> Cu2Eu | L: Eu 0.4081; Cu5Eu: Eu 0.166667; Cu2Eu: Eu 0.333333 | model | [1] Zhang 2007 | Table 3, p. 3, row 5 |  |
-| 810 | Peritectic: L + Cu2Eu -> CuEu | L: Eu 0.51; Cu2Eu: Eu 0.333333; CuEu: Eu 0.5 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 8 |  |
-| 802 | Peritectic: L + Cu2Eu -> CuEu | L: Eu 0.511; Cu2Eu: Eu 0.333333; CuEu: Eu 0.5 | model | [1] Zhang 2007 | Table 3, p. 3, row 7 |  |
-| 720 | Peritectic: L + CuEu -> CuEu2 | L: Eu 0.7351; CuEu: Eu 0.5; CuEu2: Eu 0.666667 | model | [1] Zhang 2007 | Table 3, p. 3, row 9 |  |
-| 717 | Eutectic: L -> BCC(Eu) + CuEu2 | L: Eu 0.7403; CuEu2: Eu 0.666667 | model | [1] Zhang 2007 | Table 3, p. 3, row 11 |  |
-| 715 | Peritectic: L + CuEu -> CuEu2 | L: Eu 0.733; CuEu: Eu 0.5; CuEu2: Eu 0.666667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 10 |  |
-| 710 | Eutectic: L -> BCC(Eu) + CuEu2 | L: Eu 0.74; CuEu2: Eu 0.666667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 12 |  |
+| 1115 | eutectic: L -> FCC(Cu) + Cu5Eu | L: Eu 0.13; Cu5Eu: Eu 0.166667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 2 |  |
+| 1109 | eutectic: L -> FCC(Cu) + Cu5Eu | L: Eu 0.1176; Cu5Eu: Eu 0.166667 | model | [1] Zhang 2007 | Table 3, p. 3, row 1 |  |
+| 870 | peritectic: L + Cu5Eu -> Cu2Eu | L: Eu 0.41; Cu5Eu: Eu 0.166667; Cu2Eu: Eu 0.333333 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 6 |  |
+| 869 | peritectic: L + Cu5Eu -> Cu2Eu | L: Eu 0.4081; Cu5Eu: Eu 0.166667; Cu2Eu: Eu 0.333333 | model | [1] Zhang 2007 | Table 3, p. 3, row 5 |  |
+| 810 | peritectic: L + Cu2Eu -> CuEu | L: Eu 0.51; Cu2Eu: Eu 0.333333; CuEu: Eu 0.5 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 8 |  |
+| 802 | peritectic: L + Cu2Eu -> CuEu | L: Eu 0.511; Cu2Eu: Eu 0.333333; CuEu: Eu 0.5 | model | [1] Zhang 2007 | Table 3, p. 3, row 7 |  |
+| 720 | peritectic: L + CuEu -> CuEu2 | L: Eu 0.7351; CuEu: Eu 0.5; CuEu2: Eu 0.666667 | model | [1] Zhang 2007 | Table 3, p. 3, row 9 |  |
+| 717 | eutectic: L -> BCC(Eu) + CuEu2 | L: Eu 0.7403; CuEu2: Eu 0.666667 | model | [1] Zhang 2007 | Table 3, p. 3, row 11 |  |
+| 715 | peritectic: L + CuEu -> CuEu2 | L: Eu 0.733; CuEu: Eu 0.5; CuEu2: Eu 0.666667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 10 |  |
+| 710 | eutectic: L -> BCC(Eu) + CuEu2 | L: Eu 0.74; CuEu2: Eu 0.666667 | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 12 |  |
 
 ## Other properties
 
@@ -80,8 +80,8 @@ Table: Phase transition, Cu–Eu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1120 K | 1120 | Congruent: L -> Cu5Eu; _L: Eu 0.1667; Cu5Eu: Eu 0.166667_ | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 4 |  |
-| Phase transition | 1122 K | 1122 | Congruent: L -> Cu5Eu; _L: Eu 0.1667; Cu5Eu: Eu 0.166667_ | model | [1] Zhang 2007 | Table 3, p. 3, row 3 |  |
+| Phase transition | 1120 K | 1120 | congruent melting: L -> Cu5Eu; _L: Eu 0.1667; Cu5Eu: Eu 0.166667_ | experimental | [1] Zhang 2007; _cites Costa 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990378-9) | Table 3, p. 3, row 4 |  |
+| Phase transition | 1122 K | 1122 | congruent melting: L -> Cu5Eu; _L: Eu 0.1667; Cu5Eu: Eu 0.166667_ | model | [1] Zhang 2007 | Table 3, p. 3, row 3 |  |
 
 ## Sources
 

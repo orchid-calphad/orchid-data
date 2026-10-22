@@ -27,14 +27,14 @@ Table: Invariant reactions reported in the literature for the Fe–Mn–P system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1298.15 | U: L + bcc = Fe3P + fcc | L: Fe 0.756801, Mn 0.078058, P 0.165141 | experimental | [1] Miettinen 2014; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200945) | Table 4, p. 4, row 2 |  |
-| 1294.15 | U: L + bcc = Fe3P + fcc | L: Fe 0.76541, Mn 0.07253, P 0.16206 | model | [1] Miettinen 2014 | Table 4, p. 4, row 1 |  |
-| 1288.15 | U: L + Fe3P = Fe2P + fcc | L: Fe 0.647398, Mn 0.187756, P 0.164846 | experimental | [1] Miettinen 2014; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200945) | Table 4, p. 4, row 4 |  |
-| 1254.15 | U: L + Fe3P = Fe2P + fcc | L: Fe 0.624525, Mn 0.212238, P 0.163237 | model | [1] Miettinen 2014 | Table 4, p. 4, row 3 |  |
-| 1231.15 | U: L + cub = Mn3P + fcc |  | experimental | [1] Miettinen 2014; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200945) | Table 4, p. 4, row 8 |  |
-| 1228.15 | U: L + Mn3P = Fe2P + fcc | L: Fe 0.375832, Mn 0.469332, P 0.154836 | experimental | [1] Miettinen 2014; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200945) | Table 4, p. 4, row 6 |  |
-| 1225.15 | U: L + cub = Mn3P + fcc | L: Fe 0.212894, Mn 0.643581, P 0.143524 | model | [1] Miettinen 2014 | Table 4, p. 4, row 7 |  |
-| 1223.15 | U: L + Mn3P = Fe2P + fcc | L: Fe 0.354469, Mn 0.490749, P 0.154782 | model | [1] Miettinen 2014 | Table 4, p. 4, row 5 |  |
+| 1298.15 | quasi-peritectic: L + bcc = Fe3P + fcc | L: Fe 0.756801, Mn 0.078058, P 0.165141 | experimental | [1] Miettinen 2014; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200945) | Table 4, p. 4, row 2 |  |
+| 1294.15 | quasi-peritectic: L + bcc = Fe3P + fcc | L: Fe 0.76541, Mn 0.07253, P 0.16206 | model | [1] Miettinen 2014 | Table 4, p. 4, row 1 |  |
+| 1288.15 | quasi-peritectic: L + Fe3P = Fe2P + fcc | L: Fe 0.647398, Mn 0.187756, P 0.164846 | experimental | [1] Miettinen 2014; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200945) | Table 4, p. 4, row 4 |  |
+| 1254.15 | quasi-peritectic: L + Fe3P = Fe2P + fcc | L: Fe 0.624525, Mn 0.212238, P 0.163237 | model | [1] Miettinen 2014 | Table 4, p. 4, row 3 |  |
+| 1231.15 | quasi-peritectic: L + cub = Mn3P + fcc |  | experimental | [1] Miettinen 2014; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200945) | Table 4, p. 4, row 8 |  |
+| 1228.15 | quasi-peritectic: L + Mn3P = Fe2P + fcc | L: Fe 0.375832, Mn 0.469332, P 0.154836 | experimental | [1] Miettinen 2014; _cites Vogel 1952_ [doi](https://doi.org/10.1002/srin.195200945) | Table 4, p. 4, row 6 |  |
+| 1225.15 | quasi-peritectic: L + cub = Mn3P + fcc | L: Fe 0.212894, Mn 0.643581, P 0.143524 | model | [1] Miettinen 2014 | Table 4, p. 4, row 7 |  |
+| 1223.15 | quasi-peritectic: L + Mn3P = Fe2P + fcc | L: Fe 0.354469, Mn 0.490749, P 0.154782 | model | [1] Miettinen 2014 | Table 4, p. 4, row 5 |  |
 
 ## Sources
 

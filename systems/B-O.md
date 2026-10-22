@@ -61,7 +61,7 @@ Table: Phase transition, B–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 724 K | 724 | congruent | model | [1] Pham 2023 | p. 7 | “B2 O3 melts congruently at 724 K and becomes a gas at 2134 K.” |
+| Phase transition | 724 K | 724 | congruent transformation | model | [1] Pham 2023 | p. 7 | “B2 O3 melts congruently at 724 K and becomes a gas at 2134 K.” |
 | Phase transition | 1063 K | 1063 | B6O -> α-B + liquid | model | [1] Pham 2023 | p. 7 | “The model predicts the decomposition of B6 O at ambient pressure at 1063 K.” |
 | Phase transition | 1067 K | 1067 |  | model | [1] Pham 2023 | p. 5 | “The standard enthalpy of formation is obtained from Makarov and Ugai,43 and the entropy of formation is estimated using zero-order interaction parameters with B6 O existing as a line compound and a decomposition temperature of 1067 K.” |
 | Phase transition | 2348 K | 2348 |  | model | [1] Pham 2023; _cites Duschanek 1998_ | p. 9 | “At 2433 K (Figure 8B), there is a small phase discrepancy with respect to the β-B and liquid equilibria as Duschanek et al.18 has a modeled melting point for β-B of 2348 K, and Saengdeejing et al.31 is slightly higher at 2358 K.” |

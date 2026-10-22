@@ -1,10 +1,10 @@
 # Zn–Zr system
 
-> Zn–Zr system: 90 accepted literature values (formation 45, invariant reaction 44, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Zn–Zr system: 83 accepted literature values (formation 42, invariant reaction 40, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ZN-ZR.html · Markdown: https://data.orchid-project.org/systems/ZN-ZR.md
 
-90 accepted literature values from 1 paper(s) (experimental 17, model 57, DFT 16); 2 calculated phase diagram(s).
+83 accepted literature values from 1 paper(s) (experimental 17, model 50, DFT 16); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ZN-ZR.json) · [CSV](https://data.orchid-project.org/systems/ZN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ZN-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ZN-ZR/ZnZr-06Arr-first.json) · [Markdown](https://data.orchid-project.org/systems/ZN-ZR.md)
 
@@ -13,16 +13,16 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 17 |
-| model | 57 |
+| model | 50 |
 | DFT | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 44 |
+| invariant reaction | 40 |
 | phase transition | 1 |
-| formation | 45 |
+| formation | 42 |
 
 ## Calculated phase diagrams
 
@@ -90,7 +90,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Zn–Zr system (44)
+Table: Invariant reactions reported in the literature for the Zn–Zr system (40)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -112,7 +112,6 @@ Table: Invariant reactions reported in the literature for the Zn–Zr system (44
 | 1288.15 | L -> ZnZr + bcc | L: Zr 0.615; ZnZr: Zr 0.5; bcc: Zr 0.73 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 5 |  |
 | 1183.15 | Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 17 |  |
 | 1183.15 | Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 18 |  |
-| 1183.15 | Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 19 |  |
 | 1181.15 | Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 20 |  |
 | 1027.15 | bcc + ZnZr -> ZnZr2 | bcc: Zr 0.855; ZnZr: Zr 0.5; ZnZr2: Zr 0.667 | model | [1] Arroyave 2006 | Table 4, p. 7, row 26 |  |
 | 1025.15 | bcc + ZnZr -> ZnZr2 | bcc: Zr 0.86; ZnZr: Zr 0.5; ZnZr2: Zr 0.667 | model | [1] Arroyave 2006 | Table 4, p. 7, row 28 |  |
@@ -120,7 +119,6 @@ Table: Invariant reactions reported in the literature for the Zn–Zr system (44
 | 1023.15 | bcc + ZnZr -> ZnZr2 | bcc: Zr 0.84; ZnZr: Zr 0.5; ZnZr2: Zr 0.667 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 25 |  |
 | 1023.15 | bcc + ZnZr -> ZnZr2 | bcc: Zr 0.852; ZnZr: Zr 0.5; ZnZr2: Zr 0.667 | model | [1] Arroyave 2006 | Table 4, p. 7, row 27 |  |
 | 1021.15 | L + Zn3Zr l -> Zn39Zr5 | L: Zr 0.041; Zn3Zr l: Zr 0.25; Zn39Zr5: Zr 0.114 | model | [1] Arroyave 2006 | Table 4, p. 7, row 24 |  |
-| 1021.15 | L + Zn3Zr l -> Zn39Zr5 | L: Zr 0.041; Zn3Zr l: Zr 0.25; Zn39Zr5: Zr 0.114 | model | [1] Arroyave 2006 | Table 4, p. 7, row 22 |  |
 | 1018.15 | L + Zn3Zr l -> Zn39Zr5 | L: Zr 0.049; Zn3Zr l: Zr 0.25; Zn39Zr5: Zr 0.114 | model | [1] Arroyave 2006 | Table 4, p. 7, row 23 |  |
 | 994.15 | bcc -> hcp + ZnZr2 | bcc: Zr 0.876; hcp: Zr 0.968; ZnZr2: Zr 0.667 | model | [1] Arroyave 2006 | Table 4, p. 7, row 32 |  |
 | 991.15 | bcc -> hcp + ZnZr2 | bcc: Zr 0.872; hcp: Zr 0.976; ZnZr2: Zr 0.667 | model | [1] Arroyave 2006 | Table 4, p. 7, row 31 |  |
@@ -135,15 +133,13 @@ Table: Invariant reactions reported in the literature for the Zn–Zr system (44
 | 816.15 | L + Zn39Zr5 -> Zn22Zr | L: Zr 0.002; Zn39Zr5: Zr 0.114; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 40 |  |
 | 813.15 | L + Zn39Zr5 -> Zn22Zr | L: Zr 0.001; Zn39Zr5: Zr 0.114; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 39 |  |
 | 693.15 | L -> hcp + Zn22Zr | L: Zr 0; hcp: Zr 0; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 44 |  |
-| 693.15 | L -> hcp + Zn22Zr | L: Zr 0; hcp: Zr 0; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 42 |  |
-| 693.15 | L -> hcp + Zn22Zr | L: Zr 0; hcp: Zr 0; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 43 |  |
 | 692.15 | L -> hcp + Zn22Zr | L: Zr 1.000e-4; hcp: Zr 1.000e-4; Zn22Zr: Zr 0.0435 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 41 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Zn–Zr system (45)
+Table: Enthalpies of formation, Zn–Zr system (42)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -161,8 +157,6 @@ Table: Enthalpies of formation, Zn–Zr system (45)
 | Zn2Zr |  | -27.91 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 26 |  |
 | Zn2Zr3 |  | -20.96 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 36 |  |
 | Zn2Zr3 | [Zn2Zr3](https://data.orchid-project.org/compounds/Zn2Zr3.html) | -19.35 kJ/mol-atom | 298 | model | -18.32 (mp-aaacqsdh) |  | [1] Arroyave 2006 | Table 5, p. 8, row 38 |  |
-| Zn2Zr3 | [Zn2Zr3](https://data.orchid-project.org/compounds/Zn2Zr3.html) | -19.35 kJ/mol-atom | 298 | model | -18.32 (mp-aaacqsdh) |  | [1] Arroyave 2006 | Table 5, p. 8, row 40 |  |
-| Zn2Zr3 | [Zn2Zr3](https://data.orchid-project.org/compounds/Zn2Zr3.html) | -19.35 kJ/mol-atom | 298 | model | -18.32 (mp-aaacqsdh) |  | [1] Arroyave 2006 | Table 5, p. 8, row 39 |  |
 | Zn2Zr3 |  | -17.74 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 37 |  |
 | Zn39Zr |  | -31.7 kJ/mol-atom ± 0.8 | 298 | experimental |  |  | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 7 |  |
 | Zn39Zr |  | -18.06 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 8 |  |
@@ -179,7 +173,6 @@ Table: Enthalpies of formation, Zn–Zr system (45)
 | Zn3Zr, l |  | -26.45 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 14 |  |
 | Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -26.18 kJ/mol-atom | 298 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 18 |  |
 | Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -26.07 kJ/mol-atom | 298 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 17 |  |
-| Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -26.07 kJ/mol-atom | 298 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 16 |  |
 | Zn3Zr, l |  | -25.68 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 15 |  |
 | ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -58.4 kJ/mol-atom ± 1.3 | 298 | experimental | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 30 |  |
 | ZnZr |  | -29.68 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 31 |  |
@@ -201,7 +194,7 @@ Table: Phase transition, Zn–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1453.15 K | 1453.15 | congruent: Zn2 Zr -> L | experimental | [1] Arroyave 2006; _cites Chiotti 1959_ | p. 6 | “The figure indicates that, at this pressure, all the invariant reactions involving the intermetallic compounds, including the congruent melting of Zn2 Zr at 1180 ◦ C, are more stable than any invariant reaction involving the gas phase, corroborating the experimental observations \[9\].” |
+| Phase transition | 1453.15 K | 1453.15 | congruent melting: Zn2 Zr -> L | experimental | [1] Arroyave 2006; _cites Chiotti 1959_ | p. 6 | “The figure indicates that, at this pressure, all the invariant reactions involving the intermetallic compounds, including the congruent melting of Zn2 Zr at 1180 ◦ C, are more stable than any invariant reaction involving the gas phase, corroborating the experimental observations \[9\].” |
 
 ## Sources
 

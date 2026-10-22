@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/HfB.html · Markdown: https://data.orchid-project.org/compounds/HfB.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -98.95 kJ/mol-atom (n = 1); Materials Project -39.896 kJ/mol-atom (mp-aaaaaanh); OQMD -40.239 kJ/mol-atom (oqmd-13677).
+2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -49.475 kJ/mol-atom (n = 1); Materials Project -39.896 kJ/mol-atom (mp-aaaaaanh); OQMD -40.239 kJ/mol-atom (oqmd-13677).
 
 Systems: [B–Hf](https://data.orchid-project.org/systems/B-HF.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of HfB reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -98.95 kJ/mol-atom ± 12.6 | HfB | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
+| -49.475 kJ/mol-atom ± 6.3 | HfB | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
 | -79.905 kJ/mol-atom | HfB |  | model |  | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
 
 ## DFT formation energies

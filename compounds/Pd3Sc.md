@@ -1,20 +1,19 @@
 # Pd3Sc: enthalpy of formation
 
-> Enthalpy of formation of Pd3Sc: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Pd3Sc: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pd3Sc.html · Markdown: https://data.orchid-project.org/compounds/Pd3Sc.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -82.551 kJ/mol-atom (mp-aaaaadyz); OQMD -82.436 kJ/mol-atom (oqmd-17945).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -82.551 kJ/mol-atom (mp-aaaaadyz); OQMD -82.436 kJ/mol-atom (oqmd-17945).
 
 Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pd3Sc reported in the literature (2)
+Table: Enthalpy of formation of Pd3Sc reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -82.174 kJ/mol-atom | Pd3Sc | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 1 |  |
 | -82.174 kJ/mol-atom | Pd3Sc | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 1 |  |
 
 ## DFT formation energies

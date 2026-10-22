@@ -58,15 +58,15 @@ Table: Invariant reactions reported in the literature for the Ag–Fe system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1806.15 | Monotectic: Liquid#1 -> Liquid#2 + (δFe) | Liquid#1: Fe 0.9974; Liquid#2: Fe 0.009; (δFe): Fe 0.99983 | model | [1] Zhou 2020 | Table 5, p. 8, row 1 |  |
-| 1806.15 | Monotectic: Liquid#1 -> Liquid#2 + (δFe) | Liquid#1: Fe 0.997412; Liquid#2: Fe 0.008625; (δFe): Fe 0.999847 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 2 |  |
-| 1671.15 | Peritectic: Liquid#2 + (δFe) -> (γFe) | Liquid#2: Fe 0.005323; (δFe): Fe 0.999919; (γFe): Fe 0.999785 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 4 |  |
-| 1671.15 | Peritectic: Liquid#2 + (δFe) -> (γFe) | Liquid#2: Fe 0.005; (δFe): Fe 0.99991; (γFe): Fe 0.99978 | model | [1] Zhou 2020 | Table 5, p. 8, row 3 |  |
-| 1234.15 | Eutectic: Liquid#2 -> (γFe) + (Ag) | Liquid#2: Fe 1.600e-5; (γFe): Fe 0.999984; (Ag): Fe 5.780e-4 | model | [1] Zhou 2020 | Table 5, p. 8, row 5 |  |
+| 1806.15 | monotectic: Liquid#1 -> Liquid#2 + (δFe) | Liquid#1: Fe 0.9974; Liquid#2: Fe 0.009; (δFe): Fe 0.99983 | model | [1] Zhou 2020 | Table 5, p. 8, row 1 |  |
+| 1806.15 | monotectic: Liquid#1 -> Liquid#2 + (δFe) | Liquid#1: Fe 0.997412; Liquid#2: Fe 0.008625; (δFe): Fe 0.999847 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 2 |  |
+| 1671.15 | peritectic: Liquid#2 + (δFe) -> (γFe) | Liquid#2: Fe 0.005323; (δFe): Fe 0.999919; (γFe): Fe 0.999785 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 4 |  |
+| 1671.15 | peritectic: Liquid#2 + (δFe) -> (γFe) | Liquid#2: Fe 0.005; (δFe): Fe 0.99991; (γFe): Fe 0.99978 | model | [1] Zhou 2020 | Table 5, p. 8, row 3 |  |
+| 1234.15 | eutectic: Liquid#2 -> (γFe) + (Ag) | Liquid#2: Fe 1.600e-5; (γFe): Fe 0.999984; (Ag): Fe 5.780e-4 | model | [1] Zhou 2020 | Table 5, p. 8, row 5 |  |
 | 1234.15 | eutectic |  | model | [1] Zhou 2020 | p. 7 | “The calculated monotectic reaction Liquid#1 ? Liquid#2 ? (dFe), the peritectic reaction Liquid#2 ? (dFe) ? (cFe), the eutectic reaction Liquid#2 ? (cFe) ? (Ag) and the eutectoid reaction (cFe) ? (aFe) ? (Ag) are calculated to be at 1533 C and 99.9847 at.% Fe, 1389 C and 99.9919 at.% Fe, 961 C and 99.9984 at.% Fe, as well as 912 C and 99.9998 at.% Fe, respectively.” |
-| 1234.15 | Eutectic: Liquid#2 -> (γFe) + (Ag) | Liquid#2: Fe 7.000e-5; (γFe): Fe 0.999984; (Ag): Fe 6.000e-4 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 6 |  |
-| 1185.15 | Eutectiod: (γFe) -> (αFe) + (Ag) | (γFe): Fe 0.999998; (αFe): Fe 0.999999; (Ag): Fe 1.000e-5 | model | [1] Zhou 2020 | Table 5, p. 8, row 7 |  |
-| 1185.15 | Eutectiod: (γFe) -> (αFe) + (Ag) | (γFe): Fe 0.99999; (αFe): Fe 0.999998; (Ag): Fe 4.000e-5 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 8 |  |
+| 1234.15 | eutectic: Liquid#2 -> (γFe) + (Ag) | Liquid#2: Fe 7.000e-5; (γFe): Fe 0.999984; (Ag): Fe 6.000e-4 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 6 |  |
+| 1185.15 | eutectoid: (γFe) -> (αFe) + (Ag) | (γFe): Fe 0.999998; (αFe): Fe 0.999999; (Ag): Fe 1.000e-5 | model | [1] Zhou 2020 | Table 5, p. 8, row 7 |  |
+| 1185.15 | eutectoid: (γFe) -> (αFe) + (Ag) | (γFe): Fe 0.99999; (αFe): Fe 0.999998; (Ag): Fe 4.000e-5 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 8 |  |
 
 ## Other properties
 

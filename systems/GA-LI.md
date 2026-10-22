@@ -93,8 +93,8 @@ Table: Phase transition, Ga–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 500 K | 500 (none) | other | model | [1] Yuan 2003 | p. 4 | “The peritectoid temperature of Ga4 Li5 is not determined by any experimental work, therefore it is assumed at around 500 K in the present calculation.” |
-| Phase transition | 1003.15 K | 1003.15 | congruent | model | [1] Yuan 2003 | p. 4323232323 | “The calculated congruent-melting point of GaLi phase is 730 °C at 0.50 mol fraction of Li, which is in good agreement with the work of \[13,14\].” |
+| Phase transition | 500 K | 500 | other | model | [1] Yuan 2003 | p. 4 | “The peritectoid temperature of Ga4 Li5 is not determined by any experimental work, therefore it is assumed at around 500 K in the present calculation.” |
+| Phase transition | 1003.15 K | 1003.15 | congruent transformation | model | [1] Yuan 2003 | p. 4 | “The calculated congruent-melting point of GaLi phase is 730 °C at 0.50 mol fraction of Li, which is in good agreement with the work of \[13,14\].” |
 | Phase transition | 1013.15 K | 1013.15 |  | experimental | [1] Yuan 2003; _cites Yatsenko 1973_ | p. 2 | “The highest temperature on the liquidus, corresponding to the GaLi stoichiometric composition, was reported as 730 10 °C \[13\], 740 °C \[14\] respectively.” |
 
 ## Sources

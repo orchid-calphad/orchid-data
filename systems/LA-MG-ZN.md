@@ -27,30 +27,30 @@ Table: Invariant reactions reported in the literature for the La–Mg–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1260 | max: L -> LaMg3 + B2 |  | model | [1] Qi 2010 | Table 3, p. 6, row 1 |  |
-| 1150 | U: L + La3Zn22 -> La2(Mg,Zn)17 + LaZn5 |  | model | [1] Qi 2010 | Table 3, p. 6, row 2 |  |
-| 1118 | max: L -> LaMg3 + LaZn5 |  | model | [1] Qi 2010 | Table 3, p. 6, row 3 |  |
-| 1114 | U: L + LaZn5 -> LaZn4 + LaMg3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 4 |  |
-| 1114 | U: L + LaZn5 -> La2(Mg,Zn)17 + LaMg3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 5 |  |
-| 1104 | max: L -> LaMg3 + LaZn5 |  | model | [1] Qi 2010 | Table 3, p. 6, row 6 |  |
-| 1082 | E: L -> LaMg3 + B2 + LaZn2 |  | model | [1] Qi 2010 | Table 3, p. 6, row 7 |  |
-| 1068 | E: L -> LaMg3 + LaZn4 + LaZn2 |  | model | [1] Qi 2010 | Table 3, p. 6, row 8 |  |
-| 1031 | U: L + LaMg3 -> B2 + LaMg2 |  | model | [1] Qi 2010 | Table 3, p. 6, row 9 |  |
-| 978 | U: L + BCC(La) -> B2 + FCC(La) |  | model | [1] Qi 2010 | Table 3, p. 6, row 10 |  |
-| 939 | U: L + La5Mg41 -> LaMg3 + La2(Mg,Zn)17 |  | model | [1] Qi 2010 | Table 3, p. 6, row 11 |  |
-| 863 | max: L -> La2(Mg,Zn)17 + C14 |  | model | [1] Qi 2010 | Table 3, p. 6, row 12 |  |
-| 861 | U: L + La2(Mg,Zn)17 -> LaZn11 + C14 |  | model | [1] Qi 2010 | Table 3, p. 6, row 13 |  |
-| 841 | U: L + LaMg12 -> HCP + La2(Mg,Zn)17 |  | model | [1] Qi 2010 | Table 3, p. 6, row 14 |  |
-| 826 | U: L + LaZn11 -> LaZn13 + C14 |  | model | [1] Qi 2010 | Table 3, p. 6, row 15 |  |
-| 689 | U: L + C14 -> La2(Mg,Zn)17 + Mg2Zn3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 16 |  |
-| 628 | P: L + La2(Mg,Zn)17 + Mg2Zn3 -> T1 |  | model | [1] Qi 2010 | Table 3, p. 6, row 17 |  |
-| 627 | U: L + La2(Mg,Zn)17 -> HCP(Mg) + T1 |  | model | [1] Qi 2010 | Table 3, p. 6, row 18 |  |
-| 623 | U: L + La2(Mg,Zn)17 -> HCP(Mg) + T1 |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | Table 3, p. 6, row 19 |  |
+| 1260 | other: L -> LaMg3 + B2 |  | model | [1] Qi 2010 | Table 3, p. 6, row 1 |  |
+| 1150 | quasi-peritectic: L + La3Zn22 -> La2(Mg,Zn)17 + LaZn5 |  | model | [1] Qi 2010 | Table 3, p. 6, row 2 |  |
+| 1118 | other: L -> LaMg3 + LaZn5 |  | model | [1] Qi 2010 | Table 3, p. 6, row 3 |  |
+| 1114 | quasi-peritectic: L + LaZn5 -> LaZn4 + LaMg3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 4 |  |
+| 1114 | quasi-peritectic: L + LaZn5 -> La2(Mg,Zn)17 + LaMg3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 5 |  |
+| 1104 | other: L -> LaMg3 + LaZn5 |  | model | [1] Qi 2010 | Table 3, p. 6, row 6 |  |
+| 1082 | eutectic: L -> LaMg3 + B2 + LaZn2 |  | model | [1] Qi 2010 | Table 3, p. 6, row 7 |  |
+| 1068 | eutectic: L -> LaMg3 + LaZn4 + LaZn2 |  | model | [1] Qi 2010 | Table 3, p. 6, row 8 |  |
+| 1031 | quasi-peritectic: L + LaMg3 -> B2 + LaMg2 |  | model | [1] Qi 2010 | Table 3, p. 6, row 9 |  |
+| 978 | quasi-peritectic: L + BCC(La) -> B2 + FCC(La) |  | model | [1] Qi 2010 | Table 3, p. 6, row 10 |  |
+| 939 | quasi-peritectic: L + La5Mg41 -> LaMg3 + La2(Mg,Zn)17 |  | model | [1] Qi 2010 | Table 3, p. 6, row 11 |  |
+| 863 | other: L -> La2(Mg,Zn)17 + C14 |  | model | [1] Qi 2010 | Table 3, p. 6, row 12 |  |
+| 861 | quasi-peritectic: L + La2(Mg,Zn)17 -> LaZn11 + C14 |  | model | [1] Qi 2010 | Table 3, p. 6, row 13 |  |
+| 841 | quasi-peritectic: L + LaMg12 -> HCP + La2(Mg,Zn)17 |  | model | [1] Qi 2010 | Table 3, p. 6, row 14 |  |
+| 826 | quasi-peritectic: L + LaZn11 -> LaZn13 + C14 |  | model | [1] Qi 2010 | Table 3, p. 6, row 15 |  |
+| 689 | quasi-peritectic: L + C14 -> La2(Mg,Zn)17 + Mg2Zn3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 16 |  |
+| 628 | peritectic: L + La2(Mg,Zn)17 + Mg2Zn3 -> T1 |  | model | [1] Qi 2010 | Table 3, p. 6, row 17 |  |
+| 627 | quasi-peritectic: L + La2(Mg,Zn)17 -> HCP(Mg) + T1 |  | model | [1] Qi 2010 | Table 3, p. 6, row 18 |  |
+| 623 | quasi-peritectic: L + La2(Mg,Zn)17 -> HCP(Mg) + T1 |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | Table 3, p. 6, row 19 |  |
 | 623 | eutectic |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | p. 2 | “Invariant eutectic and peritectic reactions at 623 K and 613 K have also been determined.” |
-| 620 | U: L + Mg2Zn3 -> T1 + MgZn |  | model | [1] Qi 2010 | Table 3, p. 6, row 20 |  |
-| 614 | E: L -> T1 + MgZn + Mg7Zn3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 23 |  |
-| 614 | U: L + HCP(Mg) -> T1 + Mg7Zn3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 21 |  |
-| 613 | U: L + HCP(Mg) -> T1 + Mg7Zn3 |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | Table 3, p. 6, row 22 |  |
+| 620 | quasi-peritectic: L + Mg2Zn3 -> T1 + MgZn |  | model | [1] Qi 2010 | Table 3, p. 6, row 20 |  |
+| 614 | eutectic: L -> T1 + MgZn + Mg7Zn3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 23 |  |
+| 614 | quasi-peritectic: L + HCP(Mg) -> T1 + Mg7Zn3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 21 |  |
+| 613 | quasi-peritectic: L + HCP(Mg) -> T1 + Mg7Zn3 |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | Table 3, p. 6, row 22 |  |
 | 613 | peritectic |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | p. 2 | “Invariant eutectic and peritectic reactions at 623 K and 613 K have also been determined.” |
 
 ## Sources

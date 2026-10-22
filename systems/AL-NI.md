@@ -1,10 +1,10 @@
 # Al–Ni system
 
-> Al–Ni system: 205 accepted literature values (invariant reaction 110, formation 53, phase transition 23, mixing / partial 10) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni system: 204 accepted literature values (invariant reaction 110, formation 53, phase transition 23, mixing / partial 10) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI.html · Markdown: https://data.orchid-project.org/systems/AL-NI.md
 
-205 accepted literature values from 11 paper(s) (experimental 91, model 104, DFT 3, unspecified 7); 13 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+204 accepted literature values from 11 paper(s) (experimental 91, model 103, DFT 3, unspecified 7); 13 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NI/AlNi-01Dup-4sl-old.json) · [Markdown](https://data.orchid-project.org/systems/AL-NI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 91 |
-| model | 104 |
+| model | 103 |
 | DFT | 3 |
 | unspecified | 7 |
 
@@ -26,7 +26,7 @@ Table: Accepted values by property group
 | formation | 53 |
 | mixing / partial | 10 |
 | heat capacity / entropy / enthalpy | 3 |
-| activity / EMF / Gibbs energy | 6 |
+| activity / EMF / Gibbs energy | 5 |
 
 ## Calculated phase diagrams
 
@@ -227,14 +227,14 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 | 1653.15 | L–bcc–γ′ | L: Ni 0.755; γ′: Ni 0.765 | experimental | [5] Miettinen 2005; _cites Verhoeven 1991_ [doi](https://doi.org/10.1007/bf02663666) | Table 4, p. 5, row 13 |  |
 | 1647 | L + (Ni) = L12 | L: Ni 0.757; (Ni): Ni 0.784; L12: Ni 0.761 | model | [6] Yang 2022 | Table 2, p. 5, row 3 |  |
 | 1645.4 | L = B2 + L12 | L: Ni 0.746; B2: Ni 0.719; L12: Ni 0.755 | model | [6] Yang 2022 | Table 2, p. 5, row 6 |  |
-| 1645.15 | Peritectic: γ' \<-> γ + L | γ': Ni 0.763; γ: Ni 0.787; L: Ni 0.757 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 3 |  |
+| 1645.15 | peritectic: γ' \<-> γ + L | γ': Ni 0.763; γ: Ni 0.787; L: Ni 0.757 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 3 |  |
 | 1645.15 | L–fcc–γ′ | γ′: Ni 0.762 | experimental | [5] Miettinen 2005; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 4, p. 5, row 17 |  |
-| 1645.15 | Peritectic: γ' \<-> γ + L | γ': Ni 0.761; γ: Ni 0.785; L: Ni 0.755 | experimental | [7] Campbell 1999; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 2, p. 2, row 1 |  |
+| 1645.15 | peritectic: γ' \<-> γ + L | γ': Ni 0.761; γ: Ni 0.785; L: Ni 0.755 | experimental | [7] Campbell 1999; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 2, p. 2, row 1 |  |
 | 1645 | L + (Ni) = L12 | L: Ni 0.755; (Ni): Ni 0.785; L12: Ni 0.762 | experimental | [6] Yang 2022; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 2, p. 5, row 1 |  |
 | 1645 | L+(Ni) = L12 | L: Ni 0.755; (Ni): Ni 0.785; L12: Ni 0.762 | experimental | [1] Chen 2011; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 2, p. 5, row 1 |  |
 | 1645 | L + fcc = L12 | L: Ni 0.757; fcc: Ni 0.787; L12: Ni 0.763 | model | [2] Huang 1998 | Table 1, p. 3, row 2 |  |
 | 1645 | L + fcc = L12 | L: Ni 0.755; fcc: Ni 0.785; L12: Ni 0.761 | experimental | [2] Huang 1998; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 1, p. 3, row 1 |  |
-| 1643.45 | Peritectic: γ' \<-> γ + L | γ': Ni 0.76; γ: Ni 0.788; L: Ni 0.756 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 2 |  |
+| 1643.45 | peritectic: γ' \<-> γ + L | γ': Ni 0.76; γ: Ni 0.788; L: Ni 0.756 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 2 |  |
 | 1643.15 | L–fcc–γ′ | L: Ni 0.756; fcc: Ni 0.788; γ′: Ni 0.76 | model | [5] Miettinen 2005 | Table 4, p. 5, row 21 |  |
 | 1643.15 | L–fcc–γ′ | L: Ni 0.756; fcc: Ni 0.788; γ′: Ni 0.76 | model | [5] Miettinen 2005; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 4, p. 5, row 20 |  |
 | 1643 | eutectic |  | experimental | [2] Huang 1998; _cites Stoloff 1985_ | p. 3 | “Very recently, a new melting behavior of the y' phase was proposed by Wei et a1.,22 who investigated that part of the phase diagram by DTA and optical metallography: two eutectic reactions at the same temperature, 1643 K, on both sides of the y' single-phase region.” |
@@ -242,9 +242,9 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 | 1642.7 | L = B2 + L12 | L: Ni 0.753; B2: Ni 0.712; L12: Ni 0.783 | model | [1] Chen 2011 | Table 2, p. 5, row 6 |  |
 | 1642.6 | L + (Ni) = L12 | L: Ni 0.755; (Ni): Ni 0.787; L12: Ni 0.76 | model | [6] Yang 2022; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 2 |  |
 | 1642.6 | L+(Ni) = L12 | L: Ni 0.755; (Ni): Ni 0.787; L12: Ni 0.76 | model | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 2 |  |
-| 1642.35 | Eutectic: B2 + γ' \<-> L | B2: Ni 0.707; γ': Ni 0.75; L: Ni 0.746 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 5 |  |
-| 1642.15 | Eutectic: B2 + γ' \<-> L | B2: Ni 0.71; γ': Ni 0.76; L: Ni 0.752 | experimental | [7] Campbell 1999; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 2, p. 2, row 4 |  |
-| 1642.15 | Eutectic: B2 + γ' \<-> L | B2: Ni 0.713; γ': Ni 0.754; L: Ni 0.746 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 6 |  |
+| 1642.35 | eutectic: B2 + γ' \<-> L | B2: Ni 0.707; γ': Ni 0.75; L: Ni 0.746 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 5 |  |
+| 1642.15 | eutectic: B2 + γ' \<-> L | B2: Ni 0.71; γ': Ni 0.76; L: Ni 0.752 | experimental | [7] Campbell 1999; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 2, p. 2, row 4 |  |
+| 1642.15 | eutectic: B2 + γ' \<-> L | B2: Ni 0.713; γ': Ni 0.754; L: Ni 0.746 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 6 |  |
 | 1642.15 | L–bcc–γ′ | L: Ni 0.752; γ′: Ni 0.76 | experimental | [5] Miettinen 2005; _cites Hilpert 1987_ [doi](https://doi.org/10.1515/zna-1987-1117) | Table 4, p. 5, row 11 |  |
 | 1642.15 | L–bcc–γ′ | L: Ni 0.746; bcc: Ni 0.707; γ′: Ni 0.75 | model | [5] Miettinen 2005; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 4, p. 5, row 14 |  |
 | 1642 | L = B2 + L12 | L: Ni 0.746; B2: Ni 0.713; L12: Ni 0.754 | model | [2] Huang 1998 | Table 1, p. 3, row 4 |  |
@@ -258,9 +258,9 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 | 1635.15 | L–bcc–γ′ | L: Ni 0.757; γ′: Ni 0.76 | experimental | [5] Miettinen 2005; _cites Bremer 1988_ [doi](https://doi.org/10.1016/0022-0248%2888%2990163-7) | Table 4, p. 5, row 12 |  |
 | 1635.15 | L–fcc–γ′ | L: Ni 0.742; fcc: Ni 0.776; γ′: Ni 0.751 | experimental | [5] Miettinen 2005; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667823) | Table 4, p. 5, row 16 |  |
 | 1633.15 | L–bcc–γ′ | L: Ni 0.737; bcc: Ni 0.7; γ′: Ni 0.75 | experimental | [5] Miettinen 2005; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667823) | Table 4, p. 5, row 10 |  |
-| 1411.15 | Peritectic: Al3Ni2 \<-> B2 + L | Al3Ni2: Ni 0.398; B2: Ni 0.421; L: Ni 0.259 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 12 |  |
+| 1411.15 | peritectic: Al3Ni2 \<-> B2 + L | Al3Ni2: Ni 0.398; B2: Ni 0.421; L: Ni 0.259 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 12 |  |
 | 1411 | L + B2 = Al3Ni2 | L: Ni 0.259; B2: Ni 0.421; Al3Ni2: Ni 0.398 | model | [2] Huang 1998 | Table 1, p. 3, row 8 |  |
-| 1410.45 | Peritectic: Al3Ni2 \<-> B2 + L | Al3Ni2: Ni 0.401; B2: Ni 0.411; L: Ni 0.258 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 11 |  |
+| 1410.45 | peritectic: Al3Ni2 \<-> B2 + L | Al3Ni2: Ni 0.401; B2: Ni 0.411; L: Ni 0.258 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 11 |  |
 | 1410.15 | L–bcc–γ2 | L: Ni 0.258; bcc: Ni 0.411; γ2: Ni 0.401 | model | [5] Miettinen 2005; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 4, p. 5, row 8 |  |
 | 1408.9 | L + B2 = Al3Ni2 | Al3Ni2: Ni 0.4 | experimental | [6] Yang 2022; _cites Chen 2011_ [doi](https://doi.org/10.1016/j.tca.2010.10.005) | Table 2, p. 5, row 11 |  |
 | 1408.9 | L + B2 = Al3Ni2 | Al3Ni2: Al 0.6, Ni 0.4 | experimental | [1] Chen 2011 | Table 2, p. 5, row 11 |  |
@@ -268,7 +268,7 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 | 1407.2 | L + B2 = Al3Ni2 | L: Ni 0.252; B2: Ni 0.415; Al3Ni2: Ni 0.394 | model | [1] Chen 2011 | Table 2, p. 5, row 13 |  |
 | 1407.15 | L–bcc–γ2 | L: Ni 0.254; bcc: Ni 0.415; γ2: Ni 0.4 | model | [5] Miettinen 2005 | Table 4, p. 5, row 9 |  |
 | 1407 | peritectic: L + B2 = Al3 Ni2 |  | model | [1] Chen 2011 | p. 5 | “Table 2 shows that the calculated temperature of the peritectic L + B2 = Al3 Ni2 (1407 K) is” |
-| 1406.15 | Peritectic: Al3Ni2 \<-> B2 + L | Al3Ni2: Ni 0.403; B2: Ni 0.418; L: Ni 0.268 | experimental | [7] Campbell 1999; _cites Alexander 1937_ | Table 2, p. 2, row 10 |  |
+| 1406.15 | peritectic: Al3Ni2 \<-> B2 + L | Al3Ni2: Ni 0.403; B2: Ni 0.418; L: Ni 0.268 | experimental | [7] Campbell 1999; _cites Alexander 1937_ | Table 2, p. 2, row 10 |  |
 | 1406.15 | L–bcc–γ2 | L: Ni 0.27; bcc: Ni 0.42; γ2: Ni 0.385 | experimental | [5] Miettinen 2005; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667823) | Table 4, p. 5, row 7 |  |
 | 1406 | L + B2 = Al3Ni2 | L: Ni 0.268; B2: Ni 0.418; Al3Ni2: Ni 0.403 | experimental | [2] Huang 1998; _cites Alexander 1973_ | Table 1, p. 3, row 7 |  |
 | 1406 | L + B2 = Al3Ni2 | L: Ni 0.268; B2: Ni 0.418; Al3Ni2: Ni 0.403 | experimental | [1] Chen 2011; _cites Alexander 1937_ | Table 2, p. 5, row 10 |  |
@@ -280,26 +280,26 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 | 1135.9 | L + Al3Ni2 = Al3Ni | Al3Ni2: Ni 0.4; Al3Ni: Ni 0.25 | experimental | [6] Yang 2022; _cites Chen 2011_ [doi](https://doi.org/10.1016/j.tca.2010.10.005) | Table 2, p. 5, row 15 |  |
 | 1135 | peritectic: L + Al3 Ni2 → Al3 Ni |  | model | [1] Chen 2011 | p. 6 | “The calculated temperature for the peritectic reaction L + Al3 Ni2 → Al3 Ni (1135 K) is noticeably higher and now in the range of experimental data, close to the present measurements (Table 2).” |
 | 1134.7 | L + Al3Ni2 = Al3Ni | L: Ni 0.16; Al3Ni2: Ni 0.357; Al3Ni: Ni 0.25 | model | [1] Chen 2011 | Table 2, p. 5, row 17 |  |
-| 1129.15 | Peritectic: Al3Ni \<-> Al3Ni2 + L | Al3Ni: Ni 0.25; Al3Ni2: Ni 0.361; L: Ni 0.16 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 15 |  |
+| 1129.15 | peritectic: Al3Ni \<-> Al3Ni2 + L | Al3Ni: Ni 0.25; Al3Ni2: Ni 0.361; L: Ni 0.16 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 15 |  |
 | 1129 | L + Al3Ni2 = Al3Ni | L: Ni 0.16; Al3Ni2: Ni 0.361; Al3Ni: Ni 0.25 | model | [2] Huang 1998 | Table 1, p. 3, row 10 |  |
 | 1127.15 | L–γ1–γ2 | L: Ni 0.153; γ1: Ni 0.25; γ2: Ni 0.37 | experimental | [5] Miettinen 2005; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667823) | Table 4, p. 5, row 4 |  |
-| 1127.15 | Peritectic: Al3Ni \<-> Al3Ni2 + L | Al3Ni: Ni 0.25; Al3Ni2: Ni 0.36; L: Ni 0.154 | experimental | [7] Campbell 1999; _cites Alexander 1937_ | Table 2, p. 2, row 13 |  |
+| 1127.15 | peritectic: Al3Ni \<-> Al3Ni2 + L | Al3Ni: Ni 0.25; Al3Ni2: Ni 0.36; L: Ni 0.154 | experimental | [7] Campbell 1999; _cites Alexander 1937_ | Table 2, p. 2, row 13 |  |
 | 1127 | L + Al3Ni2 = Al3Ni | L: Ni 0.154; Al3Ni2: Ni 0.36; Al3Ni: Ni 0.25 | experimental | [6] Yang 2022; _cites Alexander 1937_ | Table 2, p. 5, row 14 |  |
 | 1127 | L + Al3Ni2 = Al3Ni | L: Ni 0.154; Al3Ni2: Ni 0.36; Al3Ni: Ni 0.25 | experimental | [1] Chen 2011; _cites Alexander 1937_ | Table 2, p. 5, row 14 |  |
 | 1127 | L + Al3Ni2 = Al3Ni | L: Ni 0.154; Al3Ni2: Ni 0.36; Al3Ni: Ni 0.25 | experimental | [2] Huang 1998; _cites Alexander 1973_ | Table 1, p. 3, row 9 |  |
 | 1125.15 | L–γ1–γ2 | L: Ni 0.173; γ1: Ni 0.25; γ2: Ni 0.4 | model | [5] Miettinen 2005 | Table 4, p. 5, row 6 |  |
 | 1124.15 | L–γ1–γ2 | L: Ni 0.172; γ1: Ni 0.25; γ2: Ni 0.359 | model | [5] Miettinen 2005; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 4, p. 5, row 5 |  |
-| 1123.65 | Peritectic: Al3Ni \<-> Al3Ni2 + L | Al3Ni: Ni 0.25; Al3Ni2: Ni 0.359; L: Ni 0.172 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 14 |  |
+| 1123.65 | peritectic: Al3Ni \<-> Al3Ni2 + L | Al3Ni: Ni 0.25; Al3Ni2: Ni 0.359; L: Ni 0.172 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 14 |  |
 | 1123.6 | L + Al3Ni2 = Al3Ni | L: Ni 0.172; Al3Ni2: Ni 0.359; Al3Ni: Ni 0.25 | model | [6] Yang 2022; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 16 |  |
 | 1123.6 | L + Al3Ni2 = Al3Ni | L: Ni 0.172; Al3Ni2: Ni 0.359; Al3Ni: Ni 0.25 | model | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 16 |  |
 | 998 | peritectoid: B2+ y' =A13Ni5 |  | experimental | [2] Huang 1998; _cites Stoloff 1985_ | p. 3 | “A peritectoid reaction at about 973 K, B2+ y' =A13Ni5, was suggested by Robertson and Wayman,24 while a temperature of 998 K was cited by Khadkikar et a1.25” |
-| 996.15 | Peritectoid: γ' + B2 \<-> Al3Ni5 | γ': Ni 0.726; B2: Ni 0.595; Al3Ni5: Ni 0.625 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 21 |  |
+| 996.15 | peritectoid: γ' + B2 \<-> Al3Ni5 | γ': Ni 0.726; B2: Ni 0.595; Al3Ni5: Ni 0.625 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 21 |  |
 | 996 | B2 + Ni3Al = Al3Ni5 | B2: Ni 0.595; Ni3Al: Ni 0.726; Al3Ni5: Ni 0.625 | model | [2] Huang 1998 | Table 1, p. 3, row 14 |  |
 | 973.15 | Bcc–γ3–γ′ | Bcc: Ni 0.601; γ3: Ni 0.625; γ′: Ni 0.728 | model | [5] Miettinen 2005; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 4, p. 5, row 23 |  |
 | 973.15 | Bcc–γ3–γ′ | Bcc: Ni 0.605; γ3: Ni 0.66; γ′: Ni 0.72 | experimental | [5] Miettinen 2005; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667823) | Table 4, p. 5, row 22 |  |
-| 973.15 | Peritectoid: γ' + B2 \<-> Al3Ni5 | γ': Ni 0.728; B2: Ni 0.605; Al3Ni5: Ni 0.625 | experimental | [7] Campbell 1999; _cites Robertson 1984_ [doi](https://doi.org/10.1016/0026-0800%2884%2990004-1) | Table 2, p. 2, row 19 |  |
+| 973.15 | peritectoid: γ' + B2 \<-> Al3Ni5 | γ': Ni 0.728; B2: Ni 0.605; Al3Ni5: Ni 0.625 | experimental | [7] Campbell 1999; _cites Robertson 1984_ [doi](https://doi.org/10.1016/0026-0800%2884%2990004-1) | Table 2, p. 2, row 19 |  |
 | 973.15 | Bcc–γ3–γ′ | Bcc: Ni 0.606; γ3: Ni 0.625; γ′: Ni 0.76 | model | [5] Miettinen 2005 | Table 4, p. 5, row 24 |  |
-| 973.15 | Peritectoid: γ' + B2 \<-> Al3Ni5 | γ': Ni 0.728; B2: Ni 0.601; Al3Ni5: Ni 0.625 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 20 |  |
+| 973.15 | peritectoid: γ' + B2 \<-> Al3Ni5 | γ': Ni 0.728; B2: Ni 0.601; Al3Ni5: Ni 0.625 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 20 |  |
 | 973 | peritectoid: B2+ y' =A13Ni5 |  | experimental | [2] Huang 1998; _cites Robertson_ [doi](https://doi.org/10.1016/0026-0800%2884%2990004-1) | p. 3 | “A peritectoid reaction at about 973 K, B2+ y' =A13Ni5, was suggested by Robertson and Wayman,24 while a temperature of 998 K was cited by Khadkikar et a1.25” |
 | 973 | B2 + Al3Ni2 = Al4Ni3 | Al3Ni2: Ni 0.4; Al4Ni3: Ni 0.428571 | experimental | [6] Yang 2022; _cites Godecke 1997_ | Table 2, p. 5, row 21 |  |
 | 973 | B2 + L12 = Al3Ni5 | B2: Ni 0.588; L12: Ni 0.726; Al3Ni5: Ni 0.625 | model | [1] Chen 2011 | Table 2, p. 5, row 23 |  |
@@ -308,10 +308,10 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 | 973 | B2 + L12 = Al3Ni5 | B2: Ni 0.605; L12: Ni 0.728; Al3Ni5: Ni 0.625 | experimental | [6] Yang 2022; _cites Robertson 1984_ [doi](https://doi.org/10.1016/0026-0800%2884%2990004-1) | Table 2, p. 5, row 18 |  |
 | 972.8 | B2 + L12 = Al3Ni5 | B2: Ni 0.593; L12: Ni 0.735; Al3Ni5: Ni 0.625 | model | [6] Yang 2022 | Table 2, p. 5, row 20 |  |
 | 972.2 | B2 + Al3Ni2 = Al4Ni3 | B2: Ni 0.46; Al3Ni2: Ni 0.405; Al4Ni3: Ni 0.429 | model | [6] Yang 2022 | Table 2, p. 5, row 22 |  |
-| 917.15 | Eutectic: Al3Ni + γ \<-> L | Al3Ni: Ni 0.25; γ: Ni 0.0036; L: Ni 0.039 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 18 |  |
+| 917.15 | eutectic: Al3Ni + γ \<-> L | Al3Ni: Ni 0.25; γ: Ni 0.0036; L: Ni 0.039 | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 18 |  |
 | 917.15 | L–fcc–γ1 | L: Ni 0.029; fcc: Ni 0.002; γ1: Ni 0.25 | model | [5] Miettinen 2005; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 4, p. 5, row 2 |  |
 | 917 | L = Al3Ni + fcc | L: Ni 0.0319; Al3Ni: Ni 0.25; fcc: Ni 0.0036 | model | [2] Huang 1998 | Table 1, p. 3, row 12 |  |
-| 916.55 | Eutectic: Al3Ni + γ \<-> L | Al3Ni: Ni 0.25; γ: Ni 0.002; L: Ni 0.03 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 17 |  |
+| 916.55 | eutectic: Al3Ni + γ \<-> L | Al3Ni: Ni 0.25; γ: Ni 0.002; L: Ni 0.03 | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 17 |  |
 | 916.5 | L = Al3Ni + (Al) | L: Ni 0.028; Al3Ni: Ni 0.25; (Al): Ni 0 | model | [6] Yang 2022 | Table 2, p. 5, row 25 |  |
 | 915.15 | L–fcc–γ1 | L: Ni 0.029; fcc: Ni 0.002; γ1: Ni 0.25 | model | [5] Miettinen 2005 | Table 4, p. 5, row 3 |  |
 | 915.1 | L = Al3Ni + (Al) | L: Ni 0.031; Al3Ni: Ni 0.25; (Al): Ni 0.004 | model | [1] Chen 2011 | Table 2, p. 5, row 20 |  |
@@ -319,7 +319,7 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 | 914.8 | L = Al3Ni + (Al) | L: Ni 0.029; Al3Ni: Ni 0.25; (Al): Ni 0.002 | model | [6] Yang 2022; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 24 |  |
 | 914.8 | B2 + L12 = Al3Ni5 | B2: Ni 0.583; L12: Ni 0.727; Al3Ni5: Ni 0.625 | model | [6] Yang 2022; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 19 |  |
 | 914 | B2 + L12 = Al3Ni5 | B2: Ni 0.583; L12: Ni 0.727; Al3Ni5: Ni 0.625 | model | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 22 |  |
-| 913.15 | Eutectic: Al3Ni + γ \<-> L | Al3Ni: Ni 0.25; γ: Ni 0.0011; L: Ni 0.027 | experimental | [7] Campbell 1999; _cites Fink 1934_ | Table 2, p. 2, row 16 |  |
+| 913.15 | eutectic: Al3Ni + γ \<-> L | Al3Ni: Ni 0.25; γ: Ni 0.0011; L: Ni 0.027 | experimental | [7] Campbell 1999; _cites Fink 1934_ | Table 2, p. 2, row 16 |  |
 | 913.15 | L–fcc–γ1 | L: Ni 0.027; γ1: Ni 0.25 | experimental | [5] Miettinen 2005; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667823) | Table 4, p. 5, row 1 |  |
 | 913 | L = Al3Ni + (Al) | L: Ni 0.027; Al3Ni: Ni 0.25 | experimental | [6] Yang 2022; _cites Fink 1934_ | Table 2, p. 5, row 23 |  |
 | 913 | L = Al3Ni + (Al) | L: Ni 0.027; Al3Ni: Ni 0.25 | experimental | [1] Chen 2011; _cites Fink 1934_ | Table 2, p. 5, row 18 |  |
@@ -398,12 +398,12 @@ Table: Phase transition, Al–Ni system
 | Phase transition | 911.7 K | 911.7 | L → (Al) + Al3 Ni | experimental | [1] Chen 2011 | p. 2 | “Three runs of DTA measurements of alloy Al65.5 Ni34.5 (at.%) on heating gives very reproductive transition temperatures: 911.7 K for L → (Al) + Al3 Ni, 1135.9 K for L + Al3 Ni2 → Al3 Ni, and 1408.9 K for L + B2 → Al3 Ni2 .” |
 | Phase transition | 914 K | 914 |  | model | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | p. 6 | “The calculated value of 914 K due to Dupin et al. \[7\] is too low.” |
 | Phase transition | 1135.9 K | 1135.9 | L + Al3 Ni2 → Al3 Ni | experimental | [1] Chen 2011 | p. 2 | “Three runs of DTA measurements of alloy Al65.5 Ni34.5 (at.%) on heating gives very reproductive transition temperatures: 911.7 K for L → (Al) + Al3 Ni, 1135.9 K for L + Al3 Ni2 → Al3 Ni, and 1408.9 K for L + B2 → Al3 Ni2 .” |
-| Phase transition | 1251 K | 1251 | liquidus | model | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
+| Phase transition | 1251 K | 1251 | other | model | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
 | Phase transition | 1263.15 K | 1263.15 | other | experimental | [10] Zhu 2014; _cites Sato 2014_ | p. 2 | “The thermal stability of the c¢ phase was investigated by differential scanning calorimetry (DSC). The solvus temperature of the c¢ phase in Co-(9-10)Al-(7.5-10)W (at.%) alloys is 990 C.\[1,12,13\]” |
-| Phase transition | 1265.4 K | 1265.4 | liquidus | experimental | [1] Chen 2011 | p. 2 | “The liquidus temperature at 20.55 at.% Ni was determined to be 1265.4 K on cooling and estimated to be 1271.7 K on heating.” |
-| Phase transition | 1271.7 K | 1271.7 | liquidus | experimental | [1] Chen 2011 | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
-| Phase transition | 1271.7 K | 1271.7 | liquidus | experimental | [1] Chen 2011 | p. 2 | “The liquidus temperature at 20.55 at.% Ni was determined to be 1265.4 K on cooling and estimated to be 1271.7 K on heating.” |
-| Phase transition | 1273 K | 1273 | liquidus | model | [1] Chen 2011 | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
+| Phase transition | 1265.4 K | 1265.4 | other | experimental | [1] Chen 2011 | p. 2 | “The liquidus temperature at 20.55 at.% Ni was determined to be 1265.4 K on cooling and estimated to be 1271.7 K on heating.” |
+| Phase transition | 1271.7 K | 1271.7 | other | experimental | [1] Chen 2011 | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
+| Phase transition | 1271.7 K | 1271.7 | other | experimental | [1] Chen 2011 | p. 2 | “The liquidus temperature at 20.55 at.% Ni was determined to be 1265.4 K on cooling and estimated to be 1271.7 K on heating.” |
+| Phase transition | 1273 K | 1273 | other | model | [1] Chen 2011 | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
 | Phase transition | 1300 K | 1300 | other | model | [11] Dupin 2001; _cites ref. 99Hel_ | p. 4 | “The modelling of the second order transition of the B2 phase, recently determined experimentally by Helander and Tolochko \[99Hell, is obtained by adding an order contribution to the Gibbs energy of the A2 phase previously assessed by Saunders and choosing a critical temperature of 1300 K; this transition is well reproduced as shown by the dotted line in figure 2.” |
 | Phase transition | 1408.9 K | 1408.9 | L + B2 → Al3 Ni2 | experimental | [1] Chen 2011 | p. 2 | “Three runs of DTA measurements of alloy Al65.5 Ni34.5 (at.%) on heating gives very reproductive transition temperatures: 911.7 K for L → (Al) + Al3 Ni, 1135.9 K for L + Al3 Ni2 → Al3 Ni, and 1408.9 K for L + B2 → Al3 Ni2 .” |
 | Phase transition | 1646 K | 1646 | other | experimental | [2] Huang 1998 | p. 3 | “In addition, another peak was also detected at 1646K on the Ni-rich side of the y ' phase, suggesting the existence of an invariant reaction at this temperature.” |
@@ -411,10 +411,10 @@ Table: Phase transition, Al–Ni system
 | Phase transition | 1911.15 K | 1911.15 | L–bcc; _L: Ni 0.5; bcc: Ni 0.5_ | experimental | [5] Miettinen 2005; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667823) | Table 4, p. 5, row 25 |  |
 | Phase transition | 1914.1 K | 1914.1 | L = B2; _L: Ni 0.496; B2: Ni 0.493_ | model | [6] Yang 2022 | Table 2, p. 5, row 9 |  |
 | Phase transition | 1915 K | 1915 | L = B2; _L: Ni 0.5; B2: Ni 0.5_ | experimental | [6] Yang 2022; _cites Cotton 1993_ [doi](https://doi.org/10.1007/bf02669138) | Table 2, p. 5, row 7 |  |
-| Phase transition | 1915.15 K | 1915.15 | Congruent Melting: B2 \<-> L; _B2: Ni 0.5; L: Ni 0.5_ | experimental | [7] Campbell 1999; _cites Cotton 1993_ [doi](https://doi.org/10.1007/bf02669138) | Table 2, p. 2, row 7 |  |
+| Phase transition | 1915.15 K | 1915.15 | congruent melting: B2 \<-> L; _B2: Ni 0.5; L: Ni 0.5_ | experimental | [7] Campbell 1999; _cites Cotton 1993_ [doi](https://doi.org/10.1007/bf02669138) | Table 2, p. 2, row 7 |  |
 | Phase transition | 1916.15 K | 1916.15 | L–bcc; _L: Ni 0.508; bcc: Ni 0.508_ | model | [5] Miettinen 2005 | Table 4, p. 5, row 28 |  |
-| Phase transition | 1924.15 K | 1924.15 | Congruent Melting: B2 \<-> L; _B2: Ni 0.5; L: Ni 0.5_ | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 9 |  |
-| Phase transition | 1942.15 K | 1942.15 | Congruent Melting: B2 \<-> L; _B2: Ni 0.5; L: Ni 0.5_ | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 8 |  |
+| Phase transition | 1924.15 K | 1924.15 | congruent melting: B2 \<-> L; _B2: Ni 0.5; L: Ni 0.5_ | unspecified | [7] Campbell 1999 | Table 2, p. 2, row 9 |  |
+| Phase transition | 1942.15 K | 1942.15 | congruent melting: B2 \<-> L; _B2: Ni 0.5; L: Ni 0.5_ | model | [7] Campbell 1999; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 2, p. 2, row 8 |  |
 | Phase transition | 1949.15 K | 1949.15 | L–bcc; _L: Ni 0.5; bcc: Ni 0.5_ | model | [5] Miettinen 2005; _cites Ansara 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902652-7) | Table 4, p. 5, row 27 |  |
 | Phase transition | 1953 K | 1953 | L = B2; _L: Ni 0.496; B2: Ni 0.496_ | model | [6] Yang 2022; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 8 |  |
 | Phase transition | 1953.15 K | 1953.15 | L–bcc; _L: Ni 0.5; bcc: Ni 0.5_ | experimental | [5] Miettinen 2005; _cites Cotton 1993_ [doi](https://doi.org/10.1007/bf02669138) | Table 4, p. 5, row 26 |  |
@@ -430,11 +430,11 @@ Table: Mixing / partial, Al–Ni system
 | Entropy of mixing; _printed: ΔSm_ | -8.37 J/mol (basis unstated)/K | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 3 |  |
 | Entropy of mixing; _printed: ΔSm_ | -3.98 J/mol (basis unstated)/K ± 3.12 | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
 | Entropy of mixing; _printed: ΔSm_ | -6.07 J/mol (basis unstated)/K | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -39800 J/mol (basis unstated) | 298.15 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 5 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -47300 J/mol (basis unstated) ± 300 | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -36700 J/mol (basis unstated) | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 3 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -35100 J/mol (basis unstated) ± 1100 | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -32000 J/mol (basis unstated) | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 1 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -39.8 kJ/mol (basis unstated) | 298.15 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 5 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -47.3 kJ/mol (basis unstated) ± 0.3 | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -36.7 kJ/mol (basis unstated) | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 3 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -35.1 kJ/mol (basis unstated) ± 1.1 | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -32 kJ/mol (basis unstated) | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 1 |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 
@@ -446,7 +446,7 @@ Table: Heat capacity / entropy / enthalpy, Al–Ni system
 | Entropy; _printed: S°298(Al3Ni)_ | 25.4 J/mol-atom/K | 298 | Al3Ni; _alloy: Ni 0.25_ | experimental | [1] Chen 2011 | Table 1, p. 4, row 8 |  |
 | Entropy; _printed: S°298(Al3Ni)_ | 24.7 J/mol-atom/K | 298 | Al3Ni; _alloy: Ni 0.25_ | model | [1] Chen 2011 | Table 1, p. 4, row 10 |  |
 
-### Activity / EMF / Gibbs energy (6)
+### Activity / EMF / Gibbs energy (5)
 
 Table: Activity / EMF / Gibbs energy, Al–Ni system
 
@@ -456,7 +456,6 @@ Table: Activity / EMF / Gibbs energy, Al–Ni system
 | Gibbs energy; _printed: ΔG (1273 K)_ | -55234 J/mol | 1273 | Al0.50Ni0.50; _alloy: Ni 0.5_ | model | [8] Ansara 1988 | Table 1, p. 5, row 13 |  |
 | Gibbs energy; _printed: ΔG (1273 K)_ | -54216 J/mol | 1273 | Al0.50Ni0.50; _alloy: Ni 0.5_ | model | [8] Ansara 1988; _cites Hultgren 1973_ | Table 1, p. 5, row 14 |  |
 | Gibbs energy; _printed: ΔG_ | -52461 J/mol | 1273 | Al0.60Ni0.40; _alloy: Ni 0.4_ | model | [8] Ansara 1988 | Table 1, p. 5, row 17 |  |
-| Gibbs energy; _printed: ΔG (1273 K)_ | -52461 J/mol | 1273 | Al0.60Ni0.40; _alloy: Ni 0.4_ | model | [8] Ansara 1988 | Table 1, p. 5, row 11 |  |
 | Gibbs energy; _printed: ΔG (1273 K)_ | -49510 J/mol | 1273 | Al0.60Ni0.40; _alloy: Ni 0.4_ | model | [8] Ansara 1988; _cites Hultgren 1973_ | Table 1, p. 5, row 12 |  |
 
 ## Sources

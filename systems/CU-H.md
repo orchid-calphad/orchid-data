@@ -58,7 +58,7 @@ Table: Phase transition, Cu–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1357 K | 1357 | liquidus | model | [2] Magnusson 2014; _cites Lyman 1973_ | p. 3 | “This solubility increases with temperature and reaches a maximum at the liquidus of 0.01 at% at 1357 K \[28\].” |
+| Phase transition | 1357 K | 1357 | other | model | [2] Magnusson 2014; _cites Lyman 1973_ | p. 3 | “This solubility increases with temperature and reaches a maximum at the liquidus of 0.01 at% at 1357 K \[28\].” |
 
 ## Sources
 

@@ -49,28 +49,28 @@ Table: Invariant reactions reported in the literature for the Pt–V system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2183.15 | Fusion: L -> (V) | L: Pt 0; (V): Pt 0 | model | [1] Wang 2008 | Table 5, p. 5, row 2 |  |
-| 2183.15 | Fusion: L -> (V) | L: Pt 0; (V): Pt 0 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 1 |  |
-| 2078.15 | Azeotropic melting: L -> (Pt) | L: Pt 0.73; (Pt): Pt 0.73 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 19 |  |
-| 2077.15 | Azeotropic melting: L -> (Pt) | L: Pt 0.738; (Pt): Pt 0.738 | model | [1] Wang 2008 | Table 5, p. 5, row 20 |  |
-| 2076.15 | Peritectic: L + (V) -> PtV3 | L: Pt 0.214; (V): Pt 0.106; PtV3: Pt 0.194 | model | [1] Wang 2008 | Table 5, p. 5, row 4 |  |
-| 2073.15 | Peritectic: L + (V) -> PtV3 | L: Pt 0.31; (V): Pt 0.12; PtV3: Pt 0.18 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 3 |  |
-| 2042.15 | Fusion: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 21 |  |
-| 2042.15 | Fusion: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | model | [1] Wang 2008 | Table 5, p. 5, row 22 |  |
-| 1993.15 | Eutectic: L -> (Pt) + PtV3 | L: Pt 0.397; (Pt): Pt 0.435; PtV3: Pt 0.327 | model | [1] Wang 2008 | Table 5, p. 5, row 6 |  |
-| 1993.15 | Eutectic: L -> (Pt) + PtV3 | L: Pt 0.37; (Pt): Pt 0.43; PtV3: Pt 0.34 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 5 |  |
-| 1774.15 | Congruent melting: (Pt) -> PtV | (Pt): Pt 0.494; PtV: Pt 0.494 | model | [1] Wang 2008 | Table 5, p. 5, row 10 |  |
-| 1773.15 | Congruent melting: (Pt) -> PtV | (Pt): Pt 0.5; PtV: Pt 0.5 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 9 |  |
-| 1689.15 | Eutectoid: (Pt) -> PtV + PtV3 | (Pt): Pt 0.441; PtV: Pt 0.481; PtV3: Pt 0.325 | model | [1] Wang 2008 | Table 5, p. 5, row 8 |  |
-| 1683.15 | Eutectoid: (Pt) -> PtV + PtV3 | (Pt): Pt 0.45; PtV: Pt 0.48; PtV3: Pt 0.33 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 7 |  |
-| 1373.15 | Congruent melting: (Pt) -> Pt2V | (Pt): Pt 0.667; Pt2V: Pt 0.667 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 13 |  |
-| 1373.15 | Congruent melting: (Pt) -> Pt2V | (Pt): Pt 0.673; Pt2V: Pt 0.673 | model | [1] Wang 2008 | Table 5, p. 5, row 14 |  |
-| 1288.15 | Congruent melting: (Pt) -> Pt3V | (Pt): Pt 0.75; Pt3V: Pt 0.75 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 17 |  |
-| 1285.15 | Congruent melting: (Pt) -> Pt3V | (Pt): Pt 0.75; Pt3V: Pt 0.75 | model | [1] Wang 2008 | Table 5, p. 5, row 18 |  |
-| 1253.15 | Eutectoid: (Pt) -> Pt2V + PtV | (Pt): Pt 0.61; Pt2V: Pt 0.655; PtV: Pt 0.515 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 11 |  |
-| 1251.15 | Eutectoid: (Pt) -> Pt2V + PtV | (Pt): Pt 0.61; Pt2V: Pt 0.665; PtV: Pt 0.5 | model | [1] Wang 2008 | Table 5, p. 5, row 12 |  |
-| 1245.15 | Eutectoid: (Pt) -> Pt3V + Pt2V | (Pt): Pt 0.727; Pt3V: Pt 0.745; Pt2V: Pt 0.682 | model | [1] Wang 2008 | Table 5, p. 5, row 16 |  |
-| 1243.15 | Eutectoid: (Pt) -> Pt3V + Pt2V | (Pt): Pt 0.715; Pt3V: Pt 0.74; Pt2V: Pt 0.68 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 15 |  |
+| 2183.15 | congruent melting: L -> (V) | L: Pt 0; (V): Pt 0 | model | [1] Wang 2008 | Table 5, p. 5, row 2 |  |
+| 2183.15 | congruent melting: L -> (V) | L: Pt 0; (V): Pt 0 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 1 |  |
+| 2078.15 | other: L -> (Pt) | L: Pt 0.73; (Pt): Pt 0.73 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 19 |  |
+| 2077.15 | other: L -> (Pt) | L: Pt 0.738; (Pt): Pt 0.738 | model | [1] Wang 2008 | Table 5, p. 5, row 20 |  |
+| 2076.15 | peritectic: L + (V) -> PtV3 | L: Pt 0.214; (V): Pt 0.106; PtV3: Pt 0.194 | model | [1] Wang 2008 | Table 5, p. 5, row 4 |  |
+| 2073.15 | peritectic: L + (V) -> PtV3 | L: Pt 0.31; (V): Pt 0.12; PtV3: Pt 0.18 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 3 |  |
+| 2042.15 | congruent melting: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 21 |  |
+| 2042.15 | congruent melting: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | model | [1] Wang 2008 | Table 5, p. 5, row 22 |  |
+| 1993.15 | eutectic: L -> (Pt) + PtV3 | L: Pt 0.397; (Pt): Pt 0.435; PtV3: Pt 0.327 | model | [1] Wang 2008 | Table 5, p. 5, row 6 |  |
+| 1993.15 | eutectic: L -> (Pt) + PtV3 | L: Pt 0.37; (Pt): Pt 0.43; PtV3: Pt 0.34 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 5 |  |
+| 1774.15 | congruent melting: (Pt) -> PtV | (Pt): Pt 0.494; PtV: Pt 0.494 | model | [1] Wang 2008 | Table 5, p. 5, row 10 |  |
+| 1773.15 | congruent melting: (Pt) -> PtV | (Pt): Pt 0.5; PtV: Pt 0.5 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 9 |  |
+| 1689.15 | eutectoid: (Pt) -> PtV + PtV3 | (Pt): Pt 0.441; PtV: Pt 0.481; PtV3: Pt 0.325 | model | [1] Wang 2008 | Table 5, p. 5, row 8 |  |
+| 1683.15 | eutectoid: (Pt) -> PtV + PtV3 | (Pt): Pt 0.45; PtV: Pt 0.48; PtV3: Pt 0.33 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 7 |  |
+| 1373.15 | congruent melting: (Pt) -> Pt2V | (Pt): Pt 0.667; Pt2V: Pt 0.667 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 13 |  |
+| 1373.15 | congruent melting: (Pt) -> Pt2V | (Pt): Pt 0.673; Pt2V: Pt 0.673 | model | [1] Wang 2008 | Table 5, p. 5, row 14 |  |
+| 1288.15 | congruent melting: (Pt) -> Pt3V | (Pt): Pt 0.75; Pt3V: Pt 0.75 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 17 |  |
+| 1285.15 | congruent melting: (Pt) -> Pt3V | (Pt): Pt 0.75; Pt3V: Pt 0.75 | model | [1] Wang 2008 | Table 5, p. 5, row 18 |  |
+| 1253.15 | eutectoid: (Pt) -> Pt2V + PtV | (Pt): Pt 0.61; Pt2V: Pt 0.655; PtV: Pt 0.515 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 11 |  |
+| 1251.15 | eutectoid: (Pt) -> Pt2V + PtV | (Pt): Pt 0.61; Pt2V: Pt 0.665; PtV: Pt 0.5 | model | [1] Wang 2008 | Table 5, p. 5, row 12 |  |
+| 1245.15 | eutectoid: (Pt) -> Pt3V + Pt2V | (Pt): Pt 0.727; Pt3V: Pt 0.745; Pt2V: Pt 0.682 | model | [1] Wang 2008 | Table 5, p. 5, row 16 |  |
+| 1243.15 | eutectoid: (Pt) -> Pt3V + Pt2V | (Pt): Pt 0.715; Pt3V: Pt 0.74; Pt2V: Pt 0.68 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 15 |  |
 
 ## Sources
 

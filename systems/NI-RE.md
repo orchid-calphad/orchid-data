@@ -1,10 +1,10 @@
 # Ni–Re system
 
-> Ni–Re system: 32 accepted literature values (phase transition 26, phase equilibrium 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Re system: 31 accepted literature values (phase transition 25, phase equilibrium 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-RE.html · Markdown: https://data.orchid-project.org/systems/NI-RE.md
 
-32 accepted literature values from 2 paper(s) (experimental 27, model 2, unspecified 3); 4 calculated phase diagram(s).
+31 accepted literature values from 2 paper(s) (experimental 26, model 2, unspecified 3); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-RE.json) · [CSV](https://data.orchid-project.org/systems/NI-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-RE/NiRe-12Yaq.json) · [Markdown](https://data.orchid-project.org/systems/NI-RE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 27 |
+| experimental | 26 |
 | model | 2 |
 | unspecified | 3 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 26 |
+| phase transition | 25 |
 | phase equilibrium | 6 |
 
 ## Calculated phase diagrams
@@ -49,22 +49,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (26)
+### Phase transition (25)
 
 Table: Phase transition, Ni–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 633 K | 633 | magnetic | model | [1] Huang 1999; _cites Kirichenko 1964_ | p. 2 | “ature is 633 K for pure Ni, and it decreases as the Re content increases \[18,19\], approaching 0 K at about 12 at.% Re.” |
-| Phase transition | 1727.15 K | 1727.15 | solidus: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 14 |  |
-| Phase transition | 1727.15 K | 1727.15 | solidus: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 15 |  |
-| Phase transition | 1727.15 K | 1727.15 | solidus: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 13 |  |
-| Phase transition | 1730.15 K | 1730.15 | solidus: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 3 |  |
-| Phase transition | 1731.15 K | 1731.15 | solidus: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 2 |  |
-| Phase transition | 1732.15 K | 1732.15 | solidus: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 1 |  |
-| Phase transition | 1736.15 K | 1736.15 | solidus: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 9 |  |
-| Phase transition | 1737.15 K | 1737.15 | solidus: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 8 |  |
-| Phase transition | 1738.15 K | 1738.15 | solidus: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 7 |  |
+| Phase transition | 1727.15 K | 1727.15 | other: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 14 |  |
+| Phase transition | 1727.15 K | 1727.15 | other: Ni85Re15 Solidus; _alloy: Ni 0.85, Re 0.15_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 15 |  |
+| Phase transition | 1730.15 K | 1730.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 3 |  |
+| Phase transition | 1731.15 K | 1731.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 2 |  |
+| Phase transition | 1732.15 K | 1732.15 | other: Ni95Re5 Solidus; _alloy: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 1 |  |
+| Phase transition | 1736.15 K | 1736.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 9 |  |
+| Phase transition | 1737.15 K | 1737.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 8 |  |
+| Phase transition | 1738.15 K | 1738.15 | other: Ni90Re10 Solidus; _alloy: Ni 0.9, Re 0.1_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 7 |  |
 | Phase transition | 1744.15 K | 1744.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 21 |  |
 | Phase transition | 1745.15 K | 1745.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 20 |  |
 | Phase transition | 1746.15 K | 1746.15 | other: Ni80Re20 Solvus; _alloy: Ni 0.8, Re 0.2_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 19 |  |
@@ -90,9 +89,9 @@ Table: Phase equilibrium, Ni–Re system
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 1473.15 | fcc + hcp; _fcc: Ni 0.854, Re 0.146; hcp: Ni 0.29, Re 0.71_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 1 |  |
 | Phase composition |  | 1773.15 | fcc + hcp; _fcc: Ni 0.81, Re 0.19; hcp: Ni 0.35, Re 0.65_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1776.15 | liquidus: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 1783.15 | liquidus: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 5 |  |
-| Phase composition |  | 1790.15 | liquidus: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 4 |  |
+| Phase composition |  | 1776.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 6 |  |
+| Phase composition |  | 1783.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 5 |  |
+| Phase composition |  | 1790.15 | other: Ni95Re5 Liquidus; _liquid: Ni 0.95, Re 0.05_ | experimental | [2] Yaqoob 2012 | Table 2, p. 3, row 4 |  |
 | Phase composition |  | 1873.15 | Liquid + hcp; _hcp: Ni 0.332, Re 0.668_ | unspecified | [2] Yaqoob 2012 | Table 1, p. 2, row 3 |  |
 
 ## Sources

@@ -1,10 +1,10 @@
 # Ga–Pb system
 
-> Ga–Pb system: 915 accepted literature values (heat capacity / entropy / enthalpy 717, activity / EMF / Gibbs energy 72, phase transition 71, mixing / partial 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Pb system: 879 accepted literature values (heat capacity / entropy / enthalpy 717, phase transition 71, activity / EMF / Gibbs energy 36, mixing / partial 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-PB.html · Markdown: https://data.orchid-project.org/systems/GA-PB.md
 
-915 accepted literature values from 2 paper(s) (experimental 901, model 7, unspecified 7); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+879 accepted literature values from 2 paper(s) (experimental 865, model 7, unspecified 7); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-PB.json) · [CSV](https://data.orchid-project.org/systems/GA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PB/GaPb-91Ans-LB.json) · [Markdown](https://data.orchid-project.org/systems/GA-PB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 901 |
+| experimental | 865 |
 | model | 7 |
 | unspecified | 7 |
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase equilibrium | 17 |
 | mixing / partial | 24 |
 | heat capacity / entropy / enthalpy | 717 |
-| activity / EMF / Gibbs energy | 72 |
+| activity / EMF / Gibbs energy | 36 |
 | crystal structure | 4 |
 
 ## Calculated phase diagrams
@@ -58,16 +58,16 @@ Table: Invariant reactions reported in the literature for the Ga–Pb system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 590.15 | Monotectic: L2 -> L1 + (Pb) |  | experimental | [1] Ansara 1991; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 2, p. 3, row 4 |  |
-| 586.15 | Monotectic: L2 -> L1 + (Pb) | L2: Pb 0.945; L1: Pb 0.024 | unspecified | [1] Ansara 1991; _cites ref. 59Pre_ | Table 2, p. 3, row 6 |  |
-| 585.75 | Monotectic: L2 -> L1 + (Pb) | L2: Pb 0.969; L1: Pb 0.016; (Pb): Pb 0.002 | model | [1] Ansara 1991 | Table 2, p. 3, row 7 |  |
-| 584.15 | Monotectic: L2 -> L1 + (Pb) | L2: Pb 0.958; (Pb): Pb 0.0048 | experimental | [1] Ansara 1991; _cites Greenwood 1959_ | Table 2, p. 3, row 5 |  |
+| 590.15 | monotectic: L2 -> L1 + (Pb) |  | experimental | [1] Ansara 1991; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 2, p. 3, row 4 |  |
+| 586.15 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.945; L1: Pb 0.024 | unspecified | [1] Ansara 1991; _cites ref. 59Pre_ | Table 2, p. 3, row 6 |  |
+| 585.75 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.969; L1: Pb 0.016; (Pb): Pb 0.002 | model | [1] Ansara 1991 | Table 2, p. 3, row 7 |  |
+| 584.15 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.958; (Pb): Pb 0.0048 | experimental | [1] Ansara 1991; _cites Greenwood 1959_ | Table 2, p. 3, row 5 |  |
 | 584.1 | monotectic |  | experimental | [2] Mathon 1996 | p. 6 | “Moreover, Cp determination performed at lower temperatures enables us to confirm the monotectic temperature at T = 584.1 K.” |
 | 584 | monotectic |  | model | [2] Mathon 1996 | p. 9 | “R e m a r k : the use of option II information leads us to the following thermodynamic results. Calculated coordinates: eutectic Xliq, Pb ~--- 0.0002; xfcc, Pb 0.9999; T = 302.9 K monotectic X,ql, eb = 0.0279; xliq> Pb = 0.9611; Xfcc,Pb ~-0.9956; T = 584 K critical point xl.q, Pb = 0.466; T = 885 K” |
 | 302.9 | eutectic |  | model | [2] Mathon 1996 | p. 8 | “5.2.1. Option I Calculated coordinates: eutectic X l i q , Pb = 0.0002; X f c c , Pb = 0.9999; T = 302.9 K m o n o t e c t i c X,iq~' Pb = 0.0283; Xliq2' Pb = 0.9605; Xfcc, Pb = 0.9955; T - - 583.8 K critical point X l i q , Pb = 0.468; T = 879.3 K” |
 | 302.9 | eutectic |  | model | [2] Mathon 1996 | p. 9 | “R e m a r k : the use of option II information leads us to the following thermodynamic results. Calculated coordinates: eutectic Xliq, Pb ~--- 0.0002; xfcc, Pb 0.9999; T = 302.9 K monotectic X,ql, eb = 0.0279; xliq> Pb = 0.9611; Xfcc,Pb ~-0.9956; T = 584 K critical point xl.q, Pb = 0.466; T = 885 K” |
-| 302.899 | Eutectic: L -> Ga + Pb | L: Pb 0.001; Ga: Pb 0; Pb: Pb 1 | model | [1] Ansara 1991 | Table 2, p. 3, row 3 |  |
-| 302.85 | Eutectic: L -> Ga + Pb | Ga: Pb 0; Pb: Pb 1 | experimental | [1] Ansara 1991; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 2, p. 3, row 2 |  |
+| 302.899 | eutectic: L -> Ga + Pb | L: Pb 0.001; Ga: Pb 0; Pb: Pb 1 | model | [1] Ansara 1991 | Table 2, p. 3, row 3 |  |
+| 302.85 | eutectic: L -> Ga + Pb | Ga: Pb 0; Pb: Pb 1 | experimental | [1] Ansara 1991; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 2, p. 3, row 2 |  |
 
 ## Other properties
 
@@ -78,7 +78,7 @@ Table: Phase transition, Ga–Pb system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 5.91 K | 5.91 | Puschin et al. \[4\]; _alloy: Ga 0.11, Pb 0.89_ | experimental | [2] Mathon 1996; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 5, p. 7, row 1 |  |
-| Phase transition | 302.924 K | 302.924 | Melting: L -> Ga; _Ga: Pb 0_ | unspecified | [1] Ansara 1991; _cites ref. 1_ | Table 2, p. 3, row 1 |  |
+| Phase transition | 302.924 K | 302.924 | congruent melting: L -> Ga; _Ga: Pb 0_ | unspecified | [1] Ansara 1991; _cites ref. 1_ | Table 2, p. 3, row 1 |  |
 | Phase transition | 473 K | 473 | Greenwood \[7\]; _alloy: Ga 9.000e-4, Pb 0.9991_ | experimental | [2] Mathon 1996; _cites Greenwood 1958_ | Table 5, p. 7, row 31 |  |
 | Phase transition | 523 K | 523 | Greenwood \[7\]; _alloy: Ga 0.0019, Pb 0.9981_ | experimental | [2] Mathon 1996; _cites Greenwood 1958_ | Table 5, p. 7, row 30 |  |
 | Phase transition | 573 K | 573 | Greenwood \[7\]; _alloy: Ga 0.0042, Pb 0.9958_ | experimental | [2] Mathon 1996; _cites Greenwood 1958_ | Table 5, p. 7, row 27 |  |
@@ -97,7 +97,7 @@ Table: Phase transition, Ga–Pb system
 | Phase transition | 594 K | 594 | Puschin et al. \[4\]; _alloy: Ga 0.08, Pb 0.92_ | experimental | [2] Mathon 1996; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 5, p. 7, row 2 |  |
 | Phase transition | 597 K | 597 | Greenwood \[7\]; _alloy: Ga 0.01, Pb 0.99_ | experimental | [2] Mathon 1996; _cites Greenwood 1958_ | Table 5, p. 7, row 24 |  |
 | Phase transition | 597.5 K | 597.5 | Puschin et al. \[4\]; _alloy: Ga 0.03, Pb 0.97_ | experimental | [2] Mathon 1996; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 5, p. 7, row 3 |  |
-| Phase transition | 600.652 K | 600.652 | Melting: L -> Pb; _Pb: Pb 1_ | unspecified | [1] Ansara 1991; _cites ref. 1_ | Table 2, p. 3, row 8 |  |
+| Phase transition | 600.652 K | 600.652 | congruent melting: L -> Pb; _Pb: Pb 1_ | unspecified | [1] Ansara 1991; _cites ref. 1_ | Table 2, p. 3, row 8 |  |
 | Phase transition | 633 K | 633 | Predel \[8\]; _alloy: Ga 0.08, Pb 0.92_ | experimental | [2] Mathon 1996; _cites Predel 1959_ | Table 5, p. 7, row 63 |  |
 | Phase transition | 633 K | 633 | Predel \[8\]; _alloy: Ga 0.97, Pb 0.03_ | experimental | [2] Mathon 1996; _cites Predel 1959_ | Table 5, p. 7, row 50 |  |
 | Phase transition | 673 K | 673 | Predel \[8\]; _alloy: Ga 0.09, Pb 0.91_ | experimental | [2] Mathon 1996; _cites Predel 1959_ | Table 5, p. 7, row 62 |  |
@@ -179,30 +179,30 @@ Table: Mixing / partial, Ga–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 2270 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.21, Pb 0.79_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 23 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3065 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.62, Pb 0.38_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 14 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 2750 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.35, Pb 0.65_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 20 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3200 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.54, Pb 0.46_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 16 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3310 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.49, Pb 0.51_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 17 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3000 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.71, Pb 0.29_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 1595 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.91, Pb 0.09_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 2185 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.85, Pb 0.15_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 1695 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.89, Pb 0.11_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3090 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.42, Pb 0.58_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 18 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3245 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 15 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 1410 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.93, Pb 0.07_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3010 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.38, Pb 0.62_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 19 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 2705 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.29, Pb 0.71_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 21 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 2590 J/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.24, Pb 0.76_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 22 |  |
-| Enthalpy of mixing; _printed: AmixH °_ | 3850 J mol-1 | 923 |  | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | p. 3 | “Prede~ and Stein \[13\], by calorimetry at 923 K, have determined the integral molar enthalpy of mixing: the extremum of the AmixH ° =f(Xpb) curve is located at 3850 J mol-1 and Xeb = 0.52 (Table 2).” |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3727.94 J/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3008.3 J/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 2711.23 J/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3296.99 J/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 1627.58 J/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3778.15 J/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3518.74 J/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: Δmix H_m°_ | 3853.46 J/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 2.27 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.21, Pb 0.79_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 23 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.065 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.62, Pb 0.38_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 2.75 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.35, Pb 0.65_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 20 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.2 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.54, Pb 0.46_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 16 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.31 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.49, Pb 0.51_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 17 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.71, Pb 0.29_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 13 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 1.595 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.91, Pb 0.09_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 2.185 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.85, Pb 0.15_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 1.695 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.89, Pb 0.11_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.09 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.42, Pb 0.58_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 18 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.245 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 15 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 1.41 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.93, Pb 0.07_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.01 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.38, Pb 0.62_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 19 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 2.705 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.29, Pb 0.71_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 21 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 2.59 kJ/mol (basis unstated) | 892 | liquid; _alloy: Ga 0.24, Pb 0.76_ | experimental | [2] Mathon 1996; _cites Miane 1992_ | Table 2, p. 3, row 22 |  |
+| Enthalpy of mixing; _printed: AmixH °_ | 3.85 kJ/mol (basis unstated) | 923 |  | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | p. 3 | “Prede~ and Stein \[13\], by calorimetry at 923 K, have determined the integral molar enthalpy of mixing: the extremum of the AmixH ° =f(Xpb) curve is located at 3850 J mol-1 and Xeb = 0.52 (Table 2).” |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.72794 kJ/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.0083 kJ/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 2.71123 kJ/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.29699 kJ/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 1.62758 kJ/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.77815 kJ/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.51874 kJ/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: Δmix H_m°_ | 3.85346 kJ/mol (basis unstated) | 923 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Predel 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990093-2) | Table 2, p. 3, row 5 |  |
 
 ### Heat capacity / entropy / enthalpy (717)
 
@@ -928,83 +928,47 @@ Table: Heat capacity / entropy / enthalpy, Ga–Pb system
 | Heat capacity; _printed: Cp (exp)_ | 29.03 J/mol (basis unstated)/K | 900 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 546 |  |
 | Heat capacity; _printed: Cp (exp)_ | 28.21 J/mol (basis unstated)/K | 900 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 543 |  |
 
-### Activity / EMF / Gibbs energy (72)
+### Activity / EMF / Gibbs energy (36)
 
 Table: Activity / EMF / Gibbs energy, Ga–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Activity Pb; _printed: a(Pb)_ | 0.809 1 | 1000 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 29 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.809 1 | 1000 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 29 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.94 1 | 1000 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 34 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.94 1 | 1000 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 34 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.649 1 | 1000 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 21 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.649 1 | 1000 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 21 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.224 1 | 1000 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 1 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.224 1 | 1000 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 1 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.419 1 | 1000 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 9 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.419 1 | 1000 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 9 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.496 1 | 1000 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 13 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.496 1 | 1000 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 13 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.86 1 | 1000 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 26 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.86 1 | 1000 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 26 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.82 1 | 1000 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 22 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.82 1 | 1000 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 22 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.904 1 | 1000 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 33 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.904 1 | 1000 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 33 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.88 1 | 1000 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 30 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.88 1 | 1000 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 30 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.39 1 | 1000 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 2 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.39 1 | 1000 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 2 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.726 1 | 1000 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 25 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.726 1 | 1000 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 25 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.567 1 | 1000 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 17 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.567 1 | 1000 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 17 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.64 1 | 1000 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 10 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.64 1 | 1000 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 10 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.7 1 | 1000 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 14 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.7 1 | 1000 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 14 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.53 1 | 1000 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 6 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.53 1 | 1000 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 6 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.79 1 | 1000 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 18 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.79 1 | 1000 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Sommer 1978_ | Table 1, p. 3, row 18 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.324 1 | 1000 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 5 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.324 1 | 1000 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Kwong 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990149-5) | Table 1, p. 3, row 5 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.6 1 | 1100 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 3 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.6 1 | 1100 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 3 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.7 1 | 1100 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 7 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.7 1 | 1100 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 7 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.83 1 | 1100 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 27 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.83 1 | 1100 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 27 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.87 1 | 1100 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 31 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.87 1 | 1100 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 31 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.82 1 | 1100 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 23 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.82 1 | 1100 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 23 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.83 1 | 1100 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 19 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.83 1 | 1100 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 19 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.81 1 | 1100 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 15 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.81 1 | 1100 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 15 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.79 1 | 1100 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 11 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.79 1 | 1100 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 11 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.91 1 | 1100 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 35 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.91 1 | 1100 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996; _cites Kononenko 1975_ | Table 1, p. 3, row 35 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.51 1 | 1143 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 4 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.51 1 | 1143 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 4 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.77 1 | 1143 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 32 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.77 1 | 1143 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 32 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.86 1 | 1143 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 36 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.86 1 | 1143 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 36 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.74 1 | 1143 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 24 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.74 1 | 1143 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 24 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.64 1 | 1143 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 8 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.64 1 | 1143 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 8 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.73 1 | 1143 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 20 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.73 1 | 1143 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 20 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.72 1 | 1143 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 16 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.72 1 | 1143 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 16 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.7 1 | 1143 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 12 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.7 1 | 1143 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 12 |  |
-| Activity Pb; _printed: a(Pb)_ | 0.75 1 | 1143 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 28 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.75 1 | 1143 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 28 |  |
 
 ### Crystal structure (4)

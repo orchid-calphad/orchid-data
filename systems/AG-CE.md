@@ -74,7 +74,7 @@ Table: Invariant reactions reported in the literature for the Ag–Ce system (23
 | 1053.15 | L->Ag2Ce+AgCe | L: Ce 0.42; Ag2Ce: Ce 0.333333; AgCe: Ce 0.5 | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 13 |  |
 | 1053.15 | L->Ag2Ce+AgCe | L: Ce 0.435; Ag2Ce: Ce 0.333333; AgCe: Ce 0.5 | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 12 |  |
 | 1053.15 | L->Ag2Ce+AgCe | L: Ce 0.45; Ag2Ce: Ce 0.333333; AgCe: Ce 0.5 | experimental | [1] Yin 2002; _cites Heumann 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990028-4) | Table 1, p. 3, row 14 |  |
-| 983.15 | metatectic |  | experimental | [1] Yin 2002 | p. 2 | “d-Ce is stabilized down to 7108C by 2 at.% Ag and decomposes metatectically into the liquid and g-Ce.” |
+| 983.15 | metatectic/catatectic |  | experimental | [1] Yin 2002 | p. 2 | “d-Ce is stabilized down to 7108C by 2 at.% Ag and decomposes metatectically into the liquid and g-Ce.” |
 | 983.15 | δ-Ce->L+γ-Ce | L: Ce 0.94 | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 6 |  |
 | 893.15 | δ-Ce->L+γ-Ce | L: Ce 0.88 | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 5 |  |
 | 892.15 | δ-Ce->L+γ-Ce | L: Ce 0.857 | model | [1] Yin 2002 | Table 1, p. 3, row 4 |  |

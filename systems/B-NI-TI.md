@@ -26,20 +26,20 @@ Table: Invariant reactions reported in the literature for the B–Ni–Ti system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1365.75 | E: Liquid -> TiB2 + Ti2Ni21B6 + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 1 |  |
-| 1357.85 | E: Liquid -> TiB2 + Ni2B + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 2 |  |
-| 1324.15 | E: Liquid -> Ti2Ni21B6 + Ni + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 3 |  |
-| 1306.05 | U: Liquid + B -> TiB2 + NiB |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 4 |  |
-| 1299.25 | E: Liquid -> TiB2 + Ni2B + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 5 |  |
-| 1296.55 | E: Liquid -> TiB2 + m-Ni4B3 + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 6 |  |
-| 1290.95 | E: Liquid -> TiB2 + NiB + m-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 7 |  |
-| 1274.45 | E: Liquid -> Ti2Ni21B6 + Ni + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 8 |  |
-| 1256.55 | E: Liquid -> TiB2 + Ti2Ni21B6 + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 9 |  |
-| 1240.75 | U: Liquid + TiB2 -> TiNi + Ti3B4 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 10 |  |
-| 1212.55 | U: Liquid + Ti3B4 -> TiNi + TiB |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 11 |  |
-| 1138.75 | E: Liquid -> BCC_A2 + TiB + Ti2Ni |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 12 |  |
-| 1135.05 | E: Liquid -> TiNi + TiB + Ti2Ni |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 13 |  |
-| 1130.45 | E: Liquid -> TiB2 + TiNi + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 14 |  |
+| 1365.75 | eutectic: Liquid -> TiB2 + Ti2Ni21B6 + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 1 |  |
+| 1357.85 | eutectic: Liquid -> TiB2 + Ni2B + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 2 |  |
+| 1324.15 | eutectic: Liquid -> Ti2Ni21B6 + Ni + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 3 |  |
+| 1306.05 | quasi-peritectic: Liquid + B -> TiB2 + NiB |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 4 |  |
+| 1299.25 | eutectic: Liquid -> TiB2 + Ni2B + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 5 |  |
+| 1296.55 | eutectic: Liquid -> TiB2 + m-Ni4B3 + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 6 |  |
+| 1290.95 | eutectic: Liquid -> TiB2 + NiB + m-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 7 |  |
+| 1274.45 | eutectic: Liquid -> Ti2Ni21B6 + Ni + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 8 |  |
+| 1256.55 | eutectic: Liquid -> TiB2 + Ti2Ni21B6 + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 9 |  |
+| 1240.75 | quasi-peritectic: Liquid + TiB2 -> TiNi + Ti3B4 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 10 |  |
+| 1212.55 | quasi-peritectic: Liquid + Ti3B4 -> TiNi + TiB |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 11 |  |
+| 1138.75 | eutectic: Liquid -> BCC_A2 + TiB + Ti2Ni |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 12 |  |
+| 1135.05 | eutectic: Liquid -> TiNi + TiB + Ti2Ni |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 13 |  |
+| 1130.45 | eutectic: Liquid -> TiB2 + TiNi + TiNi3 |  | unspecified | [1] Cacciamani 2011 | Table 11, p. 11, row 14 |  |
 
 ## Sources
 

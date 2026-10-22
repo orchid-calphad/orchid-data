@@ -1,10 +1,10 @@
 # C–Ce–La–Pr system
 
-> C–Ce–La–Pr system: 92 accepted literature values (invariant reaction 36, formation 32, crystal structure 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Ce–La–Pr system: 79 accepted literature values (invariant reaction 36, crystal structure 24, formation 19) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-CE-LA-PR.html · Markdown: https://data.orchid-project.org/systems/C-CE-LA-PR.md
 
-92 accepted literature values from 1 paper(s) (experimental 70, model 19, unspecified 3); 0 calculated phase diagram(s).
+79 accepted literature values from 1 paper(s) (experimental 57, model 19, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-CE-LA-PR.json) · [CSV](https://data.orchid-project.org/systems/C-CE-LA-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CE-LA-PR) · [Markdown](https://data.orchid-project.org/systems/C-CE-LA-PR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 70 |
+| experimental | 57 |
 | model | 19 |
 | unspecified | 3 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 36 |
-| formation | 32 |
+| formation | 19 |
 | crystal structure | 24 |
 
 ## Invariant reactions (literature)
@@ -71,41 +71,28 @@ Table: Invariant reactions reported in the literature for the C–Ce–La–Pr s
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–Ce–La–Pr system (32)
+Table: Enthalpies of formation, C–Ce–La–Pr system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ce2C3 | [Ce2C3](https://data.orchid-project.org/compounds/Ce2C3.html) | -35.3 kJ/mol-atom ± 1.1 | 298 | experimental | -24.666 (mp-aaaabdwf) | -11.083 (oqmd-13369) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 8 |  |
-| Ce2C3 | [Ce2C3](https://data.orchid-project.org/compounds/Ce2C3.html) | -35.3 kJ/mol-atom ± 1.1 | 298 | experimental | -24.666 (mp-aaaabdwf) | -11.083 (oqmd-13369) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 8 |  |
-| CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -40.03 kJ/mol-atom ± 3.7 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Vidhya 2003_ [doi](https://doi.org/10.1016/s0022-3115%2803%2900071-0) | Table 2, p. 2, row 16 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -40.03 kJ/mol-atom ± 3.7 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Vidhya 2003_ [doi](https://doi.org/10.1016/s0022-3115%2803%2900071-0) | Table 2, p. 2, row 16 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -34.9 kJ/mol-atom | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Faircloth 1968_ [doi](https://doi.org/10.1016/0022-1902%2868%2980476-2) | Table 2, p. 2, row 15 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -32.4 kJ/mol-atom ± 1.8 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 14 |  |
-| CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -32.4 kJ/mol-atom ± 1.8 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 14 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -31.3 kJ/mol-atom | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Pialoux 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990046-x) | Table 2, p. 2, row 13 |  |
-| CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -29.5 kJ/mol-atom ± 3.5 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 12 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -29.5 kJ/mol-atom ± 3.5 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 12 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -27.2 kJ/mol-atom | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Winchell 1967_ [doi](https://doi.org/10.1021/j100872a050) | Table 2, p. 2, row 10 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -25.4 kJ/mol-atom ± 1.4 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 11 |  |
-| CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -25.4 kJ/mol-atom ± 1.4 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 11 |  |
-| CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -20.9 kJ/mol-atom ± 7 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Balducci 1974_ | Table 2, p. 2, row 9 |  |
 | CeC2 | [CeC2](https://data.orchid-project.org/compounds/CeC2.html) | -20.9 kJ/mol-atom ± 7 | 298 | experimental | -15.378 (mp-aaaaaeff) | -8.01 (oqmd-13373) | [1] Peng 2011; _cites Balducci 1974_ | Table 2, p. 2, row 9 |  |
 | La2C3 | [La2C3](https://data.orchid-project.org/compounds/La2C3.html) | -38.6 kJ/mol-atom | 298 | experimental | -15.983 (mp-aaaaabto) | -16.43 (oqmd-5052) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 1 |  |
 | LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -50.3 kJ/mol-atom ± 5.3 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Jackson 1963_ | Table 2, p. 2, row 7 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -50.3 kJ/mol-atom ± 5.3 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Jackson 1963_ | Table 2, p. 2, row 7 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.7 kJ/mol-atom ± 8 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Stearns 1971_ [doi](https://doi.org/10.1063/1.1674812) | Table 2, p. 2, row 6 |  |
 | LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.7 kJ/mol-atom ± 8 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Stearns 1971_ [doi](https://doi.org/10.1063/1.1674812) | Table 2, p. 2, row 6 |  |
 | LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.1 kJ/mol-atom ± 3.5 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 5 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -29.1 kJ/mol-atom ± 3.5 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 5 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -27.2 kJ/mol-atom ± 1.4 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Meschel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990783-8) | Table 2, p. 2, row 4 |  |
 | LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -27.2 kJ/mol-atom ± 1.4 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Meschel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990783-8) | Table 2, p. 2, row 4 |  |
 | LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -26.5 kJ/mol-atom | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Faircloth 1968_ [doi](https://doi.org/10.1016/0022-1902%2868%2980476-2) | Table 2, p. 2, row 3 |  |
 | LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -19.5 kJ/mol-atom ± 3.4 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Vidhya 2001_ [doi](https://doi.org/10.1016/s0022-3115%2801%2900536-0) | Table 2, p. 2, row 2 |  |
-| LaC2 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | -19.5 kJ/mol-atom ± 3.4 | 298 | experimental | -15.461 (mp-aaaaadnb) | -16.27 (oqmd-1979286) | [1] Peng 2011; _cites Vidhya 2001_ [doi](https://doi.org/10.1016/s0022-3115%2801%2900536-0) | Table 2, p. 2, row 2 |  |
 | Pr2C3 | [Pr2C3](https://data.orchid-project.org/compounds/Pr2C3.html) | -27.9 kJ/mol-atom | 298 | experimental | -13.558 (mp-aaaaabah) | -14.229 (oqmd-2191) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 17 |  |
 | PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -29.4 kJ/mol-atom ± 1.6 | 298 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
-| PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -29.4 kJ/mol-atom ± 1.6 | 298 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
-| PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -28.2 kJ/mol-atom ± 3.5 | 298 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
 | PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -28.2 kJ/mol-atom ± 3.5 | 298 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
 
 ## Other properties

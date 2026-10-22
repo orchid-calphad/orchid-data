@@ -28,23 +28,23 @@ Table: Invariant reactions reported in the literature for the Al–Li–Mg syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 809.15 | U: L + AlLi = (Al) + τ | L: Al 0.66, Li 0.194, Mg 0.146; AlLi: Al 0.535, Li 0.407, Mg 0.058; (Al): Al 0.815, Li 0.12, Mg 0.065; τ: Al 0.542, Li 0.345, Mg 0.113 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 1 |  |
-| 801.15 | U: L + AlLi = (Al) + τ | L: Al 0.661, Li 0.167, Mg 0.172; τ: Al 0.53, Li 0.33, Mg 0.14 | experimental | [1] Wang 2011; _cites Dubost 1987_ | Table 3, p. 8, row 2 |  |
-| 797.15 | U: L + AlLi = (Al) + τ | L: Al 0.649, Li 0.199, Mg 0.152; AlLi: Al 0.526, Li 0.42, Mg 0.054; (Al): Al 0.816, Li 0.116, Mg 0.068; τ: Al 0.53, Li 0.33, Mg 0.14 | model | [1] Wang 2011 | Table 3, p. 8, row 3 |  |
-| 758.15 | U: L + τ = (Al) + γ | L: Al 0.634, Li 0.121, Mg 0.245; τ: Al 0.53, Li 0.33, Mg 0.14 | experimental | [1] Wang 2011; _cites Dubost 1987_ | Table 3, p. 8, row 5 |  |
-| 756.15 | U: L + τ = (Al) + γ | L: Al 0.615, Li 0.108, Mg 0.277; τ: Al 0.545, Li 0.31, Mg 0.145; (Al): Al 0.793, Li 0.084, Mg 0.123; γ: Al 0.483, Li 0.164, Mg 0.353 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 4 |  |
-| 748.15 | U: L + τ = (Al) + γ | L: Al 0.606, Li 0.127, Mg 0.267; τ: Al 0.53, Li 0.33, Mg 0.14; (Al): Al 0.797, Li 0.082, Mg 0.121; γ: Al 0.578, Li 0.143, Mg 0.279 | model | [1] Wang 2011 | Table 3, p. 8, row 6 |  |
-| 737.15 | U: L + τ = AlLi + γ | L: Al 0.398, Li 0.201, Mg 0.401; τ: Al 0.512, Li 0.344, Mg 0.144; AlLi: Al 0.455, Li 0.408, Mg 0.137; γ: Al 0.425, Li 0.186, Mg 0.387 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 7 |  |
-| 736.15 | U: L + τ = AlLi + γ | L: Al 0.372, Li 0.208, Mg 0.42; τ: Al 0.53, Li 0.33, Mg 0.14; AlLi: Al 0.472, Li 0.388, Mg 0.14; γ: Al 0.445, Li 0.159, Mg 0.396 | model | [1] Wang 2011 | Table 3, p. 8, row 8 |  |
-| 731.15 | U: L + (Al) + γ = β | L: Al 0.605, Li 0.06, Mg 0.335; (Al): Al 0.807, Li 0.029, Mg 0.164; γ: Al 0.519, Li 0.107, Mg 0.374; β: Al 0.605, Li 0.072, Mg 0.323 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 9 |  |
-| 724.15 | U: L + (Al) + γ = β | L: Al 0.61, Li 0.054, Mg 0.336; (Al): Al 0.796, Li 0.05, Mg 0.154; γ: Al 0.555, Li 0.091, Mg 0.354; β: Al 0.611, Li 0.054, Mg 0.335 | model | [1] Wang 2011 | Table 3, p. 8, row 10 |  |
-| 709.15 | U: L + (Li) = (Mg) + AlLi | L: Al 0.239, Li 0.293, Mg 0.468; (Li): Al 0.002, Li 0.375, Mg 0.623; (Mg): Al 0.079, Li 0.202, Mg 0.719; AlLi: Al 0.395, Li 0.445, Mg 0.165 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 11 |  |
-| 704.15 | U: L + (Li) = (Mg) + AlLi | L: Al 0.221, Li 0.276, Mg 0.502; (Li): Al 0.114, Li 0.292, Mg 0.594; (Mg): Al 0.089, Li 0.185, Mg 0.726; AlLi: Al 0.416, Li 0.437, Mg 0.147 | model | [1] Wang 2011 | Table 3, p. 8, row 12 |  |
-| 698.15 | E: L = (Mg) + γ + AlLi | L: Al 0.255, Li 0.229, Mg 0.516; (Mg): Al 0.104, Li 0.146, Mg 0.75; γ: Al 0.421, Li 0.164, Mg 0.415; AlLi: Al 0.439, Li 0.413, Mg 0.148 | model | [1] Wang 2011 | Table 3, p. 8, row 14 |  |
-| 691.15 | E: L = (Mg) + γ + AlLi | L: Al 0.19, Li 0.206, Mg 0.504; (Mg): Al 0.102, Li 0.126, Mg 0.762; γ: Al 0.377, Li 0.177, Mg 0.446; AlLi: Al 0.416, Li 0.425, Mg 0.159 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 13 |  |
-| 684.15 | U: L + AlLi = Al2Li3 + (Li) | L: Al 0.126, Li 0.61, Mg 0.264; AlLi: Al 0.394, Li 0.505, Mg 0.101; Al2Li3: Al 0.305, Li 0.675, Mg 0.023; (Li): Al 0.002, Li 0.63, Mg 0.368 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 15 |  |
-| 676.15 | U: L + AlLi = Al2Li3 + (Li) | L: Al 0.125, Li 0.64, Mg 0.235; AlLi: Al 0.361, Li 0.526, Mg 0.113; Al2Li3: Al 0.329, Li 0.6, Mg 0.071; (Li): Al 0.086, Li 0.58, Mg 0.334 | model | [1] Wang 2011 | Table 3, p. 8, row 16 |  |
-| 468.15 | U: L + Al2Li3 =Al4Li9 + (Li) | L: Al 0.022, Li 0.931, Mg 0.047; Al2Li3: Al 0.345, Li 0.6, Mg 0.545; Al4Li9: Al 0.308, Li 0.692, Mg 0; (Li): Al 0.012, Li 0.891, Mg 0.097 | model | [1] Wang 2011 | Table 3, p. 8, row 17 |  |
+| 809.15 | quasi-peritectic: L + AlLi = (Al) + τ | L: Al 0.66, Li 0.194, Mg 0.146; AlLi: Al 0.535, Li 0.407, Mg 0.058; (Al): Al 0.815, Li 0.12, Mg 0.065; τ: Al 0.542, Li 0.345, Mg 0.113 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 1 |  |
+| 801.15 | quasi-peritectic: L + AlLi = (Al) + τ | L: Al 0.661, Li 0.167, Mg 0.172; τ: Al 0.53, Li 0.33, Mg 0.14 | experimental | [1] Wang 2011; _cites Dubost 1987_ | Table 3, p. 8, row 2 |  |
+| 797.15 | quasi-peritectic: L + AlLi = (Al) + τ | L: Al 0.649, Li 0.199, Mg 0.152; AlLi: Al 0.526, Li 0.42, Mg 0.054; (Al): Al 0.816, Li 0.116, Mg 0.068; τ: Al 0.53, Li 0.33, Mg 0.14 | model | [1] Wang 2011 | Table 3, p. 8, row 3 |  |
+| 758.15 | quasi-peritectic: L + τ = (Al) + γ | L: Al 0.634, Li 0.121, Mg 0.245; τ: Al 0.53, Li 0.33, Mg 0.14 | experimental | [1] Wang 2011; _cites Dubost 1987_ | Table 3, p. 8, row 5 |  |
+| 756.15 | quasi-peritectic: L + τ = (Al) + γ | L: Al 0.615, Li 0.108, Mg 0.277; τ: Al 0.545, Li 0.31, Mg 0.145; (Al): Al 0.793, Li 0.084, Mg 0.123; γ: Al 0.483, Li 0.164, Mg 0.353 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 4 |  |
+| 748.15 | quasi-peritectic: L + τ = (Al) + γ | L: Al 0.606, Li 0.127, Mg 0.267; τ: Al 0.53, Li 0.33, Mg 0.14; (Al): Al 0.797, Li 0.082, Mg 0.121; γ: Al 0.578, Li 0.143, Mg 0.279 | model | [1] Wang 2011 | Table 3, p. 8, row 6 |  |
+| 737.15 | quasi-peritectic: L + τ = AlLi + γ | L: Al 0.398, Li 0.201, Mg 0.401; τ: Al 0.512, Li 0.344, Mg 0.144; AlLi: Al 0.455, Li 0.408, Mg 0.137; γ: Al 0.425, Li 0.186, Mg 0.387 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 7 |  |
+| 736.15 | quasi-peritectic: L + τ = AlLi + γ | L: Al 0.372, Li 0.208, Mg 0.42; τ: Al 0.53, Li 0.33, Mg 0.14; AlLi: Al 0.472, Li 0.388, Mg 0.14; γ: Al 0.445, Li 0.159, Mg 0.396 | model | [1] Wang 2011 | Table 3, p. 8, row 8 |  |
+| 731.15 | quasi-peritectic: L + (Al) + γ = β | L: Al 0.605, Li 0.06, Mg 0.335; (Al): Al 0.807, Li 0.029, Mg 0.164; γ: Al 0.519, Li 0.107, Mg 0.374; β: Al 0.605, Li 0.072, Mg 0.323 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 9 |  |
+| 724.15 | quasi-peritectic: L + (Al) + γ = β | L: Al 0.61, Li 0.054, Mg 0.336; (Al): Al 0.796, Li 0.05, Mg 0.154; γ: Al 0.555, Li 0.091, Mg 0.354; β: Al 0.611, Li 0.054, Mg 0.335 | model | [1] Wang 2011 | Table 3, p. 8, row 10 |  |
+| 709.15 | quasi-peritectic: L + (Li) = (Mg) + AlLi | L: Al 0.239, Li 0.293, Mg 0.468; (Li): Al 0.002, Li 0.375, Mg 0.623; (Mg): Al 0.079, Li 0.202, Mg 0.719; AlLi: Al 0.395, Li 0.445, Mg 0.165 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 11 |  |
+| 704.15 | quasi-peritectic: L + (Li) = (Mg) + AlLi | L: Al 0.221, Li 0.276, Mg 0.502; (Li): Al 0.114, Li 0.292, Mg 0.594; (Mg): Al 0.089, Li 0.185, Mg 0.726; AlLi: Al 0.416, Li 0.437, Mg 0.147 | model | [1] Wang 2011 | Table 3, p. 8, row 12 |  |
+| 698.15 | eutectic: L = (Mg) + γ + AlLi | L: Al 0.255, Li 0.229, Mg 0.516; (Mg): Al 0.104, Li 0.146, Mg 0.75; γ: Al 0.421, Li 0.164, Mg 0.415; AlLi: Al 0.439, Li 0.413, Mg 0.148 | model | [1] Wang 2011 | Table 3, p. 8, row 14 |  |
+| 691.15 | eutectic: L = (Mg) + γ + AlLi | L: Al 0.19, Li 0.206, Mg 0.504; (Mg): Al 0.102, Li 0.126, Mg 0.762; γ: Al 0.377, Li 0.177, Mg 0.446; AlLi: Al 0.416, Li 0.425, Mg 0.159 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 13 |  |
+| 684.15 | quasi-peritectic: L + AlLi = Al2Li3 + (Li) | L: Al 0.126, Li 0.61, Mg 0.264; AlLi: Al 0.394, Li 0.505, Mg 0.101; Al2Li3: Al 0.305, Li 0.675, Mg 0.023; (Li): Al 0.002, Li 0.63, Mg 0.368 | experimental | [1] Wang 2011; _cites Schurmann 1981_ | Table 3, p. 8, row 15 |  |
+| 676.15 | quasi-peritectic: L + AlLi = Al2Li3 + (Li) | L: Al 0.125, Li 0.64, Mg 0.235; AlLi: Al 0.361, Li 0.526, Mg 0.113; Al2Li3: Al 0.329, Li 0.6, Mg 0.071; (Li): Al 0.086, Li 0.58, Mg 0.334 | model | [1] Wang 2011 | Table 3, p. 8, row 16 |  |
+| 468.15 | quasi-peritectic: L + Al2Li3 =Al4Li9 + (Li) | L: Al 0.022, Li 0.931, Mg 0.047; Al2Li3: Al 0.345, Li 0.6, Mg 0.545; Al4Li9: Al 0.308, Li 0.692, Mg 0; (Li): Al 0.012, Li 0.891, Mg 0.097 | model | [1] Wang 2011 | Table 3, p. 8, row 17 |  |
 
 ## Other properties
 
@@ -57,18 +57,18 @@ Table: Crystal structure, Al–Li–Mg system
 | Lattice a | 2031 pm | 298.15 | τ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 10 |  |
 | Lattice a | 1915.51 pm | 302.5 | Al4Li9; _alloy: Li 0.692308, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
 | Lattice a | 1282.54 pm | 330 | ε, Mg30Al23; _alloy: Li 0, Mg 0.566038_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9 |  |
-| Lattice a | 351 pm | 453.75 ({'op': '\<', 'printed': '≤ 180.60', 'value_K': 453.75}) | (Li); _alloy: Li 1, Mg 0_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 2816 pm | 725.15 ({'op': '\<', 'printed': '≤ 452', 'value_K': 725.15}) | β, Al3Mg2; _alloy: Li 0, Mg 0.4_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 1054.38 pm | 731.15 ({'op': '\<', 'printed': '≤ 458', 'value_K': 731.15}) | γ, Mg17Al12; _alloy: Li 0, Mg 0.586207_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 8 |  |
-| Lattice a | 450.8 pm | 793.15 ({'op': '\<', 'printed': '≤ 520', 'value_K': 793.15}) | Al2Li3; _alloy: Li 0.6, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 5 |  |
-| Lattice a | 320.89 pm | 923.15 ({'op': '\<', 'printed': '≤ 650', 'value_K': 923.15}) | (Mg); _alloy: Li 0, Mg 1_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 404.88 pm | 933.6 ({'op': '\<', 'printed': '≤ 660.45', 'value_K': 933.6}) | (Al); _alloy: Li 0, Mg 0_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 637 pm | 973.15 ({'op': '\<', 'printed': '≤ 700', 'value_K': 973.15}) | AlLi; _alloy: Li 0.5, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 4 |  |
+| Lattice a | 351 pm | 453.75 (\<) | (Li); _alloy: Li 1, Mg 0_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 2 |  |
+| Lattice a | 2816 pm | 725.15 (\<) | β, Al3Mg2; _alloy: Li 0, Mg 0.4_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 7 |  |
+| Lattice a | 1054.38 pm | 731.15 (\<) | γ, Mg17Al12; _alloy: Li 0, Mg 0.586207_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 8 |  |
+| Lattice a | 450.8 pm | 793.15 (\<) | Al2Li3; _alloy: Li 0.6, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 5 |  |
+| Lattice a | 320.89 pm | 923.15 (\<) | (Mg); _alloy: Li 0, Mg 1_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 404.88 pm | 933.6 (\<) | (Al); _alloy: Li 0, Mg 0_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 637 pm | 973.15 (\<) | AlLi; _alloy: Li 0.5, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 4 |  |
 | Lattice b | 542.88 pm | 302.5 | Al4Li9; _alloy: Li 0.692308, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
 | Lattice c | 449.88 pm | 302.5 | Al4Li9; _alloy: Li 0.692308, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
 | Lattice c | 2174.78 pm | 330 | ε, Mg30Al23; _alloy: Li 0, Mg 0.566038_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9 |  |
-| Lattice c | 1426 pm | 793.15 ({'op': '\<', 'printed': '≤ 520', 'value_K': 793.15}) | Al2Li3; _alloy: Li 0.6, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 5 |  |
-| Lattice c | 521.01 pm | 923.15 ({'op': '\<', 'printed': '≤ 650', 'value_K': 923.15}) | (Mg); _alloy: Li 0, Mg 1_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 3 |  |
+| Lattice c | 1426 pm | 793.15 (\<) | Al2Li3; _alloy: Li 0.6, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 5 |  |
+| Lattice c | 521.01 pm | 923.15 (\<) | (Mg); _alloy: Li 0, Mg 1_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 3 |  |
 | lattice beta | 107.67 ° | 302.5 | Al4Li9; _alloy: Li 0.692308, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
 
 ## Sources

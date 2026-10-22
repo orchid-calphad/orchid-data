@@ -1,38 +1,31 @@
 # CaMg2: enthalpy of formation
 
-> Enthalpy of formation of CaMg2: 20 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CaMg2: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CaMg2.html · Markdown: https://data.orchid-project.org/compounds/CaMg2.md
 
-20 accepted literature formation-enthalpy value(s) (experimental 11, model 2, DFT 1, unspecified 6); experimental median -13.04 kJ/mol-atom (n = 11); Materials Project -10.24 kJ/mol-atom (mp-aaaaadpo); OQMD -12.167 kJ/mol-atom (oqmd-21025).
+13 accepted literature formation-enthalpy value(s) (experimental 7, model 2, DFT 1, unspecified 3); experimental median -13.04 kJ/mol-atom (n = 7); Materials Project -10.24 kJ/mol-atom (mp-aaaaadpo); OQMD -12.167 kJ/mol-atom (oqmd-21025).
 
 Systems: [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) · [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CaMg2 reported in the literature (20)
+Table: Enthalpy of formation of CaMg2 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -14.59 kJ/mol-atom | Mg2Ca-C14 | 255.5 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Chiotti 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990053-0) | Table 2, p. 4, row 13 |  |
-| -14.59 kJ/mol-atom | Mg2Ca-C14 | 255.5 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Chiotti 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990053-0) | Table 2, p. 4, row 13 |  |
 | -13.5 kJ/mol-atom | Mg2Ca | 298 | experimental | experimental | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4 |  |
 | -13.38 kJ/mol-atom | Mg2Ca-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 9 |  |
-| -13.38 kJ/mol-atom | Mg2Ca-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 9 |  |
-| -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10 |  |
 | -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10 |  |
 | -13 kJ/mol-atom | Mg2Ca | 298 | experimental | experimental | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6 |  |
 | -12.7 kJ/mol-atom | Mg2Ca | 298 | experimental | experimental | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5 |  |
-| -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Smith 1959_ | Table 2, p. 4, row 12 |  |
 | -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Smith 1959_ | Table 2, p. 4, row 12 |  |
 | -12.85 kJ/mol-atom | Mg2Ca | 298 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2 |  |
 | -12.78 kJ/mol-atom | Mg2Ca | 298 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008 | Table 2, p. 5, row 3 |  |
 | -12.37 kJ/mol-atom | Mg2Ca | 298 | DFT | first-principles | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008 | Table 2, p. 5, row 1 |  |
 | -20.97 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Pyagai 1990_ | Table 2, p. 4, row 8 |  |
-| -20.97 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Pyagai 1990_ | Table 2, p. 4, row 8 |  |
 | -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11 |  |
-| -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11 |  |
-| -11.7161 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 6 |  |
 | -11.7161 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 6 |  |
 
 ## DFT formation energies

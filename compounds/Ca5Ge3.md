@@ -1,26 +1,22 @@
 # Ca5Ge3: enthalpy of formation
 
-> Enthalpy of formation of Ca5Ge3: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ca5Ge3: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ca5Ge3.html · Markdown: https://data.orchid-project.org/compounds/Ca5Ge3.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 2); experimental median -65.3 kJ/mol-atom (n = 2); Materials Project -60.591 kJ/mol-atom (mp-aaaaacum); OQMD -61.726 kJ/mol-atom (oqmd-7694).
+4 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 1); experimental median -65.3 kJ/mol-atom (n = 1); Materials Project -60.591 kJ/mol-atom (mp-aaaaacum); OQMD -61.726 kJ/mol-atom (oqmd-7694).
 
 Systems: [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ca5Ge3 reported in the literature (8)
+Table: Enthalpy of formation of Ca5Ge3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -65.3 kJ/mol-atom ± 5.7 | Ca5Ge3 | 1000 | experimental | emf | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 5 |  |
-| -65.3 kJ/mol-atom ± 5.7 | Ca5Ge3 | 1000 | experimental | emf | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Mejbar 1993_ | Table 3, p. 5, row 5 |  |
-| -62.59 kJ/mol-atom | Ca5Ge3 | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 7 |  |
 | -62.59 kJ/mol-atom | Ca5Ge3 | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 7 |  |
 | -59.8 kJ/mol-atom | Ca5Ge3 | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 8 |  |
-| -59.8 kJ/mol-atom | Ca5Ge3 | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 8 |  |
-| -60.4 kJ/mol-atom | Ca5Ge3 | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 6 |  |
 | -60.4 kJ/mol-atom | Ca5Ge3 | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 6 |  |
 
 ## DFT formation energies

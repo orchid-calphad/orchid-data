@@ -1,22 +1,20 @@
 # SiB3: enthalpy of formation
 
-> Enthalpy of formation of SiB3: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of SiB3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SiB3.html · Markdown: https://data.orchid-project.org/compounds/SiB3.md
 
-4 accepted literature formation-enthalpy value(s) (unspecified 4).
+2 accepted literature formation-enthalpy value(s) (unspecified 2).
 
 Systems: [B–Si](https://data.orchid-project.org/systems/B-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SiB3 reported in the literature (4)
+Table: Enthalpy of formation of SiB3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -90.8 kJ/mol (basis unstated) | SiB3 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 1 |  |
-| -90.8 kJ/mol (basis unstated) | SiB3 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Gordienko 1995_ | Table 1, p. 2, row 1 |  |
-| -26.99 kJ/mol (basis unstated) | SiB3 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Chubinidze 1982_ | Table 1, p. 2, row 2 |  |
 | -26.99 kJ/mol (basis unstated) | SiB3 | 298.15 | unspecified |  | [B–Si](https://data.orchid-project.org/systems/B-SI.html) | [1] Chen 2009; _cites Chubinidze 1982_ | Table 1, p. 2, row 2 |  |
 
 ## Sources

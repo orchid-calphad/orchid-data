@@ -75,30 +75,30 @@ Table: Invariant reactions reported in the literature for the Ca–Si system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1532.15 | p1: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 7 |  |
-| 1513.15 | p1: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 8 |  |
-| 1509.15 | p1: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | model | [1] Gröbner 2003 | Table 2, p. 4, row 9 |  |
-| 1508.15 | e1: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | model | [1] Gröbner 2003 | Table 2, p. 4, row 11 |  |
+| 1532.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 7 |  |
+| 1513.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 8 |  |
+| 1509.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | model | [1] Gröbner 2003 | Table 2, p. 4, row 9 |  |
+| 1508.15 | other: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | model | [1] Gröbner 2003 | Table 2, p. 4, row 11 |  |
 | 1503.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2 | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
-| 1503.15 | e1: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 10 |  |
-| 1358.15 | p2: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 12 |  |
-| 1356.15 | p2: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | model | [1] Gröbner 2003 | Table 2, p. 4, row 13 |  |
-| 1306.15 | p3: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 14 |  |
-| 1303.15 | p3: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 15 |  |
-| 1301.15 | p3: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 16 |  |
-| 1297.15 | e2: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | model | [1] Gröbner 2003 | Table 2, p. 4, row 19 |  |
-| 1296.15 | e2: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 17 |  |
+| 1503.15 | other: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 10 |  |
+| 1358.15 | other: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 12 |  |
+| 1356.15 | other: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | model | [1] Gröbner 2003 | Table 2, p. 4, row 13 |  |
+| 1306.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 14 |  |
+| 1303.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 15 |  |
+| 1301.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 16 |  |
+| 1297.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | model | [1] Gröbner 2003 | Table 2, p. 4, row 19 |  |
+| 1296.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 17 |  |
 | 1293.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2 | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
-| 1293.15 | e2: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 18 |  |
-| 1210.15 | p4: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | model | [1] Gröbner 2003 | Table 2, p. 4, row 21 |  |
-| 1183.15 | p4: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 20 |  |
-| 1173.15 | e4: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 22 |  |
-| 1153.15 | e4: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 23 |  |
-| 1071.15 | e3: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 26 |  |
+| 1293.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 18 |  |
+| 1210.15 | other: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | model | [1] Gröbner 2003 | Table 2, p. 4, row 21 |  |
+| 1183.15 | other: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 20 |  |
+| 1173.15 | other: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 22 |  |
+| 1153.15 | other: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 23 |  |
+| 1071.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 26 |  |
 | 1068.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2 | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
-| 1068.15 | e3: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 25 |  |
-| 1055.15 | e3: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 24 |  |
-| 716.15 | Degenerate: (βCa) = (αCa); Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 27 |  |
+| 1068.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 25 |  |
+| 1055.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 24 |  |
+| 716.15 | other: (βCa) = (αCa); Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 27 |  |
 
 ## Formation enthalpies
 
@@ -168,12 +168,12 @@ Table: Phase transition, Ca–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1530.15 K | 1530.15 | Congruent: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | model | [1] Gröbner 2003 | Table 2, p. 4, row 6 |  |
-| Phase transition | 1543.15 K | 1543.15 | Congruent: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 5 |  |
-| Phase transition | 1553.15 K | 1553.15 | Congruent: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | model | [1] Gröbner 2003 | Table 2, p. 4, row 3 |  |
-| Phase transition | 1578.15 K | 1578.15 | Congruent: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 4 |  |
-| Phase transition | 1588.15 K | 1588.15 | Congruent: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 1 |  |
-| Phase transition | 1593.15 K | 1593.15 | Congruent: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 2 |  |
+| Phase transition | 1530.15 K | 1530.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | model | [1] Gröbner 2003 | Table 2, p. 4, row 6 |  |
+| Phase transition | 1543.15 K | 1543.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 5 |  |
+| Phase transition | 1553.15 K | 1553.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | model | [1] Gröbner 2003 | Table 2, p. 4, row 3 |  |
+| Phase transition | 1578.15 K | 1578.15 | congruent melting: L = Ca2Si; _L: Si 0.333333; Ca2Si: Si 0.333333_ | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 4 |  |
+| Phase transition | 1588.15 K | 1588.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 1 |  |
+| Phase transition | 1593.15 K | 1593.15 | congruent melting: L = CaSi; _L: Si 0.5; CaSi: Si 0.5_ | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 2 |  |
 
 ## Sources
 

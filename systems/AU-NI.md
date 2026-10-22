@@ -1,10 +1,10 @@
 # Au–Ni system
 
-> Au–Ni system: 22 accepted literature values (phase transition 12, mixing / partial 10) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ni system: 18 accepted literature values (phase transition 12, mixing / partial 6) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-NI.html · Markdown: https://data.orchid-project.org/systems/AU-NI.md
 
-22 accepted literature values from 2 paper(s) (experimental 6, model 16); 3 calculated phase diagram(s).
+18 accepted literature values from 2 paper(s) (experimental 6, model 12); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-NI.json) · [CSV](https://data.orchid-project.org/systems/AU-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-NI/AuNi-05Fra.json) · [Markdown](https://data.orchid-project.org/systems/AU-NI.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 16 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 12 |
-| mixing / partial | 10 |
+| mixing / partial | 6 |
 
 ## Calculated phase diagrams
 
@@ -50,29 +50,25 @@ Table: Phase transition, Au–Ni system
 | Phase transition | 1083.5 K | 1083.5 | other: Critical point; _alloy: Au 0.275, Ni 0.725_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 6 |  |
 | Phase transition | 1089.5 K | 1089.5 | other | model | [1] Wang 2005 | p. 1 | “The calculated congruent point is 1214.3 K and 42.6 at.% Ni and the critical point of the miscibility gap is 1089.5 K and 73.0 at.% Ni.” |
 | Phase transition | 1089.5 K | 1089.5 | other: Critical point; _alloy: Au 0.27, Ni 0.73_ | model | [1] Wang 2005 | Table 2, p. 3, row 4 |  |
-| Phase transition | 1214.3 K | 1214.3 | congruent | model | [1] Wang 2005 | p. 1 | “The calculated congruent point is 1214.3 K and 42.6 at.% Ni and the critical point of the miscibility gap is 1089.5 K and 73.0 at.% Ni.” |
-| Phase transition | 1214.3 K | 1214.3 | congruent: Congruent point; _alloy: Au 0.574, Ni 0.426_ | model | [1] Wang 2005 | Table 2, p. 3, row 1 |  |
-| Phase transition | 1224 K | 1224 | congruent: Congruent point | experimental | [1] Wang 2005; _cites Esdaile 1971_ | Table 2, p. 3, row 2 |  |
+| Phase transition | 1214.3 K | 1214.3 | congruent transformation | model | [1] Wang 2005 | p. 1 | “The calculated congruent point is 1214.3 K and 42.6 at.% Ni and the critical point of the miscibility gap is 1089.5 K and 73.0 at.% Ni.” |
+| Phase transition | 1214.3 K | 1214.3 | congruent transformation: Congruent point; _alloy: Au 0.574, Ni 0.426_ | model | [1] Wang 2005 | Table 2, p. 3, row 1 |  |
+| Phase transition | 1224 K | 1224 | congruent transformation: Congruent point | experimental | [1] Wang 2005; _cites Esdaile 1971_ | Table 2, p. 3, row 2 |  |
 | Phase transition | 1224.15 K | 1224.15 |  | experimental | [1] Wang 2005; _cites Esdaile 1971_ | p. 2 | “The result observed by Esdaile and Mcadam \[20\] is at 951 ◦ C.” |
-| Phase transition | 1227.95 K | 1227.95 | congruent | model | [1] Wang 2005; _cites Hansen 1958_ | p. 2 | “The reviewed congruent point is at 42.5 at.% Ni and 954.8 ◦ C \[21\].” |
-| Phase transition | 1228 K | 1228 | congruent: Congruent point; _alloy: Au 0.575, Ni 0.425_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 3 |  |
+| Phase transition | 1227.95 K | 1227.95 | congruent transformation | model | [1] Wang 2005; _cites Hansen 1958_ | p. 2 | “The reviewed congruent point is at 42.5 at.% Ni and 954.8 ◦ C \[21\].” |
+| Phase transition | 1228 K | 1228 | congruent transformation: Congruent point; _alloy: Au 0.575, Ni 0.425_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 3 |  |
 
-### Mixing / partial (10)
+### Mixing / partial (6)
 
 Table: Mixing / partial, Au–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 12109 J/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 4 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | -134 J/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 1 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 12109 J/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 2 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 10000 J/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 5 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 12109 J/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 3 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 9666 J/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 10 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 2955 J/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 6 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 7065 J/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 9 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 7065 J/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 7 |  |
-| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 7065 J/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 8 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | -0.134 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 1 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 12.109 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 2 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 10 kJ/mol (basis unstated) | 1750.15 | Liquid | model | [2] Morioka 1999 | Table 7, p. 14, row 5 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 9.666 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 10 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 2.955 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 6 |  |
+| Enthalpy of mixing; _printed: \|ΔmixH\| (X_Ag = 0.5)_ | 7.065 kJ/mol (basis unstated) | 1750.15 | fcc | model | [2] Morioka 1999 | Table 7, p. 14, row 7 |  |
 
 ## Sources
 

@@ -1,24 +1,21 @@
 # Al2Fe: enthalpy of formation
 
-> Enthalpy of formation of Al2Fe: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al2Fe: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al2Fe.html · Markdown: https://data.orchid-project.org/compounds/Al2Fe.md
 
-7 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 1); experimental median -27.8 kJ/mol-atom (n = 2); OQMD -34.734 kJ/mol-atom (oqmd-1376945).
+4 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 1); experimental median -27.8 kJ/mol-atom (n = 1); OQMD -34.734 kJ/mol-atom (oqmd-1376945).
 
 Systems: [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) · [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al2Fe reported in the literature (7)
+Table: Enthalpy of formation of Al2Fe reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -27.8 kJ/mol-atom ± 1.9 | ζ-Al2Fe | 298.15 | experimental | solution calorimetry | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Lukas 2007_ | Table 3, p. 6, row 5 |  |
-| -27.8 kJ/mol-atom ± 1.9 | ζ-Al2Fe | 298.15 | experimental | solution calorimetry | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Lukas 2007_ | Table 3, p. 6, row 5 |  |
 | -23.8 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 8 |  |
-| -23.8 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 8 |  |
-| -23.72 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 7 |  |
 | -23.72 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 7 |  |
 | -124.42 kJ/mol (basis unstated) | FeAl2 |  | DFT | DFT | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) | [2] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3 |  |
 

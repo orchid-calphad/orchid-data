@@ -60,25 +60,25 @@ Table: Invariant reactions reported in the literature for the Lu–Sb system (19
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2453.25 | Congruent: L ↔ βLuSb | L: Sb 0.5; βLuSb: Sb 0.5 | model | [1] Wang 2011 | Table 5, p. 4, row 10 |  |
-| 2453.15 | Congruent: L ↔ βLuSb | L: Sb 0.5; βLuSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 9 |  |
-| 2143.15 | Polymorphic: αLuSb ↔ βLuSb | αLuSb: Sb 0.5; βLuSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 7 |  |
-| 2142.85 | Polymorphic: αLuSb ↔ βLuSb | αLuSb: Sb 0.5; βLuSb: Sb 0.5 | model | [1] Wang 2011 | Table 5, p. 4, row 8 |  |
-| 1843.45 | Peritectic: L + αLuSb ↔ Lu5Sb3 | L: Sb 0.246; αLuSb: Sb 0.5; Lu5Sb3: Sb 0.375 | model | [1] Wang 2011 | Table 5, p. 4, row 6 |  |
+| 2453.25 | congruent melting: L ↔ βLuSb | L: Sb 0.5; βLuSb: Sb 0.5 | model | [1] Wang 2011 | Table 5, p. 4, row 10 |  |
+| 2453.15 | congruent melting: L ↔ βLuSb | L: Sb 0.5; βLuSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 9 |  |
+| 2143.15 | polymorphic: αLuSb ↔ βLuSb | αLuSb: Sb 0.5; βLuSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 7 |  |
+| 2142.85 | polymorphic: αLuSb ↔ βLuSb | αLuSb: Sb 0.5; βLuSb: Sb 0.5 | model | [1] Wang 2011 | Table 5, p. 4, row 8 |  |
+| 1843.45 | peritectic: L + αLuSb ↔ Lu5Sb3 | L: Sb 0.246; αLuSb: Sb 0.5; Lu5Sb3: Sb 0.375 | model | [1] Wang 2011 | Table 5, p. 4, row 6 |  |
 | 1843.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2 | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
-| 1843.15 | Peritectic: L + αLuSb ↔ Lu5Sb3 | αLuSb: Sb 0.5; Lu5Sb3: Sb 0.375 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 5 |  |
+| 1843.15 | peritectic: L + αLuSb ↔ Lu5Sb3 | αLuSb: Sb 0.5; Lu5Sb3: Sb 0.375 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 5 |  |
 | 1563.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2 | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
-| 1563.15 | Peritectic: L + Lu5Sb3 ↔ Lu3Sb | L: Sb 0.166; Lu5Sb3: Sb 0.375; Lu3Sb: Sb 0.25 | model | [1] Wang 2011 | Table 5, p. 4, row 4 |  |
-| 1563.15 | Peritectic: L + Lu5Sb3 ↔ Lu3Sb | Lu5Sb3: Sb 0.375; Lu3Sb: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 3 |  |
+| 1563.15 | peritectic: L + Lu5Sb3 ↔ Lu3Sb | L: Sb 0.166; Lu5Sb3: Sb 0.375; Lu3Sb: Sb 0.25 | model | [1] Wang 2011 | Table 5, p. 4, row 4 |  |
+| 1563.15 | peritectic: L + Lu5Sb3 ↔ Lu3Sb | Lu5Sb3: Sb 0.375; Lu3Sb: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 3 |  |
 | 1473.15 | eutectic: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | p. 2 | “Abdusalyamova et al. \[10\] also determined two eutectic reactions: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb at 1200 °C, and L (∼99 at.% Sb) ↔LuSb2 + (Sb) at 625 °C.” |
-| 1473.15 | Eutectic: L ↔ (Lu) + Lu3Sb | L: Sb 0.155; Lu3Sb: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 1 |  |
-| 1471.55 | Eutectic: L ↔ (Lu) + Lu3Sb | L: Sb 0.132; (Lu): Sb 0.019; Lu3Sb: Sb 0.25 | model | [1] Wang 2011 | Table 5, p. 4, row 2 |  |
-| 1203.25 | Peritectic: L + αLuSb ↔ LuSb2 | L: Sb 0.935; αLuSb: Sb 0.5; LuSb2: Sb 0.667 | model | [1] Wang 2011 | Table 5, p. 4, row 12 |  |
+| 1473.15 | eutectic: L ↔ (Lu) + Lu3Sb | L: Sb 0.155; Lu3Sb: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 1 |  |
+| 1471.55 | eutectic: L ↔ (Lu) + Lu3Sb | L: Sb 0.132; (Lu): Sb 0.019; Lu3Sb: Sb 0.25 | model | [1] Wang 2011 | Table 5, p. 4, row 2 |  |
+| 1203.25 | peritectic: L + αLuSb ↔ LuSb2 | L: Sb 0.935; αLuSb: Sb 0.5; LuSb2: Sb 0.667 | model | [1] Wang 2011 | Table 5, p. 4, row 12 |  |
 | 1203.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2 | “reported four stoichiometric compounds: Lu3 Sb (peritectic formation at 1290 °C), Lu5 Sb3 (peritectic formation at 1570 °C), LuSb (melting point, 2180 °C), and LuSb2 (peritectic formation at 930 °C).” |
-| 1203.15 | Peritectic: L + αLuSb ↔ LuSb2 | αLuSb: Sb 0.5; LuSb2: Sb 0.667 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 11 |  |
-| 900.65 | Eutectic: L ↔ LuSb2 + (Sb) | L: Sb 0.992; LuSb2: Sb 0.667; (Sb): Sb 1 | model | [1] Wang 2011 | Table 5, p. 4, row 14 |  |
+| 1203.15 | peritectic: L + αLuSb ↔ LuSb2 | αLuSb: Sb 0.5; LuSb2: Sb 0.667 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 11 |  |
+| 900.65 | eutectic: L ↔ LuSb2 + (Sb) | L: Sb 0.992; LuSb2: Sb 0.667; (Sb): Sb 1 | model | [1] Wang 2011 | Table 5, p. 4, row 14 |  |
 | 898.15 | eutectic: L (∼99 at.% Sb) ↔LuSb2 + (Sb) |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | p. 2 | “Abdusalyamova et al. \[10\] also determined two eutectic reactions: L (∼15.5 at.% Sb) ↔(Lu) + Lu3 Sb at 1200 °C, and L (∼99 at.% Sb) ↔LuSb2 + (Sb) at 625 °C.” |
-| 898.15 | Eutectic: L ↔ LuSb2 + (Sb) | L: Sb 0.99; LuSb2: Sb 0.667; (Sb): Sb 1 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 13 |  |
+| 898.15 | eutectic: L ↔ LuSb2 + (Sb) | L: Sb 0.99; LuSb2: Sb 0.667; (Sb): Sb 1 | experimental | [1] Wang 2011; _cites Abdusalyamova 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990004-4) | Table 5, p. 4, row 13 |  |
 
 ## Formation enthalpies
 

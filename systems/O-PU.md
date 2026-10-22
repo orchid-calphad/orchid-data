@@ -1,10 +1,10 @@
 # O–Pu system
 
-> O–Pu system: 142 accepted literature values (invariant reaction 45, heat capacity / entropy / enthalpy 38, formation 31, crystal structure 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Pu system: 113 accepted literature values (invariant reaction 45, heat capacity / entropy / enthalpy 22, crystal structure 20, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-PU.html · Markdown: https://data.orchid-project.org/systems/O-PU.md
 
-142 accepted literature values from 2 paper(s) (experimental 45, model 88, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+113 accepted literature values from 2 paper(s) (experimental 45, model 59, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-PU.json) · [CSV](https://data.orchid-project.org/systems/O-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PU) · [Markdown](https://data.orchid-project.org/systems/O-PU.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 45 |
-| model | 88 |
+| model | 59 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 45 |
 | phase transition | 8 |
-| formation | 31 |
-| heat capacity / entropy / enthalpy | 38 |
+| formation | 18 |
+| heat capacity / entropy / enthalpy | 22 |
 | crystal structure | 20 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-PU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-PU.json) · [CALPHAD hull PuO-08Gue](https://data.orchid-project.org/hulls/calphad-sgte/O/O-PU--PuO-08Gue.json) · [CALPHAD hull PuO-11Gue](https://data.orchid-project.org/hulls/calphad-sgte/O/O-PU--PuO-11Gue.json)
@@ -84,40 +84,27 @@ Table: Invariant reactions reported in the literature for the O–Pu system (45)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, O–Pu system (31)
+Table: Enthalpies of formation, O–Pu system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -337 kJ/mol-atom ± 25 | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 5 |  |
-| Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -337 kJ/mol-atom ± 25 | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 5 |  |
-| Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -334 kJ/mol-atom ± 20 | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 6 |  |
 | Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -334 kJ/mol-atom ± 20 | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 6 |  |
 | Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -331.24 kJ/mol-atom | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008 | Table 5, p. 12, row 1 |  |
 | Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -331.2 kJ/mol-atom | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Besmann 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990289-3) | Table 5, p. 12, row 3 |  |
 | Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -331.2 kJ/mol-atom ± 10 | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
-| Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -331.2 kJ/mol-atom ± 10 | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
 | Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -330.8 kJ/mol-atom ± 20 | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 4 |  |
-| Pu2O3 | [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.html) | -330.8 kJ/mol-atom ± 20 | 298.15 | model | -337.031 (mp-aaabkgqq) | -350.52 (oqmd-12710) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 4 |  |
-| PuO1,52 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -422.5 kJ/mol-atom ± 10 | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 9 |  |
 | PuO1,52 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -422.5 kJ/mol-atom ± 10 | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 9 |  |
 | PuO1,52 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -419 kJ/mol-atom | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008 | Table 5, p. 12, row 8 |  |
 | PuO1,61 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -447.5 kJ/mol-atom ± 6 | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 11 |  |
-| PuO1,61 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -447.5 kJ/mol-atom ± 6 | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 11 |  |
 | PuO1,61 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -442.25 kJ/mol-atom ± 16.7 | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 12 |  |
-| PuO1,61 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -442.25 kJ/mol-atom ± 16.7 | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 12 |  |
-| PuO1,61 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -437.75 kJ/mol-atom ± 10 | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
 | PuO1,61 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -437.75 kJ/mol-atom ± 10 | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
 | PuO1,61 | [PuO](https://data.orchid-project.org/compounds/PuO.html) | -433.6 kJ/mol-atom | 298.15 | model | -270.318 (mp-aaaaabfa) | -276.45 (oqmd-1243279) | [1] Guéneau 2008 | Table 5, p. 12, row 10 |  |
 | PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -353.433 kJ/mol-atom | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008 | Table 5, p. 12, row 14 |  |
 | PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -352.667 kJ/mol-atom ± 1.6 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Holley 1958_ | Table 5, p. 12, row 16 |  |
-| PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -352.667 kJ/mol-atom ± 1.6 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Holley 1958_ | Table 5, p. 12, row 16 |  |
-| PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -352 kJ/mol-atom ± 4 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Popov 1957_ [doi](https://doi.org/10.1007/bf01489634) | Table 5, p. 12, row 15 |  |
 | PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -352 kJ/mol-atom ± 4 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Popov 1957_ [doi](https://doi.org/10.1007/bf01489634) | Table 5, p. 12, row 15 |  |
 | PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -351.933 kJ/mol-atom ± 0.8 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 19 |  |
-| PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -351.933 kJ/mol-atom ± 0.8 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 19 |  |
 | PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -351.933 kJ/mol-atom ± 1 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
-| PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -351.933 kJ/mol-atom ± 1 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
-| PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -351.9 kJ/mol-atom ± 0.72 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Johnson 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990039-1) | Table 5, p. 12, row 17 |  |
 | PuO2 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | -351.9 kJ/mol-atom ± 0.72 | 298.15 | model | -352.148 (mp-aaaaacxj) | -328.016 (oqmd-1234115) | [1] Guéneau 2008; _cites Johnson 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990039-1) | Table 5, p. 12, row 17 |  |
 
 ## Other properties
@@ -129,57 +116,41 @@ Table: Phase transition, O–Pu system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 17.65 K | 17.65 | other | experimental | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | p. 4 | “For the Pu2O3 compound, determinations of the heat capacity at low temperature by Flotow et al. \[41\] (including a k transition at 17.65 K) led to an entropy value at 298 K as compiled by Glushko et al. \[42\] and Lemire et al. \[43\] and retained in the SGTE data bank \[44\].” |
-| Phase transition | 900 K | 900 (none) | other | experimental | [2] Guéneau 2011; _cites Sari 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990211-4) | p. 14 | “According to DTA results, the maximum transition temperature is found in the binary Pu-O system at about 900 K and decreases with the U content in the MOX \[119,112,120,48,121\].” |
-| Phase transition | 1450 K | 1450 | congruent: fcc PuO2-x = bcc PuO1.65 | experimental | [1] Guéneau 2008 | p. 3 | “In addition, a congruent decomposition of fcc PuO2x phase into bcc PuO1.65 phase was assumed to occur around 1450 K but the exact temperature could not be accurately determined.” |
-| Phase transition | 2000 K | 2000 | congruent | model | [1] Guéneau 2008 | p. 6 | “The reported congruent composition at 2000 K in an open system is of 1.85 whereas the measured value is equal to 1.92.” |
-| Phase transition | 2025 K | 2025 | congruent | experimental | [1] Guéneau 2008 | p. 6 | “Ackermann et al. observed a congruent vaporization for O/Pu = 1.92 ± 0.03 at 2025 K.” |
-| Phase transition | 2173 K | 2173 | congruent | experimental | [1] Guéneau 2008; _cites Chikalla 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990132-1) | p. 2 | “It was reported as a metastable phase by Holley et al. \[11\] and later included as a stable compound with a congruent melting at about 2173 K in the phase diagram of Chikalla et al. \[12\].” |
-| Phase transition | 2230 K | 2230 | congruent | experimental | [1] Guéneau 2008; _cites Battles 1969_ | p. 6 | “Conversely, other experimental data in open systems led to a congruent composition in the range 1.84-1.89 for 1800-2200 K from Ohse et al. \[27\], 1.81-1.87 for 2080-2380 K from Messier \[26\], 1.83 at 2230 K from Battles et al. \[65\].” |
+| Phase transition | 900 K | 900 | other | experimental | [2] Guéneau 2011; _cites Sari 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990211-4) | p. 14 | “According to DTA results, the maximum transition temperature is found in the binary Pu-O system at about 900 K and decreases with the U content in the MOX \[119,112,120,48,121\].” |
+| Phase transition | 1450 K | 1450 | congruent transformation: fcc PuO2-x = bcc PuO1.65 | experimental | [1] Guéneau 2008 | p. 3 | “In addition, a congruent decomposition of fcc PuO2x phase into bcc PuO1.65 phase was assumed to occur around 1450 K but the exact temperature could not be accurately determined.” |
+| Phase transition | 2000 K | 2000 | congruent transformation | model | [1] Guéneau 2008 | p. 6 | “The reported congruent composition at 2000 K in an open system is of 1.85 whereas the measured value is equal to 1.92.” |
+| Phase transition | 2025 K | 2025 | congruent transformation | experimental | [1] Guéneau 2008 | p. 6 | “Ackermann et al. observed a congruent vaporization for O/Pu = 1.92 ± 0.03 at 2025 K.” |
+| Phase transition | 2173 K | 2173 | congruent transformation | experimental | [1] Guéneau 2008; _cites Chikalla 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990132-1) | p. 2 | “It was reported as a metastable phase by Holley et al. \[11\] and later included as a stable compound with a congruent melting at about 2173 K in the phase diagram of Chikalla et al. \[12\].” |
+| Phase transition | 2230 K | 2230 | congruent transformation | experimental | [1] Guéneau 2008; _cites Battles 1969_ | p. 6 | “Conversely, other experimental data in open systems led to a congruent composition in the range 1.84-1.89 for 1800-2200 K from Ohse et al. \[27\], 1.81-1.87 for 2080-2380 K from Messier \[26\], 1.83 at 2230 K from Battles et al. \[65\].” |
 | Phase transition | 2358 K | 2358 | Pu2O3 | experimental | [1] Guéneau 2008 | p. 4 | “Glushko estimated the high temperature heat capacity by comparison with PuO2(s) (using a Cp ratio 1.7 from 350 K to the melting temperature 2358 K).” |
 
-### Heat capacity / entropy / enthalpy (38)
+### Heat capacity / entropy / enthalpy (22)
 
 Table: Heat capacity / entropy / enthalpy, O–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S (298.15 K)_ | 32.6 J/mol-atom/K | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 6 |  |
-| Entropy; _printed: S (298.15 K)_ | 32.6 J/mol-atom/K | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 6 |  |
-| Entropy; _printed: S (298.15 K)_ | 31.88 J/mol-atom/K ± 25.1 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 4 |  |
 | Entropy; _printed: S (298.15 K)_ | 31.88 J/mol-atom/K ± 25.1 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 4 |  |
 | Entropy; _printed: S (298.15 K)_ | 32.68 J/mol-atom/K | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008 | Table 5, p. 12, row 1 |  |
 | Entropy; _printed: S (298.15 K)_ | 28.44 J/mol-atom/K ± 20.9 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 5 |  |
-| Entropy; _printed: S (298.15 K)_ | 28.44 J/mol-atom/K ± 20.9 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 5 |  |
 | Entropy; _printed: S (298.15 K)_ | 32.6 J/mol-atom/K ± 0.6 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
-| Entropy; _printed: S (298.15 K)_ | 32.6 J/mol-atom/K ± 0.6 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
-| Entropy; _printed: S (298.15 K)_ | 32.64 J/mol-atom/K ± 0.6 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | Table 5, p. 12, row 2 |  |
 | Entropy; _printed: S (298.15 K)_ | 32.64 J/mol-atom/K ± 0.6 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | Table 5, p. 12, row 2 |  |
 | Entropy; _printed: S (298.15 K)_ | 40.2 J/mol-atom/K | 298.15 | PuO1,52; _alloy: Pu 0.5_ | model | [1] Guéneau 2008 | Table 5, p. 12, row 8 |  |
 | Entropy; _printed: S (298.15 K)_ | 40.6 J/mol-atom/K | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008 | Table 5, p. 12, row 10 |  |
 | Entropy; _printed: S (298.15 K)_ | 40.15 J/mol-atom/K ± 10.5 | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 11 |  |
-| Entropy; _printed: S (298.15 K)_ | 40.15 J/mol-atom/K ± 10.5 | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 11 |  |
-| Entropy; _printed: S (298.15 K)_ | 43.5 J/mol-atom/K ± 16.7 | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 12 |  |
 | Entropy; _printed: S (298.15 K)_ | 43.5 J/mol-atom/K ± 16.7 | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 12 |  |
 | Entropy; _printed: S (298.15 K)_ | 41.5 J/mol-atom/K ± 5 | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
-| Entropy; _printed: S (298.15 K)_ | 41.5 J/mol-atom/K ± 5 | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
-| Entropy; _printed: S (298.15 K)_ | 22.0433 J/mol-atom/K ± 0.3 | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | Table 5, p. 12, row 18 |  |
 | Entropy; _printed: S (298.15 K)_ | 22.0433 J/mol-atom/K ± 0.3 | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | Table 5, p. 12, row 18 |  |
 | Entropy; _printed: S (298.15 K)_ | 22.0433 J/mol-atom/K | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008 | Table 5, p. 12, row 14 |  |
 | Entropy; _printed: S (298.15 K)_ | 22.0433 J/mol-atom/K | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 19 |  |
-| Entropy; _printed: S (298.15 K)_ | 22.0433 J/mol-atom/K | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 19 |  |
-| Entropy; _printed: S (298.15 K)_ | 22.0433 J/mol-atom/K ± 0.26 | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
 | Entropy; _printed: S (298.15 K)_ | 22.0433 J/mol-atom/K ± 0.26 | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
 | Heat capacity; _printed: Cp (298.15 K)_ | 23.4 J/mol-atom/K | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008 | Table 5, p. 12, row 1 |  |
 | Heat capacity; _printed: Cp (298.15 K)_ | 23.4 J/mol-atom/K ± 0.5 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
-| Heat capacity; _printed: Cp (298.15 K)_ | 23.4 J/mol-atom/K ± 0.5 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
-| Heat capacity; _printed: Cp (298.15 K)_ | 23.4 J/mol-atom/K ± 0.5 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | Table 5, p. 12, row 2 |  |
 | Heat capacity; _printed: Cp (298.15 K)_ | 23.4 J/mol-atom/K ± 0.5 | 298.15 | Pu2O3; _alloy: Pu 0.4_ | model | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | Table 5, p. 12, row 2 |  |
 | Heat capacity; _printed: Cp (298.15 K)_ | 30.6 J/mol-atom/K ± 5 | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
-| Heat capacity; _printed: Cp (298.15 K)_ | 30.6 J/mol-atom/K ± 5 | 298.15 | PuO1,61; _alloy: Pu 0.5_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
-| Heat capacity; _printed: Cp (298.15 K)_ | 22.08 J/mol-atom/K | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | Table 5, p. 12, row 18 |  |
 | Heat capacity; _printed: Cp (298.15 K)_ | 22.08 J/mol-atom/K | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Flotow 1981_ [doi](https://doi.org/10.1063/1.441691) | Table 5, p. 12, row 18 |  |
 | Heat capacity; _printed: Cp (298.15 K)_ | 22.0833 J/mol-atom/K | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008 | Table 5, p. 12, row 14 |  |
-| Heat capacity; _printed: Cp (298.15 K)_ | 22.0833 J/mol-atom/K ± 0.26 | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
 | Heat capacity; _printed: Cp (298.15 K)_ | 22.0833 J/mol-atom/K ± 0.26 | 298.15 | PuO2; _alloy: Pu 0.333333_ | model | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
 
 ### Crystal structure (20)

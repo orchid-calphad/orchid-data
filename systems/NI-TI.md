@@ -220,21 +220,21 @@ Table: Invariant reactions reported in the literature for the Ni–Ti system (35
 |---:|---|---|---|---|---|---|
 | 1577.15 | L \<=> (γ-Ni) + Ni3Ti | L: Ti 0.163; (γ-Ni): Ti 0.152; Ni3Ti: Ti 0.207 | model | [1] Santhy 2015 | Table 8, p. 4, row 1 |  |
 | 1577.15 | L \<=> (γ-Ni) + Ni3Ti | L: Ti 0.169; (γ-Ni): Ti 0.153; Ni3Ti: Ti 0.2 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 2 |  |
-| 1572.15 | Eutectic: L -> Ni + TiNi3 | L: Ti 0.168; Ni: Ti 0.151; TiNi3: Ti 0.208 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 3 |  |
+| 1572.15 | eutectic: L -> Ni + TiNi3 | L: Ti 0.168; Ni: Ti 0.151; TiNi3: Ti 0.208 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 3 |  |
 | 1396.15 | L -> NiTi + Ni3Ti | L: Ti 0.378; NiTi: Ti 0.438; Ni3Ti: Ti 0.251 | model | [1] Santhy 2015 | Table 4, p. 4, row 1 |  |
 | 1396.15 | L \<=> NiTi + Ni3Ti | L: Ti 0.378; NiTi: Ti 0.438; Ni3Ti: Ti 0.251 | model | [1] Santhy 2015 | Table 8, p. 4, row 5 |  |
 | 1393.15 | L \<=> NiTi + Ni3Ti | L: Ti 0.38; NiTi: Ti 0.43; Ni3Ti: Ti 0.254 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 6 |  |
 | 1393.15 | L -> NiTi + Ni3Ti | L: Ti 0.38; NiTi: Ti 0.43; Ni3Ti: Ti 0.254 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 2 |  |
-| 1392.15 | Eutectic: L -> TiNi3 + TiNi | L: Ti 0.377; TiNi3: Ti 0.251; TiNi: Ti 0.438 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 4 |  |
+| 1392.15 | eutectic: L -> TiNi3 + TiNi | L: Ti 0.377; TiNi3: Ti 0.251; TiNi: Ti 0.438 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 4 |  |
 | 1280 | L + Laves_C36 -> Laves_C14 + NiTi | NiTi: Ti 0.5 | model | [3] Huang 2018 | Table 4, p. 6, row 1 |  |
 | 1275 | L + Laves_C36 + NiTi -> Laves_C14 | NiTi: Ti 0.5 | model | [3] Huang 2018 | Table 4, p. 6, row 2 |  |
-| 1258.15 | Peritectic: L + TiNi -> Ti2Ni | L: Ti 0.669; TiNi: Ti 0.507; Ti2Ni: Ti 0.667 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 5 |  |
+| 1258.15 | peritectic: L + TiNi -> Ti2Ni | L: Ti 0.669; TiNi: Ti 0.507; Ti2Ni: Ti 0.667 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 5 |  |
 | 1257.15 | L + NiTi -> NiTi2 | L: Ti 0.51; NiTi: Ti 0.66; NiTi2: Ti 0.667 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 6 |  |
 | 1257.15 | L + NiTi \<=> NiTi2 | L: Ti 0.672; NiTi: Ti 0.523; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 8, p. 4, row 9 |  |
 | 1257.15 | L + NiTi -> NiTi2 | L: Ti 0.672; NiTi: Ti 0.523; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 4, p. 4, row 5 |  |
 | 1257.15 | L + NiTi \<=> NiTi2 | L: Ti 0.667; NiTi: Ti 0.51; NiTi2: Ti 0.66 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 10 |  |
 | 1215.15 | L \<=> NiTi2 + (β-Ti) | L: Ti 0.751; NiTi2: Ti 0.894; (β-Ti): Ti 0.69 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 12 |  |
-| 1215.15 | Eutectic: L -> Ti2Ni + bcc-Ti | L: Ti 0.746; Ti2Ni: Ti 0.667; bcc-Ti: Ti 0.894 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 6 |  |
+| 1215.15 | eutectic: L -> Ti2Ni + bcc-Ti | L: Ti 0.746; Ti2Ni: Ti 0.667; bcc-Ti: Ti 0.894 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 6 |  |
 | 1215.15 | L -> NiTi2 + (β-Ti) | L: Ti 0.751; NiTi2: Ti 0.894; (β-Ti): Ti 0.69 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 8 |  |
 | 1214.15 | L -> NiTi2 + (β-Ti) | L: Ti 0.745; NiTi2: Ti 0.667; (β-Ti): Ti 0.906 | model | [1] Santhy 2015 | Table 4, p. 4, row 7 |  |
 | 1214.15 | L \<=> NiTi2 + (β-Ti) | L: Ti 0.745; NiTi2: Ti 0.667; (β-Ti): Ti 0.906 | model | [1] Santhy 2015 | Table 8, p. 4, row 11 |  |
@@ -242,7 +242,7 @@ Table: Invariant reactions reported in the literature for the Ni–Ti system (35
 | 1163 | L + Laves_C14 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [3] Huang 2018 | Table 4, p. 6, row 4 |  |
 | 1162 | L + Laves_C15 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [3] Huang 2018 | Table 4, p. 6, row 5 |  |
 | 1130.15 | eutectic |  | model | [2] Cacciamani 2011 | p. 11 | “Characteristic features of the projection are as follows: (a) the large primary solidification area of TiB2 (which is however smaller than the HfB2 area in B-Hf-Ni), (b) the deep valley close to the Ni-Ti binary subsystem which includes the lowest ternary eutectic of the system Liquid TiB2 + TiNi + TiNi3 at 857 °C.” |
-| 1040.15 | Eutectoid: bcc-Ti -> Ti2Ni + hcp-Ti | bcc-Ti: Ti 0.947; Ti2Ni: Ti 0.667; hcp-Ti: Ti 0.998 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 7 |  |
+| 1040.15 | eutectoid: bcc-Ti -> Ti2Ni + hcp-Ti | bcc-Ti: Ti 0.947; Ti2Ni: Ti 0.667; hcp-Ti: Ti 0.998 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 7 |  |
 | 1038.15 | (β-Ti) \<=> (α-Ti) + NiTi2 | (β-Ti): Ti 0.999; (α-Ti): Ti 0.95; NiTi2: Ti 0.69 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 14 |  |
 | 1038.15 | (β-Ti) -> (α-Ti) + NiTi2 | (β-Ti): Ti 0.95; (α-Ti): Ti 0.999; NiTi2: Ti 0.69 | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 10 |  |
 | 1036.15 | (β-Ti) \<=> (α-Ti) + NiTi2 | (β-Ti): Ti 0.95; (α-Ti): Ti 0.998; NiTi2: Ti 0.667 | model | [1] Santhy 2015 | Table 8, p. 4, row 13 |  |
@@ -443,7 +443,7 @@ Table: Phase transition, Ni–Ti system
 | Phase transition | 1573 K | 1573 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 26 |  |
 | Phase transition | 1576 K | 1576 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 27 |  |
 | Phase transition | 1580 K | 1580 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 16 |  |
-| Phase transition | 1582.15 K | 1582.15 | Congruent: L -> TiNi; _L: Ti 0.5; TiNi: Ti 0.5_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 2 |  |
+| Phase transition | 1582.15 K | 1582.15 | congruent melting: L -> TiNi; _L: Ti 0.5; TiNi: Ti 0.5_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 2 |  |
 | Phase transition | 1583 K | 1583 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 13 |  |
 | Phase transition | 1583.15 K | 1583.15 | L -> NiTi; _NiTi: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 4 |  |
 | Phase transition | 1583.15 K | 1583.15 | L -> NiTi; _NiTi: Ti 0.499_ | model | [1] Santhy 2015 | Table 4, p. 4, row 3 |  |
@@ -451,15 +451,15 @@ Table: Phase transition, Ni–Ti system
 | Phase transition | 1583.15 K | 1583.15 | L \<=> NiTi; _NiTi: Ti 0.5_ | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 8 |  |
 | Phase transition | 1584 K | 1584 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 14 |  |
 | Phase transition | 1585 K | 1585 | B2 + liquid | model | [6] Tang 1999 | p. 11 | “The calculated melting point of B2 (1585 K) also agrees better with experimental data (1513±1583 K).” |
-| Phase transition | 1585 K | 1585 | congruent | model | [6] Tang 1999 | p. 6 | “In addition, the calculated congruent melting temperature is 1585 K that is closer to the experimental data (1513±1583 K) than before.” |
+| Phase transition | 1585 K | 1585 | congruent transformation | model | [6] Tang 1999 | p. 6 | “In addition, the calculated congruent melting temperature is 1585 K that is closer to the experimental data (1513±1583 K) than before.” |
 | Phase transition | 1585 K | 1585 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 15 |  |
-| Phase transition | 1605 K | 1605 | congruent | model | [6] Tang 1999 | p. 5 | “In addition, the previous evaluation for the congruent melting temperature of B2 is 1605 K; that is higher than the experimental data which range from 1513 to 1583 K \[22\].” |
+| Phase transition | 1605 K | 1605 | congruent transformation | model | [6] Tang 1999 | p. 5 | “In addition, the previous evaluation for the congruent melting temperature of B2 is 1605 K; that is higher than the experimental data which range from 1513 to 1583 K \[22\].” |
 | Phase transition | 1648 K | 1648 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 21 |  |
 | Phase transition | 1650 K | 1650 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 23 |  |
 | Phase transition | 1653 K | 1653 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 22 |  |
 | Phase transition | 1653.15 K | 1653.15 | L \<=> Ni3Ti; _L: Ti 0.231; Ni3Ti: Ti 0.25_ | model | [1] Santhy 2015 | Table 8, p. 4, row 3 |  |
 | Phase transition | 1653.15 K | 1653.15 | L \<=> Ni3Ti; _Ni3Ti: Ti 0.25_ | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 4 |  |
-| Phase transition | 1657.15 K | 1657.15 | Congruent: L -> TiNi3; _L: Ti 0.25; TiNi3: Ti 0.25_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 1 |  |
+| Phase transition | 1657.15 K | 1657.15 | congruent melting: L -> TiNi3; _L: Ti 0.25; TiNi3: Ti 0.25_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 1 |  |
 | Phase transition | 1660 K | 1660 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 24 |  |
 
 ### Formation (4)

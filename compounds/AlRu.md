@@ -1,32 +1,25 @@
 # AlRu: enthalpy of formation
 
-> Enthalpy of formation of AlRu: 14 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AlRu: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlRu.html · Markdown: https://data.orchid-project.org/compounds/AlRu.md
 
-14 accepted literature formation-enthalpy value(s) (experimental 2, model 6, DFT 6); experimental median -62.05 kJ/mol-atom (n = 2); Materials Project -64.98 kJ/mol-atom (mp-aaabewqb); OQMD -63.946 kJ/mol-atom (oqmd-18193).
+7 accepted literature formation-enthalpy value(s) (experimental 1, model 3, DFT 3); experimental median -62.05 kJ/mol-atom (n = 1); Materials Project -64.98 kJ/mol-atom (mp-aaabewqb); OQMD -63.946 kJ/mol-atom (oqmd-18193).
 
 Systems: [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlRu reported in the literature (14)
+Table: Enthalpy of formation of AlRu reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -62.05 kJ/mol-atom ± 3 | RuAl | 298.15 | experimental | calorimetry | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Jun_ | Table 2, p. 3, row 10 |  |
-| -62.05 kJ/mol-atom ± 3 | RuAl | 298.15 | experimental | calorimetry | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Jun_ | Table 2, p. 3, row 10 |  |
-| -51.126 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 14 |  |
 | -51.126 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 14 |  |
 | -51.057 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 15 |  |
-| -51.057 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 15 |  |
-| -47.32 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 9 |  |
 | -47.32 kJ/mol-atom | RuAl |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 9 |  |
 | -95.51 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 2002Gar_ | Table 2, p. 3, row 13 |  |
-| -95.51 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 2002Gar_ | Table 2, p. 3, row 13 |  |
 | -70.74 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Lin_ | Table 2, p. 3, row 11 |  |
-| -70.74 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1992Lin_ | Table 2, p. 3, row 11 |  |
-| -58.15 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1999Man_ | Table 2, p. 3, row 12 |  |
 | -58.15 kJ/mol-atom | RuAl |  | DFT | ab initio | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1999Man_ | Table 2, p. 3, row 12 |  |
 
 ## DFT formation energies

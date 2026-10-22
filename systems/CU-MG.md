@@ -80,7 +80,7 @@ Table: Invariant reactions reported in the literature for the Cu–Mg system (22
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 998.8 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.213; fcc: Mg 0.074; Cu2Mg-C15: Mg 0.314 | model | [1] Zhou 2007 | Table 5, p. 6, row 13 |  |
-| 998.6 | Eutectic: Liquid -> fcc-A1 + Laves-C15 | Liquid: Mg 0.209; fcc-A1: Mg 0.069; Laves-C15: Mg 0.313 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 1 |  |
+| 998.6 | eutectic: Liquid -> fcc-A1 + Laves-C15 | Liquid: Mg 0.209; fcc-A1: Mg 0.069; Laves-C15: Mg 0.313 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 1 |  |
 | 998.3 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.214; fcc: Mg 0.075; Cu2Mg-C15: Mg 0.316 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 15 |  |
 | 998 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.209; fcc: Mg 0.069; Cu2Mg-C15: Mg 0.313 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 14 |  |
 | 998 | Liq -> fcc + Cu2Mg-C15 | L: Mg 0.23 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 17 |  |
@@ -90,11 +90,11 @@ Table: Invariant reactions reported in the literature for the Cu–Mg system (22
 | 828 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 23 |  |
 | 826.5 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.594; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.361 | model | [1] Zhou 2007 | Table 5, p. 6, row 19 |  |
 | 825.5 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.595; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.356 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 20 |  |
-| 825.5 | Eutectic: Liquid -> Laves-C15 + CuMg2 | Liquid: Mg 0.595; Laves-C15: Mg 0.356; CuMg2: Mg 0.667 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 2 |  |
+| 825.5 | eutectic: Liquid -> Laves-C15 + CuMg2 | Liquid: Mg 0.595; Laves-C15: Mg 0.356; CuMg2: Mg 0.667 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 2 |  |
 | 825.2 | Liq -> CuMg2-Cb + Cu2Mg-C15 | L: Mg 0.588; CuMg2-Cb: Mg 0.667; Cu2Mg-C15: Mg 0.359 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 21 |  |
 | 825 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 24 |  |
 | 825 | Liq -> CuMg2-Cb + Cu2Mg-C15 | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 25 |  |
-| 759.7 | Eutectic: Liquid -> CuMg2 + hcp-A3 | Liquid: Mg 0.839; CuMg2: Mg 0.667; hcp-A3: Mg 1 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 3 |  |
+| 759.7 | eutectic: Liquid -> CuMg2 + hcp-A3 | Liquid: Mg 0.839; CuMg2: Mg 0.667; hcp-A3: Mg 1 | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 3 |  |
 | 759 | Liq -> hcp + CuMg2-Cb | L: Mg 0.839; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 27 |  |
 | 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.841; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 28 |  |
 | 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.855; CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 30 |  |
@@ -122,18 +122,18 @@ Table: Phase transition, Cu–Mg system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 840.5 K | 840.5 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007 | Table 5, p. 6, row 8 |  |
-| Phase transition | 841 K | 841 | Congruent: CuMg2 -> Liquid; _CuMg2: Mg 0.666; Liquid: Mg 0.666_ | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 4 |  |
 | Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 12 |  |
 | Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.666667; CuMg2-Cb: Mg 0.666667_ | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 11 |  |
 | Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 10 |  |
 | Phase transition | 841 K | 841 | Liq -> CuMg2-Cb; _L: Mg 0.667; CuMg2-Cb: Mg 0.667_ | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 9 |  |
+| Phase transition | 841 K | 841 | congruent melting: CuMg2 -> Liquid; _CuMg2: Mg 0.666; Liquid: Mg 0.666_ | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 4 |  |
 | Phase transition | 1063 K | 1063 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 4 |  |
 | Phase transition | 1066 K | 1066 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | experimental | [1] Zhou 2007; _cites Bagnoud 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690209) | Table 5, p. 6, row 7 |  |
 | Phase transition | 1066.2 K | 1066.2 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007; _cites Zou 1993_ | Table 5, p. 6, row 3 |  |
 | Phase transition | 1066.3 K | 1066.3 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007 | Table 5, p. 6, row 1 |  |
 | Phase transition | 1070 K | 1070 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Sahmen 1908_ [doi](https://doi.org/10.1002/zaac.19080570102) | Table 5, p. 6, row 5 |  |
 | Phase transition | 1073 K | 1073 | Liq -> Cu2Mg-C15; _L: Mg 0.333; Cu2Mg-C15: Mg 0.333_ | model | [1] Zhou 2007; _cites Coughanowr 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820711) | Table 5, p. 6, row 2 |  |
-| Phase transition | 1073.5 K | 1073.5 | Congruent: Laves-C15 -> Liquid; _Laves-C15: Mg 0.333; Liquid: Mg 0.333_ | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 5 |  |
+| Phase transition | 1073.5 K | 1073.5 | congruent melting: Laves-C15 -> Liquid; _Laves-C15: Mg 0.333; Liquid: Mg 0.333_ | unspecified | [2] Hämäläinen 1998 | Table I, p. 190, row 5 |  |
 | Phase transition | 1092 K | 1092 | Liq -> Cu2Mg-C15 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 6 |  |
 
 ## Sources

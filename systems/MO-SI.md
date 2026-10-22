@@ -1,10 +1,10 @@
 # Mo–Si system
 
-> Mo–Si system: 341 accepted literature values (formation 262, invariant reaction 45, phase transition 29, phase equilibrium 4) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Si system: 314 accepted literature values (formation 235, invariant reaction 45, phase transition 29, phase equilibrium 4) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-SI.html · Markdown: https://data.orchid-project.org/systems/MO-SI.md
 
-341 accepted literature values from 4 paper(s) (experimental 123, model 217, DFT 1); 7 calculated phase diagram(s).
+314 accepted literature values from 4 paper(s) (experimental 111, model 202, DFT 1); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-SI.json) · [CSV](https://data.orchid-project.org/systems/MO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-SI/MoSi-00Liu.json) · [Markdown](https://data.orchid-project.org/systems/MO-SI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 123 |
-| model | 217 |
+| experimental | 111 |
+| model | 202 |
 | DFT | 1 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 45 |
 | phase transition | 29 |
 | phase equilibrium | 4 |
-| formation | 262 |
+| formation | 235 |
 | heat capacity / entropy / enthalpy | 1 |
 
 ## Calculated phase diagrams
@@ -159,7 +159,7 @@ Table: Invariant reactions reported in the literature for the Mo–Si system (45
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Si system (148)
+Table: Enthalpies of formation, Mo–Si system (121)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -167,16 +167,13 @@ Table: Enthalpies of formation, Mo–Si system (148)
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -35.83 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Zhong 2016_ | Table 8, p. 10, row 4 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -32.28 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Zhong 2016_ | Table 8, p. 10, row 5 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -31.75 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -31.75 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -31.75 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -31.3 kJ/mol-atom ± 1.5 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Tomaszkiewicz 1996_ | Table 8, p. 10, row 24 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -31.3 kJ/mol-atom ± 1.5 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Tomaszkiewicz 1996_ | Table 8, p. 10, row 24 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -30.5 kJ/mol-atom ± 1.5 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 15 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -30.5 kJ/mol-atom ± 1.5 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 15 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.8052 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.8052 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 8 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.8052 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.7102 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.7102 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.7102 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.6 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Machlin 1981_ | Table 8, p. 10, row 35 |  |
@@ -185,25 +182,19 @@ Table: Enthalpies of formation, Mo–Si system (148)
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.3 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Guo 2012_ | Table 8, p. 10, row 9 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.259 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010 | Table 2, p. 6, row 10 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.1 kJ/mol-atom ± 3 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.1 kJ/mol-atom ± 3 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.1 kJ/mol-atom ± 3 | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.1 kJ/mol-atom ± 3 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Chart 1974_ | Table 8, p. 10, row 40 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.1 kJ/mol-atom ± 3 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Chart 1974_ | Table 8, p. 10, row 40 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.1 kJ/mol-atom ± 3 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.1 kJ/mol-atom ± 3 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -29.1 kJ/mol-atom ± 3 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -28.372 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -28.372 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -28.372 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -27.9 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000 | Table 2, p. 6, row 9 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -27.9 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000 | Table 2, p. 6, row 9 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -27.9 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -26 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Niessen 1981_ | Table 8, p. 10, row 33 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -25.418 kJ/mol-atom | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -25.418 kJ/mol-atom | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -25.418 kJ/mol-atom | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -24.89 kJ/mol-atom ± 2.09 | 298 | model | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [1] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
-| Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -24.89 kJ/mol-atom ± 2.09 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -24.89 kJ/mol-atom ± 2.09 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -24.4 kJ/mol-atom ± 4.2 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Searcy 1960_ | Table 8, p. 10, row 43 |  |
 | Mo3Si | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | -24.4 kJ/mol-atom ± 4.2 | 298 | experimental | -30.345 (mp-aaaaabxb) | -29.355 (oqmd-5887) | [3] Czerny 2024; _cites Searcy 1960_ | Table 8, p. 10, row 43 |  |
@@ -211,45 +202,34 @@ Table: Enthalpies of formation, Mo–Si system (148)
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -39.3 kJ/mol-atom ± 1.1 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024; _cites Tomaszkiewicz 1997_ | Table 8, p. 10, row 23 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -39.2 kJ/mol-atom ± 1.5 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 16 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -39.1725 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 16 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -39.1725 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 16 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -39.1725 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -39 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024; _cites Guo 2012_ | Table 8, p. 10, row 10 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -39 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024; _cites Geng 2010_ | Table 8, p. 10, row 13 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.983 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010 | Table 2, p. 6, row 10 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.98 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000 | Table 2, p. 6, row 18 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.98 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000 | Table 2, p. 6, row 18 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.98 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.7 kJ/mol-atom ± 3 | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.7 kJ/mol-atom ± 3 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.7 kJ/mol-atom ± 3 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 11 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.7 kJ/mol-atom ± 3 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 11 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.7 kJ/mol-atom ± 3 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 12 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.7 kJ/mol-atom ± 3 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 12 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.682 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 14 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.682 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 14 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.68 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.62 kJ/mol-atom ± 2.09 | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.62 kJ/mol-atom ± 2.09 | 2000 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 10 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.62 kJ/mol-atom ± 2.09 | 2000 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 10 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.2 kJ/mol-atom ± 1.6 | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024 | Table 8, p. 10, row 2 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -38.2 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024 | Table 8, p. 10, row 2 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.813 kJ/mol-atom | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 13 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.813 kJ/mol-atom | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 13 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.813 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.4 kJ/mol-atom ± 0.1 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024; _cites Ohmori 1982_ | Table 8, p. 10, row 32 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.4 kJ/mol-atom ± 0.1 | 298 | experimental | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [3] Czerny 2024; _cites Ohmori 1982_ | Table 8, p. 10, row 32 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0884 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 17 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0884 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 17 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0884 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
-| Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0084 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 15 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0084 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 15 |  |
 | Mo5Si3 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | -37.0084 kJ/mol-atom | 298 | model | -38.65 (mp-aaaaabzg) | -38.421 (oqmd-6653) | [1] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -47.4 kJ/mol-atom ± 1 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024; _cites Maslov 1978_ | Table 8, p. 10, row 39 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -47.4 kJ/mol-atom ± 1 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024; _cites Maslov 1978_ | Table 8, p. 10, row 39 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 26 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 26 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 24 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 24 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -46.5157 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.7 kJ/mol-atom ± 1.5 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024; _cites OHare 1993_ | Table 8, p. 10, row 30 |  |
@@ -258,14 +238,10 @@ Table: Enthalpies of formation, Mo–Si system (148)
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.7 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024; _cites Costa 1994_ | Table 8, p. 10, row 27 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.6667 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.6667 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 25 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.6667 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 25 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.156 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000 | Table 2, p. 6, row 27 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.156 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000 | Table 2, p. 6, row 27 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -45.156 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.9 kJ/mol-atom ± 3 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 20 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.9 kJ/mol-atom ± 3 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 20 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.9 kJ/mol-atom ± 3 | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.9 kJ/mol-atom ± 3 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 21 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.9 kJ/mol-atom ± 3 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 21 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.9 kJ/mol-atom ± 3 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.816 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010 | Table 2, p. 6, row 10 |  |
@@ -273,13 +249,10 @@ Table: Enthalpies of formation, Mo–Si system (148)
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.8 kJ/mol-atom ± 3.3 | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024; _cites Geng 2010_ | Table 8, p. 10, row 14 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.76 kJ/mol-atom ± 2.09 | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.76 kJ/mol-atom ± 2.09 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 19 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.76 kJ/mol-atom ± 2.09 | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 19 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -43.7 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [3] Czerny 2024 | Table 8, p. 10, row 3 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -42.53 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 23 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -42.53 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 23 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -42.53 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -39.609 kJ/mol-atom | 298 | model | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [1] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
-| MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -39.609 kJ/mol-atom | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 22 |  |
 | MoSi2 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | -39.609 kJ/mol-atom | 298 | experimental | -48.078 (mp-aaaaadvs) | -47.919 (oqmd-17715) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 22 |  |
 | UNKNOWN |  | -46.5157 kJ/mol-atom | 298 | model |  |  | [1] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 | UNKNOWN |  | -46.5157 kJ/mol-atom | 298 | model |  |  | [1] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
@@ -324,30 +297,30 @@ Table: Phase transition, Mo–Si system
 | Phase transition | 2173 K | 2173 | polymorphic | experimental | [3] Czerny 2024 | p. 3 | “The authors also included a presumed polymorphic transformation of the MoSi2 phase at 2173 K, from a tetragonal C11b structure to a hexagonal C40 structure (notation according to the Strukturbericht).” |
 | Phase transition | 2173 K | 2173 | polymorphic | experimental | [2] Liu 2000; _cites Svechnikov 1969_ | p. 1 | “Svechnikov et al. \[17±19\] reported that the MoSi2 phase undergoes a polymorphic transformation from a low-temperature tetragonal C11b structure to a hightemperature hexagonal C40 structure at about 2173 K.” |
 | Phase transition | 2173.15 K | 2173.15 | polymorphic | experimental | [1] Geng 2010; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | p. 2 | “Gokhale and Abbaschian \[23\] and Svechnikov et al. \[25\] reported that the MoSi2 phase undergoes a polymorphic transformation from a low-temperature tetragonal α MoSi2 structure to a high-temperature hexagonal β MoSi2 structure at about T α-β = 1900 °C.” |
-| Phase transition | 2253 K | 2253 | congruent: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Cherniack 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14372.x) | Table 4, p. 7, row 27 |  |
+| Phase transition | 2253 K | 2253 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Cherniack 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14372.x) | Table 4, p. 7, row 27 |  |
 | Phase transition | 2253.15 K | 2253.15 |  | experimental | [3] Czerny 2024; _cites Cherniak 1964_ | p. 3 | “In this publication, they reported the melting points of Mo5 Si3 and MoSi2 to be 2358.15 and 2253.15 K, respectively, and the eutectic temperature involving Mo5 Si3 and MoSi2 to be 2173.15 K.” |
 | Phase transition | 2292 K | 2292 | L -> MoSi2; _L: Si 0.666; MoSi2: Si 0.666667_ | model | [3] Czerny 2024 | Table 7, p. 9, row 9 |  |
 | Phase transition | 2293 K | 2293 |  | model | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | p. 1 | “The need for materials for high temperature (T>1773 K) applications has led to the development of materials based on molybdenum disilicide in view of its favorable properties, which include high melting point (2293 K \[1\]), excellent oxidation resistance at high temperatures and reasonable density (6.24 g/cm3 \[2\]).” |
 | Phase transition | 2293 K | 2293 | L -> MoSi2; _L: Si 0.666; MoSi2: Si 0.666667_ | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 10 |  |
-| Phase transition | 2293 K | 2293 | congruent: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | model | [2] Liu 2000 | Table 4, p. 7, row 31 |  |
-| Phase transition | 2293 K | 2293 | congruent: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | Table 4, p. 7, row 30 |  |
-| Phase transition | 2293 K | 2293 | congruent: MoSi2\<->liquid; _MoSi2: Si 0.666667; liquid: Si 0.666667_ | experimental | [2] Liu 2000; _cites Svechnikov 1971_ | Table 4, p. 7, row 28 |  |
+| Phase transition | 2293 K | 2293 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | model | [2] Liu 2000 | Table 4, p. 7, row 31 |  |
+| Phase transition | 2293 K | 2293 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | Table 4, p. 7, row 30 |  |
+| Phase transition | 2293 K | 2293 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.666667; liquid: Si 0.666667_ | experimental | [2] Liu 2000; _cites Svechnikov 1971_ | Table 4, p. 7, row 28 |  |
 | Phase transition | 2293.15 K | 2293.15 | L \<-> MoSi2; _L: Si 0.666667; MoSi2: Si 0.666667_ | model | [1] Geng 2010 | Table 1, p. 5, row 18 |  |
 | Phase transition | 2293.15 K | 2293.15 | L \<-> MoSi2; _L: Si 0.666667; MoSi2: Si 0.666667_ | experimental | [1] Geng 2010; _cites Schlesinger 1993_ | Table 1, p. 5, row 16 |  |
 | Phase transition | 2294.15 K | 2294.15 | L \<-> MoSi2; _L: Si 0.666667; MoSi2: Si 0.666667_ | model | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 1, p. 5, row 17 |  |
 | Phase transition | 2299 K | 2299 |  | experimental | [2] Liu 2000 | p. 2 | “The authors pointed out that the metastable melting point of MoSi2-C40 was 2299 K.” |
-| Phase transition | 2303 K | 2303 | congruent: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 29 |  |
-| Phase transition | 2358 K | 2358 | congruent: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Cherniack 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14372.x) | Table 4, p. 7, row 22 |  |
+| Phase transition | 2303 K | 2303 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 29 |  |
+| Phase transition | 2358 K | 2358 | congruent melting: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Cherniack 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14372.x) | Table 4, p. 7, row 22 |  |
 | Phase transition | 2358.15 K | 2358.15 |  | experimental | [3] Czerny 2024; _cites Cherniak 1964_ | p. 3 | “In this publication, they reported the melting points of Mo5 Si3 and MoSi2 to be 2358.15 and 2253.15 K, respectively, and the eutectic temperature involving Mo5 Si3 and MoSi2 to be 2173.15 K.” |
-| Phase transition | 2441 K | 2441 | congruent: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | model | [2] Liu 2000 | Table 4, p. 7, row 26 |  |
+| Phase transition | 2441 K | 2441 | congruent melting: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | model | [2] Liu 2000 | Table 4, p. 7, row 26 |  |
 | Phase transition | 2441.15 K | 2441.15 | L \<-> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | model | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 1, p. 5, row 14 |  |
 | Phase transition | 2452 K | 2452 | L -> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | model | [3] Czerny 2024 | Table 7, p. 9, row 5 |  |
 | Phase transition | 2453 K | 2453 | L -> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 6 |  |
-| Phase transition | 2453 K | 2453 | congruent: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | Table 4, p. 7, row 25 |  |
-| Phase transition | 2453 K | 2453 | congruent: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Svechnikov 1971_ | Table 4, p. 7, row 23 |  |
+| Phase transition | 2453 K | 2453 | congruent melting: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | Table 4, p. 7, row 25 |  |
+| Phase transition | 2453 K | 2453 | congruent melting: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Svechnikov 1971_ | Table 4, p. 7, row 23 |  |
 | Phase transition | 2453.15 K | 2453.15 | L \<-> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | model | [1] Geng 2010 | Table 1, p. 5, row 15 |  |
 | Phase transition | 2453.15 K | 2453.15 | L \<-> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | experimental | [1] Geng 2010; _cites Schlesinger 1993_ | Table 1, p. 5, row 13 |  |
-| Phase transition | 2463 K | 2463 | congruent: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 24 |  |
+| Phase transition | 2463 K | 2463 | congruent melting: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 24 |  |
 | Phase transition | 3800 K | 3800 | other | model | [4] Guo 2012; _cites Geng 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.003) | p. 2 | “But the miscibility gap in liquid in Ref. \[26\] occurs at about 3800 K.” |
 
 ### Phase equilibrium (4)

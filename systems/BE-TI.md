@@ -1,10 +1,10 @@
 # Be–Ti system
 
-> Be–Ti system: 54 accepted literature values (formation 41, crystal structure 10, phase transition 2, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Be–Ti system: 46 accepted literature values (formation 33, crystal structure 10, phase transition 2, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BE-TI.html · Markdown: https://data.orchid-project.org/systems/BE-TI.md
 
-54 accepted literature values from 1 paper(s) (experimental 3, model 51); 1 calculated phase diagram(s).
+46 accepted literature values from 1 paper(s) (experimental 3, model 43); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BE-TI.json) · [CSV](https://data.orchid-project.org/systems/BE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-TI/BeTi-06Tok.json) · [Markdown](https://data.orchid-project.org/systems/BE-TI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 51 |
+| model | 43 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 2 |
-| formation | 41 |
+| formation | 33 |
 | crystal structure | 10 |
 
 ## Calculated phase diagrams
@@ -75,7 +75,7 @@ Table: Invariant reactions reported in the literature for the Be–Ti system (1)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Be–Ti system (41)
+Table: Enthalpies of formation, Be–Ti system (33)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -85,12 +85,9 @@ Table: Enthalpies of formation, Be–Ti system (41)
 | TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -23.6 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 2 |  |
 | TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -23.6 kJ/mol-atom | 0 | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 2 |  |
 | TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -19.1 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 3 |  |
-| TiBe(B2) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | -19.1 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 3 |  |
 | TiBe(B32) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | 28.3 kJ/mol-atom | 0 | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 4 |  |
 | TiBe(B32) | [BeTi](https://data.orchid-project.org/compounds/BeTi.html) | 28.3 kJ/mol-atom |  | model | -13.537 (mp-aaaaaqrv) | -15.798 (oqmd-10906) | [1] Tokunaga 2006 | Table 2, p. 2, row 4 |  |
 | TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -28.5 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 17 |  |
-| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -28.5 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 17 |  |
-| TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -23.8 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 18 |  |
 | TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -23.8 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 18 |  |
 | TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -22.8 kJ/mol-atom |  | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006 | Table 2, p. 2, row 16 |  |
 | TiBe12 | [Be12Ti](https://data.orchid-project.org/compounds/Be12Ti.html) | -22.2 kJ/mol-atom | 0 | model | -14.252 (mp-aaackvgd) | -14.123 (oqmd-28706) | [1] Tokunaga 2006 | Table 2, p. 2, row 16 |  |
@@ -98,22 +95,17 @@ Table: Enthalpies of formation, Be–Ti system (41)
 | TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -29.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10 |  |
 | TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -29.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
 | TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -26.5 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 7 |  |
-| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -26.5 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 7 |  |
 | TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -25.7 kJ/mol-atom | 0 | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
 | TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -25.7 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006 | Table 2, p. 2, row 6 |  |
-| TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -24.9 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 8 |  |
 | TiBe2 | [Be2Ti](https://data.orchid-project.org/compounds/Be2Ti.html) | -24.9 kJ/mol-atom |  | model | -18.697 (mp-aaaaaebt) | -20.324 (oqmd-10907) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 8 |  |
 | TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -29.7 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10 |  |
 | TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -28 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
 | TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -27.9 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
 | TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -27.9 kJ/mol-atom | 0 | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
 | TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -26 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 11 |  |
-| TiBe3 | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -26 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 11 |  |
 | TiBe3(D03) | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -12.8 kJ/mol-atom |  | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 5 |  |
 | TiBe3(D03) | [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.html) | -12.8 kJ/mol-atom | 0 | model | -19.76 (mp-aaackuiz) | -20.401 (oqmd-28705) | [1] Tokunaga 2006 | Table 2, p. 2, row 5 |  |
 | αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -31.3 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13 |  |
-| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -31.3 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13 |  |
-| αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -26.4 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14 |  |
 | αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -26.4 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14 |  |
 | αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -24.3 kJ/mol-atom |  | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
 | αTi2Be17 | [Be17Ti2](https://data.orchid-project.org/compounds/Be17Ti2.html) | -21.4 kJ/mol-atom | 0 | model | -19.177 (mp-aaacqjph) | -19.201 (oqmd-19076) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
@@ -129,7 +121,7 @@ Table: Phase transition, Be–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 673 K | 673 (none) | other | experimental | [1] Tokunaga 2006; _cites Tanner 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | p. 4 | “However, glass transition has not been detected in Ti-Be amorphous alloys using differential scanning calorimetry (DSC) \[1979Tan\], where the DSC traces on heating a Ti-37mol%Be amorphous alloy showed crystallization at T ∼ 673 K, although a glass transition was observed at T ∼ 673 K in the ternary Ti58Be40Zr2 alloy \[1980Tan\].” |
+| Phase transition | 673 K | 673 | other | experimental | [1] Tokunaga 2006; _cites Tanner 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | p. 4 | “However, glass transition has not been detected in Ti-Be amorphous alloys using differential scanning calorimetry (DSC) \[1979Tan\], where the DSC traces on heating a Ti-37mol%Be amorphous alloy showed crystallization at T ∼ 673 K, although a glass transition was observed at T ∼ 673 K in the ternary Ti58Be40Zr2 alloy \[1980Tan\].” |
 | Phase transition | 1088 K | 1088 | other: (betaTi) \<-> (alphaTi) + TiBe2 | experimental | [1] Tokunaga 2006 | p. 5 | “From on microscopy data, Obinata et al. found the eutectic composition at 28.6 mol% Be for L ↔ (␤Ti) + TiBe2 and the eutectoid composition at about 3 mol% Be for (␤Ti) ↔ (␣Ti) + TiBe2, at eutectic and eutectoid temperatures of 1253 and 1088 K, respectively.” |
 
 ### Crystal structure (10)

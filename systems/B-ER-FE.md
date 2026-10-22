@@ -26,9 +26,9 @@ Table: Invariant reactions reported in the literature for the B–Er–Fe system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1399.05 | E: L -> Fe2B + Fe17Er2 + γFe |  | model | [1] Wang 2012 | Table 7, p. 5, row 1 |  |
-| 1381.15 | E: L -> Fe2Er + Fe2B + Fe3Er |  | model | [1] Wang 2012 | Table 7, p. 5, row 3 |  |
-| 1381.05 | E: L -> Fe2B + Fe3Er + Fe23Er6 |  | model | [1] Wang 2012 | Table 7, p. 5, row 2 |  |
+| 1399.05 | eutectic: L -> Fe2B + Fe17Er2 + γFe |  | model | [1] Wang 2012 | Table 7, p. 5, row 1 |  |
+| 1381.15 | eutectic: L -> Fe2Er + Fe2B + Fe3Er |  | model | [1] Wang 2012 | Table 7, p. 5, row 3 |  |
+| 1381.05 | eutectic: L -> Fe2B + Fe3Er + Fe23Er6 |  | model | [1] Wang 2012 | Table 7, p. 5, row 2 |  |
 
 ## Sources
 

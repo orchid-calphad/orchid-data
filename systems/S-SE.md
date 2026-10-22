@@ -75,7 +75,7 @@ Table: Phase transition, S–Se system
 | Phase transition | 388 K | 388 |  | experimental | [1] Guan 2017 | p. 5 | “The agreement for TEC \[73\] in the low-temperature range is also good, but deviates in the high-temperature range (above 300 K, note that the melting temperature of sulfur is 388 K).” |
 | Phase transition | 428 K | 428 |  | model | [1] Guan 2017 | p. 1 | “The prediction of the transition temperature between a-S and b-S (428 K) is close to the experimental value (369 K).” |
 | Phase transition | 428 K | 428 |  | model | [1] Guan 2017 | p. 5 | “The a-S/b-S transition temperature is predicted to be 428 K, which is reasonably close to the experimental value, 369 K \[74\].” |
-| Phase transition | 1029 K | 1029 | congruent | model | [1] Guan 2017 | p. 8 | “The present assessment indicates a congruent volatilization temperature at 1029 K and composition 76 at.% Se at 1 bar, which is suitable for experimental verification as well as evaluating the accuracy of the present description of the gas phase.” |
+| Phase transition | 1029 K | 1029 | congruent transformation | model | [1] Guan 2017 | p. 8 | “The present assessment indicates a congruent volatilization temperature at 1029 K and composition 76 at.% Se at 1 bar, which is suitable for experimental verification as well as evaluating the accuracy of the present description of the gas phase.” |
 
 ### Crystal structure (21)
 

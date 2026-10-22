@@ -1,10 +1,10 @@
 # Mo–Ni system
 
-> Mo–Ni system: 77 accepted literature values (formation 46, invariant reaction 20, phase transition 11) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ni system: 73 accepted literature values (formation 46, invariant reaction 16, phase transition 11) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NI.html · Markdown: https://data.orchid-project.org/systems/MO-NI.md
 
-77 accepted literature values from 6 paper(s) (experimental 16, model 15, DFT 46); 5 calculated phase diagram(s).
+73 accepted literature values from 6 paper(s) (experimental 16, model 11, DFT 46); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI.json) · [CSV](https://data.orchid-project.org/systems/MO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-NI/MoNi-01Mor.json) · [Markdown](https://data.orchid-project.org/systems/MO-NI.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 16 |
-| model | 15 |
+| model | 11 |
 | DFT | 46 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
+| invariant reaction | 16 |
 | phase transition | 11 |
 | formation | 46 |
 
@@ -88,14 +88,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mo–Ni system (20)
+Table: Invariant reactions reported in the literature for the Mo–Ni system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1619 | Liquid + bcc -> δ-NiMo | δ-NiMo: Ni 0.5 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 3 |  |
-| 1618 | Liquid + bcc -> δ-NiMo | L: Ni 0.624; bcc: Ni 0.018; δ-NiMo: Ni 0.473 | model | [1] Zhou 2005 | Table 4, p. 8, row 2 |  |
 | 1618 | Liquid + bcc -> δ-NiMo | L: Ni 0.624; bcc: Ni 0.018; δ-NiMo: Ni 0.473 | model | [1] Zhou 2005 | Table 4, p. 8, row 1 |  |
-| 1577 | Liquid -> δ-NiMo + fcc | L: Ni 0.662; δ-NiMo: Ni 0.521; fcc: Ni 0.729 | model | [1] Zhou 2005 | Table 4, p. 8, row 5 |  |
 | 1577 | Liquid -> δ-NiMo + fcc | L: Ni 0.662; δ-NiMo: Ni 0.521; fcc: Ni 0.729 | model | [1] Zhou 2005 | Table 4, p. 8, row 4 |  |
 | 1574 | Liquid -> δ-NiMo + fcc | δ-NiMo: Ni 0.5 | experimental | [1] Zhou 2005; _cites Grube 1938_ | Table 4, p. 8, row 6 |  |
 | 1201 | fcc + δ-NiMo -> Ni3Mo | fcc: Ni 0.785; δ-NiMo: Ni 0.518; Ni3Mo: Ni 0.752 | model | [1] Zhou 2005 | Table 4, p. 8, row 7 |  |
@@ -108,8 +106,6 @@ Table: Invariant reactions reported in the literature for the Mo–Ni system (20
 | 1035 | δ-NiMo + Ni3Mo -> Ni2Mo | δ-NiMo: Ni 0.513; Ni3Mo: Ni 0.752; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 13 |  |
 | 1033 | δ-NiMo + Ni3Mo -> Ni2Mo | δ-NiMo: Ni 0.5; Ni3Mo: Ni 0.75; Ni2Mo: Ni 0.666667 | experimental | [1] Zhou 2005; _cites Pearson 1981_ | Table 4, p. 8, row 15 |  |
 | 631 | δ-NiMo -> bcc + Ni2Mo | δ-NiMo: Ni 0.498; bcc: Ni 0; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 19 |  |
-| 631 | δ-NiMo -> bcc + Ni2Mo | δ-NiMo: Ni 0.498; bcc: Ni 0; Ni2Mo: Ni 0.667 | model | [1] Zhou 2005 | Table 4, p. 8, row 20 |  |
-| 557 | fcc + Ni4Mo -> Ni8Mo | fcc: Ni 0.98; Ni4Mo: Ni 0.8; Ni8Mo: Ni 0.889 | model | [1] Zhou 2005 | Table 4, p. 8, row 17 |  |
 | 557 | fcc + Ni4Mo -> Ni8Mo | fcc: Ni 0.98; Ni4Mo: Ni 0.8; Ni8Mo: Ni 0.889 | model | [1] Zhou 2005 | Table 4, p. 8, row 16 |  |
 | 555 | fcc + Ni4Mo -> Ni8Mo | Ni4Mo: Ni 0.8; Ni8Mo: Ni 0.888889 | experimental | [1] Zhou 2005; _cites Mayer 1985_ [doi](https://doi.org/10.1002/pssa.2210900209) | Table 4, p. 8, row 18 |  |
 
@@ -186,7 +182,7 @@ Table: Phase transition, Mo–Ni system
 | Phase transition | 1563.15 K | 1563.15 | L + δ = (Ni) + (Mo,V) | experimental | [5] Pan 2018; _cites Prima 1980_ | p. 3 | “The liquidus projection in the ternary system is dominated by two liquid transition reactions: L + δ = (Ni) + (Mo,V) at 1290 °C and L + (Mo,V) = (Ni) + σ at 1230 °C \[44\].” |
 | Phase transition | 1583 K | 1583 | Liquid þ NiMo 4 bcc þ fcc | experimental | [4] Peng 2016; _cites Maslenkov 1986_ | p. 3 | “This temperature was later confirmed by Maslenkov et al. \[10,11\] as 1583 ± 10 K.” |
 | Phase transition | 1585 K | 1585 | Liquid þ NiMo 4 bcc þ fcc | experimental | [4] Peng 2016; _cites Yoshizawa 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990164-2) | p. 3 | “Yoshizawa et al. \[42\] firstly reported the temperature of the invariant reaction U2: Liquid þ NiMo 4 bcc þ fcc as ~1585 K.” |
-| Phase transition | 1900 K | 1900 (none) | other | experimental | [6] Morishita 2001; _cites Takagi 1987_ | p. 1 | “The ternary intermetallic compound, NiMo 2 B 2 has a high incongruent melting point about 1900 K, high hardness and corrosion resistance against hydrochloric and hydrosulfuric acid aqueous solution.” |
+| Phase transition | 1900 K | 1900 | other | experimental | [6] Morishita 2001; _cites Takagi 1987_ | p. 1 | “The ternary intermetallic compound, NiMo 2 B 2 has a high incongruent melting point about 1900 K, high hardness and corrosion resistance against hydrochloric and hydrosulfuric acid aqueous solution.” |
 
 ## Sources
 

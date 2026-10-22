@@ -50,10 +50,10 @@ Table: Invariant reactions reported in the literature for the Ho–Mo system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2790.15 | Monotectic: L2 -> L1 + (Mo) | L2: Mo 0.908; L1: Mo 0.335; (Mo): Mo 0.994 | model | [1] Wang 2009 | Table 4, p. 4, row 2 |  |
-| 2790.15 | Monotectic: L2 -> L1 + (Mo) | L2: Mo 0.92; L1: Mo 0.35; (Mo): Mo 0.994 | experimental | [1] Wang 2009; _cites Subramanian 1990_ | Table 4, p. 4, row 1 |  |
-| 1705.15 | Eutectic: L -> (Mo) + (Ho) | L: Mo 0.03; (Mo): Mo 0.9994; (Ho): Mo 0.006 | experimental | [1] Wang 2009; _cites Subramanian 1990_ | Table 4, p. 4, row 3 |  |
-| 1705.15 | Eutectic: L -> (Mo) + (Ho) | L: Mo 0.027; (Mo): Mo 0.9997; (Ho): Mo 0.006 | model | [1] Wang 2009 | Table 4, p. 4, row 4 |  |
+| 2790.15 | monotectic: L2 -> L1 + (Mo) | L2: Mo 0.908; L1: Mo 0.335; (Mo): Mo 0.994 | model | [1] Wang 2009 | Table 4, p. 4, row 2 |  |
+| 2790.15 | monotectic: L2 -> L1 + (Mo) | L2: Mo 0.92; L1: Mo 0.35; (Mo): Mo 0.994 | experimental | [1] Wang 2009; _cites Subramanian 1990_ | Table 4, p. 4, row 1 |  |
+| 1705.15 | eutectic: L -> (Mo) + (Ho) | L: Mo 0.03; (Mo): Mo 0.9994; (Ho): Mo 0.006 | experimental | [1] Wang 2009; _cites Subramanian 1990_ | Table 4, p. 4, row 3 |  |
+| 1705.15 | eutectic: L -> (Mo) + (Ho) | L: Mo 0.027; (Mo): Mo 0.9997; (Ho): Mo 0.006 | model | [1] Wang 2009 | Table 4, p. 4, row 4 |  |
 
 ## Sources
 

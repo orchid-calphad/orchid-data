@@ -1,24 +1,21 @@
 # AlIr: enthalpy of formation
 
-> Enthalpy of formation of AlIr: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AlIr: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlIr.html · Markdown: https://data.orchid-project.org/compounds/AlIr.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, DFT 4); experimental median -118 kJ/mol-atom (n = 2); Materials Project -92.527 kJ/mol-atom (mp-aaaaacun); OQMD -91.306 kJ/mol-atom (oqmd-10480).
+3 accepted literature formation-enthalpy value(s) (experimental 1, DFT 2); experimental median -118 kJ/mol-atom (n = 1); Materials Project -92.527 kJ/mol-atom (mp-aaaaacun); OQMD -91.306 kJ/mol-atom (oqmd-10480).
 
 Systems: [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlIr reported in the literature (6)
+Table: Enthalpy of formation of AlIr reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -118 kJ/mol-atom | B2-AlIr | 0 | experimental |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20 |  |
-| -118 kJ/mol-atom | B2-AlIr | 0 | experimental |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20 |  |
 | -92.8 kJ/mol-atom ± 1.8 | AlIr |  | DFT |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006; _cites Jung 1992_ | Table 1, p. 2, row 4 |  |
-| -92.8 kJ/mol-atom ± 1.8 | AlIr |  | DFT |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006; _cites Jung 1992_ | Table 1, p. 2, row 4 |  |
-| -91.9 kJ/mol-atom | AlIr | 0 | DFT | First-principles | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 1, p. 2, row 3 |  |
 | -91.9 kJ/mol-atom | AlIr | 0 | DFT | First-principles | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 1, p. 2, row 3 |  |
 
 ## DFT formation energies

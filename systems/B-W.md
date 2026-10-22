@@ -33,30 +33,30 @@ Table: Invariant reactions reported in the literature for the B–W system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3696.15 | Melting: L -> W | W: B 0 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 1 |  |
-| 3695.15 | Melting: L -> W | W: B 0 | model | [1] Duschanek 1995 | Table 5, p. 7, row 2 |  |
-| 2943.15 | Congruent: L -> W2B | W2B: B 0.335 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 5 |  |
-| 2938.15 | Congruent: L -> βWB | βWB: B 0.48 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 3 |  |
-| 2934.15 | Congruent: L -> βWB | βWB: B 0.486 | model | [1] Duschanek 1995 | Table 5, p. 7, row 4 |  |
-| 2920.15 | Congruent: L -> W2B | W2B: B 0.333 | model | [1] Duschanek 1995 | Table 5, p. 7, row 6 |  |
-| 2890.15 | Eutectic: L -> W + W2B | L: B 0.277; W: B 0.001; W2B: B 0.333 | model | [1] Duschanek 1995 | Table 5, p. 7, row 8 |  |
-| 2873.15 | Eutectic: L -> W + W2B | L: B 0.27; W2B: B 0.33 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 7 |  |
-| 2863.15 | Eutectic: L -> W2B + βWB | L: B 0.405; W2B: B 0.333; βWB: B 0.477 | model | [1] Duschanek 1995 | Table 5, p. 7, row 10 |  |
-| 2853.15 | Eutectic: L -> W2B + βWB | L: B 0.43; W2B: B 0.34; βWB: B 0.475 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 9 |  |
-| 2638.15 | Congruent: L -> W2B5-x | W2B5-x: B 0.68 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 11 |  |
-| 2635.15 | Congruent: L -> W2B5-x | W2B5-x: B 0.684 | model | [1] Duschanek 1995 | Table 5, p. 7, row 12 |  |
-| 2610.15 | Eutectic: L -> βWB + W2B5 | L: B 0.63; βWB: B 0.52; W2B5: B 0.68 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 13 |  |
-| 2610.15 | Eutectic: L -> βWB + W2B5 | L: B 0.638; βWB: B 0.497; W2B5: B 0.672 | model | [1] Duschanek 1995 | Table 5, p. 7, row 14 |  |
-| 2443.15 | Peritectoid: βWB + W2B5-x -> αWB | βWB: B 0.515; W2B5-x: B 0.68; αWB: B 0.52 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 15 |  |
-| 2442.15 | Peritectoid: βWB + W2B5-x -> αWB | βWB: B 0.497; W2B5-x: B 0.672; αWB: B 0.498 | model | [1] Duschanek 1995 | Table 5, p. 7, row 16 |  |
-| 2383.15 | Eutectoid: βWB -> W2B + αWB | βWB: B 0.479; W2B: B 0.333; αWB: B 0.48 | model | [1] Duschanek 1995 | Table 5, p. 7, row 18 |  |
-| 2383.15 | Eutectoid: βWB -> W2B + αWB | βWB: B 0.48; W2B: B 0.34; αWB: B 0.485 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 17 |  |
-| 2373.15 | Melting: L -> B | B: B 1 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 19 |  |
-| 2348.15 | Melting: L -> B | B: B 1 | model | [1] Duschanek 1995 | Table 5, p. 7, row 20 |  |
-| 2306.15 | Peritectic: L + W2B5-x -> W1-xB3 | L: B 0.837; W2B5-x: B 0.707; W1-xB3: B 0.818 | model | [1] Duschanek 1995 | Table 5, p. 7, row 22 |  |
-| 2293.15 | Peritectic: L + W2B5-x -> W1-xB3 | L: B 0.91; W2B5-x: B 0.7; W1-xB3: B 0.81 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 21 |  |
-| 2243.15 | Eutectic: L -> W1-xB3 + B | L: B 0.95; W1-xB3: B 0.82 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 23 |  |
-| 2172.15 | Eutectic: L -> W1-xB3 + B | L: B 0.913; W1-xB3: B 0.818; B: B 1 | model | [1] Duschanek 1995 | Table 5, p. 7, row 24 |  |
+| 3696.15 | congruent melting: L -> W | W: B 0 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 1 |  |
+| 3695.15 | congruent melting: L -> W | W: B 0 | model | [1] Duschanek 1995 | Table 5, p. 7, row 2 |  |
+| 2943.15 | congruent melting: L -> W2B | W2B: B 0.335 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 5 |  |
+| 2938.15 | congruent melting: L -> βWB | βWB: B 0.48 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 3 |  |
+| 2934.15 | congruent melting: L -> βWB | βWB: B 0.486 | model | [1] Duschanek 1995 | Table 5, p. 7, row 4 |  |
+| 2920.15 | congruent melting: L -> W2B | W2B: B 0.333 | model | [1] Duschanek 1995 | Table 5, p. 7, row 6 |  |
+| 2890.15 | eutectic: L -> W + W2B | L: B 0.277; W: B 0.001; W2B: B 0.333 | model | [1] Duschanek 1995 | Table 5, p. 7, row 8 |  |
+| 2873.15 | eutectic: L -> W + W2B | L: B 0.27; W2B: B 0.33 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 7 |  |
+| 2863.15 | eutectic: L -> W2B + βWB | L: B 0.405; W2B: B 0.333; βWB: B 0.477 | model | [1] Duschanek 1995 | Table 5, p. 7, row 10 |  |
+| 2853.15 | eutectic: L -> W2B + βWB | L: B 0.43; W2B: B 0.34; βWB: B 0.475 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 9 |  |
+| 2638.15 | congruent melting: L -> W2B5-x | W2B5-x: B 0.68 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 11 |  |
+| 2635.15 | congruent melting: L -> W2B5-x | W2B5-x: B 0.684 | model | [1] Duschanek 1995 | Table 5, p. 7, row 12 |  |
+| 2610.15 | eutectic: L -> βWB + W2B5 | L: B 0.63; βWB: B 0.52; W2B5: B 0.68 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 13 |  |
+| 2610.15 | eutectic: L -> βWB + W2B5 | L: B 0.638; βWB: B 0.497; W2B5: B 0.672 | model | [1] Duschanek 1995 | Table 5, p. 7, row 14 |  |
+| 2443.15 | peritectoid: βWB + W2B5-x -> αWB | βWB: B 0.515; W2B5-x: B 0.68; αWB: B 0.52 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 15 |  |
+| 2442.15 | peritectoid: βWB + W2B5-x -> αWB | βWB: B 0.497; W2B5-x: B 0.672; αWB: B 0.498 | model | [1] Duschanek 1995 | Table 5, p. 7, row 16 |  |
+| 2383.15 | eutectoid: βWB -> W2B + αWB | βWB: B 0.479; W2B: B 0.333; αWB: B 0.48 | model | [1] Duschanek 1995 | Table 5, p. 7, row 18 |  |
+| 2383.15 | eutectoid: βWB -> W2B + αWB | βWB: B 0.48; W2B: B 0.34; αWB: B 0.485 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 17 |  |
+| 2373.15 | congruent melting: L -> B | B: B 1 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 19 |  |
+| 2348.15 | congruent melting: L -> B | B: B 1 | model | [1] Duschanek 1995 | Table 5, p. 7, row 20 |  |
+| 2306.15 | peritectic: L + W2B5-x -> W1-xB3 | L: B 0.837; W2B5-x: B 0.707; W1-xB3: B 0.818 | model | [1] Duschanek 1995 | Table 5, p. 7, row 22 |  |
+| 2293.15 | peritectic: L + W2B5-x -> W1-xB3 | L: B 0.91; W2B5-x: B 0.7; W1-xB3: B 0.81 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 21 |  |
+| 2243.15 | eutectic: L -> W1-xB3 + B | L: B 0.95; W1-xB3: B 0.82 | experimental | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 5, p. 7, row 23 |  |
+| 2172.15 | eutectic: L -> W1-xB3 + B | L: B 0.913; W1-xB3: B 0.818; B: B 1 | model | [1] Duschanek 1995 | Table 5, p. 7, row 24 |  |
 
 ## Formation enthalpies
 

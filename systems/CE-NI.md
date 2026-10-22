@@ -169,85 +169,85 @@ Table: Invariant reactions reported in the literature for the Ce–Ni system (12
 | 1086.15 | L + CeNi3 -> CeNi2 | CeNi3: Ni 0.75; CeNi2: Ni 0.667 | experimental | [2] Xiong 2007 | Table 4, p. 6, row 23 |  |
 | 1084.15 | L + CeNi3 -> CeNi2 | L: Ni 0.603; CeNi3: Ni 0.75; CeNi2: Ni 0.667 | unspecified | [2] Xiong 2007 | Table 4, p. 6, row 24 |  |
 | 983.15 | (δCe) -> (γCe) + L | (δCe): Ni 0.0058; (γCe): Ni 0; L: Ni 0.062 | unspecified | [2] Xiong 2007 | Table 4, p. 6, row 1 |  |
-| 983 | Metatectic: bcc(Ce) -> fcc(Ce) + L | L: Ni 0.0058 | model | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 1 |  |
-| 982.7 | Metatectic: bcc(Ce) -> fcc(Ce) + L | L: Ni 0.0057 | model | [4] Ye 2023 | Table 7, p. 12, row 2 |  |
+| 983 | metatectic/catatectic: bcc(Ce) -> fcc(Ce) + L | L: Ni 0.0058 | model | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 1 |  |
+| 982.7 | metatectic/catatectic: bcc(Ce) -> fcc(Ce) + L | L: Ni 0.0057 | model | [4] Ye 2023 | Table 7, p. 12, row 2 |  |
 | 973 | bcc (Ce) -> liquid + fcc (Ce) | bcc (Ce): Ni 0.02; liquid: Ni 0.06; fcc (Ce): Ni 0.01 | experimental | [1] Du 2004; _cites Nash 1991_ | Table 2, p. 4, row 2 |  |
 | 973 | bcc (Ce) -> liquid + fcc (Ce) | bcc (Ce): Ni 0.0106; liquid: Ni 0.0653; fcc (Ce): Ni 0.002 | model | [1] Du 2004 | Table 2, p. 4, row 1 |  |
 | 953 | liquid -> CeNi | liquid: Ni 0.5; CeNi: Ce 0.5, Ni 0.5 | experimental | [1] Du 2004; _cites Nash 1991_ | Table 2, p. 4, row 10 |  |
 | 953 | liquid -> CeNi | liquid: Ni 0.5; CeNi: Ce 0.5, Ni 0.5 | model | [1] Du 2004 | Table 2, p. 4, row 9 |  |
-| 933.6 | Eutectic: L -> CeNi + CeNi2 | L: Ni 0.535; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023 | Table 7, p. 12, row 43 |  |
+| 933.6 | eutectic: L -> CeNi + CeNi2 | L: Ni 0.535; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023 | Table 7, p. 12, row 43 |  |
 | 931.15 | L -> CeNi + CeNi2 | L: Ni 0.531; CeNi: Ni 0.5; CeNi2: Ni 0.667 | unspecified | [2] Xiong 2007 | Table 4, p. 6, row 20 |  |
 | 931.15 | L -> CeNi + CeNi2 | CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [2] Xiong 2007 | Table 4, p. 6, row 19 |  |
-| 931 | Eutectic: L -> CeNi + CeNi2 | CeNi: Ni 0.5; CeNi2: Ni 0.666667 | experimental | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 41 |  |
-| 931 | Eutectic: L -> CeNi + CeNi2 | L: Ni 0.531; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 42 |  |
-| 930 | Eutectic: L -> CeNi + CeNi2 | L: Ni 0.547; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 40 |  |
+| 931 | eutectic: L -> CeNi + CeNi2 | CeNi: Ni 0.5; CeNi2: Ni 0.666667 | experimental | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 41 |  |
+| 931 | eutectic: L -> CeNi + CeNi2 | L: Ni 0.531; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 42 |  |
+| 930 | eutectic: L -> CeNi + CeNi2 | L: Ni 0.547; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 40 |  |
 | 928.15 | L -> CeNi + CeNi2 | L: Ni 0.55; CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [2] Xiong 2007; _cites Gebhart 1967_ | Table 4, p. 6, row 17 |  |
 | 928.15 | L -> CeNi + CeNi2 | CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [2] Xiong 2007; _cites Palumbo 2004_ [doi](https://doi.org/10.1016/j.intermet.2004.04.035) | Table 4, p. 6, row 15 |  |
 | 928 | liquid -> CeNi + CeNi2 | liquid: Ni 0.55; CeNi: Ce 0.5, Ni 0.5; CeNi2: Ce 0.333333, Ni 0.666667 | experimental | [1] Du 2004; _cites Nash 1991_ | Table 2, p. 4, row 12 |  |
-| 928 | Eutectic: L -> CeNi + CeNi2 | L: Ni 0.55; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 37 |  |
-| 928 | Eutectic: L -> CeNi + CeNi2 | L: Ni 0.548; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023; _cites ref. 74_ | Table 7, p. 12, row 39 |  |
+| 928 | eutectic: L -> CeNi + CeNi2 | L: Ni 0.55; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 37 |  |
+| 928 | eutectic: L -> CeNi + CeNi2 | L: Ni 0.548; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023; _cites ref. 74_ | Table 7, p. 12, row 39 |  |
 | 928 | liquid -> CeNi + CeNi2 | liquid: Ni 0.5483; CeNi: Ce 0.5, Ni 0.5; CeNi2: Ce 0.333333, Ni 0.666667 | model | [1] Du 2004 | Table 2, p. 4, row 11 |  |
 | 928 | Liquid -> CeNi + CeNi2 | L: Ni 0.55; CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [3] Palumbo 2004; _cites Gebhart 1967_ | Table 2, p. 2, row 16 |  |
 | 928 | Liquid -> CeNi + CeNi2 | CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [3] Palumbo 2004 | Table 2, p. 2, row 18 |  |
-| 928 | Eutectic: L -> CeNi + CeNi2 | CeNi: Ni 0.5; CeNi2: Ni 0.666667 | experimental | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 35 |  |
+| 928 | eutectic: L -> CeNi + CeNi2 | CeNi: Ni 0.5; CeNi2: Ni 0.666667 | experimental | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 35 |  |
 | 926 | Liquid -> CeNi + CeNi2 | L: Ni 0.53; CeNi: Ni 0.5; CeNi2: Ni 0.667 | model | [3] Palumbo 2004 | Table 2, p. 2, row 14 |  |
-| 926 | Eutectic: L -> CeNi + CeNi2 | L: Ni 0.53; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 38 |  |
+| 926 | eutectic: L -> CeNi + CeNi2 | L: Ni 0.53; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 38 |  |
 | 908.15 | L -> CeNi + CeNi2 | L: Ni 0.529; CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [2] Xiong 2007; _cites Vogel 1947_ | Table 4, p. 6, row 16 |  |
 | 908.15 | L -> CeNi + CeNi2 | L: Ni 0.53; CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [2] Xiong 2007; _cites Zhang 1983_ | Table 4, p. 6, row 18 |  |
 | 908 | Liquid -> CeNi + CeNi2 | L: Ni 0.529; CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [3] Palumbo 2004; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 2, p. 2, row 15 |  |
-| 908 | Eutectic: L -> CeNi + CeNi2 | L: Ni 0.529; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 36 |  |
+| 908 | eutectic: L -> CeNi + CeNi2 | L: Ni 0.529; CeNi: Ni 0.5; CeNi2: Ni 0.666667 | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 36 |  |
 | 908 | Liquid -> CeNi + CeNi2 | L: Ni 0.53; CeNi: Ni 0.5; CeNi2: Ni 0.667 | experimental | [3] Palumbo 2004; _cites Zhang 1983_ | Table 2, p. 2, row 17 |  |
 | 778 | liquid -> Ce7Ni3 | liquid: Ni 0.3; Ce7Ni3: Ce 0.7, Ni 0.3 | experimental | [1] Du 2004; _cites Nash 1991_ | Table 2, p. 4, row 6 |  |
 | 778 | liquid -> Ce7Ni3 | liquid: Ni 0.3; Ce7Ni3: Ce 0.7, Ni 0.3 | model | [1] Du 2004 | Table 2, p. 4, row 5 |  |
-| 773 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.334; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 24 |  |
+| 773 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.334; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 24 |  |
 | 771.15 | L -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [2] Xiong 2007; _cites Palumbo 2004_ [doi](https://doi.org/10.1016/j.intermet.2004.04.035) | Table 4, p. 6, row 8 |  |
-| 771 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 18 |  |
+| 771 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 18 |  |
 | 771 | Liquid -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [3] Palumbo 2004 | Table 2, p. 2, row 13 |  |
 | 768.15 | L -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [2] Xiong 2007; _cites Gebhart 1967_ | Table 4, p. 6, row 10 |  |
 | 768.15 | L -> Ce7Ni3 + CeNi | L: Ni 0.385; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [2] Xiong 2007; _cites Zhang 1983_ | Table 4, p. 6, row 11 |  |
-| 768 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 20 |  |
+| 768 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 20 |  |
 | 768 | Liquid -> Ce7Ni3 + CeNi | L: Ni 0.385; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [3] Palumbo 2004; _cites Zhang 1983_ | Table 2, p. 2, row 12 |  |
 | 768 | Liquid -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [3] Palumbo 2004; _cites Perkins 1965_ | Table 2, p. 2, row 10 |  |
 | 768 | liquid -> Ce7Ni3 + CeNi | liquid: Ni 0.3478; Ce7Ni3: Ce 0.7, Ni 0.3; CeNi: Ce 0.5, Ni 0.5 | model | [1] Du 2004 | Table 2, p. 4, row 7 |  |
 | 768 | liquid -> Ce7Ni3 + CeNi | liquid: Ni 0.33; Ce7Ni3: Ce 0.7, Ni 0.3; CeNi: Ce 0.5, Ni 0.5 | experimental | [1] Du 2004; _cites Nash 1991_ | Table 2, p. 4, row 8 |  |
-| 768 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.348; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023; _cites ref. 74_ | Table 7, p. 12, row 23 |  |
+| 768 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.348; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023; _cites ref. 74_ | Table 7, p. 12, row 23 |  |
 | 768 | Liquid -> Ce7Ni3 + CeNi | L: Ni 0.33; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [3] Palumbo 2004; _cites Gschneidner 1974_ | Table 2, p. 2, row 11 |  |
 | 763.15 | L -> Ce7Ni3 + CeNi | L: Ni 0.344; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [2] Xiong 2007; _cites Perkins 1965_ | Table 4, p. 6, row 12 |  |
-| 763 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.344; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites ref. 73_ | Table 7, p. 12, row 21 |  |
+| 763 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.344; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites ref. 73_ | Table 7, p. 12, row 21 |  |
 | 762 | Liquid -> Ce7Ni3 + CeNi | L: Ni 0.344; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [3] Palumbo 2004; _cites Gebhart 1967_ | Table 2, p. 2, row 9 |  |
 | 760.15 | L -> Ce7Ni3 + CeNi | Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [2] Xiong 2007 | Table 4, p. 6, row 13 |  |
 | 760.15 | L -> Ce7Ni3 + CeNi | L: Ni 0.369; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | unspecified | [2] Xiong 2007 | Table 4, p. 6, row 14 |  |
-| 760 | Eutectic: L -> Ce7Ni3 + CeNi | Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 25 |  |
-| 760 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.369; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 26 |  |
+| 760 | eutectic: L -> Ce7Ni3 + CeNi | Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 25 |  |
+| 760 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.369; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 26 |  |
 | 757.15 | L -> (γCe) + Ce7Ni3 | L: Ni 0.21; (γCe): Ni 0; Ce7Ni3: Ni 0.3 | experimental | [2] Xiong 2007; _cites Palumbo 2004_ [doi](https://doi.org/10.1016/j.intermet.2004.04.035) | Table 4, p. 6, row 2 |  |
 | 757 | Liquid -> Ce7Ni3 + γCe | L: Ni 0.21; Ce7Ni3: Ni 0.3; γCe: Ni 0 | experimental | [3] Palumbo 2004 | Table 2, p. 2, row 6 |  |
-| 757 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.21; Ce7Ni3: Ni 0.3 | experimental | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 6 |  |
-| 757 | Eutectic: L -> Ce7Ni3 + CeNi | Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites ref. 33_ | Table 7, p. 12, row 27 |  |
-| 756.5 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.365; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023 | Table 7, p. 12, row 28 |  |
+| 757 | eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.21; Ce7Ni3: Ni 0.3 | experimental | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 6 |  |
+| 757 | eutectic: L -> Ce7Ni3 + CeNi | Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites ref. 33_ | Table 7, p. 12, row 27 |  |
+| 756.5 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.365; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023 | Table 7, p. 12, row 28 |  |
 | 756.15 | L -> (γCe) + Ce7Ni3 | L: Ni 0.21; (γCe): Ni 0; Ce7Ni3: Ni 0.3 | unspecified | [2] Xiong 2007 | Table 4, p. 6, row 7 |  |
-| 756 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.36; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 22 |  |
-| 756 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.225; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 5 |  |
-| 756 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.21; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 10 |  |
+| 756 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.36; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 22 |  |
+| 756 | eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.225; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 5 |  |
+| 756 | eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.21; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 10 |  |
 | 756 | Liquid -> Ce7Ni3 + CeNi | L: Ni 0.36; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | model | [3] Palumbo 2004 | Table 2, p. 2, row 7 |  |
 | 756 | Liquid -> Ce7Ni3 + γCe | L: Ni 0.225; Ce7Ni3: Ni 0.3; γCe: Ni 0 | model | [3] Palumbo 2004 | Table 2, p. 2, row 1 |  |
 | 754.15 | L -> (γCe) + Ce7Ni3 | (γCe): Ni 0; Ce7Ni3: Ni 0.3 | experimental | [2] Xiong 2007 | Table 4, p. 6, row 6 |  |
-| 754 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | Ce7Ni3: Ni 0.3 | experimental | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 9 |  |
-| 753.6 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.218; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023 | Table 7, p. 12, row 11 |  |
-| 752 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.213; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 8 |  |
+| 754 | eutectic: L -> fcc(Ce) + Ce7Ni3 | Ce7Ni3: Ni 0.3 | experimental | [4] Ye 2023; _cites Xiong 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.04.004) | Table 7, p. 12, row 9 |  |
+| 753.6 | eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.218; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023 | Table 7, p. 12, row 11 |  |
+| 752 | eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.213; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 8 |  |
 | 750.15 | L -> (γCe) + Ce7Ni3 | L: Ni 0.22; (γCe): Ni 0; Ce7Ni3: Ni 0.3 | experimental | [2] Xiong 2007; _cites Gebhart 1967_ | Table 4, p. 6, row 4 |  |
 | 750 | Liquid -> Ce7Ni3 + γCe | L: Ni 0.22; Ce7Ni3: Ni 0.3; γCe: Ni 0 | experimental | [3] Palumbo 2004; _cites Perkins 1965_ | Table 2, p. 2, row 3 |  |
 | 750 | Liquid -> Ce7Ni3 + γCe | L: Ni 0.22; Ce7Ni3: Ni 0.3; γCe: Ni 0 | experimental | [3] Palumbo 2004; _cites Gschneidner 1974_ | Table 2, p. 2, row 4 |  |
 | 750 | liquid -> fcc (Ce) + Ce7Ni3 | liquid: Ni 0.22; fcc (Ce): Ni 0.01; Ce7Ni3: Ce 0.7, Ni 0.3 | experimental | [1] Du 2004; _cites Nash 1991_ | Table 2, p. 4, row 4 |  |
-| 750 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.22; Ce7Ni3: Ni 0.3 | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 4 |  |
-| 750 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.207; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023; _cites ref. 74_ | Table 7, p. 12, row 7 |  |
+| 750 | eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.22; Ce7Ni3: Ni 0.3 | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 4 |  |
+| 750 | eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.207; Ce7Ni3: Ni 0.3 | model | [4] Ye 2023; _cites ref. 74_ | Table 7, p. 12, row 7 |  |
 | 750 | liquid -> fcc (Ce) + Ce7Ni3 | liquid: Ni 0.2071; fcc (Ce): Ni 0.0108; Ce7Ni3: Ce 0.7, Ni 0.3 | model | [1] Du 2004 | Table 2, p. 4, row 3 |  |
 | 748.15 | L -> (γCe) + Ce7Ni3 | L: Ni 0.225; (γCe): Ni 0; Ce7Ni3: Ni 0.3 | experimental | [2] Xiong 2007; _cites Zhang 1983_ | Table 4, p. 6, row 5 |  |
 | 748 | Liquid -> Ce7Ni3 + γCe | L: Ni 0.225; Ce7Ni3: Ni 0.3; γCe: Ni 0 | experimental | [3] Palumbo 2004; _cites Zhang 1983_ | Table 2, p. 2, row 5 |  |
 | 743.15 | L -> (γCe) + Ce7Ni3 | L: Ni 0.191; (γCe): Ni 0; Ce7Ni3: Ni 0.3 | experimental | [2] Xiong 2007; _cites Vogel 1947_ | Table 4, p. 6, row 3 |  |
-| 743 | Eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.191; Ce7Ni3: Ni 0.3 | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 3 |  |
+| 743 | eutectic: L -> fcc(Ce) + Ce7Ni3 | L: Ni 0.191; Ce7Ni3: Ni 0.3 | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 3 |  |
 | 743 | Liquid -> Ce7Ni3 + γCe | L: Ni 0.191; Ce7Ni3: Ni 0.3; γCe: Ni 0 | experimental | [3] Palumbo 2004; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 2, p. 2, row 2 |  |
 | 723.15 | L -> Ce7Ni3 + CeNi | L: Ni 0.328; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [2] Xiong 2007; _cites Vogel 1947_ | Table 4, p. 6, row 9 |  |
-| 723 | Eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.328; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 19 |  |
+| 723 | eutectic: L -> Ce7Ni3 + CeNi | L: Ni 0.328; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 19 |  |
 | 723 | Liquid -> Ce7Ni3 + CeNi | L: Ni 0.328; Ce7Ni3: Ni 0.3; CeNi: Ni 0.5 | experimental | [3] Palumbo 2004; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 2, p. 2, row 8 |  |
 
 ## Formation enthalpies
@@ -299,18 +299,18 @@ Table: Phase transition, Ce–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 758 K | 758 | Congruent: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 12 |  |
-| Phase transition | 778 K | 778 | Congruent: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 13 |  |
-| Phase transition | 778 K | 778 | Congruent: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 15 |  |
-| Phase transition | 778 K | 778 | Congruent: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 16 |  |
-| Phase transition | 781.8 K | 781.8 | Congruent: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | model | [4] Ye 2023 | Table 7, p. 12, row 17 |  |
-| Phase transition | 784 K | 784 | Congruent: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 14 |  |
-| Phase transition | 937 K | 937 | Congruent: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 31 |  |
-| Phase transition | 943 K | 943 | Congruent: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 29 |  |
-| Phase transition | 950.1 K | 950.1 | Congruent: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | model | [4] Ye 2023 | Table 7, p. 12, row 34 |  |
-| Phase transition | 953 K | 953 | Congruent: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 33 |  |
-| Phase transition | 953 K | 953 | Congruent: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 30 |  |
-| Phase transition | 953 K | 953 | Congruent: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | model | [4] Ye 2023; _cites ref. 74_ | Table 7, p. 12, row 32 |  |
+| Phase transition | 758 K | 758 | congruent melting: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 12 |  |
+| Phase transition | 778 K | 778 | congruent melting: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 13 |  |
+| Phase transition | 778 K | 778 | congruent melting: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 15 |  |
+| Phase transition | 778 K | 778 | congruent melting: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 16 |  |
+| Phase transition | 781.8 K | 781.8 | congruent melting: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | model | [4] Ye 2023 | Table 7, p. 12, row 17 |  |
+| Phase transition | 784 K | 784 | congruent melting: L -> Ce7Ni3; _L: Ni 0.3; Ce7Ni3: Ni 0.3_ | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 14 |  |
+| Phase transition | 937 K | 937 | congruent melting: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | model | [4] Ye 2023; _cites ref. 75_ | Table 7, p. 12, row 31 |  |
+| Phase transition | 943 K | 943 | congruent melting: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | experimental | [4] Ye 2023; _cites ref. 54_ | Table 7, p. 12, row 29 |  |
+| Phase transition | 950.1 K | 950.1 | congruent melting: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | model | [4] Ye 2023 | Table 7, p. 12, row 34 |  |
+| Phase transition | 953 K | 953 | congruent melting: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | model | [4] Ye 2023; _cites Pisch 2006_ | Table 7, p. 12, row 33 |  |
+| Phase transition | 953 K | 953 | congruent melting: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | experimental | [4] Ye 2023; _cites Gebhart 1967_ | Table 7, p. 12, row 30 |  |
+| Phase transition | 953 K | 953 | congruent melting: L -> CeNi; _L: Ni 0.5; CeNi: Ni 0.5_ | model | [4] Ye 2023; _cites ref. 74_ | Table 7, p. 12, row 32 |  |
 | Phase transition | 1060.15 K | 1060.15 |  | experimental | [2] Xiong 2007; _cites Perkins 1965_ | p. 2 | “Those data are not adopted in the current assessment since the impurities in the alloys not only yield a lower melting temperature of 787 C for pure Ce, compared with the generally accepted temperature of 799 C, but also result in a large difference between nominal and practical compositions for the prepared alloys.” |
 | Phase transition | 1072.15 K | 1072.15 |  | experimental | [2] Xiong 2007 | p. 2 | “Those data are not adopted in the current assessment since the impurities in the alloys not only yield a lower melting temperature of 787 C for pure Ce, compared with the generally accepted temperature of 799 C, but also result in a large difference between nominal and practical compositions for the prepared alloys.” |
 | Phase transition | 1353 K | 1353 | other | experimental | [1] Du 2004; _cites Gebhart 1967_ | p. 2 | “One of the uncertainties is the possibility that isothermal beaks at 1353, 1368, and 1393 K between 78 and 83 at.% Ni reported by Gebhart et al. \[16\] could mean additional, unreported compounds.” |

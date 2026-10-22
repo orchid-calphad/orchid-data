@@ -85,47 +85,47 @@ Table: Invariant reactions reported in the literature for the Dy–Fe system (41
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1667.9 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.93 | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 2 |  |
-| 1667.5 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.94 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 3 |  |
-| 1664 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.945 | model | [1] Ye 2023 | Table 7, p. 13, row 5 |  |
-| 1663 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.915 | experimental | [1] Ye 2023; _cites ref. 99_ | Table 7, p. 13, row 1 |  |
-| 1662 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.94 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 4 |  |
-| 1641.7 | Eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.917 | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 12 |  |
-| 1639 | Eutectic: L -> Fe17Dy2 + fcc(γ-Fe) |  | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 14 |  |
-| 1638 | Eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.926 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 15 |  |
-| 1634 | Eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.92 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 16 |  |
-| 1633 | Eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.91 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 11 |  |
-| 1630.7 | Eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.922 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 13 |  |
-| 1630 | Eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.934 | model | [1] Ye 2023 | Table 7, p. 13, row 17 |  |
-| 1574 | Peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.79 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 27 |  |
-| 1573 | Eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.785 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 32 |  |
-| 1567.4 | Peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.791 | model | [1] Ye 2023 | Table 7, p. 13, row 29 |  |
-| 1567.3 | Eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.788 | model | [1] Ye 2023 | Table 7, p. 13, row 34 |  |
-| 1565 | Peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.788 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 28 |  |
-| 1563 | Peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.788 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 25 |  |
-| 1561.9 | Peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.782 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 26 |  |
-| 1561 | Eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.775 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 31 |  |
-| 1558 | Eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.775 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 30 |  |
-| 1557 | Eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.779 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 33 |  |
-| 1548 | Peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.661 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 46 |  |
-| 1547 | Peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.61 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 47 |  |
-| 1545.5 | Peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.665 | model | [1] Ye 2023 | Table 7, p. 13, row 48 |  |
-| 1545 | Peritectic: L + Fe3Dy -> Fe2Dy |  | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 45 |  |
-| 1543 | Peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.599 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 42 |  |
-| 1542.9 | Peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.637 | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 43 |  |
-| 1535.9 | Peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.665 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 44 |  |
-| 1185 | Peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 9 |  |
-| 1184.8 | Peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023 | Table 7, p. 13, row 10 |  |
-| 1184.8 | Peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 8 |  |
-| 1184.8 | Peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 7 |  |
-| 1183 | Peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | experimental | [1] Ye 2023; _cites ref. 99_ | Table 7, p. 13, row 6 |  |
-| 1165.3 | Eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.283 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 51 |  |
-| 1164 | Eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.27 | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 52 |  |
-| 1163 | Eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.285 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 49 |  |
-| 1162.1 | Eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.284 | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 50 |  |
-| 1161 | Eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.309 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 53 |  |
-| 1161 | Eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.29 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 54 |  |
-| 1160 | Eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.304 | model | [1] Ye 2023 | Table 7, p. 13, row 55 |  |
+| 1667.9 | metatectic/catatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.93 | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 2 |  |
+| 1667.5 | metatectic/catatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.94 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 3 |  |
+| 1664 | metatectic/catatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.945 | model | [1] Ye 2023 | Table 7, p. 13, row 5 |  |
+| 1663 | metatectic/catatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.915 | experimental | [1] Ye 2023; _cites ref. 99_ | Table 7, p. 13, row 1 |  |
+| 1662 | metatectic/catatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.94 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 4 |  |
+| 1641.7 | eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.917 | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 12 |  |
+| 1639 | eutectic: L -> Fe17Dy2 + fcc(γ-Fe) |  | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 14 |  |
+| 1638 | eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.926 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 15 |  |
+| 1634 | eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.92 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 16 |  |
+| 1633 | eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.91 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 11 |  |
+| 1630.7 | eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.922 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 13 |  |
+| 1630 | eutectic: L -> Fe17Dy2 + fcc(γ-Fe) | L: Fe 0.934 | model | [1] Ye 2023 | Table 7, p. 13, row 17 |  |
+| 1574 | peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.79 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 27 |  |
+| 1573 | eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.785 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 32 |  |
+| 1567.4 | peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.791 | model | [1] Ye 2023 | Table 7, p. 13, row 29 |  |
+| 1567.3 | eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.788 | model | [1] Ye 2023 | Table 7, p. 13, row 34 |  |
+| 1565 | peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.788 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 28 |  |
+| 1563 | peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.788 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 25 |  |
+| 1561.9 | peritectic: L + Fe17Dy2 -> Fe23Dy6 | L: Fe 0.782 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 26 |  |
+| 1561 | eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.775 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 31 |  |
+| 1558 | eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.775 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 30 |  |
+| 1557 | eutectic: L -> Fe23Dy6 + Fe3Dy | L: Fe 0.779 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 33 |  |
+| 1548 | peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.661 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 46 |  |
+| 1547 | peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.61 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 47 |  |
+| 1545.5 | peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.665 | model | [1] Ye 2023 | Table 7, p. 13, row 48 |  |
+| 1545 | peritectic: L + Fe3Dy -> Fe2Dy |  | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 45 |  |
+| 1543 | peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.599 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 42 |  |
+| 1542.9 | peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.637 | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 43 |  |
+| 1535.9 | peritectic: L + Fe3Dy -> Fe2Dy | L: Fe 0.665 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 44 |  |
+| 1185 | peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 9 |  |
+| 1184.8 | peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023 | Table 7, p. 13, row 10 |  |
+| 1184.8 | peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 8 |  |
+| 1184.8 | peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 7 |  |
+| 1183 | peritectoid: Fe17Dy2 + fcc(γ-Fe) -> bcc(α-Fe) |  | experimental | [1] Ye 2023; _cites ref. 99_ | Table 7, p. 13, row 6 |  |
+| 1165.3 | eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.283 | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 51 |  |
+| 1164 | eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.27 | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 52 |  |
+| 1163 | eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.285 | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 49 |  |
+| 1162.1 | eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.284 | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 50 |  |
+| 1161 | eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.309 | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 53 |  |
+| 1161 | eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.29 | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 54 |  |
+| 1160 | eutectic: L -> Fe2Dy + hcp-Dy | L: Fe 0.304 | model | [1] Ye 2023 | Table 7, p. 13, row 55 |  |
 
 ## Other properties
 
@@ -135,20 +135,20 @@ Table: Phase transition, Dy–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1563.5 K | 1563.5 | Congruent: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 37 |  |
-| Phase transition | 1576.4 K | 1576.4 | Congruent: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023 | Table 7, p. 13, row 41 |  |
-| Phase transition | 1578 K | 1578 | Congruent: L -> Fe3Dy; _L: Fe 0.75_ | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 35 |  |
-| Phase transition | 1579 K | 1579 | Congruent: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 40 |  |
-| Phase transition | 1580 K | 1580 | Congruent: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 39 |  |
-| Phase transition | 1580 K | 1580 | Congruent: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 38 |  |
-| Phase transition | 1581.8 K | 1581.8 | Congruent: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 36 |  |
-| Phase transition | 1637.5 K | 1637.5 | Congruent: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 20 |  |
-| Phase transition | 1640 K | 1640 | Congruent: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 21 |  |
-| Phase transition | 1644.8 K | 1644.8 | Congruent: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 19 |  |
-| Phase transition | 1647 K | 1647 | Congruent: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 23 |  |
-| Phase transition | 1648 K | 1648 | Congruent: L -> Fe17Dy2; _L: Fe 0.895_ | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 18 |  |
-| Phase transition | 1649 K | 1649 | Congruent: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 22 |  |
-| Phase transition | 1651 K | 1651 | Congruent: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023 | Table 7, p. 13, row 24 |  |
+| Phase transition | 1563.5 K | 1563.5 | congruent melting: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 37 |  |
+| Phase transition | 1576.4 K | 1576.4 | congruent melting: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023 | Table 7, p. 13, row 41 |  |
+| Phase transition | 1578 K | 1578 | congruent melting: L -> Fe3Dy; _L: Fe 0.75_ | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 35 |  |
+| Phase transition | 1579 K | 1579 | congruent melting: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 40 |  |
+| Phase transition | 1580 K | 1580 | congruent melting: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 39 |  |
+| Phase transition | 1580 K | 1580 | congruent melting: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 38 |  |
+| Phase transition | 1581.8 K | 1581.8 | congruent melting: L -> Fe3Dy; _L: Fe 0.75_ | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 36 |  |
+| Phase transition | 1637.5 K | 1637.5 | congruent melting: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites ref. 105_ | Table 7, p. 13, row 20 |  |
+| Phase transition | 1640 K | 1640 | congruent melting: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites ref. 83_ | Table 7, p. 13, row 21 |  |
+| Phase transition | 1644.8 K | 1644.8 | congruent melting: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites ref. 104_ | Table 7, p. 13, row 19 |  |
+| Phase transition | 1647 K | 1647 | congruent melting: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites ref. 27_ | Table 7, p. 13, row 23 |  |
+| Phase transition | 1648 K | 1648 | congruent melting: L -> Fe17Dy2; _L: Fe 0.895_ | experimental | [1] Ye 2023; _cites ref. 96_ | Table 7, p. 13, row 18 |  |
+| Phase transition | 1649 K | 1649 | congruent melting: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023; _cites (cal_ | Table 7, p. 13, row 22 |  |
+| Phase transition | 1651 K | 1651 | congruent melting: L -> Fe17Dy2; _L: Fe 0.895_ | model | [1] Ye 2023 | Table 7, p. 13, row 24 |  |
 
 ## Sources
 

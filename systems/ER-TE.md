@@ -49,20 +49,20 @@ Table: Invariant reactions reported in the literature for the Er–Te system (17
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1551 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2 | “The eutectic between Er and ErTe is given at 87 at.% Er and 1551 K, while the second eutectic on the Te-rich side is at about 3 at.% Er and 603 K (Fig. 2).” |
-| 1543 | Eutectic: L -> ErTe+(Er) | L: Te 0.13; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 19 |  |
-| 1543 | Eutectic: L -> ErTe+(Er) | L: Te 0.13; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 18 |  |
-| 1540 | Eutectic: L -> ErTe+(Er) | L: Te 0.18; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 17 |  |
-| 1364 | Eutectic: L -> Er2Te3+ErTe | L: Te 0.55; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 10 |  |
-| 1363 | Eutectic: L -> Er2Te3+ErTe | L: Te 0.56; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 11 |  |
-| 1363 | Eutectic: L -> Er2Te3+ErTe | L: Te 0.56; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 12 |  |
+| 1543 | eutectic: L -> ErTe+(Er) | L: Te 0.13; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 19 |  |
+| 1543 | eutectic: L -> ErTe+(Er) | L: Te 0.13; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 18 |  |
+| 1540 | eutectic: L -> ErTe+(Er) | L: Te 0.18; ErTe: Te 0.5; (Er): Te 0 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 17 |  |
+| 1364 | eutectic: L -> Er2Te3+ErTe | L: Te 0.55; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 10 |  |
+| 1363 | eutectic: L -> Er2Te3+ErTe | L: Te 0.56; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 11 |  |
+| 1363 | eutectic: L -> Er2Te3+ErTe | L: Te 0.56; Er2Te3: Te 0.6; ErTe: Te 0.5 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 12 |  |
 | 957 | peritectic |  | experimental | [1] Bennoui 2022 | p. 2 | “While the ErTe3compound melts at 957 K with decomposition according to the peritectic reaction: Er2Te3 ? L$ ErTe3.” |
 | 953 | peritectic |  | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | p. 2 | “According to reference,\[39\] the ErTe3 phase does not exist; instead, the stoichiometric phase ErTe2, formed by a peritectic at 953 K, is indicated.” |
-| 953 | Peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.86; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 6 |  |
-| 953 | Peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.95; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 4 |  |
-| 848 | Peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.78; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 5 |  |
-| 722 | Eutectic: L -> (Te) +ErTe3 | L: Te 0.999999; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 1 |  |
-| 718 | Eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 3 |  |
-| 718 | Eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 2 |  |
+| 953 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.86; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 6 |  |
+| 953 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.95; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 4 |  |
+| 848 | peritectic: L+ Er2Te3 -> ErTe3 | L: Te 0.78; Er2Te3: Te 0.6; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 5 |  |
+| 722 | eutectic: L -> (Te) +ErTe3 | L: Te 0.999999; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 1 |  |
+| 718 | eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 3 |  |
+| 718 | eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 2 |  |
 | 718 | eutectic |  | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | p. 2 | “A degenerate eutectic exists between ErTe2 and Te at 718 K.” |
 | 603 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2 | “The eutectic between Er and ErTe is given at 87 at.% Er and 1551 K, while the second eutectic on the Te-rich side is at about 3 at.% Er and 603 K (Fig. 2).” |
 
@@ -74,15 +74,15 @@ Table: Phase transition, Er–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1463 K | 1463 | Congruent: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 8 |  |
-| Phase transition | 1465 K | 1465 | Congruent: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 7 |  |
-| Phase transition | 1486 K | 1486 | Congruent: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 9 |  |
-| Phase transition | 1486 K | 1486 | congruent | experimental | [1] Bennoui 2022 | p. 2 | “The ErTe and Er2Te3 compounds had congruently melting temperatures at 1773 and 1486 K, respectively.” |
-| Phase transition | 1763 K | 1763 | Congruent: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 14 |  |
-| Phase transition | 1773 K | 1773 | Congruent: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 15 |  |
-| Phase transition | 1773 K | 1773 | Congruent: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 16 |  |
-| Phase transition | 1773 K | 1773 | congruent | experimental | [1] Bennoui 2022 | p. 2 | “The ErTe and Er2Te3 compounds had congruently melting temperatures at 1773 and 1486 K, respectively.” |
-| Phase transition | 1779 K | 1779 | Congruent: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 13 |  |
+| Phase transition | 1463 K | 1463 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 8 |  |
+| Phase transition | 1465 K | 1465 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 7 |  |
+| Phase transition | 1486 K | 1486 | congruent melting | experimental | [1] Bennoui 2022 | p. 2 | “The ErTe and Er2Te3 compounds had congruently melting temperatures at 1773 and 1486 K, respectively.” |
+| Phase transition | 1486 K | 1486 | congruent melting: L -> Er2Te3; _L: Te 0.6; Er2Te3: Te 0.6_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 9 |  |
+| Phase transition | 1763 K | 1763 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 14 |  |
+| Phase transition | 1773 K | 1773 | congruent melting | experimental | [1] Bennoui 2022 | p. 2 | “The ErTe and Er2Te3 compounds had congruently melting temperatures at 1773 and 1486 K, respectively.” |
+| Phase transition | 1773 K | 1773 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 15 |  |
+| Phase transition | 1773 K | 1773 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 16 |  |
+| Phase transition | 1779 K | 1779 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 13 |  |
 
 ## Sources
 

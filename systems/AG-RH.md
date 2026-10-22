@@ -1,10 +1,10 @@
 # Ag–Rh system
 
-> Ag–Rh system: 6 accepted literature values (crystal structure 4, invariant reaction 1, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Rh system: 4 accepted literature values (crystal structure 2, invariant reaction 1, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-RH.html · Markdown: https://data.orchid-project.org/systems/AG-RH.md
 
-6 accepted literature values from 1 paper(s) (experimental 2, unspecified 4); 2 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 2, unspecified 2); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-RH.json) · [CSV](https://data.orchid-project.org/systems/AG-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-RH/AgRh-86Kar.json) · [Markdown](https://data.orchid-project.org/systems/AG-RH.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 2 |
-| unspecified | 4 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 1 |
-| crystal structure | 4 |
+| crystal structure | 2 |
 
 ## Calculated phase diagrams
 
@@ -63,15 +63,13 @@ Table: Phase transition, Ag–Rh system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2173.15 K | 2173.15 | other | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 1 | “A monotectic reaction was reported at about 1900 ~ and near 20 at.% Ag \[59Rud\].” |
 
-### Crystal structure (4)
+### Crystal structure (2)
 
 Table: Crystal structure, Ag–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.28032 nm | 298.15 | (Rh) | unspecified | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.28032 nm | 298.15 | (Rh) | unspecified | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Rh 0_ | unspecified | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
 | Lattice a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Rh 0_ | unspecified | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
 
 ## Sources

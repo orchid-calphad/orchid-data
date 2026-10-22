@@ -55,7 +55,7 @@ Table: Invariant reactions reported in the literature for the C–Nb system (29)
 | 2800 | Nb2C = Liquid + NbC | Nb2C: C 0.333333, Nb 0.666667; NbC: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites w 1972_ | Table 1, p. 3, row 12 |  |
 | 2800 | Nb2C = Liquid + NbC | Nb2C: C 0.333333, Nb 0.666667; NbC: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites STORMS 1990_ | Table 1, p. 3, row 11 |  |
 | 2800 | Nb2C = Liquid + NbC | Nb2C: C 0.29; Liquid: C 0.15; NbC: C 0.29 | model | [1] Huang 1990 | Table 1, p. 3, row 13 |  |
-| 2799 | metatectic: L-NbC-Nb2C |  | model | [1] Huang 1990 | p. 4 | “The calculated three phase equilibrium L-NbC-Nb2C at 2799 K is metatectic instead of the typical peritectic equilibrium, as reported in most experimental work.” |
+| 2799 | metatectic/catatectic: L-NbC-Nb2C |  | model | [1] Huang 1990 | p. 4 | “The calculated three phase equilibrium L-NbC-Nb2C at 2799 K is metatectic instead of the typical peritectic equilibrium, as reported in most experimental work.” |
 | 2613 | Liquid = bcc + Nb2C | Liquid: C 0.135; bcc: C 0.06; Nb2C: C 0.28 | experimental | [1] Huang 1990; _cites KIMURA 1961_ | Table 1, p. 3, row 3 |  |
 | 2608 | eutectic: L = bcc + Nb2C |  | experimental | [1] Huang 1990 | p. 2 | “The system includes a niobium rich eutectic (L = bcc + Nb2C) at 2608 K and a carbon rich eutectic (L = NbC + graphite) at 3573 K.” |
 | 2608 | Liquid = bcc + Nb2C | Liquid: C 0.105; bcc: C 0.06; Nb2C: C 0.28 | experimental | [1] Huang 1990; _cites STORMS 1960_ | Table 1, p. 3, row 1 |  |
@@ -84,9 +84,9 @@ Table: Phase transition, C–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1400 K | 1400 | congruent | experimental | [1] Huang 1990; _cites BILLINGHAM 1972_ | p. 2 | “The NbC carbide undergoes a congruent transformation to an ordered structure at a composition of about Nb6Cs close to 1400 K.6-9” |
+| Phase transition | 1400 K | 1400 | congruent transformation | experimental | [1] Huang 1990; _cites BILLINGHAM 1972_ | p. 2 | “The NbC carbide undergoes a congruent transformation to an ordered structure at a composition of about Nb6Cs close to 1400 K.6-9” |
 | Phase transition | 2800 K | 2800 | Nb2C | experimental | [1] Huang 1990 | p. 2 | “Nb2C decomposes close to 2800 K and NbC melts congruently at 3886 K.” |
-| Phase transition | 3886 K | 3886 | congruent | experimental | [1] Huang 1990 | p. 2 | “Nb2C decomposes close to 2800 K and NbC melts congruently at 3886 K.” |
+| Phase transition | 3886 K | 3886 | congruent transformation | experimental | [1] Huang 1990 | p. 2 | “Nb2C decomposes close to 2800 K and NbC melts congruently at 3886 K.” |
 
 ### Heat capacity / entropy / enthalpy (32)
 

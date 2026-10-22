@@ -59,14 +59,14 @@ Table: Invariant reactions reported in the literature for the Th–U system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1923.15 | Critical: L -> L1 + L2 | L: U 0.78 | model | [1] Li 2009 | Table 3, p. 4, row 8 |  |
-| 1923.15 | Critical: L -> L1 + L2 |  | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 7 |  |
-| 1648.15 | Monotectic: L1 -> βTh + L2 | L1: U 0.51; βTh: U 0.122; L2: U 0.94 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 1 |  |
-| 1644.15 | Monotectic: L1 -> βTh + L2 | L1: U 0.507; βTh: U 0.12; L2: U 0.927 | model | [1] Li 2009 | Table 3, p. 4, row 2 |  |
-| 1543.15 | Catatectic: βTh -> αTh + L2 | βTh: U 0.105; αTh: U 0.088 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 3 |  |
-| 1543.15 | Catatectic: βTh -> αTh + L2 | βTh: U 0.105; αTh: U 0.088; L2: U 0.95 | model | [1] Li 2009 | Table 3, p. 4, row 4 |  |
-| 1380.15 | Eutectic: L2 -> αTh + γU | L2: U 0.97; αTh: U 0.04; γU: U 0.982 | model | [1] Li 2009 | Table 3, p. 4, row 6 |  |
-| 1373.15 | Eutectic: L2 -> αTh + γU | L2: U 0.96 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 5 |  |
+| 1923.15 | critical point: L -> L1 + L2 | L: U 0.78 | model | [1] Li 2009 | Table 3, p. 4, row 8 |  |
+| 1923.15 | critical point: L -> L1 + L2 |  | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 7 |  |
+| 1648.15 | monotectic: L1 -> βTh + L2 | L1: U 0.51; βTh: U 0.122; L2: U 0.94 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 1 |  |
+| 1644.15 | monotectic: L1 -> βTh + L2 | L1: U 0.507; βTh: U 0.12; L2: U 0.927 | model | [1] Li 2009 | Table 3, p. 4, row 2 |  |
+| 1543.15 | metatectic/catatectic: βTh -> αTh + L2 | βTh: U 0.105; αTh: U 0.088 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 3 |  |
+| 1543.15 | metatectic/catatectic: βTh -> αTh + L2 | βTh: U 0.105; αTh: U 0.088; L2: U 0.95 | model | [1] Li 2009 | Table 3, p. 4, row 4 |  |
+| 1380.15 | eutectic: L2 -> αTh + γU | L2: U 0.97; αTh: U 0.04; γU: U 0.982 | model | [1] Li 2009 | Table 3, p. 4, row 6 |  |
+| 1373.15 | eutectic: L2 -> αTh + γU | L2: U 0.96 | experimental | [1] Li 2009; _cites Peterson 1995_ | Table 3, p. 4, row 5 |  |
 
 ## Other properties
 

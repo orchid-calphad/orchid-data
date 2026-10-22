@@ -105,19 +105,19 @@ Table: Invariant reactions reported in the literature for the Cr–Si system (53
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2049.5 | Congruent: Cr3Si-A15 -> Liquid | Cr3Si-A15: Si 0.025; L: Si 0.025 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 6 |  |
+| 2049.5 | congruent melting: Cr3Si-A15 -> Liquid | Cr3Si-A15: Si 0.025; L: Si 0.025 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 6 |  |
 | 1982.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 1 |  |
 | 1982.15 | L -> Cr3Si + (Cr) | Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 2, p. 2, row 16 |  |
 | 1978.15 | L -> Cr3Si + (Cr) | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 17 |  |
 | 1974.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 1, p. 2, row 3 |  |
 | 1973.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 2 |  |
 | 1971.67 | Liquid = (Cr) + Cr3Si | L: Si 0.1702; (Cr): Si 0.1325; Cr3Si: Si 0.2449 | model | [3] Chen 2009 | Table 2, p. 3, row 1 |  |
-| 1957.4 | Eutectic: Liquid -> bcc-A2 + Cr3Si-A15 | L: Si 0.154; bcc-A2: Si 0.115; Cr3Si-A15: Si 0.233 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 1 |  |
+| 1957.4 | eutectic: Liquid -> bcc-A2 + Cr3Si-A15 | L: Si 0.154; bcc-A2: Si 0.115; Cr3Si-A15: Si 0.233 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 1 |  |
 | 1957.15 | L ↔ (Cr) + Cr3Si | Cr3Si: Si 0.25 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 4 |  |
 | 1953.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 10 |  |
-| 1951 | Congruent: Cr5Si3 -> Liquid | Cr5Si3: Si 0.375; L: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 7 |  |
+| 1951 | congruent melting: Cr5Si3 -> Liquid | Cr5Si3: Si 0.375; L: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 7 |  |
 | 1950.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 12 |  |
-| 1950 | Eutectic: Liquid -> Cr3Si-A15 + Cr5Si3 | L: Si 0.364; Cr3Si-A15: Si 0.272; Cr5Si3: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 2 |  |
+| 1950 | eutectic: Liquid -> Cr3Si-A15 + Cr5Si3 | L: Si 0.364; Cr3Si-A15: Si 0.272; Cr5Si3: Si 0.375 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 2 |  |
 | 1938.15 | eutectic: Liquid = Cr3Si + Cr5Si3 |  | experimental | [4] Ioroi 2024; _cites Ioroi 2022_ [doi](https://doi.org/10.1007/s11669-022-00954-9) | p. 11 | “In the present evaluation, however, the invariant reaction is revised to be a eutectic one "Liquid = Cr3Si + Cr5Si3" mainly because the congruent melting temperature of the Cr5Si3 phase (1690 °C \[21\]) is clearly higher than the invariant temperature (1665 °C \[21\]) as shown in Fig. 4(b).” |
 | 1937.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 9 |  |
 | 1937.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | unspecified | [2] Du 2000 | Table 1, p. 2, row 11 |  |
@@ -130,11 +130,11 @@ Table: Invariant reactions reported in the literature for the Cr–Si system (53
 | 1778.15 | L + βCr5Si3 ↔ αCr5Si3 | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 17 |  |
 | 1774.21 | βCr5Si3 = αCr5Si3 + Cr3Si | βCr5Si3: Si 0.3728; αCr5Si3: Si 0.375; Cr3Si: Si 0.2857 | model | [3] Chen 2009 | Table 2, p. 3, row 3 |  |
 | 1761.15 | βCr5Si3 ↔ αCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375; Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 1, p. 2, row 20 |  |
-| 1741 | Congruent: Cr2Si -> Liquid | Cr2Si: Si 0.666; L: Si 0.666 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 8 |  |
-| 1718.5 | Peritectic: Liquid + Cr5Si3 -> CrSi | L: Si 0.56; Cr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 3 |  |
+| 1741 | congruent melting: Cr2Si -> Liquid | Cr2Si: Si 0.666; L: Si 0.666 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 8 |  |
+| 1718.5 | peritectic: Liquid + Cr5Si3 -> CrSi | L: Si 0.56; Cr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 3 |  |
 | 1718.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 25 |  |
 | 1709.15 | L ↔ CrSi + CrSi2 | CrSi: Si 0.5; CrSi2: Si 0.666667 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 30 |  |
-| 1708.8 | Eutectic: Liquid -> CrSi + CrSi2 | L: Si 0.574; CrSi: Si 0.5; CrSi2: Si 0.656 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 4 |  |
+| 1708.8 | eutectic: Liquid -> CrSi + CrSi2 | L: Si 0.574; CrSi: Si 0.5; CrSi2: Si 0.656 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 4 |  |
 | 1705.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 21 |  |
 | 1705.15 | L + αCr5Si3 -> CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | unspecified | [2] Du 2000 | Table 2, p. 2, row 8 |  |
 | 1702.15 | L + αCr5Si3 ↔ CrSi | αCr5Si3: Si 0.375; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 22 |  |
@@ -150,7 +150,7 @@ Table: Invariant reactions reported in the literature for the Cr–Si system (53
 | 1675.15 | L -> CrSi2 + CrSi | CrSi2: Si 0.666667; CrSi: Si 0.5 | unspecified | [2] Du 2000 | Table 2, p. 2, row 6 |  |
 | 1663.15 | L -> CrSi2 + CrSi | CrSi2: Si 0.666667; CrSi: Si 0.5 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 7 |  |
 | 1607.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 40 |  |
-| 1606.7 | Eutectic: Liquid -> CrSi2 + diamond | L: Si 0.864; CrSi2: Si 0.673; diamond: Si 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 5 |  |
+| 1606.7 | eutectic: Liquid -> CrSi2 + diamond | L: Si 0.864; CrSi2: Si 0.673; diamond: Si 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 167, row 5 |  |
 | 1601.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | unspecified | [2] Du 2000 | Table 1, p. 2, row 39 |  |
 | 1601.15 | L ↔ (Si) + CrSi2 | (Si): Si 1; CrSi2: Si 0.666667 | experimental | [2] Du 2000 | Table 1, p. 2, row 38 |  |
 | 1596.05 | Liquid = CrSi2 + (Si) | L: Si 0.8536; CrSi2: Si 0.6787; (Si): Si 1 | model | [3] Chen 2009 | Table 2, p. 3, row 5 |  |
@@ -249,7 +249,7 @@ Table: Phase transition, Cr–Si system
 | Phase transition | 1941.15 K | 1941.15 (>) | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 13 |  |
 | Phase transition | 1951.15 K | 1951.15 | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | model | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 1, p. 2, row 16 |  |
 | Phase transition | 1953.15 K | 1953.15 | L -> βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 11 |  |
-| Phase transition | 1963.15 K | 1963.15 | congruent | experimental | [4] Ioroi 2024; _cites Ioroi 2022_ [doi](https://doi.org/10.1007/s11669-022-00954-9) | p. 11 | “In the present evaluation, however, the invariant reaction is revised to be a eutectic one "Liquid = Cr3Si + Cr5Si3" mainly because the congruent melting temperature of the Cr5Si3 phase (1690 °C \[21\]) is clearly higher than the invariant temperature (1665 °C \[21\]) as shown in Fig. 4(b).” |
+| Phase transition | 1963.15 K | 1963.15 | congruent transformation | experimental | [4] Ioroi 2024; _cites Ioroi 2022_ [doi](https://doi.org/10.1007/s11669-022-00954-9) | p. 11 | “In the present evaluation, however, the invariant reaction is revised to be a eutectic one "Liquid = Cr3Si + Cr5Si3" mainly because the congruent melting temperature of the Cr5Si3 phase (1690 °C \[21\]) is clearly higher than the invariant temperature (1665 °C \[21\]) as shown in Fig. 4(b).” |
 | Phase transition | 1993.15 K | 1993.15 | L ↔ βCr5Si3; _L: Si 0.375; βCr5Si3: Si 0.375_ | experimental | [2] Du 2000; _cites Svechnikov 1964_ | Table 1, p. 2, row 14 |  |
 | Phase transition | 2039.15 K | 2039.15 | L -> Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | unspecified | [2] Du 2000 | Table 2, p. 2, row 14 |  |
 | Phase transition | 2039.15 K | 2039.15 (>) | L ↔ Cr3Si; _L: Si 0.25; Cr3Si: Si 0.25_ | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 5 |  |

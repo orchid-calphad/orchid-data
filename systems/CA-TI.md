@@ -57,7 +57,7 @@ Table: Invariant reactions reported in the literature for the Ca–Ti system (7)
 | 1156.15 | peritectic: L0 + bTi = aTi |  | model | [1] Hampl 2015 | p. 5 | “The Ca solubility in aTi is higher than in bTi, producing the peritectic transformation type, L0 ? bTi = aTi, at 883 °C.” |
 | 1115.15 | L' = βCa + αTi | L': Ti 2.600e-4; βCa: Ti 6.000e-5; αTi: Ti 0.99963 | model | [1] Hampl 2015 | Table 3, p. 5, row 3 |  |
 | 1115.15 | eutectic |  | model | [1] Hampl 2015 | p. 5 | “Using a simplified, temperature independent, interaction = 75,000 J/mol, produces essentially parameter, L0;liquid Ca;Ti the same calculated solubility values from the eutectic at 842 °C up to about 900 °C, also reproducing the experimental data from \[6\] in that range.” |
-| 716.15 | Almost degenerate eutectic: βCa = αCa (+αTi) | αTi: Ti 0.99999 | model | [1] Hampl 2015 | Table 3, p. 5, row 4 |  |
+| 716.15 | eutectic: βCa = αCa (+αTi) | αTi: Ti 0.99999 | model | [1] Hampl 2015 | Table 3, p. 5, row 4 |  |
 
 ## Other properties
 

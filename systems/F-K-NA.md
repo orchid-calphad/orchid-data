@@ -1,10 +1,10 @@
 # F–K–Na system
 
-> F–K–Na system: 55 accepted literature values (formation 30, crystal structure 18, invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–K–Na system: 40 accepted literature values (crystal structure 18, formation 15, invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-K-NA.html · Markdown: https://data.orchid-project.org/systems/F-K-NA.md
 
-55 accepted literature values from 1 paper(s) (experimental 18, model 1, DFT 36); 0 calculated phase diagram(s).
+40 accepted literature values from 1 paper(s) (experimental 15, model 1, DFT 24); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-K-NA.json) · [CSV](https://data.orchid-project.org/systems/F-K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-K-NA) · [Markdown](https://data.orchid-project.org/systems/F-K-NA.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
+| experimental | 15 |
 | model | 1 |
-| DFT | 36 |
+| DFT | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
-| formation | 30 |
+| formation | 15 |
 | crystal structure | 18 |
 
 ## Invariant reactions (literature)
@@ -42,39 +42,24 @@ Table: Invariant reactions reported in the literature for the F–K–Na system 
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, F–K–Na system (30)
+Table: Enthalpies of formation, F–K–Na system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | F2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 21 |  |
-| F2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 21 |  |
-| Halite |  | 9.869 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 35 |  |
 | Halite |  | 9.869 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 35 |  |
 | Halite |  | 19.165 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 36 |  |
-| Halite |  | 19.165 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 36 |  |
-| Halite |  | 24.312 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 37 |  |
 | Halite |  | 24.312 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 37 |  |
 | K |  | 0 kJ/mol-atom | 298 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 22 |  |
-| K |  | 0 kJ/mol-atom | 298 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 22 |  |
-| KF | [KF](https://data.orchid-project.org/compounds/KF.html) | -284.305 kJ/mol-atom | 0 | experimental | -283.123 (mp-aaaaaarv) | -281.083 (oqmd-1442813) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 27 |  |
 | KF | [KF](https://data.orchid-project.org/compounds/KF.html) | -284.305 kJ/mol-atom | 0 | experimental | -283.123 (mp-aaaaaarv) | -281.083 (oqmd-1442813) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 27 |  |
 | KF |  | -264.865 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
-| KF |  | -264.865 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
-| KNa2 |  | -0.699 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
 | KNa2 |  | -0.699 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
 | KNa2 | [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | -0.60668 kJ/mol-atom | 0 | experimental | 0.954 (mp-aaabgmji) | -7.272 (oqmd-668086) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31 |  |
-| KNa2 | [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | -0.60668 kJ/mol-atom | 0 | experimental | 0.954 (mp-aaabgmji) | -7.272 (oqmd-668086) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31 |  |
-| Na |  | 0 kJ/mol-atom | 293 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 24 |  |
 | Na |  | 0 kJ/mol-atom | 293 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 24 |  |
 | NaF | [NaF](https://data.orchid-project.org/compounds/NaF.html) | -287.69 kJ/mol-atom | 0 | experimental | -283.373 (mp-aaaaabag) | -286.946 (oqmd-5686) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 29 |  |
-| NaF | [NaF](https://data.orchid-project.org/compounds/NaF.html) | -287.69 kJ/mol-atom | 0 | experimental | -283.373 (mp-aaaaabag) | -286.946 (oqmd-5686) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 29 |  |
-| NaF |  | -269.597 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
 | NaF |  | -269.597 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
 | bcc |  | 1.786 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 32 |  |
-| bcc |  | 1.786 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 32 |  |
 | bcc |  | 2.408 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 34 |  |
-| bcc |  | 2.408 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 34 |  |
-| bcc |  | 2.994 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 33 |  |
 | bcc |  | 2.994 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 33 |  |
 
 ## Other properties

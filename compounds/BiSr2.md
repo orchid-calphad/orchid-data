@@ -1,20 +1,19 @@
 # BiSr2: enthalpy of formation
 
-> Enthalpy of formation of BiSr2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of BiSr2: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/BiSr2.html · Markdown: https://data.orchid-project.org/compounds/BiSr2.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 1); experimental median -104 kJ/mol-atom (n = 2); Materials Project -72.467 kJ/mol-atom (mp-aaaabrvf); OQMD -74.05 kJ/mol-atom (oqmd-7610).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -104 kJ/mol-atom (n = 1); Materials Project -72.467 kJ/mol-atom (mp-aaaabrvf); OQMD -74.05 kJ/mol-atom (oqmd-7610).
 
 Systems: [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of BiSr2 reported in the literature (4)
+Table: Enthalpy of formation of BiSr2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -104 kJ/mol-atom ± 1.67 | Sr2Bi | 298.15 | experimental |  | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22 |  |
 | -104 kJ/mol-atom ± 1.67 | Sr2Bi | 298.15 | experimental |  | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22 |  |
 | -76.47 kJ/mol-atom | Sr2Bi | 298.15 | model | CALPHAD | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 24 |  |
 | -73.23 kJ/mol-atom | Sr2Bi | 298.15 | DFT | First-principles calculations | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 23 |  |

@@ -1,23 +1,22 @@
 # Al3Y: enthalpy of formation
 
-> Enthalpy of formation of Al3Y: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al3Y: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al3Y.html · Markdown: https://data.orchid-project.org/compounds/Al3Y.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -47.3 kJ/mol-atom (n = 2); Materials Project -42.248 kJ/mol-atom (mp-aaabxgjn); OQMD -42.348 kJ/mol-atom (oqmd-321899).
+3 accepted literature formation-enthalpy value(s) (experimental 2, model 1); experimental median -47.3 kJ/mol-atom (n = 2); Materials Project -42.248 kJ/mol-atom (mp-aaabxgjn); OQMD -42.348 kJ/mol-atom (oqmd-321899).
 
 Systems: [Al–Y](https://data.orchid-project.org/systems/AL-Y.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al3Y reported in the literature (4)
+Table: Enthalpy of formation of Al3Y reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -47.5 kJ/mol-atom | YAl3 | 763 | experimental | EMF | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995; _cites F 1988_ | Table 1, p. 2, row 7 |  |
 | -47.1 kJ/mol-atom | YAl3 | 298 | experimental | Combustion calorimetry | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1 |  |
 | -47.5 kJ/mol-atom | YAl3 |  | model |  | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995 | Table 1, p. 2, row 2 |  |
-| -47.5 kJ/mol-atom | YAl3 |  | model |  | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995 | Table 1, p. 2, row 8 |  |
 
 ## DFT formation energies
 

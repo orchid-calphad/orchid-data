@@ -1,32 +1,25 @@
 # Ru2Sm5: enthalpy of formation
 
-> Enthalpy of formation of Ru2Sm5: 14 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ru2Sm5: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ru2Sm5.html · Markdown: https://data.orchid-project.org/compounds/Ru2Sm5.md
 
-14 accepted literature formation-enthalpy value(s) (model 10, DFT 4); Materials Project -25.912 kJ/mol-atom (mp-aaackvjr); OQMD -25.094 kJ/mol-atom (oqmd-1484187).
+7 accepted literature formation-enthalpy value(s) (model 5, DFT 2); Materials Project -25.912 kJ/mol-atom (mp-aaackvjr); OQMD -25.094 kJ/mol-atom (oqmd-1484187).
 
 Systems: [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ru2Sm5 reported in the literature (14)
+Table: Enthalpy of formation of Ru2Sm5 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -39.9781 kJ/mol-atom | Sm5Ru2 |  | model | Optimization LM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 78 |  |
-| -39.9781 kJ/mol-atom | Sm5Ru2 |  | model | Optimization LM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 78 |  |
-| -30.4526 kJ/mol-atom | Sm5Ru2 |  | model | Miedema’s model | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 81 |  |
 | -30.4526 kJ/mol-atom | Sm5Ru2 |  | model | Miedema’s model | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 81 |  |
 | -25.9792 kJ/mol-atom | Sm5Ru2 |  | model | Modified Miedema’s model | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 82 |  |
-| -25.9792 kJ/mol-atom | Sm5Ru2 |  | model | Modified Miedema’s model | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 82 |  |
-| -23.4727 kJ/mol-atom | Sm5Ru2 |  | model | Optimization EM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 79 |  |
 | -23.4727 kJ/mol-atom | Sm5Ru2 |  | model | Optimization EM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 79 |  |
 | -23.457 kJ/mol-atom | Sm5Ru2 |  | model | Optimization CM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 80 |  |
-| -23.457 kJ/mol-atom | Sm5Ru2 |  | model | Optimization CM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 80 |  |
 | -25.922 kJ/mol-atom | Sm5Ru2 |  | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 83 |  |
-| -25.922 kJ/mol-atom | Sm5Ru2 |  | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 83 |  |
-| -25.055 kJ/mol-atom | Sm5Ru2 | 0 | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 84 |  |
 | -25.055 kJ/mol-atom | Sm5Ru2 | 0 | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 84 |  |
 
 ## DFT formation energies

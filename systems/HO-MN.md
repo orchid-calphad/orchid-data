@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/HO-MN.html · Markdown: https://data.orchid-project.org/systems/HO-MN.md
 
-16 accepted literature values from 1 paper(s) (experimental 9, model 7); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+16 accepted literature values from 1 paper(s) (experimental 9, model 7); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HO-MN.json) · [CSV](https://data.orchid-project.org/systems/HO-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-MN/HoMn-09Wan.json) · [Markdown](https://data.orchid-project.org/systems/HO-MN.md)
 
@@ -73,22 +73,22 @@ Table: Invariant reactions reported in the literature for the Ho–Mn system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1398.15 | Eutectoid: δMn -> L + γMn | γMn: Mn 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 13 |  |
-| 1396.15 | Eutectoid: δMn -> L + γMn | δMn: Mn 0.9906; L: Mn 0.8686; γMn: Mn 1 | model | [1] Wang 2009 | Table 5, p. 5, row 14 |  |
-| 1359.15 | Peritectic: L + γMn -> HoMn12 | L: Mn 0.7877; γMn: Mn 0.99; HoMn12: Mn 0.9231 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
-| 1358.15 | Peritectic: L + γMn -> HoMn12 | HoMn12: Mn 0.9231 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 11 |  |
+| 1398.15 | eutectoid: δMn -> L + γMn | γMn: Mn 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 13 |  |
+| 1396.15 | eutectoid: δMn -> L + γMn | δMn: Mn 0.9906; L: Mn 0.8686; γMn: Mn 1 | model | [1] Wang 2009 | Table 5, p. 5, row 14 |  |
+| 1359.15 | peritectic: L + γMn -> HoMn12 | L: Mn 0.7877; γMn: Mn 0.99; HoMn12: Mn 0.9231 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
+| 1358.15 | peritectic: L + γMn -> HoMn12 | HoMn12: Mn 0.9231 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 11 |  |
 | 1358.15 | peritectic: L + ␥Mn ↔ HoMn12 |  | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ | p. 4 | “The phase diagram in the Mn-Ho system was originally proposed by Kirchmayr and Lugscheider \[12\] using differential thermal analysis. In this system there are an eutectic reaction of the L ↔ HoMn2 + (Ho) at 875 ◦ C, and three peritectic reactions of the L + Ho6 Mn23 ↔ HoMn2 at 965 ◦ C, L + HoMn12 ↔ Ho6 Mn23 at 1045 ◦ C and L + ␥Mn ↔ HoMn12 at 1085 ◦ C, and an eutectoid reaction of ␦Mn ↔ L + ␤Mn at…” |
-| 1345.15 | Eutectoid: γMn -> HoMn12 + βMn | γMn: Mn 0.9908; HoMn12: Mn 0.9231; βMn: Mn 1 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
-| 1320.15 | Peritectic: L + HoMn12 -> Ho6Mn23 | L: Mn 0.5183; HoMn12: Mn 0.9231; Ho6Mn23: Mn 0.7931 | model | [1] Wang 2009 | Table 5, p. 5, row 8 |  |
-| 1318.15 | Peritectic: L + HoMn12 -> Ho6Mn23 | HoMn12: Mn 0.9231; Ho6Mn23: Mn 0.7931 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 7 |  |
+| 1345.15 | eutectoid: γMn -> HoMn12 + βMn | γMn: Mn 0.9908; HoMn12: Mn 0.9231; βMn: Mn 1 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
+| 1320.15 | peritectic: L + HoMn12 -> Ho6Mn23 | L: Mn 0.5183; HoMn12: Mn 0.9231; Ho6Mn23: Mn 0.7931 | model | [1] Wang 2009 | Table 5, p. 5, row 8 |  |
+| 1318.15 | peritectic: L + HoMn12 -> Ho6Mn23 | HoMn12: Mn 0.9231; Ho6Mn23: Mn 0.7931 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 7 |  |
 | 1318.15 | peritectic: L + HoMn12 ↔ Ho6 Mn23 |  | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ | p. 4 | “The phase diagram in the Mn-Ho system was originally proposed by Kirchmayr and Lugscheider \[12\] using differential thermal analysis. In this system there are an eutectic reaction of the L ↔ HoMn2 + (Ho) at 875 ◦ C, and three peritectic reactions of the L + Ho6 Mn23 ↔ HoMn2 at 965 ◦ C, L + HoMn12 ↔ Ho6 Mn23 at 1045 ◦ C and L + ␥Mn ↔ HoMn12 at 1085 ◦ C, and an eutectoid reaction of ␦Mn ↔ L + ␤Mn at…” |
-| 1238.15 | Peritectic: L + Ho6Mn23 -> HoMn2 | L: Mn 0.3687; Ho6Mn23: Mn 0.7931; HoMn2: Mn 0.6667 | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
-| 1238.15 | Peritectic: L + Ho6Mn23 -> HoMn2 | Ho6Mn23: Mn 0.7931; HoMn2: Mn 0.6667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 5 |  |
+| 1238.15 | peritectic: L + Ho6Mn23 -> HoMn2 | L: Mn 0.3687; Ho6Mn23: Mn 0.7931; HoMn2: Mn 0.6667 | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
+| 1238.15 | peritectic: L + Ho6Mn23 -> HoMn2 | Ho6Mn23: Mn 0.7931; HoMn2: Mn 0.6667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 5 |  |
 | 1238.15 | peritectic: L + Ho6 Mn23 ↔ HoMn2 |  | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ | p. 4 | “The phase diagram in the Mn-Ho system was originally proposed by Kirchmayr and Lugscheider \[12\] using differential thermal analysis. In this system there are an eutectic reaction of the L ↔ HoMn2 + (Ho) at 875 ◦ C, and three peritectic reactions of the L + Ho6 Mn23 ↔ HoMn2 at 965 ◦ C, L + HoMn12 ↔ Ho6 Mn23 at 1045 ◦ C and L + ␥Mn ↔ HoMn12 at 1085 ◦ C, and an eutectoid reaction of ␦Mn ↔ L + ␤Mn at…” |
-| 1148.15 | Eutectic: L -> HoMn2 + (Ho) | L: Mn 0.2856; HoMn2: Mn 0.6667; (Ho): Mn 0 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
-| 1148.15 | Eutectic: L -> HoMn2 + (Ho) | L: Mn 0.27; HoMn2: Mn 0.6667; (Ho): Mn 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 3 |  |
+| 1148.15 | eutectic: L -> HoMn2 + (Ho) | L: Mn 0.2856; HoMn2: Mn 0.6667; (Ho): Mn 0 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
+| 1148.15 | eutectic: L -> HoMn2 + (Ho) | L: Mn 0.27; HoMn2: Mn 0.6667; (Ho): Mn 0 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 3 |  |
 | 1148.15 | eutectic: L ↔ HoMn2 + (Ho) |  | experimental | [1] Wang 2009; _cites Kirchmayr 1967_ | p. 4 | “The phase diagram in the Mn-Ho system was originally proposed by Kirchmayr and Lugscheider \[12\] using differential thermal analysis. In this system there are an eutectic reaction of the L ↔ HoMn2 + (Ho) at 875 ◦ C, and three peritectic reactions of the L + Ho6 Mn23 ↔ HoMn2 at 965 ◦ C, L + HoMn12 ↔ Ho6 Mn23 at 1045 ◦ C and L + ␥Mn ↔ HoMn12 at 1085 ◦ C, and an eutectoid reaction of ␦Mn ↔ L + ␤Mn at…” |
-| 979.15 | Eutectoid: βMn -> αMn + HoMn12 | βMn: Mn 0.9999; αMn: Mn 1; HoMn12: Mn 0.9231 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
+| 979.15 | eutectoid: βMn -> αMn + HoMn12 | βMn: Mn 0.9999; αMn: Mn 1; HoMn12: Mn 0.9231 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
 
 ## Sources
 

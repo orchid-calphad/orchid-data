@@ -92,13 +92,13 @@ Table: Phase transition, Cd–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 594.11 K | 594.11 | Congruent melting: L \<-> (Cd); _L: Sb 0; (Cd): Sb 0_ | experimental | [2] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 5, p. 5, row 10 |  |
-| Phase transition | 594.258 K | 594.258 | melting: L -> (Cd); _(Cd): Sb 0_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 1 |  |
+| Phase transition | 594.11 K | 594.11 | congruent melting: L \<-> (Cd); _L: Sb 0; (Cd): Sb 0_ | experimental | [2] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 5, p. 5, row 10 |  |
+| Phase transition | 594.258 K | 594.258 | congruent melting: L -> (Cd); _(Cd): Sb 0_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 1 |  |
 | Phase transition | 670 K | 670 |  | model | [3] Zabdyr 1997 | p. 6 | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
-| Phase transition | 670 K | 670 | congruent | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2 | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
+| Phase transition | 670 K | 670 | congruent transformation | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2 | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
 | Phase transition | 688 K | 688 |  | model | [3] Zabdyr 1997 | p. 6 | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
-| Phase transition | 688 K | 688 | congruent | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2 | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
-| Phase transition | 693.15 K | 693.15 | congruent: Cd4Sb3 = liquid | experimental | [1] Zabdyr 1993; _cites ref. 16_ | p. 3 | “The medium superheating (over 5OOOC) cauges the crystallization of Cd4Sb3 congruent phase with melting point at 420 C.” |
+| Phase transition | 688 K | 688 | congruent transformation | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2 | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
+| Phase transition | 693.15 K | 693.15 | congruent melting: Cd4Sb3 = liquid | experimental | [1] Zabdyr 1993; _cites ref. 16_ | p. 3 | “The medium superheating (over 5OOOC) cauges the crystallization of Cd4Sb3 congruent phase with melting point at 420 C.” |
 | Phase transition | 728.15 K | 728.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 2_ | Table 1, p. 2, row 11 |  |
 | Phase transition | 729 K | 729 |  | model | [3] Zabdyr 1997 | p. 6 | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
 | Phase transition | 729.15 K | 729.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | model | [1] Zabdyr 1993 | Table 1, p. 2, row 16 |  |
@@ -110,8 +110,8 @@ Table: Phase transition, Cd–Sb system
 | Phase transition | 732.15 K | 732.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 11_ | Table 1, p. 2, row 14 |  |
 | Phase transition | 732.23 K | 732.23 | L \<-> ω-CdSb; _L: Sb 0.5; ω-CdSb: Sb 0.5_ | model | [2] Liu 2009 | Table 5, p. 5, row 3 |  |
 | Phase transition | 738.15 K | 738.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 1_ | Table 1, p. 2, row 10 |  |
-| Phase transition | 903 K | 903 | Melting: L \<-> (Sb); _L: Sb 1; (Sb): Sb 1_ | unspecified | [2] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 1 |  |
-| Phase transition | 903.905 K | 903.905 | melting: L -> (Sb); _(Sb): Sb 1_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 26 |  |
+| Phase transition | 903 K | 903 | congruent melting: L \<-> (Sb); _L: Sb 1; (Sb): Sb 1_ | unspecified | [2] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 1 |  |
+| Phase transition | 903.905 K | 903.905 | congruent melting: L -> (Sb); _(Sb): Sb 1_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 26 |  |
 
 ## Sources
 

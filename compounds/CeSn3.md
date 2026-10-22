@@ -1,16 +1,16 @@
 # CeSn3: enthalpy of formation
 
-> Enthalpy of formation of CeSn3: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CeSn3: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CeSn3.html · Markdown: https://data.orchid-project.org/compounds/CeSn3.md
 
-7 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 2); experimental median -53.84 kJ/mol-atom (n = 2); Materials Project -51.678 kJ/mol-atom (mp-aaaaacvn); OQMD -55.531 kJ/mol-atom (oqmd-29195).
+6 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 1); experimental median -53.84 kJ/mol-atom (n = 2); Materials Project -51.678 kJ/mol-atom (mp-aaaaacvn); OQMD -55.531 kJ/mol-atom (oqmd-29195).
 
 Systems: [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) · [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CeSn3 reported in the literature (7)
+Table: Enthalpy of formation of CeSn3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -19,7 +19,6 @@ Table: Enthalpy of formation of CeSn3 reported in the literature (7)
 | -58 kJ/mol-atom | CeSn3 | 300 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 44 |  |
 | -57.62 kJ/mol-atom | CeSn3 | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 45 |  |
 | -51.64 kJ/mol-atom | CeSn3 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 41 |  |
-| -66.574 kJ/mol-atom | CeSn3 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [2] Li 2013 | Table 1, p. 3, row 16 |  |
 | -66.574 kJ/mol-atom | CeSn3 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [2] Li 2013 | Table 1, p. 3, row 16 |  |
 
 ## DFT formation energies

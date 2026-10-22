@@ -58,16 +58,16 @@ Table: Invariant reactions reported in the literature for the Au–Te system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 725 | Eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pelabon 1909_ | Table 2, p. 3, row 4 |  |
-| 721 | Eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 3 |  |
-| 720 | Eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 2 |  |
-| 718.4 | Eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | model | [1] Wang 2006 | Table 2, p. 3, row 5 |  |
-| 705 | Eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 1 |  |
-| 690 | Eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 9 |  |
-| 689.9 | Eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | model | [1] Wang 2006 | Table 2, p. 3, row 10 |  |
-| 689 | Eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 8 |  |
-| 688 | Eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pelabon 1909_ | Table 2, p. 3, row 7 |  |
-| 670 | Eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 6 |  |
+| 725 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pelabon 1909_ | Table 2, p. 3, row 4 |  |
+| 721 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 3 |  |
+| 720 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 2 |  |
+| 718.4 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | model | [1] Wang 2006 | Table 2, p. 3, row 5 |  |
+| 705 | eutectic: Liquid = fcc (Au) + AuTe2 | fcc (Au): Te 0; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 1 |  |
+| 690 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 9 |  |
+| 689.9 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | model | [1] Wang 2006 | Table 2, p. 3, row 10 |  |
+| 689 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 8 |  |
+| 688 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Pelabon 1909_ | Table 2, p. 3, row 7 |  |
+| 670 | eutectic: Liquid = hex (Te) + AuTe2 | hex (Te): Te 1; AuTe2: Te 0.666667 | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 6 |  |
 
 ## Formation enthalpies
 
@@ -106,12 +106,12 @@ Table: Phase transition, Au–Te system
 | Phase transition | 721.15 K | 721.15 | other: 60 at.% Te; _alloy: Au 0.4, Te 0.6_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 25 |  |
 | Phase transition | 721.15 K | 721.15 | other: 63 at.% Te; _alloy: Au 0.37, Te 0.63_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 26 |  |
 | Phase transition | 721.25 K | 721.25 | other: 57 at.% Te; _alloy: Au 0.43, Te 0.57_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 24 |  |
-| Phase transition | 725 K | 725 | Congruent: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 12 |  |
-| Phase transition | 736 K | 736 | Congruent: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 13 |  |
-| Phase transition | 736.75 K | 736.75 | congruent | experimental | [2] Feutelais 1994 | p. 2 | “Auo.333Te0.667 a congruent melting point at 463.6 ~” |
-| Phase transition | 736.75 K | 736.75 | congruent: 66.67 at.% Te; _alloy: Au 0.3333, Te 0.6667_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 27 |  |
-| Phase transition | 737 K | 737 | Congruent: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 11 |  |
-| Phase transition | 738.4 K | 738.4 | Congruent: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | model | [1] Wang 2006 | Table 2, p. 3, row 14 |  |
+| Phase transition | 725 K | 725 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 12 |  |
+| Phase transition | 736 K | 736 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 13 |  |
+| Phase transition | 736.75 K | 736.75 | congruent transformation | experimental | [2] Feutelais 1994 | p. 2 | “Auo.333Te0.667 a congruent melting point at 463.6 ~” |
+| Phase transition | 736.75 K | 736.75 | congruent transformation: 66.67 at.% Te; _alloy: Au 0.3333, Te 0.6667_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 27 |  |
+| Phase transition | 737 K | 737 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 11 |  |
+| Phase transition | 738.4 K | 738.4 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | model | [1] Wang 2006 | Table 2, p. 3, row 14 |  |
 
 ### Crystal structure (12)
 

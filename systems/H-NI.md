@@ -56,24 +56,24 @@ Table: Mixing / partial, H–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔH of solution_ | 8.4 kJ/mole-atoms | 182.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 12 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 16.93 kJ/mole-atoms | 264 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 17 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 14.25 kJ/mole-atoms | 323.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 15 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 10.96 kJ/mole-atoms | 327.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 1 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 8.03 kJ/mole-atoms | 388.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 16 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 12.72 kJ/mole-atoms | 406 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 5 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 11.76 kJ/mole-atoms | 450 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 14 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 12.7 kJ/mole-atoms | 500 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 3 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 12.09 kJ/mole-atoms | 502.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 13 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 12.34 kJ/mole-atoms | 600 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 2 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 10.64 kJ/mole-atoms | 666.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 18 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 12.24 kJ/mole-atoms | 725 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 11 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 10.8 kJ/mole-atoms | 727 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 6 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 15.2 kJ/mole-atoms | 750 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 8 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 13.6 kJ/mole-atoms | 806 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 7 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 15.1 kJ/mole-atoms | 945 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 9 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 15.7 kJ/mole-atoms | 977.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 4 |  |
-| Partial enthalpy; _printed: ΔH of solution_ | 16.65 kJ/mole-atoms | 984.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 10 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 8.4 kJ/mol-atom | 182.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 12 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 16.93 kJ/mol-atom | 264 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 17 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 14.25 kJ/mol-atom | 323.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 15 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 10.96 kJ/mol-atom | 327.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 1 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 8.03 kJ/mol-atom | 388.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 16 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 12.72 kJ/mol-atom | 406 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 5 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 11.76 kJ/mol-atom | 450 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 14 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 12.7 kJ/mol-atom | 500 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 3 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 12.09 kJ/mol-atom | 502.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 13 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 12.34 kJ/mol-atom | 600 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 2 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 10.64 kJ/mol-atom | 666.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 18 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 12.24 kJ/mol-atom | 725 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 11 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 10.8 kJ/mol-atom | 727 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 6 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 15.2 kJ/mol-atom | 750 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 8 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 13.6 kJ/mol-atom | 806 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 7 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 15.1 kJ/mol-atom | 945 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 9 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 15.7 kJ/mol-atom | 977.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 4 |  |
+| Partial enthalpy; _printed: ΔH of solution_ | 16.65 kJ/mol-atom | 984.5 | UNKNOWN | experimental | [1] Zeng 1999 | Table 3, p. 3, row 10 |  |
 
 ## Sources
 

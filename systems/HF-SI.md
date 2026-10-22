@@ -120,44 +120,44 @@ Table: Invariant reactions reported in the literature for the Hf–Si system (42
 | 2736.15 | L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | model | [1] Yang 2003 | Table 3, p. 3, row 20 |  |
 | 2633.15 | L+Hf3Si2->Hf5Si3 | Hf3Si2: Hf 0.6, Si 0.4; Hf5Si3: Hf 0.625, Si 0.375 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 7 |  |
 | 2633.15 | peritectic: L + Hf3Si2 ↔ Hf5Si3 |  | experimental | [2] Zhao 2000; _cites Brukl 1968_ | p. 1 | “The upper stability temperature of the Hf5Si3 phase was estimated at 2360 ± 30 °C, based on the incipient melting and collapsing data of Brukl \[1968Bru\]. The incipient melting and collapsing data exhibited a small plateau in the phase diagram while there was an invariant reaction, as shown in Fig. 1. It seems that there was a plateau at about 2360 ± 30 °C in the composition region close to Hf5Si3…” |
-| 2633.15 | Peritectic: L + Hf3Si2 -> Hf5Si3 | Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 7 |  |
-| 2630.15 | Peritectic: L + Hf3Si2 -> Hf5Si3 | L: Si 0.277; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 8 |  |
+| 2633.15 | peritectic: L + Hf3Si2 -> Hf5Si3 | Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 7 |  |
+| 2630.15 | peritectic: L + Hf3Si2 -> Hf5Si3 | L: Si 0.277; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 8 |  |
 | 2628.15 | L+Hf3Si2->Hf5Si3 | L: Si 0.303; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [1] Yang 2003 | Table 3, p. 3, row 6 |  |
 | 2594.15 | L+Hf3Si2->Hf5Si4 | L: Si 0.509; Hf3Si2: Si 0.4; Hf5Si4: Si 0.444 | model | [1] Yang 2003 | Table 3, p. 3, row 10 |  |
-| 2593.15 | Peritectic: Hf3Si2 + L -> Hf5Si4 | Hf3Si2: Si 0.4; Hf5Si4: Si 0.444444 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 13 |  |
+| 2593.15 | peritectic: Hf3Si2 + L -> Hf5Si4 | Hf3Si2: Si 0.4; Hf5Si4: Si 0.444444 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 13 |  |
 | 2593.15 | L+Hf3Si2->Hf5Si4 | Hf3Si2: Hf 0.6, Si 0.4; Hf5Si4: Hf 0.555556, Si 0.444444 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 11 |  |
-| 2586.15 | Peritectic: Hf3Si2 + L -> Hf5Si4 | Hf3Si2: Si 0.4; L: Si 0.546; Hf5Si4: Si 0.444444 | model | [2] Zhao 2000 | Table 2, p. 2, row 14 |  |
+| 2586.15 | peritectic: Hf3Si2 + L -> Hf5Si4 | Hf3Si2: Si 0.4; L: Si 0.546; Hf5Si4: Si 0.444444 | model | [2] Zhao 2000 | Table 2, p. 2, row 14 |  |
 | 2418.15 | L+Hf5Si4->HfSi | L: Si 0.583; Hf5Si4: Si 0.444; HfSi: Si 0.5 | model | [1] Yang 2003 | Table 3, p. 3, row 12 |  |
 | 2415.15 | L+Hf5Si4->HfSi | Hf5Si4: Hf 0.555556, Si 0.444444; HfSi: Hf 0.5, Si 0.5 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 13 |  |
-| 2415.15 | Peritectic: Hf5Si4 + L -> HfSi | Hf5Si4: Si 0.444444; HfSi: Si 0.5 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 15 |  |
-| 2406.15 | Peritectic: Hf5Si4 + L -> HfSi | Hf5Si4: Si 0.444444; L: Si 0.628; HfSi: Si 0.5 | model | [2] Zhao 2000 | Table 2, p. 2, row 16 |  |
+| 2415.15 | peritectic: Hf5Si4 + L -> HfSi | Hf5Si4: Si 0.444444; HfSi: Si 0.5 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 15 |  |
+| 2406.15 | peritectic: Hf5Si4 + L -> HfSi | Hf5Si4: Si 0.444444; L: Si 0.628; HfSi: Si 0.5 | model | [2] Zhao 2000 | Table 2, p. 2, row 16 |  |
 | 2365.15 | L+Hf5Si3->Hf2Si | L: Si 0.21; Hf5Si3: Si 0.375; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 3 |  |
 | 2359.15 | L+Hf5Si3->Hf2Si | L: Si 0.179; Hf5Si3: Si 0.375; Hf2Si: Si 0.333 | model | [1] Yang 2003; _cites Zhao 2000_ [doi](https://doi.org/10.1361/105497100770340408) | Table 3, p. 3, row 4 |  |
-| 2359.15 | Peritectic: L + Hf5Si3 -> Hf2Si | L: Si 0.179; Hf5Si3: Si 0.375; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 6 |  |
+| 2359.15 | peritectic: L + Hf5Si3 -> Hf2Si | L: Si 0.179; Hf5Si3: Si 0.375; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 6 |  |
 | 2356.15 | L+Hf5Si3->Hf2Si | Hf5Si3: Hf 0.625, Si 0.375; Hf2Si: Hf 0.666667, Si 0.333333 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 5 |  |
-| 2356.15 | Peritectic: L + Hf5Si3 -> Hf2Si | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 5 |  |
-| 2198.15 | Eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | experimental | [2] Zhao 2000 | Table 2, p. 2, row 9 |  |
+| 2356.15 | peritectic: L + Hf5Si3 -> Hf2Si | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 5 |  |
+| 2198.15 | eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | experimental | [2] Zhao 2000 | Table 2, p. 2, row 9 |  |
 | 2198.15 | Hf5Si3->Hf2Si+Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333; Hf3Si2: Si 0.4 | model | [1] Yang 2003 | Table 3, p. 3, row 8 |  |
 | 2198.15 | Hf5Si3->Hf2Si+Hf3Si2 | Hf5Si3: Hf 0.625, Si 0.375; Hf2Si: Hf 0.666667, Si 0.333333; Hf3Si2: Si 0.4 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 9 |  |
 | 2198.15 | eutectoid: Hf5Si3 ↔ Hf2Si + Hf3Si2 |  | experimental | [2] Zhao 2000 | p. 3 | “Based on the above data, it is clear that the eutectoid reaction, Hf5Si3 ↔ Hf2Si + Hf3Si2, exists at 1925 ± 25 °C.” |
-| 2197.15 | Eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | model | [2] Zhao 2000 | Table 2, p. 2, row 10 |  |
+| 2197.15 | eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | model | [2] Zhao 2000 | Table 2, p. 2, row 10 |  |
 | 2104.15 | L->bcc(Hf)+Hf2Si | L: Si 0.115; Hf2Si: Hf 0.666667, Si 0.333333 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 2 |  |
-| 2104.15 | Eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.115; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 1 |  |
-| 2101.15 | Eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.111; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 2 |  |
+| 2104.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.115; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 1 |  |
+| 2101.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.111; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 2 |  |
 | 2100.15 | L->bcc(Hf)+Hf2Si | L: Si 0.12; bcc(Hf): Si 0; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 1 |  |
 | 2023 | peritectic: Liquid +HfO2 (Monoclinic) → HfSiO4 |  | experimental | [3] Shin 2006 | p. 9 | “The enthalpy of formation of HfSiO4 is obtained from first-principles calculations and the entropy of formation is evaluated from its peritectic reaction, Liquid +HfO2 (Monoclinic) → HfSiO4 , at 2023 K as reported by” |
-| 2016.15 | Peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 4 |  |
+| 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 4 |  |
 | 2016.15 | bcc(Hf)->hcp(Hf) | bcc(Hf): Si 0 | model | [1] Yang 2003 | Table 3, p. 3, row 18 |  |
-| 2016.15 | Peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 3 |  |
+| 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 3 |  |
 | 2016.15 | bcc(Hf)->hcp(Hf) |  | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 19 |  |
-| 1819.15 | Peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; L: Si 0.808; HfSi2: Si 0.666667 | model | [2] Zhao 2000 | Table 2, p. 2, row 18 |  |
-| 1816.15 | Peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; HfSi2: Si 0.666667 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 17 |  |
+| 1819.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; L: Si 0.808; HfSi2: Si 0.666667 | model | [2] Zhao 2000 | Table 2, p. 2, row 18 |  |
+| 1816.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; HfSi2: Si 0.666667 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 17 |  |
 | 1816.15 | L+HfSi->HfSi2 | HfSi: Hf 0.5, Si 0.5; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 15 |  |
 | 1814.15 | L+HfSi->HfSi2 | L: Si 0.762; HfSi: Si 0.5; HfSi2: Si 0.667 | model | [1] Yang 2003 | Table 3, p. 3, row 14 |  |
 | 1603.15 | L->HfSi2+(Si) | L: Si 0.91; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 17 |  |
-| 1603.15 | Eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.91; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 19 |  |
+| 1603.15 | eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.91; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 19 |  |
 | 1603.15 | L->HfSi2+(Si) | L: Si 0.893; HfSi2: Si 0.667; (Si): Si 1 | model | [1] Yang 2003 | Table 3, p. 3, row 16 |  |
-| 1598.15 | Eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.908; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | model | [2] Zhao 2000 | Table 2, p. 2, row 20 |  |
+| 1598.15 | eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.908; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | model | [2] Zhao 2000 | Table 2, p. 2, row 20 |  |
 
 ## Formation enthalpies
 
@@ -187,8 +187,8 @@ Table: Phase transition, Hf–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2753.15 K | 2753.15 | Congruent: L -> Hf3Si2; _L: Si 0.4; Hf3Si2: Si 0.4_ | model | [2] Zhao 2000 | Table 2, p. 2, row 12 |  |
-| Phase transition | 2753.15 K | 2753.15 | Congruent: L -> Hf3Si2; _L: Si 0.4; Hf3Si2: Si 0.4_ | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 11 |  |
+| Phase transition | 2753.15 K | 2753.15 | congruent melting: L -> Hf3Si2; _L: Si 0.4; Hf3Si2: Si 0.4_ | model | [2] Zhao 2000 | Table 2, p. 2, row 12 |  |
+| Phase transition | 2753.15 K | 2753.15 | congruent melting: L -> Hf3Si2; _L: Si 0.4; Hf3Si2: Si 0.4_ | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 11 |  |
 
 ### Phase equilibrium (1)
 

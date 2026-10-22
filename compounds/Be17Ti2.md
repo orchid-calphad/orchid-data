@@ -1,22 +1,20 @@
 # Be17Ti2: enthalpy of formation
 
-> Enthalpy of formation of Be17Ti2: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Be17Ti2: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Be17Ti2.html · Markdown: https://data.orchid-project.org/compounds/Be17Ti2.md
 
-9 accepted literature formation-enthalpy value(s) (model 9); Materials Project -19.177 kJ/mol-atom (mp-aaacqjph); OQMD -19.201 kJ/mol-atom (oqmd-19076).
+7 accepted literature formation-enthalpy value(s) (model 7); Materials Project -19.177 kJ/mol-atom (mp-aaacqjph); OQMD -19.201 kJ/mol-atom (oqmd-19076).
 
 Systems: [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Be17Ti2 reported in the literature (9)
+Table: Enthalpy of formation of Be17Ti2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -31.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13 |  |
-| -31.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13 |  |
-| -26.4 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14 |  |
 | -26.4 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14 |  |
 | -24.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12 |  |
 | -22 kJ/mol-atom | βTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 15 |  |

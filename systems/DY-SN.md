@@ -123,7 +123,7 @@ Table: Phase transition, Dy–Sn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2139 K | 2139 | Liq. -> Dy5Sn3; _Liq.: Sn 0.375; Dy5Sn3: Sn 0.375_ | model | [1] Wang 2005 | Table 2, p. 4, row 3 |  |
 | Phase transition | 2143 K | 2143 | Liq. -> Dy5Sn3; _Liq.: Sn 0.375; Dy5Sn3: Sn 0.375_ | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 4 |  |
-| Phase transition | 2143 K | 2143 | congruent | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | p. 4 | “In the diagram of Eremenko et al. \[10\], Dy5 Sn3 melts congruently at 2143 K.” |
+| Phase transition | 2143 K | 2143 | congruent transformation | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | p. 4 | “In the diagram of Eremenko et al. \[10\], Dy5 Sn3 melts congruently at 2143 K.” |
 
 ## Sources
 

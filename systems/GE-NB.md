@@ -56,39 +56,39 @@ Table: Invariant reactions reported in the literature for the Ge–Nb system (33
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2453.15 | Congruent: L \<-> (Nb5Ge3) | L: Ge 0.38; (Nb5Ge3): Ge 0.38 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 13 |  |
-| 2453.15 | Congruent: L \<-> (Nb5Ge3) | L: Ge 0.37; (Nb5Ge3): Ge 0.37 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 14 |  |
-| 2452.15 | Congruent: L \<-> (Nb5Ge3) | L: Ge 0.382; (Nb5Ge3): Ge 0.382 | model | [1] Geng 2011 | Table 1, p. 2, row 15 |  |
-| 2423.15 | Congruent: L \<-> (Nb5Ge3) | L: Ge 0.357; (Nb5Ge3): Ge 0.357 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 11 |  |
-| 2338.15 | Congruent: L \<-> (Nb5Ge3) | L: Ge 0.384; (Nb5Ge3): Ge 0.384 | experimental | [1] Geng 2011; _cites Muller 1970_ | Table 1, p. 2, row 12 |  |
-| 2313.15 | P: L + (Nb5Ge3) \<-> (Nb3Ge2) | L: Ge 0.468; (Nb5Ge3): Ge 0.393; (Nb3Ge2): Ge 0.41 | model | [1] Geng 2011 | Table 1, p. 2, row 30 |  |
-| 2313.15 | P: L + (Nb5Ge3) \<-> (Nb3Ge2) | L: Ge 0.457; (Nb5Ge3): Ge 0.357; (Nb3Ge2): Ge 0.409 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 29 |  |
-| 2243.15 | Peritectic: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.19; Bcc-(Nb): Ge 0.08; (Nb3Ge): Ge 0.18 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 1 |  |
-| 2203.15 | E: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.265; (Nb3Ge): Ge 0.2; (Nb5Ge3): Ge 0.334 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 6 |  |
-| 2183.15 | Peritectic: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.185; Bcc-(Nb): Ge 0.04; (Nb3Ge): Ge 0.183 | experimental | [1] Geng 2011; _cites Muller 1970_ | Table 1, p. 2, row 2 |  |
-| 2176.15 | P: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.22; Bcc-(Nb): Ge 0.111; (Nb3Ge): Ge 0.181 | model | [1] Geng 2011 | Table 1, p. 2, row 5 |  |
-| 2173.15 | P: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.22; Bcc-(Nb): Ge 0.115; (Nb3Ge): Ge 0.18 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 4 |  |
-| 2173.15 | E: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.218; (Nb3Ge): Ge 0.188; (Nb5Ge3): Ge 0.361 | experimental | [1] Geng 2011; _cites Muller 1970_ | Table 1, p. 2, row 7 |  |
-| 2173.15 | P: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.22; Bcc-(Nb): Ge 0.115; (Nb3Ge): Ge 0.18 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 3 |  |
-| 2138.15 | E: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.25; (Nb3Ge): Ge 0.24; (Nb5Ge3): Ge 0.37 | model | [1] Geng 2011 | Table 1, p. 2, row 10 |  |
-| 2138.15 | E: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.27; (Nb3Ge): Ge 0.23; (Nb5Ge3): Ge 0.365 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 9 |  |
-| 2138.15 | E: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.27; (Nb3Ge): Ge 0.23; (Nb5Ge3): Ge 0.371 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 8 |  |
-| 1953.15 | Congruent: L \<-> (NbGe2) | L: Ge 0.661; (NbGe2): Ge 0.661 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 23 |  |
-| 1953.15 | Congruent: L \<-> (NbGe2) | L: Ge 0.67; (NbGe2): Ge 0.67 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 21 |  |
-| 1953.15 | Congruent: L \<-> (NbGe2) | L: Ge 0.665; (NbGe2): Ge 0.665 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 22 |  |
-| 1953.15 | Congruent: L \<-> (NbGe2) | L: Ge 0.667; (NbGe2): Ge 0.667 | model | [1] Geng 2011 | Table 1, p. 2, row 24 |  |
+| 2453.15 | congruent melting: L \<-> (Nb5Ge3) | L: Ge 0.38; (Nb5Ge3): Ge 0.38 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 13 |  |
+| 2453.15 | congruent melting: L \<-> (Nb5Ge3) | L: Ge 0.37; (Nb5Ge3): Ge 0.37 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 14 |  |
+| 2452.15 | congruent melting: L \<-> (Nb5Ge3) | L: Ge 0.382; (Nb5Ge3): Ge 0.382 | model | [1] Geng 2011 | Table 1, p. 2, row 15 |  |
+| 2423.15 | congruent melting: L \<-> (Nb5Ge3) | L: Ge 0.357; (Nb5Ge3): Ge 0.357 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 11 |  |
+| 2338.15 | congruent melting: L \<-> (Nb5Ge3) | L: Ge 0.384; (Nb5Ge3): Ge 0.384 | experimental | [1] Geng 2011; _cites Muller 1970_ | Table 1, p. 2, row 12 |  |
+| 2313.15 | peritectic: L + (Nb5Ge3) \<-> (Nb3Ge2) | L: Ge 0.468; (Nb5Ge3): Ge 0.393; (Nb3Ge2): Ge 0.41 | model | [1] Geng 2011 | Table 1, p. 2, row 30 |  |
+| 2313.15 | peritectic: L + (Nb5Ge3) \<-> (Nb3Ge2) | L: Ge 0.457; (Nb5Ge3): Ge 0.357; (Nb3Ge2): Ge 0.409 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 29 |  |
+| 2243.15 | peritectic: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.19; Bcc-(Nb): Ge 0.08; (Nb3Ge): Ge 0.18 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 1 |  |
+| 2203.15 | eutectic: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.265; (Nb3Ge): Ge 0.2; (Nb5Ge3): Ge 0.334 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 6 |  |
+| 2183.15 | peritectic: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.185; Bcc-(Nb): Ge 0.04; (Nb3Ge): Ge 0.183 | experimental | [1] Geng 2011; _cites Muller 1970_ | Table 1, p. 2, row 2 |  |
+| 2176.15 | peritectic: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.22; Bcc-(Nb): Ge 0.111; (Nb3Ge): Ge 0.181 | model | [1] Geng 2011 | Table 1, p. 2, row 5 |  |
+| 2173.15 | peritectic: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.22; Bcc-(Nb): Ge 0.115; (Nb3Ge): Ge 0.18 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 4 |  |
+| 2173.15 | eutectic: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.218; (Nb3Ge): Ge 0.188; (Nb5Ge3): Ge 0.361 | experimental | [1] Geng 2011; _cites Muller 1970_ | Table 1, p. 2, row 7 |  |
+| 2173.15 | peritectic: L + Bcc-(Nb) \<-> (Nb3Ge) | L: Ge 0.22; Bcc-(Nb): Ge 0.115; (Nb3Ge): Ge 0.18 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 3 |  |
+| 2138.15 | eutectic: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.25; (Nb3Ge): Ge 0.24; (Nb5Ge3): Ge 0.37 | model | [1] Geng 2011 | Table 1, p. 2, row 10 |  |
+| 2138.15 | eutectic: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.27; (Nb3Ge): Ge 0.23; (Nb5Ge3): Ge 0.365 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 9 |  |
+| 2138.15 | eutectic: L \<-> (Nb3Ge) + (Nb5Ge3) | L: Ge 0.27; (Nb3Ge): Ge 0.23; (Nb5Ge3): Ge 0.371 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 8 |  |
+| 1953.15 | congruent melting: L \<-> (NbGe2) | L: Ge 0.661; (NbGe2): Ge 0.661 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 23 |  |
+| 1953.15 | congruent melting: L \<-> (NbGe2) | L: Ge 0.67; (NbGe2): Ge 0.67 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 21 |  |
+| 1953.15 | congruent melting: L \<-> (NbGe2) | L: Ge 0.665; (NbGe2): Ge 0.665 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 22 |  |
+| 1953.15 | congruent melting: L \<-> (NbGe2) | L: Ge 0.667; (NbGe2): Ge 0.667 | model | [1] Geng 2011 | Table 1, p. 2, row 24 |  |
 | 1866.15 | eutectic: L ↔ (Nb5 Ge3 ) + (NbGe2 ) |  | experimental | [1] Geng 2011; _cites Feschotte 1979_ | p. 1 | “Feschotte et al. \[10\] measured and estimated the homogeneity ranges of the phases in the Nb-Ge phase diagram in the temperature range from 600 to 1050 ◦ C and also determined the temperatures of the eutectic reactions L ↔ (Nb5 Ge3 ) + (NbGe2 ) at 1593 ◦ C and L ↔ (NbGe2 ) + Diamond-(Ge) at 937 ◦ C respectively.” |
-| 1863.15 | E: L \<-> (Nb5Ge3) + (NbGe2) | (Nb5Ge3): Ge 0.375, Nb 0.625; (NbGe2): Ge 0.666667, Nb 0.333333 | experimental | [1] Geng 2011; _cites Feschotte 1979_ | Table 1, p. 2, row 18 |  |
-| 1863.15 | E: L \<-> (Nb3Ge2) + (NbGe2) | L: Ge 0.6; (Nb3Ge2): Ge 0.444; (NbGe2): Ge 0.668 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 16 |  |
-| 1862.55 | E: L \<-> (Nb5Ge3) + (NbGe2) | L: Ge 0.58; (Nb5Ge3): Ge 0.43; (NbGe2): Ge 0.66 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 20 |  |
-| 1862.55 | E: L \<-> (Nb3Ge2) + (NbGe2) | L: Ge 0.58; (Nb3Ge2): Ge 0.43; (NbGe2): Ge 0.66 | model | [1] Geng 2011 | Table 1, p. 2, row 17 |  |
-| 1853.15 | E: L \<-> (Nb5Ge3) + (NbGe2) | L: Ge 0.592; (Nb5Ge3): Ge 0.444; (NbGe2): Ge 0.662 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 19 |  |
-| 1223.15 | P: L + (NbGe2) \<-> Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.687; Diamond-(Ge): Ge 0.999 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 28 |  |
-| 1223.15 | P: L + (NbGe2) \<-> Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.687; Diamond-(Ge): Ge 0.999 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 27 |  |
+| 1863.15 | eutectic: L \<-> (Nb5Ge3) + (NbGe2) | (Nb5Ge3): Ge 0.375, Nb 0.625; (NbGe2): Ge 0.666667, Nb 0.333333 | experimental | [1] Geng 2011; _cites Feschotte 1979_ | Table 1, p. 2, row 18 |  |
+| 1863.15 | eutectic: L \<-> (Nb3Ge2) + (NbGe2) | L: Ge 0.6; (Nb3Ge2): Ge 0.444; (NbGe2): Ge 0.668 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 16 |  |
+| 1862.55 | eutectic: L \<-> (Nb5Ge3) + (NbGe2) | L: Ge 0.58; (Nb5Ge3): Ge 0.43; (NbGe2): Ge 0.66 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 20 |  |
+| 1862.55 | eutectic: L \<-> (Nb3Ge2) + (NbGe2) | L: Ge 0.58; (Nb3Ge2): Ge 0.43; (NbGe2): Ge 0.66 | model | [1] Geng 2011 | Table 1, p. 2, row 17 |  |
+| 1853.15 | eutectic: L \<-> (Nb5Ge3) + (NbGe2) | L: Ge 0.592; (Nb5Ge3): Ge 0.444; (NbGe2): Ge 0.662 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 19 |  |
+| 1223.15 | peritectic: L + (NbGe2) \<-> Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.687; Diamond-(Ge): Ge 0.999 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 28 |  |
+| 1223.15 | peritectic: L + (NbGe2) \<-> Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.687; Diamond-(Ge): Ge 0.999 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 27 |  |
 | 1210.95 | eutectic |  | model | [1] Geng 2011 | p. 9 | “The optimized eutectic reaction at (99.5 at.% Ge, 937.8 ◦ C) agrees with the experimental data measured by Feschotte et al. \[10\].” |
-| 1210.95 | E: L \<-> (NbGe2) + Diamond-(Ge) | L: Ge 0.995; (NbGe2): Ge 0.672; Diamond-(Ge): Ge 0.997 | model | [1] Geng 2011 | Table 1, p. 2, row 26 |  |
+| 1210.95 | eutectic: L \<-> (NbGe2) + Diamond-(Ge) | L: Ge 0.995; (NbGe2): Ge 0.672; Diamond-(Ge): Ge 0.997 | model | [1] Geng 2011 | Table 1, p. 2, row 26 |  |
 | 1210.15 | eutectic: L ↔ (NbGe2 ) + Diamond-(Ge) |  | experimental | [1] Geng 2011; _cites Feschotte 1979_ | p. 1 | “Feschotte et al. \[10\] measured and estimated the homogeneity ranges of the phases in the Nb-Ge phase diagram in the temperature range from 600 to 1050 ◦ C and also determined the temperatures of the eutectic reactions L ↔ (Nb5 Ge3 ) + (NbGe2 ) at 1593 ◦ C and L ↔ (NbGe2 ) + Diamond-(Ge) at 937 ◦ C respectively.” |
-| 1210.15 | E: L \<-> (NbGe2) + Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.674; Diamond-(Ge): Ge 0.999 | experimental | [1] Geng 2011; _cites Feschotte 1979_ | Table 1, p. 2, row 25 |  |
+| 1210.15 | eutectic: L \<-> (NbGe2) + Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.674; Diamond-(Ge): Ge 0.999 | experimental | [1] Geng 2011; _cites Feschotte 1979_ | Table 1, p. 2, row 25 |  |
 
 ## Other properties
 

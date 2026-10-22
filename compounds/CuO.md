@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/CuO.html · Markdown: https://data.orchid-project.org/compounds/CuO.md
 
-19 accepted literature formation-enthalpy value(s) (experimental 13, model 6); experimental median -155.77 kJ/mol-atom (n = 13); Materials Project -90.966 kJ/mol-atom (mp-aaaaacnc); OQMD -80.231 kJ/mol-atom (oqmd-1343583).
+19 accepted literature formation-enthalpy value(s) (experimental 13, model 6); experimental median -78.535 kJ/mol-atom (n = 13); Materials Project -90.966 kJ/mol-atom (mp-aaaaacnc); OQMD -80.231 kJ/mol-atom (oqmd-1343583).
 
 Systems: [Cu–O](https://data.orchid-project.org/systems/CU-O.html)
 
@@ -14,25 +14,25 @@ Table: Enthalpy of formation of CuO reported in the literature (19)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -161.71 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
-| -161.71 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 12 |  |
-| -161.08 kJ/mol-atom | CuO | 295 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites H 1932_ | Table 8, p. 13, row 3 |  |
-| -157.07 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
-| -157.07 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 11 |  |
-| -155.77 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 8 |  |
-| -155.77 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 9 |  |
-| -155.48 kJ/mol-atom | CuO | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 2 |  |
-| -155.48 kJ/mol-atom | CuO | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1 |  |
-| -152.3 kJ/mol-atom | CuO | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 7 |  |
-| -152.3 kJ/mol-atom | CuO | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
 | -138.16 kJ/mol-atom | CuO | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 5 |  |
 | -138.16 kJ/mol-atom | CuO | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
-| -156.06 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 14 |  |
-| -156.06 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13 |  |
-| -155.19 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 18 |  |
-| -155.19 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 17 |  |
-| -154.03 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 16 |  |
-| -154.03 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 15 |  |
+| -80.855 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
+| -80.855 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 12 |  |
+| -80.54 kJ/mol-atom | CuO | 295 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites H 1932_ | Table 8, p. 13, row 3 |  |
+| -78.535 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
+| -78.535 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 11 |  |
+| -77.885 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 8 |  |
+| -77.885 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 9 |  |
+| -77.74 kJ/mol-atom | CuO | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 2 |  |
+| -77.74 kJ/mol-atom | CuO | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1 |  |
+| -76.15 kJ/mol-atom | CuO | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 7 |  |
+| -76.15 kJ/mol-atom | CuO | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
+| -78.03 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 14 |  |
+| -78.03 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13 |  |
+| -77.595 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 18 |  |
+| -77.595 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 17 |  |
+| -77.015 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 16 |  |
+| -77.015 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 15 |  |
 
 ## DFT formation energies
 

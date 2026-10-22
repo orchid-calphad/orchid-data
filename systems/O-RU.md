@@ -31,9 +31,9 @@ Table: Invariant reactions reported in the literature for the O–Ru system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2607 | Eutectic: Liquid -> (Ru)-HCP + Gas |  | model | [1] Gossé 2018 | Table 5, p. 8, row 1 |  |
-| 1815 | Dissociation: (Ru)-HCP + Gas -> RuO2 |  | model | [1] Gossé 2018 | Table 5, p. 8, row 2 |  |
-| 1813 | Dissociation: (Ru)-HCP + Gas -> RuO2 |  | experimental | [1] Gossé 2018; _cites Bell 1963_ [doi](https://doi.org/10.1021/j100805a042) | Table 5, p. 8, row 3 |  |
+| 2607 | eutectic: Liquid -> (Ru)-HCP + Gas |  | model | [1] Gossé 2018 | Table 5, p. 8, row 1 |  |
+| 1815 | other: (Ru)-HCP + Gas -> RuO2 |  | model | [1] Gossé 2018 | Table 5, p. 8, row 2 |  |
+| 1813 | other: (Ru)-HCP + Gas -> RuO2 |  | experimental | [1] Gossé 2018; _cites Bell 1963_ [doi](https://doi.org/10.1021/j100805a042) | Table 5, p. 8, row 3 |  |
 
 ## Formation enthalpies
 

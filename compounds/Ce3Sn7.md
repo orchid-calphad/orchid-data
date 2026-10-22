@@ -1,22 +1,21 @@
 # Ce3Sn7: enthalpy of formation
 
-> Enthalpy of formation of Ce3Sn7: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ce3Sn7: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ce3Sn7.html · Markdown: https://data.orchid-project.org/compounds/Ce3Sn7.md
 
-4 accepted literature formation-enthalpy value(s) (model 2, DFT 2); Materials Project -56.75 kJ/mol-atom (mp-aaaabqay); OQMD -63.654 kJ/mol-atom (oqmd-11847).
+3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -56.75 kJ/mol-atom (mp-aaaabqay); OQMD -63.654 kJ/mol-atom (oqmd-11847).
 
 Systems: [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) · [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ce3Sn7 reported in the literature (4)
+Table: Enthalpy of formation of Ce3Sn7 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -62.19 kJ/mol-atom | Ce3Sn7 | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 38 |  |
 | -60.02 kJ/mol-atom | Ce3Sn7 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 37 |  |
-| -73.449 kJ/mol-atom | Ce3Sn7 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [2] Li 2013 | Table 1, p. 3, row 12 |  |
 | -73.449 kJ/mol-atom | Ce3Sn7 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [2] Li 2013 | Table 1, p. 3, row 12 |  |
 
 ## DFT formation energies

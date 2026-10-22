@@ -1,10 +1,10 @@
 # Sn–Ta system
 
-> Sn–Ta system: 60 accepted literature values (crystal structure 47, other property 8, phase transition 4, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Ta system: 57 accepted literature values (crystal structure 44, other property 8, phase transition 4, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-TA.html · Markdown: https://data.orchid-project.org/systems/SN-TA.md
 
-60 accepted literature values from 1 paper(s) (experimental 15, model 3, DFT 42); 1 calculated phase diagram(s).
+57 accepted literature values from 1 paper(s) (experimental 15, model 3, DFT 39); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-TA.json) · [CSV](https://data.orchid-project.org/systems/SN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-TA/SnTa-17Mar.json) · [Markdown](https://data.orchid-project.org/systems/SN-TA.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 15 |
 | model | 3 |
-| DFT | 42 |
+| DFT | 39 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 4 |
-| crystal structure | 47 |
+| crystal structure | 44 |
 | other property | 8 |
 
 ## Calculated phase diagrams
@@ -68,7 +68,7 @@ Table: Phase transition, Sn–Ta system
 | Phase transition | 2884 K | 2884 |  | model | [1] Marker 2017 | p. 23 | “The decomposition temperature of Ta3Sn is predicted to be 2884 K.” |
 | Phase transition | 2884 K | 2884 | other | model | [1] Marker 2017 | p. 1 | “No decomposition temperature of Ta3Sn has previously been reported in the literature but was predicted in this work to be 2884 K.” |
 
-### Crystal structure (47)
+### Crystal structure (44)
 
 Table: Crystal structure, Sn–Ta system
 
@@ -76,7 +76,6 @@ Table: Crystal structure, Sn–Ta system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.641 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11 |  |
 | Lattice a | 5.652 Å | 298 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
-| Lattice a | 5.652 Å | 298 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 12 |  |
 | Lattice a | 5.939 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
 | Lattice a | 5.93 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
 | Lattice a | 5.83 Å | 298 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |
@@ -85,7 +84,6 @@ Table: Crystal structure, Sn–Ta system
 | Lattice a | 5.319 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 16 |  |
 | Lattice a | 5.304 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 15 |  |
 | Lattice a | 5.29 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | experimental | [1] Marker 2017; _cites ref. 17_ | Table 1, p. 12, row 18 |  |
-| Lattice a | 5.319 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 17 |  |
 | Lattice a | 5.63 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
 | Lattice a | 3.328 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 2 |  |
 | Lattice a | 3.316 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 1 |  |
@@ -98,7 +96,6 @@ Table: Crystal structure, Sn–Ta system
 | Lattice b | 9.8 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
 | Lattice c | 19.2 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11 |  |
 | Lattice c | 19.238 Å | 298 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
-| Lattice c | 19.238 Å | 298 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 12 |  |
 | Lattice c | 3.214 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
 | Lattice c | 3.23 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
 | Lattice c | 3.18 Å | 298 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |

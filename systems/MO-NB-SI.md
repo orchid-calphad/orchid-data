@@ -26,13 +26,13 @@ Table: Invariant reactions reported in the literature for the Mo–Nb–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2258.51 | U: L + Mo(Nb)3Si \<-> β(Nb, Mo)5Si3 + (Nb)ss |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 4 |  |
-| 2241.5 | max: Liquid + Mo(Nb)Si2 \<-> Nb(Mo)Si2 |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 1 |  |
-| 2211.59 | U: L + β(Nb, Mo)5Si3 \<-> Nb(Mo)3Si + (Nb)ss |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 5 |  |
-| 2138.77 | U: L + Mo(Nb)Si2 \<-> Nb(Mo)Si2 + β(Nb, Mo)5Si3 |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 6 |  |
-| 2124.73 | min: Liquid \<-> β(Nb, Mo)5Si3 + Nb(Mo)Si2 |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 3 |  |
-| 1680.12 | max: Liquid \<-> Nb(Mo)Si2 + (Si) |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 2 |  |
-| 1677.97 | E: L \<-> Mo(Nb)Si2 + Nb(Mo)Si2 + (Si) |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 7 |  |
+| 2258.51 | quasi-peritectic: L + Mo(Nb)3Si \<-> β(Nb, Mo)5Si3 + (Nb)ss |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 4 |  |
+| 2241.5 | other: Liquid + Mo(Nb)Si2 \<-> Nb(Mo)Si2 |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 1 |  |
+| 2211.59 | quasi-peritectic: L + β(Nb, Mo)5Si3 \<-> Nb(Mo)3Si + (Nb)ss |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 5 |  |
+| 2138.77 | quasi-peritectic: L + Mo(Nb)Si2 \<-> Nb(Mo)Si2 + β(Nb, Mo)5Si3 |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 6 |  |
+| 2124.73 | other: Liquid \<-> β(Nb, Mo)5Si3 + Nb(Mo)Si2 |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 3 |  |
+| 1680.12 | other: Liquid \<-> Nb(Mo)Si2 + (Si) |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 2 |  |
+| 1677.97 | eutectic: L \<-> Mo(Nb)Si2 + Nb(Mo)Si2 + (Si) |  | unspecified | [1] Geng 2010 | Table 4, p. 13, row 7 |  |
 
 ## Sources
 

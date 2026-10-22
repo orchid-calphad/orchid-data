@@ -1,31 +1,26 @@
 # CeC2: enthalpy of formation
 
-> Enthalpy of formation of CeC2: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CeC2: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CeC2.html · Markdown: https://data.orchid-project.org/compounds/CeC2.md
 
-13 accepted literature formation-enthalpy value(s) (experimental 13); experimental median -29.5 kJ/mol-atom (n = 13); Materials Project -15.378 kJ/mol-atom (mp-aaaaaeff); OQMD -8.01 kJ/mol-atom (oqmd-13373).
+8 accepted literature formation-enthalpy value(s) (experimental 8); experimental median -30.4 kJ/mol-atom (n = 8); Materials Project -15.378 kJ/mol-atom (mp-aaaaaeff); OQMD -8.01 kJ/mol-atom (oqmd-13373).
 
 Systems: [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CeC2 reported in the literature (13)
+Table: Enthalpy of formation of CeC2 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -40.03 kJ/mol-atom ± 3.7 | CeC2 | 298 | experimental | Dynamic effusion MS | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Vidhya 2003_ [doi](https://doi.org/10.1016/s0022-3115%2803%2900071-0) | Table 2, p. 2, row 16 |  |
-| -40.03 kJ/mol-atom ± 3.7 | CeC2 | 298 | experimental | Dynamic effusion MS | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Vidhya 2003_ [doi](https://doi.org/10.1016/s0022-3115%2803%2900071-0) | Table 2, p. 2, row 16 |  |
 | -34.9 kJ/mol-atom | CeC2 | 298 | experimental | Knudsen effusion | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Faircloth 1968_ [doi](https://doi.org/10.1016/0022-1902%2868%2980476-2) | Table 2, p. 2, row 15 |  |
-| -32.4 kJ/mol-atom ± 1.8 | CeC2 | 298 | experimental | Bomb calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 14 |  |
 | -32.4 kJ/mol-atom ± 1.8 | CeC2 | 298 | experimental | Bomb calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 14 |  |
 | -31.3 kJ/mol-atom | CeC2 | 298 | experimental | Controlled CO pressure | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Pialoux 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990046-x) | Table 2, p. 2, row 13 |  |
 | -29.5 kJ/mol-atom ± 3.5 | CeC2 | 298 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 12 |  |
-| -29.5 kJ/mol-atom ± 3.5 | CeC2 | 298 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 12 |  |
 | -27.2 kJ/mol-atom | CeC2 | 298 | experimental | Knudsen cell MS | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Winchell 1967_ [doi](https://doi.org/10.1021/j100872a050) | Table 2, p. 2, row 10 |  |
 | -25.4 kJ/mol-atom ± 1.4 | CeC2 | 298 | experimental | Synthesis calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 11 |  |
-| -25.4 kJ/mol-atom ± 1.4 | CeC2 | 298 | experimental | Synthesis calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 11 |  |
-| -20.9 kJ/mol-atom ± 7 | CeC2 | 298 | experimental | Knudsen cell MS | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Balducci 1974_ | Table 2, p. 2, row 9 |  |
 | -20.9 kJ/mol-atom ± 7 | CeC2 | 298 | experimental | Knudsen cell MS | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Balducci 1974_ | Table 2, p. 2, row 9 |  |
 
 ## DFT formation energies

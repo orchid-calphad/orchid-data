@@ -1,10 +1,10 @@
 # Ga–Y system
 
-> Ga–Y system: 59 accepted literature values (formation 24, invariant reaction 22, phase transition 10, mixing / partial 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Y system: 57 accepted literature values (formation 24, invariant reaction 20, phase transition 10, mixing / partial 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-Y.html · Markdown: https://data.orchid-project.org/systems/GA-Y.md
 
-59 accepted literature values from 1 paper(s) (experimental 26, model 33); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+57 accepted literature values from 1 paper(s) (experimental 26, model 31); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-Y.json) · [CSV](https://data.orchid-project.org/systems/GA-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-Y/GaY-13Idb.json) · [Markdown](https://data.orchid-project.org/systems/GA-Y.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 26 |
-| model | 33 |
+| model | 31 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 22 |
+| invariant reaction | 20 |
 | phase transition | 10 |
 | formation | 24 |
 | mixing / partial | 3 |
@@ -52,7 +52,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–Y system (22)
+Table: Invariant reactions reported in the literature for the Ga–Y system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -71,10 +71,8 @@ Table: Invariant reactions reported in the literature for the Ga–Y system (22)
 | 1283 | Liq -> H_Ga3Y5 + α(Y) | L: Y 0.7747; H_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 18 |  |
 | 1273 | H_Ga3Y5 -> M_Ga3Y5 + α(Y) | H_Ga3Y5: Y 0.625; M_Ga3Y5: Y 0.615 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 19 |  |
 | 1273 | H_Ga3Y5 -> M_Ga3Y5 + α(Y) | H_Ga3Y5: Y 0.625; M_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 21 |  |
-| 1273 | H_Ga3Y5 -> M_Ga3Y5 + α(Y) | H_Ga3Y5: Y 0.625; M_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 20 |  |
 | 1073 | M_Ga3Y5 -> L_Ga3Y5 + α(Y) | M_Ga3Y5: Y 0.625; L_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 24 |  |
 | 1073 | M_Ga3Y5 -> L_Ga3Y5 + α(Y) | M_Ga3Y5: Y 0.625; L_Ga3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 22 |  |
-| 1073 | M_Ga3Y5 -> L_Ga3Y5 + α(Y) | M_Ga3Y5: Y 0.625; L_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 23 |  |
 | 303 | (Ga) -> Liq + Ga2Y | (Ga): Y 0; L: Y 1.000e-4; Ga2Y: Y 0.333333 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 1 |  |
 | 302 | (Ga) -> Liq + Ga2Y | (Ga): Y 0; L: Y 0.0057; Ga2Y: Y 0.333333 | model | [1] Idbenali 2013 | Table 4, p. 5, row 2 |  |
 | 300.7 | (Ga) -> Liq + Ga2Y | (Ga): Y 0; L: Y 0.0235; Ga2Y: Y 0.333333 | model | [1] Idbenali 2013 | Table 4, p. 5, row 3 |  |
@@ -121,13 +119,13 @@ Table: Phase transition, Ga–Y system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1568 K | 1568 |  | experimental | [1] Idbenali 2013 | p. 2 | “while Ga3Y5 melts incongruently at 1,568 K.” |
-| Phase transition | 1582 K | 1582 | congruent | model | [1] Idbenali 2013 | p. 6 | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
-| Phase transition | 1588 K | 1588 | congruent | model | [1] Idbenali 2013 | p. 6 | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
+| Phase transition | 1582 K | 1582 | congruent transformation | model | [1] Idbenali 2013 | p. 6 | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
+| Phase transition | 1588 K | 1588 | congruent transformation | model | [1] Idbenali 2013 | p. 6 | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
 | Phase transition | 1615 K | 1615 | Liq -> Ga2Y; _Ga2Y: Y 0.3367_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 6 |  |
 | Phase transition | 1623 K | 1623 | Liq -> Ga2Y; _Ga2Y: Y 0.3333_ | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 4 |  |
 | Phase transition | 1624 K | 1624 | Liq -> Ga2Y; _Ga2Y: Y 0.332_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 5 |  |
 | Phase transition | 1658 K | 1658 | Liq -> GaY; _GaY: Y 0.5_ | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 10 |  |
-| Phase transition | 1658 K | 1658 | congruent | experimental | [1] Idbenali 2013 | p. 1 | “The Ga2Y and GaY compounds melt congruently at 1,623 and 1,658 K, respectively,” |
+| Phase transition | 1658 K | 1658 | congruent transformation | experimental | [1] Idbenali 2013 | p. 1 | “The Ga2Y and GaY compounds melt congruently at 1,623 and 1,658 K, respectively,” |
 | Phase transition | 1666 K | 1666 | Liq -> GaY; _GaY: Y 0.5_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 12 |  |
 | Phase transition | 1672 K | 1672 | Liq -> GaY; _GaY: Y 0.5_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 11 |  |
 
@@ -139,7 +137,7 @@ Table: Mixing / partial, Ga–Y system
 |---|---:|---:|---|---|---|---|---|
 | Partial enthalpy; _printed: partial enthalpy of liquid Y in liquid Ga_ | -180.25 unspecified | 14 |  | model | [1] Idbenali 2013; _cites de Boer FR 1988_ | p. 8 | “liquid Y in liquid Ga (R-K equation) at 1,750 K (-181 kJ mol-1 at.-1) is in good agreement with the data (-181.63 ± 7.93 kJ mol-1 at.-1) by \[6\] or (-184.4 ± 5.3 kJ mol-1 at.-1) by \[24\] at 1,099 K or the predicted value (-180.25 kJ mol-1 at.-1) by \[27\] at 14 K (Table 5).” |
 | Partial enthalpy; _printed: partial enthalpy of liquid Y in liquid Ga_ | -184.4 unspecified ± 5.3 | 1099 |  | experimental | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | p. 8 | “liquid Y in liquid Ga (R-K equation) at 1,750 K (-181 kJ mol-1 at.-1) is in good agreement with the data (-181.63 ± 7.93 kJ mol-1 at.-1) by \[6\] or (-184.4 ± 5.3 kJ mol-1 at.-1) by \[24\] at 1,099 K or the predicted value (-180.25 kJ mol-1 at.-1) by \[27\] at 14 K (Table 5).” |
-| Partial enthalpy; _printed: partial enthalpy of liquid Y in liquid Ga_ | -181 kJ mol-1 at.-1 | 1750 |  | model | [1] Idbenali 2013 | p. 8 | “liquid Y in liquid Ga (R-K equation) at 1,750 K (-181 kJ mol-1 at.-1) is in good agreement with the data (-181.63 ± 7.93 kJ mol-1 at.-1) by \[6\] or (-184.4 ± 5.3 kJ mol-1 at.-1) by \[24\] at 1,099 K or the predicted value (-180.25 kJ mol-1 at.-1) by \[27\] at 14 K (Table 5).” |
+| Partial enthalpy; _printed: partial enthalpy of liquid Y in liquid Ga_ | -181 kJ/mol-atom | 1750 |  | model | [1] Idbenali 2013 | p. 8 | “liquid Y in liquid Ga (R-K equation) at 1,750 K (-181 kJ mol-1 at.-1) is in good agreement with the data (-181.63 ± 7.93 kJ mol-1 at.-1) by \[6\] or (-184.4 ± 5.3 kJ mol-1 at.-1) by \[24\] at 1,099 K or the predicted value (-180.25 kJ mol-1 at.-1) by \[27\] at 14 K (Table 5).” |
 
 ## Sources
 

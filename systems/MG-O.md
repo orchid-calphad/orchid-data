@@ -56,7 +56,7 @@ Table: Phase transition, Mg–O system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 3249.2 K | 3249.2 | L (49.98 at.% O) = Gas (8.7 at.% O) + MgO(s) | model | [2] Liang 2018 | p. 11 | “At 3249.2 K the three-phase equilibrium, L (49.98 at.% O) = Gas (8.7 at.% O) + MgO(s) is calculated in” |
-| Phase transition | 3249.6 K | 3249.6 | congruent | model | [2] Liang 2018 | p. 11 | “This stable range of liquid oxide extends from 49.98 to 50.01 at.% O at 1 bar with a calculated congruent melting point of MgO at 3249.6 K.” |
+| Phase transition | 3249.6 K | 3249.6 | congruent transformation | model | [2] Liang 2018 | p. 11 | “This stable range of liquid oxide extends from 49.98 to 50.01 at.% O at 1 bar with a calculated congruent melting point of MgO at 3249.6 K.” |
 
 ### Phase equilibrium (26)
 
@@ -76,20 +76,20 @@ Table: Phase equilibrium, Mg–O system
 | Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1990_ | Table 2, p. 6, row 12 |  |
 | Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 0.999998, O 2.000e-6_ | unspecified | [1] Hallstedt 1993 | Table 2, p. 6, row 10 |  |
 | Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 0.999986, O 1.400e-5_ | model | [1] Hallstedt 1993; _cites Fikner_ | Table 2, p. 6, row 11 |  |
-| Phase composition |  | 2647.5 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 4, p. 8, row 1 |  |
-| Phase composition |  | 3073 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Riley 1966_ | Table 4, p. 8, row 4 |  |
-| Phase composition |  | 3073 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Kanolt 1913_ | Table 4, p. 8, row 2 |  |
-| Phase composition |  | 3096 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Panek 1979_ | Table 4, p. 8, row 5 |  |
-| Phase composition |  | 3098 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites McNally 1961_ | Table 4, p. 8, row 3 |  |
-| Phase composition |  | 3098 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Factsage 2017_ | Table 4, p. 8, row 12 |  |
-| Phase composition |  | 3099 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Hlavac 1982_ [doi](https://doi.org/10.1351/pac198254030681) | Table 4, p. 8, row 8 |  |
-| Phase composition |  | 3100 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites SGTE 2013_ | Table 4, p. 8, row 13 |  |
-| Phase composition |  | 3100 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874914) | Table 4, p. 8, row 9 |  |
-| Phase composition |  | 3105 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Chase 1998_ | Table 4, p. 8, row 11 |  |
-| Phase composition |  | 3105 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Kubaschewski 1993_ | Table 4, p. 8, row 10 |  |
-| Phase composition |  | 3215 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Chernyshev 1993_ [doi](https://doi.org/10.1016/0040-6031%2893%2980422-7) | Table 4, p. 8, row 6 |  |
-| Phase composition |  | 3250 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Ronchi 2001_ [doi](https://doi.org/10.1063/1.1398069) | Table 4, p. 8, row 7 |  |
-| Phase composition |  | 3250 | congruent: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018 | Table 4, p. 8, row 14 |  |
+| Phase composition |  | 2647.5 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 4, p. 8, row 1 |  |
+| Phase composition |  | 3073 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Riley 1966_ | Table 4, p. 8, row 4 |  |
+| Phase composition |  | 3073 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Kanolt 1913_ | Table 4, p. 8, row 2 |  |
+| Phase composition |  | 3096 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Panek 1979_ | Table 4, p. 8, row 5 |  |
+| Phase composition |  | 3098 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites McNally 1961_ | Table 4, p. 8, row 3 |  |
+| Phase composition |  | 3098 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Factsage 2017_ | Table 4, p. 8, row 12 |  |
+| Phase composition |  | 3099 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Hlavac 1982_ [doi](https://doi.org/10.1351/pac198254030681) | Table 4, p. 8, row 8 |  |
+| Phase composition |  | 3100 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites SGTE 2013_ | Table 4, p. 8, row 13 |  |
+| Phase composition |  | 3100 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874914) | Table 4, p. 8, row 9 |  |
+| Phase composition |  | 3105 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Chase 1998_ | Table 4, p. 8, row 11 |  |
+| Phase composition |  | 3105 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Kubaschewski 1993_ | Table 4, p. 8, row 10 |  |
+| Phase composition |  | 3215 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Chernyshev 1993_ [doi](https://doi.org/10.1016/0040-6031%2893%2980422-7) | Table 4, p. 8, row 6 |  |
+| Phase composition |  | 3250 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Ronchi 2001_ [doi](https://doi.org/10.1063/1.1398069) | Table 4, p. 8, row 7 |  |
+| Phase composition |  | 3250 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018 | Table 4, p. 8, row 14 |  |
 
 ## Sources
 

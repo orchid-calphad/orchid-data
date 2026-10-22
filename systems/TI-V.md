@@ -48,7 +48,7 @@ Table: Phase transition, Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1881 K | 1881 | Congruent: bcc-A2 -> Liquid; _bcc-A2: V 0.333; Liquid: V 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 314, row 1 |  |
+| Phase transition | 1881 K | 1881 | congruent melting: bcc-A2 -> Liquid; _bcc-A2: V 0.333; Liquid: V 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 314, row 1 |  |
 | Phase transition | 1881 K | 1881 | other | experimental | [2] Ghosh 2002; _cites Rudy 1969_ | p. 3 | “The liquidus and solidus have a minima at 31 at.% V and 1881 ± 5 K \[1969Rud, 1975Col\].” |
 
 ### Crystal structure (20)

@@ -67,7 +67,7 @@ Table: Phase transition, Fe–V system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1431 K | 1431 |  | experimental | [2] Andersson 1983; _cites ref. 1_ | p. 4 | “Spencer and Putland (1) found the temperature 1431 K The information presented by Hack et al (4) indicates a maximum temperature between 1473 K and 1523 K and the vanadium content a little less than 0.5.” |
 | Phase transition | 1473 K | 1473 |  | experimental | [2] Andersson 1983; _cites Hansen_ | p. 4 | “The information presented by Hack et al (4) indicates a maximum temperature between 1473 K and 1523 K and the vanadium content a little less than 0.5.” |
-| Phase transition | 1525 K | 1525 | congruent | model | [3] Kumar 1991 | p. 7 | “The calculated a\* u congruent transformation point is at 1525 K f1252°Cf corresponding to XV = 0.509.” |
+| Phase transition | 1525 K | 1525 | congruent transformation | model | [3] Kumar 1991 | p. 7 | “The calculated a\* u congruent transformation point is at 1525 K f1252°Cf corresponding to XV = 0.509.” |
 | Phase transition | 1743.5 K | 1743.5 |  | model | [3] Kumar 1991 | p. 7 | “The azeotropic melting minimum 1743.5 K f1470_4°C1 and at XV = 0.311.” |
 
 ## Sources

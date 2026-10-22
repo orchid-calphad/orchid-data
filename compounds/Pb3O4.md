@@ -1,24 +1,21 @@
 # Pb3O4: enthalpy of formation
 
-> Enthalpy of formation of Pb3O4: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Pb3O4: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pb3O4.html · Markdown: https://data.orchid-project.org/compounds/Pb3O4.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 2, unspecified 2); experimental median -102.669 kJ/mol-atom (n = 2); Materials Project -139.612 kJ/mol-atom (mp-aaaabhmn); OQMD -123.983 kJ/mol-atom (oqmd-669607).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, unspecified 1); experimental median -102.669 kJ/mol-atom (n = 1); Materials Project -139.612 kJ/mol-atom (mp-aaaabhmn); OQMD -123.983 kJ/mol-atom (oqmd-669607).
 
 Systems: [O–Pb](https://data.orchid-project.org/systems/O-PB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pb3O4 reported in the literature (6)
+Table: Enthalpy of formation of Pb3O4 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -102.669 kJ/mol-atom | Pb3O4-T | 298.15 | experimental |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 12 |  |
-| -102.669 kJ/mol-atom | Pb3O4-T | 298.15 | experimental |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 12 |  |
 | -104.839 kJ/mol-atom | Pb3O4-T | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 14 |  |
-| -104.839 kJ/mol-atom | Pb3O4-T | 298.15 | model |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998 | Table 1, p. 1, row 14 |  |
-| -102.669 kJ/mol-atom | Pb3O4-T | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 13 |  |
 | -102.669 kJ/mol-atom | Pb3O4-T | 298.15 | unspecified |  | [O–Pb](https://data.orchid-project.org/systems/O-PB.html) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 13 |  |
 
 ## DFT formation energies

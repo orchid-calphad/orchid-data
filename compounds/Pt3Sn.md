@@ -1,16 +1,16 @@
 # Pt3Sn: enthalpy of formation
 
-> Enthalpy of formation of Pt3Sn: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Pt3Sn: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pt3Sn.html · Markdown: https://data.orchid-project.org/compounds/Pt3Sn.md
 
-9 accepted literature formation-enthalpy value(s) (experimental 3, model 6); experimental median -50.2 kJ/mol-atom (n = 3); Materials Project -36.358 kJ/mol-atom (mp-aaaabfap); OQMD -39.531 kJ/mol-atom (oqmd-2170058).
+7 accepted literature formation-enthalpy value(s) (experimental 3, model 4); experimental median -50.2 kJ/mol-atom (n = 3); Materials Project -36.358 kJ/mol-atom (mp-aaaabfap); OQMD -39.531 kJ/mol-atom (oqmd-2170058).
 
 Systems: [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pt3Sn reported in the literature (9)
+Table: Enthalpy of formation of Pt3Sn reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -18,9 +18,7 @@ Table: Enthalpy of formation of Pt3Sn reported in the literature (9)
 | -50.2 kJ/mol-atom | Pt3Sn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 6 |  |
 | -43 kJ/mol-atom | Pt3Sn | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 7 |  |
 | -55.3 kJ/mol-atom | Pt3Sn | 1659.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 1 |  |
-| -55.3 kJ/mol-atom | Pt3Sn | 1659.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 2 |  |
 | -37.2 kJ/mol-atom | Pt3Sn | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 4 |  |
-| -37.2 kJ/mol-atom | Pt3Sn | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 5 |  |
 | -35.9403 kJ/mol-atom | Pt3Sn |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 1 |  |
 | -35.904 kJ/mol-atom | Pt3Sn |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 1 |  |
 

@@ -68,32 +68,32 @@ Table: Invariant reactions reported in the literature for the Fe–Th system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2028.15 | Melting: L -> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 23 |  |
-| 2022.65 | Melting: L -> βTh | L: Th 1 | model | [1] Wang 2008 | Table 4, p. 5, row 24 |  |
-| 1811.15 | Melting: L -> δFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 1 |  |
-| 1810.65 | Melting: L -> δFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 2 |  |
-| 1735.55 | Congruent: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 10 |  |
-| 1735.15 | Congruent: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 9 |  |
-| 1685.45 | Eutectic: L -> (αFe) + Fe17Th2 | L: Th 0.0484; (αFe): Fe 0.777778, Th 0.222222; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 8 |  |
-| 1685.15 | Eutectic: L -> (αFe) + Fe17Th2 | L: Th 0.05; (αFe): Fe 0.777778, Th 0.222222; Fe17Th2: Fe 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 7 |  |
-| 1667.45 | Allotropic: δFe -> γFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 4 |  |
-| 1667.15 | Allotropic: δFe -> γFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 3 |  |
-| 1643.15 | Peritectic: L + Fe17Th2 -> Fe5Th | L: Th 0.2; Fe17Th2: Fe 0.894737, Th 0.105263; Fe5Th: Fe 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 11 |  |
-| 1642.25 | Peritectic: L + Fe17Th2 -> Fe5Th | L: Th 0.2052; Fe17Th2: Fe 0.894737, Th 0.105263; Fe5Th: Fe 0.833333, Th 0.166667 | model | [1] Wang 2008 | Table 4, p. 5, row 12 |  |
-| 1633.25 | Polymorphic: βTh -> αTh | αTh: Fe 0.777778, Th 0.222222; L: Th 1 | model | [1] Wang 2008 | Table 4, p. 5, row 26 |  |
-| 1633.15 | Polymorphic: βTh -> αTh | αTh: Fe 0.777778, Th 0.222222; L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 25 |  |
-| 1483.15 | Peritectic: L + Fe5Th -> βFe7Th2 | L: Th 0.3; Fe5Th: Fe 0.833333, Th 0.166667; βFe7Th2: Fe 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 13 |  |
-| 1482.85 | Peritectic: L + Fe5Th -> βFe7Th2 | L: Th 0.3371; Fe5Th: Fe 0.833333, Th 0.166667; βFe7Th2: Fe 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 4, p. 5, row 14 |  |
-| 1458.15 | Polymorphic: βFe7Th2 -> αFe7Th2 | βFe7Th2: Fe 0.777778, Th 0.222222; αFe7Th2: Fe 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 15 |  |
-| 1457.45 | Polymorphic: βFe7Th2 -> αFe7Th2 | βFe7Th2: Fe 0.777778, Th 0.222222; αFe7Th2: Fe 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 4, p. 5, row 16 |  |
-| 1373.25 | Peritectic: L + aFe7Th2 -> Fe3Th | L: Th 0.4135; aFe7Th2: Fe 0.777778, Th 0.222222; Fe3Th: Fe 0.75, Th 0.25 | model | [1] Wang 2008 | Table 4, p. 5, row 18 |  |
-| 1373.15 | Peritectic: L + aFe7Th2 -> Fe3Th | L: Th 0.41; aFe7Th2: Fe 0.777778, Th 0.222222; Fe3Th: Fe 0.75, Th 0.25 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 17 |  |
-| 1213.15 | Peritectic: L + (αTh) -> Fe3Th7 | L: Th 0.69; (αTh): Fe 0.777778, Th 0.222222; Fe3Th7: Fe 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 21 |  |
-| 1212.65 | Peritectic: L + (αTh) -> Fe3Th7 | L: Th 0.6985; (αTh): Fe 0.777778, Th 0.222222; Fe3Th7: Fe 0.3, Th 0.7 | model | [1] Wang 2008 | Table 4, p. 5, row 22 |  |
-| 1185.15 | Allotropic: γFe -> αFe | αFe: Fe 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 5 |  |
-| 1184.85 | Allotropic: γFe -> αFe | αFe: Fe 0.777778, Th 0.222222; L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 6 |  |
-| 1127.95 | Eutectic: L -> Fe3Th + Fe3Th7 | L: Th 0.5624; Fe3Th: Fe 0.75, Th 0.25; Fe3Th7: Fe 0.3, Th 0.7 | model | [1] Wang 2008 | Table 4, p. 5, row 20 |  |
-| 1123.15 | Eutectic: L -> Fe3Th + Fe3Th7 | L: Th 0.54; Fe3Th: Fe 0.75, Th 0.25; Fe3Th7: Fe 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 19 |  |
+| 2028.15 | congruent melting: L -> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 23 |  |
+| 2022.65 | congruent melting: L -> βTh | L: Th 1 | model | [1] Wang 2008 | Table 4, p. 5, row 24 |  |
+| 1811.15 | congruent melting: L -> δFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 1 |  |
+| 1810.65 | congruent melting: L -> δFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 2 |  |
+| 1735.55 | congruent melting: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 10 |  |
+| 1735.15 | congruent melting: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 9 |  |
+| 1685.45 | eutectic: L -> (αFe) + Fe17Th2 | L: Th 0.0484; (αFe): Fe 0.777778, Th 0.222222; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 8 |  |
+| 1685.15 | eutectic: L -> (αFe) + Fe17Th2 | L: Th 0.05; (αFe): Fe 0.777778, Th 0.222222; Fe17Th2: Fe 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 7 |  |
+| 1667.45 | polymorphic: δFe -> γFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 4 |  |
+| 1667.15 | polymorphic: δFe -> γFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 3 |  |
+| 1643.15 | peritectic: L + Fe17Th2 -> Fe5Th | L: Th 0.2; Fe17Th2: Fe 0.894737, Th 0.105263; Fe5Th: Fe 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 11 |  |
+| 1642.25 | peritectic: L + Fe17Th2 -> Fe5Th | L: Th 0.2052; Fe17Th2: Fe 0.894737, Th 0.105263; Fe5Th: Fe 0.833333, Th 0.166667 | model | [1] Wang 2008 | Table 4, p. 5, row 12 |  |
+| 1633.25 | polymorphic: βTh -> αTh | αTh: Fe 0.777778, Th 0.222222; L: Th 1 | model | [1] Wang 2008 | Table 4, p. 5, row 26 |  |
+| 1633.15 | polymorphic: βTh -> αTh | αTh: Fe 0.777778, Th 0.222222; L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 25 |  |
+| 1483.15 | peritectic: L + Fe5Th -> βFe7Th2 | L: Th 0.3; Fe5Th: Fe 0.833333, Th 0.166667; βFe7Th2: Fe 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 13 |  |
+| 1482.85 | peritectic: L + Fe5Th -> βFe7Th2 | L: Th 0.3371; Fe5Th: Fe 0.833333, Th 0.166667; βFe7Th2: Fe 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 4, p. 5, row 14 |  |
+| 1458.15 | polymorphic: βFe7Th2 -> αFe7Th2 | βFe7Th2: Fe 0.777778, Th 0.222222; αFe7Th2: Fe 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 15 |  |
+| 1457.45 | polymorphic: βFe7Th2 -> αFe7Th2 | βFe7Th2: Fe 0.777778, Th 0.222222; αFe7Th2: Fe 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 4, p. 5, row 16 |  |
+| 1373.25 | peritectic: L + aFe7Th2 -> Fe3Th | L: Th 0.4135; aFe7Th2: Fe 0.777778, Th 0.222222; Fe3Th: Fe 0.75, Th 0.25 | model | [1] Wang 2008 | Table 4, p. 5, row 18 |  |
+| 1373.15 | peritectic: L + aFe7Th2 -> Fe3Th | L: Th 0.41; aFe7Th2: Fe 0.777778, Th 0.222222; Fe3Th: Fe 0.75, Th 0.25 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 17 |  |
+| 1213.15 | peritectic: L + (αTh) -> Fe3Th7 | L: Th 0.69; (αTh): Fe 0.777778, Th 0.222222; Fe3Th7: Fe 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 21 |  |
+| 1212.65 | peritectic: L + (αTh) -> Fe3Th7 | L: Th 0.6985; (αTh): Fe 0.777778, Th 0.222222; Fe3Th7: Fe 0.3, Th 0.7 | model | [1] Wang 2008 | Table 4, p. 5, row 22 |  |
+| 1185.15 | polymorphic: γFe -> αFe | αFe: Fe 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 5 |  |
+| 1184.85 | polymorphic: γFe -> αFe | αFe: Fe 0.777778, Th 0.222222; L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 6 |  |
+| 1127.95 | eutectic: L -> Fe3Th + Fe3Th7 | L: Th 0.5624; Fe3Th: Fe 0.75, Th 0.25; Fe3Th7: Fe 0.3, Th 0.7 | model | [1] Wang 2008 | Table 4, p. 5, row 20 |  |
+| 1123.15 | eutectic: L -> Fe3Th + Fe3Th7 | L: Th 0.54; Fe3Th: Fe 0.75, Th 0.25; Fe3Th7: Fe 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 19 |  |
 
 ## Other properties
 

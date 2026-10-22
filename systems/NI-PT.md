@@ -78,7 +78,7 @@ Table: Mixing / partial, Ni–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -7643 J/mol-atom | 300 | Ni3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011; _cites Lu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.06.002) | Table 4, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -7.643 kJ/mol-atom | 300 | Ni3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011; _cites Lu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.06.002) | Table 4, p. 4, row 14 |  |
 
 ### Crystal structure (6)
 

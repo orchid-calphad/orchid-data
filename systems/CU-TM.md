@@ -61,27 +61,27 @@ Table: Invariant reactions reported in the literature for the Cu–Tm system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1373.15 | Congruent: L -> CuTm | L: Tm 0.5; CuTm: Tm 0.5 | model | [1] Wang 2009 | Table 4, p. 5, row 19 |  |
-| 1373.15 | Congruent: L -> CuTm | L: Tm 0.5; CuTm: Tm 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 18 |  |
-| 1293.15 | Congruent: L -> Cu9Tm2 | L: Tm 0.182; Cu9Tm2: Tm 0.182 | model | [1] Wang 2009 | Table 4, p. 5, row 7 |  |
-| 1293.15 | Congruent: L -> Cu9Tm2 | L: Tm 0.182; Cu9Tm2: Tm 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 6 |  |
-| 1273.15 | Peritectic: L + Cu9Tm2 -> Cu5Tm | L: Tm 0.139; Cu9Tm2: Tm 0.182; Cu5Tm: Tm 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 4 |  |
-| 1273.15 | Peritectic: L + Cu9Tm2 -> Cu5Tm | L: Tm 0.145; Cu9Tm2: Tm 0.182; Cu5Tm: Tm 0.167 | model | [1] Wang 2009 | Table 4, p. 5, row 5 |  |
-| 1233.15 | Congruent: L -> Cu2Tm | L: Tm 0.333; Cu2Tm: Tm 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 14 |  |
-| 1233.15 | Congruent: L -> Cu2Tm | L: Tm 0.333; Cu2Tm: Tm 0.333 | model | [1] Wang 2009 | Table 4, p. 5, row 15 |  |
-| 1233.15 | Peritectic: L + Cu9Tm2 -> Cu7Tm2 | Cu9Tm2: Tm 0.182; Cu7Tm2: Tm 0.222 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 8 |  |
-| 1233.15 | Peritectic: L + Cu9Tm2 -> Cu7Tm2 | L: Tm 0.249; Cu9Tm2: Tm 0.182; Cu7Tm2: Tm 0.222 | model | [1] Wang 2009 | Table 4, p. 5, row 9 |  |
-| 1209.15 | Eutectic: L -> Cu2Tm + CuTm | L: Tm 0.372; Cu2Tm: Tm 0.333; CuTm: Tm 0.5 | model | [1] Wang 2009 | Table 4, p. 5, row 17 |  |
-| 1203.15 | Eutectic: L -> Cu2Tm + CuTm | L: Tm 0.365; Cu2Tm: Tm 0.333; CuTm: Tm 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 16 |  |
-| 1198.15 | Eutectic: L -> CuTm + (Tm) | L: Tm 0.67; CuTm: Tm 0.5; (Tm): Tm 1 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 20 |  |
-| 1196.15 | Eutectic: L -> CuTm + (Tm) | L: Tm 0.663; CuTm: Tm 0.5; (Tm): Tm 1 | model | [1] Wang 2009 | Table 4, p. 5, row 21 |  |
-| 1193.15 | Catatectic: Cu7Tm2 -> L + Cu9Tm2 | Cu7Tm2: Tm 0.222; L: Tm 0.27; Cu9Tm2: Tm 0.182 | model | [1] Wang 2009 | Table 4, p. 5, row 11 |  |
-| 1193.15 | Catatectic: Cu7Tm2 -> L + Cu9Tm2 | Cu7Tm2: Tm 0.222; Cu9Tm2: Tm 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 10 |  |
-| 1183.15 | Eutectic: L -> Cu9Tm2 + Cu2Tm | L: Tm 0.294; Cu9Tm2: Tm 0.182; Cu2Tm: Tm 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 12 |  |
-| 1179.15 | Eutectic: L -> (Cu) + Cu5Tm | L: Tm 0.084; (Cu): Tm 0; Cu5Tm: Tm 0.167 | model | [1] Wang 2009 | Table 4, p. 5, row 3 |  |
-| 1178.15 | Eutectic: L -> Cu9Tm2 + Cu2Tm | L: Tm 0.277; Cu9Tm2: Tm 0.182; Cu2Tm: Tm 0.333 | model | [1] Wang 2009 | Table 4, p. 5, row 13 |  |
-| 1173.15 | Eutectic: L -> (Cu) + Cu5Tm | L: Tm 0.07; (Cu): Tm 0; Cu5Tm: Tm 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 2 |  |
-| 1123.15 | Eutectic: L -> (Cu) + Cu5Tm | Cu5Tm: Cu 0.833333, Tm 0.166667 | experimental | [1] Wang 2009; _cites Bochvar 1975_ | Table 4, p. 5, row 1 |  |
+| 1373.15 | congruent melting: L -> CuTm | L: Tm 0.5; CuTm: Tm 0.5 | model | [1] Wang 2009 | Table 4, p. 5, row 19 |  |
+| 1373.15 | congruent melting: L -> CuTm | L: Tm 0.5; CuTm: Tm 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 18 |  |
+| 1293.15 | congruent melting: L -> Cu9Tm2 | L: Tm 0.182; Cu9Tm2: Tm 0.182 | model | [1] Wang 2009 | Table 4, p. 5, row 7 |  |
+| 1293.15 | congruent melting: L -> Cu9Tm2 | L: Tm 0.182; Cu9Tm2: Tm 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 6 |  |
+| 1273.15 | peritectic: L + Cu9Tm2 -> Cu5Tm | L: Tm 0.139; Cu9Tm2: Tm 0.182; Cu5Tm: Tm 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 4 |  |
+| 1273.15 | peritectic: L + Cu9Tm2 -> Cu5Tm | L: Tm 0.145; Cu9Tm2: Tm 0.182; Cu5Tm: Tm 0.167 | model | [1] Wang 2009 | Table 4, p. 5, row 5 |  |
+| 1233.15 | congruent melting: L -> Cu2Tm | L: Tm 0.333; Cu2Tm: Tm 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 14 |  |
+| 1233.15 | congruent melting: L -> Cu2Tm | L: Tm 0.333; Cu2Tm: Tm 0.333 | model | [1] Wang 2009 | Table 4, p. 5, row 15 |  |
+| 1233.15 | peritectic: L + Cu9Tm2 -> Cu7Tm2 | Cu9Tm2: Tm 0.182; Cu7Tm2: Tm 0.222 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 8 |  |
+| 1233.15 | peritectic: L + Cu9Tm2 -> Cu7Tm2 | L: Tm 0.249; Cu9Tm2: Tm 0.182; Cu7Tm2: Tm 0.222 | model | [1] Wang 2009 | Table 4, p. 5, row 9 |  |
+| 1209.15 | eutectic: L -> Cu2Tm + CuTm | L: Tm 0.372; Cu2Tm: Tm 0.333; CuTm: Tm 0.5 | model | [1] Wang 2009 | Table 4, p. 5, row 17 |  |
+| 1203.15 | eutectic: L -> Cu2Tm + CuTm | L: Tm 0.365; Cu2Tm: Tm 0.333; CuTm: Tm 0.5 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 16 |  |
+| 1198.15 | eutectic: L -> CuTm + (Tm) | L: Tm 0.67; CuTm: Tm 0.5; (Tm): Tm 1 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 20 |  |
+| 1196.15 | eutectic: L -> CuTm + (Tm) | L: Tm 0.663; CuTm: Tm 0.5; (Tm): Tm 1 | model | [1] Wang 2009 | Table 4, p. 5, row 21 |  |
+| 1193.15 | metatectic/catatectic: Cu7Tm2 -> L + Cu9Tm2 | Cu7Tm2: Tm 0.222; L: Tm 0.27; Cu9Tm2: Tm 0.182 | model | [1] Wang 2009 | Table 4, p. 5, row 11 |  |
+| 1193.15 | metatectic/catatectic: Cu7Tm2 -> L + Cu9Tm2 | Cu7Tm2: Tm 0.222; Cu9Tm2: Tm 0.182 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 10 |  |
+| 1183.15 | eutectic: L -> Cu9Tm2 + Cu2Tm | L: Tm 0.294; Cu9Tm2: Tm 0.182; Cu2Tm: Tm 0.333 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 12 |  |
+| 1179.15 | eutectic: L -> (Cu) + Cu5Tm | L: Tm 0.084; (Cu): Tm 0; Cu5Tm: Tm 0.167 | model | [1] Wang 2009 | Table 4, p. 5, row 3 |  |
+| 1178.15 | eutectic: L -> Cu9Tm2 + Cu2Tm | L: Tm 0.277; Cu9Tm2: Tm 0.182; Cu2Tm: Tm 0.333 | model | [1] Wang 2009 | Table 4, p. 5, row 13 |  |
+| 1173.15 | eutectic: L -> (Cu) + Cu5Tm | L: Tm 0.07; (Cu): Tm 0; Cu5Tm: Tm 0.167 | experimental | [1] Wang 2009; _cites Subramanian 1994_ | Table 4, p. 5, row 2 |  |
+| 1123.15 | eutectic: L -> (Cu) + Cu5Tm | Cu5Tm: Cu 0.833333, Tm 0.166667 | experimental | [1] Wang 2009; _cites Bochvar 1975_ | Table 4, p. 5, row 1 |  |
 
 ## Sources
 

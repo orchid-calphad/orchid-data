@@ -1,22 +1,20 @@
 # AuLa: enthalpy of formation
 
-> Enthalpy of formation of AuLa: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of AuLa: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AuLa.html · Markdown: https://data.orchid-project.org/compounds/AuLa.md
 
-4 accepted literature formation-enthalpy value(s) (DFT 4).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AuLa reported in the literature (4)
+Table: Enthalpy of formation of AuLa reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -82.5 kJ/mol-atom | βAuLa | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
-| -82.5 kJ/mol-atom | βAuLa | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
-| -82 kJ/mol-atom | αAuLa | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
 | -82 kJ/mol-atom | αAuLa | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
 
 ## Sources

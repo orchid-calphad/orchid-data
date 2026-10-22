@@ -1,10 +1,10 @@
 # Ru–Sn system
 
-> Ru–Sn system: 354 accepted literature values (mixing / partial 250, activity / EMF / Gibbs energy 73, formation 11, phase equilibrium 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–Sn system: 249 accepted literature values (mixing / partial 151, activity / EMF / Gibbs energy 67, formation 11, phase equilibrium 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-SN.html · Markdown: https://data.orchid-project.org/systems/RU-SN.md
 
-354 accepted literature values from 2 paper(s) (experimental 58, model 292, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+249 accepted literature values from 2 paper(s) (experimental 46, model 199, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-SN.json) · [CSV](https://data.orchid-project.org/systems/RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SN/RuSn-12Lon.json) · [Markdown](https://data.orchid-project.org/systems/RU-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 58 |
-| model | 292 |
+| experimental | 46 |
+| model | 199 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -24,8 +24,8 @@ Table: Accepted values by property group
 | phase transition | 1 |
 | phase equilibrium | 10 |
 | formation | 11 |
-| mixing / partial | 250 |
-| activity / EMF / Gibbs energy | 73 |
+| mixing / partial | 151 |
+| activity / EMF / Gibbs energy | 67 |
 
 ## Calculated phase diagrams
 
@@ -63,15 +63,15 @@ Table: Invariant reactions reported in the literature for the Ru–Sn system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1539 | Peritectic: L + hcp(Ru) -> Ru2Sn3 | L: Sn 0.65; Ru2Sn3: Ru 0.4, Sn 0.6 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 1 |  |
-| 1534 | Peritectic: L + hcp(Ru) -> Ru2Sn3 | L: Sn 0.64; Ru2Sn3: Ru 0.4, Sn 0.6 | model | [1] Long 2012 | Table 3, p. 6, row 2 |  |
-| 1530 | Congruent: L -> Ru3Sn7 | L: Ru 0.3, Sn 0.7; Ru3Sn7: Ru 0.3, Sn 0.7 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 7 |  |
-| 1530 | Congruent: L -> Ru3Sn7 | L: Ru 0.3, Sn 0.7; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 8 |  |
-| 1528 | Eutectic: L -> Ru2Sn3 + Ru3Sn7 | L: Sn 0.67; Ru2Sn3: Ru 0.4, Sn 0.6; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 4 |  |
-| 1528 | Eutectic: L -> Ru2Sn3 + Ru3Sn7 | L: Sn 0.67; Ru2Sn3: Ru 0.4, Sn 0.6; Ru3Sn7: Ru 0.3, Sn 0.7 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 3 |  |
+| 1539 | peritectic: L + hcp(Ru) -> Ru2Sn3 | L: Sn 0.65; Ru2Sn3: Ru 0.4, Sn 0.6 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 1 |  |
+| 1534 | peritectic: L + hcp(Ru) -> Ru2Sn3 | L: Sn 0.64; Ru2Sn3: Ru 0.4, Sn 0.6 | model | [1] Long 2012 | Table 3, p. 6, row 2 |  |
+| 1530 | congruent melting: L -> Ru3Sn7 | L: Ru 0.3, Sn 0.7; Ru3Sn7: Ru 0.3, Sn 0.7 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 7 |  |
+| 1530 | congruent melting: L -> Ru3Sn7 | L: Ru 0.3, Sn 0.7; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 8 |  |
+| 1528 | eutectic: L -> Ru2Sn3 + Ru3Sn7 | L: Sn 0.67; Ru2Sn3: Ru 0.4, Sn 0.6; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 4 |  |
+| 1528 | eutectic: L -> Ru2Sn3 + Ru3Sn7 | L: Sn 0.67; Ru2Sn3: Ru 0.4, Sn 0.6; Ru3Sn7: Ru 0.3, Sn 0.7 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 3 |  |
 | 1513 | peritectic |  | experimental | [1] Long 2012; _cites Susz 1976_ | p. 2 | “According to Susz et al.,\[14\] Ru2Sn3 decomposes peritectically at 1513 K, while Ru3Sn7 melts congruently at 1548 K.” |
-| 506 | Eutectic: L -> Ru3Sn7 + bct(Sn) | L: Sn 0.99; Ru3Sn7: Ru 0.3, Sn 0.7 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 5 |  |
-| 505 | Eutectic: L -> Ru3Sn7 + bct(Sn) | L: Sn 0.99; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 6 |  |
+| 506 | eutectic: L -> Ru3Sn7 + bct(Sn) | L: Sn 0.99; Ru3Sn7: Ru 0.3, Sn 0.7 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 5 |  |
+| 505 | eutectic: L -> Ru3Sn7 + bct(Sn) | L: Sn 0.99; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 6 |  |
 
 ## Formation enthalpies
 
@@ -101,7 +101,7 @@ Table: Phase transition, Ru–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1548 K | 1548 | congruent | experimental | [1] Long 2012; _cites Susz 1976_ | p. 2 | “According to Susz et al.,\[14\] Ru2Sn3 decomposes peritectically at 1513 K, while Ru3Sn7 melts congruently at 1548 K.” |
+| Phase transition | 1548 K | 1548 | congruent transformation | experimental | [1] Long 2012; _cites Susz 1976_ | p. 2 | “According to Susz et al.,\[14\] Ru2Sn3 decomposes peritectically at 1513 K, while Ru3Sn7 melts congruently at 1548 K.” |
 
 ### Phase equilibrium (10)
 
@@ -120,264 +120,165 @@ Table: Phase equilibrium, Ru–Sn system
 | Phase composition |  | 1539.1 | Liquid + Ru; _Liquid: Ru 0.35, Sn 0.65; Ru: Ru 1, Sn 0_ | experimental | [2] Charles 1999; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 4, row 1 |  |
 | Phase composition |  | 1539.1 | Liquid + Ru0.4Sn0.6; _Liquid: Ru 0.35, Sn 0.65; Ru0.4Sn0.6: Ru 0.4, Sn 0.6_ | experimental | [2] Charles 1999; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 4, row 2 |  |
 
-### Mixing / partial (250)
+### Mixing / partial (151)
 
 Table: Mixing / partial, Ru–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -666 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 103 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -882 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 8 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1030 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 7 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1610 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 43 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1505 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 96 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1748 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 68 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2154 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 75 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1955 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 90 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1519 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 69 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2033 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 35 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1748 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 14 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1955 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 36 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -882 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 62 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1018 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 104 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2154 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 21 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2033 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 89 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2055 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 83 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2055 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 29 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1610 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 97 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1505 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 42 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1030 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 61 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2250 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 82 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -666 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 49 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1018 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 50 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1910 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 76 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2250 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 28 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1519 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 15 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1910 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 22 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2154 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 77 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -666 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 51 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1675 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 78 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -12500 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 95 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -470 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 106 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -12600 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 102 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -804 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 10 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1564 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 92 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -11700 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 88 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -12600 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 48 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1564 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 38 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1505 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 44 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1030 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 63 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1743 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 85 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1140 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 99 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1140 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 45 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2250 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 84 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1675 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 24 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2154 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 23 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -11700 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 34 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1743 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 31 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -10200 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 27 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -666 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 105 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -10200 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 81 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -804 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 64 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1362 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 71 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1505 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 98 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2033 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 37 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1362 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 17 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -8070 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 20 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -12500 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 41 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -8070 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 74 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -5320 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 13 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1748 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 16 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2250 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 30 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -5320 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 67 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -470 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 52 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2033 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 91 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1030 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 9 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1748 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 70 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1030 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 11 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -666 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 53 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1030 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 65 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1175 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 19 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | 186 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 108 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -578 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 47 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1748 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 72 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1175 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 73 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1095 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 94 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1394 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 80 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2033 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 39 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2154 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 25 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2033 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 93 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2154 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 79 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1505 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 46 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1367 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 33 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1394 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 26 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2250 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 32 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | 186 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 54 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -666 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 107 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -710 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 66 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -710 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 12 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1095 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40 |  |
-| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1748 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -578 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 101 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1367 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 87 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -2250 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 86 |  |
-| Enthalpy of mixing; _printed: Integral enthalpies of mixing_ | -1505 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 100 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -0.882 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 8 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.03 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 7 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.61 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 43 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.033 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 35 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.748 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 14 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.955 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 36 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.154 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 21 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.055 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 29 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.505 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 42 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -0.666 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 49 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.018 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 50 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.25 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 28 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.519 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 15 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.91 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 22 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -0.666 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 51 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -0.804 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 10 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -12.6 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 48 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.564 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 38 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.505 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 44 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.14 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 45 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.675 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 24 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.154 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 23 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -11.7 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 34 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.743 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 31 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -10.2 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 27 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.033 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 37 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.362 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 17 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -8.07 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 20 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -12.5 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 41 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -5.32 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 13 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.748 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 16 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.25 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 30 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -0.47 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 52 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.03 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 9 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.03 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 11 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -0.666 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 53 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.175 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 19 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -0.578 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 47 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.033 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 39 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.154 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 25 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.505 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 46 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.367 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 33 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.394 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 26 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -2.25 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 32 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | 0.186 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 54 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -0.71 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 12 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.095 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40 |  |
+| Enthalpy of mixing; _printed: Integral enthalpy of mixing_ | -1.748 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18 |  |
 | Entropy of mixing; _printed: ΔSmelt_ | 20 J/mol (basis unstated)/K |  | Ru0.3Sn0.7; _alloy: Sn 0.7_ | unspecified | [2] Charles 1999; _cites Perring 1997_ | Table 4, p. 4, row 4 |  |
 | Entropy of mixing; _printed: ΔSmelt_ | 18 J/mol (basis unstated)/K |  | Ru0.4Sn0.6; _alloy: Sn 0.6_ | unspecified | [2] Charles 1999; _cites Perring 1997_ | Table 4, p. 4, row 3 |  |
 | Entropy of mixing; _printed: ΔSmelt_ | 13.91 J/mol (basis unstated)/K | 505.1 | UNKNOWN; _alloy: Sn 1_ | model | [2] Charles 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 4, row 2 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.02 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 130 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.665 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 8 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.642 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 7 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.482 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 43 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.041 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 129 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.87 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 122 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.473 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 35 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.885 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 123 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.87 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 14 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.292 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 36 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.789 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 150 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.292 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 144 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.729 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 158 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.041 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 21 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.473 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 143 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.482 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 151 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 2.189 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 157 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.143 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 29 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.143 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 137 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.665 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 116 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.789 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 42 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.231 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 136 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 2.189 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 49 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.729 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 50 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.231 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 28 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.885 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 15 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.642 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 115 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.02 J/mol (basis unstated)/K | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 22 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 2.189 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 51 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | -2.69 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 128 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | -5.13 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 149 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.718 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 10 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | -5.24 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 48 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.473 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 145 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | -4.65 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 142 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.557 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 38 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.789 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 44 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.718 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 118 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.8 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 45 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.87 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 124 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | -3.81 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 135 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.041 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 131 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.179 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 24 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.041 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 23 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.557 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 146 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | -4.65 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 34 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.355 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 31 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | -3.81 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 27 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.473 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 37 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.991 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 17 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | -2.69 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 20 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.789 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 152 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.642 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 117 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.179 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 132 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.991 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 125 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | -5.13 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 41 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.355 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 139 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 2.189 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 159 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | -1.35 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 13 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.8 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 153 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.87 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 16 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | -1.35 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 121 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.231 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 30 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | -5.24 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 156 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 2.1 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 52 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 2.1 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 160 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.231 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 138 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.642 J/mol (basis unstated)/K | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 9 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.642 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 119 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.58 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 141 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.642 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 11 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.103 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 127 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 2.189 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 53 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.103 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 19 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.473 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 147 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 2.136 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 47 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 2.136 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 155 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.789 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 154 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.837 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 148 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.473 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 39 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.041 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 25 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.789 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 46 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.58 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 33 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.347 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 26 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.231 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 32 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.774 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 120 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 2.492 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 54 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.231 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 140 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 2.189 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 161 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 2.492 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 162 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.347 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 134 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.774 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 12 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 1.041 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 133 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.837 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.87 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18 |  |
-| Entropy of mixing; _printed: Integral entropies of mixing_ | 0.87 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 126 |  |
 | Entropy of mixing; _printed: ΔSmelt_ | 14.8 J/mol (basis unstated)/K | 2607 | UNKNOWN; _alloy: Sn 0_ | model | [2] Charles 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 4, row 1 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 2 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 1 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1794 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 8 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1911 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 7 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3645 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 43 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4057 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 35 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2942 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 14 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3729 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 36 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3584 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 21 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3626 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 29 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3962 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 42 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3672 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 49 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3392 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 50 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3940 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 28 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2734 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 15 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3310 J/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 22 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4110 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 51 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1932 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 10 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4300 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 48 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4013 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 38 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4320 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 44 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3973 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 45 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3530 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 24 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3793 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 23 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4410 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 34 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3875 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 31 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4230 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 27 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4352 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 37 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2921 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 17 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3840 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 20 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4450 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 41 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 3 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 4 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3200 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 13 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3116 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 16 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4186 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 30 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3774 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 52 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2040 J/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 9 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2168 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 11 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4548 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 53 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3131 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 19 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4366 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 47 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4646 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 39 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4001 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 25 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4678 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 46 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4169 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 33 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3782 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 26 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4432 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 32 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 6 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4234 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 54 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2081 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 12 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4352 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3290 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 J/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 5 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 2 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1.794 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 8 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1.911 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 7 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.645 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 43 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.057 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 35 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.942 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 14 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.729 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 36 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.584 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 21 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.626 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 29 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.962 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 42 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.672 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 49 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.392 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 50 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.94 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 28 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.734 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 15 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.31 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 22 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.11 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 51 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1.932 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 10 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.3 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 48 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.013 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 38 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.32 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 44 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.973 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 45 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.53 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 24 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.793 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 23 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.41 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 34 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.875 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 31 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.23 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 27 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.352 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 37 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.921 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 17 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.84 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 20 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.45 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 41 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 3 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.2 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 13 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.116 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 16 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.186 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 30 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.774 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 52 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.04 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 9 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.168 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 11 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.548 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 53 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.131 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 19 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.366 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 47 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.646 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 39 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.001 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 25 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.678 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 46 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.169 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 33 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.782 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 26 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.432 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 32 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 6 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.234 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 54 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.081 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 12 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.352 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40 |  |
+| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.29 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18 |  |
 
-### Activity / EMF / Gibbs energy (73)
+### Activity / EMF / Gibbs energy (67)
 
 Table: Activity / EMF / Gibbs energy, Ru–Sn system
 
@@ -388,14 +289,12 @@ Table: Activity / EMF / Gibbs energy, Ru–Sn system
 | Activity Sn; _printed: a(Sn)_ | 1 1 | 1373 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 6, p. 6, row 11 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.948 1 | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 6, p. 6, row 20 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.949 1 | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 6, p. 6, row 21 |  |
-| Activity Sn; _printed: a(Sn)_ | 1 1 | 1373 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 6, p. 6, row 10 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.837 1 | 1473 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 6, p. 6, row 40 |  |
 | Activity Sn; _printed: a(Sn)_ | 1 1 | 1473 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 6, p. 6, row 9 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.897 1 | 1473 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 6, p. 6, row 32 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.948 1 | 1473 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 6, p. 6, row 18 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.949 1 | 1473 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 6, p. 6, row 19 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.894 1 | 1473 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 6, p. 6, row 31 |  |
-| Activity Sn; _printed: a(Sn)_ | 1 1 | 1473 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 6, p. 6, row 8 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.844 1 | 1473 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 6, p. 6, row 41 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.799 1 | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 6, p. 6, row 48 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.698 1 | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 6, p. 6, row 62 |  |
@@ -413,7 +312,6 @@ Table: Activity / EMF / Gibbs energy, Ru–Sn system
 | Activity Sn; _printed: a(Sn)_ | 0.679 1 | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 6, p. 6, row 61 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.844 1 | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 6, p. 6, row 38 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.748 1 | 1573 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 6, p. 6, row 55 |  |
-| Activity Sn; _printed: a(Sn)_ | 1 1 | 1573 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 6, p. 6, row 7 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.624 1 | 1573 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 6, p. 6, row 68 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.789 1 | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 6, p. 6, row 47 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.9 1 | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 6, p. 6, row 30 |  |
@@ -429,12 +327,10 @@ Table: Activity / EMF / Gibbs energy, Ru–Sn system
 | Activity Sn; _printed: a(Sn)_ | 0.759 1 | 1673 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 6, p. 6, row 53 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.646 1 | 1673 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 6, p. 6, row 66 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.854 1 | 1673 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 6, p. 6, row 37 |  |
-| Activity Sn; _printed: a(Sn)_ | 1 1 | 1673 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 6, p. 6, row 4 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.849 1 | 1673 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 6, p. 6, row 36 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.95 1 | 1673 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 6, p. 6, row 15 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.62 1 | 1673 | liquid; _alloy: Ru 0.375, Sn 0.625_ | model | [2] Charles 1999 | Table 6, p. 6, row 70 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.665 1 | 1673 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 6, p. 6, row 67 |  |
-| Activity Sn; _printed: a(Sn)_ | 0.95 1 | 1673 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 6, p. 6, row 14 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.697 1 | 1673 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 6, p. 6, row 59 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.642 1 | 1673 | liquid; _alloy: Ru 0.375, Sn 0.625_ | model | [2] Charles 1999 | Table 6, p. 6, row 71 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.798 1 | 1673 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 6, p. 6, row 45 |  |
@@ -448,7 +344,6 @@ Table: Activity / EMF / Gibbs energy, Ru–Sn system
 | Activity Sn; _printed: a(Sn)_ | 0.902 1 | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 6, p. 6, row 25 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.682 1 | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 6, p. 6, row 65 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.806 1 | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 6, p. 6, row 43 |  |
-| Activity Sn; _printed: a(Sn)_ | 1 1 | 1773 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 6, p. 6, row 3 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.619 1 | 1773 | liquid; _alloy: Ru 0.4, Sn 0.6_ | model | [2] Charles 1999 | Table 6, p. 6, row 72 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.666 1 | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 6, p. 6, row 64 |  |
 | Activity Sn; _printed: a(Sn)_ | 0.725 1 | 1773 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 6, p. 6, row 58 |  |

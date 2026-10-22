@@ -1,10 +1,10 @@
 # Ca–O–Si system
 
-> Ca–O–Si system: 68 accepted literature values (heat capacity / entropy / enthalpy 35, formation 22, other property 5, activity / EMF / Gibbs energy 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–O–Si system: 61 accepted literature values (heat capacity / entropy / enthalpy 35, formation 15, other property 5, activity / EMF / Gibbs energy 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-O-SI.html · Markdown: https://data.orchid-project.org/systems/CA-O-SI.md
 
-68 accepted literature values from 1 paper(s) (experimental 50, DFT 14, unspecified 4); 0 calculated phase diagram(s).
+61 accepted literature values from 1 paper(s) (experimental 50, DFT 7, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-O-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-O-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-O-SI) · [Markdown](https://data.orchid-project.org/systems/CA-O-SI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 50 |
-| DFT | 14 |
+| DFT | 7 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 2 |
-| formation | 22 |
+| formation | 15 |
 | heat capacity / entropy / enthalpy | 35 |
 | activity / EMF / Gibbs energy | 4 |
 | other property | 5 |
@@ -30,17 +30,13 @@ Table: Accepted values by property group
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–O–Si system (22)
+Table: Enthalpies of formation, Ca–O–Si system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ca3Si2O7 |  | -17.6667 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 5 |  |
-| Ca3Si2O7 |  | -17.6667 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 5 |  |
-| CaSiO3-cyclowollastonite |  | -15.5 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 7 |  |
 | CaSiO3-cyclowollastonite |  | -15.5 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 7 |  |
 | CaSiO3-wollastonite |  | -17.14 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 6 |  |
-| CaSiO3-wollastonite |  | -17.14 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 6 |  |
-| Monoclinic-Ca3SiO5 |  | -13.1 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 1 |  |
 | Monoclinic-Ca3SiO5 |  | -13.1 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 1 |  |
 | UNKNOWN |  | -229.137 kJ/mol (basis unstated) ± 4.184 | 298.15 | experimental |  |  | [1] Abdul 2023; _cites Weeks 1956_ [doi](https://doi.org/10.1086/626378) | Table A.2, p. 13, row 13 |  |
 | UNKNOWN |  | -212 kJ/mol (basis unstated) ± 10 | 0 | unspecified |  |  | [1] Abdul 2023 | Table A.2, p. 13, row 14 |  |
@@ -51,10 +47,7 @@ Table: Enthalpies of formation, Ca–O–Si system (22)
 | UNKNOWN |  | -81.9227 kJ/mol (basis unstated) ± 1.58992 | 298.15 | experimental |  |  | [1] Abdul 2023; _cites Kelley 1962_ | Table A.2, p. 13, row 28 |  |
 | wollastonite-CaSiO3 |  | -1634.32 kJ/mol (basis unstated) ± 2.71 | 298.15 | experimental |  |  | [1] Abdul 2023; _cites Grevel 2021_ | Table A.2, p. 13, row 21 |  |
 | α′-Ca2SiO4 |  | -17.4857 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |
-| α′-Ca2SiO4 |  | -17.4857 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |
 | β-Ca2SiO4 |  | -17.8286 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
-| β-Ca2SiO4 |  | -17.8286 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
-| γ-Ca2SiO4 |  | -18.7429 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
 | γ-Ca2SiO4 |  | -18.7429 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
 
 ## Other properties

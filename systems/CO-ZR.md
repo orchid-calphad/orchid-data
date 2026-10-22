@@ -428,7 +428,7 @@ Table: Phase transition, Co–Zr system
 | Phase transition | 1671.15 K | 1671.15 | Liquid -> CoZr; _Liquid: Zr 0.5; CoZr: Zr 0.5_ | model | [3] Liu 2009 | Table 4, p. 6, row 20 |  |
 | Phase transition | 1673.15 K | 1673.15 | Liquid -> CoZr; _Liquid: Zr 0.5; CoZr: Zr 0.5_ | experimental | [3] Liu 2009; _cites Pechin 1964_ | Table 4, p. 6, row 21 |  |
 | Phase transition | 1723 K | 1723 | L + Co2Zr -> Co23Zr6 | experimental | [1] Agraval 2020; _cites Pechin 1964_ | p. 3 | “According to Pechin et al.\[24\], the temperature of the L ? Co2Zr ¡ Co23Zr6 reaction is 1723 K, while Bataleva et al.\[22\] and Liu et al.\[21\] reported values of 1623 and 1616.4 K, respectively.” |
-| Phase transition | 1812 K | 1812 | solidus | experimental | [2] Durga 2010; _cites Pechin 1964_ | p. 2 | “Thermal analysis data of \[6\] indicate that the solidus temperature for an alloy close to the ideal stoichiometry of Laves_C15 is around 1812 K.” |
+| Phase transition | 1812 K | 1812 | other | experimental | [2] Durga 2010; _cites Pechin 1964_ | p. 2 | “Thermal analysis data of \[6\] indicate that the solidus temperature for an alloy close to the ideal stoichiometry of Laves_C15 is around 1812 K.” |
 | Phase transition | 1833 K | 1833 |  | experimental | [2] Durga 2010; _cites Bataleva 1970_ | p. 2 | “Bataleva et al. \[8\] have determined this temperature to be 1833 K.” |
 | Phase transition | 1833 K | 1833 | liq. -> λ2 | experimental | [4] Zhou 2021; _cites Bataleva 1970_ | Table 2, p. 4, row 16 |  |
 | Phase transition | 1833.15 K | 1833.15 | Liquid -> Co2Zr; _Liquid: Zr 0.333333; Co2Zr: Zr 0.333333_ | experimental | [3] Liu 2009; _cites Bataleva 2009_ | Table 4, p. 6, row 15 |  |

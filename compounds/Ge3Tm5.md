@@ -1,23 +1,21 @@
 # Ge3Tm5: enthalpy of formation
 
-> Enthalpy of formation of Ge3Tm5: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ge3Tm5: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ge3Tm5.html · Markdown: https://data.orchid-project.org/compounds/Ge3Tm5.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 1, model 4); experimental median -91.3 kJ/mol-atom (n = 1); Materials Project -77.37 kJ/mol-atom (mp-aaacppwg); OQMD -77.333 kJ/mol-atom (oqmd-30501).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -91.3 kJ/mol-atom (n = 1); Materials Project -77.37 kJ/mol-atom (mp-aaacppwg); OQMD -77.333 kJ/mol-atom (oqmd-30501).
 
 Systems: [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ge3Tm5 reported in the literature (5)
+Table: Enthalpy of formation of Ge3Tm5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -91.3 kJ/mol-atom ± 1.9 | Tm5Ge3 | 298.15 | experimental | Experimental | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Meschel 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900017-1) | Table 2, p. 5, row 2 |  |
 | -84.32 kJ/mol-atom | Tm5Ge3 |  | model | Optimization | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018 | Table 2, p. 5, row 1 |  |
-| -84.32 kJ/mol-atom | Tm5Ge3 |  | model | Optimization | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018 | Table 2, p. 5, row 1 |  |
-| -74.42 kJ/mol-atom | Tm5Ge3 |  | model | Prediction | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 3 |  |
 | -74.42 kJ/mol-atom | Tm5Ge3 |  | model | Prediction | [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.html) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 3 |  |
 
 ## DFT formation energies

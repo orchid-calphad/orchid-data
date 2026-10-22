@@ -1,10 +1,10 @@
 # C–Fe–W system
 
-> C–Fe–W system: 101 accepted literature values (phase equilibrium 66, invariant reaction 35) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Fe–W system: 98 accepted literature values (phase equilibrium 63, invariant reaction 35) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-FE-W.html · Markdown: https://data.orchid-project.org/systems/C-FE-W.md
 
-101 accepted literature values from 1 paper(s) (experimental 51, model 50); 0 calculated phase diagram(s).
+98 accepted literature values from 1 paper(s) (experimental 51, model 47); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-FE-W.json) · [CSV](https://data.orchid-project.org/systems/C-FE-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-FE-W) · [Markdown](https://data.orchid-project.org/systems/C-FE-W.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 51 |
-| model | 50 |
+| model | 47 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 35 |
-| phase equilibrium | 66 |
+| phase equilibrium | 63 |
 
 ## Invariant reactions (literature)
 
@@ -66,7 +66,7 @@ Table: Invariant reactions reported in the literature for the C–Fe–W system 
 
 ## Other properties
 
-### Phase equilibrium (66)
+### Phase equilibrium (63)
 
 Table: Phase equilibrium, C–Fe–W system
 
@@ -127,9 +127,7 @@ Table: Phase equilibrium, C–Fe–W system
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.019872, Fe 0.968803, W 0.011325_ | model | [1] Gustafson 1987 | Table II, p. 8, row 66 |  |
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.019318, Fe 0.974614, W 0.006068_ | model | [1] Gustafson 1987 | Table II, p. 8, row 64 |  |
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.017416, Fe 0.971237, W 0.011347_ | experimental | [1] Gustafson 1987; _cites Greenbank 1987_ | Table II, p. 8, row 55 |  |
-| Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.006567, Fe 0.987303, W 0.006129_ | model | [1] Gustafson 1987 | Table II, p. 8, row 34 |  |
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.020057, Fe 0.96862, W 0.011324_ | experimental | [1] Gustafson 1987; _cites Greenbank 1987_ | Table II, p. 8, row 65 |  |
-| Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.006788, Fe 0.981769, W 0.011443_ | model | [1] Gustafson 1987 | Table II, p. 8, row 36 |  |
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.018063, Fe 0.963642, W 0.018295_ | model | [1] Gustafson 1987 | Table II, p. 8, row 58 |  |
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.006894, Fe 0.974648, W 0.018458_ | experimental | [1] Gustafson 1987; _cites Greenbank 1987_ | Table II, p. 8, row 37 |  |
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.016935, Fe 0.976985, W 0.006079_ | experimental | [1] Gustafson 1987; _cites Greenbank 1987_ | Table II, p. 8, row 53 |  |
@@ -137,7 +135,6 @@ Table: Phase equilibrium, C–Fe–W system
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.006788, Fe 0.981769, W 0.011443_ | experimental | [1] Gustafson 1987; _cites Greenbank 1987_ | Table II, p. 8, row 35 |  |
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.006741, Fe 0.981816, W 0.011444_ | experimental | [1] Gustafson 1987; _cites Greenbank 1987_ | Table II, p. 8, row 41 |  |
 | Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.019272, Fe 0.97466, W 0.006068_ | experimental | [1] Gustafson 1987; _cites Greenbank 1987_ | Table II, p. 8, row 63 |  |
-| Phase composition |  | 1398 | Fcc + fcc; _Fcc: C 0.007086, Fe 0.974459, W 0.018455_ | model | [1] Gustafson 1987 | Table II, p. 8, row 44 |  |
 
 ## Sources
 

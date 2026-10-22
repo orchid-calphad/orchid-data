@@ -27,17 +27,17 @@ Table: Invariant reactions reported in the literature for the Gd–Mg–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 974 | U: L + (Gd,Y)Mg = Mg2Y + GdMg2 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 1 |  |
-| 954 | U: liq. + MgM -> Mg2Gd + Mg2Y | L: Gd 0.1881, Mg 0.7506, Y 0.0613; liquid: Gd 0.1881, Mg 0.7506, Y 0.0613 | model | [2] Guo 2007 | Table 4, p. 9, row 1 |  |
-| 950 | U: liq. + Mg2Gd -> Mg2Y + Mg3Gd | L: Gd 0.1852, Mg 0.7558, Y 0.059; liquid: Gd 0.1852, Mg 0.7558, Y 0.059 | model | [2] Guo 2007 | Table 4, p. 9, row 2 |  |
-| 941.55 | U: L + GdMg2 = Mg2Y + GdMg3 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 2 |  |
-| 884.84 | U: L + GdMg3 = GdMg5 + Mg2Y |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 3 |  |
-| 877.23 | U: L + GdMg5 = Mg24Y5 + Mg2Y |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 4 |  |
-| 869 | U: liq. + Mg3Gd -> Mg2Y + Mg5Gd | L: Gd 0.1085, Mg 0.8115, Y 0.08; liquid: Gd 0.1085, Mg 0.8115, Y 0.08 | model | [2] Guo 2007 | Table 4, p. 9, row 3 |  |
-| 852 | U: liq. + Mg2Y -> Mg5Gd + Mg24Y5 | L: Gd 0.085, Mg 0.8268, Y 0.0882; liquid: Gd 0.085, Mg 0.8268, Y 0.0882 | model | [2] Guo 2007 | Table 4, p. 9, row 4 |  |
-| 833.15 | E: L = (Mg) + Mg24Y5 + GdMg5 |  | experimental | [1] Gröbner 2010; _cites Drits 1983_ | Table 3, p. 4, row 6 |  |
-| 823.94 | E: L = (Mg) + Mg24Y5 + GdMg5 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 5 |  |
-| 810 | E: liq. -> hcp(Mg) + Mg24Y5 + Mg5Gd | L: Gd 0.0583, Mg 0.9038, Y 0.0379; liquid: Gd 0.0583, Mg 0.9038, Y 0.0379 | model | [2] Guo 2007 | Table 4, p. 9, row 5 |  |
+| 974 | quasi-peritectic: L + (Gd,Y)Mg = Mg2Y + GdMg2 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 1 |  |
+| 954 | quasi-peritectic: liq. + MgM -> Mg2Gd + Mg2Y | L: Gd 0.1881, Mg 0.7506, Y 0.0613; liquid: Gd 0.1881, Mg 0.7506, Y 0.0613 | model | [2] Guo 2007 | Table 4, p. 9, row 1 |  |
+| 950 | quasi-peritectic: liq. + Mg2Gd -> Mg2Y + Mg3Gd | L: Gd 0.1852, Mg 0.7558, Y 0.059; liquid: Gd 0.1852, Mg 0.7558, Y 0.059 | model | [2] Guo 2007 | Table 4, p. 9, row 2 |  |
+| 941.55 | quasi-peritectic: L + GdMg2 = Mg2Y + GdMg3 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 2 |  |
+| 884.84 | quasi-peritectic: L + GdMg3 = GdMg5 + Mg2Y |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 3 |  |
+| 877.23 | quasi-peritectic: L + GdMg5 = Mg24Y5 + Mg2Y |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 4 |  |
+| 869 | quasi-peritectic: liq. + Mg3Gd -> Mg2Y + Mg5Gd | L: Gd 0.1085, Mg 0.8115, Y 0.08; liquid: Gd 0.1085, Mg 0.8115, Y 0.08 | model | [2] Guo 2007 | Table 4, p. 9, row 3 |  |
+| 852 | quasi-peritectic: liq. + Mg2Y -> Mg5Gd + Mg24Y5 | L: Gd 0.085, Mg 0.8268, Y 0.0882; liquid: Gd 0.085, Mg 0.8268, Y 0.0882 | model | [2] Guo 2007 | Table 4, p. 9, row 4 |  |
+| 833.15 | eutectic: L = (Mg) + Mg24Y5 + GdMg5 |  | experimental | [1] Gröbner 2010; _cites Drits 1983_ | Table 3, p. 4, row 6 |  |
+| 823.94 | eutectic: L = (Mg) + Mg24Y5 + GdMg5 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 5 |  |
+| 810 | eutectic: liq. -> hcp(Mg) + Mg24Y5 + Mg5Gd | L: Gd 0.0583, Mg 0.9038, Y 0.0379; liquid: Gd 0.0583, Mg 0.9038, Y 0.0379 | model | [2] Guo 2007 | Table 4, p. 9, row 5 |  |
 
 ## Sources
 

@@ -73,53 +73,53 @@ Table: Invariant reactions reported in the literature for the Bi–Er system (47
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2134 | Congruent: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | model | [1] Bennoui 2022 | Table 5, p. 8, row 5 |  |
-| 2133 | Congruent: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 7 |  |
-| 2080 | Congruent: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | model | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 5, p. 8, row 8 |  |
-| 2080 | Congruent: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | experimental | [1] Bennoui 2022; _cites Abulkhaev 1993_ | Table 5, p. 8, row 6 |  |
-| 2080 | Congruent: L -> BiEr | L: Bi 0.5; BiEr: Bi 0.5, Er 0.5 | unspecified | [2] Wang 2013; _cites Abulkhaev 1992_ | Table 1, p. 2, row 5 |  |
-| 2080 | Congruent: L -> BiEr | L: Bi 0.5; BiEr: Bi 0.5, Er 0.5 | model | [2] Wang 2013 | Table 1, p. 2, row 6 |  |
-| 2074 | Congruent: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | model | [1] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 5, p. 8, row 9 |  |
-| 2053 | Allotropic: β-ErBi ↔ α-ErBi | β-ErBi: Er 0.5; α-ErBi: Er 0.5 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 11 |  |
-| 2052 | Allotropic: β-ErBi ↔ α-ErBi | β-ErBi: Er 0.5; α-ErBi: Er 0.5 | model | [1] Bennoui 2022 | Table 5, p. 8, row 10 |  |
-| 1701 | Peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.67; ErBi: Er 0.5; Er5Bi3: Er 0.625 | model | [1] Bennoui 2022 | Table 5, p. 8, row 12 |  |
-| 1701 | Peritectic: L + ErBi -> Er5Bi3 | L: Er 0.6832; ErBi: Bi 0.5, Er 0.5; Er5Bi3: Bi 0.375, Er 0.625 | model | [3] Wang 2017 | Table 5, p. 6, row 4 |  |
-| 1700 | Peritectic: L + BiEr -> Bi3Er5 | L: Bi 0.315; BiEr: Bi 0.5, Er 0.5; Bi3Er5: Bi 0.375, Er 0.625 | model | [2] Wang 2013 | Table 1, p. 2, row 4 |  |
+| 2134 | congruent melting: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | model | [1] Bennoui 2022 | Table 5, p. 8, row 5 |  |
+| 2133 | congruent melting: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 7 |  |
+| 2080 | congruent melting: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | model | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 5, p. 8, row 8 |  |
+| 2080 | congruent melting: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | experimental | [1] Bennoui 2022; _cites Abulkhaev 1993_ | Table 5, p. 8, row 6 |  |
+| 2080 | congruent melting: L -> BiEr | L: Bi 0.5; BiEr: Bi 0.5, Er 0.5 | unspecified | [2] Wang 2013; _cites Abulkhaev 1992_ | Table 1, p. 2, row 5 |  |
+| 2080 | congruent melting: L -> BiEr | L: Bi 0.5; BiEr: Bi 0.5, Er 0.5 | model | [2] Wang 2013 | Table 1, p. 2, row 6 |  |
+| 2074 | congruent melting: L ↔ ErBi | L: Er 0.5; ErBi: Er 0.5 | model | [1] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 5, p. 8, row 9 |  |
+| 2053 | polymorphic: β-ErBi ↔ α-ErBi | β-ErBi: Er 0.5; α-ErBi: Er 0.5 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 11 |  |
+| 2052 | polymorphic: β-ErBi ↔ α-ErBi | β-ErBi: Er 0.5; α-ErBi: Er 0.5 | model | [1] Bennoui 2022 | Table 5, p. 8, row 10 |  |
+| 1701 | peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.67; ErBi: Er 0.5; Er5Bi3: Er 0.625 | model | [1] Bennoui 2022 | Table 5, p. 8, row 12 |  |
+| 1701 | peritectic: L + ErBi -> Er5Bi3 | L: Er 0.6832; ErBi: Bi 0.5, Er 0.5; Er5Bi3: Bi 0.375, Er 0.625 | model | [3] Wang 2017 | Table 5, p. 6, row 4 |  |
+| 1700 | peritectic: L + BiEr -> Bi3Er5 | L: Bi 0.315; BiEr: Bi 0.5, Er 0.5; Bi3Er5: Bi 0.375, Er 0.625 | model | [2] Wang 2013 | Table 1, p. 2, row 4 |  |
 | 1700 | peritectic: Er5Bi3 -> liquid + ErBi |  | experimental | [1] Bennoui 2022; _cites Kovenskaya 1977_ | p. 2 | “It is expected the Er5Bi3 bismuthide peritectically decomposes at 1700 K into liquid and solid ErBi phases.” |
 | 1700 | peritectic: L + BiEr ↔ Bi3 Er5 |  | experimental | [2] Wang 2013; _cites Abulkhaev 1992_ | p. 1 | “Based on the investigated results, the Bi3 Er5 phase is formed from a peritectic reaction, L + BiEr ↔ Bi3 Er5 at 1700 K, whereas the BiEr phase melts congruently at about 2080 K.” |
-| 1700 | Peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.68; ErBi: Er 0.5; Er5Bi3: Er 0.625 | experimental | [1] Bennoui 2022; _cites Abulkhaev 1993_ | Table 5, p. 8, row 13 |  |
+| 1700 | peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.68; ErBi: Er 0.5; Er5Bi3: Er 0.625 | experimental | [1] Bennoui 2022; _cites Abulkhaev 1993_ | Table 5, p. 8, row 13 |  |
 | 1700 | peritectic |  | experimental | [1] Bennoui 2022 | p. 2 | “The Er5Bi3 phase is formed by peritectic reaction at 1700 K.” |
-| 1700 | Peritectic: L + BiEr -> Bi3Er5 | L: Bi 0.325; BiEr: Bi 0.5, Er 0.5; Bi3Er5: Bi 0.375, Er 0.625 | unspecified | [2] Wang 2013; _cites Abulkhaev 1992_ | Table 1, p. 2, row 3 |  |
-| 1700 | Peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.68; ErBi: Er 0.5; Er5Bi3: Er 0.625 | model | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 5, p. 8, row 15 |  |
-| 1700 | Peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.71; ErBi: Er 0.5; Er5Bi3: Er 0.625 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 14 |  |
-| 1700 | Peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.68; ErBi: Er 0.5; Er5Bi3: Er 0.625 | model | [1] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 5, p. 8, row 16 |  |
+| 1700 | peritectic: L + BiEr -> Bi3Er5 | L: Bi 0.325; BiEr: Bi 0.5, Er 0.5; Bi3Er5: Bi 0.375, Er 0.625 | unspecified | [2] Wang 2013; _cites Abulkhaev 1992_ | Table 1, p. 2, row 3 |  |
+| 1700 | peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.68; ErBi: Er 0.5; Er5Bi3: Er 0.625 | model | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 5, p. 8, row 15 |  |
+| 1700 | peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.71; ErBi: Er 0.5; Er5Bi3: Er 0.625 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 14 |  |
+| 1700 | peritectic: L+ ErBi ↔ Er5Bi3 | L: Er 0.68; ErBi: Er 0.5; Er5Bi3: Er 0.625 | model | [1] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 5, p. 8, row 16 |  |
 | 1700 | peritectic |  | model | [2] Wang 2013 | p. 4 | “The calculated peritectic temperature for the formation of the intermetallic compound Bi3 Er5 is 1700 K, the congruent melting temperature of BiEr is 2080 K, and the eutectic temperatures of the reactions, L ↔ Hcp A3 (Er) + Bi3 Er5 and L ↔ Rhomb (Bi) + BiEr, are 1434 and 541 K, respectively.” |
 | 1700 | peritectic: L + ErBi -> Er5Bi3 |  | experimental | [3] Wang 2017 | p. 3 | “There are two eutectic reactions: L 4 rhombohedral (Bi) þ ErBi at 542 K and L 4 Er5Bi3 þ HCP_A3 (Er) at 1434 K and one peritectic reaction: L þ ErBi 4 Er5Bi3 at 1700 K.” |
-| 1700 | Peritectic: L + ErBi -> Er5Bi3 | L: Er 0.68; ErBi: Bi 0.5, Er 0.5; Er5Bi3: Bi 0.375, Er 0.625 | unspecified | [3] Wang 2017; _cites Abulkhaev 1992_ | Table 5, p. 6, row 3 |  |
-| 1434 | Eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.81; Er5Bi3: Er 0.625; (Er): Er 0.99 | model | [1] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 5, p. 8, row 21 |  |
-| 1434 | Eutectic: L -> Bi3Er5 + Hcp_A3 (Er) | L: Bi 0.2; Bi3Er5: Bi 0.375, Er 0.625 | unspecified | [2] Wang 2013; _cites Abulkhaev 1992_ | Table 1, p. 2, row 1 |  |
-| 1434 | Eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.81; Er5Bi3: Er 0.625; (Er): Er 1 | model | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 5, p. 8, row 20 |  |
+| 1700 | peritectic: L + ErBi -> Er5Bi3 | L: Er 0.68; ErBi: Bi 0.5, Er 0.5; Er5Bi3: Bi 0.375, Er 0.625 | unspecified | [3] Wang 2017; _cites Abulkhaev 1992_ | Table 5, p. 6, row 3 |  |
+| 1434 | eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.81; Er5Bi3: Er 0.625; (Er): Er 0.99 | model | [1] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 5, p. 8, row 21 |  |
+| 1434 | eutectic: L -> Bi3Er5 + Hcp_A3 (Er) | L: Bi 0.2; Bi3Er5: Bi 0.375, Er 0.625 | unspecified | [2] Wang 2013; _cites Abulkhaev 1992_ | Table 1, p. 2, row 1 |  |
+| 1434 | eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.81; Er5Bi3: Er 0.625; (Er): Er 1 | model | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 5, p. 8, row 20 |  |
 | 1434 | eutectic: L ↔ Hcp A3 (Er) + Bi3 Er5 |  | experimental | [2] Wang 2013; _cites Abulkhaev 1992_ | p. 1 | “There are two eutectic reactions, L ↔ Hcp A3 (Er) + Bi3 Er5 at 1434 K and L ↔ Rhomb (Bi) + BiEr at 542 K.” |
-| 1434 | Eutectic: L -> Bi3Er5 + Hcp_A3 (Er) | L: Bi 0.19; Bi3Er5: Bi 0.375, Er 0.625 | model | [2] Wang 2013 | Table 1, p. 2, row 2 |  |
-| 1434 | Eutectic: L -> Er5Bi3 + HCP_A3 (Er) | L: Er 0.8; Er5Bi3: Bi 0.375, Er 0.625 | unspecified | [3] Wang 2017; _cites Abulkhaev 1992_ | Table 5, p. 6, row 5 |  |
-| 1434 | Eutectic: L -> Er5Bi3 + HCP_A3 (Er) | L: Er 0.8078; Er5Bi3: Bi 0.375, Er 0.625 | model | [3] Wang 2017 | Table 5, p. 6, row 6 |  |
+| 1434 | eutectic: L -> Bi3Er5 + Hcp_A3 (Er) | L: Bi 0.19; Bi3Er5: Bi 0.375, Er 0.625 | model | [2] Wang 2013 | Table 1, p. 2, row 2 |  |
+| 1434 | eutectic: L -> Er5Bi3 + HCP_A3 (Er) | L: Er 0.8; Er5Bi3: Bi 0.375, Er 0.625 | unspecified | [3] Wang 2017; _cites Abulkhaev 1992_ | Table 5, p. 6, row 5 |  |
+| 1434 | eutectic: L -> Er5Bi3 + HCP_A3 (Er) | L: Er 0.8078; Er5Bi3: Bi 0.375, Er 0.625 | model | [3] Wang 2017 | Table 5, p. 6, row 6 |  |
 | 1434 | eutectic: L -> Er5Bi3 + HCP_A3 (Er) |  | experimental | [3] Wang 2017 | p. 3 | “There are two eutectic reactions: L 4 rhombohedral (Bi) þ ErBi at 542 K and L 4 Er5Bi3 þ HCP_A3 (Er) at 1434 K and one peritectic reaction: L þ ErBi 4 Er5Bi3 at 1700 K.” |
-| 1433 | Eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.82; Er5Bi3: Er 0.625; (Er): Er 0.985 | model | [1] Bennoui 2022 | Table 5, p. 8, row 17 |  |
-| 1433 | Eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.8; Er5Bi3: Er 0.625 | experimental | [1] Bennoui 2022; _cites Abulkhaev 1993_ | Table 5, p. 8, row 18 |  |
+| 1433 | eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.82; Er5Bi3: Er 0.625; (Er): Er 0.985 | model | [1] Bennoui 2022 | Table 5, p. 8, row 17 |  |
+| 1433 | eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.8; Er5Bi3: Er 0.625 | experimental | [1] Bennoui 2022; _cites Abulkhaev 1993_ | Table 5, p. 8, row 18 |  |
 | 1423 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2 | “It was reported that there are eutectic points at 1423 K and 542 K for the compositions 19.5 at.% Bi, and 99.7 at.% Bi, respectively.” |
-| 1423 | Eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.8; Er5Bi3: Er 0.625; (Er): Er 0.98 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 19 |  |
-| 868 | Peritectic: L+ ErBi ↔ ErBi2 | L: Er 0.08; ErBi: Er 0.5; ErBi2: Er 0.333 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 4 |  |
+| 1423 | eutectic: L ↔ Er5Bi3+(Er) | L: Er 0.8; Er5Bi3: Er 0.625; (Er): Er 0.98 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 19 |  |
+| 868 | peritectic: L+ ErBi ↔ ErBi2 | L: Er 0.08; ErBi: Er 0.5; ErBi2: Er 0.333 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 4 |  |
 | 868 | peritectic |  | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | p. 2 | “Later, Abdusalyamova and Rakhmatov\[18\] re-examined the phase diagram of the Er-Bi system using DTA, XRD and metallography, and they discovered a new stoichiometric compound ErBi2, that decomposes peritectically at 868 K.” |
-| 868 | Peritectic: L+ ErBi ↔ ErBi2 | L: Er 0.08; ErBi: Er 0.5; ErBi2: Er 0.333 | model | [1] Bennoui 2022 | Table 5, p. 8, row 3 |  |
+| 868 | peritectic: L+ ErBi ↔ ErBi2 | L: Er 0.08; ErBi: Er 0.5; ErBi2: Er 0.333 | model | [1] Bennoui 2022 | Table 5, p. 8, row 3 |  |
 | 868 | peritectic |  | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | p. 9 | “intermetallic phase ErBi2 proposed by Abdusalyamova and Rachmatov\[18\] was confirmed with a peritectic decomposition at 868 K.” |
-| 543 | Eutectic: L ↔ (Bi) + ErBi2 | L: Er 0.005; (Bi): Er 0; ErBi2: Er 0.333 | model | [1] Bennoui 2022 | Table 5, p. 8, row 1 |  |
-| 542.5 | Eutectic: L -> rhombohedral (Bi) + ErBi | L: Er 0.0086; ErBi: Bi 0.5, Er 0.5 | model | [3] Wang 2017 | Table 5, p. 6, row 2 |  |
+| 543 | eutectic: L ↔ (Bi) + ErBi2 | L: Er 0.005; (Bi): Er 0; ErBi2: Er 0.333 | model | [1] Bennoui 2022 | Table 5, p. 8, row 1 |  |
+| 542.5 | eutectic: L -> rhombohedral (Bi) + ErBi | L: Er 0.0086; ErBi: Bi 0.5, Er 0.5 | model | [3] Wang 2017 | Table 5, p. 6, row 2 |  |
 | 542 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2 | “It was reported that there are eutectic points at 1423 K and 542 K for the compositions 19.5 at.% Bi, and 99.7 at.% Bi, respectively.” |
 | 542 | eutectic: L ↔ Rhomb (Bi) + BiEr |  | experimental | [2] Wang 2013; _cites Abulkhaev 1992_ | p. 1 | “There are two eutectic reactions, L ↔ Hcp A3 (Er) + Bi3 Er5 at 1434 K and L ↔ Rhomb (Bi) + BiEr at 542 K.” |
 | 542 | eutectic: L -> rhombohedral (Bi) + ErBi |  | experimental | [3] Wang 2017 | p. 3 | “There are two eutectic reactions: L 4 rhombohedral (Bi) þ ErBi at 542 K and L 4 Er5Bi3 þ HCP_A3 (Er) at 1434 K and one peritectic reaction: L þ ErBi 4 Er5Bi3 at 1700 K.” |
-| 542 | Eutectic: L -> BiEr + Rhomb_A7 (Bi) | L: Bi 0.99; BiEr: Bi 0.5, Er 0.5 | unspecified | [2] Wang 2013; _cites Abulkhaev 1992_ | Table 1, p. 2, row 7 |  |
-| 542 | Eutectic: L -> rhombohedral (Bi) + ErBi | L: Er 0.0084; ErBi: Bi 0.5, Er 0.5 | unspecified | [3] Wang 2017; _cites Abulkhaev 1992_ | Table 5, p. 6, row 1 |  |
-| 542 | Eutectic: L ↔ (Bi) + ErBi2 | L: Er 0.003; (Bi): Er 0; ErBi2: Er 0.333 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 2 |  |
+| 542 | eutectic: L -> BiEr + Rhomb_A7 (Bi) | L: Bi 0.99; BiEr: Bi 0.5, Er 0.5 | unspecified | [2] Wang 2013; _cites Abulkhaev 1992_ | Table 1, p. 2, row 7 |  |
+| 542 | eutectic: L -> rhombohedral (Bi) + ErBi | L: Er 0.0084; ErBi: Bi 0.5, Er 0.5 | unspecified | [3] Wang 2017; _cites Abulkhaev 1992_ | Table 5, p. 6, row 1 |  |
+| 542 | eutectic: L ↔ (Bi) + ErBi2 | L: Er 0.003; (Bi): Er 0; ErBi2: Er 0.333 | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 5, p. 8, row 2 |  |
 
 ## Formation enthalpies
 
@@ -195,10 +195,10 @@ Table: Phase transition, Bi–Er system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2053 K | 2053 | ErBi | experimental | [1] Bennoui 2022; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | p. 2 | “The ErBi compound has a solid-state phase transformation at 2053 K, \[18\] but the crystallographic structure of this phase at high temperature has not been determined.” |
-| Phase transition | 2080 K | 2080 | congruent | experimental | [3] Wang 2017 | p. 3 | “ErBi congruently melts at the temperature of 2080 K.” |
-| Phase transition | 2080 K | 2080 | congruent | experimental | [2] Wang 2013; _cites Abulkhaev 1992_ | p. 1 | “Based on the investigated results, the Bi3 Er5 phase is formed from a peritectic reaction, L + BiEr ↔ Bi3 Er5 at 1700 K, whereas the BiEr phase melts congruently at about 2080 K.” |
-| Phase transition | 2080 K | 2080 | congruent | experimental | [1] Bennoui 2022 | p. 2 | “The highest melting phase in the system belongs to ErBi, which melts congruently at 2080 K.” |
-| Phase transition | 2080 K | 2080 | congruent | model | [2] Wang 2013 | p. 4 | “The calculated peritectic temperature for the formation of the intermetallic compound Bi3 Er5 is 1700 K, the congruent melting temperature of BiEr is 2080 K, and the eutectic temperatures of the reactions, L ↔ Hcp A3 (Er) + Bi3 Er5 and L ↔ Rhomb (Bi) + BiEr, are 1434 and 541 K, respectively.” |
+| Phase transition | 2080 K | 2080 | congruent melting | experimental | [1] Bennoui 2022 | p. 2 | “The highest melting phase in the system belongs to ErBi, which melts congruently at 2080 K.” |
+| Phase transition | 2080 K | 2080 | congruent transformation | experimental | [3] Wang 2017 | p. 3 | “ErBi congruently melts at the temperature of 2080 K.” |
+| Phase transition | 2080 K | 2080 | congruent transformation | experimental | [2] Wang 2013; _cites Abulkhaev 1992_ | p. 1 | “Based on the investigated results, the Bi3 Er5 phase is formed from a peritectic reaction, L + BiEr ↔ Bi3 Er5 at 1700 K, whereas the BiEr phase melts congruently at about 2080 K.” |
+| Phase transition | 2080 K | 2080 | congruent transformation | model | [2] Wang 2013 | p. 4 | “The calculated peritectic temperature for the formation of the intermetallic compound Bi3 Er5 is 1700 K, the congruent melting temperature of BiEr is 2080 K, and the eutectic temperatures of the reactions, L ↔ Hcp A3 (Er) + Bi3 Er5 and L ↔ Rhomb (Bi) + BiEr, are 1434 and 541 K, respectively.” |
 
 ### Activity / EMF / Gibbs energy (24)
 

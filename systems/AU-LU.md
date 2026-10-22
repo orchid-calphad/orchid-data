@@ -59,34 +59,34 @@ Table: Invariant reactions reported in the literature for the Au–Lu system (28
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2053.15 | Melting: L -> AuLu | L: Lu 0.5; AuLu: Lu 0.5 | experimental | [1] Wang 2016; _cites McMasters 1971_ | Table 4, p. 6, row 6 |  |
-| 2053.15 | Melting: L -> AuLu | L: Lu 0.5; AuLu: Lu 0.5 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 5 |  |
-| 2052.75 | Melting: L -> AuLu | L: Lu 0.5; AuLu: Lu 0.5 | model | [1] Wang 2016 | Table 4, p. 6, row 7 |  |
-| 1604.15 | Peritectic: L + AuLu -> AuLu2 | L: Lu 0.682; AuLu: Lu 0.5; AuLu2: Lu 0.667 | model | [1] Wang 2016 | Table 4, p. 6, row 4 |  |
+| 2053.15 | congruent melting: L -> AuLu | L: Lu 0.5; AuLu: Lu 0.5 | experimental | [1] Wang 2016; _cites McMasters 1971_ | Table 4, p. 6, row 6 |  |
+| 2053.15 | congruent melting: L -> AuLu | L: Lu 0.5; AuLu: Lu 0.5 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 5 |  |
+| 2052.75 | congruent melting: L -> AuLu | L: Lu 0.5; AuLu: Lu 0.5 | model | [1] Wang 2016 | Table 4, p. 6, row 7 |  |
+| 1604.15 | peritectic: L + AuLu -> AuLu2 | L: Lu 0.682; AuLu: Lu 0.5; AuLu2: Lu 0.667 | model | [1] Wang 2016 | Table 4, p. 6, row 4 |  |
 | 1604.15 | peritectic: L + AuLu -> AuLu2 |  | model | [1] Wang 2016; _cites Gschneidner 1992_ | p. 5 | “According to the previous work, Gschneidner et al.\[20\] established the entire Au-Lu phase diagram, where there are four eutectic reactions: L (11.4 at.% Lu) M Au4Lu + (Au) at 742 C, L (21.3 at.% Lu) M Au3 Lu + Au4Lu at 1024 C, L (28.0 at.% Lu) M Au3Lu + Au2 Lu at 1047 C and L (78.7 at.% Lu) M AuLu2 + (Lu) at 1176 C, and two peritectic reactions: L (31.5 at.% Lu) + AuLu M Au2Lu at 1130 C and L (67…” |
-| 1604.15 | Peritectic: L + AuLu -> AuLu2 | L: Lu 0.677; AuLu: Lu 0.5; AuLu2: Lu 0.667 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 3 |  |
-| 1449.15 | Eutectic: L -> (Lu) + AuLu2 | L: Lu 0.787; (Lu): Lu 1; AuLu2: Lu 0.667 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 1 |  |
-| 1449.15 | Eutectic: L -> (Lu) + AuLu2 | L: Lu 0.794; (Lu): Lu 1; AuLu2: Lu 0.667 | model | [1] Wang 2016 | Table 4, p. 6, row 2 |  |
+| 1604.15 | peritectic: L + AuLu -> AuLu2 | L: Lu 0.677; AuLu: Lu 0.5; AuLu2: Lu 0.667 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 3 |  |
+| 1449.15 | eutectic: L -> (Lu) + AuLu2 | L: Lu 0.787; (Lu): Lu 1; AuLu2: Lu 0.667 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 1 |  |
+| 1449.15 | eutectic: L -> (Lu) + AuLu2 | L: Lu 0.794; (Lu): Lu 1; AuLu2: Lu 0.667 | model | [1] Wang 2016 | Table 4, p. 6, row 2 |  |
 | 1449.15 | eutectic: L -> AuLu2 + (Lu) |  | model | [1] Wang 2016; _cites Gschneidner 1992_ | p. 5 | “According to the previous work, Gschneidner et al.\[20\] established the entire Au-Lu phase diagram, where there are four eutectic reactions: L (11.4 at.% Lu) M Au4Lu + (Au) at 742 C, L (21.3 at.% Lu) M Au3 Lu + Au4Lu at 1024 C, L (28.0 at.% Lu) M Au3Lu + Au2 Lu at 1047 C and L (78.7 at.% Lu) M AuLu2 + (Lu) at 1176 C, and two peritectic reactions: L (31.5 at.% Lu) + AuLu M Au2Lu at 1130 C and L (67…” |
-| 1403.15 | Peritectic: L + AuLu -> Au2Lu | L: Lu 0.315; AuLu: Lu 0.5; Au2Lu: Lu 0.333 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 8 |  |
+| 1403.15 | peritectic: L + AuLu -> Au2Lu | L: Lu 0.315; AuLu: Lu 0.5; Au2Lu: Lu 0.333 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 8 |  |
 | 1403.15 | peritectic: L + AuLu -> Au2Lu |  | model | [1] Wang 2016; _cites Gschneidner 1992_ | p. 5 | “According to the previous work, Gschneidner et al.\[20\] established the entire Au-Lu phase diagram, where there are four eutectic reactions: L (11.4 at.% Lu) M Au4Lu + (Au) at 742 C, L (21.3 at.% Lu) M Au3 Lu + Au4Lu at 1024 C, L (28.0 at.% Lu) M Au3Lu + Au2 Lu at 1047 C and L (78.7 at.% Lu) M AuLu2 + (Lu) at 1176 C, and two peritectic reactions: L (31.5 at.% Lu) + AuLu M Au2Lu at 1130 C and L (67…” |
-| 1400.55 | Peritectic: L + AuLu -> Au2Lu | L: Lu 0.325; AuLu: Lu 0.5; Au2Lu: Lu 0.333 | model | [1] Wang 2016 | Table 4, p. 6, row 9 |  |
-| 1355.15 | Melting: L -> Au3Lu | L: Lu 0.25; Au3Lu: Lu 0.25 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 12 |  |
-| 1350.15 | Melting: L -> Au3Lu | L: Lu 0.25; Au3Lu: Lu 0.25 | model | [1] Wang 2016 | Table 4, p. 6, row 13 |  |
-| 1327.85 | Eutectic: L -> Au2Lu + Au3Lu | L: Lu 0.278; Au2Lu: Lu 0.333; Au3Lu: Lu 0.25 | model | [1] Wang 2016 | Table 4, p. 6, row 11 |  |
+| 1400.55 | peritectic: L + AuLu -> Au2Lu | L: Lu 0.325; AuLu: Lu 0.5; Au2Lu: Lu 0.333 | model | [1] Wang 2016 | Table 4, p. 6, row 9 |  |
+| 1355.15 | congruent melting: L -> Au3Lu | L: Lu 0.25; Au3Lu: Lu 0.25 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 12 |  |
+| 1350.15 | congruent melting: L -> Au3Lu | L: Lu 0.25; Au3Lu: Lu 0.25 | model | [1] Wang 2016 | Table 4, p. 6, row 13 |  |
+| 1327.85 | eutectic: L -> Au2Lu + Au3Lu | L: Lu 0.278; Au2Lu: Lu 0.333; Au3Lu: Lu 0.25 | model | [1] Wang 2016 | Table 4, p. 6, row 11 |  |
 | 1320.15 | eutectic: L -> Au3Lu + Au2Lu |  | model | [1] Wang 2016; _cites Gschneidner 1992_ | p. 5 | “According to the previous work, Gschneidner et al.\[20\] established the entire Au-Lu phase diagram, where there are four eutectic reactions: L (11.4 at.% Lu) M Au4Lu + (Au) at 742 C, L (21.3 at.% Lu) M Au3 Lu + Au4Lu at 1024 C, L (28.0 at.% Lu) M Au3Lu + Au2 Lu at 1047 C and L (78.7 at.% Lu) M AuLu2 + (Lu) at 1176 C, and two peritectic reactions: L (31.5 at.% Lu) + AuLu M Au2Lu at 1130 C and L (67…” |
-| 1320.15 | Eutectic: L -> Au2Lu + Au3Lu | L: Lu 0.279; Au2Lu: Lu 0.333; Au3Lu: Lu 0.25 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 10 |  |
-| 1303.15 | Melting: L -> Au4Lu | L: Lu 0.2; Au4Lu: Lu 0.2 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 16 |  |
-| 1302.65 | Melting: L -> Au4Lu | L: Lu 0.2; Au4Lu: Lu 0.2 | model | [1] Wang 2016 | Table 4, p. 6, row 17 |  |
-| 1301.35 | Eutectic: L -> Au3Lu + Au4Lu | L: Lu 0.208; Au3Lu: Lu 0.25; Au4Lu: Lu 0.2 | model | [1] Wang 2016 | Table 4, p. 6, row 15 |  |
+| 1320.15 | eutectic: L -> Au2Lu + Au3Lu | L: Lu 0.279; Au2Lu: Lu 0.333; Au3Lu: Lu 0.25 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 10 |  |
+| 1303.15 | congruent melting: L -> Au4Lu | L: Lu 0.2; Au4Lu: Lu 0.2 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 16 |  |
+| 1302.65 | congruent melting: L -> Au4Lu | L: Lu 0.2; Au4Lu: Lu 0.2 | model | [1] Wang 2016 | Table 4, p. 6, row 17 |  |
+| 1301.35 | eutectic: L -> Au3Lu + Au4Lu | L: Lu 0.208; Au3Lu: Lu 0.25; Au4Lu: Lu 0.2 | model | [1] Wang 2016 | Table 4, p. 6, row 15 |  |
 | 1297.15 | eutectic: L -> Au3Lu + Au4Lu |  | model | [1] Wang 2016; _cites Gschneidner 1992_ | p. 5 | “According to the previous work, Gschneidner et al.\[20\] established the entire Au-Lu phase diagram, where there are four eutectic reactions: L (11.4 at.% Lu) M Au4Lu + (Au) at 742 C, L (21.3 at.% Lu) M Au3 Lu + Au4Lu at 1024 C, L (28.0 at.% Lu) M Au3Lu + Au2 Lu at 1047 C and L (78.7 at.% Lu) M AuLu2 + (Lu) at 1176 C, and two peritectic reactions: L (31.5 at.% Lu) + AuLu M Au2Lu at 1130 C and L (67…” |
-| 1297.15 | Eutectic: L -> Au3Lu + Au4Lu | L: Lu 0.213; Au3Lu: Lu 0.25; Au4Lu: Lu 0.2 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 14 |  |
-| 1163.15 | Eutectic: L -> Au4Lu + (Au) | Au4Lu: Au 0.8, Lu 0.2; (Au): Lu 0.077 | experimental | [1] Wang 2016; _cites Rider 1965_ | Table 4, p. 6, row 21 |  |
-| 1162.05 | Eutectic: L -> Au4Lu + (Au) | L: Lu 0.118; Au4Lu: Lu 0.2; (Au): Lu 0.079 | model | [1] Wang 2016 | Table 4, p. 6, row 22 |  |
+| 1297.15 | eutectic: L -> Au3Lu + Au4Lu | L: Lu 0.213; Au3Lu: Lu 0.25; Au4Lu: Lu 0.2 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 14 |  |
+| 1163.15 | eutectic: L -> Au4Lu + (Au) | Au4Lu: Au 0.8, Lu 0.2; (Au): Lu 0.077 | experimental | [1] Wang 2016; _cites Rider 1965_ | Table 4, p. 6, row 21 |  |
+| 1162.05 | eutectic: L -> Au4Lu + (Au) | L: Lu 0.118; Au4Lu: Lu 0.2; (Au): Lu 0.079 | model | [1] Wang 2016 | Table 4, p. 6, row 22 |  |
 | 1015.15 | eutectic: L -> Au4Lu + (Au) |  | model | [1] Wang 2016; _cites Gschneidner 1992_ | p. 5 | “According to the previous work, Gschneidner et al.\[20\] established the entire Au-Lu phase diagram, where there are four eutectic reactions: L (11.4 at.% Lu) M Au4Lu + (Au) at 742 C, L (21.3 at.% Lu) M Au3 Lu + Au4Lu at 1024 C, L (28.0 at.% Lu) M Au3Lu + Au2 Lu at 1047 C and L (78.7 at.% Lu) M AuLu2 + (Lu) at 1176 C, and two peritectic reactions: L (31.5 at.% Lu) + AuLu M Au2Lu at 1130 C and L (67…” |
-| 1015.15 | Eutectic: L -> Au4Lu + (Au) | L: Lu 0.114; Au4Lu: Lu 0.2; (Au): Lu 0 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 20 |  |
-| 499.25 | Eutectoid: Au3Lu -> Au2Lu + Au4Lu | Au3Lu: Lu 0.25; Au2Lu: Lu 0.333; Au4Lu: Lu 0.2 | model | [1] Wang 2016 | Table 4, p. 6, row 19 |  |
-| 499.15 | Eutectoid: Au3Lu -> Au2Lu + Au4Lu | Au3Lu: Lu 0.25; Au2Lu: Lu 0.333; Au4Lu: Lu 0.2 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 18 |  |
+| 1015.15 | eutectic: L -> Au4Lu + (Au) | L: Lu 0.114; Au4Lu: Lu 0.2; (Au): Lu 0 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 20 |  |
+| 499.25 | eutectoid: Au3Lu -> Au2Lu + Au4Lu | Au3Lu: Lu 0.25; Au2Lu: Lu 0.333; Au4Lu: Lu 0.2 | model | [1] Wang 2016 | Table 4, p. 6, row 19 |  |
+| 499.15 | eutectoid: Au3Lu -> Au2Lu + Au4Lu | Au3Lu: Lu 0.25; Au2Lu: Lu 0.333; Au4Lu: Lu 0.2 | experimental | [1] Wang 2016; _cites Gschneidner 1992_ | Table 4, p. 6, row 18 |  |
 
 ## Other properties
 

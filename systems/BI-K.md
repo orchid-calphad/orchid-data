@@ -77,38 +77,38 @@ Table: Invariant reactions reported in the literature for the Bi–K system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 988 | Congruent: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 29 |  |
-| 988 | Congruent: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 28 |  |
-| 944 | Congruent: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 27 |  |
-| 838 | Congruent: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 21 |  |
-| 838 | Congruent: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 23 |  |
-| 838 | Congruent: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 22 |  |
-| 838 | Congruent: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | model | [1] Niu 2012 | Table 2, p. 2, row 24 |  |
-| 718 | Congruent: L -> Bi2K3 | L: K 0.6; Bi2K3: K 0.6 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 25 |  |
-| 715.1 | Eutectic: L -> Bi2K3 + β-BiK3 | L: K 0.602; Bi2K3: K 0.6; β-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 4 |  |
-| 715.1 | Congruent: L -> Bi2K3 | L: K 0.6; Bi2K3: K 0.6 | model | [1] Niu 2012 | Table 2, p. 2, row 26 |  |
-| 715 | Eutectic: L -> Bi2K3 + β-BiK3 | Bi2K3: K 0.6; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 2 |  |
-| 715 | Eutectic: L -> Bi2K3 + β-BiK3 | L: K 0.605; Bi2K3: K 0.6; β-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 3 |  |
-| 715 | Eutectic: L -> Bi2K3 + β-BiK3 | Bi2K3: K 0.6; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 1 |  |
-| 654.1 | Peritectic: L + Bi2K3 -> Bi4K5 | L: K 0.525; Bi2K3: K 0.6; Bi4K5: K 0.556 | model | [1] Niu 2012 | Table 2, p. 2, row 8 |  |
-| 654 | Peritectic: L + Bi2K3 -> Bi4K5 | Bi2K3: K 0.6; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 6 |  |
-| 654 | Peritectic: L + Bi2K3 -> Bi4K5 | Bi2K3: K 0.6; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 5 |  |
-| 654 | Peritectic: L + Bi2K3 -> Bi4K5 | L: K 0.535; Bi2K3: K 0.6; Bi4K5: K 0.556 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 7 |  |
-| 628 | Eutectic: L -> Bi2K + Bi4K5 | L: K 0.5; Bi2K: K 0.333; Bi4K5: K 0.556 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 11 |  |
-| 627 | Eutectic: L -> Bi2K + Bi4K5 | Bi2K: K 0.333; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 9 |  |
-| 627 | Eutectic: L -> Bi2K + Bi4K5 | Bi2K: K 0.333; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 10 |  |
-| 626.9 | Eutectic: L -> Bi2K + Bi4K5 | L: K 0.499; Bi2K: K 0.333; Bi4K5: K 0.556 | model | [1] Niu 2012 | Table 2, p. 2, row 12 |  |
-| 553 | Polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 31 |  |
-| 553 | Polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 32 |  |
-| 553 | Polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 30 |  |
-| 538.4 | Eutectic: L -> Rhom + Bi2K | L: K 0.026; Rhom: K 0; Bi2K: K 0.333 | model | [1] Niu 2012 | Table 2, p. 2, row 16 |  |
-| 538 | Eutectic: L -> Rhom + Bi2K | Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 13 |  |
-| 538 | Eutectic: L -> Rhom + Bi2K | L: K 0.025; Rhom: K 0; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 14 |  |
-| 538 | Eutectic: L -> Rhom + Bi2K | L: K 0.025; Rhom: K 0; Bi2K: K 0.333 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 15 |  |
-| 336.71 | Eutectic: L -> α-BiK3 + BCC_A2 | L: K 1; α-BiK3: K 0.75; BCC_A2: K 1 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 19 |  |
-| 336.5 | Eutectic: L -> α-BiK3 + BCC_A2 | L: K 1; α-BiK3: K 0.75; BCC_A2: K 1 | model | [1] Niu 2012 | Table 2, p. 2, row 20 |  |
-| 336 | Eutectic: L -> α-BiK3 + BCC_A2 | α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 17 |  |
-| 336 | Eutectic: L -> α-BiK3 + BCC_A2 | α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 18 |  |
+| 988 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 29 |  |
+| 988 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 28 |  |
+| 944 | congruent melting: L -> β-BiK3 | L: K 0.75; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 27 |  |
+| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 21 |  |
+| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 23 |  |
+| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 22 |  |
+| 838 | congruent melting: L -> Bi2K | L: K 0.333; Bi2K: K 0.333 | model | [1] Niu 2012 | Table 2, p. 2, row 24 |  |
+| 718 | congruent melting: L -> Bi2K3 | L: K 0.6; Bi2K3: K 0.6 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 25 |  |
+| 715.1 | eutectic: L -> Bi2K3 + β-BiK3 | L: K 0.602; Bi2K3: K 0.6; β-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 4 |  |
+| 715.1 | congruent melting: L -> Bi2K3 | L: K 0.6; Bi2K3: K 0.6 | model | [1] Niu 2012 | Table 2, p. 2, row 26 |  |
+| 715 | eutectic: L -> Bi2K3 + β-BiK3 | Bi2K3: K 0.6; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 2 |  |
+| 715 | eutectic: L -> Bi2K3 + β-BiK3 | L: K 0.605; Bi2K3: K 0.6; β-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 3 |  |
+| 715 | eutectic: L -> Bi2K3 + β-BiK3 | Bi2K3: K 0.6; β-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 1 |  |
+| 654.1 | peritectic: L + Bi2K3 -> Bi4K5 | L: K 0.525; Bi2K3: K 0.6; Bi4K5: K 0.556 | model | [1] Niu 2012 | Table 2, p. 2, row 8 |  |
+| 654 | peritectic: L + Bi2K3 -> Bi4K5 | Bi2K3: K 0.6; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 6 |  |
+| 654 | peritectic: L + Bi2K3 -> Bi4K5 | Bi2K3: K 0.6; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 5 |  |
+| 654 | peritectic: L + Bi2K3 -> Bi4K5 | L: K 0.535; Bi2K3: K 0.6; Bi4K5: K 0.556 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 7 |  |
+| 628 | eutectic: L -> Bi2K + Bi4K5 | L: K 0.5; Bi2K: K 0.333; Bi4K5: K 0.556 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 11 |  |
+| 627 | eutectic: L -> Bi2K + Bi4K5 | Bi2K: K 0.333; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 9 |  |
+| 627 | eutectic: L -> Bi2K + Bi4K5 | Bi2K: K 0.333; Bi4K5: K 0.556 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 10 |  |
+| 626.9 | eutectic: L -> Bi2K + Bi4K5 | L: K 0.499; Bi2K: K 0.333; Bi4K5: K 0.556 | model | [1] Niu 2012 | Table 2, p. 2, row 12 |  |
+| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 31 |  |
+| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | model | [1] Niu 2012 | Table 2, p. 2, row 32 |  |
+| 553 | polymorphic: β-BiK3 -> α-BiK3 | β-BiK3: K 0.75; α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 30 |  |
+| 538.4 | eutectic: L -> Rhom + Bi2K | L: K 0.026; Rhom: K 0; Bi2K: K 0.333 | model | [1] Niu 2012 | Table 2, p. 2, row 16 |  |
+| 538 | eutectic: L -> Rhom + Bi2K | Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 13 |  |
+| 538 | eutectic: L -> Rhom + Bi2K | L: K 0.025; Rhom: K 0; Bi2K: K 0.333 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 14 |  |
+| 538 | eutectic: L -> Rhom + Bi2K | L: K 0.025; Rhom: K 0; Bi2K: K 0.333 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 15 |  |
+| 336.71 | eutectic: L -> α-BiK3 + BCC_A2 | L: K 1; α-BiK3: K 0.75; BCC_A2: K 1 | model | [1] Niu 2012; _cites Petric 1991_ [doi](https://doi.org/10.1007/bf02663669) | Table 2, p. 2, row 19 |  |
+| 336.5 | eutectic: L -> α-BiK3 + BCC_A2 | L: K 1; α-BiK3: K 0.75; BCC_A2: K 1 | model | [1] Niu 2012 | Table 2, p. 2, row 20 |  |
+| 336 | eutectic: L -> α-BiK3 + BCC_A2 | α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 2, row 17 |  |
+| 336 | eutectic: L -> α-BiK3 + BCC_A2 | α-BiK3: K 0.75 | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 2, p. 2, row 18 |  |
 
 ## Formation enthalpies
 

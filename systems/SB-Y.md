@@ -61,20 +61,20 @@ Table: Invariant reactions reported in the literature for the Sb–Y system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2393 | Peritectic: L + SbY -> Sb3Y4 | SbY: Y 0.5; Sb3Y4: Y 0.571429 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 11 |  |
-| 2389 | Peritectic: L + SbY -> Sb3Y4 | L: Y 0.614; SbY: Y 0.5; Sb3Y4: Y 0.571429 | model | [1] Zhang 2009 | Table 3, p. 4, row 12 |  |
-| 1970 | Peritectic: L + Sb3Y4 -> Sb3Y5 | L: Y 0.714; Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625 | model | [1] Zhang 2009 | Table 3, p. 4, row 8 |  |
-| 1963 | Peritectic: L + Sb3Y4 -> Sb3Y5 | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 7 |  |
-| 1937 | Eutectoid: Sb3Y4 -> Sb3Y5 + SbY | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625; SbY: Y 0.5 | model | [1] Zhang 2009 | Table 3, p. 4, row 10 |  |
-| 1933 | Eutectoid: Sb3Y4 -> Sb3Y5 + SbY | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625; SbY: Y 0.5 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 9 |  |
-| 1735 | Eutectoid: Bcc_Y \<-> L + Hcp_Y |  | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 1 |  |
-| 1730 | Eutectoid: Bcc_Y \<-> L + Hcp_Y | L: Y 0.947 | model | [1] Zhang 2009 | Table 3, p. 4, row 2 |  |
-| 1515 | Peritectic: L + Sb3Y5 -> SbY3 | L: Y 0.852; Sb3Y5: Y 0.625; SbY3: Y 0.75 | model | [1] Zhang 2009 | Table 3, p. 4, row 6 |  |
-| 1513 | Peritectic: L + Sb3Y5 -> SbY3 | Sb3Y5: Y 0.625; SbY3: Y 0.75 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 5 |  |
-| 1499 | Eutectic: L \<-> Hcp_Y + SbY3 | L: Y 0.836; SbY3: Y 0.75 | model | [1] Zhang 2009 | Table 3, p. 4, row 4 |  |
-| 1493 | Eutectic: L \<-> Hcp_Y + SbY3 | L: Y 0.855; SbY3: Y 0.75 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 3 |  |
-| 902 | Eutectic: L -> SbY + Rhom.Sb | SbY: Y 0.5; Rhom.Sb: Y 0 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 15 |  |
-| 897 | Eutectic: L -> SbY + Rhom.Sb | L: Y 0.029; SbY: Y 0.5; Rhom.Sb: Y 0 | model | [1] Zhang 2009 | Table 3, p. 4, row 16 |  |
+| 2393 | peritectic: L + SbY -> Sb3Y4 | SbY: Y 0.5; Sb3Y4: Y 0.571429 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 11 |  |
+| 2389 | peritectic: L + SbY -> Sb3Y4 | L: Y 0.614; SbY: Y 0.5; Sb3Y4: Y 0.571429 | model | [1] Zhang 2009 | Table 3, p. 4, row 12 |  |
+| 1970 | peritectic: L + Sb3Y4 -> Sb3Y5 | L: Y 0.714; Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625 | model | [1] Zhang 2009 | Table 3, p. 4, row 8 |  |
+| 1963 | peritectic: L + Sb3Y4 -> Sb3Y5 | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 7 |  |
+| 1937 | eutectoid: Sb3Y4 -> Sb3Y5 + SbY | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625; SbY: Y 0.5 | model | [1] Zhang 2009 | Table 3, p. 4, row 10 |  |
+| 1933 | eutectoid: Sb3Y4 -> Sb3Y5 + SbY | Sb3Y4: Y 0.571429; Sb3Y5: Y 0.625; SbY: Y 0.5 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 9 |  |
+| 1735 | eutectoid: Bcc_Y \<-> L + Hcp_Y |  | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 1 |  |
+| 1730 | eutectoid: Bcc_Y \<-> L + Hcp_Y | L: Y 0.947 | model | [1] Zhang 2009 | Table 3, p. 4, row 2 |  |
+| 1515 | peritectic: L + Sb3Y5 -> SbY3 | L: Y 0.852; Sb3Y5: Y 0.625; SbY3: Y 0.75 | model | [1] Zhang 2009 | Table 3, p. 4, row 6 |  |
+| 1513 | peritectic: L + Sb3Y5 -> SbY3 | Sb3Y5: Y 0.625; SbY3: Y 0.75 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 5 |  |
+| 1499 | eutectic: L \<-> Hcp_Y + SbY3 | L: Y 0.836; SbY3: Y 0.75 | model | [1] Zhang 2009 | Table 3, p. 4, row 4 |  |
+| 1493 | eutectic: L \<-> Hcp_Y + SbY3 | L: Y 0.855; SbY3: Y 0.75 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 3 |  |
+| 902 | eutectic: L -> SbY + Rhom.Sb | SbY: Y 0.5; Rhom.Sb: Y 0 | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 15 |  |
+| 897 | eutectic: L -> SbY + Rhom.Sb | L: Y 0.029; SbY: Y 0.5; Rhom.Sb: Y 0 | model | [1] Zhang 2009 | Table 3, p. 4, row 16 |  |
 
 ## Other properties
 
@@ -84,8 +84,8 @@ Table: Phase transition, Sb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2582 K | 2582 | Congruent: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | model | [1] Zhang 2009 | Table 3, p. 4, row 14 |  |
-| Phase transition | 2583 K | 2583 | Congruent: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 13 |  |
+| Phase transition | 2582 K | 2582 | congruent melting: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | model | [1] Zhang 2009 | Table 3, p. 4, row 14 |  |
+| Phase transition | 2583 K | 2583 | congruent melting: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 13 |  |
 
 ## Sources
 

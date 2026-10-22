@@ -29,8 +29,8 @@ Table: Phase transition, Hf–Ti–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1697.15 K | 1697.15 | invariant: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) | model | [1] Cacciamani 2011 | p. 14 | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
-| Phase transition | 1723.15 K | 1723.15 | invariant: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) | experimental | [1] Cacciamani 2011 | p. 14 | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
+| Phase transition | 1697.15 K | 1697.15 | other: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) | model | [1] Cacciamani 2011 | p. 14 | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
+| Phase transition | 1723.15 K | 1723.15 | other: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) | experimental | [1] Cacciamani 2011 | p. 14 | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
 
 ## Sources
 

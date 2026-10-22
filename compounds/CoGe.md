@@ -1,25 +1,23 @@
 # CoGe: enthalpy of formation
 
-> Enthalpy of formation of CoGe: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CoGe: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CoGe.html · Markdown: https://data.orchid-project.org/compounds/CoGe.md
 
-9 accepted literature formation-enthalpy value(s) (experimental 3, model 6); experimental median -15.943 kJ/mol-atom (n = 2); Materials Project -20.979 kJ/mol-atom (mp-aaaabfkv); OQMD -22.291 kJ/mol-atom (oqmd-1790918).
+7 accepted literature formation-enthalpy value(s) (experimental 2, model 5); experimental median -15.943 kJ/mol-atom (n = 1); Materials Project -20.979 kJ/mol-atom (mp-aaaabfkv); OQMD -22.291 kJ/mol-atom (oqmd-1790918).
 
 Systems: [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CoGe reported in the literature (9)
+Table: Enthalpy of formation of CoGe reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15943 per mol-atom ± 946 | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22 |  |
 | -15.943 kJ/mol-atom | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
-| -15.943 kJ/mol-atom | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
 | -22758 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 24 |  |
 | -21847 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 23 |  |
-| -21.752 kJ/mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 16 |  |
 | -21.752 kJ/mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 16 |  |
 | -21.394 kJ/mol-atom | CoGe | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 5, p. 4, row 5 |  |
 | -20.991 kJ/mol-atom | CoGe | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 5, p. 4, row 5 |  |

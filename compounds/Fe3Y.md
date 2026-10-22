@@ -1,22 +1,21 @@
 # Fe3Y: enthalpy of formation
 
-> Enthalpy of formation of Fe3Y: 31 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Fe3Y: 26 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe3Y.html · Markdown: https://data.orchid-project.org/compounds/Fe3Y.md
 
-31 accepted literature formation-enthalpy value(s) (experimental 4, model 18, DFT 9); experimental median -8.97 kJ/mol-atom (n = 3); Materials Project -5.882 kJ/mol-atom (mp-aaacksts); OQMD -6.168 kJ/mol-atom (oqmd-30268).
+26 accepted literature formation-enthalpy value(s) (experimental 3, model 18, DFT 5); experimental median -8.97 kJ/mol-atom (n = 2); Materials Project -5.882 kJ/mol-atom (mp-aaacksts); OQMD -6.168 kJ/mol-atom (oqmd-30268).
 
 Systems: [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe3Y reported in the literature (31)
+Table: Enthalpy of formation of Fe3Y reported in the literature (26)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -8.97 per mol-atom ± 0.54 | Fe3Y | 973 | experimental | EMF | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 4, p. 4, row 11 |  |
 | -8.97 kJ/mol-atom ± 0.54 | Fe3Y | 973 | experimental | EMF | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 27 |  |
-| -8.97 kJ/mol-atom ± 0.54 | Fe3Y | 298.15 | experimental | Exp | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 3, p. 5, row 22 |  |
 | -8.97 kJ/mol-atom ± 0.54 | Fe3Y | 298.15 | experimental | Exp | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 3, p. 5, row 22 |  |
 | -13.31 per mol-atom | Fe3Y | 298.15 | model | Optimization | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014 | Table 4, p. 4, row 16 |  |
 | -13.31 kJ/mol-atom | Fe3Y | 298.15 | model | Opt | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Conclusions_ | Table 3, p. 5, row 27 |  |
@@ -38,12 +37,8 @@ Table: Enthalpy of formation of Fe3Y reported in the literature (31)
 | -1 per mol-atom | Fe3Y | 298.15 | model | Prediction | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014; _cites Miedema 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990180-6) | Table 4, p. 4, row 14 |  |
 | -7.6 kJ/mol-atom | Fe3Y | 0 | DFT | Ab initio | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 22 |  |
 | -7.519 kJ/mol-atom | Fe3Y |  | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 3, p. 5, row 25 |  |
-| -7.519 kJ/mol-atom | Fe3Y |  | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 3, p. 5, row 25 |  |
-| -6.144 kJ/mol-atom | Fe3Y | 0 | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 5, row 21 |  |
 | -6.144 kJ/mol-atom | Fe3Y | 0 | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 5, row 21 |  |
 | -6.144 kJ/mol-atom | Fe3Y | 0 | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 23 |  |
-| -6.144 kJ/mol-atom | Fe3Y | 0 | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 23 |  |
-| -6.06 kJ/mol-atom | Fe3Y | 0 | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021 | Table 3, p. 5, row 19 |  |
 | -6.06 kJ/mol-atom | Fe3Y | 0 | DFT | DFT | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [3] Fan 2021 | Table 3, p. 5, row 19 |  |
 
 ## DFT formation energies

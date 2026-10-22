@@ -49,8 +49,8 @@ Table: Invariant reactions reported in the literature for the Ca–Fe–O system
 | 1423 | other: WF + L -> CWF + W |  | model | [1] Hillert 1990 | Table IV, p. 12, row 31 |  |
 | 1423 | other: WF + L -> CWF + W |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 30 |  |
 | 1404 | other: L + Fe + C -> W |  | model | [1] Hillert 1990 | Table IV, p. 12, row 29 |  |
-| 1400 | I: W + CWF + C2F -> CW3F |  | experimental | [1] Hillert 1990; _cites Chung 1988_ | Table IV, p. 12, row 51 |  |
-| 1396 | I: W + CWF + C2F -> CW3F |  | model | [1] Hillert 1990 | Table IV, p. 12, row 53 |  |
+| 1400 | eutectic: W + CWF + C2F -> CW3F |  | experimental | [1] Hillert 1990; _cites Chung 1988_ | Table IV, p. 12, row 51 |  |
+| 1396 | eutectic: W + CWF + C2F -> CW3F |  | model | [1] Hillert 1990 | Table IV, p. 12, row 53 |  |
 | 1393 | other: L + Fe + C -> W |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 28 |  |
 | 1388 | other: L + C -> W + C2F |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 26 |  |
 | 1383 | other: L + CWF -> C2F + W |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 60 |  |
@@ -63,17 +63,17 @@ Table: Invariant reactions reported in the literature for the Ca–Fe–O system
 | 1372 | other: L + CWF -> C2F + W |  | model | [1] Hillert 1990 | Table IV, p. 12, row 61 |  |
 | 1371 | other: L + CW3F -> C2F + W |  | model | [1] Hillert 1990 | Table IV, p. 12, row 21 |  |
 | 1355 | other: WF + CF -> C4WF4 + F |  | model | [1] Hillert 1990 | Table IV, p. 12, row 19 |  |
-| 1343 | II: W + C -> C2F + Fe |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 17 |  |
-| 1333 | I: W + CWF + C2F -> CW3F |  | experimental | [1] Hillert 1990; _cites Schiirmann 1973_ | Table IV, p. 12, row 50 |  |
-| 1333 | II: W + C -> C2F + Fe |  | experimental | [1] Hillert 1990; _cites Bj 1984_ | Table IV, p. 12, row 16 |  |
-| 1324 | II: W + C -> C2F + Fe |  | model | [1] Hillert 1990 | Table IV, p. 12, row 18 |  |
-| 1318 | II: W + C -> C2F + Fe |  | experimental | [1] Hillert 1990; _cites Abbattista 1975_ | Table IV, p. 12, row 15 |  |
-| 1308 | I: W + CWF + C2F -> CW3F |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 52 |  |
+| 1343 | quasi-peritectic: W + C -> C2F + Fe |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 17 |  |
+| 1333 | eutectic: W + CWF + C2F -> CW3F |  | experimental | [1] Hillert 1990; _cites Schiirmann 1973_ | Table IV, p. 12, row 50 |  |
+| 1333 | quasi-peritectic: W + C -> C2F + Fe |  | experimental | [1] Hillert 1990; _cites Bj 1984_ | Table IV, p. 12, row 16 |  |
+| 1324 | quasi-peritectic: W + C -> C2F + Fe |  | model | [1] Hillert 1990 | Table IV, p. 12, row 18 |  |
+| 1318 | quasi-peritectic: W + C -> C2F + Fe |  | experimental | [1] Hillert 1990; _cites Abbattista 1975_ | Table IV, p. 12, row 15 |  |
+| 1308 | eutectic: W + CWF + C2F -> CW3F |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 52 |  |
 | 1307 | other: WF + C2F -> CWF + C4WF4 |  | model | [1] Hillert 1990 | Table IV, p. 12, row 13 |  |
-| 1300 | II: W + C -> C2F + Fe |  | experimental | [1] Hillert 1990; _cites Chung 1988_ | Table IV, p. 12, row 14 |  |
-| 1113 | III: W + C2F -> CW3F + Fe |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 11 |  |
-| 1095 | III: W + C2F -> CW3F + Fe |  | model | [1] Hillert 1990 | Table IV, p. 12, row 12 |  |
-| 1088 | III: W + C2F -> CW3F + Fe |  | experimental | [1] Hillert 1990; _cites Chung 1988_ | Table IV, p. 12, row 10 |  |
+| 1300 | quasi-peritectic: W + C -> C2F + Fe |  | experimental | [1] Hillert 1990; _cites Chung 1988_ | Table IV, p. 12, row 14 |  |
+| 1113 | peritectic: W + C2F -> CW3F + Fe |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 11 |  |
+| 1095 | peritectic: W + C2F -> CW3F + Fe |  | model | [1] Hillert 1990 | Table IV, p. 12, row 12 |  |
+| 1088 | peritectic: W + C2F -> CW3F + Fe |  | experimental | [1] Hillert 1990; _cites Chung 1988_ | Table IV, p. 12, row 10 |  |
 | 1019 | other: W + CWF -> CW3F + WF |  | model | [1] Hillert 1990 | Table IV, p. 12, row 9 |  |
 | 953 | other: C2F + CW3F -> CWF + Fe |  | experimental | [1] Hillert 1990; _cites Turkdogan 1961_ | Table IV, p. 12, row 7 |  |
 | 935 | other: C2F + CW3F -> CWF + Fe |  | experimental | [1] Hillert 1990; _cites Chung 1988_ | Table IV, p. 12, row 6 |  |

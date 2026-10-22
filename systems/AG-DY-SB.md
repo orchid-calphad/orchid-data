@@ -26,29 +26,29 @@ Table: Invariant reactions reported in the literature for the Ag–Dy–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2002.8 | P: L + α\_DySb -> β\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 19 |  |
-| 2002.8 | U: L + α\_DySb -> β\_Dy4Sb3 + L |  | model | [1] Long 2010 | Table 3, p. 5, row 5 |  |
-| 1917.8 | U: L + β\_Dy4Sb3 -> L + Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 6 |  |
-| 1917.8 | P: L + β\_Dy4Sb3 -> Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 20 |  |
-| 1903 | U: L + β\_Dy4Sb3 -> Dy5Sb3 + α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 7 |  |
-| 1903 | P: L + β\_Dy4Sb3 + α\_DySb -> α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 21 |  |
-| 1851 | U: L + Dy5Sb3 -> τ1 + α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 8 |  |
-| 1830.6 | U: L + Dy5Sb3 -> τ1 + L |  | model | [1] Long 2010 | Table 3, p. 5, row 9 |  |
-| 1830.6 | P: L + Dy5Sb3 -> τ1 |  | model | [1] Long 2010 | Table 3, p. 5, row 22 |  |
-| 1752.4 | U: L + α\_Dy4Sb3 -> τ1 + α\_DySb |  | model | [1] Long 2010 | Table 3, p. 5, row 10 |  |
-| 1630.1 | U: L + τ1 -> L + Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 11 |  |
-| 1630.1 | P: L + τ1 -> Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 23 |  |
-| 1372.4 | U: L + Dy5Sb3 -> τ1 + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 12 |  |
-| 1245 | U: L + α\_DySb -> τ1 + Ag2Dy |  | model | [1] Long 2010 | Table 3, p. 5, row 13 |  |
-| 1222.5 | E: L -> τ1 + Ag2Dy + AgDy |  | model | [1] Long 2010 | Table 3, p. 5, row 1 |  |
-| 1182.1 | E: L -> α\_DySb + Ag2Dy + Ag51Dy14 |  | model | [1] Long 2010 | Table 3, p. 5, row 2 |  |
-| 1171.2 | U: L + τ1 -> AgDy + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 14 |  |
-| 1074.8 | E: L -> α\_DySb + Ag51Dy14 + Fcc(Ag) |  | model | [1] Long 2010 | Table 3, p. 5, row 3 |  |
-| 974.4 | U: L + Fcc(Ag) -> α\_DySb + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 15 |  |
-| 835.5 | U: L + Hcp(Dy) -> α\_DySb + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 16 |  |
-| 831 | U: L + α\_DySb -> τ2 + Rho |  | model | [1] Long 2010 | Table 3, p. 5, row 17 |  |
-| 818.1 | U: L + α\_DySb -> τ2 + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 18 |  |
-| 753.2 | E: L -> τ2 + Rho + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 4 |  |
+| 2002.8 | peritectic: L + α\_DySb -> β\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 19 |  |
+| 2002.8 | quasi-peritectic: L + α\_DySb -> β\_Dy4Sb3 + L |  | model | [1] Long 2010 | Table 3, p. 5, row 5 |  |
+| 1917.8 | quasi-peritectic: L + β\_Dy4Sb3 -> L + Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 6 |  |
+| 1917.8 | peritectic: L + β\_Dy4Sb3 -> Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 20 |  |
+| 1903 | quasi-peritectic: L + β\_Dy4Sb3 -> Dy5Sb3 + α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 7 |  |
+| 1903 | peritectic: L + β\_Dy4Sb3 + α\_DySb -> α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 21 |  |
+| 1851 | quasi-peritectic: L + Dy5Sb3 -> τ1 + α\_Dy4Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 8 |  |
+| 1830.6 | quasi-peritectic: L + Dy5Sb3 -> τ1 + L |  | model | [1] Long 2010 | Table 3, p. 5, row 9 |  |
+| 1830.6 | peritectic: L + Dy5Sb3 -> τ1 |  | model | [1] Long 2010 | Table 3, p. 5, row 22 |  |
+| 1752.4 | quasi-peritectic: L + α\_Dy4Sb3 -> τ1 + α\_DySb |  | model | [1] Long 2010 | Table 3, p. 5, row 10 |  |
+| 1630.1 | quasi-peritectic: L + τ1 -> L + Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 11 |  |
+| 1630.1 | peritectic: L + τ1 -> Dy5Sb3 |  | model | [1] Long 2010 | Table 3, p. 5, row 23 |  |
+| 1372.4 | quasi-peritectic: L + Dy5Sb3 -> τ1 + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 12 |  |
+| 1245 | quasi-peritectic: L + α\_DySb -> τ1 + Ag2Dy |  | model | [1] Long 2010 | Table 3, p. 5, row 13 |  |
+| 1222.5 | eutectic: L -> τ1 + Ag2Dy + AgDy |  | model | [1] Long 2010 | Table 3, p. 5, row 1 |  |
+| 1182.1 | eutectic: L -> α\_DySb + Ag2Dy + Ag51Dy14 |  | model | [1] Long 2010 | Table 3, p. 5, row 2 |  |
+| 1171.2 | quasi-peritectic: L + τ1 -> AgDy + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 14 |  |
+| 1074.8 | eutectic: L -> α\_DySb + Ag51Dy14 + Fcc(Ag) |  | model | [1] Long 2010 | Table 3, p. 5, row 3 |  |
+| 974.4 | quasi-peritectic: L + Fcc(Ag) -> α\_DySb + Hcp(Dy) |  | model | [1] Long 2010 | Table 3, p. 5, row 15 |  |
+| 835.5 | quasi-peritectic: L + Hcp(Dy) -> α\_DySb + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 16 |  |
+| 831 | quasi-peritectic: L + α\_DySb -> τ2 + Rho |  | model | [1] Long 2010 | Table 3, p. 5, row 17 |  |
+| 818.1 | quasi-peritectic: L + α\_DySb -> τ2 + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 18 |  |
+| 753.2 | eutectic: L -> τ2 + Rho + ε |  | model | [1] Long 2010 | Table 3, p. 5, row 4 |  |
 
 ## Sources
 

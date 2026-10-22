@@ -26,19 +26,19 @@ Table: Invariant reactions reported in the literature for the Mg–Pr–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1228 | e: liq. -> MgM + bcc |  | model | [1] Guo 2008 | Table 4, p. 6, row 1 |  |
-| 1049 | e: liq. -> MgM + Mg2Pr |  | model | [1] Guo 2008 | Table 4, p. 6, row 2 |  |
-| 1011 | U: liq. + MgM -> Mg2Pr + Mg2Y | liq.: Mg 0.7204, Pr 0.0578, Y 0.2218 | model | [1] Guo 2008 | Table 4, p. 6, row 4 |  |
-| 921 | U: liq. + Mg2Pr -> Mg3Pr + Mg2Y | liq.: Mg 0.7934, Pr 0.0739, Y 0.1327 | model | [1] Guo 2008 | Table 4, p. 6, row 5 |  |
-| 879 | e: liq -> Mg3Pr + Mg5M |  | model | [1] Guo 2008 | Table 4, p. 6, row 6 |  |
-| 878 | U: liq. + Mg2Y -> Mg3Pr + Mg5M | liq.: Mg 0.8294, Pr 0.0513, Y 0.1193 | model | [1] Guo 2008 | Table 4, p. 6, row 7 |  |
-| 875 | U: liq. + Mg2Y -> Mg24Y5 + Mg5M | liq.: Mg 0.8517, Pr 0.0176, Y 0.1307 | model | [1] Guo 2008 | Table 4, p. 6, row 8 |  |
-| 839 | U: liq. + Mg3Pr -> Mg41Pr5 + Mg5M | liq.: Mg 0.903, Pr 0.0661, Y 0.0309 | model | [1] Guo 2008 | Table 4, p. 6, row 9 |  |
-| 834 | U: liq. + Mg12Pr -> Mg41Pr5 + hcp | liq.: Mg 0.9304, Pr 0.0624, Y 0.0072 | model | [1] Guo 2008 | Table 4, p. 6, row 10 |  |
-| 827 | U: liq. + Mg24Y5 -> hcp + Mg5M | liq.: Mg 0.9083, Pr 0.0176, Y 0.0741 | model | [1] Guo 2008 | Table 4, p. 6, row 11 |  |
-| 825 | U: bcc + hcp -> MgM + dhcp |  | model | [1] Guo 2008 | Table 4, p. 6, row 13 |  |
-| 824 | E: liq -> Mg41Pr5 + hcp + Mg5M | liq: Mg 0.9126, Pr 0.0385, Y 0.0489 | model | [1] Guo 2008 | Table 4, p. 6, row 12 |  |
-| 696 | U: dhcp + hcp -> MgM + Pr2Y |  | model | [1] Guo 2008 | Table 4, p. 6, row 14 |  |
+| 1228 | eutectic: liq. -> MgM + bcc |  | model | [1] Guo 2008 | Table 4, p. 6, row 1 |  |
+| 1049 | eutectic: liq. -> MgM + Mg2Pr |  | model | [1] Guo 2008 | Table 4, p. 6, row 2 |  |
+| 1011 | quasi-peritectic: liq. + MgM -> Mg2Pr + Mg2Y | liq.: Mg 0.7204, Pr 0.0578, Y 0.2218 | model | [1] Guo 2008 | Table 4, p. 6, row 4 |  |
+| 921 | quasi-peritectic: liq. + Mg2Pr -> Mg3Pr + Mg2Y | liq.: Mg 0.7934, Pr 0.0739, Y 0.1327 | model | [1] Guo 2008 | Table 4, p. 6, row 5 |  |
+| 879 | eutectic: liq -> Mg3Pr + Mg5M |  | model | [1] Guo 2008 | Table 4, p. 6, row 6 |  |
+| 878 | quasi-peritectic: liq. + Mg2Y -> Mg3Pr + Mg5M | liq.: Mg 0.8294, Pr 0.0513, Y 0.1193 | model | [1] Guo 2008 | Table 4, p. 6, row 7 |  |
+| 875 | quasi-peritectic: liq. + Mg2Y -> Mg24Y5 + Mg5M | liq.: Mg 0.8517, Pr 0.0176, Y 0.1307 | model | [1] Guo 2008 | Table 4, p. 6, row 8 |  |
+| 839 | quasi-peritectic: liq. + Mg3Pr -> Mg41Pr5 + Mg5M | liq.: Mg 0.903, Pr 0.0661, Y 0.0309 | model | [1] Guo 2008 | Table 4, p. 6, row 9 |  |
+| 834 | quasi-peritectic: liq. + Mg12Pr -> Mg41Pr5 + hcp | liq.: Mg 0.9304, Pr 0.0624, Y 0.0072 | model | [1] Guo 2008 | Table 4, p. 6, row 10 |  |
+| 827 | quasi-peritectic: liq. + Mg24Y5 -> hcp + Mg5M | liq.: Mg 0.9083, Pr 0.0176, Y 0.0741 | model | [1] Guo 2008 | Table 4, p. 6, row 11 |  |
+| 825 | quasi-peritectic: bcc + hcp -> MgM + dhcp |  | model | [1] Guo 2008 | Table 4, p. 6, row 13 |  |
+| 824 | eutectic: liq -> Mg41Pr5 + hcp + Mg5M | liq: Mg 0.9126, Pr 0.0385, Y 0.0489 | model | [1] Guo 2008 | Table 4, p. 6, row 12 |  |
+| 696 | quasi-peritectic: dhcp + hcp -> MgM + Pr2Y |  | model | [1] Guo 2008 | Table 4, p. 6, row 14 |  |
 
 ## Sources
 

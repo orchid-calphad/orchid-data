@@ -80,11 +80,11 @@ Table: Phase transition, Pb–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1349 K | 1349 | congruent | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VIII, p. 8, row 2 |  |
-| Phase transition | 1352 K | 1352 | congruent | model | [1] Liu 2012 | Table VIII, p. 8, row 5 |  |
-| Phase transition | 1353.7 K | 1353.7 | congruent | experimental | [1] Liu 2012; _cites Miller 1966_ | Table VIII, p. 8, row 4 |  |
-| Phase transition | 1353.7 K | 1353.7 | congruent | experimental | [1] Liu 2012; _cites Seidman 1961_ | Table VIII, p. 8, row 3 |  |
-| Phase transition | 1361 K | 1361 | congruent | experimental | [1] Liu 2012; _cites Friedrich 1908_ | Table VIII, p. 8, row 1 |  |
+| Phase transition | 1349 K | 1349 | congruent transformation | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VIII, p. 8, row 2 |  |
+| Phase transition | 1352 K | 1352 | congruent transformation | model | [1] Liu 2012 | Table VIII, p. 8, row 5 |  |
+| Phase transition | 1353.7 K | 1353.7 | congruent transformation | experimental | [1] Liu 2012; _cites Miller 1966_ | Table VIII, p. 8, row 4 |  |
+| Phase transition | 1353.7 K | 1353.7 | congruent transformation | experimental | [1] Liu 2012; _cites Seidman 1961_ | Table VIII, p. 8, row 3 |  |
+| Phase transition | 1361 K | 1361 | congruent transformation | experimental | [1] Liu 2012; _cites Friedrich 1908_ | Table VIII, p. 8, row 1 |  |
 
 ## Sources
 

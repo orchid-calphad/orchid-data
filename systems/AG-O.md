@@ -94,11 +94,11 @@ Table: Phase transition, Ag–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 420 K | 420 | decomposition | experimental | [1] Assal 1997 | p. 1 | “In air, it decomposes to silver and oxygen gas at 420 K.” |
+| Phase transition | 420 K | 420 | other | experimental | [1] Assal 1997 | p. 1 | “In air, it decomposes to silver and oxygen gas at 420 K.” |
 | Phase transition | 1060 K | 1060 | Ag2O | model | [1] Assal 1997 | p. 6 | “Below the calculated melting temperature of Ag2O (Tm 4 1060 K), stoichiometric Ag2O is described by SER °GAg2O - 2HSER = A + BT + CT ln T + DT 2 + FT -1 Ag - HO” |
 | Phase transition | 1060.2 K | 1060.2 | L -> Ag2O; _L: O 0.3333_ | model | [1] Assal 1997 | Table III, p. 3, row 4 |  |
-| Phase transition | 1224 K | 1224 | liquidus | experimental | [1] Assal 1997 | p. 1 | “His results show that the liquidus temperature decreases from 1234 K in an oxygenfree atmosphere to 1224 K in air and to 1211 K in 0.99 bar O2 (9.9 × 104 Pa).” |
-| Phase transition | 1234 K | 1234 | liquidus | experimental | [1] Assal 1997 | p. 1 | “His results show that the liquidus temperature decreases from 1234 K in an oxygenfree atmosphere to 1224 K in air and to 1211 K in 0.99 bar O2 (9.9 × 104 Pa).” |
+| Phase transition | 1224 K | 1224 | other | experimental | [1] Assal 1997 | p. 1 | “His results show that the liquidus temperature decreases from 1234 K in an oxygenfree atmosphere to 1224 K in air and to 1211 K in 0.99 bar O2 (9.9 × 104 Pa).” |
+| Phase transition | 1234 K | 1234 | other | experimental | [1] Assal 1997 | p. 1 | “His results show that the liquidus temperature decreases from 1234 K in an oxygenfree atmosphere to 1224 K in air and to 1211 K in 0.99 bar O2 (9.9 × 104 Pa).” |
 
 ### Heat capacity / entropy / enthalpy (7)
 

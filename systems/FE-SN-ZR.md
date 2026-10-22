@@ -1,10 +1,10 @@
 # Fe–Sn–Zr system
 
-> Fe–Sn–Zr system: 53 accepted literature values (mixing / partial 25, formation 24, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Sn–Zr system: 46 accepted literature values (mixing / partial 25, formation 17, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-SN-ZR.html · Markdown: https://data.orchid-project.org/systems/FE-SN-ZR.md
 
-53 accepted literature values from 1 paper(s) (model 48, DFT 1, unspecified 4); 0 calculated phase diagram(s).
+46 accepted literature values from 1 paper(s) (model 41, DFT 1, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SN-ZR) · [Markdown](https://data.orchid-project.org/systems/FE-SN-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 48 |
+| model | 41 |
 | DFT | 1 |
 | unspecified | 4 |
 
@@ -21,39 +21,32 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 4 |
-| formation | 24 |
+| formation | 17 |
 | mixing / partial | 25 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Sn–Zr system (24)
+Table: Enthalpies of formation, Fe–Sn–Zr system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Fe17.39Sn43.47Zr39.13 (X'') |  | -41.28 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 12 |  |
 | Fe17.39Sn43.47Zr39.13 (X'') |  | -39.86 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 5 |  |
-| Fe17.39Sn43.47Zr39.13 (X'') |  | -39.86 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 5 |  |
 | Fe17.39Sn43.47Zr39.13 (X″) |  | -41.28 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 12 |  |
 | Fe17.39Sn43.47Zr39.13 (X″) |  | -39.86 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 5 |  |
 | Fe17.65Sn39.22Zr43.13 (X') |  | -47.605 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 6 |  |
-| Fe17.65Sn39.22Zr43.13 (X') |  | -47.605 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 6 |  |
 | Fe17.65Sn39.22Zr43.13 (X′) |  | -47.605 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 6 |  |
 | Fe36.36Sn36.36Zr27.27 (N) |  | -28.97 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 1 |  |
-| Fe36.36Sn36.36Zr27.27 (N) |  | -28.97 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 8 |  |
 | Fe36.36Sn36.36Zr27.27 (N) |  | -27.623 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 1 |  |
-| Fe56.24Sn28.13Zr15.63 (Y) |  | -18.146 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 7 |  |
 | Fe56.24Sn28.13Zr15.63 (Y) |  | -18.146 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 7 |  |
 | Fe5Sn3 | [Fe5Sn3](https://data.orchid-project.org/compounds/Fe5Sn3.html) | 2.79 kJ/mol-atom |  | model |  | 18.263 (oqmd-1277778) | [1] Lafaye 2020 | Table 2, p. 4, row 8 |  |
 | Fe5Sn3 |  | 2.79 kJ/mol-atom | 0 | DFT |  |  | [1] Lafaye 2020 | Table 2, p. 4, row 7 |  |
-| Fe6Sn6Zr |  | -8.94 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 10 |  |
 | Fe6Sn6Zr |  | -8.94 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 3 |  |
 | Fe6Sn6Zr |  | -8.789 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 3 |  |
 | FeSn2Zr6 (θ) |  | -40.881 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 9 |  |
 | FeSn2Zr6 (θ) |  | -39.437 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 2 |  |
-| FeSn2Zr6 (θ) |  | -39.437 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 2 |  |
-| Zr5Sn2.3Fe0.7 |  | -41.657 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 11 |  |
 | Zr5Sn2.3Fe0.7 |  | -41.657 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 4 |  |
 | Zr5Sn2.3Fe0.7 |  | -40.035 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 4 |  |
 
@@ -76,31 +69,31 @@ Table: Mixing / partial, Fe–Sn–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | 2340 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 15070 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5120 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 22 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 9470 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 4500 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 1810 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 25 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 12810 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 7710 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 8190 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 24 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 2600 J/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 21 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 2510 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 3080 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 20 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 7750 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 18 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 1910 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5020 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5940 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 19 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 11880 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 8110 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 14020 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5060 J/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5050 J/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 11 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 9760 J/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 4210 J/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 11260 J/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 1520 J/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 15 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 2.34 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 15.07 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 5.12 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.47 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 23 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 4.5 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.81 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 25 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 12.81 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 7.71 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 8.19 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 24 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 2.6 kJ/mol-atom |  | bcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 21 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 2.51 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 3.08 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 20 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 7.75 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 18 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.91 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 5.02 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 5.94 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 19 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.88 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 8.11 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 14.02 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 5.06 kJ/mol-atom |  | fcc | model | [1] Lafaye 2020 | Table 3, p. 5, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 5.05 kJ/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.76 kJ/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 4.21 kJ/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.26 kJ/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.52 kJ/mol-atom |  | hcp | model | [1] Lafaye 2020 | Table 3, p. 5, row 15 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Nb–Si–W system
 
-> Nb–Si–W system: 39 accepted literature values (phase equilibrium 19, crystal structure 15, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Si–W system: 36 accepted literature values (phase equilibrium 16, crystal structure 15, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-SI-W.html · Markdown: https://data.orchid-project.org/systems/NB-SI-W.md
 
-39 accepted literature values from 1 paper(s) (experimental 12, model 27); 0 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 12, model 24); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SI-W.json) · [CSV](https://data.orchid-project.org/systems/NB-SI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SI-W) · [Markdown](https://data.orchid-project.org/systems/NB-SI-W.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 27 |
+| model | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase equilibrium | 19 |
+| phase equilibrium | 16 |
 | crystal structure | 15 |
 
 ## Invariant reactions (literature)
@@ -29,26 +29,23 @@ Table: Invariant reactions reported in the literature for the Nb–Si–W system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2567.87 | max: L->β(Nb,W)5Si3+Bcc |  | model | [1] Li 2013 | Table 6, p. 8, row 2 |  |
-| 2222.25 | U: L+β(Nb,W)5Si3->Nb(W)3Si+Bcc |  | model | [1] Li 2013 | Table 6, p. 8, row 5 |  |
-| 2071.25 | max: L->Nb(W)Si2+W(Nb)Si2 |  | model | [1] Li 2013 | Table 6, p. 8, row 1 |  |
-| 2026.38 | E: L->β(Nb,W)5Si3+Nb(W)Si2+W(Nb)Si2 |  | model | [1] Li 2013 | Table 6, p. 8, row 3 |  |
-| 1664.57 | E: L->W(Nb)Si2+Nb(W)Si2+Diamond–Si |  | model | [1] Li 2013 | Table 6, p. 8, row 4 |  |
+| 2567.87 | other: L->β(Nb,W)5Si3+Bcc |  | model | [1] Li 2013 | Table 6, p. 8, row 2 |  |
+| 2222.25 | quasi-peritectic: L+β(Nb,W)5Si3->Nb(W)3Si+Bcc |  | model | [1] Li 2013 | Table 6, p. 8, row 5 |  |
+| 2071.25 | other: L->Nb(W)Si2+W(Nb)Si2 |  | model | [1] Li 2013 | Table 6, p. 8, row 1 |  |
+| 2026.38 | eutectic: L->β(Nb,W)5Si3+Nb(W)Si2+W(Nb)Si2 |  | model | [1] Li 2013 | Table 6, p. 8, row 3 |  |
+| 1664.57 | eutectic: L->W(Nb)Si2+Nb(W)Si2+Diamond–Si |  | model | [1] Li 2013 | Table 6, p. 8, row 4 |  |
 
 ## Other properties
 
-### Phase equilibrium (19)
+### Phase equilibrium (16)
 
 Table: Phase equilibrium, Nb–Si–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  |  | Bcc + Nb(W)3Si; _alloy: Si 0, W 0_ | model | [1] Li 2013 | Table 7, p. 8, row 16 |  |
 | Phase assemblage |  |  | Nb(W)3Si + Bcc; _alloy: Si 0, W 0_ | model | [1] Li 2013 | Table 7, p. 8, row 17 |  |
 | Phase assemblage |  |  | Nb(W)Si2 + W(Nb)Si2 + Diamond–Si; _alloy: Si 0, W 0_ | model | [1] Li 2013 | Table 7, p. 8, row 14 |  |
-| Phase assemblage |  |  | Nb(W)Si2 + W(Nb)Si2 + Diamond–Si; _alloy: Si 0, W 0_ | model | [1] Li 2013 | Table 7, p. 8, row 15 |  |
 | Phase assemblage |  |  | β(Nb,W)5Si3 + Nb(W)Si2; _alloy: Si 0, W 0_ | model | [1] Li 2013 | Table 7, p. 8, row 13 |  |
-| Phase assemblage |  |  | β(Nb,W)5Si3 + Nb(W)Si2; _alloy: Si 0, W 0_ | model | [1] Li 2013 | Table 7, p. 8, row 11 |  |
 | Phase assemblage |  |  | β(Nb,W)5Si3 + Nb(W)Si2 + W(Nb)Si2; _alloy: Si 0, W 0_ | model | [1] Li 2013 | Table 7, p. 8, row 12 |  |
 | Phase composition |  |  | Nb(W)Si2 + Liquid; _Nb(W)Si2: Nb 0.2319, Si 0.6678, W 0.1003_ | experimental | [1] Li 2013; _cites Li_ [doi](https://doi.org/10.1016/j.calphad.2013.01.002) | Table 4, p. 5, row 4 |  |
 | Phase composition |  |  | Nb(W)Si2 + W(Nb)Si2 + Liquid; _Nb(W)Si2: Nb 0.2018, Si 0.6652, W 0.133; W(Nb)Si2: Nb 0.0614, Si 0.6666, W 0.272_ | experimental | [1] Li 2013; _cites Li_ [doi](https://doi.org/10.1016/j.calphad.2013.01.002) | Table 4, p. 5, row 7 |  |

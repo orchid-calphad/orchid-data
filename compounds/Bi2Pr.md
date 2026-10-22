@@ -1,22 +1,20 @@
 # Bi2Pr: enthalpy of formation
 
-> Enthalpy of formation of Bi2Pr: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi2Pr: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi2Pr.html · Markdown: https://data.orchid-project.org/compounds/Bi2Pr.md
 
-4 accepted literature formation-enthalpy value(s) (model 4); OQMD -64.412 kJ/mol-atom (oqmd-1368767).
+2 accepted literature formation-enthalpy value(s) (model 2); OQMD -64.412 kJ/mol-atom (oqmd-1368767).
 
 Systems: [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi2Pr reported in the literature (4)
+Table: Enthalpy of formation of Bi2Pr reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -79 kJ/mol-atom | PrBi2 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 6, row 1 |  |
-| -79 kJ/mol-atom | PrBi2 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 6, row 1 |  |
-| -78.698 kJ/mol-atom | PrBi2 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017 | Table 7, p. 6, row 2 |  |
 | -78.698 kJ/mol-atom | PrBi2 |  | model |  | [Bi–Pr](https://data.orchid-project.org/systems/BI-PR.html) | [1] Wang 2017 | Table 7, p. 6, row 2 |  |
 
 ## DFT formation energies

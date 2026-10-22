@@ -100,9 +100,9 @@ Table: Phase transition, Gd–Sb system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2113 K | 2113 | polymorphic: aGdSb -> bGdSb | experimental | [1] Li 2007 | p. 3 | “Since the allotropic transition aGdSb 4 bGdSb occurs at 2113 K, the following constrains can be applied: b b a1 aa1 b1 ba1 1⁄4 2113” |
 | Phase transition | 2113.15 K | 2113.15 | polymorphic | experimental | [1] Li 2007 | p. 2 | “An allotropic transition at 1840 C had been observed for GdSb and its congruent melting point was updated to be 2130 C, which is befittingly lower than 2143 C reported in Ref. \[3\] and 2138 C in Ref. \[4\].” |
-| Phase transition | 2403.15 K | 2403.15 | congruent | experimental | [1] Li 2007 | p. 2 | “An allotropic transition at 1840 C had been observed for GdSb and its congruent melting point was updated to be 2130 C, which is befittingly lower than 2143 C reported in Ref. \[3\] and 2138 C in Ref. \[4\].” |
-| Phase transition | 2411.15 K | 2411.15 | congruent | experimental | [1] Li 2007; _cites Gerasimov 1971_ | p. 2 | “An allotropic transition at 1840 C had been observed for GdSb and its congruent melting point was updated to be 2130 C, which is befittingly lower than 2143 C reported in Ref. \[3\] and 2138 C in Ref. \[4\].” |
-| Phase transition | 2416.15 K | 2416.15 | congruent | experimental | [1] Li 2007; _cites Gambino 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990002-1) | p. 1 | “The compound GdSb melts congruently at 2143 C, while the compounds Gd5Sb3 and Gd4Sb3 form peritectically at 1400 and 1747 C, respectively.” |
+| Phase transition | 2403.15 K | 2403.15 | congruent transformation | experimental | [1] Li 2007 | p. 2 | “An allotropic transition at 1840 C had been observed for GdSb and its congruent melting point was updated to be 2130 C, which is befittingly lower than 2143 C reported in Ref. \[3\] and 2138 C in Ref. \[4\].” |
+| Phase transition | 2411.15 K | 2411.15 | congruent transformation | experimental | [1] Li 2007; _cites Gerasimov 1971_ | p. 2 | “An allotropic transition at 1840 C had been observed for GdSb and its congruent melting point was updated to be 2130 C, which is befittingly lower than 2143 C reported in Ref. \[3\] and 2138 C in Ref. \[4\].” |
+| Phase transition | 2416.15 K | 2416.15 | congruent transformation | experimental | [1] Li 2007; _cites Gambino 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990002-1) | p. 1 | “The compound GdSb melts congruently at 2143 C, while the compounds Gd5Sb3 and Gd4Sb3 form peritectically at 1400 and 1747 C, respectively.” |
 
 ## Sources
 

@@ -65,7 +65,7 @@ Table: Phase transition, Re–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3023 K | 3023 | congruent | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | p. 2 | “Re24Ti5 has a congruent melting temperature around 3023 K.” |
+| Phase transition | 3023 K | 3023 | congruent transformation | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | p. 2 | “Re24Ti5 has a congruent melting temperature around 3023 K.” |
 | Phase transition | 3023 K | 3023 | other | experimental | [1] Zacherl 2012 | p. 7 | “The melting temperature of the compound, Re24Ti5, agrees well with its experimental value of 3023 K.” |
 
 ### Crystal structure (30)

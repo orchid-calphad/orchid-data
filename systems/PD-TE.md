@@ -68,36 +68,36 @@ Table: Invariant reactions reported in the literature for the Pd–Te system (31
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1103 | peritectic |  | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | p. 2 | “Moreover, this author observes a peritectic decomposition of Pd7Te3 at 1103 K which could correspond to a liquidus \[2\].” |
-| 1058 | Peritectic: Liquid + Pd8Te3 -> Pd3Te | Pd8Te3: Te 0.272727; Pd3Te: Te 0.25 | model | [1] Gossé 2011 | Table 2, p. 6, row 1 |  |
-| 1058 | Peritectic: Liquid + Pd8Te3 -> Pd3Te | Pd8Te3: Te 0.272727; Pd3Te: Te 0.25 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 2 |  |
+| 1058 | peritectic: Liquid + Pd8Te3 -> Pd3Te | Pd8Te3: Te 0.272727; Pd3Te: Te 0.25 | model | [1] Gossé 2011 | Table 2, p. 6, row 1 |  |
+| 1058 | peritectic: Liquid + Pd8Te3 -> Pd3Te | Pd8Te3: Te 0.272727; Pd3Te: Te 0.25 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 2 |  |
 | 1058 | peritectic |  | experimental | [1] Gossé 2011 | p. 2 | “This last author also determined the decomposition temperature of Pd3Te to be 1050 13 K in agreement with the retained peritectic temperature of 1058 K.” |
-| 1053 | Eutectic: Liquid -> Pd-FCC + Pd3Te | Pd3Te: Te 0.25 | model | [1] Gossé 2011 | Table 2, p. 6, row 3 |  |
-| 1053 | Eutectic: Liquid -> Pd-FCC + Pd3Te | Pd3Te: Te 0.25 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 4 |  |
-| 1044 | Peritectoid: Pd-FCC + Pd3Te -> Pd17Te4 | Pd3Te: Te 0.25; Pd17Te4: Te 0.190476 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 6 |  |
-| 1043 | Peritectoid: Pd-FCC + Pd3Te -> Pd17Te4 | Pd3Te: Te 0.25; Pd17Te4: Te 0.190476 | model | [1] Gossé 2011 | Table 2, p. 6, row 5 |  |
-| 1024 | Peritectoid: Pd3Te + Pd8Te3 -> Pd20Te7 | Pd3Te: Te 0.25; Pd8Te3: Te 0.272727; Pd20Te7: Te 0.259259 | model | [1] Gossé 2011 | Table 2, p. 6, row 7 |  |
-| 1023 | Peritectoid: Pd3Te + Pd8Te3 -> Pd20Te7 | Pd3Te: Te 0.25; Pd8Te3: Te 0.272727; Pd20Te7: Te 0.259259 | experimental | [1] Gossé 2011; _cites Bhan 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690510) | Table 2, p. 6, row 8 |  |
-| 1004 | Eutectic: Liquid -> PdTe + PdTe2 | PdTe: Te 0.5; PdTe2: Te 0.666667 | model | [1] Gossé 2011 | Table 2, p. 6, row 23 |  |
+| 1053 | eutectic: Liquid -> Pd-FCC + Pd3Te | Pd3Te: Te 0.25 | model | [1] Gossé 2011 | Table 2, p. 6, row 3 |  |
+| 1053 | eutectic: Liquid -> Pd-FCC + Pd3Te | Pd3Te: Te 0.25 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 4 |  |
+| 1044 | peritectoid: Pd-FCC + Pd3Te -> Pd17Te4 | Pd3Te: Te 0.25; Pd17Te4: Te 0.190476 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 6 |  |
+| 1043 | peritectoid: Pd-FCC + Pd3Te -> Pd17Te4 | Pd3Te: Te 0.25; Pd17Te4: Te 0.190476 | model | [1] Gossé 2011 | Table 2, p. 6, row 5 |  |
+| 1024 | peritectoid: Pd3Te + Pd8Te3 -> Pd20Te7 | Pd3Te: Te 0.25; Pd8Te3: Te 0.272727; Pd20Te7: Te 0.259259 | model | [1] Gossé 2011 | Table 2, p. 6, row 7 |  |
+| 1023 | peritectoid: Pd3Te + Pd8Te3 -> Pd20Te7 | Pd3Te: Te 0.25; Pd8Te3: Te 0.272727; Pd20Te7: Te 0.259259 | experimental | [1] Gossé 2011; _cites Bhan 1978_ [doi](https://doi.org/10.1515/ijmr-1978-690510) | Table 2, p. 6, row 8 |  |
+| 1004 | eutectic: Liquid -> PdTe + PdTe2 | PdTe: Te 0.5; PdTe2: Te 0.666667 | model | [1] Gossé 2011 | Table 2, p. 6, row 23 |  |
 | 1003 | eutectic |  | experimental | [1] Gossé 2011; _cites Ipser 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990093-7) | p. 2 | “The eutectic composition between PdTe and PdTe2 is 59.5 at.% Te at 1003 K \[4\].” |
-| 1003 | Eutectic: Liquid -> PdTe + PdTe2 | PdTe: Te 0.5; PdTe2: Te 0.666667 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 24 |  |
-| 1000 | Eutectoid: Pd3Te -> Pd17Te4 + Pd20Te7 | Pd3Te: Te 0.25; Pd17Te4: Te 0.190476; Pd20Te7: Te 0.259259 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 10 |  |
-| 998 | Eutectoid: Pd3Te -> Pd17Te4 + Pd20Te7 | Pd3Te: Te 0.25; Pd17Te4: Te 0.190476; Pd20Te7: Te 0.259259 | model | [1] Gossé 2011 | Table 2, p. 6, row 9 |  |
-| 879.9 | Peritectic: Pd8Te3 + Liquid -> Pd9Te4 | Pd8Te3: Te 0.272727; Pd9Te4: Te 0.307692 | model | [1] Gossé 2011 | Table 2, p. 6, row 15 |  |
-| 878 | Peritectic: Pd8Te3 + Liquid -> Pd9Te4 | Pd8Te3: Te 0.272727; Pd9Te4: Te 0.307692 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 16 |  |
-| 836.7 | Eutectoid: Pd8Te3 -> Pd20Te7 + Pd9Te4 | Pd8Te3: Te 0.272727; Pd20Te7: Te 0.259259; Pd9Te4: Te 0.307692 | model | [1] Gossé 2011 | Table 2, p. 6, row 11 |  |
-| 836 | Eutectoid: Pd8Te3 -> Pd20Te7 + Pd9Te4 | Pd8Te3: Te 0.272727; Pd20Te7: Te 0.259259; Pd9Te4: Te 0.307692 | experimental | [1] Gossé 2011; _cites Chattopadhyay 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990134-7) | Table 2, p. 6, row 12 |  |
-| 781.4 | Peritectic: Liquid + PdTe -> Pd3Te2 | PdTe: Te 0.5; Pd3Te2: Te 0.4 | model | [1] Gossé 2011 | Table 2, p. 6, row 21 |  |
-| 780 | Peritectic: Liquid + PdTe -> Pd3Te2 | PdTe: Te 0.5; Pd3Te2: Te 0.4 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 22 |  |
+| 1003 | eutectic: Liquid -> PdTe + PdTe2 | PdTe: Te 0.5; PdTe2: Te 0.666667 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 24 |  |
+| 1000 | eutectoid: Pd3Te -> Pd17Te4 + Pd20Te7 | Pd3Te: Te 0.25; Pd17Te4: Te 0.190476; Pd20Te7: Te 0.259259 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 10 |  |
+| 998 | eutectoid: Pd3Te -> Pd17Te4 + Pd20Te7 | Pd3Te: Te 0.25; Pd17Te4: Te 0.190476; Pd20Te7: Te 0.259259 | model | [1] Gossé 2011 | Table 2, p. 6, row 9 |  |
+| 879.9 | peritectic: Pd8Te3 + Liquid -> Pd9Te4 | Pd8Te3: Te 0.272727; Pd9Te4: Te 0.307692 | model | [1] Gossé 2011 | Table 2, p. 6, row 15 |  |
+| 878 | peritectic: Pd8Te3 + Liquid -> Pd9Te4 | Pd8Te3: Te 0.272727; Pd9Te4: Te 0.307692 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 16 |  |
+| 836.7 | eutectoid: Pd8Te3 -> Pd20Te7 + Pd9Te4 | Pd8Te3: Te 0.272727; Pd20Te7: Te 0.259259; Pd9Te4: Te 0.307692 | model | [1] Gossé 2011 | Table 2, p. 6, row 11 |  |
+| 836 | eutectoid: Pd8Te3 -> Pd20Te7 + Pd9Te4 | Pd8Te3: Te 0.272727; Pd20Te7: Te 0.259259; Pd9Te4: Te 0.307692 | experimental | [1] Gossé 2011; _cites Chattopadhyay 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990134-7) | Table 2, p. 6, row 12 |  |
+| 781.4 | peritectic: Liquid + PdTe -> Pd3Te2 | PdTe: Te 0.5; Pd3Te2: Te 0.4 | model | [1] Gossé 2011 | Table 2, p. 6, row 21 |  |
+| 780 | peritectic: Liquid + PdTe -> Pd3Te2 | PdTe: Te 0.5; Pd3Te2: Te 0.4 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 22 |  |
 | 780 | peritectic |  | experimental | [1] Gossé 2011; _cites Chattopadhyay 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990134-7) | p. 2 | “The Pd3Te2 phase undergoes a peritectic decomposition at 780 K \[3,4\].” |
-| 776 | Eutectic: Liquid + Pd9Te4 -> Pd3Te2 | Pd9Te4: Te 0.307692; Pd3Te2: Te 0.4 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 18 |  |
-| 775.3 | Eutectic: Liquid + Pd9Te4 -> Pd3Te2 | Pd9Te4: Te 0.307692; Pd3Te2: Te 0.4 | model | [1] Gossé 2011 | Table 2, p. 6, row 17 |  |
-| 768 | Peritectoid: Pd20Te7 + Pd9Te4 -> Pd7Te3 | Pd20Te7: Te 0.259259; Pd9Te4: Te 0.307692; Pd7Te3: Te 0.3 | model | [1] Gossé 2011 | Table 2, p. 6, row 13 |  |
-| 768 | Peritectoid: Pd20Te7 + Pd9Te4 -> Pd7Te3 | Pd20Te7: Te 0.259259; Pd9Te4: Te 0.307692; Pd7Te3: Te 0.3 | experimental | [1] Gossé 2011; _cites Chattopadhyay 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990134-7) | Table 2, p. 6, row 14 |  |
-| 745 | Eutectoid: Pd9Te4 -> Pd7Te3 + Pd3Te2 | Pd9Te4: Te 0.307692; Pd7Te3: Te 0.3; Pd3Te2: Te 0.4 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 20 |  |
-| 744.3 | Eutectoid: Pd9Te4 -> Pd7Te3 + Pd3Te2 | Pd9Te4: Te 0.307692; Pd7Te3: Te 0.3; Pd3Te2: Te 0.4 | model | [1] Gossé 2011 | Table 2, p. 6, row 19 |  |
+| 776 | eutectic: Liquid + Pd9Te4 -> Pd3Te2 | Pd9Te4: Te 0.307692; Pd3Te2: Te 0.4 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 18 |  |
+| 775.3 | eutectic: Liquid + Pd9Te4 -> Pd3Te2 | Pd9Te4: Te 0.307692; Pd3Te2: Te 0.4 | model | [1] Gossé 2011 | Table 2, p. 6, row 17 |  |
+| 768 | peritectoid: Pd20Te7 + Pd9Te4 -> Pd7Te3 | Pd20Te7: Te 0.259259; Pd9Te4: Te 0.307692; Pd7Te3: Te 0.3 | model | [1] Gossé 2011 | Table 2, p. 6, row 13 |  |
+| 768 | peritectoid: Pd20Te7 + Pd9Te4 -> Pd7Te3 | Pd20Te7: Te 0.259259; Pd9Te4: Te 0.307692; Pd7Te3: Te 0.3 | experimental | [1] Gossé 2011; _cites Chattopadhyay 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990134-7) | Table 2, p. 6, row 14 |  |
+| 745 | eutectoid: Pd9Te4 -> Pd7Te3 + Pd3Te2 | Pd9Te4: Te 0.307692; Pd7Te3: Te 0.3; Pd3Te2: Te 0.4 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 20 |  |
+| 744.3 | eutectoid: Pd9Te4 -> Pd7Te3 + Pd3Te2 | Pd9Te4: Te 0.307692; Pd7Te3: Te 0.3; Pd3Te2: Te 0.4 | model | [1] Gossé 2011 | Table 2, p. 6, row 19 |  |
 | 733 | eutectoid |  | experimental | [1] Gossé 2011; _cites Medvedeva 1961_ | p. 2 | “Medvedeva \[5\] and Kim \[6\] both assert the existence of a transition at 733 K which corresponds to the eutectoid.” |
-| 722 | Eutectic: Liquid -> PdTe2 + Te-HEXA | PdTe2: Te 0.666667; Te-HEXA: Te 1 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 26 |  |
-| 720.9 | Eutectic: Liquid -> PdTe2 + Te-HEXA | PdTe2: Te 0.666667; Te-HEXA: Te 1 | model | [1] Gossé 2011 | Table 2, p. 6, row 25 |  |
+| 722 | eutectic: Liquid -> PdTe2 + Te-HEXA | PdTe2: Te 0.666667; Te-HEXA: Te 1 | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 26 |  |
+| 720.9 | eutectic: Liquid -> PdTe2 + Te-HEXA | PdTe2: Te 0.666667; Te-HEXA: Te 1 | model | [1] Gossé 2011 | Table 2, p. 6, row 25 |  |
 
 ## Other properties
 
@@ -115,15 +115,15 @@ Table: Phase transition, Pd–Te system
 | Phase transition | 953 K | 953 | polymorphic | experimental | [1] Gossé 2011 | p. 2 | “The DTA analysis of this phase reveals two endothermic reactions at 543 K and 953 K interpreted as polymorphic transitions.” |
 | Phase transition | 1013 K | 1013 |  | experimental | [1] Gossé 2011; _cites Medvedeva 1961_ | p. 3 | “According to Medevedeva \[5\], PdTe2 melts at 1013 K.” |
 | Phase transition | 1018 K | 1018 | other | experimental | [1] Gossé 2011; _cites Kim 1986_ | p. 2 | “It appears during the decomposition of Pd20Te7 (g) \[6,13\] which occurs at 1018 K according to Kim \[6\] and between 973 K and 1023 K according to Bhan \[13\].” |
-| Phase transition | 1019 K | 1019 | Congruent: Liquid -> PdTe; _L: Te 0.5; PdTe: Te 0.5_ | model | [1] Gossé 2011 | Table 2, p. 6, row 29 |  |
-| Phase transition | 1019 K | 1019 | Congruent: Liquid -> PdTe; _L: Te 0.5; PdTe: Te 0.5_ | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 30 |  |
-| Phase transition | 1019 K | 1019 | congruent | experimental | [1] Gossé 2011 | p. 2 | “PdTe and PdTe2 both have a congruent melting, whose temperatures are 1019 K and 1025 K respectively.” |
-| Phase transition | 1025 K | 1025 | Congruent: Liquid -> PdTe2; _L: Te 0.666667; PdTe2: Te 0.666667_ | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 32 |  |
-| Phase transition | 1025 K | 1025 | Congruent: Liquid -> PdTe2; _L: Te 0.666667; PdTe2: Te 0.666667_ | model | [1] Gossé 2011 | Table 2, p. 6, row 31 |  |
-| Phase transition | 1025 K | 1025 | congruent | experimental | [1] Gossé 2011 | p. 2 | “PdTe and PdTe2 both have a congruent melting, whose temperatures are 1019 K and 1025 K respectively.” |
-| Phase transition | 1177 K | 1177 | Congruent: Liquid -> Pd8Te3; _L: Te 0.272727; Pd8Te3: Te 0.272727_ | model | [1] Gossé 2011 | Table 2, p. 6, row 27 |  |
-| Phase transition | 1178 K | 1178 | Congruent: Liquid -> Pd8Te3; _L: Te 0.272727; Pd8Te3: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 28 |  |
-| Phase transition | 1178 K | 1178 | congruent | experimental | [1] Gossé 2011; _cites Kim 1986_ | p. 2 | “Its melting is congruent at 1178 5 K (average of 1173 K according to \[6\], 1178 K according to \[3\] and 1183 K according to \[4\]).” |
+| Phase transition | 1019 K | 1019 | congruent melting: Liquid -> PdTe; _L: Te 0.5; PdTe: Te 0.5_ | model | [1] Gossé 2011 | Table 2, p. 6, row 29 |  |
+| Phase transition | 1019 K | 1019 | congruent melting: Liquid -> PdTe; _L: Te 0.5; PdTe: Te 0.5_ | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 30 |  |
+| Phase transition | 1019 K | 1019 | congruent transformation | experimental | [1] Gossé 2011 | p. 2 | “PdTe and PdTe2 both have a congruent melting, whose temperatures are 1019 K and 1025 K respectively.” |
+| Phase transition | 1025 K | 1025 | congruent melting: Liquid -> PdTe2; _L: Te 0.666667; PdTe2: Te 0.666667_ | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 32 |  |
+| Phase transition | 1025 K | 1025 | congruent melting: Liquid -> PdTe2; _L: Te 0.666667; PdTe2: Te 0.666667_ | model | [1] Gossé 2011 | Table 2, p. 6, row 31 |  |
+| Phase transition | 1025 K | 1025 | congruent transformation | experimental | [1] Gossé 2011 | p. 2 | “PdTe and PdTe2 both have a congruent melting, whose temperatures are 1019 K and 1025 K respectively.” |
+| Phase transition | 1177 K | 1177 | congruent melting: Liquid -> Pd8Te3; _L: Te 0.272727; Pd8Te3: Te 0.272727_ | model | [1] Gossé 2011 | Table 2, p. 6, row 27 |  |
+| Phase transition | 1178 K | 1178 | congruent melting: Liquid -> Pd8Te3; _L: Te 0.272727; Pd8Te3: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645383) | Table 2, p. 6, row 28 |  |
+| Phase transition | 1178 K | 1178 | congruent transformation | experimental | [1] Gossé 2011; _cites Kim 1986_ | p. 2 | “Its melting is congruent at 1178 5 K (average of 1173 K according to \[6\], 1178 K according to \[3\] and 1183 K according to \[4\]).” |
 
 ### Crystal structure (26)
 

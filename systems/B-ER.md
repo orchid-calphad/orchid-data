@@ -29,18 +29,18 @@ Table: Invariant reactions reported in the literature for the B–Er system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2633.15 | Congruent: L ↔ B4Er | B4Er: B 0.8 | model | [1] Wang 2012 | Table 4, p. 5, row 6 |  |
-| 2633.15 | Congruent: L ↔ B4Er | B4Er: B 0.8 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 5 |  |
-| 2458.15 | Peritectic: L +B4Er ↔ B2Er | L: B 0.65; B4Er: B 0.8; B2Er: B 0.667 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 3 |  |
-| 2457.15 | Peritectic: L +B4Er ↔ B2Er | L: B 0.643; B4Er: B 0.8; B2Er: B 0.667 | model | [1] Wang 2012 | Table 4, p. 5, row 4 |  |
-| 2356.15 | Peritectic: L + B4Er ↔ B12Er | L: B 0.925; B4Er: B 0.8; B12Er: B 0.923 | model | [1] Wang 2012 | Table 4, p. 5, row 8 |  |
-| 2356.15 | Peritectic: L + B4Er ↔ B12Er | L: B 0.93; B4Er: B 0.8; B12Er: B 0.923 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 7 |  |
-| 2343.15 | Congruent: L ↔ B66Er | B66Er: B 0.985 | model | [1] Wang 2012 | Table 4, p. 5, row 12 |  |
-| 2343.15 | Congruent: L ↔ B66Er | B66Er: B 0.985 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 11 |  |
-| 2325.15 | Eutectic: L ↔ B12Er + B66Er | L: B 0.96; B12Er: B 0.923; B66Er: B 0.985 | model | [1] Wang 2012 | Table 4, p. 5, row 10 |  |
-| 2288.15 | Eutectic: L ↔ B12Er + B66Er | L: B 0.97; B12Er: B 0.923; B66Er: B 0.985 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 9 |  |
-| 1773.15 | Eutectic: L ↔ (Er) + B2Er | L: B 0.01; (Er): B 0; B2Er: B 0.667 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 1 |  |
-| 1770.15 | Eutectic: L ↔ (Er) + B2Er | L: B 0.029; (Er): B 0; B2Er: B 0.667 | model | [1] Wang 2012 | Table 4, p. 5, row 2 |  |
+| 2633.15 | congruent melting: L ↔ B4Er | B4Er: B 0.8 | model | [1] Wang 2012 | Table 4, p. 5, row 6 |  |
+| 2633.15 | congruent melting: L ↔ B4Er | B4Er: B 0.8 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 5 |  |
+| 2458.15 | peritectic: L +B4Er ↔ B2Er | L: B 0.65; B4Er: B 0.8; B2Er: B 0.667 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 3 |  |
+| 2457.15 | peritectic: L +B4Er ↔ B2Er | L: B 0.643; B4Er: B 0.8; B2Er: B 0.667 | model | [1] Wang 2012 | Table 4, p. 5, row 4 |  |
+| 2356.15 | peritectic: L + B4Er ↔ B12Er | L: B 0.925; B4Er: B 0.8; B12Er: B 0.923 | model | [1] Wang 2012 | Table 4, p. 5, row 8 |  |
+| 2356.15 | peritectic: L + B4Er ↔ B12Er | L: B 0.93; B4Er: B 0.8; B12Er: B 0.923 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 7 |  |
+| 2343.15 | congruent melting: L ↔ B66Er | B66Er: B 0.985 | model | [1] Wang 2012 | Table 4, p. 5, row 12 |  |
+| 2343.15 | congruent melting: L ↔ B66Er | B66Er: B 0.985 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 11 |  |
+| 2325.15 | eutectic: L ↔ B12Er + B66Er | L: B 0.96; B12Er: B 0.923; B66Er: B 0.985 | model | [1] Wang 2012 | Table 4, p. 5, row 10 |  |
+| 2288.15 | eutectic: L ↔ B12Er + B66Er | L: B 0.97; B12Er: B 0.923; B66Er: B 0.985 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 9 |  |
+| 1773.15 | eutectic: L ↔ (Er) + B2Er | L: B 0.01; (Er): B 0; B2Er: B 0.667 | experimental | [1] Wang 2012; _cites Liao 1996_ [doi](https://doi.org/10.1007/bf02665558) | Table 4, p. 5, row 1 |  |
+| 1770.15 | eutectic: L ↔ (Er) + B2Er | L: B 0.029; (Er): B 0; B2Er: B 0.667 | model | [1] Wang 2012 | Table 4, p. 5, row 2 |  |
 
 ## Sources
 

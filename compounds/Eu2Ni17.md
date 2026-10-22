@@ -1,25 +1,22 @@
 # Eu2Ni17: enthalpy of formation
 
-> Enthalpy of formation of Eu2Ni17: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Eu2Ni17: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Eu2Ni17.html · Markdown: https://data.orchid-project.org/compounds/Eu2Ni17.md
 
-7 accepted literature formation-enthalpy value(s) (experimental 4, model 3); Materials Project -6.408 kJ/mol-atom (mp-aaacqixi); OQMD -12.136 kJ/mol-atom (oqmd-30108).
+4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); Materials Project -6.408 kJ/mol-atom (mp-aaacqixi); OQMD -12.136 kJ/mol-atom (oqmd-30108).
 
 Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Eu2Ni17 reported in the literature (7)
+Table: Enthalpy of formation of Eu2Ni17 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -48 kJ/mol (basis unstated) ± 4 | Ni17Eu2 | 298.15 | experimental | Effusion and EMF | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3 |  |
-| -48 kJ/mol (basis unstated) ± 4 | Ni17Eu2 | 298.15 | experimental | Effusion and EMF | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3 |  |
-| -9.9 kJ/mol (basis unstated) | Ni17Eu2 | 298.15 | experimental | Calorimetry | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2 |  |
 | -9.9 kJ/mol (basis unstated) | Ni17Eu2 | 298.15 | experimental | Calorimetry | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2 |  |
 | -9 kJ/mol-atom | Ni17Eu2 | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 3 |  |
-| -9 kJ/mol (basis unstated) | Ni17Eu2 |  | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 7, p. 13, row 1 |  |
 | -9 kJ/mol (basis unstated) | Ni17Eu2 |  | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 7, p. 13, row 1 |  |
 
 ## DFT formation energies

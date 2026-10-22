@@ -1,10 +1,10 @@
 # Fe–Nb–Ni system
 
-> Fe–Nb–Ni system: 78 accepted literature values (formation 75, invariant reaction 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Nb–Ni system: 75 accepted literature values (formation 72, invariant reaction 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NB-NI.html · Markdown: https://data.orchid-project.org/systems/FE-NB-NI.md
 
-78 accepted literature values from 1 paper(s) (experimental 1, model 37, unspecified 40); 0 calculated phase diagram(s).
+75 accepted literature values from 1 paper(s) (experimental 1, model 37, unspecified 37); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NB-NI.json) · [CSV](https://data.orchid-project.org/systems/FE-NB-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NB-NI) · [Markdown](https://data.orchid-project.org/systems/FE-NB-NI.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 1 |
 | model | 37 |
-| unspecified | 40 |
+| unspecified | 37 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
-| formation | 75 |
+| formation | 72 |
 
 ## Invariant reactions (literature)
 
@@ -37,7 +37,7 @@ Table: Invariant reactions reported in the literature for the Fe–Nb–Ni syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Nb–Ni system (75)
+Table: Enthalpies of formation, Fe–Nb–Ni system (72)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -51,7 +51,6 @@ Table: Enthalpies of formation, Fe–Nb–Ni system (75)
 | D0_22 |  | -9.296 kJ/mol (basis unstated) | 0 | model |  |  | [1] Mathon 2009 | Table 2, p. 10, row 17 |  |
 | D0_22 |  | -6.396 kJ/mol (basis unstated) | 0 | model |  |  | [1] Mathon 2009 | Table 2, p. 10, row 16 |  |
 | D0_22 |  | -0.834 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 13 |  |
-| D0_22 |  | 0.279 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 14 |  |
 | D0_22 |  | 0.279 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 14 |  |
 | D0_22 |  | 2.736 kJ/mol (basis unstated) | 0 | model |  |  | [1] Mathon 2009 | Table 2, p. 10, row 16 |  |
 | D0_22 |  | 5.84 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 21 |  |
@@ -103,7 +102,6 @@ Table: Enthalpies of formation, Fe–Nb–Ni system (75)
 | D0_a |  | 48.975 kJ/mol (basis unstated) | 0 | model |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8 |  |
 | D0_a |  | 64.66 kJ/mol (basis unstated) | 0 | model |  |  | [1] Mathon 2009 | Table 2, p. 10, row 8 |  |
 | D0_a |  | 74.948 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 5 |  |
-| D0_a |  | 74.948 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 5 |  |
 | D0_a |  | 136.746 kJ/mol (basis unstated) | 0 | model |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11 |  |
 | D0_a |  | 166.326 kJ/mol (basis unstated) | 0 | model |  |  | [1] Mathon 2009 | Table 2, p. 10, row 11 |  |
 | D0_a |  | 181.202 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 12 |  |
@@ -114,7 +112,6 @@ Table: Enthalpies of formation, Fe–Nb–Ni system (75)
 | D8_5 |  | -239.598 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 2 |  |
 | D8_5 |  | -175.676 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 2 |  |
 | D8_5 |  | 65 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 1 |  |
-| D8_5 |  | 209.344 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 1 |  |
 | D8_5 |  | 209.344 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Mathon 2009 | Table 2, p. 10, row 1 |  |
 
 ## Sources

@@ -62,24 +62,24 @@ Table: Invariant reactions reported in the literature for the Ho–Te system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1643 | Congruent: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 4 |  |
-| 1642 | Congruent: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 5 |  |
-| 1383.12 | Eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.2261; (Ho): Te 0; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 3 |  |
+| 1643 | congruent melting: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 4 |  |
+| 1642 | congruent melting: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 5 |  |
+| 1383.12 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.2261; (Ho): Te 0; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 3 |  |
 | 1383 | eutectic |  | experimental | [1] Ghamri 2013 | p. 1 | “There are an eutectic reaction: L (23 at.% Te) M (Ho) + (HoTe), occurring at about 1383 K and a peritectic reaction : L + HoTe3 M (Te), occurring at about 728 K.” |
-| 1383 | Eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.485 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 1 |  |
-| 1383 | Eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Massalski 1990_ | Table 4, p. 4, row 2 |  |
+| 1383 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.485 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 1 |  |
+| 1383 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Massalski 1990_ | Table 4, p. 4, row 2 |  |
 | 1383 | eutectic |  | model | [1] Ghamri 2013 | p. 4 | “The calculated eutectic temperatures in this system, L M (Ho) + (HoTe) and L M (Te) + HoTe3 are 1383 K and 722.66 °K, which agree well with the results taken from \[5\].” |
-| 1073.1 | Peritectic: Liq + (HoTe) \<-> Ho2Te5 | Liq: Te 0.9313; (HoTe): Te 0.547; Ho2Te5: Te 0.714 | model | [1] Ghamri 2013 | Table 4, p. 4, row 7 |  |
-| 1073 | Peritectic: Liq + (HoTe) \<-> Ho2Te5 | (HoTe): Te 0.547; Ho2Te5: Te 0.714 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 6 |  |
+| 1073.1 | peritectic: Liq + (HoTe) \<-> Ho2Te5 | Liq: Te 0.9313; (HoTe): Te 0.547; Ho2Te5: Te 0.714 | model | [1] Ghamri 2013 | Table 4, p. 4, row 7 |  |
+| 1073 | peritectic: Liq + (HoTe) \<-> Ho2Te5 | (HoTe): Te 0.547; Ho2Te5: Te 0.714 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 6 |  |
 | 1073 | peritectic |  | model | [1] Ghamri 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
 | 1073 | peritectic |  | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | p. 1 | “Whereas the Ho2Te5 and HoTe3 phases form as stoichiometric compounds as a product of peritectic reactions at about 1073, and 1053 K, respectively.” |
-| 1053.2 | Peritectic: Liq + Ho2Te5 \<-> HoTe3 | Liq: Te 0.9412; Ho2Te5: Te 0.714; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 9 |  |
+| 1053.2 | peritectic: Liq + Ho2Te5 \<-> HoTe3 | Liq: Te 0.9412; Ho2Te5: Te 0.714; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 9 |  |
 | 1053 | peritectic |  | model | [1] Ghamri 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
-| 1053 | Peritectic: Liq + Ho2Te5 \<-> HoTe3 | Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 8 |  |
+| 1053 | peritectic: Liq + Ho2Te5 \<-> HoTe3 | Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 8 |  |
 | 1053 | peritectic |  | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | p. 1 | “Whereas the Ho2Te5 and HoTe3 phases form as stoichiometric compounds as a product of peritectic reactions at about 1073, and 1053 K, respectively.” |
-| 728 | Peritectic: Liq \<-> (Te) + HoTe3 | HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 10 |  |
+| 728 | peritectic: Liq \<-> (Te) + HoTe3 | HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 10 |  |
 | 728 | peritectic |  | experimental | [1] Ghamri 2013 | p. 1 | “There are an eutectic reaction: L (23 at.% Te) M (Ho) + (HoTe), occurring at about 1383 K and a peritectic reaction : L + HoTe3 M (Te), occurring at about 728 K.” |
-| 722.66 | Eutectic: Liq \<-> (Te) + HoTe3 | Liq: Te 0.999; (Te): Te 1; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 11 |  |
+| 722.66 | eutectic: Liq \<-> (Te) + HoTe3 | Liq: Te 0.999; (Te): Te 1; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 11 |  |
 
 ## Formation enthalpies
 
@@ -105,7 +105,7 @@ Table: Phase transition, Ho–Te system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1622.12 K | 1622.12 |  | model | [1] Ghamri 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
-| Phase transition | 1643 K | 1643 (none) | congruent | experimental | [2] Cui 2023; _cites Yarembash 1974_ | p. 3 | “HoTe has a homogeneity range and melts congruently at about 1643 K.” |
+| Phase transition | 1643 K | 1643 | congruent transformation | experimental | [2] Cui 2023; _cites Yarembash 1974_ | p. 3 | “HoTe has a homogeneity range and melts congruently at about 1643 K.” |
 | Phase transition | 1698 K | 1698 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1 | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |
 | Phase transition | 1698.15 K | 1698.15 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 4 | “The allotropic transformation of Ho given at 1425 °C by Spedding et al. \[10\] was not taken into consideration in the present assessment, because pure Ho has an Mg-type hcp structure up to the melting point \[5,9\].” |
 | Phase transition | 1747 K | 1747 |  | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1 | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |

@@ -1,34 +1,27 @@
 # Cu10Hf7: enthalpy of formation
 
-> Enthalpy of formation of Cu10Hf7: 17 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Cu10Hf7: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cu10Hf7.html · Markdown: https://data.orchid-project.org/compounds/Cu10Hf7.md
 
-17 accepted literature formation-enthalpy value(s) (experimental 3, model 7, DFT 6, unspecified 1); experimental median -12.64 kJ/mol-atom (n = 2); Materials Project -17.211 kJ/mol-atom (mp-aaacqipw); OQMD -16.705 kJ/mol-atom (oqmd-2052356).
+10 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 3, unspecified 1); experimental median -12.64 kJ/mol-atom (n = 1); Materials Project -17.211 kJ/mol-atom (mp-aaacqipw); OQMD -16.705 kJ/mol-atom (oqmd-2052356).
 
 Systems: [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cu10Hf7 reported in the literature (17)
+Table: Enthalpy of formation of Cu10Hf7 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -12.64 kJ/mol (basis unstated) ± 0.49 | Cu10Hf7 | 298 | experimental |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 9 |  |
 | -12.64 kJ/mol-atom | Cu10Hf7 | 298.15 | experimental |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 2, p. 7, row 14 |  |
-| -12.64 kJ/mol-atom | Cu10Hf7 | 298.15 | experimental |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 2, p. 7, row 14 |  |
 | -16 kJ/mol-atom | Cu10Hf7 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 17 |  |
-| -16 kJ/mol-atom | Cu10Hf7 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 17 |  |
-| -15.5 kJ/mol-atom | Cu10Hf7 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 16 |  |
 | -15.5 kJ/mol-atom | Cu10Hf7 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 16 |  |
 | -15.499 kJ/mol (basis unstated) | Cu10Hf7 | 298 | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Turchanin 2008 | Table 2, p. 6, row 11 |  |
 | -4.15 kJ/mol-atom | Cu10Hf7 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 15 |  |
-| -4.15 kJ/mol-atom | Cu10Hf7 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 15 |  |
-| -19.2 kJ/mol-atom | Cu10Hf7 |  | DFT | USPP-GGA F-P | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 18 |  |
 | -19.2 kJ/mol-atom | Cu10Hf7 |  | DFT | USPP-GGA F-P | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 18 |  |
 | -18.73 kJ/mol-atom | Cu10Hf7 | 0 | DFT | USPP-GGA | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013 | Table 2, p. 7, row 19 |  |
-| -18.73 kJ/mol-atom | Cu10Hf7 | 0 | DFT | USPP-GGA | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013 | Table 2, p. 7, row 19 |  |
-| -16.42 kJ/mol-atom | Cu10Hf7 | 0 | DFT | PBE | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013 | Table 2, p. 7, row 20 |  |
 | -16.42 kJ/mol-atom | Cu10Hf7 | 0 | DFT | PBE | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Zhong 2013 | Table 2, p. 7, row 20 |  |
 | -4.15 kJ/mol (basis unstated) | Cu10Hf7 | 298 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 10 |  |
 

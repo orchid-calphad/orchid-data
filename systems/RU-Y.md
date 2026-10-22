@@ -124,8 +124,8 @@ Table: Phase transition, Ru–Y system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1473 K | 1473 | Liq $ Ru25Y44 ? Ru2Y5 | model | [1] Amar 2011; _cites Massalski 1990_ | p. 4 | “They are in reasonable agreement except for the temperature (1539 K) of Liq $ Ru25Y44 ? Ru2Y5 invariant for which our result is different from the one estimated (1473 K) by Massalski \[6\].” |
 | Phase transition | 1539 K | 1539 | Liq $ Ru25Y44 ? Ru2Y5 | model | [1] Amar 2011 | p. 4 | “They are in reasonable agreement except for the temperature (1539 K) of Liq $ Ru25Y44 ? Ru2Y5 invariant for which our result is different from the one estimated (1473 K) by Massalski \[6\].” |
-| Phase transition | 1593 K | 1593 | congruent | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
-| Phase transition | 2223 K | 2223 | congruent | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
+| Phase transition | 1593 K | 1593 | congruent transformation | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
+| Phase transition | 2223 K | 2223 | congruent transformation | model | [1] Amar 2011; _cites Massalski 1990_ | p. 1 | “For the Ru2Y and Ru2Y5 compounds, a congruent melting was estimated, respectively, at 2223 and 1593 K, while for the Ru2Y3, Ru25Y44, and RuY3 compounds, a peritectic formation was reported, respectively, at 1623, 1568, and 1523 K.” |
 
 ## Sources
 

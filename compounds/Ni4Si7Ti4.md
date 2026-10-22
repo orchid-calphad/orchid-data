@@ -1,20 +1,19 @@
 # Ni4Si7Ti4: enthalpy of formation
 
-> Enthalpy of formation of Ni4Si7Ti4: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ni4Si7Ti4: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ni4Si7Ti4.html · Markdown: https://data.orchid-project.org/compounds/Ni4Si7Ti4.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ni4Si7Ti4 reported in the literature (2)
+Table: Enthalpy of formation of Ni4Si7Ti4 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -68.45 kJ/mol-atom | V-Ni4Si7Ti4 | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 17 |  |
 | -68.45 kJ/mol-atom | V-Ni4Si7Ti4 | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 17 |  |
 
 ## Sources

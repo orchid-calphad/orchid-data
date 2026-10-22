@@ -68,16 +68,16 @@ Table: Invariant reactions reported in the literature for the Mo–U system (12)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1575 | Liquid + (Mo) -> (γ-U) | L: U 0.722; (Mo): U 0.009; (γ-U): U 0.563 | model | [1] Berche 2011 | Table 3, p. 6, row 1 |  |
-| 1557 | Peritectic: L + Mo -> BCC_A2 | L: U 0.713; Mo: U 0.009; BCC_A2: U 0.582 | model | [2] Zhang 2010 | Table 3, p. 6, row 2 |  |
-| 1557 | Peritectic: L + Mo -> BCC_A2 | L: U 0.7; Mo: U 0.61 | experimental | [2] Zhang 2010; _cites Ackermann 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 3, p. 6, row 1 |  |
+| 1557 | peritectic: L + Mo -> BCC_A2 | L: U 0.713; Mo: U 0.009; BCC_A2: U 0.582 | model | [2] Zhang 2010 | Table 3, p. 6, row 2 |  |
+| 1557 | peritectic: L + Mo -> BCC_A2 | L: U 0.7; Mo: U 0.61 | experimental | [2] Zhang 2010; _cites Ackermann 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 3, p. 6, row 1 |  |
 | 916 | (β-U) -> (α-U) + (γ-U) | (β-U): U 0.987; (α-U): U 0.999; (γ-U): U 0.872 | model | [1] Berche 2011 | Table 3, p. 6, row 2 |  |
-| 913 | Eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.969; BCC_A2: U 0.979; ort_A20: U 0.874 | model | [2] Zhang 2010 | Table 3, p. 6, row 8 |  |
-| 912 | Eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.895 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 7 |  |
-| 854 | Eutectoid: BCC_A2 -> Mo + MoU2 | BCC_A2: U 0.581; Mo: U 0.001; MoU2: U 0.667 | model | [2] Zhang 2010 | Table 3, p. 6, row 4 |  |
-| 853 | Eutectoid: BCC_A2 -> Mo + MoU2 | MoU2: U 0.667 | experimental | [2] Zhang 2010; _cites Massalski 1990_ | Table 3, p. 6, row 3 |  |
+| 913 | eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.969; BCC_A2: U 0.979; ort_A20: U 0.874 | model | [2] Zhang 2010 | Table 3, p. 6, row 8 |  |
+| 912 | eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.895 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 7 |  |
+| 854 | eutectoid: BCC_A2 -> Mo + MoU2 | BCC_A2: U 0.581; Mo: U 0.001; MoU2: U 0.667 | model | [2] Zhang 2010 | Table 3, p. 6, row 4 |  |
+| 853 | eutectoid: BCC_A2 -> Mo + MoU2 | MoU2: U 0.667 | experimental | [2] Zhang 2010; _cites Massalski 1990_ | Table 3, p. 6, row 3 |  |
 | 842 | (Mo) + (γ-U) -> MoU2 | (Mo): U 0; (γ-U): U 0.689; MoU2: U 0.667 | model | [1] Berche 2011 | Table 3, p. 6, row 3 |  |
-| 838 | Eutectoid: BCC_A2 -> MoU2 + ort_A20 | BCC_A2: U 0.775; MoU2: U 0.666667 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 5 |  |
-| 829 | Eutectoid: BCC_A2 -> MoU2 + ort_A20 | BCC_A2: U 0.789; MoU2: U 0.667; ort_A20: U 0.961 | model | [2] Zhang 2010 | Table 3, p. 6, row 6 |  |
+| 838 | eutectoid: BCC_A2 -> MoU2 + ort_A20 | BCC_A2: U 0.775; MoU2: U 0.666667 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 5 |  |
+| 829 | eutectoid: BCC_A2 -> MoU2 + ort_A20 | BCC_A2: U 0.789; MoU2: U 0.667; ort_A20: U 0.961 | model | [2] Zhang 2010 | Table 3, p. 6, row 6 |  |
 | 828 | (γ-U) -> (α-U) + MoU2 | (γ-U): U 0.763; (α-U): U 0.999; MoU2: U 0.667 | model | [1] Berche 2011 | Table 3, p. 6, row 4 |  |
 
 ## Other properties
@@ -88,8 +88,8 @@ Table: Phase transition, Mo–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 875 K | 875 | Congruent transformation: MoU2 -> BCC_A2; _MoU2: U 0.667_ | unspecified | [2] Zhang 2010; _cites Brewer 1980_ | Table 3, p. 6, row 9 |  |
-| Phase transition | 875 K | 875 | Congruent transformation: MoU2 -> BCC_A2; _MoU2: U 0.667_ | model | [2] Zhang 2010 | Table 3, p. 6, row 10 |  |
+| Phase transition | 875 K | 875 | congruent transformation: MoU2 -> BCC_A2; _MoU2: U 0.667_ | unspecified | [2] Zhang 2010; _cites Brewer 1980_ | Table 3, p. 6, row 9 |  |
+| Phase transition | 875 K | 875 | congruent transformation: MoU2 -> BCC_A2; _MoU2: U 0.667_ | model | [2] Zhang 2010 | Table 3, p. 6, row 10 |  |
 
 ## Sources
 

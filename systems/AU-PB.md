@@ -113,8 +113,8 @@ Table: Phase transition, Au–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 372 K | 372 | decomposition: AuPb3 = AuPb2 + fcc(Pb) | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | p. 2 | “phase AuPb3 could be stable above 372 K and decompose to AuPb2 and fcc (Pb) below this temperature.” |
-| Phase transition | 380 K | 380 | decomposition | model | [1] Wang 2004 | p. 3 | “In the present work, the decomposition temperature of the phase AuPb3 is calculated to be 380 K and the phase AuPb2 is stable up to 495 K.” |
+| Phase transition | 372 K | 372 | other: AuPb3 = AuPb2 + fcc(Pb) | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | p. 2 | “phase AuPb3 could be stable above 372 K and decompose to AuPb2 and fcc (Pb) below this temperature.” |
+| Phase transition | 380 K | 380 | other | model | [1] Wang 2004 | p. 3 | “In the present work, the decomposition temperature of the phase AuPb3 is calculated to be 380 K and the phase AuPb2 is stable up to 495 K.” |
 
 ## Sources
 

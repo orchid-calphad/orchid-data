@@ -55,13 +55,13 @@ Table: Phase transition, O–Sr system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 488 K | 488 | other | experimental | [1] Risold 1996; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | p. 2 | “In many thermodynamic tables the decomposition temperature of SrOz is given at 488 K in 1 atm 0s with reference to Brewer \[53Bre\] who does not give a reference for this datum, but it seems most probable that it originates from Blumenthal.” |
-| Phase transition | 2703 K | 2703 | melting: \[26Sch\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites ref. 26Sch_ | Table 1, p. 4, row 1 |  |
-| Phase transition | 2805 K | 2805 | melting: \[85Irg\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Properties 1985_ | Table 1, p. 4, row 2 |  |
-| Phase transition | 2805 K | 2805 | melting: \[94SGT\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites ref. 94_ | Table 1, p. 4, row 6 |  |
-| Phase transition | 2870 K | 2870 | melting: This work; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996 | Table 1, p. 4, row 7 |  |
-| Phase transition | 2872 K | 2872 | melting: \[69Nog\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Noguchi 1969_ | Table 1, p. 4, row 3 |  |
-| Phase transition | 2938 K | 2938 | melting: \[65Foe\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Foex 1965_ [doi](https://doi.org/10.1016/0038-092x%2865%2990162-3) | Table 1, p. 4, row 4 |  |
-| Phase transition | 2938 K | 2938 | melting: \[85Cha\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites Chase 1985_ | Table 1, p. 4, row 5 |  |
+| Phase transition | 2703 K | 2703 | congruent melting: \[26Sch\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites ref. 26Sch_ | Table 1, p. 4, row 1 |  |
+| Phase transition | 2805 K | 2805 | congruent melting: \[85Irg\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Properties 1985_ | Table 1, p. 4, row 2 |  |
+| Phase transition | 2805 K | 2805 | congruent melting: \[94SGT\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites ref. 94_ | Table 1, p. 4, row 6 |  |
+| Phase transition | 2870 K | 2870 | congruent melting: This work; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996 | Table 1, p. 4, row 7 |  |
+| Phase transition | 2872 K | 2872 | congruent melting: \[69Nog\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Noguchi 1969_ | Table 1, p. 4, row 3 |  |
+| Phase transition | 2938 K | 2938 | congruent melting: \[65Foe\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Foex 1965_ [doi](https://doi.org/10.1016/0038-092x%2865%2990162-3) | Table 1, p. 4, row 4 |  |
+| Phase transition | 2938 K | 2938 | congruent melting: \[85Cha\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites Chase 1985_ | Table 1, p. 4, row 5 |  |
 
 ### Heat capacity / entropy / enthalpy (6)
 

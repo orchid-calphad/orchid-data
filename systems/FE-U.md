@@ -1,10 +1,10 @@
 # Fe–U system
 
-> Fe–U system: 107 accepted literature values (formation 54, invariant reaction 34, crystal structure 12, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–U system: 104 accepted literature values (formation 51, invariant reaction 34, crystal structure 12, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-U.html · Markdown: https://data.orchid-project.org/systems/FE-U.md
 
-107 accepted literature values from 2 paper(s) (experimental 42, model 51, unspecified 14); 4 calculated phase diagram(s).
+104 accepted literature values from 2 paper(s) (experimental 39, model 51, unspecified 14); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-U.json) · [CSV](https://data.orchid-project.org/systems/FE-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-U/FeU-03Cha.json) · [Markdown](https://data.orchid-project.org/systems/FE-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 42 |
+| experimental | 39 |
 | model | 51 |
 | unspecified | 14 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 34 |
 | phase transition | 5 |
-| formation | 54 |
+| formation | 51 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 12 |
 
@@ -102,11 +102,11 @@ Table: Invariant reactions reported in the literature for the Fe–U system (34)
 |---:|---|---|---|---|---|---|
 | 1673 | L + bcc - Fe \<-> fcc - Fe |  | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 1 |  |
 | 1667 | L + bcc - Fe \<-> fcc - Fe |  | model | [1] Chatain 2003 | Table 6, p. 8, row 2 |  |
-| 1509 | melting point: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 13 |  |
-| 1508 | melting point: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 9 |  |
-| 1507 | melting point: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Labroche 2000_ | Table 6, p. 8, row 10 |  |
-| 1503 | melting point: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 11 |  |
-| 1501 | melting point: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 12 |  |
+| 1509 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 13 |  |
+| 1508 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 9 |  |
+| 1507 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Labroche 2000_ | Table 6, p. 8, row 10 |  |
+| 1503 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 11 |  |
+| 1501 | congruent melting: L \<-> Fe2U | L: Fe 0.666667, U 0.333333; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 12 |  |
 | 1353 | eutectic: L \<-> fcc - Fe + Fe2U | L: U 0.17; Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 3 |  |
 | 1351 | eutectic: L \<-> fcc - Fe + Fe2U | L: U 0.1745; Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 4 |  |
 | 1328 | eutectic |  | model | [1] Chatain 2003; _cites Massalski 1990_ | p. 2 | “Massalski showed the eutectic at 1328 K \[1990Mas\].” |
@@ -114,12 +114,12 @@ Table: Invariant reactions reported in the literature for the Fe–U system (34)
 | 1185 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | model | [1] Chatain 2003 | Table 6, p. 8, row 8 |  |
 | 1183 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | Table 6, p. 8, row 6 |  |
 | 1182 | fcc - Fe + Fe2U \<-> bcc - Fe | Fe2U: Fe 0.666667, U 0.333333 | experimental | [1] Chatain 2003; _cites Michaud 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.4.355) | Table 6, p. 8, row 5 |  |
-| 1104 | peritectic decomposition: L + bcc - U \<-> FeU6 | L: U 0.8494; FeU6: Fe 0.142857, U 0.857143; bcc-U: U 0.9865 | model | [1] Chatain 2003 | Table 6, p. 8, row 20 |  |
+| 1104 | peritectic: L + bcc - U \<-> FeU6 | L: U 0.8494; FeU6: Fe 0.142857, U 0.857143; bcc-U: U 0.9865 | model | [1] Chatain 2003 | Table 6, p. 8, row 20 |  |
 | 1104 | peritectic |  | model | [1] Chatain 2003 | p. 7 | “The calculated peritectic transformation temperature is equal to 1104 K for a liquid uranium content of 84.94 at.%.” |
 | 1102 | peritectic |  | experimental | [1] Chatain 2003 | p. 7 | “So, Labroche's peritectic temperature of 1102 K was selected.” |
-| 1102 | peritectic decomposition: L + bcc - U \<-> FeU6 | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Labroche 2000_ | Table 6, p. 8, row 19 |  |
+| 1102 | peritectic: L + bcc - U \<-> FeU6 | FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Labroche 2000_ | Table 6, p. 8, row 19 |  |
 | 1102 | peritectic |  | experimental | [1] Chatain 2003 | p. 7 | “Labroche's FeU6 peritectic temperature of 1102 K was measured by calorimetry during slow heating with the same apparatus that was used for Fe2U.” |
-| 1078 | peritectic decomposition: L + bcc - U \<-> FeU6 | L: U 0.85; bcc - U: U 0.985; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 18 |  |
+| 1078 | peritectic: L + bcc - U \<-> FeU6 | L: U 0.85; bcc - U: U 0.985; FeU6: Fe 0.142857, U 0.857143 | experimental | [1] Chatain 2003; _cites Grogan 1950_ | Table 6, p. 8, row 18 |  |
 | 1078 | peritectic: FeU6 ↔ liquid + bcc-U |  | experimental | [1] Chatain 2003; _cites Grogan 1950_ | p. 2 | “On the uranium-rich side, the peritectic reaction \[FeU6 ↔ liquid + bcc-U\] takes place at 1078 K \[1950Gro, 1964Stra\] with a liquid iron content of about 18 at.% \[1950Gro\].” |
 | 1039 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143; tetragonal-U: U 0.9954 | model | [1] Chatain 2003 | Table 6, p. 8, row 24 |  |
 | 1036 | bcc - U \<-> tetragonal - U + FeU6 | FeU6: Fe 0.142857, U 0.857143; bcc-U: U 0.992 | experimental | [1] Chatain 2003; _cites Straatmann 1964_ | Table 6, p. 8, row 21 |  |
@@ -139,7 +139,7 @@ Table: Invariant reactions reported in the literature for the Fe–U system (34)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–U system (42)
+Table: Enthalpies of formation, Fe–U system (39)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -169,14 +169,11 @@ Table: Enthalpies of formation, Fe–U system (42)
 | Fe2U |  | -20.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Campbell 1977_ [doi](https://doi.org/10.1007/bf02642864) | Table 7, p. 8, row 8 |  |
 | Fe2U |  | -16.922 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 11 |  |
 | Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -16.3 kJ/mol-atom ± 0.6 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Labroche 2000_ | Table 3, p. 3, row 3 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -16.3 kJ/mol-atom ± 0.6 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Labroche 2000_ | Table 3, p. 3, row 3 |  |
 | Fe2U |  | -16.3 kJ/mol (basis unstated) ± 0.6 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 5 |  |
 | Fe2U |  | -15.886 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 6 |  |
 | Fe2U |  | -15.025 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 7, p. 8, row 12 |  |
 | Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -14.01 kJ/mol-atom ± 1.8 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 3, p. 3, row 2 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -14.01 kJ/mol-atom ± 1.8 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 3, p. 3, row 2 |  |
 | Fe2U |  | -14.01 kJ/mol (basis unstated) ± 1.8 | 298.15 | model |  |  | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 7, p. 8, row 7 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -10.74 kJ/mol-atom ± 0.42 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 3, p. 3, row 1 |  |
 | Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -10.74 kJ/mol-atom ± 0.42 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 3, p. 3, row 1 |  |
 | Fe2U |  | -10.739 kJ/mol (basis unstated) ± 0.42 | 298.15 | model |  |  | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 7, p. 8, row 9 |  |
 | FeU6 |  | -26.438 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19 |  |
@@ -197,8 +194,8 @@ Table: Phase transition, Fe–U system
 | Phase transition | 940 K | 940 | tetragonal-U ↔ orthorhombic-U + FeU6 | experimental | [1] Chatain 2003; _cites Straatmann 1964_ | p. 2 | “A eutectoid reaction \[tetragonal-U ↔ orthorhombic-U + FeU6\] takes place at 940 K with a tetragonal composition of 99.825 at.% U \[1964Str\].” |
 | Phase transition | 1072 K | 1072 |  | experimental | [1] Chatain 2003; _cites Chapman 1984_ [doi](https://doi.org/10.1016/0022-3115%2884%2990046-1) | p. 2 | “This was confirmed by Chapman who found it at 1072 K \[1984Cha\].” |
 | Phase transition | 1088 K | 1088 |  | experimental | [1] Chatain 2003; _cites Gordon 1950_ | p. 2 | “The value reported by Gordon and Kaufmann \[1950Gor\] is slightly higher with 1088 K.” |
-| Phase transition | 1300 K | 1300 (none) | other | experimental | [1] Chatain 2003 | p. 3 | “For Fe2U, a ␭-type heat capacity anomaly occurs around 1300 K.” |
-| Phase transition | 1509 K | 1509 | congruent | model | [1] Chatain 2003 | p. 7 | “The calculated congruent melting point of Fe2U is equal to 1509 K, which is consistent with the selected data and very close to Labroche's value.” |
+| Phase transition | 1300 K | 1300 | other | experimental | [1] Chatain 2003 | p. 3 | “For Fe2U, a ␭-type heat capacity anomaly occurs around 1300 K.” |
+| Phase transition | 1509 K | 1509 | congruent melting | model | [1] Chatain 2003 | p. 7 | “The calculated congruent melting point of Fe2U is equal to 1509 K, which is consistent with the selected data and very close to Labroche's value.” |
 
 ### Formation (12)
 

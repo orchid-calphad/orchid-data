@@ -58,10 +58,10 @@ Table: Phase transition, Dy–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1343 K | 1343 (none) | Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023; _cites Herle 1864_ | p. 3 | “Later, Herle and Corbett26 experimentally demonstrated the existence of Dy2Te and reported that Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K.” |
+| Phase transition | 1343 K | 1343 | Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023; _cites Herle 1864_ | p. 3 | “Later, Herle and Corbett26 experimentally demonstrated the existence of Dy2Te and reported that Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K.” |
 | Phase transition | 1343 K | 1343 | other: Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023 | p. 8 | “According to the experimental data, Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K, which is also reflected by our calculated results.” |
-| Phase transition | 1846 K | 1846 (none) | congruent | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3 | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
-| Phase transition | 2123 K | 2123 (none) | congruent | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3 | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
+| Phase transition | 1846 K | 1846 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3 | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
+| Phase transition | 2123 K | 2123 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3 | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
 
 ## Sources
 

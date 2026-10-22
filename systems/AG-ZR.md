@@ -64,13 +64,13 @@ Table: Invariant reactions reported in the literature for the Ag–Zr system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1468 | Peritectic: L + bcc(Zr) -> AgZr2 | L: Zr 0.623 | model | [1] He 2006 | Table 2, p. 5, row 5 |  |
-| 1463 | Peritectic: L + bcc(Zr) -> AgZr2 | L: Zr 0.635 | unspecified | [1] He 2006; _cites Karakaya 1992_ [doi](https://doi.org/10.1007/bf02667477) | Table 2, p. 5, row 6 |  |
+| 1468 | peritectic: L + bcc(Zr) -> AgZr2 | L: Zr 0.623 | model | [1] He 2006 | Table 2, p. 5, row 5 |  |
+| 1463 | peritectic: L + bcc(Zr) -> AgZr2 | L: Zr 0.635 | unspecified | [1] He 2006; _cites Karakaya 1992_ [doi](https://doi.org/10.1007/bf02667477) | Table 2, p. 5, row 6 |  |
 | 1422 | eutectic: liquid -> Zr + AgZr2 |  | experimental | [1] He 2006; _cites Zhang 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990105-1) | p. 1 | “Zhang \[12\] found that liquid with 29.5 at.% Ag transforms into Zr and AgZr2 through an eutectic reaction at 1422 K.” |
-| 1214 | Eutectic: L -> fcc(Ag) + AgZr | L: Zr 0.056 | model | [1] He 2006 | Table 2, p. 5, row 1 |  |
-| 1213 | Eutectic: L -> fcc(Ag) + AgZr | L: Zr 0.025 | unspecified | [1] He 2006; _cites Karakaya 1992_ [doi](https://doi.org/10.1007/bf02667477) | Table 2, p. 5, row 2 |  |
-| 1093 | Eutectoid: bcc(Zr) -> AgZr2 + hcp(Zr) | bcc(Zr): Zr 0.961 | unspecified | [1] He 2006; _cites Karakaya 1992_ [doi](https://doi.org/10.1007/bf02667477) | Table 2, p. 5, row 8 |  |
-| 1090 | Eutectoid: bcc(Zr) -> AgZr2 + hcp(Zr) | bcc(Zr): Zr 0.947 | model | [1] He 2006 | Table 2, p. 5, row 7 |  |
+| 1214 | eutectic: L -> fcc(Ag) + AgZr | L: Zr 0.056 | model | [1] He 2006 | Table 2, p. 5, row 1 |  |
+| 1213 | eutectic: L -> fcc(Ag) + AgZr | L: Zr 0.025 | unspecified | [1] He 2006; _cites Karakaya 1992_ [doi](https://doi.org/10.1007/bf02667477) | Table 2, p. 5, row 2 |  |
+| 1093 | eutectoid: bcc(Zr) -> AgZr2 + hcp(Zr) | bcc(Zr): Zr 0.961 | unspecified | [1] He 2006; _cites Karakaya 1992_ [doi](https://doi.org/10.1007/bf02667477) | Table 2, p. 5, row 8 |  |
+| 1090 | eutectoid: bcc(Zr) -> AgZr2 + hcp(Zr) | bcc(Zr): Zr 0.947 | model | [1] He 2006 | Table 2, p. 5, row 7 |  |
 
 ## Other properties
 
@@ -80,8 +80,8 @@ Table: Phase transition, Ag–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1396 K | 1396 | Peritectic: L + AgZr -> AgZr; _L: Zr 0.488_ | model | [1] He 2006 | Table 2, p. 5, row 3 |  |
-| Phase transition | 1409 K | 1409 | Peritectic: L + AgZr -> AgZr; _L: Zr 0.465_ | unspecified | [1] He 2006; _cites Karakaya 1992_ [doi](https://doi.org/10.1007/bf02667477) | Table 2, p. 5, row 4 |  |
+| Phase transition | 1396 K | 1396 | peritectic: L + AgZr -> AgZr; _L: Zr 0.488_ | model | [1] He 2006 | Table 2, p. 5, row 3 |  |
+| Phase transition | 1409 K | 1409 | peritectic: L + AgZr -> AgZr; _L: Zr 0.465_ | unspecified | [1] He 2006; _cites Karakaya 1992_ [doi](https://doi.org/10.1007/bf02667477) | Table 2, p. 5, row 4 |  |
 
 ## Sources
 

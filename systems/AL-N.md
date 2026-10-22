@@ -1,10 +1,10 @@
 # Al–N system
 
-> Al–N system: 29 accepted literature values (phase equilibrium 16, phase transition 10, activity / EMF / Gibbs energy 2, invariant reaction 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–N system: 27 accepted literature values (phase equilibrium 14, phase transition 10, activity / EMF / Gibbs energy 2, invariant reaction 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-N.html · Markdown: https://data.orchid-project.org/systems/AL-N.md
 
-29 accepted literature values from 2 paper(s) (experimental 17, model 12); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 2 paper(s) (experimental 15, model 12); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-N.json) · [CSV](https://data.orchid-project.org/systems/AL-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-N/AlN-12Pav.json) · [Markdown](https://data.orchid-project.org/systems/AL-N.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
+| experimental | 15 |
 | model | 12 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 10 |
-| phase equilibrium | 16 |
+| phase equilibrium | 14 |
 | activity / EMF / Gibbs energy | 2 |
 
 ## Calculated phase diagrams
@@ -77,25 +77,23 @@ Table: Phase transition, Al–N system
 | Phase transition | 3073.15 K | 3073.15 |  | model | [1] Hillert 1992; _cites Class 1968_ | p. 1 | “The melting point has been determined to 2800 ~ - 50 ~ by Class ~6\]using a high-pressure technique.” |
 | Phase transition | 4220 K | 4220 | other | model | [1] Hillert 1992 | p. 5 | “It shows a liquid miscibility gap with a maximum at about 4220 K and the compositions XN = 0.0070 and xN = 0.4984 at the monotectic temperature of 3064.5 K.” |
 
-### Phase equilibrium (16)
+### Phase equilibrium (14)
 
 Table: Phase equilibrium, Al–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 660 ({'op': '>', 'value_K': 660.0}) | molten Al + liquid Al; _molten Al: Al 0.55, N 0.45; liquid Al: Al 0.55, N 0.45_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 9 |  |
+| Phase composition |  | 660 (>) | molten Al + liquid Al; _molten Al: Al 0.55, N 0.45; liquid Al: Al 0.55, N 0.45_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 9 |  |
 | Phase composition |  | 923.15 | molten Al + liquid Al; _molten Al: Al 1, N 0; liquid Al: Al 1, N 0_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 1 |  |
 | Phase composition |  | 963.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 5 |  |
 | Phase composition |  | 973.15 | molten Al + liquid Al; _molten Al: Al 0.73, N 0.27; liquid Al: Al 0.73, N 0.27_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 10 |  |
 | Phase composition |  | 1033.15 | molten Al + liquid Al; _molten Al: Al 0.68, N 0.32; liquid Al: Al 0.68, N 0.32_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 6 |  |
 | Phase composition |  | 1123.15 | molten Al + liquid Al; _molten Al: Al 0.61, N 0.39; liquid Al: Al 0.61, N 0.39_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 11 |  |
-| Phase composition |  | 1123.15 | molten Al + liquid Al; _molten Al: Al 0.61, N 0.39; liquid Al: Al 0.61, N 0.39_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 7 |  |
 | Phase composition |  | 1173.15 | molten Al + liquid Al; _molten Al: Al 0.56, N 0.44; liquid Al: Al 0.56, N 0.44_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 2 |  |
 | Phase composition |  | 1203.15 | molten Al + liquid Al; _molten Al: Al 0.53, N 0.47; liquid Al: Al 0.53, N 0.47_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 8 |  |
 | Phase composition |  | 1213.15 | molten Al + liquid Al; _molten Al: Al 0.52, N 0.48; liquid Al: Al 0.52, N 0.48_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 12 |  |
 | Phase composition |  | 1223.15 | molten Al + liquid Al; _molten Al: Al 0.51, N 0.49; liquid Al: Al 0.51, N 0.49_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 13 |  |
 | Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.3, N 0.7; liquid Al: Al 0.3, N 0.7_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 3 |  |
-| Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.3, N 0.7; liquid Al: Al 0.3, N 0.7_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 14 |  |
 | Phase composition |  | 1473.15 | molten Al + liquid Al; _molten Al: Al 0.998, N 0.002; liquid Al: Al 0.998, N 0.002_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 15 |  |
 | Phase composition |  | 1673.15 | molten Al + liquid Al; _molten Al: Al 0.12, N 0.88; liquid Al: Al 0.12, N 0.88_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 16 |  |
 | Phase composition |  | 1773.15 | molten Al + liquid Al; _molten Al: Al 0.04, N 0.96; liquid Al: Al 0.04, N 0.96_ | experimental | [2] Pavlyuchkov 2012 | Table 4, p. 8, row 4 |  |

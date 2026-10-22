@@ -1,10 +1,10 @@
 # Gd–O system
 
-> Gd–O system: 6 accepted literature values (crystal structure 5, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–O system: 5 accepted literature values (crystal structure 4, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-O.html · Markdown: https://data.orchid-project.org/systems/GD-O.md
 
-6 accepted literature values from 1 paper(s) (experimental 1, model 1, DFT 4); 2 calculated phase diagram(s).
+5 accepted literature values from 1 paper(s) (experimental 1, model 1, DFT 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-O.json) · [CSV](https://data.orchid-project.org/systems/GD-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-O/GdO-14McM.json) · [Markdown](https://data.orchid-project.org/systems/GD-O.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 1 |
 | model | 1 |
-| DFT | 4 |
+| DFT | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| crystal structure | 5 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -46,7 +46,7 @@ Table: Phase transition, Gd–O system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1823.15 K | 1823.15 | other | model | [1] McMurray 2014 | p. 2 | “High temperature X-ray diffraction measurements in the ULaO system suggest the d phase is stable at least up to 1550 °C exhibiting some degree of oxygen non-stoichiometry \[17\] but the limited extent and significant scatter in the reported data does not sufficiently describe a homogeneity range; therefore, it is assumed that UGd6O12 is a stoichiometric compound.” |
 
-### Crystal structure (5)
+### Crystal structure (4)
 
 Table: Crystal structure, Gd–O system
 
@@ -56,7 +56,6 @@ Table: Crystal structure, Gd–O system
 | Lattice a | 10.805 Å | 0 | Gd2O3; _alloy: O 0.6_ | DFT | [1] McMurray 2014 | Table 1, p. 4, row 1 |  |
 | Lattice a | 5.496 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [1] McMurray 2014 | Table 1, p. 4, row 3 |  |
 | Lattice a | 5.497 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [1] McMurray 2014 | Table 1, p. 4, row 4 |  |
-| Lattice a | 5.497 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [1] McMurray 2014 | Table 1, p. 4, row 5 |  |
 
 ## Sources
 

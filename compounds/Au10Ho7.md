@@ -1,20 +1,19 @@
 # Au10Ho7: enthalpy of formation
 
-> Enthalpy of formation of Au10Ho7: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Au10Ho7: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Au10Ho7.html · Markdown: https://data.orchid-project.org/compounds/Au10Ho7.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+1 accepted literature formation-enthalpy value(s) (model 1).
 
 Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Au10Ho7 reported in the literature (2)
+Table: Enthalpy of formation of Au10Ho7 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -83.7 kJ/mol-atom | Au10Ho7 | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 15 |  |
 | -83.7 kJ/mol-atom | Au10Ho7 | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 15 |  |
 
 ## Sources

@@ -72,8 +72,8 @@ Table: Phase transition, Ca–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1258.15 K | 1258.15 | congruent | experimental | [1] Qin 2015; _cites Niyazova 1976_ | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
-| Phase transition | 1393.15 K | 1393.15 | congruent | model | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
+| Phase transition | 1258.15 K | 1258.15 | congruent transformation | experimental | [1] Qin 2015; _cites Niyazova 1976_ | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
+| Phase transition | 1393.15 K | 1393.15 | congruent transformation | model | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
 
 ## Sources
 

@@ -29,14 +29,14 @@ Table: Invariant reactions reported in the literature for the Cu–Se–Te syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 812.45 | U: β-Cu2SeTe + Liquid -> β-Cu4Te3 + τ2 | Liquid: Cu 0.5733, Se 0.0984, Te 0.3283 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 1 |  |
-| 676.95 | U: β-Cu4Te3 + Liquid -> β-CuTe + τ2 | Liquid: Cu 0.3896, Se 0.0296, Te 0.5808 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 2 |  |
-| 676.05 | E: β-Cu2SeTe + Hexagonal_A8 + τ1 -> Liquid | Liquid: Cu 0.1511, Se 0.2281, Te 0.6208 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 4 |  |
-| 673.75 | E: β-Cu2SeTe + Hexagonal_A8 + τ2 -> Liquid | Liquid: Cu 0.3059, Se 0.1069, Te 0.5872 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 3 |  |
-| 658.55 | U: Liquid + β-Cu2SeTe -> τ1 + γ-CuSe | Liquid: Cu 2.000e-4, Se 0.9233, Te 0.0765 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 5 |  |
-| 619.85 | U: α-CuTe + β-CuTe -> Liquid + τ2 | Liquid: Cu 0.323, Se 0.0243, Te 0.6527 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 6 |  |
-| 619.85 | P: Hexagonal_A8 + β-CuTe -> Liquid + α-CuTe | Liquid: Cu 0.296, Se 0.0079, Te 0.6961 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 7 |  |
-| 615.15 | E: Hexagonal_A8 + τ2 + α-CuTe -> Liquid | Liquid: Cu 0.3172, Se 0.0242, Te 0.6586 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 8 |  |
+| 812.45 | quasi-peritectic: β-Cu2SeTe + Liquid -> β-Cu4Te3 + τ2 | Liquid: Cu 0.5733, Se 0.0984, Te 0.3283 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 1 |  |
+| 676.95 | quasi-peritectic: β-Cu4Te3 + Liquid -> β-CuTe + τ2 | Liquid: Cu 0.3896, Se 0.0296, Te 0.5808 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 2 |  |
+| 676.05 | eutectic: β-Cu2SeTe + Hexagonal_A8 + τ1 -> Liquid | Liquid: Cu 0.1511, Se 0.2281, Te 0.6208 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 4 |  |
+| 673.75 | eutectic: β-Cu2SeTe + Hexagonal_A8 + τ2 -> Liquid | Liquid: Cu 0.3059, Se 0.1069, Te 0.5872 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 3 |  |
+| 658.55 | quasi-peritectic: Liquid + β-Cu2SeTe -> τ1 + γ-CuSe | Liquid: Cu 2.000e-4, Se 0.9233, Te 0.0765 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 5 |  |
+| 619.85 | quasi-peritectic: α-CuTe + β-CuTe -> Liquid + τ2 | Liquid: Cu 0.323, Se 0.0243, Te 0.6527 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 6 |  |
+| 619.85 | peritectic: Hexagonal_A8 + β-CuTe -> Liquid + α-CuTe | Liquid: Cu 0.296, Se 0.0079, Te 0.6961 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 7 |  |
+| 615.15 | eutectic: Hexagonal_A8 + τ2 + α-CuTe -> Liquid | Liquid: Cu 0.3172, Se 0.0242, Te 0.6586 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 8 |  |
 
 ## Other properties
 

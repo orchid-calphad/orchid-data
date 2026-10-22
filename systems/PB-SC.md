@@ -65,7 +65,7 @@ Table: Phase transition, Pb–Sc system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1545.15 K | 1545.15 | other: Liq + aSc) M (bSc) | model | [1] Iddaoudi 2014 | p. 5 | “For the Sc-rich part of this system we suggested the eutectic reaction of Liq M Sc5Pb3 + (aSc) at 1196 °C and the catatectic reaction Liq + aSc) M (bSc) at 1272 °C according to the literature data of Dy-rich part of Dy-Pb system and presented in Fig. 5.” |
-| Phase transition | 1973.15 K | 1973.15 | congruent | experimental | [1] Iddaoudi 2014; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 2 | “For the Sc5Pb3 compound a congruent melting was determined at 1700 °C, while for the Sc6Pb5 compound a peritectic formation was reported, at 1290 °C.” |
+| Phase transition | 1973.15 K | 1973.15 | congruent transformation | experimental | [1] Iddaoudi 2014; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 2 | “For the Sc5Pb3 compound a congruent melting was determined at 1700 °C, while for the Sc6Pb5 compound a peritectic formation was reported, at 1290 °C.” |
 
 ## Sources
 

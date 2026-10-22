@@ -1,10 +1,10 @@
 # F–Nb system
 
-> F–Nb system: 67 accepted literature values (heat capacity / entropy / enthalpy 37, formation 18, phase transition 11, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–Nb system: 53 accepted literature values (heat capacity / entropy / enthalpy 30, formation 11, phase transition 11, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-NB.html · Markdown: https://data.orchid-project.org/systems/F-NB.md
 
-67 accepted literature values from 1 paper(s) (experimental 7, model 40, unspecified 20); 0 calculated phase diagram(s).
+53 accepted literature values from 1 paper(s) (experimental 7, model 26, unspecified 20); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-NB.json) · [CSV](https://data.orchid-project.org/systems/F-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NB) · [Markdown](https://data.orchid-project.org/systems/F-NB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 40 |
+| model | 26 |
 | unspecified | 20 |
 
 Table: Accepted values by property group
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 11 |
-| formation | 18 |
-| heat capacity / entropy / enthalpy | 37 |
+| formation | 11 |
+| heat capacity / entropy / enthalpy | 30 |
 | other property | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/F/F-NB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/F/F-NB.json)
@@ -31,27 +31,20 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, F–Nb system (18)
+Table: Enthalpies of formation, F–Nb system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Nb2F10(g) |  | -294.263 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 6 |  |
-| Nb2F10(g) |  | -294.263 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 6 |  |
-| Nb3F15(g) |  | -296.38 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 7 |  |
 | Nb3F15(g) |  | -296.38 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 7 |  |
 | NbF(g) |  | 117.88 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 1 |  |
-| NbF(g) |  | 117.88 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 1 |  |
-| NbF2(g) |  | -112.887 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 2 |  |
 | NbF2(g) |  | -112.887 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 2 |  |
 | NbF3 (cr) | [NbF3](https://data.orchid-project.org/compounds/NbF3.html) | -294.228 kJ/mol-atom | 298.15 | unspecified | -283.574 (mp-aaaaacrb) | -279.161 (oqmd-11298) | [1] Capelli 2018 | Table 1, p. 3, row 1 |  |
 | NbF3(g) |  | -201.102 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 3 |  |
-| NbF3(g) |  | -201.102 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 3 |  |
 | NbF4 (cr) | [NbF4](https://data.orchid-project.org/compounds/NbF4.html) | -303.534 kJ/mol-atom | 298.15 | unspecified | -307.535 (mp-aaaaaccm) | -301.623 (oqmd-4482) | [1] Capelli 2018 | Table 1, p. 3, row 3 |  |
-| NbF4(g) |  | -259.292 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 4 |  |
 | NbF4(g) |  | -259.292 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 4 |  |
 | NbF5 (cr) | [NbF5](https://data.orchid-project.org/compounds/NbF5.html) | -302.293 kJ/mol-atom | 298.15 | unspecified | -323.687 (mp-aaaabbqt) | -314.07 (oqmd-5080) | [1] Capelli 2018 | Table 1, p. 3, row 5 |  |
 | NbF5 (liq) |  | -299.917 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Capelli 2018 | Table 1, p. 3, row 6 |  |
-| NbF5(g) |  | -286.708 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 5 |  |
 | NbF5(g) |  | -286.708 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 5 |  |
 
 ## Other properties
@@ -74,29 +67,22 @@ Table: Phase transition, F–Nb system
 | Phase transition | 843 K | 843 | other: NbF3 sublimation (P ≃ 1.3 · 10^-6 bar); _alloy: Nb 0.25_ | experimental | [1] Capelli 2018; _cites Ehrlich 1955_ [doi](https://doi.org/10.1002/zaac.19552820105) | Table 8, p. 6, row 1 |  |
 | Phase transition | 843 K | 843 | other: NbF3 sublimation (P ≃ 1.3 · 10^-6 bar); _alloy: Nb 0.25_ | model | [1] Capelli 2018 | Table 8, p. 6, row 2 |  |
 
-### Heat capacity / entropy / enthalpy (37)
+### Heat capacity / entropy / enthalpy (30)
 
 Table: Heat capacity / entropy / enthalpy, F–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S0(298)_ | 44.5767 J/mol-atom/K | 298.15 | Nb2F10(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 6 |  |
-| Entropy; _printed: S0(298)_ | 44.5767 J/mol-atom/K | 298.15 | Nb2F10(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 6 |  |
-| Entropy; _printed: S0(298)_ | 40.6472 J/mol-atom/K | 298.15 | Nb3F15(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 7 |  |
 | Entropy; _printed: S0(298)_ | 40.6472 J/mol-atom/K | 298.15 | Nb3F15(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 7 |  |
 | Entropy; _printed: S0(298)_ | 119.93 J/mol-atom/K | 298.15 | NbF(g); _alloy: Nb 0.5_ | model | [1] Capelli 2018 | Table 7, p. 6, row 1 |  |
-| Entropy; _printed: S0(298)_ | 119.93 J/mol-atom/K | 298.15 | NbF(g); _alloy: Nb 0.5_ | model | [1] Capelli 2018 | Table 7, p. 6, row 1 |  |
-| Entropy; _printed: S0(298)_ | 94.9033 J/mol-atom/K | 298.15 | NbF2(g); _alloy: Nb 0.333333_ | model | [1] Capelli 2018 | Table 7, p. 6, row 2 |  |
 | Entropy; _printed: S0(298)_ | 94.9033 J/mol-atom/K | 298.15 | NbF2(g); _alloy: Nb 0.333333_ | model | [1] Capelli 2018 | Table 7, p. 6, row 2 |  |
 | Entropy; _printed: S0(298)_ | 27.685 J/mol-atom/K | 298.15 | NbF3 (cr); _alloy: Nb 0.25_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 1 |  |
 | Entropy; _printed: S0(298)_ | 75.0625 J/mol-atom/K | 298.15 | NbF3(g); _alloy: Nb 0.25_ | model | [1] Capelli 2018 | Table 7, p. 6, row 3 |  |
-| Entropy; _printed: S0(298)_ | 75.0625 J/mol-atom/K | 298.15 | NbF3(g); _alloy: Nb 0.25_ | model | [1] Capelli 2018 | Table 7, p. 6, row 3 |  |
 | Entropy; _printed: S0(298)_ | 27.098 J/mol-atom/K | 298.15 | NbF4 (cr); _alloy: Nb 0.2_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 3 |  |
-| Entropy; _printed: S0(298)_ | 66.352 J/mol-atom/K | 298.15 | NbF4(g); _alloy: Nb 0.2_ | model | [1] Capelli 2018 | Table 7, p. 6, row 4 |  |
 | Entropy; _printed: S0(298)_ | 66.352 J/mol-atom/K | 298.15 | NbF4(g); _alloy: Nb 0.2_ | model | [1] Capelli 2018 | Table 7, p. 6, row 4 |  |
 | Entropy; _printed: S0(298)_ | 26.7083 J/mol-atom/K | 298.15 | NbF5 (cr); _alloy: Nb 0.166667_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 5 |  |
 | Entropy; _printed: S0(298)_ | 33.4383 J/mol-atom/K | 298.15 | NbF5 (liq); _alloy: Nb 0.166667_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 6 |  |
-| Entropy; _printed: S0(298)_ | 57.81 J/mol-atom/K | 298.15 | NbF5(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 5 |  |
 | Entropy; _printed: S0(298)_ | 57.81 J/mol-atom/K | 298.15 | NbF5(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 5 |  |
 | Heat capacity; _printed: Cp coefficient a_ | 21.7752 J/mol-atom/K | 298.15 | Nb2F10(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 6 |  |
 | Heat capacity; _printed: Cp coefficient a_ | 22.2528 J/mol-atom/K | 298.15 | Nb3F15(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 7 |  |

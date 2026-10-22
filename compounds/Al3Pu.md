@@ -1,24 +1,21 @@
 # Al3Pu: enthalpy of formation
 
-> Enthalpy of formation of Al3Pu: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Al3Pu: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al3Pu.html · Markdown: https://data.orchid-project.org/compounds/Al3Pu.md
 
-6 accepted literature formation-enthalpy value(s) (model 6).
+3 accepted literature formation-enthalpy value(s) (model 3).
 
 Systems: [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al3Pu reported in the literature (6)
+Table: Enthalpy of formation of Al3Pu reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -174.3 kJ/mol (basis unstated) | PuAl3-9H |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 8 |  |
-| -174.3 kJ/mol (basis unstated) | PuAl3-9H |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 8 |  |
 | -172.4 kJ/mol (basis unstated) | PuAl3-6H |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 7 |  |
-| -172.4 kJ/mol (basis unstated) | PuAl3-6H |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 7 |  |
-| -169.1 kJ/mol (basis unstated) | PuAl3-3H |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
 | -169.1 kJ/mol (basis unstated) | PuAl3-3H |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
 
 ## Sources

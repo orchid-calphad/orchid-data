@@ -1,10 +1,10 @@
 # Bi–In–Sr system
 
-> Bi–In–Sr system: 77 accepted literature values (crystal structure 51, formation 26) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–In–Sr system: 75 accepted literature values (crystal structure 51, formation 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-IN-SR.html · Markdown: https://data.orchid-project.org/systems/BI-IN-SR.md
 
-77 accepted literature values from 1 paper(s) (experimental 4, model 11, DFT 11, unspecified 51); 0 calculated phase diagram(s).
+75 accepted literature values from 1 paper(s) (experimental 2, model 11, DFT 11, unspecified 51); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-IN-SR.json) · [CSV](https://data.orchid-project.org/systems/BI-IN-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-IN-SR) · [Markdown](https://data.orchid-project.org/systems/BI-IN-SR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 2 |
 | model | 11 |
 | DFT | 11 |
 | unspecified | 51 |
@@ -21,20 +21,19 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 26 |
+| formation | 24 |
 | crystal structure | 51 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–In–Sr system (26)
+Table: Enthalpies of formation, Bi–In–Sr system (24)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Sr11Bi10 |  | -76.19 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 16 |  |
 | Sr11Bi10 | [Bi10Sr11](https://data.orchid-project.org/compounds/Bi10Sr11.html) | -74.06 kJ/mol-atom | 298.15 | model | -82.788 (mp-aaaabsvp) | -84.404 (oqmd-50743) | [1] Wang 2014 | Table 2, p. 3, row 17 |  |
-| Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -104 kJ/mol-atom ± 1.67 | 298.15 | experimental | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22 |  |
 | Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -104 kJ/mol-atom ± 1.67 | 298.15 | experimental | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22 |  |
 | Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -76.47 kJ/mol-atom | 298.15 | model | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014 | Table 2, p. 3, row 24 |  |
 | Sr2Bi |  | -73.23 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 23 |  |
@@ -42,7 +41,6 @@ Table: Enthalpies of formation, Bi–In–Sr system (26)
 | Sr3In |  | -13.54 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 1 |  |
 | Sr5In3 | [In3Sr5](https://data.orchid-project.org/compounds/In3Sr5.html) | -34 kJ/mol-atom | 298.15 | model | -32.729 (mp-aaabglta) | -33.93 (oqmd-25865) | [1] Wang 2014 | Table 2, p. 3, row 4 |  |
 | Sr5In3 |  | -33.86 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 3 |  |
-| SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -89.87 kJ/mol-atom ± 5.64 | 298.15 | experimental | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 13 |  |
 | SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -89.87 kJ/mol-atom ± 5.64 | 298.15 | experimental | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 13 |  |
 | SrBi3 |  | -43.22 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 14 |  |
 | SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -42.56 kJ/mol-atom | 298.15 | model | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014 | Table 2, p. 3, row 15 |  |

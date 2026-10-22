@@ -104,19 +104,19 @@ Table: Phase transition, Re–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1852 K | 1852 | solidus: 8; _alloy: Re 0.2, Zr 0.8_ | experimental | [1] Che 2023 | Table 3, p. 7, row 14 |  |
-| Phase transition | 1868 K | 1868 | solidus: 9; _alloy: Re 0.1, Zr 0.9_ | experimental | [1] Che 2023 | Table 3, p. 7, row 16 |  |
-| Phase transition | 1880 K | 1880 | solidus: 7; _alloy: Re 0.333, Zr 0.667_ | experimental | [1] Che 2023 | Table 3, p. 7, row 12 |  |
-| Phase transition | 1912 K | 1912 | solidus: 6; _alloy: Re 0.4, Zr 0.6_ | experimental | [1] Che 2023 | Table 3, p. 7, row 10 |  |
-| Phase transition | 1920 K | 1920 | solidus: 5; _alloy: Re 0.5, Zr 0.5_ | experimental | [1] Che 2023 | Table 3, p. 7, row 8 |  |
-| Phase transition | 1982 K | 1982 | solidus: 10 | experimental | [1] Che 2023 | Table 3, p. 7, row 18 |  |
-| Phase transition | 2029 K | 2029 | liquidus: 10 | experimental | [1] Che 2023 | Table 3, p. 7, row 17 |  |
-| Phase transition | 2126 K | 2126 | liquidus: 11 | experimental | [1] Che 2023 | Table 3, p. 7, row 19 |  |
-| Phase transition | 2723.15 K | 2723.15 | congruent | experimental | [2] Liu 2013; _cites Savitskii 1959_ | p. 1 | “The congruent melting temperature of the Re2Zr compound was determined at 2,450 °C \[8, 10\].” |
+| Phase transition | 1852 K | 1852 | other: 8; _alloy: Re 0.2, Zr 0.8_ | experimental | [1] Che 2023 | Table 3, p. 7, row 14 |  |
+| Phase transition | 1868 K | 1868 | other: 9; _alloy: Re 0.1, Zr 0.9_ | experimental | [1] Che 2023 | Table 3, p. 7, row 16 |  |
+| Phase transition | 1880 K | 1880 | other: 7; _alloy: Re 0.333, Zr 0.667_ | experimental | [1] Che 2023 | Table 3, p. 7, row 12 |  |
+| Phase transition | 1912 K | 1912 | other: 6; _alloy: Re 0.4, Zr 0.6_ | experimental | [1] Che 2023 | Table 3, p. 7, row 10 |  |
+| Phase transition | 1920 K | 1920 | other: 5; _alloy: Re 0.5, Zr 0.5_ | experimental | [1] Che 2023 | Table 3, p. 7, row 8 |  |
+| Phase transition | 1982 K | 1982 | other: 10 | experimental | [1] Che 2023 | Table 3, p. 7, row 18 |  |
+| Phase transition | 2029 K | 2029 | other: 10 | experimental | [1] Che 2023 | Table 3, p. 7, row 17 |  |
+| Phase transition | 2126 K | 2126 | other: 11 | experimental | [1] Che 2023 | Table 3, p. 7, row 19 |  |
+| Phase transition | 2723.15 K | 2723.15 | congruent transformation | experimental | [2] Liu 2013; _cites Savitskii 1959_ | p. 1 | “The congruent melting temperature of the Re2Zr compound was determined at 2,450 °C \[8, 10\].” |
 | Phase transition | 3023 K | 3023 | liq. -> Re2Zr; _liq.: Zr 0.333333; Re2Zr: Zr 0.333333_ | experimental | [2] Liu 2013; _cites Massalski 1990_ | Table 2, p. 3, row 12 |  |
-| Phase transition | 3023.15 K | 3023.15 | congruent | model | [2] Liu 2013; _cites Massalski 1990_ | p. 1 | “Subsequently, the congruent melting temperature of Re2Zr was modified at 2,750 °C \[4\].” |
-| Phase transition | 3110 K | 3110 | solidus: 3; _alloy: Re 0.75, Zr 0.25_ | experimental | [1] Che 2023 | Table 3, p. 7, row 5 |  |
-| Phase transition | 3123 K | 3123 | solidus: 2; _alloy: Re 0.92, Zr 0.08_ | experimental | [1] Che 2023 | Table 3, p. 7, row 3 |  |
+| Phase transition | 3023.15 K | 3023.15 | congruent transformation | model | [2] Liu 2013; _cites Massalski 1990_ | p. 1 | “Subsequently, the congruent melting temperature of Re2Zr was modified at 2,750 °C \[4\].” |
+| Phase transition | 3110 K | 3110 | other: 3; _alloy: Re 0.75, Zr 0.25_ | experimental | [1] Che 2023 | Table 3, p. 7, row 5 |  |
+| Phase transition | 3123 K | 3123 | other: 2; _alloy: Re 0.92, Zr 0.08_ | experimental | [1] Che 2023 | Table 3, p. 7, row 3 |  |
 | Phase transition | 3170 K | 3170 | liq. -> Re2Zr; _liq.: Zr 0.335; Re2Zr: Zr 0.335_ | model | [2] Liu 2013 | Table 2, p. 3, row 13 |  |
 
 ### Phase equilibrium (30)
@@ -146,15 +146,15 @@ Table: Phase equilibrium, Re–Zr system
 | Phase composition |  | 1373 | (Re) + Re24Zr5; _(Re): Re 1, Zr 0; Re24Zr5: Re 0.8529, Zr 0.1471_ | experimental | [1] Che 2023 | Table 2, p. 3, row 3 |  |
 | Phase composition |  | 1373 | Re2Zr + Re25Zr21 + hcp (Zr); _Re25Zr21: Re 0.5256, Zr 0.4744; hcp (Zr): Re 0.0145, Zr 0.9855_ | experimental | [1] Che 2023 | Table 2, p. 3, row 12 |  |
 | Phase composition |  | 1373 | hcp (Zr) + Re25Zr21 + Re2Zr; _hcp (Zr): Re 0.0026, Zr 0.9974; Re25Zr21: Re 0.5286, Zr 0.4714_ | experimental | [1] Che 2023 | Table 2, p. 3, row 20 |  |
-| Phase composition |  | 1892 | liquidus: 8; _liquid: Re 0.2, Zr 0.8_ | experimental | [1] Che 2023 | Table 3, p. 7, row 13 |  |
-| Phase composition |  | 1912 | liquidus: 7; _liquid: Re 0.333, Zr 0.667_ | experimental | [1] Che 2023 | Table 3, p. 7, row 11 |  |
-| Phase composition |  | 1951 | liquidus: 9; _liquid: Re 0.1, Zr 0.9_ | experimental | [1] Che 2023 | Table 3, p. 7, row 15 |  |
-| Phase composition |  | 2140 | liquidus: 6; _liquid: Re 0.4, Zr 0.6_ | experimental | [1] Che 2023 | Table 3, p. 7, row 9 |  |
-| Phase composition |  | 2767 | liquidus: 5; _liquid: Re 0.5, Zr 0.5_ | experimental | [1] Che 2023 | Table 3, p. 7, row 7 |  |
-| Phase composition |  | 3183 | liquidus: 2; _liquid: Re 0.92, Zr 0.08_ | experimental | [1] Che 2023 | Table 3, p. 7, row 2 |  |
-| Phase composition |  | 3230 | liquidus: 3; _liquid: Re 0.75, Zr 0.25_ | experimental | [1] Che 2023 | Table 3, p. 7, row 4 |  |
-| Phase composition |  | 3263 | liquidus: 4; _liquid: Re 0.666, Zr 0.334_ | experimental | [1] Che 2023 | Table 3, p. 7, row 6 |  |
-| Phase composition |  | 3453 | liquidus: 1; _liquid: Re 1, Zr 0_ | experimental | [1] Che 2023 | Table 3, p. 7, row 1 |  |
+| Phase composition |  | 1892 | other: 8; _liquid: Re 0.2, Zr 0.8_ | experimental | [1] Che 2023 | Table 3, p. 7, row 13 |  |
+| Phase composition |  | 1912 | other: 7; _liquid: Re 0.333, Zr 0.667_ | experimental | [1] Che 2023 | Table 3, p. 7, row 11 |  |
+| Phase composition |  | 1951 | other: 9; _liquid: Re 0.1, Zr 0.9_ | experimental | [1] Che 2023 | Table 3, p. 7, row 15 |  |
+| Phase composition |  | 2140 | other: 6; _liquid: Re 0.4, Zr 0.6_ | experimental | [1] Che 2023 | Table 3, p. 7, row 9 |  |
+| Phase composition |  | 2767 | other: 5; _liquid: Re 0.5, Zr 0.5_ | experimental | [1] Che 2023 | Table 3, p. 7, row 7 |  |
+| Phase composition |  | 3183 | other: 2; _liquid: Re 0.92, Zr 0.08_ | experimental | [1] Che 2023 | Table 3, p. 7, row 2 |  |
+| Phase composition |  | 3230 | other: 3; _liquid: Re 0.75, Zr 0.25_ | experimental | [1] Che 2023 | Table 3, p. 7, row 4 |  |
+| Phase composition |  | 3263 | other: 4; _liquid: Re 0.666, Zr 0.334_ | experimental | [1] Che 2023 | Table 3, p. 7, row 6 |  |
+| Phase composition |  | 3453 | other: 1; _liquid: Re 1, Zr 0_ | experimental | [1] Che 2023 | Table 3, p. 7, row 1 |  |
 
 ## Sources
 

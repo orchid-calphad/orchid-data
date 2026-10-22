@@ -46,12 +46,12 @@ Table: Invariant reactions reported in the literature for the Nb–U system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1231.15 | Critical: (γU, Nb) → γU + (Nb) | (γU, Nb): Nb 0.507 | model | [1] Liu 2008 | Table 6, p. 6, row 6 |  |
-| 1203.15 | Critical: (γU, Nb) → γU + (Nb) | (γU, Nb): Nb 0.523 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 5 |  |
-| 937.15 | Eutectoid: βU → αU + γU | βU: Nb 0.013 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 1 |  |
-| 937.15 | Eutectoid: βU → αU + γU | βU: Nb 0.013; αU: Nb 0.0109; γU: Nb 0.101 | model | [1] Liu 2008 | Table 6, p. 6, row 2 |  |
-| 920.15 | Monotectoid: γU → αU + (Nb) | γU: Nb 0.139; αU: Nb 0.013; (Nb): Nb 0.7 | model | [1] Liu 2008 | Table 6, p. 6, row 4 |  |
-| 920.15 | Monotectoid: γU → αU + (Nb) | γU: Nb 0.133; αU: Nb 0.005 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 3 |  |
+| 1231.15 | critical point: (γU, Nb) → γU + (Nb) | (γU, Nb): Nb 0.507 | model | [1] Liu 2008 | Table 6, p. 6, row 6 |  |
+| 1203.15 | critical point: (γU, Nb) → γU + (Nb) | (γU, Nb): Nb 0.523 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 5 |  |
+| 937.15 | eutectoid: βU → αU + γU | βU: Nb 0.013 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 1 |  |
+| 937.15 | eutectoid: βU → αU + γU | βU: Nb 0.013; αU: Nb 0.0109; γU: Nb 0.101 | model | [1] Liu 2008 | Table 6, p. 6, row 2 |  |
+| 920.15 | monotectoid: γU → αU + (Nb) | γU: Nb 0.139; αU: Nb 0.013; (Nb): Nb 0.7 | model | [1] Liu 2008 | Table 6, p. 6, row 4 |  |
+| 920.15 | monotectoid: γU → αU + (Nb) | γU: Nb 0.133; αU: Nb 0.005 | experimental | [1] Liu 2008; _cites Koike 1995_ | Table 6, p. 6, row 3 |  |
 
 ## Sources
 

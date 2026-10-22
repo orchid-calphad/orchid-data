@@ -129,30 +129,30 @@ Table: Invariant reactions reported in the literature for the Ce–Mg system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1023.3 | Peritectic: Liquid -> Mg3Ce + Mg2Ce | L: Mg 0.628; Mg3Ce: Mg 0.75; Mg2Ce: Mg 0.6667 | model | [1] Zhang 2008 | Table 6, p. 6, row 6 |  |
-| 1023 | Peritectic: Liquid -> Mg3Ce + Mg2Ce | L: Mg 0.59; Mg3Ce: Mg 0.75; Mg2Ce: Mg 0.6667 | experimental | [1] Zhang 2008; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380101) | Table 6, p. 6, row 5 |  |
+| 1023.3 | peritectic: Liquid -> Mg3Ce + Mg2Ce | L: Mg 0.628; Mg3Ce: Mg 0.75; Mg2Ce: Mg 0.6667 | model | [1] Zhang 2008 | Table 6, p. 6, row 6 |  |
+| 1023 | peritectic: Liquid -> Mg3Ce + Mg2Ce | L: Mg 0.59; Mg3Ce: Mg 0.75; Mg2Ce: Mg 0.6667 | experimental | [1] Zhang 2008; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380101) | Table 6, p. 6, row 5 |  |
 | 1020.1 | peritectic: Liquid + CeMg3 -> CeMg2 | L: Mg 0.62; CeMg3: Mg 0.75; CeMg2: Mg 0.667 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 3 |  |
-| 986 | Eutectic: Liquid -> MgCe + Mg2Ce | L: Mg 0.546; MgCe: Mg 0.5; Mg2Ce: Mg 0.6667 | model | [1] Zhang 2008 | Table 6, p. 6, row 4 |  |
-| 984 | Eutectic: Liquid -> MgCe + Mg2Ce | L: Mg 0.465; MgCe: Mg 0.5; Mg2Ce: Mg 0.6667 | experimental | [1] Zhang 2008; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380101) | Table 6, p. 6, row 3 |  |
+| 986 | eutectic: Liquid -> MgCe + Mg2Ce | L: Mg 0.546; MgCe: Mg 0.5; Mg2Ce: Mg 0.6667 | model | [1] Zhang 2008 | Table 6, p. 6, row 4 |  |
+| 984 | eutectic: Liquid -> MgCe + Mg2Ce | L: Mg 0.465; MgCe: Mg 0.5; Mg2Ce: Mg 0.6667 | experimental | [1] Zhang 2008; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380101) | Table 6, p. 6, row 3 |  |
 | 982.9 | eutectic: Liquid -> CeMg + CeMg2 | L: Mg 0.528; CeMg: Mg 0.5; CeMg2: Mg 0.667 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 2 |  |
-| 961 | Eutectic: Liquid -> bcc_A2 + MgCe | L: Mg 0.35; MgCe: Mg 0.5 | experimental | [1] Zhang 2008; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380101) | Table 6, p. 6, row 1 |  |
-| 960.7 | Eutectic: Liquid -> bcc_A2 + MgCe | L: Mg 0.362; bcc_A2: Mg 0.932; MgCe: Mg 0.5 | model | [1] Zhang 2008 | Table 6, p. 6, row 2 |  |
+| 961 | eutectic: Liquid -> bcc_A2 + MgCe | L: Mg 0.35; MgCe: Mg 0.5 | experimental | [1] Zhang 2008; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380101) | Table 6, p. 6, row 1 |  |
+| 960.7 | eutectic: Liquid -> bcc_A2 + MgCe | L: Mg 0.362; bcc_A2: Mg 0.932; MgCe: Mg 0.5 | model | [1] Zhang 2008 | Table 6, p. 6, row 2 |  |
 | 955.1 | eutectic: Liquid -> bcc-A2 + CeMg | L: Mg 0.328; bcc-A2: Mg 0.288; CeMg: Mg 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 1 |  |
 | 908 | peritectic: liquid + Mg3 Ce → Mg41 Ce5 |  | experimental | [1] Zhang 2008; _cites Wood 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990115-3) | p. 6 | “The peritectic reaction of liquid + Mg3 Ce → Mg41 Ce5 at about 908 K was observed by Wood and Cramer \[28\].” |
-| 908 | Peritectic: Liquid + Mg3Ce -> Mg41Ce5 | L: Mg 0.9; Mg3Ce: Mg 0.75; Mg41Ce5: Mg 0.8913 | experimental | [1] Zhang 2008; _cites Wood 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990115-3) | Table 6, p. 6, row 7 |  |
-| 904.4 | Peritectic: Liquid + Mg3Ce -> Mg41Ce5 | L: Mg 0.9; Mg3Ce: Mg 0.75; Mg41Ce5: Mg 0.891 | model | [1] Zhang 2008 | Table 6, p. 6, row 8 |  |
+| 908 | peritectic: Liquid + Mg3Ce -> Mg41Ce5 | L: Mg 0.9; Mg3Ce: Mg 0.75; Mg41Ce5: Mg 0.8913 | experimental | [1] Zhang 2008; _cites Wood 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990115-3) | Table 6, p. 6, row 7 |  |
+| 904.4 | peritectic: Liquid + Mg3Ce -> Mg41Ce5 | L: Mg 0.9; Mg3Ce: Mg 0.75; Mg41Ce5: Mg 0.891 | model | [1] Zhang 2008 | Table 6, p. 6, row 8 |  |
 | 898.1 | peritectic: Liquid + CeMg3 -> Ce5Mg41 | L: Mg 0.904; CeMg3: Mg 0.75; Ce5Mg41: Mg 0.891 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 4 |  |
-| 894 | Peritectic: Liquid + Mg41Ce5 -> Mg17Ce2 | L: Mg 0.915; Mg41Ce5: Mg 0.8913; Mg17Ce2: Mg 0.9115 | experimental | [1] Zhang 2008; _cites Wood 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990115-3) | Table 6, p. 6, row 9 |  |
-| 890.7 | Peritectic: Liquid + Mg41Ce5 -> Mg17Ce2 | L: Mg 0.934; Mg41Ce5: Mg 0.891; Mg17Ce2: Mg 0.911 | model | [1] Zhang 2008 | Table 6, p. 6, row 10 |  |
+| 894 | peritectic: Liquid + Mg41Ce5 -> Mg17Ce2 | L: Mg 0.915; Mg41Ce5: Mg 0.8913; Mg17Ce2: Mg 0.9115 | experimental | [1] Zhang 2008; _cites Wood 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990115-3) | Table 6, p. 6, row 9 |  |
+| 890.7 | peritectic: Liquid + Mg41Ce5 -> Mg17Ce2 | L: Mg 0.934; Mg41Ce5: Mg 0.891; Mg17Ce2: Mg 0.911 | model | [1] Zhang 2008 | Table 6, p. 6, row 10 |  |
 | 889.6 | peritectic: Liquid + Ce5Mg41 -> Ce2Mg17 | L: Mg 0.923; Ce5Mg41: Mg 0.891; Ce2Mg17: Mg 0.895 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 5 |  |
-| 889 | Peritectic: Liquid + Mg17Ce2 -> Mg12Ce | L: Mg 0.925; Mg17Ce2: Mg 0.9115; Mg12Ce: Mg 0.9231 | experimental | [1] Zhang 2008; _cites Haughton 1937_ | Table 6, p. 6, row 11 |  |
+| 889 | peritectic: Liquid + Mg17Ce2 -> Mg12Ce | L: Mg 0.925; Mg17Ce2: Mg 0.9115; Mg12Ce: Mg 0.9231 | experimental | [1] Zhang 2008; _cites Haughton 1937_ | Table 6, p. 6, row 11 |  |
 | 888 | eutectoid: CeMg2 -> CeMg + CeMg3 | CeMg2: Mg 0.667; CeMg: Mg 0.5; CeMg3: Mg 0.75 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 9 |  |
 | 884.7 | peritectic: Liquid + Ce2Mg17 -> CeMg12 | L: Mg 0.93; Ce2Mg17: Mg 0.895; CeMg12: Mg 0.923 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 6 |  |
 | 882 | eutectoid: Ce2Mg17 -> Ce5Mg41 + CeMg12 | Ce2Mg17: Mg 0.895; Ce5Mg41: Mg 0.891; CeMg12: Mg 0.923 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 8 |  |
-| 880 | Peritectic: Liquid + Mg17Ce2 -> Mg12Ce | L: Mg 0.94; Mg17Ce2: Mg 0.911; Mg12Ce: Mg 0.923 | model | [1] Zhang 2008 | Table 6, p. 6, row 12 |  |
-| 872 | Eutectic: Liquid -> Mg12Ce + hcp_A3 | L: Mg 0.962; Mg12Ce: Mg 0.923; hcp_A3: Mg 0.9997 | model | [1] Zhang 2008 | Table 6, p. 6, row 14 |  |
+| 880 | peritectic: Liquid + Mg17Ce2 -> Mg12Ce | L: Mg 0.94; Mg17Ce2: Mg 0.911; Mg12Ce: Mg 0.923 | model | [1] Zhang 2008 | Table 6, p. 6, row 12 |  |
+| 872 | eutectic: Liquid -> Mg12Ce + hcp_A3 | L: Mg 0.962; Mg12Ce: Mg 0.923; hcp_A3: Mg 0.9997 | model | [1] Zhang 2008 | Table 6, p. 6, row 14 |  |
 | 867.9 | eutectic: Liquid -> CeMg12 + hcp-A3 | L: Mg 0.96; CeMg12: Mg 0.923; hcp-A3: Mg 1 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 7 |  |
-| 865 | Eutectic: Liquid -> Mg12Ce + hcp_A3 | L: Mg 0.957; Mg12Ce: Mg 0.9231; hcp_A3: Mg 0.9991 | experimental | [1] Zhang 2008; _cites Haughton 1937_ | Table 6, p. 6, row 13 |  |
+| 865 | eutectic: Liquid -> Mg12Ce + hcp_A3 | L: Mg 0.957; Mg12Ce: Mg 0.9231; hcp_A3: Mg 0.9991 | experimental | [1] Zhang 2008; _cites Haughton 1937_ | Table 6, p. 6, row 13 |  |
 | 816.15 | eutectic: L = (Mg) + CeMg12 + Mg24Y5 |  | experimental | [3] Gröbner 2010; _cites Drits 1981_ | p. 3 | “They found a eutectic reaction L = (Mg) + CeMg12 + Mg24Y5 at 543 °C.” |
 | 768.7 | eutectoid: bcc-A2 -> fcc-A1 + CeMg | bcc-A2: Mg 0.114; fcc-A1: Mg 0.072; CeMg: Mg 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 156, row 10 |  |
 
@@ -167,10 +167,10 @@ Table: Phase transition, Ce–Mg system
 | Phase transition | 818.14 K | 818.14 | other | model | [3] Gröbner 2010 | p. 3 | “Invariant three-phase reactions such as the minimum in L + (Ce,Y)Mg + CeMg2 at 626.8 °C, the maximum in L + Mg24Y5 + T at 560.99 °C, and the shallow maximum in L + Mg24Y5 + CeMg12 at 544.99 °C between the two ternary eutectic invariant reactions E1 and E2 are not included in Table 2.” |
 | Phase transition | 882.15 K | 882.15 | other | experimental | [4] Hampl 2007 | p. 4 | “This is because the phase Ce5Mg41 has ternary solubility and, thus, U4 is a true transition-type reaction, occurring in fact 2 K above the related binary eutectoid decomposition of Ce2Mg17 at 609 °C.” |
 | Phase transition | 899.95 K | 899.95 | other | model | [3] Gröbner 2010 | p. 3 | “Invariant three-phase reactions such as the minimum in L + (Ce,Y)Mg + CeMg2 at 626.8 °C, the maximum in L + Mg24Y5 + T at 560.99 °C, and the shallow maximum in L + Mg24Y5 + CeMg12 at 544.99 °C between the two ternary eutectic invariant reactions E1 and E2 are not included in Table 2.” |
-| Phase transition | 983.8 K | 983.8 | congruent: CeMg -> Liquid; _CeMg: Mg 0.5; L: Mg 0.5_ | model | [2] Hämäläinen 1998 | Table I, p. 156, row 11 |  |
-| Phase transition | 1069 K | 1069 | Congruent: Mg3Ce -> liquid; _Mg3Ce: Mg 0.75; L: Mg 0.75_ | experimental | [1] Zhang 2008; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380101) | Table 6, p. 6, row 15 |  |
-| Phase transition | 1071 K | 1071 | Congruent: Mg3Ce -> liquid; _Mg3Ce: Mg 0.75; L: Mg 0.75_ | model | [1] Zhang 2008 | Table 6, p. 6, row 16 |  |
-| Phase transition | 1073 K | 1073 | congruent: CeMg3 -> Liquid; _CeMg3: Mg 0.75; L: Mg 0.75_ | model | [2] Hämäläinen 1998 | Table I, p. 156, row 12 |  |
+| Phase transition | 983.8 K | 983.8 | congruent melting: CeMg -> Liquid; _CeMg: Mg 0.5; L: Mg 0.5_ | model | [2] Hämäläinen 1998 | Table I, p. 156, row 11 |  |
+| Phase transition | 1069 K | 1069 | congruent melting: Mg3Ce -> liquid; _Mg3Ce: Mg 0.75; L: Mg 0.75_ | experimental | [1] Zhang 2008; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380101) | Table 6, p. 6, row 15 |  |
+| Phase transition | 1071 K | 1071 | congruent melting: Mg3Ce -> liquid; _Mg3Ce: Mg 0.75; L: Mg 0.75_ | model | [1] Zhang 2008 | Table 6, p. 6, row 16 |  |
+| Phase transition | 1073 K | 1073 | congruent melting: CeMg3 -> Liquid; _CeMg3: Mg 0.75; L: Mg 0.75_ | model | [2] Hämäläinen 1998 | Table I, p. 156, row 12 |  |
 
 ## Sources
 

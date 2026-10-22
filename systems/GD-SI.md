@@ -78,7 +78,7 @@ Table: Phase transition, Gd–Si system
 | Phase transition | 773.15 K | 773.15 | polymorphic | experimental | [1] Huang 2007; _cites Eremenko 1991_ | p. 3 | “A polymorphic phase transformation for GdSi2-x was reported by Eremenko et al. \[5\] at 500 ◦ C.” |
 | Phase transition | 910.15 K | 910.15 |  | experimental | [1] Huang 2007 | p. 3 | “Fig. 3 shows the DSC results of Gd-63 at.% Si alloy, which has a single thermal event with an onset and peak temperature at 637 and 649 ◦ C, respectively, which are lower than the reported data of 700 ◦ C and no peak was found at 425 ◦ C \[5\].” |
 | Phase transition | 922.15 K | 922.15 |  | experimental | [1] Huang 2007 | p. 3 | “Fig. 3 shows the DSC results of Gd-63 at.% Si alloy, which has a single thermal event with an onset and peak temperature at 637 and 649 ◦ C, respectively, which are lower than the reported data of 700 ◦ C and no peak was found at 425 ◦ C \[5\].” |
-| Phase transition | 2003.15 K | 2003.15 | congruent | experimental | [2] Xu 2020; _cites ref. 18_ | p. 2 | “Bulanova et al18 reported that the α-GdSi2 structure formed at 1730°C by congruent reaction while the α-ThSi2 structure formed by peritectic reaction at about 1600°C.” |
+| Phase transition | 2003.15 K | 2003.15 | congruent transformation | experimental | [2] Xu 2020; _cites ref. 18_ | p. 2 | “Bulanova et al18 reported that the α-GdSi2 structure formed at 1730°C by congruent reaction while the α-ThSi2 structure formed by peritectic reaction at about 1600°C.” |
 
 ## Sources
 

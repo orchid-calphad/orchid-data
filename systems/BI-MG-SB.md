@@ -29,11 +29,11 @@ Table: Invariant reactions reported in the literature for the Bi–Mg–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 966.95 | U: L + β-Mg3Bi2 -> α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.4512, Mg 0.5367 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 1 |  |
-| 947.45 | E: β-Mg3Bi2 -> L + α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.2886, Mg 0.6889 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 2 |  |
-| 824.15 | E: L -> Hcp(Mg) + α-Mg3Bi2 + α-Mg3Sb2 |  | experimental | [1] Zhang 2022 | Table 6, p. 10, row 4 |  |
-| 823.05 | E: L -> Hcp(Mg) + α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.1197, Mg 0.8728 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 3 |  |
-| 536.38 | E: L -> Rho(Bi) + α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.9666, Mg 0.0333 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 5 |  |
+| 966.95 | quasi-peritectic: L + β-Mg3Bi2 -> α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.4512, Mg 0.5367 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 1 |  |
+| 947.45 | eutectic: β-Mg3Bi2 -> L + α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.2886, Mg 0.6889 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 2 |  |
+| 824.15 | eutectic: L -> Hcp(Mg) + α-Mg3Bi2 + α-Mg3Sb2 |  | experimental | [1] Zhang 2022 | Table 6, p. 10, row 4 |  |
+| 823.05 | eutectic: L -> Hcp(Mg) + α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.1197, Mg 0.8728 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 3 |  |
+| 536.38 | eutectic: L -> Rho(Bi) + α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.9666, Mg 0.0333 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 5 |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Cu–Sn system
 
-> Cu–Sn system: 117 accepted literature values (invariant reaction 70, phase transition 27, formation 16, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sn system: 116 accepted literature values (invariant reaction 69, phase transition 27, formation 16, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SN.html · Markdown: https://data.orchid-project.org/systems/CU-SN.md
 
-117 accepted literature values from 5 paper(s) (experimental 55, model 62); 9 calculated phase diagram(s).
+116 accepted literature values from 5 paper(s) (experimental 55, model 61); 9 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SN.json) · [CSV](https://data.orchid-project.org/systems/CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SN/CuSn-02Mie.json) · [Markdown](https://data.orchid-project.org/systems/CU-SN.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 55 |
-| model | 62 |
+| model | 61 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 70 |
+| invariant reaction | 69 |
 | phase transition | 27 |
 | phase equilibrium | 4 |
 | formation | 16 |
@@ -238,80 +238,79 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Sn system (70)
+Table: Invariant reactions reported in the literature for the Cu–Sn system (69)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1072.15 | Fcc-bcc-liquid | Fcc: Sn 0.079; bcc: Sn 0.124; L: Sn 0.162 | model | [1] Miettinen 2002 | Table IV, p. 6, row 3 |  |
 | 1071.15 | Fcc-bcc-liquid | Fcc: Sn 0.077; bcc: Sn 0.131; L: Sn 0.155 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 1 |  |
-| 1071 | Peritectic: α + L \<-> β | α: Sn 0.077; L: Sn 0.155; β: Sn 0.131 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 1 |  |
-| 1071 | Peritectic: α + L \<-> β | α: Sn 0.086; L: Sn 0.158; β: Sn 0.144 | model | [2] Li 2013 | Table 2, p. 6, row 3 |  |
-| 1071 | Peritectic: α + L \<-> β | α: Sn 0.077; L: Sn 0.15; β: Sn 0.126 | experimental | [2] Li 2013 | Table 2, p. 6, row 2 |  |
+| 1071 | peritectic: α + L \<-> β | α: Sn 0.077; L: Sn 0.155; β: Sn 0.131 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 1 |  |
+| 1071 | peritectic: α + L \<-> β | α: Sn 0.086; L: Sn 0.158; β: Sn 0.144 | model | [2] Li 2013 | Table 2, p. 6, row 3 |  |
+| 1071 | peritectic: α + L \<-> β | α: Sn 0.077; L: Sn 0.15; β: Sn 0.126 | experimental | [2] Li 2013 | Table 2, p. 6, row 2 |  |
 | 1070.15 | Fcc-bcc-liquid | Fcc: Sn 0.08; bcc: Sn 0.124; L: Sn 0.162 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 2 |  |
-| 1040 | Peritectic: β + L \<-> γ |  | model | [2] Li 2013 | Table 2, p. 6, row 6 |  |
-| 1031 | Peritectic: β + L \<-> γ | β: Sn 0.161; L: Sn 0.187; γ: Sn 0.161 | experimental | [2] Li 2013 | Table 2, p. 6, row 5 |  |
+| 1040 | peritectic: β + L \<-> γ |  | model | [2] Li 2013 | Table 2, p. 6, row 6 |  |
+| 1031 | peritectic: β + L \<-> γ | β: Sn 0.161; L: Sn 0.187; γ: Sn 0.161 | experimental | [2] Li 2013 | Table 2, p. 6, row 5 |  |
 | 1030.15 | Bcc-γ-liquid | Bcc: Sn 0.149; γ: Sn 0.175; L: Sn 0.203 | model | [1] Miettinen 2002 | Table IV, p. 6, row 6 |  |
 | 1030.15 | Bcc-γ-liquid | Bcc: Sn 0.152; γ: Sn 0.167; L: Sn 0.21 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 5 |  |
 | 1028.15 | Bcc-γ-liquid | Bcc: Sn 0.158; γ: Sn 0.165; L: Sn 0.191 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 4 |  |
-| 1028 | Peritectic: β + L \<-> γ | β: Sn 0.158; L: Sn 0.191; γ: Sn 0.165 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 4 |  |
-| 922 | Metatectic: γ \<-> ε + L | γ: Sn 0.29; ε: Sn 0.259; L: Sn 0.431 | experimental | [2] Li 2013 | Table 2, p. 6, row 10 |  |
-| 921 | Metatectic: γ \<-> ε + L | γ: Sn 0.276; ε: Sn 0.25; L: Sn 0.413 | model | [2] Li 2013 | Table 2, p. 6, row 11 |  |
-| 914 | Peritectoid: γ + ε \<-> ζ | γ: Sn 0.22; ε: Sn 0.245; ζ: Sn 0.226 | experimental | [2] Li 2013 | Table 2, p. 6, row 13 |  |
-| 914 | Peritectoid: γ + ε \<-> ζ | γ: Sn 0.219; ε: Sn 0.25; ζ: Sn 0.231 | model | [2] Li 2013 | Table 2, p. 6, row 14 |  |
+| 1028 | peritectic: β + L \<-> γ | β: Sn 0.158; L: Sn 0.191; γ: Sn 0.165 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 4 |  |
+| 922 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.29; ε: Sn 0.259; L: Sn 0.431 | experimental | [2] Li 2013 | Table 2, p. 6, row 10 |  |
+| 921 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.276; ε: Sn 0.25; L: Sn 0.413 | model | [2] Li 2013 | Table 2, p. 6, row 11 |  |
+| 914 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.22; ε: Sn 0.245; ζ: Sn 0.226 | experimental | [2] Li 2013 | Table 2, p. 6, row 13 |  |
+| 914 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.219; ε: Sn 0.25; ζ: Sn 0.231 | model | [2] Li 2013 | Table 2, p. 6, row 14 |  |
 | 913.15 | γ-ε-liquid | γ: Sn 0.259; ε: Sn 0.279; L: Sn 0.431 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 13 |  |
 | 913.15 | γ-ζ-ε | γ: Sn 0.218; ζ: Sn 0.225; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 10 |  |
 | 913.15 | γ-ζ-ε | γ: Sn 0.219; ζ: Sn 0.231; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 12 |  |
 | 913.15 | γ-ζ-ε | γ: Sn 0.217; ζ: Sn 0.231; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 11 |  |
-| 913 | Peritectoid: γ + ε \<-> ζ | γ: Sn 0.218; ε: Sn 0.245; ζ: Sn 0.225 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 12 |  |
-| 913 | Metatectic: γ \<-> ε + L | γ: Sn 0.279; ε: Sn 0.259; L: Sn 0.431 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 9 |  |
+| 913 | peritectoid: γ + ε \<-> ζ | γ: Sn 0.218; ε: Sn 0.245; ζ: Sn 0.225 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 12 |  |
+| 913 | metatectic/catatectic: γ \<-> ε + L | γ: Sn 0.279; ε: Sn 0.259; L: Sn 0.431 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 9 |  |
 | 912.15 | γ-ε-liquid | γ: Sn 0.25; ε: Sn 0.279; L: Sn 0.41 | model | [1] Miettinen 2002 | Table IV, p. 6, row 15 |  |
 | 912.15 | γ-ε-liquid | γ: Sn 0.25; ε: Sn 0.282; L: Sn 0.425 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 14 |  |
-| 892 | Eutectoid: β \<-> α + γ |  | model | [2] Li 2013 | Table 2, p. 6, row 20 |  |
-| 876 | Peritectoid: γ + ζ \<-> δ | γ: Sn 0.203; ζ: Sn 0.216; δ: Sn 0.205 | experimental | [2] Li 2013 | Table 2, p. 6, row 16 |  |
-| 874 | Peritectoid: γ + ζ \<-> δ | γ: Sn 0.2; ζ: Sn 0.231; δ: Sn 0.212 | model | [2] Li 2013 | Table 2, p. 6, row 17 |  |
+| 892 | eutectoid: β \<-> α + γ |  | model | [2] Li 2013 | Table 2, p. 6, row 20 |  |
+| 876 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.203; ζ: Sn 0.216; δ: Sn 0.205 | experimental | [2] Li 2013 | Table 2, p. 6, row 16 |  |
+| 874 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.2; ζ: Sn 0.231; δ: Sn 0.212 | model | [2] Li 2013 | Table 2, p. 6, row 17 |  |
 | 863.15 | γ-δ-ζ | γ: Sn 0.198; δ: Sn 0.203; ζ: Sn 0.209 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 16 |  |
 | 863.15 | γ-δ-ζ | γ: Sn 0.197; δ: Sn 0.211; ζ: Sn 0.225 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 17 |  |
-| 863 | Peritectoid: γ + ζ \<-> δ | γ: Sn 0.198; ζ: Sn 0.209; δ: Sn 0.203 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 15 |  |
-| 862 | Eutectoid: ζ \<-> δ + ε | ζ: Sn 0.243; δ: Sn 0.21; ε: Sn 0.245 | experimental | [2] Li 2013 | Table 2, p. 6, row 22 |  |
-| 862 | Eutectoid: ζ \<-> δ + ε | ζ: Sn 0.231; δ: Sn 0.212; ε: Sn 0.25 | model | [2] Li 2013 | Table 2, p. 6, row 23 |  |
+| 863 | peritectoid: γ + ζ \<-> δ | γ: Sn 0.198; ζ: Sn 0.209; δ: Sn 0.203 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 15 |  |
+| 862 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.243; δ: Sn 0.21; ε: Sn 0.245 | experimental | [2] Li 2013 | Table 2, p. 6, row 22 |  |
+| 862 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.231; δ: Sn 0.212; ε: Sn 0.25 | model | [2] Li 2013 | Table 2, p. 6, row 23 |  |
 | 859.15 | Fcc-bcc-γ | Fcc: Sn 0.091; bcc: Sn 0.149; γ: Sn 0.154 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 19 |  |
 | 859.15 | Fcc-bcc-γ | Fcc: Sn 0.089; bcc: Sn 0.144; γ: Sn 0.16 | model | [1] Miettinen 2002 | Table IV, p. 6, row 21 |  |
 | 859.15 | γ-δ-ζ | γ: Sn 0.196; δ: Sn 0.211; ζ: Sn 0.225 | model | [1] Miettinen 2002 | Table IV, p. 6, row 18 |  |
 | 859.15 | Fcc-bcc-γ | Fcc: Sn 0.089; bcc: Sn 0.144; γ: Sn 0.159 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 20 |  |
-| 859 | Eutectoid: β \<-> α + γ | β: Sn 0.149; α: Sn 0.091; γ: Sn 0.16 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 18 |  |
+| 859 | eutectoid: β \<-> α + γ | β: Sn 0.149; α: Sn 0.091; γ: Sn 0.16 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 18 |  |
 | 856.15 | δ-ζ-ε | δ: Sn 0.211; ζ: Sn 0.225; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 24 |  |
 | 856.15 | δ-ζ-ε | δ: Sn 0.211; ζ: Sn 0.225; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 23 |  |
 | 855.15 | δ-ζ-ε | δ: Sn 0.208; ζ: Sn 0.217; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 22 |  |
-| 855 | Eutectoid: ζ \<-> δ + ε | ζ: Sn 0.217; δ: Sn 0.208; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 21 |  |
-| 839 | Eutectoid: β \<-> α + γ | β: Sn 0.165; α: Sn 0.091; γ: Sn 0.165 | experimental | [2] Li 2013 | Table 2, p. 6, row 19 |  |
+| 855 | eutectoid: ζ \<-> δ + ε | ζ: Sn 0.217; δ: Sn 0.208; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 21 |  |
+| 839 | eutectoid: β \<-> α + γ | β: Sn 0.165; α: Sn 0.091; γ: Sn 0.165 | experimental | [2] Li 2013 | Table 2, p. 6, row 19 |  |
 | 793.15 | Fcc-γ-δ | Fcc: Sn 0.087; γ: Sn 0.168; δ: Sn 0.211 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 26 |  |
 | 793.15 | Fcc-γ-δ | Fcc: Sn 0.087; γ: Sn 0.165; δ: Sn 0.211 | model | [1] Miettinen 2002 | Table IV, p. 6, row 27 |  |
 | 793.15 | Fcc-γ-δ | Fcc: Sn 0.091; γ: Sn 0.165; δ: Sn 0.204 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 25 |  |
-| 793 | Eutectoid: γ \<-> α + δ | γ: Sn 0.165; α: Sn 0.091; δ: Sn 0.204 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 24 |  |
-| 791 | Eutectoid: γ \<-> α + δ | γ: Sn 0.17; α: Sn 0.091; δ: Sn 0.212 | model | [2] Li 2013 | Table 2, p. 6, row 26 |  |
-| 791 | Eutectoid: γ \<-> α + δ | γ: Sn 0.175; α: Sn 0.091; δ: Sn 0.206 | experimental | [2] Li 2013 | Table 2, p. 6, row 25 |  |
+| 793 | eutectoid: γ \<-> α + δ | γ: Sn 0.165; α: Sn 0.091; δ: Sn 0.204 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 24 |  |
+| 791 | eutectoid: γ \<-> α + δ | γ: Sn 0.17; α: Sn 0.091; δ: Sn 0.212 | model | [2] Li 2013 | Table 2, p. 6, row 26 |  |
+| 791 | eutectoid: γ \<-> α + δ | γ: Sn 0.175; α: Sn 0.091; δ: Sn 0.206 | experimental | [2] Li 2013 | Table 2, p. 6, row 25 |  |
 | 688.15 | Liquid-ε-η | L: Sn 0.869; ε: Sn 0.25; η: Sn 0.455 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 29 |  |
 | 688.15 | Liquid-ε-η | L: Sn 0.873; ε: Sn 0.25; η: Sn 0.455 | model | [1] Miettinen 2002 | Table IV, p. 6, row 30 |  |
 | 688.15 | Liquid-ε-η | L: Sn 0.867; ε: Sn 0.249; η: Sn 0.435 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 28 |  |
-| 688 | Peritectoid: ε + L \<-> η | ε: Sn 0.249; L: Sn 0.867; η: Sn 0.435 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 27 |  |
-| 685 | Peritectoid: ε + L \<-> η | ε: Sn 0.25; L: Sn 0.868; η: Sn 0.455 | model | [2] Li 2013 | Table 2, p. 6, row 29 |  |
-| 681 | Peritectoid: ε + L \<-> η | ε: Sn 0.253; L: Sn 0.867; η: Sn 0.446 | experimental | [2] Li 2013 | Table 2, p. 6, row 28 |  |
-| 625 | Eutectoid: δ \<-> α + ε | δ: Sn 0.212; α: Sn 0.062; ε: Sn 0.25 | model | [2] Li 2013 | Table 2, p. 6, row 31 |  |
+| 688 | peritectoid: ε + L \<-> η | ε: Sn 0.249; L: Sn 0.867; η: Sn 0.435 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 27 |  |
+| 685 | peritectoid: ε + L \<-> η | ε: Sn 0.25; L: Sn 0.868; η: Sn 0.455 | model | [2] Li 2013 | Table 2, p. 6, row 29 |  |
+| 681 | peritectoid: ε + L \<-> η | ε: Sn 0.253; L: Sn 0.867; η: Sn 0.446 | experimental | [2] Li 2013 | Table 2, p. 6, row 28 |  |
+| 625 | eutectoid: δ \<-> α + ε | δ: Sn 0.212; α: Sn 0.062; ε: Sn 0.25 | model | [2] Li 2013 | Table 2, p. 6, row 31 |  |
 | 623.15 | Fcc-δ-ε | Fcc: Sn 0.056; δ: Sn 0.211; ε: Sn 0.25 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 32 |  |
 | 623.15 | Fcc-δ-ε | Fcc: Sn 0.056; δ: Sn 0.211; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 33 |  |
 | 623.15 | Fcc-δ-ε | Fcc: Sn 0.062; δ: Sn 0.205; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 31 |  |
-| 623 | Eutectoid: δ \<-> α + ε | δ: Sn 0.205; α: Sn 0.062; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 30 |  |
-| 500.15 | eutectic |  | model | [3] Moon 2000; _cites Massalski 1990_ | p. 10 | “Various evaluations of the experimental data of the Cu-Sn binary system agree on the temperature (227°C) for the Sn-rich eutectic but give two different compositions: 0.9 wt.% Cu and 0.7 wt.% Cu in the two editions of Binary Alloy Phase Diagrams.19” |
+| 623 | eutectoid: δ \<-> α + ε | δ: Sn 0.205; α: Sn 0.062; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 30 |  |
 | 500.15 | eutectic |  | model | [3] Moon 2000; _cites Massalski 1990_ | p. 10 | “Various evaluations of the experimental data of the Cu-Sn binary system agree on the temperature (227°C) for the Sn-rich eutectic but give two different compositions: 0.9 wt.% Cu and 0.7 wt.% Cu in the two editions of Binary Alloy Phase Diagrams.19” |
 | 500.15 | Liquid-η-Sn | L: Sn 0.983; η: Sn 0.455; Sn: Sn 1 | model | [1] Miettinen 2002 | Table IV, p. 6, row 36 |  |
 | 500.15 | Liquid-η-Sn | L: Sn 0.987; η: Sn 0.455; Sn: Sn 1 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 34 |  |
 | 500.15 | Liquid-η-Sn | L: Sn 0.984; η: Sn 0.455; Sn: Sn 1 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 35 |  |
-| 500 | Eutectic: L \<-> η + (Sn) | L: Sn 0.987; η: Sn 0.455; (Sn): Sn 1 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 32 |  |
-| 498 | Eutectic: L \<-> η + (Sn) | L: Sn 0.979; η: Sn 0.455; (Sn): Sn 0.999 | model | [2] Li 2013 | Table 2, p. 6, row 33 |  |
-| 462 | Peritectoid: ε + η \<-> η' | η: Sn 0.454545; η': Sn 0.455 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 34 |  |
-| 461 | Peritectoid: ε + η \<-> η' | ε: Sn 0.25; η: Sn 0.455; η': Sn 0.454 | model | [2] Li 2013 | Table 2, p. 6, row 35 |  |
-| 461 | Eutectoid: η \<-> η' + (Sn) | η: Sn 0.454545; η': Sn 0.455 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 36 |  |
-| 459 | Eutectoid: η \<-> η' + (Sn) | η: Sn 0.455; η': Sn 0.455; (Sn): Sn 1 | model | [2] Li 2013 | Table 2, p. 6, row 37 |  |
+| 500 | eutectic: L \<-> η + (Sn) | L: Sn 0.987; η: Sn 0.455; (Sn): Sn 1 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 32 |  |
+| 498 | eutectic: L \<-> η + (Sn) | L: Sn 0.979; η: Sn 0.455; (Sn): Sn 0.999 | model | [2] Li 2013 | Table 2, p. 6, row 33 |  |
+| 462 | peritectoid: ε + η \<-> η' | η: Sn 0.454545; η': Sn 0.455 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 34 |  |
+| 461 | peritectoid: ε + η \<-> η' | ε: Sn 0.25; η: Sn 0.455; η': Sn 0.454 | model | [2] Li 2013 | Table 2, p. 6, row 35 |  |
+| 461 | eutectoid: η \<-> η' + (Sn) | η: Sn 0.454545; η': Sn 0.455 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 36 |  |
+| 459 | eutectoid: η \<-> η' + (Sn) | η: Sn 0.455; η': Sn 0.455; (Sn): Sn 1 | model | [2] Li 2013 | Table 2, p. 6, row 37 |  |
 
 ## Formation enthalpies
 
@@ -361,13 +360,13 @@ Table: Phase transition, Cu–Sn system
 | Phase transition | 922.15 K | 922.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 7 |  |
 | Phase transition | 923.15 K | 923.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 16 |  |
 | Phase transition | 941.15 K | 941.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002 | Table IV, p. 6, row 9 |  |
-| Phase transition | 945 K | 945 | Congruent: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013 | Table 2, p. 6, row 8 |  |
-| Phase transition | 949 K | 949 | Congruent: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 7 |  |
+| Phase transition | 945 K | 945 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013 | Table 2, p. 6, row 8 |  |
+| Phase transition | 949 K | 949 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 7 |  |
 | Phase transition | 949.15 K | 949.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 7 |  |
 | Phase transition | 950.15 K | 950.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 8 |  |
 | Phase transition | 972.15 K | 972.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 11 |  |
 | Phase transition | 984.15 K | 984.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 15 |  |
-| Phase transition | 1000 K | 1000 | liquidus | experimental | [2] Li 2013 | p. 6 | “The experimentally determined liquidus curve has a kink at approximately 1000 K, which could not be reproduced in the current optimization.” |
+| Phase transition | 1000 K | 1000 | other | experimental | [2] Li 2013 | p. 6 | “The experimentally determined liquidus curve has a kink at approximately 1000 K, which could not be reproduced in the current optimization.” |
 | Phase transition | 1013.15 K | 1013.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 17 |  |
 | Phase transition | 1038.15 K | 1038.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 14 |  |
 | Phase transition | 1063.15 K | 1063.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 10 |  |

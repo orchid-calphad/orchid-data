@@ -1,20 +1,19 @@
 # EuNi: enthalpy of formation
 
-> Enthalpy of formation of EuNi: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of EuNi: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/EuNi.html · Markdown: https://data.orchid-project.org/compounds/EuNi.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); OQMD -30.347 kJ/mol-atom (oqmd-1366256).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); OQMD -30.347 kJ/mol-atom (oqmd-1366256).
 
 Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of EuNi reported in the literature (4)
+Table: Enthalpy of formation of EuNi reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -13 kJ/mol (basis unstated) | NiEu | 298.15 | experimental | Calorimetry | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 9 |  |
 | -13 kJ/mol (basis unstated) | NiEu | 298.15 | experimental | Calorimetry | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 9 |  |
 | -16.22 kJ/mol (basis unstated) | NiEu |  | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
 | -16.22 kJ/mol-atom | NiEu | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 14 |  |

@@ -1,20 +1,19 @@
 # Si3Ti: enthalpy of formation
 
-> Enthalpy of formation of Si3Ti: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Si3Ti: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Si3Ti.html · Markdown: https://data.orchid-project.org/compounds/Si3Ti.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Si3Ti reported in the literature (2)
+Table: Enthalpy of formation of Si3Ti reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4.51 kJ/mol-atom | Si3Ti(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
 | -4.51 kJ/mol-atom | Si3Ti(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
 
 ## Sources

@@ -54,7 +54,7 @@ Table: Invariant reactions reported in the literature for the Ti–W system (9)
 |---:|---|---|---|---|---|---|
 | 1033.15 | monotectoid: bcc -> hcp -> bcc |  | experimental | [1] Jin 1993; _cites s 1971_ | Table 2, p. 6, row 4 |  |
 | 1030.15 | monotectoid: bcc -> hcp -> bcc | bcc: W 0.76; hcp: W 0.009 | model | [1] Jin 1993; _cites KAUFMAN 1975_ | Table 2, p. 6, row 6 |  |
-| 1019.5 | Monotectoid: hcp-A3 bcc-A2' -> bcc-A2" | hcp-A3: W 0.002; bcc-A2': W 0.645; bcc-A2": W 0.095 | model | [2] Hämäläinen 1998 | Table I, p. 318, row 1 |  |
+| 1019.5 | monotectoid: hcp-A3 bcc-A2' -> bcc-A2" | hcp-A3: W 0.002; bcc-A2': W 0.645; bcc-A2": W 0.095 | model | [2] Hämäläinen 1998 | Table I, p. 318, row 1 |  |
 | 1013.15 | monotectoid: bcc -> hcp -> bcc | bcc: W 0.6403; hcp: W 0.002 | model | [1] Jin 1993 | Table 2, p. 6, row 12 |  |
 | 1010.15 | monotectoid: bcc -> hcp -> bcc | bcc: W 0.72; hcp: W 0.002 | model | [1] Jin 1993; _cites MURRAY 1981_ | Table 2, p. 6, row 8 |  |
 | 1008.15 | monotectoid: bcc -> hcp -> bcc | bcc: W 0.723; hcp: W 7.000e-4 | model | [1] Jin 1993; _cites s 1985_ | Table 2, p. 6, row 10 |  |

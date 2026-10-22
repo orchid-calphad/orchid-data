@@ -29,27 +29,27 @@ Table: Invariant reactions reported in the literature for the Al–Li–Zn syste
 |---:|---|---|---|---|---|---|
 | 853 | other: liq. + AlLi + τ1 |  | model | [1] Guo 2011 | Table 2, p. 10, row 1 |  |
 | 853 | other: liq. + AlLi + τ1 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 2 |  |
-| 833 | U: liq. + AlLi -> τ1 + fcc |  | model | [1] Guo 2011 | Table 2, p. 10, row 7 |  |
+| 833 | quasi-peritectic: liq. + AlLi -> τ1 + fcc |  | model | [1] Guo 2011 | Table 2, p. 10, row 7 |  |
 | 763 | other: liq. + τ1 + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 3 |  |
 | 763 | other: liq. + τ1 + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 4 |  |
 | 754 | other: liq. + τ1 + βLi2Zn3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 5 |  |
-| 743 | U: liq. + βLi2Zn3 -> τ1 + βLi2Zn5 |  | model | [1] Guo 2011 | Table 2, p. 10, row 9 |  |
-| 737 | U: liq. + τ1 -> fcc + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 10 |  |
-| 735 | U: liq. + τ1 -> τ3 + βLi2Zn5 |  | model | [1] Guo 2011 | Table 2, p. 10, row 12 |  |
-| 734 | U: liq. + τ1 -> AlLi + βLi2Zn3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 14 |  |
-| 729 | U: liq. + βLi2Zn5 -> τ3 + βLiZn4 |  | model | [1] Guo 2011 | Table 2, p. 10, row 13 |  |
-| 725 | U: liq. + AlLi -> τ1 + fcc |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 8 |  |
-| 696 | P: liq. + AlLi + βLi2Zn3 -> τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 20 |  |
+| 743 | quasi-peritectic: liq. + βLi2Zn3 -> τ1 + βLi2Zn5 |  | model | [1] Guo 2011 | Table 2, p. 10, row 9 |  |
+| 737 | quasi-peritectic: liq. + τ1 -> fcc + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 10 |  |
+| 735 | quasi-peritectic: liq. + τ1 -> τ3 + βLi2Zn5 |  | model | [1] Guo 2011 | Table 2, p. 10, row 12 |  |
+| 734 | quasi-peritectic: liq. + τ1 -> AlLi + βLi2Zn3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 14 |  |
+| 729 | quasi-peritectic: liq. + βLi2Zn5 -> τ3 + βLiZn4 |  | model | [1] Guo 2011 | Table 2, p. 10, row 13 |  |
+| 725 | quasi-peritectic: liq. + AlLi -> τ1 + fcc |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 8 |  |
+| 696 | peritectic: liq. + AlLi + βLi2Zn3 -> τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 20 |  |
 | 666 | other: liq. + hcp + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 6 |  |
-| 665 | E: liq. -> τ3 + hcp + βLiZn4 |  | model | [1] Guo 2011 | Table 2, p. 10, row 15 |  |
-| 641 | E: liq. -> hcp + fcc + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 16 |  |
-| 641 | U: liq. + τ1 -> fcc + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 11 |  |
-| 637 | E: liq. -> hcp + fcc + τ3 |  | experimental | [1] Guo 2011; _cites Weisse 1942_ | Table 2, p. 10, row 17 |  |
-| 628 | E: liq. -> hcp + fcc + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 18 |  |
-| 594 | U: liq. + Al2Li3 -> Al4Li9 + AlLi |  | model | [1] Guo 2011 | Table 2, p. 10, row 19 |  |
-| 459 | U: liq. + AlLi -> bcc + Al4Li9 |  | model | [1] Guo 2011 | Table 2, p. 10, row 21 |  |
-| 442 | U: liq. + Al4Li9 -> bcc + τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 22 |  |
-| 435 | E: liq. -> bcc + βLi2Zn3 + τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 23 |  |
+| 665 | eutectic: liq. -> τ3 + hcp + βLiZn4 |  | model | [1] Guo 2011 | Table 2, p. 10, row 15 |  |
+| 641 | eutectic: liq. -> hcp + fcc + τ3 |  | model | [1] Guo 2011 | Table 2, p. 10, row 16 |  |
+| 641 | quasi-peritectic: liq. + τ1 -> fcc + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 11 |  |
+| 637 | eutectic: liq. -> hcp + fcc + τ3 |  | experimental | [1] Guo 2011; _cites Weisse 1942_ | Table 2, p. 10, row 17 |  |
+| 628 | eutectic: liq. -> hcp + fcc + τ3 |  | experimental | [1] Guo 2011; _cites Badaeva 1943_ | Table 2, p. 10, row 18 |  |
+| 594 | quasi-peritectic: liq. + Al2Li3 -> Al4Li9 + AlLi |  | model | [1] Guo 2011 | Table 2, p. 10, row 19 |  |
+| 459 | quasi-peritectic: liq. + AlLi -> bcc + Al4Li9 |  | model | [1] Guo 2011 | Table 2, p. 10, row 21 |  |
+| 442 | quasi-peritectic: liq. + Al4Li9 -> bcc + τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 22 |  |
+| 435 | eutectic: liq. -> bcc + βLi2Zn3 + τ2 |  | model | [1] Guo 2011 | Table 2, p. 10, row 23 |  |
 
 ## Sources
 

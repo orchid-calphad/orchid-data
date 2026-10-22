@@ -73,7 +73,7 @@ Table: Phase transition, H–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 573.15 K | 573.15 (none) | bcc -> hcp + fcc | experimental | [3] Kivilahti 1987 | p. 1 | “At the temperature of about 300 'C the bee (8) phase containing 38 at% hydrogen decomposes into the hcp (a) phase and fee (y) conjugate solution phases, the equilibrium compositions of which were estimated to be approximately 8 and 47 at%, respectively.” |
+| Phase transition | 573.15 K | 573.15 | bcc -> hcp + fcc | experimental | [3] Kivilahti 1987 | p. 1 | “At the temperature of about 300 'C the bee (8) phase containing 38 at% hydrogen decomposes into the hcp (a) phase and fee (y) conjugate solution phases, the equilibrium compositions of which were estimated to be approximately 8 and 47 at%, respectively.” |
 | Phase transition | 1155 K | 1155 |  | experimental | [3] Kivilahti 1987 | p. 6 | “Using the equation oGbcc + 2.010-3T2 - 1.367\*10-73f400T-'(9) Ti - 'GFcp= 6082 - 4.902T - 0.35trTlnT for the difference between the chemical potentials of the bee and hcp titanium (281, being based also on recent experimental heat capacity and enthalpy data, and the above functions the o and 13solvi can be calculated near the transformation temperature (1155 K) of pure titanium.” |
 
 ### Formation (2)

@@ -123,17 +123,17 @@ Table: Invariant reactions reported in the literature for the Al–Li system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 978 | Congruent: AlLi -> Liquid | AlLi: Li 0.5; Liquid: Li 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 5 |  |
+| 978 | congruent melting: AlLi -> Liquid | AlLi: Li 0.5; Liquid: Li 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 5 |  |
 | 876 | L ↔ fcc(Al) + AlLi | L: Li 0.238; fcc(Al): Li 0.131; AlLi: Li 0.456 | model | [2] Long 2020 | Table 3, p. 5, row 10 |  |
 | 876 | L ↔ fcc(Al) + AlLi | L: Li 0.238; fcc(Al): Li 0.131; AlLi: Li 0.456 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 9 |  |
 | 875 | L ↔ fcc(Al) + AlLi | L: Li 0.252; fcc(Al): Li 0.138; AlLi: Li 0.475 | experimental | [2] Long 2020; _cites Schurmann 1981_ | Table 3, p. 5, row 8 |  |
 | 873 | L ↔ fcc(Al) + AlLi | AlLi: Li 0.5 | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 7 |  |
 | 873 | L ↔ fcc(Al) + AlLi | L: Li 0.3; fcc(Al): Li 0.18; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Grube 1935_ | Table 3, p. 5, row 5 |  |
 | 871 | L ↔ fcc(Al) + AlLi | L: Li 0.26; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Shamray 1937_ | Table 3, p. 5, row 6 |  |
-| 868.8 | Eutectic: Liquid -> fcc-Al + AlLi | Liquid: Li 0.256; fcc-Al: Li 0.155; AlLi: Li 0.462; fcc-A1: Li 0.155 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 1 |  |
+| 868.8 | eutectic: Liquid -> fcc-Al + AlLi | Liquid: Li 0.256; fcc-Al: Li 0.155; AlLi: Li 0.462; fcc-A1: Li 0.155 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 1 |  |
 | 863 | L ↔ fcc(Al) + AlLi | L: Li 0.234; fcc(Al): Li 0.124; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Muller 1926_ | Table 3, p. 5, row 4 |  |
 | 794 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.56; L: Li 0.78; Al2Li3: Li 0.667 | experimental | [2] Long 2020; _cites Grube 1935_ | Table 3, p. 5, row 11 |  |
-| 793.6 | Peritectic: Liquid + AlLi -> Al2Li3 | Liquid: Li 0.775; AlLi: Li 0.555; Al2Li3: Li 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 2 |  |
+| 793.6 | peritectic: Liquid + AlLi -> Al2Li3 | Liquid: Li 0.775; AlLi: Li 0.555; Al2Li3: Li 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 2 |  |
 | 793 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.567; L: Li 0.745; Al2Li3: Li 0.6 | model | [2] Long 2020 | Table 3, p. 5, row 16 |  |
 | 793 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.7; Al2Li3: Li 0.6 | experimental | [2] Long 2020; _cites Shamray 1937_ | Table 3, p. 5, row 12 |  |
 | 793 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.567; L: Li 0.745; Al2Li3: Li 0.6 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 15 |  |
@@ -146,14 +146,14 @@ Table: Invariant reactions reported in the literature for the Al–Li system (31
 | 608 | Al2Li3 + L ↔ AlLi2 | Al2Li3: Li 0.6; L: Li 0.913; AlLi2: Li 0.651 | model | [2] Long 2020 | Table 3, p. 5, row 26 |  |
 | 608 | Al2Li3 + L ↔ AlLi2 | Al2Li3: Li 0.6; L: Li 0.895; AlLi2: Li 0.642 | experimental | [2] Long 2020; _cites Puhakainen 2010_ [doi](https://doi.org/10.1016/j.jssc.2010.08.029) | Table 3, p. 5, row 25 |  |
 | 608 | peritectic: Al2Li3 + liquid -> AlLi2 |  | experimental | [2] Long 2020; _cites Puhakainen 2010_ [doi](https://doi.org/10.1016/j.jssc.2010.08.029) | p. 4 | “AlLi2 is formed by a peritectic reaction of Al2Li3 with liquid at about 608 K.” |
-| 607.6 | Peritectic: Liquid + Al2Li3 -> Al4Li9 | Liquid: Li 0.912; Al2Li3: Li 0.6; Al4Li9: Li 0.692 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 3 |  |
+| 607.6 | peritectic: Liquid + Al2Li3 -> Al4Li9 | Liquid: Li 0.912; Al2Li3: Li 0.6; Al4Li9: Li 0.692 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 3 |  |
 | 545 | L + AlLi2 ↔ Al4Li9 | L: Li 0.963; AlLi2: Li 0.658; Al4Li9: Li 0.692 | model | [2] Long 2020 | Table 3, p. 5, row 28 |  |
 | 543 | L + AlLi2 ↔ Al4Li9 | L: Li 0.95; AlLi2: Li 0.663; Al4Li9: Li 0.692 | experimental | [2] Long 2020; _cites Puhakainen 2010_ [doi](https://doi.org/10.1016/j.jssc.2010.08.029) | Table 3, p. 5, row 27 |  |
 | 453.6 | L + Al4Li9 ↔ bcc(Li) | Al4Li9: Li 0.692; bcc(Li): Li 0.994 | experimental | [2] Long 2020; _cites Pulham 1994_ [doi](https://doi.org/10.1007/bf02647619) | Table 3, p. 5, row 22 |  |
 | 453 | L + Al4Li9 ↔ bcc(Li) | Al4Li9: Li 0.692 | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 21 |  |
 | 452.3 | L + Al4Li9 ↔ bcc(Li) | L: Li 0.9957; Al4Li9: Li 0.692; bcc(Li): Li 0.9932 | model | [2] Long 2020 | Table 3, p. 5, row 24 |  |
 | 452.3 | L + Al4Li9 ↔ bcc(Li) | L: Li 0.9957; Al4Li9: Li 0.692; bcc(Li): Li 0.9932 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 23 |  |
-| 447.8 | Eutectic: Liquid -> Al4Li9 + bcc-A2 | Liquid: Li 0.989; Al4Li9: Li 0.692; bcc-A2: Li 0.999 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 4 |  |
+| 447.8 | eutectic: Liquid -> Al4Li9 + bcc-A2 | Liquid: Li 0.989; Al4Li9: Li 0.692; bcc-A2: Li 0.999 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 4 |  |
 
 ## Other properties
 

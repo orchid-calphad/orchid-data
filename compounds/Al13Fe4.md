@@ -1,22 +1,20 @@
 # Al13Fe4: enthalpy of formation
 
-> Enthalpy of formation of Al13Fe4: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al13Fe4: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al13Fe4.html · Markdown: https://data.orchid-project.org/compounds/Al13Fe4.md
 
-4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -31.526 kJ/mol-atom (mp-aaacqllk); OQMD -31.902 kJ/mol-atom (oqmd-2050075).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -31.526 kJ/mol-atom (mp-aaacqllk); OQMD -31.902 kJ/mol-atom (oqmd-2050075).
 
 Systems: [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al13Fe4 reported in the literature (4)
+Table: Enthalpy of formation of Al13Fe4 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -22.8 kJ/mol-atom | θ-Al13Fe4 | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 11 |  |
-| -22.8 kJ/mol-atom | θ-Al13Fe4 | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 11 |  |
-| -21.77 kJ/mol-atom | θ-Al13Fe4 | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 10 |  |
 | -21.77 kJ/mol-atom | θ-Al13Fe4 | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 10 |  |
 
 ## DFT formation energies

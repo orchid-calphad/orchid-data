@@ -1,28 +1,24 @@
 # Pu2O3: enthalpy of formation
 
-> Enthalpy of formation of Pu2O3: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Pu2O3: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pu2O3.html · Markdown: https://data.orchid-project.org/compounds/Pu2O3.md
 
-10 accepted literature formation-enthalpy value(s) (model 10); Materials Project -337.031 kJ/mol-atom (mp-aaabkgqq); OQMD -350.52 kJ/mol-atom (oqmd-12710).
+6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -337.031 kJ/mol-atom (mp-aaabkgqq); OQMD -350.52 kJ/mol-atom (oqmd-12710).
 
 Systems: [O–Pu](https://data.orchid-project.org/systems/O-PU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pu2O3 reported in the literature (10)
+Table: Enthalpy of formation of Pu2O3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -337 kJ/mol-atom ± 25 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 5 |  |
-| -337 kJ/mol-atom ± 25 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 5 |  |
-| -334 kJ/mol-atom ± 20 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 6 |  |
 | -334 kJ/mol-atom ± 20 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 6 |  |
 | -331.24 kJ/mol-atom | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 1 |  |
 | -331.2 kJ/mol-atom | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Besmann 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990289-3) | Table 5, p. 12, row 3 |  |
 | -331.2 kJ/mol-atom ± 10 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
-| -331.2 kJ/mol-atom ± 10 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
-| -330.8 kJ/mol-atom ± 20 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 4 |  |
 | -330.8 kJ/mol-atom ± 20 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 4 |  |
 
 ## DFT formation energies

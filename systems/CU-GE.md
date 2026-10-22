@@ -62,20 +62,20 @@ Table: Invariant reactions reported in the literature for the Cu–Ge system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1097 | Peritectic: L + fcc \<-> hcp | L: Ge 0.18 | model | [1] Wang 2010 | Table 1, p. 2, row 2 |  |
-| 1097 | Peritectic: L + fcc \<-> hcp | L: Ge 0.175 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 1 |  |
-| 1021 | Eutectic: L \<-> hcp + ε-Cu0.765Ge0.235 | L: Ge 0.232; ε-Cu0.765Ge0.235: Ge 0.235 | model | [1] Wang 2010 | Table 1, p. 2, row 6 |  |
-| 1016 | Eutectic: L \<-> hcp + ε-Cu0.765Ge0.235 | L: Ge 0.219; ε-Cu0.765Ge0.235: Ge 0.235 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 5 |  |
-| 971 | Peritectic: L + ε-Cu0.765Ge0.235 \<-> θ-Cu0.735Ge0.265 | L: Ge 0.32; ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265 | model | [1] Wang 2010 | Table 1, p. 2, row 8 |  |
-| 971 | Peritectic: L + ε-Cu0.765Ge0.235 \<-> θ-Cu0.735Ge0.265 | L: Ge 0.303; ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 7 |  |
-| 948 | Peritectoid: ε-Cu0.765Ge0.235 + θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25 | model | [1] Wang 2010 | Table 1, p. 2, row 14 |  |
-| 917 | Eutectic: L \<-> θ-Cu0.735Ge0.265 + (Ge) | L: Ge 0.365; θ-Cu0.735Ge0.265: Ge 0.265; (Ge): Ge 1 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 9 |  |
-| 911 | Eutectic: L \<-> θ-Cu0.735Ge0.265 + (Ge) | L: Ge 0.389; θ-Cu0.735Ge0.265: Ge 0.265; (Ge): Ge 1 | model | [1] Wang 2010 | Table 1, p. 2, row 10 |  |
-| 909 | Peritectoid: ε-Cu0.765Ge0.235 + θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 13 |  |
-| 887 | Eutectoid: θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 + (Ge) | θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25; (Ge): Ge 1 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 15 |  |
-| 885 | Eutectoid: θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 + (Ge) | θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25; (Ge): Ge 1 | model | [1] Wang 2010 | Table 1, p. 2, row 16 |  |
-| 823 | Eutectoid: ε-Cu0.765Ge0.235 \<-> hcp + η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; η-Cu0.75Ge0.25: Ge 0.25 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 11 |  |
-| 822 | Eutectoid: ε-Cu0.765Ge0.235 \<-> hcp + η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; η-Cu0.75Ge0.25: Ge 0.25 | model | [1] Wang 2010 | Table 1, p. 2, row 12 |  |
+| 1097 | peritectic: L + fcc \<-> hcp | L: Ge 0.18 | model | [1] Wang 2010 | Table 1, p. 2, row 2 |  |
+| 1097 | peritectic: L + fcc \<-> hcp | L: Ge 0.175 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 1 |  |
+| 1021 | eutectic: L \<-> hcp + ε-Cu0.765Ge0.235 | L: Ge 0.232; ε-Cu0.765Ge0.235: Ge 0.235 | model | [1] Wang 2010 | Table 1, p. 2, row 6 |  |
+| 1016 | eutectic: L \<-> hcp + ε-Cu0.765Ge0.235 | L: Ge 0.219; ε-Cu0.765Ge0.235: Ge 0.235 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 5 |  |
+| 971 | peritectic: L + ε-Cu0.765Ge0.235 \<-> θ-Cu0.735Ge0.265 | L: Ge 0.32; ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265 | model | [1] Wang 2010 | Table 1, p. 2, row 8 |  |
+| 971 | peritectic: L + ε-Cu0.765Ge0.235 \<-> θ-Cu0.735Ge0.265 | L: Ge 0.303; ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 7 |  |
+| 948 | peritectoid: ε-Cu0.765Ge0.235 + θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25 | model | [1] Wang 2010 | Table 1, p. 2, row 14 |  |
+| 917 | eutectic: L \<-> θ-Cu0.735Ge0.265 + (Ge) | L: Ge 0.365; θ-Cu0.735Ge0.265: Ge 0.265; (Ge): Ge 1 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 9 |  |
+| 911 | eutectic: L \<-> θ-Cu0.735Ge0.265 + (Ge) | L: Ge 0.389; θ-Cu0.735Ge0.265: Ge 0.265; (Ge): Ge 1 | model | [1] Wang 2010 | Table 1, p. 2, row 10 |  |
+| 909 | peritectoid: ε-Cu0.765Ge0.235 + θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 13 |  |
+| 887 | eutectoid: θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 + (Ge) | θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25; (Ge): Ge 1 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 15 |  |
+| 885 | eutectoid: θ-Cu0.735Ge0.265 \<-> η-Cu0.75Ge0.25 + (Ge) | θ-Cu0.735Ge0.265: Ge 0.265; η-Cu0.75Ge0.25: Ge 0.25; (Ge): Ge 1 | model | [1] Wang 2010 | Table 1, p. 2, row 16 |  |
+| 823 | eutectoid: ε-Cu0.765Ge0.235 \<-> hcp + η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; η-Cu0.75Ge0.25: Ge 0.25 | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 11 |  |
+| 822 | eutectoid: ε-Cu0.765Ge0.235 \<-> hcp + η-Cu0.75Ge0.25 | ε-Cu0.765Ge0.235: Ge 0.235; η-Cu0.75Ge0.25: Ge 0.25 | model | [1] Wang 2010 | Table 1, p. 2, row 12 |  |
 
 ## Formation enthalpies
 
@@ -99,8 +99,8 @@ Table: Phase transition, Cu–Ge system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 909 K | 909 | other: ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 | experimental | [1] Wang 2010 | p. 6 | “Note here that the calculated temperature of transformation for the intermetallic compound (␩-Cu0.75 Ge0.25 ), ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 at 948 K, deviates significantly from the corresponding measured value (909 K).” |
 | Phase transition | 948 K | 948 | other: ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 | model | [1] Wang 2010 | p. 6 | “Note here that the calculated temperature of transformation for the intermetallic compound (␩-Cu0.75 Ge0.25 ), ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 at 948 K, deviates significantly from the corresponding measured value (909 K).” |
-| Phase transition | 1020 K | 1020 | Congruent: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.22; ε-Cu0.765Ge0.235: Ge 0.235_ | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 3 |  |
-| Phase transition | 1022 K | 1022 | Congruent: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.235; ε-Cu0.765Ge0.235: Ge 0.235_ | model | [1] Wang 2010 | Table 1, p. 2, row 4 |  |
+| Phase transition | 1020 K | 1020 | congruent melting: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.22; ε-Cu0.765Ge0.235: Ge 0.235_ | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 3 |  |
+| Phase transition | 1022 K | 1022 | congruent melting: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.235; ε-Cu0.765Ge0.235: Ge 0.235_ | model | [1] Wang 2010 | Table 1, p. 2, row 4 |  |
 
 ## Sources
 

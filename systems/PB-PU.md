@@ -71,23 +71,23 @@ Table: Invariant reactions reported in the literature for the Pb–Pu system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1658.15 | Congruent: L -> Pb4Pu5 | Pb4Pu5: Pb 0.444 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 5 |  |
-| 1658.15 | Congruent: L -> Pb4Pu5 | Pb4Pu5: Pb 0.444 | model | [1] Li 2010 | Table 5, p. 6, row 6 |  |
-| 1608.15 | Peritectic: L + Pb4Pu5 -> Pb3Pu5 | L: Pb 0.357; Pb4Pu5: Pb 0.444; Pb3Pu5: Pb 0.375 | model | [1] Li 2010 | Table 5, p. 6, row 4 |  |
-| 1606.15 | Peritectic: L + Pb4Pu5 -> Pb3Pu5 | L: Pb 0.255; Pb4Pu5: Pb 0.444; Pb3Pu5: Pb 0.375 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 3 |  |
-| 1462.15 | Peritectic: L + Pb4Pu5 -> Pb5Pu4 | L: Pb 0.606; Pb4Pu5: Pb 0.444; Pb5Pu4: Pb 0.582 | model | [1] Li 2010 | Table 5, p. 6, row 8 |  |
-| 1458.15 | Peritectic: L + Pb4Pu5 -> Pb5Pu4 | L: Pb 0.575; Pb4Pu5: Pb 0.444; Pb5Pu4: Pb 0.556 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 7 |  |
-| 1412.15 | Congruent: L -> PbPu3 | PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 14 |  |
-| 1411.15 | Congruent: L -> PbPu3 | PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 13 |  |
-| 1403.15 | Peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.671; Pb5Pu4: Pb 0.594; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 10 |  |
-| 1402.15 | Peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.672; Pb5Pu4: Pb 0.575; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 9 |  |
+| 1658.15 | congruent melting: L -> Pb4Pu5 | Pb4Pu5: Pb 0.444 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 5 |  |
+| 1658.15 | congruent melting: L -> Pb4Pu5 | Pb4Pu5: Pb 0.444 | model | [1] Li 2010 | Table 5, p. 6, row 6 |  |
+| 1608.15 | peritectic: L + Pb4Pu5 -> Pb3Pu5 | L: Pb 0.357; Pb4Pu5: Pb 0.444; Pb3Pu5: Pb 0.375 | model | [1] Li 2010 | Table 5, p. 6, row 4 |  |
+| 1606.15 | peritectic: L + Pb4Pu5 -> Pb3Pu5 | L: Pb 0.255; Pb4Pu5: Pb 0.444; Pb3Pu5: Pb 0.375 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 3 |  |
+| 1462.15 | peritectic: L + Pb4Pu5 -> Pb5Pu4 | L: Pb 0.606; Pb4Pu5: Pb 0.444; Pb5Pu4: Pb 0.582 | model | [1] Li 2010 | Table 5, p. 6, row 8 |  |
+| 1458.15 | peritectic: L + Pb4Pu5 -> Pb5Pu4 | L: Pb 0.575; Pb4Pu5: Pb 0.444; Pb5Pu4: Pb 0.556 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 7 |  |
+| 1412.15 | congruent melting: L -> PbPu3 | PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 14 |  |
+| 1411.15 | congruent melting: L -> PbPu3 | PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 13 |  |
+| 1403.15 | peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.671; Pb5Pu4: Pb 0.594; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 10 |  |
+| 1402.15 | peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.672; Pb5Pu4: Pb 0.575; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 9 |  |
 | 1402.15 | peritectic: L + Pb5Pu4 -> Pb2Pu |  | experimental | [1] Li 2010 | p. 4 | “The Pb2Pu compound has a solid-state transformation at 1106 °C and is formed at 1129 °C by a peritectic reaction, L + Pb5Pu4 M Pb2Pu.” |
-| 1397.15 | Eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.688; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 11 |  |
-| 1394.15 | Eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.701; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 12 |  |
-| 1381.15 | Allotropic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 16 |  |
-| 1379.15 | Allotropic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 15 |  |
-| 1171.15 | Peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.009; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | model | [1] Li 2010 | Table 5, p. 6, row 2 |  |
-| 1169.15 | Peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.005; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 1 |  |
+| 1397.15 | eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.688; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 11 |  |
+| 1394.15 | eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.701; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 12 |  |
+| 1381.15 | polymorphic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 16 |  |
+| 1379.15 | polymorphic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 15 |  |
+| 1171.15 | peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.009; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | model | [1] Li 2010 | Table 5, p. 6, row 2 |  |
+| 1169.15 | peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.005; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 1 |  |
 
 ## Other properties
 

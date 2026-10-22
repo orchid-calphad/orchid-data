@@ -1,10 +1,10 @@
 # Hf–Nb system
 
-> Hf–Nb system: 46 accepted literature values (crystal structure 30, formation 12, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Nb system: 38 accepted literature values (crystal structure 22, formation 12, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NB.html · Markdown: https://data.orchid-project.org/systems/HF-NB.md
 
-46 accepted literature values from 2 paper(s) (experimental 7, model 3, DFT 36); 2 calculated phase diagram(s).
+38 accepted literature values from 2 paper(s) (experimental 7, model 3, DFT 28); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NB.json) · [CSV](https://data.orchid-project.org/systems/HF-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-NB/HfNb-02Gho.json) · [Markdown](https://data.orchid-project.org/systems/HF-NB.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 7 |
 | model | 3 |
-| DFT | 36 |
+| DFT | 28 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 4 |
 | formation | 12 |
-| crystal structure | 30 |
+| crystal structure | 22 |
 
 ## Calculated phase diagrams
 
@@ -71,7 +71,7 @@ Table: Phase transition, Hf–Nb system
 | Phase transition | 2338 K | 2338 | other | experimental | [2] Guillermet 1996; _cites Kubaschewski-von 1981_ | p. 3 | “The most recent reviews of the phase diagram \[18,19\] propose similar values, viz, 42 at% Nb and 2338 K.” |
 | Phase transition | 2373 K | 2373 | other | model | [1] Ghosh 2002 | p. 11 | “For example, the solidus and liquidus boundaries determined by \[1964Sie\], The minimum melting point was reported to be: (i) \[ 1964Tay\], \[ 1964Tyl\], and \[1969Rud\] differ significantly. at 25 at. % and 2373 K \[1964Sie\], (ii) between 32.5 at'.% and 55 at.% and 2353\*25 K \[1964Tyl\], and (iii) at 42 at.% and 2353+10 K \[1969Rud\].” |
 
-### Crystal structure (30)
+### Crystal structure (22)
 
 Table: Crystal structure, Hf–Nb system
 
@@ -99,14 +99,6 @@ Table: Crystal structure, Hf–Nb system
 | Lattice c | 0.50395 nm | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
 | Lattice c | 0.50296 nm | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
 | Lattice c | 0.52551 nm | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 10 |  |
-| lattice lattice parameter a | 0.43243 nm | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
-| lattice lattice parameter a | 0.43761 nm | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 1 |  |
-| lattice lattice parameter a | 0.48073 nm | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
-| lattice lattice parameter a | 0.39047 nm | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
-| lattice lattice parameter a | 0.42543 nm | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 5 |  |
-| lattice lattice parameter c | 0.89507 nm | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
-| lattice lattice parameter c | 0.33818 nm | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
-| lattice lattice parameter c | 0.98884 nm | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
 
 ## Sources
 

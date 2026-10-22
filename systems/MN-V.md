@@ -52,7 +52,7 @@ Table: Phase transition, Mn–V system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1183 K | 1183 | @-a | experimental | [1] Huang 1991; _cites ref. 9_ | p. 4 | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
 | Phase transition | 1293 K | 1293 | &=pto | experimental | [1] Huang 1991; _cites ref. 8_ | p. 4 | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
-| Phase transition | 1323 K | 1323 | congruent | experimental | [1] Huang 1991; _cites ref. 9_ | p. 4 | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
+| Phase transition | 1323 K | 1323 | congruent transformation | experimental | [1] Huang 1991; _cites ref. 9_ | p. 4 | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
 | Phase transition | 1380 K | 1380 | yt6=p | experimental | [1] Huang 1991; _cites ref. 8_ | p. 4 | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
 
 ## Sources

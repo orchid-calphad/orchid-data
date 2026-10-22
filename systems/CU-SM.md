@@ -63,16 +63,16 @@ Table: Invariant reactions reported in the literature for the Cu–Sm system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1240 | Congruent: liq \<-> Cu6Sm | liq: Sm 0.143; Cu6Sm: Cu 0.857143, Sm 0.142857 | model | [1] Zhuang 1996 | Table 9, p. 12, row 2 |  |
-| 1196 | Peritectic: liq + Cu6Sm \<-> Cu5Sm | liq: Sm 0.243; Cu6Sm: Cu 0.857143, Sm 0.142857; Cu5Sm: Cu 0.833333, Sm 0.166667 | model | [1] Zhuang 1996 | Table 9, p. 12, row 3 |  |
-| 1190 | Catatectic: Sm(bcc) \<-> liq + Sm(rhomb) | liq: Sm 0.908 | model | [1] Zhuang 1996 | Table 9, p. 12, row 10 |  |
-| 1180 | Eutectic: liq \<-> Cu(fcc) + Cu6Sm | liq: Sm 0.081; Cu6Sm: Cu 0.857143, Sm 0.142857 | model | [1] Zhuang 1996 | Table 9, p. 12, row 1 |  |
-| 1153 | Peritectic: liq + Cu5Sm \<-> Cu4Sm | liq: Sm 0.249; Cu5Sm: Cu 0.833333, Sm 0.166667; Cu4Sm: Cu 0.8, Sm 0.2 | model | [1] Zhuang 1996 | Table 9, p. 12, row 4 |  |
-| 1128 | Congruent: liq \<-> Cu2Sm | liq: Sm 0.333; Cu2Sm: Cu 0.666667, Sm 0.333333 | model | [1] Zhuang 1996 | Table 9, p. 12, row 6 |  |
-| 1102 | Eutectic: liq \<-> Cu4Sm + Cu2Sm | liq: Sm 0.27; Cu4Sm: Cu 0.8, Sm 0.2; Cu2Sm: Cu 0.666667, Sm 0.333333 | model | [1] Zhuang 1996 | Table 9, p. 12, row 5 |  |
-| 1058 | Congruent: liq \<-> CuSm | liq: Sm 0.5; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 8 |  |
-| 1035 | Eutectic: liq \<-> Cu2Sm + CuSm | liq: Sm 0.443; Cu2Sm: Cu 0.666667, Sm 0.333333; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 7 |  |
-| 828 | Eutectic: liq \<-> CuSm + Sm(rhomb) | liq: Sm 0.718; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 9 |  |
+| 1240 | congruent melting: liq \<-> Cu6Sm | liq: Sm 0.143; Cu6Sm: Cu 0.857143, Sm 0.142857 | model | [1] Zhuang 1996 | Table 9, p. 12, row 2 |  |
+| 1196 | peritectic: liq + Cu6Sm \<-> Cu5Sm | liq: Sm 0.243; Cu6Sm: Cu 0.857143, Sm 0.142857; Cu5Sm: Cu 0.833333, Sm 0.166667 | model | [1] Zhuang 1996 | Table 9, p. 12, row 3 |  |
+| 1190 | metatectic/catatectic: Sm(bcc) \<-> liq + Sm(rhomb) | liq: Sm 0.908 | model | [1] Zhuang 1996 | Table 9, p. 12, row 10 |  |
+| 1180 | eutectic: liq \<-> Cu(fcc) + Cu6Sm | liq: Sm 0.081; Cu6Sm: Cu 0.857143, Sm 0.142857 | model | [1] Zhuang 1996 | Table 9, p. 12, row 1 |  |
+| 1153 | peritectic: liq + Cu5Sm \<-> Cu4Sm | liq: Sm 0.249; Cu5Sm: Cu 0.833333, Sm 0.166667; Cu4Sm: Cu 0.8, Sm 0.2 | model | [1] Zhuang 1996 | Table 9, p. 12, row 4 |  |
+| 1128 | congruent melting: liq \<-> Cu2Sm | liq: Sm 0.333; Cu2Sm: Cu 0.666667, Sm 0.333333 | model | [1] Zhuang 1996 | Table 9, p. 12, row 6 |  |
+| 1102 | eutectic: liq \<-> Cu4Sm + Cu2Sm | liq: Sm 0.27; Cu4Sm: Cu 0.8, Sm 0.2; Cu2Sm: Cu 0.666667, Sm 0.333333 | model | [1] Zhuang 1996 | Table 9, p. 12, row 5 |  |
+| 1058 | congruent melting: liq \<-> CuSm | liq: Sm 0.5; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 8 |  |
+| 1035 | eutectic: liq \<-> Cu2Sm + CuSm | liq: Sm 0.443; Cu2Sm: Cu 0.666667, Sm 0.333333; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 7 |  |
+| 828 | eutectic: liq \<-> CuSm + Sm(rhomb) | liq: Sm 0.718; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 9 |  |
 
 ## Sources
 

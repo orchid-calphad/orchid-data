@@ -49,16 +49,16 @@ Table: Phase transition, Mo–Ta system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1772 K | 1772 | other | model | [1] Turchi 2005 | p. 1 | “The critical order 共B2兲disorder 共A2兲 line exists below 1772 K with a maximum transition temperature around 47 at. % Ta.” |
 | Phase transition | 2896 K | 2896 |  | model | [2] Rajkumar 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1 | “The generally accepted melting points of Mo and Ta are reported to be 2896 and 3290 K \[5\].” |
-| Phase transition | 3022 K | 3022 | solidus: No. 3, Mo-20 at.% Ta; _alloy: Mo 0.8, Ta 0.2_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 5 |  |
-| Phase transition | 3027 K | 3027 | solidus: No. 2, Mo-10 at.% Ta; _alloy: Mo 0.9, Ta 0.1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 3 |  |
-| Phase transition | 3086 K | 3086 | solidus: No. 5, Mo-40 at.% Ta; _alloy: Mo 0.6, Ta 0.4_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 9 |  |
-| Phase transition | 3119 K | 3119 | solidus: No. 6, Mo-50 at.% Ta; _alloy: Mo 0.5, Ta 0.5_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 11 |  |
-| Phase transition | 3142 K | 3142 | solidus: No. 4, Mo-30 at.% Ta; _alloy: Mo 0.7, Ta 0.3_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 7 |  |
-| Phase transition | 3172 K | 3172 | solidus: No. 7, Mo-60 at.% Ta; _alloy: Mo 0.4, Ta 0.6_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 13 |  |
-| Phase transition | 3221 K | 3221 | solidus: No. 8, Mo-70 at.% Ta; _alloy: Mo 0.3, Ta 0.7_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 15 |  |
-| Phase transition | 3281 K | 3281 | solidus: No. 9, Mo-80 at.% Ta; _alloy: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 17 |  |
+| Phase transition | 3022 K | 3022 | other: No. 3, Mo-20 at.% Ta; _alloy: Mo 0.8, Ta 0.2_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 5 |  |
+| Phase transition | 3027 K | 3027 | other: No. 2, Mo-10 at.% Ta; _alloy: Mo 0.9, Ta 0.1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 3 |  |
+| Phase transition | 3086 K | 3086 | other: No. 5, Mo-40 at.% Ta; _alloy: Mo 0.6, Ta 0.4_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 9 |  |
+| Phase transition | 3119 K | 3119 | other: No. 6, Mo-50 at.% Ta; _alloy: Mo 0.5, Ta 0.5_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 11 |  |
+| Phase transition | 3142 K | 3142 | other: No. 4, Mo-30 at.% Ta; _alloy: Mo 0.7, Ta 0.3_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 7 |  |
+| Phase transition | 3172 K | 3172 | other: No. 7, Mo-60 at.% Ta; _alloy: Mo 0.4, Ta 0.6_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 13 |  |
+| Phase transition | 3221 K | 3221 | other: No. 8, Mo-70 at.% Ta; _alloy: Mo 0.3, Ta 0.7_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 15 |  |
+| Phase transition | 3281 K | 3281 | other: No. 9, Mo-80 at.% Ta; _alloy: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 17 |  |
 | Phase transition | 3290 K | 3290 |  | model | [2] Rajkumar 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1 | “The generally accepted melting points of Mo and Ta are reported to be 2896 and 3290 K \[5\].” |
-| Phase transition | 3317 K | 3317 | solidus: No. 10, Mo-90 at.% Ta; _alloy: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 19 |  |
+| Phase transition | 3317 K | 3317 | other: No. 10, Mo-90 at.% Ta; _alloy: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 19 |  |
 
 ### Phase equilibrium (11)
 
@@ -66,17 +66,17 @@ Table: Phase equilibrium, Mo–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 2865 | liquidus: No. 1, Mo-0 at.% Ta; _liquid: Mo 1, Ta 0_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 1 |  |
-| Phase composition |  | 3047 | liquidus: No. 2, Mo-10 at.% Ta; _liquid: Mo 0.9, Ta 0.1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 2 |  |
-| Phase composition |  | 3056 | liquidus: No. 3, Mo-20 at.% Ta; _liquid: Mo 0.8, Ta 0.2_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 4 |  |
-| Phase composition |  | 3092 | liquidus: No. 5, Mo-40 at.% Ta; _liquid: Mo 0.6, Ta 0.4_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 8 |  |
-| Phase composition |  | 3138 | liquidus: No. 6, Mo-50 at.% Ta; _liquid: Mo 0.5, Ta 0.5_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 10 |  |
-| Phase composition |  | 3155 | liquidus: No. 4, Mo-30 at.% Ta; _liquid: Mo 0.7, Ta 0.3_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 6 |  |
-| Phase composition |  | 3185 | liquidus: No. 7, Mo-60 at.% Ta; _liquid: Mo 0.4, Ta 0.6_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 12 |  |
-| Phase composition |  | 3235 | liquidus: No. 8, Mo-70 at.% Ta; _liquid: Mo 0.3, Ta 0.7_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 14 |  |
-| Phase composition |  | 3272 | liquidus: No. 11, Mo-100 at.% Ta; _liquid: Mo 0, Ta 1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 20 |  |
-| Phase composition |  | 3298 | liquidus: No. 9, Mo-80 at.% Ta; _liquid: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 16 |  |
-| Phase composition |  | 3337 | liquidus: No. 10, Mo-90 at.% Ta; _liquid: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 18 |  |
+| Phase composition |  | 2865 | other: No. 1, Mo-0 at.% Ta; _liquid: Mo 1, Ta 0_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 1 |  |
+| Phase composition |  | 3047 | other: No. 2, Mo-10 at.% Ta; _liquid: Mo 0.9, Ta 0.1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 2 |  |
+| Phase composition |  | 3056 | other: No. 3, Mo-20 at.% Ta; _liquid: Mo 0.8, Ta 0.2_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 4 |  |
+| Phase composition |  | 3092 | other: No. 5, Mo-40 at.% Ta; _liquid: Mo 0.6, Ta 0.4_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 8 |  |
+| Phase composition |  | 3138 | other: No. 6, Mo-50 at.% Ta; _liquid: Mo 0.5, Ta 0.5_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 10 |  |
+| Phase composition |  | 3155 | other: No. 4, Mo-30 at.% Ta; _liquid: Mo 0.7, Ta 0.3_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 6 |  |
+| Phase composition |  | 3185 | other: No. 7, Mo-60 at.% Ta; _liquid: Mo 0.4, Ta 0.6_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 12 |  |
+| Phase composition |  | 3235 | other: No. 8, Mo-70 at.% Ta; _liquid: Mo 0.3, Ta 0.7_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 14 |  |
+| Phase composition |  | 3272 | other: No. 11, Mo-100 at.% Ta; _liquid: Mo 0, Ta 1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 20 |  |
+| Phase composition |  | 3298 | other: No. 9, Mo-80 at.% Ta; _liquid: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 16 |  |
+| Phase composition |  | 3337 | other: No. 10, Mo-90 at.% Ta; _liquid: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 18 |  |
 
 ## Sources
 

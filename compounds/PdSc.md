@@ -1,20 +1,19 @@
 # PdSc: enthalpy of formation
 
-> Enthalpy of formation of PdSc: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of PdSc: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PdSc.html · Markdown: https://data.orchid-project.org/compounds/PdSc.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -87.586 kJ/mol-atom (mp-aaaaaecz); OQMD -87.551 kJ/mol-atom (oqmd-17944).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -87.586 kJ/mol-atom (mp-aaaaaecz); OQMD -87.551 kJ/mol-atom (oqmd-17944).
 
 Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PdSc reported in the literature (2)
+Table: Enthalpy of formation of PdSc reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -89.25 kJ/mol-atom | PdSc | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 21 |  |
 | -89.25 kJ/mol-atom | PdSc | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 21 |  |
 
 ## DFT formation energies

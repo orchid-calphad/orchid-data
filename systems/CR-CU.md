@@ -74,7 +74,7 @@ Table: Invariant reactions reported in the literature for the Cr–Cu system (17
 | 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0164; (Cu): Cr 0.007; (Cr): Cr 0.9992 | model | [2] Turchanin 2006; _cites Hamalainen 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990014-q) | Table 1, p. 3, row 12 |  |
 | 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0181; (Cu): Cr 0.0082 | model | [2] Turchanin 2006; _cites Zeng 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900010-c) | Table 1, p. 3, row 13 |  |
 | 1348 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Hindrichs 1908_ [doi](https://doi.org/10.1002/zaac.19080590136) | Table 1, p. 3, row 1 |  |
-| 1347.9 | Eutectic: Liquid -> bcc-A2 + fcc-A1 | Liquid: Cu 0.982; bcc-A2: Cu 0; fcc-A1: Cu 0.992 | unspecified | [3] Hämäläinen 1998 | Table I, p. 158, row 1 |  |
+| 1347.9 | eutectic: Liquid -> bcc-A2 + fcc-A1 | Liquid: Cu 0.982; bcc-A2: Cu 0; fcc-A1: Cu 0.992 | unspecified | [3] Hämäläinen 1998 | Table I, p. 158, row 1 |  |
 | 1347 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Leonov 1986_ | Table 1, p. 3, row 8 |  |
 | 1346 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Zakharov 1967_ | Table 1, p. 3, row 6 |  |
 | 1343 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Hibbard 1948_ | Table 1, p. 3, row 4 |  |
@@ -87,7 +87,7 @@ Table: Phase transition, Cr–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1823 K | 1823 | liquidus | experimental | [1] Zeng 1995; _cites ref. 82Tim_ | p. 2 | “Using very high purity metals (99.999 wt.% Cu and 99.998 wt.% Cr), \[82Tim\] determined one liquidus point: 1823 K at 42&2 at.% Cr, by a high temperature mass spectrometric technique.” |
+| Phase transition | 1823 K | 1823 | other | experimental | [1] Zeng 1995; _cites ref. 82Tim_ | p. 2 | “Using very high purity metals (99.999 wt.% Cu and 99.998 wt.% Cr), \[82Tim\] determined one liquidus point: 1823 K at 42&2 at.% Cr, by a high temperature mass spectrometric technique.” |
 | Phase transition | 1823.15 K | 1823.15 |  | experimental | [4] Saunders 1987; _cites HINDRICHS 1908_ | p. 2 | “In fact the melting point of chromium measured by Hindrichs2 was 1550°C, rather than the most recently assessed4 value of 1906°C.” |
 | Phase transition | 1824 K | 1824 | other | model | [2] Turchanin 2006 | p. 8 | “The critical point of the binodal has the coordinates xCr = 0.473 and T = 1824 K, and it is 12 K below the corresponding part of the liquidus line.” |
 | Phase transition | 1829 K | 1829 | other | model | [2] Turchanin 2006 | p. 8 | “Coordinates of the retrograde point of the (Cr)-phase solidus line were xCr = 0.997 and T = 1829 K.” |

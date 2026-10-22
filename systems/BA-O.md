@@ -1,10 +1,10 @@
 # Ba–O system
 
-> Ba–O system: 90 accepted literature values (heat capacity / entropy / enthalpy 52, formation 22, phase transition 10, invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–O system: 79 accepted literature values (heat capacity / entropy / enthalpy 46, formation 18, phase transition 10, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-O.html · Markdown: https://data.orchid-project.org/systems/BA-O.md
 
-90 accepted literature values from 2 paper(s) (experimental 20, model 70); 1 calculated phase diagram(s).
+79 accepted literature values from 2 paper(s) (experimental 20, model 59); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-O.json) · [CSV](https://data.orchid-project.org/systems/BA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-O/BaO-95Zim.json) · [Markdown](https://data.orchid-project.org/systems/BA-O.md)
 
@@ -13,16 +13,16 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 70 |
+| model | 59 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 5 |
 | phase transition | 10 |
-| formation | 22 |
-| heat capacity / entropy / enthalpy | 52 |
+| formation | 18 |
+| heat capacity / entropy / enthalpy | 46 |
 
 ## Calculated phase diagrams
 
@@ -47,22 +47,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ba–O system (6)
+Table: Invariant reactions reported in the literature for the Ba–O system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1630 | Eutectic: Liquid -> BaO + gas | L: O 0.575; BaO: O 0.506; gas: O 1 | model | [1] Zhou 2005 | Table III, p. 6, row 4 |  |
-| 1630 | Eutectic: Liquid -> BaO + gas | L: O 0.575; BaO: O 0.506; gas: O 1 | model | [1] Zhou 2005 | Table III, p. 6, row 3 |  |
+| 1630 | eutectic: Liquid -> BaO + gas | L: O 0.575; BaO: O 0.506; gas: O 1 | model | [1] Zhou 2005 | Table III, p. 6, row 4 |  |
 | 1350 | peritectic |  | model | [2] Zimmermann 1995 | p. 4 | “In order to keep the data set as simple as possible for this composition range a peritectic temperature of 1350K was assumed.” |
-| 1096 | Peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.618 | model | [1] Zhou 2005 | Table III, p. 6, row 6 |  |
-| 1096 | Peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.624 | model | [1] Zhou 2005 | Table III, p. 6, row 5 |  |
-| 842 | Eutectic: Liquid -> bcc + BaO | L: O 0.1; bcc: O 0; BaO: O 0.5 | model | [1] Zhou 2005 | Table III, p. 6, row 7 |  |
+| 1096 | peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.618 | model | [1] Zhou 2005 | Table III, p. 6, row 6 |  |
+| 1096 | peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.624 | model | [1] Zhou 2005 | Table III, p. 6, row 5 |  |
+| 842 | eutectic: Liquid -> bcc + BaO | L: O 0.1; bcc: O 0; BaO: O 0.5 | model | [1] Zhou 2005 | Table III, p. 6, row 7 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ba–O system (18)
+Table: Enthalpies of formation, Ba–O system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -70,12 +69,8 @@ Table: Enthalpies of formation, Ba–O system (18)
 | Ba2O3(G) |  | -100.72 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
 | BaO |  | -274.03 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2 |  |
 | BaO(G) |  | -60.45 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| BaO(G) |  | -60.45 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| BaO(L) |  | -250.138 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | BaO(L) |  | -250.138 kJ/mol-atom | 298.15 | model |  |  | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | BaO(S) | [BaO](https://data.orchid-project.org/compounds/BaO.html) | -276.68 kJ/mol-atom | 298.15 | model | -272.439 (mp-aaaaabzq) | -259.209 (oqmd-1343705) | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| BaO(S) | [BaO](https://data.orchid-project.org/compounds/BaO.html) | -276.68 kJ/mol-atom | 298.15 | model | -272.439 (mp-aaaaabzq) | -259.209 (oqmd-1343705) | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| BaO2(S) | [BaO2](https://data.orchid-project.org/compounds/BaO2.html) | -211.9 kJ/mol-atom | 298.15 | model | -209.391 (mp-aaaaabqn) | -205.059 (oqmd-1984787) | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
 | BaO2(S) | [BaO2](https://data.orchid-project.org/compounds/BaO2.html) | -211.9 kJ/mol-atom | 298.15 | model | -209.391 (mp-aaaaabqn) | -205.059 (oqmd-1984787) | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
 | BaO^s |  | -581.83 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 52Mah_ | Table 1, p. 3, row 4 |  |
 | BaO^s |  | -560.82 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Zimmermann 1995; _cites ref. 23Gun_ | Table 1, p. 3, row 2 |  |
@@ -100,9 +95,9 @@ Table: Phase transition, Ba–O system
 | Phase transition | 2273 K | 2273 | liquid | experimental | [1] Zhou 2005; _cites Foex 1965_ | p. 1 | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
 | Phase transition | 2286 K | 2286 |  | experimental | [2] Zimmermann 1995; _cites ref. 65Foe_ | p. 4 | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
 | Phase transition | 2286 K | 2286 | liquid | experimental | [1] Zhou 2005; _cites Schumacher 1926_ | p. 1 | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
-| Phase transition | 2287 K | 2287 | Congruent: Liquid -> BaO; _L: O 0.5; BaO: O 0.5_ | model | [1] Zhou 2005 | Table III, p. 6, row 2 |  |
+| Phase transition | 2287 K | 2287 | congruent melting: Liquid -> BaO; _L: O 0.5; BaO: O 0.5_ | model | [1] Zhou 2005 | Table III, p. 6, row 2 |  |
 | Phase transition | 2290 K | 2290 | liquid | experimental | [1] Zhou 2005; _cites Moissan 1902_ | p. 1 | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
-| Phase transition | 3249 K | 3249 | Congruent: Gas -> liquid; _Gas: O 0.539; L: O 0.539_ | model | [1] Zhou 2005 | Table III, p. 6, row 1 |  |
+| Phase transition | 3249 K | 3249 | congruent melting: Gas -> liquid; _Gas: O 0.539; L: O 0.539_ | model | [1] Zhou 2005 | Table III, p. 6, row 1 |  |
 
 ### Formation (4)
 
@@ -115,7 +110,7 @@ Table: Formation, Ba–O system
 | Entropy of formation | 35.01 J/mol (basis unstated)/K | 298 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2 |  |
 | Entropy of formation | 29.18 J/mol (basis unstated)/K | 298 | BaO2; _alloy: O 0.666667_ | experimental | [1] Zhou 2005 | Table I, p. 3, row 8 |  |
 
-### Heat capacity / entropy / enthalpy (52)
+### Heat capacity / entropy / enthalpy (46)
 
 Table: Heat capacity / entropy / enthalpy, Ba–O system
 
@@ -126,12 +121,8 @@ Table: Heat capacity / entropy / enthalpy, Ba–O system
 | Entropy; _printed: S298_ | 89.475 J/mol-atom/K | 298.15 | Ba2O2(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
 | Entropy; _printed: S298_ | 71.58 J/mol-atom/K | 298.15 | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
 | Entropy; _printed: S298_ | 117.73 J/mol-atom/K | 298.15 | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| Entropy; _printed: S298_ | 117.73 J/mol-atom/K | 298.15 | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| Entropy; _printed: S298_ | 47.438 J/mol-atom/K | 298.15 | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | Entropy; _printed: S298_ | 47.438 J/mol-atom/K | 298.15 | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | Entropy; _printed: S298_ | 36.035 J/mol-atom/K | 298.15 | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| Entropy; _printed: S298_ | 36.035 J/mol-atom/K | 298.15 | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| Entropy; _printed: S298_ | 30.9167 J/mol-atom/K | 298.15 | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
 | Entropy; _printed: S298_ | 30.9167 J/mol-atom/K | 298.15 | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
 | Heat capacity; _printed: cp coefficient b_ | 0.002566 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
 | Heat capacity; _printed: cp coefficient d_ | -97904 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
@@ -160,7 +151,6 @@ Table: Heat capacity / entropy / enthalpy, Ba–O system
 | Heat capacity; _printed: cp coefficient a_ | 33.47 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 4 |  |
 | Heat capacity; _printed: cp coefficient b_ | 0 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 4 |  |
 | Heat capacity; _printed: cp coefficient b_ | 0.0032805 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
-| Heat capacity; _printed: cp coefficient c_ | 0 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | Heat capacity; _printed: cp coefficient d_ | -113913 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | Heat capacity; _printed: cp coefficient a_ | 23.9458 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | Heat capacity; _printed: cp coefficient c_ | 0 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
@@ -168,7 +158,6 @@ Table: Heat capacity / entropy / enthalpy, Ba–O system
 | Heat capacity; _printed: cp coefficient b_ | 0.0032805 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
 | Heat capacity; _printed: cp coefficient d_ | -113913 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
 | Heat capacity; _printed: cp coefficient a_ | 33.335 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 2 |  |
-| Heat capacity; _printed: cp coefficient b_ | 0 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 2 |  |
 | Heat capacity; _printed: cp coefficient c_ | 0 J/mol-atom/K |  | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
 | Heat capacity; _printed: cp coefficient b_ | 0.00610867 J/mol-atom/K |  | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
 | Heat capacity; _printed: cp coefficient d_ | 72886 J/mol-atom/K |  | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |

@@ -62,14 +62,14 @@ Table: Phase transition, Pb–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1300 K | 1300 | congruent | experimental | [1] Huang 2014; _cites Bloem 1956_ [doi](https://doi.org/10.1524/zpch.1956.7.1_2.001) | Table II, p. 5, row 7 |  |
-| Phase transition | 1374 K | 1374 | congruent | model | [1] Huang 2014 | Table II, p. 5, row 1 |  |
-| Phase transition | 1376 K | 1376 | congruent | model | [1] Huang 2014; _cites Friedrivh 1905_ | Table II, p. 5, row 2 |  |
-| Phase transition | 1379 K | 1379 | congruent | experimental | [1] Huang 2014; _cites Heike 1912_ | Table II, p. 5, row 6 |  |
-| Phase transition | 1386 K | 1386 | congruent | experimental | [1] Huang 2014; _cites Miller 1966_ | Table II, p. 5, row 3 |  |
-| Phase transition | 1387 K | 1387 | congruent | experimental | [1] Huang 2014; _cites Friedrich 1907_ | Table II, p. 5, row 5 |  |
-| Phase transition | 1388 K | 1388 | congruent | experimental | [1] Huang 2014; _cites Kullerud 1969_ [doi](https://doi.org/10.2475/001c.125221) | Table II, p. 5, row 4 |  |
-| Phase transition | 1392 K | 1392 | congruent | unspecified | [1] Huang 2014; _cites Shamsuddin 1981_ | Table II, p. 5, row 8 |  |
+| Phase transition | 1300 K | 1300 | congruent transformation | experimental | [1] Huang 2014; _cites Bloem 1956_ [doi](https://doi.org/10.1524/zpch.1956.7.1_2.001) | Table II, p. 5, row 7 |  |
+| Phase transition | 1374 K | 1374 | congruent transformation | model | [1] Huang 2014 | Table II, p. 5, row 1 |  |
+| Phase transition | 1376 K | 1376 | congruent transformation | model | [1] Huang 2014; _cites Friedrivh 1905_ | Table II, p. 5, row 2 |  |
+| Phase transition | 1379 K | 1379 | congruent transformation | experimental | [1] Huang 2014; _cites Heike 1912_ | Table II, p. 5, row 6 |  |
+| Phase transition | 1386 K | 1386 | congruent transformation | experimental | [1] Huang 2014; _cites Miller 1966_ | Table II, p. 5, row 3 |  |
+| Phase transition | 1387 K | 1387 | congruent transformation | experimental | [1] Huang 2014; _cites Friedrich 1907_ | Table II, p. 5, row 5 |  |
+| Phase transition | 1388 K | 1388 | congruent transformation | experimental | [1] Huang 2014; _cites Kullerud 1969_ [doi](https://doi.org/10.2475/001c.125221) | Table II, p. 5, row 4 |  |
+| Phase transition | 1392 K | 1392 | congruent transformation | unspecified | [1] Huang 2014; _cites Shamsuddin 1981_ | Table II, p. 5, row 8 |  |
 
 ## Sources
 

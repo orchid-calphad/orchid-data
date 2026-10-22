@@ -161,103 +161,103 @@ Table: Invariant reactions reported in the literature for the Mn–Ti system (98
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1598 | Congruent: Laves-C14 -> Liquid | Laves-C14: Ti 0.344; Liquid: Ti 0.344 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 9 |  |
+| 1598 | congruent melting: Laves-C14 -> Liquid | Laves-C14: Ti 0.344; Liquid: Ti 0.344 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 9 |  |
 | 1532.9 | LavesC14 + liquid ↔ TiMn3 | LavesC14: Ti 0.303; liquid: Ti 0.19; TiMn3: Ti 0.25 | model | [2] Chen 2009 | Table 2, p. 5, row 3 |  |
-| 1523.5 | Peritectic: Liquid + Laves-C14 -> Mn3Ti | Liquid: Ti 0.18; Laves-C14: Ti 0.3; Mn3Ti: Ti 0.25 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 3 |  |
+| 1523.5 | peritectic: Liquid + Laves-C14 -> Mn3Ti | Liquid: Ti 0.18; Laves-C14: Ti 0.3; Mn3Ti: Ti 0.25 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 3 |  |
 | 1523.5 | LavesC14 + liquid ↔ TiMn3 | LavesC14: Ti 0.3; liquid: Ti 0.18; TiMn3: Ti 0.25 | unspecified | [2] Chen 2009; _cites Ansara 1998_ | Table 2, p. 5, row 2 |  |
-| 1523.15 | Peritectic: TiMn2 + L ↔ TiMn3 | TiMn2: Ti 0.3045; L: Ti 0.1438; TiMn3: Ti 0.25 | model | [3] Khan 2016 | Table 2, p. 7, row 12 |  |
+| 1523.15 | peritectic: TiMn2 + L ↔ TiMn3 | TiMn2: Ti 0.3045; L: Ti 0.1438; TiMn3: Ti 0.25 | model | [3] Khan 2016 | Table 2, p. 7, row 12 |  |
 | 1523 | liquid+C14Laves->TiMn3 | L: Ti 0.144; C14Laves: Ti 0.305; TiMn3: Ti 0.25 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 22 |  |
 | 1523 | liquid+C14Laves->TiMn3 | L: Ti 0.15; C14Laves: Ti 0.3; TiMn3: Ti 0.25 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 19 |  |
 | 1523 | liquid+C14Laves->TiMn3 | TiMn3: Ti 0.25 | experimental | [4] Zheng 2022; _cites Murray 1987_ | Table 5, p. 7, row 20 |  |
 | 1523 | LavesC14 + liquid ↔ TiMn3 | TiMn3: Ti 0.25 | experimental | [2] Chen 2009; _cites Murray 1987_ | Table 2, p. 5, row 1 |  |
 | 1519 | liquid+C14Laves->TiMn3 | L: Ti 0.14; C14Laves: Ti 0.309; TiMn3: Ti 0.25 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 23 |  |
-| 1518.15 | Peritectic: TiMn2 + L ↔ TiMn3 | TiMn2: Ti 0.31; L: Ti 0.115; TiMn3: Ti 0.25 | experimental | [3] Khan 2016 | Table 2, p. 7, row 11 |  |
+| 1518.15 | peritectic: TiMn2 + L ↔ TiMn3 | TiMn2: Ti 0.31; L: Ti 0.115; TiMn3: Ti 0.25 | experimental | [3] Khan 2016 | Table 2, p. 7, row 11 |  |
 | 1518 | liquid+C14Laves->TiMn3 | L: Ti 0.115; C14Laves: Ti 0.31; TiMn3: Ti 0.25 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 21 |  |
 | 1515.9 | Liquid + TiMn3 ↔ TiMn4 | Liquid: Ti 0.164; TiMn3: Ti 0.25; TiMn4: Ti 0.185 | model | [2] Chen 2009 | Table 2, p. 5, row 6 |  |
-| 1505.15 | Peritectic: TiMn3 + L ↔ TiMn4 | TiMn3: Ti 0.25; L: Ti 0.1266; TiMn4: Ti 0.185 | model | [3] Khan 2016 | Table 2, p. 7, row 16 |  |
+| 1505.15 | peritectic: TiMn3 + L ↔ TiMn4 | TiMn3: Ti 0.25; L: Ti 0.1266; TiMn4: Ti 0.185 | model | [3] Khan 2016 | Table 2, p. 7, row 16 |  |
 | 1505 | liquid+TiMn3->TiMn4 | L: Ti 0.127; TiMn3: Ti 0.25; TiMn4: Ti 0.185 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 27 |  |
 | 1503 | liquid+TiMn3->TiMn4 | TiMn3: Ti 0.25; TiMn4: Ti 0.2 | experimental | [4] Zheng 2022; _cites Murray 1987_ | Table 5, p. 7, row 25 |  |
 | 1503 | Liquid + TiMn3 ↔ TiMn4 | TiMn3: Ti 0.25; TiMn4: Ti 0.2 | experimental | [2] Chen 2009; _cites Murray 1987_ | Table 2, p. 5, row 4 |  |
 | 1503 | liquid+TiMn3->TiMn4 | L: Ti 0.1; TiMn3: Ti 0.25; TiMn4: Ti 0.185 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 24 |  |
 | 1502.8 | Liquid + TiMn3 ↔ TiMn4 | Liquid: Ti 0.153; TiMn3: Ti 0.25; TiMn4: Ti 0.185 | unspecified | [2] Chen 2009; _cites Ansara 1998_ | Table 2, p. 5, row 5 |  |
-| 1502.8 | Peritectic: Liquid + Mn3Ti -> Mn4Ti | Liquid: Ti 0.153; Mn3Ti: Ti 0.25; Mn4Ti: Ti 0.185 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 2 |  |
+| 1502.8 | peritectic: Liquid + Mn3Ti -> Mn4Ti | Liquid: Ti 0.153; Mn3Ti: Ti 0.25; Mn4Ti: Ti 0.185 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 2 |  |
 | 1501 | liquid+TiMn3->TiMn4 | L: Ti 0.122; TiMn3: Ti 0.25; TiMn4: Ti 0.185 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 28 |  |
 | 1500.3 | LavesC14 + liquid ↔ βTiMn | LavesC14: Ti 0.403; liquid: Ti 0.56; βTiMn: Ti 0.485 | model | [2] Chen 2009 | Table 2, p. 5, row 9 |  |
-| 1500.2 | Peritectic: Liquid + Laves-C14 -> MnTi-β | Liquid: Ti 0.56; Laves-C14: Ti 0.485; MnTi-β: Ti 0.403 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 10 |  |
+| 1500.2 | peritectic: Liquid + Laves-C14 -> MnTi-β | Liquid: Ti 0.56; Laves-C14: Ti 0.485; MnTi-β: Ti 0.403 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 10 |  |
 | 1500.2 | LavesC14 + liquid ↔ βTiMn | LavesC14: Ti 0.403; liquid: Ti 0.56; βTiMn: Ti 0.485 | unspecified | [2] Chen 2009; _cites Ansara 1998_ | Table 2, p. 5, row 8 |  |
-| 1498.15 | Peritectic: TiMn3 + L ↔ TiMn4 | TiMn3: Ti 0.245; L: Ti 0.1; TiMn4: Ti 0.185 | experimental | [3] Khan 2016 | Table 2, p. 7, row 15 |  |
+| 1498.15 | peritectic: TiMn3 + L ↔ TiMn4 | TiMn3: Ti 0.245; L: Ti 0.1; TiMn4: Ti 0.185 | experimental | [3] Khan 2016 | Table 2, p. 7, row 15 |  |
 | 1498 | liquid+TiMn3->TiMn4 | L: Ti 0.1; TiMn3: Ti 0.245; TiMn4: Ti 0.185 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 26 |  |
-| 1484.15 | Eutectic: L ↔ TiMn4 + (δMn) | L: Ti 0.08; TiMn4: Ti 0.165; (δMn): Ti 0.046 | experimental | [3] Khan 2016 | Table 2, p. 7, row 19 |  |
+| 1484.15 | eutectic: L ↔ TiMn4 + (δMn) | L: Ti 0.08; TiMn4: Ti 0.165; (δMn): Ti 0.046 | experimental | [3] Khan 2016 | Table 2, p. 7, row 19 |  |
 | 1484 | liquid->TiMn4+δMn | L: Ti 0.08; TiMn4: Ti 0.165; δMn: Ti 0.046 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 31 |  |
 | 1480 | Liquid ↔ TiMn4 + bcc(δMn) | Liquid: Ti 0.104; TiMn4: Ti 0.185; bcc(δMn): Ti 0.081 | model | [2] Chen 2009 | Table 2, p. 5, row 12 |  |
-| 1478 | Eutectic: Liquid -> bcc-A2 + Mn4Ti | Liquid: Ti 0.111; bcc-A2: Ti 0.086; Mn4Ti: Ti 0.185 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 1 |  |
+| 1478 | eutectic: Liquid -> bcc-A2 + Mn4Ti | Liquid: Ti 0.111; bcc-A2: Ti 0.086; Mn4Ti: Ti 0.185 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 1 |  |
 | 1478 | Liquid ↔ TiMn4 + bcc(δMn) | Liquid: Ti 0.111; TiMn4: Ti 0.185; bcc(δMn): Ti 0.086 | unspecified | [2] Chen 2009; _cites Ansara 1998_ | Table 2, p. 5, row 11 |  |
 | 1477 | liquid->TiMn4+δMn | TiMn4: Ti 0.2 | experimental | [4] Zheng 2022; _cites Murray 1987_ | Table 5, p. 7, row 30 |  |
 | 1477 | Liquid ↔ TiMn4 + bcc(δMn) | TiMn4: Ti 0.2 | experimental | [2] Chen 2009; _cites Murray 1987_ | Table 2, p. 5, row 10 |  |
 | 1477 | liquid->TiMn4+δMn | L: Ti 0.095; TiMn4: Ti 0.185; δMn: Ti 0.06 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 29 |  |
-| 1474.15 | Eutectic: L ↔ TiMn4 + (δMn) | L: Ti 0.0916; TiMn4: Ti 0.185; (δMn): Ti 0.0693 | model | [3] Khan 2016 | Table 2, p. 7, row 20 |  |
+| 1474.15 | eutectic: L ↔ TiMn4 + (δMn) | L: Ti 0.0916; TiMn4: Ti 0.185; (δMn): Ti 0.0693 | model | [3] Khan 2016 | Table 2, p. 7, row 20 |  |
 | 1474 | liquid+C14Laves->βTiMn | L: Ti 0.57; C14Laves: Ti 0.41; βTiMn: Ti 0.48 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 14 |  |
 | 1474 | liquid->TiMn4+δMn | L: Ti 0.092; TiMn4: Ti 0.185; δMn: Ti 0.069 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 32 |  |
 | 1473 | liquid+C14Laves->βTiMn | βTiMn: Ti 0.5 | experimental | [4] Zheng 2022; _cites Murray 1987_ | Table 5, p. 7, row 15 |  |
 | 1473 | LavesC14 + liquid ↔ βTiMn | βTiMn: Ti 0.5 | experimental | [2] Chen 2009; _cites Murray 1987_ | Table 2, p. 5, row 7 |  |
-| 1468.15 | Peritectic: L + TiMn2 ↔ TiMn1+x | L: Ti 0.605; TiMn2: Ti 0.415; TiMn1+x: Ti 0.45 | experimental | [3] Khan 2016 | Table 2, p. 7, row 7 |  |
-| 1468.15 | Peritectic: L + TiMn2 ↔ TiMn1+x | L: Ti 0.5972; TiMn2: Ti 0.4119; TiMn1+x: Ti 0.45 | model | [3] Khan 2016 | Table 2, p. 7, row 8 |  |
+| 1468.15 | peritectic: L + TiMn2 ↔ TiMn1+x | L: Ti 0.605; TiMn2: Ti 0.415; TiMn1+x: Ti 0.45 | experimental | [3] Khan 2016 | Table 2, p. 7, row 7 |  |
+| 1468.15 | peritectic: L + TiMn2 ↔ TiMn1+x | L: Ti 0.5972; TiMn2: Ti 0.4119; TiMn1+x: Ti 0.45 | model | [3] Khan 2016 | Table 2, p. 7, row 8 |  |
 | 1468 | liquid+C14Laves->βTiMn | L: Ti 0.605; C14Laves: Ti 0.415; βTiMn: Ti 0.45 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 16 |  |
 | 1468 | liquid+C14Laves->βTiMn | L: Ti 0.597; C14Laves: Ti 0.412; βTiMn: Ti 0.45 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 17 |  |
 | 1468 | liquid+C14Laves->βTiMn | L: Ti 0.626; C14Laves: Ti 0.404; βTiMn: Ti 0.45 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 18 |  |
 | 1466 | liquid->TiMn4+δMn | L: Ti 0.086; TiMn4: Ti 0.185; δMn: Ti 0.064 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 33 |  |
 | 1462 | liquid->βTiMn+βTi | L: Ti 0.632; βTiMn: Ti 0.45; βTi: Ti 0.685 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 13 |  |
-| 1458.15 | Eutectic: L \<-> TiMn1+x + (βTi) | L: Ti 0.61; TiMn1+x: Ti 0.45; (βTi): Ti 0.665 | experimental | [3] Khan 2016 | Table 2, p. 7, row 1 |  |
+| 1458.15 | eutectic: L \<-> TiMn1+x + (βTi) | L: Ti 0.61; TiMn1+x: Ti 0.45; (βTi): Ti 0.665 | experimental | [3] Khan 2016 | Table 2, p. 7, row 1 |  |
 | 1458 | liquid->βTiMn+βTi | L: Ti 0.61; βTiMn: Ti 0.45; βTi: Ti 0.665 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 11 |  |
 | 1455.7 | Liquid ↔ βTiMn + bcc(βTi) | Liquid: Ti 0.61; βTiMn: Ti 0.485; bcc(βTi): Ti 0.706 | model | [2] Chen 2009 | Table 2, p. 5, row 15 |  |
 | 1455.5 | Liquid ↔ βTiMn + bcc(βTi) | Liquid: Ti 0.62; βTiMn: Ti 0.485; bcc(βTi): Ti 0.706 | unspecified | [2] Chen 2009; _cites Ansara 1998_ | Table 2, p. 5, row 14 |  |
-| 1455.5 | Eutectic: Liquid -> MnTi-β + bcc-A2 | Liquid: Ti 0.62; MnTi-β: Ti 0.485; bcc-A2: Ti 0.706 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 14 |  |
-| 1454.15 | Eutectic: L \<-> TiMn1+x + (βTi) | L: Ti 0.6128; TiMn1+x: Ti 0.45; (βTi): Ti 0.6476 | model | [3] Khan 2016 | Table 2, p. 7, row 2 |  |
+| 1455.5 | eutectic: Liquid -> MnTi-β + bcc-A2 | Liquid: Ti 0.62; MnTi-β: Ti 0.485; bcc-A2: Ti 0.706 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 14 |  |
+| 1454.15 | eutectic: L \<-> TiMn1+x + (βTi) | L: Ti 0.6128; TiMn1+x: Ti 0.45; (βTi): Ti 0.6476 | model | [3] Khan 2016 | Table 2, p. 7, row 2 |  |
 | 1454 | liquid->βTiMn+βTi | L: Ti 0.608; βTiMn: Ti 0.48; βTi: Ti 0.7 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 9 |  |
 | 1454 | liquid->βTiMn+βTi | βTiMn: Ti 0.5 | experimental | [4] Zheng 2022; _cites Murray 1987_ | Table 5, p. 7, row 10 |  |
 | 1454 | Liquid ↔ βTiMn + bcc(βTi) | βTiMn: Ti 0.5 | experimental | [2] Chen 2009; _cites Murray 1987_ | Table 2, p. 5, row 13 |  |
 | 1454 | liquid->βTiMn+βTi | L: Ti 0.813; βTiMn: Ti 0.45; βTi: Ti 0.648 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 12 |  |
-| 1452.15 | Peritectoid: TiMn4 + (δMn) ↔ (αMn) | TiMn4: Ti 0.185; (δMn): Ti 0.065; (αMn): Ti 0.1099 | model | [3] Khan 2016 | Table 2, p. 7, row 22 |  |
+| 1452.15 | peritectoid: TiMn4 + (δMn) ↔ (αMn) | TiMn4: Ti 0.185; (δMn): Ti 0.065; (αMn): Ti 0.1099 | model | [3] Khan 2016 | Table 2, p. 7, row 22 |  |
 | 1452 | TiMn4+δMn->αMn | TiMn4: Ti 0.185; δMn: Ti 0.065; αMn: Ti 0.11 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 36 |  |
 | 1434 | TiMn4+δMn->αMn | TiMn4: Ti 0.185; δMn: Ti 0.051; αMn: Ti 0.098 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 37 |  |
-| 1433.15 | Peritectoid: TiMn4 + (δMn) ↔ (αMn) | TiMn4: Ti 0.165; (δMn): Ti 0.05; (αMn): Ti 0.12 | experimental | [3] Khan 2016 | Table 2, p. 7, row 21 |  |
+| 1433.15 | peritectoid: TiMn4 + (δMn) ↔ (αMn) | TiMn4: Ti 0.165; (δMn): Ti 0.05; (αMn): Ti 0.12 | experimental | [3] Khan 2016 | Table 2, p. 7, row 21 |  |
 | 1433 | TiMn4+δMn->αMn | TiMn4: Ti 0.165; δMn: Ti 0.05; αMn: Ti 0.12 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 35 |  |
 | 1433 | TiMn4+δMn->αMn | TiMn4: Ti 0.185; δMn: Ti 0.04; αMn: Ti 0.105 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 34 |  |
-| 1408.6 | Peritectoid: bcc-A2 + Mn4Ti -> cub-A13 | bcc-A2: Ti 0.076; Mn4Ti: Ti 0.185; cub-A13: Ti 0.078 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 7 |  |
-| 1387.6 | Eutectoid: bcc-A2 -> fcc-A1 + cub-A13 | bcc-A2: Ti 0.008; fcc-A1: Ti 0.005; cub-A13: Ti 0.009 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 8 |  |
+| 1408.6 | peritectoid: bcc-A2 + Mn4Ti -> cub-A13 | bcc-A2: Ti 0.076; Mn4Ti: Ti 0.185; cub-A13: Ti 0.078 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 7 |  |
+| 1387.6 | eutectoid: bcc-A2 -> fcc-A1 + cub-A13 | bcc-A2: Ti 0.008; fcc-A1: Ti 0.005; cub-A13: Ti 0.009 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 8 |  |
 | 1309.3 | TiMn4 + βMn ↔ αMn | TiMn4: Ti 0.185; βMn: Ti 0.08; αMn: Ti 0.11 | unspecified | [2] Chen 2009; _cites Ansara 1998_ | Table 2, p. 5, row 16 |  |
-| 1309.3 | Peritectoid: cbcc-A12 + Mn4Ti -> cub-A13 | cbcc-A12: Ti 0.08; Mn4Ti: Ti 0.185; cub-A13: Ti 0.11 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 6 |  |
+| 1309.3 | peritectoid: cbcc-A12 + Mn4Ti -> cub-A13 | cbcc-A12: Ti 0.08; Mn4Ti: Ti 0.185; cub-A13: Ti 0.11 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 6 |  |
 | 1287.6 | TiMn4 + βMn ↔ αMn | TiMn4: Ti 0.185; βMn: Ti 0.075; αMn: Ti 0.104 | model | [2] Chen 2009 | Table 2, p. 5, row 17 |  |
-| 1243.15 | Peritectoid: (βTi) + TiMn1+x \<-> TiMn1−x | (βTi): Ti 0.715; TiMn1+x: Ti 0.455; TiMn1−x: Ti 0.55 | experimental | [3] Khan 2016 | Table 2, p. 7, row 3 |  |
+| 1243.15 | peritectoid: (βTi) + TiMn1+x \<-> TiMn1−x | (βTi): Ti 0.715; TiMn1+x: Ti 0.455; TiMn1−x: Ti 0.55 | experimental | [3] Khan 2016 | Table 2, p. 7, row 3 |  |
 | 1243 | βTi+βTiMn->αTiMn | βTi: Ti 0.715; βTiMn: Ti 0.455; αTiMn: Ti 0.55 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 6 |  |
 | 1243 | βTi+βTiMn->αTiMn | βTi: Ti 0.734; βTiMn: Ti 0.45; αTiMn: Ti 0.55 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 8 |  |
-| 1238.15 | Peritectoid: (βTi) + TiMn1+x \<-> TiMn1−x | (βTi): Ti 0.7366; TiMn1+x: Ti 0.45; TiMn1−x: Ti 0.55 | model | [3] Khan 2016 | Table 2, p. 7, row 4 |  |
+| 1238.15 | peritectoid: (βTi) + TiMn1+x \<-> TiMn1−x | (βTi): Ti 0.7366; TiMn1+x: Ti 0.45; TiMn1−x: Ti 0.55 | model | [3] Khan 2016 | Table 2, p. 7, row 4 |  |
 | 1238 | βTi+βTiMn->αTiMn | βTi: Ti 0.734; βTiMn: Ti 0.45; αTiMn: Ti 0.55 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 7 |  |
-| 1224 | Peritectoid: MnTi-β + bcc-A2 -> MnTi-α | MnTi-β: Ti 0.485; bcc-A2: Ti 0.748; MnTi-α: Ti 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 12 |  |
+| 1224 | peritectoid: MnTi-β + bcc-A2 -> MnTi-α | MnTi-β: Ti 0.485; bcc-A2: Ti 0.748; MnTi-α: Ti 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 12 |  |
 | 1223 | βTi+βTiMn->αTiMn | βTi: Ti 0.75; βTiMn: Ti 0.48; αTiMn: Ti 0.495 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 5 |  |
-| 1222.3 | Eutectoid: Mn3Ti -> Mn4Ti+ Laves-C14 | Mn3Ti: Ti 0.25; Mn4Ti: Ti 0.185; Laves-C14: Ti 0.287 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 4 |  |
-| 1203.15 | Peritectoid: TiMn1-x + TiMn1+x ↔ Ti50Mn50 | TiMn1-x: Ti 0.55; TiMn1+x: Ti 0.45; Ti50Mn50: Ti 0.5 | model | [3] Khan 2016 | Table 2, p. 7, row 6 |  |
+| 1222.3 | eutectoid: Mn3Ti -> Mn4Ti+ Laves-C14 | Mn3Ti: Ti 0.25; Mn4Ti: Ti 0.185; Laves-C14: Ti 0.287 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 4 |  |
+| 1203.15 | peritectoid: TiMn1-x + TiMn1+x ↔ Ti50Mn50 | TiMn1-x: Ti 0.55; TiMn1+x: Ti 0.45; Ti50Mn50: Ti 0.5 | model | [3] Khan 2016 | Table 2, p. 7, row 6 |  |
 | 1198.4 | TiMn4 ↔ αMn + LavesC14 | TiMn4: Ti 0.185; αMn: Ti 0.124; LavesC14: Ti 0.286 | unspecified | [2] Chen 2009; _cites Ansara 1998_ | Table 2, p. 5, row 18 |  |
-| 1198.4 | Eutectoid: Mn4Ti -> cbcc-A12 + Laves-C14 | Mn4Ti: Ti 0.185; cbcc-A12: Ti 0.124; Laves-C14: Ti 0.286 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 5 |  |
-| 1198.15 | Peritectoid: TiMn1-x + TiMn1+x ↔ Ti50Mn50 | TiMn1-x: Ti 0.54; TiMn1+x: Ti 0.455; Ti50Mn50: Ti 0.5 | experimental | [3] Khan 2016 | Table 2, p. 7, row 5 |  |
+| 1198.4 | eutectoid: Mn4Ti -> cbcc-A12 + Laves-C14 | Mn4Ti: Ti 0.185; cbcc-A12: Ti 0.124; Laves-C14: Ti 0.286 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 5 |  |
+| 1198.15 | peritectoid: TiMn1-x + TiMn1+x ↔ Ti50Mn50 | TiMn1-x: Ti 0.54; TiMn1+x: Ti 0.455; Ti50Mn50: Ti 0.5 | experimental | [3] Khan 2016 | Table 2, p. 7, row 5 |  |
 | 1135.2 | TiMn4 ↔ αMn + LavesC14 | TiMn4: Ti 0.185; αMn: Ti 0.122; LavesC14: Ti 0.292 | model | [2] Chen 2009 | Table 2, p. 5, row 19 |  |
-| 1123.15 | Eutectoid: TiMn4 ↔ TiMn3 + (αMn) | TiMn4: Ti 0.185; TiMn3: Ti 0.25; (αMn): Ti 0.0827 | model | [3] Khan 2016 | Table 2, p. 7, row 18 |  |
-| 1123.15 | Eutectoid: TiMn4 ↔ TiMn3 + (αMn) | TiMn4: Ti 0.18; TiMn3: Ti 0.245; (αMn): Ti 0.12 | experimental | [3] Khan 2016 | Table 2, p. 7, row 17 |  |
+| 1123.15 | eutectoid: TiMn4 ↔ TiMn3 + (αMn) | TiMn4: Ti 0.185; TiMn3: Ti 0.25; (αMn): Ti 0.0827 | model | [3] Khan 2016 | Table 2, p. 7, row 18 |  |
+| 1123.15 | eutectoid: TiMn4 ↔ TiMn3 + (αMn) | TiMn4: Ti 0.18; TiMn3: Ti 0.245; (αMn): Ti 0.12 | experimental | [3] Khan 2016 | Table 2, p. 7, row 17 |  |
 | 1123 | TiMn4->αMn+TiMn3 | TiMn4: Ti 0.18; αMn: Ti 0.12; TiMn3: Ti 0.245 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 38 |  |
 | 1123 | TiMn4->αMn+TiMn3 | TiMn4: Ti 0.185; αMn: Ti 0.083; TiMn3: Ti 0.25 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 39 |  |
 | 1122 | TiMn4->αMn+TiMn3 | TiMn4: Ti 0.185; αMn: Ti 0.077; TiMn3: Ti 0.25 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 40 |  |
-| 1098.15 | Eutectoid: TiMn3 ↔ TiMn2 + (αMn) | TiMn3: Ti 0.25; TiMn2: Ti 0.32; (αMn): Ti 0.12 | experimental | [3] Khan 2016 | Table 2, p. 7, row 13 |  |
+| 1098.15 | eutectoid: TiMn3 ↔ TiMn2 + (αMn) | TiMn3: Ti 0.25; TiMn2: Ti 0.32; (αMn): Ti 0.12 | experimental | [3] Khan 2016 | Table 2, p. 7, row 13 |  |
 | 1098 | TiMn3->αMn+C14Laves | TiMn3: Ti 0.25; αMn: Ti 0.12; C14Laves: Ti 0.32 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 41 |  |
-| 1097.15 | Eutectoid: TiMn3 ↔ TiMn2 + (αMn) | TiMn3: Ti 0.25; TiMn2: Ti 0.3026; (αMn): Ti 0.0801 | model | [3] Khan 2016 | Table 2, p. 7, row 14 |  |
+| 1097.15 | eutectoid: TiMn3 ↔ TiMn2 + (αMn) | TiMn3: Ti 0.25; TiMn2: Ti 0.3026; (αMn): Ti 0.0801 | model | [3] Khan 2016 | Table 2, p. 7, row 14 |  |
 | 1097 | TiMn3->αMn+C14Laves | TiMn3: Ti 0.25; αMn: Ti 0.08; C14Laves: Ti 0.303 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 42 |  |
 | 1094 | TiMn3->αMn+C14Laves | TiMn3: Ti 0.25; αMn: Ti 0.074; C14Laves: Ti 0.308 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 43 |  |
-| 1071.3 | Eutectoid: MnTi-β -> Laves-C14 + MnTi-α | MnTi-β: Ti 0.485; Laves-C14: Ti 0.369; MnTi-α: Ti 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 11 |  |
+| 1071.3 | eutectoid: MnTi-β -> Laves-C14 + MnTi-α | MnTi-β: Ti 0.485; Laves-C14: Ti 0.369; MnTi-α: Ti 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 11 |  |
 | 829 | βTi->αTiMn+αTi | βTi: Ti 0.824; αTiMn: Ti 0.55; αTi: Ti 0.996 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 4 |  |
-| 827.6 | Eutectoid: bcc-A2 -> MnTi-α + hcp-A3 | bcc-A2: Ti 0.827; MnTi-α: Ti 0.5; hcp-A3: Ti 0.996 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 13 |  |
-| 823.15 | Eutectoid: (βTi) \<-> (αTi) + TiMn1−x | (βTi): Ti 0.85; (αTi): Ti 0.996; TiMn1−x: Ti 0.55 | experimental | [3] Khan 2016 | Table 2, p. 7, row 23 |  |
+| 827.6 | eutectoid: bcc-A2 -> MnTi-α + hcp-A3 | bcc-A2: Ti 0.827; MnTi-α: Ti 0.5; hcp-A3: Ti 0.996 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 13 |  |
+| 823.15 | eutectoid: (βTi) \<-> (αTi) + TiMn1−x | (βTi): Ti 0.85; (αTi): Ti 0.996; TiMn1−x: Ti 0.55 | experimental | [3] Khan 2016 | Table 2, p. 7, row 23 |  |
 | 823 | βTi->αTiMn+αTi | βTi: Ti 0.85; αTiMn: Ti 0.55; αTi: Ti 0.996 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 2 |  |
 | 823 | βTi->αTiMn+αTi | βTi: Ti 0.86; αTiMn: Ti 0.495; αTi: Ti 0.996 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 1 |  |
-| 811.15 | Eutectoid: (βTi) \<-> (αTi) + TiMn1−x | (βTi): Ti 0.8872; (αTi): Ti 0.9916; TiMn1−x: Ti 0.55 | model | [3] Khan 2016 | Table 2, p. 7, row 24 |  |
+| 811.15 | eutectoid: (βTi) \<-> (αTi) + TiMn1−x | (βTi): Ti 0.8872; (αTi): Ti 0.9916; TiMn1−x: Ti 0.55 | model | [3] Khan 2016 | Table 2, p. 7, row 24 |  |
 | 811 | βTi->αTiMn+αTi | βTi: Ti 0.887; αTiMn: Ti 0.55; αTi: Ti 0.992 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 3 |  |
 
 ## Other properties
@@ -268,8 +268,8 @@ Table: Phase transition, Mn–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1639.15 K | 1639.15 | Congruent: L ↔ TiMn2; _L: Ti 0.3511; TiMn2: Ti 0.3511_ | model | [3] Khan 2016 | Table 2, p. 7, row 10 |  |
-| Phase transition | 1653.15 K | 1653.15 | Congruent: L ↔ TiMn2; _L: Ti 0.327; TiMn2: Ti 0.327_ | experimental | [3] Khan 2016 | Table 2, p. 7, row 9 |  |
+| Phase transition | 1639.15 K | 1639.15 | congruent melting: L ↔ TiMn2; _L: Ti 0.3511; TiMn2: Ti 0.3511_ | model | [3] Khan 2016 | Table 2, p. 7, row 10 |  |
+| Phase transition | 1653.15 K | 1653.15 | congruent melting: L ↔ TiMn2; _L: Ti 0.327; TiMn2: Ti 0.327_ | experimental | [3] Khan 2016 | Table 2, p. 7, row 9 |  |
 
 ### Crystal structure (42)
 
@@ -285,11 +285,11 @@ Table: Crystal structure, Mn–Ti system
 | Lattice a | 1.1006 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016; _cites ref. 18_ | Table 1, p. 6, row 29 |  |
 | Lattice a | 0.48975 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 24 |  |
 | Lattice a | 0.48294 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 22 |  |
-| Lattice a | 0.8913 nm | 727 ({'op': '\<', 'value_K': 727.0}) | (αMn); _(αMn): Mn 0.88, Ti 0.12_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 15 |  |
-| Lattice a | 0.2951 nm | 882 ({'op': '\<', 'value_K': 882.0}) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
+| Lattice a | 0.8913 nm | 727 (\<) | (αMn); _(αMn): Mn 0.88, Ti 0.12_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 15 |  |
+| Lattice a | 0.2951 nm | 882 (\<) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
 | Lattice a | 0.89737 nm | 900 | (αMn); _(αMn): Mn 0.88, Ti 0.12_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 17 |  |
 | Lattice a | 0.6315 nm | 913.5 | (βMn); _alloy: Ti 0_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 12 |  |
-| Lattice a | 2.3596 nm | 970 ({'op': '\<', 'value_K': 970.0}) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
+| Lattice a | 2.3596 nm | 970 (\<) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
 | Lattice a | 0.79081 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.765, Ti 0.235_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
 | Lattice a | 1.1007 nm | 1050 | TiMn~4; _TiMn~4: Mn 0.8, Ti 0.2_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 27 |  |
 | Lattice a | 0.386 nm | 1119 | (γMn); _alloy: Ti 0_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 10 |  |
@@ -312,8 +312,8 @@ Table: Crystal structure, Mn–Ti system
 | Lattice c | 1.9338 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016; _cites ref. 18_ | Table 1, p. 6, row 29 |  |
 | Lattice c | 0.8021 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 24 |  |
 | Lattice c | 0.79309 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 22 |  |
-| Lattice c | 0.4684 nm | 882 ({'op': '\<', 'value_K': 882.0}) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
-| Lattice c | 0.8035 nm | 970 ({'op': '\<', 'value_K': 970.0}) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
+| Lattice c | 0.4684 nm | 882 (\<) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
+| Lattice c | 0.8035 nm | 970 (\<) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
 | Lattice c | 0.47931 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.765, Ti 0.235_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
 | Lattice c | 1.94411 nm | 1050 | TiMn~4; _TiMn~4: Mn 0.8, Ti 0.2_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 27 |  |
 | Lattice c | 1.94411 nm | 1323.15 | UNKNOWN | unspecified | [3] Khan 2016; _cites ref. 15_ | Table 1, p. 6, row 33 |  |

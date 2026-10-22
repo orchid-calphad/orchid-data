@@ -1,24 +1,21 @@
 # Np2O5: enthalpy of formation
 
-> Enthalpy of formation of Np2O5: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Np2O5: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Np2O5.html · Markdown: https://data.orchid-project.org/compounds/Np2O5.md
 
-6 accepted literature formation-enthalpy value(s) (model 4, unspecified 2); Materials Project -332.73 kJ/mol-atom (mp-aaabfope); OQMD -307.97 kJ/mol-atom (oqmd-113840).
+3 accepted literature formation-enthalpy value(s) (model 2, unspecified 1); Materials Project -332.73 kJ/mol-atom (mp-aaabfope); OQMD -307.97 kJ/mol-atom (oqmd-113840).
 
 Systems: [Np–O](https://data.orchid-project.org/systems/NP-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Np2O5 reported in the literature (6)
+Table: Enthalpy of formation of Np2O5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -310.286 kJ/mol-atom | Np2O5(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016 | Table 9, p. 12, row 3 |  |
-| -310.286 kJ/mol-atom | Np2O5(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016 | Table 9, p. 12, row 3 |  |
 | -308.957 kJ/mol-atom ± 9.3 | Np2O5(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 4 |  |
-| -308.957 kJ/mol-atom ± 9.3 | Np2O5(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 4 |  |
-| -308.957 kJ/mol-atom ± 9.3 | Np2O5(cr) | 298.15 | unspecified |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 7 |  |
 | -308.957 kJ/mol-atom ± 9.3 | Np2O5(cr) | 298.15 | unspecified |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 7 |  |
 
 ## DFT formation energies

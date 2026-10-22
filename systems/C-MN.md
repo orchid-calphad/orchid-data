@@ -33,55 +33,55 @@ Table: Invariant reactions reported in the literature for the C–Mn system (49)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1608 | Peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.284563, Mn 0.715437; Mn7C3: C 0.3, Mn 0.7 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 12 |  |
-| 1606 | Peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.266252, Mn 0.733748; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 10 |  |
-| 1604 | Peritectic: L^a + CGraphite -> Mn7C3 | Mn7C3: C 0.3, Mn 0.7 | experimental | [1] Djurovic 2010; _cites Yamada 2006_ [doi](https://doi.org/10.1088/0026-1394/43/5/n01) | Table 4, p. 6, row 11 |  |
+| 1608 | peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.284563, Mn 0.715437; Mn7C3: C 0.3, Mn 0.7 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 12 |  |
+| 1606 | peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.266252, Mn 0.733748; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 10 |  |
+| 1604 | peritectic: L^a + CGraphite -> Mn7C3 | Mn7C3: C 0.3, Mn 0.7 | experimental | [1] Djurovic 2010; _cites Yamada 2006_ [doi](https://doi.org/10.1088/0026-1394/43/5/n01) | Table 4, p. 6, row 11 |  |
 | 1603 | peritectic |  | model | [1] Djurovic 2010 | p. 2 | “They have speculated that Mn7 C3 does not form by a peritectic reaction around 1603 K as suggested by Schürmann and Geissler \[16\], but by a peritectoid reaction around 1561 K.” |
-| 1598 | Peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.27394, Mn 0.72606; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010 | Table 4, p. 6, row 9 |  |
-| 1581 | Peritectoid: L + Mn7C3 -> ε-Mn^a | Mn7C3: C 0.3, Mn 0.7; ε-Mn: C 0.244569, Mn 0.755431 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 14 |  |
-| 1575 | Peritectoid: L + Mn7C3 -> ε-Mn^a | Mn7C3: C 0.3, Mn 0.7; ε-Mn: C 0.247255, Mn 0.752745 | model | [1] Djurovic 2010 | Table 4, p. 6, row 13 |  |
-| 1573 | Peritectoid: L + Mn7C3 -> ε-Mn^a | Mn7C3: C 0.3, Mn 0.7; ε-Mn: C 0.225984, Mn 0.774016 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 15 |  |
-| 1533 | Eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.104973, Mn 0.895027 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 8 |  |
-| 1516 | Eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.101881, Mn 0.898119 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 6 |  |
-| 1509 | Eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.039884, Mn 0.960116 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 4 |  |
-| 1508 | Eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.13282, Mn 0.86718 | model | [1] Djurovic 2010 | Table 4, p. 6, row 5 |  |
-| 1507 | Eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.009984, Mn 0.990016 | model | [1] Djurovic 2010 | Table 4, p. 6, row 1 |  |
-| 1506 | Eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.014024, Mn 0.985976 | experimental | [1] Djurovic 2010; _cites Fenstad 2007_ [doi](https://doi.org/10.3139/146.101563) | Table 4, p. 6, row 3 |  |
+| 1598 | peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.27394, Mn 0.72606; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010 | Table 4, p. 6, row 9 |  |
+| 1581 | peritectoid: L + Mn7C3 -> ε-Mn^a | Mn7C3: C 0.3, Mn 0.7; ε-Mn: C 0.244569, Mn 0.755431 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 14 |  |
+| 1575 | peritectoid: L + Mn7C3 -> ε-Mn^a | Mn7C3: C 0.3, Mn 0.7; ε-Mn: C 0.247255, Mn 0.752745 | model | [1] Djurovic 2010 | Table 4, p. 6, row 13 |  |
+| 1573 | peritectoid: L + Mn7C3 -> ε-Mn^a | Mn7C3: C 0.3, Mn 0.7; ε-Mn: C 0.225984, Mn 0.774016 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 15 |  |
+| 1533 | eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.104973, Mn 0.895027 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 8 |  |
+| 1516 | eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.101881, Mn 0.898119 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 6 |  |
+| 1509 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.039884, Mn 0.960116 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 4 |  |
+| 1508 | eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.13282, Mn 0.86718 | model | [1] Djurovic 2010 | Table 4, p. 6, row 5 |  |
+| 1507 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.009984, Mn 0.990016 | model | [1] Djurovic 2010 | Table 4, p. 6, row 1 |  |
+| 1506 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.014024, Mn 0.985976 | experimental | [1] Djurovic 2010; _cites Fenstad 2007_ [doi](https://doi.org/10.3139/146.101563) | Table 4, p. 6, row 3 |  |
 | 1505 | eutectic: Liq → γ -Mn + δ -Mn |  | model | [1] Djurovic 2010 | p. 2 | “Fenstad and Tuset \[5\] reexamined the high temperature part of the Mn-C phase diagram by differential scanning calorimetry and proposed new liquidus details, such as one local maximum and two eutectics, Liq → γ -Mn + δ -Mn and Liq → γ -Mn + ε -Mn at 1505 K and 1501 K, respectively.” |
-| 1504 | Eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.011334, Mn 0.988666 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 2 |  |
-| 1502 | Eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.133187, Mn 0.866813 | experimental | [1] Djurovic 2010; _cites Fenstad 2007_ [doi](https://doi.org/10.3139/146.101563) | Table 4, p. 6, row 7 |  |
+| 1504 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.011334, Mn 0.988666 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 2 |  |
+| 1502 | eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.133187, Mn 0.866813 | experimental | [1] Djurovic 2010; _cites Fenstad 2007_ [doi](https://doi.org/10.3139/146.101563) | Table 4, p. 6, row 7 |  |
 | 1501 | eutectic: Liq → γ -Mn + ε -Mn |  | model | [1] Djurovic 2010 | p. 2 | “Fenstad and Tuset \[5\] reexamined the high temperature part of the Mn-C phase diagram by differential scanning calorimetry and proposed new liquidus details, such as one local maximum and two eutectics, Liq → γ -Mn + δ -Mn and Liq → γ -Mn + ε -Mn at 1505 K and 1501 K, respectively.” |
-| 1444 | Peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | ε-Mn: C 0.234292, Mn 0.765708; Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 17 |  |
-| 1440 | Peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | ε-Mn: C 0.234597, Mn 0.765403; Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | model | [1] Djurovic 2010 | Table 4, p. 6, row 16 |  |
-| 1363 | Peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 18 |  |
-| 1325 | Peritectoid: ε-Mn^a + Mn5C2 -> Mn3C | ε-Mn: C 0.218488, Mn 0.781512; Mn5C2: C 0.285714, Mn 0.714286; Mn3C: C 0.25, Mn 0.75 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 21 |  |
-| 1323 | Peritectoid: ε-Mn^a + Mn5C2 -> Mn3C | Mn5C2: C 0.285714, Mn 0.714286; Mn3C: C 0.25, Mn 0.75 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 22 |  |
-| 1323 | Peritectoid: ε-Mn^a + Mn5C2 -> Mn3C | Mn5C2: C 0.285714, Mn 0.714286; Mn3C: C 0.25, Mn 0.75 | experimental | [1] Djurovic 2010; _cites Kuo 1954_ | Table 4, p. 6, row 23 |  |
-| 1323 | Peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | experimental | [1] Djurovic 2010; _cites Kuo 1954_ | Table 4, p. 6, row 19 |  |
-| 1319 | Peritectoid: ε-Mn^a + Mn5C2 -> Mn3C | ε-Mn: C 0.209926, Mn 0.790074; Mn5C2: C 0.285714, Mn 0.714286; Mn3C: C 0.25, Mn 0.75 | model | [1] Djurovic 2010 | Table 4, p. 6, row 20 |  |
-| 1307 | Peritectoid: ε-Mn^a + Mn3C -> Mn23C6 | ε-Mn: C 0.211841, Mn 0.788159; Mn3C: C 0.25, Mn 0.75; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 25 |  |
-| 1300 | Peritectoid: ε-Mn^a + Mn3C -> Mn23C6 | ε-Mn: C 0.203171, Mn 0.796829; Mn3C: C 0.25, Mn 0.75; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 24 |  |
-| 1298 | Peritectoid: ε-Mn^a + Mn3C -> Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Kuo 1954_ | Table 4, p. 6, row 27 |  |
-| 1293 | Peritectoid: ε-Mn^a + Mn3C -> Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 26 |  |
-| 1263 | Eutectoid: ε-Mn^a -> γ-Mn + Mn23C6 | ε-Mn: C 0.160778, Mn 0.839222; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 29 |  |
-| 1263 | Eutectoid: ε-Mn^a -> γ-Mn + Mn23C6 | Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 31 |  |
-| 1260 | Eutectoid: ε-Mn^a -> γ-Mn + Mn23C6 | ε-Mn: C 0.148761, Mn 0.851239; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Sichen 1989_ [doi](https://doi.org/10.1007/bf02655933) | Table 4, p. 6, row 30 |  |
-| 1259 | Eutectoid: ε-Mn^a -> γ-Mn + Mn23C6 | ε-Mn: C 0.162175, Mn 0.837825; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 28 |  |
-| 1244 | Eutectoid: Mn3C -> Mn5C2 + Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 33 |  |
-| 1243 | Eutectoid: Mn3C -> Mn5C2 + Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 34 |  |
-| 1241 | Eutectoid: Mn3C -> Mn5C2 + Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 32 |  |
-| 1240 | Eutectoid: Mn3C -> Mn5C2 + Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Zaitsev 2004_ [doi](https://doi.org/10.1023/b:dopc.0000025219.06217.03) | Table 4, p. 6, row 35 |  |
-| 1163 | Eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 43 |  |
-| 1130 | Peritectoid: β-Mn + γ-Mn -> α-Mn^a | α-Mn: C 0.039884, Mn 0.960116 | experimental | [1] Djurovic 2010; _cites Isobe 1951_ | Table 4, p. 6, row 38 |  |
-| 1113 | Peritectoid: β-Mn + γ-Mn -> α-Mn^a | α-Mn: C 0.035576, Mn 0.964424 | experimental | [1] Djurovic 2010; _cites Vogel 1935_ [doi](https://doi.org/10.1002/srin.193500743) | Table 4, p. 6, row 39 |  |
-| 1092 | Peritectoid: β-Mn + γ-Mn -> α-Mn^a | α-Mn: C 0.029057, Mn 0.970943 | model | [1] Djurovic 2010 | Table 4, p. 6, row 36 |  |
-| 1091 | Peritectoid: β-Mn + γ-Mn -> α-Mn^a | α-Mn: C 0.028182, Mn 0.971818 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 37 |  |
-| 1043 | Eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.084182, Mn 0.915818; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 41 |  |
-| 1038 | Eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.086573, Mn 0.913427; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 40 |  |
-| 1031 | Eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.07897, Mn 0.92103; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Sichen 1989_ [doi](https://doi.org/10.1007/bf02655933) | Table 4, p. 6, row 42 |  |
+| 1444 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | ε-Mn: C 0.234292, Mn 0.765708; Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 17 |  |
+| 1440 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | ε-Mn: C 0.234597, Mn 0.765403; Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | model | [1] Djurovic 2010 | Table 4, p. 6, row 16 |  |
+| 1363 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 18 |  |
+| 1325 | peritectoid: ε-Mn^a + Mn5C2 -> Mn3C | ε-Mn: C 0.218488, Mn 0.781512; Mn5C2: C 0.285714, Mn 0.714286; Mn3C: C 0.25, Mn 0.75 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 21 |  |
+| 1323 | peritectoid: ε-Mn^a + Mn5C2 -> Mn3C | Mn5C2: C 0.285714, Mn 0.714286; Mn3C: C 0.25, Mn 0.75 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 22 |  |
+| 1323 | peritectoid: ε-Mn^a + Mn5C2 -> Mn3C | Mn5C2: C 0.285714, Mn 0.714286; Mn3C: C 0.25, Mn 0.75 | experimental | [1] Djurovic 2010; _cites Kuo 1954_ | Table 4, p. 6, row 23 |  |
+| 1323 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | experimental | [1] Djurovic 2010; _cites Kuo 1954_ | Table 4, p. 6, row 19 |  |
+| 1319 | peritectoid: ε-Mn^a + Mn5C2 -> Mn3C | ε-Mn: C 0.209926, Mn 0.790074; Mn5C2: C 0.285714, Mn 0.714286; Mn3C: C 0.25, Mn 0.75 | model | [1] Djurovic 2010 | Table 4, p. 6, row 20 |  |
+| 1307 | peritectoid: ε-Mn^a + Mn3C -> Mn23C6 | ε-Mn: C 0.211841, Mn 0.788159; Mn3C: C 0.25, Mn 0.75; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 25 |  |
+| 1300 | peritectoid: ε-Mn^a + Mn3C -> Mn23C6 | ε-Mn: C 0.203171, Mn 0.796829; Mn3C: C 0.25, Mn 0.75; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 24 |  |
+| 1298 | peritectoid: ε-Mn^a + Mn3C -> Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Kuo 1954_ | Table 4, p. 6, row 27 |  |
+| 1293 | peritectoid: ε-Mn^a + Mn3C -> Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 26 |  |
+| 1263 | eutectoid: ε-Mn^a -> γ-Mn + Mn23C6 | ε-Mn: C 0.160778, Mn 0.839222; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 29 |  |
+| 1263 | eutectoid: ε-Mn^a -> γ-Mn + Mn23C6 | Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 31 |  |
+| 1260 | eutectoid: ε-Mn^a -> γ-Mn + Mn23C6 | ε-Mn: C 0.148761, Mn 0.851239; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Sichen 1989_ [doi](https://doi.org/10.1007/bf02655933) | Table 4, p. 6, row 30 |  |
+| 1259 | eutectoid: ε-Mn^a -> γ-Mn + Mn23C6 | ε-Mn: C 0.162175, Mn 0.837825; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 28 |  |
+| 1244 | eutectoid: Mn3C -> Mn5C2 + Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 33 |  |
+| 1243 | eutectoid: Mn3C -> Mn5C2 + Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 34 |  |
+| 1241 | eutectoid: Mn3C -> Mn5C2 + Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 32 |  |
+| 1240 | eutectoid: Mn3C -> Mn5C2 + Mn23C6 | Mn3C: C 0.25, Mn 0.75; Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Zaitsev 2004_ [doi](https://doi.org/10.1023/b:dopc.0000025219.06217.03) | Table 4, p. 6, row 35 |  |
+| 1163 | eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 43 |  |
+| 1130 | peritectoid: β-Mn + γ-Mn -> α-Mn^a | α-Mn: C 0.039884, Mn 0.960116 | experimental | [1] Djurovic 2010; _cites Isobe 1951_ | Table 4, p. 6, row 38 |  |
+| 1113 | peritectoid: β-Mn + γ-Mn -> α-Mn^a | α-Mn: C 0.035576, Mn 0.964424 | experimental | [1] Djurovic 2010; _cites Vogel 1935_ [doi](https://doi.org/10.1002/srin.193500743) | Table 4, p. 6, row 39 |  |
+| 1092 | peritectoid: β-Mn + γ-Mn -> α-Mn^a | α-Mn: C 0.029057, Mn 0.970943 | model | [1] Djurovic 2010 | Table 4, p. 6, row 36 |  |
+| 1091 | peritectoid: β-Mn + γ-Mn -> α-Mn^a | α-Mn: C 0.028182, Mn 0.971818 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 37 |  |
+| 1043 | eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.084182, Mn 0.915818; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 41 |  |
+| 1038 | eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.086573, Mn 0.913427; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 40 |  |
+| 1031 | eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.07897, Mn 0.92103; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Sichen 1989_ [doi](https://doi.org/10.1007/bf02655933) | Table 4, p. 6, row 42 |  |
 | 1031 | eutectoid: γ -Mn → α -Mn + Mn23 C6 |  | model | [1] Djurovic 2010 | p. 1 | “The temperature and composition of the eutectoid decomposition of γ -Mn by the reaction γ -Mn → α -Mn + Mn23 C6 were estimated to be 1031 K and 9.62 mol% of carbon, respectively.” |
-| 701 | Eutectoid: Mn5C2 -> Mn23C6 + Mn7C3 | Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 45 |  |
-| 653 | Eutectoid: Mn5C2 -> Mn23C6 + Mn7C3 | Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010 | Table 4, p. 6, row 44 |  |
+| 701 | eutectoid: Mn5C2 -> Mn23C6 + Mn7C3 | Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 45 |  |
+| 653 | eutectoid: Mn5C2 -> Mn23C6 + Mn7C3 | Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010 | Table 4, p. 6, row 44 |  |
 
 ## Formation enthalpies
 
@@ -141,29 +141,29 @@ Table: Crystal structure, C–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice a  | 10.595 Å | 298.15 | Mn23C6; _alloy: Mn 0.793103_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 9 |  |
-| lattice a  | 10.38 Å | 298.15 | Mn23C6; _alloy: Mn 0.793103_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 10 |  |
-| lattice a  | 2.76 Å | 298.15 | Mn2C; _alloy: Mn 0.666667_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 2 |  |
-| lattice a  | 5.103 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 7 |  |
-| lattice a  | 5.08 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 8 |  |
-| lattice a  | 11.6724 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 5 |  |
-| lattice a  | 11.53 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 6 |  |
-| lattice a  | 4.543 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 3 |  |
-| lattice a  | 4.45 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 4 |  |
-| lattice a  | 4.09 Å | 298.15 | MnC; _alloy: Mn 0.5_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 1 |  |
-| lattice b  | 6.787 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 7 |  |
-| lattice b  | 6.77 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 8 |  |
-| lattice b  | 4.5864 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 5 |  |
-| lattice b  | 4.47 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 6 |  |
-| lattice b  | 6.9544 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 3 |  |
-| lattice b  | 6.8 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 4 |  |
-| lattice c  | 4.47 Å | 298.15 | Mn2C; _alloy: Mn 0.666667_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 2 |  |
-| lattice c  | 4.545 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 7 |  |
-| lattice c  | 4.53 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 8 |  |
-| lattice c  | 5.0969 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 5 |  |
-| lattice c  | 4.99 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 6 |  |
-| lattice c  | 11.973 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 3 |  |
-| lattice c  | 11.71 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 4 |  |
+| Lattice a | 10.595 Å | 298.15 | Mn23C6; _alloy: Mn 0.793103_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 9 |  |
+| Lattice a | 10.38 Å | 298.15 | Mn23C6; _alloy: Mn 0.793103_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 10 |  |
+| Lattice a | 2.76 Å | 298.15 | Mn2C; _alloy: Mn 0.666667_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 2 |  |
+| Lattice a | 5.103 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 7 |  |
+| Lattice a | 5.08 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 8 |  |
+| Lattice a | 11.6724 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 5 |  |
+| Lattice a | 11.53 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 6 |  |
+| Lattice a | 4.543 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 3 |  |
+| Lattice a | 4.45 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 4 |  |
+| Lattice a | 4.09 Å | 298.15 | MnC; _alloy: Mn 0.5_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 1 |  |
+| Lattice b | 6.787 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 7 |  |
+| Lattice b | 6.77 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 8 |  |
+| Lattice b | 4.5864 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 5 |  |
+| Lattice b | 4.47 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 6 |  |
+| Lattice b | 6.9544 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 3 |  |
+| Lattice b | 6.8 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 4 |  |
+| Lattice c | 4.47 Å | 298.15 | Mn2C; _alloy: Mn 0.666667_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 2 |  |
+| Lattice c | 4.545 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 7 |  |
+| Lattice c | 4.53 Å | 298.15 | Mn3C; _alloy: Mn 0.75_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 8 |  |
+| Lattice c | 5.0969 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 5 |  |
+| Lattice c | 4.99 Å | 298.15 | Mn5C2; _alloy: Mn 0.714286_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 6 |  |
+| Lattice c | 11.973 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | experimental | [1] Djurovic 2010; _cites Bouchaud 1967_ | Table 3, p. 5, row 3 |  |
+| Lattice c | 11.71 Å | 298.15 | Mn7C3; _alloy: Mn 0.7_ | DFT | [1] Djurovic 2010 | Table 3, p. 5, row 4 |  |
 
 ## Sources
 

@@ -83,7 +83,7 @@ Table: Phase transition, In–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1693.15 K | 1693.15 | congruent | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
+| Phase transition | 1693.15 K | 1693.15 | congruent transformation | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
 
 ## Sources
 

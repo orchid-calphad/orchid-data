@@ -1,10 +1,10 @@
 # Hg–Te system
 
-> Hg–Te system: 36 accepted literature values (phase equilibrium 12, invariant reaction 10, formation 8, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Te system: 32 accepted literature values (phase equilibrium 11, formation 8, invariant reaction 8, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-TE.html · Markdown: https://data.orchid-project.org/systems/HG-TE.md
 
-36 accepted literature values from 2 paper(s) (experimental 22, model 11, unspecified 3); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+32 accepted literature values from 2 paper(s) (experimental 21, model 8, unspecified 3); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-TE.json) · [CSV](https://data.orchid-project.org/systems/HG-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-TE/HgTe-10Gie.json) · [Markdown](https://data.orchid-project.org/systems/HG-TE.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
-| model | 11 |
+| experimental | 21 |
+| model | 8 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 10 |
-| phase transition | 6 |
-| phase equilibrium | 12 |
+| invariant reaction | 8 |
+| phase transition | 5 |
+| phase equilibrium | 11 |
 | formation | 8 |
 
 ## Calculated phase diagrams
@@ -49,17 +49,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hg–Te system (10)
+Table: Invariant reactions reported in the literature for the Hg–Te system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 684 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 9 |  |
 | 684 | eutectic |  | experimental | [1] Gierlotka 2010 | p. 2 | “The system shows 2 invariant reactions: eutectic reaction between liquid, solid Hg and intermetallic compound HgTe at temperature 233 K and another eutectic between liquid, solid tellurium and intermetallic compound at 684 K.” |
 | 683 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 11 |  |
-| 683 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 10 |  |
 | 675 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 12 |  |
 | 234 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 2 |  |
-| 234 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 3 |  |
 | 233 | eutectic |  | experimental | [1] Gierlotka 2010 | p. 2 | “The system shows 2 invariant reactions: eutectic reaction between liquid, solid Hg and intermetallic compound HgTe at temperature 233 K and another eutectic between liquid, solid tellurium and intermetallic compound at 684 K.” |
 | 233 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 1 |  |
 | 233 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 4 |  |
@@ -83,7 +81,7 @@ Table: Enthalpies of formation, Hg–Te system (8)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (5)
 
 Table: Phase transition, Hg–Te system
 
@@ -92,28 +90,26 @@ Table: Phase transition, Hg–Te system
 | Phase transition | 942 K | 942 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | model | [1] Gierlotka 2010 | Table 3, p. 4, row 8 |  |
 | Phase transition | 942.65 K | 942.65 | HgTe | experimental | [2] Jianrong 1995; _cites ref. 31_ | p. 2 | “The melting point of HgTe has been measured by Strauss (3 1) Asadov (34) Delves and Lewis (36) Vanyukov et al. (32), Harman (35) Levitskaya et al. (37) Steininger (38) Blair and New&m (39), Ray and Spencer (26), Szofran and Lehoczky (40), Harman and Strauss (41), Tung et al.. (5)and Gromakov et al. (42) with general agreement and a mean value of 669.5"C.” |
 | Phase transition | 943 K | 943 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 5 |  |
-| Phase transition | 943 K | 943 | congruent | experimental | [1] Gierlotka 2010 | p. 2 | “Temperature of congruent melting of HgTe intermetallic compound is 943 K.” |
+| Phase transition | 943 K | 943 | congruent transformation | experimental | [1] Gierlotka 2010 | p. 2 | “Temperature of congruent melting of HgTe intermetallic compound is 943 K.” |
 | Phase transition | 944 K | 944 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | model | [1] Gierlotka 2010 | Table 3, p. 4, row 6 |  |
-| Phase transition | 944 K | 944 | L = HgTe; _L: Te 0.5; HgTe: Te 0.5_ | model | [1] Gierlotka 2010 | Table 3, p. 4, row 7 |  |
 
-### Phase equilibrium (12)
+### Phase equilibrium (11)
 
 Table: Phase equilibrium, Hg–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 936.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 5 |  |
-| Phase composition |  | 936.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 3 |  |
-| Phase composition |  | 940.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 5_ | Table 1B, p. 4, row 6 |  |
-| Phase composition |  | 941.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 38_ | Table 1B, p. 4, row 11 |  |
-| Phase composition |  | 941.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 37_ | Table 1B, p. 4, row 12 |  |
-| Phase composition |  | 942.65 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 39_ | Table 1B, p. 4, row 7 |  |
-| Phase composition |  | 943.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 4 |  |
-| Phase composition |  | 943.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 36_ | Table 1B, p. 4, row 9 |  |
-| Phase composition |  | 943.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 26_ | Table 1B, p. 4, row 8 |  |
-| Phase composition |  | 943.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 34_ | Table 1B, p. 4, row 2 |  |
-| Phase composition |  | 943.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 31_ | Table 1B, p. 4, row 1 |  |
-| Phase composition |  | 958.15 | liquidus: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 42_ | Table 1B, p. 4, row 10 |  |
+| Phase composition |  | 936.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 5 |  |
+| Phase composition |  | 940.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 5_ | Table 1B, p. 4, row 6 |  |
+| Phase composition |  | 941.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 38_ | Table 1B, p. 4, row 11 |  |
+| Phase composition |  | 941.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 37_ | Table 1B, p. 4, row 12 |  |
+| Phase composition |  | 942.65 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 39_ | Table 1B, p. 4, row 7 |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 32_ | Table 1B, p. 4, row 4 |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 36_ | Table 1B, p. 4, row 9 |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 26_ | Table 1B, p. 4, row 8 |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 34_ | Table 1B, p. 4, row 2 |  |
+| Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 31_ | Table 1B, p. 4, row 1 |  |
+| Phase composition |  | 958.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 42_ | Table 1B, p. 4, row 10 |  |
 
 ## Sources
 

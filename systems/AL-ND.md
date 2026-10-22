@@ -201,23 +201,23 @@ Table: Invariant reactions reported in the literature for the Al–Nd system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1758 | Congruent: Al2Nd -> Liquid | Al2Nd: Nd 0.333; Liquid: Nd 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 9 |  |
-| 1506.6 | Peritectic: Liquid + Laves-C15\* -> Al11Nd3-H | Liquid: Nd 0.17; Laves-C15\*: Nd 0.333; Al11Nd3-H: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 2 |  |
-| 1475.8 | Peritectic: Al11Nd3-H + Al2Nd \* -> Al3Nd | Al11Nd3-H: Nd 0.214; Al2Nd \*: Nd 0.333; Al3Nd: Nd 0.25 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 3 |  |
-| 1224.7 | Polymorphic: Al11Nd3-L -> Al11Nd3-H | Al11Nd3-L: Nd 0.214; Al11Nd3-H: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 10 |  |
-| 1220.3 | Peritectic: Liquid + AlNd -> Al2Nd | Liquid: Nd 0.643; AlNd: Nd 0.5; Al2Nd: Nd 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 4 |  |
-| 1122.2 | Peritectic: Liquid + AlNd -> AlNd2 | Liquid: Nd 0.696; AlNd: Nd 0.5; AlNd2: Nd 0.667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 5 |  |
+| 1758 | congruent melting: Al2Nd -> Liquid | Al2Nd: Nd 0.333; Liquid: Nd 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 9 |  |
+| 1506.6 | peritectic: Liquid + Laves-C15\* -> Al11Nd3-H | Liquid: Nd 0.17; Laves-C15\*: Nd 0.333; Al11Nd3-H: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 2 |  |
+| 1475.8 | peritectic: Al11Nd3-H + Al2Nd \* -> Al3Nd | Al11Nd3-H: Nd 0.214; Al2Nd \*: Nd 0.333; Al3Nd: Nd 0.25 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 3 |  |
+| 1224.7 | polymorphic: Al11Nd3-L -> Al11Nd3-H | Al11Nd3-L: Nd 0.214; Al11Nd3-H: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 10 |  |
+| 1220.3 | peritectic: Liquid + AlNd -> Al2Nd | Liquid: Nd 0.643; AlNd: Nd 0.5; Al2Nd: Nd 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 4 |  |
+| 1122.2 | peritectic: Liquid + AlNd -> AlNd2 | Liquid: Nd 0.696; AlNd: Nd 0.5; AlNd2: Nd 0.667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 5 |  |
 | 1053.15 | peritectic |  | experimental | [2] Gao 2005; _cites Saccone 1996_ | p. 9 | “The AlNd3 phase was reported to melt peritectically at 675 °C\[7\] and at 780 °C.\[17\]” |
-| 1037.9 | Peritectic: Liquid + AlNd2 -> AlNd3-L | Liquid: Nd 0.78; AlNd2: Nd 0.667; AlNd3-L: Nd 0.75 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 6 |  |
-| 1008.9 | Eutectic: Liquid -> AlNd3-L + bcc-A2 | Liquid: Nd 0.815; AlNd3-L: Nd 0.75; bcc-A2: Nd 0.92 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 7 |  |
+| 1037.9 | peritectic: Liquid + AlNd2 -> AlNd3-L | Liquid: Nd 0.78; AlNd2: Nd 0.667; AlNd3-L: Nd 0.75 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 6 |  |
+| 1008.9 | eutectic: Liquid -> AlNd3-L + bcc-A2 | Liquid: Nd 0.815; AlNd3-L: Nd 0.75; bcc-A2: Nd 0.92 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 7 |  |
 | 1000.15 | eutectic: Liq 4 Nd AlNd3 |  | model | [2] Gao 2005; _cites Cacciamani 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900009-3) | p. 9 | “Indeed, in Cacciamani's assessment,\[18\] the reaction Liq 4 Nd AlNd3 was optimized to occur at 727 °C (37 °C higher than the experimental value\[17\]), with a eutectic point of 82.8 at. pct Nd.” |
 | 963.15 | eutectic: Liq 4 Nd AlNd3 |  | experimental | [2] Gao 2005; _cites Saccone 1996_ | p. 9 | “Saccone et al.\[17\] also proposed a eutectoid reaction of Nd 4 Nd AlNd3 at 650 °C, and a eutectic reaction of Liq 4 Nd AlNd3 at 690 °C, with a eutectic point of 81 at. pct Nd.” |
 | 948.15 | peritectic |  | experimental | [2] Gao 2005; _cites Buschow 1965_ | p. 9 | “The AlNd3 phase was reported to melt peritectically at 675 °C\[7\] and at 780 °C.\[17\]” |
 | 923.15 | eutectoid: Nd 4 Nd AlNd3 |  | experimental | [2] Gao 2005; _cites Saccone 1996_ | p. 9 | “Saccone et al.\[17\] also proposed a eutectoid reaction of Nd 4 Nd AlNd3 at 650 °C, and a eutectic reaction of Liq 4 Nd AlNd3 at 690 °C, with a eutectic point of 81 at. pct Nd.” |
 | 908 | eutectic |  | experimental | [3] Jixin 1996; _cites ref. 65Bus_ | p. 1 | “eutectics occur: one at 905K (2.5 at.% Nd) and one at 908K (85 at.% Nd) according to \[9OKon\] and \[65Bus\] respectively.” |
 | 905 | eutectic |  | experimental | [3] Jixin 1996; _cites ref. 9_ | p. 1 | “eutectics occur: one at 905K (2.5 at.% Nd) and one at 908K (85 at.% Nd) according to \[9OKon\] and \[65Bus\] respectively.” |
-| 898.6 | Eutectic: Liquid -> Al11Nd3-L + fcc-Al | Liquid: Nd 0.03; Al11Nd3-L: Nd 0; fcc-Al: Nd 0; fcc-A1: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 1 |  |
-| 855.3 | Eutectoid: bcc-A2 -> AlNd3-L + dhcp | bcc-A2: Nd 0.939; AlNd3-L: Nd 0.75; dhcp: Nd 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 8 |  |
+| 898.6 | eutectic: Liquid -> Al11Nd3-L + fcc-Al | Liquid: Nd 0.03; Al11Nd3-L: Nd 0; fcc-Al: Nd 0; fcc-A1: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 1 |  |
+| 855.3 | eutectoid: bcc-A2 -> AlNd3-L + dhcp | bcc-A2: Nd 0.939; AlNd3-L: Nd 0.75; dhcp: Nd 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 8 |  |
 
 ## Other properties
 
@@ -231,7 +231,7 @@ Table: Phase transition, Al–Nd system
 | Phase transition | 1161.15 K | 1161.15 | polymorphic | model | [2] Gao 2005 | p. 1 | “Based on current differential thermal analysis (DTA) measurements and theoretical calculations, it is also proposed that there is an /Al3Ce polymorphous transition occurring at 973 °C in the Al-Ce system and an /Al3Nd polymorphous transition occurring at 888 °C in the Al-Nd system.” |
 | Phase transition | 1161.15 K | 1161.15 | polymorphic | experimental | [2] Gao 2005 | p. 7 | “From the DTA measurements, it is shown that there is a high probability that an /Al3Ce polymorphous transition will occur at 973 °C in the Al-Ce system and, likewise, that an /Al3Nd transition will occur at 888 °C in the Al-Nd system.” |
 | Phase transition | 1207.15 K | 1207.15 | Al4Nd 4 Liq Al11Nd3 | experimental | [2] Gao 2005 | p. 9 | “A eutectic reaction Liq 4 Al Al11Nd3 occurs at 641 °C, and the reaction Al4Nd 4 Liq Al11Nd3 occurs at 934 °C.” |
-| Phase transition | 1548.15 K | 1548.15 | liquidus | experimental | [2] Gao 2005 | p. 3 | “The final liquidus is estimated at 1275 °C, which corresponds to the melting of Al2Nd.” |
+| Phase transition | 1548.15 K | 1548.15 | other | experimental | [2] Gao 2005 | p. 3 | “The final liquidus is estimated at 1275 °C, which corresponds to the melting of Al2Nd.” |
 
 ### Other property (4)
 

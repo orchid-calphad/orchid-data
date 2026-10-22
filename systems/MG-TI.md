@@ -50,8 +50,8 @@ Table: Invariant reactions reported in the literature for the Mg–Ti system (3)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1163.15 | peritectic |  | experimental | [1] Murray 1986; _cites ref. 59Obi_ | p. 3 | “\[59Obi\] r e p o r t e d a p e r i t e c t i c - t y p e r e a c t i o n a t a b o u t 890 ~ and reported solubilities of Mg in (flTi) between 0.6 and 1.2 at.% in the range 900 to 1200 ~” |
-| 1138.15 | Catatectic(a): (βTi) -> (αTi) + (LMg) | (βTi): Ti 0.976; (αTi): Ti 0.984; (LMg): Ti 1.400e-4 | model | [1] Murray 1986 | Table 1, p. 2, row 2 |  |
-| 924.15 | Peritectic: L + (αTi) -> (Mg) | L: Ti 1.000e-5; (αTi): Ti 0.985; (Mg): Ti 0.0012 | model | [1] Murray 1986 | Table 1, p. 2, row 1 |  |
+| 1138.15 | metatectic/catatectic: (βTi) -> (αTi) + (LMg) | (βTi): Ti 0.976; (αTi): Ti 0.984; (LMg): Ti 1.400e-4 | model | [1] Murray 1986 | Table 1, p. 2, row 2 |  |
+| 924.15 | peritectic: L + (αTi) -> (Mg) | L: Ti 1.000e-5; (αTi): Ti 0.985; (Mg): Ti 0.0012 | model | [1] Murray 1986 | Table 1, p. 2, row 1 |  |
 
 ## Other properties
 
@@ -61,10 +61,10 @@ Table: Phase transition, Mg–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 923.15 K | 923.15 | Melting point: L -> (Mg); _(Mg): Ti 0_ | model | [1] Murray 1986 | Table 1, p. 2, row 5 |  |
+| Phase transition | 923.15 K | 923.15 | congruent melting: L -> (Mg); _(Mg): Ti 0_ | model | [1] Murray 1986 | Table 1, p. 2, row 5 |  |
 | Phase transition | 1138.15 K | 1138.15 | other: (/3Ti) ~ (aTi) + (LMg) | model | [1] Murray 1986 | p. 3 | “The catatectic (inverted peritectic) reaction (/3Ti) ~ (aTi) + (LMg) is shown in the assessed diagram at 865 ~” |
-| Phase transition | 1155.15 K | 1155.15 | Allotropic transformation: (βTi) -> (αTi); _(βTi): Ti 1_ | model | [1] Murray 1986 | Table 1, p. 2, row 4 |  |
-| Phase transition | 1943.15 K | 1943.15 | Melting point: L -> (βTi); _(βTi): Ti 1_ | model | [1] Murray 1986 | Table 1, p. 2, row 3 |  |
+| Phase transition | 1155.15 K | 1155.15 | polymorphic: (βTi) -> (αTi); _(βTi): Ti 1_ | model | [1] Murray 1986 | Table 1, p. 2, row 4 |  |
+| Phase transition | 1943.15 K | 1943.15 | congruent melting: L -> (βTi); _(βTi): Ti 1_ | model | [1] Murray 1986 | Table 1, p. 2, row 3 |  |
 
 ## Sources
 

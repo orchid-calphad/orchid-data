@@ -1,20 +1,19 @@
 # La7Ru3: enthalpy of formation
 
-> Enthalpy of formation of La7Ru3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of La7Ru3: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/La7Ru3.html · Markdown: https://data.orchid-project.org/compounds/La7Ru3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -27.093 kJ/mol-atom (mp-aaacqkvm); OQMD -25.251 kJ/mol-atom (oqmd-1821162).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -27.093 kJ/mol-atom (mp-aaacqkvm); OQMD -25.251 kJ/mol-atom (oqmd-1821162).
 
 Systems: [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of La7Ru3 reported in the literature (2)
+Table: Enthalpy of formation of La7Ru3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -16.519 kJ/mol-atom | La7Ru3 |  | model | Optimization | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23 |  |
 | -16.519 kJ/mol-atom | La7Ru3 |  | model | Optimization | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23 |  |
 
 ## DFT formation energies

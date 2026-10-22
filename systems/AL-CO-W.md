@@ -1,10 +1,10 @@
 # Al–Co–W system
 
-> Al–Co–W system: 22 accepted literature values (formation 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co–W system: 21 accepted literature values (formation 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO-W.html · Markdown: https://data.orchid-project.org/systems/AL-CO-W.md
 
-22 accepted literature values from 1 paper(s) (DFT 22); 0 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (DFT 21); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-W.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-W) · [Markdown](https://data.orchid-project.org/systems/AL-CO-W.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| DFT | 22 |
+| DFT | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 22 |
+| formation | 21 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Co–W system (22)
+Table: Enthalpies of formation, Al–Co–W system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -43,7 +43,6 @@ Table: Enthalpies of formation, Al–Co–W system (22)
 | Al9Co2 |  | -31.45 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 10 |  |
 | BCC_B2, AlCo |  | -58.46 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4 |  |
 | BCC_B2, AlCo |  | -58.37 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1 |  |
-| BCC_B2, AlCo |  | -58.37 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 2 |  |
 | BCC_B2, AlCo |  | -58.18 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3 |  |
 | Co3W |  | -7.94 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 21 |  |
 | Co3W |  | -7.81 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 20 |  |

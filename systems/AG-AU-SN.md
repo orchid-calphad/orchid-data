@@ -29,33 +29,33 @@ Table: Invariant reactions reported in the literature for the Ag–Au–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 799.15 | U: L + fcc -> Au10Sn + hcp | L: Ag 3.000e-4, Au 0.792 | model | [1] Gao 2009 | Table IV, p. 8, row 13 |  |
-| 799 | U: L + fcc_A1 -> D024 + hcp_A3 | L: Ag 2.000e-4, Au 0.792 | model | [2] Wang 2007 | Table 2, p. 5, row 3 |  |
-| 649.45 | P: L -> hcp_A3 +AuSn | L: Ag 0.144, Au 0.459; hcp_A3: Ag 0.482, Au 0.368 | model | [2] Wang 2007 | Table 2, p. 5, row 2 |  |
-| 643.15 | e: L -> AuSn + hcp | L: Ag 0.168, Au 0.439 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 14 |  |
-| 643.15 | e: L -> AuSn + hcp | L: Ag 0.127, Au 0.485 | model | [1] Gao 2009 | Table IV, p. 8, row 16 |  |
-| 643 | P: L -> hcp_A3 +AuSn | L: Ag 0.168, Au 0.439; hcp_A3: Ag 0.538, Au 0.301 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 1 |  |
-| 641.15 | e: L -> AuSn + hcp |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 15 |  |
-| 624.15 | U: L + hcp -> Ag3Sn + AuSn | L: Ag 0.185, Au 0.334 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 10 |  |
-| 624 | U: L + hcp_A3 -> Ag3Sn + AuSn | L: Ag 0.185, Au 0.334; Ag3Sn: Ag 0.624, Au 0.161 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 4 |  |
-| 622.7 | U: L + hcp_A3 -> Ag3Sn + AuSn | L: Ag 0.191, Au 0.327; Ag3Sn: Ag 0.629, Au 0.123 | model | [2] Wang 2007 | Table 2, p. 5, row 5 |  |
-| 622.15 | U: L + hcp -> Ag3Sn + AuSn |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 11 |  |
-| 617.15 | U: L + hcp -> Ag3Sn + AuSn | L: Ag 0.197, Au 0.336 | model | [1] Gao 2009 | Table IV, p. 8, row 12 |  |
-| 568.6 | U: L + AuSn -> Ag3Sn + AuSn2 | L: Ag 0.111, Au 0.256; Ag3Sn: Ag 0.669, Au 0.081 | model | [2] Wang 2007 | Table 2, p. 5, row 7 |  |
-| 567.15 | U: L + AuSn -> Ag3Sn + AuSn2 | L: Ag 0.088, Au 0.28 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 7 |  |
-| 567 | U: L + AuSn -> Ag3Sn + AuSn2 | L: Ag 0.088, Au 0.28; Ag3Sn: Ag 0.662, Au 0.097 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 6 |  |
-| 566.85 | U: L + AuSn -> Ag3Sn + AuSn2 | L: Ag 0.119, Au 0.257 | model | [1] Gao 2009 | Table IV, p. 8, row 9 |  |
-| 566.15 | U: L + AuSn -> Ag3Sn + AuSn2 |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 8 |  |
-| 513.15 | U: L + AuSn2 -> Ag3Sn + AuSn4 | L: Ag 0.056, Au 0.123 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 4 |  |
-| 513 | U: L + AuSn2 -> Ag3Sn + AuSn4 | L: Ag 0.057, Au 0.123; Ag3Sn: Ag 0.68, Au 0.065 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 8 |  |
-| 512.15 | U: L + AuSn2 -> Ag3Sn + AuSn4 |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 5 |  |
-| 511.75 | U: L + AuSn2 -> Ag3Sn + AuSn4 | L: Ag 0.054, Au 0.1 | model | [1] Gao 2009 | Table IV, p. 8, row 6 |  |
-| 511.2 | U: L + AuSn2 -> Ag3Sn + AuSn4 | L: Ag 0.054, Au 0.099; Ag3Sn: Ag 0.728, Au 0.023 | model | [2] Wang 2007 | Table 2, p. 5, row 9 |  |
-| 480.15 | E: L -> Ag3Sn + AuSn4 + Sn |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 2 |  |
-| 479.75 | E: L -> Ag3Sn + AuSn4 + Sn | L: Ag 0.035, Au 0.041 | model | [1] Gao 2009 | Table IV, p. 8, row 3 |  |
-| 479.7 | E: L -> bct_A5 + Ag3Sn + AuSn4 | L: Ag 0.035, Au 0.042; Ag3Sn: Ag 0.743, Au 0.007 | model | [2] Wang 2007 | Table 2, p. 5, row 11 |  |
-| 479.15 | E: L -> Ag3Sn + AuSn4 + Sn | L: Ag 0.04, Au 0.022 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 1 |  |
-| 479 | E: L -> bct_A5 + Ag3Sn + AuSn4 | L: Ag 0.04, Au 0.022; Ag3Sn: Ag 0.689, Au 0.041 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 10 |  |
+| 799.15 | quasi-peritectic: L + fcc -> Au10Sn + hcp | L: Ag 3.000e-4, Au 0.792 | model | [1] Gao 2009 | Table IV, p. 8, row 13 |  |
+| 799 | quasi-peritectic: L + fcc_A1 -> D024 + hcp_A3 | L: Ag 2.000e-4, Au 0.792 | model | [2] Wang 2007 | Table 2, p. 5, row 3 |  |
+| 649.45 | peritectic: L -> hcp_A3 +AuSn | L: Ag 0.144, Au 0.459; hcp_A3: Ag 0.482, Au 0.368 | model | [2] Wang 2007 | Table 2, p. 5, row 2 |  |
+| 643.15 | eutectic: L -> AuSn + hcp | L: Ag 0.168, Au 0.439 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 14 |  |
+| 643.15 | eutectic: L -> AuSn + hcp | L: Ag 0.127, Au 0.485 | model | [1] Gao 2009 | Table IV, p. 8, row 16 |  |
+| 643 | peritectic: L -> hcp_A3 +AuSn | L: Ag 0.168, Au 0.439; hcp_A3: Ag 0.538, Au 0.301 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 1 |  |
+| 641.15 | eutectic: L -> AuSn + hcp |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 15 |  |
+| 624.15 | quasi-peritectic: L + hcp -> Ag3Sn + AuSn | L: Ag 0.185, Au 0.334 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 10 |  |
+| 624 | quasi-peritectic: L + hcp_A3 -> Ag3Sn + AuSn | L: Ag 0.185, Au 0.334; Ag3Sn: Ag 0.624, Au 0.161 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 4 |  |
+| 622.7 | quasi-peritectic: L + hcp_A3 -> Ag3Sn + AuSn | L: Ag 0.191, Au 0.327; Ag3Sn: Ag 0.629, Au 0.123 | model | [2] Wang 2007 | Table 2, p. 5, row 5 |  |
+| 622.15 | quasi-peritectic: L + hcp -> Ag3Sn + AuSn |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 11 |  |
+| 617.15 | quasi-peritectic: L + hcp -> Ag3Sn + AuSn | L: Ag 0.197, Au 0.336 | model | [1] Gao 2009 | Table IV, p. 8, row 12 |  |
+| 568.6 | quasi-peritectic: L + AuSn -> Ag3Sn + AuSn2 | L: Ag 0.111, Au 0.256; Ag3Sn: Ag 0.669, Au 0.081 | model | [2] Wang 2007 | Table 2, p. 5, row 7 |  |
+| 567.15 | quasi-peritectic: L + AuSn -> Ag3Sn + AuSn2 | L: Ag 0.088, Au 0.28 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 7 |  |
+| 567 | quasi-peritectic: L + AuSn -> Ag3Sn + AuSn2 | L: Ag 0.088, Au 0.28; Ag3Sn: Ag 0.662, Au 0.097 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 6 |  |
+| 566.85 | quasi-peritectic: L + AuSn -> Ag3Sn + AuSn2 | L: Ag 0.119, Au 0.257 | model | [1] Gao 2009 | Table IV, p. 8, row 9 |  |
+| 566.15 | quasi-peritectic: L + AuSn -> Ag3Sn + AuSn2 |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 8 |  |
+| 513.15 | quasi-peritectic: L + AuSn2 -> Ag3Sn + AuSn4 | L: Ag 0.056, Au 0.123 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 4 |  |
+| 513 | quasi-peritectic: L + AuSn2 -> Ag3Sn + AuSn4 | L: Ag 0.057, Au 0.123; Ag3Sn: Ag 0.68, Au 0.065 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 8 |  |
+| 512.15 | quasi-peritectic: L + AuSn2 -> Ag3Sn + AuSn4 |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 5 |  |
+| 511.75 | quasi-peritectic: L + AuSn2 -> Ag3Sn + AuSn4 | L: Ag 0.054, Au 0.1 | model | [1] Gao 2009 | Table IV, p. 8, row 6 |  |
+| 511.2 | quasi-peritectic: L + AuSn2 -> Ag3Sn + AuSn4 | L: Ag 0.054, Au 0.099; Ag3Sn: Ag 0.728, Au 0.023 | model | [2] Wang 2007 | Table 2, p. 5, row 9 |  |
+| 480.15 | eutectic: L -> Ag3Sn + AuSn4 + Sn |  | experimental | [1] Gao 2009 | Table IV, p. 8, row 2 |  |
+| 479.75 | eutectic: L -> Ag3Sn + AuSn4 + Sn | L: Ag 0.035, Au 0.041 | model | [1] Gao 2009 | Table IV, p. 8, row 3 |  |
+| 479.7 | eutectic: L -> bct_A5 + Ag3Sn + AuSn4 | L: Ag 0.035, Au 0.042; Ag3Sn: Ag 0.743, Au 0.007 | model | [2] Wang 2007 | Table 2, p. 5, row 11 |  |
+| 479.15 | eutectic: L -> Ag3Sn + AuSn4 + Sn | L: Ag 0.04, Au 0.022 | experimental | [1] Gao 2009; _cites Prince 1988_ | Table IV, p. 8, row 1 |  |
+| 479 | eutectic: L -> bct_A5 + Ag3Sn + AuSn4 | L: Ag 0.04, Au 0.022; Ag3Sn: Ag 0.689, Au 0.041 | experimental | [2] Wang 2007; _cites Evans 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.286) | Table 2, p. 5, row 10 |  |
 
 ## Other properties
 

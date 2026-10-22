@@ -28,14 +28,14 @@ Table: Phase transition, Fe–O–U–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2510 K | 2510 | solidus: (U0.87Zr0.12Fe0.01) O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 8 |  |
-| Phase transition | 2710 K | 2710 | solidus: (U0.88Zr0.12)O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 4 |  |
-| Phase transition | 2860 K | 2860 | solidus: (U0.87Zr0.12Fe0.01)O2.00 | model | [1] Barrachin 2008 | Table 7, p. 12, row 6 |  |
-| Phase transition | 2940 K | 2940 | liquidus: (U0.87Zr0.12Fe0.01) O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 7 |  |
-| Phase transition | 2970 K | 2970 | liquidus: (U0.88Zr0.12)O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 3 |  |
-| Phase transition | 3020 K | 3020 | solidus: (U0.88Zr0.12)O2.000 | model | [1] Barrachin 2008 | Table 7, p. 12, row 2 |  |
-| Phase transition | 3060 K | 3060 | liquidus: (U0.87Zr0.12Fe0.01)O2.00 | model | [1] Barrachin 2008 | Table 7, p. 12, row 5 |  |
-| Phase transition | 3080 K | 3080 | liquidus: (U0.88Zr0.12)O2.000 | model | [1] Barrachin 2008 | Table 7, p. 12, row 1 |  |
+| Phase transition | 2510 K | 2510 | other: (U0.87Zr0.12Fe0.01) O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 8 |  |
+| Phase transition | 2710 K | 2710 | other: (U0.88Zr0.12)O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 4 |  |
+| Phase transition | 2860 K | 2860 | other: (U0.87Zr0.12Fe0.01)O2.00 | model | [1] Barrachin 2008 | Table 7, p. 12, row 6 |  |
+| Phase transition | 2940 K | 2940 | other: (U0.87Zr0.12Fe0.01) O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 7 |  |
+| Phase transition | 2970 K | 2970 | other: (U0.88Zr0.12)O2.08-2.11 | model | [1] Barrachin 2008 | Table 7, p. 12, row 3 |  |
+| Phase transition | 3020 K | 3020 | other: (U0.88Zr0.12)O2.000 | model | [1] Barrachin 2008 | Table 7, p. 12, row 2 |  |
+| Phase transition | 3060 K | 3060 | other: (U0.87Zr0.12Fe0.01)O2.00 | model | [1] Barrachin 2008 | Table 7, p. 12, row 5 |  |
+| Phase transition | 3080 K | 3080 | other: (U0.88Zr0.12)O2.000 | model | [1] Barrachin 2008 | Table 7, p. 12, row 1 |  |
 
 ## Sources
 

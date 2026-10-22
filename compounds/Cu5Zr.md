@@ -1,16 +1,16 @@
 # Cu5Zr: enthalpy of formation
 
-> Enthalpy of formation of Cu5Zr: 12 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Cu5Zr: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cu5Zr.html · Markdown: https://data.orchid-project.org/compounds/Cu5Zr.md
 
-12 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 6, unspecified 1); experimental median -9.544 kJ/mol-atom (n = 2); Materials Project -11.236 kJ/mol-atom (mp-aaaabthb); OQMD -11.305 kJ/mol-atom (oqmd-17177).
+9 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 3, unspecified 1); experimental median -9.544 kJ/mol-atom (n = 2); Materials Project -11.236 kJ/mol-atom (mp-aaaabthb); OQMD -11.305 kJ/mol-atom (oqmd-17177).
 
 Systems: [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cu5Zr reported in the literature (12)
+Table: Enthalpy of formation of Cu5Zr reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -20,10 +20,7 @@ Table: Enthalpy of formation of Cu5Zr reported in the literature (12)
 | -10.286 kJ/mol-atom | Cu5Zr | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008 | Table 3, p. 10, row 4 |  |
 | -2.20724 kJ/mol-atom | Cu5Zr |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 1 |  |
 | -12.52 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 5 |  |
-| -12.52 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 5 |  |
 | -11.37 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010 | Table 2, p. 3, row 3 |  |
-| -11.37 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010 | Table 2, p. 3, row 3 |  |
-| -11.25 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 4 |  |
 | -11.25 kJ/mol-atom | Cu5Zr-C15b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 4 |  |
 | -23.8 kJ/mol-atom | Cu5Zr | 1123 | unspecified |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 3 |  |
 

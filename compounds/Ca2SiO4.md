@@ -1,24 +1,21 @@
 # Ca2SiO4: enthalpy of formation
 
-> Enthalpy of formation of Ca2SiO4: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ca2SiO4: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ca2SiO4.html · Markdown: https://data.orchid-project.org/compounds/Ca2SiO4.md
 
-6 accepted literature formation-enthalpy value(s) (DFT 6).
+3 accepted literature formation-enthalpy value(s) (DFT 3).
 
 Systems: [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ca2SiO4 reported in the literature (6)
+Table: Enthalpy of formation of Ca2SiO4 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -18.7429 kJ/mol-atom | γ-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
-| -18.7429 kJ/mol-atom | γ-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
 | -17.8286 kJ/mol-atom | β-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
-| -17.8286 kJ/mol-atom | β-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
-| -17.4857 kJ/mol-atom | α′-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |
 | -17.4857 kJ/mol-atom | α′-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |
 
 ## Sources

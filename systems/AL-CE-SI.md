@@ -1,10 +1,10 @@
 # Al–Ce–Si system
 
-> Al–Ce–Si system: 98 accepted literature values (invariant reaction 49, crystal structure 30, heat capacity / entropy / enthalpy 10, phase equilibrium 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ce–Si system: 96 accepted literature values (invariant reaction 47, crystal structure 30, heat capacity / entropy / enthalpy 10, phase equilibrium 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CE-SI.html · Markdown: https://data.orchid-project.org/systems/AL-CE-SI.md
 
-98 accepted literature values from 1 paper(s) (experimental 74, model 24); 0 calculated phase diagram(s).
+96 accepted literature values from 1 paper(s) (experimental 72, model 24); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CE-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-CE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CE-SI) · [Markdown](https://data.orchid-project.org/systems/AL-CE-SI.md)
 
@@ -12,25 +12,25 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 74 |
+| experimental | 72 |
 | model | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 49 |
+| invariant reaction | 47 |
 | phase equilibrium | 9 |
 | heat capacity / entropy / enthalpy | 10 |
 | crystal structure | 30 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Ce–Si system (49)
+Table: Invariant reactions reported in the literature for the Al–Ce–Si system (47)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1671.15 | U: L + Ce5Si3 = τ1 + CeSi | L: Al 0.1075, Si 0.4193 | model | [1] Gröbner 2004 | Table VI, p. 10, row 1 |  |
+| 1671.15 | quasi-peritectic: L + Ce5Si3 = τ1 + CeSi | L: Al 0.1075, Si 0.4193 | model | [1] Gröbner 2004 | Table VI, p. 10, row 1 |  |
 | 1594.15 | L/L + τ1 | sample (overall composition): Al 0.35, Ce 0.2, Si 0.45 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 59 |  |
 | 1592.15 | L/L + τ1 | sample (overall composition): Al 0.35, Ce 0.2, Si 0.45 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 23 |  |
 | 1590.15 | L/L + τ1 | sample (overall composition): Al 0.35, Ce 0.2, Si 0.45 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 60 |  |
@@ -38,20 +38,18 @@ Table: Invariant reactions reported in the literature for the Al–Ce–Si syste
 | 1533.15 | L/L + τ1 | sample (overall composition): Al 0.4, Ce 0.2, Si 0.4 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 31 |  |
 | 1515.15 | L/L + τ1 | sample (overall composition): Al 0.4, Ce 0.2, Si 0.4 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 70 |  |
 | 1485.15 | L/L + τ1 | sample (overall composition): Al 0.45, Ce 0.25, Si 0.3 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 37 |  |
-| 1409.15 | min: L = τ1 + τ3 | L: Al 0.5082, Si 0.1616 | model | [1] Gröbner 2004 | Table VI, p. 10, row 2 |  |
-| 1408.15 | P: L + Al2Ce + Al11Ce3 (h) = Al3Ce | L: Al 0.6556, Si 0.0992 | model | [1] Gröbner 2004 | Table VI, p. 10, row 3 |  |
-| 1407.15 | min: L = Al2Ce + τ3 | L: Al 0.5169, Si 0.1575 | model | [1] Gröbner 2004 | Table VI, p. 10, row 4 |  |
-| 1405.15 | U: L + CeSi = Ce5Si4 + τ1 | L: Al 0.2611, Si 0.2516 | model | [1] Gröbner 2004 | Table VI, p. 10, row 5 |  |
-| 1373.15 | U: L + Al2Ce = Al3Ce + τ3 | L: Al 0.6282, Si 0.1188 | model | [1] Gröbner 2004 | Table VI, p. 10, row 6 |  |
-| 1372.15 | U: L + Al3Ce = τ3 + Al11Ce3 (h) | L: Al 0.6293, Si 0.1188 | model | [1] Gröbner 2004 | Table VI, p. 10, row 7 |  |
-| 1352.15 | U: L + τ3 = τ1 + Al11Ce3 (h) | L: Al 0.6379, Si 0.1244 | model | [1] Gröbner 2004 | Table VI, p. 10, row 8 |  |
+| 1409.15 | other: L = τ1 + τ3 | L: Al 0.5082, Si 0.1616 | model | [1] Gröbner 2004 | Table VI, p. 10, row 2 |  |
+| 1408.15 | peritectic: L + Al2Ce + Al11Ce3 (h) = Al3Ce | L: Al 0.6556, Si 0.0992 | model | [1] Gröbner 2004 | Table VI, p. 10, row 3 |  |
+| 1407.15 | other: L = Al2Ce + τ3 | L: Al 0.5169, Si 0.1575 | model | [1] Gröbner 2004 | Table VI, p. 10, row 4 |  |
+| 1405.15 | quasi-peritectic: L + CeSi = Ce5Si4 + τ1 | L: Al 0.2611, Si 0.2516 | model | [1] Gröbner 2004 | Table VI, p. 10, row 5 |  |
+| 1373.15 | quasi-peritectic: L + Al2Ce = Al3Ce + τ3 | L: Al 0.6282, Si 0.1188 | model | [1] Gröbner 2004 | Table VI, p. 10, row 6 |  |
+| 1372.15 | quasi-peritectic: L + Al3Ce = τ3 + Al11Ce3 (h) | L: Al 0.6293, Si 0.1188 | model | [1] Gröbner 2004 | Table VI, p. 10, row 7 |  |
+| 1352.15 | quasi-peritectic: L + τ3 = τ1 + Al11Ce3 (h) | L: Al 0.6379, Si 0.1244 | model | [1] Gröbner 2004 | Table VI, p. 10, row 8 |  |
 | 1293.15 | other: L + τ1 + Al11Ce3 (h) = Al11Ce3 (l) | L: Al 0.7097, Si 0.1086 | model | [1] Gröbner 2004 | Table VI, p. 10, row 9 |  |
-| 1177.15 | L/L + Al11Ce3 | sample (overall composition): Al 0.9 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 42 |  |
 | 1177.15 | L/L + Al11Ce3 | sample (overall composition): Al 0.9 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 1 |  |
 | 1171.15 | L/L + Al11Ce3 | sample (overall composition): Al 0.9 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 41 |  |
-| 1168.15 | U: L + τ1 = τ3 + Ce5Si4 | L: Al 0.3181, Si 0.1503 | model | [1] Gröbner 2004 | Table VI, p. 10, row 10 |  |
-| 1162.15 | U: L + Ce5Si4 = τ3 + Ce3Si2 | L: Al 0.3172, Si 0.1477 | model | [1] Gröbner 2004 | Table VI, p. 10, row 11 |  |
-| 1124.15 | L/L + τ1 | sample (overall composition): Al 0.9 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 47 |  |
+| 1168.15 | quasi-peritectic: L + τ1 = τ3 + Ce5Si4 | L: Al 0.3181, Si 0.1503 | model | [1] Gröbner 2004 | Table VI, p. 10, row 10 |  |
+| 1162.15 | quasi-peritectic: L + Ce5Si4 = τ3 + Ce3Si2 | L: Al 0.3172, Si 0.1477 | model | [1] Gröbner 2004 | Table VI, p. 10, row 11 |  |
 | 1124.15 | L/L + τ1 | sample (overall composition): Al 0.9 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 5 |  |
 | 1118.15 | L/L + τ1 | sample (overall composition): Al 0.9 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 46 |  |
 | 1110.15 | L/L + τ1 | sample (overall composition): Al 0.9 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 9 |  |
@@ -61,24 +59,24 @@ Table: Invariant reactions reported in the literature for the Al–Ce–Si syste
 | 1056.15 | L/L + τ1 | sample (overall composition): Al 0.9, Ce 0.032, Si 0.068 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 13 |  |
 | 1035.15 | L/L + τ1 | sample (overall composition): Al 0.9, Ce 0.026, Si 0.074 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 18 |  |
 | 1033.15 | L/L + τ1 | sample (overall composition): Al 0.9, Ce 0.026, Si 0.074 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 55 |  |
-| 1003.15 | U: L + Al2Ce = τ3 + AlCe | L: Al 0.3268, Si 0.0667 | model | [1] Gröbner 2004 | Table VI, p. 10, row 12 |  |
-| 926.15 | P: L + τ1 + (Si) = τ2 | L: Al 0.6571, Si 0.2895 | model | [1] Gröbner 2004 | Table VI, p. 10, row 14 |  |
-| 926.15 | P: L + τ1 + (Si) = τ2 |  | experimental | [1] Gröbner 2004 | Table VI, p. 10, row 13 |  |
+| 1003.15 | quasi-peritectic: L + Al2Ce = τ3 + AlCe | L: Al 0.3268, Si 0.0667 | model | [1] Gröbner 2004 | Table VI, p. 10, row 12 |  |
+| 926.15 | peritectic: L + τ1 + (Si) = τ2 | L: Al 0.6571, Si 0.2895 | model | [1] Gröbner 2004 | Table VI, p. 10, row 14 |  |
+| 926.15 | peritectic: L + τ1 + (Si) = τ2 |  | experimental | [1] Gröbner 2004 | Table VI, p. 10, row 13 |  |
 | 925.15 | L + τ1/L = τ1 + (Al) | sample (overall composition): Al 0.4, Ce 0.2, Si 0.4 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 72 |  |
 | 924.15 | L + τ1/L = τ1 + (Al) | sample (overall composition): Al 0.4, Ce 0.2, Si 0.4 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 33 |  |
-| 918.15 | U: L + Ce3Si2 = τ3 + Ce5Si3 | L: Al 0.2922, Si 0.068 | model | [1] Gröbner 2004 | Table VI, p. 10, row 15 |  |
-| 917.15 | min: L = τ1 + (Al) | L: Al 0.9702, Si 0.0174 | model | [1] Gröbner 2004 | Table VI, p. 10, row 17 |  |
-| 906.15 | E: L = (Al) + τ1 + Al11Ce3 (l) |  | experimental | [1] Gröbner 2004 | Table VI, p. 10, row 20 |  |
-| 901.15 | U: L + τ3 = AlCe + Ce5Si3 | L: Al 0.2908, Si 0.064 | model | [1] Gröbner 2004 | Table VI, p. 10, row 16 |  |
-| 894.15 | E: L = (Al) + τ1 + Al11Ce3 (l) | L: Al 0.9631, Si 0.0042 | model | [1] Gröbner 2004 | Table VI, p. 10, row 21 |  |
-| 894.15 | U: L + τ1 = τ2 + (Al) |  | experimental | [1] Gröbner 2004 | Table VI, p. 10, row 18 |  |
-| 894.15 | U: L + τ1 = τ2 + (Al) | L: Al 0.9083, Si 0.0788 | model | [1] Gröbner 2004 | Table VI, p. 10, row 19 |  |
-| 846.15 | E: L = τ2 + (Al) + (Si) | L: Al 0.8371, Si 0.1515 | model | [1] Gröbner 2004 | Table VI, p. 10, row 23 |  |
+| 918.15 | quasi-peritectic: L + Ce3Si2 = τ3 + Ce5Si3 | L: Al 0.2922, Si 0.068 | model | [1] Gröbner 2004 | Table VI, p. 10, row 15 |  |
+| 917.15 | other: L = τ1 + (Al) | L: Al 0.9702, Si 0.0174 | model | [1] Gröbner 2004 | Table VI, p. 10, row 17 |  |
+| 906.15 | eutectic: L = (Al) + τ1 + Al11Ce3 (l) |  | experimental | [1] Gröbner 2004 | Table VI, p. 10, row 20 |  |
+| 901.15 | quasi-peritectic: L + τ3 = AlCe + Ce5Si3 | L: Al 0.2908, Si 0.064 | model | [1] Gröbner 2004 | Table VI, p. 10, row 16 |  |
+| 894.15 | eutectic: L = (Al) + τ1 + Al11Ce3 (l) | L: Al 0.9631, Si 0.0042 | model | [1] Gröbner 2004 | Table VI, p. 10, row 21 |  |
+| 894.15 | quasi-peritectic: L + τ1 = τ2 + (Al) |  | experimental | [1] Gröbner 2004 | Table VI, p. 10, row 18 |  |
+| 894.15 | quasi-peritectic: L + τ1 = τ2 + (Al) | L: Al 0.9083, Si 0.0788 | model | [1] Gröbner 2004 | Table VI, p. 10, row 19 |  |
+| 846.15 | eutectic: L = τ2 + (Al) + (Si) | L: Al 0.8371, Si 0.1515 | model | [1] Gröbner 2004 | Table VI, p. 10, row 23 |  |
 | 846.15 | τ1 + τ2 + (Al)/τ2 + (Al) | sample (overall composition): Al 0.9, Ce 0.032, Si 0.068 | experimental | [1] Gröbner 2004 | Table IV, p. 5, row 16 |  |
-| 845.15 | min: L = Ce5Si3 + AlCe3 | L: Al 0.228, Si 0.0433 | model | [1] Gröbner 2004 | Table VI, p. 10, row 24 |  |
-| 845.15 | E: L = τ2 + (Al) + (Si) |  | experimental | [1] Gröbner 2004 | Table VI, p. 10, row 22 |  |
-| 826.15 | E: L = Ce5Si3 + AlCe3 + (αCe) | L: Al 0.2655, Si 0.0452 | model | [1] Gröbner 2004 | Table VI, p. 10, row 25 |  |
-| 810.15 | E: L = AlCe + Ce5Si3 + AlCe3 | L: Al 0.1615, Si 0.0273 | model | [1] Gröbner 2004 | Table VI, p. 10, row 26 |  |
+| 845.15 | other: L = Ce5Si3 + AlCe3 | L: Al 0.228, Si 0.0433 | model | [1] Gröbner 2004 | Table VI, p. 10, row 24 |  |
+| 845.15 | eutectic: L = τ2 + (Al) + (Si) |  | experimental | [1] Gröbner 2004 | Table VI, p. 10, row 22 |  |
+| 826.15 | eutectic: L = Ce5Si3 + AlCe3 + (αCe) | L: Al 0.2655, Si 0.0452 | model | [1] Gröbner 2004 | Table VI, p. 10, row 25 |  |
+| 810.15 | eutectic: L = AlCe + Ce5Si3 + AlCe3 | L: Al 0.1615, Si 0.0273 | model | [1] Gröbner 2004 | Table VI, p. 10, row 26 |  |
 
 ## Other properties
 

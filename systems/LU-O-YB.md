@@ -1,10 +1,10 @@
 # Lu–O–Yb system
 
-> Lu–O–Yb system: 48 accepted literature values (heat capacity / entropy / enthalpy 24, other property 20, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Lu–O–Yb system: 47 accepted literature values (heat capacity / entropy / enthalpy 23, other property 20, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LU-O-YB.html · Markdown: https://data.orchid-project.org/systems/LU-O-YB.md
 
-48 accepted literature values from 1 paper(s) (model 28, unspecified 20); 0 calculated phase diagram(s).
+47 accepted literature values from 1 paper(s) (model 27, unspecified 20); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LU-O-YB.json) · [CSV](https://data.orchid-project.org/systems/LU-O-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LU-O-YB) · [Markdown](https://data.orchid-project.org/systems/LU-O-YB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 28 |
+| model | 27 |
 | unspecified | 20 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | formation | 4 |
-| heat capacity / entropy / enthalpy | 24 |
+| heat capacity / entropy / enthalpy | 23 |
 | other property | 20 |
 
 ## Formation enthalpies
@@ -38,7 +38,7 @@ Table: Enthalpies of formation, Lu–O–Yb system (4)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (24)
+### Heat capacity / entropy / enthalpy (23)
 
 Table: Heat capacity / entropy / enthalpy, Lu–O–Yb system
 
@@ -56,7 +56,6 @@ Table: Heat capacity / entropy / enthalpy, Lu–O–Yb system
 | Entropy; _printed: Δtrs°S_ | 9.654 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 11 |  |
 | Entropy; _printed: Δtrs°S_ | 3.725 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4 |  |
 | Entropy; _printed: Δtrs°S_ | 3.659 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 9 |  |
-| Entropy; _printed: Δtrs°S_ | 14.223 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 12 |  |
 | Entropy; _printed: Δtrs°S_ | 5.27 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 10 |  |
 | Entropy; _printed: °S_ | 109.96 J/mol (basis unstated)/K | 298.15 | C-Lu2O3; _alloy: O 0.6, Yb 0_ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
 | Entropy; _printed: °S_ | 109.96 J/mol (basis unstated)/K | 298.15 | C-Lu₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |

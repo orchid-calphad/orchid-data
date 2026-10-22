@@ -1,21 +1,20 @@
 # NiSb: enthalpy of formation
 
-> Enthalpy of formation of NiSb: 5 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of NiSb: 4 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiSb.html · Markdown: https://data.orchid-project.org/compounds/NiSb.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 3, model 2).
+4 accepted literature formation-enthalpy value(s) (experimental 2, model 2).
 
 Systems: [Ni–Sb](https://data.orchid-project.org/systems/NI-SB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiSb reported in the literature (5)
+Table: Enthalpy of formation of NiSb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -33.472 kJ/mol (basis unstated) | ζ(NiSb) | 298 | experimental |  | [Ni–Sb](https://data.orchid-project.org/systems/NI-SB.html) | [1] Cao 2013; _cites Korber 1937_ | Table IV, p. 9, row 1 |  |
-| -32.543 kJ/mol (basis unstated) ± 0.494 | ζ(NiSb) | 1060 | experimental |  | [Ni–Sb](https://data.orchid-project.org/systems/NI-SB.html) | [1] Cao 2013; _cites Predel 1978_ [doi](https://doi.org/10.1016/0040-6031%2878%2985146-6) | Table IV, p. 9, row 3 |  |
 | -32.543 kJ/mol (basis unstated) ± 0.494 | ζ(NiSb) | 1060 | experimental |  | [Ni–Sb](https://data.orchid-project.org/systems/NI-SB.html) | [1] Cao 2013; _cites Predel 1978_ [doi](https://doi.org/10.1016/0040-6031%2878%2985146-6) | Table IV, p. 9, row 3 |  |
 | -32.659 kJ/mol (basis unstated) | ζ(NiSb) | 1060 | model |  | [Ni–Sb](https://data.orchid-project.org/systems/NI-SB.html) | [1] Cao 2013 | Table IV, p. 9, row 4 |  |
 | -32.171 kJ/mol (basis unstated) | ζ(NiSb) | 298 | model |  | [Ni–Sb](https://data.orchid-project.org/systems/NI-SB.html) | [1] Cao 2013 | Table IV, p. 9, row 2 |  |

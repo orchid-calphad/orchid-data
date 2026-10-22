@@ -1,10 +1,10 @@
 # Pd–Sn system
 
-> Pd–Sn system: 237 accepted literature values (invariant reaction 106, crystal structure 57, formation 52, mixing / partial 18) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Sn system: 235 accepted literature values (invariant reaction 105, crystal structure 56, formation 52, mixing / partial 18) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SN.html · Markdown: https://data.orchid-project.org/systems/PD-SN.md
 
-237 accepted literature values from 2 paper(s) (experimental 121, model 75, unspecified 41); 3 calculated phase diagram(s).
+235 accepted literature values from 2 paper(s) (experimental 121, model 74, unspecified 40); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SN.json) · [CSV](https://data.orchid-project.org/systems/PD-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SN/PdSn-06Viz.json) · [Markdown](https://data.orchid-project.org/systems/PD-SN.md)
 
@@ -13,18 +13,18 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 121 |
-| model | 75 |
-| unspecified | 41 |
+| model | 74 |
+| unspecified | 40 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 106 |
+| invariant reaction | 105 |
 | phase transition | 4 |
 | formation | 52 |
 | mixing / partial | 18 |
-| crystal structure | 57 |
+| crystal structure | 56 |
 
 ## Calculated phase diagrams
 
@@ -91,28 +91,28 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pd–Sn system (106)
+Table: Invariant reactions reported in the literature for the Pd–Sn system (105)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1601.15 | congruent: Liquid = Pd3Sn | Pd3Sn: Sn 0.249; Liquid: Sn 0.249 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 7, row 8 |  |
-| 1599.15 | congruent: Liquid = Pd3Sn | Pd3Sn: Sn 0.246; Liquid: Sn 0.246 | model | [1] Cui 2020 | Table 4, p. 7, row 9 |  |
-| 1599.15 | congruent: Liquid = Pd3Sn | Pd3Sn: Sn 0.25; Liquid: Sn 0.25 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 6 |  |
-| 1598.15 | congruent: Liquid = Pd3Sn | Pd3Sn: Sn 0.249; Liquid: Sn 0.249 | model | [1] Cui 2020 | Table 4, p. 7, row 10 |  |
-| 1576.15 | congruent: Liquid = Pd3Sn | Pd3Sn: Sn 0.25; Liquid: Sn 0.25 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 7 |  |
+| 1601.15 | congruent melting: Liquid = Pd3Sn | Pd3Sn: Sn 0.249; Liquid: Sn 0.249 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 7, row 8 |  |
+| 1599.15 | congruent melting: Liquid = Pd3Sn | Pd3Sn: Sn 0.246; Liquid: Sn 0.246 | model | [1] Cui 2020 | Table 4, p. 7, row 9 |  |
+| 1599.15 | congruent melting: Liquid = Pd3Sn | Pd3Sn: Sn 0.25; Liquid: Sn 0.25 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 6 |  |
+| 1598.15 | congruent melting: Liquid = Pd3Sn | Pd3Sn: Sn 0.249; Liquid: Sn 0.249 | model | [1] Cui 2020 | Table 4, p. 7, row 10 |  |
+| 1576.15 | congruent melting: Liquid = Pd3Sn | Pd3Sn: Sn 0.25; Liquid: Sn 0.25 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 7 |  |
 | 1566.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.17; Pd3Sn: Sn 0.24; Liquid: Sn 0.212 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 1 |  |
 | 1566 | L -> (Pd) + Pd3Sn | L: Sn 0.2125; (Pd): Sn 0.1583; Pd3Sn: Sn 0.228 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 1 |  |
-| 1560.15 | congruent: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.34; Liquid: Sn 0.34 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 16 |  |
-| 1559.15 | congruent: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.358; Liquid: Sn 0.358 | model | [1] Cui 2020 | Table 4, p. 7, row 20 |  |
-| 1559.15 | congruent: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.353; Liquid: Sn 0.353 | model | [1] Cui 2020 | Table 4, p. 7, row 19 |  |
-| 1559.15 | congruent: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.354; Liquid: Sn 0.354 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 7, row 18 |  |
+| 1560.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.34; Liquid: Sn 0.34 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 16 |  |
+| 1559.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.358; Liquid: Sn 0.358 | model | [1] Cui 2020 | Table 4, p. 7, row 20 |  |
+| 1559.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.353; Liquid: Sn 0.353 | model | [1] Cui 2020 | Table 4, p. 7, row 19 |  |
+| 1559.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.354; Liquid: Sn 0.354 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 7, row 18 |  |
 | 1553.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.166; Pd3Sn: Sn 0.229; Liquid: Sn 0.201 | model | [1] Cui 2020 | Table 4, p. 7, row 4 |  |
 | 1553.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.17; Pd3Sn: Sn 0.23; Liquid: Sn 0.212 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 2 |  |
 | 1553.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.172; Pd3Sn: Sn 0.238; Liquid: Sn 0.211 | model | [1] Cui 2020 | Table 4, p. 7, row 5 |  |
 | 1553 | L -> (Pd) + Pd3Sn | L: Sn 0.2132; (Pd): Sn 0.167; Pd3Sn: Sn 0.2263 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 2 |  |
 | 1552 | L -> (Pd) + Pd3Sn | L: Sn 0.2138; (Pd): Sn 0.2055; Pd3Sn: Sn 0.2463 | model | [2] Ghosh 1999 | Table III, p. 7, row 3 |  |
 | 1551.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.205; Pd3Sn: Sn 0.246; Liquid: Sn 0.214 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 7, row 3 |  |
-| 1543.15 | congruent: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.33; Liquid: Sn 0.33 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 17 |  |
+| 1543.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.33; Liquid: Sn 0.33 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 17 |  |
 | 1504.15 | Liquid = Pd3Sn + γ\_Pd2Sn | Pd3Sn: Sn 0.26; γ\_Pd2Sn: Sn 0.33; Liquid: Sn 0.302 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 11 |  |
 | 1504.15 | Liquid = Pd3Sn + γ\_Pd2Sn | Pd3Sn: Sn 0.25; γ\_Pd2Sn: Sn 0.353; Liquid: Sn 0.315 | model | [1] Cui 2020 | Table 4, p. 7, row 15 |  |
 | 1504.15 | Liquid = Pd3Sn + γ\_Pd2Sn | Pd3Sn: Sn 0.25; γ\_Pd2Sn: Sn 0.348; Liquid: Sn 0.305 | model | [1] Cui 2020 | Table 4, p. 7, row 14 |  |
@@ -160,7 +160,6 @@ Table: Invariant reactions reported in the literature for the Pd–Sn system (10
 | 872.15 | Liquid + Pd5Sn7 = PdSn2 | Pd5Sn7: Sn 0.583; PdSn2: Sn 0.668; Liquid: Sn 0.693 | model | [1] Cui 2020 | Table 4, p. 7, row 37 |  |
 | 823.15 | α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 8, row 14 |  |
 | 823.15 | α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020 | Table 4, p. 8, row 16 |  |
-| 823.15 | α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020 | Table 4, p. 8, row 15 |  |
 | 815.15 | α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 13 |  |
 | 793.15 | Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 5 |  |
 | 793.15 | Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | model | [1] Cui 2020 | Table 4, p. 8, row 8 |  |
@@ -282,26 +281,26 @@ Table: Mixing / partial, Pd–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119160 J/mol | 698.1 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 3 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -109545 J/mol | 698.1 | liquid | experimental | [2] Ghosh 1999; _cites Darby 1966_ | Table IV, p. 8, row 2 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -109758 J/mol | 700 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 4 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119161 J/mol | 700 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 5 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -111139 J/mol | 703 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 1 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -108921 J/mol | 725 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 6 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119176 J/mol | 725 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 7 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119183 J/mol | 750 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 10 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -110302 J/mol | 750 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 9 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -113274 J/mol | 759 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 8 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -108293 J/mol | 763 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 11 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119183 J/mol | 763 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 12 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119180 J/mol | 773 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 14 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -105614 J/mol | 773 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 13 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119169 J/mol | 775 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 16 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -105656 J/mol | 775 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 15 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -104861 J/mol | 797 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 17 |  |
-| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119180 J/mol | 797 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 18 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119.16 kJ/mol (basis unstated) | 698.1 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 3 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -109.545 kJ/mol (basis unstated) | 698.1 | liquid | experimental | [2] Ghosh 1999; _cites Darby 1966_ | Table IV, p. 8, row 2 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -109.758 kJ/mol (basis unstated) | 700 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 4 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119.161 kJ/mol (basis unstated) | 700 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 5 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -111.139 kJ/mol (basis unstated) | 703 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 1 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -108.921 kJ/mol (basis unstated) | 725 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 6 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119.176 kJ/mol (basis unstated) | 725 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 7 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119.183 kJ/mol (basis unstated) | 750 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 10 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -110.302 kJ/mol (basis unstated) | 750 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 9 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -113.274 kJ/mol (basis unstated) | 759 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 8 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -108.293 kJ/mol (basis unstated) | 763 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 11 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119.183 kJ/mol (basis unstated) | 763 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 12 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119.18 kJ/mol (basis unstated) | 773 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 14 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -105.614 kJ/mol (basis unstated) | 773 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 13 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119.169 kJ/mol (basis unstated) | 775 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 16 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -105.656 kJ/mol (basis unstated) | 775 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 15 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -104.861 kJ/mol (basis unstated) | 797 | liquid | experimental | [2] Ghosh 1999; _cites Guadagno 1968_ | Table IV, p. 8, row 17 |  |
+| Partial enthalpy; _printed: H̄\_Pd^liq_ | -119.18 kJ/mol (basis unstated) | 797 | liquid; _alloy: Pd 0.001, Sn 0.999_ | unspecified | [2] Ghosh 1999 | Table IV, p. 8, row 18 |  |
 
-### Crystal structure (57)
+### Crystal structure (56)
 
 Table: Crystal structure, Pd–Sn system
 
@@ -312,7 +311,6 @@ Table: Crystal structure, Pd–Sn system
 | Lattice a | 0.6426 nm ± 0.0012 | 298.15 | UNKNOWN; _alloy: Sn 0.8_ | experimental | [1] Cui 2020; _cites Schubert 1950_ | Table 1, p. 2, row 26 |  |
 | Lattice a | 1.29475 nm ± 9.000e-5 | 298.15 | UNKNOWN; _alloy: Sn 0.583333_ | experimental | [1] Cui 2020; _cites Romaka 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.01.153) | Table 1, p. 2, row 18 |  |
 | Lattice a | 0.3967 nm | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | unspecified | [1] Cui 2020; _cites Shelton 1981_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.3967 nm | 298.15 | UNKNOWN; _alloy: Sn 0.25_ | unspecified | [1] Cui 2020; _cites Shelton 1981_ | Table 1, p. 2, row 5 |  |
 | Lattice a | 0.565 nm | 298.15 | UNKNOWN; _alloy: Sn 0.333333_ | experimental | [1] Cui 2020; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 2, row 8 |  |
 | Lattice a | 0.87985 nm ± 1.100e-4 | 298.15 | UNKNOWN; _alloy: Sn 0.393939_ | unspecified | [1] Cui 2020; _cites Sarah 1981_ | Table 1, p. 2, row 13 |  |
 | Lattice a | 1.72 nm | 298.15 | UNKNOWN; _alloy: Sn 0.75_ | experimental | [1] Cui 2020; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 1, p. 2, row 22 |  |

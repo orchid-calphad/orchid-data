@@ -1,10 +1,10 @@
 # Mo–O system
 
-> Mo–O system: 260 accepted literature values (crystal structure 193, formation 58, invariant reaction 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–O system: 256 accepted literature values (crystal structure 191, formation 56, invariant reaction 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-O.html · Markdown: https://data.orchid-project.org/systems/MO-O.md
 
-260 accepted literature values from 1 paper(s) (experimental 49, model 10, DFT 201); 2 calculated phase diagram(s).
+256 accepted literature values from 1 paper(s) (experimental 49, model 10, DFT 197); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-O.json) · [CSV](https://data.orchid-project.org/systems/MO-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-O/MoO-14Zha.json) · [Markdown](https://data.orchid-project.org/systems/MO-O.md)
 
@@ -14,15 +14,15 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 49 |
 | model | 10 |
-| DFT | 201 |
+| DFT | 197 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 9 |
-| formation | 58 |
-| crystal structure | 193 |
+| formation | 56 |
+| crystal structure | 191 |
 
 ## Calculated phase diagrams
 
@@ -62,21 +62,21 @@ Table: Invariant reactions reported in the literature for the Mo–O system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2479.15 | Eutectic: L=(Mo)+MoO2 | MoO2: O 0.666667 | model | [1] Zhang 2014 | Table 3, p. 5, row 2 |  |
-| 2423.15 | Eutectic: L=(Mo)+MoO2 | MoO2: O 0.666667 | experimental | [1] Zhang 2014; _cites Brewer 1990_ | Table 3, p. 5, row 1 |  |
-| 1091.15 | Peritectic: L+MoO2=Mo4O11 | MoO2: O 0.666667; Mo4O11: O 0.733333 | experimental | [1] Zhang 2014; _cites Brewer 1990_ | Table 3, p. 5, row 3 |  |
-| 1090.15 | Peritectic: L+MoO2=Mo4O11 | MoO2: O 0.666667; Mo4O11: O 0.733333 | model | [1] Zhang 2014 | Table 3, p. 5, row 4 |  |
-| 1070.15 | Peritectic: L+Mo4O11=Mo8O23 | Mo4O11: O 0.733333; Mo8O23: O 0.741935 | model | [1] Zhang 2014 | Table 3, p. 5, row 5 |  |
-| 1061.15 | Peritectic: L+Mo8O23=Mo9O26 | Mo8O23: O 0.741935; Mo9O26: O 0.742857 | model | [1] Zhang 2014 | Table 3, p. 5, row 7 |  |
-| 1059.15 | Eutectic: L=Mo9O26+MoO3 | Mo9O26: O 0.742857; MoO3: O 0.75 | model | [1] Zhang 2014 | Table 3, p. 5, row 9 |  |
-| 1053.15 | Peritectic: L+Mo8O23=Mo9O26 | Mo8O23: O 0.741935; Mo9O26: O 0.742857 | experimental | [1] Zhang 2014; _cites Phillips 1965_ | Table 3, p. 5, row 6 |  |
-| 1051.15 | Eutectic: L=Mo9O26+MoO3 | Mo9O26: O 0.742857; MoO3: O 0.75 | experimental | [1] Zhang 2014; _cites Phillips 1965_ | Table 3, p. 5, row 8 |  |
+| 2479.15 | eutectic: L=(Mo)+MoO2 | MoO2: O 0.666667 | model | [1] Zhang 2014 | Table 3, p. 5, row 2 |  |
+| 2423.15 | eutectic: L=(Mo)+MoO2 | MoO2: O 0.666667 | experimental | [1] Zhang 2014; _cites Brewer 1990_ | Table 3, p. 5, row 1 |  |
+| 1091.15 | peritectic: L+MoO2=Mo4O11 | MoO2: O 0.666667; Mo4O11: O 0.733333 | experimental | [1] Zhang 2014; _cites Brewer 1990_ | Table 3, p. 5, row 3 |  |
+| 1090.15 | peritectic: L+MoO2=Mo4O11 | MoO2: O 0.666667; Mo4O11: O 0.733333 | model | [1] Zhang 2014 | Table 3, p. 5, row 4 |  |
+| 1070.15 | peritectic: L+Mo4O11=Mo8O23 | Mo4O11: O 0.733333; Mo8O23: O 0.741935 | model | [1] Zhang 2014 | Table 3, p. 5, row 5 |  |
+| 1061.15 | peritectic: L+Mo8O23=Mo9O26 | Mo8O23: O 0.741935; Mo9O26: O 0.742857 | model | [1] Zhang 2014 | Table 3, p. 5, row 7 |  |
+| 1059.15 | eutectic: L=Mo9O26+MoO3 | Mo9O26: O 0.742857; MoO3: O 0.75 | model | [1] Zhang 2014 | Table 3, p. 5, row 9 |  |
+| 1053.15 | peritectic: L+Mo8O23=Mo9O26 | Mo8O23: O 0.741935; Mo9O26: O 0.742857 | experimental | [1] Zhang 2014; _cites Phillips 1965_ | Table 3, p. 5, row 6 |  |
+| 1051.15 | eutectic: L=Mo9O26+MoO3 | Mo9O26: O 0.742857; MoO3: O 0.75 | experimental | [1] Zhang 2014; _cites Phillips 1965_ | Table 3, p. 5, row 8 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–O system (58)
+Table: Enthalpies of formation, Mo–O system (56)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -87,8 +87,6 @@ Table: Enthalpies of formation, Mo–O system (58)
 | Mo3O·cF16 |  | 54.862 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 1 |  |
 | Mo3O·cF16 |  | 59.908 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 2 |  |
 | Mo3O·cF16 |  | 60.052 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 3 |  |
-| Mo3O·cF16 |  | 62.271 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 5 |  |
-| Mo3O·cF16 |  | 62.271 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 6 |  |
 | Mo3O·cF16 |  | 62.271 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 4 |  |
 | Mo4O11·oP60 |  | -195.827 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 16 |  |
 | Mo4O11·oP60 |  | -194.254 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 17 |  |
@@ -141,7 +139,7 @@ Table: Enthalpies of formation, Mo–O system (58)
 
 ## Other properties
 
-### Crystal structure (193)
+### Crystal structure (191)
 
 Table: Crystal structure, Mo–O system
 
@@ -306,7 +304,6 @@ Table: Crystal structure, Mo–O system
 | Lattice c | 7.095 Å | 298.15 | MoO3; _alloy: O 0.75_ | experimental | [1] Zhang 2014; _cites McCarron 1991_ [doi](https://doi.org/10.1016/0022-4596%2891%2990064-o) | Table 4, p. 6, row 42 |  |
 | Lattice c | 3.9628 Å | 298.15 | MoO3; _alloy: O 0.75_ | experimental | [1] Zhang 2014; _cites Kihlborg 1963_ | Table 4, p. 6, row 52 |  |
 | lattice beta | 106.51 degree | 0 | Mo8O23; _alloy: O 0.741935_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 24 |  |
-| lattice beta | 106.51 degree | 0 | Mo8O23; _alloy: O 0.741935_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 25 |  |
 | lattice beta | 106.59 degree | 0 | Mo8O23; _alloy: O 0.741935_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 23 |  |
 | lattice beta | 106.35 degree | 0 | Mo8O23; _alloy: O 0.741935_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 28 |  |
 | lattice beta | 106.33 degree | 0 | Mo8O23; _alloy: O 0.741935_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 30 |  |
@@ -324,7 +321,6 @@ Table: Crystal structure, Mo–O system
 | lattice beta | 121.21 degree | 0 | MoO2; _alloy: O 0.666667_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 10 |  |
 | lattice beta | 120.69 degree | 0 | MoO2; _alloy: O 0.666667_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 6 |  |
 | lattice beta | 120.72 degree | 0 | MoO2; _alloy: O 0.666667_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 8 |  |
-| lattice beta | 120.72 degree | 0 | MoO2; _alloy: O 0.666667_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 9 |  |
 | lattice beta | 137.3 degree | 0 | MoO3; _alloy: O 0.75_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 48 |  |
 | lattice beta | 135.51 degree | 0 | MoO3; _alloy: O 0.75_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 49 |  |
 | lattice beta | 103.107 degree | 0 | MoO3; _alloy: O 0.75_ | DFT | [1] Zhang 2014 | Table 4, p. 6, row 41 |  |

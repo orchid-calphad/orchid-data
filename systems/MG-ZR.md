@@ -62,8 +62,8 @@ Table: Invariant reactions reported in the literature for the Mg–Zr system (12
 |---:|---|---|---|---|---|---|
 | 2122.4 | L -> L#2 + bcc(Zr) | L: Zr 0.00766; L#2: Zr 9.92 (basis unresolved); bcc(Zr): Zr 0.996 | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 4, p. 8, row 8 |  |
 | 2121.16 | L -> L#2 + bcc(Zr) | L: Zr 0.00822; L#2: Zr 0.992; bcc(Zr): Zr 0.996 | model | [1] Arroyave 2005 | Table 4, p. 8, row 7 |  |
-| 2104.8 | Monotectic: Liquid" -> Liquid' + bcc-A2 | Liquid": Zr 0.985; Liquid': Zr 0.015; bcc-A2: Zr 0.999 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 2 |  |
-| 1154.6 | Peritectic: Liquid' + bcc-A2 -> hcp-A3 | Liquid': Zr 0.003; bcc-A2: Zr 1; hcp-A3: Zr 0.993 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 1 |  |
+| 2104.8 | monotectic: Liquid" -> Liquid' + bcc-A2 | Liquid": Zr 0.985; Liquid': Zr 0.015; bcc-A2: Zr 0.999 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 2 |  |
+| 1154.6 | peritectic: Liquid' + bcc-A2 -> hcp-A3 | Liquid': Zr 0.003; bcc-A2: Zr 1; hcp-A3: Zr 0.993 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 1 |  |
 | 1139.55 | L + bcc(Zr) -> hcp(Zr) | L: Zr 0.00221; bcc(Zr): Zr 0.986 | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 4, p. 8, row 6 |  |
 | 1137.15 | L + bcc(Zr) -> hcp(Zr) | L: Zr 0.00198 | experimental | [1] Arroyave 2005; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02880408) | Table 4, p. 8, row 4 |  |
 | 1137.1 | L + bcc(Zr) -> hcp(Zr) | L: Zr 0.00227; bcc(Zr): Zr 0.998 | model | [1] Arroyave 2005 | Table 4, p. 8, row 5 |  |
@@ -71,7 +71,7 @@ Table: Invariant reactions reported in the literature for the Mg–Zr system (12
 | 926.75 | L + hcp(Zr) -> hcp(Mg) | L: Zr 0.00119; hcp(Zr): Zr 0.994; hcp(Mg): Zr 0.00576 | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 4, p. 8, row 3 |  |
 | 926.75 | L + hcp(Zr) -> hcp(Mg) | L: Zr 0.00161; hcp(Mg): Zr 0.01042 | experimental | [1] Arroyave 2005; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02880408) | Table 4, p. 8, row 1 |  |
 | 926.65 | peritectic: hcp(Zr) + liquid → hcp(Mg) |  | experimental | [1] Arroyave 2005; _cites Mellor 1950_ | p. 3 | “By using thermal analysis, metallography, acidic dilution and resistivity measurements, several researchers \[30,32,33, 36,39\] determined the temperature and phase compositions at the peritectic reaction hcp(Zr) + liquid → hcp(Mg). The temperature for this reaction has been confidently determined to be 653.5 ± 0.5 ◦ C.” |
-| 926.6 | Peritectic: Liquid' + hcp-A3" -> hcp-A3' | Liquid': Zr 0.001; hcp-A3": Zr 0.997; hcp-A3': Zr 0.006 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 3 |  |
+| 926.6 | peritectic: Liquid' + hcp-A3" -> hcp-A3' | Liquid': Zr 0.001; hcp-A3": Zr 0.997; hcp-A3': Zr 0.006 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 3 |  |
 
 ## Other properties
 
@@ -90,25 +90,25 @@ Table: Mixing / partial, Mg–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 3758 J/mol (basis unstated) ± 1000 | 0 | bcc; _alloy: Mg 0.75, Zr 0.25_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 3 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4254 J/mol (basis unstated) ± 1000 | 0 | bcc; _alloy: Mg 0.25, Zr 0.75_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4951 J/mol (basis unstated) ± 1000 | 0 | bcc; _alloy: Mg 0.5, Zr 0.5_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 4 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1483 J/mol (basis unstated) ± 1000 | 0 | bcc; _alloy: Mg 0.015625, Zr 0.984375_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 7 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 313 J/mol (basis unstated) ± 1000 | 0 | bcc; _alloy: Mg 0.984375, Zr 0.015625_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 1 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 6711 J/mol (basis unstated) ± 1000 | 0 | hcp; _alloy: Mg 0.75, Zr 0.25_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 3 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4233 J/mol (basis unstated) ± 1000 | 0 | hcp; _alloy: Mg 0.25, Zr 0.75_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 5 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 6969 J/mol (basis unstated) ± 1000 | 0 | hcp; _alloy: Mg 0.5, Zr 0.5_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 4 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1324 J/mol (basis unstated) ± 1000 | 0 | hcp; _alloy: Mg 0.018519, Zr 0.981481_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 6 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 6711 J/mol (basis unstated) ± 1000 | 0 | hcp; _alloy: Mg 0.75, Zr 0.25_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 8 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 856 J/mol (basis unstated) ± 1000 | 0 | hcp; _alloy: Mg 0.981481, Zr 0.018519_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 2 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 6969 J/mol (basis unstated) ± 1000 | 0 | hcp; _alloy: Mg 0.5, Zr 0.5_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 9 |  |
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4233 J/mol (basis unstated) ± 1000 | 0 | hcp; _alloy: Mg 0.25, Zr 0.75_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 10 |  |
-| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | -15738 J/mol |  | bcc | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 3, p. 7, row 4 |  |
-| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 19512 J/mol |  | bcc | model | [1] Arroyave 2005 | Table 3, p. 7, row 3 |  |
-| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 40147 J/mol |  | hcp | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 3, p. 7, row 6 |  |
-| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 48973 J/mol |  | hcp | model | [1] Arroyave 2005 | Table 3, p. 7, row 5 |  |
-| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 4961 J/mol |  | liquid | model | [1] Arroyave 2005 | Table 3, p. 7, row 1 |  |
-| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 7363 J/mol |  | liquid | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 3, p. 7, row 2 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 3.758 kJ/mol (basis unstated) ± 1 | 0 | bcc; _alloy: Mg 0.75, Zr 0.25_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 3 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4.254 kJ/mol (basis unstated) ± 1 | 0 | bcc; _alloy: Mg 0.25, Zr 0.75_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 5 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4.951 kJ/mol (basis unstated) ± 1 | 0 | bcc; _alloy: Mg 0.5, Zr 0.5_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 4 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1.483 kJ/mol (basis unstated) ± 1 | 0 | bcc; _alloy: Mg 0.015625, Zr 0.984375_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 7 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 0.313 kJ/mol (basis unstated) ± 1 | 0 | bcc; _alloy: Mg 0.984375, Zr 0.015625_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 1 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 6.711 kJ/mol (basis unstated) ± 1 | 0 | hcp; _alloy: Mg 0.75, Zr 0.25_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 3 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4.233 kJ/mol (basis unstated) ± 1 | 0 | hcp; _alloy: Mg 0.25, Zr 0.75_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 5 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 6.969 kJ/mol (basis unstated) ± 1 | 0 | hcp; _alloy: Mg 0.5, Zr 0.5_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 4 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1.324 kJ/mol (basis unstated) ± 1 | 0 | hcp; _alloy: Mg 0.018519, Zr 0.981481_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 6 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 6.711 kJ/mol (basis unstated) ± 1 | 0 | hcp; _alloy: Mg 0.75, Zr 0.25_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 8 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 0.856 kJ/mol (basis unstated) ± 1 | 0 | hcp; _alloy: Mg 0.981481, Zr 0.018519_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 2 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 6.969 kJ/mol (basis unstated) ± 1 | 0 | hcp; _alloy: Mg 0.5, Zr 0.5_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 9 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4.233 kJ/mol (basis unstated) ± 1 | 0 | hcp; _alloy: Mg 0.25, Zr 0.75_ | DFT | [1] Arroyave 2005 | Table 2, p. 5, row 10 |  |
+| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | -15.738 kJ/mol (basis unstated) |  | bcc | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 3, p. 7, row 4 |  |
+| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 19.512 kJ/mol (basis unstated) |  | bcc | model | [1] Arroyave 2005 | Table 3, p. 7, row 3 |  |
+| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 40.147 kJ/mol (basis unstated) |  | hcp | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 3, p. 7, row 6 |  |
+| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 48.973 kJ/mol (basis unstated) |  | hcp | model | [1] Arroyave 2005 | Table 3, p. 7, row 5 |  |
+| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 4.961 kJ/mol (basis unstated) |  | liquid | model | [1] Arroyave 2005 | Table 3, p. 7, row 1 |  |
+| Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 7.363 kJ/mol (basis unstated) |  | liquid | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 3, p. 7, row 2 |  |
 
 ## Sources
 

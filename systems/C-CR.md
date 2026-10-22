@@ -1,10 +1,10 @@
 # C–Cr system
 
-> C–Cr system: 143 accepted literature values (heat capacity / entropy / enthalpy 46, invariant reaction 32, formation 27, activity / EMF / Gibbs energy 25) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Cr system: 132 accepted literature values (heat capacity / entropy / enthalpy 40, invariant reaction 32, activity / EMF / Gibbs energy 25, formation 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-CR.html · Markdown: https://data.orchid-project.org/systems/C-CR.md
 
-143 accepted literature values from 5 paper(s) (experimental 89, model 54); 0 calculated phase diagram(s).
+132 accepted literature values from 5 paper(s) (experimental 84, model 48); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-CR.json) · [CSV](https://data.orchid-project.org/systems/C-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CR) · [Markdown](https://data.orchid-project.org/systems/C-CR.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 89 |
-| model | 54 |
+| experimental | 84 |
+| model | 48 |
 
 Table: Accepted values by property group
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 32 |
 | phase transition | 13 |
-| formation | 27 |
-| heat capacity / entropy / enthalpy | 46 |
+| formation | 22 |
+| heat capacity / entropy / enthalpy | 40 |
 | activity / EMF / Gibbs energy | 25 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-CR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-CR.json) · [CALPHAD hull CrC-04Ten](https://data.orchid-project.org/hulls/calphad-sgte/C/C-CR--CrC-04Ten.json) · [CALPHAD hull CrC-87And-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-CR--CrC-87And-LB.json) · [CALPHAD hull CrC-90Kaj](https://data.orchid-project.org/hulls/calphad-sgte/C/C-CR--CrC-90Kaj.json) · [CALPHAD hull CrC-92Lee](https://data.orchid-project.org/hulls/calphad-sgte/C/C-CR--CrC-92Lee.json)
@@ -70,18 +70,14 @@ Table: Invariant reactions reported in the literature for the C–Cr system (32)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–Cr system (27)
+Table: Enthalpies of formation, C–Cr system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cr23C6 |  | -328000 unknown | 298.15 | experimental |  |  | [4] Lee 1992 | Table 2, p. 11, row 17 |  |
 | Cr23C6 |  | -328000 unknown | 298.15 | experimental |  |  | [4] Lee 1992 | Table 2, p. 11, row 13 |  |
-| Cr23C6 |  | -325603 unknown | 298.15 | model |  |  | [4] Lee 1992 | Table 2, p. 11, row 18 |  |
 | Cr23C6 |  | -325603 unknown | 298.15 | model |  |  | [4] Lee 1992 | Table 2, p. 11, row 14 |  |
 | Cr3C2 |  | -85000 unknown | 298.15 | experimental |  |  | [4] Lee 1992 | Table 2, p. 11, row 1 |  |
-| Cr3C2 |  | -85000 unknown | 298.15 | experimental |  |  | [4] Lee 1992 | Table 2, p. 11, row 5 |  |
 | Cr3C2 |  | -71412 unknown | 298.15 | model |  |  | [4] Lee 1992 | Table 2, p. 11, row 2 |  |
-| Cr3C2 |  | -71412 unknown | 298.15 | model |  |  | [4] Lee 1992 | Table 2, p. 11, row 6 |  |
 | Cr3C2 |  | -114.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [5] Teng 2004; _cites Gleiser 1965_ [doi](https://doi.org/10.1021/j100889a519) | Table II, p. 4, row 2 |  |
 | Cr3C2 |  | -102.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [5] Teng 2004; _cites Coltters 1984_ [doi](https://doi.org/10.1007/bf02657382) | Table II, p. 4, row 6 |  |
 | Cr3C2 |  | -95.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [5] Teng 2004; _cites Kelley 2004_ | Table II, p. 4, row 1 |  |
@@ -99,7 +95,6 @@ Table: Enthalpies of formation, C–Cr system (27)
 | Cr3C2 |  | -63.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [5] Teng 2004; _cites Anthonysamy 1919_ | Table II, p. 4, row 4 |  |
 | Cr3C2 |  | -56.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [5] Teng 2004; _cites Vintaikin 1963_ | Table II, p. 4, row 5 |  |
 | Cr3C2 |  | -56.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [5] Teng 2004; _cites Kleykamp 1969_ [doi](https://doi.org/10.1002/bbpc.19690730407) | Table II, p. 4, row 8 |  |
-| Cr7C3 |  | -139849 unknown | 298.15 | model |  |  | [4] Lee 1992 | Table 2, p. 11, row 12 |  |
 | Cr7C3 |  | -139849 unknown | 298.15 | model |  |  | [4] Lee 1992 | Table 2, p. 11, row 8 |  |
 
 ## Other properties
@@ -114,17 +109,17 @@ Table: Phase transition, C–Cr system
 | Phase transition | 1850 K | 1850 | LþCr7C32Cr23C6 | model | [1] Khvan 2012; _cites Lee 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990002-f) | p. 1 | “During the evaluation of literature data it appeared that experimental temperatures of the four phase invariant equilibria L2(Cr) þCr23C6 þNbC (1825 K \[5\]) and LþCr7C32Cr23C6 þNbC (1853 K \[5\]) are higher than the temperatures, of corresponding invariant equilibria L2(Cr) þCr23C6 (1806 K) and LþCr7C32Cr23C6 (1850 K) in the binary Cr-C system calculated using the dataset of Lee \[6\].” |
 | Phase transition | 2015 K | 2015 | L2Cr3C2 þ Cr7C3 | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | p. 3 | “Later Yamada et al. \[29\] confirmed the temperatures obtained by Eremenko et al. \[28\] for the invariant equilibria L2Cr3C2 þ Cr7C3 (2015 K 74) and Lþ C2Cr3C2 (2099 K 74).” |
 | Phase transition | 2029 K | 2029 | LIQ -> Cr7C3 (max); _L: Cr 0.7; Cr7C3: Cr 0.7_ | model | [2] Andersson 1987 | Table II, p. 5, row 7 |  |
-| Phase transition | 2036 K | 2036 | congruent: L -> Cr7C3 (max.); _L: Cr 0.7; Cr7C3: Cr 0.7_ | model | [3] Kajihara 1990 | Table III, p. 7, row 7 |  |
+| Phase transition | 2036 K | 2036 | congruent melting: L -> Cr7C3 (max.); _L: Cr 0.7; Cr7C3: Cr 0.7_ | model | [3] Kajihara 1990 | Table III, p. 7, row 7 |  |
 | Phase transition | 2038 K | 2038 | LIQ -> Cr7C3 (max); _L: Cr 0.7; Cr7C3: Cr 0.7_ | experimental | [2] Andersson 1987 | Table II, p. 5, row 8 |  |
 | Phase transition | 2038 K | 2038 | LIQ -> Cr7C3 (max); _L: Cr 0.7; Cr7C3: Cr 0.7_ | experimental | [2] Andersson 1987 | Table II, p. 5, row 9 |  |
-| Phase transition | 2038 K | 2038 | congruent: L -> Cr7C3 (max.); _L: Cr 0.7; Cr7C3: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Rudy 1969_ | Table III, p. 7, row 8 |  |
-| Phase transition | 2038 K | 2038 | congruent: L -> Cr7C3 (max.); _L: Cr 0.7; Cr7C3: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 9 |  |
+| Phase transition | 2038 K | 2038 | congruent melting: L -> Cr7C3 (max.); _L: Cr 0.7; Cr7C3: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Rudy 1969_ | Table III, p. 7, row 8 |  |
+| Phase transition | 2038 K | 2038 | congruent melting: L -> Cr7C3 (max.); _L: Cr 0.7; Cr7C3: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 9 |  |
 | Phase transition | 2054 K | 2054 | L -> Cr7C3; _L: C 0.3; Cr7C3: C 0.3_ | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | Table 2, p. 4, row 8 |  |
 | Phase transition | 2058 K | 2058 | L -> Cr7C3; _L: C 0.3; Cr7C3: C 0.3_ | model | [1] Khvan 2012 | Table 2, p. 4, row 7 |  |
 | Phase transition | 2099 K | 2099 | Lþ C2Cr3C2 | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | p. 3 | “Later Yamada et al. \[29\] confirmed the temperatures obtained by Eremenko et al. \[28\] for the invariant equilibria L2Cr3C2 þ Cr7C3 (2015 K 74) and Lþ C2Cr3C2 (2099 K 74).” |
 | Phase transition | 4765 K | 4765 |  | model | [5] Teng 2004; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6 | “In other words, provided that the melting point of graphite (4765 K) available in the literature\[34\] is reliable, the calculated result is more reasonable than the experimental data.” |
 
-### Heat capacity / entropy / enthalpy (46)
+### Heat capacity / entropy / enthalpy (40)
 
 Table: Heat capacity / entropy / enthalpy, C–Cr system
 
@@ -144,19 +139,13 @@ Table: Heat capacity / entropy / enthalpy, C–Cr system
 | Entropy; _printed: °S(298.15)_ | 205.08 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | model | [4] Lee 1992 | Table 2, p. 11, row 8 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 695.1 unknown | 298.15 | Cr23C6; _alloy: Cr 0.793103_ | model | [3] Kajihara 1990 | Table II, p. 5, row 20 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 649.8 unknown | 298.15 | Cr23C6; _alloy: Cr 0.793103_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 19 |  |
-| Heat capacity; _printed: °Cp(298.15)_ | 696.35 unknown | 298.15 | Cr23C6; _alloy: Cr 0.793103_ | model | [4] Lee 1992 | Table 2, p. 11, row 16 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 649.8 unknown | 298.15 | Cr23C6; _alloy: Cr 0.793103_ | experimental | [4] Lee 1992 | Table 2, p. 11, row 13 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 696.35 unknown | 298.15 | Cr23C6; _alloy: Cr 0.793103_ | model | [4] Lee 1992 | Table 2, p. 11, row 14 |  |
-| Heat capacity; _printed: °Cp(298.15)_ | 649.8 unknown | 298.15 | Cr23C6; _alloy: Cr 0.793103_ | experimental | [4] Lee 1992 | Table 2, p. 11, row 15 |  |
-| Heat capacity; _printed: °Cp(298.15)_ | 99.299 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | experimental | [4] Lee 1992 | Table 2, p. 11, row 3 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 99.299 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | experimental | [4] Lee 1992 | Table 2, p. 11, row 1 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 107.63 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | model | [4] Lee 1992 | Table 2, p. 11, row 2 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 119.3 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | model | [3] Kajihara 1990 | Table II, p. 5, row 4 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 99.299 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | experimental | [3] Kajihara 1990; _cites JANAF 1975_ | Table II, p. 5, row 3 |  |
-| Heat capacity; _printed: °Cp(298.15)_ | 107.63 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | model | [4] Lee 1992 | Table 2, p. 11, row 4 |  |
-| Heat capacity; _printed: °Cp(298.15)_ | 209.748 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | experimental | [4] Lee 1992 | Table 2, p. 11, row 9 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 209.748 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | experimental | [4] Lee 1992 | Table 2, p. 11, row 7 |  |
-| Heat capacity; _printed: °Cp(298.15)_ | 224.66 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | model | [4] Lee 1992 | Table 2, p. 11, row 10 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 209.748 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites JANAF 1975_ | Table II, p. 5, row 11 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 263.3 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | model | [3] Kajihara 1990 | Table II, p. 5, row 12 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 224.66 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | model | [4] Lee 1992 | Table 2, p. 11, row 8 |  |

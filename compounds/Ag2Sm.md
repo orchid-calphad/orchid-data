@@ -1,20 +1,19 @@
 # Ag2Sm: enthalpy of formation
 
-> Enthalpy of formation of Ag2Sm: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ag2Sm: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ag2Sm.html · Markdown: https://data.orchid-project.org/compounds/Ag2Sm.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 2, model 2, unspecified 1); experimental median -24.1 kJ/mol-atom (n = 2); OQMD -28.101 kJ/mol-atom (oqmd-1378024).
+4 accepted literature formation-enthalpy value(s) (experimental 1, model 2, unspecified 1); experimental median -24.1 kJ/mol-atom (n = 1); OQMD -28.101 kJ/mol-atom (oqmd-1378024).
 
 Systems: [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ag2Sm reported in the literature (5)
+Table: Enthalpy of formation of Ag2Sm reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24.1 kJ/mol-atom ± 2.4 | αAg2Sm | 298.15 | experimental | HTDSC | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.069) | Table 7, p. 10, row 7 |  |
 | -24.1 kJ/mol-atom ± 2.4 | αAg2Sm | 298.15 | experimental | HTDSC | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.069) | Table 7, p. 10, row 7 |  |
 | -40 kJ/mol-atom | αAg2Sm | 298.15 | model | Evaluation | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 7, p. 10, row 6 |  |
 | -25.6 kJ/mol-atom | αAg2Sm | 298.15 | model | CALPHAD | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | [1] Zhou 2020 | Table 7, p. 10, row 9 |  |

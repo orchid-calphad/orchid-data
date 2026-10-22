@@ -50,26 +50,26 @@ Table: Phase transition, Sc–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1448.15 K | 1448.15 | Congruent: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 16 |  |
+| Phase transition | 1448.15 K | 1448.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 16 |  |
 | Phase transition | 1453 K | 1453 |  | experimental | [2] Hu 2018 | p. 2 | “The phase transition lines of β↔α reach a common minimum at 1453 K, 43 at.% Y.” |
-| Phase transition | 1453.15 K | 1453.15 | Congruent: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.42; (αSc, αY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 18 |  |
-| Phase transition | 1453.15 K | 1453.15 | Congruent: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 17 |  |
-| Phase transition | 1607.15 K | 1607.15 | Polymorphic: βSc \<-> αSc; _βSc: Y 0_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 4 |  |
-| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc \<-> αSc; _βSc: Y 0_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 5 |  |
-| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc \<-> αSc; _βSc: Y 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
+| Phase transition | 1453.15 K | 1453.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.42; (αSc, αY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 18 |  |
+| Phase transition | 1453.15 K | 1453.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 17 |  |
+| Phase transition | 1607.15 K | 1607.15 | polymorphic: βSc \<-> αSc; _βSc: Y 0_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 4 |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc \<-> αSc; _βSc: Y 0_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 5 |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc \<-> αSc; _βSc: Y 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
 | Phase transition | 1638 K | 1638 | other | experimental | [2] Hu 2018 | p. 2 | “The liquidus and solidus reach a common minimum at 1638 K, 50 at.% Y.” |
-| Phase transition | 1638.15 K | 1638.15 | Congruent: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 7 |  |
-| Phase transition | 1645.15 K | 1645.15 | Congruent: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 9 |  |
-| Phase transition | 1645.15 K | 1645.15 | Congruent: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 8 |  |
-| Phase transition | 1733.15 K | 1733.15 | Polymorphic: βY \<-> αY; _βY: Y 1_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 13 |  |
-| Phase transition | 1751.15 K | 1751.15 | Polymorphic: βY \<-> αY; _βY: Y 1_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 14 |  |
-| Phase transition | 1751.15 K | 1751.15 | Polymorphic: βY \<-> αY; _βY: Y 1_ | model | [1] Wang 2009 | Table 5, p. 5, row 15 |  |
-| Phase transition | 1783.15 K | 1783.15 | Melting: L \<-> βY; _βY: Y 1_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 10 |  |
-| Phase transition | 1795.15 K | 1795.15 | Melting: L \<-> βY; _βY: Y 1_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 11 |  |
-| Phase transition | 1795.15 K | 1795.15 | Melting: L \<-> βY; _βY: Y 1_ | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
-| Phase transition | 1812.15 K | 1812.15 | Melting: L \<-> βSc; _βSc: Y 0_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 1 |  |
-| Phase transition | 1814.15 K | 1814.15 | Melting: L \<-> βSc; _βSc: Y 0_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 2 |  |
-| Phase transition | 1814.15 K | 1814.15 | Melting: L \<-> βSc; _βSc: Y 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 3 |  |
+| Phase transition | 1638.15 K | 1638.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 7 |  |
+| Phase transition | 1645.15 K | 1645.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 9 |  |
+| Phase transition | 1645.15 K | 1645.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 8 |  |
+| Phase transition | 1733.15 K | 1733.15 | polymorphic: βY \<-> αY; _βY: Y 1_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 13 |  |
+| Phase transition | 1751.15 K | 1751.15 | polymorphic: βY \<-> αY; _βY: Y 1_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 14 |  |
+| Phase transition | 1751.15 K | 1751.15 | polymorphic: βY \<-> αY; _βY: Y 1_ | model | [1] Wang 2009 | Table 5, p. 5, row 15 |  |
+| Phase transition | 1783.15 K | 1783.15 | congruent melting: L \<-> βY; _βY: Y 1_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 10 |  |
+| Phase transition | 1795.15 K | 1795.15 | congruent melting: L \<-> βY; _βY: Y 1_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 11 |  |
+| Phase transition | 1795.15 K | 1795.15 | congruent melting: L \<-> βY; _βY: Y 1_ | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
+| Phase transition | 1812.15 K | 1812.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 1 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | unspecified | [1] Wang 2009; _cites Beaudry 1978_ | Table 5, p. 5, row 2 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L \<-> βSc; _βSc: Y 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 3 |  |
 
 ## Sources
 

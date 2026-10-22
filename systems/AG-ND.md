@@ -74,73 +74,73 @@ Table: Invariant reactions reported in the literature for the Ag–Nd system (67
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1298.15 | Congruent: L ↔ Ag51Nd14 | L: Ag 0.784615, Nd 0.215385; Ag51Nd14: Ag 0.784615, Nd 0.215385 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 38 |  |
-| 1298.15 | Congruent: L ↔ Ag51Nd14 | L: Nd 0.215; Ag51Nd14: Nd 0.215 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 35 |  |
-| 1297.65 | Congruent: L ↔ Ag51Nd14 | L: Nd 0.215; Ag51Nd14: Nd 0.215 | model | [1] Wang 2009 | Table 5, p. 5, row 39 |  |
-| 1294.15 | Melting: L ↔ βNd | βNd: Nd 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
-| 1294.15 | Melting: L ↔ βNd | βNd: Nd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 3 |  |
-| 1290.15 | Melting: L ↔ βNd | βNd: Nd 1 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 2 |  |
-| 1290.15 | Melting: L ↔ βNd | βNd: Nd 1 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 1 |  |
-| 1235.05 | Melting: L ↔ (Ag) | (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 47 |  |
-| 1235.05 | Melting: L ↔ (Ag) | (Ag): Nd 0 | model | [1] Wang 2009 | Table 5, p. 5, row 48 |  |
-| 1233.65 | Melting: L ↔ (Ag) | (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 46 |  |
-| 1233.15 | Congruent: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 15 |  |
-| 1233.15 | Melting: L ↔ (Ag) | (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 45 |  |
-| 1228.15 | Congruent: L ↔ Ag51Nd14 | L: Nd 0.25; Ag51Nd14: Nd 0.25 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 37 |  |
-| 1228.15 | Congruent: L ↔ Ag51Nd14 | L: Nd 0.25; Ag51Nd14: Nd 0.25 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 36 |  |
-| 1225.15 | Congruent: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 18 |  |
-| 1223.35 | Congruent: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 19 |  |
-| 1218.15 | Congruent: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 16 |  |
-| 1218.15 | Congruent: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 17 |  |
-| 1136.15 | Polymorphic: βNd ↔ αNd | αNd: Nd 1 | model | [1] Wang 2009 | Table 5, p. 5, row 7 |  |
-| 1136.15 | Polymorphic: βNd ↔ αNd | αNd: Nd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 6 |  |
-| 1120.15 | Polymorphic: βNd ↔ αNd | αNd: Nd 1 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 5 |  |
-| 1104.15 | Peritectic: L + Ag51Nd14 ↔ βAg2Nd | Ag51Nd14: Nd 0.215; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 25 |  |
-| 1104 | Peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.34; Ag51Nd14: Nd 0.215; β-Ag2Nd: Nd 0.333 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 10 |  |
-| 1103 | Peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.346; Ag51Nd14: Nd 0.215; β-Ag2Nd: Nd 0.333 | model | [2] Huang 2009 | Table 2, p. 3, row 9 |  |
-| 1098.15 | Peritectic: L + Ag51Nd14 ↔ βAg2Nd | Ag51Nd14: Ag 0.784615, Nd 0.215385; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 28 |  |
-| 1098 | Peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.365; Ag51Nd14: Nd 0.22; β-Ag2Nd: Nd 0.333 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 13 |  |
-| 1097.05 | Peritectic: L + Ag51Nd14 ↔ βAg2Nd | L: Nd 0.356; Ag51Nd14: Nd 0.215; βAg2Nd: Nd 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 29 |  |
-| 1093.15 | Peritectic: L + Ag51Nd14 ↔ βAg2Nd | L: Nd 0.35; Ag51Nd14: Nd 0.25; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 26 |  |
-| 1093.15 | Peritectic: L + Ag51Nd14 ↔ βAg2Nd | Ag51Nd14: Nd 0.25; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 27 |  |
-| 1093 | Peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.35; Ag51Nd14: Nd 0.25; β-Ag2Nd: Nd 0.333 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 12 |  |
-| 1093 | Peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.35; Ag51Nd14: Nd 0.25; β-Ag2Nd: Nd 0.333 | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 11 |  |
-| 1085 | Eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.375; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | model | [2] Huang 2009 | Table 2, p. 3, row 14 |  |
-| 1084.95 | Eutectic: L ↔ AgNd + βAg2Nd | L: Nd 0.378; AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 24 |  |
-| 1083.15 | Eutectic: L ↔ AgNd + βAg2Nd | L: Nd 0.41; AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 21 |  |
-| 1083.15 | Eutectic: L ↔ AgNd + βAg2Nd | AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 22 |  |
-| 1083.15 | Eutectic: L ↔ AgNd + βAg2Nd | L: Nd 0.408; AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 20 |  |
-| 1083.15 | Eutectic: L ↔ AgNd + βAg2Nd | L: Nd 0.408; AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 23 |  |
-| 1083 | Eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.408; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 15 |  |
-| 1083 | Eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.41; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 17 |  |
-| 1083 | Eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.408; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 18 |  |
-| 1083 | Eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.41; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 16 |  |
-| 1081.15 | Eutectic: L ↔ Ag51Nd14 + (Ag) | Ag51Nd14: Nd 0.215 | experimental | [1] Wang 2009; _cites Gschneidner 1971_ | Table 5, p. 5, row 42 |  |
-| 1081 | Eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.1; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | experimental | [2] Huang 2009; _cites Gschneidner 1961_ | Table 2, p. 3, row 4 |  |
-| 1079.15 | Eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.105; Ag51Nd14: Ag 0.784615, Nd 0.215385; (Ag): Nd 0.002 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 43 |  |
-| 1079 | Eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.105; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 5 |  |
-| 1078.15 | Eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.1; Ag51Nd14: Nd 0.25; (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 41 |  |
-| 1078 | Eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.1; (Ag): Nd 0; Ag51Nd14: Nd 0.25 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 3 |  |
-| 1076.15 | Eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.105; Ag51Nd14: Nd 0.215; (Ag): Nd 0.002 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 40 |  |
-| 1076 | Eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.105; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 2 |  |
-| 1075.45 | Eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.084; Ag51Nd14: Nd 0.215; (Ag): Nd 0.0031 | model | [1] Wang 2009 | Table 5, p. 5, row 44 |  |
-| 1075 | Eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.088; (Ag): Nd 0; Ag51Nd14: Nd 0.215 | model | [2] Huang 2009 | Table 2, p. 3, row 1 |  |
-| 1015.95 | Remelting: βNd ↔ L + αNd | βNd: Nd 0.961; L: Nd 0.854; αNd: Nd 0.992 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
-| 1014.15 | Remelting: βNd ↔ L + αNd |  | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 9 |  |
-| 998.15 | Remelting: βNd ↔ L + αNd | βNd: Nd 0.96; αNd: Nd 0.99 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 8 |  |
-| 923.15 | Eutectic: L ↔ αNd + AgNd | L: Nd 0.8; αNd: Nd 1; AgNd: Ag 0.5, Nd 0.5 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 12 |  |
-| 923.15 | Polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 30 |  |
-| 923 | Eutectic: L -> AgNd + (α-Nd) | L: Nd 0.8; AgNd: Nd 0.5; (α-Nd): Nd 1 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 26 |  |
-| 915.55 | Eutectic: L ↔ αNd + AgNd | L: Nd 0.799; αNd: Nd 0.991; AgNd: Nd 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 14 |  |
-| 913.15 | Eutectic: L ↔ αNd + AgNd | L: Nd 0.8; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 13 |  |
-| 913 | Eutectic: L -> AgNd + (α-Nd) | L: Nd 0.8; AgNd: Nd 0.5; (α-Nd): Nd 0.995 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 27 |  |
-| 912 | Eutectic: L -> AgNd + (α-Nd) | L: Nd 0.729; AgNd: Nd 0.5; (α-Nd): Nd 0.993 | model | [2] Huang 2009 | Table 2, p. 3, row 24 |  |
-| 908.15 | Polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 33 |  |
-| 908.15 | Polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Nd 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 34 |  |
-| 903.15 | Eutectic: L ↔ αNd + AgNd | L: Nd 0.795; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 11 |  |
-| 903 | Eutectic: L -> AgNd + (α-Nd) | L: Nd 0.795; AgNd: Nd 0.5; (α-Nd): Nd 0.995 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 25 |  |
-| 893.15 | Polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Ag 0.666667, Nd 0.333333 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 31 |  |
-| 893.15 | Polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Ag 0.666667, Nd 0.333333 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 32 |  |
+| 1298.15 | congruent melting: L ↔ Ag51Nd14 | L: Ag 0.784615, Nd 0.215385; Ag51Nd14: Ag 0.784615, Nd 0.215385 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 38 |  |
+| 1298.15 | congruent melting: L ↔ Ag51Nd14 | L: Nd 0.215; Ag51Nd14: Nd 0.215 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 35 |  |
+| 1297.65 | congruent melting: L ↔ Ag51Nd14 | L: Nd 0.215; Ag51Nd14: Nd 0.215 | model | [1] Wang 2009 | Table 5, p. 5, row 39 |  |
+| 1294.15 | congruent melting: L ↔ βNd | βNd: Nd 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
+| 1294.15 | congruent melting: L ↔ βNd | βNd: Nd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 3 |  |
+| 1290.15 | congruent melting: L ↔ βNd | βNd: Nd 1 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 2 |  |
+| 1290.15 | congruent melting: L ↔ βNd | βNd: Nd 1 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 1 |  |
+| 1235.05 | congruent melting: L ↔ (Ag) | (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 47 |  |
+| 1235.05 | congruent melting: L ↔ (Ag) | (Ag): Nd 0 | model | [1] Wang 2009 | Table 5, p. 5, row 48 |  |
+| 1233.65 | congruent melting: L ↔ (Ag) | (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 46 |  |
+| 1233.15 | congruent melting: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 15 |  |
+| 1233.15 | congruent melting: L ↔ (Ag) | (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 45 |  |
+| 1228.15 | congruent melting: L ↔ Ag51Nd14 | L: Nd 0.25; Ag51Nd14: Nd 0.25 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 37 |  |
+| 1228.15 | congruent melting: L ↔ Ag51Nd14 | L: Nd 0.25; Ag51Nd14: Nd 0.25 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 36 |  |
+| 1225.15 | congruent melting: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 18 |  |
+| 1223.35 | congruent melting: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 19 |  |
+| 1218.15 | congruent melting: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 16 |  |
+| 1218.15 | congruent melting: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 17 |  |
+| 1136.15 | polymorphic: βNd ↔ αNd | αNd: Nd 1 | model | [1] Wang 2009 | Table 5, p. 5, row 7 |  |
+| 1136.15 | polymorphic: βNd ↔ αNd | αNd: Nd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 6 |  |
+| 1120.15 | polymorphic: βNd ↔ αNd | αNd: Nd 1 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 5 |  |
+| 1104.15 | peritectic: L + Ag51Nd14 ↔ βAg2Nd | Ag51Nd14: Nd 0.215; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 25 |  |
+| 1104 | peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.34; Ag51Nd14: Nd 0.215; β-Ag2Nd: Nd 0.333 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 10 |  |
+| 1103 | peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.346; Ag51Nd14: Nd 0.215; β-Ag2Nd: Nd 0.333 | model | [2] Huang 2009 | Table 2, p. 3, row 9 |  |
+| 1098.15 | peritectic: L + Ag51Nd14 ↔ βAg2Nd | Ag51Nd14: Ag 0.784615, Nd 0.215385; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 28 |  |
+| 1098 | peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.365; Ag51Nd14: Nd 0.22; β-Ag2Nd: Nd 0.333 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 13 |  |
+| 1097.05 | peritectic: L + Ag51Nd14 ↔ βAg2Nd | L: Nd 0.356; Ag51Nd14: Nd 0.215; βAg2Nd: Nd 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 29 |  |
+| 1093.15 | peritectic: L + Ag51Nd14 ↔ βAg2Nd | L: Nd 0.35; Ag51Nd14: Nd 0.25; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 26 |  |
+| 1093.15 | peritectic: L + Ag51Nd14 ↔ βAg2Nd | Ag51Nd14: Nd 0.25; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 27 |  |
+| 1093 | peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.35; Ag51Nd14: Nd 0.25; β-Ag2Nd: Nd 0.333 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 12 |  |
+| 1093 | peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.35; Ag51Nd14: Nd 0.25; β-Ag2Nd: Nd 0.333 | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 11 |  |
+| 1085 | eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.375; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | model | [2] Huang 2009 | Table 2, p. 3, row 14 |  |
+| 1084.95 | eutectic: L ↔ AgNd + βAg2Nd | L: Nd 0.378; AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 24 |  |
+| 1083.15 | eutectic: L ↔ AgNd + βAg2Nd | L: Nd 0.41; AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 21 |  |
+| 1083.15 | eutectic: L ↔ AgNd + βAg2Nd | AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 22 |  |
+| 1083.15 | eutectic: L ↔ AgNd + βAg2Nd | L: Nd 0.408; AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 20 |  |
+| 1083.15 | eutectic: L ↔ AgNd + βAg2Nd | L: Nd 0.408; AgNd: Nd 0.5; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 23 |  |
+| 1083 | eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.408; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 15 |  |
+| 1083 | eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.41; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 17 |  |
+| 1083 | eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.408; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 18 |  |
+| 1083 | eutectic: L -> β-Ag2Nd + AgNd | L: Nd 0.41; β-Ag2Nd: Nd 0.333; AgNd: Nd 0.5 | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 16 |  |
+| 1081.15 | eutectic: L ↔ Ag51Nd14 + (Ag) | Ag51Nd14: Nd 0.215 | experimental | [1] Wang 2009; _cites Gschneidner 1971_ | Table 5, p. 5, row 42 |  |
+| 1081 | eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.1; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | experimental | [2] Huang 2009; _cites Gschneidner 1961_ | Table 2, p. 3, row 4 |  |
+| 1079.15 | eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.105; Ag51Nd14: Ag 0.784615, Nd 0.215385; (Ag): Nd 0.002 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 43 |  |
+| 1079 | eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.105; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 5 |  |
+| 1078.15 | eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.1; Ag51Nd14: Nd 0.25; (Ag): Nd 0 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 41 |  |
+| 1078 | eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.1; (Ag): Nd 0; Ag51Nd14: Nd 0.25 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 3 |  |
+| 1076.15 | eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.105; Ag51Nd14: Nd 0.215; (Ag): Nd 0.002 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 40 |  |
+| 1076 | eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.105; (Ag): Nd 0.002; Ag51Nd14: Nd 0.215 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 2 |  |
+| 1075.45 | eutectic: L ↔ Ag51Nd14 + (Ag) | L: Nd 0.084; Ag51Nd14: Nd 0.215; (Ag): Nd 0.0031 | model | [1] Wang 2009 | Table 5, p. 5, row 44 |  |
+| 1075 | eutectic: L -> (Ag)+Ag51Nd14 | L: Nd 0.088; (Ag): Nd 0; Ag51Nd14: Nd 0.215 | model | [2] Huang 2009 | Table 2, p. 3, row 1 |  |
+| 1015.95 | other: βNd ↔ L + αNd | βNd: Nd 0.961; L: Nd 0.854; αNd: Nd 0.992 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
+| 1014.15 | other: βNd ↔ L + αNd |  | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 9 |  |
+| 998.15 | other: βNd ↔ L + αNd | βNd: Nd 0.96; αNd: Nd 0.99 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 8 |  |
+| 923.15 | eutectic: L ↔ αNd + AgNd | L: Nd 0.8; αNd: Nd 1; AgNd: Ag 0.5, Nd 0.5 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 12 |  |
+| 923.15 | polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 30 |  |
+| 923 | eutectic: L -> AgNd + (α-Nd) | L: Nd 0.8; AgNd: Nd 0.5; (α-Nd): Nd 1 | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 26 |  |
+| 915.55 | eutectic: L ↔ αNd + AgNd | L: Nd 0.799; αNd: Nd 0.991; AgNd: Nd 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 14 |  |
+| 913.15 | eutectic: L ↔ αNd + AgNd | L: Nd 0.8; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 13 |  |
+| 913 | eutectic: L -> AgNd + (α-Nd) | L: Nd 0.8; AgNd: Nd 0.5; (α-Nd): Nd 0.995 | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 27 |  |
+| 912 | eutectic: L -> AgNd + (α-Nd) | L: Nd 0.729; AgNd: Nd 0.5; (α-Nd): Nd 0.993 | model | [2] Huang 2009 | Table 2, p. 3, row 24 |  |
+| 908.15 | polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 33 |  |
+| 908.15 | polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Nd 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 34 |  |
+| 903.15 | eutectic: L ↔ αNd + AgNd | L: Nd 0.795; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 11 |  |
+| 903 | eutectic: L -> AgNd + (α-Nd) | L: Nd 0.795; AgNd: Nd 0.5; (α-Nd): Nd 0.995 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 25 |  |
+| 893.15 | polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Ag 0.666667, Nd 0.333333 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 31 |  |
+| 893.15 | polymorphic: βAg2Nd ↔ αAg2Nd | βAg2Nd: Ag 0.666667, Nd 0.333333; αAg2Nd: Ag 0.666667, Nd 0.333333 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 32 |  |
 
 ## Other properties
 
@@ -150,20 +150,20 @@ Table: Phase transition, Ag–Nd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 893 K | 893 | Allotropic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 30 |  |
-| Phase transition | 893 K | 893 | Allotropic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | model | [2] Huang 2009 | Table 2, p. 3, row 28 |  |
-| Phase transition | 893 K | 893 | Allotropic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 31 |  |
 | Phase transition | 893 K | 893 | polymorphic | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | p. 1 | “The transformation temperature between these two allotropic modifications was determined to be 893 K.” |
-| Phase transition | 908 K | 908 | Allotropic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 32 |  |
-| Phase transition | 923 K | 923 | Allotropic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 29 |  |
-| Phase transition | 1218 K | 1218 | Congruent: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 22 |  |
-| Phase transition | 1218 K | 1218 | Congruent: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 21 |  |
-| Phase transition | 1225 K | 1225 | Congruent: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 23 |  |
-| Phase transition | 1233 K | 1233 | Congruent: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 20 |  |
-| Phase transition | 1233 K | 1233 | Congruent: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | model | [2] Huang 2009 | Table 2, p. 3, row 19 |  |
-| Phase transition | 1298 K | 1298 | Congruent: L -> Ag51Nd14; _L: Nd 0.215385; Ag51Nd14: Nd 0.215385_ | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 7 |  |
-| Phase transition | 1298 K | 1298 | Congruent: L -> Ag51Nd14; _L: Nd 0.215385; Ag51Nd14: Nd 0.215385_ | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 8 |  |
-| Phase transition | 1298 K | 1298 | Congruent: L -> Ag51Nd14; _L: Nd 0.215385; Ag51Nd14: Nd 0.215385_ | model | [2] Huang 2009 | Table 2, p. 3, row 6 |  |
+| Phase transition | 893 K | 893 | polymorphic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 30 |  |
+| Phase transition | 893 K | 893 | polymorphic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | model | [2] Huang 2009 | Table 2, p. 3, row 28 |  |
+| Phase transition | 893 K | 893 | polymorphic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 31 |  |
+| Phase transition | 908 K | 908 | polymorphic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 32 |  |
+| Phase transition | 923 K | 923 | polymorphic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 29 |  |
+| Phase transition | 1218 K | 1218 | congruent melting: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 22 |  |
+| Phase transition | 1218 K | 1218 | congruent melting: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 21 |  |
+| Phase transition | 1225 K | 1225 | congruent melting: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 23 |  |
+| Phase transition | 1233 K | 1233 | congruent melting: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 20 |  |
+| Phase transition | 1233 K | 1233 | congruent melting: L -> AgNd; _L: Nd 0.5; AgNd: Nd 0.5_ | model | [2] Huang 2009 | Table 2, p. 3, row 19 |  |
+| Phase transition | 1298 K | 1298 | congruent melting: L -> Ag51Nd14; _L: Nd 0.215385; Ag51Nd14: Nd 0.215385_ | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 7 |  |
+| Phase transition | 1298 K | 1298 | congruent melting: L -> Ag51Nd14; _L: Nd 0.215385; Ag51Nd14: Nd 0.215385_ | unspecified | [2] Huang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02871170) | Table 2, p. 3, row 8 |  |
+| Phase transition | 1298 K | 1298 | congruent melting: L -> Ag51Nd14; _L: Nd 0.215385; Ag51Nd14: Nd 0.215385_ | model | [2] Huang 2009 | Table 2, p. 3, row 6 |  |
 
 ### Other property (1)
 

@@ -41,7 +41,7 @@ Table: Phase transition, Ca–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1011.15 K | 1011.15 | liquidus | experimental | [1] Zhong 2003; _cites Schottmiller 1958_ [doi](https://doi.org/10.1021/j150569a024) | p. 1 | “Schottmiller et al. \[1958Sch\] determined the liquidus and solidus by thermal analysis with an uncertainty about ±2 °C. They prepared alloys from 99.8 wt.% Ca and doubly distilled 99.7 wt.% Sr in Fe crucibles in an argon atmosphere. The liquidus has a minimum at about 738 °C and 62 at.% Sr.” |
+| Phase transition | 1011.15 K | 1011.15 | other | experimental | [1] Zhong 2003; _cites Schottmiller 1958_ [doi](https://doi.org/10.1021/j150569a024) | p. 1 | “Schottmiller et al. \[1958Sch\] determined the liquidus and solidus by thermal analysis with an uncertainty about ±2 °C. They prepared alloys from 99.8 wt.% Ca and doubly distilled 99.7 wt.% Sr in Fe crucibles in an argon atmosphere. The liquidus has a minimum at about 738 °C and 62 at.% Sr.” |
 
 ## Sources
 

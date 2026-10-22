@@ -30,18 +30,18 @@ Table: Invariant reactions reported in the literature for the Ag–Ge–Ni syste
 |---:|---|---|---|---|---|---|
 | 1420 | other: L2 ⇌ L1 + Ge3Ni5 | L2: Ge 0.39, Ni 0.535; L1: Ge 0.031, Ni 0.003; Ge3Ni5: Ge 0.42, Ni 0.58 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 13 |  |
 | 1391 | other: L2 ⇌ L1 + βGeNi3 + (Ni) | L2: Ge 0.226, Ni 0.762; L1: Ge 0.003, Ni 0.005; βGeNi3: Ge 0.23, Ni 0.769; (Ni): Ge 0.138, Ni 0.861 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 1 |  |
-| 1377 | U: L2 + βGeNi3 ⇌ L1 + γGeNi3 | L2: Ge 0.29, Ni 0.694; βGeNi3: Ge 0.253, Ni 0.747; L1: Ge 0.279, Ni 0.705; γGeNi3: Ge 0.256, Ni 0.744 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 2 |  |
-| 1368.8 | U: L2 + γGeNi3 ⇌ L1 + δGe2Ni5 | L2: Ge 0.29, Ni 0.694; L1: Ge 0.011, Ni 0.003; δGe2Ni5: Ge 0.28, Ni 0.72; γGe Ni3: Ge 0.256, Ni 0.744 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 3 |  |
+| 1377 | quasi-peritectic: L2 + βGeNi3 ⇌ L1 + γGeNi3 | L2: Ge 0.29, Ni 0.694; βGeNi3: Ge 0.253, Ni 0.747; L1: Ge 0.279, Ni 0.705; γGeNi3: Ge 0.256, Ni 0.744 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 2 |  |
+| 1368.8 | quasi-peritectic: L2 + γGeNi3 ⇌ L1 + δGe2Ni5 | L2: Ge 0.29, Ni 0.694; L1: Ge 0.011, Ni 0.003; δGe2Ni5: Ge 0.28, Ni 0.72; γGe Ni3: Ge 0.256, Ni 0.744 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 3 |  |
 | 1368.3 | other: L2 ⇌ L1 + Ge3Ni5 + δGe2Ni5 | L2: Ge 0.291, Ni 0.692; L1: Ge 0.011, Ni 0.003; Ge3Ni5: Ge 0.358, Ni 0.642; δGe2Ni5: Ge 0.28, Ni 0.72 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 4 |  |
 | 1362 | other: L1 + γGeNi3 ⇌ βGeNi3 + δGe2Ni5 | L1: Ni 0.003; γGeNi3: Ge 0.256, Ni 0.744; βGeNi3: Ge 0.255, Ni 0.744; δGe2Ni5: Ge 0.28, Ni 0.72 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 9 |  |
 | 1325 | other: L1 + δGe2Ni5 ⇌ βGeNi3 + Ge3Ni5 | L1: Ge 0.009, Ni 0.002; δGe2Ni5: Ge 0.28, Ni 0.72; βGeNi3: Ge 0.256, Ni 0.744; Ge3Ni5: Ge 0.356, Ni 0.644 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 10 |  |
 | 1234 | other: L1 + (Ag) ⇌ βGeNi3 + (Ni) | L1: Ni 0.002; (Ag): Ni 0.002; βGeNi3: Ge 0.233, Ni 0.767; (Ni): Ge 0.132, Ni 0.867 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 11 |  |
 | 1230 | other: L1 + βGeNi3 ⇌ (Ag) + δGe2Ni5 | L1: Ge 0.006, Ni 0.001; βGeNi3: Ge 0.256, Ni 0.744; (Ag): Ge 0.002, Ni 0.001; δGe2Ni5: Ge 0.356, Ni 0.644 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 12 |  |
-| 1055 | U: L2 + Ge3Ni5 ⇌ L1 + GeNi | L2: Ge 0.502, Ni 0.21; Ge3Ni5: Ge 0.42, Ni 0.58; L1: Ge 0.198, Ni 0.003; GeNi: Ge 0.5, Ni 0.5 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 5 |  |
-| 934 | U: L2 + GeNi ⇌ L1 + (Ag) | L2: Ge 0.545, Ni 0.146; GeNi: Ge 0.5, Ni 0.5; L1: Ge 0.251, Ni 0.002; (Ag): Ge 0.093 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 6 |  |
+| 1055 | quasi-peritectic: L2 + Ge3Ni5 ⇌ L1 + GeNi | L2: Ge 0.502, Ni 0.21; Ge3Ni5: Ge 0.42, Ni 0.58; L1: Ge 0.198, Ni 0.003; GeNi: Ge 0.5, Ni 0.5 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 5 |  |
+| 934 | quasi-peritectic: L2 + GeNi ⇌ L1 + (Ag) | L2: Ge 0.545, Ni 0.146; GeNi: Ge 0.5, Ni 0.5; L1: Ge 0.251, Ni 0.002; (Ag): Ge 0.093 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 6 |  |
 | 925 | L -> (Ag) + (Ge) | L: Ge 0.1868; (Ag): Ge 0.0666; (Ge): Ge 1 | model | [1] Rajkumar 2018 | Table V, p. 6, row 1 |  |
 | 924 | other: L2 ⇌ L1 + (Ag) + (Ge) | L2: Ge 0.55, Ni 0.137; L1: Ge 0.26, Ni 0.002; (Ag): Ge 0.096; (Ge): Ge 1 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 7 |  |
-| 921 | E: L ⇌ GeNi + (Ag) + (Ge) | L: Ge 0.553, Ni 0.143; GeNi: Ge 0.5, Ni 0.5; (Ag): Ge 0.095; Ge: Ge 1 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 8 |  |
+| 921 | eutectic: L ⇌ GeNi + (Ag) + (Ge) | L: Ge 0.553, Ni 0.143; GeNi: Ge 0.5, Ni 0.5; (Ag): Ge 0.095; Ge: Ge 1 | model | [1] Rajkumar 2018 | Table VIII, p. 9, row 8 |  |
 
 ## Other properties
 

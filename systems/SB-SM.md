@@ -84,28 +84,28 @@ Table: Invariant reactions reported in the literature for the Sb–Sm system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2195.15 | Congruent: L -> SbSm | L: Sm 0.5; SbSm: Sm 0.5 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 7 |  |
-| 2148.15 | Congruent: L -> SbSm | L: Sm 0.5; SbSm: Sm 0.5 | model | [1] Liu 2014 | Table 4, p. 5, row 9 |  |
-| 2148.15 | Congruent: L -> SbSm | L: Sm 0.5; SbSm: Sm 0.5 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 8 |  |
-| 2065.15 | Peritectic: L + SbSm -> Sb3Sm4 | L: Sm 0.66; SbSm: Sm 0.5; Sb3Sm4: Sm 0.571 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 10 |  |
-| 2005.15 | Peritectic: L + Sb3Sm4 -> βSb3Sm5 | L: Sm 0.69; Sb3Sm4: Sm 0.571; βSb3Sm5: Sm 0.625 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 13 |  |
-| 1953.35 | Peritectic: L + SbSm -> Sb3Sm4 | L: Sm 0.609; SbSm: Sm 0.5; Sb3Sm4: Sm 0.571 | model | [1] Liu 2014 | Table 4, p. 5, row 12 |  |
-| 1953.15 | Peritectic: L + SbSm -> Sb3Sm4 | L: Sm 0.597; SbSm: Sm 0.5; Sb3Sm4: Sm 0.571 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 11 |  |
-| 1645.15 | Peritectic: L + SbSm -> Sb2Sm | L: Sm 0.21; SbSm: Sm 0.5; Sb2Sm: Sm 0.333 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 4 |  |
-| 1548.15 | Peritectic: L + Sb3Sm4 -> βSb3Sm5 | L: Sm 0.759; Sb3Sm4: Sm 0.571; βSb3Sm5: Sm 0.625 | model | [1] Liu 2014 | Table 4, p. 5, row 15 |  |
-| 1548.15 | Peritectic: L + Sb3Sm4 -> βSb3Sm5 | L: Sm 0.754; Sb3Sm4: Sm 0.571; βSb3Sm5: Sm 0.625 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 14 |  |
-| 1300.15 | Eutectic: L -> Sb3Sm5 + (γSm) | L: Sm 0.9; Sb3Sm5: Sm 0.625; (γSm): Sm 0.95 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 18 |  |
+| 2195.15 | congruent melting: L -> SbSm | L: Sm 0.5; SbSm: Sm 0.5 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 7 |  |
+| 2148.15 | congruent melting: L -> SbSm | L: Sm 0.5; SbSm: Sm 0.5 | model | [1] Liu 2014 | Table 4, p. 5, row 9 |  |
+| 2148.15 | congruent melting: L -> SbSm | L: Sm 0.5; SbSm: Sm 0.5 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 8 |  |
+| 2065.15 | peritectic: L + SbSm -> Sb3Sm4 | L: Sm 0.66; SbSm: Sm 0.5; Sb3Sm4: Sm 0.571 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 10 |  |
+| 2005.15 | peritectic: L + Sb3Sm4 -> βSb3Sm5 | L: Sm 0.69; Sb3Sm4: Sm 0.571; βSb3Sm5: Sm 0.625 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 13 |  |
+| 1953.35 | peritectic: L + SbSm -> Sb3Sm4 | L: Sm 0.609; SbSm: Sm 0.5; Sb3Sm4: Sm 0.571 | model | [1] Liu 2014 | Table 4, p. 5, row 12 |  |
+| 1953.15 | peritectic: L + SbSm -> Sb3Sm4 | L: Sm 0.597; SbSm: Sm 0.5; Sb3Sm4: Sm 0.571 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 11 |  |
+| 1645.15 | peritectic: L + SbSm -> Sb2Sm | L: Sm 0.21; SbSm: Sm 0.5; Sb2Sm: Sm 0.333 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 4 |  |
+| 1548.15 | peritectic: L + Sb3Sm4 -> βSb3Sm5 | L: Sm 0.759; Sb3Sm4: Sm 0.571; βSb3Sm5: Sm 0.625 | model | [1] Liu 2014 | Table 4, p. 5, row 15 |  |
+| 1548.15 | peritectic: L + Sb3Sm4 -> βSb3Sm5 | L: Sm 0.754; Sb3Sm4: Sm 0.571; βSb3Sm5: Sm 0.625 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 14 |  |
+| 1300.15 | eutectic: L -> Sb3Sm5 + (γSm) | L: Sm 0.9; Sb3Sm5: Sm 0.625; (γSm): Sm 0.95 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 18 |  |
 | 1293.35 | polymorphic: Sb3Sm4 + βSb3Sm5 -> αSb3Sm5 | Sb3Sm4: Sm 0.571; βSb3Sm5: Sb 0.375, Sm 0.625; αSb3Sm5: Sm 0.625 | model | [1] Liu 2014 | Table 4, p. 5, row 17 |  |
 | 1293.15 | polymorphic: Sb3Sm4 + βSb3Sm5 -> αSb3Sm5 | Sb3Sm4: Sm 0.571; βSb3Sm5: Sb 0.375, Sm 0.625; αSb3Sm5: Sm 0.625 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 16 |  |
-| 1223.35 | Eutectic: L -> Sb3Sm5 + (γSm) | L: Sm 0.901; Sb3Sm5: Sm 0.625; (γSm): Sm 0.987 | model | [1] Liu 2014 | Table 4, p. 5, row 20 |  |
-| 1223.15 | Eutectic: L -> Sb3Sm5 + (γSm) | L: Sm 0.9; Sb3Sm5: Sm 0.625; (γSm): Sm 0.991 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 19 |  |
-| 1173.25 | Peritectic: L + SbSm -> Sb2Sm | L: Sm 0.173; SbSm: Sm 0.5; Sb2Sm: Sm 0.333 | model | [1] Liu 2014 | Table 4, p. 5, row 6 |  |
-| 1173.15 | Peritectic: L + SbSm -> Sb2Sm | L: Sm 0.173; SbSm: Sm 0.5; Sb2Sm: Sm 0.333 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 5 |  |
-| 1150.15 | Eutectoid: (γSm) -> Sb3Sm5 + (βSm) | (γSm): Sm 0.99; Sb3Sm5: Sm 0.625; (βSm): Sm 1 | model | [1] Liu 2014 | Table 4, p. 5, row 23 |  |
-| 1150.15 | Eutectoid: (γSm) -> Sb3Sm5 + (βSm) | (γSm): Sm 0.92; Sb3Sm5: Sm 0.625; (βSm): Sm 0.95 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 21 |  |
-| 898.15 | Eutectic: L -> (Sb) + Sb2Sm | L: Sm 0.017; (Sb): Sm 0; Sb2Sm: Sm 0.333 | model | [1] Liu 2014 | Table 4, p. 5, row 3 |  |
-| 898.15 | Eutectic: L -> (Sb) + Sb2Sm | L: Sm 0.002; (Sb): Sm 0; Sb2Sm: Sm 0.333 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 2 |  |
-| 875.15 | Eutectic: L -> (Sb) + Sb2Sm | L: Sm 0.04; (Sb): Sm 0; Sb2Sm: Sm 0.333 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 1 |  |
+| 1223.35 | eutectic: L -> Sb3Sm5 + (γSm) | L: Sm 0.901; Sb3Sm5: Sm 0.625; (γSm): Sm 0.987 | model | [1] Liu 2014 | Table 4, p. 5, row 20 |  |
+| 1223.15 | eutectic: L -> Sb3Sm5 + (γSm) | L: Sm 0.9; Sb3Sm5: Sm 0.625; (γSm): Sm 0.991 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 19 |  |
+| 1173.25 | peritectic: L + SbSm -> Sb2Sm | L: Sm 0.173; SbSm: Sm 0.5; Sb2Sm: Sm 0.333 | model | [1] Liu 2014 | Table 4, p. 5, row 6 |  |
+| 1173.15 | peritectic: L + SbSm -> Sb2Sm | L: Sm 0.173; SbSm: Sm 0.5; Sb2Sm: Sm 0.333 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 5 |  |
+| 1150.15 | eutectoid: (γSm) -> Sb3Sm5 + (βSm) | (γSm): Sm 0.99; Sb3Sm5: Sm 0.625; (βSm): Sm 1 | model | [1] Liu 2014 | Table 4, p. 5, row 23 |  |
+| 1150.15 | eutectoid: (γSm) -> Sb3Sm5 + (βSm) | (γSm): Sm 0.92; Sb3Sm5: Sm 0.625; (βSm): Sm 0.95 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 21 |  |
+| 898.15 | eutectic: L -> (Sb) + Sb2Sm | L: Sm 0.017; (Sb): Sm 0; Sb2Sm: Sm 0.333 | model | [1] Liu 2014 | Table 4, p. 5, row 3 |  |
+| 898.15 | eutectic: L -> (Sb) + Sb2Sm | L: Sm 0.002; (Sb): Sm 0; Sb2Sm: Sm 0.333 | experimental | [1] Liu 2014; _cites Abulkhaev 1992_ | Table 4, p. 5, row 2 |  |
+| 875.15 | eutectic: L -> (Sb) + Sb2Sm | L: Sm 0.04; (Sb): Sm 0; Sb2Sm: Sm 0.333 | experimental | [1] Liu 2014; _cites Sadigov 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990149-x) | Table 4, p. 5, row 1 |  |
 
 ## Sources
 

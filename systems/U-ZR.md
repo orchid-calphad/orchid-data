@@ -147,24 +147,24 @@ Table: Phase transition, U–Zr system
 | Phase transition | 879.35 K | 879.35 | δ + bcc_A2; _alloy: U 0.219, Zr 0.781_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 8 |  |
 | Phase transition | 879.4 K | 879.4 | δ + bcc_A2; _alloy: U 0.204, Zr 0.796_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 9 |  |
 | Phase transition | 880.05 K | 880.05 | δ + bcc_A2; _alloy: U 0.246, Zr 0.754_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 7 |  |
-| Phase transition | 880.65 K | 880.65 | δ/bcc_A2 phase boundary (upper): wt% Zr 60 (x(Zr) 0.796), T upper; _alloy: U 0.204, Zr 0.796_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 16 |  |
+| Phase transition | 880.65 K | 880.65 | other: wt% Zr 60 (x(Zr) 0.796), T upper; _alloy: U 0.204, Zr 0.796_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 16 |  |
 | Phase transition | 881.2 K | 881.2 | δ + bcc_A2; _alloy: U 0.262, Zr 0.738_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 6 |  |
 | Phase transition | 881.35 K | 881.35 | δ + bcc_A2; _alloy: U 0.277, Zr 0.723_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 5 |  |
 | Phase transition | 882.45 K | 882.45 | δ + bcc_A2; _alloy: U 0.293, Zr 0.707_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 4 |  |
-| Phase transition | 882.55 K | 882.55 | δ/bcc_A2 phase boundary (upper): wt% Zr 54 (x(Zr) 0.754), T upper; _alloy: U 0.246, Zr 0.754_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 15 |  |
+| Phase transition | 882.55 K | 882.55 | other: wt% Zr 54 (x(Zr) 0.754), T upper; _alloy: U 0.246, Zr 0.754_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 15 |  |
 | Phase transition | 884 K | 884 | other | model | [3] Williams 2025 | p. 1 | “These changes include the truncation of β-U stability at 6 at.% Zr, prominent isotherms at 884 K (611◦ C) and 961 K (688◦ C), and δ-U-Zr phase boundaries ranging from 66.5 to 80.2 at.% Zr at 823 K (550◦ C).” |
-| Phase transition | 884.25 K | 884.25 | δ/bcc_A2 phase boundary (upper): wt% Zr 52 (x(Zr) 0.738), T upper; _alloy: U 0.262, Zr 0.738_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 14 |  |
-| Phase transition | 884.45 K | 884.45 | δ/bcc_A2 phase boundary (upper): wt% Zr 50 (x(Zr) 0.723), T upper; _alloy: U 0.277, Zr 0.723_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 13 |  |
+| Phase transition | 884.25 K | 884.25 | other: wt% Zr 52 (x(Zr) 0.738), T upper; _alloy: U 0.262, Zr 0.738_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 14 |  |
+| Phase transition | 884.45 K | 884.45 | other: wt% Zr 50 (x(Zr) 0.723), T upper; _alloy: U 0.277, Zr 0.723_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 13 |  |
 | Phase transition | 884.8 K | 884.8 | δ + bcc_A2; _alloy: U 0.31, Zr 0.69_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 3 |  |
-| Phase transition | 885.95 K | 885.95 | δ/bcc_A2 phase boundary (upper): wt% Zr 48 (x(Zr) 0.707), T upper; _alloy: U 0.293, Zr 0.707_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 12 |  |
+| Phase transition | 885.95 K | 885.95 | other: wt% Zr 48 (x(Zr) 0.707), T upper; _alloy: U 0.293, Zr 0.707_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 12 |  |
 | Phase transition | 886.9 K | 886.9 | δ + bcc_A2; _alloy: U 0.328, Zr 0.672_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 2 |  |
 | Phase transition | 887.6 K | 887.6 | δ + bcc_A2; _alloy: U 0.365, Zr 0.635_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 1 |  |
-| Phase transition | 889.15 K | 889.15 | δ/bcc_A2 phase boundary (upper): wt% Zr 40 (x(Zr) 0.635), T upper; _alloy: U 0.365, Zr 0.635_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 10 |  |
-| Phase transition | 890.65 K | 890.65 | δ/bcc_A2 phase boundary (upper): wt% Zr 44 (x(Zr) 0.672), T upper; _alloy: U 0.328, Zr 0.672_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 11 |  |
+| Phase transition | 889.15 K | 889.15 | other: wt% Zr 40 (x(Zr) 0.635), T upper; _alloy: U 0.365, Zr 0.635_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 10 |  |
+| Phase transition | 890.65 K | 890.65 | other: wt% Zr 44 (x(Zr) 0.672), T upper; _alloy: U 0.328, Zr 0.672_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 11 |  |
 | Phase transition | 961 K | 961 | other | model | [3] Williams 2025 | p. 1 | “These changes include the truncation of β-U stability at 6 at.% Zr, prominent isotherms at 884 K (611◦ C) and 961 K (688◦ C), and δ-U-Zr phase boundaries ranging from 66.5 to 80.2 at.% Zr at 823 K (550◦ C).” |
 | Phase transition | 1049 K | 1049 | UNKNOWN; _alloy: U 0.9974, Zr 0.0026_ | unspecified | [3] Williams 2025 | Table A.3, p. 12, row 1 |  |
 | Phase transition | 1057 K | 1057 | 0 at.% Zr, 1057 K; _alloy: Zr 1_ | experimental | [3] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 12, row 2 |  |
-| Phase transition | 1519 K | 1519 | solidus | model | [1] Quaini 2018 | p. 12 | “The estimated molar phase fraction were compared with calculation at the solidus temperature (T 1⁄4 1519 K).” |
+| Phase transition | 1519 K | 1519 | other | model | [1] Quaini 2018 | p. 12 | “The estimated molar phase fraction were compared with calculation at the solidus temperature (T 1⁄4 1519 K).” |
 
 ### Activity / EMF / Gibbs energy (20)
 

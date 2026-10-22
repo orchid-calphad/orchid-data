@@ -128,8 +128,8 @@ Table: Phase transition, O–Zr system
 | Phase transition | 1478.15 K | 1478.15 | /3 ZrO2-z + a Zr02\_= | experimental | [2] Arroyave 2002; _cites Ackerman 1975_ | p. 3 | “At 1205°C, this phase transforms to a Zr02\_= \[15\].” |
 | Phase transition | 1773 K | 1773 | other: fcc_C1 \<=> O2 Zr1 (tetragonal) + hcp_A3 | model | [5] Chevalier 2004 | p. 15 | “In the field located in the triangle UO2 -ZrO2 -Zr0.7 O0.3 , a two-phase field fcc_C1 + fcc_C1 appears at 1773 K, due to the invariant reaction fcc_C1 ⇔ O2 Zr1 (tetragonal) + hcp_A3 in the O-Zr binary system around 1773 K.” |
 | Phase transition | 1798.15 K | 1798.15 | other: 7 ZrO2-x ~- HCP +/3 Zr02\_= | experimental | [2] Arroyave 2002; _cites Rauh 1980_ | p. 3 | “It has also been observed \[13\] that there exists an invariant transformation 7 ZrO2-x ~- HCP +/3 Zr02\_= at 1525°C.” |
-| Phase transition | 2400 K | 2400 | congruent | model | [3] Pérez 2007 | p. 6 | “This phase is stable up to its congruent melting point of 2400 K at 29 at.% O.” |
-| Phase transition | 2402 K | 2402 | congruent | model | [1] Wang 2004 | p. 9 | “The congruent melting point of the hcp phase (2402 K) is calculated at 29 at.% O, which has to be compared with 25 at.% O given by \[1\].” |
+| Phase transition | 2400 K | 2400 | congruent transformation | model | [3] Pérez 2007 | p. 6 | “This phase is stable up to its congruent melting point of 2400 K at 29 at.% O.” |
+| Phase transition | 2402 K | 2402 | congruent transformation | model | [1] Wang 2004 | p. 9 | “The congruent melting point of the hcp phase (2402 K) is calculated at 29 at.% O, which has to be compared with 25 at.% O given by \[1\].” |
 | Phase transition | 2558 K | 2558 | polymorphic: β ↔ γ | experimental | [1] Wang 2004; _cites Smith 1962_ | Table 2, p. 5, row 16 |  |
 | Phase transition | 2566 K | 2566 | polymorphic: β ↔ γ | experimental | [1] Wang 2004; _cites Wolten 1963_ | Table 2, p. 5, row 17 |  |
 | Phase transition | 2573 K | 2573 | polymorphic: β ↔ γ | experimental | [1] Wang 2004; _cites Ruh 1970_ | Table 2, p. 5, row 19 |  |
@@ -147,7 +147,7 @@ Table: Phase transition, O–Zr system
 | Phase transition | 2650.15 K | 2650.15 | 7 Zr02\_= + /3 Zr02-= | experimental | [2] Arroyave 2002; _cites Ackerman 1975_ | p. 3 | “the non-stoichiometric region of the phase being stable at temperatures as low as 1525°C \[15\], \[7\], \[14\] which is much lower than the coherent transformation to the/3 Zr02-= phase(,-, 2377°C \[15\]).” |
 | Phase transition | 2950 K | 2950 |  | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | p. 6 | “It must be pointed out that a 'small' but unacceptable inconsistency in the work of Arroyave et al. \[12\] is that the phase transition temperatures (1478, 2641, 2950 K) assessed for the monoclinic, tetragonal and cubic phases, respectively, in the calculated phase diagram are not consistent with the temperature limits (1445, 2620, 2983 K) in the Gibbs energy equation for stoichiometric ZrO2 , whic…” |
 | Phase transition | 2950 K | 2950 |  | experimental | [1] Wang 2004 | p. 4 | “The melting point was reported by many groups (Table 2). Owing to the experimental uncertainties at such high temperatures, the data show some disagreement. Most of the authors accepted the value of 2983 or 2950 K.” |
-| Phase transition | 2950 K | 2950 | congruent | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | p. 9 | “The phase diagram calculated by \[12\] shows a congruent melting point very close to the stoichiometric composition at 2950 K, but lacks the consistency with the experimental data for the phase boundary liquid + cubic/cubic at high temperature.” |
+| Phase transition | 2950 K | 2950 | congruent transformation | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | p. 9 | “The phase diagram calculated by \[12\] shows a congruent melting point very close to the stoichiometric composition at 2950 K, but lacks the consistency with the experimental data for the phase boundary liquid + cubic/cubic at high temperature.” |
 | Phase transition | 2950 K | 2950 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Clausing 1932_ [doi](https://doi.org/10.1002/zaac.19322040105) | Table 2, p. 5, row 30 |  |
 | Phase transition | 2950 K | 2950 | other: γ ↔ L | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 2, p. 5, row 42 |  |
 | Phase transition | 2953 K | 2953 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990218-7) | Table 2, p. 5, row 34 |  |
@@ -162,13 +162,13 @@ Table: Phase transition, O–Zr system
 | Phase transition | 2983 K | 2983 | other: γ ↔ L | model | [1] Wang 2004; _cites Chen 2004_ | Table 2, p. 5, row 43 |  |
 | Phase transition | 2983 K | 2983 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Lambertson 1965_ | Table 2, p. 5, row 31 |  |
 | Phase transition | 2983 K | 2983 | other: γ ↔ L | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 2, p. 5, row 38 |  |
-| Phase transition | 2983.15 K | 2983.15 | congruent | experimental | [2] Arroyave 2002 | p. 3 | “The 7 Zr02-= phase exhibits a congruent melting point at 2710°C.” |
-| Phase transition | 2983.15 K | 2983.15 | congruent | experimental | [2] Arroyave 2002 | p. 2 | “It has also been observed that at the stoichiometric composition Zr02, the high temperature cubic phase (7 Zr02\_=) melts congruently at 2710°C.” |
+| Phase transition | 2983.15 K | 2983.15 | congruent melting | experimental | [2] Arroyave 2002 | p. 3 | “The 7 Zr02-= phase exhibits a congruent melting point at 2710°C.” |
+| Phase transition | 2983.15 K | 2983.15 | congruent melting | experimental | [2] Arroyave 2002 | p. 2 | “It has also been observed that at the stoichiometric composition Zr02, the high temperature cubic phase (7 Zr02\_=) melts congruently at 2710°C.” |
 | Phase transition | 2985 K | 2985 | other: γ ↔ L | model | [1] Wang 2004; _cites Chevalier 1998_ [doi](https://doi.org/10.1016/s0022-3115%2898%2900450-4) | Table 2, p. 5, row 40 |  |
 | Phase transition | 2985 K | 2985 | other: γ ↔ L | model | [1] Wang 2004; _cites Dinsdale 2003_ | Table 2, p. 5, row 44 |  |
 | Phase transition | 2993 K | 2993 |  | model | [1] Wang 2004; _cites Chevalier 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.03.005) | p. 9 | “Chevalier et al. \[10\] and Liang et al. \[11\] obtained results of 66.3 at.%O at 2993 K and 66 at.%O at 2983 K, respectively, and reproduced the liquid + cubic/cubic phase boundary very well.” |
 | Phase transition | 2995 K | 2995 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Noguchi 1966_ [doi](https://doi.org/10.1016/0038-092x%2866%2990014-4) | Table 2, p. 5, row 32 |  |
-| Phase transition | 3067 K | 3067 | congruent | model | [1] Wang 2004 | p. 9 | “The calculated congruent melting point of cubic zirconia is at 65.76 at.%O and 3067 K, which is very similar to the result of \[13\].” |
+| Phase transition | 3067 K | 3067 | congruent transformation | model | [1] Wang 2004 | p. 9 | “The calculated congruent melting point of cubic zirconia is at 65.76 at.%O and 3067 K, which is very similar to the result of \[13\].” |
 
 ### Phase equilibrium (61)
 

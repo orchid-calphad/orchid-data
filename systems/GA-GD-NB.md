@@ -29,40 +29,40 @@ Table: Invariant reactions reported in the literature for the Ga–Gd–Nb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2871.15 | Monotectic: L ↔ L2 + (Nb) | L: Nb 0.00898 | model | [1] Tamim 2023 | Table 1, p. 7, row 43 |  |
-| 2406.15 | P: L + (Nb) ↔ GaNb3 | L: Nb 0.74; (Nb): Nb 0.81 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 15 |  |
-| 2385.15 | P: L + (Nb) ↔ GaNb3 | L: Nb 0.77; (Nb): Nb 0.84 | model | [1] Tamim 2023 | Table 1, p. 7, row 16 |  |
-| 2309.15 | E: L ↔ GaNb3 + Ga3Nb5 | L: Nb 0.7277 | model | [1] Tamim 2023 | Table 1, p. 7, row 14 |  |
-| 2286.15 | E: L ↔ GaNb3 + Ga3Nb5 | L: Nb 0.69 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 13 |  |
-| 2087.15 | P: L + Ga3Nb5 ↔ °Ga4Nb5 | L: Nb 0.39 | model | [1] Tamim 2023 | Table 1, p. 7, row 2 |  |
-| 2086.15 | P: L + Ga3Nb5 ↔ °Ga4Nb5 | L: Nb 0.43 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 1 |  |
-| 1846.15 | P: L°+°Ga4Nb5°↔°Ga5Nb4 | L: Nb 0.162 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 3 |  |
-| 1839.15 | E: L +↔ (αGd) + (βNb) | L: Nb 9.500e-5 | model | [1] Tamim 2023 | Table 1, p. 7, row 44 |  |
-| 1837.15 | P: L°+°Ga4Nb5°↔°Ga5Nb4 | L: Nb 0.15 | model | [1] Tamim 2023 | Table 1, p. 7, row 4 |  |
-| 1831.15 | P: L°+°Ga5Nb4°↔°ht_Ga4Nb | L: Nb 0.134 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 5 |  |
-| 1806.15 | Peritectoid: Ga13Nb5 ↔ ht_Ga4Nb + Ga5Nb4 |  | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 17 |  |
-| 1803.15 | P: L°+°Ga5Nb4°↔°ht_Ga4Nb | L: Nb 0.1145 | model | [1] Tamim 2023 | Table 1, p. 7, row 6 |  |
-| 1795.15 | Peritectoid: Ga13Nb5 ↔ ht_Ga4Nb + Ga5Nb4 |  | model | [1] Tamim 2023 | Table 1, p. 7, row 18 |  |
-| 1781.15 | Catatectic: L + (αGd) ↔ (βGd) | L: Gd 0.0095 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 37 |  |
-| 1781.15 | Catatectic: L + (αGd) ↔ (βGd) | L: Gd 0.00969 | model | [1] Tamim 2023 | Table 1, p. 7, row 38 |  |
-| 1751.15 | Decomposition: ht_Ga4Nb°↔°L+°Ga13Nb5 | L: Nb 7.500e-4 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 7 |  |
-| 1741.15 | P: L + Ga2Gd ↔ GaGd | L: Gd 0.0055 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 29 |  |
-| 1736.15 | Decomposition: ht_Ga4Nb°↔°L+°Ga13Nb5 | L: Nb 5.500e-4 | model | [1] Tamim 2023 | Table 1, p. 7, row 8 |  |
-| 1731.15 | P: L + Ga2Gd ↔ GaGd | L: Gd 0.00536 | model | [1] Tamim 2023 | Table 1, p. 7, row 30 |  |
-| 1666.15 | P: L + Ga13Nb5 ↔ Ga3Nb | L: Nb 0.045 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 9 |  |
-| 1666.15 | P: L + Ga13Nb5 ↔ Ga3Nb | L: Nb 0.031 | model | [1] Tamim 2023 | Table 1, p. 7, row 10 |  |
-| 1648.15 | P: L + GaGd ↔ Ga2Gd3 | L: Gd 0.00628 | model | [1] Tamim 2023 | Table 1, p. 7, row 32 |  |
-| 1646.15 | P: L + GaGd ↔ Ga2Gd3 | L: Gd 0.00615 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 31 |  |
-| 1637.15 | P: L + Ga2Gd3 ↔ Ga3Gd5 | L: Gd 0.00656 | model | [1] Tamim 2023 | Table 1, p. 7, row 34 |  |
-| 1636.15 | P: L + Ga2Gd3 ↔ Ga3Gd5 | L: Gd 0.0064 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 33 |  |
-| 1396.15 | E: L ↔ Ga3Gd5 + (αGd) | L: Gd 0.008 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 35 |  |
-| 1370.15 | E: L ↔ Ga3Gd5 + (αGd) | L: Gd 0.0085 | model | [1] Tamim 2023 | Table 1, p. 7, row 36 |  |
-| 679.15 | P: L + Ga2Gd ↔ Ga6Gd | L: Gd 4.000e-5 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 25 |  |
-| 670.15 | P: L + Ga2Gd ↔ Ga6Gd | L: Gd 5.000e-6 | model | [1] Tamim 2023 | Table 1, p. 7, row 26 |  |
-| 576.15 | P: L+ Ga3Nb ↔ (Ga) | L: Nb 0 | model | [1] Tamim 2023 | Table 1, p. 7, row 20 |  |
-| 576.15 | P: L+ Ga3Nb ↔ (Ga) |  | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 19 |  |
-| 576.15 | E: L + (Ga)↔ Ga6Gd | L: Gd 0 | model | [1] Tamim 2023 | Table 1, p. 7, row 24 |  |
-| 575.15 | E: L + (Ga)↔ Ga6Gd | L: Gd 1.000e-5 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 23 |  |
+| 2871.15 | monotectic: L ↔ L2 + (Nb) | L: Nb 0.00898 | model | [1] Tamim 2023 | Table 1, p. 7, row 43 |  |
+| 2406.15 | peritectic: L + (Nb) ↔ GaNb3 | L: Nb 0.74; (Nb): Nb 0.81 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 15 |  |
+| 2385.15 | peritectic: L + (Nb) ↔ GaNb3 | L: Nb 0.77; (Nb): Nb 0.84 | model | [1] Tamim 2023 | Table 1, p. 7, row 16 |  |
+| 2309.15 | eutectic: L ↔ GaNb3 + Ga3Nb5 | L: Nb 0.7277 | model | [1] Tamim 2023 | Table 1, p. 7, row 14 |  |
+| 2286.15 | eutectic: L ↔ GaNb3 + Ga3Nb5 | L: Nb 0.69 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 13 |  |
+| 2087.15 | peritectic: L + Ga3Nb5 ↔ °Ga4Nb5 | L: Nb 0.39 | model | [1] Tamim 2023 | Table 1, p. 7, row 2 |  |
+| 2086.15 | peritectic: L + Ga3Nb5 ↔ °Ga4Nb5 | L: Nb 0.43 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 1 |  |
+| 1846.15 | peritectic: L°+°Ga4Nb5°↔°Ga5Nb4 | L: Nb 0.162 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 3 |  |
+| 1839.15 | eutectic: L +↔ (αGd) + (βNb) | L: Nb 9.500e-5 | model | [1] Tamim 2023 | Table 1, p. 7, row 44 |  |
+| 1837.15 | peritectic: L°+°Ga4Nb5°↔°Ga5Nb4 | L: Nb 0.15 | model | [1] Tamim 2023 | Table 1, p. 7, row 4 |  |
+| 1831.15 | peritectic: L°+°Ga5Nb4°↔°ht_Ga4Nb | L: Nb 0.134 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 5 |  |
+| 1806.15 | peritectoid: Ga13Nb5 ↔ ht_Ga4Nb + Ga5Nb4 |  | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 17 |  |
+| 1803.15 | peritectic: L°+°Ga5Nb4°↔°ht_Ga4Nb | L: Nb 0.1145 | model | [1] Tamim 2023 | Table 1, p. 7, row 6 |  |
+| 1795.15 | peritectoid: Ga13Nb5 ↔ ht_Ga4Nb + Ga5Nb4 |  | model | [1] Tamim 2023 | Table 1, p. 7, row 18 |  |
+| 1781.15 | metatectic/catatectic: L + (αGd) ↔ (βGd) | L: Gd 0.0095 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 37 |  |
+| 1781.15 | metatectic/catatectic: L + (αGd) ↔ (βGd) | L: Gd 0.00969 | model | [1] Tamim 2023 | Table 1, p. 7, row 38 |  |
+| 1751.15 | other: ht_Ga4Nb°↔°L+°Ga13Nb5 | L: Nb 7.500e-4 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 7 |  |
+| 1741.15 | peritectic: L + Ga2Gd ↔ GaGd | L: Gd 0.0055 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 29 |  |
+| 1736.15 | other: ht_Ga4Nb°↔°L+°Ga13Nb5 | L: Nb 5.500e-4 | model | [1] Tamim 2023 | Table 1, p. 7, row 8 |  |
+| 1731.15 | peritectic: L + Ga2Gd ↔ GaGd | L: Gd 0.00536 | model | [1] Tamim 2023 | Table 1, p. 7, row 30 |  |
+| 1666.15 | peritectic: L + Ga13Nb5 ↔ Ga3Nb | L: Nb 0.045 | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 9 |  |
+| 1666.15 | peritectic: L + Ga13Nb5 ↔ Ga3Nb | L: Nb 0.031 | model | [1] Tamim 2023 | Table 1, p. 7, row 10 |  |
+| 1648.15 | peritectic: L + GaGd ↔ Ga2Gd3 | L: Gd 0.00628 | model | [1] Tamim 2023 | Table 1, p. 7, row 32 |  |
+| 1646.15 | peritectic: L + GaGd ↔ Ga2Gd3 | L: Gd 0.00615 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 31 |  |
+| 1637.15 | peritectic: L + Ga2Gd3 ↔ Ga3Gd5 | L: Gd 0.00656 | model | [1] Tamim 2023 | Table 1, p. 7, row 34 |  |
+| 1636.15 | peritectic: L + Ga2Gd3 ↔ Ga3Gd5 | L: Gd 0.0064 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 33 |  |
+| 1396.15 | eutectic: L ↔ Ga3Gd5 + (αGd) | L: Gd 0.008 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 35 |  |
+| 1370.15 | eutectic: L ↔ Ga3Gd5 + (αGd) | L: Gd 0.0085 | model | [1] Tamim 2023 | Table 1, p. 7, row 36 |  |
+| 679.15 | peritectic: L + Ga2Gd ↔ Ga6Gd | L: Gd 4.000e-5 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 25 |  |
+| 670.15 | peritectic: L + Ga2Gd ↔ Ga6Gd | L: Gd 5.000e-6 | model | [1] Tamim 2023 | Table 1, p. 7, row 26 |  |
+| 576.15 | peritectic: L+ Ga3Nb ↔ (Ga) | L: Nb 0 | model | [1] Tamim 2023 | Table 1, p. 7, row 20 |  |
+| 576.15 | peritectic: L+ Ga3Nb ↔ (Ga) |  | experimental | [1] Tamim 2023; _cites Okamoto 1990_ | Table 1, p. 7, row 19 |  |
+| 576.15 | eutectic: L + (Ga)↔ Ga6Gd | L: Gd 0 | model | [1] Tamim 2023 | Table 1, p. 7, row 24 |  |
+| 575.15 | eutectic: L + (Ga)↔ Ga6Gd | L: Gd 1.000e-5 | experimental | [1] Tamim 2023; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 1, p. 7, row 23 |  |
 
 ## Formation enthalpies
 

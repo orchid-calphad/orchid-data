@@ -29,39 +29,39 @@ Table: Phase transition, B–C–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1352.15 K | 1352.15 | solidus: Ni–B–C ternary, B 2.43 C 0.81 mol.%; _alloy: C 0.81_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 25 |  |
-| Phase transition | 1353.15 K | 1353.15 | solidus: Ni–B–C ternary, B 4.72 C 0.70 mol.%; _alloy: C 0.7_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 19 |  |
-| Phase transition | 1353.15 K | 1353.15 | solidus: Ni–B–C ternary, B 9.64 C 0.72 mol.%; _alloy: C 0.72_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 22 |  |
-| Phase transition | 1353.15 K | 1353.15 | solidus: Ni–B–C ternary, B 9.90 C 0.89 mol.%; _alloy: C 0.89_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 31 |  |
-| Phase transition | 1354.15 K | 1354.15 | solidus: Ni–B–C ternary, B 2.28 C 0.57 mol.%; _alloy: C 0.57_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 16 |  |
-| Phase transition | 1354.15 K | 1354.15 | solidus: Ni–B–C ternary, B 3.36 C 0.90 mol.%; _alloy: C 0.9_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 28 |  |
+| Phase transition | 1352.15 K | 1352.15 | other: Ni–B–C ternary, B 2.43 C 0.81 mol.%; _alloy: C 0.81_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 25 |  |
+| Phase transition | 1353.15 K | 1353.15 | other: Ni–B–C ternary, B 4.72 C 0.70 mol.%; _alloy: C 0.7_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 19 |  |
+| Phase transition | 1353.15 K | 1353.15 | other: Ni–B–C ternary, B 9.64 C 0.72 mol.%; _alloy: C 0.72_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 22 |  |
+| Phase transition | 1353.15 K | 1353.15 | other: Ni–B–C ternary, B 9.90 C 0.89 mol.%; _alloy: C 0.89_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 31 |  |
+| Phase transition | 1354.15 K | 1354.15 | other: Ni–B–C ternary, B 2.28 C 0.57 mol.%; _alloy: C 0.57_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 16 |  |
+| Phase transition | 1354.15 K | 1354.15 | other: Ni–B–C ternary, B 3.36 C 0.90 mol.%; _alloy: C 0.9_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 28 |  |
 | Phase transition | 1356.15 K | 1356.15 | eutectic: Ni–B–C ternary, B 2.28 C 0.57 mol.%; _alloy: C 0.57_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 17 |  |
 | Phase transition | 1357.15 K | 1357.15 | eutectic: Ni–B binary, B 1.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 2 |  |
 | Phase transition | 1357.15 K | 1357.15 | eutectic: Ni–B binary, B 5.64 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 5 |  |
 | Phase transition | 1357.15 K | 1357.15 | eutectic: Ni–B–C ternary, B 4.72 C 0.70 mol.%; _alloy: C 0.7_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 20 |  |
 | Phase transition | 1357.15 K | 1357.15 | eutectic: Ni–B–C ternary, B 9.90 C 0.89 mol.%; _alloy: C 0.89_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 32 |  |
-| Phase transition | 1357.15 K | 1357.15 | solidus: Ni–B binary, B 5.64 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 4 |  |
+| Phase transition | 1357.15 K | 1357.15 | other: Ni–B binary, B 5.64 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 4 |  |
 | Phase transition | 1358.15 K | 1358.15 | eutectic: Ni–B binary, B 22.66 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 14 |  |
-| Phase transition | 1358.15 K | 1358.15 | solidus: Ni–B binary, B 1.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 1 |  |
-| Phase transition | 1358.15 K | 1358.15 | solidus: Ni–B binary, B 22.66 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 13 |  |
+| Phase transition | 1358.15 K | 1358.15 | other: Ni–B binary, B 1.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 1 |  |
+| Phase transition | 1358.15 K | 1358.15 | other: Ni–B binary, B 22.66 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 13 |  |
 | Phase transition | 1359.15 K | 1359.15 | eutectic: Ni–B–C ternary, B 3.36 C 0.90 mol.%; _alloy: C 0.9_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 29 |  |
 | Phase transition | 1360.15 K | 1360.15 | eutectic: Ni–B binary, B 8.72 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 8 |  |
 | Phase transition | 1360.15 K | 1360.15 | eutectic: Ni–B–C ternary, B 2.43 C 0.81 mol.%; _alloy: C 0.81_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 26 |  |
-| Phase transition | 1360.15 K | 1360.15 | solidus: Ni–B binary, B 8.72 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 7 |  |
+| Phase transition | 1360.15 K | 1360.15 | other: Ni–B binary, B 8.72 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 7 |  |
 | Phase transition | 1362.15 K | 1362.15 | eutectic: Ni–B binary, B 16.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 11 |  |
-| Phase transition | 1362.15 K | 1362.15 | solidus: Ni–B binary, B 16.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 10 |  |
+| Phase transition | 1362.15 K | 1362.15 | other: Ni–B binary, B 16.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 10 |  |
 | Phase transition | 1364.15 K | 1364.15 | eutectic: Ni–B–C ternary, B 9.64 C 0.72 mol.%; _alloy: C 0.72_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 23 |  |
-| Phase transition | 1374.15 K | 1374.15 | liquidus: Ni–B binary, B 16.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 12 |  |
-| Phase transition | 1414.15 K | 1414.15 | liquidus: Ni–B binary, B 22.66 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 15 |  |
-| Phase transition | 1515.15 K | 1515.15 | liquidus: Ni–B–C ternary, B 9.90 C 0.89 mol.%; _alloy: C 0.89_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 33 |  |
-| Phase transition | 1534.15 K | 1534.15 | liquidus: Ni–B–C ternary, B 9.64 C 0.72 mol.%; _alloy: C 0.72_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 24 |  |
-| Phase transition | 1579.15 K | 1579.15 | liquidus: Ni–B binary, B 8.72 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 9 |  |
-| Phase transition | 1630.15 K | 1630.15 | liquidus: Ni–B–C ternary, B 4.72 C 0.70 mol.%; _alloy: C 0.7_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 21 |  |
-| Phase transition | 1656.15 K | 1656.15 | liquidus: Ni–B binary, B 5.64 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 6 |  |
-| Phase transition | 1669.15 K | 1669.15 | liquidus: Ni–B–C ternary, B 3.36 C 0.90 mol.%; _alloy: C 0.9_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 30 |  |
-| Phase transition | 1673.15 K | 1673.15 | liquidus: Ni–B–C ternary, B 2.28 C 0.57 mol.%; _alloy: C 0.57_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 18 |  |
-| Phase transition | 1674.15 K | 1674.15 | liquidus: Ni–B–C ternary, B 2.43 C 0.81 mol.%; _alloy: C 0.81_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 27 |  |
-| Phase transition | 1701.15 K | 1701.15 | liquidus: Ni–B binary, B 1.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 3 |  |
+| Phase transition | 1374.15 K | 1374.15 | other: Ni–B binary, B 16.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 12 |  |
+| Phase transition | 1414.15 K | 1414.15 | other: Ni–B binary, B 22.66 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 15 |  |
+| Phase transition | 1515.15 K | 1515.15 | other: Ni–B–C ternary, B 9.90 C 0.89 mol.%; _alloy: C 0.89_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 33 |  |
+| Phase transition | 1534.15 K | 1534.15 | other: Ni–B–C ternary, B 9.64 C 0.72 mol.%; _alloy: C 0.72_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 24 |  |
+| Phase transition | 1579.15 K | 1579.15 | other: Ni–B binary, B 8.72 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 9 |  |
+| Phase transition | 1630.15 K | 1630.15 | other: Ni–B–C ternary, B 4.72 C 0.70 mol.%; _alloy: C 0.7_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 21 |  |
+| Phase transition | 1656.15 K | 1656.15 | other: Ni–B binary, B 5.64 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 6 |  |
+| Phase transition | 1669.15 K | 1669.15 | other: Ni–B–C ternary, B 3.36 C 0.90 mol.%; _alloy: C 0.9_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 30 |  |
+| Phase transition | 1673.15 K | 1673.15 | other: Ni–B–C ternary, B 2.28 C 0.57 mol.%; _alloy: C 0.57_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 18 |  |
+| Phase transition | 1674.15 K | 1674.15 | other: Ni–B–C ternary, B 2.43 C 0.81 mol.%; _alloy: C 0.81_ | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 27 |  |
+| Phase transition | 1701.15 K | 1701.15 | other: Ni–B binary, B 1.45 mol.% | experimental | [1] Oikawa 2022 | Table 1, p. 6, row 3 |  |
 
 ### Phase equilibrium (23)
 

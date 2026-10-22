@@ -1,10 +1,10 @@
 # Ge–Li system
 
-> Ge–Li system: 329 accepted literature values (activity / EMF / Gibbs energy 209, invariant reaction 74, formation 32, phase transition 14) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Li system: 326 accepted literature values (activity / EMF / Gibbs energy 209, invariant reaction 71, formation 32, phase transition 14) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-LI.html · Markdown: https://data.orchid-project.org/systems/GE-LI.md
 
-329 accepted literature values from 2 paper(s) (experimental 251, model 63, DFT 8, unspecified 7); 2 calculated phase diagram(s). 24 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+326 accepted literature values from 2 paper(s) (experimental 251, model 60, DFT 8, unspecified 7); 2 calculated phase diagram(s). 24 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-LI.json) · [CSV](https://data.orchid-project.org/systems/GE-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-LI/GeLi-18Wan.json) · [Markdown](https://data.orchid-project.org/systems/GE-LI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 251 |
-| model | 63 |
+| model | 60 |
 | DFT | 8 |
 | unspecified | 7 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 74 |
+| invariant reaction | 71 |
 | phase transition | 14 |
 | formation | 32 |
 | activity / EMF / Gibbs energy | 209 |
@@ -88,7 +88,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Li system (74)
+Table: Invariant reactions reported in the literature for the Ge–Li system (71)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -140,7 +140,6 @@ Table: Invariant reactions reported in the literature for the Ge–Li system (74
 | 789 | Liquid + GeLi4.096 -> Ge4Li17 | L: Li 0.94; GeLi4.096: Ge 0.196232, Li 0.803768; Ge4Li17: Ge 0.190476, Li 0.809524 | model | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 11, p. 9, row 27 |  |
 | 789 | Liquid + GeLi4.096 -> Ge4Li17 | L: Li 0.93; GeLi4.096: Ge 0.196232, Li 0.803768; Ge4Li17: Ge 0.190476, Li 0.809524 | model | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 11, p. 9, row 28 |  |
 | 783.35 | (Ge) + LiGe = Li7Ge12 | (Ge): Li 0; LiGe: Li 0.5; Li7Ge12: Li 0.368421 | model | [2] Wang 2018 | Table 4, p. 7, row 52 |  |
-| 783.35 | (Ge) + LiGe = Li7Ge12 | (Ge): Li 0; LiGe: Li 0.5; Li7Ge12: Li 0.368421 | model | [2] Wang 2018 | Table 4, p. 7, row 51 |  |
 | 783.15 | (Ge) + LiGe = Li7Ge12 | (Ge): Li 0; LiGe: Li 0.5; Li7Ge12: Li 0.368421 | experimental | [2] Wang 2018; _cites Gruttner 1982_ | Table 4, p. 7, row 24 |  |
 | 783.15 | L + Li9Ge4 = Li12Ge7 | Li9Ge4: Li 0.692308; Li12Ge7: Li 0.631579 | experimental | [2] Wang 2018; _cites Gruttner 1982_ | Table 4, p. 7, row 27 |  |
 | 783 | Liquid + Ge4Li9 -> Ge3Li7 | Ge4Li9: Ge 0.307692, Li 0.692308; Ge3Li7: Ge 0.3, Li 0.7 | unspecified | [1] Gierlotka 2022; _cites Gruttner 1982_ | Table 11, p. 9, row 16 |  |
@@ -151,12 +150,10 @@ Table: Invariant reactions reported in the literature for the Ge–Li system (74
 | 769.35 | L = Li12Ge7 + LiGe | Li12Ge7: Li 0.631579; LiGe: Li 0.5 | model | [2] Wang 2018 | Table 4, p. 7, row 55 |  |
 | 769 | Liquid -> GeLi + Ge7Li12 | L: Li 0.564; GeLi: Ge 0.5, Li 0.5; Ge7Li12: Ge 0.368421, Li 0.631579 | model | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 11, p. 9, row 23 |  |
 | 673.15 | Li4.1Ge = Li15Ge4 + Li17Ge4 | Li4.1Ge: Li 0.803922; Li15Ge4: Li 0.789474; Li17Ge4: Li 0.809524 | model | [2] Wang 2018 | Table 4, p. 7, row 58 |  |
-| 673.15 | Li4.1Ge = Li15Ge4 + Li17Ge4 | Li4.1Ge: Li 0.803922; Li15Ge4: Li 0.789474; Li17Ge4: Li 0.809524 | model | [2] Wang 2018 | Table 4, p. 7, row 57 |  |
 | 673.15 | Li4.1Ge = Li15Ge4 + Li17Ge4 | Li4.1Ge: Li 0.803922; Li15Ge4: Li 0.789474; Li17Ge4: Li 0.809524 | experimental | [2] Wang 2018; _cites Zeilinger 2014_ [doi](https://doi.org/10.1039/c4dt00743c) | Table 4, p. 7, row 34 |  |
 | 673 | GeLi4.096 -> Ge4Li17 + Ge4Li15 | GeLi4.096: Ge 0.196232, Li 0.803768; Ge4Li17: Ge 0.190476, Li 0.809524; Ge4Li15: Ge 0.210526, Li 0.789474 | model | [1] Gierlotka 2022 | Table 11, p. 9, row 30 |  |
 | 673 | GeLi4.096 -> Ge4Li17 + Ge4Li15 | GeLi4.096: Ge 0.196232, Li 0.803768; Ge4Li17: Ge 0.190476, Li 0.809524; Ge4Li15: Ge 0.210526, Li 0.789474 | model | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 11, p. 9, row 31 |  |
 | 673 | GeLi4.096 -> Ge4Li17 + Ge4Li15 | GeLi4.096: Ge 0.196232, Li 0.803768; Ge4Li17: Ge 0.190476, Li 0.809524; Ge4Li15: Ge 0.210526, Li 0.789474 | unspecified | [1] Gierlotka 2022; _cites Gruttner 1982_ | Table 11, p. 9, row 33 |  |
-| 673 | GeLi4.096 -> Ge4Li17 + Ge4Li15 | GeLi4.096: Ge 0.196232, Li 0.803768; Ge4Li17: Ge 0.190476, Li 0.809524; Ge4Li15: Ge 0.210526, Li 0.789474 | model | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 11, p. 9, row 32 |  |
 | 454 | Liquid -> Ge4Li17 + BCC_A2 | L: Li 0.999; Ge4Li17: Ge 0.190476, Li 0.809524 | model | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 11, p. 9, row 35 |  |
 | 453.75 | L = Li17Ge4 + (Li) | Li17Ge4: Li 0.809524 | model | [2] Wang 2018 | Table 4, p. 7, row 59 |  |
 | 453.65 | L = Li17Ge4 + (Li) | Li17Ge4: Li 0.809524 | experimental | [2] Wang 2018; _cites Dadd 1870_ | Table 4, p. 7, row 38 |  |

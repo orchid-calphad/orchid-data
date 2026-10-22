@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/MO-RE.html · Markdown: https://data.orchid-project.org/systems/MO-RE.md
 
-238 accepted literature values from 5 paper(s) (experimental 54, model 56, DFT 128); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+238 accepted literature values from 5 paper(s) (experimental 54, model 56, DFT 128); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-RE.json) · [CSV](https://data.orchid-project.org/systems/MO-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-RE/MoRe-08Mao-oldsigma.json) · [Markdown](https://data.orchid-project.org/systems/MO-RE.md)
 
@@ -68,88 +68,88 @@ Table: Invariant reactions reported in the literature for the Mo–Re system (82
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2973 | Peritectic: σ + liquid = (Mo) | (Mo): Re 0.42 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 1 |  |
+| 2973 | peritectic: σ + liquid = (Mo) | (Mo): Re 0.42 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 1 |  |
 | 2966 | peritectic |  | model | [2] Farzadfar 2009 | p. 9 | “The temperature of the peritectic is higher in Mao's work (2966 K compared to 2918 K from Dickinson and Richardson \[9\] which is the highest temperature among the other determinations).” |
-| 2966 | Peritectic: Liquid + (Re) = σ | (Re): Re 0.87; σ: Re 0.7; Liquid: Re 0.6 | model | [1] Mao 2008 | Table 1, p. 2, row 8 |  |
+| 2966 | peritectic: Liquid + (Re) = σ | (Re): Re 0.87; σ: Re 0.7; Liquid: Re 0.6 | model | [1] Mao 2008 | Table 1, p. 2, row 8 |  |
 | 2966 | peritectic |  | model | [3] Mathieu 2013 | p. 11 | “The temperature of the peritectic is higher in Mao's work. It is 2966 K compared to 2918 K from Dickinson and Richardson \[19\] which is the highest temperature among the experimental determinations reasonably fitted by Farzadfar, Yang , Dupin and this work.” |
-| 2966 | Peritectic: liquid+hcp -> σ | hcp: Re 0.87; σ: Re 0.7; liq: Re 0.6 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 4 |  |
+| 2966 | peritectic: liquid+hcp -> σ | hcp: Re 0.87; σ: Re 0.7; liq: Re 0.6 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 4 |  |
 | 2966 | Liquid + hcp -> σ | hcp: Re 0.87; σ: Re 0.7 | model | [4] Yang 2010; _cites Mao 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.060) | Table 1, p. 2, row 6 |  |
-| 2920 | Peritectic: liquid+hcp -> σ | hcp: Re 0.82; σ: Re 0.69; liq: Re 0.58 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 6 |  |
+| 2920 | peritectic: liquid+hcp -> σ | hcp: Re 0.82; σ: Re 0.69; liq: Re 0.58 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 6 |  |
 | 2920 | Liquid + hcp -> σ | Liquid: Re 0.58; hcp: Re 0.82; σ: Re 0.69 | model | [4] Yang 2010 | Table 1, p. 2, row 8 |  |
 | 2918 | peritectic |  | experimental | [2] Farzadfar 2009 | p. 4 | “eutectic and the peritectic temperatures determined by Dickinson and Richardson (2778 K and 2918 K respectively) were therefore used in the optimization.” |
 | 2918 | peritectic |  | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | p. 9 | “The temperature of the peritectic is higher in Mao's work (2966 K compared to 2918 K from Dickinson and Richardson \[9\] which is the highest temperature among the other determinations).” |
-| 2918 | Peritectic: Liquid + (Re) = σ | σ: Re 0.68 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 7 |  |
+| 2918 | peritectic: Liquid + (Re) = σ | σ: Re 0.68 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 7 |  |
 | 2918 | Liquid + hcp -> σ | Liquid: Re 0.6; hcp: Re 0.82; σ: Re 0.7 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 5 |  |
-| 2918 | Peritectic: liquid+hcp -> σ | σ: Re 0.69 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 1 |  |
+| 2918 | peritectic: liquid+hcp -> σ | σ: Re 0.69 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 1 |  |
 | 2918 | peritectic |  | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | p. 11 | “The temperature of the peritectic is higher in Mao's work. It is 2966 K compared to 2918 K from Dickinson and Richardson \[19\] which is the highest temperature among the experimental determinations reasonably fitted by Farzadfar, Yang , Dupin and this work.” |
-| 2918 | Peritectic: Liquid + hcp ⇔ σ | σ: Re 0.69 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 3 |  |
-| 2892 | Peritectic: Liquid + hcp ⇔ σ | L: Re 0.58; hcp: Re 0.84; σ: Re 0.67 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 4 |  |
-| 2892 | Peritectic: liquid+hcp -> σ | hcp: Re 0.84; σ: Re 0.67; liq: Re 0.58 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 5 |  |
+| 2918 | peritectic: Liquid + hcp ⇔ σ | σ: Re 0.69 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 3 |  |
+| 2892 | peritectic: Liquid + hcp ⇔ σ | L: Re 0.58; hcp: Re 0.84; σ: Re 0.67 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 4 |  |
+| 2892 | peritectic: liquid+hcp -> σ | hcp: Re 0.84; σ: Re 0.67; liq: Re 0.58 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 5 |  |
 | 2892 | Liquid + hcp -> σ | Liquid: Re 0.58; hcp: Re 0.84; σ: Re 0.67 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 7 |  |
-| 2890 | Eutectic: liquid+hcp -> σ | hcp: Re 0.875; σ: Re 0.74; liq: Re 0.75 | model | [3] Mathieu 2013 | Table 2, p. 3, row 8 |  |
-| 2887 | Peritectic: liquid+hcp -> σ | hcp: Re 0.855; σ: Re 0.716; liq: Re 0.71 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 7 |  |
-| 2843 | Peritectic: Liquid + (Re) = σ | (Re): Re 0.9; σ: Re 0.62 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 6 |  |
-| 2843 | Peritectic: liquid+hcp -> σ | hcp: Re 0.87; σ: Re 0.6 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 3 |  |
-| 2799 | Eutectic: Liquid ⇔ bcc + σ | L: Re 0.45; bcc: Re 0.43; σ: Re 0.54 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 2 |  |
-| 2799 | Eutectic: liquid -> σ+bcc | σ: Re 0.54; bcc: Re 0.43; liq: Re 0.45 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 13 |  |
+| 2890 | eutectic: liquid+hcp -> σ | hcp: Re 0.875; σ: Re 0.74; liq: Re 0.75 | model | [3] Mathieu 2013 | Table 2, p. 3, row 8 |  |
+| 2887 | peritectic: liquid+hcp -> σ | hcp: Re 0.855; σ: Re 0.716; liq: Re 0.71 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 7 |  |
+| 2843 | peritectic: Liquid + (Re) = σ | (Re): Re 0.9; σ: Re 0.62 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 6 |  |
+| 2843 | peritectic: liquid+hcp -> σ | hcp: Re 0.87; σ: Re 0.6 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 3 |  |
+| 2799 | eutectic: Liquid ⇔ bcc + σ | L: Re 0.45; bcc: Re 0.43; σ: Re 0.54 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 2 |  |
+| 2799 | eutectic: liquid -> σ+bcc | σ: Re 0.54; bcc: Re 0.43; liq: Re 0.45 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 13 |  |
 | 2799 | Liquid -> bcc + σ | Liquid: Re 0.45; σ: Re 0.54; BCC: Re 0.43 | model | [5] Yen 2020; _cites Mao 2007_ | Table VI, p. 39, row 3 |  |
 | 2799 | Liquid -> bcc + σ | Liquid: Re 0.45; bcc: Re 0.43; σ: Re 0.54 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 3 |  |
-| 2793 | Peritectic: liquid+hcp -> σ | hcp: Re 0.85; liq: Re 0.72 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 2 |  |
-| 2793 | Peritectic: Liquid + (Re) = σ | (Re): Re 0.85; σ: Re 0.72 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 5 |  |
-| 2786 | Eutectic: liquid -> σ+bcc | σ: Re 0.53; bcc: Re 0.42; liq: Re 0.44 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 14 |  |
+| 2793 | peritectic: liquid+hcp -> σ | hcp: Re 0.85; liq: Re 0.72 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 2 |  |
+| 2793 | peritectic: Liquid + (Re) = σ | (Re): Re 0.85; σ: Re 0.72 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 5 |  |
+| 2786 | eutectic: liquid -> σ+bcc | σ: Re 0.53; bcc: Re 0.42; liq: Re 0.44 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 14 |  |
 | 2786 | Liquid -> bcc + σ | Liquid: Re 0.44; bcc: Re 0.42; σ: Re 0.53 | model | [4] Yang 2010 | Table 1, p. 2, row 4 |  |
 | 2786 | Liquid -> bcc + σ | Liquid: Re 0.44; σ: Re 0.53; BCC: Re 0.42 | DFT | [5] Yen 2020; _cites Yang 2009_ | Table VI, p. 39, row 4 |  |
-| 2778 | Eutectics: Liquid + (Mo) + σ | Liquid: Re 0.489 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 3 |  |
-| 2778 | Eutectic: Liquid ⇔ bcc + σ | L: Re 0.49; bcc: Re 0.425; σ: Re 0.53 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 1 |  |
+| 2778 | eutectic: Liquid + (Mo) + σ | Liquid: Re 0.489 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 3 |  |
+| 2778 | eutectic: Liquid ⇔ bcc + σ | L: Re 0.49; bcc: Re 0.425; σ: Re 0.53 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 1 |  |
 | 2778 | Liquid -> bcc + σ | bcc: Re 0.43; σ: Re 0.52 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 1 |  |
 | 2778 | Liquid -> bcc + σ | σ: Re 0.52; BCC: Re 0.43 | experimental | [5] Yen 2020; _cites Savitskii 1959_ | Table VI, p. 39, row 1 |  |
-| 2778 | Eutectic: liquid -> σ+bcc | σ: Re 0.53; bcc: Re 0.425; liq: Re 0.49 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 10 |  |
-| 2777 | Eutectic: liquid -> σ+bcc | σ: Re 0.502; bcc: Re 0.408; liq: Re 0.442 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 15 |  |
-| 2773 | Peritectic: liquid+σ -> bcc | σ: Re 0.49 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 9 |  |
+| 2778 | eutectic: liquid -> σ+bcc | σ: Re 0.53; bcc: Re 0.425; liq: Re 0.49 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 10 |  |
+| 2777 | eutectic: liquid -> σ+bcc | σ: Re 0.502; bcc: Re 0.408; liq: Re 0.442 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 15 |  |
+| 2773 | peritectic: liquid+σ -> bcc | σ: Re 0.49 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 9 |  |
 | 2755 | Liquid -> bcc + σ | Liquid: Re 0.42; σ: Re 0.558; BCC: Re 0.411 | model | [5] Yen 2020 | Table VI, p. 39, row 6 |  |
 | 2745 | Liquid -> bcc + σ | Liquid: Re 0.46; σ: Re 0.54; BCC: Re 0.41 | experimental | [5] Yen 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9787-4) | Table VI, p. 39, row 2 |  |
 | 2745 | Liquid -> bcc + σ | Liquid: Re 0.46; bcc: Re 0.41; σ: Re 0.54 | model | [4] Yang 2010; _cites Mao 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.060) | Table 1, p. 2, row 2 |  |
-| 2745 | Eutectics: Liquid + (Mo) + σ | (Mo): Re 0.41; σ: Re 0.54; Liquid: Re 0.46 | model | [1] Mao 2008 | Table 1, p. 2, row 4 |  |
-| 2745 | Eutectic: liquid -> σ+bcc | σ: Re 0.54; bcc: Re 0.41; liq: Re 0.46 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 12 |  |
-| 2737 | Eutectic: liquid -> σ+bcc | σ: Re 0.531; bcc: Re 0.38; liq: Re 0.383 | model | [3] Mathieu 2013 | Table 2, p. 3, row 16 |  |
+| 2745 | eutectic: Liquid + (Mo) + σ | (Mo): Re 0.41; σ: Re 0.54; Liquid: Re 0.46 | model | [1] Mao 2008 | Table 1, p. 2, row 4 |  |
+| 2745 | eutectic: liquid -> σ+bcc | σ: Re 0.54; bcc: Re 0.41; liq: Re 0.46 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 12 |  |
+| 2737 | eutectic: liquid -> σ+bcc | σ: Re 0.531; bcc: Re 0.38; liq: Re 0.383 | model | [3] Mathieu 2013 | Table 2, p. 3, row 16 |  |
 | 2737 | Liquid -> bcc + σ | Liquid: Re 0.383; σ: Re 0.531; BCC: Re 0.38 | model | [5] Yen 2020; _cites Mathieu 2013_ | Table VI, p. 39, row 5 |  |
 | 2713 | eutectic |  | model | [3] Mathieu 2013 | p. 11 | “The eutectic reaction at 2713 K shows slightly less agreement.” |
-| 2713 | Eutectics: Liquid + (Mo) + σ | (Mo): Re 0.43; Liquid: Re 0.5 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 2 |  |
-| 2713 | Eutectic: liquid -> σ+bcc | bcc: Re 0.43; liq: Re 0.5 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 11 |  |
-| 2353 | Peritectoid: σ + (Re) = χ | χ: Re 0.75 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 11 |  |
-| 2348 | Peritectoid: σ + hcp ⇔ χ | σ: Re 0.7; χ: Re 0.76 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 7 |  |
-| 2348 | Perictectoid: σ+hcp -> χ | σ: Re 0.7; χ: Re 0.76 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 17 |  |
-| 2343 | Peritectoid: σ + hcp ⇔ χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.77 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 8 |  |
+| 2713 | eutectic: Liquid + (Mo) + σ | (Mo): Re 0.43; Liquid: Re 0.5 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 2 |  |
+| 2713 | eutectic: liquid -> σ+bcc | bcc: Re 0.43; liq: Re 0.5 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 11 |  |
+| 2353 | peritectoid: σ + (Re) = χ | χ: Re 0.75 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 11 |  |
+| 2348 | peritectoid: σ + hcp ⇔ χ | σ: Re 0.7; χ: Re 0.76 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 7 |  |
+| 2348 | peritectoid: σ+hcp -> χ | σ: Re 0.7; χ: Re 0.76 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 17 |  |
+| 2343 | peritectoid: σ + hcp ⇔ χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.77 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 8 |  |
 | 2343 | σ + hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.77 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 11 |  |
-| 2343 | Perictectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.77 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 21 |  |
+| 2343 | peritectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.77 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 21 |  |
 | 2273 | σ + hcp -> χ | χ: Re 0.76 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 9 |  |
-| 2269 | Perictectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.92; χ: Re 0.77 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 22 |  |
+| 2269 | peritectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.92; χ: Re 0.77 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 22 |  |
 | 2269 | σ + hcp -> χ | σ: Re 0.7; hcp: Re 0.92; χ: Re 0.77 | model | [4] Yang 2010 | Table 1, p. 2, row 12 |  |
-| 2225 | Perictectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.78 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 20 |  |
-| 2186 | Perictectoid: σ+hcp -> χ | σ: Re 0.693; hcp: Re 0.884; χ: Re 0.767 | model | [3] Mathieu 2013 | Table 2, p. 3, row 24 |  |
-| 2129 | Peritectoid: σ + (Re) = χ | σ: Re 0.7; (Re): Re 0.89; χ: Re 0.78 | model | [1] Mao 2008 | Table 1, p. 2, row 12 |  |
-| 2129 | Perictectoid: σ+hcp -> χ | σ: Re 0.693; hcp: Re 0.913; χ: Re 0.774 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 23 |  |
+| 2225 | peritectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.78 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 20 |  |
+| 2186 | peritectoid: σ+hcp -> χ | σ: Re 0.693; hcp: Re 0.884; χ: Re 0.767 | model | [3] Mathieu 2013 | Table 2, p. 3, row 24 |  |
+| 2129 | peritectoid: σ + (Re) = χ | σ: Re 0.7; (Re): Re 0.89; χ: Re 0.78 | model | [1] Mao 2008 | Table 1, p. 2, row 12 |  |
+| 2129 | peritectoid: σ+hcp -> χ | σ: Re 0.693; hcp: Re 0.913; χ: Re 0.774 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 23 |  |
 | 2129 | σ + hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.78 | model | [4] Yang 2010; _cites Mao 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.060) | Table 1, p. 2, row 10 |  |
-| 2123 | Peritectoid: σ + (Re) = χ | χ: Re 0.78 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 10 |  |
-| 2123 | Perictectoid: σ+hcp -> χ | σ: Re 0.67; hcp: Re 0.91; χ: Re 0.78 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 19 |  |
-| 2073 | Peritectoid: σ + (Re) = χ | χ: Re 0.765 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 9 |  |
-| 2073 | Perictectoid: σ+hcp -> χ | hcp: Re 0.91 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 18 |  |
+| 2123 | peritectoid: σ + (Re) = χ | χ: Re 0.78 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 10 |  |
+| 2123 | peritectoid: σ+hcp -> χ | σ: Re 0.67; hcp: Re 0.91; χ: Re 0.78 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 19 |  |
+| 2073 | peritectoid: σ + (Re) = χ | χ: Re 0.765 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 9 |  |
+| 2073 | peritectoid: σ+hcp -> χ | hcp: Re 0.91 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 18 |  |
 | 1773 | eutectic |  | experimental | [3] Mathieu 2013 | p. 2 | “Thenceforward, the peritectic reaction of Savitskii et al. at 1773 K is to be considered as an eutectic.” |
 | 1398 | σ -> bcc + χ | χ: Re 0.76 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 13 |  |
-| 1398 | Eutectoid: σ -> bcc+χ | σ: Re 0.57; bcc: Re 0.29; χ: Re 0.76 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 25 |  |
-| 1398 | Eutectoid: σ ⇔ bcc + χ | bcc: Re 0.29; χ: Re 0.77 | experimental | [2] Farzadfar 2009; _cites Knapton 1958_ | Table 7, p. 7, row 9 |  |
-| 1384 | Eutectoid: σ -> bcc+χ | σ: Re 0.59; bcc: Re 0.3; χ: Re 0.75 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 28 |  |
+| 1398 | eutectoid: σ -> bcc+χ | σ: Re 0.57; bcc: Re 0.29; χ: Re 0.76 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 25 |  |
+| 1398 | eutectoid: σ ⇔ bcc + χ | bcc: Re 0.29; χ: Re 0.77 | experimental | [2] Farzadfar 2009; _cites Knapton 1958_ | Table 7, p. 7, row 9 |  |
+| 1384 | eutectoid: σ -> bcc+χ | σ: Re 0.59; bcc: Re 0.3; χ: Re 0.75 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 28 |  |
 | 1384 | σ -> bcc + χ | σ: Re 0.59; bcc: Re 0.3; χ: Re 0.75 | model | [4] Yang 2010 | Table 1, p. 2, row 16 |  |
-| 1375 | Eutectoid: σ + (Mo) + χ | σ: Re 0.57; (Mo): Re 0.29; χ: Re 0.76 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 14 |  |
+| 1375 | eutectoid: σ + (Mo) + χ | σ: Re 0.57; (Mo): Re 0.29; χ: Re 0.76 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 14 |  |
 | 1375 | σ -> bcc + χ | σ: Re 0.57; bcc: Re 0.29; χ: Re 0.76 | model | [4] Yang 2010; _cites Mao 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.060) | Table 1, p. 2, row 14 |  |
-| 1375 | Eutectoid: σ -> bcc+χ | σ: Re 0.57; bcc: Re 0.29; χ: Re 0.76 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 26 |  |
-| 1373 | Eutectoid: σ + (Mo) + χ |  | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 13 |  |
+| 1375 | eutectoid: σ -> bcc+χ | σ: Re 0.57; bcc: Re 0.29; χ: Re 0.76 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 26 |  |
+| 1373 | eutectoid: σ + (Mo) + χ |  | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 13 |  |
 | 1373 | eutectoid |  | experimental | [1] Mao 2008; _cites Knapton 1959_ | p. 2 | “Thus he assumed that the ␴ phase decomposed eutectoidally at temperatures between 1373 K (1100 ◦ C) and 1423 K (1150 ◦ C).” |
 | 1346 | σ -> bcc + χ | σ: Re 0.56; bcc: Re 0.29; χ: Re 0.74 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 15 |  |
-| 1346 | Eutectoid: σ -> bcc+χ | σ: Re 0.56; bcc: Re 0.29; χ: Re 0.74 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 27 |  |
-| 1346 | Eutectoid: σ ⇔ bcc + χ | σ: Re 0.56; bcc: Re 0.29; χ: Re 0.74 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 10 |  |
-| 1322 | Eutectoid: σ -> bcc+χ | σ: Re 0.574; bcc: Re 0.271; χ: Re 0.74 | model | [3] Mathieu 2013 | Table 2, p. 3, row 30 |  |
-| 1300 | Eutectoid: σ -> bcc+χ | σ: Re 0.575; bcc: Re 0.271; χ: Re 0.747 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 29 |  |
+| 1346 | eutectoid: σ -> bcc+χ | σ: Re 0.56; bcc: Re 0.29; χ: Re 0.74 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 27 |  |
+| 1346 | eutectoid: σ ⇔ bcc + χ | σ: Re 0.56; bcc: Re 0.29; χ: Re 0.74 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 10 |  |
+| 1322 | eutectoid: σ -> bcc+χ | σ: Re 0.574; bcc: Re 0.271; χ: Re 0.74 | model | [3] Mathieu 2013 | Table 2, p. 3, row 30 |  |
+| 1300 | eutectoid: σ -> bcc+χ | σ: Re 0.575; bcc: Re 0.271; χ: Re 0.747 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 29 |  |
 
 ## Formation enthalpies
 
@@ -306,7 +306,7 @@ Table: Phase transition, Mo–Re system
 | Phase transition | 1322 K | 1322 | other | model | [3] Mathieu 2013 | p. 11 | “Finally, the present work calculates a eutectoid reaction at 27.1 at.% Re and a temperature of 1322 K in close agreement with the 29 at.% Re reported by Knapton \[20\] and close to the lower value of temperature (1373 K) proposed by \[20\].” |
 | Phase transition | 1373 K | 1373 | other | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | p. 11 | “Finally, the present work calculates a eutectoid reaction at 27.1 at.% Re and a temperature of 1322 K in close agreement with the 29 at.% Re reported by Knapton \[20\] and close to the lower value of temperature (1373 K) proposed by \[20\].” |
 | Phase transition | 2098 K | 2098 | other | experimental | [2] Farzadfar 2009 | p. 4 | “The peritectoid temperature measured by Dickinson and Richardson (2353 K) is significantly higher than the one obtained by Knapton (2098 K), while the one represented by Savitskii et al. is only tentative.” |
-| Phase transition | 2123 K | 2123 (none) | ␴ + (Re) = ␹ | experimental | [1] Mao 2008; _cites Savitskii 1959_ | p. 2 | “They are ␴ + (Re) = ␹ at about 2123 K (1850 ◦ C), liquid + (Re) = ␴ at 2843 K (2570 ◦ C), liquid + ␴ = (Mo) at 2773 K (2500 ◦ C), as shown in Table 1.” |
+| Phase transition | 2123 K | 2123 | ␴ + (Re) = ␹ | experimental | [1] Mao 2008; _cites Savitskii 1959_ | p. 2 | “They are ␴ + (Re) = ␹ at about 2123 K (1850 ◦ C), liquid + (Re) = ␴ at 2843 K (2570 ◦ C), liquid + ␴ = (Mo) at 2773 K (2500 ◦ C), as shown in Table 1.” |
 | Phase transition | 2353 K | 2353 | other | experimental | [2] Farzadfar 2009 | p. 4 | “The peritectoid temperature measured by Dickinson and Richardson (2353 K) is significantly higher than the one obtained by Knapton (2098 K), while the one represented by Savitskii et al. is only tentative.” |
 | Phase transition | 2773 K | 2773 | liquid + ␴ = (Mo) | experimental | [1] Mao 2008; _cites Savitskii 1959_ | p. 2 | “They are ␴ + (Re) = ␹ at about 2123 K (1850 ◦ C), liquid + (Re) = ␴ at 2843 K (2570 ◦ C), liquid + ␴ = (Mo) at 2773 K (2500 ◦ C), as shown in Table 1.” |
 | Phase transition | 2843 K | 2843 | liquid + (Re) = ␴ | experimental | [1] Mao 2008; _cites Savitskii 1959_ | p. 2 | “They are ␴ + (Re) = ␹ at about 2123 K (1850 ◦ C), liquid + (Re) = ␴ at 2843 K (2570 ◦ C), liquid + ␴ = (Mo) at 2773 K (2500 ◦ C), as shown in Table 1.” |

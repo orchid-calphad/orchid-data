@@ -26,8 +26,8 @@ Table: Invariant reactions reported in the literature for the Ge–Ru–Si syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1775 | U: L + Ru4Si3 -> Ru(Ge, Si) + Ru2Si |  | model | [1] Long 2009 | Table 7, p. 6, row 2 |  |
-| 1740 | U: L + Ru2Si -> Ru(Ge, Si) + Hcp(Ru) |  | model | [1] Long 2009 | Table 7, p. 6, row 1 |  |
+| 1775 | quasi-peritectic: L + Ru4Si3 -> Ru(Ge, Si) + Ru2Si |  | model | [1] Long 2009 | Table 7, p. 6, row 2 |  |
+| 1740 | quasi-peritectic: L + Ru2Si -> Ru(Ge, Si) + Hcp(Ru) |  | model | [1] Long 2009 | Table 7, p. 6, row 1 |  |
 
 ## Sources
 

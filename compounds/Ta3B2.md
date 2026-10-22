@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ta3B2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.26 kJ/mol-atom | Ta3B2 | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Qi 2014_ | Table 1, p. 4, row 6 |  |
-| -13.5294 kJ/mol-atom | Ta3B2 | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 4 |  |
+| -71.3 kJ/mol-atom | Ta3B2 | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Qi 2014_ | Table 1, p. 4, row 6 |  |
+| -67.647 kJ/mol-atom | Ta3B2 | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 4 |  |
 
 ## DFT formation energies
 

@@ -61,22 +61,22 @@ Table: Invariant reactions reported in the literature for the Ga–Sc system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1710 | Congruent: L -> Sc5Ga3 | L: Ga 0.375, Sc 0.625; Sc5Ga3: Ga 0.375, Sc 0.625 | model | [1] Jun 2008 | Table 3, p. 3, row 12 |  |
-| 1703 | Congruent: L -> Sc5Ga3 | L: Ga 0.375, Sc 0.625; Sc5Ga3: Ga 0.375, Sc 0.625 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 11 |  |
-| 1509 | Peritectic: L + Sc5Ga3 -> Sc5Ga4 | L: Ga 0.48; Sc5Ga3: Ga 0.375, Sc 0.625; Sc5Ga4: Ga 0.444444, Sc 0.555556 | model | [1] Jun 2008 | Table 3, p. 3, row 6 |  |
-| 1503 | Peritectic: L + Sc5Ga3 -> Sc5Ga4 | Sc5Ga3: Ga 0.375, Sc 0.625; Sc5Ga4: Ga 0.444444, Sc 0.555556 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 5 |  |
-| 1422 | Congruent: L -> ScGa2 | L: Ga 0.666667, Sc 0.333333; ScGa2: Ga 0.666667, Sc 0.333333 | model | [1] Jun 2008 | Table 3, p. 3, row 14 |  |
-| 1413 | Congruent: L -> ScGa2 | L: Ga 0.666667, Sc 0.333333; ScGa2: Ga 0.666667, Sc 0.333333 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 13 |  |
-| 1372 | Peritectic: L + Sc5Ga4 -> ScGa | L: Ga 0.549; Sc5Ga4: Ga 0.444444, Sc 0.555556; ScGa: Ga 0.5, Sc 0.5 | model | [1] Jun 2008 | Table 3, p. 3, row 8 |  |
-| 1363 | Peritectic: L + Sc5Ga4 -> ScGa | Sc5Ga4: Ga 0.444444, Sc 0.555556; ScGa: Ga 0.5, Sc 0.5 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 7 |  |
-| 1343 | Eutectic: L -> ScGa + ScGa2 | L: Ga 0.57; ScGa: Ga 0.5, Sc 0.5; ScGa2: Ga 0.666667, Sc 0.333333 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 3 |  |
-| 1334 | Eutectic: L -> ScGa + ScGa2 | L: Ga 0.573; ScGa: Ga 0.5, Sc 0.5; ScGa2: Ga 0.666667, Sc 0.333333 | model | [1] Jun 2008 | Table 3, p. 3, row 4 |  |
-| 1333 | Eutectic: L -> hcp(Sc) + Sc5Ga3 | L: Ga 0.2; Sc5Ga3: Ga 0.375, Sc 0.625 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 1 |  |
-| 1332 | Eutectic: L -> hcp(Sc) + Sc5Ga3 | L: Ga 0.199; Sc5Ga3: Ga 0.375, Sc 0.625 | model | [1] Jun 2008 | Table 3, p. 3, row 2 |  |
-| 1303 | Peritectic: L + ScGa2 -> ScGa3 | L: Ga 0.777; ScGa2: Ga 0.666667, Sc 0.333333; ScGa3: Ga 0.75, Sc 0.25 | model | [1] Jun 2008 | Table 3, p. 3, row 10 |  |
-| 1303 | Peritectic: L + ScGa2 -> ScGa3 | ScGa2: Ga 0.666667, Sc 0.333333; ScGa3: Ga 0.75, Sc 0.25 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 9 |  |
-| 303 | Eutectic: L -> orth(Ga) + ScGa3 | ScGa3: Ga 0.75, Sc 0.25 | model | [1] Jun 2008 | Table 3, p. 3, row 16 |  |
-| 303 | Eutectic: L -> orth(Ga) + ScGa3 | L: Ga 0.01; ScGa3: Ga 0.75, Sc 0.25 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 15 |  |
+| 1710 | congruent melting: L -> Sc5Ga3 | L: Ga 0.375, Sc 0.625; Sc5Ga3: Ga 0.375, Sc 0.625 | model | [1] Jun 2008 | Table 3, p. 3, row 12 |  |
+| 1703 | congruent melting: L -> Sc5Ga3 | L: Ga 0.375, Sc 0.625; Sc5Ga3: Ga 0.375, Sc 0.625 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 11 |  |
+| 1509 | peritectic: L + Sc5Ga3 -> Sc5Ga4 | L: Ga 0.48; Sc5Ga3: Ga 0.375, Sc 0.625; Sc5Ga4: Ga 0.444444, Sc 0.555556 | model | [1] Jun 2008 | Table 3, p. 3, row 6 |  |
+| 1503 | peritectic: L + Sc5Ga3 -> Sc5Ga4 | Sc5Ga3: Ga 0.375, Sc 0.625; Sc5Ga4: Ga 0.444444, Sc 0.555556 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 5 |  |
+| 1422 | congruent melting: L -> ScGa2 | L: Ga 0.666667, Sc 0.333333; ScGa2: Ga 0.666667, Sc 0.333333 | model | [1] Jun 2008 | Table 3, p. 3, row 14 |  |
+| 1413 | congruent melting: L -> ScGa2 | L: Ga 0.666667, Sc 0.333333; ScGa2: Ga 0.666667, Sc 0.333333 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 13 |  |
+| 1372 | peritectic: L + Sc5Ga4 -> ScGa | L: Ga 0.549; Sc5Ga4: Ga 0.444444, Sc 0.555556; ScGa: Ga 0.5, Sc 0.5 | model | [1] Jun 2008 | Table 3, p. 3, row 8 |  |
+| 1363 | peritectic: L + Sc5Ga4 -> ScGa | Sc5Ga4: Ga 0.444444, Sc 0.555556; ScGa: Ga 0.5, Sc 0.5 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 7 |  |
+| 1343 | eutectic: L -> ScGa + ScGa2 | L: Ga 0.57; ScGa: Ga 0.5, Sc 0.5; ScGa2: Ga 0.666667, Sc 0.333333 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 3 |  |
+| 1334 | eutectic: L -> ScGa + ScGa2 | L: Ga 0.573; ScGa: Ga 0.5, Sc 0.5; ScGa2: Ga 0.666667, Sc 0.333333 | model | [1] Jun 2008 | Table 3, p. 3, row 4 |  |
+| 1333 | eutectic: L -> hcp(Sc) + Sc5Ga3 | L: Ga 0.2; Sc5Ga3: Ga 0.375, Sc 0.625 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 1 |  |
+| 1332 | eutectic: L -> hcp(Sc) + Sc5Ga3 | L: Ga 0.199; Sc5Ga3: Ga 0.375, Sc 0.625 | model | [1] Jun 2008 | Table 3, p. 3, row 2 |  |
+| 1303 | peritectic: L + ScGa2 -> ScGa3 | L: Ga 0.777; ScGa2: Ga 0.666667, Sc 0.333333; ScGa3: Ga 0.75, Sc 0.25 | model | [1] Jun 2008 | Table 3, p. 3, row 10 |  |
+| 1303 | peritectic: L + ScGa2 -> ScGa3 | ScGa2: Ga 0.666667, Sc 0.333333; ScGa3: Ga 0.75, Sc 0.25 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 9 |  |
+| 303 | eutectic: L -> orth(Ga) + ScGa3 | ScGa3: Ga 0.75, Sc 0.25 | model | [1] Jun 2008 | Table 3, p. 3, row 16 |  |
+| 303 | eutectic: L -> orth(Ga) + ScGa3 | L: Ga 0.01; ScGa3: Ga 0.75, Sc 0.25 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 3, p. 3, row 15 |  |
 
 ## Other properties
 
@@ -88,11 +88,11 @@ Table: Phase transition, Ga–Sc system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1303 K | 1303 | ScGa3 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | p. 1 | “Among them, Sc5 Ga4 , ScGa and ScGa3 decompose at 1503, 1363 and 1303 K, respectively.” |
 | Phase transition | 1363 K | 1363 | ScGa | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | p. 1 | “Among them, Sc5 Ga4 , ScGa and ScGa3 decompose at 1503, 1363 and 1303 K, respectively.” |
-| Phase transition | 1413 K | 1413 | congruent | experimental | [1] Jun 2008 | p. 1 | “Sc5 Ga3 and ScGa2 melt congruently at 1703 and 1413 K.” |
-| Phase transition | 1422 K | 1422 | congruent | model | [1] Jun 2008 | p. 4 | “The calculated congruent-melting points of the Sc5 Ga3 and ScGa2 phases are 1710 and 1422 K, respectively, which fit well with the work of Yatsenko et al. \[21\].” |
+| Phase transition | 1413 K | 1413 | congruent transformation | experimental | [1] Jun 2008 | p. 1 | “Sc5 Ga3 and ScGa2 melt congruently at 1703 and 1413 K.” |
+| Phase transition | 1422 K | 1422 | congruent transformation | model | [1] Jun 2008 | p. 4 | “The calculated congruent-melting points of the Sc5 Ga3 and ScGa2 phases are 1710 and 1422 K, respectively, which fit well with the work of Yatsenko et al. \[21\].” |
 | Phase transition | 1503 K | 1503 | Sc5Ga4 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | p. 1 | “Among them, Sc5 Ga4 , ScGa and ScGa3 decompose at 1503, 1363 and 1303 K, respectively.” |
-| Phase transition | 1703 K | 1703 | congruent | experimental | [1] Jun 2008 | p. 1 | “Sc5 Ga3 and ScGa2 melt congruently at 1703 and 1413 K.” |
-| Phase transition | 1710 K | 1710 | congruent | model | [1] Jun 2008 | p. 4 | “The calculated congruent-melting points of the Sc5 Ga3 and ScGa2 phases are 1710 and 1422 K, respectively, which fit well with the work of Yatsenko et al. \[21\].” |
+| Phase transition | 1703 K | 1703 | congruent transformation | experimental | [1] Jun 2008 | p. 1 | “Sc5 Ga3 and ScGa2 melt congruently at 1703 and 1413 K.” |
+| Phase transition | 1710 K | 1710 | congruent transformation | model | [1] Jun 2008 | p. 4 | “The calculated congruent-melting points of the Sc5 Ga3 and ScGa2 phases are 1710 and 1422 K, respectively, which fit well with the work of Yatsenko et al. \[21\].” |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ag–Ru system
 
-> Ag–Ru system: 7 accepted literature values (crystal structure 6, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ru system: 4 accepted literature values (crystal structure 3, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-RU.html · Markdown: https://data.orchid-project.org/systems/AG-RU.md
 
-7 accepted literature values from 1 paper(s) (experimental 1, unspecified 6); 2 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 1, unspecified 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-RU.json) · [CSV](https://data.orchid-project.org/systems/AG-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-RU/AgRu-86Kar.json) · [Markdown](https://data.orchid-project.org/systems/AG-RU.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| unspecified | 6 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 1 |
-| crystal structure | 6 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -55,7 +55,7 @@ Table: Invariant reactions reported in the literature for the Ag–Ru system (1)
 
 ## Other properties
 
-### Crystal structure (6)
+### Crystal structure (3)
 
 Table: Crystal structure, Ag–Ru system
 
@@ -64,9 +64,6 @@ Table: Crystal structure, Ag–Ru system
 | Lattice a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Ru 0_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 1 |  |
 | Lattice a | 0.27053 nm | 298.15 | Ru(s); _Ru(s): Ag 0, Ru 1_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 2 |  |
 | Lattice c | 0.42814 nm | 298.15 | Ru(s); _Ru(s): Ag 0, Ru 1_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 2 |  |
-| lattice lattice parameter a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Ru 0_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 1 |  |
-| lattice lattice parameter a | 0.27053 nm | 298.15 | Ru(s); _Ru(s): Ag 0, Ru 1_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 2 |  |
-| lattice lattice parameter c | 0.42814 nm | 298.15 | Ru(s); _Ru(s): Ag 0, Ru 1_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 2 |  |
 
 ## Sources
 

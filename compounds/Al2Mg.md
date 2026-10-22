@@ -1,24 +1,21 @@
 # Al2Mg: enthalpy of formation
 
-> Enthalpy of formation of Al2Mg: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Al2Mg: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al2Mg.html · Markdown: https://data.orchid-project.org/compounds/Al2Mg.md
 
-6 accepted literature formation-enthalpy value(s) (DFT 6).
+3 accepted literature formation-enthalpy value(s) (DFT 3).
 
 Systems: [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al2Mg reported in the literature (6)
+Table: Enthalpy of formation of Al2Mg reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -2.802 kJ/mol-atom | Al2Mg-C36 | 0 | DFT | first-principles calculations | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html) | [1] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| -2.802 kJ/mol-atom | Al2Mg-C36 | 0 | DFT | first-principles calculations | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html) | [1] Zhong 2005 | Table 3, p. 4, row 4 |  |
 | -2.713 kJ/mol-atom | Al2Mg-C14 | 0 | DFT | first-principles calculations | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html) | [1] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| -2.713 kJ/mol-atom | Al2Mg-C14 | 0 | DFT | first-principles calculations | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html) | [1] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| -2.301 kJ/mol-atom | Al2Mg-C15 | 0 | DFT | first-principles calculations | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html) | [1] Zhong 2005 | Table 3, p. 4, row 2 |  |
 | -2.301 kJ/mol-atom | Al2Mg-C15 | 0 | DFT | first-principles calculations | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html) | [1] Zhong 2005 | Table 3, p. 4, row 2 |  |
 
 ## Sources

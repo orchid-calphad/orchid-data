@@ -1,10 +1,10 @@
 # Ce–Cu–Sn system
 
-> Ce–Cu–Sn system: 250 accepted literature values (crystal structure 162, invariant reaction 51, formation 29, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Cu–Sn system: 235 accepted literature values (crystal structure 161, invariant reaction 51, formation 15, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-CU-SN.html · Markdown: https://data.orchid-project.org/systems/CE-CU-SN.md
 
-250 accepted literature values from 1 paper(s) (experimental 12, model 126, DFT 108, unspecified 4); 0 calculated phase diagram(s).
+235 accepted literature values from 1 paper(s) (experimental 12, model 125, DFT 94, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-CU-SN.json) · [CSV](https://data.orchid-project.org/systems/CE-CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-CU-SN) · [Markdown](https://data.orchid-project.org/systems/CE-CU-SN.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 126 |
-| DFT | 108 |
+| model | 125 |
+| DFT | 94 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 51 |
 | phase transition | 8 |
-| formation | 29 |
-| crystal structure | 162 |
+| formation | 15 |
+| crystal structure | 161 |
 
 ## Invariant reactions (literature)
 
@@ -32,94 +32,80 @@ Table: Invariant reactions reported in the literature for the Ce–Cu–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1518.15 | U: Liquid+τ4=τ5+Ce11Sn10 |  | model | [1] Li 2013 | Table 4, p. 7, row 2 |  |
-| 1476.15 | U: Liquid+τ4=τ2+Ce5Sn4 |  | model | [1] Li 2013 | Table 4, p. 7, row 3 |  |
-| 1440.15 | E: Liquid=Ce3Sn5+Ce11Sn10+τ5 |  | model | [1] Li 2013 | Table 4, p. 7, row 4 |  |
-| 1412.15 | U: Liquid+τ4=τ8+τ2 |  | model | [1] Li 2013 | Table 4, p. 7, row 5 |  |
-| 1410.15 | U: Liquid+Ce11Sn10=Ce5Sn4+τ4 |  | model | [1] Li 2013 | Table 4, p. 7, row 1 |  |
-| 1408.15 | U: Liquid+CeSn3=τ5+Ce2Sn5 |  | model | [1] Li 2013 | Table 4, p. 7, row 6 |  |
-| 1405.15 | U: Liquid+Ce2Sn5=Ce3Sn7+τ5 |  | model | [1] Li 2013 | Table 4, p. 7, row 7 |  |
-| 1404.15 | E: Liquid=Ce3Sn7+Ce5Sn3+τ5 |  | model | [1] Li 2013 | Table 4, p. 7, row 8 |  |
-| 1403.15 | P: Liquid+τ4+τ5=τ6 |  | model | [1] Li 2013 | Table 4, p. 7, row 9 |  |
-| 1402.15 | U: Liquid+τ4=τ6+τ8 |  | model | [1] Li 2013 | Table 4, p. 7, row 10 |  |
-| 1251.15 | U: Liquid+Ce5Sn4=τ2+Ce5Sn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 11 |  |
-| 1238.15 | P: Liquid+Ce5Sn3+τ2=τ1 |  | model | [1] Li 2013 | Table 4, p. 7, row 12 |  |
-| 1184.15 | P: Liquid+τ2+τ8=τ9 |  | model | [1] Li 2013 | Table 4, p. 7, row 13 |  |
-| 1151.15 | U: Liquid+τ2=τ9+CeCu6 |  | model | [1] Li 2013 | Table 4, p. 7, row 14 |  |
-| 1149.15 | U: Liquid+τ8=τ9+Fcc_A1 |  | model | [1] Li 2013 | Table 4, p. 7, row 15 |  |
-| 1123.15 | E: Liquid=Fcc_A1+CeCu6+τ9 |  | model | [1] Li 2013 | Table 4, p. 7, row 16 |  |
-| 1071.15 | U: Liquid+Fcc_A1=τ8+Bcc_A2 |  | model | [1] Li 2013 | Table 4, p. 7, row 17 |  |
-| 1057.15 | U: Liquid+CeCu6=τ2+CeCu5 |  | model | [1] Li 2013 | Table 4, p. 7, row 18 |  |
-| 1055.15 | U: Liquid+Cu5Ce=τ2+Cu4Ce | L: Ce 0.25, Cu 0.74; Liquid: Ce 0.25, Cu 0.74 | model | [1] Li 2013 | Table 5, p. 7, row 1 |  |
-| 1054.15 | U: Liquid+τ2=Cu2Ce+τ1 | L: Ce 0.38, Cu 0.59; Liquid: Ce 0.38, Cu 0.59 | model | [1] Li 2013 | Table 5, p. 7, row 3 |  |
-| 1053.15 | U: Liquid+Cu5Ce=τ2+Cu4Ce | L: Ce 0.23, Cu 0.75; Liquid: Ce 0.23, Cu 0.75 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 2 |  |
-| 1048.15 | U: Liquid+τ2=Cu2Ce+τ1 | L: Ce 0.41, Cu 0.56; Liquid: Ce 0.41, Cu 0.56 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 4 |  |
-| 1036.15 | U: Liquid+τ1=Cu2Ce+Ce5Sn3 | L: Ce 0.42, Cu 0.55; Liquid: Ce 0.42, Cu 0.55 | model | [1] Li 2013 | Table 5, p. 7, row 5 |  |
-| 1034.15 | E: Liquid=τ2+Cu2Ce+Cu4Ce | L: Ce 0.27, Cu 0.72; Liquid: Ce 0.27, Cu 0.72 | model | [1] Li 2013 | Table 5, p. 7, row 7 |  |
-| 1033.15 | U: Liquid+τ1=Cu2Ce+Ce5Sn3 | L: Ce 0.425, Cu 0.545; Liquid: Ce 0.425, Cu 0.545 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 6 |  |
-| 1013.15 | E: Liquid=τ2+Cu2Ce+Cu4Ce | L: Ce 0.25, Cu 0.73; Liquid: Ce 0.25, Cu 0.73 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 8 |  |
-| 972.15 | U: Liquid+Bcc_A2=CeSn3+Fcc_A1 | L: Ce 0.91, Cu 0.05; Liquid: Ce 0.91, Cu 0.05 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 10 |  |
-| 957.15 | U: Liquid+Bcc_A2=CeSn3+Fcc_A1 | L: Ce 0.9, Cu 0.06; Liquid: Ce 0.9, Cu 0.06 | model | [1] Li 2013 | Table 5, p. 7, row 9 |  |
-| 837 | U: Liquid+Cu3Sn=τ6+DO3 |  | model | [1] Li 2013 | Table 4, p. 7, row 26 |  |
-| 803.15 | U: Liquid+Ce5Sn3=Cu2Ce+Ce3Sn | L: Ce 0.56, Cu 0.42; Liquid: Ce 0.56, Cu 0.42 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 12 |  |
-| 783.15 | U: Liquid+Cu2Ce=Ce3Sn+CuCe | L: Ce 0.595, Cu 0.395; Liquid: Ce 0.595, Cu 0.395 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 14 |  |
-| 782 | U: Liquid+CeCu5=CeCu4+τ2 |  | model | [1] Li 2013 | Table 4, p. 7, row 19 |  |
-| 781 | U: Liquid+τ2=τ1+CeCu2 |  | model | [1] Li 2013 | Table 4, p. 7, row 20 |  |
-| 771.15 | U: Liquid+Ce5Sn3=Cu2Ce+Ce3Sn | L: Ce 0.61, Cu 0.36; Liquid: Ce 0.61, Cu 0.36 | model | [1] Li 2013 | Table 5, p. 7, row 11 |  |
-| 765.15 | U: Liquid+Cu2Ce=Ce3Sn+CuCe | L: Ce 0.61, Cu 0.36; Liquid: Ce 0.61, Cu 0.36 | model | [1] Li 2013 | Table 5, p. 7, row 13 |  |
-| 763 | U: Liquid+τ1=CeCu2+Ce5Sn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 21 |  |
-| 761 | E: Liquid=τ2+Cu2Ce+Cu4Ce |  | model | [1] Li 2013 | Table 4, p. 7, row 22 |  |
-| 755 | U: Liquid+Bcc_A2=τ8+DO3 |  | model | [1] Li 2013 | Table 4, p. 7, row 23 |  |
-| 737 | U: Liquid+τ8=τ6+DO3 |  | model | [1] Li 2013 | Table 4, p. 7, row 24 |  |
-| 693.15 | E: Liquid=Ce3Sn+CuCe+Fcc_A1 | L: Ce 0.71, Cu 0.275; Liquid: Ce 0.71, Cu 0.275 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 16 |  |
-| 687.15 | E: Liquid=Ce3Sn+CuCe+Fcc_A1 | L: Ce 0.74, Cu 0.23; Liquid: Ce 0.74, Cu 0.23 | model | [1] Li 2013 | Table 5, p. 7, row 15 |  |
-| 684 | U: Liquid+Bcc_A2=CeSn3+Fcc_A1 |  | model | [1] Li 2013 | Table 4, p. 7, row 25 |  |
-| 564 | U: Liquid+τ5=τ6+CeSn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 27 |  |
-| 557 | U: Liquid+τ7=τ6+Cu3Sn |  | model | [1] Li 2013 | Table 4, p. 7, row 28 |  |
-| 497 | U: Liquid+Ce5Sn3=CeCu2+Ce3Sn |  | model | [1] Li 2013 | Table 4, p. 7, row 29 |  |
-| 492 | U: Liquid+CeCu2=CeCu+CeSn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 30 |  |
-| 487 | U: Liquid+τ6=τ7+CeSn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 31 |  |
-| 415 | U: Liquid+Cu3Sn=τ7+HCu6Sn5 |  | model | [1] Li 2013 | Table 4, p. 7, row 32 |  |
-| 414 | E: Liquid=Ce3Sn+CeCu+Fcc_A1 |  | model | [1] Li 2013 | Table 4, p. 7, row 33 |  |
-| 228 | U: Liquid+CeSn3=Bct_A5+τ7 |  | model | [1] Li 2013 | Table 4, p. 7, row 34 |  |
-| 227 | E: Liquid=Bct_A5+HCu6Sn5+τ7 |  | model | [1] Li 2013 | Table 4, p. 7, row 35 |  |
+| 1518.15 | quasi-peritectic: Liquid+τ4=τ5+Ce11Sn10 |  | model | [1] Li 2013 | Table 4, p. 7, row 2 |  |
+| 1476.15 | quasi-peritectic: Liquid+τ4=τ2+Ce5Sn4 |  | model | [1] Li 2013 | Table 4, p. 7, row 3 |  |
+| 1440.15 | eutectic: Liquid=Ce3Sn5+Ce11Sn10+τ5 |  | model | [1] Li 2013 | Table 4, p. 7, row 4 |  |
+| 1412.15 | quasi-peritectic: Liquid+τ4=τ8+τ2 |  | model | [1] Li 2013 | Table 4, p. 7, row 5 |  |
+| 1410.15 | quasi-peritectic: Liquid+Ce11Sn10=Ce5Sn4+τ4 |  | model | [1] Li 2013 | Table 4, p. 7, row 1 |  |
+| 1408.15 | quasi-peritectic: Liquid+CeSn3=τ5+Ce2Sn5 |  | model | [1] Li 2013 | Table 4, p. 7, row 6 |  |
+| 1405.15 | quasi-peritectic: Liquid+Ce2Sn5=Ce3Sn7+τ5 |  | model | [1] Li 2013 | Table 4, p. 7, row 7 |  |
+| 1404.15 | eutectic: Liquid=Ce3Sn7+Ce5Sn3+τ5 |  | model | [1] Li 2013 | Table 4, p. 7, row 8 |  |
+| 1403.15 | peritectic: Liquid+τ4+τ5=τ6 |  | model | [1] Li 2013 | Table 4, p. 7, row 9 |  |
+| 1402.15 | quasi-peritectic: Liquid+τ4=τ6+τ8 |  | model | [1] Li 2013 | Table 4, p. 7, row 10 |  |
+| 1251.15 | quasi-peritectic: Liquid+Ce5Sn4=τ2+Ce5Sn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 11 |  |
+| 1238.15 | peritectic: Liquid+Ce5Sn3+τ2=τ1 |  | model | [1] Li 2013 | Table 4, p. 7, row 12 |  |
+| 1184.15 | peritectic: Liquid+τ2+τ8=τ9 |  | model | [1] Li 2013 | Table 4, p. 7, row 13 |  |
+| 1151.15 | quasi-peritectic: Liquid+τ2=τ9+CeCu6 |  | model | [1] Li 2013 | Table 4, p. 7, row 14 |  |
+| 1149.15 | quasi-peritectic: Liquid+τ8=τ9+Fcc_A1 |  | model | [1] Li 2013 | Table 4, p. 7, row 15 |  |
+| 1123.15 | eutectic: Liquid=Fcc_A1+CeCu6+τ9 |  | model | [1] Li 2013 | Table 4, p. 7, row 16 |  |
+| 1071.15 | quasi-peritectic: Liquid+Fcc_A1=τ8+Bcc_A2 |  | model | [1] Li 2013 | Table 4, p. 7, row 17 |  |
+| 1057.15 | quasi-peritectic: Liquid+CeCu6=τ2+CeCu5 |  | model | [1] Li 2013 | Table 4, p. 7, row 18 |  |
+| 1055.15 | quasi-peritectic: Liquid+Cu5Ce=τ2+Cu4Ce | L: Ce 0.25, Cu 0.74; Liquid: Ce 0.25, Cu 0.74 | model | [1] Li 2013 | Table 5, p. 7, row 1 |  |
+| 1054.15 | quasi-peritectic: Liquid+τ2=Cu2Ce+τ1 | L: Ce 0.38, Cu 0.59; Liquid: Ce 0.38, Cu 0.59 | model | [1] Li 2013 | Table 5, p. 7, row 3 |  |
+| 1053.15 | quasi-peritectic: Liquid+Cu5Ce=τ2+Cu4Ce | L: Ce 0.23, Cu 0.75; Liquid: Ce 0.23, Cu 0.75 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 2 |  |
+| 1048.15 | quasi-peritectic: Liquid+τ2=Cu2Ce+τ1 | L: Ce 0.41, Cu 0.56; Liquid: Ce 0.41, Cu 0.56 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 4 |  |
+| 1036.15 | quasi-peritectic: Liquid+τ1=Cu2Ce+Ce5Sn3 | L: Ce 0.42, Cu 0.55; Liquid: Ce 0.42, Cu 0.55 | model | [1] Li 2013 | Table 5, p. 7, row 5 |  |
+| 1034.15 | eutectic: Liquid=τ2+Cu2Ce+Cu4Ce | L: Ce 0.27, Cu 0.72; Liquid: Ce 0.27, Cu 0.72 | model | [1] Li 2013 | Table 5, p. 7, row 7 |  |
+| 1033.15 | quasi-peritectic: Liquid+τ1=Cu2Ce+Ce5Sn3 | L: Ce 0.425, Cu 0.545; Liquid: Ce 0.425, Cu 0.545 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 6 |  |
+| 1013.15 | eutectic: Liquid=τ2+Cu2Ce+Cu4Ce | L: Ce 0.25, Cu 0.73; Liquid: Ce 0.25, Cu 0.73 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 8 |  |
+| 972.15 | quasi-peritectic: Liquid+Bcc_A2=CeSn3+Fcc_A1 | L: Ce 0.91, Cu 0.05; Liquid: Ce 0.91, Cu 0.05 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 10 |  |
+| 957.15 | quasi-peritectic: Liquid+Bcc_A2=CeSn3+Fcc_A1 | L: Ce 0.9, Cu 0.06; Liquid: Ce 0.9, Cu 0.06 | model | [1] Li 2013 | Table 5, p. 7, row 9 |  |
+| 837 | quasi-peritectic: Liquid+Cu3Sn=τ6+DO3 |  | model | [1] Li 2013 | Table 4, p. 7, row 26 |  |
+| 803.15 | quasi-peritectic: Liquid+Ce5Sn3=Cu2Ce+Ce3Sn | L: Ce 0.56, Cu 0.42; Liquid: Ce 0.56, Cu 0.42 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 12 |  |
+| 783.15 | quasi-peritectic: Liquid+Cu2Ce=Ce3Sn+CuCe | L: Ce 0.595, Cu 0.395; Liquid: Ce 0.595, Cu 0.395 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 14 |  |
+| 782 | quasi-peritectic: Liquid+CeCu5=CeCu4+τ2 |  | model | [1] Li 2013 | Table 4, p. 7, row 19 |  |
+| 781 | quasi-peritectic: Liquid+τ2=τ1+CeCu2 |  | model | [1] Li 2013 | Table 4, p. 7, row 20 |  |
+| 771.15 | quasi-peritectic: Liquid+Ce5Sn3=Cu2Ce+Ce3Sn | L: Ce 0.61, Cu 0.36; Liquid: Ce 0.61, Cu 0.36 | model | [1] Li 2013 | Table 5, p. 7, row 11 |  |
+| 765.15 | quasi-peritectic: Liquid+Cu2Ce=Ce3Sn+CuCe | L: Ce 0.61, Cu 0.36; Liquid: Ce 0.61, Cu 0.36 | model | [1] Li 2013 | Table 5, p. 7, row 13 |  |
+| 763 | quasi-peritectic: Liquid+τ1=CeCu2+Ce5Sn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 21 |  |
+| 761 | eutectic: Liquid=τ2+Cu2Ce+Cu4Ce |  | model | [1] Li 2013 | Table 4, p. 7, row 22 |  |
+| 755 | quasi-peritectic: Liquid+Bcc_A2=τ8+DO3 |  | model | [1] Li 2013 | Table 4, p. 7, row 23 |  |
+| 737 | quasi-peritectic: Liquid+τ8=τ6+DO3 |  | model | [1] Li 2013 | Table 4, p. 7, row 24 |  |
+| 693.15 | eutectic: Liquid=Ce3Sn+CuCe+Fcc_A1 | L: Ce 0.71, Cu 0.275; Liquid: Ce 0.71, Cu 0.275 | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 5, p. 7, row 16 |  |
+| 687.15 | eutectic: Liquid=Ce3Sn+CuCe+Fcc_A1 | L: Ce 0.74, Cu 0.23; Liquid: Ce 0.74, Cu 0.23 | model | [1] Li 2013 | Table 5, p. 7, row 15 |  |
+| 684 | quasi-peritectic: Liquid+Bcc_A2=CeSn3+Fcc_A1 |  | model | [1] Li 2013 | Table 4, p. 7, row 25 |  |
+| 564 | quasi-peritectic: Liquid+τ5=τ6+CeSn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 27 |  |
+| 557 | quasi-peritectic: Liquid+τ7=τ6+Cu3Sn |  | model | [1] Li 2013 | Table 4, p. 7, row 28 |  |
+| 497 | quasi-peritectic: Liquid+Ce5Sn3=CeCu2+Ce3Sn |  | model | [1] Li 2013 | Table 4, p. 7, row 29 |  |
+| 492 | quasi-peritectic: Liquid+CeCu2=CeCu+CeSn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 30 |  |
+| 487 | quasi-peritectic: Liquid+τ6=τ7+CeSn3 |  | model | [1] Li 2013 | Table 4, p. 7, row 31 |  |
+| 415 | quasi-peritectic: Liquid+Cu3Sn=τ7+HCu6Sn5 |  | model | [1] Li 2013 | Table 4, p. 7, row 32 |  |
+| 414 | eutectic: Liquid=Ce3Sn+CeCu+Fcc_A1 |  | model | [1] Li 2013 | Table 4, p. 7, row 33 |  |
+| 228 | quasi-peritectic: Liquid+CeSn3=Bct_A5+τ7 |  | model | [1] Li 2013 | Table 4, p. 7, row 34 |  |
+| 227 | eutectic: Liquid=Bct_A5+HCu6Sn5+τ7 |  | model | [1] Li 2013 | Table 4, p. 7, row 35 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ce–Cu–Sn system (29)
+Table: Enthalpies of formation, Ce–Cu–Sn system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ce11Sn10 |  | -83.97 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| Ce11Sn10 |  | -83.97 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| Ce2Sn5 |  | -71.73 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 14 |  |
 | Ce2Sn5 |  | -71.73 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 14 |  |
 | Ce3Sn |  | -49.526 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 2 |  |
-| Ce3Sn |  | -49.526 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 2 |  |
-| Ce3Sn5 |  | -79.746 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 10 |  |
 | Ce3Sn5 |  | -79.746 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 10 |  |
 | Ce3Sn7 |  | -73.449 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| Ce3Sn7 |  | -73.449 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| Ce5Sn3 |  | -73.794 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 4 |  |
 | Ce5Sn3 |  | -73.794 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 4 |  |
 | Ce5Sn4 |  | -83.048 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| Ce5Sn4 |  | -83.048 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| CeSn3 |  | -66.574 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 16 |  |
 | CeSn3 |  | -66.574 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 16 |  |
 | τ1—Ce5CuSn3 |  | -66.441 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 18 |  |
-| τ1—Ce5CuSn3 |  | -66.441 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 18 |  |
-| τ2—CeCuSn |  | -63.066 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 20 |  |
 | τ2—CeCuSn |  | -63.066 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 20 |  |
 | τ2—CeCuSn2 |  | -63.066 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 20 |  |
 | τ3—Ce3Cu4Sn4 |  | -58.915 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 22 |  |
-| τ3—Ce3Cu4Sn4 |  | -58.915 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 22 |  |
-| τ6—CeCu2Sn2 |  | -51.578 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 26 |  |
 | τ6—CeCu2Sn2 |  | -51.578 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 26 |  |
 | τ8—Ce2Cu9Sn3 |  | -26.662 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 29 |  |
-| τ8—Ce2Cu9Sn3 |  | -26.662 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 29 |  |
-| τ9—CeCu5Sn |  | -25.691 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 31 |  |
 | τ9—CeCu5Sn |  | -25.691 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 31 |  |
 
 ## Other properties
@@ -130,16 +116,16 @@ Table: Phase transition, Ce–Cu–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 965.15 K | 965.15 | liquidus: 1; _alloy: Ce 0.9, Cu 0.03, Sn 0.07_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 2 |  |
-| Phase transition | 978.15 K | 978.15 | liquidus: 1; _alloy: Ce 0.9, Cu 0.03, Sn 0.07_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 1 |  |
-| Phase transition | 1073.15 K | 1073.15 | liquidus: 2; _alloy: Cu 0.65_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 4 |  |
-| Phase transition | 1073.15 K | 1073.15 | liquidus: 2; _alloy: Cu 0.65_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 3 |  |
-| Phase transition | 1203.15 K | 1203.15 | liquidus: 3; _alloy: Ce 0.435, Cu 0.48, Sn 0.085_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 5 |  |
-| Phase transition | 1208.15 K | 1208.15 | liquidus: 3; _alloy: Ce 0.435, Cu 0.48, Sn 0.085_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 6 |  |
-| Phase transition | 1273.15 K | 1273.15 ({'op': '>', 'printed': '> 1000', 'value_K': 1273.15}) | liquidus: 4; _alloy: Ce 0.31, Cu 0.51, Sn 0.18_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 7 |  |
-| Phase transition | 1428.15 K | 1428.15 | liquidus: 4; _alloy: Ce 0.31, Cu 0.51, Sn 0.18_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 8 |  |
+| Phase transition | 965.15 K | 965.15 | other: 1; _alloy: Ce 0.9, Cu 0.03, Sn 0.07_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 2 |  |
+| Phase transition | 978.15 K | 978.15 | other: 1; _alloy: Ce 0.9, Cu 0.03, Sn 0.07_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 1 |  |
+| Phase transition | 1073.15 K | 1073.15 | other: 2; _alloy: Cu 0.65_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 4 |  |
+| Phase transition | 1073.15 K | 1073.15 | other: 2; _alloy: Cu 0.65_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 3 |  |
+| Phase transition | 1203.15 K | 1203.15 | other: 3; _alloy: Ce 0.435, Cu 0.48, Sn 0.085_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 5 |  |
+| Phase transition | 1208.15 K | 1208.15 | other: 3; _alloy: Ce 0.435, Cu 0.48, Sn 0.085_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 6 |  |
+| Phase transition | 1273.15 K | 1273.15 (>) | other: 4; _alloy: Ce 0.31, Cu 0.51, Sn 0.18_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 7 |  |
+| Phase transition | 1428.15 K | 1428.15 | other: 4; _alloy: Ce 0.31, Cu 0.51, Sn 0.18_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 8 |  |
 
-### Crystal structure (162)
+### Crystal structure (161)
 
 Table: Crystal structure, Ce–Cu–Sn system
 
@@ -169,7 +155,6 @@ Table: Crystal structure, Ce–Cu–Sn system
 | Lattice a; _printed: a_ | 4.624 Å | 0 | τ2—CeCuSn2 | DFT | [1] Li 2013 | Table 1, p. 3, row 20 |  |
 | Lattice a; _printed: a_ | 15.282 Å | 0 | τ3—Ce3Cu4Sn4 | DFT | [1] Li 2013 | Table 1, p. 3, row 22 |  |
 | Lattice a; _printed: a_ | 15.108 Å | 0 | τ3—Ce3Cu4Sn4 | model | [1] Li 2013; _cites Marazza 1996_ [doi](https://doi.org/10.1016/0966-9795%2895%2900026-7) | Table 1, p. 3, row 21 |  |
-| Lattice a; _printed: a_ | 4.5 Å | 0 | τ5—CeCu1−xSn2−y | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 24 |  |
 | Lattice a; _printed: a_ | 4.5 Å | 0 | τ5—CeCu1−xSn2−y | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 24 |  |
 | Lattice a; _printed: a_ | 4.453 Å | 0 | τ6—CeCu2Sn2 | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 25 |  |
 | Lattice a; _printed: a_ | 4.526 Å | 0 | τ6—CeCu2Sn2 | DFT | [1] Li 2013 | Table 1, p. 3, row 26 |  |

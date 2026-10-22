@@ -29,37 +29,37 @@ Table: Invariant reactions reported in the literature for the B–Fe–Pr system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1906 | max: liq. -> FeB + PrB6 | liq.: B 0.5051, Pr 3.000e-5 | model | [1] Chen 2020 | Table 5, p. 12, row 1 |  |
-| 1818 | U: liq. + PrB6 -> FeB + PrB4 | liq.: B 0.3927, Pr 0.0016 | model | [1] Chen 2020 | Table 5, p. 12, row 2 |  |
-| 1782 | E: liq. -> FeB + PrB6 + rhombo(B) | liq.: B 0.6331, Pr 0 | model | [1] Chen 2020 | Table 5, p. 12, row 3 |  |
-| 1679 | U: liq. + FeB -> PrB4 + Fe2B | liq.: B 0.3269, Pr 0.0036 | model | [1] Chen 2020 | Table 5, p. 12, row 4 |  |
-| 1527 | max: liq. + PrB4 -> Pr1.1Fe4B4 | liq.: B 0.2243, Pr 0.0745 | model | [1] Chen 2020 | Table 5, p. 12, row 5 |  |
-| 1526 | U: liq. + PrB4 -> Fe2B + Pr1.1Fe4B4 | liq.: B 0.228, Pr 0.061 | model | [1] Chen 2020 | Table 5, p. 12, row 6 |  |
-| 1423 | U: liq. + PrB4 -> Pr2B5 + Pr1.1Fe4B4 | liq.: B 0.147, Pr 0.3679 | model | [1] Chen 2020 | Table 5, p. 12, row 7 |  |
+| 1906 | other: liq. -> FeB + PrB6 | liq.: B 0.5051, Pr 3.000e-5 | model | [1] Chen 2020 | Table 5, p. 12, row 1 |  |
+| 1818 | quasi-peritectic: liq. + PrB6 -> FeB + PrB4 | liq.: B 0.3927, Pr 0.0016 | model | [1] Chen 2020 | Table 5, p. 12, row 2 |  |
+| 1782 | eutectic: liq. -> FeB + PrB6 + rhombo(B) | liq.: B 0.6331, Pr 0 | model | [1] Chen 2020 | Table 5, p. 12, row 3 |  |
+| 1679 | quasi-peritectic: liq. + FeB -> PrB4 + Fe2B | liq.: B 0.3269, Pr 0.0036 | model | [1] Chen 2020 | Table 5, p. 12, row 4 |  |
+| 1527 | other: liq. + PrB4 -> Pr1.1Fe4B4 | liq.: B 0.2243, Pr 0.0745 | model | [1] Chen 2020 | Table 5, p. 12, row 5 |  |
+| 1526 | quasi-peritectic: liq. + PrB4 -> Fe2B + Pr1.1Fe4B4 | liq.: B 0.228, Pr 0.061 | model | [1] Chen 2020 | Table 5, p. 12, row 6 |  |
+| 1423 | quasi-peritectic: liq. + PrB4 -> Pr2B5 + Pr1.1Fe4B4 | liq.: B 0.147, Pr 0.3679 | model | [1] Chen 2020 | Table 5, p. 12, row 7 |  |
 | 1418 | liq. + fcc(Fe) -> Pr2Fe14B |  | unspecified | [1] Chen 2020; _cites Tian 1987_ | Table 5, p. 12, row 10 |  |
-| 1418 | max: liq. + fcc(Fe) -> Pr2Fe14B | liq.: B 0.0963, Pr 0.1798 | model | [1] Chen 2020 | Table 5, p. 12, row 8 |  |
+| 1418 | other: liq. + fcc(Fe) -> Pr2Fe14B | liq.: B 0.0963, Pr 0.1798 | model | [1] Chen 2020 | Table 5, p. 12, row 8 |  |
 | 1418 | liq. + fcc(Fe) -> Pr2Fe14B |  | experimental | [1] Chen 2020 | Table 5, p. 12, row 9 |  |
 | 1398 | liq. + fcc(Fe) -> Pr2Fe14B |  | unspecified | [1] Chen 2020; _cites Neiva 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901356-x) | Table 5, p. 12, row 11 |  |
 | 1373 | liq. -> Pr2Fe14B + Pr1.1Fe4B4 |  | unspecified | [1] Chen 2020; _cites Tian 1987_ | Table 5, p. 12, row 14 |  |
 | 1369 | liq. -> Pr2Fe14B + Pr1.1Fe4B4 |  | experimental | [1] Chen 2020 | Table 5, p. 12, row 13 |  |
-| 1368 | max: liq. -> Pr2Fe14B + Pr1.1Fe4B4 | liq.: B 0.1524, Pr 0.1139 | model | [1] Chen 2020 | Table 5, p. 12, row 12 |  |
-| 1366 | U: liq. + Fe2B -> Pr1.1Fe4B4 + fcc(Fe) | liq.: B 0.1579, Pr 0.0703 | model | [1] Chen 2020 | Table 5, p. 12, row 16 |  |
+| 1368 | other: liq. -> Pr2Fe14B + Pr1.1Fe4B4 | liq.: B 0.1524, Pr 0.1139 | model | [1] Chen 2020 | Table 5, p. 12, row 12 |  |
+| 1366 | quasi-peritectic: liq. + Fe2B -> Pr1.1Fe4B4 + fcc(Fe) | liq.: B 0.1579, Pr 0.0703 | model | [1] Chen 2020 | Table 5, p. 12, row 16 |  |
 | 1363 | liq. -> Pr2Fe14B + Pr1.1Fe4B4 |  | unspecified | [1] Chen 2020; _cites Neiva 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901356-x) | Table 5, p. 12, row 15 |  |
-| 1362 | E: liq. -> fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 | liq.: B 0.1543, Pr 0.0815 | model | [1] Chen 2020 | Table 5, p. 12, row 17 |  |
+| 1362 | eutectic: liq. -> fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 | liq.: B 0.1543, Pr 0.0815 | model | [1] Chen 2020 | Table 5, p. 12, row 17 |  |
 | 1358 | liq. -> fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 |  | experimental | [1] Chen 2020 | Table 5, p. 12, row 18 |  |
 | 1358 | liq. + fcc(Fe) -> Pr2Fe14B + Pr2Fe17 |  | unspecified | [1] Chen 2020; _cites Tian 1987_ | Table 5, p. 12, row 20 |  |
 | 1355 | liq. + fcc(Fe) -> Pr2Fe14B + Pr2Fe17 |  | unspecified | [1] Chen 2020; _cites Neiva 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901356-x) | Table 5, p. 12, row 21 |  |
-| 1355 | U: liq. + fcc(Fe) -> Pr2Fe14B + Pr2Fe17 | liq.: B 0.0326, Pr 0.4014 | model | [1] Chen 2020 | Table 5, p. 12, row 19 |  |
-| 1240 | P: liq. + Pr1.1Fe4B4 + Pr2B5 -> Pr5Fe2B6 | liq.: B 0.0647, Pr 0.6533 | model | [1] Chen 2020 | Table 5, p. 12, row 22 |  |
-| 1068 | min: bcc(Pr) + Pr2B5 -> liq. + dhcp(Pr) | liq.: B 0.0095, Pr 0.9184 | model | [1] Chen 2020 | Table 5, p. 12, row 23 |  |
-| 1063 | U: liq. + Pr2B5 -> Pr5Fe2B6 + dhcp(Pr) | liq.: B 0.0095, Pr 0.9145 | model | [1] Chen 2020 | Table 5, p. 12, row 24 |  |
+| 1355 | quasi-peritectic: liq. + fcc(Fe) -> Pr2Fe14B + Pr2Fe17 | liq.: B 0.0326, Pr 0.4014 | model | [1] Chen 2020 | Table 5, p. 12, row 19 |  |
+| 1240 | peritectic: liq. + Pr1.1Fe4B4 + Pr2B5 -> Pr5Fe2B6 | liq.: B 0.0647, Pr 0.6533 | model | [1] Chen 2020 | Table 5, p. 12, row 22 |  |
+| 1068 | other: bcc(Pr) + Pr2B5 -> liq. + dhcp(Pr) | liq.: B 0.0095, Pr 0.9184 | model | [1] Chen 2020 | Table 5, p. 12, row 23 |  |
+| 1063 | quasi-peritectic: liq. + Pr2B5 -> Pr5Fe2B6 + dhcp(Pr) | liq.: B 0.0095, Pr 0.9145 | model | [1] Chen 2020 | Table 5, p. 12, row 24 |  |
 | 1013 | liq. + Pr5Fe2B6 -> Pr1.1Fe4B4 + dhcp(Pr) |  | unspecified | [1] Chen 2020; _cites Neiva 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901356-x) | Table 5, p. 12, row 26 |  |
-| 967 | U: liq. + Pr5Fe2B6 -> Pr1.1Fe4B4 + dhcp(Pr) | liq.: B 0.0066, Pr 0.8231 | model | [1] Chen 2020 | Table 5, p. 12, row 25 |  |
+| 967 | quasi-peritectic: liq. + Pr5Fe2B6 -> Pr1.1Fe4B4 + dhcp(Pr) | liq.: B 0.0066, Pr 0.8231 | model | [1] Chen 2020 | Table 5, p. 12, row 25 |  |
 | 963 | liq. + Pr1.1Fe4B4 -> Pr2Fe14B + dhcp(Pr) |  | unspecified | [1] Chen 2020; _cites Neiva 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901356-x) | Table 5, p. 12, row 28 |  |
-| 961 | U: liq. + Pr1.1Fe4B4 -> Pr2Fe14B + dhcp(Pr) | liq.: B 0.0063, Pr 0.8179 | model | [1] Chen 2020 | Table 5, p. 12, row 27 |  |
+| 961 | quasi-peritectic: liq. + Pr1.1Fe4B4 -> Pr2Fe14B + dhcp(Pr) | liq.: B 0.0063, Pr 0.8179 | model | [1] Chen 2020 | Table 5, p. 12, row 27 |  |
 | 949 | liq. -> Pr2Fe14B + dhcp(Pr) + Pr2Fe17 |  | unspecified | [1] Chen 2020; _cites Tian 1987_ | Table 5, p. 12, row 30 |  |
 | 943 | liq. -> Pr2Fe14B + dhcp(Pr) + Pr2Fe17 |  | unspecified | [1] Chen 2020; _cites Neiva 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901356-x) | Table 5, p. 12, row 31 |  |
-| 939 | E: liq. -> Pr2Fe14B + dhcp(Pr) + Pr2Fe17 | liq.: B 3.000e-4, Pr 0.8018 | model | [1] Chen 2020 | Table 5, p. 12, row 29 |  |
+| 939 | eutectic: liq. -> Pr2Fe14B + dhcp(Pr) + Pr2Fe17 | liq.: B 3.000e-4, Pr 0.8018 | model | [1] Chen 2020 | Table 5, p. 12, row 29 |  |
 
 ## Other properties
 

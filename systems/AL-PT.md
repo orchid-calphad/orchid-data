@@ -1,10 +1,10 @@
 # Al–Pt system
 
-> Al–Pt system: 79 accepted literature values (formation 32, crystal structure 24, invariant reaction 15, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Pt system: 77 accepted literature values (formation 31, crystal structure 23, invariant reaction 15, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-PT.html · Markdown: https://data.orchid-project.org/systems/AL-PT.md
 
-79 accepted literature values from 1 paper(s) (experimental 27, model 52); 2 calculated phase diagram(s).
+77 accepted literature values from 1 paper(s) (experimental 27, model 50); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PT.json) · [CSV](https://data.orchid-project.org/systems/AL-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PT/AlPt-00Wu.json) · [Markdown](https://data.orchid-project.org/systems/AL-PT.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 27 |
-| model | 52 |
+| model | 50 |
 
 Table: Accepted values by property group
 
@@ -21,9 +21,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 15 |
 | phase transition | 6 |
-| formation | 32 |
+| formation | 31 |
 | mixing / partial | 2 |
-| crystal structure | 24 |
+| crystal structure | 23 |
 
 ## Calculated phase diagrams
 
@@ -110,7 +110,7 @@ Table: Invariant reactions reported in the literature for the Al–Pt system (15
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Pt system (32)
+Table: Enthalpies of formation, Al–Pt system (31)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -130,7 +130,6 @@ Table: Enthalpies of formation, Al–Pt system (32)
 | UNKNOWN |  | 83.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 26 |  |
 | UNKNOWN |  | 84.94 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 10 |  |
 | UNKNOWN |  | 85.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 14 |  |
-| UNKNOWN |  | 85.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 12 |  |
 | UNKNOWN |  | 87.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 24 |  |
 | UNKNOWN |  | 87.8 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 23 |  |
 | UNKNOWN |  | 88 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 13 |  |
@@ -168,10 +167,10 @@ Table: Mixing / partial, Al–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs energy of mixing T coefficient_ | 4.9 J/mol-atom |  | UNKNOWN; _alloy: Al 0.25, Pt 0.75_ | model | [1] Wu 2000 | Table 4, p. 4, row 34 |  |
-| Gibbs energy of mixing; _printed: Gibbs energy of mixing T coefficient_ | 7.48 J/mol-atom |  | UNKNOWN; _alloy: Al 0.25, Pt 0.75_ | experimental | [1] Wu 2000; _cites ref. 1981_ | Table 4, p. 4, row 33 |  |
+| Gibbs energy of mixing; _printed: Gibbs energy of mixing T coefficient_ | 0.0049 kJ/mol-atom |  | UNKNOWN; _alloy: Al 0.25, Pt 0.75_ | model | [1] Wu 2000 | Table 4, p. 4, row 34 |  |
+| Gibbs energy of mixing; _printed: Gibbs energy of mixing T coefficient_ | 0.00748 kJ/mol-atom |  | UNKNOWN; _alloy: Al 0.25, Pt 0.75_ | experimental | [1] Wu 2000; _cites ref. 1981_ | Table 4, p. 4, row 33 |  |
 
-### Crystal structure (24)
+### Crystal structure (23)
 
 Table: Crystal structure, Al–Pt system
 
@@ -199,7 +198,6 @@ Table: Crystal structure, Al–Pt system
 | Lattice c | 1.066 nm | 298.15 | Al21Pt8; _Al21Pt8: Al 0.73, Pt 0.27_ | model | [1] Wu 2000 | Table 1, p. 2, row 3 |  |
 | Lattice c | 0.5172 nm | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 9 |  |
 | Lattice c | 0.517 nm | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 12 |  |
-| Lattice c | 0.517 nm | 298.15 | Al3Pt2; _Al3Pt2: Al 0.6, Pt 0.4_ | model | [1] Wu 2000 | Table 1, p. 2, row 10 |  |
 | Lattice c | 0.395 nm | 298.15 | Al3Pt5; _alloy: Pt 0.625_ | model | [1] Wu 2000 | Table 1, p. 2, row 18 |  |
 
 ## Sources

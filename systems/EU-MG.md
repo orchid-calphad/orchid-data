@@ -32,20 +32,20 @@ Table: Invariant reactions reported in the literature for the Eu–Mg system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 848 | Peritectic: L + Mg2Eu -> Mg5Eu | L: Mg 0.8458 | model | [1] Tao 2008 | Table 3, p. 4, row 9 |  |
-| 847 | Eutectic: L -> Mg17Eu2 + Mg5Eu | L: Mg 0.8545 | model | [1] Tao 2008 | Table 3, p. 4, row 7 |  |
-| 846 | Peritectic: L + Mg2Eu -> Mg5Eu | L: Mg 0.8434 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 8 |  |
-| 845 | Eutectic: L -> HCP + Mg17Eu2 | L: Mg 0.9934 | model | [1] Tao 2008 | Table 3, p. 4, row 3 |  |
-| 844 | Eutectic: L -> HCP + Mg17Eu2 | L: Mg 0.994 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 1 |  |
-| 842 | Eutectic: L -> Mg17Eu2 + Mg5Eu | L: Mg 0.86 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 6 |  |
-| 835 | Eutectic: L -> HCP + Mg17Eu2 | L: Mg 0.993 | experimental | [1] Tao 2008; _cites Rokhlin 2003_ [doi](https://doi.org/10.1201/9781482265163) | Table 3, p. 4, row 2 |  |
-| 813 | Eutectoid: Mg5Eu + Mg2Eu -> Mg4Eu | Mg4Eu: Mg 0.8 | experimental | [1] Tao 2008; _cites Zandbergen 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990222-1) | Table 3, p. 4, row 10 |  |
-| 813 | Eutectoid: Mg5Eu + Mg2Eu -> Mg4Eu | Mg4Eu: Mg 0.8 | model | [1] Tao 2008 | Table 3, p. 4, row 11 |  |
+| 848 | peritectic: L + Mg2Eu -> Mg5Eu | L: Mg 0.8458 | model | [1] Tao 2008 | Table 3, p. 4, row 9 |  |
+| 847 | eutectic: L -> Mg17Eu2 + Mg5Eu | L: Mg 0.8545 | model | [1] Tao 2008 | Table 3, p. 4, row 7 |  |
+| 846 | peritectic: L + Mg2Eu -> Mg5Eu | L: Mg 0.8434 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 8 |  |
+| 845 | eutectic: L -> HCP + Mg17Eu2 | L: Mg 0.9934 | model | [1] Tao 2008 | Table 3, p. 4, row 3 |  |
+| 844 | eutectic: L -> HCP + Mg17Eu2 | L: Mg 0.994 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 1 |  |
+| 842 | eutectic: L -> Mg17Eu2 + Mg5Eu | L: Mg 0.86 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 6 |  |
+| 835 | eutectic: L -> HCP + Mg17Eu2 | L: Mg 0.993 | experimental | [1] Tao 2008; _cites Rokhlin 2003_ [doi](https://doi.org/10.1201/9781482265163) | Table 3, p. 4, row 2 |  |
+| 813 | eutectoid: Mg5Eu + Mg2Eu -> Mg4Eu | Mg4Eu: Mg 0.8 | experimental | [1] Tao 2008; _cites Zandbergen 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990222-1) | Table 3, p. 4, row 10 |  |
+| 813 | eutectoid: Mg5Eu + Mg2Eu -> Mg4Eu | Mg4Eu: Mg 0.8 | model | [1] Tao 2008 | Table 3, p. 4, row 11 |  |
 | 813 | eutectoid |  | model | [1] Tao 2008 | p. 3 | “However, due to lack of experiment, we assumed in present work that Mg4 Eu is formed by a eutectoid reaction at 813 K.” |
-| 736 | Peritectic: L + Mg2Eu -> MgEu | L: Mg 0.34 | model | [1] Tao 2008 | Table 3, p. 4, row 15 |  |
-| 736 | Peritectic: L + Mg2Eu -> MgEu | L: Mg 0.34 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 14 |  |
-| 728 | Eutectic: L -> MgEu + Eu | L: Mg 0.326 | model | [1] Tao 2008 | Table 3, p. 4, row 17 |  |
-| 722 | Eutectic: L -> MgEu + Eu | L: Mg 0.31 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 16 |  |
+| 736 | peritectic: L + Mg2Eu -> MgEu | L: Mg 0.34 | model | [1] Tao 2008 | Table 3, p. 4, row 15 |  |
+| 736 | peritectic: L + Mg2Eu -> MgEu | L: Mg 0.34 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 14 |  |
+| 728 | eutectic: L -> MgEu + Eu | L: Mg 0.326 | model | [1] Tao 2008 | Table 3, p. 4, row 17 |  |
+| 722 | eutectic: L -> MgEu + Eu | L: Mg 0.31 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 16 |  |
 
 ## Other properties
 
@@ -55,10 +55,10 @@ Table: Phase transition, Eu–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 857 K | 857 | Congruent: L -> Mg17Eu2; _L: Mg 0.8947_ | model | [1] Tao 2008 | Table 3, p. 4, row 5 |  |
-| Phase transition | 864 K | 864 | Congruent: L -> Mg17Eu2; _L: Mg 0.8947_ | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 4 |  |
-| Phase transition | 990 K | 990 | Congruent: L -> Mg2Eu; _L: Mg 0.6667_ | model | [1] Tao 2008 | Table 3, p. 4, row 13 |  |
-| Phase transition | 992 K | 992 | Congruent: L -> Mg2Eu; _L: Mg 0.6667_ | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 12 |  |
+| Phase transition | 857 K | 857 | congruent melting: L -> Mg17Eu2; _L: Mg 0.8947_ | model | [1] Tao 2008 | Table 3, p. 4, row 5 |  |
+| Phase transition | 864 K | 864 | congruent melting: L -> Mg17Eu2; _L: Mg 0.8947_ | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 4 |  |
+| Phase transition | 990 K | 990 | congruent melting: L -> Mg2Eu; _L: Mg 0.6667_ | model | [1] Tao 2008 | Table 3, p. 4, row 13 |  |
+| Phase transition | 992 K | 992 | congruent melting: L -> Mg2Eu; _L: Mg 0.6667_ | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 12 |  |
 
 ### Crystal structure (37)
 

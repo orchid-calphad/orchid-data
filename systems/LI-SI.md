@@ -106,7 +106,7 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 | 1017 | L ↔ Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | experimental | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 43 |  |
 | 1006 | L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017 | Table 4, p. 4, row 33 |  |
 | 1005.1 | L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 4, row 31 |  |
-| 1005 | Eutectic: L = L13Si4 + L7Si3 | L: Si 0.243; L13Si4: Si 0.235294; L7Si3: Si 0.3 | model | [2] Wang 2013 | Table 2, p. 6, row 4 |  |
+| 1005 | eutectic: L = L13Si4 + L7Si3 | L: Si 0.243; L13Si4: Si 0.235294; L7Si3: Si 0.3 | model | [2] Wang 2013 | Table 2, p. 6, row 4 |  |
 | 1004.82 | L ↔ Li13Si4 + Li7Si3 | L: Si 0.243; Li13Si4: Li 0.764706, Si 0.235294; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 4, row 36 |  |
 | 999.7 | L ↔ Li13Si4 + Li7Si3 | L: Si 0.258; Li13Si4: Li 0.764706, Si 0.235294; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017 | Table 4, p. 4, row 38 |  |
 | 995 | L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 4, row 30 |  |
@@ -115,9 +115,9 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 | 984.3 | L ↔ Li13Si4 + Li7Si3 | L: Si 0.242; Li13Si4: Li 0.764706, Si 0.235294; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 37 |  |
 | 982 | L ↔ Li13Si4 + Li7Si3 | L: Si 0.26; Li13Si4: Li 0.764706, Si 0.235294; Li7Si3: Li 0.7, Si 0.3 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 4, row 35 |  |
 | 976 | L + Li2Si ↔ Li21Si8 |  | experimental | [1] Liang 2017; _cites Sharma 1976_ [doi](https://doi.org/10.1149/1.2132692) | Table 4, p. 4, row 34 |  |
-| 957 | Peritectic: L + L13Si4 = L22Si5 | L: Si 0.148; L13Si4: Si 0.235294; L22Si5: Si 0.185185 | model | [2] Wang 2013 | Table 2, p. 6, row 2 |  |
+| 957 | peritectic: L + L13Si4 = L22Si5 | L: Si 0.148; L13Si4: Si 0.235294; L22Si5: Si 0.185185 | model | [2] Wang 2013 | Table 2, p. 6, row 2 |  |
 | 956.6 | L + Li13Si4 ↔ Li22Si5 | L: Si 0.148; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 4, row 27 |  |
-| 925 | Peritectic: L + L7Si3 = L12Si7 | L: Si 0.425; L7Si3: Si 0.3; L12Si7: Si 0.368421 | model | [2] Wang 2013 | Table 2, p. 6, row 6 |  |
+| 925 | peritectic: L + L7Si3 = L12Si7 | L: Si 0.425; L7Si3: Si 0.3; L12Si7: Si 0.368421 | model | [2] Wang 2013 | Table 2, p. 6, row 6 |  |
 | 924.6 | L + Li7Si3 -> Li12Si7 | L: Si 0.425; Li7Si3: Li 0.7, Si 0.3; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 5, row 9 |  |
 | 923 | L -> Li2Si + (Si) | L: Si 0.39 | experimental | [1] Liang 2017; _cites Obinata 1965_ | Table 4, p. 5, row 5 |  |
 | 921 | L + Li7Si3 -> Li12Si7 | L: Si 0.39; Li7Si3: Li 0.7, Si 0.3; Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 5, row 7 |  |
@@ -147,7 +147,7 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 | 863 | L -> Li12Si7 + (Si) | Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites Evers 1993_ [doi](https://doi.org/10.1002/anie.199314421) | Table 4, p. 5, row 14 |  |
 | 863 | L -> LixSi + (Si) | L: Si 0.42; LixSi: Li 0.5, Si 0.5 | experimental | [1] Liang 2017; _cites Pell 1959_ | Table 4, p. 5, row 12 |  |
 | 861.4 | L -> Li12Si7 + (Si) | L: Si 0.485; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 5, row 16 |  |
-| 861 | Eutectic: L = L12Si7 + (Li) | L: Si 0.485; L12Si7: Si 0.368421 | model | [2] Wang 2013 | Table 2, p. 6, row 7 |  |
+| 861 | eutectic: L = L12Si7 + (Li) | L: Si 0.485; L12Si7: Si 0.368421 | model | [2] Wang 2013 | Table 2, p. 6, row 7 |  |
 | 861 | eutectic: L = (Si) + Li12Si7 |  | model | [2] Wang 2013 | p. 6 | “In the present work, the temperature of the eutectic invariant reaction L 1⁄4 (Si) þ Li12Si7 was considered a more accurate value, calculated at 861 K in good agreement with the data by van der Marel et al. \[16\].” |
 | 860 | L -> Li12Si7 + (Si) | Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 15 |  |
 | 857 | L -> Li12Si7 + (Si) | L: Si 0.453; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 17 |  |
@@ -173,7 +173,7 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 | 453.6 | L ↔ (Li) + Li17Si4 | L: Si 8.000e-5; Li17Si4: Li 0.809524, Si 0.190476 | model | [1] Liang 2017 | Table 4, p. 4, row 3 |  |
 | 453.6 | L ↔ (Li) + Li17Si4 | L: Si 4.900e-5; Li17Si4: Li 0.809524, Si 0.190476 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 2 |  |
 | 453.6 | L ↔ (Li) + Li22Si5 | L: Si 5.600e-5 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 4, row 1 |  |
-| 453.6 | Eutectic: L = (Li) + L22Si5 | L: Si 3.000e-4; L22Si5: Si 0.185185 | model | [2] Wang 2013 | Table 2, p. 6, row 1 |  |
+| 453.6 | eutectic: L = (Li) + L22Si5 | L: Si 3.000e-4; L22Si5: Si 0.185185 | model | [2] Wang 2013 | Table 2, p. 6, row 1 |  |
 
 ## Other properties
 
@@ -186,15 +186,15 @@ Table: Phase transition, Li–Si system
 | Phase transition | 216.5 K | 216.5 | Li7Si3 | experimental | [2] Wang 2013 | p. 3 | “The heat capacity measurements reveal a small phase transition of Li7Si3 at 216.5 K.” |
 | Phase transition | 743 K | 743 |  | experimental | [3] Braga 2014; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | p. 11 | “Conversely, the formation of Li21Si5 justifies the peak occurring at 883 K (temperature at which it forms after peritectic reaction Liquid + Li13Si4 M Li21Si5) and at 743 K (temperature at which it decomposes to form Li17Si4 and Li4.13Si) while the stability of Li4.13Si is justified by the all the XRD patterns in \[22\].” |
 | Phase transition | 803.6 K | 803.6 |  | model | [1] Liang 2017 | p. 13 | “For Li17Si4 we assess 803.6 K, in excellent agreement with the original experimental DSC-data on heating \[7,50\] and DSCCp-data \[50\], see Table 4 and Fig. 8d.” |
-| Phase transition | 922 K | 922 | congruent | model | [1] Liang 2017 | p. 11 | “The Li-rich side of the present calculation labeled with all the invariant reaction temperatures is shown in Fig. 8b; superimposed as pink dash-dot lines are the metastable liquidus lines of Li15Si4, exhibiting the metastable congruent melting point at 922 K, and the metastable extension of the liquidus line of (Si).” |
-| Phase transition | 985 K | 985 | congruent | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13 | “For the congruent melting point of Li13Si4 we assess 1006 K, as opposed to 985 K \[5\].” |
-| Phase transition | 1005 K | 1005 | Congruent: L = L13Si4; _L: Si 0.235294; L13Si4: Si 0.235294_ | model | [2] Wang 2013 | Table 2, p. 6, row 3 |  |
-| Phase transition | 1005 K | 1005 | congruent | model | [2] Wang 2013 | p. 6 | “The other more accurate value considered in our assessment is the congruent melting temperature for Li7Si3, calculated at 1027 K, and possibly that of Li13Si4 at 1005 K.” |
-| Phase transition | 1006 K | 1006 | congruent | model | [1] Liang 2017 | p. 13 | “For the congruent melting point of Li13Si4 we assess 1006 K, as opposed to 985 K \[5\].” |
-| Phase transition | 1023 K | 1023 | congruent | model | [1] Liang 2017 | p. 13 | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
-| Phase transition | 1023 K | 1023 | congruent | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13 | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
-| Phase transition | 1027 K | 1027 | Congruent: L = L7Si3; _L: Si 0.3; L7Si3: Si 0.3_ | model | [2] Wang 2013 | Table 2, p. 6, row 5 |  |
-| Phase transition | 1027 K | 1027 | congruent | model | [2] Wang 2013 | p. 6 | “The other more accurate value considered in our assessment is the congruent melting temperature for Li7Si3, calculated at 1027 K, and possibly that of Li13Si4 at 1005 K.” |
+| Phase transition | 922 K | 922 | congruent melting | model | [1] Liang 2017 | p. 11 | “The Li-rich side of the present calculation labeled with all the invariant reaction temperatures is shown in Fig. 8b; superimposed as pink dash-dot lines are the metastable liquidus lines of Li15Si4, exhibiting the metastable congruent melting point at 922 K, and the metastable extension of the liquidus line of (Si).” |
+| Phase transition | 985 K | 985 | congruent transformation | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13 | “For the congruent melting point of Li13Si4 we assess 1006 K, as opposed to 985 K \[5\].” |
+| Phase transition | 1005 K | 1005 | congruent melting: L = L13Si4; _L: Si 0.235294; L13Si4: Si 0.235294_ | model | [2] Wang 2013 | Table 2, p. 6, row 3 |  |
+| Phase transition | 1005 K | 1005 | congruent transformation | model | [2] Wang 2013 | p. 6 | “The other more accurate value considered in our assessment is the congruent melting temperature for Li7Si3, calculated at 1027 K, and possibly that of Li13Si4 at 1005 K.” |
+| Phase transition | 1006 K | 1006 | congruent transformation | model | [1] Liang 2017 | p. 13 | “For the congruent melting point of Li13Si4 we assess 1006 K, as opposed to 985 K \[5\].” |
+| Phase transition | 1023 K | 1023 | congruent transformation | model | [1] Liang 2017 | p. 13 | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
+| Phase transition | 1023 K | 1023 | congruent transformation | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13 | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
+| Phase transition | 1027 K | 1027 | congruent melting: L = L7Si3; _L: Si 0.3; L7Si3: Si 0.3_ | model | [2] Wang 2013 | Table 2, p. 6, row 5 |  |
+| Phase transition | 1027 K | 1027 | congruent transformation | model | [2] Wang 2013 | p. 6 | “The other more accurate value considered in our assessment is the congruent melting temperature for Li7Si3, calculated at 1027 K, and possibly that of Li13Si4 at 1005 K.” |
 
 ### Mixing / partial (24)
 
@@ -202,30 +202,30 @@ Table: Mixing / partial, Li–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix._ | -8400 J/mol (basis unstated) ± 1000 | 1081 | liquid; _alloy: Li 0.9393, Si 0.0607_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -13400 J/mol (basis unstated) ± 1000 | 1081 | liquid; _alloy: Li 0.9051, Si 0.0949_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -18500 J/mol (basis unstated) ± 1000 | 1081 | liquid; _alloy: Li 0.8711, Si 0.1289_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -3400 J/mol (basis unstated) ± 1000 | 1081 | liquid; _alloy: Li 0.9753, Si 0.0247_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -22800 J/mol (basis unstated) ± 1000 | 1081 | liquid; _alloy: Li 0.8438, Si 0.1562_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -21100 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.8171, Si 0.1829_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -28500 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.7283, Si 0.2717_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -29400 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.5409, Si 0.4591_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -29800 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.6548, Si 0.3452_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 24 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -26700 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.756, Si 0.244_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 20 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -18000 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.8413, Si 0.1587_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -25600 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.7728, Si 0.2272_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 19 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -29000 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.7029, Si 0.2971_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 22 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -29700 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.6695, Si 0.3305_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -28100 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.7281, Si 0.2719_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 21 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -18600 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.8362, Si 0.1638_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -15200 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.8613, Si 0.1387_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -12100 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.8828, Si 0.1172_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -8900 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.9038, Si 0.0962_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -24100 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.79, Si 0.21_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -28300 J/mol (basis unstated) ± 500 | 1089 | liquid; _alloy: Li 0.4998, Si 0.5002_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -31900 J/mol (basis unstated) ± 500 | 1092 | liquid; _alloy: Li 0.6454, Si 0.3546_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -25700 J/mol (basis unstated) ± 500 | 1092 | liquid; _alloy: Li 0.7968, Si 0.2032_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix._ | -15200 J/mol (basis unstated) ± 500 | 1092 | liquid; _alloy: Li 0.875, Si 0.125_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -8.4 kJ/mol (basis unstated) ± 1 | 1081 | liquid; _alloy: Li 0.9393, Si 0.0607_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -13.4 kJ/mol (basis unstated) ± 1 | 1081 | liquid; _alloy: Li 0.9051, Si 0.0949_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -18.5 kJ/mol (basis unstated) ± 1 | 1081 | liquid; _alloy: Li 0.8711, Si 0.1289_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -3.4 kJ/mol (basis unstated) ± 1 | 1081 | liquid; _alloy: Li 0.9753, Si 0.0247_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -22.8 kJ/mol (basis unstated) ± 1 | 1081 | liquid; _alloy: Li 0.8438, Si 0.1562_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -21.1 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.8171, Si 0.1829_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -28.5 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.7283, Si 0.2717_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -29.4 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.5409, Si 0.4591_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -29.8 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.6548, Si 0.3452_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 24 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -26.7 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.756, Si 0.244_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 20 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -18 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.8413, Si 0.1587_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -25.6 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.7728, Si 0.2272_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 19 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -29 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.7029, Si 0.2971_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -29.7 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.6695, Si 0.3305_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 23 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -28.1 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.7281, Si 0.2719_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 21 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -18.6 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.8362, Si 0.1638_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -15.2 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.8613, Si 0.1387_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -12.1 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.8828, Si 0.1172_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -8.9 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.9038, Si 0.0962_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -24.1 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.79, Si 0.21_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 18 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -28.3 kJ/mol (basis unstated) ± 0.5 | 1089 | liquid; _alloy: Li 0.4998, Si 0.5002_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -31.9 kJ/mol (basis unstated) ± 0.5 | 1092 | liquid; _alloy: Li 0.6454, Si 0.3546_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -25.7 kJ/mol (basis unstated) ± 0.5 | 1092 | liquid; _alloy: Li 0.7968, Si 0.2032_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix._ | -15.2 kJ/mol (basis unstated) ± 0.5 | 1092 | liquid; _alloy: Li 0.875, Si 0.125_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 8 |  |
 
 ### Crystal structure (23)
 

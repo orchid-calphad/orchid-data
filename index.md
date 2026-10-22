@@ -1,6 +1,6 @@
 # ORCHID data
 
-> ORCHID data: 79,942 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,322 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
+> ORCHID data: 76,432 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,322 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
 
 HTML: https://data.orchid-project.org/ · Markdown: https://data.orchid-project.org/index.md
 

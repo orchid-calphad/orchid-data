@@ -28,35 +28,35 @@ Table: Invariant reactions reported in the literature for the Al–Cu–Er syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1736.02 | U: Liquid + τ3 -> τ6 + τ4 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 15 |  |
-| 1561.23 | U: Liquid + τ4 -> Al2Er + τ6 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 11 |  |
-| 1537.62 | U: Liquid + τ6 -> τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 16 |  |
-| 1415.02 | U: Liquid + τ6 -> τ7 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 10 |  |
-| 1405.71 | U: Liquid + τ4 -> τ3 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 12 |  |
-| 1296.34 | U: Liquid + Al2Er -> AlEr + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 9 |  |
-| 1282.15 | U: Liquid + τ7 -> AlEr + CuEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 8 |  |
-| 1277.95 | E: Liquid -> CuEr + Al2Er3 + AlEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 2 |  |
-| 1250.13 | U: Liquid + τ2 -> γ + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 22 |  |
-| 1249.71 | U: Liquid + γ -> β + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 21 |  |
-| 1246.96 | U: Liquid + Al2Er3 -> CuEr + AlEr2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 7 |  |
-| 1227.54 | U: Liquid + Al2Er -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 13 |  |
-| 1219.56 | U: Liquid + γ -> β + τ2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 23 |  |
-| 1162.55 | U: Liquid + β -> τ3 + Fcc_Cu |  | model | [1] Zhang 2008 | Table 4, p. 7, row 20 |  |
-| 1156.3 | E: Liquid -> CuEr + AlEr2 + Hcp_Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 1 |  |
-| 1132.73 | U: Liquid + Cu9Er2 -> τ3 + Cu5Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 19 |  |
-| 1124.05 | U: Liquid + β -> τ2 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 24 |  |
-| 1123.37 | U: Liquid + τ2 -> τ1 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 25 |  |
-| 1116.45 | U: Liquid + Cu7Er2 -> Cu9Er2 + Cu2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 18 |  |
-| 1088.91 | U: Liquid + CuEr -> Cu2Er + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 17 |  |
-| 1088.65 | E: Liquid -> Cu2Er + τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 4 |  |
-| 1084.67 | E: Liquid -> Fcc_Cu + Cu5Er + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 6 |  |
-| 1078.38 | E: Liquid -> Cu2Er + τ3 + Cu9Er2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 5 |  |
-| 916.78 | P: Liquid + τ1 + τ2 -> Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 27 |  |
-| 915.82 | U: Liquid + τ2 -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 14 |  |
-| 915.39 | E: Liquid -> L12 + τ3 + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 3 |  |
-| 898.11 | P: Liquid + ε + τ1 -> η |  | model | [1] Zhang 2008 | Table 4, p. 7, row 28 |  |
-| 868.85 | P: Liquid + η + τ1 -> θ |  | model | [1] Zhang 2008 | Table 4, p. 7, row 29 |  |
-| 820.61 | U: Liquid + τ1 -> θ + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 26 |  |
+| 1736.02 | quasi-peritectic: Liquid + τ3 -> τ6 + τ4 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 15 |  |
+| 1561.23 | quasi-peritectic: Liquid + τ4 -> Al2Er + τ6 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 11 |  |
+| 1537.62 | quasi-peritectic: Liquid + τ6 -> τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 16 |  |
+| 1415.02 | quasi-peritectic: Liquid + τ6 -> τ7 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 10 |  |
+| 1405.71 | quasi-peritectic: Liquid + τ4 -> τ3 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 12 |  |
+| 1296.34 | quasi-peritectic: Liquid + Al2Er -> AlEr + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 9 |  |
+| 1282.15 | quasi-peritectic: Liquid + τ7 -> AlEr + CuEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 8 |  |
+| 1277.95 | eutectic: Liquid -> CuEr + Al2Er3 + AlEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 2 |  |
+| 1250.13 | quasi-peritectic: Liquid + τ2 -> γ + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 22 |  |
+| 1249.71 | quasi-peritectic: Liquid + γ -> β + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 21 |  |
+| 1246.96 | quasi-peritectic: Liquid + Al2Er3 -> CuEr + AlEr2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 7 |  |
+| 1227.54 | quasi-peritectic: Liquid + Al2Er -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 13 |  |
+| 1219.56 | quasi-peritectic: Liquid + γ -> β + τ2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 23 |  |
+| 1162.55 | quasi-peritectic: Liquid + β -> τ3 + Fcc_Cu |  | model | [1] Zhang 2008 | Table 4, p. 7, row 20 |  |
+| 1156.3 | eutectic: Liquid -> CuEr + AlEr2 + Hcp_Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 1 |  |
+| 1132.73 | quasi-peritectic: Liquid + Cu9Er2 -> τ3 + Cu5Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 19 |  |
+| 1124.05 | quasi-peritectic: Liquid + β -> τ2 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 24 |  |
+| 1123.37 | quasi-peritectic: Liquid + τ2 -> τ1 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 25 |  |
+| 1116.45 | quasi-peritectic: Liquid + Cu7Er2 -> Cu9Er2 + Cu2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 18 |  |
+| 1088.91 | quasi-peritectic: Liquid + CuEr -> Cu2Er + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 17 |  |
+| 1088.65 | eutectic: Liquid -> Cu2Er + τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 4 |  |
+| 1084.67 | eutectic: Liquid -> Fcc_Cu + Cu5Er + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 6 |  |
+| 1078.38 | eutectic: Liquid -> Cu2Er + τ3 + Cu9Er2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 5 |  |
+| 916.78 | peritectic: Liquid + τ1 + τ2 -> Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 27 |  |
+| 915.82 | quasi-peritectic: Liquid + τ2 -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 14 |  |
+| 915.39 | eutectic: Liquid -> L12 + τ3 + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 3 |  |
+| 898.11 | peritectic: Liquid + ε + τ1 -> η |  | model | [1] Zhang 2008 | Table 4, p. 7, row 28 |  |
+| 868.85 | peritectic: Liquid + η + τ1 -> θ |  | model | [1] Zhang 2008 | Table 4, p. 7, row 29 |  |
+| 820.61 | quasi-peritectic: Liquid + τ1 -> θ + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 26 |  |
 
 ## Other properties
 

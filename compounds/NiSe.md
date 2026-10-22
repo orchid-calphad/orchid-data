@@ -1,26 +1,22 @@
 # NiSe: enthalpy of formation
 
-> Enthalpy of formation of NiSe: 8 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of NiSe: 4 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiSe.html · Markdown: https://data.orchid-project.org/compounds/NiSe.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 6, unspecified 2).
+4 accepted literature formation-enthalpy value(s) (experimental 3, unspecified 1).
 
 Systems: [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiSe reported in the literature (8)
+Table: Enthalpy of formation of NiSe reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -38.5 kJ/mol (basis unstated) | NiSe | 298 | experimental |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Fabre 1887_ | Table 3, p. 4, row 4 |  |
-| -38.5 kJ/mol (basis unstated) | NiSe | 298 | experimental |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Fabre 1887_ | Table 3, p. 4, row 4 |  |
-| -29 kJ/mol (basis unstated) | NiSe | 298 | experimental |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Bichowsky 1936_ | Table 3, p. 4, row 5 |  |
 | -29 kJ/mol (basis unstated) | NiSe | 298 | experimental |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Bichowsky 1936_ | Table 3, p. 4, row 5 |  |
 | -21 kJ/mol (basis unstated) ± 5 | NiSe | 298 | experimental |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Rossini 1952_ | Table 3, p. 4, row 6 |  |
-| -21 kJ/mol (basis unstated) ± 5 | NiSe | 298 | experimental |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Rossini 1952_ | Table 3, p. 4, row 6 |  |
-| -39.97 kJ/mol (basis unstated) | NiSe | 1050 | unspecified |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 7 |  |
 | -39.97 kJ/mol (basis unstated) | NiSe | 1050 | unspecified |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 7 |  |
 
 ## Sources

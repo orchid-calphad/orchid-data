@@ -1,10 +1,10 @@
 # Ce–Ru system
 
-> Ce–Ru system: 6 accepted literature values (invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Ru system: 4 accepted literature values (invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-RU.html · Markdown: https://data.orchid-project.org/systems/CE-RU.md
 
-6 accepted literature values from 1 paper(s) (experimental 1, model 5); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+4 accepted literature values from 1 paper(s) (experimental 1, model 3); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-RU.json) · [CSV](https://data.orchid-project.org/systems/CE-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-RU/CeRu-23Kar.json) · [Markdown](https://data.orchid-project.org/systems/CE-RU.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 5 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 4 |
 
 ## Calculated phase diagrams
 
@@ -57,14 +57,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Ru system (6)
+Table: Invariant reactions reported in the literature for the Ce–Ru system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1843 | peritectic |  | model | [1] Kardellass 2023 | p. 12 | “The solubility of Ce in solid Ru at the Liq ? hcp_A3 $ CeRu2 peritectic reaction at 1843 K is well reproduced with the three models: \* 1.83 at.% Ru for linear model and \* 3.21 at.% Ru for both exponential and combined models at 1843 K.” |
-| 1843 | peritectic |  | model | [1] Kardellass 2023 | p. 12 | “The solubility of Ce in solid Ru at the Liq ? hcp_A3 $ CeRu2 peritectic reaction at 1843 K is well reproduced with the three models: \* 1.83 at.% Ru for linear model and \* 3.21 at.% Ru for both exponential and combined models at 1843 K.” |
 | 1025 | peritectic |  | model | [1] Kardellass 2023 | p. 12 | “Same remark goes for Liq ? CeRu2 $ Ce4Ru3 peritectic reaction which had calculated at (1024 K; 40.5 at.% Ru), (1024 K; 40.2 at.% Ru), and (1025 K; 40.3 at.% Ru) versus (1023 K; 41 at.% Ru) according to Ref \[37\] for the linear, exponential, and combined models, respectively.” |
-| 1024 | peritectic |  | model | [1] Kardellass 2023 | p. 12 | “Same remark goes for Liq ? CeRu2 $ Ce4Ru3 peritectic reaction which had calculated at (1024 K; 40.5 at.% Ru), (1024 K; 40.2 at.% Ru), and (1025 K; 40.3 at.% Ru) versus (1023 K; 41 at.% Ru) according to Ref \[37\] for the linear, exponential, and combined models, respectively.” |
 | 1024 | peritectic |  | model | [1] Kardellass 2023 | p. 12 | “Same remark goes for Liq ? CeRu2 $ Ce4Ru3 peritectic reaction which had calculated at (1024 K; 40.5 at.% Ru), (1024 K; 40.2 at.% Ru), and (1025 K; 40.3 at.% Ru) versus (1023 K; 41 at.% Ru) according to Ref \[37\] for the linear, exponential, and combined models, respectively.” |
 | 1023 | peritectic |  | experimental | [1] Kardellass 2023; _cites Palenzona 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990031-p) | p. 12 | “Same remark goes for Liq ? CeRu2 $ Ce4Ru3 peritectic reaction which had calculated at (1024 K; 40.5 at.% Ru), (1024 K; 40.2 at.% Ru), and (1025 K; 40.3 at.% Ru) versus (1023 K; 41 at.% Ru) according to Ref \[37\] for the linear, exponential, and combined models, respectively.” |
 

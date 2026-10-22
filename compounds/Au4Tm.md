@@ -1,22 +1,20 @@
 # Au4Tm: enthalpy of formation
 
-> Enthalpy of formation of Au4Tm: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Au4Tm: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Au4Tm.html · Markdown: https://data.orchid-project.org/compounds/Au4Tm.md
 
-4 accepted literature formation-enthalpy value(s) (model 2, DFT 2); Materials Project -58.494 kJ/mol-atom (mp-aaaciuki); OQMD -58.268 kJ/mol-atom (oqmd-28228).
+2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -58.494 kJ/mol-atom (mp-aaaciuki); OQMD -58.268 kJ/mol-atom (oqmd-28228).
 
 Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Au4Tm reported in the literature (4)
+Table: Enthalpy of formation of Au4Tm reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -61.6 kJ/mol-atom | Au4Tm | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 58 |  |
-| -61.6 kJ/mol-atom | Au4Tm | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 58 |  |
-| -59.5 kJ/mol-atom | Au4Tm | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 57 |  |
 | -59.5 kJ/mol-atom | Au4Tm | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 57 |  |
 
 ## DFT formation energies

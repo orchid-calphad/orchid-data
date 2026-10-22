@@ -35,29 +35,29 @@ Table: Invariant reactions reported in the literature for the Al–Mo–Ni syste
 | 1875 | Liquid -> bcc + B2 |  | model | [1] Peng 2016 | Table 3, p. 3, row 1 |  |
 | 1873 | Liquid -> bcc + B2 |  | unspecified | [1] Peng 2016; _cites Maslenkov 1986_ | Table 3, p. 3, row 2 |  |
 | 1868 | Liquid -> bcc + B2 |  | experimental | [1] Peng 2016; _cites Ferrandini 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.02.052) | Table 3, p. 3, row 3 |  |
-| 1617 | U: U1: Liquid + B2 -> bcc + L12 |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 7 |  |
-| 1613 | U: U1: Liquid + B2 -> bcc + L12 |  | unspecified | [1] Peng 2016; _cites Maslenkov 1986_ | Table 3, p. 3, row 6 |  |
-| 1605 | U: U1: Liquid + B2 -> bcc + L12 |  | model | [1] Peng 2016 | Table 3, p. 3, row 5 |  |
-| 1604 | E: E: Liquid -> fcc + L12 + bcc |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 27 |  |
-| 1600 | E: E: Liquid -> fcc + L12 + bcc |  | model | [1] Peng 2016 | Table 3, p. 3, row 23 |  |
-| 1583 | U: U2: Liquid + NiMo -> bcc + fcc |  | unspecified | [1] Peng 2016; _cites Maslenkov 1986_ | Table 3, p. 3, row 10 |  |
-| 1578 | E: E: Liquid -> fcc + L12 + bcc |  | experimental | [1] Peng 2016; _cites Pearson 1977_ | Table 3, p. 3, row 25 |  |
-| 1574 | U: U2: Liquid + NiMo -> bcc + fcc |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 11 |  |
-| 1573 | E: E: Liquid -> fcc + L12 + bcc |  | unspecified | [1] Peng 2016; _cites Maslenkov 1986_ | Table 3, p. 3, row 26 |  |
-| 1573 | E: E: Liquid -> fcc + L12 + bcc |  | unspecified | [1] Peng 2016; _cites Yoshizawa 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990164-2) | Table 3, p. 3, row 24 |  |
-| 1573 | U: U2: Liquid + NiMo -> bcc + fcc |  | model | [1] Peng 2016 | Table 3, p. 3, row 8 |  |
-| 1468 | U: U3: bcc + fcc -> L12 + NiMo |  | experimental | [1] Peng 2016; _cites Pearson 1977_ | Table 3, p. 3, row 13 |  |
-| 1403 | U: U3: bcc + fcc -> L12 + NiMo |  | experimental | [1] Peng 2016; _cites Wakashima 1983_ [doi](https://doi.org/10.1016/0001-6160%2883%2990139-6) | Table 3, p. 3, row 14 |  |
-| 1403 | U: U3: bcc + fcc -> L12 + NiMo |  | unspecified | [1] Peng 2016; _cites Maslenkov 1989_ | Table 3, p. 3, row 16 |  |
-| 1400 | U: U3: bcc + fcc -> L12 + NiMo |  | model | [1] Peng 2016 | Table 3, p. 3, row 12 |  |
-| 1400 | U: U3: bcc + fcc -> L12 + NiMo |  | experimental | [1] Peng 2016; _cites Miracle 1984_ [doi](https://doi.org/10.1007/bf02644971) | Table 3, p. 3, row 15 |  |
-| 1400 | U: U3: bcc + fcc -> L12 + NiMo |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 17 |  |
-| 1385 | U: U2: Liquid + NiMo -> bcc + fcc |  | experimental | [1] Peng 2016; _cites Pearson 1977_ | Table 3, p. 3, row 9 |  |
-| 1167 | U: U4: NiMo + fcc -> L12 + Ni3Mo |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 20 |  |
-| 1163 | U: U4: NiMo + fcc -> L12 + Ni3Mo |  | unspecified | [1] Peng 2016; _cites Maslenkov 1988_ | Table 3, p. 3, row 19 |  |
-| 1163 | U: U4: NiMo + fcc -> L12 + Ni3Mo |  | model | [1] Peng 2016 | Table 3, p. 3, row 18 |  |
-| 1003 | U: U5: Ni3Mo + fcc -> L12 + Ni4Mo |  | model | [1] Peng 2016 | Table 3, p. 3, row 21 |  |
-| 1003 | U: U5: Ni3Mo + fcc -> L12 + Ni4Mo |  | unspecified | [1] Peng 2016; _cites Maslenkov 1988_ | Table 3, p. 3, row 22 |  |
+| 1617 | quasi-peritectic: U1: Liquid + B2 -> bcc + L12 |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 7 |  |
+| 1613 | quasi-peritectic: U1: Liquid + B2 -> bcc + L12 |  | unspecified | [1] Peng 2016; _cites Maslenkov 1986_ | Table 3, p. 3, row 6 |  |
+| 1605 | quasi-peritectic: U1: Liquid + B2 -> bcc + L12 |  | model | [1] Peng 2016 | Table 3, p. 3, row 5 |  |
+| 1604 | eutectic: E: Liquid -> fcc + L12 + bcc |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 27 |  |
+| 1600 | eutectic: E: Liquid -> fcc + L12 + bcc |  | model | [1] Peng 2016 | Table 3, p. 3, row 23 |  |
+| 1583 | quasi-peritectic: U2: Liquid + NiMo -> bcc + fcc |  | unspecified | [1] Peng 2016; _cites Maslenkov 1986_ | Table 3, p. 3, row 10 |  |
+| 1578 | eutectic: E: Liquid -> fcc + L12 + bcc |  | experimental | [1] Peng 2016; _cites Pearson 1977_ | Table 3, p. 3, row 25 |  |
+| 1574 | quasi-peritectic: U2: Liquid + NiMo -> bcc + fcc |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 11 |  |
+| 1573 | eutectic: E: Liquid -> fcc + L12 + bcc |  | unspecified | [1] Peng 2016; _cites Maslenkov 1986_ | Table 3, p. 3, row 26 |  |
+| 1573 | eutectic: E: Liquid -> fcc + L12 + bcc |  | unspecified | [1] Peng 2016; _cites Yoshizawa 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990164-2) | Table 3, p. 3, row 24 |  |
+| 1573 | quasi-peritectic: U2: Liquid + NiMo -> bcc + fcc |  | model | [1] Peng 2016 | Table 3, p. 3, row 8 |  |
+| 1468 | quasi-peritectic: U3: bcc + fcc -> L12 + NiMo |  | experimental | [1] Peng 2016; _cites Pearson 1977_ | Table 3, p. 3, row 13 |  |
+| 1403 | quasi-peritectic: U3: bcc + fcc -> L12 + NiMo |  | experimental | [1] Peng 2016; _cites Wakashima 1983_ [doi](https://doi.org/10.1016/0001-6160%2883%2990139-6) | Table 3, p. 3, row 14 |  |
+| 1403 | quasi-peritectic: U3: bcc + fcc -> L12 + NiMo |  | unspecified | [1] Peng 2016; _cites Maslenkov 1989_ | Table 3, p. 3, row 16 |  |
+| 1400 | quasi-peritectic: U3: bcc + fcc -> L12 + NiMo |  | model | [1] Peng 2016 | Table 3, p. 3, row 12 |  |
+| 1400 | quasi-peritectic: U3: bcc + fcc -> L12 + NiMo |  | experimental | [1] Peng 2016; _cites Miracle 1984_ [doi](https://doi.org/10.1007/bf02644971) | Table 3, p. 3, row 15 |  |
+| 1400 | quasi-peritectic: U3: bcc + fcc -> L12 + NiMo |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 17 |  |
+| 1385 | quasi-peritectic: U2: Liquid + NiMo -> bcc + fcc |  | experimental | [1] Peng 2016; _cites Pearson 1977_ | Table 3, p. 3, row 9 |  |
+| 1167 | quasi-peritectic: U4: NiMo + fcc -> L12 + Ni3Mo |  | DFT | [1] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | Table 3, p. 3, row 20 |  |
+| 1163 | quasi-peritectic: U4: NiMo + fcc -> L12 + Ni3Mo |  | unspecified | [1] Peng 2016; _cites Maslenkov 1988_ | Table 3, p. 3, row 19 |  |
+| 1163 | quasi-peritectic: U4: NiMo + fcc -> L12 + Ni3Mo |  | model | [1] Peng 2016 | Table 3, p. 3, row 18 |  |
+| 1003 | quasi-peritectic: U5: Ni3Mo + fcc -> L12 + Ni4Mo |  | model | [1] Peng 2016 | Table 3, p. 3, row 21 |  |
+| 1003 | quasi-peritectic: U5: Ni3Mo + fcc -> L12 + Ni4Mo |  | unspecified | [1] Peng 2016; _cites Maslenkov 1988_ | Table 3, p. 3, row 22 |  |
 
 ## Other properties
 
@@ -67,15 +67,15 @@ Table: Phase transition, Al–Mo–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1857 K | 1857 | solidus: x = 15; _alloy: Mo 0.15_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 4 |  |
-| Phase transition | 1862 K | 1862 | solidus: x = 10; _alloy: Mo 0.1_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 3 |  |
-| Phase transition | 1868 K | 1868 | solidus: x = 6 | experimental | [1] Peng 2016 | Table 1, p. 3, row 2 |  |
-| Phase transition | 1874 K | 1874 | solidus: x = 3 | experimental | [1] Peng 2016 | Table 1, p. 3, row 1 |  |
-| Phase transition | 1899 K | 1899 | solidus: x = 30; _alloy: Mo 0.3_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 8 |  |
-| Phase transition | 1904 K | 1904 | solidus: x = 35; _alloy: Mo 0.35_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 10 |  |
-| Phase transition | 1912 K | 1912 | solidus: x = 25; _alloy: Mo 0.25_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 6 |  |
-| Phase transition | 1914 K | 1914 | solidus: x = 40; _alloy: Mo 0.4_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 12 |  |
-| Phase transition | 1915 K | 1915 | solidus: x = 20; _alloy: Mo 0.2_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 5 |  |
+| Phase transition | 1857 K | 1857 | other: x = 15; _alloy: Mo 0.15_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 4 |  |
+| Phase transition | 1862 K | 1862 | other: x = 10; _alloy: Mo 0.1_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 3 |  |
+| Phase transition | 1868 K | 1868 | other: x = 6 | experimental | [1] Peng 2016 | Table 1, p. 3, row 2 |  |
+| Phase transition | 1874 K | 1874 | other: x = 3 | experimental | [1] Peng 2016 | Table 1, p. 3, row 1 |  |
+| Phase transition | 1899 K | 1899 | other: x = 30; _alloy: Mo 0.3_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 8 |  |
+| Phase transition | 1904 K | 1904 | other: x = 35; _alloy: Mo 0.35_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 10 |  |
+| Phase transition | 1912 K | 1912 | other: x = 25; _alloy: Mo 0.25_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 6 |  |
+| Phase transition | 1914 K | 1914 | other: x = 40; _alloy: Mo 0.4_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 12 |  |
+| Phase transition | 1915 K | 1915 | other: x = 20; _alloy: Mo 0.2_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 5 |  |
 
 ### Phase equilibrium (4)
 
@@ -83,10 +83,10 @@ Table: Phase equilibrium, Al–Mo–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1955 | liquidus: x = 30; _liquid: Mo 0.3_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 9 |  |
-| Phase composition |  | 1994 | liquidus: x = 25; _liquid: Mo 0.25_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 7 |  |
-| Phase composition |  | 2035 | liquidus: x = 35; _liquid: Mo 0.35_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 11 |  |
-| Phase composition |  | 2068 | liquidus: x = 40; _liquid: Mo 0.4_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 13 |  |
+| Phase composition |  | 1955 | other: x = 30; _liquid: Mo 0.3_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 9 |  |
+| Phase composition |  | 1994 | other: x = 25; _liquid: Mo 0.25_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 7 |  |
+| Phase composition |  | 2035 | other: x = 35; _liquid: Mo 0.35_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 11 |  |
+| Phase composition |  | 2068 | other: x = 40; _liquid: Mo 0.4_ | experimental | [1] Peng 2016 | Table 1, p. 3, row 13 |  |
 
 ## Sources
 

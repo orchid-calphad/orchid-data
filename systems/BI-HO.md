@@ -53,17 +53,17 @@ Table: Invariant reactions reported in the literature for the Bi–Ho system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2048 | Congruent: L -> HoBi | L: Bi 0.5; HoBi: Bi 0.5, Ho 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 5 |  |
-| 2048 | Congruent: L -> HoBi | L: Bi 0.5; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 6 |  |
-| 1693 | Peritectic: L + HoBi -> Ho5Bi3 | L: Bi 0.315; HoBi: Bi 0.5, Ho 0.5; Ho5Bi3: Bi 0.375, Ho 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 4 |  |
-| 1693 | Peritectic: L + HoBi -> Ho5Bi3 | L: Bi 0.31; HoBi: Bi 0.5, Ho 0.5; Ho5Bi3: Bi 0.375, Ho 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 3 |  |
+| 2048 | congruent melting: L -> HoBi | L: Bi 0.5; HoBi: Bi 0.5, Ho 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 5 |  |
+| 2048 | congruent melting: L -> HoBi | L: Bi 0.5; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 6 |  |
+| 1693 | peritectic: L + HoBi -> Ho5Bi3 | L: Bi 0.315; HoBi: Bi 0.5, Ho 0.5; Ho5Bi3: Bi 0.375, Ho 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 4 |  |
+| 1693 | peritectic: L + HoBi -> Ho5Bi3 | L: Bi 0.31; HoBi: Bi 0.5, Ho 0.5; Ho5Bi3: Bi 0.375, Ho 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 3 |  |
 | 1693 | peritectic: L + HoBi -> Ho5Bi3 |  | experimental | [1] Wang 2013 | p. 2 | “was formed by the peritectic reactions, LþHoBi2Ho5Bi3 at 1693 K.” |
-| 1428 | Eutectic: L -> Ho5Bi3 + Hcp_A3 (Ho) | L: Bi 0.18; Ho5Bi3: Bi 0.375, Ho 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 1 |  |
+| 1428 | eutectic: L -> Ho5Bi3 + Hcp_A3 (Ho) | L: Bi 0.18; Ho5Bi3: Bi 0.375, Ho 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 1 |  |
 | 1428 | eutectic: L -> Hcp_A3 (Ho) + Ho5Bi3 |  | experimental | [1] Wang 2013 | p. 2 | “There were two eutectic reactions, L2Hcp_A3 (Ho)þ Ho5Bi3 at 1428 K and L2Rhomb (Bi)þHoBi at 544 K.” |
-| 1428 | Eutectic: L -> Ho5Bi3 + Hcp_A3 (Ho) | L: Bi 0.179; Ho5Bi3: Bi 0.375, Ho 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 2 |  |
-| 544 | Eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.99; HoBi: Bi 0.5, Ho 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 7 |  |
+| 1428 | eutectic: L -> Ho5Bi3 + Hcp_A3 (Ho) | L: Bi 0.179; Ho5Bi3: Bi 0.375, Ho 0.625 | model | [1] Wang 2013 | Table 2, p. 2, row 2 |  |
+| 544 | eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.99; HoBi: Bi 0.5, Ho 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 2, p. 2, row 7 |  |
 | 544 | eutectic: L -> Rhomb (Bi) + HoBi |  | experimental | [1] Wang 2013 | p. 2 | “There were two eutectic reactions, L2Hcp_A3 (Ho)þ Ho5Bi3 at 1428 K and L2Rhomb (Bi)þHoBi at 544 K.” |
-| 543.9 | Eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.995; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8 |  |
+| 543.9 | eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.995; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8 |  |
 
 ## Other properties
 
@@ -73,7 +73,7 @@ Table: Phase transition, Bi–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2048 K | 2048 | congruent | experimental | [1] Wang 2013 | p. 2 | “The compound HoBi melted congruently at about 2048 K.” |
+| Phase transition | 2048 K | 2048 | congruent melting | experimental | [1] Wang 2013 | p. 2 | “The compound HoBi melted congruently at about 2048 K.” |
 
 ## Sources
 

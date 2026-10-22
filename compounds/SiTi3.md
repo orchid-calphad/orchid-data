@@ -1,22 +1,20 @@
 # SiTi3: enthalpy of formation
 
-> Enthalpy of formation of SiTi3: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of SiTi3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SiTi3.html · Markdown: https://data.orchid-project.org/compounds/SiTi3.md
 
-4 accepted literature formation-enthalpy value(s) (DFT 4).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SiTi3 reported in the literature (4)
+Table: Enthalpy of formation of SiTi3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -42.33 kJ/mol-atom | Ti3Si(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
-| -42.33 kJ/mol-atom | Ti3Si(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
-| -41.57 kJ/mol-atom | Ti3Si(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
 | -41.57 kJ/mol-atom | Ti3Si(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
 
 ## Sources

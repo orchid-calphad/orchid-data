@@ -93,13 +93,13 @@ Table: Mixing / partial, Co–Cr–Ga–Ni–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | 6900 J/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -60000 J/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -16000 J/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites Haddad 1999_ | Table 2, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -34000 J/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites El 1989_ | Table 2, p. 2, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -70000 J/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 2, p. 2, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -11000 J/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -31000 J/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | 6.9 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -60 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -16 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites Haddad 1999_ | Table 2, p. 2, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -34 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites El 1989_ | Table 2, p. 2, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -70 kJ/mol (basis unstated) |  | liquid | experimental | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 2, p. 2, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -11 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH (liquid)_ | -31 kJ/mol (basis unstated) |  | liquid | model | [1] Gröbner 1999 | Table 2, p. 2, row 2 |  |
 
 ## Sources
 

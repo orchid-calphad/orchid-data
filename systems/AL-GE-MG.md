@@ -26,13 +26,13 @@ Table: Invariant reactions reported in the literature for the Al–Ge–Mg syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 905.175 | saddle: L -> Mg2Ge + Al-fcc | L: Al 0.9354, Ge 0.0196, Mg 0.0449 | model | [1] Islam 2006 | Table 5, p. 10, row 5 |  |
-| 738.048 | saddle: L -> Mg17Al12 + Mg2Ge | L: Al 0.4756, Ge 0.0012, Mg 0.5231 | model | [1] Islam 2006 | Table 5, p. 10, row 7 |  |
-| 723.735 | saddle: L -> Al140Mg89 + Mg2Ge | L: Al 0.6105, Ge 3.000e-4, Mg 0.3891 | model | [1] Islam 2006 | Table 5, p. 10, row 6 |  |
-| 723.266 | E: L -> Mg2Ge + Mg17Al12 + Al140Mg89 | L: Al 0.5942, Ge 3.000e-4, Mg 0.4053 | model | [1] Islam 2006 | Table 5, p. 10, row 4 |  |
-| 722.652 | E: L -> Mg2Ge + Al140Mg89 + Al-fcc | L: Al 0.6357, Ge 2.000e-4, Mg 0.364 | model | [1] Islam 2006 | Table 5, p. 10, row 3 |  |
-| 702.405 | E: L -> Mg2Ge + Mg17Al12 + Mg-hcp | L: Al 0.3119, Ge 0.0021, Mg 0.6859 | model | [1] Islam 2006 | Table 5, p. 10, row 2 |  |
-| 692.554 | E: L -> Mg2Ge + Al-fcc + Ge-diamond | L: Al 0.6944, Ge 0.2873, Mg 0.0182 | model | [1] Islam 2006 | Table 5, p. 10, row 1 |  |
+| 905.175 | other: L -> Mg2Ge + Al-fcc | L: Al 0.9354, Ge 0.0196, Mg 0.0449 | model | [1] Islam 2006 | Table 5, p. 10, row 5 |  |
+| 738.048 | other: L -> Mg17Al12 + Mg2Ge | L: Al 0.4756, Ge 0.0012, Mg 0.5231 | model | [1] Islam 2006 | Table 5, p. 10, row 7 |  |
+| 723.735 | other: L -> Al140Mg89 + Mg2Ge | L: Al 0.6105, Ge 3.000e-4, Mg 0.3891 | model | [1] Islam 2006 | Table 5, p. 10, row 6 |  |
+| 723.266 | eutectic: L -> Mg2Ge + Mg17Al12 + Al140Mg89 | L: Al 0.5942, Ge 3.000e-4, Mg 0.4053 | model | [1] Islam 2006 | Table 5, p. 10, row 4 |  |
+| 722.652 | eutectic: L -> Mg2Ge + Al140Mg89 + Al-fcc | L: Al 0.6357, Ge 2.000e-4, Mg 0.364 | model | [1] Islam 2006 | Table 5, p. 10, row 3 |  |
+| 702.405 | eutectic: L -> Mg2Ge + Mg17Al12 + Mg-hcp | L: Al 0.3119, Ge 0.0021, Mg 0.6859 | model | [1] Islam 2006 | Table 5, p. 10, row 2 |  |
+| 692.554 | eutectic: L -> Mg2Ge + Al-fcc + Ge-diamond | L: Al 0.6944, Ge 0.2873, Mg 0.0182 | model | [1] Islam 2006 | Table 5, p. 10, row 1 |  |
 
 ## Sources
 

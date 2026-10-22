@@ -75,27 +75,27 @@ Table: Invariant reactions reported in the literature for the Co–Ho system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1703 | Peritectic: L + BCC_A1 -> HCP_A3 | L: Ho 0.98 | model | [1] Jin 2009 | Table 3, p. 4, row 1 |  |
-| 1638 | Peritectic: L + Co3Ho -> Co2Ho7 | Co3Ho: Ho 0.25; Co2Ho7: Ho 0.777778 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 16 |  |
-| 1637 | Peritectic: L + Co3Ho -> Co2Ho7 | L: Ho 0.2008; Co3Ho: Ho 0.25; Co2Ho7: Ho 0.777778 | model | [1] Jin 2009 | Table 3, p. 4, row 17 |  |
-| 1628 | Peritectic: L + Co17Ho2 -> Co5.5Ho | Co17Ho2: Ho 0.105263; Co5.5Ho: Ho 0.153846 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 20 |  |
-| 1623 | Peritectic: L + Co17Ho2 -> Co5.5Ho | L: Ho 0.1548; Co17Ho2: Ho 0.105263; Co5.5Ho: Ho 0.153846 | model | [1] Jin 2009 | Table 3, p. 4, row 21 |  |
-| 1623 | Eutectic: L -> Co17Ho2 + FCC_A1 | L: Ho 0.062; Co17Ho2: Ho 0.105263 | model | [1] Jin 2009 | Table 3, p. 4, row 27 |  |
-| 1618 | Eutectic: L -> Co7Ho2 + Co5.5Ho | L: Ho 0.1738; Co7Ho2: Ho 0.222222; Co5.5Ho: Ho 0.153846 | model | [1] Jin 2009 | Table 3, p. 4, row 19 |  |
-| 1618 | Eutectic: L -> Co17Ho2 + FCC_A1 | L: Ho 0.07; Co17Ho2: Ho 0.105263 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 26 |  |
-| 1613 | Eutectic: L -> Co7Ho2 + Co5.5Ho | L: Ho 0.19; Co7Ho2: Ho 0.222222; Co5.5Ho: Ho 0.153846 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 18 |  |
-| 1603 | Peritectic: L + Co3Ho -> Co2Ho | Co3Ho: Ho 0.25; Co2Ho: Ho 0.333333 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 12 |  |
-| 1601 | Peritectic: L + Co3Ho -> Co2Ho | L: Ho 0.3343; Co3Ho: Ho 0.25; Co2Ho: Ho 0.333333 | model | [1] Jin 2009 | Table 3, p. 4, row 13 |  |
-| 1423 | Eutectoid: Co5.5Ho -> Co7Ho2 + Co17Ho2 | Co5.5Ho: Ho 0.153846; Co7Ho2: Ho 0.222222; Co17Ho2: Ho 0.105263 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 22 |  |
-| 1423 | Eutectoid: Co5.5Ho -> Co7Ho2 + Co17Ho2 | Co5.5Ho: Ho 0.153846; Co7Ho2: Ho 0.222222; Co17Ho2: Ho 0.105263 | model | [1] Jin 2009 | Table 3, p. 4, row 23 |  |
-| 1168 | Peritectic: L + HCP_A3 -> CoHo3 | CoHo3: Ho 0.75 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 2 |  |
-| 1162 | Peritectic: L + HCP_A3 -> CoHo3 | L: Ho 0.7487; CoHo3: Ho 0.75 | model | [1] Jin 2009 | Table 3, p. 4, row 3 |  |
-| 1055 | Eutectic: L -> CoHo3 + Co7Ho12 | L: Ho 0.6322; CoHo3: Ho 0.75; Co7Ho12: Ho 0.631579 | model | [1] Jin 2009 | Table 3, p. 4, row 5 |  |
-| 1053 | Eutectic: L -> Co7Ho12 + Co2Ho | L: Ho 0.615; Co7Ho12: Ho 0.631579; Co2Ho: Ho 0.333333 | model | [1] Jin 2009 | Table 3, p. 4, row 9 |  |
-| 1048 | Eutectic: L -> Co7Ho12 + Co2Ho | L: Ho 0.6; Co7Ho12: Ho 0.631579; Co2Ho: Ho 0.333333 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 8 |  |
-| 1043 | Eutectic: L -> CoHo3 + Co7Ho12 | L: Ho 0.67; CoHo3: Ho 0.75; Co7Ho12: Ho 0.631579 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 4 |  |
-| 1028 | Peritectoid: Co7Ho12 + Co2Ho -> Co3Ho4 | Co7Ho12: Ho 0.631579; Co2Ho: Ho 0.333333; Co3Ho4: Ho 0.571429 | model | [1] Jin 2009 | Table 3, p. 4, row 11 |  |
-| 1028 | Peritectoid: Co7Ho12 + Co2Ho -> Co3Ho4 | Co7Ho12: Ho 0.631579; Co2Ho: Ho 0.333333; Co3Ho4: Ho 0.571429 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 10 |  |
+| 1703 | peritectic: L + BCC_A1 -> HCP_A3 | L: Ho 0.98 | model | [1] Jin 2009 | Table 3, p. 4, row 1 |  |
+| 1638 | peritectic: L + Co3Ho -> Co2Ho7 | Co3Ho: Ho 0.25; Co2Ho7: Ho 0.777778 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 16 |  |
+| 1637 | peritectic: L + Co3Ho -> Co2Ho7 | L: Ho 0.2008; Co3Ho: Ho 0.25; Co2Ho7: Ho 0.777778 | model | [1] Jin 2009 | Table 3, p. 4, row 17 |  |
+| 1628 | peritectic: L + Co17Ho2 -> Co5.5Ho | Co17Ho2: Ho 0.105263; Co5.5Ho: Ho 0.153846 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 20 |  |
+| 1623 | peritectic: L + Co17Ho2 -> Co5.5Ho | L: Ho 0.1548; Co17Ho2: Ho 0.105263; Co5.5Ho: Ho 0.153846 | model | [1] Jin 2009 | Table 3, p. 4, row 21 |  |
+| 1623 | eutectic: L -> Co17Ho2 + FCC_A1 | L: Ho 0.062; Co17Ho2: Ho 0.105263 | model | [1] Jin 2009 | Table 3, p. 4, row 27 |  |
+| 1618 | eutectic: L -> Co7Ho2 + Co5.5Ho | L: Ho 0.1738; Co7Ho2: Ho 0.222222; Co5.5Ho: Ho 0.153846 | model | [1] Jin 2009 | Table 3, p. 4, row 19 |  |
+| 1618 | eutectic: L -> Co17Ho2 + FCC_A1 | L: Ho 0.07; Co17Ho2: Ho 0.105263 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 26 |  |
+| 1613 | eutectic: L -> Co7Ho2 + Co5.5Ho | L: Ho 0.19; Co7Ho2: Ho 0.222222; Co5.5Ho: Ho 0.153846 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 18 |  |
+| 1603 | peritectic: L + Co3Ho -> Co2Ho | Co3Ho: Ho 0.25; Co2Ho: Ho 0.333333 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 12 |  |
+| 1601 | peritectic: L + Co3Ho -> Co2Ho | L: Ho 0.3343; Co3Ho: Ho 0.25; Co2Ho: Ho 0.333333 | model | [1] Jin 2009 | Table 3, p. 4, row 13 |  |
+| 1423 | eutectoid: Co5.5Ho -> Co7Ho2 + Co17Ho2 | Co5.5Ho: Ho 0.153846; Co7Ho2: Ho 0.222222; Co17Ho2: Ho 0.105263 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 22 |  |
+| 1423 | eutectoid: Co5.5Ho -> Co7Ho2 + Co17Ho2 | Co5.5Ho: Ho 0.153846; Co7Ho2: Ho 0.222222; Co17Ho2: Ho 0.105263 | model | [1] Jin 2009 | Table 3, p. 4, row 23 |  |
+| 1168 | peritectic: L + HCP_A3 -> CoHo3 | CoHo3: Ho 0.75 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 2 |  |
+| 1162 | peritectic: L + HCP_A3 -> CoHo3 | L: Ho 0.7487; CoHo3: Ho 0.75 | model | [1] Jin 2009 | Table 3, p. 4, row 3 |  |
+| 1055 | eutectic: L -> CoHo3 + Co7Ho12 | L: Ho 0.6322; CoHo3: Ho 0.75; Co7Ho12: Ho 0.631579 | model | [1] Jin 2009 | Table 3, p. 4, row 5 |  |
+| 1053 | eutectic: L -> Co7Ho12 + Co2Ho | L: Ho 0.615; Co7Ho12: Ho 0.631579; Co2Ho: Ho 0.333333 | model | [1] Jin 2009 | Table 3, p. 4, row 9 |  |
+| 1048 | eutectic: L -> Co7Ho12 + Co2Ho | L: Ho 0.6; Co7Ho12: Ho 0.631579; Co2Ho: Ho 0.333333 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 8 |  |
+| 1043 | eutectic: L -> CoHo3 + Co7Ho12 | L: Ho 0.67; CoHo3: Ho 0.75; Co7Ho12: Ho 0.631579 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 4 |  |
+| 1028 | peritectoid: Co7Ho12 + Co2Ho -> Co3Ho4 | Co7Ho12: Ho 0.631579; Co2Ho: Ho 0.333333; Co3Ho4: Ho 0.571429 | model | [1] Jin 2009 | Table 3, p. 4, row 11 |  |
+| 1028 | peritectoid: Co7Ho12 + Co2Ho -> Co3Ho4 | Co7Ho12: Ho 0.631579; Co2Ho: Ho 0.333333; Co3Ho4: Ho 0.571429 | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 10 |  |
 
 ## Formation enthalpies
 
@@ -117,15 +117,15 @@ Table: Phase transition, Co–Ho system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1043 K | 1043 | L ↔ CoHo3 + Co7 Ho12 | experimental | [1] Jin 2009 | p. 3 | “Note here the temperatures of two reactions, L ↔ CoHo3 + Co7 Ho12 at 1055 K and L ↔ Co7 Ho12 at 1056 K, deviate about 12 K from the corresponding measured values, 1043 K and 1068 K respectively.” |
 | Phase transition | 1055 K | 1055 | L ↔ CoHo3 + Co7 Ho12 | model | [1] Jin 2009 | p. 3 | “Note here the temperatures of two reactions, L ↔ CoHo3 + Co7 Ho12 at 1055 K and L ↔ Co7 Ho12 at 1056 K, deviate about 12 K from the corresponding measured values, 1043 K and 1068 K respectively.” |
-| Phase transition | 1056 K | 1056 | Congruent: L -> Co7Ho12; _L: Ho 0.6316; Co7Ho12: Ho 0.631579_ | model | [1] Jin 2009 | Table 3, p. 4, row 7 |  |
 | Phase transition | 1056 K | 1056 | L ↔ Co7 Ho12 | model | [1] Jin 2009 | p. 3 | “Note here the temperatures of two reactions, L ↔ CoHo3 + Co7 Ho12 at 1055 K and L ↔ Co7 Ho12 at 1056 K, deviate about 12 K from the corresponding measured values, 1043 K and 1068 K respectively.” |
-| Phase transition | 1068 K | 1068 | Congruent: L -> Co7Ho12; _L: Ho 0.631579; Co7Ho12: Ho 0.631579_ | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 6 |  |
+| Phase transition | 1056 K | 1056 | congruent melting: L -> Co7Ho12; _L: Ho 0.6316; Co7Ho12: Ho 0.631579_ | model | [1] Jin 2009 | Table 3, p. 4, row 7 |  |
 | Phase transition | 1068 K | 1068 | L ↔ Co7 Ho12 | experimental | [1] Jin 2009 | p. 3 | “Note here the temperatures of two reactions, L ↔ CoHo3 + Co7 Ho12 at 1055 K and L ↔ Co7 Ho12 at 1056 K, deviate about 12 K from the corresponding measured values, 1043 K and 1068 K respectively.” |
+| Phase transition | 1068 K | 1068 | congruent melting: L -> Co7Ho12; _L: Ho 0.631579; Co7Ho12: Ho 0.631579_ | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 6 |  |
 | Phase transition | 1423.15 K | 1423.15 | other: Co5.5 Ho -> Co7 Ho2 + Co17 Ho2 | experimental | [1] Jin 2009 | p. 1 | “Co5.5 Ho is unstable at low temperature and decomposes into Co7 Ho2 and Co17 Ho2 at about 1150 ◦ C.” |
-| Phase transition | 1643 K | 1643 | Congruent: L -> Co17Ho2; _L: Ho 0.105263; Co17Ho2: Ho 0.105263_ | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 24 |  |
-| Phase transition | 1648 K | 1648 | Congruent: L -> Co17Ho2; _L: Ho 0.1053; Co17Ho2: Ho 0.105263_ | model | [1] Jin 2009 | Table 3, p. 4, row 25 |  |
-| Phase transition | 1661 K | 1661 | Congruent: L -> Co3Ho; _L: Ho 0.25; Co3Ho: Ho 0.25_ | model | [1] Jin 2009 | Table 3, p. 4, row 15 |  |
-| Phase transition | 1663 K | 1663 | Congruent: L -> Co3Ho; _L: Ho 0.25; Co3Ho: Ho 0.25_ | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 14 |  |
+| Phase transition | 1643 K | 1643 | congruent melting: L -> Co17Ho2; _L: Ho 0.105263; Co17Ho2: Ho 0.105263_ | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 24 |  |
+| Phase transition | 1648 K | 1648 | congruent melting: L -> Co17Ho2; _L: Ho 0.1053; Co17Ho2: Ho 0.105263_ | model | [1] Jin 2009 | Table 3, p. 4, row 25 |  |
+| Phase transition | 1661 K | 1661 | congruent melting: L -> Co3Ho; _L: Ho 0.25; Co3Ho: Ho 0.25_ | model | [1] Jin 2009 | Table 3, p. 4, row 15 |  |
+| Phase transition | 1663 K | 1663 | congruent melting: L -> Co3Ho; _L: Ho 0.25; Co3Ho: Ho 0.25_ | experimental | [1] Jin 2009; _cites Buschow 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990090-3) | Table 3, p. 4, row 14 |  |
 
 ### Activity / EMF / Gibbs energy (2)
 

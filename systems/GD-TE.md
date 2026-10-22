@@ -63,8 +63,8 @@ Table: Phase transition, Gd–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1323 K | 1323 (none) | Gd2Te -> GdTe + Gd | experimental | [1] Cui 2023; _cites Herle 1864_ | p. 2 | “Herle and Corbett26 report that the Gd2Te exists stably below 1323 K and decomposes into GdTe and Gd above this temperature.” |
-| Phase transition | 2098 K | 2098 (none) | congruent | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | p. 2 | “GdTe has the highest melting point and congruently melts at 2098 K.” |
+| Phase transition | 1323 K | 1323 | Gd2Te -> GdTe + Gd | experimental | [1] Cui 2023; _cites Herle 1864_ | p. 2 | “Herle and Corbett26 report that the Gd2Te exists stably below 1323 K and decomposes into GdTe and Gd above this temperature.” |
+| Phase transition | 2098 K | 2098 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | p. 2 | “GdTe has the highest melting point and congruently melts at 2098 K.” |
 
 ## Sources
 

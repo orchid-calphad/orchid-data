@@ -1,10 +1,10 @@
 # Al–Co–Cr–Ni system
 
-> Al–Co–Cr–Ni system: 358 accepted literature values (formation 222, mixing / partial 114, crystal structure 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co–Cr–Ni system: 341 accepted literature values (formation 221, mixing / partial 98, crystal structure 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO-CR-NI.html · Markdown: https://data.orchid-project.org/systems/AL-CO-CR-NI.md
 
-358 accepted literature values from 1 paper(s) (experimental 44, model 118, DFT 196); 0 calculated phase diagram(s).
+341 accepted literature values from 1 paper(s) (experimental 43, model 118, DFT 180); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-CR-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-CR-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-CR-NI) · [Markdown](https://data.orchid-project.org/systems/AL-CO-CR-NI.md)
 
@@ -12,23 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 44 |
+| experimental | 43 |
 | model | 118 |
-| DFT | 196 |
+| DFT | 180 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 222 |
-| mixing / partial | 114 |
+| formation | 221 |
+| mixing / partial | 98 |
 | crystal structure | 22 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Co–Cr–Ni system (126)
+Table: Enthalpies of formation, Al–Co–Cr–Ni system (125)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -149,7 +149,6 @@ Table: Enthalpies of formation, Al–Co–Cr–Ni system (126)
 | σ |  | 1.736 kJ/mol-atom | 298 | DFT |  |  | [1] Liu 2016 | Table 5, p. 39, row 2 |  |
 | σ |  | 6.193 kJ/mol-atom | 298 | DFT |  |  | [1] Liu 2016 | Table 5, p. 39, row 5 |  |
 | σ |  | 6.77 per mol-atom ± 0.05 | 298.15 | experimental |  |  | [1] Liu 2016; _cites ref. 14_ | Table 5, p. 39, row 7 |  |
-| σ |  | 6.77 per mol-atom ± 0.05 | 298.15 | experimental |  |  | [1] Liu 2016; _cites ref. 14_ | Table 5, p. 39, row 7 |  |
 | σ |  | 8.339 kJ/mol-atom | 298 | DFT |  |  | [1] Liu 2016 | Table 5, p. 39, row 9 |  |
 | σ |  | 8.39 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2016; _cites ref. 88_ | Table 5, p. 39, row 6 |  |
 | σ |  | 8.981 kJ/mol-atom | 298 | DFT |  |  | [1] Liu 2016 | Table 5, p. 39, row 8 |  |
@@ -264,126 +263,110 @@ Table: Formation, Al–Co–Cr–Ni system
 | Gibbs energy of formation; _printed: ΔfG298_ | -41.9 kJ/mol-atom ± 0.2 | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | experimental | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -47.5 kJ/mol-atom ± 1.1 | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | experimental | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24 |  |
 
-### Mixing / partial (114)
+### Mixing / partial (98)
 
 Table: Mixing / partial, Al–Co–Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -23590 J/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.25, Cr 0, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 25 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 930 J/mol-atom | 0 | A2; _alloy: Al 0.75, Cr 0.25_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25820 J/mol-atom | 0 | A2; _alloy: Al 0.33, Co 0.33, Cr 0.01, Ni 0.33_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 26 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 9150 J/mol-atom | 0 | A2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -20430 J/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.5, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 24 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 1410 J/mol-atom | 0 | A2; _alloy: Al 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 11950 J/mol-atom | 0 | A2; _alloy: Al 0, Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 28 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -8990 J/mol-atom | 0 | A2; _alloy: Al 0.75, Co 0.25_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 10020 J/mol-atom | 0 | A2; _alloy: Cr 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -7460 J/mol-atom | 0 | A2; _alloy: Al 0.33, Co 0.33, Cr 0.33, Ni 0.01_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 22 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25520 J/mol-atom | 0 | A2; _alloy: Al 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 8030 J/mol-atom | 0 | A2; _alloy: Al 0, Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 29 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -6690 J/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.5, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 20 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 9590 J/mol-atom | 0 | A2; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -860 J/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.25, Cr 0.5, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 21 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 4980 J/mol-atom | 0 | A2; _alloy: Cr 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 18 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 1420 J/mol-atom | 0 | A2; _alloy: Al 0.25, Cr 0.75_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 3830 J/mol-atom | 0 | A2; _alloy: Al 0.01, Co 0.33, Cr 0.33, Ni 0.33_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 30 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -810 J/mol-atom | 0 | A2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25810 J/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.25, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -18420 J/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.75_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -31830 J/mol-atom | 0 | A2; _alloy: Al 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -39830 J/mol-atom | 0 | A2; _alloy: Al 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -370 J/mol-atom | 0 | A2; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -21580 J/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 11980 J/mol-atom | 0 | A2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 11 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 9990 J/mol-atom | 0 | A2; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 200 J/mol-atom | 0 | A2; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -9420 J/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.25, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 19 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 860 J/mol-atom | 0 | A2; _alloy: Al 0, Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 27 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 20120 J/mol-atom | 0 | B2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 25 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 10800 J/mol-atom | 0 | B2; _alloy: Al 0, Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 20 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -26940 J/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.5, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -67750 J/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -67750 J/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 11990 J/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 22 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 17620 J/mol-atom | 0 | B2; _alloy: Al 0, Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 8220 J/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.25, Cr 0.5, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -32770 J/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.25, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -27200 J/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.5, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 11990 J/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -73800 J/mol-atom | 0 | B2; _alloy: Al 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5660 J/mol-atom | 0 | B2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 27 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5660 J/mol-atom | 0 | B2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 11990 J/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 21 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -67750 J/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 11990 J/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -73800 J/mol-atom | 0 | B2; _alloy: Al 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 18 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -67750 J/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5660 J/mol-atom | 0 | B2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 19 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 5660 J/mol-atom | 0 | B2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 16020 J/mol-atom | 0 | B2; _alloy: Al 0, Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 26 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -7960 J/mol-atom | 0 | B2; _alloy: Al 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 20120 J/mol-atom | 0 | B2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 24 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -7960 J/mol-atom | 0 | B2; _alloy: Al 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -68640 J/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.25, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 11 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -33610 J/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.25, Cr 0, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -15330 J/mol-atom | 0 | γ; _alloy: Al 0.33, Co 0.33, Cr 0.33, Ni 0.01_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 22 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -27860 J/mol-atom | 0 | γ; _alloy: Al 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -22620 J/mol-atom | 0 | γ; _alloy: Al 0.33, Co 0.33, Cr 0.01, Ni 0.33_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 26 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -17130 J/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.5, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 24 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5460 J/mol-atom | 0 | γ; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 11 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -17050 J/mol-atom | 0 | γ; _alloy: Al 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -12690 J/mol-atom | 0 | γ; _alloy: Cr 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -900 J/mol-atom | 0 | γ; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5790 J/mol-atom | 0 | γ; _alloy: Cr 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 18 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -7080 J/mol-atom | 0 | γ; _alloy: Al 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -18000 J/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -3200 J/mol-atom | 0 | γ; _alloy: Al 0, Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 27 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5900 J/mol-atom | 0 | γ; _alloy: Al 0.01, Co 0.33, Cr 0.33, Ni 0.33_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 30 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -9280 J/mol-atom | 0 | γ; _alloy: Al 0.75, Co 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -480 J/mol-atom | 0 | γ; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -30540 J/mol-atom | 0 | γ; _alloy: Al 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5040 J/mol-atom | 0 | γ; _alloy: Al 0, Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 29 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -21680 J/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.25, Cr 0, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 25 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -21660 J/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.25, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -11660 J/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.25, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 19 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -6860 J/mol-atom | 0 | γ; _alloy: Al 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -11390 J/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.5, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 20 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -6860 J/mol-atom | 0 | γ; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -770 J/mol-atom | 0 | γ; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -670 J/mol-atom | 0 | γ; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -13540 J/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -8140 J/mol-atom | 0 | γ; _alloy: Al 0, Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 28 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -9030 J/mol-atom | 0 | γ; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -18060 J/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.25, Cr 0.5, Ni 0_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 21 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -2520 J/mol-atom | 0 | γ; _alloy: Al 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -20800 J/mol-atom | 0 | γ’; _alloy: Al 0.75, Co 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -18620 J/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25570 J/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.25, Cr 0.375, Ni 0_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 900 J/mol-atom | 0 | γ’; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -10030 J/mol-atom | 0 | γ’; _alloy: Cr 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 22 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -13880 J/mol-atom | 0 | γ’; _alloy: Cr 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 27 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5640 J/mol-atom | 0 | γ’; _alloy: Al 0, Co 0.25, Cr 0.375, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 20 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -19040 J/mol-atom | 0 | γ’; _alloy: Al 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -12370 J/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.375, Cr 0.375, Ni 0_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -3870 J/mol-atom | 0 | γ’; _alloy: Al 0, Co 0.375, Cr 0.25, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 23 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -18620 J/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25030 J/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.375, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 17 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -10480 J/mol-atom | 0 | γ’; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -20800 J/mol-atom | 0 | γ’; _alloy: Al 0.75, Co 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | 900 J/mol-atom | 0 | γ’; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 19 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -10480 J/mol-atom | 0 | γ’; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 21 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -940 J/mol-atom | 0 | γ’; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 18 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -940 J/mol-atom | 0 | γ’; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 25 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5040 J/mol-atom | 0 | γ’; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5040 J/mol-atom | 0 | γ’; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 24 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -12940 J/mol-atom | 0 | γ’; _alloy: Al 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -29840 J/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.375, Cr 0, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 11 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -5610 J/mol-atom | 0 | γ’; _alloy: Al 0, Co 0.375, Cr 0.375, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 26 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -14040 J/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.375, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -21150 J/mol-atom | 0 | γ’; _alloy: Al 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -42220 J/mol-atom | 0 | γ’; _alloy: Al 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -28120 J/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.25, Cr 0, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -23.59 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.25, Cr 0, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 25 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 0.93 kJ/mol-atom | 0 | A2; _alloy: Al 0.75, Cr 0.25_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.82 kJ/mol-atom | 0 | A2; _alloy: Al 0.33, Co 0.33, Cr 0.01, Ni 0.33_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 26 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.15 kJ/mol-atom | 0 | A2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -20.43 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.5, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 24 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.41 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.95 kJ/mol-atom | 0 | A2; _alloy: Al 0, Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 28 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -8.99 kJ/mol-atom | 0 | A2; _alloy: Al 0.75, Co 0.25_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 10.02 kJ/mol-atom | 0 | A2; _alloy: Cr 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -7.46 kJ/mol-atom | 0 | A2; _alloy: Al 0.33, Co 0.33, Cr 0.33, Ni 0.01_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.52 kJ/mol-atom | 0 | A2; _alloy: Al 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 8.03 kJ/mol-atom | 0 | A2; _alloy: Al 0, Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 29 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -6.69 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.5, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 20 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.59 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.86 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.25, Cr 0.5, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 21 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 4.98 kJ/mol-atom | 0 | A2; _alloy: Cr 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 18 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.42 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Cr 0.75_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 3.83 kJ/mol-atom | 0 | A2; _alloy: Al 0.01, Co 0.33, Cr 0.33, Ni 0.33_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 30 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.81 kJ/mol-atom | 0 | A2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.81 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.25, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 23 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -18.42 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.75_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -31.83 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -39.83 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.37 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 15 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.58 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.98 kJ/mol-atom | 0 | A2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.99 kJ/mol-atom | 0 | A2; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 0.2 kJ/mol-atom | 0 | A2; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -9.42 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.25, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 19 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 0.86 kJ/mol-atom | 0 | A2; _alloy: Al 0, Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 27 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 20.12 kJ/mol-atom | 0 | B2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 25 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 10.8 kJ/mol-atom | 0 | B2; _alloy: Al 0, Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 20 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -26.94 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.5, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -67.75 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.99 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 17.62 kJ/mol-atom | 0 | B2; _alloy: Al 0, Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 23 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 8.22 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.25, Cr 0.5, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -32.77 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.25, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -27.2 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.5, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.99 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -73.8 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 5.66 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 27 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -67.75 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 16.02 kJ/mol-atom | 0 | B2; _alloy: Al 0, Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 26 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -7.96 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -68.64 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.25, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -33.61 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.25, Cr 0, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -15.33 kJ/mol-atom | 0 | γ; _alloy: Al 0.33, Co 0.33, Cr 0.33, Ni 0.01_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -27.86 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -22.62 kJ/mol-atom | 0 | γ; _alloy: Al 0.33, Co 0.33, Cr 0.01, Ni 0.33_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 26 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -17.13 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.5, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 24 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.46 kJ/mol-atom | 0 | γ; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -17.05 kJ/mol-atom | 0 | γ; _alloy: Al 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -12.69 kJ/mol-atom | 0 | γ; _alloy: Cr 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.9 kJ/mol-atom | 0 | γ; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.79 kJ/mol-atom | 0 | γ; _alloy: Cr 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 18 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -7.08 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -18 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -3.2 kJ/mol-atom | 0 | γ; _alloy: Al 0, Co 0.5, Cr 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 27 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.9 kJ/mol-atom | 0 | γ; _alloy: Al 0.01, Co 0.33, Cr 0.33, Ni 0.33_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 30 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -9.28 kJ/mol-atom | 0 | γ; _alloy: Al 0.75, Co 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.48 kJ/mol-atom | 0 | γ; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -30.54 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.04 kJ/mol-atom | 0 | γ; _alloy: Al 0, Co 0.25, Cr 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 29 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.68 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.25, Cr 0, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 25 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.66 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.25, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 23 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -11.66 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.25, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 19 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -6.86 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -11.39 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.5, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 20 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -6.86 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.77 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 15 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.67 kJ/mol-atom | 0 | γ; _alloy: Co 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -13.54 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -8.14 kJ/mol-atom | 0 | γ; _alloy: Al 0, Co 0.25, Cr 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 28 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -9.03 kJ/mol-atom | 0 | γ; _alloy: Cr 0.5, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -18.06 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.25, Cr 0.5, Ni 0_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 21 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -2.52 kJ/mol-atom | 0 | γ; _alloy: Al 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -20.8 kJ/mol-atom | 0 | γ’; _alloy: Al 0.75, Co 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -18.62 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.57 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.25, Cr 0.375, Ni 0_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 0.9 kJ/mol-atom | 0 | γ’; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 15 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -10.03 kJ/mol-atom | 0 | γ’; _alloy: Cr 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -13.88 kJ/mol-atom | 0 | γ’; _alloy: Cr 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 27 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.64 kJ/mol-atom | 0 | γ’; _alloy: Al 0, Co 0.25, Cr 0.375, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 20 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -19.04 kJ/mol-atom | 0 | γ’; _alloy: Al 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -12.37 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.375, Cr 0.375, Ni 0_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -3.87 kJ/mol-atom | 0 | γ’; _alloy: Al 0, Co 0.375, Cr 0.25, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 23 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.03 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.375, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -10.48 kJ/mol-atom | 0 | γ’; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.94 kJ/mol-atom | 0 | γ’; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 18 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.04 kJ/mol-atom | 0 | γ’; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -12.94 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -29.84 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.375, Cr 0, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.61 kJ/mol-atom | 0 | γ’; _alloy: Al 0, Co 0.375, Cr 0.375, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 26 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -14.04 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.375, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.15 kJ/mol-atom | 0 | γ’; _alloy: Al 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -42.22 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -28.12 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.25, Cr 0, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 14 |  |
 
 ### Crystal structure (22)
 

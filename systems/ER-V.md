@@ -46,10 +46,10 @@ Table: Invariant reactions reported in the literature for the Er–V system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2144.15 | Monotectic: L1 -> L2 + (V) | L1: V 0.115; L2: V 0.975; (V): V 0.999 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
-| 2143.15 | Monotectic: L1 -> L2 + (V) | L1: V 0.114; L2: V 0.975; (V): V 0.999 | experimental | [1] Wang 2009; _cites ref. 29 1871_ | Table 5, p. 5, row 1 |  |
-| 1753.15 | Eutectic: L -> (Er) + (V) | L: V 0.043; (Er): V 0.004; (V): V 0.9999 | experimental | [1] Wang 2009; _cites ref. 29 1871_ | Table 5, p. 5, row 3 |  |
-| 1753.15 | Eutectic: L -> (Er) + (V) | L: V 0.045; (Er): V 0.006; (V): V 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
+| 2144.15 | monotectic: L1 -> L2 + (V) | L1: V 0.115; L2: V 0.975; (V): V 0.999 | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
+| 2143.15 | monotectic: L1 -> L2 + (V) | L1: V 0.114; L2: V 0.975; (V): V 0.999 | experimental | [1] Wang 2009; _cites ref. 29 1871_ | Table 5, p. 5, row 1 |  |
+| 1753.15 | eutectic: L -> (Er) + (V) | L: V 0.043; (Er): V 0.004; (V): V 0.9999 | experimental | [1] Wang 2009; _cites ref. 29 1871_ | Table 5, p. 5, row 3 |  |
+| 1753.15 | eutectic: L -> (Er) + (V) | L: V 0.045; (Er): V 0.006; (V): V 1 | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
 
 ## Sources
 

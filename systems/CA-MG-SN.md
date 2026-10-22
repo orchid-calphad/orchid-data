@@ -35,27 +35,27 @@ Table: Invariant reactions reported in the literature for the Ca–Mg–Sn syste
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1405.15 | other: L + Ca2-xMgxSn -> Ca5Sn3 + Ca36Sn23 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 1 |  |
-| 1393.15 | U: L + Ca5Sn3 -> Ca36Sn23 + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 2 |  |
-| 1380.15 | U: L + Ca36Sn23 -> Ca31Sn20 + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 3 |  |
-| 1262.15 | U: L + Ca31Sn20 -> Ca7Sn6 + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 4 |  |
-| 1254.15 | max: L -> CaSn + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 5 |  |
-| 1253.15 | E: L -> Ca2-xMgxSn + CaSn + Ca7Sn6 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 6 |  |
-| 1043.15 | max: L -> Ca2-xMgxSn + Mg2Sn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 7 |  |
-| 1037.15 | max: L -> Ca2-xMgxSn + Mg2Sn |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 8 |  |
-| 974.15 | max: L -> Ca2-xMgxSn + Mg2Ca |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 9 |  |
-| 973.15 | P: L + Ca2-xMgxSn + CaSn -> Ca6.2Mg3.8Sn7 |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 11 |  |
-| 964.15 | P: L + Ca2-xMgxSn + CaSn -> Ca6.2Mg3.8Sn7 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 10 |  |
-| 913.15 | max: L -> Ca2-xMgxSn + (Mg) |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 12 |  |
-| 908.15 | max: L -> Ca2-xMgxSn + (Mg) |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 13 |  |
-| 864.15 | U: L + Ca6.2Mg3.8Sn7 -> Ca2-xMgxSn + CaSn3 |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 16 |  |
-| 859.15 | U: L + CaSn -> Ca6.2Mg3.8Sn7 + CaSn3 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 14 |  |
-| 849.15 | U: L + Ca6.2Mg3.8Sn7 -> Ca2-xMgxSn + CaSn3 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 15 |  |
-| 836.15 | E: L -> (Mg) + Ca2-xMgxSn + Mg2Sn |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 18 |  |
-| 835.95 | E: L -> (Mg) + Ca2-xMgxSn + Mg2Sn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 17 |  |
-| 794.15 | E: L -> (Mg) + Mg2Ca + Ca2-xMgxSn |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 20 |  |
-| 788.15 | E: L -> (Mg) + Mg2Ca + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 19 |  |
-| 783.15 | U: L + Ca2-xMgxSn -> Mg2Sn + CaSn3 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 21 |  |
-| 718.15 | E: L -> (Ca) + Mg2Ca + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 22 |  |
+| 1393.15 | quasi-peritectic: L + Ca5Sn3 -> Ca36Sn23 + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 2 |  |
+| 1380.15 | quasi-peritectic: L + Ca36Sn23 -> Ca31Sn20 + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 3 |  |
+| 1262.15 | quasi-peritectic: L + Ca31Sn20 -> Ca7Sn6 + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 4 |  |
+| 1254.15 | other: L -> CaSn + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 5 |  |
+| 1253.15 | eutectic: L -> Ca2-xMgxSn + CaSn + Ca7Sn6 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 6 |  |
+| 1043.15 | other: L -> Ca2-xMgxSn + Mg2Sn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 7 |  |
+| 1037.15 | other: L -> Ca2-xMgxSn + Mg2Sn |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 8 |  |
+| 974.15 | other: L -> Ca2-xMgxSn + Mg2Ca |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 9 |  |
+| 973.15 | peritectic: L + Ca2-xMgxSn + CaSn -> Ca6.2Mg3.8Sn7 |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 11 |  |
+| 964.15 | peritectic: L + Ca2-xMgxSn + CaSn -> Ca6.2Mg3.8Sn7 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 10 |  |
+| 913.15 | other: L -> Ca2-xMgxSn + (Mg) |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 12 |  |
+| 908.15 | other: L -> Ca2-xMgxSn + (Mg) |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 13 |  |
+| 864.15 | quasi-peritectic: L + Ca6.2Mg3.8Sn7 -> Ca2-xMgxSn + CaSn3 |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 16 |  |
+| 859.15 | quasi-peritectic: L + CaSn -> Ca6.2Mg3.8Sn7 + CaSn3 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 14 |  |
+| 849.15 | quasi-peritectic: L + Ca6.2Mg3.8Sn7 -> Ca2-xMgxSn + CaSn3 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 15 |  |
+| 836.15 | eutectic: L -> (Mg) + Ca2-xMgxSn + Mg2Sn |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 18 |  |
+| 835.95 | eutectic: L -> (Mg) + Ca2-xMgxSn + Mg2Sn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 17 |  |
+| 794.15 | eutectic: L -> (Mg) + Mg2Ca + Ca2-xMgxSn |  | experimental | [1] Kozlov 2008 | Table 6, p. 13, row 20 |  |
+| 788.15 | eutectic: L -> (Mg) + Mg2Ca + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 19 |  |
+| 783.15 | quasi-peritectic: L + Ca2-xMgxSn -> Mg2Sn + CaSn3 |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 21 |  |
+| 718.15 | eutectic: L -> (Ca) + Mg2Ca + Ca2-xMgxSn |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 22 |  |
 | 477.15 | other: L -> CaSn3 + Mg2Sn + (Sn) |  | model | [1] Kozlov 2008 | Table 6, p. 13, row 23 |  |
 
 ## Formation enthalpies
@@ -165,50 +165,50 @@ Table: Crystal structure, Ca–Mg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.4892 Å | 13 ({'op': '\<', 'value_K': 13.0}) | (αSn); _alloy: Mg 0, Sn 1_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 5 |  |
+| Lattice a | 6.4892 Å | 13 (\<) | (αSn); _alloy: Mg 0, Sn 1_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 5 |  |
 | Lattice a | 5.8318 Å | 122.485 | (βSn); _alloy: Mg 0, Sn 1_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 4 |  |
 | Lattice a | 7.86 not_printed ± 0.02 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
 | Lattice a | 7.847 not_printed ± 0.008 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
 | Lattice a | 7.8731 not_printed ± 8.000e-4 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
-| Lattice a | 5.5884 Å | 443 ({'op': '\<', 'value_K': 443.0}) | (αCa); _alloy: Mg 0, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 2 |  |
-| Lattice a | 4.741 not_printed ± 0.002 | 630 ({'op': '\<', 'value_K': 630.0}) | CaSn3; _alloy: Mg 0, Sn 0.75_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 8 |  |
+| Lattice a | 5.5884 Å | 443 (\<) | (αCa); _alloy: Mg 0, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 2 |  |
+| Lattice a | 4.741 not_printed ± 0.002 | 630 (\<) | CaSn3; _alloy: Mg 0, Sn 0.75_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 8 |  |
 | Lattice a | 4.48 Å | 642.5 | (βCa); _alloy: Mg 0, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 1 |  |
-| Lattice a | 3.2094 Å | 650 ({'op': '\<', 'value_K': 650.0}) | (Mg); _alloy: Mg 1, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 3 |  |
-| Lattice a | 6.23 Å | 711 ({'op': '\<', 'value_K': 711.0}) | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 6 |  |
-| Lattice a | 6.251 not_printed ± 0.004 | 711 ({'op': '\<', 'value_K': 711.0}) | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 6 |  |
-| Lattice a | 6.76 not_printed ± 0.002 | 773 ({'op': '\<', 'value_K': 773.0}) | Mg2Sn; _alloy: Mg 0.666667, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 7 |  |
-| Lattice a | 6.7645 not_printed ± 3.000e-4 | 773 ({'op': '\<', 'value_K': 773.0}) | Mg2Sn; _alloy: Mg 0.666667, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 7 |  |
-| Lattice a | 7.794 not_printed ± 0.001 | 918.9 ({'op': '\<', 'value_K': 918.9}) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16 |  |
-| Lattice a | 7.867 not_printed ± 0.001 | 1000 ({'op': '\<', 'value_K': 1000.0}) | Ca7Sn6; _alloy: Mg 0, Sn 0.461538_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 10 |  |
-| Lattice a | 4.813 not_printed ± 0.002 | 1010 ({'op': '\<', 'value_K': 1010.0}) | CaSn; _alloy: Mg 0, Sn 0.5_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 9 |  |
-| Lattice a | 12.521 not_printed ± 0.002 | 1130 ({'op': '\<', 'value_K': 1130.0}) | Ca31Sn20; _alloy: Mg 0, Sn 0.392157_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 11 |  |
-| Lattice a | 12.499 not_printed ± 0.001 | 1130 ({'op': '\<', 'value_K': 1130.0}) | Ca36Sn23; _alloy: Mg 0, Sn 0.389831_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 12 |  |
-| Lattice a | 8.117 not_printed ± 0.002 | 1130 ({'op': '\<', 'value_K': 1130.0}) | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 13 |  |
-| Lattice a | 7.992 not_printed ± 0.003 | 1340 ({'op': '\<', 'value_K': 1340.0}) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
-| Lattice a | 7.981 not_printed ± 0.002 | 1340 ({'op': '\<', 'value_K': 1340.0}) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice a | 3.2094 Å | 650 (\<) | (Mg); _alloy: Mg 1, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 3 |  |
+| Lattice a | 6.23 Å | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 6 |  |
+| Lattice a | 6.251 not_printed ± 0.004 | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 6 |  |
+| Lattice a | 6.76 not_printed ± 0.002 | 773 (\<) | Mg2Sn; _alloy: Mg 0.666667, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 7 |  |
+| Lattice a | 6.7645 not_printed ± 3.000e-4 | 773 (\<) | Mg2Sn; _alloy: Mg 0.666667, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 7 |  |
+| Lattice a | 7.794 not_printed ± 0.001 | 918.9 (\<) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16 |  |
+| Lattice a | 7.867 not_printed ± 0.001 | 1000 (\<) | Ca7Sn6; _alloy: Mg 0, Sn 0.461538_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 10 |  |
+| Lattice a | 4.813 not_printed ± 0.002 | 1010 (\<) | CaSn; _alloy: Mg 0, Sn 0.5_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 9 |  |
+| Lattice a | 12.521 not_printed ± 0.002 | 1130 (\<) | Ca31Sn20; _alloy: Mg 0, Sn 0.392157_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 11 |  |
+| Lattice a | 12.499 not_printed ± 0.001 | 1130 (\<) | Ca36Sn23; _alloy: Mg 0, Sn 0.389831_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 12 |  |
+| Lattice a | 8.117 not_printed ± 0.002 | 1130 (\<) | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 13 |  |
+| Lattice a | 7.992 not_printed ± 0.003 | 1340 (\<) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice a | 7.981 not_printed ± 0.002 | 1340 (\<) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
 | Lattice b | 4.66 not_printed ± 0.02 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
 | Lattice b | 4.6941 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
 | Lattice b | 4.678 not_printed ± 0.007 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
-| Lattice b | 25.718 not_printed ± 0.004 | 918.9 ({'op': '\<', 'value_K': 918.9}) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16 |  |
-| Lattice b | 23.818 not_printed ± 0.002 | 1000 ({'op': '\<', 'value_K': 1000.0}) | Ca7Sn6; _alloy: Mg 0, Sn 0.461538_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 10 |  |
-| Lattice b | 11.544 not_printed ± 0.002 | 1010 ({'op': '\<', 'value_K': 1010.0}) | CaSn; _alloy: Mg 0, Sn 0.5_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 9 |  |
-| Lattice b | 5.043 not_printed ± 0.001 | 1340 ({'op': '\<', 'value_K': 1340.0}) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
-| Lattice b | 5.037 not_printed ± 0.003 | 1340 ({'op': '\<', 'value_K': 1340.0}) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice b | 25.718 not_printed ± 0.004 | 918.9 (\<) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16 |  |
+| Lattice b | 23.818 not_printed ± 0.002 | 1000 (\<) | Ca7Sn6; _alloy: Mg 0, Sn 0.461538_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 10 |  |
+| Lattice b | 11.544 not_printed ± 0.002 | 1010 (\<) | CaSn; _alloy: Mg 0, Sn 0.5_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 9 |  |
+| Lattice b | 5.043 not_printed ± 0.001 | 1340 (\<) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice b | 5.037 not_printed ± 0.003 | 1340 (\<) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
 | Lattice c | 3.1818 Å | 122.485 | (βSn); _alloy: Mg 0, Sn 1_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 4 |  |
 | Lattice c | 8.749 not_printed ± 0.008 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
 | Lattice c | 8.74 not_printed ± 0.02 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
 | Lattice c | 8.7538 not_printed ± 7.000e-4 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15 |  |
-| Lattice c | 5.2107 Å | 650 ({'op': '\<', 'value_K': 650.0}) | (Mg); _alloy: Mg 1, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 3 |  |
-| Lattice c | 10.141 not_printed ± 0.007 | 711 ({'op': '\<', 'value_K': 711.0}) | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 6 |  |
-| Lattice c | 10.15 Å | 711 ({'op': '\<', 'value_K': 711.0}) | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 6 |  |
-| Lattice c | 4.655 not_printed ± 0.001 | 918.9 ({'op': '\<', 'value_K': 918.9}) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16 |  |
-| Lattice c | 8.465 not_printed ± 0.001 | 1000 ({'op': '\<', 'value_K': 1000.0}) | Ca7Sn6; _alloy: Mg 0, Sn 0.461538_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 10 |  |
-| Lattice c | 4.351 not_printed ± 0.001 | 1010 ({'op': '\<', 'value_K': 1010.0}) | CaSn; _alloy: Mg 0, Sn 0.5_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 9 |  |
-| Lattice c | 39.87 not_printed ± 0.02 | 1130 ({'op': '\<', 'value_K': 1130.0}) | Ca31Sn20; _alloy: Mg 0, Sn 0.392157_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 11 |  |
-| Lattice c | 22.883 not_printed ± 0.005 | 1130 ({'op': '\<', 'value_K': 1130.0}) | Ca36Sn23; _alloy: Mg 0, Sn 0.389831_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 12 |  |
-| Lattice c | 15.429 not_printed ± 0.007 | 1130 ({'op': '\<', 'value_K': 1130.0}) | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 13 |  |
-| Lattice c | 9.566 not_printed ± 0.002 | 1340 ({'op': '\<', 'value_K': 1340.0}) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
-| Lattice c | 9.554 not_printed ± 0.005 | 1340 ({'op': '\<', 'value_K': 1340.0}) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice c | 5.2107 Å | 650 (\<) | (Mg); _alloy: Mg 1, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 3 |  |
+| Lattice c | 10.141 not_printed ± 0.007 | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 6 |  |
+| Lattice c | 10.15 Å | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 6 |  |
+| Lattice c | 4.655 not_printed ± 0.001 | 918.9 (\<) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16 |  |
+| Lattice c | 8.465 not_printed ± 0.001 | 1000 (\<) | Ca7Sn6; _alloy: Mg 0, Sn 0.461538_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 10 |  |
+| Lattice c | 4.351 not_printed ± 0.001 | 1010 (\<) | CaSn; _alloy: Mg 0, Sn 0.5_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 9 |  |
+| Lattice c | 39.87 not_printed ± 0.02 | 1130 (\<) | Ca31Sn20; _alloy: Mg 0, Sn 0.392157_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 11 |  |
+| Lattice c | 22.883 not_printed ± 0.005 | 1130 (\<) | Ca36Sn23; _alloy: Mg 0, Sn 0.389831_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 12 |  |
+| Lattice c | 15.429 not_printed ± 0.007 | 1130 (\<) | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 13 |  |
+| Lattice c | 9.566 not_printed ± 0.002 | 1340 (\<) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice c | 9.554 not_printed ± 0.005 | 1340 (\<) | Ca2Sn; _alloy: Mg 0, Sn 0.333333_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 14 |  |
 
 ## Sources
 

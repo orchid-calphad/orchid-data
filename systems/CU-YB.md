@@ -63,22 +63,22 @@ Table: Invariant reactions reported in the literature for the Cu–Yb system (16
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1210 | Congruent: L -> Cu9Yb2 | L: Cu 0.8182; Cu9Yb2: Cu 0.818182, Yb 0.181818 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 12 |  |
-| 1195 | Congruent: L -> Cu9Yb2 | L: Cu 0.8182; Cu9Yb2: Cu 0.818182, Yb 0.181818 | model | [1] Zhang 2007 | Table 4, p. 5, row 11 |  |
-| 1151 | Peritectic: L + Cu9Yb2 -> Cu5Yb | L: Cu 0.8874; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu5Yb: Cu 0.833333, Yb 0.166667 | model | [1] Zhang 2007 | Table 4, p. 5, row 13 |  |
-| 1150 | Peritectic: L + Cu9Yb2 -> Cu5Yb | L: Cu 0.88; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu5Yb: Cu 0.833333, Yb 0.166667 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 14 |  |
-| 1139 | Eutectic: L -> FCC(Cu) + Cu5Yb | L: Cu 0.8981; Cu5Yb: Cu 0.833333, Yb 0.166667 | model | [1] Zhang 2007 | Table 4, p. 5, row 15 |  |
-| 1132 | Eutectic: L -> FCC(Cu) + Cu5Yb | L: Cu 0.9; Cu5Yb: Cu 0.833333, Yb 0.166667 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 16 |  |
-| 1098 | Peritectic: L + Cu9Yb2 -> Cu7Yb2 | L: Cu 0.6839; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu7Yb2: Cu 0.777778, Yb 0.222222 | model | [1] Zhang 2007 | Table 4, p. 5, row 9 |  |
-| 1098 | Peritectic: L + Cu9Yb2 -> Cu7Yb2 | L: Cu 0.7; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu7Yb2: Cu 0.777778, Yb 0.222222 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 10 |  |
-| 1033 | Allotropic: BCC(Yb) -> FCC(Yb) |  | unspecified | [1] Zhang 2007; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 2 |  |
-| 1033 | Allotropic: BCC(Yb) -> FCC(Yb) | L: Cu 0 | model | [1] Zhang 2007 | Table 4, p. 5, row 1 |  |
-| 1030 | Peritectic: L + Cu7Yb2 -> Cu2Yb | L: Cu 0.64; Cu7Yb2: Cu 0.777778, Yb 0.222222; Cu2Yb: Cu 0.666667, Yb 0.333333 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 8 |  |
-| 1028 | Peritectic: L + Cu7Yb2 -> Cu2Yb | L: Cu 0.6208; Cu7Yb2: Cu 0.777778, Yb 0.222222; Cu2Yb: Cu 0.666667, Yb 0.333333 | model | [1] Zhang 2007 | Table 4, p. 5, row 7 |  |
-| 901 | Peritectic: L + Cu2Yb -> CuYb | L: Cu 0.49; Cu2Yb: Cu 0.666667, Yb 0.333333; CuYb: Cu 0.5, Yb 0.5 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 6 |  |
-| 901 | Peritectic: L + Cu2Yb -> CuYb | L: Cu 0.4739; Cu2Yb: Cu 0.666667, Yb 0.333333; CuYb: Cu 0.5, Yb 0.5 | model | [1] Zhang 2007 | Table 4, p. 5, row 5 |  |
-| 750 | Eutectic: L -> FCC(Yb) + CuYb | L: Cu 0.255; CuYb: Cu 0.5, Yb 0.5 | model | [1] Zhang 2007 | Table 4, p. 5, row 3 |  |
-| 745 | Eutectic: L -> FCC(Yb) + CuYb | L: Cu 0.265; CuYb: Cu 0.5, Yb 0.5 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 4 |  |
+| 1210 | congruent melting: L -> Cu9Yb2 | L: Cu 0.8182; Cu9Yb2: Cu 0.818182, Yb 0.181818 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 12 |  |
+| 1195 | congruent melting: L -> Cu9Yb2 | L: Cu 0.8182; Cu9Yb2: Cu 0.818182, Yb 0.181818 | model | [1] Zhang 2007 | Table 4, p. 5, row 11 |  |
+| 1151 | peritectic: L + Cu9Yb2 -> Cu5Yb | L: Cu 0.8874; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu5Yb: Cu 0.833333, Yb 0.166667 | model | [1] Zhang 2007 | Table 4, p. 5, row 13 |  |
+| 1150 | peritectic: L + Cu9Yb2 -> Cu5Yb | L: Cu 0.88; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu5Yb: Cu 0.833333, Yb 0.166667 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 14 |  |
+| 1139 | eutectic: L -> FCC(Cu) + Cu5Yb | L: Cu 0.8981; Cu5Yb: Cu 0.833333, Yb 0.166667 | model | [1] Zhang 2007 | Table 4, p. 5, row 15 |  |
+| 1132 | eutectic: L -> FCC(Cu) + Cu5Yb | L: Cu 0.9; Cu5Yb: Cu 0.833333, Yb 0.166667 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 16 |  |
+| 1098 | peritectic: L + Cu9Yb2 -> Cu7Yb2 | L: Cu 0.6839; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu7Yb2: Cu 0.777778, Yb 0.222222 | model | [1] Zhang 2007 | Table 4, p. 5, row 9 |  |
+| 1098 | peritectic: L + Cu9Yb2 -> Cu7Yb2 | L: Cu 0.7; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu7Yb2: Cu 0.777778, Yb 0.222222 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 10 |  |
+| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | unspecified | [1] Zhang 2007; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 2 |  |
+| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) | L: Cu 0 | model | [1] Zhang 2007 | Table 4, p. 5, row 1 |  |
+| 1030 | peritectic: L + Cu7Yb2 -> Cu2Yb | L: Cu 0.64; Cu7Yb2: Cu 0.777778, Yb 0.222222; Cu2Yb: Cu 0.666667, Yb 0.333333 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 8 |  |
+| 1028 | peritectic: L + Cu7Yb2 -> Cu2Yb | L: Cu 0.6208; Cu7Yb2: Cu 0.777778, Yb 0.222222; Cu2Yb: Cu 0.666667, Yb 0.333333 | model | [1] Zhang 2007 | Table 4, p. 5, row 7 |  |
+| 901 | peritectic: L + Cu2Yb -> CuYb | L: Cu 0.49; Cu2Yb: Cu 0.666667, Yb 0.333333; CuYb: Cu 0.5, Yb 0.5 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 6 |  |
+| 901 | peritectic: L + Cu2Yb -> CuYb | L: Cu 0.4739; Cu2Yb: Cu 0.666667, Yb 0.333333; CuYb: Cu 0.5, Yb 0.5 | model | [1] Zhang 2007 | Table 4, p. 5, row 5 |  |
+| 750 | eutectic: L -> FCC(Yb) + CuYb | L: Cu 0.255; CuYb: Cu 0.5, Yb 0.5 | model | [1] Zhang 2007 | Table 4, p. 5, row 3 |  |
+| 745 | eutectic: L -> FCC(Yb) + CuYb | L: Cu 0.265; CuYb: Cu 0.5, Yb 0.5 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 4 |  |
 
 ## Other properties
 
@@ -93,7 +93,7 @@ Table: Phase transition, Cu–Yb system
 | Phase transition | 1098.15 K | 1098.15 |  | experimental | [1] Zhang 2007; _cites Palenzona 1967_ | p. 2 | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
 | Phase transition | 1152.15 K | 1152.15 |  | experimental | [1] Zhang 2007; _cites Palenzona 1967_ | p. 2 | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
 | Phase transition | 1210 K | 1210 |  | experimental | [1] Zhang 2007 | p. 4 | “This reaction temperature, which is 1210 K, cannot be thermodynamically reproduced well despite great care taken in optimization, the phase equilibria measurements about this region need further clarification.” |
-| Phase transition | 1210.15 K | 1210.15 | congruent | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | p. 2 | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
+| Phase transition | 1210.15 K | 1210.15 | congruent transformation | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | p. 2 | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
 
 ## Sources
 

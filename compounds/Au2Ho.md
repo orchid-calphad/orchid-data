@@ -1,24 +1,21 @@
 # Au2Ho: enthalpy of formation
 
-> Enthalpy of formation of Au2Ho: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Au2Ho: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Au2Ho.html · Markdown: https://data.orchid-project.org/compounds/Au2Ho.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 2); experimental median -84.6 kJ/mol-atom (n = 2); Materials Project -84.473 kJ/mol-atom (mp-aaaaabmc); OQMD -84.636 kJ/mol-atom (oqmd-1895423).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -84.6 kJ/mol-atom (n = 1); Materials Project -84.473 kJ/mol-atom (mp-aaaaabmc); OQMD -84.636 kJ/mol-atom (oqmd-1895423).
 
 Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Au2Ho reported in the literature (6)
+Table: Enthalpy of formation of Au2Ho reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -84.6 kJ/mol-atom ± 1.4 | Au2Ho | 298 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 18 |  |
-| -84.6 kJ/mol-atom ± 1.4 | Au2Ho | 298 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 18 |  |
 | -81.3 kJ/mol-atom | Au2Ho | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 19 |  |
-| -81.3 kJ/mol-atom | Au2Ho | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 19 |  |
-| -85.4 kJ/mol-atom | Au2Ho | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 17 |  |
 | -85.4 kJ/mol-atom | Au2Ho | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 17 |  |
 
 ## DFT formation energies

@@ -1,10 +1,10 @@
 # Cu–Li–Mg system
 
-> Cu–Li–Mg system: 51 accepted literature values (phase equilibrium 51) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Li–Mg system: 50 accepted literature values (phase equilibrium 50) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-LI-MG.html · Markdown: https://data.orchid-project.org/systems/CU-LI-MG.md
 
-51 accepted literature values from 1 paper(s) (experimental 51); 0 calculated phase diagram(s).
+50 accepted literature values from 1 paper(s) (experimental 50); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-LI-MG.json) · [CSV](https://data.orchid-project.org/systems/CU-LI-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-LI-MG) · [Markdown](https://data.orchid-project.org/systems/CU-LI-MG.md)
 
@@ -12,24 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 51 |
+| experimental | 50 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase equilibrium | 51 |
+| phase equilibrium | 50 |
 
 ## Other properties
 
-### Phase equilibrium (51)
+### Phase equilibrium (50)
 
 Table: Phase equilibrium, Cu–Li–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase assemblage |  | 298.15 | Cu2Mg + CuMg2; _alloy: Cu 0.589, Li 0, Mg 0.411_ | experimental | [1] Braga 2000 | Table 1, p. 3, row 51 |  |
-| Phase assemblage |  | 298.15 | Cu2Mg + CuMg2; _alloy: Cu 0.589, Li 0, Mg 0.411_ | experimental | [1] Braga 2000 | Table 1, p. 3, row 50 |  |
 | Phase assemblage |  | 298.15 | Cu2Mg + X; _alloy: Cu 0.477, Li 0.03, Mg 0.493_ | experimental | [1] Braga 2000 | Table 1, p. 3, row 8 |  |
 | Phase assemblage |  | 298.15 | Cu2Mg + X; _alloy: Cu 0.477, Li 0.03, Mg 0.493_ | experimental | [1] Braga 2000 | Table 1, p. 3, row 7 |  |
 | Phase assemblage |  | 298.15 | Cu2Mg + X + CuMg2; _alloy: Cu 0.363, Li 0.06, Mg 0.577_ | experimental | [1] Braga 2000 | Table 1, p. 3, row 47 |  |

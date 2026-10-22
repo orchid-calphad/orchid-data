@@ -72,17 +72,17 @@ Table: Invariant reactions reported in the literature for the Mn–Pr system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1064.15 | Peritectic: αMn + L -> Mn23Pr6 | αMn: Pr 0; L: Pr 0.625; Mn23Pr6: Pr 0.207 | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
+| 1064.15 | peritectic: αMn + L -> Mn23Pr6 | αMn: Pr 0; L: Pr 0.625; Mn23Pr6: Pr 0.207 | model | [1] Wang 2009 | Table 5, p. 5, row 6 |  |
 | 1063.15 | peritectic: ␣Mn + L ↔ Mn23 Pr6 |  | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3 | “Saccone et al. \[14\] obtained the evidence of the peritectic formation of the Mn23 Pr6 compound (␣Mn + L ↔ Mn23 Pr6 , at 790 ◦ C) and its decomposition (Mn23 Pr6 ↔ ␣Mn + ␣Pr, at about 650 ◦ C) in the stable diagram, and also confirmed the disappearance of the Mn2 Pr compound using microprobe and X-ray analyses.” |
-| 1063.15 | Peritectic: αMn + L -> Mn23Pr6 | αMn: Pr 0; L: Pr 0.629; Mn23Pr6: Pr 0.207 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 5 |  |
+| 1063.15 | peritectic: αMn + L -> Mn23Pr6 | αMn: Pr 0; L: Pr 0.629; Mn23Pr6: Pr 0.207 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 5 |  |
 | 1063 | peritectic: L þ cubMn ↔ Mn23Pr6 |  | experimental | [2] Ye 2024; _cites Saccone 1985_ | p. 4 | “It was found that Mn23Pr6 was formed by a peritectic reaction (L þ cubMn ↔ Mn23Pr6 at 1063 K) and was decomposed at 923 K.” |
-| 938.15 | Catatectic: βPr -> L + αPr | βPr: Pr 0.915; L: Pr 0.758; αPr: Pr 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 11 |  |
-| 936.15 | Catatectic: βPr -> L + αPr | βPr: Pr 0.923; L: Pr 0.76; αPr: Pr 0.99 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
-| 933.15 | Eutectic: L -> Mn23Pr6 + αPr | L: Pr 0.25; Mn23Pr6: Pr 0.207; αPr: Pr 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 7 |  |
+| 938.15 | metatectic/catatectic: βPr -> L + αPr | βPr: Pr 0.915; L: Pr 0.758; αPr: Pr 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 11 |  |
+| 936.15 | metatectic/catatectic: βPr -> L + αPr | βPr: Pr 0.923; L: Pr 0.76; αPr: Pr 0.99 | model | [1] Wang 2009 | Table 5, p. 5, row 12 |  |
+| 933.15 | eutectic: L -> Mn23Pr6 + αPr | L: Pr 0.25; Mn23Pr6: Pr 0.207; αPr: Pr 0.989 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 7 |  |
 | 933.15 | eutectic: L ↔ Mn23 Pr6 + ␣Pr |  | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3 | “In Saccone's work \[14\], the eutectic reaction (L ↔ Mn23 Pr6 + ␣Pr, at 660 ◦ C, 25 at.% Mn) and the catatectic reaction (␤Pr ↔ L + ␣Pr, at 665 ◦ C) were determined, and the largest solid solubilities of Mn at the catatectic temperature (665 ◦ C) were estimated to be 6 at.% in ␣Pr, as such 1-2 at.% in ␤Pr.” |
-| 933.15 | Eutectic: L -> Mn23Pr6 + αPr | L: Pr 0.25; Mn23Pr6: Pr 0.207; αPr: Pr 0.992 | model | [1] Wang 2009 | Table 5, p. 5, row 8 |  |
-| 923.15 | Eutectoid: Mn23Pr6 -> αMn + αPr | Mn23Pr6: Pr 0.207; αMn: Pr 0; αPr: Pr 0.99 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
-| 923.15 | Eutectoid: Mn23Pr6 -> αMn + αPr | Mn23Pr6: Pr 0.207; αMn: Pr 0; αPr: Pr 0.991 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 9 |  |
+| 933.15 | eutectic: L -> Mn23Pr6 + αPr | L: Pr 0.25; Mn23Pr6: Pr 0.207; αPr: Pr 0.992 | model | [1] Wang 2009 | Table 5, p. 5, row 8 |  |
+| 923.15 | eutectoid: Mn23Pr6 -> αMn + αPr | Mn23Pr6: Pr 0.207; αMn: Pr 0; αPr: Pr 0.99 | model | [1] Wang 2009 | Table 5, p. 5, row 10 |  |
+| 923.15 | eutectoid: Mn23Pr6 -> αMn + αPr | Mn23Pr6: Pr 0.207; αMn: Pr 0; αPr: Pr 0.991 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 9 |  |
 
 ## Other properties
 
@@ -94,10 +94,10 @@ Table: Phase transition, Mn–Pr system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 923 K | 923 |  | experimental | [2] Ye 2024; _cites Saccone 1985_ | p. 4 | “It was found that Mn23Pr6 was formed by a peritectic reaction (L þ cubMn ↔ Mn23Pr6 at 1063 K) and was decomposed at 923 K.” |
 | Phase transition | 923.15 K | 923.15 | other: Mn23 Pr6 ↔ ␣Mn + ␣Pr | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3 | “Saccone et al. \[14\] obtained the evidence of the peritectic formation of the Mn23 Pr6 compound (␣Mn + L ↔ Mn23 Pr6 , at 790 ◦ C) and its decomposition (Mn23 Pr6 ↔ ␣Mn + ␣Pr, at about 650 ◦ C) in the stable diagram, and also confirmed the disappearance of the Mn2 Pr compound using microprobe and X-ray analyses.” |
-| Phase transition | 1360.15 K | 1360.15 | Allotropic: γMn -> βMn; _γMn: Pr 0; βMn: Pr 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
-| Phase transition | 1373.15 K | 1373.15 | Allotropic: γMn -> βMn; _γMn: Pr 0; βMn: Pr 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 3 |  |
-| Phase transition | 1405.15 K | 1405.15 | Allotropic: δMn -> γMn; _δMn: Pr 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
-| Phase transition | 1411.15 K | 1411.15 | Allotropic: δMn -> γMn; _δMn: Pr 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 1 |  |
+| Phase transition | 1360.15 K | 1360.15 | polymorphic: γMn -> βMn; _γMn: Pr 0; βMn: Pr 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
+| Phase transition | 1373.15 K | 1373.15 | polymorphic: γMn -> βMn; _γMn: Pr 0; βMn: Pr 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 3 |  |
+| Phase transition | 1405.15 K | 1405.15 | polymorphic: δMn -> γMn; _δMn: Pr 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
+| Phase transition | 1411.15 K | 1411.15 | polymorphic: δMn -> γMn; _δMn: Pr 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 1 |  |
 
 ## Sources
 

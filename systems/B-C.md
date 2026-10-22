@@ -64,11 +64,11 @@ Table: Invariant reactions reported in the literature for the B–C system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2663.4 | Eutectic: Liquid -> B4C + graphite | Liquid: C 0.292; B4C: C 0.195; graphite: C 0.977 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 1 |  |
+| 2663.4 | eutectic: Liquid -> B4C + graphite | Liquid: C 0.292; B4C: C 0.195; graphite: C 0.977 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 1 |  |
 | 2648 | Liquid -> B4+xC + Graphite | Liquid: C 0.29; B4+xC: C 0.188 | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 3 |  |
 | 2648 | Liquid -> B4+xC + Graphite | Liquid: C 0.29; B4+xC: C 0.199 | experimental | [2] Saengdeejing 2012; _cites Elliott 1961_ | Table 5, p. 7, row 4 |  |
 | 2408 | Liquid + B4+xC -> β-boron | Liquid: C 9.000e-4; B4+xC: C 0.089 | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 5 |  |
-| 2375.9 | Peritectic: Liquid + B4C -> β-rhombo-B | Liquid: C 0.0056; B4C: C 0.099; β-rhombo-B: C 0.01 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 2 |  |
+| 2375.9 | peritectic: Liquid + B4C -> β-rhombo-B | Liquid: C 0.0056; B4C: C 0.099; β-rhombo-B: C 0.01 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 2 |  |
 | 2348 | Liquid + B4+xC -> β-boron | Liquid: C 0.001; B4+xC: C 0.095 | experimental | [2] Saengdeejing 2012; _cites Elliott 1961_ | Table 5, p. 7, row 6 |  |
 
 ## Other properties
@@ -86,8 +86,8 @@ Table: Phase transition, B–C system
 | Phase transition | 2445 K | 2445 | C + B | model | [3] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
 | Phase transition | 2720 K | 2720 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 1 |  |
 | Phase transition | 2723 K | 2723 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | Table 5, p. 7, row 2 |  |
-| Phase transition | 2723 K | 2723 | congruent | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | p. 2 | “Beauvy \[15\] reported 21.6 ± 0.8 at.% C solubility at the C-rich end and the congruent melting point of B4+xC to be about 18.2 at.% C at 2723 K.” |
-| Phase transition | 2725.3 K | 2725.3 | Congruent: B4C -> Liquid; _B4C: C 0.184; Liquid: C 0.184_ | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 3 |  |
+| Phase transition | 2723 K | 2723 | congruent transformation | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | p. 2 | “Beauvy \[15\] reported 21.6 ± 0.8 at.% C solubility at the C-rich end and the congruent melting point of B4+xC to be about 18.2 at.% C at 2723 K.” |
+| Phase transition | 2725.3 K | 2725.3 | congruent melting: B4C -> Liquid; _B4C: C 0.184; Liquid: C 0.184_ | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 3 |  |
 
 ## Sources
 

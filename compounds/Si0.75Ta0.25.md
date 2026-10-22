@@ -1,20 +1,19 @@
 # Si0.75Ta0.25: enthalpy of formation
 
-> Enthalpy of formation of Si0.75Ta0.25: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Si0.75Ta0.25: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Si0.75Ta0.25.html · Markdown: https://data.orchid-project.org/compounds/Si0.75Ta0.25.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); OQMD 4.527 kJ/mol-atom (oqmd-2031407).
+1 accepted literature formation-enthalpy value(s) (model 1); OQMD 4.527 kJ/mol-atom (oqmd-2031407).
 
 Systems: [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Si0.75Ta0.25 reported in the literature (2)
+Table: Enthalpy of formation of Si0.75Ta0.25 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39 kJ/mol-atom | Si0.75Ta0.25 | 298.15 | model | Prediction | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 1 |  |
 | -39 kJ/mol-atom | Si0.75Ta0.25 | 298.15 | model | Prediction | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 1 |  |
 
 ## DFT formation energies

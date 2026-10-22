@@ -31,34 +31,34 @@ Table: Invariant reactions reported in the literature for the C–S system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3096.4 | Peritectic: Liquid + graphite -> SiC | Liquid: S 0.174; graphite: S 1; SiC: S 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 149, row 2 |  |
+| 3096.4 | peritectic: Liquid + graphite -> SiC | Liquid: S 0.174; graphite: S 1; SiC: S 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 149, row 2 |  |
 | 2430 | peritectic: Liquid + CaO -> Ca3SiO5 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 13 |  |
 | 2423 | peritectic: Liquid + CaO -> Ca3SiO5 |  | experimental | [2] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 14 |  |
-| 2403 | congruent: α-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Rankin 1915_ [doi](https://doi.org/10.2475/ajs.s4-39.229.1) | Table 9, p. 9, row 24 |  |
-| 2371 | congruent: α-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 23 |  |
+| 2403 | congruent melting: α-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Rankin 1915_ [doi](https://doi.org/10.2475/ajs.s4-39.229.1) | Table 9, p. 9, row 24 |  |
+| 2371 | congruent melting: α-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 23 |  |
 | 2323 | eutectic: Liquid -> Ca3SiO5 + α-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 16 |  |
 | 2300 | eutectic: Liquid -> Ca3SiO5 + α-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 15 |  |
-| 1840 | congruent: cyclo-CaSiO3 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 25 |  |
-| 1817 | congruent: cyclo-CaSiO3 |  | experimental | [2] Abdul 2023 | Table 9, p. 9, row 26 |  |
+| 1840 | congruent melting: cyclo-CaSiO3 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 25 |  |
+| 1817 | congruent melting: cyclo-CaSiO3 |  | experimental | [2] Abdul 2023 | Table 9, p. 9, row 26 |  |
 | 1741 | peritectic: Liquid + α-Ca2SiO4 -> Ca3Si2O7 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 17 |  |
 | 1737 | peritectic: Liquid + α-Ca2SiO4 -> Ca3Si2O7 |  | experimental | [2] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 18 |  |
 | 1734 | eutectic: Liquid -> Ca3Si2O7 + CaSiO3 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 19 |  |
 | 1733 | eutectic: Liquid -> Ca3Si2O7 + CaSiO3 |  | experimental | [2] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 20 |  |
-| 1710 | transition: α′-Ca2SiO4 -> α-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 5 |  |
-| 1710 | transition: α′-Ca2SiO4 -> α-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 6 |  |
+| 1710 | other: α′-Ca2SiO4 -> α-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 5 |  |
+| 1710 | other: α′-Ca2SiO4 -> α-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 6 |  |
 | 1709 | eutectic: Liquid -> SiO2 + CaSiO3 |  | experimental | [2] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 22 |  |
 | 1700 | eutectic: Liquid -> SiO2 + CaSiO3 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 21 |  |
-| 1687 | Degenerate: Liquid -> diamond + SiC | Liquid: S 0; diamond: S 0; SiC: S 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 149, row 1 |  |
-| 1398 | transition: Wollastonite -> cyclo-CaSiO3 |  | experimental | [2] Abdul 2023; _cites Voronko 2002_ | Table 9, p. 9, row 8 |  |
-| 1397 | transition: Wollastonite -> cyclo-CaSiO3 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 7 |  |
-| 1323 | transition: Monoclinic -> rhombohedral-Ca3SiO5 |  | experimental | [2] Abdul 2023; _cites Bigare_ | Table 9, p. 9, row 12 |  |
-| 1317 | transition: Monoclinic -> rhombohedral-Ca3SiO5 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 11 |  |
-| 1254 | transition: Triclinic -> monoclinic-Ca3SiO5 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 9 |  |
-| 1253 | transition: Triclinic -> monoclinic-Ca3SiO5 |  | experimental | [2] Abdul 2023; _cites Bigare_ | Table 9, p. 9, row 10 |  |
-| 1120 | transition: γ-Ca2SiO4 -> α′-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 1 |  |
-| 1120 | transition: γ-Ca2SiO4 -> α′-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 2 |  |
-| 970 | transition: β-Ca2SiO4 -> α′-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 3 |  |
-| 970 | transition: β-Ca2SiO4 -> α′-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 4 |  |
+| 1687 | other: Liquid -> diamond + SiC | Liquid: S 0; diamond: S 0; SiC: S 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 149, row 1 |  |
+| 1398 | other: Wollastonite -> cyclo-CaSiO3 |  | experimental | [2] Abdul 2023; _cites Voronko 2002_ | Table 9, p. 9, row 8 |  |
+| 1397 | other: Wollastonite -> cyclo-CaSiO3 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 7 |  |
+| 1323 | other: Monoclinic -> rhombohedral-Ca3SiO5 |  | experimental | [2] Abdul 2023; _cites Bigare_ | Table 9, p. 9, row 12 |  |
+| 1317 | other: Monoclinic -> rhombohedral-Ca3SiO5 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 11 |  |
+| 1254 | other: Triclinic -> monoclinic-Ca3SiO5 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 9 |  |
+| 1253 | other: Triclinic -> monoclinic-Ca3SiO5 |  | experimental | [2] Abdul 2023; _cites Bigare_ | Table 9, p. 9, row 10 |  |
+| 1120 | other: γ-Ca2SiO4 -> α′-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 1 |  |
+| 1120 | other: γ-Ca2SiO4 -> α′-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 2 |  |
+| 970 | other: β-Ca2SiO4 -> α′-Ca2SiO4 |  | model | [2] Abdul 2023 | Table 9, p. 9, row 3 |  |
+| 970 | other: β-Ca2SiO4 -> α′-Ca2SiO4 |  | experimental | [2] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 4 |  |
 
 ## Formation enthalpies
 

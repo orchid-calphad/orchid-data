@@ -65,17 +65,17 @@ Table: Invariant reactions reported in the literature for the Fe–Pb system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 4277.13 | Critical: L1 + L2 -> bcc + L2 | L1: Pb 0.496 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 2 |  |
-| 4270 | Critical: L1 + L2 -> bcc + L2 |  | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 1 |  |
-| 1809.7 | Monotectic: bcc + L2 -> fcc + L2 | L2: Pb 0.9938; L1: Pb 6.370e-4 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 4 |  |
-| 1809.59 | Monotectic: bcc + L2 -> fcc + L2 | bcc: Pb 1.000e-5; L2: Pb 0.9943; L1: Pb 7.100e-4 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 5 |  |
-| 1808.98 | Monotectic: bcc + L2 -> fcc + L2 | bcc: Pb 0; L2: Pb 0.9916; L1: Pb 0.001 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 3 |  |
-| 1667.7 | Allotropic: bcc + L2 -> fcc + L2 | L2: Pb 0.9965 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 7 |  |
-| 1667.47 | Allotropic: bcc + L2 -> fcc + L2 | bcc: Pb 0; L2: Pb 0.9949 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 6 |  |
-| 1667.47 | Allotropic: bcc + L2 -> fcc + L2 | bcc: Pb 1.000e-5; L2: Pb 0.99671 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 8 |  |
-| 1184.81 | Allotropic: fcc + L2 -> bcc + L2 | fcc: Pb 0; L2: Pb 0.9996 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 9 |  |
-| 1184.8 | Allotropic: fcc + L2 -> bcc + L2 | fcc: Pb 1.000e-5; L2: Pb 0.99981 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 11 |  |
-| 1184.8 | Allotropic: fcc + L2 -> bcc + L2 | L2: Pb 0.9998 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 10 |  |
+| 4277.13 | critical point: L1 + L2 -> bcc + L2 | L1: Pb 0.496 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 2 |  |
+| 4270 | critical point: L1 + L2 -> bcc + L2 |  | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 1 |  |
+| 1809.7 | monotectic: bcc + L2 -> fcc + L2 | L2: Pb 0.9938; L1: Pb 6.370e-4 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 4 |  |
+| 1809.59 | monotectic: bcc + L2 -> fcc + L2 | bcc: Pb 1.000e-5; L2: Pb 0.9943; L1: Pb 7.100e-4 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 5 |  |
+| 1808.98 | monotectic: bcc + L2 -> fcc + L2 | bcc: Pb 0; L2: Pb 0.9916; L1: Pb 0.001 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 3 |  |
+| 1667.7 | polymorphic: bcc + L2 -> fcc + L2 | L2: Pb 0.9965 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 7 |  |
+| 1667.47 | polymorphic: bcc + L2 -> fcc + L2 | bcc: Pb 0; L2: Pb 0.9949 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 6 |  |
+| 1667.47 | polymorphic: bcc + L2 -> fcc + L2 | bcc: Pb 1.000e-5; L2: Pb 0.99671 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 8 |  |
+| 1184.81 | polymorphic: fcc + L2 -> bcc + L2 | fcc: Pb 0; L2: Pb 0.9996 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 9 |  |
+| 1184.8 | polymorphic: fcc + L2 -> bcc + L2 | fcc: Pb 1.000e-5; L2: Pb 0.99981 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 11 |  |
+| 1184.8 | polymorphic: fcc + L2 -> bcc + L2 | L2: Pb 0.9998 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 10 |  |
 | 600.6 | eutectic |  | model | [1] Vaajamo 2011 | p. 5 | “The assessed monotectic temperature of 1809.6 K, the monotectic composition of 0.071 at.% Pb, the allotropic transformation temperatures, 1667.5 K and 1184.8 K, and the eutectic temperature of 600.6 K differ less than 1 K from the previous assessments by Onderka et al. \[4\] and Hämäläinen et al. \[6\], even though the experimental data used in this study were a bit different.” |
 | 600 | eutectic |  | experimental | [1] Vaajamo 2011 | p. 2 | “The monotectic temperature was determined to be 1798 K and the eutectic temperature, 600 K.” |
 

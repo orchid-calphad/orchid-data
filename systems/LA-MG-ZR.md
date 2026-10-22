@@ -41,7 +41,7 @@ Table: Phase transition, La–Mg–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 888.15 K | 888.15 | invariant: LþHcp(Zr)/LaMg12þHcp(Mg) | model | [1] Zhu 2018 | p. 8 | “The suspended Zr particles can form nuclei for the invariant reactions LþHcp(Zr)/LaMg12þHcp(Mg) at 615 C, during which the primary precipitated Zr particles can act as grain refiner by inhibiting the Mg grain's growth.” |
+| Phase transition | 888.15 K | 888.15 | other: LþHcp(Zr)/LaMg12þHcp(Mg) | model | [1] Zhu 2018 | p. 8 | “The suspended Zr particles can form nuclei for the invariant reactions LþHcp(Zr)/LaMg12þHcp(Mg) at 615 C, during which the primary precipitated Zr particles can act as grain refiner by inhibiting the Mg grain's growth.” |
 
 ### Phase equilibrium (9)
 

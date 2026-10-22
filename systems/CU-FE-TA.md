@@ -28,16 +28,16 @@ Table: Invariant reactions reported in the literature for the Cu–Fe–Ta syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1982.55 | E: Liquid1 -> liquid2 + μ+ (Ta) |  | model | [1] Liu 2015 | Table 6, p. 10, row 1 |  |
-| 1842.85 | U: Liquid1 + μ -> λ1 + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 3 |  |
-| 1672.75 | U: Liquid2 + (δFe) -> λ1 + (γFe) |  | model | [1] Liu 2015 | Table 6, p. 10, row 5 |  |
-| 1628.05 | E: Liquid1 -> λ1 + (γFe) + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 6 |  |
-| 1367.55 | U: Liquid1 + (γFe) -> λ2 + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 8 |  |
-| 1352.75 | U: Liquid1 + λ2 -> μ + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 9 |  |
-| 1339.75 | U: Liquid1 + μ -> (Ta) + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 10 |  |
-| 297.65 | U: Liquid1 + μ -> λ2 + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 4 |  |
-| 288.55 | E: Liquid1 -> λ + (γFe) + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 7 |  |
-| 281.65 | E: Liquid1 -> liquid2 + μ+ (Ta) |  | model | [1] Liu 2015 | Table 6, p. 10, row 2 |  |
+| 1982.55 | eutectic: Liquid1 -> liquid2 + μ+ (Ta) |  | model | [1] Liu 2015 | Table 6, p. 10, row 1 |  |
+| 1842.85 | quasi-peritectic: Liquid1 + μ -> λ1 + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 3 |  |
+| 1672.75 | quasi-peritectic: Liquid2 + (δFe) -> λ1 + (γFe) |  | model | [1] Liu 2015 | Table 6, p. 10, row 5 |  |
+| 1628.05 | eutectic: Liquid1 -> λ1 + (γFe) + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 6 |  |
+| 1367.55 | quasi-peritectic: Liquid1 + (γFe) -> λ2 + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 8 |  |
+| 1352.75 | quasi-peritectic: Liquid1 + λ2 -> μ + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 9 |  |
+| 1339.75 | quasi-peritectic: Liquid1 + μ -> (Ta) + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 10 |  |
+| 297.65 | quasi-peritectic: Liquid1 + μ -> λ2 + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 4 |  |
+| 288.55 | eutectic: Liquid1 -> λ + (γFe) + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 7 |  |
+| 281.65 | eutectic: Liquid1 -> liquid2 + μ+ (Ta) |  | model | [1] Liu 2015 | Table 6, p. 10, row 2 |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Ti–U system
 
-> Ti–U system: 213 accepted literature values (crystal structure 150, phase transition 37, invariant reaction 16, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti–U system: 209 accepted literature values (crystal structure 150, phase transition 33, invariant reaction 16, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI-U.html · Markdown: https://data.orchid-project.org/systems/TI-U.md
 
-213 accepted literature values from 2 paper(s) (experimental 200, model 13); 3 calculated phase diagram(s).
+209 accepted literature values from 2 paper(s) (experimental 196, model 13); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI-U.json) · [CSV](https://data.orchid-project.org/systems/TI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-U/TiU-11Ber.json) · [Markdown](https://data.orchid-project.org/systems/TI-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 200 |
+| experimental | 196 |
 | model | 13 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 37 |
+| phase transition | 33 |
 | phase equilibrium | 8 |
 | crystal structure | 150 |
 | other property | 2 |
@@ -65,26 +65,26 @@ Table: Invariant reactions reported in the literature for the Ti–U system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1173 | Congruent: γ(U,Ti) -> δ-U2Ti | γ(U,Ti): Ti 0.333; δ-U2Ti: Ti 0.333333, U 0.666667 | model | [1] Mo 2021; _cites Bajaj 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.08.050) | Table 6, p. 10, row 12 |  |
-| 1172 | Congruent: γ(U,Ti) -> δ-U2Ti | γ(U,Ti): Ti 0.333; δ-U2Ti: Ti 0.333333, U 0.666667 | model | [1] Mo 2021; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.01.043) | Table 6, p. 10, row 11 |  |
-| 1168.15 | Congruent: γ(U,Ti) -> δ-U2Ti | γ(U,Ti): Ti 0.333; δ-U2Ti: Ti 0.333333, U 0.666667 | experimental | [1] Mo 2021 | Table 6, p. 10, row 14 |  |
-| 1168 | Congruent: γ(U,Ti) -> δ-U2Ti | γ(U,Ti): Ti 0.333; δ-U2Ti: Ti 0.333333, U 0.666667 | model | [1] Mo 2021 | Table 6, p. 10, row 13 |  |
+| 1173 | congruent transformation: γ(U,Ti) -> δ-U2Ti | γ(U,Ti): Ti 0.333; δ-U2Ti: Ti 0.333333, U 0.666667 | model | [1] Mo 2021; _cites Bajaj 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.08.050) | Table 6, p. 10, row 12 |  |
+| 1172 | congruent transformation: γ(U,Ti) -> δ-U2Ti | γ(U,Ti): Ti 0.333; δ-U2Ti: Ti 0.333333, U 0.666667 | model | [1] Mo 2021; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.01.043) | Table 6, p. 10, row 11 |  |
+| 1168.15 | congruent transformation: γ(U,Ti) -> δ-U2Ti | γ(U,Ti): Ti 0.333; δ-U2Ti: Ti 0.333333, U 0.666667 | experimental | [1] Mo 2021 | Table 6, p. 10, row 14 |  |
+| 1168 | congruent transformation: γ(U,Ti) -> δ-U2Ti | γ(U,Ti): Ti 0.333; δ-U2Ti: Ti 0.333333, U 0.666667 | model | [1] Mo 2021 | Table 6, p. 10, row 13 |  |
 | 996 | bcc -> (β-U) + U2Ti | bcc: U 0.957; (β-U): U 0.987; U2Ti: U 0.667 | model | [2] Berche 2011 | Table 1, p. 4, row 2 |  |
-| 996 | Eutectoid: γ(U,Ti) -> βU + δ-U2Ti | γ(U,Ti): Ti 0.043; βU: Ti 0.013; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.01.043) | Table 6, p. 10, row 1 |  |
-| 991.65 | Eutectoid: γ(U,Ti) -> βU + δ-U2Ti | γ(U,Ti): Ti 0.054; δ-U2Ti: Ti 0.333 | experimental | [1] Mo 2021 | Table 6, p. 10, row 3 |  |
-| 991.2 | Eutectoid: γ(U,Ti) -> βU + δ-U2Ti | γ(U,Ti): Ti 0.055; βU: Ti 0.025; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021 | Table 6, p. 10, row 2 |  |
-| 934.4 | Eutectoid: βU -> αU + δ-U2Ti | βU: Ti 0.017; αU: Ti 0.014; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021 | Table 6, p. 10, row 6 |  |
-| 934.4 | Eutectoid: βU -> αU + δ-U2Ti | δ-U2Ti: Ti 0.333 | experimental | [1] Mo 2021 | Table 6, p. 10, row 7 |  |
-| 928.15 | Eutectoid: βU -> αU + δ-U2Ti | αU: Ti 0.01; δ-U2Ti: Ti 0.333 | experimental | [1] Mo 2021; _cites Knapton 1954_ | Table 6, p. 10, row 5 |  |
+| 996 | eutectoid: γ(U,Ti) -> βU + δ-U2Ti | γ(U,Ti): Ti 0.043; βU: Ti 0.013; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.01.043) | Table 6, p. 10, row 1 |  |
+| 991.65 | eutectoid: γ(U,Ti) -> βU + δ-U2Ti | γ(U,Ti): Ti 0.054; δ-U2Ti: Ti 0.333 | experimental | [1] Mo 2021 | Table 6, p. 10, row 3 |  |
+| 991.2 | eutectoid: γ(U,Ti) -> βU + δ-U2Ti | γ(U,Ti): Ti 0.055; βU: Ti 0.025; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021 | Table 6, p. 10, row 2 |  |
+| 934.4 | eutectoid: βU -> αU + δ-U2Ti | βU: Ti 0.017; αU: Ti 0.014; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021 | Table 6, p. 10, row 6 |  |
+| 934.4 | eutectoid: βU -> αU + δ-U2Ti | δ-U2Ti: Ti 0.333 | experimental | [1] Mo 2021 | Table 6, p. 10, row 7 |  |
+| 928.15 | eutectoid: βU -> αU + δ-U2Ti | αU: Ti 0.01; δ-U2Ti: Ti 0.333 | experimental | [1] Mo 2021; _cites Knapton 1954_ | Table 6, p. 10, row 5 |  |
 | 924 | (β-U) -> (α-U) + U2Ti | (β-U): U 1; (α-U): U 0.993; U2Ti: U 0.667 | model | [2] Berche 2011 | Table 1, p. 4, row 3 |  |
-| 924 | Eutectoid: βU -> αU + δ-U2Ti | βU: Ti 0.007; αU: Ti 0; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.01.043) | Table 6, p. 10, row 4 |  |
+| 924 | eutectoid: βU -> αU + δ-U2Ti | βU: Ti 0.007; αU: Ti 0; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.01.043) | Table 6, p. 10, row 4 |  |
 | 920 | bcc -> U2Ti + hcp | bcc: U 0.135; U2Ti: U 0.667; hcp: U 0.011 | model | [2] Berche 2011 | Table 1, p. 4, row 4 |  |
-| 920 | Eutectoid: γ(U,Ti) -> αTi + δ-U2Ti | γ(U,Ti): Ti 0.865; αTi: Ti 0.989; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.01.043) | Table 6, p. 10, row 8 |  |
-| 910 | Eutectoid: γ(U,Ti) -> αTi + δ-U2Ti | γ(U,Ti): Ti 0.83; αTi: Ti 0.95; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021 | Table 6, p. 10, row 9 |  |
+| 920 | eutectoid: γ(U,Ti) -> αTi + δ-U2Ti | γ(U,Ti): Ti 0.865; αTi: Ti 0.989; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.jnucmat.2011.01.043) | Table 6, p. 10, row 8 |  |
+| 910 | eutectoid: γ(U,Ti) -> αTi + δ-U2Ti | γ(U,Ti): Ti 0.83; αTi: Ti 0.95; δ-U2Ti: Ti 0.333 | model | [1] Mo 2021 | Table 6, p. 10, row 9 |  |
 
 ## Other properties
 
-### Phase transition (37)
+### Phase transition (33)
 
 Table: Phase transition, Ti–U system
 
@@ -92,8 +92,6 @@ Table: Phase transition, Ti–U system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 933.85 K | 933.85 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 6 |  |
 | Phase transition | 933.85 K | 933.85 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 5 |  |
-| Phase transition | 933.85 K | 933.85 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 11 |  |
-| Phase transition | 933.85 K | 933.85 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 10 |  |
 | Phase transition | 933.85 K | 933.85 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 31 |  |
 | Phase transition | 934.4 K | 934.4 | β U → α U + δ -U2 Ti | experimental | [1] Mo 2021 | p. 10 | “The reaction temperatures and composition of the invariant equilibria γ (U,Ti) → β U + δ -U2 Ti and β U→ α U + δ -U2 Ti were determined to be 718.5 °C at 5.4 ± 0.2 at.% and 661.25 °C respectively.” |
 | Phase transition | 934.4 K | 934.4 | β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 21 |  |
@@ -119,14 +117,12 @@ Table: Phase transition, Ti–U system
 | Phase transition | 995.15 K | 995.15 | eutectoid: γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 14 |  |
 | Phase transition | 995.85 K | 995.85 | γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 15 |  |
 | Phase transition | 995.95 K | 995.95 | eutectoid: γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 12 |  |
-| Phase transition | 995.95 K | 995.95 | eutectoid: γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 13 |  |
 | Phase transition | 1163 K | 1163 | γ (U,Ti) → δ -U2 Ti | experimental | [1] Mo 2021; _cites Udy 1954_ | p. 2 | “The phase transformation temperature from γ (U,Ti) to δ -U2 Ti was determined to be 1163 K by Udy and Boulger \[17\] and Tomlinson et al. \[18\], which is 9°C lower than the calculated results of Berche et al. \[20\] and Bajaj et al. \[21\].” |
 | Phase transition | 1168.15 K | 1168.15 | γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 26 |  |
 | Phase transition | 1172 K | 1172 | Liquid -> U2Ti; _L: U 0.667; U2Ti: U 0.667_ | model | [2] Berche 2011 | Table 1, p. 4, row 1 |  |
-| Phase transition | 1172.35 K | 1172.35 | congruent: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 22 |  |
+| Phase transition | 1172.35 K | 1172.35 | congruent transformation: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 22 |  |
 | Phase transition | 1172.35 K | 1172.35 | γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 25 |  |
-| Phase transition | 1172.55 K | 1172.55 | congruent: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 24 |  |
-| Phase transition | 1172.55 K | 1172.55 | congruent: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 23 |  |
+| Phase transition | 1172.55 K | 1172.55 | congruent transformation: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 24 |  |
 
 ### Phase equilibrium (8)
 

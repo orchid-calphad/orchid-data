@@ -1,10 +1,10 @@
 # C–U system
 
-> C–U system: 1,596 accepted literature values (heat capacity / entropy / enthalpy 1173, phase equilibrium 225, formation 98, activity / EMF / Gibbs energy 76) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–U system: 1,516 accepted literature values (heat capacity / entropy / enthalpy 1097, phase equilibrium 223, formation 96, activity / EMF / Gibbs energy 76) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-U.html · Markdown: https://data.orchid-project.org/systems/C-U.md
 
-1,596 accepted literature values from 1 paper(s) (experimental 958, model 636, unspecified 2); 0 calculated phase diagram(s). 21 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+1,516 accepted literature values from 1 paper(s) (experimental 878, model 636, unspecified 2); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON part 1](https://data.orchid-project.org/literature/systems/C-U.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/C-U.part2.json) · [CSV](https://data.orchid-project.org/systems/C-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-U) · [Markdown](https://data.orchid-project.org/systems/C-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 958 |
+| experimental | 878 |
 | model | 636 |
 | unspecified | 2 |
 
@@ -20,9 +20,9 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase equilibrium | 225 |
-| formation | 98 |
-| heat capacity / entropy / enthalpy | 1173 |
+| phase equilibrium | 223 |
+| formation | 96 |
+| heat capacity / entropy / enthalpy | 1097 |
 | activity / EMF / Gibbs energy | 76 |
 | crystal structure | 24 |
 
@@ -32,7 +32,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–U system (98)
+Table: Enthalpies of formation, C–U system (96)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -97,7 +97,6 @@ Table: Enthalpies of formation, C–U system (98)
 | UCx |  | -48.116 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 18 |  |
 | UCx |  | -47.968 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 17 |  |
 | UCx |  | -47.488 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 19 |  |
-| UCx |  | -47.488 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 20 |  |
 | UCx |  | -46.861 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 21 |  |
 | UCx |  | -46.121 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 32 |  |
 | UCx |  | -45.644 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 15 |  |
@@ -132,22 +131,21 @@ Table: Enthalpies of formation, C–U system (98)
 | UCx |  | -31.767 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 42 |  |
 | UCx |  | -31.416 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 49 |  |
 | UCx |  | -31.081 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 47 |  |
-| UCx |  | -31.081 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 46 |  |
 | UCx |  | -30.932 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 17, p. 14, row 48 |  |
 
 ## Other properties
 
-This system has 1,596 accepted values; to keep the page small the 1,498 values below are summarised. All values with quotes and sources are in the [JSON](https://data.orchid-project.org/literature/systems/C-U.json), the [CSV](https://data.orchid-project.org/systems/C-U.csv) and the [interactive explorer](https://orchid-project.org/data-explorer/#C-U).
+This system has 1,516 accepted values; to keep the page small the 1,420 values below are summarised. All values with quotes and sources are in the [JSON](https://data.orchid-project.org/literature/systems/C-U.json), the [CSV](https://data.orchid-project.org/systems/C-U.csv) and the [interactive explorer](https://orchid-project.org/data-explorer/#C-U).
 
-Table: Other accepted values by property (1498)
+Table: Other accepted values by property (1420)
 
 | Group | Property | Values |
 |---|---|---:|
 | phase equilibrium | Phase assemblage | 30 |
-| phase equilibrium | Phase composition | 195 |
+| phase equilibrium | Phase composition | 193 |
 | heat capacity / entropy / enthalpy | Entropy | 152 |
 | heat capacity / entropy / enthalpy | Heat capacity | 290 |
-| heat capacity / entropy / enthalpy | Heat content | 731 |
+| heat capacity / entropy / enthalpy | Heat content | 655 |
 | activity / EMF / Gibbs energy | Gibbs energy | 76 |
 | crystal structure | Lattice a | 19 |
 | crystal structure | Lattice c | 5 |

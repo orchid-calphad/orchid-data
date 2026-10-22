@@ -1,10 +1,10 @@
 # Nb–Si system
 
-> Nb–Si system: 213 accepted literature values (invariant reaction 107, formation 77, phase transition 29) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Si system: 208 accepted literature values (invariant reaction 106, formation 73, phase transition 29) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-SI.html · Markdown: https://data.orchid-project.org/systems/NB-SI.md
 
-213 accepted literature values from 7 paper(s) (experimental 38, model 171, unspecified 4); 11 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+208 accepted literature values from 7 paper(s) (experimental 34, model 170, unspecified 4); 11 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SI.json) · [CSV](https://data.orchid-project.org/systems/NB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-SI/NbSi-02Fer-alt.json) · [Markdown](https://data.orchid-project.org/systems/NB-SI.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
-| model | 171 |
+| experimental | 34 |
+| model | 170 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 107 |
+| invariant reaction | 106 |
 | phase transition | 29 |
-| formation | 77 |
+| formation | 73 |
 
 ## Calculated phase diagrams
 
@@ -206,7 +206,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nb–Si system (107)
+Table: Invariant reactions reported in the literature for the Nb–Si system (106)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -308,7 +308,6 @@ Table: Invariant reactions reported in the literature for the Nb–Si system (10
 | 1679 | L -> NbSi2 + (Si) | L: Si 0.982; NbSi2: Si 0.667; (Si): Si 1 | model | [2] David 2006; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 6, p. 7, row 38 |  |
 | 1679 | L -> NbSi2 + (Si) | L: Si 0.982; NbSi2: Si 0.667; (Si): Si 1 | model | [2] David 2006; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 6, p. 7, row 36 |  |
 | 1679 | L -> NbSi2 + (Si) | L: Si 0.982; NbSi2: Si 0.667; (Si): Si 1 | model | [2] David 2006; _cites Shao 2004_ [doi](https://doi.org/10.1016/j.intermet.2004.03.011) | Table 6, p. 7, row 39 |  |
-| 1679 | L -> NbSi2 + (Si) | L: Si 0.982; NbSi2: Si 0.667; (Si): Si 1 | model | [2] David 2006; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 6, p. 7, row 37 |  |
 | 1673.15 | L -> NbSi2 + (Si) | L: Si 0.98; NbSi2: Si 0.688; (Si): Si 1 | experimental | [4] Liang 1999; _cites Kocherzhinskiy 1980_ | Table 1, p. 2, row 10 |  |
 | 1673.15 | Liq->NbSi2 + (Si) | Liq: Si 0.98; NbSi2: Si 0.667; (Si): Si 1 | experimental | [3] Yang 2003; _cites Kocherzhinskiy 1980_ | Table 2, p. 2, row 14 |  |
 | 1673 | L -> NbSi2 + (Si) | L: Si 0.98; NbSi2: Si 0.667; (Si): Si 1 | model | [2] David 2006; _cites Okamoto 1990_ | Table 6, p. 7, row 33 |  |
@@ -322,11 +321,10 @@ Table: Invariant reactions reported in the literature for the Nb–Si system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Nb–Si system (77)
+Table: Enthalpies of formation, Nb–Si system (73)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom ± 4.8 | 273.15 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 10 |  |
 | (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom ± 4.8 | 273.15 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 10 |  |
 | (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -51.2033 kJ/mol-atom | 273.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009 | Table 3, p. 4, row 7 |  |
 | (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 273.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009; _cites Barin 1977_ | Table 3, p. 4, row 8 |  |
@@ -339,7 +337,6 @@ Table: Enthalpies of formation, Nb–Si system (77)
 | Nb3Si | [Nb3Si](https://data.orchid-project.org/compounds/Nb3Si.html) | -28.175 kJ/mol-atom | 298 | model | -40.615 (mp-aaaabakm) | -42.633 (oqmd-2033) | [4] Liang 1999; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 2, p. 4, row 9 |  |
 | Nb3Si | [Nb3Si](https://data.orchid-project.org/compounds/Nb3Si.html) | -28.175 kJ/mol-atom | 298 | model | -40.615 (mp-aaaabakm) | -42.633 (oqmd-2033) | [1] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 3 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.792 kJ/mol-atom | 298 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 3, p. 6, row 6 |  |
-| Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.6 kJ/mol-atom ± 2.4 | 298 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 9 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.6 kJ/mol-atom ± 2.4 | 298 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 9 |  |
 | Nb5Si3 |  | -62.658 per mol-atom | 298 | model |  |  | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 23 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -61 kJ/mol-atom | 298 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Chart 1973_ | Table 3, p. 6, row 11 |  |
@@ -364,7 +361,6 @@ Table: Enthalpies of formation, Nb–Si system (77)
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom | 298 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [6] Fernandes 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 8 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 7, p. 8, row 5 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom ± 1.6 | 298 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 15 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom ± 1.6 | 298 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 15 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -51.5 kJ/mol-atom | 298.15 | unspecified | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006 | Table 7, p. 8, row 11 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -47 kJ/mol-atom | 298 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [4] Liang 1999 | Table 2, p. 4, row 5 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -47 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 7, p. 8, row 6 |  |
@@ -376,7 +372,6 @@ Table: Enthalpies of formation, Nb–Si system (77)
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom ± 16 | 298 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [4] Liang 1999; _cites Chart 1973_ | Table 2, p. 4, row 6 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 298.15 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Chart 1973_ | Table 7, p. 8, row 2 |  |
 | α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -65.379 kJ/mol-atom | 273.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 4, row 4 |  |
-| α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.6 kJ/mol-atom ± 19.2 | 273.15 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 2 |  |
 | α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.6 kJ/mol-atom ± 19.2 | 273.15 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 2 |  |
 | α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -63.8 kJ/mol-atom | 273.15 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Gorelkin 1972_ | Table 3, p. 4, row 3 |  |
 | α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -63.0044 kJ/mol-atom | 273.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009 | Table 3, p. 4, row 1 |  |

@@ -26,13 +26,13 @@ Table: Invariant reactions reported in the literature for the Ge–Ru–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1615 | U: L + βRu2Ge3 -> Ru2Sn3 + RuGe |  | model | [1] Long 2012 | Table 5, p. 8, row 1 |  |
-| 1607 | E: L -> hcp(Ru) + Ru2Sn3 + RuGe |  | model | [1] Long 2012 | Table 5, p. 8, row 2 |  |
-| 1173 | U: L + Ru2Sn3 -> βRu2Ge3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 5, p. 8, row 3 |  |
-| 859 | U: βRu2Ge3 + Diamond(Ge) -> L + αRu2Ge3 |  | model | [1] Long 2012 | Table 5, p. 8, row 5 |  |
-| 838 | U: L + βRu2Ge3 -> αRu2Ge3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 5, p. 8, row 4 |  |
-| 505 | U: L + Ru3Sn7 -> αRu2Ge3 + bct(Sn) |  | model | [1] Long 2012 | Table 5, p. 8, row 6 |  |
-| 504 | U: L + αRu2Ge3 -> bct(Sn) + Diamond(Ge) |  | model | [1] Long 2012 | Table 5, p. 8, row 7 |  |
+| 1615 | quasi-peritectic: L + βRu2Ge3 -> Ru2Sn3 + RuGe |  | model | [1] Long 2012 | Table 5, p. 8, row 1 |  |
+| 1607 | eutectic: L -> hcp(Ru) + Ru2Sn3 + RuGe |  | model | [1] Long 2012 | Table 5, p. 8, row 2 |  |
+| 1173 | quasi-peritectic: L + Ru2Sn3 -> βRu2Ge3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 5, p. 8, row 3 |  |
+| 859 | quasi-peritectic: βRu2Ge3 + Diamond(Ge) -> L + αRu2Ge3 |  | model | [1] Long 2012 | Table 5, p. 8, row 5 |  |
+| 838 | quasi-peritectic: L + βRu2Ge3 -> αRu2Ge3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 5, p. 8, row 4 |  |
+| 505 | quasi-peritectic: L + Ru3Sn7 -> αRu2Ge3 + bct(Sn) |  | model | [1] Long 2012 | Table 5, p. 8, row 6 |  |
+| 504 | quasi-peritectic: L + αRu2Ge3 -> bct(Sn) + Diamond(Ge) |  | model | [1] Long 2012 | Table 5, p. 8, row 7 |  |
 
 ## Sources
 

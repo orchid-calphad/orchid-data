@@ -1,22 +1,20 @@
 # Al3Ru2: enthalpy of formation
 
-> Enthalpy of formation of Al3Ru2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al3Ru2: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al3Ru2.html · Markdown: https://data.orchid-project.org/compounds/Al3Ru2.md
 
-4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -68.423 kJ/mol-atom (mp-aaacixse); OQMD -67.533 kJ/mol-atom (oqmd-2168645).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -68.423 kJ/mol-atom (mp-aaacixse); OQMD -67.533 kJ/mol-atom (oqmd-2168645).
 
 Systems: [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al3Ru2 reported in the literature (4)
+Table: Enthalpy of formation of Al3Ru2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -44.04 kJ/mol-atom | Ru2Al3 |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 7 |  |
-| -44.04 kJ/mol-atom | Ru2Al3 |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003; _cites ref. 1998Wol_ | Table 2, p. 3, row 7 |  |
-| -43.946 kJ/mol-atom | Ru2Al3 |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 8 |  |
 | -43.946 kJ/mol-atom | Ru2Al3 |  | model |  | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html) | [1] Prins 2003 | Table 2, p. 3, row 8 |  |
 
 ## DFT formation energies

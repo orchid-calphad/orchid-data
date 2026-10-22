@@ -62,21 +62,21 @@ Table: Invariant reactions reported in the literature for the Pb–U system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2758.15 | Critical: L -> L1 + L2 | L: U 0.795 | model | [1] Li 2010 | Table 3, p. 4, row 16 |  |
-| 1556.15 | Syntectic: L1 + L2 -> PbU | L1: U 0.38; L2: U 0.972; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 8 |  |
-| 1553.15 | Syntectic: L1 + L2 -> PbU | L1: U 0.37; L2: U 0.985; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 7 |  |
-| 1493.15 | Congruent: L -> Pb3U | L: U 0.25; Pb3U: U 0.25 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 3 |  |
-| 1491.15 | Congruent: L -> Pb3U | L: U 0.25; Pb3U: U 0.25 | model | [1] Li 2010 | Table 3, p. 4, row 4 |  |
-| 1486.15 | Eutectic: L -> Pb3U + PbU | L: U 0.286; Pb3U: U 0.25; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 6 |  |
-| 1483.15 | Eutectic: L -> Pb3U + PbU | L: U 0.272; Pb3U: U 0.25; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 5 |  |
-| 1399.15 | Eutectic: L -> Pb–U + γU | L: U 0.991; Pb–U: U 0.5; γU: U 0.996 | model | [1] Li 2010 | Table 3, p. 4, row 10 |  |
-| 1398.15 | Eutectic: L -> Pb–U + γU | L: U 0.995; Pb–U: U 0.5; γU: U 1 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 9 |  |
-| 1038.15 | Eutectoid: γU -> βU + PbU | γU: U 1; βU: U 1; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 11 |  |
-| 1037.15 | Eutectoid: γU -> βU + PbU | γU: U 0.99; βU: U 0.995; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 12 |  |
-| 923.15 | Eutectoid: βU -> αU + PbU | βU: U 0.992; αU: U 0.999; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 14 |  |
-| 918.15 | Eutectoid: βU -> αU + PbU | βU: U 1; αU: U 1; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 13 |  |
-| 600.15 | Eutectic: L -> (Pb) + Pb3U | L: U 0; (Pb): U 0; Pb3U: U 0.25 | model | [1] Li 2010 | Table 3, p. 4, row 2 |  |
-| 598.15 | Eutectic: L -> (Pb) + Pb3U | L: U 0; (Pb): U 0; Pb3U: U 0.25 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 1 |  |
+| 2758.15 | critical point: L -> L1 + L2 | L: U 0.795 | model | [1] Li 2010 | Table 3, p. 4, row 16 |  |
+| 1556.15 | syntectic: L1 + L2 -> PbU | L1: U 0.38; L2: U 0.972; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 8 |  |
+| 1553.15 | syntectic: L1 + L2 -> PbU | L1: U 0.37; L2: U 0.985; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 7 |  |
+| 1493.15 | congruent melting: L -> Pb3U | L: U 0.25; Pb3U: U 0.25 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 3 |  |
+| 1491.15 | congruent melting: L -> Pb3U | L: U 0.25; Pb3U: U 0.25 | model | [1] Li 2010 | Table 3, p. 4, row 4 |  |
+| 1486.15 | eutectic: L -> Pb3U + PbU | L: U 0.286; Pb3U: U 0.25; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 6 |  |
+| 1483.15 | eutectic: L -> Pb3U + PbU | L: U 0.272; Pb3U: U 0.25; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 5 |  |
+| 1399.15 | eutectic: L -> Pb–U + γU | L: U 0.991; Pb–U: U 0.5; γU: U 0.996 | model | [1] Li 2010 | Table 3, p. 4, row 10 |  |
+| 1398.15 | eutectic: L -> Pb–U + γU | L: U 0.995; Pb–U: U 0.5; γU: U 1 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 9 |  |
+| 1038.15 | eutectoid: γU -> βU + PbU | γU: U 1; βU: U 1; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 11 |  |
+| 1037.15 | eutectoid: γU -> βU + PbU | γU: U 0.99; βU: U 0.995; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 12 |  |
+| 923.15 | eutectoid: βU -> αU + PbU | βU: U 0.992; αU: U 0.999; PbU: U 0.5 | model | [1] Li 2010 | Table 3, p. 4, row 14 |  |
+| 918.15 | eutectoid: βU -> αU + PbU | βU: U 1; αU: U 1; PbU: U 0.5 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 13 |  |
+| 600.15 | eutectic: L -> (Pb) + Pb3U | L: U 0; (Pb): U 0; Pb3U: U 0.25 | model | [1] Li 2010 | Table 3, p. 4, row 2 |  |
+| 598.15 | eutectic: L -> (Pb) + Pb3U | L: U 0; (Pb): U 0; Pb3U: U 0.25 | experimental | [1] Li 2010; _cites Sheldon 1995_ | Table 3, p. 4, row 1 |  |
 
 ## Sources
 

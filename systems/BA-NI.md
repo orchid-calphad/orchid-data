@@ -1,10 +1,10 @@
 # Ba–Ni system
 
-> Ba–Ni system: 51 accepted literature values (mixing / partial 27, crystal structure 20, invariant reaction 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ni system: 45 accepted literature values (mixing / partial 23, crystal structure 18, invariant reaction 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-NI.html · Markdown: https://data.orchid-project.org/systems/BA-NI.md
 
-51 accepted literature values from 1 paper(s) (experimental 2, model 2, DFT 47); 1 calculated phase diagram(s).
+45 accepted literature values from 1 paper(s) (experimental 2, model 2, DFT 41); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-NI.json) · [CSV](https://data.orchid-project.org/systems/BA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-NI/BaNi-07Sha.json) · [Markdown](https://data.orchid-project.org/systems/BA-NI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 2 |
 | model | 2 |
-| DFT | 47 |
+| DFT | 41 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 3 |
 | phase transition | 1 |
-| mixing / partial | 27 |
-| crystal structure | 20 |
+| mixing / partial | 23 |
+| crystal structure | 18 |
 
 ## Calculated phase diagrams
 
@@ -67,41 +67,37 @@ Table: Phase transition, Ba–Ni system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1728 K | 1728 | other: liquid1 → liquid2 + fcc (Ni) | model | [1] Shang 2007 | p. 4 | “The invariant reactions in the Ba-Ni system are listed in Table 4 with the liquid → bcc (Ba) + fcc (Ni) eutectic point at 873 K and the liquid1 → liquid2 + fcc (Ni) monotectic temperature at 1728 K which is close to the melting point of Ni, because the liquid Ni does not dissolve Ba.” |
 
-### Mixing / partial (27)
+### Mixing / partial (23)
 
 Table: Mixing / partial, Ba–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH (M)_ | 0 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 78346 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 79098 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 0 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 81035 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 81903 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 54310 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 54661 J/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 55202 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 53844 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 80449 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 82780 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 86634 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 83289 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 0 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH (M)_ | 0 J/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHa (M)_ | 54928 J/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHa (M)_ | 85008 J/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 18 |  |
-| Enthalpy of mixing; _printed: ΔH a (M)_ | 54928 J/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 12 |  |
-| Enthalpy of mixing; _printed: ΔH a (M)_ | 85008 J/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 14 |  |
-| Enthalpy of mixing; _printed: ΔH a (M)_ | 0 J/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH a (M)_ | 81830 J/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHa (M)_ | 81830 J/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 17 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 0 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 5 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 78.346 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 3 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 79.098 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 3 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 0 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 1 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 81.035 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 4 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 81.903 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 4 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 54.31 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 54.661 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 55.202 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 7 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 53.844 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 7 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 80.449 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 8 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 82.78 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 8 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 86.634 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 9 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 83.289 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 9 |  |
+| Enthalpy of mixing; _printed: ΔH (M)_ | 0 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 10 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHa (M)_ | 54.928 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHa (M)_ | 85.008 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 18 |  |
+| Enthalpy of mixing; _printed: ΔH a (M)_ | 54.928 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 12 |  |
+| Enthalpy of mixing; _printed: ΔH a (M)_ | 85.008 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 14 |  |
+| Enthalpy of mixing; _printed: ΔH a (M)_ | 0 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 11 |  |
+| Enthalpy of mixing; _printed: ΔH a (M)_ | 81.83 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHa (M)_ | 81.83 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 17 |  |
 
-### Crystal structure (20)
+### Crystal structure (18)
 
 Table: Crystal structure, Ba–Ni system
 
@@ -112,7 +108,6 @@ Table: Crystal structure, Ba–Ni system
 | Lattice a; _printed: a_ | 3.774 Å | 0 | Bcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 3 |  |
 | Lattice a; _printed: a (M)_ | 3.776 Å | 0 | Bcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 3 |  |
 | Lattice a; _printed: a (M)_ | 4.999 Å | 0 | Bcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 1 |  |
-| Lattice a; _printed: a_ | 4.999 Å | 0 | Bcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 1 |  |
 | Lattice a; _printed: a (M)_ | 3.303 Å | 0 | Bcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 4 |  |
 | Lattice a; _printed: a_ | 3.3 Å | 0 | Bcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 4 |  |
 | Lattice a; _printed: a (M)_ | 2.799 Å | 0 | Bcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 5 |  |
@@ -124,7 +119,6 @@ Table: Crystal structure, Ba–Ni system
 | Lattice a; _printed: a (M)_ | 3.518 Å | 0 | Fcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 10 |  |
 | Lattice a; _printed: a_ | 3.513 Å | 0 | Fcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 10 |  |
 | Lattice a; _printed: a_ | 6.316 Å | 0 | Fcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 6 |  |
-| Lattice a; _printed: a (M)_ | 6.316 Å | 0 | Fcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 6 |  |
 | Lattice a; _printed: a_ | 5.548 Å | 0 | Fcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 7 |  |
 | Lattice a; _printed: a (M)_ | 5.551 Å | 0 | Fcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 7 |  |
 

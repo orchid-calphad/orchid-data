@@ -51,14 +51,14 @@ Table: Invariant reactions reported in the literature for the Cd–Mg system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 526.74 | Congruent: Hcp_A3 -> AB3 | Hcp_A3: Mg 0.502; AB3: Mg 0.502 | model | [1] Ren 2012 | Table 4, p. 6, row 1 |  |
-| 526 | Congruent: Hcp_A3 -> AB3 | Hcp_A3: Mg 0.5; AB3: Mg 0.5 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 2 |  |
-| 459.78 | Peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.644; AB3: Mg 0.643 | model | [1] Ren 2012 | Table 4, p. 6, row 3 |  |
+| 526.74 | congruent transformation: Hcp_A3 -> AB3 | Hcp_A3: Mg 0.502; AB3: Mg 0.502 | model | [1] Ren 2012 | Table 4, p. 6, row 1 |  |
+| 526 | congruent transformation: Hcp_A3 -> AB3 | Hcp_A3: Mg 0.5; AB3: Mg 0.5 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 2 |  |
+| 459.78 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.644; AB3: Mg 0.643 | model | [1] Ren 2012 | Table 4, p. 6, row 3 |  |
 | 459 | peritectoid |  | experimental | [1] Ren 2012 | p. 2 | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
-| 459 | Peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.621; AB3: Mg 0.621 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 4 |  |
-| 398 | Peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.33; AB3: Mg 0.338 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 6 |  |
+| 459 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.621; AB3: Mg 0.621 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 4 |  |
+| 398 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.33; AB3: Mg 0.338 | experimental | [1] Ren 2012; _cites Moser 1984_ [doi](https://doi.org/10.1007/bf02868720) | Table 4, p. 6, row 6 |  |
 | 398 | peritectoid |  | experimental | [1] Ren 2012 | p. 2 | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
-| 397.5 | Peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.313; AB3: Mg 0.318 | model | [1] Ren 2012 | Table 4, p. 6, row 5 |  |
+| 397.5 | peritectoid: Hcp_A3 + AB3 -> AB3 | Hcp_A3: Mg 0.313; AB3: Mg 0.318 | model | [1] Ren 2012 | Table 4, p. 6, row 5 |  |
 
 ## Other properties
 
@@ -70,7 +70,7 @@ Table: Phase transition, Cd–Mg system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 357 K | 357 | other | model | [1] Ren 2012 | p. 6 | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
 | Phase transition | 424 K | 424 | other | model | [1] Ren 2012 | p. 6 | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
-| Phase transition | 526 K | 526 | congruent | experimental | [1] Ren 2012 | p. 2 | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
+| Phase transition | 526 K | 526 | congruent transformation | experimental | [1] Ren 2012 | p. 2 | “The ordered phase CdMg forms at 526 K through congruent transformation, and then CdMg3 and Cd3 Mg form at 459 and 398 K respectively through peritectoid reactions.” |
 | Phase transition | 526 K | 526 | other | model | [1] Ren 2012 | p. 6 | “The peaks in the heat capacities of the ordered phases (Cd3 Mg, CdMg and CdMg3 ) are found to appear at about 357 K, 526 K and 424 K respectively, which are just the critical temperatures of the order-disorder phase transitions.” |
 
 ### Crystal structure (7)

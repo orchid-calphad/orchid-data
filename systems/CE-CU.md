@@ -77,36 +77,36 @@ Table: Invariant reactions reported in the literature for the Ce–Cu system (30
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1211 | Congruent: liq -> Cu6Ce | L: Ce 0.143; Cu6Ce: Ce 0.142857, Cu 0.857143 | model | [1] Zhuang 1996 | Table 3, p. 5, row 2 |  |
-| 1165 | Eutectic: liq -> Cu(fcc) + Cu6Ce | L: Ce 0.088; Cu6Ce: Ce 0.142857, Cu 0.857143 | model | [1] Zhuang 1996 | Table 3, p. 5, row 1 |  |
-| 1165 | Eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.912; Cu6Ce: Cu 0.857143 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 2 |  |
-| 1150 | Eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.913; Cu6Ce: Cu 0.857143 | model | [2] Bo 2009 | Table 2, p. 4, row 3 |  |
-| 1149 | Eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.91; Cu6Ce: Cu 0.857143 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 1 |  |
-| 1090 | Congruent: liq -> Cu2Ce | L: Ce 0.333; Cu2Ce: Ce 0.333333, Cu 0.666667 | model | [1] Zhuang 1996 | Table 3, p. 5, row 6 |  |
-| 1072 | Peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.743; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 8 |  |
-| 1072 | Peritectic: liq + Cu6Ce -> Cu5Ce | L: Ce 0.257; Cu6Ce: Ce 0.142857, Cu 0.857143; Cu5Ce: Ce 0.166667, Cu 0.833333 | model | [1] Zhuang 1996 | Table 3, p. 5, row 3 |  |
-| 1071 | Peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.766; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 7 |  |
-| 1071 | Peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.756; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | model | [2] Bo 2009 | Table 2, p. 4, row 9 |  |
-| 1069 | Peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.765; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 10 |  |
-| 1069 | Peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.754; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | model | [2] Bo 2009 | Table 2, p. 4, row 12 |  |
-| 1063 | Peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.737; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 11 |  |
-| 1063 | Peritectic: liq + Cu5Ce -> Cu4Ce | L: Ce 0.263; Cu5Ce: Ce 0.166667, Cu 0.833333; Cu4Ce: Ce 0.2, Cu 0.8 | model | [1] Zhuang 1996 | Table 3, p. 5, row 4 |  |
-| 1057 | Eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.732; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 14 |  |
-| 1057 | Eutectic: liq -> Cu4Ce + Cu2Ce | L: Ce 0.268; Cu4Ce: Ce 0.2, Cu 0.8; Cu2Ce: Ce 0.333333, Cu 0.666667 | model | [1] Zhuang 1996 | Table 3, p. 5, row 5 |  |
-| 1043 | Eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.731; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | model | [2] Bo 2009 | Table 2, p. 4, row 15 |  |
-| 1029 | Eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.74; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 13 |  |
-| 999 | Catatectic: Ce(bcc) -> liq + Ce(fcc) | L: Ce 0.958 | model | [1] Zhuang 1996 | Table 3, p. 5, row 9 |  |
-| 999 | Catatectic: δCe ↔ liquid + γCe | L: Cu 0.042 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 26 |  |
-| 981 | Catatectic: δCe ↔ liquid + γCe | L: Cu 0.06 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 25 |  |
-| 981 | Catatectic: δCe ↔ liquid + γCe | L: Cu 0.058 | model | [2] Bo 2009 | Table 2, p. 4, row 27 |  |
-| 789 | Peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.4; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 19 |  |
-| 788 | Peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.394; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 20 |  |
-| 788 | Peritectic: liq + Cu2Ce -> CuCe | L: Ce 0.606; Cu2Ce: Ce 0.333333, Cu 0.666667; CuCe: Ce 0.5, Cu 0.5 | model | [1] Zhuang 1996 | Table 3, p. 5, row 7 |  |
-| 787 | Peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.426; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | model | [2] Bo 2009 | Table 2, p. 4, row 21 |  |
-| 700 | Eutectic: liq -> CuCe + Ce(fcc) | L: Ce 0.73; CuCe: Ce 0.5, Cu 0.5 | model | [1] Zhuang 1996 | Table 3, p. 5, row 8 |  |
-| 700 | Eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.289; CuCe: Cu 0.5 | model | [2] Bo 2009 | Table 2, p. 4, row 24 |  |
-| 700 | Eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.27; CuCe: Cu 0.5 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 23 |  |
-| 697 | Eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.28; CuCe: Cu 0.5 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 22 |  |
+| 1211 | congruent melting: liq -> Cu6Ce | L: Ce 0.143; Cu6Ce: Ce 0.142857, Cu 0.857143 | model | [1] Zhuang 1996 | Table 3, p. 5, row 2 |  |
+| 1165 | eutectic: liq -> Cu(fcc) + Cu6Ce | L: Ce 0.088; Cu6Ce: Ce 0.142857, Cu 0.857143 | model | [1] Zhuang 1996 | Table 3, p. 5, row 1 |  |
+| 1165 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.912; Cu6Ce: Cu 0.857143 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 2 |  |
+| 1150 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.913; Cu6Ce: Cu 0.857143 | model | [2] Bo 2009 | Table 2, p. 4, row 3 |  |
+| 1149 | eutectic: Liquid ↔ Fcc_Cu + Cu6Ce | L: Cu 0.91; Cu6Ce: Cu 0.857143 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 1 |  |
+| 1090 | congruent melting: liq -> Cu2Ce | L: Ce 0.333; Cu2Ce: Ce 0.333333, Cu 0.666667 | model | [1] Zhuang 1996 | Table 3, p. 5, row 6 |  |
+| 1072 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.743; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 8 |  |
+| 1072 | peritectic: liq + Cu6Ce -> Cu5Ce | L: Ce 0.257; Cu6Ce: Ce 0.142857, Cu 0.857143; Cu5Ce: Ce 0.166667, Cu 0.833333 | model | [1] Zhuang 1996 | Table 3, p. 5, row 3 |  |
+| 1071 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.766; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 7 |  |
+| 1071 | peritectic: Liquid + Cu6Ce ↔ Cu5Ce | L: Cu 0.756; Cu6Ce: Cu 0.857143; Cu5Ce: Cu 0.833333 | model | [2] Bo 2009 | Table 2, p. 4, row 9 |  |
+| 1069 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.765; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 10 |  |
+| 1069 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.754; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | model | [2] Bo 2009 | Table 2, p. 4, row 12 |  |
+| 1063 | peritectic: Liquid + Cu5Ce ↔ Cu4Ce | L: Cu 0.737; Cu5Ce: Cu 0.833333; Cu4Ce: Cu 0.8 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 11 |  |
+| 1063 | peritectic: liq + Cu5Ce -> Cu4Ce | L: Ce 0.263; Cu5Ce: Ce 0.166667, Cu 0.833333; Cu4Ce: Ce 0.2, Cu 0.8 | model | [1] Zhuang 1996 | Table 3, p. 5, row 4 |  |
+| 1057 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.732; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 14 |  |
+| 1057 | eutectic: liq -> Cu4Ce + Cu2Ce | L: Ce 0.268; Cu4Ce: Ce 0.2, Cu 0.8; Cu2Ce: Ce 0.333333, Cu 0.666667 | model | [1] Zhuang 1996 | Table 3, p. 5, row 5 |  |
+| 1043 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.731; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | model | [2] Bo 2009 | Table 2, p. 4, row 15 |  |
+| 1029 | eutectic: Liquid ↔ Cu4Ce + Cu2Ce | L: Cu 0.74; Cu4Ce: Cu 0.8; Cu2Ce: Cu 0.666667 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 13 |  |
+| 999 | metatectic/catatectic: Ce(bcc) -> liq + Ce(fcc) | L: Ce 0.958 | model | [1] Zhuang 1996 | Table 3, p. 5, row 9 |  |
+| 999 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.042 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 26 |  |
+| 981 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.06 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 25 |  |
+| 981 | metatectic/catatectic: δCe ↔ liquid + γCe | L: Cu 0.058 | model | [2] Bo 2009 | Table 2, p. 4, row 27 |  |
+| 789 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.4; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 19 |  |
+| 788 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.394; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 20 |  |
+| 788 | peritectic: liq + Cu2Ce -> CuCe | L: Ce 0.606; Cu2Ce: Ce 0.333333, Cu 0.666667; CuCe: Ce 0.5, Cu 0.5 | model | [1] Zhuang 1996 | Table 3, p. 5, row 7 |  |
+| 787 | peritectic: Liquid + Cu2Ce ↔ CuCe | L: Cu 0.426; Cu2Ce: Cu 0.666667; CuCe: Cu 0.5 | model | [2] Bo 2009 | Table 2, p. 4, row 21 |  |
+| 700 | eutectic: liq -> CuCe + Ce(fcc) | L: Ce 0.73; CuCe: Ce 0.5, Cu 0.5 | model | [1] Zhuang 1996 | Table 3, p. 5, row 8 |  |
+| 700 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.289; CuCe: Cu 0.5 | model | [2] Bo 2009 | Table 2, p. 4, row 24 |  |
+| 700 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.27; CuCe: Cu 0.5 | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 23 |  |
+| 697 | eutectic: Liquid ↔ CuCe + γCe | L: Cu 0.28; CuCe: Cu 0.5 | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 22 |  |
 
 ## Other properties
 
@@ -117,12 +117,12 @@ Table: Phase transition, Ce–Cu system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 890.15 K | 890.15 | liquid + Cu4 Ce → ␶5 + ␶4 | model | [2] Bo 2009 | p. 9 | “␶5 -AlCe2 Cu2 phase is one of the products of the reaction liquid + Cu4 Ce → ␶5 + ␶4 at 617 ◦ C.” |
-| Phase transition | 1089 K | 1089 | Congruent: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009 | Table 2, p. 4, row 18 |  |
-| Phase transition | 1090 K | 1090 | Congruent: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 17 |  |
-| Phase transition | 1090 K | 1090 | Congruent: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 16 |  |
-| Phase transition | 1210 K | 1210 | Congruent: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009 | Table 2, p. 4, row 6 |  |
-| Phase transition | 1211 K | 1211 | Congruent: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 5 |  |
-| Phase transition | 1211 K | 1211 | Congruent: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 4 |  |
+| Phase transition | 1089 K | 1089 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009 | Table 2, p. 4, row 18 |  |
+| Phase transition | 1090 K | 1090 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 17 |  |
+| Phase transition | 1090 K | 1090 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 16 |  |
+| Phase transition | 1210 K | 1210 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009 | Table 2, p. 4, row 6 |  |
+| Phase transition | 1211 K | 1211 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 5 |  |
+| Phase transition | 1211 K | 1211 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 4 |  |
 
 ## Sources
 

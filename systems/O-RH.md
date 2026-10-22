@@ -31,11 +31,11 @@ Table: Invariant reactions reported in the literature for the O–Rh system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2196 | Eutectic: Liquid -> (Rh)-FCC + Gas |  | model | [1] Gossé 2018 | Table 4, p. 7, row 1 |  |
-| 1422 | Peritectic: (Rh)-FCC + Gas -> Rh2O3 |  | model | [1] Gossé 2018 | Table 4, p. 7, row 2 |  |
-| 1403 | Peritectic: (Rh)-FCC + Gas -> Rh2O3 |  | experimental | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 4, p. 7, row 3 |  |
-| 1033 | Peritectoid: (Rh)-FCC + Rh2O3 -> RhO2 |  | model | [1] Gossé 2018 | Table 4, p. 7, row 4 |  |
-| 1023 | Peritectoid: (Rh)-FCC + Rh2O3 -> RhO2 |  | experimental | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 4, p. 7, row 5 |  |
+| 2196 | eutectic: Liquid -> (Rh)-FCC + Gas |  | model | [1] Gossé 2018 | Table 4, p. 7, row 1 |  |
+| 1422 | peritectic: (Rh)-FCC + Gas -> Rh2O3 |  | model | [1] Gossé 2018 | Table 4, p. 7, row 2 |  |
+| 1403 | peritectic: (Rh)-FCC + Gas -> Rh2O3 |  | experimental | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 4, p. 7, row 3 |  |
+| 1033 | peritectoid: (Rh)-FCC + Rh2O3 -> RhO2 |  | model | [1] Gossé 2018 | Table 4, p. 7, row 4 |  |
+| 1023 | peritectoid: (Rh)-FCC + Rh2O3 -> RhO2 |  | experimental | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 4, p. 7, row 5 |  |
 
 ## Formation enthalpies
 
@@ -61,12 +61,12 @@ Table: Mixing / partial, O–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 244.54 J/mol (basis unstated) | 1016 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 1, p. 3, row 3 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T^2)_ | -0.058 J/mol (basis unstated) | 1045 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Kleykamp 1969_ [doi](https://doi.org/10.1524/zpch.1969.67.4_6.277) | Table 1, p. 3, row 2 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 443.6 J/mol (basis unstated) | 1045 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Kleykamp 1969_ [doi](https://doi.org/10.1524/zpch.1969.67.4_6.277) | Table 1, p. 3, row 2 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of Tln(T))_ | -11.69 J/mol (basis unstated) | 1107.5 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Nell 1997_ [doi](https://doi.org/10.1016/s0016-7037%2897%2900209-3) | Table 1, p. 3, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 283.8 J/mol (basis unstated) | 1107.5 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Nell 1997_ [doi](https://doi.org/10.1016/s0016-7037%2897%2900209-3) | Table 1, p. 3, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 282 J/mol (basis unstated) | 1273 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Jacob 1994_ [doi](https://doi.org/10.1007/bf02665468) | Table 1, p. 3, row 7 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 0.24454 kJ/mol (basis unstated) | 1016 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 1, p. 3, row 3 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T^2)_ | -5.800e-5 kJ/mol (basis unstated) | 1045 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Kleykamp 1969_ [doi](https://doi.org/10.1524/zpch.1969.67.4_6.277) | Table 1, p. 3, row 2 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 0.4436 kJ/mol (basis unstated) | 1045 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Kleykamp 1969_ [doi](https://doi.org/10.1524/zpch.1969.67.4_6.277) | Table 1, p. 3, row 2 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of Tln(T))_ | -0.01169 kJ/mol (basis unstated) | 1107.5 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Nell 1997_ [doi](https://doi.org/10.1016/s0016-7037%2897%2900209-3) | Table 1, p. 3, row 6 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 0.2838 kJ/mol (basis unstated) | 1107.5 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Nell 1997_ [doi](https://doi.org/10.1016/s0016-7037%2897%2900209-3) | Table 1, p. 3, row 6 |  |
+| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 0.282 kJ/mol (basis unstated) | 1273 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Jacob 1994_ [doi](https://doi.org/10.1007/bf02665468) | Table 1, p. 3, row 7 |  |
 
 ## Sources
 

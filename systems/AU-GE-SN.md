@@ -28,21 +28,21 @@ Table: Invariant reactions reported in the literature for the Au–Ge–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 683 | e: L -> diamond_A4 + AuSn | L: Ge 0.07 | unspecified | [1] Wang 2009; _cites Humpston 1985_ | Table 3, p. 3, row 1 |  |
-| 682 | e: L -> diamond_A4 + AuSn | L: Ge 0.05, Sn 0.475 | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 2 |  |
-| 681 | e: L -> diamond_A4 + AuSn | L: Ge 0.033, Sn 0.483 | model | [1] Wang 2009 | Table 3, p. 3, row 3 |  |
-| 625 | U: L + fcc_A1 -> D024 + diamond_A4 | L: Ge 0.22, Sn 0.08 | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 4 |  |
-| 624 | U: L + fcc_A1 -> D024 + diamond_A4 | L: Ge 0.242, Sn 0.047 | model | [1] Wang 2009 | Table 3, p. 3, row 5 |  |
-| 608 | U: L + D024 -> hcp_A3 + diamond_A4 | L: Ge 0.137, Sn 0.153 | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 6 |  |
-| 604 | U: L + D024 -> hcp_A3 + diamond_A4 | L: Ge 0.131, Sn 0.158 | model | [1] Wang 2009 | Table 3, p. 3, row 7 |  |
-| 585 | U: L + AuSn -> diamond_A4 + AuSn2 |  | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 8 |  |
-| 583 | U: L + AuSn -> diamond_A4 + AuSn2 | L: Ge 0.005, Sn 0.719 | model | [1] Wang 2009 | Table 3, p. 3, row 9 |  |
-| 540 | E: L -> diamond_A4 + hcp_A3 + AuSn | L: Ge 0.03, Sn 0.28 | model | [1] Wang 2009 | Table 3, p. 3, row 13 |  |
-| 540 | E: L -> diamond_A4 + hcp_A3 + AuSn | L: Ge 0.06, Sn 0.27 | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 12 |  |
-| 524 | U: L + AuSn2 -> diamond_A4 + AuSn4 | L: Ge 0.002, Sn 0.886 | model | [1] Wang 2009 | Table 3, p. 3, row 11 |  |
-| 522 | U: L + AuSn2 -> diamond_A4 + AuSn4 |  | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 10 |  |
-| 487 | E: L -> bct_A5 + diamond_A4 + AuSn4 | L: Ge 0.002, Sn 0.953 | model | [1] Wang 2009 | Table 3, p. 3, row 15 |  |
-| 486 | E: L -> bct_A5 + diamond_A4 + AuSn4 |  | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 14 |  |
+| 683 | eutectic: L -> diamond_A4 + AuSn | L: Ge 0.07 | unspecified | [1] Wang 2009; _cites Humpston 1985_ | Table 3, p. 3, row 1 |  |
+| 682 | eutectic: L -> diamond_A4 + AuSn | L: Ge 0.05, Sn 0.475 | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 2 |  |
+| 681 | eutectic: L -> diamond_A4 + AuSn | L: Ge 0.033, Sn 0.483 | model | [1] Wang 2009 | Table 3, p. 3, row 3 |  |
+| 625 | quasi-peritectic: L + fcc_A1 -> D024 + diamond_A4 | L: Ge 0.22, Sn 0.08 | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 4 |  |
+| 624 | quasi-peritectic: L + fcc_A1 -> D024 + diamond_A4 | L: Ge 0.242, Sn 0.047 | model | [1] Wang 2009 | Table 3, p. 3, row 5 |  |
+| 608 | quasi-peritectic: L + D024 -> hcp_A3 + diamond_A4 | L: Ge 0.137, Sn 0.153 | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 6 |  |
+| 604 | quasi-peritectic: L + D024 -> hcp_A3 + diamond_A4 | L: Ge 0.131, Sn 0.158 | model | [1] Wang 2009 | Table 3, p. 3, row 7 |  |
+| 585 | quasi-peritectic: L + AuSn -> diamond_A4 + AuSn2 |  | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 8 |  |
+| 583 | quasi-peritectic: L + AuSn -> diamond_A4 + AuSn2 | L: Ge 0.005, Sn 0.719 | model | [1] Wang 2009 | Table 3, p. 3, row 9 |  |
+| 540 | eutectic: L -> diamond_A4 + hcp_A3 + AuSn | L: Ge 0.03, Sn 0.28 | model | [1] Wang 2009 | Table 3, p. 3, row 13 |  |
+| 540 | eutectic: L -> diamond_A4 + hcp_A3 + AuSn | L: Ge 0.06, Sn 0.27 | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 12 |  |
+| 524 | quasi-peritectic: L + AuSn2 -> diamond_A4 + AuSn4 | L: Ge 0.002, Sn 0.886 | model | [1] Wang 2009 | Table 3, p. 3, row 11 |  |
+| 522 | quasi-peritectic: L + AuSn2 -> diamond_A4 + AuSn4 |  | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 10 |  |
+| 487 | eutectic: L -> bct_A5 + diamond_A4 + AuSn4 | L: Ge 0.002, Sn 0.953 | model | [1] Wang 2009 | Table 3, p. 3, row 15 |  |
+| 486 | eutectic: L -> bct_A5 + diamond_A4 + AuSn4 |  | experimental | [1] Wang 2009; _cites Mouani 1992_ [doi](https://doi.org/10.1051/jcp/1992892107) | Table 3, p. 3, row 14 |  |
 
 ## Sources
 

@@ -94,8 +94,8 @@ Table: Phase transition, Fe–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1063 K | 1063 | congruent | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | p. 2 | “More importantly, they exhibit congruent ordering at highly off-stoichiometric compositions, for example, FePd around 59 at.% Pd (Ref 37) at 1063 ± 20 K, and FePd3 around 66 at.% Pd (Ref 37) at 1093 ± 20 K.” |
-| Phase transition | 1093 K | 1093 | congruent | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | p. 2 | “More importantly, they exhibit congruent ordering at highly off-stoichiometric compositions, for example, FePd around 59 at.% Pd (Ref 37) at 1063 ± 20 K, and FePd3 around 66 at.% Pd (Ref 37) at 1093 ± 20 K.” |
+| Phase transition | 1063 K | 1063 | congruent transformation | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | p. 2 | “More importantly, they exhibit congruent ordering at highly off-stoichiometric compositions, for example, FePd around 59 at.% Pd (Ref 37) at 1063 ± 20 K, and FePd3 around 66 at.% Pd (Ref 37) at 1093 ± 20 K.” |
+| Phase transition | 1093 K | 1093 | congruent transformation | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | p. 2 | “More importantly, they exhibit congruent ordering at highly off-stoichiometric compositions, for example, FePd around 59 at.% Pd (Ref 37) at 1063 ± 20 K, and FePd3 around 66 at.% Pd (Ref 37) at 1093 ± 20 K.” |
 
 ## Sources
 

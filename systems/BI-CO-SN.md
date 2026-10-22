@@ -30,12 +30,12 @@ Table: Invariant reactions reported in the literature for the Bi–Co–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1210.5 | U: L + FCC_A1 -> L + Co3Sn2 | L: Bi 0.270395, Co 0.399977, Sn 0.329628 | model | [1] Hu 2022 | Table 6, p. 18, row 1 |  |
-| 1059.03 | U: L + Co3Sn2 -> L + CoSn | L: Bi 0.427373, Co 0.115851, Sn 0.456776 | model | [1] Hu 2022 | Table 6, p. 18, row 2 |  |
-| 544.33 | U: L + Co3Sn2 -> CoSn + RHOMBO_A7 | L: Bi 0.998867, Co 0, Sn 0.001133 | model | [1] Hu 2022 | Table 6, p. 18, row 3 |  |
-| 482.92 | U: L + CoSn -> CoSn2 + RHOMBO_A7 | L: Bi 0.696868, Co 0, Sn 0.303132 | model | [1] Hu 2022 | Table 6, p. 18, row 4 |  |
-| 430.59 | U: L + CoSn2 -> CoSn3 + RHOMBO_A7 | L: Bi 0.463808, Co 2.000e-6, Sn 0.536189 | model | [1] Hu 2022 | Table 6, p. 18, row 5 |  |
-| 411.55 | E: L -> CoSn3 + RHOMBO_A7 + BCT_A5 | L: Bi 0.388626, Co 8.000e-6, Sn 0.611366 | model | [1] Hu 2022 | Table 6, p. 18, row 6 |  |
+| 1210.5 | quasi-peritectic: L + FCC_A1 -> L + Co3Sn2 | L: Bi 0.270395, Co 0.399977, Sn 0.329628 | model | [1] Hu 2022 | Table 6, p. 18, row 1 |  |
+| 1059.03 | quasi-peritectic: L + Co3Sn2 -> L + CoSn | L: Bi 0.427373, Co 0.115851, Sn 0.456776 | model | [1] Hu 2022 | Table 6, p. 18, row 2 |  |
+| 544.33 | quasi-peritectic: L + Co3Sn2 -> CoSn + RHOMBO_A7 | L: Bi 0.998867, Co 0, Sn 0.001133 | model | [1] Hu 2022 | Table 6, p. 18, row 3 |  |
+| 482.92 | quasi-peritectic: L + CoSn -> CoSn2 + RHOMBO_A7 | L: Bi 0.696868, Co 0, Sn 0.303132 | model | [1] Hu 2022 | Table 6, p. 18, row 4 |  |
+| 430.59 | quasi-peritectic: L + CoSn2 -> CoSn3 + RHOMBO_A7 | L: Bi 0.463808, Co 2.000e-6, Sn 0.536189 | model | [1] Hu 2022 | Table 6, p. 18, row 5 |  |
+| 411.55 | eutectic: L -> CoSn3 + RHOMBO_A7 + BCT_A5 | L: Bi 0.388626, Co 8.000e-6, Sn 0.611366 | model | [1] Hu 2022 | Table 6, p. 18, row 6 |  |
 
 ## Other properties
 

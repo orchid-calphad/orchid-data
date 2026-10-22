@@ -29,10 +29,10 @@ Table: Invariant reactions reported in the literature for the Al–Ga–U system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1515.4 | U: U1: Liquid + UAl3 -> UGa2 + UAl2 | L: Al 0.1122, Ga 0.4215, U 0.4663 | model | [1] Moussa 2018 | Table 10, p. 9, row 1 |  |
-| 1444.6 | U: U2: Liquid + UGa2 -> U3Ga5 + UAl2 | L: Al 0.0966, Ga 0.3678, U 0.5356 | model | [1] Moussa 2018 | Table 10, p. 9, row 2 |  |
-| 1262.5 | E: E: Liquid -> UAl2 + U3Ga5 + γU | L: Al 0.0495, Ga 0.2235, U 0.727 | model | [1] Moussa 2018 | Table 10, p. 9, row 3 |  |
-| 898.9 | U: U3: Liquid + UAl4 -> UAl3 + Al | L: Al 0.9422, Ga 0.0471, U 0.0107 | model | [1] Moussa 2018 | Table 10, p. 9, row 4 |  |
+| 1515.4 | quasi-peritectic: U1: Liquid + UAl3 -> UGa2 + UAl2 | L: Al 0.1122, Ga 0.4215, U 0.4663 | model | [1] Moussa 2018 | Table 10, p. 9, row 1 |  |
+| 1444.6 | quasi-peritectic: U2: Liquid + UGa2 -> U3Ga5 + UAl2 | L: Al 0.0966, Ga 0.3678, U 0.5356 | model | [1] Moussa 2018 | Table 10, p. 9, row 2 |  |
+| 1262.5 | eutectic: E: Liquid -> UAl2 + U3Ga5 + γU | L: Al 0.0495, Ga 0.2235, U 0.727 | model | [1] Moussa 2018 | Table 10, p. 9, row 3 |  |
+| 898.9 | quasi-peritectic: U3: Liquid + UAl4 -> UAl3 + Al | L: Al 0.9422, Ga 0.0471, U 0.0107 | model | [1] Moussa 2018 | Table 10, p. 9, row 4 |  |
 
 ## Other properties
 
@@ -77,39 +77,39 @@ Table: Crystal structure, Al–Ga–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.658 Å | 303 ({'op': '\<', 'printed': '\<303', 'value_K': 303.0}) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 4.041 Å | 933 ({'op': '\<', 'printed': '\<933', 'value_K': 933.0}) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 2.854 Å | 941 ({'op': '\<', 'printed': '\<941', 'value_K': 941.0}) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
+| Lattice a | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 2.854 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
 | Lattice a | 10.59 Å | 995 | βU; _alloy: Ga 0, U 1_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 4.401 Å | 1004 ({'op': '\<', 'printed': '\<1004', 'value_K': 1004.0}) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
+| Lattice a | 4.401 Å | 1004 (\<) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
 | Lattice a | 3.49 Å | 1228.5 | γU; _γU: Al 0.025, Ga 0.076, U 0.899_ | experimental | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 3 |  |
-| Lattice a | 4.257 Å | 1523 ({'op': '\<', 'printed': '\<1523', 'value_K': 1523.0}) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice a | 9.396 Å | 1533 ({'op': '\<', 'printed': '\<1533', 'value_K': 1533.0}) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice a | 4.266 Å | 1623 ({'op': '\<', 'printed': '\<1623', 'value_K': 1623.0}) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice a | 4.212 Å | 1629 ({'op': '\<', 'printed': '\<1629', 'value_K': 1629.0}) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
-| Lattice a | 7.776 Å | 1893 ({'op': '\<', 'printed': '\<1893', 'value_K': 1893.0}) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
-| Lattice b | 5.658 Å | 303 ({'op': '\<', 'printed': '\<303', 'value_K': 303.0}) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 4.041 Å | 933 ({'op': '\<', 'printed': '\<933', 'value_K': 933.0}) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
-| Lattice b | 5.867 Å | 941 ({'op': '\<', 'printed': '\<941', 'value_K': 941.0}) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
+| Lattice a | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
+| Lattice a | 9.396 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
+| Lattice a | 4.266 Å | 1623 (\<) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
+| Lattice a | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
+| Lattice a | 7.776 Å | 1893 (\<) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
+| Lattice b | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
+| Lattice b | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
+| Lattice b | 5.867 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
 | Lattice b | 10.59 Å | 995 | βU; _alloy: Ga 0, U 1_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 2 |  |
-| Lattice b | 6.255 Å | 1004 ({'op': '\<', 'printed': '\<1004', 'value_K': 1004.0}) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
+| Lattice b | 6.255 Å | 1004 (\<) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
 | Lattice b | 3.49 Å | 1228.5 | γU; _γU: Al 0.025, Ga 0.076, U 0.899_ | experimental | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 3 |  |
-| Lattice b | 4.257 Å | 1523 ({'op': '\<', 'printed': '\<1523', 'value_K': 1523.0}) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice b | 7.575 Å | 1533 ({'op': '\<', 'printed': '\<1533', 'value_K': 1533.0}) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice b | 4.266 Å | 1623 ({'op': '\<', 'printed': '\<1623', 'value_K': 1623.0}) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice b | 4.212 Å | 1629 ({'op': '\<', 'printed': '\<1629', 'value_K': 1629.0}) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
-| Lattice b | 7.776 Å | 1893 ({'op': '\<', 'printed': '\<1893', 'value_K': 1893.0}) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
-| Lattice c | 5.658 Å | 303 ({'op': '\<', 'printed': '\<303', 'value_K': 303.0}) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 4.041 Å | 933 ({'op': '\<', 'printed': '\<933', 'value_K': 933.0}) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
-| Lattice c | 4.954 Å | 941 ({'op': '\<', 'printed': '\<941', 'value_K': 941.0}) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
+| Lattice b | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
+| Lattice b | 7.575 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
+| Lattice b | 4.266 Å | 1623 (\<) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
+| Lattice b | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
+| Lattice b | 7.776 Å | 1893 (\<) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
+| Lattice c | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
+| Lattice c | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
+| Lattice c | 4.954 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
 | Lattice c | 5.634 Å | 995 | βU; _alloy: Ga 0, U 1_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 2 |  |
-| Lattice c | 13.727 Å | 1004 ({'op': '\<', 'printed': '\<1004', 'value_K': 1004.0}) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
+| Lattice c | 13.727 Å | 1004 (\<) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
 | Lattice c | 3.49 Å | 1228.5 | γU; _γU: Al 0.025, Ga 0.076, U 0.899_ | experimental | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 3 |  |
-| Lattice c | 4.257 Å | 1523 ({'op': '\<', 'printed': '\<1523', 'value_K': 1523.0}) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice c | 9.387 Å | 1533 ({'op': '\<', 'printed': '\<1533', 'value_K': 1533.0}) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice c | 4.266 Å | 1623 ({'op': '\<', 'printed': '\<1623', 'value_K': 1623.0}) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice c | 4.024 Å | 1629 ({'op': '\<', 'printed': '\<1629', 'value_K': 1629.0}) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
-| Lattice c | 7.776 Å | 1893 ({'op': '\<', 'printed': '\<1893', 'value_K': 1893.0}) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
+| Lattice c | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
+| Lattice c | 9.387 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
+| Lattice c | 4.266 Å | 1623 (\<) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
+| Lattice c | 4.024 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
+| Lattice c | 7.776 Å | 1893 (\<) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

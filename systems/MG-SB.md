@@ -1,10 +1,10 @@
 # Mg–Sb system
 
-> Mg–Sb system: 63 accepted literature values (formation 35, invariant reaction 14, heat capacity / entropy / enthalpy 8, phase transition 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Sb system: 49 accepted literature values (formation 25, invariant reaction 14, heat capacity / entropy / enthalpy 4, phase transition 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SB.html · Markdown: https://data.orchid-project.org/systems/MG-SB.md
 
-63 accepted literature values from 2 paper(s) (experimental 15, model 46, unspecified 2); 3 calculated phase diagram(s).
+49 accepted literature values from 2 paper(s) (experimental 14, model 33, unspecified 2); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SB.json) · [CSV](https://data.orchid-project.org/systems/MG-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SB/MgSb-05Bal.json) · [Markdown](https://data.orchid-project.org/systems/MG-SB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
-| model | 46 |
+| experimental | 14 |
+| model | 33 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 14 |
 | phase transition | 4 |
-| formation | 35 |
-| heat capacity / entropy / enthalpy | 8 |
+| formation | 25 |
+| heat capacity / entropy / enthalpy | 4 |
 | crystal structure | 2 |
 
 ## Calculated phase diagrams
@@ -84,7 +84,7 @@ Table: Invariant reactions reported in the literature for the Mg–Sb system (14
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mg–Sb system (31)
+Table: Enthalpies of formation, Mg–Sb system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -94,24 +94,14 @@ Table: Enthalpies of formation, Mg–Sb system (31)
 | — |  | 300 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | p. 2 | “These values can be compared to the value chosen by Hultgren et al.,~4 320 (-+40) kJ/mol at 800 K and the value chosen by Barin et al., 15 300 kJ/mol at 298 K.” |
 | — |  | 320 unspecified ± 40 | 800 | experimental |  |  | [1] Jönsson 1987; _cites Kauzmann 1948_ [doi](https://doi.org/10.1021/cr60135a002) | p. 2 | “These values can be compared to the value chosen by Hultgren et al.,~4 320 (-+40) kJ/mol at 800 K and the value chosen by Barin et al., 15 300 kJ/mol at 298 K.” |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -64 kJ/mol-atom ± 40 | 800 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -64 kJ/mol-atom ± 40 | 800 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -60 kJ/mol-atom | 298 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 2 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -60 kJ/mol-atom | 298 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 2 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -59.8 kJ/mol-atom ± 3 | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Rao 1829_ | Table 1I, p. 4, row 10 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -59.8 kJ/mol-atom ± 3 | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Rao 1829_ | Table 1I, p. 4, row 10 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -57 kJ/mol-atom | 923 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Kubaschewski 1939_ | Table 1I, p. 4, row 12 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -57 kJ/mol-atom | 923 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Kubaschewski 1939_ | Table 1I, p. 4, row 12 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -55.2 kJ/mol-atom | 298 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 1 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -55.2 kJ/mol-atom | 298 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 1 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -53.2 kJ/mol-atom | 773 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 5 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -53.2 kJ/mol-atom | 773 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 5 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -53.2 kJ/mol-atom | 800 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 7 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -53.2 kJ/mol-atom | 800 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 7 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -52.6 kJ/mol-atom | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 9 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -52.6 kJ/mol-atom | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 9 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -52.4 kJ/mol-atom | 923 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 11 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -52.4 kJ/mol-atom | 923 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 11 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -47 kJ/mol-atom ± 6 | 773 | experimental | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Eremenko 1964_ | Table 1I, p. 4, row 6 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -47 kJ/mol-atom ± 6 | 773 | experimental | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Eremenko 1964_ | Table 1I, p. 4, row 6 |  |
 | α-Mg3Sb2 |  | -490 kJ/mol (basis unstated) | 298 | model |  |  | [2] Balakumar 2005 | Table 8, p. 9, row 6 |  |
 | α-Mg3Sb2 |  | -320 kJ/mol (basis unstated) ± 40 | 800 | model |  |  | [2] Balakumar 2005; _cites Hultgren 1973_ | Table 8, p. 9, row 4 |  |
@@ -144,20 +134,16 @@ Table: Formation, Mg–Sb system
 | Entropy of formation; _printed: ΔSf_ | -91 J/mol (basis unstated)/K ± 52 | 800 | α-Mg3Sb2; _alloy: Sb 0.4_ | model | [2] Balakumar 2005; _cites Hultgren 1973_ | Table 8, p. 9, row 4 |  |
 | Entropy of formation; _printed: ΔSf_ | -59 J/mol (basis unstated)/K ± 5 | 900 | α-Mg3Sb2; _alloy: Sb 0.4_ | experimental | [2] Balakumar 2005; _cites Rao 1835_ | Table 8, p. 9, row 1 |  |
 
-### Heat capacity / entropy / enthalpy (8)
+### Heat capacity / entropy / enthalpy (4)
 
 Table: Heat capacity / entropy / enthalpy, Mg–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S^α\_298_ | 26.06 J/mol-atom/K | 298 | Mg3Sb2; _alloy: Sb 0.4_ | model | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 4 |  |
-| Entropy; _printed: S°α 298_ | 26.06 J/mol-atom/K | 298 | Mg3Sb2; _alloy: Sb 0.4_ | model | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 4 |  |
 | Entropy; _printed: S°α 298_ | 29 J/mol-atom/K | 298 | Mg3Sb2; _alloy: Sb 0.4_ | model | [1] Jönsson 1987 | Table 1I, p. 4, row 3 |  |
-| Entropy; _printed: S^α\_298_ | 29 J/mol-atom/K | 298 | Mg3Sb2; _alloy: Sb 0.4_ | model | [1] Jönsson 1987 | Table 1I, p. 4, row 3 |  |
 | Entropy; _printed: ΔS α→β 1203_ | 88.2 J/mol, K per formula unit | 1203 | Mg3Sb2; _alloy: Sb 0.4_ | model | [1] Jönsson 1987 | Table 1I, p. 4, row 15 |  |
-| Entropy; _printed: ΔS^α→β\_1203_ | 88.2 J/mol, K per formula unit | 1203 | Mg3Sb2; _alloy: Sb 0.4_ | model | [1] Jönsson 1987 | Table 1I, p. 4, row 15 |  |
 | Entropy; _printed: ΔS α→β 1203_ | 61.2 J/mol, K per formula unit | 1203 | Mg3Sb2; _alloy: Sb 0.4_ | model | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 16 |  |
-| Entropy; _printed: ΔS^α→β\_1203_ | 61.2 J/mol, K per formula unit | 1203 | Mg3Sb2; _alloy: Sb 0.4_ | model | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 16 |  |
 
 ### Crystal structure (2)
 

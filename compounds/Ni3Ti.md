@@ -1,16 +1,16 @@
 # Ni3Ti: enthalpy of formation
 
-> Enthalpy of formation of Ni3Ti: 34 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ni3Ti: 32 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ni3Ti.html · Markdown: https://data.orchid-project.org/compounds/Ni3Ti.md
 
-34 accepted literature formation-enthalpy value(s) (experimental 7, model 16, DFT 11); experimental median -42.2 kJ/mol-atom (n = 1); Materials Project -46.582 kJ/mol-atom (mp-aaaaaccf); OQMD -47.751 kJ/mol-atom (oqmd-5776).
+32 accepted literature formation-enthalpy value(s) (experimental 7, model 16, DFT 9); experimental median -42.2 kJ/mol-atom (n = 1); Materials Project -46.582 kJ/mol-atom (mp-aaaaaccf); OQMD -47.751 kJ/mol-atom (oqmd-5776).
 
 Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) · [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ni3Ti reported in the literature (34)
+Table: Enthalpy of formation of Ni3Ti reported in the literature (32)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -40,9 +40,7 @@ Table: Enthalpy of formation of Ni3Ti reported in the literature (34)
 | -48.73 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 5, p. 4, row 8 |  |
 | -46.313 kJ/mol-atom | TiNi3 | 0 | DFT | 1st-princ. (PBE GGA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 13 |  |
 | -45.99 kJ/mol-atom | Ni3Ti(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
-| -45.99 kJ/mol-atom | Ni3Ti(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
 | -45.928 kJ/mol-atom | TiNi3 | 0 | DFT | 1st-princ., GGA | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013 | Table 6, p. 8, row 10 |  |
-| -45.1 kJ/mol-atom | Ni3Ti(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 6 |  |
 | -45.1 kJ/mol-atom | Ni3Ti(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 6 |  |
 | -29.5 kJ/mol-atom | Ni3Ti(D03) | 0 | DFT | First-principles | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [4] Hu 2014 | Table 1, p. 5, row 14 |  |
 | -8.72 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 5, p. 4, row 9 |  |

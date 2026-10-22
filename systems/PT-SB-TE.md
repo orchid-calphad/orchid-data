@@ -27,22 +27,22 @@ Table: Invariant reactions reported in the literature for the Pt–Sb–Te syste
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1354 | other: liquid + PtTe2 + PtSb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 1 |  |
-| 1246 | U: liquid + PtSb2 -> PtSb + PtTe2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 5 |  |
-| 1230 | P: liquid + Pt3Te4 + PtTe2 -> Pt2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 4 |  |
-| 989 | U: liquid + PtTe2 -> Pt2Te3 + PtSb |  | model | [1] Guo 2015 | Table IV, p. 13, row 6 |  |
-| 982 | U: liquid + fcc -> PtTe + Pt5Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 7 |  |
-| 976 | U: liquid + PtSb -> Pt2Te3 + Pt3Sb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 8 |  |
-| 947 | U: liquid + Pt2Te3 -> Pt3Sb2 + Pt3Te4 |  | model | [1] Guo 2015 | Table IV, p. 13, row 9 |  |
-| 931 | U: liquid + Pt5Sb -> PtTe + Pt3Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 10 |  |
-| 914 | U: liquid + PtTe -> Pt3Te4 + Pt3Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 11 |  |
-| 913 | U: liquid + Pt3Te4 -> Pt3Sb + Pt3Sb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 12 |  |
+| 1246 | quasi-peritectic: liquid + PtSb2 -> PtSb + PtTe2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 5 |  |
+| 1230 | peritectic: liquid + Pt3Te4 + PtTe2 -> Pt2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 4 |  |
+| 989 | quasi-peritectic: liquid + PtTe2 -> Pt2Te3 + PtSb |  | model | [1] Guo 2015 | Table IV, p. 13, row 6 |  |
+| 982 | quasi-peritectic: liquid + fcc -> PtTe + Pt5Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 7 |  |
+| 976 | quasi-peritectic: liquid + PtSb -> Pt2Te3 + Pt3Sb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 8 |  |
+| 947 | quasi-peritectic: liquid + Pt2Te3 -> Pt3Sb2 + Pt3Te4 |  | model | [1] Guo 2015 | Table IV, p. 13, row 9 |  |
+| 931 | quasi-peritectic: liquid + Pt5Sb -> PtTe + Pt3Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 10 |  |
+| 914 | quasi-peritectic: liquid + PtTe -> Pt3Te4 + Pt3Sb |  | model | [1] Guo 2015 | Table IV, p. 13, row 11 |  |
+| 913 | quasi-peritectic: liquid + Pt3Te4 -> Pt3Sb + Pt3Sb2 |  | model | [1] Guo 2015 | Table IV, p. 13, row 12 |  |
 | 890 | other: liquid + PtSb2 + Sb2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 2 |  |
-| 872 | U: liquid + PtSb2 -> PtTe2 + Sb2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 13 |  |
-| 831 | U: liquid + Sb2Te3 -> PtSb2 + Gamma |  | model | [1] Guo 2015 | Table IV, p. 13, row 14 |  |
-| 821 | U: liquid + rhom(Sb) -> PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 15 |  |
-| 820 | U: liquid + gamma -> PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 16 |  |
+| 872 | quasi-peritectic: liquid + PtSb2 -> PtTe2 + Sb2Te3 |  | model | [1] Guo 2015 | Table IV, p. 13, row 13 |  |
+| 831 | quasi-peritectic: liquid + Sb2Te3 -> PtSb2 + Gamma |  | model | [1] Guo 2015 | Table IV, p. 13, row 14 |  |
+| 821 | quasi-peritectic: liquid + rhom(Sb) -> PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 15 |  |
+| 820 | quasi-peritectic: liquid + gamma -> PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 16 |  |
 | 817 | other: liquid + PtSb2 + delta |  | model | [1] Guo 2015 | Table IV, p. 13, row 3 |  |
-| 687 | E: liquid -> PtTe2 + Sb2Te3 + hex(Te) |  | model | [1] Guo 2015 | Table IV, p. 13, row 17 |  |
+| 687 | eutectic: liquid -> PtTe2 + Sb2Te3 + hex(Te) |  | model | [1] Guo 2015 | Table IV, p. 13, row 17 |  |
 
 ## Sources
 

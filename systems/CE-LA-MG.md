@@ -45,12 +45,12 @@ Table: Phase transition, Ce–La–Mg system
 | Phase transition | 903.15 K | 903.15 | other: /REMg3 + RE2Mg17; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 18 |  |
 | Phase transition | 907.15 K | 907.15 | other: /L + REMg3 + RE2Mg17; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 6 |  |
 | Phase transition | 908.15 K | 908.15 | other: /L + REMg3 + RE2Mg17; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 16 |  |
-| Phase transition | 909.15 K | 909.15 | liquidus: L/L + REMg3; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 3 |  |
-| Phase transition | 919.15 K | 919.15 | liquidus: L /L + REMg3; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 13 |  |
-| Phase transition | 920.15 K | 920.15 | liquidus: L/L + REMg3; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 1 |  |
-| Phase transition | 930.15 K | 930.15 | liquidus: L /L + REMg3; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 15 |  |
-| Phase transition | 944.15 K | 944.15 | liquidus: L/L + REMg3; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 2 |  |
-| Phase transition | 966.15 K | 966.15 | liquidus: L /L + REMg3; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 14 |  |
+| Phase transition | 909.15 K | 909.15 | other: L/L + REMg3; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 3 |  |
+| Phase transition | 919.15 K | 919.15 | other: L /L + REMg3; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 13 |  |
+| Phase transition | 920.15 K | 920.15 | other: L/L + REMg3; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 1 |  |
+| Phase transition | 930.15 K | 930.15 | other: L /L + REMg3; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | model | [1] Gröbner 2012 | Table 4, p. 6, row 15 |  |
+| Phase transition | 944.15 K | 944.15 | other: L/L + REMg3; _alloy: Ce 0.0921665, La 0.0122039, Mg 0.89563_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 2 |  |
+| Phase transition | 966.15 K | 966.15 | other: L /L + REMg3; _alloy: Ce 0.0991902, La 0.0145632, Mg 0.886247_ | experimental | [1] Gröbner 2012 | Table 4, p. 6, row 14 |  |
 
 ## Sources
 

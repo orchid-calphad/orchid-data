@@ -1,16 +1,16 @@
 # MoSi2: enthalpy of formation
 
-> Enthalpy of formation of MoSi2: 37 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of MoSi2: 28 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/MoSi2.html · Markdown: https://data.orchid-project.org/compounds/MoSi2.md
 
-37 accepted literature formation-enthalpy value(s) (experimental 13, model 24); experimental median -43.9 kJ/mol-atom (n = 13); Materials Project -48.078 kJ/mol-atom (mp-aaaaadvs); OQMD -47.919 kJ/mol-atom (oqmd-17715).
+28 accepted literature formation-enthalpy value(s) (experimental 9, model 19); experimental median -43.9 kJ/mol-atom (n = 9); Materials Project -48.078 kJ/mol-atom (mp-aaaaadvs); OQMD -47.919 kJ/mol-atom (oqmd-17715).
 
 Systems: [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of MoSi2 reported in the literature (37)
+Table: Enthalpy of formation of MoSi2 reported in the literature (28)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -19,26 +19,18 @@ Table: Enthalpy of formation of MoSi2 reported in the literature (37)
 | -45.7 kJ/mol-atom ± 1.5 | MoSi2 | 298 | experimental | Combustion calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites OHare 1993_ | Table 8, p. 10, row 30 |  |
 | -45.7 kJ/mol-atom ± 1.3 | MoSi2 | 298 | experimental | Combustion calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites OHare 1993_ | Table 8, p. 10, row 30 |  |
 | -43.9 kJ/mol-atom ± 3 | MoSi2 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 20 |  |
-| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 20 |  |
-| -43.9 kJ/mol-atom ± 3 | MoSi2 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 21 |  |
 | -43.9 kJ/mol-atom ± 3 | MoSi2 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 21 |  |
 | -43.9 kJ/mol-atom ± 3 | MoSi2 | 298 | experimental | Exp | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
 | -43.76 kJ/mol-atom ± 2.09 | MoSi2 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 19 |  |
-| -43.76 kJ/mol-atom ± 2.09 | MoSi2 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 19 |  |
 | -39.609 kJ/mol-atom | MoSi2 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 22 |  |
-| -39.609 kJ/mol-atom | MoSi2 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 22 |  |
-| -46.5157 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 26 |  |
 | -46.5157 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 26 |  |
 | -46.5157 kJ/mol-atom | MoSi2 | 298 | model | Assessed | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
-| -46.5157 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 24 |  |
 | -46.5157 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 24 |  |
 | -46.5157 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
 | -45.7 kJ/mol-atom ± 1.5 | MoSi2 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Costa 1994_ | Table 8, p. 10, row 27 |  |
 | -45.7 kJ/mol-atom | MoSi2 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Costa 1994_ | Table 8, p. 10, row 27 |  |
 | -45.6667 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
 | -45.6667 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 25 |  |
-| -45.6667 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 25 |  |
-| -45.156 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000 | Table 2, p. 6, row 27 |  |
 | -45.156 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000 | Table 2, p. 6, row 27 |  |
 | -45.156 kJ/mol-atom | MoSi2 | 298 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
 | -43.9 kJ/mol-atom ± 3 | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
@@ -47,7 +39,6 @@ Table: Enthalpy of formation of MoSi2 reported in the literature (37)
 | -43.8 kJ/mol-atom ± 3.3 | MoSi2 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Geng 2010_ | Table 8, p. 10, row 14 |  |
 | -43.76 kJ/mol-atom ± 2.09 | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
 | -43.7 kJ/mol-atom | MoSi2 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024 | Table 8, p. 10, row 3 |  |
-| -42.53 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 23 |  |
 | -42.53 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 23 |  |
 | -42.53 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | -39.609 kJ/mol-atom | MoSi2 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |

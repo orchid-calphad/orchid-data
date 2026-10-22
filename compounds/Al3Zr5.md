@@ -1,16 +1,16 @@
 # Al3Zr5: enthalpy of formation
 
-> Enthalpy of formation of Al3Zr5: 33 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al3Zr5: 30 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al3Zr5.html · Markdown: https://data.orchid-project.org/compounds/Al3Zr5.md
 
-33 accepted literature formation-enthalpy value(s) (experimental 5, model 24, DFT 4); experimental median -39 kJ/mol-atom (n = 5); Materials Project -36.102 kJ/mol-atom (mp-aaaaaytg); OQMD -36.236 kJ/mol-atom (oqmd-10625).
+30 accepted literature formation-enthalpy value(s) (experimental 4, model 22, DFT 4); experimental median -43.5 kJ/mol-atom (n = 4); Materials Project -36.102 kJ/mol-atom (mp-aaaaaytg); OQMD -36.236 kJ/mol-atom (oqmd-10625).
 
 Systems: [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) · [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) · [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al3Zr5 reported in the literature (33)
+Table: Enthalpy of formation of Al3Zr5 reported in the literature (30)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -18,19 +18,16 @@ Table: Enthalpy of formation of Al3Zr5 reported in the literature (33)
 | -48 kJ/mol-atom ± 4 | Al3Zr5 | 298.15 | experimental |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 94 |  |
 | -39 kJ/mol-atom | Al3Zr5 | 298.15 | experimental |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [3] Fischer 2015; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 2, p. 4, row 92 |  |
 | -38.99 kJ/mol-atom | Al3Zr5 | 298.15 | experimental |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [4] Saunders 1986; _cites ref. 36_ | Table 2, p. 5, row 13 |  |
-| -38.99 kJ/mol-atom | Al3Zr5 | 298.15 | experimental |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [4] Saunders 1986; _cites ref. 36_ | Table 2, p. 5, row 13 |  |
 | -51.5 kJ/mol-atom | Al3Zr5 | 298.15 | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [3] Fischer 2015; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 2, p. 4, row 95 |  |
 | -51.5 kJ/mol-atom | Zr5Al3 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] T 2001 | Table 2, p. 2, row 7 |  |
 | -51.484 kJ/mol-atom | Al3Zr5 |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 98 |  |
 | -47.803 kJ/mol-atom | Al3Zr5 |  | model |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020 | Table 4, p. 7, row 89 |  |
 | -39.973 kJ/mol-atom | Al3Zr5 |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 100 |  |
 | -39.806 kJ/mol-atom | Al3Zr5 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [4] Saunders 1986 | Table 4, p. 8, row 14 |  |
-| -39.806 kJ/mol-atom | Al3Zr5 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [4] Saunders 1986 | Table 4, p. 8, row 14 |  |
 | -39.806 kJ/mol-atom | Al3Zr5 |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 95 |  |
 | -39 kJ/mol-atom | Al3Zr5 |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 97 |  |
 | -39 kJ/mol-atom | Al3Zr5 | 298.15 | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [3] Fischer 2015; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 2, p. 4, row 93 |  |
 | -37.6 kJ/mol-atom | Al3Zr5 | 298.15 | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [3] Fischer 2015; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 2, p. 4, row 97 |  |
-| -37.11 kJ/mol-atom | Al3Zr5 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [4] Saunders 1986 | Table 2, p. 5, row 14 |  |
 | -37.11 kJ/mol-atom | Al3Zr5 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [4] Saunders 1986 | Table 2, p. 5, row 14 |  |
 | -36.611 kJ/mol-atom | Al3Zr5 |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [2] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 99 |  |
 | -36.56 kJ/mol-atom | Al3Zr5 | 298.15 | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [3] Fischer 2015 | Table 2, p. 4, row 96 |  |

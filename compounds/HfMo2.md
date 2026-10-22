@@ -1,20 +1,19 @@
 # HfMo2: enthalpy of formation
 
-> Enthalpy of formation of HfMo2: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of HfMo2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/HfMo2.html · Markdown: https://data.orchid-project.org/compounds/HfMo2.md
 
-5 accepted literature formation-enthalpy value(s) (model 5); Materials Project -16.577 kJ/mol-atom (mp-aaaaadmx); OQMD -16.409 kJ/mol-atom (oqmd-17365).
+4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -16.577 kJ/mol-atom (mp-aaaaadmx); OQMD -16.409 kJ/mol-atom (oqmd-17365).
 
 Systems: [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of HfMo2 reported in the literature (5)
+Table: Enthalpy of formation of HfMo2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -11 kJ/mol-atom ± 1.4 | HfMo2–C15 |  | model | Estimation | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 5, row 6 |  |
 | -11 kJ/mol-atom ± 1.4 | HfMo2–C15 |  | model | Estimation | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 5, row 6 |  |
 | -10.6 kJ/mol-atom | HfMo2–C15 |  | model | CALPHAD | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002 | Table 1, p. 5, row 7 |  |
 | -9.6 kJ/mol-atom | HfMo2–C36 |  | model | CALPHAD | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002 | Table 1, p. 5, row 4 |  |

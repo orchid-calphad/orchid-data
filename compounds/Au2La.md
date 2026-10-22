@@ -1,20 +1,19 @@
 # Au2La: enthalpy of formation
 
-> Enthalpy of formation of Au2La: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Au2La: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Au2La.html · Markdown: https://data.orchid-project.org/compounds/Au2La.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Au2La reported in the literature (2)
+Table: Enthalpy of formation of Au2La reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -81.5 kJ/mol-atom | Au2La | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
 | -81.5 kJ/mol-atom | Au2La | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
 
 ## Sources

@@ -54,14 +54,14 @@ Table: Mixing / partial, Hf–V–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmelting_ | -5528 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4350 J/mol (basis unstated) | 298.15 | liquid | model | [1] Servant 2005 | Table 1, p. 2, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4670 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4420 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4692 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4204 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -4350 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmelting_ | -3920 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -5.528 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.35 kJ/mol (basis unstated) | 298.15 | liquid | model | [1] Servant 2005 | Table 1, p. 2, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.67 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.42 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.692 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.204 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.35 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -3.92 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 10 |  |
 
 ## Sources
 

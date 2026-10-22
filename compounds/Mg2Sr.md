@@ -1,22 +1,20 @@
 # Mg2Sr: enthalpy of formation
 
-> Enthalpy of formation of Mg2Sr: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Mg2Sr: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Mg2Sr.html · Markdown: https://data.orchid-project.org/compounds/Mg2Sr.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, unspecified 2); experimental median -7.117 kJ/mol-atom (n = 2); Materials Project -8.916 kJ/mol-atom (mp-aaacpofm); OQMD -10.194 kJ/mol-atom (oqmd-30729).
+2 accepted literature formation-enthalpy value(s) (experimental 1, unspecified 1); experimental median -7.117 kJ/mol-atom (n = 1); Materials Project -8.916 kJ/mol-atom (mp-aaacpofm); OQMD -10.194 kJ/mol-atom (oqmd-30729).
 
 Systems: [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Mg2Sr reported in the literature (4)
+Table: Enthalpy of formation of Mg2Sr reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -7.117 kJ/mol-atom | Mg2Sr-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 15 |  |
-| -7.117 kJ/mol-atom | Mg2Sr-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 15 |  |
-| -10.6189 kJ/mol-atom | Mg2Sr-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
 | -10.6189 kJ/mol-atom | Mg2Sr-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
 
 ## DFT formation energies

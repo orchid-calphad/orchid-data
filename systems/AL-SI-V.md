@@ -1,10 +1,10 @@
 # Al–Si–V system
 
-> Al–Si–V system: 86 accepted literature values (crystal structure 40, formation 27, invariant reaction 12, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Si–V system: 85 accepted literature values (crystal structure 39, formation 27, invariant reaction 12, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SI-V.html · Markdown: https://data.orchid-project.org/systems/AL-SI-V.md
 
-86 accepted literature values from 1 paper(s) (experimental 16, model 49, DFT 21); 0 calculated phase diagram(s).
+85 accepted literature values from 1 paper(s) (experimental 16, model 48, DFT 21); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SI-V.json) · [CSV](https://data.orchid-project.org/systems/AL-SI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SI-V) · [Markdown](https://data.orchid-project.org/systems/AL-SI-V.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 16 |
-| model | 49 |
+| model | 48 |
 | DFT | 21 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 12 |
 | phase equilibrium | 7 |
 | formation | 27 |
-| crystal structure | 40 |
+| crystal structure | 39 |
 
 ## Invariant reactions (literature)
 
@@ -96,7 +96,7 @@ Table: Phase equilibrium, Al–Si–V system
 | Phase composition |  | 1123.15 | Al3V; _Al3V: Al 0.729, Si 0.019, V 0.252_ | experimental | [1] Luo 2018 | Table 2, p. 5, row 2 |  |
 | Phase composition |  | 1203.15 | Al3V; _Al3V: Al 0.727, Si 0.024, V 0.249_ | experimental | [1] Luo 2018 | Table 2, p. 5, row 3 |  |
 
-### Crystal structure (40)
+### Crystal structure (39)
 
 Table: Crystal structure, Al–Si–V system
 
@@ -121,7 +121,6 @@ Table: Crystal structure, Al–Si–V system
 | Lattice a; _printed: a_ | 9.395 Å | 0 | Si3V5; _alloy: Si 0.375, V 0.625_ | DFT | [1] Luo 2018; _cites Broz 2013_ [doi](https://doi.org/10.1016/j.jssc.2012.12.003) | Table 3, p. 5, row 16 |  |
 | Lattice a; _printed: a_ | 9.383 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [1] Luo 2018; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 3, p. 5, row 15 |  |
 | Lattice a; _printed: a_ | 9.864 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [1] Luo 2018 | Table 3, p. 5, row 20 |  |
-| Lattice a; _printed: a_ | 9.864 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [1] Luo 2018 | Table 3, p. 5, row 19 |  |
 | Lattice a; _printed: a_ | 4.551 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 26 |  |
 | Lattice a; _printed: a_ | 4.961 Å |  | τ | model | [1] Luo 2018 | Table 3, p. 5, row 27 |  |
 | Lattice b; _printed: b_ | 7.611 Å |  | Al45V7; _alloy: Si 0, V 0.134615_ | DFT | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |

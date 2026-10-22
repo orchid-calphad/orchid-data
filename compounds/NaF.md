@@ -1,22 +1,20 @@
 # NaF: enthalpy of formation
 
-> Enthalpy of formation of NaF: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NaF: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NaF.html · Markdown: https://data.orchid-project.org/compounds/NaF.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, DFT 2); experimental median -287.69 kJ/mol-atom (n = 2); Materials Project -283.373 kJ/mol-atom (mp-aaaaabag); OQMD -286.946 kJ/mol-atom (oqmd-5686).
+2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -287.69 kJ/mol-atom (n = 1); Materials Project -283.373 kJ/mol-atom (mp-aaaaabag); OQMD -286.946 kJ/mol-atom (oqmd-5686).
 
 Systems: [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NaF reported in the literature (4)
+Table: Enthalpy of formation of NaF reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -287.69 kJ/mol-atom | NaF | 0 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 29 |  |
-| -287.69 kJ/mol-atom | NaF | 0 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 29 |  |
-| -269.597 kJ/mol-atom | NaF | 0 | DFT | first-principle calculations | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
 | -269.597 kJ/mol-atom | NaF | 0 | DFT | first-principle calculations | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
 
 ## DFT formation energies

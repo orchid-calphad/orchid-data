@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Li2O.html · Markdown: https://data.orchid-project.org/compounds/Li2O.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 3, model 2); experimental median -597.48 kJ/mol-atom (n = 3); Materials Project -198.913 kJ/mol-atom (mp-aaaaacxk); OQMD -191.001 kJ/mol-atom (oqmd-18939).
+5 accepted literature formation-enthalpy value(s) (experimental 3, model 2); experimental median -199.16 kJ/mol-atom (n = 3); Materials Project -198.913 kJ/mol-atom (mp-aaaaacxk); OQMD -191.001 kJ/mol-atom (oqmd-18939).
 
 Systems: [Li–O](https://data.orchid-project.org/systems/LI-O.html)
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Li2O reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -597.902 kJ/mol-atom ± 0.276 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 21_ | Table 4, p. 5, row 2 |  |
-| -597.48 kJ/mol-atom ± 1.3 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 20_ | Table 4, p. 5, row 1 |  |
-| -596.5 kJ/mol-atom ± 0.67 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 22_ | Table 4, p. 5, row 3 |  |
-| -598.73 kJ/mol-atom ± 2.1 | Li2O | 298.15 | model | Assessment | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 4 |  |
-| -597 kJ/mol-atom | Li2O | 298.15 | model | Calculation | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011 | Table 4, p. 5, row 5 |  |
+| -199.301 kJ/mol-atom ± 0.092 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 21_ | Table 4, p. 5, row 2 |  |
+| -199.16 kJ/mol-atom ± 0.433333 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 20_ | Table 4, p. 5, row 1 |  |
+| -198.833 kJ/mol-atom ± 0.223333 | Li2O | 298.15 | experimental | Calorimetry | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites ref. 22_ | Table 4, p. 5, row 3 |  |
+| -199.577 kJ/mol-atom ± 0.7 | Li2O | 298.15 | model | Assessment | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 4 |  |
+| -199 kJ/mol-atom | Li2O | 298.15 | model | Calculation | [Li–O](https://data.orchid-project.org/systems/LI-O.html) | [1] Chang 2011 | Table 4, p. 5, row 5 |  |
 
 ## DFT formation energies
 

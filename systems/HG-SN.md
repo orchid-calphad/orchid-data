@@ -1,10 +1,10 @@
 # Hg–Sn system
 
-> Hg–Sn system: 76 accepted literature values (phase transition 31, invariant reaction 27, crystal structure 14, activity / EMF / Gibbs energy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Sn system: 73 accepted literature values (phase transition 31, invariant reaction 24, crystal structure 14, activity / EMF / Gibbs energy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-SN.html · Markdown: https://data.orchid-project.org/systems/HG-SN.md
 
-76 accepted literature values from 1 paper(s) (experimental 43, model 33); 1 calculated phase diagram(s).
+73 accepted literature values from 1 paper(s) (experimental 43, model 30); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-SN.json) · [CSV](https://data.orchid-project.org/systems/HG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-SN/HgSn-03Yen-LB.json) · [Markdown](https://data.orchid-project.org/systems/HG-SN.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 43 |
-| model | 33 |
+| model | 30 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 24 |
 | phase transition | 31 |
 | mixing / partial | 1 |
 | activity / EMF / Gibbs energy | 2 |
@@ -51,37 +51,34 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hg–Sn system (27)
+Table: Invariant reactions reported in the literature for the Hg–Sn system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 497.1 | Peritectic: L + βSn -> β | L: Sn 0.9726 | model | [1] Yen 2003 | Table 8, p. 9, row 2 |  |
-| 497.1 | Peritectic: L + βSn -> β | L: Sn 0.9726 | model | [1] Yen 2003 | Table 8, p. 9, row 1 |  |
-| 496.5 | Peritectic: L + βSn -> β | L: Sn 0.97 | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 8, p. 9, row 3 |  |
-| 487.5 | Peritectic: L + β -> γ | L: Sn 0.9177; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 4 |  |
-| 487 | Peritectic: L + β -> γ | L: Sn 0.912; γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 8, p. 9, row 6 |  |
+| 497.1 | peritectic: L + βSn -> β | L: Sn 0.9726 | model | [1] Yen 2003 | Table 8, p. 9, row 2 |  |
+| 496.5 | peritectic: L + βSn -> β | L: Sn 0.97 | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 8, p. 9, row 3 |  |
+| 487.5 | peritectic: L + β -> γ | L: Sn 0.9177; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 4 |  |
+| 487 | peritectic: L + β -> γ | L: Sn 0.912; γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 8, p. 9, row 6 |  |
 | 484.3 | peritectic |  | model | [1] Yen 2003 | p. 13 | “Calculated temperatures and compositions of invariant reactions in Case 2 compare well with the experimental data and are listed in Table 8, except for the peritectic calculated at 484.3 K.” |
-| 484.2 | Peritectic: L + β -> γ | L: Sn 0.9043; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 5 |  |
-| 473.4 | Eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 7 |  |
-| 472.1 | Eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 8 |  |
-| 471.5 | Eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003 | Table 8, p. 9, row 9 |  |
+| 484.2 | peritectic: L + β -> γ | L: Sn 0.9043; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 5 |  |
+| 473.4 | eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 7 |  |
+| 472.1 | eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 8 |  |
+| 471.5 | eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003 | Table 8, p. 9, row 9 |  |
 | 368 | peritectic |  | experimental | [1] Yen 2003; _cites Yan-Sho-Syan 1969_ | p. 5 | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
 | 364.6 | peritectic |  | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | p. 5 | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
-| 363.5 | Peritectic: L + γ -> δ | L: Sn 0.1453; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 10 |  |
-| 363 | Peritectic: L + γ -> δ | γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003 | Table 8, p. 9, row 11 |  |
+| 363.5 | peritectic: L + γ -> δ | L: Sn 0.1453; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 10 |  |
+| 363 | peritectic: L + γ -> δ | γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003 | Table 8, p. 9, row 11 |  |
 | 363 | peritectic |  | experimental | [1] Yen 2003; _cites Prytherch 1937_ | p. 5 | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
 | 358 | peritectic |  | experimental | [1] Yen 2003; _cites El-Handary 1984_ | p. 5 | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
 | 353 | peritectic |  | experimental | [1] Yen 2003; _cites Sarkar 1985_ | p. 5 | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
-| 265.6 | Metatectic: γ -> L + αSn | γ: Sn 0.9231; L: Sn 0.0127 | model | [1] Yen 2003 | Table 8, p. 9, row 12 |  |
-| 265 | Metatectic: γ -> L + αSn | γ: Sn 0.926 | experimental | [1] Yen 2003; _cites Smith 1969_ [doi](https://doi.org/10.1179/cmq.1969.8.2.127) | Table 8, p. 9, row 13 |  |
-| 262.2 | Eutectoid: γ -> δ + αSn | γ: Sn 0.887 | model | [1] Yen 2003 | Table 8, p. 9, row 14 |  |
-| 261.1 | Metatectic: δ -> L + αSn | L: Sn 0.0111 | model | [1] Yen 2003 | Table 8, p. 9, row 15 |  |
-| 238.7 | Peritectic: L + αSn -> HgSn4 | HgSn4: Hg 0.2, Sn 0.8 | experimental | [1] Yen 2003 | Table 8, p. 9, row 18 |  |
-| 237.8 | Peritectic: L + αSn -> HgSn4 | L: Sn 0.0054; HgSn4: Hg 0.2, Sn 0.8 | model | [1] Yen 2003 | Table 8, p. 9, row 16 |  |
-| 237.8 | Peritectic: L + αSn -> HgSn4 | L: Sn 0.0054; HgSn4: Hg 0.2, Sn 0.8 | model | [1] Yen 2003 | Table 8, p. 9, row 17 |  |
-| 234.7 | Eutectic: L -> (Hg) + HgSn4 | HgSn4: Hg 0.2, Sn 0.8 | experimental | [1] Yen 2003 | Table 8, p. 9, row 21 |  |
-| 233.4 | Eutectic: L -> (Hg) + HgSn4 | L: Sn 0.0046; HgSn4: Hg 0.2, Sn 0.8 | model | [1] Yen 2003 | Table 8, p. 9, row 19 |  |
-| 233.4 | Eutectic: L -> (Hg) + HgSn4 | L: Sn 0.0046; HgSn4: Hg 0.2, Sn 0.8 | model | [1] Yen 2003 | Table 8, p. 9, row 20 |  |
+| 265.6 | metatectic/catatectic: γ -> L + αSn | γ: Sn 0.9231; L: Sn 0.0127 | model | [1] Yen 2003 | Table 8, p. 9, row 12 |  |
+| 265 | metatectic/catatectic: γ -> L + αSn | γ: Sn 0.926 | experimental | [1] Yen 2003; _cites Smith 1969_ [doi](https://doi.org/10.1179/cmq.1969.8.2.127) | Table 8, p. 9, row 13 |  |
+| 262.2 | eutectoid: γ -> δ + αSn | γ: Sn 0.887 | model | [1] Yen 2003 | Table 8, p. 9, row 14 |  |
+| 261.1 | metatectic/catatectic: δ -> L + αSn | L: Sn 0.0111 | model | [1] Yen 2003 | Table 8, p. 9, row 15 |  |
+| 238.7 | peritectic: L + αSn -> HgSn4 | HgSn4: Hg 0.2, Sn 0.8 | experimental | [1] Yen 2003 | Table 8, p. 9, row 18 |  |
+| 237.8 | peritectic: L + αSn -> HgSn4 | L: Sn 0.0054; HgSn4: Hg 0.2, Sn 0.8 | model | [1] Yen 2003 | Table 8, p. 9, row 16 |  |
+| 234.7 | eutectic: L -> (Hg) + HgSn4 | HgSn4: Hg 0.2, Sn 0.8 | experimental | [1] Yen 2003 | Table 8, p. 9, row 21 |  |
+| 233.4 | eutectic: L -> (Hg) + HgSn4 | L: Sn 0.0046; HgSn4: Hg 0.2, Sn 0.8 | model | [1] Yen 2003 | Table 8, p. 9, row 19 |  |
 
 ## Other properties
 
@@ -129,7 +126,7 @@ Table: Mixing / partial, Hg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ⌬H ⬁ Sn_ | 14 kJ/mol | 293.15 |  | experimental | [1] Yen 2003; _cites Marco 1975_ [doi](https://doi.org/10.1016/0021-9614%2875%2990239-6) | p. 5 | “\[1975Mar\] reported the enthalpy of the Hg-Sn solution at infinite dilution of Sn (⌬H ⬁ Sn) at 293.15 K as 14.0 kJ/mol referred to liquid Hg and solid ␣Sn.” |
+| Partial enthalpy; _printed: ⌬H ⬁ Sn_ | 14 kJ/mol (basis unstated) | 293.15 |  | experimental | [1] Yen 2003; _cites Marco 1975_ [doi](https://doi.org/10.1016/0021-9614%2875%2990239-6) | p. 5 | “\[1975Mar\] reported the enthalpy of the Hg-Sn solution at infinite dilution of Sn (⌬H ⬁ Sn) at 293.15 K as 14.0 kJ/mol referred to liquid Hg and solid ␣Sn.” |
 
 ### Activity / EMF / Gibbs energy (2)
 
@@ -146,20 +143,20 @@ Table: Crystal structure, Hg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.3005 nm | 234.3 ({'op': '\<', 'value_K': 234.3}) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
-| Lattice a | 0.64892 nm | 286.2 ({'op': '\<', 'value_K': 286.2}) | (αSn); _(αSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 4 |  |
+| Lattice a | 0.3005 nm | 234.3 (\<) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
+| Lattice a | 0.64892 nm | 286.2 (\<) | (αSn); _(αSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 4 |  |
 | Lattice a | 0.58286 nm | 298 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
-| Lattice a | 0.555104 nm | 363.5 ({'op': '\<', 'value_K': 363.5}) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
+| Lattice a | 0.555104 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
 | Lattice a | 0.32109 nm | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
 | Lattice a | 0.58317 nm | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
 | Lattice a | 0.32415 nm | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
-| Lattice b | 0.31791 nm | 363.5 ({'op': '\<', 'value_K': 363.5}) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
+| Lattice b | 0.31791 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
 | Lattice c | 0.31805 nm | 298 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
-| Lattice c | 0.298311 nm | 363.5 ({'op': '\<', 'value_K': 363.5}) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
+| Lattice c | 0.298311 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
 | Lattice c | 0.29888 nm | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
 | Lattice c | 0.31813 nm | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
 | Lattice c | 0.30065 nm | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
-| lattice alpha | 70.53 ° | 234.3 ({'op': '\<', 'value_K': 234.3}) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
+| lattice alpha | 70.53 ° | 234.3 (\<) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
 
 ### Other property (1)
 

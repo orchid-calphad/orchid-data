@@ -28,22 +28,22 @@ Table: Invariant reactions reported in the literature for the Mg–Sn–Zn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 843 | e: L -> Mg2Sn + MgZn2 | L: Mg 0.3805, Zn 0.5729 | experimental | [1] Meng 2010; _cites Otani 1933_ [doi](https://doi.org/10.2355/tetsutohagane1915.19.7_566) | Table 3, p. 4, row 1 |  |
-| 840 | e: L -> Mg2Sn + MgZn2 | L: Mg 0.3859, Zn 0.5658 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 2 |  |
-| 837 | e: L -> Mg2Sn + MgZn2 | L: Mg 0.388, Zn 0.5569 | model | [1] Meng 2010 | Table 3, p. 4, row 3 |  |
-| 684 | U: L + MgZn2 -> Mg2Sn + Mg2Zn3 | L: Mg 0.6475, Zn 0.3405 | model | [1] Meng 2010 | Table 3, p. 4, row 7 |  |
-| 644 | U: L + MgZn2 -> Mg2Sn + Mg2Zn11 | L: Mg 0.0951, Zn 0.8788 | model | [1] Meng 2010 | Table 3, p. 4, row 11 |  |
-| 641 | U: L + MgZn2 -> Mg2Sn + Mg2Zn11 | L: Mg 0.0969, Zn 0.8641 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 10 |  |
-| 628 | e: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0894, Zn 0.8691 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 5 |  |
-| 626 | e: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0976, Zn 0.8511 | experimental | [1] Meng 2010; _cites Otani 1933_ [doi](https://doi.org/10.2355/tetsutohagane1915.19.7_566) | Table 3, p. 4, row 4 |  |
-| 626 | E: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0917, Zn 0.8691 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 13 |  |
-| 625 | e: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0761, Zn 0.8783 | model | [1] Meng 2010 | Table 3, p. 4, row 6 |  |
-| 624 | E: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0771, Zn 0.8798 | model | [1] Meng 2010 | Table 3, p. 4, row 14 |  |
-| 618 | U: L + Mg2Zn3 -> Mg2Sn + MgZn | L: Mg 0.7049, Zn 0.2902 | model | [1] Meng 2010 | Table 3, p. 4, row 8 |  |
-| 614 | U: L + Mg2Sn -> hcp(Mg) + MgZn | L: Mg 0.7081, Zn 0.2873 | model | [1] Meng 2010 | Table 3, p. 4, row 9 |  |
-| 614 | E: L -> hcp(Mg) + MgZn + Mg7Zn3 | L: Mg 0.7097, Zn 0.2896 | model | [1] Meng 2010 | Table 3, p. 4, row 12 |  |
-| 459 | E: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0653, Zn 0.1005 | model | [1] Meng 2010 | Table 3, p. 4, row 16 |  |
-| 456 | E: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0739, Zn 0.1147 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 15 |  |
+| 843 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.3805, Zn 0.5729 | experimental | [1] Meng 2010; _cites Otani 1933_ [doi](https://doi.org/10.2355/tetsutohagane1915.19.7_566) | Table 3, p. 4, row 1 |  |
+| 840 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.3859, Zn 0.5658 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 2 |  |
+| 837 | eutectic: L -> Mg2Sn + MgZn2 | L: Mg 0.388, Zn 0.5569 | model | [1] Meng 2010 | Table 3, p. 4, row 3 |  |
+| 684 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn3 | L: Mg 0.6475, Zn 0.3405 | model | [1] Meng 2010 | Table 3, p. 4, row 7 |  |
+| 644 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn11 | L: Mg 0.0951, Zn 0.8788 | model | [1] Meng 2010 | Table 3, p. 4, row 11 |  |
+| 641 | quasi-peritectic: L + MgZn2 -> Mg2Sn + Mg2Zn11 | L: Mg 0.0969, Zn 0.8641 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 10 |  |
+| 628 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0894, Zn 0.8691 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 5 |  |
+| 626 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0976, Zn 0.8511 | experimental | [1] Meng 2010; _cites Otani 1933_ [doi](https://doi.org/10.2355/tetsutohagane1915.19.7_566) | Table 3, p. 4, row 4 |  |
+| 626 | eutectic: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0917, Zn 0.8691 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 13 |  |
+| 625 | eutectic: L -> Mg2Sn + hcp(Zn) | L: Mg 0.0761, Zn 0.8783 | model | [1] Meng 2010 | Table 3, p. 4, row 6 |  |
+| 624 | eutectic: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0771, Zn 0.8798 | model | [1] Meng 2010 | Table 3, p. 4, row 14 |  |
+| 618 | quasi-peritectic: L + Mg2Zn3 -> Mg2Sn + MgZn | L: Mg 0.7049, Zn 0.2902 | model | [1] Meng 2010 | Table 3, p. 4, row 8 |  |
+| 614 | quasi-peritectic: L + Mg2Sn -> hcp(Mg) + MgZn | L: Mg 0.7081, Zn 0.2873 | model | [1] Meng 2010 | Table 3, p. 4, row 9 |  |
+| 614 | eutectic: L -> hcp(Mg) + MgZn + Mg7Zn3 | L: Mg 0.7097, Zn 0.2896 | model | [1] Meng 2010 | Table 3, p. 4, row 12 |  |
+| 459 | eutectic: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0653, Zn 0.1005 | model | [1] Meng 2010 | Table 3, p. 4, row 16 |  |
+| 456 | eutectic: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0739, Zn 0.1147 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 15 |  |
 
 ## Sources
 

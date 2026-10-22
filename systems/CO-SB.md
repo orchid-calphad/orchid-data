@@ -83,55 +83,55 @@ Table: Invariant reactions reported in the literature for the Co–Sb system (49
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1493 | Congruent: Liq ↔ (βCoSb) | Liq: Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 18 |  |
-| 1493 | Congruent: Liq ↔ (βCoSb) | Liq: Sb 0.4908; (βCoSb): Sb 0.4908 | model | [1] Zhang 2008 | Table 1, p. 2, row 19 |  |
-| 1493 | Congruent: Liq ↔ (βCoSb) | Liq: Sb 0.47; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 16 |  |
-| 1488 | Congruent: Liq ↔ (βCoSb) | Liq: Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 15 |  |
-| 1475 | Congruent: Liq ↔ (βCoSb) | Liq: Sb 0.47; (βCoSb): Co 0.5, Sb 0.5 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 17 |  |
-| 1468 | Congruent: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 14 |  |
-| 1466 | Congruent: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 12 |  |
-| 1463 | Congruent: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 13 |  |
+| 1493 | congruent melting: Liq ↔ (βCoSb) | Liq: Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 18 |  |
+| 1493 | congruent melting: Liq ↔ (βCoSb) | Liq: Sb 0.4908; (βCoSb): Sb 0.4908 | model | [1] Zhang 2008 | Table 1, p. 2, row 19 |  |
+| 1493 | congruent melting: Liq ↔ (βCoSb) | Liq: Sb 0.47; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 16 |  |
+| 1488 | congruent melting: Liq ↔ (βCoSb) | Liq: Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 15 |  |
+| 1475 | congruent melting: Liq ↔ (βCoSb) | Liq: Sb 0.47; (βCoSb): Co 0.5, Sb 0.5 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 17 |  |
+| 1468 | congruent melting: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 14 |  |
+| 1466 | congruent melting: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 12 |  |
+| 1463 | congruent melting: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 13 |  |
 | 1391 | eutectic |  | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | p. 1 | “Hanninger \[12\] measured four invariant arrests by DTA including the eutectic reaction between (αCo) and (βCoSb) at 1391 K, the peritectic decomposition of CoSb2 at 1209 K, the peritectic decomposition of δCoSb3 at 1147 K and the eutectic reaction between δCoSb3 and (Sb) at 902 K, and also determined the congruent point at 47 ± 0.5 at.% Sb and 1493 ± 5 K and the homogeneity range of (βCoSb).” |
-| 1391 | Eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.236; (αCo): Sb 0.065; (βCoSb): Sb 0.496 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 3 |  |
-| 1391 | Eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.28; (βCoSb): Sb 0.435 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 7 |  |
-| 1391 | Eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.2537; (αCo): Sb 0.038; (βCoSb): Sb 0.462 | model | [1] Zhang 2008 | Table 1, p. 2, row 11 |  |
-| 1386 | Eutectic: Liq ↔ (αCo) + (βCoSb) | (βCoSb): Sb 0.42 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 9 |  |
-| 1386 | Eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.255; (αCo): Sb 0.025; (βCoSb): Sb 0.485 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 10 |  |
-| 1385 | Eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.29; (αCo): Sb 0.022; (βCoSb): Sb 0.44 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 6 |  |
-| 1375 | Eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.252; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 5 |  |
-| 1370 | Eutectic: Liq ↔ (αCo) + (βCoSb) | (αCo): Sb 0.048; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.5_177) | Table 1, p. 2, row 8 |  |
-| 1366 | Eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.233; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 4 |  |
+| 1391 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.236; (αCo): Sb 0.065; (βCoSb): Sb 0.496 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 3 |  |
+| 1391 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.28; (βCoSb): Sb 0.435 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 7 |  |
+| 1391 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.2537; (αCo): Sb 0.038; (βCoSb): Sb 0.462 | model | [1] Zhang 2008 | Table 1, p. 2, row 11 |  |
+| 1386 | eutectic: Liq ↔ (αCo) + (βCoSb) | (βCoSb): Sb 0.42 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 9 |  |
+| 1386 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.255; (αCo): Sb 0.025; (βCoSb): Sb 0.485 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 10 |  |
+| 1385 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.29; (αCo): Sb 0.022; (βCoSb): Sb 0.44 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 6 |  |
+| 1375 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.252; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 5 |  |
+| 1370 | eutectic: Liq ↔ (αCo) + (βCoSb) | (αCo): Sb 0.048; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.5_177) | Table 1, p. 2, row 8 |  |
+| 1366 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.233; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 4 |  |
 | 1209.15 | peritectic: liquid + CoSb -> CoSb2 |  | model | [2] Gierlotka 2019; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.11.001) | p. 3 | “The first peritectic reaction liquid + CoSb M CoSb2 is at 936 °C, the second peritectic reaction liquid + CoSb2 M CoSb3 is at 874 °C, and then the eutectic reaction liquid, M CoSb3 + Sb, is at 629 °C.\[16\]” |
-| 1209 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.86; (βCoSb): Sb 0.525; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645725) | Table 1, p. 2, row 20 |  |
+| 1209 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.86; (βCoSb): Sb 0.525; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645725) | Table 1, p. 2, row 20 |  |
 | 1209 | peritectic |  | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | p. 1 | “Hanninger \[12\] measured four invariant arrests by DTA including the eutectic reaction between (αCo) and (βCoSb) at 1391 K, the peritectic decomposition of CoSb2 at 1209 K, the peritectic decomposition of δCoSb3 at 1147 K and the eutectic reaction between δCoSb3 and (Sb) at 902 K, and also determined the congruent point at 47 ± 0.5 at.% Sb and 1493 ± 5 K and the homogeneity range of (βCoSb).” |
-| 1209 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | (βCoSb): Sb 0.525; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 25 |  |
-| 1209 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.8926; (βCoSb): Sb 0.5253; γCoSb2: Sb 0.667 | model | [1] Zhang 2008 | Table 1, p. 2, row 28 |  |
-| 1204 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 1, p. 2, row 27 |  |
-| 1202 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.89; (βCoSb): Sb 0.516; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 24 |  |
-| 1192 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.83; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 26 |  |
-| 1179 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.813; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 22 |  |
-| 1170.5 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.831; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 21 |  |
-| 1167 | Peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.83; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 23 |  |
-| 1149 | Peritectic: Liq + γCoSb2 ↔ δCoSb3 | γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 1, p. 2, row 33 |  |
-| 1149 | Peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 32 |  |
+| 1209 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | (βCoSb): Sb 0.525; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 25 |  |
+| 1209 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.8926; (βCoSb): Sb 0.5253; γCoSb2: Sb 0.667 | model | [1] Zhang 2008 | Table 1, p. 2, row 28 |  |
+| 1204 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 1, p. 2, row 27 |  |
+| 1202 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.89; (βCoSb): Sb 0.516; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 24 |  |
+| 1192 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.83; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 26 |  |
+| 1179 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.813; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 22 |  |
+| 1170.5 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.831; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 21 |  |
+| 1167 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.83; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 23 |  |
+| 1149 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 1, p. 2, row 33 |  |
+| 1149 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 32 |  |
 | 1147.15 | peritectic: liquid + CoSb2 -> CoSb3 |  | model | [2] Gierlotka 2019; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.11.001) | p. 3 | “The first peritectic reaction liquid + CoSb M CoSb2 is at 936 °C, the second peritectic reaction liquid + CoSb2 M CoSb3 is at 874 °C, and then the eutectic reaction liquid, M CoSb3 + Sb, is at 629 °C.\[16\]” |
 | 1147 | peritectic |  | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | p. 1 | “Hanninger \[12\] measured four invariant arrests by DTA including the eutectic reaction between (αCo) and (βCoSb) at 1391 K, the peritectic decomposition of CoSb2 at 1209 K, the peritectic decomposition of δCoSb3 at 1147 K and the eutectic reaction between δCoSb3 and (Sb) at 902 K, and also determined the congruent point at 47 ± 0.5 at.% Sb and 1493 ± 5 K and the homogeneity range of (βCoSb).” |
-| 1147 | Peritectic: Liq + γCoSb2 ↔ δCoSb3 | γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 30 |  |
-| 1147 | Peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9531; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | model | [1] Zhang 2008 | Table 1, p. 2, row 34 |  |
-| 1146 | Peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 29 |  |
-| 1132 | Peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 31 |  |
-| 903.7 | Eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.9998; δCoSb3: Sb 0.75 | model | [1] Zhang 2008 | Table 1, p. 2, row 42 |  |
+| 1147 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 30 |  |
+| 1147 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9531; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | model | [1] Zhang 2008 | Table 1, p. 2, row 34 |  |
+| 1146 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 29 |  |
+| 1132 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 31 |  |
+| 903.7 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.9998; δCoSb3: Sb 0.75 | model | [1] Zhang 2008 | Table 1, p. 2, row 42 |  |
 | 902.15 | eutectic: liquid -> CoSb3 + Sb |  | model | [2] Gierlotka 2019; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.11.001) | p. 3 | “The first peritectic reaction liquid + CoSb M CoSb2 is at 936 °C, the second peritectic reaction liquid + CoSb2 M CoSb3 is at 874 °C, and then the eutectic reaction liquid, M CoSb3 + Sb, is at 629 °C.\[16\]” |
 | 902 | eutectic |  | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | p. 1 | “Hanninger \[12\] measured four invariant arrests by DTA including the eutectic reaction between (αCo) and (βCoSb) at 1391 K, the peritectic decomposition of CoSb2 at 1209 K, the peritectic decomposition of δCoSb3 at 1147 K and the eutectic reaction between δCoSb3 and (Sb) at 902 K, and also determined the congruent point at 47 ± 0.5 at.% Sb and 1493 ± 5 K and the homogeneity range of (βCoSb).” |
-| 902 | Eutectic: Liq ↔ δCoSb3 + (Sb) | δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 39 |  |
-| 898 | Eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 1; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 36 |  |
-| 896 | Eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 1; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 41 |  |
-| 896 | Eutectic: Liq ↔ δCoSb3 + (Sb) | δCoSb3: Sb 0.75 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 40 |  |
-| 894 | Eutectic: Liq ↔ δCoSb3 + (Sb) | δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 38 |  |
-| 891 | Eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.97; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 37 |  |
-| 889 | Eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.971; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 35 |  |
-| 695 | Allotropic: (αCo) ↔ (εCo) |  | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 1 |  |
-| 695 | Allotropic: (αCo) ↔ (εCo) |  | model | [1] Zhang 2008 | Table 1, p. 2, row 2 |  |
+| 902 | eutectic: Liq ↔ δCoSb3 + (Sb) | δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 39 |  |
+| 898 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 1; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 36 |  |
+| 896 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 1; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 41 |  |
+| 896 | eutectic: Liq ↔ δCoSb3 + (Sb) | δCoSb3: Sb 0.75 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 40 |  |
+| 894 | eutectic: Liq ↔ δCoSb3 + (Sb) | δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 38 |  |
+| 891 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.97; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 37 |  |
+| 889 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.971; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 35 |  |
+| 695 | polymorphic: (αCo) ↔ (εCo) |  | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 1 |  |
+| 695 | polymorphic: (αCo) ↔ (εCo) |  | model | [1] Zhang 2008 | Table 1, p. 2, row 2 |  |
 
 ## Other properties
 

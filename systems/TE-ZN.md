@@ -33,21 +33,21 @@ Table: Phase transition, Te–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1290 K | 1290 | congruent: Experimental, this work | experimental | [1] Feutelais 1997 | Table 2, p. 2, row 14 |  |
-| Phase transition | 1290 K | 1290 | congruent: \[63Kul\] | experimental | [1] Feutelais 1997; _cites Kulwicki 1963_ | Table 2, p. 2, row 5 |  |
-| Phase transition | 1290 K | 1290 | congruent: \[70Nar\] | experimental | [1] Feutelais 1997; _cites Narita 1970_ [doi](https://doi.org/10.1143/jjap.9.1278) | Table 2, p. 2, row 10 |  |
-| Phase transition | 1295 K | 1295 | congruent: \[64Car\] | experimental | [1] Feutelais 1997; _cites Carides 1964_ [doi](https://doi.org/10.1016/0038-1098%2864%2990365-5) | Table 2, p. 2, row 6 |  |
-| Phase transition | 1295 K | 1295 | congruent: \[72Vig\] | experimental | [1] Feutelais 1997; _cites Vigdorovich 1972_ | Table 2, p. 2, row 11 |  |
-| Phase transition | 1300 K | 1300 | congruent: \[61Mas\] | experimental | [1] Feutelais 1997; _cites Mason 1961_ | Table 2, p. 2, row 4 |  |
-| Phase transition | 1303.5 K | 1303.5 | congruent: \[67Sys\] | experimental | [1] Feutelais 1997; _cites Sysoev 1967_ | Table 2, p. 2, row 9 |  |
-| Phase transition | 1512.15 K | 1512.15 | congruent: \[60Kru\] | experimental | [1] Feutelais 1997; _cites Krucheanu 1960_ | Table 2, p. 2, row 2 |  |
-| Phase transition | 1512.15 K | 1512.15 | congruent: \[61Aig\] | experimental | [1] Feutelais 1997; _cites Aigrain 1961_ | Table 2, p. 2, row 3 |  |
-| Phase transition | 1515.15 K | 1515.15 | congruent: \[12Kob\] | experimental | [1] Feutelais 1997; _cites Kobayashi 1912_ | Table 2, p. 2, row 1 |  |
-| Phase transition | 1523.15 K | 1523.15 | congruent: \[64Gro\] | experimental | [1] Feutelais 1997; _cites Gromakov 1964_ | Table 2, p. 2, row 7 |  |
-| Phase transition | 1563.15 K | 1563.15 | congruent: \[65Fis\] | experimental | [1] Feutelais 1997; _cites ref. 65Fis_ | Table 2, p. 2, row 8 |  |
-| Phase transition | 1570.15 K | 1570.15 | congruent: Calculated, this work | model | [1] Feutelais 1997 | Table 2, p. 2, row 15 |  |
-| Phase transition | 1571.15 K | 1571.15 | congruent: \[74Ger\] | experimental | [1] Feutelais 1997; _cites Ya 1974_ | Table 2, p. 2, row 12 |  |
-| Phase transition | 1571.15 K | 1571.15 | congruent: \[90Nas, 92Nas\] | experimental | [1] Feutelais 1997; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990317-d) | Table 2, p. 2, row 13 |  |
+| Phase transition | 1290 K | 1290 | congruent transformation: Experimental, this work | experimental | [1] Feutelais 1997 | Table 2, p. 2, row 14 |  |
+| Phase transition | 1290 K | 1290 | congruent transformation: \[63Kul\] | experimental | [1] Feutelais 1997; _cites Kulwicki 1963_ | Table 2, p. 2, row 5 |  |
+| Phase transition | 1290 K | 1290 | congruent transformation: \[70Nar\] | experimental | [1] Feutelais 1997; _cites Narita 1970_ [doi](https://doi.org/10.1143/jjap.9.1278) | Table 2, p. 2, row 10 |  |
+| Phase transition | 1295 K | 1295 | congruent transformation: \[64Car\] | experimental | [1] Feutelais 1997; _cites Carides 1964_ [doi](https://doi.org/10.1016/0038-1098%2864%2990365-5) | Table 2, p. 2, row 6 |  |
+| Phase transition | 1295 K | 1295 | congruent transformation: \[72Vig\] | experimental | [1] Feutelais 1997; _cites Vigdorovich 1972_ | Table 2, p. 2, row 11 |  |
+| Phase transition | 1300 K | 1300 | congruent transformation: \[61Mas\] | experimental | [1] Feutelais 1997; _cites Mason 1961_ | Table 2, p. 2, row 4 |  |
+| Phase transition | 1303.5 K | 1303.5 | congruent transformation: \[67Sys\] | experimental | [1] Feutelais 1997; _cites Sysoev 1967_ | Table 2, p. 2, row 9 |  |
+| Phase transition | 1512.15 K | 1512.15 | congruent transformation: \[60Kru\] | experimental | [1] Feutelais 1997; _cites Krucheanu 1960_ | Table 2, p. 2, row 2 |  |
+| Phase transition | 1512.15 K | 1512.15 | congruent transformation: \[61Aig\] | experimental | [1] Feutelais 1997; _cites Aigrain 1961_ | Table 2, p. 2, row 3 |  |
+| Phase transition | 1515.15 K | 1515.15 | congruent transformation: \[12Kob\] | experimental | [1] Feutelais 1997; _cites Kobayashi 1912_ | Table 2, p. 2, row 1 |  |
+| Phase transition | 1523.15 K | 1523.15 | congruent transformation: \[64Gro\] | experimental | [1] Feutelais 1997; _cites Gromakov 1964_ | Table 2, p. 2, row 7 |  |
+| Phase transition | 1563.15 K | 1563.15 | congruent transformation: \[65Fis\] | experimental | [1] Feutelais 1997; _cites ref. 65Fis_ | Table 2, p. 2, row 8 |  |
+| Phase transition | 1570.15 K | 1570.15 | congruent transformation: Calculated, this work | model | [1] Feutelais 1997 | Table 2, p. 2, row 15 |  |
+| Phase transition | 1571.15 K | 1571.15 | congruent transformation: \[74Ger\] | experimental | [1] Feutelais 1997; _cites Ya 1974_ | Table 2, p. 2, row 12 |  |
+| Phase transition | 1571.15 K | 1571.15 | congruent transformation: \[90Nas, 92Nas\] | experimental | [1] Feutelais 1997; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990317-d) | Table 2, p. 2, row 13 |  |
 
 ### Phase equilibrium (8)
 
@@ -55,14 +55,14 @@ Table: Phase equilibrium, Te–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 449 | liquidus; _liquid: Te 0.8, Zn 0.2_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 811.9 | liquidus; _liquid: Te 0.4, Zn 0.6_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 812.75 | liquidus; _liquid: Te 0.38, Zn 0.62_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 812.85 | liquidus; _liquid: Te 0.32, Zn 0.68_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 812.95 | liquidus; _liquid: Te 0.2, Zn 0.8_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 1 |  |
-| Phase composition |  | 1290 | liquidus; _liquid: Te 0.5, Zn 0.5_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 1478.15 | liquidus; _liquid: Te 0.4, Zn 0.6_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1480.15 | liquidus; _liquid: Te 0.2, Zn 0.8_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 7 |  |
+| Phase composition |  | 449 | other; _liquid: Te 0.8, Zn 0.2_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 6 |  |
+| Phase composition |  | 811.9 | other; _liquid: Te 0.4, Zn 0.6_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 4 |  |
+| Phase composition |  | 812.75 | other; _liquid: Te 0.38, Zn 0.62_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 3 |  |
+| Phase composition |  | 812.85 | other; _liquid: Te 0.32, Zn 0.68_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 2 |  |
+| Phase composition |  | 812.95 | other; _liquid: Te 0.2, Zn 0.8_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 1 |  |
+| Phase composition |  | 1290 | other; _liquid: Te 0.5, Zn 0.5_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 5 |  |
+| Phase composition |  | 1478.15 | other; _liquid: Te 0.4, Zn 0.6_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 8 |  |
+| Phase composition |  | 1480.15 | other; _liquid: Te 0.2, Zn 0.8_ | experimental | [1] Feutelais 1997 | Table 1, p. 2, row 7 |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 

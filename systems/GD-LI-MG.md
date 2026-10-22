@@ -29,18 +29,18 @@ Table: Invariant reactions reported in the literature for the Gd–Li–Mg syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1101.15 | U: L′ + (αGd) = (βGd) + L | L′: Gd 0.56, Mg 0.16; L: Gd 0.05, Mg 0.077; liquid: Gd 0.05, Mg 0.077 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 1 |  |
-| 1083.15 | max: L′ = L + GdMg | L′: Gd 0.363, Mg 0.381; L: Gd 0.061, Mg 0.233; L': Gd 0.363, Mg 0.381 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 2 |  |
-| 1064.15 | E: L′ = L + (βGd) + GdMg |  | experimental | [1] Kevorkov 2001 | Table 4, p. 6, row 3 |  |
-| 1064.15 | E: L′ = L + (βGd) + GdMg | L′: Gd 0.561, Mg 0.294; L: Gd 0.049, Mg 0.152; liquid: Gd 0.049, Mg 0.152 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 4 |  |
+| 1101.15 | quasi-peritectic: L′ + (αGd) = (βGd) + L | L′: Gd 0.56, Mg 0.16; L: Gd 0.05, Mg 0.077; liquid: Gd 0.05, Mg 0.077 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 1 |  |
+| 1083.15 | other: L′ = L + GdMg | L′: Gd 0.363, Mg 0.381; L: Gd 0.061, Mg 0.233; L': Gd 0.363, Mg 0.381 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 2 |  |
+| 1064.15 | eutectic: L′ = L + (βGd) + GdMg |  | experimental | [1] Kevorkov 2001 | Table 4, p. 6, row 3 |  |
+| 1064.15 | eutectic: L′ = L + (βGd) + GdMg | L′: Gd 0.561, Mg 0.294; L: Gd 0.049, Mg 0.152; liquid: Gd 0.049, Mg 0.152 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 4 |  |
 | 1025.15 | other: (L′, L) + GdMg | liquid: Gd 0.127, Mg 0.48; (L′, L): Gd 0.127, Mg 0.48 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 5 |  |
-| 980.15 | E: (βGd) = L + (αGd) + GdMg | L: Gd 0.024, Mg 0.089; liquid: Gd 0.024, Mg 0.089 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 7 |  |
-| 968.15 | E: (βGd) = L + (αGd) + GdMg |  | experimental | [1] Kevorkov 2001 | Table 4, p. 6, row 6 |  |
-| 849.15 | U: L + (Li) = GdMg3 + (Mg) | L: Gd 0.056, Mg 0.841; liquid: Gd 0.056, Mg 0.841 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 8 |  |
-| 847.15 | E: L = GdMg5 + GdMg3 + (Mg) | L: Gd 0.073, Mg 0.893; liquid: Gd 0.073, Mg 0.893 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 9 |  |
-| 747.15 | U: L + GdMg3 = GdMg2 + (Li) | L: Gd 0.002, Mg 0.38; liquid: Gd 0.002, Mg 0.38 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 10 |  |
-| 654.15 | U: L + GdMg2 = GdMg + (Li) | L: Gd 3.000e-4, Mg 0.267; liquid: Gd 3.000e-4, Mg 0.267 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 11 |  |
-| 454.15 | U: L + GdMg = (αGd) + (Li) | L: Gd 0.001, Mg 3.000e-5; liquid: Gd 0.001, Mg 3.000e-5 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 12 |  |
+| 980.15 | eutectic: (βGd) = L + (αGd) + GdMg | L: Gd 0.024, Mg 0.089; liquid: Gd 0.024, Mg 0.089 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 7 |  |
+| 968.15 | eutectic: (βGd) = L + (αGd) + GdMg |  | experimental | [1] Kevorkov 2001 | Table 4, p. 6, row 6 |  |
+| 849.15 | quasi-peritectic: L + (Li) = GdMg3 + (Mg) | L: Gd 0.056, Mg 0.841; liquid: Gd 0.056, Mg 0.841 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 8 |  |
+| 847.15 | eutectic: L = GdMg5 + GdMg3 + (Mg) | L: Gd 0.073, Mg 0.893; liquid: Gd 0.073, Mg 0.893 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 9 |  |
+| 747.15 | quasi-peritectic: L + GdMg3 = GdMg2 + (Li) | L: Gd 0.002, Mg 0.38; liquid: Gd 0.002, Mg 0.38 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 10 |  |
+| 654.15 | quasi-peritectic: L + GdMg2 = GdMg + (Li) | L: Gd 3.000e-4, Mg 0.267; liquid: Gd 3.000e-4, Mg 0.267 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 11 |  |
+| 454.15 | quasi-peritectic: L + GdMg = (αGd) + (Li) | L: Gd 0.001, Mg 3.000e-5; liquid: Gd 0.001, Mg 3.000e-5 | model | [1] Kevorkov 2001 | Table 4, p. 6, row 12 |  |
 
 ## Other properties
 

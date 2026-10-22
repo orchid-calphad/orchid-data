@@ -27,18 +27,18 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Sb syste
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1383.7 | other: L -> L1 + L2 | L: Mg 0.506, Sb 0.1 | model | [1] Balakumar 2005 | Table 9, p. 10, row 13 |  |
-| 1226 | saddle: L/L1 + AlSb | L: Mg 0.121, Sb 0.278 | model | [1] Balakumar 2005 | Table 9, p. 10, row 10 |  |
-| 1164 | saddle: L/L1 + α-Mg3Sb2 | L: Mg 0.472, Sb 0.292 | model | [1] Balakumar 2005 | Table 9, p. 10, row 8 |  |
-| 1136.9 | saddle: L -> α-Mg3Sb2 + AlSb | L: Mg 0.398, Sb 0.43 | model | [1] Balakumar 2005 | Table 9, p. 10, row 7 |  |
-| 1133.23 | P: L/L1 + α-Mg3Sb2 + AlSb | L: Mg 0.04, Sb 0.075 | model | [1] Balakumar 2005 | Table 9, p. 10, row 11 |  |
-| 930.2 | E: L -> AlSb + (Al) + α-Mg3Sb2 | L: Mg 0.002, Sb 0.003 | model | [1] Balakumar 2005 | Table 9, p. 10, row 6 |  |
-| 901 | saddle: L -> Mg3Sb2 + (Mg) | L: Mg 0.95, Sb 0.037 | model | [1] Balakumar 2005 | Table 9, p. 10, row 9 |  |
-| 898.8 | E: L -> α-Mg3Sb2 + (Mg) | L: Mg 0.93, Sb 0.063 | model | [1] Balakumar 2005 | Table 9, p. 10, row 2 |  |
-| 897.38 | P: L/L1 + α-Mg3Sb2 + (Mg) | L: Mg 0.959, Sb 0.017 | model | [1] Balakumar 2005 | Table 9, p. 10, row 12 |  |
-| 852.6 | E: L -> AlSb + Sb + α-Mg3Sb2 | L: Mg 0.093, Sb 0.902 | model | [1] Balakumar 2005 | Table 9, p. 10, row 1 |  |
-| 723.4 | E: L -> α-Mg3Sb2 + (Al) + Al140Mg89 | L: Mg 0.362 | model | [1] Balakumar 2005 | Table 9, p. 10, row 5 |  |
-| 721.8 | E: L -> γ + α-Mg3Sb2 + Al140Mg89 | L: Mg 0.424 | model | [1] Balakumar 2005 | Table 9, p. 10, row 4 |  |
-| 708.9 | E: L -> (Mg) + α-Mg3Sb2 + γ | L: Mg 0.69 | model | [1] Balakumar 2005 | Table 9, p. 10, row 3 |  |
+| 1226 | other: L/L1 + AlSb | L: Mg 0.121, Sb 0.278 | model | [1] Balakumar 2005 | Table 9, p. 10, row 10 |  |
+| 1164 | other: L/L1 + α-Mg3Sb2 | L: Mg 0.472, Sb 0.292 | model | [1] Balakumar 2005 | Table 9, p. 10, row 8 |  |
+| 1136.9 | other: L -> α-Mg3Sb2 + AlSb | L: Mg 0.398, Sb 0.43 | model | [1] Balakumar 2005 | Table 9, p. 10, row 7 |  |
+| 1133.23 | peritectic: L/L1 + α-Mg3Sb2 + AlSb | L: Mg 0.04, Sb 0.075 | model | [1] Balakumar 2005 | Table 9, p. 10, row 11 |  |
+| 930.2 | eutectic: L -> AlSb + (Al) + α-Mg3Sb2 | L: Mg 0.002, Sb 0.003 | model | [1] Balakumar 2005 | Table 9, p. 10, row 6 |  |
+| 901 | other: L -> Mg3Sb2 + (Mg) | L: Mg 0.95, Sb 0.037 | model | [1] Balakumar 2005 | Table 9, p. 10, row 9 |  |
+| 898.8 | eutectic: L -> α-Mg3Sb2 + (Mg) | L: Mg 0.93, Sb 0.063 | model | [1] Balakumar 2005 | Table 9, p. 10, row 2 |  |
+| 897.38 | peritectic: L/L1 + α-Mg3Sb2 + (Mg) | L: Mg 0.959, Sb 0.017 | model | [1] Balakumar 2005 | Table 9, p. 10, row 12 |  |
+| 852.6 | eutectic: L -> AlSb + Sb + α-Mg3Sb2 | L: Mg 0.093, Sb 0.902 | model | [1] Balakumar 2005 | Table 9, p. 10, row 1 |  |
+| 723.4 | eutectic: L -> α-Mg3Sb2 + (Al) + Al140Mg89 | L: Mg 0.362 | model | [1] Balakumar 2005 | Table 9, p. 10, row 5 |  |
+| 721.8 | eutectic: L -> γ + α-Mg3Sb2 + Al140Mg89 | L: Mg 0.424 | model | [1] Balakumar 2005 | Table 9, p. 10, row 4 |  |
+| 708.9 | eutectic: L -> (Mg) + α-Mg3Sb2 + γ | L: Mg 0.69 | model | [1] Balakumar 2005 | Table 9, p. 10, row 3 |  |
 
 ## Sources
 

@@ -63,20 +63,20 @@ Table: Phase transition, Er–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1178.15 K | 1178.15 | allotropic or solvus: Zr; _alloy: Zr 1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 2 |  |
-| Phase transition | 1223.15 K | 1223.15 | allotropic or solvus: Er20Zr80; _alloy: Er 0.2, Zr 0.8_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 5 |  |
-| Phase transition | 1283.15 K | 1283.15 | allotropic or solvus: Er25Zr75; _alloy: Er 0.25, Zr 0.75_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 7 |  |
+| Phase transition | 1178.15 K | 1178.15 | other: Zr; _alloy: Zr 1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 2 |  |
+| Phase transition | 1223.15 K | 1223.15 | other: Er20Zr80; _alloy: Er 0.2, Zr 0.8_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 5 |  |
+| Phase transition | 1283.15 K | 1283.15 | other: Er25Zr75; _alloy: Er 0.25, Zr 0.75_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 7 |  |
 | Phase transition | 1318.15 K | 1318.15 | peritectoid: Er25Zr75; _alloy: Er 0.25, Zr 0.75_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 6 |  |
 | Phase transition | 1323.15 K | 1323.15 | peritectoid: Er35Zr65; _alloy: Er 0.35, Zr 0.65_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 10 |  |
-| Phase transition | 1648.15 K | 1648.15 | solidus: Er60Zr40; _alloy: Er 0.6, Zr 0.4_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 17 |  |
-| Phase transition | 1658.15 K | 1658.15 | solidus: Er52Zr48; _alloy: Er 0.52, Zr 0.48_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 15 |  |
-| Phase transition | 1663.15 K | 1663.15 | solidus: Er68Zr32; _alloy: Er 0.68, Zr 0.32_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 21 |  |
-| Phase transition | 1673.15 K | 1673.15 | solidus: Er45Zr55; _alloy: Er 0.45, Zr 0.55_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 13 |  |
-| Phase transition | 1678.15 K | 1678.15 | solidus: Er66.5Zr33.5; _alloy: Er 0.665, Zr 0.335_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 19 |  |
-| Phase transition | 1693.15 K | 1693.15 | solidus: Er80Zr20; _alloy: Er 0.8, Zr 0.2_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 23 |  |
-| Phase transition | 1723.15 K | 1723.15 | solidus: Er35Zr65; _alloy: Er 0.35, Zr 0.65_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 9 |  |
-| Phase transition | 1733.15 K | 1733.15 | solidus: Er90Zr10; _alloy: Er 0.9, Zr 0.1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 25 |  |
-| Phase transition | 1823.15 K | 1823.15 | solidus: Er20Zr80; _alloy: Er 0.2, Zr 0.8_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 4 |  |
+| Phase transition | 1648.15 K | 1648.15 | other: Er60Zr40; _alloy: Er 0.6, Zr 0.4_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 17 |  |
+| Phase transition | 1658.15 K | 1658.15 | other: Er52Zr48; _alloy: Er 0.52, Zr 0.48_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 15 |  |
+| Phase transition | 1663.15 K | 1663.15 | other: Er68Zr32; _alloy: Er 0.68, Zr 0.32_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 21 |  |
+| Phase transition | 1673.15 K | 1673.15 | other: Er45Zr55; _alloy: Er 0.45, Zr 0.55_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 13 |  |
+| Phase transition | 1678.15 K | 1678.15 | other: Er66.5Zr33.5; _alloy: Er 0.665, Zr 0.335_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 19 |  |
+| Phase transition | 1693.15 K | 1693.15 | other: Er80Zr20; _alloy: Er 0.8, Zr 0.2_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 23 |  |
+| Phase transition | 1723.15 K | 1723.15 | other: Er35Zr65; _alloy: Er 0.35, Zr 0.65_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 9 |  |
+| Phase transition | 1733.15 K | 1733.15 | other: Er90Zr10; _alloy: Er 0.9, Zr 0.1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 25 |  |
+| Phase transition | 1823.15 K | 1823.15 | other: Er20Zr80; _alloy: Er 0.2, Zr 0.8_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 4 |  |
 
 ### Phase equilibrium (20)
 
@@ -95,15 +95,15 @@ Table: Phase equilibrium, Er–Zr system
 | Phase composition |  | 1373.15 | (Zr) + (Er); _(Zr): Er 0.218, Zr 0.782; (Er): Er 0.679, Zr 0.321_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 9 |  |
 | Phase composition |  | 1473.15 | (Zr) + (Er); _(Zr): Er 0.346, Zr 0.654; (Er): Er 0.683, Zr 0.317_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 10 |  |
 | Phase composition |  | 1473.15 | (Zr) + (Er); _(Zr): Er 0.335, Zr 0.665; (Er): Er 0.693, Zr 0.307_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 11 |  |
-| Phase composition |  | 1663.15 | liquidus: Er60Zr40; _liquid: Er 0.6, Zr 0.4_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 16 |  |
-| Phase composition |  | 1679.15 | liquidus: Er52Zr48; _liquid: Er 0.52, Zr 0.48_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 14 |  |
-| Phase composition |  | 1688.15 | liquidus: Er66.5Zr33.5; _liquid: Er 0.665, Zr 0.335_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 18 |  |
-| Phase composition |  | 1688.15 | liquidus: Er68Zr32; _liquid: Er 0.68, Zr 0.32_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 20 |  |
-| Phase composition |  | 1703.15 | liquidus: Er45Zr55; _liquid: Er 0.45, Zr 0.55_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 12 |  |
-| Phase composition |  | 1723.15 | liquidus: Er80Zr20; _liquid: Er 0.8, Zr 0.2_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 22 |  |
-| Phase composition |  | 1753.15 | liquidus: Er35Zr65; _liquid: Er 0.35, Zr 0.65_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 8 |  |
-| Phase composition |  | 1763.15 | liquidus: Er90Zr10; _liquid: Er 0.9, Zr 0.1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 24 |  |
-| Phase composition |  | 2113.15 | liquidus: Zr; _liquid: Zr 1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 1 |  |
+| Phase composition |  | 1663.15 | other: Er60Zr40; _liquid: Er 0.6, Zr 0.4_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 16 |  |
+| Phase composition |  | 1679.15 | other: Er52Zr48; _liquid: Er 0.52, Zr 0.48_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 14 |  |
+| Phase composition |  | 1688.15 | other: Er66.5Zr33.5; _liquid: Er 0.665, Zr 0.335_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 18 |  |
+| Phase composition |  | 1688.15 | other: Er68Zr32; _liquid: Er 0.68, Zr 0.32_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 20 |  |
+| Phase composition |  | 1703.15 | other: Er45Zr55; _liquid: Er 0.45, Zr 0.55_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 12 |  |
+| Phase composition |  | 1723.15 | other: Er80Zr20; _liquid: Er 0.8, Zr 0.2_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 22 |  |
+| Phase composition |  | 1753.15 | other: Er35Zr65; _liquid: Er 0.35, Zr 0.65_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 8 |  |
+| Phase composition |  | 1763.15 | other: Er90Zr10; _liquid: Er 0.9, Zr 0.1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 24 |  |
+| Phase composition |  | 2113.15 | other: Zr; _liquid: Zr 1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 1 |  |
 
 ## Sources
 

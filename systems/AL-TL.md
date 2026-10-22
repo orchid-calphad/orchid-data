@@ -49,9 +49,9 @@ Table: Invariant reactions reported in the literature for the Al–Tl system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1783.15 | Critical point: L -> L1 + L2(b) | L: Tl 0.55 | model | [1] McAlister 1989 | Table I, p. 1, row 3 |  |
-| 1752.15 | Peritectic-like: L1 + vapor -> L2(a) | L1: Tl 0.0039; vapor: Tl 0.0069; L2: Tl 0.0086 | model | [1] McAlister 1989 | Table I, p. 1, row 1 |  |
-| 932.15 | Monotectic: L1 -> (Al) + L2 | L1: Tl 2.000e-5; (Al): Tl 0; L2: Tl 0.00993 | model | [1] McAlister 1989 | Table I, p. 1, row 2 |  |
+| 1783.15 | critical point: L -> L1 + L2(b) | L: Tl 0.55 | model | [1] McAlister 1989 | Table I, p. 1, row 3 |  |
+| 1752.15 | peritectic: L1 + vapor -> L2(a) | L1: Tl 0.0039; vapor: Tl 0.0069; L2: Tl 0.0086 | model | [1] McAlister 1989 | Table I, p. 1, row 1 |  |
+| 932.15 | monotectic: L1 -> (Al) + L2 | L1: Tl 2.000e-5; (Al): Tl 0; L2: Tl 0.00993 | model | [1] McAlister 1989 | Table I, p. 1, row 2 |  |
 
 ## Other properties
 
@@ -61,11 +61,11 @@ Table: Phase transition, Al–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 507.15 K | 507.15 | Allotropic transformation: βTl -> αTl; _βTl: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 8 |  |
-| Phase transition | 577.15 K | 577.15 | Melting point: L -> βTl; _βTl: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 7 |  |
-| Phase transition | 933.602 K | 933.602 | Melting point: L -> Al; _Al: Tl 0_ | model | [1] McAlister 1989 | Table I, p. 1, row 6 |  |
-| Phase transition | 1696.15 K | 1696.15 | Boiling point: vapor -> L; _vapor: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 5 |  |
-| Phase transition | 2793.15 K | 2793.15 | Boiling point: vapor -> L; _vapor: Tl 0_ | model | [1] McAlister 1989 | Table I, p. 1, row 4 |  |
+| Phase transition | 507.15 K | 507.15 | polymorphic: βTl -> αTl; _βTl: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 8 |  |
+| Phase transition | 577.15 K | 577.15 | congruent melting: L -> βTl; _βTl: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 7 |  |
+| Phase transition | 933.602 K | 933.602 | congruent melting: L -> Al; _Al: Tl 0_ | model | [1] McAlister 1989 | Table I, p. 1, row 6 |  |
+| Phase transition | 1696.15 K | 1696.15 | other: vapor -> L; _vapor: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 5 |  |
+| Phase transition | 2793.15 K | 2793.15 | other: vapor -> L; _vapor: Tl 0_ | model | [1] McAlister 1989 | Table I, p. 1, row 4 |  |
 
 ### Crystal structure (4)
 

@@ -82,19 +82,19 @@ Table: Phase transition, La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2113 K | 2113 | liquidus: \[1913Ruf\] | experimental | [1] Grundy 2001; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 1, p. 2, row 1 |  |
+| Phase transition | 2113 K | 2113 | other: \[1913Ruf\] | experimental | [1] Grundy 2001; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 1, p. 2, row 1 |  |
 | Phase transition | 2313 K | 2313 | A-La2O3 -> H-La2O3 | model | [1] Grundy 2001 | p. 1 | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
 | Phase transition | 2313 K | 2313 | polymorphic | experimental | [1] Grundy 2001; _cites ref. 1965Foe_ | p. 4 | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
 | Phase transition | 2383 K | 2383 | H-La2O3 -> X-La2O3 | model | [1] Grundy 2001 | p. 1 | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
 | Phase transition | 2383 K | 2383 | polymorphic | experimental | [1] Grundy 2001; _cites ref. 1965Foe_ | p. 4 | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
-| Phase transition | 2490 K | 2490 | liquidus: \[1967Mor\] | experimental | [1] Grundy 2001; _cites Mordovin 1967_ | Table 1, p. 2, row 4 |  |
-| Phase transition | 2529 K | 2529 | liquidus: \[1967Nog\] | experimental | [1] Grundy 2001; _cites Noguchi 1968_ | Table 1, p. 2, row 5 |  |
-| Phase transition | 2577 K | 2577 | liquidus: \[1966Sat\] | experimental | [1] Grundy 2001; _cites Sata 1966_ | Table 1, p. 2, row 3 |  |
+| Phase transition | 2490 K | 2490 | other: \[1967Mor\] | experimental | [1] Grundy 2001; _cites Mordovin 1967_ | Table 1, p. 2, row 4 |  |
+| Phase transition | 2529 K | 2529 | other: \[1967Nog\] | experimental | [1] Grundy 2001; _cites Noguchi 1968_ | Table 1, p. 2, row 5 |  |
+| Phase transition | 2577 K | 2577 | other: \[1966Sat\] | experimental | [1] Grundy 2001; _cites Sata 1966_ | Table 1, p. 2, row 3 |  |
 | Phase transition | 2583 K | 2583 |  | experimental | [1] Grundy 2001; _cites ref. 1965Foe_ | p. 4 | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
 | Phase transition | 2586 K | 2586 |  | model | [1] Grundy 2001 | p. 1 | “The average of these three measurements is 2586 K. This is the value adopted by the SGTE substance database \[1997SGT\] and is used for this study.” |
-| Phase transition | 2586 K | 2586 | liquidus: \[1997SGT\], this study | unspecified | [1] Grundy 2001 | Table 1, p. 2, row 7 |  |
-| Phase transition | 2588 K | 2588 | liquidus: \[1932War\] | unspecified | [1] Grundy 2001; _cites ref. 1932War_ | Table 1, p. 2, row 2 |  |
-| Phase transition | 2593 K | 2593 | liquidus: \[1975Cou\] | experimental | [1] Grundy 2001; _cites Coutures 1975_ | Table 1, p. 2, row 6 |  |
+| Phase transition | 2586 K | 2586 | other: \[1997SGT\], this study | unspecified | [1] Grundy 2001 | Table 1, p. 2, row 7 |  |
+| Phase transition | 2588 K | 2588 | other: \[1932War\] | unspecified | [1] Grundy 2001; _cites ref. 1932War_ | Table 1, p. 2, row 2 |  |
+| Phase transition | 2593 K | 2593 | other: \[1975Cou\] | experimental | [1] Grundy 2001; _cites Coutures 1975_ | Table 1, p. 2, row 6 |  |
 
 ### Heat capacity / entropy / enthalpy (7)
 

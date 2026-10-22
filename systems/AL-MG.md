@@ -1,10 +1,10 @@
 # Al–Mg system
 
-> Al–Mg system: 196 accepted literature values (crystal structure 84, mixing / partial 44, invariant reaction 31, formation 28) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg system: 176 accepted literature values (crystal structure 80, mixing / partial 42, invariant reaction 31, formation 14) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG.html · Markdown: https://data.orchid-project.org/systems/AL-MG.md
 
-196 accepted literature values from 4 paper(s) (experimental 10, model 26, DFT 144, unspecified 16); 10 calculated phase diagram(s).
+176 accepted literature values from 4 paper(s) (experimental 10, model 26, DFT 124, unspecified 16); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MG/AlMg-05Zho.json) · [Markdown](https://data.orchid-project.org/systems/AL-MG.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 10 |
 | model | 26 |
-| DFT | 144 |
+| DFT | 124 |
 | unspecified | 16 |
 
 Table: Accepted values by property group
@@ -23,9 +23,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 31 |
 | phase transition | 9 |
-| formation | 28 |
-| mixing / partial | 44 |
-| crystal structure | 84 |
+| formation | 14 |
+| mixing / partial | 42 |
+| crystal structure | 80 |
 
 ## Calculated phase diagrams
 
@@ -170,73 +170,59 @@ Table: Invariant reactions reported in the literature for the Al–Mg system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 736.3 | Congruent: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.523; Liquid: Mg 0.523 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 7 |  |
-| 733.3 | Congruent: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.556; Liquid: Mg 0.556 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 9 |  |
+| 736.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.523; Liquid: Mg 0.523 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 7 |  |
+| 733.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.556; Liquid: Mg 0.556 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 9 |  |
 | 725.15 | L+γ= ζ | L: Mg 0.442; γ: Mg 0.514; ζ: Mg 0.475 | model | [2] Zuo 1993 | Table 2, p. 10, row 7 |  |
 | 725.15 | L+γ= ζ | L: Mg 0.445; γ: Mg 0.506; ζ: Mg 0.481 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 8 |  |
-| 725.1 | Eutectic: Liquid = fcc-A1 + β | L: Mg 0.366; fcc-A1: Mg 0.166; β: Mg 0.389 | model | [3] Zhong 2005 | Table 5, p. 6, row 1 |  |
-| 725 | Eutectic: Liquid = β + γ | L: Mg 0.413; β: Mg 0.389; γ: Mg 0.473 | model | [3] Zhong 2005 | Table 5, p. 6, row 2 |  |
-| 725 | Peritectic: Liquid + Al12Mg17 -> AlMg-ζ | Liquid: Mg 0.468; Al12Mg17: Mg 0.522; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 4 |  |
-| 724.7 | Congruent: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 6 |  |
-| 724.1 | Congruent: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 8 |  |
-| 723.6 | Eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.389 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 1 |  |
+| 725.1 | eutectic: Liquid = fcc-A1 + β | L: Mg 0.366; fcc-A1: Mg 0.166; β: Mg 0.389 | model | [3] Zhong 2005 | Table 5, p. 6, row 1 |  |
+| 725 | eutectic: Liquid = β + γ | L: Mg 0.413; β: Mg 0.389; γ: Mg 0.473 | model | [3] Zhong 2005 | Table 5, p. 6, row 2 |  |
+| 725 | peritectic: Liquid + Al12Mg17 -> AlMg-ζ | Liquid: Mg 0.468; Al12Mg17: Mg 0.522; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 4 |  |
+| 724.7 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 6 |  |
+| 724.1 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 8 |  |
+| 723.6 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.389 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 1 |  |
 | 723.55 | L+ζ = ε | L: Mg 0.43; ζ: Mg 0.475; ε: Mg 0.44 | model | [2] Zuo 1993 | Table 2, p. 10, row 5 |  |
-| 723.3 | Eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 1 |  |
+| 723.3 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 1 |  |
 | 723.15 | L+ζ = ε | L: Mg 0.425; ζ: Mg 0.464; ε: Mg 0.447 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 6 |  |
 | 723.15 | L= (Al) + β | L: Mg 0.369; (Al): Mg 0.165; β: Mg 0.385 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 2 |  |
 | 722.85 | L= (Al) + β | L: Mg 0.368; (Al): Mg 0.165; β: Mg 0.385 | model | [2] Zuo 1993 | Table 2, p. 10, row 1 |  |
-| 722.7 | Eutectic: Liquid -> AlMg-β + AlMg-γ | Liquid: Mg 0.424; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.48 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 2 |  |
+| 722.7 | eutectic: Liquid -> AlMg-β + AlMg-γ | Liquid: Mg 0.424; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.48 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 2 |  |
 | 722.35 | L= β + ε | L: Mg 0.411; β: Mg 0.385; ε: Mg 0.44 | model | [2] Zuo 1993 | Table 2, p. 10, row 3 |  |
-| 722 | Peritectic: Liquid + AlMg-ζ -> + AlMg-ε | Liquid: Mg 0.436; AlMg-ζ: Mg 0.475; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 3 |  |
-| 721.5 | Eutectic: Liquid -> AlMg-β + AlMg-ε | Liquid: Mg 0.423; AlMg-β: Mg 0.385; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 2 |  |
+| 722 | peritectic: Liquid + AlMg-ζ -> + AlMg-ε | Liquid: Mg 0.436; AlMg-ζ: Mg 0.475; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 3 |  |
+| 721.5 | eutectic: Liquid -> AlMg-β + AlMg-ε | Liquid: Mg 0.423; AlMg-β: Mg 0.385; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 2 |  |
 | 721.15 | L= β + ε | L: Mg 0.408; β: Mg 0.385; ε: Mg 0.425 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 4 |  |
-| 712.1 | Eutectic: Liquid = γ + hcp-A3 | L: Mg 0.693; γ: Mg 0.593; hcp-A3: Mg 0.889 | model | [3] Zhong 2005 | Table 5, p. 6, row 5 |  |
+| 712.1 | eutectic: Liquid = γ + hcp-A3 | L: Mg 0.693; γ: Mg 0.593; hcp-A3: Mg 0.889 | model | [3] Zhong 2005 | Table 5, p. 6, row 5 |  |
 | 711.15 | L=γ + (Mg) | L: Mg 0.698; γ: Mg 0.594; (Mg): Mg 0.886 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 10 |  |
 | 710.95 | L=γ + (Mg) | L: Mg 0.692; γ: Mg 0.595; (Mg): Mg 0.885 | model | [2] Zuo 1993 | Table 2, p. 10, row 9 |  |
-| 710 | Eutectic: Liquid -> Al12Mg17 + hcp-A3 | Liquid: Mg 0.69; Al12Mg17: Mg 0.604; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 7 |  |
-| 709.4 | Eutectic: Liquid -> AlMg-γ + hcp-A3 | Liquid: Mg 0.69; AlMg-γ: Mg 0.601; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 5 |  |
-| 700 | Eutectoid: AlMg-ε -> AlMg-β + AlMg-ζ | AlMg-ε: Mg 0.44; AlMg-β: Mg 0.385; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 5 |  |
-| 700 | Peritectoid: β + γ = ε | β: Mg 0.389; γ: Mg 0.484; ε: Mg 0.434 | model | [3] Zhong 2005 | Table 5, p. 6, row 3 |  |
-| 682.9 | Peritectoid: AlMg-β+ AlMg-γ -> AlMg-ε | AlMg-β: Mg 0.389; AlMg-γ: Mg 0.494; AlMg-ε: Mg 0.434 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 3 |  |
-| 673 | Eutectoid: AlMg-ζ -> AlMg-β + Al12Mg17 | AlMg-ζ: Mg 0.475; AlMg-β: Mg 0.385; Al12Mg17: Mg 0.513 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 6 |  |
-| 523.2 | Eutectoid: ε = β + γ | ε: Mg 0.434; β: Mg 0.389; γ: Mg 0.536 | model | [3] Zhong 2005 | Table 5, p. 6, row 4 |  |
-| 523.2 | Eutectoid: AlMg-ε -> AlMg-β + AlMg-γ | AlMg-ε: Mg 0.434; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.536 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 4 |  |
+| 710 | eutectic: Liquid -> Al12Mg17 + hcp-A3 | Liquid: Mg 0.69; Al12Mg17: Mg 0.604; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 7 |  |
+| 709.4 | eutectic: Liquid -> AlMg-γ + hcp-A3 | Liquid: Mg 0.69; AlMg-γ: Mg 0.601; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 5 |  |
+| 700 | eutectoid: AlMg-ε -> AlMg-β + AlMg-ζ | AlMg-ε: Mg 0.44; AlMg-β: Mg 0.385; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 5 |  |
+| 700 | peritectoid: β + γ = ε | β: Mg 0.389; γ: Mg 0.484; ε: Mg 0.434 | model | [3] Zhong 2005 | Table 5, p. 6, row 3 |  |
+| 682.9 | peritectoid: AlMg-β+ AlMg-γ -> AlMg-ε | AlMg-β: Mg 0.389; AlMg-γ: Mg 0.494; AlMg-ε: Mg 0.434 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 3 |  |
+| 673 | eutectoid: AlMg-ζ -> AlMg-β + Al12Mg17 | AlMg-ζ: Mg 0.475; AlMg-β: Mg 0.385; Al12Mg17: Mg 0.513 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 6 |  |
+| 523.2 | eutectoid: ε = β + γ | ε: Mg 0.434; β: Mg 0.389; γ: Mg 0.536 | model | [3] Zhong 2005 | Table 5, p. 6, row 4 |  |
+| 523.2 | eutectoid: AlMg-ε -> AlMg-β + AlMg-γ | AlMg-ε: Mg 0.434; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.536 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 4 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Mg system (28)
+Table: Enthalpies of formation, Al–Mg system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Al2Mg-C14 |  | -2.713 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| Al2Mg-C14 |  | -2.713 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| Al2Mg-C15 |  | -2.301 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
 | Al2Mg-C15 |  | -2.301 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
 | Al2Mg-C36 |  | -2.802 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| Al2Mg-C36 |  | -2.802 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| fcc-Al |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
 | fcc-Al |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
 | hcp-Mg |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
-| hcp-Mg |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
-| γ-Al5Al12Al12 |  | 5.721 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
 | γ-Al5Al12Al12 |  | 5.721 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
 | γ-Al5Al12Mg12 |  | 11.684 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
-| γ-Al5Al12Mg12 |  | 11.684 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
-| γ-Al5Mg12Al12 |  | 1.383 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
 | γ-Al5Mg12Al12 |  | 1.383 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
 | γ-Al5Mg12Mg12 |  | 9.891 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 13 |  |
-| γ-Al5Mg12Mg12 |  | 9.891 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 13 |  |
-| γ-Mg5Al12Al12 |  | 0.288 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
 | γ-Mg5Al12Al12 |  | 0.288 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
 | γ-Mg5Al12Mg12 |  | 6.226 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
-| γ-Mg5Al12Mg12 |  | 6.226 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
-| γ-Mg5Mg12Al12 |  | -3.599 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
 | γ-Mg5Mg12Al12 |  | -3.599 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
 | γ-Mg5Mg12Mg12 |  | 4.806 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
-| γ-Mg5Mg12Mg12 |  | 4.806 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
-| ε-Al30Mg23 |  | -3.423 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
 | ε-Al30Mg23 |  | -3.423 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
 
 ## Other properties
@@ -252,49 +238,47 @@ Table: Phase transition, Al–Mg system
 | Phase transition | 710 K | 710 | other | experimental | [4] ISLAM 2005 | p. 2 | “The g-phase is incoherent with the a-Mg matrix and exists at a wide composition range of 48 to 52 wt% Al and has a low melting point of 710 K.” |
 | Phase transition | 723.35 K | 723.35 | L= β; _L: Mg 0.385; β: Mg 0.385_ | model | [2] Zuo 1993 | Table 2, p. 10, row 11 |  |
 | Phase transition | 724.15 K | 724.15 | L= β; _L: Mg 0.385; β: Mg 0.385_ | experimental | [2] Zuo 1993; _cites ref. 38_ | Table 2, p. 10, row 12 |  |
-| Phase transition | 725.7 K | 725.7 | Congruent: Liquid = β; _L: Mg 0.387; β: Mg 0.387_ | model | [3] Zhong 2005 | Table 5, p. 6, row 6 |  |
-| Phase transition | 735 K | 735 | Congruent: Liquid = γ; _L: Mg 0.528; γ: Mg 0.528_ | model | [3] Zhong 2005 | Table 5, p. 6, row 7 |  |
+| Phase transition | 725.7 K | 725.7 | congruent melting: Liquid = β; _L: Mg 0.387; β: Mg 0.387_ | model | [3] Zhong 2005 | Table 5, p. 6, row 6 |  |
+| Phase transition | 735 K | 735 | congruent melting: Liquid = γ; _L: Mg 0.528; γ: Mg 0.528_ | model | [3] Zhong 2005 | Table 5, p. 6, row 7 |  |
 | Phase transition | 735.15 K | 735.15 | L= γ; _L: Mg 0.54; γ: Mg 0.54_ | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 14 |  |
 | Phase transition | 736.05 K | 736.05 | L= γ; _L: Mg 0.543; γ: Mg 0.543_ | model | [2] Zuo 1993 | Table 2, p. 10, row 13 |  |
 
-### Mixing / partial (44)
+### Mixing / partial (42)
 
 Table: Mixing / partial, Al–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1399 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2093 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1186 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 394 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1140 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 J/mol-atom | 0 | UNKNOWN; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 J/mol-atom | 0 | UNKNOWN; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1174 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 525 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 J/mol-atom | 0 | UNKNOWN; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2489 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 146 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 372 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 852 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 J/mol-atom | 0 | UNKNOWN; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 16 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1959 J/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2093 J/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1186 J/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 394 J/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1140 J/mol-atom | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 J/mol-atom | 0 | fcc; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 J/mol-atom | 0 | fcc; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 146 J/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 372 J/mol-atom | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1399 J/mol-atom | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 J/mol-atom | 0 | hcp; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1174 J/mol-atom | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 525 J/mol-atom | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2489 J/mol-atom | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 852 J/mol-atom | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 J/mol-atom | 0 | hcp; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 16 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1959 J/mol-atom | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.399 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.093 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.186 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.394 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.14 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | UNKNOWN; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.174 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.525 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | UNKNOWN; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.489 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.146 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.372 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.852 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.959 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.093 kJ/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.186 kJ/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.394 kJ/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.14 kJ/mol-atom | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | fcc; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | fcc; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.146 kJ/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.372 kJ/mol-atom | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.399 kJ/mol-atom | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | hcp; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.174 kJ/mol-atom | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.525 kJ/mol-atom | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.489 kJ/mol-atom | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.852 kJ/mol-atom | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | hcp; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 16 |  |
+| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.959 kJ/mol-atom | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
 | Entropy of mixing; _printed: ΔSm_ | 10.6 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 2 |  |
 | Entropy of mixing; _printed: ΔSm_ | 16.2 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 3 |  |
 | Entropy of mixing; _printed: ΔSm_ | 12 unknown | 723.35 | Al8Mg5; _alloy: Mg 0.384615_ | model | [2] Zuo 1993 | Table 4, p. 12, row 1 |  |
@@ -308,7 +292,7 @@ Table: Mixing / partial, Al–Mg system
 | Entropy of mixing; _printed: ΔSm_ | 10.1 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 11 |  |
 | Entropy of mixing; _printed: ΔSm_ | 16 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 12 |  |
 
-### Crystal structure (84)
+### Crystal structure (80)
 
 Table: Crystal structure, Al–Mg system
 
@@ -359,9 +343,7 @@ Table: Crystal structure, Al–Mg system
 | Lattice b; _printed: b_ | 11.032 Å | 0 | γ-Mg5Mg12Mg12; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
 | Lattice b; _printed: b_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
 | Lattice c; _printed: c_ | 8.742 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
-| Lattice c; _printed: c_ | 8.742 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
 | Lattice c; _printed: c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
-| Lattice c; _printed: c_ | 17.514 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
 | Lattice c; _printed: c_ | 17.514 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
 | Lattice c; _printed: c_ | 4.041 Å | 0 | fcc-Al; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
 | Lattice c; _printed: c_ | 5.172 Å | 0 | hcp; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 16 |  |
@@ -373,7 +355,6 @@ Table: Crystal structure, Al–Mg system
 | Lattice c; _printed: c_ | 4.952 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
 | Lattice c; _printed: c_ | 4.803 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
 | Lattice c; _printed: c_ | 5.172 Å | 0 | hcp-Mg; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
-| Lattice c; _printed: c_ | 5.172 Å | 0 | hcp-Mg; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
 | Lattice c; _printed: c_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
 | Lattice c; _printed: c_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
 | Lattice c; _printed: c_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
@@ -382,7 +363,6 @@ Table: Crystal structure, Al–Mg system
 | Lattice c; _printed: c_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
 | Lattice c; _printed: c_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
 | Lattice c; _printed: c_ | 11.032 Å | 0 | γ-Mg5Mg12Mg12; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
-| Lattice c; _printed: c_ | 21.848 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
 | Lattice c; _printed: c_ | 21.848 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
 | lattice unspecified axis; _printed: a = b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
 | lattice unspecified axis; _printed: a = b = c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |

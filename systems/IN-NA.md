@@ -89,8 +89,8 @@ Table: Phase transition, In–Na system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 618 K | 618 |  | experimental | [1] Wang 2013 | p. 1 | “In addition, InNa melts incongruently, with the formation of In-Na melts and In8Na5 (or In3Na2) when the temperature is raised above 618 K.” |
-| Phase transition | 713 K | 713 | congruent | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | p. 1 | “Lamprecht and Crowther\[4\] gave the composition of the congruent melting point as 40 at.% Na(In3Na2) at 713 K and Thümmel and Klemm\[5\] gave as 38.5 at.% Na (In8Na5) at 715 K.” |
-| Phase transition | 715 K | 715 | congruent | experimental | [1] Wang 2013; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 1 | “Lamprecht and Crowther\[4\] gave the composition of the congruent melting point as 40 at.% Na(In3Na2) at 713 K and Thümmel and Klemm\[5\] gave as 38.5 at.% Na (In8Na5) at 715 K.” |
+| Phase transition | 713 K | 713 | congruent transformation | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | p. 1 | “Lamprecht and Crowther\[4\] gave the composition of the congruent melting point as 40 at.% Na(In3Na2) at 713 K and Thümmel and Klemm\[5\] gave as 38.5 at.% Na (In8Na5) at 715 K.” |
+| Phase transition | 715 K | 715 | congruent transformation | experimental | [1] Wang 2013; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 1 | “Lamprecht and Crowther\[4\] gave the composition of the congruent melting point as 40 at.% Na(In3Na2) at 713 K and Thümmel and Klemm\[5\] gave as 38.5 at.% Na (In8Na5) at 715 K.” |
 
 ## Sources
 

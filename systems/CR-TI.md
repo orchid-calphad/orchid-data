@@ -214,7 +214,7 @@ Table: Phase transition, Cr–Ti system
 | Phase transition | 1649.15 K | 1649.15 | bcc -> C14 | unspecified | [1] Flores 2024 | Table 6, p. 13, row 10 |  |
 | Phase transition | 1677.15 K | 1677.15 | Liquid -> bcc | model | [1] Flores 2024; _cites Cupid 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.031) | Table 6, p. 13, row 2 |  |
 | Phase transition | 1681.15 K | 1681.15 | Liquid -> bcc | unspecified | [1] Flores 2024 | Table 6, p. 13, row 5 |  |
-| Phase transition | 1681.15 K | 1681.15 | congruent | model | [1] Flores 2024 | p. 11 | “Temperature and composition of the congruent melting point of the bcc solid solution obtained here was 1408 C and 57.4 at.% Ti, TiCr2” |
+| Phase transition | 1681.15 K | 1681.15 | congruent transformation | model | [1] Flores 2024 | p. 11 | “Temperature and composition of the congruent melting point of the bcc solid solution obtained here was 1408 C and 57.4 at.% Ti, TiCr2” |
 | Phase transition | 1685.15 K | 1685.15 | Liquid -> bcc | experimental | [1] Flores 2024; _cites Rudy 1969_ | Table 6, p. 13, row 4 |  |
 | Phase transition | 1706.15 K | 1706.15 | Liquid -> bcc | model | [1] Flores 2024; _cites Pavlu 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.03.003) | Table 6, p. 13, row 1 |  |
 | Phase transition | 1709.15 K | 1709.15 | Liquid -> bcc | model | [1] Flores 2024; _cites Sun 2022_ [doi](https://doi.org/10.1016/j.calphad.2022.102505) | Table 6, p. 13, row 3 |  |

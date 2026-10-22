@@ -58,18 +58,18 @@ Table: Invariant reactions reported in the literature for the Ca–Ni system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1478.9 | Congruent: Liquid -> CaNi5 | L: Ni 0.834; CaNi5: Ca 0.166667, Ni 0.833333 | model | [1] Islam 2005 | Table 5, p. 8, row 12 |  |
-| 1477.3 | Congruent: Liquid -> CaNi5 | L: Ni 0.832; CaNi5: Ca 0.166667, Ni 0.833333 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 11 |  |
-| 1460.1 | Eutectic: Liquid -> Ni-fcc + CaNi5 | L: Ni 0.877; CaNi5: Ca 0.166667, Ni 0.833333 | model | [1] Islam 2005 | Table 5, p. 8, row 4 |  |
-| 1459 | Eutectic: Liquid -> Ni-fcc + CaNi5 | L: Ni 0.88; CaNi5: Ca 0.166667, Ni 0.833333 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 3 |  |
-| 1400.2 | Peritectic: Liquid + CaNi5 -> Ca2Ni7 | L: Ni 0.715; CaNi5: Ca 0.166667, Ni 0.833333; Ca2Ni7: Ca 0.222222, Ni 0.777778 | model | [1] Islam 2005 | Table 5, p. 8, row 10 |  |
-| 1400.1 | Peritectic: Liquid + CaNi5 -> Ca2Ni7 | L: Ni 0.715; CaNi5: Ca 0.166667, Ni 0.833333; Ca2Ni7: Ca 0.222222, Ni 0.777778 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 9 |  |
-| 1287.2 | Peritectic: Liquid + Ca2Ni7 -> CaNi3 | L: Ni 0.541; Ca2Ni7: Ca 0.222222, Ni 0.777778; CaNi3: Ca 0.25, Ni 0.75 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 7 |  |
-| 1280.1 | Peritectic: Liquid + Ca2Ni7 -> CaNi3 | L: Ni 0.561; Ca2Ni7: Ca 0.222222, Ni 0.777778; CaNi3: Ca 0.25, Ni 0.75 | model | [1] Islam 2005 | Table 5, p. 8, row 8 |  |
-| 1145 | Peritectic: Liquid + CaNi3 -> CaNi2 | L: Ni 0.378; CaNi3: Ca 0.25, Ni 0.75; CaNi2: Ca 0.333333, Ni 0.666667 | model | [1] Islam 2005 | Table 5, p. 8, row 6 |  |
-| 1138.6 | Peritectic: Liquid + CaNi3 -> CaNi2 | L: Ni 0.39; CaNi3: Ca 0.25, Ni 0.75; CaNi2: Ca 0.333333, Ni 0.666667 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 5 |  |
-| 900 | Eutectic: Liquid -> Ca-bcc + CaNi2 | L: Ni 0.17; CaNi2: Ca 0.333333, Ni 0.666667 | model | [1] Islam 2005 | Table 5, p. 8, row 2 |  |
-| 896 | Eutectic: Liquid -> Ca-bcc + CaNi2 | L: Ni 0.16; CaNi2: Ca 0.333333, Ni 0.666667 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 1 |  |
+| 1478.9 | congruent melting: Liquid -> CaNi5 | L: Ni 0.834; CaNi5: Ca 0.166667, Ni 0.833333 | model | [1] Islam 2005 | Table 5, p. 8, row 12 |  |
+| 1477.3 | congruent melting: Liquid -> CaNi5 | L: Ni 0.832; CaNi5: Ca 0.166667, Ni 0.833333 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 11 |  |
+| 1460.1 | eutectic: Liquid -> Ni-fcc + CaNi5 | L: Ni 0.877; CaNi5: Ca 0.166667, Ni 0.833333 | model | [1] Islam 2005 | Table 5, p. 8, row 4 |  |
+| 1459 | eutectic: Liquid -> Ni-fcc + CaNi5 | L: Ni 0.88; CaNi5: Ca 0.166667, Ni 0.833333 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 3 |  |
+| 1400.2 | peritectic: Liquid + CaNi5 -> Ca2Ni7 | L: Ni 0.715; CaNi5: Ca 0.166667, Ni 0.833333; Ca2Ni7: Ca 0.222222, Ni 0.777778 | model | [1] Islam 2005 | Table 5, p. 8, row 10 |  |
+| 1400.1 | peritectic: Liquid + CaNi5 -> Ca2Ni7 | L: Ni 0.715; CaNi5: Ca 0.166667, Ni 0.833333; Ca2Ni7: Ca 0.222222, Ni 0.777778 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 9 |  |
+| 1287.2 | peritectic: Liquid + Ca2Ni7 -> CaNi3 | L: Ni 0.541; Ca2Ni7: Ca 0.222222, Ni 0.777778; CaNi3: Ca 0.25, Ni 0.75 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 7 |  |
+| 1280.1 | peritectic: Liquid + Ca2Ni7 -> CaNi3 | L: Ni 0.561; Ca2Ni7: Ca 0.222222, Ni 0.777778; CaNi3: Ca 0.25, Ni 0.75 | model | [1] Islam 2005 | Table 5, p. 8, row 8 |  |
+| 1145 | peritectic: Liquid + CaNi3 -> CaNi2 | L: Ni 0.378; CaNi3: Ca 0.25, Ni 0.75; CaNi2: Ca 0.333333, Ni 0.666667 | model | [1] Islam 2005 | Table 5, p. 8, row 6 |  |
+| 1138.6 | peritectic: Liquid + CaNi3 -> CaNi2 | L: Ni 0.39; CaNi3: Ca 0.25, Ni 0.75; CaNi2: Ca 0.333333, Ni 0.666667 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 5 |  |
+| 900 | eutectic: Liquid -> Ca-bcc + CaNi2 | L: Ni 0.17; CaNi2: Ca 0.333333, Ni 0.666667 | model | [1] Islam 2005 | Table 5, p. 8, row 2 |  |
+| 896 | eutectic: Liquid -> Ca-bcc + CaNi2 | L: Ni 0.16; CaNi2: Ca 0.333333, Ni 0.666667 | experimental | [1] Islam 2005; _cites Notin 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990338-k) | Table 5, p. 8, row 1 |  |
 
 ## Other properties
 

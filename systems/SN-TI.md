@@ -104,32 +104,32 @@ Table: Invariant reactions reported in the literature for the Sn–Ti system (42
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1943.15 | congruent: L \<-> Ti3Sn | Ti3Sn: Sn 0.25 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 6 |  |
-| 1936.15 | congruent: L \<-> Ti3Sn | Ti3Sn: Sn 0.0205 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 5 |  |
+| 1943.15 | congruent melting: L \<-> Ti3Sn | Ti3Sn: Sn 0.25 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 6 |  |
+| 1936.15 | congruent melting: L \<-> Ti3Sn | Ti3Sn: Sn 0.0205 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 5 |  |
 | 1880.15 | eutectic: L ↔ (βTi) + Ti3 Sn |  | experimental | [1] Yin 2007 | p. 2 | “The two following eutectic reactions occur: L ↔ (βTi) + Ti3 Sn (1607 ◦ C), L ↔ Ti5 Sn3 + Ti6 Sn5 (1475 ◦ C).” |
 | 1880.15 | eutectic: L \<-> (βTi) + Ti3Sn | L: Sn 0.18; (βTi): Sn 0.16; Ti3Sn: Sn 0.25 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 2 |  |
-| 1879.8 | Eutectic: Liquid -> SnTi3 + bcc-A2 | L: Ti 0.828; SnTi3: Ti 0.777; bcc-A2: Ti 0.846 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 2 |  |
+| 1879.8 | eutectic: Liquid -> SnTi3 + bcc-A2 | L: Ti 0.828; SnTi3: Ti 0.777; bcc-A2: Ti 0.846 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 2 |  |
 | 1863.15 | eutectic: L \<-> (βTi) + Ti3Sn | L: Sn 0.16; (βTi): Sn 0.13; Ti3Sn: Sn 0.224 | experimental | [1] Yin 2007; _cites McQuillan 1957_ | Table 1, p. 3, row 1 |  |
 | 1848.15 | eutectic: L \<-> (βTi) + Ti3Sn | Ti3Sn: Sn 0.25, Ti 0.75 | experimental | [1] Yin 2007; _cites Bondar 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.010) | Table 1, p. 3, row 3 |  |
 | 1848.15 | eutectic: L ↔ (βTi) + Ti3 Sn |  | experimental | [1] Yin 2007; _cites Bondar 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.010) | p. 2 | “More recently, Bondar et al. \[24\] investigated the phase transformation of Ti81.5 Sn18.5 alloy by DTA and found the temperature of eutectic reaction of L ↔ (βTi) + Ti3 Sn is 1575 ◦ C, which is much lower than that of Pietrokowsky and Frink \[17\].” |
 | 1847.15 | eutectic: L \<-> (βTi) + Ti3Sn | L: Sn 0.159; (βTi): Sn 0.136; Ti3Sn: Sn 0.228 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 4 |  |
-| 1835.9 | Peritectic: Liquid + SnTi3 -> SnTi2 | L: Ti 0.659; SnTi3: Ti 0.75; SnTi2: Ti 0.667 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 4 |  |
+| 1835.9 | peritectic: Liquid + SnTi3 -> SnTi2 | L: Ti 0.659; SnTi3: Ti 0.75; SnTi2: Ti 0.667 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 4 |  |
 | 1825.15 | peritectic: L + Ti3Sn \<-> Ti2Sn | L: Sn 0.355; Ti3Sn: Sn 0.25; Ti2Sn: Sn 0.327 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 17 |  |
 | 1825.15 | peritectic |  | experimental | [1] Yin 2007 | p. 2 | “Ti2 Sn and Ti5 Sn3 are formed by peritectic reaction at 1552 ◦ C and 1510 ◦ C.” |
 | 1821.15 | peritectic: L + Ti3Sn \<-> Ti2Sn | L: Sn 0.35; Ti3Sn: Sn 0.232; Ti2Sn: Sn 0.327 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 18 |  |
 | 1784.15 | peritectic: L + Ti2Sn \<-> Ti5Sn3 | L: Sn 0.401; Ti2Sn: Sn 0.355; Ti5Sn3: Sn 0.375 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 20 |  |
 | 1783.15 | peritectic: L + Ti2Sn \<-> Ti5Sn3 | L: Sn 0.38; Ti2Sn: Sn 0.359; Ti5Sn3: Sn 0.375 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 19 |  |
 | 1783.15 | peritectic |  | experimental | [1] Yin 2007 | p. 2 | “Ti2 Sn and Ti5 Sn3 are formed by peritectic reaction at 1552 ◦ C and 1510 ◦ C.” |
-| 1774.7 | Peritectic: Liquid + SnTi2 -> + Sn3Ti5 | L: Ti 0.589; SnTi2: Ti 0.667; Sn3Ti5: Ti 0.625 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 5 |  |
-| 1767.15 | congruent: L \<-> Ti6Sn5 | Ti6Sn5: Sn 0.455 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 23 |  |
-| 1763.15 | congruent: L \<-> Ti6Sn5 | Ti6Sn5: Sn 0.455 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 24 |  |
+| 1774.7 | peritectic: Liquid + SnTi2 -> + Sn3Ti5 | L: Ti 0.589; SnTi2: Ti 0.667; Sn3Ti5: Ti 0.625 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 5 |  |
+| 1767.15 | congruent melting: L \<-> Ti6Sn5 | Ti6Sn5: Sn 0.455 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 23 |  |
+| 1763.15 | congruent melting: L \<-> Ti6Sn5 | Ti6Sn5: Sn 0.455 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 24 |  |
 | 1760.15 | eutectic: L \<-> Ti5Sn3 + Ti6Sn5 | L: Sn 0.437; Ti5Sn3: Sn 0.375; Ti6Sn5: Sn 0.455 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 22 |  |
 | 1748.15 | eutectic: L ↔ Ti5 Sn3 + Ti6 Sn5 |  | experimental | [1] Yin 2007 | p. 2 | “The two following eutectic reactions occur: L ↔ (βTi) + Ti3 Sn (1607 ◦ C), L ↔ Ti5 Sn3 + Ti6 Sn5 (1475 ◦ C).” |
 | 1748.15 | eutectic: L \<-> Ti5Sn3 + Ti6Sn5 | L: Sn 0.39; Ti5Sn3: Sn 0.375; Ti6Sn5: Sn 0.455 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 21 |  |
-| 1746.9 | Eutectic: Liquid -> Sn5Ti6 + Sn3Ti5 | L: Ti 0.561; Sn5Ti6: Ti 0.545; Sn3Ti5: Ti 0.625 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 6 |  |
+| 1746.9 | eutectic: Liquid -> Sn5Ti6 + Sn3Ti5 | L: Ti 0.561; Sn5Ti6: Ti 0.545; Sn3Ti5: Ti 0.625 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 6 |  |
 | 1213.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.083; Ti3Sn: Sn 0.23; (αTi): Sn 0.087 | experimental | [1] Yin 2007; _cites Finlay 1954_ | Table 1, p. 3, row 10 |  |
 | 1213.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.09; Ti3Sn: Sn 0.23; (αTi): Sn 0.125 | experimental | [1] Yin 2007; _cites McQuillan 1955_ | Table 1, p. 3, row 7 |  |
-| 1163.3 | Peritectic: bcc-A2 + SnTi3 -> hcp-A3 | bcc-A2: Ti 0.913; SnTi3: Ti 0.75; hcp-A3: Ti 0.912 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 1 |  |
+| 1163.3 | peritectic: bcc-A2 + SnTi3 -> hcp-A3 | bcc-A2: Ti 0.913; SnTi3: Ti 0.75; hcp-A3: Ti 0.912 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 1 |  |
 | 1158.15 | (βTi) + Ti3Sn \<-> (αTi) | Ti3Sn: Sn 0.25, Ti 0.75 | experimental | [1] Yin 2007; _cites Bondar 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.010) | Table 1, p. 3, row 8 |  |
 | 1154.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.108; Ti3Sn: Sn 0.239; (αTi): Sn 0.114 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 12 |  |
 | 1153.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.105; Ti3Sn: Sn 0.25 | experimental | [1] Yin 2007; _cites Worner 1953_ | Table 1, p. 3, row 9 |  |
@@ -144,7 +144,7 @@ Table: Invariant reactions reported in the literature for the Sn–Ti system (42
 | 1023.15 | peritectic: L + Ti6Sn5 \<-> Ti2Sn3 | L: Sn 0.8; Ti6Sn5: Sn 0.454545, Ti 0.545455; Ti2Sn3: Sn 0.6 | experimental | [1] Yin 2007; _cites Ch 1998_ | Table 1, p. 3, row 25 |  |
 | 505.95 | eutectic: L \<-> Ti2Sn3 + (Sn) | Ti2Sn3: Sn 0.6, Ti 0.4 | experimental | [1] Yin 2007 | Table 1, p. 3, row 30 |  |
 | 505.05 | eutectic: L \<-> Ti2Sn3 + (Sn) | L: Sn 0.9999; Ti2Sn3: Sn 0.455; (Sn): Sn 0.01 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 31 |  |
-| 504.8 | Degenerate: Liquid -> bct-A5 + Sn5Ti6 | L: Ti 0.001; bct-A5: Ti 0; Sn5Ti6: Ti 0.545 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 8 |  |
+| 504.8 | other: Liquid -> bct-A5 + Sn5Ti6 | L: Ti 0.001; bct-A5: Ti 0; Sn5Ti6: Ti 0.545 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 8 |  |
 | 504.15 | eutectic: L \<-> Ti2Sn3 + (Sn) | L: Sn 0.995; Ti2Sn3: Sn 0.455; (Sn): Sn 0.9998 | experimental | [1] Yin 2007; _cites Eremenko 1962_ | Table 1, p. 3, row 29 |  |
 
 ## Formation enthalpies
@@ -182,15 +182,15 @@ Table: Phase transition, Sn–Ti system
 | Phase transition | 504.65 K | 504.65 | eutectic: L ↔ Ti2Sn3 + (Sn); _alloy: Sn 0.85, Ti 0.15_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 4 |  |
 | Phase transition | 1022.65 K | 1022.65 | peritectic: L + Ti6Sn5 ↔ Ti2Sn3; _alloy: Sn 0.8, Ti 0.2_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 2 |  |
 | Phase transition | 1023.75 K | 1023.75 | peritectic: L + Ti6Sn5 ↔ Ti2Sn3; _alloy: Sn 0.85, Ti 0.15_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 5 |  |
-| Phase transition | 1063.15 K | 1063.15 (none) | polymorphic | experimental | [1] Yin 2007; _cites Vucht 1964_ | p. 2 | “They determined an invariant transformation occurring about 790 ◦ C, but they did not establish its nature, which was believed to be the polymorphic transformation in Ti6 Sn5 by Vucht et al. \[26\].” |
-| Phase transition | 1115 K | 1115 | congruent | experimental | [3] Liu 2005; _cites McQuillan 1955_ | p. 2 | “Although the Ti-rich side is studied by different techniques \[8-12\], it can be concluded that -Ti transforms congruently into -Ti at about 6.7 at.% Sn and 1115 K \[10\].” |
+| Phase transition | 1063.15 K | 1063.15 | polymorphic | experimental | [1] Yin 2007; _cites Vucht 1964_ | p. 2 | “They determined an invariant transformation occurring about 790 ◦ C, but they did not establish its nature, which was believed to be the polymorphic transformation in Ti6 Sn5 by Vucht et al. \[26\].” |
+| Phase transition | 1115 K | 1115 | congruent transformation | experimental | [3] Liu 2005; _cites McQuillan 1955_ | p. 2 | “Although the Ti-rich side is studied by different techniques \[8-12\], it can be concluded that -Ti transforms congruently into -Ti at about 6.7 at.% Sn and 1115 K \[10\].” |
 | Phase transition | 1137.15 K | 1137.15 | other: (βTi) ↔ (αTi) + Ti3 Sn | experimental | [1] Yin 2007 | p. 2 | “They reported a eutectoid reaction, (βTi) ↔ (αTi) + Ti3 Sn, occurring at 864 ◦ C.” |
 | Phase transition | 1163 K | 1163 |  -Ti þ SnTi3 , -Ti | experimental | [3] Liu 2005; _cites Kornilov 1960_ | p. 2 | “The value 1163 K, obtained from the thermal analysis and the metallographic studies \[12\], is preferred and used in the present work.” |
-| Phase transition | 1750 K | 1750 | Congruent: Sn5Ti6 -> Liquid; _Sn5Ti6: Ti 0.545; L: Ti 0.545_ | model | [2] Hämäläinen 1998 | Table I, p. 302, row 7 |  |
-| Phase transition | 1767.15 K | 1767.15 | congruent | experimental | [1] Yin 2007 | p. 2 | “Ti3 Sn and Ti6 Sn5 are congruently melting at 1663 ◦ C and 1494 ◦ C.” |
+| Phase transition | 1750 K | 1750 | congruent melting: Sn5Ti6 -> Liquid; _Sn5Ti6: Ti 0.545; L: Ti 0.545_ | model | [2] Hämäläinen 1998 | Table I, p. 302, row 7 |  |
+| Phase transition | 1767.15 K | 1767.15 | congruent transformation | experimental | [1] Yin 2007 | p. 2 | “Ti3 Sn and Ti6 Sn5 are congruently melting at 1663 ◦ C and 1494 ◦ C.” |
 | Phase transition | 1848.15 K | 1848.15 | L ↔ bcc(Ti)+ SnTi3 | experimental | [4] Wang 2011; _cites Bondar 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.010) | p. 5 | “Recently, Bondar et al. \[70\] determined the invariant reaction, L ↔ bcc(Ti)+ SnTi3 at 1575 °C through the Sn-81.5 at.% Ti alloy with the DTA method.” |
-| Phase transition | 1936.15 K | 1936.15 | congruent | experimental | [1] Yin 2007 | p. 2 | “Ti3 Sn and Ti6 Sn5 are congruently melting at 1663 ◦ C and 1494 ◦ C.” |
-| Phase transition | 1947 K | 1947 | Congruent: SnTi3 -> Liquid; _SnTi3: Ti 0.75; L: Ti 0.75_ | model | [2] Hämäläinen 1998 | Table I, p. 302, row 3 |  |
+| Phase transition | 1936.15 K | 1936.15 | congruent transformation | experimental | [1] Yin 2007 | p. 2 | “Ti3 Sn and Ti6 Sn5 are congruently melting at 1663 ◦ C and 1494 ◦ C.” |
+| Phase transition | 1947 K | 1947 | congruent melting: SnTi3 -> Liquid; _SnTi3: Ti 0.75; L: Ti 0.75_ | model | [2] Hämäläinen 1998 | Table I, p. 302, row 3 |  |
 
 ### Phase equilibrium (2)
 
@@ -198,8 +198,8 @@ Table: Phase equilibrium, Sn–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1043.15 | liquidus: Ti15Sn85; _liquid: Sn 0.85, Ti 0.15_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 1173.15 | liquidus: Ti20Sn80; _liquid: Sn 0.8, Ti 0.2_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 3 |  |
+| Phase composition |  | 1043.15 | other: Ti15Sn85; _liquid: Sn 0.85, Ti 0.15_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 6 |  |
+| Phase composition |  | 1173.15 | other: Ti20Sn80; _liquid: Sn 0.8, Ti 0.2_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 3 |  |
 
 ## Sources
 

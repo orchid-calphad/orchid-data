@@ -47,12 +47,12 @@ Table: Invariant reactions reported in the literature for the Cr–Ir system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2479.15 | Peretectic: Liquid + (Ir) = ε | Liquid: Cr 0.3951; (Ir): Cr 0.2655; ε: Cr 0.3179 | model | [1] Zhang 2009 | Table 2, p. 4, row 5 |  |
-| 2473.15 | Peretectic: Liquid + (Ir) = ε | (Ir): Cr 0.27; ε: Cr 0.3 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 6 |  |
-| 2023.15 | Peretectic: Liquid + ε = Cr3Ir | Cr3Ir: Cr 0.68; (Ir): Cr 0.74 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 4 |  |
-| 2015.15 | Peretectic: Liquid + ε = Cr3Ir | Liquid: Cr 0.7437; Cr3Ir: Cr 0.6649; (Ir): Cr 0.7362 | model | [1] Zhang 2009 | Table 2, p. 4, row 3 |  |
-| 1961.15 | Eutectic: Liquid = (Cr) + Cr3Ir | Liquid: Cr 0.8484; (Cr): Cr 0.8889; Cr3Ir: Cr 0.8139 | model | [1] Zhang 2009 | Table 2, p. 4, row 1 |  |
-| 1953.15 | Eutectic: Liquid = (Cr) + Cr3Ir | (Cr): Cr 0.88; Cr3Ir: Cr 0.83 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 2 |  |
+| 2479.15 | other: Liquid + (Ir) = ε | Liquid: Cr 0.3951; (Ir): Cr 0.2655; ε: Cr 0.3179 | model | [1] Zhang 2009 | Table 2, p. 4, row 5 |  |
+| 2473.15 | other: Liquid + (Ir) = ε | (Ir): Cr 0.27; ε: Cr 0.3 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 6 |  |
+| 2023.15 | other: Liquid + ε = Cr3Ir | Cr3Ir: Cr 0.68; (Ir): Cr 0.74 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 4 |  |
+| 2015.15 | other: Liquid + ε = Cr3Ir | Liquid: Cr 0.7437; Cr3Ir: Cr 0.6649; (Ir): Cr 0.7362 | model | [1] Zhang 2009 | Table 2, p. 4, row 3 |  |
+| 1961.15 | eutectic: Liquid = (Cr) + Cr3Ir | Liquid: Cr 0.8484; (Cr): Cr 0.8889; Cr3Ir: Cr 0.8139 | model | [1] Zhang 2009 | Table 2, p. 4, row 1 |  |
+| 1953.15 | eutectic: Liquid = (Cr) + Cr3Ir | (Cr): Cr 0.88; Cr3Ir: Cr 0.83 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 2 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ni–Yb system
 
-> Ni–Yb system: 206 accepted literature values (formation 85, crystal structure 60, invariant reaction 50, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Yb system: 175 accepted literature values (formation 84, invariant reaction 50, crystal structure 30, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-YB.html · Markdown: https://data.orchid-project.org/systems/NI-YB.md
 
-206 accepted literature values from 2 paper(s) (experimental 100, model 72, DFT 34); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+175 accepted literature values from 2 paper(s) (experimental 83, model 72, DFT 20); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-YB.json) · [CSV](https://data.orchid-project.org/systems/NI-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-YB/NiYb-16Kar.json) · [Markdown](https://data.orchid-project.org/systems/NI-YB.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 100 |
+| experimental | 83 |
 | model | 72 |
-| DFT | 34 |
+| DFT | 20 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 50 |
 | phase transition | 11 |
-| formation | 85 |
-| crystal structure | 60 |
+| formation | 84 |
+| crystal structure | 30 |
 
 ## Calculated phase diagrams
 
@@ -77,52 +77,52 @@ Table: Invariant reactions reported in the literature for the Ni–Yb system (50
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1583.15 | Liq -> Ni3Yb | L: Yb 0.25; Ni3Yb: Ni 0.75, Yb 0.25; Liq: Yb 0.25 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 13 |  |
-| 1573.15 | Congruent: Liq -> Ni5Yb | L: Yb 0.166; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.166 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 8 |  |
-| 1568.15 | Peritectic: Liq + Ni3Yb -> Ni5Yb | L: Yb 0.152; Ni3Yb: Ni 0.75, Yb 0.25; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.152 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 10 |  |
-| 1568 | Peritectic: Liq + YbNi3 -> YbNi5 | YbNi3: Yb 0.25; YbNi5: Yb 0.166667 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 9 |  |
-| 1568 | Eutectic: Liq -> YbNi3 + YbNi5 | L: Yb 0.209; YbNi3: Yb 0.25; YbNi5: Yb 0.166667 | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 10 |  |
-| 1566 | Eutectic: Liq -> YbNi3 + YbNi5 | L: Yb 0.184; YbNi3: Yb 0.25; YbNi5: Yb 0.166667 | model | [2] Hu 2017 | Table 2, p. 24, row 11 |  |
-| 1550.15 | Congruent: Liq -> Ni5Yb | L: Yb 0.167; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.167 | model | [1] Kardellass 2016 | Table 5, p. 9, row 9 |  |
+| 1573.15 | congruent melting: Liq -> Ni5Yb | L: Yb 0.166; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.166 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 8 |  |
+| 1568.15 | peritectic: Liq + Ni3Yb -> Ni5Yb | L: Yb 0.152; Ni3Yb: Ni 0.75, Yb 0.25; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.152 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 10 |  |
+| 1568 | peritectic: Liq + YbNi3 -> YbNi5 | YbNi3: Yb 0.25; YbNi5: Yb 0.166667 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 9 |  |
+| 1568 | eutectic: Liq -> YbNi3 + YbNi5 | L: Yb 0.209; YbNi3: Yb 0.25; YbNi5: Yb 0.166667 | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 10 |  |
+| 1566 | eutectic: Liq -> YbNi3 + YbNi5 | L: Yb 0.184; YbNi3: Yb 0.25; YbNi5: Yb 0.166667 | model | [2] Hu 2017 | Table 2, p. 24, row 11 |  |
+| 1550.15 | congruent melting: Liq -> Ni5Yb | L: Yb 0.167; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.167 | model | [1] Kardellass 2016 | Table 5, p. 9, row 9 |  |
 | 1528.15 | Liq + Ni3Yb -> Ni2Yb | Ni3Yb: Ni 0.75, Yb 0.25; Ni2Yb: Ni 0.666667, Yb 0.333333 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 16 |  |
-| 1528 | Peritectic: Liq + YbNi3 -> YbNi2 | L: Yb 0.343; YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 17 |  |
-| 1528 | Peritectic: Liq + YbNi3 -> YbNi2 | YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 15 |  |
-| 1525 | Peritectic: Liq + YbNi3 -> YbNi2 | L: Yb 0.364; YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | model | [2] Hu 2017 | Table 2, p. 24, row 18 |  |
-| 1522.15 | Monotectic: Top of the monotectic domain | L: Yb 0.675; Liq: Yb 0.675 | model | [1] Kardellass 2016 | Table 5, p. 9, row 32 |  |
-| 1519 | Peritectic: Liq + YbNi5 -> Yb2Ni17 | L: Yb 0.097; YbNi5: Yb 0.166667; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017 | Table 2, p. 24, row 8 |  |
-| 1518.15 | Peritectic: Liq + Ni5Yb -> Ni17Yb2 | L: Yb 0.085; Ni5Yb: Ni 0.833333, Yb 0.166667; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.085 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 4 |  |
-| 1518.15 | Peritectic: Liq + Ni5Yb -> Ni17Yb2 | L: Yb 0.105; Ni5Yb: Ni 0.833333, Yb 0.166667; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.105 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 5 |  |
-| 1518 | Peritectic: Liq + YbNi5 -> Yb2Ni17 | YbNi5: Yb 0.166667; Yb2Ni17: Yb 0.105263 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 5 |  |
-| 1518 | Peritectic: Liq + YbNi5 -> Yb2Ni17 | L: Yb 0.104; YbNi5: Yb 0.166667; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 7 |  |
-| 1510 | Eutectic: Liq -> fcc_Ni+ Yb2Ni17 | L: Yb 0.085; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 3 |  |
-| 1510 | Eutectic: Liq -> fcc_Ni+ Yb2Ni17 | L: Yb 0.081; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017 | Table 2, p. 24, row 4 |  |
-| 1503.15 | Eutectic: Liq -> fcc_A1 + Ni17Yb2 | L: Yb 0.08; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.08 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 1 |  |
-| 1503.15 | Monotectic: Top of the monotectic domain | L: Yb 0.75; Liq: Yb 0.75 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 31 |  |
-| 1503 | Eutectic: Liq -> fcc_Ni+ Yb2Ni17 | L: Yb 0.075; Yb2Ni17: Yb 0.105263 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 1 |  |
-| 1495.15 | Eutectic: Liq -> fcc_A1 + Ni17Yb2 | L: Yb 0.073; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.073 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 2 |  |
-| 1488.15 | Peritectic: Liq + Ni5Yb -> Ni17Yb2 | L: Yb 0.107; Ni5Yb: Ni 0.833333, Yb 0.166667; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.107 | model | [1] Kardellass 2016 | Table 5, p. 9, row 6 |  |
-| 1488 | Peritectic: Liq + YbNi5 -> Yb2Ni17 | L: Yb 0.107; YbNi5: Yb 0.166667; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017; _cites Kardellass 2016_ [doi](https://doi.org/10.1007/s10973-016-5380-3) | Table 2, p. 24, row 6 |  |
-| 1458.15 | Eutectic: Liq -> fcc_A1 + Ni17Yb2 | L: Yb 0.072; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.072 | model | [1] Kardellass 2016 | Table 5, p. 9, row 3 |  |
-| 1458 | Eutectic: Liq -> fcc_Ni+ Yb2Ni17 | L: Yb 0.072; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017; _cites Kardellass 2016_ [doi](https://doi.org/10.1007/s10973-016-5380-3) | Table 2, p. 24, row 2 |  |
-| 1446.15 | Peritectic: Liq + Ni3Yb -> Ni5Yb | L: Yb 0.28; Ni3Yb: Ni 0.75, Yb 0.25; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.28 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 11 |  |
-| 1413.15 | Peritectic: Liq + Ni3Yb -> Ni5Yb | L: Yb 0.205; Ni3Yb: Ni 0.75, Yb 0.25; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.205 | model | [1] Kardellass 2016 | Table 5, p. 9, row 12 |  |
-| 1330.15 | Peritectic: Liq + Ni3Yb -> Ni2Yb | L: Yb 0.406; Ni3Yb: Ni 0.75, Yb 0.25; Ni2Yb: Ni 0.666667, Yb 0.333333; Liq: Yb 0.406 | model | [1] Kardellass 2016 | Table 5, p. 9, row 18 |  |
-| 1330.15 | Peritectic: Liq + Ni3Yb -> Ni2Yb | L: Yb 0.436; Ni3Yb: Ni 0.75, Yb 0.25; Ni2Yb: Ni 0.666667, Yb 0.333333; Liq: Yb 0.436 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 17 |  |
-| 1330 | Peritectic: Liq + YbNi3 -> YbNi2 | L: Yb 0.406; YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | model | [2] Hu 2017; _cites Kardellass 2016_ [doi](https://doi.org/10.1007/s10973-016-5380-3) | Table 2, p. 24, row 16 |  |
-| 1308.15 | Congruent: Liq -> NiYb_HT | L: Yb 0.5; NiYb_HT: Ni 0.5, Yb 0.5; Liq: Yb 0.5 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 20 |  |
+| 1528 | peritectic: Liq + YbNi3 -> YbNi2 | L: Yb 0.343; YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 17 |  |
+| 1528 | peritectic: Liq + YbNi3 -> YbNi2 | YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 15 |  |
+| 1525 | peritectic: Liq + YbNi3 -> YbNi2 | L: Yb 0.364; YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | model | [2] Hu 2017 | Table 2, p. 24, row 18 |  |
+| 1522.15 | monotectic: Top of the monotectic domain | L: Yb 0.675; Liq: Yb 0.675 | model | [1] Kardellass 2016 | Table 5, p. 9, row 32 |  |
+| 1519 | peritectic: Liq + YbNi5 -> Yb2Ni17 | L: Yb 0.097; YbNi5: Yb 0.166667; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017 | Table 2, p. 24, row 8 |  |
+| 1518.15 | peritectic: Liq + Ni5Yb -> Ni17Yb2 | L: Yb 0.085; Ni5Yb: Ni 0.833333, Yb 0.166667; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.085 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 4 |  |
+| 1518.15 | peritectic: Liq + Ni5Yb -> Ni17Yb2 | L: Yb 0.105; Ni5Yb: Ni 0.833333, Yb 0.166667; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.105 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 5 |  |
+| 1518 | peritectic: Liq + YbNi5 -> Yb2Ni17 | YbNi5: Yb 0.166667; Yb2Ni17: Yb 0.105263 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 5 |  |
+| 1518 | peritectic: Liq + YbNi5 -> Yb2Ni17 | L: Yb 0.104; YbNi5: Yb 0.166667; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 7 |  |
+| 1510 | eutectic: Liq -> fcc_Ni+ Yb2Ni17 | L: Yb 0.085; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 3 |  |
+| 1510 | eutectic: Liq -> fcc_Ni+ Yb2Ni17 | L: Yb 0.081; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017 | Table 2, p. 24, row 4 |  |
+| 1503.15 | eutectic: Liq -> fcc_A1 + Ni17Yb2 | L: Yb 0.08; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.08 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 1 |  |
+| 1503.15 | monotectic: Top of the monotectic domain | L: Yb 0.75; Liq: Yb 0.75 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 31 |  |
+| 1503 | eutectic: Liq -> fcc_Ni+ Yb2Ni17 | L: Yb 0.075; Yb2Ni17: Yb 0.105263 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 1 |  |
+| 1495.15 | eutectic: Liq -> fcc_A1 + Ni17Yb2 | L: Yb 0.073; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.073 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 2 |  |
+| 1488.15 | peritectic: Liq + Ni5Yb -> Ni17Yb2 | L: Yb 0.107; Ni5Yb: Ni 0.833333, Yb 0.166667; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.107 | model | [1] Kardellass 2016 | Table 5, p. 9, row 6 |  |
+| 1488 | peritectic: Liq + YbNi5 -> Yb2Ni17 | L: Yb 0.107; YbNi5: Yb 0.166667; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017; _cites Kardellass 2016_ [doi](https://doi.org/10.1007/s10973-016-5380-3) | Table 2, p. 24, row 6 |  |
+| 1458.15 | eutectic: Liq -> fcc_A1 + Ni17Yb2 | L: Yb 0.072; Ni17Yb2: Ni 0.894737, Yb 0.105263; Liq: Yb 0.072 | model | [1] Kardellass 2016 | Table 5, p. 9, row 3 |  |
+| 1458 | eutectic: Liq -> fcc_Ni+ Yb2Ni17 | L: Yb 0.072; Yb2Ni17: Yb 0.105263 | model | [2] Hu 2017; _cites Kardellass 2016_ [doi](https://doi.org/10.1007/s10973-016-5380-3) | Table 2, p. 24, row 2 |  |
+| 1446.15 | peritectic: Liq + Ni3Yb -> Ni5Yb | L: Yb 0.28; Ni3Yb: Ni 0.75, Yb 0.25; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.28 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 11 |  |
+| 1413.15 | peritectic: Liq + Ni3Yb -> Ni5Yb | L: Yb 0.205; Ni3Yb: Ni 0.75, Yb 0.25; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.205 | model | [1] Kardellass 2016 | Table 5, p. 9, row 12 |  |
+| 1330.15 | peritectic: Liq + Ni3Yb -> Ni2Yb | L: Yb 0.406; Ni3Yb: Ni 0.75, Yb 0.25; Ni2Yb: Ni 0.666667, Yb 0.333333; Liq: Yb 0.406 | model | [1] Kardellass 2016 | Table 5, p. 9, row 18 |  |
+| 1330.15 | peritectic: Liq + Ni3Yb -> Ni2Yb | L: Yb 0.436; Ni3Yb: Ni 0.75, Yb 0.25; Ni2Yb: Ni 0.666667, Yb 0.333333; Liq: Yb 0.436 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 17 |  |
+| 1330 | peritectic: Liq + YbNi3 -> YbNi2 | L: Yb 0.406; YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | model | [2] Hu 2017; _cites Kardellass 2016_ [doi](https://doi.org/10.1007/s10973-016-5380-3) | Table 2, p. 24, row 16 |  |
+| 1308.15 | congruent melting: Liq -> NiYb_HT | L: Yb 0.5; NiYb_HT: Ni 0.5, Yb 0.5; Liq: Yb 0.5 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 20 |  |
 | 1308.15 | Liq -> NiYb_HT | L: Yb 0.5; NiYb_HT: Ni 0.5, Yb 0.5; Liq: Yb 0.5 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 19 |  |
-| 1306.15 | Eutectic: Liq1# -> Liq2# + NiYb_LT | NiYb_LT: Ni 0.5, Yb 0.5; Liq1: Yb 0.536; Liq2: Yb 0.909 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 29 |  |
-| 1303.65 | Polymorphic: NiYb_LT -> NiYb_HT | NiYb_LT: Yb 0.5; L: Yb 0.5; Liq: Yb 0.5 | model | [1] Kardellass 2016 | Table 5, p. 9, row 27 |  |
-| 1303.15 | Eutectic: Ni2Yb + NiYb_LT -> Liq | Ni2Yb: Ni 0.666667, Yb 0.333333; NiYb_LT: Ni 0.5, Yb 0.5; L: Yb 0.482; Liq: Yb 0.482 | model | [1] Kardellass 2016 | Table 5, p. 9, row 24 |  |
-| 1303.15 | Eutectic: Liq1# -> Liq2# + NiYb_LT | NiYb_LT: Ni 0.5, Yb 0.5; Liq1: Yb 0.527; Liq2: Yb 0.87 | model | [1] Kardellass 2016 | Table 5, p. 9, row 30 |  |
-| 1298.15 | Eutectic: Liq1# -> Liq2# + NiYb_LT | NiYb_LT: Ni 0.5, Yb 0.5; Liq1: Yb 0.536; Liq2: Yb 0.909 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 28 |  |
-| 1277 | Eutectic: Liq -> YbNi2 + α-YbNi | L: Yb 0.457; YbNi2: Yb 0.333333; α-YbNi: Yb 0.5 | model | [2] Hu 2017 | Table 2, p. 24, row 20 |  |
-| 1273.15 | Polymorphic: NiYb_LT -> NiYb_HT | NiYb_LT: Ni 0.5, Yb 0.5 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 25 |  |
-| 1263.15 | Eutectic: Ni2Yb + NiYb_LT -> Liq | Ni2Yb: Ni 0.666667, Yb 0.333333; NiYb_LT: Ni 0.5, Yb 0.5; L: Yb 0.455; Liq: Yb 0.455 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 22 |  |
-| 1263 | Eutectic: Liq -> YbNi2 + α-YbNi | L: Yb 0.455; YbNi2: Yb 0.333333; α-YbNi: Yb 0.5 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 19 |  |
+| 1306.15 | eutectic: Liq1# -> Liq2# + NiYb_LT | NiYb_LT: Ni 0.5, Yb 0.5; Liq1: Yb 0.536; Liq2: Yb 0.909 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 29 |  |
+| 1303.65 | polymorphic: NiYb_LT -> NiYb_HT | NiYb_LT: Yb 0.5; L: Yb 0.5; Liq: Yb 0.5 | model | [1] Kardellass 2016 | Table 5, p. 9, row 27 |  |
+| 1303.15 | eutectic: Ni2Yb + NiYb_LT -> Liq | Ni2Yb: Ni 0.666667, Yb 0.333333; NiYb_LT: Ni 0.5, Yb 0.5; L: Yb 0.482; Liq: Yb 0.482 | model | [1] Kardellass 2016 | Table 5, p. 9, row 24 |  |
+| 1303.15 | eutectic: Liq1# -> Liq2# + NiYb_LT | NiYb_LT: Ni 0.5, Yb 0.5; Liq1: Yb 0.527; Liq2: Yb 0.87 | model | [1] Kardellass 2016 | Table 5, p. 9, row 30 |  |
+| 1298.15 | eutectic: Liq1# -> Liq2# + NiYb_LT | NiYb_LT: Ni 0.5, Yb 0.5; Liq1: Yb 0.536; Liq2: Yb 0.909 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 28 |  |
+| 1277 | eutectic: Liq -> YbNi2 + α-YbNi | L: Yb 0.457; YbNi2: Yb 0.333333; α-YbNi: Yb 0.5 | model | [2] Hu 2017 | Table 2, p. 24, row 20 |  |
+| 1273.15 | polymorphic: NiYb_LT -> NiYb_HT | NiYb_LT: Ni 0.5, Yb 0.5 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 25 |  |
+| 1263.15 | eutectic: Ni2Yb + NiYb_LT -> Liq | Ni2Yb: Ni 0.666667, Yb 0.333333; NiYb_LT: Ni 0.5, Yb 0.5; L: Yb 0.455; Liq: Yb 0.455 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 22 |  |
+| 1263 | eutectic: Liq -> YbNi2 + α-YbNi | L: Yb 0.455; YbNi2: Yb 0.333333; α-YbNi: Yb 0.5 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 19 |  |
 | 1082 | eutectic: liquid ↔ bcc_Yb + α-YbNi |  | model | [2] Hu 2017 | p. 20 | “The temperature of the eutectic reaction, i.e., liquid ↔ bcc_Yb + α-YbNi is experimentally measured as 1063 K, while the calculated temperature is 1082 K.” |
-| 1080.15 | Eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.986; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.986 | model | [1] Kardellass 2016 | Table 5, p. 9, row 35 |  |
-| 1078.15 | Eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.981; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.981 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 34 |  |
-| 1067.15 | Eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.98; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.98 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 33 |  |
+| 1080.15 | eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.986; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.986 | model | [1] Kardellass 2016 | Table 5, p. 9, row 35 |  |
+| 1078.15 | eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.981; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.981 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 34 |  |
+| 1067.15 | eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.98; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.98 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 33 |  |
 | 1067.15 | eutectic: bcc_A2 (Yb) $ fcc_A1 (Yb) ? NiYb |  | model | [1] Kardellass 2016; _cites Nash 1989_ [doi](https://doi.org/10.1007/bf02881421) | p. 2 | “For the purpose of drawing Fig. 1 (dashed line), the eutectic temperature has been taken by Nash \[17\] as 805 C and the bcc_A2 (Yb) $ fcc_A1 (Yb) ? NiYb eutectoid temperature as 794 C.” |
 | 1063.15 | eutectic: Liq $ (Yb) ? NiYb |  | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | p. 2 | “Thus, this presents a problem in evaluating the diagram by Palenzona and Cirafici \[16\], as the eutectic reaction Liq $ (Yb) ? NiYb was reported to occur at 790 C slightly below the accepted bcc_A2 $ fcc_A1 transformation in Yb.” |
 | 1063 | eutectic: liquid ↔ bcc_Yb + α-YbNi |  | experimental | [2] Hu 2017 | p. 20 | “The temperature of the eutectic reaction, i.e., liquid ↔ bcc_Yb + α-YbNi is experimentally measured as 1063 K, while the calculated temperature is 1082 K.” |
@@ -209,20 +209,19 @@ Table: Phase transition, Ni–Yb system
 | Phase transition | 1092 K | 1092 |  | model | [2] Hu 2017; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5 | “For example, the melting temperature and bcc↔fcc polymorphic transformation temperature of Yb were reported to be 1098 K and 1022 K, respectively \[12\], whereas the accepted values for pure Yb are 1092 K and 1068 K \[19\].” |
 | Phase transition | 1098 K | 1098 |  | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | p. 5 | “For example, the melting temperature and bcc↔fcc polymorphic transformation temperature of Yb were reported to be 1098 K and 1022 K, respectively \[12\], whereas the accepted values for pure Yb are 1092 K and 1068 K \[19\].” |
 | Phase transition | 1273.15 K | 1273.15 | NiYb | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | p. 2 | “Thermal analysis by Palenzona and Cirafici \[16\] indicated a transformation in NiYb at 1000 C.” |
-| Phase transition | 1304 K | 1304 | Congruent: Liq -> β-YbNi; _L: Yb 0.5; β-YbNi: Yb 0.5_ | model | [2] Hu 2017 | Table 2, p. 24, row 22 |  |
-| Phase transition | 1308 K | 1308 | Congruent: Liq -> β-YbNi; _L: Yb 0.5; β-YbNi: Yb 0.5_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 21 |  |
-| Phase transition | 1582 K | 1582 | Congruent: Liq -> YbNi3; _L: Yb 0.25; YbNi3: Yb 0.25_ | model | [2] Hu 2017 | Table 2, p. 24, row 14 |  |
-| Phase transition | 1583 K | 1583 | Congruent: Liq -> YbNi3; _L: Yb 0.25; YbNi3: Yb 0.25_ | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 13 |  |
-| Phase transition | 1583 K | 1583 | Congruent: Liq -> YbNi3; _L: Yb 0.25; YbNi3: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 12 |  |
+| Phase transition | 1304 K | 1304 | congruent melting: Liq -> β-YbNi; _L: Yb 0.5; β-YbNi: Yb 0.5_ | model | [2] Hu 2017 | Table 2, p. 24, row 22 |  |
+| Phase transition | 1308 K | 1308 | congruent melting: Liq -> β-YbNi; _L: Yb 0.5; β-YbNi: Yb 0.5_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 21 |  |
+| Phase transition | 1582 K | 1582 | congruent melting: Liq -> YbNi3; _L: Yb 0.25; YbNi3: Yb 0.25_ | model | [2] Hu 2017 | Table 2, p. 24, row 14 |  |
+| Phase transition | 1583 K | 1583 | congruent melting: Liq -> YbNi3; _L: Yb 0.25; YbNi3: Yb 0.25_ | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 13 |  |
+| Phase transition | 1583 K | 1583 | congruent melting: Liq -> YbNi3; _L: Yb 0.25; YbNi3: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 12 |  |
 
-### Formation (26)
+### Formation (25)
 
 Table: Formation, Ni–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔSf_ | 0.02 J/mol-atom/K | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 23 |  |
-| Entropy of formation; _printed: ΔSf_ | -0.86 J/mol-atom/K | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
 | Entropy of formation; _printed: ΔSf_ | -0.86 J/mol-atom/K | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
 | Entropy of formation; _printed: ΔSf_ | 0.84 J/mol-atom/K | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 25 |  |
 | Entropy of formation; _printed: Entropies of formation_ | -2.5 J/mol-atom/K | 298 | Ni17Yb2; _alloy: Yb 0.105263_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 4 |  |
@@ -248,72 +247,42 @@ Table: Formation, Ni–Yb system
 | Entropy of formation; _printed: Entropies of formation_ | 1.96 J/mol-atom/K ± 0.07 | 990 | Ni17Yb2; _alloy: Yb 0.105263_ | experimental | [1] Kardellass 2016; _cites Di 2002_ [doi](https://doi.org/10.1021/jp0142785) | Table 2, p. 5, row 5 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 1.96 J/mol-atom/K ± 0.07 | 990 | UNKNOWN; _alloy: Yb 0.105263_ | experimental | [1] Kardellass 2016; _cites Di 2002_ [doi](https://doi.org/10.1021/jp0142785) | Table 2, p. 5, row 5 |  |
 
-### Crystal structure (60)
+### Crystal structure (30)
 
 Table: Crystal structure, Ni–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a; _printed: a_ | 8.324 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
-| Lattice a; _printed: Lattice parameter a_ | 8.324 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
 | Lattice a; _printed: a_ | 8.272 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 10 |  |
-| Lattice a; _printed: Lattice parameter a_ | 8.272 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 10 |  |
 | Lattice a; _printed: a_ | 8.28 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 9 |  |
-| Lattice a; _printed: Lattice parameter a_ | 8.28 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 9 |  |
 | Lattice a; _printed: Lattice parameter a_ | 8.302 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 11 |  |
-| Lattice a; _printed: a_ | 8.302 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 11 |  |
 | Lattice a; _printed: Lattice parameter a_ | 4.894 Å | 0 | Yb2Ni7; _alloy: Yb 0.222222_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 17 |  |
-| Lattice a; _printed: a_ | 4.894 Å | 0 | Yb2Ni7; _alloy: Yb 0.222222_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 17 |  |
 | Lattice a; _printed: a_ | 4.919 Å | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
-| Lattice a; _printed: Lattice parameter a_ | 4.919 Å | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
 | Lattice a; _printed: Lattice parameter a_ | 4.92 Å | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 18 |  |
-| Lattice a; _printed: a_ | 4.92 Å | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 18 |  |
 | Lattice a; _printed: a_ | 4.847 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 13 |  |
-| Lattice a; _printed: Lattice parameter a_ | 4.847 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 13 |  |
 | Lattice a; _printed: a_ | 4.879 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 15 |  |
-| Lattice a; _printed: Lattice parameter a_ | 4.879 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 15 |  |
 | Lattice a; _printed: a_ | 4.842 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 14 |  |
-| Lattice a; _printed: Lattice parameter a_ | 4.842 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 14 |  |
 | Lattice a; _printed: Lattice parameter a_ | 4.899 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 16 |  |
-| Lattice a; _printed: a_ | 4.899 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 16 |  |
 | Lattice a; _printed: a_ | 3.531 Å | 0 | fcc-Ni; _alloy: Yb 0_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 3 |  |
-| Lattice a; _printed: Lattice parameter a_ | 3.531 Å | 0 | fcc-Ni; _alloy: Yb 0_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 3 |  |
 | Lattice a; _printed: Lattice parameter a_ | 3.525 Å | 0 | fcc-Ni; _alloy: Yb 0_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 2 |  |
-| Lattice a; _printed: a_ | 3.525 Å | 0 | fcc-Ni; _alloy: Yb 0_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 2 |  |
 | Lattice a; _printed: a_ | 3.524 Å | 0 | fcc-Ni; _alloy: Yb 0_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 1 |  |
-| Lattice a; _printed: Lattice parameter a_ | 3.524 Å | 0 | fcc-Ni; _alloy: Yb 0_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 1 |  |
 | Lattice a; _printed: a_ | 3.54 Å | 0 | fcc-Ni; _alloy: Yb 0_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 4 |  |
-| Lattice a; _printed: Lattice parameter a_ | 3.54 Å | 0 | fcc-Ni; _alloy: Yb 0_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 4 |  |
 | Lattice a; _printed: a_ | 5.484 Å | 0 | fcc-Yb; _alloy: Yb 1_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 6 |  |
-| Lattice a; _printed: Lattice parameter a_ | 5.484 Å | 0 | fcc-Yb; _alloy: Yb 1_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 6 |  |
 | Lattice a; _printed: a_ | 5.451 Å | 0 | fcc-Yb; _alloy: Yb 1_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 7 |  |
-| Lattice a; _printed: Lattice parameter a_ | 5.451 Å | 0 | fcc-Yb; _alloy: Yb 1_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 7 |  |
 | Lattice a; _printed: Lattice parameter a_ | 5.486 Å | 0 | fcc-Yb; _alloy: Yb 1_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 5 |  |
-| Lattice a; _printed: a_ | 5.486 Å | 0 | fcc-Yb; _alloy: Yb 1_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 5 |  |
 | Lattice a; _printed: a_ | 5.491 Å | 0 | fcc-Yb; _alloy: Yb 1_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 8 |  |
-| Lattice a; _printed: Lattice parameter a_ | 5.491 Å | 0 | fcc-Yb; _alloy: Yb 1_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 8 |  |
 | Lattice c; _printed: c_ | 8.064 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
-| Lattice c; _printed: Lattice parameter c_ | 8.064 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
 | Lattice c; _printed: c_ | 8.029 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 10 |  |
-| Lattice c; _printed: Lattice parameter c_ | 8.029 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 10 |  |
 | Lattice c; _printed: c_ | 8.024 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 9 |  |
-| Lattice c; _printed: Lattice parameter c_ | 8.024 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 9 |  |
 | Lattice c; _printed: Lattice parameter c_ | 8.043 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 11 |  |
-| Lattice c; _printed: c_ | 8.043 Å | 0 | Yb2Ni17; _alloy: Yb 0.105263_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 11 |  |
 | Lattice c; _printed: c_ | 35.79 Å | 0 | Yb2Ni7; _alloy: Yb 0.222222_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 17 |  |
-| Lattice c; _printed: Lattice parameter c_ | 35.79 Å | 0 | Yb2Ni7; _alloy: Yb 0.222222_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 17 |  |
 | Lattice c; _printed: c_ | 24.14 Å | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
-| Lattice c; _printed: Lattice parameter c_ | 24.14 Å | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
 | Lattice c; _printed: Lattice parameter c_ | 24.16 Å | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 18 |  |
-| Lattice c; _printed: c_ | 24.16 Å | 0 | YbNi3; _alloy: Yb 0.25_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 18 |  |
 | Lattice c; _printed: c_ | 3.962 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 13 |  |
-| Lattice c; _printed: Lattice parameter c_ | 3.962 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | experimental | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 13 |  |
 | Lattice c; _printed: c_ | 3.947 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 15 |  |
-| Lattice c; _printed: Lattice parameter c_ | 3.947 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 15 |  |
 | Lattice c; _printed: c_ | 3.959 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 14 |  |
-| Lattice c; _printed: Lattice parameter c_ | 3.959 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 14 |  |
 | Lattice c; _printed: c_ | 3.963 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 16 |  |
-| Lattice c; _printed: Lattice parameter c_ | 3.963 Å | 0 | YbNi5; _alloy: Yb 0.166667_ | DFT | [2] Hu 2017 | Table 3, p. 26, row 16 |  |
 
 ## Sources
 

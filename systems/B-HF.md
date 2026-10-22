@@ -33,44 +33,44 @@ Table: Invariant reactions reported in the literature for the B–Hf system (38)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3653 | Congruent: L \<-> HfB2 | L: B 0.66; HfB2: B 0.66 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 1 |  |
-| 3650 | Congruent: B2Hf -> Liquid | B2Hf: B 0.666667, Hf 0.333333; Liquid: B 0.666667, Hf 0.333333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 5 |  |
-| 3650 | Congruent: L \<-> HfB2 | L: B 0.667; HfB2: B 0.667 | model | [1] Bittermann 1997 | Table 1, p. 2, row 3 |  |
-| 3643 | Congruent: L \<-> HfB2 | L: B 0.667; HfB2: B 0.667 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 2 |  |
-| 2506 | Melting: L \<-> βHf | L: B 0; βHf: B 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 6 |  |
-| 2491 | Melting: L \<-> βHf | L: B 0; βHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 4 |  |
-| 2473 | Melting: L \<-> βHf | L: B 0; βHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 5 |  |
-| 2423 | Melting: L \<-> B | L: B 1; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 10 |  |
-| 2377.15 | Peritectic: L + HfB2 -> HfB | L: B 0.219; HfB2: B 0.667; HfB: B 0.5 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 2 |  |
-| 2377.15 | Peritectic: L+HfB2=HfB | L: B 0.22; HfB2: B 0.666667; HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 3 |  |
-| 2377.1 | Peritectic: Liquid + B2Hf -> + BHf | B2Hf: B 0.666667, Hf 0.333333; BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 2 |  |
-| 2377 | Peritectic: L + HfB2 \<-> HfB | L: B 0.22; HfB2: B 0.667; HfB: B 0.5 | model | [1] Bittermann 1997 | Table 1, p. 2, row 8 |  |
-| 2373.15 | Peritectic: L+HfB2=HfB | L: B 0.2213; HfB2: B 0.666667; HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 4 |  |
-| 2373 | Peritectic: L + HfB2 \<-> HfB | L: B 0.24; HfB2: B 0.66; HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 7 |  |
-| 2373 | Melting: L \<-> B | L: B 1; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 9 |  |
-| 2348 | Melting: L \<-> B | L: B 1; B: B 1 | model | [1] Bittermann 1997 | Table 1, p. 2, row 11 |  |
-| 2343 | Eutectic: L \<-> HfB2 + B | L: B 0.98; HfB2: B 0.667; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 13 |  |
-| 2338.15 | Eutectic: L=HfB2+(βB) | L: B 0.99; HfB2: B 0.666667; (βB): B 1 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 5 |  |
-| 2338.15 | Eutectic: L -> HfB2 + B | L: B 0.99; HfB2: B 0.677; B: B 1 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 3 |  |
-| 2338 | Eutectic: L \<-> HfB2 + B | L: B 0.99; HfB2: B 0.66; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 12 |  |
-| 2338 | Eutectic: L \<-> HfB2 + B | L: B 0.99; HfB2: B 0.667; B: B 1 | model | [1] Bittermann 1997 | Table 1, p. 2, row 14 |  |
-| 2337.9 | Eutectic: Liquid -> β-rhombo-B + B2Hf | B2Hf: B 0.666667, Hf 0.333333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 1 |  |
-| 2337.15 | Eutectic: L=HfB2+(βB) | L: B 0.9895; HfB2: B 0.666667; (βB): B 1 | model | [4] Pan 2021 | Table 2, p. 5, row 6 |  |
-| 2154.15 | Eutectic: L -> HfB + bcc-Hf | L: B 0.15; HfB: B 0.5; bcc-Hf: B 0.01 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 4 |  |
-| 2154.15 | Eutectic: L=(βHf)+HfB | L: B 0.15; HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 7 |  |
-| 2154 | Eutectic: L \<-> βHf + HfB | L: B 0.15; βHf: B 0.01; HfB: B 0.5 | model | [1] Bittermann 1997 | Table 1, p. 2, row 16 |  |
-| 2153.6 | Eutectic: Liquid -> BHf + bcc-A2 | BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 3 |  |
-| 2153 | Eutectic: L \<-> βHf + HfB | L: B 0.13; HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 15 |  |
-| 2148.15 | Eutectic: L=(βHf)+HfB | L: B 0.1515; HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 8 |  |
-| 2073 | Peritectoid: βHf + HfB \<-> αHf | HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 17 |  |
-| 2073 | Allotropic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 19 |  |
-| 2066.15 | Peritectoid: (βHf)+HfB=(αHf) | HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 10 |  |
-| 2064.15 | Peritectoid: (βHf)+HfB=(αHf) | HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 9 |  |
-| 2064 | Peritectoid: βHf + HfB \<-> αHf | βHf: B 0.007; HfB: B 0.5; αHf: B 0.015 | model | [1] Bittermann 1997 | Table 1, p. 2, row 18 |  |
-| 2063.8 | Peritectic: bcc-A2 + BHf -> hcp-A3 | BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 4 |  |
-| 2063.15 | Peritectoid: HfB + bcc-Hf -> hcp-Hf | HfB: B 0.5; bcc-Hf: B 0.007; hcp-Hf: B 0.015 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 5 |  |
-| 2050 | Allotropic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 20 |  |
-| 2016 | Allotropic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 21 |  |
+| 3653 | congruent melting: L \<-> HfB2 | L: B 0.66; HfB2: B 0.66 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 1 |  |
+| 3650 | congruent melting: B2Hf -> Liquid | B2Hf: B 0.666667, Hf 0.333333; Liquid: B 0.666667, Hf 0.333333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 5 |  |
+| 3650 | congruent melting: L \<-> HfB2 | L: B 0.667; HfB2: B 0.667 | model | [1] Bittermann 1997 | Table 1, p. 2, row 3 |  |
+| 3643 | congruent melting: L \<-> HfB2 | L: B 0.667; HfB2: B 0.667 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 2 |  |
+| 2506 | congruent melting: L \<-> βHf | L: B 0; βHf: B 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 6 |  |
+| 2491 | congruent melting: L \<-> βHf | L: B 0; βHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 4 |  |
+| 2473 | congruent melting: L \<-> βHf | L: B 0; βHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 5 |  |
+| 2423 | congruent melting: L \<-> B | L: B 1; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 10 |  |
+| 2377.15 | peritectic: L + HfB2 -> HfB | L: B 0.219; HfB2: B 0.667; HfB: B 0.5 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 2 |  |
+| 2377.15 | peritectic: L+HfB2=HfB | L: B 0.22; HfB2: B 0.666667; HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 3 |  |
+| 2377.1 | peritectic: Liquid + B2Hf -> + BHf | B2Hf: B 0.666667, Hf 0.333333; BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 2 |  |
+| 2377 | peritectic: L + HfB2 \<-> HfB | L: B 0.22; HfB2: B 0.667; HfB: B 0.5 | model | [1] Bittermann 1997 | Table 1, p. 2, row 8 |  |
+| 2373.15 | peritectic: L+HfB2=HfB | L: B 0.2213; HfB2: B 0.666667; HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 4 |  |
+| 2373 | peritectic: L + HfB2 \<-> HfB | L: B 0.24; HfB2: B 0.66; HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 7 |  |
+| 2373 | congruent melting: L \<-> B | L: B 1; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 9 |  |
+| 2348 | congruent melting: L \<-> B | L: B 1; B: B 1 | model | [1] Bittermann 1997 | Table 1, p. 2, row 11 |  |
+| 2343 | eutectic: L \<-> HfB2 + B | L: B 0.98; HfB2: B 0.667; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 13 |  |
+| 2338.15 | eutectic: L=HfB2+(βB) | L: B 0.99; HfB2: B 0.666667; (βB): B 1 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 5 |  |
+| 2338.15 | eutectic: L -> HfB2 + B | L: B 0.99; HfB2: B 0.677; B: B 1 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 3 |  |
+| 2338 | eutectic: L \<-> HfB2 + B | L: B 0.99; HfB2: B 0.66; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 12 |  |
+| 2338 | eutectic: L \<-> HfB2 + B | L: B 0.99; HfB2: B 0.667; B: B 1 | model | [1] Bittermann 1997 | Table 1, p. 2, row 14 |  |
+| 2337.9 | eutectic: Liquid -> β-rhombo-B + B2Hf | B2Hf: B 0.666667, Hf 0.333333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 1 |  |
+| 2337.15 | eutectic: L=HfB2+(βB) | L: B 0.9895; HfB2: B 0.666667; (βB): B 1 | model | [4] Pan 2021 | Table 2, p. 5, row 6 |  |
+| 2154.15 | eutectic: L -> HfB + bcc-Hf | L: B 0.15; HfB: B 0.5; bcc-Hf: B 0.01 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 4 |  |
+| 2154.15 | eutectic: L=(βHf)+HfB | L: B 0.15; HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 7 |  |
+| 2154 | eutectic: L \<-> βHf + HfB | L: B 0.15; βHf: B 0.01; HfB: B 0.5 | model | [1] Bittermann 1997 | Table 1, p. 2, row 16 |  |
+| 2153.6 | eutectic: Liquid -> BHf + bcc-A2 | BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 3 |  |
+| 2153 | eutectic: L \<-> βHf + HfB | L: B 0.13; HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 15 |  |
+| 2148.15 | eutectic: L=(βHf)+HfB | L: B 0.1515; HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 8 |  |
+| 2073 | peritectoid: βHf + HfB \<-> αHf | HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 17 |  |
+| 2073 | polymorphic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 19 |  |
+| 2066.15 | peritectoid: (βHf)+HfB=(αHf) | HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 10 |  |
+| 2064.15 | peritectoid: (βHf)+HfB=(αHf) | HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 9 |  |
+| 2064 | peritectoid: βHf + HfB \<-> αHf | βHf: B 0.007; HfB: B 0.5; αHf: B 0.015 | model | [1] Bittermann 1997 | Table 1, p. 2, row 18 |  |
+| 2063.8 | peritectic: bcc-A2 + BHf -> hcp-A3 | BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 4 |  |
+| 2063.15 | peritectoid: HfB + bcc-Hf -> hcp-Hf | HfB: B 0.5; bcc-Hf: B 0.007; hcp-Hf: B 0.015 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 5 |  |
+| 2050 | polymorphic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 20 |  |
+| 2016 | polymorphic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 21 |  |
 
 ## Formation enthalpies
 
@@ -80,8 +80,8 @@ Table: Enthalpies of formation, B–Hf system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| HfB | [HfB](https://data.orchid-project.org/compounds/HfB.html) | -98.95 kJ/mol-atom ± 12.6 | 298.15 | experimental | -39.896 (mp-aaaaaanh) | -40.239 (oqmd-13677) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
 | HfB | [HfB](https://data.orchid-project.org/compounds/HfB.html) | -79.905 kJ/mol-atom |  | model | -39.896 (mp-aaaaaanh) | -40.239 (oqmd-13677) | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
+| HfB | [HfB](https://data.orchid-project.org/compounds/HfB.html) | -49.475 kJ/mol-atom ± 6.3 | 298.15 | experimental | -39.896 (mp-aaaaaanh) | -40.239 (oqmd-13677) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
 | HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -117.633 kJ/mol-atom | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites Krupka 1962_ | Table 3, p. 4, row 13 |  |
 | HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -109.633 kJ/mol-atom ± 8.8 | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites ref. 67Joh_ | Table 3, p. 4, row 15 |  |
 | HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -106.567 kJ/mol-atom | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 14 |  |
@@ -98,9 +98,9 @@ Table: Phase transition, B–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3650.15 K | 3650.15 | Congruent: L=HfB2; _L: B 0.667; HfB2: B 0.666667_ | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 1 |  |
-| Phase transition | 3651.15 K | 3651.15 | Congruent: L -> HfB2; _L: B 0.667; HfB2: B 0.667_ | model | [3] Cacciamani 2011 | Table 1, p. 4, row 1 |  |
-| Phase transition | 3651.15 K | 3651.15 | Congruent: L=HfB2; _L: B 0.6666; HfB2: B 0.666667_ | model | [4] Pan 2021 | Table 2, p. 5, row 2 |  |
+| Phase transition | 3650.15 K | 3650.15 | congruent melting: L=HfB2; _L: B 0.667; HfB2: B 0.666667_ | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 1 |  |
+| Phase transition | 3651.15 K | 3651.15 | congruent melting: L -> HfB2; _L: B 0.667; HfB2: B 0.667_ | model | [3] Cacciamani 2011 | Table 1, p. 4, row 1 |  |
+| Phase transition | 3651.15 K | 3651.15 | congruent melting: L=HfB2; _L: B 0.6666; HfB2: B 0.666667_ | model | [4] Pan 2021 | Table 2, p. 5, row 2 |  |
 
 ### Heat capacity / entropy / enthalpy (8)
 

@@ -1,10 +1,10 @@
 # Cr–Fe system
 
-> Cr–Fe system: 81 accepted literature values (crystal structure 34, phase transition 30, formation 15, invariant reaction 2) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Fe system: 72 accepted literature values (phase transition 30, crystal structure 25, formation 15, invariant reaction 2) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-FE.html · Markdown: https://data.orchid-project.org/systems/CR-FE.md
 
-81 accepted literature values from 6 paper(s) (experimental 13, model 19, DFT 39, unspecified 10); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+72 accepted literature values from 6 paper(s) (experimental 13, model 19, DFT 38, unspecified 2); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE.json) · [CSV](https://data.orchid-project.org/systems/CR-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-FE/CrFe-11Xio.json) · [Markdown](https://data.orchid-project.org/systems/CR-FE.md)
 
@@ -14,8 +14,8 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 13 |
 | model | 19 |
-| DFT | 39 |
-| unspecified | 10 |
+| DFT | 38 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 2 |
 | phase transition | 30 |
 | formation | 15 |
-| crystal structure | 34 |
+| crystal structure | 25 |
 
 ## Calculated phase diagrams
 
@@ -104,7 +104,7 @@ Table: Phase transition, Cr–Fe system
 | Phase transition | 67 K | 67 | magnetic | model | [2] Hertzman 1982; _cites ref. 37_ | p. 6 | “That evaluation gave a Neel temperature of 67 K for iron and 370 K for chromium.” |
 | Phase transition | 370 K | 370 | magnetic | model | [2] Hertzman 1982; _cites ref. 37_ | p. 6 | “That evaluation gave a Neel temperature of 67 K for iron and 370 K for chromium.” |
 | Phase transition | 774 K | 774 | other | model | [3] Xiong 2011 | p. 6 | “According to the present modeling, the decomposition temperature of the σ phase is 774 K which is in the evaluated range between 773 and 783 K by Xiong et al. \[3\].” |
-| Phase transition | 793 K | 793 | congruent: α (Cr, Fe) → σ | experimental | [4] Lafaye 2021; _cites Dubiel 1987_ | p. 2 | “This binary system exhibits a miscibility gap in the bcc phase as well as the σ phase, following the congruent reaction α (Cr, Fe) → σ at 793 K \[22\].” |
+| Phase transition | 793 K | 793 | congruent transformation: α (Cr, Fe) → σ | experimental | [4] Lafaye 2021; _cites Dubiel 1987_ | p. 2 | “This binary system exhibits a miscibility gap in the bcc phase as well as the σ phase, following the congruent reaction α (Cr, Fe) → σ at 793 K \[22\].” |
 | Phase transition | 960 K | 960 | other | model | [3] Xiong 2011 | p. 6 | “The consolute temperature is 960 K, i.e. 56 K higher than the one by Andersson and Sundman \[9\], in good agreement with the evaluation by Xiong et al. \[3\] (∼970 K).” |
 | Phase transition | 970 K | 970 | other | model | [3] Xiong 2011; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | p. 6 | “The consolute temperature is 960 K, i.e. 56 K higher than the one by Andersson and Sundman \[9\], in good agreement with the evaluation by Xiong et al. \[3\] (∼970 K).” |
 | Phase transition | 1007 K | 1007 | magnetic: 5; _alloy: Cr 0.1305, Fe 0.8695_ | experimental | [3] Xiong 2011 | Table 1, p. 2, row 5 |  |
@@ -113,33 +113,32 @@ Table: Phase transition, Cr–Fe system
 | Phase transition | 1046 K | 1046 | magnetic: 3; _alloy: Cr 0.06767, Fe 0.93233_ | experimental | [3] Xiong 2011 | Table 1, p. 2, row 3 |  |
 | Phase transition | 1051 K | 1051 | magnetic: 1; _alloy: Cr 0.01159, Fe 0.98841_ | experimental | [3] Xiong 2011 | Table 1, p. 2, row 1 |  |
 | Phase transition | 1054 K | 1054 | magnetic: 2; _alloy: Cr 0.03365, Fe 0.96635_ | experimental | [3] Xiong 2011 | Table 1, p. 2, row 2 |  |
-| Phase transition | 1093 K | 1093 | congruent: C: BCC -> σ; _BCC: Fe 0.53; σ: Fe 0.53_ | experimental | [1] Jacob 2018; _cites Cook 1943_ | Table 4, p. 10, row 7 |  |
-| Phase transition | 1096 K | 1096 | congruent: C: BCC -> σ; _BCC: Fe 0.54; σ: Fe 0.54_ | model | [1] Jacob 2018 | Table 4, p. 10, row 6 |  |
-| Phase transition | 1103 K | 1103 | congruent: C: BCC -> σ; _BCC: Fe 0.53; σ: Fe 0.53_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 8 |  |
-| Phase transition | 1119 K | 1119 | congruent: C: FCC -> BCC; _FCC: Fe 0.93; BCC: Fe 0.93_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 5 |  |
+| Phase transition | 1093 K | 1093 | congruent transformation: C: BCC -> σ; _BCC: Fe 0.53; σ: Fe 0.53_ | experimental | [1] Jacob 2018; _cites Cook 1943_ | Table 4, p. 10, row 7 |  |
+| Phase transition | 1096 K | 1096 | congruent transformation: C: BCC -> σ; _BCC: Fe 0.54; σ: Fe 0.54_ | model | [1] Jacob 2018 | Table 4, p. 10, row 6 |  |
+| Phase transition | 1103 K | 1103 | congruent transformation: C: BCC -> σ; _BCC: Fe 0.53; σ: Fe 0.53_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 8 |  |
+| Phase transition | 1119 K | 1119 | congruent transformation: C: FCC -> BCC; _FCC: Fe 0.93; BCC: Fe 0.93_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 5 |  |
 | Phase transition | 1125 K | 1125 | other | experimental | [2] Hertzman 1982 | p. 3 | “The chosen line yields a calculated gamma loop in close agreement with the experimental one, except for the temperature of the minimum which is calculated to 1145 K, and experimentally determined to about 1125 K.” |
 | Phase transition | 1126 K | 1126 | bcc + fcc | model | [5] Andersson 1987 | p. 5 | “A reasonable compromise was obtained with a subregular parameter of 1410 J/mol resulting in an almost horizontal slope at high temperature and a minimum temperature of about 1126 K.” |
-| Phase transition | 1126 K | 1126 | congruent: C: FCC -> BCC; _FCC: Fe 0.927; BCC: Fe 0.927_ | model | [1] Jacob 2018 | Table 4, p. 10, row 4 |  |
+| Phase transition | 1126 K | 1126 | congruent transformation: C: FCC -> BCC; _FCC: Fe 0.927; BCC: Fe 0.927_ | model | [1] Jacob 2018 | Table 4, p. 10, row 4 |  |
 | Phase transition | 1145 K | 1145 | other | model | [2] Hertzman 1982 | p. 3 | “The chosen line yields a calculated gamma loop in close agreement with the experimental one, except for the temperature of the minimum which is calculated to 1145 K, and experimentally determined to about 1125 K.” |
 | Phase transition | 1780 K | 1780 |  | experimental | [2] Hertzman 1982; _cites ref. 15_ | p. 6 | “The location of this 15 to be at 23 at% Cr and 1780 K.” |
-| Phase transition | 1782 K | 1782 | congruent: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | model | [1] Jacob 2018 | Table 4, p. 10, row 1 |  |
-| Phase transition | 1783 K | 1783 | congruent: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 3 |  |
-| Phase transition | 1783 K | 1783 | congruent: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | experimental | [1] Jacob 2018; _cites Adcock 1931_ | Table 4, p. 10, row 2 |  |
-| Phase transition | 1837.15 K | 1837.15 | liquidus | model | [6] Yang 2013 | p. 10 | “There is a minimum in the liquidus of (Fe,Cr)2Zr_H at 1564 °C, which is in good agreement with the value (1570 °C) assessed by Raghavan based on early experimental information \[31\].” |
-| Phase transition | 1843.15 K | 1843.15 | liquidus | model | [6] Yang 2013; _cites Raghavan 1992_ | p. 10 | “There is a minimum in the liquidus of (Fe,Cr)2Zr_H at 1564 °C, which is in good agreement with the value (1570 °C) assessed by Raghavan based on early experimental information \[31\].” |
+| Phase transition | 1782 K | 1782 | congruent melting: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | model | [1] Jacob 2018 | Table 4, p. 10, row 1 |  |
+| Phase transition | 1783 K | 1783 | congruent melting: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | model | [1] Jacob 2018; _cites Xiong 2015_ [doi](https://doi.org/10.1080/10408431003788472) | Table 4, p. 10, row 3 |  |
+| Phase transition | 1783 K | 1783 | congruent melting: C: L -> BCC; _L: Fe 0.79; BCC: Fe 0.79_ | experimental | [1] Jacob 2018; _cites Adcock 1931_ | Table 4, p. 10, row 2 |  |
+| Phase transition | 1837.15 K | 1837.15 | other | model | [6] Yang 2013 | p. 10 | “There is a minimum in the liquidus of (Fe,Cr)2Zr_H at 1564 °C, which is in good agreement with the value (1570 °C) assessed by Raghavan based on early experimental information \[31\].” |
+| Phase transition | 1843.15 K | 1843.15 | other | model | [6] Yang 2013; _cites Raghavan 1992_ | p. 10 | “There is a minimum in the liquidus of (Fe,Cr)2Zr_H at 1564 °C, which is in good agreement with the value (1570 °C) assessed by Raghavan based on early experimental information \[31\].” |
 | Phase transition | 1878.15 K | 1878.15 | other | model | [6] Yang 2013 | p. 10 | “The maximum at 1605C° on the univariant line between (Fe,Cr)2Zr_C and (Fe,Cr)2Zr_H, corresponds to the 1605 °C denoted in the isopleth in Fig. 11.” |
 | Phase transition | 2103 K | 2103 |  | experimental | [5] Andersson 1987; _cites ref. 4_ | p. 8 | “He reports a boiling point at slightly below 2173 K and a melting point of 2103 K.” |
 | Phase transition | 2136 K | 2136 |  | model | [3] Xiong 2011; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | p. 6 | “It should be kept in mind that the melting temperature of pure Cr was suggested to be 2136 K \[3\] instead of 2180 K as adopted currently by SGTE \[22\].” |
 | Phase transition | 2180 K | 2180 |  | model | [3] Xiong 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6 | “It should be kept in mind that the melting temperature of pure Cr was suggested to be 2136 K \[3\] instead of 2180 K as adopted currently by SGTE \[22\].” |
 
-### Crystal structure (34)
+### Crystal structure (25)
 
 Table: Crystal structure, Cr–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a; _printed: a (Ferromagnetic)_ | 8.64 Å | 0 | σ; _alloy: Fe 0.466667_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 4 |  |
-| Lattice a; _printed: a (Non magnetic)_ | 8.64 Å | 0 | σ; _alloy: Fe 0.466667_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 4 |  |
 | Lattice a; _printed: a (Non magnetic)_ | 8.42 Å | 0 | σ; _alloy: Fe 0.866667_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 7 |  |
 | Lattice a; _printed: a (Ferromagnetic)_ | 8.44 Å | 0 | σ; _alloy: Fe 0.866667_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 7 |  |
 | Lattice a; _printed: a (Ferromagnetic)_ | 8.66 Å | 0 | σ; _alloy: Fe 0.666667_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 6 |  |
@@ -151,10 +150,6 @@ Table: Crystal structure, Cr–Fe system
 | Lattice a; _printed: a (Non magnetic)_ | 8.71 Å | 0 | σ; _alloy: Fe 0.133333_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 2 |  |
 | Lattice a; _printed: a (Ferromagnetic)_ | 8.735 Å | 0 | σ; _alloy: Fe 0.133333_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 2 |  |
 | Lattice a | 8.7961 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 3 |  |
-| Lattice a | 8.7961 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 4 |  |
-| Lattice a | 8.7961 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 5 |  |
-| Lattice a | 8.7961 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 1 |  |
-| Lattice a | 8.7961 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 2 |  |
 | Lattice c; _printed: c (Non magnetic)_ | 4.44 Å | 0 | σ; _alloy: Fe 0.466667_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 4 |  |
 | Lattice c; _printed: c (Ferromagnetic)_ | 4.39 Å | 0 | σ; _alloy: Fe 0.466667_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 4 |  |
 | Lattice c; _printed: c (Non magnetic)_ | 4.44 Å | 0 | σ; _alloy: Fe 0.866667_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 7 |  |
@@ -168,10 +163,6 @@ Table: Crystal structure, Cr–Fe system
 | Lattice c; _printed: c (Non magnetic)_ | 4.54 Å | 0 | σ; _alloy: Fe 0.133333_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 2 |  |
 | Lattice c; _printed: c (Ferromagnetic)_ | 4.55 Å | 0 | σ; _alloy: Fe 0.133333_ | DFT | [1] Jacob 2018 | Table 2, p. 5, row 2 |  |
 | Lattice c | 4.5605 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 3 |  |
-| Lattice c | 4.5605 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 4 |  |
-| Lattice c | 4.5605 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 5 |  |
-| Lattice c | 4.5605 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 1 |  |
-| Lattice c | 4.5605 Å | 298.15 | σ-CrFe; _alloy: Fe 0.5_ | unspecified | [1] Jacob 2018; _cites Yakel 1983_ [doi](https://doi.org/10.1107/s0108768183001974) | Table 1, p. 3, row 2 |  |
 
 ## Sources
 

@@ -103,13 +103,13 @@ Table: Invariant reactions reported in the literature for the Au–Bi system (44
 | 513 | L \<-> Au2Bi + (Bi) | L: Bi 0.8236; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Hajicek 1948_ | Table 1, p. 2, row 15 |  |
 | 513 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.8236; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites ref. 11_ | Table 2, p. 6, row 13 |  |
 | 393 | Au2Bi \<-> fcc + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Evans 1983_ | Table 1, p. 2, row 24 |  |
-| 389 | decomposition: Au2Bi ⇌ fcc + Bi(rho) | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table 2, p. 6, row 19 |  |
+| 389 | other: Au2Bi ⇌ fcc + Bi(rho) | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table 2, p. 6, row 19 |  |
 | 389 | Au2Bi \<-> fcc + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table 1, p. 2, row 23 |  |
 | 383.1 | Au2Bi \<-> fcc + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [2] Servant 2006 | Table 1, p. 2, row 20 |  |
 | 382.7 | Au2Bi \<-> fcc + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [2] Servant 2006; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table 1, p. 2, row 21 |  |
-| 382.7 | decomposition: Au2Bi ⇌ fcc + Bi(rho) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [1] Chevalier 1988 | Table 2, p. 6, row 17 |  |
+| 382.7 | other: Au2Bi ⇌ fcc + Bi(rho) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [1] Chevalier 1988 | Table 2, p. 6, row 17 |  |
 | 349.8 | Au2Bi \<-> fcc + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [2] Servant 2006; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table 1, p. 2, row 22 |  |
-| 349.8 | decomposition: Au2Bi ⇌ fcc + Bi(rho) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [1] Chevalier 1988 | Table 2, p. 6, row 18 |  |
+| 349.8 | other: Au2Bi ⇌ fcc + Bi(rho) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [1] Chevalier 1988 | Table 2, p. 6, row 18 |  |
 
 ## Formation enthalpies
 

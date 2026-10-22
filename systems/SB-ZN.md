@@ -1,10 +1,10 @@
 # Sb–Zn system
 
-> Sb–Zn system: 274 accepted literature values (formation 117, invariant reaction 107, phase transition 25, activity / EMF / Gibbs energy 20) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Zn system: 246 accepted literature values (invariant reaction 107, formation 89, phase transition 25, activity / EMF / Gibbs energy 20) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-ZN.html · Markdown: https://data.orchid-project.org/systems/SB-ZN.md
 
-274 accepted literature values from 4 paper(s) (experimental 144, model 121, unspecified 9); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+246 accepted literature values from 4 paper(s) (experimental 132, model 105, unspecified 9); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-ZN.json) · [CSV](https://data.orchid-project.org/systems/SB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-ZN/SbZn-00Liu-LB.json) · [Markdown](https://data.orchid-project.org/systems/SB-ZN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 144 |
-| model | 121 |
+| experimental | 132 |
+| model | 105 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 107 |
 | phase transition | 25 |
 | phase equilibrium | 5 |
-| formation | 117 |
+| formation | 89 |
 | activity / EMF / Gibbs energy | 20 |
 
 ## Calculated phase diagrams
@@ -167,32 +167,32 @@ Table: Invariant reactions reported in the literature for the Sb–Zn system (10
 | 839.15 | L ↔ β-Zn9Sb7 | L: Zn 0.57; β-Zn9Sb7: Zn 0.57 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 18 |  |
 | 839.15 | L ↔ β-Zn9Sb7 + β-Zn3Sb2 | L: Zn 0.559; β-Zn9Sb7: Zn 0.558; β-Zn3Sb2: Zn 0.595 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 24 |  |
 | 839.15 | L ↔ β-Zn3Sb2 | L: Zn 0.6; β-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 7, p. 12, row 2 |  |
-| 839 | Eutectic: L -> δ'Sb3Zn4 + ξSb2Zn3 | L: Zn 0.559; δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 15 |  |
+| 839 | eutectic: L -> δ'Sb3Zn4 + ξSb2Zn3 | L: Zn 0.559; δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 15 |  |
 | 838.85 | L + β-Zn9Sb7 ↔ SbZn | L: Zn 0.465; β-Zn9Sb7: Zn 0.551; SbZn: Zn 0.5 | model | [1] Zhang 2022 | Table 7, p. 12, row 34 |  |
 | 836.15 | L ↔ β-Zn9Sb7 + β-Zn3Sb2 | β-Zn9Sb7: Zn 0.57; β-Zn3Sb2: Zn 0.596 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 25 |  |
-| 836 | Eutectic: L -> δ'Sb3Zn4 + ξSb2Zn3 | L: Zn 0.572; δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595 | model | [2] Li 2007 | Table 2, p. 3, row 16 |  |
+| 836 | eutectic: L -> δ'Sb3Zn4 + ξSb2Zn3 | L: Zn 0.572; δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595 | model | [2] Li 2007 | Table 2, p. 3, row 16 |  |
 | 835.65 | L ↔ β-Zn9Sb7 + β-Zn3Sb2 | L: Zn 0.577; β-Zn9Sb7: Zn 0.571; β-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Takei 1927_ | Table 7, p. 12, row 23 |  |
-| 835.65 | Eutectic: L -> δ'Sb3Zn4 + ξSb2Zn3 | L: Zn 0.577; δ'Sb3Zn4: Zn 0.571; ξSb2Zn3: Zn 0.6 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 14 |  |
-| 834.15 | Peritectic: L + ξSb2Zn3 -> δSb3Zn4 | L: Zn 0.559; ξSb2Zn3: Zn 0.6; δSb3Zn4: Zn 0.575 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 13 |  |
+| 835.65 | eutectic: L -> δ'Sb3Zn4 + ξSb2Zn3 | L: Zn 0.577; δ'Sb3Zn4: Zn 0.571; ξSb2Zn3: Zn 0.6 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 14 |  |
+| 834.15 | peritectic: L + ξSb2Zn3 -> δSb3Zn4 | L: Zn 0.559; ξSb2Zn3: Zn 0.6; δSb3Zn4: Zn 0.575 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 13 |  |
 | 820.15 | L + β-Zn9Sb7 ↔ SbZn | L: Zn 0.47; β-Zn9Sb7: Zn 0.558; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 31 |  |
-| 820 | Peritectic: L + δ'Sb3Zn4 -> βSbZn | L: Zn 0.47; δ'Sb3Zn4: Zn 0.558; βSbZn: Zn 0.5 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 8 |  |
+| 820 | peritectic: L + δ'Sb3Zn4 -> βSbZn | L: Zn 0.47; δ'Sb3Zn4: Zn 0.558; βSbZn: Zn 0.5 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 8 |  |
 | 819.15 | L + β-Zn9Sb7 ↔ SbZn | L: Zn 0.477; β-Zn9Sb7: Zn 0.575; SbZn: Zn 0.5 | model | [1] Zhang 2022; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 7, p. 12, row 33 |  |
-| 819.15 | Peritectic: L + δSb3Zn4 -> βSbZn | L: Zn 0.477; δSb3Zn4: Zn 0.575; βSbZn: Zn 0.5 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 7 |  |
+| 819.15 | peritectic: L + δSb3Zn4 -> βSbZn | L: Zn 0.477; δSb3Zn4: Zn 0.575; βSbZn: Zn 0.5 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 7 |  |
 | 817.65 | L + β-Zn9Sb7 ↔ SbZn | β-Zn9Sb7: Zn 0.57; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 29 |  |
-| 817 | Peritectic: L + δ'Sb3Zn4 -> βSbZn | L: Zn 0.466; δ'Sb3Zn4: Zn 0.558; βSbZn: Zn 0.5 | model | [2] Li 2007 | Table 2, p. 3, row 9 |  |
+| 817 | peritectic: L + δ'Sb3Zn4 -> βSbZn | L: Zn 0.466; δ'Sb3Zn4: Zn 0.558; βSbZn: Zn 0.5 | model | [2] Li 2007 | Table 2, p. 3, row 9 |  |
 | 814.95 | L + β-Zn9Sb7 ↔ SbZn | L: Zn 0.474; β-Zn9Sb7: Zn 0.572; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Takei 1927_ | Table 7, p. 12, row 28 |  |
-| 814.95 | Peritectic: L + δSb3Zn4 -> βSbZn | L: Zn 0.474; δSb3Zn4: Zn 0.572; βSbZn: Zn 0.5 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 6 |  |
+| 814.95 | peritectic: L + δSb3Zn4 -> βSbZn | L: Zn 0.474; δSb3Zn4: Zn 0.572; βSbZn: Zn 0.5 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 6 |  |
 | 812.15 | β-Zn9Sb7 + β-Zn3Sb2 ↔ α-Zn9Sb7 | β-Zn9Sb7: Zn 0.548; β-Zn3Sb2: Zn 0.593; α-Zn9Sb7: Zn 0.5625 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 41 |  |
 | 810.4 | β-Zn9Sb7 + β-Zn3Sb2 ↔ α-Zn9Sb7 | β-Zn9Sb7: Zn 0.551; β-Zn3Sb2: Zn 0.593; α-Zn9Sb7: Zn 0.5625 | model | [1] Zhang 2022 | Table 7, p. 12, row 42 |  |
 | 809.15 | β-Zn9Sb7 ↔ α-Zn9Sb7 + SbZn | β-Zn9Sb7: Zn 0.548; α-Zn9Sb7: Zn 0.5625; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 44 |  |
 | 806.65 | β-Zn9Sb7 ↔ α-Zn9Sb7 + SbZn | β-Zn9Sb7: Zn 0.551; α-Zn9Sb7: Zn 0.5625; SbZn: Zn 0.5 | model | [1] Zhang 2022 | Table 7, p. 12, row 45 |  |
 | 805.15 | β-Zn9Sb7 + β-Zn3Sb2 ↔ α-Zn9Sb7 | β-Zn9Sb7: Zn 0.558; β-Zn3Sb2: Zn 0.595; α-Zn9Sb7: Zn 0.559 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 40 |  |
-| 805 | Peritectoid: δ'Sb3Zn4 + ξSb2Zn3 -> δSb3Zn4 | δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595; δSb3Zn4: Zn 0.559 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 24 |  |
+| 805 | peritectoid: δ'Sb3Zn4 + ξSb2Zn3 -> δSb3Zn4 | δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595; δSb3Zn4: Zn 0.559 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 24 |  |
 | 803.15 | β-Zn9Sb7 ↔ α-Zn9Sb7 + SbZn | β-Zn9Sb7: Zn 0.558; α-Zn9Sb7: Zn 0.559; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 43 |  |
-| 802 | Peritectoid: δ'Sb3Zn4 + ξSb2Zn3 -> δSb3Zn4 | δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595; δSb3Zn4: Zn 0.559 | model | [2] Li 2007 | Table 2, p. 3, row 25 |  |
-| 801.5 | Eutectoid: δ'Sb3Zn4 -> βSbZn + δSb3Zn4 | δ'Sb3Zn4: Zn 0.558; βSbZn: Zn 0.5; δSb3Zn4: Zn 0.559 | model | [2] Li 2007 | Table 2, p. 3, row 23 |  |
-| 801.15 | Peritectoid: βSbZn + δSb3Zn4 -> γSb5Zn6 | βSbZn: Zn 0.5; δSb3Zn4: Zn 0.575; γSb5Zn6: Zn 0.55 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 21 |  |
-| 798 | Eutectoid: δ'Sb3Zn4 -> βSbZn + δSb3Zn4 | δ'Sb3Zn4: Zn 0.558; βSbZn: Zn 0.5; δSb3Zn4: Zn 0.559 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 22 |  |
+| 802 | peritectoid: δ'Sb3Zn4 + ξSb2Zn3 -> δSb3Zn4 | δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595; δSb3Zn4: Zn 0.559 | model | [2] Li 2007 | Table 2, p. 3, row 25 |  |
+| 801.5 | eutectoid: δ'Sb3Zn4 -> βSbZn + δSb3Zn4 | δ'Sb3Zn4: Zn 0.558; βSbZn: Zn 0.5; δSb3Zn4: Zn 0.559 | model | [2] Li 2007 | Table 2, p. 3, row 23 |  |
+| 801.15 | peritectoid: βSbZn + δSb3Zn4 -> γSb5Zn6 | βSbZn: Zn 0.5; δSb3Zn4: Zn 0.575; γSb5Zn6: Zn 0.55 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 21 |  |
+| 798 | eutectoid: δ'Sb3Zn4 -> βSbZn + δSb3Zn4 | δ'Sb3Zn4: Zn 0.558; βSbZn: Zn 0.5; δSb3Zn4: Zn 0.559 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 22 |  |
 | 795.35 | β-Zn3Sb2 + α-Zn9Sb7 ↔ β-Zn13Sb10 | β-Zn3Sb2: Zn 0.593; α-Zn9Sb7: Zn 0.5625; β-Zn13Sb10: Zn 0.5652 | model | [1] Zhang 2022 | Table 7, p. 12, row 48 |  |
 | 788.15 | β-Zn3Sb2 + α-Zn9Sb7 ↔ β-Zn13Sb10 | β-Zn3Sb2: Zn 0.593; α-Zn9Sb7: Zn 0.5625; β-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 47 |  |
 | 785.15 | β-Zn3Sb2 + α-Zn9Sb7 ↔ β-Zn13Sb10 | β-Zn3Sb2: Zn 0.595; α-Zn9Sb7: Zn 0.559; β-Zn13Sb10: Zn 0.571 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 46 |  |
@@ -200,54 +200,54 @@ Table: Invariant reactions reported in the literature for the Sb–Zn system (10
 | 783.85 | L ↔ SbZn + Rho(Sb) | L: Zn 0.285; SbZn: Zn 0.5; Rho(Sb): Zn 0 | model | [1] Zhang 2022 | Table 7, p. 12, row 39 |  |
 | 783.15 | α-Zn9Sb7 ↔ β-Zn13Sb10 + SbZn | α-Zn9Sb7: Zn 0.5625; β-Zn13Sb10: Zn 0.5652; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 50 |  |
 | 782.15 | L ↔ SbZn + Rho(Sb) | L: Zn 0.31; SbZn: Zn 0.5; Rho(Sb): Zn 0 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 37 |  |
-| 782 | Eutectic: L -> Sb + βSbZn | L: Zn 0.31; Sb: Zn 0; βSbZn: Zn 0.5 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 4 |  |
+| 782 | eutectic: L -> Sb + βSbZn | L: Zn 0.31; Sb: Zn 0; βSbZn: Zn 0.5 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 4 |  |
 | 780.15 | L ↔ SbZn + Rho(Sb) | L: Zn 0.313; SbZn: Zn 0.5; Rho(Sb): Zn 0 | model | [1] Zhang 2022; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 7, p. 12, row 38 |  |
-| 780.15 | Eutectic: L -> Sb + βSbZn | L: Zn 0.313; Sb: Zn 0.02; βSbZn: Zn 0.5 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 3 |  |
+| 780.15 | eutectic: L -> Sb + βSbZn | L: Zn 0.313; Sb: Zn 0.02; βSbZn: Zn 0.5 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 3 |  |
 | 779.65 | L ↔ SbZn + Rho(Sb) | SbZn: Zn 0.5; Rho(Sb): Zn 0 | experimental | [1] Zhang 2022; _cites Takei 1927_ | Table 7, p. 12, row 35 |  |
 | 779.15 | L ↔ SbZn + Rho(Sb) | L: Zn 0.318; SbZn: Zn 0.489; Rho(Sb): Zn 0 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 36 |  |
-| 779.05 | Eutectic: L -> Sb + βSbZn | L: Zn 0.371; Sb: Zn 0; βSbZn: Zn 0.5 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 2 |  |
-| 774 | Eutectic: L -> Sb + βSbZn | L: Zn 0.315; Sb: Zn 0; βSbZn: Zn 0.5 | model | [2] Li 2007 | Table 2, p. 3, row 5 |  |
-| 767.6 | Peritectoid: δSb3Zn4 + ξSb2Zn3 -> εSb3Zn4 | δSb3Zn4: Zn 0.559; ξSb2Zn3: Zn 0.595; εSb3Zn4: Zn 0.5714 | model | [2] Li 2007 | Table 2, p. 3, row 32 |  |
-| 767.3 | Eutectoid: δSb3Zn4 -> βSbZn + εSb3Zn4 | δSb3Zn4: Zn 0.559; βSbZn: Zn 0.5; εSb3Zn4: Zn 0.5714 | model | [2] Li 2007 | Table 2, p. 3, row 29 |  |
+| 779.05 | eutectic: L -> Sb + βSbZn | L: Zn 0.371; Sb: Zn 0; βSbZn: Zn 0.5 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 2 |  |
+| 774 | eutectic: L -> Sb + βSbZn | L: Zn 0.315; Sb: Zn 0; βSbZn: Zn 0.5 | model | [2] Li 2007 | Table 2, p. 3, row 5 |  |
+| 767.6 | peritectoid: δSb3Zn4 + ξSb2Zn3 -> εSb3Zn4 | δSb3Zn4: Zn 0.559; ξSb2Zn3: Zn 0.595; εSb3Zn4: Zn 0.5714 | model | [2] Li 2007 | Table 2, p. 3, row 32 |  |
+| 767.3 | eutectoid: δSb3Zn4 -> βSbZn + εSb3Zn4 | δSb3Zn4: Zn 0.559; βSbZn: Zn 0.5; εSb3Zn4: Zn 0.5714 | model | [2] Li 2007 | Table 2, p. 3, row 29 |  |
 | 767.15 | α-Zn9Sb7 ↔ β-Zn13Sb10 + SbZn | α-Zn9Sb7: Zn 0.559; β-Zn13Sb10: Zn 0.571; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 49 |  |
-| 767 | Peritectoid: δSb3Zn4 + ξSb2Zn3 -> εSb3Zn4 | δSb3Zn4: Zn 0.559; ξSb2Zn3: Zn 0.595; εSb3Zn4: Zn 0.565 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 31 |  |
-| 767 | Eutectoid: δSb3Zn4 -> βSbZn + εSb3Zn4 | δSb3Zn4: Zn 0.559; βSbZn: Zn 0.5; εSb3Zn4: Zn 0.565 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 28 |  |
-| 764.85 | Eutectoid: δSb3Zn4 -> εSb3Zn4 + ξSb2Zn3 | δSb3Zn4: Zn 0.575; εSb3Zn4: Zn 0.575; ξSb2Zn3: Zn 0.6 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 30 |  |
-| 764.55 | Eutectoid: γSb5Zn6 -> βSbZn + εSb3Zn4 | γSb5Zn6: Zn 0.55; βSbZn: Zn 0.5; εSb3Zn4: Zn 0.575 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 26 |  |
+| 767 | peritectoid: δSb3Zn4 + ξSb2Zn3 -> εSb3Zn4 | δSb3Zn4: Zn 0.559; ξSb2Zn3: Zn 0.595; εSb3Zn4: Zn 0.565 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 31 |  |
+| 767 | eutectoid: δSb3Zn4 -> βSbZn + εSb3Zn4 | δSb3Zn4: Zn 0.559; βSbZn: Zn 0.5; εSb3Zn4: Zn 0.565 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 28 |  |
+| 764.85 | eutectoid: δSb3Zn4 -> εSb3Zn4 + ξSb2Zn3 | δSb3Zn4: Zn 0.575; εSb3Zn4: Zn 0.575; ξSb2Zn3: Zn 0.6 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 30 |  |
+| 764.55 | eutectoid: γSb5Zn6 -> βSbZn + εSb3Zn4 | γSb5Zn6: Zn 0.55; βSbZn: Zn 0.5; εSb3Zn4: Zn 0.575 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 26 |  |
 | 763.15 | L + β-Zn3Sb2 ↔ α-Zn3Sb2 | β-Zn3Sb2: Zn 0.593; α-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 16 |  |
 | 757.55 | L + β-Zn3Sb2 ↔ α-Zn3Sb2 | L: Zn 0.9086; β-Zn3Sb2: Zn 0.593; α-Zn3Sb2: Zn 0.6 | model | [1] Zhang 2022 | Table 7, p. 12, row 17 |  |
-| 733.2 | Peritectic: ξSb2Zn3 + L -> ηSb2Zn3 | ξSb2Zn3: Zn 0.595; L: Zn 0.961; ηSb2Zn3: Zn 0.6 | model | [2] Li 2007 | Table 2, p. 3, row 39 |  |
+| 733.2 | peritectic: ξSb2Zn3 + L -> ηSb2Zn3 | ξSb2Zn3: Zn 0.595; L: Zn 0.961; ηSb2Zn3: Zn 0.6 | model | [2] Li 2007 | Table 2, p. 3, row 39 |  |
 | 733.15 | L + β-Zn3Sb2 ↔ α-Zn3Sb2 | β-Zn3Sb2: Zn 0.596; α-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 15 |  |
 | 731.15 | L + β-Zn3Sb2 ↔ α-Zn3Sb2 | L: Zn 0.897; β-Zn3Sb2: Zn 0.595; α-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 14 |  |
-| 731 | Peritectic: ξSb2Zn3 + L -> ηSb2Zn3 | ξSb2Zn3: Zn 0.595; L: Zn 0.897; ηSb2Zn3: Zn 0.6 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 38 |  |
+| 731 | peritectic: ξSb2Zn3 + L -> ηSb2Zn3 | ξSb2Zn3: Zn 0.595; L: Zn 0.897; ηSb2Zn3: Zn 0.6 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 38 |  |
 | 728.15 | L + β-Zn3Sb2 ↔ α-Zn3Sb2 | L: Zn 0.928; β-Zn3Sb2: Zn 0.6; α-Zn3Sb2: Zn 0.62 | experimental | [1] Zhang 2022; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 7, p. 12, row 13 |  |
-| 728.15 | Peritectic: ξSb2Zn3 + L -> ηSb2Zn3 | ξSb2Zn3: Zn 0.6; L: Zn 0.928; ηSb2Zn3: Zn 0.62 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 37 |  |
-| 715 | Eutectoid: ξSb2Zn3 -> εSb3Zn4 + ηSb2Zn3 | ξSb2Zn3: Zn 0.595; εSb3Zn4: Zn 0.5714; ηSb2Zn3: Zn 0.6 | model | [2] Li 2007 | Table 2, p. 3, row 36 |  |
+| 728.15 | peritectic: ξSb2Zn3 + L -> ηSb2Zn3 | ξSb2Zn3: Zn 0.6; L: Zn 0.928; ηSb2Zn3: Zn 0.62 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 37 |  |
+| 715 | eutectoid: ξSb2Zn3 -> εSb3Zn4 + ηSb2Zn3 | ξSb2Zn3: Zn 0.595; εSb3Zn4: Zn 0.5714; ηSb2Zn3: Zn 0.6 | model | [2] Li 2007 | Table 2, p. 3, row 36 |  |
 | 714.15 | β-Zn3Sb2 ↔ β-Zn13Sb10 + α-Zn3Sb2 | β-Zn3Sb2: Zn 0.595; β-Zn13Sb10: Zn 0.571; α-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 57 |  |
-| 714 | Eutectoid: ξSb2Zn3 -> εSb3Zn4 + ηSb2Zn3 | ξSb2Zn3: Zn 0.595; εSb3Zn4: Zn 0.57; ηSb2Zn3: Zn 0.6 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 35 |  |
-| 713.15 | Eutectoid: ξSb2Zn3 -> εSb3Zn4 + ηSb2Zn3 | ξSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.575; ηSb2Zn3: Zn 0.62 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 34 |  |
+| 714 | eutectoid: ξSb2Zn3 -> εSb3Zn4 + ηSb2Zn3 | ξSb2Zn3: Zn 0.595; εSb3Zn4: Zn 0.57; ηSb2Zn3: Zn 0.6 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 35 |  |
+| 713.15 | eutectoid: ξSb2Zn3 -> εSb3Zn4 + ηSb2Zn3 | ξSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.575; ηSb2Zn3: Zn 0.62 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 34 |  |
 | 713.15 | β-Zn3Sb2 ↔ β-Zn13Sb10 + α-Zn3Sb2 | β-Zn3Sb2: Zn 0.6; β-Zn13Sb10: Zn 0.575; α-Zn3Sb2: Zn 0.62 | model | [1] Zhang 2022; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 7, p. 12, row 59 |  |
 | 705.75 | β-Zn3Sb2 ↔ β-Zn13Sb10 + α-Zn3Sb2 | β-Zn3Sb2: Zn 0.593; β-Zn13Sb10: Zn 0.5652; α-Zn3Sb2: Zn 0.6 | model | [1] Zhang 2022 | Table 7, p. 12, row 60 |  |
 | 698.15 | β-Zn3Sb2 ↔ β-Zn13Sb10 + α-Zn3Sb2 | β-Zn3Sb2: Zn 0.593; β-Zn13Sb10: Zn 0.5652; α-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 58 |  |
 | 689.75 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.9872; α-Zn3Sb2: Zn 0.6; Hcp(Zn): Zn 0.9942 | model | [1] Zhang 2022; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.08.006) | Table 7, p. 12, row 11 |  |
 | 687.15 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.987; α-Zn3Sb2: Zn 0.608; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 8 |  |
-| 687 | Eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.9875; ηSb2Zn3: Zn 0.6; Zn: Zn 1 | model | [2] Li 2007 | Table 2, p. 3, row 47 |  |
+| 687 | eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.9875; ηSb2Zn3: Zn 0.6; Zn: Zn 1 | model | [2] Li 2007 | Table 2, p. 3, row 47 |  |
 | 686.95 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.984; α-Zn3Sb2: Zn 0.6; Hcp(Zn): Zn 1 | model | [1] Zhang 2022 | Table 7, p. 12, row 12 |  |
 | 686.15 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.978; α-Zn3Sb2: Zn 0.6; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 7 |  |
-| 686 | Eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.978; ηSb2Zn3: Zn 0.6; Zn: Zn 1 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 46 |  |
-| 684.65 | Eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.983; ηSb2Zn3: Zn 0.6; Zn: Zn 1 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 44 |  |
+| 686 | eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.978; ηSb2Zn3: Zn 0.6; Zn: Zn 1 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 46 |  |
+| 684.65 | eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.983; ηSb2Zn3: Zn 0.6; Zn: Zn 1 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 44 |  |
 | 684.65 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.983; α-Zn3Sb2: Zn 0.6; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Takei 1927_ | Table 7, p. 12, row 10 |  |
 | 683.15 | α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | α-Zn3Sb2: Zn 0.6; β-Zn13Sb10: Zn 0.5652; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 55 |  |
-| 682.15 | Eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.978; ηSb2Zn3: Zn 0.62; Zn: Zn 1 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 45 |  |
+| 682.15 | eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.978; ηSb2Zn3: Zn 0.62; Zn: Zn 1 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 45 |  |
 | 682.15 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.978; α-Zn3Sb2: Zn 0.62; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 7, p. 12, row 9 |  |
 | 681.15 | α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | α-Zn3Sb2: Zn 0.62; β-Zn13Sb10: Zn 0.575; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 7, p. 12, row 54 |  |
-| 681.15 | Eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.62; εSb3Zn4: Zn 0.575; Zn: Zn 1 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 41 |  |
-| 678.25 | Eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.571; Zn: Zn 1 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 40 |  |
+| 681.15 | eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.62; εSb3Zn4: Zn 0.575; Zn: Zn 1 | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 41 |  |
+| 678.25 | eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.571; Zn: Zn 1 | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 40 |  |
 | 678.25 | α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | α-Zn3Sb2: Zn 0.6; β-Zn13Sb10: Zn 0.571; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 52 |  |
-| 678 | Eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.5714; Zn: Zn 1 | model | [2] Li 2007 | Table 2, p. 3, row 43 |  |
+| 678 | eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.5714; Zn: Zn 1 | model | [2] Li 2007 | Table 2, p. 3, row 43 |  |
 | 677.45 | α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | α-Zn3Sb2: Zn 0.6; β-Zn13Sb10: Zn 0.5652; Hcp(Zn): Zn 1 | model | [1] Zhang 2022 | Table 7, p. 12, row 56 |  |
 | 677.15 | α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | α-Zn3Sb2: Zn 0.6; β-Zn13Sb10: Zn 0.57; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 53 |  |
-| 677 | Eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.57; Zn: Zn 1 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 42 |  |
+| 677 | eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.57; Zn: Zn 1 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 42 |  |
 | 256.15 | β-Zn13Sb10 ↔ α-Zn13Sb10 | β-Zn13Sb10: Zn 0.5652; α-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 62 |  |
 | 256.15 | α-Zn13Sb10 ↔ β-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652; β-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 61 |  |
 | 253.85 | α-Zn13Sb10 + SbZn ↔ β-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652; SbZn: Zn 0.5; β-Zn13Sb10: Zn 0.5652 | model | [1] Zhang 2022 | Table 7, p. 12, row 68 |  |
@@ -263,49 +263,33 @@ Table: Invariant reactions reported in the literature for the Sb–Zn system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sb–Zn system (76)
+Table: Enthalpies of formation, Sb–Zn system (48)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -25.086 kJ/mol-atom | 804 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 9 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -25.086 kJ/mol-atom | 804 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 9 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -24.9572 kJ/mol-atom | 804.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022 | Table 8, p. 14, row 12 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -20.011 kJ/mol-atom | 804 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 10 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -20.011 kJ/mol-atom | 804 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 10 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -20.011 kJ/mol-atom | 804.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 11 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -15.149 kJ/mol-atom | 750 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 13 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -15.149 kJ/mol-atom | 750 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 13 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -15.102 kJ/mol-atom | 750.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022 | Table 8, p. 14, row 10 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -15.052 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Oelsen 1937_ | Table 4, p. 4, row 12 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -15.052 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Oelsen 1937_ | Table 4, p. 4, row 12 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -15.052 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022; _cites Oelsen 1937_ | Table 8, p. 14, row 2 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -14.853 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 4, p. 4, row 6 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -14.853 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 4, p. 4, row 6 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -14.853 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022; _cites Hirayama 1963_ [doi](https://doi.org/10.1149/1.2425680) | Table 8, p. 14, row 3 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -12.845 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 8 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -12.845 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 8 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -12.845 kJ/mol-atom | 298.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 1 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.89 kJ/mol-atom | 750.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 9 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.89 kJ/mol-atom | 750 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 14 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.89 kJ/mol-atom | 750 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 14 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.4879 kJ/mol-atom | 298.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022 | Table 8, p. 14, row 4 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.4875 kJ/mol-atom | 420.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022 | Table 8, p. 14, row 6 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.459 kJ/mol-atom | 298.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 7 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.459 kJ/mol-atom | 298.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 7 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.459 kJ/mol-atom | 298.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 11 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.459 kJ/mol-atom | 298.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 11 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.459 kJ/mol-atom | 298.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 5 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.459 kJ/mol-atom | 298.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 5 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.455 kJ/mol-atom | 420 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 1 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.455 kJ/mol-atom | 420 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 1 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.455 kJ/mol-atom | 700 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 3 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.455 kJ/mol-atom | 700 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007 | Table 4, p. 4, row 3 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.4395 kJ/mol-atom | 700.15 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022 | Table 8, p. 14, row 8 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -10.9 kJ/mol-atom | 420.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022; _cites Goryacheva 1997_ | Table 8, p. 14, row 5 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -10.9 kJ/mol-atom | 420 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 2 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -10.9 kJ/mol-atom | 420 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 2 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -9.517 kJ/mol-atom | 700.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Zhang 2022; _cites Hultgren 1978_ | Table 8, p. 14, row 7 |  |
-| SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -9.517 kJ/mol-atom | 700 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Hulgren 1973_ | Table 4, p. 4, row 4 |  |
 | SbZn | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -9.517 kJ/mol-atom | 700 | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [2] Li 2007; _cites Hulgren 1973_ | Table 4, p. 4, row 4 |  |
 | α-Zn9Sb7 |  | -21.3989 kJ/mol-atom | 806.15 | model |  |  | [1] Zhang 2022 | Table 8, p. 14, row 16 |  |
 | α-Zn9Sb7 |  | -12.6041 kJ/mol-atom | 800.15 | model |  |  | [1] Zhang 2022 | Table 8, p. 14, row 18 |  |
@@ -320,28 +304,16 @@ Table: Enthalpies of formation, Sb–Zn system (76)
 | β-Zn9Sb7 |  | -20.551 kJ/mol-atom | 826.15 | experimental |  |  | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 13 |  |
 | β-Zn9Sb7 |  | -18.6235 kJ/mol-atom | 826.15 | model |  |  | [1] Zhang 2022 | Table 8, p. 14, row 14 |  |
 | δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -17.878 kJ/mol-atom | 806 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 17 |  |
-| δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -17.878 kJ/mol-atom | 806 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 17 |  |
-| δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -12.379 kJ/mol-atom | 806 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 18 |  |
 | δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -12.379 kJ/mol-atom | 806 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 18 |  |
 | δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -10.707 kJ/mol-atom | 800 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 19 |  |
-| δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -10.707 kJ/mol-atom | 800 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 19 |  |
-| δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -4.35 kJ/mol-atom | 800 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 20 |  |
 | δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -4.35 kJ/mol-atom | 800 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 20 |  |
 | δ′-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -20.551 kJ/mol-atom | 826 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 16 |  |
-| δ′-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -20.551 kJ/mol-atom | 826 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 16 |  |
-| δ′-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -16.028 kJ/mol-atom | 826 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 15 |  |
 | δ′-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -16.028 kJ/mol-atom | 826 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 15 |  |
 | ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -10.7 kJ/mol-atom | 420 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 22 |  |
-| ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -10.7 kJ/mol-atom | 420 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 22 |  |
-| ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -9.378 kJ/mol-atom | 600 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 23 |  |
 | ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -9.378 kJ/mol-atom | 600 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 23 |  |
 | ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -9.378 kJ/mol-atom | 420 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 21 |  |
-| ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -9.378 kJ/mol-atom | 420 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 21 |  |
-| ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -5.28 kJ/mol-atom | 600 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 24 |  |
 | ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -5.28 kJ/mol-atom | 600 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 24 |  |
 | ξ-Sb2Zn3 | [Sb2Zn3](https://data.orchid-project.org/compounds/Sb2Zn3.html) | -9.839 kJ/mol-atom | 800 | model |  | -1.685 (oqmd-994658) | [2] Li 2007 | Table 4, p. 4, row 25 |  |
-| ξ-Sb2Zn3 | [Sb2Zn3](https://data.orchid-project.org/compounds/Sb2Zn3.html) | -9.839 kJ/mol-atom | 800 | model |  | -1.685 (oqmd-994658) | [2] Li 2007 | Table 4, p. 4, row 25 |  |
-| ξ-Sb2Zn3 | [Sb2Zn3](https://data.orchid-project.org/compounds/Sb2Zn3.html) | -5.78 kJ/mol-atom | 800 | experimental |  | -1.685 (oqmd-994658) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 26 |  |
 | ξ-Sb2Zn3 | [Sb2Zn3](https://data.orchid-project.org/compounds/Sb2Zn3.html) | -5.78 kJ/mol-atom | 800 | experimental |  | -1.685 (oqmd-994658) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 26 |  |
 
 ## Other properties
@@ -357,26 +329,26 @@ Table: Phase transition, Sb–Zn system
 | Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.276, Zn 0.724_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 11 |  |
 | Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.224, Zn 0.776_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 13 |  |
 | Phase transition | 683.15 K | 683.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.187, Zn 0.813_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 14 |  |
-| Phase transition | 692 K | 692 | Congruent: L -> Zn; _L: Zn 1; Zn: Zn 1_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 48 |  |
-| Phase transition | 717.65 K | 717.65 | Congruent: ξSb2Zn3 -> ηSb2Zn3; _ξSb2Zn3: Zn 0.6; ηSb2Zn3: Zn 0.6_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 33 |  |
+| Phase transition | 692 K | 692 | congruent melting: L -> Zn; _L: Zn 1; Zn: Zn 1_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 48 |  |
+| Phase transition | 717.65 K | 717.65 | congruent transformation: ξSb2Zn3 -> ηSb2Zn3; _ξSb2Zn3: Zn 0.6; ηSb2Zn3: Zn 0.6_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 33 |  |
 | Phase transition | 720 K | 720 |  | experimental | [4] Zabdyr 1997 | p. 1 | “The following phases exist in the Cd-Sb-Zn system: ternary liquid, L; two hcp terminal solid solutions: (Cd) and (Zn); rhombohedraf (Sb); orthorombic (Cd,,Zn,)Sb solid solution - ternary phase cc; binary compound y-Sb,Zn, of unknown structure transforming at 766 K to low temperature f3-Sb,Zn, of structure defined as monoclinic or hexsagonaf, high temperature orthorhombic binary compound rf-Sb,Zn,…” |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.276, Zn 0.724_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 6 |  |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.166, Zn 0.834_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 10 |  |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.224, Zn 0.776_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 8 |  |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.236, Zn 0.764_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 7 |  |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.187, Zn 0.813_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 9 |  |
-| Phase transition | 765.25 K | 765.25 | Congruent: δSb3Zn4 -> εSb3Zn4; _δSb3Zn4: Zn 0.571; εSb3Zn4: Zn 0.571_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 27 |  |
+| Phase transition | 765.25 K | 765.25 | congruent transformation: δSb3Zn4 -> εSb3Zn4; _δSb3Zn4: Zn 0.571; εSb3Zn4: Zn 0.571_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 27 |  |
 | Phase transition | 766 K | 766 |  | experimental | [4] Zabdyr 1997 | p. 1 | “The following phases exist in the Cd-Sb-Zn system: ternary liquid, L; two hcp terminal solid solutions: (Cd) and (Zn); rhombohedraf (Sb); orthorombic (Cd,,Zn,)Sb solid solution - ternary phase cc; binary compound y-Sb,Zn, of unknown structure transforming at 766 K to low temperature f3-Sb,Zn, of structure defined as monoclinic or hexsagonaf, high temperature orthorhombic binary compound rf-Sb,Zn,…” |
 | Phase transition | 767 K | 767 | ␧ → ␦ | model | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | p. 1 | “The most recent one \[3\] shows two phase transformations for ␧-Sb3 Zn4 occurring at 767 K (␧ → ␦) and at about 800 K (␦ → ␦ ), respectively.” |
 | Phase transition | 800 K | 800 | ␦ → ␦  | model | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | p. 1 | “The most recent one \[3\] shows two phase transformations for ␧-Sb3 Zn4 occurring at 767 K (␧ → ␦) and at about 800 K (␦ → ␦ ), respectively.” |
-| Phase transition | 835.75 K | 835.75 | Congruent: L -> δSb3Zn4; _L: Zn 0.571; δSb3Zn4: Zn 0.571_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 10 |  |
-| Phase transition | 836.15 K | 836.15 | Congruent: L -> ξSb2Zn3; _L: Zn 0.6; ξSb2Zn3: Zn 0.6_ | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 18 |  |
-| Phase transition | 836.2 K | 836.2 | Congruent: L -> δ'Sb3Zn4; _L: Zn 0.558; δ'Sb3Zn4: Zn 0.558_ | model | [2] Li 2007 | Table 2, p. 3, row 12 |  |
-| Phase transition | 836.8 K | 836.8 | Congruent: L -> ξSb2Zn3; _L: Zn 0.595; ξSb2Zn3: Zn 0.595_ | model | [2] Li 2007 | Table 2, p. 3, row 20 |  |
-| Phase transition | 837.1 K | 837.1 | Congruent: L -> ξSb2Zn3; _L: Zn 0.6; ξSb2Zn3: Zn 0.6_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 17 |  |
-| Phase transition | 841 K | 841 | Congruent: L -> δ'Sb3Zn4; _L: Zn 0.558; δ'Sb3Zn4: Zn 0.558_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 11 |  |
-| Phase transition | 841 K | 841 | Congruent: L -> ξSb2Zn3; _L: Zn 0.595; ξSb2Zn3: Zn 0.595_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 19 |  |
-| Phase transition | 903 K | 903 | Melting: L1 -> Sb; _L1: Zn 0; Sb: Zn 0_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 1 |  |
+| Phase transition | 835.75 K | 835.75 | congruent melting: L -> δSb3Zn4; _L: Zn 0.571; δSb3Zn4: Zn 0.571_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 10 |  |
+| Phase transition | 836.15 K | 836.15 | congruent melting: L -> ξSb2Zn3; _L: Zn 0.6; ξSb2Zn3: Zn 0.6_ | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 18 |  |
+| Phase transition | 836.2 K | 836.2 | congruent melting: L -> δ'Sb3Zn4; _L: Zn 0.558; δ'Sb3Zn4: Zn 0.558_ | model | [2] Li 2007 | Table 2, p. 3, row 12 |  |
+| Phase transition | 836.8 K | 836.8 | congruent melting: L -> ξSb2Zn3; _L: Zn 0.595; ξSb2Zn3: Zn 0.595_ | model | [2] Li 2007 | Table 2, p. 3, row 20 |  |
+| Phase transition | 837.1 K | 837.1 | congruent melting: L -> ξSb2Zn3; _L: Zn 0.6; ξSb2Zn3: Zn 0.6_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 17 |  |
+| Phase transition | 841 K | 841 | congruent melting: L -> δ'Sb3Zn4; _L: Zn 0.558; δ'Sb3Zn4: Zn 0.558_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 11 |  |
+| Phase transition | 841 K | 841 | congruent melting: L -> ξSb2Zn3; _L: Zn 0.595; ξSb2Zn3: Zn 0.595_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 19 |  |
+| Phase transition | 903 K | 903 | congruent melting: L1 -> Sb; _L1: Zn 0; Sb: Zn 0_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 1 |  |
 
 ### Phase equilibrium (5)
 
@@ -384,11 +356,11 @@ Table: Phase equilibrium, Sb–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 776.15 | liquidus: Liquidus line; _liquid: Sb 0.166, Zn 0.834_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 5 |  |
-| Phase composition |  | 781.15 | liquidus: Liquidus line; _liquid: Sb 0.187, Zn 0.813_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 4 |  |
-| Phase composition |  | 789.15 | liquidus: Liquidus line; _liquid: Sb 0.224, Zn 0.776_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 3 |  |
-| Phase composition |  | 801.15 | liquidus: Liquidus line; _liquid: Sb 0.236, Zn 0.764_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 2 |  |
-| Phase composition |  | 814.15 | liquidus: Liquidus line; _liquid: Sb 0.276, Zn 0.724_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 1 |  |
+| Phase composition |  | 776.15 | other: Liquidus line; _liquid: Sb 0.166, Zn 0.834_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 5 |  |
+| Phase composition |  | 781.15 | other: Liquidus line; _liquid: Sb 0.187, Zn 0.813_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 4 |  |
+| Phase composition |  | 789.15 | other: Liquidus line; _liquid: Sb 0.224, Zn 0.776_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 3 |  |
+| Phase composition |  | 801.15 | other: Liquidus line; _liquid: Sb 0.236, Zn 0.764_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 2 |  |
+| Phase composition |  | 814.15 | other: Liquidus line; _liquid: Sb 0.276, Zn 0.724_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 1 |  |
 
 ### Formation (41)
 

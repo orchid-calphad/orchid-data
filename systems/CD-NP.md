@@ -42,7 +42,7 @@ Table: Phase transition, Cd–Np system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1028 K | 1028 | congruent | model | [1] Kurata 2001 | p. 5 | “By extrapolating the calculated solubility with respect to Cd6Np into a higher temperature region, the congruent melting temperature of Cd6Np is predicted to be 1028 K.” |
+| Phase transition | 1028 K | 1028 | congruent transformation | model | [1] Kurata 2001 | p. 5 | “By extrapolating the calculated solubility with respect to Cd6Np into a higher temperature region, the congruent melting temperature of Cd6Np is predicted to be 1028 K.” |
 
 ## Sources
 

@@ -83,17 +83,17 @@ Table: Invariant reactions reported in the literature for the Sn–Sr system (55
 | 1561.15 | Liquid = Sr2Sn | L: Sn 0.333; Sr2Sn: Sn 0.333333, Sr 0.666667 | model | [1] Zhao 2012 | Table 4, p. 5, row 33 |  |
 | 1528.15 | Liquid = Sr2Sn | L: Sn 0.333333, Sr 0.666667; Sr2Sn: Sn 0.333333, Sr 0.666667 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 32 |  |
 | 1463.15 | Liquid + Sr2Sn = Sr5Sn3 | L: Sn 0.399; Sr2Sn: Sn 0.333333, Sr 0.666667; Sr5Sn3: Sn 0.375, Sr 0.625 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 2 |  |
-| 1463 | Peritectic: Liquid + SnSr2 -> Sn3Sr5 | SnSr2: Sr 0.666667; Sn3Sr5: Sr 0.625 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 13 |  |
-| 1463 | Peritectic: Liquid + SnSr2 -> Sn3Sr5 | SnSr2: Sr 0.666667; Sn3Sr5: Sr 0.625 | model | [2] Zhou 2014 | Table 5, p. 9, row 14 |  |
+| 1463 | peritectic: Liquid + SnSr2 -> Sn3Sr5 | SnSr2: Sr 0.666667; Sn3Sr5: Sr 0.625 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 13 |  |
+| 1463 | peritectic: Liquid + SnSr2 -> Sn3Sr5 | SnSr2: Sr 0.666667; Sn3Sr5: Sr 0.625 | model | [2] Zhou 2014 | Table 5, p. 9, row 14 |  |
 | 1462.15 | Liquid + Sr2Sn = Sr5Sn3 | L: Sn 0.432; Sr2Sn: Sn 0.333333, Sr 0.666667; Sr5Sn3: Sn 0.375, Sr 0.625 | model | [1] Zhao 2012 | Table 4, p. 5, row 3 |  |
 | 1443.15 | Liquid + Sr2Sn = Sr5Sn3 | L: Sn 0.367; Sr2Sn: Sn 0.333333, Sr 0.666667; Sr5Sn3: Sn 0.375, Sr 0.625 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 1 |  |
 | 1413.15 | Liquid = SrSn | L: Sn 0.5, Sr 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 35 |  |
 | 1413.15 | Liquid = SrSn | L: Sn 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 34 |  |
 | 1397.15 | Liquid = SrSn | L: Sn 0.5; SrSn: Sn 0.5, Sr 0.5 | model | [1] Zhao 2012 | Table 4, p. 5, row 37 |  |
 | 1392.15 | Liquid = Sr5Sn3 + SrSn | L: Sn 0.475; Sr5Sn3: Sn 0.375, Sr 0.625; SrSn: Sn 0.5, Sr 0.5 | model | [1] Zhao 2012 | Table 4, p. 5, row 6 |  |
-| 1374 | Eutectic: Liquid -> SnSr + Sn3Sr5 | SnSr: Sr 0.5; Sn3Sr5: Sr 0.625 | model | [2] Zhou 2014 | Table 5, p. 9, row 12 |  |
+| 1374 | eutectic: Liquid -> SnSr + Sn3Sr5 | SnSr: Sr 0.5; Sn3Sr5: Sr 0.625 | model | [2] Zhou 2014 | Table 5, p. 9, row 12 |  |
 | 1373.15 | Liquid = Sr5Sn3 + SrSn | L: Sn 0.456; Sr5Sn3: Sn 0.375, Sr 0.625; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 5 |  |
-| 1373 | Eutectic: Liquid -> SnSr + Sn3Sr5 | SnSr: Sr 0.5; Sn3Sr5: Sr 0.625 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 11 |  |
+| 1373 | eutectic: Liquid -> SnSr + Sn3Sr5 | SnSr: Sr 0.5; Sn3Sr5: Sr 0.625 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 11 |  |
 | 1353.15 | Liquid = Sr5Sn3 + SrSn | L: Sn 0.461; Sr5Sn3: Sn 0.375, Sr 0.625; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 4 |  |
 | 1183.15 | Liquid = SrSn | L: Sn 0.5, Sr 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | Table 4, p. 5, row 36 |  |
 | 1083.15 | peritectic |  | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | p. 2 | “They found that Sr3 Sn5 melts peritectically at 810 ◦ C to a Sr/Sn melting and SrSn, which melts congruently at 910 ◦ C according to the DTA experiments.” |
@@ -101,36 +101,36 @@ Table: Invariant reactions reported in the literature for the Sn–Sr system (55
 | 1053.15 | Liquid + SrSn = Sr3Sn5 | SrSn: Sn 0.5, Sr 0.5; Sr3Sn5: Sn 0.625, Sr 0.375 | experimental | [1] Zhao 2012; _cites Hoffmann 2002_ | Table 4, p. 5, row 7 |  |
 | 1049.15 | Liquid + SrSn = Sr3Sn5 | L: Sn 0.698; SrSn: Sn 0.5, Sr 0.5; Sr3Sn5: Sn 0.625, Sr 0.375 | model | [1] Zhao 2012 | Table 4, p. 5, row 10 |  |
 | 1048.15 | Liquid + SrSn = Sr3Sn5 | L: Sn 0.65; SrSn: Sn 0.5, Sr 0.5; Sr3Sn5: Sn 0.625, Sr 0.375 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 8 |  |
-| 1048 | Peritectic: Liquid + SnSr -> Sn5Sr3 | SnSr: Sr 0.5; Sn5Sr3: Sr 0.375 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 7 |  |
-| 1047 | Peritectic: Liquid + SnSr -> Sn5Sr3 | SnSr: Sr 0.5; Sn5Sr3: Sr 0.375 | model | [2] Zhou 2014 | Table 5, p. 9, row 8 |  |
+| 1048 | peritectic: Liquid + SnSr -> Sn5Sr3 | SnSr: Sr 0.5; Sn5Sr3: Sr 0.375 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 7 |  |
+| 1047 | peritectic: Liquid + SnSr -> Sn5Sr3 | SnSr: Sr 0.5; Sn5Sr3: Sr 0.375 | model | [2] Zhou 2014 | Table 5, p. 9, row 8 |  |
 | 1025.15 | Liquid = β-Sr + Sr2Sn | L: Sn 0.025; Sr2Sn: Sn 0.333333, Sr 0.666667 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 12 |  |
-| 1025 | Eutectic: Liquid -> SnSr2 + β-Sr (bcc) | SnSr2: Sr 0.666667 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 18 |  |
+| 1025 | eutectic: Liquid -> SnSr2 + β-Sr (bcc) | SnSr2: Sr 0.666667 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 18 |  |
 | 1024.15 | Liquid = β-Sr + Sr2Sn | L: Sn 0.021; Sr2Sn: Sn 0.333333, Sr 0.666667 | model | [1] Zhao 2012 | Table 4, p. 5, row 13 |  |
-| 1019 | Eutectic: Liquid -> SnSr2 + β-Sr (bcc) | SnSr2: Sr 0.666667 | model | [2] Zhou 2014 | Table 5, p. 9, row 19 |  |
+| 1019 | eutectic: Liquid -> SnSr2 + β-Sr (bcc) | SnSr2: Sr 0.666667 | model | [2] Zhou 2014 | Table 5, p. 9, row 19 |  |
 | 1018.15 | Liquid = β-Sr + Sr2Sn | L: Sn 0.027; Sr2Sn: Sn 0.333333, Sr 0.666667 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 11 |  |
 | 871.15 | Liquid + Sr3Sn5 = SrSn3 | L: Sn 0.797; Sr3Sn5: Sn 0.625, Sr 0.375; SrSn3: Sn 0.75, Sr 0.25 | experimental | [1] Zhao 2012; _cites Marshall 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990121-1) | Table 4, p. 5, row 15 |  |
 | 836.15 | Liquid + Sr3Sn5 = SrSn3 | Sr3Sn5: Sn 0.625, Sr 0.375; SrSn3: Sn 0.75, Sr 0.25 | experimental | [1] Zhao 2012; _cites Hoffmann 2002_ | Table 4, p. 5, row 14 |  |
 | 834.15 | Liquid + Sr3Sn5 = SrSn3 | L: Sn 0.809; Sr3Sn5: Sn 0.625, Sr 0.375; SrSn3: Sn 0.75, Sr 0.25 | model | [1] Zhao 2012 | Table 4, p. 5, row 17 |  |
 | 833.15 | Liquid + Sr3Sn5 = SrSn3 | L: Sn 0.751; Sr3Sn5: Sn 0.625, Sr 0.375; SrSn3: Sn 0.75, Sr 0.25 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 16 |  |
-| 833 | Peritectic: Liquid + Sn5Sr3 -> Sn3Sr | Sn5Sr3: Sr 0.375; Sn3Sr: Sr 0.25 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 5 |  |
-| 832 | Peritectic: Liquid + Sn5Sr3 -> Sn3Sr | Sn5Sr3: Sr 0.375; Sn3Sr: Sr 0.25 | model | [2] Zhou 2014 | Table 5, p. 9, row 6 |  |
+| 833 | peritectic: Liquid + Sn5Sr3 -> Sn3Sr | Sn5Sr3: Sr 0.375; Sn3Sr: Sr 0.25 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 5 |  |
+| 832 | peritectic: Liquid + Sn5Sr3 -> Sn3Sr | Sn5Sr3: Sr 0.375; Sn3Sr: Sr 0.25 | model | [2] Zhou 2014 | Table 5, p. 9, row 6 |  |
 | 820.15 | Sr2Sn + β-Sr = α-Sr | Sr2Sn: Sn 0.333333, Sr 0.666667 | model | [1] Zhao 2012 | Table 4, p. 5, row 18 |  |
-| 820 | Degenerate: β-Sr (bcc) -> α-Sr (fcc), SnSr2 | SnSr2: Sr 0.666667 | model | [2] Zhou 2014 | Table 5, p. 9, row 21 |  |
-| 810 | Degenerate: β-Sr (bcc) -> α-Sr (fcc), SnSr2 | SnSr2: Sr 0.666667 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 20 |  |
-| 712 | Eutectoid: Sn3Sr5 -> SnSr + SnSr2 | Sn3Sr5: Sr 0.625; SnSr: Sr 0.5; SnSr2: Sr 0.666667 | model | [2] Zhou 2014 | Table 5, p. 9, row 15 |  |
+| 820 | other: β-Sr (bcc) -> α-Sr (fcc), SnSr2 | SnSr2: Sr 0.666667 | model | [2] Zhou 2014 | Table 5, p. 9, row 21 |  |
+| 810 | other: β-Sr (bcc) -> α-Sr (fcc), SnSr2 | SnSr2: Sr 0.666667 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 20 |  |
+| 712 | eutectoid: Sn3Sr5 -> SnSr + SnSr2 | Sn3Sr5: Sr 0.625; SnSr: Sr 0.5; SnSr2: Sr 0.666667 | model | [2] Zhou 2014 | Table 5, p. 9, row 15 |  |
 | 611.15 | Liquid + SrSn3 = SrSn4 | L: Sn 0.951; SrSn3: Sn 0.75, Sr 0.25; SrSn4: Sn 0.8, Sr 0.2 | experimental | [1] Zhao 2012; _cites Ray 1930_ [doi](https://doi.org/10.1021/ie50245a026) | Table 4, p. 5, row 20 |  |
 | 607.15 | Liquid + SrSn3 = SrSn4 | L: Sn 0.96; SrSn3: Sn 0.75, Sr 0.25; SrSn4: Sn 0.8, Sr 0.2 | experimental | [1] Zhao 2012; _cites Marshall 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990121-1) | Table 4, p. 5, row 21 |  |
 | 589.15 | Liquid + SrSn3 = SrSn4 | SrSn3: Sn 0.75, Sr 0.25; SrSn4: Sn 0.8, Sr 0.2 | experimental | [1] Zhao 2012; _cites Hoffmann 2002_ | Table 4, p. 5, row 19 |  |
 | 588.15 | Liquid + SrSn3 = SrSn4 | L: Sn 0.958; SrSn3: Sn 0.75, Sr 0.25; SrSn4: Sn 0.8, Sr 0.2 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 22 |  |
 | 588.15 | Liquid + SrSn3 = SrSn4 | L: Sn 0.96; SrSn3: Sn 0.75, Sr 0.25; SrSn4: Sn 0.8, Sr 0.2 | model | [1] Zhao 2012 | Table 4, p. 5, row 23 |  |
-| 588 | Peritectic: Liquid + Sn3Sr -> Sn4Sr | Sn3Sr: Sr 0.25; Sn4Sr: Sr 0.2 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 3 |  |
-| 588 | Peritectic: Liquid + Sn3Sr -> Sn4Sr | Sn3Sr: Sr 0.25; Sn4Sr: Sr 0.2 | model | [2] Zhou 2014 | Table 5, p. 9, row 4 |  |
+| 588 | peritectic: Liquid + Sn3Sr -> Sn4Sr | Sn3Sr: Sr 0.25; Sn4Sr: Sr 0.2 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 3 |  |
+| 588 | peritectic: Liquid + Sn3Sr -> Sn4Sr | Sn3Sr: Sr 0.25; Sn4Sr: Sr 0.2 | model | [2] Zhou 2014 | Table 5, p. 9, row 4 |  |
 | 505.15 | Liquid = SrSn4 + β-Sn | L: Sn 0.997; SrSn4: Sn 0.8, Sr 0.2 | experimental | [1] Zhao 2012; _cites Ray 1930_ [doi](https://doi.org/10.1021/ie50245a026) | Table 4, p. 5, row 25 |  |
 | 503.15 | Liquid = SrSn4 + β-Sn | L: Sn 0.99; SrSn4: Sn 0.8, Sr 0.2 | experimental | [1] Zhao 2012; _cites Marshall 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990121-1) | Table 4, p. 5, row 26 |  |
 | 503.15 | Liquid = SrSn4 + β-Sn | L: Sn 0.99; SrSn4: Sn 0.8, Sr 0.2 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 27 |  |
 | 503.15 | Liquid = SrSn4 + β-Sn | L: Sn 0.993; SrSn4: Sn 0.8, Sr 0.2 | model | [1] Zhao 2012 | Table 4, p. 5, row 28 |  |
-| 503 | Eutectic: Liquid -> β-Sn (bct) + Sn4Sr | Sn4Sr: Sr 0.2 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 1 |  |
-| 503 | Eutectic: Liquid -> β-Sn (bct) + Sn4Sr | Sn4Sr: Sr 0.2 | model | [2] Zhou 2014 | Table 5, p. 9, row 2 |  |
+| 503 | eutectic: Liquid -> β-Sn (bct) + Sn4Sr | Sn4Sr: Sr 0.2 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 1 |  |
+| 503 | eutectic: Liquid -> β-Sn (bct) + Sn4Sr | Sn4Sr: Sr 0.2 | model | [2] Zhou 2014 | Table 5, p. 9, row 2 |  |
 | 485.15 | Liquid = SrSn4 + β-Sn | SrSn4: Sn 0.8, Sr 0.2 | experimental | [1] Zhao 2012; _cites Hoffmann 2002_ | Table 4, p. 5, row 24 |  |
 | 422.15 | Sr5Sn3 = Sr2Sn + SrSn | Sr5Sn3: Sn 0.375, Sr 0.625; Sr2Sn: Sn 0.333333, Sr 0.666667; SrSn: Sn 0.5, Sr 0.5 | model | [1] Zhao 2012 | Table 4, p. 5, row 29 |  |
 | 286.15 | SrSn4 + β-Sn = α-Sn | SrSn4: Sn 0.8, Sr 0.2 | model | [1] Zhao 2012 | Table 4, p. 5, row 30 |  |
@@ -168,11 +168,11 @@ Table: Phase transition, Sn–Sr system
 | Phase transition | 712 K | 712 | other | model | [2] Zhou 2014 | p. 9 | “The temperature of the solid-state decomposition reaction (Sn3Sr52SnSrþ SnSr2) is predicted to be 712 K.” |
 | Phase transition | 1093.15 K | 1093.15 | polymorphic | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | p. 2 | “They also found that both SrSn and Sr2 Sn have an allotropic transition at 820 and 900 ◦ C, respectively.” |
 | Phase transition | 1173.15 K | 1173.15 | polymorphic | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | p. 2 | “They also found that both SrSn and Sr2 Sn have an allotropic transition at 820 and 900 ◦ C, respectively.” |
-| Phase transition | 1183.15 K | 1183.15 | congruent | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | p. 2 | “They found that Sr3 Sn5 melts peritectically at 810 ◦ C to a Sr/Sn melting and SrSn, which melts congruently at 910 ◦ C according to the DTA experiments.” |
-| Phase transition | 1413 K | 1413 | Congruent: Liquid -> SnSr; _L: Sr 0.5; SnSr: Sr 0.5_ | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 9 |  |
-| Phase transition | 1419 K | 1419 | Congruent: Liquid -> SnSr; _L: Sr 0.5; SnSr: Sr 0.5_ | model | [2] Zhou 2014 | Table 5, p. 9, row 10 |  |
-| Phase transition | 1560 K | 1560 | Congruent: Liquid -> SnSr2; _L: Sr 0.666667; SnSr2: Sr 0.666667_ | model | [2] Zhou 2014 | Table 5, p. 9, row 17 |  |
-| Phase transition | 1568 K | 1568 | Congruent: Liquid -> SnSr2; _L: Sr 0.666667; SnSr2: Sr 0.666667_ | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 16 |  |
+| Phase transition | 1183.15 K | 1183.15 | congruent transformation | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | p. 2 | “They found that Sr3 Sn5 melts peritectically at 810 ◦ C to a Sr/Sn melting and SrSn, which melts congruently at 910 ◦ C according to the DTA experiments.” |
+| Phase transition | 1413 K | 1413 | congruent melting: Liquid -> SnSr; _L: Sr 0.5; SnSr: Sr 0.5_ | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 9 |  |
+| Phase transition | 1419 K | 1419 | congruent melting: Liquid -> SnSr; _L: Sr 0.5; SnSr: Sr 0.5_ | model | [2] Zhou 2014 | Table 5, p. 9, row 10 |  |
+| Phase transition | 1560 K | 1560 | congruent melting: Liquid -> SnSr2; _L: Sr 0.666667; SnSr2: Sr 0.666667_ | model | [2] Zhou 2014 | Table 5, p. 9, row 17 |  |
+| Phase transition | 1568 K | 1568 | congruent melting: Liquid -> SnSr2; _L: Sr 0.666667; SnSr2: Sr 0.666667_ | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 16 |  |
 
 ### Crystal structure (66)
 

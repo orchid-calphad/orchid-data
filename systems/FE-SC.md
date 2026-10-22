@@ -95,33 +95,33 @@ Table: Invariant reactions reported in the literature for the Fe–Sc system (27
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1838.15 | Congruent: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
-| 1838.15 | Congruent: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 13 |  |
-| 1814.15 | Melting: L -> βSc | L: Sc 0; βSc: Sc 0 | model | [1] Liu 2008 | Table 4, p. 5, row 24 |  |
-| 1814.15 | Melting: L -> βSc | L: Sc 0; βSc: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 23 |  |
-| 1811.15 | Melting: L -> δFe | L: Sc 1; δFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 1 |  |
-| 1811.15 | Melting: L -> δFe | L: Sc 1; δFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 2 |  |
-| 1798.15 | Peritectic: L + βFe2Sc -> λFe2Sc | βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 17 |  |
-| 1798.15 | Peritectic: L + βFe2Sc -> λFe2Sc | L: Sc 0.442; βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | model | [1] Liu 2008 | Table 4, p. 5, row 18 |  |
-| 1685.15 | Allotropic: δFe -> γFe | δFe: Sc 1; γFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
-| 1685.15 | Allotropic: δFe -> γFe | δFe: Sc 1; γFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 3 |  |
-| 1653.15 | Peritectic: δFe -> γFe + L | δFe: Sc 0.012; γFe: Sc 0.013; L: Sc 0.065 | model | [1] Liu 2008 | Table 4, p. 5, row 6 |  |
-| 1653.15 | Peritectic: δFe -> γFe + L |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 5 |  |
-| 1610.15 | Polymorphic: βSc -> αSc | βSc: Sc 0; αSc: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 25 |  |
-| 1610.15 | Polymorphic: βSc -> αSc | βSc: Sc 0; αSc: Sc 0 | model | [1] Liu 2008 | Table 4, p. 5, row 26 |  |
-| 1553.15 | Eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.102; (γFe): Sc 0.03; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 12 |  |
-| 1553.15 | Eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.115; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 11 |  |
-| 1544.15 | Peritectic: βSc -> L + αSc | βSc: Sc 0.985; L: Sc 0.859; αSc: Sc 0.997 | model | [1] Liu 2008 | Table 4, p. 5, row 28 |  |
-| 1473.15 | Polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 15 |  |
-| 1473.15 | Polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 16 |  |
-| 1248.15 | Eutectic: L -> αFe2Sc + αSc | L: Sc 0.751; αFe2Sc: Sc 0.333; αSc: Sc 0.995 | model | [1] Liu 2008 | Table 4, p. 5, row 20 |  |
-| 1248.15 | Eutectic: L -> αFe2Sc + αSc | L: Sc 0.74; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 19 |  |
-| 1208.15 | Peritectoid: γFe + αFe2Sc -> αFe | γFe: Sc 0.005; αFe2Sc: Sc 0.333; αFe: Sc 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 10 |  |
-| 1208.15 | Peritectoid: γFe + αFe2Sc -> αFe | αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 9 |  |
-| 1185.15 | Allotropic: γFe -> αFe | γFe: Sc 1; αFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 7 |  |
-| 1185.15 | Allotropic: γFe -> αFe | γFe: Sc 1; αFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 8 |  |
-| 1138.15 | Peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; Fe6Sc29: Sc 0.875 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 21 |  |
-| 1138.15 | Peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; αSc: Sc 0.997; Fe6Sc29: Sc 0.829 | model | [1] Liu 2008 | Table 4, p. 5, row 22 |  |
+| 1838.15 | congruent melting: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
+| 1838.15 | congruent melting: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 13 |  |
+| 1814.15 | congruent melting: L -> βSc | L: Sc 0; βSc: Sc 0 | model | [1] Liu 2008 | Table 4, p. 5, row 24 |  |
+| 1814.15 | congruent melting: L -> βSc | L: Sc 0; βSc: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 23 |  |
+| 1811.15 | congruent melting: L -> δFe | L: Sc 1; δFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 1 |  |
+| 1811.15 | congruent melting: L -> δFe | L: Sc 1; δFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 2 |  |
+| 1798.15 | peritectic: L + βFe2Sc -> λFe2Sc | βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 17 |  |
+| 1798.15 | peritectic: L + βFe2Sc -> λFe2Sc | L: Sc 0.442; βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | model | [1] Liu 2008 | Table 4, p. 5, row 18 |  |
+| 1685.15 | polymorphic: δFe -> γFe | δFe: Sc 1; γFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
+| 1685.15 | polymorphic: δFe -> γFe | δFe: Sc 1; γFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 3 |  |
+| 1653.15 | peritectic: δFe -> γFe + L | δFe: Sc 0.012; γFe: Sc 0.013; L: Sc 0.065 | model | [1] Liu 2008 | Table 4, p. 5, row 6 |  |
+| 1653.15 | peritectic: δFe -> γFe + L |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 5 |  |
+| 1610.15 | polymorphic: βSc -> αSc | βSc: Sc 0; αSc: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 25 |  |
+| 1610.15 | polymorphic: βSc -> αSc | βSc: Sc 0; αSc: Sc 0 | model | [1] Liu 2008 | Table 4, p. 5, row 26 |  |
+| 1553.15 | eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.102; (γFe): Sc 0.03; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 12 |  |
+| 1553.15 | eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.115; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 11 |  |
+| 1544.15 | peritectic: βSc -> L + αSc | βSc: Sc 0.985; L: Sc 0.859; αSc: Sc 0.997 | model | [1] Liu 2008 | Table 4, p. 5, row 28 |  |
+| 1473.15 | polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 15 |  |
+| 1473.15 | polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 16 |  |
+| 1248.15 | eutectic: L -> αFe2Sc + αSc | L: Sc 0.751; αFe2Sc: Sc 0.333; αSc: Sc 0.995 | model | [1] Liu 2008 | Table 4, p. 5, row 20 |  |
+| 1248.15 | eutectic: L -> αFe2Sc + αSc | L: Sc 0.74; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 19 |  |
+| 1208.15 | peritectoid: γFe + αFe2Sc -> αFe | γFe: Sc 0.005; αFe2Sc: Sc 0.333; αFe: Sc 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 10 |  |
+| 1208.15 | peritectoid: γFe + αFe2Sc -> αFe | αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 9 |  |
+| 1185.15 | polymorphic: γFe -> αFe | γFe: Sc 1; αFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 7 |  |
+| 1185.15 | polymorphic: γFe -> αFe | γFe: Sc 1; αFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 8 |  |
+| 1138.15 | peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; Fe6Sc29: Sc 0.875 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 21 |  |
+| 1138.15 | peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; αSc: Sc 0.997; Fe6Sc29: Sc 0.829 | model | [1] Liu 2008 | Table 4, p. 5, row 22 |  |
 
 ## Other properties
 

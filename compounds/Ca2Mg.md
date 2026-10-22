@@ -1,20 +1,19 @@
 # Ca2Mg: enthalpy of formation
 
-> Enthalpy of formation of Ca2Mg: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ca2Mg: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ca2Mg.html · Markdown: https://data.orchid-project.org/compounds/Ca2Mg.md
 
-2 accepted literature formation-enthalpy value(s) (unspecified 2); Materials Project -3.827 kJ/mol-atom (mp-aaachdrn); OQMD -5.306 kJ/mol-atom (oqmd-289790).
+1 accepted literature formation-enthalpy value(s) (unspecified 1); Materials Project -3.827 kJ/mol-atom (mp-aaachdrn); OQMD -5.306 kJ/mol-atom (oqmd-289790).
 
 Systems: [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ca2Mg reported in the literature (2)
+Table: Enthalpy of formation of Ca2Mg reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 26.8549 kJ/mol-atom | Ca2Mg-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 16 |  |
 | 26.8549 kJ/mol-atom | Ca2Mg-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 16 |  |
 
 ## DFT formation energies

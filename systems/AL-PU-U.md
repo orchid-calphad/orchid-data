@@ -28,8 +28,8 @@ Table: Phase transition, Al–Pu–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 923.15 K | 923.15 | liquidus | model | [1] Perron 2016 | p. 13 | “Moreover, by adding Al, the liquidus temperature is shifted from 650 C (Pu.94U.05Al.01) to 790 C (Pu.88U.05Al.07) and induces the precipitation of Al2Pu (C32) at high temperature.” |
-| Phase transition | 1063.15 K | 1063.15 | liquidus | model | [1] Perron 2016 | p. 13 | “Moreover, by adding Al, the liquidus temperature is shifted from 650 C (Pu.94U.05Al.01) to 790 C (Pu.88U.05Al.07) and induces the precipitation of Al2Pu (C32) at high temperature.” |
+| Phase transition | 923.15 K | 923.15 | other | model | [1] Perron 2016 | p. 13 | “Moreover, by adding Al, the liquidus temperature is shifted from 650 C (Pu.94U.05Al.01) to 790 C (Pu.88U.05Al.07) and induces the precipitation of Al2Pu (C32) at high temperature.” |
+| Phase transition | 1063.15 K | 1063.15 | other | model | [1] Perron 2016 | p. 13 | “Moreover, by adding Al, the liquidus temperature is shifted from 650 C (Pu.94U.05Al.01) to 790 C (Pu.88U.05Al.07) and induces the precipitation of Al2Pu (C32) at high temperature.” |
 
 ## Sources
 

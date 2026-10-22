@@ -26,23 +26,23 @@ Table: Invariant reactions reported in the literature for the B–Fe–Mo system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2606.94 | P: L+MoB+MoB2-x -> τ4 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 1 |  |
-| 2486.54 | P: L+τ4+MoB -> τ3 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 2 |  |
-| 2316.66 | U: L+MoB2-x -> τ4+Mo2B4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 3 |  |
-| 1912.98 | U: L+MoB -> τ3+τ2 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 4 |  |
-| 1892.07 | U: L+τ3 -> τ2+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 5 |  |
-| 1845.35 | U: L+Mo2B4 -> (βB)+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 6 |  |
-| 1815.61 | U: L+τ4 -> FeB+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 7 |  |
-| 1767.67 | E: L -> (βB)+FeB+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 8 |  |
-| 1674.31 | U: L+Mo2B -> (αMo)+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 9 |  |
-| 1664.93 | U: L+(αFe) -> σ+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 11 |  |
-| 1643.62 | P: L+R+σ -> μ |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 10 |  |
-| 1630.9 | U: L+σ -> μ+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 12 |  |
-| 1595.21 | U: L+FeB -> Fe2B+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 16 |  |
-| 1574.23 | U: L+μ -> τ2+R |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 13 |  |
-| 1536.77 | E: L -> (δFe)+τ2+R |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 14 |  |
-| 1459.66 | U: L+(δFe) -> (γFe)+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 15 |  |
-| 1411.92 | E: L -> (γFe)+Fe2B+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 17 |  |
+| 2606.94 | peritectic: L+MoB+MoB2-x -> τ4 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 1 |  |
+| 2486.54 | peritectic: L+τ4+MoB -> τ3 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 2 |  |
+| 2316.66 | quasi-peritectic: L+MoB2-x -> τ4+Mo2B4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 3 |  |
+| 1912.98 | quasi-peritectic: L+MoB -> τ3+τ2 | MoB: B 0.5, Fe 0, Mo 0.5 | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 4 |  |
+| 1892.07 | quasi-peritectic: L+τ3 -> τ2+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 5 |  |
+| 1845.35 | quasi-peritectic: L+Mo2B4 -> (βB)+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 6 |  |
+| 1815.61 | quasi-peritectic: L+τ4 -> FeB+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 7 |  |
+| 1767.67 | eutectic: L -> (βB)+FeB+τ4 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 8 |  |
+| 1674.31 | quasi-peritectic: L+Mo2B -> (αMo)+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 9 |  |
+| 1664.93 | quasi-peritectic: L+(αFe) -> σ+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 11 |  |
+| 1643.62 | peritectic: L+R+σ -> μ |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 10 |  |
+| 1630.9 | quasi-peritectic: L+σ -> μ+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 12 |  |
+| 1595.21 | quasi-peritectic: L+FeB -> Fe2B+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 16 |  |
+| 1574.23 | quasi-peritectic: L+μ -> τ2+R |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 13 |  |
+| 1536.77 | eutectic: L -> (δFe)+τ2+R |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 14 |  |
+| 1459.66 | quasi-peritectic: L+(δFe) -> (γFe)+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 15 |  |
+| 1411.92 | eutectic: L -> (γFe)+Fe2B+τ2 |  | unspecified | [1] Takahashi 2020 | Table 3, p. 9, row 17 |  |
 
 ## Sources
 

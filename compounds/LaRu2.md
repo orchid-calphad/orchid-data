@@ -1,24 +1,22 @@
 # LaRu2: enthalpy of formation
 
-> Enthalpy of formation of LaRu2: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of LaRu2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/LaRu2.html · Markdown: https://data.orchid-project.org/compounds/LaRu2.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 4, model 2); experimental median -10.65 kJ/mol-atom (n = 4); Materials Project -12.73 kJ/mol-atom (mp-aaaaaczr); OQMD -13.105 kJ/mol-atom (oqmd-1367517).
+4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -10.3 kJ/mol-atom (n = 3); Materials Project -12.73 kJ/mol-atom (mp-aaaaaczr); OQMD -13.105 kJ/mol-atom (oqmd-1367517).
 
 Systems: [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of LaRu2 reported in the literature (6)
+Table: Enthalpy of formation of LaRu2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -11 kJ/mol-atom | LaRu2 | 298.15 | experimental |  | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Shilov 1983_ | Table 2, p. 7, row 32 |  |
-| -11 kJ/mol-atom | LaRu2 | 298.15 | experimental |  | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Shilov 1983_ | Table 2, p. 7, row 32 |  |
 | -10.3 kJ/mol-atom ± 2.8 | LaRu2 | 298.15 | experimental | DSC | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 31 |  |
 | -10.3 kJ/mol-atom ± 2.8 | LaRu2 | 298.15 | experimental | DSC | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 31 |  |
-| -13.801 kJ/mol-atom | LaRu2 |  | model | Optimization | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30 |  |
 | -13.801 kJ/mol-atom | LaRu2 |  | model | Optimization | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30 |  |
 
 ## DFT formation energies

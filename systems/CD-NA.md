@@ -74,10 +74,10 @@ Table: Phase transition, Cd–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 633 K | 633 | congruent | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | p. 2 | “It was reported by Mathewson \[5\] that a compound, Cd5 Na, exists and melts congruently at 633 K.” |
-| Phase transition | 636 K | 636 | liquidus | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | p. 2 | “However, Kurnakow and Kusnetzow \[4\] proposed a maximum of the liquidus at 636 K for Cd6 Na.” |
-| Phase transition | 657 K | 657 | congruent | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | p. 2 | “Both works showed the presence of Cd2 Na which melts congruently at 658 K \[5\] and 657 K \[4\], respectively, but the presence of the other compound is not conclusive.” |
-| Phase transition | 658 K | 658 | congruent | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | p. 2 | “Both works showed the presence of Cd2 Na which melts congruently at 658 K \[5\] and 657 K \[4\], respectively, but the presence of the other compound is not conclusive.” |
+| Phase transition | 633 K | 633 | congruent transformation | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | p. 2 | “It was reported by Mathewson \[5\] that a compound, Cd5 Na, exists and melts congruently at 633 K.” |
+| Phase transition | 636 K | 636 | other | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | p. 2 | “However, Kurnakow and Kusnetzow \[4\] proposed a maximum of the liquidus at 636 K for Cd6 Na.” |
+| Phase transition | 657 K | 657 | congruent transformation | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | p. 2 | “Both works showed the presence of Cd2 Na which melts congruently at 658 K \[5\] and 657 K \[4\], respectively, but the presence of the other compound is not conclusive.” |
+| Phase transition | 658 K | 658 | congruent transformation | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | p. 2 | “Both works showed the presence of Cd2 Na which melts congruently at 658 K \[5\] and 657 K \[4\], respectively, but the presence of the other compound is not conclusive.” |
 
 ## Sources
 

@@ -128,9 +128,9 @@ Table: Phase transition, Ag–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 495.15 K | 495.15 | liquidus | experimental | [3] Kattner 1994 | p. 7 | “The observed liquidus temperature is actually higher than the 222~ liquidus temperature of a binary alloy with 3.32 at.% Ag.” |
-| Phase transition | 504.6 K | 504.6 | liquidus | model | [4] Oh 1996 | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
-| Phase transition | 505 K | 505 | liquidus | experimental | [4] Oh 1996; _cites Loomans 1994_ [doi](https://doi.org/10.1007/bf02651368) | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
+| Phase transition | 495.15 K | 495.15 | other | experimental | [3] Kattner 1994 | p. 7 | “The observed liquidus temperature is actually higher than the 222~ liquidus temperature of a binary alloy with 3.32 at.% Ag.” |
+| Phase transition | 504.6 K | 504.6 | other | model | [4] Oh 1996 | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
+| Phase transition | 505 K | 505 | other | experimental | [4] Oh 1996; _cites Loomans 1994_ [doi](https://doi.org/10.1007/bf02651368) | p. 10 | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
 | Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 4 |  |
 | Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | model | [1] Chevalier 1988 | Table 2, p. 7, row 3 |  |
 | Phase transition | 1235.08 K | 1235.08 | Ag(fcc) -> Ag(liq); _Ag(fcc): Sn 0_ | model | [1] Chevalier 1988 | Table 2, p. 7, row 1 |  |

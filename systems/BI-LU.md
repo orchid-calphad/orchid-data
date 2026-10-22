@@ -52,19 +52,19 @@ Table: Invariant reactions reported in the literature for the Bi–Lu system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2093.15 | Congruent: L -> BiLu | L: Lu 0.5; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 5 |  |
-| 2092.95 | Congruent: L -> BiLu | L: Lu 0.5; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 6 |  |
-| 1723.15 | Peritectic: L + BiLu -> Bi3Lu5 | BiLu: Lu 0.5; Bi3Lu5: Lu 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 7 |  |
-| 1723.15 | Peritectic: L + BiLu -> Bi3Lu5 | L: Lu 0.695; BiLu: Lu 0.5; Bi3Lu5: Lu 0.625 | model | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
+| 2093.15 | congruent melting: L -> BiLu | L: Lu 0.5; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 5 |  |
+| 2092.95 | congruent melting: L -> BiLu | L: Lu 0.5; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 6 |  |
+| 1723.15 | peritectic: L + BiLu -> Bi3Lu5 | BiLu: Lu 0.5; Bi3Lu5: Lu 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 7 |  |
+| 1723.15 | peritectic: L + BiLu -> Bi3Lu5 | L: Lu 0.695; BiLu: Lu 0.5; Bi3Lu5: Lu 0.625 | model | [1] Wang 2011 | Table 2, p. 3, row 8 |  |
 | 1723.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1 | “Based on differential thermal analysis, X-ray diffractometry, and metallography, Abulkhaev and Ganiev \[6\] investigated the phase diagram in the Bi-Lu system, and reported three stoichiometric compounds: Bi2 Lu, Bi3 Lu5 (peritectic formation at 1450 ± 10 °C), and BiLu (melting point, 1820 ± 15 °C).” |
-| 1438.25 | Eutectic: L -> Bi3Lu5 + (Lu) | L: Lu 0.824; Bi3Lu5: Lu 0.625; (Lu): Lu 0.99 | model | [1] Wang 2011 | Table 2, p. 3, row 10 |  |
+| 1438.25 | eutectic: L -> Bi3Lu5 + (Lu) | L: Lu 0.824; Bi3Lu5: Lu 0.625; (Lu): Lu 0.99 | model | [1] Wang 2011 | Table 2, p. 3, row 10 |  |
 | 1438.15 | eutectic: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1 | “Abulkhaev and Ganiev \[6\] also found two eutectic reactions: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) at 1165 ± 10 °C, and L (∼0.3 at.% Lu) ↔ (Bi) + BiLu at 269 ± 2 °C.” |
-| 1438.15 | Eutectic: L -> Bi3Lu5 + (Lu) | L: Lu 0.8; Bi3Lu5: Lu 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 9 |  |
-| 542.75 | Eutectic: L -> (Bi) + BiLu | L: Lu 0.008; (Bi): Lu 0; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2 |  |
+| 1438.15 | eutectic: L -> Bi3Lu5 + (Lu) | L: Lu 0.8; Bi3Lu5: Lu 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 9 |  |
+| 542.75 | eutectic: L -> (Bi) + BiLu | L: Lu 0.008; (Bi): Lu 0; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2 |  |
 | 542.15 | eutectic: L (∼0.3 at.% Lu) ↔ (Bi) + BiLu |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1 | “Abulkhaev and Ganiev \[6\] also found two eutectic reactions: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) at 1165 ± 10 °C, and L (∼0.3 at.% Lu) ↔ (Bi) + BiLu at 269 ± 2 °C.” |
-| 542.15 | Eutectic: L -> (Bi) + BiLu | L: Lu 0.003; (Bi): Lu 0; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 1 |  |
-| 483.15 | Peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 1; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
-| 483.15 | Peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 1; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | experimental | [1] Wang 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1007/bf02648498) | Table 2, p. 3, row 3 |  |
+| 542.15 | eutectic: L -> (Bi) + BiLu | L: Lu 0.003; (Bi): Lu 0; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 1 |  |
+| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 1; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
+| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 1; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | experimental | [1] Wang 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1007/bf02648498) | Table 2, p. 3, row 3 |  |
 
 ## Formation enthalpies
 

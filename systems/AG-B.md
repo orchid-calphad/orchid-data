@@ -54,10 +54,10 @@ Table: Invariant reactions reported in the literature for the Ag–B system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2348.15 | Monotectic: Liquid# 2 -> Liquid#1 + (βB) | (βB): B 1 | experimental | [1] Zhou 2020; _cites Wald 1970_ | Table 4, p. 7, row 2 |  |
-| 2342.15 | Monotectic: Liquid# 2 -> Liquid#1 + (βB) | Liquid# 2: B 0.9934; Liquid#1: B 0.0066; (βB): B 1 | model | [1] Zhou 2020 | Table 4, p. 7, row 1 |  |
-| 1237.15 | Eutectic: Liquid#1 -> (Ag) + (βB) | Liquid#1: B 0.0015; (Ag): B 0; (βB): B 1 | model | [1] Zhou 2020 | Table 4, p. 7, row 3 |  |
-| 1235.15 | Eutectic: Liquid#1 -> (Ag) + (βB) | (Ag): B 0; (βB): B 1 | experimental | [1] Zhou 2020; _cites Wald 1970_ | Table 4, p. 7, row 4 |  |
+| 2348.15 | monotectic: Liquid# 2 -> Liquid#1 + (βB) | (βB): B 1 | experimental | [1] Zhou 2020; _cites Wald 1970_ | Table 4, p. 7, row 2 |  |
+| 2342.15 | monotectic: Liquid# 2 -> Liquid#1 + (βB) | Liquid# 2: B 0.9934; Liquid#1: B 0.0066; (βB): B 1 | model | [1] Zhou 2020 | Table 4, p. 7, row 1 |  |
+| 1237.15 | eutectic: Liquid#1 -> (Ag) + (βB) | Liquid#1: B 0.0015; (Ag): B 0; (βB): B 1 | model | [1] Zhou 2020 | Table 4, p. 7, row 3 |  |
+| 1235.15 | eutectic: Liquid#1 -> (Ag) + (βB) | (Ag): B 0; (βB): B 1 | experimental | [1] Zhou 2020; _cites Wald 1970_ | Table 4, p. 7, row 4 |  |
 
 ## Other properties
 

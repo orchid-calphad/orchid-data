@@ -95,42 +95,42 @@ Table: Mixing / partial, Hf–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -61928 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -61271.5 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -176866 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -181908 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -107768 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -307100 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -108075 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -144356 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -107818 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -311160 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -146428 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -109187 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -139345 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -109481 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -180370 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -227299 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -109230 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -315520 J/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -61928 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -61271.5 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -107768 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -108075 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -144356 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -107818 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -146428 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -109187 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -109481 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -109230 J/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -176866 J/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -181908 J/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -307100 J/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -311160 J/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -139345 J/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -180370 J/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -227299 J/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -315520 J/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -61.928 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -61.2715 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -176.866 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -181.908 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -107.768 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -307.1 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 15 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -108.075 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -144.356 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -107.818 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -311.16 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -146.428 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -109.187 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -139.345 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -109.481 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -180.37 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -227.299 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -109.23 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -315.52 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 11 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -61.928 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 1 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -61.2715 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 2 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -107.768 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 8 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -108.075 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 4 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -144.356 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 10 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -107.818 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 6 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -146.428 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 9 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -109.187 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 5 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -109.481 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 3 |  |
+| Enthalpy of mixing; _printed: ΔH^mix_ | -109.23 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -176.866 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -181.908 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -307.1 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 15 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -311.16 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -139.345 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -180.37 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 14 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -227.299 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -315.52 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 11 |  |
 
 ## Sources
 

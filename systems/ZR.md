@@ -1,10 +1,10 @@
 # Zr system
 
-> Zr system: 76 accepted literature values (phase transition 76) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Zr system: 74 accepted literature values (phase transition 74) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ZR.html · Markdown: https://data.orchid-project.org/systems/ZR.md
 
-76 accepted literature values from 1 paper(s) (experimental 76); 0 calculated phase diagram(s).
+74 accepted literature values from 1 paper(s) (experimental 74); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ZR.json) · [CSV](https://data.orchid-project.org/systems/ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ZR) · [Markdown](https://data.orchid-project.org/systems/ZR.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 76 |
+| experimental | 74 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 76 |
+| phase transition | 74 |
 
 ## Other properties
 
-### Phase transition (76)
+### Phase transition (74)
 
 Table: Phase transition, Zr system
 
@@ -32,7 +32,6 @@ Table: Phase transition, Zr system
 | Phase transition | 858 K | 858 | 22.48 at.% Zr, 858 K; _alloy: Zr 0.2248_ | experimental | [1] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 3 |  |
 | Phase transition | 858 K | 858 | 22.48 at.% Zr, 858 K; _alloy: Zr 0.2248_ | experimental | [1] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 2 |  |
 | Phase transition | 860 K | 860 | 14.28 at.% Zr, 860 K; _alloy: Zr 0.1428_ | experimental | [1] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 4 |  |
-| Phase transition | 860 K | 860 | 14.28 at.% Zr, 860 K; _alloy: Zr 0.1428_ | experimental | [1] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 5 |  |
 | Phase transition | 867 K | 867 | 85 at.% Zr, 867 K; _alloy: Zr 0.85_ | experimental | [1] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 6 |  |
 | Phase transition | 869 K | 869 | 18.08 at.% Zr, 869 K; _alloy: Zr 0.1808_ | experimental | [1] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 7 |  |
 | Phase transition | 869 K | 869 | 22.48 at.% Zr, 869 K; _alloy: Zr 0.2248_ | experimental | [1] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 8 |  |
@@ -90,7 +89,6 @@ Table: Phase transition, Zr system
 | Phase transition | 971 K | 971 | 20.01 at.% Zr, 971 K; _alloy: Zr 0.2001_ | experimental | [1] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 60 |  |
 | Phase transition | 975 K | 975 | 13.4 at.% Zr, 975 K; _alloy: Zr 0.134_ | experimental | [1] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 61 |  |
 | Phase transition | 975 K | 975 | 14.28 at.% Zr, 975 K; _alloy: Zr 0.1428_ | experimental | [1] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 63 |  |
-| Phase transition | 975 K | 975 | 14.28 at.% Zr, 975 K; _alloy: Zr 0.1428_ | experimental | [1] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 64 |  |
 | Phase transition | 975 K | 975 | 18.08 at.% Zr, 975 K; _alloy: Zr 0.1808_ | experimental | [1] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 62 |  |
 | Phase transition | 975 K | 975 | 22.48 at.% Zr, 975 K; _alloy: Zr 0.2248_ | experimental | [1] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 65 |  |
 | Phase transition | 977 K | 977 | 12.74 at.% Zr, 977 K; _alloy: Zr 0.1274_ | experimental | [1] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 68 |  |

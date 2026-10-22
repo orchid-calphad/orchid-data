@@ -57,37 +57,37 @@ Table: Invariant reactions reported in the literature for the Pt–Ti system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2224 | Congruent: L → γ | L: Pt 0.00754; γ: Pt 0.00754 | model | [1] Li 2008 | Table 1, p. 2, row 14 |  |
-| 2223 | Congruent: L → γ | L: Pt 0.0075; γ: Pt 0.0075 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 13 |  |
-| 2106 | Congruent: L → βTiPt | L: Pt 0.00522; βTiPt: Pt 0.00522 | model | [1] Li 2008 | Table 1, p. 2, row 10 |  |
-| 2103 | Congruent: L → βTiPt | L: Pt 0.005; βTiPt: Pt 0.005 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 9 |  |
-| 2073 | Peritectic: L + γ → Fcc | L: Pt 0.00885; γ: Pt 0.00782; Fcc: Pt 0.00884 | model | [1] Li 2008 | Table 1, p. 2, row 16 |  |
-| 2073 | Peritectic: L + γ → Fcc | L: Pt 0.009; γ: Pt 0.008; Fcc: Pt 0.0088 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 15 |  |
-| 2053 | Eutectic: L → βTiPt + γ | L: Pt 0.0058; βTiPt: Pt 0.00526; γ: Pt 0.0075 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 11 |  |
+| 2224 | congruent melting: L → γ | L: Pt 0.00754; γ: Pt 0.00754 | model | [1] Li 2008 | Table 1, p. 2, row 14 |  |
+| 2223 | congruent melting: L → γ | L: Pt 0.0075; γ: Pt 0.0075 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 13 |  |
+| 2106 | congruent melting: L → βTiPt | L: Pt 0.00522; βTiPt: Pt 0.00522 | model | [1] Li 2008 | Table 1, p. 2, row 10 |  |
+| 2103 | congruent melting: L → βTiPt | L: Pt 0.005; βTiPt: Pt 0.005 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 9 |  |
+| 2073 | peritectic: L + γ → Fcc | L: Pt 0.00885; γ: Pt 0.00782; Fcc: Pt 0.00884 | model | [1] Li 2008 | Table 1, p. 2, row 16 |  |
+| 2073 | peritectic: L + γ → Fcc | L: Pt 0.009; γ: Pt 0.008; Fcc: Pt 0.0088 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 15 |  |
+| 2053 | eutectic: L → βTiPt + γ | L: Pt 0.0058; βTiPt: Pt 0.00526; γ: Pt 0.0075 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 11 |  |
 | 2053 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
-| 2045 | Eutectic: L → βTiPt + γ | L: Pt 0.00613; βTiPt: Pt 0.00574; γ: Pt 0.0075 | model | [1] Li 2008 | Table 1, p. 2, row 12 |  |
-| 1773 | Congruent: L → Ti3Pt | L: Pt 0.0025; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 4 |  |
-| 1771 | Congruent: L → Ti3Pt | L: Pt 0.00253; Ti3Pt: Pt 0.00253 | model | [1] Li 2008 | Table 1, p. 2, row 5 |  |
-| 1698 | Eutectic: L → βTiPt + Ti3Pt | L: Pt 0.00331; βTiPt: Pt 0.00481; Ti3Pt: Pt 0.00267 | model | [1] Li 2008 | Table 1, p. 2, row 8 |  |
-| 1697 | Eutectic: L → βTiPt + Ti3Pt | L: Pt 0.0034; βTiPt: Pt 0.0045; Ti3Pt: Pt 0.0028 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 7 |  |
-| 1643 | Congruent: L → Ti3Pt | L: Pt 0.0025; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 3 |  |
+| 2045 | eutectic: L → βTiPt + γ | L: Pt 0.00613; βTiPt: Pt 0.00574; γ: Pt 0.0075 | model | [1] Li 2008 | Table 1, p. 2, row 12 |  |
+| 1773 | congruent melting: L → Ti3Pt | L: Pt 0.0025; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 4 |  |
+| 1771 | congruent melting: L → Ti3Pt | L: Pt 0.00253; Ti3Pt: Pt 0.00253 | model | [1] Li 2008 | Table 1, p. 2, row 5 |  |
+| 1698 | eutectic: L → βTiPt + Ti3Pt | L: Pt 0.00331; βTiPt: Pt 0.00481; Ti3Pt: Pt 0.00267 | model | [1] Li 2008 | Table 1, p. 2, row 8 |  |
+| 1697 | eutectic: L → βTiPt + Ti3Pt | L: Pt 0.0034; βTiPt: Pt 0.0045; Ti3Pt: Pt 0.0028 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 7 |  |
+| 1643 | congruent melting: L → Ti3Pt | L: Pt 0.0025; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 3 |  |
 | 1593 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
-| 1593 | Eutectic: L → βTiPt + Ti3Pt | L: Pt 0.0034; βTiPt: Pt 0.005; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 6 |  |
+| 1593 | eutectic: L → βTiPt + Ti3Pt | L: Pt 0.0034; βTiPt: Pt 0.005; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 6 |  |
 | 1588 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
-| 1583 | Eutectic: L → Bcc + Ti3Pt | L: Pt 0.0016; Bcc: Pt 9.400e-4; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 1 |  |
-| 1583 | Eutectic: L → Bcc + Ti3Pt | L: Pt 0.00134; Bcc: Pt 8.300e-4; Ti3Pt: Pt 0.00236 | model | [1] Li 2008 | Table 1, p. 2, row 2 |  |
-| 1478 | Peritectoid: Ti3Pt + βTiPt → Ti4Pt3 | Ti3Pt: Pt 0.0027; βTiPt: Pt 0.0045; Ti4Pt3: Pt 0.00428 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 19 |  |
-| 1478 | Peritectoid: Ti3Pt + βTiPt → Ti4Pt3 | Ti3Pt: Pt 0.00264; βTiPt: Pt 0.00483; Ti4Pt3: Pt 0.00428 | model | [1] Li 2008 | Table 1, p. 2, row 20 |  |
-| 1353 | Peritectoid: γ + Fcc → TiPt8 | γ: Pt 0.008; Fcc: Pt 0.009; TiPt8: Pt 0.00889 | experimental | [1] Li 2008; _cites Meschter 1976_ [doi](https://doi.org/10.1007/bf02644471) | Table 1, p. 2, row 27 |  |
-| 1353 | Peritectoid: γ + Fcc → TiPt8 | γ: Pt 0.00798; Fcc: Pt 0.00984; TiPt8: Pt 0.00889 | model | [1] Li 2008 | Table 1, p. 2, row 28 |  |
-| 1313 | Congruent: βTiPt → αTiPt | βTiPt: Pt 0.00502; αTiPt: Pt 0.00502 | model | [1] Li 2008 | Table 1, p. 2, row 24 |  |
-| 1313 | Congruent: βTiPt → αTiPt | βTiPt: Pt 0.005; αTiPt: Pt 0.005 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 23 |  |
-| 1312 | Peritectoid: Ti4Pt3 + βTiPt → αTiPt | Ti4Pt3: Pt 0.00428; βTiPt: Pt 0.00497; αTiPt: Pt 0.00499 | model | [1] Li 2008 | Table 1, p. 2, row 26 |  |
-| 1308 | Peritectoid: Ti3Pt + βTiPt → αTiPt | Ti3Pt: Pt 0.0028; βTiPt: Pt 0.0046; αTiPt: Pt 0.0046 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 25 |  |
-| 1297 | Peritectoid: γ + βTiPt → αTiPt | γ: Pt 0.0075; βTiPt: Pt 0.00522; αTiPt: Pt 0.00525 | model | [1] Li 2008 | Table 1, p. 2, row 22 |  |
-| 1273 | Peritectoid: TiPt3- + βTiPt → αTiPt | TiPt3-: Pt 0.0073; βTiPt: Pt 0.0053; αTiPt: Pt 0.0053 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 21 |  |
-| 1113 | Eutectoid: Bcc → Hcp + Ti3Pt | Bcc: Pt 3.000e-4; Hcp: Pt 1.500e-4; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 17 |  |
-| 1113 | Eutectoid: Bcc → Hcp + Ti3Pt | Bcc: Pt 3.100e-4; Hcp: Pt 2.200e-4; Ti3Pt: Pt 0.0022 | model | [1] Li 2008 | Table 1, p. 2, row 18 |  |
+| 1583 | eutectic: L → Bcc + Ti3Pt | L: Pt 0.0016; Bcc: Pt 9.400e-4; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 1 |  |
+| 1583 | eutectic: L → Bcc + Ti3Pt | L: Pt 0.00134; Bcc: Pt 8.300e-4; Ti3Pt: Pt 0.00236 | model | [1] Li 2008 | Table 1, p. 2, row 2 |  |
+| 1478 | peritectoid: Ti3Pt + βTiPt → Ti4Pt3 | Ti3Pt: Pt 0.0027; βTiPt: Pt 0.0045; Ti4Pt3: Pt 0.00428 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 19 |  |
+| 1478 | peritectoid: Ti3Pt + βTiPt → Ti4Pt3 | Ti3Pt: Pt 0.00264; βTiPt: Pt 0.00483; Ti4Pt3: Pt 0.00428 | model | [1] Li 2008 | Table 1, p. 2, row 20 |  |
+| 1353 | peritectoid: γ + Fcc → TiPt8 | γ: Pt 0.008; Fcc: Pt 0.009; TiPt8: Pt 0.00889 | experimental | [1] Li 2008; _cites Meschter 1976_ [doi](https://doi.org/10.1007/bf02644471) | Table 1, p. 2, row 27 |  |
+| 1353 | peritectoid: γ + Fcc → TiPt8 | γ: Pt 0.00798; Fcc: Pt 0.00984; TiPt8: Pt 0.00889 | model | [1] Li 2008 | Table 1, p. 2, row 28 |  |
+| 1313 | congruent transformation: βTiPt → αTiPt | βTiPt: Pt 0.00502; αTiPt: Pt 0.00502 | model | [1] Li 2008 | Table 1, p. 2, row 24 |  |
+| 1313 | congruent transformation: βTiPt → αTiPt | βTiPt: Pt 0.005; αTiPt: Pt 0.005 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 23 |  |
+| 1312 | peritectoid: Ti4Pt3 + βTiPt → αTiPt | Ti4Pt3: Pt 0.00428; βTiPt: Pt 0.00497; αTiPt: Pt 0.00499 | model | [1] Li 2008 | Table 1, p. 2, row 26 |  |
+| 1308 | peritectoid: Ti3Pt + βTiPt → αTiPt | Ti3Pt: Pt 0.0028; βTiPt: Pt 0.0046; αTiPt: Pt 0.0046 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 25 |  |
+| 1297 | peritectoid: γ + βTiPt → αTiPt | γ: Pt 0.0075; βTiPt: Pt 0.00522; αTiPt: Pt 0.00525 | model | [1] Li 2008 | Table 1, p. 2, row 22 |  |
+| 1273 | peritectoid: TiPt3- + βTiPt → αTiPt | TiPt3-: Pt 0.0073; βTiPt: Pt 0.0053; αTiPt: Pt 0.0053 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 21 |  |
+| 1113 | eutectoid: Bcc → Hcp + Ti3Pt | Bcc: Pt 3.000e-4; Hcp: Pt 1.500e-4; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 17 |  |
+| 1113 | eutectoid: Bcc → Hcp + Ti3Pt | Bcc: Pt 3.100e-4; Hcp: Pt 2.200e-4; Ti3Pt: Pt 0.0022 | model | [1] Li 2008 | Table 1, p. 2, row 18 |  |
 
 ## Other properties
 
@@ -98,11 +98,11 @@ Table: Phase transition, Pt–Ti system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1113 K | 1113 | (␤Ti) = (␣Ti) + Ti3Pt | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 2 | “The eutectiod reaction of (␣Ti), (␤Ti), and Ti3 Pt at 1113 K was proposed by Nishimura and Hiramatsu \[6\].” |
-| Phase transition | 1643 K | 1643 | congruent | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
+| Phase transition | 1643 K | 1643 | congruent transformation | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
 | Phase transition | 1773 K | 1773 |  | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | p. 1 | “The intermetallic phase Ti3 Pt was found to melt at 1773 K \[8\], not 1643 K as previously reported by Nishimura and Hiramatsu \[6\].” |
 | Phase transition | 1993 K | 1993 |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 5 | “Nishimura and Hiramatsu \[6\] determined the melting point of bcc (Ti) at 1993 K, but the true melting point at 1941 \[7\].” |
-| Phase transition | 2103 K | 2103 | congruent | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
-| Phase transition | 2223 K | 2223 | congruent | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
+| Phase transition | 2103 K | 2103 | congruent transformation | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
+| Phase transition | 2223 K | 2223 | congruent transformation | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
 
 ### Activity / EMF / Gibbs energy (1)
 

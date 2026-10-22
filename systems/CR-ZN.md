@@ -69,25 +69,25 @@ Table: Invariant reactions reported in the literature for the Cr–Zn system (19
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 761.4 | Peritectic: Liquid + bcc-A2 -> CrZn13\* | L: Zn 0.996; bcc-A2: Zn 0; CrZn13: Zn 0.928 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 1 |  |
-| 754 | Peritectic: L + bcc_A2 -> CrZn13 | L: Zn 0.9628; bcc_A2: Zn 0; CrZn13: Zn 0.928 | model | [2] Reumont 2003 | Table 2, p. 4, row 1 |  |
+| 761.4 | peritectic: Liquid + bcc-A2 -> CrZn13\* | L: Zn 0.996; bcc-A2: Zn 0; CrZn13: Zn 0.928 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 1 |  |
+| 754 | peritectic: L + bcc_A2 -> CrZn13 | L: Zn 0.9628; bcc_A2: Zn 0; CrZn13: Zn 0.928 | model | [2] Reumont 2003 | Table 2, p. 4, row 1 |  |
 | 753.15 | L + bcc_A2 -> CrZn13 | CrZn13: Zn 0.928571 | experimental | [2] Reumont 2003 | Table 1, p. 3, row 2 |  |
 | 737.15 | peritectic: L + bcc(Cr) → CrZn17 |  | experimental | [3] Su 2010; _cites Chiotti 1960_ | p. 2 | “The invariant temperature of the L + bcc(Cr) → CrZn17 peritectic reaction was reported as 464 ◦ C by Chiotti and Parry \[21\].” |
 | 737.15 | peritectic |  | experimental | [2] Reumont 2003 | p. 1 | “The peritectic transformation of CrZn17 occurs at 464 °C, whereas the temperature of decomposition of CrZn13 is unknown experimentally.” |
-| 737 | Peritectic: L + CrZn13 -> CrZn17 | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 3 |  |
+| 737 | peritectic: L + CrZn13 -> CrZn17 | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 3 |  |
 | 737 | L + (Cr) -> CrZn17 | L: Zn 0.988; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 4 |  |
 | 736.9 | L + (Cr) -> CrZn17 | L: Zn 0.9984; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 3 |  |
-| 736.5 | Peritectic: Liquid + CrZn13 -> CrZn17 | L: Zn 0.998; CrZn13: Zn 0.928; CrZn17: Zn 0.944 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 2 |  |
-| 736 | Peritectic: L + CrZn13 -> CrZn17 | L: Zn 0.9851; CrZn13: Zn 0.928; CrZn17: Zn 0.9444 | model | [2] Reumont 2003 | Table 2, p. 4, row 2 |  |
+| 736.5 | peritectic: Liquid + CrZn13 -> CrZn17 | L: Zn 0.998; CrZn13: Zn 0.928; CrZn17: Zn 0.944 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 2 |  |
+| 736 | peritectic: L + CrZn13 -> CrZn17 | L: Zn 0.9851; CrZn13: Zn 0.928; CrZn17: Zn 0.9444 | model | [2] Reumont 2003 | Table 2, p. 4, row 2 |  |
 | 735.15 | L + CrZn13 -> CrZn17 °C | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 1, p. 3, row 1 |  |
 | 692.6 | L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9998; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 1 |  |
-| 692.5 | Degenerate: Liquid -> CrZn17 + hcp-Zn | L: Zn 0.999; CrZn17: Zn 0.944; hcp-Zn: Zn 0.999 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 3 |  |
+| 692.5 | other: Liquid -> CrZn17 + hcp-Zn | L: Zn 0.999; CrZn17: Zn 0.944; hcp-Zn: Zn 0.999 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 3 |  |
 | 691.15 | eutectic |  | experimental | [2] Reumont 2003; _cites Weiss 1942_ | p. 1 | “However, \[1942Wei\] proposed a Guy Reumont and Pierre Perrot, LMPGM, UMR CNRS 8517, Université de Lille I, Villeneuve d'Ascq, France. Contact e-mail: Guy.Reumont@univ-lille1.fr. eutectic temperature at 418 °C and estimated the Cr content in the liquid phase as 0.31 at.% Cr at that temperature.” |
-| 691 | Eutectic: L -> CrZn17 + hcp_A3 | L: Zn 0.998; CrZn17: Zn 0.9444; hcp_A3: Zn 0.9999 | model | [2] Reumont 2003 | Table 2, p. 4, row 4 |  |
+| 691 | eutectic: L -> CrZn17 + hcp_A3 | L: Zn 0.998; CrZn17: Zn 0.9444; hcp_A3: Zn 0.9999 | model | [2] Reumont 2003 | Table 2, p. 4, row 4 |  |
 | 688.15 | eutectic |  | experimental | [2] Reumont 2003; _cites Heumann 1948_ | p. 1 | “According to \[1948Heu\], at the eutectic temperature (415 °C), the maximum solubility of Cr in solid Zn closepacked hexagonal (cph) solution is very low and was accepted as 0.04 at.% Cr.” |
 | 688.15 | eutectic: L → hcp(Zn) + CrZn17 |  | experimental | [3] Su 2010; _cites Heumann 1948_ | p. 2 | “The eutectic reaction L → hcp(Zn) + CrZn17 occurred at 415 ◦ C according to the results of Heumann \[9\].” |
 | 688 | L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9997; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 2 |  |
-| 688 | Eutectic: L -> CrZn17 + hcp_A3 | CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 5 |  |
+| 688 | eutectic: L -> CrZn17 + hcp_A3 | CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 5 |  |
 
 ## Other properties
 

@@ -1,16 +1,16 @@
 # Be3Ti: enthalpy of formation
 
-> Enthalpy of formation of Be3Ti: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Be3Ti: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Be3Ti.html · Markdown: https://data.orchid-project.org/compounds/Be3Ti.md
 
-8 accepted literature formation-enthalpy value(s) (model 8); Materials Project -19.76 kJ/mol-atom (mp-aaackuiz); OQMD -20.401 kJ/mol-atom (oqmd-28705).
+7 accepted literature formation-enthalpy value(s) (model 7); Materials Project -19.76 kJ/mol-atom (mp-aaackuiz); OQMD -20.401 kJ/mol-atom (oqmd-28705).
 
 Systems: [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Be3Ti reported in the literature (8)
+Table: Enthalpy of formation of Be3Ti reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -18,7 +18,6 @@ Table: Enthalpy of formation of Be3Ti reported in the literature (8)
 | -28 kJ/mol-atom | TiBe3 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
 | -27.9 kJ/mol-atom | TiBe3 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
 | -27.9 kJ/mol-atom | TiBe3 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 9 |  |
-| -26 kJ/mol-atom | TiBe3 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 11 |  |
 | -26 kJ/mol-atom | TiBe3 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 11 |  |
 | -12.8 kJ/mol-atom | TiBe3(D03) |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 5 |  |
 | -12.8 kJ/mol-atom | TiBe3(D03) | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 5 |  |

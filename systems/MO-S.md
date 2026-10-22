@@ -71,21 +71,21 @@ Table: Invariant reactions reported in the literature for the Mo–S system (56)
 | 2223.15 | Liquid = Liquid + bcc_A2 |  | experimental | [1] Cui 2018; _cites Moh 1978_ [doi](https://doi.org/10.1007/bfb0047028) | Table 3, p. 5, row 38 |  |
 | 2173.15 | Melting point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Moh 1974_ | Table 3, p. 5, row 4 |  |
 | 2073.15 | Melting point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018 | Table 3, p. 5, row 2 |  |
-| 2053.15 | congruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Vasilyeva 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.175) | Table 3, p. 5, row 16 |  |
-| 2027.35 | congruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | model | [1] Cui 2018 | Table 3, p. 5, row 22 |  |
+| 2053.15 | congruent melting: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Vasilyeva 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.175) | Table 3, p. 5, row 16 |  |
+| 2027.35 | congruent melting: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | model | [1] Cui 2018 | Table 3, p. 5, row 22 |  |
 | 2027.15 | Liquid = β\_Mo2S3 + gas | Liquid: S 0.61; β\_Mo2S3: Mo 0.4, S 0.6 | model | [1] Cui 2018 | Table 3, p. 5, row 11 |  |
-| 2026.15 | congruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | model | [1] Cui 2018; _cites Shang 2016_ [doi](https://doi.org/10.1021/acs.nanolett.6b02443) | Table 3, p. 5, row 21 |  |
+| 2026.15 | congruent melting: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | model | [1] Cui 2018; _cites Shang 2016_ [doi](https://doi.org/10.1021/acs.nanolett.6b02443) | Table 3, p. 5, row 21 |  |
 | 2023.15 | S2 (g) + Liquid = MoS2 | MoS2: Mo 0.333333, S 0.666667 | model | [1] Cui 2018; _cites Brewer 1980_ | Table 3, p. 5, row 47 |  |
-| 2013.15 | congruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Gibner 1998_ [doi](https://doi.org/10.1023/a:1010115620439) | Table 3, p. 5, row 15 |  |
-| 2013.15 | incongruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Johnson 1983_ [doi](https://doi.org/10.1016/0036-9748%2883%2990262-4) | Table 3, p. 5, row 19 |  |
-| 2013.15 | incongruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1974_ | Table 3, p. 5, row 13 |  |
+| 2013.15 | congruent melting: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Gibner 1998_ [doi](https://doi.org/10.1023/a:1010115620439) | Table 3, p. 5, row 15 |  |
+| 2013.15 | other: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Johnson 1983_ [doi](https://doi.org/10.1016/0036-9748%2883%2990262-4) | Table 3, p. 5, row 19 |  |
+| 2013.15 | other: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1974_ | Table 3, p. 5, row 13 |  |
 | 2004.15 | Melting point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | model | [1] Cui 2018; _cites Shang 2016_ [doi](https://doi.org/10.1021/acs.nanolett.6b02443) | Table 3, p. 5, row 7 |  |
 | 2004.15 | S2 (g) + Liquid = MoS2 | MoS2: Mo 0.333333, S 0.666667 | model | [1] Cui 2018; _cites Shang 2016_ [doi](https://doi.org/10.1021/acs.nanolett.6b02443) | Table 3, p. 5, row 48 |  |
 | 2004.15 | Liquid = MoS2 + Mo2S3 | MoS2: Mo 0.333333, S 0.666667; Mo2S3: Mo 0.4, S 0.6 | model | [1] Cui 2018; _cites Shang 2016_ [doi](https://doi.org/10.1021/acs.nanolett.6b02443) | Table 3, p. 5, row 36 |  |
 | 1992.15 | MoS2 = β\_Mo2S3 + gas | MoS2: Mo 0.333333, S 0.666667; β\_Mo2S3: Mo 0.4, S 0.6 | model | [1] Cui 2018 | Table 3, p. 5, row 12 |  |
-| 1973.15 | incongruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Takeno 1977_ | Table 3, p. 5, row 17 |  |
-| 1973.15 | incongruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1978_ [doi](https://doi.org/10.1007/bfb0047028) | Table 3, p. 5, row 18 |  |
-| 1923.15 | incongruent: Melting point of MoS2 | MoS2: Mo 0.333333, S 0.666667; L: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Zelikman 1956_ | Table 3, p. 5, row 3 |  |
+| 1973.15 | other: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Takeno 1977_ | Table 3, p. 5, row 17 |  |
+| 1973.15 | other: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1978_ [doi](https://doi.org/10.1007/bfb0047028) | Table 3, p. 5, row 18 |  |
+| 1923.15 | other: Melting point of MoS2 | MoS2: Mo 0.333333, S 0.666667; L: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Zelikman 1956_ | Table 3, p. 5, row 3 |  |
 | 1918.15 | Liquid = bcc_A2 + β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Gibner 1998_ [doi](https://doi.org/10.1023/a:1010115620439) | Table 3, p. 5, row 24 |  |
 | 1889.15 | Liquid = bcc_A2 + β\_Mo2S3 | Liquid: S 0.445; β\_Mo2S3: Mo 0.4, S 0.6 | model | [1] Cui 2018 | Table 3, p. 5, row 34 |  |
 | 1888.15 | Liquid = bcc_A2 + β\_Mo2S3 | Liquid: S 0.44; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Vasilyeva 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.175) | Table 3, p. 5, row 25 |  |
@@ -94,8 +94,8 @@ Table: Invariant reactions reported in the literature for the Mo–S system (56)
 | 1882.15 | Liquid = bcc_A2 + β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6 | model | [1] Cui 2018; _cites Shang 2016_ [doi](https://doi.org/10.1021/acs.nanolett.6b02443) | Table 3, p. 5, row 33 |  |
 | 1880.15 | Liquid = bcc_A2 + β\_Mo2S3 | Liquid: S 0.37; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Johnson 1983_ [doi](https://doi.org/10.1016/0036-9748%2883%2990262-4) | Table 3, p. 5, row 28 |  |
 | 1880.15 | Liquid = bcc_A2 + β\_Mo2S3 | Liquid: S 0.37; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1974_ | Table 3, p. 5, row 23 |  |
-| 1873.15 | incongruent: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | unspecified | [1] Cui 2018; _cites Starkov 1987_ | Table 3, p. 5, row 20 |  |
-| 1873.15 | dissociation: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Gorokh 1964_ | Table 3, p. 5, row 14 |  |
+| 1873.15 | other: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6; L: Mo 0.4, S 0.6 | unspecified | [1] Cui 2018; _cites Starkov 1987_ | Table 3, p. 5, row 20 |  |
+| 1873.15 | other: Melting point of β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Gorokh 1964_ | Table 3, p. 5, row 14 |  |
 | 1853.15 | Boiling point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Vasilyeva 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.175) | Table 3, p. 5, row 10 |  |
 | 1848.15 | Boiling point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Gibner 1998_ [doi](https://doi.org/10.1023/a:1010115620439) | Table 3, p. 5, row 9 |  |
 | 1838.15 | Boiling point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Isakova 1961_ | Table 3, p. 5, row 8 |  |
@@ -129,7 +129,7 @@ Table: Phase transition, Mo–S system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 368.3 K | 368.3 |  | experimental | [1] Cui 2018 | p. 9 | “This is more reasonable than the prediction using Neumann-Kopp rule, since pure orthorhombic S is only stable below 95.15 °C.” |
-| Phase transition | 773.15 K | 773.15 (none) | 3R_MoS2 = 2H_MoS2 | experimental | [1] Cui 2018; _cites Clark 1970_ | p. 6 | “For instance, a transition temperature of about 500 °C \[91\] or about 1000 °C \[76\] was reported.” |
+| Phase transition | 773.15 K | 773.15 | 3R_MoS2 = 2H_MoS2 | experimental | [1] Cui 2018; _cites Clark 1970_ | p. 6 | “For instance, a transition temperature of about 500 °C \[91\] or about 1000 °C \[76\] was reported.” |
 | Phase transition | 1833.15 K | 1833.15 |  | model | [1] Cui 2018 | Table 3, p. 6, row 1 |  |
 
 ### Other property (1)

@@ -1,22 +1,20 @@
 # PrC2: enthalpy of formation
 
-> Enthalpy of formation of PrC2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of PrC2: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PrC2.html · Markdown: https://data.orchid-project.org/compounds/PrC2.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 4); experimental median -28.8 kJ/mol-atom (n = 4); Materials Project -9.857 kJ/mol-atom (mp-aaaaacyt); OQMD -10.23 kJ/mol-atom (oqmd-3666).
+2 accepted literature formation-enthalpy value(s) (experimental 2); experimental median -28.8 kJ/mol-atom (n = 2); Materials Project -9.857 kJ/mol-atom (mp-aaaaacyt); OQMD -10.23 kJ/mol-atom (oqmd-3666).
 
 Systems: [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PrC2 reported in the literature (4)
+Table: Enthalpy of formation of PrC2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -29.4 kJ/mol-atom ± 1.6 | PrC2 | 298 | experimental | Synthesis calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
-| -29.4 kJ/mol-atom ± 1.6 | PrC2 | 298 | experimental | Synthesis calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
-| -28.2 kJ/mol-atom ± 3.5 | PrC2 | 298 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
 | -28.2 kJ/mol-atom ± 3.5 | PrC2 | 298 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
 
 ## DFT formation energies

@@ -121,7 +121,7 @@ Table: Phase transition, Lu–Pb system
 | Phase transition | 1750 K | 1750 | αLu5Pb4 \<-> βLu5Pb4; _αLu5Pb4: Pb 0.444444; βLu5Pb4: Pb 0.444444_ | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 8 |  |
 | Phase transition | 1967 K | 1967 | Liq \<-> Lu5Pb3; _Liq: Pb 0.375; Lu5Pb3: Pb 0.375_ | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 4 |  |
 | Phase transition | 1968 K | 1968 | Liq \<-> Lu5Pb3; _Liq: Pb 0.375; Lu5Pb3: Pb 0.375_ | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 3 |  |
-| Phase transition | 1968 K | 1968 | congruent | experimental | [2] Iddaoudi 2012; _cites Massalski 1990_ | p. 1 | “For the Lu5Pb3 compound, a congruent melting was estimated at 1,968 K, while the LuPb2, Lu6Pb5, and Lu5Pb4 (a and b) compounds, a peritectic formation was reported, respectively, at 843, 1443, and 1773 K.” |
+| Phase transition | 1968 K | 1968 | congruent transformation | experimental | [2] Iddaoudi 2012; _cites Massalski 1990_ | p. 1 | “For the Lu5Pb3 compound, a congruent melting was estimated at 1,968 K, while the LuPb2, Lu6Pb5, and Lu5Pb4 (a and b) compounds, a peritectic formation was reported, respectively, at 843, 1443, and 1773 K.” |
 | Phase transition | 1968.15 K | 1968.15 | L -> Lu5Pb3; _L: Pb 0.375; Lu5Pb3: Pb 0.375_ | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 3 |  |
 | Phase transition | 1973.15 K | 1973.15 | L -> Lu5Pb3; _L: Pb 0.375; Lu5Pb3: Pb 0.375_ | model | [1] Wang 2013 | Table 6, p. 4, row 4 |  |
 

@@ -28,40 +28,40 @@ Table: Mixing / partial, Pd–Rh–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6172.2 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1292.6 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6440 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0.5, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: Mixing enthalpy_ | 6609.8 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0.25, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 3, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -913.2 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 70.7 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4726.4 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.75, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1174.1 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Rh 0.06, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 8965.1 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1380.8 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1629.1 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Rh 0, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: Mixing enthalpy_ | 5569.3 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.25, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 3, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: Mixing enthalpy_ | 4045 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.5, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 3, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 7600.1 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Rh 0, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: Mixing enthalpy_ | 5371.6 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.333333, Rh 0.333333, Ru 0.333333_ | DFT | [1] Gossé 2016 | Table 3, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 2885.3 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Rh 0, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4955 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Rh 0.25, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1983.7 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Rh 0.94, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1284.2 J/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10824.9 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Rh 0, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -447.9 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 6217.4 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Rh 0.5, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -314.7 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 235.8 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4989.4 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Rh 0.75, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 1093.5 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Rh 0.06, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 12156.3 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Rh 0, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -212.3 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2513.6 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Rh 0, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10072.7 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Rh 0, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 5002.6 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Rh 0, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4814.4 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Rh 0.25, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2425.4 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Rh 0.94, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -838.5 J/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6.1722 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.2926 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6.44 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0.5, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: Mixing enthalpy_ | 6.6098 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0.25, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 3, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -0.9132 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 0.0707 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4.7264 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.75, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.1741 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Rh 0.06, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 8.9651 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.3808 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.6291 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Rh 0, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: Mixing enthalpy_ | 5.5693 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.25, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 3, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: Mixing enthalpy_ | 4.045 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.5, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 3, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 7.6001 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Rh 0, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: Mixing enthalpy_ | 5.3716 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.333333, Rh 0.333333, Ru 0.333333_ | DFT | [1] Gossé 2016 | Table 3, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 2.8853 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Rh 0, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4.955 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Rh 0.25, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.9837 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Rh 0.94, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.2842 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0, Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10.8249 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Rh 0, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.4479 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 6.2174 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Rh 0.5, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.3147 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 0.2358 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4.9894 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Rh 0.75, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 1.0935 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Rh 0.06, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 12.1563 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Rh 0, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.2123 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2.5136 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Rh 0, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10.0727 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Rh 0, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 5.0026 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Rh 0, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4.8144 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Rh 0.25, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2.4254 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Rh 0.94, Ru 0_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.8385 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0, Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13 |  |
 
 ## Sources
 

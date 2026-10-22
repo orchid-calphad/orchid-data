@@ -58,51 +58,51 @@ Table: Invariant reactions reported in the literature for the Co–Th system (45
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2028.15 | Melting: L \<-> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 2 |  |
-| 2028.15 | Melting: L \<-> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 1 |  |
-| 2022.65 | Melting: L \<-> βTh | L: Th 1 | model | [1] Wang 2008 | Table 2, p. 3, row 3 |  |
-| 1768.15 | Melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 39 |  |
-| 1768.15 | Melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 40 |  |
-| 1766.85 | Melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 41 |  |
-| 1735.15 | Melting: L \<-> Co17Th2 | L: Th 0.105; Co17Th2: Co 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 33 |  |
-| 1733.65 | Melting: L \<-> Co17Th2 | L: Th 0.105; Co17Th2: Co 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 2, p. 3, row 35 |  |
-| 1733.15 | Melting: L \<-> Co17Th2 | L: Th 0.105; Co17Th2: Co 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 34 |  |
-| 1710.15 | Melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 27 |  |
-| 1698.35 | Melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | model | [1] Wang 2008 | Table 2, p. 3, row 29 |  |
-| 1698.15 | Melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 28 |  |
+| 2028.15 | congruent melting: L \<-> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 2 |  |
+| 2028.15 | congruent melting: L \<-> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 1 |  |
+| 2022.65 | congruent melting: L \<-> βTh | L: Th 1 | model | [1] Wang 2008 | Table 2, p. 3, row 3 |  |
+| 1768.15 | congruent melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 39 |  |
+| 1768.15 | congruent melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 40 |  |
+| 1766.85 | congruent melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 41 |  |
+| 1735.15 | congruent melting: L \<-> Co17Th2 | L: Th 0.105; Co17Th2: Co 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 33 |  |
+| 1733.65 | congruent melting: L \<-> Co17Th2 | L: Th 0.105; Co17Th2: Co 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 2, p. 3, row 35 |  |
+| 1733.15 | congruent melting: L \<-> Co17Th2 | L: Th 0.105; Co17Th2: Co 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 34 |  |
+| 1710.15 | congruent melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 27 |  |
+| 1698.35 | congruent melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | model | [1] Wang 2008 | Table 2, p. 3, row 29 |  |
+| 1698.15 | congruent melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 28 |  |
 | 1696.95 | eutectic: L ↔ Co5 Th + Co17 Th2 |  | model | [1] Wang 2008 | p. 6 | “eters, the calculated results show that there exists a eutectic reaction (L ↔ Co5 Th + Co17 Th2 ) at 1423.8 ◦ C, which is more acceptable.” |
-| 1696.95 | Eutectic: L \<-> Co5Th + Co17Th2 | L: Th 0.1555; Co5Th: Co 0.833333, Th 0.166667; Co17Th2: Co 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 2, p. 3, row 32 |  |
-| 1683.15 | Eutectic: L \<-> Co17Th2 + αCo | L: Th 0.0501; Co17Th2: Co 0.894737, Th 0.105263; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 37 |  |
-| 1678.05 | Eutectic: L \<-> Co17Th2 + αCo | L: Th 0.0456; Co17Th2: Co 0.894737, Th 0.105263; αCo: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 38 |  |
-| 1660.15 | Eutectic: L \<-> Co17Th2 + αCo | L: Th 0.0501; Co17Th2: Co 0.894737, Th 0.105263; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 36 |  |
-| 1633.25 | Polymorphic: βTh \<-> αTh | αTh: Co 0.777778, Th 0.222222; L: Th 1 | model | [1] Wang 2008 | Table 2, p. 3, row 6 |  |
-| 1633.15 | Polymorphic: βTh \<-> αTh | αTh: Co 0.777778, Th 0.222222; L: Th 1 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 4 |  |
-| 1633.15 | Polymorphic: βTh \<-> αTh | αTh: Co 0.777778, Th 0.222222; L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 5 |  |
-| 1573.15 | Eutectic: L \<-> Co5Th + Co17Th2 | L: Th 0.1202; Co5Th: Co 0.833333, Th 0.166667; Co17Th2: Co 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 30 |  |
-| 1573.15 | Eutectic: L \<-> Co5Th + Co17Th2 | L: Th 0.1258; Co5Th: Co 0.833333, Th 0.166667; Co17Th2: Co 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 31 |  |
-| 1461.15 | Melting: L \<-> Co3Th7 | L: Th 0.7; Co3Th7: Co 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 10 |  |
-| 1410.15 | Melting: L \<-> CoTh | L: Th 0.5; CoTh: Co 0.5, Th 0.5 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 16 |  |
-| 1403.15 | Melting: L \<-> Co3Th7 | L: Th 0.7; Co3Th7: Co 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 11 |  |
-| 1402.85 | Melting: L \<-> Co3Th7 | L: Th 0.7; Co3Th7: Co 0.3, Th 0.7 | model | [1] Wang 2008 | Table 2, p. 3, row 12 |  |
-| 1398.15 | Peritectic: L + Co5Th \<-> βCo7Th2 | L: Th 0.3187; Co5Th: Co 0.833333, Th 0.166667; βCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 25 |  |
-| 1398.15 | Peritectic: L + Co5Th \<-> βCo7Th2 | L: Th 0.256; Co5Th: Co 0.833333, Th 0.166667; βCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 24 |  |
-| 1398.15 | Peritectic: L + Co5Th \<-> βCo7Th2 | L: Th 0.3324; Co5Th: Co 0.833333, Th 0.166667; βCo7Th2: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 26 |  |
-| 1398.15 | Melting: L \<-> CoTh | L: Th 0.5; CoTh: Co 0.5, Th 0.5 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 17 |  |
-| 1397.95 | Melting: L \<-> CoTh | L: Th 0.5; CoTh: Co 0.5, Th 0.5 | model | [1] Wang 2008 | Table 2, p. 3, row 18 |  |
-| 1373.25 | Polymorphic: βCo7Th2 \<-> αCo7Th2 | βCo7Th2: Co 0.777778, Th 0.222222; αCo7Th2: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 23 |  |
-| 1373.15 | Polymorphic: βCo7Th2 \<-> αCo7Th2 | βCo7Th2: Co 0.777778, Th 0.222222; αCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 22 |  |
-| 1373.15 | Eutectic: L \<-> αTh + Co3Th7 | L: Th 0.7961; αTh: Co 0.777778, Th 0.222222; Co3Th7: Co 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 8 |  |
-| 1373.15 | Eutectic: L \<-> αTh + Co3Th7 | L: Th 0.7966; αTh: Co 0.777778, Th 0.222222; Co3Th7: Co 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 7 |  |
-| 1358.05 | Eutectic: L \<-> αTh + Co3Th7 | L: Th 0.793; αTh: Co 0.777778, Th 0.222222; Co3Th7: Co 0.3, Th 0.7 | model | [1] Wang 2008 | Table 2, p. 3, row 9 |  |
-| 1310.15 | Eutectic: L \<-> Co3Th7 + CoTh | L: Th 0.5976; Co3Th7: Co 0.3, Th 0.7; CoTh: Co 0.5, Th 0.5 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 13 |  |
-| 1298.45 | Eutectic: L \<-> Co3Th7 + CoTh | L: Th 0.5875; Co3Th7: Co 0.3, Th 0.7; CoTh: Co 0.5, Th 0.5 | model | [1] Wang 2008 | Table 2, p. 3, row 15 |  |
-| 1298.15 | Eutectic: L \<-> Co3Th7 + CoTh | L: Th 0.619; Co3Th7: Co 0.3, Th 0.7; CoTh: Co 0.5, Th 0.5 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 14 |  |
-| 1248.15 | Eutectic: L \<-> CoTh + αCo7Th2 | L: Th 0.3808; CoTh: Co 0.5, Th 0.5; αCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 19 |  |
-| 1233.25 | Eutectic: L \<-> CoTh + αCo7Th2 | L: Th 0.3941; CoTh: Co 0.5, Th 0.5; αCo7Th2: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 21 |  |
-| 1233.15 | Eutectic: L \<-> CoTh + αCo7Th2 | L: Th 0.3907; CoTh: Co 0.5, Th 0.5; αCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 20 |  |
-| 695.15 | Polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 43 |  |
-| 695.15 | Polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 42 |  |
-| 694.95 | Polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | model | [1] Wang 2008 | Table 2, p. 3, row 44 |  |
+| 1696.95 | eutectic: L \<-> Co5Th + Co17Th2 | L: Th 0.1555; Co5Th: Co 0.833333, Th 0.166667; Co17Th2: Co 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 2, p. 3, row 32 |  |
+| 1683.15 | eutectic: L \<-> Co17Th2 + αCo | L: Th 0.0501; Co17Th2: Co 0.894737, Th 0.105263; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 37 |  |
+| 1678.05 | eutectic: L \<-> Co17Th2 + αCo | L: Th 0.0456; Co17Th2: Co 0.894737, Th 0.105263; αCo: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 38 |  |
+| 1660.15 | eutectic: L \<-> Co17Th2 + αCo | L: Th 0.0501; Co17Th2: Co 0.894737, Th 0.105263; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 36 |  |
+| 1633.25 | polymorphic: βTh \<-> αTh | αTh: Co 0.777778, Th 0.222222; L: Th 1 | model | [1] Wang 2008 | Table 2, p. 3, row 6 |  |
+| 1633.15 | polymorphic: βTh \<-> αTh | αTh: Co 0.777778, Th 0.222222; L: Th 1 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 4 |  |
+| 1633.15 | polymorphic: βTh \<-> αTh | αTh: Co 0.777778, Th 0.222222; L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 5 |  |
+| 1573.15 | eutectic: L \<-> Co5Th + Co17Th2 | L: Th 0.1202; Co5Th: Co 0.833333, Th 0.166667; Co17Th2: Co 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 30 |  |
+| 1573.15 | eutectic: L \<-> Co5Th + Co17Th2 | L: Th 0.1258; Co5Th: Co 0.833333, Th 0.166667; Co17Th2: Co 0.894737, Th 0.105263 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 31 |  |
+| 1461.15 | congruent melting: L \<-> Co3Th7 | L: Th 0.7; Co3Th7: Co 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 10 |  |
+| 1410.15 | congruent melting: L \<-> CoTh | L: Th 0.5; CoTh: Co 0.5, Th 0.5 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 16 |  |
+| 1403.15 | congruent melting: L \<-> Co3Th7 | L: Th 0.7; Co3Th7: Co 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 11 |  |
+| 1402.85 | congruent melting: L \<-> Co3Th7 | L: Th 0.7; Co3Th7: Co 0.3, Th 0.7 | model | [1] Wang 2008 | Table 2, p. 3, row 12 |  |
+| 1398.15 | peritectic: L + Co5Th \<-> βCo7Th2 | L: Th 0.3187; Co5Th: Co 0.833333, Th 0.166667; βCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 25 |  |
+| 1398.15 | peritectic: L + Co5Th \<-> βCo7Th2 | L: Th 0.256; Co5Th: Co 0.833333, Th 0.166667; βCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 24 |  |
+| 1398.15 | peritectic: L + Co5Th \<-> βCo7Th2 | L: Th 0.3324; Co5Th: Co 0.833333, Th 0.166667; βCo7Th2: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 26 |  |
+| 1398.15 | congruent melting: L \<-> CoTh | L: Th 0.5; CoTh: Co 0.5, Th 0.5 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 17 |  |
+| 1397.95 | congruent melting: L \<-> CoTh | L: Th 0.5; CoTh: Co 0.5, Th 0.5 | model | [1] Wang 2008 | Table 2, p. 3, row 18 |  |
+| 1373.25 | polymorphic: βCo7Th2 \<-> αCo7Th2 | βCo7Th2: Co 0.777778, Th 0.222222; αCo7Th2: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 23 |  |
+| 1373.15 | polymorphic: βCo7Th2 \<-> αCo7Th2 | βCo7Th2: Co 0.777778, Th 0.222222; αCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 22 |  |
+| 1373.15 | eutectic: L \<-> αTh + Co3Th7 | L: Th 0.7961; αTh: Co 0.777778, Th 0.222222; Co3Th7: Co 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 8 |  |
+| 1373.15 | eutectic: L \<-> αTh + Co3Th7 | L: Th 0.7966; αTh: Co 0.777778, Th 0.222222; Co3Th7: Co 0.3, Th 0.7 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 7 |  |
+| 1358.05 | eutectic: L \<-> αTh + Co3Th7 | L: Th 0.793; αTh: Co 0.777778, Th 0.222222; Co3Th7: Co 0.3, Th 0.7 | model | [1] Wang 2008 | Table 2, p. 3, row 9 |  |
+| 1310.15 | eutectic: L \<-> Co3Th7 + CoTh | L: Th 0.5976; Co3Th7: Co 0.3, Th 0.7; CoTh: Co 0.5, Th 0.5 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 13 |  |
+| 1298.45 | eutectic: L \<-> Co3Th7 + CoTh | L: Th 0.5875; Co3Th7: Co 0.3, Th 0.7; CoTh: Co 0.5, Th 0.5 | model | [1] Wang 2008 | Table 2, p. 3, row 15 |  |
+| 1298.15 | eutectic: L \<-> Co3Th7 + CoTh | L: Th 0.619; Co3Th7: Co 0.3, Th 0.7; CoTh: Co 0.5, Th 0.5 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 14 |  |
+| 1248.15 | eutectic: L \<-> CoTh + αCo7Th2 | L: Th 0.3808; CoTh: Co 0.5, Th 0.5; αCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 19 |  |
+| 1233.25 | eutectic: L \<-> CoTh + αCo7Th2 | L: Th 0.3941; CoTh: Co 0.5, Th 0.5; αCo7Th2: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 21 |  |
+| 1233.15 | eutectic: L \<-> CoTh + αCo7Th2 | L: Th 0.3907; CoTh: Co 0.5, Th 0.5; αCo7Th2: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 20 |  |
+| 695.15 | polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 43 |  |
+| 695.15 | polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 42 |  |
+| 694.95 | polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | model | [1] Wang 2008 | Table 2, p. 3, row 44 |  |
 
 ## Other properties
 

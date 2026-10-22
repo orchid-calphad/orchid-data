@@ -1,20 +1,19 @@
 # Cr7C3: enthalpy of formation
 
-> Enthalpy of formation of Cr7C3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Cr7C3: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cr7C3.html · Markdown: https://data.orchid-project.org/compounds/Cr7C3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+1 accepted literature formation-enthalpy value(s) (model 1).
 
 Systems: [C–Cr](https://data.orchid-project.org/systems/C-CR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cr7C3 reported in the literature (2)
+Table: Enthalpy of formation of Cr7C3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -139849 unknown | Cr7C3 | 298.15 | model |  | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [1] Lee 1992 | Table 2, p. 11, row 12 |  |
 | -139849 unknown | Cr7C3 | 298.15 | model |  | [C–Cr](https://data.orchid-project.org/systems/C-CR.html) | [1] Lee 1992 | Table 2, p. 11, row 8 |  |
 
 ## Sources

@@ -1,10 +1,10 @@
 # Al–Sc–Y system
 
-> Al–Sc–Y system: 172 accepted literature values (invariant reaction 99, crystal structure 45, phase equilibrium 20, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sc–Y system: 164 accepted literature values (invariant reaction 91, crystal structure 45, phase equilibrium 20, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SC-Y.html · Markdown: https://data.orchid-project.org/systems/AL-SC-Y.md
 
-172 accepted literature values from 1 paper(s) (experimental 50, model 117, unspecified 5); 0 calculated phase diagram(s).
+164 accepted literature values from 1 paper(s) (experimental 49, model 110, unspecified 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-SC-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC-Y) · [Markdown](https://data.orchid-project.org/systems/AL-SC-Y.md)
 
@@ -12,22 +12,22 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 50 |
-| model | 117 |
+| experimental | 49 |
+| model | 110 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 99 |
+| invariant reaction | 91 |
 | phase transition | 8 |
 | phase equilibrium | 20 |
 | crystal structure | 45 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Sc–Y system (99)
+Table: Invariant reactions reported in the literature for the Al–Sc–Y system (91)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -38,16 +38,15 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Y system
 | 1616 | Liquid + Al2Sc/Liquid + Al2Sc + Al2Y |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 33 |  |
 | 1601 | Liquid + AlY + Al2Y/AlY + Al2Y |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 59 |  |
 | 1579 | Liquid + Al2Y/Liquid + Al2Y + AlY |  | model | [1] Hu 2018 | Table 5, p. 6, row 45 |  |
-| 1567 | U: Liquid + Al2Sc -> Al2Y + AlSc |  | model | [1] Hu 2018 | Table 8, p. 11, row 1 |  |
+| 1567 | quasi-peritectic: Liquid + Al2Sc -> Al2Y + AlSc |  | model | [1] Hu 2018 | Table 8, p. 11, row 1 |  |
 | 1567 | Liquid + Al2Y + Al2Sc/Al2Y + Al2Sc + AlSc |  | model | [1] Hu 2018 | Table 5, p. 6, row 51 |  |
 | 1566 | Liquid -> AlSc + Al2Y + AlY |  | model | [1] Hu 2018 | Table 5, p. 6, row 46 |  |
-| 1566 | E: Liquid -> Al2Y + AlSc + AlY |  | model | [1] Hu 2018 | Table 8, p. 11, row 2 |  |
+| 1566 | eutectic: Liquid -> Al2Y + AlSc + AlY |  | model | [1] Hu 2018 | Table 8, p. 11, row 2 |  |
 | 1562 | Al2Y + Al2Sc + AlSc/Al2Y + AlSc |  | model | [1] Hu 2018 | Table 5, p. 6, row 52 |  |
 | 1543 | Liquid + Al2Y/Liquid + Al2Sc + Al2Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 1 |  |
-| 1540 | U: Liquid + Al2Sc -> τ1 + Al3Sc |  | model | [1] Hu 2018 | Table 8, p. 11, row 4 |  |
+| 1540 | quasi-peritectic: Liquid + Al2Sc -> τ1 + Al3Sc |  | model | [1] Hu 2018 | Table 8, p. 11, row 4 |  |
 | 1540 | Liquid + Al2Sc + Al2Y -> τ1 |  | model | [1] Hu 2018 | Table 5, p. 6, row 36 |  |
-| 1540 | Liquid + Al2Sc + Al2Y -> τ1 |  | model | [1] Hu 2018 | Table 5, p. 6, row 2 |  |
-| 1540 | P: Liquid + Al2Sc + Al2Y -> τ1 |  | model | [1] Hu 2018 | Table 8, p. 11, row 3 |  |
+| 1540 | peritectic: Liquid + Al2Sc + Al2Y -> τ1 |  | model | [1] Hu 2018 | Table 8, p. 11, row 3 |  |
 | 1539 | Liquid + Al2Y + Al2Sc/Al2Y + Al2Sc + AlSc |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 50 |  |
 | 1532 | Liquid + Al2Y + τ1/Liquid + τ1 |  | model | [1] Hu 2018 | Table 5, p. 6, row 4 |  |
 | 1522 | Al2Sc + τ1 -> Al3Sc + Al2Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 37 |  |
@@ -61,26 +60,26 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Y system
 | 1448 | Liquid + Al2Y/Liquid + Al2Y + τ1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 25 |  |
 | 1433 | Liquid + AlY + Al3Y5/AlY + Al3Y5 |  | model | [1] Hu 2018 | Table 5, p. 6, row 66 |  |
 | 1432 | Liquid + AlY + Al3Y5/AlY + Al3Y5 + Al2Y3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 71 |  |
-| 1432 | P: Liquid + AlY + Al3Y5 -> Al2Y3 |  | model | [1] Hu 2018 | Table 8, p. 11, row 5 |  |
+| 1432 | peritectic: Liquid + AlY + Al3Y5 -> Al2Y3 |  | model | [1] Hu 2018 | Table 8, p. 11, row 5 |  |
 | 1428 | Liquid + Al2Y/Liquid + Al2Y + τ1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 9 |  |
-| 1404 | U: Liquid + AlY -> AlSc + Al3Y5 |  | model | [1] Hu 2018 | Table 8, p. 11, row 6 |  |
+| 1404 | quasi-peritectic: Liquid + AlY -> AlSc + Al3Y5 |  | model | [1] Hu 2018 | Table 8, p. 11, row 6 |  |
 | 1384 | Liquid + τ1/Liquid + Al3Sc + τ1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 5 |  |
-| 1372 | U: Liquid + AlSc -> Al3Y5 + AlSc2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 7 |  |
+| 1372 | quasi-peritectic: Liquid + AlSc -> Al3Y5 + AlSc2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 7 |  |
 | 1359 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 73 |  |
 | 1352 | Al2Y + AlSc/Al2Y + AlSc + AlY |  | model | [1] Hu 2018 | Table 5, p. 6, row 55 |  |
 | 1345 | Al2Y + AlSc/Al2Y + AlSc + AlY |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 54 |  |
 | 1304 | Liquid + AlY + Al3Y5/AlY + Al3Y5 + Al2Y3 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 70 |  |
 | 1276 | Liquid + AlY + Al3Y5/AlY + Al3Y5 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 65 |  |
 | 1274 | Liquid + Al2Y/Liquid + Al2Y + βAl3Y |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 39 |  |
-| 1269 | U: Liquid + bcc_A2 -> hcp_A3 + AlSc2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 8 |  |
+| 1269 | quasi-peritectic: Liquid + bcc_A2 -> hcp_A3 + AlSc2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 8 |  |
 | 1261 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 72 |  |
-| 1261 | P: Liquid + Al3Y5 + Al2Y3 -> AlY2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 9 |  |
+| 1261 | peritectic: Liquid + Al3Y5 + Al2Y3 -> AlY2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 9 |  |
 | 1242 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 78 |  |
 | 1241 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 98 |  |
 | 1240 | Liquid + Al3Y5 + hcp_A3/Al3Y5 + hcp_A3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 99 |  |
 | 1237 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 87 |  |
 | 1235 | Liquid + Al3Y5 + hcp_A3/Al3Y5 + hcp_A3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 89 |  |
-| 1230 | U: Liquid + Al3Y5 -> AlY2 + hcp_A3 |  | model | [1] Hu 2018 | Table 8, p. 11, row 10 |  |
+| 1230 | quasi-peritectic: Liquid + Al3Y5 -> AlY2 + hcp_A3 |  | model | [1] Hu 2018 | Table 8, p. 11, row 10 |  |
 | 1225 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 97 |  |
 | 1207 | Al3Y5 + hcp_A3/Al3Y5 + hcp_A3 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 91 |  |
 | 1191 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 86 |  |
@@ -95,36 +94,29 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Y system
 | 1146 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 79 |  |
 | 1141 | Al3Y5 + AlY2 + hcp_A3/AlY2 + hcp_A3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 102 |  |
 | 1131 | Liquid + Al2Y -> τ1 + βAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 19 |  |
-| 1131 | Liquid + Al2Y -> τ1 + βAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 41 |  |
-| 1131 | Liquid + Al2Y -> τ1 + βAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 12 |  |
-| 1131 | Liquid + Al2Y -> τ1 + βAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 29 |  |
-| 1131 | U: Liquid + Al2Y -> τ1 + βAl3Y |  | model | [1] Hu 2018 | Table 8, p. 11, row 11 |  |
+| 1131 | quasi-peritectic: Liquid + Al2Y -> τ1 + βAl3Y |  | model | [1] Hu 2018 | Table 8, p. 11, row 11 |  |
 | 1101 | Liquid + Al2Y -> τ1 + βAl3Y |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 18 |  |
 | 1098 | Liquid + Al2Y -> τ1 + βAl3Y |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 11 |  |
 | 1093 | Liquid + Al2Y -> τ1 + βAl3Y |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 28 |  |
 | 1093 | Liquid + Al3Y5 + hcp_A3/Al3Y5 + hcp_A3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 81 |  |
-| 1086 | E: Liquid -> Al3Y5 + hcp_A3 + AlSc2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 12 |  |
+| 1086 | eutectic: Liquid -> Al3Y5 + hcp_A3 + AlSc2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 12 |  |
 | 1058 | Al3Y5 + hcp_A3/Al3Y5 + hcp_A3 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 82 |  |
 | 1057 | Al3Y5 + hcp_A3 + AlY2/hcp_A3 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 83 |  |
 | 1025 | τ1 + Al2Y + βAl3Y/Al2Y + βAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 42 |  |
 | 974 | Al2Y + βAl3Y/Al2Y + αAl3Y + βAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 43 |  |
 | 974 | Liquid + τ1 + βAl3Y -> αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 20 |  |
-| 974 | Liquid + τ1 + βAl3Y -> αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 13 |  |
-| 974 | P: Liquid + τ1 + βAl3Y -> αAl3Y |  | model | [1] Hu 2018 | Table 8, p. 11, row 13 |  |
-| 974 | Liquid + τ1 + βAl3Y -> αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 30 |  |
+| 974 | peritectic: Liquid + τ1 + βAl3Y -> αAl3Y |  | model | [1] Hu 2018 | Table 8, p. 11, row 13 |  |
 | 973 | Liquid + αAl3Y + βAl3Y/Liquid + αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 21 |  |
 | 967 | Al2Y + αAl3Y + βAl3Y/Al2Y + αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 44 |  |
 | 931 | Liquid + Al3Sc -> fcc_A1 + τ1 |  | model | [1] Hu 2018 | Table 5, p. 6, row 8 |  |
-| 931 | U: Liquid + Al3Sc -> τ1 + fcc_A1 |  | model | [1] Hu 2018 | Table 8, p. 11, row 14 |  |
+| 931 | quasi-peritectic: Liquid + Al3Sc -> τ1 + fcc_A1 |  | model | [1] Hu 2018 | Table 8, p. 11, row 14 |  |
 | 914 | Liquid + τ1 -> αAl3Y + fcc_A1 |  | model | [1] Hu 2018 | Table 5, p. 6, row 15 |  |
 | 914 | Liquid + αAl3Y/Liquid + fcc_A1 + αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 22 |  |
-| 914 | Liquid + τ1 -> αAl3Y + fcc_A1 |  | model | [1] Hu 2018 | Table 5, p. 6, row 32 |  |
-| 914 | U: Liquid + τ1 -> αAl3Y + fcc_A1 |  | model | [1] Hu 2018 | Table 8, p. 11, row 15 |  |
+| 914 | quasi-peritectic: Liquid + τ1 -> αAl3Y + fcc_A1 |  | model | [1] Hu 2018 | Table 8, p. 11, row 15 |  |
 | 913 | Liquid + fcc_A1 + αAl3Y/fcc_A1 + αAl3Y |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 23 |  |
 | 913 | Liquid + fcc_A1 + αAl3Y/fcc_A1 + αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 24 |  |
 | 912 | Liquid + Al3Sc -> fcc_A1 + τ1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 7 |  |
 | 911 | Liquid + τ1 -> αAl3Y + fcc_A1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 14 |  |
-| 911 | Liquid + τ1 -> αAl3Y + fcc_A1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 31 |  |
 | 882 | Al2Y + Al3Sc + Al2Sc/Al2Y + Al3Sc |  | model | [1] Hu 2018 | Table 5, p. 6, row 38 |  |
 | 843 | Al2Y3 + Al3Y5/Al2Y3 + Al3Y5 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 74 |  |
 | 813 | Al2Y3 + Al3Y5 + AlY2/Al2Y3 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 75 |  |

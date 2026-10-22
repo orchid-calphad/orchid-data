@@ -26,14 +26,14 @@ Table: Invariant reactions reported in the literature for the Ca–Li–Na syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 648.4 | III: Liquid1 + liquid2 + bcc(Ca) -> fcc(Ca) | Liquid1: Ca 0.55467, Li 0.40843; liquid2: Ca 0.02915, Li 0.03553; bcc(Ca): Ca 0.00919, Li 0.07767; fcc(Ca): Ca 0.00938, Li 0.0596 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 1 |  |
-| 648.4 | II: Liquid2 + bcc(Ca) -> fcc(Ca) + liquid1 | Liquid2: Ca 0.02915, Li 0.03553; bcc(Ca): Ca 0.00919, Li 0.07767; fcc(Ca): Ca 0.00938, Li 0.0596; liquid1: Ca 0.55467, Li 0.40843 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 2 |  |
-| 503.3 | I: Liquid1 -> fcc(Ca) + CaLi2 + liquid2 | Liquid1: Ca 0.4187, Li 0.56827; fcc(Ca): Ca 0.90507, Li 0.09418; CaLi2: Ca 0.33333, Li 0.66667; liquid2: Ca 3.460e-4, Li 0.03853 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 3 |  |
-| 503.3 | II: Liquid2 + liquid1 -> fcc(Ca) + CaLi2 | Liquid2: Ca 3.460e-4, Li 0.03853; liquid1: Ca 0.4187, Li 0.56827; fcc(Ca): Ca 0.90507, Li 0.09418; CaLi2: Ca 0.33333, Li 0.66667 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 4 |  |
-| 415 | II: Liquid2 + liquid1 -> bcc(Li) + CaLi2 | Liquid2: Li 0.0709; liquid1: Ca 0.06343, Li 0.92035; bcc(Li): Ca 0.01401, Li 0.98335; CaLi2: Ca 0.33333, Li 0.66667 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 6 |  |
-| 415 | I: Liquid1 -> bcc(Li) + CaLi2 + liquid2 | Liquid1: Ca 0.06343, Li 0.92035; bcc(Li): Ca 0.01401, Li 0.98335; CaLi2: Ca 0.33333, Li 0.66667; liquid2: Li 0.0709 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 5 |  |
-| 368.5 | II: Liquid2 + fcc(Ca) -> bcc(Na) + CaLi2 | Liquid2: Li 0.00689; fcc(Ca): Ca 0.97337, Li 0.02658; bcc(Na): Li 0.00121; CaLi2: Ca 0.33333, Li 0.66667 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 7 |  |
-| 359.7 | II: Liquid2 + CaLi2 -> bcc(Na) + bcc(Li) | Liquid2: Li 0.03525; CaLi2: Ca 0.33333, Li 0.66667; bcc(Na): Li 0.00496; bcc(Li): Li 0.50054 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 8 |  |
+| 648.4 | peritectic: Liquid1 + liquid2 + bcc(Ca) -> fcc(Ca) | Liquid1: Ca 0.55467, Li 0.40843; liquid2: Ca 0.02915, Li 0.03553; bcc(Ca): Ca 0.00919, Li 0.07767; fcc(Ca): Ca 0.00938, Li 0.0596 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 1 |  |
+| 648.4 | quasi-peritectic: Liquid2 + bcc(Ca) -> fcc(Ca) + liquid1 | Liquid2: Ca 0.02915, Li 0.03553; bcc(Ca): Ca 0.00919, Li 0.07767; fcc(Ca): Ca 0.00938, Li 0.0596; liquid1: Ca 0.55467, Li 0.40843 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 2 |  |
+| 503.3 | eutectic: Liquid1 -> fcc(Ca) + CaLi2 + liquid2 | Liquid1: Ca 0.4187, Li 0.56827; fcc(Ca): Ca 0.90507, Li 0.09418; CaLi2: Ca 0.33333, Li 0.66667; liquid2: Ca 3.460e-4, Li 0.03853 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 3 |  |
+| 503.3 | quasi-peritectic: Liquid2 + liquid1 -> fcc(Ca) + CaLi2 | Liquid2: Ca 3.460e-4, Li 0.03853; liquid1: Ca 0.4187, Li 0.56827; fcc(Ca): Ca 0.90507, Li 0.09418; CaLi2: Ca 0.33333, Li 0.66667 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 4 |  |
+| 415 | quasi-peritectic: Liquid2 + liquid1 -> bcc(Li) + CaLi2 | Liquid2: Li 0.0709; liquid1: Ca 0.06343, Li 0.92035; bcc(Li): Ca 0.01401, Li 0.98335; CaLi2: Ca 0.33333, Li 0.66667 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 6 |  |
+| 415 | eutectic: Liquid1 -> bcc(Li) + CaLi2 + liquid2 | Liquid1: Ca 0.06343, Li 0.92035; bcc(Li): Ca 0.01401, Li 0.98335; CaLi2: Ca 0.33333, Li 0.66667; liquid2: Li 0.0709 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 5 |  |
+| 368.5 | quasi-peritectic: Liquid2 + fcc(Ca) -> bcc(Na) + CaLi2 | Liquid2: Li 0.00689; fcc(Ca): Ca 0.97337, Li 0.02658; bcc(Na): Li 0.00121; CaLi2: Ca 0.33333, Li 0.66667 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 7 |  |
+| 359.7 | quasi-peritectic: Liquid2 + CaLi2 -> bcc(Na) + bcc(Li) | Liquid2: Li 0.03525; CaLi2: Ca 0.33333, Li 0.66667; bcc(Na): Li 0.00496; bcc(Li): Li 0.50054 | unspecified | [1] Zhang 2003 | Table 6, p. 6, row 8 |  |
 
 ## Sources
 

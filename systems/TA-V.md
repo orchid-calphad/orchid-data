@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/TA-V.html · Markdown: https://data.orchid-project.org/systems/TA-V.md
 
-140 accepted literature values from 2 paper(s) (experimental 45, model 9, DFT 86); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+140 accepted literature values from 2 paper(s) (experimental 45, model 9, DFT 86); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TA-V.json) · [CSV](https://data.orchid-project.org/systems/TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TA-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-V/TaV-04Dan-LB.json) · [Markdown](https://data.orchid-project.org/systems/TA-V.md)
 
@@ -83,16 +83,16 @@ Table: Phase transition, Ta–V system
 | Phase transition | 1574 K | 1574 | congruent transformation: bcc \<-> C15; _bcc: V 0.667; C15: V 0.667_ | model | [1] Danon 2004; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990004-4) | Table 3, p. 6, row 14 |  |
 | Phase transition | 1583 K | 1583 | congruent transformation: bcc \<-> C15; _bcc: V 0.67; C15: V 0.67_ | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 3, p. 6, row 13 |  |
 | Phase transition | 1593 K | 1593 | congruent transformation: bcc \<-> C15; _bcc: V 0.67; C15: V 0.67_ | experimental | [1] Danon 2004; _cites Carlson 1959_ | Table 3, p. 6, row 12 |  |
-| Phase transition | 1693 K | 1693 | congruent | experimental | [1] Danon 2004; _cites Eremenko 1962_ | p. 2 | “The phase diagram displays an eutectoid decomposition of the C14 phase in the V-rich side at 1398 K, a (C15 + C14) two-phase field from 1398 up to 1553 K, a peritectoid decomposition in the Ta-rich side at 1553 K and the congruent transformation of the high-temperature C14 structure at 1693 K, this last value being taken directly from \[11\].” |
+| Phase transition | 1693 K | 1693 | congruent transformation | experimental | [1] Danon 2004; _cites Eremenko 1962_ | p. 2 | “The phase diagram displays an eutectoid decomposition of the C14 phase in the V-rich side at 1398 K, a (C15 + C14) two-phase field from 1398 up to 1553 K, a peritectoid decomposition in the Ta-rich side at 1553 K and the congruent transformation of the high-temperature C14 structure at 1693 K, this last value being taken directly from \[11\].” |
 | Phase transition | 1693 K | 1693 | congruent transformation: bcc \<-> C14; _bcc: V 0.67_ | experimental | [1] Danon 2004; _cites Savitskii 1972_ | Table 3, p. 6, row 10 |  |
 | Phase transition | 1693 K | 1693 | congruent transformation: bcc \<-> C14; _bcc: V 0.67_ | experimental | [1] Danon 2004; _cites Eremenko 1962_ | Table 3, p. 6, row 9 |  |
 | Phase transition | 1702 K | 1702 | congruent transformation: bcc \<-> C14; _bcc: V 0.673_ | model | [1] Danon 2004 | Table 3, p. 6, row 11 |  |
-| Phase transition | 2093 K | 2093 | azeotropic melting minimum: Liquid \<-> bcc; _Liquid: V 0.892; bcc: V 0.892_ | experimental | [1] Danon 2004; _cites Carlson 1959_ | Table 3, p. 6, row 4 |  |
-| Phase transition | 2098 K | 2098 | azeotropic melting minimum: Liquid \<-> bcc; _Liquid: V 0.85; bcc: V 0.85_ | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 3, p. 6, row 3 |  |
-| Phase transition | 2099 K | 2099 | azeotropic melting minimum: Liquid \<-> bcc; _Liquid: V 0.871; bcc: V 0.871_ | model | [1] Danon 2004 | Table 3, p. 6, row 5 |  |
-| Phase transition | 2114 K | 2114 | azeotropic melting minimum: Liquid \<-> bcc; _Liquid: V 0.875; bcc: V 0.875_ | model | [1] Danon 2004 | Table 3, p. 6, row 6 |  |
-| Phase transition | 2153 K | 2153 | azeotropic melting minimum: Liquid \<-> bcc; _Liquid: V 0.89; bcc: V 0.89_ | experimental | [1] Danon 2004; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 3, p. 6, row 2 |  |
-| Phase transition | 2182.3 K | 2182.3 | azeotropic melting minimum: Liquid \<-> bcc; _Liquid: V 0.9735; bcc: V 0.9735_ | model | [1] Danon 2004; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 3, p. 6, row 1 |  |
+| Phase transition | 2093 K | 2093 | other: Liquid \<-> bcc; _Liquid: V 0.892; bcc: V 0.892_ | experimental | [1] Danon 2004; _cites Carlson 1959_ | Table 3, p. 6, row 4 |  |
+| Phase transition | 2098 K | 2098 | other: Liquid \<-> bcc; _Liquid: V 0.85; bcc: V 0.85_ | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 3, p. 6, row 3 |  |
+| Phase transition | 2099 K | 2099 | other: Liquid \<-> bcc; _Liquid: V 0.871; bcc: V 0.871_ | model | [1] Danon 2004 | Table 3, p. 6, row 5 |  |
+| Phase transition | 2114 K | 2114 | other: Liquid \<-> bcc; _Liquid: V 0.875; bcc: V 0.875_ | model | [1] Danon 2004 | Table 3, p. 6, row 6 |  |
+| Phase transition | 2153 K | 2153 | other: Liquid \<-> bcc; _Liquid: V 0.89; bcc: V 0.89_ | experimental | [1] Danon 2004; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 3, p. 6, row 2 |  |
+| Phase transition | 2182.3 K | 2182.3 | other: Liquid \<-> bcc; _Liquid: V 0.9735; bcc: V 0.9735_ | model | [1] Danon 2004; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 3, p. 6, row 1 |  |
 
 ### Mixing / partial (1)
 
@@ -100,7 +100,7 @@ Table: Mixing / partial, Ta–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | -1000 J/mol of atoms | 3373 | liquid | model | [1] Danon 2004 | p. 4 | “In addition, an enthalpy of mixing of the liquid of -1000 J/mol of atoms at 3373 K was fixed as input for the equiatomic alloy, using liquid Ta and V at the same temperature as reference states.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | -1 kJ/mol-atom | 3373 | liquid | model | [1] Danon 2004 | p. 4 | “In addition, an enthalpy of mixing of the liquid of -1000 J/mol of atoms at 3373 K was fixed as input for the equiatomic alloy, using liquid Ta and V at the same temperature as reference states.” |
 
 ### Crystal structure (119)
 
@@ -169,28 +169,28 @@ Table: Crystal structure, Ta–V system
 | lattice c a | 1.631 not_printed | 298.15 | C14 | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 2, p. 3, row 8 |  |
 | lattice c a | 1 not_printed | 298.15 | NM BCC Ta; _alloy: V 0_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
 | lattice c a | 1 not_printed | 298.15 | NM BCC V; _alloy: V 1_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
-| lattice vat | 1.355 10^7 pm^3 | 0 | C14; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 3 |  |
-| lattice vat | 1.78 10^7 pm^3 | 0 | C14; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 8 |  |
-| lattice vat | 1.489 10^7 pm^3 | 0 | C14; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 5 |  |
-| lattice vat | 1.673 10^7 pm^3 | 0 | C14; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 7 |  |
-| lattice vat | 1.771 10^7 pm^3 | 0 | C14; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 10 |  |
-| lattice vat | 1.861 10^7 pm^3 | 0 | C14; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 11 |  |
-| lattice vat | 1.786 10^7 pm^3 | 0 | C15; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 9 |  |
-| lattice vat | 1.862 10^7 pm^3 | 0 | C15; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 12 |  |
-| lattice vat | 1.489 10^7 pm^3 | 0 | C15; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 6 |  |
-| lattice vat | 1.358 10^7 pm^3 | 0 | C15; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 4 |  |
-| lattice vat | 1.489 10^7 pm^3 | 0 | C36; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 14 |  |
-| lattice vat | 1.862 10^7 pm^3 | 0 | C36; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 18 |  |
-| lattice vat | 1.357 10^7 pm^3 | 0 | C36; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 13 |  |
-| lattice vat | 1.674 10^7 pm^3 | 0 | C36; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 15 |  |
-| lattice vat | 1.784 10^7 pm^3 | 0 | C36; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 16 |  |
-| lattice vat | 1.771 10^7 pm^3 | 0 | C36; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 17 |  |
-| lattice vat | 1.812 10^7 pm^3 | 0 | NM BCC Ta; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 1, p. 3, row 4 |  |
-| lattice vat | 1.321 10^7 pm^3 | 0 | NM BCC V; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 1, p. 3, row 2 |  |
-| lattice vat | 1.44 10^7 pm^3 | 298.15 | C14; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 1 |  |
-| lattice vat | 1.527 10^7 pm^3 | 298.15 | C15; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 2 |  |
-| lattice vat | 1.8 10^7 pm^3 | 298.15 | NM BCC Ta; _alloy: V 0_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
-| lattice vat | 1.392 10^7 pm^3 | 298.15 | NM BCC V; _alloy: V 1_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
+| lattice v atom | 1.355 10^7 pm^3 | 0 | C14; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 3 |  |
+| lattice v atom | 1.78 10^7 pm^3 | 0 | C14; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 8 |  |
+| lattice v atom | 1.489 10^7 pm^3 | 0 | C14; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 5 |  |
+| lattice v atom | 1.673 10^7 pm^3 | 0 | C14; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 7 |  |
+| lattice v atom | 1.771 10^7 pm^3 | 0 | C14; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 10 |  |
+| lattice v atom | 1.861 10^7 pm^3 | 0 | C14; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 11 |  |
+| lattice v atom | 1.786 10^7 pm^3 | 0 | C15; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 9 |  |
+| lattice v atom | 1.862 10^7 pm^3 | 0 | C15; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 12 |  |
+| lattice v atom | 1.489 10^7 pm^3 | 0 | C15; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 6 |  |
+| lattice v atom | 1.358 10^7 pm^3 | 0 | C15; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 4 |  |
+| lattice v atom | 1.489 10^7 pm^3 | 0 | C36; _alloy: V 0.666667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 14 |  |
+| lattice v atom | 1.862 10^7 pm^3 | 0 | C36; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 18 |  |
+| lattice v atom | 1.357 10^7 pm^3 | 0 | C36; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 13 |  |
+| lattice v atom | 1.674 10^7 pm^3 | 0 | C36; _alloy: V 0.5_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 15 |  |
+| lattice v atom | 1.784 10^7 pm^3 | 0 | C36; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 16 |  |
+| lattice v atom | 1.771 10^7 pm^3 | 0 | C36; _alloy: V 0.166667_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 17 |  |
+| lattice v atom | 1.812 10^7 pm^3 | 0 | NM BCC Ta; _alloy: V 0_ | DFT | [2] Pavlů 2011 | Table 1, p. 3, row 4 |  |
+| lattice v atom | 1.321 10^7 pm^3 | 0 | NM BCC V; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 1, p. 3, row 2 |  |
+| lattice v atom | 1.44 10^7 pm^3 | 298.15 | C14; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 1 |  |
+| lattice v atom | 1.527 10^7 pm^3 | 298.15 | C15; _alloy: V 0.666667_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 2, p. 3, row 2 |  |
+| lattice v atom | 1.8 10^7 pm^3 | 298.15 | NM BCC Ta; _alloy: V 0_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
+| lattice v atom | 1.392 10^7 pm^3 | 298.15 | NM BCC V; _alloy: V 1_ | experimental | [2] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
 | site fractional coordinates |  | 0 | C14; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 3 |  |
 | site fractional coordinates |  | 0 | C14; _alloy: V 1_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 3 |  |
 | site fractional coordinates |  | 0 | C14; _alloy: V 0.333333_ | DFT | [2] Pavlů 2011 | Table 2, p. 3, row 8 |  |

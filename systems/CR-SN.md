@@ -55,10 +55,10 @@ Table: Invariant reactions reported in the literature for the Cr–Sn system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1758.15 | Critical Point: L -> L1 + L2 | L: Sn 0.395 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 1 |  |
-| 1647.15 | Monotectic: L2 -> L1 + CrBCC | L2: Sn 0.227; L1: Sn 0.555; CrBCC: Sn 0.02 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 2 |  |
-| 505.15 | Eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 88Ven_ | Table 1, p. 2, row 4 |  |
-| 505.15 | Eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 08Hin_ | Table 1, p. 2, row 3 |  |
+| 1758.15 | critical point: L -> L1 + L2 | L: Sn 0.395 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 1 |  |
+| 1647.15 | monotectic: L2 -> L1 + CrBCC | L2: Sn 0.227; L1: Sn 0.555; CrBCC: Sn 0.02 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 2 |  |
+| 505.15 | eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 88Ven_ | Table 1, p. 2, row 4 |  |
+| 505.15 | eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 08Hin_ | Table 1, p. 2, row 3 |  |
 
 ## Other properties
 

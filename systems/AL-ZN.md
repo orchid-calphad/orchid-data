@@ -59,25 +59,25 @@ Table: Invariant reactions reported in the literature for the Al–Zn system (41
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 658 | e: liq. \<-> hcp sol. +fcc sol. | fcc': Zn 0.67 | experimental | [1] Mathon 2000; _cites Ellwood 1952_ | Table 5, p. 15, row 3 |  |
-| 656.9 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.872; fcc': Zn 0.742; hcp: Zn 0.948 | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 15, row 12 |  |
+| 658 | eutectic: liq. \<-> hcp sol. +fcc sol. | fcc': Zn 0.67 | experimental | [1] Mathon 2000; _cites Ellwood 1952_ | Table 5, p. 15, row 3 |  |
+| 656.9 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.872; fcc': Zn 0.742; hcp: Zn 0.948 | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 15, row 12 |  |
 | 656.9 | L = fcc + hcp | L: Zn 0.872; fcc: Zn 0.742; hcp: Zn 0.948 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 2 |  |
-| 656 | e: liq. \<-> hcp sol. +fcc sol. |  | experimental | [1] Mathon 2000; _cites Aragon 1995_ | Table 5, p. 15, row 1 |  |
-| 655.1 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.882; fcc': Zn 0.67; hcp: Zn 0.966 | model | [1] Mathon 2000 | Table 5, p. 15, row 8 |  |
-| 655 | e: liq. \<-> hcp sol. +fcc sol. |  | experimental | [1] Mathon 2000; _cites Gayler 1938_ | Table 5, p. 15, row 5 |  |
-| 655 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8526 | experimental | [1] Mathon 2000; _cites Morinaga 1940_ | Table 5, p. 15, row 6 |  |
-| 654.8 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.888; fcc': Zn 0.667; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 15, row 14 |  |
+| 656 | eutectic: liq. \<-> hcp sol. +fcc sol. |  | experimental | [1] Mathon 2000; _cites Aragon 1995_ | Table 5, p. 15, row 1 |  |
+| 655.1 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.882; fcc': Zn 0.67; hcp: Zn 0.966 | model | [1] Mathon 2000 | Table 5, p. 15, row 8 |  |
+| 655 | eutectic: liq. \<-> hcp sol. +fcc sol. |  | experimental | [1] Mathon 2000; _cites Gayler 1938_ | Table 5, p. 15, row 5 |  |
+| 655 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8526 | experimental | [1] Mathon 2000; _cites Morinaga 1940_ | Table 5, p. 15, row 6 |  |
+| 654.8 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.888; fcc': Zn 0.667; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 15, row 14 |  |
 | 654.8 | L = fcc + hcp | L: Zn 0.888; fcc: Zn 0.667; hcp: Zn 0.975 | model | [2] Chen 1993 | Table 3, p. 4, row 3 |  |
-| 654.1 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.884; fcc': Zn 0.673; hcp: Zn 0.969 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 15, row 13 |  |
+| 654.1 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.884; fcc': Zn 0.673; hcp: Zn 0.969 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 15, row 13 |  |
 | 654 | eutectic: L=fcc+hcp |  | model | [2] Chen 1993 | p. 1 | “There exist three invariant equilibria in the AlZn system. They are the eutectic equilibrium, L=fcc+hcp. at 654K, the critical point for phase separation of the fee phase, fcc=fcci+fccz, at 624.5K, and the monotectoid equilibrium,” |
-| 654 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.887; fcc': Zn 0.67; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 15, row 9 |  |
+| 654 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.887; fcc': Zn 0.67; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 15, row 9 |  |
 | 654 | L = fcc + hcp | L: Zn 0.887; fcc: Zn 0.67; hcp: Zn 0.972 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 1 |  |
-| 654 | Eutectic: Liquid -> fcc-A1 + hcp-A3 | L: Zn 0.884; fcc-A1: Zn 0.673; hcp-A3: Zn 0.969 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 1 |  |
-| 653.7 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.87; fcc': Zn 0.734; hcp: Zn 0.975 | model | [1] Mathon 2000 | Table 5, p. 15, row 11 |  |
-| 653.6 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.877 | experimental | [1] Mathon 2000; _cites Heycock 1897_ [doi](https://doi.org/10.1039/ct8977100383) | Table 5, p. 15, row 7 |  |
-| 653 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8869; hcp: Zn 0.971 | experimental | [1] Mathon 2000; _cites Pelzel 1943_ | Table 5, p. 15, row 4 |  |
-| 651.6 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.886; fcc': Zn 0.745; hcp: Zn 0.977 | model | [1] Mathon 2000 | Table 5, p. 15, row 10 |  |
-| 651 | e: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.9 | experimental | [1] Mathon 2000; _cites Velisek 1975_ | Table 5, p. 15, row 2 |  |
+| 654 | eutectic: Liquid -> fcc-A1 + hcp-A3 | L: Zn 0.884; fcc-A1: Zn 0.673; hcp-A3: Zn 0.969 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 1 |  |
+| 653.7 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.87; fcc': Zn 0.734; hcp: Zn 0.975 | model | [1] Mathon 2000 | Table 5, p. 15, row 11 |  |
+| 653.6 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.877 | experimental | [1] Mathon 2000; _cites Heycock 1897_ [doi](https://doi.org/10.1039/ct8977100383) | Table 5, p. 15, row 7 |  |
+| 653 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8869; hcp: Zn 0.971 | experimental | [1] Mathon 2000; _cites Pelzel 1943_ | Table 5, p. 15, row 4 |  |
+| 651.6 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.886; fcc': Zn 0.745; hcp: Zn 0.977 | model | [1] Mathon 2000 | Table 5, p. 15, row 10 |  |
+| 651 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.9 | experimental | [1] Mathon 2000; _cites Velisek 1975_ | Table 5, p. 15, row 2 |  |
 | 624.5 | fcc = fcc1 + fcc2 | fcc: Zn 0.395 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 7 |  |
 | 622.3 | fcc = fcc1 + fcc2 | fcc: Zn 0.344 | model | [2] Chen 1993 | Table 3, p. 4, row 9 |  |
 | 611.2 | fcc = fcc1 + fcc2 | fcc: Zn 0.362 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 8 |  |
@@ -91,7 +91,7 @@ Table: Invariant reactions reported in the literature for the Al–Zn system (41
 | 550.7 | fcc2 = fcc1 + hcp | fcc2: Zn 0.592; fcc1: Zn 0.145; hcp: Zn 0.985 | model | [2] Chen 1993 | Table 3, p. 4, row 6 |  |
 | 550.7 | fcc + fcc' + hcp | fcc: Zn 0.145; fcc': Zn 0.592; hcp: Zn 0.985 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 16, row 9 |  |
 | 550.4 | fcc + fcc' + hcp | fcc: Zn 0.141; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 16, row 8 |  |
-| 550.4 | Monotectic: fcc-A1' -> fcc-A1" + hcp-A3 | fcc-A1': Zn 0.59; fcc-A1": Zn 0.141; hcp-A3: Zn 0.984 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 2 |  |
+| 550.4 | monotectic: fcc-A1' -> fcc-A1" + hcp-A3 | fcc-A1': Zn 0.59; fcc-A1": Zn 0.141; hcp-A3: Zn 0.984 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 2 |  |
 | 550 | fcc2 = fcc1 + hcp | fcc2: Zn 0.59; fcc1: Zn 0.165; hcp: Zn 0.984 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 4 |  |
 | 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. | fcc': Zn 0.6 | experimental | [1] Mathon 2000; _cites Borelius 1948_ | Table 5, p. 15, row 20 |  |
 | 550 | fcc + fcc' + hcp | fcc: Zn 0.165; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 16, row 4 |  |

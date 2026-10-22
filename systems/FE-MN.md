@@ -89,24 +89,24 @@ Table: Invariant reactions reported in the literature for the Fe–Mn system (22
 | 1748.5 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.1; fcc-A1: Mn 0.102; liquid: Mn 0.139 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 10 |  |
 | 1747 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.1; fcc-A1: Mn 0.101; liquid: Mn 0.129 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 9 |  |
 | 1747 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.096; fcc-A1: Mn 0.102; liquid: Mn 0.13 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 7 |  |
-| 1746.8 | Peritectic: Liquid + bcc-A2 -> fcc-A1 | L: Mn 0.1; bcc-A2: Mn 0.129; fcc-A1: Mn 0.129 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 3 |  |
+| 1746.8 | peritectic: Liquid + bcc-A2 -> fcc-A1 | L: Mn 0.1; bcc-A2: Mn 0.129; fcc-A1: Mn 0.129 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 3 |  |
 | 1746 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.101; fcc-A1: Mn 0.102; liquid: Mn 0.13 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 8 |  |
 | 1509.6 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.878; fcc-A1: Mn 0.868; liquid: Mn 0.877 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 14 |  |
 | 1508 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.912; fcc-A1: Mn 0.903; liquid: Mn 0.909 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 12 |  |
-| 1507.2 | Peritectic: Liquid + bcc-A2 -> fcc-A1 | L: Mn 0.867; bcc-A2: Mn 0.877; fcc-A1: Mn 0.875 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 4 |  |
+| 1507.2 | peritectic: Liquid + bcc-A2 -> fcc-A1 | L: Mn 0.867; bcc-A2: Mn 0.877; fcc-A1: Mn 0.875 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 4 |  |
 | 1507 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.87; fcc-A1: Mn 0.864; liquid: Mn 0.867 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 11 |  |
 | 1507 | peritectic: liquid + bcc-A2 -> fcc-A1 | bcc-A2: Mn 0.877; fcc-A1: Mn 0.875; liquid: Mn 0.867 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 13 |  |
-| 1433.2 | congruent point: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.854; cub-A13: Mn 0.854 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 18 |  |
-| 1429 | congruent point: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.87; cub-A13: Mn 0.87 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 15 |  |
-| 1429 | congruent point: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.864; cub-A13: Mn 0.864 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 17 |  |
-| 1429 | congruent point: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.863; cub-A13: Mn 0.863 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 16 |  |
+| 1433.2 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.854; cub-A13: Mn 0.854 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 18 |  |
+| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.87; cub-A13: Mn 0.87 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 15 |  |
+| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.864; cub-A13: Mn 0.864 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 17 |  |
+| 1429 | congruent transformation: fcc-A1 -> cub-A13 | fcc-A1: Mn 0.863; cub-A13: Mn 0.863 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 16 |  |
 | 973.5 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.67; fcc-A1: Mn 0.592; bcc-A12: Mn 0.679 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 4 |  |
-| 973.2 | Eutectoid: cub-A13 -> fcc-A1 + cbcc-A12 | cub-A13: Mn 0.681; fcc-A1: Mn 0.606; cbcc-A12: Mn 0.69 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 1 |  |
+| 973.2 | eutectoid: cub-A13 -> fcc-A1 + cbcc-A12 | cub-A13: Mn 0.681; fcc-A1: Mn 0.606; cbcc-A12: Mn 0.69 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 1 |  |
 | 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.701; fcc-A1: Mn 0.59; bcc-A12: Mn 0.703 | model | [1] Witusiewicz 2004; _cites Huang 1987_ | Table 2, p. 3, row 2 |  |
 | 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.681; fcc-A1: Mn 0.606; bcc-A12: Mn 0.69 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 3 |  |
 | 973 | eutectoid: cub-A13 -> fcc-A1 + bcc-A12 | cub-A13: Mn 0.66; fcc-A1: Mn 0.62; bcc-A12: Mn 0.68 | experimental | [1] Witusiewicz 2004; _cites Hellawell 1956_ | Table 2, p. 3, row 1 |  |
 | 528 | eutectoid: fcc-A1 -> bcc-A2 + bcc-A12 | fcc-A1: Mn 0.431; bcc-A2: Mn 0.022; bcc-A12: Mn 0.647 | model | [1] Witusiewicz 2004 | Table 2, p. 3, row 6 |  |
-| 521.3 | Eutectoid: fcc-A1 -> bcc-A2 + cbcc-A12 | fcc-A1: Mn 0.436; bcc-A2: Mn 0.033; cbcc-A12: Mn 0.659 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 2 |  |
+| 521.3 | eutectoid: fcc-A1 -> bcc-A2 + cbcc-A12 | fcc-A1: Mn 0.436; bcc-A2: Mn 0.033; cbcc-A12: Mn 0.659 | model | [2] Hämäläinen 1998 | Table I, p. 215, row 2 |  |
 | 521 | eutectoid: fcc-A1 -> bcc-A2 + bcc-A12 | fcc-A1: Mn 0.436; bcc-A2: Mn 0.033; bcc-A12: Mn 0.659 | model | [1] Witusiewicz 2004; _cites ref. 1989Hua_ | Table 2, p. 3, row 5 |  |
 
 ## Formation enthalpies

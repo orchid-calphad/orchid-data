@@ -83,9 +83,9 @@ Table: Phase transition, C–W system
 | Phase transition | 2700 K | 2700 |  | model | [1] Gustafson 1986 | p. 4 | “Figure 4 shows a comparison between the calculated phase diagram and some experimental information from Rudy and coworkers, 5.7 Rudy 7 showing a phase transformation in W 2C at about 2700 K.” |
 | Phase transition | 2750 K | 2750 |  | experimental | [1] Gustafson 1986; _cites ref. 7_ | p. 3 | “The W2C transforms at about 2750 K into an orthorhombic structure, .with a lower maximum solubility of carbon.” |
 | Phase transition | 2800 K | 2800 |  | model | [1] Gustafson 1986 | p. 3 | “The temperature for the eutectoid decomposition of WC into W 2C and WC is placed at 2800 ± 20 K according to Rudy et al.5 in good agreement with the results of Sara.” |
-| Phase transition | 3020 K | 3020 | congruent | experimental | [1] Gustafson 1986 | p. 3 | “Rudy et al. show peritectic melting of WC at 3049 ± 4 K in contact with graphite while WC1-x melts congruently at 3020± 12 K.” |
+| Phase transition | 3020 K | 3020 | congruent transformation | experimental | [1] Gustafson 1986 | p. 3 | “Rudy et al. show peritectic melting of WC at 3049 ± 4 K in contact with graphite while WC1-x melts congruently at 3020± 12 K.” |
 | Phase transition | 3028 K | 3028 |  | experimental | [1] Gustafson 1986; _cites ref. 6_ | p. 3 | “Sara suggests a phase transformation at 3028 K from stoichiometric simple hexagonal WC to non-stoichiometric fcc WC1-x, before peritectic melting occurs at 3058 K.” |
-| Phase transition | 3049 K | 3049 | congruent | experimental | [1] Gustafson 1986 | p. 3 | “The temperature for the congruent melting of W 2C was placed at 3049 ± 12 K according to Rudy et al., although Sara reported a higher temperature.” |
+| Phase transition | 3049 K | 3049 | congruent transformation | experimental | [1] Gustafson 1986 | p. 3 | “The temperature for the congruent melting of W 2C was placed at 3049 ± 12 K according to Rudy et al., although Sara reported a higher temperature.” |
 
 ### Heat capacity / entropy / enthalpy (4)
 

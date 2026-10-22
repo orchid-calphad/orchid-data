@@ -1,16 +1,16 @@
 # Al4Cr: enthalpy of formation
 
-> Enthalpy of formation of Al4Cr: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al4Cr: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al4Cr.html · Markdown: https://data.orchid-project.org/compounds/Al4Cr.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 3, model 3); experimental median -17.154 kJ/mol-atom (n = 3); OQMD -6.536 kJ/mol-atom (oqmd-2163960).
+5 accepted literature formation-enthalpy value(s) (experimental 3, model 2); experimental median -17.154 kJ/mol-atom (n = 3); OQMD -6.536 kJ/mol-atom (oqmd-2163960).
 
 Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) · [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al4Cr reported in the literature (6)
+Table: Enthalpy of formation of Al4Cr reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -18,7 +18,6 @@ Table: Enthalpy of formation of Al4Cr reported in the literature (6)
 | -17.154 kJ/mol-atom | Al4Cr | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 3 |  |
 | -17.15 kJ/mol-atom | Al4Cr | 1273.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5 |  |
 | -17.68 kJ/mol-atom | Al4Cr | 1273.15 | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986 | Table 1, p. 4, row 6 |  |
-| -17.677 kJ/mol-atom | Al4Cr | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 3 |  |
 | -17.677 kJ/mol-atom | Al4Cr | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 3 |  |
 
 ## DFT formation energies

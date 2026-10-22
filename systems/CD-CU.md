@@ -53,23 +53,23 @@ Table: Invariant reactions reported in the literature for the Cd–Cu system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 840 | Congruent: L->Cu5Cd8 | L: Cd 0.6154; Cu5Cd8: Cd 0.6154 | model | [1] CHEN 2010 | Table 2, p. 3, row 8 |  |
-| 836 | Congruent: L->Cu5Cd8 | L: Cd 0.6154; Cu5Cd8: Cd 0.6154 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 7 |  |
-| 822 | Peritectic: L+(Cu)->Cu2Cd | L: Cd 0.444; (Cu): Cd 0.0207; Cu2Cd: Cd 0.3333 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 1 |  |
-| 822 | Peritectic: L+(Cu)->Cu2Cd | L: Cd 0.4462; (Cu): Cd 0.0218; Cu2Cd: Cd 0.3333 | model | [1] CHEN 2010 | Table 2, p. 3, row 2 |  |
-| 821 | Peritectic: L+Cu2Cd->Cu4Cd3 | L: Cd 0.4486; Cu2Cd: Cd 0.3333; Cu4Cd3: Cd 0.4286 | model | [1] CHEN 2010 | Table 2, p. 3, row 4 |  |
-| 820.7 | Eutectic: L->Cu4Cd3+Cu5Cd8 | L: Cd 0.4633; Cu4Cd3: Cd 0.4286; Cu5Cd8: Cd 0.5403 | model | [1] CHEN 2010 | Table 2, p. 3, row 6 |  |
+| 840 | congruent melting: L->Cu5Cd8 | L: Cd 0.6154; Cu5Cd8: Cd 0.6154 | model | [1] CHEN 2010 | Table 2, p. 3, row 8 |  |
+| 836 | congruent melting: L->Cu5Cd8 | L: Cd 0.6154; Cu5Cd8: Cd 0.6154 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 7 |  |
+| 822 | peritectic: L+(Cu)->Cu2Cd | L: Cd 0.444; (Cu): Cd 0.0207; Cu2Cd: Cd 0.3333 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 1 |  |
+| 822 | peritectic: L+(Cu)->Cu2Cd | L: Cd 0.4462; (Cu): Cd 0.0218; Cu2Cd: Cd 0.3333 | model | [1] CHEN 2010 | Table 2, p. 3, row 2 |  |
+| 821 | peritectic: L+Cu2Cd->Cu4Cd3 | L: Cd 0.4486; Cu2Cd: Cd 0.3333; Cu4Cd3: Cd 0.4286 | model | [1] CHEN 2010 | Table 2, p. 3, row 4 |  |
+| 820.7 | eutectic: L->Cu4Cd3+Cu5Cd8 | L: Cd 0.4633; Cu4Cd3: Cd 0.4286; Cu5Cd8: Cd 0.5403 | model | [1] CHEN 2010 | Table 2, p. 3, row 6 |  |
 | 820.15 | peritectic: (Cu)+Liquid ⇔ β |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2 | “The peritectic temperature was confirmed at 547 °C by JENKINS and HANSON\[6\], SULONEN\[10\] and GLAZOV et al \[11\] through thermal, lattice parameter, and microhardness measurements, respectively.” |
 | 820.15 | peritectic: L+β ⇔ γ |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2 | “JENKINS and HANSON\[6\] also reported the peritectic reaction L+β ⇔ γ, which was described as 44.8% Cd of liquid at 547 °C.” |
-| 820 | Peritectic: L+Cu2Cd->Cu4Cd3 | L: Cd 0.448; Cu2Cd: Cd 0.3333; Cu4Cd3: Cd 0.4286 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 3 |  |
+| 820 | peritectic: L+Cu2Cd->Cu4Cd3 | L: Cd 0.448; Cu2Cd: Cd 0.3333; Cu4Cd3: Cd 0.4286 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 3 |  |
 | 817.15 | eutectic |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2 | “He also reported the eutectic points near pure Cd and in the central part of the phase diagram, which was 314 °C, 97.9% Cd and 544 °C, 47.3% Cd respectively.” |
-| 817 | Eutectic: L->Cu4Cd3+Cu5Cd8 | L: Cd 0.473; Cu4Cd3: Cd 0.429; Cu5Cd8: Cd 0.522 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 5 |  |
+| 817 | eutectic: L->Cu4Cd3+Cu5Cd8 | L: Cd 0.473; Cu4Cd3: Cd 0.429; Cu5Cd8: Cd 0.522 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 5 |  |
 | 670.15 | peritectic: L+δ ⇔ ε |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2 | “The peritectic reaction L+δ ⇔ ε was first reported by JENKINS and HANSON\[6\], who showed that ε-phase forms at 397 °C and 92.7% Cd of liquid.” |
-| 670 | Peritectic: L+Cu5Cd8->Cu3Cd10 | L: Cd 0.9564; Cu5Cd8: Cd 0.6547; Cu3Cd10: Cd 0.7692 | model | [1] CHEN 2010 | Table 2, p. 3, row 10 |  |
-| 670 | Peritectic: L+Cu5Cd8->Cu3Cd10 | L: Cd 0.927; Cu5Cd8: Cd 0.66; Cu3Cd10: Cd 0.764 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 9 |  |
-| 590 | Eutectic: L->Cu3Cd10 +(Cd) | L: Cd 0.9897; Cu3Cd10: Cd 0.7692; (Cd): Cd 0.9978 | model | [1] CHEN 2010 | Table 2, p. 3, row 12 |  |
+| 670 | peritectic: L+Cu5Cd8->Cu3Cd10 | L: Cd 0.9564; Cu5Cd8: Cd 0.6547; Cu3Cd10: Cd 0.7692 | model | [1] CHEN 2010 | Table 2, p. 3, row 10 |  |
+| 670 | peritectic: L+Cu5Cd8->Cu3Cd10 | L: Cd 0.927; Cu5Cd8: Cd 0.66; Cu3Cd10: Cd 0.764 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 9 |  |
+| 590 | eutectic: L->Cu3Cd10 +(Cd) | L: Cd 0.9897; Cu3Cd10: Cd 0.7692; (Cd): Cd 0.9978 | model | [1] CHEN 2010 | Table 2, p. 3, row 12 |  |
 | 587.15 | eutectic |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2 | “He also reported the eutectic points near pure Cd and in the central part of the phase diagram, which was 314 °C, 97.9% Cd and 544 °C, 47.3% Cd respectively.” |
-| 587 | Eutectic: L->Cu3Cd10 +(Cd) | L: Cd 0.979; Cu3Cd10: Cd 0.768; (Cd): Cd 0.998 | unspecified | [1] CHEN 2010; _cites ref. 2_ | Table 2, p. 3, row 11 |  |
+| 587 | eutectic: L->Cu3Cd10 +(Cd) | L: Cd 0.979; Cu3Cd10: Cd 0.768; (Cd): Cd 0.998 | unspecified | [1] CHEN 2010; _cites ref. 2_ | Table 2, p. 3, row 11 |  |
 
 ## Other properties
 
@@ -79,7 +79,7 @@ Table: Phase transition, Cd–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 836.15 K | 836.15 | congruent | experimental | [1] CHEN 2010; _cites ref. 5_ | p. 2 | “SAHMEN et al\[5\] and JENKINS and HANSON\[6\] reported the congruent formation of δ at 563 °C.” |
+| Phase transition | 836.15 K | 836.15 | congruent transformation | experimental | [1] CHEN 2010; _cites ref. 5_ | p. 2 | “SAHMEN et al\[5\] and JENKINS and HANSON\[6\] reported the congruent formation of δ at 563 °C.” |
 
 ## Sources
 

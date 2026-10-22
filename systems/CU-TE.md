@@ -1,10 +1,10 @@
 # Cu–Te system
 
-> Cu–Te system: 193 accepted literature values (phase transition 85, invariant reaction 78, phase equilibrium 26, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Te system: 192 accepted literature values (phase transition 85, invariant reaction 78, phase equilibrium 25, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-TE.html · Markdown: https://data.orchid-project.org/systems/CU-TE.md
 
-193 accepted literature values from 3 paper(s) (experimental 141, model 45, unspecified 7); 3 calculated phase diagram(s).
+192 accepted literature values from 3 paper(s) (experimental 140, model 45, unspecified 7); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TE.json) · [CSV](https://data.orchid-project.org/systems/CU-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TE/CuTe-21Hua.json) · [Markdown](https://data.orchid-project.org/systems/CU-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 141 |
+| experimental | 140 |
 | model | 45 |
 | unspecified | 7 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 78 |
 | phase transition | 85 |
-| phase equilibrium | 26 |
+| phase equilibrium | 25 |
 | activity / EMF / Gibbs energy | 4 |
 
 ## Calculated phase diagrams
@@ -248,7 +248,7 @@ Table: Phase transition, Cu–Te system
 | Phase transition | 600.15 K | 600.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 27 |  |
 | Phase transition | 601.4 K | 601.4 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 70 |  |
 | Phase transition | 613 K | 613 |  | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 2 | “Some works reported that a crystallographic transformation of CuTe exists at 613 K.\[20,31,39\]” |
-| Phase transition | 613.15 K | 613.15 | crystallographic | experimental | [1] Huang 2021; _cites Koneshova 2001_ | p. 2 | “CuTe exhibits an orthorhombic structure from room temperature up to the decomposition temperature in Ref. \[14\], whilst ref. \[15\] Shows that it undergoes a crystallographic transformation at 340 C.” |
+| Phase transition | 613.15 K | 613.15 | other | experimental | [1] Huang 2021; _cites Koneshova 2001_ | p. 2 | “CuTe exhibits an orthorhombic structure from room temperature up to the decomposition temperature in Ref. \[14\], whilst ref. \[15\] Shows that it undergoes a crystallographic transformation at 340 C.” |
 | Phase transition | 620.45 K | 620.45 | CuTe | experimental | [1] Huang 2021 | p. 6 | “The first and second exothermic peaks at 347.3 and 350.7  C in the 1  C∙min1 curve are probably corresponding to the highe and lowetemperature modifications of CuTe and the eutectic reaction of L 4 HeCuTe þ (Te) respectively.” |
 | Phase transition | 625.15 K | 625.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 28 |  |
 | Phase transition | 625.95 K | 625.95 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17 | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
@@ -283,14 +283,13 @@ Table: Phase transition, Cu–Te system
 | Phase transition | 1150.85 K | 1150.85 |  | model | [3] Hutabalian 2023; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 17 | “Cu2Te has five solid-state phase transitions at 186.7, 308.5, 352.8, 601.4, and 877.7 C and were denoted as a-b, b-c, c-d, d-e and e-f transformations, respectively.\[24\]” |
 | Phase transition | 1479.15 K | 1479.15 | other | experimental | [1] Huang 2021; _cites Koneshova 2001_ | p. 2 | “the critical point of the immiscibility dome was found to lie at 17.5 at. % Te and 1206 C \[15\], but tend to appear at higher temperatures in the work of Azakami and Yazawa \[36\] and Burylev and Fedorova et al. \[37\].” |
 
-### Phase equilibrium (26)
+### Phase equilibrium (25)
 
 Table: Phase equilibrium, Cu–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase assemblage |  | 593.15 | (Cu) + Cu2Te; _alloy: Te 0_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 22 |  |
-| Phase assemblage |  | 593.15 | (Cu) + Cu2Te; _alloy: Te 0_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 26 |  |
 | Phase assemblage |  | 593.15 | Cu2Te + Cu4Te3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 32 |  |
 | Phase composition |  |  | (Cu) + Cu2Te; _(Cu): Cu 0.998, Te 0.002; Cu2Te: Cu 0.659, Te 0.341_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 19 |  |
 | Phase composition |  |  | (Cu) + Cu2Te; _(Cu): Cu 0.999, Te 0.001; Cu2Te: Cu 0.665, Te 0.335_ | experimental | [1] Huang 2021 | Table 2, p. 3, row 23 |  |

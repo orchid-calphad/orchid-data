@@ -118,46 +118,46 @@ Table: Invariant reactions reported in the literature for the Sn–Zr system (40
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2265 | congruent: η \<-> Liq | η: Sn 0.398 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 12 |  |
-| 2263 | congruent: η \<-> Liq | η: Sn 0.412 | unspecified | [1] Pérez 2008; _cites Kwon 1990_ [doi](https://doi.org/10.1021/cm00007a005) | Table 5, p. 8, row 11 |  |
-| 2261 | congruent: L = Zr5Sn3 | L: Sn 0.375, Zr 0.625; Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 12 |  |
-| 2260 | congruent: L = Zr5Sn3 | Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 11 |  |
-| 2258 | congruent: η \<-> Liq | η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 10 |  |
-| 2245 | Congruent: Liquid -> Sn3Zr5 | Liquid: Zr 0.625; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 6 |  |
-| 2128 | congruent: L = β Zr | β Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 13 |  |
-| 2128 | congruent: L = β Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 14 |  |
-| 1868.5 | Eutectic: Liquid -> bcc-A2 + Sn3Zr5 | Liquid: Zr 0.892; bcc-A2: Zr 0.844; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 1 |  |
+| 2265 | congruent melting: η \<-> Liq | η: Sn 0.398 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 12 |  |
+| 2263 | congruent melting: η \<-> Liq | η: Sn 0.412 | unspecified | [1] Pérez 2008; _cites Kwon 1990_ [doi](https://doi.org/10.1021/cm00007a005) | Table 5, p. 8, row 11 |  |
+| 2261 | congruent melting: L = Zr5Sn3 | L: Sn 0.375, Zr 0.625; Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 12 |  |
+| 2260 | congruent melting: L = Zr5Sn3 | Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 11 |  |
+| 2258 | congruent melting: η \<-> Liq | η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 10 |  |
+| 2245 | congruent melting: Liquid -> Sn3Zr5 | Liquid: Zr 0.625; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 6 |  |
+| 2128 | congruent melting: L = β Zr | β Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 13 |  |
+| 2128 | congruent melting: L = β Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 14 |  |
+| 1868.5 | eutectic: Liquid -> bcc-A2 + Sn3Zr5 | Liquid: Zr 0.892; bcc-A2: Zr 0.844; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 1 |  |
 | 1865 | eutectic: L = β Zr + Zr5Sn3 | Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 2 |  |
-| 1863 | Eutectic: Liq \<-> βZr + η | Liq: Sn 0.191; βZr: Sn 0.17; η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 1 |  |
-| 1859 | Eutectic: Liq \<-> βZr + η | Liq: Sn 0.19; βZr: Sn 0.171; η: Sn 0.381 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 2 |  |
+| 1863 | eutectic: Liq \<-> βZr + η | Liq: Sn 0.191; βZr: Sn 0.17; η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 1 |  |
+| 1859 | eutectic: Liq \<-> βZr + η | Liq: Sn 0.19; βZr: Sn 0.171; η: Sn 0.381 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 2 |  |
 | 1793 | eutectic: L = β Zr + Zr5Sn3 | L: Sn 0.191; β Zr: Sn 0.17; Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 1 |  |
 | 1600 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | Zr5Sn3: Sn 0.375, Zr 0.625; Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 4 |  |
-| 1598 | Peritectoid: βZr + η \<-> A15 | βZr: Sn 0.12; η: Sn 0.375; A15: Sn 0.2 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 3 |  |
-| 1596 | Peritectoid: βZr + η \<-> A15 | βZr: Sn 0.121; η: Sn 0.376; A15: Sn 0.205 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 4 |  |
-| 1595.5 | Peritectoid: bcc-A2 + Sn3Zr5 -> SnZr4 | bcc-A2: Zr 0.891; Sn3Zr5: Zr 0.625; SnZr4: Zr 0.8 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 2 |  |
+| 1598 | peritectoid: βZr + η \<-> A15 | βZr: Sn 0.12; η: Sn 0.375; A15: Sn 0.2 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 3 |  |
+| 1596 | peritectoid: βZr + η \<-> A15 | βZr: Sn 0.121; η: Sn 0.376; A15: Sn 0.205 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 4 |  |
+| 1595.5 | peritectoid: bcc-A2 + Sn3Zr5 -> SnZr4 | bcc-A2: Zr 0.891; Sn3Zr5: Zr 0.625; SnZr4: Zr 0.8 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 2 |  |
 | 1593 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | β Zr: Sn 0.118; Zr5Sn3: Sn 0.4; Zr4Sn: Sn 0.2 | model | [2] Subasic 1998 | Table 1, p. 3, row 3 |  |
-| 1433.3 | Peritectoid: Liquid + Sn3Zr5 -> Sn2Zr | Liquid: Zr 0.189; Sn3Zr5: Zr 0.625; Sn2Zr: Zr 0.333 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 4 |  |
+| 1433.3 | peritectoid: Liquid + Sn3Zr5 -> Sn2Zr | Liquid: Zr 0.189; Sn3Zr5: Zr 0.625; Sn2Zr: Zr 0.333 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 4 |  |
 | 1415 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.375, Zr 0.625; ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 6 |  |
-| 1413 | Peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.367; Liq: Sn 0.7896; ZrSn2: Sn 0.667 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 8 |  |
+| 1413 | peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.367; Liq: Sn 0.7896; ZrSn2: Sn 0.667 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 8 |  |
 | 1412 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.4; L: Sn 0.79; ZrSn2: Sn 0.666 | model | [2] Subasic 1998 | Table 1, p. 3, row 5 |  |
-| 1400 | Peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.443; Liq: Sn 0.7876; ZrSn2: Sn 0.667 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 9 |  |
+| 1400 | peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.443; Liq: Sn 0.7876; ZrSn2: Sn 0.667 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 9 |  |
 | 1255 | peritectoid: β Zr + Zr4Sn = α Zr | Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 8 |  |
-| 1254 | Peritectoid: bcc-A2 + SnZr4 -> hcp-A3 | bcc-A2: Zr 0.968; SnZr4: Zr 0.8; hcp-A3: Zr 0.941 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 3 |  |
-| 1253 | Peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.051; A15: Sn 0.2; αZr: Sn 0.071 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 5 |  |
+| 1254 | peritectoid: bcc-A2 + SnZr4 -> hcp-A3 | bcc-A2: Zr 0.968; SnZr4: Zr 0.8; hcp-A3: Zr 0.941 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 3 |  |
+| 1253 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.051; A15: Sn 0.2; αZr: Sn 0.071 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 5 |  |
 | 1252 | peritectoid: β Zr + Zr4Sn = α Zr | β Zr: Sn 0.049; Zr4Sn: Sn 0.2; α Zr: Sn 0.073 | model | [2] Subasic 1998 | Table 1, p. 3, row 7 |  |
 | 1216 | peritectoid: βZr + A15 ↔ αZr |  | experimental | [1] Pérez 2008 | p. 9 | “- The temperature of the peritectoid reaction βZr + A15 ↔ αZr was measured at 1216 K, 40 K below the previously reported values.” |
-| 1216 | Peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.045; A15: Sn 0.195; αZr: Sn 0.065 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 7 |  |
-| 1216 | Peritectoid: βZr + A15 \<-> αZr | A15: Sn 0.2, Zr 0.8 | experimental | [1] Pérez 2008 | Table 5, p. 8, row 6 |  |
+| 1216 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.045; A15: Sn 0.195; αZr: Sn 0.065 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 7 |  |
+| 1216 | peritectoid: βZr + A15 \<-> αZr | A15: Sn 0.2, Zr 0.8 | experimental | [1] Pérez 2008 | Table 5, p. 8, row 6 |  |
 | 1216 | peritectoid: A15 + βZr ↔ αZr |  | experimental | [1] Pérez 2008 | p. 5 | “However, we used the temperature of the peritectoid reaction A15 + βZr ↔ αZr determined in the present work, 1216 ± 5 K, which is 40◦ lower than the value reported in Ref. \[1\] and adopted in previous assessments.” |
-| 1136 | congruent: β Zr = α Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 16 |  |
-| 1136 | congruent: β Zr = α Zr | α Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 15 |  |
-| 505 | congruent: L = β Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 18 |  |
+| 1136 | congruent transformation: β Zr = α Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 16 |  |
+| 1136 | congruent transformation: β Zr = α Zr | α Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 15 |  |
+| 505 | congruent melting: L = β Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 18 |  |
 | 504 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 10 |  |
-| 503 | congruent: L = β Sn | β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 17 |  |
+| 503 | congruent melting: L = β Sn | β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 17 |  |
 | 503 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666; β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 9 |  |
-| 502 | Eutectic: Liquid -> Sn2Zr + bct-A5 | Liquid: Zr 0.0056; Sn2Zr: Zr 0.333; bct-A5: Zr 0 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 5 |  |
-| 286 | congruent: β Sn = α Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 20 |  |
-| 286 | congruent: β Sn = α Sn | α Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 19 |  |
+| 502 | eutectic: Liquid -> Sn2Zr + bct-A5 | Liquid: Zr 0.0056; Sn2Zr: Zr 0.333; bct-A5: Zr 0 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 5 |  |
+| 286 | congruent transformation: β Sn = α Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 20 |  |
+| 286 | congruent transformation: β Sn = α Sn | α Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 19 |  |
 
 ## Formation enthalpies
 
@@ -203,7 +203,7 @@ Table: Phase transition, Sn–Zr system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 505 K | 505 |  | experimental | [2] Subasic 1998 | p. 2 | “The diamond (A4) modification of tin, here denoted a-Sn, is stable below 286 K, and body - centered tetragonal (A5). here denoted P-Sn, is stable up to melting point which is 505 K.” |
 | Phase transition | 2128 K | 2128 |  | experimental | [2] Subasic 1998 | p. 2 | “The high temperature form p-Zr is stable to the melting point of zirconium, which is 2128 K.” |
-| Phase transition | 2263 K | 2263 | congruent | experimental | [1] Pérez 2008; _cites Kwon 1992_ [doi](https://doi.org/10.1021/cm00019a035) | p. 2 | “The phase melts congruently at 2263 K and x = 0.3.” |
+| Phase transition | 2263 K | 2263 | congruent transformation | experimental | [1] Pérez 2008; _cites Kwon 1992_ [doi](https://doi.org/10.1021/cm00019a035) | p. 2 | “The phase melts congruently at 2263 K and x = 0.3.” |
 
 ### Phase equilibrium (5)
 
@@ -223,8 +223,8 @@ Table: Mixing / partial, Sn–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: partial enthalpy of mixing_ | -114470 J/mol | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5 | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
-| Partial enthalpy; _printed: partial enthalpy of mixing_ | -6503 J/mol | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5 | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
+| Partial enthalpy; _printed: partial enthalpy of mixing_ | -114.47 kJ/mol (basis unstated) | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5 | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
+| Partial enthalpy; _printed: partial enthalpy of mixing_ | -6.503 kJ/mol (basis unstated) | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5 | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
 
 ### Crystal structure (2)
 

@@ -1,25 +1,23 @@
 # Sb2Zn3: enthalpy of formation
 
-> Enthalpy of formation of Sb2Zn3: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Sb2Zn3: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Sb2Zn3.html · Markdown: https://data.orchid-project.org/compounds/Sb2Zn3.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 4, model 4); experimental median -5.78 kJ/mol-atom (n = 4); OQMD -1.685 kJ/mol-atom (oqmd-994658).
+6 accepted literature formation-enthalpy value(s) (experimental 3, model 3); experimental median -5.78 kJ/mol-atom (n = 3); OQMD -1.685 kJ/mol-atom (oqmd-994658).
 
 Systems: [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) · [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Sb2Zn3 reported in the literature (8)
+Table: Enthalpy of formation of Sb2Zn3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -5.78 kJ/mol-atom | ξ-Sb2Zn3 | 800 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 26 |  |
-| -5.78 kJ/mol-atom | ξ-Sb2Zn3 | 800 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 26 |  |
 | -5.78 kJ/mol-atom | β-Zn3Sb2 | 800.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 23 |  |
 | -5.78 kJ/mol-atom | δ(Sb4Zn6) | 298.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [3] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 19 |  |
 | -10.434 kJ/mol-atom | β-Zn3Sb2 | 800.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 24 |  |
-| -9.839 kJ/mol-atom | ξ-Sb2Zn3 | 800 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 25 |  |
 | -9.839 kJ/mol-atom | ξ-Sb2Zn3 | 800 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 25 |  |
 | -4.918 kJ/mol-atom | δ(Sb4Zn6) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [3] Liu 2000 | Table 2, p. 3, row 18 |  |
 

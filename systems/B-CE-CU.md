@@ -29,15 +29,15 @@ Table: Invariant reactions reported in the literature for the B–Ce–Cu system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1305.91 | U: L + B6Ce -> B4Ce + (Cu) |  | model | [1] Premović 2017 | Table 8, p. 10, row 1 |  |
-| 1287.27 | E: L -> β(B) + B6Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 2 |  |
-| 1149.96 | E: L -> B4Ce + Cu6Ce + (Cu) |  | model | [1] Premović 2017 | Table 8, p. 10, row 3 |  |
-| 1071.55 | U: L + Cu6Ce -> B4Ce + Cu5Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 4 |  |
-| 1069.17 | U: L + Cu5Ce -> B4Ce + Cu4Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 5 |  |
-| 1052.6 | E: L -> B4Ce + Cu2Ce + Cu4Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 6 |  |
-| 980.81 | U: B4Ce + δ(Ce) -> L + γ(Ce) |  | model | [1] Premović 2017 | Table 8, p. 10, row 7 |  |
-| 779.6 | U: L + B4Ce -> Cu2Ce + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 8 |  |
-| 699.98 | U: L + B4Ce -> γ(Ce) + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 9 |  |
+| 1305.91 | quasi-peritectic: L + B6Ce -> B4Ce + (Cu) |  | model | [1] Premović 2017 | Table 8, p. 10, row 1 |  |
+| 1287.27 | eutectic: L -> β(B) + B6Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 2 |  |
+| 1149.96 | eutectic: L -> B4Ce + Cu6Ce + (Cu) |  | model | [1] Premović 2017 | Table 8, p. 10, row 3 |  |
+| 1071.55 | quasi-peritectic: L + Cu6Ce -> B4Ce + Cu5Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 4 |  |
+| 1069.17 | quasi-peritectic: L + Cu5Ce -> B4Ce + Cu4Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 5 |  |
+| 1052.6 | eutectic: L -> B4Ce + Cu2Ce + Cu4Ce |  | model | [1] Premović 2017 | Table 8, p. 10, row 6 |  |
+| 980.81 | quasi-peritectic: B4Ce + δ(Ce) -> L + γ(Ce) |  | model | [1] Premović 2017 | Table 8, p. 10, row 7 |  |
+| 779.6 | quasi-peritectic: L + B4Ce -> Cu2Ce + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 8 |  |
+| 699.98 | quasi-peritectic: L + B4Ce -> γ(Ce) + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 9 |  |
 
 ## Other properties
 

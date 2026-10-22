@@ -1,10 +1,10 @@
 # Au–Rh system
 
-> Au–Rh system: 53 accepted literature values (phase equilibrium 27, phase transition 21, crystal structure 4, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Rh system: 51 accepted literature values (phase equilibrium 27, phase transition 21, crystal structure 2, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-RH.html · Markdown: https://data.orchid-project.org/systems/AU-RH.md
 
-53 accepted literature values from 1 paper(s) (experimental 24, model 25, unspecified 4); 2 calculated phase diagram(s).
+51 accepted literature values from 1 paper(s) (experimental 24, model 25, unspecified 2); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-RH.json) · [CSV](https://data.orchid-project.org/systems/AU-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-RH/AuRh-84Oka.json) · [Markdown](https://data.orchid-project.org/systems/AU-RH.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 24 |
 | model | 25 |
-| unspecified | 4 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 1 |
 | phase transition | 21 |
 | phase equilibrium | 27 |
-| crystal structure | 4 |
+| crystal structure | 2 |
 
 ## Calculated phase diagrams
 
@@ -119,15 +119,13 @@ Table: Phase equilibrium, Au–Rh system
 | Phase composition |  | 2973.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.77, Rh 0.23; \[L2 + L1\]/L: Au 0.7, Rh 0.3_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 2 |  |
 | Phase composition |  | 2980.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.735, Rh 0.265; \[L2 + L1\]/L: Au 0.735, Rh 0.265_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 1 |  |
 
-### Crystal structure (4)
+### Crystal structure (2)
 
 Table: Crystal structure, Au–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.40784 nm | 298.15 | (Au); _alloy: Rh 0_ | unspecified | [1] Okamoto 1984; _cites ref. 81Kin_ | Table 3, p. 2, row 1 |  |
-| Lattice a | 0.40784 nm | 298.15 | (Au); _alloy: Rh 0_ | unspecified | [1] Okamoto 1984; _cites ref. 81Kin_ | Table 3, p. 2, row 1 |  |
-| Lattice a | 0.28032 nm | 298.15 | (Rh) | unspecified | [1] Okamoto 1984; _cites ref. 81Kin_ | Table 3, p. 2, row 2 |  |
 | Lattice a | 0.28032 nm | 298.15 | (Rh) | unspecified | [1] Okamoto 1984; _cites ref. 81Kin_ | Table 3, p. 2, row 2 |  |
 
 ## Sources

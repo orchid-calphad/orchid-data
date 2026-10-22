@@ -86,7 +86,7 @@ Table: Phase transition, Cd–Pu system
 | Phase transition | 1073 K | 1073 | Cd4Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 7 |  |
 | Phase transition | 1218 K | 1218 | Cd2Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 8 |  |
 | Phase transition | 1218 K | 1218 | Cd2Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 9 |  |
-| Phase transition | 1218 K | 1218 | congruent | experimental | [1] Kurata 2001 | p. 2 | “The Cd2Pu decomposed congruently at 1218 K.” |
+| Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Kurata 2001 | p. 2 | “The Cd2Pu decomposed congruently at 1218 K.” |
 
 ## Sources
 

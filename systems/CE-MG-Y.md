@@ -27,16 +27,16 @@ Table: Invariant reactions reported in the literature for the Ce–Mg–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 904.52 | P: L + Mg2Y + (Ce,Y)Mg = CeMg2 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 1 |  |
-| 892.85 | U: L + CeMg2 = CeMg3 + Mg2Y |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 2 |  |
-| 883.29 | U: L + Ce2Mg17 = CeMg12 + Ce5Mg41 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 3 |  |
-| 834.07 | U: L + Mg24Y5 = T + Mg2Y |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 4 |  |
-| 829.77 | U: L + Mg2Y = T + CeMg3 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 5 |  |
-| 828.54 | U: L + CeMg3 = T + Ce5Mg41 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 6 |  |
-| 818.73 | U: L + Ce5Mg41 = CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 7 |  |
-| 817.49 | E: L = Mg24Y5 + CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 8 |  |
-| 817.14 | E: L = (Mg) + Mg24Y5 + CeMg12 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 9 |  |
-| 816.15 | E: L -> (Mg) + Mg24Y5 + CeMg12 |  | experimental | [1] Gröbner 2010; _cites Drits 1981_ | Table 2, p. 4, row 10 |  |
+| 904.52 | peritectic: L + Mg2Y + (Ce,Y)Mg = CeMg2 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 1 |  |
+| 892.85 | quasi-peritectic: L + CeMg2 = CeMg3 + Mg2Y |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 2 |  |
+| 883.29 | quasi-peritectic: L + Ce2Mg17 = CeMg12 + Ce5Mg41 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 3 |  |
+| 834.07 | quasi-peritectic: L + Mg24Y5 = T + Mg2Y |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 4 |  |
+| 829.77 | quasi-peritectic: L + Mg2Y = T + CeMg3 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 5 |  |
+| 828.54 | quasi-peritectic: L + CeMg3 = T + Ce5Mg41 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 6 |  |
+| 818.73 | quasi-peritectic: L + Ce5Mg41 = CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 7 |  |
+| 817.49 | eutectic: L = Mg24Y5 + CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 8 |  |
+| 817.14 | eutectic: L = (Mg) + Mg24Y5 + CeMg12 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 9 |  |
+| 816.15 | eutectic: L -> (Mg) + Mg24Y5 + CeMg12 |  | experimental | [1] Gröbner 2010; _cites Drits 1981_ | Table 2, p. 4, row 10 |  |
 
 ## Sources
 

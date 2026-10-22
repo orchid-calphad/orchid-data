@@ -101,8 +101,8 @@ Table: Phase transition, Au–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1609 K | 1609 | congruent | model | [1] Dong 2012 | p. 5 | “Therefore, the assessed congruent melting temperature for Au2 Ho (1609 K) is reasonable, compared to the proposed 1623 K.” |
-| Phase transition | 1623 K | 1623 | congruent | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | p. 5 | “Therefore, the assessed congruent melting temperature for Au2 Ho (1609 K) is reasonable, compared to the proposed 1623 K.” |
+| Phase transition | 1609 K | 1609 | congruent transformation | model | [1] Dong 2012 | p. 5 | “Therefore, the assessed congruent melting temperature for Au2 Ho (1609 K) is reasonable, compared to the proposed 1623 K.” |
+| Phase transition | 1623 K | 1623 | congruent transformation | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | p. 5 | “Therefore, the assessed congruent melting temperature for Au2 Ho (1609 K) is reasonable, compared to the proposed 1623 K.” |
 
 ## Sources
 

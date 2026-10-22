@@ -58,53 +58,53 @@ Table: Invariant reactions reported in the literature for the Ag–Ga system (49
 |---:|---|---|---|---|---|---|
 | 888 | FCC_A1 + L = HCP_A3 |  | experimental | [1] Gierlotka 2011; _cites Muller 1959_ | Table 3, p. 4, row 2 |  |
 | 888 | FCC_A1 + L = HCP_A3 |  | experimental | [1] Gierlotka 2011; _cites Owen 1940_ | Table 3, p. 4, row 3 |  |
-| 888 | Peritectic: fcc + L \<-> hcp | fcc: Ga 0.178 | experimental | [2] Zhang 2006; _cites Owen 1940_ | Table 2, p. 3, row 6 |  |
-| 888 | Peritectic: fcc + L \<-> hcp | fcc: Ga 0.182 | experimental | [2] Zhang 2006; _cites Muller 1959_ | Table 2, p. 3, row 5 |  |
-| 888 | Peritectic: fcc + L \<-> hcp | fcc: Ga 0.186 | experimental | [2] Zhang 2006; _cites Owen 1950_ | Table 2, p. 3, row 7 |  |
+| 888 | peritectic: fcc + L \<-> hcp | fcc: Ga 0.178 | experimental | [2] Zhang 2006; _cites Owen 1940_ | Table 2, p. 3, row 6 |  |
+| 888 | peritectic: fcc + L \<-> hcp | fcc: Ga 0.182 | experimental | [2] Zhang 2006; _cites Muller 1959_ | Table 2, p. 3, row 5 |  |
+| 888 | peritectic: fcc + L \<-> hcp | fcc: Ga 0.186 | experimental | [2] Zhang 2006; _cites Owen 1950_ | Table 2, p. 3, row 7 |  |
 | 886.8 | FCC_A1 + L = HCP_A3 | HCP_A3: Ga 0.217 | model | [1] Gierlotka 2011 | Table 3, p. 4, row 1 |  |
 | 886 | peritectic |  | experimental | [1] Gierlotka 2011 | p. 2 | “The system shows 3 invariant reactions: eutectic reaction between liquid, solid Ga and intermetallic compound Ag3 Ga2 at temperature 299 K and 2 peritectic reactions: one between Ag, liquid and ␨ phase at 886 K and another between liquid, Ag3 Ga2 and ␨ at 575 K.” |
-| 885 | Peritectic: fcc + L \<-> hcp | L: Ga 0.281; hcp: Ga 0.22 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 4 |  |
+| 885 | peritectic: fcc + L \<-> hcp | L: Ga 0.281; hcp: Ga 0.22 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 4 |  |
 | 885 | FCC_A1 + L = HCP_A3 |  | experimental | [1] Gierlotka 2011; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 3, p. 4, row 4 |  |
-| 884 | Peritectic: fcc + L \<-> hcp | L: Ga 0.283; hcp: Ga 0.222 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 3 |  |
+| 884 | peritectic: fcc + L \<-> hcp | L: Ga 0.283; hcp: Ga 0.222 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 3 |  |
 | 884 | FCC_A1 + L = HCP_A3 | HCP_A3: Ga 0.22 | experimental | [1] Gierlotka 2011; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 3, p. 4, row 5 |  |
-| 883.8 | Peritectic: fcc + L \<-> hcp | fcc: Ga 0.187; L: Ga 0.27; hcp: Ga 0.221 | model | [2] Zhang 2006 | Table 2, p. 3, row 1 |  |
-| 883.5 | Peritectic: fcc + L \<-> hcp |  | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 8 |  |
-| 883 | Peritectic: fcc + L \<-> hcp | fcc: Ga 0.187; L: Ga 0.283; hcp: Ga 0.22 | experimental | [2] Zhang 2006; _cites Hume-Rothery 1942_ | Table 2, p. 3, row 2 |  |
-| 708 | Order–disorder: Ag2Ga \<-> hcp | hcp: Ga 0.29; Ag2Ga/hcp: Ga 0.29 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 17 |  |
-| 708 | Order–disorder: Ag2Ga \<-> hcp | hcp: Ga 0.305; Ag2Ga/hcp: Ga 0.305 | model | [2] Zhang 2006 | Table 2, p. 3, row 15 |  |
-| 698 | Order–disorder: Ag2Ga \<-> hcp | hcp: Ga 0.27; Ag2Ga/hcp: Ga 0.27 | experimental | [2] Zhang 2006; _cites Hume-Rothery 1959_ | Table 2, p. 3, row 18 |  |
-| 698 | Order–disorder: Ag2Ga \<-> hcp | hcp: Ga 0.277; Ag2Ga/hcp: Ga 0.277 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 16 |  |
-| 695 | Metatectic: hcp \<-> Ag2Ga + L | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 21 |  |
+| 883.8 | peritectic: fcc + L \<-> hcp | fcc: Ga 0.187; L: Ga 0.27; hcp: Ga 0.221 | model | [2] Zhang 2006 | Table 2, p. 3, row 1 |  |
+| 883.5 | peritectic: fcc + L \<-> hcp |  | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 8 |  |
+| 883 | peritectic: fcc + L \<-> hcp | fcc: Ga 0.187; L: Ga 0.283; hcp: Ga 0.22 | experimental | [2] Zhang 2006; _cites Hume-Rothery 1942_ | Table 2, p. 3, row 2 |  |
+| 708 | order-disorder: Ag2Ga \<-> hcp | hcp: Ga 0.29; Ag2Ga/hcp: Ga 0.29 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 17 |  |
+| 708 | order-disorder: Ag2Ga \<-> hcp | hcp: Ga 0.305; Ag2Ga/hcp: Ga 0.305 | model | [2] Zhang 2006 | Table 2, p. 3, row 15 |  |
+| 698 | order-disorder: Ag2Ga \<-> hcp | hcp: Ga 0.27; Ag2Ga/hcp: Ga 0.27 | experimental | [2] Zhang 2006; _cites Hume-Rothery 1959_ | Table 2, p. 3, row 18 |  |
+| 698 | order-disorder: Ag2Ga \<-> hcp | hcp: Ga 0.277; Ag2Ga/hcp: Ga 0.277 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 16 |  |
+| 695 | metatectic/catatectic: hcp \<-> Ag2Ga + L | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 21 |  |
 | 693.6 | HCP_A3 = ζ′ + L | HCP_A3: Ga 0.364; ζ′: Ga 0.333333 | model | [1] Gierlotka 2011 | Table 3, p. 4, row 8 |  |
-| 693 | Metatectic: hcp \<-> Ag2Ga + L | Ag2Ga: Ag 0.666667, Ga 0.333333; L: Ga 0.587 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 20 |  |
+| 693 | metatectic/catatectic: hcp \<-> Ag2Ga + L | Ag2Ga: Ag 0.666667, Ga 0.333333; L: Ga 0.587 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 20 |  |
 | 693 | HCP_A3 = ζ′ + L | ζ′: Ga 0.333333 | experimental | [1] Gierlotka 2011; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 3, p. 4, row 9 |  |
-| 692.3 | Metatectic: hcp \<-> Ag2Ga + L | hcp: Ga 0.361; Ag2Ga: Ga 0.322; L: Ga 0.584 | model | [2] Zhang 2006 | Table 2, p. 3, row 19 |  |
-| 675 | Eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.227; fcc: Ga 0.192; Ag2Ga: Ga 0.254 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 12 |  |
+| 692.3 | metatectic/catatectic: hcp \<-> Ag2Ga + L | hcp: Ga 0.361; Ag2Ga: Ga 0.322; L: Ga 0.584 | model | [2] Zhang 2006 | Table 2, p. 3, row 19 |  |
+| 675 | eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.227; fcc: Ga 0.192; Ag2Ga: Ga 0.254 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 12 |  |
 | 670 | HCP_A3 = FCC_A1 + HCP_ORD | HCP_A3: Ga 0.208 | model | [1] Gierlotka 2011 | Table 3, p. 4, row 6 |  |
-| 668 | Eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.205; fcc: Ga 0.176; Ag2Ga: Ga 0.256 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 11 |  |
-| 668 | Eutectoid: hcp \<-> fcc + Ag2Ga | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Gunns 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900572-1) | Table 2, p. 3, row 13 |  |
+| 668 | eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.205; fcc: Ga 0.176; Ag2Ga: Ga 0.256 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 11 |  |
+| 668 | eutectoid: hcp \<-> fcc + Ag2Ga | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Gunns 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900572-1) | Table 2, p. 3, row 13 |  |
 | 668 | HCP_A3 = FCC_A1 + HCP_ORD | HCP_A3: Ga 0.205 | experimental | [1] Gierlotka 2011; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 3, p. 4, row 7 |  |
-| 668 | Eutectoid: hcp \<-> fcc + Ag2Ga | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 14 |  |
-| 666.4 | Eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.2238; fcc: Ga 0.164; Ag2Ga: Ga 0.258 | model | [2] Zhang 2006 | Table 2, p. 3, row 9 |  |
-| 651 | Eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.205; fcc: Ga 0.176; Ag2Ga: Ga 0.256 | experimental | [2] Zhang 2006; _cites Hume-Rothery 1942_ | Table 2, p. 3, row 10 |  |
+| 668 | eutectoid: hcp \<-> fcc + Ag2Ga | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 14 |  |
+| 666.4 | eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.2238; fcc: Ga 0.164; Ag2Ga: Ga 0.258 | model | [2] Zhang 2006 | Table 2, p. 3, row 9 |  |
+| 651 | eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.205; fcc: Ga 0.176; Ag2Ga: Ga 0.256 | experimental | [2] Zhang 2006; _cites Hume-Rothery 1942_ | Table 2, p. 3, row 10 |  |
 | 599 | peritectic |  | experimental | [2] Zhang 2006; _cites Weibke 1936_ [doi](https://doi.org/10.1002/zaac.19362260215) | p. 2 | “Weibke and Wiegels \[12\] reported a novel intermetallic solid solution compound Ag2 Ga3 , which was peritectically melted at 599 K in the Ga-rich region.” |
-| 578 | Peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ga 0.324; L: Ga 0.86; AgmGan: Ga 0.5 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 24 |  |
+| 578 | peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ga 0.324; L: Ga 0.86; AgmGan: Ga 0.5 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 24 |  |
 | 578 | ζ′ + L = Ag3Ga2 | ζ′: Ga 0.5; Ag3Ga2: Ga 0.4 | experimental | [1] Gierlotka 2011; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 3, p. 4, row 12 |  |
 | 575 | peritectic |  | experimental | [2] Zhang 2006 | p. 2 | “The Ag3 Ga2 phase peritectically melts at 575 K.” |
 | 575 | ζ′ + L = Ag3Ga2 | ζ′: Ga 0.333333; Ag3Ga2: Ga 0.4 | model | [1] Gierlotka 2011 | Table 3, p. 4, row 10 |  |
-| 575 | Peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ag 0.666667, Ga 0.333333; AgmGan: Ga 0.4 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 25 |  |
+| 575 | peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ag 0.666667, Ga 0.333333; AgmGan: Ga 0.4 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 25 |  |
 | 575 | peritectic |  | experimental | [1] Gierlotka 2011 | p. 2 | “The system shows 3 invariant reactions: eutectic reaction between liquid, solid Ga and intermetallic compound Ag3 Ga2 at temperature 299 K and 2 peritectic reactions: one between Ag, liquid and ␨ phase at 886 K and another between liquid, Ag3 Ga2 and ␨ at 575 K.” |
-| 575 | Metatectic: hcp \<-> Ag2Ga + L | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Gunns 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900572-1) | Table 2, p. 3, row 22 |  |
+| 575 | metatectic/catatectic: hcp \<-> Ag2Ga + L | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Gunns 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900572-1) | Table 2, p. 3, row 22 |  |
 | 575 | ζ′ + L = Ag3Ga2 | ζ′: Ga 0.333333; Ag3Ga2: Ga 0.4 | experimental | [1] Gierlotka 2011; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.036) | Table 3, p. 4, row 11 |  |
-| 574.3 | Peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ga 0.331; L: Ga 0.863; AgmGan: Ga 0.4 | model | [2] Zhang 2006 | Table 2, p. 3, row 23 |  |
+| 574.3 | peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ga 0.331; L: Ga 0.863; AgmGan: Ga 0.4 | model | [2] Zhang 2006 | Table 2, p. 3, row 23 |  |
 | 302 | L = ζ′ + Orthorhombic_GA | L: Ga 0.998; ζ′: Ga 0.333333; Orthorhombic_GA: Ga 1 | model | [1] Gierlotka 2011 | Table 3, p. 4, row 13 |  |
-| 302 | Eutectic: L \<-> AgmGan + Ga | L: Ga 0.9998; AgmGan: Ga 0.5; Ga: Ga 1 | model | [2] Zhang 2006 | Table 2, p. 3, row 26 |  |
-| 299 | Eutectic: L \<-> AgmGan + Ga | AgmGan: Ga 0.4; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 28 |  |
-| 299 | Eutectic: L \<-> AgmGan + Ga | L: Ga 0.987; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 29 |  |
+| 302 | eutectic: L \<-> AgmGan + Ga | L: Ga 0.9998; AgmGan: Ga 0.5; Ga: Ga 1 | model | [2] Zhang 2006 | Table 2, p. 3, row 26 |  |
+| 299 | eutectic: L \<-> AgmGan + Ga | AgmGan: Ga 0.4; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 28 |  |
+| 299 | eutectic: L \<-> AgmGan + Ga | L: Ga 0.987; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 29 |  |
 | 299 | L = ζ′ + Orthorhombic_GA | ζ′: Ga 0.333333; Orthorhombic_GA: Ga 1 | experimental | [1] Gierlotka 2011; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 3, p. 4, row 14 |  |
-| 299 | Eutectic: L \<-> AgmGan + Ga | AgmGan: Ga 0.5; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 27 |  |
+| 299 | eutectic: L \<-> AgmGan + Ga | AgmGan: Ga 0.5; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 27 |  |
 | 299 | eutectic |  | experimental | [1] Gierlotka 2011 | p. 2 | “The system shows 3 invariant reactions: eutectic reaction between liquid, solid Ga and intermetallic compound Ag3 Ga2 at temperature 299 K and 2 peritectic reactions: one between Ag, liquid and ␨ phase at 886 K and another between liquid, Ag3 Ga2 and ␨ at 575 K.” |
-| 298 | Eutectic: L \<-> AgmGan + Ga | L: Ga 0.974; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Weibke 1936_ [doi](https://doi.org/10.1002/zaac.19362260215) | Table 2, p. 3, row 30 |  |
+| 298 | eutectic: L \<-> AgmGan + Ga | L: Ga 0.974; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Weibke 1936_ [doi](https://doi.org/10.1002/zaac.19362260215) | Table 2, p. 3, row 30 |  |
 
 ## Other properties
 

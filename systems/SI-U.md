@@ -160,14 +160,14 @@ Table: Phase transition, Si–U system
 | Phase transition | 1258 K | 1258 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 9 |  |
 | Phase transition | 1261 K | 1261 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 10 |  |
 | Phase transition | 1267 K | 1267 | eutectic: 4 at.% Si; _alloy: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 4 |  |
-| Phase transition | 1340 K | 1340 | liquidus | experimental | [1] Berche 2009 | p. 3 | “The liquidus transition was measured at 1340 ± 5 K.” |
-| Phase transition | 1405 K | 1405 | congruent: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 2 |  |
-| Phase transition | 1408 K | 1408 | congruent: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 1 |  |
+| Phase transition | 1340 K | 1340 | other | experimental | [1] Berche 2009 | p. 3 | “The liquidus transition was measured at 1340 ± 5 K.” |
+| Phase transition | 1405 K | 1405 | congruent transformation: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 2 |  |
+| Phase transition | 1408 K | 1408 | congruent transformation: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 1 |  |
 | Phase transition | 1783 K | 1783 | peritectic: 75 at.% Si; _alloy: Si 0.7468, U 0.2532_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 17 |  |
 | Phase transition | 1813 K | 1813 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009; _cites Vaugoyeau 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990153-x) | Table 1, p. 2, row 12 |  |
 | Phase transition | 1820 K | 1820 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 13 |  |
 | Phase transition | 1840 K | 1840 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | model | [1] Berche 2009 | Table 1, p. 2, row 14 |  |
-| Phase transition | 1867 K | 1867 | liquidus | experimental | [1] Berche 2009 | p. 4 | “Although, DTA analysis performed on heating at different rates revealed the presence of a liquidus transition at 1867 ± 15 K (Fig. 5).” |
+| Phase transition | 1867 K | 1867 | other | experimental | [1] Berche 2009 | p. 4 | “Although, DTA analysis performed on heating at different rates revealed the presence of a liquidus transition at 1867 ± 15 K (Fig. 5).” |
 
 ### Phase equilibrium (5)
 
@@ -175,11 +175,11 @@ Table: Phase equilibrium, Si–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1340 | liquidus: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 7 |  |
-| Phase composition |  | 1360 | liquidus: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | model | [1] Berche 2009 | Table 1, p. 2, row 8 |  |
-| Phase composition |  | 1363 | liquidus: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009; _cites Massalski 1990_ | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1860 | liquidus: 46 at.% Si; _liquid: Si 0.4632, U 0.5368_ | model | [1] Berche 2009 | Table 1, p. 2, row 16 |  |
-| Phase composition |  | 1867 | liquidus: 46 at.% Si; _liquid: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 15 |  |
+| Phase composition |  | 1340 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 7 |  |
+| Phase composition |  | 1360 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | model | [1] Berche 2009 | Table 1, p. 2, row 8 |  |
+| Phase composition |  | 1363 | other: 4 at.% Si; _liquid: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009; _cites Massalski 1990_ | Table 1, p. 2, row 6 |  |
+| Phase composition |  | 1860 | other: 46 at.% Si; _liquid: Si 0.4632, U 0.5368_ | model | [1] Berche 2009 | Table 1, p. 2, row 16 |  |
+| Phase composition |  | 1867 | other: 46 at.% Si; _liquid: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 15 |  |
 
 ## Sources
 

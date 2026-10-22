@@ -72,7 +72,7 @@ Table: Phase transition, Ce–Zr system
 | Phase transition | 1113 K | 1113 | Lþ hcp-Zr(Ce)2bcc-Zr(Ce) | experimental | [2] Mattern 2014 | p. 4 | “The DSC event (3) at T1⁄4 1113 K corresponds to the phase reaction Lþ hcp-Zr(Ce)2bcc-Zr(Ce).” |
 | Phase transition | 1113 K | 1113 | other: bcc-Zr -> L + hcp-Zr | model | [2] Mattern 2014 | p. 6 | “The calculated temperature (1113 K) and Ce solubility in bcc-Zr (4.4 at%) for the catatectic reaction bccZr2L þhcp-Zr agrees well with the present experimental results of 1109 K and 5 at%, respectively.” |
 | Phase transition | 1139 K | 1139 | polymorphic: hcp↔bcc; _alloy: Zr 1_ | model | [2] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Phase transition | 1773.15 K | 1773.15 | solidus | experimental | [1] Dixon 1998 | p. 5 | “d) Heat treatments in the region of the solidus showed it to fall to 1500°C at about 3.5 at% cerium and then return towards the zirconium side of the diagram.” |
+| Phase transition | 1773.15 K | 1773.15 | other | experimental | [1] Dixon 1998 | p. 5 | “d) Heat treatments in the region of the solidus showed it to fall to 1500°C at about 3.5 at% cerium and then return towards the zirconium side of the diagram.” |
 | Phase transition | 2128 K | 2128 | other: bcc-Zr; _alloy: Zr 1_ | model | [2] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
 
 ### Phase equilibrium (1)

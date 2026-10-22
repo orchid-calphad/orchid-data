@@ -1,23 +1,22 @@
 # BeTi: enthalpy of formation
 
-> Enthalpy of formation of BeTi: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of BeTi: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/BeTi.html · Markdown: https://data.orchid-project.org/compounds/BeTi.md
 
-7 accepted literature formation-enthalpy value(s) (model 7); Materials Project -13.537 kJ/mol-atom (mp-aaaaaqrv); OQMD -15.798 kJ/mol-atom (oqmd-10906).
+6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -13.537 kJ/mol-atom (mp-aaaaaqrv); OQMD -15.798 kJ/mol-atom (oqmd-10906).
 
 Systems: [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of BeTi reported in the literature (7)
+Table: Enthalpy of formation of BeTi reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -27 kJ/mol-atom | TiBe(B2) |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 2 |  |
 | -23.6 kJ/mol-atom | TiBe(B2) |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 2 |  |
 | -23.6 kJ/mol-atom | TiBe(B2) | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 2 |  |
-| -19.1 kJ/mol-atom | TiBe(B2) |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 3 |  |
 | -19.1 kJ/mol-atom | TiBe(B2) |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 3 |  |
 | 28.3 kJ/mol-atom | TiBe(B32) | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 4 |  |
 | 28.3 kJ/mol-atom | TiBe(B32) |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 4 |  |

@@ -26,22 +26,22 @@ Table: Invariant reactions reported in the literature for the B–Ni–Zr system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1979.15 | U: Liquid + ZrB12 -> ZrB2 + B |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 1 |  |
-| 1318.25 | E: Liquid -> ZrNi5 + Zr2Ni21B6 + Zr2Ni7 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 2 |  |
-| 1307.95 | E: Liquid -> Zr2Ni21B6 + Ni + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 3 |  |
-| 1300.05 | U: Liquid + B -> ZrB2 + ZrNi |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 4 |  |
-| 1292.25 | E: Liquid -> ZrNi5 + Zr2Ni21B6 + Ni |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 5 |  |
-| 1280.95 | U: Liquid + Ni3B -> Zr2Ni21B6 + Ni2B |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 6 |  |
-| 1279.95 | E: Liquid -> ZrB2 + ZrNi + m-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 7 |  |
-| 1277.05 | U: Liquid + M_NI4B3 -> ZrB2 + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 8 |  |
-| 1273.45 | E: Liquid -> ZrB2 + Ni2B + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 9 |  |
-| 1267.85 | E: Liquid -> ZrB2 + bcc-Zr + Zr2Ni |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 10 |  |
-| 1266.85 | E: Liquid -> ZrB2 + Zr2Ni21B6 + Zr2Ni |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 11 |  |
-| 1250.95 | U: Liquid + ZrNi -> ZrB2 + Zr9Ni11 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 12 |  |
-| 1250.35 | E: Liquid -> ZrB2 + Zr7Ni10 + Zr9Ni11 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 13 |  |
-| 1213.55 | E: Liquid -> ZrB2 + ZrNi + Zr2Ni |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 14 |  |
-| 1194.15 | E: Liquid -> ZrB2 + Zr2Ni21B6 + Zr2Ni7 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 15 |  |
-| 1147.65 | E: Liquid -> ZrB2 + Zr7Ni10 + Zr8Ni21 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 16 |  |
+| 1979.15 | quasi-peritectic: Liquid + ZrB12 -> ZrB2 + B |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 1 |  |
+| 1318.25 | eutectic: Liquid -> ZrNi5 + Zr2Ni21B6 + Zr2Ni7 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 2 |  |
+| 1307.95 | eutectic: Liquid -> Zr2Ni21B6 + Ni + Ni3B |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 3 |  |
+| 1300.05 | quasi-peritectic: Liquid + B -> ZrB2 + ZrNi |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 4 |  |
+| 1292.25 | eutectic: Liquid -> ZrNi5 + Zr2Ni21B6 + Ni |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 5 |  |
+| 1280.95 | quasi-peritectic: Liquid + Ni3B -> Zr2Ni21B6 + Ni2B |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 6 |  |
+| 1279.95 | eutectic: Liquid -> ZrB2 + ZrNi + m-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 7 |  |
+| 1277.05 | quasi-peritectic: Liquid + M_NI4B3 -> ZrB2 + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 8 |  |
+| 1273.45 | eutectic: Liquid -> ZrB2 + Ni2B + o-Ni4B3 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 9 |  |
+| 1267.85 | eutectic: Liquid -> ZrB2 + bcc-Zr + Zr2Ni |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 10 |  |
+| 1266.85 | eutectic: Liquid -> ZrB2 + Zr2Ni21B6 + Zr2Ni |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 11 |  |
+| 1250.95 | quasi-peritectic: Liquid + ZrNi -> ZrB2 + Zr9Ni11 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 12 |  |
+| 1250.35 | eutectic: Liquid -> ZrB2 + Zr7Ni10 + Zr9Ni11 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 13 |  |
+| 1213.55 | eutectic: Liquid -> ZrB2 + ZrNi + Zr2Ni |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 14 |  |
+| 1194.15 | eutectic: Liquid -> ZrB2 + Zr2Ni21B6 + Zr2Ni7 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 15 |  |
+| 1147.65 | eutectic: Liquid -> ZrB2 + Zr7Ni10 + Zr8Ni21 |  | unspecified | [1] Cacciamani 2011 | Table 12, p. 13, row 16 |  |
 
 ## Sources
 

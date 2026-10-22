@@ -64,79 +64,79 @@ Table: Invariant reactions reported in the literature for the Bi–Rb system (78
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 933 | Congruent: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Zhuravlev 1958_ | Table 3, p. 6, row 7 |  |
-| 930.98 | Congruent: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022 | Table 3, p. 6, row 43 |  |
-| 916.1 | Congruent: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 42 |  |
-| 915 | congruent: L -> β-BiRb3 | L: Rb 0.75; β-BiRb3: Rb 0.75 | model | [2] Liu 2013 | Table 2, p. 4, row 29 |  |
-| 915 | congruent: L -> β-BiRb3 | L: Rb 0.75; β-BiRb3: Rb 0.75 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 27 |  |
-| 915 | Congruent: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 41 |  |
-| 915 | Congruent: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 39 |  |
-| 915 | congruent: L -> β-BiRb3 | L: Rb 0.75; β-BiRb3: Rb 0.75 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 28 |  |
-| 915 | Congruent: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 40 |  |
-| 913 | Congruent: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | experimental | [1] Dziri 2022; _cites Zhuravlev 1958_ | Table 3, p. 6, row 38 |  |
-| 887.26 | Congruent: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022 | Table 3, p. 6, row 13 |  |
-| 886 | Congruent: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 3, p. 6, row 9 |  |
-| 885 | Congruent: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 12 |  |
-| 883 | congruent: L -> Bi2Rb | L: Rb 0.333; Bi2Rb: Rb 0.333 | model | [2] Liu 2013 | Table 2, p. 4, row 24 |  |
-| 883 | congruent: L -> Bi2Rb | L: Rb 0.333; Bi2Rb: Rb 0.333 | experimental | [2] Liu 2013; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 2, p. 4, row 22 |  |
-| 883 | Congruent: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 11 |  |
-| 883 | congruent: L -> Bi2Rb | L: Rb 0.333; Bi2Rb: Rb 0.333 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 21 |  |
-| 883 | Congruent: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 10 |  |
-| 883 | congruent: L -> Bi2Rb | L: Rb 0.333; Bi2Rb: Rb 0.333 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 23 |  |
-| 878 | Congruent: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 8 |  |
-| 838 | congruent: L -> Bi2Rb3 | L: Rb 0.6; Bi2Rb3: Rb 0.6 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 25 |  |
-| 838 | congruent: L -> Bi2Rb3 | L: Rb 0.6; Bi2Rb3: Rb 0.6 | model | [2] Liu 2013 | Table 2, p. 4, row 26 |  |
-| 745.14 | Congruent: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | model | [1] Dziri 2022 | Table 3, p. 6, row 32 |  |
-| 743 | Congruent: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 3, p. 6, row 29 |  |
-| 738 | Congruent: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 28 |  |
-| 738 | Congruent: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 31 |  |
-| 738 | Congruent: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 30 |  |
+| 933 | congruent melting: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Zhuravlev 1958_ | Table 3, p. 6, row 7 |  |
+| 930.98 | congruent melting: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022 | Table 3, p. 6, row 43 |  |
+| 916.1 | congruent melting: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 42 |  |
+| 915 | congruent melting: L -> β-BiRb3 | L: Rb 0.75; β-BiRb3: Rb 0.75 | model | [2] Liu 2013 | Table 2, p. 4, row 29 |  |
+| 915 | congruent melting: L -> β-BiRb3 | L: Rb 0.75; β-BiRb3: Rb 0.75 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 27 |  |
+| 915 | congruent melting: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 41 |  |
+| 915 | congruent melting: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 39 |  |
+| 915 | congruent melting: L -> β-BiRb3 | L: Rb 0.75; β-BiRb3: Rb 0.75 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 28 |  |
+| 915 | congruent melting: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 40 |  |
+| 913 | congruent melting: Liq->βBiRb3 | Liq: Rb 0.75; βBiRb3: Bi 0.25, Rb 0.75 | experimental | [1] Dziri 2022; _cites Zhuravlev 1958_ | Table 3, p. 6, row 38 |  |
+| 887.26 | congruent melting: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022 | Table 3, p. 6, row 13 |  |
+| 886 | congruent melting: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 3, p. 6, row 9 |  |
+| 885 | congruent melting: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 12 |  |
+| 883 | congruent melting: L -> Bi2Rb | L: Rb 0.333; Bi2Rb: Rb 0.333 | model | [2] Liu 2013 | Table 2, p. 4, row 24 |  |
+| 883 | congruent melting: L -> Bi2Rb | L: Rb 0.333; Bi2Rb: Rb 0.333 | experimental | [2] Liu 2013; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 2, p. 4, row 22 |  |
+| 883 | congruent melting: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 11 |  |
+| 883 | congruent melting: L -> Bi2Rb | L: Rb 0.333; Bi2Rb: Rb 0.333 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 21 |  |
+| 883 | congruent melting: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 10 |  |
+| 883 | congruent melting: L -> Bi2Rb | L: Rb 0.333; Bi2Rb: Rb 0.333 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 23 |  |
+| 878 | congruent melting: Liq->Bi2Rb | Liq: Rb 0.3333; Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 8 |  |
+| 838 | congruent melting: L -> Bi2Rb3 | L: Rb 0.6; Bi2Rb3: Rb 0.6 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 25 |  |
+| 838 | congruent melting: L -> Bi2Rb3 | L: Rb 0.6; Bi2Rb3: Rb 0.6 | model | [2] Liu 2013 | Table 2, p. 4, row 26 |  |
+| 745.14 | congruent melting: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | model | [1] Dziri 2022 | Table 3, p. 6, row 32 |  |
+| 743 | congruent melting: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 3, p. 6, row 29 |  |
+| 738 | congruent melting: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 28 |  |
+| 738 | congruent melting: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 31 |  |
+| 738 | congruent melting: Liq->Bi2Rb3 | Liq: Rb 0.6; Bi2Rb3: Bi 0.4, Rb 0.6 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 30 |  |
 | 728 | eutectic: L -> Bi2Rb3 + β-BiRb3 | Bi2Rb3: Rb 0.6; β-BiRb3: Rb 0.75 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 1 |  |
 | 728 | eutectic: L -> Bi2Rb3 + β-BiRb3 | L: Rb 0.629; Bi2Rb3: Rb 0.6; β-BiRb3: Rb 0.75 | model | [2] Liu 2013 | Table 2, p. 4, row 4 |  |
-| 728 | Eutectic: Liq->Bi2Rb3+βBiRb3 | Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 34 |  |
-| 728 | Eutectic: Liq->Bi2Rb3+βBiRb3 | Liq: Rb 0.629; Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 35 |  |
+| 728 | eutectic: Liq->Bi2Rb3+βBiRb3 | Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 34 |  |
+| 728 | eutectic: Liq->Bi2Rb3+βBiRb3 | Liq: Rb 0.629; Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 35 |  |
 | 728 | eutectic: L -> Bi2Rb3 + β-BiRb3 | L: Rb 0.62; Bi2Rb3: Rb 0.6; β-BiRb3: Rb 0.75 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 3 |  |
 | 728 | eutectic: L -> Bi2Rb3 + β-BiRb3 | Bi2Rb3: Rb 0.6; β-BiRb3: Rb 0.75 | experimental | [2] Liu 2013; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 2, p. 4, row 2 |  |
-| 725.8 | Eutectic: Liq->Bi2Rb3+βBiRb3 | Liq: Rb 0.627; Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 36 |  |
-| 723 | Eutectic: Liq->Bi2Rb3+βBiRb3 | Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | experimental | [1] Dziri 2022; _cites Zhuravlev 1958_ | Table 3, p. 6, row 33 |  |
-| 716.11 | Eutectic: Liq->Bi2Rb3+βBiRb3 | Liq: Rb 0.6337; Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022 | Table 3, p. 6, row 37 |  |
-| 678.5 | Peritectic: Liq+Bi2Rb3->Bi4Rb5 | Liq: Rb 0.538; Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 26 |  |
-| 678.19 | Peritectic: Liq+Bi2Rb3->Bi4Rb5 | Liq: Rb 0.5528; Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | model | [1] Dziri 2022 | Table 3, p. 6, row 27 |  |
-| 676.01 | Peritectic: Liq+Bi2Rb3->Bi4Rb5 | Liq: Rb 0.5353; Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 25 |  |
+| 725.8 | eutectic: Liq->Bi2Rb3+βBiRb3 | Liq: Rb 0.627; Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 36 |  |
+| 723 | eutectic: Liq->Bi2Rb3+βBiRb3 | Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | experimental | [1] Dziri 2022; _cites Zhuravlev 1958_ | Table 3, p. 6, row 33 |  |
+| 716.11 | eutectic: Liq->Bi2Rb3+βBiRb3 | Liq: Rb 0.6337; Bi2Rb3: Bi 0.4, Rb 0.6; βBiRb3: Bi 0.25, Rb 0.75 | model | [1] Dziri 2022 | Table 3, p. 6, row 37 |  |
+| 678.5 | peritectic: Liq+Bi2Rb3->Bi4Rb5 | Liq: Rb 0.538; Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 26 |  |
+| 678.19 | peritectic: Liq+Bi2Rb3->Bi4Rb5 | Liq: Rb 0.5528; Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | model | [1] Dziri 2022 | Table 3, p. 6, row 27 |  |
+| 676.01 | peritectic: Liq+Bi2Rb3->Bi4Rb5 | Liq: Rb 0.5353; Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 25 |  |
 | 676 | peritectic: L + Bi2Rb3 -> Bi4Rb5 | L: Rb 0.538; Bi2Rb3: Rb 0.6; Bi4Rb5: Rb 0.556 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 7 |  |
 | 676 | peritectic: L + Bi2Rb3 -> Bi4Rb5 | Bi2Rb3: Rb 0.6; Bi4Rb5: Rb 0.556 | experimental | [2] Liu 2013; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 2, p. 4, row 6 |  |
 | 676 | peritectic: L + Bi2Rb3 -> Bi4Rb5 | Bi2Rb3: Rb 0.6; Bi4Rb5: Rb 0.556 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 5 |  |
 | 676 | peritectic: L + Bi2Rb3 -> Bi4Rb5 | L: Rb 0.535; Bi2Rb3: Rb 0.6; Bi4Rb5: Rb 0.556 | model | [2] Liu 2013 | Table 2, p. 4, row 8 |  |
-| 676 | Peritectic: Liq+Bi2Rb3->Bi4Rb5 | Liq: Rb 0.538; Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 24 |  |
-| 676 | Peritectic: Liq+Bi2Rb3->Bi4Rb5 | Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 3, p. 6, row 23 |  |
-| 673 | Peritectic: Liq+Bi2Rb3->Bi4Rb5 | Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 22 |  |
-| 649 | Peritectic: Liq+ Bi2Rb->BiRb | Bi2Rb: Bi 0.666667, Rb 0.333333; BiRb: Bi 0.5, Rb 0.5 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 14 |  |
-| 645.74 | Congruent: Liq->BiRb | Liq: Rb 0.5; BiRb: Bi 0.5, Rb 0.5 | model | [1] Dziri 2022 | Table 3, p. 6, row 17 |  |
-| 645.5 | Congruent: Liq->BiRb | Liq: Rb 0.5; BiRb: Bi 0.5, Rb 0.5 | experimental | [1] Dziri 2022; _cites Stankus 2019_ [doi](https://doi.org/10.1088/1742-6596/1359/1/012104) | Table 3, p. 6, row 16 |  |
+| 676 | peritectic: Liq+Bi2Rb3->Bi4Rb5 | Liq: Rb 0.538; Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 24 |  |
+| 676 | peritectic: Liq+Bi2Rb3->Bi4Rb5 | Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 3, p. 6, row 23 |  |
+| 673 | peritectic: Liq+Bi2Rb3->Bi4Rb5 | Bi2Rb3: Bi 0.4, Rb 0.6; Bi4Rb5: Bi 0.444444, Rb 0.555556 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 22 |  |
+| 649 | peritectic: Liq+ Bi2Rb->BiRb | Bi2Rb: Bi 0.666667, Rb 0.333333; BiRb: Bi 0.5, Rb 0.5 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 14 |  |
+| 645.74 | congruent melting: Liq->BiRb | Liq: Rb 0.5; BiRb: Bi 0.5, Rb 0.5 | model | [1] Dziri 2022 | Table 3, p. 6, row 17 |  |
+| 645.5 | congruent melting: Liq->BiRb | Liq: Rb 0.5; BiRb: Bi 0.5, Rb 0.5 | experimental | [1] Dziri 2022; _cites Stankus 2019_ [doi](https://doi.org/10.1088/1742-6596/1359/1/012104) | Table 3, p. 6, row 16 |  |
 | 643 | eutectic: L -> Bi2Rb + Bi4Rb5 | L: Rb 0.504; Bi2Rb: Rb 0.333; Bi4Rb5: Rb 0.556 | model | [2] Liu 2013 | Table 2, p. 4, row 12 |  |
-| 643 | Eutectic: Liq->BiRb+Bi4Rb5 | BiRb: Bi 0.5, Rb 0.5; Bi4Rb5: Bi 0.444444, Rb 0.555556 | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 3, p. 6, row 19 |  |
+| 643 | eutectic: Liq->BiRb+Bi4Rb5 | BiRb: Bi 0.5, Rb 0.5; Bi4Rb5: Bi 0.444444, Rb 0.555556 | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 3, p. 6, row 19 |  |
 | 643 | eutectic: L -> Bi2Rb + Bi4Rb5 | Bi2Rb: Rb 0.333; Bi4Rb5: Rb 0.556 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 9 |  |
-| 643 | Eutectic: Liq->BiRb+Bi4Rb5 | Liq: Rb 0.51; BiRb: Bi 0.5, Rb 0.5; Bi4Rb5: Bi 0.444444, Rb 0.555556 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 20 |  |
+| 643 | eutectic: Liq->BiRb+Bi4Rb5 | Liq: Rb 0.51; BiRb: Bi 0.5, Rb 0.5; Bi4Rb5: Bi 0.444444, Rb 0.555556 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 20 |  |
 | 643 | eutectic: L -> Bi2Rb + Bi4Rb5 | Bi2Rb: Rb 0.333; Bi4Rb5: Rb 0.556 | experimental | [2] Liu 2013; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 2, p. 4, row 10 |  |
 | 643 | eutectic: L -> Bi2Rb + Bi4Rb5 | L: Rb 0.501; Bi2Rb: Rb 0.333; Bi4Rb5: Rb 0.556 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 11 |  |
-| 642.77 | Eutectic: Liq->Bi2Rb+BiRb | Liq: Rb 0.4882; Bi2Rb: Bi 0.666667, Rb 0.333333; BiRb: Bi 0.5, Rb 0.5 | model | [1] Dziri 2022 | Table 3, p. 6, row 15 |  |
-| 640.01 | Eutectic: Liq->BiRb+Bi4Rb5 | Liq: Rb 0.5166; BiRb: Bi 0.5, Rb 0.5; Bi4Rb5: Bi 0.444444, Rb 0.555556 | model | [1] Dziri 2022 | Table 3, p. 6, row 21 |  |
-| 631 | Eutectic: Liq->Bi2Rb+Bi4Rb5 | Bi2Rb: Bi 0.666667, Rb 0.333333; Bi4Rb5: Bi 0.444444, Rb 0.555556 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 18 |  |
-| 541.04 | Eutectic: Liq->Bi+Bi2Rb | Liq: Rb 0.0152; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 4 |  |
-| 541.02 | Eutectic: Liq->Bi+Bi2Rb | Liq: Rb 0.0132; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 5 |  |
+| 642.77 | eutectic: Liq->Bi2Rb+BiRb | Liq: Rb 0.4882; Bi2Rb: Bi 0.666667, Rb 0.333333; BiRb: Bi 0.5, Rb 0.5 | model | [1] Dziri 2022 | Table 3, p. 6, row 15 |  |
+| 640.01 | eutectic: Liq->BiRb+Bi4Rb5 | Liq: Rb 0.5166; BiRb: Bi 0.5, Rb 0.5; Bi4Rb5: Bi 0.444444, Rb 0.555556 | model | [1] Dziri 2022 | Table 3, p. 6, row 21 |  |
+| 631 | eutectic: Liq->Bi2Rb+Bi4Rb5 | Bi2Rb: Bi 0.666667, Rb 0.333333; Bi4Rb5: Bi 0.444444, Rb 0.555556 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 18 |  |
+| 541.04 | eutectic: Liq->Bi+Bi2Rb | Liq: Rb 0.0152; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 4 |  |
+| 541.02 | eutectic: Liq->Bi+Bi2Rb | Liq: Rb 0.0132; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 5 |  |
 | 541 | eutectic: L -> Rhomb_A7 + Bi2Rb | L: Rb 0.0152; Rhomb_A7: Rb 0; Bi2Rb: Rb 0.333 | model | [2] Liu 2013 | Table 2, p. 4, row 16 |  |
-| 541 | Eutectic: Liq->Bi+Bi2Rb | Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 2 |  |
-| 541 | Eutectic: Liq->Bi+Bi2Rb | Liq: Rb 0.016; Bi2Rb: Bi 0.666667, Rb 0.333333 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 3 |  |
+| 541 | eutectic: Liq->Bi+Bi2Rb | Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 2 |  |
+| 541 | eutectic: Liq->Bi+Bi2Rb | Liq: Rb 0.016; Bi2Rb: Bi 0.666667, Rb 0.333333 | unspecified | [1] Dziri 2022; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 3, p. 6, row 3 |  |
 | 541 | eutectic: L -> Rhomb_A7 + Bi2Rb | Bi2Rb: Rb 0.333 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 13 |  |
 | 541 | eutectic: L -> Rhomb_A7 + Bi2Rb | L: Rb 0.016; Rhomb_A7: Rb 0; Bi2Rb: Rb 0.333 | experimental | [2] Liu 2013; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 2, p. 4, row 14 |  |
 | 541 | eutectic: L -> Rhomb_A7 + Bi2Rb | L: Rb 0.016; Rhomb_A7: Rb 0; Bi2Rb: Rb 0.333 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 15 |  |
-| 536.97 | Eutectic: Liq->Bi+Bi2Rb | Liq: Rb 0.0312; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022 | Table 3, p. 6, row 6 |  |
-| 513 | Eutectic: Liq->Bi+Bi2Rb | Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Zhuravlev 1958_ | Table 3, p. 6, row 1 |  |
-| 506 | Polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 44 |  |
-| 503.96 | Polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | model | [1] Dziri 2022 | Table 3, p. 6, row 48 |  |
-| 503.4 | Polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 47 |  |
-| 503 | Polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | experimental | [1] Dziri 2022; _cites Chuntonov 1977_ | Table 3, p. 6, row 45 |  |
-| 503 | Polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 46 |  |
+| 536.97 | eutectic: Liq->Bi+Bi2Rb | Liq: Rb 0.0312; Bi2Rb: Bi 0.666667, Rb 0.333333 | model | [1] Dziri 2022 | Table 3, p. 6, row 6 |  |
+| 513 | eutectic: Liq->Bi+Bi2Rb | Bi2Rb: Bi 0.666667, Rb 0.333333 | experimental | [1] Dziri 2022; _cites Zhuravlev 1958_ | Table 3, p. 6, row 1 |  |
+| 506 | polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 3, p. 6, row 44 |  |
+| 503.96 | polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | model | [1] Dziri 2022 | Table 3, p. 6, row 48 |  |
+| 503.4 | polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 3, p. 6, row 47 |  |
+| 503 | polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | experimental | [1] Dziri 2022; _cites Chuntonov 1977_ | Table 3, p. 6, row 45 |  |
+| 503 | polymorphic: βBiRb3->α BiRb3 | βBiRb3: Bi 0.25, Rb 0.75; α BiRb3: Bi 0.25, Rb 0.75; Liq: Rb 0.75 | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 3, p. 6, row 46 |  |
 | 503 | polymorphic: β-BiRb3 -> α-BiRb3 | β-BiRb3: Rb 0.75; α-BiRb3: Rb 0.75 | experimental | [2] Liu 2013; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 2, p. 4, row 30 |  |
 | 312.48 | eutectic: L -> α-BiRb3 + BCC_A2 | L: Rb 1; α-BiRb3: Rb 0.75; BCC_A2: Rb 1 | model | [2] Liu 2013; _cites Pelton 1993_ [doi](https://doi.org/10.1007/bf02668237) | Table 2, p. 4, row 19 |  |
 | 312.46 | eutectic: L -> α-BiRb3 + BCC_A2 | L: Rb 1; α-BiRb3: Rb 0.75; BCC_A2: Rb 1 | model | [2] Liu 2013 | Table 2, p. 4, row 20 |  |

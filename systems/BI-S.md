@@ -63,9 +63,9 @@ Table: Phase transition, Bi–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1036 K | 1036 | congruent | experimental | [1] Huang 2014; _cites Glatz 1966_ [doi](https://doi.org/10.1021/j100883a513) | Table VI, p. 6, row 3 |  |
-| Phase transition | 1043 K | 1043 | congruent | model | [1] Huang 2014 | Table VI, p. 6, row 1 |  |
-| Phase transition | 1048 K | 1048 | congruent | unspecified | [1] Huang 2014; _cites ref. 32_ | Table VI, p. 6, row 2 |  |
+| Phase transition | 1036 K | 1036 | congruent transformation | experimental | [1] Huang 2014; _cites Glatz 1966_ [doi](https://doi.org/10.1021/j100883a513) | Table VI, p. 6, row 3 |  |
+| Phase transition | 1043 K | 1043 | congruent transformation | model | [1] Huang 2014 | Table VI, p. 6, row 1 |  |
+| Phase transition | 1048 K | 1048 | congruent transformation | unspecified | [1] Huang 2014; _cites ref. 32_ | Table VI, p. 6, row 2 |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 

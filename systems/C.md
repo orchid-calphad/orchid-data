@@ -32,8 +32,8 @@ Table: Mixing / partial, C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: H_C^liq(T_m) - H_C^gra(T_m)_ | 125520 J/mol |  | liquid C | experimental | [1] He 2021; _cites Leider 1973_ [doi](https://doi.org/10.1016/0008-6223%2873%2990316-3) | Table 2, p. 3, row 3 |  |
-| Partial enthalpy; _printed: H_C^liq(T_m) - H_C^gra(T_m)_ | 117318 J/mol |  | liquid C | unspecified | [1] He 2021 | Table 2, p. 3, row 4 |  |
+| Partial enthalpy; _printed: H_C^liq(T_m) - H_C^gra(T_m)_ | 125.52 kJ/mol (basis unstated) |  | liquid C | experimental | [1] He 2021; _cites Leider 1973_ [doi](https://doi.org/10.1016/0008-6223%2873%2990316-3) | Table 2, p. 3, row 3 |  |
+| Partial enthalpy; _printed: H_C^liq(T_m) - H_C^gra(T_m)_ | 117.318 kJ/mol (basis unstated) |  | liquid C | unspecified | [1] He 2021 | Table 2, p. 3, row 4 |  |
 
 ### Heat capacity / entropy / enthalpy (30)
 

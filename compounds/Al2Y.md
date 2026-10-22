@@ -1,23 +1,22 @@
 # Al2Y: enthalpy of formation
 
-> Enthalpy of formation of Al2Y: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al2Y: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al2Y.html · Markdown: https://data.orchid-project.org/compounds/Al2Y.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -65.65 kJ/mol-atom (n = 2); Materials Project -51.266 kJ/mol-atom (mp-aaaaadli); OQMD -51.513 kJ/mol-atom (oqmd-10612).
+3 accepted literature formation-enthalpy value(s) (experimental 2, model 1); experimental median -65.65 kJ/mol-atom (n = 2); Materials Project -51.266 kJ/mol-atom (mp-aaaaadli); OQMD -51.513 kJ/mol-atom (oqmd-10612).
 
 Systems: [Al–Y](https://data.orchid-project.org/systems/AL-Y.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al2Y reported in the literature (4)
+Table: Enthalpy of formation of Al2Y reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -80.9 kJ/mol-atom | YAl2 | 298.15 | experimental | Combustion calorimetry | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 3 |  |
 | -50.4 kJ/mol-atom | YAl2 | 1473 | experimental | Direct synthesis calorimetry | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 1, p. 2, row 9 |  |
 | -50.4 kJ/mol-atom | YAl2 |  | model |  | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995 | Table 1, p. 2, row 4 |  |
-| -50.4 kJ/mol-atom | YAl2 |  | model |  | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995 | Table 1, p. 2, row 10 |  |
 
 ## DFT formation energies
 

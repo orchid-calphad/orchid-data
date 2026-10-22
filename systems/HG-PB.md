@@ -66,10 +66,10 @@ Table: Phase transition, Hg–Pb system
 | Phase transition | 429 K | 429 | peritectic: liq + fcc(Pb) ↔ Pb2Hg; _alloy: Pb 1_ | model | [1] Maitre 2002 | Table 2, p. 4, row 22 |  |
 | Phase transition | 429.3 K | 429.3 | peritectic: liq + fcc(Pb) ↔ Pb2Hg; _alloy: Hg 0.4, Pb 0.6_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 18 |  |
 | Phase transition | 429.4 K | 429.4 | peritectic: liq + fcc(Pb) ↔ Pb2Hg; _alloy: Hg 0.35, Pb 0.65_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 16 |  |
-| Phase transition | 453.2 K | 453.2 | solidus: 25 at.% Hg; _alloy: Hg 0.25, Pb 0.75_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 8 |  |
-| Phase transition | 490 K | 490 | solidus: 21 at.% Hg; _alloy: Hg 0.21, Pb 0.79_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 6 |  |
-| Phase transition | 513 K | 513 | solidus: 15 at.% Hg; _alloy: Hg 0.15, Pb 0.85_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 4 |  |
-| Phase transition | 536 K | 536 | solidus: 10 at.% Hg; _alloy: Hg 0.1, Pb 0.9_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 2 |  |
+| Phase transition | 453.2 K | 453.2 | other: 25 at.% Hg; _alloy: Hg 0.25, Pb 0.75_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 8 |  |
+| Phase transition | 490 K | 490 | other: 21 at.% Hg; _alloy: Hg 0.21, Pb 0.79_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 6 |  |
+| Phase transition | 513 K | 513 | other: 15 at.% Hg; _alloy: Hg 0.15, Pb 0.85_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 4 |  |
+| Phase transition | 536 K | 536 | other: 10 at.% Hg; _alloy: Hg 0.1, Pb 0.9_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 2 |  |
 
 ### Phase equilibrium (13)
 
@@ -78,18 +78,18 @@ Table: Phase equilibrium, Hg–Pb system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 235.6 | Liquid + Rhombo_A10(Hg) + Pb2Hg; _Liquid: Hg 0.996, Pb 0.004; Rhombo_A10(Hg): Hg 0.994, Pb 0.006; Pb2Hg: Hg 0.326, Pb 0.674_ | model | [1] Maitre 2002 | Table 3, p. 4, row 1 |  |
-| Phase composition |  | 378.7 | liquidus: 80 at.% Hg; _liquid: Hg 0.8, Pb 0.2_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 20 |  |
-| Phase composition |  | 410.7 | liquidus: 60 at.% Hg; _liquid: Hg 0.6, Pb 0.4_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 19 |  |
+| Phase composition |  | 378.7 | other: 80 at.% Hg; _liquid: Hg 0.8, Pb 0.2_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 20 |  |
+| Phase composition |  | 410.7 | other: 60 at.% Hg; _liquid: Hg 0.6, Pb 0.4_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 19 |  |
 | Phase composition |  | 429 | Liquid + Fcc(Pb) + Pb2Hg; _Liquid: Hg 0.506, Pb 0.494; Fcc(Pb): Hg 0.298, Pb 0.702; Pb2Hg: Hg 0.326, Pb 0.674_ | model | [1] Maitre 2002 | Table 3, p. 4, row 2 |  |
-| Phase composition |  | 457.7 | liquidus: 40 at.% Hg; _liquid: Hg 0.4, Pb 0.6_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 17 |  |
-| Phase composition |  | 478.7 | liquidus: 35 at.% Hg; _liquid: Hg 0.35, Pb 0.65_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 15 |  |
-| Phase composition |  | 489.7 | liquidus: 32 at.% Hg; _liquid: Hg 0.32, Pb 0.68_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 13 |  |
-| Phase composition |  | 491.8 | liquidus: 31 at.% Hg; _liquid: Hg 0.31, Pb 0.69_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 11 |  |
-| Phase composition |  | 491.9 | liquidus: 28 at.% Hg; _liquid: Hg 0.28, Pb 0.72_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 9 |  |
-| Phase composition |  | 508.4 | liquidus: 25 at.% Hg; _liquid: Hg 0.25, Pb 0.75_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 7 |  |
-| Phase composition |  | 527.9 | liquidus: 21 at.% Hg; _liquid: Hg 0.21, Pb 0.79_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 5 |  |
-| Phase composition |  | 543.7 | liquidus: 15 at.% Hg; _liquid: Hg 0.15, Pb 0.85_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 3 |  |
-| Phase composition |  | 566.9 | liquidus: 10 at.% Hg; _liquid: Hg 0.1, Pb 0.9_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 1 |  |
+| Phase composition |  | 457.7 | other: 40 at.% Hg; _liquid: Hg 0.4, Pb 0.6_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 17 |  |
+| Phase composition |  | 478.7 | other: 35 at.% Hg; _liquid: Hg 0.35, Pb 0.65_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 15 |  |
+| Phase composition |  | 489.7 | other: 32 at.% Hg; _liquid: Hg 0.32, Pb 0.68_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 13 |  |
+| Phase composition |  | 491.8 | other: 31 at.% Hg; _liquid: Hg 0.31, Pb 0.69_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 11 |  |
+| Phase composition |  | 491.9 | other: 28 at.% Hg; _liquid: Hg 0.28, Pb 0.72_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 9 |  |
+| Phase composition |  | 508.4 | other: 25 at.% Hg; _liquid: Hg 0.25, Pb 0.75_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 7 |  |
+| Phase composition |  | 527.9 | other: 21 at.% Hg; _liquid: Hg 0.21, Pb 0.79_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 5 |  |
+| Phase composition |  | 543.7 | other: 15 at.% Hg; _liquid: Hg 0.15, Pb 0.85_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 3 |  |
+| Phase composition |  | 566.9 | other: 10 at.% Hg; _liquid: Hg 0.1, Pb 0.9_ | experimental | [1] Maitre 2002 | Table 2, p. 4, row 1 |  |
 
 ## Sources
 

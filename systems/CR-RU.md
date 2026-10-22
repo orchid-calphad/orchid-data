@@ -62,23 +62,23 @@ Table: Invariant reactions reported in the literature for the Cr–Ru system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1888 | Eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.368; bcc(Cr): Ru 0.317; hcp (Ru): Ru 0.466 | model | [1] Zhu 2015 | Table 2, p. 3, row 4 |  |
-| 1884 | Eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.367; bcc(Cr): Ru 0.315; hcp (Ru): Ru 0.471 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 3 |  |
+| 1888 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.368; bcc(Cr): Ru 0.317; hcp (Ru): Ru 0.466 | model | [1] Zhu 2015 | Table 2, p. 3, row 4 |  |
+| 1884 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.367; bcc(Cr): Ru 0.315; hcp (Ru): Ru 0.471 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 3 |  |
 | 1883.15 | eutectic |  | experimental | [2] WATSON 2006; _cites ref. 3_ | p. 2 | “The system comprises large terminal solid solutions of chromium and ruthenium ((Cr) & (Ru)) and associated with them is a eutectic reaction at 1610°C.” |
-| 1883 | Eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.37; bcc(Cr): Ru 0.32; hcp (Ru): Ru 0.48 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 1 |  |
-| 1881 | Eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.373; bcc(Cr): Ru 0.321; hcp (Ru): Ru 0.516 | unspecified | [1] Zhu 2015; _cites Chevalier 2007_ | Table 2, p. 3, row 2 |  |
-| 1858 | Peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.312; hcp (Ru): Ru 0.471; σ: Ru 0.347 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 6 |  |
-| 1853 | Peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.313; hcp (Ru): Ru 0.47; σ: Ru 0.342 | model | [1] Zhu 2015 | Table 2, p. 3, row 7 |  |
-| 1853 | Peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.32; hcp (Ru): Ru 0.48; σ: Ru 0.33 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 5 |  |
-| 1273 | Peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.223; σ: Ru 0.32; Cr3Ru: Ru 0.315 | model | [1] Zhu 2015 | Table 2, p. 3, row 10 |  |
-| 1273 | Peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.23; σ: Ru 0.32; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 8 |  |
-| 1268 | Peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.226; σ: Ru 0.329; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 9 |  |
-| 1100 | Eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.335; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.508 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 12 |  |
-| 1073 | Eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.341; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.594 | model | [1] Zhu 2015 | Table 2, p. 3, row 13 |  |
-| 1073 | Eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.33; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.5 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 11 |  |
-| 1053 | Eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.202; hcp (Ru): Ru 0.512 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 15 |  |
-| 1023 | Eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.18; hcp (Ru): Ru 0.51 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 14 |  |
-| 1022 | Eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.192; hcp (Ru): Ru 0.601 | model | [1] Zhu 2015 | Table 2, p. 3, row 16 |  |
+| 1883 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.37; bcc(Cr): Ru 0.32; hcp (Ru): Ru 0.48 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 1 |  |
+| 1881 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.373; bcc(Cr): Ru 0.321; hcp (Ru): Ru 0.516 | unspecified | [1] Zhu 2015; _cites Chevalier 2007_ | Table 2, p. 3, row 2 |  |
+| 1858 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.312; hcp (Ru): Ru 0.471; σ: Ru 0.347 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 6 |  |
+| 1853 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.313; hcp (Ru): Ru 0.47; σ: Ru 0.342 | model | [1] Zhu 2015 | Table 2, p. 3, row 7 |  |
+| 1853 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.32; hcp (Ru): Ru 0.48; σ: Ru 0.33 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 5 |  |
+| 1273 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.223; σ: Ru 0.32; Cr3Ru: Ru 0.315 | model | [1] Zhu 2015 | Table 2, p. 3, row 10 |  |
+| 1273 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.23; σ: Ru 0.32; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 8 |  |
+| 1268 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.226; σ: Ru 0.329; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 9 |  |
+| 1100 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.335; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.508 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 12 |  |
+| 1073 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.341; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.594 | model | [1] Zhu 2015 | Table 2, p. 3, row 13 |  |
+| 1073 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.33; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.5 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 11 |  |
+| 1053 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.202; hcp (Ru): Ru 0.512 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 15 |  |
+| 1023 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.18; hcp (Ru): Ru 0.51 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 14 |  |
+| 1022 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.192; hcp (Ru): Ru 0.601 | model | [1] Zhu 2015 | Table 2, p. 3, row 16 |  |
 
 ## Sources
 

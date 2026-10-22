@@ -28,13 +28,13 @@ Table: Invariant reactions reported in the literature for the B–Ti–Zr system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2388.15 | P: P1: L + Ti3B4 + (Ti, Zr)B2 = TiB | L: B 0.314, Ti 0.68, Zr 0.006 | model | [1] Pan 2019 | Table 4, p. 9, row 1 |  |
-| 2293.15 | U: U1: L + (Ti, Zr)B2 = ZrB2 + (βB) | L: B 0.962, Ti 0.005, Zr 0.033 | model | [1] Pan 2019 | Table 4, p. 9, row 2 |  |
-| 2293.15 | U: U1: L + (Ti, Zr)B2 = ZrB2 + (βB) |  | experimental | [1] Pan 2019; _cites Eckert 1966_ | Table 4, p. 9, row 3 |  |
-| 1723.15 | U: U2: L + (Ti, Zr)B2 = TiB + (βTi, βZr) | L: B 0.11, Ti 0.52, Zr 0.37 | experimental | [1] Pan 2019; _cites Eckert 1966_ | Table 4, p. 9, row 5 |  |
-| 1720.65 | U: U2: L + (Ti, Zr)B2 = TiB + (βTi, βZr) | L: B 0.11, Ti 0.509, Zr 0.381 | model | [1] Pan 2019 | Table 4, p. 9, row 4 |  |
-| 1719.95 | e: e5,min: L = TiB + (βTi, βZr) | L: B 0.102, Ti 0.55, Zr 0.348 | model | [1] Pan 2019 | Table 4, p. 9, row 6 |  |
-| 1718.15 | e: e5,min: L = TiB + (βTi, βZr) | L: Ti 0.51, Zr 0.4 | experimental | [1] Pan 2019; _cites Eckert 1966_ | Table 4, p. 9, row 7 |  |
+| 2388.15 | peritectic: P1: L + Ti3B4 + (Ti, Zr)B2 = TiB | L: B 0.314, Ti 0.68, Zr 0.006 | model | [1] Pan 2019 | Table 4, p. 9, row 1 |  |
+| 2293.15 | quasi-peritectic: U1: L + (Ti, Zr)B2 = ZrB2 + (βB) | L: B 0.962, Ti 0.005, Zr 0.033 | model | [1] Pan 2019 | Table 4, p. 9, row 2 |  |
+| 2293.15 | quasi-peritectic: U1: L + (Ti, Zr)B2 = ZrB2 + (βB) |  | experimental | [1] Pan 2019; _cites Eckert 1966_ | Table 4, p. 9, row 3 |  |
+| 1723.15 | quasi-peritectic: U2: L + (Ti, Zr)B2 = TiB + (βTi, βZr) | L: B 0.11, Ti 0.52, Zr 0.37 | experimental | [1] Pan 2019; _cites Eckert 1966_ | Table 4, p. 9, row 5 |  |
+| 1720.65 | quasi-peritectic: U2: L + (Ti, Zr)B2 = TiB + (βTi, βZr) | L: B 0.11, Ti 0.509, Zr 0.381 | model | [1] Pan 2019 | Table 4, p. 9, row 4 |  |
+| 1719.95 | eutectic: e5,min: L = TiB + (βTi, βZr) | L: B 0.102, Ti 0.55, Zr 0.348 | model | [1] Pan 2019 | Table 4, p. 9, row 6 |  |
+| 1718.15 | eutectic: e5,min: L = TiB + (βTi, βZr) | L: Ti 0.51, Zr 0.4 | experimental | [1] Pan 2019; _cites Eckert 1966_ | Table 4, p. 9, row 7 |  |
 
 ## Other properties
 

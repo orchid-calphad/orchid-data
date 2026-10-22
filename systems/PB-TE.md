@@ -119,7 +119,7 @@ Table: Phase transition, Pb–Te system
 | Phase transition | 1190 K | 1190 | liq \<-> PbTe; _L: Te 0.5; PbTe: Te 0.5_ | experimental | [3] Liu 2009; _cites Fay 1902_ | Table V, p. 9, row 7 |  |
 | Phase transition | 1192 K | 1192 | liq \<-> PbTe; _L: Te 0.5; PbTe: Te 0.5_ | model | [3] Liu 2009 | Table V, p. 9, row 3 |  |
 | Phase transition | 1195 K | 1195 | L -> PbTe; _L: Te 0.5; PbTe: Te 0.5_ | model | [2] Gierlotka 2009 | Table 3, p. 4, row 2 |  |
-| Phase transition | 1195.89 K | 1195.89 | congruent: Congruent melting point of PbTe; _PbTe: Te 0.5001_ | model | [1] Kattner 1986 | Table 5, p. 11, row 1 |  |
+| Phase transition | 1195.89 K | 1195.89 | congruent melting: Congruent melting point of PbTe; _PbTe: Te 0.5001_ | model | [1] Kattner 1986 | Table 5, p. 11, row 1 |  |
 | Phase transition | 1197 K | 1197 | liq \<-> PbTe; _L: Te 0.5; PbTe: Te 0.5_ | experimental | [3] Liu 2009; _cites Miller 1966_ | Table V, p. 9, row 6 |  |
 
 ## Sources

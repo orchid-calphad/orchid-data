@@ -1,10 +1,10 @@
 # Al–Mg–P–Si system
 
-> Al–Mg–P–Si system: 15 accepted literature values (phase transition 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg–P–Si system: 13 accepted literature values (phase transition 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG-P-SI.html · Markdown: https://data.orchid-project.org/systems/AL-MG-P-SI.md
 
-15 accepted literature values from 1 paper(s) (experimental 15); 0 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 13); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG-P-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-MG-P-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG-P-SI) · [Markdown](https://data.orchid-project.org/systems/AL-MG-P-SI.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 15 |
+| phase transition | 13 |
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (13)
 
 Table: Phase transition, Al–Mg–P–Si system
 
@@ -37,12 +37,10 @@ Table: Phase transition, Al–Mg–P–Si system
 | Phase transition | 847.15 K | 847.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 18 |  |
 | Phase transition | 847.15 K | 847.15 | eutectic: Al–7Si–0.3Mg; _alloy: Mg 0.0471865, Si 0.952814_ | experimental | [1] Liang 2014; _cites Kim 2000_ [doi](https://doi.org/10.1179/026708300101507785) | Table 4, p. 12, row 16 |  |
 | Phase transition | 849.05 K | 849.05 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 8 |  |
-| Phase transition | 849.05 K | 849.05 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 9 |  |
 | Phase transition | 850.05 K | 850.05 | eutectic: Al–7Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Ludwig 2013_ [doi](https://doi.org/10.1007/s11661-013-1945-y) | Table 4, p. 12, row 10 |  |
 | Phase transition | 850.85 K | 850.85 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites McDonald 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.05.043) | Table 4, p. 12, row 23 |  |
 | Phase transition | 851.15 K | 851.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 20 |  |
 | Phase transition | 852.15 K | 852.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 21 |  |
-| Phase transition | 852.15 K | 852.15 | eutectic: Al–10Si; _alloy: Si 1_ | experimental | [1] Liang 2014; _cites Kato 1997_ | Table 4, p. 12, row 19 |  |
 
 ## Sources
 

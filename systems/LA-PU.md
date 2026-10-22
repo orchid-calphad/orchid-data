@@ -54,32 +54,32 @@ Table: Invariant reactions reported in the literature for the La–Pu system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1123.15 | Monotectic: L1 -> (γLa) + L2 | L1: Pu 0.229; (γLa): Pu 0.204; L2: Pu 0.956 | model | [1] Liu 2014 | Table 5, p. 6, row 4 |  |
-| 1123.15 | Monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2 | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 2 |  |
-| 1123.15 | Monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2; L2: Pu 0.957 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 3 |  |
-| 1119.15 | Monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2 | experimental | [1] Liu 2014; _cites Poole 1960_ | Table 5, p. 6, row 1 |  |
-| 1108.15 | Catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.197; L2: Pu 0.96; (βLa): Pu 0.193 | model | [1] Liu 2014 | Table 5, p. 6, row 8 |  |
-| 1108.15 | Catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.2; L2: Pu 0.96; (βLa): Pu 0.191 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 7 |  |
-| 1108.15 | Catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.2; (βLa): Pu 0.19 | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 6 |  |
-| 1106.15 | Catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.18; (βLa): Pu 0.16 | experimental | [1] Liu 2014; _cites Poole 1960_ | Table 5, p. 6, row 5 |  |
-| 913.15 | Eutectic: L2 -> (βLa) + (εPu) | L2: Pu 0.985; (βLa): Pu 0.128; (εPu): Pu 0.988 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 10 |  |
-| 912.15 | Eutectic: L2 -> (βLa) + (εPu) | L2: Pu 0.989; (βLa): Pu 0.134; (εPu): Pu 0.99 | model | [1] Liu 2014 | Table 5, p. 6, row 11 |  |
-| 905.15 | Eutectic: L2 -> (βLa) + (εPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 9 |  |
-| 756.15 | Eutectoid: (εPu) -> (βLa) + (δ'Pu) | (εPu): Pu 0.997; (βLa): Pu 0.071; (δ'Pu): Pu 0.998 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 13 |  |
-| 754.15 | Eutectoid: (εPu) -> (βLa) + (δ'Pu) | (εPu): Pu 0.997; (βLa): Pu 0.078; (δ'Pu): Pu 0.998 | model | [1] Liu 2014 | Table 5, p. 6, row 14 |  |
-| 748.15 | Eutectoid: (εPu) -> (βLa) + (δ'Pu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 12 |  |
-| 736.15 | Peritectoid: (βLa) + (δ'Pu) -> (δPu) | (βLa): Pu 0.068; (δ'Pu): Pu 0.998 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 22 |  |
-| 736.15 | Peritectoid: (βLa) + (δ'Pu) -> (δPu) | (βLa): Pu 0.072; (δ'Pu): Pu 0.998 | model | [1] Liu 2014 | Table 5, p. 6, row 23 |  |
-| 723.15 | Peritectoid: (βLa) + (δ'Pu) -> (δPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 21 |  |
-| 603.15 | Eutectoid: (δPu) -> (βLa) + (γPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 15 |  |
-| 593.15 | Eutectoid: (δPu) -> (βLa) + (γPu) | (δPu): Pu 1; (βLa): Pu 0.036; (γPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 16 |  |
-| 592.15 | Eutectoid: (δPu) -> (βLa) + (γPu) | (δPu): Pu 1; (βLa): Pu 0.035; (γPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 17 |  |
-| 488.15 | Eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.023; (βPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 18 |  |
-| 488.15 | Eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.017; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 19 |  |
-| 472.15 | Eutectoid: (βLa) -> (αLa) + (βPu) | (βLa): Pu 0.015; (αLa): Pu 0; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 20 |  |
+| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.229; (γLa): Pu 0.204; L2: Pu 0.956 | model | [1] Liu 2014 | Table 5, p. 6, row 4 |  |
+| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2 | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 2 |  |
+| 1123.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2; L2: Pu 0.957 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 3 |  |
+| 1119.15 | monotectic: L1 -> (γLa) + L2 | L1: Pu 0.23; (γLa): Pu 0.2 | experimental | [1] Liu 2014; _cites Poole 1960_ | Table 5, p. 6, row 1 |  |
+| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.197; L2: Pu 0.96; (βLa): Pu 0.193 | model | [1] Liu 2014 | Table 5, p. 6, row 8 |  |
+| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.2; L2: Pu 0.96; (βLa): Pu 0.191 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 7 |  |
+| 1108.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.2; (βLa): Pu 0.19 | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 6 |  |
+| 1106.15 | metatectic/catatectic: (γLa) -> L2 + (βLa) | (γLa): Pu 0.18; (βLa): Pu 0.16 | experimental | [1] Liu 2014; _cites Poole 1960_ | Table 5, p. 6, row 5 |  |
+| 913.15 | eutectic: L2 -> (βLa) + (εPu) | L2: Pu 0.985; (βLa): Pu 0.128; (εPu): Pu 0.988 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 10 |  |
+| 912.15 | eutectic: L2 -> (βLa) + (εPu) | L2: Pu 0.989; (βLa): Pu 0.134; (εPu): Pu 0.99 | model | [1] Liu 2014 | Table 5, p. 6, row 11 |  |
+| 905.15 | eutectic: L2 -> (βLa) + (εPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 9 |  |
+| 756.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) | (εPu): Pu 0.997; (βLa): Pu 0.071; (δ'Pu): Pu 0.998 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 13 |  |
+| 754.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) | (εPu): Pu 0.997; (βLa): Pu 0.078; (δ'Pu): Pu 0.998 | model | [1] Liu 2014 | Table 5, p. 6, row 14 |  |
+| 748.15 | eutectoid: (εPu) -> (βLa) + (δ'Pu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 12 |  |
+| 736.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) | (βLa): Pu 0.068; (δ'Pu): Pu 0.998 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 22 |  |
+| 736.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) | (βLa): Pu 0.072; (δ'Pu): Pu 0.998 | model | [1] Liu 2014 | Table 5, p. 6, row 23 |  |
+| 723.15 | peritectoid: (βLa) + (δ'Pu) -> (δPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 21 |  |
+| 603.15 | eutectoid: (δPu) -> (βLa) + (γPu) |  | experimental | [1] Liu 2014; _cites Ellinger 1967_ | Table 5, p. 6, row 15 |  |
+| 593.15 | eutectoid: (δPu) -> (βLa) + (γPu) | (δPu): Pu 1; (βLa): Pu 0.036; (γPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 16 |  |
+| 592.15 | eutectoid: (δPu) -> (βLa) + (γPu) | (δPu): Pu 1; (βLa): Pu 0.035; (γPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 17 |  |
+| 488.15 | eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.023; (βPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 18 |  |
+| 488.15 | eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.017; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 19 |  |
+| 472.15 | eutectoid: (βLa) -> (αLa) + (βPu) | (βLa): Pu 0.015; (αLa): Pu 0; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 20 |  |
 | 472.15 | eutectoid: (bLa) M (aLa) + (bPu) |  | model | [1] Liu 2014 | p. 6 | “A new eutectoid transforming, (bLa) M (aLa) + (bPu), which has not been mentioned in all the literature data, is predicted to take place at 199 °C in this work, and this could be used to assist with further investigation.” |
-| 398.15 | Polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 24 |  |
-| 398.15 | Polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 25 |  |
+| 398.15 | polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 24 |  |
+| 398.15 | polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 25 |  |
 
 ## Other properties
 

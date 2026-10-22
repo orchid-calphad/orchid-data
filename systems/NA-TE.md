@@ -100,7 +100,7 @@ Table: Phase transition, Na–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 709 K | 709 | congruent | experimental | [1] Chen 2014; _cites Kraus 1929_ [doi](https://doi.org/10.1021/j150301a004) | p. 1 | “In addition, the congruent melting temperature of NaTe3 was reported to be 709 K with resistometric by Kraus and Glass \[8\] and thermal analysis by Kraus and Glass \[9\].” |
+| Phase transition | 709 K | 709 | congruent transformation | experimental | [1] Chen 2014; _cites Kraus 1929_ [doi](https://doi.org/10.1021/j150301a004) | p. 1 | “In addition, the congruent melting temperature of NaTe3 was reported to be 709 K with resistometric by Kraus and Glass \[8\] and thermal analysis by Kraus and Glass \[9\].” |
 
 ## Sources
 

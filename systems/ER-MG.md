@@ -55,12 +55,12 @@ Table: Invariant reactions reported in the literature for the Er–Mg system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1498.15 | Peritectic: L + (Er) -> "(βEr)" | L: Mg 0.28; (Er): Mg 0.1; "(βEr)": Mg 0.17 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 7 |  |
-| 1103.15 | Peritectic: L + "(βEr)" -> MgEr | L: Mg 0.63; "(βEr)": Mg 0.43; MgEr: Mg 0.5 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 5 |  |
-| 953.15 | Eutectoid: "(βEr)" -> MgEr + (Er) | "(βEr)": Mg 0.305; MgEr: Mg 0.5; (Er): Mg 0.13 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 6 |  |
-| 943.15 | Peritectic: L + MgEr -> Mg2Er | L: Mg 0.8; MgEr: Mg 0.5; Mg2Er: Mg 0.667 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 4 |  |
-| 873.15 | Peritectic: L + Mg2Er -> Mg24Er5 | L: Mg 0.85; Mg2Er: Mg 0.667; Mg24Er5: Mg 0.828 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 3 |  |
-| 843.15 | Eutectic: L -> (Mg) + Mg24Er5 | L: Mg 0.895; (Mg): Mg 0.931; Mg24Er5: Mg -0.72 (basis unresolved) | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 2 |  |
+| 1498.15 | peritectic: L + (Er) -> "(βEr)" | L: Mg 0.28; (Er): Mg 0.1; "(βEr)": Mg 0.17 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 7 |  |
+| 1103.15 | peritectic: L + "(βEr)" -> MgEr | L: Mg 0.63; "(βEr)": Mg 0.43; MgEr: Mg 0.5 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 5 |  |
+| 953.15 | eutectoid: "(βEr)" -> MgEr + (Er) | "(βEr)": Mg 0.305; MgEr: Mg 0.5; (Er): Mg 0.13 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 6 |  |
+| 943.15 | peritectic: L + MgEr -> Mg2Er | L: Mg 0.8; MgEr: Mg 0.5; Mg2Er: Mg 0.667 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 4 |  |
+| 873.15 | peritectic: L + Mg2Er -> Mg24Er5 | L: Mg 0.85; Mg2Er: Mg 0.667; Mg24Er5: Mg 0.828 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 3 |  |
+| 843.15 | eutectic: L -> (Mg) + Mg24Er5 | L: Mg 0.895; (Mg): Mg 0.931; Mg24Er5: Mg -0.72 (basis unresolved) | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 2 |  |
 
 ## Other properties
 
@@ -70,8 +70,8 @@ Table: Phase transition, Er–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 923.15 K | 923.15 | Melting: L -> Mg; _Mg: Mg 1_ | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 1 |  |
-| Phase transition | 1802.15 K | 1802.15 | Melting: L -> Er; _Er: Mg 0_ | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 8 |  |
+| Phase transition | 923.15 K | 923.15 | congruent melting: L -> Mg; _Mg: Mg 1_ | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 1 |  |
+| Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> Er; _Er: Mg 0_ | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 8 |  |
 
 ## Sources
 

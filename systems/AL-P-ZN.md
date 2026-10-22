@@ -30,15 +30,15 @@ Table: Invariant reactions reported in the literature for the Al–P–Zn system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1269.15 | Eutectic: L -> Zn3P2 + ZnP2 | L: P 0.0059 | model | [1] Tu 2009 | Table 2, p. 4, row 11 |  |
-| 1253.15 | Eutectic: L -> Zn3P2 + ZnP2 | L: P 0.0055 | unspecified | [1] Tu 2009; _cites Dutkiewicz 1991_ | Table 2, p. 4, row 12 |  |
-| 933.65 | Eutectic: L -> (Al) + AlP | L: P 0 | model | [1] Tu 2009 | Table 2, p. 4, row 1 |  |
-| 933.15 | Eutectic: L -> (Al) + AlP | L: P 0 | unspecified | [1] Tu 2009; _cites McAlister 1985_ [doi](https://doi.org/10.1007/bf02880402) | Table 2, p. 4, row 2 |  |
-| 689.15 | Eutectic: L -> (Zn) + Zn3P2 | L: P 6.400e-4 | model | [1] Tu 2009 | Table 2, p. 4, row 7 |  |
-| 689.15 | Eutectic: L -> (Zn) + Zn3P2 | L: P 6.600e-4 | unspecified | [1] Tu 2009; _cites Dutkiewicz 1991_ | Table 2, p. 4, row 8 |  |
-| 317.35 | Eutectic: L -> (White-P) + AlP | L: P 0.01 | model | [1] Tu 2009 | Table 2, p. 4, row 5 |  |
-| 317.15 | Eutectic: L -> (White-P) + AlP | L: P 0.01 | unspecified | [1] Tu 2009; _cites McAlister 1985_ [doi](https://doi.org/10.1007/bf02880402) | Table 2, p. 4, row 6 |  |
-| 317.15 | Eutectic: L -> ZnP2 + (White-P) | L: P 0.01 | model | [1] Tu 2009 | Table 2, p. 4, row 15 |  |
+| 1269.15 | eutectic: L -> Zn3P2 + ZnP2 | L: P 0.0059 | model | [1] Tu 2009 | Table 2, p. 4, row 11 |  |
+| 1253.15 | eutectic: L -> Zn3P2 + ZnP2 | L: P 0.0055 | unspecified | [1] Tu 2009; _cites Dutkiewicz 1991_ | Table 2, p. 4, row 12 |  |
+| 933.65 | eutectic: L -> (Al) + AlP | L: P 0 | model | [1] Tu 2009 | Table 2, p. 4, row 1 |  |
+| 933.15 | eutectic: L -> (Al) + AlP | L: P 0 | unspecified | [1] Tu 2009; _cites McAlister 1985_ [doi](https://doi.org/10.1007/bf02880402) | Table 2, p. 4, row 2 |  |
+| 689.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 6.400e-4 | model | [1] Tu 2009 | Table 2, p. 4, row 7 |  |
+| 689.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 6.600e-4 | unspecified | [1] Tu 2009; _cites Dutkiewicz 1991_ | Table 2, p. 4, row 8 |  |
+| 317.35 | eutectic: L -> (White-P) + AlP | L: P 0.01 | model | [1] Tu 2009 | Table 2, p. 4, row 5 |  |
+| 317.15 | eutectic: L -> (White-P) + AlP | L: P 0.01 | unspecified | [1] Tu 2009; _cites McAlister 1985_ [doi](https://doi.org/10.1007/bf02880402) | Table 2, p. 4, row 6 |  |
+| 317.15 | eutectic: L -> ZnP2 + (White-P) | L: P 0.01 | model | [1] Tu 2009 | Table 2, p. 4, row 15 |  |
 
 ## Formation enthalpies
 

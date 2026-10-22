@@ -1,20 +1,19 @@
 # NiSe0.535: enthalpy of formation
 
-> Enthalpy of formation of NiSe0.535: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of NiSe0.535: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiSe0.535.html · Markdown: https://data.orchid-project.org/compounds/NiSe0.535.md
 
-2 accepted literature formation-enthalpy value(s) (unspecified 2).
+1 accepted literature formation-enthalpy value(s) (unspecified 1).
 
 Systems: [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiSe0.535 reported in the literature (2)
+Table: Enthalpy of formation of NiSe0.535 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41.01 kJ/mol (basis unstated) | NiSe0.535 | 1050 | unspecified |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 10 |  |
 | -41.01 kJ/mol (basis unstated) | NiSe0.535 | 1050 | unspecified |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 10 |  |
 
 ## Sources

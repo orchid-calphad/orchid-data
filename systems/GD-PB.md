@@ -1,10 +1,10 @@
 # Gd–Pb system
 
-> Gd–Pb system: 46 accepted literature values (invariant reaction 29, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Pb system: 40 accepted literature values (invariant reaction 27, phase transition 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-PB.html · Markdown: https://data.orchid-project.org/systems/GD-PB.md
 
-46 accepted literature values from 2 paper(s) (experimental 20, model 26); 2 calculated phase diagram(s).
+40 accepted literature values from 2 paper(s) (experimental 20, model 20); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-PB.json) · [CSV](https://data.orchid-project.org/systems/GD-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-PB/GdPb-13Cui.json) · [Markdown](https://data.orchid-project.org/systems/GD-PB.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 26 |
+| model | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 29 |
-| phase transition | 17 |
+| invariant reaction | 27 |
+| phase transition | 13 |
 
 ## Calculated phase diagrams
 
@@ -74,14 +74,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Gd–Pb system (29)
+Table: Invariant reactions reported in the literature for the Gd–Pb system (27)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1733.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2 | “The compounds Gd5Pb4, Gd11Pb10, Gd6Pb7, GdPb2 and GdPb3 are formed by peritectic reaction at 1460 °C, 1225 °C, 1160 °C, 1010 °C and 969 °C, respectively.” |
 | 1733 | liq.+Gd5Pb3 -> βGd5Pb4 | Gd5Pb3: Pb 0.375; βGd5Pb4: Pb 0.444444 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 16 |  |
 | 1733 | liq.+Gd5Pb3 -> βGd5Pb4 | Gd5Pb3: Pb 0.375; βGd5Pb4: Pb 0.444444 | model | [2] Cui 2013 | Table 1, p. 2, row 17 |  |
-| 1733 | liq.+Gd5Pb3 -> βGd5Pb4 | Gd5Pb3: Pb 0.375; βGd5Pb4: Pb 0.444444 | model | [2] Cui 2013 | Table 1, p. 2, row 18 |  |
 | 1498.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2 | “The compounds Gd5Pb4, Gd11Pb10, Gd6Pb7, GdPb2 and GdPb3 are formed by peritectic reaction at 1460 °C, 1225 °C, 1160 °C, 1010 °C and 969 °C, respectively.” |
 | 1498 | liq.+αGd5Pb4 -> Gd11Pb10 | L: Pb 0.6345; αGd5Pb4: Pb 0.444444; Gd11Pb10: Pb 0.47619 | model | [2] Cui 2013 | Table 1, p. 2, row 24 |  |
 | 1498 | liq.+αGd5Pb4 -> Gd11Pb10 | L: Pb 0.5609; αGd5Pb4: Pb 0.444444; Gd11Pb10: Pb 0.47619 | model | [2] Cui 2013 | Table 1, p. 2, row 23 |  |
@@ -105,12 +104,11 @@ Table: Invariant reactions reported in the literature for the Gd–Pb system (29
 | 1242 | liq.+GdPb2 -> GdPb3 | L: Pb 0.7724; GdPb2: Pb 0.666667; GdPb3: Pb 0.75 | model | [2] Cui 2013 | Table 1, p. 2, row 32 |  |
 | 1242 | liq.+GdPb2 -> GdPb3 | L: Pb 0.7583; GdPb2: Pb 0.666667; GdPb3: Pb 0.75 | model | [2] Cui 2013 | Table 1, p. 2, row 33 |  |
 | 601 | liq.+GdPb3 -> Pb | GdPb3: Pb 0.75; Pb: Pb 1 | model | [2] Cui 2013 | Table 1, p. 2, row 36 |  |
-| 601 | liq.+GdPb3 -> Pb | GdPb3: Pb 0.75; Pb: Pb 1 | model | [2] Cui 2013 | Table 1, p. 2, row 35 |  |
 | 601 | liq.+GdPb3 -> Pb | GdPb3: Pb 0.75; Pb: Pb 1 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 34 |  |
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (13)
 
 Table: Phase transition, Gd–Pb system
 
@@ -119,20 +117,16 @@ Table: Phase transition, Gd–Pb system
 | Phase transition | 296 K | 296 |  | experimental | [2] Cui 2013; _cites Demel 1969_ [doi](https://doi.org/10.1016/0022-3115%2869%2990130-5) | p. 1 | “In this study, the hcp(Gd)2bcc(Gd) transformation was at 296 K and higher than the accepted value listed in literature of Gschneidner and Calderwood \[10\].” |
 | Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 37 |  |
 | Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | model | [2] Cui 2013 | Table 1, p. 2, row 38 |  |
-| Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | model | [2] Cui 2013 | Table 1, p. 2, row 39 |  |
 | Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: Pb 0_ | model | [2] Cui 2013 | Table 1, p. 2, row 6 |  |
-| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: Pb 0_ | model | [2] Cui 2013 | Table 1, p. 2, row 5 |  |
 | Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: Pb 0_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 4 |  |
 | Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | model | [2] Cui 2013 | Table 1, p. 2, row 3 |  |
-| Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | model | [2] Cui 2013 | Table 1, p. 2, row 2 |  |
 | Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 1 |  |
 | Phase transition | 1683 K | 1683 | βGd5Pb4 -> αGd5Pb4; _βGd5Pb4: Pb 0.444444; αGd5Pb4: Pb 0.444444_ | model | [2] Cui 2013 | Table 1, p. 2, row 20 |  |
-| Phase transition | 1683 K | 1683 | βGd5Pb4 -> αGd5Pb4; _βGd5Pb4: Pb 0.444444; αGd5Pb4: Pb 0.444444_ | model | [2] Cui 2013 | Table 1, p. 2, row 21 |  |
 | Phase transition | 1683 K | 1683 | βGd5Pb4 -> αGd5Pb4; _βGd5Pb4: Pb 0.444444; αGd5Pb4: Pb 0.444444_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 19 |  |
 | Phase transition | 1942 K | 1942 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | model | [2] Cui 2013 | Table 1, p. 2, row 15 |  |
 | Phase transition | 1943 K | 1943 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | model | [2] Cui 2013 | Table 1, p. 2, row 14 |  |
 | Phase transition | 1943 K | 1943 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 13 |  |
-| Phase transition | 1943.15 K | 1943.15 | congruent | experimental | [1] Iddaoudi 2014 | p. 2 | “The Gd5Pb3 phase melts congruently at 1670 °C.” |
+| Phase transition | 1943.15 K | 1943.15 | congruent transformation | experimental | [1] Iddaoudi 2014 | p. 2 | “The Gd5Pb3 phase melts congruently at 1670 °C.” |
 
 ## Sources
 

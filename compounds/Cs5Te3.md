@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Cs5Te3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -942.2 kJ/mol (basis unstated) ± 8.3 | Cs₅Te₃ | 298.15 ({'op': '>', 'value_K': 298.15}) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
-| -117.775 kJ/mol-atom ± 8.3 | Cs5Te3 | 298.15 ({'op': '>', 'value_K': 298.15}) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
+| -942.2 kJ/mol (basis unstated) ± 8.3 | Cs₅Te₃ | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
+| -117.775 kJ/mol-atom ± 8.3 | Cs5Te3 | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 
 ## DFT formation energies
 

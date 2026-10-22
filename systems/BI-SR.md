@@ -80,11 +80,11 @@ Table: Phase transition, Bi–Sr system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 333 K | 333 | other | model | [2] Hallstedt 2003 | p. 5 | “The transition temperatures at the end compositions were fixed to 400 and 333 K, respectively, after a preliminary optimisation.” |
-| Phase transition | 905 K | 905 | congruent | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
+| Phase transition | 905 K | 905 | congruent transformation | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
 | Phase transition | 973 K | 973 | polymorphic: αSr3Bi22βSr3Bi2 | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2 | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
-| Phase transition | 1131 K | 1131 | congruent | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
+| Phase transition | 1131 K | 1131 | congruent transformation | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
 | Phase transition | 1218 K | 1218 |  | model | [1] Wang 2014 | p. 5 | “It is indicated that the melting temperature of the βSr5Bi3 phase is calculated to be 1218 K.” |
-| Phase transition | 1218 K | 1218 | congruent | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
+| Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
 
 ## Sources
 

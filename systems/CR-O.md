@@ -75,9 +75,9 @@ Table: Phase transition, Cr–O system
 | Phase transition | 305.5 K | 305.5 | magnetic | experimental | [1] Povoden 2006 | p. 3 | “Eskolaite shows an antiferromagnetic to paramagnetic transition at 305.5 K.” |
 | Phase transition | 1918 K | 1918 | other: Cr2O3 + Cr + 1⁄2 O2 → Cr3O4 | model | [1] Povoden 2006 | p. 8 | “Cr3O4 is formed at 1918 K by a eutectoid reaction Cr2O3 + Cr + 1⁄2 O2 → Cr3O4.” |
 | Phase transition | 2117 K | 2117 | other | model | [1] Povoden 2006 | p. 8 | “For the monotectic temperature of the reaction of Cr (bcc) and liquid, the present authors calculate 2117 K, and for the eutectic one gets 1938 K at a mole fraction of oxygen of 0.497.” |
-| Phase transition | 2539 K | 2539 | liquidus | model | [1] Povoden 2006 | p. 8 | “The calculated liquidus temperature of eskolaite in air is 2539 K, in good agreement with the measurement from Bunting.\[7\]” |
-| Phase transition | 2543 K | 2543 | liquidus | experimental | [1] Povoden 2006; _cites Bunting 1931_ | p. 3 | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
-| Phase transition | 2571.16 K | 2571.16 | liquidus | model | [1] Povoden 2006 | p. 3 | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
+| Phase transition | 2539 K | 2539 | other | model | [1] Povoden 2006 | p. 8 | “The calculated liquidus temperature of eskolaite in air is 2539 K, in good agreement with the measurement from Bunting.\[7\]” |
+| Phase transition | 2543 K | 2543 | other | experimental | [1] Povoden 2006; _cites Bunting 1931_ | p. 3 | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
+| Phase transition | 2571.16 K | 2571.16 | other | model | [1] Povoden 2006 | p. 3 | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
 | Phase transition | 2603 K | 2603 |  | experimental | [1] Povoden 2006; _cites McNally 1961_ | p. 1 | “McNally\[6\] measured a melting temperature of 2603 K in air using an induction furnace.” |
 
 ## Sources

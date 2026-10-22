@@ -28,13 +28,13 @@ Table: Invariant reactions reported in the literature for the Ru–Si–Sn syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3694 | E: L -> L1 + L2 + L3 |  | model | [1] Long 2012 | Table 4, p. 7, row 7 |  |
-| 1932 | E: L -> L + Ru2Si3 + RuSi |  | model | [1] Long 2012 | Table 4, p. 7, row 1 |  |
-| 1618 | U: L + Ru2Si -> hcp(Ru) + Ru4Si3 |  | model | [1] Long 2012 | Table 4, p. 7, row 2 |  |
-| 1550 | E: L -> L + Dimond(Si) + Ru2Si3 |  | model | [1] Long 2012 | Table 4, p. 7, row 3 |  |
-| 1540 | U: L + hcp(Ru) -> Ru4Si3 + Ru2Sn3 |  | model | [1] Long 2012 | Table 4, p. 7, row 4 |  |
-| 1528 | E: L -> Ru4Si3 + Ru2Sn3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 4, p. 7, row 5 |  |
-| 1516 | U: L + Ru4Si3 -> Ru3Sn7 + RuSi |  | model | [1] Long 2012 | Table 4, p. 7, row 6 |  |
+| 3694 | eutectic: L -> L1 + L2 + L3 |  | model | [1] Long 2012 | Table 4, p. 7, row 7 |  |
+| 1932 | eutectic: L -> L + Ru2Si3 + RuSi |  | model | [1] Long 2012 | Table 4, p. 7, row 1 |  |
+| 1618 | quasi-peritectic: L + Ru2Si -> hcp(Ru) + Ru4Si3 |  | model | [1] Long 2012 | Table 4, p. 7, row 2 |  |
+| 1550 | eutectic: L -> L + Dimond(Si) + Ru2Si3 |  | model | [1] Long 2012 | Table 4, p. 7, row 3 |  |
+| 1540 | quasi-peritectic: L + hcp(Ru) -> Ru4Si3 + Ru2Sn3 |  | model | [1] Long 2012 | Table 4, p. 7, row 4 |  |
+| 1528 | eutectic: L -> Ru4Si3 + Ru2Sn3 + Ru3Sn7 |  | model | [1] Long 2012 | Table 4, p. 7, row 5 |  |
+| 1516 | quasi-peritectic: L + Ru4Si3 -> Ru3Sn7 + RuSi |  | model | [1] Long 2012 | Table 4, p. 7, row 6 |  |
 
 ## Other properties
 

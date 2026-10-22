@@ -1,24 +1,22 @@
 # Ga6Gd: enthalpy of formation
 
-> Enthalpy of formation of Ga6Gd: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ga6Gd: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ga6Gd.html · Markdown: https://data.orchid-project.org/compounds/Ga6Gd.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -31.251 kJ/mol-atom (mp-aaackwju); OQMD -31.82 kJ/mol-atom (oqmd-1484077).
+4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -31.251 kJ/mol-atom (mp-aaackwju); OQMD -31.82 kJ/mol-atom (oqmd-1484077).
 
 Systems: [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) · [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ga6Gd reported in the literature (6)
+Table: Enthalpy of formation of Ga6Gd reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -36 kJ/mol-atom | Ga6Gd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 2 |  |
-| -36 kJ/mol-atom | Ga6Gd |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 2 |  |
 | -31.514 kJ/mol-atom | Ga6Gd | 298 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023 | Table 2, p. 8, row 19 |  |
 | -30.14 kJ/mol-atom | Ga6Gd | 298 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 18 |  |
-| -30.14 kJ/mol-atom | Ga6Gd |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 1 |  |
 | -30.14 kJ/mol-atom | Ga6Gd |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 1 |  |
 
 ## DFT formation energies

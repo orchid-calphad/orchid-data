@@ -31,21 +31,21 @@ Table: Crystal structure, H–Li–Na–Sc–Sr system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.3771 nm | 298.15 | (H); _alloy: Li 0, Na 0, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 1 |  |
 | Lattice a | 0.35093 nm | 298.15 | UNKNOWN; _alloy: Li 1, Na 0, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 12 |  |
-| Lattice a | 0.42096 nm | 370.1 ({'op': '\<', 'printed': '\< 96.95', 'value_K': 370.1}) | UNKNOWN; _alloy: Li 0, Na 1, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 3 |  |
-| Lattice a | 1.505 nm | 425.15 ({'op': '\<', 'printed': '\< 152', 'value_K': 425.15}) | UNKNOWN; _alloy: Li 0.793103, Na 0, Sc 0, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Kripyakevich 1963_ | Table 2, p. 2, row 10 |  |
-| Lattice a | 1.488 nm | 425.15 ({'op': '\<', 'printed': '\< 152', 'value_K': 425.15}) | UNKNOWN; _alloy: Li 0.793103, Na 0, Sc 0, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 9 |  |
-| Lattice a | 0.35093 nm | 453.7 ({'op': '\<', 'printed': '\< 180.55', 'value_K': 453.7}) | UNKNOWN; _alloy: Li 1, Na 0, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 2 |  |
-| Lattice a | 0.9628 nm | 471.15 ({'op': '\<', 'printed': '\< 198', 'value_K': 471.15}) | UNKNOWN; _alloy: Li 0.4, Na 0, Sc 0, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11 |  |
-| Lattice a | 0.6084 nm | 820 ({'op': '\<', 'printed': '\< 546.85', 'value_K': 820.0}) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 1_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 6 |  |
-| Lattice a | 0.487 nm | 1050 ({'op': '\<', 'printed': '\< 776.85', 'value_K': 1050.0}) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 1_ | model | [1] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 7 |  |
-| Lattice a | 0.6364 nm | 1128.15 ({'op': '\<', 'printed': '\< 855', 'value_K': 1128.15}) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8 |  |
-| Lattice a | 0.33088 nm | 1608 ({'op': '\<', 'printed': '\< 1334.85', 'value_K': 1608.0}) | (αSc); _alloy: Li 0, Na 0, Sc 1, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4 |  |
-| Lattice a | 0.373 nm | 1814 ({'op': '\<', 'printed': '\< 1540.85', 'value_K': 1814.0}) | UNKNOWN; _alloy: Li 0, Na 0, Sc 1, Sr 0_ | model | [1] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 5 |  |
-| Lattice b | 0.3875 nm | 1128.15 ({'op': '\<', 'printed': '\< 855', 'value_K': 1128.15}) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8 |  |
+| Lattice a | 0.42096 nm | 370.1 (\<) | UNKNOWN; _alloy: Li 0, Na 1, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 3 |  |
+| Lattice a | 1.505 nm | 425.15 (\<) | UNKNOWN; _alloy: Li 0.793103, Na 0, Sc 0, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Kripyakevich 1963_ | Table 2, p. 2, row 10 |  |
+| Lattice a | 1.488 nm | 425.15 (\<) | UNKNOWN; _alloy: Li 0.793103, Na 0, Sc 0, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 9 |  |
+| Lattice a | 0.35093 nm | 453.7 (\<) | UNKNOWN; _alloy: Li 1, Na 0, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 2 |  |
+| Lattice a | 0.9628 nm | 471.15 (\<) | UNKNOWN; _alloy: Li 0.4, Na 0, Sc 0, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11 |  |
+| Lattice a | 0.6084 nm | 820 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 1_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 6 |  |
+| Lattice a | 0.487 nm | 1050 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 1_ | model | [1] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 7 |  |
+| Lattice a | 0.6364 nm | 1128.15 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8 |  |
+| Lattice a | 0.33088 nm | 1608 (\<) | (αSc); _alloy: Li 0, Na 0, Sc 1, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4 |  |
+| Lattice a | 0.373 nm | 1814 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 1, Sr 0_ | model | [1] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 5 |  |
+| Lattice b | 0.3875 nm | 1128.15 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8 |  |
 | Lattice c | 1.631 nm | 298.15 | (H); _alloy: Li 0, Na 0, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 1 |  |
-| Lattice c | 0.855 nm | 471.15 ({'op': '\<', 'printed': '\< 198', 'value_K': 471.15}) | UNKNOWN; _alloy: Li 0.4, Na 0, Sc 0, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11 |  |
-| Lattice c | 0.7343 nm | 1128.15 ({'op': '\<', 'printed': '\< 855', 'value_K': 1128.15}) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8 |  |
-| Lattice c | 0.5268 nm | 1608 ({'op': '\<', 'printed': '\< 1334.85', 'value_K': 1608.0}) | (αSc); _alloy: Li 0, Na 0, Sc 1, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4 |  |
+| Lattice c | 0.855 nm | 471.15 (\<) | UNKNOWN; _alloy: Li 0.4, Na 0, Sc 0, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11 |  |
+| Lattice c | 0.7343 nm | 1128.15 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8 |  |
+| Lattice c | 0.5268 nm | 1608 (\<) | (αSc); _alloy: Li 0, Na 0, Sc 1, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4 |  |
 
 ## Sources
 

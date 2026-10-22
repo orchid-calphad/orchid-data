@@ -59,23 +59,23 @@ Table: Invariant reactions reported in the literature for the Al–Te system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1268.75 | Critical point: L -> L1 + L2 | L: Te 0.405 | model | [1] Shi 2019 | Table 7, p. 10, row 2 |  |
-| 1230.15 | Critical point: L -> L1 + L2 | L: Te 0.41 | experimental | [1] Shi 2019; _cites Said 2019_ | Table 7, p. 10, row 1 |  |
-| 1130.15 | Syntectic: L1 + L2 -> AlTe | L1: Te 0.101; L2: Te 0.558; AlTe: Te 0.5 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 5 |  |
-| 1128.65 | Syntectic: L1 + L2 -> AlTe | L1: Te 0.157; L2: Te 0.522; AlTe: Te 0.5 | model | [1] Shi 2019 | Table 7, p. 10, row 6 |  |
-| 1120.35 | Eutectic: L2 -> AlTe + βAl2Te3 | L2: Te 0.565; AlTe: Te 0.5; βAl2Te3: Te 0.6 | model | [1] Shi 2019 | Table 7, p. 10, row 8 |  |
-| 1119.45 | Eutectic: L2 -> AlTe + βAl2Te3 | L2: Te 0.568; AlTe: Te 0.5; βAl2Te3: Te 0.6 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 7 |  |
+| 1268.75 | critical point: L -> L1 + L2 | L: Te 0.405 | model | [1] Shi 2019 | Table 7, p. 10, row 2 |  |
+| 1230.15 | critical point: L -> L1 + L2 | L: Te 0.41 | experimental | [1] Shi 2019; _cites Said 2019_ | Table 7, p. 10, row 1 |  |
+| 1130.15 | syntectic: L1 + L2 -> AlTe | L1: Te 0.101; L2: Te 0.558; AlTe: Te 0.5 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 5 |  |
+| 1128.65 | syntectic: L1 + L2 -> AlTe | L1: Te 0.157; L2: Te 0.522; AlTe: Te 0.5 | model | [1] Shi 2019 | Table 7, p. 10, row 6 |  |
+| 1120.35 | eutectic: L2 -> AlTe + βAl2Te3 | L2: Te 0.565; AlTe: Te 0.5; βAl2Te3: Te 0.6 | model | [1] Shi 2019 | Table 7, p. 10, row 8 |  |
+| 1119.45 | eutectic: L2 -> AlTe + βAl2Te3 | L2: Te 0.568; AlTe: Te 0.5; βAl2Te3: Te 0.6 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 7 |  |
 | 1116.15 | monotectic: L2 ? L1? Al2Te3 |  | experimental | [1] Shi 2019 | p. 4 | “Three monotectic reactions, L2 ? L1? Al2Te3, L1 ? (Al) ? Al2Te3, and L2 ? Al2Te3? (Te), were found to exist at about 843 C and 54 ± 1 at.% Te, about 651 C and 2 ± 1 at.% Te, and about 432 C and 90 ± 1 at.% Te.” |
-| 933.25 | Eutectic: L1 -> (Al) + AlTe | L1: Te 1.000e-4; (Al): Te 0; AlTe: Te 0.5 | model | [1] Shi 2019 | Table 7, p. 10, row 4 |  |
+| 933.25 | eutectic: L1 -> (Al) + AlTe | L1: Te 1.000e-4; (Al): Te 0; AlTe: Te 0.5 | model | [1] Shi 2019 | Table 7, p. 10, row 4 |  |
 | 924.15 | monotectic: L1 ? (Al) ? Al2Te3 |  | experimental | [1] Shi 2019 | p. 4 | “Three monotectic reactions, L2 ? L1? Al2Te3, L1 ? (Al) ? Al2Te3, and L2 ? Al2Te3? (Te), were found to exist at about 843 C and 54 ± 1 at.% Te, about 651 C and 2 ± 1 at.% Te, and about 432 C and 90 ± 1 at.% Te.” |
-| 922.15 | Eutectic: L1 -> (Al) + AlTe | L1: Te 1.000e-4; (Al): Te 0; AlTe: Te 0.5 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 3 |  |
-| 738.15 | Peritectic: αAl2Te3 + L2 -> Al2Te5 | αAl2Te3: Te 0.6; L2: Te 0.875; Al2Te5: Te 0.714 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 11 |  |
-| 735.85 | Peritectic: αAl2Te3 + L2 -> Al2Te5 | αAl2Te3: Te 0.6; L2: Te 0.884; Al2Te5: Te 0.714 | model | [1] Shi 2019 | Table 7, p. 10, row 12 |  |
-| 708.15 | Eutectic: L2 -> Al2Te5 + (Te) | L2: Te 0.882; Al2Te5: Te 0.714; (Te): Te 1 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 9 |  |
+| 922.15 | eutectic: L1 -> (Al) + AlTe | L1: Te 1.000e-4; (Al): Te 0; AlTe: Te 0.5 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 3 |  |
+| 738.15 | peritectic: αAl2Te3 + L2 -> Al2Te5 | αAl2Te3: Te 0.6; L2: Te 0.875; Al2Te5: Te 0.714 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 11 |  |
+| 735.85 | peritectic: αAl2Te3 + L2 -> Al2Te5 | αAl2Te3: Te 0.6; L2: Te 0.884; Al2Te5: Te 0.714 | model | [1] Shi 2019 | Table 7, p. 10, row 12 |  |
+| 708.15 | eutectic: L2 -> Al2Te5 + (Te) | L2: Te 0.882; Al2Te5: Te 0.714; (Te): Te 1 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 9 |  |
 | 705.15 | monotectic: L2 ? Al2Te3? (Te) |  | experimental | [1] Shi 2019 | p. 4 | “Three monotectic reactions, L2 ? L1? Al2Te3, L1 ? (Al) ? Al2Te3, and L2 ? Al2Te3? (Te), were found to exist at about 843 C and 54 ± 1 at.% Te, about 651 C and 2 ± 1 at.% Te, and about 432 C and 90 ± 1 at.% Te.” |
-| 699.45 | Eutectic: L2 -> Al2Te5 + (Te) | L2: Te 0.919; Al2Te5: Te 0.714; (Te): Te 1 | model | [1] Shi 2019 | Table 7, p. 10, row 10 |  |
-| 688.15 | Eutectoid: Al2Te5 -> αAl2Te3 + (Te) | Al2Te5: Te 0.714; αAl2Te3: Te 0.6; (Te): Te 1 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 13 |  |
-| 681.55 | Eutectoid: Al2Te5 -> αAl2Te3 + (Te) | Al2Te5: Te 0.714; αAl2Te3: Te 0.6; (Te): Te 1 | model | [1] Shi 2019 | Table 7, p. 10, row 14 |  |
+| 699.45 | eutectic: L2 -> Al2Te5 + (Te) | L2: Te 0.919; Al2Te5: Te 0.714; (Te): Te 1 | model | [1] Shi 2019 | Table 7, p. 10, row 10 |  |
+| 688.15 | eutectoid: Al2Te5 -> αAl2Te3 + (Te) | Al2Te5: Te 0.714; αAl2Te3: Te 0.6; (Te): Te 1 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 13 |  |
+| 681.55 | eutectoid: Al2Te5 -> αAl2Te3 + (Te) | Al2Te5: Te 0.714; αAl2Te3: Te 0.6; (Te): Te 1 | model | [1] Shi 2019 | Table 7, p. 10, row 14 |  |
 
 ## Formation enthalpies
 

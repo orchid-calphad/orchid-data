@@ -31,18 +31,18 @@ Table: Invariant reactions reported in the literature for the O–Y system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 4921 | Congruent: L\* -> gas\* (P = 1 bar) | L: O 0.371; gas: O 0.371 | model | [1] Djurovic 2007 | Table 2, p. 6, row 10 |  |
-| 2718 | Congruent: L\* -> β-Y2O3\* | L: O 0.598; β-Y2O3: O 0.598 | model | [1] Djurovic 2007 | Table 2, p. 6, row 8 |  |
-| 2712 | Congruent: L\* -> β-Y2O3\* | L: O 0.6, Y 0.4; β-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Foex 1977_ | Table 2, p. 6, row 9 |  |
-| 2600 | Metatetic: β-Y2O3\* -> α-Y2O3 + L | β-Y2O3: O 0.588; α-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 7 |  |
-| 1943 | Congruent: L\* -> β-Y\* | L: O 0.226; β-Y: O 0.226 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 6 |  |
-| 1943 | Congruent: L\* -> β-Y\* | L: O 0.23; β-Y: O 0.23 | model | [1] Djurovic 2007 | Table 2, p. 6, row 5 |  |
-| 1833 | Eutectic: L\* -> β-Y + gα-Y2O3 | L: O 0.373; gα-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 3 |  |
+| 4921 | congruent melting: L\* -> gas\* (P = 1 bar) | L: O 0.371; gas: O 0.371 | model | [1] Djurovic 2007 | Table 2, p. 6, row 10 |  |
+| 2718 | congruent melting: L\* -> β-Y2O3\* | L: O 0.598; β-Y2O3: O 0.598 | model | [1] Djurovic 2007 | Table 2, p. 6, row 8 |  |
+| 2712 | congruent melting: L\* -> β-Y2O3\* | L: O 0.6, Y 0.4; β-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Foex 1977_ | Table 2, p. 6, row 9 |  |
+| 2600 | other: β-Y2O3\* -> α-Y2O3 + L | β-Y2O3: O 0.588; α-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 7 |  |
+| 1943 | congruent melting: L\* -> β-Y\* | L: O 0.226; β-Y: O 0.226 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 6 |  |
+| 1943 | congruent melting: L\* -> β-Y\* | L: O 0.23; β-Y: O 0.23 | model | [1] Djurovic 2007 | Table 2, p. 6, row 5 |  |
+| 1833 | eutectic: L\* -> β-Y + gα-Y2O3 | L: O 0.373; gα-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 3 |  |
 | 1833 | eutectic: liquid -> b-Y + a-Y2O3 |  | model | [2] Swamy 1998 | p. 2 | “A eutectoid reaction b-Y5a-Y1a-Y 2 O 3 at 18.060.5 at.% oxygen and 1453 K, and a eutectic reaction liquid5b-Y1a-Y 2 O 3 at 37.461.0 at.% oxygen and 1833 K have been established \[11,12\].” |
-| 1833 | Eutectic: L\* -> β-Y + gα-Y2O3 | L: O 0.373; gα-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 4 |  |
+| 1833 | eutectic: L\* -> β-Y + gα-Y2O3 | L: O 0.373; gα-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 4 |  |
 | 1453 | eutectoid: b-Y -> a-Y + a-Y2O3 |  | model | [2] Swamy 1998 | p. 2 | “A eutectoid reaction b-Y5a-Y1a-Y 2 O 3 at 18.060.5 at.% oxygen and 1453 K, and a eutectic reaction liquid5b-Y1a-Y 2 O 3 at 37.461.0 at.% oxygen and 1833 K have been established \[11,12\].” |
-| 1453 | Eutectoid: β-Y\* -> α-Y + gα-Y2O3 | β-Y: O 0.18; gα-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 1 |  |
-| 1453 | Eutectoid: β-Y\* -> α-Y + gα-Y2O3 | β-Y: O 0.18; gα-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 2 |  |
+| 1453 | eutectoid: β-Y\* -> α-Y + gα-Y2O3 | β-Y: O 0.18; gα-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 1 |  |
+| 1453 | eutectoid: β-Y\* -> α-Y + gα-Y2O3 | β-Y: O 0.18; gα-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 2 |  |
 
 ## Other properties
 

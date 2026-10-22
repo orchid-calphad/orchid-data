@@ -1,29 +1,26 @@
 # Fe23Zr6: enthalpy of formation
 
-> Enthalpy of formation of Fe23Zr6: 16 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Fe23Zr6: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe23Zr6.html · Markdown: https://data.orchid-project.org/compounds/Fe23Zr6.md
 
-16 accepted literature formation-enthalpy value(s) (experimental 2, model 10, DFT 4); experimental median -21.8 kJ/mol-atom (n = 2); Materials Project -16.072 kJ/mol-atom (mp-aaabheie); OQMD -16.029 kJ/mol-atom (oqmd-30272).
+13 accepted literature formation-enthalpy value(s) (experimental 2, model 7, DFT 4); experimental median -21.8 kJ/mol-atom (n = 2); Materials Project -16.072 kJ/mol-atom (mp-aaabheie); OQMD -16.029 kJ/mol-atom (oqmd-30272).
 
 Systems: [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) · [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe23Zr6 reported in the literature (16)
+Table: Enthalpy of formation of Fe23Zr6 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -21.8 kJ/mol-atom ± 0.7 | Fe23Zr6 + γ | 1573.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Mahdouk 1996_ [doi](https://doi.org/10.1007/bf02648490) | Table 2, p. 5, row 3 |  |
 | -21.8 kJ/mol-atom ± 0.7 | Fe23Zr6 + γ | 1573.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Mahdouk 1996_ [doi](https://doi.org/10.1007/bf02648490) | Table 2, p. 5, row 3 |  |
 | -30.164 kJ/mol-atom | Fe23Zr6 | 1573.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 5 |  |
-| -30.164 kJ/mol-atom | Fe23Zr6 | 1573.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 5 |  |
-| -23.286 kJ/mol-atom | Fe23Zr6 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 6 |  |
 | -23.286 kJ/mol-atom | Fe23Zr6 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 6 |  |
 | -22.364 kJ/mol-atom | Fe23Zr6 + γ | 1573.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 4 |  |
 | -22.364 kJ/mol-atom | Fe23Zr6 + γ | 1573.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 4 |  |
 | -19 kJ/mol-atom | Fe23Zr6 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 32 |  |
-| -16.705 kJ/mol-atom | Fe23Zr6 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 8 |  |
 | -16.705 kJ/mol-atom | Fe23Zr6 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 8 |  |
 | -16.21 kJ/mol (basis unstated) | Fe23Zr6 | 0 | model |  | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [2] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 50 |  |
 | -16 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [2] Lu 2017 | Table 2, p. 3, row 49 |  |

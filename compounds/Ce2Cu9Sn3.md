@@ -1,20 +1,19 @@
 # Ce2Cu9Sn3: enthalpy of formation
 
-> Enthalpy of formation of Ce2Cu9Sn3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ce2Cu9Sn3: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ce2Cu9Sn3.html · Markdown: https://data.orchid-project.org/compounds/Ce2Cu9Sn3.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ce2Cu9Sn3 reported in the literature (2)
+Table: Enthalpy of formation of Ce2Cu9Sn3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -26.662 kJ/mol-atom | τ8—Ce2Cu9Sn3 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [1] Li 2013 | Table 1, p. 3, row 29 |  |
 | -26.662 kJ/mol-atom | τ8—Ce2Cu9Sn3 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [1] Li 2013 | Table 1, p. 3, row 29 |  |
 
 ## Sources

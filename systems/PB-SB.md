@@ -54,12 +54,12 @@ Table: Invariant reactions reported in the literature for the Pb–Sb system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 526.15 | Eutectic: L = fcc(Pb) + rhombo(Sb) |  | experimental | [1] Hassam 2009; _cites Othani 1995_ | Table 4, p. 4, row 3 |  |
-| 525.39 | Eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.171 | model | [1] Hassam 2009 | Table 4, p. 4, row 5 |  |
+| 526.15 | eutectic: L = fcc(Pb) + rhombo(Sb) |  | experimental | [1] Hassam 2009; _cites Othani 1995_ | Table 4, p. 4, row 3 |  |
+| 525.39 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.171 | model | [1] Hassam 2009 | Table 4, p. 4, row 5 |  |
 | 525.3 | eutectic |  | experimental | [1] Hassam 2009 | p. 3 | “From these results the eutectic point is measured at XSb = 0.1675 ± 0.0003 and T = 525.3 ± 0.5 K.” |
-| 525.29 | Eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.1675 | experimental | [1] Hassam 2009 | Table 4, p. 4, row 4 |  |
-| 525.15 | Eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | experimental | [1] Hassam 2009; _cites Redlich 1948_ | Table 4, p. 4, row 1 |  |
-| 524.85 | Eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | model | [1] Hassam 2009; _cites Ashtakala 1981_ [doi](https://doi.org/10.1007/bf02873711) | Table 4, p. 4, row 2 |  |
+| 525.29 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.1675 | experimental | [1] Hassam 2009 | Table 4, p. 4, row 4 |  |
+| 525.15 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | experimental | [1] Hassam 2009; _cites Redlich 1948_ | Table 4, p. 4, row 1 |  |
+| 524.85 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | model | [1] Hassam 2009; _cites Ashtakala 1981_ [doi](https://doi.org/10.1007/bf02873711) | Table 4, p. 4, row 2 |  |
 | 524.85 | eutectic |  | model | [1] Hassam 2009 | p. 1 | “The calculated eutectic composition and temperature are 17.5 at.% Sb and 524.85 K, respectively.” |
 
 ## Other properties
@@ -78,7 +78,7 @@ Table: Phase transition, Pb–Sb system
 | Phase transition | 525.4 K | 525.4 | eutectic: X_Pb=0.850 X_Sb=0.150; _alloy: Pb 0.85, Sb 0.15_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 9 |  |
 | Phase transition | 526.15 K | 526.15 | eutectic; _alloy: Pb 0.810497, Sb 0.189503_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 2 |  |
 | Phase transition | 527.15 K | 527.15 | eutectic; _alloy: Pb 0.660729, Sb 0.339271_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 4 |  |
-| Phase transition | 571.4 K | 571.4 | liquidus | experimental | [1] Hassam 2009 | Table 2, p. 2, row 1 |  |
+| Phase transition | 571.4 K | 571.4 | other | experimental | [1] Hassam 2009 | Table 2, p. 2, row 1 |  |
 
 ### Phase equilibrium (7)
 
@@ -86,13 +86,13 @@ Table: Phase equilibrium, Pb–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 536.9 | liquidus; _liquid: Pb 0.85, Sb 0.15_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 3 |  |
-| Phase composition |  | 552.15 | liquidus; _liquid: Pb 0.810497, Sb 0.189503_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 1 |  |
-| Phase composition |  | 558.15 | liquidus; _liquid: Pb 0.660729, Sb 0.339271_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 3 |  |
-| Phase composition |  | 558.5 | liquidus; _liquid: Pb 0.9, Sb 0.1_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 2 |  |
-| Phase composition |  | 558.7 | liquidus; _liquid: Pb 0.8, Sb 0.2_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 4 |  |
-| Phase composition |  | 635.2 | liquidus; _liquid: Pb 0.7, Sb 0.3_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 5 |  |
-| Phase composition |  | 673.2 | liquidus; _liquid: Pb 0.6, Sb 0.4_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 6 |  |
+| Phase composition |  | 536.9 | other; _liquid: Pb 0.85, Sb 0.15_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 3 |  |
+| Phase composition |  | 552.15 | other; _liquid: Pb 0.810497, Sb 0.189503_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 1 |  |
+| Phase composition |  | 558.15 | other; _liquid: Pb 0.660729, Sb 0.339271_ | experimental | [2] Ohtani 1995 | Table 4, p. 6, row 3 |  |
+| Phase composition |  | 558.5 | other; _liquid: Pb 0.9, Sb 0.1_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 2 |  |
+| Phase composition |  | 558.7 | other; _liquid: Pb 0.8, Sb 0.2_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 4 |  |
+| Phase composition |  | 635.2 | other; _liquid: Pb 0.7, Sb 0.3_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 5 |  |
+| Phase composition |  | 673.2 | other; _liquid: Pb 0.6, Sb 0.4_ | experimental | [1] Hassam 2009 | Table 2, p. 2, row 6 |  |
 
 ### Mixing / partial (6)
 
@@ -100,12 +100,12 @@ Table: Mixing / partial, Pb–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixHm_ | -51.1 J/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.405, Sb 0.595_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -51.5 J/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.797, Sb 0.203_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -51.2 J/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.405, Sb 0.595_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -68.9 J/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.55, Sb 0.45_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -64 J/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.7017, Sb 0.2983_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixHm_ | -42.9 J/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.7825, Sb 0.2175_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0511 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.405, Sb 0.595_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0515 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.797, Sb 0.203_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0512 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.405, Sb 0.595_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0689 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.55, Sb 0.45_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.064 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.7017, Sb 0.2983_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixHm_ | -0.0429 kJ/mol (basis unstated) | 973 | liquid; _alloy: Pb 0.7825, Sb 0.2175_ | experimental | [1] Hassam 2009 | Table 1, p. 2, row 2 |  |
 
 ## Sources
 

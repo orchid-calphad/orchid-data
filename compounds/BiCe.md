@@ -1,24 +1,21 @@
 # BiCe: enthalpy of formation
 
-> Enthalpy of formation of BiCe: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of BiCe: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/BiCe.html · Markdown: https://data.orchid-project.org/compounds/BiCe.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 4); experimental median -114.7 kJ/mol-atom (n = 2); Materials Project -78.443 kJ/mol-atom (mp-aaaabilp); OQMD -95.287 kJ/mol-atom (oqmd-10917).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -114.7 kJ/mol-atom (n = 1); Materials Project -78.443 kJ/mol-atom (mp-aaaabilp); OQMD -95.287 kJ/mol-atom (oqmd-10917).
 
 Systems: [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of BiCe reported in the literature (6)
+Table: Enthalpy of formation of BiCe reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -114.7 kJ/mol-atom | CeBi | 298.15 | experimental |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017; _cites Borzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990067-x) | Table 8, p. 6, row 5 |  |
-| -114.7 kJ/mol-atom | CeBi | 298.15 | experimental |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017; _cites Borzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990067-x) | Table 8, p. 6, row 5 |  |
 | -114.32 kJ/mol-atom | CeBi |  | model |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017 | Table 8, p. 6, row 6 |  |
-| -114.32 kJ/mol-atom | CeBi |  | model |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017 | Table 8, p. 6, row 6 |  |
-| -102 kJ/mol-atom | CeBi |  | model |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 8, p. 6, row 4 |  |
 | -102 kJ/mol-atom | CeBi |  | model |  | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 8, p. 6, row 4 |  |
 
 ## DFT formation energies

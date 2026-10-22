@@ -53,37 +53,37 @@ Table: Invariant reactions reported in the literature for the Ir–Ti system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2588.15 | Peritectic: L + (Ir) -> TiIr3 | L: Ir 0.695; (Ir): Ir 0.882; TiIr3: Ir 0.751 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 6 |  |
+| 2588.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.695; (Ir): Ir 0.882; TiIr3: Ir 0.751 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 6 |  |
 | 2588.15 | peritectic |  | experimental | [1] Wang 2014; _cites Eremenko 1970_ | p. 1 | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
-| 2413.15 | Melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 1 |  |
-| 2403.15 | Melting: L -> γTiIr | γTiIr: Ir 0.476 | model | [1] Wang 2014 | Table 3, p. 5, row 4 |  |
-| 2403.15 | Melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 3 |  |
-| 2393.15 | Melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 2 |  |
-| 2388.15 | Peritectic: L + (Ir) -> TiIr3 | L: Ir 0.74; (Ir): Ir 0.89; TiIr3: Ir 0.77 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 7 |  |
-| 2388.15 | Peritectic: L + (Ir) -> TiIr3 | L: Ir 0.697; (Ir): Ir 0.86; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 5 |  |
-| 2388.15 | Peritectic: L + (Ir) -> TiIr3 | L: Ir 0.728; (Ir): Ir 0.9; TiIr3: Ir 0.773 | model | [1] Wang 2014 | Table 3, p. 5, row 8 |  |
+| 2413.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 1 |  |
+| 2403.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.476 | model | [1] Wang 2014 | Table 3, p. 5, row 4 |  |
+| 2403.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 3 |  |
+| 2393.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 2 |  |
+| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.74; (Ir): Ir 0.89; TiIr3: Ir 0.77 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 7 |  |
+| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.697; (Ir): Ir 0.86; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 5 |  |
+| 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.728; (Ir): Ir 0.9; TiIr3: Ir 0.773 | model | [1] Wang 2014 | Table 3, p. 5, row 8 |  |
 | 2388.15 | peritectic |  | experimental | [1] Wang 2014; _cites Croeni 1962_ | p. 1 | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
-| 2274.15 | Eutectic: L -> γTiIr + TiIr3 | L: Ir 0.619; γTiIr: Ir 0.573; TiIr3: Ir 0.722 | model | [1] Wang 2014 | Table 3, p. 5, row 12 |  |
-| 2273.15 | Eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.73 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 11 |  |
-| 2273.15 | Eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.584; TiIr3: Ir 0.695 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 10 |  |
-| 2273.15 | Eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 9 |  |
-| 2024.15 | Peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.725; γTiIr: Ir 0.565; βTiIr: Ir 0.571 | model | [1] Wang 2014 | Table 3, p. 5, row 16 |  |
-| 2023.15 | Peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 13 |  |
-| 2023.15 | Peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 14 |  |
-| 2023.15 | Peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.73; γTiIr: Ir 0.575; βTiIr: Ir 0.59 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 15 |  |
-| 1793.15 | Peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.227; γTiIr: Ir 0.384; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 17 |  |
-| 1789.15 | Peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.212; γTiIr: Ir 0.354; Ti3Ir: Ir 0.268 | model | [1] Wang 2014 | Table 3, p. 5, row 20 |  |
-| 1788.15 | Peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.23; γTiIr: Ir 0.35; Ti3Ir: Ir 0.27 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 19 |  |
-| 1783.15 | Peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.224; γTiIr: Ir 0.342; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 18 |  |
-| 1748.15 | Eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.19; Ti3Ir: Ir 0.25; (βTi): Ir 0.149 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 21 |  |
-| 1741.15 | Eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.17; Ti3Ir: Ir 0.25; (βTi): Ir 0.15 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 23 |  |
-| 1740.15 | Eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.187; Ti3Ir: Ir 0.251; (βTi): Ir 0.17 | model | [1] Wang 2014 | Table 3, p. 5, row 24 |  |
-| 1733.15 | Eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.2; Ti3Ir: Ir 0.25; (βTi): Ir 0.163 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 22 |  |
-| 993.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; (αTi): Ir 0.01; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 28 |  |
-| 992.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.041; (αTi): Ir 0.004; Ti3Ir: Ir 0.247 | model | [1] Wang 2014 | Table 3, p. 5, row 29 |  |
-| 973.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | Table 3, p. 5, row 27 |  |
-| 773.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 26 |  |
-| 773.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.1; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 25 |  |
+| 2274.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.619; γTiIr: Ir 0.573; TiIr3: Ir 0.722 | model | [1] Wang 2014 | Table 3, p. 5, row 12 |  |
+| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.73 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 11 |  |
+| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.584; TiIr3: Ir 0.695 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 10 |  |
+| 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 9 |  |
+| 2024.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.725; γTiIr: Ir 0.565; βTiIr: Ir 0.571 | model | [1] Wang 2014 | Table 3, p. 5, row 16 |  |
+| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 13 |  |
+| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 14 |  |
+| 2023.15 | peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.73; γTiIr: Ir 0.575; βTiIr: Ir 0.59 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 15 |  |
+| 1793.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.227; γTiIr: Ir 0.384; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 17 |  |
+| 1789.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.212; γTiIr: Ir 0.354; Ti3Ir: Ir 0.268 | model | [1] Wang 2014 | Table 3, p. 5, row 20 |  |
+| 1788.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.23; γTiIr: Ir 0.35; Ti3Ir: Ir 0.27 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 19 |  |
+| 1783.15 | peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.224; γTiIr: Ir 0.342; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 18 |  |
+| 1748.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.19; Ti3Ir: Ir 0.25; (βTi): Ir 0.149 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 21 |  |
+| 1741.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.17; Ti3Ir: Ir 0.25; (βTi): Ir 0.15 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 23 |  |
+| 1740.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.187; Ti3Ir: Ir 0.251; (βTi): Ir 0.17 | model | [1] Wang 2014 | Table 3, p. 5, row 24 |  |
+| 1733.15 | eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.2; Ti3Ir: Ir 0.25; (βTi): Ir 0.163 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 22 |  |
+| 993.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; (αTi): Ir 0.01; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 28 |  |
+| 992.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.041; (αTi): Ir 0.004; Ti3Ir: Ir 0.247 | model | [1] Wang 2014 | Table 3, p. 5, row 29 |  |
+| 973.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | Table 3, p. 5, row 27 |  |
+| 773.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 26 |  |
+| 773.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.1; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 25 |  |
 
 ## Other properties
 

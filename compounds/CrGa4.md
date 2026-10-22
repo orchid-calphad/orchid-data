@@ -1,31 +1,26 @@
 # CrGa4: enthalpy of formation
 
-> Enthalpy of formation of CrGa4: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CrGa4: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CrGa4.html · Markdown: https://data.orchid-project.org/compounds/CrGa4.md
 
-13 accepted literature formation-enthalpy value(s) (experimental 5, model 8); experimental median -7.6 kJ/mol-atom (n = 1); Materials Project -15.083 kJ/mol-atom (mp-aaacixqu); OQMD -14.848 kJ/mol-atom (oqmd-29545).
+8 accepted literature formation-enthalpy value(s) (experimental 3, model 5); experimental median -7.6 kJ/mol-atom (n = 1); Materials Project -15.083 kJ/mol-atom (mp-aaacixqu); OQMD -14.848 kJ/mol-atom (oqmd-29545).
 
 Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) · [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CrGa4 reported in the literature (13)
+Table: Enthalpy of formation of CrGa4 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -14.5 kJ/mol (basis unstated) ± 1 | CrGa4 | 298.15 | experimental | Precipitation calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 17 |  |
-| -14.5 kJ/mol (basis unstated) ± 1 | CrGa4 | 298.15 | experimental | Precipitation calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 17 |  |
-| -7.6 kJ/mol (basis unstated) | CrGa4 | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 14 |  |
 | -7.6 kJ/mol (basis unstated) | CrGa4 | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 14 |  |
 | -7.6 kJ/mol-atom | CrGa4 | 850 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 50 |  |
 | -13.3 kJ/mol (basis unstated) | CrGa4 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 18 |  |
-| -13.3 kJ/mol (basis unstated) | CrGa4 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 18 |  |
-| -8.7 kJ/mol (basis unstated) | CrGa4 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 15 |  |
 | -8.7 kJ/mol (basis unstated) | CrGa4 |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 15 |  |
 | -8.7 kJ/mol-atom | CrGa4 | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999 | Table 1, p. 2, row 51 |  |
 | -8 kJ/mol-atom | CrGa4 | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 52 |  |
-| -8 kJ/mol (basis unstated) | CrGa4 |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 16 |  |
 | -8 kJ/mol (basis unstated) | CrGa4 |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 16 |  |
 
 ## DFT formation energies

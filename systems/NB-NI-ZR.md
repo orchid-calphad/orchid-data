@@ -1,10 +1,10 @@
 # Nb–Ni–Zr system
 
-> Nb–Ni–Zr system: 46 accepted literature values (phase transition 36, invariant reaction 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Ni–Zr system: 45 accepted literature values (phase transition 35, invariant reaction 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-NI-ZR.html · Markdown: https://data.orchid-project.org/systems/NB-NI-ZR.md
 
-46 accepted literature values from 1 paper(s) (experimental 28, model 18); 0 calculated phase diagram(s).
+45 accepted literature values from 1 paper(s) (experimental 27, model 18); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-NI-ZR.json) · [CSV](https://data.orchid-project.org/systems/NB-NI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-NI-ZR) · [Markdown](https://data.orchid-project.org/systems/NB-NI-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
+| experimental | 27 |
 | model | 18 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 36 |
+| phase transition | 35 |
 
 ## Invariant reactions (literature)
 
@@ -28,20 +28,20 @@ Table: Invariant reactions reported in the literature for the Nb–Ni–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1517 | U: L + Ni7Zr2 -> NbNi3 + Ni5Zr | L: Ni 0.848, Zr 0.085 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 8 |  |
-| 1509 | E: L -> (γ) + NbNi3 + Ni5Zr | L: Ni 0.854, Zr 0.075 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 4 |  |
-| 1421 | U: L + Ni7Zr2 -> NbNi3 + Ni21Zr8 | L: Ni 0.674, Zr 0.291 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 7 |  |
-| 1347 | E: L -> NbNi3 + Nb6Ni7 + Ni10Zr7 | L: Ni 0.589, Zr 0.256 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 2 |  |
-| 1336 | U: L + NiZr -> (β) + Ni11Zr9 | L: Ni 0.525, Zr 0.319 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 9 |  |
-| 1332 | E: L -> Nb6Ni7 + Ni10Zr7 + Ni11Zr9 | L: Ni 0.528, Zr 0.311 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 1 |  |
-| 1332 | U: L + (β) -> Nb6Ni7 + Ni11Zr9 | L: Ni 0.526, Zr 0.312 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 6 |  |
-| 1323 | E: L -> NbNi3 + Ni10Zr7 + Ni21Zr8 | L: Ni 0.638, Zr 0.321 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 3 |  |
-| 1303 | E: L -> (β) + NiZr + NiZr2 | L: Ni 0.376, Zr 0.587 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 5 |  |
-| 1272 | U: L + β#1 + β#2 -> NiZr2 | L: Ni 0.241, Zr 0.715 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 10 |  |
+| 1517 | quasi-peritectic: L + Ni7Zr2 -> NbNi3 + Ni5Zr | L: Ni 0.848, Zr 0.085 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 8 |  |
+| 1509 | eutectic: L -> (γ) + NbNi3 + Ni5Zr | L: Ni 0.854, Zr 0.075 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 4 |  |
+| 1421 | quasi-peritectic: L + Ni7Zr2 -> NbNi3 + Ni21Zr8 | L: Ni 0.674, Zr 0.291 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 7 |  |
+| 1347 | eutectic: L -> NbNi3 + Nb6Ni7 + Ni10Zr7 | L: Ni 0.589, Zr 0.256 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 2 |  |
+| 1336 | quasi-peritectic: L + NiZr -> (β) + Ni11Zr9 | L: Ni 0.525, Zr 0.319 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 9 |  |
+| 1332 | eutectic: L -> Nb6Ni7 + Ni10Zr7 + Ni11Zr9 | L: Ni 0.528, Zr 0.311 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 1 |  |
+| 1332 | quasi-peritectic: L + (β) -> Nb6Ni7 + Ni11Zr9 | L: Ni 0.526, Zr 0.312 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 6 |  |
+| 1323 | eutectic: L -> NbNi3 + Ni10Zr7 + Ni21Zr8 | L: Ni 0.638, Zr 0.321 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 3 |  |
+| 1303 | eutectic: L -> (β) + NiZr + NiZr2 | L: Ni 0.376, Zr 0.587 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 5 |  |
+| 1272 | quasi-peritectic: L + β#1 + β#2 -> NiZr2 | L: Ni 0.241, Zr 0.715 | model | [1] Tokunaga 2007 | Table 5, p. 8, row 10 |  |
 
 ## Other properties
 
-### Phase transition (36)
+### Phase transition (35)
 
 Table: Phase transition, Nb–Ni–Zr system
 
@@ -76,7 +76,6 @@ Table: Phase transition, Nb–Ni–Zr system
 | Phase transition | 1391 K | 1391 | 20Zr series | experimental | [1] Tokunaga 2007 | Table 1, p. 2, row 7 |  |
 | Phase transition | 1391 K | 1391 | 60Ni series | experimental | [1] Tokunaga 2007 | Table 1, p. 2, row 4 |  |
 | Phase transition | 1399 K | 1399 | 20Zr series | experimental | [1] Tokunaga 2007 | Table 1, p. 2, row 9 |  |
-| Phase transition | 1399 K | 1399 | 20Zr series | experimental | [1] Tokunaga 2007 | Table 1, p. 2, row 8 |  |
 | Phase transition | 1400 K | 1400 | 60Ni series | experimental | [1] Tokunaga 2007 | Table 1, p. 2, row 3 |  |
 | Phase transition | 1403 K | 1403 | 60Ni series | experimental | [1] Tokunaga 2007 | Table 1, p. 2, row 5 |  |
 | Phase transition | 1424 K | 1424 | 60Ni series | experimental | [1] Tokunaga 2007 | Table 1, p. 2, row 2 |  |

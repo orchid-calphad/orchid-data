@@ -31,38 +31,38 @@ Table: Invariant reactions reported in the literature for the C–Fe system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2446.15 | p: L + gr -> Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 1 |  |
-| 1768.15 | p: L + α -> γ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 2 |  |
-| 1630.15 | p: L + gr -> κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 3 |  |
-| 1601.15 | e: L -> α + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 4 |  |
-| 1591.15 | U: L + α -> γ + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 5 |  |
-| 1570.15 | U: L + κ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 6 |  |
-| 1567.15 | e: L -> α + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 7 |  |
-| 1563.15 | E: L -> α + gr + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 8 |  |
-| 1555.15 | U: L + κ -> γ + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 9 |  |
-| 1488.15 | p: L + α -> ε |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 10 |  |
-| 1483.15 | U: L + α -> ε + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 11 |  |
-| 1437.15 | e: L -> ε + Fe2Al5 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 12 |  |
-| 1433.15 | U: L + ε -> Al4C3 + Fe2Al5 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 13 |  |
-| 1430.15 | p: L + Fe2Al5 -> FeAl3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 14 |  |
-| 1428.15 | U: L + Fe2Al5 -> Al4C3 + FeAl3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 15 |  |
-| 1427.15 | e: L -> γ + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 17 |  |
+| 2446.15 | peritectic: L + gr -> Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 1 |  |
+| 1768.15 | peritectic: L + α -> γ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 2 |  |
+| 1630.15 | peritectic: L + gr -> κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 3 |  |
+| 1601.15 | eutectic: L -> α + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 4 |  |
+| 1591.15 | quasi-peritectic: L + α -> γ + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 5 |  |
+| 1570.15 | quasi-peritectic: L + κ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 6 |  |
+| 1567.15 | eutectic: L -> α + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 7 |  |
+| 1563.15 | eutectic: L -> α + gr + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 8 |  |
+| 1555.15 | quasi-peritectic: L + κ -> γ + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 9 |  |
+| 1488.15 | peritectic: L + α -> ε |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 10 |  |
+| 1483.15 | quasi-peritectic: L + α -> ε + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 11 |  |
+| 1437.15 | eutectic: L -> ε + Fe2Al5 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 12 |  |
+| 1433.15 | quasi-peritectic: L + ε -> Al4C3 + Fe2Al5 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 13 |  |
+| 1430.15 | peritectic: L + Fe2Al5 -> FeAl3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 14 |  |
+| 1428.15 | quasi-peritectic: L + Fe2Al5 -> Al4C3 + FeAl3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 15 |  |
+| 1427.15 | eutectic: L -> γ + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 17 |  |
 | 1427.15 | other: ε + Fe2Al5 -> FeAl2 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 16 |  |
-| 1423.15 | U: ε + Fe2Al5 -> Al4C3 + FeAl2 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 18 |  |
+| 1423.15 | quasi-peritectic: ε + Fe2Al5 -> Al4C3 + FeAl2 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 18 |  |
 | 1421.52 | eutectic |  | model | [2] Hallstedt 2010; _cites Gustafson 1985_ | p. 3 | “The eutectic (γ + liquid + cementite) temperature changed from 1421.52 K to 1421.31 K and the eutectic composition from 4.382 mass-% C to 4.383 mass-% C.” |
 | 1421.31 | eutectic |  | model | [2] Hallstedt 2010 | p. 3 | “The eutectic (γ + liquid + cementite) temperature changed from 1421.52 K to 1421.31 K and the eutectic composition from 4.382 mass-% C to 4.383 mass-% C.” |
 | 1421.15 | eutectic |  | model | [3] Lacaze 1991; _cites Gustafsson 1985_ | p. 3 | “After correction of the constant term in the ~L and T~ relations to find the accepted Fe-C binary metastable eutectic (T\[ = T~ = 1148 ~ and pct C = 4.38), \[4\] one can estimate the locus of the metastable liquid/fcc/ cementite valley by combining the two equations: pct C + 0.1114 pet Si = 4.38” |
 | 1421 | eutectic |  | experimental | [4] Naraghi 2014; _cites Chicco 1982_ [doi](https://doi.org/10.1007/bf02645513) | p. 5 | “The solubility of cementite in fcc by Smith \[63\] in the range 1027 to 1285 K and metastable eutectic temperature 1421 K by Chicco and Thorpe \[64\] give tight conditions to determine the remaining parameter in Gibbs energy of cementite, i.e. the E0 parameter in Eq. (10).” |
 | 1365.15 | other: ε -> α + FeAl2 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 19 |  |
 | 1363.15 | other: ε -> Al4C3 + α + FeAl2 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 20 |  |
-| 1263.15 | U: α + gr -> Al4C3 + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 21 |  |
-| 1094.15 | U: κ + γ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 22 |  |
+| 1263.15 | quasi-peritectic: α + gr -> Al4C3 + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 21 |  |
+| 1094.15 | quasi-peritectic: κ + γ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 22 |  |
 | 1011.15 | other: γ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 23 |  |
 | 999.78 | eutectoid |  | model | [2] Hallstedt 2010; _cites Gustafson 1985_ | p. 3 | “The eutectoid (α + γ + cementite) temperature changed from 999.78 K to 999.68 K and the eutectoid composition from 0.7610 mass-% C to 0.7617 mass-% C.” |
 | 999.68 | eutectoid |  | model | [2] Hallstedt 2010 | p. 3 | “The eutectoid (α + γ + cementite) temperature changed from 999.78 K to 999.68 K and the eutectoid composition from 0.7610 mass-% C to 0.7617 mass-% C.” |
-| 933.15 | e: L -> (Al) + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 24 |  |
-| 925.15 | e: L -> FeAl3 + (Al) |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 25 |  |
-| 923.15 | E: L -> Al4C3 + (Al) + FeAl3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 26 |  |
+| 933.15 | eutectic: L -> (Al) + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 24 |  |
+| 925.15 | eutectic: L -> FeAl3 + (Al) |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 25 |  |
+| 923.15 | eutectic: L -> Al4C3 + (Al) + FeAl3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 26 |  |
 
 ## Other properties
 

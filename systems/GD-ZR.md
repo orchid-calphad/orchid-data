@@ -62,24 +62,24 @@ Table: Invariant reactions reported in the literature for the Gd–Zr system (23
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1603 (none) | eutectic |  | experimental | [1] Zinkevich 2001; _cites Love 1960_ | p. 1 | “eutectic temperature as approximately 1603 K and the composition as approximately 36 at.% Zr. The extent of solubility of Zr in Gd was estimated to be 5 to 15 at.% \[1960Lov\].” |
+| 1603 | eutectic |  | experimental | [1] Zinkevich 2001; _cites Love 1960_ | p. 1 | “eutectic temperature as approximately 1603 K and the composition as approximately 36 at.% Zr. The extent of solubility of Zr in Gd was estimated to be 5 to 15 at.% \[1960Lov\].” |
 | 1495 | Liquid -> bcc_Gd + bcc_Zr |  | experimental | [2] Bo 2014; _cites Mattern 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.08.001) | Table 3, p. 5, row 1 |  |
 | 1495 | Liquid -> bcc_Gd + bcc_Zr | Liquid: Zr 0.164; bcc_Gd: Zr 0.073; bcc_Zr: Zr 0.951 | model | [2] Bo 2014; _cites Mattern 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.08.001) | Table 3, p. 5, row 2 |  |
 | 1495 | L -> bcc-Gd + bcc-Zr |  | experimental | [3] Mattern 2012 | Table 4, p. 6, row 2 |  |
 | 1495 | L -> bcc-Gd + bcc-Zr | L: Zr 0.164; bcc-Gd: Zr 0.073; bcc-Zr: Zr 0.951 | model | [3] Mattern 2012 | Table 4, p. 6, row 1 |  |
 | 1495 | Liquid -> bcc_Gd + bcc_Zr | Liquid: Zr 0.166; bcc_Gd: Zr 0.076; bcc_Zr: Zr 0.949 | model | [2] Bo 2014 | Table 3, p. 5, row 3 |  |
 | 1493 | eutectic |  | experimental | [1] Zinkevich 2001 | p. 1 | “The eutectic reaction was estimated to occur at 1493 K and 30 at.% Zr.” |
-| 1493 | Eutectic: Liquid \<=> hcp-Gd + bcc-Zr | Liquid: Zr 0.3; hcp-Gd: Zr 0.025 | experimental | [1] Zinkevich 2001; _cites Copeland 1964_ | Table 4, p. 7, row 2 |  |
-| 1491 | Eutectic: Liquid \<=> hcp-Gd + bcc-Zr | Liquid: Zr 0.275; hcp-Gd: Zr 0.01; bcc-Zr: Zr 0.92 | experimental | [1] Zinkevich 2001; _cites Copeland 1960_ | Table 4, p. 7, row 1 |  |
-| 1488 | Metatectic: Liquid + bcc-Gd \<=> hcp-Gd | Liquid: Zr 0.1076; bcc-Gd: Zr 0.0304; hcp-Gd: Zr 0.0254 | model | [1] Zinkevich 2001 | Table 4, p. 7, row 6 |  |
-| 1486 | Eutectic: Liquid \<=> hcp-Gd + bcc-Zr | Liquid: Zr 0.1145; hcp-Gd: Zr 0.0262; bcc-Zr: Zr 0.9305 | model | [1] Zinkevich 2001 | Table 4, p. 7, row 3 |  |
+| 1493 | eutectic: Liquid \<=> hcp-Gd + bcc-Zr | Liquid: Zr 0.3; hcp-Gd: Zr 0.025 | experimental | [1] Zinkevich 2001; _cites Copeland 1964_ | Table 4, p. 7, row 2 |  |
+| 1491 | eutectic: Liquid \<=> hcp-Gd + bcc-Zr | Liquid: Zr 0.275; hcp-Gd: Zr 0.01; bcc-Zr: Zr 0.92 | experimental | [1] Zinkevich 2001; _cites Copeland 1960_ | Table 4, p. 7, row 1 |  |
+| 1488 | metatectic/catatectic: Liquid + bcc-Gd \<=> hcp-Gd | Liquid: Zr 0.1076; bcc-Gd: Zr 0.0304; hcp-Gd: Zr 0.0254 | model | [1] Zinkevich 2001 | Table 4, p. 7, row 6 |  |
+| 1486 | eutectic: Liquid \<=> hcp-Gd + bcc-Zr | Liquid: Zr 0.1145; hcp-Gd: Zr 0.0262; bcc-Zr: Zr 0.9305 | model | [1] Zinkevich 2001 | Table 4, p. 7, row 3 |  |
 | 1455 | bcc_Gd -> hcp_Gd + bcc_Zr |  | experimental | [2] Bo 2014; _cites Mattern 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.08.001) | Table 3, p. 5, row 4 |  |
 | 1455 | bcc-Gd -> hcp-Gd + bcc-Zr |  | experimental | [3] Mattern 2012 | Table 4, p. 6, row 4 |  |
 | 1454 | bcc_Gd -> hcp_Gd + bcc_Zr | bcc_Gd: Zr 0.06; hcp_Gd: Zr 0.035; bcc_Zr: Zr 0.954 | model | [2] Bo 2014 | Table 3, p. 5, row 6 |  |
 | 1441 | bcc-Gd -> hcp-Gd + bcc-Zr | bcc-Gd: Zr 0.055; hcp-Gd: Zr 0.038; bcc-Zr: Zr 0.956 | model | [3] Mattern 2012 | Table 4, p. 6, row 3 |  |
 | 1441 | bcc_Gd -> hcp_Gd + bcc_Zr | bcc_Gd: Zr 0.055; hcp_Gd: Zr 0.038; bcc_Zr: Zr 0.956 | model | [2] Bo 2014; _cites Mattern 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.08.001) | Table 3, p. 5, row 5 |  |
-| 1163 | Peritectoid: bcc-Zr + hcp-Gd \<=> hcp-Zr | bcc-Zr: Zr 0.988; hcp-Gd: Zr 0.01; hcp-Zr: Zr 0.97 | experimental | [1] Zinkevich 2001; _cites Copeland 1960_ | Table 4, p. 7, row 4 |  |
-| 1162 | Peritectoid: bcc-Zr + hcp-Gd \<=> hcp-Zr | bcc-Zr: Zr 0.9844; hcp-Gd: Zr 0.0186; hcp-Zr: Zr 0.9745 | model | [1] Zinkevich 2001 | Table 4, p. 7, row 5 |  |
+| 1163 | peritectoid: bcc-Zr + hcp-Gd \<=> hcp-Zr | bcc-Zr: Zr 0.988; hcp-Gd: Zr 0.01; hcp-Zr: Zr 0.97 | experimental | [1] Zinkevich 2001; _cites Copeland 1960_ | Table 4, p. 7, row 4 |  |
+| 1162 | peritectoid: bcc-Zr + hcp-Gd \<=> hcp-Zr | bcc-Zr: Zr 0.9844; hcp-Gd: Zr 0.0186; hcp-Zr: Zr 0.9745 | model | [1] Zinkevich 2001 | Table 4, p. 7, row 5 |  |
 | 1159 | bcc_Zr + hcp_Gd -> hcp_Zr | bcc_Zr: Zr 0.981; hcp_Gd: Zr 0.03; hcp_Zr: Zr 0.972 | model | [2] Bo 2014; _cites Mattern 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.08.001) | Table 3, p. 5, row 8 |  |
 | 1159 | hcp-Gd + bcc-Zr -> hcp-Zr | hcp-Gd: Zr 0.03; bcc-Zr: Zr 0.981; hcp-Zr: Zr 0.972 | model | [3] Mattern 2012 | Table 4, p. 6, row 5 |  |
 | 1149 | bcc_Zr + hcp_Gd -> hcp_Zr | bcc_Zr: Zr 0.983; hcp_Gd: Zr 0.019; hcp_Zr: Zr 0.982 | model | [2] Bo 2014 | Table 3, p. 5, row 9 |  |

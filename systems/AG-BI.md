@@ -1,10 +1,10 @@
 # Ag–Bi system
 
-> Ag–Bi system: 55 accepted literature values (crystal structure 29, invariant reaction 18, phase transition 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Bi system: 54 accepted literature values (crystal structure 29, invariant reaction 17, phase transition 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-BI.html · Markdown: https://data.orchid-project.org/systems/AG-BI.md
 
-55 accepted literature values from 2 paper(s) (experimental 23, model 3, unspecified 29); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+54 accepted literature values from 2 paper(s) (experimental 22, model 3, unspecified 29); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-BI.json) · [CSV](https://data.orchid-project.org/systems/AG-BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-BI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-BI/AgBi-94Kat.json) · [Markdown](https://data.orchid-project.org/systems/AG-BI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 23 |
+| experimental | 22 |
 | model | 3 |
 | unspecified | 29 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 18 |
+| invariant reaction | 17 |
 | phase transition | 8 |
 | crystal structure | 29 |
 
@@ -51,7 +51,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Bi system (18)
+Table: Invariant reactions reported in the literature for the Ag–Bi system (17)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -66,7 +66,6 @@ Table: Invariant reactions reported in the literature for the Ag–Bi system (18
 | 959 | (Ag) + α -> L2 | (Ag): Bi 0.75 | experimental | [1] Assal 1999 | Table I, p. 1, row 9 |  |
 | 959 | (Ag) + α -> L2 | (Ag): Bi 0.33 | experimental | [1] Assal 1999 | Table I, p. 1, row 15 |  |
 | 959 | (Ag) + α -> L2 |  | experimental | [1] Assal 1999 | Table I, p. 1, row 17 |  |
-| 959 | (Ag) + α -> L2 | (Ag): Bi 0.75 | experimental | [1] Assal 1999 | Table I, p. 1, row 12 |  |
 | 958 | (Ag) + α -> L2 | (Ag): Bi 0.95 | experimental | [1] Assal 1999 | Table I, p. 1, row 3 |  |
 | 958 | (Ag) + α -> L2 | (Ag): Bi 0.75 | experimental | [1] Assal 1999 | Table I, p. 1, row 10 |  |
 | 957 | (Ag) + α -> L2 | (Ag): Bi 0.89 | experimental | [1] Assal 1999 | Table I, p. 1, row 7 |  |
@@ -82,8 +81,8 @@ Table: Phase transition, Ag–Bi system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 541.02 K | 541.02 | liquidus | experimental | [2] Karakaya 1993; _cites ref. 1894Hey_ | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
-| Phase transition | 544.592 K | 544.592 | liquidus | experimental | [2] Karakaya 1993 | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
+| Phase transition | 541.02 K | 541.02 | other | experimental | [2] Karakaya 1993; _cites ref. 1894Hey_ | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
+| Phase transition | 544.592 K | 544.592 | other | experimental | [2] Karakaya 1993 | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
 | Phase transition | 1002.1 K | 1002.1 | α -> δ | model | [1] Assal 1999 | Table I, p. 1, row 21 |  |
 | Phase transition | 1003 K | 1003 | α -> δ; _α: Bi 0.95_ | experimental | [1] Assal 1999 | Table I, p. 1, row 4 |  |
 | Phase transition | 1004 K | 1004 | α -> δ; _α: Bi 0.974_ | experimental | [1] Assal 1999 | Table I, p. 1, row 2 |  |

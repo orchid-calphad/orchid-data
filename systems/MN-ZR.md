@@ -73,13 +73,13 @@ Table: Invariant reactions reported in the literature for the Mn–Zr system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1730 | Congruent: Mn2Zr -> Liquid | Mn2Zr: Zr 0.345; Liquid: Zr 0.345 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 7 |  |
-| 1424.1 | Eutectic: Liquid -> Mn2Zr + bcc-A2 | Liquid: Zr 0.694; Mn2Zr: Zr 0.535; bcc-A2: Zr 0.911 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 5 |  |
-| 1421.9 | Eutectic: Liquid -> bcc-A2 + Mn2Zr | Liquid: Zr 0.071; bcc-A2: Zr 0.018; Mn2Zr: Zr 0.236 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 1 |  |
-| 1359.1 | Metatectic: fcc-A1 -> bcc-A2 + cub-A13 | fcc-A1: Zr 3.000e-4; bcc-A2: Zr 2.000e-4; cub-A13: Zr 0.0062 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 3 |  |
-| 1334.5 | Eutectoid: bcc-A2 -> + cub-A13 + Mn2Zr | bcc-A2: Zr 0.012; cub-A13: Zr 0; Mn2Zr: Zr 0.213 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 2 |  |
-| 1075.4 | Eutectoid: bcc-A2 -> Mn2Zr + hcp-A3 | bcc-A2: Zr 0.971; Mn2Zr: Zr 0.54; hcp-A3: Zr 0.998 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 6 |  |
-| 980.1 | Degenerate: cub-A13 -> cbcc-A12 + Mn2Zr | cub-A13: Zr 0; cbcc-A12: Zr 0; Mn2Zr: Zr 0.179 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 4 |  |
+| 1730 | congruent melting: Mn2Zr -> Liquid | Mn2Zr: Zr 0.345; Liquid: Zr 0.345 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 7 |  |
+| 1424.1 | eutectic: Liquid -> Mn2Zr + bcc-A2 | Liquid: Zr 0.694; Mn2Zr: Zr 0.535; bcc-A2: Zr 0.911 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 5 |  |
+| 1421.9 | eutectic: Liquid -> bcc-A2 + Mn2Zr | Liquid: Zr 0.071; bcc-A2: Zr 0.018; Mn2Zr: Zr 0.236 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 1 |  |
+| 1359.1 | metatectic/catatectic: fcc-A1 -> bcc-A2 + cub-A13 | fcc-A1: Zr 3.000e-4; bcc-A2: Zr 2.000e-4; cub-A13: Zr 0.0062 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 3 |  |
+| 1334.5 | eutectoid: bcc-A2 -> + cub-A13 + Mn2Zr | bcc-A2: Zr 0.012; cub-A13: Zr 0; Mn2Zr: Zr 0.213 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 2 |  |
+| 1075.4 | eutectoid: bcc-A2 -> Mn2Zr + hcp-A3 | bcc-A2: Zr 0.971; Mn2Zr: Zr 0.54; hcp-A3: Zr 0.998 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 6 |  |
+| 980.1 | other: cub-A13 -> cbcc-A12 + Mn2Zr | cub-A13: Zr 0; cbcc-A12: Zr 0; Mn2Zr: Zr 0.179 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 4 |  |
 
 ## Sources
 

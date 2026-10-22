@@ -37,11 +37,11 @@ Table: Invariant reactions reported in the literature for the Bi–Pb–Sn syste
 | 457 | L + FCC_A1 = HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Predel 1967_ | Table 1, p. 2, row 4 |  |
 | 456.1 | L = FCC_A1 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 17 |  |
 | 455.9 | L = FCC_A1 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 18 |  |
-| 411.15 | P: L + fcc -> ε + β-Sn | L: Bi 0.28, Pb 0.32, Sn 0.4 | experimental | [2] Yoon 1998; _cites Gershman 1957_ | Table 3, p. 6, row 2 |  |
+| 411.15 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.28, Pb 0.32, Sn 0.4 | experimental | [2] Yoon 1998; _cites Gershman 1957_ | Table 3, p. 6, row 2 |  |
 | 411 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Gershman 1958_ | Table 1, p. 2, row 20 |  |
-| 410.85 | P: L + fcc -> ε + β-Sn | L: Bi 0.27, Pb 0.399, Sn 0.332 | model | [2] Yoon 1998 | Table 3, p. 6, row 3 |  |
+| 410.85 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.27, Pb 0.399, Sn 0.332 | model | [2] Yoon 1998 | Table 3, p. 6, row 3 |  |
 | 410.7 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 21 |  |
-| 410.15 | P: L + fcc -> ε + β-Sn | L: Bi 0.27, Pb 0.341, Sn 0.389 | experimental | [2] Yoon 1998; _cites Ho 1953_ | Table 3, p. 6, row 1 |  |
+| 410.15 | peritectic: L + fcc -> ε + β-Sn | L: Bi 0.27, Pb 0.341, Sn 0.389 | experimental | [2] Yoon 1998; _cites Ho 1953_ | Table 3, p. 6, row 1 |  |
 | 410 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Ho 1953_ | Table 1, p. 2, row 19 |  |
 | 408 | L + FCC_A1 = HCP_A3 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 22 |  |
 | 398.6 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 12 |  |
@@ -50,11 +50,11 @@ Table: Invariant reactions reported in the literature for the Bi–Pb–Sn syste
 | 398 | L = Rhombohedral_A7 + HCP_A3 |  | experimental | [1] Gierlotka 2017; _cites Nosek 1967_ | Table 1, p. 2, row 11 |  |
 | 398 | L = Rhombohedral_A7 + HCP_A3 |  | unspecified | [1] Gierlotka 2017; _cites Strickler 1936_ [doi](https://doi.org/10.1021/ja01302a003) | Table 1, p. 2, row 8 |  |
 | 398 | L = Rhombohedral_A7 + HCP_A3 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 13 |  |
-| 373.15 | E: L -> Bi + ε + β-Sn | L: Bi 0.414, Pb 0.286, Sn 0.3 | experimental | [2] Yoon 1998; _cites Gershman 1957_ | Table 3, p. 6, row 5 |  |
+| 373.15 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.414, Pb 0.286, Sn 0.3 | experimental | [2] Yoon 1998; _cites Gershman 1957_ | Table 3, p. 6, row 5 |  |
 | 373 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Gershman 1958_ | Table 1, p. 2, row 24 |  |
 | 372.9 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Takase 1937_ | Table 1, p. 2, row 25 |  |
-| 372.75 | E: L -> Bi + ε + β-Sn | L: Bi 0.465, Pb 0.287, Sn 0.248 | model | [2] Yoon 1998 | Table 3, p. 6, row 6 |  |
-| 372.65 | E: L -> Bi + ε + β-Sn | L: Bi 0.462, Pb 0.287, Sn 0.251 | experimental | [2] Yoon 1998; _cites Ho 1953_ | Table 3, p. 6, row 4 |  |
+| 372.75 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.465, Pb 0.287, Sn 0.248 | model | [2] Yoon 1998 | Table 3, p. 6, row 6 |  |
+| 372.65 | eutectic: L -> Bi + ε + β-Sn | L: Bi 0.462, Pb 0.287, Sn 0.251 | experimental | [2] Yoon 1998; _cites Ho 1953_ | Table 3, p. 6, row 4 |  |
 | 372.5 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | experimental | [1] Gierlotka 2017; _cites Ho 1953_ | Table 1, p. 2, row 23 |  |
 | 372 | L = Rhombohedral_A7 + HCP_A3 + BCT_A5 |  | model | [1] Gierlotka 2017 | Table 1, p. 2, row 26 |  |
 | 227 | HCP_A3 = Rhombohedral_A7 + FCC_A1 |  | experimental | [1] Gierlotka 2017; _cites Predel 1967_ | Table 1, p. 2, row 14 |  |

@@ -49,7 +49,7 @@ Table: Phase transition, Ta–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1000 K | 1000 (none) | other | model | [1] Kaufman 2001 | p. 1 | “These later results predict B2 ordering for the bee-based Ta-W system with a maximum ordering temperature near 1000 K at 43 at.% Ta.” |
+| Phase transition | 1000 K | 1000 | other | model | [1] Kaufman 2001 | p. 1 | “These later results predict B2 ordering for the bee-based Ta-W system with a maximum ordering temperature near 1000 K at 43 at.% Ta.” |
 
 ## Sources
 

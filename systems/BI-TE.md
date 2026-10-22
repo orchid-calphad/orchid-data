@@ -1,10 +1,10 @@
 # Bi–Te system
 
-> Bi–Te system: 190 accepted literature values (phase transition 121, invariant reaction 55, phase equilibrium 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Te system: 187 accepted literature values (phase transition 118, invariant reaction 55, phase equilibrium 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TE.html · Markdown: https://data.orchid-project.org/systems/BI-TE.md
 
-190 accepted literature values from 2 paper(s) (experimental 166, model 16, unspecified 8); 4 calculated phase diagram(s).
+187 accepted literature values from 2 paper(s) (experimental 163, model 16, unspecified 8); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TE.json) · [CSV](https://data.orchid-project.org/systems/BI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TE/BiTe-18Gie.json) · [Markdown](https://data.orchid-project.org/systems/BI-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 166 |
+| experimental | 163 |
 | model | 16 |
 | unspecified | 8 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 55 |
-| phase transition | 121 |
+| phase transition | 118 |
 | phase equilibrium | 14 |
 
 ## Calculated phase diagrams
@@ -85,65 +85,65 @@ Table: Invariant reactions reported in the literature for the Bi–Te system (55
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 862.15 | Congruent melting: Liquid -> Bi2Te3 | L: Te 0.6; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Howlett 1964_ | Table 6, p. 13, row 3 |  |
-| 859.15 | Congruent melting: Liquid -> Bi2Te3 | L: Te 0.5995; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Brebrick 1968_ [doi](https://doi.org/10.1021/j100849a043) | Table 6, p. 13, row 4 |  |
-| 859.15 | Congruent melting: Liquid -> Bi2Te3 | L: Te 0.6; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 6, p. 13, row 6 |  |
-| 858.05 | Congruent melting: Liquid -> Bi2Te3 | L: Te 0.6; Bi2Te3: Bi 0.4, Te 0.6 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 2 |  |
-| 857.55 | Congruent melting: Liquid -> Bi2Te3 | L: Te 0.5997; Bi2Te3: Bi 0.4, Te 0.6 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 1 |  |
-| 838.15 | Congruent melting: Liquid -> Bi2Te3 | L: Te 0.6; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Shimazaki 1978_ | Table 6, p. 13, row 5 |  |
-| 836.15 | Peritectic: Liquid + Bi2Te3 -> BiTe | Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | experimental | [1] Drzewowska 2023; _cites Brebrick 1968_ [doi](https://doi.org/10.1021/j100849a043) | Table 6, p. 13, row 11 |  |
-| 835.15 | Peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.5; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | experimental | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 13, row 12 |  |
-| 835 | Peritectic: Liquid + Bi2Te3 -> Bi4Te5 | Liquid: Te 0.52; Bi2Te3: Te 0.6; Bi4Te5: Te 0.556 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 15 |  |
-| 834.75 | Peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.477; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 8 |  |
-| 834.15 | Peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.5; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | experimental | [1] Drzewowska 2023; _cites Shimazaki 1978_ | Table 6, p. 13, row 13 |  |
-| 834 | Peritectic: Liquid + Bi2Te3 -> Bi4Te5 | Liquid: Te 0.49; Bi2Te3: Te 0.6; Bi4Te5: Te 0.556 | model | [2] Zhou 2024 | Table 6, p. 16, row 16 |  |
-| 833.15 | Peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.436; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | unspecified | [1] Drzewowska 2023; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 6, p. 13, row 9 |  |
-| 832.65 | Peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.456; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 7 |  |
-| 823 | Peritectic: Liquid + Bi4Te5 -> Bi8Te9 | Liquid: Te 0.5; Bi4Te5: Te 0.556; Bi8Te9: Te 0.529 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 17 |  |
-| 823 | Peritectic: Liquid + Bi4Te5 -> Bi8Te9 | Liquid: Te 0.453; Bi4Te5: Te 0.556; Bi8Te9: Te 0.529 | model | [2] Zhou 2024 | Table 6, p. 16, row 18 |  |
-| 815 | Peritectic: Liquid + Bi8Te9 -> BiTe | Liquid: Te 0.45; Bi8Te9: Te 0.529; BiTe: Te 0.5 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 19 |  |
-| 815 | Peritectic: Liquid + Bi8Te9 -> BiTe | Liquid: Te 0.426; Bi8Te9: Te 0.529; BiTe: Te 0.5 | model | [2] Zhou 2024 | Table 6, p. 16, row 20 |  |
-| 813.15 | Peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.44; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 10 |  |
-| 708 | Peritectic: Liquid + BiTe -> Bi4Te3 | Liquid: Te 0.23; BiTe: Te 0.5; Bi4Te3: Te 0.429 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 21 |  |
-| 708 | Peritectic: Liquid + BiTe -> Bi4Te3 | Liquid: Te 0.195; BiTe: Te 0.5; Bi4Te3: Te 0.429 | model | [2] Zhou 2024 | Table 6, p. 16, row 22 |  |
-| 694.55 | Peritectic: Liquid + BiTe -> Bi2Te | L: Te 0.212; BiTe: Bi 0.5, Te 0.5; Bi2Te: Bi 0.666667, Te 0.333333 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 14 |  |
-| 693.85 | Peritectic: Liquid + BiTe -> Bi2Te | L: Te 0.202; BiTe: Bi 0.5, Te 0.5; Bi2Te: Bi 0.666667, Te 0.333333 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 15 |  |
-| 693.15 | Peritectic: Liquid + BiTe -> Bi2Te | L: Te 0.205; BiTe: Bi 0.5, Te 0.5; Bi2Te: Bi 0.666667, Te 0.333333 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 16 |  |
-| 689 | Peritectic: Liquid -> Bi2Te3 + (Te) | Liquid: Te 0.886; Bi2Te3: Te 0.6; (Te): Te 1 | experimental | [2] Zhou 2024; _cites Drzewowska 2023_ [doi](https://doi.org/10.1007/s11669-023-01049-9) | Table 6, p. 16, row 13 |  |
-| 688.75 | Eutectic: Liquid -> Bi2Te3 + (Te) | L: Te 0.886; Bi2Te3: Bi 0.4, Te 0.6 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 17 |  |
-| 687.15 | Eutectic: Liquid -> Bi2Te3 + (Te) | L: Te 0.907; Bi2Te3: Bi 0.4, Te 0.6 | unspecified | [1] Drzewowska 2023; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 6, p. 13, row 19 |  |
-| 687.15 | Eutectic: Liquid -> Bi2Te3 + (Te) | Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 13, row 21 |  |
-| 687 | Peritectic: Liquid -> Bi2Te3 + (Te) | Liquid: Te 0.907; Bi2Te3: Te 0.6; (Te): Te 1 | experimental | [2] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 6, p. 16, row 12 |  |
-| 686.25 | Eutectic: Liquid -> Bi2Te3 + (Te) | L: Te 0.908; Bi2Te3: Bi 0.4, Te 0.6 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 18 |  |
-| 686.15 | Eutectic: Liquid -> Bi2Te3 + (Te) | L: Te 0.9; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 20 |  |
-| 686 | Peritectic: Liquid -> Bi2Te3 + (Te) | Liquid: Te 0.9; Bi2Te3: Te 0.6; (Te): Te 1 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 10 |  |
-| 686 | Peritectic: Liquid -> Bi2Te3 + (Te) | Bi2Te3: Te 0.6; (Te): Te 1 | experimental | [2] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 16, row 11 |  |
-| 679 | Peritectic: Liquid -> Bi2Te3 + (Te) | Liquid: Te 0.882; Bi2Te3: Te 0.607; (Te): Te 1 | model | [2] Zhou 2024 | Table 6, p. 16, row 14 |  |
-| 665 | Monotectic: Liquid + Bi4Te3 -> Bi2Te | Liquid: Te 0.16; Bi4Te3: Te 0.429; Bi2Te: Te 0.333 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 23 |  |
-| 665 | Monotectic: Liquid + Bi4Te3 -> Bi2Te | Liquid: Te 0.136; Bi4Te3: Te 0.429; Bi2Te: Te 0.333 | model | [2] Zhou 2024 | Table 6, p. 16, row 24 |  |
-| 605.15 | Peritectic: Liquid + Bi2Te -> Bi7Te3 | L: Te 0.1; Bi2Te: Bi 0.666667, Te 0.333333; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 6, p. 13, row 25 |  |
-| 605 | Eutectic: Liquid + Bi2Te -> Bi7Te3 | Liquid: Te 0.1; Bi2Te: Te 0.333; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 2 |  |
-| 605 | Eutectic: Liquid + Bi2Te -> Bi7Te3 | Liquid: Te 0.065; Bi2Te: Te 0.333; Bi7Te3: Te 0.3 | model | [2] Zhou 2024 | Table 6, p. 16, row 4 |  |
-| 590.05 | Peritectic: Liquid + Bi2Te -> Bi7Te3 | L: Te 0.05; Bi2Te: Bi 0.666667, Te 0.333333; Bi7Te3: Bi 0.7, Te 0.3 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 22 |  |
-| 590 | Eutectic: Liquid + Bi2Te -> Bi7Te3 | Liquid: Te 0.05; Bi2Te: Te 0.333; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Drzewowska 2023_ [doi](https://doi.org/10.1007/s11669-023-01049-9) | Table 6, p. 16, row 3 |  |
-| 586.45 | Peritectic: Liquid + Bi2Te -> Bi7Te3 | L: Te 0.063; Bi2Te: Bi 0.666667, Te 0.333333; Bi7Te3: Bi 0.7, Te 0.3 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 23 |  |
-| 585.15 | Peritectic: Liquid + Bi2Te -> Bi7Te3 | L: Te 0.055; Bi2Te: Bi 0.666667, Te 0.333333; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 24 |  |
-| 585 | Eutectic: Liquid + Bi2Te -> Bi7Te3 | Liquid: Te 0.055; Bi2Te: Te 0.333; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 1 |  |
-| 544 | Peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.011; (Bi): Te 0; Bi7Te3: Te 0.3 | model | [2] Zhou 2024 | Table 6, p. 16, row 9 |  |
-| 544 | Peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.01; (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Drzewowska 2023_ [doi](https://doi.org/10.1007/s11669-023-01049-9) | Table 6, p. 16, row 8 |  |
-| 543.75 | Eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.01; Bi7Te3: Bi 0.7, Te 0.3 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 26 |  |
-| 539.15 | Eutectic: Liquid -> (Bi) + Bi7Te3 | Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 13, row 29 |  |
-| 539.15 | Eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.024; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 28 |  |
+| 862.15 | congruent melting: Liquid -> Bi2Te3 | L: Te 0.6; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Howlett 1964_ | Table 6, p. 13, row 3 |  |
+| 859.15 | congruent melting: Liquid -> Bi2Te3 | L: Te 0.5995; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Brebrick 1968_ [doi](https://doi.org/10.1021/j100849a043) | Table 6, p. 13, row 4 |  |
+| 859.15 | congruent melting: Liquid -> Bi2Te3 | L: Te 0.6; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 6, p. 13, row 6 |  |
+| 858.05 | congruent melting: Liquid -> Bi2Te3 | L: Te 0.6; Bi2Te3: Bi 0.4, Te 0.6 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 2 |  |
+| 857.55 | congruent melting: Liquid -> Bi2Te3 | L: Te 0.5997; Bi2Te3: Bi 0.4, Te 0.6 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 1 |  |
+| 838.15 | congruent melting: Liquid -> Bi2Te3 | L: Te 0.6; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Shimazaki 1978_ | Table 6, p. 13, row 5 |  |
+| 836.15 | peritectic: Liquid + Bi2Te3 -> BiTe | Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | experimental | [1] Drzewowska 2023; _cites Brebrick 1968_ [doi](https://doi.org/10.1021/j100849a043) | Table 6, p. 13, row 11 |  |
+| 835.15 | peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.5; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | experimental | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 13, row 12 |  |
+| 835 | peritectic: Liquid + Bi2Te3 -> Bi4Te5 | Liquid: Te 0.52; Bi2Te3: Te 0.6; Bi4Te5: Te 0.556 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 15 |  |
+| 834.75 | peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.477; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 8 |  |
+| 834.15 | peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.5; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | experimental | [1] Drzewowska 2023; _cites Shimazaki 1978_ | Table 6, p. 13, row 13 |  |
+| 834 | peritectic: Liquid + Bi2Te3 -> Bi4Te5 | Liquid: Te 0.49; Bi2Te3: Te 0.6; Bi4Te5: Te 0.556 | model | [2] Zhou 2024 | Table 6, p. 16, row 16 |  |
+| 833.15 | peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.436; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | unspecified | [1] Drzewowska 2023; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 6, p. 13, row 9 |  |
+| 832.65 | peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.456; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 7 |  |
+| 823 | peritectic: Liquid + Bi4Te5 -> Bi8Te9 | Liquid: Te 0.5; Bi4Te5: Te 0.556; Bi8Te9: Te 0.529 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 17 |  |
+| 823 | peritectic: Liquid + Bi4Te5 -> Bi8Te9 | Liquid: Te 0.453; Bi4Te5: Te 0.556; Bi8Te9: Te 0.529 | model | [2] Zhou 2024 | Table 6, p. 16, row 18 |  |
+| 815 | peritectic: Liquid + Bi8Te9 -> BiTe | Liquid: Te 0.45; Bi8Te9: Te 0.529; BiTe: Te 0.5 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 19 |  |
+| 815 | peritectic: Liquid + Bi8Te9 -> BiTe | Liquid: Te 0.426; Bi8Te9: Te 0.529; BiTe: Te 0.5 | model | [2] Zhou 2024 | Table 6, p. 16, row 20 |  |
+| 813.15 | peritectic: Liquid + Bi2Te3 -> BiTe | L: Te 0.44; Bi2Te3: Bi 0.4, Te 0.6; BiTe: Bi 0.5, Te 0.5 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 10 |  |
+| 708 | peritectic: Liquid + BiTe -> Bi4Te3 | Liquid: Te 0.23; BiTe: Te 0.5; Bi4Te3: Te 0.429 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 21 |  |
+| 708 | peritectic: Liquid + BiTe -> Bi4Te3 | Liquid: Te 0.195; BiTe: Te 0.5; Bi4Te3: Te 0.429 | model | [2] Zhou 2024 | Table 6, p. 16, row 22 |  |
+| 694.55 | peritectic: Liquid + BiTe -> Bi2Te | L: Te 0.212; BiTe: Bi 0.5, Te 0.5; Bi2Te: Bi 0.666667, Te 0.333333 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 14 |  |
+| 693.85 | peritectic: Liquid + BiTe -> Bi2Te | L: Te 0.202; BiTe: Bi 0.5, Te 0.5; Bi2Te: Bi 0.666667, Te 0.333333 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 15 |  |
+| 693.15 | peritectic: Liquid + BiTe -> Bi2Te | L: Te 0.205; BiTe: Bi 0.5, Te 0.5; Bi2Te: Bi 0.666667, Te 0.333333 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 16 |  |
+| 689 | peritectic: Liquid -> Bi2Te3 + (Te) | Liquid: Te 0.886; Bi2Te3: Te 0.6; (Te): Te 1 | experimental | [2] Zhou 2024; _cites Drzewowska 2023_ [doi](https://doi.org/10.1007/s11669-023-01049-9) | Table 6, p. 16, row 13 |  |
+| 688.75 | eutectic: Liquid -> Bi2Te3 + (Te) | L: Te 0.886; Bi2Te3: Bi 0.4, Te 0.6 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 17 |  |
+| 687.15 | eutectic: Liquid -> Bi2Te3 + (Te) | L: Te 0.907; Bi2Te3: Bi 0.4, Te 0.6 | unspecified | [1] Drzewowska 2023; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 6, p. 13, row 19 |  |
+| 687.15 | eutectic: Liquid -> Bi2Te3 + (Te) | Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 13, row 21 |  |
+| 687 | peritectic: Liquid -> Bi2Te3 + (Te) | Liquid: Te 0.907; Bi2Te3: Te 0.6; (Te): Te 1 | experimental | [2] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 6, p. 16, row 12 |  |
+| 686.25 | eutectic: Liquid -> Bi2Te3 + (Te) | L: Te 0.908; Bi2Te3: Bi 0.4, Te 0.6 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 18 |  |
+| 686.15 | eutectic: Liquid -> Bi2Te3 + (Te) | L: Te 0.9; Bi2Te3: Bi 0.4, Te 0.6 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 20 |  |
+| 686 | peritectic: Liquid -> Bi2Te3 + (Te) | Liquid: Te 0.9; Bi2Te3: Te 0.6; (Te): Te 1 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 10 |  |
+| 686 | peritectic: Liquid -> Bi2Te3 + (Te) | Bi2Te3: Te 0.6; (Te): Te 1 | experimental | [2] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 16, row 11 |  |
+| 679 | peritectic: Liquid -> Bi2Te3 + (Te) | Liquid: Te 0.882; Bi2Te3: Te 0.607; (Te): Te 1 | model | [2] Zhou 2024 | Table 6, p. 16, row 14 |  |
+| 665 | monotectic: Liquid + Bi4Te3 -> Bi2Te | Liquid: Te 0.16; Bi4Te3: Te 0.429; Bi2Te: Te 0.333 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 23 |  |
+| 665 | monotectic: Liquid + Bi4Te3 -> Bi2Te | Liquid: Te 0.136; Bi4Te3: Te 0.429; Bi2Te: Te 0.333 | model | [2] Zhou 2024 | Table 6, p. 16, row 24 |  |
+| 605.15 | peritectic: Liquid + Bi2Te -> Bi7Te3 | L: Te 0.1; Bi2Te: Bi 0.666667, Te 0.333333; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 6, p. 13, row 25 |  |
+| 605 | eutectic: Liquid + Bi2Te -> Bi7Te3 | Liquid: Te 0.1; Bi2Te: Te 0.333; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 2 |  |
+| 605 | eutectic: Liquid + Bi2Te -> Bi7Te3 | Liquid: Te 0.065; Bi2Te: Te 0.333; Bi7Te3: Te 0.3 | model | [2] Zhou 2024 | Table 6, p. 16, row 4 |  |
+| 590.05 | peritectic: Liquid + Bi2Te -> Bi7Te3 | L: Te 0.05; Bi2Te: Bi 0.666667, Te 0.333333; Bi7Te3: Bi 0.7, Te 0.3 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 22 |  |
+| 590 | eutectic: Liquid + Bi2Te -> Bi7Te3 | Liquid: Te 0.05; Bi2Te: Te 0.333; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Drzewowska 2023_ [doi](https://doi.org/10.1007/s11669-023-01049-9) | Table 6, p. 16, row 3 |  |
+| 586.45 | peritectic: Liquid + Bi2Te -> Bi7Te3 | L: Te 0.063; Bi2Te: Bi 0.666667, Te 0.333333; Bi7Te3: Bi 0.7, Te 0.3 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 23 |  |
+| 585.15 | peritectic: Liquid + Bi2Te -> Bi7Te3 | L: Te 0.055; Bi2Te: Bi 0.666667, Te 0.333333; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 24 |  |
+| 585 | eutectic: Liquid + Bi2Te -> Bi7Te3 | Liquid: Te 0.055; Bi2Te: Te 0.333; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 1 |  |
+| 544 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.011; (Bi): Te 0; Bi7Te3: Te 0.3 | model | [2] Zhou 2024 | Table 6, p. 16, row 9 |  |
+| 544 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.01; (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Drzewowska 2023_ [doi](https://doi.org/10.1007/s11669-023-01049-9) | Table 6, p. 16, row 8 |  |
+| 543.75 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.01; Bi7Te3: Bi 0.7, Te 0.3 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 26 |  |
+| 539.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 13, row 29 |  |
+| 539.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.024; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 28 |  |
 | 539.15 | eutectic |  | model | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | p. 13 | “Glatz37 studied alloys from the Bi-Te system and concluded that the eutectic on the bismuth side (266 C) can be eliminated in the alloy with the atomic composition Bi56Te44 by equilibrating it at 300 C for 180 days, while the equilibration at 250 C for 90 days does not eliminate the eutectic reaction.” |
-| 539 | Peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.024; (Bi): Te 1; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 5 |  |
-| 537.15 | Eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.025; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 6, p. 13, row 30 |  |
-| 537 | Peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.025; (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 7 |  |
-| 537 | Peritectic: Liquid -> (Bi) + Bi7Te3 | (Bi): Te 1; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 16, row 6 |  |
-| 536.45 | Eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.011; Bi7Te3: Bi 0.7, Te 0.3 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 27 |  |
+| 539 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.024; (Bi): Te 1; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 5 |  |
+| 537.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.025; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 6, p. 13, row 30 |  |
+| 537 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.025; (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 7 |  |
+| 537 | peritectic: Liquid -> (Bi) + Bi7Te3 | (Bi): Te 1; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 16, row 6 |  |
+| 536.45 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.011; Bi7Te3: Bi 0.7, Te 0.3 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 27 |  |
 
 ## Other properties
 
-### Phase transition (121)
+### Phase transition (118)
 
 Table: Phase transition, Bi–Te system
 
@@ -177,7 +177,6 @@ Table: Phase transition, Bi–Te system
 | Phase transition | 539.55 K | 539.55 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 77 |  |
 | Phase transition | 539.55 K | 539.55 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 97 |  |
 | Phase transition | 540.05 K | 540.05 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 107 |  |
-| Phase transition | 540.05 K | 540.05 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 101 |  |
 | Phase transition | 581.05 K | 581.05 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 69 |  |
 | Phase transition | 582.15 K | 582.15 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 95 |  |
 | Phase transition | 582.75 K | 582.75 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 78 |  |
@@ -208,7 +207,6 @@ Table: Phase transition, Bi–Te system
 | Phase transition | 698.55 K | 698.55 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 73 |  |
 | Phase transition | 699.65 K | 699.65 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 46 |  |
 | Phase transition | 699.95 K | 699.95 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 55 |  |
-| Phase transition | 699.95 K | 699.95 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 52 |  |
 | Phase transition | 700.05 K | 700.05 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 70 |  |
 | Phase transition | 700.15 K | 700.15 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 43 |  |
 | Phase transition | 700.15 K | 700.15 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 87 |  |
@@ -230,7 +228,6 @@ Table: Phase transition, Bi–Te system
 | Phase transition | 780.55 K | 780.55 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 57 |  |
 | Phase transition | 786.55 K | 786.55 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 48 |  |
 | Phase transition | 793.45 K | 793.45 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 56 |  |
-| Phase transition | 793.45 K | 793.45 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 47 |  |
 | Phase transition | 793.55 K | 793.55 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 53 |  |
 | Phase transition | 794.85 K | 794.85 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 44 |  |
 | Phase transition | 796.25 K | 796.25 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 65 |  |

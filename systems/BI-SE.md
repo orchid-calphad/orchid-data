@@ -75,44 +75,44 @@ Table: Invariant reactions reported in the literature for the Bi–Se system (38
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 895 | Monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Bi2Se3: Se 0.6 | unspecified | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 5, p. 9, row 22 |  |
+| 895 | monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Bi2Se3: Se 0.6 | unspecified | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 5, p. 9, row 22 |  |
 | 891 | Liq -> Bi2Se3 + liq | Liq: Se 0.73; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.98 | experimental | [2] Chen 2014; _cites Parravano 1931_ | Table 2, p. 4, row 9 |  |
-| 891 | Monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.73; Liquid#2: Se 0.98; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 20 |  |
-| 890 | Peritectic: Liquid#1 + Bi2Se3 -> Bi3Se4 | Liquid#1: Se 0.461; Bi2Se3: Se 0.6; Bi3Se4: Se 0.571 | model | [1] Zhou 2024 | Table 5, p. 9, row 19 |  |
-| 890 | Peritectic: Liquid#1 + Bi2Se3 -> Bi3Se4 | Liquid#1: Se 0.51; Bi2Se3: Se 0.6; Bi3Se4: Se 0.571 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 18 |  |
-| 889 | Monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.696; Liquid#2: Se 0.97; Bi2Se3: Se 0.6 | model | [1] Zhou 2024 | Table 5, p. 9, row 23 |  |
+| 891 | monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.73; Liquid#2: Se 0.98; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 20 |  |
+| 890 | peritectic: Liquid#1 + Bi2Se3 -> Bi3Se4 | Liquid#1: Se 0.461; Bi2Se3: Se 0.6; Bi3Se4: Se 0.571 | model | [1] Zhou 2024 | Table 5, p. 9, row 19 |  |
+| 890 | peritectic: Liquid#1 + Bi2Se3 -> Bi3Se4 | Liquid#1: Se 0.51; Bi2Se3: Se 0.6; Bi3Se4: Se 0.571 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 18 |  |
+| 889 | monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.696; Liquid#2: Se 0.97; Bi2Se3: Se 0.6 | model | [1] Zhou 2024 | Table 5, p. 9, row 23 |  |
 | 887 | Liq -> Bi2Se3 + liq | Bi2Se3: Bi 0.4, Se 0.6 | experimental | [2] Chen 2014; _cites Ohashi 1966_ | Table 2, p. 4, row 10 |  |
-| 881 | Peritectic: Liquid#1 + Bi3Se4 -> Bi8Se9 | Liquid#1: Se 0.5; Bi3Se4: Se 0.571; Bi8Se9: Se 0.529 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 16 |  |
-| 881 | Peritectic: Liquid#1 + Bi3Se4 -> Bi8Se9 | Liquid#1: Se 0.447; Bi3Se4: Se 0.571; Bi8Se9: Se 0.529 | model | [1] Zhou 2024 | Table 5, p. 9, row 17 |  |
+| 881 | peritectic: Liquid#1 + Bi3Se4 -> Bi8Se9 | Liquid#1: Se 0.5; Bi3Se4: Se 0.571; Bi8Se9: Se 0.529 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 16 |  |
+| 881 | peritectic: Liquid#1 + Bi3Se4 -> Bi8Se9 | Liquid#1: Se 0.447; Bi3Se4: Se 0.571; Bi8Se9: Se 0.529 | model | [1] Zhou 2024 | Table 5, p. 9, row 17 |  |
 | 879 | Liq + Bi2Se3 -> BiSe | Liq: Se 0.47; Bi2Se3: Bi 0.4, Se 0.6; BiSe: Bi 0.5, Se 0.5 | model | [2] Chen 2014 | Table 2, p. 4, row 5 |  |
 | 878 | Liq + Bi2Se3 -> BiSe | Bi2Se3: Bi 0.4, Se 0.6; BiSe: Bi 0.5, Se 0.5 | experimental | [2] Chen 2014; _cites Parravano 1931_ | Table 2, p. 4, row 6 |  |
 | 878 | Liq -> Bi2Se3 + liq | Liq: Se 0.73; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.96 | experimental | [2] Chen 2014; _cites Tomoshige 1919_ | Table 2, p. 4, row 11 |  |
-| 878 | Monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.73; Liquid#2: Se 0.96; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 5, p. 9, row 21 |  |
+| 878 | monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.73; Liquid#2: Se 0.96; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 5, p. 9, row 21 |  |
 | 876 | Liq -> Bi2Se3 + liq | Liq: Se 0.72; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.95 | model | [2] Chen 2014 | Table 2, p. 4, row 8 |  |
 | 872 | Liq + Bi2Se3 -> BiSe | Bi2Se3: Bi 0.4, Se 0.6; BiSe: Bi 0.5, Se 0.5 | experimental | [2] Chen 2014; _cites Tomoshige 1919_ | Table 2, p. 4, row 7 |  |
-| 866 | Peritectic: Liquid#1 + Bi8Se9 -> BiSe | Liquid#1: Se 0.417; Bi8Se9: Se 0.529; BiSe: Se 0.5 | model | [1] Zhou 2024 | Table 5, p. 9, row 15 |  |
-| 866 | Peritectic: Liquid#1 + Bi8Se9 -> BiSe | Liquid#1: Se 0.485; Bi8Se9: Se 0.529; BiSe: Se 0.5 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 14 |  |
-| 853 | Peritectic: Liquid#1 + BiSe -> Bi8Se7 | Liquid#1: Se 0.389; BiSe: Se 0.5; Bi8Se7: Se 0.467 | model | [1] Zhou 2024 | Table 5, p. 9, row 13 |  |
-| 853 | Peritectic: Liquid#1 + BiSe -> Bi8Se7 | Liquid#1: Se 0.435; BiSe: Se 0.5; Bi8Se7: Se 0.467 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 12 |  |
-| 829 | Peritectic: Liquid#1 + Bi8Se7 -> Bi4Se3 | Liquid#1: Se 0.4; Bi8Se7: Se 0.467; Bi4Se3: Se 0.429 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 10 |  |
-| 829 | Peritectic: Liquid#1 + Bi8Se7 -> Bi4Se3 | Liquid#1: Se 0.337; Bi8Se7: Se 0.467; Bi4Se3: Se 0.429 | model | [1] Zhou 2024 | Table 5, p. 9, row 11 |  |
+| 866 | peritectic: Liquid#1 + Bi8Se9 -> BiSe | Liquid#1: Se 0.417; Bi8Se9: Se 0.529; BiSe: Se 0.5 | model | [1] Zhou 2024 | Table 5, p. 9, row 15 |  |
+| 866 | peritectic: Liquid#1 + Bi8Se9 -> BiSe | Liquid#1: Se 0.485; Bi8Se9: Se 0.529; BiSe: Se 0.5 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 14 |  |
+| 853 | peritectic: Liquid#1 + BiSe -> Bi8Se7 | Liquid#1: Se 0.389; BiSe: Se 0.5; Bi8Se7: Se 0.467 | model | [1] Zhou 2024 | Table 5, p. 9, row 13 |  |
+| 853 | peritectic: Liquid#1 + BiSe -> Bi8Se7 | Liquid#1: Se 0.435; BiSe: Se 0.5; Bi8Se7: Se 0.467 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 12 |  |
+| 829 | peritectic: Liquid#1 + Bi8Se7 -> Bi4Se3 | Liquid#1: Se 0.4; Bi8Se7: Se 0.467; Bi4Se3: Se 0.429 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 10 |  |
+| 829 | peritectic: Liquid#1 + Bi8Se7 -> Bi4Se3 | Liquid#1: Se 0.337; Bi8Se7: Se 0.467; Bi4Se3: Se 0.429 | model | [1] Zhou 2024 | Table 5, p. 9, row 11 |  |
 | 744.1 | Liq + BiSe -> Bi3Se2 | Liq: Se 0.21; BiSe: Bi 0.5, Se 0.5; Bi3Se2: Bi 0.6, Se 0.4 | model | [2] Chen 2014 | Table 2, p. 4, row 2 |  |
 | 743 | Liq + BiSe -> Bi3Se2 | BiSe: Bi 0.5, Se 0.5; Bi3Se2: Bi 0.6, Se 0.4 | experimental | [2] Chen 2014; _cites Gather 1975_ | Table 2, p. 4, row 3 |  |
 | 743 | Liq + BiSe -> Bi3Se2 | BiSe: Bi 0.5, Se 0.5; Bi3Se2: Bi 0.6, Se 0.4 | experimental | [2] Chen 2014; _cites Sher 1986_ | Table 2, p. 4, row 4 |  |
-| 742 | Peritectic: Liquid#1 + Bi4Se3 -> Bi3Se2 | Liquid#1: Se 0.185; Bi4Se3: Se 0.429; Bi3Se2: Se 0.4 | model | [1] Zhou 2024 | Table 5, p. 9, row 9 |  |
-| 742 | Peritectic: Liquid#1 + Bi4Se3 -> Bi3Se2 | Liquid#1: Se 0.2; Bi4Se3: Se 0.429; Bi3Se2: Se 0.4 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 8 |  |
-| 544 | Eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.4 | model | [1] Zhou 2024 | Table 5, p. 9, row 7 |  |
+| 742 | peritectic: Liquid#1 + Bi4Se3 -> Bi3Se2 | Liquid#1: Se 0.185; Bi4Se3: Se 0.429; Bi3Se2: Se 0.4 | model | [1] Zhou 2024 | Table 5, p. 9, row 9 |  |
+| 742 | peritectic: Liquid#1 + Bi4Se3 -> Bi3Se2 | Liquid#1: Se 0.2; Bi4Se3: Se 0.429; Bi3Se2: Se 0.4 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 8 |  |
+| 544 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.4 | model | [1] Zhou 2024 | Table 5, p. 9, row 7 |  |
 | 543.9 | Liq -> rho + Bi3Se2 | Liq: Se 0.0078; Bi3Se2: Bi 0.6, Se 0.4 | model | [2] Chen 2014 | Table 2, p. 4, row 1 |  |
-| 543 | Eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.4 | unspecified | [1] Zhou 2024; _cites Sher 1986_ | Table 5, p. 9, row 5 |  |
-| 543 | Eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.333 | unspecified | [1] Zhou 2024; _cites Abrikosov 2016_ | Table 5, p. 9, row 3 |  |
-| 542 | Eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.5 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 1 |  |
-| 542 | Eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.4 | experimental | [1] Zhou 2024; _cites Gather 1975_ [doi](https://doi.org/10.1515/ijmr-1975-660607) | Table 5, p. 9, row 4 |  |
-| 542 | Eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.5 | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 5, p. 9, row 2 |  |
-| 540 | Eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0.02; (Bi): Se 1; Bi3Se2: Se 0.4 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 6 |  |
-| 497 | Eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | unspecified | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 5, p. 9, row 25 |  |
+| 543 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.4 | unspecified | [1] Zhou 2024; _cites Sher 1986_ | Table 5, p. 9, row 5 |  |
+| 543 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.333 | unspecified | [1] Zhou 2024; _cites Abrikosov 2016_ | Table 5, p. 9, row 3 |  |
+| 542 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.5 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 1 |  |
+| 542 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.4 | experimental | [1] Zhou 2024; _cites Gather 1975_ [doi](https://doi.org/10.1515/ijmr-1975-660607) | Table 5, p. 9, row 4 |  |
+| 542 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 1; Bi3Se2: Se 0.5 | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 5, p. 9, row 2 |  |
+| 540 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0.02; (Bi): Se 1; Bi3Se2: Se 0.4 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 6 |  |
+| 497 | eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | unspecified | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 5, p. 9, row 25 |  |
 | 494 | Liq -> Bi2Se3 + hex | Liq: Se 1; Bi2Se3: Bi 0.4, Se 0.6 | model | [2] Chen 2014 | Table 2, p. 4, row 12 |  |
-| 494 | Eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | model | [1] Zhou 2024 | Table 5, p. 9, row 26 |  |
-| 490 | Eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 24 |  |
+| 494 | eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | model | [1] Zhou 2024 | Table 5, p. 9, row 26 |  |
+| 490 | eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 24 |  |
 
 ## Other properties
 
@@ -148,13 +148,13 @@ Table: Phase transition, Bi–Se system
 | Phase transition | 891 K | 891 | Liquid#1 ? Bi2Se3 ? BiSe | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | p. 6 | “Subsequently, Poretskaya et al.\[58\] investigated the liquidus near Bi2Se3 using DTA, CM and OM methods while giving the temperatures of three invariant reactions, i.e., Liquid#1 ? Liquid#2 ? Bi2Se3 (895 K), Liquid#2 ? (Se) ? Bi2Se3 (497 K), Liquid#1 ? Bi2Se3 ? BiSe (891 K).” |
 | Phase transition | 891 K | 891 | Liquid#1 ? Liquid#2 ? Bi2Se3 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | p. 4 | “Parravano\[53\] determined liquidus and the temperatures of four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (891 K), Liquid#2 ? (Se) ? Bi2Se3 (490 K) in the range of 5-70 at.% Se.” |
 | Phase transition | 895 K | 895 | Liquid#1 ? Liquid#2 ? Bi2Se3 | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | p. 6 | “Subsequently, Poretskaya et al.\[58\] investigated the liquidus near Bi2Se3 using DTA, CM and OM methods while giving the temperatures of three invariant reactions, i.e., Liquid#1 ? Liquid#2 ? Bi2Se3 (895 K), Liquid#2 ? (Se) ? Bi2Se3 (497 K), Liquid#1 ? Bi2Se3 ? BiSe (891 K).” |
-| Phase transition | 961 K | 961 | congruent: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Tomoshige 1919_ | Table 3, p. 4, row 7 |  |
-| Phase transition | 973 K | 973 | congruent: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Kuznetsov 1963_ | Table 3, p. 4, row 6 |  |
-| Phase transition | 973 K | 973 | congruent: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Kulwicki 1963_ | Table 3, p. 4, row 5 |  |
-| Phase transition | 977 K | 977 | congruent: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Ohashi 1966_ | Table 3, p. 4, row 4 |  |
-| Phase transition | 979 K | 979 | congruent: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Pelabon 1904_ [doi](https://doi.org/10.1051/jcp/1904020321) | Table 3, p. 4, row 3 |  |
-| Phase transition | 982 K | 982 | congruent: Bi2Se3; _alloy: Se 0.6_ | model | [2] Chen 2014 | Table 3, p. 4, row 1 |  |
-| Phase transition | 983 K | 983 | congruent: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Yarembash 1962_ | Table 3, p. 4, row 2 |  |
+| Phase transition | 961 K | 961 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Tomoshige 1919_ | Table 3, p. 4, row 7 |  |
+| Phase transition | 973 K | 973 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Kuznetsov 1963_ | Table 3, p. 4, row 6 |  |
+| Phase transition | 973 K | 973 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Kulwicki 1963_ | Table 3, p. 4, row 5 |  |
+| Phase transition | 977 K | 977 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Ohashi 1966_ | Table 3, p. 4, row 4 |  |
+| Phase transition | 979 K | 979 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Pelabon 1904_ [doi](https://doi.org/10.1051/jcp/1904020321) | Table 3, p. 4, row 3 |  |
+| Phase transition | 982 K | 982 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | model | [2] Chen 2014 | Table 3, p. 4, row 1 |  |
+| Phase transition | 983 K | 983 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Yarembash 1962_ | Table 3, p. 4, row 2 |  |
 | Phase transition | 984 K | 984 |  | model | [1] Zhou 2024 | p. 18 | “The calculated melting temperature of Bi2Se3 is 984 K, which is consistent with the experimental data from the literature.\[37,46,53,55,56,58\]” |
 
 ## Sources

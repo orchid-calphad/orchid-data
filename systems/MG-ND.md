@@ -138,14 +138,14 @@ Table: Invariant reactions reported in the literature for the Mg–Nd system (48
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1054 | Eutectic: L -> BCC_A2+BCC_B2 | L: Nd 0.614; BCC_A2: Nd 0.699; BCC_B2: Nd 0.535 | model | [1] MENG 2007 | Table 3, p. 4, row 1 |  |
+| 1054 | eutectic: L -> BCC_A2+BCC_B2 | L: Nd 0.614; BCC_A2: Nd 0.699; BCC_B2: Nd 0.535 | model | [1] MENG 2007 | Table 3, p. 4, row 1 |  |
 | 1053.6 | Liquid → bcc_B2 + bcc_A2 | Liquid: Nd 0.605; bcc_B2: Nd 0.496; bcc_A2: Nd 0.654 | model | [2] Niu 2010 | Table 4, p. 3, row 1 |  |
 | 1053.5 | Liquid → bcc_B2 + bcc_A2 | Liquid: Nd 0.605; bcc_B2: Nd 0.496; bcc_A2: Nd 0.654 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 2 |  |
 | 1048.15 | eutectic |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The MgNd phase melts congruently at 800 ◦ C and is involved in two eutectic reactions: (1) at 775 ◦ C with bcc-Nd and 57.5 at.% Nd liquid, and at 750 ◦ C with Mg2 Nd and 64.5 at.% Nd liquid phase \[8\].” |
 | 1048 | L -> MgNd(B2) + BCC_A2 | Liquid: Nd 0.575; BCC_A2: Nd 0.66 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 1 |  |
-| 1048 | Eutectic: L -> BCC_A2+BCC_B2 | L: Nd 0.575; BCC_A2: Nd 0.66 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 2 |  |
+| 1048 | eutectic: L -> BCC_A2+BCC_B2 | L: Nd 0.575; BCC_A2: Nd 0.66 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 2 |  |
 | 1045 | L -> MgNd(B2) + BCC_A2 | Liquid: Nd 0.615; B2: Nd 0.5; BCC_A2: Nd 0.674 | model | [4] Qi 2011 | Table 2, p. 5, row 2 |  |
-| 1028 | Peritectic: L+Mg3Nd -> Mg2Nd | L: Nd 0.334; Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333 | model | [1] MENG 2007 | Table 3, p. 4, row 9 |  |
+| 1028 | peritectic: L+Mg3Nd -> Mg2Nd | L: Nd 0.334; Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333 | model | [1] MENG 2007 | Table 3, p. 4, row 9 |  |
 | 1024.1 | Liquid + Mg3Nd → Mg2Nd | Liquid: Nd 0.335; Mg3Nd: Nd 0.249; Mg2Nd: Nd 0.333 | model | [2] Niu 2010 | Table 4, p. 3, row 3 |  |
 | 1024.1 | Liquid + Mg3Nd → Mg2Nd | Liquid: Nd 0.335; Mg3Nd: Nd 0.249; Mg2Nd: Nd 0.333 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 4 |  |
 | 1023.15 | eutectic |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The MgNd phase melts congruently at 800 ◦ C and is involved in two eutectic reactions: (1) at 775 ◦ C with bcc-Nd and 57.5 at.% Nd liquid, and at 750 ◦ C with Mg2 Nd and 64.5 at.% Nd liquid phase \[8\].” |
@@ -153,38 +153,38 @@ Table: Invariant reactions reported in the literature for the Mg–Nd system (48
 | 1023 | L + Mg3Nd -> Mg2Nd | Mg3Nd: Mg 0.75, Nd 0.25; Mg2Nd: Mg 0.666667, Nd 0.333333 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 3 |  |
 | 1023 | L + Mg3Nd -> Mg2Nd | Liquid: Nd 0.347; Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333 | model | [4] Qi 2011 | Table 2, p. 5, row 4 |  |
 | 1023 | L -> Mg2Nd + MgNd(B2) | Liquid: Nd 0.355; Mg2Nd: Mg 0.666667, Nd 0.333333 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 5 |  |
-| 1023 (>) | Peritectic: L+Mg3Nd -> Mg2Nd | Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333333 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 10 |  |
-| 1023 | Eutectic: L -> BCC_B2+Mg2Nd | L: Nd 0.355; Mg2Nd: Nd 0.333333 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 8 |  |
+| 1023 (>) | peritectic: L+Mg3Nd -> Mg2Nd | Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333333 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 10 |  |
+| 1023 | eutectic: L -> BCC_B2+Mg2Nd | L: Nd 0.355; Mg2Nd: Nd 0.333333 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 8 |  |
 | 1023 | eutectic: liquid -> MgNd(BCCB2)+MgzNd |  | experimental | [1] MENG 2007 | p. 2 | “For the Mg2Nd phase, a peritectic formation was assumed at a temperature slightly higher than 1 023 K, the temperature for the eutectic reaction, liquid-+ MgNd(BCCB2)+MgzNd.” |
 | 1022.7 | Liquid → Mg2Nd + bcc_B2 | Liquid: Nd 0.353; Mg2Nd: Nd 0.333; bcc_B2: Nd 0.477 | model | [2] Niu 2010 | Table 4, p. 3, row 5 |  |
 | 1022.7 | Liquid → Mg2Nd + bcc_B2 | Liquid: Nd 0.353; Mg2Nd: Nd 0.333; bcc_B2: Nd 0.477 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 6 |  |
 | 1022 | L -> Mg2Nd + MgNd(B2) | Liquid: Nd 0.358; Mg2Nd: Nd 0.333; B2: Nd 0.451 | model | [4] Qi 2011 | Table 2, p. 5, row 6 |  |
-| 1016 | Eutectic: L -> BCC_B2+Mg2Nd | L: Nd 0.382; BCC_B2: Nd 0.499; Mg2Nd: Nd 0.333 | model | [1] MENG 2007 | Table 3, p. 4, row 7 |  |
+| 1016 | eutectic: L -> BCC_B2+Mg2Nd | L: Nd 0.382; BCC_B2: Nd 0.499; Mg2Nd: Nd 0.333 | model | [1] MENG 2007 | Table 3, p. 4, row 7 |  |
 | 933.2 | Mg2Nd → Mg3Nd + bcc_B2 | Mg2Nd: Nd 0.333; Mg3Nd: Nd 0.25; bcc_B2: Nd 0.483 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 8 |  |
 | 933.2 | Mg2Nd → Mg3Nd + bcc_B2 | Mg2Nd: Nd 0.333; Mg3Nd: Nd 0.25; bcc_B2: Nd 0.483 | model | [2] Niu 2010 | Table 4, p. 3, row 7 |  |
-| 933 | Eutectoid: Mg2Nd -> BCC_B2+Mg3Nd | Mg2Nd: Nd 0.333333; Mg3Nd: Nd 0.25 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 12 |  |
+| 933 | eutectoid: Mg2Nd -> BCC_B2+Mg3Nd | Mg2Nd: Nd 0.333333; Mg3Nd: Nd 0.25 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 12 |  |
 | 933 | Mg2Nd -> Mg3Nd + MgNd(B2) | Mg3Nd: Mg 0.75, Nd 0.25; Mg2Nd: Mg 0.666667, Nd 0.333333 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 7 |  |
-| 932 | Eutectoid: Mg2Nd -> BCC_B2+Mg3Nd | Mg2Nd: Nd 0.333; BCC_B2: Nd 0.5; Mg3Nd: Nd 0.25 | model | [1] MENG 2007 | Table 3, p. 4, row 11 |  |
+| 932 | eutectoid: Mg2Nd -> BCC_B2+Mg3Nd | Mg2Nd: Nd 0.333; BCC_B2: Nd 0.5; Mg3Nd: Nd 0.25 | model | [1] MENG 2007 | Table 3, p. 4, row 11 |  |
 | 930 | Mg2Nd -> Mg3Nd + MgNd(B2) | Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333; B2: Nd 0.481 | model | [4] Qi 2011 | Table 2, p. 5, row 8 |  |
 | 833.15 | peritectic: Mg41Nd5 -> Liquid + Mg3Nd |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 2 | “It decomposes peritectically at 560 ◦ C into the liquid and Mg3 Nd phases and is also involved in an eutectic reaction with the Mg-rich terminal solid solution and the liquid phase at 545 ◦ C (92.5 at.% Mg) \[8,10\].” |
-| 833 | Peritectic: L+Mg3Nd -> Mg41Nd5 | L: Nd 0.083; Mg3Nd: Nd 0.25; Mg41Nd5: Nd 0.109 | model | [1] MENG 2007 | Table 3, p. 4, row 15 |  |
-| 833 | Peritectic: L+Mg3Nd -> Mg41Nd5 | L: Nd 0.085; Mg3Nd: Nd 0.25; Mg41Nd5: Nd 0.108696 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 16 |  |
+| 833 | peritectic: L+Mg3Nd -> Mg41Nd5 | L: Nd 0.083; Mg3Nd: Nd 0.25; Mg41Nd5: Nd 0.109 | model | [1] MENG 2007 | Table 3, p. 4, row 15 |  |
+| 833 | peritectic: L+Mg3Nd -> Mg41Nd5 | L: Nd 0.085; Mg3Nd: Nd 0.25; Mg41Nd5: Nd 0.108696 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 16 |  |
 | 833 | Liquid + Mg3Nd → Mg41Nd5 | Liquid: Nd 0.082; Mg3Nd: Nd 0.195; Mg41Nd5: Nd 0.109 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 10 |  |
 | 833 | Liquid + Mg3Nd → Mg41Nd5 | Liquid: Nd 0.082; Mg3Nd: Nd 0.195; Mg41Nd5: Nd 0.109 | model | [2] Niu 2010 | Table 4, p. 3, row 9 |  |
 | 833 | L + Mg3Nd -> Mg41Nd5 | Liquid: Nd 0.085; Mg3Nd: Mg 0.75, Nd 0.25; Mg41Nd5: Mg 0.891304, Nd 0.108696 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 9 |  |
 | 832 | L + Mg3Nd -> Mg41Nd5 | Liquid: Nd 0.07; Mg3Nd: Nd 0.206; Mg41Nd5: Nd 0.103 | model | [4] Qi 2011 | Table 2, p. 5, row 10 |  |
 | 826 | L -> Mg41Nd5 + HCP_A3 | Liquid: Nd 0.062; Mg41Nd5: Nd 0.102; HCP_A3: Nd 0.008 | model | [4] Qi 2011 | Table 2, p. 5, row 12 |  |
-| 822 | Eutectic: L -> HCP_A3+Mg41Nd5 | L: Nd 0.063; HCP_A3: Nd 0.001; Mg41Nd5: Nd 0.109 | model | [1] MENG 2007 | Table 3, p. 4, row 17 |  |
+| 822 | eutectic: L -> HCP_A3+Mg41Nd5 | L: Nd 0.063; HCP_A3: Nd 0.001; Mg41Nd5: Nd 0.109 | model | [1] MENG 2007 | Table 3, p. 4, row 17 |  |
 | 818.15 | eutectic |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 2 | “It decomposes peritectically at 560 ◦ C into the liquid and Mg3 Nd phases and is also involved in an eutectic reaction with the Mg-rich terminal solid solution and the liquid phase at 545 ◦ C (92.5 at.% Mg) \[8,10\].” |
-| 818 | Eutectic: L -> HCP_A3+Mg41Nd5 | L: Nd 0.075; HCP_A3: Nd 0.001; Mg41Nd5: Nd 0.108696 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 18 |  |
-| 818 | Eutectoid: BCC_A2 -> dHCP+BCC_B2 | BCC_A2: Nd 0.83; dHCP: Nd 0.92 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 4 |  |
+| 818 | eutectic: L -> HCP_A3+Mg41Nd5 | L: Nd 0.075; HCP_A3: Nd 0.001; Mg41Nd5: Nd 0.108696 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 18 |  |
+| 818 | eutectoid: BCC_A2 -> dHCP+BCC_B2 | BCC_A2: Nd 0.83; dHCP: Nd 0.92 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 4 |  |
 | 818 | bcc_A2 → bcc_B2 + dhcp | bcc_A2: Nd 0.82; bcc_B2: Nd 0.5; dhcp: Nd 0.926 | model | [2] Niu 2010 | Table 4, p. 3, row 13 |  |
 | 818 | BCC_A2 -> MgNd(B2) + DHCP | BCC_A2: Nd 0.83; DHCP: Nd 0.92 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 13 |  |
 | 818 | bcc_A2 → bcc_B2 + dhcp | bcc_A2: Nd 0.82; bcc_B2: Nd 0.5; dhcp: Nd 0.926 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 14 |  |
 | 818 | L -> Mg41Nd5 + HCP_A3 | Liquid: Nd 0.075; Mg41Nd5: Mg 0.891304, Nd 0.108696; HCP_A3: Nd 0.001 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 11 |  |
 | 818 | Liquid → hcp_A3 + Mg41Nd5 | Liquid: Nd 0.065; hcp_A3: Nd 0.002; Mg41Nd5: Nd 0.109 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 12 |  |
 | 817.4 | Liquid → hcp_A3 + Mg41Nd5 | Liquid: Nd 0.065; hcp_A3: Nd 0; Mg41Nd5: Nd 0.109 | model | [2] Niu 2010 | Table 4, p. 3, row 11 |  |
-| 817 | Eutectoid: BCC_A2 -> dHCP+BCC_B2 | BCC_A2: Nd 0.818; dHCP: Nd 0.949; BCC_B2: Nd 0.584 | model | [1] MENG 2007 | Table 3, p. 4, row 3 |  |
+| 817 | eutectoid: BCC_A2 -> dHCP+BCC_B2 | BCC_A2: Nd 0.818; dHCP: Nd 0.949; BCC_B2: Nd 0.584 | model | [1] MENG 2007 | Table 3, p. 4, row 3 |  |
 | 816 | BCC_A2 -> MgNd(B2) + DHCP | BCC_A2: Nd 0.821; B2: Nd 0.503; DHCP: Nd 0.911 | model | [4] Qi 2011 | Table 2, p. 5, row 14 |  |
 
 ## Other properties
@@ -198,12 +198,12 @@ Table: Phase transition, Mg–Nd system
 | Phase transition | 790.6 K | 790.6 | other | model | [2] Niu 2010 | p. 3 | “The calculated critical temperatures of the miscibility gaps are 581.5 K for the Mg-Zn system and 790.6 K for the Mg-Nd system.” |
 | Phase transition | 818.15 K | 818.15 | bcc-Nd -> MgNd + dhcp-Nd | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The bcc-Nd solid solution decomposes eutectoidally at 545 ◦ C at 17 at.% Mg, into MgNd and dhcp-Nd \[8\].” |
 | Phase transition | 933.15 K | 933.15 | Mg2Nd -> MgNd + Mg3Nd | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “Delfino et al. \[8\] indicates that the Mg2 Nd phase further decomposes at 660 ◦ C into MgNd and Mg3 Nd.” |
-| Phase transition | 1053 K | 1053 | Congruent: L -> Mg3Nd; _L: Nd 0.25; Mg3Nd: Nd 0.25_ | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 14 |  |
-| Phase transition | 1053.15 K | 1053.15 | congruent | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The Mg3 Nd phase melts congruently at 780 ◦ C \[8,9\].” |
-| Phase transition | 1058 K | 1058 | Congruent: L -> Mg3Nd; _L: Nd 0.25; Mg3Nd: Nd 0.25_ | model | [1] MENG 2007 | Table 3, p. 4, row 13 |  |
-| Phase transition | 1073 K | 1073 | Congruent: L -> BCC_B2 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 6 |  |
-| Phase transition | 1073.15 K | 1073.15 | congruent | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The MgNd phase melts congruently at 800 ◦ C and is involved in two eutectic reactions: (1) at 775 ◦ C with bcc-Nd and 57.5 at.% Nd liquid, and at 750 ◦ C with Mg2 Nd and 64.5 at.% Nd liquid phase \[8\].” |
-| Phase transition | 1075 K | 1075 | Congruent: L -> BCC_B2; _L: Nd 0.512; BCC_B2: Nd 0.512_ | model | [1] MENG 2007 | Table 3, p. 4, row 5 |  |
+| Phase transition | 1053 K | 1053 | congruent melting: L -> Mg3Nd; _L: Nd 0.25; Mg3Nd: Nd 0.25_ | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 14 |  |
+| Phase transition | 1053.15 K | 1053.15 | congruent transformation | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The Mg3 Nd phase melts congruently at 780 ◦ C \[8,9\].” |
+| Phase transition | 1058 K | 1058 | congruent melting: L -> Mg3Nd; _L: Nd 0.25; Mg3Nd: Nd 0.25_ | model | [1] MENG 2007 | Table 3, p. 4, row 13 |  |
+| Phase transition | 1073 K | 1073 | congruent melting: L -> BCC_B2 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 6 |  |
+| Phase transition | 1073.15 K | 1073.15 | congruent transformation | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The MgNd phase melts congruently at 800 ◦ C and is involved in two eutectic reactions: (1) at 775 ◦ C with bcc-Nd and 57.5 at.% Nd liquid, and at 750 ◦ C with Mg2 Nd and 64.5 at.% Nd liquid phase \[8\].” |
+| Phase transition | 1075 K | 1075 | congruent melting: L -> BCC_B2; _L: Nd 0.512; BCC_B2: Nd 0.512_ | model | [1] MENG 2007 | Table 3, p. 4, row 5 |  |
 
 ## Sources
 

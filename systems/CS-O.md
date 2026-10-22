@@ -146,7 +146,7 @@ Table: Phase transition, Cs–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 276 K | 276 | congruent | experimental | [1] Guéneau 2015; _cites Brauer 1947_ [doi](https://doi.org/10.1002/zaac.19472550110) | p. 2 | “In the Cs-Cs2O part, an eutectic reaction (liquid1⁄4 Cs bccþ Cs7O) was measured by Brauer \[10\] at 271 K and the compound Cs7O was found to melt congruently at 276 K.” |
+| Phase transition | 276 K | 276 | congruent transformation | experimental | [1] Guéneau 2015; _cites Brauer 1947_ [doi](https://doi.org/10.1002/zaac.19472550110) | p. 2 | “In the Cs-Cs2O part, an eutectic reaction (liquid1⁄4 Cs bccþ Cs7O) was measured by Brauer \[10\] at 271 K and the compound Cs7O was found to melt congruently at 276 K.” |
 | Phase transition | 300 K | 300 |  | model | [1] Guéneau 2015; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5 | “In case of cesium with a low melting point at 300 K, the SGTE function from Dinsdale \[36\] used in our CALPHAD model is valid for T4 200 K.” |
 | Phase transition | 326 K | 326 | Cs4O = liquid + Cs3O | experimental | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | p. 2 | “Cs4O was found to decompose at 326 K into liquid and Cs3O.” |
 | Phase transition | 343 K | 343 | other | experimental | [1] Guéneau 2015; _cites Cordfunke 1990_ | p. 2 | “The largest uncertainties were on both the melting point of Cs2O2 (863 K) and the decomposition of CsO3 (343 K), which were reported on the phase diagrams successively by Knights and Phillips \[11\], Cordfunke and Konings \[8\].” |

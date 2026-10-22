@@ -30,18 +30,18 @@ Table: Invariant reactions reported in the literature for the Al–Sb–Y system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2058.73 | U: Liquid + Sb3Y4 -> SbY + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 5 |  |
-| 1511.33 | U: Liquid + SbY -> Al2Y + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 9 |  |
-| 1498.24 | E: Liquid -> Hcp-Y + Sb3Y5 + SbY3 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 2 |  |
-| 1409.63 | U: Liquid + Al2Y -> Sb3Y5 + AlY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 10 |  |
-| 1356.3 | E: Liquid -> AlY + Al2Y3 + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 4 |  |
-| 1253.86 | U: Liquid + Al2Y3 -> Sb3Y5 + AlY2 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 11 |  |
-| 1233.14 | U: Liquid + Al2Y -> Al3Y_H + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 6 |  |
-| 1229.63 | U: Liquid + Sb3Y5 -> AlY2 + Hcp-Y |  | model | [1] Zhang 2009 | Table 5, p. 5, row 12 |  |
-| 915.58 | U: Liquid + Al3Y_H -> Al3Y_L + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 8 |  |
-| 915.54 | U: Liquid + AlSb -> Fcc-Al + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 7 |  |
-| 908.06 | E: Liquid -> Fcc-Al + Al3Y_L + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 3 |  |
-| 887.1 | E: Liquid -> Rhom-Sb + AlSb + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 1 |  |
+| 2058.73 | quasi-peritectic: Liquid + Sb3Y4 -> SbY + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 5 |  |
+| 1511.33 | quasi-peritectic: Liquid + SbY -> Al2Y + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 9 |  |
+| 1498.24 | eutectic: Liquid -> Hcp-Y + Sb3Y5 + SbY3 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 2 |  |
+| 1409.63 | quasi-peritectic: Liquid + Al2Y -> Sb3Y5 + AlY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 10 |  |
+| 1356.3 | eutectic: Liquid -> AlY + Al2Y3 + Sb3Y5 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 4 |  |
+| 1253.86 | quasi-peritectic: Liquid + Al2Y3 -> Sb3Y5 + AlY2 |  | model | [1] Zhang 2009 | Table 5, p. 5, row 11 |  |
+| 1233.14 | quasi-peritectic: Liquid + Al2Y -> Al3Y_H + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 6 |  |
+| 1229.63 | quasi-peritectic: Liquid + Sb3Y5 -> AlY2 + Hcp-Y |  | model | [1] Zhang 2009 | Table 5, p. 5, row 12 |  |
+| 915.58 | quasi-peritectic: Liquid + Al3Y_H -> Al3Y_L + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 8 |  |
+| 915.54 | quasi-peritectic: Liquid + AlSb -> Fcc-Al + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 7 |  |
+| 908.06 | eutectic: Liquid -> Fcc-Al + Al3Y_L + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 3 |  |
+| 887.1 | eutectic: Liquid -> Rhom-Sb + AlSb + SbY |  | model | [1] Zhang 2009 | Table 5, p. 5, row 1 |  |
 
 ## Other properties
 

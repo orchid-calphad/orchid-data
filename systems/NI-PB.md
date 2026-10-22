@@ -58,41 +58,41 @@ Table: Invariant reactions reported in the literature for the Ni–Pb system (36
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1833.9 | Critical: L -> L1+L2 | L: Pb 0.317 | model | [1] Wang 2000 | Table 3, p. 17, row 3 |  |
-| 1833.9 | Critical: L -> L1 + L2 | L: Pb 0.32 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 2 |  |
-| 1833.9 | Critical: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.317 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 2 |  |
-| 1828.2 | Critical: L -> L1+L2 |  | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 2 |  |
-| 1828 | Critical: L -> L1 + L2 | L: Pb 0.29 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 1 |  |
-| 1824 | Critical: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.294 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 1 |  |
-| 1824 | Critical: L -> L1 + L2 | L: Pb 0.29 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 3 |  |
-| 1823.2 | Critical: L -> L1+L2 |  | experimental | [1] Wang 2000; _cites ref. 60Mil_ | Table 3, p. 17, row 1 |  |
-| 1804.8 | Critical: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.2723 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 3 |  |
-| 1804.76 | Critical: L -> L1 + L2 | L: Pb 0.2723 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 4 |  |
-| 1781.8 | Critical: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.2679 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 4 |  |
-| 1626.5 | Monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.11911; LIQUID#2: Pb 0.5965; FCC_A1#1: Pb 0.00128 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 7 |  |
+| 1833.9 | critical point: L -> L1+L2 | L: Pb 0.317 | model | [1] Wang 2000 | Table 3, p. 17, row 3 |  |
+| 1833.9 | critical point: L -> L1 + L2 | L: Pb 0.32 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 2 |  |
+| 1833.9 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.317 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 2 |  |
+| 1828.2 | critical point: L -> L1+L2 |  | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 2 |  |
+| 1828 | critical point: L -> L1 + L2 | L: Pb 0.29 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 1 |  |
+| 1824 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.294 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 1 |  |
+| 1824 | critical point: L -> L1 + L2 | L: Pb 0.29 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 3 |  |
+| 1823.2 | critical point: L -> L1+L2 |  | experimental | [1] Wang 2000; _cites ref. 60Mil_ | Table 3, p. 17, row 1 |  |
+| 1804.8 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.2723 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 3 |  |
+| 1804.76 | critical point: L -> L1 + L2 | L: Pb 0.2723 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 4 |  |
+| 1781.8 | critical point: LIQUID -> LIQUID#1+LIQUID#2 | LIQUID: Pb 0.2679 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 4 |  |
+| 1626.5 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.11911; LIQUID#2: Pb 0.5965; FCC_A1#1: Pb 0.00128 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 7 |  |
 | 1626.5 | monotectic |  | model | [2] Kainulainen 2010 | p. 1 | “The monotectic equilibrium was calculated between the fcc nickel solution at 0.13 at.% Pb, the nickel-rich end of the liquid miscibility gap at 11.91 at.% Pb and its lead-rich end at 59.65 at.% Pb at a temperature 1626.5 K.” |
 | 1626.47 | monotectic |  | model | [2] Kainulainen 2010 | p. 3 | “According to the optimization, the monotectic temperature is 1626.47 K and the eutectic temperature is 598.32 K.” |
-| 1626.47 | Monotectic: L1 -> L2 + (Ni) | L1: Pb 0.1191; L2: Pb 0.5965; (Ni): Pb 0.0013 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 8 |  |
-| 1618.9 | Monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.12857; LIQUID#2: Pb 0.58721; FCC_A1#1: Pb 0.00154 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 8 |  |
-| 1614 | Monotectic: L1 -> L2 + (Ni) | L1: Pb 0.14; L2: Pb 0.53; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 7 |  |
-| 1614 | Monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.1412; LIQUID#2: Pb 0.5323; FCC_A1#1: Pb 0.0077 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 5 |  |
-| 1613.3 | Monotectic: L1 -> L2 + (Ni) | L1: Pb 0.14; L2: Pb 0.6; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 6 |  |
-| 1613.3 | Monotectic: L1 -> L2+(Ni) | L1: Pb 0.136; L2: Pb 0.6; (Ni): Pb 0.0105 | model | [1] Wang 2000 | Table 3, p. 17, row 5 |  |
-| 1613.3 | Monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.136; LIQUID#2: Pb 0.6; FCC_A1#1: Pb 0.0105 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 6 |  |
-| 1613.2 | Monotectic: L1 -> L2+(Ni) | L1: Pb 0.116; L2: Pb 0.57; (Ni): Pb 0.01 | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 4 |  |
-| 1613.15 | Monotectic: L1 -> L2 + (Ni) | L1: Pb 0.12; L2: Pb 0.57; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 5 |  |
-| 599.6 | Eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 11 |  |
-| 599.6 | Eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.9971; FCC_A1#1: Pb 0.0049; FCC_A1#2: Pb 0.9989 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 9 |  |
-| 599.5 | Eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0.55; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 10 |  |
-| 599.5 | Eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.9974; FCC_A1#1: Pb 0.0055; FCC_A1#2: Pb 0.9992 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 10 |  |
-| 599.5 | Eutectic: L2 -> (Ni)+(Pb) | L2: Pb 0.9974; (Ni): Pb 0.0055; (Pb): Pb 0.9992 | model | [1] Wang 2000 | Table 3, p. 17, row 7 |  |
+| 1626.47 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.1191; L2: Pb 0.5965; (Ni): Pb 0.0013 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 8 |  |
+| 1618.9 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.12857; LIQUID#2: Pb 0.58721; FCC_A1#1: Pb 0.00154 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 8 |  |
+| 1614 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.14; L2: Pb 0.53; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 7 |  |
+| 1614 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.1412; LIQUID#2: Pb 0.5323; FCC_A1#1: Pb 0.0077 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 5 |  |
+| 1613.3 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.14; L2: Pb 0.6; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 6 |  |
+| 1613.3 | monotectic: L1 -> L2+(Ni) | L1: Pb 0.136; L2: Pb 0.6; (Ni): Pb 0.0105 | model | [1] Wang 2000 | Table 3, p. 17, row 5 |  |
+| 1613.3 | monotectic: LIQUID#1 -> LIQUID#2+FCC_A1#1 | LIQUID#1: Pb 0.136; LIQUID#2: Pb 0.6; FCC_A1#1: Pb 0.0105 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 6 |  |
+| 1613.2 | monotectic: L1 -> L2+(Ni) | L1: Pb 0.116; L2: Pb 0.57; (Ni): Pb 0.01 | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 4 |  |
+| 1613.15 | monotectic: L1 -> L2 + (Ni) | L1: Pb 0.12; L2: Pb 0.57; (Ni): Pb 0.01 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 5 |  |
+| 599.6 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 2, p. 4, row 11 |  |
+| 599.6 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.9971; FCC_A1#1: Pb 0.0049; FCC_A1#2: Pb 0.9989 | model | [3] Vaajamo 2013; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 6, row 9 |  |
+| 599.5 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0.55; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 2, p. 4, row 10 |  |
+| 599.5 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.9974; FCC_A1#1: Pb 0.0055; FCC_A1#2: Pb 0.9992 | model | [3] Vaajamo 2013; _cites Wang 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900020-1) | Table 4, p. 6, row 10 |  |
+| 599.5 | eutectic: L2 -> (Ni)+(Pb) | L2: Pb 0.9974; (Ni): Pb 0.0055; (Pb): Pb 0.9992 | model | [1] Wang 2000 | Table 3, p. 17, row 7 |  |
 | 598.32 | eutectic |  | model | [2] Kainulainen 2010 | p. 3 | “According to the optimization, the monotectic temperature is 1626.47 K and the eutectic temperature is 598.32 K.” |
-| 598.32 | Eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 2.000e-4; (Pb): Pb 0.99976 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 12 |  |
-| 598.3 | Eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.99624; FCC_A1#1: Pb 2.100e-4; FCC_A1#2: Pb 0.99976 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 11 |  |
+| 598.32 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 2.000e-4; (Pb): Pb 0.99976 | model | [2] Kainulainen 2010 | Table 2, p. 4, row 12 |  |
+| 598.3 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.99624; FCC_A1#1: Pb 2.100e-4; FCC_A1#2: Pb 0.99976 | model | [3] Vaajamo 2013; _cites Kainulainen 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.001) | Table 4, p. 6, row 11 |  |
 | 598.3 | eutectic |  | model | [2] Kainulainen 2010 | p. 1 | “The eutectic equilibrium was calculated between an fcc nickel solution containing 0.02 at.% Pb, the eutectic liquid at 99.62 at.% Pb and a lead-rich fcc solution containing 99.98 at.% Pb at a temperature 598.3 K.” |
-| 598.2 | Eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.996; FCC_A1#1: Pb 0; FCC_A1#2: Pb 0.99977 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 12 |  |
-| 597.2 | Eutectic: L2 -> (Ni)+(Pb) | L2: Pb 0.995; (Ni): Pb 0.01; (Pb): Pb 0.998 | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 6 |  |
-| 597.15 | Eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0.01; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 9 |  |
+| 598.2 | eutectic: LIQUID#2 -> FCC_A1#1+FCC_A1#2 | LIQUID#2: Pb 0.996; FCC_A1#1: Pb 0; FCC_A1#2: Pb 0.99977 | model | [3] Vaajamo 2013 | Table 4, p. 6, row 12 |  |
+| 597.2 | eutectic: L2 -> (Ni)+(Pb) | L2: Pb 0.995; (Ni): Pb 0.01; (Pb): Pb 0.998 | unspecified | [1] Wang 2000; _cites ref. 91Nas_ | Table 3, p. 17, row 6 |  |
+| 597.15 | eutectic: L2 -> (Ni) + (Pb) | L2: Pb 1; (Ni): Pb 0.01; (Pb): Pb 1 | model | [2] Kainulainen 2010; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02874918) | Table 2, p. 4, row 9 |  |
 | 597 | eutectic |  | experimental | [2] Kainulainen 2010; _cites Pelzel 1955_ | p. 2 | “Pelzel \[14\] found 0.38 at.% Ni to be an eutectic composition at 597 K in the Pb-Ni system.” |
 
 ## Other properties

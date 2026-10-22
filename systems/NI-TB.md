@@ -127,105 +127,105 @@ Table: Invariant reactions reported in the literature for the Ni–Tb system (99
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1672 | Congruent: Liq -> Ni5Tb | Liq: Ni 0.833333, Tb 0.166667; Ni5Tb: Ni 0.833333, Tb 0.166667 | model | [1] Rong 2004 | Table 6, p. 7, row 5 |  |
-| 1663 | Congruent: Liq -> Ni5Tb | Liq: Ni 0.833333, Tb 0.166667; Ni5Tb: Ni 0.833333, Tb 0.166667 | experimental | [1] Rong 2004 | Table 6, p. 7, row 6 |  |
-| 1569 | Peritectic: L + TbNi5 -> Tb2Ni7 | L: Tb 0.239; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 31 |  |
-| 1569 | Peritectic: Liq + Ni5Tb -> Ni7Tb2 | Ni5Tb: Ni 0.833333, Tb 0.166667; Ni7Tb2: Ni 0.777778, Tb 0.222222 | model | [1] Rong 2004 | Table 6, p. 7, row 7 |  |
-| 1568 | Peritectic: L + TbNi5 -> Tb2Ni17 | L: Tb 0.111; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 38 |  |
-| 1568 | Peritectic: Liq + Ni5Tb -> Ni17Tb2 | Ni5Tb: Ni 0.833333, Tb 0.166667; Ni17Tb2: Ni 0.894737, Tb 0.105263 | model | [1] Rong 2004 | Table 6, p. 7, row 3 |  |
-| 1562 | Peritectic: L + bcc(Tb) -> hcp(Tb) | L: Tb 0.963 | model | [2] Ye 2023 | Table 9, p. 20, row 2 |  |
-| 1562 | Peritectic: L + bcc(Tb) -> hcp(Tb) | L: Tb 0.966 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 1 |  |
-| 1561 | Peritectic: Liq + TbNi5 -> Tb2Ni7 | L: Tb 0.25; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 32 |  |
-| 1561 | Peritectic: Liq + TbNi5 -> Tb2Ni17 | L: Tb 0.09; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024 | Table 3, p. 6, row 36 |  |
-| 1560.8 | Peritectic: L + TbNi5 -> Tb2Ni7 | L: Tb 0.247; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | model | [2] Ye 2023 | Table 9, p. 20, row 33 |  |
-| 1558 | Peritectic: Liq + Ni5Tb -> Ni7Tb2 | Ni5Tb: Ni 0.833333, Tb 0.166667; Ni7Tb2: Ni 0.777778, Tb 0.222222 | experimental | [1] Rong 2004 | Table 6, p. 7, row 8 |  |
-| 1558 | Peritectic: L + TbNi5 -> Tb2Ni7 | TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 32 |  |
-| 1558 | Peritectic: Liq + TbNi5 -> Tb2Ni7 | L: Tb 0.24; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 30 |  |
-| 1557 | Peritectic: Liq + TbNi5 -> Tb2Ni17 | L: Tb 0.09; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 38 |  |
-| 1557 | Peritectic: Liq + TbNi5 -> Tb2Ni7 | L: Tb 0.24; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 31 |  |
-| 1557 | Peritectic: Liq + TbNi5 -> Tb2Ni7 | L: Tb 0.24; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | model | [3] Rahou 2024 | Table 3, p. 6, row 29 |  |
-| 1557 | Peritectic: L + TbNi5 -> Tb2Ni17 | TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 40 |  |
-| 1554.8 | Peritectic: L + TbNi5 -> Tb2Ni17 | L: Tb 0.087; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023 | Table 9, p. 20, row 41 |  |
-| 1554 | Peritectic: Liq + TbNi5 -> Tb2Ni17 | L: Tb 0.09; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 39 |  |
-| 1550 | Peritectic: Liq + TbNi5 -> Tb2Ni17 | L: Tb 0.1; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 37 |  |
-| 1550 | Peritectic: L + TbNi5 -> Tb2Ni17 | TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 39 |  |
-| 1550 | Peritectic: Liq + Ni5Tb -> Ni17Tb2 | Ni5Tb: Ni 0.833333, Tb 0.166667; Ni17Tb2: Ni 0.894737, Tb 0.105263 | experimental | [1] Rong 2004 | Table 6, p. 7, row 4 |  |
-| 1547 | Eutectic: L -> fcc(Ni) + Tb2Ni17 | L: Tb 0.078; fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023 | Table 9, p. 20, row 45 |  |
-| 1545 | Eutectic: L -> fcc(Ni) + Tb2Ni17 | fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 43 |  |
-| 1545 | Eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.07; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 41 |  |
-| 1545 | Eutectic: Liq -> (Ni) + Ni17Tb2 | Ni17Tb2: Ni 0.894737, Tb 0.105263 | experimental | [1] Rong 2004 | Table 6, p. 7, row 2 |  |
-| 1544 | Eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.07; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 42 |  |
-| 1544 | Eutectic: L -> fcc(Ni) + Tb2Ni17 | fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 44 |  |
-| 1544 | Eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.08; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024 | Table 3, p. 6, row 40 |  |
+| 1672 | congruent melting: Liq -> Ni5Tb | Liq: Ni 0.833333, Tb 0.166667; Ni5Tb: Ni 0.833333, Tb 0.166667 | model | [1] Rong 2004 | Table 6, p. 7, row 5 |  |
+| 1663 | congruent melting: Liq -> Ni5Tb | Liq: Ni 0.833333, Tb 0.166667; Ni5Tb: Ni 0.833333, Tb 0.166667 | experimental | [1] Rong 2004 | Table 6, p. 7, row 6 |  |
+| 1569 | peritectic: L + TbNi5 -> Tb2Ni7 | L: Tb 0.239; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 31 |  |
+| 1569 | peritectic: Liq + Ni5Tb -> Ni7Tb2 | Ni5Tb: Ni 0.833333, Tb 0.166667; Ni7Tb2: Ni 0.777778, Tb 0.222222 | model | [1] Rong 2004 | Table 6, p. 7, row 7 |  |
+| 1568 | peritectic: L + TbNi5 -> Tb2Ni17 | L: Tb 0.111; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 38 |  |
+| 1568 | peritectic: Liq + Ni5Tb -> Ni17Tb2 | Ni5Tb: Ni 0.833333, Tb 0.166667; Ni17Tb2: Ni 0.894737, Tb 0.105263 | model | [1] Rong 2004 | Table 6, p. 7, row 3 |  |
+| 1562 | peritectic: L + bcc(Tb) -> hcp(Tb) | L: Tb 0.963 | model | [2] Ye 2023 | Table 9, p. 20, row 2 |  |
+| 1562 | peritectic: L + bcc(Tb) -> hcp(Tb) | L: Tb 0.966 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 1 |  |
+| 1561 | peritectic: Liq + TbNi5 -> Tb2Ni7 | L: Tb 0.25; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 32 |  |
+| 1561 | peritectic: Liq + TbNi5 -> Tb2Ni17 | L: Tb 0.09; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024 | Table 3, p. 6, row 36 |  |
+| 1560.8 | peritectic: L + TbNi5 -> Tb2Ni7 | L: Tb 0.247; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | model | [2] Ye 2023 | Table 9, p. 20, row 33 |  |
+| 1558 | peritectic: Liq + Ni5Tb -> Ni7Tb2 | Ni5Tb: Ni 0.833333, Tb 0.166667; Ni7Tb2: Ni 0.777778, Tb 0.222222 | experimental | [1] Rong 2004 | Table 6, p. 7, row 8 |  |
+| 1558 | peritectic: L + TbNi5 -> Tb2Ni7 | TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 32 |  |
+| 1558 | peritectic: Liq + TbNi5 -> Tb2Ni7 | L: Tb 0.24; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 30 |  |
+| 1557 | peritectic: Liq + TbNi5 -> Tb2Ni17 | L: Tb 0.09; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 38 |  |
+| 1557 | peritectic: Liq + TbNi5 -> Tb2Ni7 | L: Tb 0.24; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 31 |  |
+| 1557 | peritectic: Liq + TbNi5 -> Tb2Ni7 | L: Tb 0.24; TbNi5: Tb 0.166667; Tb2Ni7: Tb 0.222222 | model | [3] Rahou 2024 | Table 3, p. 6, row 29 |  |
+| 1557 | peritectic: L + TbNi5 -> Tb2Ni17 | TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 40 |  |
+| 1554.8 | peritectic: L + TbNi5 -> Tb2Ni17 | L: Tb 0.087; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023 | Table 9, p. 20, row 41 |  |
+| 1554 | peritectic: Liq + TbNi5 -> Tb2Ni17 | L: Tb 0.09; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 39 |  |
+| 1550 | peritectic: Liq + TbNi5 -> Tb2Ni17 | L: Tb 0.1; TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 37 |  |
+| 1550 | peritectic: L + TbNi5 -> Tb2Ni17 | TbNi5: Tb 0.166667; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 39 |  |
+| 1550 | peritectic: Liq + Ni5Tb -> Ni17Tb2 | Ni5Tb: Ni 0.833333, Tb 0.166667; Ni17Tb2: Ni 0.894737, Tb 0.105263 | experimental | [1] Rong 2004 | Table 6, p. 7, row 4 |  |
+| 1547 | eutectic: L -> fcc(Ni) + Tb2Ni17 | L: Tb 0.078; fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023 | Table 9, p. 20, row 45 |  |
+| 1545 | eutectic: L -> fcc(Ni) + Tb2Ni17 | fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 43 |  |
+| 1545 | eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.07; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 41 |  |
+| 1545 | eutectic: Liq -> (Ni) + Ni17Tb2 | Ni17Tb2: Ni 0.894737, Tb 0.105263 | experimental | [1] Rong 2004 | Table 6, p. 7, row 2 |  |
+| 1544 | eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.07; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 42 |  |
+| 1544 | eutectic: L -> fcc(Ni) + Tb2Ni17 | fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 44 |  |
+| 1544 | eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.08; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024 | Table 3, p. 6, row 40 |  |
 | 1544 | eutectic |  | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | p. 2 | “Three eutectic reactions occur: L $ Tb3Ni2 ? Tb3Ni (at 996 K and \* 30 at.% Ni), L $ TbNi2 ? TbNi (at 1199 K and \* 56 at.% Ni) and L $ Ni ? Tb2Ni17 (at 1544 K and \* 93 at.% Ni).” |
-| 1543 | Eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.08; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 43 |  |
-| 1532 | Eutectic: Liq -> (Ni) + Ni17Tb2 | Ni17Tb2: Ni 0.894737, Tb 0.105263 | model | [1] Rong 2004 | Table 6, p. 7, row 1 |  |
-| 1532 | Eutectic: L -> fcc(Ni) + Tb2Ni17 | L: Tb 0.072; fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 42 |  |
-| 1507 | Peritectic: L + Tb2Ni7 -> TbNi3 | L: Tb 0.284; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 27 |  |
-| 1507 | Peritectic: Liq + Ni7Tb2 -> Ni3Tb | Ni7Tb2: Ni 0.777778, Tb 0.222222; Ni3Tb: Ni 0.75, Tb 0.25 | model | [1] Rong 2004 | Table 6, p. 7, row 9 |  |
-| 1500 | Peritectic: L + Tb2Ni7 -> TbNi3 | Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 28 |  |
-| 1500 | Peritectic: Liq + Tb2Ni7 -> TbNi3 | L: Tb 0.28; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 26 |  |
-| 1500 | Peritectic: Liq + Ni7Tb2 -> Ni3Tb | Ni7Tb2: Ni 0.777778, Tb 0.222222; Ni3Tb: Ni 0.75, Tb 0.25 | experimental | [1] Rong 2004 | Table 6, p. 7, row 10 |  |
-| 1499 | Peritectic: Liq + Tb2Ni7 -> TbNi3 | L: Tb 0.3; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | model | [3] Rahou 2024 | Table 3, p. 6, row 25 |  |
-| 1499 | Peritectic: Liq + Tb2Ni7 -> TbNi3 | L: Tb 0.3; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 27 |  |
-| 1499 | Peritectic: L + Tb2Ni7 -> TbNi3 | Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 29 |  |
-| 1498.3 | Peritectic: L + Tb2Ni7 -> TbNi3 | L: Tb 0.293; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | model | [2] Ye 2023 | Table 9, p. 20, row 30 |  |
-| 1498 | Peritectic: Liq + Tb2Ni7 -> TbNi3 | L: Tb 0.29; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 28 |  |
-| 1417 | Peritectic: Liq + TbNi3 -> TbNi2 | L: Tb 0.34; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 23 |  |
-| 1417 | Peritectic: L + TbNi3 -> TbNi2 | TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 25 |  |
-| 1417 | Peritectic: Liq + TbNi3 -> TbNi2 | L: Tb 0.34; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | model | [3] Rahou 2024 | Table 3, p. 6, row 21 |  |
-| 1414.3 | Peritectic: L + TbNi3 -> TbNi2 | L: Tb 0.336; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | model | [2] Ye 2023 | Table 9, p. 20, row 26 |  |
-| 1412 | Peritectic: Liq + TbNi3 -> TbNi2 | L: Tb 0.33; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 24 |  |
-| 1407 | Peritectic: Liq + Ni3Tb -> Ni2Tb | Ni3Tb: Ni 0.75, Tb 0.25; Ni2Tb: Ni 0.666667, Tb 0.333333 | experimental | [1] Rong 2004 | Table 6, p. 7, row 12 |  |
-| 1407 | Peritectic: Liq + TbNi3 -> TbNi2 | L: Tb 0.33; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 22 |  |
-| 1407 | Peritectic: L + TbNi3 -> TbNi2 | TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 24 |  |
-| 1403 | Peritectic: L + TbNi3 -> TbNi2 | L: Tb 0.336; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 23 |  |
-| 1403 | Peritectic: Liq + Ni3Tb -> Ni2Tb | Ni3Tb: Ni 0.75, Tb 0.25; Ni2Tb: Ni 0.666667, Tb 0.333333 | model | [1] Rong 2004 | Table 6, p. 7, row 11 |  |
-| 1266 | Congruent: Liq -> NiTb | Liq: Ni 0.5, Tb 0.5; NiTb: Ni 0.5, Tb 0.5 | experimental | [1] Rong 2004 | Table 6, p. 7, row 16 |  |
-| 1248 | Congruent: Liq -> NiTb | Liq: Ni 0.5, Tb 0.5; NiTb: Ni 0.5, Tb 0.5 | model | [1] Rong 2004 | Table 6, p. 7, row 15 |  |
-| 1201 | Eutectic: L -> TbNi + TbNi2 | L: Tb 0.441; TbNi: Tb 0.5; TbNi2: Tb 0.333333 | model | [2] Ye 2023 | Table 9, p. 20, row 22 |  |
-| 1200 | Eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.44; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 20 |  |
-| 1200 | Eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.45; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | model | [3] Rahou 2024 | Table 3, p. 6, row 17 |  |
-| 1199 | Eutectic: L -> TbNi + TbNi2 | TbNi: Tb 0.5; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 21 |  |
-| 1199 | Eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.44; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 19 |  |
+| 1543 | eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.08; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 43 |  |
+| 1532 | eutectic: Liq -> (Ni) + Ni17Tb2 | Ni17Tb2: Ni 0.894737, Tb 0.105263 | model | [1] Rong 2004 | Table 6, p. 7, row 1 |  |
+| 1532 | eutectic: L -> fcc(Ni) + Tb2Ni17 | L: Tb 0.072; fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 42 |  |
+| 1507 | peritectic: L + Tb2Ni7 -> TbNi3 | L: Tb 0.284; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 27 |  |
+| 1507 | peritectic: Liq + Ni7Tb2 -> Ni3Tb | Ni7Tb2: Ni 0.777778, Tb 0.222222; Ni3Tb: Ni 0.75, Tb 0.25 | model | [1] Rong 2004 | Table 6, p. 7, row 9 |  |
+| 1500 | peritectic: L + Tb2Ni7 -> TbNi3 | Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 28 |  |
+| 1500 | peritectic: Liq + Tb2Ni7 -> TbNi3 | L: Tb 0.28; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 26 |  |
+| 1500 | peritectic: Liq + Ni7Tb2 -> Ni3Tb | Ni7Tb2: Ni 0.777778, Tb 0.222222; Ni3Tb: Ni 0.75, Tb 0.25 | experimental | [1] Rong 2004 | Table 6, p. 7, row 10 |  |
+| 1499 | peritectic: Liq + Tb2Ni7 -> TbNi3 | L: Tb 0.3; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | model | [3] Rahou 2024 | Table 3, p. 6, row 25 |  |
+| 1499 | peritectic: Liq + Tb2Ni7 -> TbNi3 | L: Tb 0.3; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 27 |  |
+| 1499 | peritectic: L + Tb2Ni7 -> TbNi3 | Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 29 |  |
+| 1498.3 | peritectic: L + Tb2Ni7 -> TbNi3 | L: Tb 0.293; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | model | [2] Ye 2023 | Table 9, p. 20, row 30 |  |
+| 1498 | peritectic: Liq + Tb2Ni7 -> TbNi3 | L: Tb 0.29; Tb2Ni7: Tb 0.222222; TbNi3: Tb 0.25 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 28 |  |
+| 1417 | peritectic: Liq + TbNi3 -> TbNi2 | L: Tb 0.34; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 23 |  |
+| 1417 | peritectic: L + TbNi3 -> TbNi2 | TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 25 |  |
+| 1417 | peritectic: Liq + TbNi3 -> TbNi2 | L: Tb 0.34; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | model | [3] Rahou 2024 | Table 3, p. 6, row 21 |  |
+| 1414.3 | peritectic: L + TbNi3 -> TbNi2 | L: Tb 0.336; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | model | [2] Ye 2023 | Table 9, p. 20, row 26 |  |
+| 1412 | peritectic: Liq + TbNi3 -> TbNi2 | L: Tb 0.33; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 24 |  |
+| 1407 | peritectic: Liq + Ni3Tb -> Ni2Tb | Ni3Tb: Ni 0.75, Tb 0.25; Ni2Tb: Ni 0.666667, Tb 0.333333 | experimental | [1] Rong 2004 | Table 6, p. 7, row 12 |  |
+| 1407 | peritectic: Liq + TbNi3 -> TbNi2 | L: Tb 0.33; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 22 |  |
+| 1407 | peritectic: L + TbNi3 -> TbNi2 | TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 24 |  |
+| 1403 | peritectic: L + TbNi3 -> TbNi2 | L: Tb 0.336; TbNi3: Tb 0.25; TbNi2: Tb 0.333333 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 23 |  |
+| 1403 | peritectic: Liq + Ni3Tb -> Ni2Tb | Ni3Tb: Ni 0.75, Tb 0.25; Ni2Tb: Ni 0.666667, Tb 0.333333 | model | [1] Rong 2004 | Table 6, p. 7, row 11 |  |
+| 1266 | congruent melting: Liq -> NiTb | Liq: Ni 0.5, Tb 0.5; NiTb: Ni 0.5, Tb 0.5 | experimental | [1] Rong 2004 | Table 6, p. 7, row 16 |  |
+| 1248 | congruent melting: Liq -> NiTb | Liq: Ni 0.5, Tb 0.5; NiTb: Ni 0.5, Tb 0.5 | model | [1] Rong 2004 | Table 6, p. 7, row 15 |  |
+| 1201 | eutectic: L -> TbNi + TbNi2 | L: Tb 0.441; TbNi: Tb 0.5; TbNi2: Tb 0.333333 | model | [2] Ye 2023 | Table 9, p. 20, row 22 |  |
+| 1200 | eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.44; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 20 |  |
+| 1200 | eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.45; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | model | [3] Rahou 2024 | Table 3, p. 6, row 17 |  |
+| 1199 | eutectic: L -> TbNi + TbNi2 | TbNi: Tb 0.5; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 21 |  |
+| 1199 | eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.44; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 19 |  |
 | 1199 | eutectic |  | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | p. 2 | “Three eutectic reactions occur: L $ Tb3Ni2 ? Tb3Ni (at 996 K and \* 30 at.% Ni), L $ TbNi2 ? TbNi (at 1199 K and \* 56 at.% Ni) and L $ Ni ? Tb2Ni17 (at 1544 K and \* 93 at.% Ni).” |
-| 1196 | Eutectic: Liq -> Ni2Tb + NiTb | Ni2Tb: Ni 0.666667, Tb 0.333333; NiTb: Ni 0.5, Tb 0.5 | model | [1] Rong 2004 | Table 6, p. 7, row 13 |  |
-| 1196 | Eutectic: L -> TbNi + TbNi2 | L: Tb 0.434; TbNi: Tb 0.5; TbNi2: Tb 0.333333 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 19 |  |
-| 1191 | Eutectic: L -> TbNi + TbNi2 | TbNi: Tb 0.5; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 20 |  |
-| 1191 | Eutectic: Liq -> Ni2Tb + NiTb | Ni2Tb: Ni 0.666667, Tb 0.333333; NiTb: Ni 0.5, Tb 0.5 | experimental | [1] Rong 2004 | Table 6, p. 7, row 14 |  |
-| 1191 | Eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.43; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 18 |  |
-| 1138 | Peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.65; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 11 |  |
-| 1104 | Peritectic: L + TbNi -> Tb3Ni2 | TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 13 |  |
-| 1101.5 | Peritectic: L + TbNi -> Tb3Ni2 | L: Tb 0.601; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [2] Ye 2023 | Table 9, p. 20, row 14 |  |
-| 1100 | Peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.6; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 12 |  |
-| 1065 | Peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.73; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 4 |  |
-| 1062 | Peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.72; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024 | Table 3, p. 6, row 1 |  |
-| 1062 | Peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.71; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 3 |  |
-| 1062 | Peritectic: L + hcp(Tb) -> Tb3Ni | Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 5 |  |
-| 1060.3 | Peritectic: L + hcp(Tb) -> Tb3Ni | L: Tb 0.729; Tb3Ni: Tb 0.75 | model | [2] Ye 2023 | Table 9, p. 20, row 6 |  |
+| 1196 | eutectic: Liq -> Ni2Tb + NiTb | Ni2Tb: Ni 0.666667, Tb 0.333333; NiTb: Ni 0.5, Tb 0.5 | model | [1] Rong 2004 | Table 6, p. 7, row 13 |  |
+| 1196 | eutectic: L -> TbNi + TbNi2 | L: Tb 0.434; TbNi: Tb 0.5; TbNi2: Tb 0.333333 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 19 |  |
+| 1191 | eutectic: L -> TbNi + TbNi2 | TbNi: Tb 0.5; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 20 |  |
+| 1191 | eutectic: Liq -> Ni2Tb + NiTb | Ni2Tb: Ni 0.666667, Tb 0.333333; NiTb: Ni 0.5, Tb 0.5 | experimental | [1] Rong 2004 | Table 6, p. 7, row 14 |  |
+| 1191 | eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.43; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 18 |  |
+| 1138 | peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.65; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 11 |  |
+| 1104 | peritectic: L + TbNi -> Tb3Ni2 | TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 13 |  |
+| 1101.5 | peritectic: L + TbNi -> Tb3Ni2 | L: Tb 0.601; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [2] Ye 2023 | Table 9, p. 20, row 14 |  |
+| 1100 | peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.6; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 12 |  |
+| 1065 | peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.73; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 4 |  |
+| 1062 | peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.72; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024 | Table 3, p. 6, row 1 |  |
+| 1062 | peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.71; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 3 |  |
+| 1062 | peritectic: L + hcp(Tb) -> Tb3Ni | Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 5 |  |
+| 1060.3 | peritectic: L + hcp(Tb) -> Tb3Ni | L: Tb 0.729; Tb3Ni: Tb 0.75 | model | [2] Ye 2023 | Table 9, p. 20, row 6 |  |
 | 1060 | peritectic |  | model | [3] Rahou 2024 | p. 6 | “Our study provides further support for this recommendation, as our calculations predict a peritectic temperature of 1060 K.” |
-| 1060 | Peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.62; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [3] Rahou 2024 | Table 3, p. 6, row 9 |  |
-| 1056 | Peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.74; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 2 |  |
-| 1056 | Peritectic: Liq + (α-Tb) -> NiTb3 | NiTb3: Ni 0.25, Tb 0.75 | model | [1] Rong 2004 | Table 6, p. 7, row 21 |  |
-| 1056 | Peritectic: L + hcp(Tb) -> Tb3Ni | L: Tb 0.741; Tb3Ni: Tb 0.75 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 3 |  |
-| 1055 | Peritectic: Liq + (α-Tb) -> NiTb3 | NiTb3: Ni 0.25, Tb 0.75 | experimental | [1] Rong 2004 | Table 6, p. 7, row 22 |  |
-| 1055 | Peritectic: L + hcp(Tb) -> Tb3Ni | Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 4 |  |
-| 1002 | Peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.63; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 10 |  |
-| 1002 | Peritectic: Liq + NiTb -> Ni2Tb3 | NiTb: Ni 0.5, Tb 0.5; Ni2Tb3: Ni 0.4, Tb 0.6 | experimental | [1] Rong 2004 | Table 6, p. 7, row 18 |  |
-| 1002 | Peritectic: L + TbNi -> Tb3Ni2 | TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 12 |  |
-| 999 | Eutectic: L -> Tb3Ni2 + Tb3Ni | L: Tb 0.679; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [2] Ye 2023 | Table 9, p. 20, row 10 |  |
-| 996 | Eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.68; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024 | Table 3, p. 6, row 5 |  |
-| 996 | Peritectic: L + TbNi -> Tb3Ni2 | L: Tb 0.665; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 11 |  |
-| 996 | Eutectic: L -> Tb3Ni2 + Tb3Ni | Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 9 |  |
-| 996 | Peritectic: Liq + NiTb -> Ni2Tb3 | NiTb: Ni 0.5, Tb 0.5; Ni2Tb3: Ni 0.4, Tb 0.6 | model | [1] Rong 2004 | Table 6, p. 7, row 17 |  |
-| 996 | Eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.7; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 7 |  |
+| 1060 | peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.62; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [3] Rahou 2024 | Table 3, p. 6, row 9 |  |
+| 1056 | peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.74; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 2 |  |
+| 1056 | peritectic: Liq + (α-Tb) -> NiTb3 | NiTb3: Ni 0.25, Tb 0.75 | model | [1] Rong 2004 | Table 6, p. 7, row 21 |  |
+| 1056 | peritectic: L + hcp(Tb) -> Tb3Ni | L: Tb 0.741; Tb3Ni: Tb 0.75 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 3 |  |
+| 1055 | peritectic: Liq + (α-Tb) -> NiTb3 | NiTb3: Ni 0.25, Tb 0.75 | experimental | [1] Rong 2004 | Table 6, p. 7, row 22 |  |
+| 1055 | peritectic: L + hcp(Tb) -> Tb3Ni | Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 4 |  |
+| 1002 | peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.63; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 10 |  |
+| 1002 | peritectic: Liq + NiTb -> Ni2Tb3 | NiTb: Ni 0.5, Tb 0.5; Ni2Tb3: Ni 0.4, Tb 0.6 | experimental | [1] Rong 2004 | Table 6, p. 7, row 18 |  |
+| 1002 | peritectic: L + TbNi -> Tb3Ni2 | TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 12 |  |
+| 999 | eutectic: L -> Tb3Ni2 + Tb3Ni | L: Tb 0.679; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [2] Ye 2023 | Table 9, p. 20, row 10 |  |
+| 996 | eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.68; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024 | Table 3, p. 6, row 5 |  |
+| 996 | peritectic: L + TbNi -> Tb3Ni2 | L: Tb 0.665; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 11 |  |
+| 996 | eutectic: L -> Tb3Ni2 + Tb3Ni | Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 9 |  |
+| 996 | peritectic: Liq + NiTb -> Ni2Tb3 | NiTb: Ni 0.5, Tb 0.5; Ni2Tb3: Ni 0.4, Tb 0.6 | model | [1] Rong 2004 | Table 6, p. 7, row 17 |  |
+| 996 | eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.7; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 7 |  |
 | 996 | eutectic |  | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | p. 2 | “Three eutectic reactions occur: L $ Tb3Ni2 ? Tb3Ni (at 996 K and \* 30 at.% Ni), L $ TbNi2 ? TbNi (at 1199 K and \* 56 at.% Ni) and L $ Ni ? Tb2Ni17 (at 1544 K and \* 93 at.% Ni).” |
-| 993 | Eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.68; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 8 |  |
-| 992 | Eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.67; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 6 |  |
-| 992 | Eutectic: Liq -> Ni2Tb3 + NiTb3 | Ni2Tb3: Ni 0.4, Tb 0.6; NiTb3: Ni 0.25, Tb 0.75 | model | [1] Rong 2004 | Table 6, p. 7, row 19 |  |
-| 992 | Eutectic: L -> Tb3Ni2 + Tb3Ni | L: Tb 0.668; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 7 |  |
-| 991 | Eutectic: L -> Tb3Ni2 + Tb3Ni | Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 8 |  |
-| 991 | Eutectic: Liq -> Ni2Tb3 + NiTb3 | Ni2Tb3: Ni 0.4, Tb 0.6; NiTb3: Ni 0.25, Tb 0.75 | experimental | [1] Rong 2004 | Table 6, p. 7, row 20 |  |
+| 993 | eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.68; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 8 |  |
+| 992 | eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.67; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 6 |  |
+| 992 | eutectic: Liq -> Ni2Tb3 + NiTb3 | Ni2Tb3: Ni 0.4, Tb 0.6; NiTb3: Ni 0.25, Tb 0.75 | model | [1] Rong 2004 | Table 6, p. 7, row 19 |  |
+| 992 | eutectic: L -> Tb3Ni2 + Tb3Ni | L: Tb 0.668; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 7 |  |
+| 991 | eutectic: L -> Tb3Ni2 + Tb3Ni | Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 8 |  |
+| 991 | eutectic: Liq -> Ni2Tb3 + NiTb3 | Ni2Tb3: Ni 0.4, Tb 0.6; NiTb3: Ni 0.25, Tb 0.75 | experimental | [1] Rong 2004 | Table 6, p. 7, row 20 |  |
 
 ## Formation enthalpies
 
@@ -309,16 +309,16 @@ Table: Phase transition, Ni–Tb system
 | Phase transition | 1235.15 K | 1235.15 | UNKNOWN; _alloy: Ni 0.2121, Tb 0.7879_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 79 |  |
 | Phase transition | 1241.15 K | 1241.15 | UNKNOWN; _alloy: Ni 0.5124, Tb 0.4876_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 56 |  |
 | Phase transition | 1243.15 K | 1243.15 | UNKNOWN; _alloy: Ni 0.4601, Tb 0.5399_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 61 |  |
-| Phase transition | 1248 K | 1248 | Congruent: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 15 |  |
-| Phase transition | 1249 K | 1249 | Congruent: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [3] Rahou 2024 | Table 3, p. 6, row 13 |  |
-| Phase transition | 1250 K | 1250 | Congruent: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 17 |  |
-| Phase transition | 1250 K | 1250 | Congruent: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 15 |  |
+| Phase transition | 1248 K | 1248 | congruent melting: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 15 |  |
+| Phase transition | 1249 K | 1249 | congruent melting: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [3] Rahou 2024 | Table 3, p. 6, row 13 |  |
+| Phase transition | 1250 K | 1250 | congruent melting: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 17 |  |
+| Phase transition | 1250 K | 1250 | congruent melting: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 15 |  |
 | Phase transition | 1257.15 K | 1257.15 | UNKNOWN; _alloy: Ni 0.4793, Tb 0.5207_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 59 |  |
-| Phase transition | 1266 K | 1266 | Congruent: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 16 |  |
-| Phase transition | 1266 K | 1266 | Congruent: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [2] Ye 2023 | Table 9, p. 20, row 18 |  |
-| Phase transition | 1266 K | 1266 | Congruent: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 14 |  |
+| Phase transition | 1266 K | 1266 | congruent melting: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 16 |  |
+| Phase transition | 1266 K | 1266 | congruent melting: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [2] Ye 2023 | Table 9, p. 20, row 18 |  |
+| Phase transition | 1266 K | 1266 | congruent melting: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 14 |  |
 | Phase transition | 1266.15 K | 1266.15 | UNKNOWN; _alloy: Ni 0.5, Tb 0.5_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 58 |  |
-| Phase transition | 1267 K | 1267 | Congruent: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 16 |  |
+| Phase transition | 1267 K | 1267 | congruent melting: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 16 |  |
 | Phase transition | 1298.15 K | 1298.15 | UNKNOWN; _alloy: Ni 0.5996, Tb 0.4004_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 50 |  |
 | Phase transition | 1363.15 K | 1363.15 | UNKNOWN; _alloy: Ni 0.6242, Tb 0.3758_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 48 |  |
 | Phase transition | 1397.15 K | 1397.15 | UNKNOWN; _alloy: Ni 0.7365, Tb 0.2635_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 37 |  |
@@ -355,16 +355,16 @@ Table: Phase transition, Ni–Tb system
 | Phase transition | 1648.15 K | 1648.15 | UNKNOWN; _alloy: Ni 0.8002, Tb 0.1998_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 21 |  |
 | Phase transition | 1655.15 K | 1655.15 | UNKNOWN; _alloy: Ni 0.8427, Tb 0.1573_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 14 |  |
 | Phase transition | 1659.15 K | 1659.15 | UNKNOWN; _alloy: Ni 0.8156, Tb 0.1844_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 19 |  |
-| Phase transition | 1660 K | 1660 | Congruent: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 36 |  |
-| Phase transition | 1660 K | 1660 | Congruent: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | unspecified | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 35 |  |
-| Phase transition | 1660.3 K | 1660.3 | Congruent: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | model | [2] Ye 2023 | Table 9, p. 20, row 37 |  |
+| Phase transition | 1660 K | 1660 | congruent melting: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 36 |  |
+| Phase transition | 1660 K | 1660 | congruent melting: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | unspecified | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 35 |  |
+| Phase transition | 1660.3 K | 1660.3 | congruent melting: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | model | [2] Ye 2023 | Table 9, p. 20, row 37 |  |
 | Phase transition | 1662.15 K | 1662.15 | UNKNOWN; _alloy: Ni 0.8227, Tb 0.1773_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 17 |  |
-| Phase transition | 1663 K | 1663 | Congruent: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 35 |  |
-| Phase transition | 1663 K | 1663 | Congruent: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | model | [3] Rahou 2024 | Table 3, p. 6, row 33 |  |
-| Phase transition | 1663 K | 1663 | Congruent: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 34 |  |
+| Phase transition | 1663 K | 1663 | congruent melting: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 35 |  |
+| Phase transition | 1663 K | 1663 | congruent melting: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | model | [3] Rahou 2024 | Table 3, p. 6, row 33 |  |
+| Phase transition | 1663 K | 1663 | congruent melting: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 34 |  |
 | Phase transition | 1663.15 K | 1663.15 | UNKNOWN; _alloy: Ni 0.8333, Tb 0.1667_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 16 |  |
 | Phase transition | 1665.15 K | 1665.15 | UNKNOWN; _alloy: Ni 0.9663, Tb 0.0337_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 2 |  |
-| Phase transition | 1672 K | 1672 | Congruent: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 34 |  |
+| Phase transition | 1672 K | 1672 | congruent melting: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 34 |  |
 | Phase transition | 1723.15 K | 1723.15 | UNKNOWN; _alloy: Ni 1, Tb 0_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 1 |  |
 
 ### Mixing / partial (8)
@@ -373,14 +373,14 @@ Table: Mixing / partial, Ni–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: ΔGexp_ | -18233 J/mol (basis unstated) | 973 | Ni17Tb2; _alloy: Tb 0.105263_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -38963 J/mol (basis unstated) | 973 | Ni2Tb; _alloy: Tb 0.333333_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 9 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -31646 J/mol (basis unstated) | 973 | Ni2Tb3; _alloy: Tb 0.6_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 13 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -36024 J/mol (basis unstated) | 973 | Ni3Tb; _alloy: Tb 0.25_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 7 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -28635 J/mol (basis unstated) | 973 | Ni5Tb; _alloy: Tb 0.166667_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 3 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -33992 J/mol (basis unstated) | 973 | Ni7Tb2; _alloy: Tb 0.222222_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 5 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -38463 J/mol (basis unstated) | 973 | NiTb; _alloy: Tb 0.5_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 11 |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -21246 J/mol (basis unstated) | 973 | NiTb3; _alloy: Tb 0.75_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 15 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -18.233 kJ/mol (basis unstated) | 973 | Ni17Tb2; _alloy: Tb 0.105263_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 1 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -38.963 kJ/mol (basis unstated) | 973 | Ni2Tb; _alloy: Tb 0.333333_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 9 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -31.646 kJ/mol (basis unstated) | 973 | Ni2Tb3; _alloy: Tb 0.6_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 13 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -36.024 kJ/mol (basis unstated) | 973 | Ni3Tb; _alloy: Tb 0.25_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 7 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -28.635 kJ/mol (basis unstated) | 973 | Ni5Tb; _alloy: Tb 0.166667_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 3 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -33.992 kJ/mol (basis unstated) | 973 | Ni7Tb2; _alloy: Tb 0.222222_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 5 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -38.463 kJ/mol (basis unstated) | 973 | NiTb; _alloy: Tb 0.5_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 11 |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -21.246 kJ/mol (basis unstated) | 973 | NiTb3; _alloy: Tb 0.75_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 15 |  |
 
 ### Activity / EMF / Gibbs energy (43)
 

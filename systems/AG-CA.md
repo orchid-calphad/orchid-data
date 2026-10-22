@@ -1,10 +1,10 @@
 # Ag–Ca system
 
-> Ag–Ca system: 100 accepted literature values (invariant reaction 48, phase transition 40, formation 8, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ca system: 97 accepted literature values (invariant reaction 46, phase transition 40, formation 7, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CA.html · Markdown: https://data.orchid-project.org/systems/AG-CA.md
 
-100 accepted literature values from 2 paper(s) (experimental 64, model 26, unspecified 10); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+97 accepted literature values from 2 paper(s) (experimental 61, model 26, unspecified 10); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CA.json) · [CSV](https://data.orchid-project.org/systems/AG-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CA/AgCa-08Hua.json) · [Markdown](https://data.orchid-project.org/systems/AG-CA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 64 |
+| experimental | 61 |
 | model | 26 |
 | unspecified | 10 |
 
@@ -20,9 +20,9 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 48 |
+| invariant reaction | 46 |
 | phase transition | 40 |
-| formation | 8 |
+| formation | 7 |
 | activity / EMF / Gibbs energy | 4 |
 
 ## Calculated phase diagrams
@@ -103,64 +103,62 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Ca system (48)
+Table: Invariant reactions reported in the literature for the Ag–Ca system (46)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1002 | Congruent: Liquid \<-> Ag7Ca2 | Liquid: Ag 0.777778, Ca 0.222222; Ag7Ca2: Ag 0.777778, Ca 0.222222 | model | [1] Braga 2014 | Table 3, p. 6, row 25 |  |
-| 997 | Congruent: Liquid \<-> Ag7Ca2 | Liquid: Ag 0.777778, Ca 0.222222; Ag7Ca2: Ag 0.777778, Ca 0.222222 | experimental | [1] Braga 2014 | Table 3, p. 6, row 24 |  |
-| 961 | Peritectic: Liquid + Ag7Ca2 \<-> Ag9Ca2 | Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag9Ca2: Ag 0.818182, Ca 0.181818 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 4 |  |
-| 960 | Peritectic: L + Ca2Ag7 -> Ca2Ag9 | L: Ca 0.163; Ca2Ag7: Ca 0.222; Ca2Ag9: Ca 0.182 | model | [2] Huang 2008 | Table 3, p. 3, row 3 |  |
-| 960 | Peritectic: L + Ca2Ag7 -> Ca2Ag9 | L: Ca 0.182; Ca2Ag7: Ca 0.222; Ca2Ag9: Ca 0.182 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 4 |  |
-| 959 | Peritectic: Liquid + Ag7Ca2 \<-> Ag9Ca2 | Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag9Ca2: Ag 0.818182, Ca 0.181818 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 5 |  |
-| 954 | Peritectic: Liquid + Ag7Ca2 \<-> Ag9Ca2 | Liquid: Ca 0.156; Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag9Ca2: Ag 0.818182, Ca 0.181818 | model | [1] Braga 2014 | Table 3, p. 6, row 6 |  |
-| 938 | Congruent: Liquid \<-> AgCa | Liquid: Ag 0.5, Ca 0.5; AgCa: Ag 0.5, Ca 0.5 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 26 |  |
-| 938 | Congruent: Liquid \<-> AgCa | Liquid: Ag 0.5, Ca 0.5; AgCa: Ag 0.5, Ca 0.5 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 27 |  |
-| 932 | Congruent: Liquid \<-> AgCa | Liquid: Ag 0.5, Ca 0.5; AgCa: Ag 0.5, Ca 0.5 | model | [1] Braga 2014 | Table 3, p. 6, row 28 |  |
-| 928 | Eutectic: Liquid \<-> Ag (fcc A1) + Ag9Ca2 | Liquid: Ca 0.127; Ag9Ca2: Ag 0.818182, Ca 0.181818 | model | [1] Braga 2014 | Table 3, p. 6, row 3 |  |
-| 928 | Eutectic: Liquid \<-> Ag (fcc A1) + Ag9Ca2 | Ag9Ca2: Ag 0.818182, Ca 0.181818 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 1 |  |
-| 928 | Eutectic: L -> (Ag) + Ag9Ca2 | L: Ca 0.14; (Ag): Ca 0; Ag9Ca2: Ca 0.182 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 2 |  |
-| 926 | Eutectic: L -> (Ag) + Ag9Ca2 | L: Ca 0.125; (Ag): Ca 0; Ag9Ca2: Ca 0.182 | model | [2] Huang 2008 | Table 3, p. 3, row 1 |  |
-| 917 | Eutectic: Liquid \<-> Ag (fcc A1) + Ag9Ca2 | Ag9Ca2: Ag 0.818182, Ca 0.181818 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 2 |  |
-| 871 | Peritectic: Liquid + Ag7Ca2 \<-> Ag2Ca | Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag2Ca: Ag 0.666667, Ca 0.333333 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 7 |  |
-| 871 | Peritectic: Liquid + Ag7Ca2 \<-> Ag2Ca | Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag2Ca: Ag 0.666667, Ca 0.333333 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 8 |  |
-| 870 | Peritectic: L + Ca2Ag7 -> Ca Ag2 | L: Ca 0.333; Ca2Ag7: Ca 0.222; Ca Ag2: Ca 0.332 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 8 |  |
-| 870 | Peritectic: L + Ca2Ag7 -> Ca Ag2 | L: Ca 0.33; Ca2Ag7: Ca 0.222; Ca Ag2: Ca 0.333 | model | [2] Huang 2008 | Table 3, p. 3, row 7 |  |
-| 868 | Peritectic: Liquid + Ag7Ca2 \<-> Ag2Ca | Liquid: Ca 0.336; Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag2Ca: Ag 0.666667, Ca 0.333333 | model | [1] Braga 2014 | Table 3, p. 6, row 9 |  |
-| 831 | Eutectic: Liquid \<-> AgCa + Ag3Ca5 | AgCa: Ag 0.5, Ca 0.5; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 13 |  |
-| 831 | Congruent: Liquid \<-> Ag3Ca5 | Liquid: Ag 0.375, Ca 0.625; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 30 |  |
-| 828 | Congruent: Liquid \<-> Ag3Ca5 | Liquid: Ag 0.375, Ca 0.625; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 29 |  |
-| 828 | Eutectic: L -> CaAg + Ca5Ag3 | L: Ca 0.6; CaAg: Ca 0.5; Ca5Ag3: Ca 0.625 | model | [2] Huang 2008 | Table 3, p. 3, row 13 |  |
-| 828 | Peritectic: L + CaAg -> Ca5Ag3 | L: Ca 0.625; CaAg: Ca 0.5; Ca5Ag3: Ca 0.625 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 14 |  |
-| 828 | Eutectic: Liquid \<-> Ag2Ca + AgCa | Liquid: Ca 0.397; Ag2Ca: Ag 0.666667, Ca 0.333333; AgCa: Ag 0.5, Ca 0.5 | model | [1] Braga 2014 | Table 3, p. 6, row 12 |  |
-| 825 | Eutectic: Liquid \<-> AgCa + Ag3Ca5 | AgCa: Ag 0.5, Ca 0.5; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 14 |  |
-| 822 | Congruent: Liquid \<-> Ag3Ca5 | Liquid: Ag 0.375, Ca 0.625; Ag3Ca5: Ag 0.375, Ca 0.625 | model | [1] Braga 2014 | Table 3, p. 6, row 31 |  |
-| 821 | Eutectic: Liquid \<-> AgCa + Ag3Ca5 | AgCa: Ag 0.5, Ca 0.5; Ag3Ca5: Ag 0.375, Ca 0.625 | model | [1] Braga 2014 | Table 3, p. 6, row 16 |  |
-| 821 | Eutectic: L -> CaAg2 + CaAg | L: Ca 0.402; CaAg2: Ca 0.333; CaAg: Ca 0.5 | model | [2] Huang 2008 | Table 3, p. 3, row 9 |  |
-| 820 | Eutectic: Liquid \<-> AgCa + Ag3Ca5 | Liquid: Ca 0.614; AgCa: Ag 0.5, Ca 0.5; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 15 |  |
-| 819 | Eutectic: Liquid \<-> Ag2Ca + AgCa | Ag2Ca: Ag 0.666667, Ca 0.333333; AgCa: Ag 0.5, Ca 0.5 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 10 |  |
-| 818 | Eutectic: L -> CaAg2 + CaAg | L: Ca 0.395; CaAg2: Ca 0.333; CaAg: Ca 0.5 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 10 |  |
-| 807 | Eutectic: Liquid \<-> Ag2Ca + AgCa | Ag2Ca: Ag 0.666667, Ca 0.333333; AgCa: Ag 0.5, Ca 0.5 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 11 |  |
-| 756 | Congruent: Liquid \<-> AgCa3 | Liquid: Ag 0.25, Ca 0.75; AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 33 |  |
-| 751 | Eutectic: Liquid \<-> Ag3Ca5 + AgCa3 | Ag3Ca5: Ag 0.375, Ca 0.625; AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 17 |  |
-| 751 | Congruent: Liquid \<-> AgCa3 | Liquid: Ag 0.25, Ca 0.75; AgCa3: Ag 0.25, Ca 0.75 | model | [1] Braga 2014 | Table 3, p. 6, row 34 |  |
-| 748 | Peritectic: L + Ca5Ag3 -> Ca3Ag | L: Ca 0.75; Ca5Ag3: Ca 0.625; Ca3Ag: Ca 0.75 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 16 |  |
-| 748 | Eutectic: Liquid \<-> Ag3Ca5 + AgCa3 | Ag3Ca5: Ag 0.375, Ca 0.625; AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 18 |  |
-| 748 | Peritectic: L + Ca5Ag3 -> Ca3Ag | L: Ca 0.75; Ca5Ag3: Ca 0.625; Ca3Ag: Ca 0.75 | model | [2] Huang 2008 | Table 3, p. 3, row 15 |  |
-| 748 | Eutectic: Liquid \<-> Ag3Ca5 + AgCa3 | Liquid: Ca 0.73; Ag3Ca5: Ag 0.375, Ca 0.625; AgCa3: Ag 0.25, Ca 0.75 | model | [1] Braga 2014 | Table 3, p. 6, row 19 |  |
-| 747 | Congruent: Liquid \<-> AgCa3 | Liquid: Ag 0.25, Ca 0.75; AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 32 |  |
-| 746 | Eutectic: Liquid \<-> AgCa3 + Ca (bcc A2) | Liquid: Ca 0.778; AgCa3: Ag 0.25, Ca 0.75 | model | [1] Braga 2014 | Table 3, p. 6, row 22 |  |
-| 743 | Eutectic: L -> Ca3Ag + (βCa) | L: Ca 0.8; Ca3Ag: Ca 0.75; (βCa): Ca 1 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 18 |  |
-| 743 | Eutectic: Liquid \<-> AgCa3 + Ca (bcc A2) | AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 20 |  |
-| 737 | Eutectic: L -> Ca3Ag + (βCa) | L: Ca 0.796; Ca3Ag: Ca 0.75; (βCa): Ca 1 | model | [2] Huang 2008 | Table 3, p. 3, row 17 |  |
-| 733 | Eutectic: Liquid \<-> AgCa3 + Ca (bcc A2) | AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 21 |  |
-| 716 | Allotropic: Ca (bcc A2) \<-> Ca (fcc A1) |  | model | [1] Braga 2014 | Table 3, p. 6, row 23 |  |
+| 1002 | congruent melting: Liquid \<-> Ag7Ca2 | Liquid: Ag 0.777778, Ca 0.222222; Ag7Ca2: Ag 0.777778, Ca 0.222222 | model | [1] Braga 2014 | Table 3, p. 6, row 25 |  |
+| 997 | congruent melting: Liquid \<-> Ag7Ca2 | Liquid: Ag 0.777778, Ca 0.222222; Ag7Ca2: Ag 0.777778, Ca 0.222222 | experimental | [1] Braga 2014 | Table 3, p. 6, row 24 |  |
+| 961 | peritectic: Liquid + Ag7Ca2 \<-> Ag9Ca2 | Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag9Ca2: Ag 0.818182, Ca 0.181818 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 4 |  |
+| 960 | peritectic: L + Ca2Ag7 -> Ca2Ag9 | L: Ca 0.163; Ca2Ag7: Ca 0.222; Ca2Ag9: Ca 0.182 | model | [2] Huang 2008 | Table 3, p. 3, row 3 |  |
+| 960 | peritectic: L + Ca2Ag7 -> Ca2Ag9 | L: Ca 0.182; Ca2Ag7: Ca 0.222; Ca2Ag9: Ca 0.182 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 4 |  |
+| 959 | peritectic: Liquid + Ag7Ca2 \<-> Ag9Ca2 | Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag9Ca2: Ag 0.818182, Ca 0.181818 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 5 |  |
+| 954 | peritectic: Liquid + Ag7Ca2 \<-> Ag9Ca2 | Liquid: Ca 0.156; Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag9Ca2: Ag 0.818182, Ca 0.181818 | model | [1] Braga 2014 | Table 3, p. 6, row 6 |  |
+| 938 | congruent melting: Liquid \<-> AgCa | Liquid: Ag 0.5, Ca 0.5; AgCa: Ag 0.5, Ca 0.5 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 26 |  |
+| 932 | congruent melting: Liquid \<-> AgCa | Liquid: Ag 0.5, Ca 0.5; AgCa: Ag 0.5, Ca 0.5 | model | [1] Braga 2014 | Table 3, p. 6, row 28 |  |
+| 928 | eutectic: Liquid \<-> Ag (fcc A1) + Ag9Ca2 | Liquid: Ca 0.127; Ag9Ca2: Ag 0.818182, Ca 0.181818 | model | [1] Braga 2014 | Table 3, p. 6, row 3 |  |
+| 928 | eutectic: Liquid \<-> Ag (fcc A1) + Ag9Ca2 | Ag9Ca2: Ag 0.818182, Ca 0.181818 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 1 |  |
+| 928 | eutectic: L -> (Ag) + Ag9Ca2 | L: Ca 0.14; (Ag): Ca 0; Ag9Ca2: Ca 0.182 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 2 |  |
+| 926 | eutectic: L -> (Ag) + Ag9Ca2 | L: Ca 0.125; (Ag): Ca 0; Ag9Ca2: Ca 0.182 | model | [2] Huang 2008 | Table 3, p. 3, row 1 |  |
+| 917 | eutectic: Liquid \<-> Ag (fcc A1) + Ag9Ca2 | Ag9Ca2: Ag 0.818182, Ca 0.181818 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 2 |  |
+| 871 | peritectic: Liquid + Ag7Ca2 \<-> Ag2Ca | Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag2Ca: Ag 0.666667, Ca 0.333333 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 7 |  |
+| 870 | peritectic: L + Ca2Ag7 -> Ca Ag2 | L: Ca 0.333; Ca2Ag7: Ca 0.222; Ca Ag2: Ca 0.332 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 8 |  |
+| 870 | peritectic: L + Ca2Ag7 -> Ca Ag2 | L: Ca 0.33; Ca2Ag7: Ca 0.222; Ca Ag2: Ca 0.333 | model | [2] Huang 2008 | Table 3, p. 3, row 7 |  |
+| 868 | peritectic: Liquid + Ag7Ca2 \<-> Ag2Ca | Liquid: Ca 0.336; Ag7Ca2: Ag 0.777778, Ca 0.222222; Ag2Ca: Ag 0.666667, Ca 0.333333 | model | [1] Braga 2014 | Table 3, p. 6, row 9 |  |
+| 831 | eutectic: Liquid \<-> AgCa + Ag3Ca5 | AgCa: Ag 0.5, Ca 0.5; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 13 |  |
+| 831 | congruent melting: Liquid \<-> Ag3Ca5 | Liquid: Ag 0.375, Ca 0.625; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 30 |  |
+| 828 | congruent melting: Liquid \<-> Ag3Ca5 | Liquid: Ag 0.375, Ca 0.625; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 29 |  |
+| 828 | eutectic: L -> CaAg + Ca5Ag3 | L: Ca 0.6; CaAg: Ca 0.5; Ca5Ag3: Ca 0.625 | model | [2] Huang 2008 | Table 3, p. 3, row 13 |  |
+| 828 | peritectic: L + CaAg -> Ca5Ag3 | L: Ca 0.625; CaAg: Ca 0.5; Ca5Ag3: Ca 0.625 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 14 |  |
+| 828 | eutectic: Liquid \<-> Ag2Ca + AgCa | Liquid: Ca 0.397; Ag2Ca: Ag 0.666667, Ca 0.333333; AgCa: Ag 0.5, Ca 0.5 | model | [1] Braga 2014 | Table 3, p. 6, row 12 |  |
+| 825 | eutectic: Liquid \<-> AgCa + Ag3Ca5 | AgCa: Ag 0.5, Ca 0.5; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 14 |  |
+| 822 | congruent melting: Liquid \<-> Ag3Ca5 | Liquid: Ag 0.375, Ca 0.625; Ag3Ca5: Ag 0.375, Ca 0.625 | model | [1] Braga 2014 | Table 3, p. 6, row 31 |  |
+| 821 | eutectic: Liquid \<-> AgCa + Ag3Ca5 | AgCa: Ag 0.5, Ca 0.5; Ag3Ca5: Ag 0.375, Ca 0.625 | model | [1] Braga 2014 | Table 3, p. 6, row 16 |  |
+| 821 | eutectic: L -> CaAg2 + CaAg | L: Ca 0.402; CaAg2: Ca 0.333; CaAg: Ca 0.5 | model | [2] Huang 2008 | Table 3, p. 3, row 9 |  |
+| 820 | eutectic: Liquid \<-> AgCa + Ag3Ca5 | Liquid: Ca 0.614; AgCa: Ag 0.5, Ca 0.5; Ag3Ca5: Ag 0.375, Ca 0.625 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 15 |  |
+| 819 | eutectic: Liquid \<-> Ag2Ca + AgCa | Ag2Ca: Ag 0.666667, Ca 0.333333; AgCa: Ag 0.5, Ca 0.5 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 10 |  |
+| 818 | eutectic: L -> CaAg2 + CaAg | L: Ca 0.395; CaAg2: Ca 0.333; CaAg: Ca 0.5 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 10 |  |
+| 807 | eutectic: Liquid \<-> Ag2Ca + AgCa | Ag2Ca: Ag 0.666667, Ca 0.333333; AgCa: Ag 0.5, Ca 0.5 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 11 |  |
+| 756 | congruent melting: Liquid \<-> AgCa3 | Liquid: Ag 0.25, Ca 0.75; AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 33 |  |
+| 751 | eutectic: Liquid \<-> Ag3Ca5 + AgCa3 | Ag3Ca5: Ag 0.375, Ca 0.625; AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 17 |  |
+| 751 | congruent melting: Liquid \<-> AgCa3 | Liquid: Ag 0.25, Ca 0.75; AgCa3: Ag 0.25, Ca 0.75 | model | [1] Braga 2014 | Table 3, p. 6, row 34 |  |
+| 748 | peritectic: L + Ca5Ag3 -> Ca3Ag | L: Ca 0.75; Ca5Ag3: Ca 0.625; Ca3Ag: Ca 0.75 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 16 |  |
+| 748 | eutectic: Liquid \<-> Ag3Ca5 + AgCa3 | Ag3Ca5: Ag 0.375, Ca 0.625; AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 18 |  |
+| 748 | peritectic: L + Ca5Ag3 -> Ca3Ag | L: Ca 0.75; Ca5Ag3: Ca 0.625; Ca3Ag: Ca 0.75 | model | [2] Huang 2008 | Table 3, p. 3, row 15 |  |
+| 748 | eutectic: Liquid \<-> Ag3Ca5 + AgCa3 | Liquid: Ca 0.73; Ag3Ca5: Ag 0.375, Ca 0.625; AgCa3: Ag 0.25, Ca 0.75 | model | [1] Braga 2014 | Table 3, p. 6, row 19 |  |
+| 747 | congruent melting: Liquid \<-> AgCa3 | Liquid: Ag 0.25, Ca 0.75; AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Alexander 1969_ [doi](https://doi.org/10.1139/v69-093) | Table 3, p. 6, row 32 |  |
+| 746 | eutectic: Liquid \<-> AgCa3 + Ca (bcc A2) | Liquid: Ca 0.778; AgCa3: Ag 0.25, Ca 0.75 | model | [1] Braga 2014 | Table 3, p. 6, row 22 |  |
+| 743 | eutectic: L -> Ca3Ag + (βCa) | L: Ca 0.8; Ca3Ag: Ca 0.75; (βCa): Ca 1 | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 18 |  |
+| 743 | eutectic: Liquid \<-> AgCa3 + Ca (bcc A2) | AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 20 |  |
+| 737 | eutectic: L -> Ca3Ag + (βCa) | L: Ca 0.796; Ca3Ag: Ca 0.75; (βCa): Ca 1 | model | [2] Huang 2008 | Table 3, p. 3, row 17 |  |
+| 733 | eutectic: Liquid \<-> AgCa3 + Ca (bcc A2) | AgCa3: Ag 0.25, Ca 0.75 | experimental | [1] Braga 2014; _cites Pascal 1970_ | Table 3, p. 6, row 21 |  |
+| 716 | polymorphic: Ca (bcc A2) \<-> Ca (fcc A1) |  | model | [1] Braga 2014 | Table 3, p. 6, row 23 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ag–Ca system (8)
+Table: Enthalpies of formation, Ag–Ca system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -168,7 +166,6 @@ Table: Enthalpies of formation, Ag–Ca system (8)
 | Ag9Ca2 |  | -15.1 kJ/mol-atom | 298 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 5 |  |
 | Ag9Ca2 |  | -14.6 kJ/mol-atom | 298 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 3 |  |
 | Ag9Ca2 |  | -14.5 kJ/mol-atom | 298 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 4 |  |
-| Ag9Ca2 |  | -14.5 kJ/mol-atom | 298 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 1 |  |
 | AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -12.5 kJ/mol-atom | 298 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 8 |  |
 | AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -11.6 kJ/mol-atom | 298 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 10 |  |
 | AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -11.3 kJ/mol-atom | 298 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 9 |  |
@@ -181,10 +178,10 @@ Table: Phase transition, Ag–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 100 K | 100 | Congruent: L -> Ca2Ag7; _L: Ca 0.222; Ca2Ag7: Ca 0.222_ | model | [2] Huang 2008 | Table 3, p. 3, row 5 |  |
-| Phase transition | 100 K | 100 | Congruent: L -> Ca2Ag7; _L: Ca 0.222; Ca2Ag7: Ca 0.222_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 6 |  |
-| Phase transition | 716 K | 716 | Allotropic: (βCa) -> (αCa); _(βCa): Ca 1_ | model | [2] Huang 2008 | Table 3, p. 3, row 19 |  |
-| Phase transition | 716 K | 716 | Allotropic: (βCa) -> (αCa); _(βCa): Ca 1_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 20 |  |
+| Phase transition | 100 K | 100 | congruent melting: L -> Ca2Ag7; _L: Ca 0.222; Ca2Ag7: Ca 0.222_ | model | [2] Huang 2008 | Table 3, p. 3, row 5 |  |
+| Phase transition | 100 K | 100 | congruent melting: L -> Ca2Ag7; _L: Ca 0.222; Ca2Ag7: Ca 0.222_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 6 |  |
+| Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | model | [2] Huang 2008 | Table 3, p. 3, row 19 |  |
+| Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 20 |  |
 | Phase transition | 730 K | 730 | Cooling; _alloy: Ag 0.2, Ca 0.8_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 30 |  |
 | Phase transition | 731 K | 731 | Heating; _alloy: Ag 0.2, Ca 0.8_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 29 |  |
 | Phase transition | 735 K | 735 | Cooling; _alloy: Ag 0.1, Ca 0.9_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 33 |  |
@@ -210,9 +207,9 @@ Table: Phase transition, Ag–Ca system
 | Phase transition | 918 K | 918 | Cooling; _alloy: Ag 0.5, Ca 0.5_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 17 |  |
 | Phase transition | 918 K | 918 | Cooling; _alloy: Ag 0.818, Ca 0.182_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 5 |  |
 | Phase transition | 918 K | 918 | Heating; _alloy: Ag 0.818, Ca 0.182_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 4 |  |
-| Phase transition | 938 K | 938 | Congruent: L -> CaAg; _L: Ca 0.5; CaAg: Ca 0.5_ | model | [2] Huang 2008 | Table 3, p. 3, row 11 |  |
 | Phase transition | 938 K | 938 | Heating; _alloy: Ag 0.5, Ca 0.5_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 16 |  |
-| Phase transition | 939 K | 939 | Congruent: L -> CaAg; _L: Ca 0.5; CaAg: Ca 0.5_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 12 |  |
+| Phase transition | 938 K | 938 | congruent melting: L -> CaAg; _L: Ca 0.5; CaAg: Ca 0.5_ | model | [2] Huang 2008 | Table 3, p. 3, row 11 |  |
+| Phase transition | 939 K | 939 | congruent melting: L -> CaAg; _L: Ca 0.5; CaAg: Ca 0.5_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 12 |  |
 | Phase transition | 947 K | 947 | Heating; _alloy: Ag 0.1, Ca 0.9_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 34 |  |
 | Phase transition | 949 K | 949 | Cooling; _alloy: Ag 0.818, Ca 0.182_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 7 |  |
 | Phase transition | 950 K | 950 | Cooling; _alloy: Ag 0.778, Ca 0.222_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 9 |  |

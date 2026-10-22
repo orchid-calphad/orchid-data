@@ -1,10 +1,10 @@
 # P–Zn system
 
-> P–Zn system: 69 accepted literature values (phase transition 33, invariant reaction 20, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> P–Zn system: 66 accepted literature values (phase transition 30, invariant reaction 20, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/P-ZN.html · Markdown: https://data.orchid-project.org/systems/P-ZN.md
 
-69 accepted literature values from 2 paper(s) (experimental 26, model 35, unspecified 8); 0 calculated phase diagram(s).
+66 accepted literature values from 2 paper(s) (experimental 26, model 32, unspecified 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-ZN.json) · [CSV](https://data.orchid-project.org/systems/P-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-ZN) · [Markdown](https://data.orchid-project.org/systems/P-ZN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 26 |
-| model | 35 |
+| model | 32 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 20 |
-| phase transition | 33 |
+| phase transition | 30 |
 | formation | 16 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/P/P-ZN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/P/P-ZN.json) · [CALPHAD hull ZnP-09Tu](https://data.orchid-project.org/hulls/calphad-sgte/P/P-ZN--ZnP-09Tu.json) · [CALPHAD hull ZnP-16Liu](https://data.orchid-project.org/hulls/calphad-sgte/P/P-ZN--ZnP-16Liu.json)
@@ -32,26 +32,26 @@ Table: Invariant reactions reported in the literature for the P–Zn system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1269.15 | Eutectic: L -> ZnP2 + Zn3P2 | L: P 0.0059; ZnP2: P 0.666667; Zn3P2: P 0.4 | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 9 |  |
-| 1267.15 | Eutectic: L -> ZnP2 + Zn3P2 | L: P 0.00594; ZnP2: P 0.666667; Zn3P2: P 0.4 | unspecified | [1] Liu 2016 | Table 5, p. 6, row 8 |  |
-| 1258.15 | Eutectic: L -> βZn3P2 + αZnP2 | L: P 0.57; βZn3P2: P 0.4; αZnP2: P 0.666 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 22 |  |
-| 1256.15 | Eutectic: L -> βZn3P2 + αZnP2 | L: P 0.56; βZn3P2: P 0.4; αZnP2: P 0.666 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 21 |  |
-| 1255.15 | Eutectic: L -> βZn3P2 + αZnP2 | L: P 0.56; βZn3P2: P 0.4; αZnP2: P 0.666 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 23 |  |
-| 1253.15 | Eutectic: L -> βZn3P2 + αZnP2 | L: P 0.55; βZn3P2: P 0.4; αZnP2: P 0.666 | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 19 |  |
+| 1269.15 | eutectic: L -> ZnP2 + Zn3P2 | L: P 0.0059; ZnP2: P 0.666667; Zn3P2: P 0.4 | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 9 |  |
+| 1267.15 | eutectic: L -> ZnP2 + Zn3P2 | L: P 0.00594; ZnP2: P 0.666667; Zn3P2: P 0.4 | unspecified | [1] Liu 2016 | Table 5, p. 6, row 8 |  |
+| 1258.15 | eutectic: L -> βZn3P2 + αZnP2 | L: P 0.57; βZn3P2: P 0.4; αZnP2: P 0.666 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 22 |  |
+| 1256.15 | eutectic: L -> βZn3P2 + αZnP2 | L: P 0.56; βZn3P2: P 0.4; αZnP2: P 0.666 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 21 |  |
+| 1255.15 | eutectic: L -> βZn3P2 + αZnP2 | L: P 0.56; βZn3P2: P 0.4; αZnP2: P 0.666 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 23 |  |
+| 1253.15 | eutectic: L -> βZn3P2 + αZnP2 | L: P 0.55; βZn3P2: P 0.4; αZnP2: P 0.666 | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 19 |  |
 | 1253.15 | eutectic |  | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | p. 2 | “The eutectic temperatures measured by authors of Refs. \[35,36\] are 980 ∘ C and 950 ∘ C, respectively.” |
-| 1253.15 | Eutectic: L -> ZnP2 + Zn3P2 | L: P 0.0055; ZnP2: P 0.666667; Zn3P2: P 0.4 | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 10 |  |
-| 1223.15 | Eutectic: L -> βZn3P2 + αZnP2 | βZn3P2: P 0.4; αZnP2: P 0.666667 | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 20 |  |
+| 1253.15 | eutectic: L -> ZnP2 + Zn3P2 | L: P 0.0055; ZnP2: P 0.666667; Zn3P2: P 0.4 | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 10 |  |
+| 1223.15 | eutectic: L -> βZn3P2 + αZnP2 | βZn3P2: P 0.4; αZnP2: P 0.666667 | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 20 |  |
 | 1223.15 | eutectic |  | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | p. 2 | “The eutectic temperatures measured by authors of Refs. \[35,36\] are 980 ∘ C and 950 ∘ C, respectively.” |
-| 692.3 | Eutectic: L -> (Zn) + αZn3P2 | L: P 7.000e-4; (Zn): P 0; αZn3P2: P 0.4 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 5 |  |
-| 692.15 | Eutectic: L -> (Zn) + αZn3P2 | L: P 0.0066; (Zn): P 0; αZn3P2: P 0.4 | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 2 |  |
-| 690.9 | Eutectic: L -> (Zn) + αZn3P2 | L: P 0.0034; (Zn): P 0; αZn3P2: P 0.4 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 4 |  |
-| 690.8 | Eutectic: L -> (Zn) + αZn3P2 | L: P 0.0036; (Zn): P 0; αZn3P2: P 0.4 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 6 |  |
-| 689.15 | Eutectic: L -> (Zn) + Zn3P2 | L: P 6.400e-4; (Zn): P 0; Zn3P2: P 0.4 | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 3 |  |
-| 689.15 | Eutectic: L -> (Zn) + Zn3P2 | L: P 6.600e-4; (Zn): P 0; Zn3P2: P 0.4 | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 4 |  |
-| 689.15 | Eutectic: L -> (Zn) + αZn3P2 | L: P 0.0066; (Zn): P 0; αZn3P2: P 0.4 | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 1 |  |
-| 686.15 | Eutectic: L -> (Zn) + Zn3P2 | L: P 0.025; (Zn): P 0; Zn3P2: P 0.4 | experimental | [1] Liu 2016; _cites Ugay 1968_ | Table 5, p. 6, row 2 |  |
-| 685.35 | Eutectic: L -> (Zn) + Zn3P2 | L: P 0.00907; (Zn): P 0; Zn3P2: P 0.4 | unspecified | [1] Liu 2016 | Table 5, p. 6, row 1 |  |
-| 674.15 | Eutectic: L -> (Zn) + αZn3P2 | L: P 0.025; (Zn): P 0; αZn3P2: P 0.4 | experimental | [2] Ghasemi 2019; _cites Ugai 1968_ | Table 4, p. 6, row 3 |  |
+| 692.3 | eutectic: L -> (Zn) + αZn3P2 | L: P 7.000e-4; (Zn): P 0; αZn3P2: P 0.4 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 5 |  |
+| 692.15 | eutectic: L -> (Zn) + αZn3P2 | L: P 0.0066; (Zn): P 0; αZn3P2: P 0.4 | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 2 |  |
+| 690.9 | eutectic: L -> (Zn) + αZn3P2 | L: P 0.0034; (Zn): P 0; αZn3P2: P 0.4 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 4 |  |
+| 690.8 | eutectic: L -> (Zn) + αZn3P2 | L: P 0.0036; (Zn): P 0; αZn3P2: P 0.4 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 6 |  |
+| 689.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 6.400e-4; (Zn): P 0; Zn3P2: P 0.4 | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 3 |  |
+| 689.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 6.600e-4; (Zn): P 0; Zn3P2: P 0.4 | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 4 |  |
+| 689.15 | eutectic: L -> (Zn) + αZn3P2 | L: P 0.0066; (Zn): P 0; αZn3P2: P 0.4 | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 1 |  |
+| 686.15 | eutectic: L -> (Zn) + Zn3P2 | L: P 0.025; (Zn): P 0; Zn3P2: P 0.4 | experimental | [1] Liu 2016; _cites Ugay 1968_ | Table 5, p. 6, row 2 |  |
+| 685.35 | eutectic: L -> (Zn) + Zn3P2 | L: P 0.00907; (Zn): P 0; Zn3P2: P 0.4 | unspecified | [1] Liu 2016 | Table 5, p. 6, row 1 |  |
+| 674.15 | eutectic: L -> (Zn) + αZn3P2 | L: P 0.025; (Zn): P 0; αZn3P2: P 0.4 | experimental | [2] Ghasemi 2019; _cites Ugai 1968_ | Table 4, p. 6, row 3 |  |
 
 ## Formation enthalpies
 
@@ -72,7 +72,7 @@ Table: Enthalpies of formation, P–Zn system (8)
 
 ## Other properties
 
-### Phase transition (33)
+### Phase transition (30)
 
 Table: Phase transition, P–Zn system
 
@@ -80,37 +80,34 @@ Table: Phase transition, P–Zn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 692.65 K | 692.65 |  | experimental | [1] Liu 2016 | p. 2 | “Large difference in melting points (Zn: 419.5 °C, Si: 1410 °C and P: 590 °C) and low solubility of Si or P in liquid zinc below 1100 °C made it rather difficult to prepare the ternary Zn-Si-P alloys from direct combination of the three elements.” |
 | Phase transition | 863.15 K | 863.15 |  | experimental | [1] Liu 2016 | p. 2 | “Large difference in melting points (Zn: 419.5 °C, Si: 1410 °C and P: 590 °C) and low solubility of Si or P in liquid zinc below 1100 °C made it rather difficult to prepare the ternary Zn-Si-P alloys from direct combination of the three elements.” |
-| Phase transition | 1113.15 K | 1113.15 | Congruent: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Ugai 1968_ | Table 4, p. 6, row 15 |  |
-| Phase transition | 1118.15 K | 1118.15 | Polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Pistorius 1977_ | Table 4, p. 6, row 8 |  |
-| Phase transition | 1123.15 K | 1123.15 | Polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 7 |  |
-| Phase transition | 1123.15 K | 1123.15 | Polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 11 |  |
-| Phase transition | 1123.15 K | 1123.15 | Polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 10 |  |
-| Phase transition | 1123.15 K | 1123.15 | Polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 12 |  |
+| Phase transition | 1113.15 K | 1113.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Ugai 1968_ | Table 4, p. 6, row 15 |  |
+| Phase transition | 1118.15 K | 1118.15 | polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Pistorius 1977_ | Table 4, p. 6, row 8 |  |
+| Phase transition | 1123.15 K | 1123.15 | polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 7 |  |
+| Phase transition | 1123.15 K | 1123.15 | polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 11 |  |
 | Phase transition | 1123.15 K | 1123.15 | αZn3P2 -> βZn3P2 | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | p. 2 | “The α → β transformation of this phase occurs at 850 ∘ C, while the melting of βZn3 P2 occurs at 1160 ∘ C and according to Schneider and Krumnacker \[36\].” |
-| Phase transition | 1153.15 K | 1153.15 | Polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 9 |  |
-| Phase transition | 1261.15 K | 1261.15 | Polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 26 |  |
-| Phase transition | 1263.15 K | 1263.15 | Polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666; βZnP2: P 0.666667_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 24 |  |
-| Phase transition | 1263.15 K | 1263.15 | Polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 25 |  |
-| Phase transition | 1263.15 K | 1263.15 | Polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 27 |  |
+| Phase transition | 1153.15 K | 1153.15 | polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 9 |  |
+| Phase transition | 1261.15 K | 1261.15 | polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 26 |  |
+| Phase transition | 1263.15 K | 1263.15 | polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666; βZnP2: P 0.666667_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 24 |  |
+| Phase transition | 1263.15 K | 1263.15 | polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 25 |  |
 | Phase transition | 1263.15 K | 1263.15 | αZnP2 -> βZnP2 | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | p. 3 | “Furthermore, βZnP2 melts at 1040 ∘ C and undergoes the α → β transformation at 990 ∘ C as reported by Berak and Pruchnik \[35\].” |
-| Phase transition | 1307.15 K | 1307.15 | Congruent: L -> ZnP2; _L: P 0.00667; ZnP2: P 0.666667_ | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 12 |  |
-| Phase transition | 1311.15 K | 1311.15 | Congruent: L -> βZnP2; _L: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 30 |  |
-| Phase transition | 1311.55 K | 1311.55 | Congruent: L -> ZnP2; _L: P 0.00667; ZnP2: P 0.666667_ | unspecified | [1] Liu 2016 | Table 5, p. 6, row 11 |  |
-| Phase transition | 1312.15 K | 1312.15 | Congruent: L -> βZnP2; _L: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 29 |  |
-| Phase transition | 1313.15 K | 1313.15 | Congruent: L -> ZnP2; _L: P 0.00667; ZnP2: P 0.666667_ | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 13 |  |
-| Phase transition | 1313.15 K | 1313.15 | Congruent: L -> βZnP2; _L: P 0.666; βZnP2: P 0.666_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 28 |  |
-| Phase transition | 1313.15 K | 1313.15 | Congruent: L -> βZnP2; _L: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 31 |  |
+| Phase transition | 1307.15 K | 1307.15 | congruent melting: L -> ZnP2; _L: P 0.00667; ZnP2: P 0.666667_ | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 12 |  |
+| Phase transition | 1311.15 K | 1311.15 | congruent melting: L -> βZnP2; _L: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 30 |  |
+| Phase transition | 1311.55 K | 1311.55 | congruent melting: L -> ZnP2; _L: P 0.00667; ZnP2: P 0.666667_ | unspecified | [1] Liu 2016 | Table 5, p. 6, row 11 |  |
+| Phase transition | 1312.15 K | 1312.15 | congruent melting: L -> βZnP2; _L: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 29 |  |
+| Phase transition | 1313.15 K | 1313.15 | congruent melting: L -> ZnP2; _L: P 0.00667; ZnP2: P 0.666667_ | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 13 |  |
+| Phase transition | 1313.15 K | 1313.15 | congruent melting: L -> βZnP2; _L: P 0.666; βZnP2: P 0.666_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 28 |  |
+| Phase transition | 1313.15 K | 1313.15 | congruent melting: L -> βZnP2; _L: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 31 |  |
 | Phase transition | 1313.15 K | 1313.15 | βZnP2 + liquid | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | p. 3 | “Furthermore, βZnP2 melts at 1040 ∘ C and undergoes the α → β transformation at 990 ∘ C as reported by Berak and Pruchnik \[35\].” |
 | Phase transition | 1413.15 K | 1413.15 | other | model | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | p. 4 | “The calculated phase diagram using the optimized parameters by Tu et al. \[13\] shows an inverted miscibility gap in the liquid phase appearing at about 1140 ∘ C with no maximum temperature (Fig. 1(a)).” |
-| Phase transition | 1433.15 K | 1433.15 | Congruent: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 13 |  |
+| Phase transition | 1433.15 K | 1433.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 13 |  |
 | Phase transition | 1433.15 K | 1433.15 | βZn3P2 + liquid | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | p. 2 | “The α → β transformation of this phase occurs at 850 ∘ C, while the melting of βZn3 P2 occurs at 1160 ∘ C and according to Schneider and Krumnacker \[36\].” |
-| Phase transition | 1436.15 K | 1436.15 | Congruent: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 18 |  |
-| Phase transition | 1437.15 K | 1437.15 | Congruent: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 16 |  |
-| Phase transition | 1438.15 K | 1438.15 | Congruent: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 17 |  |
-| Phase transition | 1443.15 K | 1443.15 | Congruent: L -> Zn3P2; _L: P 0.004; Zn3P2: P 0.4_ | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 6 |  |
-| Phase transition | 1446.15 K | 1446.15 | Congruent: L -> Zn3P2; _L: P 0.004; Zn3P2: P 0.4_ | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 7 |  |
-| Phase transition | 1448.15 K | 1448.15 | Congruent: L -> Zn3P2; _L: P 0.004; Zn3P2: P 0.4_ | unspecified | [1] Liu 2016 | Table 5, p. 6, row 5 |  |
-| Phase transition | 1466.15 K | 1466.15 | Congruent: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 14 |  |
+| Phase transition | 1436.15 K | 1436.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 18 |  |
+| Phase transition | 1437.15 K | 1437.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 16 |  |
+| Phase transition | 1438.15 K | 1438.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 17 |  |
+| Phase transition | 1443.15 K | 1443.15 | congruent melting: L -> Zn3P2; _L: P 0.004; Zn3P2: P 0.4_ | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 6 |  |
+| Phase transition | 1446.15 K | 1446.15 | congruent melting: L -> Zn3P2; _L: P 0.004; Zn3P2: P 0.4_ | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 7 |  |
+| Phase transition | 1448.15 K | 1448.15 | congruent melting: L -> Zn3P2; _L: P 0.004; Zn3P2: P 0.4_ | unspecified | [1] Liu 2016 | Table 5, p. 6, row 5 |  |
+| Phase transition | 1466.15 K | 1466.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 14 |  |
 
 ### Formation (8)
 

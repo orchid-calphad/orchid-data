@@ -78,31 +78,31 @@ Table: Invariant reactions reported in the literature for the Ga–Pt system (25
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1634 | Eutectic: L -> fcc + GaPt3 | GaPt3: Pt 0.75 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 26 |  |
-| 1632 | Eutectic: L -> fcc + GaPt3 | GaPt3: Pt 0.75 | model | [1] Li 2006 | Table 1, p. 2, row 27 |  |
-| 1422 | Peritectic: L + GaPt3 -> GaPt2 | GaPt3: Pt 0.75; GaPt2: Pt 0.666667 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 24 |  |
-| 1421 | Peritectic: L + GaPt3 -> GaPt2 | GaPt3: Pt 0.75; GaPt2: Pt 0.666667 | model | [1] Li 2006 | Table 1, p. 2, row 25 |  |
-| 1415 | Peritectic: L + GaPt2 -> Ga3Pt5 | GaPt2: Pt 0.666667; Ga3Pt5: Pt 0.625 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 21 |  |
-| 1403 | Eutectic: L -> GaPt2 + Ga5Pt3 | GaPt2: Pt 0.666667; Ga5Pt3: Pt 0.375 | model | [1] Li 2006 | Table 1, p. 2, row 23 |  |
-| 1307 | Eutectic: L -> GaPt + Ga3Pt5 | GaPt: Pt 0.5; Ga3Pt5: Pt 0.625 | model | [1] Li 2006 | Table 1, p. 2, row 20 |  |
-| 1290 | Eutectic: L -> GaPt + Ga3Pt5 | GaPt: Pt 0.5; Ga3Pt5: Pt 0.625 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 19 |  |
-| 1210 | Peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 16 |  |
-| 1210 | Peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | model | [1] Li 2006 | Table 1, p. 2, row 18 |  |
-| 1195 | Peritectic: L + Ga3Pt2 -> Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 12 |  |
-| 1188 | Eutectic: L -> Ga3Pt2 + Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | model | [1] Li 2006 | Table 1, p. 2, row 15 |  |
-| 1153 | Peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 17 |  |
-| 1095 | Peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 6 |  |
-| 1095 | Peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | model | [1] Li 2006 | Table 1, p. 2, row 8 |  |
-| 1043 | Peritectic: L + Ga3Pt2 -> Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 13 |  |
-| 863 | Peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 7 |  |
-| 563 | Peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 4 |  |
-| 563 | Peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 5 |  |
-| 563 | Peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 3 |  |
-| 427 | Eutctoid: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | model | [1] Li 2006 | Table 1, p. 2, row 11 |  |
-| 426 | Eutctoid: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 9 |  |
-| 423 | Eutctoid: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 10 |  |
-| 303 | Eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 2 |  |
-| 301 | Eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 1 |  |
+| 1634 | eutectic: L -> fcc + GaPt3 | GaPt3: Pt 0.75 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 26 |  |
+| 1632 | eutectic: L -> fcc + GaPt3 | GaPt3: Pt 0.75 | model | [1] Li 2006 | Table 1, p. 2, row 27 |  |
+| 1422 | peritectic: L + GaPt3 -> GaPt2 | GaPt3: Pt 0.75; GaPt2: Pt 0.666667 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 24 |  |
+| 1421 | peritectic: L + GaPt3 -> GaPt2 | GaPt3: Pt 0.75; GaPt2: Pt 0.666667 | model | [1] Li 2006 | Table 1, p. 2, row 25 |  |
+| 1415 | peritectic: L + GaPt2 -> Ga3Pt5 | GaPt2: Pt 0.666667; Ga3Pt5: Pt 0.625 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 21 |  |
+| 1403 | eutectic: L -> GaPt2 + Ga5Pt3 | GaPt2: Pt 0.666667; Ga5Pt3: Pt 0.375 | model | [1] Li 2006 | Table 1, p. 2, row 23 |  |
+| 1307 | eutectic: L -> GaPt + Ga3Pt5 | GaPt: Pt 0.5; Ga3Pt5: Pt 0.625 | model | [1] Li 2006 | Table 1, p. 2, row 20 |  |
+| 1290 | eutectic: L -> GaPt + Ga3Pt5 | GaPt: Pt 0.5; Ga3Pt5: Pt 0.625 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 19 |  |
+| 1210 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 16 |  |
+| 1210 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | model | [1] Li 2006 | Table 1, p. 2, row 18 |  |
+| 1195 | peritectic: L + Ga3Pt2 -> Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 12 |  |
+| 1188 | eutectic: L -> Ga3Pt2 + Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | model | [1] Li 2006 | Table 1, p. 2, row 15 |  |
+| 1153 | peritectic: L + GaPt -> Ga3Pt2 | GaPt: Pt 0.5; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 17 |  |
+| 1095 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 6 |  |
+| 1095 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | model | [1] Li 2006 | Table 1, p. 2, row 8 |  |
+| 1043 | peritectic: L + Ga3Pt2 -> Ga2Pt | Ga3Pt2: Pt 0.4; Ga2Pt: Pt 0.333333 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 13 |  |
+| 863 | peritectic: L + Ga2Pt -> Ga7Pt3 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 7 |  |
+| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 4 |  |
+| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 5 |  |
+| 563 | peritectic: L + Ga7Pt3 -> Ga6Pt | Ga7Pt3: Pt 0.3; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 3 |  |
+| 427 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | model | [1] Li 2006 | Table 1, p. 2, row 11 |  |
+| 426 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 9 |  |
+| 423 | other: Ga2Pt -> Ga7Pt3 + Ga3Pt2 | Ga2Pt: Pt 0.333333; Ga7Pt3: Pt 0.3; Ga3Pt2: Pt 0.4 | experimental | [1] Li 2006; _cites Jain 1968_ | Table 1, p. 2, row 10 |  |
+| 303 | eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 2 |  |
+| 301 | eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 1 |  |
 
 ## Other properties
 
@@ -112,10 +112,10 @@ Table: Phase transition, Ga–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1195 K | 1195 | Congruent: L -> Ga2Pt; _L: Pt 0.333333; Ga2Pt: Pt 0.333333_ | model | [1] Li 2006 | Table 1, p. 2, row 14 |  |
-| Phase transition | 1405 K | 1405 | Congruent: L -> Ga3Pt5; _L: Pt 0.625; Ga3Pt5: Pt 0.625_ | model | [1] Li 2006 | Table 1, p. 2, row 22 |  |
-| Phase transition | 1647 K | 1647 | Congruent: L -> GaPt3; _L: Pt 0.75; GaPt3: Pt 0.75_ | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 28 |  |
-| Phase transition | 1649 K | 1649 | Congruent: L -> GaPt3; _L: Pt 0.75; GaPt3: Pt 0.75_ | model | [1] Li 2006 | Table 1, p. 2, row 29 |  |
+| Phase transition | 1195 K | 1195 | congruent melting: L -> Ga2Pt; _L: Pt 0.333333; Ga2Pt: Pt 0.333333_ | model | [1] Li 2006 | Table 1, p. 2, row 14 |  |
+| Phase transition | 1405 K | 1405 | congruent melting: L -> Ga3Pt5; _L: Pt 0.625; Ga3Pt5: Pt 0.625_ | model | [1] Li 2006 | Table 1, p. 2, row 22 |  |
+| Phase transition | 1647 K | 1647 | congruent melting: L -> GaPt3; _L: Pt 0.75; GaPt3: Pt 0.75_ | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 28 |  |
+| Phase transition | 1649 K | 1649 | congruent melting: L -> GaPt3; _L: Pt 0.75; GaPt3: Pt 0.75_ | model | [1] Li 2006 | Table 1, p. 2, row 29 |  |
 
 ## Sources
 

@@ -94,7 +94,7 @@ Table: Phase transition, Al–Yb system
 | Phase transition | 1633 K | 1633 | Liquid -> Al2Yb; _L: Yb 0.333333; Al2Yb: Yb 0.333333_ | experimental | [1] Meng 2008; _cites Palenzona 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990116-6) | Table 2, p. 3, row 9 |  |
 | Phase transition | 1633.15 K | 1633.15 | Al2Yb | experimental | [1] Meng 2008 | p. 2 | “The melting point of Al2 Yb was shown to be 1360 ◦ C, instead of 1450 ◦ C.” |
 | Phase transition | 1723 K | 1723 | Liquid -> Al2Yb; _L: Yb 0.333333; Al2Yb: Yb 0.333333_ | experimental | [1] Meng 2008; _cites Kulifeev 1971_ | Table 2, p. 3, row 10 |  |
-| Phase transition | 1723.15 K | 1723.15 | congruent | experimental | [1] Meng 2008 | p. 1 | “Al2 Yb was shown to melt congruently at 1450 ◦ C and Al3 Yb to decompose peritectically at 1065 ◦ C to the liquid phase and Al2 Yb.” |
+| Phase transition | 1723.15 K | 1723.15 | congruent transformation | experimental | [1] Meng 2008 | p. 1 | “Al2 Yb was shown to melt congruently at 1450 ◦ C and Al3 Yb to decompose peritectically at 1065 ◦ C to the liquid phase and Al2 Yb.” |
 
 ## Sources
 

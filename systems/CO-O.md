@@ -43,10 +43,10 @@ Table: Invariant reactions reported in the literature for the Co–O system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2208 | congruent melting point: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | experimental | [1] Chen 2003; _cites H 1931_ | Table 8, p. 12, row 7 |  |
-| 2103 | congruent melting point: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | experimental | [1] Chen 2003; _cites Chase 1985_ | Table 8, p. 12, row 9 |  |
-| 2097 | congruent melting point: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | model | [1] Chen 2003 | Table 8, p. 12, row 10 |  |
-| 2083 | congruent melting point: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | experimental | [1] Chen 2003; _cites H 1932_ | Table 8, p. 12, row 8 |  |
+| 2208 | congruent melting: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | experimental | [1] Chen 2003; _cites H 1931_ | Table 8, p. 12, row 7 |  |
+| 2103 | congruent melting: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | experimental | [1] Chen 2003; _cites Chase 1985_ | Table 8, p. 12, row 9 |  |
+| 2097 | congruent melting: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | model | [1] Chen 2003 | Table 8, p. 12, row 10 |  |
+| 2083 | congruent melting: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | experimental | [1] Chen 2003; _cites H 1932_ | Table 8, p. 12, row 8 |  |
 | 1766 | eutectic |  | model | [1] Chen 2003 | p. 12 | “The calculated eutectic point of Co-CoO is at T ⳱ 1766 K and xO ⳱ 0.0044, very close to the data from Jacob and Hajra \[1985Jac\].” |
 | 1766 | eutectic: L1 -> Co(fcc) + CoO | L1: O 0.0044 | model | [1] Chen 2003 | Table 8, p. 12, row 6 |  |
 | 1763 | eutectic |  | experimental | [1] Chen 2003; _cites Jacob 1985_ | p. 1 | “The most recently determined Co-CoO eutectic point, by Jacob and Hajra \[1985Jac\], is at T ⳱ 1763 K and xO ⳱ 0.0048.” |
@@ -103,10 +103,10 @@ Table: Phase transition, Co–O system
 | Phase transition | 1170 K | 1170 | other | experimental | [1] Chen 2003 | p. 1 | “Co3O4 decomposes at about 1170 K (in air), and CoO is stable up to its melting point, given as 2083 K \[1932War\] and 2103 K \[1985Cha\].” |
 | Phase transition | 1224 K | 1224 | other | model | [1] Chen 2003 | p. 12 | “For Co3O4, the calculated decomposition temperature is 1170 K in air and 1224 K in 1 bar oxygen, also agreeing well with the experimental data.” |
 | Phase transition | 1768 K | 1768 | α-Co + liquid | experimental | [1] Chen 2003 | p. 1 | “The melting point of ␣-Co is 1768 K.” |
-| Phase transition | 2083 K | 2083 | congruent | experimental | [1] Chen 2003; _cites H 1932_ | p. 1 | “The earliest measurement on the congruent melting point of CoO was done by Wartenberg and Gurr \[1931War\], giving a value of 2208 K, but it was soon corrected to 2083 K \[1932War\].” |
-| Phase transition | 2097 K | 2097 | congruent | model | [1] Chen 2003 | p. 12 | “The calculated congruent melting point of CoO is 2097 K, in reasonable agreement with the JANAF tables \[1985Cha\].” |
+| Phase transition | 2083 K | 2083 | congruent melting | experimental | [1] Chen 2003; _cites H 1932_ | p. 1 | “The earliest measurement on the congruent melting point of CoO was done by Wartenberg and Gurr \[1931War\], giving a value of 2208 K, but it was soon corrected to 2083 K \[1932War\].” |
+| Phase transition | 2097 K | 2097 | congruent transformation | model | [1] Chen 2003 | p. 12 | “The calculated congruent melting point of CoO is 2097 K, in reasonable agreement with the JANAF tables \[1985Cha\].” |
 | Phase transition | 2103 K | 2103 | CoO + liquid | experimental | [1] Chen 2003; _cites Chase 1985_ | p. 1 | “The JANAF tables \[1985Cha\] adopt 2103 ± 10 K as Tfus. for CoO based on the work of Coutures and Foëx \[1972Cou\].” |
-| Phase transition | 2208 K | 2208 | congruent | experimental | [1] Chen 2003; _cites H 1931_ | p. 1 | “The earliest measurement on the congruent melting point of CoO was done by Wartenberg and Gurr \[1931War\], giving a value of 2208 K, but it was soon corrected to 2083 K \[1932War\].” |
+| Phase transition | 2208 K | 2208 | congruent melting | experimental | [1] Chen 2003; _cites H 1931_ | p. 1 | “The earliest measurement on the congruent melting point of CoO was done by Wartenberg and Gurr \[1931War\], giving a value of 2208 K, but it was soon corrected to 2083 K \[1932War\].” |
 
 ### Heat capacity / entropy / enthalpy (8)
 

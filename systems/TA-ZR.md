@@ -46,7 +46,7 @@ Table: Phase transition, Ta–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2120 K | 2120 | liquidus | model | [1] Guillermet 1995 | p. 6 | “In particular, the minimum in the liquidus line, which is shown in Fig. 5, is placed by the calculation at 25.3wt. % ( 14.6at. %) Ta and 2120 K.” |
+| Phase transition | 2120 K | 2120 | other | model | [1] Guillermet 1995 | p. 6 | “In particular, the minimum in the liquidus line, which is shown in Fig. 5, is placed by the calculation at 25.3wt. % ( 14.6at. %) Ta and 2120 K.” |
 
 ## Sources
 

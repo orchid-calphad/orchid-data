@@ -47,9 +47,9 @@ Table: Invariant reactions reported in the literature for the Pb–Tl system (4)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 585 | peritectic |  | model | [1] Fries 2001 | p. 1 | “The bcc solid solution forms peritectically at 585 K from Tl-rich liquid and fcc phases and decomposes eutectoidally at about 453 K into Tl-rich fcc and hcp phases.” |
-| 585 | Peritectic: liquid+fcc⇌bcc | liquid: Tl 0.944; fcc: Tl 0.889; bcc: Tl 0.937 | model | [1] Fries 2001 | Table 4, p. 4, row 2 |  |
+| 585 | peritectic: liquid+fcc⇌bcc | liquid: Tl 0.944; fcc: Tl 0.889; bcc: Tl 0.937 | model | [1] Fries 2001 | Table 4, p. 4, row 2 |  |
 | 453 | eutectoid |  | model | [1] Fries 2001 | p. 1 | “The bcc solid solution forms peritectically at 585 K from Tl-rich liquid and fcc phases and decomposes eutectoidally at about 453 K into Tl-rich fcc and hcp phases.” |
-| 443.2 | Eutectoid: bcc⇌hcp+fcc | bcc: Tl 0.949; hcp: Tl 0.957; fcc: Tl 0.902 | model | [1] Fries 2001 | Table 4, p. 4, row 3 |  |
+| 443.2 | eutectoid: bcc⇌hcp+fcc | bcc: Tl 0.949; hcp: Tl 0.957; fcc: Tl 0.902 | model | [1] Fries 2001 | Table 4, p. 4, row 3 |  |
 
 ## Other properties
 
@@ -59,8 +59,8 @@ Table: Phase transition, Pb–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 651.1 K | 651.1 | Congruent: liquid⇌fcc; _liquid: Tl 0.625; fcc: Tl 0.625_ | model | [1] Fries 2001 | Table 4, p. 4, row 1 |  |
-| Phase transition | 653 K | 653 | congruent | model | [1] Fries 2001 | p. 1 | “The liquidus presents a maximum, where the fcc phase melts congruently at 653 K and x Tl 50.625.” |
+| Phase transition | 651.1 K | 651.1 | congruent melting: liquid⇌fcc; _liquid: Tl 0.625; fcc: Tl 0.625_ | model | [1] Fries 2001 | Table 4, p. 4, row 1 |  |
+| Phase transition | 653 K | 653 | congruent transformation | model | [1] Fries 2001 | p. 1 | “The liquidus presents a maximum, where the fcc phase melts congruently at 653 K and x Tl 50.625.” |
 
 ## Sources
 

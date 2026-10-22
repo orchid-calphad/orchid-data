@@ -27,10 +27,10 @@ Table: Invariant reactions reported in the literature for the Mo–Ni–V system
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1563.15 | U: U1: L + δ = fcc-(Ni) + bcc-(Mo,V) |  | experimental | [1] Pan 2018; _cites This_ | Table 4, p. 9, row 2 |  |
-| 1554.15 | U: U1: L + δ = fcc-(Ni) + bcc-(Mo,V) | L: Mo 0.255, Ni 0.651, V 0.094 | model | [1] Pan 2018 | Table 4, p. 9, row 1 |  |
-| 1503.15 | U: U2: L + bcc-(Mo,V) = fcc-(Ni) + σ |  | experimental | [1] Pan 2018; _cites This_ | Table 4, p. 9, row 4 |  |
-| 1496.15 | U: U2: L + bcc-(Mo,V) = fcc-(Ni) + σ | L: Mo 0.072, Ni 0.541, V 0.387 | model | [1] Pan 2018 | Table 4, p. 9, row 3 |  |
+| 1563.15 | quasi-peritectic: U1: L + δ = fcc-(Ni) + bcc-(Mo,V) |  | experimental | [1] Pan 2018; _cites This_ | Table 4, p. 9, row 2 |  |
+| 1554.15 | quasi-peritectic: U1: L + δ = fcc-(Ni) + bcc-(Mo,V) | L: Mo 0.255, Ni 0.651, V 0.094 | model | [1] Pan 2018 | Table 4, p. 9, row 1 |  |
+| 1503.15 | quasi-peritectic: U2: L + bcc-(Mo,V) = fcc-(Ni) + σ |  | experimental | [1] Pan 2018; _cites This_ | Table 4, p. 9, row 4 |  |
+| 1496.15 | quasi-peritectic: U2: L + bcc-(Mo,V) = fcc-(Ni) + σ | L: Mo 0.072, Ni 0.541, V 0.387 | model | [1] Pan 2018 | Table 4, p. 9, row 3 |  |
 
 ## Sources
 

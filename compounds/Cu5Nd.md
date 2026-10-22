@@ -1,22 +1,20 @@
 # Cu5Nd: enthalpy of formation
 
-> Enthalpy of formation of Cu5Nd: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Cu5Nd: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cu5Nd.html · Markdown: https://data.orchid-project.org/compounds/Cu5Nd.md
 
-4 accepted literature formation-enthalpy value(s) (model 2, DFT 2); Materials Project -15.243 kJ/mol-atom (mp-aaaaabrw); OQMD -15.768 kJ/mol-atom (oqmd-31351).
+2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -15.243 kJ/mol-atom (mp-aaaaabrw); OQMD -15.768 kJ/mol-atom (oqmd-31351).
 
 Systems: [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cu5Nd reported in the literature (4)
+Table: Enthalpy of formation of Cu5Nd reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15.704 kJ/mol-atom | Cu5Nd | 298 | model | CALPHAD | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011 | Table 2, p. 3, row 5 |  |
-| -15.704 kJ/mol-atom | Cu5Nd | 298 | model | CALPHAD | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011 | Table 2, p. 3, row 5 |  |
-| -15.846 kJ/mol-atom | Cu5Nd | 298 | DFT | DFT | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
 | -15.846 kJ/mol-atom | Cu5Nd | 298 | DFT | DFT | [Cu–Nd](https://data.orchid-project.org/systems/CU-ND.html) | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
 
 ## DFT formation energies

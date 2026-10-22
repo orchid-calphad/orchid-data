@@ -1,24 +1,21 @@
 # Ca2Ge: enthalpy of formation
 
-> Enthalpy of formation of Ca2Ge: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ca2Ge: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ca2Ge.html · Markdown: https://data.orchid-project.org/compounds/Ca2Ge.md
 
-6 accepted literature formation-enthalpy value(s) (model 4, DFT 2); Materials Project -59.236 kJ/mol-atom (mp-aaaaaals); OQMD -60.522 kJ/mol-atom (oqmd-7763).
+3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -59.236 kJ/mol-atom (mp-aaaaaals); OQMD -60.522 kJ/mol-atom (oqmd-7763).
 
 Systems: [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ca2Ge reported in the literature (6)
+Table: Enthalpy of formation of Ca2Ge reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -56.14 kJ/mol-atom | Ca2Ge | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 3 |  |
-| -56.14 kJ/mol-atom | Ca2Ge | 1000 | model | Miedema model | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites F 1988_ | Table 3, p. 5, row 3 |  |
 | -55.1 kJ/mol-atom | Ca2Ge | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 4 |  |
-| -55.1 kJ/mol-atom | Ca2Ge | 1000 | model | Optimized | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010 | Table 3, p. 5, row 4 |  |
-| -58.9 kJ/mol-atom | Ca2Ge | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 2 |  |
 | -58.9 kJ/mol-atom | Ca2Ge | 1000 | DFT | ab initio calcul | [Ca–Ge](https://data.orchid-project.org/systems/CA-GE.html) | [1] Djaballah 2010; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.jssc.2009.11.007) | Table 3, p. 5, row 2 |  |
 
 ## DFT formation energies

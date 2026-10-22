@@ -98,66 +98,66 @@ Table: Invariant reactions reported in the literature for the Mn–Zn system (60
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1118.15 | Peritectic: L + (δMn) ↔ ε | L: Zn 0.625; (δMn): Zn 0.46; ε: Zn 0.48 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 5 |  |
-| 1108.15 | Peritectic: L + (δMn) ↔ ε | L: Zn 0.62; (δMn): Zn 0.47; ε: Zn 0.5 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 1 |  |
-| 1097.15 | Peritectic: L + (δMn) ↔ ε | L: Zn 0.635; (δMn): Zn 0.446; ε: Zn 0.517 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 6 |  |
-| 1088.15 | Peritectic: L + (δMn) ↔ ε | L: Zn 0.658; (δMn): Zn 0.467; ε: Zn 0.544 | model | [1] Li 2021; _cites Miettinen 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.003) | Table 5, p. 9, row 3 |  |
-| 1088.15 | Peritectic: L + (δMn) ↔ ε | L: Zn 0.655; (δMn): Zn 0.481; ε: Zn 0.511 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 4 |  |
+| 1118.15 | peritectic: L + (δMn) ↔ ε | L: Zn 0.625; (δMn): Zn 0.46; ε: Zn 0.48 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 5 |  |
+| 1108.15 | peritectic: L + (δMn) ↔ ε | L: Zn 0.62; (δMn): Zn 0.47; ε: Zn 0.5 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 1 |  |
+| 1097.15 | peritectic: L + (δMn) ↔ ε | L: Zn 0.635; (δMn): Zn 0.446; ε: Zn 0.517 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 6 |  |
+| 1088.15 | peritectic: L + (δMn) ↔ ε | L: Zn 0.658; (δMn): Zn 0.467; ε: Zn 0.544 | model | [1] Li 2021; _cites Miettinen 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.003) | Table 5, p. 9, row 3 |  |
+| 1088.15 | peritectic: L + (δMn) ↔ ε | L: Zn 0.655; (δMn): Zn 0.481; ε: Zn 0.511 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 4 |  |
 | 1088.15 | bcc–hcp–liq | bcc: Zn 0.5; hcp: Zn 0.53; liq: Zn 0.66 | experimental | [2] Miettinen 2004; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 4, p. 5, row 1 |  |
-| 1088.15 | Peritectic: L + (δMn) ↔ ε | L: Zn 0.65; (δMn): Zn 0.5; ε: Zn 0.53 | experimental | [1] Li 2021; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 5, p. 9, row 2 |  |
+| 1088.15 | peritectic: L + (δMn) ↔ ε | L: Zn 0.65; (δMn): Zn 0.5; ε: Zn 0.53 | experimental | [1] Li 2021; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 5, p. 9, row 2 |  |
 | 1088.15 | bcc–hcp–liq | bcc: Zn 0.467; hcp: Zn 0.544; liq: Zn 0.658 | model | [2] Miettinen 2004 | Table 4, p. 5, row 2 |  |
-| 1084.15 | Peritectic: L + (δMn) ↔ ε | L: Zn 0.646; (δMn): Zn 0.454; ε: Zn 0.521 | model | [1] Li 2021 | Table 5, p. 9, row 7 |  |
-| 923.15 | Eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.4; (γMn): Zn 0.35 | experimental | [1] Li 2021; _cites Potter 1949_ | Table 5, p. 9, row 8 |  |
-| 906.15 | Eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.363; (γMn): Zn 0.347; ε: Zn 0.4 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 12 |  |
-| 900.15 | Eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.372; (γMn): Zn 0.32; ε: Zn 0.428 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 11 |  |
+| 1084.15 | peritectic: L + (δMn) ↔ ε | L: Zn 0.646; (δMn): Zn 0.454; ε: Zn 0.521 | model | [1] Li 2021 | Table 5, p. 9, row 7 |  |
+| 923.15 | eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.4; (γMn): Zn 0.35 | experimental | [1] Li 2021; _cites Potter 1949_ | Table 5, p. 9, row 8 |  |
+| 906.15 | eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.363; (γMn): Zn 0.347; ε: Zn 0.4 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 12 |  |
+| 900.15 | eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.372; (γMn): Zn 0.32; ε: Zn 0.428 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 11 |  |
 | 893.15 | fcc–bcc–hcp | fcc: Zn 0.34; bcc: Zn 0.375; hcp: Zn 0.42 | experimental | [2] Miettinen 2004; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 4, p. 5, row 3 |  |
-| 893.15 | Eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.38; (γMn): Zn 0.34; ε: Zn 0.42 | experimental | [1] Li 2021; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 5, p. 9, row 9 |  |
-| 892.15 | Eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.369; (γMn): Zn 0.345; ε: Zn 0.478 | model | [1] Li 2021; _cites Miettinen 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.003) | Table 5, p. 9, row 10 |  |
+| 893.15 | eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.38; (γMn): Zn 0.34; ε: Zn 0.42 | experimental | [1] Li 2021; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 5, p. 9, row 9 |  |
+| 892.15 | eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.369; (γMn): Zn 0.345; ε: Zn 0.478 | model | [1] Li 2021; _cites Miettinen 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.003) | Table 5, p. 9, row 10 |  |
 | 892.15 | fcc–bcc–hcp | fcc: Zn 0.345; bcc: Zn 0.369; hcp: Zn 0.478 | model | [2] Miettinen 2004 | Table 4, p. 5, row 4 |  |
-| 889.15 | Eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.375; (γMn): Zn 0.323; ε: Zn 0.46 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 13 |  |
-| 888.15 | Eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.375; (γMn): Zn 0.323; ε: Zn 0.419 | model | [1] Li 2021 | Table 5, p. 9, row 14 |  |
-| 827.15 | Eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.35; (βMn): Zn 0.18 | experimental | [1] Li 2021; _cites Potter 1949_ | Table 5, p. 9, row 15 |  |
-| 805.15 | Eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.357; (βMn): Zn 0.212; ε: Zn 0.427 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 19 |  |
+| 889.15 | eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.375; (γMn): Zn 0.323; ε: Zn 0.46 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 13 |  |
+| 888.15 | eutectoid: (δMn) ↔ (γMn) + ε | (δMn): Zn 0.375; (γMn): Zn 0.323; ε: Zn 0.419 | model | [1] Li 2021 | Table 5, p. 9, row 14 |  |
+| 827.15 | eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.35; (βMn): Zn 0.18 | experimental | [1] Li 2021; _cites Potter 1949_ | Table 5, p. 9, row 15 |  |
+| 805.15 | eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.357; (βMn): Zn 0.212; ε: Zn 0.427 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 19 |  |
 | 804.15 | cub–fcc–hcp | cub: Zn 0.253; fcc: Zn 0.322; hcp: Zn 0.47 | model | [2] Miettinen 2004 | Table 4, p. 5, row 6 |  |
-| 804.15 | Eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.322; (βMn): Zn 0.253; ε: Zn 0.47 | model | [1] Li 2021; _cites Miettinen 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.003) | Table 5, p. 9, row 17 |  |
+| 804.15 | eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.322; (βMn): Zn 0.253; ε: Zn 0.47 | model | [1] Li 2021; _cites Miettinen 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.003) | Table 5, p. 9, row 17 |  |
 | 803.15 | cub–fcc–hcp | cub: Zn 0.24; fcc: Zn 0.31; hcp: Zn 0.46 | experimental | [2] Miettinen 2004; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 4, p. 5, row 5 |  |
-| 803.15 | Eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.31; (βMn): Zn 0.25; ε: Zn 0.46 | experimental | [1] Li 2021; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 5, p. 9, row 16 |  |
-| 803.15 | Eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.338; (βMn): Zn 0.224; ε: Zn 0.477 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 18 |  |
-| 801.15 | Eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.322; (βMn): Zn 0.298; ε: Zn 0.477 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 20 |  |
-| 790.15 | Eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.301; (βMn): Zn 0.325; ε: Zn 0.448 | model | [1] Li 2021 | Table 5, p. 9, row 21 |  |
-| 755.15 | Peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.951; ε: Zn 0.832; δ-MnZn9_HT: Zn 0.889 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 49 |  |
-| 753.15 | Peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.955; ε: Zn 0.84; δ-MnZn9_HT: Zn 0.894 | model | [1] Li 2021 | Table 5, p. 9, row 50 |  |
-| 740.15 | Peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.97; ε: Zn 0.863; δ-MnZn9_HT: Zn 0.883 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 48 |  |
+| 803.15 | eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.31; (βMn): Zn 0.25; ε: Zn 0.46 | experimental | [1] Li 2021; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 5, p. 9, row 16 |  |
+| 803.15 | eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.338; (βMn): Zn 0.224; ε: Zn 0.477 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 18 |  |
+| 801.15 | eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.322; (βMn): Zn 0.298; ε: Zn 0.477 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 20 |  |
+| 790.15 | eutectoid: (γMn) ↔ (βMn) + ε | (γMn): Zn 0.301; (βMn): Zn 0.325; ε: Zn 0.448 | model | [1] Li 2021 | Table 5, p. 9, row 21 |  |
+| 755.15 | peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.951; ε: Zn 0.832; δ-MnZn9_HT: Zn 0.889 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 49 |  |
+| 753.15 | peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.955; ε: Zn 0.84; δ-MnZn9_HT: Zn 0.894 | model | [1] Li 2021 | Table 5, p. 9, row 50 |  |
+| 740.15 | peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.97; ε: Zn 0.863; δ-MnZn9_HT: Zn 0.883 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 48 |  |
 | 736.15 | hcp–liq–MnZn9 | hcp: Zn 0.827; liq: Zn 0.964; MnZn9: Zn 0.9 | model | [2] Miettinen 2004 | Table 4, p. 5, row 8 |  |
-| 736.15 | Peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.964; ε: Zn 0.827; δ-MnZn9_HT: Zn 0.9 | model | [1] Li 2021; _cites Miettinen 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.003) | Table 5, p. 9, row 46 |  |
-| 735.15 | Peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.974; ε: Zn 0.87; δ-MnZn9_HT: Zn 0.9 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 47 |  |
-| 735.15 | Peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.963; ε: Zn 0.886; δ-MnZn9_HT: Zn 0.9 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 44 |  |
+| 736.15 | peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.964; ε: Zn 0.827; δ-MnZn9_HT: Zn 0.9 | model | [1] Li 2021; _cites Miettinen 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.09.003) | Table 5, p. 9, row 46 |  |
+| 735.15 | peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.974; ε: Zn 0.87; δ-MnZn9_HT: Zn 0.9 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 47 |  |
+| 735.15 | peritectic: Liquid + ε ↔ δ-MnZn9_HT | Liquid: Zn 0.963; ε: Zn 0.886; δ-MnZn9_HT: Zn 0.9 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 44 |  |
 | 735.15 | hcp–liq–MnZn9 | hcp: Zn 0.88; liq: Zn 0.96; MnZn9: Zn 0.9 | experimental | [2] Miettinen 2004; _cites Romer 1971_ [doi](https://doi.org/10.1515/ijmr-1971-621112) | Table 4, p. 5, row 7 |  |
-| 735.15 | Peritectic: Liquid + ε ↔ δ-MnZn9_HT | ε: Zn 0.885; δ-MnZn9_HT: Zn 0.9 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 45 |  |
-| 722.15 | Peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | Liquid: Zn 0.974; δ-MnZn9_HT: Zn 0.899; ζ-MnZn13: Zn 0.921 | model | [1] Li 2021 | Table 5, p. 9, row 55 |  |
-| 713.15 | Peritectiod: δ-MnZn9_HT + ζ-MnZn13 ↔ δ1-MnZn9 | δ-MnZn9_HT: Zn 0.889; ζ-MnZn13: Zn 0.907; δ1-MnZn9: Zn 0.893 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 58 |  |
-| 706.15 | Peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | Liquid: Zn 0.987; δ-MnZn9_HT: Zn 0.896; ζ-MnZn13: Zn 0.93 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 54 |  |
-| 703.15 | Peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | δ-MnZn9_HT: Zn 0.905; ζ-MnZn13: Zn 0.92 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 52 |  |
-| 701.15 | Peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | Liquid: Zn 0.987; δ-MnZn9_HT: Zn 0.9; ζ-MnZn13: Zn 0.929 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 53 |  |
-| 701.15 | Peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | Liquid: Zn 0.981; δ-MnZn9_HT: Zn 0.906; ζ-MnZn13: Zn 0.927 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 51 |  |
-| 698.15 | Peritectiod: δ-MnZn9_HT + ζ-MnZn13 ↔ δ1-MnZn9 | δ-MnZn9_HT: Zn 0.895; ζ-MnZn13: Zn 0.93; δ1-MnZn9: Zn 0.9 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 57 |  |
-| 697.15 | Peritectiod: δ-MnZn9_HT + ζ-MnZn13 ↔ δ1-MnZn9 | δ-MnZn9_HT: Zn 0.906; ζ-MnZn13: Zn 0.926; δ1-MnZn9: Zn 0.908 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 56 |  |
-| 691.15 | Eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.993; ζ-MnZn13: Zn 0.875; (Zn): Zn 1 | experimental | [1] Li 2021; _cites Parravano 1915_ | Table 5, p. 9, row 60 |  |
-| 691.15 | Eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.989; ζ-MnZn13: Zn 0.922; (Zn): Zn 0.999 | model | [1] Li 2021 | Table 5, p. 9, row 66 |  |
-| 689.15 | Eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.986; ζ-MnZn13: Zn 0.929; (Zn): Zn 0.994 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 63 |  |
-| 689.15 | Eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | ζ-MnZn13: Zn 0.928571 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 64 |  |
-| 689.15 | Eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.99; ζ-MnZn13: Zn 0.872; (Zn): Zn 1 | experimental | [1] Li 2021; _cites Siebe 1919_ [doi](https://doi.org/10.1002/zaac.19191080113) | Table 5, p. 9, row 61 |  |
-| 688.15 | Eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.991; ζ-MnZn13: Zn 0.919; (Zn): Zn 0.999 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 65 |  |
-| 688.15 | Eutectoid: δ-MnZn9_HT ↔ ε + δ1-MnZn9 | δ-MnZn9_HT: Zn 0.886; ε: Zn 0.87; δ1-MnZn9: Zn 0.889 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 38 |  |
-| 687.15 | Eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.995; ζ-MnZn13: Zn 0.9; (Zn): Zn 1 | experimental | [1] Li 2021; _cites Ackermann 1927_ [doi](https://doi.org/10.1515/ijmr-1927-191-1272) | Table 5, p. 9, row 62 |  |
-| 679.15 | Eutectoid: δ-MnZn9_HT ↔ ε + δ1-MnZn9 | δ-MnZn9_HT: Zn 0.896; ε: Zn 0.844; δ1-MnZn9: Zn 0.898 | model | [1] Li 2021 | Table 5, p. 9, row 40 |  |
-| 679.15 | Peritectiod: δ-MnZn9_HT + ζ-MnZn13 ↔ δ1-MnZn9 | δ-MnZn9_HT: Zn 0.896; ζ-MnZn13: Zn 0.919; δ1-MnZn9: Zn 0.899 | model | [1] Li 2021 | Table 5, p. 9, row 59 |  |
-| 672.15 | Eutectoid: ε ↔ γ-Mn5Zn8 + δ1-MnZn9 | ε: Zn 0.8402; γ-Mn5Zn8: Zn 0.819; δ1-MnZn9: Zn 0.898 | model | [1] Li 2021 | Table 5, p. 9, row 43 |  |
-| 653.15 | Eutectoid: δ-MnZn9_HT ↔ ε + δ1-MnZn9 | δ-MnZn9_HT: Zn 0.865; ε: Zn 0.855; δ1-MnZn9: Zn 0.88 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 39 |  |
-| 623.15 | Eutectoid: ε ↔ γ-Mn5Zn8 + δ1-MnZn9 | ε: Zn 0.85; γ-Mn5Zn8: Zn 0.84; δ1-MnZn9: Zn 0.88 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 42 |  |
-| 623.15 | Eutectoid: ε ↔ γ-Mn5Zn8 + δ1-MnZn9 | ε: Zn 0.856; γ-Mn5Zn8: Zn 0.844; δ1-MnZn9: Zn 0.889 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 41 |  |
-| 575.15 | Eutectoid: (βMn) ↔ ε + (αMn) | (βMn): Zn 0.271; ε: Zn 0.577; (αMn): Zn 0.0145 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 22 |  |
-| 568.15 | Eutectoid: (βMn) ↔ ε + (αMn) | (βMn): Zn 0.585; ε: Zn 0.278; (αMn): Zn 0.0145 | model | [1] Li 2021 | Table 5, p. 9, row 23 |  |
+| 735.15 | peritectic: Liquid + ε ↔ δ-MnZn9_HT | ε: Zn 0.885; δ-MnZn9_HT: Zn 0.9 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 45 |  |
+| 722.15 | peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | Liquid: Zn 0.974; δ-MnZn9_HT: Zn 0.899; ζ-MnZn13: Zn 0.921 | model | [1] Li 2021 | Table 5, p. 9, row 55 |  |
+| 713.15 | peritectoid: δ-MnZn9_HT + ζ-MnZn13 ↔ δ1-MnZn9 | δ-MnZn9_HT: Zn 0.889; ζ-MnZn13: Zn 0.907; δ1-MnZn9: Zn 0.893 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 58 |  |
+| 706.15 | peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | Liquid: Zn 0.987; δ-MnZn9_HT: Zn 0.896; ζ-MnZn13: Zn 0.93 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 54 |  |
+| 703.15 | peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | δ-MnZn9_HT: Zn 0.905; ζ-MnZn13: Zn 0.92 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 52 |  |
+| 701.15 | peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | Liquid: Zn 0.987; δ-MnZn9_HT: Zn 0.9; ζ-MnZn13: Zn 0.929 | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 53 |  |
+| 701.15 | peritectic: Liquid + δ-MnZn9_HT ↔ ζ-MnZn13 | Liquid: Zn 0.981; δ-MnZn9_HT: Zn 0.906; ζ-MnZn13: Zn 0.927 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 51 |  |
+| 698.15 | peritectoid: δ-MnZn9_HT + ζ-MnZn13 ↔ δ1-MnZn9 | δ-MnZn9_HT: Zn 0.895; ζ-MnZn13: Zn 0.93; δ1-MnZn9: Zn 0.9 | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 57 |  |
+| 697.15 | peritectoid: δ-MnZn9_HT + ζ-MnZn13 ↔ δ1-MnZn9 | δ-MnZn9_HT: Zn 0.906; ζ-MnZn13: Zn 0.926; δ1-MnZn9: Zn 0.908 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 56 |  |
+| 691.15 | eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.993; ζ-MnZn13: Zn 0.875; (Zn): Zn 1 | experimental | [1] Li 2021; _cites Parravano 1915_ | Table 5, p. 9, row 60 |  |
+| 691.15 | eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.989; ζ-MnZn13: Zn 0.922; (Zn): Zn 0.999 | model | [1] Li 2021 | Table 5, p. 9, row 66 |  |
+| 689.15 | eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.986; ζ-MnZn13: Zn 0.929; (Zn): Zn 0.994 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 63 |  |
+| 689.15 | eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | ζ-MnZn13: Zn 0.928571 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 64 |  |
+| 689.15 | eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.99; ζ-MnZn13: Zn 0.872; (Zn): Zn 1 | experimental | [1] Li 2021; _cites Siebe 1919_ [doi](https://doi.org/10.1002/zaac.19191080113) | Table 5, p. 9, row 61 |  |
+| 688.15 | eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.991; ζ-MnZn13: Zn 0.919; (Zn): Zn 0.999 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 65 |  |
+| 688.15 | eutectoid: δ-MnZn9_HT ↔ ε + δ1-MnZn9 | δ-MnZn9_HT: Zn 0.886; ε: Zn 0.87; δ1-MnZn9: Zn 0.889 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 38 |  |
+| 687.15 | eutectic: Liquid ↔ ζ-MnZn13 + (Zn) | Liquid: Zn 0.995; ζ-MnZn13: Zn 0.9; (Zn): Zn 1 | experimental | [1] Li 2021; _cites Ackermann 1927_ [doi](https://doi.org/10.1515/ijmr-1927-191-1272) | Table 5, p. 9, row 62 |  |
+| 679.15 | eutectoid: δ-MnZn9_HT ↔ ε + δ1-MnZn9 | δ-MnZn9_HT: Zn 0.896; ε: Zn 0.844; δ1-MnZn9: Zn 0.898 | model | [1] Li 2021 | Table 5, p. 9, row 40 |  |
+| 679.15 | peritectoid: δ-MnZn9_HT + ζ-MnZn13 ↔ δ1-MnZn9 | δ-MnZn9_HT: Zn 0.896; ζ-MnZn13: Zn 0.919; δ1-MnZn9: Zn 0.899 | model | [1] Li 2021 | Table 5, p. 9, row 59 |  |
+| 672.15 | eutectoid: ε ↔ γ-Mn5Zn8 + δ1-MnZn9 | ε: Zn 0.8402; γ-Mn5Zn8: Zn 0.819; δ1-MnZn9: Zn 0.898 | model | [1] Li 2021 | Table 5, p. 9, row 43 |  |
+| 653.15 | eutectoid: δ-MnZn9_HT ↔ ε + δ1-MnZn9 | δ-MnZn9_HT: Zn 0.865; ε: Zn 0.855; δ1-MnZn9: Zn 0.88 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 39 |  |
+| 623.15 | eutectoid: ε ↔ γ-Mn5Zn8 + δ1-MnZn9 | ε: Zn 0.85; γ-Mn5Zn8: Zn 0.84; δ1-MnZn9: Zn 0.88 | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 42 |  |
+| 623.15 | eutectoid: ε ↔ γ-Mn5Zn8 + δ1-MnZn9 | ε: Zn 0.856; γ-Mn5Zn8: Zn 0.844; δ1-MnZn9: Zn 0.889 | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 41 |  |
+| 575.15 | eutectoid: (βMn) ↔ ε + (αMn) | (βMn): Zn 0.271; ε: Zn 0.577; (αMn): Zn 0.0145 | model | [1] Li 2021; _cites Li 2020_ [doi](https://doi.org/10.1016/j.calphad.2020.101770) | Table 5, p. 9, row 22 |  |
+| 568.15 | eutectoid: (βMn) ↔ ε + (αMn) | (βMn): Zn 0.585; ε: Zn 0.278; (αMn): Zn 0.0145 | model | [1] Li 2021 | Table 5, p. 9, row 23 |  |
 
 ## Other properties
 
@@ -167,11 +167,11 @@ Table: Phase transition, Mn–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 673.15 K | 673.15 | Congruent: ε ↔ γ-Mn5Zn8; _ε: Zn 0.808; γ-Mn5Zn8: Zn 0.808_ | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 33 |  |
-| Phase transition | 684.15 K | 684.15 | Congruent: ε ↔ γ-Mn5Zn8; _ε: Zn 0.81; γ-Mn5Zn8: Zn 0.81_ | model | [1] Li 2021 | Table 5, p. 9, row 37 |  |
-| Phase transition | 686.15 K | 686.15 | Congruent: ε ↔ γ-Mn5Zn8; _ε: Zn 0.816; γ-Mn5Zn8: Zn 0.816_ | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 35 |  |
-| Phase transition | 693.15 K | 693.15 | Congruent: ε ↔ γ-Mn5Zn8; _ε: Zn 0.615385; γ-Mn5Zn8: Zn 0.615385_ | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 34 |  |
-| Phase transition | 694.15 K | 694.15 | Congruent: ε ↔ γ-Mn5Zn8; _ε: Zn 0.807; γ-Mn5Zn8: Zn 0.807_ | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 36 |  |
+| Phase transition | 673.15 K | 673.15 | congruent transformation: ε ↔ γ-Mn5Zn8; _ε: Zn 0.808; γ-Mn5Zn8: Zn 0.808_ | experimental | [1] Li 2021; _cites Schramm 1940_ [doi](https://doi.org/10.1515/ijmr-1940-321201) | Table 5, p. 9, row 33 |  |
+| Phase transition | 684.15 K | 684.15 | congruent transformation: ε ↔ γ-Mn5Zn8; _ε: Zn 0.81; γ-Mn5Zn8: Zn 0.81_ | model | [1] Li 2021 | Table 5, p. 9, row 37 |  |
+| Phase transition | 686.15 K | 686.15 | congruent transformation: ε ↔ γ-Mn5Zn8; _ε: Zn 0.816; γ-Mn5Zn8: Zn 0.816_ | model | [1] Li 2021; _cites Khan 2009_ | Table 5, p. 9, row 35 |  |
+| Phase transition | 693.15 K | 693.15 | congruent transformation: ε ↔ γ-Mn5Zn8; _ε: Zn 0.615385; γ-Mn5Zn8: Zn 0.615385_ | experimental | [1] Li 2021; _cites Wachtel 1967_ [doi](https://doi.org/10.1515/ijmr-1967-580108) | Table 5, p. 9, row 34 |  |
+| Phase transition | 694.15 K | 694.15 | congruent transformation: ε ↔ γ-Mn5Zn8; _ε: Zn 0.807; γ-Mn5Zn8: Zn 0.807_ | model | [1] Li 2021; _cites Ghosh 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.01.008) | Table 5, p. 9, row 36 |  |
 
 ### Phase equilibrium (20)
 

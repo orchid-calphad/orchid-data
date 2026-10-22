@@ -28,26 +28,26 @@ Table: Invariant reactions reported in the literature for the Au–Bi–Sb syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 740 | p: L + (Sb) -> AuSb2 | L: Au 0.345 | model | [1] Wang 2007; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table I, p. 3, row 18 |  |
-| 651 | p: L + (Au) -> Au2Bi | L: Bi 0.681 | model | [1] Wang 2007 | Table I, p. 3, row 7 |  |
-| 651 | p: L + (Au) -> Au2Bi | L: Bi 0.666 | unspecified | [1] Wang 2007; _cites Evans 1983_ | Table I, p. 3, row 3 |  |
-| 651 | p: L + (Au) -> Au2Bi |  | experimental | [1] Wang 2007; _cites Zoro 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.02.012) | Table I, p. 3, row 4 |  |
-| 647.8 | p: L + (Au) -> Au2Bi | L: Bi 0.667 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 6 |  |
-| 646 | p: L + (Au) -> Au2Bi | L: Bi 0.68 | experimental | [1] Wang 2007; _cites Gather 1975_ | Table I, p. 3, row 2 |  |
-| 644 | p: L + (Au) -> Au2Bi | L: Bi 0.678 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 5 |  |
-| 644 | p: L + (Au) -> Au2Bi | L: Bi 0.669 | experimental | [1] Wang 2007; _cites Nathans 1962_ [doi](https://doi.org/10.1021/j100816a043) | Table I, p. 3, row 1 |  |
-| 626 | e: L -> (Au) + AuSb2 | L: Au 0.634 | model | [1] Wang 2007; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table I, p. 3, row 19 |  |
-| 562 | U: L + (Au) -> Au2Bi + AuSb2 | L: Au 0.455, Bi 0.336 | model | [1] Wang 2007 | Table I, p. 3, row 21 |  |
-| 561 | U: L + (Au) -> Au2Bi + AuSb2 | L: Au 0.49, Bi 0.28 | unspecified | [1] Wang 2007; _cites Gather 1981_ | Table I, p. 3, row 20 |  |
-| 515.1 | e: L -> Au2Bi + (Bi) |  | experimental | [1] Wang 2007; _cites Zoro 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.02.012) | Table I, p. 3, row 11 |  |
-| 514.4 | e: L -> Au2Bi + (Bi) | L: Bi 0.868 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 13 |  |
-| 514.1 | e: L -> Au2Bi + (Bi) | L: Bi 0.868 | experimental | [1] Wang 2007; _cites Nathans 1962_ [doi](https://doi.org/10.1021/j100816a043) | Table I, p. 3, row 8 |  |
-| 514 | e: L -> Au2Bi + (Bi) | L: Bi 0.85 | experimental | [1] Wang 2007; _cites Gather 1975_ | Table I, p. 3, row 9 |  |
-| 514 | e: L -> Au2Bi + (Bi) | L: Bi 0.863 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 12 |  |
-| 514 | e: L -> Au2Bi + (Bi) | L: Bi 0.864 | unspecified | [1] Wang 2007; _cites Evans 1983_ | Table I, p. 3, row 10 |  |
-| 512.9 | e: L -> Au2Bi + (Bi) | L: Bi 0.867 | model | [1] Wang 2007 | Table I, p. 3, row 14 |  |
-| 512 | E: L -> Au2Bi + AuSb2 + (Bi) | L: Au 0.167, Bi 0.787 | model | [1] Wang 2007 | Table I, p. 3, row 23 |  |
-| 511 | E: L -> Au2Bi + AuSb2 + (Bi) | L: Au 0.183, Bi 0.735 | unspecified | [1] Wang 2007; _cites Gather 1981_ | Table I, p. 3, row 22 |  |
+| 740 | peritectic: L + (Sb) -> AuSb2 | L: Au 0.345 | model | [1] Wang 2007; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table I, p. 3, row 18 |  |
+| 651 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.681 | model | [1] Wang 2007 | Table I, p. 3, row 7 |  |
+| 651 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.666 | unspecified | [1] Wang 2007; _cites Evans 1983_ | Table I, p. 3, row 3 |  |
+| 651 | peritectic: L + (Au) -> Au2Bi |  | experimental | [1] Wang 2007; _cites Zoro 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.02.012) | Table I, p. 3, row 4 |  |
+| 647.8 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.667 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 6 |  |
+| 646 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.68 | experimental | [1] Wang 2007; _cites Gather 1975_ | Table I, p. 3, row 2 |  |
+| 644 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.678 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 5 |  |
+| 644 | peritectic: L + (Au) -> Au2Bi | L: Bi 0.669 | experimental | [1] Wang 2007; _cites Nathans 1962_ [doi](https://doi.org/10.1021/j100816a043) | Table I, p. 3, row 1 |  |
+| 626 | eutectic: L -> (Au) + AuSb2 | L: Au 0.634 | model | [1] Wang 2007; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table I, p. 3, row 19 |  |
+| 562 | quasi-peritectic: L + (Au) -> Au2Bi + AuSb2 | L: Au 0.455, Bi 0.336 | model | [1] Wang 2007 | Table I, p. 3, row 21 |  |
+| 561 | quasi-peritectic: L + (Au) -> Au2Bi + AuSb2 | L: Au 0.49, Bi 0.28 | unspecified | [1] Wang 2007; _cites Gather 1981_ | Table I, p. 3, row 20 |  |
+| 515.1 | eutectic: L -> Au2Bi + (Bi) |  | experimental | [1] Wang 2007; _cites Zoro 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.02.012) | Table I, p. 3, row 11 |  |
+| 514.4 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.868 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 13 |  |
+| 514.1 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.868 | experimental | [1] Wang 2007; _cites Nathans 1962_ [doi](https://doi.org/10.1021/j100816a043) | Table I, p. 3, row 8 |  |
+| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.85 | experimental | [1] Wang 2007; _cites Gather 1975_ | Table I, p. 3, row 9 |  |
+| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.863 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 12 |  |
+| 514 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.864 | unspecified | [1] Wang 2007; _cites Evans 1983_ | Table I, p. 3, row 10 |  |
+| 512.9 | eutectic: L -> Au2Bi + (Bi) | L: Bi 0.867 | model | [1] Wang 2007 | Table I, p. 3, row 14 |  |
+| 512 | eutectic: L -> Au2Bi + AuSb2 + (Bi) | L: Au 0.167, Bi 0.787 | model | [1] Wang 2007 | Table I, p. 3, row 23 |  |
+| 511 | eutectic: L -> Au2Bi + AuSb2 + (Bi) | L: Au 0.183, Bi 0.735 | unspecified | [1] Wang 2007; _cites Gather 1981_ | Table I, p. 3, row 22 |  |
 | 389 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | experimental | [1] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table I, p. 3, row 16 |  |
 | 382.7 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | model | [1] Wang 2007; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table I, p. 3, row 15 |  |
 | 375 | Au2Bi -> (Au) + (Bi) | L: Bi 0.333 | model | [1] Wang 2007 | Table I, p. 3, row 17 |  |

@@ -65,7 +65,7 @@ Table: Phase transition, Al–O system
 | Phase transition | 933.47 K | 933.47 | Al(l) = Al(fcc); _Al(l): O 0_ | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 3 |  |
 | Phase transition | 2327 K | 2327 |  | experimental | [1] Taylor 1992; _cites ref. 86_ | p. 4 | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
 | Phase transition | 2327 K | 2327 | Al2O3(l) = Al2O3(cor); _Al2O3(l): O 0.6_ | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 4 |  |
-| Phase transition | 2327 K | 2327 | congruent | experimental | [1] Taylor 1992; _cites ref. 85_ | p. 2 | “The phase diagtam is charactctised by a compound AhO, which melts congruently at 2327 K and crystalliscs in the corundum structum (sapphire).” |
+| Phase transition | 2327 K | 2327 | congruent transformation | experimental | [1] Taylor 1992; _cites ref. 85_ | p. 2 | “The phase diagtam is charactctised by a compound AhO, which melts congruently at 2327 K and crystalliscs in the corundum structum (sapphire).” |
 | Phase transition | 2329 K | 2329 |  | model | [2] Li 2023 | p. 6 | “The melting point of Al2O3 calculated in the present work was 2329 K.” |
 
 ## Sources

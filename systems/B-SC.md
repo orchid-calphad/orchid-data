@@ -1,10 +1,10 @@
 # B–Sc system
 
-> B–Sc system: 45 accepted literature values (crystal structure 21, invariant reaction 14, phase transition 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Sc system: 44 accepted literature values (crystal structure 20, invariant reaction 14, phase transition 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-SC.html · Markdown: https://data.orchid-project.org/systems/B-SC.md
 
-45 accepted literature values from 2 paper(s) (experimental 8, model 14, unspecified 23); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+44 accepted literature values from 2 paper(s) (experimental 8, model 14, unspecified 22); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-SC.json) · [CSV](https://data.orchid-project.org/systems/B-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-SC) · [Markdown](https://data.orchid-project.org/systems/B-SC.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 8 |
 | model | 14 |
-| unspecified | 23 |
+| unspecified | 22 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 14 |
 | phase transition | 10 |
-| crystal structure | 21 |
+| crystal structure | 20 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-SC.json) · [CALPHAD hull ScB-90Spe-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-SC--ScB-90Spe-LB.json)
 
@@ -32,20 +32,20 @@ Table: Invariant reactions reported in the literature for the B–Sc system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2523.15 | Congruent: L -> ScB2 | ScB2: B 0.67 | unspecified | [1] Spear 1990; _cites ref. 60Sam_ | Table I, p. 1, row 4 |  |
-| 2365.15 | Melting point: L -> βB | βB: B 1 | model | [1] Spear 1990 | Table I, p. 1, row 8 |  |
-| 2313.15 | Congruent: L -> ScB12 | ScB12: B 0.92 | experimental | [1] Spear 1990; _cites Peshev 1976_ | Table I, p. 1, row 6 |  |
-| 2279.05 | Eutectic: L -> βB + ScB12 | L: B 0.959; βB: B 0.984; ScB12: B 0.923 | model | [2] Liu 2009 | Table 5, p. 5, row 4 |  |
-| 2276.15 | Eutectic: L -> ScB12 + (βB) | L: B 0.96; ScB12: B 0.92; (βB): B 0.965 | model | [1] Spear 1990 | Table I, p. 1, row 7 |  |
-| 2276.15 | Eutectic: L -> βB + ScB12 | L: B 0.96; βB: B 0.965; ScB12: B 0.923 | unspecified | [2] Liu 2009; _cites Callmer 1978_ [doi](https://doi.org/10.1016/0022-4596%2878%2990089-0) | Table 5, p. 5, row 3 |  |
-| 2150.15 | Eutectic: L -> ScB2 + ScB12 | L: B 0.83; ScB2: B 0.667; ScB12: B 0.923 | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 7 |  |
-| 2150.15 | Eutectic: L -> ScB2 + ScB12 | L: B 0.83; ScB2: B 0.67; ScB12: B 0.92 | model | [1] Spear 1990 | Table I, p. 1, row 5 |  |
-| 2144.75 | Eutectic: L -> ScB2 + ScB12 | L: B 0.831; ScB2: B 0.667; ScB12: B 0.923 | model | [2] Liu 2009 | Table 5, p. 5, row 8 |  |
-| 1814.15 | Melting point: L -> βSc | βSc: B 0 | model | [1] Spear 1990 | Table I, p. 1, row 1 |  |
-| 1610.15 | Allotropic: βSc -> αSc | αSc: B 0 | model | [1] Spear 1990 | Table I, p. 1, row 2 |  |
-| 1551.05 | Eutectic: L -> ScB2 + αSc | L: B 0.176; ScB2: B 0.667; αSc: B 0 | model | [2] Liu 2009 | Table 5, p. 5, row 12 |  |
-| 1550.15 | Eutectic: L -> ScB2 + αSc | L: B 0.17; ScB2: B 0.667; αSc: B 0 | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 11 |  |
-| 1550.15 | Eutectic: L -> (αSc) + ScB2 | L: B 0.17; ScB2: B 0.67 | model | [1] Spear 1990 | Table I, p. 1, row 3 |  |
+| 2523.15 | congruent melting: L -> ScB2 | ScB2: B 0.67 | unspecified | [1] Spear 1990; _cites ref. 60Sam_ | Table I, p. 1, row 4 |  |
+| 2365.15 | congruent melting: L -> βB | βB: B 1 | model | [1] Spear 1990 | Table I, p. 1, row 8 |  |
+| 2313.15 | congruent melting: L -> ScB12 | ScB12: B 0.92 | experimental | [1] Spear 1990; _cites Peshev 1976_ | Table I, p. 1, row 6 |  |
+| 2279.05 | eutectic: L -> βB + ScB12 | L: B 0.959; βB: B 0.984; ScB12: B 0.923 | model | [2] Liu 2009 | Table 5, p. 5, row 4 |  |
+| 2276.15 | eutectic: L -> ScB12 + (βB) | L: B 0.96; ScB12: B 0.92; (βB): B 0.965 | model | [1] Spear 1990 | Table I, p. 1, row 7 |  |
+| 2276.15 | eutectic: L -> βB + ScB12 | L: B 0.96; βB: B 0.965; ScB12: B 0.923 | unspecified | [2] Liu 2009; _cites Callmer 1978_ [doi](https://doi.org/10.1016/0022-4596%2878%2990089-0) | Table 5, p. 5, row 3 |  |
+| 2150.15 | eutectic: L -> ScB2 + ScB12 | L: B 0.83; ScB2: B 0.667; ScB12: B 0.923 | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 7 |  |
+| 2150.15 | eutectic: L -> ScB2 + ScB12 | L: B 0.83; ScB2: B 0.67; ScB12: B 0.92 | model | [1] Spear 1990 | Table I, p. 1, row 5 |  |
+| 2144.75 | eutectic: L -> ScB2 + ScB12 | L: B 0.831; ScB2: B 0.667; ScB12: B 0.923 | model | [2] Liu 2009 | Table 5, p. 5, row 8 |  |
+| 1814.15 | congruent melting: L -> βSc | βSc: B 0 | model | [1] Spear 1990 | Table I, p. 1, row 1 |  |
+| 1610.15 | polymorphic: βSc -> αSc | αSc: B 0 | model | [1] Spear 1990 | Table I, p. 1, row 2 |  |
+| 1551.05 | eutectic: L -> ScB2 + αSc | L: B 0.176; ScB2: B 0.667; αSc: B 0 | model | [2] Liu 2009 | Table 5, p. 5, row 12 |  |
+| 1550.15 | eutectic: L -> ScB2 + αSc | L: B 0.17; ScB2: B 0.667; αSc: B 0 | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 11 |  |
+| 1550.15 | eutectic: L -> (αSc) + ScB2 | L: B 0.17; ScB2: B 0.67 | model | [1] Spear 1990 | Table I, p. 1, row 3 |  |
 
 ## Other properties
 
@@ -55,18 +55,18 @@ Table: Phase transition, B–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc -> αSc; _αSc: B 0_ | model | [2] Liu 2009 | Table 5, p. 5, row 14 |  |
-| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc -> αSc; _αSc: B 0_ | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 13 |  |
-| Phase transition | 1814.15 K | 1814.15 | Melting: L -> βSc; _βSc: B 0_ | model | [2] Liu 2009 | Table 5, p. 5, row 16 |  |
-| Phase transition | 1814.15 K | 1814.15 | Melting: L -> βSc; _βSc: B 0_ | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 15 |  |
-| Phase transition | 2313.15 K | 2313.15 | Congruent: L -> ScB12; _L: B 0.923; ScB12: B 0.923_ | experimental | [2] Liu 2009; _cites Peshev 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990017-6) | Table 5, p. 5, row 5 |  |
-| Phase transition | 2315.75 K | 2315.75 | Congruent: L -> ScB12; _L: B 0.923; ScB12: B 0.923_ | model | [2] Liu 2009 | Table 5, p. 5, row 6 |  |
-| Phase transition | 2365.15 K | 2365.15 | Melting: L -> βB; _βB: B 1_ | model | [2] Liu 2009 | Table 5, p. 5, row 2 |  |
-| Phase transition | 2365.15 K | 2365.15 | Melting: L -> βB; _βB: B 1_ | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 1 |  |
-| Phase transition | 2523.15 K | 2523.15 | Congruent: L -> ScB2; _L: B 0.667; ScB2: B 0.667_ | experimental | [2] Liu 2009; _cites Samsonov 1965_ | Table 5, p. 5, row 9 |  |
-| Phase transition | 2523.35 K | 2523.35 | Congruent: L -> ScB2; _L: B 0.667; ScB2: B 0.667_ | model | [2] Liu 2009 | Table 5, p. 5, row 10 |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: B 0_ | model | [2] Liu 2009 | Table 5, p. 5, row 14 |  |
+| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: B 0_ | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 13 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: B 0_ | model | [2] Liu 2009 | Table 5, p. 5, row 16 |  |
+| Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: B 0_ | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 15 |  |
+| Phase transition | 2313.15 K | 2313.15 | congruent melting: L -> ScB12; _L: B 0.923; ScB12: B 0.923_ | experimental | [2] Liu 2009; _cites Peshev 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990017-6) | Table 5, p. 5, row 5 |  |
+| Phase transition | 2315.75 K | 2315.75 | congruent melting: L -> ScB12; _L: B 0.923; ScB12: B 0.923_ | model | [2] Liu 2009 | Table 5, p. 5, row 6 |  |
+| Phase transition | 2365.15 K | 2365.15 | congruent melting: L -> βB; _βB: B 1_ | model | [2] Liu 2009 | Table 5, p. 5, row 2 |  |
+| Phase transition | 2365.15 K | 2365.15 | congruent melting: L -> βB; _βB: B 1_ | experimental | [2] Liu 2009; _cites Spear 1990_ [doi](https://doi.org/10.1007/bf02843307) | Table 5, p. 5, row 1 |  |
+| Phase transition | 2523.15 K | 2523.15 | congruent melting: L -> ScB2; _L: B 0.667; ScB2: B 0.667_ | experimental | [2] Liu 2009; _cites Samsonov 1965_ | Table 5, p. 5, row 9 |  |
+| Phase transition | 2523.35 K | 2523.35 | congruent melting: L -> ScB2; _L: B 0.667; ScB2: B 0.667_ | model | [2] Liu 2009 | Table 5, p. 5, row 10 |  |
 
-### Crystal structure (21)
+### Crystal structure (20)
 
 Table: Crystal structure, B–Sc system
 
@@ -80,7 +80,6 @@ Table: Crystal structure, B–Sc system
 | Lattice a | 0.52347 nm | 298.15 | ScB12; _ScB12: B 0.92, Sc 0.08_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 7 |  |
 | Lattice a | 0.3148 nm | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 3 |  |
 | Lattice a | 0.3146 nm | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 4 |  |
-| Lattice a | 0.3146 nm | 298.15 | ScB2; _ScB2: B 0.67, Sc 0.33_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 5 |  |
 | Lattice a | 0.33088 nm | 298.15 | αSc; _αSc: B 0, Sc 1_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 1 |  |
 | Lattice a | 0.4541 nm | 298.15 | βSc; _βSc: B 0, Sc 1_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 2 |  |
 | Lattice c | 2.4075 nm | 298.15 | (βB)(a); _alloy: Sc 0_ | unspecified | [1] Spear 1990 | Table 3, p. 3, row 9 |  |

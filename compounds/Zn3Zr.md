@@ -1,23 +1,22 @@
 # Zn3Zr: enthalpy of formation
 
-> Enthalpy of formation of Zn3Zr: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Zn3Zr: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Zn3Zr.html · Markdown: https://data.orchid-project.org/compounds/Zn3Zr.md
 
-11 accepted literature formation-enthalpy value(s) (experimental 1, model 6, DFT 4); experimental median -46.5 kJ/mol-atom (n = 1); Materials Project -27.958 kJ/mol-atom (mp-aaabxfkz); OQMD -26.626 kJ/mol-atom (oqmd-324277).
+10 accepted literature formation-enthalpy value(s) (experimental 1, model 5, DFT 4); experimental median -46.5 kJ/mol-atom (n = 1); Materials Project -27.958 kJ/mol-atom (mp-aaabxfkz); OQMD -26.626 kJ/mol-atom (oqmd-324277).
 
 Systems: [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Zn3Zr reported in the literature (11)
+Table: Enthalpy of formation of Zn3Zr reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -46.5 kJ/mol-atom ± 0.8 | Zn3Zr, l | 298 | experimental |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 13 |  |
 | -26.18 kJ/mol-atom | Zn3Zr, l | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 18 |  |
 | -26.07 kJ/mol-atom | Zn3Zr, l | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 17 |  |
-| -26.07 kJ/mol-atom | Zn3Zr, l | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 16 |  |
 | -22.75 kJ/mol-atom | Zn3Zr, h | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 22 |  |
 | -22.57 kJ/mol-atom | Zn3Zr, h | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 23 |  |
 | -22.41 kJ/mol-atom | Zn3Zr, h | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 21 |  |

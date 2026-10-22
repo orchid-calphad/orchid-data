@@ -1,10 +1,10 @@
 # Pb–Yb system
 
-> Pb–Yb system: 61 accepted literature values (formation 36, invariant reaction 21, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Yb system: 43 accepted literature values (invariant reaction 21, formation 18, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-YB.html · Markdown: https://data.orchid-project.org/systems/PB-YB.md
 
-61 accepted literature values from 1 paper(s) (experimental 41, model 20); 1 calculated phase diagram(s).
+43 accepted literature values from 1 paper(s) (experimental 28, model 15); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-YB.json) · [CSV](https://data.orchid-project.org/systems/PB-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-YB/PbYb-09Idb.json) · [Markdown](https://data.orchid-project.org/systems/PB-YB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 41 |
-| model | 20 |
+| experimental | 28 |
+| model | 15 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 21 |
 | phase transition | 4 |
-| formation | 36 |
+| formation | 18 |
 
 ## Calculated phase diagrams
 
@@ -83,45 +83,27 @@ Table: Invariant reactions reported in the literature for the Pb–Yb system (21
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pb–Yb system (36)
+Table: Enthalpies of formation, Pb–Yb system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -39 kJ/mol-atom ± 1 | 298.15 | experimental |  | -35.07 (oqmd-17937) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 15 |  |
-| Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -39 kJ/mol-atom ± 1 | 298.15 | experimental |  | -35.07 (oqmd-17937) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 15 |  |
-| Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -38.5 kJ/mol-atom ± 3 | 298.15 | experimental |  | -35.07 (oqmd-17937) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 14 |  |
 | Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -38.5 kJ/mol-atom ± 3 | 298.15 | experimental |  | -35.07 (oqmd-17937) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 14 |  |
 | Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -38.1 kJ/mol-atom ± 1 | 298.15 | experimental |  | -35.07 (oqmd-17937) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 16 |  |
-| Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -38.1 kJ/mol-atom ± 1 | 298.15 | experimental |  | -35.07 (oqmd-17937) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 16 |  |
-| Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -37 kJ/mol-atom ± 2 | 298.15 | experimental |  | -35.07 (oqmd-17937) | [1] Idbenali 2009; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985076-2) | Table 4, p. 6, row 17 |  |
 | Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -37 kJ/mol-atom ± 2 | 298.15 | experimental |  | -35.07 (oqmd-17937) | [1] Idbenali 2009; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985076-2) | Table 4, p. 6, row 17 |  |
 | Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -32.96 kJ/mol-atom |  | model |  | -35.07 (oqmd-17937) | [1] Idbenali 2009 | Table 4, p. 6, row 18 |  |
-| Pb3Yb | [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.html) | -32.96 kJ/mol-atom |  | model |  | -35.07 (oqmd-17937) | [1] Idbenali 2009 | Table 4, p. 6, row 18 |  |
-| Pb3Yb5 | [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.html) | -68.02 kJ/mol-atom |  | model |  | -50.708 (oqmd-17938) | [1] Idbenali 2009 | Table 4, p. 6, row 8 |  |
 | Pb3Yb5 | [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.html) | -68.02 kJ/mol-atom |  | model |  | -50.708 (oqmd-17938) | [1] Idbenali 2009 | Table 4, p. 6, row 8 |  |
 | Pb3Yb5 | [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.html) | -66.5 kJ/mol-atom ± 2 | 298.15 | experimental |  | -50.708 (oqmd-17938) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 7 |  |
-| Pb3Yb5 | [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.html) | -66.5 kJ/mol-atom ± 2 | 298.15 | experimental |  | -50.708 (oqmd-17938) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 7 |  |
-| Pb3Yb5 | [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.html) | -57.7 kJ/mol-atom ± 1 | 298.15 | experimental |  | -50.708 (oqmd-17938) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 6 |  |
 | Pb3Yb5 | [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.html) | -57.7 kJ/mol-atom ± 1 | 298.15 | experimental |  | -50.708 (oqmd-17938) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 6 |  |
 | Pb3Yb5 | [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.html) | -55.5 kJ/mol-atom ± 2 | 298.15 | experimental |  | -50.708 (oqmd-17938) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 5 |  |
-| Pb3Yb5 | [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.html) | -55.5 kJ/mol-atom ± 2 | 298.15 | experimental |  | -50.708 (oqmd-17938) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 5 |  |
-| PbYb2 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | -67 kJ/mol-atom ± 3 | 298.15 | experimental |  | -54.999 (oqmd-17936) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 2 |  |
 | PbYb2 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | -67 kJ/mol-atom ± 3 | 298.15 | experimental |  | -54.999 (oqmd-17936) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 2 |  |
 | PbYb2 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | -66 kJ/mol-atom ± 5 | 298.15 | experimental |  | -54.999 (oqmd-17936) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 1 |  |
-| PbYb2 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | -66 kJ/mol-atom ± 5 | 298.15 | experimental |  | -54.999 (oqmd-17936) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 1 |  |
-| PbYb2 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | -59.99 kJ/mol-atom |  | model |  | -54.999 (oqmd-17936) | [1] Idbenali 2009 | Table 4, p. 6, row 4 |  |
 | PbYb2 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | -59.99 kJ/mol-atom |  | model |  | -54.999 (oqmd-17936) | [1] Idbenali 2009 | Table 4, p. 6, row 4 |  |
 | PbYb2 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | -58.2 kJ/mol-atom ± 3 | 298.15 | experimental |  | -54.999 (oqmd-17936) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 3 |  |
-| PbYb2 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | -58.2 kJ/mol-atom ± 3 | 298.15 | experimental |  | -54.999 (oqmd-17936) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 3 |  |
-| αPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -62.59 kJ/mol-atom |  | model |  | -54.442 (oqmd-52379) | [1] Idbenali 2009 | Table 4, p. 6, row 9 |  |
 | αPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -62.59 kJ/mol-atom |  | model |  | -54.442 (oqmd-52379) | [1] Idbenali 2009 | Table 4, p. 6, row 9 |  |
 | βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -65 kJ/mol-atom ± 2 | 298.15 | experimental |  | -54.442 (oqmd-52379) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 11 |  |
-| βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -65 kJ/mol-atom ± 2 | 298.15 | experimental |  | -54.442 (oqmd-52379) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 11 |  |
-| βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -64 kJ/mol-atom ± 2.5 | 298.15 | experimental |  | -54.442 (oqmd-52379) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 10 |  |
 | βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -64 kJ/mol-atom ± 2.5 | 298.15 | experimental |  | -54.442 (oqmd-52379) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 10 |  |
 | βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -62.16 kJ/mol-atom |  | model |  | -54.442 (oqmd-52379) | [1] Idbenali 2009 | Table 4, p. 6, row 13 |  |
-| βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -62.16 kJ/mol-atom |  | model |  | -54.442 (oqmd-52379) | [1] Idbenali 2009 | Table 4, p. 6, row 13 |  |
-| βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -57 kJ/mol-atom ± 1 | 298.15 | experimental |  | -54.442 (oqmd-52379) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 12 |  |
 | βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -57 kJ/mol-atom ± 1 | 298.15 | experimental |  | -54.442 (oqmd-52379) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 12 |  |
 
 ## Other properties
@@ -133,9 +115,9 @@ Table: Phase transition, Pb–Yb system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 773 K | 773 | polymorphic | experimental | [1] Idbenali 2009 | p. 1 | “In addition, a polymorphic transformation was reported for the PbYb compound around 773 K and the crystal structure of the high temperature modification was determined.” |
-| Phase transition | 1013 K | 1013 | congruent | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1 | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
-| Phase transition | 1383 K | 1383 | congruent | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1 | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
-| Phase transition | 1519 K | 1519 | congruent | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1 | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
+| Phase transition | 1013 K | 1013 | congruent transformation | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1 | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
+| Phase transition | 1383 K | 1383 | congruent transformation | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1 | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
+| Phase transition | 1519 K | 1519 | congruent transformation | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1 | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
 
 ## Sources
 

@@ -66,15 +66,15 @@ Table: Enthalpies of formation, Li–O system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -598.73 kJ/mol-atom ± 2.1 | 298.15 | model | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 4 |  |
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -597.902 kJ/mol-atom ± 0.276 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 21_ | Table 4, p. 5, row 2 |  |
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -597.48 kJ/mol-atom ± 1.3 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 20_ | Table 4, p. 5, row 1 |  |
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -597 kJ/mol-atom | 298.15 | model | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011 | Table 4, p. 5, row 5 |  |
-| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -596.5 kJ/mol-atom ± 0.67 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 22_ | Table 4, p. 5, row 3 |  |
-| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -644.28 kJ/mol-atom | 298.15 | model | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011 | Table 4, p. 5, row 9 |  |
-| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -632.62 kJ/mol-atom ± 8.4 | 298.15 | model | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 8 |  |
-| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -632.62 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 28_ | Table 4, p. 5, row 7 |  |
-| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -605.9 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 15_ | Table 4, p. 5, row 6 |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.577 kJ/mol-atom ± 0.7 | 298.15 | model | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 4 |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.301 kJ/mol-atom ± 0.092 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 21_ | Table 4, p. 5, row 2 |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199.16 kJ/mol-atom ± 0.433333 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 20_ | Table 4, p. 5, row 1 |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -199 kJ/mol-atom | 298.15 | model | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011 | Table 4, p. 5, row 5 |  |
+| Li2O | [Li2O](https://data.orchid-project.org/compounds/Li2O.html) | -198.833 kJ/mol-atom ± 0.223333 | 298.15 | experimental | -198.913 (mp-aaaaacxk) | -191.001 (oqmd-18939) | [1] Chang 2011; _cites ref. 22_ | Table 4, p. 5, row 3 |  |
+| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -161.07 kJ/mol-atom | 298.15 | model | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011 | Table 4, p. 5, row 9 |  |
+| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -158.155 kJ/mol-atom ± 2.1 | 298.15 | model | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites This_ | Table 4, p. 5, row 8 |  |
+| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -158.155 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 28_ | Table 4, p. 5, row 7 |  |
+| Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -151.475 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 15_ | Table 4, p. 5, row 6 |  |
 
 ## Other properties
 

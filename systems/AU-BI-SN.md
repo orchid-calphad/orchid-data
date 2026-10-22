@@ -1,10 +1,10 @@
 # Au–Bi–Sn system
 
-> Au–Bi–Sn system: 67 accepted literature values (phase transition 25, invariant reaction 25, phase equilibrium 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Bi–Sn system: 66 accepted literature values (invariant reaction 25, phase transition 24, phase equilibrium 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-BI-SN.html · Markdown: https://data.orchid-project.org/systems/AU-BI-SN.md
 
-67 accepted literature values from 2 paper(s) (experimental 43, model 24); 0 calculated phase diagram(s).
+66 accepted literature values from 2 paper(s) (experimental 42, model 24); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-BI-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-BI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-BI-SN) · [Markdown](https://data.orchid-project.org/systems/AU-BI-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
+| experimental | 42 |
 | model | 24 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 25 |
-| phase transition | 25 |
+| phase transition | 24 |
 | phase equilibrium | 17 |
 
 ## Invariant reactions (literature)
@@ -57,7 +57,7 @@ Table: Invariant reactions reported in the literature for the Au–Bi–Sn syste
 
 ## Other properties
 
-### Phase transition (25)
+### Phase transition (24)
 
 Table: Phase transition, Au–Bi–Sn system
 
@@ -69,7 +69,6 @@ Table: Phase transition, Au–Bi–Sn system
 | Phase transition | 507.15 K | 507.15 | Sn18Au32Bi50; _alloy: Au 0.32, Bi 0.5, Sn 0.18_ | experimental | [1] F 2010 | Table II, p. 4, row 22 |  |
 | Phase transition | 515.15 K | 515.15 | Sn12Au49Bi39; _alloy: Au 0.49, Bi 0.39, Sn 0.12_ | experimental | [1] F 2010 | Table II, p. 4, row 1 |  |
 | Phase transition | 515.15 K | 515.15 | Sn18Au32Bi50; _alloy: Au 0.32, Bi 0.5, Sn 0.18_ | experimental | [1] F 2010 | Table II, p. 4, row 23 |  |
-| Phase transition | 515.15 K | 515.15 | Sn18Au32Bi50; _alloy: Au 0.32, Bi 0.5, Sn 0.18_ | experimental | [1] F 2010 | Table II, p. 4, row 18 |  |
 | Phase transition | 516.15 K | 516.15 | Sn10Au40Bi50; _alloy: Au 0.4, Bi 0.5, Sn 0.1_ | experimental | [1] F 2010 | Table II, p. 4, row 13 |  |
 | Phase transition | 516.15 K | 516.15 | Sn2Au48Bi50; _alloy: Au 0.48, Bi 0.5, Sn 0.02_ | experimental | [1] F 2010 | Table II, p. 4, row 7 |  |
 | Phase transition | 518.15 K | 518.15 | Sn2Au48Bi50; _alloy: Au 0.48, Bi 0.5, Sn 0.02_ | experimental | [1] F 2010 | Table II, p. 4, row 11 |  |

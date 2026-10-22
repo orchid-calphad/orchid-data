@@ -199,9 +199,9 @@ Table: Phase transition, Ca–Ga system
 | Phase transition | 1259.15 K | 1259.15 | Liquid -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | model | [1] Li 2013 | Table 6, p. 8, row 22 |  |
 | Phase transition | 1263.15 K | 1263.15 | L -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 14 |  |
 | Phase transition | 1263.15 K | 1263.15 | Liquid -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 21 |  |
-| Phase transition | 1263.15 K | 1263.15 | congruent | experimental | [2] Wang 2007 | p. 2 | “CaGa2 remains the only phase with a congruent melting point at 990 ◦ C.” |
+| Phase transition | 1263.15 K | 1263.15 | congruent transformation | experimental | [2] Wang 2007 | p. 2 | “CaGa2 remains the only phase with a congruent melting point at 990 ◦ C.” |
 | Phase transition | 1264.15 K | 1264.15 | L -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | model | [2] Wang 2007 | Table 3, p. 4, row 13 |  |
-| Phase transition | 1264.15 K | 1264.15 | congruent | model | [2] Wang 2007 | p. 4 | “The calculated congruent-melting point of the CaGa2 phase is 991 ◦ C, which fits well with the work of Bruzzone \[17\].” |
+| Phase transition | 1264.15 K | 1264.15 | congruent transformation | model | [2] Wang 2007 | p. 4 | “The calculated congruent-melting point of the CaGa2 phase is 991 ◦ C, which fits well with the work of Bruzzone \[17\].” |
 
 ## Sources
 

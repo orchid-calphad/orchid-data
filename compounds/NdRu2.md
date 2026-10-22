@@ -1,24 +1,21 @@
 # NdRu2: enthalpy of formation
 
-> Enthalpy of formation of NdRu2: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NdRu2: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NdRu2.html · Markdown: https://data.orchid-project.org/compounds/NdRu2.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -15.122 kJ/mol-atom (mp-aaacksmz); OQMD -13.816 kJ/mol-atom (oqmd-1367905).
+3 accepted literature formation-enthalpy value(s) (model 3); Materials Project -15.122 kJ/mol-atom (mp-aaacksmz); OQMD -13.816 kJ/mol-atom (oqmd-1367905).
 
 Systems: [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NdRu2 reported in the literature (6)
+Table: Enthalpy of formation of NdRu2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -21.949 kJ/mol-atom | NdRu2 |  | model | OptimizationCM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 35 |  |
-| -21.949 kJ/mol-atom | NdRu2 |  | model | OptimizationCM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 35 |  |
 | -16.65 kJ/mol-atom | NdRu2 |  | model | OptimizationEM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 34 |  |
-| -16.65 kJ/mol-atom | NdRu2 |  | model | OptimizationEM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 34 |  |
-| -16.185 kJ/mol-atom | NdRu2 |  | model | OptimizationQM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 33 |  |
 | -16.185 kJ/mol-atom | NdRu2 |  | model | OptimizationQM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 33 |  |
 
 ## DFT formation energies

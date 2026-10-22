@@ -145,14 +145,14 @@ Table: Phase transition, Ge–Mn system
 | Phase transition | 953 K | 953 |  | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 2 | “This phase transforms into Mn3Ge at 953 K \[7\], at 903 K \[8\], around 773 K \[18\] or higher than 850 K \[15\].” |
 | Phase transition | 963 K | 963 | LT-Mn5Ge2 -> Mn5Ge2 + Mn5Ge3 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1 | “It transforms into Mn5Ge2 and Mn5Ge3 at 963 K \[7\].” |
 | Phase transition | 1063 K | 1063 |  | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1 | “On cooling, this phase decomposes into Mn5Ge3 and Mn5Ge2 at 1063 K \[7\].” |
-| Phase transition | 1193 K | 1193 | congruent | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 1 | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
-| Phase transition | 1203 K | 1203 | congruent | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 2 | “This phase melts congruently at 1203 K \[7\] or decomposes via an eutectic reaction at 1173 K \[8\] or around 1203 K \[13\].” |
-| Phase transition | 1205 K | 1205 | congruent | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 1 | “It melts congruently at 1239 K \[7\] or 1205 K \[8\].” |
-| Phase transition | 1219 K | 1219 | congruent | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1 | “It melts congruently for xMn 1⁄4 0.666 at 1219 K \[7\].” |
-| Phase transition | 1223 K | 1223 | congruent | experimental | [1] Berche 2014; _cites Gupta 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990030-5) | p. 1 | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
-| Phase transition | 1226 K | 1226 | congruent | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1 | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
+| Phase transition | 1193 K | 1193 | congruent transformation | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 1 | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
+| Phase transition | 1203 K | 1203 | congruent transformation | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 2 | “This phase melts congruently at 1203 K \[7\] or decomposes via an eutectic reaction at 1173 K \[8\] or around 1203 K \[13\].” |
+| Phase transition | 1205 K | 1205 | congruent transformation | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 1 | “It melts congruently at 1239 K \[7\] or 1205 K \[8\].” |
+| Phase transition | 1219 K | 1219 | congruent transformation | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1 | “It melts congruently for xMn 1⁄4 0.666 at 1219 K \[7\].” |
+| Phase transition | 1223 K | 1223 | congruent transformation | experimental | [1] Berche 2014; _cites Gupta 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990030-5) | p. 1 | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
+| Phase transition | 1226 K | 1226 | congruent transformation | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1 | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
 | Phase transition | 1230 K | 1230 |  | experimental | [1] Berche 2014; _cites Downing 1951_ [doi](https://doi.org/10.1021/ja01152a518) | p. 2 | “They use 99.9% germanium which freezing point is measured at 1230 K.” |
-| Phase transition | 1239 K | 1239 | congruent | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1 | “It melts congruently at 1239 K \[7\] or 1205 K \[8\].” |
+| Phase transition | 1239 K | 1239 | congruent transformation | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1 | “It melts congruently at 1239 K \[7\] or 1205 K \[8\].” |
 
 ## Sources
 

@@ -43,8 +43,8 @@ Table: Phase transition, As–Zn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 463 K | 463 | polymorphic | experimental | [1] Ghasemi 2015; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667479) | p. 2 | “The As2Zn3 phase undergoes two polymorphic transformations; bAs2Zn3 M a0 -As2Zn3 at 924 K and a0 -As2Zn3 M a-As2Zn3 at 463 K (according to Okamoto \[12\] and based on Ref. \[14\]).” |
 | Phase transition | 924 K | 924 | polymorphic | experimental | [1] Ghasemi 2015; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667479) | p. 2 | “The As2Zn3 phase undergoes two polymorphic transformations; bAs2Zn3 M a0 -As2Zn3 at 924 K and a0 -As2Zn3 M a-As2Zn3 at 463 K (according to Okamoto \[12\] and based on Ref. \[14\]).” |
-| Phase transition | 1043 K | 1043 | congruent | experimental | [1] Ghasemi 2015 | p. 2 | “Both these stoichiometric phases, As2Zn and As2Zn3, melt congruently; at 1043 and 1288 K, respectively.” |
-| Phase transition | 1288 K | 1288 | congruent | experimental | [1] Ghasemi 2015 | p. 2 | “Both these stoichiometric phases, As2Zn and As2Zn3, melt congruently; at 1043 and 1288 K, respectively.” |
+| Phase transition | 1043 K | 1043 | congruent transformation | experimental | [1] Ghasemi 2015 | p. 2 | “Both these stoichiometric phases, As2Zn and As2Zn3, melt congruently; at 1043 and 1288 K, respectively.” |
+| Phase transition | 1288 K | 1288 | congruent transformation | experimental | [1] Ghasemi 2015 | p. 2 | “Both these stoichiometric phases, As2Zn and As2Zn3, melt congruently; at 1043 and 1288 K, respectively.” |
 
 ## Sources
 

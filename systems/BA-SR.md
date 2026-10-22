@@ -51,30 +51,30 @@ Table: Mixing / partial, Ba–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: -ΔmixH_ | -238 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.992, Sr 0.008_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -360 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99745, Sr 0.00255_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -439 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9956, Sr 0.0044_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -259 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9925, Sr 0.0075_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -406 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99655, Sr 0.00345_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -444 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9945, Sr 0.0055_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -213 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9981, Sr 0.0019_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -155 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9989, Sr 0.0011_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -347 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9933, Sr 0.0067_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -418 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99605, Sr 0.00395_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -439 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9949, Sr 0.0051_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -418 J/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9939, Sr 0.0061_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -238 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.992, Sr 0.008_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -360 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.99745, Sr 0.00255_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -439 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.9956, Sr 0.0044_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -259 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.9925, Sr 0.0075_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -406 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.99655, Sr 0.00345_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -444 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.9945, Sr 0.0055_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -213 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.9981, Sr 0.0019_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -155 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.9989, Sr 0.0011_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -347 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.9933, Sr 0.0067_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -418 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.99605, Sr 0.00395_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -439 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.9949, Sr 0.0051_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -418 J/mol (basis unstated) |  | liquid; _alloy: Ba 0.9939, Sr 0.0061_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.238 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.992, Sr 0.008_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.36 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99745, Sr 0.00255_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9956, Sr 0.0044_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.259 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9925, Sr 0.0075_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.406 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99655, Sr 0.00345_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.444 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9945, Sr 0.0055_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.213 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9981, Sr 0.0019_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.155 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9989, Sr 0.0011_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.347 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9933, Sr 0.0067_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99605, Sr 0.00395_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9949, Sr 0.0051_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9939, Sr 0.0061_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.238 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.992, Sr 0.008_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 12 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.36 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99745, Sr 0.00255_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9956, Sr 0.0044_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.259 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9925, Sr 0.0075_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 11 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.406 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99655, Sr 0.00345_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.444 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9945, Sr 0.0055_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.213 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9981, Sr 0.0019_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.155 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9989, Sr 0.0011_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.347 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9933, Sr 0.0067_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 10 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99605, Sr 0.00395_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9949, Sr 0.0051_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
+| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9939, Sr 0.0061_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
 
 ## Sources
 

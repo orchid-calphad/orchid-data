@@ -1,10 +1,10 @@
 # Cr–Nb system
 
-> Cr–Nb system: 254 accepted literature values (phase transition 114, phase equilibrium 77, formation 25, crystal structure 17) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Nb system: 253 accepted literature values (phase transition 114, phase equilibrium 77, formation 24, crystal structure 17) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NB.html · Markdown: https://data.orchid-project.org/systems/CR-NB.md
 
-254 accepted literature values from 3 paper(s) (experimental 194, model 23, DFT 33, unspecified 4); 7 calculated phase diagram(s).
+253 accepted literature values from 3 paper(s) (experimental 193, model 23, DFT 33, unspecified 4); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NB.json) · [CSV](https://data.orchid-project.org/systems/CR-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NB/CrNb-09Pav.json) · [Markdown](https://data.orchid-project.org/systems/CR-NB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 194 |
+| experimental | 193 |
 | model | 23 |
 | DFT | 33 |
 | unspecified | 4 |
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 16 |
 | phase transition | 114 |
 | phase equilibrium | 77 |
-| formation | 25 |
+| formation | 24 |
 | heat capacity / entropy / enthalpy | 1 |
 | activity / EMF / Gibbs energy | 4 |
 | crystal structure | 17 |
@@ -151,102 +151,102 @@ Table: Phase transition, Cr–Nb system
 | Phase transition | 1773 K | 1773 | other: Nb-solvus; _alloy: Nb 1_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 46 |  |
 | Phase transition | 1773 K | 1773 | other: NbCr₂ range; _alloy: Cr 0.65, Nb 0.35_ | experimental | [3] Neto 1993; _cites ref. 91Cos_ | Table 1, p. 3, row 2 |  |
 | Phase transition | 1825 K | 1825 | L2(Cr) þCr23C6 þNbC | experimental | [2] Khvan 2012; _cites Dovbenko 2000_ [doi](https://doi.org/10.1007/bf02684676) | p. 1 | “During the evaluation of literature data it appeared that experimental temperatures of the four phase invariant equilibria L2(Cr) þCr23C6 þNbC (1825 K \[5\]) and LþCr7C32Cr23C6 þNbC (1853 K \[5\]) are higher than the temperatures, of corresponding invariant equilibria L2(Cr) þCr23C6 (1806 K) and LþCr7C32Cr23C6 (1850 K) in the binary Cr-C system calculated using the dataset of Lee \[6\].” |
-| Phase transition | 1825 K | 1825 | invariant: L2(NbC)þ(Cr)þ(Cr23C6) | experimental | [2] Khvan 2012; _cites Dovbenko 2000_ [doi](https://doi.org/10.1007/bf02684676) | p. 3 | “The temperature for the invariant equilibira L2(NbC)þ(Cr)þ(Cr23C6) and L2(NbC)þ (Cr)þ(NbCr2) were obtained as 1825 K and 1891 K, which is 37 and 28 K respectively higher than, that reported by Bondar and Velikanova \[4\].” |
+| Phase transition | 1825 K | 1825 | other: L2(NbC)þ(Cr)þ(Cr23C6) | experimental | [2] Khvan 2012; _cites Dovbenko 2000_ [doi](https://doi.org/10.1007/bf02684676) | p. 3 | “The temperature for the invariant equilibira L2(NbC)þ(Cr)þ(Cr23C6) and L2(NbC)þ (Cr)þ(NbCr2) were obtained as 1825 K and 1891 K, which is 37 and 28 K respectively higher than, that reported by Bondar and Velikanova \[4\].” |
 | Phase transition | 1839 K | 1839 | L2(Cr)þNbCr2 þNbC | model | [2] Khvan 2012 | p. 6 | “The calculated temperatures for the L2(Nb)þNb2CþNbCr2 and L2(Cr)þNbCr2 þNbC are 1907 K and 1839 K respectively what is for 28 and 54 K lower than reported in the literature.” |
-| Phase transition | 1839 K | 1839 | solidus | model | [2] Khvan 2012 | p. 6 | “Isothermal sections calculated at 1907 K, 1874 K and 1839 K representing sections of the phase diagram at solidus temperatures for the following ternary phase fields: (Nb)þNbCr2 þNb2C; NbCr2 þNb2CrþNbC and (Cr)þNbCr2 þNbC respectively are shown in Fig. 2.” |
+| Phase transition | 1839 K | 1839 | other | model | [2] Khvan 2012 | p. 6 | “Isothermal sections calculated at 1907 K, 1874 K and 1839 K representing sections of the phase diagram at solidus temperatures for the following ternary phase fields: (Nb)þNbCr2 þNb2C; NbCr2 þNb2CrþNbC and (Cr)þNbCr2 þNbC respectively are shown in Fig. 2.” |
 | Phase transition | 1853 K | 1853 | LþCr7C32Cr23C6 þNbC | experimental | [2] Khvan 2012; _cites Dovbenko 2000_ [doi](https://doi.org/10.1007/bf02684676) | p. 1 | “During the evaluation of literature data it appeared that experimental temperatures of the four phase invariant equilibria L2(Cr) þCr23C6 þNbC (1825 K \[5\]) and LþCr7C32Cr23C6 þNbC (1853 K \[5\]) are higher than the temperatures, of corresponding invariant equilibria L2(Cr) þCr23C6 (1806 K) and LþCr7C32Cr23C6 (1850 K) in the binary Cr-C system calculated using the dataset of Lee \[6\].” |
 | Phase transition | 1853 K | 1853 | polymorphic: NbCr₂ transf.; _alloy: Cr 0.66, Nb 0.34_ | experimental | [3] Neto 1993; _cites ref. 63Kor_ | Table 1, p. 3, row 14 |  |
 | Phase transition | 1858 K | 1858 | other: Cr-solvus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 29 |  |
 | Phase transition | 1858 K | 1858 | other: solid invar. eq. | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 33 |  |
-| Phase transition | 1863 K | 1863 | solidus; _alloy: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 12 |  |
+| Phase transition | 1863 K | 1863 | other; _alloy: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 12 |  |
+| Phase transition | 1873 K | 1873 | other; _alloy: Cr 0.75, Nb 0.25_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 11 |  |
+| Phase transition | 1873 K | 1873 | other; _alloy: Cr 0.85, Nb 0.15_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 7 |  |
+| Phase transition | 1873 K | 1873 | other; _alloy: Cr 0.8, Nb 0.2_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 9 |  |
 | Phase transition | 1873 K | 1873 | other: Cr-solvus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 49 |  |
 | Phase transition | 1873 K | 1873 | other: Nb-solvus; _alloy: Cr 0.21, Nb 0.79_ | experimental | [3] Neto 1993; _cites ref. 75Pro_ | Table 1, p. 3, row 6 |  |
 | Phase transition | 1873 K | 1873 | other: Nb-solvus; _alloy: Nb 1_ | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 20 |  |
-| Phase transition | 1873 K | 1873 | solidus; _alloy: Cr 0.75, Nb 0.25_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 11 |  |
-| Phase transition | 1873 K | 1873 | solidus; _alloy: Cr 0.85, Nb 0.15_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 7 |  |
-| Phase transition | 1873 K | 1873 | solidus; _alloy: Cr 0.8, Nb 0.2_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 9 |  |
-| Phase transition | 1874 K | 1874 | solidus | model | [2] Khvan 2012 | p. 6 | “Isothermal sections calculated at 1907 K, 1874 K and 1839 K representing sections of the phase diagram at solidus temperatures for the following ternary phase fields: (Nb)þNbCr2 þNb2C; NbCr2 þNb2CrþNbC and (Cr)þNbCr2 þNbC respectively are shown in Fig. 2.” |
+| Phase transition | 1874 K | 1874 | other | model | [2] Khvan 2012 | p. 6 | “Isothermal sections calculated at 1907 K, 1874 K and 1839 K representing sections of the phase diagram at solidus temperatures for the following ternary phase fields: (Nb)þNbCr2 þNb2C; NbCr2 þNb2CrþNbC and (Cr)þNbCr2 þNbC respectively are shown in Fig. 2.” |
 | Phase transition | 1875 K | 1875 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 23 |  |
 | Phase transition | 1875 K | 1875 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 51 |  |
-| Phase transition | 1883 K | 1883 | solidus; _alloy: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 5 |  |
-| Phase transition | 1891 K | 1891 | invariant: L2(NbC)þ (Cr)þ(NbCr2) | experimental | [2] Khvan 2012; _cites Dovbenko 2000_ [doi](https://doi.org/10.1007/bf02684676) | p. 3 | “The temperature for the invariant equilibira L2(NbC)þ(Cr)þ(Cr23C6) and L2(NbC)þ (Cr)þ(NbCr2) were obtained as 1825 K and 1891 K, which is 37 and 28 K respectively higher than, that reported by Bondar and Velikanova \[4\].” |
+| Phase transition | 1883 K | 1883 | other; _alloy: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 5 |  |
+| Phase transition | 1891 K | 1891 | other: L2(NbC)þ (Cr)þ(NbCr2) | experimental | [2] Khvan 2012; _cites Dovbenko 2000_ [doi](https://doi.org/10.1007/bf02684676) | p. 3 | “The temperature for the invariant equilibira L2(NbC)þ(Cr)þ(Cr23C6) and L2(NbC)þ (Cr)þ(NbCr2) were obtained as 1825 K and 1891 K, which is 37 and 28 K respectively higher than, that reported by Bondar and Velikanova \[4\].” |
 | Phase transition | 1893 K | 1893 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 24 |  |
 | Phase transition | 1898 K | 1898 | other: solid invar. eq. | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 32 |  |
 | Phase transition | 1907 K | 1907 | L2(Nb)þNb2CþNbCr2 | model | [2] Khvan 2012 | p. 6 | “The calculated temperatures for the L2(Nb)þNb2CþNbCr2 and L2(Cr)þNbCr2 þNbC are 1907 K and 1839 K respectively what is for 28 and 54 K lower than reported in the literature.” |
-| Phase transition | 1907 K | 1907 | solidus | model | [2] Khvan 2012 | p. 6 | “Isothermal sections calculated at 1907 K, 1874 K and 1839 K representing sections of the phase diagram at solidus temperatures for the following ternary phase fields: (Nb)þNbCr2 þNb2C; NbCr2 þNb2CrþNbC and (Cr)þNbCr2 þNbC respectively are shown in Fig. 2.” |
-| Phase transition | 1913 K | 1913 | solidus: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 27 |  |
+| Phase transition | 1907 K | 1907 | other | model | [2] Khvan 2012 | p. 6 | “Isothermal sections calculated at 1907 K, 1874 K and 1839 K representing sections of the phase diagram at solidus temperatures for the following ternary phase fields: (Nb)þNbCr2 þNb2C; NbCr2 þNb2CrþNbC and (Cr)þNbCr2 þNbC respectively are shown in Fig. 2.” |
+| Phase transition | 1913 K | 1913 | other: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 27 |  |
 | Phase transition | 1915 K | 1915 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 31 |  |
-| Phase transition | 1923 K | 1923 | solidus; _alloy: Cr 0.667, Nb 0.333_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 31 |  |
-| Phase transition | 1923 K | 1923 | solidus; _alloy: Cr 0.732, Nb 0.268_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 96 |  |
-| Phase transition | 1923 K | 1923 | solidus; _alloy: Cr 0.55, Nb 0.45_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 15 |  |
-| Phase transition | 1927 K | 1927 | solidus; _alloy: Cr 0.668, Nb 0.332_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 101 |  |
-| Phase transition | 1929 K | 1929 | solidus; _alloy: Cr 0.697, Nb 0.303_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 98 |  |
+| Phase transition | 1923 K | 1923 | other; _alloy: Cr 0.667, Nb 0.333_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 31 |  |
+| Phase transition | 1923 K | 1923 | other; _alloy: Cr 0.732, Nb 0.268_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 96 |  |
+| Phase transition | 1923 K | 1923 | other; _alloy: Cr 0.55, Nb 0.45_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 15 |  |
+| Phase transition | 1927 K | 1927 | other; _alloy: Cr 0.668, Nb 0.332_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 101 |  |
+| Phase transition | 1929 K | 1929 | other; _alloy: Cr 0.697, Nb 0.303_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 98 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.982, Nb 0.018_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 67 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.6, Nb 0.4_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 13 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.93, Nb 0.07_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 72 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.843, Nb 0.157_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 91 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 23 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.901, Nb 0.099_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 74 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 20 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.836, Nb 0.164_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 76 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.798, Nb 0.202_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 77 |  |
+| Phase transition | 1933 K | 1933 | other; _alloy: Cr 0.5, Nb 0.5_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 17 |  |
 | Phase transition | 1933 K | 1933 | other: Nb-solvus; _alloy: Nb 1_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 47 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.982, Nb 0.018_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 67 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.6, Nb 0.4_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 13 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.93, Nb 0.07_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 72 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.843, Nb 0.157_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 91 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 23 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.901, Nb 0.099_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 74 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 20 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.836, Nb 0.164_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 76 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.798, Nb 0.202_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 77 |  |
-| Phase transition | 1933 K | 1933 | solidus; _alloy: Cr 0.5, Nb 0.5_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 17 |  |
-| Phase transition | 1934 K | 1934 | solidus; _alloy: Cr 0.77, Nb 0.23_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 94 |  |
+| Phase transition | 1934 K | 1934 | other; _alloy: Cr 0.77, Nb 0.23_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 94 |  |
 | Phase transition | 1935 K | 1935 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 58Ere_ | Table 1, p. 3, row 39 |  |
 | Phase transition | 1935 K | 1935 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 30 |  |
 | Phase transition | 1935 K | 1935 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 50 |  |
-| Phase transition | 1935 K | 1935 | solidus; _alloy: Cr 0.879, Nb 0.121_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 89 |  |
+| Phase transition | 1935 K | 1935 | other; _alloy: Cr 0.879, Nb 0.121_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 89 |  |
 | Phase transition | 1941 K | 1941 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 69Rud_ | Table 1, p. 3, row 11 |  |
-| Phase transition | 1943 K | 1943 | solidus; _alloy: Cr 0.2, Nb 0.8_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 25 |  |
-| Phase transition | 1943 K | 1943 | solidus; _alloy: Cr 0.95, Nb 0.05_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 2 |  |
-| Phase transition | 1943 K | 1943 | solidus: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 44 |  |
-| Phase transition | 1949 K | 1949 | solidus; _alloy: Cr 0.635, Nb 0.365_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 105 |  |
-| Phase transition | 1949 K | 1949 | solidus; _alloy: Cr 0.493, Nb 0.507_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 109 |  |
-| Phase transition | 1949 K | 1949 | solidus; _alloy: Cr 0.567, Nb 0.433_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 107 |  |
-| Phase transition | 1951 K | 1951 | solidus; _alloy: Cr 0.653, Nb 0.347_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 103 |  |
+| Phase transition | 1943 K | 1943 | other; _alloy: Cr 0.2, Nb 0.8_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 25 |  |
+| Phase transition | 1943 K | 1943 | other; _alloy: Cr 0.95, Nb 0.05_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 2 |  |
+| Phase transition | 1943 K | 1943 | other: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 44 |  |
+| Phase transition | 1949 K | 1949 | other; _alloy: Cr 0.635, Nb 0.365_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 105 |  |
+| Phase transition | 1949 K | 1949 | other; _alloy: Cr 0.493, Nb 0.507_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 109 |  |
+| Phase transition | 1949 K | 1949 | other; _alloy: Cr 0.567, Nb 0.433_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 107 |  |
+| Phase transition | 1951 K | 1951 | other; _alloy: Cr 0.653, Nb 0.347_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 103 |  |
 | Phase transition | 1953 K | 1953 | LþNbC2Nb2Cþ NbCr2 | experimental | [2] Khvan 2012 | p. 6 | “It should be noticed that experimental data for Cr-Nb-C system gives a temperature of 1953 K for LþNbC2Nb2Cþ NbCr2 which is higher than the temperatures for the L2(Nb)þNb2CþNbCr2 and L2(Cr)þ NbCþNbCr2 invariant equilibria.” |
-| Phase transition | 1953 K | 1953 | solidus; _alloy: Cr 0.957, Nb 0.043_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 70 |  |
-| Phase transition | 1953 K | 1953 | solidus; _alloy: Cr 0.991, Nb 0.009_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 65 |  |
-| Phase transition | 1953 K | 1953 | solidus; _alloy: Cr 0.736, Nb 0.264_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 82 |  |
-| Phase transition | 1954 K | 1954 | solidus; _alloy: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 47 |  |
-| Phase transition | 1956 K | 1956 | congruent: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 52 |  |
+| Phase transition | 1953 K | 1953 | other; _alloy: Cr 0.957, Nb 0.043_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 70 |  |
+| Phase transition | 1953 K | 1953 | other; _alloy: Cr 0.991, Nb 0.009_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 65 |  |
+| Phase transition | 1953 K | 1953 | other; _alloy: Cr 0.736, Nb 0.264_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 82 |  |
+| Phase transition | 1954 K | 1954 | other; _alloy: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 47 |  |
+| Phase transition | 1956 K | 1956 | congruent transformation: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 52 |  |
+| Phase transition | 1958 K | 1958 | other; _alloy: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 58 |  |
 | Phase transition | 1958 K | 1958 | other: NbCr₂ range | experimental | [3] Neto 1993; _cites ref. 69Rud_ | Table 1, p. 3, row 9 |  |
-| Phase transition | 1958 K | 1958 | solidus; _alloy: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 58 |  |
-| Phase transition | 1963 K | 1963 | solidus; _alloy: Cr 0.973, Nb 0.027_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 69 |  |
-| Phase transition | 1963 K | 1963 | solidus; _alloy: Cr 0.666, Nb 0.334_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 84 |  |
-| Phase transition | 1972 K | 1972 | solidus; _alloy: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 50 |  |
-| Phase transition | 1973 K | 1973 | solidus; _alloy: Cr 0.975, Nb 0.025_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 1 |  |
-| Phase transition | 1973 K | 1973 | solidus: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 45 |  |
-| Phase transition | 1973 K | 1973 | solidus: Nb-solidus; _alloy: Nb 1_ | experimental | [3] Neto 1993; _cites ref. 69Rud_ | Table 1, p. 3, row 8 |  |
-| Phase transition | 1975 K | 1975 | solidus; _alloy: Cr 0.63, Nb 0.37_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 63 |  |
+| Phase transition | 1963 K | 1963 | other; _alloy: Cr 0.973, Nb 0.027_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 69 |  |
+| Phase transition | 1963 K | 1963 | other; _alloy: Cr 0.666, Nb 0.334_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 84 |  |
+| Phase transition | 1972 K | 1972 | other; _alloy: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 50 |  |
+| Phase transition | 1973 K | 1973 | other; _alloy: Cr 0.975, Nb 0.025_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 1 |  |
+| Phase transition | 1973 K | 1973 | other: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 45 |  |
+| Phase transition | 1973 K | 1973 | other: Nb-solidus; _alloy: Nb 1_ | experimental | [3] Neto 1993; _cites ref. 69Rud_ | Table 1, p. 3, row 8 |  |
+| Phase transition | 1975 K | 1975 | other; _alloy: Cr 0.63, Nb 0.37_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 63 |  |
 | Phase transition | 1976 K | 1976 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 69Rud_ | Table 1, p. 3, row 10 |  |
-| Phase transition | 1983 K | 1983 | solidus; _alloy: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 52 |  |
-| Phase transition | 1983 K | 1983 | solidus; _alloy: Cr 0.462, Nb 0.538_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 78 |  |
-| Phase transition | 1983 K | 1983 | solidus; _alloy: Cr 0.597, Nb 0.403_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 85 |  |
-| Phase transition | 1983 K | 1983 | solidus; _alloy: Cr 0.518, Nb 0.482_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 86 |  |
-| Phase transition | 1986 K | 1986 | congruent: NbCr₂ Melting; _alloy: Cr 0.66, Nb 0.34_ | experimental | [3] Neto 1993; _cites ref. 58Ell_ | Table 1, p. 3, row 40 |  |
+| Phase transition | 1983 K | 1983 | other; _alloy: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 52 |  |
+| Phase transition | 1983 K | 1983 | other; _alloy: Cr 0.462, Nb 0.538_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 78 |  |
+| Phase transition | 1983 K | 1983 | other; _alloy: Cr 0.597, Nb 0.403_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 85 |  |
+| Phase transition | 1983 K | 1983 | other; _alloy: Cr 0.518, Nb 0.482_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 86 |  |
+| Phase transition | 1986 K | 1986 | congruent transformation: NbCr₂ Melting; _alloy: Cr 0.66, Nb 0.34_ | experimental | [3] Neto 1993; _cites ref. 58Ell_ | Table 1, p. 3, row 40 |  |
 | Phase transition | 1986 K | 1986 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 58Ere_ | Table 1, p. 3, row 38 |  |
-| Phase transition | 1993 K | 1993 | solidus; _alloy: Cr 0.05, Nb 0.95_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 29 |  |
-| Phase transition | 1996 K | 1996 | congruent: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 34 |  |
-| Phase transition | 2001 K | 2001 | congruent | model | [3] Neto 1993 | p. 7 | “The congruent melting temperature of the NbCrz phase was set to 2001 K.” |
-| Phase transition | 2003 K | 2003 | congruent: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 69Rud_ | Table 1, p. 3, row 12 |  |
-| Phase transition | 2003 K | 2003 | congruent: NbCr₂ Melting; _alloy: Cr 0.66, Nb 0.34_ | experimental | [3] Neto 1993; _cites ref. 63Kor_ | Table 1, p. 3, row 13 |  |
-| Phase transition | 2013 K | 2013 | solidus: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 28 |  |
-| Phase transition | 2016 K | 2016 | congruent: NbCr₂ Melting; _alloy: Cr 0.66, Nb 0.34_ | experimental | [3] Neto 1993; _cites ref. 59Mis_ | Table 1, p. 3, row 35 |  |
-| Phase transition | 2027 K | 2027 | solidus; _alloy: Cr 0.942, Nb 0.058_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 87 |  |
-| Phase transition | 2033 K | 2033 | congruent | experimental | [1] Schmetterer 2014; _cites Aufrecht 2010_ [doi](https://doi.org/10.1016/j.scriptamat.2009.11.002) | p. 8 | “Its congruent melting temperature was taken from Aufrecht et al.\[17\] (2033 K) who determined this temperature by DTA.” |
-| Phase transition | 2033 K | 2033 | liquidus: Liquidus | experimental | [3] Neto 1993; _cites ref. 58Ere_ | Table 1, p. 3, row 36 |  |
-| Phase transition | 2043 K | 2043 | congruent | model | [3] Neto 1993; _cites ref. 86Ven_ | p. 2 | “The congruent melting temperature of the compound was measured by \[69Rud,63Kor,62Sve,GlPan, 61Go1,59Mis,58E11,56Ely\]. The values scatter in a range of almost 100 K. In the review of \[86Ven\] a temperature of 2043 K was selected.” |
-| Phase transition | 2043 K | 2043 | solidus: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 58Ere_ | Table 1, p. 3, row 37 |  |
-| Phase transition | 2046 K | 2046 | congruent: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 25 |  |
-| Phase transition | 2168 K | 2168 | liquidus: Liquidus | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 42 |  |
-| Phase transition | 2168 K | 2168 | solidus: Nb-solidus; _alloy: Nb 1_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 43 |  |
-| Phase transition | 2179.5 K | 2179.5 | liquidus: Liquidus | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 41 |  |
-| Phase transition | 2183 K | 2183 | solidus; _alloy: Cr 0.2, Nb 0.8_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 54 |  |
-| Phase transition | 2305.5 K | 2305.5 | liquidus: Liquidus | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 18 |  |
-| Phase transition | 2373 K | 2373 | solidus; _alloy: Cr 0.1, Nb 0.9_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 56 |  |
-| Phase transition | 2750 K | 2750 | liquidus | experimental | [3] Neto 1993 | p. 2 | “The reported "liquidus" ends at the pure Nb 360 K below the presently accepted melting temperature of Nb (2750 K \[SlDin\]).” |
+| Phase transition | 1993 K | 1993 | other; _alloy: Cr 0.05, Nb 0.95_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 29 |  |
+| Phase transition | 1996 K | 1996 | congruent transformation: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 34 |  |
+| Phase transition | 2001 K | 2001 | congruent transformation | model | [3] Neto 1993 | p. 7 | “The congruent melting temperature of the NbCrz phase was set to 2001 K.” |
+| Phase transition | 2003 K | 2003 | congruent transformation: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 69Rud_ | Table 1, p. 3, row 12 |  |
+| Phase transition | 2003 K | 2003 | congruent transformation: NbCr₂ Melting; _alloy: Cr 0.66, Nb 0.34_ | experimental | [3] Neto 1993; _cites ref. 63Kor_ | Table 1, p. 3, row 13 |  |
+| Phase transition | 2013 K | 2013 | other: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 28 |  |
+| Phase transition | 2016 K | 2016 | congruent transformation: NbCr₂ Melting; _alloy: Cr 0.66, Nb 0.34_ | experimental | [3] Neto 1993; _cites ref. 59Mis_ | Table 1, p. 3, row 35 |  |
+| Phase transition | 2027 K | 2027 | other; _alloy: Cr 0.942, Nb 0.058_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 87 |  |
+| Phase transition | 2033 K | 2033 | congruent transformation | experimental | [1] Schmetterer 2014; _cites Aufrecht 2010_ [doi](https://doi.org/10.1016/j.scriptamat.2009.11.002) | p. 8 | “Its congruent melting temperature was taken from Aufrecht et al.\[17\] (2033 K) who determined this temperature by DTA.” |
+| Phase transition | 2033 K | 2033 | other: Liquidus | experimental | [3] Neto 1993; _cites ref. 58Ere_ | Table 1, p. 3, row 36 |  |
+| Phase transition | 2043 K | 2043 | congruent transformation | model | [3] Neto 1993; _cites ref. 86Ven_ | p. 2 | “The congruent melting temperature of the compound was measured by \[69Rud,63Kor,62Sve,GlPan, 61Go1,59Mis,58E11,56Ely\]. The values scatter in a range of almost 100 K. In the review of \[86Ven\] a temperature of 2043 K was selected.” |
+| Phase transition | 2043 K | 2043 | other: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 58Ere_ | Table 1, p. 3, row 37 |  |
+| Phase transition | 2046 K | 2046 | congruent transformation: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 25 |  |
+| Phase transition | 2168 K | 2168 | other: Liquidus | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 42 |  |
+| Phase transition | 2168 K | 2168 | other: Nb-solidus; _alloy: Nb 1_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 43 |  |
+| Phase transition | 2179.5 K | 2179.5 | other: Liquidus | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 41 |  |
+| Phase transition | 2183 K | 2183 | other; _alloy: Cr 0.2, Nb 0.8_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 54 |  |
+| Phase transition | 2305.5 K | 2305.5 | other: Liquidus | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 18 |  |
+| Phase transition | 2373 K | 2373 | other; _alloy: Cr 0.1, Nb 0.9_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 56 |  |
+| Phase transition | 2750 K | 2750 | other | experimental | [3] Neto 1993 | p. 2 | “The reported "liquidus" ends at the pure Nb 360 K below the presently accepted melting temperature of Nb (2750 K \[SlDin\]).” |
 
 ### Phase equilibrium (77)
 
@@ -264,81 +264,80 @@ Table: Phase equilibrium, Cr–Nb system
 | Phase composition |  | 1773 | Nb + Cr; _Nb: Cr 0.125, Nb 0.875; Cr: Cr 0.958, Nb 0.042_ | model | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 2, p. 2, row 8 |  |
 | Phase composition |  | 1823 | Cr; _Cr: Cr 0.9375, Nb 0.0625_ | model | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 2, p. 2, row 7 |  |
 | Phase composition |  | 1873 | Cr; _Cr: Cr 0.9, Nb 0.1_ | model | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 2, p. 2, row 6 |  |
-| Phase composition |  | 1887.4 | liquidus; _liquid: Cr 0.456, Nb 0.544_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 35 |  |
-| Phase composition |  | 1905 | liquidus; _liquid: Cr 0.496, Nb 0.504_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 46 |  |
-| Phase composition |  | 1918 | liquidus; _liquid: Cr 0.8, Nb 0.2_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 10 |  |
-| Phase composition |  | 1925 | liquidus; _liquid: Cr 0.807, Nb 0.193_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 93 |  |
-| Phase composition |  | 1927 | liquidus; _liquid: Cr 0.887, Nb 0.113_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 34 |  |
+| Phase composition |  | 1887.4 | other; _liquid: Cr 0.456, Nb 0.544_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 35 |  |
+| Phase composition |  | 1905 | other; _liquid: Cr 0.496, Nb 0.504_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 46 |  |
+| Phase composition |  | 1918 | other; _liquid: Cr 0.8, Nb 0.2_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 10 |  |
+| Phase composition |  | 1925 | other; _liquid: Cr 0.807, Nb 0.193_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 93 |  |
+| Phase composition |  | 1927 | other; _liquid: Cr 0.887, Nb 0.113_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 34 |  |
 | Phase composition |  | 1933 | Nb; _Nb: Cr 0.2, Nb 0.8_ | model | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 2, p. 2, row 10 |  |
 | Phase composition |  | 1934 | Nb + C15 Cr2Nb + Cr-rich liquid phase + C15 Cr2Nb (Nb-rich side) + C15 Cr2Nb (Cr-rich side) + Cr-rich liquid (a); _Nb: Cr 0.25, Nb 0.75; C15 Cr2Nb: Cr 0.68, Nb 0.32; Cr-rich liquid phase: Cr 0.78, Nb 0.22; C15 Cr2Nb (Nb-rich side): Cr 0.64, Nb 0.36; C15 Cr2Nb (Cr-rich side): Cr 0.68, Nb 0.32; Cr-rich liquid (a): Cr 0.78, Nb 0.22_ | model | [1] Schmetterer 2014; _cites Bhatt 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2900678-2) | Table 2, p. 2, row 12 |  |
-| Phase composition |  | 1938 | liquidus; _liquid: Cr 0.667, Nb 0.333_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 32 |  |
-| Phase composition |  | 1948 | liquidus; _liquid: Cr 0.93, Nb 0.07_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 73 |  |
-| Phase composition |  | 1948 | liquidus; _liquid: Cr 0.6, Nb 0.4_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 14 |  |
-| Phase composition |  | 1949 | liquidus; _liquid: Cr 0.493, Nb 0.507_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 110 |  |
-| Phase composition |  | 1958 | liquidus; _liquid: Cr 0.5, Nb 0.5_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 18 |  |
-| Phase composition |  | 1962 | liquidus; _liquid: Cr 0.77, Nb 0.23_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 95 |  |
-| Phase composition |  | 1963 | liquidus; _liquid: Cr 0.548, Nb 0.452_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 45 |  |
-| Phase composition |  | 1969.3 | liquidus; _liquid: Cr 0.387, Nb 0.613_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 36 |  |
-| Phase composition |  | 1973 | liquidus; _liquid: Cr 0.55, Nb 0.45_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 16 |  |
-| Phase composition |  | 1974 | liquidus; _liquid: Cr 0.941, Nb 0.059_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 33 |  |
-| Phase composition |  | 1975 | liquidus; _liquid: Cr 0.843, Nb 0.157_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 92 |  |
-| Phase composition |  | 1978 | liquidus; _liquid: Cr 0.736, Nb 0.264_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 83 |  |
-| Phase composition |  | 1983 | liquidus; _liquid: Cr 0.85, Nb 0.15_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 8 |  |
-| Phase composition |  | 1986 | liquidus; _liquid: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 48 |  |
-| Phase composition |  | 1988 | liquidus; _liquid: Cr 0.63, Nb 0.37_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 64 |  |
-| Phase composition |  | 1990 | liquidus; _liquid: Cr 0.732, Nb 0.268_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 97 |  |
-| Phase composition |  | 1990 | liquidus; _liquid: Cr 0.567, Nb 0.433_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 108 |  |
-| Phase composition |  | 1991 | liquidus; _liquid: Cr 0.65, Nb 0.35_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 62 |  |
-| Phase composition |  | 1991 | liquidus; _liquid: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 59 |  |
-| Phase composition |  | 1993 | liquidus; _liquid: Cr 0.957, Nb 0.043_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 71 |  |
-| Phase composition |  | 1993 | liquidus; _liquid: Cr 0.415, Nb 0.585_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 80 |  |
-| Phase composition |  | 1995 | liquidus; _liquid: Cr 0.67, Nb 0.33_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 61 |  |
-| Phase composition |  | 1997 | liquidus; _liquid: Cr 0.68, Nb 0.32_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 60 |  |
-| Phase composition |  | 2002 | liquidus; _liquid: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 51 |  |
-| Phase composition |  | 2002 | liquidus; _liquid: Cr 0.879, Nb 0.121_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 90 |  |
-| Phase composition |  | 2003 | liquidus; _liquid: Cr 0.45, Nb 0.55_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 19 |  |
-| Phase composition |  | 2003 | liquidus; _liquid: Cr 0.697, Nb 0.303_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 99 |  |
-| Phase composition |  | 2005 | liquidus; _liquid: Cr 0.675, Nb 0.325_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 100 |  |
-| Phase composition |  | 2007 | liquidus; _liquid: Cr 0.668, Nb 0.332_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 102 |  |
-| Phase composition |  | 2010 | liquidus; _liquid: Cr 0.635, Nb 0.365_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 106 |  |
-| Phase composition |  | 2011 | liquidus; _liquid: Cr 0.653, Nb 0.347_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 104 |  |
-| Phase composition |  | 2013 | liquidus; _liquid: Cr 0.593, Nb 0.407_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 44 |  |
-| Phase composition |  | 2013.3 | liquidus; _liquid: Cr 0.337, Nb 0.663_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 37 |  |
-| Phase composition |  | 2018 | liquidus; _liquid: Cr 0.792, Nb 0.208_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 42 |  |
-| Phase composition |  | 2030.5 | liquidus: Cr-liquidus; _liquid: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 26 |  |
-| Phase composition |  | 2033 | liquidus; _liquid: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 6 |  |
-| Phase composition |  | 2033 | liquidus; _liquid: Cr 0.462, Nb 0.538_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 79 |  |
-| Phase composition |  | 2042 | liquidus; _liquid: Cr 0.85, Nb 0.15_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 49 |  |
-| Phase composition |  | 2043 | liquidus; _liquid: Cr 0.982, Nb 0.018_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 68 |  |
-| Phase composition |  | 2043 | liquidus; _liquid: Cr 0.901, Nb 0.099_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 75 |  |
-| Phase composition |  | 2047 | liquidus; _liquid: Cr 0.665, Nb 0.335_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 43 |  |
-| Phase composition |  | 2048 | liquidus; _liquid: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 21 |  |
-| Phase composition |  | 2061 | liquidus; _liquid: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 53 |  |
-| Phase composition |  | 2063 | liquidus; _liquid: Cr 0.925, Nb 0.075_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 4 |  |
-| Phase composition |  | 2073 | liquidus; _liquid: Cr 0.991, Nb 0.009_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 66 |  |
-| Phase composition |  | 2079 | liquidus; _liquid: Cr 0.942, Nb 0.058_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 88 |  |
-| Phase composition |  | 2093 | liquidus; _liquid: Cr 0.35, Nb 0.65_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 22 |  |
-| Phase composition |  | 2103 | liquidus; _liquid: Cr 0.95, Nb 0.05_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 3 |  |
-| Phase composition |  | 2108 | liquidus; _liquid: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 24 |  |
-| Phase composition |  | 2127.5 | liquidus; _liquid: Cr 0.196, Nb 0.804_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 38 |  |
-| Phase composition |  | 2133 | liquidus; _liquid: Cr 0.341, Nb 0.659_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 81 |  |
-| Phase composition |  | 2168.5 | liquidus; _liquid: Cr 0.158, Nb 0.842_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 39 |  |
-| Phase composition |  | 2173 | liquidus; _liquid: Cr 0.2, Nb 0.8_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 26 |  |
-| Phase composition |  | 2223 | liquidus; _liquid: Cr 0.15, Nb 0.85_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 27 |  |
-| Phase composition |  | 2313 | liquidus; _liquid: Cr 0.1, Nb 0.9_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 28 |  |
-| Phase composition |  | 2323.3 | liquidus; _liquid: Cr 0.096, Nb 0.904_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 40 |  |
-| Phase composition |  | 2333 | liquidus; _liquid: Cr 0.05, Nb 0.95_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 30 |  |
-| Phase composition |  | 2372 | liquidus; _liquid: Cr 0.2, Nb 0.8_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 55 |  |
-| Phase composition |  | 2521.9 | liquidus; _liquid: Cr 0.045, Nb 0.955_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 41 |  |
-| Phase composition |  | 2630 | liquidus; _liquid: Cr 0.1, Nb 0.9_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 57 |  |
+| Phase composition |  | 1938 | other; _liquid: Cr 0.667, Nb 0.333_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 32 |  |
+| Phase composition |  | 1948 | other; _liquid: Cr 0.93, Nb 0.07_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 73 |  |
+| Phase composition |  | 1948 | other; _liquid: Cr 0.6, Nb 0.4_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 14 |  |
+| Phase composition |  | 1949 | other; _liquid: Cr 0.493, Nb 0.507_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 110 |  |
+| Phase composition |  | 1958 | other; _liquid: Cr 0.5, Nb 0.5_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 18 |  |
+| Phase composition |  | 1962 | other; _liquid: Cr 0.77, Nb 0.23_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 95 |  |
+| Phase composition |  | 1963 | other; _liquid: Cr 0.548, Nb 0.452_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 45 |  |
+| Phase composition |  | 1969.3 | other; _liquid: Cr 0.387, Nb 0.613_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 36 |  |
+| Phase composition |  | 1973 | other; _liquid: Cr 0.55, Nb 0.45_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 16 |  |
+| Phase composition |  | 1974 | other; _liquid: Cr 0.941, Nb 0.059_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 33 |  |
+| Phase composition |  | 1975 | other; _liquid: Cr 0.843, Nb 0.157_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 92 |  |
+| Phase composition |  | 1978 | other; _liquid: Cr 0.736, Nb 0.264_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 83 |  |
+| Phase composition |  | 1983 | other; _liquid: Cr 0.85, Nb 0.15_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 8 |  |
+| Phase composition |  | 1986 | other; _liquid: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 48 |  |
+| Phase composition |  | 1988 | other; _liquid: Cr 0.63, Nb 0.37_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 64 |  |
+| Phase composition |  | 1990 | other; _liquid: Cr 0.732, Nb 0.268_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 97 |  |
+| Phase composition |  | 1990 | other; _liquid: Cr 0.567, Nb 0.433_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 108 |  |
+| Phase composition |  | 1991 | other; _liquid: Cr 0.65, Nb 0.35_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 62 |  |
+| Phase composition |  | 1991 | other; _liquid: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 59 |  |
+| Phase composition |  | 1993 | other; _liquid: Cr 0.957, Nb 0.043_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 71 |  |
+| Phase composition |  | 1993 | other; _liquid: Cr 0.415, Nb 0.585_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 80 |  |
+| Phase composition |  | 1995 | other; _liquid: Cr 0.67, Nb 0.33_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 61 |  |
+| Phase composition |  | 1997 | other; _liquid: Cr 0.68, Nb 0.32_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 60 |  |
+| Phase composition |  | 2002 | other; _liquid: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 51 |  |
+| Phase composition |  | 2002 | other; _liquid: Cr 0.879, Nb 0.121_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 90 |  |
+| Phase composition |  | 2003 | other; _liquid: Cr 0.45, Nb 0.55_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 19 |  |
+| Phase composition |  | 2003 | other; _liquid: Cr 0.697, Nb 0.303_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 99 |  |
+| Phase composition |  | 2005 | other; _liquid: Cr 0.675, Nb 0.325_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 100 |  |
+| Phase composition |  | 2007 | other; _liquid: Cr 0.668, Nb 0.332_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 102 |  |
+| Phase composition |  | 2010 | other; _liquid: Cr 0.635, Nb 0.365_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 106 |  |
+| Phase composition |  | 2011 | other; _liquid: Cr 0.653, Nb 0.347_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 104 |  |
+| Phase composition |  | 2013 | other; _liquid: Cr 0.593, Nb 0.407_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 44 |  |
+| Phase composition |  | 2013.3 | other; _liquid: Cr 0.337, Nb 0.663_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 37 |  |
+| Phase composition |  | 2018 | other; _liquid: Cr 0.792, Nb 0.208_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 42 |  |
+| Phase composition |  | 2030.5 | other: Cr-liquidus; _liquid: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 26 |  |
+| Phase composition |  | 2033 | other; _liquid: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 6 |  |
+| Phase composition |  | 2033 | other; _liquid: Cr 0.462, Nb 0.538_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 79 |  |
+| Phase composition |  | 2042 | other; _liquid: Cr 0.85, Nb 0.15_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 49 |  |
+| Phase composition |  | 2043 | other; _liquid: Cr 0.982, Nb 0.018_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 68 |  |
+| Phase composition |  | 2043 | other; _liquid: Cr 0.901, Nb 0.099_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 75 |  |
+| Phase composition |  | 2047 | other; _liquid: Cr 0.665, Nb 0.335_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 43 |  |
+| Phase composition |  | 2048 | other; _liquid: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 21 |  |
+| Phase composition |  | 2061 | other; _liquid: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 53 |  |
+| Phase composition |  | 2063 | other; _liquid: Cr 0.925, Nb 0.075_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 4 |  |
+| Phase composition |  | 2073 | other; _liquid: Cr 0.991, Nb 0.009_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 66 |  |
+| Phase composition |  | 2079 | other; _liquid: Cr 0.942, Nb 0.058_ | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 4, p. 5, row 88 |  |
+| Phase composition |  | 2093 | other; _liquid: Cr 0.35, Nb 0.65_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 22 |  |
+| Phase composition |  | 2103 | other; _liquid: Cr 0.95, Nb 0.05_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 3 |  |
+| Phase composition |  | 2108 | other; _liquid: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 24 |  |
+| Phase composition |  | 2127.5 | other; _liquid: Cr 0.196, Nb 0.804_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 38 |  |
+| Phase composition |  | 2133 | other; _liquid: Cr 0.341, Nb 0.659_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 81 |  |
+| Phase composition |  | 2168.5 | other; _liquid: Cr 0.158, Nb 0.842_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 39 |  |
+| Phase composition |  | 2173 | other; _liquid: Cr 0.2, Nb 0.8_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 26 |  |
+| Phase composition |  | 2223 | other; _liquid: Cr 0.15, Nb 0.85_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 27 |  |
+| Phase composition |  | 2313 | other; _liquid: Cr 0.1, Nb 0.9_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 28 |  |
+| Phase composition |  | 2323.3 | other; _liquid: Cr 0.096, Nb 0.904_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 40 |  |
+| Phase composition |  | 2333 | other; _liquid: Cr 0.05, Nb 0.95_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 30 |  |
+| Phase composition |  | 2372 | other; _liquid: Cr 0.2, Nb 0.8_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 55 |  |
+| Phase composition |  | 2521.9 | other; _liquid: Cr 0.045, Nb 0.955_ | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 4, p. 5, row 41 |  |
+| Phase composition |  | 2630 | other; _liquid: Cr 0.1, Nb 0.9_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 57 |  |
 
-### Formation (2)
+### Formation (1)
 
 Table: Formation, Cr–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | -0.5 unknown ± 0.6 | 298.15 | C15 Cr2Nb; _alloy: Cr 0.667, Nb 0.333_ | experimental | [1] Schmetterer 2014; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 5, p. 6, row 9 |  |
 | Entropy of formation; _printed: ΔfS_ | -0.5 unknown ± 0.6 | 298.15 | C15 Cr2Nb; _alloy: Cr 0.667, Nb 0.333_ | experimental | [1] Schmetterer 2014; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 5, p. 6, row 9 |  |
 
 ### Heat capacity / entropy / enthalpy (1)

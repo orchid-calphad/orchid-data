@@ -29,27 +29,27 @@ Table: Invariant reactions reported in the literature for the Nb–Ni–Y system
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1577.15 | other: M1: L' + L'' + (Nb) \<-> μ |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 20 |  |
-| 1564.15 | max: e1(max): L \<-> Ni5Y + NbNi3 | L: Nb 0.118, Y 0.079; Ni5Y: Y 0.167; NbNi3: Nb 0.245 | model | [1] Mattern 2008 | Table 5, p. 7, row 27 |  |
+| 1564.15 | other: e1(max): L \<-> Ni5Y + NbNi3 | L: Nb 0.118, Y 0.079; Ni5Y: Y 0.167; NbNi3: Nb 0.245 | model | [1] Mattern 2008 | Table 5, p. 7, row 27 |  |
 | 1535.15 | other: M1: L' + L'' + (Nb) \<-> μ | L': Nb 0.438, Y 0.05; L'': Nb 0.115, Y 0.31; (Nb): Nb 0.956, Y 0; μ: Nb 0.596; L′: Nb 0.438, Y 0.05; L″: Nb 0.115, Y 0.31 | model | [1] Mattern 2008 | Table 5, p. 7, row 19 |  |
-| 1529.15 | U: U1: L + Ni17Y2 \<-> Ni5Y + (Ni) | Ni5Y: Nb 0, Ni 0.833333, Y 0.166667 | experimental | [1] Mattern 2008 | Table 5, p. 7, row 2 |  |
-| 1520.15 | U: U1: L + Ni17Y2 \<-> Ni5Y + (Ni) | L: Nb 0.063, Y 0.054; Ni17Y2: Y 0.105; Ni5Y: Y 0.167; (Ni): Nb 0.079, Y 0 | model | [1] Mattern 2008 | Table 5, p. 7, row 1 |  |
-| 1508.15 | U: U2: L + Ni5Y \<-> NbNi3 + Ni4Y | Ni5Y: Nb 0, Ni 0.833333, Y 0.166667 | experimental | [1] Mattern 2008 | Table 5, p. 7, row 4 |  |
-| 1507.15 | U: U2: L + Ni5Y \<-> NbNi3 + Ni4Y | L: Nb 0.094, Y 0.164; Ni5Y: Y 0.167; NbNi3: Nb 0.25; Ni4Y: Y 0.2 | model | [1] Mattern 2008 | Table 5, p. 7, row 3 |  |
-| 1500.15 | E: E1: L \<-> Ni5Y + (Ni) + NbNi3 | L: Nb 0.102, Y 0.042; Ni5Y: Y 0.167; (Ni): Nb 0.11, Y 0; NbNi3: Nb 0.233 | model | [1] Mattern 2008 | Table 5, p. 7, row 15 |  |
-| 1497.15 | E: E1: L \<-> Ni5Y + (Ni) + NbNi3 | Ni5Y: Nb 0, Ni 0.833333, Y 0.166667 | experimental | [1] Mattern 2008 | Table 5, p. 7, row 16 |  |
-| 1477.15 | U: U3: L + Ni4Y \<-> NbNi3 + Ni7Y2 | L: Nb 0.084, Y 0.193; Ni4Y: Y 0.2; NbNi3: Nb 0.251; Ni7Y2: Y 0.222 | model | [1] Mattern 2008 | Table 5, p. 7, row 5 |  |
-| 1464.15 | U: U3: L + Ni4Y \<-> NbNi3 + Ni7Y2 |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 6 |  |
-| 1435.15 | U: U4: L + Ni7Y2 \<-> NbNi3 + Ni3Y | L: Nb 0.071, Y 0.229; Ni7Y2: Y 0.222; NbNi3: Nb 0.251; Ni3Y: Y 0.25 | model | [1] Mattern 2008 | Table 5, p. 7, row 7 |  |
-| 1434.15 | U: U4: L + Ni7Y2 \<-> NbNi3 + Ni3Y |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 8 |  |
-| 1336.15 | U: U5: L + Ni3Y \<-> NbNi3 + Ni2Y |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 10 |  |
-| 1332.15 | max: e2(max): L \<-> NiY + (Nb) | L: Nb 0.006, Y 0.505; NiY: Y 0.5; (Nb): Nb 0.983, Y 0 | model | [1] Mattern 2008 | Table 5, p. 7, row 28 |  |
-| 1331.15 | U: U5: L + Ni3Y \<-> NbNi3 + Ni2Y | L: Nb 0.04, Y 0.307; Ni3Y: Y 0.25; NbNi3: Nb 0.253; Ni2Y: Y 0.333 | model | [1] Mattern 2008 | Table 5, p. 7, row 9 |  |
-| 1308.15 | U: U6: L + NbNi3 \<-> μ + Ni2Y |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 12 |  |
-| 1299.15 | U: U6: L + NbNi3 \<-> μ + Ni2Y | L: Nb 0.042, Y 0.33; NbNi3: Nb 0.257; μ: Nb 0.489; Ni2Y: Y 0.333 | model | [1] Mattern 2008 | Table 5, p. 7, row 11 |  |
-| 1294.15 | U: U7: L + (Nb) \<-> μ + NiY | L: Nb 0.012, Y 0.444; (Nb): Nb 0.969, Y 0; μ: Nb 0.584; NiY: Y 0.5 | model | [1] Mattern 2008 | Table 5, p. 7, row 13 |  |
-| 1281.15 | U: U7: L + (Nb) \<-> μ + NiY |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 14 |  |
-| 1209.15 | E: E2: L \<-> μ + Ni2Y + NiY | L: Nb 0.011, Y 0.41; μ: Nb 0.532; Ni2Y: Y 0.333; NiY: Y 0.5 | model | [1] Mattern 2008 | Table 5, p. 7, row 17 |  |
-| 1203.15 | E: E2: L \<-> μ + Ni2Y + NiY |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 18 |  |
+| 1529.15 | quasi-peritectic: U1: L + Ni17Y2 \<-> Ni5Y + (Ni) | Ni5Y: Nb 0, Ni 0.833333, Y 0.166667 | experimental | [1] Mattern 2008 | Table 5, p. 7, row 2 |  |
+| 1520.15 | quasi-peritectic: U1: L + Ni17Y2 \<-> Ni5Y + (Ni) | L: Nb 0.063, Y 0.054; Ni17Y2: Y 0.105; Ni5Y: Y 0.167; (Ni): Nb 0.079, Y 0 | model | [1] Mattern 2008 | Table 5, p. 7, row 1 |  |
+| 1508.15 | quasi-peritectic: U2: L + Ni5Y \<-> NbNi3 + Ni4Y | Ni5Y: Nb 0, Ni 0.833333, Y 0.166667 | experimental | [1] Mattern 2008 | Table 5, p. 7, row 4 |  |
+| 1507.15 | quasi-peritectic: U2: L + Ni5Y \<-> NbNi3 + Ni4Y | L: Nb 0.094, Y 0.164; Ni5Y: Y 0.167; NbNi3: Nb 0.25; Ni4Y: Y 0.2 | model | [1] Mattern 2008 | Table 5, p. 7, row 3 |  |
+| 1500.15 | eutectic: E1: L \<-> Ni5Y + (Ni) + NbNi3 | L: Nb 0.102, Y 0.042; Ni5Y: Y 0.167; (Ni): Nb 0.11, Y 0; NbNi3: Nb 0.233 | model | [1] Mattern 2008 | Table 5, p. 7, row 15 |  |
+| 1497.15 | eutectic: E1: L \<-> Ni5Y + (Ni) + NbNi3 | Ni5Y: Nb 0, Ni 0.833333, Y 0.166667 | experimental | [1] Mattern 2008 | Table 5, p. 7, row 16 |  |
+| 1477.15 | quasi-peritectic: U3: L + Ni4Y \<-> NbNi3 + Ni7Y2 | L: Nb 0.084, Y 0.193; Ni4Y: Y 0.2; NbNi3: Nb 0.251; Ni7Y2: Y 0.222 | model | [1] Mattern 2008 | Table 5, p. 7, row 5 |  |
+| 1464.15 | quasi-peritectic: U3: L + Ni4Y \<-> NbNi3 + Ni7Y2 |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 6 |  |
+| 1435.15 | quasi-peritectic: U4: L + Ni7Y2 \<-> NbNi3 + Ni3Y | L: Nb 0.071, Y 0.229; Ni7Y2: Y 0.222; NbNi3: Nb 0.251; Ni3Y: Y 0.25 | model | [1] Mattern 2008 | Table 5, p. 7, row 7 |  |
+| 1434.15 | quasi-peritectic: U4: L + Ni7Y2 \<-> NbNi3 + Ni3Y |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 8 |  |
+| 1336.15 | quasi-peritectic: U5: L + Ni3Y \<-> NbNi3 + Ni2Y |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 10 |  |
+| 1332.15 | other: e2(max): L \<-> NiY + (Nb) | L: Nb 0.006, Y 0.505; NiY: Y 0.5; (Nb): Nb 0.983, Y 0 | model | [1] Mattern 2008 | Table 5, p. 7, row 28 |  |
+| 1331.15 | quasi-peritectic: U5: L + Ni3Y \<-> NbNi3 + Ni2Y | L: Nb 0.04, Y 0.307; Ni3Y: Y 0.25; NbNi3: Nb 0.253; Ni2Y: Y 0.333 | model | [1] Mattern 2008 | Table 5, p. 7, row 9 |  |
+| 1308.15 | quasi-peritectic: U6: L + NbNi3 \<-> μ + Ni2Y |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 12 |  |
+| 1299.15 | quasi-peritectic: U6: L + NbNi3 \<-> μ + Ni2Y | L: Nb 0.042, Y 0.33; NbNi3: Nb 0.257; μ: Nb 0.489; Ni2Y: Y 0.333 | model | [1] Mattern 2008 | Table 5, p. 7, row 11 |  |
+| 1294.15 | quasi-peritectic: U7: L + (Nb) \<-> μ + NiY | L: Nb 0.012, Y 0.444; (Nb): Nb 0.969, Y 0; μ: Nb 0.584; NiY: Y 0.5 | model | [1] Mattern 2008 | Table 5, p. 7, row 13 |  |
+| 1281.15 | quasi-peritectic: U7: L + (Nb) \<-> μ + NiY |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 14 |  |
+| 1209.15 | eutectic: E2: L \<-> μ + Ni2Y + NiY | L: Nb 0.011, Y 0.41; μ: Nb 0.532; Ni2Y: Y 0.333; NiY: Y 0.5 | model | [1] Mattern 2008 | Table 5, p. 7, row 17 |  |
+| 1203.15 | eutectic: E2: L \<-> μ + Ni2Y + NiY |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 18 |  |
 | 1175.15 | other: D1: L + (Nb) + (Y) \<-> NiY3 | L: Nb 0, Y 0.729; (Nb): Nb 0.999, Y 0; (Y): Nb 0, Y 0.999; NiY3: Y 0.75 | model | [1] Mattern 2008 | Table 5, p. 7, row 21 |  |
 | 1168.15 | other: D1: L + (Nb) + (Y) \<-> NiY3 |  | experimental | [1] Mattern 2008 | Table 5, p. 7, row 22 |  |
 | 1093.15 | other: D3: L + (Nb) + NiY \<-> Ni2Y3 | L: Nb 0, Y 0.626; (Nb): Nb 0.998, Y 0; NiY: Y 0.5; Ni2Y3: Y 0.6 | model | [1] Mattern 2008 | Table 5, p. 7, row 25 |  |

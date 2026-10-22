@@ -1,16 +1,16 @@
 # FeY: enthalpy of formation
 
-> Enthalpy of formation of FeY: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of FeY: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/FeY.html · Markdown: https://data.orchid-project.org/compounds/FeY.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 1, model 9); OQMD 0.618 kJ/mol-atom (oqmd-1435280).
+9 accepted literature formation-enthalpy value(s) (experimental 1, model 8); OQMD 0.618 kJ/mol-atom (oqmd-1435280).
 
 Systems: [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of FeY reported in the literature (10)
+Table: Enthalpy of formation of FeY reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -18,7 +18,6 @@ Table: Enthalpy of formation of FeY reported in the literature (10)
 | -12.5 kJ/mol-atom | FeY | 298.15 | model | Prediction (b) | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Watson 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990034-8) | Table 5, p. 12, row 42 |  |
 | -9.4 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 45 |  |
 | -9 per mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014 | Table 4, p. 4, row 24 |  |
-| -9 per mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [1] Kardellass 2014 | Table 4, p. 4, row 25 |  |
 | -8.8 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 46 |  |
 | -5.9 kJ/mol-atom | FeY | 0 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 40 |  |
 | -5.8 kJ/mol-atom | FeY | 973 | model | Interpolation | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html) | [2] Saenko 2017 | Table 5, p. 12, row 44 |  |

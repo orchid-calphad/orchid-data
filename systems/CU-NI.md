@@ -77,9 +77,9 @@ Table: Mixing / partial, Cu–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1590 J mol-1 | 1113 |  | experimental | [2] Srikanth 1989; _cites ref. 10_ | p. 2 | “Oriani and Murphy10 used a differential solution calorimeter using liquid tin as the solvent to measure enthalpy of mixing in solid Cu-Ni alloys at 1113 K. Their study gives a maximum value of 1590 J mol-1 at XNi '" 0·7.” |
-| Enthalpy of mixing; _printed: ~Hmax_ | 8 kJ mol-1 | 1773 |  | experimental | [2] Srikanth 1989; _cites EL'KHASAN 1966_ | p. 7 | “El'Khasan et ai.39 report high exothermic values for the enthalpy of mixing (~Hmax= 8 kJ mol-1) at 1773 K and their results are not compatible with other calorimetric studies.” |
-| Partial enthalpy; _printed: ∞ ΔH Co_ | 42 kJ/mole ± 2.4 | 1385 |  | experimental | [1] Turchanin 2007; _cites ref. 19_ | p. 2 | “The above results are in agreement with \[19\], which established the first enthalpy of cobalt mixing ∞ ΔH Co = 42.0 ± 2.4 kJ/mole at 1385 K using a high-temperature Tian-Calvet calorimeter.” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1.59 kJ/mol (basis unstated) | 1113 |  | experimental | [2] Srikanth 1989; _cites ref. 10_ | p. 2 | “Oriani and Murphy10 used a differential solution calorimeter using liquid tin as the solvent to measure enthalpy of mixing in solid Cu-Ni alloys at 1113 K. Their study gives a maximum value of 1590 J mol-1 at XNi '" 0·7.” |
+| Enthalpy of mixing; _printed: ~Hmax_ | 8 kJ/mol (basis unstated) | 1773 |  | experimental | [2] Srikanth 1989; _cites EL'KHASAN 1966_ | p. 7 | “El'Khasan et ai.39 report high exothermic values for the enthalpy of mixing (~Hmax= 8 kJ mol-1) at 1773 K and their results are not compatible with other calorimetric studies.” |
+| Partial enthalpy; _printed: ∞ ΔH Co_ | 42 kJ/mol (basis unstated) ± 2.4 | 1385 |  | experimental | [1] Turchanin 2007; _cites ref. 19_ | p. 2 | “The above results are in agreement with \[19\], which established the first enthalpy of cobalt mixing ∞ ΔH Co = 42.0 ± 2.4 kJ/mole at 1385 K using a high-temperature Tian-Calvet calorimeter.” |
 
 ### Activity / EMF / Gibbs energy (28)
 

@@ -45,27 +45,27 @@ Table: Invariant reactions reported in the literature for the Na–O system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1405.2 | melting: Na2O-III = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 8 |  |
-| 1403 | melting: Na2O-III = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 7 |  |
+| 1405.2 | congruent melting: Na2O-III = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 8 |  |
+| 1403 | congruent melting: Na2O-III = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 7 |  |
 | 1403 | monotectic: Na2O-III + L1 = L2 | L1: O 0.047; Na2O: O 0.333 | experimental | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 7, p. 11, row 16 |  |
 | 1402 | monotectic: Na2O-III + L1 = L2 | L1: O 0.047; L2: O 0.333; Na2O: O 0.333 | model | [1] Smith 2017 | Table 7, p. 11, row 15 |  |
 | 1243.2 | polymorphic: Na2O-II = Na2O-III |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 6 |  |
 | 1241 | polymorphic: Na2O-II = Na2O-III |  | model | [1] Smith 2017 | Table 7, p. 11, row 5 |  |
 | 1023.2 | polymorphic: Na2O-I = Na2O-II |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 4 |  |
 | 1020.3 | polymorphic: Na2O-I = Na2O-II |  | model | [1] Smith 2017 | Table 7, p. 11, row 3 |  |
-| 948 | melting: Na2O2-II = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 12 |  |
-| 948 | melting: Na2O2-II = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 11 |  |
+| 948 | congruent melting: Na2O2-II = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 12 |  |
+| 948 | congruent melting: Na2O2-II = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 11 |  |
 | 843 | eutectic: Na2O-I + Na2O2-II = liquid |  | model | [1] Smith 2017 | p. 7 | “The eutectic equilibrium Na2O-I + Na2O2-II = liquid at 843 K was never observed experimentally.” |
 | 843 | eutectic: Na2O-I + Na2O2-II = L2 | L2: O 0.47; Na2O(I): O 0.333; Na2O2 II: O 50 (basis unresolved) | model | [1] Smith 2017 | Table 7, p. 11, row 19 |  |
 | 843 | eutectic: Na2O-I + Na2O2-II = liquid |  | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | p. 21 | “The present DSC measurements moreover argue for the existence of a {Na2O-I + Na2O2-II = liquid} eutectic equilibrium at 843 K as anticipated by Wriedt \[14\].” |
 | 843 | eutectic: Na2O-I + Na2O2-II = L2 | L2: O 0.44; Na2OI: O 0.333 | experimental | [1] Smith 2017; _cites Bunzel 1947_ | Table 7, p. 11, row 20 |  |
-| 826 | melting: NaO2-I = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 13 |  |
-| 825 | melting: NaO2-I = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 14 |  |
+| 826 | congruent melting: NaO2-I = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 13 |  |
+| 825 | congruent melting: NaO2-I = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 14 |  |
 | 785 | polymorphic: Na2O2-I = Na2O2-II |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 10 |  |
 | 782 | polymorphic: Na2O2-I = Na2O2-II |  | model | [1] Smith 2017 | Table 7, p. 11, row 9 |  |
 | 371 | eutectic: β-Na + Na2O-I = L1 | Na2O: O 0.333 | experimental | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 7, p. 11, row 18 |  |
-| 370.98 | melting: β-Na = L1 |  | model | [1] Smith 2017 | Table 7, p. 11, row 1 |  |
-| 370.98 | melting: β-Na = L1 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 2 |  |
+| 370.98 | congruent melting: β-Na = L1 |  | model | [1] Smith 2017 | Table 7, p. 11, row 1 |  |
+| 370.98 | congruent melting: β-Na = L1 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 2 |  |
 | 370.98 | eutectic: β-Na + Na2O-I = L1 | Na2O: O 0.333 | model | [1] Smith 2017 | Table 7, p. 11, row 17 |  |
 
 ## Formation enthalpies
@@ -94,10 +94,10 @@ Table: Phase transition, Na–O system
 | Phase transition | 821.2 K | 821.2 | eutectic: L2 = Na2O-I + Na2O2-II; _alloy: Na 0.5714, O 0.4286_ | experimental | [1] Smith 2017 | Table 5, p. 6, row 8 |  |
 | Phase transition | 832.6 K | 832.6 | eutectic: L2 = Na2O-I + Na2O2-II; _alloy: Na 0.5406, O 0.4594_ | experimental | [1] Smith 2017 | Table 5, p. 6, row 6 |  |
 | Phase transition | 863.5 K | 863.5 | eutectic: L2 = Na2O-I + Na2O2-II; _alloy: Na 0.5263, O 0.4737_ | experimental | [1] Smith 2017 | Table 5, p. 6, row 4 |  |
-| Phase transition | 939.8 K | 939.8 | congruent: Na2O2-II = L2; _alloy: Na 0.5, O 0.5_ | experimental | [1] Smith 2017 | Table 5, p. 6, row 2 |  |
+| Phase transition | 939.8 K | 939.8 | congruent transformation: Na2O2-II = L2; _alloy: Na 0.5, O 0.5_ | experimental | [1] Smith 2017 | Table 5, p. 6, row 2 |  |
 | Phase transition | 948 K | 948 |  | model | [1] Smith 2017 | p. 2 | “Na2O2-II melts at T fus ðNa2 O2 ; crÞ = 948 K \[18,24,29\].” |
 | Phase transition | 991.6 K | 991.6 | polymorphic: Na2O-I = Na2O-II; _alloy: Na 0.5406, O 0.4594_ | experimental | [1] Smith 2017 | Table 5, p. 6, row 5 |  |
-| Phase transition | 1023 K | 1023 (none) |  | experimental | [1] Smith 2017; _cites Bouaziz 1966_ | p. 7 | “Finally the DSC results seem to argue for the existence of a phase transition in Na2O around 1023 K as observed by Bouaziz et al. \[25\].” |
+| Phase transition | 1023 K | 1023 |  | experimental | [1] Smith 2017; _cites Bouaziz 1966_ | p. 7 | “Finally the DSC results seem to argue for the existence of a phase transition in Na2O around 1023 K as observed by Bouaziz et al. \[25\].” |
 | Phase transition | 1023 K | 1023 |  | model | [1] Smith 2017 | p. 2 | “Bouaziz et al. observed two phase transitions at 1023 and 1243 K, respectively, when performing differential thermal analysis (DTA) measurements on a very highpurity sample \[25\].” |
 | Phase transition | 1025.5 K | 1025.5 | polymorphic: Na2O-I = Na2O-II; _alloy: Na 0.625, O 0.375_ | experimental | [1] Smith 2017 | Table 5, p. 6, row 9 |  |
 | Phase transition | 1042.8 K | 1042.8 | polymorphic: Na2O-I = Na2O-II; _alloy: Na 0.5714, O 0.4286_ | experimental | [1] Smith 2017 | Table 5, p. 6, row 7 |  |
