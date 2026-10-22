@@ -1,0 +1,49 @@
+# Pd3Yb: enthalpy of formation
+
+> Enthalpy of formation of Pd3Yb: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Pd3Yb.html · Markdown: https://data.orchid-project.org/compounds/Pd3Yb.md
+
+13 accepted literature formation-enthalpy value(s) (experimental 2, model 9, DFT 2); experimental median -68 kJ/mol-atom (n = 2); OQMD -67.303 kJ/mol-atom (oqmd-17988).
+
+Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Pd3Yb reported in the literature (13)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -68 kJ/mol-atom ± 2 | Pd3Yb | 1029.5 | experimental | KEML/KEMS\* | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 10 |  |
+| -68 kJ/mol-atom ± 2 | Pd3Yb | 1029.5 | experimental | KEML/KEMS\* | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 10 |  |
+| -64.7552 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 9 |  |
+| -64.7552 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 9 |  |
+| -60.7175 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 7 |  |
+| -60.7175 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 7 |  |
+| -60.1448 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 8 |  |
+| -60.1448 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 8 |  |
+| -40.1795 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
+| -32.2396 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
+| -32.0719 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 79 |  |
+| -21.084 kJ/mol-atom | Pd3Yb | 298.15 | DFT | Ab-initio | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 11 |  |
+| -21.084 kJ/mol-atom | Pd3Yb | 298.15 | DFT | Ab-initio | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 11 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Pd3Yb
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| OQMD | oqmd-17988 | -67.303 | -0.697549 | Pm-3m | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020). [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

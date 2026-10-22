@@ -1,0 +1,43 @@
+# Ni21Zr8: enthalpy of formation
+
+> Enthalpy of formation of Ni21Zr8: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Ni21Zr8.html · Markdown: https://data.orchid-project.org/compounds/Ni21Zr8.md
+
+6 accepted literature formation-enthalpy value(s) (experimental 1, model 3, DFT 2); experimental median -45 kJ/mol-atom (n = 1); Materials Project -41.892 kJ/mol-atom (mp-aaaabstw); OQMD -42.642 kJ/mol-atom (oqmd-24762).
+
+Systems: [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Ni21Zr8 reported in the literature (6)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -45 kJ/mol-atom ± 4 | Ni21Zr8 | 298.15 | experimental | experimental | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Spit 1980_ [doi](https://doi.org/10.1016/0036-9748%2880%2990208-2) | Table 6, p. 7, row 28 |  |
+| -47.443 kJ/mol-atom | Ni21Zr8 |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 32 |  |
+| -42.821 kJ/mol-atom | Ni21Zr8 |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 30 |  |
+| -42.235 kJ/mol-atom | Ni21Zr8 |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 33 |  |
+| -47.655 kJ/mol-atom | Ni21Zr8 |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 29 |  |
+| -41.392 kJ/mol-atom | Ni21Zr8 |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 31 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Ni21Zr8
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaabstw | -41.892 | -0.434186 | P-1 | 2.314 | no |
+| OQMD | oqmd-24762 | -42.642 | -0.441956 | P-1 | 2.416 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Asmita Jana, Soumya Sridar, Suzana G. Fries, Thomas Hammerschmidt, K.C. Hari Kumar, Thermodynamic modelling of the Ni–Zr system, Intermetallics 116, 106640 (2020). [doi:10.1016/j.intermet.2019.106640](https://doi.org/10.1016/j.intermet.2019.106640)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

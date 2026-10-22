@@ -1,0 +1,138 @@
+# C–Hf system
+
+> C–Hf system: 59 accepted literature values (invariant reaction 23, formation 19, crystal structure 7, heat capacity / entropy / enthalpy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/C-HF.html · Markdown: https://data.orchid-project.org/systems/C-HF.md
+
+59 accepted literature values from 2 paper(s) (experimental 31, model 16, unspecified 12); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-HF.json) · [CSV](https://data.orchid-project.org/systems/C-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-HF) · [Markdown](https://data.orchid-project.org/systems/C-HF.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 31 |
+| model | 16 |
+| unspecified | 12 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 23 |
+| phase transition | 3 |
+| formation | 19 |
+| heat capacity / entropy / enthalpy | 7 |
+| crystal structure | 7 |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-HF.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-HF.json) · [CALPHAD hull HfC-97Bit-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-HF--HfC-97Bit-LB.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the C–Hf system (23)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 4223 | Congruent: L \<-> HfC1-x | L: C 0.485; HfC1-x: C 0.485 | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 1, p. 2, row 17 |  |
+| 4215 | Congruent: L \<-> HfC1-x | L: C 0.484; HfC1-x: C 0.484 | model | [1] Bittermann 1997 | Table 1, p. 2, row 18 |  |
+| 4201 | Congruent: L \<-> HfC1-x | L: C 0.485; HfC1-x: C 0.485 | experimental | [1] Bittermann 1997; _cites Rudy 1965_ | Table 1, p. 2, row 16 |  |
+| 3453 | Eutectic: L \<-> HfC1-x + C | L: C 0.65; HfC1-x: C 0.495 | experimental | [1] Bittermann 1997; _cites Rudy 1965_ | Table 1, p. 2, row 13 |  |
+| 3453 | eutectic |  | model | [1] Bittermann 1997 | p. 2 | “The C-rich eutectic is located at 3453 K and 65 at.% C (\[69Rud\] and \[Massalski2\] at 68 at.% C).” |
+| 3453 | Eutectic: L \<-> HfC1-x + C | L: C 0.68; HfC1-x: C 0.495 | unspecified | [1] Bittermann 1997; _cites Rudy 1969_ | Table 1, p. 2, row 14 |  |
+| 3446 | Eutectic: L \<-> HfC1-x + C | L: C 0.68; HfC1-x: C 0.499; C: C 1 | model | [1] Bittermann 1997 | Table 1, p. 2, row 15 |  |
+| 2649 | Peritectic: L + HfC1-x \<-> αHf | L: C 0.0602; HfC1-x: C 0.335; αHf: C 0.14 | model | [1] Bittermann 1997 | Table 1, p. 2, row 12 |  |
+| 2633.15 | peritectic: L + HfC1-x ↔ ␣Hf(C) |  | experimental | [2] Bittermann 2002 | p. 2 | “From the binary peritectic decomposition, L + HfC1-x ↔ ␣Hf(C) at 2360 °C, ␣(Hf,Zr)(C) projects itself into the ternary partaking in a four-phase reaction at 2030 °C: ␣(Hf,Zr)(C) + L ↔ ␤(Hf,Zr)(C) + (Hf,Zr)C 1-x .” |
+| 2633 | Peritectic: L + HfC1-x \<-> αHf | L: C 0.05; HfC1-x: C 0.34; αHf: C 0.15 | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 1, p. 2, row 11 |  |
+| 2633 | Peritectic: L + HfC1-x \<-> αHf | L: C 0.05; HfC1-x: C 0.34; αHf: C 0.14 | experimental | [1] Bittermann 1997; _cites Rudy 1965_ | Table 1, p. 2, row 10 |  |
+| 2633 | peritectic |  | model | [1] Bittermann 1997 | p. 2 | “t~Hf is stabilized to higher temperatures by incorporation o f C atoms into the interstitial sites and d e c o m p o s e s on heating in a peritectic reaction with a m a x i m u m solubility o f 14 at.% C (\[Massalski2\] at 15 at.% C) at 2633 K into HfCI\_ x and liquid phase.” |
+| 2633 | peritectic: L + HfCl_x ~ txHf |  | model | [1] Bittermann 1997 | p. 10 | “It was found that the drastic change of the relative stabilities of t~Hf and liquid from the eutectic reaction, L ~ ~Hf + ~ H f at 2453 K, to the peritectic reaction, L + HfCl_x ~ txHf at 2633 K, could only be reproduced by the additional introduction of the parameters L l,aHf L 2'aHf and L 3,L.” |
+| 2506 | Melting: L \<-> βHf | L: C 0; βHf: C 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 9 |  |
+| 2504 | Melting: L \<-> βHf | L: C 0; βHf: C 0 | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 1, p. 2, row 8 |  |
+| 2491 | Eutectic: L \<-> βHf + αHf | L: C 0.015; βHf: C 0.01; αHf: C 0.02 | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 1, p. 2, row 5 |  |
+| 2491 | Melting: L \<-> βHf | L: C 0; βHf: C 0 | experimental | [1] Bittermann 1997; _cites Rudy 1965_ | Table 1, p. 2, row 7 |  |
+| 2480 | Eutectic: L \<-> βHf + αHf | L: C 0.0137; βHf: C 0.005; αHf: C 0.0293 | model | [1] Bittermann 1997 | Table 1, p. 2, row 6 |  |
+| 2453 | Eutectic: L \<-> βHf + αHf | L: C 0.015; βHf: C 0.01; αHf: C 0.02 | experimental | [1] Bittermann 1997; _cites Rudy 1965_ | Table 1, p. 2, row 4 |  |
+| 2453 | eutectic: L ~ ~Hf + ~ H f |  | model | [1] Bittermann 1997 | p. 10 | “It was found that the drastic change of the relative stabilities of t~Hf and liquid from the eutectic reaction, L ~ ~Hf + ~ H f at 2453 K, to the peritectic reaction, L + HfCl_x ~ txHf at 2633 K, could only be reproduced by the additional introduction of the parameters L l,aHf L 2'aHf and L 3,L.” |
+| 2043 | Allotropic: βHf \<-> αHf | βHf: C 0; αHf: C 0 | experimental | [1] Bittermann 1997; _cites Rudy 1965_ | Table 1, p. 2, row 1 |  |
+| 2016 | Allotropic: βHf \<-> αHf | βHf: C 0; αHf: C 0 | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 1, p. 2, row 2 |  |
+| 2016 | Allotropic: βHf \<-> αHf | βHf: C 0; αHf: C 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 3 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, C–Hf system (19)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| — |  | -209.4 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | p. 7 | “Thus, the value Ae/-/(HfC, 298 K) = -209.4 kJ/mol from \[77Kor\] was selected in the present assessment, which was also confirmed by the calculation of the phase relations in the ternary Hf-B-C system \[97Bit\].” |
+| HfC |  | -262.7 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites Coffman 1963_ | Table 3, p. 3, row 1 |  |
+| HfC |  | -210.5 kJ/mol (basis unstated) ± 20.9 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Fesenko 1966_ | Table 3, p. 3, row 5 |  |
+| HfC |  | -209.4 kJ/mol (basis unstated) | 298 | model |  |  | [1] Bittermann 1997 | Table 3, p. 3, row 9 |  |
+| HfC0.6 |  | -140.9 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
+| HfC0.6 tos HfC1.0 |  | -209.4 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
+| HfC0.6 tos HfC1.0 |  | -140.9 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
+| HfC0.621 |  | -133.1 kJ/mol (basis unstated) | 1780 | experimental |  |  | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
+| HfC0.621 to HfC0.980 |  | -209.7 kJ/mol (basis unstated) ± 13.5 | 1780 | experimental |  |  | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
+| HfC0.621 to HfC0.980 |  | -133.1 kJ/mol (basis unstated) ± 13.5 | 1780 | experimental |  |  | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
+| HfC0.67 |  | -220.9 kJ/mol (basis unstated) ± 1.7 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
+| HfC0.67 to HfC1.00 |  | -231.1 kJ/mol (basis unstated) ± 2.1 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
+| HfC0.67 to HfC1.00 |  | -220.9 kJ/mol (basis unstated) ± 1.7 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
+| HfC0.93 |  | -197.5 kJ/mol (basis unstated) ± 3.8 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 3, row 7 |  |
+| HfC0.958 |  | -218.4 kJ/mol (basis unstated) ± 1.7 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Mah 1964_ | Table 3, p. 3, row 2 |  |
+| HfC0.97 |  | -238.1 kJ/mol (basis unstated) ± 29.3 | 298 | experimental |  |  | [1] Bittermann 1997; _cites McClaine 1964_ | Table 3, p. 3, row 3 |  |
+| HfC0.980 |  | -209.7 kJ/mol (basis unstated) ± 13.5 | 1780 | experimental |  |  | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
+| HfC1.0 |  | -209.4 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
+| HfC1.00 |  | -231.1 kJ/mol (basis unstated) ± 2.1 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, C–Hf system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 2043 K | 2043 | polymorphic | model | [1] Bittermann 1997 | p. 2 | “Pure H f exists in two allotropic modifications, otHf with cph structure is stable up to 2043 K (\[Massalski2\] at 2016 K).” |
+| Phase transition | 2491 K | 2491 |  | model | [1] Bittermann 1997 | p. 2 | “The melting point o f Hf is 2491 K (\[Massalski2\] at 2504 K).” |
+| Phase transition | 4201 K | 4201 | congruent | model | [1] Bittermann 1997 | p. 2 | “The c o m p o s i t i o n o f the congruent melting o f HfCl_x at 4201 K (\[Massalski2\] at 4223 K) is off-stoichiometric at HfC0.97.” |
+
+### Heat capacity / entropy / enthalpy (7)
+
+Table: Heat capacity / entropy / enthalpy, C–Hf system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Derived S298_ | 39.64 unknown | 298.15 | HfC; _alloy: Hf 0.5_ | model | [1] Bittermann 1997 | Table 4a, p. 5, row 5 |  |
+| Entropy; _printed: Derived S298_ | 39.5 unknown ± 0.42 | 298.15 | HfC0.96; _alloy: Hf 0.510204_ | experimental | [1] Bittermann 1997; _cites McClaine 1964_ | Table 4a, p. 5, row 1 |  |
+| Entropy; _printed: Derived S298_ | 39.36 unknown | 298.15 | HfC0.968; _alloy: Hf 0.50813_ | experimental | [1] Bittermann 1997; _cites E 1977_ | Table 4a, p. 5, row 4 |  |
+| Heat capacity; _printed: Cp (298)_ | 37.56 J/mol (basis unstated)/K | 298.15 | HfC; _alloy: Hf 0.5_ | model | [1] Bittermann 1997 | Table 4a, p. 5, row 5 |  |
+| Heat capacity; _printed: Cp (298)_ | 37.49 J/mol (basis unstated)/K | 298.15 | HfC0.96; _alloy: Hf 0.510204_ | experimental | [1] Bittermann 1997; _cites McClaine 1964_ | Table 4a, p. 5, row 1 |  |
+| Heat capacity; _printed: Cp (298)_ | 37.37 J/mol (basis unstated)/K | 298.15 | HfC0.968; _alloy: Hf 0.50813_ | experimental | [1] Bittermann 1997; _cites E 1977_ | Table 4a, p. 5, row 4 |  |
+| Heat capacity; _printed: Cp (298)_ | 41.82 J/mol (basis unstated)/K | 298.15 | HfC0.99; _alloy: Hf 0.502513_ | experimental | [1] Bittermann 1997; _cites Buravoi 1974_ | Table 4a, p. 5, row 3 |  |
+
+### Crystal structure (7)
+
+Table: Crystal structure, C–Hf system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.31946 nm | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1 |  |
+| Lattice a | 0.462225 nm (range 0.4606 to 0.46385) | 298.15 | HfC1−x | experimental | [1] Bittermann 1997; _cites Rudy 1969_ | Table 2, p. 2, row 4 |  |
+| Lattice a | 0.24612 nm | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
+| Lattice a | 0.361 nm | 298.15 | UNKNOWN; _alloy: Hf 1_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 2 |  |
+| Lattice c | 0.5051 nm | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1 |  |
+| Lattice c | 0.6709 nm | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
+| lattice c a | 2.7258 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the binary system hafnium-carbon (Hf-C), JPE 18, 344-356 (1997). [doi:10.1007/s11669-997-0061-3](https://doi.org/10.1007/s11669-997-0061-3)
+2. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system C-Hf-Zr (Carbon-Zirconium-Hafnium), JPE 23, 218-235 (2002). [doi:10.1361/105497102770331703](https://doi.org/10.1361/105497102770331703)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,111 @@
+# Mn–P system
+
+> Mn–P system: 1 accepted literature values (phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MN-P.html · Markdown: https://data.orchid-project.org/systems/MN-P.md
+
+1 accepted literature values from 1 paper(s) (model 1); 3 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-P.json) · [CSV](https://data.orchid-project.org/systems/MN-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-P/MnP-01Mie.json) · [Markdown](https://data.orchid-project.org/systems/MN-P.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 1 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MnP-01Mie.tdb | J. Miettinen, Calphad, 25, 43-58(2001). [doi:10.1016/S0364-5916(01)00029-3](https://doi.org/10.1016/S0364-5916%2801%2900029-3) | `10848464fabd372b159aec2be51469aac815cc9abdb7e443954efd4646612aea` | [viewer](https://orchid-project.org/phase-diagrams/#MN-P/MnP-01Mie.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnP-01Mie.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnP-01Mie.json) |
+| MnP-07Tok.tdb | T. Tokunaga, N. Hanaya, H. Ohtani, M. Hasebe, Mater. Sci. Forum, 561-565, 1899-1902(2007). | `a557a0b4c71cfda4de4f03bd99cb8bb5cecc23038e6bf2207b1e48fa2eec2213` | [viewer](https://orchid-project.org/phase-diagrams/#MN-P/MnP-07Tok.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnP-07Tok.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnP-07Tok.json) |
+| MnP-14Mie.tdb | J. Miettinen, G. Vassilev, J. Phase Equilib. Diffus., 35, 587-94(2014). [doi:10.1007/s11669-014-0328-4](https://doi.org/10.1007/s11669-014-0328-4) | `26ad7901d51552be99382abff54d08bece32f1c45daf8e2881ab082059b4ad34` | [viewer](https://orchid-project.org/phase-diagrams/#MN-P/MnP-14Mie.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnP-14Mie.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnP-14Mie.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MnP-01Mie.tdb | 1411.06 | BCC_A2 (x(P) 1.000e-5) + FCC_A1 (x(P) 1.000e-5) + LIQUID (x(P) 0.05737) |
+| MnP-01Mie.tdb | 1411.06 | FCC_A1 (x(P) 1.000e-5) + BCC_A2 (x(P) 1.000e-5) + LIQUID (x(P) 0.05729) |
+| MnP-01Mie.tdb | 1411.06 | BCC_A2 (x(P) 1.000e-5) + FCC_A1 (x(P) 1.000e-5) + LIQUID (x(P) 0.05735) |
+| MnP-01Mie.tdb | 1379.5 | LIQUID (x(P) 0.20992) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-01Mie.tdb | 1379.49 | LIQUID (x(P) 0.20956) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-01Mie.tdb | 1379.49 | LIQUID (x(P) 0.20959) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-01Mie.tdb | 1359.97 | CUB_A13 (x(P) 1.000e-5) + FCC_A1 (x(P) 1.000e-5) + LIQUID (x(P) 0.08055) |
+| MnP-01Mie.tdb | 1359.97 | FCC_A1 (x(P) 1.000e-5) + CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.0806) |
+| MnP-01Mie.tdb | 1359.97 | CUB_A13 (x(P) 1.000e-5) + FCC_A1 (x(P) 1.000e-5) + LIQUID (x(P) 0.08052) |
+| MnP-01Mie.tdb | 1233.11 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.13097) + MN3P_D0E (x(P) 0.25) |
+| MnP-01Mie.tdb | 1233.11 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.13105) + MN3P_D0E (x(P) 0.25) |
+| MnP-01Mie.tdb | 1233.11 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.13096) + MN3P_D0E (x(P) 0.25) |
+| MnP-01Mie.tdb | 980 | CBCC_A12 (x(P) 0) + CUB_A13 (x(P) 0) + MN3P_D0E (x(P) 0.25) |
+| MnP-07Tok.tdb | 1411.08 | BCC_A2 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.06801) |
+| MnP-07Tok.tdb | 1411.08 | BCC_A2 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.06792) |
+| MnP-07Tok.tdb | 1378.47 | LIQUID (x(P) 0.2265) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-07Tok.tdb | 1378.47 | LIQUID (x(P) 0.22672) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-07Tok.tdb | 1378.47 | LIQUID (x(P) 0.22642) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-07Tok.tdb | 1363.46 | MN2P_C22 (x(P) 0.33333) + MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.43291) |
+| MnP-07Tok.tdb | 1363.46 | MN2P_C22 (x(P) 0.33333) + MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.43288) |
+| MnP-07Tok.tdb | 1361.55 | MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.43438) + MNP_B31 (x(P) 0.5) |
+| MnP-07Tok.tdb | 1361.55 | MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.4344) + MNP_B31 (x(P) 0.5) |
+| MnP-07Tok.tdb | 1361.55 | MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.43443) + MNP_B31 (x(P) 0.5) |
+| MnP-07Tok.tdb | 1359.96 | CUB_A13 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.09338) |
+| MnP-07Tok.tdb | 1359.96 | CUB_A13 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.09321) |
+| MnP-07Tok.tdb | 1269.56 | MNP_B31 (x(P) 0.5) + LIQUID (x(P) 0.60446) + MNP4 (x(P) 0.8) |
+| MnP-07Tok.tdb | 1269.56 | MNP_B31 (x(P) 0.5) + LIQUID (x(P) 0.6045) + MNP4 (x(P) 0.8) |
+| MnP-07Tok.tdb | 1259.74 | MN2P_C22 (x(P) 0.33333) + MN3P2 (x(P) 0.4) + MNP_B31 (x(P) 0.5) |
+| MnP-07Tok.tdb | 1232.37 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.1403) + MN3P_D0E (x(P) 0.25) |
+| MnP-07Tok.tdb | 1232.37 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.14029) + MN3P_D0E (x(P) 0.25) |
+| MnP-07Tok.tdb | 1232.37 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.14036) + MN3P_D0E (x(P) 0.25) |
+| MnP-07Tok.tdb | 980 | CBCC_A12 (x(P) 0) + CUB_A13 (x(P) 0) + MN3P_D0E (x(P) 0.25) |
+| MnP-07Tok.tdb | 852.36 | MNP4 (x(P) 0.8) + RED_P (x(P) 1) + LIQUID (x(P) 1) |
+| MnP-14Mie.tdb | 1411.07 | BCC_A2 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.06065) |
+| MnP-14Mie.tdb | 1411.07 | BCC_A2 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.0607) |
+| MnP-14Mie.tdb | 1411.07 | BCC_A2 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.06058) |
+| MnP-14Mie.tdb | 1382.51 | LIQUID (x(P) 0.21816) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-14Mie.tdb | 1382.51 | LIQUID (x(P) 0.21827) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-14Mie.tdb | 1382.51 | LIQUID (x(P) 0.21812) + MN3P_D0E (x(P) 0.25) + MN2P_C22 (x(P) 0.33333) |
+| MnP-14Mie.tdb | 1367.15 | MN2P_C22 (x(P) 0.33333) + MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.43861) |
+| MnP-14Mie.tdb | 1367.15 | MN2P_C22 (x(P) 0.33333) + MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.4387) |
+| MnP-14Mie.tdb | 1359.96 | CUB_A13 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.08521) |
+| MnP-14Mie.tdb | 1359.96 | CUB_A13 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.08526) |
+| MnP-14Mie.tdb | 1359.96 | CUB_A13 (x(P) 1.000e-5) + FCC_A1 (x(P) 2.000e-5) + LIQUID (x(P) 0.08512) |
+| MnP-14Mie.tdb | 1357.22 | MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.44328) + MNP_B31 (x(P) 0.5) |
+| MnP-14Mie.tdb | 1357.22 | MN3P2 (x(P) 0.4) + LIQUID (x(P) 0.44336) + MNP_B31 (x(P) 0.5) |
+| MnP-14Mie.tdb | 1270.16 | MN2P_C22 (x(P) 0.33333) + MN3P2 (x(P) 0.4) + MNP_B31 (x(P) 0.5) |
+| MnP-14Mie.tdb | 1230.24 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.13728) + MN3P_D0E (x(P) 0.25) |
+| MnP-14Mie.tdb | 1230.24 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.13734) + MN3P_D0E (x(P) 0.25) |
+| MnP-14Mie.tdb | 1230.24 | CUB_A13 (x(P) 1.000e-5) + LIQUID (x(P) 0.13728) + MN3P_D0E (x(P) 0.25) |
+| MnP-14Mie.tdb | 980 | CBCC_A12 (x(P) 0) + CUB_A13 (x(P) 0) + MN3P_D0E (x(P) 0.25) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-P.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-P.json) · [CALPHAD hull MnP-01Mie](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-P--MnP-01Mie.json) · [CALPHAD hull MnP-07Tok](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-P--MnP-07Tok.json)
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Mn–P system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 600 K | 600 | other | model | [1] Miettinen 2014 | p. 4 | “Finally, it is of worth noting that the formation of a liquid phase miscibility gap in the phosphorus-rich corner of the ternary system, at about 600 K, has been predicted.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Jyrki Miettinen, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 3: Fe-Mn-P, J. Phase Equilib. Diffus. 35, 587-594 (2014). [doi:10.1007/s11669-014-0328-4](https://doi.org/10.1007/s11669-014-0328-4)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

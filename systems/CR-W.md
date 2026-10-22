@@ -1,0 +1,65 @@
+# Cr–W system
+
+> Cr–W system: 4 accepted literature values (phase transition 3, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/CR-W.html · Markdown: https://data.orchid-project.org/systems/CR-W.md
+
+4 accepted literature values from 1 paper(s) (experimental 2, model 2); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-W.json) · [CSV](https://data.orchid-project.org/systems/CR-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-W/CrW-88Gus-LB.json) · [Markdown](https://data.orchid-project.org/systems/CR-W.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 2 |
+| model | 2 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 1 |
+| phase transition | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| CrW-88Gus-LB.tdb | P. Gustafson, Calphad, 12, 277-92(1988). [doi:10.1016/0364-5916(88)90008-9](https://doi.org/10.1016/0364-5916%2888%2990008-9) | `4b33499196aed1d36aa6d672b1f61ffd839aad7906bdaff84a3126f4f254c5dd` | [viewer](https://orchid-project.org/phase-diagrams/#CR-W/CrW-88Gus-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CrW-88Gus-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CrW-88Gus-LB.json) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CR/CR-W.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CR/CR-W.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Cr–W system (1)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1673 | peritectic |  | experimental | [1] Gustafson 1988; _cites ref. 8_ | p. 1 | “Laugee et al. also performed DTA on cooling of an alloy with the overall composition 14 at% Wand 28 at% Ni. By combination with SEM analysis they were able to show that sigma phase forms peritectically from the liquid at a temperature close to 1673 K However, they were not able to include the sigma phase in their thermodynamic analysis, since no reliable data were available on its region of stabi…” |
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Cr–W system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1204 K | 1204 | sigma + fcc + bcc2 | model | [1] Gustafson 1988 | p. 5 | “The sigma phase decomposes into fcc,bccl and bcc2 at 1204 K according to the present description, a value that compares very well with the value 1238 K expected by Kikuchi et al. (12,lB).” |
+| Phase transition | 1238 K | 1238 | sigma + fcc + bcc2 | experimental | [1] Gustafson 1988; _cites ref. 12_ | p. 5 | “The sigma phase decomposes into fcc,bccl and bcc2 at 1204 K according to the present description, a value that compares very well with the value 1238 K expected by Kikuchi et al. (12,lB).” |
+| Phase transition | 2047 K | 2047 | other | model | [1] Gustafson 1988 | p. 5 | “In the calculated diagram the liquid/bccl+bcc2 line starts at about 2047 K. This critical point represents the maximum temperature for the bccVbcc2 miscibility gap in the ternary system.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Per Gustafson, A thermodynamic evaluation of the Cr-Ni-W system, Calphad 12, 277-292 (1988). [doi:10.1016/0364-5916(88)90008-9](https://doi.org/10.1016/0364-5916%2888%2990008-9)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

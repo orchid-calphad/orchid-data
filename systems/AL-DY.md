@@ -1,0 +1,81 @@
+# Al–Dy system
+
+> Al–Dy system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AL-DY.html · Markdown: https://data.orchid-project.org/systems/AL-DY.md
+
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-DY/AlDy-03Cac-LB.json) · [Markdown](https://data.orchid-project.org/systems/AL-DY.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AlDy-03Cac-LB.tdb | G. Cacciamani, S. De Negri, A. Saccone, R. Ferro, Intermetallics, 11, 1135-51(2003). [doi:10.1016/S0966-9795(03)00151-1](https://doi.org/10.1016/S0966-9795%2803%2900151-1) | `fd5853d7b91ea72250236afa7c922628a91723fa87d637d500c5577d81519c18` | [viewer](https://orchid-project.org/phase-diagrams/#AL-DY/AlDy-03Cac-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlDy-03Cac-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlDy-03Cac-LB.json) |
+| AlDy-14Bo.tdb | H. Bo, L. Liu, X. Xiong, Z. Jin, Chin. Sci. Bull., 59, 1738-46(2014). [doi:10.1007/s11434-014-0192-y](https://doi.org/10.1007/s11434-014-0192-y) | `839b27402dd36c7aeba2dc99f4e23da171eb6e53fcec47e552fcbf227a177026` | [viewer](https://orchid-project.org/phase-diagrams/#AL-DY/AlDy-14Bo.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlDy-14Bo.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlDy-14Bo.json) |
+| AlDy-24Ma.tdb | D. Ma, Y.T. Guo, Z. Li, J. Hu, F. Yin, Y. Liu, Y. Liu, Calphad, 85, 102681(2024). [doi:10.1016/j.calphad.2024.102681](https://doi.org/10.1016/j.calphad.2024.102681) | `b49a8c269df92a804e473c0ab333fbd67fa7e86431967f3b880297649f9c2af4` | [viewer](https://orchid-project.org/phase-diagrams/#AL-DY/AlDy-24Ma.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlDy-24Ma.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlDy-24Ma.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AlDy-03Cac-LB.tdb | 1571.14 | LIQUID (x(Dy) 0.90442) + BCC_A2 (x(Dy) 0.98271) + HCP_A3 (x(Dy) 0.9986) |
+| AlDy-03Cac-LB.tdb | 1571.14 | LIQUID (x(Dy) 0.9044) + BCC_A2 (x(Dy) 0.9827) + HCP_A3 (x(Dy) 0.9986) |
+| AlDy-03Cac-LB.tdb | 1396.2 | C15_LAVES (x(Dy) 0.3891) + ALDY (x(Dy) 0.5) + LIQUID (x(Dy) 0.56669) |
+| AlDy-03Cac-LB.tdb | 1396.2 | C15_LAVES (x(Dy) 0.3891) + ALDY (x(Dy) 0.5) + LIQUID (x(Dy) 0.5667) |
+| AlDy-03Cac-LB.tdb | 1364.85 | LIQUID (x(Dy) 0.11215) + AL3DY_HT (x(Dy) 0.25) + C15_LAVES (x(Dy) 0.32006) |
+| AlDy-03Cac-LB.tdb | 1303.92 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62768) |
+| AlDy-03Cac-LB.tdb | 1303.91 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62807) |
+| AlDy-03Cac-LB.tdb | 1303.91 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62811) |
+| AlDy-03Cac-LB.tdb | 1281.23 | AL3DY_D024 (x(Dy) 0.25) + AL3DY_HT (x(Dy) 0.25) + C15_LAVES (x(Dy) 0.31807) |
+| AlDy-03Cac-LB.tdb | 1281.23 | LIQUID (x(Dy) 0.09238) + AL3DY_D024 (x(Dy) 0.25) + AL3DY_HT (x(Dy) 0.25) |
+| AlDy-03Cac-LB.tdb | 1262.89 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67967) |
+| AlDy-03Cac-LB.tdb | 1262.89 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67936) |
+| AlDy-03Cac-LB.tdb | 1262.89 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67979) |
+| AlDy-03Cac-LB.tdb | 1199.97 | ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.76345) + HCP_A3 (x(Dy) 0.99955) |
+| AlDy-03Cac-LB.tdb | 1199.97 | ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.76343) + HCP_A3 (x(Dy) 0.99955) |
+| AlDy-03Cac-LB.tdb | 916.11 | FCC_A1 (x(Dy) 0) + LIQUID (x(Dy) 0.02101) + AL3DY_D024 (x(Dy) 0.25) |
+| AlDy-03Cac-LB.tdb | 916.11 | FCC_A1 (x(Dy) 0) + LIQUID (x(Dy) 0.02091) + AL3DY_D024 (x(Dy) 0.25) |
+| AlDy-14Bo.tdb | 1573.03 | LIQUID (x(Dy) 0.91548) + BCC_A2 (x(Dy) 0.98413) + HCP_A3 (x(Dy) 0.99953) |
+| AlDy-14Bo.tdb | 1354.95 | C15_LAVES (x(Dy) 0.40656) + ALDY (x(Dy) 0.5) + LIQUID (x(Dy) 0.59025) |
+| AlDy-14Bo.tdb | 1354.95 | C15_LAVES (x(Dy) 0.40658) + ALDY (x(Dy) 0.5) + LIQUID (x(Dy) 0.59027) |
+| AlDy-14Bo.tdb | 1349.2 | LIQUID (x(Dy) 0.12656) + AL3DY_HT (x(Dy) 0.25) + C15_LAVES (x(Dy) 0.3246) |
+| AlDy-14Bo.tdb | 1297.9 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62764) |
+| AlDy-14Bo.tdb | 1297.9 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62739) |
+| AlDy-14Bo.tdb | 1297.9 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62779) |
+| AlDy-14Bo.tdb | 1278.13 | AL3DY_HT (x(Dy) 0.25) + AL3DY_D024 (x(Dy) 0.25) + C15_LAVES (x(Dy) 0.32503) |
+| AlDy-14Bo.tdb | 1278.13 | LIQUID (x(Dy) 0.10728) + AL3DY_D024 (x(Dy) 0.25) + AL3DY_HT (x(Dy) 0.25) |
+| AlDy-14Bo.tdb | 1262.9 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67516) |
+| AlDy-14Bo.tdb | 1262.9 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67512) |
+| AlDy-14Bo.tdb | 1262.9 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67517) |
+| AlDy-14Bo.tdb | 1213.3 | ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.7562) + HCP_A3 (x(Dy) 0.99962) |
+| AlDy-14Bo.tdb | 1213.3 | ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.75616) + HCP_A3 (x(Dy) 0.99962) |
+| AlDy-14Bo.tdb | 906.28 | FCC_A1 (x(Dy) 0) + LIQUID (x(Dy) 0.02658) + AL3DY_D024 (x(Dy) 0.25) |
+| AlDy-14Bo.tdb | 906.28 | FCC_A1 (x(Dy) 0) + LIQUID (x(Dy) 0.02641) + AL3DY_D024 (x(Dy) 0.25) |
+| AlDy-24Ma.tdb | 1573.03 | LIQUID (x(Dy) 0.91548) + BCC_A2 (x(Dy) 0.98413) + HCP_A3 (x(Dy) 0.99953) |
+| AlDy-24Ma.tdb | 1382.24 | C15_LAVES (x(Dy) 0.33661) + ALDY (x(Dy) 0.5) + LIQUID (x(Dy) 0.56665) |
+| AlDy-24Ma.tdb | 1382.24 | C15_LAVES (x(Dy) 0.33661) + ALDY (x(Dy) 0.5) + LIQUID (x(Dy) 0.56673) |
+| AlDy-24Ma.tdb | 1363.2 | LIQUID (x(Dy) 0.12867) + AL3DY_HT (x(Dy) 0.25) + C15_LAVES (x(Dy) 0.31817) |
+| AlDy-24Ma.tdb | 1297.9 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62764) |
+| AlDy-24Ma.tdb | 1297.9 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62739) |
+| AlDy-24Ma.tdb | 1297.9 | ALDY (x(Dy) 0.5) + AL2DY3 (x(Dy) 0.6) + LIQUID (x(Dy) 0.62766) |
+| AlDy-24Ma.tdb | 1262.9 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67516) |
+| AlDy-24Ma.tdb | 1262.9 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67512) |
+| AlDy-24Ma.tdb | 1262.9 | AL2DY3 (x(Dy) 0.6) + ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.67517) |
+| AlDy-24Ma.tdb | 1213.3 | ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.7562) + HCP_A3 (x(Dy) 0.99962) |
+| AlDy-24Ma.tdb | 1213.3 | ALDY2_C37 (x(Dy) 0.66667) + LIQUID (x(Dy) 0.75616) + HCP_A3 (x(Dy) 0.99962) |
+| AlDy-24Ma.tdb | 1070.13 | AL3DY_HT (x(Dy) 0.25) + AL3DY_D024 (x(Dy) 0.25) + C15_LAVES (x(Dy) 0.33009) |
+| AlDy-24Ma.tdb | 1070.13 | LIQUID (x(Dy) 0.06286) + AL3DY_D024 (x(Dy) 0.25) + AL3DY_HT (x(Dy) 0.25) |
+| AlDy-24Ma.tdb | 902.68 | FCC_A1 (x(Dy) 0) + LIQUID (x(Dy) 0.02906) + AL3DY_D024 (x(Dy) 0.25) |
+| AlDy-24Ma.tdb | 902.68 | FCC_A1 (x(Dy) 0) + LIQUID (x(Dy) 0.02897) + AL3DY_D024 (x(Dy) 0.25) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-DY.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-DY.json) · [CALPHAD hull AlDy-03Cac-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-DY--AlDy-03Cac-LB.json) · [CALPHAD hull AlDy-14Bo](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-DY--AlDy-14Bo.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

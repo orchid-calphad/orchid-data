@@ -1,0 +1,50 @@
+# SiSr: enthalpy of formation
+
+> Enthalpy of formation of SiSr: 12 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/SiSr.html · Markdown: https://data.orchid-project.org/compounds/SiSr.md
+
+12 accepted literature formation-enthalpy value(s) (experimental 3, model 5, DFT 3, unspecified 1); experimental median -51.7 kJ/mol-atom (n = 3); Materials Project -41.601 kJ/mol-atom (mp-aaaaadyj); OQMD -45.381 kJ/mol-atom (oqmd-14241).
+
+Systems: [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html)
+
+## Literature values
+
+Table: Enthalpy of formation of SiSr reported in the literature (12)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -51.7 kJ/mol-atom ± 4.1 | SiSr | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
+| -51.7 kJ/mol-atom ± 4.1 | SiSr | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
+| -51.7 kJ/mol-atom | SrSi | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 16 |  |
+| -67 kJ/mol-atom | SrSi | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 11 |  |
+| -53.1 kJ/mol-atom | SiSr | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 9 |  |
+| -53.1 kJ/mol-atom | SiSr | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 9 |  |
+| -46.9 kJ/mol-atom | SiSr | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 8 |  |
+| -46.9 kJ/mol-atom | SiSr | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 8 |  |
+| -53.1 kJ/mol-atom | SrSi | 298 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 13 |  |
+| -46.9 kJ/mol-atom | SrSi | 298 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 14 |  |
+| -46.7 kJ/mol-atom | SrSi | 298 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 15 |  |
+| -43.5 kJ/mol-atom | SrSi | 298 | unspecified |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 12 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of SiSr
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaadyj | -41.601 | -0.431171 | Cmcm | 0 | no |
+| OQMD | oqmd-14241 | -45.381 | -0.470346 | Cmcm | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Kai Li, Shuhong Liu, Chunsheng Sha, Yong Du, A thermodynamic reassessment of the Si–Sr system, Calphad 35, 594-600 (2011). [doi:10.1016/j.calphad.2011.09.007](https://doi.org/10.1016/j.calphad.2011.09.007)
+2. Andres Garay, Gerardo Trápaga, Zi-Kui Liu, Raymundo Arróyave, Thermodynamic modeling of the Si–Sr system, Calphad 33, 550-556 (2009). [doi:10.1016/j.calphad.2009.07.001](https://doi.org/10.1016/j.calphad.2009.07.001)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

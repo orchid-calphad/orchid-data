@@ -1,0 +1,124 @@
+# Pd–Y system
+
+> Pd–Y system: 36 accepted literature values (invariant reaction 26, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/PD-Y.html · Markdown: https://data.orchid-project.org/systems/PD-Y.md
+
+36 accepted literature values from 1 paper(s) (experimental 18, model 18); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/PD-Y.json) · [CSV](https://data.orchid-project.org/systems/PD-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-Y/PdY-00Du.json) · [Markdown](https://data.orchid-project.org/systems/PD-Y.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 18 |
+| model | 18 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 26 |
+| phase transition | 10 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| PdY-00Du.tdb | Z. Du, H. Yang, C. Li, J. Alloys Compd., 297, 185-91(2000). [doi:10.1016/S0925-8388(99)00582-4](https://doi.org/10.1016/S0925-8388%2899%2900582-4) | `d90b41729a78d724a3681a2acc17a09875ad34889671887a107f47222af6a072` | [viewer](https://orchid-project.org/phase-diagrams/#PD-Y/PdY-00Du.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PdY-00Du.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PdY-00Du.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| PdY-00Du.tdb | 1751.15 | LIQUID (x(Y) 0.98206) + HCP_A3 (x(Y) 1) + BCC_A2 (x(Y) 1) |
+| PdY-00Du.tdb | 1653.06 | PD4Y3 (x(Y) 0.42857) + LIQUID (x(Y) 0.45344) + PDY_B2 (x(Y) 0.5) |
+| PdY-00Du.tdb | 1653.06 | PD4Y3 (x(Y) 0.42857) + LIQUID (x(Y) 0.45336) + PDY_B2 (x(Y) 0.5) |
+| PdY-00Du.tdb | 1577.1 | PD3Y_L12 (x(Y) 0.25) + PD2Y (x(Y) 0.33333) + LIQUID (x(Y) 0.34845) |
+| PdY-00Du.tdb | 1577.1 | PD3Y_L12 (x(Y) 0.25) + PD2Y (x(Y) 0.33333) + LIQUID (x(Y) 0.34836) |
+| PdY-00Du.tdb | 1546.25 | LIQUID (x(Y) 0.37822) + PD3Y2_HT (x(Y) 0.4) + PD4Y3 (x(Y) 0.42857) |
+| PdY-00Du.tdb | 1546.25 | LIQUID (x(Y) 0.37829) + PD3Y2_HT (x(Y) 0.4) + PD4Y3 (x(Y) 0.42857) |
+| PdY-00Du.tdb | 1516.51 | PD2Y (x(Y) 0.33333) + LIQUID (x(Y) 0.36927) + PD3Y2_HT (x(Y) 0.4) |
+| PdY-00Du.tdb | 1516.51 | PD2Y (x(Y) 0.33333) + LIQUID (x(Y) 0.3693) + PD3Y2_HT (x(Y) 0.4) |
+| PdY-00Du.tdb | 1516.51 | PD2Y (x(Y) 0.33333) + LIQUID (x(Y) 0.36923) + PD3Y2_HT (x(Y) 0.4) |
+| PdY-00Du.tdb | 1476.84 | FCC_A1 (x(Y) 0.12567) + LIQUID (x(Y) 0.14359) + PD3Y_L12 (x(Y) 0.20315) |
+| PdY-00Du.tdb | 1317.74 | PD3Y2_HT (x(Y) 0.4) + PD3Y2_LT (x(Y) 0.4) + PD4Y3 (x(Y) 0.42857) |
+| PdY-00Du.tdb | 1317.74 | PD2Y (x(Y) 0.33333) + PD3Y2_LT (x(Y) 0.4) + PD3Y2_HT (x(Y) 0.4) |
+| PdY-00Du.tdb | 1232.82 | PDY_B2 (x(Y) 0.5016) + PD2Y3 (x(Y) 0.6) + LIQUID (x(Y) 0.63856) |
+| PdY-00Du.tdb | 1182.99 | LIQUID (x(Y) 0.74009) + PDY3_D011 (x(Y) 0.75) + HCP_A3 (x(Y) 1) |
+| PdY-00Du.tdb | 1182.94 | PD2Y5 (x(Y) 0.71429) + LIQUID (x(Y) 0.7396) + PDY3_D011 (x(Y) 0.75) |
+| PdY-00Du.tdb | 1181.97 | PD2Y3 (x(Y) 0.6) + LIQUID (x(Y) 0.68798) + PD2Y5 (x(Y) 0.71429) |
+| PdY-00Du.tdb | 1173.65 | PDY_B2 (x(Y) 0.50065) + PDY_B33 (x(Y) 0.50099) + PD2Y3 (x(Y) 0.6) |
+| PdY-00Du.tdb | 1173.65 | PDY_B2 (x(Y) 0.50065) + PDY_B33 (x(Y) 0.50099) + PD2Y3 (x(Y) 0.6) |
+| PdY-00Du.tdb | 1143.46 | PD4Y3 (x(Y) 0.42857) + PDY_B33 (x(Y) 0.5) + PDY_B2 (x(Y) 0.5) |
+| PdY-00Du.tdb | 777.05 | FCC_A1 (x(Y) 0.1145) + PD7Y (x(Y) 0.125) + PD3Y_L12 (x(Y) 0.20821) |
+| PdY-00Du.tdb | 777.05 | FCC_A1 (x(Y) 0.1145) + PD7Y (x(Y) 0.125) + PD3Y_L12 (x(Y) 0.20821) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/PD/PD-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PD/PD-Y.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Pd–Y system (26)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1752 | Liq.+b.c.c.(Y)->h.c.p.(Y) | Liq.: Y 0.9808; b.c.c.(Y): Y 1; h.c.p.(Y): Y 1 | model | [1] Du 2000 | Table 2, p. 5, row 1 |  |
+| 1751 | Liq.+b.c.c.(Y)->h.c.p.(Y) | Liq.: Y 0.98; b.c.c.(Y): Y 1; h.c.p.(Y): Y 1 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 2 |  |
+| 1658 | Liq.->βPdY+Pd4Y3 | Liq.: Y 0.47; βPdY: Y 0.51; Pd4Y3: Y 0.428571 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 16 |  |
+| 1655 | Liq.->βPdY+Pd4Y3 | Liq.: Y 0.4535; βPdY: Y 0.5; Pd4Y3: Y 0.428571 | model | [1] Du 2000 | Table 2, p. 5, row 15 |  |
+| 1579 | Liq.+Pd3Y->Pd2Y | Liq.: Y 0.3484; Pd3Y: Y 0.25; Pd2Y: Y 0.333333 | model | [1] Du 2000 | Table 2, p. 5, row 23 |  |
+| 1578 | Liq.+Pd3Y->Pd2Y | Liq.: Y 0.34; Pd3Y: Y 0.25; Pd2Y: Y 0.333333 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 24 |  |
+| 1548 | Liq.+Pd4Y3->βPd3Y2 | Liq.: Y 0.3782; Pd4Y3: Y 0.428571; βPd3Y2: Y 0.4 | model | [1] Du 2000 | Table 2, p. 5, row 19 |  |
+| 1547 | Liq.+Pd4Y3->βPd3Y2 | Liq.: Y 0.38; Pd4Y3: Y 0.428571; βPd3Y2: Y 0.4 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 20 |  |
+| 1518 | Liq.->βPd3Y2+Pd2Y | Liq.: Y 0.37; βPd3Y2: Y 0.4; Pd2Y: Y 0.333333 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 22 |  |
+| 1518 | Liq.->βPd3Y2+Pd2Y | Liq.: Y 0.3692; βPd3Y2: Y 0.4; Pd2Y: Y 0.333333 | model | [1] Du 2000 | Table 2, p. 5, row 21 |  |
+| 1478 | Liq.->Pd3Y+f.c.c.(Pd) | Liq.: Y 0.15; Pd3Y: Y 0.205; f.c.c.(Pd): Y 0.13 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 28 |  |
+| 1478 | Liq.->Pd3Y+f.c.c.(Pd) | Liq.: Y 0.1436; Pd3Y: Y 0.2031; f.c.c.(Pd): Y 0.1257 | model | [1] Du 2000 | Table 2, p. 5, row 27 |  |
+| 1233 | Liq.+βPdY->Pd2Y3 | Liq.: Y 0.66; βPdY: Y 0.52; Pd2Y3: Y 0.6 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 12 |  |
+| 1232 | Liq.+βPdY->Pd2Y3 | Liq.: Y 0.6384; βPdY: Y 0.5016; Pd2Y3: Y 0.6 | model | [1] Du 2000 | Table 2, p. 5, row 11 |  |
+| 1181 | Liq.+h.c.p.(Y)->PdY3 | Liq.: Y 0.745; h.c.p.(Y): Y 1; PdY3: Y 0.75 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 4 |  |
+| 1181 | Liq.->Pd2Y5+PdY3 | Liq.: Y 0.7397; Pd2Y5: Y 0.714286; PdY3: Y 0.75 | model | [1] Du 2000 | Table 2, p. 5, row 5 |  |
+| 1181 | Liq.+h.c.p.(Y)->PdY3 | Liq.: Y 0.7405; h.c.p.(Y): Y 1; PdY3: Y 0.75 | model | [1] Du 2000 | Table 2, p. 5, row 3 |  |
+| 1180 | Liq.->Pd2Y5+Pd2Y3 | Liq.: Y 0.688; Pd2Y5: Y 0.714286; Pd2Y3: Y 0.6 | model | [1] Du 2000 | Table 2, p. 5, row 9 |  |
+| 1176 | Liq.->Pd2Y5+Pd2Y3 | Liq.: Y 0.7; Pd2Y5: Y 0.714286; Pd2Y3: Y 0.6 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 10 |  |
+| 1173 | βPdY+Pd2Y3->αPdY | βPdY: Y 0.5006; Pd2Y3: Y 0.6; αPdY: Y 0.501 | model | [1] Du 2000 | Table 2, p. 5, row 33 |  |
+| 1173 | βPdY+Pd2Y3->αPdY | βPdY: Y 0.52; Pd2Y3: Y 0.6; αPdY: Y 0.52 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 34 |  |
+| 1168 | Liq.->Pd2Y5+PdY3 | Liq.: Y 0.73; Pd2Y5: Y 0.714286; PdY3: Y 0.75 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 6 |  |
+| 1143 | βPdY->Pd4Y3+αPdY | βPdY: Y 0.5; Pd4Y3: Y 0.428571; αPdY: Y 0.5 | model | [1] Du 2000 | Table 2, p. 5, row 35 |  |
+| 1143 | βPdY->Pd4Y3+αPdY | βPdY: Y 0.51; Pd4Y3: Y 0.428571; αPdY: Y 0.51 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 36 |  |
+| 777 | F.c.c.(Pd)+Pd3Y->Pd7Y | F.c.c.(Pd): Y 0.1145; Pd3Y: Y 0.2082; Pd7Y: Y 0.125 | model | [1] Du 2000 | Table 2, p. 5, row 29 |  |
+| 777 | F.c.c.(Pd)+Pd3Y->Pd7Y | F.c.c.(Pd): Y 0.105; Pd3Y: Y 0.21; Pd7Y: Y 0.125 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 30 |  |
+
+## Other properties
+
+### Phase transition (10)
+
+Table: Phase transition, Pd–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1185 K | 1185 | Liq.->Pd2Y5; _Liq.: Y 0.714286; Pd2Y5: Y 0.714286_ | model | [1] Du 2000 | Table 2, p. 5, row 7 |  |
+| Phase transition | 1188 K | 1188 | Liq.->Pd2Y5; _Liq.: Y 0.714286; Pd2Y5: Y 0.714286_ | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 8 |  |
+| Phase transition | 1318 K | 1318 | αPd3Y2->βPd3Y2; _αPd3Y2: Y 0.4; βPd3Y2: Y 0.4_ | model | [1] Du 2000 | Table 2, p. 5, row 31 |  |
+| Phase transition | 1318 K | 1318 | αPd3Y2->βPd3Y2; _αPd3Y2: Y 0.4; βPd3Y2: Y 0.4_ | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 32 |  |
+| Phase transition | 1683 K | 1683 | Liq.->Pd4Y3; _Liq.: Y 0.428571; Pd4Y3: Y 0.428571_ | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 18 |  |
+| Phase transition | 1684 K | 1684 | Liq.->Pd4Y3; _Liq.: Y 0.428571; Pd4Y3: Y 0.428571_ | model | [1] Du 2000 | Table 2, p. 5, row 17 |  |
+| Phase transition | 1723 K | 1723 | Liq.->βPdY; _Liq.: Y 0.5; βPdY: Y 0.5_ | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 14 |  |
+| Phase transition | 1724 K | 1724 | Liq.->βPdY; _Liq.: Y 0.4985; βPdY: Y 0.5_ | model | [1] Du 2000 | Table 2, p. 5, row 13 |  |
+| Phase transition | 1973 K | 1973 | Liq.->Pd3Y; _Liq.: Y 0.25; Pd3Y: Y 0.25_ | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 26 |  |
+| Phase transition | 1973 K | 1973 | Liq.->Pd3Y; _Liq.: Y 0.249; Pd3Y: Y 0.25_ | model | [1] Du 2000 | Table 2, p. 5, row 25 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Z. Du, H. Yang, C. Li, Thermodynamic modeling of the Pd–Y system, Journal of Alloys and Compounds 297, 185-191 (2000). [doi:10.1016/s0925-8388(99)00582-4](https://doi.org/10.1016/s0925-8388%2899%2900582-4)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,31 @@
+# Au–Cu system
+
+> Au–Cu system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AU-CU.html · Markdown: https://data.orchid-project.org/systems/AU-CU.md
+
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-CU/AuCu-98Sun-LB.json) · [Markdown](https://data.orchid-project.org/systems/AU-CU.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AuCu-98Sun-LB.tdb | B. Sundman, S.G. Fries, A. Oates, Calphad, 22, 335-54(1998). [doi:10.1016/S0364-5916(98)00034-0](https://doi.org/10.1016/S0364-5916%2898%2900034-0) | `66a5545540f92ed9e26b0fe6e425a1a35f421817d8368036bd3a23041b3a4c1e` | [viewer](https://orchid-project.org/phase-diagrams/#AU-CU/AuCu-98Sun-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AuCu-98Sun-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AuCu-98Sun-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AuCu-98Sun-LB.tdb | 578.24 | FCC_4SL#3 (x(Cu) 0.58641) + FCC_4SL#2 (x(Cu) 0.63309) + FCC_4SL (x(Cu) 0.66558) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AU/AU-CU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AU/AU-CU.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

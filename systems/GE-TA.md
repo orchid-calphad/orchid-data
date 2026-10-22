@@ -1,0 +1,42 @@
+# Ge–Ta system
+
+> Ge–Ta system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/GE-TA.html · Markdown: https://data.orchid-project.org/systems/GE-TA.md
+
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-TA/GeTa-24Pin.json) · [Markdown](https://data.orchid-project.org/systems/GE-TA.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| GeTa-24Pin.tdb | A.A.A. Pinto da Silva, P.P. Ferreira, T.T. Dorini, G.C. Coelho, C.A. Nunes, L.T.F. Eleno, Calphad, 84, 102669(2024). [doi:10.1016/j.calphad.2024.102669](https://doi.org/10.1016/j.calphad.2024.102669) | `17e38d477bb8cded2ed04e261bf5daef8aa48ae5a2490e7749137d58c57e3f94` | [viewer](https://orchid-project.org/phase-diagrams/#GE-TA/GeTa-24Pin.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GeTa-24Pin.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GeTa-24Pin.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| GeTa-24Pin.tdb | 2781.17 | GE3TA5_D8M (x(Ta) 0.625) + LIQUID (x(Ta) 0.71934) + GETA3_D0E (x(Ta) 0.75) |
+| GeTa-24Pin.tdb | 2781.16 | GE3TA5_D8M (x(Ta) 0.625) + LIQUID (x(Ta) 0.71983) + GETA3_D0E (x(Ta) 0.75) |
+| GeTa-24Pin.tdb | 2781.16 | GE3TA5_D8M (x(Ta) 0.625) + LIQUID (x(Ta) 0.7197) + GETA3_D0E (x(Ta) 0.75) |
+| GeTa-24Pin.tdb | 2765.82 | GETA3_D0E (x(Ta) 0.75) + LIQUID (x(Ta) 0.80011) + BCC_A2 (x(Ta) 0.89938) |
+| GeTa-24Pin.tdb | 2765.82 | GETA3_D0E (x(Ta) 0.75) + LIQUID (x(Ta) 0.80012) + BCC_A2 (x(Ta) 0.89939) |
+| GeTa-24Pin.tdb | 2220.11 | LIQUID (x(Ta) 0.30828) + GE2TA_C40 (x(Ta) 0.33333) + GE3TA5_D8M (x(Ta) 0.625) |
+| GeTa-24Pin.tdb | 2220.11 | LIQUID (x(Ta) 0.3085) + GE2TA_C40 (x(Ta) 0.33333) + GE3TA5_D8M (x(Ta) 0.625) |
+| GeTa-24Pin.tdb | 1823.13 | GE3TA5_D8M (x(Ta) 0.625) + GETA3_ALPHA (x(Ta) 0.75) + GETA3_D0E (x(Ta) 0.75) |
+| GeTa-24Pin.tdb | 1823.13 | GETA3_ALPHA (x(Ta) 0.75) + GETA3_D0E (x(Ta) 0.75) + BCC_A2 (x(Ta) 0.92581) |
+| GeTa-24Pin.tdb | 1823.13 | GETA3_D0E (x(Ta) 0.75) + GETA3_ALPHA (x(Ta) 0.75) + BCC_A2 (x(Ta) 0.92581) |
+| GeTa-24Pin.tdb | 1204.63 | DIAMOND_A4 (x(Ta) 0.00161) + LIQUID (x(Ta) 0.01846) + GE2TA_C40 (x(Ta) 0.33333) |
+| GeTa-24Pin.tdb | 1204.63 | DIAMOND_A4 (x(Ta) 0.00158) + LIQUID (x(Ta) 0.01816) + GE2TA_C40 (x(Ta) 0.33333) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GE/GE-TA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/GE-TA.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

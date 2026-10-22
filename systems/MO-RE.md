@@ -1,0 +1,347 @@
+# Mo–Re system
+
+> Mo–Re system: 238 accepted literature values (formation 135, invariant reaction 82, phase equilibrium 13, phase transition 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MO-RE.html · Markdown: https://data.orchid-project.org/systems/MO-RE.md
+
+238 accepted literature values from 5 paper(s) (experimental 54, model 56, DFT 128); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-RE.json) · [CSV](https://data.orchid-project.org/systems/MO-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-RE/MoRe-08Mao-oldsigma.json) · [Markdown](https://data.orchid-project.org/systems/MO-RE.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 54 |
+| model | 56 |
+| DFT | 128 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 82 |
+| phase transition | 8 |
+| phase equilibrium | 13 |
+| formation | 135 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MoRe-08Mao-oldsigma.tdb | P. Mao, K. Han, Y. Xin, J. Alloys Compd., 464, 190-96(2008). [doi:10.1016/j.jallcom.2007.10.060](https://doi.org/10.1016/j.jallcom.2007.10.060) | `5598a1db773304a1dff7bd47928d319a6a495747215ab7e06ab00da38f48d0e0` | [viewer](https://orchid-project.org/phase-diagrams/#MO-RE/MoRe-08Mao-oldsigma.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoRe-08Mao-oldsigma.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoRe-08Mao-oldsigma.json) |
+| MoRe-09Far.tdb | S.A. Farzadfar, M. Levesque, M. Phejar, J.-M. Joubert, Calphad, 33, 502-10(2009). [doi:10.1016/j.calphad.2009.02.001](https://doi.org/10.1016/j.calphad.2009.02.001) | `03fa07a828c4a7e38ddad4caec8b4af86757c35adf031f7fa9afa1d9aa8faa40` | [viewer](https://orchid-project.org/phase-diagrams/#MO-RE/MoRe-09Far.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoRe-09Far.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoRe-09Far.json) |
+| MoRe-10Yan.tdb | Y. Yang, C. Zhang, S. Chen, D. Morgan, Y.A. Chang, Intermetallics, 18, 574-81(2010). [doi:10.1016/j.intermet.2009.10.012](https://doi.org/10.1016/j.intermet.2009.10.012) | `e874a788ea9b1fc3bac199dbe5e3fcdc3c23fb0b45eb9b648c00c4549fbe865a` | [viewer](https://orchid-project.org/phase-diagrams/#MO-RE/MoRe-10Yan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoRe-10Yan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoRe-10Yan.json) |
+| MoRe-20Yen.tdb | S. Yen, S. Wu, M.A. Makhraja, K. Lo, A. Yeh, K. Yoshimi, C. Zhang, S. Lin, Calphad, 70, 101797(2020). [doi:10.1016/j.calphad.2020.101797](https://doi.org/10.1016/j.calphad.2020.101797) | `460a9ea23345d8e2ac22b588fe6f114d7d1a7260398cbc0d6e5e60c2682f25cc` | [viewer](https://orchid-project.org/phase-diagrams/#MO-RE/MoRe-20Yen.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoRe-20Yen.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoRe-20Yen.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MoRe-08Mao-oldsigma.tdb | 2967.48 | LIQUID (x(Re) 0.60225) + SIGMA_OLD (x(Re) 0.70274) + HCP_A3 (x(Re) 0.87784) |
+| MoRe-08Mao-oldsigma.tdb | 2745.65 | BCC_A2 (x(Re) 0.41154) + LIQUID (x(Re) 0.44135) + SIGMA_OLD (x(Re) 0.5441) |
+| MoRe-08Mao-oldsigma.tdb | 2225.92 | SIGMA_OLD (x(Re) 0.70081) + CHI_A12 (x(Re) 0.77906) + HCP_A3 (x(Re) 0.8926) |
+| MoRe-08Mao-oldsigma.tdb | 1348.81 | BCC_A2 (x(Re) 0.29306) + SIGMA_OLD (x(Re) 0.56811) + CHI_A12 (x(Re) 0.75679) |
+| MoRe-08Mao-oldsigma.tdb | 884.08 | BCC_A2 (x(Re) 0.23973) + CHI_A12 (x(Re) 0.76592) + HCP_A3 (x(Re) 0.96373) |
+| MoRe-09Far.tdb | 2892.17 | LIQUID (x(Re) 0.58457) + SIGMA_D8B (x(Re) 0.66965) + HCP_A3 (x(Re) 0.84231) |
+| MoRe-09Far.tdb | 2798.64 | BCC_A2 (x(Re) 0.43508) + LIQUID (x(Re) 0.45468) + SIGMA_D8B (x(Re) 0.5408) |
+| MoRe-09Far.tdb | 2347.8 | SIGMA_D8B (x(Re) 0.69702) + CHI_A12 (x(Re) 0.77364) + HCP_A3 (x(Re) 0.89283) |
+| MoRe-09Far.tdb | 1346.83 | BCC_A2 (x(Re) 0.29168) + SIGMA_D8B (x(Re) 0.56409) + CHI_A12 (x(Re) 0.73862) |
+| MoRe-10Yan.tdb | 2919.52 | LIQUID (x(Re) 0.58279) + SIGMA_D8B (x(Re) 0.68735) + HCP_A3 (x(Re) 0.81838) |
+| MoRe-10Yan.tdb | 2785.94 | BCC_A2 (x(Re) 0.41751) + LIQUID (x(Re) 0.44224) + SIGMA_D8B (x(Re) 0.5303) |
+| MoRe-10Yan.tdb | 2269.42 | SIGMA_D8B (x(Re) 0.70467) + CHI_A12 (x(Re) 0.77169) + HCP_A3 (x(Re) 0.92297) |
+| MoRe-10Yan.tdb | 1384.15 | BCC_A2 (x(Re) 0.2976) + SIGMA_D8B (x(Re) 0.58647) + CHI_A12 (x(Re) 0.74569) |
+| MoRe-20Yen.tdb | 2922.99 | LIQUID (x(Re) 0.59402) + SIGMA_D8B (x(Re) 0.68149) + HCP_A3 (x(Re) 0.81847) |
+| MoRe-20Yen.tdb | 2755.53 | BCC_A2 (x(Re) 0.41078) + LIQUID (x(Re) 0.41975) + SIGMA_D8B (x(Re) 0.5576) |
+| MoRe-20Yen.tdb | 2268.61 | SIGMA_D8B (x(Re) 0.69192) + CHI_A12 (x(Re) 0.77544) + HCP_A3 (x(Re) 0.91951) |
+| MoRe-20Yen.tdb | 1372.12 | BCC_A2 (x(Re) 0.31577) + SIGMA_D8B (x(Re) 0.56222) + CHI_A12 (x(Re) 0.75444) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MO/MO-RE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MO/MO-RE.json) · [CALPHAD hull MoRe-08Mao-oldsigma](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-RE--MoRe-08Mao-oldsigma.json) · [CALPHAD hull MoRe-09Far](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-RE--MoRe-09Far.json) · [CALPHAD hull MoRe-10Yan](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-RE--MoRe-10Yan.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mo–Re system (82)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2973 | Peritectic: σ + liquid = (Mo) | (Mo): Re 0.42 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 1 |  |
+| 2966 | peritectic |  | model | [2] Farzadfar 2009 | p. 9 | “The temperature of the peritectic is higher in Mao's work (2966 K compared to 2918 K from Dickinson and Richardson \[9\] which is the highest temperature among the other determinations).” |
+| 2966 | Peritectic: Liquid + (Re) = σ | (Re): Re 0.87; σ: Re 0.7; Liquid: Re 0.6 | model | [1] Mao 2008 | Table 1, p. 2, row 8 |  |
+| 2966 | peritectic |  | model | [3] Mathieu 2013 | p. 11 | “The temperature of the peritectic is higher in Mao's work. It is 2966 K compared to 2918 K from Dickinson and Richardson \[19\] which is the highest temperature among the experimental determinations reasonably fitted by Farzadfar, Yang , Dupin and this work.” |
+| 2966 | Peritectic: liquid+hcp -> σ | hcp: Re 0.87; σ: Re 0.7; liq: Re 0.6 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 4 |  |
+| 2966 | Liquid + hcp -> σ | hcp: Re 0.87; σ: Re 0.7 | model | [4] Yang 2010; _cites Mao 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.060) | Table 1, p. 2, row 6 |  |
+| 2920 | Peritectic: liquid+hcp -> σ | hcp: Re 0.82; σ: Re 0.69; liq: Re 0.58 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 6 |  |
+| 2920 | Liquid + hcp -> σ | Liquid: Re 0.58; hcp: Re 0.82; σ: Re 0.69 | model | [4] Yang 2010 | Table 1, p. 2, row 8 |  |
+| 2918 | peritectic |  | experimental | [2] Farzadfar 2009 | p. 4 | “eutectic and the peritectic temperatures determined by Dickinson and Richardson (2778 K and 2918 K respectively) were therefore used in the optimization.” |
+| 2918 | peritectic |  | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | p. 9 | “The temperature of the peritectic is higher in Mao's work (2966 K compared to 2918 K from Dickinson and Richardson \[9\] which is the highest temperature among the other determinations).” |
+| 2918 | Peritectic: Liquid + (Re) = σ | σ: Re 0.68 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 7 |  |
+| 2918 | Liquid + hcp -> σ | Liquid: Re 0.6; hcp: Re 0.82; σ: Re 0.7 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 5 |  |
+| 2918 | Peritectic: liquid+hcp -> σ | σ: Re 0.69 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 1 |  |
+| 2918 | peritectic |  | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | p. 11 | “The temperature of the peritectic is higher in Mao's work. It is 2966 K compared to 2918 K from Dickinson and Richardson \[19\] which is the highest temperature among the experimental determinations reasonably fitted by Farzadfar, Yang , Dupin and this work.” |
+| 2918 | Peritectic: Liquid + hcp ⇔ σ | σ: Re 0.69 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 3 |  |
+| 2892 | Peritectic: Liquid + hcp ⇔ σ | L: Re 0.58; hcp: Re 0.84; σ: Re 0.67 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 4 |  |
+| 2892 | Peritectic: liquid+hcp -> σ | hcp: Re 0.84; σ: Re 0.67; liq: Re 0.58 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 5 |  |
+| 2892 | Liquid + hcp -> σ | Liquid: Re 0.58; hcp: Re 0.84; σ: Re 0.67 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 7 |  |
+| 2890 | Eutectic: liquid+hcp -> σ | hcp: Re 0.875; σ: Re 0.74; liq: Re 0.75 | model | [3] Mathieu 2013 | Table 2, p. 3, row 8 |  |
+| 2887 | Peritectic: liquid+hcp -> σ | hcp: Re 0.855; σ: Re 0.716; liq: Re 0.71 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 7 |  |
+| 2843 | Peritectic: Liquid + (Re) = σ | (Re): Re 0.9; σ: Re 0.62 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 6 |  |
+| 2843 | Peritectic: liquid+hcp -> σ | hcp: Re 0.87; σ: Re 0.6 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 3 |  |
+| 2799 | Eutectic: Liquid ⇔ bcc + σ | L: Re 0.45; bcc: Re 0.43; σ: Re 0.54 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 2 |  |
+| 2799 | Eutectic: liquid -> σ+bcc | σ: Re 0.54; bcc: Re 0.43; liq: Re 0.45 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 13 |  |
+| 2799 | Liquid -> bcc + σ | Liquid: Re 0.45; σ: Re 0.54; BCC: Re 0.43 | model | [5] Yen 2020; _cites Mao 2007_ | Table VI, p. 39, row 3 |  |
+| 2799 | Liquid -> bcc + σ | Liquid: Re 0.45; bcc: Re 0.43; σ: Re 0.54 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 3 |  |
+| 2793 | Peritectic: liquid+hcp -> σ | hcp: Re 0.85; liq: Re 0.72 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 2 |  |
+| 2793 | Peritectic: Liquid + (Re) = σ | (Re): Re 0.85; σ: Re 0.72 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 5 |  |
+| 2786 | Eutectic: liquid -> σ+bcc | σ: Re 0.53; bcc: Re 0.42; liq: Re 0.44 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 14 |  |
+| 2786 | Liquid -> bcc + σ | Liquid: Re 0.44; bcc: Re 0.42; σ: Re 0.53 | model | [4] Yang 2010 | Table 1, p. 2, row 4 |  |
+| 2786 | Liquid -> bcc + σ | Liquid: Re 0.44; σ: Re 0.53; BCC: Re 0.42 | DFT | [5] Yen 2020; _cites Yang 2009_ | Table VI, p. 39, row 4 |  |
+| 2778 | Eutectics: Liquid + (Mo) + σ | Liquid: Re 0.489 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 3 |  |
+| 2778 | Eutectic: Liquid ⇔ bcc + σ | L: Re 0.49; bcc: Re 0.425; σ: Re 0.53 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 1 |  |
+| 2778 | Liquid -> bcc + σ | bcc: Re 0.43; σ: Re 0.52 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 1 |  |
+| 2778 | Liquid -> bcc + σ | σ: Re 0.52; BCC: Re 0.43 | experimental | [5] Yen 2020; _cites Savitskii 1959_ | Table VI, p. 39, row 1 |  |
+| 2778 | Eutectic: liquid -> σ+bcc | σ: Re 0.53; bcc: Re 0.425; liq: Re 0.49 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 10 |  |
+| 2777 | Eutectic: liquid -> σ+bcc | σ: Re 0.502; bcc: Re 0.408; liq: Re 0.442 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 15 |  |
+| 2773 | Peritectic: liquid+σ -> bcc | σ: Re 0.49 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 9 |  |
+| 2755 | Liquid -> bcc + σ | Liquid: Re 0.42; σ: Re 0.558; BCC: Re 0.411 | model | [5] Yen 2020 | Table VI, p. 39, row 6 |  |
+| 2745 | Liquid -> bcc + σ | Liquid: Re 0.46; σ: Re 0.54; BCC: Re 0.41 | experimental | [5] Yen 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9787-4) | Table VI, p. 39, row 2 |  |
+| 2745 | Liquid -> bcc + σ | Liquid: Re 0.46; bcc: Re 0.41; σ: Re 0.54 | model | [4] Yang 2010; _cites Mao 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.060) | Table 1, p. 2, row 2 |  |
+| 2745 | Eutectics: Liquid + (Mo) + σ | (Mo): Re 0.41; σ: Re 0.54; Liquid: Re 0.46 | model | [1] Mao 2008 | Table 1, p. 2, row 4 |  |
+| 2745 | Eutectic: liquid -> σ+bcc | σ: Re 0.54; bcc: Re 0.41; liq: Re 0.46 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 12 |  |
+| 2737 | Eutectic: liquid -> σ+bcc | σ: Re 0.531; bcc: Re 0.38; liq: Re 0.383 | model | [3] Mathieu 2013 | Table 2, p. 3, row 16 |  |
+| 2737 | Liquid -> bcc + σ | Liquid: Re 0.383; σ: Re 0.531; BCC: Re 0.38 | model | [5] Yen 2020; _cites Mathieu 2013_ | Table VI, p. 39, row 5 |  |
+| 2713 | eutectic |  | model | [3] Mathieu 2013 | p. 11 | “The eutectic reaction at 2713 K shows slightly less agreement.” |
+| 2713 | Eutectics: Liquid + (Mo) + σ | (Mo): Re 0.43; Liquid: Re 0.5 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 2 |  |
+| 2713 | Eutectic: liquid -> σ+bcc | bcc: Re 0.43; liq: Re 0.5 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 11 |  |
+| 2353 | Peritectoid: σ + (Re) = χ | χ: Re 0.75 | experimental | [1] Mao 2008; _cites Dickinson 1959_ | Table 1, p. 2, row 11 |  |
+| 2348 | Peritectoid: σ + hcp ⇔ χ | σ: Re 0.7; χ: Re 0.76 | experimental | [2] Farzadfar 2009; _cites Dickinson 1959_ | Table 7, p. 7, row 7 |  |
+| 2348 | Perictectoid: σ+hcp -> χ | σ: Re 0.7; χ: Re 0.76 | experimental | [3] Mathieu 2013; _cites Dickinson 1958_ | Table 2, p. 3, row 17 |  |
+| 2343 | Peritectoid: σ + hcp ⇔ χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.77 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 8 |  |
+| 2343 | σ + hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.77 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 11 |  |
+| 2343 | Perictectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.77 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 21 |  |
+| 2273 | σ + hcp -> χ | χ: Re 0.76 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 9 |  |
+| 2269 | Perictectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.92; χ: Re 0.77 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 22 |  |
+| 2269 | σ + hcp -> χ | σ: Re 0.7; hcp: Re 0.92; χ: Re 0.77 | model | [4] Yang 2010 | Table 1, p. 2, row 12 |  |
+| 2225 | Perictectoid: σ+hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.78 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 20 |  |
+| 2186 | Perictectoid: σ+hcp -> χ | σ: Re 0.693; hcp: Re 0.884; χ: Re 0.767 | model | [3] Mathieu 2013 | Table 2, p. 3, row 24 |  |
+| 2129 | Peritectoid: σ + (Re) = χ | σ: Re 0.7; (Re): Re 0.89; χ: Re 0.78 | model | [1] Mao 2008 | Table 1, p. 2, row 12 |  |
+| 2129 | Perictectoid: σ+hcp -> χ | σ: Re 0.693; hcp: Re 0.913; χ: Re 0.774 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 23 |  |
+| 2129 | σ + hcp -> χ | σ: Re 0.7; hcp: Re 0.89; χ: Re 0.78 | model | [4] Yang 2010; _cites Mao 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.060) | Table 1, p. 2, row 10 |  |
+| 2123 | Peritectoid: σ + (Re) = χ | χ: Re 0.78 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 10 |  |
+| 2123 | Perictectoid: σ+hcp -> χ | σ: Re 0.67; hcp: Re 0.91; χ: Re 0.78 | experimental | [3] Mathieu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 19 |  |
+| 2073 | Peritectoid: σ + (Re) = χ | χ: Re 0.765 | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 9 |  |
+| 2073 | Perictectoid: σ+hcp -> χ | hcp: Re 0.91 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 18 |  |
+| 1773 | eutectic |  | experimental | [3] Mathieu 2013 | p. 2 | “Thenceforward, the peritectic reaction of Savitskii et al. at 1773 K is to be considered as an eutectic.” |
+| 1398 | σ -> bcc + χ | χ: Re 0.76 | model | [4] Yang 2010; _cites Brewer 1980_ | Table 1, p. 2, row 13 |  |
+| 1398 | Eutectoid: σ -> bcc+χ | σ: Re 0.57; bcc: Re 0.29; χ: Re 0.76 | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | Table 2, p. 3, row 25 |  |
+| 1398 | Eutectoid: σ ⇔ bcc + χ | bcc: Re 0.29; χ: Re 0.77 | experimental | [2] Farzadfar 2009; _cites Knapton 1958_ | Table 7, p. 7, row 9 |  |
+| 1384 | Eutectoid: σ -> bcc+χ | σ: Re 0.59; bcc: Re 0.3; χ: Re 0.75 | model | [3] Mathieu 2013; _cites Yang 2010_ [doi](https://doi.org/10.1016/j.intermet.2009.10.012) | Table 2, p. 3, row 28 |  |
+| 1384 | σ -> bcc + χ | σ: Re 0.59; bcc: Re 0.3; χ: Re 0.75 | model | [4] Yang 2010 | Table 1, p. 2, row 16 |  |
+| 1375 | Eutectoid: σ + (Mo) + χ | σ: Re 0.57; (Mo): Re 0.29; χ: Re 0.76 | experimental | [1] Mao 2008; _cites Savitskii 1959_ | Table 1, p. 2, row 14 |  |
+| 1375 | σ -> bcc + χ | σ: Re 0.57; bcc: Re 0.29; χ: Re 0.76 | model | [4] Yang 2010; _cites Mao 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.10.060) | Table 1, p. 2, row 14 |  |
+| 1375 | Eutectoid: σ -> bcc+χ | σ: Re 0.57; bcc: Re 0.29; χ: Re 0.76 | model | [3] Mathieu 2013; _cites Mao 2008_ | Table 2, p. 3, row 26 |  |
+| 1373 | Eutectoid: σ + (Mo) + χ |  | experimental | [1] Mao 2008; _cites Knapton 1959_ | Table 1, p. 2, row 13 |  |
+| 1373 | eutectoid |  | experimental | [1] Mao 2008; _cites Knapton 1959_ | p. 2 | “Thus he assumed that the ␴ phase decomposed eutectoidally at temperatures between 1373 K (1100 ◦ C) and 1423 K (1150 ◦ C).” |
+| 1346 | σ -> bcc + χ | σ: Re 0.56; bcc: Re 0.29; χ: Re 0.74 | model | [4] Yang 2010; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 1, p. 2, row 15 |  |
+| 1346 | Eutectoid: σ -> bcc+χ | σ: Re 0.56; bcc: Re 0.29; χ: Re 0.74 | model | [3] Mathieu 2013; _cites Farzadfar 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.02.001) | Table 2, p. 3, row 27 |  |
+| 1346 | Eutectoid: σ ⇔ bcc + χ | σ: Re 0.56; bcc: Re 0.29; χ: Re 0.74 | model | [2] Farzadfar 2009 | Table 7, p. 7, row 10 |  |
+| 1322 | Eutectoid: σ -> bcc+χ | σ: Re 0.574; bcc: Re 0.271; χ: Re 0.74 | model | [3] Mathieu 2013 | Table 2, p. 3, row 30 |  |
+| 1300 | Eutectoid: σ -> bcc+χ | σ: Re 0.575; bcc: Re 0.271; χ: Re 0.747 | model | [3] Mathieu 2013; _cites Dupin 2012_ | Table 2, p. 3, row 29 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mo–Re system (135)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Mo2Re | [Mo2Re](https://data.orchid-project.org/compounds/Mo2Re.html) | -10.4 kJ/mol-atom |  | model |  | 41.296 (oqmd-1592123) | [1] Mao 2008 | Table 2, p. 2, row 7 |  |
+| Mo5Re |  | -10 kJ/mol-atom |  | model |  |  | [1] Mao 2008 | Table 2, p. 2, row 6 |  |
+| MoRe | [MoRe](https://data.orchid-project.org/compounds/MoRe.html) | -11.1 kJ/mol-atom |  | model | 10.105 (mp-aaacrjzh) | 10.663 (oqmd-304791) | [1] Mao 2008 | Table 2, p. 2, row 8 |  |
+| MoRe2 | [MoRe2](https://data.orchid-project.org/compounds/MoRe2.html) | -9.7 kJ/mol-atom |  | model |  | 12.872 (oqmd-1436045) | [1] Mao 2008 | Table 2, p. 2, row 9 |  |
+| MoRe5 | [MoRe5](https://data.orchid-project.org/compounds/MoRe5.html) | -7.4 kJ/mol-atom |  | model |  | 6.962 (oqmd-1450671) | [1] Mao 2008 | Table 2, p. 2, row 10 |  |
+| \\sigma |  | -12.01 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 9 |  |
+| \\sigma |  | -11.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 20 |  |
+| \\sigma |  | -10.42 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 22 |  |
+| \\sigma |  | -9.61 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 6 |  |
+| \\sigma |  | -9.29 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 15 |  |
+| \\sigma |  | -8.91 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 19 |  |
+| \\sigma |  | -8.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 17 |  |
+| \\sigma |  | -7.91 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 26 |  |
+| \\sigma |  | -7.67 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 12 |  |
+| \\sigma |  | -6.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 23 |  |
+| \\sigma |  | -5.77 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 28 |  |
+| \\sigma |  | -4.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 25 |  |
+| \\sigma |  | -4.89 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 30 |  |
+| \\sigma |  | -3.84 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 8 |  |
+| \\sigma |  | -3.83 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 29 |  |
+| \\sigma |  | -3.64 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 10 |  |
+| \\sigma |  | -2.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 14 |  |
+| \\sigma |  | -2.14 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 2 |  |
+| \\sigma |  | -1.92 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 7 |  |
+| \\sigma |  | -1.73 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 21 |  |
+| \\sigma |  | -1.45 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 5 |  |
+| \\sigma |  | -0.82 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 11 |  |
+| \\sigma |  | -0.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 4 |  |
+| \\sigma |  | -0.52 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 16 |  |
+| \\sigma |  | -0.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 18 |  |
+| \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
+| \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
+| \\sigma |  | 0.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 13 |  |
+| \\sigma |  | 0.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 3 |  |
+| \\sigma |  | 0.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 20 |  |
+| \\sigma |  | 1.62 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 22 |  |
+| \\sigma |  | 1.83 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 9 |  |
+| \\sigma |  | 1.95 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 27 |  |
+| \\sigma |  | 2.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 24 |  |
+| \\sigma |  | 3.23 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 26 |  |
+| \\sigma |  | 3.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 19 |  |
+| \\sigma |  | 3.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 15 |  |
+| \\sigma |  | 3.78 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 17 |  |
+| \\sigma |  | 4.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 6 |  |
+| \\sigma |  | 5.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 23 |  |
+| \\sigma |  | 5.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 30 |  |
+| \\sigma |  | 5.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 28 |  |
+| \\sigma |  | 5.72 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 12 |  |
+| \\sigma |  | 6.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 25 |  |
+| \\sigma |  | 6.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 29 |  |
+| \\sigma |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
+| \\sigma |  | 10 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 8 |  |
+| \\sigma |  | 10.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 10 |  |
+| \\sigma |  | 10.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 21 |  |
+| \\sigma |  | 10.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 14 |  |
+| \\sigma |  | 12.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 18 |  |
+| \\sigma |  | 12.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 7 |  |
+| \\sigma |  | 12.42 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 16 |  |
+| \\sigma |  | 12.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 11 |  |
+| \\sigma |  | 12.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 5 |  |
+| \\sigma |  | 13.08 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 27 |  |
+| \\sigma |  | 13.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 2 |  |
+| \\sigma |  | 13.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 13 |  |
+| \\sigma |  | 14.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 4 |  |
+| \\sigma |  | 14.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 24 |  |
+| \\sigma |  | 16.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 3 |  |
+| \\sigma |  | 16.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
+| bcc |  | 7 kJ/mol (basis unstated) | 1773 | experimental |  |  | [2] Farzadfar 2009 | Table 4, p. 4, row 3 |  |
+| σ |  | 0.68 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 31 |  |
+| σ |  | 0.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 20 |  |
+| σ |  | 1.62 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 22 |  |
+| σ |  | 1.83 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 9 |  |
+| σ |  | 2.54 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 1 |  |
+| σ |  | 3.23 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 26 |  |
+| σ |  | 3.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 19 |  |
+| σ |  | 3.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 15 |  |
+| σ |  | 3.78 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 17 |  |
+| σ |  | 4.43 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 2 |  |
+| σ |  | 4.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 6 |  |
+| σ |  | 5.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 23 |  |
+| σ |  | 5.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 30 |  |
+| σ |  | 5.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 28 |  |
+| σ |  | 5.72 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 12 |  |
+| σ |  | 5.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 3 |  |
+| σ |  | 6.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 25 |  |
+| σ |  | 6.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 29 |  |
+| σ |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
+| σ |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4 |  |
+| σ |  | 10 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 8 |  |
+| σ |  | 10.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 10 |  |
+| σ |  | 10.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 21 |  |
+| σ |  | 10.46 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 31 |  |
+| σ |  | 10.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 14 |  |
+| σ |  | 12.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 18 |  |
+| σ |  | 12.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 7 |  |
+| σ |  | 12.42 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 16 |  |
+| σ |  | 12.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 11 |  |
+| σ |  | 12.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 5 |  |
+| σ |  | 13.08 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 27 |  |
+| σ |  | 13.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 2 |  |
+| σ |  | 13.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 13 |  |
+| σ |  | 14.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 4 |  |
+| σ |  | 14.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 24 |  |
+| σ |  | 16.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 3 |  |
+| σ |  | 16.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
+| σ |  | 18 kJ/mol (basis unstated) | 1773 | experimental |  |  | [2] Farzadfar 2009 | Table 4, p. 4, row 2 |  |
+| σ: Re10(Mo,Re)4(Mo,Re)16 |  | 2.54 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 1 |  |
+| σ: Re10(Mo,Re)4(Mo,Re)16 |  | 4.43 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 2 |  |
+| σ: Re10(Mo,Re)4(Mo,Re)16 |  | 5.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 3 |  |
+| σ: Re10(Mo,Re)4(Mo,Re)16 |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4 |  |
+| χ |  | -1.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 13 |  |
+| χ |  | -0.8 kJ/mol (basis unstated) | 1773 | experimental |  |  | [2] Farzadfar 2009 | Table 4, p. 4, row 1 |  |
+| χ |  | -0.76 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 7 |  |
+| χ |  | -0.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 14 |  |
+| χ |  | 3.46 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 15 |  |
+| χ |  | 4.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 16 |  |
+| χ |  | 5.48 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 8 |  |
+| χ |  | 5.59 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 6 |  |
+| χ |  | 9.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 10 |  |
+| χ |  | 10.84 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 12 |  |
+| χ |  | 11.45 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 8 |  |
+| χ |  | 13.98 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 5 |  |
+| χ |  | 14.56 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 5 |  |
+| χ |  | 16.86 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 9 |  |
+| χ |  | 17.81 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 11 |  |
+| χ |  | 18.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 6 |  |
+| χ |  | 19.32 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 7 |  |
+| χ |  | 26.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 1 |  |
+| χ |  | 26.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 2 |  |
+| χ |  | 27.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 3 |  |
+| χ |  | 28.11 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 4 |  |
+| χ: (Mo,Re)10(Mo,Re)24Re24 |  | -0.76 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 7 |  |
+| χ: (Mo,Re)10(Mo,Re)24Re24 |  | 5.48 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 8 |  |
+| χ: (Mo,Re)10(Mo,Re)24Re24 |  | 14.56 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 5 |  |
+| χ: (Mo,Re)10(Mo,Re)24Re24 |  | 18.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 6 |  |
+
+## Other properties
+
+### Phase transition (8)
+
+Table: Phase transition, Mo–Re system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1322 K | 1322 | other | model | [3] Mathieu 2013 | p. 11 | “Finally, the present work calculates a eutectoid reaction at 27.1 at.% Re and a temperature of 1322 K in close agreement with the 29 at.% Re reported by Knapton \[20\] and close to the lower value of temperature (1373 K) proposed by \[20\].” |
+| Phase transition | 1373 K | 1373 | other | experimental | [3] Mathieu 2013; _cites Knapton 1959_ | p. 11 | “Finally, the present work calculates a eutectoid reaction at 27.1 at.% Re and a temperature of 1322 K in close agreement with the 29 at.% Re reported by Knapton \[20\] and close to the lower value of temperature (1373 K) proposed by \[20\].” |
+| Phase transition | 2098 K | 2098 | other | experimental | [2] Farzadfar 2009 | p. 4 | “The peritectoid temperature measured by Dickinson and Richardson (2353 K) is significantly higher than the one obtained by Knapton (2098 K), while the one represented by Savitskii et al. is only tentative.” |
+| Phase transition | 2123 K | 2123 (none) | ␴ + (Re) = ␹ | experimental | [1] Mao 2008; _cites Savitskii 1959_ | p. 2 | “They are ␴ + (Re) = ␹ at about 2123 K (1850 ◦ C), liquid + (Re) = ␴ at 2843 K (2570 ◦ C), liquid + ␴ = (Mo) at 2773 K (2500 ◦ C), as shown in Table 1.” |
+| Phase transition | 2353 K | 2353 | other | experimental | [2] Farzadfar 2009 | p. 4 | “The peritectoid temperature measured by Dickinson and Richardson (2353 K) is significantly higher than the one obtained by Knapton (2098 K), while the one represented by Savitskii et al. is only tentative.” |
+| Phase transition | 2773 K | 2773 | liquid + ␴ = (Mo) | experimental | [1] Mao 2008; _cites Savitskii 1959_ | p. 2 | “They are ␴ + (Re) = ␹ at about 2123 K (1850 ◦ C), liquid + (Re) = ␴ at 2843 K (2570 ◦ C), liquid + ␴ = (Mo) at 2773 K (2500 ◦ C), as shown in Table 1.” |
+| Phase transition | 2843 K | 2843 | liquid + (Re) = ␴ | experimental | [1] Mao 2008; _cites Savitskii 1959_ | p. 2 | “They are ␴ + (Re) = ␹ at about 2123 K (1850 ◦ C), liquid + (Re) = ␴ at 2843 K (2570 ◦ C), liquid + ␴ = (Mo) at 2773 K (2500 ◦ C), as shown in Table 1.” |
+| Phase transition | 2890 K | 2890 |  | model | [3] Mathieu 2013 | p. 10 | “Excellent agreement is reached for the temperature 2890 K of the invariant reaction with the liquid, hcp and s phases when compared to the experimental values of 2918 K from \[19\].” |
+
+### Phase equilibrium (13)
+
+Table: Phase equilibrium, Mo–Re system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase assemblage |  |  | σ; _alloy: Mo 0.41, Re 0.59_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 11 |  |
+| Phase assemblage |  | 1273 | χ + hcp + bcc; _alloy: Mo 0.4, Re 0.6_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 9 |  |
+| Phase composition |  | 1473 | σ; _σ: Mo 0.319, Re 0.681_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 8 |  |
+| Phase composition |  | 1473 | σ + bcc; _σ: Mo 0.46, Re 0.54_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 12 |  |
+| Phase composition |  | 1473 | χ + hcp; _χ: Mo 0.22, Re 0.78_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 2 |  |
+| Phase composition |  | 1473 | χ + σ + hcp + bcc; _χ: Mo 0.23, Re 0.77_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 6 |  |
+| Phase composition |  | 1873 | σ; _σ: Mo 0.404, Re 0.596_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 10 |  |
+| Phase composition |  | 1873 | σ + bcc; _σ: Mo 0.48, Re 0.52_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 13 |  |
+| Phase composition |  | 1873 | σ + χ; _σ: Mo 0.299, Re 0.701; χ: Mo 0.27, Re 0.73_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 7 |  |
+| Phase composition |  | 1873 | χ + hcp; _χ: Mo 0.22, Re 0.78_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 3 |  |
+| Phase composition |  | 1873 | χ + hcp; _χ: Mo 0.21, Re 0.79; hcp: Mo 0.07, Re 0.93_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 1 |  |
+| Phase composition |  | 1873 | χ + σ; _χ: Mo 0.249, Re 0.751; σ: Mo 0.31, Re 0.69_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 4 |  |
+| Phase composition |  | 1873 | χ + σ; _χ: Mo 0.26, Re 0.74_ | experimental | [2] Farzadfar 2009 | Table 1, p. 2, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Pingli Mao, Ke Han, Yan Xin, Thermodynamic assessment of the Mo–Re binary system, Journal of Alloys and Compounds 464, 190-196 (2008). [doi:10.1016/j.jallcom.2007.10.060](https://doi.org/10.1016/j.jallcom.2007.10.060)
+2. S.A. Farzadfar, M. Levesque, M. Phejar, J.-M. Joubert, Thermodynamic assessment of the Molybdenum–Rhenium system, Calphad 33, 502-510 (2009). [doi:10.1016/j.calphad.2009.02.001](https://doi.org/10.1016/j.calphad.2009.02.001)
+3. R. Mathieu, N. Dupin, J.-C. Crivello, K. Yaqoob, A. Breidi, J.-M. Fiorani et al., CALPHAD description of the Mo–Re system focused on the sigma phase modeling, Calphad 43, 18-31 (2013). [doi:10.1016/j.calphad.2013.08.002](https://doi.org/10.1016/j.calphad.2013.08.002)
+4. Ying Yang, Chuan Zhang, Shuanglin Chen, Dane Morgan, Y. Austin Chang, First-principles calculation aided thermodynamic modeling of the Mo–Re system, Intermetallics 18, 574-581 (2010). [doi:10.1016/j.intermet.2009.10.012](https://doi.org/10.1016/j.intermet.2009.10.012)
+5. Shao-yu Yen, Shu-chang Wu, M. Anshar Makhraja, Kai-chi Lo, An-chou Yeh, Kyosuke Yoshimi et al., Phase equilibria and thermodynamic assessment of the Mo–Nb-Re ternary system, Calphad 70, 101797 (2020). [doi:10.1016/j.calphad.2020.101797](https://doi.org/10.1016/j.calphad.2020.101797)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

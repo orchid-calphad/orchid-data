@@ -1,0 +1,41 @@
+# Al–Co–Ni system
+
+> Al–Co–Ni system: 1 accepted literature values (phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AL-CO-NI.html · Markdown: https://data.orchid-project.org/systems/AL-CO-NI.md
+
+1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-NI) · [Markdown](https://data.orchid-project.org/systems/AL-CO-NI.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 1 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 1 |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Al–Co–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1632.15 K | 1632.15 | L + c¢ = > b + c | model | [1] Zhu 2014 | p. 15 | “The c¢ phase has a small primary phase region and an invariant reaction L + c¢ = > b + c occurs at 1359 C.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. J. Zhu, M. S. Titus, T. M. Pollock, Experimental Investigation and Thermodynamic Modeling of the Co-Rich Region in the Co-Al-Ni-W Quaternary System, J. Phase Equilib. Diffus. 35, 595-611 (2014). [doi:10.1007/s11669-014-0327-5](https://doi.org/10.1007/s11669-014-0327-5)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

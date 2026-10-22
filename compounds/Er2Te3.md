@@ -1,0 +1,44 @@
+# Er2Te3: enthalpy of formation
+
+> Enthalpy of formation of Er2Te3: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Er2Te3.html · Markdown: https://data.orchid-project.org/compounds/Er2Te3.md
+
+7 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 3); experimental median -161.53 kJ/mol-atom (n = 2); Materials Project -158.255 kJ/mol-atom (mp-aaaaavrf); OQMD -134.147 kJ/mol-atom (oqmd-665800).
+
+Systems: [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Er2Te3 reported in the literature (7)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -164.44 kJ/mol-atom ± 16.7 | Er2Te3 | 298.15 | experimental | EMF | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 2, p. 5, row 34 |  |
+| -158.62 kJ/mol-atom ± 2.5 | Er2Te3 | 298.15 | experimental | EMF | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 35 |  |
+| -159.1 kJ/mol-atom ± 10 | Er2Te3 |  | model | Predicted | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Vassiliev 2016_ [doi](https://doi.org/10.1016/j.electacta.2016.11.075) | Table 2, p. 5, row 33 |  |
+| -136.475 kJ/mol-atom | Er2Te3 |  | model | CALPHAD | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 30 |  |
+| -157.965 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 32 |  |
+| -133.951 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 31 |  |
+| -133.731 kJ/mol-atom | Er2Te3 | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 29 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Er2Te3
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaavrf | -158.255 | -1.64021 | Fddd | 0 | no |
+| OQMD | oqmd-665800 | -134.147 | -1.39034 | Fddd | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022). [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

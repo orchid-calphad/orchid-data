@@ -1,0 +1,41 @@
+# GeRu: enthalpy of formation
+
+> Enthalpy of formation of GeRu: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/GeRu.html · Markdown: https://data.orchid-project.org/compounds/GeRu.md
+
+4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -28.7 kJ/mol-atom (n = 3); Materials Project -27.283 kJ/mol-atom (mp-aaacgiwj); OQMD -26.89 kJ/mol-atom (oqmd-683580).
+
+Systems: [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html)
+
+## Literature values
+
+Table: Enthalpy of formation of GeRu reported in the literature (4)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -31.2 kJ/mol-atom ± 3.3 | RuGe | 298 | experimental | Vapor pressure | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 1 |  |
+| -28.7 kJ/mol-atom ± 1.3 | RuGe | 1173 | experimental | Direct reaction calorimetry | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 3 |  |
+| -28.4 kJ/mol-atom | RuGe | 1473 | experimental | High-temperature calorimetry | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 4, p. 3, row 2 |  |
+| -31.241 kJ/mol-atom | RuGe | 298 | model | Assessment | [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.html) | [1] Long 2009 | Table 4, p. 3, row 4 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of GeRu
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaacgiwj | -27.283 | -0.282775 | P2_13 | 1.079 | no |
+| OQMD | oqmd-683580 | -26.89 | -0.278699 | P213 | 1.139 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Z.H. Long, H.S. Liu, Z.P. Jin, Thermodynamic description of Ru–Ge–Si ternary system, Journal of Alloys and Compounds 479, 262-267 (2009). [doi:10.1016/j.jallcom.2009.01.079](https://doi.org/10.1016/j.jallcom.2009.01.079)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

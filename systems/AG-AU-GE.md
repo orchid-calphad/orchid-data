@@ -1,0 +1,88 @@
+# Ag–Au–Ge system
+
+> Ag–Au–Ge system: 40 accepted literature values (phase transition 23, phase equilibrium 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AG-AU-GE.html · Markdown: https://data.orchid-project.org/systems/AG-AU-GE.md
+
+40 accepted literature values from 1 paper(s) (experimental 40); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-AU-GE.json) · [CSV](https://data.orchid-project.org/systems/AG-AU-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-AU-GE) · [Markdown](https://data.orchid-project.org/systems/AG-AU-GE.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 40 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 23 |
+| phase equilibrium | 17 |
+
+## Other properties
+
+### Phase transition (23)
+
+Table: Phase transition, Ag–Au–Ge system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 771 K | 771 | liquidus; _alloy: Ag 0.183, Au 0.549, Ge 0.268_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 14 |  |
+| Phase transition | 839 K | 839 | liquidus; _alloy: Ag 0.168, Au 0.506, Ge 0.325_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 16 |  |
+| Phase transition | 894 K | 894 | liquidus: Tliq; _alloy: Ag 0.581, Au 0.193, Ge 0.225_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 20 |  |
+| Phase transition | 899 K | 899 | liquidus; _alloy: Ag 0.203, Au 0.611, Ge 0.185_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 9 |  |
+| Phase transition | 912 K | 912 | liquidus; _alloy: Ag 0.148, Au 0.445, Ge 0.406_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 20 |  |
+| Phase transition | 915 K | 915 | liquidus: Tliq; _alloy: Ag 0.562, Au 0.187, Ge 0.25_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 21 |  |
+| Phase transition | 919 K | 919 | liquidus; _alloy: Ag 0.142, Au 0.428, Ge 0.428_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 22 |  |
+| Phase transition | 971 K | 971 | liquidus: Tliq; _alloy: Ag 0.525, Au 0.175, Ge 0.3_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 22 |  |
+| Phase transition | 984 K | 984 | liquidus; _alloy: Ag 0.125, Au 0.375, Ge 0.5_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 24 |  |
+| Phase transition | 1005 K | 1005 | liquidus: Tliq; _alloy: Ag 0.486, Au 0.162, Ge 0.351_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 23 |  |
+| Phase transition | 1033 K | 1033 | liquidus: Tliq; _alloy: Ag 0.45, Au 0.15, Ge 0.4_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 24 |  |
+| Phase transition | 1037 K | 1037 | liquidus; _alloy: Ag 0.1, Au 0.3, Ge 0.6_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 26 |  |
+| Phase transition | 1039 K | 1039 | liquidus: Tliq; _alloy: Ag 0.428, Au 0.142, Ge 0.429_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 25 |  |
+| Phase transition | 1040 K | 1040 | liquidus; _alloy: Ag 0.212, Au 0.637, Ge 0.15_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 6 |  |
+| Phase transition | 1057 K | 1057 | liquidus: Tliq; _alloy: Ag 0.637, Au 0.212, Ge 0.15_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 18 |  |
+| Phase transition | 1068 K | 1068 | liquidus: Tliq; _alloy: Ag 0.626, Au 0.208, Ge 0.165_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 19 |  |
+| Phase transition | 1077 K | 1077 | liquidus: Tliq; _alloy: Ag 0.375, Au 0.125, Ge 0.5_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 26 |  |
+| Phase transition | 1103 K | 1103 | liquidus: Tliq; _alloy: Ag 0.3, Au 0.1, Ge 0.6_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 27 |  |
+| Phase transition | 1154 K | 1154 | liquidus: Tliq; _alloy: Ag 0.66, Au 0.22, Ge 0.12_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 17 |  |
+| Phase transition | 1178 K | 1178 | liquidus; _alloy: Ag 0.225, Au 0.675, Ge 0.1_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 4 |  |
+| Phase transition | 1188 K | 1188 | liquidus: Tliq; _alloy: Ag 0.696, Au 0.232, Ge 0.072_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 16 |  |
+| Phase transition | 1216 K | 1216 | liquidus: Tliq; _alloy: Ag 0.712, Au 0.237, Ge 0.05_ | experimental | [1] Hassam 1988 | Table IV, p. 4, row 15 |  |
+| Phase transition | 1260 K | 1260 | liquidus; _alloy: Ag 0.237, Au 0.712, Ge 0.05_ | experimental | [1] Hassam 1988 | Table VI, p. 4, row 2 |  |
+
+### Phase equilibrium (17)
+
+Table: Phase equilibrium, Ag–Au–Ge system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase composition |  | 495 | (Au) + solid Au; _(Au): Ge 0.003; solid Au: Ge 0.003_ | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table II, p. 2, row 15 |  |
+| Phase composition |  | 543 | (Ag) + solid Ag; _(Ag): Ge 0.015; solid Ag: Ge 0.015_ | experimental | [1] Hassam 1988; _cites Owen 1940_ | Table II, p. 2, row 8 |  |
+| Phase composition |  | 563 | (Au) + solid Au; _(Au): Ge 0.0081; solid Au: Ge 0.0081_ | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table II, p. 2, row 14 |  |
+| Phase composition |  | 581 | (Ag) + solid Ag; _(Ag): Ge 0.027; solid Ag: Ge 0.027_ | experimental | [1] Hassam 1988; _cites Owen 1940_ | Table II, p. 2, row 7 |  |
+| Phase composition |  | 598 | (Au) + solid Au; _(Au): Ge 0.017; solid Au: Ge 0.017_ | experimental | [1] Hassam 1988; _cites Muller 1959_ | Table II, p. 2, row 17 |  |
+| Phase composition |  | 609 | (Au) + solid Au; _(Au): Ge 0.0166; solid Au: Ge 0.0166_ | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table II, p. 2, row 13 |  |
+| Phase composition |  | 623 | (Au) + solid Au; _(Au): Ge 0.021; solid Au: Ge 0.021_ | experimental | [1] Hassam 1988; _cites Jaffee 1945_ | Table II, p. 2, row 16 |  |
+| Phase composition |  | 636 | (Au) + solid Au; _(Au): Ge 0.0308; solid Au: Ge 0.0308_ | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table II, p. 2, row 12 |  |
+| Phase composition |  | 648 | (Ag) + solid Ag; _(Ag): Ge 0.0375; solid Ag: Ge 0.0375_ | experimental | [1] Hassam 1988; _cites Owen 1940_ | Table II, p. 2, row 6 |  |
+| Phase composition |  | 655 | (Au) + solid Au; _(Au): Ge 0.0302; solid Au: Ge 0.0302_ | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table II, p. 2, row 11 |  |
+| Phase composition |  | 668 | (Au) + solid Au; _(Au): Ge 0.0279; solid Au: Ge 0.0279_ | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table II, p. 2, row 10 |  |
+| Phase composition |  | 716 | (Au) + solid Au; _(Au): Ge 0.0274; solid Au: Ge 0.0274_ | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table II, p. 2, row 9 |  |
+| Phase composition |  | 743 | (Ag) + solid Ag; _(Ag): Ge 0.0567; solid Ag: Ge 0.0567_ | experimental | [1] Hassam 1988; _cites Owen 1940_ | Table II, p. 2, row 5 |  |
+| Phase composition |  | 848 | (Ag) + solid Ag; _(Ag): Ge 0.0792; solid Ag: Ge 0.0792_ | experimental | [1] Hassam 1988; _cites Owen 1940_ | Table II, p. 2, row 4 |  |
+| Phase composition |  | 922 | (Ag) + solid Ag; _(Ag): Ge 0.08; solid Ag: Ge 0.08_ | experimental | [1] Hassam 1988; _cites Maucher 1936_ | Table II, p. 2, row 2 |  |
+| Phase composition |  | 923 | (Ag) + solid Ag; _(Ag): Ge 0.081; solid Ag: Ge 0.081_ | experimental | [1] Hassam 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table II, p. 2, row 1 |  |
+| Phase composition |  | 924 | (Ag) + solid Ag; _(Ag): Ge 0.096; solid Ag: Ge 0.096_ | experimental | [1] Hassam 1988; _cites Owen 1940_ | Table II, p. 2, row 3 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. S. Hassam, M. Gambino, M. Gaune-escard, J.P. Bros, J. ågren, Experimental and Calculated Ag + Au + Ge Phase Diagram, Metall Trans A 19, 409-416 (1988). [doi:10.1007/bf02649254](https://doi.org/10.1007/bf02649254)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

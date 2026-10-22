@@ -1,0 +1,44 @@
+# AuSn2: enthalpy of formation
+
+> Enthalpy of formation of AuSn2: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/AuSn2.html · Markdown: https://data.orchid-project.org/compounds/AuSn2.md
+
+6 accepted literature formation-enthalpy value(s) (model 3, DFT 3); Materials Project -12.827 kJ/mol-atom (mp-aaaaaceg); OQMD -18.403 kJ/mol-atom (oqmd-10801).
+
+Systems: [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) · [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)
+
+## Literature values
+
+Table: Enthalpy of formation of AuSn2 reported in the literature (6)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -13.38 kJ/mol (basis unstated) | AuSn2 | 10 | model |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 8 |  |
+| -13.38 kJ/mol (basis unstated) | AuSn2 | 10 | model |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 8 |  |
+| -13.38 kJ/mol-atom | AuSn2 |  | model |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [2] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 5 |  |
+| -13.1 kJ/mol (basis unstated) | AuSn2 | 0 | DFT |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 7 |  |
+| -13.1 kJ/mol (basis unstated) | AuSn2 | 0 | DFT |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 7 |  |
+| -13.1 kJ/mol-atom | AuSn2 | 0 | DFT | ab initio | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [2] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 4 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of AuSn2
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaaceg | -12.827 | -0.132944 | Pbca | 0 | no |
+| OQMD | oqmd-10801 | -18.403 | -0.190735 | Pbca | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009). [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4)
+2. Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022). [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

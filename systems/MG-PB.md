@@ -1,0 +1,230 @@
+# Mg–Pb system
+
+> Mg–Pb system: 133 accepted literature values (formation 40, invariant reaction 39, mixing / partial 34, crystal structure 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MG-PB.html · Markdown: https://data.orchid-project.org/systems/MG-PB.md
+
+133 accepted literature values from 2 paper(s) (experimental 65, model 8, DFT 60); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PB.json) · [CSV](https://data.orchid-project.org/systems/MG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-ass.json) · [Markdown](https://data.orchid-project.org/systems/MG-PB.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 65 |
+| model | 8 |
+| DFT | 60 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 39 |
+| formation | 40 |
+| mixing / partial | 34 |
+| crystal structure | 20 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MgPb-14Zha-ass.tdb | F. Zhang, Y. Tang, B. Hu, S. Liu, Y. Du, Y. Zhang, J. Mining Metall. B, 50, 115-26(2014). [doi:10.2298/JMMB130824017Z](https://doi.org/10.2298/JMMB130824017Z) | `85fd9842fb3b047b174bb8ea0aa4180c55f330ea6ed8d382e68b70d35176eee5` | [viewer](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-ass.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgPb-14Zha-ass.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgPb-14Zha-ass.json) |
+| MgPb-14Zha-sub.tdb | F. Zhang, Y. Tang, B. Hu, S. Liu, Y. Du, Y. Zhang, J. Mining Metall. B, 50, 115-26(2014). [doi:10.2298/JMMB130824017Z](https://doi.org/10.2298/JMMB130824017Z) | `715ddff6aaa4430b25aa0f8cdf6aaf3cedba16a959a325ee2296dd0115216f95` | [viewer](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-sub.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgPb-14Zha-sub.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgPb-14Zha-sub.json) |
+| MgPb-21Deb.tdb | A. Debski, W. Gierlotka, S. Terlicka, W. Gasior, J. Alloys Compd., 861, 158396(2021). [doi:10.1016/j.jallcom.2020.158396](https://doi.org/10.1016/j.jallcom.2020.158396) | `c150e3ea46f0693a9b94b7525b2e9bc582d587422f87b8306031baa270a07340` | [viewer](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-21Deb.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgPb-21Deb.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgPb-21Deb.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MgPb-14Zha-ass.tdb | 736.95 | HCP_A3 (x(Pb) 0.07406) + LIQUID (x(Pb) 0.19307) + MG2PB_C1 (x(Pb) 0.33333) |
+| MgPb-14Zha-ass.tdb | 519.12 | MG2PB_C1 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.82445) + FCC_A1 (x(Pb) 0.94669) |
+| MgPb-14Zha-sub.tdb | 732 | HCP_A3 (x(Pb) 0.0871) + LIQUID (x(Pb) 0.16514) + MG2PB_C1 (x(Pb) 0.33333) |
+| MgPb-14Zha-sub.tdb | 732 | HCP_A3 (x(Pb) 0.08706) + LIQUID (x(Pb) 0.16507) + MG2PB_C1 (x(Pb) 0.33333) |
+| MgPb-14Zha-sub.tdb | 517.29 | MG2PB_C1 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.80661) + FCC_A1 (x(Pb) 0.94652) |
+| MgPb-14Zha-sub.tdb | 517.29 | MG2PB_C1 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.807) + FCC_A1 (x(Pb) 0.94662) |
+| MgPb-21Deb.tdb | 734.48 | HCP_A3 (x(Pb) 0.08463) + LIQUID (x(Pb) 0.17679) + MG2PB_C1 (x(Pb) 0.33333) |
+| MgPb-21Deb.tdb | 519.1 | MG2PB_C1 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.81728) + FCC_A1 (x(Pb) 0.93764) |
+| MgPb-21Deb.tdb | 519.1 | MG2PB_C1 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.81743) + FCC_A1 (x(Pb) 0.93772) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MG/MG-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MG/MG-PB.json) · [CALPHAD hull MgPb-14Zha-ass](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-PB--MgPb-14Zha-ass.json) · [CALPHAD hull MgPb-14Zha-sub](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-PB--MgPb-14Zha-sub.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mg–Pb system (39)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 824.1 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | model | [1] Zhang 2014 | Table 3, p. 6, row 6 |  |
+| 823.4 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | model | [1] Zhang 2014 | Table 3, p. 6, row 7 |  |
+| 823.15 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Dobovisek 1965_ | Table 3, p. 6, row 3 |  |
+| 823.15 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 5 |  |
+| 823.15 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Knappwost 1959_ | Table 3, p. 6, row 4 |  |
+| 822.65 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Grethe 1959_ | Table 3, p. 6, row 1 |  |
+| 822.15 | congruent: Liquid=Mg2Pb | Liquid: Pb 0.35; Mg2Pb: Pb 0.35 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 2 |  |
+| 748.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.2; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 13 |  |
+| 748.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.2; Mg2Pb: Pb 0.333; Phase 3: Pb 0.333 | experimental | [2] Dębski 2021; _cites Kurnakov 1933_ | Table 5, p. 7, row 7 |  |
+| 739.35 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0775 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 8 |  |
+| 739.35 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.0775; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.0775 | experimental | [2] Dębski 2021; _cites Eldridge 1967_ | Table 5, p. 7, row 2 |  |
+| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | Mg2Pb: Pb 0.333; Phase 2: Pb 0.0714; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.0714 | experimental | [2] Dębski 2021; _cites Foote 1941_ | Table 5, p. 7, row 4 |  |
+| 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Mg2Pb: Pb 0.3333; (Mg): Pb 0.0714 | experimental | [1] Zhang 2014; _cites Foote 1941_ | Table 3, p. 6, row 10 |  |
+| 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.091 | experimental | [1] Zhang 2014; _cites Vosskuhler 1939_ | Table 3, p. 6, row 12 |  |
+| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | Mg2Pb: Pb 0.333; Phase 2: Pb 0.078; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.078 | experimental | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 5, p. 7, row 3 |  |
+| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.091; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.091 | experimental | [2] Dębski 2021; _cites Vosskuhler 1939_ | Table 5, p. 7, row 6 |  |
+| 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Mg2Pb: Pb 0.3333; (Mg): Pb 0.078 | experimental | [1] Zhang 2014; _cites Dobovisek 1965_ | Table 3, p. 6, row 9 |  |
+| 739 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.075; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.075 | experimental | [2] Dębski 2021; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02871188) | Table 5, p. 7, row 9 |  |
+| 739 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.175; Mg2Pb: Pb 0.333; Phase 2: Pb 0.083; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.083 | model | [2] Dębski 2021 | Table 5, p. 7, row 1 |  |
+| 738.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.0975; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.0975 | experimental | [2] Dębski 2021; _cites Raynor 1940_ | Table 5, p. 7, row 5 |  |
+| 738.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0975 | experimental | [1] Zhang 2014; _cites Raynor 1940_ | Table 3, p. 6, row 11 |  |
+| 737.05 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.1929; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0741 | model | [1] Zhang 2014 | Table 3, p. 6, row 16 |  |
+| 732.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.192; Mg2Pb: Pb 0.333; Phase 3: Pb 0.333 | experimental | [2] Dębski 2021; _cites Grube 1905_ [doi](https://doi.org/10.1002/zaac.19050440107) | Table 5, p. 7, row 8 |  |
+| 732.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.192; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Grube 1905_ | Table 3, p. 6, row 14 |  |
+| 732 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.1651; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0871 | model | [1] Zhang 2014 | Table 3, p. 6, row 15 |  |
+| 526.15 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.843; Mg2Pb: Pb 0.3333; (Pb): Pb 1 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 20 |  |
+| 526 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.84; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 1; Phase 2: Pb 0.333; Phase 3: Pb 1 | experimental | [2] Dębski 2021; _cites Kurnakov 1905_ | Table 5, p. 7, row 14 |  |
+| 525.15 | eutectic: Liquid=Mg2Pb+(Pb) | Mg2Pb: Pb 0.3333; (Pb): Pb 0.941 | experimental | [1] Zhang 2014; _cites Dobovisek 1965_ | Table 3, p. 6, row 19 |  |
+| 525 | L = Mg2Pb + FCC_A1(Mg) | Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.941; Phase 2: Pb 0.333; Phase 3: Pb 0.941 | experimental | [2] Dębski 2021; _cites Vosskuhler 1939_ | Table 5, p. 7, row 13 |  |
+| 522 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.83; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.94; Phase 2: Pb 0.333; Phase 3: Pb 0.94 | experimental | [2] Dębski 2021; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02871188) | Table 5, p. 7, row 16 |  |
+| 521.85 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.83; Mg2Pb: Pb 0.333; Phase 2: Pb 0.333 | experimental | [2] Dębski 2021; _cites Raynor 1940_ | Table 5, p. 7, row 12 |  |
+| 521.85 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.83; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 18 |  |
+| 521.15 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.835; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.947; Phase 2: Pb 0.333; Phase 3: Pb 0.947 | experimental | [2] Dębski 2021; _cites Horsley 1957_ | Table 5, p. 7, row 11 |  |
+| 521.15 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.835; Mg2Pb: Pb 0.3333; (Pb): Pb 0.947 | experimental | [1] Zhang 2014; _cites Graham 1971_ | Table 3, p. 6, row 17 |  |
+| 521 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.82; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.94; Phase 2: Pb 0.333; Phase 3: Pb 0.94 | model | [2] Dębski 2021 | Table 5, p. 7, row 10 |  |
+| 520.22 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.8265; Mg2Pb: Pb 0.3333; (Pb): Pb 0.9463 | model | [1] Zhang 2014 | Table 3, p. 6, row 23 |  |
+| 520.15 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.7915; Mg2Pb: Pb 0.3333; (Pb): Pb 1 | experimental | [1] Zhang 2014; _cites Grube 1905_ | Table 3, p. 6, row 21 |  |
+| 520 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.79; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 1; Phase 2: Pb 0.333; Phase 3: Pb 1 | experimental | [2] Dębski 2021; _cites Grube 1905_ [doi](https://doi.org/10.1002/zaac.19050440107) | Table 5, p. 7, row 15 |  |
+| 517.29 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.807; Mg2Pb: Pb 0.3333; (Pb): Pb 0.9466 | model | [1] Zhang 2014 | Table 3, p. 6, row 22 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mg–Pb system (40)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Mg2Pb |  | -11.6747 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
+| Mg2Pb |  | -11.674 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
+| Mg2Pb |  | -6.13647 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15 |  |
+| Mg2Pb |  | -6.136 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15 |  |
+| Mg2Pb |  | -6.07858 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites The_ | Table 3, p. 4, row 14 |  |
+| Mg2Pb |  | -6.078 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites The_ | Table 3, p. 4, row 14 |  |
+| Mg2Pb |  | -5.978 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021 | Table 3, p. 4, row 6 |  |
+| Mg2Pb |  | -5.97244 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021 | Table 3, p. 4, row 6 |  |
+| Mg2Pb |  | -5.9 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11 |  |
+| Mg2Pb |  | -5.89525 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11 |  |
+| Mg2Pb |  | -5.855 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9 |  |
+| Mg2Pb |  | -5.855 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7 |  |
+| Mg2Pb |  | -5.84701 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9 |  |
+| Mg2Pb |  | -5.84701 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7 |  |
+| Mg2Pb |  | -5.533 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10 |  |
+| Mg2Pb |  | -5.52861 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10 |  |
+| Mg2Pb |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
+| Mg2Pb |  | -5.49966 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
+| Mg2Pb |  | -4.24535 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
+| Mg2Pb |  | -4.245 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
+| UNKNOWN |  | -11.6747 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
+| UNKNOWN |  | -11.674 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
+| UNKNOWN |  | -6.13647 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15 |  |
+| UNKNOWN |  | -6.136 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15 |  |
+| UNKNOWN |  | -6.07858 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites The_ | Table 3, p. 4, row 14 |  |
+| UNKNOWN |  | -6.078 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites The_ | Table 3, p. 4, row 14 |  |
+| UNKNOWN |  | -5.978 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021 | Table 3, p. 4, row 6 |  |
+| UNKNOWN |  | -5.97244 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021 | Table 3, p. 4, row 6 |  |
+| UNKNOWN |  | -5.9 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11 |  |
+| UNKNOWN |  | -5.89525 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11 |  |
+| UNKNOWN |  | -5.855 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9 |  |
+| UNKNOWN |  | -5.855 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7 |  |
+| UNKNOWN |  | -5.84701 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9 |  |
+| UNKNOWN |  | -5.84701 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7 |  |
+| UNKNOWN |  | -5.533 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10 |  |
+| UNKNOWN |  | -5.52861 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10 |  |
+| UNKNOWN |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
+| UNKNOWN |  | -5.49966 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
+| UNKNOWN |  | -4.24535 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
+| UNKNOWN |  | -4.245 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
+
+## Other properties
+
+### Mixing / partial (34)
+
+Table: Mixing / partial, Mg–Pb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔmixH_ | -4267 J/mol (basis unstated) ± 108 | 1012 | liquid; _alloy: Mg 0.25, Pb 0.75_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2331 J/mol (basis unstated) ± 57 | 1012 | liquid; _alloy: Mg 0.139, Pb 0.861_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7900 J/mol (basis unstated) ± 194 | 1012 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8849 J/mol (basis unstated) ± 201 | 1012 | liquid; _alloy: Mg 0.6117, Pb 0.3883_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7824 J/mol (basis unstated) ± 386 | 1012 | liquid; _alloy: Mg 0.75, Pb 0.25_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4739 J/mol (basis unstated) ± 128 | 1014 | liquid; _alloy: Mg 0.289, Pb 0.711_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8776 J/mol (basis unstated) ± 148 | 1014 | liquid; _alloy: Mg 0.5497, Pb 0.4503_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2877 J/mol (basis unstated) ± 35 | 1014 | liquid; _alloy: Mg 0.1765, Pb 0.8235_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6941 J/mol (basis unstated) ± 91 | 1014 | liquid; _alloy: Mg 0.4066, Pb 0.5934_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7847 J/mol (basis unstated) ± 274 | 1014 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5012 J/mol (basis unstated) ± 66 | 1014 | liquid; _alloy: Mg 0.3047, Pb 0.6953_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2789 J/mol (basis unstated) ± 66 | 1014 | liquid; _alloy: Mg 0.1666, Pb 0.8334_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8991 J/mol (basis unstated) ± 179 | 1014 | liquid; _alloy: Mg 0.5983, Pb 0.4017_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7282 J/mol (basis unstated) ± 226 | 1014 | liquid; _alloy: Mg 0.4479, Pb 0.5521_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9067 J/mol (basis unstated) ± 210 | 1014 | liquid; _alloy: Mg 0.6402, Pb 0.3598_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6286 J/mol (basis unstated) ± 176 | 1014 | liquid; _alloy: Mg 0.3782, Pb 0.6218_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8227 J/mol (basis unstated) ± 118 | 1014 | liquid; _alloy: Mg 0.4889, Pb 0.5111_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 14 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -17354 J/mol | 1012 | liquid; _alloy: Mg 0.25, Pb 0.75_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 10 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16764 J/mol | 1012 | liquid; _alloy: Mg 0.139, Pb 0.861_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 9 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -15800 J/mol | 1012 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 3 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -14465 J/mol | 1012 | liquid; _alloy: Mg 0.6117, Pb 0.3883_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 1 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -5970 J/mol | 1012 | liquid; _alloy: Mg 0.75, Pb 0.25_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 2 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16060 J/mol | 1014 | liquid; _alloy: Mg 0.289, Pb 0.711_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 5 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -12845 J/mol | 1014 | liquid; _alloy: Mg 0.5497, Pb 0.4503_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 15 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16299 J/mol | 1014 | liquid; _alloy: Mg 0.1765, Pb 0.8235_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 11 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -18180 J/mol | 1014 | liquid; _alloy: Mg 0.4066, Pb 0.5934_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 13 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -13273 J/mol | 1014 | liquid; _alloy: Mg 0.5, Pb 0.5_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 8 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16590 J/mol | 1014 | liquid; _alloy: Mg 0.3047, Pb 0.6953_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 12 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16740 J/mol | 1014 | liquid; _alloy: Mg 0.1666, Pb 0.8334_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 4 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -10765 J/mol | 1014 | liquid; _alloy: Mg 0.5983, Pb 0.4017_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 16 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -15168 J/mol | 1014 | liquid; _alloy: Mg 0.4479, Pb 0.5521_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 7 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -9718 J/mol | 1014 | liquid; _alloy: Mg 0.6402, Pb 0.3598_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 17 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -17077 J/mol | 1014 | liquid; _alloy: Mg 0.3782, Pb 0.6218_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 6 |  |
+| Partial enthalpy; _printed: Δ¯HMg_ | -16212 J/mol | 1014 | liquid; _alloy: Mg 0.4889, Pb 0.5111_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 14 |  |
+
+### Crystal structure (20)
+
+Table: Crystal structure, Mg–Pb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: Lattice constant a_ | 3.547 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021 | Table 3, p. 4, row 18 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.467 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021; _cites Wyckoff 1963_ | Table 3, p. 4, row 22 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.499 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021; _cites Bouad 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900017-3) | Table 3, p. 4, row 21 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.571 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 19 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.485 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021; _cites Davey 1925_ [doi](https://doi.org/10.1103/physrev.25.753) | Table 3, p. 4, row 20 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.209 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 3, p. 4, row 4 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.203 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Wyckoff 1963_ | Table 3, p. 4, row 5 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.206 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021 | Table 3, p. 4, row 1 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.203 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 2 |  |
+| Lattice a; _printed: Lattice constant a_ | 3.234 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Schimmel 2005_ [doi](https://doi.org/10.1021/ja051508a) | Table 3, p. 4, row 3 |  |
+| Lattice a; _printed: Lattice constant a_ | 4.833 unknown | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites Wyckoff 1963_ | Table 3, p. 4, row 16 |  |
+| Lattice a; _printed: Lattice constant a_ | 4.891 A | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
+| Lattice a; _printed: Lattice constant a_ | 4.818 unknown | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites Fassler 1999_ | Table 3, p. 4, row 17 |  |
+| Lattice a; _printed: Lattice constant a_ | 4.881 unknown | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021 | Table 3, p. 4, row 6 |  |
+| Lattice a; _printed: Lattice constant a_ | 4.851 A | 0 | Mg2Pb; _alloy: Pb 0.333333_ | DFT | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
+| Lattice c; _printed: Lattice constant c_ | 5.21 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 3, p. 4, row 4 |  |
+| Lattice c; _printed: Lattice constant c_ | 5.201 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Wyckoff 1963_ | Table 3, p. 4, row 5 |  |
+| Lattice c; _printed: Lattice constant c_ | 5.133 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021 | Table 3, p. 4, row 1 |  |
+| Lattice c; _printed: Lattice constant c_ | 5.127 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 2 |  |
+| Lattice c; _printed: Lattice constant c_ | 5.252 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Schimmel 2005_ [doi](https://doi.org/10.1021/ja051508a) | Table 3, p. 4, row 3 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. F. Zhang, Y. Tang, B. Hu, S. Liu, Y. Du, Y. Zhang, Thermodynamic assessment of the Mg-Pb and Mg-Bi systems using substitutional solution and associate models for the liquid phase, J min metall B Metall 50, 115-126 (2014). [doi:10.2298/jmmb130824017z](https://doi.org/10.2298/jmmb130824017z)
+2. A. Dębski, W. Gierlotka, S. Terlicka, W. Gąsior, On the Mg-Pb system. Calorimetric studies and thermodynamic calculations, Journal of Alloys and Compounds 861, 158396 (2021). [doi:10.1016/j.jallcom.2020.158396](https://doi.org/10.1016/j.jallcom.2020.158396)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ORCHID data</title>
+<meta name="description" content="ORCHID data: 79,942 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,322 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.">
+<link rel="canonical" href="https://data.orchid-project.org/">
+<link rel="alternate" type="text/markdown" href="index.md">
+<link rel="icon" type="image/svg+xml" href="https://orchid-project.org/assets/logo/orchid-icon.svg">
+<style>:root{--bg:#fbfaf7;--fg:#1d1b20;--muted:#5e5a66;--line:#e2dfe6;--card:#fff;--accent:#7b3fa0;--row:#f6f4f8;
+--exp:#1d7448;--exp-bg:#e3f3ea;--mod:#2c58a8;--mod-bg:#e5ecf9;--dft:#a3520a;--dft-bg:#fbeedf;--uns:#5f5a66;--uns-bg:#ecebee}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;
+--card:#1c1922;--accent:#c79ae6;--row:#221e28;--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;
+--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}}
+:root[data-theme="dark"]{--bg:#141218;--fg:#ece8f1;--muted:#a69fb0;--line:#2e2a35;--card:#1c1922;--accent:#c79ae6;--row:#221e28;
+--exp:#74d3a2;--exp-bg:#183326;--mod:#9dbcf3;--mod-bg:#1b2840;--dft:#f2ad6b;--dft-bg:#3a2612;--uns:#bdb7c6;--uns-bg:#2a2730}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header nav{display:flex;flex-wrap:wrap;gap:4px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+header nav a:first-child{font-weight:700;margin-right:auto;color:var(--fg);text-decoration:none}
+h1{font-size:1.6rem;margin:22px 0 6px}h2{font-size:1.25rem;margin:28px 0 8px}h3{font-size:1.05rem;margin:18px 0 6px}
+.lead,.muted,small{color:var(--muted)}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.88rem;margin:6px 0 14px}
+caption{text-align:left;font-weight:600;padding:4px 0;color:var(--muted)}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+q{font-style:italic}q::before{content:"\201C"}q::after{content:"\201D"}
+.b{display:inline-block;font-size:.75rem;font-weight:600;padding:0 7px;border-radius:999px;white-space:nowrap}
+.b-experimental{background:var(--exp-bg);color:var(--exp)}.b-model{background:var(--mod-bg);color:var(--mod)}
+.b-dft{background:var(--dft-bg);color:var(--dft)}.b-unspecified{background:var(--uns-bg);color:var(--uns)}
+code{font-size:.85em;overflow-wrap:anywhere}ol.src li{margin:3px 0}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;color:var(--muted);font-size:.9rem}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","creator":{"@type":"Organization","name":"ORCHID authors","url":"https://orchid-project.org/"},"dateModified":"2026-10-22","description":"ORCHID data: 79,942 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,322 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.","distribution":[{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/literature/orchid-literature.csv.gz","encodingFormat":"application/gzip"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/literature/orchid-literature.jsonl.gz","encodingFormat":"application/gzip"},{"@type":"DataDownload","contentUrl":"https://data.orchid-project.org/literature/index.json","encodingFormat":"application/json"}],"isAccessibleForFree":true,"keywords":["CALPHAD","phase diagrams","thermodynamics","formation enthalpy","DFT","convex hull"],"license":"https://creativecommons.org/licenses/by/4.0/","name":"ORCHID data: literature thermodynamic data, calculated phase diagrams and DFT hulls","url":"https://data.orchid-project.org/","version":"orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)"}</script>
+</head>
+<body>
+<header><nav><a href="index.html">ORCHID data</a><a href="systems/index.html">Systems</a><a href="compounds/index.html">Compounds</a><a href="papers/index.html">Papers</a><a href="https://orchid-project.org/data-explorer/">Explorer</a><a href="https://orchid-project.org/">orchid-project.org</a></nav></header>
+<main>
+<h1>ORCHID data</h1>
+<p>This is the data site of ORCHID (Open Repository for CALPHAD Hypotheses, Intelligence, and Discovery, <a href="https://orchid-project.org/">orchid-project.org</a>). Every value carries its evidence class (experimental, model, DFT, unspecified; never mixed or averaged), its source paper and DOI, and the table row or one verbatim sentence and page it was read from. Release: <code>orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)</code>.</p>
+<h2 id="browse">Browse without JavaScript</h2>
+<ul>
+<li><a href="systems/index.html">Chemical systems</a> — 1813 pages (also <a href="systems/index.md">Markdown</a>): literature values, invariants, formation enthalpies, calculated phase diagrams.</li>
+<li><a href="compounds/index.html">Compounds</a> — 1477 formation-enthalpy pages with DFT comparison.</li>
+<li><a href="papers/index.html">Reporting papers</a> — citation, DOI, systems, number of values.</li>
+<li>Interactive tools: <a href="https://orchid-project.org/data-explorer/">data explorer</a>, <a href="https://orchid-project.org/phase-diagrams/">phase diagrams</a>, <a href="https://orchid-project.org/dft-parity/">DFT vs experiment</a>.</li>
+</ul>
+<h2 id="folders">Folder guide</h2>
+<div class="tw"><table>
+<caption>Folders of the data site</caption>
+<thead><tr><th scope="col">Path</th><th scope="col">Content</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="literature/SCHEMA.md">literature/</a></th><td>Literature records: index.json, systems/&lt;SYS&gt;.json, papers.json, contexts.json, dft_parity.json, full CSV/JSONL dumps; fields in SCHEMA.md.</td></tr>
+<tr><th scope="row"><a href="phase-diagrams/index.json">phase-diagrams/</a></th><td>Calculated binary phase diagrams (pycalphad, SGTE binary collection): index.json and sgte/&lt;TDB&gt;.json (phase regions, invariants, grid).</td></tr>
+<tr><th scope="row">hulls/</th><td>Binary convex hulls: dft-mp/ (Materials Project), dft-oqmd/ (OQMD), calphad-sgte/ (assessed CALPHAD), one JSON per system.</td></tr>
+<tr><th scope="row"><a href="systems/index.html">systems/</a></th><td>Static pages per chemical system: &lt;SYS&gt;.html, &lt;SYS&gt;.md, &lt;SYS&gt;.csv.</td></tr>
+<tr><th scope="row"><a href="compounds/index.html">compounds/</a></th><td>Static pages per compound (reduced formula): &lt;FORMULA&gt;.html, &lt;FORMULA&gt;.md.</td></tr>
+<tr><th scope="row"><a href="papers/index.html">papers/</a></th><td>Index of reporting papers.</td></tr>
+<tr><th scope="row">parquet/</th><td>Columnar copies of the tables, where present.</td></tr>
+<tr><th scope="row"><a href="llms.txt">llms.txt</a>, <a href="llms-full.txt">llms-full.txt</a></th><td>Guides for language models and agents.</td></tr>
+</tbody>
+</table></div>
+<h2 id="licence">Licence and citation</h2>
+<p>Derived data: CC BY 4.0. Cite the ORCHID release (<a href="CITATION.cff">CITATION.cff</a>) and the original source of every value you use (its paper and DOI). Quoted sentences are single sentences reproduced under fair use so values can be checked; source papers, page images and full text are not redistributed. Licences of the DFT and CALPHAD sources: <a href="LICENSES.md">LICENSES.md</a>, <a href="NOTICE.md">NOTICE.md</a>.</p>
+</main>
+<footer>Derived data CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">licence</a>): cite ORCHID (<a href="CITATION.cff">CITATION.cff</a>) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: <a href="literature/SCHEMA.md">SCHEMA.md</a>. Machine-readable guide: <a href="llms.txt">llms.txt</a>.</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+# Co5Ge3: enthalpy of formation
+
+> Enthalpy of formation of Co5Ge3: 34 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Co5Ge3.html · Markdown: https://data.orchid-project.org/compounds/Co5Ge3.md
+
+34 accepted literature formation-enthalpy value(s) (experimental 15, model 19); experimental median -17.237 kJ/mol-atom (n = 11); OQMD -16.532 kJ/mol-atom (oqmd-1437178).
+
+Systems: [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Co5Ge3 reported in the literature (34)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -20136 per mol-atom ± 1179 | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 19 |  |
+| -17237 per mol-atom ± 845 | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 16 |  |
+| -15868 per mol-atom ± 1104 | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 13 |  |
+| -13697 per mol-atom ± 870 | α(Co) + βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 10 |  |
+| -20.136 kJ/mol-atom | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 13 |  |
+| -20.136 kJ/mol-atom | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 13 |  |
+| -19.6 kJ/mol-atom | βCo5Ge3 | 298 | experimental | direct synthesis calorimetry | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Kleppa 1990_ | Table 5, p. 4, row 6 |  |
+| -19 kJ/mol-atom | βCo5Ge3 | 298 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 4, row 7 |  |
+| -17.237 kJ/mol-atom | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 11 |  |
+| -17.237 kJ/mol-atom | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 11 |  |
+| -15.868 kJ/mol-atom | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 9 |  |
+| -15.868 kJ/mol-atom | βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 9 |  |
+| -13.697 kJ/mol-atom ± 0.87 | α(Co)+βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 10 |  |
+| -13.697 kJ/mol-atom | α(Co) + βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 7 |  |
+| -13.697 kJ/mol-atom | α(Co)+βCo5Ge3 | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 7 |  |
+| -18381 per mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 18 |  |
+| -18160 per mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 20 |  |
+| -17185 per mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 15 |  |
+| -16665 per mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 17 |  |
+| -15844 per mol-atom | α(Co) + βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 12 |  |
+| -15124 per mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 14 |  |
+| -13797 per mol-atom | α(Co) + βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 11 |  |
+| -10994 per mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 21 |  |
+| -18.665 kJ/mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 14 |  |
+| -18.665 kJ/mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 14 |  |
+| -18.279 kJ/mol-atom | βCo5Ge3 | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 5, p. 4, row 8 |  |
+| -16.171 kJ/mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 12 |  |
+| -16.171 kJ/mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 12 |  |
+| -15.844 kJ/mol-atom | α(Co)+βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 12 |  |
+| -14.314 kJ/mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 10 |  |
+| -14.314 kJ/mol-atom | βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 10 |  |
+| -13.797 kJ/mol-atom | α(Co)+βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 11 |  |
+| -13.161 kJ/mol-atom | α(Co) + βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 8 |  |
+| -13.161 kJ/mol-atom | α(Co)+βCo5Ge3 | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 8 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Co5Ge3
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| OQMD | oqmd-1437178 | -16.532 | -0.171339 | C2 | 0.786 | yes |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Yinping Zeng, Yong Du, Han Li, Peng Zhou, Shuhong Liu, Kaiming Cheng et al., Thermodynamic description and solidified microstructure of the Co-Ge system, Journal of Alloys and Compounds 793, 480-491 (2019). [doi:10.1016/j.jallcom.2018.12.205](https://doi.org/10.1016/j.jallcom.2018.12.205)
+2. S.S. Dong, S.G. Liu, X.M. Tao, F.H. Xiao, L.H. Huang, F. Yang et al., Thermodynamic optimization of Co–Ge binary system, Thermochimica Acta 572, 94-100 (2013). [doi:10.1016/j.tca.2013.08.026](https://doi.org/10.1016/j.tca.2013.08.026)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

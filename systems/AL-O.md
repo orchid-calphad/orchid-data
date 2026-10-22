@@ -1,0 +1,80 @@
+# Al–O system
+
+> Al–O system: 8 accepted literature values (phase transition 6, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AL-O.html · Markdown: https://data.orchid-project.org/systems/AL-O.md
+
+8 accepted literature values from 2 paper(s) (experimental 3, model 1, unspecified 4); 3 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-O.json) · [CSV](https://data.orchid-project.org/systems/AL-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-O/AlO-23Li.json) · [Markdown](https://data.orchid-project.org/systems/AL-O.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 3 |
+| model | 1 |
+| unspecified | 4 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 2 |
+| phase transition | 6 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AlO-23Li.tdb | X.-J. Li, S.-H. Liu, J. Mining Metall. B, 59, 395-405(2023). [doi:10.2298/JMMB230621034L](https://doi.org/10.2298/JMMB230621034L) | `b626da52ef13746e934b0e8fbf38d8f347d0afb948412f53c5d0e360c8562520` | [viewer](https://orchid-project.org/phase-diagrams/#AL-O/AlO-23Li.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlO-23Li.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlO-23Li.json) |
+| AlO-92Tay.tdb | J.R. Taylor, A.T. Dinsdale, M. Hillert, M. Selleby, Calphad, 16, 173-79(1992). [doi:10.1016/0364-5916(92)90005-I](https://doi.org/10.1016/0364-5916%2892%2990005-I) | `f56b31da71628e6263b49bbb2d1b9212c45b3650a3ee44087f51fefff38fd203` | [viewer](https://orchid-project.org/phase-diagrams/#AL-O/AlO-92Tay.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlO-92Tay.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlO-92Tay.json) |
+| AlO-93Hal-LB.tdb | B. Hallstedt, J. Phase Equilib., 14, 662-75(1993). [doi:10.1007/BF02667878](https://doi.org/10.1007/BF02667878) | `3893b53d655fc07cd6e68be40fc0a29cde12c47cbf164116298f5f4c2d2dd0ff` | [viewer](https://orchid-project.org/phase-diagrams/#AL-O/AlO-93Hal-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlO-93Hal-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlO-93Hal-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AlO-92Tay.tdb | 2492.41 | ION#2 (x(O) 9.200e-4) + GAS (x(O) 0.30626) + ION (x(O) 0.59967) |
+| AlO-92Tay.tdb | 2327 | CORUNDUM_D51 (x(O) 0.6) + ION (x(O) 0.6) + GAS (x(O) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-O.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-O.json) · [CALPHAD hull AlO-92Tay](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-O--AlO-92Tay.json) · [CALPHAD hull AlO-93Hal-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-O--AlO-93Hal-LB.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Al–O system (2)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2326.09 | Al2O3(l) = Al(l) + Al2O3(cor) | Al2O3(l): O 0.59973; Al(l): O 7.557e-4 | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 2 |  |
+| 933.47 | Al(l) = Al(fcc) + Al2O3(cor) | Al(l): O 7.051e-7 | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 1 |  |
+
+## Other properties
+
+### Phase transition (6)
+
+Table: Phase transition, Al–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 933.47 K | 933.47 |  | experimental | [1] Taylor 1992; _cites ref. 89_ | p. 4 | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
+| Phase transition | 933.47 K | 933.47 | Al(l) = Al(fcc); _Al(l): O 0_ | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 3 |  |
+| Phase transition | 2327 K | 2327 |  | experimental | [1] Taylor 1992; _cites ref. 86_ | p. 4 | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
+| Phase transition | 2327 K | 2327 | Al2O3(l) = Al2O3(cor); _Al2O3(l): O 0.6_ | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 4 |  |
+| Phase transition | 2327 K | 2327 | congruent | experimental | [1] Taylor 1992; _cites ref. 85_ | p. 2 | “The phase diagtam is charactctised by a compound AhO, which melts congruently at 2327 K and crystalliscs in the corundum structum (sapphire).” |
+| Phase transition | 2329 K | 2329 |  | model | [2] Li 2023 | p. 6 | “The melting point of Al2O3 calculated in the present work was 2329 K.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. J R Taylor, A T Dinsdale, M Hilleit, M Selleby, A Critical Assessment of Thermodynamic and Phase Diagram Data for the Al-O System, Calphad 16, 173-179 (1992). [doi:10.1016/0364-5916(92)90005-i](https://doi.org/10.1016/0364-5916%2892%2990005-i)
+2. X.-J. Li, S.-H. Liu, Thermodynamic description of the Mg-O and Al-O systems, J min metall B Metall 59, 395-405 (2023). [doi:10.2298/jmmb230621034l](https://doi.org/10.2298/jmmb230621034l)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

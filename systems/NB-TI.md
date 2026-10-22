@@ -1,0 +1,58 @@
+# Nb–Ti system
+
+> Nb–Ti system: 2 accepted literature values (phase transition 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/NB-TI.html · Markdown: https://data.orchid-project.org/systems/NB-TI.md
+
+2 accepted literature values from 1 paper(s) (model 2); 5 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/NB-TI.json) · [CSV](https://data.orchid-project.org/systems/NB-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-TI/NbTi-01Zha-LB.json) · [Markdown](https://data.orchid-project.org/systems/NB-TI.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 2 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 2 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| NbTi-01Zha-LB.tdb | Y. Zhang, H. Liu, Z. Jin, Calphad, 25, 305-17(2001). [doi:10.1016/S0364-5916(01)00051-7](https://doi.org/10.1016/S0364-5916%2801%2900051-7) | `cc166cb688a0d62e749d475c6ec8f7fb748a10573ec4d2dffe1d6615136aca15` | [viewer](https://orchid-project.org/phase-diagrams/#NB-TI/NbTi-01Zha-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/NbTi-01Zha-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/NbTi-01Zha-LB.json) |
+| NbTi-16Yan.tdb | J.-Y. Yan, G.B. Olson, J. Alloys Compd., 673, 441-54(2016). [doi:10.1016/j.jallcom.2016.02.251](https://doi.org/10.1016/j.jallcom.2016.02.251) | `334018575c889441556389b60667bef4bbecb9e41938d1eee7659a065d59fa85` | [viewer](https://orchid-project.org/phase-diagrams/#NB-TI/NbTi-16Yan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/NbTi-16Yan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/NbTi-16Yan.json) |
+| NbTi-18Hu.tdb | B. Hu, Y. Jiang, J. Wang, B. Yao, F. Min, Y. Du, Calphad, 62, 75-82(2018). [doi:10.1016/j.calphad.2018.05.007](https://doi.org/10.1016/j.calphad.2018.05.007) | `b7a98bf27255bfc2948311e90e40745ef454407bbe5898fda01efffe31f1b2eb` | [viewer](https://orchid-project.org/phase-diagrams/#NB-TI/NbTi-18Hu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/NbTi-18Hu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/NbTi-18Hu.json) |
+| NbTi-94Har.tdb | K.C. Hari Kumar, P. Wollants, L. Delaey, Calphad, 18, 71-79(1994). [doi:10.1016/0364-5916(94)90008-6](https://doi.org/10.1016/0364-5916%2894%2990008-6) | `09901ed78b749997f4b2a848ace2d49440c8c8d9b9e4b5c1083a274aae2cf361` | [viewer](https://orchid-project.org/phase-diagrams/#NB-TI/NbTi-94Har.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/NbTi-94Har.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/NbTi-94Har.json) |
+| NbTi-98Sau.tdb | N. Saunders, COST 507, Final report round 2, 1998. | `7e8f7395e69fa0a0aede30302d1e09d9fde399c137632bb0ade43cbe506f4ead` | [viewer](https://orchid-project.org/phase-diagrams/#NB-TI/NbTi-98Sau.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/NbTi-98Sau.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/NbTi-98Sau.json) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/NB/NB-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NB/NB-TI.json) · [CALPHAD hull NbTi-01Zha-LB](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-TI--NbTi-01Zha-LB.json) · [CALPHAD hull NbTi-16Yan](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-TI--NbTi-16Yan.json) · [CALPHAD hull NbTi-94Har](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-TI--NbTi-94Har.json) · [CALPHAD hull NbTi-98Sau](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-TI--NbTi-98Sau.json)
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Nb–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 758.15 K | 758.15 | polymorphic: 13-~to | model | [1] Zhang 2001 | p. 6 | “The allotropic temperature 13-~to is calculated to be 485°C, considering the uncertainty of the measured data, this may be acceptable in light of the evaluation of Moffat and Kattner\[35\].” |
+| Phase transition | 786.15 K | 786.15 |  | model | [1] Zhang 2001 | p. 6 | “The calculated consohte point of the miscibility gap is at x~=0.5 and Tc=513°C.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Yuelan Zhang, Huashan Liu, Zhanpeng Jin, Thermodynamic assessment of the Nb-Ti system, Calphad 25, 305-317 (2001). [doi:10.1016/s0364-5916(01)00051-7](https://doi.org/10.1016/s0364-5916%2801%2900051-7)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

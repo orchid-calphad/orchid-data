@@ -1,0 +1,133 @@
+# Fe–Sm system
+
+> Fe–Sm system: 22 accepted literature values (heat capacity / entropy / enthalpy 13, invariant reaction 8, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/FE-SM.html · Markdown: https://data.orchid-project.org/systems/FE-SM.md
+
+22 accepted literature values from 1 paper(s) (experimental 11, model 7, unspecified 4); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SM.json) · [CSV](https://data.orchid-project.org/systems/FE-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-SM/FeSm-02Zin.json) · [Markdown](https://data.orchid-project.org/systems/FE-SM.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 11 |
+| model | 7 |
+| unspecified | 4 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 8 |
+| phase transition | 1 |
+| heat capacity / entropy / enthalpy | 13 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| FeSm-02Zin.tdb | M. Zinkevich, N. Mattern, A. Handstein, O. Gutfleisch, J. Alloys Compd., 339, 118-139(2002). [doi:10.1016/S0925-8388(01)01990-9](https://doi.org/10.1016/S0925-8388%2801%2901990-9) | `f9381a4b6ae265f751a70c7b1f63fa4b333dfedc7bde7e50c8747281e5ab6e15` | [viewer](https://orchid-project.org/phase-diagrams/#FE-SM/FeSm-02Zin.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeSm-02Zin.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeSm-02Zin.json) |
+| FeSm-17Che.tdb | X.L. Chen, J. Wang, T.L. Chen, X.D. Lin, M.H. Rong, G.H. Rao, H.Y. Zhou, Calphad, 58, 151-59(2017). [doi:10.1016/j.calphad.2017.07.005](https://doi.org/10.1016/j.calphad.2017.07.005) | `ee2803e2feb0f4079fedacbaeac954f514b798afe00180bce358ed7098f11454` | [viewer](https://orchid-project.org/phase-diagrams/#FE-SM/FeSm-17Che.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeSm-17Che.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeSm-17Che.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| FeSm-02Zin.tdb | 1625.13 | FCC_A1 (x(Sm) 0.00292) + BCC_A2 (x(Sm) 0.00442) + LIQUID (x(Sm) 0.16755) |
+| FeSm-02Zin.tdb | 1555.73 | FCC_A1 (x(Sm) 0.00293) + FE17SM2 (x(Sm) 0.10526) + LIQUID (x(Sm) 0.25611) |
+| FeSm-02Zin.tdb | 1555.73 | FCC_A1 (x(Sm) 0.00293) + FE17SM2 (x(Sm) 0.10526) + LIQUID (x(Sm) 0.25591) |
+| FeSm-02Zin.tdb | 1286.86 | FE17SM2 (x(Sm) 0.10526) + FE3SM (x(Sm) 0.25) + LIQUID (x(Sm) 0.54411) |
+| FeSm-02Zin.tdb | 1286.86 | FE17SM2 (x(Sm) 0.10526) + FE3SM (x(Sm) 0.25) + LIQUID (x(Sm) 0.54409) |
+| FeSm-02Zin.tdb | 1286.86 | FE17SM2 (x(Sm) 0.10526) + FE3SM (x(Sm) 0.25) + LIQUID (x(Sm) 0.54414) |
+| FeSm-02Zin.tdb | 1194.59 | LIQUID (x(Sm) 0.92144) + BCC_A2 (x(Sm) 0.99953) + HCP_A3 (x(Sm) 0.99964) |
+| FeSm-02Zin.tdb | 1192.36 | RHOMB_C19 (x(Sm) 1) + BCC_A2 (x(Sm) 1) + HCP_A3 (x(Sm) 1) |
+| FeSm-02Zin.tdb | 1185.33 | FCC_A1 (x(Sm) 1.200e-4) + BCC_A2 (x(Sm) 1.600e-4) + FE17SM2 (x(Sm) 0.10526) |
+| FeSm-02Zin.tdb | 1172.48 | FE3SM (x(Sm) 0.25) + FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.63119) |
+| FeSm-02Zin.tdb | 1172.48 | FE3SM (x(Sm) 0.25) + FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.6312) |
+| FeSm-02Zin.tdb | 997.59 | FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.76803) + HCP_A3 (x(Sm) 0.99916) |
+| FeSm-02Zin.tdb | 997.59 | FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.76827) + HCP_A3 (x(Sm) 0.99916) |
+| FeSm-02Zin.tdb | 977 | FE2SM_C15 (x(Sm) 0.33333) + HCP_A3 (x(Sm) 0.99927) + RHOMB_C19 (x(Sm) 0.99953) |
+| FeSm-02Zin.tdb | 977 | FE2SM_C15 (x(Sm) 0.33333) + HCP_A3 (x(Sm) 0.99927) + RHOMB_C19 (x(Sm) 0.99953) |
+| FeSm-17Che.tdb | 1666.01 | FCC_A1 (x(Sm) 1.100e-4) + BCC_A2 (x(Sm) 1.600e-4) + LIQUID (x(Sm) 0.09595) |
+| FeSm-17Che.tdb | 1666.01 | FCC_A1 (x(Sm) 1.100e-4) + BCC_A2 (x(Sm) 1.600e-4) + LIQUID (x(Sm) 0.09596) |
+| FeSm-17Che.tdb | 1666.01 | FCC_A1 (x(Sm) 1.100e-4) + BCC_A2 (x(Sm) 1.600e-4) + LIQUID (x(Sm) 0.09594) |
+| FeSm-17Che.tdb | 1555.58 | FCC_A1 (x(Sm) 9.000e-5) + FE17SM2 (x(Sm) 0.10526) + LIQUID (x(Sm) 0.21737) |
+| FeSm-17Che.tdb | 1555.58 | FCC_A1 (x(Sm) 9.000e-5) + FE17SM2 (x(Sm) 0.10526) + LIQUID (x(Sm) 0.21712) |
+| FeSm-17Che.tdb | 1555.58 | FCC_A1 (x(Sm) 9.000e-5) + FE17SM2 (x(Sm) 0.10526) + LIQUID (x(Sm) 0.21719) |
+| FeSm-17Che.tdb | 1286.29 | FE17SM2 (x(Sm) 0.10526) + FE3SM (x(Sm) 0.25) + LIQUID (x(Sm) 0.51577) |
+| FeSm-17Che.tdb | 1286.29 | FE17SM2 (x(Sm) 0.10526) + FE3SM (x(Sm) 0.25) + LIQUID (x(Sm) 0.51565) |
+| FeSm-17Che.tdb | 1286.29 | FE17SM2 (x(Sm) 0.10526) + FE3SM (x(Sm) 0.25) + LIQUID (x(Sm) 0.51589) |
+| FeSm-17Che.tdb | 1194.99 | LIQUID (x(Sm) 0.91637) + BCC_A2 (x(Sm) 0.99999) + HCP_A3 (x(Sm) 1) |
+| FeSm-17Che.tdb | 1194.99 | LIQUID (x(Sm) 0.91662) + BCC_A2 (x(Sm) 0.99999) + HCP_A3 (x(Sm) 1) |
+| FeSm-17Che.tdb | 1184.83 | FCC_A1 (x(Sm) 0) + BCC_A2 (x(Sm) 1.000e-5) + FE17SM2 (x(Sm) 0.10526) |
+| FeSm-17Che.tdb | 1173.81 | FE3SM (x(Sm) 0.25) + FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.63436) |
+| FeSm-17Che.tdb | 1173.81 | FE3SM (x(Sm) 0.25) + FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.63417) |
+| FeSm-17Che.tdb | 1173.81 | FE3SM (x(Sm) 0.25) + FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.63442) |
+| FeSm-17Che.tdb | 1006.71 | LIQUID (x(Sm) 0.77317) + HCP_A3 (x(Sm) 1) + RHOMB_C19 (x(Sm) 1) |
+| FeSm-17Che.tdb | 1006.71 | LIQUID (x(Sm) 0.77341) + RHOMB_C19 (x(Sm) 1) + HCP_A3 (x(Sm) 1) |
+| FeSm-17Che.tdb | 994.67 | FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.76403) + RHOMB_C19 (x(Sm) 1) |
+| FeSm-17Che.tdb | 994.67 | FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.76414) + RHOMB_C19 (x(Sm) 1) |
+| FeSm-17Che.tdb | 994.67 | FE2SM_C15 (x(Sm) 0.33333) + LIQUID (x(Sm) 0.76396) + RHOMB_C19 (x(Sm) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/FE/FE-SM.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/FE/FE-SM.json) · [CALPHAD hull FeSm-02Zin](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-SM--FeSm-02Zin.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Fe–Sm system (8)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1558 | Peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Liquid: Sm 0.247; f.c.c. Fe: Sm 0; Fe17Sm2: Sm 0.105 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 2 |  |
+| 1553 | Peritectic: Liquid + f.c.c. Fe -> Fe17Sm2 | Fe17Sm2: Sm 0.105263 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 1 |  |
+| 1287 | Peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Liquid: Sm 0.544; Fe17Sm2: Sm 0.105; Fe3Sm: Sm 0.25 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 4 |  |
+| 1283 | Peritectic: Liquid + Fe17Sm2 -> Fe3Sm | Fe17Sm2: Sm 0.105263; Fe3Sm: Sm 0.25 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 3 |  |
+| 1173 | Peritectic: Liquid + Fe3Sm -> Fe2Sm | Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 5 |  |
+| 1172 | Peritectic: Liquid + Fe3Sm -> Fe2Sm | Liquid: Sm 0.631; Fe3Sm: Sm 0.25; Fe2Sm: Sm 0.333 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 6 |  |
+| 997 | Eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.768; Fe2Sm: Sm 0.333; α-Sm: Sm 1 | unspecified | [1] Zinkevich 2002 | Table 6, p. 13, row 8 |  |
+| 993 | Eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.75; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 7 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Fe–Sm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 923 K | 923 | Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 | experimental | [1] Zinkevich 2002; _cites Zhao 1995_ [doi](https://doi.org/10.1016/0304-8853%2895%2900021-6) | p. 3 | “The equilibrium temperature of the invariant recombination reaction: Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 depends on the hydrogen partial pressure in the gas phase increasing from 923 K for vacuum conditions \[30\] up to 1313 K for 101 325 Pa H 2 \[61\].” |
+
+### Heat capacity / entropy / enthalpy (13)
+
+Table: Heat capacity / entropy / enthalpy, Fe–Sm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy | 35.18 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 2 |  |
+| Heat capacity | 29.1 J/mol (basis unstated)/K | 272 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 3 |  |
+| Heat capacity | 25.95 J/mol (basis unstated)/K | 272 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 4 |  |
+| Heat capacity | 29.4 J/mol (basis unstated)/K | 277 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 5 |  |
+| Heat capacity | 26.42 J/mol (basis unstated)/K | 277 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 6 |  |
+| Heat capacity | 29.7 J/mol (basis unstated)/K | 282 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 7 |  |
+| Heat capacity | 26.92 J/mol (basis unstated)/K | 282 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 8 |  |
+| Heat capacity | 27.45 J/mol (basis unstated)/K | 287 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 10 |  |
+| Heat capacity | 29.9 J/mol (basis unstated)/K | 287 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 9 |  |
+| Heat capacity | 30.2 J/mol (basis unstated)/K | 293 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 11 |  |
+| Heat capacity | 28 J/mol (basis unstated)/K | 293 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 12 |  |
+| Heat capacity | 28.57 J/mol (basis unstated)/K | 298 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 14 |  |
+| Heat capacity | 30.3 J/mol (basis unstated)/K | 298 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 13 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. M. Zinkevich, N. Mattern, A. Handstein, O. Gutfleisch, Thermodynamics of Fe–Sm, Fe–H, and H–Sm systems and its application to the hydrogen–disproportionation–desorption–recombination (HDDR) process for the system Fe17Sm2–H2, Journal of Alloys and Compounds 339, 118-139 (2002). [doi:10.1016/s0925-8388(01)01990-9](https://doi.org/10.1016/s0925-8388%2801%2901990-9)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,152 @@
+# Ga–Y system
+
+> Ga–Y system: 59 accepted literature values (formation 24, invariant reaction 22, phase transition 10, mixing / partial 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/GA-Y.html · Markdown: https://data.orchid-project.org/systems/GA-Y.md
+
+59 accepted literature values from 1 paper(s) (experimental 26, model 33); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-Y.json) · [CSV](https://data.orchid-project.org/systems/GA-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-Y/GaY-13Idb.json) · [Markdown](https://data.orchid-project.org/systems/GA-Y.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 26 |
+| model | 33 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 22 |
+| phase transition | 10 |
+| formation | 24 |
+| mixing / partial | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| GaY-13Idb.tdb | M. Idbenali, C. Servant, J. Therm. Anal. Calorim., 112, 245-53(2013). [doi:10.1007/s10973-012-2861-x](https://doi.org/10.1007/s10973-012-2861-x) | `cbddd22351605c045afe0d705d5ffd6c73c043a0c067ec7e6ee22e023b3785de` | [viewer](https://orchid-project.org/phase-diagrams/#GA-Y/GaY-13Idb.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GaY-13Idb.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GaY-13Idb.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| GaY-13Idb.tdb | 1557.13 | GAY_B33 (x(Y) 0.5) + LIQUID (x(Y) 0.58341) + GA3Y5_D88 (x(Y) 0.625) |
+| GaY-13Idb.tdb | 1557.13 | GAY_B33 (x(Y) 0.5) + LIQUID (x(Y) 0.58338) + GA3Y5_D88 (x(Y) 0.625) |
+| GaY-13Idb.tdb | 1543.04 | GA2Y_C32 (x(Y) 0.33333) + LIQUID (x(Y) 0.40866) + GAY_B33 (x(Y) 0.5) |
+| GaY-13Idb.tdb | 1543.04 | GA2Y_C32 (x(Y) 0.33333) + LIQUID (x(Y) 0.40867) + GAY_B33 (x(Y) 0.5) |
+| GaY-13Idb.tdb | 1272.72 | GAY_B33 (x(Y) 0.5) + GA3Y5_D88 (x(Y) 0.625) + GA3Y5_MT (x(Y) 0.625) |
+| GaY-13Idb.tdb | 1073.42 | GAY_B33 (x(Y) 0.5) + GA3Y5_LT (x(Y) 0.625) + GA3Y5_MT (x(Y) 0.625) |
+| GaY-13Idb.tdb | 1073.42 | GA3Y5_MT (x(Y) 0.625) + GA3Y5_LT (x(Y) 0.625) + HCP_A3 (x(Y) 1) |
+| GaY-13Idb.tdb | 302.32 | ORTHORHOMBIC_A11 (x(Y) 0) + LIQUID (x(Y) 0.0054) + GA2Y_C32 (x(Y) 0.33333) |
+| GaY-13Idb.tdb | 302.32 | ORTHORHOMBIC_A11 (x(Y) 0) + LIQUID (x(Y) 0.00538) + GA2Y_C32 (x(Y) 0.33333) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-Y.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ga–Y system (22)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1752 | α(Y) -> β(Y) + Liq | L: Y 0.9786 | model | [1] Idbenali 2013 | Table 4, p. 5, row 27 |  |
+| 1751 | α(Y) -> β(Y) + Liq | L: Y 0.982 | model | [1] Idbenali 2013 | Table 4, p. 5, row 26 |  |
+| 1751 | α(Y) -> β(Y) + Liq | L: Y 0.963 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 25 |  |
+| 1568 | eutectic: Liq $ GaY ? H_Ga3Y5 |  | model | [1] Idbenali 2013 | p. 6 | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
+| 1568 | H_Ga3Y5 -> Liq + GaY | H_Ga3Y5: Y 0.625; L: Y 0.58; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 14 |  |
+| 1568 | H_Ga3Y5 -> Liq + GaY | H_Ga3Y5: Y 0.625; L: Y 0.5937; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 15 |  |
+| 1568 | H_Ga3Y5 -> Liq + GaY | H_Ga3Y5: Y 0.625; L: Y 0.625; GaY: Y 0.5 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 13 |  |
+| 1559 | Liq -> Ga2Y + GaY | L: Y 0.4053; Ga2Y: Y 0.333333; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 9 |  |
+| 1544 | Liq -> Ga2Y + GaY | L: Y 0.46; Ga2Y: Y 0.333333; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 8 |  |
+| 1543 | Liq -> Ga2Y + GaY | L: Y 0.43; Ga2Y: Y 0.333333; GaY: Y 0.5 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 7 |  |
+| 1286 | Liq -> H_Ga3Y5 + α(Y) | L: Y 0.8; H_Ga3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 16 |  |
+| 1283 | Liq -> H_Ga3Y5 + α(Y) | L: Y 0.815; H_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 17 |  |
+| 1283 | Liq -> H_Ga3Y5 + α(Y) | L: Y 0.7747; H_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 18 |  |
+| 1273 | H_Ga3Y5 -> M_Ga3Y5 + α(Y) | H_Ga3Y5: Y 0.625; M_Ga3Y5: Y 0.615 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 19 |  |
+| 1273 | H_Ga3Y5 -> M_Ga3Y5 + α(Y) | H_Ga3Y5: Y 0.625; M_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 21 |  |
+| 1273 | H_Ga3Y5 -> M_Ga3Y5 + α(Y) | H_Ga3Y5: Y 0.625; M_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 20 |  |
+| 1073 | M_Ga3Y5 -> L_Ga3Y5 + α(Y) | M_Ga3Y5: Y 0.625; L_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 24 |  |
+| 1073 | M_Ga3Y5 -> L_Ga3Y5 + α(Y) | M_Ga3Y5: Y 0.625; L_Ga3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 22 |  |
+| 1073 | M_Ga3Y5 -> L_Ga3Y5 + α(Y) | M_Ga3Y5: Y 0.625; L_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 23 |  |
+| 303 | (Ga) -> Liq + Ga2Y | (Ga): Y 0; L: Y 1.000e-4; Ga2Y: Y 0.333333 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 1 |  |
+| 302 | (Ga) -> Liq + Ga2Y | (Ga): Y 0; L: Y 0.0057; Ga2Y: Y 0.333333 | model | [1] Idbenali 2013 | Table 4, p. 5, row 2 |  |
+| 300.7 | (Ga) -> Liq + Ga2Y | (Ga): Y 0; L: Y 0.0235; Ga2Y: Y 0.333333 | model | [1] Idbenali 2013 | Table 4, p. 5, row 3 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ga–Y system (24)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -74.6 kJ/mol-atom ± 1.5 | 298.15 | experimental | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 11 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -73.49 kJ/mol-atom | 298.15 | model | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013 | Table 5, p. 7, row 4 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -73.47 kJ/mol-atom | 298.15 | model | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013 | Table 5, p. 7, row 3 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -72.1 kJ/mol-atom ± 1.3 | 298.15 | experimental | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 9 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -70.9 kJ/mol-atom ± 1.5 | 298.15 | experimental | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites Yamshchikov 1979_ | Table 5, p. 7, row 12 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -69 kJ/mol-atom | 298.15 | experimental | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 8 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -68.4 kJ/mol-atom ± 1.3 | 298.15 | experimental | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites Yamshchikov 1979_ | Table 5, p. 7, row 10 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -68.1 kJ/mol-atom ± 2.3 | 298.15 | experimental | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 7 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -65 kJ/mol-atom | 298.15 | model | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites de Boer FR 1988_ | Table 5, p. 7, row 5 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -64.4 kJ/mol-atom ± 2.5 | 298.15 | experimental | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 6 |  |
+| Ga2Y | [Ga2Y](https://data.orchid-project.org/compounds/Ga2Y.html) | -61.8 kJ/mol-atom ± 2.8 | 298.15 | experimental | -64.044 (mp-aaaaacvq) | -63.776 (oqmd-30368) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 2 |  |
+| Ga3Y5 | [Ga3Y5](https://data.orchid-project.org/compounds/Ga3Y5.html) | -64 kJ/mol-atom | 298.15 | model | -50.575 (mp-aaabmgma) | -50.713 (oqmd-18353) | [1] Idbenali 2013 | Table 5, p. 7, row 21 |  |
+| Ga3Y5 | [Ga3Y5](https://data.orchid-project.org/compounds/Ga3Y5.html) | -63.99 kJ/mol-atom | 298.15 | model | -50.575 (mp-aaabmgma) | -50.713 (oqmd-18353) | [1] Idbenali 2013 | Table 5, p. 7, row 20 |  |
+| Ga3Y5 | [Ga3Y5](https://data.orchid-project.org/compounds/Ga3Y5.html) | -61 kJ/mol-atom | 298.15 | model | -50.575 (mp-aaabmgma) | -50.713 (oqmd-18353) | [1] Idbenali 2013; _cites de Boer FR 1988_ | Table 5, p. 7, row 22 |  |
+| Ga3Y5 | [Ga3Y5](https://data.orchid-project.org/compounds/Ga3Y5.html) | -59.6 kJ/mol-atom ± 3.6 | 298.15 | experimental | -50.575 (mp-aaabmgma) | -50.713 (oqmd-18353) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 23 |  |
+| Ga3Y5 | [Ga3Y5](https://data.orchid-project.org/compounds/Ga3Y5.html) | -57 kJ/mol-atom | 298.15 | experimental | -50.575 (mp-aaabmgma) | -50.713 (oqmd-18353) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 19 |  |
+| Ga6Y | [Ga6Y](https://data.orchid-project.org/compounds/Ga6Y.html) | -35 kJ/mol-atom | 298.15 | model | -29.959 (mp-aaaabtkb) | -30.859 (oqmd-17313) | [1] Idbenali 2013 | Table 5, p. 7, row 1 |  |
+| GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -75.2 kJ/mol-atom | 298.15 | model | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013 | Table 5, p. 7, row 14 |  |
+| GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -75.19 kJ/mol-atom | 298.15 | model | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013 | Table 5, p. 7, row 15 |  |
+| GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -73 kJ/mol-atom | 298.15 | model | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013; _cites de Boer FR 1988_ | Table 5, p. 7, row 16 |  |
+| GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -71.4 kJ/mol-atom ± 1.7 | 298.15 | experimental | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 17 |  |
+| GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -71 kJ/mol-atom | 298.15 | experimental | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 18 |  |
+| GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -68.9 kJ/mol-atom ± 2.8 | 298.15 | experimental | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 13 |  |
+| UNKNOWN |  | -61.8 kJ/mol-atom ± 2.8 | 298.15 | experimental |  |  | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 2 |  |
+
+## Other properties
+
+### Phase transition (10)
+
+Table: Phase transition, Ga–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1568 K | 1568 |  | experimental | [1] Idbenali 2013 | p. 2 | “while Ga3Y5 melts incongruently at 1,568 K.” |
+| Phase transition | 1582 K | 1582 | congruent | model | [1] Idbenali 2013 | p. 6 | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
+| Phase transition | 1588 K | 1588 | congruent | model | [1] Idbenali 2013 | p. 6 | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
+| Phase transition | 1615 K | 1615 | Liq -> Ga2Y; _Ga2Y: Y 0.3367_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 6 |  |
+| Phase transition | 1623 K | 1623 | Liq -> Ga2Y; _Ga2Y: Y 0.3333_ | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 4 |  |
+| Phase transition | 1624 K | 1624 | Liq -> Ga2Y; _Ga2Y: Y 0.332_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 5 |  |
+| Phase transition | 1658 K | 1658 | Liq -> GaY; _GaY: Y 0.5_ | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 10 |  |
+| Phase transition | 1658 K | 1658 | congruent | experimental | [1] Idbenali 2013 | p. 1 | “The Ga2Y and GaY compounds melt congruently at 1,623 and 1,658 K, respectively,” |
+| Phase transition | 1666 K | 1666 | Liq -> GaY; _GaY: Y 0.5_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 12 |  |
+| Phase transition | 1672 K | 1672 | Liq -> GaY; _GaY: Y 0.5_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 11 |  |
+
+### Mixing / partial (3)
+
+Table: Mixing / partial, Ga–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Partial enthalpy; _printed: partial enthalpy of liquid Y in liquid Ga_ | -180.25 unspecified | 14 |  | model | [1] Idbenali 2013; _cites de Boer FR 1988_ | p. 8 | “liquid Y in liquid Ga (R-K equation) at 1,750 K (-181 kJ mol-1 at.-1) is in good agreement with the data (-181.63 ± 7.93 kJ mol-1 at.-1) by \[6\] or (-184.4 ± 5.3 kJ mol-1 at.-1) by \[24\] at 1,099 K or the predicted value (-180.25 kJ mol-1 at.-1) by \[27\] at 14 K (Table 5).” |
+| Partial enthalpy; _printed: partial enthalpy of liquid Y in liquid Ga_ | -184.4 unspecified ± 5.3 | 1099 |  | experimental | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | p. 8 | “liquid Y in liquid Ga (R-K equation) at 1,750 K (-181 kJ mol-1 at.-1) is in good agreement with the data (-181.63 ± 7.93 kJ mol-1 at.-1) by \[6\] or (-184.4 ± 5.3 kJ mol-1 at.-1) by \[24\] at 1,099 K or the predicted value (-180.25 kJ mol-1 at.-1) by \[27\] at 14 K (Table 5).” |
+| Partial enthalpy; _printed: partial enthalpy of liquid Y in liquid Ga_ | -181 kJ mol-1 at.-1 | 1750 |  | model | [1] Idbenali 2013 | p. 8 | “liquid Y in liquid Ga (R-K equation) at 1,750 K (-181 kJ mol-1 at.-1) is in good agreement with the data (-181.63 ± 7.93 kJ mol-1 at.-1) by \[6\] or (-184.4 ± 5.3 kJ mol-1 at.-1) by \[24\] at 1,099 K or the predicted value (-180.25 kJ mol-1 at.-1) by \[27\] at 14 K (Table 5).” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. M. Idbenali, C. Servant, Thermodynamic evaluation of the Ga–Y system, J Therm Anal Calorim 112, 245-253 (2013). [doi:10.1007/s10973-012-2861-x](https://doi.org/10.1007/s10973-012-2861-x)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

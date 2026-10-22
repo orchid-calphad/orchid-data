@@ -1,0 +1,271 @@
+# Si–Ta–V system
+
+> Si–Ta–V system: 218 accepted literature values (formation 136, crystal structure 82) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/SI-TA-V.html · Markdown: https://data.orchid-project.org/systems/SI-TA-V.md
+
+218 accepted literature values from 1 paper(s) (experimental 74, model 72, DFT 24, unspecified 48); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA-V.json) · [CSV](https://data.orchid-project.org/systems/SI-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA-V) · [Markdown](https://data.orchid-project.org/systems/SI-TA-V.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 74 |
+| model | 72 |
+| DFT | 24 |
+| unspecified | 48 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| formation | 136 |
+| crystal structure | 82 |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Si–Ta–V system (136)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Si3Si |  | 52 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 18 |  |
+| Si3Si |  | 56.7 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 17 |  |
+| Si3V | [Si3V](https://data.orchid-project.org/compounds/Si3V.html) | 6.3 kJ/mol-atom | 0 | unspecified |  | 1.542 (oqmd-2031400) | [1] Broz 2013 | Table 2, p. 6, row 19 |  |
+| Si3V | [Si3V](https://data.orchid-project.org/compounds/Si3V.html) | 54.3 kJ/mol-atom | 0 | model |  | 1.542 (oqmd-2031400) | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 20 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -56 kJ/mol-atom |  | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 67 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -54.3 kJ/mol-atom | 0 | unspecified | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [1] Broz 2013 | Table 2, p. 6, row 64 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -52.8 kJ/mol-atom | 0 | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 68 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -52.1 kJ/mol-atom |  | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 65 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -51 kJ/mol-atom |  | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 66 |  |
+| Ta3Si | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -43.3 kJ/mol-atom |  | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 61 |  |
+| Ta3Si | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -43 kJ/mol-atom | 0 | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 63 |  |
+| Ta3Si | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -43 kJ/mol-atom | 0 | unspecified | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [1] Broz 2013 | Table 2, p. 6, row 60 |  |
+| Ta3Si | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -39 kJ/mol-atom |  | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 62 |  |
+| Ta5Si3 | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -48.1 kJ/mol-atom | 0 | unspecified | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013 | Table 2, p. 6, row 59 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -59.8 kJ/mol-atom | 0 | unspecified | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013 | Table 2, p. 6, row 49 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -56.2 kJ/mol-atom |  | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 54 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -52.3 kJ/mol-atom | 0 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 55 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -41.8 kJ/mol-atom ± 7.8 | 298 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 50 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -39.7 kJ/mol-atom | 298 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 53 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -38.1 kJ/mol-atom ± 1.7 | 298 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 51 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -37.7 kJ/mol-atom ± 4.7 | 298 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 52 |  |
+| Ta5Si3 (β) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -55.4 kJ/mol-atom | 0 | unspecified | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013 | Table 2, p. 6, row 56 |  |
+| Ta5Si3 (β) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -52.4 kJ/mol-atom |  | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 57 |  |
+| Ta5Si3 (β) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -51.6 kJ/mol-atom | 0 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 58 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -46.7 kJ/mol-atom | 0 | unspecified | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [1] Broz 2013 | Table 2, p. 6, row 43 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -46 kJ/mol-atom ± 2.5 | 298 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 45 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -41.1 kJ/mol-atom | 0 | model | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 48 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -38.8 kJ/mol-atom | 298 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 47 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -32.4 kJ/mol-atom ± 14 | 298 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 44 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -22.6 kJ/mol-atom ± 7.8 | 298 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 46 |  |
+| TaV2 | [TaV2](https://data.orchid-project.org/compounds/TaV2.html) | -11.7 kJ/mol-atom |  | model | -10.061 (mp-aaabghei) | -12.128 (oqmd-1365869) | [1] Broz 2013; _cites Charifi 2009_ | Table 2, p. 6, row 2 |  |
+| TaV2 | [TaV2](https://data.orchid-project.org/compounds/TaV2.html) | -11.4 kJ/mol-atom | 0 | unspecified | -10.061 (mp-aaabghei) | -12.128 (oqmd-1365869) | [1] Broz 2013 | Table 2, p. 6, row 1 |  |
+| TaV2 | [TaV2](https://data.orchid-project.org/compounds/TaV2.html) | -11.4 kJ/mol-atom | 0 | model | -10.061 (mp-aaabghei) | -12.128 (oqmd-1365869) | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 3 |  |
+| TaV2 | [TaV2](https://data.orchid-project.org/compounds/TaV2.html) | -10.2 kJ/mol-atom | 0 | model | -10.061 (mp-aaabghei) | -12.128 (oqmd-1365869) | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 5 |  |
+| TaV2 | [TaV2](https://data.orchid-project.org/compounds/TaV2.html) | -10.2 kJ/mol-atom | 0 | unspecified | -10.061 (mp-aaabghei) | -12.128 (oqmd-1365869) | [1] Broz 2013 | Table 2, p. 6, row 4 |  |
+| UNKNOWN |  | -59.8 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 49 |  |
+| UNKNOWN |  | -59 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 31 |  |
+| UNKNOWN |  | -58.1 kJ/mol-atom ± 3 | 298 | experimental |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 28 |  |
+| UNKNOWN |  | -57.6 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 27 |  |
+| UNKNOWN |  | -56.2 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 54 |  |
+| UNKNOWN |  | -56 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 67 |  |
+| UNKNOWN |  | -55.4 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 34 |  |
+| UNKNOWN |  | -55.4 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 56 |  |
+| UNKNOWN |  | -54.3 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 64 |  |
+| UNKNOWN |  | -54.2 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 29 |  |
+| UNKNOWN |  | -54.1 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 42 |  |
+| UNKNOWN |  | -53.7 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 33 |  |
+| UNKNOWN |  | -52.8 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 68 |  |
+| UNKNOWN |  | -52.8 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 22 |  |
+| UNKNOWN |  | -52.7 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 23 |  |
+| UNKNOWN |  | -52.4 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 57 |  |
+| UNKNOWN |  | -52.3 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 55 |  |
+| UNKNOWN |  | -52.1 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 65 |  |
+| UNKNOWN |  | -51.6 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 58 |  |
+| UNKNOWN |  | -51.2 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 26 |  |
+| UNKNOWN |  | -51 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 66 |  |
+| UNKNOWN |  | -50.7 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 24 |  |
+| UNKNOWN |  | -50.5 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 30 |  |
+| UNKNOWN |  | -48.1 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 59 |  |
+| UNKNOWN |  | -48.1 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 25 |  |
+| UNKNOWN |  | -47 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 35 |  |
+| UNKNOWN |  | -46.7 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 43 |  |
+| UNKNOWN |  | -46.4 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
+| UNKNOWN |  | -46 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 32 |  |
+| UNKNOWN |  | -46 kJ/mol-atom ± 2.5 | 298 | experimental |  |  | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 45 |  |
+| UNKNOWN |  | -45.9 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 41 |  |
+| UNKNOWN |  | -45.2 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 15 |  |
+| UNKNOWN |  | -45.1 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |
+| UNKNOWN |  | -44.5 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 8 |  |
+| UNKNOWN |  | -44.4 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites P 1999_ | Table 2, p. 6, row 39 |  |
+| UNKNOWN |  | -44.3 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 16 |  |
+| UNKNOWN |  | -44.1 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 21 |  |
+| UNKNOWN |  | -43.3 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 61 |  |
+| UNKNOWN |  | -43 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 63 |  |
+| UNKNOWN |  | -43 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 60 |  |
+| UNKNOWN |  | -41.8 kJ/mol-atom ± 7.8 | 298 | experimental |  |  | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 50 |  |
+| UNKNOWN |  | -41.8 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites P 2000_ | Table 2, p. 6, row 13 |  |
+| UNKNOWN |  | -41.7 kJ/mol-atom ± 3 | 298 | experimental |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 36 |  |
+| UNKNOWN |  | -41.5 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 37 |  |
+| UNKNOWN |  | -41.1 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 48 |  |
+| UNKNOWN |  | -39.7 kJ/mol-atom | 298 | experimental |  |  | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 53 |  |
+| UNKNOWN |  | -39.7 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 38 |  |
+| UNKNOWN |  | -39 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 62 |  |
+| UNKNOWN |  | -38.8 kJ/mol-atom | 298 | experimental |  |  | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 47 |  |
+| UNKNOWN |  | -38.8 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 11 |  |
+| UNKNOWN |  | -38.1 kJ/mol-atom ± 1.7 | 298 | experimental |  |  | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 51 |  |
+| UNKNOWN |  | -37.7 kJ/mol-atom ± 4.7 | 298 | experimental |  |  | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 52 |  |
+| UNKNOWN |  | -35.3 kJ/mol-atom ± 3 | 298 | experimental |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 9 |  |
+| UNKNOWN |  | -33.9 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 14 |  |
+| UNKNOWN |  | -32.4 kJ/mol-atom ± 14 | 298 | experimental |  |  | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 44 |  |
+| UNKNOWN |  | -29 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 40 |  |
+| UNKNOWN |  | -22.6 kJ/mol-atom ± 7.8 | 298 | experimental |  |  | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 46 |  |
+| UNKNOWN |  | -11.7 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Charifi 2009_ | Table 2, p. 6, row 2 |  |
+| UNKNOWN |  | -11.4 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 1 |  |
+| UNKNOWN |  | -11.4 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 3 |  |
+| UNKNOWN |  | -10.2 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 5 |  |
+| UNKNOWN |  | -10.2 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 4 |  |
+| UNKNOWN |  | 5 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 7 |  |
+| UNKNOWN |  | 5.3 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 6 |  |
+| UNKNOWN |  | 6.3 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 19 |  |
+| UNKNOWN |  | 52 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 18 |  |
+| UNKNOWN |  | 54.3 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 20 |  |
+| UNKNOWN |  | 56.7 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 17 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -46.4 kJ/mol-atom ± 1 | 298 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -45.2 kJ/mol-atom |  | model | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 15 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -45.1 kJ/mol-atom ± 2 | 298 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -44.5 kJ/mol-atom | 0 | unspecified | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013 | Table 2, p. 6, row 8 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -44.3 kJ/mol-atom | 0 | model | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 16 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -41.8 kJ/mol-atom ± 1 | 298 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites P 2000_ | Table 2, p. 6, row 13 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -38.8 kJ/mol-atom ± 1 | 298 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 11 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -35.3 kJ/mol-atom ± 3 | 298 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 9 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -33.9 kJ/mol-atom |  | model | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 14 |  |
+| V3V |  | 5 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 7 |  |
+| V3V |  | 5.3 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 6 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -59 kJ/mol-atom ± 2 | 298 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 31 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -58.1 kJ/mol-atom ± 3 | 298 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 28 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -57.6 kJ/mol-atom | 0 | unspecified | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Broz 2013 | Table 2, p. 6, row 27 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -55.4 kJ/mol-atom | 0 | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 34 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -54.2 kJ/mol-atom ± 2 | 298 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 29 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -53.7 kJ/mol-atom |  | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 33 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -50.5 kJ/mol-atom ± 1 | 298 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 30 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -46 kJ/mol-atom |  | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 32 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -52.8 kJ/mol-atom | 0 | model | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 22 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -52.7 kJ/mol-atom | 0 | unspecified | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [1] Broz 2013 | Table 2, p. 6, row 23 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -51.2 kJ/mol-atom |  | model | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 26 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -50.7 kJ/mol-atom ± 2 | 298 | experimental | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 24 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -48.1 kJ/mol-atom |  | model | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 25 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -44.1 kJ/mol-atom | 0 | unspecified | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [1] Broz 2013 | Table 2, p. 6, row 21 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -54.1 kJ/mol-atom | 0 | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 42 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -47 kJ/mol-atom | 0 | unspecified | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Broz 2013 | Table 2, p. 6, row 35 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -45.9 kJ/mol-atom |  | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 41 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -44.4 kJ/mol-atom ± 1 | 298 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Broz 2013; _cites P 1999_ | Table 2, p. 6, row 39 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -41.7 kJ/mol-atom ± 3 | 298 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 36 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -41.5 kJ/mol-atom ± 2 | 298 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 37 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -39.7 kJ/mol-atom ± 1 | 298 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 38 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -29 kJ/mol-atom |  | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 40 |  |
+
+## Other properties
+
+### Crystal structure (82)
+
+Table: Crystal structure, Si–Ta–V system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.619 nm | 0 | Ta2Si; _alloy: Ta 0.666667, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 10 |  |
+| Lattice a | 1.0195 nm | 0 | Ta3Si; _alloy: Ta 0.75, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 7 |  |
+| Lattice a | 0.6552 nm | 0 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 14 |  |
+| Lattice a | 0.9892 nm |  | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 17 |  |
+| Lattice a | 0.9913 nm | 0 | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 18 |  |
+| Lattice a | 0.4792 nm | 0 | TaSi2; _alloy: Ta 0.333333, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 33 |  |
+| Lattice a | 0.7167 nm | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 30 |  |
+| Lattice a | 0.5092 nm | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 26 |  |
+| Lattice a | 0.4711 nm | 0 | V3Si; _alloy: Ta 0, V 0.75_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 39 |  |
+| Lattice a | 0.9395 nm | 0 | V5Si3; _alloy: Ta 0, V 0.625_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 21 |  |
+| Lattice a | 0.4882 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice a | 0.7483 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice a | 0.4563 nm | 0 | VSi2; _alloy: Ta 0, V 0.333333_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 36 |  |
+| Lattice a | 0.6172 nm | 298.15 | Ta2Si; _alloy: Ta 0.666667, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 9 |  |
+| Lattice a | 1.0184 nm | 298.15 | Ta3Si; _alloy: Ta 0.75, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 6 |  |
+| Lattice a | 0.6519 nm | 298.15 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 13 |  |
+| Lattice a | 0.4784 nm | 298.15 | TaSi2; _alloy: Ta 0.333333, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 32 |  |
+| Lattice a | 0.5058 not_printed ± 5.000e-4 | 298.15 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | model | [1] Broz 2013; _cites Nefedov 2013_ | Table 1, p. 3, row 25 |  |
+| Lattice a | 0.7625 not_printed ± 5.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Steinmetz 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990006-6) | Table 1, p. 3, row 46 |  |
+| Lattice a | 0.4725 nm | 298.15 | UNKNOWN; _alloy: Ta 0, V 0.75_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 37 |  |
+| Lattice a | 0.4763 nm | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Alekseyevskiy 1977_ | Table 1, p. 3, row 41 |  |
+| Lattice a | 0.6443 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 15 |  |
+| Lattice a | 0.54306 nm | 298.15 | UNKNOWN; _alloy: Ta 0, V 0_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 5 |  |
+| Lattice a | 0.7643 not_printed ± 7.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 47 |  |
+| Lattice a | 1.00903 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 8 |  |
+| Lattice a | 0.7258 not_printed ± 6.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 23 |  |
+| Lattice a | 0.3024 nm | 298.15 | UNKNOWN; _alloy: Ta 0, V 1_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 2 |  |
+| Lattice a | 0.3303 nm | 298.15 | UNKNOWN; _alloy: Ta 1, V 0_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 1 |  |
+| Lattice a | 0.4755 not_printed ± 4.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 40 |  |
+| Lattice a | 0.94674 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 22 |  |
+| Lattice a | 0.61623 not_printed ± 8.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 12 |  |
+| Lattice a | 0.7157 nm | 298.15 | UNKNOWN; _alloy: Ta 0.333333, V 0.666667_ | unspecified | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 29 |  |
+| Lattice a | 0.61454 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 11 |  |
+| Lattice a | 0.65154 not_printed ± 5.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 16 |  |
+| Lattice a | 0.4727 nm | 298.15 | V3Si; _alloy: Ta 0, V 0.75_ | model | [1] Broz 2013; _cites Kanematsu 1986_ [doi](https://doi.org/10.2320/matertrans1960.27.225) | Table 1, p. 3, row 38 |  |
+| Lattice a | 0.9383 nm | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19 |  |
+| Lattice a | 0.94264 not_printed ± 4.000e-5 | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 20 |  |
+| Lattice a | 0.4858 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice a | 0.7501 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice a | 0.4573 nm | 298.15 | VSi2; _alloy: Ta 0, V 0.333333_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
+| Lattice a | 0.505 nm | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28 |  |
+| Lattice a | 0.5 not_printed ± 0.003 | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27 |  |
+| Lattice a | 0.3303 nm | 300 | (Ta); _alloy: Ta 1, V 0_ | experimental | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 48 |  |
+| Lattice a | 0.7151 not_printed ± 1.000e-5 | 1773.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 31 |  |
+| Lattice b | 1.6012 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice b | 1.5897 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice b | 1.609 not_printed ± 0.001 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Steinmetz 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990006-6) | Table 1, p. 3, row 46 |  |
+| Lattice b | 1.6078 not_printed ± 5.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 47 |  |
+| Lattice b | 1.5966 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice b | 1.5966 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice c | 0.5071 nm | 0 | Ta2Si; _alloy: Ta 0.666667, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 10 |  |
+| Lattice c | 0.5206 nm | 0 | Ta3Si; _alloy: Ta 0.75, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 7 |  |
+| Lattice c | 1.1911 nm | 0 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 14 |  |
+| Lattice c | 0.5042 nm |  | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 17 |  |
+| Lattice c | 0.5078 nm | 0 | Ta5Si3 (β); _alloy: Ta 0.625, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 18 |  |
+| Lattice c | 0.6572 nm | 0 | TaSi2; _alloy: Ta 0.333333, V 0_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 33 |  |
+| Lattice c | 0.8069 nm | 0 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 26 |  |
+| Lattice c | 0.4731 nm | 0 | V5Si3; _alloy: Ta 0, V 0.625_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 21 |  |
+| Lattice c | 0.7582 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice c | 0.4827 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice c | 0.6364 nm | 0 | VSi2; _alloy: Ta 0, V 0.333333_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 36 |  |
+| Lattice c | 0.505 nm | 298.15 | Ta2Si; _alloy: Ta 0.666667, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 9 |  |
+| Lattice c | 0.5183 nm | 298.15 | Ta3Si; _alloy: Ta 0.75, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 6 |  |
+| Lattice c | 1.187 nm | 298.15 | Ta5Si3 (α); _alloy: Ta 0.625, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 13 |  |
+| Lattice c | 0.6568 nm | 298.15 | TaSi2; _alloy: Ta 0.333333, V 0_ | unspecified | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 32 |  |
+| Lattice c | 0.825 not_printed ± 5.000e-4 | 298.15 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | model | [1] Broz 2013; _cites Nefedov 2013_ | Table 1, p. 3, row 25 |  |
+| Lattice c | 0.4936 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Steinmetz 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990006-6) | Table 1, p. 3, row 46 |  |
+| Lattice c | 1.19154 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 15 |  |
+| Lattice c | 0.4939 not_printed ± 5.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 47 |  |
+| Lattice c | 0.51276 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 8 |  |
+| Lattice c | 0.4926 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 23 |  |
+| Lattice c | 0.47752 not_printed ± 6.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 22 |  |
+| Lattice c | 0.50574 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 12 |  |
+| Lattice c | 0.50431 not_printed ± 7.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 11 |  |
+| Lattice c | 1.18753 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 16 |  |
+| Lattice c | 0.476 nm | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19 |  |
+| Lattice c | 0.47585 not_printed ± 3.000e-5 | 298.15 | V5Si3; _alloy: Ta 0, V 0.625_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 20 |  |
+| Lattice c | 0.7501 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice c | 0.4858 nm | 298.15 | V6Si5; _alloy: Ta 0, V 0.545455_ | model | [1] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice c | 0.6374 nm | 298.15 | VSi2; _alloy: Ta 0, V 0.333333_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
+| Lattice c | 0.823 nm | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28 |  |
+| Lattice c | 0.826 not_printed | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. P. Broz, A.U. Khan, H. Niu, X.-Q. Chen, D. Li, J. Vrestal et al., The system Ta–V–Si: Thermodynamic modeling, Journal of Solid State Chemistry 199, 171-180 (2013). [doi:10.1016/j.jssc.2012.12.003](https://doi.org/10.1016/j.jssc.2012.12.003)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

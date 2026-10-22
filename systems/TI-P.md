@@ -1,0 +1,48 @@
+# Ti–P system
+
+> Ti–P system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/TI-P.html · Markdown: https://data.orchid-project.org/systems/TI-P.md
+
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-P/TiP-06Oht.json) · [Markdown](https://data.orchid-project.org/systems/TI-P.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| TiP-06Oht.tdb | H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, M. Abe, Calphad, 30, 147-58(2006). [doi:10.1016/j.calphad.2005.09.006](https://doi.org/10.1016/j.calphad.2005.09.006) | `e79ac2694bb46a76e4d2ca2bdfb0ab79d7f8210093e69927b8c2890fe9e3c84c` | [viewer](https://orchid-project.org/phase-diagrams/#TI-P/TiP-06Oht.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TiP-06Oht.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TiP-06Oht.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| TiP-06Oht.tdb | 2333.53 | TI5P3_D88 (x(P) 0.3893) + TI4P3_D73 (x(P) 0.42857) + LIQUID (x(P) 0.4516) |
+| TiP-06Oht.tdb | 2333.53 | TI5P3_D88 (x(P) 0.3893) + TI4P3_D73 (x(P) 0.42857) + LIQUID (x(P) 0.45175) |
+| TiP-06Oht.tdb | 2268.81 | TI4P3_D73 (x(P) 0.42857) + TIP_BI (x(P) 0.48437) + LIQUID (x(P) 0.533) |
+| TiP-06Oht.tdb | 2268.81 | TI4P3_D73 (x(P) 0.42857) + TIP_BI (x(P) 0.48441) + LIQUID (x(P) 0.53317) |
+| TiP-06Oht.tdb | 2192.61 | LIQUID (x(P) 0.22321) + M2P_C22 (x(P) 0.33333) + TI5P3_D88 (x(P) 0.36129) |
+| TiP-06Oht.tdb | 2105.93 | M2P_C22 (x(P) 0.33333) + TI5P3_ALPHA (x(P) 0.37) + TI5P3_D88 (x(P) 0.37123) |
+| TiP-06Oht.tdb | 2105.93 | M2P_C22 (x(P) 0.33333) + TI5P3_ALPHA (x(P) 0.37) + TI5P3_D88 (x(P) 0.37125) |
+| TiP-06Oht.tdb | 2036.93 | LIQUID (x(P) 0.1495) + TI3P (x(P) 0.25) + M2P_C22 (x(P) 0.33333) |
+| TiP-06Oht.tdb | 2036.93 | LIQUID (x(P) 0.14958) + TI3P (x(P) 0.25) + M2P_C22 (x(P) 0.33333) |
+| TiP-06Oht.tdb | 1856.49 | TIP_BI (x(P) 0.49999) + TIP2_C37 (x(P) 0.66667) + LIQUID (x(P) 0.79356) |
+| TiP-06Oht.tdb | 1856.49 | TIP_BI (x(P) 0.49999) + TIP2_C37 (x(P) 0.66667) + LIQUID (x(P) 0.79355) |
+| TiP-06Oht.tdb | 1856.49 | TIP_BI (x(P) 0.49999) + TIP2_C37 (x(P) 0.66667) + LIQUID (x(P) 0.79359) |
+| TiP-06Oht.tdb | 1776.19 | BCC_A2 (x(P) 0.00321) + LIQUID (x(P) 0.05167) + TI3P (x(P) 0.25) |
+| TiP-06Oht.tdb | 1776.19 | BCC_A2 (x(P) 0.00321) + LIQUID (x(P) 0.05167) + TI3P (x(P) 0.25) |
+| TiP-06Oht.tdb | 1154.99 | HCP_A3 (x(P) 0) + BCC_A2 (x(P) 0) + TI3P (x(P) 0.25) |
+| TiP-06Oht.tdb | 852.3 | TIP2_C37 (x(P) 0.66667) + LIQUID (x(P) 0.9998) + RED_P (x(P) 1) |
+| TiP-06Oht.tdb | 852.3 | TIP2_C37 (x(P) 0.66667) + LIQUID (x(P) 0.9998) + RED_P (x(P) 1) |
+| TiP-06Oht.tdb | 600.91 | TI5P3_D88 (x(P) 0.39) + TI4P3_D73 (x(P) 0.42857) + TIP_BI (x(P) 0.49045) |
+| TiP-06Oht.tdb | 600.91 | TI5P3_D88 (x(P) 0.39) + TI4P3_D73 (x(P) 0.42857) + TIP_BI (x(P) 0.49045) |
+| TiP-06Oht.tdb | 600.91 | TI5P3_D88 (x(P) 0.39) + TI4P3_D73 (x(P) 0.42857) + TIP_BI (x(P) 0.49045) |
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

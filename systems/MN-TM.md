@@ -1,0 +1,71 @@
+# Mn–Tm system
+
+> Mn–Tm system: 1 accepted literature values (formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MN-TM.html · Markdown: https://data.orchid-project.org/systems/MN-TM.md
+
+1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TM.json) · [CSV](https://data.orchid-project.org/systems/MN-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TM/MnTm-24Ye.json) · [Markdown](https://data.orchid-project.org/systems/MN-TM.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 1 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| formation | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MnTm-24Ye.tdb | H. Ye, J. Wang, Q. Chen, G. Rao, H. Zhou, Mater. Genome Eng. Adv., 2, 39(2024). [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39) | `122819c8c5a4141a259228fe360cefb68406b9dc397aee9c67432223eaa38259` | [viewer](https://orchid-project.org/phase-diagrams/#MN-TM/MnTm-24Ye.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnTm-24Ye.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnTm-24Ye.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MnTm-24Ye.tdb | 1411.01 | BCC_A2 (x(Tm) 0) + FCC_A1 (x(Tm) 0) + LIQUID (x(Tm) 0.06107) |
+| MnTm-24Ye.tdb | 1411.01 | FCC_A1 (x(Tm) 0) + BCC_A2 (x(Tm) 0) + LIQUID (x(Tm) 0.06088) |
+| MnTm-24Ye.tdb | 1405.67 | MN23TM6_D8A (x(Tm) 0.2069) + LIQUID (x(Tm) 0.25999) + MN2TM_C14 (x(Tm) 0.33333) |
+| MnTm-24Ye.tdb | 1405.67 | MN23TM6_D8A (x(Tm) 0.2069) + LIQUID (x(Tm) 0.2597) + MN2TM_C14 (x(Tm) 0.33333) |
+| MnTm-24Ye.tdb | 1405.67 | MN23TM6_D8A (x(Tm) 0.2069) + LIQUID (x(Tm) 0.26024) + MN2TM_C14 (x(Tm) 0.33333) |
+| MnTm-24Ye.tdb | 1359.99 | CUB_A13 (x(Tm) 0) + FCC_A1 (x(Tm) 0) + LIQUID (x(Tm) 0.08841) |
+| MnTm-24Ye.tdb | 1356.6 | CUB_A13 (x(Tm) 0) + MN12TM_D2B (x(Tm) 0.07692) + LIQUID (x(Tm) 0.09009) |
+| MnTm-24Ye.tdb | 1356.59 | CUB_A13 (x(Tm) 0) + MN12TM_D2B (x(Tm) 0.07692) + LIQUID (x(Tm) 0.09049) |
+| MnTm-24Ye.tdb | 1349.39 | MN12TM_D2B (x(Tm) 0.07692) + LIQUID (x(Tm) 0.10934) + MN23TM6_D8A (x(Tm) 0.2069) |
+| MnTm-24Ye.tdb | 1349.39 | MN12TM_D2B (x(Tm) 0.07692) + LIQUID (x(Tm) 0.10969) + MN23TM6_D8A (x(Tm) 0.2069) |
+| MnTm-24Ye.tdb | 1223.49 | MN2TM_C14 (x(Tm) 0.33333) + LIQUID (x(Tm) 0.57651) + HCP_A3 (x(Tm) 0.99991) |
+| MnTm-24Ye.tdb | 1223.49 | MN2TM_C14 (x(Tm) 0.33333) + LIQUID (x(Tm) 0.57652) + HCP_A3 (x(Tm) 0.99991) |
+| MnTm-24Ye.tdb | 980 | CUB_A13 (x(Tm) 0) + CBCC_A12 (x(Tm) 0) + MN12TM_D2B (x(Tm) 0.07692) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-TM.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-TM.json)
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mn–Tm system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| — |  | -1.384 kJ/mol-atom | 298 | model |  |  | [1] Ye 2024 | p. 20 | “Figure 23 depicts the calculated enthalpy of formation of the Mn-Tm intermetallic compounds at 298 K in comparison with Kim et al.'s assessment\[19\] and the DFT results.\[93,94\] The calculated enthalpies of formation of Mn12Tm, Mn23Tm6, and Mn2Tm are -1.384, -3.310, and -3.10 kJ/ mol-atom, respectively, which are less negative than those from Kim et al.,\[19\] but closer to the average values of the…” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Hongjian Ye, Jiang Wang, Qing Chen, Guanghui Rao, Huaiying Zhou, Development of thermodynamic database of the Mn‐RE (RE = rare earth metals) binary systems, Materials Genome Engineering Advances 2 (2024). [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

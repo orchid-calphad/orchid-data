@@ -1,0 +1,193 @@
+# Mg–Zn system
+
+> Mg–Zn system: 48 accepted literature values (invariant reaction 45, phase transition 3) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MG-ZN.html · Markdown: https://data.orchid-project.org/systems/MG-ZN.md
+
+48 accepted literature values from 4 paper(s) (experimental 8, model 32, unspecified 8); 6 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-ZN/MgZn-10Niu.json) · [Markdown](https://data.orchid-project.org/systems/MG-ZN.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 8 |
+| model | 32 |
+| unspecified | 8 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 45 |
+| phase transition | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MgZn-10Niu.tdb | C. Niu, M. Liu, C. Li, Z. Du, C. Guo, Calphad, 34, 428-33(2010). [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010) | `ddf26e3ed256541c4cd1d0493e9758c2e83d6c747815ffab507f84332338e70a` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ZN/MgZn-10Niu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgZn-10Niu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgZn-10Niu.json) |
+| MgZn-14Yua.tdb | Y. Yuan, F. Pan, D. Li, A. Watson, Calphad, 44, 54-61(2014). [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) | `5c6bc30db874d0b1472dd7db3b0d7fa6ed3c53e17933b9f568a07795f890b1c5` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ZN/MgZn-14Yua.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgZn-14Yua.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgZn-14Yua.json) |
+| MgZn-20Hay.tdb | N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020). [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) | `01db9e45b19b39b07e47275be7a1fe621bbc764ff8012d89c2c7ba6e7b07a775` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ZN/MgZn-20Hay.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgZn-20Hay.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgZn-20Hay.json) |
+| MgZn-22Li.tdb | X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022). [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) | `a63cd9424cb2e765166e1e661d88313d20e02569cc3d1a2703aa8dd064e4c7a4` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ZN/MgZn-22Li.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgZn-22Li.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgZn-22Li.json) |
+| MgZn-92Aga.tdb | R. Agarwal, S.G. Fries, H.L. Lukas, G. Petzow, F. Sommer, T.G. Chart, G. Effenberg, Z. Metallkd., 83, 216-23(1992). [doi:10.1515/ijmr-1992-830402](https://doi.org/10.1515/ijmr-1992-830402) | `ebd8b9262088fe02aa6333b11e33cc101d53980b3ec439b0c3620525db970549` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ZN/MgZn-92Aga.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgZn-92Aga.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgZn-92Aga.json) |
+| MgZn-98Lia-LB.tdb | P. Liang, T. Tarfa, J.A. Robinson, S. Wagner, P. Ochin, M.G. Harmelin, H.J. Seifert, H.L. Lukas, F. Aldinger, Thermochim. Acta, 314, 87-110(1998). [doi:10.1016/S0040-6031(97)00458-9](https://doi.org/10.1016/S0040-6031%2897%2900458-9) | `abe87ea1530de4863f3b52fcc83738c53f97fd9115c5300a014b94384e127a1a` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ZN/MgZn-98Lia-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgZn-98Lia-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgZn-98Lia-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MgZn-10Niu.tdb | 688.95 | LIQUID (x(Zn) 0.35639) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.66141) |
+| MgZn-10Niu.tdb | 688.95 | LIQUID (x(Zn) 0.35621) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.66141) |
+| MgZn-10Niu.tdb | 654.39 | C14_LAVES (x(Zn) 0.67082) + MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.91339) |
+| MgZn-10Niu.tdb | 640.38 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.92957) + HCP_A3 (x(Zn) 0.99691) |
+| MgZn-10Niu.tdb | 640.38 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.92967) + HCP_A3 (x(Zn) 0.99692) |
+| MgZn-10Niu.tdb | 620.15 | LIQUID (x(Zn) 0.29602) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-10Niu.tdb | 620.15 | LIQUID (x(Zn) 0.29605) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-10Niu.tdb | 620.15 | LIQUID (x(Zn) 0.29588) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-10Niu.tdb | 614.15 | HCP_A3 (x(Zn) 0.03445) + MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.29003) |
+| MgZn-10Niu.tdb | 614.14 | MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.29038) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-10Niu.tdb | 598.53 | HCP_A3 (x(Zn) 0.03039) + MG51ZN20 (x(Zn) 0.28169) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-14Yua.tdb | 691.44 | LIQUID (x(Zn) 0.3613) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.6613) |
+| MgZn-14Yua.tdb | 691.43 | LIQUID (x(Zn) 0.36156) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.6613) |
+| MgZn-14Yua.tdb | 653.22 | C14_LAVES (x(Zn) 0.67078) + MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.9122) |
+| MgZn-14Yua.tdb | 639.53 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.92901) + HCP_A3 (x(Zn) 0.99799) |
+| MgZn-14Yua.tdb | 639.53 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.92908) + HCP_A3 (x(Zn) 0.99799) |
+| MgZn-14Yua.tdb | 618.64 | LIQUID (x(Zn) 0.29955) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-14Yua.tdb | 618.64 | LIQUID (x(Zn) 0.29956) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-14Yua.tdb | 618.64 | LIQUID (x(Zn) 0.2995) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-14Yua.tdb | 612.11 | HCP_A3 (x(Zn) 0.02961) + MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.29302) |
+| MgZn-14Yua.tdb | 612.07 | MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.2937) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-14Yua.tdb | 612.07 | MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.29369) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-14Yua.tdb | 598.13 | HCP_A3 (x(Zn) 0.02756) + MG51ZN20 (x(Zn) 0.28169) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-14Yua.tdb | 598.13 | HCP_A3 (x(Zn) 0.02753) + MG51ZN20 (x(Zn) 0.28169) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-20Hay.tdb | 689.15 | LIQUID (x(Zn) 0.36609) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.66175) |
+| MgZn-20Hay.tdb | 689.15 | LIQUID (x(Zn) 0.36595) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.66175) |
+| MgZn-20Hay.tdb | 658.61 | C14_LAVES (x(Zn) 0.67073) + MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.91059) |
+| MgZn-20Hay.tdb | 641.44 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.93201) + HCP_A3 (x(Zn) 0.99833) |
+| MgZn-20Hay.tdb | 641.44 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.93213) + HCP_A3 (x(Zn) 0.99833) |
+| MgZn-20Hay.tdb | 619.91 | LIQUID (x(Zn) 0.28877) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-20Hay.tdb | 619.91 | LIQUID (x(Zn) 0.28881) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-20Hay.tdb | 617.96 | HCP_A3 (x(Zn) 0.02831) + MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.2852) |
+| MgZn-20Hay.tdb | 617.94 | MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.28631) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-20Hay.tdb | 617.94 | MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.28626) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-20Hay.tdb | 596.8 | HCP_A3 (x(Zn) 0.02544) + MG51ZN20 (x(Zn) 0.28169) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-20Hay.tdb | 596.8 | HCP_A3 (x(Zn) 0.0254) + MG51ZN20 (x(Zn) 0.28169) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-22Li.tdb | 686.58 | LIQUID (x(Zn) 0.36673) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.65785) |
+| MgZn-22Li.tdb | 686.58 | LIQUID (x(Zn) 0.36666) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.65785) |
+| MgZn-22Li.tdb | 656.34 | C14_LAVES (x(Zn) 0.67132) + MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.89889) |
+| MgZn-22Li.tdb | 635.35 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.93146) + HCP_A3 (x(Zn) 0.99933) |
+| MgZn-22Li.tdb | 635.35 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.93168) + HCP_A3 (x(Zn) 0.99933) |
+| MgZn-22Li.tdb | 620.01 | LIQUID (x(Zn) 0.30427) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-22Li.tdb | 620.01 | LIQUID (x(Zn) 0.30405) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-22Li.tdb | 613.04 | HCP_A3 (x(Zn) 0.02433) + MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.29685) |
+| MgZn-22Li.tdb | 613.03 | MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.2969) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-22Li.tdb | 596.08 | HCP_A3 (x(Zn) 0.02151) + MG51ZN20 (x(Zn) 0.28169) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-92Aga.tdb | 688.97 | LIQUID (x(Zn) 0.35427) + MG2ZN3 (x(Zn) 0.6) + MGZN2_C14 (x(Zn) 0.66667) |
+| MgZn-92Aga.tdb | 688.97 | LIQUID (x(Zn) 0.35447) + MG2ZN3 (x(Zn) 0.6) + MGZN2_C14 (x(Zn) 0.66667) |
+| MgZn-92Aga.tdb | 688.97 | LIQUID (x(Zn) 0.35421) + MG2ZN3 (x(Zn) 0.6) + MGZN2_C14 (x(Zn) 0.66667) |
+| MgZn-92Aga.tdb | 654.03 | MGZN2_C14 (x(Zn) 0.66667) + MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.90728) |
+| MgZn-92Aga.tdb | 654.03 | MGZN2_C14 (x(Zn) 0.66667) + MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.90708) |
+| MgZn-92Aga.tdb | 637.31 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.9266) + HCP_A3 (x(Zn) 0.99746) |
+| MgZn-92Aga.tdb | 637.31 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.9269) + HCP_A3 (x(Zn) 0.99748) |
+| MgZn-92Aga.tdb | 620.2 | LIQUID (x(Zn) 0.30295) + MGZN (x(Zn) 0.5) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-92Aga.tdb | 620.2 | LIQUID (x(Zn) 0.30283) + MGZN (x(Zn) 0.5) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-92Aga.tdb | 620.2 | LIQUID (x(Zn) 0.30298) + MGZN (x(Zn) 0.5) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-92Aga.tdb | 614.2 | LIQUID (x(Zn) 0.29769) + MG7ZN3 (x(Zn) 0.3) + MGZN (x(Zn) 0.5) |
+| MgZn-92Aga.tdb | 614.2 | HCP_A3 (x(Zn) 0.02717) + LIQUID (x(Zn) 0.29747) + MG7ZN3 (x(Zn) 0.3) |
+| MgZn-92Aga.tdb | 598.22 | HCP_A3 (x(Zn) 0.02507) + MG7ZN3 (x(Zn) 0.3) + MGZN (x(Zn) 0.5) |
+| MgZn-98Lia-LB.tdb | 688.95 | LIQUID (x(Zn) 0.35639) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.66141) |
+| MgZn-98Lia-LB.tdb | 688.95 | LIQUID (x(Zn) 0.35621) + MG2ZN3 (x(Zn) 0.6) + C14_LAVES (x(Zn) 0.66141) |
+| MgZn-98Lia-LB.tdb | 654.39 | C14_LAVES (x(Zn) 0.67082) + MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.91339) |
+| MgZn-98Lia-LB.tdb | 640.14 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.92982) + HCP_A3 (x(Zn) 0.99798) |
+| MgZn-98Lia-LB.tdb | 640.14 | MG2ZN11_D8C (x(Zn) 0.84615) + LIQUID (x(Zn) 0.92991) + HCP_A3 (x(Zn) 0.99798) |
+| MgZn-98Lia-LB.tdb | 620.15 | LIQUID (x(Zn) 0.29602) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-98Lia-LB.tdb | 620.15 | LIQUID (x(Zn) 0.29605) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-98Lia-LB.tdb | 620.15 | LIQUID (x(Zn) 0.29588) + MG12ZN13 (x(Zn) 0.52) + MG2ZN3 (x(Zn) 0.6) |
+| MgZn-98Lia-LB.tdb | 614.17 | HCP_A3 (x(Zn) 0.02992) + MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.28959) |
+| MgZn-98Lia-LB.tdb | 614.14 | MG51ZN20 (x(Zn) 0.28169) + LIQUID (x(Zn) 0.29038) + MG12ZN13 (x(Zn) 0.52) |
+| MgZn-98Lia-LB.tdb | 598.13 | HCP_A3 (x(Zn) 0.02756) + MG51ZN20 (x(Zn) 0.28169) + MG12ZN13 (x(Zn) 0.52) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MG/MG-ZN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MG/MG-ZN.json) · [CALPHAD hull MgZn-10Niu](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ZN--MgZn-10Niu.json) · [CALPHAD hull MgZn-14Yua](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ZN--MgZn-14Yua.json) · [CALPHAD hull MgZn-20Hay](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ZN--MgZn-20Hay.json) · [CALPHAD hull MgZn-92Aga](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ZN--MgZn-92Aga.json) · [CALPHAD hull MgZn-98Lia-LB](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ZN--MgZn-98Lia-LB.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mg–Zn system (45)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 864 | Congruent: Liquid -> MgZn2 | Liquid: Zn 0.667; MgZn2: Zn 0.667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 5 |  |
+| 691 | Peritectic: L+Laves_C14 -> Mg2Zn3 | L: Zn 0.362; Mg2Zn3: Zn 0.6 | model | [2] Yuan 2014 | Table 1, p. 4, row 7 |  |
+| 689 | Peritectic: L+Laves_C14 -> Mg2Zn3 | L: Zn 0.35; Mg2Zn3: Zn 0.6 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 8 |  |
+| 689 | Liquid + MgZn2 -> Mg2Zn3 | Liquid: Zn 0.356; MgZn2: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 2 |  |
+| 689 | Liquid + MgZn2 -> Mg2Zn3 | Liquid: Zn 0.356; MgZn2: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [3] Niu 2010 | Table 3, p. 3, row 1 |  |
+| 688.9 | Peritectic: Liquid + Laves-C14 -> Mg2Zn3 | Liquid: Zn 0.356; Laves-C14: Zn 0.661; Mg2Zn3: Zn 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 4 |  |
+| 654.4 | Liquid + MgZn2 -> Mg2Zn11 | Liquid: Zn 0.913; MgZn2: Zn 0.67; Mg2Zn11: Zn 0.846 | model | [3] Niu 2010 | Table 3, p. 3, row 3 |  |
+| 654.4 | Peritectic: Liquid + Laves-C14 -> Mg2Zn11 | Liquid: Zn 0.913; Laves-C14: Zn 0.661; Mg2Zn11: Zn 0.846 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 6 |  |
+| 654 | Peritectic: L+Laves_C14 -> Mg2Zn11 | L: Zn 0.91; Mg2Zn11: Zn 0.846154 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 12 |  |
+| 654 | Liquid + MgZn2 -> Mg2Zn11 | Liquid: Zn 0.913; MgZn2: Zn 0.67; Mg2Zn11: Zn 0.846 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 4 |  |
+| 653 | Peritectic: L+Laves_C14 -> Mg2Zn11 | L: Zn 0.912; Mg2Zn11: Zn 0.846154 | model | [2] Yuan 2014 | Table 1, p. 4, row 11 |  |
+| 640.4 | Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010 | Table 3, p. 3, row 5 |  |
+| 640.4 | Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 6 |  |
+| 640 | Eutectic: L -> Mg2Zn11+(Zn) | L: Zn 0.929; Mg2Zn11: Zn 0.846154 | model | [2] Yuan 2014 | Table 1, p. 4, row 13 |  |
+| 637.3 | Eutectic: Liquid -> Mg2Zn11 + hcp-A3 | Liquid: Zn 0.926; Mg2Zn11: Zn 0.846; hcp-A3: Zn 0.997 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 7 |  |
+| 637 | Eutectic: L -> Mg2Zn11+(Zn) | L: Zn 0.92; Mg2Zn11: Zn 0.846154 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 14 |  |
+| 620.2 | Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.296; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 7 |  |
+| 620.2 | Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.296; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 8 |  |
+| 620.1 | Peritectic: Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.196; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 3 |  |
+| 619 | Peritectic: L+Mg2Zn3 -> Mg12Zn13 | L: Zn 0.3; Mg2Zn3: Zn 0.6; Mg12Zn13: Zn 0.52 | model | [2] Yuan 2014 | Table 1, p. 4, row 5 |  |
+| 617.15 | Eutectic: L \<-> (Al) + (Zn) + Mg2Zn11 | L: Zn 0.0869; (Al): Zn 0.3478; (Zn): Zn 0.0593; Mg2Zn11: Zn 0.8538 | model | [4] Liang 1998 | Table 8, p. 19, row 2 |  |
+| 616 | Transition: L + Φ -> (Mg) + τ |  | experimental | [4] Liang 1998; _cites Petrov 1993_ | Table 8, p. 19, row 5 |  |
+| 616 | Eutectic: L -> (Al) + (Zn) + Mg2Zn11 |  | experimental | [4] Liang 1998; _cites Petrov 1993_ | Table 8, p. 19, row 1 |  |
+| 614.2 | Liquid + hcp_A3 -> Mg7Zn3 | Liquid: Zn 0.29; hcp_A3: Zn 0.034; Mg7Zn3: Zn 0.282 | model | [3] Niu 2010 | Table 3, p. 3, row 11 |  |
+| 614.2 | Liquid + hcp_A3 -> Mg7Zn3 | Liquid: Zn 0.29; hcp_A3: Zn 0.03; Mg7Zn3: Zn 0.282 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 12 |  |
+| 614.1 | Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 10 |  |
+| 614.1 | Eutectic: Liquid -> Mg51Zn20 + MgZn | Liquid: Zn 0.281; Mg51Zn20: Zn 0.29; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 2 |  |
+| 614.1 | Peritectic: Liquid + hcp-A3 -> Mg51Zn20 | Liquid: Zn 0.295; hcp-A3: Zn 0.029; Mg51Zn20: Zn 0.289 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 1 |  |
+| 614.1 | Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 9 |  |
+| 613.9 | Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.034 | model | [3] Niu 2010 | Table 3, p. 3, row 13 |  |
+| 613.62 | Transition: L + Mg7Zn3 \<-> (Mg) + MgZn | L: Zn 0.001; (Mg): Zn 5.000e-4; Mg7Zn3: Zn 0.7099; MgZn: Zn 0.2891 | model | [4] Liang 1998 | Table 8, p. 19, row 4 |  |
+| 613.6 | Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.03 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 14 |  |
+| 612.84 | Transition: L + Φ \<-> (Mg) + τ | L: Zn 0.0566; Φ: Zn 0.1741; (Mg): Zn 0.6994; τ: Zn 0.244 | model | [4] Liang 1998 | Table 8, p. 19, row 6 |  |
+| 612.1 | Peritectic: L+(Mg) -> Mg51Zn20 | L: Zn 0.282; Mg51Zn20: Zn 0.28169 | model | [2] Yuan 2014 | Table 1, p. 4, row 1 |  |
+| 612 | Eutectic: L -> Mg51Zn20+Mg12Zn13 | L: Zn 0.293; Mg51Zn20: Zn 0.28169; Mg12Zn13: Zn 0.52 | model | [2] Yuan 2014 | Table 1, p. 4, row 3 |  |
+| 612 | Transition: L + Mg7Zn3 -> (Mg) + MgZn |  | experimental | [4] Liang 1998; _cites Petrov 1993_ | Table 8, p. 19, row 3 |  |
+| 611.23 | Eutectic: L \<-> (Mg) + MgZn + τ | L: Zn 0.0511; (Mg): Zn 0.0238; MgZn: Zn 0.6995; τ: Zn 0.2494 | model | [4] Liang 1998 | Table 8, p. 19, row 8 |  |
+| 611 | Eutectic: L -> (Mg) + MgZn + τ |  | experimental | [4] Liang 1998; _cites Petrov 1993_ | Table 8, p. 19, row 7 |  |
+| 606.75 | Transition: (Al-1) + MgZn2 \<-> (Al-2) + Mg2Zn11 | (Al-1): Zn 0.5317; MgZn2: Zn 0.0213; (Al-2): Zn 0.002; Mg2Zn11: Zn 0.4663 | model | [4] Liang 1998 | Table 8, p. 19, row 9 |  |
+| 598.99 | Transition: (Mg) + τ \<-> MgZn + Φ | (Mg): Zn 0.0235; τ: Zn 0.1461; MgZn: Zn 0.9525; Φ: Zn 0.024 | model | [4] Liang 1998 | Table 8, p. 19, row 10 |  |
+| 598.5 | Mg7Zn3 -> hcp_A3 + MgZn | Mg7Zn3: Zn 0.282; hcp_A3: Zn 0.03; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 15 |  |
+| 598.2 | Mg7Zn3 -> hcp_A3 + MgZn | Mg7Zn3: Zn 0.282; hcp_A3: Zn 0.027; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 16 |  |
+| 598.1 | Eutectoid: Mg51Zn20 -> hcp-A3 + MgZn | Mg51Zn20: Zn 0.282; hcp-A3: Zn 0.027; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 8 |  |
+| 550.48 | Transition: (Al - 1) + Mg2Zn11 \<-> (Al - 2) + (Zn) | (Al-1): Zn 0.4099; (Zn): Zn 0.0161; (Al-2): Zn 6.000e-4; Mg2Zn11: Zn 0.5895 | model | [4] Liang 1998 | Table 8, p. 19, row 11 |  |
+| 496.36 | Transition: MgZn + τ \<-> Mg2Zn3 + Φ | MgZn: Zn 0.0648; τ: Zn 0.1632; Mg2Zn3: Zn 0.48; Φ: Zn 0.4552 | model | [4] Liang 1998 | Table 8, p. 19, row 12 |  |
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Mg–Zn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 581.5 K | 581.5 | other | model | [3] Niu 2010 | p. 3 | “The calculated critical temperatures of the miscibility gaps are 581.5 K for the Mg-Zn system and 790.6 K for the Mg-Nd system.” |
+| Phase transition | 857 K | 857 | Congruent: L -> Laves_C14; _L: Zn 0.666; Laves_C14: Zn 0.666_ | model | [2] Yuan 2014 | Table 1, p. 4, row 9 |  |
+| Phase transition | 861 K | 861 | Congruent: L -> Laves_C14; _L: Zn 0.67; Laves_C14: Zn 0.67_ | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 10 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014). [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007)
+3. Chunju Niu, Miao Liu, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic description on the miscibility gap of the Mg-based solid solution in the Mg–Zn, Mg–Nd and Mg–Zn–Nd systems, Calphad 34, 428-433 (2010). [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010)
+4. P Liang, T Tarfa, J.A Robinson, S Wagner, P Ochin, M.G Harmelin et al., Experimental investigation and thermodynamic calculation of the Al–Mg–Zn system, Thermochimica Acta 314, 87-110 (1998). [doi:10.1016/s0040-6031(97)00458-9](https://doi.org/10.1016/s0040-6031%2897%2900458-9)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

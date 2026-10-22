@@ -1,0 +1,86 @@
+# Mo–Ta–W system
+
+> Mo–Ta–W system: 27 accepted literature values (other property 12, crystal structure 12, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MO-TA-W.html · Markdown: https://data.orchid-project.org/systems/MO-TA-W.md
+
+27 accepted literature values from 1 paper(s) (experimental 6, unspecified 21); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-TA-W.json) · [CSV](https://data.orchid-project.org/systems/MO-TA-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-TA-W) · [Markdown](https://data.orchid-project.org/systems/MO-TA-W.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 6 |
+| unspecified | 21 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| formation | 3 |
+| crystal structure | 12 |
+| other property | 12 |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mo–Ta–W system (3)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ordered B2 TaMo |  | -26.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
+| Ordered B2 TaW |  | -17 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 11 |  |
+| Ordered B2 TaW |  | -10.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 7 |  |
+
+## Other properties
+
+### Crystal structure (12)
+
+Table: Crystal structure, Mo–Ta–W system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2139 Å |  | Ordered B2 TaMo; _alloy: Ta 0.5, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2421 Å |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 7 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2203 Å |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 11 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1472 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 2 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1738 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 9 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1781 Å |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 5 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.3031 Å |  | Pure Ta; _alloy: Ta 1, W 0_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 1 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2766 Å |  | Pure Ta; _alloy: Ta 1, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 8 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.3098 Å |  | Pure Ta; _alloy: Ta 1, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 4 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1802 Å |  | Pure W; _alloy: Ta 0, W 1_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 10 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1652 Å |  | Pure W; _alloy: Ta 0, W 1_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 3 |  |
+| lattice unspecified axis; _printed: Lattice constant_ | 3.1934 Å |  | Pure W; _alloy: Ta 0, W 1_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 6 |  |
+
+### Other property (12)
+
+Table: Other property, Mo–Ta–W system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| bulk modulus; _printed: Bulk modulus_ | 226.7 GPa |  | Ordered B2 TaMo; _alloy: Ta 0.5, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
+| bulk modulus; _printed: Bulk modulus_ | 276.8 GPa |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 11 |  |
+| bulk modulus; _printed: Bulk modulus_ | 255.8 GPa |  | Ordered B2 TaW; _alloy: Ta 0.5, W 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 7 |  |
+| bulk modulus; _printed: Bulk modulus_ | 273.1 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 5 |  |
+| bulk modulus; _printed: Bulk modulus_ | 291.9 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 9 |  |
+| bulk modulus; _printed: Bulk modulus_ | 262.6 GPa |  | Pure Mo; _alloy: Ta 0, W 0_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 2 |  |
+| bulk modulus; _printed: Bulk modulus_ | 196.1 GPa |  | Pure Ta; _alloy: Ta 1, W 0_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 1 |  |
+| bulk modulus; _printed: Bulk modulus_ | 206.4 GPa |  | Pure Ta; _alloy: Ta 1, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 4 |  |
+| bulk modulus; _printed: Bulk modulus_ | 215.3 GPa |  | Pure Ta; _alloy: Ta 1, W 0_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 8 |  |
+| bulk modulus; _printed: Bulk modulus_ | 337.3 GPa |  | Pure W; _alloy: Ta 0, W 1_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 10 |  |
+| bulk modulus; _printed: Bulk modulus_ | 310.4 GPa |  | Pure W; _alloy: Ta 0, W 1_ | experimental | [1] Turchi 2005 | Table I, p. 5, row 3 |  |
+| bulk modulus; _printed: Bulk modulus_ | 314 GPa |  | Pure W; _alloy: Ta 0, W 1_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 6 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. P. E. A. Turchi, V. Drchal, J. Kudrnovský, C. Colinet, Larry Kaufman, Zi-Kui Liu, Application of\<i>ab initio\</i>and CALPHAD thermodynamics to Mo-Ta-W alloys, Phys. Rev. B 71 (2005). [doi:10.1103/physrevb.71.094206](https://doi.org/10.1103/physrevb.71.094206)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

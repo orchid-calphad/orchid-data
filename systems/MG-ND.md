@@ -1,0 +1,219 @@
+# Mg–Nd system
+
+> Mg–Nd system: 57 accepted literature values (invariant reaction 48, phase transition 9) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MG-ND.html · Markdown: https://data.orchid-project.org/systems/MG-ND.md
+
+57 accepted literature values from 4 paper(s) (experimental 17, model 31, unspecified 9); 7 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ND.json) · [CSV](https://data.orchid-project.org/systems/MG-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-ND/MgNd-05Gor-RK.json) · [Markdown](https://data.orchid-project.org/systems/MG-ND.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 17 |
+| model | 31 |
+| unspecified | 9 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 48 |
+| phase transition | 9 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MgNd-05Gor-RK.tdb | S. Gorsse, C.R. Hutchinson, B. Chevalier, J.-F. Nie, J. Alloys Compd., 392, 253-62(2005). [doi:10.1016/j.jallcom.2004.09.040](https://doi.org/10.1016/j.jallcom.2004.09.040) | `f7a30de1313053e09b79c78a7b89f55a1916f63ea9bc62ba6bc785c378fce115` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ND/MgNd-05Gor-RK.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgNd-05Gor-RK.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgNd-05Gor-RK.json) |
+| MgNd-05Gor-ass.tdb | S. Gorsse, C.R. Hutchinson, B. Chevalier, J.-F. Nie, J. Alloys Compd., 392, 253-62(2005). [doi:10.1016/j.jallcom.2004.09.040](https://doi.org/10.1016/j.jallcom.2004.09.040) | `78190c1f09693a34bc630c81c6145d8845bce082191f701009eea35bac4add0b` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ND/MgNd-05Gor-ass.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgNd-05Gor-ass.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgNd-05Gor-ass.json) |
+| MgNd-06Guo.tdb | C. Guo, Z. Du, Z. Metallkd., 97, 130-35(2006). [doi:10.3139/ijmr-2006-0022](https://doi.org/10.3139/ijmr-2006-0022) | `40b7e9ee569d905d837652ec8e315c78c8cba6156bac727c53431fd145fb38c0` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ND/MgNd-06Guo.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgNd-06Guo.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgNd-06Guo.json) |
+| MgNd-07Men.tdb | F. Meng, H. Liu, L. Liu, Z. Jin, Trans. Nonferrous Met. Soc. China, 17, 77-81(2007). | `e6ae632117b973961202a6cbb00a9b945311212dcdb2486535a6d673b2ccb6af` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ND/MgNd-07Men.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgNd-07Men.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgNd-07Men.json) |
+| MgNd-08Guo.tdb | C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 99, 650-68(2008). [doi:10.3139/146.101685](https://doi.org/10.3139/146.101685) | `cf2db92d7efdb61e874818bea701f9ba8c2cc2b3c4f2054c3ff80bb1444d4c4d` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ND/MgNd-08Guo.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgNd-08Guo.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgNd-08Guo.json) |
+| MgNd-10Niu.tdb | C. Niu, M. Liu, C. Li, Z. Du, C. Guo, Calphad, 34, 428-33(2010). [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010) | `875ad4d46a8d6b2bc4c7144abe0ed13b9b2723dcea82aae5455bcf57be2048af` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ND/MgNd-10Niu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgNd-10Niu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgNd-10Niu.json) |
+| MgNd-11Qi.tdb | H.Y. Qi, G.X. Huang, H. Bo, G.L. Xu, L.B. Liu, Z.P. Jin, J. Alloys Compd., 509, 3274-81(2011). [doi:10.1016/j.jallcom.2010.07.056](https://doi.org/10.1016/j.jallcom.2010.07.056) | `60cd25bc6483030fea580152619c02341534a0158d136cdc3fb856bfe435bb36` | [viewer](https://orchid-project.org/phase-diagrams/#MG-ND/MgNd-11Qi.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgNd-11Qi.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgNd-11Qi.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MgNd-05Gor-RK.tdb | 1056.85 | MGND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.58731) + BCC_A2 (x(Nd) 0.67214) |
+| MgNd-05Gor-RK.tdb | 1056.84 | MGND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.58761) + BCC_A2 (x(Nd) 0.67246) |
+| MgNd-05Gor-RK.tdb | 1012.92 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.34964) |
+| MgNd-05Gor-RK.tdb | 1012.92 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.34988) |
+| MgNd-05Gor-RK.tdb | 1012.92 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.34924) |
+| MgNd-05Gor-RK.tdb | 1008.08 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.36791) + MGND_B2 (x(Nd) 0.5) |
+| MgNd-05Gor-RK.tdb | 1008.08 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.36829) + MGND_B2 (x(Nd) 0.5) |
+| MgNd-05Gor-RK.tdb | 1008.08 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.36829) + MGND_B2 (x(Nd) 0.5) |
+| MgNd-05Gor-RK.tdb | 933.42 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + MGND_B2 (x(Nd) 0.5) |
+| MgNd-05Gor-RK.tdb | 829.39 | LIQUID (x(Nd) 0.08362) + MG41M5 (x(Nd) 0.1087) + MG3M_D03 (x(Nd) 0.25) |
+| MgNd-05Gor-RK.tdb | 829.39 | LIQUID (x(Nd) 0.08374) + MG41M5 (x(Nd) 0.1087) + MG3M_D03 (x(Nd) 0.25) |
+| MgNd-05Gor-RK.tdb | 829.25 | MGND_B2 (x(Nd) 0.5) + BCC_A2 (x(Nd) 0.81303) + DHCP (x(Nd) 0.93171) |
+| MgNd-05Gor-RK.tdb | 829.25 | MGND_B2 (x(Nd) 0.5) + BCC_A2 (x(Nd) 0.8131) + DHCP (x(Nd) 0.93173) |
+| MgNd-05Gor-RK.tdb | 824.43 | HCP_A3 (x(Nd) 0.00156) + LIQUID (x(Nd) 0.07657) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-05Gor-RK.tdb | 824.43 | HCP_A3 (x(Nd) 0.00156) + LIQUID (x(Nd) 0.07645) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-05Gor-ass.tdb | 1055.38 | MGND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.58116) + BCC_A2 (x(Nd) 0.67009) |
+| MgNd-05Gor-ass.tdb | 1055.38 | MGND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.58124) + BCC_A2 (x(Nd) 0.67015) |
+| MgNd-05Gor-ass.tdb | 1025.39 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.35491) |
+| MgNd-05Gor-ass.tdb | 1023.18 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.37091) + MGND_B2 (x(Nd) 0.5) |
+| MgNd-05Gor-ass.tdb | 933.07 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + MGND_B2 (x(Nd) 0.5) |
+| MgNd-05Gor-ass.tdb | 830.97 | LIQUID (x(Nd) 0.08463) + MG41M5 (x(Nd) 0.1087) + MG3M_D03 (x(Nd) 0.25) |
+| MgNd-05Gor-ass.tdb | 826.34 | MGND_B2 (x(Nd) 0.5) + BCC_A2 (x(Nd) 0.81886) + DHCP (x(Nd) 0.92723) |
+| MgNd-05Gor-ass.tdb | 826.34 | MGND_B2 (x(Nd) 0.5) + BCC_A2 (x(Nd) 0.8189) + DHCP (x(Nd) 0.92724) |
+| MgNd-05Gor-ass.tdb | 821.49 | HCP_A3 (x(Nd) 2.700e-4) + LIQUID (x(Nd) 0.07413) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-06Guo.tdb | 1048.04 | MGND_B2 (x(Nd) 0.49565) + LIQUID (x(Nd) 0.61894) + BCC_A2 (x(Nd) 0.67813) |
+| MgNd-06Guo.tdb | 832.46 | LIQUID (x(Nd) 0.06974) + MG41ND5 (x(Nd) 0.10345) + MG3M_D03 (x(Nd) 0.20644) |
+| MgNd-06Guo.tdb | 823.71 | HCP_A3 (x(Nd) 2.600e-4) + LIQUID (x(Nd) 0.06012) + MG41ND5 (x(Nd) 0.10135) |
+| MgNd-06Guo.tdb | 818.35 | MGND_B2 (x(Nd) 0.4997) + BCC_A2 (x(Nd) 0.84204) + DHCP (x(Nd) 0.92711) |
+| MgNd-07Men.tdb | 1128 | DHCP (x(Nd) 1) + B2_BCC (x(Nd) 1) + BCC_A2 (x(Nd) 1) |
+| MgNd-07Men.tdb | 1054.06 | B2_BCC (x(Nd) 0.53521) + LIQUID (x(Nd) 0.61376) + B2_BCC#2 (x(Nd) 0.69883) |
+| MgNd-07Men.tdb | 1054.06 | B2_BCC (x(Nd) 0.53521) + LIQUID (x(Nd) 0.61376) + B2_BCC#2 (x(Nd) 0.69883) |
+| MgNd-07Men.tdb | 1054.06 | B2_BCC (x(Nd) 0.53521) + LIQUID (x(Nd) 0.61376) + BCC_A2 (x(Nd) 0.69883) |
+| MgNd-07Men.tdb | 1054.06 | B2_BCC (x(Nd) 0.53521) + LIQUID (x(Nd) 0.61376) + BCC_A2 (x(Nd) 0.69883) |
+| MgNd-07Men.tdb | 1028.31 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.33421) |
+| MgNd-07Men.tdb | 1028.3 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.33401) |
+| MgNd-07Men.tdb | 1028.3 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.33395) |
+| MgNd-07Men.tdb | 1016.26 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.38239) + B2_BCC (x(Nd) 0.49929) |
+| MgNd-07Men.tdb | 1016.26 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.38239) + B2_BCC (x(Nd) 0.49929) |
+| MgNd-07Men.tdb | 932.13 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.49991) |
+| MgNd-07Men.tdb | 932.13 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.49991) |
+| MgNd-07Men.tdb | 932.13 | MG3M_D03 (x(Nd) 0.25) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.49991) |
+| MgNd-07Men.tdb | 833.27 | LIQUID (x(Nd) 0.08312) + MG41M5 (x(Nd) 0.1087) + MG3M_D03 (x(Nd) 0.25) |
+| MgNd-07Men.tdb | 833.27 | LIQUID (x(Nd) 0.08331) + MG41M5 (x(Nd) 0.1087) + MG3M_D03 (x(Nd) 0.25) |
+| MgNd-07Men.tdb | 822.01 | HCP_A3 (x(Nd) 0.00117) + LIQUID (x(Nd) 0.06316) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-07Men.tdb | 822.01 | HCP_A3 (x(Nd) 0.00117) + LIQUID (x(Nd) 0.06311) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-07Men.tdb | 816.85 | B2_BCC (x(Nd) 0.58395) + B2_BCC#2 (x(Nd) 0.81815) + DHCP (x(Nd) 0.94854) |
+| MgNd-07Men.tdb | 816.85 | B2_BCC (x(Nd) 0.58395) + BCC_A2 (x(Nd) 0.81815) + DHCP (x(Nd) 0.94854) |
+| MgNd-07Men.tdb | 816.85 | B2_BCC (x(Nd) 0.58395) + B2_BCC#2 (x(Nd) 0.81815) + DHCP (x(Nd) 0.94854) |
+| MgNd-07Men.tdb | 816.85 | B2_BCC (x(Nd) 0.58395) + BCC_A2 (x(Nd) 0.81815) + DHCP (x(Nd) 0.94854) |
+| MgNd-08Guo.tdb | 1053.56 | B2_BCC (x(Nd) 0.49564) + LIQUID (x(Nd) 0.60483) + B2_BCC#2 (x(Nd) 0.65412) |
+| MgNd-08Guo.tdb | 1053.56 | B2_BCC (x(Nd) 0.49564) + LIQUID (x(Nd) 0.60483) + B2_BCC#2 (x(Nd) 0.65412) |
+| MgNd-08Guo.tdb | 1024.09 | MG3M_D03 (x(Nd) 0.24934) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.33507) |
+| MgNd-08Guo.tdb | 1022.67 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.35332) + B2_BCC (x(Nd) 0.47691) |
+| MgNd-08Guo.tdb | 1022.67 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.35332) + B2_BCC (x(Nd) 0.47691) |
+| MgNd-08Guo.tdb | 933.21 | MG3M_D03 (x(Nd) 0.24976) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.48267) |
+| MgNd-08Guo.tdb | 933.21 | MG3M_D03 (x(Nd) 0.24976) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.48267) |
+| MgNd-08Guo.tdb | 833 | LIQUID (x(Nd) 0.08177) + MG41M5 (x(Nd) 0.1087) + MG3M_D03 (x(Nd) 0.19478) |
+| MgNd-08Guo.tdb | 817.99 | B2_BCC (x(Nd) 0.49964) + B2_BCC#2 (x(Nd) 0.81973) + DHCP (x(Nd) 0.92615) |
+| MgNd-08Guo.tdb | 817.99 | B2_BCC (x(Nd) 0.49964) + B2_BCC#2 (x(Nd) 0.81974) + DHCP (x(Nd) 0.92615) |
+| MgNd-08Guo.tdb | 817.96 | HCP_A3 (x(Nd) 0.00215) + LIQUID (x(Nd) 0.06554) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-08Guo.tdb | 817.95 | HCP_A3 (x(Nd) 0.00214) + LIQUID (x(Nd) 0.06539) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-10Niu.tdb | 1053.56 | B2_BCC (x(Nd) 0.49564) + LIQUID (x(Nd) 0.60483) + B2_BCC#2 (x(Nd) 0.65412) |
+| MgNd-10Niu.tdb | 1053.56 | B2_BCC (x(Nd) 0.49564) + LIQUID (x(Nd) 0.60483) + B2_BCC#2 (x(Nd) 0.65412) |
+| MgNd-10Niu.tdb | 1024.09 | MG3M_D03 (x(Nd) 0.24934) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.33507) |
+| MgNd-10Niu.tdb | 1022.67 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.35332) + B2_BCC (x(Nd) 0.47691) |
+| MgNd-10Niu.tdb | 1022.67 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.35332) + B2_BCC (x(Nd) 0.47691) |
+| MgNd-10Niu.tdb | 933.21 | MG3M_D03 (x(Nd) 0.24976) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.48267) |
+| MgNd-10Niu.tdb | 933.21 | MG3M_D03 (x(Nd) 0.24976) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.48267) |
+| MgNd-10Niu.tdb | 833 | LIQUID (x(Nd) 0.08177) + MG41M5 (x(Nd) 0.1087) + MG3M_D03 (x(Nd) 0.19478) |
+| MgNd-10Niu.tdb | 817.99 | B2_BCC (x(Nd) 0.49964) + B2_BCC#2 (x(Nd) 0.81973) + DHCP (x(Nd) 0.92615) |
+| MgNd-10Niu.tdb | 817.99 | B2_BCC (x(Nd) 0.49964) + B2_BCC#2 (x(Nd) 0.81974) + DHCP (x(Nd) 0.92615) |
+| MgNd-10Niu.tdb | 817.44 | HCP_A3 (x(Nd) 8.000e-5) + LIQUID (x(Nd) 0.0651) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-10Niu.tdb | 817.44 | HCP_A3 (x(Nd) 8.000e-5) + LIQUID (x(Nd) 0.06497) + MG41M5 (x(Nd) 0.1087) |
+| MgNd-11Qi.tdb | 1041.78 | B2_BCC (x(Nd) 0.50047) + LIQUID (x(Nd) 0.61963) + BCC_A2 (x(Nd) 0.67918) |
+| MgNd-11Qi.tdb | 1041.78 | B2_BCC (x(Nd) 0.50047) + LIQUID (x(Nd) 0.61963) + B2_BCC#2 (x(Nd) 0.67918) |
+| MgNd-11Qi.tdb | 1041.78 | B2_BCC (x(Nd) 0.50047) + LIQUID (x(Nd) 0.61963) + B2_BCC#2 (x(Nd) 0.67918) |
+| MgNd-11Qi.tdb | 1021.22 | MG3M_D03 (x(Nd) 0.24978) + MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.35033) |
+| MgNd-11Qi.tdb | 1020.31 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.35731) + B2_BCC (x(Nd) 0.45149) |
+| MgNd-11Qi.tdb | 1020.31 | MG2M_C15 (x(Nd) 0.33333) + LIQUID (x(Nd) 0.35731) + B2_BCC (x(Nd) 0.45149) |
+| MgNd-11Qi.tdb | 948.51 | MG3M_D03 (x(Nd) 0.24994) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.47686) |
+| MgNd-11Qi.tdb | 948.51 | MG3M_D03 (x(Nd) 0.24994) + MG2M_C15 (x(Nd) 0.33333) + B2_BCC (x(Nd) 0.47691) |
+| MgNd-11Qi.tdb | 831.98 | LIQUID (x(Nd) 0.06966) + MG41ND5 (x(Nd) 0.10341) + MG3M_D03 (x(Nd) 0.2063) |
+| MgNd-11Qi.tdb | 825.53 | HCP_A3 (x(Nd) 0.00949) + LIQUID (x(Nd) 0.06234) + MG41ND5 (x(Nd) 0.10186) |
+| MgNd-11Qi.tdb | 816.55 | B2_BCC#2 (x(Nd) 0.50257) + B2_BCC (x(Nd) 0.82129) + DHCP (x(Nd) 0.91156) |
+| MgNd-11Qi.tdb | 816.55 | B2_BCC (x(Nd) 0.50257) + BCC_A2 (x(Nd) 0.82129) + DHCP (x(Nd) 0.91156) |
+| MgNd-11Qi.tdb | 816.55 | B2_BCC (x(Nd) 0.50257) + B2_BCC#2 (x(Nd) 0.82129) + DHCP (x(Nd) 0.91156) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MG/MG-ND.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MG/MG-ND.json) · [CALPHAD hull MgNd-05Gor-RK](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ND--MgNd-05Gor-RK.json) · [CALPHAD hull MgNd-06Guo](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ND--MgNd-06Guo.json) · [CALPHAD hull MgNd-07Men](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ND--MgNd-07Men.json) · [CALPHAD hull MgNd-08Guo](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ND--MgNd-08Guo.json) · [CALPHAD hull MgNd-10Niu](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-ND--MgNd-10Niu.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mg–Nd system (48)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1054 | Eutectic: L -> BCC_A2+BCC_B2 | L: Nd 0.614; BCC_A2: Nd 0.699; BCC_B2: Nd 0.535 | model | [1] MENG 2007 | Table 3, p. 4, row 1 |  |
+| 1053.6 | Liquid → bcc_B2 + bcc_A2 | Liquid: Nd 0.605; bcc_B2: Nd 0.496; bcc_A2: Nd 0.654 | model | [2] Niu 2010 | Table 4, p. 3, row 1 |  |
+| 1053.5 | Liquid → bcc_B2 + bcc_A2 | Liquid: Nd 0.605; bcc_B2: Nd 0.496; bcc_A2: Nd 0.654 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 2 |  |
+| 1048.15 | eutectic |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The MgNd phase melts congruently at 800 ◦ C and is involved in two eutectic reactions: (1) at 775 ◦ C with bcc-Nd and 57.5 at.% Nd liquid, and at 750 ◦ C with Mg2 Nd and 64.5 at.% Nd liquid phase \[8\].” |
+| 1048 | L -> MgNd(B2) + BCC_A2 | Liquid: Nd 0.575; BCC_A2: Nd 0.66 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 1 |  |
+| 1048 | Eutectic: L -> BCC_A2+BCC_B2 | L: Nd 0.575; BCC_A2: Nd 0.66 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 2 |  |
+| 1045 | L -> MgNd(B2) + BCC_A2 | Liquid: Nd 0.615; B2: Nd 0.5; BCC_A2: Nd 0.674 | model | [4] Qi 2011 | Table 2, p. 5, row 2 |  |
+| 1028 | Peritectic: L+Mg3Nd -> Mg2Nd | L: Nd 0.334; Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333 | model | [1] MENG 2007 | Table 3, p. 4, row 9 |  |
+| 1024.1 | Liquid + Mg3Nd → Mg2Nd | Liquid: Nd 0.335; Mg3Nd: Nd 0.249; Mg2Nd: Nd 0.333 | model | [2] Niu 2010 | Table 4, p. 3, row 3 |  |
+| 1024.1 | Liquid + Mg3Nd → Mg2Nd | Liquid: Nd 0.335; Mg3Nd: Nd 0.249; Mg2Nd: Nd 0.333 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 4 |  |
+| 1023.15 | eutectic |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The MgNd phase melts congruently at 800 ◦ C and is involved in two eutectic reactions: (1) at 775 ◦ C with bcc-Nd and 57.5 at.% Nd liquid, and at 750 ◦ C with Mg2 Nd and 64.5 at.% Nd liquid phase \[8\].” |
+| 1023.15 | peritectic: Liquid (∼ 65 at.% Mg) + Mg3Nd -> Mg2Nd |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “This Mg2 Nd phase peritectically decomposes at 750 ◦ C \[8,9\] according to the reaction: Liquid (∼ 65 at.% Mg) + Mg3 Nd → Mg2 Nd” |
+| 1023 | L + Mg3Nd -> Mg2Nd | Mg3Nd: Mg 0.75, Nd 0.25; Mg2Nd: Mg 0.666667, Nd 0.333333 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 3 |  |
+| 1023 | L + Mg3Nd -> Mg2Nd | Liquid: Nd 0.347; Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333 | model | [4] Qi 2011 | Table 2, p. 5, row 4 |  |
+| 1023 | L -> Mg2Nd + MgNd(B2) | Liquid: Nd 0.355; Mg2Nd: Mg 0.666667, Nd 0.333333 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 5 |  |
+| 1023 (>) | Peritectic: L+Mg3Nd -> Mg2Nd | Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333333 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 10 |  |
+| 1023 | Eutectic: L -> BCC_B2+Mg2Nd | L: Nd 0.355; Mg2Nd: Nd 0.333333 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 8 |  |
+| 1023 | eutectic: liquid -> MgNd(BCCB2)+MgzNd |  | experimental | [1] MENG 2007 | p. 2 | “For the Mg2Nd phase, a peritectic formation was assumed at a temperature slightly higher than 1 023 K, the temperature for the eutectic reaction, liquid-+ MgNd(BCCB2)+MgzNd.” |
+| 1022.7 | Liquid → Mg2Nd + bcc_B2 | Liquid: Nd 0.353; Mg2Nd: Nd 0.333; bcc_B2: Nd 0.477 | model | [2] Niu 2010 | Table 4, p. 3, row 5 |  |
+| 1022.7 | Liquid → Mg2Nd + bcc_B2 | Liquid: Nd 0.353; Mg2Nd: Nd 0.333; bcc_B2: Nd 0.477 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 6 |  |
+| 1022 | L -> Mg2Nd + MgNd(B2) | Liquid: Nd 0.358; Mg2Nd: Nd 0.333; B2: Nd 0.451 | model | [4] Qi 2011 | Table 2, p. 5, row 6 |  |
+| 1016 | Eutectic: L -> BCC_B2+Mg2Nd | L: Nd 0.382; BCC_B2: Nd 0.499; Mg2Nd: Nd 0.333 | model | [1] MENG 2007 | Table 3, p. 4, row 7 |  |
+| 933.2 | Mg2Nd → Mg3Nd + bcc_B2 | Mg2Nd: Nd 0.333; Mg3Nd: Nd 0.25; bcc_B2: Nd 0.483 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 8 |  |
+| 933.2 | Mg2Nd → Mg3Nd + bcc_B2 | Mg2Nd: Nd 0.333; Mg3Nd: Nd 0.25; bcc_B2: Nd 0.483 | model | [2] Niu 2010 | Table 4, p. 3, row 7 |  |
+| 933 | Eutectoid: Mg2Nd -> BCC_B2+Mg3Nd | Mg2Nd: Nd 0.333333; Mg3Nd: Nd 0.25 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 12 |  |
+| 933 | Mg2Nd -> Mg3Nd + MgNd(B2) | Mg3Nd: Mg 0.75, Nd 0.25; Mg2Nd: Mg 0.666667, Nd 0.333333 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 7 |  |
+| 932 | Eutectoid: Mg2Nd -> BCC_B2+Mg3Nd | Mg2Nd: Nd 0.333; BCC_B2: Nd 0.5; Mg3Nd: Nd 0.25 | model | [1] MENG 2007 | Table 3, p. 4, row 11 |  |
+| 930 | Mg2Nd -> Mg3Nd + MgNd(B2) | Mg3Nd: Nd 0.25; Mg2Nd: Nd 0.333; B2: Nd 0.481 | model | [4] Qi 2011 | Table 2, p. 5, row 8 |  |
+| 833.15 | peritectic: Mg41Nd5 -> Liquid + Mg3Nd |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 2 | “It decomposes peritectically at 560 ◦ C into the liquid and Mg3 Nd phases and is also involved in an eutectic reaction with the Mg-rich terminal solid solution and the liquid phase at 545 ◦ C (92.5 at.% Mg) \[8,10\].” |
+| 833 | Peritectic: L+Mg3Nd -> Mg41Nd5 | L: Nd 0.083; Mg3Nd: Nd 0.25; Mg41Nd5: Nd 0.109 | model | [1] MENG 2007 | Table 3, p. 4, row 15 |  |
+| 833 | Peritectic: L+Mg3Nd -> Mg41Nd5 | L: Nd 0.085; Mg3Nd: Nd 0.25; Mg41Nd5: Nd 0.108696 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 16 |  |
+| 833 | Liquid + Mg3Nd → Mg41Nd5 | Liquid: Nd 0.082; Mg3Nd: Nd 0.195; Mg41Nd5: Nd 0.109 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 10 |  |
+| 833 | Liquid + Mg3Nd → Mg41Nd5 | Liquid: Nd 0.082; Mg3Nd: Nd 0.195; Mg41Nd5: Nd 0.109 | model | [2] Niu 2010 | Table 4, p. 3, row 9 |  |
+| 833 | L + Mg3Nd -> Mg41Nd5 | Liquid: Nd 0.085; Mg3Nd: Mg 0.75, Nd 0.25; Mg41Nd5: Mg 0.891304, Nd 0.108696 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 9 |  |
+| 832 | L + Mg3Nd -> Mg41Nd5 | Liquid: Nd 0.07; Mg3Nd: Nd 0.206; Mg41Nd5: Nd 0.103 | model | [4] Qi 2011 | Table 2, p. 5, row 10 |  |
+| 826 | L -> Mg41Nd5 + HCP_A3 | Liquid: Nd 0.062; Mg41Nd5: Nd 0.102; HCP_A3: Nd 0.008 | model | [4] Qi 2011 | Table 2, p. 5, row 12 |  |
+| 822 | Eutectic: L -> HCP_A3+Mg41Nd5 | L: Nd 0.063; HCP_A3: Nd 0.001; Mg41Nd5: Nd 0.109 | model | [1] MENG 2007 | Table 3, p. 4, row 17 |  |
+| 818.15 | eutectic |  | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 2 | “It decomposes peritectically at 560 ◦ C into the liquid and Mg3 Nd phases and is also involved in an eutectic reaction with the Mg-rich terminal solid solution and the liquid phase at 545 ◦ C (92.5 at.% Mg) \[8,10\].” |
+| 818 | Eutectic: L -> HCP_A3+Mg41Nd5 | L: Nd 0.075; HCP_A3: Nd 0.001; Mg41Nd5: Nd 0.108696 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 18 |  |
+| 818 | Eutectoid: BCC_A2 -> dHCP+BCC_B2 | BCC_A2: Nd 0.83; dHCP: Nd 0.92 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 4 |  |
+| 818 | bcc_A2 → bcc_B2 + dhcp | bcc_A2: Nd 0.82; bcc_B2: Nd 0.5; dhcp: Nd 0.926 | model | [2] Niu 2010 | Table 4, p. 3, row 13 |  |
+| 818 | BCC_A2 -> MgNd(B2) + DHCP | BCC_A2: Nd 0.83; DHCP: Nd 0.92 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 13 |  |
+| 818 | bcc_A2 → bcc_B2 + dhcp | bcc_A2: Nd 0.82; bcc_B2: Nd 0.5; dhcp: Nd 0.926 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 14 |  |
+| 818 | L -> Mg41Nd5 + HCP_A3 | Liquid: Nd 0.075; Mg41Nd5: Mg 0.891304, Nd 0.108696; HCP_A3: Nd 0.001 | experimental | [4] Qi 2011; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | Table 2, p. 5, row 11 |  |
+| 818 | Liquid → hcp_A3 + Mg41Nd5 | Liquid: Nd 0.065; hcp_A3: Nd 0.002; Mg41Nd5: Nd 0.109 | model | [2] Niu 2010; _cites Guo 2008_ [doi](https://doi.org/10.3139/146.101685) | Table 4, p. 3, row 12 |  |
+| 817.4 | Liquid → hcp_A3 + Mg41Nd5 | Liquid: Nd 0.065; hcp_A3: Nd 0; Mg41Nd5: Nd 0.109 | model | [2] Niu 2010 | Table 4, p. 3, row 11 |  |
+| 817 | Eutectoid: BCC_A2 -> dHCP+BCC_B2 | BCC_A2: Nd 0.818; dHCP: Nd 0.949; BCC_B2: Nd 0.584 | model | [1] MENG 2007 | Table 3, p. 4, row 3 |  |
+| 816 | BCC_A2 -> MgNd(B2) + DHCP | BCC_A2: Nd 0.821; B2: Nd 0.503; DHCP: Nd 0.911 | model | [4] Qi 2011 | Table 2, p. 5, row 14 |  |
+
+## Other properties
+
+### Phase transition (9)
+
+Table: Phase transition, Mg–Nd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 790.6 K | 790.6 | other | model | [2] Niu 2010 | p. 3 | “The calculated critical temperatures of the miscibility gaps are 581.5 K for the Mg-Zn system and 790.6 K for the Mg-Nd system.” |
+| Phase transition | 818.15 K | 818.15 | bcc-Nd -> MgNd + dhcp-Nd | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The bcc-Nd solid solution decomposes eutectoidally at 545 ◦ C at 17 at.% Mg, into MgNd and dhcp-Nd \[8\].” |
+| Phase transition | 933.15 K | 933.15 | Mg2Nd -> MgNd + Mg3Nd | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “Delfino et al. \[8\] indicates that the Mg2 Nd phase further decomposes at 660 ◦ C into MgNd and Mg3 Nd.” |
+| Phase transition | 1053 K | 1053 | Congruent: L -> Mg3Nd; _L: Nd 0.25; Mg3Nd: Nd 0.25_ | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 14 |  |
+| Phase transition | 1053.15 K | 1053.15 | congruent | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The Mg3 Nd phase melts congruently at 780 ◦ C \[8,9\].” |
+| Phase transition | 1058 K | 1058 | Congruent: L -> Mg3Nd; _L: Nd 0.25; Mg3Nd: Nd 0.25_ | model | [1] MENG 2007 | Table 3, p. 4, row 13 |  |
+| Phase transition | 1073 K | 1073 | Congruent: L -> BCC_B2 | unspecified | [1] MENG 2007; _cites ref. 8_ | Table 3, p. 4, row 6 |  |
+| Phase transition | 1073.15 K | 1073.15 | congruent | experimental | [3] Gorsse 2005; _cites Delfino 1990_ [doi](https://doi.org/10.1007/bf02647869) | p. 3 | “The MgNd phase melts congruently at 800 ◦ C and is involved in two eutectic reactions: (1) at 775 ◦ C with bcc-Nd and 57.5 at.% Nd liquid, and at 750 ◦ C with Mg2 Nd and 64.5 at.% Nd liquid phase \[8\].” |
+| Phase transition | 1075 K | 1075 | Congruent: L -> BCC_B2; _L: Nd 0.512; BCC_B2: Nd 0.512_ | model | [1] MENG 2007 | Table 3, p. 4, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Fan-gui MENG, Hua-shan LIU, Li-bin LIU, Zhan-peng JIN, Thermodynamic optimization of Mg-Nd system, Transactions of Nonferrous Metals Society of China 17, 77-81 (2007). [doi:10.1016/s1003-6326(07)60051-x](https://doi.org/10.1016/s1003-6326%2807%2960051-x)
+2. Chunju Niu, Miao Liu, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic description on the miscibility gap of the Mg-based solid solution in the Mg–Zn, Mg–Nd and Mg–Zn–Nd systems, Calphad 34, 428-433 (2010). [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010)
+3. S. Gorsse, C.R. Hutchinson, B. Chevalier, J.-F. Nie, A thermodynamic assessment of the Mg–Nd binary system using random solution and associate models for the liquid phase, Journal of Alloys and Compounds 392, 253-262 (2005). [doi:10.1016/j.jallcom.2004.09.040](https://doi.org/10.1016/j.jallcom.2004.09.040)
+4. H.Y. Qi, G.X. Huang, H. Bo, G.L. Xu, L.B. Liu, Z.P. Jin, Thermodynamic description of the Mg–Nd–Zn ternary system, Journal of Alloys and Compounds 509, 3274-3281 (2011). [doi:10.1016/j.jallcom.2010.07.056](https://doi.org/10.1016/j.jallcom.2010.07.056)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

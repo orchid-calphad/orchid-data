@@ -1,0 +1,37 @@
+# Rh–Ti system
+
+> Rh–Ti system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/RH-TI.html · Markdown: https://data.orchid-project.org/systems/RH-TI.md
+
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RH-TI/RhTi-22Hu.json) · [Markdown](https://data.orchid-project.org/systems/RH-TI.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| RhTi-22Hu.tdb | X. Hu, L. Chen, C. Zhan, K. Xu, M. Lou, K. Chang, Calphad, 76, 102386(2022). [doi:10.1016/j.calphad.2021.102386](https://doi.org/10.1016/j.calphad.2021.102386) | `9a0f1ecc0389a4aafc2453fcb5845de3a321b001a3a3f8cb043775a106032267` | [viewer](https://orchid-project.org/phase-diagrams/#RH-TI/RhTi-22Hu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/RhTi-22Hu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/RhTi-22Hu.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| RhTi-22Hu.tdb | 2115.61 | LIQUID (x(Ti) 0.34576) + B2_BCC (x(Ti) 0.37495) + RH5TI3 (x(Ti) 0.375) |
+| RhTi-22Hu.tdb | 2040.04 | L12_FCC (x(Ti) 0.28094) + LIQUID (x(Ti) 0.30756) + RH5TI3 (x(Ti) 0.375) |
+| RhTi-22Hu.tdb | 2040.03 | L12_FCC (x(Ti) 0.28084) + LIQUID (x(Ti) 0.3074) + RH5TI3 (x(Ti) 0.375) |
+| RhTi-22Hu.tdb | 2001.2 | L12_FCC#2 (x(Ti) 0.17807) + LIQUID (x(Ti) 0.20075) + L12_FCC (x(Ti) 0.24544) |
+| RhTi-22Hu.tdb | 1154.99 | HCP_A3 (x(Ti) 1) + B2_BCC (x(Ti) 1) + BCC_A2 (x(Ti) 1) |
+| RhTi-22Hu.tdb | 535.24 | RHTI2 (x(Ti) 0.66667) + B2_BCC (x(Ti) 0.86636) + HCP_A3 (x(Ti) 0.99758) |
+| RhTi-22Hu.tdb | 535.24 | RHTI2 (x(Ti) 0.66667) + BCC_A2 (x(Ti) 0.86639) + HCP_A3 (x(Ti) 0.99759) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/RH/RH-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/RH/RH-TI.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,77 @@
+# Ge–Sb system
+
+> Ge–Sb system: 11 accepted literature values (invariant reaction 11) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/GE-SB.html · Markdown: https://data.orchid-project.org/systems/GE-SB.md
+
+11 accepted literature values from 3 paper(s) (experimental 8, model 3); 4 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SB.json) · [CSV](https://data.orchid-project.org/systems/GE-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SB/GeSb-09Wan.json) · [Markdown](https://data.orchid-project.org/systems/GE-SB.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 8 |
+| model | 3 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 11 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| GeSb-09Wan.tdb | J. Wang, C. Leinenbach, M. Roth, J. Alloys Compd., 485, 577-82(2009). [doi:10.1016/j.jallcom.2009.06.030](https://doi.org/10.1016/j.jallcom.2009.06.030) | `dea266b7c521d69464e1da485976d2458cc222328925693ce9b22e6be5195119` | [viewer](https://orchid-project.org/phase-diagrams/#GE-SB/GeSb-09Wan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GeSb-09Wan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GeSb-09Wan.json) |
+| GeSb-11Liu.tdb | J. Liu, C. Guo, C. Li, Z. Du, Thermochim. Acta, 520, 38-47(2011). [doi:10.1016/j.tca.2011.03.008](https://doi.org/10.1016/j.tca.2011.03.008) | `de4f32c2b1c6e2c272211f8b529244181a70e647d463b7768a1c53e861803bfb` | [viewer](https://orchid-project.org/phase-diagrams/#GE-SB/GeSb-11Liu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GeSb-11Liu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GeSb-11Liu.json) |
+| GeSb-89Che-LB.tdb | P.-Y. Chevalier, Thermochim. Acta, 155, 227-40 (1989). [doi:10.1016/0040-6031(89)87148-5](https://doi.org/10.1016/0040-6031%2889%2987148-5) | `6f34fa372184c8f172911340f12e86eaed30a05eb85dd35ba33584cfd3d7a5e3` | [viewer](https://orchid-project.org/phase-diagrams/#GE-SB/GeSb-89Che-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GeSb-89Che-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GeSb-89Che-LB.json) |
+| GeSb-99Sch.tdb | A. Schlieper, R. Blachnik, Z. Metallkd., 90, 475-85(1999). [doi:10.1515/ijmr-1999-900703](https://doi.org/10.1515/ijmr-1999-900703) | `dd406e1392cfa7492407a2847d0110dc7d09d0c7cf29a51c4c5df98561d38a1f` | [viewer](https://orchid-project.org/phase-diagrams/#GE-SB/GeSb-99Sch.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GeSb-99Sch.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GeSb-99Sch.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| GeSb-09Wan.tdb | 860.06 | DIAMOND_A4 (x(Sb) 9.000e-5) + LIQUID (x(Sb) 0.85713) + RHOMBOHEDRAL_A7 (x(Sb) 0.9965) |
+| GeSb-11Liu.tdb | 864.99 | DIAMOND_A4 (x(Sb) 9.000e-5) + LIQUID (x(Sb) 0.82495) + RHOMBOHEDRAL_A7 (x(Sb) 0.93753) |
+| GeSb-89Che-LB.tdb | 861.08 | DIAMOND_A4 (x(Sb) 1.700e-4) + LIQUID (x(Sb) 0.85308) + RHOMBOHEDRAL_A7 (x(Sb) 0.99826) |
+| GeSb-99Sch.tdb | 854.35 | DIAMOND_A4 (x(Sb) 1.000e-4) + LIQUID (x(Sb) 0.84569) + RHOMBOHEDRAL_A7 (x(Sb) 1) |
+| GeSb-99Sch.tdb | 854.35 | DIAMOND_A4 (x(Sb) 1.000e-4) + LIQUID (x(Sb) 0.84565) + RHOMBOHEDRAL_A7 (x(Sb) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GE/GE-SB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/GE-SB.json) · [CALPHAD hull GeSb-09Wan](https://data.orchid-project.org/hulls/calphad-sgte/GE/GE-SB--GeSb-09Wan.json) · [CALPHAD hull GeSb-89Che-LB](https://data.orchid-project.org/hulls/calphad-sgte/GE/GE-SB--GeSb-89Che-LB.json) · [CALPHAD hull GeSb-99Sch](https://data.orchid-project.org/hulls/calphad-sgte/GE/GE-SB--GeSb-99Sch.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ge–Sb system (11)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 865 | eutectic |  | model | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | p. 2 | “Olesinki et al. \[15\] recommend the temperature and composition of the eutectic reaction, 865 K and 85.0 at.% Sb, which is accepted in the present work.” |
+| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.775; diamond: Sb 0; rhom: Sb 0.937 | experimental | [2] Liu 2011; _cites Nasir 2009_ [doi](https://doi.org/10.1016/j.jssc.2008.12.009) | Table 2, p. 6, row 7 |  |
+| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.865; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Ruttewit 1940_ [doi](https://doi.org/10.1515/ijmr-1940-320302) | Table 2, p. 6, row 3 |  |
+| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.8249; diamond: Sb 1.000e-4; rhom: Sb 0.9375 | model | [2] Liu 2011 | Table 2, p. 6, row 1 |  |
+| 865 | eutectic |  | experimental | [3] Chewvalier 1989; _cites Stohr 1940_ [doi](https://doi.org/10.1002/zaac.19402440211) | p. 4 | “The eutectic point was located at xsb = 0.83, T = 861 K by Ruttewit and Masing \[25\] and at xsb = 0.87, T = 865 K by Stohr and Klemm \[27\].” |
+| 865 | Liq. -> diamond + rhom | Liq.: Sb 0.855; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 2, p. 6, row 4 |  |
+| 861 | eutectic |  | experimental | [3] Chewvalier 1989; _cites Ruttewit 1940_ | p. 4 | “The eutectic point was located at xsb = 0.83, T = 861 K by Ruttewit and Masing \[25\] and at xsb = 0.87, T = 865 K by Stohr and Klemm \[27\].” |
+| 860 | Liq. -> diamond + rhom | Liq.: Sb 0.857; diamond: Sb 1.000e-4; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.06.030) | Table 2, p. 6, row 6 |  |
+| 859 | Liq. -> diamond + rhom | Liq.: Sb 0.832 | experimental | [2] Liu 2011; _cites Stohr 1940_ [doi](https://doi.org/10.1002/zaac.19402440211) | Table 2, p. 6, row 2 |  |
+| 859 | Liq. -> diamond + rhom | Liq.: Sb 0.838; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987148-5) | Table 2, p. 6, row 5 |  |
+| 858.5 | eutectic |  | model | [3] Chewvalier 1989 | p. 9 | “The eutectic point was calculated at xoe = 0.162 and T = 858.5 K, which is in good agreement with the experimental data.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. J. Wang, C. Leinenbach, M. Roth, Thermodynamic description of the Au–Ge–Sb ternary system, Journal of Alloys and Compounds 485, 577-582 (2009). [doi:10.1016/j.jallcom.2009.06.030](https://doi.org/10.1016/j.jallcom.2009.06.030)
+2. Jinming Liu, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Ge–Sb and Ge–Sb–Sn systems, Thermochimica Acta 520, 38-47 (2011). [doi:10.1016/j.tca.2011.03.008](https://doi.org/10.1016/j.tca.2011.03.008)
+3. Pierre-Yves Chewvalier, A thermodynamic evaluation of the Ge-In, Ge-Pb, Ge-Sb, Ge-Tl and Ge-Zn systems, Thermochimica Acta 155, 227-240 (1989). [doi:10.1016/0040-6031(89)87148-5](https://doi.org/10.1016/0040-6031%2889%2987148-5)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

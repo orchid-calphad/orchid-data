@@ -1,0 +1,34 @@
+# Sm–W system
+
+> Sm–W system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/SM-W.html · Markdown: https://data.orchid-project.org/systems/SM-W.md
+
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SM-W/SmW-00Kri.json) · [Markdown](https://data.orchid-project.org/systems/SM-W.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| SmW-00Kri.tdb | N. Krishnamurthy, T. Kundu, A. Awasthi, S.P. Garg, Z. Metallkd., 91, 234-40(2000). [doi:10.1515/ijmr-2000-910311](https://doi.org/10.1515/ijmr-2000-910311) | `7ce2dd684d46486a1874ba5d34d67b5d9e770fde2016e353793124a9c2ac269d` | [viewer](https://orchid-project.org/phase-diagrams/#SM-W/SmW-00Kri.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/SmW-00Kri.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/SmW-00Kri.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| SmW-00Kri.tdb | 3646.35 | LIQUID (x(W) 0.02688) + LIQUID#2 (x(W) 0.97312) + BCC_A2 (x(W) 0.99815) |
+| SmW-00Kri.tdb | 1345 | BCC_A2#2 (x(W) 0) + LIQUID (x(W) 0) + BCC_A2 (x(W) 1) |
+| SmW-00Kri.tdb | 1195 | BCC_A2 (x(W) 0) + HCP_A3 (x(W) 0) + BCC_A2#2 (x(W) 1) |
+| SmW-00Kri.tdb | 1006.99 | HCP_A3 (x(W) 0) + RHOMB_C19 (x(W) 0) + BCC_A2 (x(W) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SM/SM-W.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SM/SM-W.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

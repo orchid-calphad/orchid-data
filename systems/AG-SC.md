@@ -1,0 +1,110 @@
+# Ag–Sc system
+
+> Ag–Sc system: 22 accepted literature values (phase transition 12, invariant reaction 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AG-SC.html · Markdown: https://data.orchid-project.org/systems/AG-SC.md
+
+22 accepted literature values from 1 paper(s) (experimental 13, model 9); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SC.json) · [CSV](https://data.orchid-project.org/systems/AG-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SC/AgSc-08GTT.json) · [Markdown](https://data.orchid-project.org/systems/AG-SC.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 13 |
+| model | 9 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 10 |
+| phase transition | 12 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AgSc-08GTT.tdb | GTT, unpublished, 2008 | `db418ccc9bec81b8117d53d097d23521dbd94ded43f7af4692e66a8ae30cfd70` | [viewer](https://orchid-project.org/phase-diagrams/#AG-SC/AgSc-08GTT.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgSc-08GTT.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgSc-08GTT.json) |
+| AgSc-09Liu.tdb | X.J. Liu, S.L. Wang, C.P. Wang, J. Alloys Compd., 469, 186-92(2009). [doi:10.1016/j.jallcom.2008.02.018](https://doi.org/10.1016/j.jallcom.2008.02.018) | `e16ba0ef60c776675c6649eb94abcb79fab658c5daf5868d6ecbf9f1e2ec540c` | [viewer](https://orchid-project.org/phase-diagrams/#AG-SC/AgSc-09Liu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgSc-09Liu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgSc-09Liu.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AgSc-08GTT.tdb | 1607.9 | LIQUID (x(Sc) 0.92478) + BCC_A2 (x(Sc) 0.99996) + HCP_A3 (x(Sc) 0.99998) |
+| AgSc-08GTT.tdb | 1607.9 | LIQUID (x(Sc) 0.92479) + BCC_A2 (x(Sc) 0.99996) + HCP_A3 (x(Sc) 0.99998) |
+| AgSc-08GTT.tdb | 1607.9 | LIQUID (x(Sc) 0.92479) + BCC_A2 (x(Sc) 0.99996) + HCP_A3 (x(Sc) 0.99998) |
+| AgSc-08GTT.tdb | 1420.27 | AG2SC_C11B (x(Sc) 0.33333) + LIQUID (x(Sc) 0.35586) + AGSC_B2 (x(Sc) 0.5) |
+| AgSc-08GTT.tdb | 1420.27 | AG2SC_C11B (x(Sc) 0.33333) + LIQUID (x(Sc) 0.35571) + AGSC_B2 (x(Sc) 0.5) |
+| AgSc-08GTT.tdb | 1420.27 | AG2SC_C11B (x(Sc) 0.33333) + LIQUID (x(Sc) 0.35617) + AGSC_B2 (x(Sc) 0.5) |
+| AgSc-08GTT.tdb | 1217.88 | LIQUID (x(Sc) 0.10582) + AG4SC_D1A (x(Sc) 0.2) + AG2SC_C11B (x(Sc) 0.33333) |
+| AgSc-08GTT.tdb | 1207.63 | FCC_A1 (x(Sc) 0.07005) + LIQUID (x(Sc) 0.09541) + AG4SC_D1A (x(Sc) 0.2) |
+| AgSc-08GTT.tdb | 1167.38 | AGSC_B2 (x(Sc) 0.5) + LIQUID (x(Sc) 0.7728) + HCP_A3 (x(Sc) 0.99989) |
+| AgSc-08GTT.tdb | 1167.38 | AGSC_B2 (x(Sc) 0.5) + LIQUID (x(Sc) 0.77275) + HCP_A3 (x(Sc) 0.99989) |
+| AgSc-09Liu.tdb | 1608.04 | LIQUID (x(Sc) 0.92007) + HCP_A3 (x(Sc) 0.99987) + BCC_A2 (x(Sc) 0.99988) |
+| AgSc-09Liu.tdb | 1608.04 | LIQUID (x(Sc) 0.92008) + HCP_A3 (x(Sc) 0.99987) + BCC_A2 (x(Sc) 0.99988) |
+| AgSc-09Liu.tdb | 1404.44 | AG2SC_C11B (x(Sc) 0.33333) + LIQUID (x(Sc) 0.38886) + AGSC_B2 (x(Sc) 0.5) |
+| AgSc-09Liu.tdb | 1404.44 | AG2SC_C11B (x(Sc) 0.33333) + LIQUID (x(Sc) 0.38872) + AGSC_B2 (x(Sc) 0.5) |
+| AgSc-09Liu.tdb | 1404.44 | AG2SC_C11B (x(Sc) 0.33333) + LIQUID (x(Sc) 0.38886) + AGSC_B2 (x(Sc) 0.5) |
+| AgSc-09Liu.tdb | 1208.69 | LIQUID (x(Sc) 0.16421) + AG4SC_D1A (x(Sc) 0.2) + AG2SC_C11B (x(Sc) 0.33333) |
+| AgSc-09Liu.tdb | 1208.69 | LIQUID (x(Sc) 0.16441) + AG4SC_D1A (x(Sc) 0.2) + AG2SC_C11B (x(Sc) 0.33333) |
+| AgSc-09Liu.tdb | 1198.91 | FCC_A1 (x(Sc) 0.11506) + LIQUID (x(Sc) 0.13948) + AG4SC_D1A (x(Sc) 0.2) |
+| AgSc-09Liu.tdb | 1198.91 | FCC_A1 (x(Sc) 0.11459) + LIQUID (x(Sc) 0.13911) + AG4SC_D1A (x(Sc) 0.2) |
+| AgSc-09Liu.tdb | 1192.17 | AGSC_B2 (x(Sc) 0.5) + LIQUID (x(Sc) 0.78725) + HCP_A3 (x(Sc) 0.99993) |
+| AgSc-09Liu.tdb | 1192.17 | AGSC_B2 (x(Sc) 0.5) + LIQUID (x(Sc) 0.78717) + HCP_A3 (x(Sc) 0.99993) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-SC.json) · [CALPHAD hull AgSc-08GTT](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-SC--AgSc-08GTT.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ag–Sc system (10)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1404.45 | Eutectic: L -> AgSc + Ag2Sc | L: Sc 0.389; AgSc: Sc 0.5; Ag2Sc: Sc 0.333 | model | [1] Liu 2009 | Table 3, p. 4, row 11 |  |
+| 1403.15 | Eutectic: L -> AgSc + Ag2Sc | L: Sc 0.4; AgSc: Sc 0.5; Ag2Sc: Sc 0.333 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 10 |  |
+| 1209.15 | Peritectic: L + Ag2Sc -> Ag4Sc | Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 14 |  |
+| 1208.75 | Peritectic: L + Ag2Sc -> Ag4Sc | L: Sc 0.164; Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | model | [1] Liu 2009 | Table 3, p. 4, row 16 |  |
+| 1199.15 | Eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.12; Ag4Sc: Sc 0.2; (Ag): Sc 0.104 | experimental | [1] Liu 2009; _cites Gschneidner 1971_ | Table 3, p. 4, row 17 |  |
+| 1198.95 | Eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.139; Ag4Sc: Sc 0.2; (Ag): Sc 0.115 | model | [1] Liu 2009 | Table 3, p. 4, row 19 |  |
+| 1193.15 | Eutectic: L -> αSc + AgSc | L: Sc 0.8; αSc: Sc 1; AgSc: Sc 0.5 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 6 |  |
+| 1193.15 | Eutectic: L -> αSc + AgSc | L: Sc 0.787; αSc: Sc 1; AgSc: Sc 0.5 | model | [1] Liu 2009 | Table 3, p. 4, row 7 |  |
+| 1193.15 | Peritectic: L + Ag2Sc -> Ag4Sc | L: Sc 0.115; Ag2Sc: Sc 0.333; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 15 |  |
+| 1183.15 | Eutectic: L -> Ag4Sc + (Ag) | L: Sc 0.1; Ag4Sc: Sc 0.2 | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 18 |  |
+
+## Other properties
+
+### Phase transition (12)
+
+Table: Phase transition, Ag–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1233.65 K | 1233.65 | Melting: L -> (Ag); _(Ag): Sc 0_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 21 |  |
+| Phase transition | 1235.05 K | 1235.05 | Melting: L -> (Ag); _(Ag): Sc 0_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 20 |  |
+| Phase transition | 1235.05 K | 1235.05 | Melting: L -> (Ag); _(Ag): Sc 0_ | model | [1] Liu 2009 | Table 3, p. 4, row 22 |  |
+| Phase transition | 1427.85 K | 1427.85 | Congruent: L -> Ag2Sc; _L: Sc 0.333; Ag2Sc: Sc 0.333_ | model | [1] Liu 2009 | Table 3, p. 4, row 13 |  |
+| Phase transition | 1428.15 K | 1428.15 | Congruent: L -> Ag2Sc; _L: Sc 0.333; Ag2Sc: Sc 0.333_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 12 |  |
+| Phase transition | 1502.95 K | 1502.95 | Congruent: L -> AgSc; _L: Sc 0.5; AgSc: Sc 0.5_ | model | [1] Liu 2009 | Table 3, p. 4, row 9 |  |
+| Phase transition | 1503.15 K | 1503.15 | Congruent: L -> AgSc; _L: Sc 0.5; AgSc: Sc 0.5_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 8 |  |
+| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc -> αSc; _αSc: Sc 1_ | model | [1] Liu 2009 | Table 3, p. 4, row 5 |  |
+| Phase transition | 1610.15 K | 1610.15 | Polymorphic: βSc -> αSc; _αSc: Sc 1_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 4 |  |
+| Phase transition | 1811.15 K | 1811.15 | Melting: L -> βSc; _βSc: Sc 1_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 2 |  |
+| Phase transition | 1814.15 K | 1814.15 | Melting: L -> βSc; _βSc: Sc 1_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 1 |  |
+| Phase transition | 1814.15 K | 1814.15 | Melting: L -> βSc; _βSc: Sc 1_ | model | [1] Liu 2009 | Table 3, p. 4, row 3 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. X.J. Liu, S.L. Wang, C.P. Wang, Thermodynamic assessments of the Sc–M (M: Ag, B and Th) systems, Journal of Alloys and Compounds 469, 186-192 (2009). [doi:10.1016/j.jallcom.2008.02.018](https://doi.org/10.1016/j.jallcom.2008.02.018)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

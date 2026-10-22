@@ -1,0 +1,45 @@
+# Ta–O system
+
+> Ta–O system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/TA-O.html · Markdown: https://data.orchid-project.org/systems/TA-O.md
+
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-O/TaO-22Geb.json) · [Markdown](https://data.orchid-project.org/systems/TA-O.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| TaO-22Geb.tdb | J. Gebauer, P. Franke, H.J. Seifert, Adv. Eng. Mater., 24, 2200162(2022). [doi:10.1002/adem.202200162](https://doi.org/10.1002/adem.202200162) | `886665f3a1ed281c92719e281b5247ade935ba1773cf312fa01e4d2de8168932` | [viewer](https://orchid-project.org/phase-diagrams/#TA-O/TaO-22Geb.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TaO-22Geb.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TaO-22Geb.json) |
+| TaO-22Mei-ass.tdb | K.J. Meisner, R. Zaman, B.-C. Zhou, Calphad, 76, 102391(2022). [doi:10.1016/j.calphad.2022.102391](https://doi.org/10.1016/j.calphad.2022.102391) | `50b2e3a96e3d3b0adfab3aacebc20d09951478f5c844fbdcf7db18813f66796a` | [viewer](https://orchid-project.org/phase-diagrams/#TA-O/TaO-22Mei-ass.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TaO-22Mei-ass.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TaO-22Mei-ass.json) |
+| TaO-22Mei-ion.tdb | K.J. Meisner, R. Zaman, B.-C. Zhou, Calphad, 76, 102391(2022). [doi:10.1016/j.calphad.2022.102391](https://doi.org/10.1016/j.calphad.2022.102391) | `88e6b32a585417593d2a462622bfaa268565f551f208ca1fc11f1ec3eec9850f` | [viewer](https://orchid-project.org/phase-diagrams/#TA-O/TaO-22Mei-ion.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TaO-22Mei-ion.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TaO-22Mei-ion.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| TaO-22Geb.tdb | 2153 | BCC_A2 (x(O) 0.04874) + ION#2 (x(O) 0.34244) + ION (x(O) 0.64856) |
+| TaO-22Geb.tdb | 2144.99 | ION (x(O) 0.71429) + TA2O5_HT (x(O) 0.71429) + O2GAS (x(O) 1) |
+| TaO-22Geb.tdb | 1823 | BCC_A2 (x(O) 0.0495) + ION (x(O) 0.68044) + TA2O5_HT (x(O) 0.71429) |
+| TaO-22Geb.tdb | 1593.01 | BCC_A2 (x(O) 0.04113) + TA2O5_LT (x(O) 0.71429) + TA2O5_HT (x(O) 0.71429) |
+| TaO-22Geb.tdb | 1593.01 | TA2O5_LT (x(O) 0.71429) + TA2O5_HT (x(O) 0.71429) + O2GAS (x(O) 1) |
+| TaO-22Mei-ass.tdb | 2193.15 | BCC_A2 (x(O) 0.05104) + LIQUID#2 (x(O) 0.27566) + LIQUID (x(O) 0.58075) |
+| TaO-22Mei-ass.tdb | 2152.5 | TA2O5_HT (x(O) 0.71429) + LIQUID (x(O) 0.7154) + O2GAS (x(O) 1) |
+| TaO-22Mei-ass.tdb | 1914.25 | BCC_A2 (x(O) 0.05535) + LIQUID (x(O) 0.60278) + TA2O5_HT (x(O) 0.71429) |
+| TaO-22Mei-ass.tdb | 1592.88 | BCC_A2 (x(O) 0.04313) + TA2O5_LT (x(O) 0.71429) + TA2O5_HT (x(O) 0.71429) |
+| TaO-22Mei-ass.tdb | 1592.88 | TA2O5_LT (x(O) 0.71429) + TA2O5_HT (x(O) 0.71429) + O2GAS (x(O) 1) |
+| TaO-22Mei-ion.tdb | 2169.22 | ION (x(O) 0.71429) + TA2O5_HT (x(O) 0.71429) + O2GAS (x(O) 1) |
+| TaO-22Mei-ion.tdb | 2011.24 | BCC_A2 (x(O) 0.05113) + ION#2 (x(O) 0.29261) + ION (x(O) 0.5861) |
+| TaO-22Mei-ion.tdb | 1787.58 | BCC_A2 (x(O) 0.04767) + ION (x(O) 0.61268) + TA2O5_HT (x(O) 0.71429) |
+| TaO-22Mei-ion.tdb | 1592.88 | BCC_A2 (x(O) 0.04067) + TA2O5_LT (x(O) 0.71429) + TA2O5_HT (x(O) 0.71429) |
+| TaO-22Mei-ion.tdb | 1592.88 | TA2O5_LT (x(O) 0.71429) + TA2O5_HT (x(O) 0.71429) + O2GAS (x(O) 1) |
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

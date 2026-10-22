@@ -1,0 +1,86 @@
+# Co–Cu–Zr system
+
+> Co–Cu–Zr system: 37 accepted literature values (invariant reaction 19, phase equilibrium 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/CO-CU-ZR.html · Markdown: https://data.orchid-project.org/systems/CO-CU-ZR.md
+
+37 accepted literature values from 1 paper(s) (experimental 18, model 19); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CU-ZR.json) · [CSV](https://data.orchid-project.org/systems/CO-CU-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CU-ZR) · [Markdown](https://data.orchid-project.org/systems/CO-CU-ZR.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 18 |
+| model | 19 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 19 |
+| phase equilibrium | 18 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Co–Cu–Zr system (19)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1683 | max: L + Co2Zr \<-> Co23Zr6 | L: Co 0.00653, Cu 0.00161, Zr 0.00186 | model | [1] Zhou 2022 | Table 4, p. 8, row 1 |  |
+| 1633 | max: L + Co2Zr \<-> Cu51Zr14 | L: Co 0.00334, Cu 0.00457, Zr 0.00209 | model | [1] Zhou 2022 | Table 4, p. 8, row 2 |  |
+| 1628 | U: L + Co2Zr \<-> Co23Zr6 + Cu51Zr14 | L: Co 0.00365, Cu 0.00449, Zr 0.00186 | model | [1] Zhou 2022 | Table 4, p. 8, row 10 |  |
+| 1600 | max: L + Co2Zr \<-> (Co,Cu)Zr | L: Co 0.00499, Cu 3.600e-4, Zr 0.00465 | model | [1] Zhou 2022 | Table 4, p. 8, row 3 |  |
+| 1567 | E: L \<-> L + Co23Zr6 + Cu51Zr14 | L: Co 0.00204, Cu 0.00686, Zr 0.0011 | model | [1] Zhou 2022 | Table 4, p. 8, row 12 |  |
+| 1567 | U: L + L \<-> Cu51Zr14 + Co23Zr6 | L: Co 5.700e-4, Cu 0.00904, Zr 3.900e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 11 |  |
+| 1491 | U: L + Co11Zr2 \<-> Co23Zr6 + A1(Co) | L: Co 0.00865, Cu 4.600e-4, Zr 8.900e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 13 |  |
+| 1457 | U: L + L \<-> Co23Zr6 + A1(Cu) | L: Co 8.400e-4, Cu 0.00914, Zr 2.000e-5 | model | [1] Zhou 2022 | Table 4, p. 8, row 14 |  |
+| 1457 | E: L \<-> L + Co23Zr6 + A1(Co) | L: Co 0.0059, Cu 0.00345, Zr 6.500e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 15 |  |
+| 1423 | U: L + Co2Zr \<-> (Co,Cu)Zr + Cu51Zr14 | L: Co 0.00197, Cu 0.00452, Zr 0.00351 | model | [1] Zhou 2022 | Table 4, p. 8, row 16 |  |
+| 1403 | P: L + (Co,Cu)Zr + Cu51Zr14 \<-> Cu8Zr3 | L: Co 0.00168, Cu 0.00479, Zr 0.00353 | model | [1] Zhou 2022 | Table 4, p. 8, row 17 |  |
+| 1400 | max: L + (Co,Cu)Zr \<-> CoZr2 | L: Co 0.00269, Cu 7.300e-4, Zr 0.00658 | model | [1] Zhou 2022 | Table 4, p. 8, row 7 |  |
+| 1378 | U: L + A1(Co) \<-> Co23Zr6 + A1(Cu) | L: Co 5.400e-4, Cu 0.00945, Zr 1.000e-5 | model | [1] Zhou 2022 | Table 4, p. 8, row 18 |  |
+| 1342 | U: L + Co23Zr6 \<-> Cu51Zr14 + A1(Cu) | L: Co 8.000e-5, Cu 0.00977, Zr 1.500e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 19 |  |
+| 1332 | max: L \<-> A2(Zr) + CoZr2 | L: Co 0.00181, Cu 6.200e-4, Zr 0.00757 | model | [1] Zhou 2022 | Table 4, p. 8, row 8 |  |
+| 1318 | max: L + CoZr2 \<-> CuZr2 | L: Co 7.600e-4, Cu 0.00257, Zr 0.00667 | model | [1] Zhou 2022 | Table 4, p. 8, row 9 |  |
+| 1313 | U: L + CoZr2 \<-> CuZr2 + (Co,Cu)Zr | L: Co 8.000e-4, Cu 0.00285, Zr 0.00635 | model | [1] Zhou 2022 | Table 4, p. 8, row 20 |  |
+| 1288 | U: L + CoZr2 \<-> A2(Zr) + CuZr2 | L: Co 6.700e-4, Cu 0.00193, Zr 0.0074 | model | [1] Zhou 2022 | Table 4, p. 8, row 21 |  |
+| 1266 | U: L + Cu51Zr14 \<-> Cu5Zr + A1(Cu) | L: Co 2.000e-5, Cu 0.00932, Zr 6.600e-4 | model | [1] Zhou 2022 | Table 4, p. 8, row 22 |  |
+
+## Other properties
+
+### Phase equilibrium (18)
+
+Table: Phase equilibrium, Co–Cu–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase composition |  | 1023 | (Co,Cu)Zr; _(Co,Cu)Zr: Co 0.0424, Cu 0.4523, Zr 0.5053_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 7 |  |
+| Phase composition |  | 1023 | (Co,Cu)Zr + Co2Zr + Cu51Zr14; _(Co,Cu)Zr: Co 0.3835, Cu 0.1127, Zr 0.5038; Co2Zr: Co 0.5496, Cu 0.1185, Zr 0.3319; Cu51Zr14: Co 0.2089, Cu 0.5735, Zr 0.2176_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 8 |  |
+| Phase composition |  | 1023 | (Co,Cu)Zr + Cu10Zr7 + Cu8Zr3; _(Co,Cu)Zr: Co 0.132, Cu 0.3637, Zr 0.5043; Cu10Zr7: Co 0.0445, Cu 0.5418, Zr 0.4137; Cu8Zr3: Co 0.0585, Cu 0.663, Zr 0.2785_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 10 |  |
+| Phase composition |  | 1023 | (Co,Cu)Zr + Cu8Zr3; _(Co,Cu)Zr: Co 0.311, Cu 0.1842, Zr 0.5048; Cu8Zr3: Co 0.1079, Cu 0.6049, Zr 0.2872_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 9 |  |
+| Phase composition |  | 1023 | (Co,Cu)Zr + Cu8Zr3 + Cu51Zr14; _(Co,Cu)Zr: Co 0.3365, Cu 0.1664, Zr 0.4971; Cu8Zr3: Co 0.1449, Cu 0.5711, Zr 0.284; Cu51Zr14: Co 0.1463, Cu 0.6279, Zr 0.2258_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 12 |  |
+| Phase composition |  | 1023 | A3(Zr) + CoZr3 + CuZr2; _A3(Zr): Co 2.000e-4, Cu 0.003, Zr 0.9968; CoZr3: Co 0.1942, Cu 0.0495, Zr 0.7563; CuZr2: Co 0.0675, Cu 0.2628, Zr 0.6697_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 1 |  |
+| Phase composition |  | 1023 | Co23Zr6 + A1(Co); _Co23Zr6: Co 0.7254, Cu 0.0781, Zr 0.1965; A1(Co): Co 0.9437, Cu 0.0374, Zr 0.0189_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 14 |  |
+| Phase composition |  | 1023 | Co23Zr6 + A1(Cu); _Co23Zr6: Co 0.6209, Cu 0.1656, Zr 0.2135; A1(Cu): Co 0.0476, Cu 0.95, Zr 0.0024_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 15 |  |
+| Phase composition |  | 1023 | Co23Zr6 + Cu51Zr14 + A1(Cu); _Co23Zr6: Co 0.4058, Cu 0.378, Zr 0.2162; Cu51Zr14: Co 0.2391, Cu 0.5411, Zr 0.2198; A1(Cu): Co 0.0069, Cu 0.9928, Zr 3.000e-4_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 16 |  |
+| Phase composition |  | 1023 | Co2Zr + Co23Zr6; _Co2Zr: Co 0.5783, Cu 0.1097, Zr 0.312; Co23Zr6: Co 0.4454, Cu 0.341, Zr 0.2136_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 13 |  |
+| Phase composition |  | 1023 | CoZr2 + (Co,Cu)Zr; _CoZr2: Co 0.2652, Cu 0.0605, Zr 0.6743; (Co,Cu)Zr: Co 0.3119, Cu 0.1752, Zr 0.5129_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 3 |  |
+| Phase composition |  | 1023 | CoZr2 + CuZr2 + (Co,Cu)Zr; _CoZr2: Co 0.2294, Cu 0.0983, Zr 0.6723; CuZr2: Co 0.0806, Cu 0.2435, Zr 0.6759; (Co,Cu)Zr: Co 0.2228, Cu 0.2569, Zr 0.5203_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 4 |  |
+| Phase composition |  | 1023 | CoZr3 + CoZr2 + CuZr2; _CoZr3: Co 0.1921, Cu 0.0424, Zr 0.7655; CoZr2: Co 0.2403, Cu 0.0884, Zr 0.6713; CuZr2: Co 0.0727, Cu 0.2533, Zr 0.674_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 2 |  |
+| Phase composition |  | 1023 | Cu10Zr7 + Cu8Zr3; _Cu10Zr7: Co 0.041, Cu 0.5457, Zr 0.4133; Cu8Zr3: Co 0.0193, Cu 0.6963, Zr 0.2844_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 11 |  |
+| Phase composition |  | 1023 | Cu51Zr14 + A1(Cu); _Cu51Zr14: Co 0.2303, Cu 0.5565, Zr 0.2132; A1(Cu): Co 0.0218, Cu 0.9763, Zr 0.0019_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 17 |  |
+| Phase composition |  | 1023 | Cu51Zr14 + Cu5Zr + A1(Cu); _Cu51Zr14: Co 0.0754, Cu 0.7129, Zr 0.2117; Cu5Zr: Co 0.0413, Cu 0.7935, Zr 0.1652; A1(Cu): Co 0.0119, Cu 0.9853, Zr 0.0028_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 18 |  |
+| Phase composition |  | 1023 | CuZr2 + (Co,Cu)Zr; _CuZr2: Co 0.0435, Cu 0.2793, Zr 0.6772; (Co,Cu)Zr: Co 0.1722, Cu 0.3179, Zr 0.5099_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 6 |  |
+| Phase composition |  | 1023 | CuZr2 + (Co,Cu)Zr; _CuZr2: Co 0.0648, Cu 0.2614, Zr 0.6738; (Co,Cu)Zr: Co 0.2403, Cu 0.2508, Zr 0.5089_ | experimental | [1] Zhou 2022 | Table 2, p. 4, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Chenyang Zhou, Haipeng Jin, Huakou Yang, Jinming Liu, Hang Wang, Bin Yang, Phase diagram, thermodynamic modeling and predictions of glass-forming range and ability in the Co–Cu–Zr system, Journal of Non-Crystalline Solids 588, 121615 (2022). [doi:10.1016/j.jnoncrysol.2022.121615](https://doi.org/10.1016/j.jnoncrysol.2022.121615)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

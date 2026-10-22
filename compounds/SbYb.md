@@ -1,0 +1,38 @@
+# SbYb: enthalpy of formation
+
+> Enthalpy of formation of SbYb: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/SbYb.html · Markdown: https://data.orchid-project.org/compounds/SbYb.md
+
+2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -62 kJ/mol-atom (n = 1); OQMD -77.662 kJ/mol-atom (oqmd-336040).
+
+Systems: [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html)
+
+## Literature values
+
+Table: Enthalpy of formation of SbYb reported in the literature (2)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -62 kJ/mol-atom | YbSb | 298.15 | experimental | Experiment | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Pratt 1970_ | Table 1, p. 27, row 15 |  |
+| -64.03 kJ/mol-atom | YbSb | 0 | DFT | DFT | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 16 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of SbYb
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| OQMD | oqmd-336040 | -77.662 | -0.804911 | P4/mmm | 11.205 | yes |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Jorge Paz Soldan Palma, XiaoYu Chong, Yi Wang, Shun-Li Shang, Zi-Kui Liu, Thermodynamic re-modeling of the Yb-Sb system aided by first-principles calculations, Calphad 81, 102541 (2023). [doi:10.1016/j.calphad.2023.102541](https://doi.org/10.1016/j.calphad.2023.102541)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

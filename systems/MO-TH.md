@@ -1,0 +1,97 @@
+# Mo–Th system
+
+> Mo–Th system: 29 accepted literature values (activity / EMF / Gibbs energy 22, invariant reaction 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MO-TH.html · Markdown: https://data.orchid-project.org/systems/MO-TH.md
+
+29 accepted literature values from 1 paper(s) (experimental 16, model 13); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-TH.json) · [CSV](https://data.orchid-project.org/systems/MO-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-TH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-TH/MoTh-08Wan.json) · [Markdown](https://data.orchid-project.org/systems/MO-TH.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 16 |
+| model | 13 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 7 |
+| activity / EMF / Gibbs energy | 22 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MoTh-08Wan.tdb | C.P. Wang, Y.F. Li, X.J. Liu, K. Ishida, J. Alloys Compd., 458, 208-13(2008). [doi:10.1016/j.jallcom.2007.04.017](https://doi.org/10.1016/j.jallcom.2007.04.017) | `9dd8dd721be616f7a20e3e9106458b1e741a0c3d8e6753f8e5d6e6e370cadfe0` | [viewer](https://orchid-project.org/phase-diagrams/#MO-TH/MoTh-08Wan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoTh-08Wan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoTh-08Wan.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MoTh-08Wan.tdb | 1651.03 | BCC_A2 (x(Th) 0.00609) + LIQUID (x(Th) 0.86283) + BCC_A2#2 (x(Th) 0.98063) |
+| MoTh-08Wan.tdb | 1628.22 | BCC_A2 (x(Th) 0.00577) + BCC_A2#2 (x(Th) 0.98214) + FCC_A1 (x(Th) 0.98533) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MO/MO-TH.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MO/MO-TH.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mo–Th system (7)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1655.15 | eutectic: L -> (Mo) + βTh | L: Mo 0.86; (Mo): Mo 0.985; βTh: Mo 0.014 | experimental | [1] Wang 2008; _cites Garg 1978_ | Table 5, p. 4, row 3 |  |
+| 1653.15 | eutectic: L -> (Mo) + βTh | L: Mo 0.86 | experimental | [1] Wang 2008; _cites Okamoto 2000_ | Table 5, p. 4, row 1 |  |
+| 1653.15 | eutectic: L -> (Mo) + βTh | L: Mo 0.86 | experimental | [1] Wang 2008; _cites Brewer 1982_ [doi](https://doi.org/10.1007/bf02869295) | Table 5, p. 4, row 2 |  |
+| 1651.05 | eutectic: L -> (Mo) + βTh | L: Mo 0.863; (Mo): Mo 0.981; βTh: Mo 0.006 | model | [1] Wang 2008 | Table 5, p. 4, row 4 |  |
+| 1629.15 | L -> (Mo) + αTh |  | experimental | [1] Wang 2008; _cites Okamoto 2000_ | Table 5, p. 4, row 5 |  |
+| 1629.15 | L -> (Mo) + αTh | (Mo): Mo 1 | experimental | [1] Wang 2008; _cites Brewer 1982_ [doi](https://doi.org/10.1007/bf02869295) | Table 5, p. 4, row 6 |  |
+| 1628.25 | L -> (Mo) + αTh | L: Mo 0.982; (Mo): Mo 0.986; αTh: Mo 0.006 | model | [1] Wang 2008 | Table 5, p. 4, row 7 |  |
+
+## Other properties
+
+### Activity / EMF / Gibbs energy (22)
+
+Table: Activity / EMF / Gibbs energy, Mo–Th system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Activity Mo; _printed: Activity of Mo_ | 0.2812 1 | 1661.15 | liquid; _alloy: Mo 0.14, Th 0.86_ | model | [1] Wang 2008 | Table 6, p. 5, row 2 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.2968 1 | 1661.15 | liquid; _alloy: Mo 0.14, Th 0.86_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 1 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.3198 1 | 1708.15 | liquid; _alloy: Mo 0.153, Th 0.847_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 3 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.3056 1 | 1708.15 | liquid; _alloy: Mo 0.153, Th 0.847_ | model | [1] Wang 2008 | Table 6, p. 5, row 4 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.346 1 | 1754.15 | liquid; _alloy: Mo 0.164, Th 0.836_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 5 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.3296 1 | 1754.15 | liquid; _alloy: Mo 0.164, Th 0.836_ | model | [1] Wang 2008 | Table 6, p. 5, row 6 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.3856 1 | 1820.15 | liquid; _alloy: Mo 0.177, Th 0.823_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 7 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.352 1 | 1820.15 | liquid; _alloy: Mo 0.177, Th 0.823_ | model | [1] Wang 2008 | Table 6, p. 5, row 8 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.4183 1 | 1879.15 | liquid; _alloy: Mo 0.178, Th 0.822_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 9 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.344 1 | 1879.15 | liquid; _alloy: Mo 0.178, Th 0.822_ | model | [1] Wang 2008 | Table 6, p. 5, row 10 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.4347 1 | 1908.15 | liquid; _alloy: Mo 0.208, Th 0.792_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 11 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.41 1 | 1908.15 | liquid; _alloy: Mo 0.208, Th 0.792_ | model | [1] Wang 2008 | Table 6, p. 5, row 12 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.411 1 | 1980.15 | liquid; _alloy: Mo 0.214, Th 0.786_ | model | [1] Wang 2008 | Table 6, p. 5, row 14 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.4836 1 | 1980.15 | liquid; _alloy: Mo 0.214, Th 0.786_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 13 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.5408 1 | 2063.15 | liquid; _alloy: Mo 0.26, Th 0.74_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 15 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.4999 1 | 2063.15 | liquid; _alloy: Mo 0.26, Th 0.74_ | model | [1] Wang 2008 | Table 6, p. 5, row 16 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.542 1 | 2171.15 | liquid; _alloy: Mo 0.3, Th 0.7_ | model | [1] Wang 2008 | Table 6, p. 5, row 18 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.591 1 | 2171.15 | liquid; _alloy: Mo 0.3, Th 0.7_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 17 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.665 1 | 2286.15 | liquid; _alloy: Mo 0.38, Th 0.62_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 19 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.6379 1 | 2286.15 | liquid; _alloy: Mo 0.38, Th 0.62_ | model | [1] Wang 2008 | Table 6, p. 5, row 20 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.7018 1 | 2392.15 | liquid; _alloy: Mo 0.453, Th 0.547_ | model | [1] Wang 2008 | Table 6, p. 5, row 22 |  |
+| Activity Mo; _printed: Activity of Mo_ | 0.7428 1 | 2392.15 | liquid; _alloy: Mo 0.453, Th 0.547_ | experimental | [1] Wang 2008; _cites Garg 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 6, p. 5, row 21 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. C.P. Wang, Y.F. Li, X.J. Liu, K. Ishida, Thermodynamic assessments of the Cu–Th and Mo–Th systems, Journal of Alloys and Compounds 458, 208-213 (2008). [doi:10.1016/j.jallcom.2007.04.017](https://doi.org/10.1016/j.jallcom.2007.04.017)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

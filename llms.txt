@@ -1,0 +1,31 @@
+# ORCHID data
+
+> ORCHID data: 79,942 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,322 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
+
+Evidence classes are never mixed: experimental | model (CALPHAD, linked to the TDB by SHA-256) | dft | unspecified.
+Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temperatures in K; compositions in mole fraction.
+
+## Per system (SYS = element symbols, uppercase, sorted alphabetically, joined by '-', e.g. AL-NI)
+- Markdown page: https://data.orchid-project.org/systems/<SYS>.md (summary, calculated diagrams, invariants, formation enthalpies with DFT, other properties, sources)
+- HTML page: https://data.orchid-project.org/systems/<SYS>.html
+- CSV: https://data.orchid-project.org/systems/<SYS>.csv (all records incl. not accepted; column extraction_accepted)
+- Full JSON records: https://data.orchid-project.org/literature/systems/<SYS>.json (large systems: also <SYS>.part2.json ...; see literature/index.json)
+- Calculated phase diagrams: https://data.orchid-project.org/phase-diagrams/index.json -> phase-diagrams/sgte/<file>.json
+
+## Indexes
+- [Systems](https://data.orchid-project.org/systems/index.md)
+- [Compounds (formation enthalpies, literature vs Materials Project / OQMD)](https://data.orchid-project.org/compounds/index.md); per compound: https://data.orchid-project.org/compounds/<FORMULA>.md
+- [Reporting papers](https://data.orchid-project.org/papers/index.md)
+- [All systems with one-line summaries](https://data.orchid-project.org/llms-full.txt)
+- [Field reference](https://data.orchid-project.org/literature/SCHEMA.md)
+
+## Bulk files
+- https://data.orchid-project.org/literature/orchid-literature.jsonl.gz (all records, one JSON object per line)
+- https://data.orchid-project.org/literature/orchid-literature.csv.gz (all records, flattened)
+- https://data.orchid-project.org/literature/dft_parity.json (literature formation enthalpies vs DFT)
+
+## Licence and citation
+- Derived data CC BY 4.0. Cite the ORCHID release (https://data.orchid-project.org/CITATION.cff) and each value's source paper (DOI given per value).
+- Quotes: one verbatim sentence per value, fair use. Source papers, page images and full text are not redistributed.
+- Use values with extraction_accepted = true unless you handle disputes; uncertainty with basis stated_default is a placeholder, not a measurement.
+- Project site: https://orchid-project.org/ (interactive explorer https://orchid-project.org/data-explorer/#<SYS>)

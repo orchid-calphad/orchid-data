@@ -1,0 +1,137 @@
+# Bi–Nd system
+
+> Bi–Nd system: 23 accepted literature values (invariant reaction 19, phase transition 3, activity / EMF / Gibbs energy 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/BI-ND.html · Markdown: https://data.orchid-project.org/systems/BI-ND.md
+
+23 accepted literature values from 2 paper(s) (experimental 14, model 9); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-ND.json) · [CSV](https://data.orchid-project.org/systems/BI-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-ND/BiNd-10Wan.json) · [Markdown](https://data.orchid-project.org/systems/BI-ND.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 14 |
+| model | 9 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 19 |
+| phase transition | 3 |
+| activity / EMF / Gibbs energy | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| BiNd-10Wan.tdb | C.P. Wang, H.L. Zhang, A.T. Tang, F.S. Pan, X.J. Liu, J. Alloys Compd., 502, 43-48(2010). [doi:10.1016/j.jallcom.2010.03.042](https://doi.org/10.1016/j.jallcom.2010.03.042) | `b10b8cb0c572dee3898e96f0fc2136a7f6b5357086f35b218832694eed64e941` | [viewer](https://orchid-project.org/phase-diagrams/#BI-ND/BiNd-10Wan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/BiNd-10Wan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/BiNd-10Wan.json) |
+| BiNd-22Im.tdb | S. Im, S.-L. Shang, N.D. Smith, A.M. Krajewski, T. Lichtenstein, H. Sun, B.J. Bocklund, Z.-K. Liu, H. Kim, Acta Mater., 223, 117448(2022). [doi:10.1016/j.actamat.2021.117448](https://doi.org/10.1016/j.actamat.2021.117448) | `9860ba3a27df60f38be9d9ec8378f51097519dec6c47d19205903a9db6b4e663` | [viewer](https://orchid-project.org/phase-diagrams/#BI-ND/BiNd-22Im.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/BiNd-22Im.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/BiNd-22Im.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| BiNd-10Wan.tdb | 1840.57 | BIND_B1 (x(Nd) 0.5) + BI3ND4_D73 (x(Nd) 0.57143) + LIQUID (x(Nd) 0.62838) |
+| BiNd-10Wan.tdb | 1840.56 | BIND_B1 (x(Nd) 0.5) + BI3ND4_D73 (x(Nd) 0.57143) + LIQUID (x(Nd) 0.6286) |
+| BiNd-10Wan.tdb | 1840.56 | BIND_B1 (x(Nd) 0.5) + BI3ND4_D73 (x(Nd) 0.57143) + LIQUID (x(Nd) 0.62864) |
+| BiNd-10Wan.tdb | 1713.56 | BI3ND4_D73 (x(Nd) 0.57143) + BI3ND5_D88 (x(Nd) 0.625) + LIQUID (x(Nd) 0.69437) |
+| BiNd-10Wan.tdb | 1713.55 | BI3ND4_D73 (x(Nd) 0.57143) + BI3ND5_D88 (x(Nd) 0.625) + LIQUID (x(Nd) 0.69459) |
+| BiNd-10Wan.tdb | 1713.55 | BI3ND4_D73 (x(Nd) 0.57143) + BI3ND5_D88 (x(Nd) 0.625) + LIQUID (x(Nd) 0.69469) |
+| BiNd-10Wan.tdb | 1527.13 | BI3ND5_D88 (x(Nd) 0.625) + BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.78791) |
+| BiNd-10Wan.tdb | 1527.13 | BI3ND5_D88 (x(Nd) 0.625) + BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.78773) |
+| BiNd-10Wan.tdb | 1527.13 | BI3ND5_D88 (x(Nd) 0.625) + BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.78803) |
+| BiNd-10Wan.tdb | 1221.77 | BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.95029) + BCC_A2 (x(Nd) 0.99214) |
+| BiNd-10Wan.tdb | 1221.77 | BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.95042) + BCC_A2 (x(Nd) 0.99216) |
+| BiNd-10Wan.tdb | 1117.25 | BIND2 (x(Nd) 0.66667) + BCC_A2 (x(Nd) 0.99712) + DHCP (x(Nd) 1) |
+| BiNd-10Wan.tdb | 1117.25 | BIND2 (x(Nd) 0.66667) + BCC_A2 (x(Nd) 0.99715) + DHCP (x(Nd) 1) |
+| BiNd-10Wan.tdb | 1117.25 | BIND2 (x(Nd) 0.66667) + BCC_A2 (x(Nd) 0.99715) + DHCP (x(Nd) 1) |
+| BiNd-10Wan.tdb | 929.12 | LIQUID (x(Nd) 0.08328) + BI2ND (x(Nd) 0.33333) + BIND_B1 (x(Nd) 0.5) |
+| BiNd-10Wan.tdb | 929.12 | LIQUID (x(Nd) 0.08329) + BI2ND (x(Nd) 0.33333) + BIND_B1 (x(Nd) 0.5) |
+| BiNd-10Wan.tdb | 544.45 | RHOMBOHEDRAL_A7 (x(Nd) 0) + LIQUID (x(Nd) 4.600e-4) + BI2ND (x(Nd) 0.33333) |
+| BiNd-10Wan.tdb | 544.45 | RHOMBOHEDRAL_A7 (x(Nd) 0) + LIQUID (x(Nd) 4.600e-4) + BI2ND (x(Nd) 0.33333) |
+| BiNd-22Im.tdb | 1840.49 | BIND_B1 (x(Nd) 0.5) + BI3ND4_D73 (x(Nd) 0.57143) + LIQUID (x(Nd) 0.64529) |
+| BiNd-22Im.tdb | 1840.49 | BIND_B1 (x(Nd) 0.5) + BI3ND4_D73 (x(Nd) 0.57143) + LIQUID (x(Nd) 0.64536) |
+| BiNd-22Im.tdb | 1840.49 | BIND_B1 (x(Nd) 0.5) + BI3ND4_D73 (x(Nd) 0.57143) + LIQUID (x(Nd) 0.64516) |
+| BiNd-22Im.tdb | 1720.74 | BI3ND4_D73 (x(Nd) 0.57143) + BI3ND5_D88 (x(Nd) 0.625) + LIQUID (x(Nd) 0.70946) |
+| BiNd-22Im.tdb | 1720.74 | BI3ND4_D73 (x(Nd) 0.57143) + BI3ND5_D88 (x(Nd) 0.625) + LIQUID (x(Nd) 0.70953) |
+| BiNd-22Im.tdb | 1720.74 | BI3ND4_D73 (x(Nd) 0.57143) + BI3ND5_D88 (x(Nd) 0.625) + LIQUID (x(Nd) 0.70945) |
+| BiNd-22Im.tdb | 1526.22 | BI3ND5_D88 (x(Nd) 0.625) + BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.8099) |
+| BiNd-22Im.tdb | 1526.22 | BI3ND5_D88 (x(Nd) 0.625) + BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.80981) |
+| BiNd-22Im.tdb | 1526.22 | BI3ND5_D88 (x(Nd) 0.625) + BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.80991) |
+| BiNd-22Im.tdb | 1216.24 | BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.96461) + BCC_A2 (x(Nd) 0.99726) |
+| BiNd-22Im.tdb | 1216.24 | BIND2 (x(Nd) 0.66667) + LIQUID (x(Nd) 0.96465) + BCC_A2 (x(Nd) 0.99727) |
+| BiNd-22Im.tdb | 1124.46 | BIND2 (x(Nd) 0.66667) + BCC_A2 (x(Nd) 0.99899) + DHCP (x(Nd) 1) |
+| BiNd-22Im.tdb | 1124.45 | BIND2 (x(Nd) 0.66667) + BCC_A2 (x(Nd) 0.99901) + DHCP (x(Nd) 1) |
+| BiNd-22Im.tdb | 1124.45 | BIND2 (x(Nd) 0.66667) + BCC_A2 (x(Nd) 0.99901) + DHCP (x(Nd) 1) |
+| BiNd-22Im.tdb | 929.01 | LIQUID (x(Nd) 0.05063) + BI2ND (x(Nd) 0.33333) + BIND_B1 (x(Nd) 0.5) |
+| BiNd-22Im.tdb | 929.01 | LIQUID (x(Nd) 0.0507) + BI2ND (x(Nd) 0.33333) + BIND_B1 (x(Nd) 0.5) |
+| BiNd-22Im.tdb | 796.87 | LIQUID (x(Nd) 0.00171) + BI7ND3 (x(Nd) 0.3) + BI2ND (x(Nd) 0.33333) |
+| BiNd-22Im.tdb | 796.87 | LIQUID (x(Nd) 0.00169) + BI7ND3 (x(Nd) 0.3) + BI2ND (x(Nd) 0.33333) |
+| BiNd-22Im.tdb | 796.87 | LIQUID (x(Nd) 0.00169) + BI7ND3 (x(Nd) 0.3) + BI2ND (x(Nd) 0.33333) |
+| BiNd-22Im.tdb | 544.55 | RHOMBOHEDRAL_A7 (x(Nd) 0) + LIQUID (x(Nd) 0) + BI7ND3 (x(Nd) 0.3) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BI/BI-ND.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BI/BI-ND.json) · [CALPHAD hull BiNd-10Wan](https://data.orchid-project.org/hulls/calphad-sgte/BI/BI-ND--BiNd-10Wan.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Bi–Nd system (19)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1838.15 | Peritectic: L + BiNd -> Bi3Nd4 | BiNd: Nd 0.5; Bi3Nd4: Nd 0.571 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 14 |  |
+| 1838.15 | Peritectic: L + BiNd -> Bi3Nd4 | L: Nd 0.629; BiNd: Nd 0.5; Bi3Nd4: Nd 0.571 | model | [1] Wang 2010 | Table 3, p. 4, row 15 |  |
+| 1723.15 | Peritectic: L + Bi3Nd4 -> Bi3Nd5 | Bi3Nd4: Nd 0.571; Bi3Nd5: Nd 0.625 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 12 |  |
+| 1716.15 | Peritectic: L + Bi3Nd4 -> Bi3Nd5 | L: Nd 0.693; Bi3Nd4: Nd 0.571; Bi3Nd5: Nd 0.625 | model | [1] Wang 2010 | Table 3, p. 4, row 13 |  |
+| 1533.15 | Peritectic: L + Bi3Nd5 -> BiNd2 | Bi3Nd5: Nd 0.625; BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 10 |  |
+| 1533.15 | Peritectic: L + Bi3Nd5 -> BiNd2 | L: Nd 0.785; Bi3Nd5: Nd 0.625; BiNd2: Nd 0.667 | model | [1] Wang 2010 | Table 3, p. 4, row 11 |  |
+| 1223.15 | Eutectic: L -> BiNd2 + (βNd) | L: Nd 0.951; BiNd2: Nd 0.667; (βNd): Nd 0.991 | model | [1] Wang 2010 | Table 3, p. 4, row 9 |  |
+| 1223.15 | Eutectic: L -> BiNd2 + (βNd) | BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 8 |  |
+| 1117.15 | Eutectoid: (βNd) -> (αNd) + BiNd2 | (βNd): Nd 0.999; (αNd): Nd 1; BiNd2: Nd 0.667 | model | [1] Wang 2010 | Table 3, p. 4, row 7 |  |
+| 1108.15 | Eutectoid: (βNd) -> (αNd) + BiNd2 | (αNd): Nd 1; BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 6 |  |
+| 933.15 | Peritectic: L + BiNd -> Bi2Nd | L: Nd 0.084; BiNd: Nd 0.5; Bi2Nd: Nd 0.333 | model | [1] Wang 2010 | Table 3, p. 4, row 5 |  |
+| 933.15 | Peritectic: L + BiNd -> Bi2Nd | BiNd: Nd 0.5; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 4 |  |
+| 932 | peritectic: L + NdBi = NdBi2 |  | experimental | [2] Im 2022 | p. 6 | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
+| 774 | peritectic: L + NdBi2 = Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 6 | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
+| 774 | peritectic: liquid + NdBi2 = Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 1 | “A new peritectic reaction of \[liquid + NdBi2 = Nd3 Bi7 \] at 774 K was confirmed using differential scanning calorimetry, structural (X-ray diffraction), and microstructural (scanning electron microscopy) analyses.” |
+| 544.15 | Eutectic: L -> (Bi) + Bi2Nd | L: Nd 0.004; (Bi): Nd 0; Bi2Nd: Nd 0.333 | model | [1] Wang 2010 | Table 3, p. 4, row 3 |  |
+| 542.15 | Eutectic: L -> (Bi) + Bi2Nd | (Bi): Nd 0; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 1 |  |
+| 539 | eutectic: L = Bi + Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 6 | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
+| 538.15 | Eutectic: L -> (Bi) + Bi2Nd | (Bi): Nd 0; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Okamoto 2010_ | Table 3, p. 4, row 2 |  |
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Bi–Nd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1124 K | 1124 | (β Nd of DHCP solution) ↔ (α Nd of BCC solution) + Nd2 Bi | model | [2] Im 2022 | p. 8 | “The present work calculated the eutectoid reaction of \[(β Nd of DHCP solution) ↔ (α Nd of BCC solution) + Nd2 Bi\] at 1124 K, slightly higher than the measured temperature at 1108 ± 10 K \[7\].” |
+| Phase transition | 2048.15 K | 2048.15 | Congruent: L -> BiNd; _L: Nd 0.5; BiNd: Nd 0.5_ | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 16 |  |
+| Phase transition | 2048.15 K | 2048.15 | Congruent: L -> BiNd; _L: Nd 0.5; BiNd: Nd 0.5_ | model | [1] Wang 2010 | Table 3, p. 4, row 17 |  |
+
+### Activity / EMF / Gibbs energy (1)
+
+Table: Activity / EMF / Gibbs energy, Bi–Nd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Activity; _printed: aNd_ | 0 unspecified | 973 |  | experimental | [2] Im 2022 | p. 9 | “The emf data indicated a low activity of Nd in liquid Bi (e.g., aNd = 1.1 × 10-13 at T = 973 K) implying strong chemical interactions between Nd and Bi.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. C.P. Wang, H.L. Zhang, A.T. Tang, F.S. Pan, X.J. Liu, Thermodynamic assessments of the Bi–Nd and Bi–Tm systems, Journal of Alloys and Compounds 502, 43-48 (2010). [doi:10.1016/j.jallcom.2010.03.042](https://doi.org/10.1016/j.jallcom.2010.03.042)
+2. Sanghyeok Im, Shun-Li Shang, Nathan D. Smith, Adam M. Krajewski, Timothy Lichtenstein, Hui Sun et al., Thermodynamic properties of the Nd-Bi system via emf measurements, DFT calculations, machine learning, and CALPHAD modeling, Acta Materialia 223, 117448 (2022). [doi:10.1016/j.actamat.2021.117448](https://doi.org/10.1016/j.actamat.2021.117448)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

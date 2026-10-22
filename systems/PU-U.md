@@ -1,0 +1,119 @@
+# Pu–U system
+
+> Pu–U system: 14 accepted literature values (heat capacity / entropy / enthalpy 12, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/PU-U.html · Markdown: https://data.orchid-project.org/systems/PU-U.md
+
+14 accepted literature values from 2 paper(s) (experimental 6, model 8); 4 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/PU-U.json) · [CSV](https://data.orchid-project.org/systems/PU-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PU-U/PuU-10Kur.json) · [Markdown](https://data.orchid-project.org/systems/PU-U.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 6 |
+| model | 8 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 2 |
+| heat capacity / entropy / enthalpy | 12 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| PuU-10Kur.tdb | M. Kurata, IOP Conf. Ser.: Mater. Sci. Eng., 9, 012022(2010). | `ae973a5f25fff5bd033b8dff9e46729f02bd72f047d46f5f8f4ffacd93b5b5fa` | [viewer](https://orchid-project.org/phase-diagrams/#PU-U/PuU-10Kur.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PuU-10Kur.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PuU-10Kur.json) |
+| PuU-15Per.tdb | A. Perron, P.E.A. Turchi, A. Landa, P. Soderlind, B. Ravat, B. Oudot, F. Delaunay, J. Nucl. Mater., 458, 425-41(2015). [doi:10.1016/j.jnucmat.2014.12.101](https://doi.org/10.1016/j.jnucmat.2014.12.101) | `b2766bcd4fb5f7f589f31d56f77d51147d22fdb177fb21b4a7215f3f94bd0ad5` | [viewer](https://orchid-project.org/phase-diagrams/#PU-U/PuU-15Per.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PuU-15Per.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PuU-15Per.json) |
+| PuU-23Fou.tdb | P. Fouquet-Metivier, P.M. Martin, D. Manara, K. Dardenne, J. Rothe, P.C.M. Fossati, C. Gueneau, Calphad, 80, 102523(2023). [doi:10.1016/j.calphad.2022.102523](https://doi.org/10.1016/j.calphad.2022.102523) | `b15fc83561b2855604b98968affcc9bb7e3b7aa5cb93f3c392bdf75fd3ca7897` | [viewer](https://orchid-project.org/phase-diagrams/#PU-U/PuU-23Fou.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PuU-23Fou.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PuU-23Fou.json) |
+| PuU-99Kur.tdb | M. Kurata, Calphad, 23, 305-37(1999). [doi:10.1016/S0364-5916(00)00004-3](https://doi.org/10.1016/S0364-5916%2800%2900004-3) | `f7466d1c08e571115d2e08747bda9b6f11c2f8c9d1d955556c18109bf13bf340` | [viewer](https://orchid-project.org/phase-diagrams/#PU-U/PuU-99Kur.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PuU-99Kur.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PuU-99Kur.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| PuU-10Kur.tdb | 975.28 | BCC_A2 (x(U) 0.67291) + PUU_ETA (x(U) 0.72933) + TETRAGONAL_U (x(U) 0.78749) |
+| PuU-10Kur.tdb | 866.19 | PUU_ETA (x(U) 0.73466) + PUU_ZETA (x(U) 0.7426) + TETRAGONAL_U (x(U) 0.79617) |
+| PuU-10Kur.tdb | 841.05 | PUU_ZETA (x(U) 0.76791) + TETRAGONAL_U (x(U) 0.82535) + ORTHORHOMBIC_A20 (x(U) 0.87179) |
+| PuU-10Kur.tdb | 728.05 | TETRAGONAL_A6 (x(U) 0.01458) + BCC_A2 (x(U) 0.02485) + PUU_ETA (x(U) 0.04422) |
+| PuU-10Kur.tdb | 713.15 | FCC_A1 (x(U) 0.01259) + TETRAGONAL_A6 (x(U) 0.01307) + PUU_ETA (x(U) 0.04104) |
+| PuU-10Kur.tdb | 593.43 | FCC_A1 (x(U) 0.00284) + GAMMA_PU (x(U) 0.00294) + PUU_ETA (x(U) 0.01304) |
+| PuU-10Kur.tdb | 485.97 | BETA_PU (x(U) 0.00265) + GAMMA_PU (x(U) 0.00312) + PUU_ETA (x(U) 0.01544) |
+| PuU-10Kur.tdb | 450.47 | BETA_PU (x(U) 0.00449) + PUU_ETA (x(U) 0.02721) + PUU_ZETA (x(U) 0.14262) |
+| PuU-10Kur.tdb | 397.62 | BETA_PU (x(U) 0.00225) + ALPHA_PU (x(U) 0.00225) + PUU_ZETA (x(U) 0.14407) |
+| PuU-15Per.tdb | 980.56 | BCC_A2 (x(U) 0.69633) + PUU_ETA (x(U) 0.71207) + TETRAGONAL_U (x(U) 0.73153) |
+| PuU-15Per.tdb | 862.22 | PUU_ETA (x(U) 0.74013) + PUU_ZETA (x(U) 0.74134) + TETRAGONAL_U (x(U) 0.75768) |
+| PuU-15Per.tdb | 833.33 | PUU_ZETA (x(U) 0.76461) + TETRAGONAL_U (x(U) 0.83253) + ORTHORHOMBIC_A20 (x(U) 0.87526) |
+| PuU-15Per.tdb | 729.7 | TETRAGONAL_A6 (x(U) 0.00391) + BCC_A2 (x(U) 0.01408) + PUU_ETA (x(U) 0.02018) |
+| PuU-15Per.tdb | 715.87 | FCC_A1 (x(U) 0.00332) + TETRAGONAL_A6 (x(U) 0.00375) + PUU_ETA (x(U) 0.02005) |
+| PuU-15Per.tdb | 591.26 | GAMMA_PU (x(U) 0.00206) + FCC_A1 (x(U) 0.0025) + PUU_ETA (x(U) 0.02262) |
+| PuU-15Per.tdb | 553.62 | GAMMA_PU (x(U) 0.00264) + BETA_PU (x(U) 0.01593) + PUU_ETA (x(U) 0.03349) |
+| PuU-15Per.tdb | 551.71 | BETA_PU (x(U) 0.01665) + PUU_ETA (x(U) 0.03502) + PUU_ZETA (x(U) 0.30998) |
+| PuU-15Per.tdb | 397.46 | ALPHA_PU (x(U) 0) + BETA_PU (x(U) 4.300e-4) + PUU_ZETA (x(U) 0.27107) |
+| PuU-23Fou.tdb | 956.63 | BCC_A2 (x(U) 0.65942) + PUU_ETA (x(U) 0.67471) + TETRAGONAL_U (x(U) 0.68067) |
+| PuU-23Fou.tdb | 854.59 | PUU_ZETA (x(U) 0.73703) + PUU_ETA (x(U) 0.77956) + TETRAGONAL_U (x(U) 0.79439) |
+| PuU-23Fou.tdb | 840.59 | PUU_ZETA (x(U) 0.74749) + TETRAGONAL_U (x(U) 0.82026) + ORTHORHOMBIC_A20 (x(U) 0.86227) |
+| PuU-23Fou.tdb | 712.8 | FCC_A1 (x(U) 0.00375) + BCC_A2 (x(U) 0.02173) + PUU_ETA (x(U) 0.03566) |
+| PuU-23Fou.tdb | 589.42 | GAMMA_PU (x(U) 0) + FCC_A1 (x(U) 9.000e-4) + PUU_ETA (x(U) 0.01322) |
+| PuU-23Fou.tdb | 525.69 | GAMMA_PU (x(U) 0) + BETA_PU (x(U) 0.00825) + PUU_ETA (x(U) 0.01952) |
+| PuU-23Fou.tdb | 504.5 | BETA_PU (x(U) 0.01323) + PUU_ETA (x(U) 0.03103) + PUU_ZETA (x(U) 0.26574) |
+| PuU-23Fou.tdb | 396.75 | ALPHA_PU (x(U) 0) + BETA_PU (x(U) 0.00245) + PUU_ZETA (x(U) 0.2621) |
+| PuU-99Kur.tdb | 974.11 | BCC_A2 (x(U) 0.72827) + PUU_ETA (x(U) 0.73473) + TETRAGONAL_U (x(U) 0.74801) |
+| PuU-99Kur.tdb | 867.91 | PUU_ZETA (x(U) 0.71816) + PUU_ETA (x(U) 0.73935) + TETRAGONAL_U (x(U) 0.75411) |
+| PuU-99Kur.tdb | 840.59 | PUU_ZETA (x(U) 0.74749) + TETRAGONAL_U (x(U) 0.82026) + ORTHORHOMBIC_A20 (x(U) 0.86227) |
+| PuU-99Kur.tdb | 731.61 | TETRAGONAL_A6 (x(U) 0.00438) + BCC_A2 (x(U) 0.01392) + PUU_ETA (x(U) 0.02068) |
+| PuU-99Kur.tdb | 716.26 | FCC_A1 (x(U) 0.00384) + TETRAGONAL_A6 (x(U) 0.00426) + PUU_ETA (x(U) 0.02058) |
+| PuU-99Kur.tdb | 593.06 | GAMMA_PU (x(U) 0.00338) + FCC_A1 (x(U) 0.00338) + PUU_ETA (x(U) 0.02344) |
+| PuU-99Kur.tdb | 552.19 | GAMMA_PU (x(U) 0.00478) + BETA_PU (x(U) 0.01784) + PUU_ETA (x(U) 0.03593) |
+| PuU-99Kur.tdb | 544.8 | BETA_PU (x(U) 0.0212) + PUU_ETA (x(U) 0.04235) + PUU_ZETA (x(U) 0.26981) |
+| PuU-99Kur.tdb | 396.75 | ALPHA_PU (x(U) 0) + BETA_PU (x(U) 0.00245) + PUU_ZETA (x(U) 0.2621) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/PU/PU-U.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PU/PU-U.json) · [CALPHAD hull PuU-10Kur](https://data.orchid-project.org/hulls/calphad-sgte/PU/PU-U--PuU-10Kur.json) · [CALPHAD hull PuU-15Per](https://data.orchid-project.org/hulls/calphad-sgte/PU/PU-U--PuU-15Per.json) · [CALPHAD hull PuU-99Kur](https://data.orchid-project.org/hulls/calphad-sgte/PU/PU-U--PuU-99Kur.json)
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Pu–U system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 881.15 K | 881.15 |  | model | [1] Perron 2015; _cites Perron 2014_ [doi](https://doi.org/10.1016/j.jnucmat.2014.07.051) | p. 10 | “In addition, a small liquid region is still present at the Pu-rich corner, and corresponds to the low minimum-melting temperature calculated for the Pu-U binary by Kurata (619 °C, \[8\]) and Perron et al. (608 °C, \[19\]).” |
+| Phase transition | 892.15 K | 892.15 |  | model | [1] Perron 2015; _cites Kurata 2009_ [doi](https://doi.org/10.1088/1757-899x/9/1/012022) | p. 10 | “In addition, a small liquid region is still present at the Pu-rich corner, and corresponds to the low minimum-melting temperature calculated for the Pu-U binary by Kurata (619 °C, \[8\]) and Perron et al. (608 °C, \[19\]).” |
+
+### Heat capacity / entropy / enthalpy (12)
+
+Table: Heat capacity / entropy / enthalpy, Pu–U system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Heat capacity; _printed: heat capacity_ | 38.5 J/mol-atom/K | 673 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 2 |  |
+| Heat capacity; _printed: heat capacity_ | 37.5 J/mol-atom/K | 673 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 1 |  |
+| Heat capacity; _printed: Cp_ | 38.5 J/mol-atom/K | 673 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 2 |  |
+| Heat capacity; _printed: Cp_ | 37.5 J/mol-atom/K | 673 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 1 |  |
+| Heat capacity; _printed: heat capacity_ | 42.1 J/mol-atom/K | 773 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 4 |  |
+| Heat capacity; _printed: heat capacity_ | 40.8 J/mol-atom/K | 773 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 3 |  |
+| Heat capacity; _printed: Cp_ | 42.1 J/mol-atom/K | 773 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 4 |  |
+| Heat capacity; _printed: Cp_ | 40.8 J/mol-atom/K | 773 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 3 |  |
+| Heat capacity; _printed: heat capacity_ | 44.5 J/mol-atom/K | 840 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 6 |  |
+| Heat capacity; _printed: heat capacity_ | 43.3 J/mol-atom/K | 840 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 5 |  |
+| Heat capacity; _printed: Cp_ | 44.5 J/mol-atom/K | 840 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 6 |  |
+| Heat capacity; _printed: Cp_ | 43.3 J/mol-atom/K | 840 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. A. Perron, P.E.A. Turchi, A. Landa, P. Söderlind, B. Ravat, B. Oudot et al., The Pu–U–Am system: An ab initio informed CALPHAD thermodynamic study, Journal of Nuclear Materials 458, 425-441 (2015). [doi:10.1016/j.jnucmat.2014.12.101](https://doi.org/10.1016/j.jnucmat.2014.12.101)
+2. Masaki Kurata, Thermodynamic assessment of the Pu-U, Pu-Zr, and Pu-U-Zr systems, Calphad 23, 305-337 (1999). [doi:10.1016/s0364-5916(00)00004-3](https://doi.org/10.1016/s0364-5916%2800%2900004-3)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,26 @@
+# Pd2Y5: enthalpy of formation
+
+> Enthalpy of formation of Pd2Y5: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Pd2Y5.html · Markdown: https://data.orchid-project.org/compounds/Pd2Y5.md
+
+2 accepted literature formation-enthalpy value(s) (model 2).
+
+Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Pd2Y5 reported in the literature (2)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -68.548 kJ/mol-atom | Pd2Y5 | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 12 |  |
+| -68.548 kJ/mol-atom | Pd2Y5 | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 12 |  |
+
+## Sources
+
+1. Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020). [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

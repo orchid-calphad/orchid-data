@@ -1,0 +1,350 @@
+# Mn–Si system
+
+> Mn–Si system: 150 accepted literature values (invariant reaction 97, phase transition 44, phase equilibrium 5, activity / EMF / Gibbs energy 3) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MN-SI.html · Markdown: https://data.orchid-project.org/systems/MN-SI.md
+
+150 accepted literature values from 4 paper(s) (experimental 101, model 37, unspecified 12); 5 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-SI.json) · [CSV](https://data.orchid-project.org/systems/MN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-14Ber.json) · [Markdown](https://data.orchid-project.org/systems/MN-SI.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 101 |
+| model | 37 |
+| unspecified | 12 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 97 |
+| phase transition | 44 |
+| phase equilibrium | 5 |
+| mixing / partial | 1 |
+| activity / EMF / Gibbs energy | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MnSi-14Ber.tdb | A. Berche, E. Ruiz-Theron, J.-C. Tedenac, R.M. Ayral, F. Rouessac, P. Jund, J. Alloys Compd., 615, 693-702(2014). [doi:10.1016/j.jallcom.2014.06.202](https://doi.org/10.1016/j.jallcom.2014.06.202) | `818a38de8ed219018c50f899f5593adf9c86c24e69492b05eeaf41981b8688a4` | [viewer](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-14Ber.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnSi-14Ber.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnSi-14Ber.json) |
+| MnSi-15Zhe.tdb | W. Zheng, X.-G. Lu, Y. He, Y. Cui, L. Li, J. Alloys Compd., 632, 661-75(2015). [doi:10.1016/j.jallcom.2015.01.261](https://doi.org/10.1016/j.jallcom.2015.01.261) | `8a1bc52c308087599e4a2c22797c763b4f0192a92557c44494cfba4eb6655476` | [viewer](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-15Zhe.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnSi-15Zhe.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnSi-15Zhe.json) |
+| MnSi-18Lon.tdb | Z. Long, X. Dai, Z. Li, F. Yin, Z. Jin, J. Alloys Compd., 768, 686-96(2018). [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) | `af43e353fc789e4831cbc517ee6f688b97e33928b3ec61f94f8b4aac391e0fae` | [viewer](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-18Lon.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnSi-18Lon.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnSi-18Lon.json) |
+| MnSi-91Tib-LB.tdb | J.E. Tibballs, SI-report 890221-5, 1991 (also COST 507 report, 1998). | `96ffc32b1928cce34f0e6217a4effa9c70cb4e3bae3b28eba4df73fb657a0d9b` | [viewer](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-91Tib-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnSi-91Tib-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnSi-91Tib-LB.json) |
+| MnSi-95Che.tdb | P.-Y. Chevalier, E. Fischer, A. Rivet, Calphad, 19, 57-68(1995). [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) | `77fa334a7463bc20e5f29e88f1f277e52fee48ee2af9b7ae1e1ebe4c439e43a6` | [viewer](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-95Che.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnSi-95Che.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnSi-95Che.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MnSi-14Ber.tdb | 1512.67 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.452) + MSI_B20 (x(Si) 0.5) |
+| MnSi-14Ber.tdb | 1512.67 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.45197) + MSI_B20 (x(Si) 0.5) |
+| MnSi-14Ber.tdb | 1512.67 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.45221) + MSI_B20 (x(Si) 0.5) |
+| MnSi-14Ber.tdb | 1475.66 | BCC_A2 (x(Si) 0.00373) + FCC_A1 (x(Si) 0.01046) + LIQUID (x(Si) 0.0409) |
+| MnSi-14Ber.tdb | 1430.77 | FCC_A1 (x(Si) 0.01715) + CUB_A13 (x(Si) 0.03312) + LIQUID (x(Si) 0.08371) |
+| MnSi-14Ber.tdb | 1427.84 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63293) + LIQUID (x(Si) 0.64567) |
+| MnSi-14Ber.tdb | 1427.84 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63289) + LIQUID (x(Si) 0.64546) |
+| MnSi-14Ber.tdb | 1424.78 | MN11SI19 (x(Si) 0.63576) + LIQUID (x(Si) 0.66915) + DIAMOND_A4 (x(Si) 0.98322) |
+| MnSi-14Ber.tdb | 1344.34 | LIQUID (x(Si) 0.22775) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-14Ber.tdb | 1344.34 | LIQUID (x(Si) 0.22778) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-14Ber.tdb | 1319.82 | CUB_A13 (x(Si) 0.15547) + LIQUID (x(Si) 0.19701) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-14Ber.tdb | 1319.82 | CUB_A13 (x(Si) 0.15532) + LIQUID (x(Si) 0.19688) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-14Ber.tdb | 1235.63 | CUB_A13 (x(Si) 0.15359) + MN9SI2 (x(Si) 0.17369) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-14Ber.tdb | 1235.63 | CUB_A13 (x(Si) 0.15366) + MN9SI2 (x(Si) 0.17372) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-14Ber.tdb | 1109.24 | CUB_A13 (x(Si) 0.12929) + MN6SI (x(Si) 0.14107) + MN9SI2 (x(Si) 0.16459) |
+| MnSi-14Ber.tdb | 910.74 | CBCC_A12 (x(Si) 0.06393) + CUB_A13 (x(Si) 0.07425) + MN6SI (x(Si) 0.1166) |
+| MnSi-14Ber.tdb | 363.28 | MN6SI (x(Si) 0.15155) + MN9SI2 (x(Si) 0.17766) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-15Zhe.tdb | 1514.74 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.45199) + MSI_B20 (x(Si) 0.5) |
+| MnSi-15Zhe.tdb | 1514.74 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.45195) + MSI_B20 (x(Si) 0.5) |
+| MnSi-15Zhe.tdb | 1514.74 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.452) + MSI_B20 (x(Si) 0.5) |
+| MnSi-15Zhe.tdb | 1476.67 | BCC_A2 (x(Si) 0.00333) + FCC_A1 (x(Si) 0.01015) + LIQUID (x(Si) 0.03325) |
+| MnSi-15Zhe.tdb | 1436.05 | FCC_A1 (x(Si) 0.01896) + CUB_A13 (x(Si) 0.03248) + LIQUID (x(Si) 0.06867) |
+| MnSi-15Zhe.tdb | 1429.37 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.64605) |
+| MnSi-15Zhe.tdb | 1429.37 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.64603) |
+| MnSi-15Zhe.tdb | 1424.22 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.67554) + DIAMOND_A4 (x(Si) 0.94861) |
+| MnSi-15Zhe.tdb | 1424.22 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.67557) + DIAMOND_A4 (x(Si) 0.94862) |
+| MnSi-15Zhe.tdb | 1347.2 | LIQUID (x(Si) 0.22935) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-15Zhe.tdb | 1347.2 | LIQUID (x(Si) 0.22957) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-15Zhe.tdb | 1320.1 | CUB_A13 (x(Si) 0.1686) + LIQUID (x(Si) 0.19935) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-15Zhe.tdb | 1320.1 | CUB_A13 (x(Si) 0.16825) + LIQUID (x(Si) 0.19902) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-15Zhe.tdb | 1310.56 | CUB_A13 (x(Si) 0.16801) + MN9SI2 (x(Si) 0.18182) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-15Zhe.tdb | 1310.56 | CUB_A13 (x(Si) 0.168) + MN9SI2 (x(Si) 0.18182) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-15Zhe.tdb | 1310.56 | CUB_A13 (x(Si) 0.16807) + MN9SI2 (x(Si) 0.18182) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-15Zhe.tdb | 1152.06 | CUB_A13 (x(Si) 0.14141) + MN6SI (x(Si) 0.14286) + MN9SI2 (x(Si) 0.18182) |
+| MnSi-15Zhe.tdb | 1152.06 | CUB_A13 (x(Si) 0.14138) + MN6SI (x(Si) 0.14286) + MN9SI2 (x(Si) 0.18182) |
+| MnSi-15Zhe.tdb | 1152.06 | CUB_A13 (x(Si) 0.14136) + MN6SI (x(Si) 0.14286) + MN9SI2 (x(Si) 0.18182) |
+| MnSi-15Zhe.tdb | 904.69 | CBCC_A12 (x(Si) 0.07134) + CUB_A13 (x(Si) 0.08051) + MN6SI (x(Si) 0.14286) |
+| MnSi-15Zhe.tdb | 904.68 | CBCC_A12 (x(Si) 0.07111) + CUB_A13 (x(Si) 0.08028) + MN6SI (x(Si) 0.14286) |
+| MnSi-15Zhe.tdb | 614.81 | MN6SI (x(Si) 0.14286) + MN9SI2 (x(Si) 0.18182) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-18Lon.tdb | 1512.23 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.4523) + MSI_B20 (x(Si) 0.5) |
+| MnSi-18Lon.tdb | 1512.23 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.45207) + MSI_B20 (x(Si) 0.5) |
+| MnSi-18Lon.tdb | 1512.23 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.45251) + MSI_B20 (x(Si) 0.5) |
+| MnSi-18Lon.tdb | 1475.66 | BCC_A2 (x(Si) 0.00373) + FCC_A1 (x(Si) 0.01046) + LIQUID (x(Si) 0.0409) |
+| MnSi-18Lon.tdb | 1430.77 | FCC_A1 (x(Si) 0.01715) + CUB_A13 (x(Si) 0.03312) + LIQUID (x(Si) 0.08371) |
+| MnSi-18Lon.tdb | 1428.12 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.63488) |
+| MnSi-18Lon.tdb | 1428.11 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.63544) |
+| MnSi-18Lon.tdb | 1424.04 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.6687) + DIAMOND_A4 (x(Si) 0.98318) |
+| MnSi-18Lon.tdb | 1424.04 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.66874) + DIAMOND_A4 (x(Si) 0.98318) |
+| MnSi-18Lon.tdb | 1344.34 | LIQUID (x(Si) 0.22775) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-18Lon.tdb | 1344.34 | LIQUID (x(Si) 0.22778) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-18Lon.tdb | 1319.82 | CUB_A13 (x(Si) 0.15547) + LIQUID (x(Si) 0.19701) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-18Lon.tdb | 1319.82 | CUB_A13 (x(Si) 0.15532) + LIQUID (x(Si) 0.19688) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-18Lon.tdb | 1235.63 | CUB_A13 (x(Si) 0.15359) + MN9SI2 (x(Si) 0.17369) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-18Lon.tdb | 1235.63 | CUB_A13 (x(Si) 0.15366) + MN9SI2 (x(Si) 0.17372) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-18Lon.tdb | 1109.24 | CUB_A13 (x(Si) 0.12929) + MN6SI (x(Si) 0.14107) + MN9SI2 (x(Si) 0.16459) |
+| MnSi-18Lon.tdb | 910.74 | CBCC_A12 (x(Si) 0.06393) + CUB_A13 (x(Si) 0.07425) + MN6SI (x(Si) 0.1166) |
+| MnSi-18Lon.tdb | 363.28 | MN6SI (x(Si) 0.15155) + MN9SI2 (x(Si) 0.17766) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-91Tib-LB.tdb | 1513.4 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.43927) + MSI_B20 (x(Si) 0.5) |
+| MnSi-91Tib-LB.tdb | 1513.39 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.43938) + MSI_B20 (x(Si) 0.5) |
+| MnSi-91Tib-LB.tdb | 1513.39 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.43944) + MSI_B20 (x(Si) 0.5) |
+| MnSi-91Tib-LB.tdb | 1445.35 | BCC_A2 (x(Si) 0.0351) + CUB_A13 (x(Si) 0.04662) + LIQUID (x(Si) 0.0803) |
+| MnSi-91Tib-LB.tdb | 1426.55 | BCC_A2 (x(Si) 0.02447) + FCC_A1 (x(Si) 0.02546) + CUB_A13 (x(Si) 0.03312) |
+| MnSi-91Tib-LB.tdb | 1423.36 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.63856) |
+| MnSi-91Tib-LB.tdb | 1423.36 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.63808) |
+| MnSi-91Tib-LB.tdb | 1417.12 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.67423) + DIAMOND_A4 (x(Si) 1) |
+| MnSi-91Tib-LB.tdb | 1417.12 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.67432) + DIAMOND_A4 (x(Si) 1) |
+| MnSi-91Tib-LB.tdb | 1417.12 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.67478) + DIAMOND_A4 (x(Si) 1) |
+| MnSi-91Tib-LB.tdb | 1348.02 | LIQUID (x(Si) 0.2393) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-91Tib-LB.tdb | 1348.02 | LIQUID (x(Si) 0.23936) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-91Tib-LB.tdb | 1316.31 | CUB_A13 (x(Si) 0.13816) + MN9SI2 (x(Si) 0.175) + LIQUID (x(Si) 0.1887) |
+| MnSi-91Tib-LB.tdb | 1316.31 | CUB_A13 (x(Si) 0.13803) + MN9SI2 (x(Si) 0.175) + LIQUID (x(Si) 0.18858) |
+| MnSi-91Tib-LB.tdb | 1311.04 | MN9SI2 (x(Si) 0.175) + LIQUID (x(Si) 0.19842) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-91Tib-LB.tdb | 1311.04 | MN9SI2 (x(Si) 0.175) + LIQUID (x(Si) 0.19825) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-91Tib-LB.tdb | 1311.04 | MN9SI2 (x(Si) 0.175) + LIQUID (x(Si) 0.1985) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-91Tib-LB.tdb | 1155.85 | CUB_A13 (x(Si) 0.12368) + MN6SI (x(Si) 0.15) + MN9SI2 (x(Si) 0.175) |
+| MnSi-91Tib-LB.tdb | 1155.85 | CUB_A13 (x(Si) 0.12367) + MN6SI (x(Si) 0.15) + MN9SI2 (x(Si) 0.175) |
+| MnSi-91Tib-LB.tdb | 880.97 | CBCC_A12 (x(Si) 0.06797) + CUB_A13 (x(Si) 0.07918) + MN6SI (x(Si) 0.15) |
+| MnSi-91Tib-LB.tdb | 880.97 | CBCC_A12 (x(Si) 0.06784) + CUB_A13 (x(Si) 0.07905) + MN6SI (x(Si) 0.15) |
+| MnSi-95Che.tdb | 1512.52 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.43902) + MSI_B20 (x(Si) 0.5) |
+| MnSi-95Che.tdb | 1512.52 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.4389) + MSI_B20 (x(Si) 0.5) |
+| MnSi-95Che.tdb | 1512.52 | M5SI3_D88 (x(Si) 0.375) + LIQUID (x(Si) 0.43922) + MSI_B20 (x(Si) 0.5) |
+| MnSi-95Che.tdb | 1486.78 | BCC_A2 (x(Si) 0.00528) + FCC_A1 (x(Si) 0.01298) + LIQUID (x(Si) 0.02991) |
+| MnSi-95Che.tdb | 1426.72 | FCC_A1 (x(Si) 0.02858) + CUB_A13 (x(Si) 0.04679) + LIQUID (x(Si) 0.08782) |
+| MnSi-95Che.tdb | 1422.61 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.65719) |
+| MnSi-95Che.tdb | 1422.61 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.65718) |
+| MnSi-95Che.tdb | 1422.61 | MSI_B20 (x(Si) 0.5) + MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.65719) |
+| MnSi-95Che.tdb | 1420.01 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.67077) + DIAMOND_A4 (x(Si) 1) |
+| MnSi-95Che.tdb | 1420.01 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.67093) + DIAMOND_A4 (x(Si) 1) |
+| MnSi-95Che.tdb | 1420.01 | MN11SI19 (x(Si) 0.63333) + LIQUID (x(Si) 0.67093) + DIAMOND_A4 (x(Si) 1) |
+| MnSi-95Che.tdb | 1340.38 | LIQUID (x(Si) 0.23628) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-95Che.tdb | 1340.38 | LIQUID (x(Si) 0.23634) + M3SI_D03 (x(Si) 0.25) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-95Che.tdb | 1323.29 | CUB_A13 (x(Si) 0.17393) + MN9SI2 (x(Si) 0.18182) + LIQUID (x(Si) 0.20542) |
+| MnSi-95Che.tdb | 1323.28 | CUB_A13 (x(Si) 0.17387) + MN9SI2 (x(Si) 0.18182) + LIQUID (x(Si) 0.20537) |
+| MnSi-95Che.tdb | 1321.02 | MN9SI2 (x(Si) 0.18182) + LIQUID (x(Si) 0.209) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-95Che.tdb | 1321.02 | MN9SI2 (x(Si) 0.18182) + LIQUID (x(Si) 0.20904) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-95Che.tdb | 1321.02 | MN9SI2 (x(Si) 0.18182) + LIQUID (x(Si) 0.20882) + M3SI_D03 (x(Si) 0.25) |
+| MnSi-95Che.tdb | 1145.37 | CUB_A13 (x(Si) 0.1366) + MN6SI (x(Si) 0.14286) + MN9SI2 (x(Si) 0.18182) |
+| MnSi-95Che.tdb | 1145.37 | CUB_A13 (x(Si) 0.13666) + MN6SI (x(Si) 0.14286) + MN9SI2 (x(Si) 0.18182) |
+| MnSi-95Che.tdb | 1145.37 | CUB_A13 (x(Si) 0.13657) + MN6SI (x(Si) 0.14286) + MN9SI2 (x(Si) 0.18182) |
+| MnSi-95Che.tdb | 1123.26 | M3SI_D03 (x(Si) 0.25) + MN5SI2 (x(Si) 0.28571) + M5SI3_D88 (x(Si) 0.375) |
+| MnSi-95Che.tdb | 908.17 | CBCC_A12 (x(Si) 0.07085) + CUB_A13 (x(Si) 0.08141) + MN6SI (x(Si) 0.14286) |
+| MnSi-95Che.tdb | 908.17 | CBCC_A12 (x(Si) 0.07078) + CUB_A13 (x(Si) 0.08133) + MN6SI (x(Si) 0.14286) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-SI.json) · [CALPHAD hull MnSi-14Ber](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-SI--MnSi-14Ber.json) · [CALPHAD hull MnSi-15Zhe](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-SI--MnSi-15Zhe.json) · [CALPHAD hull MnSi-91Tib-LB](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-SI--MnSi-91Tib-LB.json) · [CALPHAD hull MnSi-95Che](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-SI--MnSi-95Che.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mn–Si system (97)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1687 | Si1(L) \<=> Si1(dia_A4) | Si1(L): Si 1 | model | [1] Chevalier 1995 | Table 4, p. 9, row 46 |  |
+| 1687 | Si1(L) \<=> Si1(dia_A4) | Si1(L): Si 1 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 47 |  |
+| 1573.15 | L \<=> Mn5Si3 | L: Si 0.375; Mn5Si3: Mn 0.625, Si 0.375 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 36 |  |
+| 1556.35 | L \<=> Mn5Si3 | L: Si 0.375; Mn5Si3: Mn 0.625, Si 0.375 | experimental | [1] Chevalier 1995; _cites ref. 3_ | Table 4, p. 9, row 37 |  |
+| 1556 | Congruent: Mn5Si3 -> Liquid | Mn5Si3: Si 0.375; Liquid: Si 0.375 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 6 |  |
+| 1553.2 | L \<=> Mn5Si3 | L: Si 0.375; Mn5Si3: Mn 0.625, Si 0.375 | model | [1] Chevalier 1995 | Table 4, p. 9, row 35 |  |
+| 1549.15 | L \<=> Mn1Si1 | L: Si 0.5; Mn1Si1: Mn 0.5, Si 0.5 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 33 |  |
+| 1544 | Congruent: MnSi -> Liquid | MnSi: Si 0.5; Liquid: Si 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 8 |  |
+| 1542.75 | L \<=> Mn1Si1 | L: Si 0.5; Mn1Si1: Mn 0.5, Si 0.5 | experimental | [1] Chevalier 1995; _cites ref. 3_ | Table 4, p. 9, row 34 |  |
+| 1537.6 | L \<=> Mn1Si1 | L: Si 0.5; Mn1Si1: Mn 0.5, Si 0.5 | model | [1] Chevalier 1995 | Table 4, p. 9, row 32 |  |
+| 1519.15 | Mn1(L) \<=> Mn1(bcc_A2)(δ) | Mn1(L): Si 0 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 39 |  |
+| 1519 | Mn1(L) \<=> Mn1(bcc_A2)(δ) | Mn1(L): Si 0 | model | [1] Chevalier 1995 | Table 4, p. 9, row 38 |  |
+| 1514.15 | L \<=> Mn5Si3 + Mn1Si1 | L: Si 0.454; Mn5Si3: Mn 0.625, Si 0.375; Mn1Si1: Mn 0.5, Si 0.5 | experimental | [1] Chevalier 1995; _cites ref. 4_ | Table 4, p. 9, row 20 |  |
+| 1513.4 | Eutectic: Liquid -> Mn5Si3 + MnSi | Liquid: Si 0.439; Mn5Si3: Si 0.375; MnSi: Si 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 7 |  |
+| 1513 | Liquid -> Mn5Si3 + MnSi |  | model | [3] Berche 2014 | Table 1, p. 3, row 22 |  |
+| 1512.2 | L \<=> Mn5Si3 + Mn1Si1 | L: Si 0.439; Mn5Si3: Mn 0.625, Si 0.375; Mn1Si1: Mn 0.5, Si 0.5 | model | [1] Chevalier 1995 | Table 4, p. 9, row 18 |  |
+| 1512 | Liquid -> Mn5Si3 + MnSi |  | experimental | [3] Berche 2014; _cites Doerinckel 1906_ [doi](https://doi.org/10.1002/zaac.19060500113) | Table 1, p. 3, row 20 |  |
+| 1510.15 | L \<=> Mn5Si3 + Mn1Si1 | L: Si 0.438; Mn5Si3: Mn 0.625, Si 0.375; Mn1Si1: Mn 0.5, Si 0.5 | experimental | [1] Chevalier 1995; _cites ref. 3_ | Table 4, p. 9, row 21 |  |
+| 1507.15 | L \<=> Mn5Si3 + Mn1Si1 | L: Si 0.456; Mn5Si3: Mn 0.625, Si 0.375; Mn1Si1: Mn 0.5, Si 0.5 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 19 |  |
+| 1507 | Liquid -> Mn5Si3 + MnSi |  | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | Table 1, p. 3, row 21 |  |
+| 1486.7 | L + bcc_A2(δ) \<=> fcc-A1(γ) | L: Si 0.0299; bcc_A2(δ): Si 0.0053; fcc-A1(γ): Si 0.013 | model | [1] Chevalier 1995 | Table 4, p. 9, row 1 |  |
+| 1478.15 | L + bcc_A2(δ) \<=> fcc-A1(γ) | L: Si 0.0375; bcc_A2(δ): Si 0.0058; fcc-A1(γ): Si 0.02 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 2 |  |
+| 1476 | BCC_A2 -> FCC_A1 + liquid |  | model | [3] Berche 2014 | Table 1, p. 3, row 1 |  |
+| 1445.3 | Peritectic: Liquid + bcc-A2 -> cub-A13 | Liquid: Si 0.08; bcc-A2: Si 0.035; cub-A13: Si 0.046 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 1 |  |
+| 1432 | MnSi + liquid -> MnSix |  | experimental | [3] Berche 2014; _cites Dudkin 1961_ | Table 1, p. 3, row 27 |  |
+| 1432 | peritectic |  | experimental | [3] Berche 2014; _cites Dudkin 1961_ | p. 1 | “The temperature of the peritectic is measured between 1424 K \[25\] and 1432 K \[21\] (Table 1).” |
+| 1431 | FCC_A1 + liquid -> CUB_A13 |  | model | [3] Berche 2014 | Table 1, p. 3, row 3 |  |
+| 1430 | peritectic: MnSi + liquid ? MnSix |  | experimental | [3] Berche 2014 | p. 2 | “For the sample A, the first transformation occurs at 1430 K. Since the sample contains MnSi + MnSix according to XRD measurements, this temperature corresponds to the peritectic transformation MnSi + liquid ? MnSix.” |
+| 1430 | MnSi + liquid -> MnSix |  | experimental | [3] Berche 2014; _cites Korshunov 1964_ [doi](https://doi.org/10.1007/978-1-4899-5100-7_13) | Table 1, p. 3, row 28 |  |
+| 1429 | MnSi + liquid -> MnSix |  | experimental | [3] Berche 2014; _cites Allam 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.10.016) | Table 1, p. 3, row 31 |  |
+| 1428.15 | L + Mn1Si1 \<=> Mn11Si19 | L: Si 0.645; Mn1Si1: Mn 0.5, Si 0.5; Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 23 |  |
+| 1428.15 | L + fcc_A1(γ) \<=> cubic_A13 (β) | L: Si 0.09; fcc_A1(γ): Si 0.028; cubic_A13 (β): Si 0.05 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 4 |  |
+| 1428 | MnSi + liquid -> MnSix |  | model | [3] Berche 2014 | Table 1, p. 3, row 32 |  |
+| 1428 | FCC_A1 + liquid -> CUB_A13 |  | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | Table 1, p. 3, row 2 |  |
+| 1426.7 | L + fcc_A1(γ) \<=> cubic_A13 (β) | L: Si 0.0878; fcc_A1(γ): Si 0.0286; cubic_A13 (β): Si 0.0467 | model | [1] Chevalier 1995 | Table 4, p. 9, row 3 |  |
+| 1426.6 | Peritectic: bcc-A2 + cub-A13 -> fcc-A1 | bcc-A2: Si 0.024; cub-A13: Si 0.024; fcc-A1: Si 0.033 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 2 |  |
+| 1425.15 | L + Mn1Si1 \<=> Mn11Si19 | Mn1Si1: Mn 0.5, Si 0.5; Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 9_ | Table 4, p. 9, row 26 |  |
+| 1425 | MnSi + liquid -> MnSix |  | experimental | [3] Berche 2014; _cites Mager 1970_ [doi](https://doi.org/10.1515/ijmr-1970-611112) | Table 1, p. 3, row 30 |  |
+| 1425 | Liquid -> MnSix + DIAMOND |  | model | [3] Berche 2014 | Table 1, p. 3, row 38 |  |
+| 1424 | MnSi + liquid -> MnSix |  | experimental | [3] Berche 2014; _cites Morkhovets 1966_ | Table 1, p. 3, row 29 |  |
+| 1424 | peritectic |  | experimental | [3] Berche 2014; _cites Morkhovets 1966_ | p. 1 | “The temperature of the peritectic is measured between 1424 K \[25\] and 1432 K \[21\] (Table 1).” |
+| 1423.4 | Peritectic: Liquid + MnSi -> Mn11Si19 | Liquid: Si 0.639; MnSi: Si 0.5; Mn11Si19: Si 0.633 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 9 |  |
+| 1423.15 | L \<=> Mn11Si19 + Si1(dia_A4) | L: Si 0.679; Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 28 |  |
+| 1423.15 | L + Mn1Si1 \<=> Mn11Si19 | L: Si 0.6569; Mn1Si1: Mn 0.5, Si 0.5; Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 3_ | Table 4, p. 9, row 24 |  |
+| 1423 | eutectic: liquid ? MnSix + silicon |  | experimental | [3] Berche 2014; _cites Korshunov 1964_ | p. 1 | “For higher silicon contents, the HMS phase is involved in the eutectic reaction: liquid ? MnSix + silicon. This reaction occurs between 1415 K \[26\] and 1423 K \[24\] (Table 1).” |
+| 1423 | Liquid -> MnSix + DIAMOND |  | experimental | [3] Berche 2014; _cites Allam 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.10.016) | Table 1, p. 3, row 37 |  |
+| 1423 | Liquid -> MnSix + DIAMOND |  | experimental | [3] Berche 2014; _cites Korshunov 1964_ [doi](https://doi.org/10.1007/978-1-4899-5100-7_13) | Table 1, p. 3, row 35 |  |
+| 1423 | eutectic: liquid ? MnSix + Si |  | experimental | [3] Berche 2014 | p. 2 | “In the sample E, the first transformation occurs at 1423 K. Since Si is the second phase in this sample according to XRD measurements, this temperature has to be associated to the eutectic transformation liquid ? MnSix + Si.” |
+| 1422.3 | L + Mn1Si1 \<=> Mn11Si19 | L: Si 0.6572; Mn1Si1: Mn 0.5, Si 0.5; Mn11Si19: Mn 0.366667, Si 0.633333 | model | [1] Chevalier 1995 | Table 4, p. 9, row 22 |  |
+| 1422.15 | L \<=> Mn11Si19 + Si1(dia_A4) | L: Si 0.664; Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 3_ | Table 4, p. 9, row 29 |  |
+| 1422 | Liquid -> MnSix + DIAMOND |  | experimental | [3] Berche 2014; _cites Dudkin 1961_ | Table 1, p. 3, row 34 |  |
+| 1419.7 | L \<=> Mn11Si19 + Si1(dia_A4) | L: Si 0.6708; Mn11Si19: Mn 0.366667, Si 0.633333 | model | [1] Chevalier 1995 | Table 4, p. 9, row 27 |  |
+| 1417.1 | Eutectic: Liquid -> diamond + Mn11Si19 | Liquid: Si 0.674; diamond: Si 0.633; Mn11Si19: Si 1 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 10 |  |
+| 1416.15 | L + Mn1Si1 \<=> Mn11Si19 | Mn1Si1: Mn 0.5, Si 0.5; Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 4_ | Table 4, p. 9, row 25 |  |
+| 1415.15 | L \<=> Mn11Si19 + Si1(dia_A4) | Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 9_ | Table 4, p. 9, row 31 |  |
+| 1415 | eutectic: liquid ? MnSix + silicon |  | experimental | [3] Berche 2014; _cites Mager 1970_ | p. 1 | “For higher silicon contents, the HMS phase is involved in the eutectic reaction: liquid ? MnSix + silicon. This reaction occurs between 1415 K \[26\] and 1423 K \[24\] (Table 1).” |
+| 1415 | Liquid -> MnSix + DIAMOND |  | experimental | [3] Berche 2014; _cites Mager 1970_ [doi](https://doi.org/10.1515/ijmr-1970-611112) | Table 1, p. 3, row 36 |  |
+| 1411 | Mn1(bcc_A2)(δ) \<=> Mn1(fcc_A1)(γ) | Mn1(bcc_A2)(δ): Si 0 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 41 |  |
+| 1411 | Mn1(bcc_A2)(δ) \<=> Mn1(fcc_A1)(γ) | Mn1(bcc_A2)(δ): Si 0 | model | [1] Chevalier 1995 | Table 4, p. 9, row 40 |  |
+| 1410.15 | L \<=> Mn11Si19 + Si1(dia_A4) | Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 4_ | Table 4, p. 9, row 30 |  |
+| 1409 | Liquid -> MnSix + DIAMOND |  | experimental | [3] Berche 2014; _cites Doerinckel 1906_ [doi](https://doi.org/10.1002/zaac.19060500113) | Table 1, p. 3, row 33 |  |
+| 1373.15 | Mn1(fcc_A1)(γ) \<=> Mn1(cubic_A13 )(β) | Mn1(fcc_A1)(γ): Si 0 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 43 |  |
+| 1360 | Mn1(fcc_A1)(γ) \<=> Mn1(cubic_A13 )(β) | Mn1(fcc_A1)(γ): Si 0 | model | [1] Chevalier 1995 | Table 4, p. 9, row 42 |  |
+| 1348.15 | L + Mn5Si3 \<=> Mn3Si1 | L: Si 0.213; Mn5Si3: Mn 0.625, Si 0.375; Mn3Si1: Si 0.254 | experimental | [1] Chevalier 1995; _cites ref. 3_ | Table 4, p. 9, row 15 |  |
+| 1348 | Liquid + Mn5Si3 -> Mn3Si |  | experimental | [3] Berche 2014; _cites Doerinckel 1906_ [doi](https://doi.org/10.1002/zaac.19060500113) | Table 1, p. 3, row 13 |  |
+| 1348 | Peritectic: Liquid + Mn5Si3 -> Mn3Si | Liquid: Si 0.239; Mn5Si3: Si 0.375; Mn3Si: Si 0.25 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 5 |  |
+| 1344 | Liquid + Mn5Si3 -> Mn3Si |  | model | [3] Berche 2014 | Table 1, p. 3, row 15 |  |
+| 1343.15 | L + Mn5Si3 \<=> Mn3Si1 | L: Si 0.24; Mn5Si3: Mn 0.625, Si 0.375; Mn3Si1: Mn 0.75, Si 0.25 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 14 |  |
+| 1343 | Liquid + Mn5Si3 -> Mn3Si |  | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | Table 1, p. 3, row 14 |  |
+| 1340.1 | L + Mn5Si3 \<=> Mn3Si1 | L: Si 0.2363; Mn5Si3: Mn 0.625, Si 0.375; Mn3Si1: Si 0.25 | model | [1] Chevalier 1995 | Table 4, p. 9, row 13 |  |
+| 1333.15 | L + cubic_A13(β) \<=> Mn9Si2(v) | L: Si 0.187; cubic_A13(β): Si 0.167; Mn9Si2(v): Si 0.173 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 8 |  |
+| 1333 | peritectic |  | experimental | [3] Berche 2014; _cites Wieser 2014_ | p. 3 | “Wieser affirms that m (labeled f) decomposes by a peritectic transformation at approximately 1333 K.” |
+| 1323.6 | L + cubic_A13(β) \<=> Mn9Si2(v) | L: Si 0.2047; cubic_A13(β): Si 0.1732; Mn9Si2(v): Si 0.1818 | model | [1] Chevalier 1995 | Table 4, p. 9, row 7 |  |
+| 1320.9 | L \<=> Mn9Si2(v) + Mn3Si1 | L: Si 0.2092; Mn9Si2(v): Si 0.1818; Mn3Si1: Si 0.25 | model | [1] Chevalier 1995 | Table 4, p. 9, row 9 |  |
+| 1320 | Liquid -> CUB_A13 + Mn3Si |  | model | [3] Berche 2014 | Table 1, p. 3, row 12 |  |
+| 1313.15 | L \<=> Mn9Si2(v) + Mn3Si1 | L: Si 0.21; Mn9Si2(v): Si 0.18; Mn3Si1: Si 0.24 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 10 |  |
+| 1313 | Liquid -> FCC_A1 + Mn3Si |  | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | Table 1, p. 3, row 11 |  |
+| 1312.7 | Peritectic: Liquid + cub-A13 -> Mn9Si2 | Liquid: Si 0.191; cub-A13: Si 0.14; Mn9Si2: Si 0.175 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 3 |  |
+| 1309.3 | Eutectic: Liquid -> Mn9Si2 + Mn3Si | Liquid: Si 0.197; Mn9Si2: Si 0.175; Mn3Si: Si 0.25 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 4 |  |
+| 1253 | CUB_A13 + Mn3Si -> NU_Mn9Si2 |  | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | Table 1, p. 3, row 9 |  |
+| 1236 | CUB_A13 + Mn3Si -> NU_Mn9Si2 |  | model | [3] Berche 2014 | Table 1, p. 3, row 10 |  |
+| 1173 | CUB_A13 + NU_Mn9Si2 -> R_Mn6Si |  | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | Table 1, p. 3, row 6 |  |
+| 1153.15 | cubic_A13(β) + Mn9Si2(v) \<=> Mn6Si1 (R) | cubic_A13(β): Si 0.147; Mn9Si2(v): Si 0.162; Mn6Si1 (R): Si 0.153 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 12 |  |
+| 1153 | CUB_A13 + NU_Mn9Si2 -> R_Mn6Si |  | experimental | [3] Berche 2014; _cites Wieser 2014_ | Table 1, p. 3, row 7 |  |
+| 1153 | peritectoid: Mn6Si -> CUB_A13 + m-Mn6Si |  | experimental | [3] Berche 2014; _cites Wieser 2014_ | p. 3 | “This phase decomposes peritectoidaly into CUB_A13 and m-Mn6Si around 1153 K according to Wieser \[29\].” |
+| 1146.2 | cubic_A13(β) + Mn9Si2(v) \<=> Mn6Si1 (R) | cubic_A13(β): Si 0.1366; Mn9Si2(v): Si 0.1818; Mn6Si1 (R): Si 0.1429 | model | [1] Chevalier 1995 | Table 4, p. 9, row 11 |  |
+| 1123.15 | Mn3Si1 + Mn5Si3 \<=> Mn5Si2 | Mn3Si1: Mn 0.75, Si 0.25; Mn5Si3: Mn 0.625, Si 0.375; Mn5Si2: Mn 0.714286, Si 0.285714 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 17 |  |
+| 1123.15 | Mn3Si1 + Mn5Si3 \<=> Mn5Si2 | Mn3Si1: Mn 0.75, Si 0.25; Mn5Si3: Mn 0.625, Si 0.375; Mn5Si2: Mn 0.714286, Si 0.285714 | model | [1] Chevalier 1995 | Table 4, p. 9, row 16 |  |
+| 1109 | CUB_A13 + NU_Mn9Si2 -> R_Mn6Si |  | model | [3] Berche 2014 | Table 1, p. 3, row 8 |  |
+| 1000.15 | Mn1(cubic_A13)(β) \<=> Mn1(bcc_A12)(α) | Mn1(cubic_A13)(β): Si 0 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 45 |  |
+| 980 | Mn1(cubic_A13)(β) \<=> Mn1(bcc_A12)(α) | Mn1(cubic_A13)(β): Si 0 | model | [1] Chevalier 1995 | Table 4, p. 9, row 44 |  |
+| 918 | Peritectoid: cub-A13 + Mn9Si2 -> Mn6Si | cub-A13: Si 0.096; Mn9Si2: Si 0.17; Mn6Si: Si 0.15 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 11 |  |
+| 911 | CUB_A13 -> CBCC_A12 + R_Mn6Si |  | model | [3] Berche 2014 | Table 1, p. 3, row 5 |  |
+| 908.27 | cubic_A13(β) \<=> Mn6Si1(R) + bcc_A12(α) | cubic_A13(β): Si 0.0813; Mn6Si1(R): Si 0.1429; bcc_A12(α): Si 0.0707 | model | [1] Chevalier 1995 | Table 4, p. 9, row 5 |  |
+| 908.15 | cubic_A13(β) \<=> Mn6Si1(R) + bcc_A12(α) | cubic_A13(β): Si 0.08; Mn6Si1(R): Si 0.12; bcc_A12(α): Si 0.06 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 6 |  |
+| 908 | CUB_A13 -> CBCC_A12 + R_Mn6Si |  | experimental | [3] Berche 2014; _cites Wieser 2014_ | Table 1, p. 3, row 4 |  |
+| 870.6 | Eutectoid: cbcc-A12 -> cub-A13 + Mn6Si | cbcc-A12: Si 0.086; cub-A13: Si 0.075; Mn6Si: Si 0.15 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 12 |  |
+
+## Other properties
+
+### Phase transition (44)
+
+Table: Phase transition, Mn–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 22 K | 22 | other | experimental | [3] Berche 2014; _cites Kalishevich 1974_ | p. 4 | “Another transition at 22 K is also reported by Kalishevich \[50\] on the basis of electrical resistivity measurements at low-temperature.” |
+| Phase transition | 23 K | 23 | magnetic | experimental | [3] Berche 2014; _cites Niki 2013_ | p. 4 | “Its Curie temperature is measured at 23 K by Niki \[51\].” |
+| Phase transition | 29 K | 29 | magnetic | experimental | [3] Berche 2014; _cites Shirane 1983_ [doi](https://doi.org/10.1103/physrevb.28.6251) | p. 5 | “Its Curie temperature is of 29 K according to Shirane \[61\].” |
+| Phase transition | 30 K | 30 | magnetic | experimental | [3] Berche 2014; _cites Zygmunt 2008_ [doi](https://doi.org/10.12693/aphyspola.113.1193) | p. 5 | “Zygmunt \[58\] measures the Curie temperature of this phase at 30 K.” |
+| Phase transition | 40 K | 40 | magnetic | experimental | [3] Berche 2014; _cites Gottlieb 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900387-6) | p. 5 | “The Curie temperature of the phase is measured at 40 K by Gottlieb \[12\].” |
+| Phase transition | 62 K | 62 | magnetic | model | [3] Berche 2014; _cites Berche_ | p. 5 | “As presented in \[55\], two magnetic transformations occur at 100 K and 62 K.” |
+| Phase transition | 100 K | 100 | magnetic | model | [3] Berche 2014; _cites Berche_ | p. 5 | “As presented in \[55\], two magnetic transformations occur at 100 K and 62 K.” |
+| Phase transition | 800 K | 800 |  | experimental | [3] Berche 2014; _cites Allam 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.10.016) | p. 1 | “According to Allam \[18,19\], at low temperature (773 K), the only stable phase is Mn27Si47, a second order transition transforms Mn27Si47 into Mn15Si26 at around 800 K (Fig. 1b).” |
+| Phase transition | 905 K | 905 | bMn M aMn + Mn6Si | model | [4] Zheng 2015 | p. 6 | “The calculated invariant reactions bMn M aMn + Mn6Si (905 K) and bMn + Mn9Si2 M Mn6Si (1152 K) are also consistent with the experimental data (908 K, 1153 K) \[13\], respectively.” |
+| Phase transition | 908 K | 908 | bMn M aMn + Mn6Si | model | [4] Zheng 2015; _cites Massaski 1990_ | p. 6 | “The calculated invariant reactions bMn M aMn + Mn6Si (905 K) and bMn + Mn9Si2 M Mn6Si (1152 K) are also consistent with the experimental data (908 K, 1153 K) \[13\], respectively.” |
+| Phase transition | 950 K | 950 | allotropic | experimental | [1] Chevalier 1995 | p. 2 | “- 8 : cubic intermediate phase : Mn3Sil. It exists over a narrow homogeneity range (24-25.6 at%Si) and presents an allotropic transformation at 677 "C or 950 K.” |
+| Phase transition | 1152 K | 1152 | bMn + Mn9Si2 M Mn6Si | model | [4] Zheng 2015 | p. 6 | “The calculated invariant reactions bMn M aMn + Mn6Si (905 K) and bMn + Mn9Si2 M Mn6Si (1152 K) are also consistent with the experimental data (908 K, 1153 K) \[13\], respectively.” |
+| Phase transition | 1153 K | 1153 | bMn + Mn9Si2 M Mn6Si | model | [4] Zheng 2015; _cites Massaski 1990_ | p. 6 | “The calculated invariant reactions bMn M aMn + Mn6Si (905 K) and bMn + Mn9Si2 M Mn6Si (1152 K) are also consistent with the experimental data (908 K, 1153 K) \[13\], respectively.” |
+| Phase transition | 1343 K | 1343 |  | experimental | [3] Berche 2014; _cites Letun 1965_ | p. 4 | “- Mn3Si: the D03 cubic phase \[47\] decomposes into liquid and Mn5Si3 at 1348 K \[28,29\] or 1343 K \[48\].” |
+| Phase transition | 1348 K | 1348 |  | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | p. 4 | “- Mn3Si: the D03 cubic phase \[47\] decomposes into liquid and Mn5Si3 at 1348 K \[28,29\] or 1343 K \[48\].” |
+| Phase transition | 1409 K | 1409 |  | experimental | [3] Berche 2014; _cites Doerinckel 1906_ [doi](https://doi.org/10.1002/zaac.19060500113) | p. 1 | “This temperature was also measured by Doerinckel \[27\] at 1409 K, but due to the very low purity of the silicon, the measurements are very doubtful for high silicon content samples and as a consequence this result is not taken into consideration.” |
+| Phase transition | 1417 K | 1417 | polymorphic: D; _alloy: Mn 0.3649, Si 0.6351_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 8 |  |
+| Phase transition | 1421 K | 1421 | polymorphic: B; _alloy: Mn 0.3667, Si 0.6333_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 3 |  |
+| Phase transition | 1422 K | 1422 |  | experimental | [3] Berche 2014; _cites Dudkin 1961_ | p. 2 | “This is in good agreement with the 1422 K of Dudkin \[21\] and the 1425 K of Allam \[18\].” |
+| Phase transition | 1423 K | 1423 | eutectic: E; _alloy: Mn 0.3636, Si 0.6364_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 11 |  |
+| Phase transition | 1425 K | 1425 |  | experimental | [3] Berche 2014; _cites Mager 1970_ | p. 2 | “This result is in very good agreement with the 1429 K, 1425 K and 1432 K measured by Allam \[18\], Mager \[26\] and Dudkin \[21\] respectively (Table 1).” |
+| Phase transition | 1425 K | 1425 |  | experimental | [3] Berche 2014; _cites Allam 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.10.016) | p. 2 | “This is in good agreement with the 1422 K of Dudkin \[21\] and the 1425 K of Allam \[18\].” |
+| Phase transition | 1429 K | 1429 |  | experimental | [3] Berche 2014; _cites Allam 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.10.016) | p. 2 | “This result is in very good agreement with the 1429 K, 1425 K and 1432 K measured by Allam \[18\], Mager \[26\] and Dudkin \[21\] respectively (Table 1).” |
+| Phase transition | 1429 K | 1429 | peritectic: B; _alloy: Mn 0.3667, Si 0.6333_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 4 |  |
+| Phase transition | 1429 K | 1429 | peritectic: D; _alloy: Mn 0.3649, Si 0.6351_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 9 |  |
+| Phase transition | 1430 K | 1430 | peritectic: C; _alloy: Mn 0.3659, Si 0.6341_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 6 |  |
+| Phase transition | 1430 K | 1430 | peritectic: E; _alloy: Mn 0.3636, Si 0.6364_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 12 |  |
+| Phase transition | 1432 K | 1432 |  | experimental | [3] Berche 2014; _cites Dudkin 1961_ | p. 2 | “This result is in very good agreement with the 1429 K, 1425 K and 1432 K measured by Allam \[18\], Mager \[26\] and Dudkin \[21\] respectively (Table 1).” |
+| Phase transition | 1529 K | 1529 | Liquid -> MnSi | model | [3] Berche 2014 | Table 1, p. 3, row 26 |  |
+| Phase transition | 1533 K | 1533 | Liquid -> MnSi | experimental | [3] Berche 2014; _cites Mager 1970_ [doi](https://doi.org/10.1515/ijmr-1970-611112) | Table 1, p. 3, row 25 |  |
+| Phase transition | 1533 K | 1533 | congruent | experimental | [3] Berche 2014; _cites Mager 1970_ | p. 5 | “- MnSi: this cubic phase \[59\] melts congruently at 1553 K \[27\], 1533 K \[26\] or 1549 K \[28\].” |
+| Phase transition | 1546 K | 1546 | Liquid -> MnSi | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | Table 1, p. 3, row 24 |  |
+| Phase transition | 1549 K | 1549 | congruent | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | p. 5 | “- MnSi: this cubic phase \[59\] melts congruently at 1553 K \[27\], 1533 K \[26\] or 1549 K \[28\].” |
+| Phase transition | 1553 K | 1553 | Liquid -> MnSi | experimental | [3] Berche 2014; _cites Doerinckel 1906_ [doi](https://doi.org/10.1002/zaac.19060500113) | Table 1, p. 3, row 23 |  |
+| Phase transition | 1553 K | 1553 | congruent | experimental | [3] Berche 2014; _cites Doerinckel 1906_ [doi](https://doi.org/10.1002/zaac.19060500113) | p. 5 | “- MnSi: this cubic phase \[59\] melts congruently at 1553 K \[27\], 1533 K \[26\] or 1549 K \[28\].” |
+| Phase transition | 1558 K | 1558 | Liquid -> Mn5Si3 | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | Table 1, p. 3, row 17 |  |
+| Phase transition | 1558 K | 1558 | congruent | experimental | [3] Berche 2014; _cites Vogel 1934_ [doi](https://doi.org/10.1002/srin.193400477) | p. 5 | “- Mn5Si3: this D88 hexagonal \[56\] phase melts congruently at 1593 K \[27\], 1558 K \[28\] or 1573 K \[30\].” |
+| Phase transition | 1570 K | 1570 |  | model | [3] Berche 2014 | p. 9 | “Melting point of Mn5Si3: the calculated temperature of 1570 K is in good agreement with the 1573 K measured by Letun \[30\], this temperature was the accepted one in \[34\].” |
+| Phase transition | 1570 K | 1570 | Liquid -> Mn5Si3 | model | [3] Berche 2014 | Table 1, p. 3, row 19 |  |
+| Phase transition | 1573 K | 1573 |  | experimental | [3] Berche 2014; _cites Letun 1965_ | p. 9 | “Melting point of Mn5Si3: the calculated temperature of 1570 K is in good agreement with the 1573 K measured by Letun \[30\], this temperature was the accepted one in \[34\].” |
+| Phase transition | 1573 K | 1573 | Liquid -> Mn5Si3 | experimental | [3] Berche 2014; _cites Letun 1965_ | Table 1, p. 3, row 18 |  |
+| Phase transition | 1573 K | 1573 | congruent | experimental | [3] Berche 2014; _cites Letun 1965_ | p. 5 | “- Mn5Si3: this D88 hexagonal \[56\] phase melts congruently at 1593 K \[27\], 1558 K \[28\] or 1573 K \[30\].” |
+| Phase transition | 1589 K | 1589 | Liquid -> Mn5Si3 | experimental | [3] Berche 2014; _cites Doerinckel 1906_ [doi](https://doi.org/10.1002/zaac.19060500113) | Table 1, p. 3, row 16 |  |
+| Phase transition | 1593 K | 1593 | congruent | experimental | [3] Berche 2014; _cites Doerinckel 1906_ [doi](https://doi.org/10.1002/zaac.19060500113) | p. 5 | “- Mn5Si3: this D88 hexagonal \[56\] phase melts congruently at 1593 K \[27\], 1558 K \[28\] or 1573 K \[30\].” |
+
+### Phase equilibrium (5)
+
+Table: Phase equilibrium, Mn–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase composition |  | 1441 | liquidus: D; _liquid: Mn 0.3649, Si 0.6351_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 10 |  |
+| Phase composition |  | 1441 | liquidus: E; _liquid: Mn 0.3636, Si 0.6364_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 13 |  |
+| Phase composition |  | 1443 | liquidus: C; _liquid: Mn 0.3659, Si 0.6341_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 7 |  |
+| Phase composition |  | 1444 | liquidus: B; _liquid: Mn 0.3667, Si 0.6333_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 5 |  |
+| Phase composition |  | 1456 | liquidus: A; _liquid: Mn 0.3794, Si 0.6206_ | experimental | [3] Berche 2014 | Table 2, p. 4, row 2 |  |
+
+### Mixing / partial (1)
+
+Table: Mixing / partial, Mn–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: AH_ | -35.91 kJ/g.atom | 1773 |  | experimental | [1] Chevalier 1995; _cites ref. 14_ | p. 3 | “The enthalpies of mixing of liquid Mn-Si alloys have been measured by calorimetry at T = 1773 K by Gorbunov et al. (14) : xsi, AH (kJ/g.atom) = 0.05, -6.21 ; 0.10, -12.29 ; 0.15, -18.16 ; 0.20, -23.50 ; 0.25, -28.14 ; 0.30, -31.82 ; 0.35, -34.39 ; 0.40, -35.87 ; 0.45, -36.42 ; 0.50, -35.91 ; 0.55, -34.30 ; 0.60, -31.90 ; 0.65, -28.85 ; 0.70, -25.99 ; 0.75, -21.97 ; 0 80, -17.71 ; 0.85, -13.34 ; 0…” |
+
+### Activity / EMF / Gibbs energy (3)
+
+Table: Activity / EMF / Gibbs energy, Mn–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Activity; _printed: aMn_ | 0.833 unspecified | 1680 |  | experimental | [1] Chevalier 1995; _cites ref. 28_ | p. 3 | “The themrodynamic properties of molten manganese-silicon alloys were studied by an emf method in the temperature range 1520-1700K by Batahn and Sudavtsova (28,29) : T=1680K, Xsi, aMn, asi = 0.1, 0.833, 0.0003 ; 0.15, 0.764, - ; 0.2, 0.575, 0.0027 ; 0.3, 0.338, 0.0170 ; 0.4, 0.137, 0.0747 ; 0.5, 0.0646, 0.2135 ; 0.6, 0.0262, 0.4151 ; 0.7, 0.0145, 0.6068 ; 0.8, 0.0070,0.754 ; 0.9, -, 0.8805.” |
+| Activity; _printed: aMn_ | 0.0305 unspecified | 1700 |  | experimental | [1] Chevalier 1995; _cites ref. 15_ | p. 3 | “The thermodynamic properties have been calculated at 1700 K and the activities of the components show very strong negative deviations from ideal&y : xsi, aMn. aSi = 0.1, 0.8645, 0.000067 ; 0.2, 0.5829, 0.0006 ; 0.3, 0.2852, 0.0052 ; 0.4, 0.0929, 0.0408 ; 0.5, 0.0305, 0.1656;0.6,0.0117,0.3613 ;0.7,0.0049,0.5830;0.8,0.0023,0.752;0.9,0.0008,0.8934.” |
+| Activity; _printed: aMn_ | 0.0591 unspecified | 1700 |  | experimental | [1] Chevalier 1995; _cites ref. 30_ | p. 3 | “The vapour pressure measurements of Zaitsev et al. (30) give at 1700K : Xsi, aMn. aSi, AH (kJ/g.atom) = 0.403, 0.153, 0.064, -35.83 + 4.7 ; 0.5, 0.0591, 0.209, -37.0 + 3.7 ; 0.602, 0.0258, 0.414, -32.7 + 4.5 ; 0.66, 0.0171, 0.525, -29.1 + 51.5; 0.699, 0.0131, 0.594, -25.5 + 3.6 ; 0.803, 0.00626, 0.761, -17.9 rf:2.8 ; 0.898, 0.00258, 0.891, 9.3 + 3.0.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995). [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2)
+2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+3. A. Berche, E. Ruiz-Théron, J.-C. Tedenac, R.-M. Ayral, F. Rouessac, P. Jund, Thermodynamic description of the Mn–Si system: An experimental and theoretical work, Journal of Alloys and Compounds 615, 693-702 (2014). [doi:10.1016/j.jallcom.2014.06.202](https://doi.org/10.1016/j.jallcom.2014.06.202)
+4. Weisen Zheng, Xiao-Gang Lu, Yanlin He, Yuwen Cui, Lin Li, Thermodynamic assessment of the Fe–Mn–Si system and atomic mobility of its fcc phase, Journal of Alloys and Compounds 632, 661-675 (2015). [doi:10.1016/j.jallcom.2015.01.261](https://doi.org/10.1016/j.jallcom.2015.01.261)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

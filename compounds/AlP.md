@@ -1,0 +1,64 @@
+# AlP: enthalpy of formation
+
+> Enthalpy of formation of AlP: 25 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/AlP.html · Markdown: https://data.orchid-project.org/compounds/AlP.md
+
+25 accepted literature formation-enthalpy value(s) (experimental 12, model 13); experimental median -32.135 kJ/mol-atom (n = 4); Materials Project -58.834 kJ/mol-atom (mp-aaaaachq); OQMD -71.088 kJ/mol-atom (oqmd-4641).
+
+Systems: [Al–P](https://data.orchid-project.org/systems/AL-P.html) · [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html)
+
+## Literature values
+
+Table: Enthalpy of formation of AlP reported in the literature (25)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -90.2 kJ/mol (basis unstated) | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Peviak 1974_ | Table 4, p. 6, row 8 |  |
+| -90.2 per mol-atom ± 4 | AlP | 298.15 | experimental | Measured | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Peviak 1974_ | Table 3, p. 3, row 4 |  |
+| -82.6 per mol-atom ± 1 | AlP | 298.15 | experimental | Measured | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 3, row 2 |  |
+| -82.6 kJ/mol (basis unstated) | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 4, p. 6, row 6 |  |
+| -81.6 per mol-atom ± 1 | AlP | 298.15 | experimental | Measured | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 3, row 3 |  |
+| -81.6 kJ/mol (basis unstated) | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 4, p. 6, row 7 |  |
+| -69.4 per mol-atom ± 4 | AlP | 298.15 | experimental | Measured | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 3, row 1 |  |
+| -69.4 kJ/mol (basis unstated) | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 4, p. 6, row 5 |  |
+| -41.3 kJ/mol-atom ± 1.1 | AlP | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 4, row 2 |  |
+| -34.77 kJ/mol-atom ± 4.6 | AlP | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 4, row 1 |  |
+| -29.5 kJ/mol-atom ± 6.7 | AlP | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites G 1968_ | Table 3, p. 4, row 3 |  |
+| -28.8 kJ/mol-atom ± 17.7 | AlP | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 4, row 4 |  |
+| -91.5 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5 |  |
+| -82.2 per mol-atom | AlP | 298.15 | model | Reviewed | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Barin 1977_ | Table 3, p. 3, row 12 |  |
+| -82.2 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9 |  |
+| -81.8 kJ/mol (basis unstated) | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015 | Table 4, p. 6, row 4 |  |
+| -81.6 per mol-atom | AlP | 298.15 | model | Calphad | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013 | Table 3, p. 3, row 14 |  |
+| -81.6 kJ/mol (basis unstated) | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Liang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.001) | Table 4, p. 6, row 3 |  |
+| -80.4 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites McAlister 2013_ | Table 3, p. 3, row 6 |  |
+| -74.3 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 3, p. 3, row 7 |  |
+| -74.3 kJ/mol (basis unstated) | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 4, p. 6, row 1 |  |
+| -67.7 per mol-atom ± 6.7 | AlP | 298.15 | model | Derived | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites De 1968_ | Table 3, p. 3, row 13 |  |
+| -51 kJ/mol (basis unstated) | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 2 |  |
+| -51 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8 |  |
+| -25.5 kJ/mol-atom | AlP | 298 | model |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009 | Table 3, p. 4, row 5 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of AlP
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaachq | -58.834 | -0.609772 | F-43m | 0 | no |
+| OQMD | oqmd-4641 | -71.088 | -0.736775 | F-43m | 0.003 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Jyrki Miettinen, Seppo Louhenkilpi, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 9: Fe-Al-P, J. Phase Equilib. Diffus. 36, 317-326 (2015). [doi:10.1007/s11669-015-0383-5](https://doi.org/10.1007/s11669-015-0383-5)
+2. Song-Mao Liang, Rainer Schmid-Fetzer, Thermodynamic assessment of the Al–P system based on original experimental data, Calphad 42, 76-85 (2013). [doi:10.1016/j.calphad.2013.07.001](https://doi.org/10.1016/j.calphad.2013.07.001)
+3. Hao Tu, Fucheng Yin, Xuping Su, Ya Liu, Xinming Wang, Experimental investigation and thermodynamic modeling of the Al–P–Zn ternary system, Calphad 33, 755-760 (2009). [doi:10.1016/j.calphad.2009.10.003](https://doi.org/10.1016/j.calphad.2009.10.003)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

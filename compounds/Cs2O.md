@@ -1,0 +1,46 @@
+# Cs2O: enthalpy of formation
+
+> Enthalpy of formation of Cs2O: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Cs2O.html · Markdown: https://data.orchid-project.org/compounds/Cs2O.md
+
+9 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 3, unspecified 2); experimental median -115.733 kJ/mol-atom (n = 2); Materials Project -114.685 kJ/mol-atom (mp-aaaaalvg); OQMD -107.286 kJ/mol-atom (oqmd-1343720).
+
+Systems: [Cs–O](https://data.orchid-project.org/systems/CS-O.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Cs2O reported in the literature (9)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -116.133 kJ/mol-atom | Cs2O | 298.15 | experimental |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 18 |  |
+| -115.333 kJ/mol-atom | Cs2O | 298.15 | experimental |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Settle 1974_ [doi](https://doi.org/10.1016/0021-9614%2874%2990179-7) | Table 5, p. 7, row 17 |  |
+| -115.333 kJ/mol-atom | Cs2O | 298.15 | model | CALPHAD | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 19 |  |
+| -115.333 kJ/mol-atom | Cs2O | 298.15 | model |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 15 |  |
+| -122.367 kJ/mol-atom | Cs2O | 298.15 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015 | Table 5, p. 7, row 10 |  |
+| -117.4 kJ/mol-atom | Cs2O | 0 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Brillant 2009_ | Table 5, p. 7, row 12 |  |
+| -116.933 kJ/mol-atom | Cs2O | 0 | DFT | DFT | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 11 |  |
+| -115.333 kJ/mol-atom | Cs2O | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 16 |  |
+| -115.333 kJ/mol-atom | Cs2O | 298.15 | unspecified |  | [Cs–O](https://data.orchid-project.org/systems/CS-O.html) | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 14 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Cs2O
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaalvg | -114.685 | -1.18863 | R-3m | 0 | no |
+| OQMD | oqmd-1343720 | -107.286 | -1.11194 | R3 | 0 | yes |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. C. Guéneau, J.-L. Flèche, Thermodynamic assessment of the cesium–oxygen system by coupling density functional theory and CALPHAD approaches, Calphad 49, 67-78 (2015). [doi:10.1016/j.calphad.2015.02.002](https://doi.org/10.1016/j.calphad.2015.02.002)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

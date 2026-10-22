@@ -1,0 +1,48 @@
+# Ga2Y: enthalpy of formation
+
+> Enthalpy of formation of Ga2Y: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Ga2Y.html · Markdown: https://data.orchid-project.org/compounds/Ga2Y.md
+
+11 accepted literature formation-enthalpy value(s) (experimental 8, model 3); experimental median -68.7 kJ/mol-atom (n = 8); Materials Project -64.044 kJ/mol-atom (mp-aaaaacvq); OQMD -63.776 kJ/mol-atom (oqmd-30368).
+
+Systems: [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Ga2Y reported in the literature (11)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -74.6 kJ/mol-atom ± 1.5 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 11 |  |
+| -72.1 kJ/mol-atom ± 1.3 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 9 |  |
+| -70.9 kJ/mol-atom ± 1.5 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Yamshchikov 1979_ | Table 5, p. 7, row 12 |  |
+| -69 kJ/mol-atom | Ga2Y | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 8 |  |
+| -68.4 kJ/mol-atom ± 1.3 | Ga2Y | 298.15 | experimental | Emf | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Yamshchikov 1979_ | Table 5, p. 7, row 10 |  |
+| -68.1 kJ/mol-atom ± 2.3 | Ga2Y | 298.15 | experimental | Dir. Syn. Calo. | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 7 |  |
+| -64.4 kJ/mol-atom ± 2.5 | Ga2Y | 298.15 | experimental | Ga Soln. Calo | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 6 |  |
+| -61.8 kJ/mol-atom ± 2.8 | Ga2Y | 298.15 | experimental | Precipitation Cal. | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 2 |  |
+| -73.49 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 4 |  |
+| -73.47 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 3 |  |
+| -65 kJ/mol-atom | Ga2Y | 298.15 | model |  | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013; _cites de Boer FR 1988_ | Table 5, p. 7, row 5 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Ga2Y
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaacvq | -64.044 | -0.663767 | P6/mmm | 0 | no |
+| OQMD | oqmd-30368 | -63.776 | -0.660997 | P6/mmm | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. M. Idbenali, C. Servant, Thermodynamic evaluation of the Ga–Y system, J Therm Anal Calorim 112, 245-253 (2013). [doi:10.1007/s10973-012-2861-x](https://doi.org/10.1007/s10973-012-2861-x)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

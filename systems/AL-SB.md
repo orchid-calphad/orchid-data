@@ -1,0 +1,144 @@
+# Al–Sb system
+
+> Al–Sb system: 48 accepted literature values (phase transition 20, invariant reaction 19, formation 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AL-SB.html · Markdown: https://data.orchid-project.org/systems/AL-SB.md
+
+48 accepted literature values from 2 paper(s) (experimental 3, model 45); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SB.json) · [CSV](https://data.orchid-project.org/systems/AL-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SB/AlSb-05Bal.json) · [Markdown](https://data.orchid-project.org/systems/AL-SB.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 3 |
+| model | 45 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 19 |
+| phase transition | 20 |
+| formation | 9 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AlSb-05Bal.tdb | T. Balakumar, M. Medraj, Calphad, 29, 24-36(2005). [doi:10.1016/j.calphad.2005.03.001](https://doi.org/10.1016/j.calphad.2005.03.001) | `fabdafe6866de922c021d24793cee9a2c9fc0c562e50afcdb1650976377935ce` | [viewer](https://orchid-project.org/phase-diagrams/#AL-SB/AlSb-05Bal.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlSb-05Bal.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlSb-05Bal.json) |
+| AlSb-22Zha.tdb | J. Zhang, Y. Yuan, Calphad, 78, 102460(2022). [doi:10.1016/j.calphad.2022.102460](https://doi.org/10.1016/j.calphad.2022.102460) | `39a1ecf9b1474598033db7bc209d80e65c26758ece83b11de74eda0609069e92` | [viewer](https://orchid-project.org/phase-diagrams/#AL-SB/AlSb-22Zha.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlSb-22Zha.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlSb-22Zha.json) |
+| AlSb-90Cou-LB.tdb | C.A. Coughanowr, U.R. Kattner, T.J. Anderson, Calphad, 14, 193-202(1990). [doi:10.1016/0364-5916(90)90020-Z](https://doi.org/10.1016/0364-5916%2890%2990020-Z) | `eaa6142ac75109d298ef1cb94c17fb4a82d05604e46746f0787871c6a1eecbd7` | [viewer](https://orchid-project.org/phase-diagrams/#AL-SB/AlSb-90Cou-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlSb-90Cou-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlSb-90Cou-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AlSb-05Bal.tdb | 931.52 | FCC_A1 (x(Sb) 5.100e-4) + LIQUID (x(Sb) 0.00345) + ZINCBLENDE_B3 (x(Sb) 0.5) |
+| AlSb-05Bal.tdb | 931.52 | FCC_A1 (x(Sb) 5.000e-4) + LIQUID (x(Sb) 0.0034) + ZINCBLENDE_B3 (x(Sb) 0.5) |
+| AlSb-05Bal.tdb | 893.29 | ZINCBLENDE_B3 (x(Sb) 0.5) + LIQUID (x(Sb) 0.97376) + RHOMBOHEDRAL_A7 (x(Sb) 1) |
+| AlSb-05Bal.tdb | 893.29 | ZINCBLENDE_B3 (x(Sb) 0.5) + LIQUID (x(Sb) 0.97388) + RHOMBOHEDRAL_A7 (x(Sb) 1) |
+| AlSb-22Zha.tdb | 931.85 | FCC_A1 (x(Sb) 9.100e-4) + LIQUID (x(Sb) 0.00336) + ZINCBLENDE_B3 (x(Sb) 0.5) |
+| AlSb-22Zha.tdb | 897.45 | ZINCBLENDE_B3 (x(Sb) 0.5) + LIQUID (x(Sb) 0.98183) + RHOMBOHEDRAL_A7 (x(Sb) 1) |
+| AlSb-90Cou-LB.tdb | 931.99 | FCC_A1 (x(Sb) 0.0021) + LIQUID (x(Sb) 0.00445) + ZINCBLENDE_B3 (x(Sb) 0.5) |
+| AlSb-90Cou-LB.tdb | 931.99 | FCC_A1 (x(Sb) 0.00206) + LIQUID (x(Sb) 0.00437) + ZINCBLENDE_B3 (x(Sb) 0.5) |
+| AlSb-90Cou-LB.tdb | 896.8 | ZINCBLENDE_B3 (x(Sb) 0.5) + LIQUID (x(Sb) 0.97912) + RHOMBOHEDRAL_A7 (x(Sb) 1) |
+| AlSb-90Cou-LB.tdb | 896.8 | ZINCBLENDE_B3 (x(Sb) 0.5) + LIQUID (x(Sb) 0.97936) + RHOMBOHEDRAL_A7 (x(Sb) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-SB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-SB.json) · [CALPHAD hull AlSb-05Bal](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-SB--AlSb-05Bal.json) · [CALPHAD hull AlSb-90Cou-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-SB--AlSb-90Cou-LB.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Al–Sb system (19)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1336.4 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 16 |  |
+| 1335 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 15 |  |
+| 1333 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 14 |  |
+| 1332 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 17 |  |
+| 1331 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 13 |  |
+| 1328.4 | L = AlSb | L: Sb 0.5; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 18 |  |
+| 932 | L = (Al) + AlSb | L: Sb 0.004; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 3 |  |
+| 931.3 | L = (Al) + AlSb | L: Sb 0.0034; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 6 |  |
+| 931 | L = (Al) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 1 |  |
+| 930.4 | L = (Al) + AlSb | L: Sb 0.00476; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 4 |  |
+| 930 | L = (Al) + AlSb | L: Sb 0.004; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 5 |  |
+| 928 | L = (Al) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 2 |  |
+| 901 | L = (Sb) + AlSb | L: Sb 0.983; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1995_ [doi](https://doi.org/10.2320/matertrans1989.36.432) | Table 4, p. 7, row 9 |  |
+| 899 | L = (Sb) + AlSb | L: Sb 0.984; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Yamaguchi 1996_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900006-0) | Table 4, p. 7, row 11 |  |
+| 898.3 | L = (Sb) + AlSb | L: Sb 0.9833; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 4, p. 7, row 10 |  |
+| 897 | L = (Sb) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 8 |  |
+| 897 | L = (Sb) + AlSb | AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 4, p. 7, row 7 |  |
+| 893 | L = (Sb) + AlSb | L: Sb 0.974; AlSb: Al 0.5, Sb 0.5 | model | [1] Balakumar 2005 | Table 4, p. 7, row 12 |  |
+| 828.15 | eutectic: L = Sb + AlSb |  | experimental | [2] Coughanowr 1990; _cites ref. 7_ | p. 1 | “The data of Vesxelka (7) were not used, since the very low temperature reported for the Sb-AlSb eutectic (555°C) suggests contamination problems in the study.” |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–Sb system (6)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| AlSb |  | -96.6 kJ/mol (basis unstated) | 298 | model |  |  | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
+| AlSb |  | -84 kJ/mol (basis unstated) | 298 | model |  |  | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3 |  |
+| AlSb |  | -82 kJ/mol (basis unstated) ± 2.51 | 298 | experimental |  |  | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4 |  |
+| AlSb |  | -82 kJ/mol (basis unstated) ± 2.51 | 298 | experimental |  |  | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4 |  |
+| AlSb |  | -81.27 kJ/mol (basis unstated) | 298 | model |  |  | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
+| AlSb |  | -73.49 kJ/mol (basis unstated) | 298 | model |  |  | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
+
+## Other properties
+
+### Phase transition (20)
+
+Table: Phase transition, Al–Sb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 885.15 K | 885.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 8 |  |
+| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 5 |  |
+| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 18 |  |
+| Phase transition | 897.15 K | 897.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 15 |  |
+| Phase transition | 898.15 K | 898.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 2 |  |
+| Phase transition | 900.15 K | 900.15 | eutectic: Sb-AlSb; _Sb: Sb 1; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 11 |  |
+| Phase transition | 923.15 K | 923.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 4 |  |
+| Phase transition | 928.15 K | 928.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 17 |  |
+| Phase transition | 930.15 K | 930.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 19_ | Table 4, p. 5, row 10 |  |
+| Phase transition | 931.15 K | 931.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 14 |  |
+| Phase transition | 933.15 K | 933.15 | eutectic: Al-AlSb; _Al: Sb 0.5; AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 7 |  |
+| Phase transition | 1331.15 K | 1331.15 |  | model | [2] Coughanowr 1990 | p. 4 | “The fit to the data is very good, as are the catculated T, (1058°C) and eutectic temperatures (658,624'C).” |
+| Phase transition | 1331.15 K | 1331.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 13 |  |
+| Phase transition | 1333.15 K | 1333.15 |  | model | [2] Coughanowr 1990 | p. 5 | “The value of T, (1060°C) and the AI-AlSb eutectic temperature (655'C) differ by a few degrees from the values obtained using the Redlich-Kister model, but are all still within the experimental scatter.” |
+| Phase transition | 1333.15 K | 1333.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990 | Table 4, p. 5, row 16 |  |
+| Phase transition | 1338.15 K | 1338.15 |  | model | [2] Coughanowr 1990; _cites ref. 37_ | p. 5 | “The first three calculations (37-39) yielded a T, value of 1065"C, as first estimated by Hansen and Anderko (40), and in each case one of the calculated eutectic temperatures is lower than suggested by the results of this assessment.” |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 39_ | Table 4, p. 5, row 6 |  |
+| Phase transition | 1338.15 K | 1338.15 (>) | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 41_ | Table 4, p. 5, row 12 |  |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 38_ | Table 4, p. 5, row 3 |  |
+| Phase transition | 1338.15 K | 1338.15 | T_m; _AlSb: Sb 0.5_ | model | [2] Coughanowr 1990; _cites ref. 37_ | Table 4, p. 5, row 1 |  |
+
+### Formation (3)
+
+Table: Formation, Al–Sb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔSf_ | -42.13 J/mol (basis unstated)/K | 298 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
+| Entropy of formation; _printed: ΔSf_ | -51.6 J/mol (basis unstated)/K | 298 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
+| Entropy of formation; _printed: ΔSf_ | -36.13 J/mol (basis unstated)/K | 298 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. T. Balakumar, M. Medraj, Thermodynamic modeling of the Mg–Al–Sb system, Calphad 29, 24-36 (2005). [doi:10.1016/j.calphad.2005.03.001](https://doi.org/10.1016/j.calphad.2005.03.001)
+2. C.A. Coughanowr, U.R. Kattner, T.J. Anderson, Assessment of the Al-Sb system, Calphad 14, 193-202 (1990). [doi:10.1016/0364-5916(90)90020-z](https://doi.org/10.1016/0364-5916%2890%2990020-z)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,93 @@
+# Am–U system
+
+> Am–U system: 4 accepted literature values (phase transition 3, invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AM-U.html · Markdown: https://data.orchid-project.org/systems/AM-U.md
+
+4 accepted literature values from 1 paper(s) (model 4); 3 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AM-U.json) · [CSV](https://data.orchid-project.org/systems/AM-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AM-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-U/AmU-10Kur.json) · [Markdown](https://data.orchid-project.org/systems/AM-U.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 4 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 1 |
+| phase transition | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AmU-10Kur.tdb | M. Kurata, IOP Conf. Ser.: Mater. Sci. Eng., 9, 012023(2010). | `d0aa112b9c5e85f9d27c1e6042b899879a32bb9141deea199d3c71cfbe9b75d8` | [viewer](https://orchid-project.org/phase-diagrams/#AM-U/AmU-10Kur.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AmU-10Kur.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AmU-10Kur.json) |
+| AmU-15Per.tdb | A. Perron, P.E.A. Turchi, A. Landa, P. Soderlind, B. Ravat, B. Oudot, F. Delaunay, J. Nucl. Mater., 458, 425-41(2015). [doi:10.1016/j.jnucmat.2014.12.101](https://doi.org/10.1016/j.jnucmat.2014.12.101) | `b45bb49962d3127b507b5c140b0d75c983c2697b3aaeac6d3a67bcad04fbd68f` | [viewer](https://orchid-project.org/phase-diagrams/#AM-U/AmU-15Per.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AmU-15Per.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AmU-15Per.json) |
+| AmU-93Oga.tdb | T. Ogawa, J. Alloys Compd., 194, 1-7(1993). [doi:10.1016/0925-8388(93)90636-2](https://doi.org/10.1016/0925-8388%2893%2990636-2) | `a402906c7e81f20b33aeda9d6424ca6094b5774bcc721d7a08aa49b821bc9cf2` | [viewer](https://orchid-project.org/phase-diagrams/#AM-U/AmU-93Oga.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AmU-93Oga.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AmU-93Oga.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AmU-10Kur.tdb | 1448.52 | BCC_A2 (x(U) 0.01748) + LIQUID (x(U) 0.01794) + LIQUID#2 (x(U) 0.98206) |
+| AmU-10Kur.tdb | 1408.95 | BCC_A2#2 (x(U) 0.01577) + BCC_A2 (x(U) 0.98423) + LIQUID (x(U) 0.98483) |
+| AmU-10Kur.tdb | 1338.66 | FCC_A1 (x(U) 0.00755) + BCC_A2#2 (x(U) 0.01236) + BCC_A2 (x(U) 0.98764) |
+| AmU-10Kur.tdb | 1047.06 | FCC_A1 (x(U) 0.00184) + BCC_A2 (x(U) 0.99713) + TETRAGONAL_U (x(U) 0.99816) |
+| AmU-10Kur.tdb | 1041.98 | FCC_A1 (x(U) 0.00178) + DHCP (x(U) 0.00178) + TETRAGONAL_U (x(U) 0.99822) |
+| AmU-10Kur.tdb | 942.02 | DHCP (x(U) 8.400e-4) + TETRAGONAL_U (x(U) 0.9991) + ORTHORHOMBIC_A20 (x(U) 0.9991) |
+| AmU-15Per.tdb | 1405.89 | BCC_A2 (x(U) 4.000e-5) + LIQUID (x(U) 0.0416) + LIQUID#2 (x(U) 0.9584) |
+| AmU-15Per.tdb | 1379.33 | BCC_A2#2 (x(U) 3.000e-5) + LIQUID (x(U) 0.96289) + BCC_A2 (x(U) 0.98362) |
+| AmU-15Per.tdb | 1379.33 | BCC_A2 (x(U) 3.000e-5) + LIQUID (x(U) 0.96289) + BCC_A2#2 (x(U) 0.98362) |
+| AmU-15Per.tdb | 1351.72 | BCC_A2 (x(U) 3.000e-5) + FCC_A1 (x(U) 6.900e-4) + BCC_A2#2 (x(U) 0.98487) |
+| AmU-15Per.tdb | 1041.31 | FCC_A1 (x(U) 1.000e-4) + BCC_A2 (x(U) 0.99602) + TETRAGONAL_U (x(U) 1) |
+| AmU-15Per.tdb | 942.02 | DHCP (x(U) 0) + ORTHORHOMBIC_A20 (x(U) 1) + TETRAGONAL_U (x(U) 1) |
+| AmU-93Oga.tdb | 1380.44 | BCC_A2 (x(U) 0.22655) + LIQUID (x(U) 0.35763) + LIQUID#2 (x(U) 0.80443) |
+| AmU-93Oga.tdb | 1354.65 | BCC_A2#2 (x(U) 0.22669) + LIQUID (x(U) 0.84461) + BCC_A2 (x(U) 0.90283) |
+| AmU-93Oga.tdb | 1169.28 | FCC_A1 (x(U) 0.04464) + BCC_A2#2 (x(U) 0.14358) + BCC_A2 (x(U) 0.94724) |
+| AmU-93Oga.tdb | 1009.45 | FCC_A1 (x(U) 0.03006) + BCC_A2 (x(U) 0.97572) + TETRAGONAL_U (x(U) 1) |
+| AmU-93Oga.tdb | 1009.45 | FCC_A1 (x(U) 0.03007) + BCC_A2 (x(U) 0.9757) + TETRAGONAL_U (x(U) 1) |
+| AmU-93Oga.tdb | 942.02 | FCC_A1 (x(U) 0.02335) + ORTHORHOMBIC_A20 (x(U) 1) + TETRAGONAL_U (x(U) 1) |
+| AmU-93Oga.tdb | 942.02 | FCC_A1 (x(U) 0.02331) + TETRAGONAL_U (x(U) 1) + ORTHORHOMBIC_A20 (x(U) 1) |
+| AmU-93Oga.tdb | 902.68 | DHCP (x(U) 0) + FCC_A1 (x(U) 0.01953) + ORTHORHOMBIC_A20 (x(U) 1) |
+| AmU-93Oga.tdb | 902.68 | DHCP (x(U) 0) + FCC_A1 (x(U) 0.01949) + ORTHORHOMBIC_A20 (x(U) 1) |
+| AmU-93Oga.tdb | 902.68 | DHCP (x(U) 0) + FCC_A1 (x(U) 0.01948) + ORTHORHOMBIC_A20 (x(U) 1) |
+
+Convex hulls: [CALPHAD hull AmU-10Kur](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-U--AmU-10Kur.json) · [CALPHAD hull AmU-93Oga](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-U--AmU-93Oga.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Am–U system (1)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1380.15 | monotectic |  | model | [1] Perron 2015 | p. 2 | “Regarding the Am-U system (Fig. 1a), the model result is characterized by a liquid miscibility gap with a monotectic invariant line at about 1107 °C (1380 K).” |
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Am–U system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1603.15 K | 1603.15 | other | model | [1] Perron 2015 | p. 8 | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
+| Phase transition | 2405.15 K | 2405.15 | other | model | [1] Perron 2015 | p. 8 | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
+| Phase transition | 3007.15 K | 3007.15 | other | model | [1] Perron 2015 | p. 8 | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. A. Perron, P.E.A. Turchi, A. Landa, P. Söderlind, B. Ravat, B. Oudot et al., The Pu–U–Am system: An ab initio informed CALPHAD thermodynamic study, Journal of Nuclear Materials 458, 425-441 (2015). [doi:10.1016/j.jnucmat.2014.12.101](https://doi.org/10.1016/j.jnucmat.2014.12.101)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

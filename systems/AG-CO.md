@@ -1,0 +1,85 @@
+# Ag–Co system
+
+> Ag–Co system: 12 accepted literature values (invariant reaction 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AG-CO.html · Markdown: https://data.orchid-project.org/systems/AG-CO.md
+
+12 accepted literature values from 2 paper(s) (experimental 6, model 6); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CO.json) · [CSV](https://data.orchid-project.org/systems/AG-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CO/AgCo-09Zhu.json) · [Markdown](https://data.orchid-project.org/systems/AG-CO.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 6 |
+| model | 6 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 12 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AgCo-09Zhu.tdb | W.J. Zhu, H.S. Liu, J.S. Wang, H.Q. Dong, Z.P. Jin, J. Alloys Compd., 481, 503-8(2009). [doi:10.1016/j.jallcom.2009.03.025](https://doi.org/10.1016/j.jallcom.2009.03.025) | `0227ed7caa6041c234525b8ef76eddd362561f298818267b9a67fb4d11ac4d5c` | [viewer](https://orchid-project.org/phase-diagrams/#AG-CO/AgCo-09Zhu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgCo-09Zhu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgCo-09Zhu.json) |
+| AgCo-21Den.tdb | C. Deng, H. Jiang, J. Zhao, L. Zhang, J. He, J. Mater. Sci., 56, 3455-71(2021). [doi:10.1007/s10853-020-05431-7](https://doi.org/10.1007/s10853-020-05431-7) | `6ef85141f46403066677ada4bbed02d96b89c2f9b19656100c29e27b9dc59939` | [viewer](https://orchid-project.org/phase-diagrams/#AG-CO/AgCo-21Den.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgCo-21Den.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgCo-21Den.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AgCo-09Zhu.tdb | 1758.85 | LIQUID (x(Co) 0.04147) + LIQUID#2 (x(Co) 0.99352) + FCC_A1 (x(Co) 0.99951) |
+| AgCo-09Zhu.tdb | 1239.41 | LIQUID (x(Co) 0.00422) + FCC_A1#2 (x(Co) 0.00809) + FCC_A1 (x(Co) 0.99998) |
+| AgCo-09Zhu.tdb | 1239.41 | LIQUID (x(Co) 0.00422) + FCC_A1#2 (x(Co) 0.00809) + FCC_A1 (x(Co) 0.99998) |
+| AgCo-09Zhu.tdb | 694.99 | FCC_A1#2 (x(Co) 1.200e-4) + HCP_A3 (x(Co) 1) + FCC_A1 (x(Co) 1) |
+| AgCo-09Zhu.tdb | 694.99 | FCC_A1#2 (x(Co) 1.100e-4) + FCC_A1 (x(Co) 1) + HCP_A3 (x(Co) 1) |
+| AgCo-09Zhu.tdb | 694.99 | FCC_A1#2 (x(Co) 1.200e-4) + HCP_A3 (x(Co) 1) + FCC_A1 (x(Co) 1) |
+| AgCo-09Zhu.tdb | 694.99 | FCC_A1#2 (x(Co) 1.200e-4) + FCC_A1 (x(Co) 1) + HCP_A3 (x(Co) 1) |
+| AgCo-21Den.tdb | 1760.25 | LIQUID#2 (x(Co) 0.01384) + LIQUID (x(Co) 0.99501) + FCC_A1 (x(Co) 1) |
+| AgCo-21Den.tdb | 1760.25 | LIQUID#2 (x(Co) 0.01385) + LIQUID (x(Co) 0.99501) + FCC_A1 (x(Co) 1) |
+| AgCo-21Den.tdb | 1241.48 | LIQUID (x(Co) 2.900e-4) + FCC_A1#2 (x(Co) 0.00572) + FCC_A1 (x(Co) 1) |
+| AgCo-21Den.tdb | 1241.48 | LIQUID (x(Co) 2.900e-4) + FCC_A1#2 (x(Co) 0.00571) + FCC_A1 (x(Co) 1) |
+| AgCo-21Den.tdb | 695.31 | FCC_A1#2 (x(Co) 8.000e-5) + HCP_A3 (x(Co) 0.99997) + FCC_A1 (x(Co) 1) |
+| AgCo-21Den.tdb | 695.31 | FCC_A1#2 (x(Co) 8.000e-5) + HCP_A3 (x(Co) 0.99997) + FCC_A1 (x(Co) 1) |
+| AgCo-21Den.tdb | 695.31 | FCC_A1#2 (x(Co) 8.000e-5) + HCP_A3 (x(Co) 0.99997) + FCC_A1 (x(Co) 1) |
+| AgCo-21Den.tdb | 695.31 | FCC_A1#2 (x(Co) 8.000e-5) + HCP_A3 (x(Co) 0.99997) + FCC_A1 (x(Co) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-CO.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-CO.json) · [CALPHAD hull AgCo-09Zhu](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-CO--AgCo-09Zhu.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ag–Co system (12)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1762 | L2 -> L1 + fcc (Co) | L2: Co 0.9964; L1: Co 0.0388 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 1 |  |
+| 1762 | L1 -> L2 + FCC(Co) | L1: Co 0.0388; L2: Co 0.9964 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 1 |  |
+| 1760 | L2 -> L1 + fcc (Co) | L2: Co 0.995; L1: Co 0.0139; fcc (Co): Co 1 | model | [1] Deng 2021 | Table 3, p. 9, row 2 |  |
+| 1759 | L1 -> L2 + FCC(Co) | L1: Co 0.041; L2: Co 0.9936; FCC(Co): Co 0.9995 | model | [2] Zhu 2009 | Table 4, p. 3, row 2 |  |
+| 1241 | L + fcc (Co) -> fcc (Ag) | L: Co 3.000e-4; fcc (Co): Co 1; fcc (Ag): Co 0.0057 | model | [1] Deng 2021 | Table 3, p. 9, row 4 |  |
+| 1240 | L + fcc (Co) -> fcc (Ag) | L: Co 0.0049; fcc (Ag): Co 0.0081 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 3 |  |
+| 1240 | L + FCC(Co) -> FCC(Ag) | L: Co 0.0049; FCC(Ag): Co 0.0081 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 3 |  |
+| 1239 | L + FCC(Co) -> FCC(Ag) | L: Co 0.0042; FCC(Co): Co 0.9999; FCC(Ag): Co 0.008 | model | [2] Zhu 2009 | Table 4, p. 3, row 4 |  |
+| 695 | FCC(Co) -> HCP(Co) + FCC(Ag) | FCC(Co): Co 0.9999; HCP(Co): Co 0.9999; FCC(Ag): Co 1.000e-4 | model | [2] Zhu 2009 | Table 4, p. 3, row 6 |  |
+| 695 | fcc (Ag) + fcc (Co) -> hcp (Co) | fcc (Ag): Co 1.000e-4; fcc (Co): Co 1; hcp (Co): Co 0.9999 | model | [1] Deng 2021 | Table 3, p. 9, row 6 |  |
+| 695 | FCC(Co) -> HCP(Co) + FCC(Ag) |  | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 5 |  |
+| 695 | fcc (Ag) + fcc (Co) -> hcp (Co) |  | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Congkun Deng, Hongxiang Jiang, Jiuzhou Zhao, Lili Zhang, Jie He, Thermodynamics and solidification kinetics of Ag–Ni–Co immiscible alloys, J Mater Sci 56, 3455-3471 (2021). [doi:10.1007/s10853-020-05431-7](https://doi.org/10.1007/s10853-020-05431-7)
+2. WenJun Zhu, HuaShan Liu, JinSan Wang, HongQun Dong, ZhanPeng Jin, Thermodynamic assessment of the Sn–Ag–Co system and solidification simulation of the ternary alloy, Journal of Alloys and Compounds 481, 503-508 (2009). [doi:10.1016/j.jallcom.2009.03.025](https://doi.org/10.1016/j.jallcom.2009.03.025)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

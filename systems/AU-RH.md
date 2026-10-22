@@ -1,0 +1,141 @@
+# Au–Rh system
+
+> Au–Rh system: 53 accepted literature values (phase equilibrium 27, phase transition 21, crystal structure 4, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AU-RH.html · Markdown: https://data.orchid-project.org/systems/AU-RH.md
+
+53 accepted literature values from 1 paper(s) (experimental 24, model 25, unspecified 4); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-RH.json) · [CSV](https://data.orchid-project.org/systems/AU-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-RH/AuRh-84Oka.json) · [Markdown](https://data.orchid-project.org/systems/AU-RH.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 24 |
+| model | 25 |
+| unspecified | 4 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 1 |
+| phase transition | 21 |
+| phase equilibrium | 27 |
+| crystal structure | 4 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AuRh-84Oka.tdb | H. Okamoto, T.B. Massalski, Bull. Alloy Phase Diag., 5, 384-87(1984). [doi:10.1007/BF02872960](https://doi.org/10.1007/BF02872960) | `2ed3f4fa2bf652fe69cd8c9f4dec297a4d7bf1f5e7981010b0e3ceb764967ca2` | [viewer](https://orchid-project.org/phase-diagrams/#AU-RH/AuRh-84Oka.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AuRh-84Oka.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AuRh-84Oka.json) |
+| AuRh-98Spe-LB.tdb | P.J. Spencer, unpublished, 1998. | `16a5b634a0097f97e0b188a319ac0e0b8c2e9e5a549425477584ecbec4a00739` | [viewer](https://orchid-project.org/phase-diagrams/#AU-RH/AuRh-98Spe-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AuRh-98Spe-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AuRh-98Spe-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AuRh-84Oka.tdb | 2152.59 | LIQUID (x(Rh) 0.1765) + LIQUID#2 (x(Rh) 0.901) + FCC_A1 (x(Rh) 0.98169) |
+| AuRh-84Oka.tdb | 1341.86 | LIQUID (x(Rh) 0.01204) + FCC_A1 (x(Rh) 0.01608) + FCC_A1#2 (x(Rh) 0.99682) |
+| AuRh-98Spe-LB.tdb | 2135.7 | LIQUID (x(Rh) 0.22934) + LIQUID#2 (x(Rh) 0.87905) + FCC_A1 (x(Rh) 0.98287) |
+| AuRh-98Spe-LB.tdb | 1343.13 | LIQUID (x(Rh) 0.01098) + FCC_A1 (x(Rh) 0.01615) + FCC_A1#2 (x(Rh) 0.9968) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AU/AU-RH.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AU/AU-RH.json) · [CALPHAD hull AuRh-84Oka](https://data.orchid-project.org/hulls/calphad-sgte/AU/AU-RH--AuRh-84Oka.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Au–Rh system (1)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1341.15 | peritectic: L + (Rh) -> (Au) |  | model | [1] Okamoto 1984 | p. 1 | “Therefore, the real peritectic temperature may be lower than 1110 ~ and could be close to 1068 ~ observed later by Raub and Falkenburgh \[64Rau\] from a cooling curve recorded in a 10.5 at.% Rh alloy.” |
+
+## Other properties
+
+### Phase transition (21)
+
+Table: Phase transition, Au–Rh system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1336.15 K | 1336.15 | peritectic; _alloy: Au 0.825, Rh 0.175_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 3 |  |
+| Phase transition | 1336.15 K | 1336.15 | peritectic; _alloy: Au 0.908, Rh 0.092_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 1 |  |
+| Phase transition | 1341.15 K | 1341.15 | peritectic; _alloy: Au 0.895, Rh 0.105_ | experimental | [1] Okamoto 1984; _cites ref. 64Rau_ | Table 1, p. 2, row 13 |  |
+| Phase transition | 1343.15 K | 1343.15 | peritectic; _alloy: Au 0.908, Rh 0.092_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 2 |  |
+| Phase transition | 1383.15 K | 1383.15 | peritectic; _alloy: Au 0.676, Rh 0.324_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 5 |  |
+| Phase transition | 1383.15 K | 1383.15 | peritectic; _alloy: Au 0.549, Rh 0.451_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 7 |  |
+| Phase transition | 1383.15 K | 1383.15 | peritectic; _alloy: Au 0.183, Rh 0.817_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 11 |  |
+| Phase transition | 1383.15 K | 1383.15 | peritectic; _alloy: Au 0.258, Rh 0.742_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 9 |  |
+| Phase transition | 1393.15 K | 1393.15 | peritectic; _alloy: Au 0.825, Rh 0.175_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 4 |  |
+| Phase transition | 1403.15 K | 1403.15 | peritectic; _alloy: Au 0.549, Rh 0.451_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 8 |  |
+| Phase transition | 1403.15 K | 1403.15 | peritectic; _alloy: Au 0.183, Rh 0.817_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 12 |  |
+| Phase transition | 1413.15 K | 1413.15 | peritectic; _alloy: Au 0.258, Rh 0.742_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 10 |  |
+| Phase transition | 1463.15 K | 1463.15 | peritectic; _alloy: Au 0.676, Rh 0.324_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 6 |  |
+| Phase transition | 2158.15 K | 2158.15 | other | model | [1] Okamoto 1984 | p. 1 | “Therefore, the monotectic temperature must be below 1400 ~ although thermal arrests, as given in Table 1, indicated the monotectic temperature at 1885 ~” |
+| Phase transition | 2158.15 K | 2158.15 | peritectic; _alloy: Au 0.183, Rh 0.817_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 14 |  |
+| Phase transition | 2158.15 K | 2158.15 | peritectic; _alloy: Au 0.084, Rh 0.916_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 18 |  |
+| Phase transition | 2158.15 K | 2158.15 | peritectic; _alloy: Au 0.116, Rh 0.884_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 16 |  |
+| Phase transition | 2193.15 K | 2193.15 | peritectic; _alloy: Au 0.116, Rh 0.884_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 15 |  |
+| Phase transition | 2193.15 K | 2193.15 | peritectic; _alloy: Au 0.027, Rh 0.973_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 20 |  |
+| Phase transition | 2203.15 K | 2203.15 | peritectic; _alloy: Au 0.084, Rh 0.916_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 17 |  |
+| Phase transition | 2213.15 K | 2213.15 | peritectic; _alloy: Au 0.027, Rh 0.973_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 19 |  |
+
+### Phase equilibrium (27)
+
+Table: Phase equilibrium, Au–Rh system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase assemblage |  | 1337.58 | (Au) + L; _alloy: Au 1_ | model | [1] Okamoto 1984 | p. 1 | “The latter temperature, accepted here, is only slightly above the melting point of pure Au, 1064.43 ~ \[81BAP\].” |
+| Phase composition |  | 873.15 | (Au)/\[(Au) + (Rh)\] + (Rh)/\[(Au) + (Rh)\] + (Au) + (Rh); _(Au)/\[(Au) + (Rh)\]: Au 0.996, Rh 0.004; (Rh)/\[(Au) + (Rh)\]: Au 0.001, Rh 0.999; (Au): Au 0.996, Rh 0.004; (Rh): Au 0.001, Rh 0.999_ | experimental | [1] Okamoto 1984; _cites ref. 64Rau_ | Table 2, p. 2, row 3 |  |
+| Phase composition |  | 873.15 | (Au)/\[(Au) + (Rh)\] + \[(Au) + (Rh)\]/(Rh); _(Au)/\[(Au) + (Rh)\]: Au 0.998, Rh 0.002; \[(Au) + (Rh)\]/(Rh): Au 0, Rh 1_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 17 |  |
+| Phase composition |  | 1073.15 | (Au)/\[(Au) + (Rh)\] + (Rh)/\[(Au) + (Rh)\] + (Au) + (Rh); _(Au)/\[(Au) + (Rh)\]: Au 0.989, Rh 0.011; (Rh)/\[(Au) + (Rh)\]: Au 0.001, Rh 0.999; (Au): Au 0.989, Rh 0.011; (Rh): Au 0.001, Rh 0.999_ | experimental | [1] Okamoto 1984; _cites ref. 64Rau_ | Table 2, p. 2, row 2 |  |
+| Phase composition |  | 1073.15 | (Au)/\[(Au) + (Rh)\] + \[(Au) + (Rh)\]/(Rh); _(Au)/\[(Au) + (Rh)\]: Au 0.995, Rh 0.005; \[(Au) + (Rh)\]/(Rh): Au 0.001, Rh 0.999_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 16 |  |
+| Phase composition |  | 1173.15 | (Au)/\[(Au) + (Rh)\] + (Au); _(Au)/\[(Au) + (Rh)\]: Au 0.994, Rh 0.006; (Au): Au 0.994, Rh 0.006_ | experimental | [1] Okamoto 1984; _cites ref. 31Lin_ | Table 2, p. 2, row 4 |  |
+| Phase composition |  | 1273.15 | (Au)/\[(Au) + (Rh)\] + (Rh)/\[(Au) + (Rh)\] + (Au) + (Rh); _(Au)/\[(Au) + (Rh)\]: Au 0.986, Rh 0.014; (Rh)/\[(Au) + (Rh)\]: Au 0.003, Rh 0.997; (Au): Au 0.986, Rh 0.014; (Rh): Au 0.003, Rh 0.997_ | experimental | [1] Okamoto 1984; _cites ref. 64Rau_ | Table 2, p. 2, row 1 |  |
+| Phase composition |  | 1273.15 | (Au)/\[(Au) + (Rh)\] + \[(Au) + (Rh)\]/(Rh); _(Au)/\[(Au) + (Rh)\]: Au 0.987, Rh 0.013; \[(Au) + (Rh)\]/(Rh): Au 0.002, Rh 0.998_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 15 |  |
+| Phase composition |  | 1341.15 | L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh) + (Au)/\[(Au) + (Rh)\] + \[(Au) + (Rh)\]/(Rh) + \[L2 + L1\]/L; _L/\[L + (Rh)\]: Au 0.985, Rh 0.015; \[L + (Rh)\]/(Rh): Au 0.003, Rh 0.997; (Au)/\[(Au) + (Rh)\]: Au 0.984, Rh 0.016; \[(Au) + (Rh)\]/(Rh): Au 0.003, Rh 0.997; \[L2 + L1\]/L: Au 0.003, Rh 0.997_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 14 |  |
+| Phase composition |  | 1473.15 | L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh) + \[L2 + L1\]/L; _L/\[L + (Rh)\]: Au 0.978, Rh 0.022; \[L + (Rh)\]/(Rh): Au 0.005, Rh 0.995; \[L2 + L1\]/L: Au 0.005, Rh 0.995_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 13 |  |
+| Phase composition |  | 1573.15 | L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh); _L/\[L + (Rh)\]: Au 0.987, Rh 0.013; \[L + (Rh)\]/(Rh): Au 0.005, Rh 0.995_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 12 |  |
+| Phase composition |  | 1593.15 | L/\[L1 + L2\] + \[L2 + L1\]/L + L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh); _L/\[L1 + L2\]: Au 0.986, Rh 0.014; \[L2 + L1\]/L: Au 0.295, Rh 0.705; L/\[L + (Rh)\]: Au 0.295, Rh 0.705; \[L + (Rh)\]/(Rh): Au 0.005, Rh 0.995_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 11 |  |
+| Phase composition |  | 1673.15 | L/\[L1 + L2\] + \[L2 + L1\]/L + L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh); _L/\[L1 + L2\]: Au 0.983, Rh 0.017; \[L2 + L1\]/L: Au 0.008, Rh 0.992; L/\[L + (Rh)\]: Au 0.956, Rh 0.044; \[L + (Rh)\]/(Rh): Au 0.008, Rh 0.992_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 10 |  |
+| Phase composition |  | 1873.15 | L/\[L1 + L2\] + \[L2 + L1\]/L + L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh); _L/\[L1 + L2\]: Au 0.972, Rh 0.028; \[L2 + L1\]/L: Au 0.012, Rh 0.988; L/\[L + (Rh)\]: Au 0.919, Rh 0.081; \[L + (Rh)\]/(Rh): Au 0.012, Rh 0.988_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 9 |  |
+| Phase composition |  | 2073.15 | L/\[L1 + L2\] + \[L2 + L1\]/L + L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh); _L/\[L1 + L2\]: Au 0.959, Rh 0.041; \[L2 + L1\]/L: Au 0.017, Rh 0.983; L/\[L + (Rh)\]: Au 0.858, Rh 0.142; \[L + (Rh)\]/(Rh): Au 0.017, Rh 0.983_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 8 |  |
+| Phase composition |  | 2158.15 | L/\[L1 + L2\] + \[L2 + L1\]/L + L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh); _L/\[L1 + L2\]: Au 0.822, Rh 0.178; \[L2 + L1\]/L: Au 0.1, Rh 0.9; L/\[L + (Rh)\]: Au 0.1, Rh 0.9; \[L + (Rh)\]/(Rh): Au 0.019, Rh 0.981_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 22 |  |
+| Phase composition |  | 2173.15 | L/\[L1 + L2\] + \[L2 + L1\]/L + L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh); _L/\[L1 + L2\]: Au 0.818, Rh 0.182; \[L2 + L1\]/L: Au 0.103, Rh 0.897; L/\[L + (Rh)\]: Au 0.052, Rh 0.948; \[L + (Rh)\]/(Rh): Au 0.012, Rh 0.988_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 21 |  |
+| Phase composition |  | 2223.15 | L/\[L + (Rh)\] + \[L + (Rh)\]/(Rh); _L/\[L + (Rh)\]: Au 0.01, Rh 0.99; \[L + (Rh)\]/(Rh): Au 0.003, Rh 0.997_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 20 |  |
+| Phase composition |  | 2273.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.786, Rh 0.214; \[L2 + L1\]/L: Au 0.124, Rh 0.876_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 7 |  |
+| Phase composition |  | 2473.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.71, Rh 0.29; \[L2 + L1\]/L: Au 0.18, Rh 0.82_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 6 |  |
+| Phase composition |  | 2673.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.594, Rh 0.406; \[L2 + L1\]/L: Au 0.273, Rh 0.727_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 5 |  |
+| Phase composition |  | 2773.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.47, Rh 0.53; \[L2 + L1\]/L: Au 0.377, Rh 0.623_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 19 |  |
+| Phase composition |  | 2782.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.428, Rh 0.572; \[L2 + L1\]/L: Au 0.428, Rh 0.572_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 18 |  |
+| Phase composition |  | 2873.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.827, Rh 0.173; \[L2 + L1\]/L: Au 0.629, Rh 0.371_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 4 |  |
+| Phase composition |  | 2923.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.803, Rh 0.197; \[L2 + L1\]/L: Au 0.66, Rh 0.34_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 3 |  |
+| Phase composition |  | 2973.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.77, Rh 0.23; \[L2 + L1\]/L: Au 0.7, Rh 0.3_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 2 |  |
+| Phase composition |  | 2980.15 | L/\[L1 + L2\] + \[L2 + L1\]/L; _L/\[L1 + L2\]: Au 0.735, Rh 0.265; \[L2 + L1\]/L: Au 0.735, Rh 0.265_ | model | [1] Okamoto 1984 | Table 5, p. 3, row 1 |  |
+
+### Crystal structure (4)
+
+Table: Crystal structure, Au–Rh system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.40784 nm | 298.15 | (Au); _alloy: Rh 0_ | unspecified | [1] Okamoto 1984; _cites ref. 81Kin_ | Table 3, p. 2, row 1 |  |
+| Lattice a | 0.40784 nm | 298.15 | (Au); _alloy: Rh 0_ | unspecified | [1] Okamoto 1984; _cites ref. 81Kin_ | Table 3, p. 2, row 1 |  |
+| Lattice a | 0.28032 nm | 298.15 | (Rh) | unspecified | [1] Okamoto 1984; _cites ref. 81Kin_ | Table 3, p. 2, row 2 |  |
+| Lattice a | 0.28032 nm | 298.15 | (Rh) | unspecified | [1] Okamoto 1984; _cites ref. 81Kin_ | Table 3, p. 2, row 2 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. H. Okamoto, T. B. Massalski, The Au-Rh (Gold-Rhodium) system, Bulletin of Alloy Phase Diagrams 5, 384-387 (1984). [doi:10.1007/bf02872960](https://doi.org/10.1007/bf02872960)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

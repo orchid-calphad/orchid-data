@@ -1,0 +1,65 @@
+# Au–Co system
+
+> Au–Co system: 4 accepted literature values (invariant reaction 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AU-CO.html · Markdown: https://data.orchid-project.org/systems/AU-CO.md
+
+4 accepted literature values from 1 paper(s) (experimental 2, model 2); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CO.json) · [CSV](https://data.orchid-project.org/systems/AU-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-CO/AuCo-04Kor-LB.json) · [Markdown](https://data.orchid-project.org/systems/AU-CO.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 2 |
+| model | 2 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 4 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AuCo-04Kor-LB.tdb | J. Korb, unpublished, GTT, 2004. | `fe460222ed545fd85ed596cd8750d71d69618b1e3001e7f44bf234a6f8948df0` | [viewer](https://orchid-project.org/phase-diagrams/#AU-CO/AuCo-04Kor-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AuCo-04Kor-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AuCo-04Kor-LB.json) |
+| AuCo-09Don.tdb | H.Q. Dong, S. Jin, L.G. Zhang, J.S. Wang, X.M. Tao, H.S. Liu, Z.P. Jin, J. Electron. Mater., 38, 2158-69(2009). [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) | `bf5afe9f855266c50a3685830a98ff6f614484d33a960e92ab499fbb5e626ce1` | [viewer](https://orchid-project.org/phase-diagrams/#AU-CO/AuCo-09Don.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AuCo-09Don.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AuCo-09Don.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AuCo-04Kor-LB.tdb | 1270.51 | FCC_A1#2 (x(Co) 0.22225) + LIQUID (x(Co) 0.28355) + FCC_A1 (x(Co) 0.98067) |
+| AuCo-04Kor-LB.tdb | 695.15 | FCC_A1 (x(Co) 6.600e-4) + HCP_A3 (x(Co) 0.99886) + FCC_A1#2 (x(Co) 0.99888) |
+| AuCo-09Don.tdb | 1270.61 | FCC_A1#2 (x(Co) 0.20778) + LIQUID (x(Co) 0.2619) + FCC_A1 (x(Co) 0.97723) |
+| AuCo-09Don.tdb | 697.61 | FCC_A1#2 (x(Co) 0.01035) + HCP_A3 (x(Co) 0.99865) + FCC_A1 (x(Co) 0.99893) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AU/AU-CO.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AU/AU-CO.json) · [CALPHAD hull AuCo-04Kor-LB](https://data.orchid-project.org/hulls/calphad-sgte/AU/AU-CO--AuCo-04Kor-LB.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Au–Co system (4)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1270.4 | Eutectic: L -> Au + αCo | L: Co 0.262; Au: Co 0.208; αCo: Co 0.977 | model | [1] Dong 2009 | Table I, p. 2, row 2 |  |
+| 1269.5 | Eutectic: L -> Au + αCo | L: Co 0.248; Au: Co 0.23; αCo: Co 0.981 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 1 |  |
+| 695 | Eutectoid: αCo -> Au + εCo | αCo: Co 0.9995; Au: Co 0.002 | experimental | [1] Dong 2009; _cites Okamoto 1985_ [doi](https://doi.org/10.1007/bf02869509) | Table I, p. 2, row 3 |  |
+| 694 | Eutectoid: αCo -> Au + εCo | αCo: Co 0.999; Au: Co 0.009; εCo: Co 0.9993 | model | [1] Dong 2009 | Table I, p. 2, row 4 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009). [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

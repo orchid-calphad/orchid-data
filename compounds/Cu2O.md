@@ -1,0 +1,45 @@
+# Cu2O: enthalpy of formation
+
+> Enthalpy of formation of Cu2O: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Cu2O.html · Markdown: https://data.orchid-project.org/compounds/Cu2O.md
+
+8 accepted literature formation-enthalpy value(s) (experimental 5, model 3); experimental median -170.83 kJ/mol-atom (n = 5); Materials Project -62.185 kJ/mol-atom (mp-aaaaaanx); OQMD -66.037 kJ/mol-atom (oqmd-643065).
+
+Systems: [Cu–O](https://data.orchid-project.org/systems/CU-O.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Cu2O reported in the literature (8)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -179.91 kJ/mol-atom | Cu2O | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
+| -173.18 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
+| -170.83 kJ/mol-atom | Cu2O | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Mah 1967_ | Table 8, p. 13, row 8 |  |
+| -170.29 kJ/mol-atom | Cu2O | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1 |  |
+| -164.85 kJ/mol-atom | Cu2O | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
+| -172.48 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 15 |  |
+| -170.71 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13 |  |
+| -170.26 kJ/mol-atom | Cu2O | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 17 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Cu2O
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaaanx | -62.185 | -0.644505 | Pn-3m | 0 | no |
+| OQMD | oqmd-643065 | -66.037 | -0.684424 | Pn-3m | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. B. Hallstedt, D. Risold, L. J. Gauckler, Thermodynamic assessment of the copper-oxygen system, JPE 15, 483-499 (1994). [doi:10.1007/bf02649399](https://doi.org/10.1007/bf02649399)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

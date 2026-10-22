@@ -1,0 +1,56 @@
+# Al2Ca: enthalpy of formation
+
+> Enthalpy of formation of Al2Ca: 18 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Al2Ca.html · Markdown: https://data.orchid-project.org/compounds/Al2Ca.md
+
+18 accepted literature formation-enthalpy value(s) (experimental 8, model 5, DFT 5); experimental median -32.35 kJ/mol-atom (n = 8); Materials Project -32.104 kJ/mol-atom (mp-aaaaadom); OQMD -32.307 kJ/mol-atom (oqmd-5774).
+
+Systems: [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Al2Ca reported in the literature (18)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -34.3 kJ/mol-atom ± 3.5 | C15-Al2Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | Table IV, p. 5, row 21 |  |
+| -34.3 kJ/mol-atom ± 3.5 | Al2Ca | 800 | experimental | Emf | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 35_ | Table V, p. 9, row 3 |  |
+| -33.4 kJ/mol-atom ± 0.6 | C15-Al2Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Notin 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906001-0) | Table IV, p. 5, row 20 |  |
+| -33.4 kJ/mol-atom ± 0.6 | Al2Ca | 1038 | experimental | Precipitation Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 31_ | Table V, p. 9, row 2 |  |
+| -31.3 kJ/mol-atom ± 0.5 | C15-Al2Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Veleckis 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990098-9) | Table IV, p. 5, row 22 |  |
+| -31.28 kJ/mol-atom ± 0.46 | Al2Ca | 788 | experimental | Hydrogen Titration | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 1 |  |
+| -29.4 kJ/mol-atom ± 0.9 | C15-Al2Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 19 |  |
+| -29.4 kJ/mol-atom ± 0.9 | Al2Ca | 298 | experimental | Dissolution Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 4 |  |
+| -41.732 kJ/mol-atom | C15-Al2Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Itkin 1988_ [doi](https://doi.org/10.1007/bf02883160) | Table IV, p. 5, row 15 |  |
+| -32.185 kJ/mol-atom | C15-Al2Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 16 |  |
+| -29.7 kJ/mol-atom | C15-Al2Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 17 |  |
+| -29.7 kJ/mol-atom | Al2Ca | 800 | model | Assessed | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 5 |  |
+| -29.28 kJ/mol-atom | Al2Ca | 298 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
+| -36.604 kJ/mol-atom | C15-Al2Ca | 0 | DFT | WIEN2k | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 11 |  |
+| -36.272 kJ/mol-atom | C15-Al2Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 13 |  |
+| -34.018 kJ/mol-atom | C15-Al2Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 14 |  |
+| -32.136 kJ/mol-atom | C15-Al2Ca | 0 | DFT | WIEN2k | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 12 |  |
+| -32.048 kJ/mol-atom | C15-Al2Ca | 0 | DFT | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 18 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Al2Ca
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaadom | -32.104 | -0.332736 | Fd-3m | 0 | no |
+| OQMD | oqmd-5774 | -32.307 | -0.334836 | Fd-3m | 0.067 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Koray Ozturk, Yu Zhong, Long-Qing Chen, Zi-Kui Liu, Jorge O. Sofo, C. Wolverton, Linking first-principles energetics to CALPHAD: An application to thermodynamic modeling of the Al-Ca binary system, Metall Mater Trans A 36, 5-13 (2005). [doi:10.1007/s11661-005-0133-0](https://doi.org/10.1007/s11661-005-0133-0)
+2. F. ISLAM, M. MEDRAJ, THERMODYNAMIC MODELLING OF THE Mg-Al-Ca SYSTEM, Canadian Metallurgical Quarterly 44, 523-536 (2005). [doi:10.1179/cmq.2005.44.4.523](https://doi.org/10.1179/cmq.2005.44.4.523)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

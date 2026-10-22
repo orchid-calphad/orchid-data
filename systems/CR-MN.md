@@ -1,0 +1,126 @@
+# Cr–Mn system
+
+> Cr–Mn system: 15 accepted literature values (invariant reaction 8, activity / EMF / Gibbs energy 5, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/CR-MN.html · Markdown: https://data.orchid-project.org/systems/CR-MN.md
+
+15 accepted literature values from 3 paper(s) (experimental 7, unspecified 8); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-MN.json) · [CSV](https://data.orchid-project.org/systems/CR-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-MN/CrMn-93Lee-LB.json) · [Markdown](https://data.orchid-project.org/systems/CR-MN.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 7 |
+| unspecified | 8 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 8 |
+| phase transition | 2 |
+| activity / EMF / Gibbs energy | 5 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| CrMn-93Lee-LB.tdb | B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993). [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) | `7ab2301989a7597034a44d35c10b8c08cb8a8964527284552c451e512596eb71` | [viewer](https://orchid-project.org/phase-diagrams/#CR-MN/CrMn-93Lee-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CrMn-93Lee-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CrMn-93Lee-LB.json) |
+| CrMn-93Lee-mod.tdb | B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993). [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) | `4dc8f2c0c78c08a0215078034625a4c08a11f51be3d91e45d403f7f0f3ecea69` | [viewer](https://orchid-project.org/phase-diagrams/#CR-MN/CrMn-93Lee-mod.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CrMn-93Lee-mod.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CrMn-93Lee-mod.json) |
+| CrMn-93Lee-mod2.tdb | B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993). [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) | `fb463c59c8fc41e29844cf4f5856b24d6458d5e68c584b99a80aa83b94e5a6f1` | [viewer](https://orchid-project.org/phase-diagrams/#CR-MN/CrMn-93Lee-mod2.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CrMn-93Lee-mod2.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CrMn-93Lee-mod2.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| CrMn-93Lee-LB.tdb | 1598.43 | BCC_A2 (x(Mn) 0.71719) + HIGH_SIGMA (x(Mn) 0.75545) + LIQUID (x(Mn) 0.81288) |
+| CrMn-93Lee-LB.tdb | 1556.24 | HIGH_SIGMA (x(Mn) 0.79436) + BCC_A2 (x(Mn) 0.83134) + LIQUID (x(Mn) 0.87622) |
+| CrMn-93Lee-LB.tdb | 1508.44 | FCC_A1 (x(Mn) 1) + LIQUID (x(Mn) 1) + BCC_A2 (x(Mn) 1) |
+| CrMn-93Lee-LB.tdb | 1382.07 | BCC_A2 (x(Mn) 0.98972) + CUB_A13 (x(Mn) 0.99025) + FCC_A1 (x(Mn) 0.99319) |
+| CrMn-93Lee-LB.tdb | 1293.56 | HIGH_SIGMA (x(Mn) 0.81716) + BCC_A2 (x(Mn) 0.87316) + CUB_A13 (x(Mn) 0.9133) |
+| CrMn-93Lee-LB.tdb | 1268.14 | BCC_A2 (x(Mn) 0.68276) + HIGH_SIGMA (x(Mn) 0.75818) + SIGMA_OLD (x(Mn) 0.75972) |
+| CrMn-93Lee-LB.tdb | 1266.33 | BCC_A2 (x(Mn) 0.67884) + SIGMA_D8B (x(Mn) 0.75383) + SIGMA_OLD (x(Mn) 0.75845) |
+| CrMn-93Lee-LB.tdb | 1264.44 | SIGMA_OLD (x(Mn) 0.81114) + HIGH_SIGMA (x(Mn) 0.81525) + CUB_A13 (x(Mn) 0.91005) |
+| CrMn-93Lee-LB.tdb | 1193.81 | BCC_A2 (x(Mn) 0.55712) + CR3MN5 (x(Mn) 0.625) + SIGMA_D8B (x(Mn) 0.70217) |
+| CrMn-93Lee-LB.tdb | 1193.81 | BCC_A2 (x(Mn) 0.55702) + CR3MN5 (x(Mn) 0.625) + SIGMA_D8B (x(Mn) 0.70213) |
+| CrMn-93Lee-LB.tdb | 1078.82 | SIGMA_OLD (x(Mn) 0.81216) + CBCC_A12 (x(Mn) 0.92058) + CUB_A13 (x(Mn) 0.93938) |
+| CrMn-93Lee-LB.tdb | 830.75 | SIGMA_D8B (x(Mn) 0.7859) + SIGMA_OLD (x(Mn) 0.78772) + CBCC_A12 (x(Mn) 0.92157) |
+| CrMn-93Lee-LB.tdb | 342.67 | SIGMA_D8B (x(Mn) 0.74732) + SIGMA_OLD (x(Mn) 0.74934) + CBCC_A12 (x(Mn) 0.94024) |
+| CrMn-93Lee-mod.tdb | 1598.47 | BCC_A2 (x(Mn) 0.71709) + HIGH_SIGMA (x(Mn) 0.7575) + LIQUID (x(Mn) 0.81283) |
+| CrMn-93Lee-mod.tdb | 1556.21 | HIGH_SIGMA (x(Mn) 0.79217) + BCC_A2 (x(Mn) 0.83144) + LIQUID (x(Mn) 0.87628) |
+| CrMn-93Lee-mod.tdb | 1508.44 | FCC_A1 (x(Mn) 1) + LIQUID (x(Mn) 1) + BCC_A2 (x(Mn) 1) |
+| CrMn-93Lee-mod.tdb | 1382.07 | BCC_A2 (x(Mn) 0.98972) + CUB_A13 (x(Mn) 0.99025) + FCC_A1 (x(Mn) 0.99319) |
+| CrMn-93Lee-mod.tdb | 1294.6 | HIGH_SIGMA (x(Mn) 0.81442) + BCC_A2 (x(Mn) 0.87406) + CUB_A13 (x(Mn) 0.9137) |
+| CrMn-93Lee-mod.tdb | 1267.64 | BCC_A2 (x(Mn) 0.6783) + SIGMA_D8B (x(Mn) 0.75768) + HIGH_SIGMA (x(Mn) 0.76089) |
+| CrMn-93Lee-mod.tdb | 1264.29 | SIGMA_D8B (x(Mn) 0.81155) + HIGH_SIGMA (x(Mn) 0.81268) + CUB_A13 (x(Mn) 0.91052) |
+| CrMn-93Lee-mod.tdb | 1197.64 | BCC_A2 (x(Mn) 0.56984) + CR3MN5 (x(Mn) 0.625) + SIGMA_D8B (x(Mn) 0.71923) |
+| CrMn-93Lee-mod.tdb | 1186.63 | CR3MN5 (x(Mn) 0.625) + SIGMA_OLD (x(Mn) 0.71925) + SIGMA_D8B (x(Mn) 0.71944) |
+| CrMn-93Lee-mod.tdb | 1142.36 | SIGMA_OLD (x(Mn) 0.81222) + SIGMA_D8B (x(Mn) 0.81258) + CUB_A13 (x(Mn) 0.93027) |
+| CrMn-93Lee-mod.tdb | 1078.82 | SIGMA_OLD (x(Mn) 0.81216) + CBCC_A12 (x(Mn) 0.92058) + CUB_A13 (x(Mn) 0.93938) |
+| CrMn-93Lee-mod2.tdb | 1508.44 | FCC_A1 (x(Mn) 1) + LIQUID (x(Mn) 1) + BCC_A2 (x(Mn) 1) |
+| CrMn-93Lee-mod2.tdb | 1382.07 | BCC_A2 (x(Mn) 0.98972) + CUB_A13 (x(Mn) 0.99025) + FCC_A1 (x(Mn) 0.99319) |
+| CrMn-93Lee-mod2.tdb | 1278.5 | SIGMA_D8B (x(Mn) 0.81129) + BCC_A2 (x(Mn) 0.86057) + CUB_A13 (x(Mn) 0.90792) |
+| CrMn-93Lee-mod2.tdb | 1197.64 | BCC_A2 (x(Mn) 0.56984) + CR3MN5 (x(Mn) 0.625) + SIGMA_D8B (x(Mn) 0.71923) |
+| CrMn-93Lee-mod2.tdb | 1186.63 | CR3MN5 (x(Mn) 0.625) + SIGMA_OLD (x(Mn) 0.71925) + SIGMA_D8B (x(Mn) 0.71944) |
+| CrMn-93Lee-mod2.tdb | 1186.63 | CR3MN5 (x(Mn) 0.625) + SIGMA_OLD (x(Mn) 0.71905) + SIGMA_D8B (x(Mn) 0.71923) |
+| CrMn-93Lee-mod2.tdb | 1142.36 | SIGMA_OLD (x(Mn) 0.81222) + SIGMA_D8B (x(Mn) 0.81258) + CUB_A13 (x(Mn) 0.93027) |
+| CrMn-93Lee-mod2.tdb | 1142.36 | SIGMA_OLD (x(Mn) 0.81222) + SIGMA_D8B (x(Mn) 0.81258) + CUB_A13 (x(Mn) 0.93028) |
+| CrMn-93Lee-mod2.tdb | 1078.82 | SIGMA_OLD (x(Mn) 0.81216) + CBCC_A12 (x(Mn) 0.92058) + CUB_A13 (x(Mn) 0.93938) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CR/CR-MN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CR/CR-MN.json) · [CALPHAD hull CrMn-93Lee-mod](https://data.orchid-project.org/hulls/calphad-sgte/CR/CR-MN--CrMn-93Lee-mod.json) · [CALPHAD hull CrMn-93Lee-mod2](https://data.orchid-project.org/hulls/calphad-sgte/CR/CR-MN--CrMn-93Lee-mod2.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Cr–Mn system (8)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1598.4 | Peritectic: Liquid + bcc-A2 -> σ-H | L: Mn 0.813; bcc-A2: Mn 0.717; σ-H: Mn 0.755 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 3 |  |
+| 1556.2 | Peritectic: Liquid + σ-H -> bcc-A2 | L: Mn 0.876; σ-H: Mn 0.794; bcc-A2: Mn 0.831 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 4 |  |
+| 1382.1 | Peritectoid: bcc-A2 + fcc-A1 -> cub-A13 | bcc-A2: Mn 0.898; fcc-A1: Mn 0.993; cub-A13: Mn 0.913 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 6 |  |
+| 1293.6 | Eutectoid: bcc-A2 -> cub-A13 + σ-H | bcc-A2: Mn 0.88; cub-A13: Mn 0.873; σ-H: Mn 0.894 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 5 |  |
+| 1268.1 | Eutectoid: σ-H -> bcc-A2 + σ-L | σ-H: Mn 0.758; bcc-A2: Mn 0.683; σ-L: Mn 0.76 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 2 |  |
+| 1264.4 | Eutectoid: σ-H -> σ-L + cub-A13 | σ-H: Mn 0.815; σ-L: Mn 0.811; cub-A13: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 7 |  |
+| 1197.8 | Peritectoid: bcc-A2 + σ-L -> Cr3Mn5 | bcc-A2: Mn 0.57; σ-L: Mn 0.719; Cr3Mn5: Mn 0.625 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 1 |  |
+| 1117.4 | Peritectoid: σ-L + cub-A13 -> cbcc-A12 | σ-L: Mn 0.812; cub-A13: Mn 0.934; cbcc-A12: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 163, row 8 |  |
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Cr–Mn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 973 K | 973 | β-spinel + Mn2O3 + Cr2O3 | experimental | [2] Kjellqvist 2010; _cites Golikov 1985_ [doi](https://doi.org/10.1016/0022-3697%2885%2990073-3) | p. 4 | “They suggest that the temperature for the threephase equilibrium ␤-spinel + Mn2 O3 + Cr2 O3 equilibrated in air is 973 K, but they did not perform any experiments at lower temperatures.” |
+| Phase transition | 1073.15 K | 1073.15 | other | experimental | [3] Lee 1993 | p. 3 | “Wachtel and Bartelt also reported another transformation in the sigma phase at about 800 ~” |
+
+### Activity / EMF / Gibbs energy (5)
+
+Table: Activity / EMF / Gibbs energy, Cr–Mn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -50.7 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Barin 1993_ | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -53.6 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -34.8 kJ | 1773 |  | experimental | [2] Kjellqvist 2010; _cites Dimitrov 1995_ [doi](https://doi.org/10.1002/srin.199501092) | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -35.6 kJ | 1873 |  | experimental | [2] Kjellqvist 2010; _cites Dimitrov 1995_ [doi](https://doi.org/10.1002/srin.199501092) | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+| Gibbs energy; _printed: ΔfG(MnCr2O4)_ | -54.4 kJ | 1873 |  | experimental | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | p. 4 | “-54.4 kJ \[41\] and -35.6 kJ \[42\] at 1873 K and -50.7 kJ \[38\], -53.6 kJ \[41\] and -34.8 kJ \[42\] at 1773 K.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. Lina Kjellqvist, Malin Selleby, Thermodynamic assessment of the Cr–Mn–O system, Journal of Alloys and Compounds 507, 84-92 (2010). [doi:10.1016/j.jallcom.2010.04.252](https://doi.org/10.1016/j.jallcom.2010.04.252)
+3. Byeong-Joo Lee, A Thermodynamic Evaluation of the Cr-Mn and Fe-Cr-Mn Systems, Metall Trans A 24, 1919-1933 (1993). [doi:10.1007/bf02666327](https://doi.org/10.1007/bf02666327)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

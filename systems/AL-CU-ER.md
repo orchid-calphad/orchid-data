@@ -1,0 +1,115 @@
+# Al–Cu–Er system
+
+> Al–Cu–Er system: 66 accepted literature values (crystal structure 37, invariant reaction 29) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AL-CU-ER.html · Markdown: https://data.orchid-project.org/systems/AL-CU-ER.md
+
+66 accepted literature values from 1 paper(s) (model 29, unspecified 37); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CU-ER.json) · [CSV](https://data.orchid-project.org/systems/AL-CU-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CU-ER) · [Markdown](https://data.orchid-project.org/systems/AL-CU-ER.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 29 |
+| unspecified | 37 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 29 |
+| crystal structure | 37 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Al–Cu–Er system (29)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1736.02 | U: Liquid + τ3 -> τ6 + τ4 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 15 |  |
+| 1561.23 | U: Liquid + τ4 -> Al2Er + τ6 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 11 |  |
+| 1537.62 | U: Liquid + τ6 -> τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 16 |  |
+| 1415.02 | U: Liquid + τ6 -> τ7 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 10 |  |
+| 1405.71 | U: Liquid + τ4 -> τ3 + Al2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 12 |  |
+| 1296.34 | U: Liquid + Al2Er -> AlEr + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 9 |  |
+| 1282.15 | U: Liquid + τ7 -> AlEr + CuEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 8 |  |
+| 1277.95 | E: Liquid -> CuEr + Al2Er3 + AlEr |  | model | [1] Zhang 2008 | Table 4, p. 7, row 2 |  |
+| 1250.13 | U: Liquid + τ2 -> γ + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 22 |  |
+| 1249.71 | U: Liquid + γ -> β + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 21 |  |
+| 1246.96 | U: Liquid + Al2Er3 -> CuEr + AlEr2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 7 |  |
+| 1227.54 | U: Liquid + Al2Er -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 13 |  |
+| 1219.56 | U: Liquid + γ -> β + τ2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 23 |  |
+| 1162.55 | U: Liquid + β -> τ3 + Fcc_Cu |  | model | [1] Zhang 2008 | Table 4, p. 7, row 20 |  |
+| 1156.3 | E: Liquid -> CuEr + AlEr2 + Hcp_Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 1 |  |
+| 1132.73 | U: Liquid + Cu9Er2 -> τ3 + Cu5Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 19 |  |
+| 1124.05 | U: Liquid + β -> τ2 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 24 |  |
+| 1123.37 | U: Liquid + τ2 -> τ1 + ε |  | model | [1] Zhang 2008 | Table 4, p. 7, row 25 |  |
+| 1116.45 | U: Liquid + Cu7Er2 -> Cu9Er2 + Cu2Er |  | model | [1] Zhang 2008 | Table 4, p. 7, row 18 |  |
+| 1088.91 | U: Liquid + CuEr -> Cu2Er + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 17 |  |
+| 1088.65 | E: Liquid -> Cu2Er + τ3 + τ7 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 4 |  |
+| 1084.67 | E: Liquid -> Fcc_Cu + Cu5Er + τ3 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 6 |  |
+| 1078.38 | E: Liquid -> Cu2Er + τ3 + Cu9Er2 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 5 |  |
+| 916.78 | P: Liquid + τ1 + τ2 -> Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 27 |  |
+| 915.82 | U: Liquid + τ2 -> τ3 + L12 |  | model | [1] Zhang 2008 | Table 4, p. 7, row 14 |  |
+| 915.39 | E: Liquid -> L12 + τ3 + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 3 |  |
+| 898.11 | P: Liquid + ε + τ1 -> η |  | model | [1] Zhang 2008 | Table 4, p. 7, row 28 |  |
+| 868.85 | P: Liquid + η + τ1 -> θ |  | model | [1] Zhang 2008 | Table 4, p. 7, row 29 |  |
+| 820.61 | U: Liquid + τ1 -> θ + Fcc_Al |  | model | [1] Zhang 2008 | Table 4, p. 7, row 26 |  |
+
+## Other properties
+
+### Crystal structure (37)
+
+Table: Crystal structure, Al–Cu–Er system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.2946 nm |  | β | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 7 |  |
+| Lattice a | 0.77967 nm | 298.15 | Al2Er; _alloy: Cu 0, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 9 |  |
+| Lattice a | 0.8123 nm | 298.15 | Al2Er3; _alloy: Cu 0, Er 0.6_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 11 |  |
+| Lattice a | 0.557 nm | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice a | 0.6516 nm | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice a | 0.4275 nm | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+| Lattice a | 0.7003 nm | 298.15 | Cu5Er; _alloy: Cu 0.833333, Er 0.166667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 13 |  |
+| Lattice a | 0.3425 nm | 298.15 | CuEr; _alloy: Cu 0.5, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 17 |  |
+| Lattice a | 0.4214 nm | 298.15 | L12 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 8 |  |
+| Lattice a | 0.87023 nm | 298.15 | γD83 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 5 |  |
+| Lattice a | 0.4146 nm | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
+| Lattice a | 0.40972 nm | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
+| Lattice a | 1.2066 nm | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
+| Lattice a | 0.6067 nm | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1 |  |
+| Lattice a | 0.8712 nm | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18 |  |
+| Lattice a | 0.863 nm | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19 |  |
+| Lattice a | 0.5029 nm | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
+| Lattice a | 0.4184 nm | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
+| Lattice a | 0.6975 nm | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
+| Lattice b | 0.5801 nm | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice b | 0.5015 nm | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice b | 0.6726 nm | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+| Lattice b | 0.71313 nm | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
+| Lattice b | 0.4105 nm | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
+| Lattice b | 0.4112 nm | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
+| Lattice c | 1.1272 nm | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice c | 0.9279 nm | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice c | 0.7265 nm | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+| Lattice c | 0.5063 nm | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
+| Lattice c | 0.99793 nm | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
+| Lattice c | 0.6913 nm | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
+| Lattice c | 0.4877 nm | 298.15 | θ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 1 |  |
+| Lattice c | 0.513 nm | 298.15 | τ1-Al8Cu4Er; _alloy: Cu 0.307692, Er 0.076923_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 18 |  |
+| Lattice c | 0.5029 nm | 298.15 | τ2-(Al, Cu)17Er2; _alloy: Cu 0.25, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 19 |  |
+| Lattice c | 0.4139 nm | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
+| Lattice c | 0.9773 nm | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
+| Lattice c | 0.4003 nm | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. L.G. Zhang, L.B. Liu, G.X. Huang, H.Y. Qi, B.R. Jia, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Er system, Calphad 32, 527-534 (2008). [doi:10.1016/j.calphad.2008.05.002](https://doi.org/10.1016/j.calphad.2008.05.002)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

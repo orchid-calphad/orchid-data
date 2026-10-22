@@ -1,0 +1,40 @@
+# Ca–Mn system
+
+> Ca–Mn system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/CA-MN.html · Markdown: https://data.orchid-project.org/systems/CA-MN.md
+
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-MN/CaMn-16Dil.json) · [Markdown](https://data.orchid-project.org/systems/CA-MN.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| CaMn-16Dil.tdb | D. Dilner, Calphad, 53, 55-61(2016). [doi:10.1016/j.calphad.2016.03.005](https://doi.org/10.1016/j.calphad.2016.03.005) | `45760714f309b6fd1db867061467a325903993308fa1283299df5f5197ce2bd9` | [viewer](https://orchid-project.org/phase-diagrams/#CA-MN/CaMn-16Dil.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CaMn-16Dil.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CaMn-16Dil.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| CaMn-16Dil.tdb | 1492.69 | LIQUID (x(Mn) 0.02707) + LIQUID#2 (x(Mn) 0.97293) + BCC_A2 (x(Mn) 0.99311) |
+| CaMn-16Dil.tdb | 1407.39 | LIQUID (x(Mn) 0.01928) + BCC_A2 (x(Mn) 0.99477) + FCC_A1 (x(Mn) 0.99521) |
+| CaMn-16Dil.tdb | 1334.43 | LIQUID (x(Mn) 0.01397) + FCC_A1 (x(Mn) 0.99627) + CUB_A13 (x(Mn) 1) |
+| CaMn-16Dil.tdb | 1334.43 | LIQUID (x(Mn) 0.01396) + FCC_A1 (x(Mn) 0.99627) + CUB_A13 (x(Mn) 1) |
+| CaMn-16Dil.tdb | 1115 | BCC_A2 (x(Mn) 0) + LIQUID (x(Mn) 0) + CUB_A13 (x(Mn) 1) |
+| CaMn-16Dil.tdb | 1111.82 | BCC_A2 (x(Mn) 0.00147) + LIQUID (x(Mn) 0.00424) + CUB_A13 (x(Mn) 1) |
+| CaMn-16Dil.tdb | 1111.81 | BCC_A2 (x(Mn) 0.00143) + LIQUID (x(Mn) 0.00414) + CUB_A13 (x(Mn) 1) |
+| CaMn-16Dil.tdb | 980 | BCC_A2 (x(Mn) 5.700e-4) + CUB_A13 (x(Mn) 1) + CBCC_A12 (x(Mn) 1) |
+| CaMn-16Dil.tdb | 980 | BCC_A2 (x(Mn) 5.700e-4) + CBCC_A12 (x(Mn) 1) + CUB_A13 (x(Mn) 1) |
+| CaMn-16Dil.tdb | 716.04 | BCC_A2 (x(Mn) 3.000e-5) + FCC_A1 (x(Mn) 3.000e-5) + CBCC_A12 (x(Mn) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CA/CA-MN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CA/CA-MN.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

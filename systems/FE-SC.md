@@ -1,0 +1,144 @@
+# Fe–Sc system
+
+> Fe–Sc system: 28 accepted literature values (invariant reaction 27, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/FE-SC.html · Markdown: https://data.orchid-project.org/systems/FE-SC.md
+
+28 accepted literature values from 1 paper(s) (experimental 13, model 15); 3 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SC.json) · [CSV](https://data.orchid-project.org/systems/FE-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-SC/FeSc-08GTT.json) · [Markdown](https://data.orchid-project.org/systems/FE-SC.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 13 |
+| model | 15 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 27 |
+| phase transition | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| FeSc-08GTT.tdb | GTT, unpublished, 2008. | `03241f90e3714bbbe6cd11076ff31117c4582a7f7faa5e4366b1e2dc23951df1` | [viewer](https://orchid-project.org/phase-diagrams/#FE-SC/FeSc-08GTT.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeSc-08GTT.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeSc-08GTT.json) |
+| FeSc-08Liu.tdb | X.J. Liu, P. Yu, C.P. Wang, K. Ishida, J. Alloys Compd., 466, 169-75(2008). [doi:10.1016/j.jallcom.2007.11.069](https://doi.org/10.1016/j.jallcom.2007.11.069) | `f94a03a213b6b09e3c16e670921e05c519a338e59ea32186af6175215195b7e1` | [viewer](https://orchid-project.org/phase-diagrams/#FE-SC/FeSc-08Liu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeSc-08Liu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeSc-08Liu.json) |
+| FeSc-16Xu.tdb | K. Xu, S. Liu, F. Zhang, Y. Du, Z. Jin, Calphad, 54, 158-64(2016). [doi:10.1016/j.calphad.2016.07.002](https://doi.org/10.1016/j.calphad.2016.07.002) | `c17fcad5d8cfa739c426becf49819462b986ee56892228f9e932da3438d3cfba` | [viewer](https://orchid-project.org/phase-diagrams/#FE-SC/FeSc-16Xu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeSc-16Xu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeSc-16Xu.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| FeSc-08GTT.tdb | 1649.67 | FCC_A1 (x(Sc) 0.00812) + BCC_A2 (x(Sc) 0.00864) + LIQUID (x(Sc) 0.07193) |
+| FeSc-08GTT.tdb | 1583.16 | LIQUID (x(Sc) 0.88241) + BCC_A2 (x(Sc) 0.99454) + HCP_A3 (x(Sc) 0.99926) |
+| FeSc-08GTT.tdb | 1559.73 | FCC_A1 (x(Sc) 0.01552) + LIQUID (x(Sc) 0.10827) + FE2SC_LAVES (x(Sc) 0.33333) |
+| FeSc-08GTT.tdb | 1559.73 | FCC_A1 (x(Sc) 0.0155) + LIQUID (x(Sc) 0.1082) + FE2SC_LAVES (x(Sc) 0.33333) |
+| FeSc-08GTT.tdb | 1239.52 | FE2SC_LAVES (x(Sc) 0.33333) + LIQUID (x(Sc) 0.74887) + HCP_A3 (x(Sc) 0.99922) |
+| FeSc-08GTT.tdb | 1239.52 | FE2SC_LAVES (x(Sc) 0.33333) + LIQUID (x(Sc) 0.74889) + HCP_A3 (x(Sc) 0.99922) |
+| FeSc-08GTT.tdb | 1181.5 | BCC_A2 (x(Sc) 0.00246) + FCC_A1 (x(Sc) 0.00276) + FE2SC_LAVES (x(Sc) 0.33333) |
+| FeSc-08GTT.tdb | 1181.49 | BCC_A2 (x(Sc) 0.00241) + FCC_A1 (x(Sc) 0.00271) + FE2SC_LAVES (x(Sc) 0.33333) |
+| FeSc-08GTT.tdb | 1141.94 | FE2SC_LAVES (x(Sc) 0.33333) + FESC7 (x(Sc) 0.875) + HCP_A3 (x(Sc) 0.99958) |
+| FeSc-08GTT.tdb | 1141.94 | FE2SC_LAVES (x(Sc) 0.33333) + FESC7 (x(Sc) 0.875) + HCP_A3 (x(Sc) 0.99958) |
+| FeSc-08GTT.tdb | 1141.94 | FE2SC_LAVES (x(Sc) 0.33333) + FESC7 (x(Sc) 0.875) + HCP_A3 (x(Sc) 0.99958) |
+| FeSc-08Liu.tdb | 1806 | FE2SC_C36 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.42608) |
+| FeSc-08Liu.tdb | 1805.99 | FE2SC_C36 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.42681) |
+| FeSc-08Liu.tdb | 1805.99 | FE2SC_C36 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.42673) |
+| FeSc-08Liu.tdb | 1654.74 | FCC_A1 (x(Sc) 0.01019) + BCC_A2 (x(Sc) 0.01039) + LIQUID (x(Sc) 0.06126) |
+| FeSc-08Liu.tdb | 1552.53 | LIQUID (x(Sc) 0.87057) + BCC_A2 (x(Sc) 0.98667) + HCP_A3 (x(Sc) 0.99729) |
+| FeSc-08Liu.tdb | 1545.49 | FCC_A1 (x(Sc) 0.02806) + LIQUID (x(Sc) 0.10017) + FE2SC_C36 (x(Sc) 0.33) |
+| FeSc-08Liu.tdb | 1545.49 | FCC_A1 (x(Sc) 0.02802) + LIQUID (x(Sc) 0.1001) + FE2SC_C36 (x(Sc) 0.33) |
+| FeSc-08Liu.tdb | 1520.72 | FE2SC_C36 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.63496) |
+| FeSc-08Liu.tdb | 1520.72 | FE2SC_C36 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.63485) |
+| FeSc-08Liu.tdb | 1474.72 | FCC_A1 (x(Sc) 0.02306) + FE2SC_C14 (x(Sc) 0.33) + FE2SC_C36 (x(Sc) 0.33) |
+| FeSc-08Liu.tdb | 1474.72 | FCC_A1 (x(Sc) 0.02303) + FE2SC_C36 (x(Sc) 0.33) + FE2SC_C14 (x(Sc) 0.33) |
+| FeSc-08Liu.tdb | 1474.72 | FE2SC_C14 (x(Sc) 0.33) + FE2SC_C36 (x(Sc) 0.33) + LIQUID (x(Sc) 0.65051) |
+| FeSc-08Liu.tdb | 1474.72 | FE2SC_C36 (x(Sc) 0.33) + FE2SC_C14 (x(Sc) 0.33) + LIQUID (x(Sc) 0.65061) |
+| FeSc-08Liu.tdb | 1240.46 | FE2SC_C14 (x(Sc) 0.33) + LIQUID (x(Sc) 0.75349) + HCP_A3 (x(Sc) 0.99466) |
+| FeSc-08Liu.tdb | 1240.46 | FE2SC_C14 (x(Sc) 0.33) + LIQUID (x(Sc) 0.75351) + HCP_A3 (x(Sc) 0.99466) |
+| FeSc-08Liu.tdb | 1205.94 | FCC_A1 (x(Sc) 0.0048) + BCC_A2 (x(Sc) 0.00627) + FE2SC_C14 (x(Sc) 0.33) |
+| FeSc-08Liu.tdb | 1205.94 | FCC_A1 (x(Sc) 0.00477) + BCC_A2 (x(Sc) 0.00624) + FE2SC_C14 (x(Sc) 0.33) |
+| FeSc-08Liu.tdb | 1161.8 | FE2SC_C14 (x(Sc) 0.33) + FE6SC29 (x(Sc) 0.82857) + HCP_A3 (x(Sc) 0.99646) |
+| FeSc-08Liu.tdb | 1161.8 | FE2SC_C14 (x(Sc) 0.33) + FE6SC29 (x(Sc) 0.82857) + HCP_A3 (x(Sc) 0.99646) |
+| FeSc-08Liu.tdb | 1161.8 | FE2SC_C14 (x(Sc) 0.33) + FE6SC29 (x(Sc) 0.82857) + HCP_A3 (x(Sc) 0.99646) |
+| FeSc-16Xu.tdb | 1808.11 | FE2SC_C14 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.40651) |
+| FeSc-16Xu.tdb | 1808.11 | FE2SC_C14 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.40598) |
+| FeSc-16Xu.tdb | 1808.1 | FE2SC_C14 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.4062) |
+| FeSc-16Xu.tdb | 1653.45 | FCC_A1 (x(Sc) 0.01069) + BCC_A2 (x(Sc) 0.01093) + LIQUID (x(Sc) 0.06718) |
+| FeSc-16Xu.tdb | 1556.35 | FE2SC_C14 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.58532) |
+| FeSc-16Xu.tdb | 1556.35 | FE2SC_C14 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.58544) |
+| FeSc-16Xu.tdb | 1556.35 | FE2SC_C14 (x(Sc) 0.33) + FE2SC_C15 (x(Sc) 0.36) + LIQUID (x(Sc) 0.58549) |
+| FeSc-16Xu.tdb | 1553.7 | FCC_A1 (x(Sc) 0.02586) + LIQUID (x(Sc) 0.1042) + FE2SC_C14 (x(Sc) 0.33) |
+| FeSc-16Xu.tdb | 1553.7 | FCC_A1 (x(Sc) 0.02583) + LIQUID (x(Sc) 0.10414) + FE2SC_C14 (x(Sc) 0.33) |
+| FeSc-16Xu.tdb | 1544.28 | LIQUID (x(Sc) 0.85332) + BCC_A2 (x(Sc) 0.98552) + HCP_A3 (x(Sc) 0.99761) |
+| FeSc-16Xu.tdb | 1248.47 | FE2SC_C14 (x(Sc) 0.33) + LIQUID (x(Sc) 0.73651) + HCP_A3 (x(Sc) 0.9947) |
+| FeSc-16Xu.tdb | 1248.47 | FE2SC_C14 (x(Sc) 0.33) + LIQUID (x(Sc) 0.7366) + HCP_A3 (x(Sc) 0.99471) |
+| FeSc-16Xu.tdb | 1207.99 | FCC_A1 (x(Sc) 0.00592) + BCC_A2 (x(Sc) 0.00746) + FE2SC_C14 (x(Sc) 0.33) |
+| FeSc-16Xu.tdb | 1207.99 | FCC_A1 (x(Sc) 0.0059) + BCC_A2 (x(Sc) 0.00744) + FE2SC_C14 (x(Sc) 0.33) |
+| FeSc-16Xu.tdb | 1161.12 | FE2SC_C14 (x(Sc) 0.33) + FE6SC29 (x(Sc) 0.83) + HCP_A3 (x(Sc) 0.99663) |
+| FeSc-16Xu.tdb | 1161.12 | FE2SC_C14 (x(Sc) 0.33) + FE6SC29 (x(Sc) 0.83) + HCP_A3 (x(Sc) 0.99663) |
+| FeSc-16Xu.tdb | 1161.12 | FE2SC_C14 (x(Sc) 0.33) + FE6SC29 (x(Sc) 0.83) + HCP_A3 (x(Sc) 0.99664) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/FE/FE-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/FE/FE-SC.json) · [CALPHAD hull FeSc-08GTT](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-SC--FeSc-08GTT.json) · [CALPHAD hull FeSc-08Liu](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-SC--FeSc-08Liu.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Fe–Sc system (27)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1838.15 | Congruent: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
+| 1838.15 | Congruent: L -> βFe2Sc | L: Sc 0.333; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 13 |  |
+| 1814.15 | Melting: L -> βSc | L: Sc 0; βSc: Sc 0 | model | [1] Liu 2008 | Table 4, p. 5, row 24 |  |
+| 1814.15 | Melting: L -> βSc | L: Sc 0; βSc: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 23 |  |
+| 1811.15 | Melting: L -> δFe | L: Sc 1; δFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 1 |  |
+| 1811.15 | Melting: L -> δFe | L: Sc 1; δFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 2 |  |
+| 1798.15 | Peritectic: L + βFe2Sc -> λFe2Sc | βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 17 |  |
+| 1798.15 | Peritectic: L + βFe2Sc -> λFe2Sc | L: Sc 0.442; βFe2Sc: Sc 0.333; λFe2Sc: Sc 0.357 | model | [1] Liu 2008 | Table 4, p. 5, row 18 |  |
+| 1685.15 | Allotropic: δFe -> γFe | δFe: Sc 1; γFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
+| 1685.15 | Allotropic: δFe -> γFe | δFe: Sc 1; γFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 3 |  |
+| 1653.15 | Peritectic: δFe -> γFe + L | δFe: Sc 0.012; γFe: Sc 0.013; L: Sc 0.065 | model | [1] Liu 2008 | Table 4, p. 5, row 6 |  |
+| 1653.15 | Peritectic: δFe -> γFe + L |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 5 |  |
+| 1610.15 | Polymorphic: βSc -> αSc | βSc: Sc 0; αSc: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 25 |  |
+| 1610.15 | Polymorphic: βSc -> αSc | βSc: Sc 0; αSc: Sc 0 | model | [1] Liu 2008 | Table 4, p. 5, row 26 |  |
+| 1553.15 | Eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.102; (γFe): Sc 0.03; βFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 12 |  |
+| 1553.15 | Eutectic: L -> (γFe) + βFe2Sc | L: Sc 0.115; βFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 11 |  |
+| 1544.15 | Peritectic: βSc -> L + αSc | βSc: Sc 0.985; L: Sc 0.859; αSc: Sc 0.997 | model | [1] Liu 2008 | Table 4, p. 5, row 28 |  |
+| 1473.15 | Polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 15 |  |
+| 1473.15 | Polymorphic: βFe2Sc -> αFe2Sc | βFe2Sc: Sc 0.333; αFe2Sc: Sc 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 16 |  |
+| 1248.15 | Eutectic: L -> αFe2Sc + αSc | L: Sc 0.751; αFe2Sc: Sc 0.333; αSc: Sc 0.995 | model | [1] Liu 2008 | Table 4, p. 5, row 20 |  |
+| 1248.15 | Eutectic: L -> αFe2Sc + αSc | L: Sc 0.74; αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 19 |  |
+| 1208.15 | Peritectoid: γFe + αFe2Sc -> αFe | γFe: Sc 0.005; αFe2Sc: Sc 0.333; αFe: Sc 0.007 | model | [1] Liu 2008 | Table 4, p. 5, row 10 |  |
+| 1208.15 | Peritectoid: γFe + αFe2Sc -> αFe | αFe2Sc: Sc 0.333 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 9 |  |
+| 1185.15 | Allotropic: γFe -> αFe | γFe: Sc 1; αFe: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 7 |  |
+| 1185.15 | Allotropic: γFe -> αFe | γFe: Sc 1; αFe: Sc 1 | model | [1] Liu 2008 | Table 4, p. 5, row 8 |  |
+| 1138.15 | Peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; Fe6Sc29: Sc 0.875 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 4, p. 5, row 21 |  |
+| 1138.15 | Peritectoid: αFe2Sc + αSc -> Fe6Sc29 | αFe2Sc: Sc 0.333; αSc: Sc 0.997; Fe6Sc29: Sc 0.829 | model | [1] Liu 2008 | Table 4, p. 5, row 22 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Fe–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 542.15 K | 542.15 | magnetic | model | [1] Liu 2008; _cites Ikeda 1974_ [doi](https://doi.org/10.1143/jpsj.36.611) | p. 2 | “Moreover, the Curie temperature of the ␣Fe2 Sc phase was reported to be 269 ◦ C \[16\].” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. X.J. Liu, P. Yu, C.P. Wang, K. Ishida, Thermodynamic evaluation of the Co–Sc and Fe–Sc systems, Journal of Alloys and Compounds 466, 169-175 (2008). [doi:10.1016/j.jallcom.2007.11.069](https://doi.org/10.1016/j.jallcom.2007.11.069)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

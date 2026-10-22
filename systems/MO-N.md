@@ -1,0 +1,119 @@
+# Mo–N system
+
+> Mo–N system: 41 accepted literature values (formation 40, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MO-N.html · Markdown: https://data.orchid-project.org/systems/MO-N.md
+
+41 accepted literature values from 1 paper(s) (experimental 1, model 28, unspecified 12); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-N.json) · [CSV](https://data.orchid-project.org/systems/MO-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-N/MoN-23Dac.json) · [Markdown](https://data.orchid-project.org/systems/MO-N.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 1 |
+| model | 28 |
+| unspecified | 12 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 1 |
+| formation | 40 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MoN-23Dac.tdb | R.A. Daclan, M.G. Mena, M.R. Vazquez, W. Gierlotka, J. Mining Metall. B, 59, 125-36(2023). [doi:10.2298/JMMB210330011D](https://doi.org/10.2298/JMMB210330011D) | `d0327d2feb226fded32b8bd7586ea57df9dda17d1e8fdb2253031d12042693ea` | [viewer](https://orchid-project.org/phase-diagrams/#MO-N/MoN-23Dac.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoN-23Dac.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoN-23Dac.json) |
+| MoN-91Fri-LB.tdb | K. Frisk, Calphad, 15, 79-106(1991). [doi:10.1016/0364-5916(91)90028-I](https://doi.org/10.1016/0364-5916%2891%2990028-I) | `1d4dea1aad84fb4b1d9fd4be6cc78e6dc7d488898c7964744e52372adfdf2469` | [viewer](https://orchid-project.org/phase-diagrams/#MO-N/MoN-91Fri-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoN-91Fri-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoN-91Fri-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MoN-23Dac.tdb | 2877.89 | BCC_A2 (x(N) 2.300e-4) + LIQUID (x(N) 0.00937) + N2GAS (x(N) 1) |
+| MoN-23Dac.tdb | 2877.89 | BCC_A2 (x(N) 2.200e-4) + LIQUID (x(N) 0.00928) + N2GAS (x(N) 1) |
+| MoN-23Dac.tdb | 2877.89 | BCC_A2 (x(N) 2.200e-4) + LIQUID (x(N) 0.00928) + N2GAS (x(N) 1) |
+| MoN-23Dac.tdb | 941.97 | BCC_A2 (x(N) 0) + MO2N_BETA (x(N) 0.28199) + N2GAS (x(N) 1) |
+| MoN-23Dac.tdb | 769.48 | MO2N_BETA (x(N) 0.32895) + MC_SHP (x(N) 0.5) + N2GAS (x(N) 1) |
+| MoN-91Fri-LB.tdb | 2881.07 | BCC_A2 (x(N) 0.0019) + LIQUID (x(N) 0.0096) + N2GAS (x(N) 1) |
+| MoN-91Fri-LB.tdb | 2881.07 | BCC_A2 (x(N) 0.0019) + LIQUID (x(N) 0.0096) + N2GAS (x(N) 1) |
+| MoN-91Fri-LB.tdb | 1092.37 | BCC_A2 (x(N) 0) + FCC_A1 (x(N) 0.30895) + N2GAS (x(N) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MO/MO-N.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MO/MO-N.json) · [CALPHAD hull MoN-91Fri-LB](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-N--MoN-91Fri-LB.json)
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mo–N system (40)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Mo2N-beta | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -35.989 kJ/mol-atom | 0 | model | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3 |  |
+| Mo2N-beta | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -35.989 kJ/mol-atom | 0 | model | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3 |  |
+| Mo2N-beta | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -26.0974 kJ/mol-atom | 0 | unspecified | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023 | Table 2, p. 6, row 1 |  |
+| Mo2N-beta | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -26.097 kJ/mol-atom | 0 | unspecified | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023 | Table 2, p. 6, row 1 |  |
+| Mo2N-beta | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -25.953 kJ/mol-atom | 0 | model | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2 |  |
+| Mo2N-beta | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -25.9526 kJ/mol-atom | 0 | model | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2 |  |
+| Mo2N-gamma | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -22.0797 kJ/mol-atom | 0 | model | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5 |  |
+| Mo2N-gamma | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -22.079 kJ/mol-atom | 0 | model | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5 |  |
+| Mo2N-gamma | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -21.1081 kJ/mol-atom | 0 | unspecified | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
+| Mo2N-gamma | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -21.108 kJ/mol-atom | 0 | unspecified | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -53.7423 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -53.742 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -51.8126 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -51.812 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -44.2868 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -44.286 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -39.2512 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -39.251 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -37.7537 kJ/mol-atom | 0 | unspecified | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023 | Table 2, p. 6, row 6 |  |
+| MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -37.753 kJ/mol-atom | 0 | unspecified | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023 | Table 2, p. 6, row 6 |  |
+| UNKNOWN |  | -53.7423 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10 |  |
+| UNKNOWN |  | -53.742 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10 |  |
+| UNKNOWN |  | -51.8126 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8 |  |
+| UNKNOWN |  | -51.812 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8 |  |
+| UNKNOWN |  | -44.2868 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9 |  |
+| UNKNOWN |  | -44.286 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9 |  |
+| UNKNOWN |  | -39.2512 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7 |  |
+| UNKNOWN |  | -39.251 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7 |  |
+| UNKNOWN |  | -37.7537 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 6 |  |
+| UNKNOWN |  | -37.753 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 6 |  |
+| UNKNOWN |  | -35.989 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3 |  |
+| UNKNOWN |  | -35.989 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3 |  |
+| UNKNOWN |  | -26.0974 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 1 |  |
+| UNKNOWN |  | -26.097 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 1 |  |
+| UNKNOWN |  | -25.953 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2 |  |
+| UNKNOWN |  | -25.9526 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2 |  |
+| UNKNOWN |  | -22.0797 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5 |  |
+| UNKNOWN |  | -22.079 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5 |  |
+| UNKNOWN |  | -21.1081 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
+| UNKNOWN |  | -21.108 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Mo–N system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 2133 K | 2133 | Liquid = BCC_A2 + Mo2Ngamma | experimental | [1] Daclan 2023; _cites Jehn 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990073-5) | p. 2 | “The reaction takes place at 2133 K and the following compositions: 0.0108, 0.19, 0.27 mole fraction of N were reported for BCC_A2, liquid, and Mo2N_gamma phases, respectively.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. R.A. Daclan, M.G. Mena, M.R. Vasquez, W. Gierlotka, Ab-initio combined the Calphad approach to the phase equilibria in the ternary Ti-Mo-N system, J min metall B Metall 59, 125-136 (2023). [doi:10.2298/jmmb210330011d](https://doi.org/10.2298/jmmb210330011d)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

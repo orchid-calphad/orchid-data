@@ -1,0 +1,262 @@
+# Er–Fe system
+
+> Er–Fe system: 106 accepted literature values (invariant reaction 84, phase transition 16, formation 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/ER-FE.html · Markdown: https://data.orchid-project.org/systems/ER-FE.md
+
+106 accepted literature values from 4 paper(s) (experimental 46, model 59, unspecified 1); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-FE.json) · [CSV](https://data.orchid-project.org/systems/ER-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-FE/ErFe-10Zho.json) · [Markdown](https://data.orchid-project.org/systems/ER-FE.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 46 |
+| model | 59 |
+| unspecified | 1 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 84 |
+| phase transition | 16 |
+| formation | 6 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| ErFe-10Zho.tdb | G.J. Zhou, Z.W. Liu, D.C. Zeng, Z.P. Jin, Physica B, 405, 3590-93(2010). [doi:10.1016/j.physb.2010.05.046](https://doi.org/10.1016/j.physb.2010.05.046) | `1040d981d623df87d259303a659860caded5369ac3b846b25f0865fedbb0a14a` | [viewer](https://orchid-project.org/phase-diagrams/#ER-FE/ErFe-10Zho.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/ErFe-10Zho.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/ErFe-10Zho.json) |
+| ErFe-11Wan.tdb | W. Wang, C. Guo, C. Li, Z. Du, Calphad, 35, 292-301(2011). [doi:10.1016/j.calphad.2011.04.001](https://doi.org/10.1016/j.calphad.2011.04.001) | `d3d26033abb0e6a68578eab4085937cbd7904c2d98acee85e6633bef09c27ffc` | [viewer](https://orchid-project.org/phase-diagrams/#ER-FE/ErFe-11Wan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/ErFe-11Wan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/ErFe-11Wan.json) |
+| ErFe-12Wan.tdb | S.L. Wang, J.J. Han, C.P. Wang, S.Z. Kou, X.J. Liu, J. Alloys Compd., 513, 27-34(2012). [doi:10.1016/j.jallcom.2011.08.014](https://doi.org/10.1016/j.jallcom.2011.08.014) | `9284f49a27f3fe26cd4e9cbfb85e35a2c84d72032ddb6dc08d5a7fccf8cfa84d` | [viewer](https://orchid-project.org/phase-diagrams/#ER-FE/ErFe-12Wan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/ErFe-12Wan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/ErFe-12Wan.json) |
+| ErFe-23Ye.tdb | H. Ye, M. Rong, Q. Chen, Q. Yao, J. Wang, G. Rao, H. Zhou, J. Mater. Inf., 3, 15(2023). | `d3f1e827a3153e9e4b23f5d6860e96cefd672743cc8668bb4c795e562eaab861` | [viewer](https://orchid-project.org/phase-diagrams/#ER-FE/ErFe-23Ye.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/ErFe-23Ye.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/ErFe-23Ye.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| ErFe-10Zho.tdb | 1665.85 | LIQUID (x(Fe) 0.91793) + BCC_A2 (x(Fe) 0.99994) + FCC_A1 (x(Fe) 1) |
+| ErFe-10Zho.tdb | 1665.85 | LIQUID (x(Fe) 0.91797) + BCC_A2 (x(Fe) 0.99994) + FCC_A1 (x(Fe) 1) |
+| ErFe-10Zho.tdb | 1614.23 | LIQUID (x(Fe) 0.88338) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-10Zho.tdb | 1614.23 | LIQUID (x(Fe) 0.8834) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-10Zho.tdb | 1614.22 | LIQUID (x(Fe) 0.88286) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-10Zho.tdb | 1614.22 | LIQUID (x(Fe) 0.88294) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-10Zho.tdb | 1610.63 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + LIQUID (x(Fe) 0.75988) |
+| ErFe-10Zho.tdb | 1610.63 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + LIQUID (x(Fe) 0.76038) |
+| ErFe-10Zho.tdb | 1610.63 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + LIQUID (x(Fe) 0.75987) |
+| ErFe-10Zho.tdb | 1610.63 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + LIQUID (x(Fe) 0.75985) |
+| ErFe-10Zho.tdb | 1601.41 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80947) |
+| ErFe-10Zho.tdb | 1601.41 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80948) |
+| ErFe-10Zho.tdb | 1601.41 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80904) |
+| ErFe-10Zho.tdb | 1601.41 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.8095) |
+| ErFe-10Zho.tdb | 1601.41 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80903) |
+| ErFe-10Zho.tdb | 1599.07 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.82639) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-10Zho.tdb | 1599.07 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.82551) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-10Zho.tdb | 1599.07 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.82551) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-10Zho.tdb | 1599.06 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.82592) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-10Zho.tdb | 1184.82 | ER2FE17 (x(Fe) 0.89474) + BCC_A2 (x(Fe) 1) + FCC_A1 (x(Fe) 1) |
+| ErFe-10Zho.tdb | 1184.44 | HCP_A3 (x(Fe) 1.000e-5) + LIQUID (x(Fe) 0.30801) + ERFE2_C15 (x(Fe) 0.66667) |
+| ErFe-10Zho.tdb | 1184.44 | HCP_A3 (x(Fe) 1.000e-5) + LIQUID (x(Fe) 0.308) + ERFE2_C15 (x(Fe) 0.66667) |
+| ErFe-11Wan.tdb | 1658 | LIQUID (x(Fe) 0.9179) + BCC_A2 (x(Fe) 0.99966) + FCC_A1 (x(Fe) 1) |
+| ErFe-11Wan.tdb | 1658 | LIQUID (x(Fe) 0.91795) + BCC_A2 (x(Fe) 0.99966) + FCC_A1 (x(Fe) 1) |
+| ErFe-11Wan.tdb | 1619.21 | ER2FE17 (x(Fe) 0.89474) + LIQUID (x(Fe) 0.89517) + FCC_A1 (x(Fe) 1) |
+| ErFe-11Wan.tdb | 1619.2 | LIQUID (x(Fe) 0.8947) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-11Wan.tdb | 1619.2 | LIQUID (x(Fe) 0.89458) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-11Wan.tdb | 1611.01 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + LIQUID (x(Fe) 0.76457) |
+| ErFe-11Wan.tdb | 1611.01 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + LIQUID (x(Fe) 0.76493) |
+| ErFe-11Wan.tdb | 1611.01 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + LIQUID (x(Fe) 0.76402) |
+| ErFe-11Wan.tdb | 1600.37 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.81765) |
+| ErFe-11Wan.tdb | 1600.24 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.81864) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-11Wan.tdb | 1188.27 | HCP_A3 (x(Fe) 0) + LIQUID (x(Fe) 0.28055) + ERFE2_C15 (x(Fe) 0.66667) |
+| ErFe-11Wan.tdb | 1188.27 | HCP_A3 (x(Fe) 0) + LIQUID (x(Fe) 0.28054) + ERFE2_C15 (x(Fe) 0.66667) |
+| ErFe-11Wan.tdb | 1184.84 | ER2FE17 (x(Fe) 0.89474) + BCC_A2 (x(Fe) 1) + FCC_A1 (x(Fe) 1) |
+| ErFe-12Wan.tdb | 1658.14 | LIQUID (x(Fe) 0.91058) + BCC_A2 (x(Fe) 0.98333) + FCC_A1 (x(Fe) 0.98377) |
+| ErFe-12Wan.tdb | 1625.28 | LIQUID (x(Fe) 0.89144) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 0.98085) |
+| ErFe-12Wan.tdb | 1625.28 | LIQUID (x(Fe) 0.89148) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 0.98086) |
+| ErFe-12Wan.tdb | 1616.08 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + LIQUID (x(Fe) 0.75005) |
+| ErFe-12Wan.tdb | 1616.08 | ERFE2_C15 (x(Fe) 0.66667) + LIQUID (x(Fe) 0.74942) + ERFE3 (x(Fe) 0.75) |
+| ErFe-12Wan.tdb | 1616.08 | ERFE2_C15 (x(Fe) 0.66667) + LIQUID (x(Fe) 0.74938) + ERFE3 (x(Fe) 0.75) |
+| ErFe-12Wan.tdb | 1616.07 | ERFE2_C15 (x(Fe) 0.66667) + LIQUID (x(Fe) 0.74977) + ERFE3 (x(Fe) 0.75) |
+| ErFe-12Wan.tdb | 1603.53 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80935) |
+| ErFe-12Wan.tdb | 1603.53 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80849) |
+| ErFe-12Wan.tdb | 1603.53 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80934) |
+| ErFe-12Wan.tdb | 1603.53 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80848) |
+| ErFe-12Wan.tdb | 1603.52 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.80898) |
+| ErFe-12Wan.tdb | 1600.86 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.82338) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-12Wan.tdb | 1600.86 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.82332) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-12Wan.tdb | 1600.86 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.82392) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-12Wan.tdb | 1600.86 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.82393) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-12Wan.tdb | 1189.08 | HCP_A3 (x(Fe) 0.00228) + LIQUID (x(Fe) 0.31228) + ERFE2_C15 (x(Fe) 0.66667) |
+| ErFe-12Wan.tdb | 1189.08 | HCP_A3 (x(Fe) 0.00229) + LIQUID (x(Fe) 0.31225) + ERFE2_C15 (x(Fe) 0.66667) |
+| ErFe-12Wan.tdb | 1182.93 | ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 0.99922) + BCC_A2 (x(Fe) 0.99939) |
+| ErFe-12Wan.tdb | 1182.93 | ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 0.99923) + BCC_A2 (x(Fe) 0.9994) |
+| ErFe-12Wan.tdb | 587.78 | ERFE2_C15 (x(Fe) 0.66667) + ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) |
+| ErFe-12Wan.tdb | 462.23 | ER6FE23_D8A (x(Fe) 0.7931) + ER2FE17 (x(Fe) 0.89474) + BCC_A2 (x(Fe) 1) |
+| ErFe-23Ye.tdb | 1661.49 | LIQUID (x(Fe) 0.91555) + BCC_A2 (x(Fe) 0.99979) + FCC_A1 (x(Fe) 1) |
+| ErFe-23Ye.tdb | 1661.49 | LIQUID (x(Fe) 0.91566) + BCC_A2 (x(Fe) 0.99979) + FCC_A1 (x(Fe) 1) |
+| ErFe-23Ye.tdb | 1625.17 | LIQUID (x(Fe) 0.89366) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-23Ye.tdb | 1625.17 | LIQUID (x(Fe) 0.8935) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-23Ye.tdb | 1625.17 | LIQUID (x(Fe) 0.89413) + ER2FE17 (x(Fe) 0.89474) + FCC_A1 (x(Fe) 1) |
+| ErFe-23Ye.tdb | 1615.02 | ERFE2_C15 (x(Fe) 0.66667) + LIQUID (x(Fe) 0.74951) + ERFE3 (x(Fe) 0.75) |
+| ErFe-23Ye.tdb | 1615.02 | ERFE2_C15 (x(Fe) 0.66667) + LIQUID (x(Fe) 0.74973) + ERFE3 (x(Fe) 0.75) |
+| ErFe-23Ye.tdb | 1615.02 | ERFE2_C15 (x(Fe) 0.66667) + LIQUID (x(Fe) 0.74925) + ERFE3 (x(Fe) 0.75) |
+| ErFe-23Ye.tdb | 1615.02 | ERFE2_C15 (x(Fe) 0.66667) + LIQUID (x(Fe) 0.74924) + ERFE3 (x(Fe) 0.75) |
+| ErFe-23Ye.tdb | 1602.73 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.81133) |
+| ErFe-23Ye.tdb | 1602.73 | ERFE3 (x(Fe) 0.75) + ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.81109) |
+| ErFe-23Ye.tdb | 1601.82 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.81766) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-23Ye.tdb | 1601.82 | ER6FE23_D8A (x(Fe) 0.7931) + LIQUID (x(Fe) 0.81791) + ER2FE17 (x(Fe) 0.89474) |
+| ErFe-23Ye.tdb | 1185.54 | HCP_A3 (x(Fe) 4.000e-5) + LIQUID (x(Fe) 0.33143) + ERFE2_C15 (x(Fe) 0.66667) |
+| ErFe-23Ye.tdb | 1185.54 | HCP_A3 (x(Fe) 4.000e-5) + LIQUID (x(Fe) 0.33142) + ERFE2_C15 (x(Fe) 0.66667) |
+| ErFe-23Ye.tdb | 1184.83 | ER2FE17 (x(Fe) 0.89474) + BCC_A2 (x(Fe) 1) + FCC_A1 (x(Fe) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/ER/ER-FE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/ER/ER-FE.json) · [CALPHAD hull ErFe-10Zho](https://data.orchid-project.org/hulls/calphad-sgte/ER/ER-FE--ErFe-10Zho.json) · [CALPHAD hull ErFe-11Wan](https://data.orchid-project.org/hulls/calphad-sgte/ER/ER-FE--ErFe-11Wan.json) · [CALPHAD hull ErFe-12Wan](https://data.orchid-project.org/hulls/calphad-sgte/ER/ER-FE--ErFe-12Wan.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Er–Fe system (84)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1667.5 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.919 | model | [1] Ye 2023; _cites ref. 110_ | Table 8, p. 14, row 2 |  |
+| 1661.5 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.916 | model | [1] Ye 2023 | Table 8, p. 14, row 5 |  |
+| 1658.15 | Eutectoid: (δFe) ↔ (γFe) + L |  | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 2, p. 3, row 1 |  |
+| 1658.15 | Eutectoid: (δFe) ↔ (γFe) + L | (δFe): Er 0.0167; (γFe): Er 0.0163; L: Er 0.0895 | model | [2] Wang 2012 | Table 2, p. 3, row 2 |  |
+| 1658 | bcc -> liq. + fcc | bcc: Fe 0.989; L: Fe 0.9; fcc: Fe 0.995 | experimental | [3] Wang 2011; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 9, row 2 |  |
+| 1658 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.911 | model | [1] Ye 2023; _cites ref. 112_ | Table 8, p. 14, row 4 |  |
+| 1658 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.918 | model | [1] Ye 2023; _cites ref. 111_ | Table 8, p. 14, row 3 |  |
+| 1658 | bcc -> liq. + fcc | bcc: Fe 0.9997; L: Fe 0.9179; fcc: Fe 1 | model | [3] Wang 2011 | Table 3, p. 9, row 1 |  |
+| 1658 | Metatectic: bcc(δ-Fe) -> fcc(γ-Fe) + L | L: Fe 0.9 | experimental | [1] Ye 2023; _cites ref. 106_ | Table 8, p. 14, row 1 |  |
+| 1636.15 | Congruent: L ↔ Fe2Er | Fe2Er: Er 0.333 | model | [2] Wang 2012 | Table 2, p. 3, row 12 |  |
+| 1633.15 | Congruent: L ↔ Fe2Er | Fe2Er: Er 0.333 | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 2, p. 3, row 11 |  |
+| 1630 | Peritectic: L + fcc(γ-Fe) -> Fe17Er2 | L: Fe 0.894 | model | [1] Ye 2023; _cites (cal_ | Table 8, p. 14, row 11 |  |
+| 1628.15 | peritectic: L + ␥Fe ↔ Fe17 Er2 |  | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | p. 2 | “Based on the differential thermal analysis, metallographic methods and X-ray powder diffraction, Buschow and Van der Goot \[19\] firstly investigated the phase diagram in the Fe-Er system and reported four intermetallic compounds (Fe17 Er2 , Fe23 Er6 , Fe3 Er, and Fe2 Er phases) and three peritectic reactions: L (10.5 at.% Er) + ␥Fe ↔ Fe17 Er2 at 1355 ◦ C, L (19.1 at.% Er) + Fe3 Er ↔ Fe23 Er6 at 13…” |
+| 1628.15 | Peritectic: L + (γFe) ↔ Fe17Er2 | Fe17Er2: Er 0.105 | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 2, p. 3, row 3 |  |
+| 1628 | peritectic: L + fcc-Fe ↔ Fe17Er2 |  | experimental | [1] Ye 2023 | p. 5 | “Fe17Er2, Fe23Er6, and Fe3Er are produced by three peritectic transformations (L + fcc-Fe ↔ Fe17Er2 at 1628 K, L + Fe3Er ↔ Fe23Er6 at 1,603 K, and L + Fe2Er ↔ Fe3Er at 1,618 K), while Fe2Er melts congruently at 1,633 K.” |
+| 1628 | Peritectic: L + fcc(γ-Fe) -> Fe17Er2 | L: Fe 0.896 | experimental | [1] Ye 2023; _cites ref. 106_ | Table 8, p. 14, row 7 |  |
+| 1628 | Peritectic: L+Fcc(Fe) -> Fe17Er2 | L: Fe 0.895; Fcc(Fe): Fe 1; Fe17Er2: Fe 0.894737 | experimental | [4] Zhou 2010; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 3, row 9 |  |
+| 1628 | liq. + fcc -> Er2Fe17 | L: Fe 0.88; fcc: Fe 1; Er2Fe17: Er 0.105263, Fe 0.894737 | experimental | [3] Wang 2011; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 9, row 4 |  |
+| 1626.15 | Peritectic: L + (γFe) ↔ Fe17Er2 | L: Er 0.108; (γFe): Er 0.019; Fe17Er2: Er 0.105 | model | [2] Wang 2012 | Table 2, p. 3, row 4 |  |
+| 1626 | Peritectic: L + fcc(γ-Fe) -> Fe17Er2 | L: Fe 0.892 | model | [1] Ye 2023; _cites ref. 112_ | Table 8, p. 14, row 10 |  |
+| 1625.1 | Peritectic: L + fcc(γ-Fe) -> Fe17Er2 | L: Fe 0.894 | model | [1] Ye 2023 | Table 8, p. 14, row 12 |  |
+| 1619 | Peritectic: L + fcc(γ-Fe) -> Fe17Er2 | L: Fe 0.895 | model | [1] Ye 2023; _cites ref. 111_ | Table 8, p. 14, row 9 |  |
+| 1619 | liq. + fcc -> Er2Fe17 | L: Fe 0.8947; fcc: Fe 1; Er2Fe17: Er 0.105263, Fe 0.894737 | model | [3] Wang 2011 | Table 3, p. 9, row 3 |  |
+| 1618.15 | Peritectic: L + Fe2Er ↔ Fe3Er | Fe2Er: Er 0.333; Fe3Er: Er 0.25 | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 2, p. 3, row 9 |  |
+| 1618.15 | peritectic: L + Fe2 Er ↔ Fe3 Er |  | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | p. 2 | “Based on the differential thermal analysis, metallographic methods and X-ray powder diffraction, Buschow and Van der Goot \[19\] firstly investigated the phase diagram in the Fe-Er system and reported four intermetallic compounds (Fe17 Er2 , Fe23 Er6 , Fe3 Er, and Fe2 Er phases) and three peritectic reactions: L (10.5 at.% Er) + ␥Fe ↔ Fe17 Er2 at 1355 ◦ C, L (19.1 at.% Er) + Fe3 Er ↔ Fe23 Er6 at 13…” |
+| 1618 | peritectic: L + Fe2Er ↔ Fe3Er |  | experimental | [1] Ye 2023 | p. 5 | “Fe17Er2, Fe23Er6, and Fe3Er are produced by three peritectic transformations (L + fcc-Fe ↔ Fe17Er2 at 1628 K, L + Fe3Er ↔ Fe23Er6 at 1,603 K, and L + Fe2Er ↔ Fe3Er at 1,618 K), while Fe2Er melts congruently at 1,633 K.” |
+| 1618 | Peritectic: L+Fe2Er -> Fe3ER | L: Fe 0.76; Fe2Er: Fe 0.666667; Fe3ER: Fe 0.75 | experimental | [4] Zhou 2010; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 3, row 5 |  |
+| 1618 | Peritectic: L + Fe2Er -> Fe3Er | L: Fe 0.752 | experimental | [1] Ye 2023; _cites ref. 106_ | Table 8, p. 14, row 25 |  |
+| 1618 | liq. + ErFe2 -> ErFe3 | L: Fe 0.755; ErFe2: Er 0.333333, Fe 0.666667; ErFe3: Er 0.25, Fe 0.75 | experimental | [3] Wang 2011; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 9, row 6 |  |
+| 1616 | Peritectic: L+Fcc(Fe) -> Fe17Er2 | Fcc(Fe): Fe 1; Fe17Er2: Fe 0.894737 | unspecified | [4] Zhou 2010 | Table 3, p. 3, row 10 |  |
+| 1616 | Peritectic: L + fcc(γ-Fe) -> Fe17Er2 | L: Fe 0.895 | model | [1] Ye 2023; _cites ref. 110_ | Table 8, p. 14, row 8 |  |
+| 1615.85 | Peritectic: L + Fe2Er ↔ Fe3Er | L: Er 0.25; Fe2Er: Er 0.333; Fe3Er: Er 0.25 | model | [2] Wang 2012 | Table 2, p. 3, row 10 |  |
+| 1615.7 | Peritectic: L + Fe2Er -> Fe3Er | L: Fe 0.75 | model | [1] Ye 2023; _cites ref. 112_ | Table 8, p. 14, row 28 |  |
+| 1615 | Peritectic: L + Fe2Er -> Fe3Er | L: Fe 0.75 | model | [1] Ye 2023 | Table 8, p. 14, row 30 |  |
+| 1612 | Peritectic: L + Fe2Er -> Fe3Er | L: Fe 0.721 | model | [1] Ye 2023; _cites (cal_ | Table 8, p. 14, row 29 |  |
+| 1611 | Peritectic: L+Fe2Er -> Fe3ER | Fe2Er: Fe 0.666667; Fe3ER: Fe 0.75 | model | [4] Zhou 2010 | Table 3, p. 3, row 6 |  |
+| 1611 | Peritectic: L + Fe2Er -> Fe3Er | L: Fe 0.765 | model | [1] Ye 2023; _cites ref. 111_ | Table 8, p. 14, row 27 |  |
+| 1611 | Peritectic: L + Fe2Er -> Fe3Er | L: Fe 0.76 | model | [1] Ye 2023; _cites ref. 110_ | Table 8, p. 14, row 26 |  |
+| 1611 | liq. + ErFe2 -> ErFe3 | L: Fe 0.7647; ErFe2: Er 0.333333, Fe 0.666667; ErFe3: Er 0.25, Fe 0.75 | model | [3] Wang 2011 | Table 3, p. 9, row 5 |  |
+| 1603.15 | Peritectic: L + Fe3Er ↔ Fe23Er6 | Fe3Er: Er 0.25; Fe23Er6: Er 0.207 | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 2, p. 3, row 7 |  |
+| 1603.15 | peritectic: L + Fe3 Er ↔ Fe23 Er6 |  | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | p. 2 | “Based on the differential thermal analysis, metallographic methods and X-ray powder diffraction, Buschow and Van der Goot \[19\] firstly investigated the phase diagram in the Fe-Er system and reported four intermetallic compounds (Fe17 Er2 , Fe23 Er6 , Fe3 Er, and Fe2 Er phases) and three peritectic reactions: L (10.5 at.% Er) + ␥Fe ↔ Fe17 Er2 at 1355 ◦ C, L (19.1 at.% Er) + Fe3 Er ↔ Fe23 Er6 at 13…” |
+| 1603 | peritectic: L + Fe3Er ↔ Fe23Er6 |  | experimental | [1] Ye 2023 | p. 5 | “Fe17Er2, Fe23Er6, and Fe3Er are produced by three peritectic transformations (L + fcc-Fe ↔ Fe17Er2 at 1628 K, L + Fe3Er ↔ Fe23Er6 at 1,603 K, and L + Fe2Er ↔ Fe3Er at 1,618 K), while Fe2Er melts congruently at 1,633 K.” |
+| 1603 | Peritectic: L+ Fe3Er -> Fe23Er6 | L: Fe 0.803 | experimental | [1] Ye 2023; _cites ref. 106_ | Table 8, p. 14, row 19 |  |
+| 1603 | Peritectic: L+Fe3Er -> Fe23Er6 | L: Fe 0.809; Fe3Er: Fe 0.75; Fe23Er6: Fe 0.793103 | experimental | [4] Zhou 2010; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 3, row 7 |  |
+| 1603 | liq. + ErFe3 -> Er6Fe23 | L: Fe 0.8; ErFe3: Er 0.25, Fe 0.75; Er6Fe23: Er 0.206897, Fe 0.793103 | experimental | [3] Wang 2011; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 9, row 8 |  |
+| 1602.85 | Peritectic: L + Fe3Er ↔ Fe23Er6 | L: Er 0.19; Fe3Er: Er 0.25; Fe23Er6: Er 0.207 | model | [2] Wang 2012 | Table 2, p. 3, row 8 |  |
+| 1602.7 | Peritectic: L+ Fe3Er -> Fe23Er6 | L: Fe 0.811 | model | [1] Ye 2023 | Table 8, p. 14, row 24 |  |
+| 1602.7 | Peritectic: L+ Fe3Er -> Fe23Er6 | L: Fe 0.81 | model | [1] Ye 2023; _cites ref. 112_ | Table 8, p. 14, row 22 |  |
+| 1601.8 | Eutectic: L -> Fe17Er2 + Fe23Er6 | L: Fe 0.818 | model | [1] Ye 2023 | Table 8, p. 14, row 18 |  |
+| 1601 | Peritectic: L+ Fe3Er -> Fe23Er6 | L: Fe 0.809 | model | [1] Ye 2023; _cites ref. 110_ | Table 8, p. 14, row 20 |  |
+| 1601 | Peritectic: L+Fe3Er -> Fe23Er6 | Fe3Er: Fe 0.75; Fe23Er6: Fe 0.793103 | model | [4] Zhou 2010 | Table 3, p. 3, row 8 |  |
+| 1600.65 | Eutectic: L ↔ Fe17Er2 + Fe23Er6 | L: Er 0.178; Fe17Er2: Er 0.105; Fe23Er6: Er 0.207 | model | [2] Wang 2012 | Table 2, p. 3, row 6 |  |
+| 1600.5 | Eutectic: L -> Fe17Er2 + Fe23Er6 | L: Fe 0.822 | model | [1] Ye 2023; _cites ref. 112_ | Table 8, p. 14, row 16 |  |
+| 1600 | liq. + ErFe3 -> Er6Fe23 | L: Fe 0.8177; ErFe3: Er 0.25, Fe 0.75; Er6Fe23: Er 0.206897, Fe 0.793103 | model | [3] Wang 2011 | Table 3, p. 9, row 7 |  |
+| 1600 | Eutectic: L -> Fe17Er2 + Fe23Er6 | L: Fe 0.819 | model | [1] Ye 2023; _cites ref. 111_ | Table 8, p. 14, row 15 |  |
+| 1600 | Peritectic: L+ Fe3Er -> Fe23Er6 | L: Fe 0.818 | model | [1] Ye 2023; _cites ref. 111_ | Table 8, p. 14, row 21 |  |
+| 1600 | liq. -> Er6Fe23 + Er2Fe17 | L: Fe 0.8186; Er6Fe23: Er 0.206897, Fe 0.793103; Er2Fe17: Er 0.105263, Fe 0.894737 | model | [3] Wang 2011 | Table 3, p. 9, row 9 |  |
+| 1599 | Eutectic: L -> Fe17Er2 + Fe23Er6 | L: Fe 0.826 | model | [1] Ye 2023; _cites ref. 110_ | Table 8, p. 14, row 14 |  |
+| 1599 | Eutectic: L -> Fe23Er6+Fe17Er2 | L: Fe 0.826; Fe23Er6: Fe 0.793103; Fe17Er2: Fe 0.894737 | model | [4] Zhou 2010 | Table 3, p. 3, row 4 |  |
+| 1595 | Peritectic: L+ Fe3Er -> Fe23Er6 | L: Fe 0.798 | model | [1] Ye 2023; _cites (cal_ | Table 8, p. 14, row 23 |  |
+| 1588.15 | Eutectic: L ↔ Fe17Er2 + Fe23Er6 | L: Er 0.165; Fe17Er2: Er 0.105; Fe23Er6: Er 0.207 | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 2, p. 3, row 5 |  |
+| 1588.15 | eutectic: L ↔ Fe23 Er6 + Fe12 Er7 |  | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | p. 2 | “Buschow and Van der Goot \[19\] also reported the melting point of Fe2 Er to be 1360 ◦ C and determined two eutectic reactions: L (16.5 at.% Er) ↔ Fe23 Er6 + Fe12 Er7 at 1315 ◦ C, and L (∼70 at.% Er) ↔ Fe2 Er + hcp (Er) at 915 ◦ C.” |
+| 1588 | Eutectic: L -> Fe23Er6+Fe17Er2 | L: Fe 0.835; Fe23Er6: Fe 0.793103; Fe17Er2: Fe 0.894737 | experimental | [4] Zhou 2010; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 3, row 3 |  |
+| 1588 | eutectic: L ↔ Fe17Er2 + Fe23Er6 |  | experimental | [1] Ye 2023; _cites ref. 106_ | p. 5 | “The experimental results\[106-108\] show two eutectic transformations (L ↔ Fe17Er2 + Fe23Er6 at 1,588 K and L ↔ Fe2Er + hcp-Er at 1,188 K).” |
+| 1588 | liq. -> Er6Fe23 + Er2Fe17 | L: Fe 0.835; Er6Fe23: Er 0.206897, Fe 0.793103; Er2Fe17: Er 0.105263, Fe 0.894737 | experimental | [3] Wang 2011; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 9, row 10 |  |
+| 1588 | Eutectic: L -> Fe17Er2 + Fe23Er6 | L: Fe 0.835 | experimental | [1] Ye 2023; _cites ref. 106_ | Table 8, p. 14, row 13 |  |
+| 1581 | Eutectic: L -> Fe17Er2 + Fe23Er6 | L: Fe 0.829 | model | [1] Ye 2023; _cites (cal_ | Table 8, p. 14, row 17 |  |
+| 1189 | Eutectic: L -> Fe2Er + hcp-Er | L: Fe 0.316 | model | [1] Ye 2023; _cites (cal_ | Table 8, p. 14, row 41 |  |
+| 1189 | liq. -> hcp + ErFe2 | L: Fe 0.2806; hcp: Fe 1.000e-4; ErFe2: Er 0.333333, Fe 0.666667 | model | [3] Wang 2011 | Table 3, p. 9, row 11 |  |
+| 1189 | Eutectic: L -> Fe2Er + hcp-Er | L: Fe 0.281 | model | [1] Ye 2023; _cites ref. 111_ | Table 8, p. 14, row 39 |  |
+| 1188.15 | Eutectic: L ↔ Fe2Er + (Er) | L: Er 0.7; Fe2Er: Er 0.333; (Er): Er 1 | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 2, p. 3, row 13 |  |
+| 1188.15 | eutectic: L ↔ Fe2 Er + hcp (Er) |  | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | p. 2 | “Buschow and Van der Goot \[19\] also reported the melting point of Fe2 Er to be 1360 ◦ C and determined two eutectic reactions: L (16.5 at.% Er) ↔ Fe23 Er6 + Fe12 Er7 at 1315 ◦ C, and L (∼70 at.% Er) ↔ Fe2 Er + hcp (Er) at 915 ◦ C.” |
+| 1188.05 | Eutectic: L ↔ Fe2Er + (Er) | L: Er 0.687; Fe2Er: Er 0.333; (Er): Er 1 | model | [2] Wang 2012 | Table 2, p. 3, row 14 |  |
+| 1188 | liq. -> hcp + ErFe2 | L: Fe 0.3; ErFe2: Er 0.333333, Fe 0.666667 | experimental | [3] Wang 2011; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 9, row 12 |  |
+| 1188 | eutectic: L ↔ Fe2Er + hcp-Er |  | experimental | [1] Ye 2023; _cites ref. 106_ | p. 5 | “The experimental results\[106-108\] show two eutectic transformations (L ↔ Fe17Er2 + Fe23Er6 at 1,588 K and L ↔ Fe2Er + hcp-Er at 1,188 K).” |
+| 1188 | Eutectic: L -> hcp (Er)+Fe2Er | L: Fe 0.3; Fe2Er: Fe 0.666667 | experimental | [4] Zhou 2010; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 3, row 1 |  |
+| 1188 | Eutectic: L -> Fe2Er + hcp-Er | L: Fe 0.3 | experimental | [1] Ye 2023; _cites ref. 106_ | Table 8, p. 14, row 37 |  |
+| 1187.9 | Eutectic: L -> Fe2Er + hcp-Er | L: Fe 0.313 | model | [1] Ye 2023; _cites ref. 112_ | Table 8, p. 14, row 40 |  |
+| 1186 | Er2Fe17 + fcc -> bcc | Er2Fe17: Er 0.105263, Fe 0.894737; fcc: Fe 1; bcc: Fe 1 | model | [3] Wang 2011 | Table 3, p. 9, row 13 |  |
+| 1185.6 | Eutectic: L -> Fe2Er + hcp-Er | L: Fe 0.331 | model | [1] Ye 2023 | Table 8, p. 14, row 42 |  |
+| 1185 | Eutectic: L -> Fe2Er + hcp-Er | L: Fe 0.308 | model | [1] Ye 2023; _cites ref. 110_ | Table 8, p. 14, row 38 |  |
+| 1185 | Eutectic: L -> hcp (Er)+Fe2Er | L: Fe 0.308; Fe2Er: Fe 0.666667 | model | [4] Zhou 2010 | Table 3, p. 3, row 2 |  |
+| 1185 | Er2Fe17 + fcc -> bcc | Er2Fe17: Er 0.105263, Fe 0.894737; fcc: Fe 1; bcc: Fe 1 | experimental | [3] Wang 2011; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 9, row 14 |  |
+| 1184.8 | Peritectoid: Fe17Er2 + fcc(γ-Fe) -> bcc(α-Fe) |  | model | [1] Ye 2023 | Table 8, p. 14, row 6 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Er–Fe system (6)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Fe17Er2 | [Er2Fe17](https://data.orchid-project.org/compounds/Er2Fe17.html) | -9.85 kJ/mol-atom | 298 | model | -1.801 (mp-aaaaacoi) | -2.176 (oqmd-91107) | [4] Zhou 2010 | Table 4, p. 3, row 1 |  |
+| Fe23Er6 | [Er6Fe23](https://data.orchid-project.org/compounds/Er6Fe23.html) | -11.1 kJ/mol-atom | 298 | model | -6.997 (mp-aaaaadfe) | -6.957 (oqmd-29960) | [4] Zhou 2010 | Table 4, p. 3, row 2 |  |
+| Fe2Er | [ErFe2](https://data.orchid-project.org/compounds/ErFe2.html) | -12.5 kJ/mol-atom | 298 | model | -11.663 (mp-aaaaaasg) | -11.54 (oqmd-20826) | [4] Zhou 2010 | Table 4, p. 3, row 6 |  |
+| Fe2Er | [ErFe2](https://data.orchid-project.org/compounds/ErFe2.html) | -12.5 kJ/mol-atom | 298 | experimental | -11.663 (mp-aaaaaasg) | -11.54 (oqmd-20826) | [4] Zhou 2010; _cites Norgren 1998_ [doi](https://doi.org/10.1007/s11661-998-0351-3) | Table 4, p. 3, row 5 |  |
+| Fe3Er | [ErFe3](https://data.orchid-project.org/compounds/ErFe3.html) | -11.6 kJ/mol-atom | 298 | model | -9.581 (mp-aaabgkwt) | -9.688 (oqmd-29959) | [4] Zhou 2010 | Table 4, p. 3, row 4 |  |
+| Fe3Er | [ErFe3](https://data.orchid-project.org/compounds/ErFe3.html) | -7.9 kJ/mol-atom | 298 | experimental | -9.581 (mp-aaabgkwt) | -9.688 (oqmd-29959) | [4] Zhou 2010; _cites Norgren 1998_ [doi](https://doi.org/10.1007/s11661-998-0351-3) | Table 4, p. 3, row 3 |  |
+
+## Other properties
+
+### Phase transition (16)
+
+Table: Phase transition, Er–Fe system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1603 K | 1603 | Fe23Er6 | experimental | [4] Zhou 2010 | p. 1 | “Among them, Fe3Er, Fe23Er6, and Fe17Er2 decompose at 1618, 1603, and 1628 K, respectively.” |
+| Phase transition | 1618 K | 1618 | Fe3Er | experimental | [4] Zhou 2010 | p. 1 | “Among them, Fe3Er, Fe23Er6, and Fe17Er2 decompose at 1618, 1603, and 1628 K, respectively.” |
+| Phase transition | 1628 K | 1628 | Fe17Er2 | experimental | [4] Zhou 2010 | p. 1 | “Among them, Fe3Er, Fe23Er6, and Fe17Er2 decompose at 1618, 1603, and 1628 K, respectively.” |
+| Phase transition | 1632 K | 1632 | Congruent: L -> Fe2Er; _L: Fe 0.667_ | model | [1] Ye 2023; _cites ref. 110_ | Table 8, p. 14, row 32 |  |
+| Phase transition | 1632 K | 1632 | Congruent: L -> Fe2Er; _L: Fe 0.666667; Fe2Er: Fe 0.666667_ | model | [4] Zhou 2010 | Table 3, p. 3, row 12 |  |
+| Phase transition | 1632 K | 1632 | congruent | model | [4] Zhou 2010 | p. 3 | “As shown in this table, the calculated congruent-melting point of the Fe2Er phases is 1632 K, which fit well with the work of Buschow and Van der Goot \[11\].” |
+| Phase transition | 1633 K | 1633 | Congruent: L -> Fe2Er; _L: Fe 0.667_ | experimental | [1] Ye 2023; _cites ref. 106_ | Table 8, p. 14, row 31 |  |
+| Phase transition | 1633 K | 1633 | Congruent: L -> Fe2Er; _L: Fe 0.667_ | model | [1] Ye 2023; _cites ref. 111_ | Table 8, p. 14, row 33 |  |
+| Phase transition | 1633 K | 1633 | Congruent: L -> Fe2Er; _L: Fe 0.667_ | model | [1] Ye 2023; _cites (cal_ | Table 8, p. 14, row 35 |  |
+| Phase transition | 1633 K | 1633 | Congruent: L -> Fe2Er; _L: Fe 0.666667; Fe2Er: Fe 0.666667_ | experimental | [4] Zhou 2010; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | Table 3, p. 3, row 11 |  |
+| Phase transition | 1633 K | 1633 | bcc → liq. + fcc | experimental | [3] Wang 2011; _cites Meyer 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990118-0) | p. 1 | “The largest solid solubility of Er in bcc was about 2 at.%, and the temperature of the invariant reaction bcc → liq. + fcc was 1633 K.” |
+| Phase transition | 1633 K | 1633 | congruent | experimental | [1] Ye 2023 | p. 5 | “Fe17Er2, Fe23Er6, and Fe3Er are produced by three peritectic transformations (L + fcc-Fe ↔ Fe17Er2 at 1628 K, L + Fe3Er ↔ Fe23Er6 at 1,603 K, and L + Fe2Er ↔ Fe3Er at 1,618 K), while Fe2Er melts congruently at 1,633 K.” |
+| Phase transition | 1633 K | 1633 | congruent | experimental | [4] Zhou 2010 | p. 1 | “Fe2Er melt congruently decompose at 1633 K.” |
+| Phase transition | 1633.15 K | 1633.15 |  | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | p. 2 | “Buschow and Van der Goot \[19\] also reported the melting point of Fe2 Er to be 1360 ◦ C and determined two eutectic reactions: L (16.5 at.% Er) ↔ Fe23 Er6 + Fe12 Er7 at 1315 ◦ C, and L (∼70 at.% Er) ↔ Fe2 Er + hcp (Er) at 915 ◦ C.” |
+| Phase transition | 1636 K | 1636 | Congruent: L -> Fe2Er; _L: Fe 0.667_ | model | [1] Ye 2023; _cites ref. 112_ | Table 8, p. 14, row 34 |  |
+| Phase transition | 1640.4 K | 1640.4 | Congruent: L -> Fe2Er; _L: Fe 0.667_ | model | [1] Ye 2023 | Table 8, p. 14, row 36 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Hongjian Ye, Maohua Rong, Qing Chen, Qingrong Yao, Jiang Wang, Guanghui Rao et al., Assessment of phase equilibria and thermodynamic properties in the Fe-RE (RE = rare earth metals) binary systems, J Mater Inf 3 (2023). [doi:10.20517/jmi.2023.08](https://doi.org/10.20517/jmi.2023.08)
+2. S.L. Wang, J.J. Han, C.P. Wang, S.Z. Kou, X.J. Liu, Thermodynamic assessment and the composition prediction of amorphous alloy in the Fe–B–Er alloy system, Journal of Alloys and Compounds 513, 27-34 (2012). [doi:10.1016/j.jallcom.2011.08.014](https://doi.org/10.1016/j.jallcom.2011.08.014)
+3. Wei Wang, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic description of the Er–Fe–Sb system, Calphad 35, 292-301 (2011). [doi:10.1016/j.calphad.2011.04.001](https://doi.org/10.1016/j.calphad.2011.04.001)
+4. G.J. Zhou, Z.W. Liu, D.C. Zeng, Z.P. Jin, Thermodynamic assessment of the Fe–Er system, Physica B: Condensed Matter 405, 3590-3593 (2010). [doi:10.1016/j.physb.2010.05.046](https://doi.org/10.1016/j.physb.2010.05.046)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

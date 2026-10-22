@@ -1,0 +1,41 @@
+# Re3B: enthalpy of formation
+
+> Enthalpy of formation of Re3B: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Re3B.html · Markdown: https://data.orchid-project.org/compounds/Re3B.md
+
+4 accepted literature formation-enthalpy value(s) (experimental 1, model 3); experimental median -32.22 kJ/mol-atom (n = 1); Materials Project -19.625 kJ/mol-atom (mp-aaaaaxet); OQMD -18.988 kJ/mol-atom (oqmd-8178).
+
+Systems: [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Re3B reported in the literature (4)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -32.22 kJ/mol-atom ± 2.5 | Re3B | 298.15 | experimental | Chemical reaction | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Baehren 1969_ | Table 2, p. 3, row 19 |  |
+| -21 kJ/mol-atom | Re3B |  | model | This work | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010 | Table 2, p. 3, row 20 |  |
+| -20 kJ/mol-atom | Re3B |  | model | Estimation | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 18 |  |
+| -19.2975 kJ/mol-atom | Re3B |  | model | FP calculation | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 17 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Re3B
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaaxet | -19.625 | -0.203396 | Cmcm | 0 | no |
+| OQMD | oqmd-8178 | -18.988 | -0.196795 | Cmcm | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Ying Yang, Shuanglin Chen, Y. Austin Chang, Thermodynamic modeling of the Re–Si–B system, Intermetallics 18, 51-56 (2010). [doi:10.1016/j.intermet.2009.06.003](https://doi.org/10.1016/j.intermet.2009.06.003)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

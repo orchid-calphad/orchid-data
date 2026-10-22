@@ -1,0 +1,25 @@
+# Sb3Yb4: enthalpy of formation
+
+> Enthalpy of formation of Sb3Yb4: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Sb3Yb4.html · Markdown: https://data.orchid-project.org/compounds/Sb3Yb4.md
+
+1 accepted literature formation-enthalpy value(s) (DFT 1).
+
+Systems: [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Sb3Yb4 reported in the literature (1)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -100.24 kJ/mol-atom | Yb4Sb3 | 0 | DFT | DFT | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html) | [1] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 13 |  |
+
+## Sources
+
+1. Jorge Paz Soldan Palma, XiaoYu Chong, Yi Wang, Shun-Li Shang, Zi-Kui Liu, Thermodynamic re-modeling of the Yb-Sb system aided by first-principles calculations, Calphad 81, 102541 (2023). [doi:10.1016/j.calphad.2023.102541](https://doi.org/10.1016/j.calphad.2023.102541)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,42 @@
+# AlCr2: enthalpy of formation
+
+> Enthalpy of formation of AlCr2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/AlCr2.html · Markdown: https://data.orchid-project.org/compounds/AlCr2.md
+
+4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -10.878 kJ/mol-atom (n = 2); Materials Project -11.845 kJ/mol-atom (mp-aaaaacnj); OQMD -13.209 kJ/mol-atom (oqmd-10426).
+
+Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) · [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)
+
+## Literature values
+
+Table: Enthalpy of formation of AlCr2 reported in the literature (4)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -10.878 kJ/mol-atom | AlCr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 6 |  |
+| -10.878 kJ/mol-atom | AlCr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 6 |  |
+| -12.954 kJ/mol-atom | AlCr2 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 7 |  |
+| -12.954 kJ/mol-atom | AlCr2 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 7 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of AlCr2
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaacnj | -11.845 | -0.122767 | I4/mmm | 0 | no |
+| OQMD | oqmd-10426 | -13.209 | -0.136905 | I4/mmm | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. J. L. Murray, The Al-Cr (aluminum-chromium) system, JPE 19, 367-375 (1998). [doi:10.1007/bf02735058](https://doi.org/10.1007/bf02735058)
+2. N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986). [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

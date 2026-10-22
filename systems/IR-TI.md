@@ -1,0 +1,106 @@
+# Ir–Ti system
+
+> Ir–Ti system: 32 accepted literature values (invariant reaction 31, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/IR-TI.html · Markdown: https://data.orchid-project.org/systems/IR-TI.md
+
+32 accepted literature values from 1 paper(s) (experimental 25, model 7); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/IR-TI.json) · [CSV](https://data.orchid-project.org/systems/IR-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IR-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-TI/IrTi-14Wan.json) · [Markdown](https://data.orchid-project.org/systems/IR-TI.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 25 |
+| model | 7 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 31 |
+| phase transition | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| IrTi-14Wan.tdb | C. Wang, Y. Guo, Y. Lu, X. Liu, J. Phase Equilib. Diffus., 35, 269-75(2014). [doi:10.1007/s11669-014-0302-1](https://doi.org/10.1007/s11669-014-0302-1) | `b451b67f1b3cf0c9421113cbcb0362affc49d2ebcfd377aea7d941b660e2b5d9` | [viewer](https://orchid-project.org/phase-diagrams/#IR-TI/IrTi-14Wan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/IrTi-14Wan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/IrTi-14Wan.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| IrTi-14Wan.tdb | 2387.95 | FCC_A1 (x(Ti) 0.09969) + IR3TI_L12 (x(Ti) 0.2267) + LIQUID (x(Ti) 0.27229) |
+| IrTi-14Wan.tdb | 2274.07 | IR3TI_L12 (x(Ti) 0.27814) + LIQUID (x(Ti) 0.38052) + IRTI_B2 (x(Ti) 0.42736) |
+| IrTi-14Wan.tdb | 2023.98 | IR3TI_L12 (x(Ti) 0.27516) + IRTI_L10 (x(Ti) 0.42908) + IRTI_B2 (x(Ti) 0.4349) |
+| IrTi-14Wan.tdb | 2023.98 | IR3TI_L12 (x(Ti) 0.27516) + IRTI_L10 (x(Ti) 0.42908) + IRTI_B2 (x(Ti) 0.4349) |
+| IrTi-14Wan.tdb | 1789.1 | IRTI_B2 (x(Ti) 0.64635) + IRTI3_A15 (x(Ti) 0.73194) + LIQUID (x(Ti) 0.78774) |
+| IrTi-14Wan.tdb | 1789.1 | IRTI_B2 (x(Ti) 0.64635) + IRTI3_A15 (x(Ti) 0.73194) + LIQUID (x(Ti) 0.78774) |
+| IrTi-14Wan.tdb | 1740.19 | IRTI3_A15 (x(Ti) 0.74889) + LIQUID (x(Ti) 0.81285) + BCC_A2 (x(Ti) 0.82957) |
+| IrTi-14Wan.tdb | 992.32 | IRTI3_A15 (x(Ti) 0.75282) + BCC_A2 (x(Ti) 0.95881) + HCP_A3 (x(Ti) 0.99558) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/IR/IR-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/IR/IR-TI.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ir–Ti system (31)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2588.15 | Peritectic: L + (Ir) -> TiIr3 | L: Ir 0.695; (Ir): Ir 0.882; TiIr3: Ir 0.751 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 6 |  |
+| 2588.15 | peritectic |  | experimental | [1] Wang 2014; _cites Eremenko 1970_ | p. 1 | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
+| 2413.15 | Melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 1 |  |
+| 2403.15 | Melting: L -> γTiIr | γTiIr: Ir 0.476 | model | [1] Wang 2014 | Table 3, p. 5, row 4 |  |
+| 2403.15 | Melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 3 |  |
+| 2393.15 | Melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 2 |  |
+| 2388.15 | Peritectic: L + (Ir) -> TiIr3 | L: Ir 0.74; (Ir): Ir 0.89; TiIr3: Ir 0.77 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 7 |  |
+| 2388.15 | Peritectic: L + (Ir) -> TiIr3 | L: Ir 0.697; (Ir): Ir 0.86; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 5 |  |
+| 2388.15 | Peritectic: L + (Ir) -> TiIr3 | L: Ir 0.728; (Ir): Ir 0.9; TiIr3: Ir 0.773 | model | [1] Wang 2014 | Table 3, p. 5, row 8 |  |
+| 2388.15 | peritectic |  | experimental | [1] Wang 2014; _cites Croeni 1962_ | p. 1 | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
+| 2274.15 | Eutectic: L -> γTiIr + TiIr3 | L: Ir 0.619; γTiIr: Ir 0.573; TiIr3: Ir 0.722 | model | [1] Wang 2014 | Table 3, p. 5, row 12 |  |
+| 2273.15 | Eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.73 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 11 |  |
+| 2273.15 | Eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.584; TiIr3: Ir 0.695 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 10 |  |
+| 2273.15 | Eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 9 |  |
+| 2024.15 | Peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.725; γTiIr: Ir 0.565; βTiIr: Ir 0.571 | model | [1] Wang 2014 | Table 3, p. 5, row 16 |  |
+| 2023.15 | Peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 13 |  |
+| 2023.15 | Peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.75, Ti 0.25; γTiIr: Ir 0.5, Ti 0.5; βTiIr: Ir 0.5, Ti 0.5 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 14 |  |
+| 2023.15 | Peritectoid: TiIr3 + γTiIr -> βTiIr | TiIr3: Ir 0.73; γTiIr: Ir 0.575; βTiIr: Ir 0.59 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 15 |  |
+| 1793.15 | Peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.227; γTiIr: Ir 0.384; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 17 |  |
+| 1789.15 | Peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.212; γTiIr: Ir 0.354; Ti3Ir: Ir 0.268 | model | [1] Wang 2014 | Table 3, p. 5, row 20 |  |
+| 1788.15 | Peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.23; γTiIr: Ir 0.35; Ti3Ir: Ir 0.27 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 19 |  |
+| 1783.15 | Peritectic: L + γTiIr -> Ti3Ir | L: Ir 0.224; γTiIr: Ir 0.342; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 18 |  |
+| 1748.15 | Eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.19; Ti3Ir: Ir 0.25; (βTi): Ir 0.149 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 21 |  |
+| 1741.15 | Eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.17; Ti3Ir: Ir 0.25; (βTi): Ir 0.15 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 23 |  |
+| 1740.15 | Eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.187; Ti3Ir: Ir 0.251; (βTi): Ir 0.17 | model | [1] Wang 2014 | Table 3, p. 5, row 24 |  |
+| 1733.15 | Eutectic: L -> Ti3Ir + (βTi) | L: Ir 0.2; Ti3Ir: Ir 0.25; (βTi): Ir 0.163 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 22 |  |
+| 993.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; (αTi): Ir 0.01; Ti3Ir: Ir 0.25 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 28 |  |
+| 992.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.041; (αTi): Ir 0.004; Ti3Ir: Ir 0.247 | model | [1] Wang 2014 | Table 3, p. 5, row 29 |  |
+| 973.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | Table 3, p. 5, row 27 |  |
+| 773.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 26 |  |
+| 773.15 | Eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.1; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 25 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Ir–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 993.15 K | 993.15 | (bTi) M (aTi) + Ti3Ir | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | p. 1 | “Based on the metallographic and x-ray diffraction means, Kandarpa et al.\[13\] reported the temperature of the eutectoid reaction ((bTi) M (aTi) + Ti3Ir) and its eutectoid composition point are 720 °C and 5 at.% Ir, respectively.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Cuiping Wang, Yihui Guo, Yong Lu, Xingjun Liu, Thermodynamic Assessment of the Ti-Ir System, J. Phase Equilib. Diffus. 35, 269-275 (2014). [doi:10.1007/s11669-014-0302-1](https://doi.org/10.1007/s11669-014-0302-1)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

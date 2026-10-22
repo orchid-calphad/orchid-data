@@ -1,0 +1,50 @@
+# UO3: enthalpy of formation
+
+> Enthalpy of formation of UO3: 12 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/UO3.html · Markdown: https://data.orchid-project.org/compounds/UO3.md
+
+12 accepted literature formation-enthalpy value(s) (experimental 9, model 3); experimental median -306.478 kJ/mol-atom (n = 9); Materials Project -348.521 kJ/mol-atom (mp-aaaaaaol); OQMD -302.1 kJ/mol-atom (oqmd-32532).
+
+Systems: [O–U](https://data.orchid-project.org/systems/O-U.html)
+
+## Literature values
+
+Table: Enthalpy of formation of UO3 reported in the literature (12)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -317.879 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Mixter 1912_ [doi](https://doi.org/10.1002/zaac.19120780119) | Table 10, p. 8, row 23 |  |
+| -309.407 kJ/mol-atom ± 1.8828 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Vidavskii 1965_ | Table 10, p. 8, row 28 |  |
+| -307.942 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Burdese 1958_ | Table 10, p. 8, row 30 |  |
+| -307.001 kJ/mol-atom ± 4.184 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1965_ [doi](https://doi.org/10.1039/tf9656100050) | Table 10, p. 8, row 27 |  |
+| -306.478 kJ/mol-atom ± 8.368 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 26 |  |
+| -306.129 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Biltz 1928_ | Table 10, p. 8, row 24 |  |
+| -306.025 kJ/mol-atom ± 2.6 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Johnson 1978_ [doi](https://doi.org/10.1016/0021-9614%2878%2990046-0) | Table 10, p. 8, row 32 |  |
+| -305.95 kJ/mol-atom ± 2 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 33 |  |
+| -305.746 kJ/mol-atom ± 5.8576 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Fitzgibbon 1967_ [doi](https://doi.org/10.1021/je60032a039) | Table 10, p. 8, row 25 |  |
+| -305.95 kJ/mol-atom | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002 | Table 4, p. 9, row 7 |  |
+| -305.95 kJ/mol-atom | UO3 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 34 |  |
+| -304.375 kJ/mol-atom ± 0.75 | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of UO3
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaaaol | -348.521 | -3.61218 | Pm-3m | 0 | no |
+| OQMD | oqmd-32532 | -302.1 | -3.13105 | I41/amd | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. P.-Y. Chevalier, E. Fischer, B. Cheynet, Progress in the thermodynamic modelling of the O–U binary system, Journal of Nuclear Materials 303, 1-28 (2002). [doi:10.1016/s0022-3115(02)00813-9](https://doi.org/10.1016/s0022-3115%2802%2900813-9)
+2. C. Guéneau, M. Baichi, D. Labroche, C. Chatillon, B. Sundman, Thermodynamic assessment of the uranium–oxygen system, Journal of Nuclear Materials 304, 161-175 (2002). [doi:10.1016/s0022-3115(02)00878-4](https://doi.org/10.1016/s0022-3115%2802%2900878-4)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,73 @@
+# Pb–Tl system
+
+> Pb–Tl system: 6 accepted literature values (invariant reaction 4, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/PB-TL.html · Markdown: https://data.orchid-project.org/systems/PB-TL.md
+
+6 accepted literature values from 1 paper(s) (model 6); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/PB-TL.json) · [CSV](https://data.orchid-project.org/systems/PB-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-TL/PbTl-01Fri-LB.json) · [Markdown](https://data.orchid-project.org/systems/PB-TL.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 6 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 4 |
+| phase transition | 2 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| PbTl-01Fri-LB.tdb | S.G. Fries, I. Ansara, H.L. Lukas, J. Alloys Compd., 320, 228-33(2001). [doi:10.1016/S0925-8388(00)01492-4](https://doi.org/10.1016/S0925-8388%2800%2901492-4) | `dd4f1c557a9b7253b2c666451e38a35788a38a484aa4f26c801c826da1f05449` | [viewer](https://orchid-project.org/phase-diagrams/#PB-TL/PbTl-01Fri-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PbTl-01Fri-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PbTl-01Fri-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| PbTl-01Fri-LB.tdb | 585.03 | FCC_A1 (x(Tl) 0.88918) + BCC_A2 (x(Tl) 0.93658) + LIQUID (x(Tl) 0.9437) |
+| PbTl-01Fri-LB.tdb | 443.19 | FCC_A1 (x(Tl) 0.90208) + BCC_A2 (x(Tl) 0.94939) + HCP_A3 (x(Tl) 0.95712) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/PB/PB-TL.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PB/PB-TL.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Pb–Tl system (4)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 585 | peritectic |  | model | [1] Fries 2001 | p. 1 | “The bcc solid solution forms peritectically at 585 K from Tl-rich liquid and fcc phases and decomposes eutectoidally at about 453 K into Tl-rich fcc and hcp phases.” |
+| 585 | Peritectic: liquid+fcc⇌bcc | liquid: Tl 0.944; fcc: Tl 0.889; bcc: Tl 0.937 | model | [1] Fries 2001 | Table 4, p. 4, row 2 |  |
+| 453 | eutectoid |  | model | [1] Fries 2001 | p. 1 | “The bcc solid solution forms peritectically at 585 K from Tl-rich liquid and fcc phases and decomposes eutectoidally at about 453 K into Tl-rich fcc and hcp phases.” |
+| 443.2 | Eutectoid: bcc⇌hcp+fcc | bcc: Tl 0.949; hcp: Tl 0.957; fcc: Tl 0.902 | model | [1] Fries 2001 | Table 4, p. 4, row 3 |  |
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Pb–Tl system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 651.1 K | 651.1 | Congruent: liquid⇌fcc; _liquid: Tl 0.625; fcc: Tl 0.625_ | model | [1] Fries 2001 | Table 4, p. 4, row 1 |  |
+| Phase transition | 653 K | 653 | congruent | model | [1] Fries 2001 | p. 1 | “The liquidus presents a maximum, where the fcc phase melts congruently at 653 K and x Tl 50.625.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. S.G Fries, I Ansara, H.L Lukas, Thermodynamic optimisation of the Pb–Tl binary system, Journal of Alloys and Compounds 320, 228-233 (2001). [doi:10.1016/s0925-8388(00)01492-4](https://doi.org/10.1016/s0925-8388%2800%2901492-4)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

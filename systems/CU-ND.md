@@ -1,0 +1,196 @@
+# Cu–Nd system
+
+> Cu–Nd system: 45 accepted literature values (formation 20, crystal structure 12, invariant reaction 10, phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/CU-ND.html · Markdown: https://data.orchid-project.org/systems/CU-ND.md
+
+45 accepted literature values from 3 paper(s) (experimental 20, model 17, DFT 8); 3 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ND.json) · [CSV](https://data.orchid-project.org/systems/CU-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ND/CuNd-11Wan.json) · [Markdown](https://data.orchid-project.org/systems/CU-ND.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 20 |
+| model | 17 |
+| DFT | 8 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 10 |
+| phase transition | 3 |
+| formation | 20 |
+| crystal structure | 12 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| CuNd-11Wan.tdb | P. Wang, L. Zhou, Y. Du, H. Xu, S. Liu, L. Chen, Y. Ouyang, J. Alloys Compd., 509, 2679-83(2011). [doi:10.1016/j.jallcom.2010.11.160](https://doi.org/10.1016/j.jallcom.2010.11.160) | `dcf3e69ab0b3b3bedeb769870ebd9a42533e2c8495449629059c35a327cc7c8b` | [viewer](https://orchid-project.org/phase-diagrams/#CU-ND/CuNd-11Wan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CuNd-11Wan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CuNd-11Wan.json) |
+| CuNd-96Du.tdb | Y. Du, N. Clavaguera, Scripta Mater, 34, 1609-13(1996). [doi:10.1016/1359-6462(96)00033-4](https://doi.org/10.1016/1359-6462%2896%2900033-4) | `3ca7c1071943556d2f79dabe947ced452caeaaa491fc8e89e825ef5ef741d67c` | [viewer](https://orchid-project.org/phase-diagrams/#CU-ND/CuNd-96Du.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CuNd-96Du.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CuNd-96Du.json) |
+| CuNd-96Zhu.tdb | W. Zhuang, Z.-Y. Qiao, S. Wei, J. Shen, J. Phase Equilib., 17, 508-21(1996). [doi:10.1007/BF02665998](https://doi.org/10.1007/BF02665998) | `b7165268ed28e2faa46b83a3178ac0d13886eb0261689783ee51b6ce6c8a3865` | [viewer](https://orchid-project.org/phase-diagrams/#CU-ND/CuNd-96Zhu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CuNd-96Zhu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CuNd-96Zhu.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| CuNd-11Wan.tdb | 1141.61 | FCC_A1 (x(Nd) 2.000e-5) + LIQUID (x(Nd) 0.08467) + CU6ND (x(Nd) 0.14286) |
+| CuNd-11Wan.tdb | 1141.61 | FCC_A1 (x(Nd) 2.000e-5) + LIQUID (x(Nd) 0.0846) + CU6ND (x(Nd) 0.14286) |
+| CuNd-11Wan.tdb | 1141.61 | FCC_A1 (x(Nd) 2.000e-5) + LIQUID (x(Nd) 0.08459) + CU6ND (x(Nd) 0.14286) |
+| CuNd-11Wan.tdb | 1141.61 | FCC_A1 (x(Nd) 2.000e-5) + LIQUID (x(Nd) 0.08459) + CU6ND (x(Nd) 0.14286) |
+| CuNd-11Wan.tdb | 1123.41 | LIQUID (x(Nd) 0.90257) + BCC_A2 (x(Nd) 0.99868) + DHCP (x(Nd) 1) |
+| CuNd-11Wan.tdb | 1123.41 | LIQUID (x(Nd) 0.90276) + BCC_A2 (x(Nd) 0.99868) + DHCP (x(Nd) 1) |
+| CuNd-11Wan.tdb | 1120.86 | CU6ND (x(Nd) 0.14286) + CU5ND_D2D (x(Nd) 0.16667) + LIQUID (x(Nd) 0.22128) |
+| CuNd-11Wan.tdb | 1120.86 | CU6ND (x(Nd) 0.14286) + CU5ND_D2D (x(Nd) 0.16667) + LIQUID (x(Nd) 0.22123) |
+| CuNd-11Wan.tdb | 1097.56 | CU5ND_D2D (x(Nd) 0.16667) + CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.24029) |
+| CuNd-11Wan.tdb | 1097.56 | CU5ND_D2D (x(Nd) 0.16667) + CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.24033) |
+| CuNd-11Wan.tdb | 1096.08 | CU4ND (x(Nd) 0.2) + CU7ND2 (x(Nd) 0.22222) + LIQUID (x(Nd) 0.2423) |
+| CuNd-11Wan.tdb | 1074.92 | CU4ND (x(Nd) 0.2) + CU7ND2 (x(Nd) 0.22222) + LIQUID (x(Nd) 0.26454) |
+| CuNd-11Wan.tdb | 1073.02 | CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.26627) + CU2ND (x(Nd) 0.33333) |
+| CuNd-11Wan.tdb | 1073.02 | CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.26602) + CU2ND (x(Nd) 0.33333) |
+| CuNd-11Wan.tdb | 947.59 | CU2ND (x(Nd) 0.33333) + CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.50537) |
+| CuNd-11Wan.tdb | 947.59 | CU2ND (x(Nd) 0.33333) + CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.50525) |
+| CuNd-11Wan.tdb | 794.16 | CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.71108) + DHCP (x(Nd) 1) |
+| CuNd-11Wan.tdb | 794.16 | CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.71115) + DHCP (x(Nd) 1) |
+| CuNd-11Wan.tdb | 794.16 | CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.71122) + DHCP (x(Nd) 1) |
+| CuNd-11Wan.tdb | 742.76 | CUND_B2 (x(Nd) 0.5) + CUND_B27 (x(Nd) 0.5) + DHCP (x(Nd) 1) |
+| CuNd-11Wan.tdb | 742.76 | CU2ND (x(Nd) 0.33333) + CUND_B27 (x(Nd) 0.5) + CUND_B2 (x(Nd) 0.5) |
+| CuNd-96Du.tdb | 1131.54 | FCC_A1 (x(Nd) 4.600e-4) + LIQUID (x(Nd) 0.08362) + CU6ND (x(Nd) 0.14286) |
+| CuNd-96Du.tdb | 1131.54 | FCC_A1 (x(Nd) 4.600e-4) + LIQUID (x(Nd) 0.08354) + CU6ND (x(Nd) 0.14286) |
+| CuNd-96Du.tdb | 1127.54 | LIQUID (x(Nd) 0.91871) + BCC_A2 (x(Nd) 0.99987) + DHCP (x(Nd) 1) |
+| CuNd-96Du.tdb | 1127.54 | LIQUID (x(Nd) 0.91877) + BCC_A2 (x(Nd) 0.99987) + DHCP (x(Nd) 1) |
+| CuNd-96Du.tdb | 1119.78 | CU6ND (x(Nd) 0.14286) + CU5ND_D2D (x(Nd) 0.16667) + LIQUID (x(Nd) 0.22216) |
+| CuNd-96Du.tdb | 1119.78 | CU6ND (x(Nd) 0.14286) + CU5ND_D2D (x(Nd) 0.16667) + LIQUID (x(Nd) 0.22213) |
+| CuNd-96Du.tdb | 1095.7 | CU5ND_D2D (x(Nd) 0.16667) + CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.24342) |
+| CuNd-96Du.tdb | 1095.7 | CU5ND_D2D (x(Nd) 0.16667) + CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.24345) |
+| CuNd-96Du.tdb | 1095.7 | CU5ND_D2D (x(Nd) 0.16667) + CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.24334) |
+| CuNd-96Du.tdb | 1094.4 | CU4ND (x(Nd) 0.2) + CU7ND2 (x(Nd) 0.22222) + LIQUID (x(Nd) 0.24526) |
+| CuNd-96Du.tdb | 1094.4 | CU4ND (x(Nd) 0.2) + CU7ND2 (x(Nd) 0.22222) + LIQUID (x(Nd) 0.2452) |
+| CuNd-96Du.tdb | 1094.4 | CU4ND (x(Nd) 0.2) + CU7ND2 (x(Nd) 0.22222) + LIQUID (x(Nd) 0.24519) |
+| CuNd-96Du.tdb | 1069.48 | CU4ND (x(Nd) 0.2) + CU7ND2 (x(Nd) 0.22222) + LIQUID (x(Nd) 0.27239) |
+| CuNd-96Du.tdb | 1069.48 | CU4ND (x(Nd) 0.2) + CU7ND2 (x(Nd) 0.22222) + LIQUID (x(Nd) 0.27242) |
+| CuNd-96Du.tdb | 1067.62 | CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.27414) + CU2ND (x(Nd) 0.33333) |
+| CuNd-96Du.tdb | 1067.62 | CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.27388) + CU2ND (x(Nd) 0.33333) |
+| CuNd-96Du.tdb | 1067.62 | CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.27417) + CU2ND (x(Nd) 0.33333) |
+| CuNd-96Du.tdb | 936.37 | CU2ND (x(Nd) 0.33333) + CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.54461) |
+| CuNd-96Du.tdb | 936.37 | CU2ND (x(Nd) 0.33333) + CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.54455) |
+| CuNd-96Du.tdb | 764.69 | CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.70379) + DHCP (x(Nd) 1) |
+| CuNd-96Du.tdb | 764.69 | CUND_B2 (x(Nd) 0.5) + LIQUID (x(Nd) 0.7038) + DHCP (x(Nd) 1) |
+| CuNd-96Du.tdb | 743 | CU2ND (x(Nd) 0.33333) + CUND_B27 (x(Nd) 0.5) + CUND_B2 (x(Nd) 0.5) |
+| CuNd-96Du.tdb | 743 | CUND_B2 (x(Nd) 0.5) + CUND_B27 (x(Nd) 0.5) + DHCP (x(Nd) 1) |
+| CuNd-96Du.tdb | 514.9 | CUND_B27 (x(Nd) 0.5) + LIQUID (x(Nd) 0.70837) + DHCP (x(Nd) 1) |
+| CuNd-96Zhu.tdb | 1169.93 | FCC_A1 (x(Nd) 8.000e-5) + LIQUID (x(Nd) 0.08412) + CU6ND (x(Nd) 0.14286) |
+| CuNd-96Zhu.tdb | 1169.93 | FCC_A1 (x(Nd) 8.000e-5) + LIQUID (x(Nd) 0.08405) + CU6ND (x(Nd) 0.14286) |
+| CuNd-96Zhu.tdb | 1122.02 | LIQUID (x(Nd) 0.8994) + BCC_A2 (x(Nd) 0.99828) + DHCP (x(Nd) 1) |
+| CuNd-96Zhu.tdb | 1122.02 | LIQUID (x(Nd) 0.89956) + BCC_A2 (x(Nd) 0.99828) + DHCP (x(Nd) 1) |
+| CuNd-96Zhu.tdb | 1121.42 | CU6ND (x(Nd) 0.14286) + CU5ND_D2D (x(Nd) 0.16667) + LIQUID (x(Nd) 0.23491) |
+| CuNd-96Zhu.tdb | 1121.42 | CU6ND (x(Nd) 0.14286) + CU5ND_D2D (x(Nd) 0.16667) + LIQUID (x(Nd) 0.23486) |
+| CuNd-96Zhu.tdb | 1098.63 | CU5ND_D2D (x(Nd) 0.16667) + CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.24841) |
+| CuNd-96Zhu.tdb | 1098.62 | CU5ND_D2D (x(Nd) 0.16667) + CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.24873) |
+| CuNd-96Zhu.tdb | 1098.62 | CU5ND_D2D (x(Nd) 0.16667) + CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.24877) |
+| CuNd-96Zhu.tdb | 1072.83 | CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.26954) + CU2ND (x(Nd) 0.33333) |
+| CuNd-96Zhu.tdb | 1072.83 | CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.26953) + CU2ND (x(Nd) 0.33333) |
+| CuNd-96Zhu.tdb | 1072.83 | CU4ND (x(Nd) 0.2) + LIQUID (x(Nd) 0.26974) + CU2ND (x(Nd) 0.33333) |
+| CuNd-96Zhu.tdb | 889.29 | CU2ND (x(Nd) 0.33333) + CUND (x(Nd) 0.5) + LIQUID (x(Nd) 0.5113) |
+| CuNd-96Zhu.tdb | 889.29 | CU2ND (x(Nd) 0.33333) + CUND (x(Nd) 0.5) + LIQUID (x(Nd) 0.5111) |
+| CuNd-96Zhu.tdb | 731.6 | CUND (x(Nd) 0.5) + LIQUID (x(Nd) 0.69913) + DHCP (x(Nd) 1) |
+| CuNd-96Zhu.tdb | 731.6 | CUND (x(Nd) 0.5) + LIQUID (x(Nd) 0.69909) + DHCP (x(Nd) 1) |
+| CuNd-96Zhu.tdb | 731.6 | CUND (x(Nd) 0.5) + LIQUID (x(Nd) 0.69915) + DHCP (x(Nd) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CU/CU-ND.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CU/CU-ND.json) · [CALPHAD hull CuNd-96Du](https://data.orchid-project.org/hulls/calphad-sgte/CU/CU-ND--CuNd-96Du.json) · [CALPHAD hull CuNd-96Zhu](https://data.orchid-project.org/hulls/calphad-sgte/CU/CU-ND--CuNd-96Zhu.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Cu–Nd system (10)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1223 | Congruent: liq \<-> Cu6Nd | L: Nd 0.143; Cu6Nd: Cu 0.857143, Nd 0.142857 | model | [1] Zhuang 1996 | Table 7, p. 9, row 2 |  |
+| 1169 | Eutectic: liq \<-> Cu(fcc) + Cu6Nd | L: Nd 0.084; Cu6Nd: Cu 0.857143, Nd 0.142857 | model | [1] Zhuang 1996 | Table 7, p. 9, row 1 |  |
+| 1128 | Catatectic: Nd(bcc) \<-> liq + Nd(dcph) | L: Nd 0.905 | model | [1] Zhuang 1996 | Table 7, p. 9, row 9 |  |
+| 1118 | Peritectic: liq + Cu6Nd \<-> Cu5Nd | L: Nd 0.236; Cu6Nd: Cu 0.857143, Nd 0.142857; Cu5Nd: Cu 0.833333, Nd 0.166667 | model | [1] Zhuang 1996 | Table 7, p. 9, row 3 |  |
+| 1111 | Congruent: liq \<-> Cu2Nd | L: Nd 0.333; Cu2Nd: Cu 0.666667, Nd 0.333333 | model | [1] Zhuang 1996 | Table 7, p. 9, row 6 |  |
+| 1100 | Peritectic: liq + Cu5Nd \<-> Cu4Nd | L: Nd 0.247; Cu5Nd: Cu 0.833333, Nd 0.166667; Cu4Nd: Cu 0.8, Nd 0.2 | model | [1] Zhuang 1996 | Table 7, p. 9, row 4 |  |
+| 1073 | Eutectic: liq \<-> Cu4Nd + Cu2Nd | L: Nd 0.269; Cu4Nd: Cu 0.8, Nd 0.2; Cu2Nd: Cu 0.666667, Nd 0.333333 | model | [1] Zhuang 1996 | Table 7, p. 9, row 5 |  |
+| 1058 | eutectoid |  | experimental | [2] Du 1996; _cites ref. 5_ | p. 3 | “The eutectoid decomposition of Cu,Nd, at 1058 K (5) implies that its entropy and enthalpy must be more positive than the one of the mixture of Cu,Nd and the liquid at the eutectoid temperature.” |
+| 889 | Peritectic: liq + Cu2Nd \<-> CuNd | L: Nd 0.511; Cu2Nd: Cu 0.666667, Nd 0.333333; CuNd: Cu 0.5, Nd 0.5 | model | [1] Zhuang 1996 | Table 7, p. 9, row 7 |  |
+| 732 | Eutectic: liq \<-> CuNd + Nd(dcph) | L: Nd 0.699; CuNd: Cu 0.5, Nd 0.5 | model | [1] Zhuang 1996 | Table 7, p. 9, row 8 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cu–Nd system (20)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Cu2Nd |  | -20.488 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 7 |  |
+| Cu2Nd |  | -20.488 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 7 |  |
+| Cu2Nd | [Cu2Nd](https://data.orchid-project.org/compounds/Cu2Nd.html) | -20.25 kJ/mol-atom | 298 | model | -19.536 (mp-aaaaarnw) | -20.057 (oqmd-1435011) | [3] Wang 2011 | Table 2, p. 3, row 8 |  |
+| Cu2Nd | [Cu2Nd](https://data.orchid-project.org/compounds/Cu2Nd.html) | -20.25 kJ/mol-atom | 298 | model | -19.536 (mp-aaaaarnw) | -20.057 (oqmd-1435011) | [3] Wang 2011 | Table 2, p. 3, row 8 |  |
+| Cu2Nd | [Cu2Nd](https://data.orchid-project.org/compounds/Cu2Nd.html) | -16.9 kJ/mol-atom | 298 | experimental | -19.536 (mp-aaaaarnw) | -20.057 (oqmd-1435011) | [3] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 6 |  |
+| Cu2Nd | [Cu2Nd](https://data.orchid-project.org/compounds/Cu2Nd.html) | -16.9 kJ/mol-atom | 298 | experimental | -19.536 (mp-aaaaarnw) | -20.057 (oqmd-1435011) | [3] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 6 |  |
+| Cu5Nd |  | -15.846 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 4 |  |
+| Cu5Nd |  | -15.846 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 4 |  |
+| Cu5Nd | [Cu5Nd](https://data.orchid-project.org/compounds/Cu5Nd.html) | -15.704 kJ/mol-atom | 298 | model | -15.243 (mp-aaaaabrw) | -15.768 (oqmd-31351) | [3] Wang 2011 | Table 2, p. 3, row 5 |  |
+| Cu5Nd | [Cu5Nd](https://data.orchid-project.org/compounds/Cu5Nd.html) | -15.704 kJ/mol-atom | 298 | model | -15.243 (mp-aaaaabrw) | -15.768 (oqmd-31351) | [3] Wang 2011 | Table 2, p. 3, row 5 |  |
+| Cu6Nd |  | -13.939 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 2 |  |
+| Cu6Nd |  | -13.939 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 2 |  |
+| Cu6Nd | [Cu6Nd](https://data.orchid-project.org/compounds/Cu6Nd.html) | -13.58 kJ/mol-atom | 298 | model | -12.896 (mp-aaacpwxr) | -12.969 (oqmd-18279) | [3] Wang 2011 | Table 2, p. 3, row 3 |  |
+| Cu6Nd | [Cu6Nd](https://data.orchid-project.org/compounds/Cu6Nd.html) | -13.58 kJ/mol-atom | 298 | model | -12.896 (mp-aaacpwxr) | -12.969 (oqmd-18279) | [3] Wang 2011 | Table 2, p. 3, row 3 |  |
+| Cu6Nd | [Cu6Nd](https://data.orchid-project.org/compounds/Cu6Nd.html) | -13.3 kJ/mol-atom | 298 | experimental | -12.896 (mp-aaacpwxr) | -12.969 (oqmd-18279) | [3] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 1 |  |
+| Cu6Nd | [Cu6Nd](https://data.orchid-project.org/compounds/Cu6Nd.html) | -13.3 kJ/mol-atom | 298 | experimental | -12.896 (mp-aaacpwxr) | -12.969 (oqmd-18279) | [3] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 1 |  |
+| αCuNd | [CuNd](https://data.orchid-project.org/compounds/CuNd.html) | -18.28 kJ/mol-atom | 298 | model | -17.64 (mp-aaaaatvc) | -18.115 (oqmd-122448) | [3] Wang 2011 | Table 2, p. 3, row 10 |  |
+| αCuNd | [CuNd](https://data.orchid-project.org/compounds/CuNd.html) | -18.28 kJ/mol-atom | 298 | model | -17.64 (mp-aaaaatvc) | -18.115 (oqmd-122448) | [3] Wang 2011 | Table 2, p. 3, row 10 |  |
+| αCuNd |  | -18.127 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 9 |  |
+| αCuNd |  | -18.127 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 9 |  |
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Cu–Nd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1058 K | 1058 | Cu7 Nd2 = Liquid + Cu4 Nd | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | p. 4 | “According to the experiment \[5\], the Cu7 Nd2 phase is formed by the reaction liquid + Cu4 Nd = Cu7 Nd2 at 1098 K and decomposes into Liquid phase and Cu4 Nd phase at 1058 K.” |
+| Phase transition | 1058 K | 1058 | Cu7 Nd2 = liquid + Cu4 Nd | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | p. 1 | “According to the experimental data \[5\], the Cu7 Nd2 phase was decomposed via the reaction Cu7 Nd2 = liquid + Cu4 Nd at about 1058 K.” |
+| Phase transition | 1098 K | 1098 | liquid + Cu4 Nd = Cu7 Nd2 | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | p. 4 | “According to the experiment \[5\], the Cu7 Nd2 phase is formed by the reaction liquid + Cu4 Nd = Cu7 Nd2 at 1098 K and decomposes into Liquid phase and Cu4 Nd phase at 1058 K.” |
+
+### Crystal structure (12)
+
+Table: Crystal structure, Cu–Nd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.4387 nm | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
+| Lattice a | 0.527 nm | 298.15 | Cu4Nd; _alloy: Nd 0.2_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 3 |  |
+| Lattice a | 0.511 nm | 298.15 | Cu5Nd; _alloy: Nd 0.166667_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 2 |  |
+| Lattice a | 0.8064 nm | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
+| Lattice a | 0.7279 nm | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
+| Lattice b | 0.7059 nm | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
+| Lattice b | 0.5058 nm | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
+| Lattice b | 0.4514 nm | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
+| Lattice c | 0.742 nm | 298.15 | Cu2Nd; _alloy: Nd 0.333333_ | experimental | [3] Wang 2011; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990230-8) | Table 1, p. 2, row 4 |  |
+| Lattice c | 0.4107 nm | 298.15 | Cu5Nd; _alloy: Nd 0.166667_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 2 |  |
+| Lattice c | 1.0113 nm | 298.15 | Cu6Nd; _alloy: Nd 0.142857_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 1 |  |
+| Lattice c | 0.5636 nm | 298.15 | αCuNd; _alloy: Nd 0.5_ | experimental | [3] Wang 2011; _cites Laks 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990385-0) | Table 1, p. 2, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. W. Zhuang, Z. -Y. Qiao, S. Wei, J. Shen, Thermodynamic evaluation of the Cu-R (R: Ce, Pr, Nd, Sm) binary systems, JPE 17, 508-521 (1996). [doi:10.1007/bf02665998](https://doi.org/10.1007/bf02665998)
+2. Yong Du, Narcís Clavaguera, Thermodynamic assessment of the Cu-Nd system, Scripta Materialia 34, 1609-1613 (1996). [doi:10.1016/1359-6462(96)00033-4](https://doi.org/10.1016/1359-6462%2896%2900033-4)
+3. Peisheng Wang, Liangcai Zhou, Yong Du, Honghui Xu, Shuhong Liu, Li Chen et al., Thermodynamic optimization of the Cu–Nd system, Journal of Alloys and Compounds 509, 2679-2683 (2011). [doi:10.1016/j.jallcom.2010.11.160](https://doi.org/10.1016/j.jallcom.2010.11.160)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

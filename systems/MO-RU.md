@@ -1,0 +1,91 @@
+# Mo–Ru system
+
+> Mo–Ru system: 13 accepted literature values (invariant reaction 12, other property 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MO-RU.html · Markdown: https://data.orchid-project.org/systems/MO-RU.md
+
+13 accepted literature values from 1 paper(s) (experimental 6, model 7); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-RU.json) · [CSV](https://data.orchid-project.org/systems/MO-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-RU/MoRu-00Oh-oldsigma.json) · [Markdown](https://data.orchid-project.org/systems/MO-RU.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 6 |
+| model | 7 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 12 |
+| other property | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MoRu-00Oh-oldsigma.tdb | C.-S. Oh, H. Murakami, H. Harada, J. Alloys Compd., 313, 115-20(2000). [doi:10.1016/S0925-8388(00)01192-0](https://doi.org/10.1016/S0925-8388%2800%2901192-0) | `90b4291aface7903096ef301a834743b5e45abbbed2ec4a201db3a1f5dc9bd8f` | [viewer](https://orchid-project.org/phase-diagrams/#MO-RU/MoRu-00Oh-oldsigma.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoRu-00Oh-oldsigma.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoRu-00Oh-oldsigma.json) |
+| MoRu-00Oh.tdb | C.-S. Oh, H. Murakami, H. Harada, J. Alloys Compd., 313, 115-20(2000). [doi:10.1016/S0925-8388(00)01192-0](https://doi.org/10.1016/S0925-8388%2800%2901192-0) | `7638f7116eda1f733b89c7c61754b9aaa6ee75f6d08a0941e3328f95a311fd76` | [viewer](https://orchid-project.org/phase-diagrams/#MO-RU/MoRu-00Oh.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoRu-00Oh.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoRu-00Oh.json) |
+| MoRu-21Liu.tdb | J. Liu, C. Zhou, H. Wang, Calphad, 72, 102239(2021). [doi:10.1016/j.calphad.2020.102239](https://doi.org/10.1016/j.calphad.2020.102239) | `ca6f85caeed3576c72d3cf7ae0023b28e9176ee2a3d24b1e81ce23bbe2de3627` | [viewer](https://orchid-project.org/phase-diagrams/#MO-RU/MoRu-21Liu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoRu-21Liu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoRu-21Liu.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MoRu-00Oh-oldsigma.tdb | 2229.33 | BCC_A2 (x(Ru) 0.32265) + LIQUID (x(Ru) 0.42541) + HCP_A3 (x(Ru) 0.4883) |
+| MoRu-00Oh-oldsigma.tdb | 2189.54 | BCC_A2 (x(Ru) 0.31257) + SIGMA_OLD (x(Ru) 0.38143) + HCP_A3 (x(Ru) 0.48821) |
+| MoRu-00Oh-oldsigma.tdb | 1414.45 | BCC_A2 (x(Ru) 0.10977) + SIGMA_OLD (x(Ru) 0.37767) + HCP_A3 (x(Ru) 0.56741) |
+| MoRu-00Oh.tdb | 2229.65 | BCC_A2 (x(Ru) 0.32134) + LIQUID (x(Ru) 0.42519) + HCP_A3 (x(Ru) 0.48796) |
+| MoRu-00Oh.tdb | 2189.52 | BCC_A2 (x(Ru) 0.31136) + SIGMA_D8B (x(Ru) 0.37987) + HCP_A3 (x(Ru) 0.48796) |
+| MoRu-00Oh.tdb | 1414.24 | BCC_A2 (x(Ru) 0.1111) + SIGMA_D8B (x(Ru) 0.3756) + HCP_A3 (x(Ru) 0.56756) |
+| MoRu-21Liu.tdb | 2227.98 | BCC_A2 (x(Ru) 0.31716) + LIQUID (x(Ru) 0.41071) + HCP_A3 (x(Ru) 0.5009) |
+| MoRu-21Liu.tdb | 2188.05 | BCC_A2 (x(Ru) 0.30606) + SIGMA_D8B (x(Ru) 0.38915) + HCP_A3 (x(Ru) 0.50196) |
+| MoRu-21Liu.tdb | 1417.25 | SIGMA_ALT (x(Ru) 0.37688) + SIGMA_D8B (x(Ru) 0.3832) + HCP_A3 (x(Ru) 0.59475) |
+| MoRu-21Liu.tdb | 1415.99 | BCC_A2 (x(Ru) 0.10212) + SIGMA_ALT (x(Ru) 0.37684) + HCP_A3 (x(Ru) 0.59488) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MO/MO-RU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MO/MO-RU.json) · [CALPHAD hull MoRu-00Oh-oldsigma](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-RU--MoRu-00Oh-oldsigma.json) · [CALPHAD hull MoRu-00Oh](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-RU--MoRu-00Oh.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mo–Ru system (12)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2230 | Liq = bcc + hcp | L: Ru 0.425; bcc: Ru 0.321; hcp: Ru 0.488 | model | [1] Oh 2000 | Table 2, p. 4, row 3 |  |
+| 2229 | Liq = bcc + hcp | L: Ru 0.425; bcc: Ru 0.323; hcp: Ru 0.488 | model | [1] Oh 2000 | Table 2, p. 4, row 2 |  |
+| 2228 | Liq = bcc + hcp | L: Ru 0.42; bcc: Ru 0.324; hcp: Ru 0.485 | experimental | [1] Oh 2000 | Table 2, p. 4, row 1 |  |
+| 2228 | eutectic |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2 | “The alloy system was characterized as eutectic type with a reaction temperature of 2228 K and a liquid with about 42 at.% Ru, which is in close agreement with the earlier work by Anderson and Hume-Rothery.” |
+| 2190 | bcc + hcp = σ | bcc: Ru 0.311; hcp: Ru 0.488; σ: Ru 0.38 | model | [1] Oh 2000 | Table 2, p. 4, row 6 |  |
+| 2190 | bcc + hcp = σ | bcc: Ru 0.313; hcp: Ru 0.488; σ: Ru 0.381 | model | [1] Oh 2000 | Table 2, p. 4, row 5 |  |
+| 2188 | peritectoid |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2 | “The only intermediate s phase occurring between 36.7 and 39.4 at.% Ru was formed by a peritectoid reaction at 2188 K, and was decomposed by a eutectoid reaction at 1416 K.” |
+| 2188 | bcc + hcp = σ | bcc: Ru 0.324; hcp: Ru 0.485; σ: Ru 0.375 | experimental | [1] Oh 2000 | Table 2, p. 4, row 4 |  |
+| 1416 | eutectoid |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2 | “The only intermediate s phase occurring between 36.7 and 39.4 at.% Ru was formed by a peritectoid reaction at 2188 K, and was decomposed by a eutectoid reaction at 1416 K.” |
+| 1416 | σ = bcc + hcp | σ: Ru 0.375; bcc: Ru 0.11; hcp: Ru 0.59 | experimental | [1] Oh 2000 | Table 2, p. 4, row 7 |  |
+| 1414 | σ = bcc + hcp | σ: Ru 0.376; bcc: Ru 0.111; hcp: Ru 0.568 | model | [1] Oh 2000 | Table 2, p. 4, row 9 |  |
+| 1414 | σ = bcc + hcp | σ: Ru 0.378; bcc: Ru 0.11; hcp: Ru 0.568 | model | [1] Oh 2000 | Table 2, p. 4, row 8 |  |
+
+## Other properties
+
+### Other property (1)
+
+Table: Other property, Mo–Ru system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Other; _printed: range of homogeneity_ | 2.2 at.% | 1850 |  | model | [1] Oh 2000 | p. 5 | “Calculated range of homogeneity for the s phase is about 2.2 at.% around 1850 K which is comparable to the reported data of 2.7 at.%.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Chang-Seok Oh, Hideyuki Murakami, Hiroshi Harada, Thermodynamic evaluation of the Mo–Ru system, Journal of Alloys and Compounds 313, 115-120 (2000). [doi:10.1016/s0925-8388(00)01192-0](https://doi.org/10.1016/s0925-8388%2800%2901192-0)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

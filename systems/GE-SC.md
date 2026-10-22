@@ -1,0 +1,187 @@
+# Ge–Sc system
+
+> Ge–Sc system: 88 accepted literature values (crystal structure 41, invariant reaction 23, phase transition 13, phase equilibrium 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/GE-SC.html · Markdown: https://data.orchid-project.org/systems/GE-SC.md
+
+88 accepted literature values from 1 paper(s) (experimental 43, model 14, DFT 16, unspecified 15); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SC.json) · [CSV](https://data.orchid-project.org/systems/GE-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SC/GeSc-12Che.json) · [Markdown](https://data.orchid-project.org/systems/GE-SC.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 43 |
+| model | 14 |
+| DFT | 16 |
+| unspecified | 15 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 23 |
+| phase transition | 13 |
+| phase equilibrium | 11 |
+| crystal structure | 41 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| GeSc-12Che.tdb | K. Cheng, B. Hu, Y, Du, H. Xu, Q. Gao, Calphad, 37, 18-24(2012). [doi:10.1016/j.calphad.2011.12.010](https://doi.org/10.1016/j.calphad.2011.12.010) | `f12522f2b9e0e90d14412c78f5ec0c8bed3539ba9eaf50edf799369e797746e3` | [viewer](https://orchid-project.org/phase-diagrams/#GE-SC/GeSc-12Che.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GeSc-12Che.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GeSc-12Che.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| GeSc-12Che.tdb | 2142.83 | LIQUID (x(Sc) 0.52064) + GE4SC5 (x(Sc) 0.55556) + GE3SC5_D88 (x(Sc) 0.625) |
+| GeSc-12Che.tdb | 2142.83 | LIQUID (x(Sc) 0.5206) + GE4SC5 (x(Sc) 0.55556) + GE3SC5_D88 (x(Sc) 0.625) |
+| GeSc-12Che.tdb | 2142.83 | LIQUID (x(Sc) 0.52066) + GE4SC5 (x(Sc) 0.55556) + GE3SC5_D88 (x(Sc) 0.625) |
+| GeSc-12Che.tdb | 1939.04 | LIQUID (x(Sc) 0.44079) + GE10SC11 (x(Sc) 0.52381) + GE4SC5 (x(Sc) 0.55556) |
+| GeSc-12Che.tdb | 1939.04 | LIQUID (x(Sc) 0.4408) + GE10SC11 (x(Sc) 0.52381) + GE4SC5 (x(Sc) 0.55556) |
+| GeSc-12Che.tdb | 1939.04 | LIQUID (x(Sc) 0.44078) + GE10SC11 (x(Sc) 0.52381) + GE4SC5 (x(Sc) 0.55556) |
+| GeSc-12Che.tdb | 1599.3 | LIQUID (x(Sc) 0.89065) + BCC_A2 (x(Sc) 0.97735) + HCP_A3 (x(Sc) 0.97842) |
+| GeSc-12Che.tdb | 1557.85 | GE3SC5_D88 (x(Sc) 0.65317) + LIQUID (x(Sc) 0.8781) + HCP_A3 (x(Sc) 0.97555) |
+| GeSc-12Che.tdb | 1464.72 | LIQUID (x(Sc) 0.3265) + GESC_B33 (x(Sc) 0.5) + GE10SC11 (x(Sc) 0.52381) |
+| GeSc-12Che.tdb | 1464.72 | LIQUID (x(Sc) 0.3265) + GESC_B33 (x(Sc) 0.5) + GE10SC11 (x(Sc) 0.52381) |
+| GeSc-12Che.tdb | 1389.82 | LIQUID (x(Sc) 0.30916) + GE2SC_C49 (x(Sc) 0.33333) + GESC_B33 (x(Sc) 0.5) |
+| GeSc-12Che.tdb | 1389.82 | LIQUID (x(Sc) 0.30921) + GE2SC_C49 (x(Sc) 0.33333) + GESC_B33 (x(Sc) 0.5) |
+| GeSc-12Che.tdb | 1165.55 | DIAMOND_A4 (x(Sc) 0) + LIQUID (x(Sc) 0.15502) + GE2SC_C49 (x(Sc) 0.33333) |
+| GeSc-12Che.tdb | 1165.55 | DIAMOND_A4 (x(Sc) 0) + LIQUID (x(Sc) 0.15484) + GE2SC_C49 (x(Sc) 0.33333) |
+| GeSc-12Che.tdb | 1165.55 | DIAMOND_A4 (x(Sc) 0) + LIQUID (x(Sc) 0.15483) + GE2SC_C49 (x(Sc) 0.33333) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GE/GE-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/GE-SC.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ge–Sc system (23)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2338 | Congruent: Sc5Ge3 = Liquid | Sc5Ge3: Ge 0.375; Liquid: Ge 0.375 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 7 |  |
+| 2334 | Congruent: Sc5Ge3 = Liquid | Sc5Ge3: Ge 0.375; Liquid: Ge 0.375 | model | [1] Cheng 2012 | Table 5, p. 7, row 8 |  |
+| 2145 | Peritectic: Sc5Ge3 + Liquid = Sc5Ge4 | Sc5Ge3: Ge 0.375; Liquid: Ge 0.476; Sc5Ge4: Ge 0.4445 | model | [1] Cheng 2012 | Table 5, p. 7, row 10 |  |
+| 2143 | Peritectic: Sc5Ge3 + Liquid = Sc5Ge4 | Sc5Ge3: Ge 0.385; Liquid: Ge 0.452; Sc5Ge4: Ge 0.4445 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 9 |  |
+| 1941 | Peritectic: Sc5Ge4 + Liquid = Sc11Ge10 | Sc5Ge4: Ge 0.4445; Liquid: Ge 0.559; Sc11Ge10: Ge 0.4762 | model | [1] Cheng 2012 | Table 5, p. 7, row 12 |  |
+| 1938 | Peritectic: Sc5Ge4 + Liquid = Sc11Ge10 | Sc5Ge4: Ge 0.4445; Liquid: Ge 0.493; Sc11Ge10: Ge 0.4762 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 11 |  |
+| 1605 | Metatectic: (βSc) = (αSc) + Liquid | (βSc): Ge 0.0221; (αSc): Ge 0.0217; Liquid: Ge 0.107 | model | [1] Cheng 2012 | Table 5, p. 7, row 3 |  |
+| 1605 | Metatectic: (βSc) = (αSc) + Liquid |  | experimental | [1] Cheng 2012 | Table 5, p. 7, row 2 |  |
+| 1603 | Metatectic: (βSc) = (αSc) + Liquid | (βSc): Ge 0.02; (αSc): Ge 0; Liquid: Ge 0.089 | model | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 1 |  |
+| 1547 | Eutectic: Liquid = (αSc) + Sc5Ge3 | Liquid: Ge 0.12; (αSc): Ge 0.027; Sc5Ge3: Ge 0.365 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 4 |  |
+| 1547 | Eutectic: Liquid = (αSc) + Sc5Ge3 | Liquid: Ge 0.123; (αSc): Ge 0.0267; Sc5Ge3: Ge 0.3453 | model | [1] Cheng 2012 | Table 5, p. 7, row 6 |  |
+| 1547 | eutectic: L = (α Sc)+ Sc5 Ge3 |  | experimental | [1] Cheng 2012 | p. 2 | “two eutectic reactions L = (α Sc)+ Sc5 Ge3 and L = ScGe2 +(Ge) at 1547 and 1165 K with the eutectic compositions of 12 and 85 at.% Ge, respectively.” |
+| 1547 | Eutectic: Liquid = (αSc) + Sc5Ge3 | Sc5Ge3: Ge 0.375, Sc 0.625 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 5 |  |
+| 1466 | Peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.47619, Sc 0.52381; ScGe: Ge 0.5, Sc 0.5 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 14 |  |
+| 1466 | Peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.4762; Liquid: Ge 0.677; ScGe: Ge 0.5 | model | [1] Cheng 2012 | Table 5, p. 7, row 15 |  |
+| 1465 | Peritectic: Sc11Ge10 + Liquid = ScGe | Sc11Ge10: Ge 0.4762; Liquid: Ge 0.625; ScGe: Ge 0.5 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 13 |  |
+| 1389 | Peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5; Liquid: Ge 0.699; ScGe2: Ge 0.667 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 16 |  |
+| 1389 | Peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5; Liquid: Ge 0.699; ScGe2: Ge 0.667 | model | [1] Cheng 2012 | Table 5, p. 7, row 18 |  |
+| 1389 | Peritectic: ScGe + Liquid = ScGe2 | ScGe: Ge 0.5, Sc 0.5; ScGe2: Ge 0.666667, Sc 0.333333 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 17 |  |
+| 1167 | Eutectic: Liquid = ScGe2 + (Ge) | ScGe2: Ge 0.666667, Sc 0.333333 | experimental | [1] Cheng 2012 | Table 5, p. 7, row 20 |  |
+| 1167 | Eutectic: Liquid = ScGe2 + (Ge) | Liquid: Ge 0.85; ScGe2: Ge 0.667; (Ge): Ge 1 | model | [1] Cheng 2012 | Table 5, p. 7, row 21 |  |
+| 1165 | eutectic: L = ScGe2 +(Ge) |  | experimental | [1] Cheng 2012 | p. 2 | “two eutectic reactions L = (α Sc)+ Sc5 Ge3 and L = ScGe2 +(Ge) at 1547 and 1165 K with the eutectic compositions of 12 and 85 at.% Ge, respectively.” |
+| 1165 | Eutectic: Liquid = ScGe2 + (Ge) | Liquid: Ge 0.85; ScGe2: Ge 0.667; (Ge): Ge 1 | experimental | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | Table 5, p. 7, row 19 |  |
+
+## Other properties
+
+### Phase transition (13)
+
+Table: Phase transition, Ge–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1.3 K | 1.3 | other | experimental | [1] Cheng 2012; _cites Matthias 1958_ [doi](https://doi.org/10.1103/physrev.109.604) | p. 1 | “Interaction between scandium and germanium results in the formation of intermetallic compound ScGe2 with a superconducting transition temperature of ∼1.3 K \[2\].” |
+| Phase transition | 1167 K | 1167 | Liquid = ScGe2 + (Ge) | experimental | [1] Cheng 2012 | p. 5 | “Fig. 2(c) gives the DTA curve of alloy 7 (Sc30 Ge70 ) with a heating rate of 5 K min-1 , the two peaks represent the invariant equilibria (Liquid = ScGe2 + (Ge)) at 1167 K and the temperature of liquidus at this composition (1370.6 K).” |
+| Phase transition | 1167 K | 1167 | Liquid = ScGe2 + (Ge) | experimental | [1] Cheng 2012 | p. 5 | “On the Ge-rich side, three invariant equilibria (Sc11 Ge10 + Liquid = ScGe, ScGe + Liquid = ScGe2 and Liquid = ScGe2 + (Ge)) were detected at 1466 K, 1389 K and 1167 K, respectively, showing a good agreement with previous results \[9\].” |
+| Phase transition | 1211.4 K | 1211.4 |  | model | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | p. 1 | “Most of the results from \[9\] were accepted by Gokhale and Abbschian \[8\] assessing the Sc-Ge phase diagram, except for changing the melting temperatures of Sc and Ge from 1823 K and 1208 K to 1814 K and 1211.4 K, respectively, to conform with the currently accepted values.” |
+| Phase transition | 1370.6 K | 1370.6 | liquidus | experimental | [1] Cheng 2012 | p. 5 | “Fig. 2(c) gives the DTA curve of alloy 7 (Sc30 Ge70 ) with a heating rate of 5 K min-1 , the two peaks represent the invariant equilibria (Liquid = ScGe2 + (Ge)) at 1167 K and the temperature of liquidus at this composition (1370.6 K).” |
+| Phase transition | 1389 K | 1389 | Sc11 Ge10 + Liquid = ScGe | model | [1] Cheng 2012 | p. 6 | “The calculated reaction temperature and peritectic point of invariant equilibrium Sc11 Ge10 + Liquid = ScGe are 1389 K and 68.1 at.% Ge, which agree well with the present experimental results.” |
+| Phase transition | 1389 K | 1389 | ScGe + Liquid = ScGe2 | experimental | [1] Cheng 2012 | p. 5 | “On the Ge-rich side, three invariant equilibria (Sc11 Ge10 + Liquid = ScGe, ScGe + Liquid = ScGe2 and Liquid = ScGe2 + (Ge)) were detected at 1466 K, 1389 K and 1167 K, respectively, showing a good agreement with previous results \[9\].” |
+| Phase transition | 1466 K | 1466 | Sc11 Ge10 + Liquid = ScGe | experimental | [1] Cheng 2012 | p. 5 | “On the Ge-rich side, three invariant equilibria (Sc11 Ge10 + Liquid = ScGe, ScGe + Liquid = ScGe2 and Liquid = ScGe2 + (Ge)) were detected at 1466 K, 1389 K and 1167 K, respectively, showing a good agreement with previous results \[9\].” |
+| Phase transition | 1475.1 K | 1475.1 | liquidus | experimental | [1] Cheng 2012 | p. 5 | “The liquidus for Sc11 Ge10 alloy reported by Eremenko et al. \[9\] is thus not reasonable and the temperature of 1475.1 K from the peak maximum of the second thermal effect is assumed as the liquidus point in the present assessment.” |
+| Phase transition | 1547 K | 1547 | Liquid = (α Sc) + Sc5 Ge3 | experimental | [1] Cheng 2012 | p. 5 | “The presently determined two invariant reactions on the Sc-rich side ((β Sc) = (α Sc) + Liquid at1605 K, Liquid = (α Sc) + Sc5 Ge3 at 1547 K) match well with those reported in the previous work \[9\].” |
+| Phase transition | 1605 K | 1605 | (β Sc) = (α Sc) + Liquid | experimental | [1] Cheng 2012 | p. 5 | “The presently determined two invariant reactions on the Sc-rich side ((β Sc) = (α Sc) + Liquid at1605 K, Liquid = (α Sc) + Sc5 Ge3 at 1547 K) match well with those reported in the previous work \[9\].” |
+| Phase transition | 1814 K | 1814 |  | model | [1] Cheng 2012; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02869862) | p. 1 | “Most of the results from \[9\] were accepted by Gokhale and Abbschian \[8\] assessing the Sc-Ge phase diagram, except for changing the melting temperatures of Sc and Ge from 1823 K and 1208 K to 1814 K and 1211.4 K, respectively, to conform with the currently accepted values.” |
+| Phase transition | 2338 K | 2338 |  | experimental | [1] Cheng 2012 | p. 1 | “The melting point of Sc5 Ge3 was determined at 2338 K with a homogeneity range of 2 at.% Ge, whereas the other phases with negligible homogeneities are formed through peritectic reactions, that occur at decreasing temperatures with increasing Ge content.” |
+
+### Phase equilibrium (11)
+
+Table: Phase equilibrium, Ge–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase assemblage |  | 1123 | ScGe + ScGe2; _alloy: Ge 0.6, Sc 0.4_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 4 |  |
+| Phase assemblage |  | 1123 | ScGe2; _alloy: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 5 |  |
+| Phase assemblage |  | 1123 | ScGe2 + (Ge); _alloy: Ge 0.7, Sc 0.3_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 7 |  |
+| Phase assemblage |  | 1123 | ScGe2 + (Ge); _alloy: Ge 0.75, Sc 0.25_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 8 |  |
+| Phase assemblage |  | 1123 | ScGe2 + (Ge); _alloy: Ge 0.9, Sc 0.1_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 9 |  |
+| Phase assemblage |  | 1123 | ScGe2 + (Ge); _alloy: Ge 0.67, Sc 0.33_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 6 |  |
+| Phase assemblage |  | 1223 | (αSc) + Sc5Ge3; _alloy: Ge 0.16, Sc 0.84_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 11 |  |
+| Phase assemblage |  | 1323 | (αSc) + Sc5Ge3; _alloy: Ge 0.05, Sc 0.95_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 1 |  |
+| Phase assemblage |  | 1323 | (αSc) + Sc5Ge3; _alloy: Ge 0.16, Sc 0.84_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 3 |  |
+| Phase assemblage |  | 1323 | (αSc) + Sc5Ge3; _alloy: Ge 0.12, Sc 0.88_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 2 |  |
+| Phase assemblage |  | 1323 | ScGe2 + (Ge); _alloy: Ge 0.41, Sc 0.59_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 10 |  |
+
+### Crystal structure (41)
+
+Table: Crystal structure, Ge–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.562 nm | 0 | (Ge); _alloy: Sc 0_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 20 |  |
+| Lattice a | 0.33082 nm | 0 | (αSc); _alloy: Sc 1_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 3 |  |
+| Lattice a | 1.032 nm | 0 | Sc11Ge10; _alloy: Sc 0.52381_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 12 |  |
+| Lattice a | 0.7972 nm | 0 | Sc5Ge3; _alloy: Sc 0.625_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 8 |  |
+| Lattice a | 0.7172 nm | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
+| Lattice a | 0.4025 nm | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
+| Lattice a | 0.388 nm | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
+| Lattice a | 0.562 nm | 298.15 | (Ge); _(Ge): Ge 1, Sc 0_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 19 |  |
+| Lattice a | 0.5657 nm | 298.15 | (Ge); _(Ge): Ge 1, Sc 0_ | model | [1] Cheng 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 3, p. 3, row 18 |  |
+| Lattice a | 0.33107 nm | 298.15 | (αSc); _(αSc): Ge 0.0241, Sc 0.9759_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 2 |  |
+| Lattice a | 0.33088 nm | 298.15 | (αSc); _(αSc): Ge 0.027, Sc 0.973_ | unspecified | [1] Cheng 2012; _cites Beaudry 1978_ | Table 3, p. 3, row 1 |  |
+| Lattice a | 0.373 nm | 298.15 | (βSc); _(βSc): Ge 0.02, Sc 0.98_ | model | [1] Cheng 2012; _cites Massalski 1986_ | Table 3, p. 3, row 4 |  |
+| Lattice a | 1.012 nm | 298.15 | Sc11Ge10; _Sc11Ge10: Ge 0.4762, Sc 0.5238_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 11 |  |
+| Lattice a | 0.7939 nm | 298.15 | Sc5Ge3; _Sc5Ge3: Ge 0.365, Sc 0.635_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 5 |  |
+| Lattice a | 0.7269 nm | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
+| Lattice a | 0.4007 nm | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
+| Lattice a | 0.388 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
+| Lattice a | 0.388 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
+| Lattice a | 0.7932 nm | 1223 | Sc5Ge3; _Sc5Ge3: Ge 0.359, Sc 0.641_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 6 |  |
+| Lattice b | 1.3807 nm | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
+| Lattice b | 1.0133 nm | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
+| Lattice b | 1.487 nm | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
+| Lattice b | 1.398 nm | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
+| Lattice b | 1.006 nm | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
+| Lattice b | 1.487 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
+| Lattice b | 1.485 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
+| Lattice c | 0.51769 nm | 0 | (αSc); _alloy: Sc 1_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 3 |  |
+| Lattice c | 1.53 nm | 0 | Sc11Ge10; _alloy: Sc 0.52381_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 12 |  |
+| Lattice c | 0.5905 nm | 0 | Sc5Ge3; _alloy: Sc 0.625_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 8 |  |
+| Lattice c | 0.7251 nm | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
+| Lattice c | 0.3825 nm | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
+| Lattice c | 0.379 nm | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
+| Lattice c | 0.52693 nm | 298.15 | (αSc); _(αSc): Ge 0.0241, Sc 0.9759_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 2 |  |
+| Lattice c | 0.5268 nm | 298.15 | (αSc); _(αSc): Ge 0.027, Sc 0.973_ | unspecified | [1] Cheng 2012; _cites Beaudry 1978_ | Table 3, p. 3, row 1 |  |
+| Lattice c | 1.554 nm | 298.15 | Sc11Ge10; _Sc11Ge10: Ge 0.4762, Sc 0.5238_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 11 |  |
+| Lattice c | 0.5883 nm | 298.15 | Sc5Ge3; _Sc5Ge3: Ge 0.365, Sc 0.635_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 5 |  |
+| Lattice c | 0.7152 nm | 298.15 | Sc5Ge4; _Sc5Ge4: Ge 0.445, Sc 0.555_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 9 |  |
+| Lattice c | 0.3762 nm | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
+| Lattice c | 0.379 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
+| Lattice c | 0.379 nm | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
+| Lattice c | 0.5898 nm | 1223 | Sc5Ge3; _Sc5Ge3: Ge 0.359, Sc 0.641_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 6 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Kaiming Cheng, Biao Hu, Yong Du, Honghui Xu, Qiannan Gao, Thermodynamic modeling of the Ge–Sc system supported by key experiments and first-principles calculation, Calphad 37, 18-24 (2012). [doi:10.1016/j.calphad.2011.12.010](https://doi.org/10.1016/j.calphad.2011.12.010)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

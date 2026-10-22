@@ -1,0 +1,137 @@
+# Ag–Te system
+
+> Ag–Te system: 26 accepted literature values (invariant reaction 15, formation 10, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AG-TE.html · Markdown: https://data.orchid-project.org/systems/AG-TE.md
+
+26 accepted literature values from 1 paper(s) (experimental 12, model 14); 4 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-TE.json) · [CSV](https://data.orchid-project.org/systems/AG-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-TE/AgTe-04Kor-LB.json) · [Markdown](https://data.orchid-project.org/systems/AG-TE.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 12 |
+| model | 14 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 15 |
+| phase transition | 1 |
+| formation | 10 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AgTe-04Kor-LB.tdb | J. Korb, unpublished, GTT, 2004. | `488331d1ba21cb9be3948cbbab1936ce323f7ed2d157deccd8182b1ec9113b38` | [viewer](https://orchid-project.org/phase-diagrams/#AG-TE/AgTe-04Kor-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgTe-04Kor-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgTe-04Kor-LB.json) |
+| AgTe-04Kor-newTe.tdb | J. Korb, unpublished, GTT, 2004. | `91e63cfc06b4d3c2ac68365684f94a6bd699a558d220038b13d7d18173b9d059` | [viewer](https://orchid-project.org/phase-diagrams/#AG-TE/AgTe-04Kor-newTe.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgTe-04Kor-newTe.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgTe-04Kor-newTe.json) |
+| AgTe-09Gie.tdb | W. Gierlotka, J. Alloys Compd., 485, 231-35(2009). [doi:10.1016/j.jallcom.2009.06.028](https://doi.org/10.1016/j.jallcom.2009.06.028) | `460b220490c1f3ff96d63254e0b945deccb6f650ebf96a24897504ee57a679c4` | [viewer](https://orchid-project.org/phase-diagrams/#AG-TE/AgTe-09Gie.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgTe-09Gie.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgTe-09Gie.json) |
+| AgTe-10Gie.tdb | W. Gierlotka, J. Lapsa, K. Fitzner, J. Phase Equilib. Diffus., 31, 509-17(2010). [doi:10.1007/s11669-010-9791-8](https://doi.org/10.1007/s11669-010-9791-8) | `ea58eda35a9a46d1b1e3da7ea7f2e5c501c31cbceb5f3682723bf34e9cc9bec8` | [viewer](https://orchid-project.org/phase-diagrams/#AG-TE/AgTe-10Gie.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgTe-10Gie.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgTe-10Gie.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AgTe-04Kor-LB.tdb | 1198.78 | LIQUID#2 (x(Te) 0.12115) + LIQUID (x(Te) 0.28817) + AG2TE (x(Te) 0.33333) |
+| AgTe-04Kor-LB.tdb | 1162.13 | FCC_A1 (x(Te) 0) + LIQUID (x(Te) 0.07605) + AG2TE (x(Te) 0.33333) |
+| AgTe-04Kor-LB.tdb | 690.3 | AG2TE (x(Te) 0.33333) + AG19TE10 (x(Te) 0.34483) + LIQUID (x(Te) 0.63484) |
+| AgTe-04Kor-LB.tdb | 626.06 | AG19TE10 (x(Te) 0.34483) + AG5TE3 (x(Te) 0.37879) + LIQUID (x(Te) 0.6607) |
+| AgTe-04Kor-LB.tdb | 553.14 | AG5TE3 (x(Te) 0.37879) + LIQUID (x(Te) 0.69608) + HEXAGONAL_A8 (x(Te) 1) |
+| AgTe-04Kor-LB.tdb | 393.94 | AG2TE (x(Te) 0.33333) + AG19TE10 (x(Te) 0.34483) + AG5TE3 (x(Te) 0.37879) |
+| AgTe-04Kor-newTe.tdb | 1198.81 | LIQUID#2 (x(Te) 0.12122) + LIQUID (x(Te) 0.288) + AG2TE (x(Te) 0.33333) |
+| AgTe-04Kor-newTe.tdb | 1162.13 | FCC_A1 (x(Te) 0) + LIQUID (x(Te) 0.07605) + AG2TE (x(Te) 0.33333) |
+| AgTe-04Kor-newTe.tdb | 697.7 | AG2TE (x(Te) 0.33333) + AG19TE10 (x(Te) 0.34483) + LIQUID (x(Te) 0.63211) |
+| AgTe-04Kor-newTe.tdb | 631.48 | AG19TE10 (x(Te) 0.34483) + AG5TE3 (x(Te) 0.37879) + LIQUID (x(Te) 0.65868) |
+| AgTe-04Kor-newTe.tdb | 534.63 | AG5TE3 (x(Te) 0.37879) + LIQUID (x(Te) 0.70409) + HEXAGONAL_A8 (x(Te) 1) |
+| AgTe-04Kor-newTe.tdb | 393.94 | AG2TE (x(Te) 0.33333) + AG19TE10 (x(Te) 0.34483) + AG5TE3 (x(Te) 0.37879) |
+| AgTe-09Gie.tdb | 1183.07 | LIQUID#2 (x(Te) 0.12367) + LIQUID (x(Te) 0.31402) + AG2TE_HT2 (x(Te) 0.33333) |
+| AgTe-09Gie.tdb | 1139.24 | FCC_A1 (x(Te) 0) + LIQUID (x(Te) 0.09739) + AG2TE_HT2 (x(Te) 0.33333) |
+| AgTe-09Gie.tdb | 977.76 | FCC_A1 (x(Te) 0) + AG2TE_HT2 (x(Te) 0.33333) + AG2TE_HT1 (x(Te) 0.33333) |
+| AgTe-09Gie.tdb | 977.76 | AG2TE_HT1 (x(Te) 0.33333) + AG2TE_HT2 (x(Te) 0.33333) + LIQUID (x(Te) 0.41462) |
+| AgTe-09Gie.tdb | 719.91 | AG2TE_HT1 (x(Te) 0.33333) + AG19TE10_HT (x(Te) 0.34483) + LIQUID (x(Te) 0.5427) |
+| AgTe-09Gie.tdb | 694.53 | AG19TE10_HT (x(Te) 0.34483) + AG5TE3_HT (x(Te) 0.38) + LIQUID (x(Te) 0.56545) |
+| AgTe-09Gie.tdb | 633.35 | AG5TE3_HT (x(Te) 0.38) + LIQUID (x(Te) 0.66302) + HEXAGONAL_A8 (x(Te) 1) |
+| AgTe-09Gie.tdb | 568.12 | AG5TE3_HT (x(Te) 0.38) + AG5TE3_LT (x(Te) 0.38) + HEXAGONAL_A8 (x(Te) 1) |
+| AgTe-09Gie.tdb | 568.12 | AG19TE10_HT (x(Te) 0.34483) + AG5TE3_LT (x(Te) 0.38) + AG5TE3_HT (x(Te) 0.38) |
+| AgTe-09Gie.tdb | 453.52 | AG19TE10_LT (x(Te) 0.34483) + AG19TE10_HT (x(Te) 0.34483) + AG5TE3_LT (x(Te) 0.38) |
+| AgTe-09Gie.tdb | 453.52 | AG2TE_HT1 (x(Te) 0.33333) + AG19TE10_LT (x(Te) 0.34483) + AG19TE10_HT (x(Te) 0.34483) |
+| AgTe-09Gie.tdb | 433.2 | FCC_A1 (x(Te) 0) + AG2TE_LT (x(Te) 0.33333) + AG2TE_HT1 (x(Te) 0.33333) |
+| AgTe-09Gie.tdb | 433.2 | AG2TE_LT (x(Te) 0.33333) + AG2TE_HT1 (x(Te) 0.33333) + AG19TE10_LT (x(Te) 0.34483) |
+| AgTe-09Gie.tdb | 389.5 | AG2TE_LT (x(Te) 0.33333) + AG19TE10_LT (x(Te) 0.34483) + AG5TE3_LT (x(Te) 0.38) |
+| AgTe-10Gie.tdb | 1175.5 | LIQUID#2 (x(Te) 0.12075) + LIQUID (x(Te) 0.31472) + AG2TE (x(Te) 0.33333) |
+| AgTe-10Gie.tdb | 1138.55 | FCC_A1 (x(Te) 0) + LIQUID (x(Te) 0.09829) + AG2TE (x(Te) 0.33333) |
+| AgTe-10Gie.tdb | 724.87 | AG2TE (x(Te) 0.33333) + AG19TE10 (x(Te) 0.34483) + LIQUID (x(Te) 0.51709) |
+| AgTe-10Gie.tdb | 693.27 | AG19TE10 (x(Te) 0.34483) + AG5TE3 (x(Te) 0.38) + LIQUID (x(Te) 0.54208) |
+| AgTe-10Gie.tdb | 636.48 | AG5TE3 (x(Te) 0.38) + LIQUID (x(Te) 0.62932) + HEXAGONAL_A8 (x(Te) 1) |
+| AgTe-10Gie.tdb | 386.83 | AG2TE (x(Te) 0.33333) + AG19TE10 (x(Te) 0.34483) + AG5TE3 (x(Te) 0.38) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-TE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-TE.json) · [CALPHAD hull AgTe-04Kor-LB](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-TE--AgTe-04Kor-LB.json) · [CALPHAD hull AgTe-04Kor-newTe](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-TE--AgTe-04Kor-newTe.json) · [CALPHAD hull AgTe-09Gie](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-TE--AgTe-09Gie.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ag–Te system (15)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1233 | L -> γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.334 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 5 |  |
+| 1233 | L -> γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.333 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 6 |  |
+| 1155 | L2 -> L1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.32 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 1 |  |
+| 1154 | L2 -> L1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.303 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 2 |  |
+| 1142 | L -> FCC_A1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.125 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 4 |  |
+| 1142 | L -> FCC_A1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.092 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 3 |  |
+| 733 | βAg2Te + L -> γ | βAg2Te: Ag 0.666667, Te 0.333333; γ: Ag 0.666667, Te 0.333333; reactive phase: Te 0.345 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 8 |  |
+| 724 | βAg2Te + L -> γ | βAg2Te: Ag 0.666667, Te 0.333333; γ: Ag 0.666667, Te 0.333333; reactive phase: Te 0.345 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 7 |  |
+| 694 | γ + L -> βAg5Te3 | γ: Ag 0.666667, Te 0.333333; βAg5Te3: Ag 0.62, Te 0.38; reactive phase: Te 0.38 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 9 |  |
+| 693 | γ + L -> βAg5Te3 | γ: Ag 0.666667, Te 0.333333; βAg5Te3: Ag 0.62, Te 0.38; reactive phase: Te 0.38 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 10 |  |
+| 633 | L -> βAg5Te3 + Hex_A8 | βAg5Te3: Ag 0.62, Te 0.38; reactive phase: Te 0.678 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 11 |  |
+| 626 | L -> βAg5Te3 + Hex_A8 | βAg5Te3: Ag 0.62, Te 0.38; reactive phase: Te 0.667 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 12 |  |
+| 626 | eutectic |  | model | [1] Gierlotka 2009 | p. 1 | “This calculation reproduced well liquidus around eutectic reaction at 626 K and shows very good agreement with the data obtained by Pelabon \[13\], Chikashige and Saito \[14\] and Kracek et al. \[4\].” |
+| 395 | γ -> αAg2Te + αAg5Te3 | γ: Ag 0.666667, Te 0.333333; αAg2Te: Ag 0.666667, Te 0.333333; αAg5Te3: Ag 0.62, Te 0.38; reactive phase: Te 0.345 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 13 |  |
+| 393 | γ -> αAg2Te + αAg5Te3 | γ: Ag 0.666667, Te 0.333333; αAg2Te: Ag 0.666667, Te 0.333333; αAg5Te3: Ag 0.62, Te 0.38; reactive phase: Te 0.345 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 14 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ag–Te system (10)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| αAg2Te | [Ag2Te](https://data.orchid-project.org/compounds/Ag2Te.html) | -16.243 kJ/mol-atom | 273 | model | -19.54 (mp-aaaaacjg) | -6.298 (oqmd-13143) | [1] Gierlotka 2009 | Table 4, p. 4, row 3 |  |
+| αAg2Te | [Ag2Te](https://data.orchid-project.org/compounds/Ag2Te.html) | -12 kJ/mol-atom | 273 | experimental | -19.54 (mp-aaaaacjg) | -6.298 (oqmd-13143) | [1] Gierlotka 2009; _cites Pool 1965_ | Table 4, p. 4, row 4 |  |
+| αAg5Te3 |  | -12.8 kJ/mol-atom | 523 | model |  |  | [1] Gierlotka 2009 | Table 4, p. 4, row 7 |  |
+| αAg5Te3 |  | -8.45 kJ/mol-atom | 523 | experimental |  |  | [1] Gierlotka 2009; _cites Zaleska 1975_ | Table 4, p. 4, row 8 |  |
+| αAg655Te345 |  | -12.697 kJ/mol-atom | 400 | model |  |  | [1] Gierlotka 2009 | Table 4, p. 4, row 9 |  |
+| αAg655Te345 |  | -12.166 kJ/mol-atom | 400 | experimental |  |  | [1] Gierlotka 2009; _cites Mills 1974_ | Table 4, p. 4, row 10 |  |
+| βAg2Te | [Ag2Te](https://data.orchid-project.org/compounds/Ag2Te.html) | -8.6 kJ/mol-atom | 523 | experimental | -19.54 (mp-aaaaacjg) | -6.298 (oqmd-13143) | [1] Gierlotka 2009; _cites Castanet 1974_ | Table 4, p. 4, row 2 |  |
+| βAg2Te | [Ag2Te](https://data.orchid-project.org/compounds/Ag2Te.html) | -5.383 kJ/mol-atom | 523 | model | -19.54 (mp-aaaaacjg) | -6.298 (oqmd-13143) | [1] Gierlotka 2009 | Table 4, p. 4, row 1 |  |
+| βAg5Te3 |  | -8.07 kJ/mol-atom | 693 | experimental |  |  | [1] Gierlotka 2009; _cites Castanet 1974_ | Table 4, p. 4, row 6 |  |
+| βAg5Te3 |  | -4.356 kJ/mol-atom | 693 | model |  |  | [1] Gierlotka 2009 | Table 4, p. 4, row 5 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Ag–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 724 K | 724 | ␤Ag2 Te + L ↔ ␤Ag655 Te345 | model | [1] Gierlotka 2009 | p. 4 | “The biggest difference is for reaction ␤Ag2 Te + L ↔ ␤Ag655 Te345 . The calculated values is 724 K, when measured by Kracek et al. \[4\] is 733 ± 5 K.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Wojciech Gierlotka, Thermodynamic assessment of the Ag–Te binary system, Journal of Alloys and Compounds 485, 231-235 (2009). [doi:10.1016/j.jallcom.2009.06.028](https://doi.org/10.1016/j.jallcom.2009.06.028)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

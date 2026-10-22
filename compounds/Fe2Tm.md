@@ -1,0 +1,47 @@
+# Fe2Tm: enthalpy of formation
+
+> Enthalpy of formation of Fe2Tm: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Fe2Tm.html · Markdown: https://data.orchid-project.org/compounds/Fe2Tm.md
+
+10 accepted literature formation-enthalpy value(s) (experimental 3, model 6, DFT 1); experimental median -5.7 kJ/mol-atom (n = 3); Materials Project -13.808 kJ/mol-atom (mp-aaabgmyp); OQMD -13.506 kJ/mol-atom (oqmd-17236).
+
+Systems: [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Fe2Tm reported in the literature (10)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -5.98 kJ/mol-atom | Fe2Tm | 300 | experimental | Adiabatic Calo | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
+| -5.7 kJ/mol-atom | Fe2Tm | 290 | experimental | Adiabatic Calo. | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
+| -2.2 kJ/mol-atom ± 2.8 | Fe2Tm | 298.15 | experimental | DSC 1373 ± 2 K | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 4, row 20 |  |
+| -11.53 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 23 |  |
+| -6.7 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Dariel 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990175-1) | Table 3, p. 4, row 18 |  |
+| -6.5 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 17 |  |
+| -6.19 kJ/mol-atom | Fe2Tm | 298.15 | model | Prediction | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 16 |  |
+| -5.042 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimisation | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 24 |  |
+| -2.46 kJ/mol-atom | Fe2Tm | 298.15 | model | Optimization | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
+| -13.4 kJ/mol-atom | Fe2Tm | 298.15 | DFT | Ab initio | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html) | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 4, row 19 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Fe2Tm
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaabgmyp | -13.808 | -0.143115 | Fd-3m | 0 | no |
+| OQMD | oqmd-17236 | -13.506 | -0.139979 | Fd-3m | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, Thermodynamic evaluations of the iron–lutetium and iron–thulium systems, Calphad 46, 42-54 (2014). [doi:10.1016/j.calphad.2014.01.003](https://doi.org/10.1016/j.calphad.2014.01.003)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,248 @@
+# Sn–Zr system
+
+> Sn–Zr system: 77 accepted literature values (invariant reaction 40, formation 25, phase equilibrium 5, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/SN-ZR.html · Markdown: https://data.orchid-project.org/systems/SN-ZR.md
+
+77 accepted literature values from 3 paper(s) (experimental 19, model 34, unspecified 24); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-08Jer.json) · [Markdown](https://data.orchid-project.org/systems/SN-ZR.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 19 |
+| model | 34 |
+| unspecified | 24 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 40 |
+| phase transition | 3 |
+| phase equilibrium | 5 |
+| formation | 25 |
+| mixing / partial | 2 |
+| crystal structure | 2 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| SnZr-08Jer.tdb | R. Jerlerud Perez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, Calphad, 32, 593-601(2008). [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001) | `036ae254a34338732263f855a4f7c00e8ad16dfc87dc38bff274d10da3034181` | [viewer](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-08Jer.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/SnZr-08Jer.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/SnZr-08Jer.json) |
+| SnZr-19Laf.tdb | P. Lafaye, C. Toffolon-Masclet, J.-C. Crivello, J.-M. Joubert, Calphad, 64, 43-54(2019). [doi:10.1016/j.calphad.2018.11.002](https://doi.org/10.1016/j.calphad.2018.11.002) | `8197c2228e6891844ed0fde69a12f271c1b77196115f13b5058b37a3fc2a4bb6` | [viewer](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-19Laf.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/SnZr-19Laf.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/SnZr-19Laf.json) |
+| SnZr-24Pen.tdb | J. Peng, J. Shen, X. Feng, Z. Cheng, Calphad, 85, 102672(2024). [doi:10.1016/j.calphad.2024.102672](https://doi.org/10.1016/j.calphad.2024.102672) | `05a16eefb0b8c3c86ac2ba79861160b94441ee8ee62e5c2adf22982e88570b12` | [viewer](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-24Pen.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/SnZr-24Pen.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/SnZr-24Pen.json) |
+| SnZr-98Kor.tdb | J. Korb, K. Hack, COST 507, Final report round 2, 1998. | `2f5c7b85378bbe0b9550e760feeed903581aef0e6f525eb9100e344042692054` | [viewer](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-98Kor.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/SnZr-98Kor.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/SnZr-98Kor.json) |
+| SnZr-98Sub-LB.tdb | N. Subasic, Calphad, 22, 157-65(1998). [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) | `36c8c635a52078e78023f8d2eaade2c6ff049ad1d1bc914c8bb000662a59cf09` | [viewer](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-98Sub-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/SnZr-98Sub-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/SnZr-98Sub-LB.json) |
+| SnZr-98Sub-orig.tdb | N. Subasic, Calphad, 22, 157-65(1998). [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) | `76bd4dba75de9b8f486326fe3ed3d19bf46d55e7247679d306abc958ca51239a` | [viewer](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-98Sub-orig.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/SnZr-98Sub-orig.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/SnZr-98Sub-orig.json) |
+| SnZr-99Dup.tdb | N. Dupin, I. Ansara, C. Servant, C. Toffolon, C. Lemaignan, J.C. Brachet, J. Nucl. Mater., 275, 287-95(1999). [doi:10.1016/S0022-3115(99)00125-7](https://doi.org/10.1016/S0022-3115%2899%2900125-7) | `664531d6e2473eccac59cb91adfc77d2f8b41e498621292b417369b8d0b8080b` | [viewer](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-99Dup.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/SnZr-99Dup.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/SnZr-99Dup.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| SnZr-08Jer.tdb | 1859.41 | SN3ZR5_ETA (x(Zr) 0.61878) + LIQUID (x(Zr) 0.80999) + BCC_A2 (x(Zr) 0.82938) |
+| SnZr-08Jer.tdb | 1595.92 | SN3ZR5_ETA (x(Zr) 0.62415) + SNZR4_A15 (x(Zr) 0.79503) + BCC_A2 (x(Zr) 0.87856) |
+| SnZr-08Jer.tdb | 1399.7 | LIQUID (x(Zr) 0.21242) + SN2ZR_C54 (x(Zr) 0.33333) + SN3ZR5_ETA (x(Zr) 0.55731) |
+| SnZr-08Jer.tdb | 1216.43 | SNZR4_A15 (x(Zr) 0.8051) + HCP_A3 (x(Zr) 0.93462) + BCC_A2 (x(Zr) 0.9546) |
+| SnZr-08Jer.tdb | 505.07 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 3.000e-5) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-08Jer.tdb | 505.07 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 3.000e-5) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-19Laf.tdb | 1860.6 | SN3ZR5_ETA (x(Zr) 0.62472) + LIQUID (x(Zr) 0.81772) + BCC_A2 (x(Zr) 0.85052) |
+| SnZr-19Laf.tdb | 1621.36 | SN3ZR5_ETA (x(Zr) 0.62491) + SNZR4_A15 (x(Zr) 0.80579) + BCC_A2 (x(Zr) 0.88294) |
+| SnZr-19Laf.tdb | 1399.38 | LIQUID (x(Zr) 0.22247) + SN2ZR_C54 (x(Zr) 0.33333) + SN3ZR5_ETA (x(Zr) 0.55775) |
+| SnZr-19Laf.tdb | 1219.87 | SNZR4_A15 (x(Zr) 0.81542) + HCP_A3 (x(Zr) 0.94058) + BCC_A2 (x(Zr) 0.94287) |
+| SnZr-19Laf.tdb | 505.07 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 3.000e-5) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-19Laf.tdb | 505.07 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 3.000e-5) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-24Pen.tdb | 1861.5 | SN3ZR5_ETA (x(Zr) 0.61331) + LIQUID (x(Zr) 0.80277) + BCC_A2 (x(Zr) 0.80782) |
+| SnZr-24Pen.tdb | 1512.73 | SN3ZR5_ETA (x(Zr) 0.62427) + SNZR4_A15 (x(Zr) 0.80547) + BCC_A2 (x(Zr) 0.87855) |
+| SnZr-24Pen.tdb | 1428.35 | LIQUID (x(Zr) 0.24988) + SN2ZR_C54 (x(Zr) 0.33333) + SN3ZR5_ETA (x(Zr) 0.56126) |
+| SnZr-24Pen.tdb | 1233.87 | SNZR4_A15 (x(Zr) 0.81058) + HCP_A3 (x(Zr) 0.92091) + BCC_A2 (x(Zr) 0.93816) |
+| SnZr-24Pen.tdb | 504.97 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 3.500e-4) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-24Pen.tdb | 504.97 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 3.500e-4) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-98Kor.tdb | 1868.52 | SN3ZR5_D88 (x(Zr) 0.625) + LIQUID (x(Zr) 0.82901) + BCC_A2 (x(Zr) 0.84414) |
+| SnZr-98Kor.tdb | 1868.52 | SN3ZR5_D88 (x(Zr) 0.625) + LIQUID (x(Zr) 0.82925) + BCC_A2 (x(Zr) 0.8444) |
+| SnZr-98Kor.tdb | 1596.01 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.89068) |
+| SnZr-98Kor.tdb | 1596.01 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.89069) |
+| SnZr-98Kor.tdb | 1596.01 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.89065) |
+| SnZr-98Kor.tdb | 1433.16 | LIQUID (x(Zr) 0.18944) + SN2ZR_C54 (x(Zr) 0.33333) + SN3ZR5_D88 (x(Zr) 0.625) |
+| SnZr-98Kor.tdb | 1433.16 | LIQUID (x(Zr) 0.18957) + SN2ZR_C54 (x(Zr) 0.33333) + SN3ZR5_D88 (x(Zr) 0.625) |
+| SnZr-98Kor.tdb | 1253.56 | SNZR4_A15 (x(Zr) 0.8) + HCP_A3 (x(Zr) 0.94092) + BCC_A2 (x(Zr) 0.96865) |
+| SnZr-98Kor.tdb | 1253.56 | SNZR4_A15 (x(Zr) 0.8) + HCP_A3 (x(Zr) 0.94092) + BCC_A2 (x(Zr) 0.96865) |
+| SnZr-98Kor.tdb | 502.01 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 0.00565) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-98Kor.tdb | 502.01 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 0.00564) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-98Kor.tdb | 502.01 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 0.00563) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-98Sub-LB.tdb | 1792.67 | SN3ZR5_D88 (x(Zr) 0.625) + LIQUID (x(Zr) 0.82593) + BCC_A2 (x(Zr) 0.85772) |
+| SnZr-98Sub-LB.tdb | 1792.67 | SN3ZR5_D88 (x(Zr) 0.625) + LIQUID (x(Zr) 0.82613) + BCC_A2 (x(Zr) 0.85792) |
+| SnZr-98Sub-LB.tdb | 1593.12 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.87458) |
+| SnZr-98Sub-LB.tdb | 1593.12 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.8746) |
+| SnZr-98Sub-LB.tdb | 1593.12 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.87454) |
+| SnZr-98Sub-LB.tdb | 1411.91 | SN2ZR_C54 (x(Zr) 0.33333) + LIQUID (x(Zr) 0.33616) + SN3ZR5_D88 (x(Zr) 0.625) |
+| SnZr-98Sub-LB.tdb | 1411.91 | SN2ZR_C54 (x(Zr) 0.33333) + LIQUID (x(Zr) 0.33638) + SN3ZR5_D88 (x(Zr) 0.625) |
+| SnZr-98Sub-LB.tdb | 1252.12 | SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.94869) + HCP_A3 (x(Zr) 0.95106) |
+| SnZr-98Sub-LB.tdb | 502.99 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 0.00553) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-98Sub-LB.tdb | 502.99 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 0.00552) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-98Sub-orig.tdb | 1792.67 | SN3ZR5_D88 (x(Zr) 0.625) + LIQUID (x(Zr) 0.82593) + BCC_A2 (x(Zr) 0.85772) |
+| SnZr-98Sub-orig.tdb | 1792.67 | SN3ZR5_D88 (x(Zr) 0.625) + LIQUID (x(Zr) 0.82613) + BCC_A2 (x(Zr) 0.85792) |
+| SnZr-98Sub-orig.tdb | 1593.12 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.87458) |
+| SnZr-98Sub-orig.tdb | 1593.12 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.8746) |
+| SnZr-98Sub-orig.tdb | 1593.12 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.87454) |
+| SnZr-98Sub-orig.tdb | 1411.91 | SN2ZR_C54 (x(Zr) 0.33333) + LIQUID (x(Zr) 0.33616) + SN3ZR5_D88 (x(Zr) 0.625) |
+| SnZr-98Sub-orig.tdb | 1411.91 | SN2ZR_C54 (x(Zr) 0.33333) + LIQUID (x(Zr) 0.33638) + SN3ZR5_D88 (x(Zr) 0.625) |
+| SnZr-98Sub-orig.tdb | 1252.25 | SNZR4_A15 (x(Zr) 0.8) + HCP_A3 (x(Zr) 0.94059) + BCC_A2 (x(Zr) 0.94864) |
+| SnZr-98Sub-orig.tdb | 1252.25 | SNZR4_A15 (x(Zr) 0.8) + HCP_A3 (x(Zr) 0.94061) + BCC_A2 (x(Zr) 0.94866) |
+| SnZr-98Sub-orig.tdb | 502.99 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 0.00553) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-98Sub-orig.tdb | 502.99 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 0.00552) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-99Dup.tdb | 1894.81 | SN3ZR5_D88 (x(Zr) 0.625) + LIQUID (x(Zr) 0.82442) + BCC_A2 (x(Zr) 0.84597) |
+| SnZr-99Dup.tdb | 1894.81 | SN3ZR5_D88 (x(Zr) 0.625) + LIQUID (x(Zr) 0.82451) + BCC_A2 (x(Zr) 0.84607) |
+| SnZr-99Dup.tdb | 1573.43 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.87401) |
+| SnZr-99Dup.tdb | 1573.43 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.87401) |
+| SnZr-99Dup.tdb | 1573.43 | SN3ZR5_D88 (x(Zr) 0.625) + SNZR4_A15 (x(Zr) 0.8) + BCC_A2 (x(Zr) 0.87397) |
+| SnZr-99Dup.tdb | 1385.56 | LIQUID (x(Zr) 0.29889) + SN2ZR_C54 (x(Zr) 0.33333) + SN3ZR5_D88 (x(Zr) 0.625) |
+| SnZr-99Dup.tdb | 1385.56 | LIQUID (x(Zr) 0.29931) + SN2ZR_C54 (x(Zr) 0.33333) + SN3ZR5_D88 (x(Zr) 0.625) |
+| SnZr-99Dup.tdb | 1261.07 | SNZR4_A15 (x(Zr) 0.8) + HCP_A3 (x(Zr) 0.93551) + BCC_A2 (x(Zr) 0.94559) |
+| SnZr-99Dup.tdb | 1261.07 | SNZR4_A15 (x(Zr) 0.8) + HCP_A3 (x(Zr) 0.93554) + BCC_A2 (x(Zr) 0.94562) |
+| SnZr-99Dup.tdb | 505.03 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 1.600e-4) + SN2ZR_C54 (x(Zr) 0.33333) |
+| SnZr-99Dup.tdb | 505.03 | BCT_A5 (x(Zr) 0) + LIQUID (x(Zr) 1.600e-4) + SN2ZR_C54 (x(Zr) 0.33333) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SN/SN-ZR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SN/SN-ZR.json) · [CALPHAD hull SnZr-08Jer](https://data.orchid-project.org/hulls/calphad-sgte/SN/SN-ZR--SnZr-08Jer.json) · [CALPHAD hull SnZr-19Laf](https://data.orchid-project.org/hulls/calphad-sgte/SN/SN-ZR--SnZr-19Laf.json) · [CALPHAD hull SnZr-98Kor](https://data.orchid-project.org/hulls/calphad-sgte/SN/SN-ZR--SnZr-98Kor.json) · [CALPHAD hull SnZr-98Sub-LB](https://data.orchid-project.org/hulls/calphad-sgte/SN/SN-ZR--SnZr-98Sub-LB.json) · [CALPHAD hull SnZr-98Sub-orig](https://data.orchid-project.org/hulls/calphad-sgte/SN/SN-ZR--SnZr-98Sub-orig.json) · [CALPHAD hull SnZr-99Dup](https://data.orchid-project.org/hulls/calphad-sgte/SN/SN-ZR--SnZr-99Dup.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Sn–Zr system (40)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2265 | congruent: η \<-> Liq | η: Sn 0.398 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 12 |  |
+| 2263 | congruent: η \<-> Liq | η: Sn 0.412 | unspecified | [1] Pérez 2008; _cites Kwon 1990_ [doi](https://doi.org/10.1021/cm00007a005) | Table 5, p. 8, row 11 |  |
+| 2261 | congruent: L = Zr5Sn3 | L: Sn 0.375, Zr 0.625; Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 12 |  |
+| 2260 | congruent: L = Zr5Sn3 | Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 11 |  |
+| 2258 | congruent: η \<-> Liq | η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 10 |  |
+| 2245 | Congruent: Liquid -> Sn3Zr5 | Liquid: Zr 0.625; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 6 |  |
+| 2128 | congruent: L = β Zr | β Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 13 |  |
+| 2128 | congruent: L = β Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 14 |  |
+| 1868.5 | Eutectic: Liquid -> bcc-A2 + Sn3Zr5 | Liquid: Zr 0.892; bcc-A2: Zr 0.844; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 1 |  |
+| 1865 | eutectic: L = β Zr + Zr5Sn3 | Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 2 |  |
+| 1863 | Eutectic: Liq \<-> βZr + η | Liq: Sn 0.191; βZr: Sn 0.17; η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 1 |  |
+| 1859 | Eutectic: Liq \<-> βZr + η | Liq: Sn 0.19; βZr: Sn 0.171; η: Sn 0.381 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 2 |  |
+| 1793 | eutectic: L = β Zr + Zr5Sn3 | L: Sn 0.191; β Zr: Sn 0.17; Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 1 |  |
+| 1600 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | Zr5Sn3: Sn 0.375, Zr 0.625; Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 4 |  |
+| 1598 | Peritectoid: βZr + η \<-> A15 | βZr: Sn 0.12; η: Sn 0.375; A15: Sn 0.2 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 3 |  |
+| 1596 | Peritectoid: βZr + η \<-> A15 | βZr: Sn 0.121; η: Sn 0.376; A15: Sn 0.205 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 4 |  |
+| 1595.5 | Peritectoid: bcc-A2 + Sn3Zr5 -> SnZr4 | bcc-A2: Zr 0.891; Sn3Zr5: Zr 0.625; SnZr4: Zr 0.8 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 2 |  |
+| 1593 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | β Zr: Sn 0.118; Zr5Sn3: Sn 0.4; Zr4Sn: Sn 0.2 | model | [2] Subasic 1998 | Table 1, p. 3, row 3 |  |
+| 1433.3 | Peritectoid: Liquid + Sn3Zr5 -> Sn2Zr | Liquid: Zr 0.189; Sn3Zr5: Zr 0.625; Sn2Zr: Zr 0.333 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 4 |  |
+| 1415 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.375, Zr 0.625; ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 6 |  |
+| 1413 | Peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.367; Liq: Sn 0.7896; ZrSn2: Sn 0.667 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 8 |  |
+| 1412 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.4; L: Sn 0.79; ZrSn2: Sn 0.666 | model | [2] Subasic 1998 | Table 1, p. 3, row 5 |  |
+| 1400 | Peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.443; Liq: Sn 0.7876; ZrSn2: Sn 0.667 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 9 |  |
+| 1255 | peritectoid: β Zr + Zr4Sn = α Zr | Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 8 |  |
+| 1254 | Peritectoid: bcc-A2 + SnZr4 -> hcp-A3 | bcc-A2: Zr 0.968; SnZr4: Zr 0.8; hcp-A3: Zr 0.941 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 3 |  |
+| 1253 | Peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.051; A15: Sn 0.2; αZr: Sn 0.071 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 5 |  |
+| 1252 | peritectoid: β Zr + Zr4Sn = α Zr | β Zr: Sn 0.049; Zr4Sn: Sn 0.2; α Zr: Sn 0.073 | model | [2] Subasic 1998 | Table 1, p. 3, row 7 |  |
+| 1216 | peritectoid: βZr + A15 ↔ αZr |  | experimental | [1] Pérez 2008 | p. 9 | “- The temperature of the peritectoid reaction βZr + A15 ↔ αZr was measured at 1216 K, 40 K below the previously reported values.” |
+| 1216 | Peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.045; A15: Sn 0.195; αZr: Sn 0.065 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 7 |  |
+| 1216 | Peritectoid: βZr + A15 \<-> αZr | A15: Sn 0.2, Zr 0.8 | experimental | [1] Pérez 2008 | Table 5, p. 8, row 6 |  |
+| 1216 | peritectoid: A15 + βZr ↔ αZr |  | experimental | [1] Pérez 2008 | p. 5 | “However, we used the temperature of the peritectoid reaction A15 + βZr ↔ αZr determined in the present work, 1216 ± 5 K, which is 40◦ lower than the value reported in Ref. \[1\] and adopted in previous assessments.” |
+| 1136 | congruent: β Zr = α Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 16 |  |
+| 1136 | congruent: β Zr = α Zr | α Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 15 |  |
+| 505 | congruent: L = β Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 18 |  |
+| 504 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 10 |  |
+| 503 | congruent: L = β Sn | β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 17 |  |
+| 503 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666; β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 9 |  |
+| 502 | Eutectic: Liquid -> Sn2Zr + bct-A5 | Liquid: Zr 0.0056; Sn2Zr: Zr 0.333; bct-A5: Zr 0 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 5 |  |
+| 286 | congruent: β Sn = α Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 20 |  |
+| 286 | congruent: β Sn = α Sn | α Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 19 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Sn–Zr system (25)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| (Zr4Sn) |  | -58.898 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 4 |  |
+| (Zr4Sn) |  | -48.082 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 5 |  |
+| (Zr4Sn) |  | -42.667 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 3 |  |
+| (Zr4Sn) |  | -38.292 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 2 |  |
+| (Zr4Sn) |  | -29.94 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 1 |  |
+| (Zr4Sn)a |  | -58.898 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 4 |  |
+| (Zr4Sn)a |  | -48.082 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 5 |  |
+| (Zr4Sn)a |  | -42.667 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 3 |  |
+| (Zr4Sn)a |  | -38.292 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 2 |  |
+| (Zr4Sn)a |  | -29.94 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 1 |  |
+| Zr5Sn3 |  | -81.551 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 9 |  |
+| Zr5Sn3 |  | -80.96 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 11 |  |
+| Zr5Sn3 |  | -74.345 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 8 |  |
+| Zr5Sn3 |  | -71.2 kJ/mol (basis unstated) | 1473 | experimental |  |  | [1] Pérez 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 4, p. 8, row 10 |  |
+| Zr5Sn3 |  | -71.2 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 7 |  |
+| Zr5Sn3 |  | -55.67 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 6 |  |
+| Zr5Sn4 |  | -85.989 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 15 |  |
+| Zr5Sn4 |  | -79.115 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 14 |  |
+| Zr5Sn4 |  | -74.806 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 13 |  |
+| Zr5Sn4 |  | -58.49 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 12 |  |
+| ZrSn2 |  | -72.639 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 19 |  |
+| ZrSn2 |  | -67.37 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 20 |  |
+| ZrSn2 |  | -56.27 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 18 |  |
+| ZrSn2 |  | -54.874 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 17 |  |
+| ZrSn2 |  | -42.905 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 16 |  |
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Sn–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 505 K | 505 |  | experimental | [2] Subasic 1998 | p. 2 | “The diamond (A4) modification of tin, here denoted a-Sn, is stable below 286 K, and body - centered tetragonal (A5). here denoted P-Sn, is stable up to melting point which is 505 K.” |
+| Phase transition | 2128 K | 2128 |  | experimental | [2] Subasic 1998 | p. 2 | “The high temperature form p-Zr is stable to the melting point of zirconium, which is 2128 K.” |
+| Phase transition | 2263 K | 2263 | congruent | experimental | [1] Pérez 2008; _cites Kwon 1992_ [doi](https://doi.org/10.1021/cm00019a035) | p. 2 | “The phase melts congruently at 2263 K and x = 0.3.” |
+
+### Phase equilibrium (5)
+
+Table: Phase equilibrium, Sn–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase composition |  | 1273 | A15 + η; _A15: Sn 0.19, Zr 0.81; η: Sn 0.358, Zr 0.642_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 2 |  |
+| Phase composition |  | 1273 | A15 + η + αZr; _A15: Sn 0.188, Zr 0.812; η: Sn 0.353, Zr 0.647_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 1 |  |
+| Phase composition |  | 1273 | η + ZrSn2; _η: Sn 0.444, Zr 0.556_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 5 |  |
+| Phase composition |  | 1273 | η(Sn poor) + η(Sn rich); _η(Sn rich): Sn 0.412, Zr 0.588_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 4 |  |
+| Phase composition |  | 1873 | η; _η: Sn 0.392, Zr 0.608_ | experimental | [1] Pérez 2008 | Table 1, p. 3, row 3 |  |
+
+### Mixing / partial (2)
+
+Table: Mixing / partial, Sn–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Partial enthalpy; _printed: partial enthalpy of mixing_ | -114470 J/mol | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5 | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
+| Partial enthalpy; _printed: partial enthalpy of mixing_ | -6503 J/mol | 1873 |  | experimental | [1] Pérez 2008; _cites Valishev 1992_ | p. 5 | “The values of the partial enthalpy of mixing in Sn rich alloys measured by calorimetry at 1873 K decreases from -6503 J/mol at 0.58 at.% Zr to -114 470 J/mol at 31.6 at.% Zr after Valishev et al. \[15\].” |
+
+### Crystal structure (2)
+
+Table: Crystal structure, Sn–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| site fractional coordinates |  | 298.15 | A15 | unspecified | [1] Pérez 2008 | Table 2, p. 4, row 8 |  |
+| site fractional coordinates |  | 298.15 | A15 | unspecified | [1] Pérez 2008 | Table 2, p. 4, row 7 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. R. Jerlerud Pérez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, The Zr–Sn binary system: New experimental results and thermodynamic assessment, Calphad 32, 593-601 (2008). [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001)
+2. Nihad Subasic, Thermodynamic evaluation of Sn-Zr phase diagram, Calphad 22, 157-165 (1998). [doi:10.1016/s0364-5916(98)00021-2](https://doi.org/10.1016/s0364-5916%2898%2900021-2)
+3. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

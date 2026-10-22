@@ -1,0 +1,67 @@
+# Ga–Tl system
+
+> Ga–Tl system: 3 accepted literature values (phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/GA-TL.html · Markdown: https://data.orchid-project.org/systems/GA-TL.md
+
+3 accepted literature values from 1 paper(s) (unspecified 3); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-TL.json) · [CSV](https://data.orchid-project.org/systems/GA-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-TL/GaTl-17Kim.json) · [Markdown](https://data.orchid-project.org/systems/GA-TL.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| unspecified | 3 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| GaTl-17Kim.tdb | Y. Kim, H.G. Kim, Y.-B. Kang, G. Kaptay, J. Lee, Metall. Mater. Trans. A, 48A, 3130-36(2017). [doi:10.1007/s11661-017-4075-0](https://doi.org/10.1007/s11661-017-4075-0) | `d3153766bf3da028e0abc606bdee5420e2af2fa5da6ab7cc9de4eb6e3c805bd7` | [viewer](https://orchid-project.org/phase-diagrams/#GA-TL/GaTl-17Kim.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GaTl-17Kim.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GaTl-17Kim.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| GaTl-17Kim.tdb | 557.13 | LIQUID (x(Tl) 0.01968) + LIQUID#2 (x(Tl) 0.96321) + BCC_A2 (x(Tl) 0.99999) |
+| GaTl-17Kim.tdb | 506.99 | LIQUID (x(Tl) 0.01089) + HCP_A3 (x(Tl) 1) + BCC_A2 (x(Tl) 1) |
+| GaTl-17Kim.tdb | 506.99 | LIQUID (x(Tl) 0.01089) + BCC_A2 (x(Tl) 1) + HCP_A3 (x(Tl) 1) |
+| GaTl-17Kim.tdb | 506.99 | LIQUID (x(Tl) 0.0109) + HCP_A3 (x(Tl) 1) + BCC_A2 (x(Tl) 1) |
+| GaTl-17Kim.tdb | 302.88 | ORTHORHOMBIC_A11 (x(Tl) 0) + LIQUID (x(Tl) 2.300e-4) + HCP_A3 (x(Tl) 1) |
+| GaTl-17Kim.tdb | 302.88 | ORTHORHOMBIC_A11 (x(Tl) 0) + LIQUID (x(Tl) 2.300e-4) + HCP_A3 (x(Tl) 1) |
+| GaTl-17Kim.tdb | 302.88 | ORTHORHOMBIC_A11 (x(Tl) 0) + LIQUID (x(Tl) 2.300e-4) + HCP_A3 (x(Tl) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-TL.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-TL.json)
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Ga–Tl system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 810 K | 810 | other: Ga30Tl70; _alloy: Ga 0.3, Tl 0.7_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 4 |  |
+| Phase transition | 843 K | 843 | other: Ga50Tl50; _alloy: Ga 0.5, Tl 0.5_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 3 |  |
+| Phase transition | 849 K | 849 | other: Ga70Tl30; _alloy: Ga 0.7, Tl 0.3_ | unspecified | [1] Kim 2017 | Table I, p. 2, row 2 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Yunkyum Kim, Han Gyeol Kim, Youn-Bae Kang, George Kaptay, Joonho Lee, Prediction of Phase Separation of Immiscible Ga-Tl Alloys, Metall Mater Trans A 48, 3130-3136 (2017). [doi:10.1007/s11661-017-4075-0](https://doi.org/10.1007/s11661-017-4075-0)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

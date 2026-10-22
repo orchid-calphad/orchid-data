@@ -1,0 +1,39 @@
+# AuSn4: enthalpy of formation
+
+> Enthalpy of formation of AuSn4: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/AuSn4.html · Markdown: https://data.orchid-project.org/compounds/AuSn4.md
+
+2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -7.214 kJ/mol-atom (mp-aaaaacbp); OQMD -13.929 kJ/mol-atom (oqmd-19456).
+
+Systems: [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)
+
+## Literature values
+
+Table: Enthalpy of formation of AuSn4 reported in the literature (2)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -7.2 kJ/mol-atom | AuSn4 |  | model |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 7 |  |
+| -7.19 kJ/mol-atom | AuSn4 | 0 | DFT | ab initio | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 6 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of AuSn4
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaacbp | -7.214 | -0.07477 | Ccce | 0.482 | no |
+| OQMD | oqmd-19456 | -13.929 | -0.144362 | Ccca | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022). [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

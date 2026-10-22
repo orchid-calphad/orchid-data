@@ -1,0 +1,91 @@
+# Ti–V system
+
+> Ti–V system: 22 accepted literature values (crystal structure 20, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/TI-V.html · Markdown: https://data.orchid-project.org/systems/TI-V.md
+
+22 accepted literature values from 3 paper(s) (experimental 1, model 1, DFT 20); 6 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/TI-V.json) · [CSV](https://data.orchid-project.org/systems/TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-V/TiV-02Gho-LB.json) · [Markdown](https://data.orchid-project.org/systems/TI-V.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 1 |
+| model | 1 |
+| DFT | 20 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 2 |
+| crystal structure | 20 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| TiV-02Gho-LB.tdb | G. Ghosh, J. Phase Equilib., 23, 310-28(2002). [doi:10.1361/105497102770331569](https://doi.org/10.1361/105497102770331569) | `e28bba4cf464a99c77e8c0f105b6bef26fbd7d22d47221c20ada343216825129` | [viewer](https://orchid-project.org/phase-diagrams/#TI-V/TiV-02Gho-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TiV-02Gho-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TiV-02Gho-LB.json) |
+| TiV-16Yan.tdb | J.-Y. Yan, G.B. Olson, J. Alloys Compd., 673, 441-54(2016). [doi:10.1016/j.jallcom.2016.02.251](https://doi.org/10.1016/j.jallcom.2016.02.251) | `7d4bb1407b26ae190e5418dad94818fe6508117719dc11cee9bc8426f2a5dc25` | [viewer](https://orchid-project.org/phase-diagrams/#TI-V/TiV-16Yan.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TiV-16Yan.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TiV-16Yan.json) |
+| TiV-18Hu.tdb | B. Hu, Y. Jiang, J. Wang, B. Yao, F. Min, Y. Du, Calphad, 62, 75-82(2018). [doi:10.1016/j.calphad.2018.05.007](https://doi.org/10.1016/j.calphad.2018.05.007) | `141eaff2ffa0c132e2882bdc2ce3fc59be5a46053ed5d2d20c2e34911979e6d2` | [viewer](https://orchid-project.org/phase-diagrams/#TI-V/TiV-18Hu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TiV-18Hu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TiV-18Hu.json) |
+| TiV-90Sau.tdb | N. Saunders, Report to NPL contract No. 022805/10B, 1990. Cited from K.C. Hari Kumar, P. Wollants, L. Delaey, Calphad, 18, 71-79(1994). [doi:10.1016/0364-5916(90)90040-7](https://doi.org/10.1016/0364-5916%2890%2990040-7) | `e10fac912e69679f27ed86eadc9dd7da8b9646e4d0d9567c6d744387b081fcca` | [viewer](https://orchid-project.org/phase-diagrams/#TI-V/TiV-90Sau.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TiV-90Sau.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TiV-90Sau.json) |
+| TiV-98Sau.tdb | N. Saunders, COST 507, Final report round 2, 1998. | `610f6137add069a67604a8bcec91c5bd9362aae7b859f4a782a5666ef6b81d5c` | [viewer](https://orchid-project.org/phase-diagrams/#TI-V/TiV-98Sau.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TiV-98Sau.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TiV-98Sau.json) |
+| TiV-99Lee.tdb | J.Y. Lee, J.H. Kim, S.I. Park, H.M. Lee, J. Alloys Compd., 291, 229-38(1999). [doi:10.1016/S0925-8388(99)00144-9](https://doi.org/10.1016/S0925-8388%2899%2900144-9) | `45e3a36f6326de8669dccdd26c01378f91912cba34a7132fb79cebc32443011b` | [viewer](https://orchid-project.org/phase-diagrams/#TI-V/TiV-99Lee.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/TiV-99Lee.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/TiV-99Lee.json) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/TI/TI-V.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/TI/TI-V.json) · [CALPHAD hull TiV-02Gho-LB](https://data.orchid-project.org/hulls/calphad-sgte/TI/TI-V--TiV-02Gho-LB.json) · [CALPHAD hull TiV-16Yan](https://data.orchid-project.org/hulls/calphad-sgte/TI/TI-V--TiV-16Yan.json) · [CALPHAD hull TiV-90Sau](https://data.orchid-project.org/hulls/calphad-sgte/TI/TI-V--TiV-90Sau.json) · [CALPHAD hull TiV-98Sau](https://data.orchid-project.org/hulls/calphad-sgte/TI/TI-V--TiV-98Sau.json) · [CALPHAD hull TiV-99Lee](https://data.orchid-project.org/hulls/calphad-sgte/TI/TI-V--TiV-99Lee.json)
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Ti–V system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1881 K | 1881 | Congruent: bcc-A2 -> Liquid; _bcc-A2: V 0.333; Liquid: V 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 314, row 1 |  |
+| Phase transition | 1881 K | 1881 | other | experimental | [2] Ghosh 2002; _cites Rudy 1969_ | p. 3 | “The liquidus and solidus have a minima at 31 at.% V and 1881 ± 5 K \[1969Rud, 1975Col\].” |
+
+### Crystal structure (20)
+
+Table: Crystal structure, Ti–V system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 2.742 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 7 |  |
+| Lattice a | 3.252 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3 |  |
+| Lattice a | 3.259 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3 |  |
+| Lattice a | 4.256 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 6 |  |
+| Lattice a | 4.115 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4 |  |
+| Lattice a | 4.109 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4 |  |
+| Lattice a | 3 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 5 |  |
+| Lattice a | 2.993 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 5 |  |
+| Lattice a | 2.939 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
+| Lattice a | 2.933 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
+| Lattice a | 3.817 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 8 |  |
+| Lattice a | 3.819 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 8 |  |
+| Lattice a | 4.577 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
+| Lattice a | 4.572 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
+| Lattice c | 4.325 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 7 |  |
+| Lattice c | 2.631 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 6 |  |
+| Lattice c | 4.641 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
+| Lattice c | 4.657 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
+| Lattice c | 2.828 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
+| Lattice c | 2.829 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. G. Ghosh, Thermodynamic and kinetic modeling of the Cr-Ti-V system, JPE 23, 310-328 (2002). [doi:10.1361/105497102770331569](https://doi.org/10.1361/105497102770331569)
+3. Biao Hu, Soumya Sridar, Liangyan Hao, Wei Xiong, A new thermodynamic modeling of the Ti–V system including the metastable ω phase, Intermetallics 122, 106791 (2020). [doi:10.1016/j.intermet.2020.106791](https://doi.org/10.1016/j.intermet.2020.106791)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

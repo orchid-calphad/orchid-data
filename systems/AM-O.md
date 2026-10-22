@@ -1,0 +1,200 @@
+# Am–O system
+
+> Am–O system: 88 accepted literature values (crystal structure 56, formation 10, heat capacity / entropy / enthalpy 10, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AM-O.html · Markdown: https://data.orchid-project.org/systems/AM-O.md
+
+88 accepted literature values from 2 paper(s) (experimental 66, model 22); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AM-O.json) · [CSV](https://data.orchid-project.org/systems/AM-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AM-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-O/AmO-11Got.json) · [Markdown](https://data.orchid-project.org/systems/AM-O.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 66 |
+| model | 22 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 4 |
+| phase equilibrium | 3 |
+| formation | 10 |
+| heat capacity / entropy / enthalpy | 10 |
+| activity / EMF / Gibbs energy | 2 |
+| crystal structure | 56 |
+| other property | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AmO-11Got.tdb | P. Gotcu-Freis, J.-Y. Colle, C. Gueneau, N. Dupin, B. Sundman, R.J.M. Konings, J. Nucl. Mater., 414, 408-21(2011). [doi:10.1016/j.jnucmat.2011.05.014](https://doi.org/10.1016/j.jnucmat.2011.05.014) | `1d255c8beb1f09b86cb0fe1dcd18d2de9a5964359d343f52b49debc5faa34e02` | [viewer](https://orchid-project.org/phase-diagrams/#AM-O/AmO-11Got.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AmO-11Got.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AmO-11Got.json) |
+| AmO-17Epi.tdb | E. Epifano, C. Gueneau, R.C. Belin, R. Vauchy, F. Lebreton, J.-C. Richaud, A. Joly, C. Valot, P.M. Martin, Inorg. Chem., 56, 7416-32(2017). [doi:10.1021/acs.inorgchem.7b00572](https://doi.org/10.1021/acs.inorgchem.7b00572) | `ca6b8ebfc913b566617c00f6ae6f7772a41cc7368b15f7c4bcc13cefd460be52` | [viewer](https://orchid-project.org/phase-diagrams/#AM-O/AmO-17Epi.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AmO-17Epi.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AmO-17Epi.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AmO-11Got.tdb | 2306.9 | ION (x(O) 0.62896) + AMO2_C1 (x(O) 0.63641) + GAS (x(O) 0.99887) |
+| AmO-17Epi.tdb | 2265.05 | ION (x(O) 0.62919) + AMO2_C1 (x(O) 0.63844) + GAS (x(O) 0.99923) |
+
+Convex hulls: [CALPHAD hull AmO-11Got](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-O--AmO-11Got.json)
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Am–O system (10)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Am2O3 |  | -338.54 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1 |  |
+| Am2O3 |  | -338.08 kJ/mol-atom ± 8 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
+| Am2O3 |  | -338.08 kJ/mol-atom ± 8 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
+| AmO2 |  | -310.767 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
+| AmO2 |  | -310.733 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
+| AmO2 |  | -310.567 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
+| UNKNOWN |  | -338.08 kJ/mol-atom ± 8 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
+| UNKNOWN |  | -338.08 kJ/mol-atom ± 8 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
+| UNKNOWN |  | -310.767 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
+| UNKNOWN |  | -310.733 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
+
+## Other properties
+
+### Phase transition (4)
+
+Table: Phase transition, Am–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 620 K | 620 | other | experimental | [2] Epifano 2017; _cites ref. 23_ | p. 3 | “At lower temperatures, the DTA measurements of Sari and Zamorani23 show another phase transition at around 620 K, in the O/Am > 1.7 domain.” |
+| Phase transition | 1315 K | 1315 | other | model | [2] Epifano 2017 | p. 14 | “The temperature stability for this phase was extended here up to 1315 K.” |
+| Phase transition | 2386 K | 2386 | AmO2-x | experimental | [2] Epifano 2017; _cites ref. 25_ | p. 4 | “The values are 2481 ± 15 K for A-Am2O3 and 2386 K for AmO2-x (the O/Am ratio reached during the melting process is unknown).” |
+| Phase transition | 2481 K | 2481 | A-Am2O3 | experimental | [2] Epifano 2017; _cites ref. 25_ | p. 4 | “The values are 2481 ± 15 K for A-Am2O3 and 2386 K for AmO2-x (the O/Am ratio reached during the melting process is unknown).” |
+
+### Phase equilibrium (3)
+
+Table: Phase equilibrium, Am–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase assemblage |  | 1101.5 | C-AmO1.61+x + A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 3, p. 3, row 2 |  |
+| Phase assemblage |  | 1273 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 3, p. 3, row 4 |  |
+| Phase assemblage |  | 2481 | A-Am2O3 + liquid; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 25_ | Table 3, p. 3, row 13 |  |
+
+### Heat capacity / entropy / enthalpy (10)
+
+Table: Heat capacity / entropy / enthalpy, Am–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°(298.15 K)_ | 26.72 J/mol-atom/K ± 5 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
+| Entropy; _printed: S°(298.15 K)_ | 32 J/mol-atom/K ± 15 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
+| Entropy; _printed: S°(298.15 K)_ | 27.342 J/mol-atom/K | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1 |  |
+| Entropy; _printed: S°(298.15 K)_ | 22.3333 J/mol-atom/K ± 10 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
+| Entropy; _printed: S°(298.15 K)_ | 23.3533 J/mol-atom/K | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
+| Entropy; _printed: S°(298.15 K)_ | 25.1667 J/mol-atom/K ± 5 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
+| Entropy; _printed: S°(298.15 K)_ | 22.3333 J/mol-atom/K ± 10 | 298.15 | UNKNOWN; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
+| Entropy; _printed: S°(298.15 K)_ | 25.1667 J/mol-atom/K ± 5 | 298.15 | UNKNOWN; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
+| Entropy; _printed: S°(298.15 K)_ | 26.72 J/mol-atom/K ± 5 | 298.15 | UNKNOWN; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
+| Entropy; _printed: S°(298.15 K)_ | 32 J/mol-atom/K ± 15 | 298.15 | UNKNOWN; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
+
+### Activity / EMF / Gibbs energy (2)
+
+Table: Activity / EMF / Gibbs energy, Am–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Chemical potential; _printed: ΔG̅ O2_ | -140 kJ mol-1 | 1500 | AmO2-x + A-Am2O3 | experimental | [2] Epifano 2017 | p. 16 | “Second, the AmO2-x → AmO2-x + A-Am2O3 phase transition was observed at 1500 K by imposing the calculated oxygen potential ΔG̅ O2 ∼ -140 kJ mol-1.” |
+| Vapour pressure; _printed: pO2_ | 2.000e-5 atm | 1500 | A-Am2O3 + AmO2-x | model | [2] Epifano 2017 | p. 6 | “The main goal was to observe the hexagonal sesquioxide AAm2O3 at T = 1500 K. According to the thermodynamic computations, the phase transition should occur at this temperature under pO2 ≈ 2 × 10-5 atm.” |
+
+### Crystal structure (56)
+
+Table: Crystal structure, Am–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 3.821 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18 |  |
+| Lattice a | 3.815 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16 |  |
+| Lattice a | 3.81 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17 |  |
+| Lattice a | 3.805 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 14.38 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19 |  |
+| Lattice a | 11.023 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 13 |  |
+| Lattice a | 11.02 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 14 |  |
+| Lattice a | 11.03 Å ± 0.01 | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 9_ | Table 1, p. 2, row 11 |  |
+| Lattice a | 11.013 Å | 298.15 | C-AmO1.5+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 10.966 Å ± 0.005 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 10.97 Å ± 0.02 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 10.92 Å ± 0.02 | 298.15 | C-AmO1.61+x | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 5.375 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 18_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 5.3772 Å ± 4.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 2 |  |
+| Lattice a | 5.373 Å ± 0.002 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 17_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 5.376 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 5.3724 Å ± 4.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 5.3897 Å ± 2.000e-4 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 5.377 Å ± 0.003 | 298.15 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 8_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 5.377 Å ± 0.001 | 303 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 18 |  |
+| Lattice a | 5.375 Å | 303 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 20 |  |
+| Lattice a | 5.383 Å ± 0.001 | 373 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 17 |  |
+| Lattice a | 5.381 Å | 423 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 21 |  |
+| Lattice a | 5.389 Å ± 0.001 | 473 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 16 |  |
+| Lattice a | 5.396 Å ± 0.001 | 573 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 15 |  |
+| Lattice a | 5.389 Å | 573 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 22 |  |
+| Lattice a | 5.402 Å ± 0.001 | 673 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 14 |  |
+| Lattice a | 5.396 Å | 700 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 23 |  |
+| Lattice a | 5.408 Å ± 0.001 | 773 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 13 |  |
+| Lattice a | 5.403 Å | 823 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 24 |  |
+| Lattice a | 5.414 Å ± 0.001 | 873 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 12 |  |
+| Lattice a | 5.409 Å | 923 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 25 |  |
+| Lattice a | 5.418 Å ± 0.001 | 973 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 11 |  |
+| Lattice a | 5.415 Å | 1023 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 26 |  |
+| Lattice a | 5.428 Å ± 0.001 | 1073 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 10 |  |
+| Lattice a | 5.421 Å | 1120 | UNKNOWN | experimental | [2] Epifano 2017; _cites ref. 11_ | Table 6, p. 10, row 27 |  |
+| Lattice a | 5.436 Å ± 0.001 | 1173 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 9 |  |
+| Lattice a | 5.444 Å ± 0.001 | 1273 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 8 |  |
+| Lattice a | 5.455 Å ± 0.001 | 1373 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 7 |  |
+| Lattice a | 5.468 Å ± 0.001 | 1473 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 6 |  |
+| Lattice a | 5.527 Å ± 0.001 | 1500 | Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017 | Table 6, p. 10, row 19 |  |
+| Lattice a | 5.483 Å ± 0.001 | 1573 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 5 |  |
+| Lattice a | 5.497 Å ± 0.001 | 1673 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 4 |  |
+| Lattice a | 5.511 Å ± 0.001 | 1773 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 3 |  |
+| Lattice a | 5.522 Å ± 0.001 | 1873 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 2 |  |
+| Lattice a | 5.527 Å ± 0.001 | 1894 | UNKNOWN | experimental | [2] Epifano 2017 | Table 6, p. 10, row 1 |  |
+| Lattice b | 3.821 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18 |  |
+| Lattice b | 3.815 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16 |  |
+| Lattice b | 3.81 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17 |  |
+| Lattice b | 3.805 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15 |  |
+| Lattice b | 3.52 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19 |  |
+| Lattice c | 5.984 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 10_ | Table 1, p. 2, row 18 |  |
+| Lattice c | 5.975 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 15_ | Table 1, p. 2, row 16 |  |
+| Lattice c | 5.957 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 16_ | Table 1, p. 2, row 17 |  |
+| Lattice c | 5.96 Å | 298.15 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 8.92 Å | 298.15 | B-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 1, p. 2, row 19 |  |
+
+### Other property (3)
+
+Table: Other property, Am–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Other; _printed: O/Am_ | 1.67 unspecified | 1220 | AmO1.61+x + AmO2-x | experimental | [2] Epifano 2017 | p. 12 | “• A point on the phase boundary between AmO1.61+x and the biphasic region AmO2-x/AmO1.61+x: T = 1220 K and O/Am = 1.67;” |
+| Other; _printed: O/Am_ | 1.67 unspecified | 1220 | C-AmO1.61+x | experimental | [2] Epifano 2017 | p. 11 | “For the phase boundary where the C-AmO1.61+x phase precipitates at 1220 K, the evaluated O/Am ratio is 1.67.” |
+| Other; _printed: O/Am_ | 1.59 unspecified | 1500 | AmO2-x + A-Am2O3 | experimental | [2] Epifano 2017 | p. 12 | “• The point on the phase boundary between AmO2-x and the biphasic region AmO2-x/A-Am2O3: T = 1500 K and O/Am = 1.59;” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. P. Gotcu-Freis, J.-Y. Colle, C. Guéneau, N. Dupin, B. Sundman, R.J.M. Konings, A thermodynamic study of the Pu–Am–O system, Journal of Nuclear Materials 414, 408-421 (2011). [doi:10.1016/j.jnucmat.2011.05.014](https://doi.org/10.1016/j.jnucmat.2011.05.014)
+2. Enrica Epifano, Christine Guéneau, Renaud C. Belin, Romain Vauchy, Florent Lebreton, Jean-Christophe Richaud et al., Insight into the Am–O Phase Equilibria: A Thermodynamic Study Coupling High-Temperature XRD and CALPHAD Modeling, Inorg. Chem. 56, 7416-7432 (2017). [doi:10.1021/acs.inorgchem.7b00572](https://doi.org/10.1021/acs.inorgchem.7b00572)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

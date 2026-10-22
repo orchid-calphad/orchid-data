@@ -1,0 +1,40 @@
+# Cd2Gd: enthalpy of formation
+
+> Enthalpy of formation of Cd2Gd: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Cd2Gd.html · Markdown: https://data.orchid-project.org/compounds/Cd2Gd.md
+
+3 accepted literature formation-enthalpy value(s) (model 3); Materials Project -31.052 kJ/mol-atom (mp-aaaabfaj); OQMD -32.441 kJ/mol-atom (oqmd-11026).
+
+Systems: [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Cd2Gd reported in the literature (3)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -43.89 kJ/mol-atom | α-Cd2Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 5 |  |
+| -43.88 kJ/mol-atom | β-Cd2Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 3 |  |
+| -42.96 kJ/mol-atom | α-Cd2Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 4 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Cd2Gd
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaabfaj | -31.052 | -0.321837 | P6/mmm | 0 | no |
+| OQMD | oqmd-11026 | -32.441 | -0.336225 | P-3m1 | 0.145 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Hassan Azza, Mustapha Ait Boukideur, Khadija Achgar, Mohamed Idbenali, Najim Selhaoui, Thermodynamic Description of the Gadolinium-Cadmium Phase Diagram, J. Phase Equilib. Diffus. 45, 714-722 (2024). [doi:10.1007/s11669-024-01127-6](https://doi.org/10.1007/s11669-024-01127-6)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

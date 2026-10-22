@@ -1,0 +1,96 @@
+# Os–Si system
+
+> Os–Si system: 18 accepted literature values (invariant reaction 17, phase equilibrium 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/OS-SI.html · Markdown: https://data.orchid-project.org/systems/OS-SI.md
+
+18 accepted literature values from 1 paper(s) (experimental 13, model 5); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/OS-SI.json) · [CSV](https://data.orchid-project.org/systems/OS-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#OS-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#OS-SI/OsSi-01Liu-LB.json) · [Markdown](https://data.orchid-project.org/systems/OS-SI.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 13 |
+| model | 5 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 17 |
+| phase equilibrium | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| OsSi-01Liu-LB.tdb | Y.Q. Liu, G. Shao, K.P. Homewood, J. Alloys Compd., 320, 72-79(2001). [doi:10.1016/S0925-8388(01)00931-8](https://doi.org/10.1016/S0925-8388%2801%2900931-8) | `661081800c525b84650d894af942f1a36a9a98bddd7f6dc44ddd1d32320c9649` | [viewer](https://orchid-project.org/phase-diagrams/#OS-SI/OsSi-01Liu-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/OsSi-01Liu-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/OsSi-01Liu-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| OsSi-01Liu-LB.tdb | 2013.01 | LIQUID (x(Si) 0.4572) + MSI_B20 (x(Si) 0.5) + OS2SI3 (x(Si) 0.6) |
+| OsSi-01Liu-LB.tdb | 2013.01 | LIQUID (x(Si) 0.45739) + MSI_B20 (x(Si) 0.5) + OS2SI3 (x(Si) 0.6) |
+| OsSi-01Liu-LB.tdb | 2013.01 | LIQUID (x(Si) 0.45698) + MSI_B20 (x(Si) 0.5) + OS2SI3 (x(Si) 0.6) |
+| OsSi-01Liu-LB.tdb | 1990.3 | HCP_A3 (x(Si) 0) + LIQUID (x(Si) 0.41952) + MSI_B20 (x(Si) 0.5) |
+| OsSi-01Liu-LB.tdb | 1990.3 | HCP_A3 (x(Si) 0) + LIQUID (x(Si) 0.41947) + MSI_B20 (x(Si) 0.5) |
+| OsSi-01Liu-LB.tdb | 1990.3 | HCP_A3 (x(Si) 0) + LIQUID (x(Si) 0.41939) + MSI_B20 (x(Si) 0.5) |
+| OsSi-01Liu-LB.tdb | 1990.3 | HCP_A3 (x(Si) 0) + LIQUID (x(Si) 0.41938) + MSI_B20 (x(Si) 0.5) |
+| OsSi-01Liu-LB.tdb | 1922.11 | OS2SI3 (x(Si) 0.6) + OSSI2 (x(Si) 0.66667) + LIQUID (x(Si) 0.78483) |
+| OsSi-01Liu-LB.tdb | 1922.11 | OS2SI3 (x(Si) 0.6) + OSSI2 (x(Si) 0.66667) + LIQUID (x(Si) 0.7846) |
+| OsSi-01Liu-LB.tdb | 1616.01 | OSSI2 (x(Si) 0.66667) + LIQUID (x(Si) 0.9088) + DIAMOND_A4 (x(Si) 1) |
+| OsSi-01Liu-LB.tdb | 1616.01 | OSSI2 (x(Si) 0.66667) + LIQUID (x(Si) 0.90893) + DIAMOND_A4 (x(Si) 1) |
+| OsSi-01Liu-LB.tdb | 1616.01 | OSSI2 (x(Si) 0.66667) + LIQUID (x(Si) 0.909) + DIAMOND_A4 (x(Si) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/OS/OS-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/OS/OS-SI.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Os–Si system (17)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2113 | liquid = Os2Si3 | liquid: Os 0.4, Si 0.6; Os2Si3: Os 0.4, Si 0.6 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 1 |  |
+| 2102 | liquid = Os2Si3 | liquid: Os 0.4, Si 0.6; Os2Si3: Os 0.4, Si 0.6 | model | [1] Liu 2001 | Table 4, p. 8, row 2 |  |
+| 2011 | liquid + Os2Si3 = OsSi | liquid: Si 0.46; Os2Si3: Si 0.6; OsSi: Si 0.5 | model | [1] Liu 2001 | Table 4, p. 8, row 10 |  |
+| 2003 | peritectic: liquid + Os2Si3 -> OsSi |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3 | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
+| 2003 | liquid + Os2Si3 = OsSi | Os2Si3: Si 0.6; OsSi: Si 0.5 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 9 |  |
+| 1993 | liquid = OsSi + (Os) | liquid: Si 0.45; OsSi: Si 0.5; (Os): Si 0 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 11 |  |
+| 1993 | eutectic: liquid -> (Os) + OsSi |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3 | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
+| 1988 | liquid = OsSi + (Os) | liquid: Si 0.42; OsSi: Si 0.5; (Os): Si 0 | model | [1] Liu 2001 | Table 4, p. 8, row 12 |  |
+| 1921 | liquid + Os2Si3 = OsSi2 | liquid: Si 0.78; Os2Si3: Si 0.6; OsSi2: Si 0.667 | model | [1] Liu 2001 | Table 4, p. 8, row 4 |  |
+| 1913 | liquid + Os2Si3 = OsSi2 | liquid: Si 0.72; Os2Si3: Si 0.6; OsSi2: Si 0.667 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 3 |  |
+| 1913 | peritectic: liquid + Os2Si3 -> OsSi2 |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3 | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
+| 1633 | liquid = OsSi2 + Diamond | OsSi2: Os 0.333333, Si 0.666667 | experimental | [1] Liu 2001; _cites Finnie 1962_ [doi](https://doi.org/10.1016/0022-5088%2862%2990055-3) | Table 4, p. 8, row 7 |  |
+| 1633 | liquid = OsSi2 + Diamond | liquid: Si 0.88; OsSi2: Si 0.667; Diamond: Si 1 | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | Table 4, p. 8, row 5 |  |
+| 1633 | eutectic: liquid -> (Si) + OsSi2 |  | experimental | [1] Liu 2001; _cites Schellenberg 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990148-8) | p. 3 | “Two eutectic and two peritectic transformations were identified: E1: liquid5(Si)1OsSi 2 at 1633 K, consistent with the results of \[8,23\]. E2: liquid5(Os)1OsSi at 1993 K. P1: liquid1Os 2 Si 3 5OsSi at 2003 K. P2: liquid1Os 2 Si 3 5OsSi 2 at 1913 K.” |
+| 1630 | liquid = OsSi2 + Diamond | liquid: Si 0.9; OsSi2: Os 0.333333, Si 0.666667 | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | Table 4, p. 8, row 6 |  |
+| 1630 | eutectic |  | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | p. 3 | “On slow cooling, OsSi 2 crystallized until the eutectic temperature was reached at 1630 K.” |
+| 1615 | liquid = OsSi2 + Diamond | liquid: Si 0.9; OsSi2: Si 0.667; Diamond: Si 1 | model | [1] Liu 2001 | Table 4, p. 8, row 8 |  |
+
+## Other properties
+
+### Phase equilibrium (1)
+
+Table: Phase equilibrium, Os–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase assemblage |  | 1730 | liquid; _alloy: Os 0.15, Si 0.85_ | experimental | [1] Liu 2001; _cites Mason 1983_ [doi](https://doi.org/10.1016/0022-0248%2883%2990424-4) | p. 3 | “It was found that the mixture of 15 at.% Os and 85 at.% Si was completely liquid at 1730 K.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Y.Q. Liu, G. Shao, K.P. Homewood, Thermodynamic assessment of the Ru–Si and Os–Si systems, Journal of Alloys and Compounds 320, 72-79 (2001). [doi:10.1016/s0925-8388(01)00931-8](https://doi.org/10.1016/s0925-8388%2801%2900931-8)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

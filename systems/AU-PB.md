@@ -1,0 +1,127 @@
+# Au–Pb system
+
+> Au–Pb system: 35 accepted literature values (invariant reaction 33, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AU-PB.html · Markdown: https://data.orchid-project.org/systems/AU-PB.md
+
+35 accepted literature values from 1 paper(s) (experimental 23, model 12); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-PB.json) · [CSV](https://data.orchid-project.org/systems/AU-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-PB/AuPb-04Wan-LB.json) · [Markdown](https://data.orchid-project.org/systems/AU-PB.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 23 |
+| model | 12 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 33 |
+| phase transition | 2 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AuPb-04Wan-LB.tdb | J. Wang, H.S. Liu, Z.P. Jin, Calphad, 28, 91-95(2004). [doi:10.1016/j.calphad.2004.05.003](https://doi.org/10.1016/j.calphad.2004.05.003) | `c40850c0dc0ef3a1e6c1a5f2667432486c26082edd606b05d7263648487b09ac` | [viewer](https://orchid-project.org/phase-diagrams/#AU-PB/AuPb-04Wan-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AuPb-04Wan-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AuPb-04Wan-LB.json) |
+| AuPb-86Nab-LB.tdb | J.-P. Nabot, Thesis, INPG, Grenoble, 1986. | `7b2df32722d0e251981742e1ccad1131f89d34231985db1663abde6ff47fd976` | [viewer](https://orchid-project.org/phase-diagrams/#AU-PB/AuPb-86Nab-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AuPb-86Nab-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AuPb-86Nab-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AuPb-04Wan-LB.tdb | 706.92 | FCC_A1 (x(Pb) 0.00159) + AU2PB_C15 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.45977) |
+| AuPb-04Wan-LB.tdb | 706.92 | FCC_A1 (x(Pb) 0.0016) + AU2PB_C15 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.45964) |
+| AuPb-04Wan-LB.tdb | 525.62 | AU2PB_C15 (x(Pb) 0.33333) + AUPB2_C16 (x(Pb) 0.66667) + LIQUID (x(Pb) 0.74107) |
+| AuPb-04Wan-LB.tdb | 525.62 | AU2PB_C15 (x(Pb) 0.33333) + AUPB2_C16 (x(Pb) 0.66667) + LIQUID (x(Pb) 0.74134) |
+| AuPb-04Wan-LB.tdb | 525.62 | AU2PB_C15 (x(Pb) 0.33333) + AUPB2_C16 (x(Pb) 0.66667) + LIQUID (x(Pb) 0.7409) |
+| AuPb-04Wan-LB.tdb | 495.35 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.82581) |
+| AuPb-04Wan-LB.tdb | 495.35 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.82607) |
+| AuPb-04Wan-LB.tdb | 495.35 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.82623) |
+| AuPb-04Wan-LB.tdb | 495.35 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.82624) |
+| AuPb-04Wan-LB.tdb | 487.82 | AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.84825) + FCC_A1 (x(Pb) 0.99988) |
+| AuPb-04Wan-LB.tdb | 487.82 | AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.84833) + FCC_A1 (x(Pb) 0.99988) |
+| AuPb-04Wan-LB.tdb | 379.16 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + FCC_A1 (x(Pb) 0.99999) |
+| AuPb-04Wan-LB.tdb | 379.16 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + FCC_A1 (x(Pb) 0.99999) |
+| AuPb-04Wan-LB.tdb | 379.16 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + FCC_A1 (x(Pb) 0.99999) |
+| AuPb-04Wan-LB.tdb | 379.16 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + FCC_A1 (x(Pb) 0.99999) |
+| AuPb-86Nab-LB.tdb | 703.67 | FCC_A1 (x(Pb) 0.0221) + AU2PB_C15 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.4448) |
+| AuPb-86Nab-LB.tdb | 703.67 | FCC_A1 (x(Pb) 0.0221) + AU2PB_C15 (x(Pb) 0.33333) + LIQUID (x(Pb) 0.44477) |
+| AuPb-86Nab-LB.tdb | 526.29 | AU2PB_C15 (x(Pb) 0.33333) + AUPB2_C16 (x(Pb) 0.66667) + LIQUID (x(Pb) 0.73458) |
+| AuPb-86Nab-LB.tdb | 526.29 | AU2PB_C15 (x(Pb) 0.33333) + AUPB2_C16 (x(Pb) 0.66667) + LIQUID (x(Pb) 0.73462) |
+| AuPb-86Nab-LB.tdb | 526.29 | AU2PB_C15 (x(Pb) 0.33333) + AUPB2_C16 (x(Pb) 0.66667) + LIQUID (x(Pb) 0.73441) |
+| AuPb-86Nab-LB.tdb | 495.04 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.82141) |
+| AuPb-86Nab-LB.tdb | 495.04 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.82119) |
+| AuPb-86Nab-LB.tdb | 495.04 | AUPB2_C16 (x(Pb) 0.66667) + AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.82151) |
+| AuPb-86Nab-LB.tdb | 487.02 | AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.84474) + FCC_A1 (x(Pb) 0.99441) |
+| AuPb-86Nab-LB.tdb | 487.02 | AUPB3 (x(Pb) 0.75) + LIQUID (x(Pb) 0.84479) + FCC_A1 (x(Pb) 0.99441) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AU/AU-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AU/AU-PB.json) · [CALPHAD hull AuPb-86Nab-LB](https://data.orchid-project.org/hulls/calphad-sgte/AU/AU-PB--AuPb-86Nab-LB.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Au–Pb system (33)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 727 | L + Au2Pb -> AuPb2 | L: Pb 0.74; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 10 |  |
+| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.43; Au2Pb: Pb 0.333333 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 2 |  |
+| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.426; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 5 |  |
+| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.46; Au2Pb: Pb 0.333333 | model | [1] Wang 2004 | Table 4, p. 4, row 7 |  |
+| 707 | L + fcc (Au) -> Au2Pb | L: Pb 0.426; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 1 |  |
+| 702 | L + fcc (Au) -> Au2Pb | L: Pb 0.43; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 6 |  |
+| 691 | L + fcc (Au) -> Au2Pb | L: Pb 0.44; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 3 |  |
+| 691 | L + fcc (Au) -> Au2Pb | L: Pb 0.437; Au2Pb: Pb 0.333333 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 4 |  |
+| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.735; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 9 |  |
+| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.741; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | model | [1] Wang 2004 | Table 4, p. 4, row 15 |  |
+| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.738; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 12 |  |
+| 526 | L + Au2Pb -> AuPb2 | L: Pb 0.738; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 8 |  |
+| 525.5 | L + Au2Pb -> AuPb2 | L: Pb 0.72; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 14 |  |
+| 524 | L + Au2Pb -> AuPb2 | L: Pb 0.71; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 11 |  |
+| 524 | L + Au2Pb -> AuPb2 | L: Pb 0.71; Au2Pb: Pb 0.333333; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 13 |  |
+| 495.5 | L + AuPb2 -> AuPb3 | L: Pb 0.822; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 16 |  |
+| 495 | L + AuPb2 -> AuPb3 | L: Pb 0.826; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | model | [1] Wang 2004 | Table 4, p. 4, row 22 |  |
+| 495 | L + AuPb2 -> AuPb3 | L: Pb 0.843; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 21 |  |
+| 494.5 | L + AuPb2 -> AuPb3 | L: Pb 0.821; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 17 |  |
+| 494.5 | L + AuPb2 -> AuPb3 | L: Pb 0.822; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 19 |  |
+| 494 | L + AuPb2 -> AuPb3 | L: Pb 0.814; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 18 |  |
+| 490 | L + AuPb2 -> AuPb3 | L: Pb 0.77; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 20 |  |
+| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 25 |  |
+| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004 | Table 4, p. 4, row 30 |  |
+| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 26 |  |
+| 486 | L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 29 |  |
+| 485.5 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 24 |  |
+| 485 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 27 |  |
+| 485 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 23 |  |
+| 483 | L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 28 |  |
+| 380 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | model | [1] Wang 2004 | Table 4, p. 4, row 33 |  |
+| 372 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 31 |  |
+| 325 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Predecki 1965_ | Table 4, p. 4, row 32 |  |
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Au–Pb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 372 K | 372 | decomposition: AuPb3 = AuPb2 + fcc(Pb) | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | p. 2 | “phase AuPb3 could be stable above 372 K and decompose to AuPb2 and fcc (Pb) below this temperature.” |
+| Phase transition | 380 K | 380 | decomposition | model | [1] Wang 2004 | p. 3 | “In the present work, the decomposition temperature of the phase AuPb3 is calculated to be 380 K and the phase AuPb2 is stable up to 495 K.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. J. Wang, H.S. Liu, Z.P. Jin, Thermodynamic assessment of the Au–Pb system, Calphad 28, 91-95 (2004). [doi:10.1016/j.calphad.2004.05.003](https://doi.org/10.1016/j.calphad.2004.05.003)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,50 @@
+# Fe–Nb–Zn system
+
+> Fe–Nb–Zn system: 12 accepted literature values (invariant reaction 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/FE-NB-ZN.html · Markdown: https://data.orchid-project.org/systems/FE-NB-ZN.md
+
+12 accepted literature values from 1 paper(s) (model 12); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NB-ZN.json) · [CSV](https://data.orchid-project.org/systems/FE-NB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NB-ZN) · [Markdown](https://data.orchid-project.org/systems/FE-NB-ZN.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 12 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 12 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Fe–Nb–Zn system (12)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1772.9 | E: L -> ε + (Nb) + μ |  | model | [1] Long 2016 | Table 4, p. 7, row 1 |  |
+| 1385.5 | U: L + NbZn -> (Nb) + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 2 |  |
+| 1376.3 | U: L + (Nb) -> ε + NbZn1.5 |  | model | [1] Long 2016 | Table 4, p. 7, row 3 |  |
+| 1323.3 | U: L + NbZn1.5 -> ε + NbZn2 |  | model | [1] Long 2016 | Table 4, p. 7, row 4 |  |
+| 1298.7 | U: L + NbZn2 -> ε + NbZn3 |  | model | [1] Long 2016 | Table 4, p. 7, row 5 |  |
+| 1192.6 | P: L + NbZn3 + ε -> τ |  | model | [1] Long 2016 | Table 4, p. 7, row 6 |  |
+| 1080.2 | P: L + (Fe) + ε -> Γ |  | model | [1] Long 2016 | Table 4, p. 7, row 7 |  |
+| 970.8 | U: L + ε -> Γ + τ |  | model | [1] Long 2016 | Table 4, p. 7, row 8 |  |
+| 941.4 | P: L + Γ + τ -> δ |  | model | [1] Long 2016 | Table 4, p. 7, row 9 |  |
+| 802.2 | P: L + τ + δ -> ζ |  | model | [1] Long 2016 | Table 4, p. 7, row 10 |  |
+| 750.1 | P: L + τ + NbZn3 -> NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 11 |  |
+| 709.3 | U: L + τ -> ζ + NbZn7 |  | model | [1] Long 2016 | Table 4, p. 7, row 12 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Zhaohui Long, Jin Gong, Jing Ding, Chihua Tang, Zhi Li, Fucheng Yin, Thermodynamic Assessment of Zn-Fe-Nb Ternary System, J. Phase Equilib. Diffus. 37, 293-300 (2016). [doi:10.1007/s11669-016-0457-z](https://doi.org/10.1007/s11669-016-0457-z)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

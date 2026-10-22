@@ -1,0 +1,44 @@
+# Ni3Zr: enthalpy of formation
+
+> Enthalpy of formation of Ni3Zr: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Ni3Zr.html · Markdown: https://data.orchid-project.org/compounds/Ni3Zr.md
+
+7 accepted literature formation-enthalpy value(s) (model 4, DFT 3); Materials Project -44.234 kJ/mol-atom (mp-aaaaaasr); OQMD -45.036 kJ/mol-atom (oqmd-1795566).
+
+Systems: [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Ni3Zr reported in the literature (7)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -49.841 kJ/mol-atom | Ni3Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 26 |  |
+| -49 kJ/mol-atom | Ni3Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 21 |  |
+| -39.635 kJ/mol-atom | Ni3Zr |  | model | empirical | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 22 |  |
+| -39.247 kJ/mol-atom | Ni3Zr |  | model |  | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020 | Table 6, p. 7, row 27 |  |
+| -49.486 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 25 |  |
+| -44.866 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 23 |  |
+| -44.384 kJ/mol-atom | Ni3Zr |  | DFT | DFT | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html) | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 24 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Ni3Zr
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaaasr | -44.234 | -0.458456 | P6_3/mmc | 0 | no |
+| OQMD | oqmd-1795566 | -45.036 | -0.466765 | R-3m | 0.135 | yes |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Asmita Jana, Soumya Sridar, Suzana G. Fries, Thomas Hammerschmidt, K.C. Hari Kumar, Thermodynamic modelling of the Ni–Zr system, Intermetallics 116, 106640 (2020). [doi:10.1016/j.intermet.2019.106640](https://doi.org/10.1016/j.intermet.2019.106640)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

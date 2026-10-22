@@ -1,0 +1,43 @@
+# Al–Fe–Mn system
+
+> Al–Fe–Mn system: 5 accepted literature values (invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AL-FE-MN.html · Markdown: https://data.orchid-project.org/systems/AL-FE-MN.md
+
+5 accepted literature values from 1 paper(s) (experimental 5); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-MN.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-MN) · [Markdown](https://data.orchid-project.org/systems/AL-FE-MN.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 5 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 5 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Al–Fe–Mn system (5)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1016.19 | liquid + Al13Fe4 + ζ \<-> Al6Mn | L: Al 0.965317, Fe 0.014271, Mn 0.020411 | experimental | [1] Zheng 2018 | Table 3, p. 9, row 8 |  |
+| 1003.15 | liquid + Al13Fe4 + ζ \<-> Al6Mn | L: Al 0.97084, Fe 0.011951, Mn 0.01721 | experimental | [1] Zheng 2018; _cites Phillips 1943_ | Table 3, p. 9, row 7 |  |
+| 927.25 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.987707, Fe 0.00881, Mn 0.003483 | experimental | [1] Zheng 2018; _cites Degischer 1939_ | Table 3, p. 9, row 1 |  |
+| 927.15 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.987703, Fe 0.008565, Mn 0.003731 | experimental | [1] Zheng 2018; _cites Phillips 1943_ | Table 3, p. 9, row 2 |  |
+| 925.83 | liquid \<-> Al6Mn + Al13Fe4 + fcc - Al | L: Al 0.988108, Fe 0.00866, Mn 0.003233 | experimental | [1] Zheng 2018 | Table 3, p. 9, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Weisen Zheng, Huahai Mao, Xiao-Gang Lu, Yanlin He, Lin Li, Malin Selleby et al., Thermodynamic investigation of the Al-Fe-Mn system over the whole composition and wide temperature ranges, Journal of Alloys and Compounds 742, 1046-1057 (2018). [doi:10.1016/j.jallcom.2018.01.291](https://doi.org/10.1016/j.jallcom.2018.01.291)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

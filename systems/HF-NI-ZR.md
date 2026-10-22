@@ -1,0 +1,42 @@
+# Hf–Ni–Zr system
+
+> Hf–Ni–Zr system: 4 accepted literature values (invariant reaction 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/HF-NI-ZR.html · Markdown: https://data.orchid-project.org/systems/HF-NI-ZR.md
+
+4 accepted literature values from 1 paper(s) (unspecified 4); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI-ZR.json) · [CSV](https://data.orchid-project.org/systems/HF-NI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI-ZR) · [Markdown](https://data.orchid-project.org/systems/HF-NI-ZR.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| unspecified | 4 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 4 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Hf–Ni–Zr system (4)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1503.45 | U: Liquid + beta-HfNi -> (Hf, Zr)Ni + (Hf, Zr)9Ni11 |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 1 |  |
+| 1457.55 | E: Liquid -> (Hf, Zr)7Ni10 + (Hf, Zr)8Ni21 + Hf3Ni7 |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 2 |  |
+| 1421.45 | U: Liquid + (Hf, Zr)Ni -> beta-HfNi + (Hf, Zr)2Ni |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 3 |  |
+| 1321.05 | U: Liquid + hcp-(Hf, Zr) -> bcc-(Hf, Zr) + (Hf, Zr)2Ni |  | unspecified | [1] Cacciamani 2011 | Table 14, p. 18, row 4 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011). [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

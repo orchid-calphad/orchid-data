@@ -1,0 +1,82 @@
+# Cr–Pd system
+
+> Cr–Pd system: 10 accepted literature values (invariant reaction 9, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/CR-PD.html · Markdown: https://data.orchid-project.org/systems/CR-PD.md
+
+10 accepted literature values from 1 paper(s) (experimental 7, model 3); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-PD.json) · [CSV](https://data.orchid-project.org/systems/CR-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-PD/CrPd-00Gho-LB.json) · [Markdown](https://data.orchid-project.org/systems/CR-PD.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 7 |
+| model | 3 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 9 |
+| phase transition | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| CrPd-00Gho-LB.tdb | G. Ghosh, G.B. Olson, J. Phase Equilib., 21, 32-39(2000). [doi:10.1361/105497100770340390](https://doi.org/10.1361/105497100770340390) | `a3ff7860baad43f02ef3bf075df86e448927cb42388ebc576c49e3f682c5b9b3` | [viewer](https://orchid-project.org/phase-diagrams/#CR-PD/CrPd-00Gho-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CrPd-00Gho-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CrPd-00Gho-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| CrPd-00Gho-LB.tdb | 1576.87 | BCC_A2 (x(Pd) 0.01508) + LIQUID (x(Pd) 0.40437) + FCC_A1 (x(Pd) 0.49667) |
+| CrPd-00Gho-LB.tdb | 842.96 | BCC_A2 (x(Pd) 0.00564) + CRPD_L10 (x(Pd) 0.5) + FCC_A1 (x(Pd) 0.63224) |
+| CrPd-00Gho-LB.tdb | 842.96 | BCC_A2 (x(Pd) 0.00564) + CRPD_L10 (x(Pd) 0.5) + FCC_A1 (x(Pd) 0.63224) |
+| CrPd-00Gho-LB.tdb | 778.66 | CRPD_L10 (x(Pd) 0.5) + CR2PD3_L12 (x(Pd) 0.6) + FCC_A1 (x(Pd) 0.65322) |
+| CrPd-00Gho-LB.tdb | 778.66 | CRPD_L10 (x(Pd) 0.5) + CR2PD3_L12 (x(Pd) 0.6) + FCC_A1 (x(Pd) 0.65307) |
+| CrPd-00Gho-LB.tdb | 778.66 | CRPD_L10 (x(Pd) 0.5) + CR2PD3_L12 (x(Pd) 0.6) + FCC_A1 (x(Pd) 0.65322) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CR/CR-PD.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CR/CR-PD.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Cr–Pd system (9)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1593 | eutectic: L ↔ (Cr) + Cr3Pd2 |  | experimental | [1] Ghosh 2000 | p. 1 | “Their thermal analysis data suggest two eutectics L ↔ (Cr) + Cr3Pd2 at 1593 K and 25 at.% Pd and L ↔ Cr3Pd2 + (Pd) at 1568 K and 44 at.% Pd.” |
+| 1586 | L \<-> (Cr) + (Pd) | L: Pd 0.44; (Cr): Pd 0.02; (Pd): Pd 0.495 | experimental | [1] Ghosh 2000; _cites Raub 1954_ | Table 1, p. 5, row 1 |  |
+| 1577 | L \<-> (Cr) + (Pd) | L: Pd 0.4034; (Cr): Pd 0.0132; (Pd): Pd 0.4956 | model | [1] Ghosh 2000 | Table 1, p. 5, row 2 |  |
+| 1568 | eutectic: L ↔ Cr3Pd2 + (Pd) |  | experimental | [1] Ghosh 2000 | p. 1 | “Their thermal analysis data suggest two eutectics L ↔ (Cr) + Cr3Pd2 at 1593 K and 25 at.% Pd and L ↔ Cr3Pd2 + (Pd) at 1568 K and 44 at.% Pd.” |
+| 843 | (Cr) + (Pd) \<-> CrPd | (Cr): Pd 0.004; (Pd): Pd 0.628; CrPd: Pd 0.5 | experimental | [1] Ghosh 2000; _cites Raub 1967_ | Table 1, p. 5, row 3 |  |
+| 843 | (Cr) + (Pd) \<-> CrPd | (Cr): Pd 0.0044; (Pd): Pd 0.6321; CrPd: Pd 0.5 | model | [1] Ghosh 2000 | Table 1, p. 5, row 4 |  |
+| 778 | CrPd + (Pd) \<-> Cr2Pd3 | CrPd: Pd 0.5; (Pd): Pd 0.6532; Cr2Pd3: Pd 0.6 | model | [1] Ghosh 2000 | Table 1, p. 5, row 6 |  |
+| 778 | peritectoid |  | experimental | [1] Ghosh 2000 | p. 3 | “Cr2Pd3 has a homogeneity range of 55 to 75 at.% Pd, and at the peritectoid temperature (778 K), its composition is 61 at.% Pd.” |
+| 778 | CrPd + (Pd) \<-> Cr2Pd3 | CrPd: Pd 0.52; (Pd): Pd 0.66; Cr2Pd3: Pd 0.61 | experimental | [1] Ghosh 2000; _cites Raub 1967_ | Table 1, p. 5, row 5 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Cr–Pd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 673 K | 673 | magnetic | experimental | [1] Ghosh 2000; _cites A Kussmann 1968_ | p. 3 | “The Curie temperatures of both CrPd and Cr2Pd3 have been reported to be about 673 K.\[17\]” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. G. Ghosh, G. B. Olson, Thermodynamic modeling of the Cr-Pd and Mo-Pd systems, JPE 21, 32-39 (2000). [doi:10.1361/105497100770340390](https://doi.org/10.1361/105497100770340390)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

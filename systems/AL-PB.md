@@ -1,0 +1,41 @@
+# Al–Pb system
+
+> Al–Pb system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AL-PB.html · Markdown: https://data.orchid-project.org/systems/AL-PB.md
+
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PB/AlPb-06Kim.json) · [Markdown](https://data.orchid-project.org/systems/AL-PB.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AlPb-06Kim.tdb | S.S. Kim, T.H. Sanders, Jr., Modelling Simul. Mater. Sci. Eng., 14, 1181-88(2006). [doi:10.1088/0965-0393/14/7/006](https://doi.org/10.1088/0965-0393/14/7/006) | `f61ba92cbbabcd14aedd6f9bb3fbd2d302171ab435013f2cfeedfe989020c630` | [viewer](https://orchid-project.org/phase-diagrams/#AL-PB/AlPb-06Kim.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlPb-06Kim.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlPb-06Kim.json) |
+| AlPb-86Ans.tdb | I. Ansara, unpublished, 1986. | `db3ed375d86915eed7a970e0e25e2500f704cd0c6f0d4d4899700db3414ecaa0` | [viewer](https://orchid-project.org/phase-diagrams/#AL-PB/AlPb-86Ans.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlPb-86Ans.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlPb-86Ans.json) |
+| AlPb-96Yu-LB.tdb | S.-K. Yu, F. Sommer, B. Predel, Z. Metallkd., 87, 574-80(1996). [doi:10.1515/ijmr-1996-870710](https://doi.org/10.1515/ijmr-1996-870710) | `cba1bebe9803cd21f6f0eb64563be07c95add1c43d627ec1e237184401bac030` | [viewer](https://orchid-project.org/phase-diagrams/#AL-PB/AlPb-96Yu-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlPb-96Yu-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlPb-96Yu-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AlPb-06Kim.tdb | 932.68 | FCC_A1 (x(Pb) 0) + LIQUID (x(Pb) 0.00119) + LIQUID#2 (x(Pb) 0.98763) |
+| AlPb-06Kim.tdb | 600.52 | FCC_A1 (x(Pb) 0) + LIQUID (x(Pb) 0.99986) + FCC_A1#2 (x(Pb) 1) |
+| AlPb-06Kim.tdb | 600.52 | FCC_A1#2 (x(Pb) 0) + LIQUID (x(Pb) 0.99986) + FCC_A1 (x(Pb) 1) |
+| AlPb-86Ans.tdb | 932.19 | FCC_A1 (x(Pb) 0) + LIQUID#2 (x(Pb) 0.00193) + LIQUID (x(Pb) 0.98162) |
+| AlPb-86Ans.tdb | 600.18 | FCC_A1 (x(Pb) 0) + LIQUID (x(Pb) 0.99932) + FCC_A1#2 (x(Pb) 1) |
+| AlPb-86Ans.tdb | 600.18 | FCC_A1#2 (x(Pb) 0) + LIQUID (x(Pb) 0.99932) + FCC_A1 (x(Pb) 1) |
+| AlPb-96Yu-LB.tdb | 932.43 | FCC_A1 (x(Pb) 0) + LIQUID#2 (x(Pb) 0.00157) + LIQUID (x(Pb) 0.98557) |
+| AlPb-96Yu-LB.tdb | 600.37 | FCC_A1 (x(Pb) 0) + LIQUID (x(Pb) 0.99962) + FCC_A1#2 (x(Pb) 1) |
+| AlPb-96Yu-LB.tdb | 600.37 | FCC_A1#2 (x(Pb) 0) + LIQUID (x(Pb) 0.99962) + FCC_A1 (x(Pb) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-PB.json) · [CALPHAD hull AlPb-86Ans](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-PB--AlPb-86Ans.json) · [CALPHAD hull AlPb-96Yu-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-PB--AlPb-96Yu-LB.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

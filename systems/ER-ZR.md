@@ -1,0 +1,116 @@
+# Er–Zr system
+
+> Er–Zr system: 40 accepted literature values (phase equilibrium 20, phase transition 14, invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/ER-ZR.html · Markdown: https://data.orchid-project.org/systems/ER-ZR.md
+
+40 accepted literature values from 1 paper(s) (experimental 38, unspecified 2); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-ZR.json) · [CSV](https://data.orchid-project.org/systems/ER-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-ZR/ErZr-10Jou.json) · [Markdown](https://data.orchid-project.org/systems/ER-ZR.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 38 |
+| unspecified | 2 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 6 |
+| phase transition | 14 |
+| phase equilibrium | 20 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| ErZr-10Jou.tdb | J. Jourdan, C. Toffolon-Masclet, J.-M. Joubert, J. Nucl. Mater., 402, 102-7(2010). [doi:10.1016/j.jnucmat.2010.05.002](https://doi.org/10.1016/j.jnucmat.2010.05.002) | `9a683aa7ae003e8f80e36b9afe9946818cc13ab6e74791de33075651652a3460` | [viewer](https://orchid-project.org/phase-diagrams/#ER-ZR/ErZr-10Jou.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/ErZr-10Jou.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/ErZr-10Jou.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| ErZr-10Jou.tdb | 1669.86 | HCP_A3 (x(Zr) 0.31296) + LIQUID (x(Zr) 0.41574) + BCC_A2 (x(Zr) 0.45929) |
+| ErZr-10Jou.tdb | 1296.15 | HCP_A3 (x(Zr) 0.21995) + HCP_A3#2 (x(Zr) 0.6821) + BCC_A2 (x(Zr) 0.7793) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/ER/ER-ZR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/ER/ER-ZR.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Er–Zr system (6)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1670.15 | Liquid -> (Er) + (βZr) |  | unspecified | [1] Jourdan 2010 | Table 4, p. 5, row 2 |  |
+| 1653.15 | Liquid -> (Er) + (βZr) |  | experimental | [1] Jourdan 2010 | Table 4, p. 5, row 1 |  |
+| 1653.15 | eutectic |  | experimental | [1] Jourdan 2010 | p. 6 | “The eutectic temperature has been determined by means of STA (1380 °C).” |
+| 1318.15 | peritectoid |  | experimental | [1] Jourdan 2010 | p. 3 | “We have measured the peritectoid temperature by DSC using samples of composition Er40Zr60 (Fig. 4) and Er25Zr75. The measured temperature during heating is 1045 ± 20 °C.” |
+| 1318.15 | (Er) + (βZr) -> (αZr) |  | experimental | [1] Jourdan 2010 | Table 4, p. 5, row 3 |  |
+| 1304.15 | (Er) + (βZr) -> (αZr) |  | unspecified | [1] Jourdan 2010 | Table 4, p. 5, row 4 |  |
+
+## Other properties
+
+### Phase transition (14)
+
+Table: Phase transition, Er–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1178.15 K | 1178.15 | allotropic or solvus: Zr; _alloy: Zr 1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 2 |  |
+| Phase transition | 1223.15 K | 1223.15 | allotropic or solvus: Er20Zr80; _alloy: Er 0.2, Zr 0.8_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 5 |  |
+| Phase transition | 1283.15 K | 1283.15 | allotropic or solvus: Er25Zr75; _alloy: Er 0.25, Zr 0.75_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 7 |  |
+| Phase transition | 1318.15 K | 1318.15 | peritectoid: Er25Zr75; _alloy: Er 0.25, Zr 0.75_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 6 |  |
+| Phase transition | 1323.15 K | 1323.15 | peritectoid: Er35Zr65; _alloy: Er 0.35, Zr 0.65_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 10 |  |
+| Phase transition | 1648.15 K | 1648.15 | solidus: Er60Zr40; _alloy: Er 0.6, Zr 0.4_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 17 |  |
+| Phase transition | 1658.15 K | 1658.15 | solidus: Er52Zr48; _alloy: Er 0.52, Zr 0.48_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 15 |  |
+| Phase transition | 1663.15 K | 1663.15 | solidus: Er68Zr32; _alloy: Er 0.68, Zr 0.32_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 21 |  |
+| Phase transition | 1673.15 K | 1673.15 | solidus: Er45Zr55; _alloy: Er 0.45, Zr 0.55_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 13 |  |
+| Phase transition | 1678.15 K | 1678.15 | solidus: Er66.5Zr33.5; _alloy: Er 0.665, Zr 0.335_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 19 |  |
+| Phase transition | 1693.15 K | 1693.15 | solidus: Er80Zr20; _alloy: Er 0.8, Zr 0.2_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 23 |  |
+| Phase transition | 1723.15 K | 1723.15 | solidus: Er35Zr65; _alloy: Er 0.35, Zr 0.65_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 9 |  |
+| Phase transition | 1733.15 K | 1733.15 | solidus: Er90Zr10; _alloy: Er 0.9, Zr 0.1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 25 |  |
+| Phase transition | 1823.15 K | 1823.15 | solidus: Er20Zr80; _alloy: Er 0.2, Zr 0.8_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 4 |  |
+
+### Phase equilibrium (20)
+
+Table: Phase equilibrium, Er–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase composition |  | 773.15 | (Zr) + (Er); _(Zr): Er 0.123, Zr 0.877; (Er): Er 0.855, Zr 0.145_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 1 |  |
+| Phase composition |  | 773.15 | (Zr) + (Er); _(Zr): Er 0.124, Zr 0.876; (Er): Er 0.925, Zr 0.075_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 2 |  |
+| Phase composition |  | 1123.15 | (Zr) + (Er); _(Zr): Er 0.149, Zr 0.851; (Er): Er 0.887, Zr 0.113_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 3 |  |
+| Phase composition |  | 1123.15 | (Zr) + (Er); _(Zr): Er 0.154, Zr 0.846; (Er): Er 0.879, Zr 0.121_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 4 |  |
+| Phase composition |  | 1273.15 | (Zr) + (Er); _(Zr): Er 0.253, Zr 0.747; (Er): Er 0.798, Zr 0.202_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 6 |  |
+| Phase composition |  | 1273.15 | (Zr) + (Er); _(Zr): Er 0.26, Zr 0.74; (Er): Er 0.79, Zr 0.21_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 5 |  |
+| Phase composition |  | 1323.15 | (Zr) + (Er); _(Zr): Er 0.33, Zr 0.67; (Er): Er 0.756, Zr 0.244_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 7 |  |
+| Phase composition |  | 1373.15 | (Zr) + (Er); _(Zr): Er 0.21, Zr 0.79; (Er): Er 0.719, Zr 0.281_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 8 |  |
+| Phase composition |  | 1373.15 | (Zr) + (Er); _(Zr): Er 0.218, Zr 0.782; (Er): Er 0.679, Zr 0.321_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 9 |  |
+| Phase composition |  | 1473.15 | (Zr) + (Er); _(Zr): Er 0.346, Zr 0.654; (Er): Er 0.683, Zr 0.317_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 10 |  |
+| Phase composition |  | 1473.15 | (Zr) + (Er); _(Zr): Er 0.335, Zr 0.665; (Er): Er 0.693, Zr 0.307_ | experimental | [1] Jourdan 2010 | Table 1, p. 3, row 11 |  |
+| Phase composition |  | 1663.15 | liquidus: Er60Zr40; _liquid: Er 0.6, Zr 0.4_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 16 |  |
+| Phase composition |  | 1679.15 | liquidus: Er52Zr48; _liquid: Er 0.52, Zr 0.48_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 14 |  |
+| Phase composition |  | 1688.15 | liquidus: Er66.5Zr33.5; _liquid: Er 0.665, Zr 0.335_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 18 |  |
+| Phase composition |  | 1688.15 | liquidus: Er68Zr32; _liquid: Er 0.68, Zr 0.32_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 20 |  |
+| Phase composition |  | 1703.15 | liquidus: Er45Zr55; _liquid: Er 0.45, Zr 0.55_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 12 |  |
+| Phase composition |  | 1723.15 | liquidus: Er80Zr20; _liquid: Er 0.8, Zr 0.2_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 22 |  |
+| Phase composition |  | 1753.15 | liquidus: Er35Zr65; _liquid: Er 0.35, Zr 0.65_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 8 |  |
+| Phase composition |  | 1763.15 | liquidus: Er90Zr10; _liquid: Er 0.9, Zr 0.1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 24 |  |
+| Phase composition |  | 2113.15 | liquidus: Zr; _liquid: Zr 1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 1 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. J. Jourdan, C. Toffolon-Masclet, J.-M. Joubert, Experimental re-determination and thermodynamic assessment of the erbium–zirconium system, Journal of Nuclear Materials 402, 102-107 (2010). [doi:10.1016/j.jnucmat.2010.05.002](https://doi.org/10.1016/j.jnucmat.2010.05.002)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

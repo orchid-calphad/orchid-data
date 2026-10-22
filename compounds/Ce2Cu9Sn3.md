@@ -1,0 +1,26 @@
+# Ce2Cu9Sn3: enthalpy of formation
+
+> Enthalpy of formation of Ce2Cu9Sn3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Ce2Cu9Sn3.html · Markdown: https://data.orchid-project.org/compounds/Ce2Cu9Sn3.md
+
+2 accepted literature formation-enthalpy value(s) (DFT 2).
+
+Systems: [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Ce2Cu9Sn3 reported in the literature (2)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -26.662 kJ/mol-atom | τ8—Ce2Cu9Sn3 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [1] Li 2013 | Table 1, p. 3, row 29 |  |
+| -26.662 kJ/mol-atom | τ8—Ce2Cu9Sn3 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [1] Li 2013 | Table 1, p. 3, row 29 |  |
+
+## Sources
+
+1. Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013). [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

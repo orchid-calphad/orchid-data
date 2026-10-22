@@ -1,0 +1,101 @@
+# Mg–Tl system
+
+> Mg–Tl system: 15 accepted literature values (invariant reaction 10, phase transition 4, formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MG-TL.html · Markdown: https://data.orchid-project.org/systems/MG-TL.md
+
+15 accepted literature values from 1 paper(s) (experimental 8, model 7); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-TL.json) · [CSV](https://data.orchid-project.org/systems/MG-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-TL/MgTl-08Liu.json) · [Markdown](https://data.orchid-project.org/systems/MG-TL.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 8 |
+| model | 7 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 10 |
+| phase transition | 4 |
+| formation | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MgTl-08Liu.tdb | Y. Liu, D. Liang, J. Alloys Compd., 459, 286-90(2008). [doi:10.1016/j.jallcom.2007.04.031](https://doi.org/10.1016/j.jallcom.2007.04.031) | `e8378fccc52d0d12f2313e676963dcfd08817b258db84355a4d93ff1bc732475` | [viewer](https://orchid-project.org/phase-diagrams/#MG-TL/MgTl-08Liu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgTl-08Liu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgTl-08Liu.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MgTl-08Liu.tdb | 678.52 | HCP_A3 (x(Tl) 0.16108) + LIQUID (x(Tl) 0.24224) + MG5TL2_D8G (x(Tl) 0.28571) |
+| MgTl-08Liu.tdb | 678.52 | HCP_A3 (x(Tl) 0.16107) + LIQUID (x(Tl) 0.24223) + MG5TL2_D8G (x(Tl) 0.28571) |
+| MgTl-08Liu.tdb | 664.5 | MG5TL2_D8G (x(Tl) 0.28571) + MG2TL_C22 (x(Tl) 0.33333) + LIQUID (x(Tl) 0.36046) |
+| MgTl-08Liu.tdb | 664.5 | MG5TL2_D8G (x(Tl) 0.28571) + MG2TL_C22 (x(Tl) 0.33333) + LIQUID (x(Tl) 0.36042) |
+| MgTl-08Liu.tdb | 624.83 | MG2TL_C22 (x(Tl) 0.33333) + LIQUID (x(Tl) 0.44832) + MGTL_B2 (x(Tl) 0.5) |
+| MgTl-08Liu.tdb | 624.83 | MG2TL_C22 (x(Tl) 0.33333) + LIQUID (x(Tl) 0.44805) + MGTL_B2 (x(Tl) 0.5) |
+| MgTl-08Liu.tdb | 624.83 | MG2TL_C22 (x(Tl) 0.33333) + LIQUID (x(Tl) 0.44871) + MGTL_B2 (x(Tl) 0.5) |
+| MgTl-08Liu.tdb | 545.12 | LIQUID (x(Tl) 0.94831) + HCP_A3 (x(Tl) 0.99287) + BCC_A2 (x(Tl) 0.99975) |
+| MgTl-08Liu.tdb | 474.84 | MGTL_B2 (x(Tl) 0.5) + LIQUID (x(Tl) 0.81635) + HCP_A3 (x(Tl) 0.9682) |
+| MgTl-08Liu.tdb | 474.84 | MGTL_B2 (x(Tl) 0.5) + LIQUID (x(Tl) 0.81616) + HCP_A3 (x(Tl) 0.96815) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MG/MG-TL.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MG/MG-TL.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mg–Tl system (10)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 678.5 | Liquid -> hcp + Mg5Tl2 | Liquid: Tl 0.242; hcp: Tl 0.161; Mg5Tl2: Tl 0.285714 | model | [1] Liu 2008 | Table 2, p. 4, row 1 |  |
+| 678.3 | Liquid -> hcp + Mg5Tl2 | Liquid: Tl 0.25; hcp: Tl 0.154; Mg5Tl2: Tl 0.285714 | experimental | [1] Liu 2008; _cites Hume-Rothery 1938_ | Table 2, p. 4, row 2 |  |
+| 665 | Liquid + Mg5Tl2 -> Mg2Tl | Liquid: Tl 0.343; Mg5Tl2: Tl 0.285714; Mg2Tl: Tl 0.333333 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 6 |  |
+| 664.5 | Liquid + Mg5Tl2 -> Mg2Tl | Liquid: Tl 0.361; Mg5Tl2: Tl 0.285714; Mg2Tl: Tl 0.333333 | model | [1] Liu 2008 | Table 2, p. 4, row 5 |  |
+| 626 | Liquid -> Mg2Tl + MgTl | Liquid: Tl 0.425; Mg2Tl: Tl 0.333333; MgTl: Tl 0.5 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 8 |  |
+| 624.8 | Liquid -> Mg2Tl + MgTl | Liquid: Tl 0.448; Mg2Tl: Tl 0.333333; MgTl: Tl 0.5 | model | [1] Liu 2008 | Table 2, p. 4, row 7 |  |
+| 477.4 | Liquid -> MgTl + bcc | Liquid: Tl 0.813; MgTl: Tl 0.5; bcc: Tl 0.959 | model | [1] Liu 2008 | Table 2, p. 4, row 11 |  |
+| 475 | Liquid -> MgTl + bcc | Liquid: Tl 0.8; MgTl: Tl 0.5; bcc: Tl 0.952 | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 12 |  |
+| 433 | bcc -> MgTl + hcp | bcc: Tl 0.95; MgTl: Tl 0.5; hcp: Tl 0.97 | experimental | [1] Liu 2008; _cites Grube 1905_ | Table 2, p. 4, row 14 |  |
+| 432.2 | bcc -> MgTl + hcp | bcc: Tl 0.971; MgTl: Tl 0.5; hcp: Tl 0.979 | model | [1] Liu 2008 | Table 2, p. 4, row 13 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mg–Tl system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| — |  | -24.3 unspecified ± 4.2 | 600 | experimental |  |  | [1] Liu 2008; _cites Kubaschewski 1941_ | p. 2 | “The only value reported for the enthalpy of formation of MgTl is -24.3 ± 4.2 kJ/mol atoms \[11\], which was determined at 600 K by an adiabatic high-temperature calorimeter with all the starting materials having a purity of 99.96%.” |
+
+## Other properties
+
+### Phase transition (4)
+
+Table: Phase transition, Mg–Tl system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 631 K | 631 | Liquid -> MgTl; _Liquid: Tl 0.5; MgTl: Tl 0.5_ | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 10 |  |
+| Phase transition | 631.9 K | 631.9 | Liquid -> MgTl; _Liquid: Tl 0.5; MgTl: Tl 0.5_ | model | [1] Liu 2008 | Table 2, p. 4, row 9 |  |
+| Phase transition | 686 K | 686 | Mg5Tl2 -> liquid; _Mg5Tl2: Tl 0.285714; liquid: Tl 0.285714_ | experimental | [1] Liu 2008; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.19340400213) | Table 2, p. 4, row 4 |  |
+| Phase transition | 687.5 K | 687.5 | Mg5Tl2 -> liquid; _Mg5Tl2: Tl 0.285714; liquid: Tl 0.285714_ | model | [1] Liu 2008 | Table 2, p. 4, row 3 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Yajun Liu, Dong Liang, Thermodynamic reevaluation of the Mg–Tl system, Journal of Alloys and Compounds 459, 286-290 (2008). [doi:10.1016/j.jallcom.2007.04.031](https://doi.org/10.1016/j.jallcom.2007.04.031)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,42 @@
+# Mn–Sr system
+
+> Mn–Sr system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MN-SR.html · Markdown: https://data.orchid-project.org/systems/MN-SR.md
+
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SR/MnSr-11Pen.json) · [Markdown](https://data.orchid-project.org/systems/MN-SR.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MnSr-11Pen.tdb | Y. Peng, D. Zhao, B. Hu, L. Zhou, Y. Du, T. Gang, S. Liu, K. Chang, J. Phase Equilib. Diffus., 32, 42-47(2011). [doi:10.1007/s11669-010-9818-1](https://doi.org/10.1007/s11669-010-9818-1) | `982430fc7010b89e7d603229c3363ac5a3a37a02bc08622f8fcf891ed5776f70` | [viewer](https://orchid-project.org/phase-diagrams/#MN-SR/MnSr-11Pen.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnSr-11Pen.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnSr-11Pen.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MnSr-11Pen.tdb | 1511.37 | BCC_A2 (x(Sr) 0.00196) + LIQUID#2 (x(Sr) 0.00742) + LIQUID (x(Sr) 0.96365) |
+| MnSr-11Pen.tdb | 1438.08 | BCC_A2 (x(Sr) 0.00152) + FCC_A1 (x(Sr) 0.00474) + LIQUID (x(Sr) 0.97183) |
+| MnSr-11Pen.tdb | 1336.65 | CUB_A13 (x(Sr) 0) + FCC_A1 (x(Sr) 0.0034) + LIQUID (x(Sr) 0.98111) |
+| MnSr-11Pen.tdb | 1336.65 | CUB_A13 (x(Sr) 0) + FCC_A1 (x(Sr) 0.0034) + LIQUID (x(Sr) 0.98112) |
+| MnSr-11Pen.tdb | 1045.34 | CUB_A13 (x(Sr) 0) + LIQUID (x(Sr) 0.99595) + BCC_A2 (x(Sr) 0.99982) |
+| MnSr-11Pen.tdb | 1045.34 | CUB_A13 (x(Sr) 0) + LIQUID (x(Sr) 0.996) + BCC_A2 (x(Sr) 0.99982) |
+| MnSr-11Pen.tdb | 980 | CUB_A13 (x(Sr) 0) + CBCC_A12 (x(Sr) 0) + BCC_A2 (x(Sr) 0.9999) |
+| MnSr-11Pen.tdb | 980 | CBCC_A12 (x(Sr) 0) + CUB_A13 (x(Sr) 0) + BCC_A2 (x(Sr) 0.9999) |
+| MnSr-11Pen.tdb | 980 | CBCC_A12 (x(Sr) 0) + CUB_A13 (x(Sr) 0) + BCC_A2 (x(Sr) 0.9999) |
+| MnSr-11Pen.tdb | 820.64 | CBCC_A12 (x(Sr) 0) + FCC_A1 (x(Sr) 0.99989) + BCC_A2 (x(Sr) 0.99999) |
+| MnSr-11Pen.tdb | 820.64 | CBCC_A12 (x(Sr) 0) + FCC_A1 (x(Sr) 0.99989) + BCC_A2 (x(Sr) 0.99999) |
+| MnSr-11Pen.tdb | 820 | CBCC_A12 (x(Sr) 0) + BCC_A2 (x(Sr) 1) + FCC_A1 (x(Sr) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-SR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-SR.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

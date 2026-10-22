@@ -1,0 +1,123 @@
+# Pt–Ti system
+
+> Pt–Ti system: 38 accepted literature values (invariant reaction 31, phase transition 6, activity / EMF / Gibbs energy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/PT-TI.html · Markdown: https://data.orchid-project.org/systems/PT-TI.md
+
+38 accepted literature values from 1 paper(s) (experimental 25, model 13); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/PT-TI.json) · [CSV](https://data.orchid-project.org/systems/PT-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-TI/PtTi-08Li.json) · [Markdown](https://data.orchid-project.org/systems/PT-TI.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 25 |
+| model | 13 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 31 |
+| phase transition | 6 |
+| activity / EMF / Gibbs energy | 1 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| PtTi-08Li.tdb | M. Li, W. Han, C. Li, J. Alloys Compd., 461, 189-94(2008). [doi:10.1016/j.jallcom.2007.07.047](https://doi.org/10.1016/j.jallcom.2007.07.047) | `225d207ff370fad5f2424732156ead08728f17d5382c43193d57fe77c3031724` | [viewer](https://orchid-project.org/phase-diagrams/#PT-TI/PtTi-08Li.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PtTi-08Li.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PtTi-08Li.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| PtTi-08Li.tdb | 2073.38 | LIQUID (x(Ti) 0.11551) + FCC_A1 (x(Ti) 0.11595) + PT3TI_D024 (x(Ti) 0.21782) |
+| PtTi-08Li.tdb | 2045.06 | PT3TI_D024 (x(Ti) 0.24987) + LIQUID (x(Ti) 0.39095) + PTTI_B2 (x(Ti) 0.43883) |
+| PtTi-08Li.tdb | 1698.47 | PTTI_B2 (x(Ti) 0.51961) + LIQUID (x(Ti) 0.66898) + PTTI3_A15 (x(Ti) 0.73275) |
+| PtTi-08Li.tdb | 1583.06 | PTTI3_A15 (x(Ti) 0.7638) + LIQUID (x(Ti) 0.86609) + BCC_A2 (x(Ti) 0.91726) |
+| PtTi-08Li.tdb | 1478.17 | PTTI_B2 (x(Ti) 0.517) + PT3TI4 (x(Ti) 0.57143) + PTTI3_A15 (x(Ti) 0.73616) |
+| PtTi-08Li.tdb | 1353.05 | FCC_A1 (x(Ti) 0.01568) + PT8TI (x(Ti) 0.11111) + PT3TI_D024 (x(Ti) 0.20221) |
+| PtTi-08Li.tdb | 1353.05 | FCC_A1 (x(Ti) 0.01567) + PT8TI (x(Ti) 0.11111) + PT3TI_D024 (x(Ti) 0.20222) |
+| PtTi-08Li.tdb | 1312.19 | PTTI_B19 (x(Ti) 0.50116) + PTTI_B2 (x(Ti) 0.50224) + PT3TI4 (x(Ti) 0.57143) |
+| PtTi-08Li.tdb | 1312.19 | PTTI_B19 (x(Ti) 0.50121) + PTTI_B2 (x(Ti) 0.50231) + PT3TI4 (x(Ti) 0.57143) |
+| PtTi-08Li.tdb | 1306.87 | PT3TI_D024 (x(Ti) 0.25) + PTTI_B2 (x(Ti) 0.47503) + PTTI_B19 (x(Ti) 0.47823) |
+| PtTi-08Li.tdb | 1112.87 | PTTI3_A15 (x(Ti) 0.78201) + BCC_A2 (x(Ti) 0.96895) + HCP_A3 (x(Ti) 0.97816) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/PT/PT-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PT/PT-TI.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Pt–Ti system (31)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2224 | Congruent: L → γ | L: Pt 0.00754; γ: Pt 0.00754 | model | [1] Li 2008 | Table 1, p. 2, row 14 |  |
+| 2223 | Congruent: L → γ | L: Pt 0.0075; γ: Pt 0.0075 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 13 |  |
+| 2106 | Congruent: L → βTiPt | L: Pt 0.00522; βTiPt: Pt 0.00522 | model | [1] Li 2008 | Table 1, p. 2, row 10 |  |
+| 2103 | Congruent: L → βTiPt | L: Pt 0.005; βTiPt: Pt 0.005 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 9 |  |
+| 2073 | Peritectic: L + γ → Fcc | L: Pt 0.00885; γ: Pt 0.00782; Fcc: Pt 0.00884 | model | [1] Li 2008 | Table 1, p. 2, row 16 |  |
+| 2073 | Peritectic: L + γ → Fcc | L: Pt 0.009; γ: Pt 0.008; Fcc: Pt 0.0088 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 15 |  |
+| 2053 | Eutectic: L → βTiPt + γ | L: Pt 0.0058; βTiPt: Pt 0.00526; γ: Pt 0.0075 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 11 |  |
+| 2053 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
+| 2045 | Eutectic: L → βTiPt + γ | L: Pt 0.00613; βTiPt: Pt 0.00574; γ: Pt 0.0075 | model | [1] Li 2008 | Table 1, p. 2, row 12 |  |
+| 1773 | Congruent: L → Ti3Pt | L: Pt 0.0025; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 4 |  |
+| 1771 | Congruent: L → Ti3Pt | L: Pt 0.00253; Ti3Pt: Pt 0.00253 | model | [1] Li 2008 | Table 1, p. 2, row 5 |  |
+| 1698 | Eutectic: L → βTiPt + Ti3Pt | L: Pt 0.00331; βTiPt: Pt 0.00481; Ti3Pt: Pt 0.00267 | model | [1] Li 2008 | Table 1, p. 2, row 8 |  |
+| 1697 | Eutectic: L → βTiPt + Ti3Pt | L: Pt 0.0034; βTiPt: Pt 0.0045; Ti3Pt: Pt 0.0028 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 7 |  |
+| 1643 | Congruent: L → Ti3Pt | L: Pt 0.0025; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 3 |  |
+| 1593 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
+| 1593 | Eutectic: L → βTiPt + Ti3Pt | L: Pt 0.0034; βTiPt: Pt 0.005; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 6 |  |
+| 1588 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
+| 1583 | Eutectic: L → Bcc + Ti3Pt | L: Pt 0.0016; Bcc: Pt 9.400e-4; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 1 |  |
+| 1583 | Eutectic: L → Bcc + Ti3Pt | L: Pt 0.00134; Bcc: Pt 8.300e-4; Ti3Pt: Pt 0.00236 | model | [1] Li 2008 | Table 1, p. 2, row 2 |  |
+| 1478 | Peritectoid: Ti3Pt + βTiPt → Ti4Pt3 | Ti3Pt: Pt 0.0027; βTiPt: Pt 0.0045; Ti4Pt3: Pt 0.00428 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 19 |  |
+| 1478 | Peritectoid: Ti3Pt + βTiPt → Ti4Pt3 | Ti3Pt: Pt 0.00264; βTiPt: Pt 0.00483; Ti4Pt3: Pt 0.00428 | model | [1] Li 2008 | Table 1, p. 2, row 20 |  |
+| 1353 | Peritectoid: γ + Fcc → TiPt8 | γ: Pt 0.008; Fcc: Pt 0.009; TiPt8: Pt 0.00889 | experimental | [1] Li 2008; _cites Meschter 1976_ [doi](https://doi.org/10.1007/bf02644471) | Table 1, p. 2, row 27 |  |
+| 1353 | Peritectoid: γ + Fcc → TiPt8 | γ: Pt 0.00798; Fcc: Pt 0.00984; TiPt8: Pt 0.00889 | model | [1] Li 2008 | Table 1, p. 2, row 28 |  |
+| 1313 | Congruent: βTiPt → αTiPt | βTiPt: Pt 0.00502; αTiPt: Pt 0.00502 | model | [1] Li 2008 | Table 1, p. 2, row 24 |  |
+| 1313 | Congruent: βTiPt → αTiPt | βTiPt: Pt 0.005; αTiPt: Pt 0.005 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 23 |  |
+| 1312 | Peritectoid: Ti4Pt3 + βTiPt → αTiPt | Ti4Pt3: Pt 0.00428; βTiPt: Pt 0.00497; αTiPt: Pt 0.00499 | model | [1] Li 2008 | Table 1, p. 2, row 26 |  |
+| 1308 | Peritectoid: Ti3Pt + βTiPt → αTiPt | Ti3Pt: Pt 0.0028; βTiPt: Pt 0.0046; αTiPt: Pt 0.0046 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 25 |  |
+| 1297 | Peritectoid: γ + βTiPt → αTiPt | γ: Pt 0.0075; βTiPt: Pt 0.00522; αTiPt: Pt 0.00525 | model | [1] Li 2008 | Table 1, p. 2, row 22 |  |
+| 1273 | Peritectoid: TiPt3- + βTiPt → αTiPt | TiPt3-: Pt 0.0073; βTiPt: Pt 0.0053; αTiPt: Pt 0.0053 | experimental | [1] Li 2008; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02869304) | Table 1, p. 2, row 21 |  |
+| 1113 | Eutectoid: Bcc → Hcp + Ti3Pt | Bcc: Pt 3.000e-4; Hcp: Pt 1.500e-4; Ti3Pt: Pt 0.0025 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 17 |  |
+| 1113 | Eutectoid: Bcc → Hcp + Ti3Pt | Bcc: Pt 3.100e-4; Hcp: Pt 2.200e-4; Ti3Pt: Pt 0.0022 | model | [1] Li 2008 | Table 1, p. 2, row 18 |  |
+
+## Other properties
+
+### Phase transition (6)
+
+Table: Phase transition, Pt–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1113 K | 1113 | (␤Ti) = (␣Ti) + Ti3Pt | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 2 | “The eutectiod reaction of (␣Ti), (␤Ti), and Ti3 Pt at 1113 K was proposed by Nishimura and Hiramatsu \[6\].” |
+| Phase transition | 1643 K | 1643 | congruent | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
+| Phase transition | 1773 K | 1773 |  | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | p. 1 | “The intermetallic phase Ti3 Pt was found to melt at 1773 K \[8\], not 1643 K as previously reported by Nishimura and Hiramatsu \[6\].” |
+| Phase transition | 1993 K | 1993 |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 5 | “Nishimura and Hiramatsu \[6\] determined the melting point of bcc (Ti) at 1993 K, but the true melting point at 1941 \[7\].” |
+| Phase transition | 2103 K | 2103 | congruent | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
+| Phase transition | 2223 K | 2223 | congruent | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1 | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
+
+### Activity / EMF / Gibbs energy (1)
+
+Table: Activity / EMF / Gibbs energy, Pt–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Gibbs energy; _printed: standard Gibbs energy of formation_ | -282.57 unspecified ± 4 | 1573 |  | experimental | [1] Li 2008; _cites Jacob 2000_ [doi](https://doi.org/10.1179/026708300101507947) | p. 2 | “And the standard Gibbs energy of formation of TiPt3 is -282.57 ± 4 kJ/mol at 1573 K \[18\].” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Mei Li, Wei Han, Changrong Li, Thermodynamic assessment of the Pt–Ti system, Journal of Alloys and Compounds 461, 189-194 (2008). [doi:10.1016/j.jallcom.2007.07.047](https://doi.org/10.1016/j.jallcom.2007.07.047)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

@@ -1,0 +1,48 @@
+# Ga–Pr system
+
+> Ga–Pr system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/GA-PR.html · Markdown: https://data.orchid-project.org/systems/GA-PR.md
+
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PR/GaPr-22Bou.json) · [Markdown](https://data.orchid-project.org/systems/GA-PR.md)
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| GaPr-22Bou.tdb | S. Boudraa, Y. Djaballah, Y. Mansouri, A. Belgacem Bouzida, Calphad, 76, 102387(2022). [doi:10.1016/j.calphad.2021.102387](https://doi.org/10.1016/j.calphad.2021.102387) | `8876340cccf831078b5e3c655cdb8b24544c09525f9b5d70d1305deeacbd5ab9` | [viewer](https://orchid-project.org/phase-diagrams/#GA-PR/GaPr-22Bou.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GaPr-22Bou.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GaPr-22Bou.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| GaPr-22Bou.tdb | 1288.26 | GA2PR_C32 (x(Pr) 0.33333) + GAPR_B33 (x(Pr) 0.5) + LIQUID (x(Pr) 0.5831) |
+| GaPr-22Bou.tdb | 1288.26 | GA2PR_C32 (x(Pr) 0.33333) + GAPR_B33 (x(Pr) 0.5) + LIQUID (x(Pr) 0.58309) |
+| GaPr-22Bou.tdb | 1288.26 | GA2PR_C32 (x(Pr) 0.33333) + GAPR_B33 (x(Pr) 0.5) + LIQUID (x(Pr) 0.58311) |
+| GaPr-22Bou.tdb | 1128.25 | GAPR_B33 (x(Pr) 0.5) + GA3PR5 (x(Pr) 0.625) + LIQUID (x(Pr) 0.67646) |
+| GaPr-22Bou.tdb | 1128.25 | GAPR_B33 (x(Pr) 0.5) + GA3PR5 (x(Pr) 0.625) + LIQUID (x(Pr) 0.67654) |
+| GaPr-22Bou.tdb | 1128.25 | GAPR_B33 (x(Pr) 0.5) + GA3PR5 (x(Pr) 0.625) + LIQUID (x(Pr) 0.67637) |
+| GaPr-22Bou.tdb | 1017.71 | LIQUID (x(Pr) 0.90036) + BCC_A2 (x(Pr) 0.97619) + DHCP (x(Pr) 0.99179) |
+| GaPr-22Bou.tdb | 965.54 | GA3PR5 (x(Pr) 0.625) + GAPR2_C37 (x(Pr) 0.66667) + LIQUID (x(Pr) 0.78193) |
+| GaPr-22Bou.tdb | 965.54 | GA3PR5 (x(Pr) 0.625) + GAPR2_C37 (x(Pr) 0.66667) + LIQUID (x(Pr) 0.78196) |
+| GaPr-22Bou.tdb | 965.54 | GA3PR5 (x(Pr) 0.625) + GAPR2_C37 (x(Pr) 0.66667) + LIQUID (x(Pr) 0.78184) |
+| GaPr-22Bou.tdb | 899.82 | LIQUID (x(Pr) 0.08643) + GA3PR_D019 (x(Pr) 0.25) + GA2PR_C32 (x(Pr) 0.33333) |
+| GaPr-22Bou.tdb | 899.82 | LIQUID (x(Pr) 0.08648) + GA3PR_D019 (x(Pr) 0.25) + GA2PR_C32 (x(Pr) 0.33333) |
+| GaPr-22Bou.tdb | 845.47 | GAPR2_C37 (x(Pr) 0.66667) + LIQUID (x(Pr) 0.8347) + DHCP (x(Pr) 0.97807) |
+| GaPr-22Bou.tdb | 845.47 | GAPR2_C37 (x(Pr) 0.66667) + LIQUID (x(Pr) 0.83467) + DHCP (x(Pr) 0.97807) |
+| GaPr-22Bou.tdb | 741.73 | LIQUID (x(Pr) 0.05567) + GA6PR (x(Pr) 0.14286) + GA3PR_D019 (x(Pr) 0.25) |
+| GaPr-22Bou.tdb | 741.73 | LIQUID (x(Pr) 0.05566) + GA6PR (x(Pr) 0.14286) + GA3PR_D019 (x(Pr) 0.25) |
+| GaPr-22Bou.tdb | 741.73 | LIQUID (x(Pr) 0.05562) + GA6PR (x(Pr) 0.14286) + GA3PR_D019 (x(Pr) 0.25) |
+| GaPr-22Bou.tdb | 302.91 | ORTHORHOMBIC_A11 (x(Pr) 0) + LIQUID (x(Pr) 0) + GA6PR (x(Pr) 0.14286) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-PR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-PR.json)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

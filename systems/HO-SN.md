@@ -1,0 +1,112 @@
+# Ho–Sn system
+
+> Ho–Sn system: 23 accepted literature values (invariant reaction 20, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/HO-SN.html · Markdown: https://data.orchid-project.org/systems/HO-SN.md
+
+23 accepted literature values from 1 paper(s) (experimental 11, model 12); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/HO-SN.json) · [CSV](https://data.orchid-project.org/systems/HO-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-SN/HoSn-14Idd.json) · [Markdown](https://data.orchid-project.org/systems/HO-SN.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 11 |
+| model | 12 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 20 |
+| phase transition | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| HoSn-14Idd.tdb | A. Iddaoudi, N. Selhaoui, S. Kardellass, M. Ait Amar, K. Mahdouk, H. Najih, L. Bouirden, J. Therm. Anal. Calorim., 115, 941-45(2014). [doi:10.1007/s10973-013-3352-4](https://doi.org/10.1007/s10973-013-3352-4) | `41e6877408a408d40e75d925a0ed2e20731707b02b3cc6aabf3cf9bb6457243b` | [viewer](https://orchid-project.org/phase-diagrams/#HO-SN/HoSn-14Idd.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/HoSn-14Idd.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/HoSn-14Idd.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| HoSn-14Idd.tdb | 1987.44 | HO5SN3_D88 (x(Sn) 0.375) + HO5SN4 (x(Sn) 0.44444) + LIQUID (x(Sn) 0.48176) |
+| HoSn-14Idd.tdb | 1987.44 | HO5SN3_D88 (x(Sn) 0.375) + HO5SN4 (x(Sn) 0.44444) + LIQUID (x(Sn) 0.4818) |
+| HoSn-14Idd.tdb | 1987.44 | HO5SN3_D88 (x(Sn) 0.375) + HO5SN4 (x(Sn) 0.44444) + LIQUID (x(Sn) 0.48152) |
+| HoSn-14Idd.tdb | 1871.14 | HO5SN4 (x(Sn) 0.44444) + HO11SN10 (x(Sn) 0.47619) + LIQUID (x(Sn) 0.53514) |
+| HoSn-14Idd.tdb | 1871.14 | HO5SN4 (x(Sn) 0.44444) + HO11SN10 (x(Sn) 0.47619) + LIQUID (x(Sn) 0.53509) |
+| HoSn-14Idd.tdb | 1871.14 | HO5SN4 (x(Sn) 0.44444) + HO11SN10 (x(Sn) 0.47619) + LIQUID (x(Sn) 0.53523) |
+| HoSn-14Idd.tdb | 1538.27 | HCP_A3 (x(Sn) 0.02503) + LIQUID (x(Sn) 0.13465) + HO5SN3_D88 (x(Sn) 0.375) |
+| HoSn-14Idd.tdb | 1538.27 | HCP_A3 (x(Sn) 0.02501) + LIQUID (x(Sn) 0.13458) + HO5SN3_D88 (x(Sn) 0.375) |
+| HoSn-14Idd.tdb | 1428.67 | HO11SN10 (x(Sn) 0.47619) + HO4SN5 (x(Sn) 0.55556) + LIQUID (x(Sn) 0.666) |
+| HoSn-14Idd.tdb | 1428.67 | HO11SN10 (x(Sn) 0.47619) + HO4SN5 (x(Sn) 0.55556) + LIQUID (x(Sn) 0.66592) |
+| HoSn-14Idd.tdb | 1428.67 | HO11SN10 (x(Sn) 0.47619) + HO4SN5 (x(Sn) 0.55556) + LIQUID (x(Sn) 0.66602) |
+| HoSn-14Idd.tdb | 1379.69 | HO4SN5 (x(Sn) 0.55556) + HOSN2_C49 (x(Sn) 0.66667) + LIQUID (x(Sn) 0.68414) |
+| HoSn-14Idd.tdb | 1379.69 | HO4SN5 (x(Sn) 0.55556) + HOSN2_C49 (x(Sn) 0.66667) + LIQUID (x(Sn) 0.68421) |
+| HoSn-14Idd.tdb | 1379.69 | HO4SN5 (x(Sn) 0.55556) + HOSN2_C49 (x(Sn) 0.66667) + LIQUID (x(Sn) 0.68386) |
+| HoSn-14Idd.tdb | 782.01 | HOSN2_C49 (x(Sn) 0.66667) + HO2SN5 (x(Sn) 0.71429) + LIQUID (x(Sn) 0.99238) |
+| HoSn-14Idd.tdb | 782.01 | HOSN2_C49 (x(Sn) 0.66667) + HO2SN5 (x(Sn) 0.71429) + LIQUID (x(Sn) 0.99241) |
+| HoSn-14Idd.tdb | 782.01 | HOSN2_C49 (x(Sn) 0.66667) + HO2SN5 (x(Sn) 0.71429) + LIQUID (x(Sn) 0.99237) |
+| HoSn-14Idd.tdb | 782.01 | HOSN2_C49 (x(Sn) 0.66667) + HO2SN5 (x(Sn) 0.71429) + LIQUID (x(Sn) 0.99241) |
+| HoSn-14Idd.tdb | 720.56 | HO2SN5 (x(Sn) 0.71429) + HOSN3 (x(Sn) 0.75) + LIQUID (x(Sn) 0.99696) |
+| HoSn-14Idd.tdb | 720.56 | HO2SN5 (x(Sn) 0.71429) + HOSN3 (x(Sn) 0.75) + LIQUID (x(Sn) 0.99696) |
+| HoSn-14Idd.tdb | 720.56 | HO2SN5 (x(Sn) 0.71429) + HOSN3 (x(Sn) 0.75) + LIQUID (x(Sn) 0.99694) |
+| HoSn-14Idd.tdb | 505.07 | HOSN3 (x(Sn) 0.75) + LIQUID (x(Sn) 0.99998) + BCT_A5 (x(Sn) 1) |
+| HoSn-14Idd.tdb | 505.07 | HOSN3 (x(Sn) 0.75) + LIQUID (x(Sn) 0.99998) + BCT_A5 (x(Sn) 1) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/HO/HO-SN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/HO/HO-SN.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ho–Sn system (20)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1993 | Liq + Ho5Sn4 -> Ho5Sn3 | Liq: Sn 0.46; Ho5Sn4: Sn 0.444444; Ho5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 13 |  |
+| 1991 | Liq + Ho5Sn4 -> Ho5Sn3 | Liq: Sn 0.474; Ho5Sn4: Sn 0.444444; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 14 |  |
+| 1868 | Liq + Sn10Ho11 -> Ho5Sn4 | Liq: Sn 0.535; Sn10Ho11: Sn 0.47619; Ho5Sn4: Sn 0.444444 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 12 |  |
+| 1865 | Liq + Sn10Ho11 -> Ho5Sn4 | Liq: Sn 0.49; Sn10Ho11: Sn 0.47619; Ho5Sn4: Sn 0.444444 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 11 |  |
+| 1525 | Liq -> Ho +Ho5Sn3 | Liq: Sn 0.135; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 18 |  |
+| 1525 | Liq -> Ho +Ho5Sn3 | Liq: Sn 0.13; Ho5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 17 |  |
+| 1423 | Liq + Ho4Sn5 -> Sn10Ho11 | Liq: Sn 0.666; Ho4Sn5: Sn 0.555556; Sn10Ho11: Sn 0.47619 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 10 |  |
+| 1417 | Liq + Ho4Sn5 -> Sn10Ho11 | Liq: Sn 0.66; Ho4Sn5: Sn 0.555556; Sn10Ho11: Sn 0.47619 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 9 |  |
+| 1387 | Liq + HoSn2 -> Ho4Sn5 | Liq: Sn 0.7; HoSn2: Sn 0.666667; Ho4Sn5: Sn 0.555556 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 7 |  |
+| 1380 | Liq + HoSn2 -> Ho4Sn5 | Liq: Sn 0.683; HoSn2: Sn 0.666667; Ho4Sn5: Sn 0.555556 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 8 |  |
+| 793 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | p. 1 | “For the HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation were reported, respectively, at 1,403, 793, and 693 K.” |
+| 782 | Liq + Ho2Sn5 -> HoSn2 | Liq: Sn 0.992; Ho2Sn5: Sn 0.714286; HoSn2: Sn 0.666667 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 6 |  |
+| 782 | peritectic |  | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1 | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
+| 782 | Liq + Ho2Sn5 -> HoSn2 | Liq: Sn 0.992; Ho2Sn5: Sn 0.714286; HoSn2: Sn 0.666667 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 5 |  |
+| 693 | Liq + HoSn3 -> Ho2Sn5 | Liq: Sn 0.995; HoSn3: Sn 0.75; Ho2Sn5: Sn 0.714286 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 3 |  |
+| 693 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | p. 1 | “For the HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation were reported, respectively, at 1,403, 793, and 693 K.” |
+| 693 | peritectic |  | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1 | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
+| 693 | Liq + HoSn3 -> Ho2Sn5 | Liq: Sn 0.998; HoSn3: Sn 0.75; Ho2Sn5: Sn 0.714286 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 4 |  |
+| 505 | Liq -> βSn + HoSn3 | Liq: Sn 1; βSn: Sn 1; HoSn3: Sn 0.75 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 2 |  |
+| 502 | Liq -> βSn + HoSn3 | Liq: Sn 0.999; βSn: Sn 1; HoSn3: Sn 0.75 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 1 |  |
+
+## Other properties
+
+### Phase transition (3)
+
+Table: Phase transition, Ho–Sn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 2181 K | 2181 | Liq -> Ho5Sn3; _Liq: Sn 0.375; Ho5Sn3: Sn 0.375_ | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 16 |  |
+| Phase transition | 2188 K | 2188 | Liq -> Ho5Sn3; _Liq: Sn 0.375; Ho5Sn3: Sn 0.375_ | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 15 |  |
+| Phase transition | 2188 K | 2188 | congruent | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1 | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. A. Iddaoudi, N. Selhaoui, S. Kardellass, M. Ait Amar, K. Mahdouk, H. Najih et al., Thermodynamic optimization of the Ho–Sn system, J Therm Anal Calorim 115, 941-945 (2014). [doi:10.1007/s10973-013-3352-4](https://doi.org/10.1007/s10973-013-3352-4)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

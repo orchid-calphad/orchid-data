@@ -1,0 +1,114 @@
+# Ag–Ce system
+
+> Ag–Ce system: 35 accepted literature values (invariant reaction 23, phase transition 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AG-CE.html · Markdown: https://data.orchid-project.org/systems/AG-CE.md
+
+35 accepted literature values from 1 paper(s) (experimental 26, model 9); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CE.json) · [CSV](https://data.orchid-project.org/systems/AG-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CE/AgCe-02Yin-LB.json) · [Markdown](https://data.orchid-project.org/systems/AG-CE.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 26 |
+| model | 9 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 23 |
+| phase transition | 12 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AgCe-02Yin-LB.tdb | F. Yin, M. Huang, X. Su, P. Zhang, Z. Li, Y. Shi, J. Alloys Compd., 334, 154-58(2002). [doi:10.1016/S0925-8388(01)01757-1](https://doi.org/10.1016/S0925-8388%2801%2901757-1) | `f1251075646ab97adcbef23c74a5f3a7d59076d3deb116002e8386e358980a34` | [viewer](https://orchid-project.org/phase-diagrams/#AG-CE/AgCe-02Yin-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgCe-02Yin-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgCe-02Yin-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AgCe-02Yin-LB.tdb | 1121.34 | AG51CE14 (x(Ce) 0.21538) + AG2CE (x(Ce) 0.33333) + LIQUID (x(Ce) 0.35279) |
+| AgCe-02Yin-LB.tdb | 1121.34 | AG51CE14 (x(Ce) 0.21538) + AG2CE (x(Ce) 0.33333) + LIQUID (x(Ce) 0.35252) |
+| AgCe-02Yin-LB.tdb | 1121.34 | AG51CE14 (x(Ce) 0.21538) + AG2CE (x(Ce) 0.33333) + LIQUID (x(Ce) 0.35288) |
+| AgCe-02Yin-LB.tdb | 1088.97 | LIQUID (x(Ce) 0.08876) + AG4CE (x(Ce) 0.2) + AG51CE14 (x(Ce) 0.21538) |
+| AgCe-02Yin-LB.tdb | 1088.97 | LIQUID (x(Ce) 0.08876) + AG4CE (x(Ce) 0.2) + AG51CE14 (x(Ce) 0.21538) |
+| AgCe-02Yin-LB.tdb | 1070.41 | AG2CE (x(Ce) 0.33333) + LIQUID (x(Ce) 0.41189) + AGCE (x(Ce) 0.5) |
+| AgCe-02Yin-LB.tdb | 1070.41 | AG2CE (x(Ce) 0.33333) + LIQUID (x(Ce) 0.41174) + AGCE (x(Ce) 0.5) |
+| AgCe-02Yin-LB.tdb | 1070.41 | AG2CE (x(Ce) 0.33333) + LIQUID (x(Ce) 0.41198) + AGCE (x(Ce) 0.5) |
+| AgCe-02Yin-LB.tdb | 1064.48 | FCC_A1 (x(Ce) 4.500e-4) + LIQUID (x(Ce) 0.08192) + AG4CE (x(Ce) 0.2) |
+| AgCe-02Yin-LB.tdb | 1064.48 | FCC_A1 (x(Ce) 4.400e-4) + LIQUID (x(Ce) 0.08187) + AG4CE (x(Ce) 0.2) |
+| AgCe-02Yin-LB.tdb | 891.81 | LIQUID (x(Ce) 0.85709) + BCC_A2 (x(Ce) 0.95478) + FCC_A1 (x(Ce) 0.98804) |
+| AgCe-02Yin-LB.tdb | 788.95 | AGCE (x(Ce) 0.5) + LIQUID (x(Ce) 0.78552) + FCC_A1 (x(Ce) 0.98014) |
+| AgCe-02Yin-LB.tdb | 788.95 | AGCE (x(Ce) 0.5) + LIQUID (x(Ce) 0.78548) + FCC_A1 (x(Ce) 0.98013) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-CE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-CE.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ag–Ce system (23)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1143.15 | L+Ag51Ce14->Ag2Ce | Ag51Ce14: Ce 0.215385; Ag2Ce: Ce 0.333333 | experimental | [1] Yin 2002; _cites Heumann 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990028-4) | Table 1, p. 3, row 18 |  |
+| 1128.15 | L+Ag51Ce14->Ag2Ce | L: Ce 0.35; Ag51Ce14: Ce 0.215385; Ag2Ce: Ce 0.333333 | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 17 |  |
+| 1128.15 | L+Ag51Ce14->Ag2Ce | L: Ce 0.35; Ag51Ce14: Ce 0.215385; Ag2Ce: Ce 0.333333 | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 16 |  |
+| 1121.15 | L+Ag51Ce14->Ag2Ce | L: Ce 0.353; Ag51Ce14: Ce 0.215385; Ag2Ce: Ce 0.333333 | model | [1] Yin 2002 | Table 1, p. 3, row 15 |  |
+| 1115.15 | L+Ag51Ce14->Ag4Ce | Ag51Ce14: Ce 0.215385; Ag4Ce: Ce 0.2 | experimental | [1] Yin 2002; _cites Heumann 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990028-4) | Table 1, p. 3, row 26 |  |
+| 1108.15 | L+Ag51Ce14->Ag4Ce | L: Ce 0.129; Ag51Ce14: Ce 0.215385; Ag4Ce: Ce 0.2 | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 24 |  |
+| 1089.15 | L+Ag51Ce14->Ag4Ce | L: Ce 0.089; Ag51Ce14: Ce 0.215385; Ag4Ce: Ce 0.2 | model | [1] Yin 2002 | Table 1, p. 3, row 23 |  |
+| 1088.15 | L+Ag51Ce14->Ag4Ce | L: Ce 0.129; Ag51Ce14: Ce 0.215385; Ag4Ce: Ce 0.2 | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 25 |  |
+| 1073.15 | L->Ag+Ag4Ce | L: Ce 0.1; Ag4Ce: Ce 0.2 | experimental | [1] Yin 2002; _cites Heumann 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990028-4) | Table 1, p. 3, row 30 |  |
+| 1073.15 | L->Ag+Ag4Ce | L: Ce 0.1; Ag4Ce: Ce 0.2 | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 28 |  |
+| 1070.15 | L->Ag2Ce+AgCe | L: Ce 0.412; Ag2Ce: Ce 0.333333; AgCe: Ce 0.5 | model | [1] Yin 2002 | Table 1, p. 3, row 11 |  |
+| 1066.15 | L->Ag+Ag4Ce | L: Ce 0.1; Ag4Ce: Ce 0.2 | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 29 |  |
+| 1064.15 | L->Ag+Ag4Ce | L: Ce 0.082; Ag4Ce: Ce 0.2 | model | [1] Yin 2002 | Table 1, p. 3, row 27 |  |
+| 1053.15 | L->Ag2Ce+AgCe | L: Ce 0.42; Ag2Ce: Ce 0.333333; AgCe: Ce 0.5 | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 13 |  |
+| 1053.15 | L->Ag2Ce+AgCe | L: Ce 0.435; Ag2Ce: Ce 0.333333; AgCe: Ce 0.5 | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 12 |  |
+| 1053.15 | L->Ag2Ce+AgCe | L: Ce 0.45; Ag2Ce: Ce 0.333333; AgCe: Ce 0.5 | experimental | [1] Yin 2002; _cites Heumann 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990028-4) | Table 1, p. 3, row 14 |  |
+| 983.15 | metatectic |  | experimental | [1] Yin 2002 | p. 2 | “d-Ce is stabilized down to 7108C by 2 at.% Ag and decomposes metatectically into the liquid and g-Ce.” |
+| 983.15 | δ-Ce->L+γ-Ce | L: Ce 0.94 | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 6 |  |
+| 893.15 | δ-Ce->L+γ-Ce | L: Ce 0.88 | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 5 |  |
+| 892.15 | δ-Ce->L+γ-Ce | L: Ce 0.857 | model | [1] Yin 2002 | Table 1, p. 3, row 4 |  |
+| 789.15 | L->AgCe+γ-Ce | L: Ce 0.786; AgCe: Ce 0.5 | model | [1] Yin 2002 | Table 1, p. 3, row 1 |  |
+| 783.15 | L->AgCe+γ-Ce | L: Ce 0.816; AgCe: Ce 0.5 | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 2 |  |
+| 778.15 | L->AgCe+γ-Ce | L: Ce 0.81; AgCe: Ce 0.5 | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 3 |  |
+
+## Other properties
+
+### Phase transition (12)
+
+Table: Phase transition, Ag–Ce system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 758.15 K | 758.15 |  | experimental | [1] Yin 2002 | p. 2 | “They reported the phase transformation of Ag 2 Ce at 5408C and 7358C and that of AgCe at 4858C.” |
+| Phase transition | 813.15 K | 813.15 |  | experimental | [1] Yin 2002 | p. 2 | “They reported the phase transformation of Ag 2 Ce at 5408C and 7358C and that of AgCe at 4858C.” |
+| Phase transition | 1008.15 K | 1008.15 |  | experimental | [1] Yin 2002 | p. 2 | “They reported the phase transformation of Ag 2 Ce at 5408C and 7358C and that of AgCe at 4858C.” |
+| Phase transition | 1053.15 K | 1053.15 | L↔AgCe1Ag 2 Ce | model | [1] Yin 2002 | p. 4 | “L↔AgCe1Ag 2 Ce at 7808C because of the unexplained thermal effect mentioned above.” |
+| Phase transition | 1123.15 K | 1123.15 | L->AgCe; _L: Ce 0.5; AgCe: Ce 0.5_ | model | [1] Yin 2002 | Table 1, p. 3, row 7 |  |
+| Phase transition | 1128.15 K | 1128.15 | L->AgCe; _L: Ce 0.5; AgCe: Ce 0.5_ | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 9 |  |
+| Phase transition | 1143.15 K | 1143.15 | L->AgCe; _L: Ce 0.5; AgCe: Ce 0.5_ | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 8 |  |
+| Phase transition | 1158.15 K | 1158.15 | L->AgCe; _L: Ce 0.5; AgCe: Ce 0.5_ | experimental | [1] Yin 2002; _cites Heumann 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990028-4) | Table 1, p. 3, row 10 |  |
+| Phase transition | 1303.15 K | 1303.15 | L->Ag51Ce14; _L: Ce 0.215385; Ag51Ce14: Ce 0.215385_ | experimental | [1] Yin 2002; _cites Stapf 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990239-4) | Table 1, p. 3, row 21 |  |
+| Phase transition | 1307.15 K | 1307.15 | L->Ag51Ce14; _L: Ce 0.215385; Ag51Ce14: Ce 0.215385_ | model | [1] Yin 2002 | Table 1, p. 3, row 19 |  |
+| Phase transition | 1313.15 K | 1313.15 | L->Ag51Ce14; _L: Ce 0.215385; Ag51Ce14: Ce 0.215385_ | experimental | [1] Yin 2002; _cites Delfino 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990093-4) | Table 1, p. 3, row 20 |  |
+| Phase transition | 1326.15 K | 1326.15 | L->Ag51Ce14; _L: Ce 0.215385; Ag51Ce14: Ce 0.215385_ | experimental | [1] Yin 2002; _cites Heumann 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990028-4) | Table 1, p. 3, row 22 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Fucheng Yin, Minhwa Huang, Xuping Su, Ping Zhang, Zhi Li, Ying Shi, Thermodynamic assessment of the Ag–Ce (silver–cerium) system, Journal of Alloys and Compounds 334, 154-158 (2002). [doi:10.1016/s0925-8388(01)01757-1](https://doi.org/10.1016/s0925-8388%2801%2901757-1)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

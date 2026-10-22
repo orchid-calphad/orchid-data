@@ -1,0 +1,104 @@
+# Fe–Pt system
+
+> Fe–Pt system: 13 accepted literature values (crystal structure 7, formation 3, mixing / partial 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/FE-PT.html · Markdown: https://data.orchid-project.org/systems/FE-PT.md
+
+13 accepted literature values from 1 paper(s) (experimental 3, model 3, DFT 7); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-PT.json) · [CSV](https://data.orchid-project.org/systems/FE-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-PT/FePt-01Fre-LB.json) · [Markdown](https://data.orchid-project.org/systems/FE-PT.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 3 |
+| model | 3 |
+| DFT | 7 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| formation | 3 |
+| mixing / partial | 3 |
+| crystal structure | 7 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| FePt-01Fre-LB.tdb | P. Fredriksson, B. Sundman, Calphad, 25, 535-48(2001). [doi:10.1016/S0364-5916(02)00006-8](https://doi.org/10.1016/S0364-5916%2802%2900006-8) | `1c359cccce909a246dca46c144efa495605d129dad66335c49703cf2aab2c8d4` | [viewer](https://orchid-project.org/phase-diagrams/#FE-PT/FePt-01Fre-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FePt-01Fre-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FePt-01Fre-LB.json) |
+| FePt-01Fre-orig.tdb | P. Fredriksson, B. Sundman, Calphad, 25, 535-48(2001). [doi:10.1016/S0364-5916(02)00006-8](https://doi.org/10.1016/S0364-5916%2802%2900006-8) | `a5386a32fd8404bfa9128435ef3e1a89c7f59c90464595e13ff41f5382c7629b` | [viewer](https://orchid-project.org/phase-diagrams/#FE-PT/FePt-01Fre-orig.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FePt-01Fre-orig.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FePt-01Fre-orig.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| FePt-01Fre-LB.tdb | 1788.78 | BCC_A2 (x(Pt) 0.02063) + FCC_4SL (x(Pt) 0.02598) + LIQUID (x(Pt) 0.03153) |
+| FePt-01Fre-LB.tdb | 1788.78 | BCC_A2 (x(Pt) 0.02063) + FCC_A1 (x(Pt) 0.02598) + LIQUID (x(Pt) 0.03153) |
+| FePt-01Fre-LB.tdb | 1667.47 | BCC_A2 (x(Pt) 0) + FCC_4SL (x(Pt) 0) + FCC_A1 (x(Pt) 0) |
+| FePt-01Fre-LB.tdb | 1184.81 | BCC_A2 (x(Pt) 0) + FCC_A1 (x(Pt) 0) + FCC_4SL (x(Pt) 0) |
+| FePt-01Fre-LB.tdb | 821.64 | BCC_A2 (x(Pt) 0.04262) + FCC_4SL#2 (x(Pt) 0.14372) + FCC_4SL (x(Pt) 0.21649) |
+| FePt-01Fre-LB.tdb | 821.64 | BCC_A2 (x(Pt) 0.04262) + FCC_A1 (x(Pt) 0.14372) + FCC_4SL (x(Pt) 0.21649) |
+| FePt-01Fre-orig.tdb | 1799.54 | BCC_A2 (x(Pt) 0.01047) + FCC_4SL (x(Pt) 0.01561) + LIQUID (x(Pt) 0.01621) |
+| FePt-01Fre-orig.tdb | 1799.54 | BCC_A2 (x(Pt) 0.01047) + FCC_A1 (x(Pt) 0.01561) + LIQUID (x(Pt) 0.01621) |
+| FePt-01Fre-orig.tdb | 1184.81 | BCC_A2 (x(Pt) 0) + FCC_4SL (x(Pt) 0) + FCC_A1 (x(Pt) 0) |
+| FePt-01Fre-orig.tdb | 1070.32 | FCC_4SL (x(Pt) 0.33006) + FCC_A1 (x(Pt) 0.3387) + FCC_4SL#2 (x(Pt) 0.37733) |
+| FePt-01Fre-orig.tdb | 801.75 | BCC_A2 (x(Pt) 0.03743) + FCC_4SL#2 (x(Pt) 0.14017) + FCC_4SL (x(Pt) 0.21358) |
+| FePt-01Fre-orig.tdb | 801.75 | BCC_A2 (x(Pt) 0.03743) + FCC_A1 (x(Pt) 0.14017) + FCC_4SL (x(Pt) 0.21358) |
+| FePt-01Fre-orig.tdb | 801.75 | BCC_A2 (x(Pt) 0.03743) + FCC_4SL (x(Pt) 0.14017) + FCC_4SL#2 (x(Pt) 0.21358) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/FE/FE-PT.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/FE/FE-PT.json) · [CALPHAD hull FePt-01Fre-orig](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-PT--FePt-01Fre-orig.json)
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Fe–Pt system (3)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Fe3Pt |  | -19.361 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8 |  |
+| FePt |  | -30.924 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8 |  |
+| FePt3 |  | -23.233 kJ/mol-atom | 0 | DFT |  |  | [1] Kim 2011 | Table 3, p. 3, row 8 |  |
+
+## Other properties
+
+### Mixing / partial (3)
+
+Table: Mixing / partial, Fe–Pt system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔHmix_ | -44250 J/mol-atom | 0 | Fe3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -65250 J/mol-atom | 0 | FePt; _alloy: Pt 0.5_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -48938 J/mol-atom | 0 | FePt3; _alloy: Pt 0.75_ | model | [1] Kim 2011; _cites Fredriksson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900006-8) | Table 3, p. 3, row 9 |  |
+
+### Crystal structure (7)
+
+Table: Crystal structure, Fe–Pt system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 3.73 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Leroux 2033_ | Table 3, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 3.737 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
+| Lattice a; _printed: a_ | 3.861 Å | 0 | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 2033_ | Table 3, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 3.855 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
+| Lattice a; _printed: a_ | 3.911 Å | 0 | FePt3; _alloy: Pt 0.75_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
+| Lattice c; _printed: c_ | 3.788 Å | 0 | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 3, p. 3, row 4 |  |
+| Lattice c; _printed: c_ | 3.757 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 3 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. DongEung Kim, James E. Saal, Liangcai Zhou, ShunLi Shang, Yong Du, Zi-Kui Liu, Thermodynamic modeling of fcc order/disorder transformations in the Co–Pt system, Calphad 35, 323-330 (2011). [doi:10.1016/j.calphad.2011.04.005](https://doi.org/10.1016/j.calphad.2011.04.005)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

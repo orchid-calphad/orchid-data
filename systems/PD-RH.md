@@ -1,0 +1,62 @@
+# Pd–Rh system
+
+> Pd–Rh system: 7 accepted literature values (phase transition 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/PD-RH.html · Markdown: https://data.orchid-project.org/systems/PD-RH.md
+
+7 accepted literature values from 1 paper(s) (experimental 5, model 2); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RH.json) · [CSV](https://data.orchid-project.org/systems/PD-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-RH/PdRh-04Kor-LB.json) · [Markdown](https://data.orchid-project.org/systems/PD-RH.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 5 |
+| model | 2 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 7 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| PdRh-04Kor-LB.tdb | J. Korb, unpublished, 2004. | `236e300bbb2d33e34d83081b8217378cb3814bb32a6b7b76d36bf51fbdc1ab39` | [viewer](https://orchid-project.org/phase-diagrams/#PD-RH/PdRh-04Kor-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PdRh-04Kor-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PdRh-04Kor-LB.json) |
+| PdRh-16Gos.tdb | S. Gosse, N. Dupin, C. Gueneau, J.-C. Crivello, J.-M. Joubert, J. Nucl. Mater., 474, 163-73(2016). [doi:10.1016/j.jnucmat.2016.03.025](https://doi.org/10.1016/j.jnucmat.2016.03.025) | `e23fb73960334343652acc0668da329796ede66bec9b7930bdd609cd0c6a39b7` | [viewer](https://orchid-project.org/phase-diagrams/#PD-RH/PdRh-16Gos.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PdRh-16Gos.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PdRh-16Gos.json) |
+| PdRh-22Lau.tdb | C. Laurin, A. Quaini, E. Regnier, A. Laplace, T. Croze, S. Gosse, J. Chem. Thermodyn., 172, 106831(2022). [doi:10.1016/j.jct.2022.106831](https://doi.org/10.1016/j.jct.2022.106831) | `fab4e8c17fea05f7d104b916275a0f6eb6137427838d5a14987e0ca0da3bcbb8` | [viewer](https://orchid-project.org/phase-diagrams/#PD-RH/PdRh-22Lau.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PdRh-22Lau.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PdRh-22Lau.json) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/PD/PD-RH.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PD/PD-RH.json) · [CALPHAD hull PdRh-04Kor-LB](https://data.orchid-project.org/hulls/calphad-sgte/PD/PD-RH--PdRh-04Kor-LB.json) · [CALPHAD hull PdRh-16Gos](https://data.orchid-project.org/hulls/calphad-sgte/PD/PD-RH--PdRh-16Gos.json)
+
+## Other properties
+
+### Phase transition (7)
+
+Table: Phase transition, Pd–Rh system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1183 K | 1183 |  | model | [1] Gossé 2016; _cites Gurler 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990291-t) | p. 5 | “This temperature is slightly higher than the electrical resistivity results by Shield and Williams \[32\] and the 1183 K calculated value by Gürler et al. \[24\].” |
+| Phase transition | 1204 K | 1204 |  | model | [1] Gossé 2016 | p. 5 | “The use of all the experimental data led to a critical point at 53.6 at.% Rh in good accordance with \[30,32,36\]. The critical temperature is calculated at 1204 K.” |
+| Phase transition | 1827.8 K | 1827.8 | solidus | experimental | [1] Gossé 2016 | Table 4, p. 5, row 1 |  |
+| Phase transition | 1832.8 K | 1832.8 | solidus; _alloy: Pd 0.9646, Rh 0.0354_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 2 |  |
+| Phase transition | 1833.3 K | 1833.3 | solidus; _alloy: Pd 0.9456, Rh 0.0544_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 3 |  |
+| Phase transition | 1842.2 K | 1842.2 | solidus; _alloy: Pd 0.8961, Rh 0.1039_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 4 |  |
+| Phase transition | 1878.6 K | 1878.6 | solidus; _alloy: Pd 0.7583, Rh 0.2417_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. S. Gossé, N. Dupin, C. Guéneau, J.-C. Crivello, J.-M. Joubert, Thermodynamic assessment of the Pd Rh Ru system using calphad and first-principles methods, Journal of Nuclear Materials 474, 163-173 (2016). [doi:10.1016/j.jnucmat.2016.03.025](https://doi.org/10.1016/j.jnucmat.2016.03.025)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

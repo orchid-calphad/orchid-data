@@ -1,0 +1,75 @@
+# Mn3O4: enthalpy of formation
+
+> Enthalpy of formation of Mn3O4: 37 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Mn3O4.html · Markdown: https://data.orchid-project.org/compounds/Mn3O4.md
+
+37 accepted literature formation-enthalpy value(s) (experimental 19, model 14, unspecified 4); experimental median -196.78 kJ/mol-atom (n = 19); Materials Project -197.834 kJ/mol-atom (mp-aaaabbtn); OQMD -200.053 kJ/mol-atom (oqmd-5975).
+
+Systems: [Mn–O](https://data.orchid-project.org/systems/MN-O.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Mn3O4 reported in the literature (37)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -206.35 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 11, p. 16, row 15 |  |
+| -206.35 kJ/mol-atom | Mn3O4 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 11, p. 16, row 60 |  |
+| -201.266 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 16 |  |
+| -201.266 kJ/mol-atom | Mn3O4 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 61 |  |
+| -201.206 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 17 |  |
+| -201.206 kJ/mol-atom | Mn3O4 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 62 |  |
+| -198.364 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | experimental | solution | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 11, p. 16, row 18 |  |
+| -198.364 kJ/mol-atom | Mn3O4 | 298.15 | experimental | solution | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 11, p. 16, row 63 |  |
+| -196.78 kJ/mol-atom | Mn3O4 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 11, p. 16, row 59 |  |
+| -196.78 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 11, p. 16, row 14 |  |
+| -196.181 kJ/mol-atom | Mn3O4 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 58 |  |
+| -196.181 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 13 |  |
+| 196.181 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Le 1896_ | Table 1, p. 5, row 1 |  |
+| 196.78 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 1, p. 5, row 2 |  |
+| 198.156 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Mah 1960_ | Table 1, p. 5, row 7 |  |
+| 198.216 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Robie 1968_ | Table 1, p. 5, row 8 |  |
+| 198.364 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 1, p. 5, row 6 |  |
+| 201.266 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Siemonsen 1939_ | Table 1, p. 5, row 4 |  |
+| 206.35 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 1, p. 5, row 3 |  |
+| -198.397 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 21 |  |
+| -198.397 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 66 |  |
+| -198.216 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Robie 1968_ | Table 11, p. 16, row 20 |  |
+| -198.216 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Robie 1968_ | Table 11, p. 16, row 65 |  |
+| -198.2 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 68 |  |
+| -198.2 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 23 |  |
+| -198.156 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 19 |  |
+| -198.156 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 64 |  |
+| -198.014 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 22 |  |
+| -198.014 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 67 |  |
+| -197.534 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003 | Table 11, p. 16, row 69 |  |
+| -197.534 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003 | Table 11, p. 16, row 24 |  |
+| 197.534 kJ/mol-atom | Mn3O4 | 298.15 | model |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Grundy 2003_ | Table 1, p. 5, row 12 |  |
+| 197.914 kJ/mol-atom | Mn3O4 | 298.15 | model |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010 | Table 1, p. 5, row 13 |  |
+| 198.014 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Knacke 2010_ | Table 1, p. 5, row 10 |  |
+| 198.2 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | Table 1, p. 5, row 11 |  |
+| 198.397 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Pankratz 1982_ | Table 1, p. 5, row 9 |  |
+| 201.206 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Ulich 1940_ | Table 1, p. 5, row 5 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Mn3O4
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaabbtn | -197.834 | -2.05041 | I4_1/amd | 0 | no |
+| OQMD | oqmd-5975 | -200.053 | -2.07341 | I41/amd | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. A. Nicholas Grundy, Bengt Hallstedt, Ludwig J. Gauckler, Assessment of the Mn-O system, JPE 24, 21-39 (2003). [doi:10.1007/s11669-003-0004-6](https://doi.org/10.1007/s11669-003-0004-6)
+2. Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010). [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

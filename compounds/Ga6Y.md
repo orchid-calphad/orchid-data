@@ -1,0 +1,38 @@
+# Ga6Y: enthalpy of formation
+
+> Enthalpy of formation of Ga6Y: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Ga6Y.html · Markdown: https://data.orchid-project.org/compounds/Ga6Y.md
+
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -29.959 kJ/mol-atom (mp-aaaabtkb); OQMD -30.859 kJ/mol-atom (oqmd-17313).
+
+Systems: [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Ga6Y reported in the literature (1)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -35 kJ/mol-atom | Ga6Y | 298.15 | model | Interpolated | [Ga–Y](https://data.orchid-project.org/systems/GA-Y.html) | [1] Idbenali 2013 | Table 5, p. 7, row 1 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Ga6Y
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaabtkb | -29.959 | -0.3105 | P4/nbm | 0 | no |
+| OQMD | oqmd-17313 | -30.859 | -0.319833 | P4/nbm | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. M. Idbenali, C. Servant, Thermodynamic evaluation of the Ga–Y system, J Therm Anal Calorim 112, 245-253 (2013). [doi:10.1007/s10973-012-2861-x](https://doi.org/10.1007/s10973-012-2861-x)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

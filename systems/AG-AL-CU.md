@@ -1,0 +1,39 @@
+# Ag–Al–Cu system
+
+> Ag–Al–Cu system: 1 accepted literature values (invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AG-AL-CU.html · Markdown: https://data.orchid-project.org/systems/AG-AL-CU.md
+
+1 accepted literature values from 1 paper(s) (experimental 1); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-AL-CU.json) · [CSV](https://data.orchid-project.org/systems/AG-AL-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-AL-CU) · [Markdown](https://data.orchid-project.org/systems/AG-AL-CU.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 1 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 1 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ag–Al–Cu system (1)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 775 | eutectic |  | experimental | [1] Witusiewicz 2004 | p. 10 | “Excellent agreement with the experimental data is obtained across the entire system (Fig. 7), whereas the results of calculation according to \[12\] deviate from calorimetric data, especially strongly when extrapolating to the temperature of the invariant eutectic in the ternary Ag-Al-Cu system (775 K).” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004). [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

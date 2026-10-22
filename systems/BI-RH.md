@@ -1,0 +1,105 @@
+# Bi–Rh system
+
+> Bi–Rh system: 26 accepted literature values (invariant reaction 24, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/BI-RH.html · Markdown: https://data.orchid-project.org/systems/BI-RH.md
+
+26 accepted literature values from 1 paper(s) (experimental 19, model 7); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-RH.json) · [CSV](https://data.orchid-project.org/systems/BI-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-RH/BiRh-20Zob.json) · [Markdown](https://data.orchid-project.org/systems/BI-RH.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 19 |
+| model | 7 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 24 |
+| phase transition | 2 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| BiRh-20Zob.tdb | O. Zobac, A. Kroupa, J. Phase Equilib. Diffus., 41, 900-906(2020). [doi:10.1007/s11669-020-00854-w](https://doi.org/10.1007/s11669-020-00854-w) | `32604489a1ba747545276273d0f6604faa12fa5949b118c070ee97f3d76f1bef` | [viewer](https://orchid-project.org/phase-diagrams/#BI-RH/BiRh-20Zob.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/BiRh-20Zob.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/BiRh-20Zob.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| BiRh-20Zob.tdb | 1252.99 | LIQUID (x(Rh) 0.46973) + BIRH_B81 (x(Rh) 0.49618) + FCC_A1 (x(Rh) 0.98971) |
+| BiRh-20Zob.tdb | 1058.19 | LIQUID (x(Rh) 0.29831) + BI2RH_HT (x(Rh) 0.33333) + BIRH_B81 (x(Rh) 0.46135) |
+| BiRh-20Zob.tdb | 1058.19 | LIQUID (x(Rh) 0.29844) + BI2RH_HT (x(Rh) 0.33333) + BIRH_B81 (x(Rh) 0.4614) |
+| BiRh-20Zob.tdb | 755.1 | BI2RH_HT (x(Rh) 0.33333) + BI55RH45_B31 (x(Rh) 0.45) + BIRH_B81 (x(Rh) 0.46682) |
+| BiRh-20Zob.tdb | 755.1 | BI2RH_HT (x(Rh) 0.33333) + BI55RH45_B31 (x(Rh) 0.45) + BIRH_B81 (x(Rh) 0.46686) |
+| BiRh-20Zob.tdb | 734.56 | LIQUID (x(Rh) 0.14134) + BI4RH (x(Rh) 0.2) + BI2RH_HT (x(Rh) 0.33333) |
+| BiRh-20Zob.tdb | 734.56 | LIQUID (x(Rh) 0.14132) + BI4RH (x(Rh) 0.2) + BI2RH_HT (x(Rh) 0.33333) |
+| BiRh-20Zob.tdb | 734.56 | LIQUID (x(Rh) 0.1413) + BI4RH (x(Rh) 0.2) + BI2RH_HT (x(Rh) 0.33333) |
+| BiRh-20Zob.tdb | 703.05 | BI2RH_HT (x(Rh) 0.33333) + BI2RH_LT (x(Rh) 0.33333) + BI55RH45_B31 (x(Rh) 0.45) |
+| BiRh-20Zob.tdb | 703.05 | BI4RH (x(Rh) 0.2) + BI2RH_LT (x(Rh) 0.33333) + BI2RH_HT (x(Rh) 0.33333) |
+| BiRh-20Zob.tdb | 540.16 | RHOMBOHEDRAL_A7 (x(Rh) 0) + LIQUID (x(Rh) 0.01682) + BI4RH (x(Rh) 0.2) |
+| BiRh-20Zob.tdb | 540.16 | RHOMBOHEDRAL_A7 (x(Rh) 0) + LIQUID (x(Rh) 0.01666) + BI4RH (x(Rh) 0.2) |
+| BiRh-20Zob.tdb | 540.16 | RHOMBOHEDRAL_A7 (x(Rh) 0) + LIQUID (x(Rh) 0.01665) + BI4RH (x(Rh) 0.2) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BI/BI-RH.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BI/BI-RH.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Bi–Rh system (24)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1270.15 | L + Rh -> BiRh | L: Rh 0.45; Rh: Rh 1 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 2 |  |
+| 1253.25 | L + Rh -> BiRh | L: Rh 0.471; Rh: Rh 1; BiRh: Rh 0.496 | model | [1] Zobač 2020 | Table 2, p. 3, row 4 |  |
+| 1252.15 | L + Rh -> BiRh | L: Rh 0.47; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 3 |  |
+| 1250.15 | Peritectic: L + Rh -> BiRh | L: Rh 0.46; Rh: Rh 1; BiRh: Rh 0.5 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 1 |  |
+| 1058.15 | L + BiRh -> Bi2Rh_HT | L: Rh 0.29; BiRh: Rh 0.47; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 7 |  |
+| 1058.05 | L + BiRh -> Bi2Rh_HT | L: Rh 0.298; BiRh: Rh 0.461; Bi2Rh_HT: Rh 0.333 | model | [1] Zobač 2020 | Table 2, p. 3, row 8 |  |
+| 1053.15 | Peritectic: L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.48; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 5 |  |
+| 1049.15 | L + BiRh -> Bi2Rh_HT | L: Rh 0.295; BiRh: Rh 0.45; Bi2Rh_HT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 6 |  |
+| 755.05 | Bi2Rh_HT + BiRh -> Bi55Rh45 | Bi2Rh_HT: Rh 0.333; BiRh: Rh 0.493; Bi55Rh45: Rh 0.467 | model | [1] Zobač 2020 | Table 2, p. 3, row 10 |  |
+| 753.15 | Peritectoid: Bi2Rh_HT + BiRh -> Bi55Rh45 | BiRh: Rh 0.5; Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 9 |  |
+| 739.15 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.083; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 12 |  |
+| 734.35 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.141; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | model | [1] Zobač 2020 | Table 2, p. 3, row 14 |  |
+| 733.15 | Peritectic: L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.07; Bi2Rh_HT: Rh 0.333; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 11 |  |
+| 732.15 | L + Bi2Rh_HT -> Ri4Rh | L: Rh 0.085; Ri4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 13 |  |
+| 713.15 | Peritectoid: Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi55Rh45: Rh 0.45 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 17 |  |
+| 701.85 | Bi2Rh_HT + Bi55Rh45 -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi55Rh45: Rh 0.45; Bi2Rh_LT: Rh 0.334 | model | [1] Zobač 2020 | Table 2, p. 3, row 18 |  |
+| 699.95 | Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi4Rh: Rh 0.2; Bi2Rh_LT: Rh 0.334 | model | [1] Zobač 2020 | Table 2, p. 3, row 20 |  |
+| 699.15 | Eutectoid: Bi2Rh_HT -> Bi4Rh + Bi2Rh_LT | Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 19 |  |
+| 698.15 | Polymorphic: Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 15 |  |
+| 643.15 | Bi2Rh_HT -> Bi2Rh_LT | Bi2Rh_HT: Rh 0.333; Bi2Rh_LT: Rh 0.333 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 16 |  |
+| 542.15 | Eutectic: L -> Bi + Bi4Rh | L: Rh 0.01; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Predel 1992_ | Table 2, p. 3, row 21 |  |
+| 540.15 | L -> Bi + Bi4Rh | L: Rh 0.017; Bi: Rh 0; Bi4Rh: Rh 0.2 | model | [1] Zobač 2020 | Table 2, p. 3, row 24 |  |
+| 539.15 | L -> Bi + Bi4Rh | L: Rh 0.005; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Okamoto 2010_ [doi](https://doi.org/10.1007/s11669-010-9660-5) | Table 2, p. 3, row 22 |  |
+| 539.15 | L -> Bi + Bi4Rh | L: Rh 0.005; Bi: Rh 0; Bi4Rh: Rh 0.2 | experimental | [1] Zobač 2020; _cites Kainzbauer 2018_ | Table 2, p. 3, row 23 |  |
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Bi–Rh system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 520.15 K | 520.15 | Bi14Rh3 -> Bi4Rh + Bi | experimental | [1] Zobač 2020; _cites Weitzer 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.016) | p. 2 | “A second metastable phase Bi14Rh3 was reported by Gu et al.\[22\] to exist in metastable phase diagram from 173°C and decomposes into Bi4Rh and Bi at 247 °C.\[4\]” |
+| Phase transition | 771.15 K | 771.15 | polymorphic | experimental | [1] Zobač 2020; _cites Zhuravlev 1955_ | p. 2 | “First studies\[2,17\] of the Bi2Rh_LT phases described it as having a monoclinic structure and with a polymorphic transition to Bi2Rh_HT at 498 °C.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Ondřej Zobač, Aleš Kroupa, The Thermodynamic Assessment of the Binary System Bi-Rh, J. Phase Equilib. Diffus. 41, 900-906 (2020). [doi:10.1007/s11669-020-00854-w](https://doi.org/10.1007/s11669-020-00854-w)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

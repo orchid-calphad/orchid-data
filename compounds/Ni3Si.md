@@ -1,0 +1,53 @@
+# Ni3Si: enthalpy of formation
+
+> Enthalpy of formation of Ni3Si: 14 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/Ni3Si.html · Markdown: https://data.orchid-project.org/compounds/Ni3Si.md
+
+14 accepted literature formation-enthalpy value(s) (experimental 3, model 6, DFT 3, unspecified 2); experimental median -37.7 kJ/mol-atom (n = 3); Materials Project -44.25 kJ/mol-atom (mp-aaaaabfw); OQMD -44.834 kJ/mol-atom (oqmd-17803).
+
+Systems: [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) · [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)
+
+## Literature values
+
+Table: Enthalpy of formation of Ni3Si reported in the literature (14)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -37.7 kJ/mol-atom | Ni3Si–L12 | 0 | experimental | Experiment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Oelsen 1936_ | Table 1, p. 4, row 7 |  |
+| -37.7 kJ/mol-atom | Ni3Si–L12 | 0 | experimental | Experiment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Oelsen 1936_ | Table 2, p. 4, row 7 |  |
+| -37.2 kJ/mol-atom | Ni3Si(β1) | 298.15 | experimental |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
+| -47.1 kJ/mol-atom | Ni3Si(β1) |  | model | CALPHAD assessment | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
+| -44.672 kJ/mol-atom | Ni3Si–L12 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 5 |  |
+| -44.672 kJ/mol-atom | Ni3Si–L12 | 0 | model | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 2, p. 4, row 5 |  |
+| -40.582 kJ/mol-atom | Ni3Si–L12 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 6 |  |
+| -40.582 kJ/mol-atom | Ni3Si–L12 | 0 | model | CALPHAD | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 1, p. 4, row 6 |  |
+| -40.1 kJ/mol-atom | Ni3Si(β1) |  | model |  | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
+| -49.2 kJ/mol-atom | Ni3Si(β1) | 0 | DFT | ab initio | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [2] Tokunaga 2003 | Table 4, p. 7, row 4 |  |
+| -40.02 kJ/mol-atom | Ni3Si(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
+| -40.02 kJ/mol-atom | Ni3Si(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
+| -44.671 kJ/mol-atom | Ni3Si–L12 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012 | Table 1, p. 4, row 4 |  |
+| -44.671 kJ/mol-atom | Ni3Si–L12 | 0 | unspecified | FP | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html) | [1] Yuan 2012 | Table 2, p. 4, row 4 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Ni3Si
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaabfw | -44.25 | -0.458622 | Pm-3m | 0 | no |
+| OQMD | oqmd-17803 | -44.834 | -0.46467 | Pm-3m | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012). [doi:10.1016/j.matchemphys.2012.04.028](https://doi.org/10.1016/j.matchemphys.2012.04.028)
+2. Tatsuya Tokunaga, Kazumasa Nishio, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic assessment of the Ni–Si system by incorporating ab initio energetic calculations into the CALPHAD approach, Calphad 27, 161-168 (2003). [doi:10.1016/s0364-5916(03)00049-x](https://doi.org/10.1016/s0364-5916%2803%2900049-x)
+3. Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004). [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

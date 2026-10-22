@@ -1,0 +1,109 @@
+# Mn–Y system
+
+> Mn–Y system: 3 accepted literature values (invariant reaction 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/MN-Y.html · Markdown: https://data.orchid-project.org/systems/MN-Y.md
+
+3 accepted literature values from 1 paper(s) (model 3); 3 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-Y.json) · [CSV](https://data.orchid-project.org/systems/MN-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-Y/MnY-01Gro-LB.json) · [Markdown](https://data.orchid-project.org/systems/MN-Y.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 3 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 3 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| MnY-01Gro-LB.tdb | J. Groebner, A. Pisch, R. Schmid-Fetzer, J. Alloys Compd., 317-318, 433-37(2001). [doi:10.1016/S0925-8388(00)01364-5](https://doi.org/10.1016/S0925-8388%2800%2901364-5) | `ba5b41e4ad56782c53dd0ba97dd5ef7c76798941823fcae72c551f594f2d9cb8` | [viewer](https://orchid-project.org/phase-diagrams/#MN-Y/MnY-01Gro-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnY-01Gro-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnY-01Gro-LB.json) |
+| MnY-24Ye.tdb | H. Ye, J. Wang, Q. Chen, G. Rao, H. Zhou, Mater. Genome Eng. Adv., 2, 39(2024). [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39) | `9f1eefdac758e6321d852d183f86972c7056e7bca4b1bbcc74f61adae002c134` | [viewer](https://orchid-project.org/phase-diagrams/#MN-Y/MnY-24Ye.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnY-24Ye.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnY-24Ye.json) |
+| MnY-97Fla.tdb | H. Flandorfer, J. Groebner, A. Stamou, N. Hassiotis, A. Saccone, P. Rogl, R. Wouters, H. Seifert, D. Maccio, R. Ferro, G. Haidemenopoulus, L. Delaey, G. Effenberg, Z. Metallkd., 88, 529-38(1997). [doi:10.3139/ijmr-1997-0099](https://doi.org/10.3139/ijmr-1997-0099) | `29b5ac67d4a151d6360b06f15a363d800604c7c4ca8dc4a1f21e0532c9344d87` | [viewer](https://orchid-project.org/phase-diagrams/#MN-Y/MnY-97Fla.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MnY-97Fla.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MnY-97Fla.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| MnY-01Gro-LB.tdb | 1750.95 | LIQUID (x(Y) 0.98084) + BCC_A2 (x(Y) 0.99961) + HCP_A3 (x(Y) 0.99965) |
+| MnY-01Gro-LB.tdb | 1409.24 | FCC_A1 (x(Y) 3.900e-4) + BCC_A2 (x(Y) 5.900e-4) + LIQUID (x(Y) 0.07086) |
+| MnY-01Gro-LB.tdb | 1375.68 | MN23Y6_D8A (x(Y) 0.2069) + LIQUID (x(Y) 0.29726) + MN2Y_C15 (x(Y) 0.33333) |
+| MnY-01Gro-LB.tdb | 1375.67 | MN23Y6_D8A (x(Y) 0.2069) + LIQUID (x(Y) 0.29774) + MN2Y_C15 (x(Y) 0.33333) |
+| MnY-01Gro-LB.tdb | 1375.67 | MN23Y6_D8A (x(Y) 0.2069) + LIQUID (x(Y) 0.29784) + MN2Y_C15 (x(Y) 0.33333) |
+| MnY-01Gro-LB.tdb | 1372.11 | FCC_A1 (x(Y) 5.000e-4) + MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.09696) |
+| MnY-01Gro-LB.tdb | 1372.11 | FCC_A1 (x(Y) 5.000e-4) + MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.09679) |
+| MnY-01Gro-LB.tdb | 1365.82 | MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.11719) + MN23Y6_D8A (x(Y) 0.2069) |
+| MnY-01Gro-LB.tdb | 1365.81 | MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.11688) + MN23Y6_D8A (x(Y) 0.2069) |
+| MnY-01Gro-LB.tdb | 1356.87 | CUB_A13 (x(Y) 0) + FCC_A1 (x(Y) 4.400e-4) + MN12Y_D2B (x(Y) 0.07692) |
+| MnY-01Gro-LB.tdb | 1356.87 | CUB_A13 (x(Y) 0) + FCC_A1 (x(Y) 4.400e-4) + MN12Y_D2B (x(Y) 0.07692) |
+| MnY-01Gro-LB.tdb | 1172.99 | MN2Y_C15 (x(Y) 0.33333) + LIQUID (x(Y) 0.63955) + HCP_A3 (x(Y) 0.99799) |
+| MnY-01Gro-LB.tdb | 1172.99 | MN2Y_C15 (x(Y) 0.33333) + LIQUID (x(Y) 0.63967) + HCP_A3 (x(Y) 0.99799) |
+| MnY-01Gro-LB.tdb | 980 | CUB_A13 (x(Y) 0) + CBCC_A12 (x(Y) 0) + MN12Y_D2B (x(Y) 0.07692) |
+| MnY-01Gro-LB.tdb | 529.93 | MN23Y6_D8A (x(Y) 0.2069) + MN2Y_C15 (x(Y) 0.33333) + HCP_A3 (x(Y) 1) |
+| MnY-24Ye.tdb | 1749.37 | LIQUID (x(Y) 0.98016) + BCC_A2 (x(Y) 0.99961) + HCP_A3 (x(Y) 0.99996) |
+| MnY-24Ye.tdb | 1749.37 | LIQUID (x(Y) 0.98016) + BCC_A2 (x(Y) 0.99961) + HCP_A3 (x(Y) 0.99996) |
+| MnY-24Ye.tdb | 1408.76 | FCC_A1 (x(Y) 1.000e-5) + BCC_A2 (x(Y) 2.700e-4) + LIQUID (x(Y) 0.06267) |
+| MnY-24Ye.tdb | 1408.76 | FCC_A1 (x(Y) 1.000e-5) + BCC_A2 (x(Y) 2.700e-4) + LIQUID (x(Y) 0.06265) |
+| MnY-24Ye.tdb | 1365.97 | FCC_A1 (x(Y) 2.000e-5) + MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.08661) |
+| MnY-24Ye.tdb | 1365.97 | FCC_A1 (x(Y) 2.000e-5) + MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.08657) |
+| MnY-24Ye.tdb | 1359.87 | CUB_A13 (x(Y) 0) + FCC_A1 (x(Y) 2.000e-5) + MN12Y_D2B (x(Y) 0.07692) |
+| MnY-24Ye.tdb | 1357.68 | MN23Y6_D8A (x(Y) 0.2069) + LIQUID (x(Y) 0.31137) + MN2Y_C15 (x(Y) 0.33333) |
+| MnY-24Ye.tdb | 1357.68 | MN23Y6_D8A (x(Y) 0.2069) + LIQUID (x(Y) 0.31132) + MN2Y_C15 (x(Y) 0.33333) |
+| MnY-24Ye.tdb | 1353.48 | MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.11911) + MN23Y6_D8A (x(Y) 0.2069) |
+| MnY-24Ye.tdb | 1353.48 | MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.11936) + MN23Y6_D8A (x(Y) 0.2069) |
+| MnY-24Ye.tdb | 1148.52 | MN2Y_C15 (x(Y) 0.33333) + LIQUID (x(Y) 0.60009) + HCP_A3 (x(Y) 0.99992) |
+| MnY-24Ye.tdb | 1148.52 | MN2Y_C15 (x(Y) 0.33333) + LIQUID (x(Y) 0.60017) + HCP_A3 (x(Y) 0.99992) |
+| MnY-24Ye.tdb | 980 | CUB_A13 (x(Y) 0) + CBCC_A12 (x(Y) 0) + MN12Y_D2B (x(Y) 0.07692) |
+| MnY-24Ye.tdb | 891.69 | MN23Y6_D8A (x(Y) 0.2069) + MN2Y_C15 (x(Y) 0.33333) + HCP_A3 (x(Y) 0.99999) |
+| MnY-24Ye.tdb | 891.69 | MN23Y6_D8A (x(Y) 0.2069) + MN2Y_C15 (x(Y) 0.33333) + HCP_A3 (x(Y) 0.99999) |
+| MnY-24Ye.tdb | 891.69 | MN23Y6_D8A (x(Y) 0.2069) + MN2Y_C15 (x(Y) 0.33333) + HCP_A3 (x(Y) 0.99999) |
+| MnY-24Ye.tdb | 667.99 | MN23Y6_D8A (x(Y) 0.2069) + MN2Y_C15 (x(Y) 0.33333) + HCP_A3 (x(Y) 1) |
+| MnY-97Fla.tdb | 1753.89 | LIQUID (x(Y) 0.98067) + HCP_A3 (x(Y) 0.99801) + BCC_A2 (x(Y) 0.99853) |
+| MnY-97Fla.tdb | 1425.09 | BCC_A2 (x(Y) 6.000e-4) + FCC_A1 (x(Y) 0.00223) + LIQUID (x(Y) 0.05252) |
+| MnY-97Fla.tdb | 1371.87 | MN23Y6_D8A (x(Y) 0.2069) + LIQUID (x(Y) 0.28242) + MN2Y_C15 (x(Y) 0.33333) |
+| MnY-97Fla.tdb | 1371.87 | MN23Y6_D8A (x(Y) 0.2069) + LIQUID (x(Y) 0.28248) + MN2Y_C15 (x(Y) 0.33333) |
+| MnY-97Fla.tdb | 1371.87 | MN23Y6_D8A (x(Y) 0.2069) + LIQUID (x(Y) 0.28284) + MN2Y_C15 (x(Y) 0.33333) |
+| MnY-97Fla.tdb | 1368 | FCC_A1 (x(Y) 0.00419) + MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.083) |
+| MnY-97Fla.tdb | 1368 | FCC_A1 (x(Y) 0.00418) + MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.08287) |
+| MnY-97Fla.tdb | 1355.93 | MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.12253) + MN23Y6_D8A (x(Y) 0.2069) |
+| MnY-97Fla.tdb | 1355.93 | MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.12286) + MN23Y6_D8A (x(Y) 0.2069) |
+| MnY-97Fla.tdb | 1355.93 | MN12Y_D2B (x(Y) 0.07692) + LIQUID (x(Y) 0.12285) + MN23Y6_D8A (x(Y) 0.2069) |
+| MnY-97Fla.tdb | 1339.95 | CUB_A13 (x(Y) 0) + FCC_A1 (x(Y) 0.00288) + MN12Y_D2B (x(Y) 0.07692) |
+| MnY-97Fla.tdb | 1339.95 | CUB_A13 (x(Y) 0) + FCC_A1 (x(Y) 0.00285) + MN12Y_D2B (x(Y) 0.07692) |
+| MnY-97Fla.tdb | 1161.63 | MN2Y_C15 (x(Y) 0.33333) + LIQUID (x(Y) 0.63167) + HCP_A3 (x(Y) 0.97799) |
+| MnY-97Fla.tdb | 1161.63 | MN2Y_C15 (x(Y) 0.33333) + LIQUID (x(Y) 0.63164) + HCP_A3 (x(Y) 0.97799) |
+| MnY-97Fla.tdb | 980 | CUB_A13 (x(Y) 0) + CBCC_A12 (x(Y) 0) + MN12Y_D2B (x(Y) 0.07692) |
+| MnY-97Fla.tdb | 444.53 | MN12Y_D2B (x(Y) 0.07692) + MN23Y6_D8A (x(Y) 0.2069) + MN2Y_C15 (x(Y) 0.33333) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-Y.json) · [CALPHAD hull MnY-01Gro-LB](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-Y--MnY-01Gro-LB.json) · [CALPHAD hull MnY-97Fla](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-Y--MnY-97Fla.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Mn–Y system (3)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1370.1 | eutectic: L ↔ Mn2Y þ Mn23Y6 |  | model | [1] Ye 2024 | p. 22 | “The calculated compositions and temperatures of the three eutectic reactions (L ↔ Mn12Y þ Mn23Y6, L ↔ Mn2Y þ Mn23Y6, and L ↔ Mn2Y þ hcp-Y) are 11.9 at.% Y and 1353.4 K, 29.1 at.% Y and 1370.1 K, and 60.6 at.% Y and 1151.7 K, respectively.” |
+| 1353.4 | eutectic: L ↔ Mn12Y þ Mn23Y6 |  | model | [1] Ye 2024 | p. 22 | “The calculated compositions and temperatures of the three eutectic reactions (L ↔ Mn12Y þ Mn23Y6, L ↔ Mn2Y þ Mn23Y6, and L ↔ Mn2Y þ hcp-Y) are 11.9 at.% Y and 1353.4 K, 29.1 at.% Y and 1370.1 K, and 60.6 at.% Y and 1151.7 K, respectively.” |
+| 1151.7 | eutectic: L ↔ Mn2Y þ hcp-Y |  | model | [1] Ye 2024 | p. 22 | “The calculated compositions and temperatures of the three eutectic reactions (L ↔ Mn12Y þ Mn23Y6, L ↔ Mn2Y þ Mn23Y6, and L ↔ Mn2Y þ hcp-Y) are 11.9 at.% Y and 1353.4 K, 29.1 at.% Y and 1370.1 K, and 60.6 at.% Y and 1151.7 K, respectively.” |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Hongjian Ye, Jiang Wang, Qing Chen, Guanghui Rao, Huaiying Zhou, Development of thermodynamic database of the Mn‐RE (RE = rare earth metals) binary systems, Materials Genome Engineering Advances 2 (2024). [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

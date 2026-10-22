@@ -1,0 +1,143 @@
+# V–Zn system
+
+> V–Zn system: 34 accepted literature values (crystal structure 15, invariant reaction 14, phase transition 4, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/V-ZN.html · Markdown: https://data.orchid-project.org/systems/V-ZN.md
+
+34 accepted literature values from 2 paper(s) (experimental 19, model 9, unspecified 6); 2 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/V-ZN.json) · [CSV](https://data.orchid-project.org/systems/V-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#V-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#V-ZN/VZn-10Cha.json) · [Markdown](https://data.orchid-project.org/systems/V-ZN.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 19 |
+| model | 9 |
+| unspecified | 6 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| invariant reaction | 14 |
+| phase transition | 4 |
+| formation | 1 |
+| crystal structure | 15 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| VZn-10Cha.tdb | K. Chang, Y. Du, W. Sun, H. Xu, L.C. Zhou, Calphad, 34, 75-80(2010). [doi:10.1016/j.calphad.2009.12.003](https://doi.org/10.1016/j.calphad.2009.12.003) | `d4533862db93cd15d8b0278ac566b0641974dc5251df68dc48fbd8986e2b27b4` | [viewer](https://orchid-project.org/phase-diagrams/#V-ZN/VZn-10Cha.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/VZn-10Cha.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/VZn-10Cha.json) |
+| VZn-11Wu.tdb | C. Wu, X. Su, D. Liu, X. Wang, J. Wang, Z. Li, H. Peng, Calphad, 35, 403-10(2011). [doi:10.1016/j.calphad.2011.05.005](https://doi.org/10.1016/j.calphad.2011.05.005) | `8818a90f31db30691288fcd0a84ae8fdf51c26dcb9fb302676c8ca8a18401f69` | [viewer](https://orchid-project.org/phase-diagrams/#V-ZN/VZn-11Wu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/VZn-11Wu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/VZn-11Wu.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| VZn-10Cha.tdb | 2183.33 | LIQUID (x(Zn) 4.000e-5) + BCC_A2 (x(Zn) 2.200e-4) + GAS (x(Zn) 0.99998) |
+| VZn-10Cha.tdb | 1180.6 | BCC_A2 (x(Zn) 0.00635) + LIQUID (x(Zn) 0.99089) + GAS (x(Zn) 1) |
+| VZn-10Cha.tdb | 1180.6 | BCC_A2 (x(Zn) 0.00635) + LIQUID (x(Zn) 0.99089) + GAS (x(Zn) 1) |
+| VZn-10Cha.tdb | 943.15 | BCC_A2 (x(Zn) 0.00218) + V4ZN5 (x(Zn) 0.55556) + LIQUID (x(Zn) 0.99034) |
+| VZn-10Cha.tdb | 943.15 | BCC_A2 (x(Zn) 0.00217) + V4ZN5 (x(Zn) 0.55556) + LIQUID (x(Zn) 0.99034) |
+| VZn-10Cha.tdb | 896.13 | V4ZN5 (x(Zn) 0.55556) + VZN3_L12 (x(Zn) 0.75) + LIQUID (x(Zn) 0.99149) |
+| VZn-10Cha.tdb | 896.13 | V4ZN5 (x(Zn) 0.55556) + VZN3_L12 (x(Zn) 0.75) + LIQUID (x(Zn) 0.99148) |
+| VZn-10Cha.tdb | 896.13 | V4ZN5 (x(Zn) 0.55556) + VZN3_L12 (x(Zn) 0.75) + LIQUID (x(Zn) 0.99149) |
+| VZn-10Cha.tdb | 691.85 | VZN3_L12 (x(Zn) 0.75) + LIQUID (x(Zn) 0.99823) + HCP_A3 (x(Zn) 0.99975) |
+| VZn-11Wu.tdb | 2183.06 | LIQUID (x(Zn) 5.000e-5) + BCC_A2 (x(Zn) 8.000e-5) + GAS (x(Zn) 0.99998) |
+| VZn-11Wu.tdb | 1180.58 | BCC_A2 (x(Zn) 0.02327) + LIQUID (x(Zn) 0.99113) + GAS (x(Zn) 1) |
+| VZn-11Wu.tdb | 1180.58 | BCC_A2 (x(Zn) 0.02326) + LIQUID (x(Zn) 0.99113) + GAS (x(Zn) 1) |
+| VZn-11Wu.tdb | 924.3 | BCC_A2 (x(Zn) 0.02892) + V4ZN5 (x(Zn) 0.55556) + LIQUID (x(Zn) 0.99131) |
+| VZn-11Wu.tdb | 924.3 | BCC_A2 (x(Zn) 0.02893) + V4ZN5 (x(Zn) 0.55556) + LIQUID (x(Zn) 0.99131) |
+| VZn-11Wu.tdb | 893.24 | V4ZN5 (x(Zn) 0.55556) + VZN3_L12 (x(Zn) 0.75) + LIQUID (x(Zn) 0.99211) |
+| VZn-11Wu.tdb | 893.24 | V4ZN5 (x(Zn) 0.55556) + VZN3_L12 (x(Zn) 0.75) + LIQUID (x(Zn) 0.99211) |
+| VZn-11Wu.tdb | 893.24 | V4ZN5 (x(Zn) 0.55556) + VZN3_L12 (x(Zn) 0.75) + LIQUID (x(Zn) 0.99211) |
+| VZn-11Wu.tdb | 700.54 | VZN3_L12 (x(Zn) 0.75) + VZN16 (x(Zn) 0.94118) + LIQUID (x(Zn) 0.99834) |
+| VZn-11Wu.tdb | 700.54 | VZN3_L12 (x(Zn) 0.75) + VZN16 (x(Zn) 0.94118) + LIQUID (x(Zn) 0.99834) |
+| VZn-11Wu.tdb | 700.54 | VZN3_L12 (x(Zn) 0.75) + VZN16 (x(Zn) 0.94118) + LIQUID (x(Zn) 0.99833) |
+| VZn-11Wu.tdb | 692.01 | VZN16 (x(Zn) 0.94118) + LIQUID (x(Zn) 0.99877) + HCP_A3 (x(Zn) 0.99999) |
+| VZn-11Wu.tdb | 692.01 | VZN16 (x(Zn) 0.94118) + LIQUID (x(Zn) 0.99877) + HCP_A3 (x(Zn) 0.99999) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/V/V-ZN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/V/V-ZN.json) · [CALPHAD hull VZn-10Cha](https://data.orchid-project.org/hulls/calphad-sgte/V/V-ZN--VZn-10Cha.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the V–Zn system (14)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 943.15 | L + (V) -> V4Zn5 | L: Zn 0.9903; V4Zn5: V 0.444444, Zn 0.555556 | model | [1] Chang 2010 | Table 2, p. 2, row 2 |  |
+| 943.15 | L + (V) -> V4Zn5 | L: Zn 0.9904; V4Zn5: V 0.444444, Zn 0.555556 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 1 |  |
+| 924.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “The peritectic temperatures for two equilibrium phases, V4 Zn5 and VZn3 , were 651 ◦ C and 621 ◦ C, respectively.” |
+| 924.15 | peritectic: (V) + Liq ↔ V4 Zn5 |  | experimental | [2] Wu 2011 | p. 5 | “A thermodynamic reassessment of the V-Zn system was justified based on the new findings made in the present study: (1) It was confirmed that VZn16 was a stable compound; (2) The peritectic reaction temperature of (V) + Liq ↔ V4 Zn5 was determined to be 651 °C, which was significantly lower than a previous report; and (3) The solubility of Zn in V was measured.” |
+| 924.15 | peritectic |  | experimental | [2] Wu 2011 | p. 8 | “(3) The peritectic reaction temperatures for VZn3 and V4 Zn5 were determined to be 621 °C and 651 °C, respectively.” |
+| 896.15 | L + V4Zn5 -> VZn3 | L: Zn 0.9915; V4Zn5: V 0.444444, Zn 0.555556; VZn3: V 0.25, Zn 0.75 | model | [1] Chang 2010 | Table 2, p. 2, row 4 |  |
+| 896.15 | L + V4Zn5 -> VZn3 | L: Zn 0.9915; V4Zn5: V 0.444444, Zn 0.555556; VZn3: V 0.25, Zn 0.75 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 3 |  |
+| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “The peritectic temperatures for two equilibrium phases, V4 Zn5 and VZn3 , were 651 ◦ C and 621 ◦ C, respectively.” |
+| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 4 | “It is worth noting that the equilibrium peritectic temperature of VZn3 is 621 °C.” |
+| 894.15 | peritectic |  | experimental | [2] Wu 2011 | p. 8 | “(3) The peritectic reaction temperatures for VZn3 and V4 Zn5 were determined to be 621 °C and 651 °C, respectively.” |
+| 700.15 (none) | peritectic |  | experimental | [2] Wu 2011 | p. 1 | “DTA results indicated that the peritectic temperature for VZn16 was about 427 ◦ C.” |
+| 700.15 | peritectic: VZn3 + Liq. → VZn16 |  | experimental | [2] Wu 2011 | p. 3 | “Therefore, it was believed that the peritectic reaction temperature of VZn3 + Liq. → VZn16 was around 427 °C.” |
+| 691.85 | L -> VZn3 + (Zn) | L: Zn 0.99823; VZn3: V 0.25, Zn 0.75 | model | [1] Chang 2010 | Table 2, p. 2, row 6 |  |
+| 690.45 | L -> VZn3 + (Zn) | L: Zn 0.99828; VZn3: V 0.25, Zn 0.75 | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 2, p. 2, row 5 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, V–Zn system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| — |  | -1.1 kJ/mol (basis unstated) | 298 | model |  |  | [2] Wu 2011 | p. 7 | “The formation enthalpy of VZn16 was given a small value of -1100 J/mol at 298 K by considering the difficulty of its formation.” |
+
+## Other properties
+
+### Phase transition (4)
+
+Table: Phase transition, V–Zn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 894.15 K | 894.15 | VZn3 | experimental | [2] Wu 2011 | p. 3 | “From the DTA test results of some V-Zn alloys with heating rate of 3 °C/min, it can be determined that the transformation temperature for VZn3 is 621 °C, which agrees well with Chasanov's results \[5\].” |
+| Phase transition | 924.15 K | 924.15 | V4Zn5 | experimental | [2] Wu 2011 | p. 3 | “The transformation temperature for V4 Zn5 is 651 °C, which is 18 °C lower than Chasanov's results \[5\].” |
+| Phase transition | 1179.65 K | 1179.65 | Gas + (V) ↔ Liquid | model | [2] Wu 2011 | p. 7 | “According to the calculation, there is one invariant reaction: Gas + (V) ↔ Liquid at 906.5 °C.” |
+| Phase transition | 1193.75 K | 1193.75 | Gas + (V) ↔ Liquid | model | [1] Chang 2010 | p. 4 | “According to the calculation, there is one invariant reaction: Gas + (V) ↔ Liquid at 920.6 ◦ C.” |
+
+### Crystal structure (15)
+
+Table: Crystal structure, V–Zn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.2668 Å |  | (Zn); _alloy: Zn 1_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 4 |  |
+| Lattice a | 0.303 Å |  | V; _alloy: Zn 0_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 2 |  |
+| Lattice a | 0.8872 Å |  | V4Zn5; _alloy: Zn 0.555556_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 7 |  |
+| Lattice a | 0.3823 Å |  | VZn3; _alloy: Zn 0.75_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 10 |  |
+| Lattice a | 0.26646 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [1] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
+| Lattice a | 0.30271 Å | 298.15 | V; _alloy: Zn 0_ | model | [1] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 0.891 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Piotrowski 1965_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 0.891 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 0.3848 Å | 298.15 | VZn3; _alloy: Zn 0.75_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 0.3849 Å | 298.15 | VZn3; _alloy: Zn 0.75_ | experimental | [1] Chang 2010; _cites Wendorff 1964_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 0.50158 Å |  | (Zn); _alloy: Zn 1_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 4 |  |
+| Lattice c | 0.3196 Å |  | V4Zn5; _alloy: Zn 0.555556_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 7 |  |
+| Lattice c | 0.49641 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [1] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
+| Lattice c | 0.322 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Piotrowski 1965_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 0.3227 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 5 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Keke Chang, Yong Du, Weihua Sun, Honghui Xu, LiangCai Zhou, Thermodynamic assessment of the V–Zn system supported by key experiments and first-principles calculations, Calphad 34, 75-80 (2010). [doi:10.1016/j.calphad.2009.12.003](https://doi.org/10.1016/j.calphad.2009.12.003)
+2. Changjun Wu, Xuping Su, Daniel Liu, Xinming Wang, Jianhua Wang, Zhi Li et al., The V–Zn binary system: New experimental results and thermodynamic assessment, Calphad 35, 403-410 (2011). [doi:10.1016/j.calphad.2011.05.005](https://doi.org/10.1016/j.calphad.2011.05.005)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

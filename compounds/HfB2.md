@@ -1,0 +1,44 @@
+# HfB2: enthalpy of formation
+
+> Enthalpy of formation of HfB2: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/HfB2.html · Markdown: https://data.orchid-project.org/compounds/HfB2.md
+
+7 accepted literature formation-enthalpy value(s) (experimental 6, model 1); experimental median -105.8 kJ/mol-atom (n = 6); Materials Project -98.211 kJ/mol-atom (mp-aaaaacys); OQMD -98.749 kJ/mol-atom (oqmd-5848).
+
+Systems: [B–Hf](https://data.orchid-project.org/systems/B-HF.html)
+
+## Literature values
+
+Table: Enthalpy of formation of HfB2 reported in the literature (7)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -117.633 kJ/mol-atom | HfB2 | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Krupka 1962_ | Table 3, p. 4, row 13 |  |
+| -109.633 kJ/mol-atom ± 8.8 | HfB2 | 298.15 | experimental | Fluorine bomb calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 67Joh_ | Table 3, p. 4, row 15 |  |
+| -106.567 kJ/mol-atom | HfB2 | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 14 |  |
+| -105.033 kJ/mol-atom | HfB2 | 298.15 | experimental | Tensimetric (reduction of HfO2 to HfB2 with B and B4C) | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Paderno 1959_ | Table 3, p. 4, row 12 |  |
+| -87.3 kJ/mol-atom ± 5 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 4, row 17 |  |
+| -83.1333 kJ/mol-atom ± 5.9 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Kitpichev 1979_ | Table 3, p. 4, row 18 |  |
+| -106.567 kJ/mol-atom | HfB2 |  | model |  | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of HfB2
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---|
+| Materials Project | mp-aaaaacys | -98.211 | -1.01789 | P6/mmm | 0 | no |
+| OQMD | oqmd-5848 | -98.749 | -1.02347 | P6/mmm | 0.002 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system boron-hafnium-titanium (B-Hf-Ti), JPE 18, 24-47 (1997). [doi:10.1007/bf02646757](https://doi.org/10.1007/bf02646757)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

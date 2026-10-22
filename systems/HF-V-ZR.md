@@ -1,0 +1,74 @@
+# Hf–V–Zr system
+
+> Hf–V–Zr system: 24 accepted literature values (formation 16, mixing / partial 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/HF-V-ZR.html · Markdown: https://data.orchid-project.org/systems/HF-V-ZR.md
+
+24 accepted literature values from 1 paper(s) (model 24); 0 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/HF-V-ZR.json) · [CSV](https://data.orchid-project.org/systems/HF-V-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-V-ZR) · [Markdown](https://data.orchid-project.org/systems/HF-V-ZR.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 24 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| formation | 16 |
+| mixing / partial | 8 |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Hf–V–Zr system (16)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Laves |  | -5.181 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 10 |  |
+| Laves |  | -5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 7 |  |
+| Laves |  | -4.786 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 8 |  |
+| Laves |  | -4.681 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 9 |  |
+| Laves |  | -3.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
+| Laves |  | -3.344 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
+| Laves |  | -3.204 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
+| Laves |  | -2.813 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
+| Laves phase |  | -5.181 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 10 |  |
+| Laves phase |  | -5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 7 |  |
+| Laves phase |  | -4.786 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 8 |  |
+| Laves phase |  | -4.681 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 9 |  |
+| Laves phase |  | -3.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
+| Laves phase |  | -3.344 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
+| Laves phase |  | -3.204 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
+| Laves phase |  | -2.813 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
+
+## Other properties
+
+### Mixing / partial (8)
+
+Table: Mixing / partial, Hf–V–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔHmelting_ | -5528 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4350 J/mol (basis unstated) | 298.15 | liquid | model | [1] Servant 2005 | Table 1, p. 2, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4670 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4420 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4692 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5, Zr 0_ | model | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4204 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4350 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -3920 J/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0, V 0.5, Zr 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 10 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. C. Servant, Thermodynamic Assessments of the Phase Diagrams of the Hafnium-Vanadium and Vanadium-Zirconium Systems, Journal of Phase Equilibria &amp; Diffusion 26, 39-49 (2005). [doi:10.1361/15477030522464](https://doi.org/10.1361/15477030522464)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).

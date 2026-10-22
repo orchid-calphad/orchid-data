@@ -1,0 +1,75 @@
+# Ag–Os system
+
+> Ag–Os system: 7 accepted literature values (crystal structure 6, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+
+HTML: https://data.orchid-project.org/systems/AG-OS.html · Markdown: https://data.orchid-project.org/systems/AG-OS.md
+
+7 accepted literature values from 1 paper(s) (experimental 7); 1 calculated phase diagram(s).
+
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-OS.json) · [CSV](https://data.orchid-project.org/systems/AG-OS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-OS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-OS/AgOs-86Kar-LB.json) · [Markdown](https://data.orchid-project.org/systems/AG-OS.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 7 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| phase transition | 1 |
+| crystal structure | 6 |
+
+## Calculated phase diagrams
+
+Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
+
+Table: Assessments with a calculated phase diagram
+
+| TDB file | Assessment | SHA-256 | Links |
+|---|---|---|---|
+| AgOs-86Kar-LB.tdb | I. Karakaya, W.T. Thompson, Bull. Alloy Phase Diag., 7, 360-62(1986). [doi:10.1007/BF02873022](https://doi.org/10.1007/BF02873022) | `575874308ce082e522536fdf72947bd50f6f4e0c9344f445095a407f290cc906` | [viewer](https://orchid-project.org/phase-diagrams/#AG-OS/AgOs-86Kar-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgOs-86Kar-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgOs-86Kar-LB.json) |
+
+Table: Calculated three-phase invariants (model, mole fraction of the second component)
+
+| TDB file | T (K) | Phases at the invariant |
+|---|---:|---|
+| AgOs-86Kar-LB.tdb | 3107.11 | LIQUID (x(Os) 0.29634) + LIQUID#2 (x(Os) 0.77444) + HCP_A3 (x(Os) 0.99997) |
+| AgOs-86Kar-LB.tdb | 1234.43 | FCC_A1 (x(Os) 3.000e-5) + LIQUID (x(Os) 4.700e-4) + HCP_A3 (x(Os) 0.99994) |
+| AgOs-86Kar-LB.tdb | 1234.43 | FCC_A1 (x(Os) 3.000e-5) + LIQUID (x(Os) 4.700e-4) + HCP_A3 (x(Os) 0.99994) |
+
+Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-OS.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-OS.json)
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Ag–Os system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 2173.15 K | 2173.15 | other | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 3 | “A monotectic reaction was reported at about 1900 ~ and near 20 at.% Ag \[59Rud\].” |
+
+### Crystal structure (6)
+
+Table: Crystal structure, Ag–Os system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Os 0_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 0.27348 nm | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
+| Lattice c | 0.43913 nm | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
+| lattice lattice parameter a | 0.40861 nm | 298.15 | Ag(s); _Ag(s): Ag 1, Os 0_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
+| lattice lattice parameter a | 0.27348 nm | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
+| lattice lattice parameter c | 0.43913 nm | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. I. Karakaya, W. T. Thompson, The Ag−Os (Silver-Osmium) system, Bulletin of Alloy Phase Diagrams 7, 360-362 (1986). [doi:10.1007/bf02873022](https://doi.org/10.1007/bf02873022)
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Each quoted sentence is reproduced under fair use so the value can be checked; source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt).
