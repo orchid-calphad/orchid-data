@@ -18,12 +18,12 @@
  ],
  "exclude": [],
  "n_files": 16,
- "total_bytes": 140086,
+ "total_bytes": 141249,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 7266,
-   "sha256": "dc63e91d00713509f3236a62568dd58afa5b109c9a61efe379e6c425edd3607e"
+   "bytes": 7839,
+   "sha256": "14716e99b6ac90cee396e2dfff4e166bc7b008e9bdceeb2f0f0a6e89d04787e3"
   },
   {
    "path": "CITATION.cff",
@@ -97,8 +97,8 @@
   },
   {
    "path": "zenodo/phase-registry.metadata.json",
-   "bytes": 7784,
-   "sha256": "3659b918852a0a4c64f49314155dac3d9fbbcd60bbcf0b4be61d0afb37c87d3f"
+   "bytes": 8374,
+   "sha256": "e999710b3932162b645dfb0cfd43ab192177a75b6df27ff1e50a96d712c1dc5d"
   }
  ]
 }

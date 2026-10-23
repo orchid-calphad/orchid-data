@@ -3,12 +3,17 @@
 ## Unreleased — phase registry v0 (2026-10-23)
 
 New dataset **ORCHID phase registry (binary systems)** (`phases/`, Zenodo record `phase-registry`,
-10.5281/zenodo.PENDING-phase-registry, `hasPart` of the umbrella): 10,496 phases in 1,241 binary systems, 43,229 names
-(TDB 22,556, paper labels 8,463, corpus 10,916, Materials Project 647, OQMD 647), 22,556 TDB phase declarations, stability from the
+10.5281/zenodo.PENDING-phase-registry, `hasPart` of the umbrella): 10,496 phases in 1,241 binary systems, 43,251 names
+(TDB 22,556, paper labels 8,463, corpus 10,916, Materials Project 658, OQMD 658), 22,556 TDB phase declarations, stability from the
 calculated diagrams, up to 10 example references per phase (9,927 phases with references, 3,014 distinct DOIs).
-Structure types only when certain: 6,259 from the standard phase name (tier A), 150 DFT-supported (tier B: unique
-Materials Project + OQMD on-hull match), 1,305 liquid and 231 gas; 2,493 phases in the review queue with candidates,
-58 without candidates. Built by `tools/build_phase_registry.py` (orchid-project.org).
+Structure types: 6,259 from the standard phase name (tier A), 150 DFT-supported (tier B: unique Materials Project +
+OQMD on-hull match), 1,253 assessment-declared (tier C, assessor-stated: exactly one consistent structure in the
+Hallstedt 2025 crystallographic table for that phase name and system), 1,305 liquid and 231 gas; 1,240 phases in the
+review queue with candidates, 58 without candidates. Every TDB model carries `tdb_definition`: the verbatim PHASE,
+CONSTITUENT and TYPE_DEFINITION statements with line numbers (8,392 distinct type definitions), a parsed view
+(type codes, sublattices, site ratios, constituents with major-constituent markers, magnetic model, order/disorder
+partner), parameter counts by kind and interaction order, and links to the file on orchid-project.org and in
+orchid-calphad/orchid-pipeline. Built by `tools/build_phase_registry.py` (orchid-project.org).
 
 ## v2026.10 — Version 1, machine-extracted (2026-10-22)
 

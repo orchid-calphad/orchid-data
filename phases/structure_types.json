@@ -3,7 +3,7 @@
  "registry_version": "0.1.0",
  "release": "v2026.10",
  "license": "CC-BY-4.0",
- "description": "One entry per (binary system, phase). Structure types are assigned only when certain (tier A: standard phase name; tier B: unique MP+OQMD on-hull match); otherwise candidates are listed and the phase is marked needs_review. Field reference: SCHEMA.md.",
+ "description": "One entry per (binary system, phase). Structure types are assigned only when certain (tier A: standard phase name; tier B: unique MP+OQMD on-hull match; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); otherwise candidates are listed and the phase is marked needs_review. Field reference: SCHEMA.md.",
  "id_rule": "phase:<sorted lower-case elements>:<slug>, the SGTE-corpus canonical id convention",
  "stability_rule": "calculated diagrams: pycalphad 0.11.2, 300-2500 K unless calc_T_range_K is given, 1 atm, 0.01 composition grid (orchid-data phase-diagrams/sgte)",
  "inputs": {
@@ -16,6 +16,7 @@
   "orchid-data/literature/papers.json": "8f4e8a8b88c612d5fd4451ae4793f145b831c13b852badd0bb72308f39512fc1",
   "orchid-data/literature/systems/*.json (sha256 of 'sha256  name' lines)": "883398a1434b1bd5340a6b3da28bac27911185501c76ccd606f49a51477a3272",
   "orchid-data/phase-diagrams/sgte/*.json (sha256 of 'sha256  name' lines)": "e45dc48fe72cb03c5db7d7a675b9681a09f1f803369a946c19f02161c5f79b7d",
+  "orchid-pipeline origin/main:databases (git tree id)": "a8ed3aa4252a581510fb06fff73d87ab32b57024",
   "sgte-corpus phase_mapping records (sha256 of the linked lines)": "c20244b2e504ba9e21415b123b69f4921238d5ccefa7d9690e414cbaee4cf616",
   "sgte-corpus/db-v2.1/canonical_phase_aliases.json": "8c5568b3e840441045a0d3118abb0ee74d9c0f6782cb1d676d44f775d847745c",
   "sgte-corpus/tdb_pdf_links.json": "8251f23d41e0be8d1d8b1365baa90944683c0adb5ff164c054c30bb578b649fa"
@@ -69,7 +70,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ag19te10",
@@ -110,7 +111,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:agcu4zr",
@@ -151,7 +152,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:agsr-op16",
@@ -173,7 +174,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:ag28al36sc36",
@@ -252,7 +253,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ag3p11-mc28",
@@ -296,7 +297,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ag4ce",
@@ -356,7 +357,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 24
   },
   {
    "id": "st:ag55al27sc18",
@@ -457,7 +458,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:ag8mg25-cf264",
@@ -501,7 +502,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ag9yb2",
@@ -542,7 +543,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al2-75ir-cp60",
@@ -586,7 +587,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 13
   },
   {
    "id": "st:al11mn4-ap15",
@@ -608,7 +609,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:al11nd3-oi28",
@@ -630,7 +631,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al12er3ni2",
@@ -671,7 +672,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 4
   },
   {
    "id": "st:al13ba7-hp20",
@@ -693,7 +694,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al13co4",
@@ -759,7 +760,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al13ir4",
@@ -822,7 +823,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al14gd3ni7-hp72",
@@ -866,7 +867,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al18co5ni3-mc26",
@@ -976,7 +977,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alau2-op30",
@@ -998,7 +999,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alau4-cp20",
@@ -1020,7 +1021,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:almgb4-hp6",
@@ -1086,7 +1087,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:aldy-op16",
@@ -1108,7 +1109,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 6
   },
   {
    "id": "st:aler13ni6",
@@ -1338,7 +1339,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alyo3-hp10",
@@ -1502,7 +1503,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al23v4-hp54",
@@ -1524,7 +1525,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al28ir9-hp236",
@@ -1546,7 +1547,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al2b3",
@@ -1760,7 +1761,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al2gd3-tp20",
@@ -1782,7 +1783,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al2li3-hr5",
@@ -1804,7 +1805,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:al2sio5-ap32",
@@ -1974,7 +1975,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al2te3-mp40",
@@ -1996,7 +1997,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al2te5-mc14",
@@ -2018,7 +2019,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al2zr3-tp20",
@@ -2040,7 +2041,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 5
   },
   {
    "id": "st:al30mg23-hr53",
@@ -2084,7 +2085,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al3ru4b2-tp18",
@@ -2169,7 +2170,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:al3mn-op156",
@@ -2213,7 +2214,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al3ni2y-hp18",
@@ -2323,7 +2324,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al3re",
@@ -2402,7 +2403,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 3
   },
   {
    "id": "st:al3zr4-hp7",
@@ -2446,7 +2447,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al45mg28-cf1832",
@@ -2490,7 +2491,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 4
   },
   {
    "id": "st:al4co4-oc36",
@@ -2578,7 +2579,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mu-al4mn-hp574",
@@ -2710,7 +2711,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al4si5zr3-ti24",
@@ -2754,7 +2755,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al52mg47",
@@ -2795,7 +2796,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al5ba4-hp18",
@@ -2858,7 +2859,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al5cu2mg8si6-hp21",
@@ -2899,7 +2900,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al5fe2-oc24",
@@ -2921,7 +2922,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:al5mo-hr12",
@@ -2965,7 +2966,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al5ti3-tp32",
@@ -2987,7 +2988,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al5w-hp12",
@@ -3072,7 +3073,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al6beo10-mp136",
@@ -3340,7 +3341,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al7w3",
@@ -3769,7 +3770,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:lias-mp16",
@@ -3791,7 +3792,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:nbas-ti8",
@@ -3873,7 +3874,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:sias-mc24",
@@ -3895,7 +3896,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 4
   },
   {
    "id": "st:cd3as2-ti160",
@@ -3917,7 +3918,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:feas2-op6",
@@ -3980,7 +3981,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:ndas2-mp12",
@@ -4002,7 +4003,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:nias2-op24",
@@ -4046,7 +4047,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:tias2-op24",
@@ -4090,7 +4091,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:znas2-mp24",
@@ -4112,7 +4113,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sn4as3-hr7",
@@ -4134,7 +4135,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:rb5as4-mc20",
@@ -4156,7 +4157,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni11as8-tp76",
@@ -4200,7 +4201,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 5
   },
   {
    "id": "st:au10zr7-ti34",
@@ -4279,7 +4280,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:auzn4",
@@ -4320,7 +4321,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:au2th3",
@@ -4361,7 +4362,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:au2zr3",
@@ -4402,7 +4403,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:au3zn-oc32",
@@ -4506,7 +4507,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:au2-5cr7-5zn90-cf548",
@@ -4528,7 +4529,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:au51ce14",
@@ -4632,7 +4633,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 3
   },
   {
    "id": "st:au6sm-tp56",
@@ -4654,7 +4655,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:au7ga2",
@@ -4846,7 +4847,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mgb2c2-oc80",
@@ -4956,7 +4957,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd5b2-mc28",
@@ -5000,7 +5001,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:v2b3-oc20",
@@ -5022,7 +5023,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:crb4-oi10",
@@ -5085,7 +5086,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mnb4-mc10",
@@ -5129,7 +5130,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:gd2b5-mp28",
@@ -5173,7 +5174,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:yb66-cf1936",
@@ -5195,7 +5196,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 8
   },
   {
    "id": "st:co2pr5b6-hr13",
@@ -5239,7 +5240,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sib6-op280",
@@ -5283,7 +5284,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:mgb7-oi64",
@@ -5346,7 +5347,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ba17pb23",
@@ -5387,7 +5388,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 5
+   "registry_phases": 6
   },
   {
    "id": "st:bacu-hp8",
@@ -5409,7 +5410,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:bacuo2-ci400",
@@ -5519,7 +5520,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 5
   },
   {
    "id": "st:baptsb-hp3",
@@ -5818,7 +5819,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ba5si3-tp32",
@@ -5840,7 +5841,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 6
   },
   {
    "id": "st:ba6ni5o15-hr26",
@@ -5884,7 +5885,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 3
   },
   {
    "id": "st:be10ti",
@@ -5944,7 +5945,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:be17ru3-ci60",
@@ -5966,7 +5967,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:be17v2",
@@ -6105,7 +6106,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:biti2-ti12",
@@ -6127,7 +6128,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:biti3",
@@ -6320,7 +6321,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:bi3ni-op16",
@@ -6342,7 +6343,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:bi3pd5-hp16",
@@ -6383,7 +6384,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:bi3ti2",
@@ -6424,7 +6425,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 9
   },
   {
    "id": "st:bi4k5-mc18",
@@ -6446,7 +6447,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:bi4rh-ci120",
@@ -6490,7 +6491,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:bi4se5",
@@ -6553,7 +6554,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:bi8se9-hr17",
@@ -6575,7 +6576,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:fe4c-cp5",
@@ -6729,7 +6730,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:cenic2-oc8",
@@ -6795,7 +6796,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mn5c2-mc28",
@@ -6817,7 +6818,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 11
   },
   {
    "id": "st:pu3c2",
@@ -6902,7 +6903,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:v4c3-hr20",
@@ -6987,7 +6988,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cac6-hr7",
@@ -7031,7 +7032,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:v8c7-cp60",
@@ -7053,7 +7054,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ca11ga7-cf144",
@@ -7097,7 +7098,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cacuo2-tp4",
@@ -7185,7 +7186,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cain2-hp6",
@@ -7207,7 +7208,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 5
   },
   {
    "id": "st:catio3-op20",
@@ -7273,7 +7274,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ca28ga11-oi178",
@@ -7295,7 +7296,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ca2cu-op12",
@@ -7317,7 +7318,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ca3ga5-oc32",
@@ -7339,7 +7340,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ca3si2o7-mp48",
@@ -7383,7 +7384,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ca5pb3-hp48",
@@ -7405,7 +7406,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ca7ge-cf32",
@@ -7449,7 +7450,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ca8in3-ap22",
@@ -7471,7 +7472,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:cd2ce-hp3",
@@ -7493,7 +7494,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:cd2na-cf1192",
@@ -7515,7 +7516,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cd2nb2o7-cf88",
@@ -7597,7 +7598,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cd3cu4-cf1124",
@@ -7619,7 +7620,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cd3er-oc16",
@@ -7641,7 +7642,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cd3in",
@@ -7682,7 +7683,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cd45sm11-cf448",
@@ -7704,7 +7705,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 6
   },
   {
    "id": "st:cd5-7yb",
@@ -7764,7 +7765,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:cd6yb-ci168",
@@ -7846,7 +7847,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ce18pt82",
@@ -7928,7 +7929,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:cecu6-op28",
@@ -7950,7 +7951,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 7
   },
   {
    "id": "st:ceh3-cf44",
@@ -7972,7 +7973,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:cemg10-hp44",
@@ -7994,7 +7995,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:ceni3-hp24",
@@ -8016,7 +8017,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cesb2",
@@ -8057,7 +8058,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cete3-oc16",
@@ -8079,7 +8080,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cezn3-oc16",
@@ -8101,7 +8102,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ce24co11-hp70",
@@ -8123,7 +8124,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ce2ni7-hp36",
@@ -8145,7 +8146,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 6
   },
   {
    "id": "st:ce2si2o7-mp44",
@@ -8189,7 +8190,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ce3co8si-hp24",
@@ -8255,7 +8256,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 3
   },
   {
    "id": "st:ce3zn22-ti100",
@@ -8277,7 +8278,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 5
+   "registry_phases": 7
   },
   {
    "id": "st:ce40o72",
@@ -8318,7 +8319,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ce4te7-tp22",
@@ -8340,7 +8341,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ce5co19-hr24",
@@ -8362,7 +8363,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:ce5mg41-ti92",
@@ -8384,7 +8385,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 7
   },
   {
    "id": "st:ce62o112",
@@ -8444,7 +8445,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pbcl2-pauling-file-includes-both-co2si-c37-and-pbcl2-c23-as-structure-types-co2si-is-sometimes-called-anti-pbcl2-the-structures-differ-in-a-b-ratio-for-1-25-a-b-1-40-we-have-co2si-and-for-1-50-a-b-1-90-we-have-pbcl2-however-there-is-not-really-a-clear-distinction-e-g-autm2-with-a-b-1-44-is-listed-as-co2si-type-and-auyb2-with-a-b-1-71-if-correct-is-listed-as-pbcl2-type-this-makes-no-sense-i-list-both-under-co2si-with-sb-c37-hgcl2-with-sb-c25-also-has-the-same-space-group-and-wyckoff-positions",
@@ -8614,7 +8615,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:coga5ho-tp7",
@@ -8658,7 +8659,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:coge2-oc24",
@@ -8680,7 +8681,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:conb4si-tp12",
@@ -8724,7 +8725,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cosb2-mp12",
@@ -8790,7 +8791,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cozn13-mc28",
@@ -8812,7 +8813,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 4
   },
   {
    "id": "st:cozn7-hp60",
@@ -8834,7 +8835,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:co23la27",
@@ -8919,7 +8920,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:co3ho4-hp22",
@@ -8941,7 +8942,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:co3nd4",
@@ -9080,7 +9081,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:co5u-hr18",
@@ -9102,7 +9103,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:co5y8-mp52",
@@ -9124,7 +9125,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:co7gd2-hr18",
@@ -9146,7 +9147,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 10
   },
   {
    "id": "st:co7ho12-mp38",
@@ -9168,7 +9169,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:co7nb2",
@@ -9228,7 +9229,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:crn-op4",
@@ -9351,7 +9352,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cr4nb2si5-oi44",
@@ -9433,7 +9434,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cr7se8-mc30",
@@ -9455,7 +9456,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cr8nb3si8-op76",
@@ -9521,7 +9522,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cssb-mp32",
@@ -9543,7 +9544,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cste-op8",
@@ -9587,7 +9588,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cs2in3-ti20",
@@ -9609,7 +9610,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cs2s-op12",
@@ -9631,7 +9632,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cs2te5-oc28",
@@ -9653,7 +9654,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cs3o-hp8",
@@ -9719,7 +9720,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cs7o-hp24",
@@ -9741,7 +9742,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu10sb3-hp26",
@@ -9952,7 +9953,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:cupt7-cf32",
@@ -9974,7 +9975,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cusnti",
@@ -10034,7 +10035,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cuzn3-hp3",
@@ -10056,7 +10057,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cuzr2-ti6",
@@ -10078,7 +10079,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 13
   },
   {
    "id": "st:cu24sr14o41-op79",
@@ -10283,7 +10284,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu2zr",
@@ -10384,7 +10385,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:cu3pd-tp28",
@@ -10472,7 +10473,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu3te2-cf28",
@@ -10494,7 +10495,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu3te2-op6",
@@ -10538,7 +10539,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu3ti2-tp10",
@@ -10560,7 +10561,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu41sn11-cf416",
@@ -10604,7 +10605,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu4mgsn-cf24",
@@ -10648,7 +10649,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu4pr",
@@ -11080,7 +11081,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:cu7te4-hp22",
@@ -11317,7 +11318,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:dy13zn57-op280",
@@ -11361,7 +11362,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:dyge3-oc16",
@@ -11383,7 +11384,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:dymn2o5-op32",
@@ -11560,7 +11561,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:dy4ni17",
@@ -11620,7 +11621,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 5
   },
   {
    "id": "st:er10pd21",
@@ -11680,7 +11681,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:er2ge3-mc6",
@@ -11702,7 +11703,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:er2ge5-op14",
@@ -11724,7 +11725,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:er3ge4-oc28",
@@ -11746,7 +11747,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:er3ni2-hr15",
@@ -11768,7 +11769,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 9
   },
   {
    "id": "st:er3ru2-hp10",
@@ -11790,7 +11791,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:er4ni17-hp126",
@@ -11850,7 +11851,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:euin4-mc20",
@@ -11872,7 +11873,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:eumg5-hp42",
@@ -11894,7 +11895,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:euni",
@@ -11992,7 +11993,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:eu3ga5-oc32",
@@ -12014,7 +12015,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:eu3ga8-oi22",
@@ -12036,7 +12037,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:eu3te7",
@@ -12184,7 +12185,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mof5-mc48",
@@ -12294,7 +12295,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:fegao3-op40",
@@ -12445,7 +12446,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:fe2n-hp9",
@@ -12549,7 +12550,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:fe3n-hp8",
@@ -12571,7 +12572,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:fe3nb4si5-op72",
@@ -12637,7 +12638,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:fe3te4-mc14",
@@ -12763,7 +12764,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga14li3-hr20",
@@ -12785,7 +12786,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga15pu2",
@@ -12826,7 +12827,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:gamg-ti32",
@@ -12848,7 +12849,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:gamg2-hp18",
@@ -12870,7 +12871,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:gamn-hr26",
@@ -12936,7 +12937,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:gapu-ti16-2",
@@ -12958,7 +12959,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:gase-hp8",
@@ -12980,7 +12981,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:gase-hr4",
@@ -13002,7 +13003,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga2gd3-ti80",
@@ -13024,7 +13025,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga2hf-ti24",
@@ -13046,7 +13047,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:ga2mg-op24",
@@ -13068,7 +13069,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga2pd5-op28",
@@ -13090,7 +13091,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga2te5-ti14",
@@ -13112,7 +13113,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga2zr-oc12",
@@ -13134,7 +13135,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 6
   },
   {
    "id": "st:ga39na22-op244",
@@ -13156,7 +13157,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga3ge6ni13-hp66",
@@ -13200,7 +13201,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 5
   },
   {
    "id": "st:ga3pu2",
@@ -13304,7 +13305,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:ga41v8-hr49",
@@ -13348,7 +13349,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga4li5-hp9",
@@ -13370,7 +13371,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ga4nb",
@@ -13411,7 +13412,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga4ni3-ci112",
@@ -13433,7 +13434,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:ga4ti5-hp18",
@@ -13455,7 +13456,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 8
   },
   {
    "id": "st:ga5ir3-tp32",
@@ -13521,7 +13522,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga5pd-ti24",
@@ -13565,7 +13566,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga6pt",
@@ -13606,7 +13607,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 7
   },
   {
    "id": "st:ga7li2-oc304",
@@ -13628,7 +13629,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga7pd3-mc20",
@@ -13710,7 +13711,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 4
   },
   {
    "id": "st:gd11pb10",
@@ -13751,7 +13752,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 14
   },
   {
    "id": "st:gd14si9o39-hp42",
@@ -13795,7 +13796,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:gdge2-57",
@@ -13937,7 +13938,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:gdsn2-75-oc16",
@@ -13959,7 +13960,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:gd2si2o7-op44",
@@ -14082,7 +14083,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:gd6mgni2",
@@ -14142,7 +14143,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 5
+   "registry_phases": 20
   },
   {
    "id": "st:ge12ni19-mc62",
@@ -14164,7 +14165,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ge1-9tm-op20",
@@ -14249,7 +14250,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:gena-mp32",
@@ -14271,7 +14272,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:gena3",
@@ -14312,7 +14313,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ges",
@@ -14353,7 +14354,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ge2li7-oc36",
@@ -14375,7 +14376,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:ge2os-mc12",
@@ -14397,7 +14398,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ge2pt3-op40",
@@ -14441,7 +14442,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ge31v17-tp192",
@@ -14463,7 +14464,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ge3ni5-mc32",
@@ -14485,7 +14486,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ge3pt2-op20",
@@ -14507,7 +14508,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ge3rh5-op16",
@@ -14529,7 +14530,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 5
   },
   {
    "id": "st:ge3ru2-op40",
@@ -14551,7 +14552,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:ge3y2",
@@ -14614,7 +14615,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ge4li9-oc52",
@@ -14636,7 +14637,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ge4na",
@@ -14677,7 +14678,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ge4sm5-op36",
@@ -14699,7 +14700,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 24
   },
   {
    "id": "st:ge5lu4",
@@ -14762,7 +14763,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ge9pd25-hp34",
@@ -14784,7 +14785,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:nbh-op8",
@@ -14806,7 +14807,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:v2h-mc6",
@@ -14910,7 +14911,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:uh3-cp32",
@@ -15039,7 +15040,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:hf54os17-oi142",
@@ -15061,7 +15062,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:hf8ni21-ap29",
@@ -15083,7 +15084,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:hgi2-tp6",
@@ -15105,7 +15106,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:hgin-hr2",
@@ -15127,7 +15128,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:hgin2",
@@ -15168,7 +15169,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:hgna-oc16",
@@ -15212,7 +15213,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:hgsn4",
@@ -15291,7 +15292,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 38
   },
   {
    "id": "st:hg2mg5",
@@ -15332,7 +15333,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 5
   },
   {
    "id": "st:hg3zn",
@@ -15395,7 +15396,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:ho10pd21",
@@ -15455,7 +15456,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:ho2si2o7-ap44",
@@ -15499,7 +15500,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ho4sn5",
@@ -15540,7 +15541,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:inli6",
@@ -15603,7 +15604,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:inpd2",
@@ -15663,7 +15664,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:insr-of64",
@@ -15685,7 +15686,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:inth-op24",
@@ -15707,7 +15708,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:in2sr2o5-oi36",
@@ -15751,7 +15752,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:in3ir-tp16",
@@ -15773,7 +15774,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 4
   },
   {
    "id": "st:in3li13-cf128",
@@ -15836,7 +15837,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:in3te5",
@@ -15877,7 +15878,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:in4se3-op28",
@@ -15899,7 +15900,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:in57la43",
@@ -15978,7 +15979,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:in9se11",
@@ -16019,7 +16020,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ir3zr5-hp48",
@@ -16041,7 +16042,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:ir4sc11-cf120",
@@ -16085,7 +16086,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:k2s3-oc20",
@@ -16129,7 +16130,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:k5se3-mc32",
@@ -16151,7 +16152,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:k5te3-ti32",
@@ -16173,7 +16174,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:k6sn25-cp124",
@@ -16195,7 +16196,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:lamg2ni9-hr12",
@@ -16258,7 +16259,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:lazn4-oc20",
@@ -16280,7 +16281,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:lazn7",
@@ -16321,7 +16322,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:la2zro5",
@@ -16381,7 +16382,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 12
   },
   {
    "id": "st:la3sb2",
@@ -16504,7 +16505,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:li13si4-mp34",
@@ -16548,7 +16549,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:li17pb4-cf420",
@@ -16570,7 +16571,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:li17si4-cf420",
@@ -16592,7 +16593,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:linbo3-hr10",
@@ -16658,7 +16659,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:lite3-hp48",
@@ -16680,7 +16681,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:lizn2",
@@ -16721,7 +16722,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:li2o2-hp8",
@@ -16765,7 +16766,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:li33si8-mp82",
@@ -16787,7 +16788,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:li3n-hp4",
@@ -16853,7 +16854,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:li7pb2-hp9",
@@ -16875,7 +16876,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:li7si3-hp60",
@@ -16897,7 +16898,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:li7sn3-mp20",
@@ -16919,7 +16920,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:li8pb3-hr11",
@@ -16941,7 +16942,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:li8sn3",
@@ -17004,7 +17005,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:lu3sb",
@@ -17086,7 +17087,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mg44rh7-cf408",
@@ -17108,7 +17109,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mg4pd-oc1536",
@@ -17171,7 +17172,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mg4zn7-mc110",
@@ -17193,7 +17194,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mg51zn20-oi158",
@@ -17215,7 +17216,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mg59y8zn6-mc146",
@@ -17259,7 +17260,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mg71y8zn6-hp170",
@@ -17322,7 +17323,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:mn11ti9",
@@ -17423,7 +17424,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mnpd2",
@@ -17502,7 +17503,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mn3o4-ti28",
@@ -17524,7 +17525,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mn3sro6",
@@ -17603,7 +17604,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mn4sr7o15-mp52",
@@ -17647,7 +17648,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mn7sio12-ti160",
@@ -17713,7 +17714,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:mopt2-oi6",
@@ -17735,7 +17736,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 5
   },
   {
    "id": "st:moti-hr8",
@@ -17757,7 +17758,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:moti2",
@@ -17842,7 +17843,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mo2ti",
@@ -17908,7 +17909,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mo4si9ti7",
@@ -17949,7 +17950,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mo5ti-oc12",
@@ -17971,7 +17972,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mo7ti",
@@ -18015,7 +18016,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:mo9o26-mp70",
@@ -18119,7 +18120,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ta3n5-oc32",
@@ -18163,7 +18164,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:nasn2-mc48",
@@ -18185,7 +18186,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:nasn4",
@@ -18226,7 +18227,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:nate-op48",
@@ -18248,7 +18249,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:nate3-hp48",
@@ -18270,7 +18271,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:na2o2-hp12",
@@ -18314,7 +18315,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:na3-7sn-op40",
@@ -18336,7 +18337,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:na4si23-cp54",
@@ -18358,7 +18359,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:na4sn3",
@@ -18399,7 +18400,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:na7sn12-mp78",
@@ -18421,7 +18422,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:nbo-cp6",
@@ -18465,7 +18466,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:nbp-ti8",
@@ -18509,7 +18510,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:nbs-hp16",
@@ -18591,7 +18592,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:nb7p4-mc44",
@@ -18654,7 +18655,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:nd2o3-ci26",
@@ -18676,7 +18677,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 8
   },
   {
    "id": "st:nd2sio5",
@@ -18739,7 +18740,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 3
   },
   {
    "id": "st:nd2te5-oc28",
@@ -18761,7 +18762,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:nd2y",
@@ -18840,7 +18841,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 5
   },
   {
    "id": "st:ni11zr9-tp44",
@@ -18862,7 +18863,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni1-29te-op20",
@@ -18884,7 +18885,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni12p5-ti34",
@@ -18906,7 +18907,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni17th2-hp38",
@@ -18928,7 +18929,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 26
   },
   {
    "id": "st:ni19sm5-hp96",
@@ -19035,7 +19036,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:niti2-cf96",
@@ -19057,7 +19058,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 9
   },
   {
    "id": "st:niw2-ti96",
@@ -19136,7 +19137,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni2sm3",
@@ -19177,7 +19178,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni2y3-tp80",
@@ -19199,7 +19200,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni31si12-hp43",
@@ -19221,7 +19222,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni3pu-hr12",
@@ -19243,7 +19244,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 32
   },
   {
    "id": "st:ni3si2-op80",
@@ -19265,7 +19266,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ni3sn2-op20",
@@ -19287,7 +19288,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ni3sn4-mc14",
@@ -19309,7 +19310,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni3u",
@@ -19350,7 +19351,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni4pu-mc30",
@@ -19372,7 +19373,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni4y",
@@ -19457,7 +19458,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni7th4-mc12",
@@ -19479,7 +19480,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni7u5-hr54",
@@ -19501,7 +19502,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni7zr2-mc36",
@@ -19523,7 +19524,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:ni8ti5-hr52",
@@ -19545,7 +19546,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ni9u7-mc46",
@@ -19567,7 +19568,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:np2o5-mp28",
@@ -19589,7 +19590,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sr4ti3o10-ti34",
@@ -19633,7 +19634,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti6o11-ap34",
@@ -19677,7 +19678,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:uy6o12-hr19",
@@ -19721,7 +19722,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:v6o13-mc38",
@@ -19743,7 +19744,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti8o15-ap46",
@@ -19787,7 +19788,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:v13o16-ti116",
@@ -19809,7 +19810,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pb12o17",
@@ -19853,7 +19854,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pr10o18-mp112",
@@ -19875,7 +19876,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pb12o19-mp62",
@@ -19897,7 +19898,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti10o19-ap58",
@@ -19919,7 +19920,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:zr3o-hp8",
@@ -19982,7 +19983,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:rb2o2-oi8",
@@ -20004,7 +20005,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sio2-hp9",
@@ -20158,7 +20159,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:vo2-mp12",
@@ -20180,7 +20181,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti20o39-ap118",
@@ -20202,7 +20203,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:rbo3-mp16",
@@ -20246,7 +20247,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:v7o3-mc20",
@@ -20268,7 +20269,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:wo3-mp32",
@@ -20400,7 +20401,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ta2o5-ti44",
@@ -20422,7 +20423,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti3o5-mc32",
@@ -20466,7 +20467,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sc2si2o7-mc22",
@@ -20598,7 +20599,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti5o9-ap28",
@@ -20620,7 +20621,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:pd5p-mp24",
@@ -20642,7 +20643,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sip-oc48",
@@ -20664,7 +20665,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ta2p-op36",
@@ -20686,7 +20687,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti3p-tp32",
@@ -20708,7 +20709,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 11
   },
   {
    "id": "st:znp2-tp24",
@@ -20752,7 +20753,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sn3p4-hr19",
@@ -20774,7 +20775,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pbpd",
@@ -20815,7 +20816,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pb2zr",
@@ -20856,7 +20857,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 6
   },
   {
    "id": "st:pb4pt-tp10",
@@ -20878,7 +20879,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pb5pu4",
@@ -20960,7 +20961,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd14si3",
@@ -21064,7 +21065,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd19si10",
@@ -21124,7 +21125,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pdsn2-ti48",
@@ -21168,7 +21169,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:pdzn10",
@@ -21209,7 +21210,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd20sb7-hr27",
@@ -21272,7 +21273,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:pd2rhta-hp40",
@@ -21294,7 +21295,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd2sc",
@@ -21392,7 +21393,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd39si20",
@@ -21455,7 +21456,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:pd4pu3-hr14",
@@ -21477,7 +21478,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 9
+   "registry_phases": 22
   },
   {
    "id": "st:pd4se-tp10",
@@ -21499,7 +21500,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:pd5pu3-oc32",
@@ -21521,7 +21522,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 13
   },
   {
    "id": "st:pd5sb2-hp42",
@@ -21543,7 +21544,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:pd5sb3",
@@ -21603,7 +21604,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd5th3-hp8",
@@ -21625,7 +21626,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:pd7se2-mp18",
@@ -21647,7 +21648,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd7se4-op22",
@@ -21669,7 +21670,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd7sm",
@@ -21824,7 +21825,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pd9te4-mp52",
@@ -21846,7 +21847,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:przn2",
@@ -21887,7 +21888,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:pt12si5-tp68",
@@ -21909,7 +21910,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ptta-ti2",
@@ -22032,7 +22033,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pt3sb2-oi20",
@@ -22076,7 +22077,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pt3ti4",
@@ -22117,7 +22118,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pt4zr",
@@ -22199,7 +22200,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 4
   },
   {
    "id": "st:pu4zr-tp80",
@@ -22221,7 +22222,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:pu5rh3-tp32",
@@ -22243,7 +22244,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:pu7th3",
@@ -22347,7 +22348,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:re2si-mp24",
@@ -22369,7 +22370,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:re2u-oc24",
@@ -22435,7 +22436,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:rh3te2-oc20",
@@ -22457,7 +22458,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ruu2-mc12",
@@ -22479,7 +22480,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ru25y44-op276",
@@ -22501,7 +22502,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ru2si3-ti80",
@@ -22545,7 +22546,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ru4si3-op28",
@@ -22567,7 +22568,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ru4u3",
@@ -22646,7 +22647,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 3
   },
   {
    "id": "st:sc2s3-of80",
@@ -22668,7 +22669,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:sn2s3-op20",
@@ -22690,7 +22691,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:th2s3-op20",
@@ -22712,7 +22713,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti8s3-mc88",
@@ -22734,7 +22735,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sb10zn13-ap92",
@@ -22797,7 +22798,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:sbsn-hr1",
@@ -22860,7 +22861,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sb2sm-oc24",
@@ -22882,7 +22883,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 7
   },
   {
    "id": "st:sb2sn3",
@@ -22923,7 +22924,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:sb3sn4-hr7",
@@ -22967,7 +22968,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:sb8te3-hr11",
@@ -22989,7 +22990,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sb9v8-tp34",
@@ -23071,7 +23072,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sc2te-op36",
@@ -23093,7 +23094,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sc2te3-hr8",
@@ -23115,7 +23116,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:tl2se",
@@ -23156,7 +23157,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:zrse3-mp8",
@@ -23178,7 +23179,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:si11yb8-oi38",
@@ -23279,7 +23280,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 6
   },
   {
    "id": "st:si5v6-oi44",
@@ -23301,7 +23302,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 5
   },
   {
    "id": "st:sn23yb36-tp118",
@@ -23323,7 +23324,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sn3ti2-oc40",
@@ -23345,7 +23346,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sn4sr-oc20",
@@ -23367,7 +23368,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:srte2",
@@ -23408,7 +23409,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sr2te3",
@@ -23449,7 +23450,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:tl2te-mc132",
@@ -23493,7 +23494,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ti5te4-ti18",
@@ -23556,7 +23557,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 19
   },
   {
    "id": "st:tizn16-oc68",
@@ -23578,7 +23579,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:tizn5",
@@ -23619,7 +23620,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:vzn16",
@@ -23660,7 +23661,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:y13zn58-hp146",
@@ -23682,7 +23683,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:yzn3-op16",
@@ -23704,7 +23705,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 9
   },
   {
    "id": "st:zn22zr-cf184",
@@ -23726,7 +23727,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:zn2zr3",
@@ -23833,7 +23834,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:ag2se-alpha-op12",
@@ -23956,7 +23957,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al2sro4-h",
@@ -24098,7 +24099,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:al4u-beta",
@@ -24234,7 +24235,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:alcu-r-mc20",
@@ -24256,7 +24257,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:alfemn-d3",
@@ -24360,7 +24361,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alpha-bipd-mp16",
@@ -24426,7 +24427,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alpha-bi2pd-mc12",
@@ -24470,7 +24471,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alpha-fes-hp24",
@@ -24514,7 +24515,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alpha-irzr",
@@ -24555,7 +24556,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alpha-moo3-op16",
@@ -24599,7 +24600,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:alpha-b-hr12",
@@ -24880,7 +24881,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 6
   },
   {
    "id": "st:beo-beta-tp8",
@@ -24924,7 +24925,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:beta-bipd-oc32",
@@ -25044,7 +25045,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:beta-ga2se3-mc20",
@@ -25066,7 +25067,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:beta-gd2ge3",
@@ -25592,7 +25593,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cr2s3-lt-hp20",
@@ -25614,7 +25615,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:crs-lt-mc8",
@@ -25762,7 +25763,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu2y-h",
@@ -25803,7 +25804,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:cu3si-h1-hr552",
@@ -26305,7 +26306,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:fesi2-l-tp3",
@@ -26327,7 +26328,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:ga3pu-ht",
@@ -26387,7 +26388,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:gd3ni-ht",
@@ -26551,7 +26552,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:h-la2o3-hp10",
@@ -26573,7 +26574,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 12
   },
   {
    "id": "st:h-ni12p5",
@@ -26709,7 +26710,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:in2s3-alpha-ti80",
@@ -26731,7 +26732,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:in2se3-beta-hp30",
@@ -26813,7 +26814,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:inpt-ht",
@@ -27432,7 +27433,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pb9pd13-alpha-mc88",
@@ -27476,7 +27477,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:pbpd-alpha-ap32",
@@ -27887,7 +27888,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:red-p",
@@ -27985,7 +27986,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:sb2zn3-ht2-op192",
@@ -28007,7 +28008,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sb3sm5-ht",
@@ -28089,7 +28090,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:si3n4-beta-hp14",
@@ -28111,7 +28112,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:site2-beta",
@@ -28152,7 +28153,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:sn5ti6-beta-hp22",
@@ -28174,7 +28175,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:sn7tb3-ht-op24",
@@ -28196,7 +28197,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:sn7tb3-lt-oc28",
@@ -28218,7 +28219,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:tan-eps-hp6",
@@ -28300,7 +28301,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:tis-9r-hr6",
@@ -28322,7 +28323,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:tlf-ii-op8",
@@ -28385,7 +28386,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:u2n3-alpha-ci96",
@@ -28681,7 +28682,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:a1-cu-cf4",
@@ -28711,7 +28712,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 1199
+   "registry_phases": 1200
   },
   {
    "id": "st:a10-alpha-hg-hr1",
@@ -28885,7 +28886,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 25
+   "registry_phases": 26
   },
   {
    "id": "st:a16-alpha-s-of128",
@@ -29019,7 +29020,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 1205
+   "registry_phases": 1210
   },
   {
    "id": "st:a3-alpha-la-hp4",
@@ -29143,7 +29144,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 58
+   "registry_phases": 61
   },
   {
    "id": "st:a7-alpha-as-hr2",
@@ -29441,7 +29442,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 66
+   "registry_phases": 67
   },
   {
    "id": "st:b10-pbo-l-tp4",
@@ -29627,7 +29628,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:b2-cscl-cp2",
@@ -29687,7 +29688,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 6
+   "registry_phases": 10
   },
   {
    "id": "st:b21-alpha-co-cp8",
@@ -29753,7 +29754,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:b27-feb-op8",
@@ -29783,7 +29784,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 32
+   "registry_phases": 41
   },
   {
    "id": "st:b29-sns-op8",
@@ -29919,7 +29920,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 70
+   "registry_phases": 78
   },
   {
    "id": "st:b34-pds-tp16",
@@ -30115,7 +30116,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 20
+   "registry_phases": 21
   },
   {
    "id": "st:b9-hgs-hp6",
@@ -30159,7 +30160,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:b-b-agzn-hp9",
@@ -30269,7 +30270,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 6
   },
   {
    "id": "st:b-i-tias-hp8",
@@ -30345,7 +30346,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 34
+   "registry_phases": 37
   },
   {
    "id": "st:c10-sio2-hp12",
@@ -30501,7 +30502,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 112
+   "registry_phases": 115
   },
   {
    "id": "st:c15-b-aube5-cf24",
@@ -30553,7 +30554,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 26
+   "registry_phases": 29
   },
   {
    "id": "st:c18-alpha-fes2-op6",
@@ -30685,7 +30686,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 6
+   "registry_phases": 10
   },
   {
    "id": "st:c23-pbcl2-op12",
@@ -30773,7 +30774,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 3
   },
   {
    "id": "st:c32-alb2-hp3",
@@ -30803,7 +30804,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 40
+   "registry_phases": 46
   },
   {
    "id": "st:c33-bi2te3-hr5",
@@ -30943,7 +30944,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 8
+   "registry_phases": 9
   },
   {
    "id": "st:c40-crsi2-hp9",
@@ -30973,7 +30974,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 8
+   "registry_phases": 10
   },
   {
    "id": "st:c42-sis2-oi12",
@@ -31017,7 +31018,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:c44-ges2-of72",
@@ -31345,7 +31346,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:d0-11-fe3c-op16",
@@ -31569,7 +31570,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 10
+   "registry_phases": 12
   },
   {
    "id": "st:d0-23-al3zr-ti16",
@@ -31661,7 +31662,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 17
+   "registry_phases": 21
   },
   {
    "id": "st:d0-5-bii3-hr8",
@@ -31737,7 +31738,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 18
+   "registry_phases": 19
   },
   {
    "id": "st:d0-c-siu3-lt-ti16",
@@ -31781,7 +31782,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 4
+   "registry_phases": 7
   },
   {
    "id": "st:d1-nh3-cp16",
@@ -31827,7 +31828,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:d10-2-fe3th7-hp20",
@@ -31893,7 +31894,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 10
+   "registry_phases": 12
   },
   {
    "id": "st:d1-b-al4u-oi20",
@@ -32047,7 +32048,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 19
+   "registry_phases": 21
   },
   {
    "id": "st:d2-c-mnu6-ti28",
@@ -32179,7 +32180,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 8
   },
   {
    "id": "st:d5-10-cr3c2-op20",
@@ -32277,7 +32278,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 5
+   "registry_phases": 12
   },
   {
    "id": "st:d5-3-mn2o3-ci80",
@@ -32299,7 +32300,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 6
+   "registry_phases": 20
   },
   {
    "id": "st:d5-8-sb2s3-op20",
@@ -32549,7 +32550,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 17
+   "registry_phases": 18
   },
   {
    "id": "st:d8-3-al4cu9-cp52",
@@ -32571,7 +32572,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 5
+   "registry_phases": 8
   },
   {
    "id": "st:d8-4-cr23c6-cf116",
@@ -32593,7 +32594,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 2
   },
   {
    "id": "st:d8-5-fe7w6-hr13",
@@ -32675,7 +32676,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 66
+   "registry_phases": 70
   },
   {
    "id": "st:d8-a-mn23th6-cf116",
@@ -32729,7 +32730,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 43
+   "registry_phases": 44
   },
   {
    "id": "st:d8-c-mg2zn11-cp39",
@@ -32917,7 +32918,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 18
+   "registry_phases": 21
   },
   {
    "id": "st:do-4-crcl3-hp24",
@@ -33005,7 +33006,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 4
   },
   {
    "id": "st:e2-1-catio3-cp5",
@@ -33227,7 +33228,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 7
   },
   {
    "id": "st:h2-4-cu3vs4-cp8",
@@ -33293,7 +33294,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 4
   },
   {
    "id": "st:l-2-b-thh2-ti6",
@@ -33315,7 +33316,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:l-3-fe2n-hp3",
@@ -33367,7 +33368,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 16
+   "registry_phases": 17
   },
   {
    "id": "st:l1-1-cupt-hr2",
