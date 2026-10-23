@@ -1,11 +1,12 @@
 {
- "description": "Zenodo DOIs of the ORCHID data release v2026.10 (umbrella + four datasets). Placeholders (10.5281/zenodo.PENDING-<name>) until the DOIs are reserved; set by tools/zenodo_release.py writeback in the orchid-project.org repository, read by every builder (tools/orchid_cite.py).",
+ "description": "Zenodo DOIs of the ORCHID data release v2026.10 (umbrella + five datasets). Placeholders (10.5281/zenodo.PENDING-<name>) until the DOIs are reserved; set by tools/zenodo_release.py writeback in the orchid-project.org repository, read by every builder (tools/orchid_cite.py).",
  "dois": {
   "dft-benchmark": "10.5281/zenodo.PENDING-dft-benchmark",
   "hulls": "10.5281/zenodo.PENDING-hulls",
   "literature": "10.5281/zenodo.PENDING-literature",
   "orchid-data": "10.5281/zenodo.PENDING-orchid-data",
-  "phase-diagrams": "10.5281/zenodo.PENDING-phase-diagrams"
+  "phase-diagrams": "10.5281/zenodo.PENDING-phase-diagrams",
+  "phase-registry": "10.5281/zenodo.PENDING-phase-registry"
  },
  "release_tag": "v2026.10",
  "version": "2026.10"

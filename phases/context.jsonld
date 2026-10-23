@@ -1,0 +1,18 @@
+{
+ "@context": {
+  "@vocab": "https://schema.org/",
+  "schema": "https://schema.org/",
+  "orchid": "https://orchid-project.org/ns/phase#",
+  "prototype": "orchid:prototype",
+  "strukturbericht": "orchid:strukturbericht",
+  "pearsonSymbol": "orchid:pearsonSymbol",
+  "spaceGroupNumber": "orchid:spaceGroupNumber",
+  "structureBasis": "orchid:structureBasis",
+  "reviewStatus": "orchid:reviewStatus",
+  "chemicalSystem": "orchid:chemicalSystem",
+  "structureType": {
+   "@id": "orchid:structureType",
+   "@type": "@id"
+  }
+ }
+}

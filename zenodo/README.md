@@ -1,6 +1,6 @@
 # Zenodo release metadata (v2026.10)
 
-ORCHID data release v2026.10 (Version 1, machine-extracted) is published on Zenodo as **five records**: four
+ORCHID data release v2026.10 (Version 1, machine-extracted) is published on Zenodo as **six records**: five
 citable datasets, each with its own DOI, and an umbrella record that links them with DataCite relations
 (`hasPart` on the umbrella, `isPartOf` on each dataset).
 
@@ -11,6 +11,7 @@ citable datasets, each with its own DOI, and an umbrella record that links them 
 | `phase-diagrams` | ORCHID calculated binary phase diagrams | `phase-diagrams.metadata.json` | `phase-diagrams.files.json` |
 | `hulls` | ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) | `hulls.metadata.json` | `hulls.files.json` |
 | `dft-benchmark` | ORCHID DFT-vs-experiment formation-enthalpy benchmark | `dft-benchmark.metadata.json` | `dft-benchmark.files.json` |
+| `phase-registry` | ORCHID phase registry (binary systems) | `phase-registry.metadata.json` | `phase-registry.files.json` |
 
 - `<name>.metadata.json` — Zenodo deposition metadata (`metadata` object in the legacy REST format: title,
   upload type, HTML description with what / how / limitations / how to cite, creators with ORCID and affiliation,
@@ -32,17 +33,17 @@ Nothing here calls the Zenodo API and no token is stored. The order matters beca
 into the data before the bundles are built.
 
 1. **Community.** On zenodo.org create (or open) the community `orchid` (Communities → New community).
-2. **Reserve five DOIs.** For each record: *New upload*, then in the *Digital Object Identifier* section answer
+2. **Reserve six DOIs.** For each record: *New upload*, then in the *Digital Object Identifier* section answer
    "Do you already have a DOI?" with *No* and press **Get a DOI now!** (the older interface called it **Reserve
    DOI**). Fill at least the title from `<name>.metadata.json` and **Save draft**; do not publish yet. Note the
-   five DOIs (`10.5281/zenodo.NNNNNNN`).
+   six DOIs (`10.5281/zenodo.NNNNNNN`).
 3. **Write the DOIs back** (website repository):
 
    ```sh
    python3 tools/zenodo_release.py writeback \
      --doi orchid-data=10.5281/zenodo.AAAAAAA --doi literature=10.5281/zenodo.BBBBBBB \
      --doi phase-diagrams=10.5281/zenodo.CCCCCCC --doi hulls=10.5281/zenodo.DDDDDDD \
-     --doi dft-benchmark=10.5281/zenodo.EEEEEEE
+     --doi dft-benchmark=10.5281/zenodo.EEEEEEE --doi phase-registry=10.5281/zenodo.FFFFFFF
    ```
 
    This updates `dois.json`, replaces every placeholder in both repositories (metadata here, `CITATION.cff` files,
@@ -65,7 +66,7 @@ into the data before the bundles are built.
    creators (ORCID, affiliation), description (paste the HTML in the editor's source view), version `2026.10`,
    licence *Creative Commons Attribution 4.0 International*, keywords, funding (NSF, award 2608825, CSSI Elements:
    PhaseForge), related works (the relations listed in `related_identifiers`), community `orchid`.
-6. **Publish** the four dataset records first, then the umbrella. Check that every DOI resolves and that the
+6. **Publish** the five dataset records first, then the umbrella. Check that every DOI resolves and that the
    relations show on each record page. Then tag both repositories `v2026.10`.
 
 For a later release use **New version** on each record (Zenodo keeps a concept DOI that always points to the latest
@@ -74,7 +75,7 @@ version), set the new version string in `tools/orchid_cite.py`, and repeat steps
 ## Why not the GitHub integration
 
 Zenodo's GitHub integration archives one repository snapshot per GitHub release as one record (metadata from a
-`.zenodo.json`). It cannot produce four dataset records plus an umbrella, it would archive the generated static
+`.zenodo.json`). It cannot produce five dataset records plus an umbrella, it would archive the generated static
 pages with the data, and it mints the DOI only at publication, so the DOIs could not be written into the data
 first. Use it, if at all, for the website/tooling repository (its `.zenodo.json` describes that record and points
 to the umbrella DOI with `documents`).

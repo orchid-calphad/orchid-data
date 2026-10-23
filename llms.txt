@@ -11,6 +11,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 - CSV: https://data.orchid-project.org/systems/<SYS>.csv (all records incl. not accepted; column extraction_accepted)
 - Full JSON records: https://data.orchid-project.org/literature/systems/<SYS>.json (large systems: also <SYS>.part2.json ...; see literature/index.json)
 - Calculated phase diagrams: https://data.orchid-project.org/phase-diagrams/index.json -> phase-diagrams/sgte/<file>.json
+- Phase registry (names, models, stability, references, structure when certain): https://data.orchid-project.org/phases/systems/<SYS>.json; all phases https://data.orchid-project.org/phases/registry.json, fields https://data.orchid-project.org/phases/SCHEMA.md
 
 ## Indexes
 - [Systems](https://data.orchid-project.org/systems/index.md)
@@ -32,6 +33,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
   - ORCHID calculated binary phase diagrams: https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
   - ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD): https://doi.org/10.5281/zenodo.PENDING-hulls
   - ORCHID DFT-vs-experiment formation-enthalpy benchmark: https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+  - ORCHID phase registry (binary systems): https://doi.org/10.5281/zenodo.PENDING-phase-registry
 - Every JSON file carries a top-level cite_as object (text, BibTeX, DOI); Parquet files carry orchid.cite_as metadata; literature/CITATION.txt sits beside the CSV.
 - Derived data CC BY 4.0. Cite the ORCHID release (https://data.orchid-project.org/CITATION.cff) and each value's source paper (DOI given per value).
 - Quotes: one verbatim sentence per value, fair use. Source papers, page images and full text are not redistributed.

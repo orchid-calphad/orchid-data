@@ -17,18 +17,18 @@
   "zenodo/*.metadata.json"
  ],
  "exclude": [],
- "n_files": 15,
- "total_bytes": 130286,
+ "n_files": 16,
+ "total_bytes": 140086,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 6436,
-   "sha256": "45b60cec9f22ecbc18eceedc84b38a597dd3e2da9c020cf116aa91c01d6b82e6"
+   "bytes": 7266,
+   "sha256": "dc63e91d00713509f3236a62568dd58afa5b109c9a61efe379e6c425edd3607e"
   },
   {
    "path": "CITATION.cff",
-   "bytes": 2167,
-   "sha256": "3f5c0cb64f90af7fc0f60e95a034b0eeea55d8e847e0fdbb6b047037b10cac14"
+   "bytes": 2309,
+   "sha256": "7969aa94899aa3f05a122a25636c96e10fefc6d4f35df14c7401b47624dc2b25"
   },
   {
    "path": "DATASET_CARD.md",
@@ -52,8 +52,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 4508,
-   "sha256": "1b3844d645c35987ad60a641eb02095051c83debe807f492d10d8590529a4770"
+   "bytes": 5016,
+   "sha256": "a4a19ad9c672a1b7faec66085188df94e054808990f495d32323c542a3bd93e5"
   },
   {
    "path": "parquet/MANIFEST.json",
@@ -62,8 +62,8 @@
   },
   {
    "path": "zenodo/README.md",
-   "bytes": 5696,
-   "sha256": "ba615d27ac0e28c60cbf6e4aa30301a2f6175f9bd16f5070d336de5ae4a6370c"
+   "bytes": 5862,
+   "sha256": "1110a385d470f2fcba258856f3484b493e3638f322f6005e42349202ff78c866"
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",
@@ -72,8 +72,8 @@
   },
   {
    "path": "zenodo/dois.json",
-   "bytes": 633,
-   "sha256": "db2303ee5349c7decd78b37c808b88a66297e8228d9c1308ac2a2f04b7f3b493"
+   "bytes": 694,
+   "sha256": "cc16e99b1e99a83a7a5f87fcc5c4a9c83fb81d9bfdcdc03c31bf60a0bf489b82"
   },
   {
    "path": "zenodo/hulls.metadata.json",
@@ -87,13 +87,18 @@
   },
   {
    "path": "zenodo/orchid-data.metadata.json",
-   "bytes": 6977,
-   "sha256": "e8b92c57fda41bb7fc30ecf6bc317d8cb39c4014b788e31fa3495c76945c77e1"
+   "bytes": 7286,
+   "sha256": "8a345be9e0bef5c161d9564895c2af5760f7430f25851838a840e96145e9b605"
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",
    "bytes": 5510,
    "sha256": "b65d857e91fc847ecfaa1bb38d1ab3524cf153e7462756c5d365826a22ba4797"
+  },
+  {
+   "path": "zenodo/phase-registry.metadata.json",
+   "bytes": 7784,
+   "sha256": "3659b918852a0a4c64f49314155dac3d9fbbcd60bbcf0b4be61d0afb37c87d3f"
   }
  ]
 }
