@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/K-ZR.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-ZR/KZr-15Hu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/K-ZR.html) · [Markdown](https://data.orchid-project.org/systems/K-ZR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-ZR/KZr-15Hu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/K-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/K-ZR.html) · [Markdown](https://data.orchid-project.org/systems/K-ZR.md)
 
 ## Calculated phase diagrams
 

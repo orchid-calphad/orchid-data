@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ND-W.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-W/NdW-00Kri.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ND-W.html) · [Markdown](https://data.orchid-project.org/systems/ND-W.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-W/NdW-00Kri.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ND-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-W.html) · [Markdown](https://data.orchid-project.org/systems/ND-W.md)
 
 ## Calculated phase diagrams
 

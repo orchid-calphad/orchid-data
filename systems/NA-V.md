@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NA-V.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-V/NaV-15Hu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NA-V.html) · [Markdown](https://data.orchid-project.org/systems/NA-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-V/NaV-15Hu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NA-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-V.html) · [Markdown](https://data.orchid-project.org/systems/NA-V.md)
 
 ## Calculated phase diagrams
 

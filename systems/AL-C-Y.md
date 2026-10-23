@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-C-Y.html · Markdown: https://d
 
 2 accepted literature values from 1 paper(s) (experimental 2); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-C-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-C-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-C-Y) · [Markdown](https://data.orchid-project.org/systems/AL-C-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-C-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-C-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-C-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-C-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-C-Y.md)
 
 Table: Accepted values by evidence class
 

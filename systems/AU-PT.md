@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-PT.html · Markdown: https://da
 
 2 accepted literature values from 2 paper(s) (experimental 1, model 1); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-PT.json) · [CSV](https://data.orchid-project.org/systems/AU-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-PT/AuPt-08Gro.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AU-PT.html) · [Markdown](https://data.orchid-project.org/systems/AU-PT.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-PT.json) · [CSV](https://data.orchid-project.org/systems/AU-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-PT/AuPt-08Gro.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AU-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-PT.html) · [Markdown](https://data.orchid-project.org/systems/AU-PT.md)
 
 Table: Accepted values by evidence class
 

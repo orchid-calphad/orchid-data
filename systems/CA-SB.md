@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-SB.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (experimental 3, model 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SB/CaSb-15Qin.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SB/CaSb-15Qin.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-SB.md)
 
 Table: Accepted values by evidence class
 

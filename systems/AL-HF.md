@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-HF.html · Markdown: https://da
 
 55 accepted literature values from 1 paper(s) (experimental 19, model 36); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-HF.json) · [CSV](https://data.orchid-project.org/systems/AL-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-HF/AlHf-02Wan.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-HF.html) · [Markdown](https://data.orchid-project.org/systems/AL-HF.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-HF.json) · [CSV](https://data.orchid-project.org/systems/AL-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-HF/AlHf-02Wan.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-HF.html) · [Markdown](https://data.orchid-project.org/systems/AL-HF.md)
 
 Table: Accepted values by evidence class
 

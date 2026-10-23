@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-LA.html · Markdown: https://da
 
 10 accepted literature values from 1 paper(s) (experimental 5, model 5); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-LA.json) · [CSV](https://data.orchid-project.org/systems/CD-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-LA) · [Markdown](https://data.orchid-project.org/systems/CD-LA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-LA.json) · [CSV](https://data.orchid-project.org/systems/CD-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-LA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-LA.html) · [Markdown](https://data.orchid-project.org/systems/CD-LA.md)
 
 Table: Accepted values by evidence class
 

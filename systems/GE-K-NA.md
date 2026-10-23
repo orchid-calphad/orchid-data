@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-K-NA.html · Markdown: https://
 
 39 accepted literature values from 1 paper(s) (experimental 16, model 11, unspecified 12); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-K-NA.json) · [CSV](https://data.orchid-project.org/systems/GE-K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-K-NA) · [Markdown](https://data.orchid-project.org/systems/GE-K-NA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-K-NA.json) · [CSV](https://data.orchid-project.org/systems/GE-K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-K-NA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-K-NA.html) · [Markdown](https://data.orchid-project.org/systems/GE-K-NA.md)
 
 Table: Accepted values by evidence class
 

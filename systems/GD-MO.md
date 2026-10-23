@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GD-MO.html · Markdown: https://da
 
 20 accepted literature values from 2 paper(s) (experimental 12, model 7, unspecified 1); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MO.json) · [CSV](https://data.orchid-project.org/systems/GD-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MO/GdMo-01Zin-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/GD-MO.html) · [Markdown](https://data.orchid-project.org/systems/GD-MO.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MO.json) · [CSV](https://data.orchid-project.org/systems/GD-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MO/GdMo-01Zin-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/GD-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MO.html) · [Markdown](https://data.orchid-project.org/systems/GD-MO.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-GD.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-GD/CeGd-10Gro.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CE-GD.html) · [Markdown](https://data.orchid-project.org/systems/CE-GD.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-GD/CeGd-10Gro.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CE-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-GD.html) · [Markdown](https://data.orchid-project.org/systems/CE-GD.md)
 
 ## Calculated phase diagrams
 

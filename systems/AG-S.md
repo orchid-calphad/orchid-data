@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-S.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-S/AgS-18Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-S.html) · [Markdown](https://data.orchid-project.org/systems/AG-S.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-S/AgS-18Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-S.html) · [Markdown](https://data.orchid-project.org/systems/AG-S.md)
 
 ## Calculated phase diagrams
 

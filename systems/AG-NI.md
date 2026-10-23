@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-NI.html · Markdown: https://da
 
 24 accepted literature values from 2 paper(s) (experimental 13, model 11); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-NI.json) · [CSV](https://data.orchid-project.org/systems/AG-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-NI/AgNi-04Din.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-NI.html) · [Markdown](https://data.orchid-project.org/systems/AG-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-NI.json) · [CSV](https://data.orchid-project.org/systems/AG-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-NI/AgNi-04Din.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-NI.html) · [Markdown](https://data.orchid-project.org/systems/AG-NI.md)
 
 Table: Accepted values by evidence class
 

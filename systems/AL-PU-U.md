@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-PU-U.html · Markdown: https://
 
 2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PU-U.json) · [CSV](https://data.orchid-project.org/systems/AL-PU-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PU-U) · [Markdown](https://data.orchid-project.org/systems/AL-PU-U.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PU-U.json) · [CSV](https://data.orchid-project.org/systems/AL-PU-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PU-U) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-PU-U.html) · [Markdown](https://data.orchid-project.org/systems/AL-PU-U.md)
 
 Table: Accepted values by evidence class
 

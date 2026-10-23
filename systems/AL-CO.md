@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-CO.html · Markdown: https://da
 
 115 accepted literature values from 6 paper(s) (experimental 62, model 10, DFT 16, unspecified 27); 13 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO.json) · [CSV](https://data.orchid-project.org/systems/AL-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CO/AlCo-13Ste.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-CO.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO.json) · [CSV](https://data.orchid-project.org/systems/AL-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CO/AlCo-13Ste.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-CO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO.md)
 
 Table: Accepted values by evidence class
 

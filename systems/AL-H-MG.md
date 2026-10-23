@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-H-MG.html · Markdown: https://
 
 4 accepted literature values from 1 paper(s) (experimental 2, model 2); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-H-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-H-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-H-MG) · [Markdown](https://data.orchid-project.org/systems/AL-H-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-H-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-H-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-H-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-H-MG.html) · [Markdown](https://data.orchid-project.org/systems/AL-H-MG.md)
 
 Table: Accepted values by evidence class
 
@@ -29,10 +29,10 @@ Table: Crystal structure, Al–H–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.2225 Å |  | UNKNOWN | model | [1] Palumbo 2007 | Table 2, p. 5, row 2 |  |
-| Lattice a | 5.2084 Å | 298.15 | UNKNOWN | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 1 |  |
-| Lattice c | 5.7635 Å |  | UNKNOWN | model | [1] Palumbo 2007 | Table 2, p. 5, row 4 |  |
-| Lattice c | 5.8392 Å | 298.15 | UNKNOWN | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 3 |  |
+| Lattice a | 5.2225 Å |  | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 2 |  |
+| Lattice a | 5.2084 Å | 298.15 | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 1 |  |
+| Lattice c | 5.7635 Å |  | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 4 |  |
+| Lattice c | 5.8392 Å | 298.15 | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 3 |  |
 
 ## Sources
 

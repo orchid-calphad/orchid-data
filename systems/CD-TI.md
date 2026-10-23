@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-TI.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-TI/CdTi-13Zha.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-TI.html) · [Markdown](https://data.orchid-project.org/systems/CD-TI.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-TI/CdTi-13Zha.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-TI.html) · [Markdown](https://data.orchid-project.org/systems/CD-TI.md)
 
 ## Calculated phase diagrams
 

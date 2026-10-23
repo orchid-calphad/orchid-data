@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/O-PU.html · Markdown: https://dat
 
 113 accepted literature values from 2 paper(s) (experimental 45, model 59, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/O-PU.json) · [CSV](https://data.orchid-project.org/systems/O-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PU) · [phases (14)](https://data.orchid-project.org/phases/pages/O-PU.html) · [Markdown](https://data.orchid-project.org/systems/O-PU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/O-PU.json) · [CSV](https://data.orchid-project.org/systems/O-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PU) · [phases (14)](https://data.orchid-project.org/phases/pages/O-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-PU.html) · [Markdown](https://data.orchid-project.org/systems/O-PU.md)
 
 Table: Accepted values by evidence class
 

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Gd2O3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1827530 unknown | C-Gd2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
 | -1827530 unknown | C-Gd₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
-| -1819700 unknown | B-Gd₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
+| -1827530 unknown | C-Gd2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
 | -1819700 unknown | B-Gd2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
+| -1819700 unknown | B-Gd₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
 
 ## Sources
 

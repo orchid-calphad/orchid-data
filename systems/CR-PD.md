@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-PD.html · Markdown: https://da
 
 10 accepted literature values from 1 paper(s) (experimental 7, model 3); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-PD.json) · [CSV](https://data.orchid-project.org/systems/CR-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-PD/CrPd-00Gho-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-PD.html) · [Markdown](https://data.orchid-project.org/systems/CR-PD.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-PD.json) · [CSV](https://data.orchid-project.org/systems/CR-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-PD/CrPd-00Gho-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-PD.html) · [Markdown](https://data.orchid-project.org/systems/CR-PD.md)
 
 Table: Accepted values by evidence class
 

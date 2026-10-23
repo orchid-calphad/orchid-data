@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-O.html · Markdown: https://dat
 
 79 accepted literature values from 2 paper(s) (experimental 20, model 59); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BA-O.json) · [CSV](https://data.orchid-project.org/systems/BA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-O/BaO-95Zim.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BA-O.html) · [Markdown](https://data.orchid-project.org/systems/BA-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BA-O.json) · [CSV](https://data.orchid-project.org/systems/BA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-O/BaO-95Zim.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-O.html) · [Markdown](https://data.orchid-project.org/systems/BA-O.md)
 
 Table: Accepted values by evidence class
 

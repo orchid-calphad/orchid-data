@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IR-RH.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-RH/IrRh-06Jan-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/IR-RH.html) · [Markdown](https://data.orchid-project.org/systems/IR-RH.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-RH/IrRh-06Jan-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/IR-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IR-RH.html) · [Markdown](https://data.orchid-project.org/systems/IR-RH.md)
 
 ## Calculated phase diagrams
 

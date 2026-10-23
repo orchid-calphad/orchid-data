@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/H-LA-NI.html · Markdown: https://
 
 78 accepted literature values from 2 paper(s) (experimental 40, model 10, DFT 2, unspecified 26); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/H-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA-NI) · [Markdown](https://data.orchid-project.org/systems/H-LA-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/H-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/H-LA-NI.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-HG-TE.html · Markdown: https:/
 
 8 accepted literature values from 1 paper(s) (model 4, unspecified 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-HG-TE.json) · [CSV](https://data.orchid-project.org/systems/CD-HG-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-HG-TE) · [Markdown](https://data.orchid-project.org/systems/CD-HG-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-HG-TE.json) · [CSV](https://data.orchid-project.org/systems/CD-HG-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-HG-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-HG-TE.html) · [Markdown](https://data.orchid-project.org/systems/CD-HG-TE.md)
 
 Table: Accepted values by evidence class
 

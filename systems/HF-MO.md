@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-MO.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-MO/HfMo-02Sha-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/HF-MO.html) · [Markdown](https://data.orchid-project.org/systems/HF-MO.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-MO/HfMo-02Sha-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/HF-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-MO.html) · [Markdown](https://data.orchid-project.org/systems/HF-MO.md)
 
 ## Calculated phase diagrams
 

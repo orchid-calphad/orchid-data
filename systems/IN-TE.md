@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-TE.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-TE/InTe-93Oh.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-TE.html) · [Markdown](https://data.orchid-project.org/systems/IN-TE.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-TE/InTe-93Oh.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-TE.html) · [Markdown](https://data.orchid-project.org/systems/IN-TE.md)
 
 ## Calculated phase diagrams
 

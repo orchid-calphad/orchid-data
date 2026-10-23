@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-NI.html · Markdown: https://da
 
 6 accepted literature values from 1 paper(s) (experimental 3, model 3); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IN-NI.json) · [CSV](https://data.orchid-project.org/systems/IN-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-NI/InNi-13Cao.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-NI.html) · [Markdown](https://data.orchid-project.org/systems/IN-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IN-NI.json) · [CSV](https://data.orchid-project.org/systems/IN-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-NI/InNi-13Cao.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-NI.html) · [Markdown](https://data.orchid-project.org/systems/IN-NI.md)
 
 Table: Accepted values by evidence class
 

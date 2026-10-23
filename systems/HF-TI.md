@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-TI.html · Markdown: https://da
 
 25 accepted literature values from 2 paper(s) (experimental 9, model 16); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HF-TI.json) · [CSV](https://data.orchid-project.org/systems/HF-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-TI/HfTi-97Bit-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HF-TI.html) · [Markdown](https://data.orchid-project.org/systems/HF-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HF-TI.json) · [CSV](https://data.orchid-project.org/systems/HF-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-TI/HfTi-97Bit-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HF-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-TI.html) · [Markdown](https://data.orchid-project.org/systems/HF-TI.md)
 
 Table: Accepted values by evidence class
 

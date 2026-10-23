@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-LI-SR-TE.html · Markdown: http
 
 23 accepted literature values from 1 paper(s) (experimental 4, model 5, DFT 14); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-LI-SR-TE.json) · [CSV](https://data.orchid-project.org/systems/GA-LI-SR-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-LI-SR-TE) · [Markdown](https://data.orchid-project.org/systems/GA-LI-SR-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-LI-SR-TE.json) · [CSV](https://data.orchid-project.org/systems/GA-LI-SR-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-LI-SR-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-LI-SR-TE.html) · [Markdown](https://data.orchid-project.org/systems/GA-LI-SR-TE.md)
 
 Table: Accepted values by evidence class
 

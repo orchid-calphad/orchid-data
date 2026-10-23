@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/H-LI-NA-SC-SR.html · Markdown: ht
 
 17 accepted literature values from 1 paper(s) (experimental 7, model 10); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/H-LI-NA-SC-SR.json) · [CSV](https://data.orchid-project.org/systems/H-LI-NA-SC-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LI-NA-SC-SR) · [Markdown](https://data.orchid-project.org/systems/H-LI-NA-SC-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/H-LI-NA-SC-SR.json) · [CSV](https://data.orchid-project.org/systems/H-LI-NA-SC-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LI-NA-SC-SR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LI-NA-SC-SR.html) · [Markdown](https://data.orchid-project.org/systems/H-LI-NA-SC-SR.md)
 
 Table: Accepted values by evidence class
 

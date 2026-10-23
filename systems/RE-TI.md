@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RE-TI.html · Markdown: https://da
 
 34 accepted literature values from 1 paper(s) (experimental 12, DFT 22); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RE-TI.json) · [CSV](https://data.orchid-project.org/systems/RE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-TI/ReTi-12Zac.json) · [phases (6)](https://data.orchid-project.org/phases/pages/RE-TI.html) · [Markdown](https://data.orchid-project.org/systems/RE-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RE-TI.json) · [CSV](https://data.orchid-project.org/systems/RE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-TI/ReTi-12Zac.json) · [phases (6)](https://data.orchid-project.org/phases/pages/RE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-TI.html) · [Markdown](https://data.orchid-project.org/systems/RE-TI.md)
 
 Table: Accepted values by evidence class
 
@@ -74,28 +74,28 @@ Table: Crystal structure, Re–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 2.773 Å |  | Re; _alloy: Ti 0_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 1 |  |
+| Lattice a | 2.785 Å |  | Re; _alloy: Ti 0_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 3 |  |
+| Lattice a | 3.236 Å |  | Ti; _alloy: Ti 1_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 4 |  |
+| Lattice a | 3.241 Å |  | Ti; _alloy: Ti 1_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 6 |  |
+| Lattice a | 2.921 Å |  | Ti; _alloy: Ti 1_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 7 |  |
+| Lattice a | 2.929 Å |  | Ti; _alloy: Ti 1_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 9 |  |
 | Lattice a | 9.68 Å |  | UNKNOWN | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 11 |  |
-| Lattice a | 3.236 Å |  | UNKNOWN; _alloy: Ti 1_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 4 |  |
 | Lattice a | 3.121 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 14 |  |
 | Lattice a | 9.632 Å |  | UNKNOWN | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 10 |  |
-| Lattice a | 3.241 Å |  | UNKNOWN; _alloy: Ti 1_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 6 |  |
-| Lattice a | 2.773 Å |  | UNKNOWN; _alloy: Ti 0_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 1 |  |
-| Lattice a | 2.785 Å |  | UNKNOWN; _alloy: Ti 0_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 3 |  |
-| Lattice a | 2.921 Å |  | UNKNOWN; _alloy: Ti 1_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 7 |  |
 | Lattice a | 3.11 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 13 |  |
 | Lattice a | 5.26 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 16 |  |
-| Lattice a | 2.929 Å |  | UNKNOWN; _alloy: Ti 1_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 9 |  |
+| Lattice a | 2.76 Å | 298.15 | Re; _alloy: Ti 0_ | experimental | [1] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 2 |  |
+| Lattice a | 2.95 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [1] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8 |  |
+| Lattice a | 3.31 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [1] Zacherl 2012; _cites Kittel 2005_ | Table 1, p. 4, row 5 |  |
 | Lattice a | 3.118 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | experimental | [1] Zacherl 2012; _cites Dwight 1969_ | Table 1, p. 4, row 15 |  |
-| Lattice a | 2.95 Å | 298.15 | UNKNOWN; _alloy: Ti 1_ | experimental | [1] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8 |  |
-| Lattice a | 3.31 Å | 298.15 | UNKNOWN; _alloy: Ti 1_ | experimental | [1] Zacherl 2012; _cites Kittel 2005_ | Table 1, p. 4, row 5 |  |
-| Lattice a | 2.76 Å | 298.15 | UNKNOWN; _alloy: Ti 0_ | experimental | [1] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 2 |  |
 | Lattice a | 9.609 Å | 298.15 | UNKNOWN | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | Table 1, p. 4, row 12 |  |
-| Lattice c | 4.48 Å |  | UNKNOWN; _alloy: Ti 0_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 1 |  |
-| Lattice c | 4.498 Å |  | UNKNOWN; _alloy: Ti 0_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 3 |  |
-| Lattice c | 4.632 Å |  | UNKNOWN; _alloy: Ti 1_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 7 |  |
-| Lattice c | 4.631 Å |  | UNKNOWN; _alloy: Ti 1_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 9 |  |
-| Lattice c | 4.68 Å | 298.15 | UNKNOWN; _alloy: Ti 1_ | experimental | [1] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8 |  |
-| Lattice c | 4.46 Å | 298.15 | UNKNOWN; _alloy: Ti 0_ | experimental | [1] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 2 |  |
+| Lattice c | 4.48 Å |  | Re; _alloy: Ti 0_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 1 |  |
+| Lattice c | 4.498 Å |  | Re; _alloy: Ti 0_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 3 |  |
+| Lattice c | 4.632 Å |  | Ti; _alloy: Ti 1_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 7 |  |
+| Lattice c | 4.631 Å |  | Ti; _alloy: Ti 1_ | DFT | [1] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 9 |  |
+| Lattice c | 4.46 Å | 298.15 | Re; _alloy: Ti 0_ | experimental | [1] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 2 |  |
+| Lattice c | 4.68 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [1] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8 |  |
 | Molar volume; _printed: V0_ | 15.04 Å3/atom | 0 | B2–ReTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 9 |  |
 | Molar volume; _printed: V0_ | 15.21 Å3/atom | 0 | MoTi–ReTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 10 |  |
 | Molar volume; _printed: V0_ | 7.35 Å3/atom | 0 | hcp-Re; _alloy: Ti 0_ | DFT | [1] Zacherl 2012; _cites Steinle-Neumann 1999_ [doi](https://doi.org/10.1103/physrevb.60.791) | Table 2, p. 4, row 2 |  |

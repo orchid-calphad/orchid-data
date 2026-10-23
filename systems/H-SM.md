@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/H-SM.html · Markdown: https://dat
 
 7 accepted literature values from 1 paper(s) (experimental 2, model 5); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/H-SM.json) · [CSV](https://data.orchid-project.org/systems/H-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-SM) · [phases (9)](https://data.orchid-project.org/phases/pages/H-SM.html) · [Markdown](https://data.orchid-project.org/systems/H-SM.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/H-SM.json) · [CSV](https://data.orchid-project.org/systems/H-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-SM) · [phases (9)](https://data.orchid-project.org/phases/pages/H-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-SM.html) · [Markdown](https://data.orchid-project.org/systems/H-SM.md)
 
 Table: Accepted values by evidence class
 

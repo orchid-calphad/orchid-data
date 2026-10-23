@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-U.html · Markdown: https://dat
 
 1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-U.json) · [CSV](https://data.orchid-project.org/systems/CD-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-U) · [Markdown](https://data.orchid-project.org/systems/CD-U.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-U.json) · [CSV](https://data.orchid-project.org/systems/CD-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-U) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-U.html) · [Markdown](https://data.orchid-project.org/systems/CD-U.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-GA-ZN.html · Markdown: https:/
 
 12 accepted literature values from 1 paper(s) (experimental 2, model 10); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GA-ZN.json) · [CSV](https://data.orchid-project.org/systems/AL-GA-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GA-ZN) · [Markdown](https://data.orchid-project.org/systems/AL-GA-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GA-ZN.json) · [CSV](https://data.orchid-project.org/systems/AL-GA-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GA-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-GA-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AL-GA-ZN.md)
 
 Table: Accepted values by evidence class
 

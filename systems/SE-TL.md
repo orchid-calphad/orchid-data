@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SE-TL.html · Markdown: https://da
 
 1 accepted literature values from 1 paper(s) (experimental 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SE-TL.json) · [CSV](https://data.orchid-project.org/systems/SE-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SE-TL) · [phases (9)](https://data.orchid-project.org/phases/pages/SE-TL.html) · [Markdown](https://data.orchid-project.org/systems/SE-TL.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SE-TL.json) · [CSV](https://data.orchid-project.org/systems/SE-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SE-TL) · [phases (9)](https://data.orchid-project.org/phases/pages/SE-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SE-TL.html) · [Markdown](https://data.orchid-project.org/systems/SE-TL.md)
 
 Table: Accepted values by evidence class
 

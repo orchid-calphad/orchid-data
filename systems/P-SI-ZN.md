@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/P-SI-ZN.html · Markdown: https://
 
 43 accepted literature values from 1 paper(s) (experimental 24, model 10, DFT 2, unspecified 7); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI-ZN.json) · [CSV](https://data.orchid-project.org/systems/P-SI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI-ZN) · [Markdown](https://data.orchid-project.org/systems/P-SI-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI-ZN.json) · [CSV](https://data.orchid-project.org/systems/P-SI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-SI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/P-SI-ZN.md)
 
 Table: Accepted values by evidence class
 

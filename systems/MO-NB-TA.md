@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MO-NB-TA.html · Markdown: https:/
 
 0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NB-TA.json) · [CSV](https://data.orchid-project.org/systems/MO-NB-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NB-TA) · [Markdown](https://data.orchid-project.org/systems/MO-NB-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NB-TA.json) · [CSV](https://data.orchid-project.org/systems/MO-NB-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NB-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NB-TA.html) · [Markdown](https://data.orchid-project.org/systems/MO-NB-TA.md)
 
 ## Please cite
 

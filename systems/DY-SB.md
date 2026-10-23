@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-SB.html · Markdown: https://da
 
 25 accepted literature values from 1 paper(s) (experimental 14, model 11); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/DY-SB.json) · [CSV](https://data.orchid-project.org/systems/DY-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-SB/DySb-10Lon.json) · [phases (12)](https://data.orchid-project.org/phases/pages/DY-SB.html) · [Markdown](https://data.orchid-project.org/systems/DY-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/DY-SB.json) · [CSV](https://data.orchid-project.org/systems/DY-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-SB/DySb-10Lon.json) · [phases (12)](https://data.orchid-project.org/phases/pages/DY-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-SB.html) · [Markdown](https://data.orchid-project.org/systems/DY-SB.md)
 
 Table: Accepted values by evidence class
 

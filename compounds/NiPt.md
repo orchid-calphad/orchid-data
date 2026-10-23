@@ -1,23 +1,28 @@
 # NiPt: enthalpy of formation
 
-> Enthalpy of formation of NiPt: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of NiPt: 9 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NiPt.html · Markdown: https://data.orchid-project.org/compounds/NiPt.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 1, DFT 3); experimental median -9.27 kJ/mol-atom (n = 1); Materials Project -9.177 kJ/mol-atom (mp-aaaaabkj); OQMD -9.756 kJ/mol-atom (oqmd-17788).
+9 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 4); experimental median -9.27 kJ/mol-atom (n = 2); Materials Project -9.177 kJ/mol-atom (mp-aaaaabkj); OQMD -9.756 kJ/mol-atom (oqmd-17788).
 
 Systems: [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of NiPt reported in the literature (4)
+Table: Enthalpy of formation of NiPt reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -9.27 kJ/mol-atom | NiPt | 0 | experimental |  | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Kim 2011; _cites Walker 1970_ [doi](https://doi.org/10.1016/0001-6160%2870%2990156-2) | Table 4, p. 4, row 13 |  |
-| -9.23 kJ/mol-atom | NiPt–L10 | 0 | DFT | LAPW \[18\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [2] Lu 2009; _cites Lu 1993_ [doi](https://doi.org/10.1209/0295-5075/21/2/017) | Table 1, p. 3, row 4 |  |
-| -8.98 kJ/mol-atom | NiPt–L10 | 0 | DFT | VASP (relaxed value) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [2] Lu 2009 | Table 1, p. 3, row 11 |  |
-| -8.98 kJ/mol-atom | NiPt | 0 | DFT | VASP (relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Kim 2011; _cites Lu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.06.002) | Table 4, p. 4, row 12 |  |
+| -9.27 kJ/mol-atom | NiPt–L10 | 0 | experimental | Experiment \[20\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Hultgren 1973_ | Table 1, p. 3, row 15 |  |
+| -9.27 kJ/mol-atom | NiPt | 0 | experimental |  | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [2] Kim 2011; _cites Walker 1970_ [doi](https://doi.org/10.1016/0001-6160%2870%2990156-2) | Table 4, p. 4, row 13 |  |
+| -13.5 kJ/mol-atom | NiPt–L10 | 0 | model | Assessment (this work) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 13 |  |
+| -11.76 kJ/mol-atom | NiPt–L10 | 0 | model | LMTO + CPA \[19\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 6 |  |
+| -11.42 kJ/mol-atom | NiPt–L10 | 0 | model | FLMTO + CWM \[17\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 2 |  |
+| -9.23 kJ/mol-atom | NiPt–L10 | 0 | DFT | LAPW \[18\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Lu 1993_ [doi](https://doi.org/10.1209/0295-5075/21/2/017) | Table 1, p. 3, row 4 |  |
+| -8.98 kJ/mol-atom | NiPt–L10 | 0 | DFT | VASP (relaxed value) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 11 |  |
+| -8.98 kJ/mol-atom | NiPt | 0 | DFT | VASP (relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [2] Kim 2011; _cites Lu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.06.002) | Table 4, p. 4, row 12 |  |
+| -7.64 kJ/mol-atom | NiPt–L10 | 0 | DFT | VASP (no relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 9 |  |
 
 ## DFT formation energies
 
@@ -34,8 +39,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. DongEung Kim, James E. Saal, Liangcai Zhou, ShunLi Shang, Yong Du, Zi-Kui Liu, Thermodynamic modeling of fcc order/disorder transformations in the Co–Pt system, Calphad 35, 323-330 (2011). [doi:10.1016/j.calphad.2011.04.005](https://doi.org/10.1016/j.calphad.2011.04.005)
-2. Xiao-Gang Lu, Bo Sundman, John A˚gren, Thermodynamic assessments of the Ni–Pt and Al–Ni–Pt systems, Calphad 33, 450-456 (2009). [doi:10.1016/j.calphad.2009.06.002](https://doi.org/10.1016/j.calphad.2009.06.002)
+1. Xiao-Gang Lu, Bo Sundman, John A˚gren, Thermodynamic assessments of the Ni–Pt and Al–Ni–Pt systems, Calphad 33, 450-456 (2009). [doi:10.1016/j.calphad.2009.06.002](https://doi.org/10.1016/j.calphad.2009.06.002)
+2. DongEung Kim, James E. Saal, Liangcai Zhou, ShunLi Shang, Yong Du, Zi-Kui Liu, Thermodynamic modeling of fcc order/disorder transformations in the Co–Pt system, Calphad 35, 323-330 (2011). [doi:10.1016/j.calphad.2011.04.005](https://doi.org/10.1016/j.calphad.2011.04.005)
 
 ## Please cite
 

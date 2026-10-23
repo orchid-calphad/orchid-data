@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-NB.html · Markdown: https://dat
 
 77 accepted literature values from 2 paper(s) (experimental 43, model 21, DFT 13); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/C-NB.json) · [CSV](https://data.orchid-project.org/systems/C-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-NB) · [phases (6)](https://data.orchid-project.org/phases/pages/C-NB.html) · [Markdown](https://data.orchid-project.org/systems/C-NB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-NB.json) · [CSV](https://data.orchid-project.org/systems/C-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-NB) · [phases (6)](https://data.orchid-project.org/phases/pages/C-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-NB.html) · [Markdown](https://data.orchid-project.org/systems/C-NB.md)
 
 Table: Accepted values by evidence class
 

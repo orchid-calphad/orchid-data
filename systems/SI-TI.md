@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-TI.html · Markdown: https://da
 
 9 accepted literature values from 1 paper(s) (model 9); 6 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TI.json) · [CSV](https://data.orchid-project.org/systems/SI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TI/SiTi-04Tok.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SI-TI.html) · [Markdown](https://data.orchid-project.org/systems/SI-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TI.json) · [CSV](https://data.orchid-project.org/systems/SI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TI/SiTi-04Tok.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SI-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TI.html) · [Markdown](https://data.orchid-project.org/systems/SI-TI.md)
 
 Table: Accepted values by evidence class
 

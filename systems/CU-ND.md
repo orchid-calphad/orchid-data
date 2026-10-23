@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-ND.html · Markdown: https://da
 
 35 accepted literature values from 3 paper(s) (experimental 18, model 13, DFT 4); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ND.json) · [CSV](https://data.orchid-project.org/systems/CU-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ND/CuNd-11Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/CU-ND.html) · [Markdown](https://data.orchid-project.org/systems/CU-ND.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ND.json) · [CSV](https://data.orchid-project.org/systems/CU-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ND/CuNd-11Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/CU-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-ND.html) · [Markdown](https://data.orchid-project.org/systems/CU-ND.md)
 
 Table: Accepted values by evidence class
 

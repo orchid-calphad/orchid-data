@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-RB.html · Markdown: https://da
 
 275 accepted literature values from 2 paper(s) (experimental 88, model 108, DFT 72, unspecified 7); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-RB.json) · [CSV](https://data.orchid-project.org/systems/BI-RB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-RB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-RB/BiRb-13Liu.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BI-RB.html) · [Markdown](https://data.orchid-project.org/systems/BI-RB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-RB.json) · [CSV](https://data.orchid-project.org/systems/BI-RB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-RB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-RB/BiRb-13Liu.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BI-RB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-RB.html) · [Markdown](https://data.orchid-project.org/systems/BI-RB.md)
 
 Table: Accepted values by evidence class
 

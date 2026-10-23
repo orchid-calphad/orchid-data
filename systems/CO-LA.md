@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-LA.html · Markdown: https://da
 
 26 accepted literature values from 1 paper(s) (experimental 17, model 9); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-LA.json) · [CSV](https://data.orchid-project.org/systems/CO-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-LA/CoLa-08Wan.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CO-LA.html) · [Markdown](https://data.orchid-project.org/systems/CO-LA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-LA.json) · [CSV](https://data.orchid-project.org/systems/CO-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-LA/CoLa-08Wan.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CO-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-LA.html) · [Markdown](https://data.orchid-project.org/systems/CO-LA.md)
 
 Table: Accepted values by evidence class
 

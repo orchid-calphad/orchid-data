@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-H-NI.html · Markdown: https://
 
 6 accepted literature values from 1 paper(s) (model 6); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CE-H-NI.json) · [CSV](https://data.orchid-project.org/systems/CE-H-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-H-NI) · [Markdown](https://data.orchid-project.org/systems/CE-H-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CE-H-NI.json) · [CSV](https://data.orchid-project.org/systems/CE-H-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-H-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-H-NI.html) · [Markdown](https://data.orchid-project.org/systems/CE-H-NI.md)
 
 Table: Accepted values by evidence class
 

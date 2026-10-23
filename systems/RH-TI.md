@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RH-TI.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RH-TI/RhTi-22Hu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RH-TI.html) · [Markdown](https://data.orchid-project.org/systems/RH-TI.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RH-TI/RhTi-22Hu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RH-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RH-TI.html) · [Markdown](https://data.orchid-project.org/systems/RH-TI.md)
 
 ## Calculated phase diagrams
 

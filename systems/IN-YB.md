@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-YB.html · Markdown: https://da
 
 34 accepted literature values from 1 paper(s) (experimental 20, model 14); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IN-YB.json) · [CSV](https://data.orchid-project.org/systems/IN-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-YB/InYb-11Gao.json) · [phases (10)](https://data.orchid-project.org/phases/pages/IN-YB.html) · [Markdown](https://data.orchid-project.org/systems/IN-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IN-YB.json) · [CSV](https://data.orchid-project.org/systems/IN-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-YB/InYb-11Gao.json) · [phases (10)](https://data.orchid-project.org/phases/pages/IN-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-YB.html) · [Markdown](https://data.orchid-project.org/systems/IN-YB.md)
 
 Table: Accepted values by evidence class
 

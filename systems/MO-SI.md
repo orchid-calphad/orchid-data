@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MO-SI.html · Markdown: https://da
 
 314 accepted literature values from 4 paper(s) (experimental 111, model 202, DFT 1); 7 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MO-SI.json) · [CSV](https://data.orchid-project.org/systems/MO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-SI/MoSi-00Liu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MO-SI.html) · [Markdown](https://data.orchid-project.org/systems/MO-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-SI.json) · [CSV](https://data.orchid-project.org/systems/MO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-SI/MoSi-00Liu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MO-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-SI.html) · [Markdown](https://data.orchid-project.org/systems/MO-SI.md)
 
 Table: Accepted values by evidence class
 

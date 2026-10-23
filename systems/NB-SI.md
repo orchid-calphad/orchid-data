@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NB-SI.html · Markdown: https://da
 
 208 accepted literature values from 7 paper(s) (experimental 34, model 170, unspecified 4); 11 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SI.json) · [CSV](https://data.orchid-project.org/systems/NB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-SI/NbSi-02Fer-alt.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NB-SI.html) · [Markdown](https://data.orchid-project.org/systems/NB-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SI.json) · [CSV](https://data.orchid-project.org/systems/NB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-SI/NbSi-02Fer-alt.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NB-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-SI.html) · [Markdown](https://data.orchid-project.org/systems/NB-SI.md)
 
 Table: Accepted values by evidence class
 

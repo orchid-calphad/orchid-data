@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-CA-CU-O-SR.html · Markdown: ht
 
 30 accepted literature values from 1 paper(s) (experimental 15, unspecified 15); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CA-CU-O-SR.json) · [CSV](https://data.orchid-project.org/systems/BI-CA-CU-O-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CA-CU-O-SR) · [Markdown](https://data.orchid-project.org/systems/BI-CA-CU-O-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CA-CU-O-SR.json) · [CSV](https://data.orchid-project.org/systems/BI-CA-CU-O-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CA-CU-O-SR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CA-CU-O-SR.html) · [Markdown](https://data.orchid-project.org/systems/BI-CA-CU-O-SR.md)
 
 Table: Accepted values by evidence class
 

@@ -1,16 +1,16 @@
 # Ag2Se: enthalpy of formation
 
-> Enthalpy of formation of Ag2Se: 20 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ag2Se: 24 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ag2Se.html · Markdown: https://data.orchid-project.org/compounds/Ag2Se.md
 
-20 accepted literature formation-enthalpy value(s) (experimental 16, DFT 4); experimental median -13.623 kJ/mol-atom (n = 16); Materials Project -21.663 kJ/mol-atom (mp-aaabgjqe); OQMD -7.938 kJ/mol-atom (oqmd-1374449).
+24 accepted literature formation-enthalpy value(s) (experimental 16, DFT 8); experimental median -13.623 kJ/mol-atom (n = 16); Materials Project -21.663 kJ/mol-atom (mp-aaabgjqe); OQMD -7.938 kJ/mol-atom (oqmd-1374449).
 
 Systems: [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ag2Se reported in the literature (20)
+Table: Enthalpy of formation of Ag2Se reported in the literature (24)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -30,9 +30,13 @@ Table: Enthalpy of formation of Ag2Se reported in the literature (20)
 | -11.6733 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10 |  |
 | -11.67 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 1, p. 3, row 16 |  |
 | -11.6667 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14 |  |
+| -9.936 kJ/mol-atom | α-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 1 |  |
 | -9.936 kJ/mol-atom | α-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 1 |  |
+| -5.869 kJ/mol-atom | α-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 2 |  |
 | -5.869 kJ/mol-atom | α-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 2 |  |
+| -4.127 kJ/mol-atom | β-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 7 |  |
 | -4.127 kJ/mol-atom | β-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 7 |  |
+| -3.196 kJ/mol-atom | β-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 8 |  |
 | -3.196 kJ/mol-atom | β-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 8 |  |
 
 ## DFT formation energies

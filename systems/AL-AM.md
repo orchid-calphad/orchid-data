@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-AM.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-AM/AlAm-16Per.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-AM.html) · [Markdown](https://data.orchid-project.org/systems/AL-AM.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-AM/AlAm-16Per.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-AM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-AM.html) · [Markdown](https://data.orchid-project.org/systems/AL-AM.md)
 
 ## Calculated phase diagrams
 

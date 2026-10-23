@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-FE-TI.html · Markdown: https:/
 
 33 accepted literature values from 1 paper(s) (experimental 8, model 16, DFT 9); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-FE-TI.json) · [CSV](https://data.orchid-project.org/systems/BI-FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-FE-TI) · [Markdown](https://data.orchid-project.org/systems/BI-FE-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-FE-TI.json) · [CSV](https://data.orchid-project.org/systems/BI-FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-FE-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-FE-TI.html) · [Markdown](https://data.orchid-project.org/systems/BI-FE-TI.md)
 
 Table: Accepted values by evidence class
 

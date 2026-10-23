@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-NB.html · Markdown: https://da
 
 41 accepted literature values from 1 paper(s) (experimental 25, model 16); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NB.json) · [CSV](https://data.orchid-project.org/systems/GE-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NB/GeNb-11Gen.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GE-NB.html) · [Markdown](https://data.orchid-project.org/systems/GE-NB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NB.json) · [CSV](https://data.orchid-project.org/systems/GE-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NB/GeNb-11Gen.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GE-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-NB.html) · [Markdown](https://data.orchid-project.org/systems/GE-NB.md)
 
 Table: Accepted values by evidence class
 

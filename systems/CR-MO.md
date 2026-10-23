@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-MO.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-MO/CrMo-88Fri-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-MO.html) · [Markdown](https://data.orchid-project.org/systems/CR-MO.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-MO/CrMo-88Fri-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-MO.html) · [Markdown](https://data.orchid-project.org/systems/CR-MO.md)
 
 ## Calculated phase diagrams
 

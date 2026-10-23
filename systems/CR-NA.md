@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-NA.html · Markdown: https://da
 
 1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NA.json) · [CSV](https://data.orchid-project.org/systems/CR-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NA/CrNa-12Hao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-NA.html) · [Markdown](https://data.orchid-project.org/systems/CR-NA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NA.json) · [CSV](https://data.orchid-project.org/systems/CR-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NA/CrNa-12Hao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NA.html) · [Markdown](https://data.orchid-project.org/systems/CR-NA.md)
 
 Table: Accepted values by evidence class
 

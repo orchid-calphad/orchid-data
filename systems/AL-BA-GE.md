@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-BA-GE.html · Markdown: https:/
 
 92 accepted literature values from 1 paper(s) (experimental 14, model 60, DFT 18); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-BA-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-BA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-BA-GE) · [Markdown](https://data.orchid-project.org/systems/AL-BA-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-BA-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-BA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-BA-GE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-BA-GE.html) · [Markdown](https://data.orchid-project.org/systems/AL-BA-GE.md)
 
 Table: Accepted values by evidence class
 

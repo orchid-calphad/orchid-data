@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-MG.html · Markdown: https://da
 
 19 accepted literature values from 1 paper(s) (experimental 6, model 6, unspecified 7); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-MG.json) · [CSV](https://data.orchid-project.org/systems/CD-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-MG/CdMg-12Ren.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CD-MG.html) · [Markdown](https://data.orchid-project.org/systems/CD-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-MG.json) · [CSV](https://data.orchid-project.org/systems/CD-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-MG/CdMg-12Ren.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CD-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-MG.html) · [Markdown](https://data.orchid-project.org/systems/CD-MG.md)
 
 Table: Accepted values by evidence class
 

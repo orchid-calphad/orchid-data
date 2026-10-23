@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-P.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 4 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-P/FeP-06Oht.json) · [phases (11)](https://data.orchid-project.org/phases/pages/FE-P.html) · [Markdown](https://data.orchid-project.org/systems/FE-P.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-P/FeP-06Oht.json) · [phases (11)](https://data.orchid-project.org/phases/pages/FE-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-P.html) · [Markdown](https://data.orchid-project.org/systems/FE-P.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-NB-TI.html · Markdown: https:/
 
 61 accepted literature values from 1 paper(s) (experimental 56, model 5); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-NB-TI.json) · [CSV](https://data.orchid-project.org/systems/CO-NB-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-NB-TI) · [Markdown](https://data.orchid-project.org/systems/CO-NB-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-NB-TI.json) · [CSV](https://data.orchid-project.org/systems/CO-NB-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-NB-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-NB-TI.html) · [Markdown](https://data.orchid-project.org/systems/CO-NB-TI.md)
 
 Table: Accepted values by evidence class
 

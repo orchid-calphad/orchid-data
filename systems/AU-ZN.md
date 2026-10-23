@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-ZN.html · Markdown: https://da
 
 50 accepted literature values from 1 paper(s) (experimental 26, model 24); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-ZN.json) · [CSV](https://data.orchid-project.org/systems/AU-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ZN/AuZn-03Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AU-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AU-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-ZN.json) · [CSV](https://data.orchid-project.org/systems/AU-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ZN/AuZn-03Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AU-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AU-ZN.md)
 
 Table: Accepted values by evidence class
 

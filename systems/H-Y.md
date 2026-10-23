@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/H-Y.html · Markdown: https://data
 
 65 accepted literature values from 2 paper(s) (experimental 10, model 10, DFT 20, unspecified 25); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/H-Y.json) · [CSV](https://data.orchid-project.org/systems/H-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-Y) · [phases (6)](https://data.orchid-project.org/phases/pages/H-Y.html) · [Markdown](https://data.orchid-project.org/systems/H-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/H-Y.json) · [CSV](https://data.orchid-project.org/systems/H-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-Y) · [phases (6)](https://data.orchid-project.org/phases/pages/H-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-Y.html) · [Markdown](https://data.orchid-project.org/systems/H-Y.md)
 
 Table: Accepted values by evidence class
 

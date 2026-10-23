@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/K-NA.html · Markdown: https://dat
 
 17 accepted literature values from 1 paper(s) (experimental 15, DFT 2); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/K-NA.json) · [CSV](https://data.orchid-project.org/systems/K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#K-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-NA/KNa-06Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/K-NA.html) · [Markdown](https://data.orchid-project.org/systems/K-NA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/K-NA.json) · [CSV](https://data.orchid-project.org/systems/K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#K-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-NA/KNa-06Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/K-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/K-NA.html) · [Markdown](https://data.orchid-project.org/systems/K-NA.md)
 
 Table: Accepted values by evidence class
 

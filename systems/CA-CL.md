@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-CL.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CL/CaCl-92Sta.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-CL.html) · [Markdown](https://data.orchid-project.org/systems/CA-CL.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CL/CaCl-92Sta.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-CL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CL.html) · [Markdown](https://data.orchid-project.org/systems/CA-CL.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-F.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-F/CaF-92Sta.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-F.html) · [Markdown](https://data.orchid-project.org/systems/CA-F.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-F/CaF-92Sta.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-F.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-F.html) · [Markdown](https://data.orchid-project.org/systems/CA-F.md)
 
 ## Calculated phase diagrams
 

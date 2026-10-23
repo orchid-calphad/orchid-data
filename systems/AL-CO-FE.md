@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-CO-FE.html · Markdown: https:/
 
 53 accepted literature values from 2 paper(s) (experimental 31, model 6, DFT 16); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-FE.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-FE) · [Markdown](https://data.orchid-project.org/systems/AL-CO-FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-FE.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-FE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-FE.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-FE.md)
 
 Table: Accepted values by evidence class
 

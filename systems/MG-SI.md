@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-SI.html · Markdown: https://da
 
 228 accepted literature values from 7 paper(s) (experimental 176, model 42, DFT 7, unspecified 3); 7 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SI.json) · [CSV](https://data.orchid-project.org/systems/MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SI/MgSi-00Yan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/MG-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SI.json) · [CSV](https://data.orchid-project.org/systems/MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SI/MgSi-00Yan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MG-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/MG-SI.md)
 
 Table: Accepted values by evidence class
 

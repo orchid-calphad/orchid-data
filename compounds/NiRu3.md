@@ -14,7 +14,7 @@ Table: Enthalpy of formation of NiRu3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 13.8 kJ/mol-atom | NiRu3 | 0 | DFT | Ab initio | [Ni–Ru](https://data.orchid-project.org/systems/NI-RU.html) | [1] Hallström 2008 | Table A.1, p. 7, row 4 |  |
+| 13.8 kJ/mol-atom | NiRu3 | 0 | DFT | Ab initio | [Ni–Ru](https://data.orchid-project.org/systems/NI-RU.html) | [1] Hallström 2008 | Table A.1, p. 7, row 5 |  |
 
 ## Sources
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-V.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-V/AgV-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-V.html) · [Markdown](https://data.orchid-project.org/systems/AG-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-V/AgV-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-V.html) · [Markdown](https://data.orchid-project.org/systems/AG-V.md)
 
 ## Calculated phase diagrams
 

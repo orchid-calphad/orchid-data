@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-RE.html · Markdown: https://da
 
 31 accepted literature values from 2 paper(s) (experimental 26, model 2, unspecified 3); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-RE.json) · [CSV](https://data.orchid-project.org/systems/NI-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-RE/NiRe-12Yaq.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NI-RE.html) · [Markdown](https://data.orchid-project.org/systems/NI-RE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-RE.json) · [CSV](https://data.orchid-project.org/systems/NI-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-RE/NiRe-12Yaq.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NI-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-RE.html) · [Markdown](https://data.orchid-project.org/systems/NI-RE.md)
 
 Table: Accepted values by evidence class
 

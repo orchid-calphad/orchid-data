@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-O.html · Markdown: https://dat
 
 49 accepted literature values from 1 paper(s) (experimental 5, DFT 44); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HF-O.json) · [CSV](https://data.orchid-project.org/systems/HF-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-O/HfO-06Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-O.html) · [Markdown](https://data.orchid-project.org/systems/HF-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HF-O.json) · [CSV](https://data.orchid-project.org/systems/HF-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-O/HfO-06Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-O.html) · [Markdown](https://data.orchid-project.org/systems/HF-O.md)
 
 Table: Accepted values by evidence class
 

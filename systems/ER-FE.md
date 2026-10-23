@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-FE.html · Markdown: https://da
 
 106 accepted literature values from 4 paper(s) (experimental 46, model 59, unspecified 1); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ER-FE.json) · [CSV](https://data.orchid-project.org/systems/ER-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-FE/ErFe-10Zho.json) · [phases (8)](https://data.orchid-project.org/phases/pages/ER-FE.html) · [Markdown](https://data.orchid-project.org/systems/ER-FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-FE.json) · [CSV](https://data.orchid-project.org/systems/ER-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-FE/ErFe-10Zho.json) · [phases (8)](https://data.orchid-project.org/phases/pages/ER-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-FE.html) · [Markdown](https://data.orchid-project.org/systems/ER-FE.md)
 
 Table: Accepted values by evidence class
 

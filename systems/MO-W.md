@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MO-W.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-W/MoW-22Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MO-W.html) · [Markdown](https://data.orchid-project.org/systems/MO-W.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-W/MoW-22Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MO-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-W.html) · [Markdown](https://data.orchid-project.org/systems/MO-W.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/O-PB.html · Markdown: https://dat
 
 236 accepted literature values from 1 paper(s) (experimental 169, model 43, unspecified 24); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/O-PB.json) · [CSV](https://data.orchid-project.org/systems/O-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PB) · [phases (13)](https://data.orchid-project.org/phases/pages/O-PB.html) · [Markdown](https://data.orchid-project.org/systems/O-PB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/O-PB.json) · [CSV](https://data.orchid-project.org/systems/O-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PB) · [phases (13)](https://data.orchid-project.org/phases/pages/O-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-PB.html) · [Markdown](https://data.orchid-project.org/systems/O-PB.md)
 
 Table: Accepted values by evidence class
 

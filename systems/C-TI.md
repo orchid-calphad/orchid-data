@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-TI.html · Markdown: https://dat
 
 60 accepted literature values from 3 paper(s) (experimental 23, model 33, unspecified 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/C-TI.json) · [CSV](https://data.orchid-project.org/systems/C-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-TI) · [phases (6)](https://data.orchid-project.org/phases/pages/C-TI.html) · [Markdown](https://data.orchid-project.org/systems/C-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-TI.json) · [CSV](https://data.orchid-project.org/systems/C-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-TI) · [phases (6)](https://data.orchid-project.org/phases/pages/C-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-TI.html) · [Markdown](https://data.orchid-project.org/systems/C-TI.md)
 
 Table: Accepted values by evidence class
 

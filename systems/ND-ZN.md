@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ND-ZN.html · Markdown: https://da
 
 156 accepted literature values from 4 paper(s) (experimental 81, model 75); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ND-ZN.json) · [CSV](https://data.orchid-project.org/systems/ND-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-ZN/NdZn-08Li.json) · [phases (17)](https://data.orchid-project.org/phases/pages/ND-ZN.html) · [Markdown](https://data.orchid-project.org/systems/ND-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ND-ZN.json) · [CSV](https://data.orchid-project.org/systems/ND-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-ZN/NdZn-08Li.json) · [phases (17)](https://data.orchid-project.org/phases/pages/ND-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-ZN.html) · [Markdown](https://data.orchid-project.org/systems/ND-ZN.md)
 
 Table: Accepted values by evidence class
 

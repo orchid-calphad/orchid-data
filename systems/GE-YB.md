@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-YB.html · Markdown: https://da
 
 128 accepted literature values from 2 paper(s) (experimental 51, model 69, DFT 8); 2 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-YB.json) · [CSV](https://data.orchid-project.org/systems/GE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-YB/GeYb-18Ach.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-YB.html) · [Markdown](https://data.orchid-project.org/systems/GE-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-YB.json) · [CSV](https://data.orchid-project.org/systems/GE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-YB/GeYb-18Ach.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-YB.html) · [Markdown](https://data.orchid-project.org/systems/GE-YB.md)
 
 Table: Accepted values by evidence class
 

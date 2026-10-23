@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-DY-GD-ND-PM-PR-SM-TB.html · Ma
 
 13 accepted literature values from 1 paper(s) (experimental 13); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-DY-GD-ND-PM-PR-SM-TB.json) · [CSV](https://data.orchid-project.org/systems/AU-DY-GD-ND-PM-PR-SM-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-DY-GD-ND-PM-PR-SM-TB) · [Markdown](https://data.orchid-project.org/systems/AU-DY-GD-ND-PM-PR-SM-TB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-DY-GD-ND-PM-PR-SM-TB.json) · [CSV](https://data.orchid-project.org/systems/AU-DY-GD-ND-PM-PR-SM-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-DY-GD-ND-PM-PR-SM-TB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-DY-GD-ND-PM-PR-SM-TB.html) · [Markdown](https://data.orchid-project.org/systems/AU-DY-GD-ND-PM-PR-SM-TB.md)
 
 Table: Accepted values by evidence class
 

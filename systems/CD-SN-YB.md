@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-SN-YB.html · Markdown: https:/
 
 170 accepted literature values from 1 paper(s) (experimental 46, model 58, DFT 60, unspecified 6); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-SN-YB.json) · [CSV](https://data.orchid-project.org/systems/CD-SN-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-SN-YB) · [Markdown](https://data.orchid-project.org/systems/CD-SN-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-SN-YB.json) · [CSV](https://data.orchid-project.org/systems/CD-SN-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-SN-YB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-SN-YB.html) · [Markdown](https://data.orchid-project.org/systems/CD-SN-YB.md)
 
 Table: Accepted values by evidence class
 

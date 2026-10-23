@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-GE.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-GE/GaGe-79Ans-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GA-GE.html) · [Markdown](https://data.orchid-project.org/systems/GA-GE.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-GE/GaGe-79Ans-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GA-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-GE.html) · [Markdown](https://data.orchid-project.org/systems/GA-GE.md)
 
 ## Calculated phase diagrams
 

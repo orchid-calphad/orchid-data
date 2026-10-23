@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-Y.html · Markdown: https://dat
 
 62 accepted literature values from 1 paper(s) (experimental 28, model 34); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-Y.json) · [CSV](https://data.orchid-project.org/systems/GE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-Y/GeY-13Idb.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GE-Y.html) · [Markdown](https://data.orchid-project.org/systems/GE-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-Y.json) · [CSV](https://data.orchid-project.org/systems/GE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-Y/GeY-13Idb.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-Y.html) · [Markdown](https://data.orchid-project.org/systems/GE-Y.md)
 
 Table: Accepted values by evidence class
 

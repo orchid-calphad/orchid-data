@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-TE.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (experimental 4); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/DY-TE.json) · [CSV](https://data.orchid-project.org/systems/DY-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-TE/DyTe-23Cui.json) · [phases (10)](https://data.orchid-project.org/phases/pages/DY-TE.html) · [Markdown](https://data.orchid-project.org/systems/DY-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/DY-TE.json) · [CSV](https://data.orchid-project.org/systems/DY-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-TE/DyTe-23Cui.json) · [phases (10)](https://data.orchid-project.org/phases/pages/DY-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-TE.html) · [Markdown](https://data.orchid-project.org/systems/DY-TE.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CS-TE.html · Markdown: https://da
 
 71 accepted literature values from 1 paper(s) (experimental 52, model 15, unspecified 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CS-TE.json) · [CSV](https://data.orchid-project.org/systems/CS-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-TE/CsTe-15Pha.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CS-TE.html) · [Markdown](https://data.orchid-project.org/systems/CS-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CS-TE.json) · [CSV](https://data.orchid-project.org/systems/CS-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-TE/CsTe-15Pha.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CS-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-TE.html) · [Markdown](https://data.orchid-project.org/systems/CS-TE.md)
 
 Table: Accepted values by evidence class
 

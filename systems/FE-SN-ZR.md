@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-SN-ZR.html · Markdown: https:/
 
 46 accepted literature values from 1 paper(s) (model 41, DFT 1, unspecified 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SN-ZR) · [Markdown](https://data.orchid-project.org/systems/FE-SN-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SN-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-SN-ZR.html) · [Markdown](https://data.orchid-project.org/systems/FE-SN-ZR.md)
 
 Table: Accepted values by evidence class
 

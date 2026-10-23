@@ -1,32 +1,33 @@
 # Fe23Zr6: enthalpy of formation
 
-> Enthalpy of formation of Fe23Zr6: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Fe23Zr6: 14 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe23Zr6.html · Markdown: https://data.orchid-project.org/compounds/Fe23Zr6.md
 
-13 accepted literature formation-enthalpy value(s) (experimental 2, model 7, DFT 4); experimental median -21.8 kJ/mol-atom (n = 2); Materials Project -16.072 kJ/mol-atom (mp-aaabheie); OQMD -16.029 kJ/mol-atom (oqmd-30272).
+14 accepted literature formation-enthalpy value(s) (experimental 2, model 8, DFT 4); experimental median -21.8 kJ/mol-atom (n = 2); Materials Project -16.072 kJ/mol-atom (mp-aaabheie); OQMD -16.029 kJ/mol-atom (oqmd-30272).
 
 Systems: [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) · [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe23Zr6 reported in the literature (13)
+Table: Enthalpy of formation of Fe23Zr6 reported in the literature (14)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -21.8 kJ/mol-atom ± 0.7 | Fe23Zr6 + γ | 1573.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Mahdouk 1996_ [doi](https://doi.org/10.1007/bf02648490) | Table 2, p. 5, row 3 |  |
 | -21.8 kJ/mol-atom ± 0.7 | Fe23Zr6 + γ | 1573.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Mahdouk 1996_ [doi](https://doi.org/10.1007/bf02648490) | Table 2, p. 5, row 3 |  |
 | -30.164 kJ/mol-atom | Fe23Zr6 | 1573.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 5 |  |
+| -23.2862 kJ/mol-atom | Fe23Zr6 |  | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 1 |  |
 | -23.286 kJ/mol-atom | Fe23Zr6 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 6 |  |
 | -22.364 kJ/mol-atom | Fe23Zr6 + γ | 1573.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 4 |  |
 | -22.364 kJ/mol-atom | Fe23Zr6 + γ | 1573.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 4 |  |
 | -19 kJ/mol-atom | Fe23Zr6 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 32 |  |
 | -16.705 kJ/mol-atom | Fe23Zr6 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 8 |  |
-| -16.21 kJ/mol (basis unstated) | Fe23Zr6 | 0 | model |  | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [2] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 50 |  |
-| -16 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [2] Lu 2017 | Table 2, p. 3, row 49 |  |
-| 19 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [2] Lu 2017 | Table 2, p. 3, row 52 |  |
-| 34.71 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [2] Lu 2017 | Table 2, p. 3, row 51 |  |
-| 45.12 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [2] Lu 2017 | Table 2, p. 3, row 53 |  |
+| -16.21 kJ/mol (basis unstated) | Fe23Zr6 | 0 | model |  | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 50 |  |
+| -16 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 49 |  |
+| 19 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 52 |  |
+| 34.71 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 51 |  |
+| 45.12 kJ/mol (basis unstated) | Fe23Zr6 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 53 |  |
 
 ## DFT formation energies
 
@@ -44,7 +45,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 ## Sources
 
 1. M. Jiang, K. Oikawa, T. Ikeshoji, L. Wulff, K. Ishida, Thermodynamic calculations of Fe-Zr and Fe-Zr-C systems, JPE 22, 406-417 (2001). [doi:10.1361/105497101770332965](https://doi.org/10.1361/105497101770332965)
-2. Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017). [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008)
+2. C. Servant, C. Gueneau, I. Ansara, Experimental and thermodynamic assessment of the FeZr system, Journal of Alloys and Compounds 220, 19-26 (1995). [doi:10.1016/0925-8388(94)06036-3](https://doi.org/10.1016/0925-8388%2894%2906036-3)
+3. Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017). [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008)
 
 ## Please cite
 

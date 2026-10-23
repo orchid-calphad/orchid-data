@@ -16,12 +16,12 @@
   "phases/pages/**"
  ],
  "n_files": 1261,
- "total_bytes": 112415261,
+ "total_bytes": 112422472,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 10360,
-   "sha256": "5fcbde56869863a69d735632bb6e6c3aaa8adc2a34ba5b843a62434ae51d81fb"
+   "bytes": 12765,
+   "sha256": "dd266eac4d0acf6ccd2e4718c4efa0a50217c4bac5e5251545c9d3ed2eb1c402"
   },
   {
    "path": "LICENSE",
@@ -30,18 +30,18 @@
   },
   {
    "path": "LICENSES.md",
-   "bytes": 752,
-   "sha256": "56c7b4a438df0088405b307a79555b9a5c1f757b769be4a6e27850e5bb43fadc"
+   "bytes": 1131,
+   "sha256": "0d048e36631e39cbb72cac03bb6942ee387ed243d1ccc0d329cd5963edb01586"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 15478,
-   "sha256": "43da981da74f2ea0e22d368a8ae82e71b834358b43f39a62aaf310a671678e46"
+   "bytes": 16186,
+   "sha256": "7dcb2a23f30f09e87310148e46a48f2b13eeb2d397c06d25790c5cb45c3341f5"
   },
   {
    "path": "README.md",
-   "bytes": 5750,
-   "sha256": "ddb3c1a77e12648d117c0329361b858e3aa4c125809527cc377db4b5ae3e3c37"
+   "bytes": 7102,
+   "sha256": "03b4c6793235b19d151d32185d0bd0eff8ace0087b0585bdb9d89c753349b5ab"
   },
   {
    "path": "phases/CITATION.cff",
@@ -56,7 +56,7 @@
   {
    "path": "phases/SCHEMA.md",
    "bytes": 17030,
-   "sha256": "9e4c4ddc058ca813ce6c1a43b9a83ef9018e2484edeb19d06f1557e1ef521dd0"
+   "sha256": "8d7ea262f9890e0f1d09b939f46ac5cde22560158d6b720d9dd8406ed7d9032d"
   },
   {
    "path": "phases/context.jsonld",
@@ -65,38 +65,38 @@
   },
   {
    "path": "phases/index.json",
-   "bytes": 1272138,
-   "sha256": "ab7d66102b0418dbc150585b3bcb9668aea558a5583b9179583e8ceefbedc3ef"
+   "bytes": 1272139,
+   "sha256": "65f844642d43b6297b26bfc69988b6081b17360785e011b5b5fa7d891698b6d2"
   },
   {
    "path": "phases/parquet.json",
    "bytes": 584,
-   "sha256": "f1ef5f7051031ae914e1b500d70fd829a819d47d76b150242b9d26d1050683df"
+   "sha256": "cea74ce660a4a192bb20065be9109f94862d03624f5d177b7e47538c9196f954"
   },
   {
    "path": "phases/registry.csv",
-   "bytes": 3314308,
-   "sha256": "9d0c4d47bfeb48154ba16c660243801c42087a4ea89ac72ef5ec5313421b8604"
+   "bytes": 3314428,
+   "sha256": "81bc76b0fb799c30c7b954326dc6437795b91ac33128029b66fc92ed420d118a"
   },
   {
    "path": "phases/registry.json",
-   "bytes": 7849294,
-   "sha256": "3fed5525090f7e026bdf138a86121dda78ef4e2c5ddf7897ce9020f2ec95d9d6"
+   "bytes": 7849296,
+   "sha256": "e57d24e38a5f0eda6a241aaf8b0bf72d8f381d64d6c09087c6916efa9f8fbdfa"
   },
   {
    "path": "phases/registry.jsonld",
-   "bytes": 25995689,
-   "sha256": "ef2c06f2b3919808f3934132444d9ae4e29dd4e82ebd6f902b4b3346266fafeb"
+   "bytes": 25996719,
+   "sha256": "722ec1756e0809a4af71c0b1088bd548e3ed71d37fba4cc43c9bd78d0a59c4f9"
   },
   {
    "path": "phases/registry.parquet",
-   "bytes": 451681,
-   "sha256": "3de61f9a6484e145dc50ad5ec0f06cb8c87bd06e58110ea08dc263b278b18831"
+   "bytes": 451691,
+   "sha256": "28ac98ad7ecc47836b88d5153c3a85d791b80d91e3367df821033ff93d646335"
   },
   {
    "path": "phases/review_queue.json",
    "bytes": 1795477,
-   "sha256": "de60dab98f6535c95aad974f03a15fd25ba807e2423e0a59592cc046e9d67bd2"
+   "sha256": "d7ff54e988ce8a2f740ec372c25a58744c5b87884df1c483905314bf06e43fb9"
   },
   {
    "path": "phases/structure_types.csv",
@@ -106,7 +106,7 @@
   {
    "path": "phases/structure_types.json",
    "bytes": 913915,
-   "sha256": "9b44c9c332063314f4e4a4344f958c9e59e0e70eb6ae65b5127d2472479fa6a0"
+   "sha256": "d4ad1b7409476cce8f75403b3194ce22b1a62d82b7c5479cf961f9fcd1dc5971"
   },
   {
    "path": "phases/structure_types.parquet",
@@ -1170,8 +1170,8 @@
   },
   {
    "path": "phases/systems/B-NB.json",
-   "bytes": 143169,
-   "sha256": "02090e617152e5d0195f02f0090251b663380329c4e45812b041808b6f00cc4a"
+   "bytes": 143403,
+   "sha256": "4cfe2ffd76539d7323e22421c6aef4c0bace80de6a62c544bcaf7d94914ec9af"
   },
   {
    "path": "phases/systems/B-ND.json",
@@ -2880,8 +2880,8 @@
   },
   {
    "path": "phases/systems/CU-TL.json",
-   "bytes": 25945,
-   "sha256": "53b0054ea8f4f0e291b38cd62ec8b3d975a742e8717e586b40566c3b75d0d6f0"
+   "bytes": 25948,
+   "sha256": "ae61c16081b1b60ab6f966d2ca398143d78f9a4fa3e2883d380148abd821536e"
   },
   {
    "path": "phases/systems/CU-TM.json",
@@ -3560,8 +3560,8 @@
   },
   {
    "path": "phases/systems/GA-TI.json",
-   "bytes": 88625,
-   "sha256": "c4aef7707e25333c851f3f04f9405742d0242ad5745d0bcb64dd2da50f05f7e7"
+   "bytes": 89592,
+   "sha256": "80b2758b9d9007adfa72a45f9bcd6e3ec6a13c091439014f05d20071f694bfff"
   },
   {
    "path": "phases/systems/GA-TL.json",

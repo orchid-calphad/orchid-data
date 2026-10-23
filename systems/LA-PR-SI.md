@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LA-PR-SI.html · Markdown: https:/
 
 58 accepted literature values from 1 paper(s) (model 15, unspecified 43); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-PR-SI.json) · [CSV](https://data.orchid-project.org/systems/LA-PR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-PR-SI) · [Markdown](https://data.orchid-project.org/systems/LA-PR-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-PR-SI.json) · [CSV](https://data.orchid-project.org/systems/LA-PR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-PR-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-PR-SI.html) · [Markdown](https://data.orchid-project.org/systems/LA-PR-SI.md)
 
 Table: Accepted values by evidence class
 

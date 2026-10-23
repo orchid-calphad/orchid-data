@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/O-SI.html · Markdown: https://dat
 
 38 accepted literature values from 2 paper(s) (experimental 3, model 4, unspecified 31); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/O-SI.json) · [CSV](https://data.orchid-project.org/systems/O-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-SI) · [phases (17)](https://data.orchid-project.org/phases/pages/O-SI.html) · [Markdown](https://data.orchid-project.org/systems/O-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/O-SI.json) · [CSV](https://data.orchid-project.org/systems/O-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-SI) · [phases (17)](https://data.orchid-project.org/phases/pages/O-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-SI.html) · [Markdown](https://data.orchid-project.org/systems/O-SI.md)
 
 Table: Accepted values by evidence class
 

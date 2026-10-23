@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-GE.html · Markdown: https://da
 
 4 accepted literature values from 2 paper(s) (model 4); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-GE/AlGe-06Isl.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-GE.html) · [Markdown](https://data.orchid-project.org/systems/AL-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-GE/AlGe-06Isl.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-GE.html) · [Markdown](https://data.orchid-project.org/systems/AL-GE.md)
 
 Table: Accepted values by evidence class
 

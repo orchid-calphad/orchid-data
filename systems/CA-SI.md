@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-SI.html · Markdown: https://da
 
 81 accepted literature values from 2 paper(s) (experimental 45, model 29, unspecified 7); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SI/CaSi-03Gro.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CA-SI.html) · [Markdown](https://data.orchid-project.org/systems/CA-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SI/CaSi-03Gro.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CA-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SI.html) · [Markdown](https://data.orchid-project.org/systems/CA-SI.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-SE-TE.html · Markdown: https:/
 
 114 accepted literature values from 1 paper(s) (experimental 76, model 6, DFT 19, unspecified 13); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SE-TE.json) · [CSV](https://data.orchid-project.org/systems/BI-SE-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SE-TE) · [Markdown](https://data.orchid-project.org/systems/BI-SE-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SE-TE.json) · [CSV](https://data.orchid-project.org/systems/BI-SE-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SE-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SE-TE.html) · [Markdown](https://data.orchid-project.org/systems/BI-SE-TE.md)
 
 Table: Accepted values by evidence class
 

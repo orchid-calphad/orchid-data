@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-TA.html · Markdown: https://da
 
 237 accepted literature values from 4 paper(s) (experimental 148, model 55, unspecified 34); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TA.json) · [CSV](https://data.orchid-project.org/systems/AL-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TA/AlTa-10Wit.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-TA.html) · [Markdown](https://data.orchid-project.org/systems/AL-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TA.json) · [CSV](https://data.orchid-project.org/systems/AL-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TA/AlTa-10Wit.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TA.html) · [Markdown](https://data.orchid-project.org/systems/AL-TA.md)
 
 Table: Accepted values by evidence class
 

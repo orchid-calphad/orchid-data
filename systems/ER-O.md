@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-O.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-O/ErO-23Nak.json) · [phases (6)](https://data.orchid-project.org/phases/pages/ER-O.html) · [Markdown](https://data.orchid-project.org/systems/ER-O.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-O/ErO-23Nak.json) · [phases (6)](https://data.orchid-project.org/phases/pages/ER-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-O.html) · [Markdown](https://data.orchid-project.org/systems/ER-O.md)
 
 ## Calculated phase diagrams
 

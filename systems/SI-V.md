@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-V.html · Markdown: https://dat
 
 47 accepted literature values from 1 paper(s) (experimental 28, model 6, DFT 4, unspecified 9); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-V.json) · [CSV](https://data.orchid-project.org/systems/SI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-V/SiV-08Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SI-V.html) · [Markdown](https://data.orchid-project.org/systems/SI-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-V.json) · [CSV](https://data.orchid-project.org/systems/SI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-V/SiV-08Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-V.html) · [Markdown](https://data.orchid-project.org/systems/SI-V.md)
 
 Table: Accepted values by evidence class
 

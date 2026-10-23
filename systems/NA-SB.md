@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NA-SB.html · Markdown: https://da
 
 61 accepted literature values from 2 paper(s) (experimental 32, model 29); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SB.json) · [CSV](https://data.orchid-project.org/systems/NA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SB/NaSb-13Liu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/NA-SB.html) · [Markdown](https://data.orchid-project.org/systems/NA-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SB.json) · [CSV](https://data.orchid-project.org/systems/NA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SB/NaSb-13Liu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/NA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SB.html) · [Markdown](https://data.orchid-project.org/systems/NA-SB.md)
 
 Table: Accepted values by evidence class
 

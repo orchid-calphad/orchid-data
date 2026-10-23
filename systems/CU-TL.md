@@ -1,18 +1,18 @@
 # Cu–Tl system
 
-> Cu–Tl system: 80 accepted literature values (phase equilibrium 30, mixing / partial 25, activity / EMF / Gibbs energy 22, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Tl system: 106 accepted literature values (activity / EMF / Gibbs energy 48, phase equilibrium 30, mixing / partial 25, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-TL.html · Markdown: https://data.orchid-project.org/systems/CU-TL.md
 
-80 accepted literature values from 1 paper(s) (experimental 70, model 10); 2 calculated phase diagram(s).
+106 accepted literature values from 1 paper(s) (experimental 96, model 10); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TL.json) · [CSV](https://data.orchid-project.org/systems/CU-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TL/CuTl-04Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-TL.html) · [Markdown](https://data.orchid-project.org/systems/CU-TL.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TL.json) · [CSV](https://data.orchid-project.org/systems/CU-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TL/CuTl-04Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-TL.html) · [Markdown](https://data.orchid-project.org/systems/CU-TL.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 70 |
+| experimental | 96 |
 | model | 10 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | phase transition | 2 |
 | phase equilibrium | 30 |
 | mixing / partial | 25 |
-| activity / EMF / Gibbs energy | 22 |
+| activity / EMF / Gibbs energy | 48 |
 
 ## Calculated phase diagrams
 
@@ -144,7 +144,7 @@ Table: Mixing / partial, Cu–Tl system
 | Enthalpy of mixing; _printed: δH_ | 1.439 kJ/mol-atom |  | liquid; _alloy: Cu 0.922, Tl 0.078_ | experimental | [1] Chevalier 1989; _cites Predel 1969_ [doi](https://doi.org/10.1016/0025-5416%2869%2990038-x) | Table 2, p. 3, row 1 |  |
 | Enthalpy of mixing; _printed: δH_ | 8.075 kJ/mol-atom |  | liquid; _alloy: Cu 0.4, Tl 0.6_ | model | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 2, p. 3, row 22 |  |
 
-### Activity / EMF / Gibbs energy (22)
+### Activity / EMF / Gibbs energy (48)
 
 Table: Activity / EMF / Gibbs energy, Cu–Tl system
 
@@ -171,7 +171,33 @@ Table: Activity / EMF / Gibbs energy, Cu–Tl system
 | Activity Tl; _printed: a_Tl_ | 0.888 1 | 1473 | liquid; _alloy: Cu 0.1, Tl 0.9_ | experimental | [1] Chevalier 1989; _cites Yazawa 1948_ | Table 3, p. 4, row 12 |  |
 | Activity Tl; _printed: a_Tl_ | 0.625 1 | 1473 | liquid; _alloy: Cu 0.874, Tl 0.126_ | experimental | [1] Chevalier 1989; _cites Yazawa 1948_ | Table 3, p. 4, row 5 |  |
 | Activity Tl; _printed: a_Tl_ | 0.411 1 | 1473 | liquid; _alloy: Cu 0.944, Tl 0.056_ | experimental | [1] Chevalier 1989; _cites Yazawa 1948_ | Table 3, p. 4, row 2 |  |
+| Activity Tl; _printed: αTl_ | 0.713 1 | 1573 | liquid; _alloy: Cu 0.4, Tl 0.6_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 6 |  |
+| Activity Tl; _printed: αTl_ | 0.672 1 | 1573 | liquid; _alloy: Cu 0.7, Tl 0.3_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 3 |  |
+| Activity Tl; _printed: αTl_ | 0.628 1 | 1573 | liquid; _alloy: Cu 0.8, Tl 0.2_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 2 |  |
+| Activity Tl; _printed: αTl_ | 0.821 1 | 1573 | liquid; _alloy: Cu 0.2, Tl 0.8_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 8 |  |
+| Activity Tl; _printed: αTl_ | 0.68 1 | 1573 | liquid; _alloy: Cu 0.6, Tl 0.4_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 4 |  |
+| Activity Tl; _printed: αTl_ | 0.468 1 | 1573 | liquid; _alloy: Cu 0.9, Tl 0.1_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 1 |  |
+| Activity Tl; _printed: αTl_ | 0.688 1 | 1573 | liquid; _alloy: Cu 0.5, Tl 0.5_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 5 |  |
+| Activity Tl; _printed: αTl_ | 0.904 1 | 1573 | liquid; _alloy: Cu 0.1, Tl 0.9_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 9 |  |
+| Activity Tl; _printed: αTl_ | 0.757 1 | 1573 | liquid; _alloy: Cu 0.3, Tl 0.7_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 7 |  |
+| Chemical potential; _printed: δGTl_ | -4427 unknown | 1573 | liquid; _alloy: Cu 0.4, Tl 0.6_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 6 |  |
+| Chemical potential; _printed: δGCu_ | -2761 unknown | 1573 | liquid; _alloy: Cu 0.4, Tl 0.6_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 6 |  |
+| Chemical potential; _printed: δGCu_ | -1971 unknown | 1573 | liquid; _alloy: Cu 0.7, Tl 0.3_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 3 |  |
+| Chemical potential; _printed: δGTl_ | -5188 unknown | 1573 | liquid; _alloy: Cu 0.7, Tl 0.3_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 3 |  |
+| Chemical potential; _printed: δGCu_ | -1695 unknown | 1573 | liquid; _alloy: Cu 0.8, Tl 0.2_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 2 |  |
+| Chemical potential; _printed: δGTl_ | -6079 unknown | 1573 | liquid; _alloy: Cu 0.8, Tl 0.2_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 2 |  |
+| Chemical potential; _printed: δGCu_ | -7552 unknown | 1573 | liquid; _alloy: Cu 0.2, Tl 0.8_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 8 |  |
+| Chemical potential; _printed: δGTl_ | -2577 unknown | 1573 | liquid; _alloy: Cu 0.2, Tl 0.8_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 8 |  |
+| Chemical potential; _printed: δGCu_ | -2046 unknown | 1573 | liquid; _alloy: Cu 0.6, Tl 0.4_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 4 |  |
+| Chemical potential; _printed: δGTl_ | -5042 unknown | 1573 | liquid; _alloy: Cu 0.6, Tl 0.4_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 4 |  |
+| Chemical potential; _printed: δGCu_ | -1067 unknown | 1573 | liquid; _alloy: Cu 0.9, Tl 0.1_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 1 |  |
+| Chemical potential; _printed: δGTl_ | -9916 unknown | 1573 | liquid; _alloy: Cu 0.9, Tl 0.1_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 1 |  |
+| Chemical potential; _printed: δGTl_ | -4891 unknown | 1573 | liquid; _alloy: Cu 0.5, Tl 0.5_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 5 |  |
 | Chemical potential; _printed: δGCu_ | -2176 unknown | 1573 | liquid; _alloy: Cu 0.5, Tl 0.5_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 5 |  |
+| Chemical potential; _printed: δGCu_ | -15054 unknown | 1573 | liquid; _alloy: Cu 0.1, Tl 0.9_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 9 |  |
+| Chemical potential; _printed: δGTl_ | -1322 unknown | 1573 | liquid; _alloy: Cu 0.1, Tl 0.9_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 9 |  |
+| Chemical potential; _printed: δGCu_ | -4247 unknown | 1573 | liquid; _alloy: Cu 0.3, Tl 0.7_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 7 |  |
+| Chemical potential; _printed: δGTl_ | -3648 unknown | 1573 | liquid; _alloy: Cu 0.3, Tl 0.7_ | experimental | [1] Chevalier 1989; _cites Hultgren 1973_ | Table 4, p. 4, row 7 |  |
 
 ## Sources
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/W-Y.html · Markdown: https://data
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#W-Y/WY-00Kri.json) · [phases (4)](https://data.orchid-project.org/phases/pages/W-Y.html) · [Markdown](https://data.orchid-project.org/systems/W-Y.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#W-Y/WY-00Kri.json) · [phases (4)](https://data.orchid-project.org/phases/pages/W-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/W-Y.html) · [Markdown](https://data.orchid-project.org/systems/W-Y.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-CR-ZR.html · Markdown: https:/
 
 32 accepted literature values from 1 paper(s) (model 32); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-CR-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR-ZR) · [Markdown](https://data.orchid-project.org/systems/AL-CR-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-CR-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR-ZR.md)
 
 Table: Accepted values by evidence class
 

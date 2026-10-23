@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/H-TI-ZR.html · Markdown: https://
 
 200 accepted literature values from 1 paper(s) (model 30, DFT 170); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/H-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/H-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-TI-ZR) · [Markdown](https://data.orchid-project.org/systems/H-TI-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/H-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/H-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-TI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-TI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/H-TI-ZR.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/F-K-NA.html · Markdown: https://d
 
 40 accepted literature values from 1 paper(s) (experimental 15, model 1, DFT 24); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/F-K-NA.json) · [CSV](https://data.orchid-project.org/systems/F-K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-K-NA) · [Markdown](https://data.orchid-project.org/systems/F-K-NA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/F-K-NA.json) · [CSV](https://data.orchid-project.org/systems/F-K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-K-NA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-K-NA.html) · [Markdown](https://data.orchid-project.org/systems/F-K-NA.md)
 
 Table: Accepted values by evidence class
 

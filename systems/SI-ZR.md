@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-ZR.html · Markdown: https://da
 
 67 accepted literature values from 3 paper(s) (experimental 13, model 43, unspecified 11); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-ZR.json) · [CSV](https://data.orchid-project.org/systems/SI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-ZR/SiZr-09Che.json) · [phases (16)](https://data.orchid-project.org/phases/pages/SI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SI-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-ZR.json) · [CSV](https://data.orchid-project.org/systems/SI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-ZR/SiZr-09Che.json) · [phases (16)](https://data.orchid-project.org/phases/pages/SI-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SI-ZR.md)
 
 Table: Accepted values by evidence class
 

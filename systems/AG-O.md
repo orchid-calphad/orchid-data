@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-O.html · Markdown: https://dat
 
 65 accepted literature values from 1 paper(s) (experimental 40, model 25); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-O.json) · [CSV](https://data.orchid-project.org/systems/AG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-O/AgO-97Ass-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AG-O.html) · [Markdown](https://data.orchid-project.org/systems/AG-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-O.json) · [CSV](https://data.orchid-project.org/systems/AG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-O/AgO-97Ass-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AG-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-O.html) · [Markdown](https://data.orchid-project.org/systems/AG-O.md)
 
 Table: Accepted values by evidence class
 

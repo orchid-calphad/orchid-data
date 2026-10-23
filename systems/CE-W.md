@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-W.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-W/CeW-00Kri.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CE-W.html) · [Markdown](https://data.orchid-project.org/systems/CE-W.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-W/CeW-00Kri.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CE-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-W.html) · [Markdown](https://data.orchid-project.org/systems/CE-W.md)
 
 ## Calculated phase diagrams
 

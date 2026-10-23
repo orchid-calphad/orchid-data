@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-PD.html · Markdown: https://da
 
 31 accepted literature values from 1 paper(s) (experimental 15, model 16); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ER-PD.json) · [CSV](https://data.orchid-project.org/systems/ER-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-PD/ErPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/ER-PD.html) · [Markdown](https://data.orchid-project.org/systems/ER-PD.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-PD.json) · [CSV](https://data.orchid-project.org/systems/ER-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-PD/ErPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/ER-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-PD.html) · [Markdown](https://data.orchid-project.org/systems/ER-PD.md)
 
 Table: Accepted values by evidence class
 

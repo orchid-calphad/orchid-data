@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-V-ZR.html · Markdown: https://
 
 24 accepted literature values from 1 paper(s) (model 24); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HF-V-ZR.json) · [CSV](https://data.orchid-project.org/systems/HF-V-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-V-ZR) · [Markdown](https://data.orchid-project.org/systems/HF-V-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HF-V-ZR.json) · [CSV](https://data.orchid-project.org/systems/HF-V-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-V-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-V-ZR.html) · [Markdown](https://data.orchid-project.org/systems/HF-V-ZR.md)
 
 Table: Accepted values by evidence class
 

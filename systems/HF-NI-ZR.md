@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-NI-ZR.html · Markdown: https:/
 
 4 accepted literature values from 1 paper(s) (unspecified 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI-ZR.json) · [CSV](https://data.orchid-project.org/systems/HF-NI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI-ZR) · [Markdown](https://data.orchid-project.org/systems/HF-NI-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI-ZR.json) · [CSV](https://data.orchid-project.org/systems/HF-NI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/HF-NI-ZR.md)
 
 Table: Accepted values by evidence class
 

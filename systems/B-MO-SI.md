@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/B-MO-SI.html · Markdown: https://
 
 1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/B-MO-SI.json) · [CSV](https://data.orchid-project.org/systems/B-MO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-MO-SI) · [Markdown](https://data.orchid-project.org/systems/B-MO-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/B-MO-SI.json) · [CSV](https://data.orchid-project.org/systems/B-MO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-MO-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-MO-SI.html) · [Markdown](https://data.orchid-project.org/systems/B-MO-SI.md)
 
 Table: Accepted values by evidence class
 

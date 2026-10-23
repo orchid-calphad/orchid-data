@@ -17,23 +17,23 @@
   "zenodo/*.metadata.json"
  ],
  "exclude": [],
- "n_files": 17,
- "total_bytes": 158154,
+ "n_files": 19,
+ "total_bytes": 179198,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 10360,
-   "sha256": "5fcbde56869863a69d735632bb6e6c3aaa8adc2a34ba5b843a62434ae51d81fb"
+   "bytes": 12765,
+   "sha256": "dd266eac4d0acf6ccd2e4718c4efa0a50217c4bac5e5251545c9d3ed2eb1c402"
   },
   {
    "path": "CITATION.cff",
-   "bytes": 2475,
-   "sha256": "534dbe198b4157cc84f390ea83787e2cef3f61a710081eff56b2bac8920218a5"
+   "bytes": 2814,
+   "sha256": "aeda86b75e2c2b1af2efb3b4431db6d9e8ff8b3550e9106c506b51ed105070bb"
   },
   {
    "path": "DATASET_CARD.md",
-   "bytes": 44698,
-   "sha256": "2cf35ff446e3769a671f480c81d10cf131bac4009998a60d9202551e887008bf"
+   "bytes": 50128,
+   "sha256": "15be19d8076db5bb112258e8b248e76f05594500a9125d419dfe4e60b2ceaff2"
   },
   {
    "path": "LICENSE",
@@ -42,33 +42,38 @@
   },
   {
    "path": "LICENSES.md",
-   "bytes": 752,
-   "sha256": "56c7b4a438df0088405b307a79555b9a5c1f757b769be4a6e27850e5bb43fadc"
+   "bytes": 1131,
+   "sha256": "0d048e36631e39cbb72cac03bb6942ee387ed243d1ccc0d329cd5963edb01586"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 15478,
-   "sha256": "43da981da74f2ea0e22d368a8ae82e71b834358b43f39a62aaf310a671678e46"
+   "bytes": 16186,
+   "sha256": "7dcb2a23f30f09e87310148e46a48f2b13eeb2d397c06d25790c5cb45c3341f5"
   },
   {
    "path": "README.md",
-   "bytes": 5750,
-   "sha256": "ddb3c1a77e12648d117c0329361b858e3aa4c125809527cc377db4b5ae3e3c37"
+   "bytes": 7102,
+   "sha256": "03b4c6793235b19d151d32185d0bd0eff8ace0087b0585bdb9d89c753349b5ab"
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 22899,
-   "sha256": "16595999f6e198a2232be2806fbb22e0570a79c123fb3293ae2c8f9333401d40"
+   "bytes": 22957,
+   "sha256": "660377e712ff1d12b06c6ba3e7d74f2a4f95d5ab1f75518097c1bf23a9ddb84e"
   },
   {
    "path": "zenodo/README.md",
-   "bytes": 5862,
-   "sha256": "1110a385d470f2fcba258856f3484b493e3638f322f6005e42349202ff78c866"
+   "bytes": 6609,
+   "sha256": "4b19e5a59b8904036897760501df233af930c923fcf6f04c3dff981f1620ca16"
   },
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",
    "bytes": 4073,
    "sha256": "a2002fa426347bc5668f376aebaca6f830651eeaae8f8a80142c13d5eb26bc8c"
+  },
+  {
+   "path": "zenodo/bibliography.metadata.json",
+   "bytes": 5058,
+   "sha256": "698f3d7e51ef5b48ccdd3f29d3eb742667c435a46cc92e888b7af8c9482514cf"
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",
@@ -77,8 +82,13 @@
   },
   {
    "path": "zenodo/dois.json",
-   "bytes": 778,
-   "sha256": "e90985da25e4fc569ed0bd626ba53abc83ea70e10e1cac9e202ce285975af238"
+   "bytes": 880,
+   "sha256": "6d5e169e62edc45a43f34b4c7d10b879a1d716a5c15fca4144f590f435d329ba"
+  },
+  {
+   "path": "zenodo/espei.metadata.json",
+   "bytes": 3892,
+   "sha256": "b7631fa549051e9d2b3de879f68b4391b5e10e0c6578a3b011e9004a2c4dbc4e"
   },
   {
    "path": "zenodo/hulls.metadata.json",
@@ -92,8 +102,8 @@
   },
   {
    "path": "zenodo/orchid-data.metadata.json",
-   "bytes": 7644,
-   "sha256": "cd6c5cdc91a0017bf1de46b97a8edfd4f8064e0d188a8e0a273a8d042cb7acb1"
+   "bytes": 8218,
+   "sha256": "ffef88daf256c0b823c79ef2363202693c6ade4ccc75bd30f84cc13023dcd236"
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",

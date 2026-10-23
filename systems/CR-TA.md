@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-TA.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (experimental 1, model 3); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-TA.json) · [CSV](https://data.orchid-project.org/systems/CR-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-TA/CrTa-09Pav.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-TA.html) · [Markdown](https://data.orchid-project.org/systems/CR-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-TA.json) · [CSV](https://data.orchid-project.org/systems/CR-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-TA/CrTa-09Pav.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-TA.html) · [Markdown](https://data.orchid-project.org/systems/CR-TA.md)
 
 Table: Accepted values by evidence class
 

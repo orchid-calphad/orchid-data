@@ -1,25 +1,29 @@
 # HfNb: enthalpy of formation
 
-> Enthalpy of formation of HfNb: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of HfNb: 10 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/HfNb.html · Markdown: https://data.orchid-project.org/compounds/HfNb.md
 
-6 accepted literature formation-enthalpy value(s) (DFT 6).
+10 accepted literature formation-enthalpy value(s) (DFT 10).
 
 Systems: [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of HfNb reported in the literature (6)
+Table: Enthalpy of formation of HfNb reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -6.162 kJ/mol (basis unstated) | HfNb (B19) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
+| -6.162 kJ/mol (basis unstated) | HfNb | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
 | 2.393 kJ/mol (basis unstated) | HfNb (B32) |  | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 5, p. 10, row 3 |  |
 | 2.72 kJ/mol (basis unstated) | HfNb (B2) |  | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 5, p. 10, row 2 |  |
 | 5.746 kJ/mol (basis unstated) | HfNb (B8₁) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
+| 5.746 kJ/mol (basis unstated) | HfNb | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
+| 8.757 kJ/mol (basis unstated) | HfNb | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
 | 8.757 kJ/mol (basis unstated) | HfNb (B19) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
 | 20.666 kJ/mol (basis unstated) | HfNb (B8₁) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
+| 20.666 kJ/mol (basis unstated) | HfNb | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
 
 ## Sources
 

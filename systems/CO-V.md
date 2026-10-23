@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-V.html · Markdown: https://dat
 
 130 accepted literature values from 4 paper(s) (experimental 70, model 29, DFT 25, unspecified 6); 6 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-V.json) · [CSV](https://data.orchid-project.org/systems/CO-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-V/CoV-03Bra-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CO-V.html) · [Markdown](https://data.orchid-project.org/systems/CO-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-V.json) · [CSV](https://data.orchid-project.org/systems/CO-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-V/CoV-03Bra-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CO-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-V.html) · [Markdown](https://data.orchid-project.org/systems/CO-V.md)
 
 Table: Accepted values by evidence class
 

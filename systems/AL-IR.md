@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-IR.html · Markdown: https://da
 
 131 accepted literature values from 3 paper(s) (experimental 47, model 48, DFT 32, unspecified 4); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-IR.json) · [CSV](https://data.orchid-project.org/systems/AL-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-IR/AlIr-06Jia.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-IR.html) · [Markdown](https://data.orchid-project.org/systems/AL-IR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-IR.json) · [CSV](https://data.orchid-project.org/systems/AL-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-IR/AlIr-06Jia.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-IR.html) · [Markdown](https://data.orchid-project.org/systems/AL-IR.md)
 
 Table: Accepted values by evidence class
 

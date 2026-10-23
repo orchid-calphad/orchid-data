@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BE-C-SI.html · Markdown: https://
 
 20 accepted literature values from 1 paper(s) (experimental 20); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BE-C-SI.json) · [CSV](https://data.orchid-project.org/systems/BE-C-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-C-SI) · [Markdown](https://data.orchid-project.org/systems/BE-C-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BE-C-SI.json) · [CSV](https://data.orchid-project.org/systems/BE-C-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-C-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BE-C-SI.html) · [Markdown](https://data.orchid-project.org/systems/BE-C-SI.md)
 
 Table: Accepted values by evidence class
 

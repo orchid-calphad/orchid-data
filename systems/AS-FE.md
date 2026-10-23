@@ -1,18 +1,18 @@
 # As–Fe system
 
-> As–Fe system: 36 accepted literature values (crystal structure 35, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As–Fe system: 33 accepted literature values (crystal structure 32, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS-FE.html · Markdown: https://data.orchid-project.org/systems/AS-FE.md
 
-36 accepted literature values from 1 paper(s) (experimental 15, DFT 21); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+33 accepted literature values from 1 paper(s) (experimental 12, DFT 21); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AS-FE.json) · [CSV](https://data.orchid-project.org/systems/AS-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-FE) · [phases (10)](https://data.orchid-project.org/phases/pages/AS-FE.html) · [Markdown](https://data.orchid-project.org/systems/AS-FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AS-FE.json) · [CSV](https://data.orchid-project.org/systems/AS-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-FE) · [phases (10)](https://data.orchid-project.org/phases/pages/AS-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-FE.html) · [Markdown](https://data.orchid-project.org/systems/AS-FE.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 12 |
 | DFT | 21 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| crystal structure | 35 |
+| crystal structure | 32 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AS/AS-FE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AS/AS-FE.json) · [CALPHAD hull FeAs-94Pei-LB](https://data.orchid-project.org/hulls/calphad-sgte/AS/AS-FE--FeAs-94Pei-LB.json)
 
@@ -34,7 +34,7 @@ Table: Phase transition, As–Fe system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 77 K | 77 | magnetic | experimental | [1] Ohno 2008 | p. 5 | “It is to be noticed that because the Néel temperature for AsFe is 77 K, the Calphad modeling requires the thermodynamic state for nm AsFe.” |
 
-### Crystal structure (35)
+### Crystal structure (32)
 
 Table: Crystal structure, As–Fe system
 
@@ -49,7 +49,6 @@ Table: Crystal structure, As–Fe system
 | Lattice a | 3.617 Å |  | UNKNOWN; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 29 |  |
 | Lattice a | 5.311 Å |  | UNKNOWN; _alloy: Fe 0.333333_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 6 |  |
 | Lattice a | 4.188 Å |  | UNKNOWN; _alloy: Fe 0_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 2 |  |
-| Lattice a | 5.454 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites Selte 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-3101) | Table 2, p. 3, row 43 |  |
 | Lattice a | 3.634 Å | 298.15 | UNKNOWN; _alloy: Fe 0.666667_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 26 |  |
 | Lattice a | 5.454 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 11 |  |
 | Lattice a | 5.3 Å | 298.15 | UNKNOWN; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 5 |  |
@@ -59,7 +58,6 @@ Table: Crystal structure, As–Fe system
 | Lattice b | 3.287 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 18 |  |
 | Lattice b | 3.314 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 17 |  |
 | Lattice b | 3.375 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 16 |  |
-| Lattice b | 3.325 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites Selte 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-3101) | Table 2, p. 3, row 43 |  |
 | Lattice b | 3.325 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 15 |  |
 | Lattice b | 5.985 Å | 298.15 | UNKNOWN; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 7 |  |
 | Lattice c | 2.887 Å |  | UNKNOWN; _alloy: Fe 0.333333_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 10 |  |
@@ -69,7 +67,6 @@ Table: Crystal structure, As–Fe system
 | Lattice c | 5.963 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 20 |  |
 | Lattice c | 6.048 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 22 |  |
 | Lattice c | 5.991 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 21 |  |
-| Lattice c | 6.029 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites Selte 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-3101) | Table 2, p. 3, row 43 |  |
 | Lattice c | 5.985 Å | 298.15 | UNKNOWN; _alloy: Fe 0.666667_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 30 |  |
 | Lattice c | 2.882 Å | 298.15 | UNKNOWN; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 9 |  |
 | Lattice c | 6.029 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 19 |  |

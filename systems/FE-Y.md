@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-Y.html · Markdown: https://dat
 
 587 accepted literature values from 4 paper(s) (experimental 167, model 379, DFT 33, unspecified 8); 5 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-Y.json) · [CSV](https://data.orchid-project.org/systems/FE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-Y/FeY-14Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-Y.html) · [Markdown](https://data.orchid-project.org/systems/FE-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-Y.json) · [CSV](https://data.orchid-project.org/systems/FE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-Y/FeY-14Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-Y.html) · [Markdown](https://data.orchid-project.org/systems/FE-Y.md)
 
 Table: Accepted values by evidence class
 

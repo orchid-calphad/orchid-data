@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-FE-SI.html · Markdown: https:/
 
 24 accepted literature values from 1 paper(s) (unspecified 24); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-SI) · [Markdown](https://data.orchid-project.org/systems/AL-FE-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-SI.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-SI.md)
 
 Table: Accepted values by evidence class
 

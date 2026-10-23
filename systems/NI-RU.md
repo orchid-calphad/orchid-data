@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-RU.html · Markdown: https://da
 
 5 accepted literature values from 2 paper(s) (experimental 1, DFT 4); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-RU.json) · [CSV](https://data.orchid-project.org/systems/NI-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-RU/NiRu-01Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NI-RU.html) · [Markdown](https://data.orchid-project.org/systems/NI-RU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-RU.json) · [CSV](https://data.orchid-project.org/systems/NI-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-RU/NiRu-01Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NI-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-RU.html) · [Markdown](https://data.orchid-project.org/systems/NI-RU.md)
 
 Table: Accepted values by evidence class
 
@@ -60,10 +60,10 @@ Table: Enthalpies of formation, Ni–Ru system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni2Ru2 |  | 14.6 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 3 |  |
-| Ni3Ru |  | 17.56 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 2 |  |
-| NiRu |  | 25.35 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 5 |  |
-| NiRu3 |  | 13.8 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 4 |  |
+| Ni2Ru2 |  | 14.6 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 4 |  |
+| Ni3Ru |  | 17.56 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 3 |  |
+| NiRu |  | 25.35 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 6 |  |
+| NiRu3 |  | 13.8 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 5 |  |
 
 ## Sources
 

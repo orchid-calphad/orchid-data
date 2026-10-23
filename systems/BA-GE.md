@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-GE.html · Markdown: https://da
 
 117 accepted literature values from 1 paper(s) (experimental 52, model 14, DFT 21, unspecified 30); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BA-GE.json) · [CSV](https://data.orchid-project.org/systems/BA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-GE/BaGe-19Ben.json) · [phases (13)](https://data.orchid-project.org/phases/pages/BA-GE.html) · [Markdown](https://data.orchid-project.org/systems/BA-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BA-GE.json) · [CSV](https://data.orchid-project.org/systems/BA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-GE/BaGe-19Ben.json) · [phases (13)](https://data.orchid-project.org/phases/pages/BA-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-GE.html) · [Markdown](https://data.orchid-project.org/systems/BA-GE.md)
 
 Table: Accepted values by evidence class
 

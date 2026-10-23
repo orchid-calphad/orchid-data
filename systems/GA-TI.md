@@ -1,19 +1,19 @@
 # Ga–Ti system
 
-> Ga–Ti system: 186 accepted literature values (invariant reaction 103, crystal structure 80, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Ti system: 198 accepted literature values (invariant reaction 103, crystal structure 92, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-TI.html · Markdown: https://data.orchid-project.org/systems/GA-TI.md
 
-186 accepted literature values from 2 paper(s) (experimental 93, model 74, unspecified 19); 2 calculated phase diagram(s).
+198 accepted literature values from 2 paper(s) (experimental 97, model 82, unspecified 19); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-TI.json) · [CSV](https://data.orchid-project.org/systems/GA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-TI/GaTi-03Li-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/GA-TI.html) · [Markdown](https://data.orchid-project.org/systems/GA-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-TI.json) · [CSV](https://data.orchid-project.org/systems/GA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-TI/GaTi-03Li-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/GA-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-TI.html) · [Markdown](https://data.orchid-project.org/systems/GA-TI.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 93 |
-| model | 74 |
+| experimental | 97 |
+| model | 82 |
 | unspecified | 19 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 103 |
 | phase transition | 3 |
-| crystal structure | 80 |
+| crystal structure | 92 |
 
 ## Calculated phase diagrams
 
@@ -201,92 +201,104 @@ Table: Phase transition, Ga–Ti system
 | Phase transition | 1700 K | 1700 | other | experimental | [2] Li 2003; _cites Kaufman 1973_ | p. 2 | “Two solidus points of the b.c.c. /(b.c.c.1L) boundaries of 16 and 26 at.% Ga at 1770 and 1700 K, respectively (unpublished work \[6\]) were quoted in Ref. \[2\].” |
 | Phase transition | 1770 K | 1770 | other | experimental | [2] Li 2003; _cites Kaufman 1973_ | p. 2 | “Two solidus points of the b.c.c. /(b.c.c.1L) boundaries of 16 and 26 at.% Ga at 1770 and 1700 K, respectively (unpublished work \[6\]) were quoted in Ref. \[2\].” |
 
-### Crystal structure (80)
+### Crystal structure (92)
 
 Table: Crystal structure, Ga–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 3.929 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 19 |  |
 | Lattice a | 3.935 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 3 |  |
+| Lattice a | 3.9405 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 20 |  |
+| Lattice a | 3.935 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 21 |  |
 | Lattice a | 3.9405 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 2 |  |
 | Lattice a | 0.3929 nm | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 13 |  |
 | Lattice a | 3.929 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 1 |  |
 | Lattice a | 0.39405 nm | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 14 |  |
+| Lattice a | 3.795 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 24 |  |
+| Lattice a | 3.789 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 22 |  |
 | Lattice a | 0.55625 nm | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 16 |  |
 | Lattice a | 3.795 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 6 |  |
 | Lattice a | 5.5625 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 5 |  |
 | Lattice a | 3.789 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 4 |  |
 | Lattice a | 0.3789 nm | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 15 |  |
+| Lattice a | 5.5625 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 23 |  |
 | Lattice a | 0.6284 nm | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 11 |  |
+| Lattice a | 6.284 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 16 |  |
 | Lattice a | 0.62817 nm | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 12 |  |
+| Lattice a | 6.2817 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 17 |  |
+| Lattice a | 6.293 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 18 |  |
 | Lattice a | 1.022 nm | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 5 |  |
+| Lattice a | 10.207 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 9 |  |
+| Lattice a | 10.22 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 7 |  |
 | Lattice a | 1.01906 nm | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 6 |  |
+| Lattice a | 10.1906 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 8 |  |
+| Lattice a | 7.867 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 12 |  |
+| Lattice a | 7.861 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 10 |  |
+| Lattice a | 7.8456 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 11 |  |
 | Lattice a | 0.78456 nm | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 8 |  |
 | Lattice a | 0.7861 nm | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 7 |  |
 | Lattice a | 0.3967 nm | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 9 |  |
+| Lattice a | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 13 |  |
+| Lattice a | 3.9717 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 14 |  |
+| Lattice a | 3.978 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 15 |  |
 | Lattice a | 0.39717 nm | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 10 |  |
 | Lattice a | 0.4514 nm | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 3 |  |
 | Lattice a | 0.45207 nm | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 4 |  |
+| Lattice a | 4.523 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 6 |  |
+| Lattice a | 4.514 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 4 |  |
+| Lattice a | 4.5207 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 5 |  |
+| Lattice a | 5.7447 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 2 |  |
+| Lattice a | 5.688 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 3 |  |
 | Lattice a | 0.57447 nm | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 2 |  |
 | Lattice a | 0.576 nm | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 1 |  |
-| Lattice a | 3.967 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 37 |  |
-| Lattice a | 5.76 Å | 298.15 | UNKNOWN; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 25 |  |
-| Lattice a | 10.1906 Å | 298.15 | UNKNOWN; _alloy: Ti 0.625_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 32 |  |
-| Lattice a | 6.293 Å | 298.15 | UNKNOWN; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 42 |  |
-| Lattice a | 7.8456 Å | 298.15 | UNKNOWN; _alloy: Ti 0.555556_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 35 |  |
-| Lattice a | 5.688 Å | 298.15 | UNKNOWN; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 27 |  |
-| Lattice a | 3.9717 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 38 |  |
-| Lattice a | 4.5207 Å | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 29 |  |
-| Lattice a | 3.978 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 39 |  |
-| Lattice a | 7.867 Å | 298.15 | UNKNOWN; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 36 |  |
-| Lattice a | 6.2817 Å | 298.15 | UNKNOWN; _alloy: Ti 0.4_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 41 |  |
-| Lattice a | 7.861 Å | 298.15 | UNKNOWN; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 34 |  |
-| Lattice a | 4.523 Å | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 30 |  |
-| Lattice a | 10.22 Å | 298.15 | UNKNOWN; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 31 |  |
-| Lattice a | 4.514 Å | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 28 |  |
-| Lattice a | 6.284 Å | 298.15 | UNKNOWN; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 40 |  |
-| Lattice a | 10.207 Å | 298.15 | UNKNOWN; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 33 |  |
-| Lattice a | 5.7447 Å | 298.15 | UNKNOWN; _alloy: Ti 0.75_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 26 |  |
+| Lattice a | 5.76 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 1 |  |
+| Lattice c | 24.061 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 19 |  |
 | Lattice c | 24.465 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 3 |  |
+| Lattice c | 24.406 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 20 |  |
+| Lattice c | 24.465 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 21 |  |
 | Lattice c | 24.406 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 2 |  |
 | Lattice c | 2.4061 nm | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 13 |  |
 | Lattice c | 24.061 Å | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 1 |  |
 | Lattice c | 2.4406 nm | 298.15 | Ga2Ti; _alloy: Ti 0.333333_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 14 |  |
+| Lattice c | 8.523 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 24 |  |
+| Lattice c | 8.734 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 22 |  |
 | Lattice c | 0.81178 nm | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 16 |  |
 | Lattice c | 8.523 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 7, row 6 |  |
 | Lattice c | 8.1178 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 7, row 5 |  |
 | Lattice c | 8.734 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 7, row 4 |  |
 | Lattice c | 0.8734 nm | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 15 |  |
+| Lattice c | 8.1178 Å | 298.15 | Ga3Ti; _alloy: Ti 0.25_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 23 |  |
 | Lattice c | 0.401 nm | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 11 |  |
+| Lattice c | 4.01 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 16 |  |
 | Lattice c | 0.39991 nm | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 12 |  |
+| Lattice c | 3.9991 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 17 |  |
+| Lattice c | 3.995 Å | 298.15 | Ga3Ti2; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 18 |  |
 | Lattice c | 0.5054 nm | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 5 |  |
+| Lattice c | 4.996 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 9 |  |
+| Lattice c | 5.054 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 7 |  |
 | Lattice c | 0.5042 nm | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 6 |  |
+| Lattice c | 5.042 Å | 298.15 | Ga3Ti5; _alloy: Ti 0.625_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 8 |  |
+| Lattice c | 5.409 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 12 |  |
+| Lattice c | 5.452 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 10 |  |
+| Lattice c | 5.4259 Å | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 11 |  |
 | Lattice c | 0.54259 nm | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 8 |  |
 | Lattice c | 0.5452 nm | 298.15 | Ga4Ti5; _alloy: Ti 0.555556_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 7 |  |
 | Lattice c | 0.3967 nm | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 9 |  |
+| Lattice c | 3.967 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 13 |  |
+| Lattice c | 3.9872 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 14 |  |
+| Lattice c | 3.964 Å | 298.15 | GaTi; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 15 |  |
 | Lattice c | 0.39872 nm | 298.15 | GaTi; _alloy: Ti 0.5_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 10 |  |
 | Lattice c | 0.5501 nm | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 3 |  |
 | Lattice c | 0.55222 nm | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 4 |  |
+| Lattice c | 5.451 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 6 |  |
+| Lattice c | 5.501 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 4 |  |
+| Lattice c | 5.5222 Å | 298.15 | GaTi2; _alloy: Ti 0.666667_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 5 |  |
+| Lattice c | 4.5955 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 2 |  |
+| Lattice c | 4.642 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 3 |  |
 | Lattice c | 0.45955 nm | 298.15 | GaTi3; _alloy: Ti 0.75_ | experimental | [2] Li 2003; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 2, p. 4, row 2 |  |
 | Lattice c | 0.464 nm | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [2] Li 2003; _cites Villars 1996_ | Table 2, p. 4, row 1 |  |
-| Lattice c | 3.967 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 37 |  |
-| Lattice c | 4.64 Å | 298.15 | UNKNOWN; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 25 |  |
-| Lattice c | 5.042 Å | 298.15 | UNKNOWN; _alloy: Ti 0.625_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 32 |  |
-| Lattice c | 3.995 Å | 298.15 | UNKNOWN; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 42 |  |
-| Lattice c | 5.4259 Å | 298.15 | UNKNOWN; _alloy: Ti 0.555556_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 35 |  |
-| Lattice c | 4.642 Å | 298.15 | UNKNOWN; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 27 |  |
-| Lattice c | 3.9872 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 38 |  |
-| Lattice c | 5.5222 Å | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 29 |  |
-| Lattice c | 3.964 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 39 |  |
-| Lattice c | 5.409 Å | 298.15 | UNKNOWN; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 36 |  |
-| Lattice c | 3.9991 Å | 298.15 | UNKNOWN; _alloy: Ti 0.4_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 41 |  |
-| Lattice c | 5.452 Å | 298.15 | UNKNOWN; _alloy: Ti 0.555556_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 34 |  |
-| Lattice c | 5.451 Å | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 30 |  |
-| Lattice c | 5.054 Å | 298.15 | UNKNOWN; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 31 |  |
-| Lattice c | 5.501 Å | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 28 |  |
-| Lattice c | 4.01 Å | 298.15 | UNKNOWN; _alloy: Ti 0.4_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 40 |  |
-| Lattice c | 4.996 Å | 298.15 | UNKNOWN; _alloy: Ti 0.625_ | model | [1] Liu 2013; _cites Colinet 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.003) | Table 5, p. 6, row 33 |  |
-| Lattice c | 4.5955 Å | 298.15 | UNKNOWN; _alloy: Ti 0.75_ | experimental | [1] Liu 2013; _cites Antonova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901416-x) | Table 5, p. 6, row 26 |  |
+| Lattice c | 4.64 Å | 298.15 | GaTi3; _alloy: Ti 0.75_ | model | [1] Liu 2013; _cites Sanchez 1984_ [doi](https://doi.org/10.1016/0378-4371%2884%2990096-7) | Table 5, p. 6, row 1 |  |
 
 ## Sources
 

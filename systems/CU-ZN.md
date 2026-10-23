@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-ZN.html · Markdown: https://da
 
 69 accepted literature values from 6 paper(s) (experimental 13, model 50, unspecified 6); 6 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ZN.json) · [CSV](https://data.orchid-project.org/systems/CU-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ZN/CuZn-03Dav.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CU-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CU-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ZN.json) · [CSV](https://data.orchid-project.org/systems/CU-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ZN/CuZn-03Dav.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CU-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CU-ZN.md)
 
 Table: Accepted values by evidence class
 

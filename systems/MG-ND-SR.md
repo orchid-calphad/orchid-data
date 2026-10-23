@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-ND-SR.html · Markdown: https:/
 
 2 accepted literature values from 1 paper(s) (experimental 2); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ND-SR.json) · [CSV](https://data.orchid-project.org/systems/MG-ND-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ND-SR) · [Markdown](https://data.orchid-project.org/systems/MG-ND-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ND-SR.json) · [CSV](https://data.orchid-project.org/systems/MG-ND-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ND-SR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-ND-SR.html) · [Markdown](https://data.orchid-project.org/systems/MG-ND-SR.md)
 
 Table: Accepted values by evidence class
 

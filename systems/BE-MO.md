@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BE-MO.html · Markdown: https://da
 
 12 accepted literature values from 1 paper(s) (model 8, DFT 4); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BE-MO.json) · [CSV](https://data.orchid-project.org/systems/BE-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-MO/BeMo-07Nak.json) · [phases (8)](https://data.orchid-project.org/phases/pages/BE-MO.html) · [Markdown](https://data.orchid-project.org/systems/BE-MO.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BE-MO.json) · [CSV](https://data.orchid-project.org/systems/BE-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-MO/BeMo-07Nak.json) · [phases (8)](https://data.orchid-project.org/phases/pages/BE-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BE-MO.html) · [Markdown](https://data.orchid-project.org/systems/BE-MO.md)
 
 Table: Accepted values by evidence class
 

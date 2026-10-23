@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-LU.html · Markdown: https://da
 
 1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-LU.json) · [CSV](https://data.orchid-project.org/systems/CA-LU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-LU) · [Markdown](https://data.orchid-project.org/systems/CA-LU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-LU.json) · [CSV](https://data.orchid-project.org/systems/CA-LU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-LU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-LU.html) · [Markdown](https://data.orchid-project.org/systems/CA-LU.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HO-O.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-O/HoO-23Nak.json) · [phases (7)](https://data.orchid-project.org/phases/pages/HO-O.html) · [Markdown](https://data.orchid-project.org/systems/HO-O.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-O/HoO-23Nak.json) · [phases (7)](https://data.orchid-project.org/phases/pages/HO-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-O.html) · [Markdown](https://data.orchid-project.org/systems/HO-O.md)
 
 ## Calculated phase diagrams
 

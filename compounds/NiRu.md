@@ -14,8 +14,8 @@ Table: Enthalpy of formation of NiRu reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 14.6 kJ/mol-atom | Ni2Ru2 | 0 | DFT | Ab initio | [Ni–Ru](https://data.orchid-project.org/systems/NI-RU.html) | [1] Hallström 2008 | Table A.1, p. 7, row 3 |  |
-| 25.35 kJ/mol-atom | NiRu | 0 | DFT | Ab initio | [Ni–Ru](https://data.orchid-project.org/systems/NI-RU.html) | [1] Hallström 2008 | Table A.1, p. 7, row 5 |  |
+| 14.6 kJ/mol-atom | Ni2Ru2 | 0 | DFT | Ab initio | [Ni–Ru](https://data.orchid-project.org/systems/NI-RU.html) | [1] Hallström 2008 | Table A.1, p. 7, row 4 |  |
+| 25.35 kJ/mol-atom | NiRu | 0 | DFT | Ab initio | [Ni–Ru](https://data.orchid-project.org/systems/NI-RU.html) | [1] Hallström 2008 | Table A.1, p. 7, row 6 |  |
 
 ## Sources
 

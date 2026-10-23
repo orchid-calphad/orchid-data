@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MO-TI.html · Markdown: https://da
 
 13 accepted literature values from 4 paper(s) (experimental 8, model 5); 8 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MO-TI.json) · [CSV](https://data.orchid-project.org/systems/MO-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-TI/MoTi-16Yan.json) · [phases (13)](https://data.orchid-project.org/phases/pages/MO-TI.html) · [Markdown](https://data.orchid-project.org/systems/MO-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-TI.json) · [CSV](https://data.orchid-project.org/systems/MO-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-TI/MoTi-16Yan.json) · [phases (13)](https://data.orchid-project.org/phases/pages/MO-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-TI.html) · [Markdown](https://data.orchid-project.org/systems/MO-TI.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GD-MG.html · Markdown: https://da
 
 59 accepted literature values from 4 paper(s) (experimental 25, model 34); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MG.json) · [CSV](https://data.orchid-project.org/systems/GD-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MG/GdMg-03Cac-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GD-MG.html) · [Markdown](https://data.orchid-project.org/systems/GD-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MG.json) · [CSV](https://data.orchid-project.org/systems/GD-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MG/GdMg-03Cac-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GD-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MG.html) · [Markdown](https://data.orchid-project.org/systems/GD-MG.md)
 
 Table: Accepted values by evidence class
 

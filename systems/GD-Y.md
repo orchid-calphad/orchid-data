@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GD-Y.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-Y/GdY-07Guo.json) · [phases (4)](https://data.orchid-project.org/phases/pages/GD-Y.html) · [Markdown](https://data.orchid-project.org/systems/GD-Y.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-Y/GdY-07Guo.json) · [phases (4)](https://data.orchid-project.org/phases/pages/GD-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-Y.html) · [Markdown](https://data.orchid-project.org/systems/GD-Y.md)
 
 ## Calculated phase diagrams
 

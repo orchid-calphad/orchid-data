@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-CU.html · Markdown: https://da
 
 11 accepted literature values from 3 paper(s) (experimental 4, model 7); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CU.json) · [CSV](https://data.orchid-project.org/systems/AG-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CU/AgCu-00Moo.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-CU.html) · [Markdown](https://data.orchid-project.org/systems/AG-CU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CU.json) · [CSV](https://data.orchid-project.org/systems/AG-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CU/AgCu-00Moo.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CU.html) · [Markdown](https://data.orchid-project.org/systems/AG-CU.md)
 
 Table: Accepted values by evidence class
 

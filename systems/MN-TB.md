@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-TB.html · Markdown: https://da
 
 3 accepted literature values from 1 paper(s) (model 3); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TB.json) · [CSV](https://data.orchid-project.org/systems/MN-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TB/MnTb-24Ye.json) · [phases (9)](https://data.orchid-project.org/phases/pages/MN-TB.html) · [Markdown](https://data.orchid-project.org/systems/MN-TB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TB.json) · [CSV](https://data.orchid-project.org/systems/MN-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TB/MnTb-24Ye.json) · [phases (9)](https://data.orchid-project.org/phases/pages/MN-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-TB.html) · [Markdown](https://data.orchid-project.org/systems/MN-TB.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-SE.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SE/InSe-03Li.json) · [phases (15)](https://data.orchid-project.org/phases/pages/IN-SE.html) · [Markdown](https://data.orchid-project.org/systems/IN-SE.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SE/InSe-03Li.json) · [phases (15)](https://data.orchid-project.org/phases/pages/IN-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SE.html) · [Markdown](https://data.orchid-project.org/systems/IN-SE.md)
 
 ## Calculated phase diagrams
 

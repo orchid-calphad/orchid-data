@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-SR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SR/MnSr-11Pen.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MN-SR.html) · [Markdown](https://data.orchid-project.org/systems/MN-SR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SR/MnSr-11Pen.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MN-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-SR.html) · [Markdown](https://data.orchid-project.org/systems/MN-SR.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-GA.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-GA/CdGa-93Zak-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CD-GA.html) · [Markdown](https://data.orchid-project.org/systems/CD-GA.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-GA/CdGa-93Zak-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CD-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-GA.html) · [Markdown](https://data.orchid-project.org/systems/CD-GA.md)
 
 ## Calculated phase diagrams
 

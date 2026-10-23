@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Tb2O3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1865200 unknown | C-Tb₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
 | -1865200 unknown | C-Tb2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
+| -1865200 unknown | C-Tb₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
 
 ## Sources
 

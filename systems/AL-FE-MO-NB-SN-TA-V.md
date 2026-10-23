@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.html · Markdo
 
 14 accepted literature values from 1 paper(s) (model 7, DFT 7); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-MO-NB-SN-TA-V.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-MO-NB-SN-TA-V) · [Markdown](https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-MO-NB-SN-TA-V.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-MO-NB-SN-TA-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-MO-NB-SN-TA-V.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.md)
 
 Table: Accepted values by evidence class
 

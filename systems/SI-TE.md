@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-TE.html · Markdown: https://da
 
 24 accepted literature values from 1 paper(s) (experimental 17, model 7); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TE.json) · [CSV](https://data.orchid-project.org/systems/SI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TE/SiTe-20Yua.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-TE.html) · [Markdown](https://data.orchid-project.org/systems/SI-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TE.json) · [CSV](https://data.orchid-project.org/systems/SI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TE/SiTe-20Yua.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TE.html) · [Markdown](https://data.orchid-project.org/systems/SI-TE.md)
 
 Table: Accepted values by evidence class
 

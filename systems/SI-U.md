@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-U.html · Markdown: https://dat
 
 46 accepted literature values from 1 paper(s) (experimental 29, model 17); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-U.json) · [CSV](https://data.orchid-project.org/systems/SI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-U/SiU-04Che-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/SI-U.html) · [Markdown](https://data.orchid-project.org/systems/SI-U.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-U.json) · [CSV](https://data.orchid-project.org/systems/SI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-U/SiU-04Che-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/SI-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-U.html) · [Markdown](https://data.orchid-project.org/systems/SI-U.md)
 
 Table: Accepted values by evidence class
 

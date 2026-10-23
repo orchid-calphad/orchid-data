@@ -1,0 +1,99 @@
+{
+ "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
+ "record": "espei",
+ "doi": "10.5281/zenodo.PENDING-espei",
+ "metadata": {
+  "title": "ORCHID ESPEI datasets from the literature",
+  "upload_type": "dataset",
+  "version": "2026.10",
+  "description": "<p><b>ORCHID ESPEI datasets from the literature</b>: ESPEI 0.9.1 datasets built from the ORCHID literature values and from DFT, one folder per evidence class: <code>experimental/</code> (thermochemical and phase-composition ZPF tables), <code>invariants/</code> (ZPF from invariant-reaction tables), <code>model/</code> (values the papers calculated with a CALPHAD model, TDB SHA-256), <code>dft/literature</code>, <code>dft/mp</code>, <code>dft/oqmd</code> (HM_FORM of TDB phase endmembers, mapped through the ORCHID phase registry). Every literature value carries its ORCHID observation id and source DOI and passes the inclusion rules of the published literature values; every value carries its uncertainty in physical units (printed; ESPEI's experimental default where none was printed; DFT sigma calibrated against experiment, leave-system-out) and the ESPEI weight derived from it. Validated with ESPEI 0.9.1 check_dataset and load_datasets (VALIDATION.md). Part of the ORCHID data release v2026.10.</p><h3>Limitations</h3><ul><li>Version 1, machine-extracted literature values.</li><li>Model-calculated values have no measurement uncertainty: choose your own weight.</li><li>0 K DFT energies are used as 298.15 K enthalpies; DFT residuals are heavy-tailed.</li><li>Use one DFT source per fit (different elemental references).</li></ul><h3>Licence</h3><p>Derived data CC BY 4.0; Materials Project and OQMD data CC BY 4.0. Source papers are not redistributed.</p>",
+  "creators": [
+   {
+    "name": "Arróyave, Raymundo",
+    "affiliation": "Texas A&M University",
+    "orcid": "0000-0001-7548-8686"
+   },
+   {
+    "name": "Saal, James",
+    "affiliation": "Citrine Informatics",
+    "orcid": "0000-0003-0935-158X"
+   },
+   {
+    "name": "Shin, Dongwon",
+    "affiliation": "Oak Ridge National Laboratory",
+    "orcid": "0000-0002-5797-3423"
+   }
+  ],
+  "keywords": [
+   "ESPEI",
+   "CALPHAD",
+   "thermodynamics",
+   "phase diagrams",
+   "ZPF",
+   "DFT",
+   "formation enthalpy",
+   "uncertainty",
+   "AI-ready data"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "grants": [
+   {
+    "id": "10.13039/100000001::2608825"
+   }
+  ],
+  "communities": [
+   {
+    "identifier": "orchid"
+   }
+  ],
+  "related_identifiers": [
+   {
+    "identifier": "10.5281/zenodo.PENDING-orchid-data",
+    "relation": "isPartOf",
+    "resource_type": "dataset",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.5281/zenodo.PENDING-literature",
+    "relation": "isDerivedFrom",
+    "resource_type": "dataset",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.5281/zenodo.PENDING-hulls",
+    "relation": "isDerivedFrom",
+    "resource_type": "dataset",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.5281/zenodo.PENDING-phase-registry",
+    "relation": "references",
+    "resource_type": "dataset",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "https://orchid-project.org",
+    "relation": "isSupplementTo",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.1063/1.4812323",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.1007/s11837-013-0755-4",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.1038/npjcompumats.2015.10",
+    "relation": "references",
+    "scheme": "doi"
+   }
+  ],
+  "notes": "This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge)."
+ }
+}

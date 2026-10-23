@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-FE.html · Markdown: https://da
 
 72 accepted literature values from 6 paper(s) (experimental 13, model 19, DFT 38, unspecified 2); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE.json) · [CSV](https://data.orchid-project.org/systems/CR-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-FE/CrFe-11Xio.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CR-FE.html) · [Markdown](https://data.orchid-project.org/systems/CR-FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE.json) · [CSV](https://data.orchid-project.org/systems/CR-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-FE/CrFe-11Xio.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CR-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-FE.html) · [Markdown](https://data.orchid-project.org/systems/CR-FE.md)
 
 Table: Accepted values by evidence class
 

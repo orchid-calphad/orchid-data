@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SN-TB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-TB/SnTb-18Wan.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SN-TB.html) · [Markdown](https://data.orchid-project.org/systems/SN-TB.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-TB/SnTb-18Wan.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SN-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-TB.html) · [Markdown](https://data.orchid-project.org/systems/SN-TB.md)
 
 ## Calculated phase diagrams
 

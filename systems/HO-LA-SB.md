@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HO-LA-SB.html · Markdown: https:/
 
 20 accepted literature values from 1 paper(s) (experimental 7, model 5, DFT 8); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HO-LA-SB.json) · [CSV](https://data.orchid-project.org/systems/HO-LA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-LA-SB) · [Markdown](https://data.orchid-project.org/systems/HO-LA-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HO-LA-SB.json) · [CSV](https://data.orchid-project.org/systems/HO-LA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-LA-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-LA-SB.html) · [Markdown](https://data.orchid-project.org/systems/HO-LA-SB.md)
 
 Table: Accepted values by evidence class
 

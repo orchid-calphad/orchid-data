@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/H-NB-ZR.html · Markdown: https://
 
 24 accepted literature values from 1 paper(s) (experimental 24); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/H-NB-ZR.json) · [CSV](https://data.orchid-project.org/systems/H-NB-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-NB-ZR) · [Markdown](https://data.orchid-project.org/systems/H-NB-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/H-NB-ZR.json) · [CSV](https://data.orchid-project.org/systems/H-NB-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-NB-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-NB-ZR.html) · [Markdown](https://data.orchid-project.org/systems/H-NB-ZR.md)
 
 Table: Accepted values by evidence class
 

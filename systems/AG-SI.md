@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-SI.html · Markdown: https://da
 
 9 accepted literature values from 1 paper(s) (experimental 6, model 3); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SI.json) · [CSV](https://data.orchid-project.org/systems/AG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SI/AgSi-85Sau.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-SI.html) · [Markdown](https://data.orchid-project.org/systems/AG-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SI.json) · [CSV](https://data.orchid-project.org/systems/AG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SI/AgSi-85Sau.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SI.html) · [Markdown](https://data.orchid-project.org/systems/AG-SI.md)
 
 Table: Accepted values by evidence class
 

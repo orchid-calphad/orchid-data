@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-CR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CR.json) · [CSV](https://data.orchid-project.org/systems/AG-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CR/AgCr-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-CR.html) · [Markdown](https://data.orchid-project.org/systems/AG-CR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CR.json) · [CSV](https://data.orchid-project.org/systems/AG-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CR/AgCr-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-CR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CR.html) · [Markdown](https://data.orchid-project.org/systems/AG-CR.md)
 
 ## Calculated phase diagrams
 

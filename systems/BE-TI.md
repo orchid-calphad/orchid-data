@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BE-TI.html · Markdown: https://da
 
 46 accepted literature values from 1 paper(s) (experimental 3, model 43); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BE-TI.json) · [CSV](https://data.orchid-project.org/systems/BE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-TI/BeTi-06Tok.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BE-TI.html) · [Markdown](https://data.orchid-project.org/systems/BE-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BE-TI.json) · [CSV](https://data.orchid-project.org/systems/BE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-TI/BeTi-06Tok.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BE-TI.html) · [Markdown](https://data.orchid-project.org/systems/BE-TI.md)
 
 Table: Accepted values by evidence class
 

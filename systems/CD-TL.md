@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-TL.html · Markdown: https://da
 
 5 accepted literature values from 1 paper(s) (experimental 3, model 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-TL.json) · [CSV](https://data.orchid-project.org/systems/CD-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-TL/CdTl-09Liu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CD-TL.html) · [Markdown](https://data.orchid-project.org/systems/CD-TL.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-TL.json) · [CSV](https://data.orchid-project.org/systems/CD-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-TL/CdTl-09Liu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CD-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-TL.html) · [Markdown](https://data.orchid-project.org/systems/CD-TL.md)
 
 Table: Accepted values by evidence class
 

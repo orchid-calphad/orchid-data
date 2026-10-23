@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-RU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-RU/BaRu-95Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-RU.html) · [Markdown](https://data.orchid-project.org/systems/BA-RU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-RU/BaRu-95Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-RU.html) · [Markdown](https://data.orchid-project.org/systems/BA-RU.md)
 
 ## Calculated phase diagrams
 

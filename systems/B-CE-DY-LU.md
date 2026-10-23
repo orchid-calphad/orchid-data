@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/B-CE-DY-LU.html · Markdown: https
 
 39 accepted literature values from 1 paper(s) (experimental 5, model 15, DFT 19); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/B-CE-DY-LU.json) · [CSV](https://data.orchid-project.org/systems/B-CE-DY-LU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-CE-DY-LU) · [Markdown](https://data.orchid-project.org/systems/B-CE-DY-LU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/B-CE-DY-LU.json) · [CSV](https://data.orchid-project.org/systems/B-CE-DY-LU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-CE-DY-LU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-CE-DY-LU.html) · [Markdown](https://data.orchid-project.org/systems/B-CE-DY-LU.md)
 
 Table: Accepted values by evidence class
 

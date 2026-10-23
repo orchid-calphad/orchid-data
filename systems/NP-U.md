@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NP-U.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NP-U/NpU-10Kur.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NP-U.html) · [Markdown](https://data.orchid-project.org/systems/NP-U.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NP-U/NpU-10Kur.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NP-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NP-U.html) · [Markdown](https://data.orchid-project.org/systems/NP-U.md)
 
 ## Calculated phase diagrams
 

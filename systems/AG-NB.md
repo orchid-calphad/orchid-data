@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-NB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-NB/AgNb-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-NB.html) · [Markdown](https://data.orchid-project.org/systems/AG-NB.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-NB/AgNb-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-NB.html) · [Markdown](https://data.orchid-project.org/systems/AG-NB.md)
 
 ## Calculated phase diagrams
 

@@ -1,27 +1,26 @@
 # U–Zr system
 
-> U–Zr system: 77 accepted literature values (invariant reaction 32, phase transition 25, activity / EMF / Gibbs energy 20) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> U–Zr system: 78 accepted literature values (invariant reaction 32, phase transition 26, activity / EMF / Gibbs energy 20) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/U-ZR.html · Markdown: https://data.orchid-project.org/systems/U-ZR.md
 
-77 accepted literature values from 4 paper(s) (experimental 52, model 24, unspecified 1); 9 calculated phase diagram(s).
+78 accepted literature values from 4 paper(s) (experimental 54, model 24); 9 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/U-ZR.json) · [CSV](https://data.orchid-project.org/systems/U-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#U-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#U-ZR/UZr-04Che-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/U-ZR.html) · [Markdown](https://data.orchid-project.org/systems/U-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/U-ZR.json) · [CSV](https://data.orchid-project.org/systems/U-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#U-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#U-ZR/UZr-04Che-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/U-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/U-ZR.html) · [Markdown](https://data.orchid-project.org/systems/U-ZR.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 52 |
+| experimental | 54 |
 | model | 24 |
-| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 32 |
-| phase transition | 25 |
+| phase transition | 26 |
 | activity / EMF / Gibbs energy | 20 |
 
 ## Calculated phase diagrams
@@ -134,7 +133,7 @@ Table: Invariant reactions reported in the literature for the U–Zr system (32)
 
 ## Other properties
 
-### Phase transition (25)
+### Phase transition (26)
 
 Table: Phase transition, U–Zr system
 
@@ -162,8 +161,9 @@ Table: Phase transition, U–Zr system
 | Phase transition | 889.15 K | 889.15 | other: wt% Zr 40 (x(Zr) 0.635), T upper; _alloy: U 0.365, Zr 0.635_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 10 |  |
 | Phase transition | 890.65 K | 890.65 | other: wt% Zr 44 (x(Zr) 0.672), T upper; _alloy: U 0.328, Zr 0.672_ | experimental | [4] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 11 |  |
 | Phase transition | 961 K | 961 | other | model | [3] Williams 2025 | p. 1 | “These changes include the truncation of β-U stability at 6 at.% Zr, prominent isotherms at 884 K (611◦ C) and 961 K (688◦ C), and δ-U-Zr phase boundaries ranging from 66.5 to 80.2 at.% Zr at 823 K (550◦ C).” |
-| Phase transition | 1049 K | 1049 | UNKNOWN; _alloy: U 0.9974, Zr 0.0026_ | unspecified | [3] Williams 2025 | Table A.3, p. 12, row 1 |  |
-| Phase transition | 1057 K | 1057 | 0 at.% Zr, 1057 K; _alloy: Zr 1_ | experimental | [3] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 12, row 2 |  |
+| Phase transition | 1049 K | 1049 | UNKNOWN; _alloy: U 0.9974, Zr 0.0026_ | experimental | [3] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 12, row 1 |  |
+| Phase transition | 1057 K | 1057 | UNKNOWN; _alloy: U 0.9974, Zr 0.0026_ | experimental | [3] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 12, row 3 |  |
+| Phase transition | 1057 K | 1057 | UNKNOWN; _alloy: U 1, Zr 0_ | experimental | [3] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 12, row 2 |  |
 | Phase transition | 1519 K | 1519 | other | model | [1] Quaini 2018 | p. 12 | “The estimated molar phase fraction were compared with calculation at the solidus temperature (T 1⁄4 1519 K).” |
 
 ### Activity / EMF / Gibbs energy (20)

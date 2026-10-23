@@ -1,36 +1,48 @@
 # Fe2Zr: enthalpy of formation
 
-> Enthalpy of formation of Fe2Zr: 17 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Fe2Zr: 29 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe2Zr.html · Markdown: https://data.orchid-project.org/compounds/Fe2Zr.md
 
-17 accepted literature formation-enthalpy value(s) (experimental 5, model 12); experimental median -30.165 kJ/mol-atom (n = 4); Materials Project -27.082 kJ/mol-atom (mp-aaaaacoc); OQMD -26.998 kJ/mol-atom (oqmd-18350).
+29 accepted literature formation-enthalpy value(s) (experimental 8, model 21); experimental median -30.165 kJ/mol-atom (n = 8); Materials Project -27.082 kJ/mol-atom (mp-aaaaacoc); OQMD -26.998 kJ/mol-atom (oqmd-18350).
 
 Systems: [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe2Zr reported in the literature (17)
+Table: Enthalpy of formation of Fe2Zr reported in the literature (29)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -89.1 kJ/mol (basis unstated) ± 5.1 | Fe2Zr | 1760 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 3, row 2 |  |
-| -32.43 kJ/mol-atom | Fe2Zr | 1673.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Fleming 1985_ | Table 2, p. 5, row 13 |  |
-| -30.63 kJ/mol-atom | Fe2Zr | 1673.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Fleming 1985_ | Table 2, p. 5, row 12 |  |
-| -29.7 kJ/mol-atom ± 1.7 | Fe2Zr | 1760.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 5, row 9 |  |
-| -24.7 kJ/mol-atom ± 3.5 | Fe2Zr | 1023.15 | experimental | Solubility | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 5, row 16 |  |
-| -91.95 kJ/mol (basis unstated) | Fe2Zr | 1673 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995 | Table 2, p. 3, row 7 |  |
-| -34 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 5, row 33 |  |
-| -31.93 kJ/mol-atom | Fe2Zr | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites ref. 1995_ | Table 2, p. 5, row 19 |  |
-| -31.197 kJ/mol-atom | Fe2Zr | 1673.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001 | Table 2, p. 5, row 15 |  |
-| -30.846 kJ/mol-atom | Fe2Zr | 1760.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001 | Table 2, p. 5, row 11 |  |
-| -30.65 kJ/mol-atom | Fe2Zr | 1673.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 14 |  |
-| -30.559 kJ/mol-atom | Fe2Zr | 1023.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001 | Table 2, p. 5, row 18 |  |
-| -30.333 kJ/mol-atom | Fe2Zr | 1760.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 10 |  |
-| -28.233 kJ/mol-atom | Fe2Zr | 1023.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 17 |  |
-| -25.317 kJ/mol-atom | Fe2Zr | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001 | Table 2, p. 5, row 23 |  |
-| -24.667 kJ/mol-atom | Fe2Zr | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 22 |  |
-| -23 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 34 |  |
+| -32.43 kJ/mol-atom | Fe2Zr | 1673.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Fleming 1985_ | Table 2, p. 5, row 13 |  |
+| -32.43 kJ/mol-atom | Fe2Zr | 1673 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Fleming 1985_ | Table 2, p. 3, row 6 |  |
+| -30.63 kJ/mol-atom | Fe2Zr | 1673 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Fleming 1985_ | Table 2, p. 3, row 5 |  |
+| -30.63 kJ/mol-atom | Fe2Zr | 1673.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Fleming 1985_ | Table 2, p. 5, row 12 |  |
+| -29.7 kJ/mol-atom ± 5.1 | Fe2Zr | 1760 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 3, row 2 |  |
+| -29.7 kJ/mol-atom ± 1.7 | Fe2Zr | 1760.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 5, row 9 |  |
+| -24.7 kJ/mol-atom ± 3.5 | Fe2Zr | 1023.15 | experimental | Solubility | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 5, row 16 |  |
+| -24.7 kJ/mol-atom ± 10.5 | Fe2Zr | 1023 | experimental | Solubility | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 3, row 9 |  |
+| -40.7 kJ/mol-atom | Fe2Zr | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 15 |  |
+| -37.2667 kJ/mol-atom | Fe2Zr | 1023 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 11 |  |
+| -37 kJ/mol-atom | Fe2Zr | 1760 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 4 |  |
+| -34 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites F 1988_ | Table 2, p. 3, row 13 |  |
+| -34 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 5, row 33 |  |
+| -33.7333 kJ/mol-atom | Fe2Zr | 1673 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 8 |  |
+| -31.93 kJ/mol-atom | Fe2Zr | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites ref. 1995_ | Table 2, p. 5, row 19 |  |
+| -31.197 kJ/mol-atom | Fe2Zr | 1673.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 15 |  |
+| -30.846 kJ/mol-atom | Fe2Zr | 1760.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 11 |  |
+| -30.65 kJ/mol-atom | Fe2Zr | 1673 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 7 |  |
+| -30.65 kJ/mol-atom | Fe2Zr | 1673.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 14 |  |
+| -30.559 kJ/mol-atom | Fe2Zr | 1023.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 18 |  |
+| -30.3333 kJ/mol-atom | Fe2Zr | 1760 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 3 |  |
+| -30.333 kJ/mol-atom | Fe2Zr | 1760.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 10 |  |
+| -28.2333 kJ/mol-atom | Fe2Zr | 1023 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 10 |  |
+| -28.233 kJ/mol-atom | Fe2Zr | 1023.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 17 |  |
+| -25.317 kJ/mol-atom | Fe2Zr | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 23 |  |
+| -24.667 kJ/mol-atom | Fe2Zr | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 22 |  |
+| -24.6667 kJ/mol-atom | Fe2Zr | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 14 |  |
+| -23 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Colinet 1982_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 12 |  |
+| -23 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 34 |  |
 
 ## DFT formation energies
 
@@ -47,8 +59,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. C. Servant, C. Gueneau, I. Ansara, Experimental and thermodynamic assessment of the FeZr system, Journal of Alloys and Compounds 220, 19-26 (1995). [doi:10.1016/0925-8388(94)06036-3](https://doi.org/10.1016/0925-8388%2894%2906036-3)
-2. M. Jiang, K. Oikawa, T. Ikeshoji, L. Wulff, K. Ishida, Thermodynamic calculations of Fe-Zr and Fe-Zr-C systems, JPE 22, 406-417 (2001). [doi:10.1361/105497101770332965](https://doi.org/10.1361/105497101770332965)
+1. M. Jiang, K. Oikawa, T. Ikeshoji, L. Wulff, K. Ishida, Thermodynamic calculations of Fe-Zr and Fe-Zr-C systems, JPE 22, 406-417 (2001). [doi:10.1361/105497101770332965](https://doi.org/10.1361/105497101770332965)
+2. C. Servant, C. Gueneau, I. Ansara, Experimental and thermodynamic assessment of the FeZr system, Journal of Alloys and Compounds 220, 19-26 (1995). [doi:10.1016/0925-8388(94)06036-3](https://doi.org/10.1016/0925-8388%2894%2906036-3)
 
 ## Please cite
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-NI-TI.html · Markdown: https:/
 
 11 accepted literature values from 1 paper(s) (model 11); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BA-NI-TI.json) · [CSV](https://data.orchid-project.org/systems/BA-NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-NI-TI) · [Markdown](https://data.orchid-project.org/systems/BA-NI-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BA-NI-TI.json) · [CSV](https://data.orchid-project.org/systems/BA-NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-NI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/BA-NI-TI.md)
 
 Table: Accepted values by evidence class
 

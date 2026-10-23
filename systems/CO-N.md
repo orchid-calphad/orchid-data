@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-N.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-N/CoN-92Fer-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CO-N.html) · [Markdown](https://data.orchid-project.org/systems/CO-N.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-N/CoN-92Fer-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CO-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-N.html) · [Markdown](https://data.orchid-project.org/systems/CO-N.md)
 
 ## Calculated phase diagrams
 

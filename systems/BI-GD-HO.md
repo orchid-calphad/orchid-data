@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-GD-HO.html · Markdown: https:/
 
 48 accepted literature values from 1 paper(s) (experimental 11, model 12, DFT 25); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GD-HO.json) · [CSV](https://data.orchid-project.org/systems/BI-GD-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GD-HO) · [Markdown](https://data.orchid-project.org/systems/BI-GD-HO.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GD-HO.json) · [CSV](https://data.orchid-project.org/systems/BI-GD-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GD-HO) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-GD-HO.html) · [Markdown](https://data.orchid-project.org/systems/BI-GD-HO.md)
 
 Table: Accepted values by evidence class
 

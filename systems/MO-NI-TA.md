@@ -1,25 +1,25 @@
 # Mo–Ni–Ta system
 
-> Mo–Ni–Ta system: 125 accepted literature values (formation 70, phase equilibrium 43, mixing / partial 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ni–Ta system: 124 accepted literature values (formation 70, phase equilibrium 42, mixing / partial 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NI-TA.html · Markdown: https://data.orchid-project.org/systems/MO-NI-TA.md
 
-125 accepted literature values from 2 paper(s) (experimental 43, DFT 82); 0 calculated phase diagram(s).
+124 accepted literature values from 2 paper(s) (experimental 42, DFT 82); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI-TA.json) · [CSV](https://data.orchid-project.org/systems/MO-NI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI-TA) · [Markdown](https://data.orchid-project.org/systems/MO-NI-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI-TA.json) · [CSV](https://data.orchid-project.org/systems/MO-NI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI-TA.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI-TA.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
+| experimental | 42 |
 | DFT | 82 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase equilibrium | 43 |
+| phase equilibrium | 42 |
 | formation | 70 |
 | mixing / partial | 12 |
 
@@ -104,28 +104,27 @@ Table: Enthalpies of formation, Mo–Ni–Ta system (70)
 
 ## Other properties
 
-### Phase equilibrium (43)
+### Phase equilibrium (42)
 
 Table: Phase equilibrium, Mo–Ni–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1173 | Ni2Ta + NiTa; _Ni2Ta: Ta 0.337; NiTa: Mo 0.006, Ni 0.472, Ta 0.522_ | experimental | [2] Cui 1999 | Table III, p. 4, row 3 |  |
-| Phase composition |  | 1173 | Ni3(MO, Ta) + NiMo; _Ni3(MO, Ta): Mo 0.153, Ni 0.754, Ta 0.093; NiMo: Mo 0.508, Ni 0.475, Ta 0.017_ | experimental | [2] Cui 1999 | Table III, p. 4, row 1 |  |
-| Phase composition |  | 1173 | Ni3(Mo, Ta) + Fcc; _Ni3(Mo, Ta): Ta 0.246; Fcc: Mo 0.003, Ni 0.882, Ta 0.115_ | experimental | [2] Cui 1999 | Table III, p. 4, row 4 |  |
+| Phase composition |  | 1173 | Ni2Ta + NiTa; _Ni2Ta: Mo 0, Ni 0.663, Ta 0.337; NiTa: Mo 0.006, Ni 0.472, Ta 0.522_ | experimental | [2] Cui 1999 | Table III, p. 4, row 3 |  |
+| Phase composition |  | 1173 | Ni3(MO, Ta) + NiMo; _Ni3(MO, Ta): Mo 0.153, Ni 0.754, Ta 0.093; NiMo: Mo 0.508, Ni 0.492, Ta 0_ | experimental | [2] Cui 1999 | Table III, p. 4, row 1 |  |
+| Phase composition |  | 1173 | Ni3(Mo, Ta) + Fcc; _Ni3(Mo, Ta): Mo 0, Ni 0.754, Ta 0.246; Fcc: Mo 0.003, Ni 0.882, Ta 0.115_ | experimental | [2] Cui 1999 | Table III, p. 4, row 4 |  |
 | Phase composition |  | 1173 | Ni3(Mo, Ta) + Fcc; _Ni3(Mo, Ta): Mo 0.193, Ni 0.762, Ta 0.045; Fcc: Mo 0.157, Ni 0.829, Ta 0.014_ | experimental | [2] Cui 1999 | Table III, p. 4, row 5 |  |
-| Phase composition |  | 1173 | Ni3(Mo, Ta) + Ni2Ta; _Ni3(Mo, Ta): Ta 0.259; Ni2Ta: Mo 0.007, Ni 0.671, Ta 0.322_ | experimental | [2] Cui 1999 | Table III, p. 4, row 2 |  |
-| Phase composition |  | 1373 | Ni2Ta + Ni3(Mo, Ta); _Ni2Ta: Mo 0.001, Ni 0.669, Ta 0.33; Ni3(Mo, Ta): Mo 0.001, Ni 0.75, Ta 0.249_ | experimental | [2] Cui 1999 | Table II, p. 3, row 8 |  |
-| Phase composition |  | 1373 | Ni2Ta + Ni3(Mo, Ta) + Bcc; _Ni2Ta: Mo 0.003, Ni 0.663, Ta 0.334; Ni3(Mo, Ta): Mo 0.007, Ni 0.735, Ta 0.258; Bcc: Mo 0.617, Ni 0.136, Ta 0.247_ | experimental | [2] Cui 1999 | Table II, p. 3, row 11 |  |
-| Phase composition |  | 1373 | Ni3(Mo, Ta) + Bcc; _Ni3(Mo, Ta): Mo 0.172, Ni 0.752, Ta 0.076_ | experimental | [2] Cui 1999 | Table II, p. 3, row 4 |  |
-| Phase composition |  | 1373 | Ni3(Mo, Ta) + Bcc; _Ni3(Mo, Ta): Mo 0.019, Ni 0.752, Ta 0.229; Bcc: Mo 0.918, Ni 0.028, Ta 0.054_ | experimental | [2] Cui 1999 | Table II, p. 3, row 3 |  |
-| Phase composition |  | 1373 | Ni3(Mo, Ta) + Fcc; _Ni3(Mo, Ta): Mo 0.088, Ni 0.772, Ta 0.14; Fcc: Mo 0.109, Ni 0.839, Ta 0.052_ | experimental | [2] Cui 1999 | Table II, p. 3, row 6 |  |
-| Phase composition |  | 1373 | Ni3(Mo, Ta) + NiMo; _Ni3(Mo, Ta): Mo 0.164, Ni 0.744, Ta 0.092; NiMo: Mo 0.5, Ni 0.493, Ta 0.007_ | experimental | [2] Cui 1999 | Table II, p. 3, row 2 |  |
-| Phase composition |  | 1373 | Ni3(Mo, Ta) + NiMo; _Ni3(Mo, Ta): Mo 0.162, Ni 0.754, Ta 0.084; NiMo: Mo 0.485, Ni 0.509, Ta 0.006_ | experimental | [2] Cui 1999 | Table II, p. 3, row 1 |  |
-| Phase composition |  | 1373 | NiMo + Ni3(Mo, Ta) + Bcc; _Ni3(Mo, Ta): Mo 0.124, Ni 0.748, Ta 0.128_ | experimental | [2] Cui 1999 | Table II, p. 3, row 10 |  |
-| Phase composition |  | 1373 | NiTa + Ni2Ta; _NiTa: Mo 0.001, Ni 0.495, Ta 0.504; Ni2Ta: Mo 0.001, Ni 0.673, Ta 0.326_ | experimental | [2] Cui 1999 | Table II, p. 3, row 9 |  |
-| Phase composition |  | 1373 | NiTa2 + Bcc; _NiTa2: Mo 0.002, Ni 0.336, Ta 0.662; Bcc: Mo 0.004, Ni 0.011, Ta 0.985_ | experimental | [2] Cui 1999 | Table II, p. 3, row 7 |  |
-| Phase composition |  | 1373 | fcc + NiMo; _fcc: Mo 0.218, Ni 0.759, Ta 0.023; NiMo: Mo 0.488, Ni 0.507, Ta 0.005_ | experimental | [2] Cui 1999 | Table II, p. 3, row 5 |  |
+| Phase composition |  | 1173 | Ni3(Mo, Ta) + Ni2Ta; _Ni3(Mo, Ta): Mo 0.01, Ni 0.731, Ta 0.259; Ni2Ta: Mo 0.007, Ni 0.671, Ta 0.322_ | experimental | [2] Cui 1999 | Table III, p. 4, row 2 |  |
+| Phase composition |  | 1373 | Ni2Ta + Ni3(Mo, Ta); _Ni2Ta: Mo 0.001, Ni 0.669, Ta 0.33; Ni3(Mo, Ta): Mo 0.001, Ni 0.75, Ta 0.249_ | experimental | [2] Cui 1999 | Table II, p. 3, row 7 |  |
+| Phase composition |  | 1373 | Ni2Ta + Ni3(Mo, Ta) + Bcc; _Ni2Ta: Mo 0.003, Ni 0.663, Ta 0.334; Ni3(Mo, Ta): Mo 0.007, Ni 0.735, Ta 0.258; Bcc: Mo 0.617, Ni 0.136, Ta 0.247_ | experimental | [2] Cui 1999 | Table II, p. 3, row 10 |  |
+| Phase composition |  | 1373 | Ni3(Mo, Ta) + Bcc; _Ni3(Mo, Ta): Mo 0.172, Ni 0.752, Ta 0.076_ | experimental | [2] Cui 1999 | Table II, p. 3, row 3 |  |
+| Phase composition |  | 1373 | Ni3(Mo, Ta) + Bcc; _Ni3(Mo, Ta): Mo 0.019, Ni 0.752, Ta 0.229; Bcc: Mo 0.918, Ni 0.028, Ta 0.054_ | experimental | [2] Cui 1999 | Table II, p. 3, row 2 |  |
+| Phase composition |  | 1373 | Ni3(Mo, Ta) + Fcc; _Ni3(Mo, Ta): Mo 0.088, Ni 0.772, Ta 0.14; Fcc: Mo 0.109, Ni 0.839, Ta 0.052_ | experimental | [2] Cui 1999 | Table II, p. 3, row 5 |  |
+| Phase composition |  | 1373 | Ni3(Mo, Ta) + NiMo; _Ni3(Mo, Ta): Mo 0.164, Ni 0.744, Ta 0.092; NiMo: Mo 0.5, Ni 0.493, Ta 0.007_ | experimental | [2] Cui 1999 | Table II, p. 3, row 1 |  |
+| Phase composition |  | 1373 | NiMo + Ni3(Mo, Ta) + Bcc; _Ni3(Mo, Ta): Mo 0.124, Ni 0.748, Ta 0.128_ | experimental | [2] Cui 1999 | Table II, p. 3, row 9 |  |
+| Phase composition |  | 1373 | NiTa + Ni2Ta; _NiTa: Mo 0.001, Ni 0.495, Ta 0.504; Ni2Ta: Mo 0.001, Ni 0.673, Ta 0.326_ | experimental | [2] Cui 1999 | Table II, p. 3, row 8 |  |
+| Phase composition |  | 1373 | NiTa2 + Bcc; _NiTa2: Mo 0.002, Ni 0.336, Ta 0.662; Bcc: Mo 0.004, Ni 0.011, Ta 0.985_ | experimental | [2] Cui 1999 | Table II, p. 3, row 6 |  |
+| Phase composition |  | 1373 | fcc + NiMo; _fcc: Mo 0.218, Ni 0.759, Ta 0.023; NiMo: Mo 0.488, Ni 0.507, Ta 0.005_ | experimental | [2] Cui 1999 | Table II, p. 3, row 4 |  |
 | Phase composition |  | 1473 | Ni2Ta + Ni3(Mo, Ta); _Ni2Ta: Mo 0.001, Ni 0.657, Ta 0.342; Ni3(Mo, Ta): Mo 0.001, Ni 0.742, Ta 0.257_ | experimental | [2] Cui 1999 | Table I, p. 3, row 11 |  |
 | Phase composition |  | 1473 | Ni2Ta + Ni3(Mo, Ta) + Bcc; _Ni2Ta: Mo 0.001, Ni 0.665, Ta 0.334; Ni3(Mo, Ta): Mo 0.03, Ni 0.709, Ta 0.261; Bcc: Mo 0.558, Ni 0.028, Ta 0.414_ | experimental | [2] Cui 1999 | Table I, p. 3, row 27 |  |
 | Phase composition |  | 1473 | Ni3(Mo, Ta) + Bcc; _Ni3(Mo, Ta): Mo 0.022, Ni 0.751, Ta 0.227; Bcc: Mo 0.878, Ni 0.02, Ta 0.102_ | experimental | [2] Cui 1999 | Table I, p. 3, row 15 |  |

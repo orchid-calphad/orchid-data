@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NP-ZR.html · Markdown: https://da
 
 18 accepted literature values from 2 paper(s) (experimental 11, model 7); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NP-ZR.json) · [CSV](https://data.orchid-project.org/systems/NP-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NP-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NP-ZR/NpZr-10Kur.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NP-ZR.html) · [Markdown](https://data.orchid-project.org/systems/NP-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NP-ZR.json) · [CSV](https://data.orchid-project.org/systems/NP-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NP-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NP-ZR/NpZr-10Kur.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NP-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NP-ZR.html) · [Markdown](https://data.orchid-project.org/systems/NP-ZR.md)
 
 Table: Accepted values by evidence class
 

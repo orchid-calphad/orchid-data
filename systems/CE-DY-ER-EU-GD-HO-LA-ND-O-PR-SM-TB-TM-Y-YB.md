@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB
 
 32 accepted literature values from 1 paper(s) (model 32); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB.json) · [CSV](https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB) · [Markdown](https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB.json) · [CSV](https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB.html) · [Markdown](https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-ND-O-PR-SM-TB-TM-Y-YB.md)
 
 Table: Accepted values by evidence class
 

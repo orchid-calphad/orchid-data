@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-RH.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-RH/NiRh-24Hal.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NI-RH.html) · [Markdown](https://data.orchid-project.org/systems/NI-RH.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-RH/NiRh-24Hal.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NI-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-RH.html) · [Markdown](https://data.orchid-project.org/systems/NI-RH.md)
 
 ## Calculated phase diagrams
 

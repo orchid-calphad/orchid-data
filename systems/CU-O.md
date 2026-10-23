@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-O.html · Markdown: https://dat
 
 404 accepted literature values from 2 paper(s) (experimental 325, model 79); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-O.json) · [CSV](https://data.orchid-project.org/systems/CU-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-O/CuO-14Mag.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-O.html) · [Markdown](https://data.orchid-project.org/systems/CU-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-O.json) · [CSV](https://data.orchid-project.org/systems/CU-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-O/CuO-14Mag.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-O.html) · [Markdown](https://data.orchid-project.org/systems/CU-O.md)
 
 Table: Accepted values by evidence class
 

@@ -1,22 +1,24 @@
 # FeZr3: enthalpy of formation
 
-> Enthalpy of formation of FeZr3: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of FeZr3: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/FeZr3.html · Markdown: https://data.orchid-project.org/compounds/FeZr3.md
 
-11 accepted literature formation-enthalpy value(s) (model 7, DFT 4); Materials Project -10.562 kJ/mol-atom (mp-aaaabuef); OQMD -11.724 kJ/mol-atom (oqmd-18349).
+13 accepted literature formation-enthalpy value(s) (model 9, DFT 4); Materials Project -10.562 kJ/mol-atom (mp-aaaabuef); OQMD -11.724 kJ/mol-atom (oqmd-18349).
 
 Systems: [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) · [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of FeZr3 reported in the literature (11)
+Table: Enthalpy of formation of FeZr3 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -52.63 kJ/mol (basis unstated) | FeZr3 | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995 | Table 2, p. 3, row 21 |  |
+| -20 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995; _cites F 1988_ | Table 2, p. 3, row 20 |  |
+| -17 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995; _cites Colinet 1982_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 19 |  |
 | -16.5 kJ/mol-atom | FeZr3 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 37 |  |
 | -16.121 kJ/mol-atom | FeZr3 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001 | Table 2, p. 5, row 31 |  |
+| -13.1575 kJ/mol-atom | FeZr3 | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995 | Table 2, p. 3, row 21 |  |
 | -13.157 kJ/mol-atom | FeZr3 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 30 |  |
 | -11.77 kJ/mol (basis unstated) | FeZr3 | 0 | model |  | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47 |  |
 | 13158 unknown | FeZr3 | 298 | model | Calphad | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 8 |  |

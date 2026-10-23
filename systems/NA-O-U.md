@@ -1,19 +1,19 @@
 # Na–O–U system
 
-> Na–O–U system: 178 accepted literature values (crystal structure 95, formation 35, heat capacity / entropy / enthalpy 34, invariant reaction 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–O–U system: 179 accepted literature values (crystal structure 95, formation 35, heat capacity / entropy / enthalpy 34, invariant reaction 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-O-U.html · Markdown: https://data.orchid-project.org/systems/NA-O-U.md
 
-178 accepted literature values from 1 paper(s) (experimental 85, model 30, DFT 28, unspecified 35); 0 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+179 accepted literature values from 1 paper(s) (experimental 85, model 31, DFT 28, unspecified 35); 0 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NA-O-U.json) · [CSV](https://data.orchid-project.org/systems/NA-O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-O-U) · [Markdown](https://data.orchid-project.org/systems/NA-O-U.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NA-O-U.json) · [CSV](https://data.orchid-project.org/systems/NA-O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-O-U) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-O-U.html) · [Markdown](https://data.orchid-project.org/systems/NA-O-U.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
 | experimental | 85 |
-| model | 30 |
+| model | 31 |
 | DFT | 28 |
 | unspecified | 35 |
 
@@ -25,6 +25,7 @@ Table: Accepted values by property group
 | formation | 35 |
 | heat capacity / entropy / enthalpy | 34 |
 | crystal structure | 95 |
+| model expression | 1 |
 
 ## Invariant reactions (literature)
 
@@ -242,6 +243,14 @@ Table: Crystal structure, Na–O–U system
 | lattice v | 0.8737 nm3 ± 1.000e-4 | 295 | β-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Marcon 1972_ | Table 10, p. 13, row 7 |  |
 | lattice v | 0.6588 nm3 ± 1.300e-4 | 773 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites IJdo 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.09.011) | Table 10, p. 13, row 17 |  |
 | lattice v | 0.25461 nm3 ± 1.000e-5 | 1323 | γ-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Smith 2015_ [doi](https://doi.org/10.1021/acs.inorgchem.5b00136) | Table 10, p. 13, row 19 |  |
+
+### Model expression (1)
+
+Table: Model expression, Na–O–U system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Chemical potential; _printed: ΔG_O2^eq (T/K)_ | expression: −948630 + 263.28T | 900 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | model | [1] Smith 2017 | Table 13, p. 20, row 7 |  |
 
 ## Sources
 

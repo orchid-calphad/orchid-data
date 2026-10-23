@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-GE.html · Markdown: https://da
 
 155 accepted literature values from 3 paper(s) (experimental 57, model 98); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GE.json) · [CSV](https://data.orchid-project.org/systems/CO-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GE/CoGe-04Kor-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-GE.html) · [Markdown](https://data.orchid-project.org/systems/CO-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GE.json) · [CSV](https://data.orchid-project.org/systems/CO-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GE/CoGe-04Kor-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-GE.html) · [Markdown](https://data.orchid-project.org/systems/CO-GE.md)
 
 Table: Accepted values by evidence class
 

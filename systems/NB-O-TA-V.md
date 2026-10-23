@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NB-O-TA-V.html · Markdown: https:
 
 6 accepted literature values from 1 paper(s) (unspecified 6); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NB-O-TA-V.json) · [CSV](https://data.orchid-project.org/systems/NB-O-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-O-TA-V) · [Markdown](https://data.orchid-project.org/systems/NB-O-TA-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NB-O-TA-V.json) · [CSV](https://data.orchid-project.org/systems/NB-O-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-O-TA-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-O-TA-V.html) · [Markdown](https://data.orchid-project.org/systems/NB-O-TA-V.md)
 
 Table: Accepted values by evidence class
 

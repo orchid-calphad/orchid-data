@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-GA.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-GA/FeGa-04Tur.json) · [phases (9)](https://data.orchid-project.org/phases/pages/FE-GA.html) · [Markdown](https://data.orchid-project.org/systems/FE-GA.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-GA/FeGa-04Tur.json) · [phases (9)](https://data.orchid-project.org/phases/pages/FE-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-GA.html) · [Markdown](https://data.orchid-project.org/systems/FE-GA.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-SC.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SC/CaSc-12Bu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-SC.html) · [Markdown](https://data.orchid-project.org/systems/CA-SC.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SC/CaSc-12Bu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SC.html) · [Markdown](https://data.orchid-project.org/systems/CA-SC.md)
 
 ## Calculated phase diagrams
 

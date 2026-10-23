@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-SN-ZN.html · Markdown: https:/
 
 16 accepted literature values from 1 paper(s) (experimental 2, model 9, unspecified 5); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SN-ZN.json) · [CSV](https://data.orchid-project.org/systems/MG-SN-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SN-ZN) · [Markdown](https://data.orchid-project.org/systems/MG-SN-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SN-ZN.json) · [CSV](https://data.orchid-project.org/systems/MG-SN-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SN-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SN-ZN.html) · [Markdown](https://data.orchid-project.org/systems/MG-SN-ZN.md)
 
 Table: Accepted values by evidence class
 

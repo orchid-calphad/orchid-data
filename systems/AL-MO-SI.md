@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-MO-SI.html · Markdown: https:/
 
 33 accepted literature values from 1 paper(s) (experimental 15, model 18); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MO-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-MO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MO-SI) · [Markdown](https://data.orchid-project.org/systems/AL-MO-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MO-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-MO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MO-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MO-SI.html) · [Markdown](https://data.orchid-project.org/systems/AL-MO-SI.md)
 
 Table: Accepted values by evidence class
 

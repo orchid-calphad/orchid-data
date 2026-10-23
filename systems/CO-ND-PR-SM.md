@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-ND-PR-SM.html · Markdown: http
 
 1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ND-PR-SM.json) · [CSV](https://data.orchid-project.org/systems/CO-ND-PR-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ND-PR-SM) · [Markdown](https://data.orchid-project.org/systems/CO-ND-PR-SM.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ND-PR-SM.json) · [CSV](https://data.orchid-project.org/systems/CO-ND-PR-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ND-PR-SM) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-ND-PR-SM.html) · [Markdown](https://data.orchid-project.org/systems/CO-ND-PR-SM.md)
 
 Table: Accepted values by evidence class
 

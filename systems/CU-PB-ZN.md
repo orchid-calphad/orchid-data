@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-PB-ZN.html · Markdown: https:/
 
 18 accepted literature values from 1 paper(s) (experimental 9, model 9); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-PB-ZN.json) · [CSV](https://data.orchid-project.org/systems/CU-PB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-PB-ZN) · [Markdown](https://data.orchid-project.org/systems/CU-PB-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-PB-ZN.json) · [CSV](https://data.orchid-project.org/systems/CU-PB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-PB-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-PB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CU-PB-ZN.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-GA.html · Markdown: https://da
 
 50 accepted literature values from 2 paper(s) (experimental 25, model 13, DFT 12); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GA.json) · [CSV](https://data.orchid-project.org/systems/CO-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GA/CoGa-05Su.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CO-GA.html) · [Markdown](https://data.orchid-project.org/systems/CO-GA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GA.json) · [CSV](https://data.orchid-project.org/systems/CO-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GA/CoGa-05Su.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CO-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-GA.html) · [Markdown](https://data.orchid-project.org/systems/CO-GA.md)
 
 Table: Accepted values by evidence class
 

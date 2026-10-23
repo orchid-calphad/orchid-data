@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AS-IN.html · Markdown: https://da
 
 1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AS-IN.json) · [CSV](https://data.orchid-project.org/systems/AS-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-IN) · [phases (8)](https://data.orchid-project.org/phases/pages/AS-IN.html) · [Markdown](https://data.orchid-project.org/systems/AS-IN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AS-IN.json) · [CSV](https://data.orchid-project.org/systems/AS-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-IN) · [phases (8)](https://data.orchid-project.org/phases/pages/AS-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-IN.html) · [Markdown](https://data.orchid-project.org/systems/AS-IN.md)
 
 Table: Accepted values by evidence class
 

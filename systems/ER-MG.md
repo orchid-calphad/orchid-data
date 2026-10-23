@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-MG.html · Markdown: https://da
 
 8 accepted literature values from 1 paper(s) (unspecified 8); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ER-MG.json) · [CSV](https://data.orchid-project.org/systems/ER-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-MG/ErMg-02Cac.json) · [phases (7)](https://data.orchid-project.org/phases/pages/ER-MG.html) · [Markdown](https://data.orchid-project.org/systems/ER-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-MG.json) · [CSV](https://data.orchid-project.org/systems/ER-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-MG/ErMg-02Cac.json) · [phases (7)](https://data.orchid-project.org/phases/pages/ER-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-MG.html) · [Markdown](https://data.orchid-project.org/systems/ER-MG.md)
 
 Table: Accepted values by evidence class
 

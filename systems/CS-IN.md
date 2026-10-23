@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CS-IN.html · Markdown: https://da
 
 22 accepted literature values from 1 paper(s) (experimental 8, DFT 14); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CS-IN.json) · [CSV](https://data.orchid-project.org/systems/CS-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-IN/CsIn-10Lee.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CS-IN.html) · [Markdown](https://data.orchid-project.org/systems/CS-IN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CS-IN.json) · [CSV](https://data.orchid-project.org/systems/CS-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-IN/CsIn-10Lee.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CS-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-IN.html) · [Markdown](https://data.orchid-project.org/systems/CS-IN.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-ER.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-ER/DyEr-00Nor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/DY-ER.html) · [Markdown](https://data.orchid-project.org/systems/DY-ER.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-ER/DyEr-00Nor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/DY-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-ER.html) · [Markdown](https://data.orchid-project.org/systems/DY-ER.md)
 
 ## Calculated phase diagrams
 

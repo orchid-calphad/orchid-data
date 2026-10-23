@@ -1,33 +1,33 @@
 # Ti system
 
-> Ti system: 51 accepted literature values (heat capacity / entropy / enthalpy 33, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti system: 57 accepted literature values (heat capacity / entropy / enthalpy 33, formation 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI.html · Markdown: https://data.orchid-project.org/systems/TI.md
 
-51 accepted literature values from 1 paper(s) (experimental 11, model 34, DFT 6); 0 calculated phase diagram(s).
+57 accepted literature values from 1 paper(s) (experimental 11, model 38, DFT 8); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/TI.json) · [CSV](https://data.orchid-project.org/systems/TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI) · [Markdown](https://data.orchid-project.org/systems/TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/TI.json) · [CSV](https://data.orchid-project.org/systems/TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI.html) · [Markdown](https://data.orchid-project.org/systems/TI.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
-| model | 34 |
-| DFT | 6 |
+| model | 38 |
+| DFT | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 18 |
+| formation | 24 |
 | heat capacity / entropy / enthalpy | 33 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ti system (13)
+Table: Enthalpies of formation, Ti system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -44,6 +44,12 @@ Table: Enthalpies of formation, Ti system (13)
 | fcc |  | 5.91 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
 | fcc |  | 6 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 7 |  |
 | fcc |  | 6.77 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Vrest 2012_ | Table 4, p. 5, row 4 |  |
+| ω |  | -1.351 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ [doi](https://doi.org/10.1016/0364-5916%2896%2900003-x) | Table 4, p. 5, row 6 |  |
+| ω |  | -0.788 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Argaman 2015_ [doi](https://doi.org/10.1088/2053-1591/2/1/016505) | Table 4, p. 5, row 5 |  |
+| ω |  | -0.579 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Hu 2010_ [doi](https://doi.org/10.1063/1.3407560) | Table 4, p. 5, row 3 |  |
+| ω |  | -0.571 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
+| ω |  | -0.214 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
+| ω |  | -0.203 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Mei 2009_ [doi](https://doi.org/10.1103/physrevb.80.104116) | Table 4, p. 5, row 1 |  |
 
 ## Other properties
 

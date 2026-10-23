@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AG-HO.html · Markdown: https://da
 
 31 accepted literature values from 1 paper(s) (experimental 24, model 7); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AG-HO.json) · [CSV](https://data.orchid-project.org/systems/AG-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-HO/AgHo-09Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-HO.html) · [Markdown](https://data.orchid-project.org/systems/AG-HO.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AG-HO.json) · [CSV](https://data.orchid-project.org/systems/AG-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-HO/AgHo-09Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-HO.html) · [Markdown](https://data.orchid-project.org/systems/AG-HO.md)
 
 Table: Accepted values by evidence class
 

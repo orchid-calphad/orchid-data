@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-Y.html · Markdown: https://dat
 
 94 accepted literature values from 2 paper(s) (experimental 33, model 37, DFT 8, unspecified 16); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-Y.json) · [CSV](https://data.orchid-project.org/systems/CO-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-Y/CoY-04Du-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-Y.html) · [Markdown](https://data.orchid-project.org/systems/CO-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-Y.json) · [CSV](https://data.orchid-project.org/systems/CO-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-Y/CoY-04Du-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-Y.html) · [Markdown](https://data.orchid-project.org/systems/CO-Y.md)
 
 Table: Accepted values by evidence class
 

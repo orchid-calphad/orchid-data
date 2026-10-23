@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-NA.html · Markdown: https://da
 
 17 accepted literature values from 1 paper(s) (experimental 12, model 5); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-NA.json) · [CSV](https://data.orchid-project.org/systems/CD-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-NA/CdNa-09Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-NA.html) · [Markdown](https://data.orchid-project.org/systems/CD-NA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-NA.json) · [CSV](https://data.orchid-project.org/systems/CD-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-NA/CdNa-09Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-NA.html) · [Markdown](https://data.orchid-project.org/systems/CD-NA.md)
 
 Table: Accepted values by evidence class
 

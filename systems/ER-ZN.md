@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-ZN.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-ZN/ErZn-19Fre.json) · [phases (12)](https://data.orchid-project.org/phases/pages/ER-ZN.html) · [Markdown](https://data.orchid-project.org/systems/ER-ZN.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-ZN/ErZn-19Fre.json) · [phases (12)](https://data.orchid-project.org/phases/pages/ER-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-ZN.html) · [Markdown](https://data.orchid-project.org/systems/ER-ZN.md)
 
 ## Calculated phase diagrams
 

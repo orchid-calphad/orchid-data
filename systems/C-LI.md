@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-LI.html · Markdown: https://dat
 
 2 accepted literature values from 1 paper(s) (model 1, unspecified 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/C-LI.json) · [CSV](https://data.orchid-project.org/systems/C-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-LI) · [phases (10)](https://data.orchid-project.org/phases/pages/C-LI.html) · [Markdown](https://data.orchid-project.org/systems/C-LI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-LI.json) · [CSV](https://data.orchid-project.org/systems/C-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-LI) · [phases (10)](https://data.orchid-project.org/phases/pages/C-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-LI.html) · [Markdown](https://data.orchid-project.org/systems/C-LI.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-NI-W.html · Markdown: https://
 
 118 accepted literature values from 1 paper(s) (experimental 118); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NI-W.json) · [CSV](https://data.orchid-project.org/systems/FE-NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NI-W) · [Markdown](https://data.orchid-project.org/systems/FE-NI-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NI-W.json) · [CSV](https://data.orchid-project.org/systems/FE-NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NI-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-NI-W.html) · [Markdown](https://data.orchid-project.org/systems/FE-NI-W.md)
 
 Table: Accepted values by evidence class
 

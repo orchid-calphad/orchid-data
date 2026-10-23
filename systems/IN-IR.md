@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-IR.html · Markdown: https://da
 
 44 accepted literature values from 1 paper(s) (experimental 19, model 17, unspecified 8); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IN-IR.json) · [CSV](https://data.orchid-project.org/systems/IN-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-IR/InIr-11Ser.json) · [phases (9)](https://data.orchid-project.org/phases/pages/IN-IR.html) · [Markdown](https://data.orchid-project.org/systems/IN-IR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IN-IR.json) · [CSV](https://data.orchid-project.org/systems/IN-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-IR/InIr-11Ser.json) · [phases (9)](https://data.orchid-project.org/phases/pages/IN-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-IR.html) · [Markdown](https://data.orchid-project.org/systems/IN-IR.md)
 
 Table: Accepted values by evidence class
 

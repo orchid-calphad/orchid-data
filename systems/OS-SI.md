@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/OS-SI.html · Markdown: https://da
 
 18 accepted literature values from 1 paper(s) (experimental 13, model 5); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/OS-SI.json) · [CSV](https://data.orchid-project.org/systems/OS-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#OS-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#OS-SI/OsSi-01Liu-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/OS-SI.html) · [Markdown](https://data.orchid-project.org/systems/OS-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/OS-SI.json) · [CSV](https://data.orchid-project.org/systems/OS-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#OS-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#OS-SI/OsSi-01Liu-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/OS-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/OS-SI.html) · [Markdown](https://data.orchid-project.org/systems/OS-SI.md)
 
 Table: Accepted values by evidence class
 

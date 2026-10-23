@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-GA.html · Markdown: https://da
 
 128 accepted literature values from 3 paper(s) (experimental 81, model 47); 3 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-GA.json) · [CSV](https://data.orchid-project.org/systems/AU-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-GA/AuGa-10Liu.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AU-GA.html) · [Markdown](https://data.orchid-project.org/systems/AU-GA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-GA.json) · [CSV](https://data.orchid-project.org/systems/AU-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-GA/AuGa-10Liu.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AU-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-GA.html) · [Markdown](https://data.orchid-project.org/systems/AU-GA.md)
 
 Table: Accepted values by evidence class
 

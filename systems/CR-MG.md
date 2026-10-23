@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-MG.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-MG/CrMg-98Ans-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-MG.html) · [Markdown](https://data.orchid-project.org/systems/CR-MG.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-MG/CrMg-98Ans-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-MG.html) · [Markdown](https://data.orchid-project.org/systems/CR-MG.md)
 
 ## Calculated phase diagrams
 

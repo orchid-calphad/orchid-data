@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-SC.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SC/MgSc-22Wan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-SC.html) · [Markdown](https://data.orchid-project.org/systems/MG-SC.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SC/MgSc-22Wan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SC.html) · [Markdown](https://data.orchid-project.org/systems/MG-SC.md)
 
 ## Calculated phase diagrams
 

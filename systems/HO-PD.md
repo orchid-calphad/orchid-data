@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HO-PD.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-PD/HoPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/HO-PD.html) · [Markdown](https://data.orchid-project.org/systems/HO-PD.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-PD/HoPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/HO-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-PD.html) · [Markdown](https://data.orchid-project.org/systems/HO-PD.md)
 
 ## Calculated phase diagrams
 

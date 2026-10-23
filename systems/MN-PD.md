@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-PD.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-PD/MnPd-15Pov.json) · [phases (13)](https://data.orchid-project.org/phases/pages/MN-PD.html) · [Markdown](https://data.orchid-project.org/systems/MN-PD.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-PD/MnPd-15Pov.json) · [phases (13)](https://data.orchid-project.org/phases/pages/MN-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-PD.html) · [Markdown](https://data.orchid-project.org/systems/MN-PD.md)
 
 ## Calculated phase diagrams
 

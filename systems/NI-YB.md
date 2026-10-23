@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-YB.html · Markdown: https://da
 
 175 accepted literature values from 2 paper(s) (experimental 83, model 72, DFT 20); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-YB.json) · [CSV](https://data.orchid-project.org/systems/NI-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-YB/NiYb-16Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-YB.html) · [Markdown](https://data.orchid-project.org/systems/NI-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-YB.json) · [CSV](https://data.orchid-project.org/systems/NI-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-YB/NiYb-16Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-YB.html) · [Markdown](https://data.orchid-project.org/systems/NI-YB.md)
 
 Table: Accepted values by evidence class
 

@@ -1,5 +1,36 @@
 # Changelog
 
+## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
+
+**Literature values re-exported** from the record store db-v2.1 v2.1.19r: 77,540 values (was 76,432; general
+tables 45,088), 76,600 accepted, 1,391 systems, 4,881 papers and cited works. Every table value now carries
+`reader_agreement` / `reader_agreement_label`: `multi_reader` 41,809, `single_reader_text_layer` 2,385,
+`single_reader` 894 (806 accepted; the data explorer shows a "single reader" badge; treat as unconfirmed); a blind
+second Claude read (`claude-opus-5.5#2`) counts as a second reader. DFT benchmark 7,888 points; Kim et al. 2017
+cross-check unchanged (162 formulas, MAE 3.85 kJ/mol-atom). Phase registry, Parquet tables and static pages rebuilt.
+
+New dataset **ORCHID ESPEI datasets from the literature** (`espei/`, Zenodo record `espei`,
+10.5281/zenodo.PENDING-espei, `hasPart` of the umbrella; Version 1, machine-extracted): 7,639 ESPEI 0.9.1
+datasets with 19,419 values — experimental 1,679, model
+758, invariant ZPF 2,143, DFT literature
+479, Materials Project 1,290, OQMD
+1,290 — gated by the published literature values, each value with its observation id,
+source DOI, uncertainty (printed, ESPEI default or DFT sigma calibrated against experiment) and ESPEI weight;
+validated with ESPEI check_dataset / load_datasets. Built by `tools/build_espei_bundle.py` (orchid-project.org).
+
+New dataset **ORCHID bibliography** (`bibliography/`, Zenodo record `bibliography`, 10.5281/zenodo.PENDING-bibliography,
+`hasPart` of the umbrella; Version 1, machine-extracted): 9,569 works (7,813 with DOI),
+their roles in ORCHID, evidence counts and 60,237 typed relations with provenance; Crossref metadata (CC0).
+DOIs that upstream matchers found for printed references (handbook source lines, cited sources of values, TDB header
+citations) are now checked against Crossref (first author, year ±1, title, journal): `doi_match` verified
+5,385, weak 104 (kept, flagged), no Crossref record
+23; 19 mismatched DOIs were dropped (works kept without
+DOI; `bibliography/DOI_MISMATCHES.md`). Hugging Face configs `bibliography_papers`, `bibliography_edges`. Built by
+`tools/build_bibliography.py` (orchid-project.org).
+
+Release metadata: nine Zenodo records (eight datasets plus the umbrella); `zenodo/espei.metadata.json`,
+`zenodo/bibliography.metadata.json`, umbrella `hasPart`, `zenodo/dois.json` placeholders.
+
 ## Unreleased — assessed phase assemblages v1 (2026-10-23)
 
 New dataset **ORCHID assessed phase assemblages (binary systems)** (`assessed-phase-assemblages/`, Zenodo record

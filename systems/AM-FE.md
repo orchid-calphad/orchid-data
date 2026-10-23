@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AM-FE.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-FE/AmFe-10Kur.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AM-FE.html) · [Markdown](https://data.orchid-project.org/systems/AM-FE.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-FE/AmFe-10Kur.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AM-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AM-FE.html) · [Markdown](https://data.orchid-project.org/systems/AM-FE.md)
 
 ## Calculated phase diagrams
 

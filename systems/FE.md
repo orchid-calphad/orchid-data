@@ -1,26 +1,27 @@
 # Fe system
 
-> Fe system: 27 accepted literature values (mixing / partial 18, formation 4, phase transition 4, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe system: 35 accepted literature values (mixing / partial 18, phase transition 12, formation 4, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE.html · Markdown: https://data.orchid-project.org/systems/FE.md
 
-27 accepted literature values from 2 paper(s) (experimental 5, model 22); 0 calculated phase diagram(s).
+35 accepted literature values from 3 paper(s) (experimental 5, model 24, unspecified 6); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE.json) · [CSV](https://data.orchid-project.org/systems/FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE) · [Markdown](https://data.orchid-project.org/systems/FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE.json) · [CSV](https://data.orchid-project.org/systems/FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE.html) · [Markdown](https://data.orchid-project.org/systems/FE.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| model | 22 |
+| model | 24 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 1 |
-| phase transition | 4 |
+| phase transition | 12 |
 | formation | 4 |
 | mixing / partial | 18 |
 
@@ -47,7 +48,7 @@ Table: Enthalpies of formation, Fe system (4)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (12)
 
 Table: Phase transition, Fe system
 
@@ -57,6 +58,14 @@ Table: Phase transition, Fe system
 | Phase transition | 1573 K | 1573 | congruent transformation | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
 | Phase transition | 1608 K | 1608 | congruent transformation | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
 | Phase transition | 1673 K | 1673 | congruent transformation | experimental | [1] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
+| Phase transition | 2895 K | 2895 | One temperature range | model | [2] He 2024; _cites Chen 2001_ | Table 3, p. 11, row 5 |  |
+| Phase transition | 2959 K | 2959 | T_changeover= 1.3Tm = 2354 K | unspecified | [2] He 2024 | Table 3, p. 11, row 11 |  |
+| Phase transition | 3337 K | 3337 | T_changeover= 1.1Tm = 1922 K | unspecified | [2] He 2024 | Table 3, p. 11, row 9 |  |
+| Phase transition | 3631 K | 3631 | One temperature range | model | [2] He 2024; _cites Chen 2001_ | Table 3, p. 11, row 6 |  |
+| Phase transition | 3633 K | 3633 | T_changeover= Tm = 1811 K | unspecified | [2] He 2024 | Table 3, p. 11, row 7 |  |
+| Phase transition | 3898 K | 3898 | T_changeover= 1.3Tm = 2354 K | unspecified | [2] He 2024 | Table 3, p. 11, row 12 |  |
+| Phase transition | 4823 K | 4823 | T_changeover= 1.1Tm = 1922 K | unspecified | [2] He 2024 | Table 3, p. 11, row 10 |  |
+| Phase transition | 5429 K | 5429 | T_changeover= Tm = 1811 K | unspecified | [2] He 2024 | Table 3, p. 11, row 8 |  |
 
 ### Mixing / partial (18)
 
@@ -64,31 +73,32 @@ Table: Mixing / partial, Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH_ | -6.43448 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [2] Zhou 2010 | Table 5, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2.86302 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [2] Zhou 2010 | Table 5, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -1.47969 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [2] Zhou 2010 | Table 5, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -8.14493 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [2] Zhou 2010 | Table 5, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6.08152 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [2] Zhou 2010 | Table 5, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4.66667 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [2] Zhou 2010 | Table 5, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2.05797 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [2] Zhou 2010 | Table 5, p. 4, row 18 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -2.1508 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [2] Zhou 2010 | Table 5, p. 4, row 17 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4.4058 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [2] Zhou 2010 | Table 5, p. 4, row 16 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -7.3913 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [2] Zhou 2010 | Table 5, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -6.14653 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [2] Zhou 2010 | Table 5, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -5.29093 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [2] Zhou 2010 | Table 5, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9.15421 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [2] Zhou 2010 | Table 5, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -5.48 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [2] Zhou 2010 | Table 5, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9.30435 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [2] Zhou 2010 | Table 5, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4.1664 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [2] Zhou 2010 | Table 5, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -4.06706 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [2] Zhou 2010 | Table 5, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔmixH_ | -9.62319 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [2] Zhou 2010 | Table 5, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.43448 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [3] Zhou 2010 | Table 5, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.86302 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [3] Zhou 2010 | Table 5, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -1.47969 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [3] Zhou 2010 | Table 5, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.14493 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [3] Zhou 2010 | Table 5, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.08152 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [3] Zhou 2010 | Table 5, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.66667 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [3] Zhou 2010 | Table 5, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.05797 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [3] Zhou 2010 | Table 5, p. 4, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.1508 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [3] Zhou 2010 | Table 5, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.4058 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [3] Zhou 2010 | Table 5, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.3913 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [3] Zhou 2010 | Table 5, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.14653 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [3] Zhou 2010 | Table 5, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.29093 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [3] Zhou 2010 | Table 5, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.15421 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [3] Zhou 2010 | Table 5, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.48 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [3] Zhou 2010 | Table 5, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.30435 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [3] Zhou 2010 | Table 5, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.1664 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [3] Zhou 2010 | Table 5, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.06706 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [3] Zhou 2010 | Table 5, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.62319 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [3] Zhou 2010 | Table 5, p. 4, row 8 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Hongjian Ye, Maohua Rong, Qing Chen, Qingrong Yao, Jiang Wang, Guanghui Rao et al., Assessment of phase equilibria and thermodynamic properties in the Fe-RE (RE = rare earth metals) binary systems, J Mater Inf 3 (2023). [doi:10.20517/jmi.2023.08](https://doi.org/10.20517/jmi.2023.08)
-2. G.J. Zhou, Z.W. Liu, D.C. Zeng, Z.P. Jin, Thermodynamic assessment of the Fe–Er system, Physica B: Condensed Matter 405, 3590-3593 (2010). [doi:10.1016/j.physb.2010.05.046](https://doi.org/10.1016/j.physb.2010.05.046)
+2. Zhangting He, Qing Chen, Malin Selleby, Third Generation Calphad for Key Elements, J. Phase Equilib. Diffus. 45, 1163-1181 (2024). [doi:10.1007/s11669-024-01166-z](https://doi.org/10.1007/s11669-024-01166-z)
+3. G.J. Zhou, Z.W. Liu, D.C. Zeng, Z.P. Jin, Thermodynamic assessment of the Fe–Er system, Physica B: Condensed Matter 405, 3590-3593 (2010). [doi:10.1016/j.physb.2010.05.046](https://doi.org/10.1016/j.physb.2010.05.046)
 
 ## Please cite
 

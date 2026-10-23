@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-N.html · Markdown: https://data
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#C-N/CN-97SUB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/C-N.html) · [Markdown](https://data.orchid-project.org/systems/C-N.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#C-N/CN-97SUB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/C-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-N.html) · [Markdown](https://data.orchid-project.org/systems/C-N.md)
 
 ## Calculated phase diagrams
 

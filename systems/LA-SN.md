@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LA-SN.html · Markdown: https://da
 
 238 accepted literature values from 3 paper(s) (experimental 132, model 82, unspecified 24); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SN.json) · [CSV](https://data.orchid-project.org/systems/LA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SN/LaSn-00Hua.json) · [phases (16)](https://data.orchid-project.org/phases/pages/LA-SN.html) · [Markdown](https://data.orchid-project.org/systems/LA-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SN.json) · [CSV](https://data.orchid-project.org/systems/LA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SN/LaSn-00Hua.json) · [phases (16)](https://data.orchid-project.org/phases/pages/LA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SN.html) · [Markdown](https://data.orchid-project.org/systems/LA-SN.md)
 
 Table: Accepted values by evidence class
 

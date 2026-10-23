@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TI-Y.html · Markdown: https://dat
 
 1 accepted literature values from 1 paper(s) (experimental 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/TI-Y.json) · [CSV](https://data.orchid-project.org/systems/TI-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-Y/TiY-18Yao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/TI-Y.html) · [Markdown](https://data.orchid-project.org/systems/TI-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/TI-Y.json) · [CSV](https://data.orchid-project.org/systems/TI-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-Y/TiY-18Yao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/TI-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI-Y.html) · [Markdown](https://data.orchid-project.org/systems/TI-Y.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-AS-GA-GE.html · Markdown: http
 
 9 accepted literature values from 1 paper(s) (unspecified 9); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AS-GA-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-AS-GA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AS-GA-GE) · [Markdown](https://data.orchid-project.org/systems/AL-AS-GA-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AS-GA-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-AS-GA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AS-GA-GE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA-GE.html) · [Markdown](https://data.orchid-project.org/systems/AL-AS-GA-GE.md)
 
 Table: Accepted values by evidence class
 

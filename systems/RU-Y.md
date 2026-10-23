@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RU-Y.html · Markdown: https://dat
 
 45 accepted literature values from 1 paper(s) (experimental 11, model 34); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RU-Y.json) · [CSV](https://data.orchid-project.org/systems/RU-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-Y/RuY-11Ait.json) · [phases (9)](https://data.orchid-project.org/phases/pages/RU-Y.html) · [Markdown](https://data.orchid-project.org/systems/RU-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RU-Y.json) · [CSV](https://data.orchid-project.org/systems/RU-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-Y/RuY-11Ait.json) · [phases (9)](https://data.orchid-project.org/phases/pages/RU-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-Y.html) · [Markdown](https://data.orchid-project.org/systems/RU-Y.md)
 
 Table: Accepted values by evidence class
 

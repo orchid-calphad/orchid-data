@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-SC.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-SC/ErSc-24Kan.json) · [phases (4)](https://data.orchid-project.org/phases/pages/ER-SC.html) · [Markdown](https://data.orchid-project.org/systems/ER-SC.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-SC/ErSc-24Kan.json) · [phases (4)](https://data.orchid-project.org/phases/pages/ER-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-SC.html) · [Markdown](https://data.orchid-project.org/systems/ER-SC.md)
 
 ## Calculated phase diagrams
 

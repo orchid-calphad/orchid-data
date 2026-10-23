@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-PD.html · Markdown: https://da
 
 12 accepted literature values from 2 paper(s) (experimental 7, model 5); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-PD.json) · [CSV](https://data.orchid-project.org/systems/CU-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-PD/CuPd-07Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-PD.html) · [Markdown](https://data.orchid-project.org/systems/CU-PD.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-PD.json) · [CSV](https://data.orchid-project.org/systems/CU-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-PD/CuPd-07Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-PD.html) · [Markdown](https://data.orchid-project.org/systems/CU-PD.md)
 
 Table: Accepted values by evidence class
 

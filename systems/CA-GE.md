@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-GE.html · Markdown: https://da
 
 57 accepted literature values from 1 paper(s) (experimental 25, model 27, DFT 5); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-GE.json) · [CSV](https://data.orchid-project.org/systems/CA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-GE/CaGe-10Dja.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CA-GE.html) · [Markdown](https://data.orchid-project.org/systems/CA-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-GE.json) · [CSV](https://data.orchid-project.org/systems/CA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-GE/CaGe-10Dja.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CA-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-GE.html) · [Markdown](https://data.orchid-project.org/systems/CA-GE.md)
 
 Table: Accepted values by evidence class
 

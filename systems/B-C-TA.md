@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/B-C-TA.html · Markdown: https://d
 
 8 accepted literature values from 1 paper(s) (model 8); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/B-C-TA.json) · [CSV](https://data.orchid-project.org/systems/B-C-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-C-TA) · [Markdown](https://data.orchid-project.org/systems/B-C-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/B-C-TA.json) · [CSV](https://data.orchid-project.org/systems/B-C-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-C-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-C-TA.html) · [Markdown](https://data.orchid-project.org/systems/B-C-TA.md)
 
 Table: Accepted values by evidence class
 

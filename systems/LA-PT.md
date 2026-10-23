@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LA-PT.html · Markdown: https://da
 
 131 accepted literature values from 1 paper(s) (experimental 101, model 30); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-PT.json) · [CSV](https://data.orchid-project.org/systems/LA-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-PT/LaPt-06Rei.json) · [phases (12)](https://data.orchid-project.org/phases/pages/LA-PT.html) · [Markdown](https://data.orchid-project.org/systems/LA-PT.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-PT.json) · [CSV](https://data.orchid-project.org/systems/LA-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-PT/LaPt-06Rei.json) · [phases (12)](https://data.orchid-project.org/phases/pages/LA-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-PT.html) · [Markdown](https://data.orchid-project.org/systems/LA-PT.md)
 
 Table: Accepted values by evidence class
 

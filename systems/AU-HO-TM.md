@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-HO-TM.html · Markdown: https:/
 
 79 accepted literature values from 1 paper(s) (experimental 42, model 20, DFT 17); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-HO-TM.json) · [CSV](https://data.orchid-project.org/systems/AU-HO-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-HO-TM) · [Markdown](https://data.orchid-project.org/systems/AU-HO-TM.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-HO-TM.json) · [CSV](https://data.orchid-project.org/systems/AU-HO-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-HO-TM) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-HO-TM.html) · [Markdown](https://data.orchid-project.org/systems/AU-HO-TM.md)
 
 Table: Accepted values by evidence class
 

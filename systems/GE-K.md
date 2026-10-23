@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-K.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-K/GeK-12Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GE-K.html) · [Markdown](https://data.orchid-project.org/systems/GE-K.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-K/GeK-12Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GE-K.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-K.html) · [Markdown](https://data.orchid-project.org/systems/GE-K.md)
 
 ## Calculated phase diagrams
 

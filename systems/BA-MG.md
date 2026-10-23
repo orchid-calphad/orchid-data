@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BA-MG.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-MG/BaMg-13Ren.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BA-MG.html) · [Markdown](https://data.orchid-project.org/systems/BA-MG.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-MG/BaMg-13Ren.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-MG.html) · [Markdown](https://data.orchid-project.org/systems/BA-MG.md)
 
 ## Calculated phase diagrams
 

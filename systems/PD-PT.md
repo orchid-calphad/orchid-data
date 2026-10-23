@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PD-PT.html · Markdown: https://da
 
 1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/PD-PT.json) · [CSV](https://data.orchid-project.org/systems/PD-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-PT/PdPt-91Oka.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-PT.html) · [Markdown](https://data.orchid-project.org/systems/PD-PT.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/PD-PT.json) · [CSV](https://data.orchid-project.org/systems/PD-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-PT/PdPt-91Oka.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-PT.html) · [Markdown](https://data.orchid-project.org/systems/PD-PT.md)
 
 Table: Accepted values by evidence class
 

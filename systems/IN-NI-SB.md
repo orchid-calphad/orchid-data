@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-NI-SB.html · Markdown: https:/
 
 25 accepted literature values from 1 paper(s) (experimental 10, model 15); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/IN-NI-SB.json) · [CSV](https://data.orchid-project.org/systems/IN-NI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-NI-SB) · [Markdown](https://data.orchid-project.org/systems/IN-NI-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/IN-NI-SB.json) · [CSV](https://data.orchid-project.org/systems/IN-NI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-NI-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-NI-SB.html) · [Markdown](https://data.orchid-project.org/systems/IN-NI-SB.md)
 
 Table: Accepted values by evidence class
 

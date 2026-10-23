@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-MG.html · Markdown: https://da
 
 100 accepted literature values from 5 paper(s) (experimental 21, model 11, DFT 44, unspecified 24); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG.json) · [CSV](https://data.orchid-project.org/systems/CA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-MG/CaMg-05Isl.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-MG.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG.json) · [CSV](https://data.orchid-project.org/systems/CA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-MG/CaMg-05Isl.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html · Markdown: h
 
 61 accepted literature values from 1 paper(s) (experimental 26, model 35); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CR-GA-NI-PD.json) · [CSV](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CR-GA-NI-PD) · [Markdown](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CR-GA-NI-PD.json) · [CSV](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CR-GA-NI-PD) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-CR-GA-NI-PD.html) · [Markdown](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.md)
 
 Table: Accepted values by evidence class
 

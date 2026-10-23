@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-W.html · Markdown: https://dat
 
 6 accepted literature values from 1 paper(s) (experimental 6); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-W.json) · [CSV](https://data.orchid-project.org/systems/FE-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-W/FeW-15Jac-phonon.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-W.html) · [Markdown](https://data.orchid-project.org/systems/FE-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-W.json) · [CSV](https://data.orchid-project.org/systems/FE-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-W/FeW-15Jac-phonon.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-W.html) · [Markdown](https://data.orchid-project.org/systems/FE-W.md)
 
 Table: Accepted values by evidence class
 

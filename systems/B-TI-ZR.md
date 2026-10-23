@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/B-TI-ZR.html · Markdown: https://
 
 8 accepted literature values from 1 paper(s) (experimental 4, model 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/B-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/B-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-TI-ZR) · [Markdown](https://data.orchid-project.org/systems/B-TI-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/B-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/B-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-TI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-TI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/B-TI-ZR.md)
 
 Table: Accepted values by evidence class
 

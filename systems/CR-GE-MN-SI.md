@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-GE-MN-SI.html · Markdown: http
 
 21 accepted literature values from 1 paper(s) (model 21); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-GE-MN-SI.json) · [CSV](https://data.orchid-project.org/systems/CR-GE-MN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-GE-MN-SI) · [Markdown](https://data.orchid-project.org/systems/CR-GE-MN-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-GE-MN-SI.json) · [CSV](https://data.orchid-project.org/systems/CR-GE-MN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-GE-MN-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-GE-MN-SI.html) · [Markdown](https://data.orchid-project.org/systems/CR-GE-MN-SI.md)
 
 Table: Accepted values by evidence class
 

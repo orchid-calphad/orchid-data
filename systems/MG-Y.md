@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-Y.html · Markdown: https://dat
 
 66 accepted literature values from 4 paper(s) (experimental 32, model 29, unspecified 5); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-Y.json) · [CSV](https://data.orchid-project.org/systems/MG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-03Fab-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MG-Y.html) · [Markdown](https://data.orchid-project.org/systems/MG-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-Y.json) · [CSV](https://data.orchid-project.org/systems/MG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-03Fab-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MG-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-Y.html) · [Markdown](https://data.orchid-project.org/systems/MG-Y.md)
 
 Table: Accepted values by evidence class
 

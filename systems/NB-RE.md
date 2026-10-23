@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NB-RE.html · Markdown: https://da
 
 68 accepted literature values from 2 paper(s) (experimental 20, model 35, DFT 13); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NB-RE.json) · [CSV](https://data.orchid-project.org/systems/NB-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-RE/NbRe-13Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NB-RE.html) · [Markdown](https://data.orchid-project.org/systems/NB-RE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NB-RE.json) · [CSV](https://data.orchid-project.org/systems/NB-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-RE/NbRe-13Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NB-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-RE.html) · [Markdown](https://data.orchid-project.org/systems/NB-RE.md)
 
 Table: Accepted values by evidence class
 

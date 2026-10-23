@@ -1,18 +1,18 @@
 # Dy–Er–Eu–Gd–Ho–O–Tb–Tm system
 
-> Dy–Er–Eu–Gd–Ho–O–Tb–Tm system: 179 accepted literature values (heat capacity / entropy / enthalpy 89, other property 72, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Er–Eu–Gd–Ho–O–Tb–Tm system: 142 accepted literature values (heat capacity / entropy / enthalpy 89, other property 35, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html · Markdown: https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md
 
-179 accepted literature values from 1 paper(s) (model 179); 0 calculated phase diagram(s).
+142 accepted literature values from 1 paper(s) (model 142); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/DY-ER-EU-GD-HO-O-TB-TM.json) · [CSV](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-ER-EU-GD-HO-O-TB-TM) · [Markdown](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/DY-ER-EU-GD-HO-O-TB-TM.json) · [CSV](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-ER-EU-GD-HO-O-TB-TM) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-ER-EU-GD-HO-O-TB-TM.html) · [Markdown](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 179 |
+| model | 142 |
 
 Table: Accepted values by property group
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 |---|---:|
 | formation | 18 |
 | heat capacity / entropy / enthalpy | 89 |
-| other property | 72 |
+| other property | 35 |
 
 ## Formation enthalpies
 
@@ -57,25 +57,25 @@ Table: Heat capacity / entropy / enthalpy, Dy–Er–Eu–Gd–Ho–O–Tb–Tm 
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Δtrs°S_ | 5.546 unknown |  | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 48 |  |
-| Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 51 |  |
-| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 53 |  |
-| Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 52 |  |
-| Entropy; _printed: Δtrs°S_ | 5.451 unknown |  | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 49 |  |
-| Entropy; _printed: Δtrs°S_ | 22.537 unknown |  | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 50 |  |
-| Entropy; _printed: Δtrs°S_ | 5.668 unknown |  | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 47 |  |
-| Entropy; _printed: Δtrs°S_ | 3.8 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 54 |  |
-| Entropy; _printed: Δtrs°S_ | 5.328 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 55 |  |
-| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 56 |  |
-| Entropy; _printed: Δtrs°S_ | 3.8 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 54 |  |
-| Entropy; _printed: Δtrs°S_ | 5.668 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 47 |  |
-| Entropy; _printed: Δtrs°S_ | 5.328 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 55 |  |
-| Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 51 |  |
-| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 56 |  |
-| Entropy; _printed: Δtrs°S_ | 5.546 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 48 |  |
-| Entropy; _printed: Δtrs°S_ | 5.451 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 49 |  |
-| Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 52 |  |
-| Entropy; _printed: Δtrs°S_ | 22.537 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 50 |  |
+| Entropy; _printed: Δtrs°S_ | 5.546 unknown |  | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 28 |  |
+| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40 |  |
+| Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38 |  |
+| Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39 |  |
+| Entropy; _printed: Δtrs°S_ | 22.537 unknown |  | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 34 |  |
+| Entropy; _printed: Δtrs°S_ | 5.451 unknown |  | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 33 |  |
+| Entropy; _printed: Δtrs°S_ | 5.668 unknown |  | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 22 |  |
+| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 46 |  |
+| Entropy; _printed: Δtrs°S_ | 5.328 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 45 |  |
+| Entropy; _printed: Δtrs°S_ | 3.8 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 44 |  |
+| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40 |  |
+| Entropy; _printed: Δtrs°S_ | 22.537 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 34 |  |
+| Entropy; _printed: Δtrs°S_ | 5.451 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 33 |  |
+| Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38 |  |
+| Entropy; _printed: Δtrs°S_ | 5.668 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 22 |  |
+| Entropy; _printed: Δtrs°S_ | 5.328 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 45 |  |
+| Entropy; _printed: Δtrs°S_ | 3.8 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 44 |  |
+| Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39 |  |
+| Entropy; _printed: Δtrs°S_ | 5.546 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 28 |  |
 | Entropy; _printed: °S_ | 142.74 unknown | 298.15 | B-Eu2O3; _alloy: Er 0, Eu 0.4, Gd 0, Ho 0, O 0.6, Tb 0, Tm 0_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
 | Entropy; _printed: °S_ | 142.74 unknown | 298.15 | B-Eu₂O₃; _alloy: Er 0, Eu 0.4, Gd 0, Ho 0, O 0.6, Tb 0, Tm 0_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
 | Entropy; _printed: °S_ | 157.37 unknown | 298.15 | B-Gd2O3; _alloy: Er 0, Eu 0, Gd 0.4, Ho 0, O 0.6, Tb 0, Tm 0_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
@@ -147,84 +147,47 @@ Table: Heat capacity / entropy / enthalpy, Dy–Er–Eu–Gd–Ho–O–Tb–Tm 
 | Entropy; _printed: Δtrs°S_ | 31.284 unknown | 2698 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 43 |  |
 | Entropy; _printed: Δtrs°S_ | 31.284 unknown | 2698 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 43 |  |
 
-### Other property (72)
+### Other property (35)
 
 Table: Other property, Dy–Er–Eu–Gd–Ho–O–Tb–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Transition enthalpy; _printed: Δtrs°H_ | 15637 unknown |  | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 48 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 12464 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 51 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 37614 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 53 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 20703 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 52 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 17131 unknown |  | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 49 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 56969 unknown |  | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 50 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 13027 unknown |  | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 47 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 13968 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 54 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 23031 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 55 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 38019 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 56 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 13968 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 54 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 13027 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 47 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 23031 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 55 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 12464 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 51 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 38019 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 56 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 15637 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 48 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 37614 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 53 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 17131 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 49 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 20703 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 52 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 56969 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 50 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 15637 unknown |  | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 28 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 37614 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 12464 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 20703 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 56969 unknown |  | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 34 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 17131 unknown |  | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 33 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 13027 unknown |  | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 22 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 38019 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 46 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 23031 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 45 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 13968 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 44 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 4395 unknown | 894.5 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 4395 unknown | 894.5 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 5325 unknown | 1425 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 12 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 5325 unknown | 1425 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 12 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 7676 unknown | 1823 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 18 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 7676 unknown | 1823 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 18 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 9255 unknown | 2263 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 24 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 9255 unknown | 2263 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 24 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 3494 unknown | 2323 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 3494 unknown | 2323 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 33748 unknown | 2413 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 33748 unknown | 2413 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 34126 unknown | 2440 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 19 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 34126 unknown | 2440 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 19 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 6300 unknown | 2443 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 13 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 6300 unknown | 2443 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 13 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 9787 unknown | 2458 | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 30 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 9787 unknown | 2458 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 30 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 34448 unknown | 2463 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 25 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 34448 unknown | 2463 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 25 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 34700 unknown | 2481 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 14 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 34700 unknown | 2481 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 14 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 34727 unknown | 2483 | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 31 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 34727 unknown | 2483 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 31 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 11528 unknown | 2523 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 1 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 11619 unknown | 2543 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 11619 unknown | 2543 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 25033 unknown | 2593 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 25033 unknown | 2593 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 105673 unknown | 2608 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 2 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 109282 unknown | 2623 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 25322 unknown | 2623 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 42 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 109282 unknown | 2623 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 25322 unknown | 2623 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 42 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 12031 unknown | 2633 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 15 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 12031 unknown | 2633 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 15 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 12076 unknown | 2643 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 20 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 12076 unknown | 2643 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 20 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 12122 unknown | 2653 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 26 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 12122 unknown | 2653 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 26 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 79051 unknown | 2681 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 27 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 79051 unknown | 2681 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 27 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 75273 unknown | 2683 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 21 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 75273 unknown | 2683 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 21 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 83102 unknown | 2688 | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 32 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 83102 unknown | 2688 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 32 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 87044 unknown | 2691 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 87044 unknown | 2691 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 71702 unknown | 2693 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 16 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 71702 unknown | 2693 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 16 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 84404 unknown | 2698 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 43 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 84404 unknown | 2698 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 43 |  |
 
 ## Sources
 

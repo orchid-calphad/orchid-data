@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MO-NB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NB.json) · [CSV](https://data.orchid-project.org/systems/MO-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-NB/MoNb-04Xio.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MO-NB.html) · [Markdown](https://data.orchid-project.org/systems/MO-NB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NB.json) · [CSV](https://data.orchid-project.org/systems/MO-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-NB/MoNb-04Xio.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MO-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NB.html) · [Markdown](https://data.orchid-project.org/systems/MO-NB.md)
 
 ## Calculated phase diagrams
 

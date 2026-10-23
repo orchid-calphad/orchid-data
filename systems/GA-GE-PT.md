@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-GE-PT.html · Markdown: https:/
 
 99 accepted literature values from 1 paper(s) (experimental 27, model 59, DFT 13); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-GE-PT.json) · [CSV](https://data.orchid-project.org/systems/GA-GE-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-GE-PT) · [Markdown](https://data.orchid-project.org/systems/GA-GE-PT.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-GE-PT.json) · [CSV](https://data.orchid-project.org/systems/GA-GE-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-GE-PT) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-GE-PT.html) · [Markdown](https://data.orchid-project.org/systems/GA-GE-PT.md)
 
 Table: Accepted values by evidence class
 

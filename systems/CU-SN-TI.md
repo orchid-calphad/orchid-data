@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-SN-TI.html · Markdown: https:/
 
 10 accepted literature values from 1 paper(s) (experimental 10); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SN-TI.json) · [CSV](https://data.orchid-project.org/systems/CU-SN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SN-TI) · [Markdown](https://data.orchid-project.org/systems/CU-SN-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SN-TI.json) · [CSV](https://data.orchid-project.org/systems/CU-SN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SN-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SN-TI.html) · [Markdown](https://data.orchid-project.org/systems/CU-SN-TI.md)
 
 Table: Accepted values by evidence class
 

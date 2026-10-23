@@ -16,12 +16,12 @@
  ],
  "exclude": [],
  "n_files": 18199,
- "total_bytes": 114409378,
+ "total_bytes": 114414280,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 10360,
-   "sha256": "5fcbde56869863a69d735632bb6e6c3aaa8adc2a34ba5b843a62434ae51d81fb"
+   "bytes": 12765,
+   "sha256": "dd266eac4d0acf6ccd2e4718c4efa0a50217c4bac5e5251545c9d3ed2eb1c402"
   },
   {
    "path": "LICENSE",
@@ -30,18 +30,18 @@
   },
   {
    "path": "LICENSES.md",
-   "bytes": 752,
-   "sha256": "56c7b4a438df0088405b307a79555b9a5c1f757b769be4a6e27850e5bb43fadc"
+   "bytes": 1131,
+   "sha256": "0d048e36631e39cbb72cac03bb6942ee387ed243d1ccc0d329cd5963edb01586"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 15478,
-   "sha256": "43da981da74f2ea0e22d368a8ae82e71b834358b43f39a62aaf310a671678e46"
+   "bytes": 16186,
+   "sha256": "7dcb2a23f30f09e87310148e46a48f2b13eeb2d397c06d25790c5cb45c3341f5"
   },
   {
    "path": "README.md",
-   "bytes": 5750,
-   "sha256": "ddb3c1a77e12648d117c0329361b858e3aa4c125809527cc377db4b5ae3e3c37"
+   "bytes": 7102,
+   "sha256": "03b4c6793235b19d151d32185d0bd0eff8ace0087b0585bdb9d89c753349b5ab"
   },
   {
    "path": "hulls/CITATION.cff",
@@ -91000,13 +91000,13 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 22899,
-   "sha256": "16595999f6e198a2232be2806fbb22e0570a79c123fb3293ae2c8f9333401d40"
+   "bytes": 22957,
+   "sha256": "660377e712ff1d12b06c6ba3e7d74f2a4f95d5ab1f75518097c1bf23a9ddb84e"
   },
   {
    "path": "parquet/hull_vertices.parquet",
    "bytes": 679954,
-   "sha256": "e2400577fb9d00db84895002b4fec99df2ccc0f7375ce5e6a6cc76bf98e0d114"
+   "sha256": "6e24a0f072d0530d7afde90134e04a3c7757ad8fe6e1119532b957dc37c0256c"
   },
   {
    "path": "zenodo/hulls.metadata.json",

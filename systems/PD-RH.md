@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PD-RH.html · Markdown: https://da
 
 7 accepted literature values from 1 paper(s) (experimental 5, model 2); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RH.json) · [CSV](https://data.orchid-project.org/systems/PD-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-RH/PdRh-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-RH.html) · [Markdown](https://data.orchid-project.org/systems/PD-RH.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RH.json) · [CSV](https://data.orchid-project.org/systems/PD-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-RH/PdRh-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-RH.html) · [Markdown](https://data.orchid-project.org/systems/PD-RH.md)
 
 Table: Accepted values by evidence class
 

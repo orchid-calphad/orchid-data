@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-PR.html · Markdown: https://da
 
 17 accepted literature values from 2 paper(s) (experimental 11, model 6); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MN-PR.json) · [CSV](https://data.orchid-project.org/systems/MN-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-PR/MnPr-09Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/MN-PR.html) · [Markdown](https://data.orchid-project.org/systems/MN-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-PR.json) · [CSV](https://data.orchid-project.org/systems/MN-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-PR/MnPr-09Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/MN-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-PR.html) · [Markdown](https://data.orchid-project.org/systems/MN-PR.md)
 
 Table: Accepted values by evidence class
 

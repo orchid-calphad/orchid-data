@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-IN-SB.html · Markdown: https:/
 
 86 accepted literature values from 1 paper(s) (experimental 31, model 40, DFT 7, unspecified 8); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-IN-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-IN-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-IN-SB) · [Markdown](https://data.orchid-project.org/systems/CA-IN-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-IN-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-IN-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-IN-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-IN-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-IN-SB.md)
 
 Table: Accepted values by evidence class
 

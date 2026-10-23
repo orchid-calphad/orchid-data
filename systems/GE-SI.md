@@ -1,12 +1,12 @@
 # Ge–Si system
 
-> Ge–Si system: 151 accepted literature values (activity / EMF / Gibbs energy 63, crystal structure 48, mixing / partial 39, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Si system: 175 accepted literature values (crystal structure 72, activity / EMF / Gibbs energy 63, mixing / partial 39, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-SI.html · Markdown: https://data.orchid-project.org/systems/GE-SI.md
 
-151 accepted literature values from 3 paper(s) (experimental 102, model 1, unspecified 48); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+175 accepted literature values from 3 paper(s) (experimental 102, model 1, unspecified 72); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SI.json) · [CSV](https://data.orchid-project.org/systems/GE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SI/GeSi-84Ole.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GE-SI.html) · [Markdown](https://data.orchid-project.org/systems/GE-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SI.json) · [CSV](https://data.orchid-project.org/systems/GE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SI/GeSi-84Ole.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GE-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-SI.html) · [Markdown](https://data.orchid-project.org/systems/GE-SI.md)
 
 Table: Accepted values by evidence class
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 102 |
 | model | 1 |
-| unspecified | 48 |
+| unspecified | 72 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | phase transition | 1 |
 | mixing / partial | 39 |
 | activity / EMF / Gibbs energy | 63 |
-| crystal structure | 48 |
+| crystal structure | 72 |
 
 ## Calculated phase diagrams
 
@@ -164,7 +164,7 @@ Table: Activity / EMF / Gibbs energy, Ge–Si system
 | Gibbs energy; _printed: Gex_ | 0.89 kJ/mol | 1723 | liquid; _alloy: Ge 0.8, Si 0.2_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 3 |  |
 | Gibbs energy; _printed: Gex_ | 1.35 kJ/mol | 1723 | liquid; _alloy: Ge 0.6, Si 0.4_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 5 |  |
 
-### Crystal structure (48)
+### Crystal structure (72)
 
 Table: Crystal structure, Ge–Si system
 
@@ -197,6 +197,30 @@ Table: Crystal structure, Ge–Si system
 | Lattice a | 0.55373 nm | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
 | Lattice c | 0.2692 nm | 298.15 | Ge; _alloy: Si 0_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 3 |  |
 | Lattice c | 0.2585 nm | 298.15 | Si; _alloy: Si 1_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 4 |  |
+| lattice difference at at 25 c | 1.7 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 11 |  |
+| lattice difference at at 25 c | 1.4 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 10 |  |
+| lattice difference at at 25 c | 2.6 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 9 |  |
+| lattice difference at at 25 c | 4.2 10^-4 nm | 473.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 13 |  |
+| lattice difference at at 25 c | 5.4 10^-4 nm | 473.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 12 |  |
+| lattice difference at at 25 c | 3.7 10^-4 nm | 473.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 14 |  |
+| lattice difference at at 25 c | 8.2 10^-4 nm | 573.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 15 |  |
+| lattice difference at at 25 c | 6.1 10^-4 nm | 573.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 17 |  |
+| lattice difference at at 25 c | 6.2 10^-4 nm | 573.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 16 |  |
+| lattice difference at at 25 c | 8.5 10^-4 nm | 673.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 20 |  |
+| lattice difference at at 25 c | 11.4 10^-4 nm | 673.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 18 |  |
+| lattice difference at at 25 c | 8.6 10^-4 nm | 673.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 19 |  |
+| lattice difference at at 25 c | 11.6 10^-4 nm | 773.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 22 |  |
+| lattice difference at at 25 c | 11.3 10^-4 nm | 773.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 23 |  |
+| lattice difference at at 25 c | 14.3 10^-4 nm | 773.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 21 |  |
+| lattice difference at at 25 c | 14 10^-4 nm | 873.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 25 |  |
+| lattice difference at at 25 c | 17.7 10^-4 nm | 873.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 24 |  |
+| lattice difference at at 25 c | 13.1 10^-4 nm | 873.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 26 |  |
+| lattice difference at at 25 c | 20.4 10^-4 nm | 973.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 27 |  |
+| lattice difference at at 25 c | 16 10^-4 nm | 973.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 29 |  |
+| lattice difference at at 25 c | 16.6 10^-4 nm | 973.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 28 |  |
+| lattice difference at at 25 c | 19.7 10^-4 nm | 1073.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 31 |  |
+| lattice difference at at 25 c | 17.6 10^-4 nm | 1073.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 32 |  |
+| lattice difference at at 25 c | 23.4 10^-4 nm | 1073.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 30 |  |
 | lattice unspecified axis | 0.5596 nm | 298.15 | UNKNOWN; _alloy: Ge 0.75, Si 0.25_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 6 |  |
 | lattice unspecified axis | 0.55842 nm | 298.15 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 7 |  |
 | lattice unspecified axis | 0.55261 nm | 298.15 | UNKNOWN; _alloy: Ge 0.45, Si 0.55_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 12 |  |

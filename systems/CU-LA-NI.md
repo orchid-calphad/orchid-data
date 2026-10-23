@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-LA-NI.html · Markdown: https:/
 
 37 accepted literature values from 1 paper(s) (unspecified 37); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/CU-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-LA-NI) · [Markdown](https://data.orchid-project.org/systems/CU-LA-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/CU-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-LA-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/CU-LA-NI.md)
 
 Table: Accepted values by evidence class
 

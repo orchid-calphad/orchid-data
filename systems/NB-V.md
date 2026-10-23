@@ -1,18 +1,18 @@
 # Nb–V system
 
-> Nb–V system: 56 accepted literature values (phase equilibrium 48, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–V system: 36 accepted literature values (phase equilibrium 28, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-V.html · Markdown: https://data.orchid-project.org/systems/NB-V.md
 
-56 accepted literature values from 1 paper(s) (experimental 51, model 5); 2 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 31, model 5); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NB-V.json) · [CSV](https://data.orchid-project.org/systems/NB-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-V/NbV-18Gao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NB-V.html) · [Markdown](https://data.orchid-project.org/systems/NB-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NB-V.json) · [CSV](https://data.orchid-project.org/systems/NB-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-V/NbV-18Gao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NB-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-V.html) · [Markdown](https://data.orchid-project.org/systems/NB-V.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 51 |
+| experimental | 31 |
 | model | 5 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 8 |
-| phase equilibrium | 48 |
+| phase equilibrium | 28 |
 
 ## Calculated phase diagrams
 
@@ -52,52 +52,32 @@ Table: Phase transition, Nb–V system
 | Phase transition | 2133.15 K | 2133.15 | congruent transformation | experimental | [1] Gao 2018; _cites Rudy 1969_ | p. 1 | “In this phase diagram, at 1860 C and 78 at.% V there exists a minimum congruent melting point, and the solid phase is a continuous solid solution consisting of Nb and V in the body centered cubic structure (BCC_A2).” |
 | Phase transition | 2140.15 K | 2140.15 | congruent transformation | model | [1] Gao 2018 | p. 6 | “The minimum point of the congruent melting alloy and the critical point of the miscibility gap are calculated, which are 1867 C at 78 at.% V and 804 C at 50 at.% V, respectively.” |
 
-### Phase equilibrium (48)
+### Phase equilibrium (28)
 
 Table: Phase equilibrium, Nb–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 6.000e-4, V 0.9994_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 18 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 3.900e-4, V 0.99961_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 14 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 6.220e-4, V 0.999378_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 18 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.480e-4, V 0.999452_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 14 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.994446, V 0.005554_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 1 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 3.630e-4, V 0.999637_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 16 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.180e-4, V 0.999482_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 19 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 6.220e-4, V 0.999378_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 18 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.98376, V 0.01624_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 6 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 4.170e-4, V 0.999583_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 15 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.902035, V 0.097965_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 5 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.988651, V 0.011349_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 5 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.991525, V 0.008475_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 3 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.001017, V 0.998983_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 15 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.480e-4, V 0.999452_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 14 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 2.340e-4, V 0.999766_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 20 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 4.950e-4, V 0.999505_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 20 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.002046, V 0.997954_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 13 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.43966, V 0.56034_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 11 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.987674, V 0.012326_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 2 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 3.650e-4, V 0.999635_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 16 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.001286, V 0.998714_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 10 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.262006, V 0.737994_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 11 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.993663, V 0.006337_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 2 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.716828, V 0.283172_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 10 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.030517, V 0.969483_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 12 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.98348, V 0.01652_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 3 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.026296, V 0.973704_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 12 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 4.960e-4, V 0.999504_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 19 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.002818, V 0.997182_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 8 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.976593, V 0.023407_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 4 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 3.640e-4, V 0.999636_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 17 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.993663, V 0.006337_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 2 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 4.950e-4, V 0.999505_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 20 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.012385, V 0.987615_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 7 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.963156, V 0.036844_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 8 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.99249, V 0.00751_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 4 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.160e-4, V 0.999484_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 17 |  |
+| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.985822, V 0.014178_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 7 |  |
 | Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.861876, V 0.138124_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 9 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.097968, V 0.902032_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 6 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.988651, V 0.011349_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 5 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.963156, V 0.036844_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 8 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.985822, V 0.014178_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 7 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 5.160e-4, V 0.999484_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 17 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 9.910e-4, V 0.999009_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 13 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.262006, V 0.737994_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 11 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.989958, V 0.010042_ | experimental | [1] Gao 2018 | Table A3, p. 7, row 1 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.99249, V 0.00751_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 4 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.001673, V 0.998327_ | experimental | [1] Gao 2018 | Table A1, p. 7, row 9 |  |
-| Phase composition |  | 873.15 | UNKNOWN; _UNKNOWN: Nb 0.716828, V 0.283172_ | experimental | [1] Gao 2018 | Table A2, p. 7, row 10 |  |
 | Phase composition |  | 1023.15 | βV; _βV: Nb 0.3599, V 0.6401_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 5 |  |
 | Phase composition |  | 1023.15 | βV; _βV: Nb 0.4137, V 0.5863_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 4 |  |
 | Phase composition |  | 1023.15 | βV; _βV: Nb 0.306, V 0.694_ | experimental | [1] Gao 2018 | Table 2, p. 4, row 6 |  |

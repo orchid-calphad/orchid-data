@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-MN.html · Markdown: https://da
 
 27 accepted literature values from 5 paper(s) (experimental 9, model 18); 7 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN.json) · [CSV](https://data.orchid-project.org/systems/FE-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-MN/FeMn-04Wit.json) · [phases (9)](https://data.orchid-project.org/phases/pages/FE-MN.html) · [Markdown](https://data.orchid-project.org/systems/FE-MN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN.json) · [CSV](https://data.orchid-project.org/systems/FE-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-MN/FeMn-04Wit.json) · [phases (9)](https://data.orchid-project.org/phases/pages/FE-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-MN.html) · [Markdown](https://data.orchid-project.org/systems/FE-MN.md)
 
 Table: Accepted values by evidence class
 

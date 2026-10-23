@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-U.html · Markdown: https://dat
 
 139 accepted literature values from 2 paper(s) (experimental 131, model 8); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-U.json) · [CSV](https://data.orchid-project.org/systems/BI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-U/BiU-11Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-U.html) · [Markdown](https://data.orchid-project.org/systems/BI-U.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-U.json) · [CSV](https://data.orchid-project.org/systems/BI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-U/BiU-11Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-U.html) · [Markdown](https://data.orchid-project.org/systems/BI-U.md)
 
 Table: Accepted values by evidence class
 

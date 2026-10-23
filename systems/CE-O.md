@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-O.html · Markdown: https://dat
 
 69 accepted literature values from 2 paper(s) (experimental 36, model 23, unspecified 10); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CE-O.json) · [CSV](https://data.orchid-project.org/systems/CE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-O/CeO-06Zin.json) · [phases (19)](https://data.orchid-project.org/phases/pages/CE-O.html) · [Markdown](https://data.orchid-project.org/systems/CE-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CE-O.json) · [CSV](https://data.orchid-project.org/systems/CE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-O/CeO-06Zin.json) · [phases (19)](https://data.orchid-project.org/phases/pages/CE-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-O.html) · [Markdown](https://data.orchid-project.org/systems/CE-O.md)
 
 Table: Accepted values by evidence class
 

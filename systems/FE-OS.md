@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-OS.html · Markdown: https://da
 
 5 accepted literature values from 1 paper(s) (unspecified 5); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-OS.json) · [CSV](https://data.orchid-project.org/systems/FE-OS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-OS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-OS/FeOs-83Swa.json) · [phases (4)](https://data.orchid-project.org/phases/pages/FE-OS.html) · [Markdown](https://data.orchid-project.org/systems/FE-OS.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-OS.json) · [CSV](https://data.orchid-project.org/systems/FE-OS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-OS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-OS/FeOs-83Swa.json) · [phases (4)](https://data.orchid-project.org/phases/pages/FE-OS.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-OS.html) · [Markdown](https://data.orchid-project.org/systems/FE-OS.md)
 
 Table: Accepted values by evidence class
 

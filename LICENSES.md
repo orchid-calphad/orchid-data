@@ -11,5 +11,8 @@
 | hulls/dft-mp/ | Materials Project v2026.04.13 | CC BY 4.0 |
 | hulls/dft-oqmd/ | OQMD v1.8 | CC BY 4.0 |
 | hulls/calphad-sgte/ | derived from the SGTE supplement | CC BY 4.0 |
+| espei/ | ORCHID ESPEI datasets (derived from the literature values; DFT from Materials Project and OQMD) | CC BY 4.0 |
+| bibliography/ | Crossref bibliographic metadata (titles, authors, venues, ORCIDs, licences, reference lists) | CC0 (Crossref metadata licence) |
+| bibliography/ | ORCHID-derived fields (roles, evidence counts, relations, systems, DOI checks) | CC BY 4.0 |
 
 Full attributions, citations and statements of changes: NOTICE.md.

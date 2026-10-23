@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GD-NI.html · Markdown: https://da
 
 77 accepted literature values from 2 paper(s) (experimental 55, model 19, unspecified 3); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GD-NI.json) · [CSV](https://data.orchid-project.org/systems/GD-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-NI/GdNi-15Rah.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GD-NI.html) · [Markdown](https://data.orchid-project.org/systems/GD-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GD-NI.json) · [CSV](https://data.orchid-project.org/systems/GD-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-NI/GdNi-15Rah.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GD-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-NI.html) · [Markdown](https://data.orchid-project.org/systems/GD-NI.md)
 
 Table: Accepted values by evidence class
 

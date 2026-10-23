@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-CU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-CU/AuCu-98Sun-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AU-CU.html) · [Markdown](https://data.orchid-project.org/systems/AU-CU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-CU/AuCu-98Sun-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AU-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-CU.html) · [Markdown](https://data.orchid-project.org/systems/AU-CU.md)
 
 ## Calculated phase diagrams
 

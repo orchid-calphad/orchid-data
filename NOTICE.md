@@ -209,6 +209,15 @@ sources therefore carry different `reference.kind` values
 live under separate layers, and the query module refuses to compare them without
 an explicit declared conversion.
 
+### Crossref bibliographic metadata — CC0 (derived data, `bibliography/`)
+
+The ORCHID bibliography (`bibliography/`) carries bibliographic metadata retrieved read-only from the Crossref REST
+API (https://api.crossref.org/works/<doi>, retrieval dates in each record): titles, authors and ORCID iDs, venues,
+volumes, pages, publication dates, licence URLs, citation counts and publisher-deposited reference lists. Crossref
+makes this metadata available without restriction (CC0; https://www.crossref.org/documentation/retrieve-metadata/rest-api/).
+No abstracts, full text or PDFs are kept or redistributed. ORCHID-derived fields (roles, evidence counts, typed
+relations, systems, DOI checks) are CC BY 4.0.
+
 ## Fetched from source, not redistributed here
 
 `scripts/fetch_sources.py` downloads these files directly on the user's

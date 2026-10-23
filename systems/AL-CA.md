@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-CA.html · Markdown: https://da
 
 349 accepted literature values from 5 paper(s) (experimental 93, model 99, DFT 127, unspecified 30); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CA.json) · [CSV](https://data.orchid-project.org/systems/AL-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CA/AlCa-01Kev-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-CA.html) · [Markdown](https://data.orchid-project.org/systems/AL-CA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CA.json) · [CSV](https://data.orchid-project.org/systems/AL-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CA/AlCa-01Kev-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CA.html) · [Markdown](https://data.orchid-project.org/systems/AL-CA.md)
 
 Table: Accepted values by evidence class
 

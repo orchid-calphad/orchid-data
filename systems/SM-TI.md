@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SM-TI.html · Markdown: https://da
 
 55 accepted literature values from 1 paper(s) (experimental 1, model 5, DFT 42, unspecified 7); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SM-TI.json) · [CSV](https://data.orchid-project.org/systems/SM-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SM-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SM-TI/SmTi-21Sae.json) · [phases (5)](https://data.orchid-project.org/phases/pages/SM-TI.html) · [Markdown](https://data.orchid-project.org/systems/SM-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SM-TI.json) · [CSV](https://data.orchid-project.org/systems/SM-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SM-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SM-TI/SmTi-21Sae.json) · [phases (5)](https://data.orchid-project.org/phases/pages/SM-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SM-TI.html) · [Markdown](https://data.orchid-project.org/systems/SM-TI.md)
 
 Table: Accepted values by evidence class
 

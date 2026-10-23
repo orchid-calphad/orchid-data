@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MN-ZN.html · Markdown: https://da
 
 97 accepted literature values from 2 paper(s) (experimental 58, model 39); 4 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MN-ZN.json) · [CSV](https://data.orchid-project.org/systems/MN-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-ZN/MnZn-04Mie.json) · [phases (14)](https://data.orchid-project.org/phases/pages/MN-ZN.html) · [Markdown](https://data.orchid-project.org/systems/MN-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-ZN.json) · [CSV](https://data.orchid-project.org/systems/MN-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-ZN/MnZn-04Mie.json) · [phases (14)](https://data.orchid-project.org/phases/pages/MN-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-ZN.html) · [Markdown](https://data.orchid-project.org/systems/MN-ZN.md)
 
 Table: Accepted values by evidence class
 

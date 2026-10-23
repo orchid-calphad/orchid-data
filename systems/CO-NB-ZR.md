@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-NB-ZR.html · Markdown: https:/
 
 82 accepted literature values from 1 paper(s) (experimental 75, model 7); 0 calculated phase diagram(s). 48 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-NB-ZR.json) · [CSV](https://data.orchid-project.org/systems/CO-NB-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-NB-ZR) · [Markdown](https://data.orchid-project.org/systems/CO-NB-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-NB-ZR.json) · [CSV](https://data.orchid-project.org/systems/CO-NB-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-NB-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-NB-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CO-NB-ZR.md)
 
 Table: Accepted values by evidence class
 

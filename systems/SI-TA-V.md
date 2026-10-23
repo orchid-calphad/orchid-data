@@ -1,18 +1,18 @@
 # Si–Ta–V system
 
-> Si–Ta–V system: 218 accepted literature values (formation 136, crystal structure 82) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Ta–V system: 224 accepted literature values (formation 136, crystal structure 88) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TA-V.html · Markdown: https://data.orchid-project.org/systems/SI-TA-V.md
 
-218 accepted literature values from 1 paper(s) (experimental 74, model 72, DFT 24, unspecified 48); 0 calculated phase diagram(s).
+224 accepted literature values from 1 paper(s) (experimental 80, model 72, DFT 24, unspecified 48); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA-V.json) · [CSV](https://data.orchid-project.org/systems/SI-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA-V) · [Markdown](https://data.orchid-project.org/systems/SI-TA-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA-V.json) · [CSV](https://data.orchid-project.org/systems/SI-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TA-V.html) · [Markdown](https://data.orchid-project.org/systems/SI-TA-V.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 74 |
+| experimental | 80 |
 | model | 72 |
 | DFT | 24 |
 | unspecified | 48 |
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | formation | 136 |
-| crystal structure | 82 |
+| crystal structure | 88 |
 
 ## Formation enthalpies
 
@@ -171,7 +171,7 @@ Table: Enthalpies of formation, Si–Ta–V system (136)
 
 ## Other properties
 
-### Crystal structure (82)
+### Crystal structure (88)
 
 Table: Crystal structure, Si–Ta–V system
 
@@ -220,6 +220,10 @@ Table: Crystal structure, Si–Ta–V system
 | Lattice a | 0.505 nm | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28 |  |
 | Lattice a | 0.5 not_printed ± 0.003 | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27 |  |
 | Lattice a | 0.3303 nm | 300 | (Ta); _alloy: Ta 1, V 0_ | experimental | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 48 |  |
+| Lattice a | 0.3315 nm (range 0.3305 to 0.3325) | 300 | (Ta1−xVx) | experimental | [1] Broz 2013; _cites Rudy 1969_ | Table 1, p. 3, row 49 |  |
+| Lattice a | 0.467 nm (range 0.4574 to 0.4766) | 300 | (Ta1−xVx)Si2 | experimental | [1] Broz 2013; _cites Nowotny 1957_ [doi](https://doi.org/10.1007/bf00901624) | Table 1, p. 3, row 52 |  |
+| Lattice a | 0.30266 nm (range 0.30232 to 0.303) | 300 | (V1−xSix) | experimental | [1] Broz 2013; _cites Bruning 1967_ | Table 1, p. 3, row 50 |  |
+| Lattice a | 0.72945 nm (range 0.71976 to 0.73914) | 300 | τ1-(TaxV1−x)5Si3; _alloy: Ta 0.2, V 0.2_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 51 |  |
 | Lattice a | 0.7151 not_printed ± 1.000e-5 | 1773.15 | UNKNOWN | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 31 |  |
 | Lattice b | 1.6012 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 43 |  |
 | Lattice b | 1.5897 nm | 0 | V6Si5; _alloy: Ta 0, V 0.545455_ | DFT | [1] Broz 2013 | Table 1, p. 3, row 45 |  |
@@ -259,6 +263,8 @@ Table: Crystal structure, Si–Ta–V system
 | Lattice c | 0.6374 nm | 298.15 | VSi2; _alloy: Ta 0, V 0.333333_ | unspecified | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
 | Lattice c | 0.823 nm | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Mittal 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990091-7) | Table 1, p. 3, row 28 |  |
 | Lattice c | 0.826 not_printed | 298.15 | τ2-Ta(TaVSi)2; _alloy: Ta 0.5, V 0.25_ | experimental | [1] Broz 2013; _cites Ganglberger 1965_ [doi](https://doi.org/10.1007/bf00902104) | Table 1, p. 3, row 27 |  |
+| Lattice c | 0.6453 nm (range 0.6357 to 0.6549) | 300 | (Ta1−xVx)Si2 | experimental | [1] Broz 2013; _cites Nowotny 1957_ [doi](https://doi.org/10.1007/bf00901624) | Table 1, p. 3, row 52 |  |
+| Lattice c | 0.495205 nm (range 0.48906 to 0.50135) | 300 | τ1-(TaxV1−x)5Si3; _alloy: Ta 0.2, V 0.2_ | experimental | [1] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 51 |  |
 
 ## Sources
 

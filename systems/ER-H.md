@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-H.html · Markdown: https://dat
 
 17 accepted literature values from 1 paper(s) (experimental 17); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ER-H.json) · [CSV](https://data.orchid-project.org/systems/ER-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-H/ErH-13Mas.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ER-H.html) · [Markdown](https://data.orchid-project.org/systems/ER-H.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-H.json) · [CSV](https://data.orchid-project.org/systems/ER-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-H/ErH-13Mas.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ER-H.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-H.html) · [Markdown](https://data.orchid-project.org/systems/ER-H.md)
 
 Table: Accepted values by evidence class
 

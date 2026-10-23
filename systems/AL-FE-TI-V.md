@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-FE-TI-V.html · Markdown: https
 
 7 accepted literature values from 1 paper(s) (experimental 7); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-TI-V.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-TI-V) · [Markdown](https://data.orchid-project.org/systems/AL-FE-TI-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-TI-V.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-TI-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-TI-V.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-TI-V.md)
 
 Table: Accepted values by evidence class
 

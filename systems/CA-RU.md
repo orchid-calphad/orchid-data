@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-RU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-RU/CaRu-96Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-RU.html) · [Markdown](https://data.orchid-project.org/systems/CA-RU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-RU/CaRu-96Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-RU.html) · [Markdown](https://data.orchid-project.org/systems/CA-RU.md)
 
 ## Calculated phase diagrams
 

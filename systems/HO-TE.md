@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HO-TE.html · Markdown: https://da
 
 48 accepted literature values from 2 paper(s) (experimental 25, model 13, DFT 10); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HO-TE.json) · [CSV](https://data.orchid-project.org/systems/HO-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-TE/HoTe-13Gha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HO-TE.html) · [Markdown](https://data.orchid-project.org/systems/HO-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HO-TE.json) · [CSV](https://data.orchid-project.org/systems/HO-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-TE/HoTe-13Gha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HO-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-TE.html) · [Markdown](https://data.orchid-project.org/systems/HO-TE.md)
 
 Table: Accepted values by evidence class
 

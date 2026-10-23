@@ -62,6 +62,14 @@ configs:
   data_files:
   - split: full
     path: assessed-phase-assemblages/records.parquet
+- config_name: bibliography_papers
+  data_files:
+  - split: full
+    path: bibliography/papers.parquet
+- config_name: bibliography_edges
+  data_files:
+  - split: full
+    path: bibliography/edges.parquet
 dataset_info:
 - config_name: literature_values
   features:
@@ -317,6 +325,10 @@ dataset_info:
     list: string
   - name: reader_tier
     dtype: string
+  - name: reader_agreement
+    dtype: string
+  - name: reader_agreement_label
+    dtype: string
   - name: tool_release
     dtype: string
   - name: release
@@ -325,8 +337,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 76432
-  download_size: 6067938
+    num_examples: 77540
+  download_size: 6136691
 - config_name: papers
   features:
   - name: id
@@ -361,8 +373,8 @@ dataset_info:
     dtype: int32
   splits:
   - name: full
-    num_examples: 4877
-  download_size: 529209
+    num_examples: 4881
+  download_size: 529595
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -531,8 +543,8 @@ dataset_info:
     dtype: bool
   splits:
   - name: full
-    num_examples: 7826
-  download_size: 270741
+    num_examples: 7888
+  download_size: 272193
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -720,7 +732,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 10496
-  download_size: 451681
+  download_size: 451691
 - config_name: structure_types
   features:
   - name: id
@@ -835,6 +847,136 @@ dataset_info:
   - name: full
     num_examples: 23131
   download_size: 1659123
+- config_name: bibliography_papers
+  features:
+  - name: id
+    dtype: string
+  - name: key
+    dtype: string
+  - name: doi
+    dtype: string
+  - name: no_doi
+    dtype: bool
+  - name: title
+    dtype: string
+  - name: authors
+    dtype: string
+  - name: orcids
+    dtype: string
+  - name: container_title
+    dtype: string
+  - name: volume
+    dtype: string
+  - name: issue
+    dtype: string
+  - name: pages
+    dtype: string
+  - name: year
+    dtype: int64
+  - name: publisher
+    dtype: string
+  - name: type
+    dtype: string
+  - name: metadata_source
+    dtype: string
+  - name: citation
+    dtype: string
+  - name: systems
+    dtype: string
+  - name: roles
+    dtype: string
+  - name: tdb_files
+    dtype: string
+  - name: handbook_systems
+    dtype: string
+  - name: discovery_rank
+    dtype: int64
+  - name: values_reported
+    dtype: int64
+  - name: values_reported_accepted
+    dtype: int64
+  - name: values_reported_experimental
+    dtype: int64
+  - name: values_reported_model
+    dtype: int64
+  - name: values_reported_dft
+    dtype: int64
+  - name: values_reported_unspecified
+    dtype: int64
+  - name: values_cited
+    dtype: int64
+  - name: values_cited_accepted
+    dtype: int64
+  - name: property_groups
+    dtype: string
+  - name: properties
+    dtype: string
+  - name: n_tables
+    dtype: int64
+  - name: n_text_passages
+    dtype: int64
+  - name: n_espei_datasets
+    dtype: int64
+  - name: n_phase_registry_phases
+    dtype: int64
+  - name: n_assessed_assemblage_records
+    dtype: int64
+  - name: open_access_license
+    dtype: string
+  - name: license_urls
+    dtype: string
+  - name: is_referenced_by_count
+    dtype: int64
+  - name: is_referenced_by_count_retrieved
+    dtype: string
+  - name: crossref_status
+    dtype: string
+  - name: doi_match
+    dtype: string
+  - name: read_by_orchid
+    dtype: string
+  - name: edges_out
+    dtype: int64
+  - name: edges_in
+    dtype: int64
+  - name: json_url
+    dtype: string
+  - name: html_url
+    dtype: string
+  splits:
+  - name: full
+    num_examples: 9569
+  download_size: 1538014
+- config_name: bibliography_edges
+  features:
+  - name: id
+    dtype: string
+  - name: type
+    dtype: string
+  - name: src
+    dtype: string
+  - name: dst
+    dtype: string
+  - name: src_kind
+    dtype: string
+  - name: dst_kind
+    dtype: string
+  - name: count
+    dtype: int64
+  - name: provenance_source
+    dtype: string
+  - name: provenance_dataset
+    dtype: string
+  - name: provenance_method
+    dtype: string
+  - name: systems
+    dtype: string
+  - name: attrs
+    dtype: string
+  splits:
+  - name: full
+    num_examples: 60237
+  download_size: 1082066
 ---
 
 # ORCHID data: analysis-ready tables
@@ -846,33 +988,38 @@ describes the Parquet tables in `parquet/` and `phases/`. They are derived from 
 `phase-diagrams/`, `hulls/` and `phases/` of the same release and add nothing to them; the JSON stays the reference
 format.
 
-- Release: **v2026.10** (version 2026.10; literature record store `orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)`)
+- Release: **v2026.10** (version 2026.10; literature record store `orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v2.1.19r, text+context fixup-20261022)`)
 - Status: **Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.**
-- Zenodo: six citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data): literature values (doi:10.5281/zenodo.PENDING-literature),
+- Zenodo: eight citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data): literature values (doi:10.5281/zenodo.PENDING-literature),
   calculated binary phase diagrams (doi:10.5281/zenodo.PENDING-phase-diagrams), binary convex hulls (doi:10.5281/zenodo.PENDING-hulls), DFT-vs-experiment formation-enthalpy
   benchmark (doi:10.5281/zenodo.PENDING-dft-benchmark), phase registry (binary systems)
   (doi:10.5281/zenodo.PENDING-phase-registry), assessed phase assemblages (binary systems)
-  (doi:10.5281/zenodo.PENDING-assessed-phase-assemblages)
+  (doi:10.5281/zenodo.PENDING-assessed-phase-assemblages), ESPEI datasets from the literature
+  (doi:10.5281/zenodo.PENDING-espei), bibliography (doi:10.5281/zenodo.PENDING-bibliography)
 - Homepage: <https://orchid-project.org> · data: <https://data.orchid-project.org>
 - Field reference: `literature/SCHEMA.md`, hull format: `hulls/` (interval schema v1)
 - Builder: `tools/build_parquet.py` in the `orchid-project.org` repository (deterministic, `--check`); the
   `phases` and `structure_types` tables: `tools/build_phase_registry.py` (deterministic, `--check`; field reference
   `phases/SCHEMA.md`); the `assessed_phase_assemblages` table: `tools/build_assessed_assemblages.py` (deterministic,
-  `--check`; field reference `assessed-phase-assemblages/SCHEMA.md`)
+  `--check`; field reference `assessed-phase-assemblages/SCHEMA.md`); the `bibliography_papers` and
+  `bibliography_edges` tables: `tools/build_bibliography.py` (deterministic, `--check`; field reference
+  `bibliography/SCHEMA.md`)
 
 ## Tables
 
 | config | rows | content |
 |---|---:|---|
-| `literature_values` | 76,432 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, ML split |
-| `papers` | 4,877 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
+| `literature_values` | 77,540 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, ML split |
+| `papers` | 4,881 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
 | `experimental_context` | 1,504 | samples, heat treatments and measurements of 225 papers, each with its quote and page |
-| `dft_parity` | 7,826 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
+| `dft_parity` | 7,888 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
 | `phase_diagram_invariants` | 24,828 | invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions |
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
 | `phases` | 10,496 | phase registry: one row per phase of each of 1,241 binary systems (`phases/registry.parquet`) |
 | `assessed_phase_assemblages` | 23,131 | one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary diagrams compiled in Okamoto's Desk Handbook, with the assemblage, registry ids, basis, confidence and SGTE cross-check (`assessed-phase-assemblages/records.parquet`) |
+| `bibliography_papers` | 9,569 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
+| `bibliography_edges` | 60,237 | typed relations between papers, TDB files and handbook diagrams, with provenance (`bibliography/edges.parquet`) |
 | `structure_types` | 1,563 | structure types used by the registry: prototype, Strukturbericht, Pearson symbol, space group, sources (`phases/structure_types.parquet`) |
 
 ### Phase registry tables (`phases`, `structure_types`)
@@ -914,6 +1061,15 @@ drawn line: drawing-based, low credence), `tie_line_*` (two-phase rows only, dra
 first) and `handbook_page_pdf`. Full records, exclusions and ESPEI ZPF datasets are in `assessed-phase-assemblages/`
 (field reference `SCHEMA.md` there).
 
+### Bibliography tables (`bibliography_papers`, `bibliography_edges`)
+
+`bibliography_papers`: one row per paper (stable `id`: `doi:<doi>` or `nodoi:<hash>`), Crossref metadata, roles,
+value counts; `bibliography_edges`: one row per typed relation (stable `id`), `src`/`dst` paper ids, provenance.
+Join edges to papers on `src`/`dst` = `id`. `doi_match` grades DOIs that upstream matchers found for printed
+references (`verified`, `weak`, `unverifiable`); mismatched DOIs were dropped and are listed in
+`bibliography/DOI_MISMATCHES.md`. Licence: Crossref metadata CC0, ORCHID fields CC BY 4.0. Column descriptions:
+`bibliography/SCHEMA.md` and `bibliography/parquet.json`.
+
 `structure_types` columns: `id`, `prototype`, `prototype_spellings` (`;`), `strukturbericht`, `pearson`,
 `space_group_number`, `space_group_symbol`, `stoichiometry`, `verification` (which source confirms the row),
 `registry_phases` (phases assigned this type), `n_sources`, `source_citations` (` | `-joined), `source_dois` (`;`).
@@ -949,9 +1105,9 @@ D. Shin (Oak Ridge National Laboratory), as part of the ORCHID project.
 equilibrium state: a quantity (`property`, e.g. `INVARIANT_TEMPERATURE`, `TRANSITION_TEMPERATURE`,
 `PHASE_COMPOSITION`, `HM_FORM`, `CPM`, `LATTICE_A`) of a chemical `system`, with the phases involved, the
 temperature and pressure at which it holds, phase compositions (`compositions`, a list of
-`{phase, element, value, basis, source}`), and the reaction for invariants. There are 76,432 values from 1,322
-papers covering 1,390 chemical systems (by number of elements: 519 unary, 55,884 binary, 16,578 ternary and
-3,451 higher-order values), after merging 3,510 exact duplicates (`merged_ids`; see `literature/QUALITY_FIXES.md`).
+`{phase, element, value, basis, source}`), and the reaction for invariants. There are 77,540 values from 1,322
+papers covering 1,391 chemical systems (by number of elements: 841 unary, 56,170 binary, 17,109 ternary and
+3,420 higher-order values), after merging 3,550 exact duplicates (`merged_ids`; see `literature/QUALITY_FIXES.md`).
 
 **Evidence classes.** Every value carries one `evidence_class`, never mixed or averaged:
 `experimental` (36,918), `model` (28,148: computed from a CALPHAD or other thermodynamic model), `dft` (6,162:
@@ -989,6 +1145,13 @@ Claude Opus and, for confirmation or disagreement, Gemini Pro; a judge model cho
 `confirmed_pro` (8,070), `preliminary_flash` (5,872, running text, with the second reader's verdict in
 `flag_value_in_quote` / `second_reader`), `preliminary_flash+claude+fable_judge` (198). A value is accepted only
 on reader agreement plus deterministic checks; `review_flags` lists the codes of checks that fired.
+
+**Reader agreement (tables).** `reader_agreement` says how many independent visual readers carry a table value:
+`multi_reader` ("confirmed (two or more readers)"), `single_reader` ("unconfirmed (single reader)": one visual reader
+read the row and no second reader has confirmed it yet; the data explorer shows a "single reader" badge) or
+`single_reader_text_layer` (one visual reader, every value also printed in the PDF text layer); the human label is in
+`reader_agreement_label`. A blind, independent second Claude read is listed as `claude-opus-5.5#2` in `readers` and
+counts as a second reader. Treat `single_reader` values as unconfirmed.
 
 **Quote verification (running text).** A value read from a sentence is kept only if the sentence is verbatim on
 one page of the PDF and the printed value lies inside it (`link_rule`). The sentence is stored in `quote` with
@@ -1110,7 +1273,8 @@ source of each value (`paper_citation`, `paper_doi`, `cited_dois`). Each `quote`
 under fair use to make the value verifiable; the source papers, page images and full texts are not redistributed.
 Third-party data keep their licences and citations (`NOTICE.md`, `LICENSES.md`): SGTE binary collection, Hallstedt
 2025 (CC BY 4.0); Materials Project, Jain et al., APL Materials 1 (2013) 011002 (CC BY 4.0); OQMD, Saal et al., JOM
-65 (2013) 1501 and Kirklin et al., npj Comput. Mater. 1 (2015) 15010 (CC BY 4.0).
+65 (2013) 1501 and Kirklin et al., npj Comput. Mater. 1 (2015) 15010 (CC BY 4.0). Bibliography: Crossref
+bibliographic metadata CC0 (Crossref metadata licence); ORCHID-derived bibliography fields CC BY 4.0.
 
 The same citation is machine-readable everywhere: a top-level `cite_as` object (text, BibTeX, DOI) in
 `literature/index.json`, every `literature/systems/*.json`, `phase-diagrams/index.json`, the hull catalogs,
@@ -1124,6 +1288,10 @@ Parquet file; `literature/CITATION.txt` beside the CSV; `CITATION.cff` at the to
 | ORCHID calculated binary phase diagrams | `phase_diagram_index`, `phase_diagram_invariants` | 10.5281/zenodo.PENDING-phase-diagrams |
 | ORCHID binary convex hulls (MP, OQMD, assessed CALPHAD) | `hull_vertices` | 10.5281/zenodo.PENDING-hulls |
 | ORCHID DFT-vs-experiment formation-enthalpy benchmark | `dft_parity` | 10.5281/zenodo.PENDING-dft-benchmark |
+| ORCHID phase registry (binary systems) | `phases`, `structure_types` | 10.5281/zenodo.PENDING-phase-registry |
+| ORCHID assessed phase assemblages (binary systems) | `assessed_phase_assemblages` | 10.5281/zenodo.PENDING-assessed-phase-assemblages |
+| ORCHID ESPEI datasets from the literature | (ESPEI JSON in `espei/`; no Parquet table) | 10.5281/zenodo.PENDING-espei |
+| ORCHID bibliography | `bibliography_papers`, `bibliography_edges` | 10.5281/zenodo.PENDING-bibliography |
 | ORCHID data (umbrella) | all | 10.5281/zenodo.PENDING-orchid-data |
 
 ```bibtex

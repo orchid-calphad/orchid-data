@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/EU-GA.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-GA/EuGa-20Li.json) · [phases (11)](https://data.orchid-project.org/phases/pages/EU-GA.html) · [Markdown](https://data.orchid-project.org/systems/EU-GA.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-GA/EuGa-20Li.json) · [phases (11)](https://data.orchid-project.org/phases/pages/EU-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-GA.html) · [Markdown](https://data.orchid-project.org/systems/EU-GA.md)
 
 ## Calculated phase diagrams
 

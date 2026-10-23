@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SB-Y.html · Markdown: https://dat
 
 16 accepted literature values from 1 paper(s) (experimental 8, model 8); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SB-Y.json) · [CSV](https://data.orchid-project.org/systems/SB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-Y/SbY-09Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SB-Y.html) · [Markdown](https://data.orchid-project.org/systems/SB-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SB-Y.json) · [CSV](https://data.orchid-project.org/systems/SB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-Y/SbY-09Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SB-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-Y.html) · [Markdown](https://data.orchid-project.org/systems/SB-Y.md)
 
 Table: Accepted values by evidence class
 

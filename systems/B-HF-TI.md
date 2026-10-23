@@ -1,40 +1,40 @@
 # B–Hf–Ti system
 
-> B–Hf–Ti system: 21 accepted literature values (crystal structure 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Hf–Ti system: 22 accepted literature values (crystal structure 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-HF-TI.html · Markdown: https://data.orchid-project.org/systems/B-HF-TI.md
 
-21 accepted literature values from 1 paper(s) (model 6, unspecified 15); 0 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (model 6, unspecified 16); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/B-HF-TI.json) · [CSV](https://data.orchid-project.org/systems/B-HF-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-HF-TI) · [Markdown](https://data.orchid-project.org/systems/B-HF-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/B-HF-TI.json) · [CSV](https://data.orchid-project.org/systems/B-HF-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-HF-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-HF-TI.html) · [Markdown](https://data.orchid-project.org/systems/B-HF-TI.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
 | model | 6 |
-| unspecified | 15 |
+| unspecified | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 21 |
+| crystal structure | 22 |
 
 ## Other properties
 
-### Crystal structure (21)
+### Crystal structure (22)
 
 Table: Crystal structure, B–Hf–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.309 nm (range 0.2995 to 0.3185) | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1997_ | Table 2, p. 3, row 16 |  |
 | Lattice a | 0.65185 not_printed | 298.15 | HfB; _alloy: Hf 0.5, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
 | Lattice a | 0.31438 not_printed ± 2.000e-5 | 298.15 | HfB2; _alloy: Hf 0.333333, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 7 |  |
 | Lattice a | 0.3259 not_printed | 298.15 | Ti3B4; _alloy: Hf 0, Ti 0.428571_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9 |  |
 | Lattice a | 0.6105 not_printed | 298.15 | TiB; _alloy: Hf 0, Ti 0.5_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 8 |  |
 | Lattice a | 0.3031 not_printed | 298.15 | TiB2; _alloy: Hf 0, Ti 0.333333_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 10 |  |
-| Lattice a | 0.309 nm (range 0.2995 to 0.3185) | 298.15 | UNKNOWN | unspecified | [1] Bittermann 1997; _cites Chang 1997_ | Table 2, p. 3, row 16 |  |
 | Lattice a | 0.2995 not_printed | 298.15 | UNKNOWN | unspecified | [1] Bittermann 1997; _cites Chang 1997_ | Table 2, p. 3, row 11 |  |
 | Lattice a | 0.31946 not_printed | 298.15 | αHf; _alloy: Hf 1, Ti 0_ | model | [1] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 2 |  |
 | Lattice a | 0.29506 not_printed | 298.15 | αTi; _alloy: Hf 0, Ti 1_ | model | [1] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 4 |  |
@@ -43,6 +43,7 @@ Table: Crystal structure, B–Hf–Ti system
 | Lattice b | 0.3216 not_printed | 298.15 | HfB; _alloy: Hf 0.5, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
 | Lattice b | 1.373 not_printed | 298.15 | Ti3B4; _alloy: Hf 0, Ti 0.428571_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9 |  |
 | Lattice b | 0.3048 not_printed | 298.15 | TiB; _alloy: Hf 0, Ti 0.5_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 8 |  |
+| Lattice c | 0.48625 nm (range 0.4685 to 0.504) | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1997_ | Table 2, p. 3, row 16 |  |
 | Lattice c | 0.492 not_printed | 298.15 | HfB; _alloy: Hf 0.5, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
 | Lattice c | 0.34793 not_printed ± 2.000e-5 | 298.15 | HfB2; _alloy: Hf 0.333333, Ti 0_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 7 |  |
 | Lattice c | 0.3042 not_printed | 298.15 | Ti3B4; _alloy: Hf 0, Ti 0.428571_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9 |  |

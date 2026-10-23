@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-FE-ZR.html · Markdown: https:/
 
 40 accepted literature values from 1 paper(s) (experimental 19, model 21); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE-ZR.json) · [CSV](https://data.orchid-project.org/systems/CR-FE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE-ZR) · [Markdown](https://data.orchid-project.org/systems/CR-FE-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE-ZR.json) · [CSV](https://data.orchid-project.org/systems/CR-FE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-FE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CR-FE-ZR.md)
 
 Table: Accepted values by evidence class
 

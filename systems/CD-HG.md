@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-HG.html · Markdown: https://da
 
 6 accepted literature values from 2 paper(s) (experimental 4, model 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-HG.json) · [CSV](https://data.orchid-project.org/systems/CD-HG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-HG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-HG/CdHg-95Yan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-HG.html) · [Markdown](https://data.orchid-project.org/systems/CD-HG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-HG.json) · [CSV](https://data.orchid-project.org/systems/CD-HG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-HG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-HG/CdHg-95Yan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-HG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-HG.html) · [Markdown](https://data.orchid-project.org/systems/CD-HG.md)
 
 Table: Accepted values by evidence class
 

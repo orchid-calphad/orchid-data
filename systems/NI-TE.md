@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-TE.html · Markdown: https://da
 
 51 accepted literature values from 1 paper(s) (experimental 21, model 22, DFT 6, unspecified 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TE.json) · [CSV](https://data.orchid-project.org/systems/NI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TE/NiTe-19Arv.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-TE.html) · [Markdown](https://data.orchid-project.org/systems/NI-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TE.json) · [CSV](https://data.orchid-project.org/systems/NI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TE/NiTe-19Arv.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TE.html) · [Markdown](https://data.orchid-project.org/systems/NI-TE.md)
 
 Table: Accepted values by evidence class
 

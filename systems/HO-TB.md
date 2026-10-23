@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HO-TB.html · Markdown: https://da
 
 2 accepted literature values from 1 paper(s) (experimental 1, model 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HO-TB.json) · [CSV](https://data.orchid-project.org/systems/HO-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-TB/HoTb-00Nor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HO-TB.html) · [Markdown](https://data.orchid-project.org/systems/HO-TB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HO-TB.json) · [CSV](https://data.orchid-project.org/systems/HO-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-TB/HoTb-00Nor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HO-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-TB.html) · [Markdown](https://data.orchid-project.org/systems/HO-TB.md)
 
 Table: Accepted values by evidence class
 

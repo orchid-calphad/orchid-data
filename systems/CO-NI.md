@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-NI.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-NI/CoNi-24Per.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CO-NI.html) · [Markdown](https://data.orchid-project.org/systems/CO-NI.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-NI/CoNi-24Per.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-NI.html) · [Markdown](https://data.orchid-project.org/systems/CO-NI.md)
 
 ## Calculated phase diagrams
 

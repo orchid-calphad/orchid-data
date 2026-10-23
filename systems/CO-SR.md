@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-SR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SR/CoSr-18Hal.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-SR.html) · [Markdown](https://data.orchid-project.org/systems/CO-SR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SR/CoSr-18Hal.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-SR.html) · [Markdown](https://data.orchid-project.org/systems/CO-SR.md)
 
 ## Calculated phase diagrams
 

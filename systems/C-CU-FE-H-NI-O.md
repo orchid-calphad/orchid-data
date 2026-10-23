@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.html · Markdown: h
 
 55 accepted literature values from 2 paper(s) (experimental 55); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/C-CU-FE-H-NI-O.json) · [CSV](https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CU-FE-H-NI-O) · [Markdown](https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-CU-FE-H-NI-O.json) · [CSV](https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CU-FE-H-NI-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-CU-FE-H-NI-O.html) · [Markdown](https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.md)
 
 Table: Accepted values by evidence class
 

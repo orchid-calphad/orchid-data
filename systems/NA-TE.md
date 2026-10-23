@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NA-TE.html · Markdown: https://da
 
 33 accepted literature values from 1 paper(s) (experimental 23, model 10); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NA-TE.json) · [CSV](https://data.orchid-project.org/systems/NA-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-TE/NaTe-14Che.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NA-TE.html) · [Markdown](https://data.orchid-project.org/systems/NA-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NA-TE.json) · [CSV](https://data.orchid-project.org/systems/NA-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-TE/NaTe-14Che.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NA-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-TE.html) · [Markdown](https://data.orchid-project.org/systems/NA-TE.md)
 
 Table: Accepted values by evidence class
 

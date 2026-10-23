@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-NI.html · Markdown: https://da
 
 39 accepted literature values from 1 paper(s) (experimental 25, model 14); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/DY-NI.json) · [CSV](https://data.orchid-project.org/systems/DY-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-NI/DyNi-09Li-newDy.json) · [phases (14)](https://data.orchid-project.org/phases/pages/DY-NI.html) · [Markdown](https://data.orchid-project.org/systems/DY-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/DY-NI.json) · [CSV](https://data.orchid-project.org/systems/DY-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-NI/DyNi-09Li-newDy.json) · [phases (14)](https://data.orchid-project.org/phases/pages/DY-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-NI.html) · [Markdown](https://data.orchid-project.org/systems/DY-NI.md)
 
 Table: Accepted values by evidence class
 

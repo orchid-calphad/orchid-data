@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-RU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-RU/HfRu-21Liu.json) · [phases (5)](https://data.orchid-project.org/phases/pages/HF-RU.html) · [Markdown](https://data.orchid-project.org/systems/HF-RU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-RU/HfRu-21Liu.json) · [phases (5)](https://data.orchid-project.org/phases/pages/HF-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-RU.html) · [Markdown](https://data.orchid-project.org/systems/HF-RU.md)
 
 ## Calculated phase diagrams
 

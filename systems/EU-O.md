@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/EU-O.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-O/EuO-07Zin.json) · [phases (8)](https://data.orchid-project.org/phases/pages/EU-O.html) · [Markdown](https://data.orchid-project.org/systems/EU-O.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-O/EuO-07Zin.json) · [phases (8)](https://data.orchid-project.org/phases/pages/EU-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-O.html) · [Markdown](https://data.orchid-project.org/systems/EU-O.md)
 
 ## Calculated phase diagrams
 

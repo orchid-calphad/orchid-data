@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-NB-SI.html · Markdown: https:/
 
 23 accepted literature values from 1 paper(s) (model 11, DFT 10, unspecified 2); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NB-SI.json) · [CSV](https://data.orchid-project.org/systems/GE-NB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NB-SI) · [Markdown](https://data.orchid-project.org/systems/GE-NB-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NB-SI.json) · [CSV](https://data.orchid-project.org/systems/GE-NB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NB-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-NB-SI.html) · [Markdown](https://data.orchid-project.org/systems/GE-NB-SI.md)
 
 Table: Accepted values by evidence class
 

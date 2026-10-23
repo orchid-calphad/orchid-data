@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-NB-O.html · Markdown: https://
 
 6 accepted literature values from 1 paper(s) (experimental 3, model 3); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NB-O.json) · [CSV](https://data.orchid-project.org/systems/AL-NB-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NB-O) · [Markdown](https://data.orchid-project.org/systems/AL-NB-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NB-O.json) · [CSV](https://data.orchid-project.org/systems/AL-NB-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NB-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NB-O.html) · [Markdown](https://data.orchid-project.org/systems/AL-NB-O.md)
 
 Table: Accepted values by evidence class
 

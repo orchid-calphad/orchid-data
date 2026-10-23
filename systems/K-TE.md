@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/K-TE.html · Markdown: https://dat
 
 11 accepted literature values from 1 paper(s) (experimental 6, model 5); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/K-TE.json) · [CSV](https://data.orchid-project.org/systems/K-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#K-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-TE/KTe-14Che.json) · [phases (9)](https://data.orchid-project.org/phases/pages/K-TE.html) · [Markdown](https://data.orchid-project.org/systems/K-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/K-TE.json) · [CSV](https://data.orchid-project.org/systems/K-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#K-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-TE/KTe-14Che.json) · [phases (9)](https://data.orchid-project.org/phases/pages/K-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/K-TE.html) · [Markdown](https://data.orchid-project.org/systems/K-TE.md)
 
 Table: Accepted values by evidence class
 

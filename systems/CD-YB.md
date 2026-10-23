@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-YB.html · Markdown: https://da
 
 44 accepted literature values from 1 paper(s) (experimental 27, model 17); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-YB.json) · [CSV](https://data.orchid-project.org/systems/CD-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-YB/CdYb-17Kal.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CD-YB.html) · [Markdown](https://data.orchid-project.org/systems/CD-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-YB.json) · [CSV](https://data.orchid-project.org/systems/CD-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-YB/CdYb-17Kal.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CD-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-YB.html) · [Markdown](https://data.orchid-project.org/systems/CD-YB.md)
 
 Table: Accepted values by evidence class
 

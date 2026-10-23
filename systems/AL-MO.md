@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-MO.html · Markdown: https://da
 
 252 accepted literature values from 6 paper(s) (experimental 99, model 86, unspecified 67); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MO.json) · [CSV](https://data.orchid-project.org/systems/AL-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MO/AlMo-09Du.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-MO.html) · [Markdown](https://data.orchid-project.org/systems/AL-MO.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MO.json) · [CSV](https://data.orchid-project.org/systems/AL-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MO/AlMo-09Du.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MO.html) · [Markdown](https://data.orchid-project.org/systems/AL-MO.md)
 
 Table: Accepted values by evidence class
 

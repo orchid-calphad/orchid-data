@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AU-SN.html · Markdown: https://da
 
 103 accepted literature values from 6 paper(s) (experimental 35, model 53, DFT 3, unspecified 12); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SN/AuSn-03Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SN/AuSn-03Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-SN.md)
 
 Table: Accepted values by evidence class
 

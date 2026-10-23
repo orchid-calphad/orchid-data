@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PD-RH-RU.html · Markdown: https:/
 
 34 accepted literature values from 1 paper(s) (DFT 34); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RH-RU.json) · [CSV](https://data.orchid-project.org/systems/PD-RH-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RH-RU) · [Markdown](https://data.orchid-project.org/systems/PD-RH-RU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RH-RU.json) · [CSV](https://data.orchid-project.org/systems/PD-RH-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RH-RU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-RH-RU.html) · [Markdown](https://data.orchid-project.org/systems/PD-RH-RU.md)
 
 Table: Accepted values by evidence class
 

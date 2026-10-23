@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LI-MN.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-MN/LiMn-18Lon.json) · [phases (6)](https://data.orchid-project.org/phases/pages/LI-MN.html) · [Markdown](https://data.orchid-project.org/systems/LI-MN.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-MN/LiMn-18Lon.json) · [phases (6)](https://data.orchid-project.org/phases/pages/LI-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-MN.html) · [Markdown](https://data.orchid-project.org/systems/LI-MN.md)
 
 ## Calculated phase diagrams
 

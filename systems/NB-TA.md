@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NB-TA.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-TA/NbTa-02Har.json) · [phases (5)](https://data.orchid-project.org/phases/pages/NB-TA.html) · [Markdown](https://data.orchid-project.org/systems/NB-TA.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-TA/NbTa-02Har.json) · [phases (5)](https://data.orchid-project.org/phases/pages/NB-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-TA.html) · [Markdown](https://data.orchid-project.org/systems/NB-TA.md)
 
 ## Calculated phase diagrams
 

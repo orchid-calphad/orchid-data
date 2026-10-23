@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-ZR.html · Markdown: https://da
 
 142 accepted literature values from 1 paper(s) (experimental 89, model 3, unspecified 50); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-ZR.json) · [CSV](https://data.orchid-project.org/systems/GA-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-ZR/GaZr-14Luo.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GA-ZR.html) · [Markdown](https://data.orchid-project.org/systems/GA-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-ZR.json) · [CSV](https://data.orchid-project.org/systems/GA-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-ZR/GaZr-14Luo.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GA-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-ZR.html) · [Markdown](https://data.orchid-project.org/systems/GA-ZR.md)
 
 Table: Accepted values by evidence class
 

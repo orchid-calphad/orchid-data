@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PT-TA.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-TA/PtTa-98Spe.json) · [phases (9)](https://data.orchid-project.org/phases/pages/PT-TA.html) · [Markdown](https://data.orchid-project.org/systems/PT-TA.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-TA/PtTa-98Spe.json) · [phases (9)](https://data.orchid-project.org/phases/pages/PT-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PT-TA.html) · [Markdown](https://data.orchid-project.org/systems/PT-TA.md)
 
 ## Calculated phase diagrams
 

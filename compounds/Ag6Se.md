@@ -1,20 +1,22 @@
 # Ag6Se: enthalpy of formation
 
-> Enthalpy of formation of Ag6Se: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ag6Se: 4 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ag6Se.html · Markdown: https://data.orchid-project.org/compounds/Ag6Se.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+4 accepted literature formation-enthalpy value(s) (DFT 4).
 
 Systems: [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ag6Se reported in the literature (2)
+Table: Enthalpy of formation of Ag6Se reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | 91.738 kJ/mol-atom | β-Ag₁₂Se₂ | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 13 |  |
+| 91.738 kJ/mol-atom | β-Ag12Se2 |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 13 |  |
+| 97.68 kJ/mol-atom | β-Ag12Se2 |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 14 |  |
 | 97.68 kJ/mol-atom | β-Ag₁₂Se₂ | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 14 |  |
 
 ## Sources

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-NB.html · Markdown: https://da
 
 253 accepted literature values from 3 paper(s) (experimental 193, model 23, DFT 33, unspecified 4); 7 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NB.json) · [CSV](https://data.orchid-project.org/systems/CR-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NB/CrNb-09Pav.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-NB.html) · [Markdown](https://data.orchid-project.org/systems/CR-NB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NB.json) · [CSV](https://data.orchid-project.org/systems/CR-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NB/CrNb-09Pav.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NB.html) · [Markdown](https://data.orchid-project.org/systems/CR-NB.md)
 
 Table: Accepted values by evidence class
 

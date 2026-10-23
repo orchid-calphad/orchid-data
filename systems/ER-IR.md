@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-IR.html · Markdown: https://da
 
 34 accepted literature values from 1 paper(s) (unspecified 34); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ER-IR.json) · [CSV](https://data.orchid-project.org/systems/ER-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-IR) · [Markdown](https://data.orchid-project.org/systems/ER-IR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-IR.json) · [CSV](https://data.orchid-project.org/systems/ER-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-IR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-IR.html) · [Markdown](https://data.orchid-project.org/systems/ER-IR.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-ZR.html · Markdown: https://da
 
 444 accepted literature values from 4 paper(s) (experimental 142, model 187, DFT 55, unspecified 60); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-ZR.json) · [CSV](https://data.orchid-project.org/systems/NI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-ZR/NiZr-05Abe.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/NI-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-ZR.json) · [CSV](https://data.orchid-project.org/systems/NI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-ZR/NiZr-05Abe.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/NI-ZR.md)
 
 Table: Accepted values by evidence class
 

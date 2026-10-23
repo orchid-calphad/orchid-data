@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-CO-CR.html · Markdown: https:/
 
 65 accepted literature values from 1 paper(s) (model 42, DFT 23); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-CR.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-CR) · [Markdown](https://data.orchid-project.org/systems/AL-CO-CR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-CR.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-CR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-CR.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-CR.md)
 
 Table: Accepted values by evidence class
 

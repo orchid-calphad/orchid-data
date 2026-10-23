@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-TI.html · Markdown: https://da
 
 377 accepted literature values from 8 paper(s) (experimental 188, model 145, DFT 21, unspecified 23); 4 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TI/AlTi-00Ohn.json) · [phases (18)](https://data.orchid-project.org/phases/pages/AL-TI.html) · [Markdown](https://data.orchid-project.org/systems/AL-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TI/AlTi-00Ohn.json) · [phases (18)](https://data.orchid-project.org/phases/pages/AL-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TI.html) · [Markdown](https://data.orchid-project.org/systems/AL-TI.md)
 
 Table: Accepted values by evidence class
 

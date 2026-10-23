@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SI-SR.html · Markdown: https://da
 
 199 accepted literature values from 2 paper(s) (experimental 68, model 73, DFT 52, unspecified 6); 5 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SI-SR.json) · [CSV](https://data.orchid-project.org/systems/SI-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-SR/SiSr-09Gar-ass.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SI-SR.html) · [Markdown](https://data.orchid-project.org/systems/SI-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SI-SR.json) · [CSV](https://data.orchid-project.org/systems/SI-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-SR/SiSr-09Gar-ass.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SI-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-SR.html) · [Markdown](https://data.orchid-project.org/systems/SI-SR.md)
 
 Table: Accepted values by evidence class
 

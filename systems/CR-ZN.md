@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-ZN.html · Markdown: https://da
 
 30 accepted literature values from 3 paper(s) (experimental 22, model 8); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-ZN.json) · [CSV](https://data.orchid-project.org/systems/CR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-ZN/CrZn-03Reu-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CR-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-ZN.json) · [CSV](https://data.orchid-project.org/systems/CR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-ZN/CrZn-03Reu-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CR-ZN.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-PD.html · Markdown: https://dat
 
 2 accepted literature values from 1 paper(s) (experimental 1, model 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/C-PD.json) · [CSV](https://data.orchid-project.org/systems/C-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-PD) · [phases (6)](https://data.orchid-project.org/phases/pages/C-PD.html) · [Markdown](https://data.orchid-project.org/systems/C-PD.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-PD.json) · [CSV](https://data.orchid-project.org/systems/C-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-PD) · [phases (6)](https://data.orchid-project.org/phases/pages/C-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-PD.html) · [Markdown](https://data.orchid-project.org/systems/C-PD.md)
 
 Table: Accepted values by evidence class
 

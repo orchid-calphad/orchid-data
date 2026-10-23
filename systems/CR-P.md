@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-P.html · Markdown: https://dat
 
 3 accepted literature values from 1 paper(s) (model 3); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-P.json) · [CSV](https://data.orchid-project.org/systems/CR-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-P/CrP-14Mie.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CR-P.html) · [Markdown](https://data.orchid-project.org/systems/CR-P.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-P.json) · [CSV](https://data.orchid-project.org/systems/CR-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-P/CrP-14Mie.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CR-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-P.html) · [Markdown](https://data.orchid-project.org/systems/CR-P.md)
 
 Table: Accepted values by evidence class
 

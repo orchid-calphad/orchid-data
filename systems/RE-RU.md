@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RE-RU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-RU/ReRu-21Wan.json) · [phases (4)](https://data.orchid-project.org/phases/pages/RE-RU.html) · [Markdown](https://data.orchid-project.org/systems/RE-RU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-RU/ReRu-21Wan.json) · [phases (4)](https://data.orchid-project.org/phases/pages/RE-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-RU.html) · [Markdown](https://data.orchid-project.org/systems/RE-RU.md)
 
 ## Calculated phase diagrams
 

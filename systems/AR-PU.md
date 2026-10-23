@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AR-PU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AR-PU.json) · [CSV](https://data.orchid-project.org/systems/AR-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AR-PU) · [Markdown](https://data.orchid-project.org/systems/AR-PU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AR-PU.json) · [CSV](https://data.orchid-project.org/systems/AR-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AR-PU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AR-PU.html) · [Markdown](https://data.orchid-project.org/systems/AR-PU.md)
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AR/AR-PU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AR/AR-PU.json)
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-MG-SI.html · Markdown: https:/
 
 121 accepted literature values from 1 paper(s) (experimental 96, model 25); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SI) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SI.md)
 
 Table: Accepted values by evidence class
 

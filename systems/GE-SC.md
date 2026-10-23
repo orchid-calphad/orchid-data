@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-SC.html · Markdown: https://da
 
 88 accepted literature values from 1 paper(s) (experimental 43, model 14, DFT 16, unspecified 15); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SC.json) · [CSV](https://data.orchid-project.org/systems/GE-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SC/GeSc-12Che.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GE-SC.html) · [Markdown](https://data.orchid-project.org/systems/GE-SC.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SC.json) · [CSV](https://data.orchid-project.org/systems/GE-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SC/GeSc-12Che.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GE-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-SC.html) · [Markdown](https://data.orchid-project.org/systems/GE-SC.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-HG.html · Markdown: https://da
 
 8 accepted literature values from 1 paper(s) (experimental 1, model 3, unspecified 4); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-HG.json) · [CSV](https://data.orchid-project.org/systems/GA-HG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-HG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-HG/GaHg-09Fen.json) · [phases (3)](https://data.orchid-project.org/phases/pages/GA-HG.html) · [Markdown](https://data.orchid-project.org/systems/GA-HG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-HG.json) · [CSV](https://data.orchid-project.org/systems/GA-HG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-HG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-HG/GaHg-09Fen.json) · [phases (3)](https://data.orchid-project.org/phases/pages/GA-HG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-HG.html) · [Markdown](https://data.orchid-project.org/systems/GA-HG.md)
 
 Table: Accepted values by evidence class
 

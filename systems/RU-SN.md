@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RU-SN.html · Markdown: https://da
 
 249 accepted literature values from 2 paper(s) (experimental 46, model 199, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RU-SN.json) · [CSV](https://data.orchid-project.org/systems/RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SN/RuSn-12Lon.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RU-SN.html) · [Markdown](https://data.orchid-project.org/systems/RU-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RU-SN.json) · [CSV](https://data.orchid-project.org/systems/RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SN/RuSn-12Lon.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-SN.html) · [Markdown](https://data.orchid-project.org/systems/RU-SN.md)
 
 Table: Accepted values by evidence class
 

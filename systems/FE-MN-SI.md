@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-MN-SI.html · Markdown: https:/
 
 4 accepted literature values from 1 paper(s) (model 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN-SI.json) · [CSV](https://data.orchid-project.org/systems/FE-MN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN-SI) · [Markdown](https://data.orchid-project.org/systems/FE-MN-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN-SI.json) · [CSV](https://data.orchid-project.org/systems/FE-MN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-MN-SI.html) · [Markdown](https://data.orchid-project.org/systems/FE-MN-SI.md)
 
 Table: Accepted values by evidence class
 

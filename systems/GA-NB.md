@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-NB.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-NB/GaNb-23Tam.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GA-NB.html) · [Markdown](https://data.orchid-project.org/systems/GA-NB.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-NB/GaNb-23Tam.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GA-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-NB.html) · [Markdown](https://data.orchid-project.org/systems/GA-NB.md)
 
 ## Calculated phase diagrams
 

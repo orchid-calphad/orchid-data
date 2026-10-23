@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-ND.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-ND/FeNd-16Che.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-ND.html) · [Markdown](https://data.orchid-project.org/systems/FE-ND.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-ND/FeNd-16Che.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-ND.html) · [Markdown](https://data.orchid-project.org/systems/FE-ND.md)
 
 ## Calculated phase diagrams
 

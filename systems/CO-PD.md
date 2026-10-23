@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-PD.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-PD/CoPd-04Fra-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-PD.html) · [Markdown](https://data.orchid-project.org/systems/CO-PD.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-PD/CoPd-04Fra-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-PD.html) · [Markdown](https://data.orchid-project.org/systems/CO-PD.md)
 
 ## Calculated phase diagrams
 

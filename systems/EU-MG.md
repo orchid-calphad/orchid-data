@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/EU-MG.html · Markdown: https://da
 
 55 accepted literature values from 1 paper(s) (experimental 9, model 9, DFT 37); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/EU-MG.json) · [CSV](https://data.orchid-project.org/systems/EU-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-MG) · [phases (8)](https://data.orchid-project.org/phases/pages/EU-MG.html) · [Markdown](https://data.orchid-project.org/systems/EU-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/EU-MG.json) · [CSV](https://data.orchid-project.org/systems/EU-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-MG) · [phases (8)](https://data.orchid-project.org/phases/pages/EU-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-MG.html) · [Markdown](https://data.orchid-project.org/systems/EU-MG.md)
 
 Table: Accepted values by evidence class
 

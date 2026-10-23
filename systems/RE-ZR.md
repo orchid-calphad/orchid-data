@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RE-ZR.html · Markdown: https://da
 
 80 accepted literature values from 2 paper(s) (experimental 58, model 19, unspecified 3); 2 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RE-ZR.json) · [CSV](https://data.orchid-project.org/systems/RE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-ZR/ReZr-13Liu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/RE-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RE-ZR.json) · [CSV](https://data.orchid-project.org/systems/RE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-ZR/ReZr-13Liu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RE-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/RE-ZR.md)
 
 Table: Accepted values by evidence class
 

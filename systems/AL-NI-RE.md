@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-NI-RE.html · Markdown: https:/
 
 1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-RE.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-RE) · [Markdown](https://data.orchid-project.org/systems/AL-NI-RE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-RE.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-RE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI-RE.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI-RE.md)
 
 Table: Accepted values by evidence class
 

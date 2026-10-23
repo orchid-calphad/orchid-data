@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HF-MO-W.html · Markdown: https://
 
 7 accepted literature values from 1 paper(s) (model 7); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HF-MO-W.json) · [CSV](https://data.orchid-project.org/systems/HF-MO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-MO-W) · [Markdown](https://data.orchid-project.org/systems/HF-MO-W.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HF-MO-W.json) · [CSV](https://data.orchid-project.org/systems/HF-MO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-MO-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-MO-W.html) · [Markdown](https://data.orchid-project.org/systems/HF-MO-W.md)
 
 Table: Accepted values by evidence class
 

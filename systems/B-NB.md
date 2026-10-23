@@ -1,12 +1,12 @@
 # B–Nb system
 
-> B–Nb system: 43 accepted literature values (invariant reaction 34, heat capacity / entropy / enthalpy 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Nb system: 62 accepted literature values (invariant reaction 34, crystal structure 19, heat capacity / entropy / enthalpy 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-NB.html · Markdown: https://data.orchid-project.org/systems/B-NB.md
 
-43 accepted literature values from 2 paper(s) (experimental 22, model 21); 0 calculated phase diagram(s).
+62 accepted literature values from 2 paper(s) (experimental 22, model 21, unspecified 19); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/B-NB.json) · [CSV](https://data.orchid-project.org/systems/B-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-NB) · [phases (11)](https://data.orchid-project.org/phases/pages/B-NB.html) · [Markdown](https://data.orchid-project.org/systems/B-NB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/B-NB.json) · [CSV](https://data.orchid-project.org/systems/B-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-NB) · [phases (11)](https://data.orchid-project.org/phases/pages/B-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-NB.html) · [Markdown](https://data.orchid-project.org/systems/B-NB.md)
 
 Table: Accepted values by evidence class
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 22 |
 | model | 21 |
+| unspecified | 19 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 34 |
 | heat capacity / entropy / enthalpy | 9 |
+| crystal structure | 19 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-NB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-NB.json) · [CALPHAD hull NbB-07Pec](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NB--NbB-07Pec.json) · [CALPHAD hull NbB-08Wit](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NB--NbB-08Wit.json) · [CALPHAD hull NbB-08Yos](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NB--NbB-08Yos.json) · [CALPHAD hull NbB-09Nak](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NB--NbB-09Nak.json)
 
@@ -82,6 +84,32 @@ Table: Heat capacity / entropy / enthalpy, B–Nb system
 | Entropy; _printed: Entropy at 298.15 K_ | 19000 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 6 |  |
 | Entropy; _printed: Entropy at 298.15 K_ | 12700 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | experimental | [2] Peçanha 2007; _cites Westrum 1963_ [doi](https://doi.org/10.1021/j100805a030) | Table 4, p. 6, row 2 |  |
 | Entropy; _printed: Entropy at 298.15 K_ | 12900 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 1 |  |
+
+### Crystal structure (19)
+
+Table: Crystal structure, B–Nb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| site fractional coordinates |  | 298.15 | BCC | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
+| site fractional coordinates |  | 298.15 | BCC | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
+| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2 |  |
+| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2 |  |
+| site fractional coordinates |  | 298.15 | Nb3B2; _alloy: Nb 0.6_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 2 |  |
+| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
+| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
+| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
+| site fractional coordinates |  | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
+| site fractional coordinates |  | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | unspecified | [2] Peçanha 2007; _cites Bolmgren 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990170-o) | Table 1, p. 3, row 4 |  |
+| site fractional coordinates |  | 298.15 | NbB; _alloy: Nb 0.5_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
+| site fractional coordinates |  | 298.15 | NbB; _alloy: Nb 0.5_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
+| site fractional coordinates |  | 298.15 | NbB2; _alloy: Nb 0.333333_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
+| site fractional coordinates |  | 298.15 | NbB2; _alloy: Nb 0.333333_ | unspecified | [2] Peçanha 2007; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

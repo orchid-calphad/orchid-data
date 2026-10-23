@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-SN.html · Markdown: https://da
 
 5 accepted literature values from 1 paper(s) (experimental 5); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-SN.json) · [CSV](https://data.orchid-project.org/systems/CD-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-SN/CdSn-14Qin.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CD-SN.html) · [Markdown](https://data.orchid-project.org/systems/CD-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-SN.json) · [CSV](https://data.orchid-project.org/systems/CD-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-SN/CdSn-14Qin.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CD-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-SN.html) · [Markdown](https://data.orchid-project.org/systems/CD-SN.md)
 
 Table: Accepted values by evidence class
 

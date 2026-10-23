@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-ZR.html · Markdown: https://da
 
 289 accepted literature values from 4 paper(s) (experimental 194, model 95); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ZR.json) · [CSV](https://data.orchid-project.org/systems/CO-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-ZR/CoZr-06Bra.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CO-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CO-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ZR.json) · [CSV](https://data.orchid-project.org/systems/CO-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-ZR/CoZr-06Bra.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CO-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CO-ZR.md)
 
 Table: Accepted values by evidence class
 

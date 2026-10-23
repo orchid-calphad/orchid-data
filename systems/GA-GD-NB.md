@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GA-GD-NB.html · Markdown: https:/
 
 62 accepted literature values from 1 paper(s) (experimental 23, model 38, DFT 1); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-GD-NB.json) · [CSV](https://data.orchid-project.org/systems/GA-GD-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-GD-NB) · [Markdown](https://data.orchid-project.org/systems/GA-GD-NB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-GD-NB.json) · [CSV](https://data.orchid-project.org/systems/GA-GD-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-GD-NB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-GD-NB.html) · [Markdown](https://data.orchid-project.org/systems/GA-GD-NB.md)
 
 Table: Accepted values by evidence class
 

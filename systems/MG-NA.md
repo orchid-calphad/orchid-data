@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-NA.html · Markdown: https://da
 
 9 accepted literature values from 1 paper(s) (experimental 5, model 4); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-NA.json) · [CSV](https://data.orchid-project.org/systems/MG-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-NA/MgNa-06Zha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MG-NA.html) · [Markdown](https://data.orchid-project.org/systems/MG-NA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-NA.json) · [CSV](https://data.orchid-project.org/systems/MG-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-NA/MgNa-06Zha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MG-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-NA.html) · [Markdown](https://data.orchid-project.org/systems/MG-NA.md)
 
 Table: Accepted values by evidence class
 

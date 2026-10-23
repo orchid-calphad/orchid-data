@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SB-SI.html · Markdown: https://da
 
 29 accepted literature values from 2 paper(s) (experimental 26, unspecified 3); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SB-SI.json) · [CSV](https://data.orchid-project.org/systems/SB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-SI/SbSi-11Wan.json) · [phases (3)](https://data.orchid-project.org/phases/pages/SB-SI.html) · [Markdown](https://data.orchid-project.org/systems/SB-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SB-SI.json) · [CSV](https://data.orchid-project.org/systems/SB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-SI/SbSi-11Wan.json) · [phases (3)](https://data.orchid-project.org/phases/pages/SB-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-SI.html) · [Markdown](https://data.orchid-project.org/systems/SB-SI.md)
 
 Table: Accepted values by evidence class
 

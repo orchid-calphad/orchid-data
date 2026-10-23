@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/EU-IN.html · Markdown: https://da
 
 25 accepted literature values from 1 paper(s) (experimental 8, model 15, unspecified 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/EU-IN.json) · [CSV](https://data.orchid-project.org/systems/EU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-IN/EuIn-11Gao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/EU-IN.html) · [Markdown](https://data.orchid-project.org/systems/EU-IN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/EU-IN.json) · [CSV](https://data.orchid-project.org/systems/EU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-IN/EuIn-11Gao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/EU-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-IN.html) · [Markdown](https://data.orchid-project.org/systems/EU-IN.md)
 
 Table: Accepted values by evidence class
 

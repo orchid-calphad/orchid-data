@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/TI-U.html · Markdown: https://dat
 
 209 accepted literature values from 2 paper(s) (experimental 196, model 13); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/TI-U.json) · [CSV](https://data.orchid-project.org/systems/TI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-U/TiU-11Ber.json) · [phases (7)](https://data.orchid-project.org/phases/pages/TI-U.html) · [Markdown](https://data.orchid-project.org/systems/TI-U.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/TI-U.json) · [CSV](https://data.orchid-project.org/systems/TI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-U/TiU-11Ber.json) · [phases (7)](https://data.orchid-project.org/phases/pages/TI-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI-U.html) · [Markdown](https://data.orchid-project.org/systems/TI-U.md)
 
 Table: Accepted values by evidence class
 

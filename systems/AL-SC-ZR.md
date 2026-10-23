@@ -1,18 +1,18 @@
 # Al–Sc–Zr system
 
-> Al–Sc–Zr system: 85 accepted literature values (invariant reaction 66, phase equilibrium 19) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sc–Zr system: 86 accepted literature values (invariant reaction 66, phase equilibrium 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SC-ZR.html · Markdown: https://data.orchid-project.org/systems/AL-SC-ZR.md
 
-85 accepted literature values from 1 paper(s) (experimental 37, model 48); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+86 accepted literature values from 1 paper(s) (experimental 38, model 48); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-SC-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC-ZR) · [Markdown](https://data.orchid-project.org/systems/AL-SC-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-SC-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SC-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AL-SC-ZR.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
+| experimental | 38 |
 | model | 48 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 66 |
-| phase equilibrium | 19 |
+| phase equilibrium | 20 |
 
 ## Invariant reactions (literature)
 
@@ -97,7 +97,7 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Zr syste
 
 ## Other properties
 
-### Phase equilibrium (19)
+### Phase equilibrium (20)
 
 Table: Phase equilibrium, Al–Sc–Zr system
 
@@ -118,6 +118,7 @@ Table: Phase equilibrium, Al–Sc–Zr system
 | Phase composition |  |  | AlZr + Al3Zr4; _AlZr: Al 0.486, Sc 0.041, Zr 0.473; Al3Zr4: Al 0.432, Sc 0.031, Zr 0.537_ | experimental | [1] Bo 2017 | Table 2, p. 4, row 13 |  |
 | Phase composition |  |  | AlZr2 + AlZr3 + hcp_Zr; _AlZr2: Al 0.302, Sc 0.167, Zr 0.531; AlZr3: Al 0.239, Sc 0.143, Zr 0.618; hcp_Zr: Al 0.161, Sc 0.259, Zr 0.58_ | experimental | [1] Bo 2017 | Table 2, p. 4, row 19 |  |
 | Phase composition |  |  | AlZr3 + hcp_Zr; _AlZr3: Al 0.222, Sc 0.048, Zr 0.73; hcp_Zr: Al 0.114, Sc 0.086, Zr 0.8_ | experimental | [1] Bo 2017 | Table 2, p. 4, row 20 |  |
+| Phase composition |  |  | fcc_Al + Al3Sc + τ' + τ′; _fcc_Al: Al 0.973, Sc 0.023, Zr 0.004; Al3Sc: Al 0.763, Sc 0.184, Zr 0.053; τ': Al 0.75, Sc 0.132, Zr 0.118; τ′: Al 0.75, Sc 0.132, Zr 0.118_ | experimental | [1] Bo 2017 | Table 2, p. 4, row 1 |  |
 | Phase composition |  |  | fcc_Al + τ2 + Al3Zr; _fcc_Al: Al 0.992, Sc 0.004, Zr 0.004; τ2: Al 0.744, Sc 0.101, Zr 0.155; Al3Zr: Al 0.73, Sc 0.033, Zr 0.237_ | experimental | [1] Bo 2017 | Table 2, p. 4, row 2 |  |
 | Phase composition |  |  | fcc_Al + τ2 + Al3Zr; _fcc_Al: Al 0.997, Sc 0.002, Zr 0.001; τ2: Al 0.75, Sc 0.109, Zr 0.141; Al3Zr: Al 0.734, Sc 0.02, Zr 0.246_ | experimental | [1] Bo 2017 | Table 2, p. 4, row 3 |  |
 | Phase composition |  |  | τ1 + τ2 + Al2Sc; _τ1: Al 0.75, Sc 0.162, Zr 0.088; τ2: Al 0.746, Sc 0.106, Zr 0.148; Al2Sc: Al 0.659, Sc 0.161, Zr 0.18_ | experimental | [1] Bo 2017 | Table 2, p. 4, row 6 |  |

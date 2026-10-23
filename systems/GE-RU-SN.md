@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-RU-SN.html · Markdown: https:/
 
 7 accepted literature values from 1 paper(s) (model 7); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-RU-SN.json) · [CSV](https://data.orchid-project.org/systems/GE-RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-RU-SN) · [Markdown](https://data.orchid-project.org/systems/GE-RU-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-RU-SN.json) · [CSV](https://data.orchid-project.org/systems/GE-RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-RU-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-RU-SN.html) · [Markdown](https://data.orchid-project.org/systems/GE-RU-SN.md)
 
 Table: Accepted values by evidence class
 

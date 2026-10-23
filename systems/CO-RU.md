@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CO-RU.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-RU/CoRu-14Liu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-RU.html) · [Markdown](https://data.orchid-project.org/systems/CO-RU.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-RU/CoRu-14Liu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-RU.html) · [Markdown](https://data.orchid-project.org/systems/CO-RU.md)
 
 ## Calculated phase diagrams
 

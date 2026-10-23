@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-RU.html · Markdown: https://da
 
 19 accepted literature values from 1 paper(s) (experimental 5, model 11, DFT 3); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-RU.json) · [CSV](https://data.orchid-project.org/systems/AL-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-RU/AlRu-03Pri.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AL-RU.html) · [Markdown](https://data.orchid-project.org/systems/AL-RU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-RU.json) · [CSV](https://data.orchid-project.org/systems/AL-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-RU/AlRu-03Pri.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AL-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-RU.html) · [Markdown](https://data.orchid-project.org/systems/AL-RU.md)
 
 Table: Accepted values by evidence class
 

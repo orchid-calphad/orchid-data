@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-RE.html · Markdown: https://da
 
 206 accepted literature values from 2 paper(s) (experimental 9, model 6, DFT 191); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-RE.json) · [CSV](https://data.orchid-project.org/systems/CR-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-RE/CrRe-18Guo.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CR-RE.html) · [Markdown](https://data.orchid-project.org/systems/CR-RE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-RE.json) · [CSV](https://data.orchid-project.org/systems/CR-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-RE/CrRe-18Guo.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CR-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-RE.html) · [Markdown](https://data.orchid-project.org/systems/CR-RE.md)
 
 Table: Accepted values by evidence class
 

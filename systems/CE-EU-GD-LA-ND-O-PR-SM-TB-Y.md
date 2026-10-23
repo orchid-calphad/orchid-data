@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.html �
 
 84 accepted literature values from 1 paper(s) (experimental 84); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.json) · [CSV](https://data.orchid-project.org/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-EU-GD-LA-ND-O-PR-SM-TB-Y) · [Markdown](https://data.orchid-project.org/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.json) · [CSV](https://data.orchid-project.org/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-EU-GD-LA-ND-O-PR-SM-TB-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.html) · [Markdown](https://data.orchid-project.org/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.md)
 
 Table: Accepted values by evidence class
 

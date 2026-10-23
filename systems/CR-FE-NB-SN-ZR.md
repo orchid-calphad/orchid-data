@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-FE-NB-SN-ZR.html · Markdown: h
 
 7 accepted literature values from 1 paper(s) (experimental 3, model 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE-NB-SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/CR-FE-NB-SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE-NB-SN-ZR) · [Markdown](https://data.orchid-project.org/systems/CR-FE-NB-SN-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE-NB-SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/CR-FE-NB-SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE-NB-SN-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-FE-NB-SN-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CR-FE-NB-SN-ZR.md)
 
 Table: Accepted values by evidence class
 

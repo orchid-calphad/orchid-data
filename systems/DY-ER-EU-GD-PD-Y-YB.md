@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.html · Markdo
 
 66 accepted literature values from 1 paper(s) (model 64, DFT 2); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/DY-ER-EU-GD-PD-Y-YB.json) · [CSV](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-ER-EU-GD-PD-Y-YB) · [Markdown](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/DY-ER-EU-GD-PD-Y-YB.json) · [CSV](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-ER-EU-GD-PD-Y-YB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-ER-EU-GD-PD-Y-YB.html) · [Markdown](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.md)
 
 Table: Accepted values by evidence class
 

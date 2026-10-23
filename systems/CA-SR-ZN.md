@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CA-SR-ZN.html · Markdown: https:/
 
 7 accepted literature values from 1 paper(s) (model 7); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SR-ZN.json) · [CSV](https://data.orchid-project.org/systems/CA-SR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SR-ZN) · [Markdown](https://data.orchid-project.org/systems/CA-SR-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SR-ZN.json) · [CSV](https://data.orchid-project.org/systems/CA-SR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SR-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SR-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CA-SR-ZN.md)
 
 Table: Accepted values by evidence class
 

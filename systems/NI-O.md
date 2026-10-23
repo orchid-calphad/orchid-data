@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-O.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-O/NiO-90Tay.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NI-O.html) · [Markdown](https://data.orchid-project.org/systems/NI-O.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-O/NiO-90Tay.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NI-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-O.html) · [Markdown](https://data.orchid-project.org/systems/NI-O.md)
 
 ## Calculated phase diagrams
 

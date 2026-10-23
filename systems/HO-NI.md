@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HO-NI.html · Markdown: https://da
 
 147 accepted literature values from 2 paper(s) (experimental 44, model 89, unspecified 14); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HO-NI.json) · [CSV](https://data.orchid-project.org/systems/HO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-NI/HoNi-15Kar.json) · [phases (13)](https://data.orchid-project.org/phases/pages/HO-NI.html) · [Markdown](https://data.orchid-project.org/systems/HO-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HO-NI.json) · [CSV](https://data.orchid-project.org/systems/HO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-NI/HoNi-15Kar.json) · [phases (13)](https://data.orchid-project.org/phases/pages/HO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-NI.html) · [Markdown](https://data.orchid-project.org/systems/HO-NI.md)
 
 Table: Accepted values by evidence class
 

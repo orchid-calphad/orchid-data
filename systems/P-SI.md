@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/P-SI.html · Markdown: https://dat
 
 78 accepted literature values from 2 paper(s) (experimental 34, model 34, unspecified 10); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI.json) · [CSV](https://data.orchid-project.org/systems/P-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI) · [phases (10)](https://data.orchid-project.org/phases/pages/P-SI.html) · [Markdown](https://data.orchid-project.org/systems/P-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI.json) · [CSV](https://data.orchid-project.org/systems/P-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI) · [phases (10)](https://data.orchid-project.org/phases/pages/P-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-SI.html) · [Markdown](https://data.orchid-project.org/systems/P-SI.md)
 
 Table: Accepted values by evidence class
 

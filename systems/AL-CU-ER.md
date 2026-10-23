@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-CU-ER.html · Markdown: https:/
 
 66 accepted literature values from 1 paper(s) (model 29, unspecified 37); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CU-ER.json) · [CSV](https://data.orchid-project.org/systems/AL-CU-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CU-ER) · [Markdown](https://data.orchid-project.org/systems/AL-CU-ER.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CU-ER.json) · [CSV](https://data.orchid-project.org/systems/AL-CU-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CU-ER) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CU-ER.html) · [Markdown](https://data.orchid-project.org/systems/AL-CU-ER.md)
 
 Table: Accepted values by evidence class
 

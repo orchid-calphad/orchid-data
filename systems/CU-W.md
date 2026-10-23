@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CU-W.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-W/CuW-12Hal.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-W.html) · [Markdown](https://data.orchid-project.org/systems/CU-W.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-W/CuW-12Hal.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-W.html) · [Markdown](https://data.orchid-project.org/systems/CU-W.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MG-NI.html · Markdown: https://da
 
 99 accepted literature values from 3 paper(s) (experimental 61, model 38); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-NI.json) · [CSV](https://data.orchid-project.org/systems/MG-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-NI/MgNi-05Isl.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MG-NI.html) · [Markdown](https://data.orchid-project.org/systems/MG-NI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-NI.json) · [CSV](https://data.orchid-project.org/systems/MG-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-NI/MgNi-05Isl.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MG-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-NI.html) · [Markdown](https://data.orchid-project.org/systems/MG-NI.md)
 
 Table: Accepted values by evidence class
 

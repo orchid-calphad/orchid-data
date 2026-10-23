@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/DY-GD-HO-TE.html · Markdown: http
 
 82 accepted literature values from 1 paper(s) (experimental 57, model 16, DFT 2, unspecified 7); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/DY-GD-HO-TE.json) · [CSV](https://data.orchid-project.org/systems/DY-GD-HO-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-GD-HO-TE) · [Markdown](https://data.orchid-project.org/systems/DY-GD-HO-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/DY-GD-HO-TE.json) · [CSV](https://data.orchid-project.org/systems/DY-GD-HO-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-GD-HO-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-GD-HO-TE.html) · [Markdown](https://data.orchid-project.org/systems/DY-GD-HO-TE.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-V.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-V/BiV-13Cao.json) · [phases (5)](https://data.orchid-project.org/phases/pages/BI-V.html) · [Markdown](https://data.orchid-project.org/systems/BI-V.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-V/BiV-13Cao.json) · [phases (5)](https://data.orchid-project.org/phases/pages/BI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-V.html) · [Markdown](https://data.orchid-project.org/systems/BI-V.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ER-MN.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-MN/ErMn-24Ye.json) · [phases (9)](https://data.orchid-project.org/phases/pages/ER-MN.html) · [Markdown](https://data.orchid-project.org/systems/ER-MN.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-MN/ErMn-24Ye.json) · [phases (9)](https://data.orchid-project.org/phases/pages/ER-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-MN.html) · [Markdown](https://data.orchid-project.org/systems/ER-MN.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/MO-NI-V.html · Markdown: https://
 
 4 accepted literature values from 1 paper(s) (experimental 2, model 2); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI-V.json) · [CSV](https://data.orchid-project.org/systems/MO-NI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI-V) · [Markdown](https://data.orchid-project.org/systems/MO-NI-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI-V.json) · [CSV](https://data.orchid-project.org/systems/MO-NI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI-V.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI-V.md)
 
 Table: Accepted values by evidence class
 

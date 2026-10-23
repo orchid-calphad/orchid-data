@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/BI-SR.html · Markdown: https://da
 
 14 accepted literature values from 2 paper(s) (experimental 11, model 3); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SR.json) · [CSV](https://data.orchid-project.org/systems/BI-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-SR/BiSr-14Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-SR.html) · [Markdown](https://data.orchid-project.org/systems/BI-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SR.json) · [CSV](https://data.orchid-project.org/systems/BI-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-SR/BiSr-14Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SR.html) · [Markdown](https://data.orchid-project.org/systems/BI-SR.md)
 
 Table: Accepted values by evidence class
 

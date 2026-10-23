@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/FE-TI-ZR.html · Markdown: https:/
 
 6 accepted literature values from 1 paper(s) (model 6); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TI-ZR) · [Markdown](https://data.orchid-project.org/systems/FE-TI-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/FE-TI-ZR.md)
 
 Table: Accepted values by evidence class
 

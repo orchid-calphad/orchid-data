@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-CO-MN.html · Markdown: https:/
 
 31 accepted literature values from 1 paper(s) (experimental 15, model 16); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-MN.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-MN) · [Markdown](https://data.orchid-project.org/systems/AL-CO-MN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-MN.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-MN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-MN.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-MN.md)
 
 Table: Accepted values by evidence class
 

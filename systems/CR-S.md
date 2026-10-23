@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-S.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-S/CrS-00Oik.json) · [phases (14)](https://data.orchid-project.org/phases/pages/CR-S.html) · [Markdown](https://data.orchid-project.org/systems/CR-S.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-S/CrS-00Oik.json) · [phases (14)](https://data.orchid-project.org/phases/pages/CR-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-S.html) · [Markdown](https://data.orchid-project.org/systems/CR-S.md)
 
 ## Calculated phase diagrams
 

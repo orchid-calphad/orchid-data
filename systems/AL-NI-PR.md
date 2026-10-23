@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/AL-NI-PR.html · Markdown: https:/
 
 94 accepted literature values from 1 paper(s) (experimental 1, model 71, DFT 22); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-PR.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-PR) · [Markdown](https://data.orchid-project.org/systems/AL-NI-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-PR.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-PR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI-PR.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI-PR.md)
 
 Table: Accepted values by evidence class
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/N-TA.html · Markdown: https://dat
 
 10 accepted literature values from 1 paper(s) (experimental 5, model 1, unspecified 4); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/N-TA.json) · [CSV](https://data.orchid-project.org/systems/N-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-TA) · [phases (6)](https://data.orchid-project.org/phases/pages/N-TA.html) · [Markdown](https://data.orchid-project.org/systems/N-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/N-TA.json) · [CSV](https://data.orchid-project.org/systems/N-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-TA) · [phases (6)](https://data.orchid-project.org/phases/pages/N-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/N-TA.html) · [Markdown](https://data.orchid-project.org/systems/N-TA.md)
 
 Table: Accepted values by evidence class
 

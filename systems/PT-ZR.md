@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PT-ZR.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-ZR/PtZr-10Gao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PT-ZR.html) · [Markdown](https://data.orchid-project.org/systems/PT-ZR.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-ZR/PtZr-10Gao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PT-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PT-ZR.html) · [Markdown](https://data.orchid-project.org/systems/PT-ZR.md)
 
 ## Calculated phase diagrams
 

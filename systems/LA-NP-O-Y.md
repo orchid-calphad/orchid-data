@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LA-NP-O-Y.html · Markdown: https:
 
 8 accepted literature values from 1 paper(s) (model 8); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-NP-O-Y.json) · [CSV](https://data.orchid-project.org/systems/LA-NP-O-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-NP-O-Y) · [Markdown](https://data.orchid-project.org/systems/LA-NP-O-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-NP-O-Y.json) · [CSV](https://data.orchid-project.org/systems/LA-NP-O-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-NP-O-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-NP-O-Y.html) · [Markdown](https://data.orchid-project.org/systems/LA-NP-O-Y.md)
 
 Table: Accepted values by evidence class
 

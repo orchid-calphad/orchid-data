@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html · Markdown: h
 
 30 accepted literature values from 1 paper(s) (model 30); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/EU-HO-NI-SC-YB.json) · [CSV](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-HO-NI-SC-YB) · [Markdown](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/EU-HO-NI-SC-YB.json) · [CSV](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-HO-NI-SC-YB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-HO-NI-SC-YB.html) · [Markdown](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.md)
 
 Table: Accepted values by evidence class
 

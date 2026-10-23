@@ -1,18 +1,18 @@
 # C–Ni–Si system
 
-> C–Ni–Si system: 80 accepted literature values (phase transition 42, invariant reaction 38) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Ni–Si system: 121 accepted literature values (phase transition 83, invariant reaction 38) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-NI-SI.html · Markdown: https://data.orchid-project.org/systems/C-NI-SI.md
 
-80 accepted literature values from 1 paper(s) (experimental 64, model 16); 0 calculated phase diagram(s).
+121 accepted literature values from 1 paper(s) (experimental 105, model 16); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/C-NI-SI.json) · [CSV](https://data.orchid-project.org/systems/C-NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-NI-SI) · [Markdown](https://data.orchid-project.org/systems/C-NI-SI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-NI-SI.json) · [CSV](https://data.orchid-project.org/systems/C-NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-NI-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-NI-SI.html) · [Markdown](https://data.orchid-project.org/systems/C-NI-SI.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 64 |
+| experimental | 105 |
 | model | 16 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 38 |
-| phase transition | 42 |
+| phase transition | 83 |
 
 ## Invariant reactions (literature)
 
@@ -69,20 +69,23 @@ Table: Invariant reactions reported in the literature for the C–Ni–Si system
 
 ## Other properties
 
-### Phase transition (42)
+### Phase transition (83)
 
 Table: Phase transition, C–Ni–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1073.15 K | 1073.15 | 10 phases; _alloy: C 0, Ni 0.64, Si 0.36_ | experimental | [1] Du 1999 | Table II, p. 2, row 33 |  |
-| Phase transition | 1073.15 K | 1073.15 | 11 phases; _alloy: Ni 0.56, Si 0.46_ | experimental | [1] Du 1999 | Table II, p. 2, row 37 |  |
+| Phase transition | 1073.15 K | 1073.15 | 11 phases; _alloy: C 0, Ni 0.56, Si 0.46_ | experimental | [1] Du 1999 | Table II, p. 2, row 37 |  |
 | Phase transition | 1073.15 K | 1073.15 | 19 phases; _alloy: C 0.1, Ni 0.62, Si 0.28_ | experimental | [1] Du 1999 | Table II, p. 2, row 64 |  |
 | Phase transition | 1073.15 K | 1073.15 | 22 phases; _alloy: C 0.1, Ni 0.45, Si 0.45_ | experimental | [1] Du 1999 | Table II, p. 2, row 74 |  |
+| Phase transition | 1094.15 K | 1094.15 | other: 10 DTA signal; _alloy: C 0, Ni 0.64, Si 0.36_ | experimental | [1] Du 1999 | Table II, p. 2, row 34 |  |
+| Phase transition | 1133.15 K | 1133.15 | other: 11 DTA signal; _alloy: C 0, Ni 0.56, Si 0.46_ | experimental | [1] Du 1999 | Table II, p. 2, row 38 |  |
+| Phase transition | 1135.15 K | 1135.15 | other: 22 DTA signal; _alloy: C 0.1, Ni 0.45, Si 0.45_ | experimental | [1] Du 1999 | Table II, p. 2, row 75 |  |
 | Phase transition | 1173.15 K | 1173.15 | 12 phases; _alloy: C 0, Ni 0.5, Si 0.5_ | experimental | [1] Du 1999 | Table II, p. 2, row 40 |  |
 | Phase transition | 1173.15 K | 1173.15 | 13 phases; _alloy: C 0, Ni 0.438, Si 0.562_ | experimental | [1] Du 1999 | Table II, p. 2, row 43 |  |
 | Phase transition | 1173.15 K | 1173.15 | 14 phases; _alloy: C 0, Ni 0.2, Si 0.8_ | experimental | [1] Du 1999 | Table II, p. 2, row 45 |  |
-| Phase transition | 1173.15 K | 1173.15 | 15 phases; _alloy: Si 1_ | experimental | [1] Du 1999 | Table II, p. 2, row 48 |  |
+| Phase transition | 1173.15 K | 1173.15 | 15 phases; _alloy: C 0, Ni 0, Si 1_ | experimental | [1] Du 1999 | Table II, p. 2, row 48 |  |
 | Phase transition | 1173.15 K | 1173.15 | 16 phases; _alloy: C 0.1, Ni 0.72, Si 0.18_ | experimental | [1] Du 1999 | Table II, p. 2, row 50 |  |
 | Phase transition | 1173.15 K | 1173.15 | 17 phases; _alloy: C 0.1, Ni 0.67, Si 0.23_ | experimental | [1] Du 1999 | Table II, p. 2, row 55 |  |
 | Phase transition | 1173.15 K | 1173.15 | 18 phases; _alloy: C 0.1, Ni 0.643, Si 0.257_ | experimental | [1] Du 1999 | Table II, p. 2, row 60 |  |
@@ -92,6 +95,13 @@ Table: Phase transition, C–Ni–Si system
 | Phase transition | 1173.15 K | 1173.15 | 24 phases; _alloy: C 0.1, Ni 0.15, Si 0.75_ | experimental | [1] Du 1999 | Table II, p. 2, row 81 |  |
 | Phase transition | 1226.15 K | 1226.15 | other: 13 DTA signal; _alloy: C 0, Ni 0.438, Si 0.562_ | experimental | [1] Du 1999 | Table II, p. 2, row 44 |  |
 | Phase transition | 1226.15 K | 1226.15 | other: 23 DTA signal; _alloy: C 0.1, Ni 0.34, Si 0.56_ | experimental | [1] Du 1999 | Table II, p. 2, row 79 |  |
+| Phase transition | 1229.15 K | 1229.15 | other: 22 DTA signal; _alloy: C 0.1, Ni 0.45, Si 0.45_ | experimental | [1] Du 1999 | Table II, p. 2, row 76 |  |
+| Phase transition | 1230.15 K | 1230.15 | other: 12 DTA signal; _alloy: C 0, Ni 0.5, Si 0.5_ | experimental | [1] Du 1999 | Table II, p. 2, row 41 |  |
+| Phase transition | 1231.15 K | 1231.15 | other: 11 DTA signal; _alloy: C 0, Ni 0.56, Si 0.46_ | experimental | [1] Du 1999 | Table II, p. 2, row 39 |  |
+| Phase transition | 1241.15 K | 1241.15 | other: 14 DTA signal; _alloy: C 0, Ni 0.2, Si 0.8_ | experimental | [1] Du 1999 | Table II, p. 2, row 46 |  |
+| Phase transition | 1241.15 K | 1241.15 | other: 24 DTA signal; _alloy: C 0.1, Ni 0.15, Si 0.75_ | experimental | [1] Du 1999 | Table II, p. 2, row 82 |  |
+| Phase transition | 1245.15 K | 1245.15 | other: 23 DTA signal; _alloy: C 0.1, Ni 0.34, Si 0.56_ | experimental | [1] Du 1999 | Table II, p. 2, row 80 |  |
+| Phase transition | 1252.15 K | 1252.15 | other: 12 DTA signal; _alloy: C 0, Ni 0.5, Si 0.5_ | experimental | [1] Du 1999 | Table II, p. 2, row 42 |  |
 | Phase transition | 1256.15 K | 1256.15 | other: 22 DTA signal; _alloy: C 0.1, Ni 0.45, Si 0.45_ | experimental | [1] Du 1999 | Table II, p. 2, row 77 |  |
 | Phase transition | 1273.15 K | 1273.15 | 1 phases; _alloy: C 0, Ni 1, Si 0_ | experimental | [1] Du 1999 | Table II, p. 2, row 1 |  |
 | Phase transition | 1273.15 K | 1273.15 | 2 phases; _alloy: C 0, Ni 0.786, Si 0.214_ | experimental | [1] Du 1999 | Table II, p. 2, row 3 |  |
@@ -105,17 +115,48 @@ Table: Phase transition, C–Ni–Si system
 | Phase transition | 1279.15 K | 1279.15 | other: 4 DTA signal; _alloy: C 0, Ni 0.73, Si 0.27_ | experimental | [1] Du 1999 | Table II, p. 2, row 12 |  |
 | Phase transition | 1320.15 K | 1320.15 | other: 2 DTA signal; _alloy: C 0, Ni 0.786, Si 0.214_ | experimental | [1] Du 1999 | Table II, p. 2, row 4 |  |
 | Phase transition | 1329.15 K | 1329.15 | other: 16 DTA signal; _alloy: C 0.1, Ni 0.72, Si 0.18_ | experimental | [1] Du 1999 | Table II, p. 2, row 51 |  |
+| Phase transition | 1399.15 K | 1399.15 | other: 2 DTA signal; _alloy: C 0, Ni 0.786, Si 0.214_ | experimental | [1] Du 1999 | Table II, p. 2, row 5 |  |
+| Phase transition | 1400.15 K | 1400.15 | other: 3 DTA signal; _alloy: C 0, Ni 0.74, Si 0.26_ | experimental | [1] Du 1999 | Table II, p. 2, row 8 |  |
+| Phase transition | 1401.15 K | 1401.15 | other: 16 DTA signal; _alloy: C 0.1, Ni 0.72, Si 0.18_ | experimental | [1] Du 1999 | Table II, p. 2, row 52 |  |
+| Phase transition | 1401.15 K | 1401.15 | other: 17 DTA signal; _alloy: C 0.1, Ni 0.67, Si 0.23_ | experimental | [1] Du 1999 | Table II, p. 2, row 56 |  |
+| Phase transition | 1401.15 K | 1401.15 | other: 4 DTA signal; _alloy: C 0, Ni 0.73, Si 0.27_ | experimental | [1] Du 1999 | Table II, p. 2, row 13 |  |
+| Phase transition | 1401.15 K | 1401.15 | other: 5 DTA signal; _alloy: C 0, Ni 0.72, Si 0.28_ | experimental | [1] Du 1999 | Table II, p. 2, row 17 |  |
+| Phase transition | 1402.15 K | 1402.15 | other: 18 DTA signal; _alloy: C 0.1, Ni 0.643, Si 0.257_ | experimental | [1] Du 1999 | Table II, p. 2, row 61 |  |
+| Phase transition | 1417.15 K | 1417.15 | other: 17 DTA signal; _alloy: C 0.1, Ni 0.67, Si 0.23_ | experimental | [1] Du 1999 | Table II, p. 2, row 57 |  |
+| Phase transition | 1419.15 K | 1419.15 | other: 16 DTA signal; _alloy: C 0.1, Ni 0.72, Si 0.18_ | experimental | [1] Du 1999 | Table II, p. 2, row 53 |  |
+| Phase transition | 1428.15 K | 1428.15 | other: 21 DTA signal; _alloy: C 0.1, Ni 0.56, Si 0.34_ | experimental | [1] Du 1999 | Table II, p. 2, row 72 |  |
+| Phase transition | 1429.15 K | 1429.15 | other: 2 DTA signal; _alloy: C 0, Ni 0.786, Si 0.214_ | experimental | [1] Du 1999 | Table II, p. 2, row 6 |  |
 | Phase transition | 1432.15 K | 1432.15 | other: 16 DTA signal; _alloy: C 0.1, Ni 0.72, Si 0.18_ | experimental | [1] Du 1999 | Table II, p. 2, row 54 |  |
+| Phase transition | 1437.15 K | 1437.15 | other: 18 DTA signal; _alloy: C 0.1, Ni 0.643, Si 0.257_ | experimental | [1] Du 1999 | Table II, p. 2, row 62 |  |
+| Phase transition | 1444.15 K | 1444.15 | other: 17 DTA signal; _alloy: C 0.1, Ni 0.67, Si 0.23_ | experimental | [1] Du 1999 | Table II, p. 2, row 58 |  |
+| Phase transition | 1460.15 K | 1460.15 | other: 5 DTA signal; _alloy: C 0, Ni 0.72, Si 0.28_ | experimental | [1] Du 1999 | Table II, p. 2, row 18 |  |
+| Phase transition | 1466.15 K | 1466.15 | other: 3 DTA signal; _alloy: C 0, Ni 0.74, Si 0.26_ | experimental | [1] Du 1999 | Table II, p. 2, row 9 |  |
+| Phase transition | 1467.15 K | 1467.15 | other: 4 DTA signal; _alloy: C 0, Ni 0.73, Si 0.27_ | experimental | [1] Du 1999 | Table II, p. 2, row 14 |  |
+| Phase transition | 1476.15 K | 1476.15 | other: 10 DTA signal; _alloy: C 0, Ni 0.64, Si 0.36_ | experimental | [1] Du 1999 | Table II, p. 2, row 35 |  |
+| Phase transition | 1504.15 K | 1504.15 | other: 17 DTA signal; _alloy: C 0.1, Ni 0.67, Si 0.23_ | experimental | [1] Du 1999 | Table II, p. 2, row 59 |  |
+| Phase transition | 1504.15 K | 1504.15 | other: 8 DTA signal; _alloy: C 0, Ni 0.67, Si 0.33_ | experimental | [1] Du 1999 | Table II, p. 2, row 26 |  |
+| Phase transition | 1504.15 K | 1504.15 | other: 9 DTA signal; _alloy: C 0, Ni 0.665, Si 0.335_ | experimental | [1] Du 1999 | Table II, p. 2, row 30 |  |
+| Phase transition | 1505.15 K | 1505.15 | other: 19 DTA signal; _alloy: C 0.1, Ni 0.62, Si 0.28_ | experimental | [1] Du 1999 | Table II, p. 2, row 65 |  |
+| Phase transition | 1505.15 K | 1505.15 | other: 20 DTA signal; _alloy: C 0.1, Ni 0.61, Si 0.29_ | experimental | [1] Du 1999 | Table II, p. 2, row 68 |  |
+| Phase transition | 1505.15 K | 1505.15 | other: 7 DTA signal; _alloy: C 0, Ni 0.69, Si 0.31_ | experimental | [1] Du 1999 | Table II, p. 2, row 23 |  |
+| Phase transition | 1512.15 K | 1512.15 | other: 21 DTA signal; _alloy: C 0.1, Ni 0.56, Si 0.34_ | experimental | [1] Du 1999 | Table II, p. 2, row 73 |  |
 | Phase transition | 1515.15 K | 1515.15 | other: 3 DTA signal; _alloy: C 0, Ni 0.74, Si 0.26_ | experimental | [1] Du 1999 | Table II, p. 2, row 10 |  |
 | Phase transition | 1516.15 K | 1516.15 | other: 5 DTA signal; _alloy: C 0, Ni 0.72, Si 0.28_ | experimental | [1] Du 1999 | Table II, p. 2, row 19 |  |
 | Phase transition | 1517.15 K | 1517.15 | other: 4 DTA signal; _alloy: C 0, Ni 0.73, Si 0.27_ | experimental | [1] Du 1999 | Table II, p. 2, row 15 |  |
 | Phase transition | 1522.15 K | 1522.15 | other: 18 DTA signal; _alloy: C 0.1, Ni 0.643, Si 0.257_ | experimental | [1] Du 1999 | Table II, p. 2, row 63 |  |
+| Phase transition | 1523.15 K | 1523.15 | other: 9 DTA signal; _alloy: C 0, Ni 0.665, Si 0.335_ | experimental | [1] Du 1999 | Table II, p. 2, row 31 |  |
+| Phase transition | 1524.15 K | 1524.15 | other: 19 DTA signal; _alloy: C 0.1, Ni 0.62, Si 0.28_ | experimental | [1] Du 1999 | Table II, p. 2, row 66 |  |
+| Phase transition | 1524.15 K | 1524.15 | other: 20 DTA signal; _alloy: C 0.1, Ni 0.61, Si 0.29_ | experimental | [1] Du 1999 | Table II, p. 2, row 69 |  |
+| Phase transition | 1524.15 K | 1524.15 | other: 7 DTA signal; _alloy: C 0, Ni 0.69, Si 0.31_ | experimental | [1] Du 1999 | Table II, p. 2, row 24 |  |
+| Phase transition | 1524.15 K | 1524.15 | other: 8 DTA signal; _alloy: C 0, Ni 0.67, Si 0.33_ | experimental | [1] Du 1999 | Table II, p. 2, row 27 |  |
 | Phase transition | 1527.15 K | 1527.15 | other: 6 DTA signal; _alloy: C 0, Ni 0.71, Si 0.29_ | experimental | [1] Du 1999 | Table II, p. 2, row 21 |  |
+| Phase transition | 1547.15 K | 1547.15 | other: 14 DTA signal; _alloy: C 0, Ni 0.2, Si 0.8_ | experimental | [1] Du 1999 | Table II, p. 2, row 47 |  |
 | Phase transition | 1553.15 K | 1553.15 | other: 10 DTA signal; _alloy: C 0, Ni 0.64, Si 0.36_ | experimental | [1] Du 1999 | Table II, p. 2, row 36 |  |
 | Phase transition | 1555.15 K | 1555.15 | other: 20 DTA signal; _alloy: C 0.1, Ni 0.61, Si 0.29_ | experimental | [1] Du 1999 | Table II, p. 2, row 70 |  |
 | Phase transition | 1555.15 K | 1555.15 | other: 9 DTA signal; _alloy: C 0, Ni 0.665, Si 0.335_ | experimental | [1] Du 1999 | Table II, p. 2, row 32 |  |
 | Phase transition | 1556.15 K | 1556.15 | other: 8 DTA signal; _alloy: C 0, Ni 0.67, Si 0.33_ | experimental | [1] Du 1999 | Table II, p. 2, row 28 |  |
-| Phase transition | 1686.15 K | 1686.15 | other: 15 DTA signal; _alloy: Si 1_ | experimental | [1] Du 1999 | Table II, p. 2, row 49 |  |
+| Phase transition | 1568.15 K | 1568.15 | other: 24 DTA signal; _alloy: C 0.1, Ni 0.15, Si 0.75_ | experimental | [1] Du 1999 | Table II, p. 2, row 83 |  |
+| Phase transition | 1686.15 K | 1686.15 | other: 15 DTA signal; _alloy: C 0, Ni 0, Si 1_ | experimental | [1] Du 1999 | Table II, p. 2, row 49 |  |
 | Phase transition | 1728.15 K | 1728.15 | other: 1 DTA signal; _alloy: C 0, Ni 1, Si 0_ | experimental | [1] Du 1999 | Table II, p. 2, row 2 |  |
 
 ## Sources

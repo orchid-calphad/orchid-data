@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/ND-SR.html · Markdown: https://da
 
 4 accepted literature values from 1 paper(s) (experimental 1, model 3); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ND-SR.json) · [CSV](https://data.orchid-project.org/systems/ND-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-SR/NdSr-13Xu.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ND-SR.html) · [Markdown](https://data.orchid-project.org/systems/ND-SR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ND-SR.json) · [CSV](https://data.orchid-project.org/systems/ND-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-SR/NdSr-13Xu.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ND-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-SR.html) · [Markdown](https://data.orchid-project.org/systems/ND-SR.md)
 
 Table: Accepted values by evidence class
 

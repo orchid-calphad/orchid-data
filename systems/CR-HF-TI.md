@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CR-HF-TI.html · Markdown: https:/
 
 267 accepted literature values from 1 paper(s) (experimental 38, DFT 168, unspecified 61); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CR-HF-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-HF-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-HF-TI) · [Markdown](https://data.orchid-project.org/systems/CR-HF-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CR-HF-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-HF-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-HF-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-HF-TI.html) · [Markdown](https://data.orchid-project.org/systems/CR-HF-TI.md)
 
 Table: Accepted values by evidence class
 

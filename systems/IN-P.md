@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/IN-P.html · Markdown: https://dat
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-P/InP-94Ans-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/IN-P.html) · [Markdown](https://data.orchid-project.org/systems/IN-P.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-P/InP-94Ans-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/IN-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-P.html) · [Markdown](https://data.orchid-project.org/systems/IN-P.md)
 
 ## Calculated phase diagrams
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/RE-TA.html · Markdown: https://da
 
 43 accepted literature values from 2 paper(s) (experimental 30, model 5, unspecified 8); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/RE-TA.json) · [CSV](https://data.orchid-project.org/systems/RE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-TA/ReTa-00Liu-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RE-TA.html) · [Markdown](https://data.orchid-project.org/systems/RE-TA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/RE-TA.json) · [CSV](https://data.orchid-project.org/systems/RE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-TA/ReTa-00Liu-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RE-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-TA.html) · [Markdown](https://data.orchid-project.org/systems/RE-TA.md)
 
 Table: Accepted values by evidence class
 

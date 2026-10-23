@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/H-TI.html · Markdown: https://dat
 
 35 accepted literature values from 3 paper(s) (experimental 9, model 15, unspecified 11); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/H-TI.json) · [CSV](https://data.orchid-project.org/systems/H-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-TI) · [phases (7)](https://data.orchid-project.org/phases/pages/H-TI.html) · [Markdown](https://data.orchid-project.org/systems/H-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/H-TI.json) · [CSV](https://data.orchid-project.org/systems/H-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-TI) · [phases (7)](https://data.orchid-project.org/phases/pages/H-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-TI.html) · [Markdown](https://data.orchid-project.org/systems/H-TI.md)
 
 Table: Accepted values by evidence class
 

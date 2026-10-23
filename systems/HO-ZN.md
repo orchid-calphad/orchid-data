@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/HO-ZN.html · Markdown: https://da
 
 0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-ZN/HoZn-19Fre.json) · [phases (12)](https://data.orchid-project.org/phases/pages/HO-ZN.html) · [Markdown](https://data.orchid-project.org/systems/HO-ZN.md)
+Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-ZN/HoZn-19Fre.json) · [phases (12)](https://data.orchid-project.org/phases/pages/HO-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-ZN.html) · [Markdown](https://data.orchid-project.org/systems/HO-ZN.md)
 
 ## Calculated phase diagrams
 
