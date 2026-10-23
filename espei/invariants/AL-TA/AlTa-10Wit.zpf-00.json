@@ -1,0 +1,213 @@
+{
+ "components": [
+  "AL",
+  "TA"
+ ],
+ "phases": [
+  "AL38TA48",
+  "AL69TA39",
+  "BCC_A2",
+  "LIQUID",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1883.0,
+   1822.0,
+   1733.0,
+   1367.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIGMA_D8B",
+    [
+     "TA"
+    ],
+    [
+     0.512
+    ]
+   ],
+   [
+    "AL69TA39",
+    [
+     "TA"
+    ],
+    [
+     0.376
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL69TA39",
+    [
+     "TA"
+    ],
+    [
+     0.359
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.249
+    ]
+   ]
+  ],
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "TA"
+    ],
+    [
+     0.51
+    ]
+   ],
+   [
+    "AL69TA39",
+    [
+     "TA"
+    ],
+    [
+     0.3611111111111111
+    ]
+   ],
+   [
+    "AL38TA48",
+    [
+     "TA"
+    ],
+    [
+     0.55814
+    ]
+   ]
+  ],
+  [
+   [
+    "AL69TA39",
+    [
+     "TA"
+    ],
+    [
+     0.356
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.251
+    ]
+   ],
+   [
+    "AL38TA48",
+    [
+     "TA"
+    ],
+    [
+     0.512
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2010, doi:10.1016/j.intermet.2009.06.015",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-L43EHLAPSG ORC-ZUBACZFP2G ORC-4C3LNAWLLP ORC-GIMMJSMQAB",
+ "bibtex": "witusiewicz2010_4304ae",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-L43EHLAPSG",
+    "paper": "doi:10.1016/j.intermet.2009.06.015",
+    "measured_in": "doi:10.1016/j.intermet.2009.06.015"
+   },
+   {
+    "id": "ORC-ZUBACZFP2G",
+    "paper": "doi:10.1016/j.intermet.2009.06.015",
+    "measured_in": "doi:10.1016/j.intermet.2009.06.015"
+   },
+   {
+    "id": "ORC-4C3LNAWLLP",
+    "paper": "doi:10.1016/j.intermet.2009.06.015",
+    "measured_in": "doi:10.1016/j.intermet.2009.06.015"
+   },
+   {
+    "id": "ORC-GIMMJSMQAB",
+    "paper": "doi:10.1016/j.intermet.2009.06.015",
+    "measured_in": "doi:10.1016/j.intermet.2009.06.015"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2009.06.015"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2009.06.015"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlTa-10Wit/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 8.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 9.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 16.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "CU51ZR14",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1123.0,
+  "X_ZR": [
+   0.215385
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    0.0
+   ]
+  ]
+ ],
+ "reference": "Turchanin 2008, doi:10.1007/s11106-008-9039-x",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JTZAQ5DB2I.b6337f",
+ "reference_states": {
+  "CU": {
+   "phase": "FCC_A1"
+  },
+  "ZR": {
+   "phase": "HCP_A3"
+  }
+ },
+ "weight": 2.5,
+ "bibtex": "turchanin2008_458466",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JTZAQ5DB2I.b6337f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11106-008-9039-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11106-008-9039-x"
+  ],
+  "dois": [
+   "10.1007/s11106-008-9039-x"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CuZr-08Tur/smr-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 0.08,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.08,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 2.5,
+    "weight_used": 2.5
+   }
+  ]
+ }
+}

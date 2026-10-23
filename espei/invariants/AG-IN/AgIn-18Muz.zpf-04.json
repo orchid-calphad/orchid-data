@@ -1,0 +1,246 @@
+{
+ "components": [
+  "AG",
+  "IN"
+ ],
+ "phases": [
+  "AG9IN4_D83",
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   966,
+   940,
+   933,
+   572,
+   477
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.18300000000000002
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     0.28300000000000003
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.239
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     0.18100000000000002
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.237
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.231
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.247
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.242
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.311
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.314
+    ]
+   ],
+   [
+    "AG9IN4_D83",
+    [
+     "IN"
+    ],
+    [
+     0.314
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.319
+    ]
+   ],
+   [
+    "AG9IN4_D83",
+    [
+     "IN"
+    ],
+    [
+     0.925
+    ]
+   ]
+  ]
+ ],
+ "reference": "1951, Hellner E (1951) Das zweistoffsystem silber-indium. Z Metallk 42:17–19",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MRKXIUZNWY ORC-ZSPB6ZALBT ORC-ESMQ7TMI5T ORC-DYHL4WYVPN ORC-7KC3RIW7OS",
+ "bibtex": "hellner1951_6359ba",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MRKXIUZNWY",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "ref:534e1c0c5c5f8a5c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-ZSPB6ZALBT",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "ref:534e1c0c5c5f8a5c"
+   },
+   {
+    "id": "ORC-ESMQ7TMI5T",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "ref:534e1c0c5c5f8a5c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-DYHL4WYVPN",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "ref:534e1c0c5c5f8a5c"
+   },
+   {
+    "id": "ORC-7KC3RIW7OS",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "ref:534e1c0c5c5f8a5c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:534e1c0c5c5f8a5c",
+   "doi:10.1007/s10853-018-1999-8"
+  ],
+  "dois": [
+   "10.1007/s10853-018-1999-8"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

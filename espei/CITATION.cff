@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite this Zenodo record and the original sources of the data (references.bib)."
+title: "ORCHID ESPEI datasets from the literature"
+type: dataset
+authors:
+  - family-names: "Arróyave"
+    given-names: "Raymundo"
+    orcid: "https://orcid.org/0000-0001-7548-8686"
+    affiliation: "Texas A&M University"
+  - family-names: "Saal"
+    given-names: "James"
+    orcid: "https://orcid.org/0000-0003-0935-158X"
+    affiliation: "Citrine Informatics"
+  - family-names: "Shin"
+    given-names: "Dongwon"
+    orcid: "https://orcid.org/0000-0002-5797-3423"
+    affiliation: "Oak Ridge National Laboratory"
+version: "2026.10"
+doi: "10.5281/zenodo.PENDING-espei"
+license: CC-BY-4.0
+url: "https://data.orchid-project.org"
+repository-code: "https://github.com/orchid-calphad/orchid-data"
+abstract: "ESPEI-format datasets (thermochemical, phase-equilibrium ZPF and invariant-reaction ZPF) built from the ORCHID literature values, one folder per evidence class (experimental, model, DFT: literature, Materials Project, OQMD), every value traced to its published ORCHID observation id and source DOI, with its uncertainty in physical units (printed, ESPEI's experimental default, or calibrated for DFT against experiment) and the ESPEI weight derived from it. Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress."
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.PENDING-orchid-data"
+    description: "Umbrella record ORCHID data (all datasets of release v2026.10)"
+keywords: [CALPHAD, ESPEI, thermodynamics, phase diagrams, ZPF, DFT, formation enthalpy, uncertainty, AI-ready data]

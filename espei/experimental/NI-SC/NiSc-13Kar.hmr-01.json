@@ -1,0 +1,80 @@
+{
+ "components": [
+  "NI",
+  "SC"
+ ],
+ "phases": [
+  "LIQUID",
+  "NISC2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SC": [
+   0.666667
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -20000.0
+   ]
+  ]
+ ],
+ "reference": "Semenova 1997, doi:10.1016/s0925-8388(97)00467-2",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-G4FXYKGDFO",
+ "reference_states": {
+  "NI": {
+   "phase": "FCC_A1"
+  },
+  "SC": {
+   "phase": "HCP_A3"
+  }
+ },
+ "bibtex": "semenova1997_90adde",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-G4FXYKGDFO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/s0925-8388(97)00467-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0925-8388(97)00467-2",
+   "doi:10.1016/j.calphad.2013.07.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.07.003",
+   "10.1016/s0925-8388(97)00467-2"
+  ],
+  "source_dataset": "db-v2.1/general/espei/NiSc-13Kar/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

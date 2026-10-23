@@ -1,0 +1,87 @@
+{
+ "components": [
+  "FE",
+  "MO"
+ ],
+ "phases": [
+  "LIQUID",
+  "R_PHASE",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1761
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.28
+    ]
+   ],
+   [
+    "SIGMA_D8B",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "R_PHASE",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1961, W.S. Gibson, J.R. Lee, W. Hume-Rothery, Liquidus–solidus relations in iron-rich iron–niobium and iron–molybdenum alloys, J. Iron Steel Inst., Lond. 198 (1961) 64–66.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-F3MJ6LGFPV",
+ "bibtex": "gibson1961_e26eb3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-F3MJ6LGFPV",
+    "paper": "doi:10.1016/j.jallcom.2014.05.030",
+    "measured_in": "ref:0803fa2e4034beaa"
+   }
+  ],
+  "papers": [
+   "ref:0803fa2e4034beaa",
+   "doi:10.1016/j.jallcom.2014.05.030"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.05.030"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeMo-14Raj/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

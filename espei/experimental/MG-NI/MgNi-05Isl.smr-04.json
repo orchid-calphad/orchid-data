@@ -1,0 +1,90 @@
+{
+ "components": [
+  "MG",
+  "NI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_NI": [
+   0.333333,
+   0.666667
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    -9.2,
+    -10.89
+   ]
+  ]
+ ],
+ "reference": "Islam 2005, doi:10.1016/j.calphad.2005.08.006",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KARWEPEIDM.9997a1 ORC-KARWEPEIDM.13e215",
+ "reference_states": {
+  "MG": {
+   "phase": "HCP_A3"
+  },
+  "NI": {
+   "phase": "FCC_A1"
+  }
+ },
+ "bibtex": "islam2005_a4d91f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KARWEPEIDM.9997a1",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.08.006"
+   },
+   {
+    "id": "ORC-KARWEPEIDM.13e215",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.08.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.08.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.08.006"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MgNi-05Isl/smr-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "components": [
+  "CO",
+  "GA"
+ ],
+ "phases": [
+  "COGA3"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CO",
+    "GA"
+   ],
+   [
+    "CO",
+    "GA"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -32400.0,
+    -25900.0
+   ]
+  ]
+ ],
+ "reference": "Chari 2010, doi:10.1016/j.calphad.2010.02.004",
+ "bibtex": "chari2010_125166",
+ "weight": [
+  0.161342,
+  0.161342
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB CoGa-10Cha.tdb (sha256 d36d75154ff187ec987f3f033ec9963eff169dd02215bce8311737df0203f8fd), phase COGA3. Ids, in value order: ORC-WE7SUXU7JE ORC-ZGNWM54HDH. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "CoGa-10Cha.tdb",
+   "path": "databases/sgte-binary/CoGa-10Cha.tdb",
+   "sha256": "d36d75154ff187ec987f3f033ec9963eff169dd02215bce8311737df0203f8fd",
+   "phase": "COGA3"
+  },
+  "registry_phase": "phase:co-ga:coga3",
+  "mapping": [
+   {
+    "id": "ORC-WE7SUXU7JE",
+    "compound": "CoGa3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-ZGNWM54HDH",
+    "compound": "CoGa3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.02.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2010.02.004"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 3099.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-GA",
+     "n": 92,
+     "sigma_robust_kJ": 3.099,
+     "bias_median_kJ_not_applied": 1.374,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.161342,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -32.4,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-WE7SUXU7JE",
+    "compound": "CoGa3"
+   },
+   {
+    "sigma": 3099.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-GA",
+     "n": 92,
+     "sigma_robust_kJ": 3.099,
+     "bias_median_kJ_not_applied": 1.374,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.161342,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -25.9,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-ZGNWM54HDH",
+    "compound": "CoGa3"
+   }
+  ]
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "components": [
+  "CU",
+  "MG"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "CUMG2_CB",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   998,
+   828,
+   753
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.23
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.585
+    ]
+   ],
+   [
+    "CUMG2_CB",
+    [
+     "MG"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "MG"
+    ],
+    [
+     0.353
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUMG2_CB",
+    [
+     "MG"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "1907, G.G. Urazova, Experimental Measurements for Cu-Mg System, Zh. Russ. Fiz-Khim. Obschestva, 1907, 39, p 1556-1581",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HTTAKBAQQG ORC-MLMXXW4DWH ORC-T6F3PLP4EC",
+ "bibtex": "urazova1907_2f660d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HTTAKBAQQG",
+    "paper": "doi:10.1007/s11669-007-9022-0",
+    "measured_in": "ref:6aadf5377d5a7ae1"
+   },
+   {
+    "id": "ORC-MLMXXW4DWH",
+    "paper": "doi:10.1007/s11669-007-9022-0",
+    "measured_in": "ref:6aadf5377d5a7ae1"
+   },
+   {
+    "id": "ORC-T6F3PLP4EC",
+    "paper": "doi:10.1007/s11669-007-9022-0",
+    "measured_in": "ref:6aadf5377d5a7ae1"
+   }
+  ],
+  "papers": [
+   "ref:6aadf5377d5a7ae1",
+   "doi:10.1007/s11669-007-9022-0"
+  ],
+  "dois": [
+   "10.1007/s11669-007-9022-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuMg-07Zho/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

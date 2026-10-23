@@ -1,0 +1,267 @@
+{
+ "components": [
+  "CU",
+  "SC"
+ ],
+ "phases": [
+  "CU2SC_C11B",
+  "CU4SC_D1A",
+  "CUSC_B2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1138,
+   1198,
+   1148,
+   1163,
+   1398,
+   1148
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.13
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SC"
+    ],
+    [
+     0.005
+    ]
+   ],
+   [
+    "CU4SC_D1A",
+    [
+     "SC"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "CU4SC_D1A",
+    [
+     "SC"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CU4SC_D1A",
+    [
+     "SC"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "CU2SC_C11B",
+    [
+     "SC"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUSC_B2",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CU2SC_C11B",
+    [
+     "SC"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUSC_B2",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.71
+    ]
+   ],
+   [
+    "CUSC_B2",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SC"
+    ],
+    [
+     0.99
+    ]
+   ]
+  ]
+ ],
+ "reference": "1970, E.M. Savitskii, V.F. Terekhova, R.S. Torchinova, I.A. Markova, O.P. Naumkin, V.E. Kolesnichenko, V.F. Stroganova, Les Elements des Terres Rares 1 (1970) 47–60.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PXCT53D4GI ORC-PVY4XAKXZN ORC-TCIRNCBFMS.e6bccd ORC-RWL24JAIPR ORC-K6R3PFB6QC ORC-TCIRNCBFMS.be7698",
+ "bibtex": "savitskii1970_772291",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PXCT53D4GI",
+    "paper": "doi:10.1016/j.jallcom.2009.10.003",
+    "measured_in": "ref:d8a4675596bc8835"
+   },
+   {
+    "id": "ORC-PVY4XAKXZN",
+    "paper": "doi:10.1016/j.jallcom.2009.10.003",
+    "measured_in": "ref:d8a4675596bc8835"
+   },
+   {
+    "id": "ORC-TCIRNCBFMS.e6bccd",
+    "paper": "doi:10.1016/j.jallcom.2009.10.003",
+    "measured_in": "ref:d8a4675596bc8835"
+   },
+   {
+    "id": "ORC-RWL24JAIPR",
+    "paper": "doi:10.1016/j.jallcom.2009.10.003",
+    "measured_in": "ref:d8a4675596bc8835"
+   },
+   {
+    "id": "ORC-K6R3PFB6QC",
+    "paper": "doi:10.1016/j.jallcom.2009.10.003",
+    "measured_in": "ref:d8a4675596bc8835"
+   },
+   {
+    "id": "ORC-TCIRNCBFMS.be7698",
+    "paper": "doi:10.1016/j.jallcom.2009.10.003",
+    "measured_in": "ref:d8a4675596bc8835"
+   }
+  ],
+  "papers": [
+   "ref:d8a4675596bc8835",
+   "doi:10.1016/j.jallcom.2009.10.003"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.10.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuSc-10Bo/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

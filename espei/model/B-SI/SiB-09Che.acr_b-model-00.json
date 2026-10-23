@@ -1,0 +1,181 @@
+{
+ "components": [
+  "B",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1850.0,
+  "X_SI": [
+   0.985,
+   0.967,
+   0.929,
+   0.876,
+   0.8200000000000001,
+   0.768,
+   0.7150000000000001
+  ]
+ },
+ "output": "ACR_B",
+ "values": [
+  [
+   [
+    0.01413,
+    0.03116,
+    0.06735,
+    0.1183,
+    0.1727,
+    0.2238,
+    0.2762
+   ]
+  ]
+ ],
+ "reference": "Chen 2009, doi:10.1016/j.jallcom.2009.03.044",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QAEAW37IWR ORC-4GFCGXAWJM ORC-2M3EZXZERP ORC-FITTPQKF77 ORC-SXXOB6X7B6 ORC-ZTKI53XHYD ORC-QCGRLCKP6T",
+ "reference_state": {
+  "phases": [
+   "LIQUID"
+  ],
+  "conditions": {
+   "P": 101325,
+   "T": 1850.0,
+   "X_B": 1.0
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "SiB-09Che.tdb",
+   "path": "databases/sgte-binary/SiB-09Che.tdb",
+   "sha256": "306d09e27c26972d99b5d99f49e741e3ebcf540843c5418866e01d27f6bb8c1a",
+   "catalog_entry": {
+    "name": "SiB-09Che.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2009-03-044",
+   "doi": "10.1016/j.jallcom.2009.03.044",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 481, 182-89(2009).",
+    "year": "2009"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "chen2009_6d06f1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-QAEAW37IWR",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1016/j.jallcom.2009.03.044"
+   },
+   {
+    "id": "ORC-4GFCGXAWJM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1016/j.jallcom.2009.03.044"
+   },
+   {
+    "id": "ORC-2M3EZXZERP",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1016/j.jallcom.2009.03.044"
+   },
+   {
+    "id": "ORC-FITTPQKF77",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1016/j.jallcom.2009.03.044"
+   },
+   {
+    "id": "ORC-SXXOB6X7B6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1016/j.jallcom.2009.03.044"
+   },
+   {
+    "id": "ORC-ZTKI53XHYD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1016/j.jallcom.2009.03.044"
+   },
+   {
+    "id": "ORC-QCGRLCKP6T",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1016/j.jallcom.2009.03.044"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.03.044"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.03.044"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/SiB-09Che/acr_b-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "1 (activity)",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_ACR = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "MG",
+  "SM"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "MG41SM5"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   815.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SM"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "MG41SM5",
+    [
+     "SM"
+    ],
+    [
+     0.10869565217391304
+    ]
+   ]
+  ]
+ ],
+ "reference": "1976, L.L. Rokhlin, E.M. Padezhnova, and L.S. Guzey, Investigation of Samarium Solubility in the Magnesium Based Solid Solution, Izv. Akad. Nauk. SSSR Met, 1976, 6, p 204–208.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5QRPMGFRBX",
+ "bibtex": "rokhlin1976_6a2a94",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5QRPMGFRBX",
+    "paper": "doi:10.1007/s11669-024-01111-0",
+    "measured_in": "ref:c5d2c3e10e19717e"
+   }
+  ],
+  "papers": [
+   "ref:c5d2c3e10e19717e",
+   "doi:10.1007/s11669-024-01111-0"
+  ],
+  "dois": [
+   "10.1007/s11669-024-01111-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgSm-24Jia/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

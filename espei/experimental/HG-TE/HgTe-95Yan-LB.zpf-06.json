@@ -1,0 +1,67 @@
+{
+ "components": [
+  "HG",
+  "TE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   943.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Jianrong 1995, doi:10.1016/0364-5916(95)00038-g",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-K5QGC6YQ5G",
+ "bibtex": "jianrong1995_0f4222",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-K5QGC6YQ5G",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00038-g"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0364-5916(95)00038-g"
+  ],
+  "dois": [
+   "10.1016/0364-5916(95)00038-g"
+  ],
+  "source_dataset": "db-v2.1/general/espei/HgTe-95Yan-LB/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 1.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

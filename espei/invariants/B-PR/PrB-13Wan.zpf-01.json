@@ -1,0 +1,292 @@
+{
+ "components": [
+  "B",
+  "PR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BETA_RHOMBO_B",
+  "DHCP",
+  "LIQUID",
+  "PR2B5",
+  "PRB4_D1E",
+  "PRB6_D21"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1068.15,
+   1183.15,
+   2273.15,
+   2623.15,
+   2883.15,
+   2298.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.001
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PR2B5",
+    [
+     "B"
+    ],
+    [
+     0.72
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.66
+    ]
+   ],
+   [
+    "PRB4_D1E",
+    [
+     "B"
+    ],
+    [
+     0.807
+    ]
+   ],
+   [
+    "PR2B5",
+    [
+     "B"
+    ],
+    [
+     0.72
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "PRB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "PRB4_D1E",
+    [
+     "B"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.8570000000000001
+    ]
+   ],
+   [
+    "PRB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.8570714285000001
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PRB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "K.E. Spear, Phase diagrams, Materials Science and Technology, Academic Press, New York, 1976pp. 91–159.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NO7X7NGHUC ORC-3RXDS6VVUF ORC-5FS3IHOPLO ORC-QCXR5JSPB3 ORC-XFNBTLXZG6 ORC-RG3V7RJTT6",
+ "bibtex": "spearnd_07f8e3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NO7X7NGHUC",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "ref:e6d8e1e1a16c6dfd"
+   },
+   {
+    "id": "ORC-3RXDS6VVUF",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "ref:e6d8e1e1a16c6dfd"
+   },
+   {
+    "id": "ORC-5FS3IHOPLO",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "ref:e6d8e1e1a16c6dfd",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-QCXR5JSPB3",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "ref:e6d8e1e1a16c6dfd"
+   },
+   {
+    "id": "ORC-XFNBTLXZG6",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "ref:e6d8e1e1a16c6dfd"
+   },
+   {
+    "id": "ORC-RG3V7RJTT6",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "ref:e6d8e1e1a16c6dfd"
+   }
+  ],
+  "papers": [
+   "ref:e6d8e1e1a16c6dfd",
+   "doi:10.1016/j.calphad.2013.03.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.03.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PrB-13Wan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 300.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

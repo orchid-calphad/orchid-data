@@ -1,0 +1,85 @@
+{
+ "components": [
+  "N",
+  "U"
+ ],
+ "phases": [
+  "FCC_B1",
+  "GAS",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3123.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_B1",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chevalier 2000, doi:10.1016/s0022-3115(00)00043-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DR2DQDJJ3L",
+ "bibtex": "chevalier2000_caa411",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DR2DQDJJ3L",
+    "paper": "doi:10.1016/s0022-3115(00)00043-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0022-3115(00)00043-x"
+  ],
+  "dois": [
+   "10.1016/s0022-3115(00)00043-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/UN-00Che/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

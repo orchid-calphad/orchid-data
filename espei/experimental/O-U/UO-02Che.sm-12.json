@@ -1,0 +1,75 @@
+{
+ "components": [
+  "O",
+  "U"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_U": [
+   0.307692
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    25.84102769230769
+   ]
+  ]
+ ],
+ "reference": "Chevalier 2002, doi:10.1016/s0022-3115(02)00813-9",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GSUCRMLDTW",
+ "weight": 0.597514,
+ "bibtex": "chevalier2002_e9ce6d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GSUCRMLDTW",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0022-3115(02)00813-9",
+   "doi:10.1021/ja01560a008"
+  ],
+  "dois": [
+   "10.1016/s0022-3115(02)00813-9",
+   "10.1021/ja01560a008"
+  ],
+  "source_dataset": "db-v2.1/general/espei/UO-02Che/sm-12.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 0.33472,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.33472,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.597514,
+    "weight_used": 0.597514
+   }
+  ]
+ }
+}

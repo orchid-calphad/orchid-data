@@ -1,0 +1,112 @@
+{
+ "components": [
+  "B",
+  "TI"
+ ],
+ "phases": [
+  "LIQUID",
+  "TIB2_C32",
+  "TIB_B27"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2173.0,
+   3193.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "TIB_B27",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "TIB2_C32",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Ma 2004, doi:10.1016/j.jallcom.2003.09.017",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ER4ODVK5JM ORC-77U6NDPHI6",
+ "bibtex": "ma2004_a2147e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ER4ODVK5JM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2003.09.017"
+   },
+   {
+    "id": "ORC-77U6NDPHI6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2003.09.017"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2003.09.017",
+   "doi:10.1016/0001-6160(54)90090-5"
+  ],
+  "dois": [
+   "10.1016/0001-6160(54)90090-5",
+   "10.1016/j.jallcom.2003.09.017"
+  ],
+  "source_dataset": "db-v2.1/general/espei/TiB-04Ma/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 50.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 30.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

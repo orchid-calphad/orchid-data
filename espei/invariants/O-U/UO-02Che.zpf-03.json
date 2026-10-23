@@ -1,0 +1,96 @@
+{
+ "components": [
+  "O",
+  "U"
+ ],
+ "phases": [
+  "U3O8",
+  "U4O9",
+  "UO2_C1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1401.65
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "UO2_C1",
+    [
+     "O"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "U3O8",
+    [
+     "O"
+    ],
+    [
+     0.7272727272727273
+    ]
+   ],
+   [
+    "U4O9",
+    [
+     "O"
+    ],
+    [
+     0.6923076923076923
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.6954156953333334
+    ]
+   ]
+  ]
+ ],
+ "reference": "1975, T. Matsui, K. Naito, J. Nucl. Mater. 56 (1975) 327.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CIYXEDUZKE",
+ "bibtex": "matsui1975_76d97f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CIYXEDUZKE",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9",
+    "measured_in": "ref:7e99d7dc16c043a4"
+   }
+  ],
+  "papers": [
+   "ref:7e99d7dc16c043a4",
+   "doi:10.1016/s0022-3115(02)00813-9"
+  ],
+  "dois": [
+   "10.1016/s0022-3115(02)00813-9"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/UO-02Che/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

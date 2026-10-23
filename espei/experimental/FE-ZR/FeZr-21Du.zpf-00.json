@@ -1,0 +1,878 @@
+{
+ "components": [
+  "FE",
+  "ZR"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "FCC_A1",
+  "FE23ZR6_D8A",
+  "FEZR3_E1A",
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1373.0,
+   1273.0,
+   1273.0,
+   1273.0,
+   1273.0,
+   1273.0,
+   973.0,
+   973.0,
+   973.0,
+   973.0,
+   973.0,
+   973.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.204
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.279
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.008
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.208
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.285
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.007
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.206
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.281
+    ]
+   ]
+  ],
+  [
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.202
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.284
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.12
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.282
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.009
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.211
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.278
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.007
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.206
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.283
+    ]
+   ]
+  ],
+  [
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.201
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.283
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.011
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.206
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.279
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.009
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.198
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.278
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.006
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.198
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.281
+    ]
+   ]
+  ],
+  [
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.205
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.288
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.007
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.206
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.287
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.005
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.202
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.292
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.005
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.29
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     0.004
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.211
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.293
+    ]
+   ]
+  ],
+  [
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.22
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.294
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.752
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.993
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.755
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.997
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.752
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.996
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.752
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.993
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.755
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.997
+    ]
+   ]
+  ],
+  [
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.752
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.996
+    ]
+   ]
+  ]
+ ],
+ "reference": "Du 2021, doi:10.1007/s42243-021-00570-w",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q347FR7PTK ORC-22PROMBQNQ ORC-Q2UKJLOIDH ORC-4C7WLLPVQT ORC-NK2NTJKUXB ORC-IHI576MLWS ORC-ZRCQTGK3NI ORC-IB2FU4GT6N ORC-SD7IVO25Q2 ORC-NW6DXWM5B4 ORC-VKA7HHKDRU ORC-WWVSZGYIUV ORC-OVQWEHZ6TT ORC-OVX2CRKR6O ORC-WWI7FFOTB6 ORC-CON54WZNIQ ORC-OXHVU6BQ4W ORC-UFZLLXQXQ4 ORC-ZJ637ABZNK ORC-S5BHDQN7K3 ORC-HUV7FI2SCB ORC-3X4JTYSMGJ ORC-EPMW7WQODE",
+ "bibtex": "du2021_e59688",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Q347FR7PTK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-22PROMBQNQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-Q2UKJLOIDH",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-4C7WLLPVQT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-NK2NTJKUXB",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-IHI576MLWS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-ZRCQTGK3NI",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-IB2FU4GT6N",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-SD7IVO25Q2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-NW6DXWM5B4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-VKA7HHKDRU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-WWVSZGYIUV",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-OVQWEHZ6TT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-OVX2CRKR6O",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-WWI7FFOTB6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-CON54WZNIQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-OXHVU6BQ4W",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-UFZLLXQXQ4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-ZJ637ABZNK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-S5BHDQN7K3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-HUV7FI2SCB",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-3X4JTYSMGJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   },
+   {
+    "id": "ORC-EPMW7WQODE",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00570-w",
+    "measured_in": "doi:10.1007/s42243-021-00570-w"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s42243-021-00570-w"
+  ],
+  "dois": [
+   "10.1007/s42243-021-00570-w"
+  ],
+  "source_dataset": "db-v2.1/general/espei/FeZr-21Du/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

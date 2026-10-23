@@ -1,0 +1,77 @@
+{
+ "components": [
+  "MN",
+  "O"
+ ],
+ "phases": [
+  "B1_OXIDE",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2148.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "B1_OXIDE",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Grundy 2003, doi:10.1007/s11669-003-0004-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NSRKRO72AL",
+ "bibtex": "grundy2003_8bbb0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NSRKRO72AL",
+    "paper": "doi:10.1007/s11669-003-0004-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-003-0004-6",
+   "doi:10.1002/srin.196103182"
+  ],
+  "dois": [
+   "10.1002/srin.196103182",
+   "10.1007/s11669-003-0004-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnO-03Gru-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "components": [
+  "CD",
+  "GD"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 728.0,
+  "X_GD": [
+   0.142857
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -28200.0
+   ]
+  ]
+ ],
+ "reference": "Azza 2024, doi:10.1007/s11669-024-01127-6",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WOHGM65OT2",
+ "reference_states": {
+  "CD": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "GD": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "azza2024_7bea06",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WOHGM65OT2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-024-01127-6",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-024-01127-6"
+  ],
+  "dois": [
+   "10.1007/s11669-024-01127-6"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CdGd-24Azz/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

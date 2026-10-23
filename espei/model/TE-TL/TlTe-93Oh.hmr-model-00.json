@@ -1,0 +1,146 @@
+{
+ "components": [
+  "TE",
+  "TL"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_TL": [
+   0.4,
+   0.4,
+   0.5,
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -17910.0,
+    -17910.0,
+    -22530.0,
+    -22530.0
+   ]
+  ]
+ ],
+ "reference": "Oh 1993, doi:10.1007/bf02667808",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FSP75VD3H4.6cc764 ORC-FSP75VD3H4.b580b3 ORC-LYBAGZYJQA.face3e ORC-LYBAGZYJQA.d19b91",
+ "reference_states": {
+  "TE": {
+   "phase": "HEXAGONAL_A8",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "TL": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "TlTe-93Oh.tdb",
+   "path": "databases/sgte-binary/TlTe-93Oh.tdb",
+   "sha256": "395f5718ea4ec44036eb7094652ca8de2e0bbe8559daa6b070ea1f5edf636e9c",
+   "catalog_entry": {
+    "name": "TlTe-93Oh.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-bf02667808",
+   "doi": "10.1007/BF02667808",
+   "citation": {
+    "authors": "see doi",
+    "title": "C.-S. Oh, D.N. Lee, J. Phase Equilib., 14, 197-204(1993).",
+    "year": "1993"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "oh1993_53fd2d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-FSP75VD3H4.6cc764",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667808",
+    "measured_in": "doi:10.1007/bf02667808"
+   },
+   {
+    "id": "ORC-FSP75VD3H4.b580b3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667808",
+    "measured_in": "doi:10.1007/bf02667808"
+   },
+   {
+    "id": "ORC-LYBAGZYJQA.face3e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667808",
+    "measured_in": "doi:10.1007/bf02667808"
+   },
+   {
+    "id": "ORC-LYBAGZYJQA.d19b91",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667808",
+    "measured_in": "doi:10.1007/bf02667808"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02667808"
+  ],
+  "dois": [
+   "10.1007/bf02667808"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/TlTe-93Oh/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

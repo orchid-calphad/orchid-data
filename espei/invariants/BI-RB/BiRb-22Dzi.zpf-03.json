@@ -1,0 +1,87 @@
+{
+ "components": [
+  "BI",
+  "RB"
+ ],
+ "phases": [
+  "BIRB3_D018",
+  "BIRB3_D03",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   503.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BIRB3_D03",
+    [
+     "RB"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BIRB3_D018",
+    [
+     "RB"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "Dziri 2022, doi:10.1007/s11669-022-00968-3",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HFY2SGHLTM",
+ "bibtex": "dziri2022_7a1c7b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HFY2SGHLTM",
+    "paper": "doi:10.1007/s11669-022-00968-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-022-00968-3"
+  ],
+  "dois": [
+   "10.1007/s11669-022-00968-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiRb-22Dzi/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 4.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

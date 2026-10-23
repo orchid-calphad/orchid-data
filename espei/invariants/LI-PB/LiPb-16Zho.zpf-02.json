@@ -1,0 +1,87 @@
+{
+ "components": [
+  "LI",
+  "PB"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIPB_B2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   508
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.843
+    ]
+   ],
+   [
+    "LIPB_B2",
+    [
+     "PB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     0.966
+    ]
+   ]
+  ]
+ ],
+ "reference": "1992, P. Hubberstey, T. Sample, M.G. Barker, J. Nucl. Mater. 191 (1992) 283e287.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-36OBL4OGEX",
+ "bibtex": "hubberstey1992_3e438b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-36OBL4OGEX",
+    "paper": "doi:10.1016/j.jnucmat.2016.04.061",
+    "measured_in": "ref:2ea629fcd2c32d34"
+   }
+  ],
+  "papers": [
+   "ref:2ea629fcd2c32d34",
+   "doi:10.1016/j.jnucmat.2016.04.061"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2016.04.061"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LiPb-16Zho/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

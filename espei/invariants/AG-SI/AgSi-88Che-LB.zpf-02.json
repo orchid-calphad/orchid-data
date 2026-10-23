@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AG",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1128
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.132
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1957, V. Gottardi, Met. Ital., 49 (1957) 721.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-N4RM64ZHTO",
+ "bibtex": "gottardi1957_258e80",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-N4RM64ZHTO",
+    "paper": "doi:10.1016/0040-6031(88)87048-5",
+    "measured_in": "ref:812d27d1ec52e4d5"
+   }
+  ],
+  "papers": [
+   "ref:812d27d1ec52e4d5",
+   "doi:10.1016/0040-6031(88)87048-5"
+  ],
+  "dois": [
+   "10.1016/0040-6031(88)87048-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgSi-88Che-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

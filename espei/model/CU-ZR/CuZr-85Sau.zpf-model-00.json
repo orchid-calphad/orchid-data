@@ -1,0 +1,168 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "CU51ZR14",
+  "CUZR2",
+  "CUZR_B2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1395.0,
+   1201.0,
+   1284.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.215385
+    ]
+   ],
+   [
+    "CU51ZR14",
+    [
+     "ZR"
+    ],
+    [
+     0.215385
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUZR_B2",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "CUZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Saunders 1985, doi:10.1016/0364-5916(85)90001-x",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "phase_compositions_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LZCKJYD7BX ORC-6LMUIXXZOC ORC-QPXDQVRMEK",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CuZr-85Sau.tdb",
+   "path": "databases/sgte-binary/CuZr-85Sau.tdb",
+   "sha256": "0777f6451f7bea94535c0ad513c8fb43cf1670b372be48f60782b8c18b598440",
+   "catalog_entry": {
+    "name": "CuZr-85Sau.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-0364-5916-85-90001-x",
+   "doi": "10.1016/0364-5916(85)90001-X",
+   "citation": {
+    "authors": "see doi",
+    "title": "N. Saunders, Calphad, 9, 297-309(1985).",
+    "year": "1985"
+   }
+  },
+  "model_reproduction": null
+ },
+ "bibtex": "saunders1985_d20727",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-LZCKJYD7BX",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618",
+    "measured_in": "doi:10.1016/0364-5916(85)90001-x"
+   },
+   {
+    "id": "ORC-6LMUIXXZOC",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618",
+    "measured_in": "doi:10.1016/0364-5916(85)90001-x"
+   },
+   {
+    "id": "ORC-QPXDQVRMEK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618",
+    "measured_in": "doi:10.1016/0364-5916(85)90001-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0364-5916(85)90001-x",
+   "doi:10.1007/bf02647618"
+  ],
+  "dois": [
+   "10.1007/bf02647618",
+   "10.1016/0364-5916(85)90001-x"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CuZr-85Sau/zpf-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

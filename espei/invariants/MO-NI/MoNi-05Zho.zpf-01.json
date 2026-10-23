@@ -1,0 +1,96 @@
+{
+ "components": [
+  "MO",
+  "NI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "MONI",
+  "NI3X_D0A"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1200
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MONI",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NI3X_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ]
+ ],
+ "reference": "1938, G. Grube, H. Schlecht, Z. Elektrochem. 44 (1938) 413–423.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-U7KEZAT5XW",
+ "bibtex": "grube1938_473167",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-U7KEZAT5XW",
+    "paper": "doi:10.1016/j.msea.2005.02.037",
+    "measured_in": "ref:64bd41e3c09efb1f"
+   }
+  ],
+  "papers": [
+   "ref:64bd41e3c09efb1f",
+   "doi:10.1016/j.msea.2005.02.037"
+  ],
+  "dois": [
+   "10.1016/j.msea.2005.02.037"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoNi-05Zho/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

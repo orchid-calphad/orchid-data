@@ -1,0 +1,75 @@
+{
+ "components": [
+  "B",
+  "ND"
+ ],
+ "phases": [
+  "LIQUID",
+  "NDB6_D21"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2883.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NDB6_D21",
+    [
+     "ND"
+    ],
+    [
+     0.142857
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.142857
+    ]
+   ]
+  ]
+ ],
+ "reference": "Hallemans 1995, doi:10.1007/bf02664851",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FRY43XWKRN",
+ "bibtex": "hallemans1995_82a0a1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FRY43XWKRN",
+    "paper": "doi:10.1007/bf02664851"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02664851"
+  ],
+  "dois": [
+   "10.1007/bf02664851"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NdB-95Hal-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

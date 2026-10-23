@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AL",
+  "MN"
+ ],
+ "phases": [
+  "A2_BCC",
+  "AL8MN5_D810",
+  "CUB_A13"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1113
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "A2_BCC",
+    [
+     "MN"
+    ],
+    [
+     0.525
+    ]
+   ],
+   [
+    "AL8MN5_D810",
+    [
+     "MN"
+    ],
+    [
+     0.505
+    ]
+   ],
+   [
+    "CUB_A13",
+    [
+     "MN"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ]
+ ],
+ "reference": "Koch 1960, doi:10.1063/1.1984610",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NZAYMM6DOS",
+ "bibtex": "koch1960_faee64",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NZAYMM6DOS",
+    "paper": "doi:10.1361/105497199770335938",
+    "measured_in": "doi:10.1063/1.1984610"
+   }
+  ],
+  "papers": [
+   "doi:10.1063/1.1984610",
+   "doi:10.1361/105497199770335938"
+  ],
+  "dois": [
+   "10.1063/1.1984610",
+   "10.1361/105497199770335938"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlMn-99Liu-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

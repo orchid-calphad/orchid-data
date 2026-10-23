@@ -1,0 +1,82 @@
+{
+ "components": [
+  "FE",
+  "TI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 973.0,
+  "X_TI": [
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -21290.0
+   ]
+  ]
+ ],
+ "reference": "Santhy 2021, doi:10.1016/j.intermet.2020.106978",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4OG4MKELM3",
+ "reference_states": {
+  "FE": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "TI": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "santhy2021_5962cb",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4OG4MKELM3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2020.106978"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2020.106978"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2020.106978"
+  ],
+  "source_dataset": "db-v2.1/general/espei/FeTi-21San/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

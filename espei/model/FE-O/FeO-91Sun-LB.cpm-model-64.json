@@ -1,0 +1,119 @@
+{
+ "components": [
+  "FE",
+  "O"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1850.0,
+  "X_O": [
+   0.6,
+   0.571429,
+   0.571429
+  ]
+ },
+ "output": "CPM",
+ "values": [
+  [
+   [
+    27.3488,
+    29.36785714285714,
+    29.36785714285714
+   ]
+  ]
+ ],
+ "reference": "Sundman 1991, doi:10.1007/bf02645709",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HYI32PTQYW.47905b ORC-BSGJPO5DYV.28a485 ORC-BSGJPO5DYV.20cf1e",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "FeO-91Sun-LB.tdb",
+   "path": "databases/sgte-binary/FeO-91Sun-LB.tdb",
+   "sha256": "0670fd1794f0d2b7a955c6e5ecbbbdbd9a62e8c33912ce376c5ef47191527406",
+   "catalog_entry": {
+    "name": "FeO-91Sun-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-bf02645709",
+   "doi": "10.1007/BF02645709",
+   "citation": {
+    "authors": "see doi",
+    "title": "B. Sundman, J. Phase Equilib., 12, 127-40(1991).",
+    "year": "1991"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "sundman1991_dc82c5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-HYI32PTQYW.47905b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02645709",
+    "measured_in": "doi:10.1007/bf02645709"
+   },
+   {
+    "id": "ORC-BSGJPO5DYV.28a485",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02645709",
+    "measured_in": "doi:10.1007/bf02645709"
+   },
+   {
+    "id": "ORC-BSGJPO5DYV.20cf1e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02645709",
+    "measured_in": "doi:10.1007/bf02645709"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02645709"
+  ],
+  "dois": [
+   "10.1007/bf02645709"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/FeO-91Sun-LB/cpm-model-64.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_CPM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

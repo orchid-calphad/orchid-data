@@ -1,0 +1,126 @@
+{
+ "components": [
+  "AU",
+  "SB"
+ ],
+ "phases": [
+  "AUSB2_C2",
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   733.17,
+   632.74
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.655
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "AUSB2_C2",
+    [
+     "SB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.362
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SB"
+    ],
+    [
+     0.007
+    ]
+   ],
+   [
+    "AUSB2_C2",
+    [
+     "SB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Kim 2002, doi:10.1007/s11664-002-0125-4",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JAT47GF4CD ORC-BWIUMIEEUF",
+ "bibtex": "kim2002_dfa932",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JAT47GF4CD",
+    "paper": "doi:10.1007/s11664-002-0125-4",
+    "measured_in": "doi:10.1007/s11664-002-0125-4"
+   },
+   {
+    "id": "ORC-BWIUMIEEUF",
+    "paper": "doi:10.1007/s11664-002-0125-4",
+    "measured_in": "doi:10.1007/s11664-002-0125-4"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11664-002-0125-4"
+  ],
+  "dois": [
+   "10.1007/s11664-002-0125-4"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuSb-02Kim/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,226 @@
+{
+ "components": [
+  "CO",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CO11ZR2",
+  "CO23ZR6_D8A",
+  "COZR2_C16",
+  "COZR3",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1553,
+   1303,
+   1251,
+   1103
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "CO11ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.15384615384615385
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.180371353
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.7540000000000001
+    ]
+   ],
+   [
+    "COZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "COZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.7083333334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "2010, Kosorukova, T., Agraval, P., Ivanchenko, V., Turchanin, M, (2010) Experimental reinvestigations and thermodynamic assessment of the Co–Zr system, XI International Conference on Crystal Chemistry of Intermetallic Compounds, May 30–June 2, National University of Lviv, p 52",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TLJNKWW6IQ ORC-662722X7NM ORC-6USTEB4QEU ORC-IG55O5GH53",
+ "bibtex": "kosorukova2010_f08f67",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-TLJNKWW6IQ",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:7c601a5ebcdd3aec"
+   },
+   {
+    "id": "ORC-662722X7NM",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:7c601a5ebcdd3aec"
+   },
+   {
+    "id": "ORC-6USTEB4QEU",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:7c601a5ebcdd3aec"
+   },
+   {
+    "id": "ORC-IG55O5GH53",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:7c601a5ebcdd3aec"
+   }
+  ],
+  "papers": [
+   "ref:7c601a5ebcdd3aec",
+   "doi:10.1007/s11669-020-00859-5"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00859-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoZr-21Zho/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "components": [
+  "AS",
+  "U"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "ORTHORHOMBIC_A20",
+  "TETRAGONAL_U",
+  "UAS_B1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1398.15,
+   1048.15,
+   938.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "UAS_B1",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "UAS_B1",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "UAS_B1",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A20",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2013, doi:10.1016/j.jnucmat.2013.04.066",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NRKGNTF2T4 ORC-YAEFCZ7HFL ORC-OFAJMYUFUF",
+ "bibtex": "wang2013_6dc3e3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NRKGNTF2T4",
+    "paper": "doi:10.1016/j.jnucmat.2013.04.066"
+   },
+   {
+    "id": "ORC-YAEFCZ7HFL",
+    "paper": "doi:10.1016/j.jnucmat.2013.04.066"
+   },
+   {
+    "id": "ORC-OFAJMYUFUF",
+    "paper": "doi:10.1016/j.jnucmat.2013.04.066"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2013.04.066",
+   "doi:10.1149/1.2411157"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2013.04.066",
+   "10.1149/1.2411157"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/UAs-13Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

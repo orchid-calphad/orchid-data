@@ -1,0 +1,102 @@
+{
+ "components": [
+  "LI",
+  "SB"
+ ],
+ "phases": [
+  "LI2SB",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 700.65,
+  "X_SB": [
+   0.333333
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    -13.066666666666668
+   ]
+  ]
+ ],
+ "reference": "Zhang 2017, doi:10.1016/j.calphad.2017.01.005",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IWVZOUUPGY.b2359a",
+ "reference_states": {
+  "LI": {
+   "phase": "LIQUID"
+  },
+  "SB": {
+   "phase": "RHOMBOHEDRAL_A7"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "LiSb-17Zha.tdb",
+   "path": "databases/sgte-binary/LiSb-17Zha.tdb",
+   "sha256": "69f98315030807278c40e208cd5c226a711d1a40ba15ed41148c0418beea42e2",
+   "catalog_entry": {
+    "name": "LiSb-17Zha.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2017-01-005",
+   "doi": "10.1016/j.calphad.2017.01.005",
+   "citation": {
+    "authors": "see doi",
+    "title": "F. Zhang, S. Liu, J. Wang, Y. Du, L. Sun, Calphad, 57, 28-36(2017).",
+    "year": "2017"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "zhang2017_b681d5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-IWVZOUUPGY.b2359a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2017.01.005",
+    "measured_in": "doi:10.1016/j.calphad.2017.01.005"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2017.01.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2017.01.005"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/LiSb-17Zha/smr-model-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

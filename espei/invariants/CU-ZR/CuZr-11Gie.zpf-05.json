@@ -1,0 +1,537 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU10ZR7",
+  "CU2ZR",
+  "CU51ZR14",
+  "CU5ZR7",
+  "CU8ZR3",
+  "CU9ZR2_C15B",
+  "CUZR2",
+  "CUZR_B2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1271,
+   1311,
+   1305,
+   1293,
+   1269,
+   1220,
+   1186,
+   1200,
+   1178,
+   1184,
+   1004
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.106
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU9ZR2_C15B",
+    [
+     "ZR"
+    ],
+    [
+     0.18181818181818182
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.125
+    ]
+   ],
+   [
+    "CU51ZR14",
+    [
+     "ZR"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ],
+   [
+    "CU9ZR2_C15B",
+    [
+     "ZR"
+    ],
+    [
+     0.18181818181818182
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.34
+    ]
+   ],
+   [
+    "CU51ZR14",
+    [
+     "ZR"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ],
+   [
+    "CU8ZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.2727272727272727
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU8ZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.2727272727272727
+    ]
+   ],
+   [
+    "CU2ZR",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.303030303
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.57
+    ]
+   ],
+   [
+    "CUZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "CU5ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.5833333333333334
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.56
+    ]
+   ],
+   [
+    "CU5ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.5833333333333334
+    ]
+   ],
+   [
+    "CUZR_B2",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2ZR",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "CU10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.37254901949999997
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ],
+   [
+    "CUZR_B2",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.455882353
+    ]
+   ]
+  ],
+  [
+   [
+    "CU2ZR",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "CU8ZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.2727272727272727
+    ]
+   ],
+   [
+    "CU10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.339275104
+    ]
+   ]
+  ],
+  [
+   [
+    "CUZR_B2",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CU10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ],
+   [
+    "CU5ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.5833333333333334
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.498366013
+    ]
+   ]
+  ]
+ ],
+ "reference": "1988, M.H. Braga, L. Malheiros, F. Castro, D. Soares, Z. Metallkd. 89 (1988) 541–545.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZK3QPWAGX4 ORC-UD4MKJHPRO ORC-VY7BHU5LAJ ORC-K4ZMOVTPXJ ORC-KJ5LRNWQDV ORC-WW4TDMEQAM ORC-PBFTQ5WCNF ORC-B6WZMOCSXP ORC-DEXYFK4J4G ORC-KCFIWQJUED ORC-J2XMZNUSTX",
+ "bibtex": "braga1988_93ac41",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZK3QPWAGX4",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   },
+   {
+    "id": "ORC-UD4MKJHPRO",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   },
+   {
+    "id": "ORC-VY7BHU5LAJ",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   },
+   {
+    "id": "ORC-K4ZMOVTPXJ",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   },
+   {
+    "id": "ORC-KJ5LRNWQDV",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   },
+   {
+    "id": "ORC-WW4TDMEQAM",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   },
+   {
+    "id": "ORC-PBFTQ5WCNF",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-B6WZMOCSXP",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   },
+   {
+    "id": "ORC-DEXYFK4J4G",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   },
+   {
+    "id": "ORC-KCFIWQJUED",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-J2XMZNUSTX",
+    "paper": "doi:10.1016/j.jallcom.2011.04.141",
+    "measured_in": "ref:7f3880f26c291a20"
+   }
+  ],
+  "papers": [
+   "ref:7f3880f26c291a20",
+   "doi:10.1016/j.jallcom.2011.04.141"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2011.04.141"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuZr-11Gie/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

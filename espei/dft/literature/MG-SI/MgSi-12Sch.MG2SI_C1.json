@@ -1,0 +1,271 @@
+{
+ "components": [
+  "MG",
+  "SI"
+ ],
+ "phases": [
+  "MG2SI_C1"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "MG",
+    "SI"
+   ],
+   [
+    "MG",
+    "SI"
+   ],
+   [
+    "MG",
+    "SI"
+   ],
+   [
+    "MG",
+    "SI"
+   ],
+   [
+    "MG",
+    "SI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -16700.0,
+    -18200.0,
+    -17700.0,
+    -17700.0,
+    -15400.0
+   ]
+  ]
+ ],
+ "reference": "Schick 2012, doi:10.1016/j.calphad.2012.02.001; Yuan 2009, doi:10.1016/j.calphad.2009.08.004",
+ "bibtex": "schick2012_730b66 yuan2009_4ae599",
+ "weight": [
+  0.070264,
+  0.070264,
+  0.070264,
+  0.070264,
+  0.070264
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB MgSi-12Sch.tdb (sha256 fb5bcd7ddaaab551834ae583f3ba434991b4d8f8b5a09af0099cd9b7003ca827), phase MG2SI_C1. Ids, in value order: ORC-3EP2RAVNHP.c91b91 ORC-5VIZ44FGIK ORC-AP4XHDIAMA ORC-FYZFTH4VM6 ORC-TKZQ4AI54G.9dc254. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "MgSi-12Sch.tdb",
+   "path": "databases/sgte-binary/MgSi-12Sch.tdb",
+   "sha256": "fb5bcd7ddaaab551834ae583f3ba434991b4d8f8b5a09af0099cd9b7003ca827",
+   "phase": "MG2SI_C1"
+  },
+  "registry_phase": "phase:mg-si:mg2si-c1",
+  "mapping": [
+   {
+    "id": "ORC-3EP2RAVNHP.c91b91",
+    "compound": "Mg2Si",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-5VIZ44FGIK",
+    "compound": "Mg2Si",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-AP4XHDIAMA",
+    "compound": "Mg2Si",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-FYZFTH4VM6",
+    "compound": "Mg2Si",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-TKZQ4AI54G.9dc254",
+    "compound": "Mg2Si",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2012.02.001",
+   "doi:10.1016/j.calphad.2009.08.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.08.004",
+   "10.1016/j.calphad.2012.02.001"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 7116.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "MG-SI",
+     "n": 55,
+     "sigma_robust_kJ": 7.116,
+     "bias_median_kJ_not_applied": 0.0,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.070264,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -16.7,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-3EP2RAVNHP.c91b91",
+    "compound": "Mg2Si"
+   },
+   {
+    "sigma": 7116.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "MG-SI",
+     "n": 55,
+     "sigma_robust_kJ": 7.116,
+     "bias_median_kJ_not_applied": 0.0,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.070264,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -18.2,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-5VIZ44FGIK",
+    "compound": "Mg2Si"
+   },
+   {
+    "sigma": 7116.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "MG-SI",
+     "n": 55,
+     "sigma_robust_kJ": 7.116,
+     "bias_median_kJ_not_applied": 0.0,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.070264,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -17.7,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-AP4XHDIAMA",
+    "compound": "Mg2Si"
+   },
+   {
+    "sigma": 7116.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "MG-SI",
+     "n": 55,
+     "sigma_robust_kJ": 7.116,
+     "bias_median_kJ_not_applied": 0.0,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.070264,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -17.7,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-FYZFTH4VM6",
+    "compound": "Mg2Si"
+   },
+   {
+    "sigma": 7116.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "MG-SI",
+     "n": 55,
+     "sigma_robust_kJ": 7.116,
+     "bias_median_kJ_not_applied": 0.0,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.070264,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -15.4,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-TKZQ4AI54G.9dc254",
+    "compound": "Mg2Si"
+   }
+  ]
+ }
+}

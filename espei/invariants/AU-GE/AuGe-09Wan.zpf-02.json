@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AU",
+  "GE"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   629
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.27
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1945, R.I. Jaffee, E.M. Smith, B.W. Gonser, Trans. Met. Soc. AIME 161 (1945) 366.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3IZLR4KPMY",
+ "bibtex": "jaffee1945_6dceca",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3IZLR4KPMY",
+    "paper": "doi:10.1016/j.jallcom.2009.03.114",
+    "measured_in": "ref:3a69957be3c78414"
+   }
+  ],
+  "papers": [
+   "ref:3a69957be3c78414",
+   "doi:10.1016/j.jallcom.2009.03.114"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.03.114"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuGe-09Wan/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

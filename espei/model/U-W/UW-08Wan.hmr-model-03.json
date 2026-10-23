@@ -1,0 +1,153 @@
+{
+ "components": [
+  "U",
+  "W"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 4073.15,
+  "X_W": [
+   0.9,
+   0.7,
+   0.5,
+   0.3
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    3330.0,
+    5210.0,
+    3120.0,
+    49.0
+   ]
+  ]
+ ],
+ "reference": "Wang 2008, doi:10.1016/j.jnucmat.2008.07.009",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KGGVZQ7DFJ ORC-ZT4L36FZKV ORC-I3YVZGDLBS ORC-FJ4EUWRLL4",
+ "reference_states": {
+  "U": {
+   "phase": "LIQUID"
+  },
+  "W": {
+   "phase": "LIQUID"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "UW-08Wan.tdb",
+   "path": "databases/sgte-binary/UW-08Wan.tdb",
+   "sha256": "b39bc5b283c025c04ac160ca05d3aea7dc5e5bb6ca777b7655122fd99a205168",
+   "catalog_entry": {
+    "name": "UW-08Wan.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jnucmat-2008-07-009",
+   "doi": "10.1016/j.jnucmat.2008.07.009",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Wang, X.J. Liu, C.P. Wang, J. Nucl. Mater., 380, 105-10(2008).",
+    "year": "2008"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "wang2008_846e07",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-KGGVZQ7DFJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jnucmat.2008.07.009",
+    "measured_in": "doi:10.1016/j.jnucmat.2008.07.009",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-ZT4L36FZKV",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jnucmat.2008.07.009",
+    "measured_in": "doi:10.1016/j.jnucmat.2008.07.009",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-I3YVZGDLBS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jnucmat.2008.07.009",
+    "measured_in": "doi:10.1016/j.jnucmat.2008.07.009",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-FJ4EUWRLL4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jnucmat.2008.07.009",
+    "measured_in": "doi:10.1016/j.jnucmat.2008.07.009",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2008.07.009"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2008.07.009"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/UW-08Wan/hmr-model-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

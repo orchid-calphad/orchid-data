@@ -1,0 +1,77 @@
+{
+ "components": [
+  "SB",
+  "TE"
+ ],
+ "phases": [
+  "LIQUID",
+  "SB2TE3_C33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   894
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "SB2TE3_C33",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ]
+ ],
+ "reference": "1971, V.M. Glazov, R.A. Kuliev, and A.N. Krestovnikov, Zh. Fiz. Khim. 45, 2671 (1971).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-62NHMVR3HD",
+ "bibtex": "glazov1971_b8ed9b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-62NHMVR3HD",
+    "paper": "doi:10.1007/s11664-014-3299-7",
+    "measured_in": "ref:9e32ae3151171083"
+   }
+  ],
+  "papers": [
+   "ref:9e32ae3151171083",
+   "doi:10.1007/s11664-014-3299-7"
+  ],
+  "dois": [
+   "10.1007/s11664-014-3299-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SbTe-14Guo/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

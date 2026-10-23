@@ -1,0 +1,365 @@
+{
+ "components": [
+  "CO",
+  "ZR"
+ ],
+ "phases": [
+  "B2_BCC",
+  "BCC_A2",
+  "C15_LAVES",
+  "CO11ZR2",
+  "CO23ZR6_D8A",
+  "COZR2_C16",
+  "COZR3",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1513,
+   1543,
+   1623,
+   1533,
+   1643,
+   1313,
+   1363,
+   1103
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.09
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO11ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.15384615384615385
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "CO11ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.15384615384615385
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.180371353
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.46
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.64
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "COZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "COZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1970, S.K. Bataleva, V.V. Kuprina, V.V. Burnasheva, V.Y. Markiv, G.N. Ronami, and S.M. Kurnetsova, S.K. Bataleva, V.V. Kuprina, V.V. Burnasheva, V.Y. Markiv, G.N. Ronami, and S.M. Kurnetsova, Phase Diagram of Cobalt– Zirconium System, Moscow Univ. Chem. Bull., 1970, 25(5), p 33–36",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EL2YJQLNM2 ORC-IFGEOXZXZQ ORC-KZV3B4XJF3 ORC-4GXIXUIBPM ORC-SLUDWGGEYR ORC-SQW7GCGPWW ORC-F72PHYU4G4 ORC-UVNDEODUNE",
+ "bibtex": "bataleva1970_0212a0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EL2YJQLNM2",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:3f08bd7729c2514e"
+   },
+   {
+    "id": "ORC-IFGEOXZXZQ",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:3f08bd7729c2514e"
+   },
+   {
+    "id": "ORC-KZV3B4XJF3",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:3f08bd7729c2514e"
+   },
+   {
+    "id": "ORC-4GXIXUIBPM",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:3f08bd7729c2514e",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-SLUDWGGEYR",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:3f08bd7729c2514e"
+   },
+   {
+    "id": "ORC-SQW7GCGPWW",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:3f08bd7729c2514e",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-F72PHYU4G4",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:3f08bd7729c2514e"
+   },
+   {
+    "id": "ORC-UVNDEODUNE",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:3f08bd7729c2514e"
+   }
+  ],
+  "papers": [
+   "ref:3f08bd7729c2514e",
+   "doi:10.1007/s11669-020-00859-5"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00859-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoZr-21Zho/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

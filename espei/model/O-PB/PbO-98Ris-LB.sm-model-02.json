@@ -1,0 +1,119 @@
+{
+ "components": [
+  "O",
+  "PB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_PB": [
+   0.5,
+   0.5,
+   0.428571
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    33.15,
+    34.35,
+    29.571428571428573
+   ]
+  ]
+ ],
+ "reference": "Risold 1998, doi:10.1361/105497198770342238",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2NEHG54LHP.180250 ORC-XYFQXGYQGO.a16b2a ORC-Y2WSRB4DLG.7e51f5",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "PbO-98Ris-LB.tdb",
+   "path": "databases/sgte-binary/PbO-98Ris-LB.tdb",
+   "sha256": "263b6f32a74f0f6232040d9fb16113f17966ccd583327cf83e335a97dfece95f",
+   "catalog_entry": {
+    "name": "PbO-98Ris-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1361-105497198770342238",
+   "doi": "10.1361/105497198770342238",
+   "citation": {
+    "authors": "see doi",
+    "title": "D. Risold, J.-I. Nagata, R.O. Suzuki, J. Phase Equilib., 19, 213-33(1998).",
+    "year": "1998"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "risold1998_941f5a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-2NEHG54LHP.180250",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497198770342238",
+    "measured_in": "doi:10.1361/105497198770342238"
+   },
+   {
+    "id": "ORC-XYFQXGYQGO.a16b2a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497198770342238",
+    "measured_in": "doi:10.1361/105497198770342238"
+   },
+   {
+    "id": "ORC-Y2WSRB4DLG.7e51f5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497198770342238",
+    "measured_in": "doi:10.1361/105497198770342238"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497198770342238"
+  ],
+  "dois": [
+   "10.1361/105497198770342238"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/PbO-98Ris-LB/sm-model-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

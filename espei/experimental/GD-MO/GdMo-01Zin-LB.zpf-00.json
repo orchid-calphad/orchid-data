@@ -1,0 +1,167 @@
+{
+ "components": [
+  "GD",
+  "MO"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2737.0,
+   1572.0,
+   1873.0,
+   2783.0,
+   2843.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.9
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.9906
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.03
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.9991
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.9906
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.9995
+    ]
+   ]
+  ]
+ ],
+ "reference": "1966, Chuang Yu-Chin, Li Chao-Wu, Chuang Hsiang-Lin, and Kao Lien-Mei: Acta Metall. Sinica (China), 1966, vol. 9, pp. 110-12 (in Chinese).",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RJYO6DSFXG ORC-USLOFB5ZKR ORC-Q5HKM7WB2H ORC-SDFS6VTJXC ORC-54EL7CGPEA",
+ "bibtex": "chuang1966_9cd9a6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RJYO6DSFXG",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770339283",
+    "measured_in": "ref:7895b380b0ba5384"
+   },
+   {
+    "id": "ORC-USLOFB5ZKR",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770339283",
+    "measured_in": "ref:7895b380b0ba5384"
+   },
+   {
+    "id": "ORC-Q5HKM7WB2H",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770339283",
+    "measured_in": "ref:7895b380b0ba5384"
+   },
+   {
+    "id": "ORC-SDFS6VTJXC",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770339283",
+    "measured_in": "ref:7895b380b0ba5384"
+   },
+   {
+    "id": "ORC-54EL7CGPEA",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770339283",
+    "measured_in": "ref:7895b380b0ba5384"
+   }
+  ],
+  "papers": [
+   "ref:7895b380b0ba5384",
+   "doi:10.1361/105497101770339283"
+  ],
+  "dois": [
+   "10.1361/105497101770339283"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GdMo-01Zin-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 15.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

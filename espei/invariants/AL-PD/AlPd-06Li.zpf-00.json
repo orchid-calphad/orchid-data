@@ -1,0 +1,201 @@
+{
+ "components": [
+  "AL",
+  "PD"
+ ],
+ "phases": [
+  "AL21PD8",
+  "AL3PD",
+  "AL4PD",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   889.0,
+   1055.0,
+   877.0,
+   852.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PD"
+    ],
+    [
+     0.0689
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.002
+    ]
+   ],
+   [
+    "AL3PD",
+    [
+     "PD"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PD"
+    ],
+    [
+     0.2086
+    ]
+   ],
+   [
+    "AL21PD8",
+    [
+     "PD"
+    ],
+    [
+     0.27586206896551724
+    ]
+   ],
+   [
+    "AL3PD",
+    [
+     "PD"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.00178
+    ]
+   ],
+   [
+    "AL3PD",
+    [
+     "PD"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AL4PD",
+    [
+     "PD"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "AL3PD",
+    [
+     "PD"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AL21PD8",
+    [
+     "PD"
+    ],
+    [
+     0.27586206896551724
+    ]
+   ],
+   [
+    "AL4PD",
+    [
+     "PD"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2006, doi:10.1016/j.intermet.2005.04.001",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RN7H5D3QVO ORC-JARU4MSN74 ORC-PM63LOUWKB ORC-TTKFOHYLFU",
+ "bibtex": "li2006_fed093",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RN7H5D3QVO",
+    "paper": "doi:10.1016/j.intermet.2005.04.001"
+   },
+   {
+    "id": "ORC-JARU4MSN74",
+    "paper": "doi:10.1016/j.intermet.2005.04.001"
+   },
+   {
+    "id": "ORC-PM63LOUWKB",
+    "paper": "doi:10.1016/j.intermet.2005.04.001"
+   },
+   {
+    "id": "ORC-TTKFOHYLFU",
+    "paper": "doi:10.1016/j.intermet.2005.04.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2005.04.001"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2005.04.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlPd-06Li/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

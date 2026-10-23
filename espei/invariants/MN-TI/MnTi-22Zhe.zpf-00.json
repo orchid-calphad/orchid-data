@@ -1,0 +1,168 @@
+{
+ "components": [
+  "MN",
+  "TI"
+ ],
+ "phases": [
+  "C14_LAVES",
+  "CBCC_A12",
+  "LIQUID",
+  "MN3TI",
+  "MN4TI"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1518,
+   1498,
+   1098
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.11499999999999999
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "TI"
+    ],
+    [
+     0.30999999999999994
+    ]
+   ],
+   [
+    "MN3TI",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.09999999999999998
+    ]
+   ],
+   [
+    "MN3TI",
+    [
+     "TI"
+    ],
+    [
+     0.245
+    ]
+   ],
+   [
+    "MN4TI",
+    [
+     "TI"
+    ],
+    [
+     0.18499999999999994
+    ]
+   ]
+  ],
+  [
+   [
+    "MN3TI",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "TI"
+    ],
+    [
+     0.12
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "TI"
+    ],
+    [
+     0.31999999999999995
+    ]
+   ]
+  ]
+ ],
+ "reference": "Khan 2016, doi:10.1039/c6cp04542a",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CRG2HAABOY ORC-BYE7CMAAVT ORC-BS3L4SQGA6",
+ "bibtex": "khan2016_bcff17",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CRG2HAABOY",
+    "paper": "doi:10.1016/j.jallcom.2021.161957",
+    "measured_in": "doi:10.1039/c6cp04542a"
+   },
+   {
+    "id": "ORC-BYE7CMAAVT",
+    "paper": "doi:10.1016/j.jallcom.2021.161957",
+    "measured_in": "doi:10.1039/c6cp04542a"
+   },
+   {
+    "id": "ORC-BS3L4SQGA6",
+    "paper": "doi:10.1016/j.jallcom.2021.161957",
+    "measured_in": "doi:10.1039/c6cp04542a"
+   }
+  ],
+  "papers": [
+   "doi:10.1039/c6cp04542a",
+   "doi:10.1016/j.jallcom.2021.161957"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2021.161957",
+   "10.1039/c6cp04542a"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnTi-22Zhe/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

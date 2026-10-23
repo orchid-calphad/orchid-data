@@ -1,0 +1,193 @@
+{
+ "components": [
+  "GA",
+  "TI"
+ ],
+ "phases": [
+  "GA2TI",
+  "GA3TI2",
+  "GA3TI_D022",
+  "GATI_L10",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1441.0,
+   1348.0,
+   1203.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GATI_L10",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GA2TI",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.4166665
+    ]
+   ]
+  ],
+  [
+   [
+    "GATI_L10",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GA2TI",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "GA3TI2",
+    [
+     "TI"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.411111
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2TI",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "GA3TI_D022",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.2916665
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2003, doi:10.1016/s0925-8388(03)00131-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3DJWAR3TGF ORC-V5C6IJ3LT6 ORC-GW7FEJFYBM",
+ "bibtex": "li2003_c0f02b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3DJWAR3TGF",
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "measured_in": "doi:10.1016/s0925-8388(03)00131-2"
+   },
+   {
+    "id": "ORC-V5C6IJ3LT6",
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "measured_in": "doi:10.1016/s0925-8388(03)00131-2"
+   },
+   {
+    "id": "ORC-GW7FEJFYBM",
+    "paper": "doi:10.1016/s0925-8388(03)00131-2",
+    "measured_in": "doi:10.1016/s0925-8388(03)00131-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0925-8388(03)00131-2"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(03)00131-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaTi-03Li-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "components": [
+  "GA",
+  "N"
+ ],
+ "phases": [
+  "GAN_B4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_N": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -52100.0
+   ]
+  ]
+ ],
+ "reference": "Unland 2003, doi:10.1016/s0022-0248(03)01352-6",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-L4ZDFWE5GW",
+ "reference_states": {
+  "GA": {
+   "phase": "ORTHORHOMBIC_GA",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "N": {
+   "phase": "1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.125,
+ "bibtex": "unland2003_f78ae9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-L4ZDFWE5GW",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-0248(03)01352-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0022-0248(03)01352-6",
+   "doi:10.1002/zaac.19402440203"
+  ],
+  "dois": [
+   "10.1002/zaac.19402440203",
+   "10.1016/s0022-0248(03)01352-6"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GaN-03Unl/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 4000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 4.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.125,
+    "weight_used": 0.125
+   }
+  ]
+ }
+}

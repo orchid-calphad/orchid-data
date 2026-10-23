@@ -1,0 +1,96 @@
+{
+ "components": [
+  "GA",
+  "TB"
+ ],
+ "phases": [
+  "GA2TB_C32",
+  "GA3TB",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1283.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2TB_C32",
+    [
+     "TB"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "GA3TB",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.2916665
+    ]
+   ]
+  ]
+ ],
+ "reference": "Jun 2008, doi:10.1016/j.jallcom.2007.09.067",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NZEZZF3JOA",
+ "bibtex": "jun2008_3c1c99",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NZEZZF3JOA",
+    "paper": "doi:10.1016/j.jallcom.2007.09.067"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2007.09.067",
+   "doi:10.1016/0022-5088(81)90179-x"
+  ],
+  "dois": [
+   "10.1016/0022-5088(81)90179-x",
+   "10.1016/j.jallcom.2007.09.067"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaTb-08Jun/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

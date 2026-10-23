@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AL",
+  "ZR"
+ ],
+ "phases": [
+  "AL3ZR_D023",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   933
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3ZR_D023",
+    [
+     "ZR"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ]
+ ],
+ "reference": "Khvan 2018, doi:10.1016/j.jallcom.2018.02.023",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WKVL2HWAPQ",
+ "bibtex": "khvan2018_7d6e2c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WKVL2HWAPQ",
+    "paper": "doi:10.1007/s11669-020-00827-z",
+    "measured_in": "doi:10.1016/j.jallcom.2018.02.023"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2018.02.023",
+   "doi:10.1007/s11669-020-00827-z"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00827-z",
+   "10.1016/j.jallcom.2018.02.023"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlZr-20Lon/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

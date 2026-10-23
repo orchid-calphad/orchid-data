@@ -1,0 +1,168 @@
+{
+ "components": [
+  "CE",
+  "NI"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "CE7NI3_D102",
+  "CENI_B33",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   757.15,
+   771.15,
+   928.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.33
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Palumbo 2004, doi:10.1016/j.intermet.2004.04.035",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VR47KI5CGY ORC-ODEMF4XXSL ORC-N7PCB4OU4E",
+ "bibtex": "palumbo2004_61f15f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VR47KI5CGY",
+    "paper": "doi:10.1016/j.intermet.2007.04.004",
+    "measured_in": "doi:10.1016/j.intermet.2004.04.035"
+   },
+   {
+    "id": "ORC-ODEMF4XXSL",
+    "paper": "doi:10.1016/j.intermet.2007.04.004",
+    "measured_in": "doi:10.1016/j.intermet.2004.04.035"
+   },
+   {
+    "id": "ORC-N7PCB4OU4E",
+    "paper": "doi:10.1016/j.intermet.2007.04.004",
+    "measured_in": "doi:10.1016/j.intermet.2004.04.035"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2004.04.035",
+   "doi:10.1016/j.intermet.2007.04.004"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2004.04.035",
+   "10.1016/j.intermet.2007.04.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeNi-07Xio/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

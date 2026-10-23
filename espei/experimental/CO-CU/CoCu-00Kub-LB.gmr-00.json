@@ -1,0 +1,265 @@
+{
+ "components": [
+  "CO",
+  "CU"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1810.15,
+  "X_CU": [
+   0.0,
+   0.1,
+   0.2,
+   0.3,
+   0.4,
+   0.5,
+   0.6,
+   0.7,
+   0.8,
+   0.9,
+   1.0
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    0.0,
+    2339.0,
+    4165.0,
+    5477.0,
+    6272.0,
+    6545.0,
+    6295.0,
+    5519.0,
+    4213.0,
+    2374.0,
+    0.0
+   ]
+  ]
+ ],
+ "reference": "Kubišta 2000, doi:10.1361/105497100770340165",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TR6KLBVTSD.be92d6 ORC-7Q6GTFL6KA.8a5ede ORC-3RZGRHX4QP.d05f14 ORC-ROR6FAZ425.6e6fca ORC-VBBQTFHUJL.0249b3 ORC-PTBBESK7CF.6e079f ORC-3X4RSXHHJB.e21fee ORC-66G22ACQWU.910498 ORC-S3GQ53FH2A.e0c90c ORC-KO7WAXW372.c8644e ORC-XFCMBPD5UQ.4c00bd",
+ "reference_states": {
+  "CO": {
+   "phase": "LIQUID"
+  },
+  "CU": {
+   "phase": "LIQUID"
+  }
+ },
+ "bibtex": "kubista2000_0c78e0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-TR6KLBVTSD.be92d6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "judge_adjudicated",
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-7Q6GTFL6KA.8a5ede",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "judge_adjudicated",
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-3RZGRHX4QP.d05f14",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "judge_adjudicated",
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-ROR6FAZ425.6e6fca",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-VBBQTFHUJL.0249b3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "judge_adjudicated",
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-PTBBESK7CF.6e079f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-3X4RSXHHJB.e21fee",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-66G22ACQWU.910498",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-S3GQ53FH2A.e0c90c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-KO7WAXW372.c8644e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-XFCMBPD5UQ.4c00bd",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770340165",
+    "measured_in": "doi:10.1361/105497100770340165",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497100770340165"
+  ],
+  "dois": [
+   "10.1361/105497100770340165"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CoCu-00Kub-LB/gmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

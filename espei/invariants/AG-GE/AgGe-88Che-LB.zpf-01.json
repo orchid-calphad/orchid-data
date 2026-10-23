@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AG",
+  "GE"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   922
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.241
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     0.079
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Briggs 1929, doi:10.1021/j150301a010",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q4XYHVNJYA",
+ "bibtex": "briggs1929_c8622d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Q4XYHVNJYA",
+    "paper": "doi:10.1016/0040-6031(88)87047-3",
+    "measured_in": "doi:10.1021/j150301a010"
+   }
+  ],
+  "papers": [
+   "doi:10.1021/j150301a010",
+   "doi:10.1016/0040-6031(88)87047-3"
+  ],
+  "dois": [
+   "10.1016/0040-6031(88)87047-3",
+   "10.1021/j150301a010"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgGe-88Che-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "components": [
+  "AG",
+  "ND"
+ ],
+ "phases": [
+  "AG2ND_ALPHA",
+  "AG2ND_BETA",
+  "AGND_B2",
+  "DHCP",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1083,
+   1218,
+   923,
+   893
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.41000000000000003
+    ]
+   ],
+   [
+    "AG2ND_BETA",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AGND_B2",
+    [
+     "ND"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AGND_B2",
+    [
+     "ND"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "AGND_B2",
+    [
+     "ND"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "AG2ND_ALPHA",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AG2ND_BETA",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "1978, I. Stape, T. Ebert, J. Less-Common Met. 58 (1978) P47.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KZLTQHFRLI ORC-5WY7GODVOU ORC-TWY2KTKJKN ORC-YKMQXGKBQB",
+ "bibtex": "stape1978_7cdbc8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KZLTQHFRLI",
+    "paper": "doi:10.1016/j.jallcom.2008.03.039",
+    "measured_in": "ref:e1056ed34b54e6ef"
+   },
+   {
+    "id": "ORC-5WY7GODVOU",
+    "paper": "doi:10.1016/j.jallcom.2008.03.039",
+    "measured_in": "ref:e1056ed34b54e6ef"
+   },
+   {
+    "id": "ORC-TWY2KTKJKN",
+    "paper": "doi:10.1016/j.jallcom.2008.03.039",
+    "measured_in": "ref:e1056ed34b54e6ef",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-YKMQXGKBQB",
+    "paper": "doi:10.1016/j.jallcom.2008.03.039",
+    "measured_in": "ref:e1056ed34b54e6ef"
+   }
+  ],
+  "papers": [
+   "ref:e1056ed34b54e6ef",
+   "doi:10.1016/j.jallcom.2008.03.039"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.03.039"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgNd-09Hua/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

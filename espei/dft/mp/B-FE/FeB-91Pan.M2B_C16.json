@@ -1,0 +1,107 @@
+{
+ "components": [
+  "B",
+  "FE"
+ ],
+ "phases": [
+  "M2B_C16"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   0.666667,
+   0.333333
+  ],
+  "sublattice_configurations": [
+   [
+    "FE",
+    "B"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -29668.61
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.046773
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB FeB-91Pan.tdb (sha256 9f52784aa22c8ff3f0897df2ad6878b58c903241f0983e5430d5ca3db77f2e44), phase M2B_C16. Ids, in value order: mp-aaaaacvr. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "FeB-91Pan.tdb",
+   "path": "databases/sgte-binary/FeB-91Pan.tdb",
+   "sha256": "9f52784aa22c8ff3f0897df2ad6878b58c903241f0983e5430d5ca3db77f2e44",
+   "phase": "M2B_C16"
+  },
+  "registry_phase": "phase:b-fe:c16-m2b",
+  "mapping": [
+   {
+    "id": "mp-aaaaacvr",
+    "compound": "Fe2B",
+    "basis": "registry DFT name mp:mp-aaaaacvr",
+    "space_group": "I4/mcm",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10690.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "polymorph_ambiguous|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "B-FE",
+     "n": 332,
+     "sigma_robust_kJ": 10.69,
+     "bias_median_kJ_not_applied": -1.25,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      9.234,
+      13.55
+     ],
+     "n_full_stratum": 332
+    },
+    "weight_used": 0.046773,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.30749344472222145,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaacvr",
+    "compound": "Fe2B"
+   }
+  ]
+ }
+}

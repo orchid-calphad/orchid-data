@@ -1,0 +1,85 @@
+{
+ "components": [
+  "AL",
+  "IR"
+ ],
+ "phases": [
+  "ALIR_B2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2173.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALIR_B2",
+    [
+     "IR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "JIANG 2006, doi:10.1016/j.actamat.2006.03.058",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SN6AKRGVKT",
+ "bibtex": "jiang2006_eb3817",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SN6AKRGVKT",
+    "paper": "doi:10.1016/j.actamat.2006.03.058"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2006.03.058"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2006.03.058"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlIr-06Jia/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

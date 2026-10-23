@@ -1,0 +1,113 @@
+{
+ "components": [
+  "AU",
+  "SN"
+ ],
+ "phases": [
+  "AUSN4_D1C"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   4.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AU",
+    "SN"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -7190.0
+   ]
+  ]
+ ],
+ "reference": "Hu 2022, doi:10.1088/2053-1591/ac475f",
+ "bibtex": "hu2022_705629",
+ "weight": [
+  0.073866
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AuSn-03Liu.tdb (sha256 85bfdb38f6a2edc37df6d448e9de84e838e7ab6d61d4524663e07192bfe013e8), phase AUSN4_D1C. Ids, in value order: ORC-44RSKX6UYU. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AuSn-03Liu.tdb",
+   "path": "databases/sgte-binary/AuSn-03Liu.tdb",
+   "sha256": "85bfdb38f6a2edc37df6d448e9de84e838e7ab6d61d4524663e07192bfe013e8",
+   "phase": "AUSN4_D1C"
+  },
+  "registry_phase": "phase:au-sn:ausn4-d1c",
+  "mapping": [
+   {
+    "id": "ORC-44RSKX6UYU",
+    "compound": "AuSn4",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1088/2053-1591/ac475f"
+  ],
+  "dois": [
+   "10.1088/2053-1591/ac475f"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6769.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AU-SN",
+     "n": 100,
+     "sigma_robust_kJ": 6.769,
+     "bias_median_kJ_not_applied": 0.577,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.073866,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -7.19,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-44RSKX6UYU",
+    "compound": "AuSn4"
+   }
+  ]
+ }
+}

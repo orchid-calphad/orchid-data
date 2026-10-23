@@ -1,0 +1,182 @@
+{
+ "components": [
+  "GA",
+  "LI"
+ ],
+ "phases": [
+  "GA14LI3",
+  "GA2LI3",
+  "GALI2",
+  "GALI_B32",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   300.5,
+   788,
+   750
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.017
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA14LI3",
+    [
+     "LI"
+    ],
+    [
+     0.17647058823529413
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.715
+    ]
+   ],
+   [
+    "GALI_B32",
+    [
+     "LI"
+    ],
+    [
+     0.58
+    ]
+   ],
+   [
+    "GALI2",
+    [
+     "LI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "GALI_B32",
+    [
+     "LI"
+    ],
+    [
+     0.56
+    ]
+   ],
+   [
+    "GALI2",
+    [
+     "LI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "GA2LI3",
+    [
+     "LI"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ]
+ ],
+ "reference": "1973, Yatsenko SP, Chuntonov KA, Alyamovsky SI, Diyeva EN. Izv Akad Nauk SSSR Met 1973;1:185.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-G7FVZ2O4DW ORC-KECVRUOJ47 ORC-B6FTFDW34W",
+ "bibtex": "yatsenko1973_efd6fa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-G7FVZ2O4DW",
+    "paper": "doi:10.1016/s1359-6462(02)00634-6",
+    "measured_in": "ref:6772adb6b6142ffa"
+   },
+   {
+    "id": "ORC-KECVRUOJ47",
+    "paper": "doi:10.1016/s1359-6462(02)00634-6",
+    "measured_in": "ref:6772adb6b6142ffa",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-B6FTFDW34W",
+    "paper": "doi:10.1016/s1359-6462(02)00634-6",
+    "measured_in": "ref:6772adb6b6142ffa"
+   }
+  ],
+  "papers": [
+   "ref:6772adb6b6142ffa",
+   "doi:10.1016/s1359-6462(02)00634-6"
+  ],
+  "dois": [
+   "10.1016/s1359-6462(02)00634-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaLi-03Yua/zpf-00.json",
+  "espei_evaluation": {
+   "tdb": "GaLi-03Yua",
+   "vertices": 5,
+   "median_abs_driving_force_J": 36.77,
+   "max_abs_driving_force_J": 343.24
+  }
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

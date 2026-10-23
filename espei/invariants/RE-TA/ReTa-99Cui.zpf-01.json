@@ -1,0 +1,181 @@
+{
+ "components": [
+  "RE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CHI_A12",
+  "HCP_A3",
+  "LIQUID",
+  "RE3TA2_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3103,
+   2953,
+   2673
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TA"
+    ],
+    [
+     0.052000000000000005
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "TA"
+    ],
+    [
+     0.195
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "TA"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "RE3TA2_D8B",
+    [
+     "TA"
+    ],
+    [
+     0.47000000000000003
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RE3TA2_D8B",
+    [
+     "TA"
+    ],
+    [
+     0.48
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.58
+    ]
+   ]
+  ]
+ ],
+ "reference": "1905, M.A. Tylkina, I.A. Tsyganova, E.M. Savitski, Zhur. Neog. Khimii 5 (8) (1960) 1905.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EEHN3WO7KU ORC-DL4DCIGBJ7 ORC-FMS2PFSEYH",
+ "bibtex": "tylkina1905_7a5745",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EEHN3WO7KU",
+    "paper": "doi:10.1016/s0925-8388(98)01005-6",
+    "measured_in": "ref:4032bd30fac4d574",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-DL4DCIGBJ7",
+    "paper": "doi:10.1016/s0925-8388(98)01005-6",
+    "measured_in": "ref:4032bd30fac4d574",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-FMS2PFSEYH",
+    "paper": "doi:10.1016/s0925-8388(98)01005-6",
+    "measured_in": "ref:4032bd30fac4d574",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:4032bd30fac4d574",
+   "doi:10.1016/s0925-8388(98)01005-6"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(98)01005-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ReTa-99Cui/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 25.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 25.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

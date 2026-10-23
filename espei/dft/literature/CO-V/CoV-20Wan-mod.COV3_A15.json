@@ -1,0 +1,229 @@
+{
+ "components": [
+  "CO",
+  "V"
+ ],
+ "phases": [
+  "COV3_A15"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    4642.0,
+    -18959.5,
+    9184.9,
+    -2651.9
+   ]
+  ]
+ ],
+ "reference": "Wang 2020, doi:10.1016/j.calphad.2019.101729",
+ "bibtex": "wang2020_f5bf31",
+ "weight": [
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB CoV-20Wan-mod.tdb (sha256 80e65f032fcdd04ed7434bcfcfc3484a72315feb640322dca3f7750febbb8618), phase COV3_A15. Ids, in value order: ORC-3SRRMHKM5B ORC-4T2NOFYF4Y ORC-RACHXT46RW ORC-YO25DK7EV4. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "CoV-20Wan-mod.tdb",
+   "path": "databases/sgte-binary/CoV-20Wan-mod.tdb",
+   "sha256": "80e65f032fcdd04ed7434bcfcfc3484a72315feb640322dca3f7750febbb8618",
+   "phase": "COV3_A15"
+  },
+  "registry_phase": "phase:co-v:cov3-a15",
+  "mapping": [
+   {
+    "id": "ORC-3SRRMHKM5B",
+    "compound": "CoV3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-4T2NOFYF4Y",
+    "compound": "CoV3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-RACHXT46RW",
+    "compound": "CoV3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-YO25DK7EV4",
+    "compound": "CoV3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2019.101729"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2019.101729"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 4.642,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-3SRRMHKM5B",
+    "compound": "CoV3"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -18.9595,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-4T2NOFYF4Y",
+    "compound": "CoV3"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 9.1849,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-RACHXT46RW",
+    "compound": "CoV3"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -2.6519,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-YO25DK7EV4",
+    "compound": "CoV3"
+   }
+  ]
+ }
+}

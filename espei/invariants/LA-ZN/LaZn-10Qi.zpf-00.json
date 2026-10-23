@@ -1,0 +1,146 @@
+{
+ "components": [
+  "LA",
+  "ZN"
+ ],
+ "phases": [
+  "LA2ZN17",
+  "LAZN11",
+  "LAZN13_D23",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1117,
+   983
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LA2ZN17",
+    [
+     "ZN"
+    ],
+    [
+     0.8947368421052632
+    ]
+   ],
+   [
+    "LAZN11",
+    [
+     "ZN"
+    ],
+    [
+     0.9166666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.9057017545
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LAZN11",
+    [
+     "ZN"
+    ],
+    [
+     0.9166666666666666
+    ]
+   ],
+   [
+    "LAZN13_D23",
+    [
+     "ZN"
+    ],
+    [
+     0.9285714285714286
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.922619048
+    ]
+   ]
+  ]
+ ],
+ "reference": "Iandelli 1967, doi:10.1016/0022-5088(67)90001-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BS2FFUBWL7 ORC-F5LCWJX7SA",
+ "bibtex": "iandelli1967_989e8f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BS2FFUBWL7",
+    "paper": "doi:10.1016/j.jallcom.2010.03.062",
+    "measured_in": "doi:10.1016/0022-5088(67)90001-x"
+   },
+   {
+    "id": "ORC-F5LCWJX7SA",
+    "paper": "doi:10.1016/j.jallcom.2010.03.062",
+    "measured_in": "doi:10.1016/0022-5088(67)90001-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(67)90001-x",
+   "doi:10.1016/j.jallcom.2010.03.062"
+  ],
+  "dois": [
+   "10.1016/0022-5088(67)90001-x",
+   "10.1016/j.jallcom.2010.03.062"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LaZn-10Qi/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

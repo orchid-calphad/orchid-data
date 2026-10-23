@@ -1,0 +1,211 @@
+{
+ "components": [
+  "CU",
+  "GA"
+ ],
+ "phases": [
+  "CUGA2",
+  "CUGA_GAM_1",
+  "CUGA_GAM_2",
+  "CUGA_GAM_3",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   751.0,
+   740.0,
+   522.0,
+   302.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CUGA_GAM_1",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUGA_GAM_2",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "CUGA_GAM_2",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUGA_GAM_3",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUGA_GAM_3",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUGA2",
+    [
+     "GA"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.5833335
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUGA2",
+    [
+     "GA"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Jendrzejczyk-Handzlik 2015, doi:10.1016/j.jallcom.2014.08.037",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LEBGSK7L2D ORC-VPBTAZCGZL ORC-22CZXOAM2I ORC-TWPIHVJAA5",
+ "bibtex": "jendrzejczykhandzlik2015_9a5995",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LEBGSK7L2D",
+    "paper": "doi:10.1016/j.jallcom.2014.08.037"
+   },
+   {
+    "id": "ORC-VPBTAZCGZL",
+    "paper": "doi:10.1016/j.jallcom.2014.08.037"
+   },
+   {
+    "id": "ORC-22CZXOAM2I",
+    "paper": "doi:10.1016/j.jallcom.2014.08.037"
+   },
+   {
+    "id": "ORC-TWPIHVJAA5",
+    "paper": "doi:10.1016/j.jallcom.2014.08.037"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.08.037"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.08.037"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuGa-15Jen/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "components": [
+  "C",
+  "CR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "M23C6_D84",
+  "M7C3_D101"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1852,
+   1885,
+   2054
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "C"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "C"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "C"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "C"
+    ],
+    [
+     0.253448276
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "C"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ]
+ ],
+ "reference": "1987, V.N. Eremenko, T.Ya. Velikanova, A.A. Bondar, Phase diagram of the Cr–Mo–C system. Phase equilibria in the area of crystallization of alloys of the Mo–Mo2C–Cr7C3–C partial system, Poroshk. Metall. 5 (293) (1987) 70–76 (in Russian).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3PODAQ3HGQ ORC-AJ3WQMISS7 ORC-5NKVGIYPK7",
+ "bibtex": "eremenko1987_bfd15a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3PODAQ3HGQ",
+    "paper": "doi:10.1016/j.calphad.2012.09.002",
+    "measured_in": "ref:3d0e04c6f2a67bcf"
+   },
+   {
+    "id": "ORC-AJ3WQMISS7",
+    "paper": "doi:10.1016/j.calphad.2012.09.002",
+    "measured_in": "ref:3d0e04c6f2a67bcf"
+   },
+   {
+    "id": "ORC-5NKVGIYPK7",
+    "paper": "doi:10.1016/j.calphad.2012.09.002",
+    "measured_in": "ref:3d0e04c6f2a67bcf"
+   }
+  ],
+  "papers": [
+   "ref:3d0e04c6f2a67bcf",
+   "doi:10.1016/j.calphad.2012.09.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2012.09.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrC-12Khv/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

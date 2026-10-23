@@ -1,0 +1,198 @@
+{
+ "components": [
+  "CO",
+  "W"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1350.0,
+  "X_W": [
+   0.03,
+   0.03,
+   0.05,
+   0.05,
+   0.07,
+   0.07
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -941.0,
+    -941.0,
+    -1280.0,
+    -1280.0,
+    -1498.0,
+    -1498.0
+   ]
+  ]
+ ],
+ "reference": "Guillermet 1989, doi:10.1007/bf02651660",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZW4FB7HMVM.00a81f ORC-ZW4FB7HMVM.00a81f ORC-VHX6GMMSGM.10fb72 ORC-VHX6GMMSGM.10fb72 ORC-YOJB4D7DY3.a30c8d ORC-YOJB4D7DY3.a30c8d",
+ "reference_states": {
+  "CO": {
+   "phase": "FCC_A1"
+  },
+  "W": {
+   "phase": "FCC_A1"
+  }
+ },
+ "weight": 0.002967,
+ "bibtex": "guillermet1989_f5be51",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZW4FB7HMVM.00a81f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02651660",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-ZW4FB7HMVM.00a81f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02651660",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-VHX6GMMSGM.10fb72",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02651660",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-VHX6GMMSGM.10fb72",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02651660",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-YOJB4D7DY3.a30c8d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02651660",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-YOJB4D7DY3.a30c8d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02651660",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02651660",
+   "doi:10.1016/0021-9614(76)90023-9"
+  ],
+  "dois": [
+   "10.1007/bf02651660",
+   "10.1016/0021-9614(76)90023-9"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CoW-89Fer-LB/gmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 238.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.238,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.004202,
+    "weight_used": 0.002967
+   },
+   {
+    "sigma": 238.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.238,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.004202,
+    "weight_used": 0.002967
+   },
+   {
+    "sigma": 337.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.337,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.002967,
+    "weight_used": 0.002967
+   },
+   {
+    "sigma": 337.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.337,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.002967,
+    "weight_used": 0.002967
+   },
+   {
+    "sigma": 435.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.435,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.002299,
+    "weight_used": 0.002967
+   },
+   {
+    "sigma": 435.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.435,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.002299,
+    "weight_used": 0.002967
+   }
+  ]
+ }
+}

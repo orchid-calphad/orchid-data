@@ -1,0 +1,108 @@
+{
+ "components": [
+  "AS",
+  "SI"
+ ],
+ "phases": [
+  "SIAS"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SI",
+    "AS"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -8852.34
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.054413
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB SiAs-21Wu.tdb (sha256 227b4fb79ef39210da44285453e05202276986c9254e4c0f20a1b2fd8abbeae1), phase SIAS. Ids, in value order: oqmd-8010. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "SiAs-21Wu.tdb",
+   "path": "databases/sgte-binary/SiAs-21Wu.tdb",
+   "sha256": "227b4fb79ef39210da44285453e05202276986c9254e4c0f20a1b2fd8abbeae1",
+   "phase": "SIAS"
+  },
+  "registry_phase": "phase:as-si:sias",
+  "mapping": [
+   {
+    "id": "oqmd-8010",
+    "compound": "As1 Si1",
+    "basis": "registry DFT name oqmd:oqmd-8010",
+    "space_group": "C2/m",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9189.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "polymorph_ambiguous|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AS-SI",
+     "n": 379,
+     "sigma_robust_kJ": 9.189,
+     "bias_median_kJ_not_applied": 1.145,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.958,
+      11.207
+     ],
+     "n_full_stratum": 379
+    },
+    "weight_used": 0.054413,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.0917480325,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-8010",
+    "compound": "As1 Si1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "MG",
+  "SM"
+ ],
+ "phases": [
+  "LIQUID",
+  "MG2SM_C15",
+  "MGSM_B2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   993.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SM"
+    ],
+    [
+     0.379
+    ]
+   ],
+   [
+    "MG2SM_C15",
+    [
+     "SM"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "MGSM_B2",
+    [
+     "SM"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1986, C. Zheng, L. Chen, S. Tian, and Y. Ye, Phase Diagram of the Magnesium-Samarium System and Intermetallic Compound Sm2Mg13, Wuji Huaxue, 1986, 2(2), p 80–84.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YHJQJIF2RZ",
+ "bibtex": "zheng1986_378497",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YHJQJIF2RZ",
+    "paper": "doi:10.1007/s11669-024-01111-0",
+    "measured_in": "ref:b28ed041d4d17352"
+   }
+  ],
+  "papers": [
+   "ref:b28ed041d4d17352",
+   "doi:10.1007/s11669-024-01111-0"
+  ],
+  "dois": [
+   "10.1007/s11669-024-01111-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgSm-24Jia/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

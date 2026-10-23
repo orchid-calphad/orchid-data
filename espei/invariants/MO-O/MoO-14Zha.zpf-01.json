@@ -1,0 +1,144 @@
+{
+ "components": [
+  "MO",
+  "O"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "MO4O11",
+  "MOO2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2423.15,
+   1091.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MOO2",
+    [
+     "O"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MOO2",
+    [
+     "O"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "MO4O11",
+    [
+     "O"
+    ],
+    [
+     0.7333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.7
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, L. Brewer, R.H. Lamoreaux, Mo–O (Molybdenum–Oxygen), In: TB Massalski (Ed.), Binary Alloy Phase Diagrams, 1990, pp. 2639–2641",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-B3ZFPV4RP7 ORC-UUOU4YRKZL",
+ "bibtex": "brewer1990_f6b304",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-B3ZFPV4RP7",
+    "paper": "doi:10.1016/j.calphad.2013.12.006",
+    "measured_in": "ref:b1d2865b7769d5e9",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-UUOU4YRKZL",
+    "paper": "doi:10.1016/j.calphad.2013.12.006",
+    "measured_in": "ref:b1d2865b7769d5e9"
+   }
+  ],
+  "papers": [
+   "ref:b1d2865b7769d5e9",
+   "doi:10.1016/j.calphad.2013.12.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.12.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoO-14Zha/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 150.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 7.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

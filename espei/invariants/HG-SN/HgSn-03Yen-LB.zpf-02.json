@@ -1,0 +1,87 @@
+{
+ "components": [
+  "HG",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "HGSN12_AF",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   487.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.912
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HGSN12_AF",
+    [
+     "SN"
+    ],
+    [
+     0.923077
+    ]
+   ]
+  ]
+ ],
+ "reference": "Yen 2003, doi:10.1361/105497103770330776",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HW6JPFSCBL",
+ "bibtex": "yen2003_2e62c8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HW6JPFSCBL",
+    "paper": "doi:10.1361/105497103770330776"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497103770330776",
+   "doi:10.6028/jres.067a.008"
+  ],
+  "dois": [
+   "10.1361/105497103770330776",
+   "10.6028/jres.067a.008"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HgSn-03Yen-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

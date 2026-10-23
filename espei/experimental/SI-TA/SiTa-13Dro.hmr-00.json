@@ -1,0 +1,126 @@
+{
+ "components": [
+  "SI",
+  "TA"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_TA": [
+   0.3333,
+   0.3333,
+   0.625,
+   0.625
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -38800.0,
+    -38800.0,
+    -39700.0,
+    -39700.0
+   ]
+  ]
+ ],
+ "reference": "Drouelle 2013, doi:10.1016/j.jallcom.2012.09.148",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IT2F53DXDU.3e331b ORC-IT2F53DXDU.3e331b ORC-OEWHAHTIO4.06dce4 ORC-OEWHAHTIO4.06dce4",
+ "reference_states": {
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "TA": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "drouelle2013_e70a42",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IT2F53DXDU.3e331b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148"
+   },
+   {
+    "id": "ORC-IT2F53DXDU.3e331b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148"
+   },
+   {
+    "id": "ORC-OEWHAHTIO4.06dce4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148"
+   },
+   {
+    "id": "ORC-OEWHAHTIO4.06dce4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2012.09.148",
+   "doi:10.1016/0001-6160(55)90120-6"
+  ],
+  "dois": [
+   "10.1016/0001-6160(55)90120-6",
+   "10.1016/j.jallcom.2012.09.148"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SiTa-13Dro/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "components": [
+  "O",
+  "PU"
+ ],
+ "phases": [
+  "LIQUID",
+  "PU2O3_D52",
+  "PUO152_D53",
+  "PUO161_D53",
+  "PUO2_C1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2358.0,
+   2553.0,
+   573.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "PU2O3_D52",
+    [
+     "PU"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "PUO2_C1",
+    [
+     "PU"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "PUO161_D53",
+    [
+     "PU"
+    ],
+    [
+     0.383142
+    ]
+   ],
+   [
+    "PUO152_D53",
+    [
+     "PU"
+    ],
+    [
+     0.396825
+    ]
+   ],
+   [
+    "PUO2_C1",
+    [
+     "PU"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PU"
+    ],
+    [
+     0.3711
+    ]
+   ]
+  ]
+ ],
+ "reference": "Guéneau 2008, doi:10.1016/j.jnucmat.2008.06.013",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ED5XOHJZLK ORC-3BJBG7NDWQ ORC-JPUM4P7MAN",
+ "bibtex": "gueneau2008_15d032",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ED5XOHJZLK",
+    "paper": "doi:10.1016/j.jnucmat.2008.06.013"
+   },
+   {
+    "id": "ORC-3BJBG7NDWQ",
+    "paper": "doi:10.1016/j.jnucmat.2008.06.013"
+   },
+   {
+    "id": "ORC-JPUM4P7MAN",
+    "paper": "doi:10.1016/j.jnucmat.2008.06.013"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2008.06.013",
+   "doi:10.1016/0022-3115(64)90132-1"
+  ],
+  "dois": [
+   "10.1016/0022-3115(64)90132-1",
+   "10.1016/j.jnucmat.2008.06.013"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PuO-08Gue/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 25.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 30.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

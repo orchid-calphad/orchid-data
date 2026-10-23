@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AG",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1121
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.107
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Predel 1975, doi:10.1016/0022-5088(75)90138-1",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QVPNN6MXNT",
+ "bibtex": "predel1975_b1a8c8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QVPNN6MXNT",
+    "paper": "doi:10.1016/0040-6031(88)87048-5",
+    "measured_in": "doi:10.1016/0022-5088(75)90138-1"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(75)90138-1",
+   "doi:10.1016/0040-6031(88)87048-5"
+  ],
+  "dois": [
+   "10.1016/0022-5088(75)90138-1",
+   "10.1016/0040-6031(88)87048-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgSi-88Che-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

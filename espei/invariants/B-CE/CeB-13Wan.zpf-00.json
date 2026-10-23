@@ -1,0 +1,247 @@
+{
+ "components": [
+  "B",
+  "CE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BETA_RHOMBO_B",
+  "CEB4_D1E",
+  "CEB6_D21",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   999.15,
+   1063.15,
+   2438.15,
+   2603.15,
+   2263.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.001
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "B"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "B"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.8570000000000001
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.8570714285000001
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liao 1997, doi:10.1007/bf02647853",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IXKFS6YHQH ORC-WAA5IB7UXY ORC-WAXL4Q3B23 ORC-ACPYVZY3LN ORC-QH22D4LQOA",
+ "bibtex": "liao1997_4b01d9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IXKFS6YHQH",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "doi:10.1007/bf02647853"
+   },
+   {
+    "id": "ORC-WAA5IB7UXY",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "doi:10.1007/bf02647853"
+   },
+   {
+    "id": "ORC-WAXL4Q3B23",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "doi:10.1007/bf02647853"
+   },
+   {
+    "id": "ORC-ACPYVZY3LN",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "doi:10.1007/bf02647853"
+   },
+   {
+    "id": "ORC-QH22D4LQOA",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "doi:10.1007/bf02647853"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02647853",
+   "doi:10.1016/j.calphad.2013.03.001"
+  ],
+  "dois": [
+   "10.1007/bf02647853",
+   "10.1016/j.calphad.2013.03.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeB-13Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

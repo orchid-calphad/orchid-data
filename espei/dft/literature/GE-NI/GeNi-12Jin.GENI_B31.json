@@ -1,0 +1,113 @@
+{
+ "components": [
+  "GE",
+  "NI"
+ ],
+ "phases": [
+  "GENI_B31"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   0.5,
+   0.5
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "NI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -34900.0
+   ]
+  ]
+ ],
+ "reference": "Jin 2012, doi:10.1016/j.calphad.2012.03.003",
+ "bibtex": "jin2012_0e4129",
+ "weight": [
+  0.150648
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB GeNi-12Jin.tdb (sha256 f6986d20b97522e64849eed1681bc30c929a518b00895a645618cbd195ef0208), phase GENI_B31. Ids, in value order: ORC-H36NM3IAU7. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "GeNi-12Jin.tdb",
+   "path": "databases/sgte-binary/GeNi-12Jin.tdb",
+   "sha256": "f6986d20b97522e64849eed1681bc30c929a518b00895a645618cbd195ef0208",
+   "phase": "GENI_B31"
+  },
+  "registry_phase": "phase:ge-ni:geni-b31",
+  "mapping": [
+   {
+    "id": "ORC-H36NM3IAU7",
+    "compound": "GeNi",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2012.03.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2012.03.003"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 3319.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-NI",
+     "n": 90,
+     "sigma_robust_kJ": 3.319,
+     "bias_median_kJ_not_applied": 1.374,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.150648,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -34.9,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-H36NM3IAU7",
+    "compound": "GeNi"
+   }
+  ]
+ }
+}

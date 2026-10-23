@@ -1,0 +1,175 @@
+{
+ "components": [
+  "FE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1713,
+   1512,
+   1245
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.079
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.027999999999999997
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.011000000000000001
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     0.005
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     0.003
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.006
+    ]
+   ]
+  ]
+ ],
+ "reference": "1967, A.K. Sinha, W. Hume-Rothery, The iron–tantalum system, J. Iron Steel Inst. 205 (1967) 671–673.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HNPYFSK6DW ORC-VTBX5QYTO4 ORC-NQ6WPYCR7E",
+ "bibtex": "sinha1967_50d435",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HNPYFSK6DW",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "ref:584f92aa785c9e64",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-VTBX5QYTO4",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "ref:584f92aa785c9e64",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-NQ6WPYCR7E",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "ref:584f92aa785c9e64",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:584f92aa785c9e64",
+   "doi:10.1016/j.calphad.2014.12.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.12.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-15Raj/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

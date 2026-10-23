@@ -1,0 +1,96 @@
+{
+ "components": [
+  "CE",
+  "NI"
+ ],
+ "phases": [
+  "CE2NI7",
+  "CENI5_D2D",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1328.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CENI5_D2D",
+    [
+     "NI"
+    ],
+    [
+     0.8333333333333334
+    ]
+   ],
+   [
+    "CE2NI7",
+    [
+     "NI"
+    ],
+    [
+     0.7777777777777778
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.8055555555
+    ]
+   ]
+  ]
+ ],
+ "reference": "1974, Gschneidner KA, Verkade ME. Document IS-RIC-7, 1974. p. 28e9.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IELLJFSROE",
+ "bibtex": "gschneidner1974_c4a2cf",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IELLJFSROE",
+    "paper": "doi:10.1016/j.intermet.2007.04.004",
+    "measured_in": "ref:406497a04cf2da25"
+   }
+  ],
+  "papers": [
+   "ref:406497a04cf2da25",
+   "doi:10.1016/j.intermet.2007.04.004"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2007.04.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeNi-07Xio/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

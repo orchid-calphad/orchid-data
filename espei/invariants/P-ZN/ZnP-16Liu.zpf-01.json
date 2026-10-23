@@ -1,0 +1,87 @@
+{
+ "components": [
+  "P",
+  "ZN"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "ZN3P2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   686.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.025
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZN3P2",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ]
+ ],
+ "reference": "1968, Y.A. Ugay, O.Y. Gukov, E.P. Domashevskaya, L.A. Ozerov, Phase diagrams of Zn–Zn3P2 and Cd–Cd3P2 systems, Neorg. Mater. 4 (1968) 147–148 (in Russian).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-O5NJUTUAGR",
+ "bibtex": "ugay1968_bb8364",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-O5NJUTUAGR",
+    "paper": "doi:10.1016/j.surfcoat.2016.01.016",
+    "measured_in": "ref:30f92f1f4e3b692d"
+   }
+  ],
+  "papers": [
+   "ref:30f92f1f4e3b692d",
+   "doi:10.1016/j.surfcoat.2016.01.016"
+  ],
+  "dois": [
+   "10.1016/j.surfcoat.2016.01.016"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ZnP-16Liu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

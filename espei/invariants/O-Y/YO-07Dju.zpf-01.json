@@ -1,0 +1,77 @@
+{
+ "components": [
+  "O",
+  "Y"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2712.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ]
+ ],
+ "reference": "Djurovic 2007, doi:10.1016/j.calphad.2007.01.010",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7MJDZGWJ4C",
+ "bibtex": "djurovic2007_c9ea88",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7MJDZGWJ4C",
+    "paper": "doi:10.1016/j.calphad.2007.01.010"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2007.01.010"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2007.01.010"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/YO-07Dju/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 12.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

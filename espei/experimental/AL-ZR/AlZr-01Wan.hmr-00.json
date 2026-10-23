@@ -1,0 +1,166 @@
+{
+ "components": [
+  "AL",
+  "ZR"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_ZR": [
+   0.625,
+   0.6,
+   0.555556,
+   0.5,
+   0.4,
+   0.333333,
+   0.25
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -48000.0,
+    -49000.0,
+    -52000.0,
+    -53000.0,
+    -55000.0,
+    -54000.0,
+    -49000.0
+   ]
+  ]
+ ],
+ "reference": "2001, doi:10.1007/s12385-001-0072-4",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-27JIQZQIFF ORC-CGWMDCG4D3 ORC-X2TETG443P ORC-242ACT6XBI ORC-J4B3UFEPXU ORC-DWCUOGWH54 ORC-Z6RCA33V5E",
+ "reference_states": {
+  "AL": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "ZR": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "wang2001_50f0ac",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-27JIQZQIFF",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   },
+   {
+    "id": "ORC-CGWMDCG4D3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   },
+   {
+    "id": "ORC-X2TETG443P",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   },
+   {
+    "id": "ORC-242ACT6XBI",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   },
+   {
+    "id": "ORC-J4B3UFEPXU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   },
+   {
+    "id": "ORC-DWCUOGWH54",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   },
+   {
+    "id": "ORC-Z6RCA33V5E",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s12385-001-0072-4"
+  ],
+  "dois": [
+   "10.1007/s12385-001-0072-4"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlZr-01Wan/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

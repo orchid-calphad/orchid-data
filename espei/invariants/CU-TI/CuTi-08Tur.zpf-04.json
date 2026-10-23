@@ -1,0 +1,163 @@
+{
+ "components": [
+  "CU",
+  "TI"
+ ],
+ "phases": [
+  "CU2TI",
+  "CU4TI",
+  "CUTI_B11",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1278.0,
+   1163.0,
+   1148.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.33
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TI"
+    ],
+    [
+     0.063
+    ]
+   ],
+   [
+    "CU4TI",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU4TI",
+    [
+     "TI"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "CU2TI",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.26666650000000003
+    ]
+   ]
+  ]
+ ],
+ "reference": "Turchanin 2008, doi:10.1007/s11106-008-9026-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Z6ZMVFZXRP ORC-KSKMCZOEGI ORC-LR4AOIZVQD",
+ "bibtex": "turchanin2008_727b32",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Z6ZMVFZXRP",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-KSKMCZOEGI",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-LR4AOIZVQD",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11106-008-9026-2"
+  ],
+  "dois": [
+   "10.1007/s11106-008-9026-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuTi-08Tur/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

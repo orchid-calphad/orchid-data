@@ -1,0 +1,114 @@
+{
+ "components": [
+  "B",
+  "HF"
+ ],
+ "phases": [
+  "BETA_RHOMBO_B",
+  "LIQUID",
+  "MB2_C32"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3643.0,
+   2343.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MB2_C32",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MB2_C32",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Bittermann 1997, doi:10.1007/bf02646757",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QVZSQEUV6B ORC-CHO2KFB4KX",
+ "bibtex": "bittermann1997_f0d52c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QVZSQEUV6B",
+    "paper": "doi:10.1007/bf02646757"
+   },
+   {
+    "id": "ORC-CHO2KFB4KX",
+    "paper": "doi:10.1007/bf02646757"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02646757"
+  ],
+  "dois": [
+   "10.1007/bf02646757"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HfB-97Bit-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

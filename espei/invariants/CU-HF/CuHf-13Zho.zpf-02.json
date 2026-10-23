@@ -1,0 +1,88 @@
+{
+ "components": [
+  "CU",
+  "HF"
+ ],
+ "phases": [
+  "CU51HF14",
+  "CU5HF_C15B",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1328
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CU5HF_C15B",
+    [
+     "HF"
+    ],
+    [
+     0.16666666666666666
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     0.126
+    ]
+   ],
+   [
+    "CU51HF14",
+    [
+     "HF"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ]
+  ]
+ ],
+ "reference": "Perry 1974, doi:10.1016/0025-5416(74)90021-4",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-242K5MNAXP",
+ "bibtex": "perry1974_ed38fb",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-242K5MNAXP",
+    "paper": "doi:10.1016/j.actamat.2012.10.014",
+    "measured_in": "doi:10.1016/0025-5416(74)90021-4"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0025-5416(74)90021-4",
+   "doi:10.1016/j.actamat.2012.10.014"
+  ],
+  "dois": [
+   "10.1016/0025-5416(74)90021-4",
+   "10.1016/j.actamat.2012.10.014"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuHf-13Zho/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

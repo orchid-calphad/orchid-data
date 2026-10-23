@@ -1,0 +1,87 @@
+{
+ "components": [
+  "B",
+  "CU"
+ ],
+ "phases": [
+  "BETA_RHOMBO_B",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1333.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2009, doi:10.1016/j.jallcom.2009.03.101",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QJPFZMQKBZ",
+ "bibtex": "wang2009_8c1dc1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QJPFZMQKBZ",
+    "paper": "doi:10.1016/j.jallcom.2009.03.101"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.03.101"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.03.101"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuB-09Wan/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "components": [
+  "FE",
+  "TM"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_TM": [
+   0.105263,
+   0.105263,
+   0.105263,
+   0.105263,
+   0.206897,
+   0.206897,
+   0.206897,
+   0.206897,
+   0.25,
+   0.25,
+   0.25,
+   0.25,
+   0.333333,
+   0.333333,
+   0.333333,
+   0.333333
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    37.44,
+    37.44,
+    37.87,
+    37.87,
+    39.69,
+    39.69,
+    42.92,
+    42.92,
+    42.57,
+    42.57,
+    45.03,
+    45.03,
+    44.61,
+    44.61,
+    49.37,
+    49.37
+   ]
+  ]
+ ],
+ "reference": "Kardellass 2014, doi:10.1016/j.calphad.2014.01.003",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-H4NKUXML7D.8fb746 ORC-H4NKUXML7D.963479 ORC-KVZPQN4KHH.d43cc3 ORC-KVZPQN4KHH.8a056a ORC-FJFK6YCWPH.8652e8 ORC-FJFK6YCWPH.9a2e46 ORC-PV2TBSQX43.2519b1 ORC-PV2TBSQX43.565cc0 ORC-IAH3PPW35K.5b5edd ORC-IAH3PPW35K.bd3d91 ORC-RTODDWTW2Z.bd4211 ORC-RTODDWTW2Z.60c4e6 ORC-R3WXFRC5LR.d16664 ORC-R3WXFRC5LR.ed093c ORC-WPCS2KBO5J.310639 ORC-WPCS2KBO5J.d7ea67",
+ "reference_states": {
+  "FE": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "TM": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "FeTm-14Kar.tdb",
+   "path": "databases/sgte-binary/FeTm-14Kar.tdb",
+   "sha256": "33698064a8ea2f8ddedbae256484e30178374ec8f1f3afaed5bff2c81952699c",
+   "catalog_entry": {
+    "name": "FeTm-14Kar.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2014-01-003",
+   "doi": "10.1016/j.calphad.2014.01.003",
+   "citation": {
+    "authors": "see doi",
+    "title": "Calphad, 46, 42-54(2014).",
+    "year": "2014"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "kardellass2014_3b45d4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-H4NKUXML7D.8fb746",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-H4NKUXML7D.963479",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-KVZPQN4KHH.d43cc3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-KVZPQN4KHH.8a056a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-FJFK6YCWPH.8652e8",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-FJFK6YCWPH.9a2e46",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-PV2TBSQX43.2519b1",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-PV2TBSQX43.565cc0",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-IAH3PPW35K.5b5edd",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-IAH3PPW35K.bd3d91",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-RTODDWTW2Z.bd4211",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-RTODDWTW2Z.60c4e6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-R3WXFRC5LR.d16664",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-R3WXFRC5LR.ed093c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-WPCS2KBO5J.310639",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   },
+   {
+    "id": "ORC-WPCS2KBO5J.d7ea67",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "doi:10.1016/j.calphad.2014.01.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2014.01.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.01.003"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/FeTm-14Kar/smr-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

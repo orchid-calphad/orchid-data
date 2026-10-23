@@ -1,0 +1,182 @@
+{
+ "components": [
+  "O",
+  "PU"
+ ],
+ "phases": [
+  "PU2O3_D52",
+  "PUO152_D53",
+  "PUO161_D53",
+  "PUO2_C1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   573.0,
+   573.0,
+   943.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "PUO152_D53",
+    [
+     "PU"
+    ],
+    [
+     0.396825
+    ]
+   ],
+   [
+    "PU2O3_D52",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PUO161_D53",
+    [
+     "PU"
+    ],
+    [
+     0.383142
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PU"
+    ],
+    [
+     0.3899835
+    ]
+   ]
+  ],
+  [
+   [
+    "PUO161_D53",
+    [
+     "PU"
+    ],
+    [
+     0.383142
+    ]
+   ],
+   [
+    "PUO152_D53",
+    [
+     "PU"
+    ],
+    [
+     0.396825
+    ]
+   ],
+   [
+    "PUO2_C1",
+    [
+     "PU"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PU"
+    ],
+    [
+     0.3711
+    ]
+   ]
+  ],
+  [
+   [
+    "PUO2_C1",
+    [
+     "PU"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "PUO161_D53",
+    [
+     "PU"
+    ],
+    [
+     0.383142
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PU"
+    ],
+    [
+     0.3582375
+    ]
+   ]
+  ]
+ ],
+ "reference": "Guéneau 2008, doi:10.1016/j.jnucmat.2008.06.013",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-I4MSG3JTZ2 ORC-3IYINHT7VJ ORC-47CIGYUNCJ",
+ "bibtex": "gueneau2008_15d032",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-I4MSG3JTZ2",
+    "paper": "doi:10.1016/j.jnucmat.2008.06.013"
+   },
+   {
+    "id": "ORC-3IYINHT7VJ",
+    "paper": "doi:10.1016/j.jnucmat.2008.06.013"
+   },
+   {
+    "id": "ORC-47CIGYUNCJ",
+    "paper": "doi:10.1016/j.jnucmat.2008.06.013"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2008.06.013",
+   "doi:10.1016/0022-3115(76)90114-8"
+  ],
+  "dois": [
+   "10.1016/0022-3115(76)90114-8",
+   "10.1016/j.jnucmat.2008.06.013"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PuO-08Gue/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "components": [
+  "HO",
+  "NI"
+ ],
+ "phases": [
+  "HO3NI2_LT",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_NI": [
+   0.4,
+   0.4,
+   0.4,
+   0.4
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -47000.0,
+    -47000.0,
+    -38450.0,
+    -38450.0
+   ]
+  ]
+ ],
+ "reference": "Kardellass 2015, doi:10.1007/s10973-014-4189-1",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GHBPJQM4XH.6b0426 ORC-GHBPJQM4XH.6b0426 ORC-KOSAEYIXBG.aebddf ORC-KOSAEYIXBG.aebddf",
+ "reference_states": {
+  "HO": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "NI": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "HoNi-15Kar.tdb",
+   "path": "databases/sgte-binary/HoNi-15Kar.tdb",
+   "sha256": "177f346c93bb88945400851e6f44de49db5f152086d2da69dc4ed49ef84fdb43",
+   "catalog_entry": {
+    "name": "HoNi-15Kar.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s10973-014-4189-1",
+   "doi": "10.1007/s10973-014-4189-1",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Thermal Anal. Calorim., 119, 1225-34(2015).",
+    "year": "2015"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "kardellass2015_811e4f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-GHBPJQM4XH.6b0426",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-014-4189-1",
+    "measured_in": "doi:10.1007/s10973-014-4189-1",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-GHBPJQM4XH.6b0426",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-014-4189-1",
+    "measured_in": "doi:10.1007/s10973-014-4189-1",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-KOSAEYIXBG.aebddf",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-014-4189-1",
+    "measured_in": "doi:10.1007/s10973-014-4189-1",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-KOSAEYIXBG.aebddf",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-014-4189-1",
+    "measured_in": "doi:10.1007/s10973-014-4189-1",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-014-4189-1"
+  ],
+  "dois": [
+   "10.1007/s10973-014-4189-1"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/HoNi-15Kar/hmr-model-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "components": [
+  "CR",
+  "FE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1783
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "FE"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "FE"
+    ],
+    [
+     0.79
+    ]
+   ]
+  ]
+ ],
+ "reference": "1931, F. Adcock, Alloys of iron research Part X - The chromium-iron constitutional diagram, J. Iron Steel Inst. 129 (1931) 99.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ICHV5OSJ2N",
+ "bibtex": "adcock1931_db72aa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ICHV5OSJ2N",
+    "paper": "doi:10.1016/j.calphad.2017.10.002",
+    "measured_in": "ref:d887c77212bd3b07"
+   }
+  ],
+  "papers": [
+   "ref:d887c77212bd3b07",
+   "doi:10.1016/j.calphad.2017.10.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2017.10.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrFe-18Jac/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

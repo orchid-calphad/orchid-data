@@ -1,0 +1,65 @@
+{
+ "components": [
+  "CE",
+  "O"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2753.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "ZINKEVICH 2006, doi:10.1016/j.ssi.2006.02.044",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LYTLSL5TCO",
+ "bibtex": "zinkevich2006_d03816",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LYTLSL5TCO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.ssi.2006.02.044"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.ssi.2006.02.044"
+  ],
+  "dois": [
+   "10.1016/j.ssi.2006.02.044"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CeO-06Zin/zpf-10.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

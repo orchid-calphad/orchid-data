@@ -1,0 +1,107 @@
+{
+ "components": [
+  "CO",
+  "HF"
+ ],
+ "phases": [
+  "CO23HF6_D8A"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   23.0,
+   6.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CO",
+    "HF"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -25123.92
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.06402
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB CoHf-18Hua.tdb (sha256 065a8d8f49f9e2c1ff641f771f5794cfd28b892b392fd1b87cde6cd2828a504e), phase CO23HF6_D8A. Ids, in value order: oqmd-29361. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "CoHf-18Hua.tdb",
+   "path": "databases/sgte-binary/CoHf-18Hua.tdb",
+   "sha256": "065a8d8f49f9e2c1ff641f771f5794cfd28b892b392fd1b87cde6cd2828a504e",
+   "phase": "CO23HF6_D8A"
+  },
+  "registry_phase": "phase:co-hf:co23hf6-d8a",
+  "mapping": [
+   {
+    "id": "oqmd-29361",
+    "compound": "Co23 Hf6",
+    "basis": "registry DFT name oqmd:oqmd-29361",
+    "space_group": "Fm-3m",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 7810.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "on_hull_single|magnetic_3d",
+     "used": "source_level",
+     "leave_system_out": true,
+     "system_left_out": "CO-HF",
+     "n": 1292,
+     "sigma_robust_kJ": 7.81,
+     "bias_median_kJ_not_applied": 2.361,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.084,
+      8.656
+     ],
+     "n_full_stratum": 1294
+    },
+    "weight_used": 0.06402,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.260391103793103,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-29361",
+    "compound": "Co23 Hf6"
+   }
+  ]
+ }
+}

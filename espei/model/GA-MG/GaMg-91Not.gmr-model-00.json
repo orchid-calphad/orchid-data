@@ -1,0 +1,146 @@
+{
+ "components": [
+  "GA",
+  "MG"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 770.0,
+  "X_MG": [
+   0.7,
+   0.5,
+   0.30000000000000004,
+   0.09999999999999998
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -5600.0,
+    -14300.0,
+    -26300.0,
+    -41000.0
+   ]
+  ]
+ ],
+ "reference": "Notin 1991, doi:10.1016/0925-8388(91)90007-i",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JPN5PO7THS.d533c5 ORC-BQY3CIXGGS.aa9def ORC-5R5NRUVK3Z.94d989 ORC-GZM3PDQVT6.46ff18",
+ "reference_states": {
+  "GA": {
+   "phase": "ORTHORHOMBIC_GA",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "MG": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "GaMg-91Not.tdb",
+   "path": "databases/sgte-binary/GaMg-91Not.tdb",
+   "sha256": "06511067cfb5f4fed7ce1133d04aab40bd168ed11e3cd198a5ce52aea8417fbb",
+   "catalog_entry": {
+    "name": "GaMg-91Not.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-0925-8388-91-90007-i",
+   "doi": "10.1016/0925-8388(91)90007-I",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 176, 25-38(1991).",
+    "year": "1991"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "notin1991_7d3ed0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-JPN5PO7THS.d533c5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(91)90007-i",
+    "measured_in": "doi:10.1016/0925-8388(91)90007-i"
+   },
+   {
+    "id": "ORC-BQY3CIXGGS.aa9def",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(91)90007-i",
+    "measured_in": "doi:10.1016/0925-8388(91)90007-i"
+   },
+   {
+    "id": "ORC-5R5NRUVK3Z.94d989",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(91)90007-i",
+    "measured_in": "doi:10.1016/0925-8388(91)90007-i"
+   },
+   {
+    "id": "ORC-GZM3PDQVT6.46ff18",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(91)90007-i",
+    "measured_in": "doi:10.1016/0925-8388(91)90007-i"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(91)90007-i"
+  ],
+  "dois": [
+   "10.1016/0925-8388(91)90007-i"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/GaMg-91Not/gmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

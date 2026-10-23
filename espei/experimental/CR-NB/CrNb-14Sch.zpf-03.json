@@ -1,0 +1,243 @@
+{
+ "components": [
+  "CR",
+  "NB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2073.0,
+   2043.0,
+   1993.0,
+   1948.0,
+   2043.0,
+   2033.0,
+   1993.0,
+   2133.0,
+   1978.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.009
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.018
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.043
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.07
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.099
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.538
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.585
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.659
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.264
+    ]
+   ]
+  ]
+ ],
+ "reference": "1958, V.N. Eremenko, G.V. Zudilova, and L.A. Gaevskaya, About the Phase Diagram of the Chromium-Niobium System, Metalloved. I, Obrabotka Met., 1958, 1, p 11-16",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IA7W52OBI5 ORC-4P7LNWFC36 ORC-BNFANVMNU7 ORC-6AUP62YGR4 ORC-CABFYTXYTN ORC-K5Q72CONE5 ORC-UYM7N6IPD3 ORC-CFD3H5YFRT ORC-SAPAPQ2JL5",
+ "bibtex": "eremenko1958_a24233",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IA7W52OBI5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   },
+   {
+    "id": "ORC-4P7LNWFC36",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   },
+   {
+    "id": "ORC-BNFANVMNU7",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   },
+   {
+    "id": "ORC-6AUP62YGR4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   },
+   {
+    "id": "ORC-CABFYTXYTN",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   },
+   {
+    "id": "ORC-K5Q72CONE5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   },
+   {
+    "id": "ORC-UYM7N6IPD3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   },
+   {
+    "id": "ORC-CFD3H5YFRT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   },
+   {
+    "id": "ORC-SAPAPQ2JL5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y",
+    "measured_in": "ref:9ce01eaf08fa9a2c"
+   }
+  ],
+  "papers": [
+   "ref:9ce01eaf08fa9a2c",
+   "doi:10.1007/s11669-014-0313-y"
+  ],
+  "dois": [
+   "10.1007/s11669-014-0313-y"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CrNb-14Sch/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

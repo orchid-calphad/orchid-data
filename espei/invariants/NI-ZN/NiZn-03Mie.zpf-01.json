@@ -1,0 +1,241 @@
+{
+ "components": [
+  "NI",
+  "ZN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID",
+  "NI2ZN11_D82",
+  "NIZN8"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1316,
+   1145,
+   790,
+   692,
+   1153
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.533
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZN"
+    ],
+    [
+     0.359
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.493
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.698
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.599
+    ]
+   ],
+   [
+    "NI2ZN11_D82",
+    [
+     "ZN"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.994
+    ]
+   ],
+   [
+    "NI2ZN11_D82",
+    [
+     "ZN"
+    ],
+    [
+     0.852
+    ]
+   ],
+   [
+    "NIZN8",
+    [
+     "ZN"
+    ],
+    [
+     0.88
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NIZN8",
+    [
+     "ZN"
+    ],
+    [
+     0.88
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NI2ZN11_D82",
+    [
+     "ZN"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "1932, K. Tamaru, Sci. Rep. Tohoku Imp. Univ. 21 (1932) 344–363.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YKN7S63YWW ORC-CS54IQZQTT ORC-CWXKSUGAXL ORC-Z7HW74IJ4G ORC-RQ7JIPI5PB",
+ "bibtex": "tamaru1932_88fc0e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YKN7S63YWW",
+    "paper": "doi:10.1016/j.calphad.2003.09.002",
+    "measured_in": "ref:187088364f1e3797"
+   },
+   {
+    "id": "ORC-CS54IQZQTT",
+    "paper": "doi:10.1016/j.calphad.2003.09.002",
+    "measured_in": "ref:187088364f1e3797"
+   },
+   {
+    "id": "ORC-CWXKSUGAXL",
+    "paper": "doi:10.1016/j.calphad.2003.09.002",
+    "measured_in": "ref:187088364f1e3797",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-Z7HW74IJ4G",
+    "paper": "doi:10.1016/j.calphad.2003.09.002",
+    "measured_in": "ref:187088364f1e3797"
+   },
+   {
+    "id": "ORC-RQ7JIPI5PB",
+    "paper": "doi:10.1016/j.calphad.2003.09.002",
+    "measured_in": "ref:187088364f1e3797"
+   }
+  ],
+  "papers": [
+   "ref:187088364f1e3797",
+   "doi:10.1016/j.calphad.2003.09.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2003.09.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZn-03Mie/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

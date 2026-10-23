@@ -1,0 +1,272 @@
+{
+ "components": [
+  "CU",
+  "TI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU2TI",
+  "CU4TI",
+  "CU4TI3",
+  "CUTI2",
+  "CUTI_B11",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1189.0,
+   1245.0,
+   1227.0,
+   1071.0,
+   1158.0,
+   1146.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CU4TI3",
+    [
+     "TI"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.57
+    ]
+   ],
+   [
+    "CUTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.945
+    ]
+   ],
+   [
+    "CUTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.984
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TI"
+    ],
+    [
+     0.056
+    ]
+   ],
+   [
+    "CU4TI",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.34
+    ]
+   ],
+   [
+    "CU4TI",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2TI",
+    [
+     "TI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Turchanin 2008, doi:10.1007/s11106-008-9026-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3HHBFM2PX7 ORC-5MKYGSWWQP ORC-CNIUIHU76H ORC-XOSP7O5AOP ORC-4IYFVLYUHY ORC-EVAQPM5FIV",
+ "bibtex": "turchanin2008_727b32",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3HHBFM2PX7",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-5MKYGSWWQP",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-CNIUIHU76H",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-XOSP7O5AOP",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-4IYFVLYUHY",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-EVAQPM5FIV",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11106-008-9026-2"
+  ],
+  "dois": [
+   "10.1007/s11106-008-9026-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuTi-08Tur/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

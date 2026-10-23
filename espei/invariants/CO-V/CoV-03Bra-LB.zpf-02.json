@@ -1,0 +1,75 @@
+{
+ "components": [
+  "CO",
+  "V"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_4SL"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1318.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_4SL",
+    [
+     "V"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Bratberg 2003, doi:10.1361/105497103772084534",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NJ5OIBM7EB",
+ "bibtex": "bratberg2003_ca4b5b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NJ5OIBM7EB",
+    "paper": "doi:10.1361/105497103772084534"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497103772084534"
+  ],
+  "dois": [
+   "10.1361/105497103772084534"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoV-03Bra-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

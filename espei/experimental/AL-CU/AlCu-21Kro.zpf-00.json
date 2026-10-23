@@ -1,0 +1,71 @@
+{
+ "components": [
+  "AL",
+  "CU"
+ ],
+ "phases": [
+  "BCC_A2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1082.65
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "CU"
+    ],
+    [
+     0.82
+    ]
+   ]
+  ]
+ ],
+ "reference": "Ponweiser 2011, doi:10.1016/j.intermet.2011.07.007",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "single_reader_text_layer",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GOVPCZZH47",
+ "bibtex": "ponweiser2011_07e1e9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GOVPCZZH47",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1007/s10853-020-05423-7",
+    "measured_in": "doi:10.1016/j.intermet.2011.07.007"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2011.07.007",
+   "doi:10.1007/s10853-020-05423-7"
+  ],
+  "dois": [
+   "10.1007/s10853-020-05423-7",
+   "10.1016/j.intermet.2011.07.007"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlCu-21Kro/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 242.5,
+    "temperature_sigma_basis": "printed_range (half-width)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

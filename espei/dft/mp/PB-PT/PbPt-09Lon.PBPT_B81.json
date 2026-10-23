@@ -1,0 +1,107 @@
+{
+ "components": [
+  "PB",
+  "PT"
+ ],
+ "phases": [
+  "PBPT_B81"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "PB",
+    "PT"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -22205.6
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.070572
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB PbPt-09Lon.tdb (sha256 1c1ed1ff0d289a0a828908d931000bb4c171fdef03c4e3f4482b16d92e0c2428), phase PBPT_B81. Ids, in value order: mp-aaacirio. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "PbPt-09Lon.tdb",
+   "path": "databases/sgte-binary/PbPt-09Lon.tdb",
+   "sha256": "1c1ed1ff0d289a0a828908d931000bb4c171fdef03c4e3f4482b16d92e0c2428",
+   "phase": "PBPT_B81"
+  },
+  "registry_phase": "phase:pb-pt:pbpt-b81",
+  "mapping": [
+   {
+    "id": "mp-aaacirio",
+    "compound": "PtPb",
+    "basis": "registry DFT name mp:mp-aaacirio",
+    "space_group": "P6_3/mmc",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 7085.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "polymorph_ambiguous|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "PB-PT",
+     "n": 98,
+     "sigma_robust_kJ": 7.085,
+     "bias_median_kJ_not_applied": 5.335,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.461,
+      10.592
+     ],
+     "n_full_stratum": 98
+    },
+    "weight_used": 0.070572,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.23014484750000008,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaacirio",
+    "compound": "PtPb"
+   }
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "components": [
+  "FE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1247.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.0032
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     0.002
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.3333
+    ]
+   ]
+  ]
+ ],
+ "reference": "1936, R. Genders, R. Harrison, J. Iron Steel Inst. 134 (1936) 173.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7NZ2LTXUIS",
+ "bibtex": "genders1936_3aa865",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7NZ2LTXUIS",
+    "paper": "doi:10.1016/s0022-3115(03)00196-x",
+    "measured_in": "ref:0b7c90a12f83c209",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:0b7c90a12f83c209",
+   "doi:10.1016/s0022-3115(03)00196-x"
+  ],
+  "dois": [
+   "10.1016/s0022-3115(03)00196-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-03Dan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

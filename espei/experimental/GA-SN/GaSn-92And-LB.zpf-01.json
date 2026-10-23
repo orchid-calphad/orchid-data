@@ -1,0 +1,133 @@
+{
+ "components": [
+  "GA",
+  "SN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   474.15,
+   414.15,
+   365.15,
+   321.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.00835
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.005
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.00302
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.00149
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [32Pus] of doi:10-1007-bf02667485 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ONO6ACULJU ORC-G3IQNTGPH7 ORC-N33JBKQYAC ORC-EHLBEHY2MT",
+ "bibtex": "referencend_354177",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ONO6ACULJU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "unresolved:source:doi:10-1007-bf02667485#32pus"
+   },
+   {
+    "id": "ORC-G3IQNTGPH7",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "unresolved:source:doi:10-1007-bf02667485#32pus"
+   },
+   {
+    "id": "ORC-N33JBKQYAC",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "unresolved:source:doi:10-1007-bf02667485#32pus"
+   },
+   {
+    "id": "ORC-EHLBEHY2MT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "unresolved:source:doi:10-1007-bf02667485#32pus"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1007-bf02667485#32pus",
+   "doi:10.1007/bf02667485"
+  ],
+  "dois": [
+   "10.1007/bf02667485"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GaSn-92And-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

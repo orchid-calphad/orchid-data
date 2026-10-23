@@ -1,0 +1,389 @@
+{
+ "components": [
+  "GE",
+  "P"
+ ],
+ "phases": [
+  "GEP"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "P"
+   ],
+   [
+    "GE",
+    "P"
+   ],
+   [
+    "GE",
+    "P"
+   ],
+   [
+    "GE",
+    "P"
+   ],
+   [
+    "GE",
+    "P"
+   ],
+   [
+    "GE",
+    "P"
+   ],
+   [
+    "GE",
+    "P"
+   ],
+   [
+    "GE",
+    "P"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -72.36,
+    -72.0,
+    -11481.75,
+    -11480.0,
+    -3859.41,
+    -3860.0,
+    1450.0,
+    1447.28
+   ]
+  ]
+ ],
+ "reference": "Dong 2021, doi:10.1007/s11664-021-08861-4",
+ "bibtex": "dong2021_a8a720",
+ "weight": [
+  0.066383,
+  0.066383,
+  0.066383,
+  0.066383,
+  0.066383,
+  0.066383,
+  0.066383,
+  0.066383
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB GeP-21Don.tdb (sha256 e3a892ddc27c212777cacd4787f0d45cda2d7ce6dc4375cc2a69da0e1a08c3b6), phase GEP. Ids, in value order: ORC-5MU3HAE6OV.03cdec ORC-5MU3HAE6OV.c3f056 ORC-KIZ26JNI5Y.26d3bc ORC-KIZ26JNI5Y.61dcf9 ORC-VUDQAQ6TKN.421dae ORC-VUDQAQ6TKN.8f8f0b ORC-X4DR5DTOTT.11538e ORC-X4DR5DTOTT.175ce7. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "GeP-21Don.tdb",
+   "path": "databases/sgte-binary/GeP-21Don.tdb",
+   "sha256": "e3a892ddc27c212777cacd4787f0d45cda2d7ce6dc4375cc2a69da0e1a08c3b6",
+   "phase": "GEP"
+  },
+  "registry_phase": "phase:ge-p:gep",
+  "mapping": [
+   {
+    "id": "ORC-5MU3HAE6OV.03cdec",
+    "compound": "GeP",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-5MU3HAE6OV.c3f056",
+    "compound": "GeP",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-KIZ26JNI5Y.26d3bc",
+    "compound": "GeP",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-KIZ26JNI5Y.61dcf9",
+    "compound": "GeP",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-VUDQAQ6TKN.421dae",
+    "compound": "GeP",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-VUDQAQ6TKN.8f8f0b",
+    "compound": "GeP",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-X4DR5DTOTT.11538e",
+    "compound": "GeP",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-X4DR5DTOTT.175ce7",
+    "compound": "GeP",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11664-021-08861-4"
+  ],
+  "dois": [
+   "10.1007/s11664-021-08861-4"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 7532.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-P",
+     "n": 52,
+     "sigma_robust_kJ": 7.532,
+     "bias_median_kJ_not_applied": -0.3,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.066383,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.07236399909,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-5MU3HAE6OV.03cdec",
+    "compound": "GeP"
+   },
+   {
+    "sigma": 7532.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-P",
+     "n": 52,
+     "sigma_robust_kJ": 7.532,
+     "bias_median_kJ_not_applied": -0.3,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.066383,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.072,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-5MU3HAE6OV.c3f056",
+    "compound": "GeP"
+   },
+   {
+    "sigma": 7532.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-P",
+     "n": 52,
+     "sigma_robust_kJ": 7.532,
+     "bias_median_kJ_not_applied": -0.3,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.066383,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -11.48175452,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-KIZ26JNI5Y.26d3bc",
+    "compound": "GeP"
+   },
+   {
+    "sigma": 7532.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-P",
+     "n": 52,
+     "sigma_robust_kJ": 7.532,
+     "bias_median_kJ_not_applied": -0.3,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.066383,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -11.48,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-KIZ26JNI5Y.61dcf9",
+    "compound": "GeP"
+   },
+   {
+    "sigma": 7532.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-P",
+     "n": 52,
+     "sigma_robust_kJ": 7.532,
+     "bias_median_kJ_not_applied": -0.3,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.066383,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -3.859413285,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-VUDQAQ6TKN.421dae",
+    "compound": "GeP"
+   },
+   {
+    "sigma": 7532.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-P",
+     "n": 52,
+     "sigma_robust_kJ": 7.532,
+     "bias_median_kJ_not_applied": -0.3,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.066383,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -3.86,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-VUDQAQ6TKN.8f8f0b",
+    "compound": "GeP"
+   },
+   {
+    "sigma": 7532.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-P",
+     "n": 52,
+     "sigma_robust_kJ": 7.532,
+     "bias_median_kJ_not_applied": -0.3,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.066383,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 1.45,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-X4DR5DTOTT.11538e",
+    "compound": "GeP"
+   },
+   {
+    "sigma": 7532.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-P",
+     "n": 52,
+     "sigma_robust_kJ": 7.532,
+     "bias_median_kJ_not_applied": -0.3,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.066383,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 1.447279982,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-X4DR5DTOTT.175ce7",
+    "compound": "GeP"
+   }
+  ]
+ }
+}

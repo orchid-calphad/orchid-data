@@ -1,0 +1,324 @@
+{
+ "components": [
+  "CE",
+  "GA"
+ ],
+ "phases": [
+  "CE3GA2",
+  "CE3GA_L12",
+  "CEGA2_C32",
+  "CEGA6_LT",
+  "CEGA_B33",
+  "FCC_A1",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   768.15,
+   830.15,
+   1123.15,
+   1233.15,
+   1733.15,
+   750.15,
+   302.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.18
+    ]
+   ],
+   [
+    "CE3GA_L12",
+    [
+     "GA"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.207
+    ]
+   ],
+   [
+    "CE3GA2",
+    [
+     "GA"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "CE3GA_L12",
+    [
+     "GA"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "CEGA_B33",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CE3GA2",
+    [
+     "GA"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.42100000000000004
+    ]
+   ],
+   [
+    "CEGA2_C32",
+    [
+     "GA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "CEGA_B33",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "CEGA2_C32",
+    [
+     "GA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.9770000000000001
+    ]
+   ],
+   [
+    "CEGA2_C32",
+    [
+     "GA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "CEGA6_LT",
+    [
+     "GA"
+    ],
+    [
+     0.857143
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "CEGA6_LT",
+    [
+     "GA"
+    ],
+    [
+     0.857143
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, T.B. Massalski, Ed., Binary Alloy Phase Diagrams, Vol 1, 2nd ed., ASM International, Materials Park, OH, 1990",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QVCY5GECHW ORC-RAVS5BEELW ORC-OZJHLIV7WF ORC-H4XSN3XBPC ORC-VZART7C3LI ORC-KPFN67EERM ORC-BM3KPIZOUB",
+ "bibtex": "massalski1990_d5f23b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QVCY5GECHW",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "ref:a15c7106502bd39a",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-RAVS5BEELW",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "ref:a15c7106502bd39a"
+   },
+   {
+    "id": "ORC-OZJHLIV7WF",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "ref:a15c7106502bd39a"
+   },
+   {
+    "id": "ORC-H4XSN3XBPC",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "ref:a15c7106502bd39a"
+   },
+   {
+    "id": "ORC-VZART7C3LI",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "ref:a15c7106502bd39a"
+   },
+   {
+    "id": "ORC-KPFN67EERM",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "ref:a15c7106502bd39a"
+   },
+   {
+    "id": "ORC-BM3KPIZOUB",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "ref:a15c7106502bd39a",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:a15c7106502bd39a",
+   "doi:10.1007/s11669-013-0261-y"
+  ],
+  "dois": [
+   "10.1007/s11669-013-0261-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeGa-13Idb/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

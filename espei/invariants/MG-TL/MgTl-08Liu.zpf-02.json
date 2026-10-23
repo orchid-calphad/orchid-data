@@ -1,0 +1,87 @@
+{
+ "components": [
+  "MG",
+  "TL"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "MGTL_B2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   433
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TL"
+    ],
+    [
+     0.95
+    ]
+   ],
+   [
+    "MGTL_B2",
+    [
+     "TL"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TL"
+    ],
+    [
+     0.97
+    ]
+   ]
+  ]
+ ],
+ "reference": "1905, G. Grube, Z. Anorg. Chem. 46 (1905) 76–93.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7UCAOOIHZJ",
+ "bibtex": "grube1905_b676bf",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7UCAOOIHZJ",
+    "paper": "doi:10.1016/j.jallcom.2007.04.031",
+    "measured_in": "ref:3ac83973cf661e9d"
+   }
+  ],
+  "papers": [
+   "ref:3ac83973cf661e9d",
+   "doi:10.1016/j.jallcom.2007.04.031"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2007.04.031"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgTl-08Liu/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

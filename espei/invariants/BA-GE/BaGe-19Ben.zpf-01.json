@@ -1,0 +1,77 @@
+{
+ "components": [
+  "BA",
+  "GE"
+ ],
+ "phases": [
+  "BAGE_B33",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1428
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BAGE_B33",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, T.B. Massalski, O. Okamoto, ASM International, Binary Alloy Phase Diagrams, 2nd ed., ASM International, Materials Park, Ohio, 1990",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HE6NROFXJE",
+ "bibtex": "massalski1990_45993c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HE6NROFXJE",
+    "paper": "doi:10.1007/s11669-019-00714-2",
+    "measured_in": "ref:584fdc3ead7675c1"
+   }
+  ],
+  "papers": [
+   "ref:584fdc3ead7675c1",
+   "doi:10.1007/s11669-019-00714-2"
+  ],
+  "dois": [
+   "10.1007/s11669-019-00714-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BaGe-19Ben/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

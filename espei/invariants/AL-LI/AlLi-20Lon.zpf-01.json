@@ -1,0 +1,91 @@
+{
+ "components": [
+  "AL",
+  "LI"
+ ],
+ "phases": [
+  "BCC_4SL",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   873
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     0.18
+    ]
+   ],
+   [
+    "BCC_4SL",
+    [
+     "LI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1935, A. Grube, L. Mohr, and W. Breuning, Elektrische Leitfähigkeit und Zustandsdiagramm bei binären Legierungen. 17. Mitteilung. Das System Lithium–Aluminium, Z. Elektrochem., 1935, 41, p 880-883. https://doi.org/10.1002/bbpc.19350411213",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-74FUJ7XHGF",
+ "bibtex": "grube1935_2891dc",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-74FUJ7XHGF",
+    "paper": "doi:10.1007/s11669-020-00827-z",
+    "measured_in": "ref:232ba85e4082a28c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:232ba85e4082a28c",
+   "doi:10.1007/s11669-020-00827-z"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00827-z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlLi-20Lon/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

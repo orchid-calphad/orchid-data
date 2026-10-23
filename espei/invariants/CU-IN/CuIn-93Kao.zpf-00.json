@@ -1,0 +1,249 @@
+{
+ "components": [
+  "CU",
+  "IN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU11IN9",
+  "CU2IN",
+  "CU7IN3",
+  "LIQUID",
+  "TETRAGONAL_A6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   957.0,
+   951.0,
+   940.0,
+   580.0,
+   427.7
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CU7IN3",
+    [
+     "IN"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU7IN3",
+    [
+     "IN"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU7IN3",
+    [
+     "IN"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CU2IN",
+    [
+     "IN"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.31666649999999996
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2IN",
+    [
+     "IN"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "CU11IN9",
+    [
+     "IN"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.39166650000000003
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU11IN9",
+    [
+     "IN"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Kao 1993, doi:10.1007/bf02652158",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3EX3DXNGMC ORC-SXX3DXNS3J ORC-FIMBOTVTBH ORC-YRWDGS25PU ORC-7WLMSESQ6L",
+ "bibtex": "kao1993_c1d16c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3EX3DXNGMC",
+    "paper": "doi:10.1007/bf02652158"
+   },
+   {
+    "id": "ORC-SXX3DXNS3J",
+    "paper": "doi:10.1007/bf02652158"
+   },
+   {
+    "id": "ORC-FIMBOTVTBH",
+    "paper": "doi:10.1007/bf02652158"
+   },
+   {
+    "id": "ORC-YRWDGS25PU",
+    "paper": "doi:10.1007/bf02652158"
+   },
+   {
+    "id": "ORC-7WLMSESQ6L",
+    "paper": "doi:10.1007/bf02652158"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02652158"
+  ],
+  "dois": [
+   "10.1007/bf02652158"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuIn-93Kao/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

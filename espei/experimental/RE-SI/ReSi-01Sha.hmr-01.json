@@ -1,0 +1,85 @@
+{
+ "components": [
+  "RE",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID",
+  "RESI_B20"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SI": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -25400.0
+   ]
+  ]
+ ],
+ "reference": "Shao 2001, doi:10.1016/s0966-9795(01)00110-8",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DXSBQQHSH6",
+ "reference_states": {
+  "RE": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "shao2001_9295c2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DXSBQQHSH6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0966-9795(01)00110-8"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0966-9795(01)00110-8",
+   "doi:10.1021/ja01103a017"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(01)00110-8",
+   "10.1021/ja01103a017"
+  ],
+  "source_dataset": "db-v2.1/general/espei/ReSi-01Sha/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

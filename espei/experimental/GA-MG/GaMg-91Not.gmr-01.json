@@ -1,0 +1,126 @@
+{
+ "components": [
+  "GA",
+  "MG"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 900.0,
+  "X_MG": [
+   0.7,
+   0.5,
+   0.30000000000000004,
+   0.09999999999999998
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -5600.0,
+    -14700.0,
+    -26600.0,
+    -42600.0
+   ]
+  ]
+ ],
+ "reference": "Notin 1991, doi:10.1016/0925-8388(91)90007-i",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q733YS5UPG.48691c ORC-YTZBXDRVWY.210ded ORC-YXQGLCGJZ3.cff1a3 ORC-EERCLQV6BB.83c3ff",
+ "reference_states": {
+  "GA": {
+   "phase": "ORTHORHOMBIC_GA",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "MG": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "notin1991_7d3ed0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Q733YS5UPG.48691c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(91)90007-i"
+   },
+   {
+    "id": "ORC-YTZBXDRVWY.210ded",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(91)90007-i"
+   },
+   {
+    "id": "ORC-YXQGLCGJZ3.cff1a3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(91)90007-i"
+   },
+   {
+    "id": "ORC-EERCLQV6BB.83c3ff",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(91)90007-i"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(91)90007-i",
+   "doi:10.1007/bf02666957"
+  ],
+  "dois": [
+   "10.1007/bf02666957",
+   "10.1016/0925-8388(91)90007-i"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GaMg-91Not/gmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

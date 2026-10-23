@@ -1,0 +1,87 @@
+{
+ "components": [
+  "BI",
+  "O"
+ ],
+ "phases": [
+  "BI2O3_ALPHA",
+  "BI2O3_C1",
+  "ION"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   980
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BI2O3_C1",
+    [
+     "O"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BI2O3_ALPHA",
+    [
+     "O"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "ION",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1979, B. lsecke and J. Osterwald, \"Equilibria Study in the BismuthOxygen System,\" Z. Phys. Chem. Neue Folge, 115, 17-24 (1979) in German.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YYCSHKPZFM",
+ "bibtex": "lsecke1979_e11d8e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YYCSHKPZFM",
+    "paper": "doi:10.1007/bf02667306",
+    "measured_in": "ref:cd62d7fcd0a3409c"
+   }
+  ],
+  "papers": [
+   "ref:cd62d7fcd0a3409c",
+   "doi:10.1007/bf02667306"
+  ],
+  "dois": [
+   "10.1007/bf02667306"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-13.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

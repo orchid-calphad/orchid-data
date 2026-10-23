@@ -1,0 +1,88 @@
+{
+ "components": [
+  "NI",
+  "ZR"
+ ],
+ "phases": [
+  "LIQUID",
+  "NIZR2_C16"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_ZR": [
+   0.666667
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -37240.0
+   ]
+  ]
+ ],
+ "reference": "Jana 2020, doi:10.1016/j.intermet.2019.106640",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-T5HGFKTXNE",
+ "reference_states": {
+  "NI": {
+   "phase": "FCC_A1"
+  },
+  "ZR": {
+   "phase": "HCP_A3"
+  }
+ },
+ "weight": 0.081833,
+ "bibtex": "jana2020_bdc191",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-T5HGFKTXNE",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2019.106640",
+   "doi:10.1063/1.333963"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2019.106640",
+   "10.1063/1.333963"
+  ],
+  "source_dataset": "db-v2.1/general/espei/NiZr-20Jan/hmr-15.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 6110.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 6.11,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.081833,
+    "weight_used": 0.081833
+   }
+  ]
+ }
+}

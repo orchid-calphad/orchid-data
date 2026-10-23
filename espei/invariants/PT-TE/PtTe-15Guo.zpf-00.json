@@ -1,0 +1,252 @@
+{
+ "components": [
+  "PT",
+  "TE"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "PT2TE3",
+  "PT3TE4",
+  "PTTE",
+  "PTTE2_C6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1143.0,
+   1208.0,
+   1423.0,
+   923.0,
+   722.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PTTE",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PT3TE4",
+    [
+     "TE"
+    ],
+    [
+     0.571429
+    ]
+   ],
+   [
+    "PTTE",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.5357145
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "PTTE2_C6",
+    [
+     "TE"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "PTTE2_C6",
+    [
+     "TE"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "PT3TE4",
+    [
+     "TE"
+    ],
+    [
+     0.571429
+    ]
+   ],
+   [
+    "PT2TE3",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.6126986666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "PTTE2_C6",
+    [
+     "TE"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Guo 2015, doi:10.1007/s11664-015-3676-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AFL2HVIQSX ORC-WICAADE4PO ORC-UOVUUI7B2U ORC-F77WYCHRYQ ORC-TB2KDDZEOU",
+ "bibtex": "guo2015_127a41",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AFL2HVIQSX",
+    "paper": "doi:10.1007/s11664-015-3676-x"
+   },
+   {
+    "id": "ORC-WICAADE4PO",
+    "paper": "doi:10.1007/s11664-015-3676-x"
+   },
+   {
+    "id": "ORC-UOVUUI7B2U",
+    "paper": "doi:10.1007/s11664-015-3676-x"
+   },
+   {
+    "id": "ORC-F77WYCHRYQ",
+    "paper": "doi:10.1007/s11664-015-3676-x"
+   },
+   {
+    "id": "ORC-TB2KDDZEOU",
+    "paper": "doi:10.1007/s11664-015-3676-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11664-015-3676-x",
+   "doi:10.1007/bf03025941"
+  ],
+  "dois": [
+   "10.1007/bf03025941",
+   "10.1007/s11664-015-3676-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PtTe-15Guo/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

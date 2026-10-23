@@ -1,0 +1,498 @@
+{
+ "components": [
+  "CU",
+  "SB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU10SB3",
+  "CU17SB3_A3",
+  "CU2SB_C38",
+  "CU3SB_D0A",
+  "CU4SB",
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   918,
+   859,
+   799,
+   761,
+   735,
+   718,
+   713,
+   663,
+   633,
+   533
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.19
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2SB_C38",
+    [
+     "SB"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.63
+    ]
+   ],
+   [
+    "CU2SB_C38",
+    [
+     "SB"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU17SB3_A3",
+    [
+     "SB"
+    ],
+    [
+     0.15
+    ]
+   ]
+  ],
+  [
+   [
+    "CU17SB3_A3",
+    [
+     "SB"
+    ],
+    [
+     0.15
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU4SB",
+    [
+     "SB"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.175
+    ]
+   ]
+  ],
+  [
+   [
+    "CU4SB",
+    [
+     "SB"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU3SB_D0A",
+    [
+     "SB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.225
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU3SB_D0A",
+    [
+     "SB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "CU2SB_C38",
+    [
+     "SB"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.2916665
+    ]
+   ]
+  ],
+  [
+   [
+    "CU4SB",
+    [
+     "SB"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "CU3SB_D0A",
+    [
+     "SB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "CU10SB3",
+    [
+     "SB"
+    ],
+    [
+     0.230769
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.22692299999999999
+    ]
+   ]
+  ],
+  [
+   [
+    "CU3SB_D0A",
+    [
+     "SB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "CU10SB3",
+    [
+     "SB"
+    ],
+    [
+     0.230769
+    ]
+   ],
+   [
+    "CU2SB_C38",
+    [
+     "SB"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.27136733333333335
+    ]
+   ]
+  ],
+  [
+   [
+    "CU10SB3",
+    [
+     "SB"
+    ],
+    [
+     0.230769
+    ]
+   ],
+   [
+    "CU4SB",
+    [
+     "SB"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "CU2SB_C38",
+    [
+     "SB"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.2547006666666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.R. Subramanian, D.E. Laughlin. Phase diagrams of binary copper alloys, in: P.R. Subramanian, D.J. Charkrabarti, D.E. Laughlin (eds.), ASM International, Materials Park, OH.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MLNYRBP3EI ORC-TUOWAHA3M2 ORC-GH2ETFCMQS ORC-KF6Z73N2LO ORC-CD74424HHN ORC-E7N26RHGD6 ORC-XZY4UFZGPT ORC-LDZPZXHV5H ORC-BRP3FBNZCE ORC-QZSZVB54Y6",
+ "bibtex": "subramaniannd_f69a66",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MLNYRBP3EI",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-TUOWAHA3M2",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-GH2ETFCMQS",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-KF6Z73N2LO",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-CD74424HHN",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-E7N26RHGD6",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-XZY4UFZGPT",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-LDZPZXHV5H",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-BRP3FBNZCE",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   },
+   {
+    "id": "ORC-QZSZVB54Y6",
+    "paper": "doi:10.1016/j.jallcom.2009.05.056",
+    "measured_in": "ref:21039c259b2e898a"
+   }
+  ],
+  "papers": [
+   "ref:21039c259b2e898a",
+   "doi:10.1016/j.jallcom.2009.05.056"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.05.056"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuSb-09Gie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

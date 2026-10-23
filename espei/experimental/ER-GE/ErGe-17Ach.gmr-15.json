@@ -1,0 +1,88 @@
+{
+ "components": [
+  "ER",
+  "GE"
+ ],
+ "phases": [
+  "ER3GE4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 950.0,
+  "X_GE": [
+   0.571429
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -70040.0
+   ]
+  ]
+ ],
+ "reference": "Achgar 2017, doi:10.1016/j.jallcom.2017.07.129",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CAIUJ7QU3I.af9293",
+ "reference_states": {
+  "ER": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "GE": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.007692,
+ "bibtex": "achgar2017_193682",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CAIUJ7QU3I.af9293",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2017.07.129"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2017.07.129"
+  ],
+  "source_dataset": "db-v2.1/general/espei/ErGe-17Ach/gmr-15.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 130.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.13,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.007692,
+    "weight_used": 0.007692
+   }
+  ]
+ }
+}

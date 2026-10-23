@@ -1,0 +1,176 @@
+{
+ "components": [
+  "CR",
+  "GE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_GE": [
+   0.25,
+   0.25,
+   0.375,
+   0.375,
+   0.5,
+   0.5,
+   0.633333,
+   0.633333
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    26.0,
+    26.0,
+    29.6,
+    29.6,
+    30.6,
+    30.6,
+    31.7,
+    31.7
+   ]
+  ]
+ ],
+ "reference": "doi:10.1007/bf02867813",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AET63ATDZX.30d5a8 ORC-AET63ATDZX.bb7fb2 ORC-2ALE6E3FVH.9cfe61 ORC-2ALE6E3FVH.dae7b0 ORC-5L35TGCFAL.3e96d3 ORC-5L35TGCFAL.ec28c3 ORC-JJU3CGVLU7.772065 ORC-JJU3CGVLU7.826061",
+ "bibtex": "gokhalend_c01258",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AET63ATDZX.30d5a8",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "measured_in": "doi:10.1007/bf02867813"
+   },
+   {
+    "id": "ORC-AET63ATDZX.bb7fb2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "measured_in": "doi:10.1007/bf02867813"
+   },
+   {
+    "id": "ORC-2ALE6E3FVH.9cfe61",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "measured_in": "doi:10.1007/bf02867813"
+   },
+   {
+    "id": "ORC-2ALE6E3FVH.dae7b0",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "measured_in": "doi:10.1007/bf02867813"
+   },
+   {
+    "id": "ORC-5L35TGCFAL.3e96d3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "measured_in": "doi:10.1007/bf02867813"
+   },
+   {
+    "id": "ORC-5L35TGCFAL.ec28c3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "measured_in": "doi:10.1007/bf02867813"
+   },
+   {
+    "id": "ORC-JJU3CGVLU7.772065",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "measured_in": "doi:10.1007/bf02867813"
+   },
+   {
+    "id": "ORC-JJU3CGVLU7.826061",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.11.001",
+    "measured_in": "doi:10.1007/bf02867813"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02867813",
+   "doi:10.1016/j.calphad.2009.11.001"
+  ],
+  "dois": [
+   "10.1007/bf02867813",
+   "10.1016/j.calphad.2009.11.001"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CrGe-10Liu/sm-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "components": [
+  "ER",
+  "FE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_FE": [
+   0.75,
+   0.666667
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -7900.0,
+    -12500.0
+   ]
+  ]
+ ],
+ "reference": "Zhou 2010, doi:10.1016/j.physb.2010.05.046",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PHIWWIFZIB ORC-H5OLRJ7EH6",
+ "reference_states": {
+  "ER": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "FE": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "zhou2010_25594e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PHIWWIFZIB",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.physb.2010.05.046"
+   },
+   {
+    "id": "ORC-H5OLRJ7EH6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.physb.2010.05.046"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.physb.2010.05.046",
+   "doi:10.1007/s11661-998-0351-3"
+  ],
+  "dois": [
+   "10.1007/s11661-998-0351-3",
+   "10.1016/j.physb.2010.05.046"
+  ],
+  "source_dataset": "db-v2.1/general/espei/ErFe-10Zho/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

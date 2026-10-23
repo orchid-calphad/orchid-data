@@ -1,0 +1,86 @@
+{
+ "components": [
+  "B",
+  "PR"
+ ],
+ "phases": [
+  "LIQUID",
+  "PRB6_D21"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2883.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.8570000000000001
+    ]
+   ],
+   [
+    "PRB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.8570714285000001
+    ]
+   ]
+  ]
+ ],
+ "reference": "1976, W.G. Moffatt, Handbook of Binary Phase Diagram, Business Growth Service, General Electric Co., Schenectady, 1976.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-S77FTLVIUZ",
+ "bibtex": "moffatt1976_c59099",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-S77FTLVIUZ",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "ref:1db5138b1297fc31"
+   }
+  ],
+  "papers": [
+   "ref:1db5138b1297fc31",
+   "doi:10.1016/j.calphad.2013.03.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.03.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PrB-13Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

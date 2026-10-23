@@ -1,0 +1,237 @@
+{
+ "components": [
+  "B",
+  "CE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BETA_RHOMBO_B",
+  "CEB4_D1E",
+  "CEB6_D21",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2603.0,
+   2438.0,
+   2273.0,
+   1063.0,
+   999.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.857
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "B"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "B"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "B"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [23] of doi:10-1016-j-calphad-2020-101740 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V2E6ZHDHII ORC-NANC66V3CS ORC-Q4UO6CCVBX ORC-BWCBJIZY7K ORC-A53YQ2J2VG",
+ "bibtex": "referencend_16bdc7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-V2E6ZHDHII",
+    "paper": "doi:10.1016/j.calphad.2020.101740",
+    "measured_in": "unresolved:source:doi:10-1016-j-calphad-2020-101740#23"
+   },
+   {
+    "id": "ORC-NANC66V3CS",
+    "paper": "doi:10.1016/j.calphad.2020.101740",
+    "measured_in": "unresolved:source:doi:10-1016-j-calphad-2020-101740#23"
+   },
+   {
+    "id": "ORC-Q4UO6CCVBX",
+    "paper": "doi:10.1016/j.calphad.2020.101740",
+    "measured_in": "unresolved:source:doi:10-1016-j-calphad-2020-101740#23"
+   },
+   {
+    "id": "ORC-BWCBJIZY7K",
+    "paper": "doi:10.1016/j.calphad.2020.101740",
+    "measured_in": "unresolved:source:doi:10-1016-j-calphad-2020-101740#23"
+   },
+   {
+    "id": "ORC-A53YQ2J2VG",
+    "paper": "doi:10.1016/j.calphad.2020.101740",
+    "measured_in": "unresolved:source:doi:10-1016-j-calphad-2020-101740#23"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1016-j-calphad-2020-101740#23",
+   "doi:10.1016/j.calphad.2020.101740"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2020.101740"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeB-20Li/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

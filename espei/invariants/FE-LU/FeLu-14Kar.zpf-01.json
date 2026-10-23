@@ -1,0 +1,77 @@
+{
+ "components": [
+  "FE",
+  "LU"
+ ],
+ "phases": [
+  "FE17LU2_HT",
+  "FE17LU2_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1188.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FE17LU2_HT",
+    [
+     "LU"
+    ],
+    [
+     0.105
+    ]
+   ],
+   [
+    "FE17LU2_LT",
+    [
+     "LU"
+    ],
+    [
+     0.105
+    ]
+   ]
+  ]
+ ],
+ "reference": "1972, V.F. Kolesnichenko, V.F. Terekhova, E.M. Savitskii, Phase Diagrams of Thulium– Iron and Lutetium–Iron Alloys. Metalloved. Tsvetn. Met. Splavov Nauka, vol. 3, 1972, p. 3.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3KV5VYF2LF",
+ "bibtex": "kolesnichenko1972_7bf5a6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3KV5VYF2LF",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:54cbae30690cd47d"
+   }
+  ],
+  "papers": [
+   "ref:54cbae30690cd47d",
+   "doi:10.1016/j.calphad.2014.01.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.01.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeLu-14Kar/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "components": [
+  "AU",
+  "PB"
+ ],
+ "phases": [
+  "AU2PB_C15",
+  "AUPB2_C16",
+  "AUPB3",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   525.5,
+   495,
+   486
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.72
+    ]
+   ],
+   [
+    "AU2PB_C15",
+    [
+     "PB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AUPB2_C16",
+    [
+     "PB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.843
+    ]
+   ],
+   [
+    "AUPB2_C16",
+    [
+     "PB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "AUPB3",
+    [
+     "PB"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.843
+    ]
+   ],
+   [
+    "AUPB3",
+    [
+     "PB"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1972, D.S. Evans, J.I. Mcleod, A. Prince, Metallurgical Chemistry, Proceedings of Symposium, Brunel University and N. P. L., 1972.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HXA3ZVSQWL ORC-EOH4HO7LM2 ORC-ADNU7HO345",
+ "bibtex": "evans1972_89143c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HXA3ZVSQWL",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:f62b5ddc13c62100"
+   },
+   {
+    "id": "ORC-EOH4HO7LM2",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:f62b5ddc13c62100"
+   },
+   {
+    "id": "ORC-ADNU7HO345",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:f62b5ddc13c62100"
+   }
+  ],
+  "papers": [
+   "ref:f62b5ddc13c62100",
+   "doi:10.1016/j.calphad.2004.05.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2004.05.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuPb-04Wan-LB/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

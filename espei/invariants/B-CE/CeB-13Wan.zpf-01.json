@@ -1,0 +1,88 @@
+{
+ "components": [
+  "B",
+  "CE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CEB4_D1E",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1063.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "B"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ]
+ ],
+ "reference": "BREWER 1951, doi:10.1111/j.1151-2916.1951.tb11631.x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3YHAUGBE7D",
+ "bibtex": "brewer1951_cf0121",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3YHAUGBE7D",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "doi:10.1111/j.1151-2916.1951.tb11631.x"
+   }
+  ],
+  "papers": [
+   "doi:10.1111/j.1151-2916.1951.tb11631.x",
+   "doi:10.1016/j.calphad.2013.03.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.03.001",
+   "10.1111/j.1151-2916.1951.tb11631.x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeB-13Wan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

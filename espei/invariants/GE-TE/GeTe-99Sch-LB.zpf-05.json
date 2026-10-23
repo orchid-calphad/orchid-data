@@ -1,0 +1,85 @@
+{
+ "components": [
+  "GE",
+  "TE"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "GETE_B1",
+  "GETE_LOW"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   683.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GETE_LOW",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GETE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Schlieper 1999, doi:10.1016/s0364-5916(99)00012-7",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-P3DC22R2L2",
+ "bibtex": "schlieper1999_4731cc",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-P3DC22R2L2",
+    "paper": "doi:10.1016/s0364-5916(99)00012-7"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0364-5916(99)00012-7"
+  ],
+  "dois": [
+   "10.1016/s0364-5916(99)00012-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeTe-99Sch-LB/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

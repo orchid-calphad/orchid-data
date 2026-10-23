@@ -1,0 +1,154 @@
+{
+ "components": [
+  "SB",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   814.15,
+   801.15,
+   789.15,
+   781.15,
+   776.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.724
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.764
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.776
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.813
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.834
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2000, doi:10.1361/105497100770339608",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RI7BJHNYHI ORC-VEOIU5YYQP ORC-55ZGMHHS7A ORC-RREESVNKC5 ORC-D2WAT6GQ7P",
+ "bibtex": "liu2000_24102d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RI7BJHNYHI",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770339608",
+    "measured_in": "doi:10.1361/105497100770339608"
+   },
+   {
+    "id": "ORC-VEOIU5YYQP",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770339608",
+    "measured_in": "doi:10.1361/105497100770339608"
+   },
+   {
+    "id": "ORC-55ZGMHHS7A",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770339608",
+    "measured_in": "doi:10.1361/105497100770339608"
+   },
+   {
+    "id": "ORC-RREESVNKC5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770339608",
+    "measured_in": "doi:10.1361/105497100770339608"
+   },
+   {
+    "id": "ORC-D2WAT6GQ7P",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770339608",
+    "measured_in": "doi:10.1361/105497100770339608"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497100770339608"
+  ],
+  "dois": [
+   "10.1361/105497100770339608"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SbZn-00Liu-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

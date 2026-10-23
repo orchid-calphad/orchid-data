@@ -1,0 +1,113 @@
+{
+ "components": [
+  "AL",
+  "IR"
+ ],
+ "phases": [
+  "AL3IR_D018"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "IR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -65700.0
+   ]
+  ]
+ ],
+ "reference": "JIANG 2006, doi:10.1016/j.actamat.2006.03.058",
+ "bibtex": "jiang2006_eb3817",
+ "weight": [
+  0.076418
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AlIr-06Jia.tdb (sha256 42aa80aa2bf0ad5b25f0fb3e2777a4145e4b32d8b3d8d749d3ca2410832f28f2), phase AL3IR_D018. Ids, in value order: ORC-CVNXZ24MQM.466f56. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AlIr-06Jia.tdb",
+   "path": "databases/sgte-binary/AlIr-06Jia.tdb",
+   "sha256": "42aa80aa2bf0ad5b25f0fb3e2777a4145e4b32d8b3d8d749d3ca2410832f28f2",
+   "phase": "AL3IR_D018"
+  },
+  "registry_phase": "phase:al-ir:al3ir-d018",
+  "mapping": [
+   {
+    "id": "ORC-CVNXZ24MQM.466f56",
+    "compound": "Al3Ir",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2006.03.058"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2006.03.058"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6543.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-IR",
+     "n": 98,
+     "sigma_robust_kJ": 6.543,
+     "bias_median_kJ_not_applied": 0.258,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.076418,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -65.7,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-CVNXZ24MQM.466f56",
+    "compound": "Al3Ir"
+   }
+  ]
+ }
+}

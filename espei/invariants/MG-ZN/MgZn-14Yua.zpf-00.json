@@ -1,0 +1,197 @@
+{
+ "components": [
+  "MG",
+  "ZN"
+ ],
+ "phases": [
+  "C14_LAVES",
+  "HCP_A3",
+  "LIQUID",
+  "MG2ZN11_D8C",
+  "MG2ZN3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   689,
+   861,
+   654,
+   637
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MG2ZN3",
+    [
+     "ZN"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.67
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "ZN"
+    ],
+    [
+     0.67
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.91
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MG2ZN11_D8C",
+    [
+     "ZN"
+    ],
+    [
+     0.8461538461538461
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.92
+    ]
+   ],
+   [
+    "MG2ZN11_D8C",
+    [
+     "ZN"
+    ],
+    [
+     0.8461538461538461
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "2014, T.B. Massalski, Binary Alloy Phase Diagrams, second ed., ASM International, Materials Park, 1991. (Ohio, USA: WILEY-VCH Verlag GmbH). Y. Yuan et al. / CALPHAD: Computer Coupling of Phase Diagrams and Thermochemistry 44 (2014) 54–61",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FKI32Z4NSK ORC-G4EP7FXOH4 ORC-I3RUBD5DMA ORC-F7EMNZHXLC",
+ "bibtex": "massalski2014_f6bbfa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FKI32Z4NSK",
+    "paper": "doi:10.1016/j.calphad.2013.07.007",
+    "measured_in": "ref:8348833c1e8c4c34"
+   },
+   {
+    "id": "ORC-G4EP7FXOH4",
+    "paper": "doi:10.1016/j.calphad.2013.07.007",
+    "measured_in": "ref:8348833c1e8c4c34"
+   },
+   {
+    "id": "ORC-I3RUBD5DMA",
+    "paper": "doi:10.1016/j.calphad.2013.07.007",
+    "measured_in": "ref:8348833c1e8c4c34"
+   },
+   {
+    "id": "ORC-F7EMNZHXLC",
+    "paper": "doi:10.1016/j.calphad.2013.07.007",
+    "measured_in": "ref:8348833c1e8c4c34"
+   }
+  ],
+  "papers": [
+   "ref:8348833c1e8c4c34",
+   "doi:10.1016/j.calphad.2013.07.007"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.07.007"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgZn-14Yua/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

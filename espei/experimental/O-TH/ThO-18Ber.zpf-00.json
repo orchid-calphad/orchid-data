@@ -1,0 +1,68 @@
+{
+ "components": [
+  "O",
+  "TH"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3400.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TH"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Bergeron 2018, doi:10.1016/j.jnucmat.2018.09.013",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KXNCOETOOP",
+ "bibtex": "bergeron2018_15b756",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KXNCOETOOP",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jnucmat.2018.09.013",
+    "measured_in": "doi:10.1016/j.jnucmat.2018.09.013"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2018.09.013"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2018.09.013"
+  ],
+  "source_dataset": "db-v2.1/general/espei/ThO-18Ber/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 70.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

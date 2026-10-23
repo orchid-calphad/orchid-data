@@ -1,0 +1,234 @@
+{
+ "components": [
+  "CE",
+  "NI"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "CE7NI3_D102",
+  "CENI_B33",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   743,
+   758,
+   723,
+   943,
+   908
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.191
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.328
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.529
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [54] of doi:10-1007-s10853-022-08039-1 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MIOQDHDYOR ORC-VF4O3G2OH7 ORC-OWUATYAUFL ORC-G5YIEHNBOV ORC-KMWJZQPYBA",
+ "bibtex": "referencend_d680bd",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MIOQDHDYOR",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#54"
+   },
+   {
+    "id": "ORC-VF4O3G2OH7",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#54"
+   },
+   {
+    "id": "ORC-OWUATYAUFL",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#54",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-G5YIEHNBOV",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#54"
+   },
+   {
+    "id": "ORC-KMWJZQPYBA",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#54",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1007-s10853-022-08039-1#54",
+   "doi:10.1007/s10853-022-08039-1"
+  ],
+  "dois": [
+   "10.1007/s10853-022-08039-1"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeNi-23Ye/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

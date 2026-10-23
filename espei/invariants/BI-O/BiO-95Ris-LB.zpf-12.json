@@ -1,0 +1,91 @@
+{
+ "components": [
+  "BI",
+  "O"
+ ],
+ "phases": [
+  "BI2O3_ALPHA",
+  "BI2O3_C1",
+  "ION"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   974
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BI2O3_C1",
+    [
+     "O"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BI2O3_ALPHA",
+    [
+     "O"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "ION",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1985, S.C. Schaefer, \"Electrochemical Determination of Thermodynamic Properties of Bismuth Sesquioxide and Stannic Oxide,\" U.S. Bureau of Mines RI, 8906 (1984). 85Hih M. Hillert, B. Jansson, B. Sundman, andJ. Agren, \"ATwo-Sublattice Model for Molten Solutions with Different Tendency for lonization,\" Metall. Trans. A, 16, 261-266 (1985).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JRE7NW4VTZ",
+ "bibtex": "schaefer1985_dce2ec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JRE7NW4VTZ",
+    "paper": "doi:10.1007/bf02667306",
+    "measured_in": "ref:a4daeb823b3d14fc",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:a4daeb823b3d14fc",
+   "doi:10.1007/bf02667306"
+  ],
+  "dois": [
+   "10.1007/bf02667306"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-12.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

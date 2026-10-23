@@ -1,0 +1,77 @@
+{
+ "components": [
+  "BI",
+  "NA"
+ ],
+ "phases": [
+  "BINA3_D018",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1123.4
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BINA3_D018",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "1970, D.R. Frederickson, M.G. Chasanov, R.D. Barnes, S.A. Johnson, The enthalpy of solid and liquid Na3 Bi by drop calorimetry, High Temp. Sci. 2 (1970) 259–264.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QAETT4RSNQ",
+ "bibtex": "frederickson1970_824a0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QAETT4RSNQ",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "measured_in": "ref:884b58ce877cb5e6"
+   }
+  ],
+  "papers": [
+   "ref:884b58ce877cb5e6",
+   "doi:10.1016/j.tca.2013.01.029"
+  ],
+  "dois": [
+   "10.1016/j.tca.2013.01.029"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiNa-13Liu/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

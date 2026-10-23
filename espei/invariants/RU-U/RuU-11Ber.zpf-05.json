@@ -1,0 +1,123 @@
+{
+ "components": [
+  "RU",
+  "U"
+ ],
+ "phases": [
+  "BCC_A2",
+  "RUU2",
+  "TETRAGONAL_U"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   966.15,
+   966.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RUU2",
+    [
+     "U"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RUU2",
+    [
+     "U"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Berche 2011, doi:10.1016/j.jnucmat.2011.01.043",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VIZJ2HDFNG ORC-ER7MEHSLHY",
+ "bibtex": "berche2011_46bb9d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VIZJ2HDFNG",
+    "paper": "doi:10.1016/j.jnucmat.2011.01.043"
+   },
+   {
+    "id": "ORC-ER7MEHSLHY",
+    "paper": "doi:10.1016/j.jnucmat.2011.01.043"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2011.01.043"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2011.01.043"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/RuU-11Ber/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,239 @@
+{
+ "components": [
+  "C",
+  "MN"
+ ],
+ "phases": [
+  "CBCC_A12",
+  "CEMENTITE_D011",
+  "M23C6_D84",
+  "M5C2",
+  "M7C3_D101"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1363.0,
+   1323.0,
+   1293.0,
+   1243.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "MN"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "M5C2",
+    [
+     "MN"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.707143
+    ]
+   ]
+  ],
+  [
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M5C2",
+    [
+     "MN"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "CEMENTITE_D011",
+    [
+     "MN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.732143
+    ]
+   ]
+  ],
+  [
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEMENTITE_D011",
+    [
+     "MN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "MN"
+    ],
+    [
+     0.793103
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.7715515
+    ]
+   ]
+  ],
+  [
+   [
+    "CEMENTITE_D011",
+    [
+     "MN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "M5C2",
+    [
+     "MN"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "MN"
+    ],
+    [
+     0.793103
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.752463
+    ]
+   ]
+  ]
+ ],
+ "reference": "Djurovic 2010, doi:10.1016/j.calphad.2010.05.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ED5C7IIWX3 ORC-DRGF5IDHOG ORC-DDC4YRDUQR ORC-QB5HYDZ447",
+ "bibtex": "djurovic2010_7636ec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ED5C7IIWX3",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   },
+   {
+    "id": "ORC-DRGF5IDHOG",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   },
+   {
+    "id": "ORC-DDC4YRDUQR",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   },
+   {
+    "id": "ORC-QB5HYDZ447",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.05.002",
+   "doi:10.1007/bf02665426"
+  ],
+  "dois": [
+   "10.1007/bf02665426",
+   "10.1016/j.calphad.2010.05.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnC-10Dju/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

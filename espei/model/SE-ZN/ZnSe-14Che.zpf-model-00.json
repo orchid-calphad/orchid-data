@@ -1,0 +1,102 @@
+{
+ "components": [
+  "SE",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID",
+  "ZNSE_B3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1811.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "ZNSE_B3",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chen 2014, doi:10.1016/j.jallcom.2014.08.001",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "phase_compositions_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5OOEUWPBI6",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "ZnSe-14Che.tdb",
+   "path": "databases/sgte-binary/ZnSe-14Che.tdb",
+   "sha256": "7827c472586d3aba648a38dfb773b42cf3bea74ddcaff7a1015d84c95d2815f8",
+   "catalog_entry": {
+    "name": "ZnSe-14Che.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2014-08-001",
+   "doi": "10.1016/j.jallcom.2014.08.001",
+   "citation": {
+    "authors": "see doi",
+    "title": "Y. Chen, Y. Liu, M. Chu, L. Wang, J. Alloys Compd., 617, 423-28(2014).",
+    "year": "2014"
+   }
+  },
+  "model_reproduction": null
+ },
+ "bibtex": "chen2014_cbc687",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-5OOEUWPBI6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2014.08.001",
+    "measured_in": "doi:10.1016/j.jallcom.2014.08.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.08.001"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.08.001"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/ZnSe-14Che/zpf-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

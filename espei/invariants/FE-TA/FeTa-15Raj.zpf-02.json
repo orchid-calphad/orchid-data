@@ -1,0 +1,77 @@
+{
+ "components": [
+  "FE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2152
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.334
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.334
+    ]
+   ]
+  ]
+ ],
+ "reference": "1998, A.V. Keitz, G. Sauthoff, P. Neumann, Laves phase for high temperatures— structure stability and constitution, Z. Metallkd. 89 (12) (1998) 803–810.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4V5M3EKHM6",
+ "bibtex": "keitz1998_f08ad4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4V5M3EKHM6",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "ref:3ae4b8f4f03fcbf2"
+   }
+  ],
+  "papers": [
+   "ref:3ae4b8f4f03fcbf2",
+   "doi:10.1016/j.calphad.2014.12.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.12.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-15Raj/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

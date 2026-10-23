@@ -1,0 +1,113 @@
+{
+ "components": [
+  "AU",
+  "CE"
+ ],
+ "phases": [
+  "AUCE2_C37"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AU",
+    "CE"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -50990.0
+   ]
+  ]
+ ],
+ "reference": "Moustaine 2016, doi:10.1016/j.jallcom.2016.05.116",
+ "bibtex": "moustaine2016_b20dda",
+ "weight": [
+  0.072056
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AuCe-13Don.tdb (sha256 1a117620cb88dd03720965d293a818bb3585706d6b53c7eb793555d83dfa80fc), phase AUCE2_C37. Ids, in value order: ORC-I5RYCRWVMX. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AuCe-13Don.tdb",
+   "path": "databases/sgte-binary/AuCe-13Don.tdb",
+   "sha256": "1a117620cb88dd03720965d293a818bb3585706d6b53c7eb793555d83dfa80fc",
+   "phase": "AUCE2_C37"
+  },
+  "registry_phase": "phase:au-ce:auce2-c37",
+  "mapping": [
+   {
+    "id": "ORC-I5RYCRWVMX",
+    "compound": "AuCe2",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2016.05.116"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2016.05.116"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6939.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AU-CE",
+     "n": 96,
+     "sigma_robust_kJ": 6.939,
+     "bias_median_kJ_not_applied": 0.86,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.072056,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -50.99,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-I5RYCRWVMX",
+    "compound": "AuCe2"
+   }
+  ]
+ }
+}

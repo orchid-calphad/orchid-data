@@ -1,0 +1,225 @@
+{
+ "components": [
+  "CE",
+  "MO"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1073.15,
+   1173.15,
+   1373.15,
+   1473.15,
+   1573.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     1e-06
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     1e-06
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     5e-06
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     5e-06
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     7.8e-05
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     7.8e-05
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.000242
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.000242
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.000655
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.000655
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chan 2010, doi:10.1007/s11669-010-9753-1",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "phase_compositions_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JZEICUQMMF ORC-WI4RJ5LPA6 ORC-W5PBJ2ZQPU ORC-QNASE64RS2 ORC-HW35254GH3",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CeMo-10Cha.tdb",
+   "path": "databases/sgte-binary/CeMo-10Cha.tdb",
+   "sha256": "faf1991c7387bbb6a125cd08e5cb168fe4d719a2f2b477061890f50a091a8b34",
+   "catalog_entry": {
+    "name": "CeMo-10Cha.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s11669-010-9753-1",
+   "doi": "10.1007/s11669-010-9753-1",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Phase Equilib. Diffus., 31, 414-20(2010).",
+    "year": "2010"
+   }
+  },
+  "model_reproduction": null
+ },
+ "bibtex": "chan2010_0ecb44",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-JZEICUQMMF",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-010-9753-1",
+    "measured_in": "doi:10.1007/s11669-010-9753-1"
+   },
+   {
+    "id": "ORC-WI4RJ5LPA6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-010-9753-1",
+    "measured_in": "doi:10.1007/s11669-010-9753-1"
+   },
+   {
+    "id": "ORC-W5PBJ2ZQPU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-010-9753-1",
+    "measured_in": "doi:10.1007/s11669-010-9753-1"
+   },
+   {
+    "id": "ORC-QNASE64RS2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-010-9753-1",
+    "measured_in": "doi:10.1007/s11669-010-9753-1"
+   },
+   {
+    "id": "ORC-HW35254GH3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-010-9753-1",
+    "measured_in": "doi:10.1007/s11669-010-9753-1"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-010-9753-1"
+  ],
+  "dois": [
+   "10.1007/s11669-010-9753-1"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CeMo-10Cha/zpf-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

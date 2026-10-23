@@ -1,0 +1,102 @@
+{
+ "components": [
+  "MG",
+  "O"
+ ],
+ "phases": [
+  "B1_OXIDE",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3250.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "B1_OXIDE",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liang 2018, doi:10.1016/j.jeurceramsoc.2018.06.015",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "phase_compositions_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-L7IGD3VFZX",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "MgO-18Lia.tdb",
+   "path": "databases/sgte-binary/MgO-18Lia.tdb",
+   "sha256": "28bd068049e41b579b0e2a29e75feb9e8ac64c72b5b2fa8daa7bfae24147c334",
+   "catalog_entry": {
+    "name": "MgO-18Lia.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jeurceramsoc-2018-06-015",
+   "doi": "10.1016/j.jeurceramsoc.2018.06.015",
+   "citation": {
+    "authors": "see doi",
+    "title": "S.-M. Liang, R. Schmid-Fetzer, J. Eur. Ceram. Soc., 38, 4768-85(2018).",
+    "year": "2018"
+   }
+  },
+  "model_reproduction": null
+ },
+ "bibtex": "liang2018_2a1422",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-L7IGD3VFZX",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jeurceramsoc.2018.06.015",
+    "measured_in": "doi:10.1016/j.jeurceramsoc.2018.06.015"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jeurceramsoc.2018.06.015"
+  ],
+  "dois": [
+   "10.1016/j.jeurceramsoc.2018.06.015"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/MgO-18Lia/zpf-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

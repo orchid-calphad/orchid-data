@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AL",
+  "AU"
+ ],
+ "phases": [
+  "AL3AU8",
+  "ALAU2_ALPHA",
+  "ALAU2_C11B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   833
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ALAU2_C11B",
+    [
+     "AU"
+    ],
+    [
+     0.668
+    ]
+   ],
+   [
+    "ALAU2_ALPHA",
+    [
+     "AU"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "AL3AU8",
+    [
+     "AU"
+    ],
+    [
+     0.7272727272727273
+    ]
+   ]
+  ]
+ ],
+ "reference": "1972, M. Puselj, K. Schubert, J. Less-Common Met. 35 (1972) 259–266.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MLWBHHUO2O",
+ "bibtex": "puselj1972_c2a148",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MLWBHHUO2O",
+    "paper": "doi:10.1016/j.jallcom.2004.05.007",
+    "measured_in": "ref:d47613bf270ee66e"
+   }
+  ],
+  "papers": [
+   "ref:d47613bf270ee66e",
+   "doi:10.1016/j.jallcom.2004.05.007"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2004.05.007"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlAu-04Li/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "B",
+  "FE"
+ ],
+ "phases": [
+  "BETA_RHOMBO_B",
+  "M2B_C16",
+  "MB_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   580.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "MB_B33",
+    [
+     "FE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M2B_C16",
+    [
+     "FE"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "FE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2019, doi:10.1016/j.jallcom.2019.05.341",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VQNDOIGPXE",
+ "bibtex": "witusiewicz2019_f3538e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VQNDOIGPXE",
+    "paper": "doi:10.1016/j.jallcom.2019.05.341"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2019.05.341",
+   "doi:10.1002/pssa.2211230217"
+  ],
+  "dois": [
+   "10.1002/pssa.2211230217",
+   "10.1016/j.jallcom.2019.05.341"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeB-19Wit/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "components": [
+  "CO",
+  "IN"
+ ],
+ "phases": [
+  "COIN2_CB",
+  "COIN3",
+  "FCC_A1",
+  "LIQUID",
+  "TETRAGONAL_A6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1559.15,
+   823,
+   763.15,
+   429.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.23
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COIN2_CB",
+    [
+     "IN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "COIN2_CB",
+    [
+     "IN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COIN3",
+    [
+     "IN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.7083333334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COIN3",
+    [
+     "IN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1970, J. D. Schiibel and H. H. Stadelmaier, Z. Metal&i. 61 (1970) 342.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PC3PBCAMLE ORC-EOW3F37WSA ORC-DYMLMITXFU ORC-FYZBLIQOHC",
+ "bibtex": "schiibel1970_e8c193",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PC3PBCAMLE",
+    "paper": "doi:10.1016/s0364-5916(02)00014-7",
+    "measured_in": "ref:7a8fd1ffb865f552",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-EOW3F37WSA",
+    "paper": "doi:10.1016/s0364-5916(02)00014-7",
+    "measured_in": "ref:7a8fd1ffb865f552"
+   },
+   {
+    "id": "ORC-DYMLMITXFU",
+    "paper": "doi:10.1016/s0364-5916(02)00014-7",
+    "measured_in": "ref:7a8fd1ffb865f552"
+   },
+   {
+    "id": "ORC-FYZBLIQOHC",
+    "paper": "doi:10.1016/s0364-5916(02)00014-7",
+    "measured_in": "ref:7a8fd1ffb865f552"
+   }
+  ],
+  "papers": [
+   "ref:7a8fd1ffb865f552",
+   "doi:10.1016/s0364-5916(02)00014-7"
+  ],
+  "dois": [
+   "10.1016/s0364-5916(02)00014-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoIn-01Boa-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 4.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 4.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

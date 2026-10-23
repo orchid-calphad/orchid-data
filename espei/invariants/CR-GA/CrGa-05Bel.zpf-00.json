@@ -1,0 +1,172 @@
+{
+ "components": [
+  "CR",
+  "GA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CR3GA_A15",
+  "CR3GA_BETA",
+  "CRGA_D810",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1893.15,
+   1373.15,
+   1153.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.33
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CR3GA_BETA",
+    [
+     "GA"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.635
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CR3GA_A15",
+    [
+     "GA"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.83
+    ]
+   ],
+   [
+    "CR3GA_A15",
+    [
+     "GA"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "CRGA_D810",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Bornand 1972, doi:10.1016/0022-5088(72)90149-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QYG6XU5M4U ORC-QVTMDID3HS ORC-WC4H56O6ID",
+ "bibtex": "bornand1972_903676",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QYG6XU5M4U",
+    "paper": "doi:10.1016/j.jallcom.2005.01.026",
+    "measured_in": "doi:10.1016/0022-5088(72)90149-x",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-QVTMDID3HS",
+    "paper": "doi:10.1016/j.jallcom.2005.01.026",
+    "measured_in": "doi:10.1016/0022-5088(72)90149-x"
+   },
+   {
+    "id": "ORC-WC4H56O6ID",
+    "paper": "doi:10.1016/j.jallcom.2005.01.026",
+    "measured_in": "doi:10.1016/0022-5088(72)90149-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(72)90149-x",
+   "doi:10.1016/j.jallcom.2005.01.026"
+  ],
+  "dois": [
+   "10.1016/0022-5088(72)90149-x",
+   "10.1016/j.jallcom.2005.01.026"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrGa-05Bel/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

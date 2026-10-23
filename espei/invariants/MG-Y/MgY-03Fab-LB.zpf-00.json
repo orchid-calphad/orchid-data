@@ -1,0 +1,246 @@
+{
+ "components": [
+  "MG",
+  "Y"
+ ],
+ "phases": [
+  "B2_BCC",
+  "BCC_A2",
+  "C14_LAVES",
+  "HCP_A3",
+  "LIQUID",
+  "MG24Y5_A12"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1213,
+   1058,
+   1048,
+   890,
+   839
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.466
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.588
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "Y"
+    ],
+    [
+     0.494
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.276
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "Y"
+    ],
+    [
+     0.474
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "Y"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.7170000000000001
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     0.841
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "Y"
+    ],
+    [
+     0.499
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.146
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "Y"
+    ],
+    [
+     0.26
+    ]
+   ],
+   [
+    "MG24Y5_A12",
+    [
+     "Y"
+    ],
+    [
+     0.163
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.08900000000000001
+    ]
+   ],
+   [
+    "MG24Y5_A12",
+    [
+     "Y"
+    ],
+    [
+     0.135
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     0.0375
+    ]
+   ]
+  ]
+ ],
+ "reference": "Fabrichnaya O, Pitsch A. In: MSI binary evaluation program.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PG3CQZ6MKZ ORC-QKDL2FZDIY ORC-OCPY52HA6I ORC-52SKPQHGYX ORC-FL5TISBU26",
+ "bibtex": "fabrichnayand_47c961",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PG3CQZ6MKZ",
+    "paper": "doi:10.1016/s0966-9795(03)00156-0",
+    "measured_in": "ref:62ee5c039a5ba0b2"
+   },
+   {
+    "id": "ORC-QKDL2FZDIY",
+    "paper": "doi:10.1016/s0966-9795(03)00156-0",
+    "measured_in": "ref:62ee5c039a5ba0b2"
+   },
+   {
+    "id": "ORC-OCPY52HA6I",
+    "paper": "doi:10.1016/s0966-9795(03)00156-0",
+    "measured_in": "ref:62ee5c039a5ba0b2"
+   },
+   {
+    "id": "ORC-52SKPQHGYX",
+    "paper": "doi:10.1016/s0966-9795(03)00156-0",
+    "measured_in": "ref:62ee5c039a5ba0b2"
+   },
+   {
+    "id": "ORC-FL5TISBU26",
+    "paper": "doi:10.1016/s0966-9795(03)00156-0",
+    "measured_in": "ref:62ee5c039a5ba0b2"
+   }
+  ],
+  "papers": [
+   "ref:62ee5c039a5ba0b2",
+   "doi:10.1016/s0966-9795(03)00156-0"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(03)00156-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgY-03Fab-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

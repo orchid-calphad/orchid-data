@@ -1,0 +1,91 @@
+{
+ "components": [
+  "AG",
+  "SC"
+ ],
+ "phases": [
+  "AG4SC_D1A",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1199.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.12
+    ]
+   ],
+   [
+    "AG4SC_D1A",
+    [
+     "SC"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SC"
+    ],
+    [
+     0.10400000000000001
+    ]
+   ]
+  ]
+ ],
+ "reference": "1971, K.A. Gschneidner Jr., O.D. Mcmasters, D.G. Alexander, R.F. Venteicher, Metall. Trans. 1 (1970) 1961–1971.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6CIGUHATFG",
+ "bibtex": "gschneidner1971_15b7a8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6CIGUHATFG",
+    "paper": "doi:10.1016/j.jallcom.2008.02.018",
+    "measured_in": "ref:dd823d3a590d5aba"
+   }
+  ],
+  "papers": [
+   "ref:dd823d3a590d5aba",
+   "doi:10.1016/j.jallcom.2008.02.018",
+   "doi:10.1007/bf02868084"
+  ],
+  "dois": [
+   "10.1007/bf02868084",
+   "10.1016/j.jallcom.2008.02.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgSc-09Liu/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

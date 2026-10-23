@@ -1,0 +1,88 @@
+{
+ "components": [
+  "C",
+  "PD"
+ ],
+ "phases": [
+  "FCC_A1",
+  "GRAPHITE_A9",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1777
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.195
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.08
+    ]
+   ],
+   [
+    "GRAPHITE_A9",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Nadler 1960, doi:10.1021/j100839a028",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FA7ISVJNHN",
+ "bibtex": "nadler1960_ccedb4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FA7ISVJNHN",
+    "paper": "doi:10.1016/j.intermet.2005.09.008",
+    "measured_in": "doi:10.1021/j100839a028"
+   }
+  ],
+  "papers": [
+   "doi:10.1021/j100839a028",
+   "doi:10.1016/j.intermet.2005.09.008"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2005.09.008",
+   "10.1021/j100839a028"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PdC-06Du/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "components": [
+  "CU",
+  "DY"
+ ],
+ "phases": [
+  "CU2DY",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1163
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "DY"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "CU2DY",
+    [
+     "DY"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "1964, M. Copeland, H. Kato, Physics and Materials Problems of Reactor Control Rods, International Atomic Energy Agency, Vienna, Austria, 1964, pp. 295–317.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JZMPOWFHNZ",
+ "bibtex": "copeland1964_9099f9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JZMPOWFHNZ",
+    "paper": "doi:10.1016/j.jallcom.2008.03.007",
+    "measured_in": "ref:2bc6c2ad198c257f"
+   }
+  ],
+  "papers": [
+   "ref:2bc6c2ad198c257f",
+   "doi:10.1016/j.jallcom.2008.03.007"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.03.007"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuDy-09Zha/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "components": [
+  "C",
+  "MN"
+ ],
+ "phases": [
+  "LIQUID",
+  "M5C2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_MN": [
+   0.714286
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -10600.0
+   ]
+  ]
+ ],
+ "reference": "Djurovic 2010, doi:10.1016/j.calphad.2010.05.002",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YT26FNPRDQ",
+ "reference_states": {
+  "C": {
+   "phase": "GRAPHITE",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "MN": {
+   "phase": "CBCC_A12",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "djurovic2010_7636ec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YT26FNPRDQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.05.002",
+   "doi:10.1023/b:dopc.0000025219.06217.03"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2010.05.002",
+   "10.1023/b:dopc.0000025219.06217.03"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MnC-10Dju/hmr-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

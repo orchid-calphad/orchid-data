@@ -1,0 +1,262 @@
+{
+ "components": [
+  "LA",
+  "SI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LA3SI2_D5A",
+  "LA5SI3_D8L",
+  "LA5SI4",
+  "LASI_B27",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   995.0,
+   1533.0,
+   1743.0,
+   1843.0,
+   1893.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.11
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LA5SI3_D8L",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LA3SI2_D5A",
+    [
+     "SI"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "LA5SI3_D8L",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.3875
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LA5SI4",
+    [
+     "SI"
+    ],
+    [
+     0.444444
+    ]
+   ],
+   [
+    "LA3SI2_D5A",
+    [
+     "SI"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.422222
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LASI_B27",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LA5SI4",
+    [
+     "SI"
+    ],
+    [
+     0.444444
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.47222200000000003
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LASI_B27",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhou 2010, doi:10.1016/j.jallcom.2009.09.171",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3OB4T3EYRR ORC-CQVQU7HEN5 ORC-VHDZKLQKDC ORC-562QMRPTMO ORC-6JYMRTPAHS",
+ "bibtex": "zhou2010_9c6869",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3OB4T3EYRR",
+    "paper": "doi:10.1016/j.jallcom.2009.09.171"
+   },
+   {
+    "id": "ORC-CQVQU7HEN5",
+    "paper": "doi:10.1016/j.jallcom.2009.09.171"
+   },
+   {
+    "id": "ORC-VHDZKLQKDC",
+    "paper": "doi:10.1016/j.jallcom.2009.09.171"
+   },
+   {
+    "id": "ORC-562QMRPTMO",
+    "paper": "doi:10.1016/j.jallcom.2009.09.171"
+   },
+   {
+    "id": "ORC-6JYMRTPAHS",
+    "paper": "doi:10.1016/j.jallcom.2009.09.171"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.09.171",
+   "doi:10.1016/s0925-8388(01)01686-3"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.09.171",
+   "10.1016/s0925-8388(01)01686-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LaSi-10Zho/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 9.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

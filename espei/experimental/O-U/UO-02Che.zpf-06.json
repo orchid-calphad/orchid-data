@@ -1,0 +1,195 @@
+{
+ "components": [
+  "O",
+  "U"
+ ],
+ "phases": [
+  "UO2_C1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2080.0,
+   2185.0,
+   2290.0,
+   2390.0,
+   2495.0,
+   2600.0,
+   2705.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "UO2_C1",
+    [
+     "U"
+    ],
+    [
+     0.3424
+    ]
+   ]
+  ],
+  [
+   [
+    "UO2_C1",
+    [
+     "U"
+    ],
+    [
+     0.3464
+    ]
+   ]
+  ],
+  [
+   [
+    "UO2_C1",
+    [
+     "U"
+    ],
+    [
+     0.3506
+    ]
+   ]
+  ],
+  [
+   [
+    "UO2_C1",
+    [
+     "U"
+    ],
+    [
+     0.356
+    ]
+   ]
+  ],
+  [
+   [
+    "UO2_C1",
+    [
+     "U"
+    ],
+    [
+     0.3619
+    ]
+   ]
+  ],
+  [
+   [
+    "UO2_C1",
+    [
+     "U"
+    ],
+    [
+     0.3699
+    ]
+   ]
+  ],
+  [
+   [
+    "UO2_C1",
+    [
+     "U"
+    ],
+    [
+     0.3805
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chevalier 2002, doi:10.1016/s0022-3115(02)00813-9",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XFTEDGDCER ORC-56GT6UCNQQ ORC-VZZUIJCDNF ORC-DUQ3XTPROU ORC-DNBRUNK5LD ORC-MTWSQIIK26 ORC-OXL62SFSC5",
+ "bibtex": "chevalier2002_e9ce6d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XFTEDGDCER",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   },
+   {
+    "id": "ORC-56GT6UCNQQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   },
+   {
+    "id": "ORC-VZZUIJCDNF",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   },
+   {
+    "id": "ORC-DUQ3XTPROU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   },
+   {
+    "id": "ORC-DNBRUNK5LD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   },
+   {
+    "id": "ORC-MTWSQIIK26",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   },
+   {
+    "id": "ORC-OXL62SFSC5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0022-3115(02)00813-9",
+   "doi:10.1063/1.1669953",
+   "doi:10.1016/0022-3115(70)90010-3"
+  ],
+  "dois": [
+   "10.1016/0022-3115(70)90010-3",
+   "10.1016/s0022-3115(02)00813-9",
+   "10.1063/1.1669953"
+  ],
+  "source_dataset": "db-v2.1/general/espei/UO-02Che/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "components": [
+  "FE",
+  "LU"
+ ],
+ "phases": [
+  "FCC_A1",
+  "FE17LU2_HT",
+  "FE23LU6_D8A",
+  "FE2LU_C15",
+  "FE3LU",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1593.15,
+   1563.15,
+   1618.15,
+   1243.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LU"
+    ],
+    [
+     0.13
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "LU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE17LU2_HT",
+    [
+     "LU"
+    ],
+    [
+     0.105
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LU"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "FE3LU",
+    [
+     "LU"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FE23LU6_D8A",
+    [
+     "LU"
+    ],
+    [
+     0.206
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LU"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "FE2LU_C15",
+    [
+     "LU"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LU"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "FE2LU_C15",
+    [
+     "LU"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "LU"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1993, H. Okamoto, Phase diagrams of binary iron alloys, in: H. Okamoto (Ed.), Materials Information Society, Materials Park, Ohio, 1993.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5J4CM2IZYJ ORC-52X2V3A5WE ORC-6QX4IUQXAM ORC-H7OUOPBE7B",
+ "bibtex": "okamoto1993_6db1b4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5J4CM2IZYJ",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b"
+   },
+   {
+    "id": "ORC-52X2V3A5WE",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b"
+   },
+   {
+    "id": "ORC-6QX4IUQXAM",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b"
+   },
+   {
+    "id": "ORC-H7OUOPBE7B",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b"
+   }
+  ],
+  "papers": [
+   "ref:389704579c2cf19b",
+   "doi:10.1016/j.calphad.2014.01.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.01.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeLu-14Kar/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

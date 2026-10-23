@@ -1,0 +1,217 @@
+{
+ "components": [
+  "CR",
+  "PT"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CR3PT_A15",
+  "FCC_4SL",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2058.0,
+   1873.0,
+   1803.0,
+   1773.0,
+   1403.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.18
+    ]
+   ],
+   [
+    "CR3PT_A15",
+    [
+     "PT"
+    ],
+    [
+     0.18
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "CR3PT_A15",
+    [
+     "PT"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     0.29
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.13
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "PT"
+    ],
+    [
+     0.1
+    ]
+   ],
+   [
+    "CR3PT_A15",
+    [
+     "PT"
+    ],
+    [
+     0.17
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PT"
+    ],
+    [
+     0.67
+    ]
+   ],
+   [
+    "FCC_4SL",
+    [
+     "PT"
+    ],
+    [
+     0.67
+    ]
+   ]
+  ]
+ ],
+ "reference": "Preußner 2009, doi:10.1016/j.msea.2008.10.059",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V3PUGYAKUF ORC-42VNZ3RYM6 ORC-A4IGN5YKJE ORC-N7OPIZHVQA ORC-GUL5WE2NRC",
+ "bibtex": "preuner2009_e39d0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-V3PUGYAKUF",
+    "paper": "doi:10.1016/j.msea.2008.10.059",
+    "measured_in": "doi:10.1016/j.msea.2008.10.059"
+   },
+   {
+    "id": "ORC-42VNZ3RYM6",
+    "paper": "doi:10.1016/j.msea.2008.10.059",
+    "measured_in": "doi:10.1016/j.msea.2008.10.059"
+   },
+   {
+    "id": "ORC-A4IGN5YKJE",
+    "paper": "doi:10.1016/j.msea.2008.10.059",
+    "measured_in": "doi:10.1016/j.msea.2008.10.059"
+   },
+   {
+    "id": "ORC-N7OPIZHVQA",
+    "paper": "doi:10.1016/j.msea.2008.10.059",
+    "measured_in": "doi:10.1016/j.msea.2008.10.059"
+   },
+   {
+    "id": "ORC-GUL5WE2NRC",
+    "paper": "doi:10.1016/j.msea.2008.10.059",
+    "measured_in": "doi:10.1016/j.msea.2008.10.059"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.msea.2008.10.059"
+  ],
+  "dois": [
+   "10.1016/j.msea.2008.10.059"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrPt-09Pre/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

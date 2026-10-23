@@ -1,0 +1,75 @@
+{
+ "components": [
+  "FE",
+  "NB"
+ ],
+ "phases": [
+  "C14_LAVES",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1918.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "NB"
+    ],
+    [
+     0.333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Sun 2024, doi:10.1016/j.actamat.2024.119747",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WXOD5LV5TN",
+ "bibtex": "sun2024_01fd5f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WXOD5LV5TN",
+    "paper": "doi:10.1016/j.actamat.2024.119747"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2024.119747"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2024.119747"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeNb-24Sun/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

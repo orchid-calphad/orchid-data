@@ -1,0 +1,87 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "M3SI_A15"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2323
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.2746
+    ]
+   ],
+   [
+    "M3SI_A15",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ]
+ ],
+ "reference": "1952, Kieer R, Cerwenka E. Z Metallkunde 1952;43:101±5.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-T6ZF7D46KL",
+ "bibtex": "kie1952_f5aabd",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-T6ZF7D46KL",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6",
+    "measured_in": "ref:af0d46445806f561"
+   }
+  ],
+  "papers": [
+   "ref:af0d46445806f561",
+   "doi:10.1016/s0966-9795(00)00068-6"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(00)00068-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoSi-00Liu/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

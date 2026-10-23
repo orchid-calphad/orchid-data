@@ -1,0 +1,94 @@
+{
+ "components": [
+  "B",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "MB2_C32",
+  "ZRB_B1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1523.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "MB2_C32",
+    [
+     "ZR"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZRB_B1",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.4166665
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chen 2009, doi:10.1016/j.jallcom.2008.01.061",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-D2TYECO73U",
+ "bibtex": "chen2009_a2836f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-D2TYECO73U",
+    "paper": "doi:10.1016/j.jallcom.2008.01.061"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2008.01.061"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.01.061"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ZrB-09Che/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

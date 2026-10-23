@@ -1,0 +1,207 @@
+{
+ "components": [
+  "GA",
+  "Y"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_Y": [
+   0.142857,
+   0.333333,
+   0.333333,
+   0.5,
+   0.5,
+   0.625,
+   0.625
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -35000.0,
+    -73470.0,
+    -73490.0,
+    -75200.0,
+    -75190.0,
+    -63990.0,
+    -64000.0
+   ]
+  ]
+ ],
+ "reference": "Idbenali 2013, doi:10.1007/s10973-012-2861-x",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FYWH2NPMWI ORC-T3KIGB7X3X ORC-HGBUPAPL5B ORC-CD4LXZ4CMM ORC-AONFJJ2L4W ORC-ZNJGLQGMYJ ORC-GIT22H6OAM",
+ "reference_states": {
+  "GA": {
+   "phase": "ORTHORHOMBIC_A11",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "Y": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "GaY-13Idb.tdb",
+   "path": "databases/sgte-binary/GaY-13Idb.tdb",
+   "sha256": "cbddd22351605c045afe0d705d5ffd6c73c043a0c067ec7e6ee22e023b3785de",
+   "catalog_entry": {
+    "name": "GaY-13Idb.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s10973-012-2861-x",
+   "doi": "10.1007/s10973-012-2861-x",
+   "citation": {
+    "authors": "see doi",
+    "title": "M. Idbenali, C. Servant, J. Therm. Anal. Calorim., 112, 245-53(2013).",
+    "year": "2013"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "idbenali2013_69be61",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-FYWH2NPMWI",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "measured_in": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-T3KIGB7X3X",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "measured_in": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-HGBUPAPL5B",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "measured_in": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-CD4LXZ4CMM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "measured_in": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-AONFJJ2L4W",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "measured_in": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-ZNJGLQGMYJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "measured_in": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-GIT22H6OAM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "measured_in": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-012-2861-x"
+  ],
+  "dois": [
+   "10.1007/s10973-012-2861-x"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/GaY-13Idb/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "components": [
+  "SI",
+  "TE"
+ ],
+ "phases": [
+  "LIQUID",
+  "SI2TE3_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_TE": [
+   0.6,
+   0.6
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -13800.0,
+    -14400.0
+   ]
+  ]
+ ],
+ "reference": "reference [13] of doi:10-1016-s0364-5916-00-00007-9 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "single_reader_text_layer",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q77N3JJJ37 ORC-T5IN5YOYEN",
+ "reference_states": {
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "TE": {
+   "phase": "HEXAGONAL_A8",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.083333,
+ "bibtex": "referencend_a4a4ab",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Q77N3JJJ37",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1016/s0364-5916(00)00007-9",
+    "measured_in": "unresolved:source:doi:10-1016-s0364-5916-00-00007-9#13"
+   },
+   {
+    "id": "ORC-T5IN5YOYEN",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1016/s0364-5916(00)00007-9",
+    "measured_in": "unresolved:source:doi:10-1016-s0364-5916-00-00007-9#13"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1016-s0364-5916-00-00007-9#13",
+   "doi:10.1016/s0364-5916(00)00007-9"
+  ],
+  "dois": [
+   "10.1016/s0364-5916(00)00007-9"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SiTe-99Feu-LB/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 7000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 7.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.071429,
+    "weight_used": 0.083333
+   },
+   {
+    "sigma": 5000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 5.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.1,
+    "weight_used": 0.083333
+   }
+  ]
+ }
+}

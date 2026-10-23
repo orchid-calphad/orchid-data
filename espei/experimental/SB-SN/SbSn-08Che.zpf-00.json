@@ -1,0 +1,319 @@
+{
+ "components": [
+  "SB",
+  "SN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   523.15,
+   523.15,
+   523.15,
+   523.15,
+   573.15,
+   483.15,
+   433.15,
+   573.15,
+   483.15,
+   433.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.559
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.546
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.521
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.497
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.389
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.106
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.424
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.074
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.452
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.07
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.388
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.105
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.42
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.072
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.448
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     0.068
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chen 2008, doi:10.1007/s11664-008-0464-x",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HRHJJB2GZ5 ORC-WTG5LPBTNU ORC-SHUMQPLUEC ORC-GRLUEEPRLW ORC-HUYRZIUKD7 ORC-C4DQBVUQI6 ORC-O5TCU6676V ORC-VWXIUJT76E ORC-G2CFUL73U5 ORC-MV7A7EZ7Z4",
+ "bibtex": "chen2008_1364ba",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HRHJJB2GZ5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-WTG5LPBTNU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-SHUMQPLUEC",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-GRLUEEPRLW",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-HUYRZIUKD7",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-C4DQBVUQI6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-O5TCU6676V",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-VWXIUJT76E",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-G2CFUL73U5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   },
+   {
+    "id": "ORC-MV7A7EZ7Z4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11664-008-0464-x",
+    "measured_in": "doi:10.1007/s11664-008-0464-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11664-008-0464-x"
+  ],
+  "dois": [
+   "10.1007/s11664-008-0464-x"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SbSn-08Che/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

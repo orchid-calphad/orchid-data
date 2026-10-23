@@ -1,0 +1,88 @@
+{
+ "components": [
+  "BI",
+  "CE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BICE2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1032
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BICE2",
+    [
+     "CE"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Borzone 1978, doi:10.1016/0022-5088(78)90067-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-N3VRNZVWHZ",
+ "bibtex": "borzone1978_5908dc",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-N3VRNZVWHZ",
+    "paper": "doi:10.1016/j.calphad.2012.05.004",
+    "measured_in": "doi:10.1016/0022-5088(78)90067-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(78)90067-x",
+   "doi:10.1016/j.calphad.2012.05.004"
+  ],
+  "dois": [
+   "10.1016/0022-5088(78)90067-x",
+   "10.1016/j.calphad.2012.05.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiCe-12Li/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

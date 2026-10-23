@@ -1,0 +1,88 @@
+{
+ "components": [
+  "SN",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4",
+  "SNZR4_A15"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1216.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SNZR4_A15",
+    [
+     "ZR"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Pérez 2008, doi:10.1016/j.calphad.2008.04.001",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7ERMFCRLO5",
+ "bibtex": "perez2008_0cc8fd",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7ERMFCRLO5",
+    "paper": "doi:10.1016/j.calphad.2008.04.001",
+    "measured_in": "doi:10.1016/j.calphad.2008.04.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2008.04.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2008.04.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SnZr-08Jer/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

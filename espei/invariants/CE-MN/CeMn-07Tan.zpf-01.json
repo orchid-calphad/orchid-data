@@ -1,0 +1,87 @@
+{
+ "components": [
+  "CE",
+  "MN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1271.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "MN"
+    ],
+    [
+     0.98
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MN"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.71
+    ]
+   ]
+  ]
+ ],
+ "reference": "Tang 2007, doi:10.1016/j.jallcom.2006.07.071",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KM6HBOFRQQ",
+ "bibtex": "tang2007_ae44be",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KM6HBOFRQQ",
+    "paper": "doi:10.1016/j.jallcom.2006.07.071"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2006.07.071"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2006.07.071"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeMn-07Tan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

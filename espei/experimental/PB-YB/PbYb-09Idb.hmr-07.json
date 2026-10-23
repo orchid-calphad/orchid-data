@@ -1,0 +1,116 @@
+{
+ "components": [
+  "PB",
+  "YB"
+ ],
+ "phases": [
+  "LIQUID",
+  "PB3YB_L12"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_YB": [
+   0.25,
+   0.25
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -38100.0,
+    -38100.0
+   ]
+  ]
+ ],
+ "reference": "Idbenali 2009, doi:10.1016/j.calphad.2009.05.001",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VVJLDFPSO2.7569fb ORC-VVJLDFPSO2.7569fb",
+ "reference_states": {
+  "PB": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "YB": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.5,
+ "bibtex": "idbenali2009_bbe769",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VVJLDFPSO2.7569fb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.05.001",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-VVJLDFPSO2.7569fb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.05.001",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2009.05.001",
+   "doi:10.1021/j100216a030"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.05.001",
+   "10.1021/j100216a030"
+  ],
+  "source_dataset": "db-v2.1/general/espei/PbYb-09Idb/hmr-07.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 1000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.5,
+    "weight_used": 0.5
+   },
+   {
+    "sigma": 1000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.5,
+    "weight_used": 0.5
+   }
+  ]
+ }
+}

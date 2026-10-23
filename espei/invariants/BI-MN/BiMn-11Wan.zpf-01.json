@@ -1,0 +1,278 @@
+{
+ "components": [
+  "BI",
+  "MN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BIMN_B81",
+  "BIMN_B82",
+  "CBCC_A12",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   535.15,
+   613.15,
+   628.15,
+   719.15,
+   1000.15,
+   1373.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.022
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "MN"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BIMN_B81",
+    [
+     "MN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "BIMN_B82",
+    [
+     "MN"
+    ],
+    [
+     0.519
+    ]
+   ],
+   [
+    "BIMN_B81",
+    [
+     "MN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BIMN_B82",
+    [
+     "MN"
+    ],
+    [
+     0.519
+    ]
+   ],
+   [
+    "BIMN_B81",
+    [
+     "MN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "BIMN_B82",
+    [
+     "MN"
+    ],
+    [
+     0.519
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MN"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2011, doi:10.1016/j.jnucmat.2011.02.021",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YR6XMCIYKQ ORC-MLTE6MPFN2 ORC-DU7QHGUM4I ORC-YK4W4DS3UZ ORC-SUOTXN7VR7 ORC-2QEEOA6O4A",
+ "bibtex": "wang2011_d82a62",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YR6XMCIYKQ",
+    "paper": "doi:10.1016/j.jnucmat.2011.02.021"
+   },
+   {
+    "id": "ORC-MLTE6MPFN2",
+    "paper": "doi:10.1016/j.jnucmat.2011.02.021"
+   },
+   {
+    "id": "ORC-DU7QHGUM4I",
+    "paper": "doi:10.1016/j.jnucmat.2011.02.021"
+   },
+   {
+    "id": "ORC-YK4W4DS3UZ",
+    "paper": "doi:10.1016/j.jnucmat.2011.02.021"
+   },
+   {
+    "id": "ORC-SUOTXN7VR7",
+    "paper": "doi:10.1016/j.jnucmat.2011.02.021"
+   },
+   {
+    "id": "ORC-2QEEOA6O4A",
+    "paper": "doi:10.1016/j.jnucmat.2011.02.021"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2011.02.021"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2011.02.021"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiMn-11Wan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

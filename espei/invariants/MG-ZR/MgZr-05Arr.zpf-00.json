@@ -1,0 +1,79 @@
+{
+ "components": [
+  "MG",
+  "ZR"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   926.75
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.00161
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.01042
+    ]
+   ]
+  ]
+ ],
+ "reference": "Arroyave 2005, doi:10.1016/j.calphad.2005.07.004",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BIUOJBFDTY",
+ "bibtex": "arroyave2005_2f7cbf",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BIUOJBFDTY",
+    "paper": "doi:10.1016/j.calphad.2005.07.004"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.07.004",
+   "doi:10.1007/bf02880408"
+  ],
+  "dois": [
+   "10.1007/bf02880408",
+   "10.1016/j.calphad.2005.07.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgZr-05Arr/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 0.5,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

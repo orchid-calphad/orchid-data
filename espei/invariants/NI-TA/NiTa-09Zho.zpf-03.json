@@ -1,0 +1,258 @@
+{
+ "components": [
+  "NI",
+  "TA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "NI2TA_C11B",
+  "NI3TA_KAPPA",
+  "NITA2_C16",
+  "NITA_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1817.0,
+   1815.0,
+   1643.0,
+   1673.0,
+   1639.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NITA2_C16",
+    [
+     "TA"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "NITA_D85",
+    [
+     "TA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.5833335
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "NI3TA_KAPPA",
+    [
+     "TA"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI3TA_KAPPA",
+    [
+     "TA"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI3TA_KAPPA",
+    [
+     "TA"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "NI2TA_C11B",
+    [
+     "TA"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.2916665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NITA_D85",
+    [
+     "TA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NI2TA_C11B",
+    [
+     "TA"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.4166665
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhou 2009, doi:10.1016/j.calphad.2009.06.006",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SDJGHDWCNU ORC-6PWUHP35SW ORC-YM447RIB4W ORC-JDMNGOFVVY ORC-LL3IXZRXXA",
+ "bibtex": "zhou2009_7b38b4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SDJGHDWCNU",
+    "paper": "doi:10.1016/j.calphad.2009.06.006"
+   },
+   {
+    "id": "ORC-6PWUHP35SW",
+    "paper": "doi:10.1016/j.calphad.2009.06.006"
+   },
+   {
+    "id": "ORC-YM447RIB4W",
+    "paper": "doi:10.1016/j.calphad.2009.06.006"
+   },
+   {
+    "id": "ORC-JDMNGOFVVY",
+    "paper": "doi:10.1016/j.calphad.2009.06.006"
+   },
+   {
+    "id": "ORC-LL3IXZRXXA",
+    "paper": "doi:10.1016/j.calphad.2009.06.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2009.06.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.06.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiTa-09Zho/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

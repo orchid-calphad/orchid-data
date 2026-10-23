@@ -1,0 +1,120 @@
+{
+ "components": [
+  "SE",
+  "SN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SN": [
+   0.5,
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -54700.0,
+    -34900.0
+   ]
+  ]
+ ],
+ "reference": "Feutelais 1996, doi:10.1007/bf02648368",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FU4YYPX6NM.a7871b ORC-FU4YYPX6NM.31244a",
+ "reference_states": {
+  "SE": {
+   "phase": "HEXAGONAL_A8",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SN": {
+   "phase": "BCT_A5",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "SnSe-96Feu-LB.tdb",
+   "path": "databases/sgte-binary/SnSe-96Feu-LB.tdb",
+   "sha256": "1a2bab98ceb7b79f5ea186ba4108dd8448be44ee5721e29376f34f890a048b7e",
+   "catalog_entry": {
+    "name": "SnSe-96Feu-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-bf02648368",
+   "doi": "10.1007/BF02648368",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Phase Equilib., 17, 40-49(1996).",
+    "year": "1996"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "feutelais1996_0b2d2a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-FU4YYPX6NM.a7871b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02648368",
+    "measured_in": "doi:10.1007/bf02648368"
+   },
+   {
+    "id": "ORC-FU4YYPX6NM.31244a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02648368",
+    "measured_in": "doi:10.1007/bf02648368"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02648368"
+  ],
+  "dois": [
+   "10.1007/bf02648368"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/SnSe-96Feu-LB/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

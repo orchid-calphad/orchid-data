@@ -1,0 +1,332 @@
+{
+ "components": [
+  "AU",
+  "LA"
+ ],
+ "phases": [
+  "AU2LA",
+  "AU51LA14",
+  "AULA2_C37",
+  "AULA_B27",
+  "AULA_B33",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   834,
+   1598,
+   1487,
+   1477,
+   938,
+   1421,
+   1327,
+   933
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LA"
+    ],
+    [
+     0.84
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "LA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AULA2_C37",
+    [
+     "LA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AULA_B33",
+    [
+     "LA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ],
+   [
+    "AU2LA",
+    [
+     "LA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LA"
+    ],
+    [
+     0.21499999999999997
+    ]
+   ],
+   [
+    "AU51LA14",
+    [
+     "LA"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LA"
+    ],
+    [
+     0.751
+    ]
+   ],
+   [
+    "AULA_B33",
+    [
+     "LA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AULA2_C37",
+    [
+     "LA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LA"
+    ],
+    [
+     0.373
+    ]
+   ],
+   [
+    "AULA_B33",
+    [
+     "LA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AU2LA",
+    [
+     "LA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LA"
+    ],
+    [
+     0.30999999999999994
+    ]
+   ],
+   [
+    "AU2LA",
+    [
+     "LA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AU51LA14",
+    [
+     "LA"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ]
+  ],
+  [
+   [
+    "AULA_B33",
+    [
+     "LA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AULA_B27",
+    [
+     "LA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, T.B. Massalski, Binary Alloy Phase Diagrams, ASM International, OH, Metals Park, 1990.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KDXZBM4AYY ORC-RJ6WI76HBZ ORC-NRRKCQ6STC ORC-OZ2VOZ3L7K ORC-JYQJZXLGVI ORC-5JXNBF4W4O ORC-DB27BWTXM2 ORC-M7FFTSDFAQ",
+ "bibtex": "massalski1990_05a1b5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KDXZBM4AYY",
+    "paper": "doi:10.1016/j.jallcom.2011.01.072",
+    "measured_in": "ref:599f5b503aa72f1d"
+   },
+   {
+    "id": "ORC-RJ6WI76HBZ",
+    "paper": "doi:10.1016/j.jallcom.2011.01.072",
+    "measured_in": "ref:599f5b503aa72f1d"
+   },
+   {
+    "id": "ORC-NRRKCQ6STC",
+    "paper": "doi:10.1016/j.jallcom.2011.01.072",
+    "measured_in": "ref:599f5b503aa72f1d"
+   },
+   {
+    "id": "ORC-OZ2VOZ3L7K",
+    "paper": "doi:10.1016/j.jallcom.2011.01.072",
+    "measured_in": "ref:599f5b503aa72f1d"
+   },
+   {
+    "id": "ORC-JYQJZXLGVI",
+    "paper": "doi:10.1016/j.jallcom.2011.01.072",
+    "measured_in": "ref:599f5b503aa72f1d"
+   },
+   {
+    "id": "ORC-5JXNBF4W4O",
+    "paper": "doi:10.1016/j.jallcom.2011.01.072",
+    "measured_in": "ref:599f5b503aa72f1d"
+   },
+   {
+    "id": "ORC-DB27BWTXM2",
+    "paper": "doi:10.1016/j.jallcom.2011.01.072",
+    "measured_in": "ref:599f5b503aa72f1d",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-M7FFTSDFAQ",
+    "paper": "doi:10.1016/j.jallcom.2011.01.072",
+    "measured_in": "ref:599f5b503aa72f1d"
+   }
+  ],
+  "papers": [
+   "ref:599f5b503aa72f1d",
+   "doi:10.1016/j.jallcom.2011.01.072"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2011.01.072"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuLa-11Don/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

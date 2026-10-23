@@ -1,0 +1,93 @@
+{
+ "components": [
+  "CU",
+  "HF"
+ ],
+ "phases": [
+  "CUHF2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_HF": [
+   0.67,
+   0.67
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -15230.0,
+    -15230.0
+   ]
+  ]
+ ],
+ "reference": "Zhong 2013, doi:10.1016/j.actamat.2012.10.014",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5MXBBIBV47.8b3ef0 ORC-5MXBBIBV47.8b3ef0",
+ "reference_states": {
+  "CU": {
+   "phase": "FCC_A1"
+  },
+  "HF": {
+   "phase": "HCP_A3"
+  }
+ },
+ "bibtex": "zhong2013_acfa31",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5MXBBIBV47.8b3ef0",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.actamat.2012.10.014"
+   },
+   {
+    "id": "ORC-5MXBBIBV47.8b3ef0",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.actamat.2012.10.014"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2012.10.014",
+   "doi:10.1007/bf02667755"
+  ],
+  "dois": [
+   "10.1007/bf02667755",
+   "10.1016/j.actamat.2012.10.014"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CuHf-13Zho/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

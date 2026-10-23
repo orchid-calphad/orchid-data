@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AL",
+  "LI"
+ ],
+ "phases": [
+  "BCC_4SL",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   863
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.23399999999999999
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     0.12400000000000001
+    ]
+   ],
+   [
+    "BCC_4SL",
+    [
+     "LI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1926, A. Müller, The Al-Li Phase Diagram, Z. Metallkd., 1926, 18, p 231",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NOKGAXYWXY",
+ "bibtex": "mu1926_dafe07",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NOKGAXYWXY",
+    "paper": "doi:10.1007/s11669-020-00827-z",
+    "measured_in": "ref:1fa019436d752c75"
+   }
+  ],
+  "papers": [
+   "ref:1fa019436d752c75",
+   "doi:10.1007/s11669-020-00827-z"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00827-z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlLi-20Lon/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

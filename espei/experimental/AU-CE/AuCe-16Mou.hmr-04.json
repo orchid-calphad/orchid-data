@@ -1,0 +1,116 @@
+{
+ "components": [
+  "AU",
+  "CE"
+ ],
+ "phases": [
+  "AUCE_B27",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_CE": [
+   0.5,
+   0.215385
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -62800.0,
+    -49500.0
+   ]
+  ]
+ ],
+ "reference": "Moustaine 2016, doi:10.1016/j.jallcom.2016.05.116",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C37C5PYFBB ORC-YWV2PVBMJG",
+ "reference_states": {
+  "AU": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "CE": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.15625,
+ "bibtex": "moustaine2016_b20dda",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-C37C5PYFBB",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2016.05.116",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-YWV2PVBMJG",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2016.05.116",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2016.05.116",
+   "doi:10.1007/bf02657857"
+  ],
+  "dois": [
+   "10.1007/bf02657857",
+   "10.1016/j.jallcom.2016.05.116"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AuCe-16Mou/hmr-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 4200.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 4.2,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.119048,
+    "weight_used": 0.15625
+   },
+   {
+    "sigma": 2200.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 2.2,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.227273,
+    "weight_used": 0.15625
+   }
+  ]
+ }
+}

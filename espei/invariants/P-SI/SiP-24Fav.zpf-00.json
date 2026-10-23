@@ -1,0 +1,87 @@
+{
+ "components": [
+  "P",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "SIP"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1400
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIP",
+    [
+     "P"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "values for SiP and – (ii) Philipp and Schmidt [59] for SiP2.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LCKUK377GY",
+ "bibtex": "valuesnd_59dd2d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LCKUK377GY",
+    "paper": "doi:10.1016/j.calphad.2024.102758",
+    "measured_in": "ref:781ecf1dbacbd906"
+   }
+  ],
+  "papers": [
+   "ref:781ecf1dbacbd906",
+   "doi:10.1016/j.calphad.2024.102758"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2024.102758"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiP-24Fav/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

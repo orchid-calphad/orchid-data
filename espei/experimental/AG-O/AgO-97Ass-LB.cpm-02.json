@@ -1,0 +1,69 @@
+{
+ "components": [
+  "AG",
+  "O"
+ ],
+ "phases": [
+  "CUPRITE_C3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_O": [
+   0.333333
+  ]
+ },
+ "output": "CPM",
+ "values": [
+  [
+   [
+    22.266666666666666
+   ]
+  ]
+ ],
+ "reference": "Assal 1997, doi:10.1111/j.1151-2916.1997.tb03232.x",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OLEMKAVMOH",
+ "bibtex": "assal1997_007f48",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-OLEMKAVMOH",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1111/j.1151-2916.1997.tb03232.x"
+   }
+  ],
+  "papers": [
+   "doi:10.1111/j.1151-2916.1997.tb03232.x"
+  ],
+  "dois": [
+   "10.1111/j.1151-2916.1997.tb03232.x"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AgO-97Ass-LB/cpm-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_CPM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

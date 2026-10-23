@@ -1,0 +1,87 @@
+{
+ "components": [
+  "BI",
+  "CE"
+ ],
+ "phases": [
+  "BI2CE",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   544
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BI2CE",
+    [
+     "CE"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1959, R.J. Pleasance, J. Inst. Met. 88 (1959) 45–50.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OQPU4H6FVQ",
+ "bibtex": "pleasance1959_82cade",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-OQPU4H6FVQ",
+    "paper": "doi:10.1016/j.calphad.2012.05.004",
+    "measured_in": "ref:f81bc59ae70956c6"
+   }
+  ],
+  "papers": [
+   "ref:f81bc59ae70956c6",
+   "doi:10.1016/j.calphad.2012.05.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2012.05.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiCe-12Li/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

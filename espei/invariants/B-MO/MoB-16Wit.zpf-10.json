@@ -1,0 +1,190 @@
+{
+ "components": [
+  "B",
+  "MO"
+ ],
+ "phases": [
+  "MO2B5_D8I",
+  "MO2B_C16",
+  "MOB2_C32",
+  "MOB_B33",
+  "MOB_BG"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2273.0,
+   2173.0,
+   1773.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "MOB_B33",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "MO2B_C16",
+    [
+     "MO"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "MOB_BG",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.5833335
+    ]
+   ]
+  ],
+  [
+   [
+    "MOB_B33",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "MOB_BG",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "MOB2_C32",
+    [
+     "MO"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.4166665
+    ]
+   ]
+  ],
+  [
+   [
+    "MOB2_C32",
+    [
+     "MO"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "MOB_BG",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "MO2B5_D8I",
+    [
+     "MO"
+    ],
+    [
+     0.285714
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.3730156666666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2016, doi:10.1016/j.jallcom.2015.09.158",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DP3GDQGHBJ ORC-L6S3SXCA76 ORC-QCJQ2KU7OS",
+ "bibtex": "witusiewicz2016_ee3968",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DP3GDQGHBJ",
+    "paper": "doi:10.1016/j.jallcom.2015.09.158"
+   },
+   {
+    "id": "ORC-L6S3SXCA76",
+    "paper": "doi:10.1016/j.jallcom.2015.09.158"
+   },
+   {
+    "id": "ORC-QCJQ2KU7OS",
+    "paper": "doi:10.1016/j.jallcom.2015.09.158"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2015.09.158"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2015.09.158"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoB-16Wit/zpf-10.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

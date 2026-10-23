@@ -1,0 +1,110 @@
+{
+ "components": [
+  "FE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1623.0,
+   1648.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "MU_D85",
+    [
+     "TA"
+    ],
+    [
+     0.553
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.938
+    ]
+   ]
+  ],
+  [
+   [
+    "MU_D85",
+    [
+     "TA"
+    ],
+    [
+     0.56
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.947
+    ]
+   ]
+  ]
+ ],
+ "reference": "Rajkumar 2015, doi:10.1016/j.calphad.2014.12.006",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-P3GIHAS462 ORC-6PFI32NWOF",
+ "bibtex": "rajkumar2015_ccae21",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-P3GIHAS462",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "doi:10.1016/j.calphad.2014.12.006"
+   },
+   {
+    "id": "ORC-6PFI32NWOF",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "doi:10.1016/j.calphad.2014.12.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2014.12.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.12.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-15Raj/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

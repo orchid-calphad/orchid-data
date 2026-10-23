@@ -1,0 +1,174 @@
+{
+ "components": [
+  "BA",
+  "BI"
+ ],
+ "phases": [
+  "BA11BI10",
+  "BA4BI3_D73",
+  "BABI3",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   537,
+   846,
+   1067
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BABI3",
+    [
+     "BI"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BABI3",
+    [
+     "BI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BA11BI10",
+    [
+     "BI"
+    ],
+    [
+     0.47619047619047616
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "BI"
+    ],
+    [
+     0.613095238
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BI"
+    ],
+    [
+     0.42857142857142855
+    ]
+   ],
+   [
+    "BA4BI3_D73",
+    [
+     "BI"
+    ],
+    [
+     0.42857142857142855
+    ]
+   ]
+  ]
+ ],
+ "reference": "Lichtenstein 2017, doi:10.1016/j.electacta.2016.12.141",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FWRIB6EJY2 ORC-XJBNBJSFBQ ORC-IGDXZ7YYKB",
+ "bibtex": "lichtenstein2017_1abdec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FWRIB6EJY2",
+    "paper": "doi:10.1016/j.jallcom.2018.08.324",
+    "measured_in": "doi:10.1016/j.electacta.2016.12.141"
+   },
+   {
+    "id": "ORC-XJBNBJSFBQ",
+    "paper": "doi:10.1016/j.jallcom.2018.08.324",
+    "measured_in": "doi:10.1016/j.electacta.2016.12.141"
+   },
+   {
+    "id": "ORC-IGDXZ7YYKB",
+    "paper": "doi:10.1016/j.jallcom.2018.08.324",
+    "measured_in": "doi:10.1016/j.electacta.2016.12.141"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.electacta.2016.12.141",
+   "doi:10.1016/j.jallcom.2018.08.324"
+  ],
+  "dois": [
+   "10.1016/j.electacta.2016.12.141",
+   "10.1016/j.jallcom.2018.08.324"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BaBi-19Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 4.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 1.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "components": [
+  "AG",
+  "PT"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1263.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.02
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.02
+    ]
+   ]
+  ]
+ ],
+ "reference": "Karakaya 1987, doi:10.1007/bf02869269",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CW5RT3OWJD",
+ "bibtex": "karakaya1987_d5b1d2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CW5RT3OWJD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02869269"
+  ],
+  "dois": [
+   "10.1007/bf02869269"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AgPt-87Kar/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

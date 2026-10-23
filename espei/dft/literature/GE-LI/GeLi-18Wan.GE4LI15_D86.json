@@ -1,0 +1,109 @@
+{
+ "components": [
+  "GE",
+  "LI"
+ ],
+ "phases": [
+  "GE4LI15_D86"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   4.0,
+   15.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "LI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -32024.0
+   ]
+  ]
+ ],
+ "reference": "Gierlotka 2022, doi:10.1016/j.jct.2022.106883",
+ "bibtex": "gierlotka2022_418384",
+ "weight": [
+  0.073714
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB GeLi-18Wan.tdb (sha256 5eb8811b38c848dac3d3c2d886984a789eb4d77974b4203feb3f86fda1ed8c19), phase GE4LI15_D86. Ids, in value order: ORC-NCPHCG4PGG. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "GeLi-18Wan.tdb",
+   "path": "databases/sgte-binary/GeLi-18Wan.tdb",
+   "sha256": "5eb8811b38c848dac3d3c2d886984a789eb4d77974b4203feb3f86fda1ed8c19",
+   "phase": "GE4LI15_D86"
+  },
+  "registry_phase": "phase:ge-li:ge4li15-d86",
+  "mapping": [
+   {
+    "id": "ORC-NCPHCG4PGG",
+    "compound": "Ge4Li15",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jct.2022.106883"
+  ],
+  "dois": [
+   "10.1016/j.jct.2022.106883"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6783.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-LI",
+     "n": 98,
+     "sigma_robust_kJ": 6.783,
+     "bias_median_kJ_not_applied": 0.577,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.073714,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -32.024,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-NCPHCG4PGG",
+    "compound": "Ge4Li15"
+   }
+  ]
+ }
+}

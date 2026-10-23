@@ -1,0 +1,78 @@
+{
+ "components": [
+  "SC",
+  "Y"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1453.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.43
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "Y"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "doi:10.1007/bf02868085",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IGXAH3XBSH",
+ "bibtex": "gschneidnernd_70a7bd",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IGXAH3XBSH",
+    "paper": "doi:10.1016/j.jallcom.2008.09.053",
+    "measured_in": "doi:10.1007/bf02868085"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02868085",
+   "doi:10.1016/j.jallcom.2008.09.053"
+  ],
+  "dois": [
+   "10.1007/bf02868085",
+   "10.1016/j.jallcom.2008.09.053"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ScY-09Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

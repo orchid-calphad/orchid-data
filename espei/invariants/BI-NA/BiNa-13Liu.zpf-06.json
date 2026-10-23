@@ -1,0 +1,166 @@
+{
+ "components": [
+  "BI",
+  "NA"
+ ],
+ "phases": [
+  "BINA3_D018",
+  "BINA_L10",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   487,
+   718,
+   1049
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BINA_L10",
+    [
+     "NA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BINA3_D018",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BINA_L10",
+    [
+     "NA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NA"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BINA3_D018",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "1944, A.C. Vournasos, Bismuthides and intermetallic compounds, Ber. Deutsch. Chem. Gesellsch. 44 (1944) 3266–3271.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NQJE7RHRPU ORC-KGYVLGKMWM ORC-QIOIRUJC66",
+ "bibtex": "vournasos1944_032dce",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NQJE7RHRPU",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "measured_in": "ref:9366bb5ccc9fc7d9"
+   },
+   {
+    "id": "ORC-KGYVLGKMWM",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "measured_in": "ref:9366bb5ccc9fc7d9"
+   },
+   {
+    "id": "ORC-QIOIRUJC66",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "measured_in": "ref:9366bb5ccc9fc7d9"
+   }
+  ],
+  "papers": [
+   "ref:9366bb5ccc9fc7d9",
+   "doi:10.1016/j.tca.2013.01.029"
+  ],
+  "dois": [
+   "10.1016/j.tca.2013.01.029"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiNa-13Liu/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

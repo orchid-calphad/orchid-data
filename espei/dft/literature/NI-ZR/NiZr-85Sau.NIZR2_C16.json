@@ -1,0 +1,199 @@
+{
+ "components": [
+  "NI",
+  "ZR"
+ ],
+ "phases": [
+  "NIZR2_C16"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "NI",
+    "ZR"
+   ],
+   [
+    "NI",
+    "ZR"
+   ],
+   [
+    "NI",
+    "ZR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -31358.0,
+    -33917.0,
+    -31840.0
+   ]
+  ]
+ ],
+ "reference": "Jana 2020, doi:10.1016/j.intermet.2019.106640",
+ "bibtex": "jana2020_bdc191",
+ "weight": [
+  0.16372,
+  0.16372,
+  0.16372
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB NiZr-85Sau.tdb (sha256 5171ebe11b8dd706ef16538b508520fe9b81b93bf7d610d4c7e68be0f439d08a), phase NIZR2_C16. Ids, in value order: ORC-B4KWZSDQXV ORC-NC755NLLRE ORC-NWCFMGE54O. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "NiZr-85Sau.tdb",
+   "path": "databases/sgte-binary/NiZr-85Sau.tdb",
+   "sha256": "5171ebe11b8dd706ef16538b508520fe9b81b93bf7d610d4c7e68be0f439d08a",
+   "phase": "NIZR2_C16"
+  },
+  "registry_phase": "phase:ni-zr:nizr2-c16",
+  "mapping": [
+   {
+    "id": "ORC-B4KWZSDQXV",
+    "compound": "NiZr2",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-NC755NLLRE",
+    "compound": "NiZr2",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-NWCFMGE54O",
+    "compound": "NiZr2",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2019.106640"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2019.106640"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 3054.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NI-ZR",
+     "n": 76,
+     "sigma_robust_kJ": 3.054,
+     "bias_median_kJ_not_applied": 1.97,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.16372,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -31.358,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-B4KWZSDQXV",
+    "compound": "NiZr2"
+   },
+   {
+    "sigma": 3054.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NI-ZR",
+     "n": 76,
+     "sigma_robust_kJ": 3.054,
+     "bias_median_kJ_not_applied": 1.97,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.16372,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -33.917,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-NC755NLLRE",
+    "compound": "NiZr2"
+   },
+   {
+    "sigma": 3054.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NI-ZR",
+     "n": 76,
+     "sigma_robust_kJ": 3.054,
+     "bias_median_kJ_not_applied": 1.97,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.16372,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -31.84,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-NWCFMGE54O",
+    "compound": "NiZr2"
+   }
+  ]
+ }
+}

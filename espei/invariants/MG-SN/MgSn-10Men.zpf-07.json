@@ -1,0 +1,157 @@
+{
+ "components": [
+  "MG",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "HCP_A3",
+  "LIQUID",
+  "MG2SN_C1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   839,
+   1053,
+   471
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.105
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MG2SN_C1",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "MG2SN_C1",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.914
+    ]
+   ],
+   [
+    "MG2SN_C1",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1968, A.K. Nayak, W. Oelsen, Trans. Indian Inst. Met. 21 (1968) 15–20.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2X34TLZH5C ORC-QOB7BPOJBM ORC-WE7F34VNYB",
+ "bibtex": "nayak1968_165b6d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2X34TLZH5C",
+    "paper": "doi:10.1016/j.jallcom.2010.08.124",
+    "measured_in": "ref:997c0ff77dd72f27"
+   },
+   {
+    "id": "ORC-QOB7BPOJBM",
+    "paper": "doi:10.1016/j.jallcom.2010.08.124",
+    "measured_in": "ref:997c0ff77dd72f27"
+   },
+   {
+    "id": "ORC-WE7F34VNYB",
+    "paper": "doi:10.1016/j.jallcom.2010.08.124",
+    "measured_in": "ref:997c0ff77dd72f27"
+   }
+  ],
+  "papers": [
+   "ref:997c0ff77dd72f27",
+   "doi:10.1016/j.jallcom.2010.08.124"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2010.08.124"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgSn-10Men/zpf-07.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

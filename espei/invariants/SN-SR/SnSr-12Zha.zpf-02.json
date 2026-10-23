@@ -1,0 +1,189 @@
+{
+ "components": [
+  "SN",
+  "SR"
+ ],
+ "phases": [
+  "BCT_A5",
+  "LIQUID",
+  "SN3SR",
+  "SN4SR",
+  "SN5SR3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   871.15,
+   607.15,
+   503.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SN5SR3",
+    [
+     "SR"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "SN3SR",
+    [
+     "SR"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.3125
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SN3SR",
+    [
+     "SR"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "SN4SR",
+    [
+     "SR"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.225
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SN4SR",
+    [
+     "SR"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhao 2012, doi:10.1016/j.tca.2011.11.026",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VGUNTUYFGK ORC-P6HER2PBCD ORC-3S6AUCVHPC",
+ "bibtex": "zhao2012_bdb7d6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VGUNTUYFGK",
+    "paper": "doi:10.1016/j.tca.2011.11.026"
+   },
+   {
+    "id": "ORC-P6HER2PBCD",
+    "paper": "doi:10.1016/j.tca.2011.11.026"
+   },
+   {
+    "id": "ORC-3S6AUCVHPC",
+    "paper": "doi:10.1016/j.tca.2011.11.026"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2011.11.026",
+   "doi:10.1016/0022-5088(81)90121-1"
+  ],
+  "dois": [
+   "10.1016/0022-5088(81)90121-1",
+   "10.1016/j.tca.2011.11.026"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SnSr-12Zha/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 1.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 4.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

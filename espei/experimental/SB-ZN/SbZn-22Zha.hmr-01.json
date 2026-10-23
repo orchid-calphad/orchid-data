@@ -1,0 +1,76 @@
+{
+ "components": [
+  "SB",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_ZN": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -15052.0
+   ]
+  ]
+ ],
+ "reference": "Zhang 2022, doi:10.1016/j.tca.2022.179327",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VZTUEMSCRU",
+ "reference_states": {
+  "SB": {
+   "phase": "RHOMBOHEDRAL_A7"
+  },
+  "ZN": {
+   "phase": "HCP_A3"
+  }
+ },
+ "bibtex": "zhang2022_9e0ae3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VZTUEMSCRU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2022.179327"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2022.179327"
+  ],
+  "dois": [
+   "10.1016/j.tca.2022.179327"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SbZn-22Zha/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

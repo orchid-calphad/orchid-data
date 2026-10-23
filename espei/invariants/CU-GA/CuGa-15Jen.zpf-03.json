@@ -1,0 +1,172 @@
+{
+ "components": [
+  "CU",
+  "GA"
+ ],
+ "phases": [
+  "CUGA2",
+  "CUGA_GAM_1",
+  "CUGA_GAM_2",
+  "CUGA_GAM_3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   758.0,
+   741.0,
+   527.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CUGA_GAM_1",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUGA_GAM_2",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "CUGA_GAM_2",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUGA_GAM_3",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUGA_GAM_3",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUGA2",
+    [
+     "GA"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.5833335
+    ]
+   ]
+  ]
+ ],
+ "reference": "Jendrzejczyk-Handzlik 2015, doi:10.1016/j.jallcom.2014.08.037",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7YZBT3GYJS ORC-5QCZZGMGQC ORC-OE337ZB5DQ",
+ "bibtex": "jendrzejczykhandzlik2015_9a5995",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7YZBT3GYJS",
+    "paper": "doi:10.1016/j.jallcom.2014.08.037"
+   },
+   {
+    "id": "ORC-5QCZZGMGQC",
+    "paper": "doi:10.1016/j.jallcom.2014.08.037"
+   },
+   {
+    "id": "ORC-OE337ZB5DQ",
+    "paper": "doi:10.1016/j.jallcom.2014.08.037"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.08.037"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.08.037"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuGa-15Jen/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

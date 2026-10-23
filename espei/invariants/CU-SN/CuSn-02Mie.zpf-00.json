@@ -1,0 +1,512 @@
+{
+ "components": [
+  "CU",
+  "SN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BCT_A5",
+  "CU10SN3",
+  "CU3SN_D03",
+  "CU41SN11",
+  "CU6SN5_B81",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1071.15,
+   1028.15,
+   949.15,
+   913.15,
+   913.15,
+   863.15,
+   859.15,
+   855.15,
+   793.15,
+   688.15,
+   623.15,
+   500.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     0.077
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.131
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.155
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.158
+    ]
+   ],
+   [
+    "CU3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.165
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.191
+    ]
+   ]
+  ],
+  [
+   [
+    "CU3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "CU3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.218
+    ]
+   ],
+   [
+    "CU10SN3",
+    [
+     "SN"
+    ],
+    [
+     0.225
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.245
+    ]
+   ]
+  ],
+  [
+   [
+    "CU3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.259
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.279
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.431
+    ]
+   ]
+  ],
+  [
+   [
+    "CU3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.198
+    ]
+   ],
+   [
+    "CU41SN11",
+    [
+     "SN"
+    ],
+    [
+     0.203
+    ]
+   ],
+   [
+    "CU10SN3",
+    [
+     "SN"
+    ],
+    [
+     0.209
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     0.091
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.149
+    ]
+   ],
+   [
+    "CU3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.154
+    ]
+   ]
+  ],
+  [
+   [
+    "CU41SN11",
+    [
+     "SN"
+    ],
+    [
+     0.208
+    ]
+   ],
+   [
+    "CU10SN3",
+    [
+     "SN"
+    ],
+    [
+     0.217
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.245
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     0.091
+    ]
+   ],
+   [
+    "CU3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.165
+    ]
+   ],
+   [
+    "CU41SN11",
+    [
+     "SN"
+    ],
+    [
+     0.204
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.867
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.249
+    ]
+   ],
+   [
+    "CU6SN5_B81",
+    [
+     "SN"
+    ],
+    [
+     0.435
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     0.062
+    ]
+   ],
+   [
+    "CU41SN11",
+    [
+     "SN"
+    ],
+    [
+     0.205
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.245
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.987
+    ]
+   ],
+   [
+    "CU6SN5_B81",
+    [
+     "SN"
+    ],
+    [
+     0.455
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1994, G.V. Raynor: Annotated Equilibrium Diagram Series, The Institute of Metals, London, 1994, No. 2.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RCUI47LTAX ORC-DC655CDVSG ORC-7OPMC4CQIO ORC-RC23HBHO6E ORC-G2A2IB6XOL ORC-5VIJ7J7CVD ORC-36ON32FBOO ORC-U5DFG7BXTZ ORC-ZV7P52AFLA ORC-ZC2Q5QDWJR ORC-PQRL42YYBC ORC-QPVGLARUSI",
+ "bibtex": "raynor1994_48ce4c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RCUI47LTAX",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-DC655CDVSG",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-7OPMC4CQIO",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-RC23HBHO6E",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-G2A2IB6XOL",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-5VIJ7J7CVD",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-36ON32FBOO",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-U5DFG7BXTZ",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-ZV7P52AFLA",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-ZC2Q5QDWJR",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-PQRL42YYBC",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   },
+   {
+    "id": "ORC-QPVGLARUSI",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "ref:29a5586709bcad9e"
+   }
+  ],
+  "papers": [
+   "ref:29a5586709bcad9e",
+   "doi:10.1007/s11661-002-0173-7"
+  ],
+  "dois": [
+   "10.1007/s11661-002-0173-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuSn-02Mie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

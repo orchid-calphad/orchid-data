@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AL",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2275.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.63
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.88
+    ]
+   ],
+   [
+    "SIGMA_D8B",
+    [
+     "TA"
+    ],
+    [
+     0.667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2010, doi:10.1016/j.intermet.2009.06.015",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CTQBGESW77",
+ "bibtex": "witusiewicz2010_4304ae",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CTQBGESW77",
+    "paper": "doi:10.1016/j.intermet.2009.06.015"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2009.06.015"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2009.06.015"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlTa-10Wit/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 50.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

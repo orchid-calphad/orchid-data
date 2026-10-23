@@ -1,0 +1,184 @@
+{
+ "components": [
+  "MN",
+  "ND"
+ ],
+ "phases": [
+  "DHCP",
+  "LIQUID",
+  "MN17ND2",
+  "MN23ND6_D8A",
+  "MN2ND_C14"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   968.4,
+   1116.4,
+   1213.8
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN2ND_C14",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN23ND6_D8A",
+    [
+     "ND"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "MN2ND_C14",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.2701149425
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN17ND2",
+    [
+     "ND"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ],
+   [
+    "MN23ND6_D8A",
+    [
+     "ND"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.156079855
+    ]
+   ]
+  ]
+ ],
+ "reference": "Rong 2016, doi:10.1007/s10973-016-5636-y",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WWHNBVFRNT ORC-FQGQSLNZDA ORC-GEUGO5VF55",
+ "bibtex": "rong2016_8ebfa8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WWHNBVFRNT",
+    "paper": "doi:10.1007/s10973-016-5636-y",
+    "measured_in": "doi:10.1007/s10973-016-5636-y"
+   },
+   {
+    "id": "ORC-FQGQSLNZDA",
+    "paper": "doi:10.1007/s10973-016-5636-y",
+    "measured_in": "doi:10.1007/s10973-016-5636-y"
+   },
+   {
+    "id": "ORC-GEUGO5VF55",
+    "paper": "doi:10.1007/s10973-016-5636-y",
+    "measured_in": "doi:10.1007/s10973-016-5636-y"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-016-5636-y"
+  ],
+  "dois": [
+   "10.1007/s10973-016-5636-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnNd-16Ron/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

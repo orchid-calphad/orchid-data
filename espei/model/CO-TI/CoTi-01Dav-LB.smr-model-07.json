@@ -1,0 +1,108 @@
+{
+ "components": [
+  "CO",
+  "TI"
+ ],
+ "phases": [
+  "B2_BCC",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_TI": [
+   0.5
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    -2.6
+   ]
+  ]
+ ],
+ "reference": "Davydov 2001, doi:10.1007/s11661-001-0193-8",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YFY7FGZI74.74d6f3",
+ "reference_states": {
+  "CO": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "TI": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CoTi-01Dav-LB.tdb",
+   "path": "databases/sgte-binary/CoTi-01Dav-LB.tdb",
+   "sha256": "b8589e70960bb0536f312ac559d8050bf9903bf086f54899ec00bd2f7ead4f96",
+   "catalog_entry": {
+    "name": "CoTi-01Dav-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s11661-001-0193-8",
+   "doi": "10.1007/s11661-001-0193-8",
+   "citation": {
+    "authors": "see doi",
+    "title": "A.J. Shapiro, W.J. Boettinger, Metall. Mater. Trans. A, 32A, 2175-86(2001).",
+    "year": "2001"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "davydov2001_bf04e9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-YFY7FGZI74.74d6f3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11661-001-0193-8",
+    "measured_in": "doi:10.1007/s11661-001-0193-8"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11661-001-0193-8"
+  ],
+  "dois": [
+   "10.1007/s11661-001-0193-8"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CoTi-01Dav-LB/smr-model-07.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,263 @@
+{
+ "components": [
+  "NA",
+  "SN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "NA15SN4_D86",
+  "NA4SN3",
+  "NA9SN4",
+  "NASN_HT",
+  "NASN_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   370.0,
+   678.0,
+   750.0,
+   713.0,
+   849.0,
+   756.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NA15SN4_D86",
+    [
+     "SN"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.192
+    ]
+   ],
+   [
+    "NA9SN4",
+    [
+     "SN"
+    ],
+    [
+     0.3333
+    ]
+   ],
+   [
+    "NA15SN4_D86",
+    [
+     "SN"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.3333
+    ]
+   ],
+   [
+    "NA9SN4",
+    [
+     "SN"
+    ],
+    [
+     0.3333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.383
+    ]
+   ],
+   [
+    "NA9SN4",
+    [
+     "SN"
+    ],
+    [
+     0.3333
+    ]
+   ],
+   [
+    "NA4SN3",
+    [
+     "SN"
+    ],
+    [
+     0.42857142857142855
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NASN_HT",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NASN_LT",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "NASN_HT",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NASN_LT",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Dreval 2017, doi:10.1016/j.jallcom.2016.11.003",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-I5QWQSL7LK ORC-B4ZD4V5S6V ORC-DR4FF6OHRX ORC-JYOQ5MVBIG ORC-W7SURA4IHZ ORC-I5NO5V2UQX",
+ "bibtex": "dreval2017_d6b069",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-I5QWQSL7LK",
+    "paper": "doi:10.1016/j.jallcom.2016.11.003"
+   },
+   {
+    "id": "ORC-B4ZD4V5S6V",
+    "paper": "doi:10.1016/j.jallcom.2016.11.003"
+   },
+   {
+    "id": "ORC-DR4FF6OHRX",
+    "paper": "doi:10.1016/j.jallcom.2016.11.003"
+   },
+   {
+    "id": "ORC-JYOQ5MVBIG",
+    "paper": "doi:10.1016/j.jallcom.2016.11.003"
+   },
+   {
+    "id": "ORC-W7SURA4IHZ",
+    "paper": "doi:10.1016/j.jallcom.2016.11.003"
+   },
+   {
+    "id": "ORC-I5NO5V2UQX",
+    "paper": "doi:10.1016/j.jallcom.2016.11.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2016.11.003",
+   "doi:10.1002/zaac.19050460107"
+  ],
+  "dois": [
+   "10.1002/zaac.19050460107",
+   "10.1016/j.jallcom.2016.11.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NaSn-17Dre/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

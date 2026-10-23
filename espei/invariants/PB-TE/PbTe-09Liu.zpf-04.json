@@ -1,0 +1,87 @@
+{
+ "components": [
+  "PB",
+  "TE"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "PBTE_B1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   599.8
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.04
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PBTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1939, J.N. Greenwood and H.W. Worner, J. Inst. Metals 115, 435 (1939).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-F2SHVLD336",
+ "bibtex": "greenwood1939_18743d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-F2SHVLD336",
+    "paper": "doi:10.1007/s11664-009-0875-3",
+    "measured_in": "ref:7908eca8ae2bc90f"
+   }
+  ],
+  "papers": [
+   "ref:7908eca8ae2bc90f",
+   "doi:10.1007/s11664-009-0875-3"
+  ],
+  "dois": [
+   "10.1007/s11664-009-0875-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PbTe-09Liu/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "components": [
+  "CS",
+  "TE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_TE": [
+   0.333333,
+   0.333333
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    61.699999999999996,
+    61.699999999999996
+   ]
+  ]
+ ],
+ "reference": "Thi 2015, doi:10.1016/j.calphad.2014.10.006",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LEVZKAYSFQ.76f04c ORC-LEVZKAYSFQ.3928ec",
+ "bibtex": "thi2015_f3ba91",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LEVZKAYSFQ.76f04c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.10.006"
+   },
+   {
+    "id": "ORC-LEVZKAYSFQ.3928ec",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.10.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2014.10.006",
+   "doi:10.1016/0021-9614(87)90121-2"
+  ],
+  "dois": [
+   "10.1016/0021-9614(87)90121-2",
+   "10.1016/j.calphad.2014.10.006"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CsTe-15Pha/sm-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

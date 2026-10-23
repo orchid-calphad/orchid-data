@@ -1,0 +1,87 @@
+{
+ "components": [
+  "SC",
+  "TH"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1273.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TH"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TH"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TH"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1969, T.A. Badayeva, P.I. Kuznetsova, Russ. Metall. 5 (1969) 101–106.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5MZRWOGBW2",
+ "bibtex": "badayeva1969_5eaf69",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5MZRWOGBW2",
+    "paper": "doi:10.1016/j.jallcom.2008.02.018",
+    "measured_in": "ref:a6754b7ea56d22e5"
+   }
+  ],
+  "papers": [
+   "ref:a6754b7ea56d22e5",
+   "doi:10.1016/j.jallcom.2008.02.018"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.02.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ScTh-09Liu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

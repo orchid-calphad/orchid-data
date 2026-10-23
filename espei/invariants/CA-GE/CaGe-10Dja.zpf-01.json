@@ -1,0 +1,126 @@
+{
+ "components": [
+  "CA",
+  "GE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CA2GE_C37",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1073,
+   1653
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.026000000000000002
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CA2GE_C37",
+    [
+     "GE"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.3333
+    ]
+   ],
+   [
+    "CA2GE_C37",
+    [
+     "GE"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.3333166665
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, T.B. Massalski, Binary Alloy Phase Diagrams, ASM International, 1990.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RZI3BU7AE7 ORC-775NNTEO5D",
+ "bibtex": "massalski1990_cbe897",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RZI3BU7AE7",
+    "paper": "doi:10.1016/j.jallcom.2010.02.189",
+    "measured_in": "ref:dedfa7f594f08b44"
+   },
+   {
+    "id": "ORC-775NNTEO5D",
+    "paper": "doi:10.1016/j.jallcom.2010.02.189",
+    "measured_in": "ref:dedfa7f594f08b44"
+   }
+  ],
+  "papers": [
+   "ref:dedfa7f594f08b44",
+   "doi:10.1016/j.jallcom.2010.02.189"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2010.02.189"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CaGe-10Dja/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

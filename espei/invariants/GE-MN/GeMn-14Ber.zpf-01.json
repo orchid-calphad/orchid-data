@@ -1,0 +1,87 @@
+{
+ "components": [
+  "GE",
+  "MN"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "GE8MN11",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   993.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GE8MN11",
+    [
+     "MN"
+    ],
+    [
+     0.578947
+    ]
+   ]
+  ]
+ ],
+ "reference": "Berche 2014, doi:10.1016/j.intermet.2013.12.009",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HDIHLT22IK",
+ "bibtex": "berche2014_1f3a0f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HDIHLT22IK",
+    "paper": "doi:10.1016/j.intermet.2013.12.009"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2013.12.009",
+   "doi:10.1021/ja01152a518"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2013.12.009",
+   "10.1021/ja01152a518"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeMn-14Ber/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

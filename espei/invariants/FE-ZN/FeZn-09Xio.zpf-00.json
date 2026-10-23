@@ -1,0 +1,85 @@
+{
+ "components": [
+  "FE",
+  "ZN"
+ ],
+ "phases": [
+  "FEZN13",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   692.55
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.99979
+    ]
+   ],
+   [
+    "FEZN13",
+    [
+     "ZN"
+    ],
+    [
+     0.928571
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     0.99997
+    ]
+   ]
+  ]
+ ],
+ "reference": "Xiong 2009, doi:10.1016/j.calphad.2009.01.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OLJHNUKTCO",
+ "bibtex": "xiong2009_c0de67",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-OLJHNUKTCO",
+    "paper": "doi:10.1016/j.calphad.2009.01.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2009.01.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.01.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeZn-09Xio/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

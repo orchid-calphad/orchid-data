@@ -1,0 +1,77 @@
+{
+ "components": [
+  "CR",
+  "FE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1093
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "FE"
+    ],
+    [
+     0.53
+    ]
+   ],
+   [
+    "SIGMA_D8B",
+    [
+     "FE"
+    ],
+    [
+     0.53
+    ]
+   ]
+  ]
+ ],
+ "reference": "1943, A.J. Cook, F. Jones, The brittle constituent of the iron-chromium system (sigma phase), Iron Steel Inst. - Pap. 217 (1943) 217–226.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DLKLJDOTEY",
+ "bibtex": "cook1943_cc36c4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DLKLJDOTEY",
+    "paper": "doi:10.1016/j.calphad.2017.10.002",
+    "measured_in": "ref:469bfe427104d099"
+   }
+  ],
+  "papers": [
+   "ref:469bfe427104d099",
+   "doi:10.1016/j.calphad.2017.10.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2017.10.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrFe-18Jac/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

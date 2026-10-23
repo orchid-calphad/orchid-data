@@ -1,0 +1,96 @@
+{
+ "components": [
+  "B",
+  "DY"
+ ],
+ "phases": [
+  "DYB12_D2F",
+  "DYB66",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2423.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "DY"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DYB12_D2F",
+    [
+     "DY"
+    ],
+    [
+     0.076923
+    ]
+   ],
+   [
+    "DYB66",
+    [
+     "DY"
+    ],
+    [
+     0.014925
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "DY"
+    ],
+    [
+     0.045924000000000006
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2020, doi:10.1016/j.calphad.2020.101740",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6YDLA75O7T",
+ "bibtex": "li2020_d28c22",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6YDLA75O7T",
+    "paper": "doi:10.1016/j.calphad.2020.101740"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2020.101740"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2020.101740"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/DyB-20Li/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 100.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

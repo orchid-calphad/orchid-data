@@ -1,0 +1,229 @@
+{
+ "components": [
+  "NI",
+  "TI"
+ ],
+ "phases": [
+  "NI3TI_D024"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   0.75,
+   0.25
+  ],
+  "sublattice_configurations": [
+   [
+    "NI",
+    "TI"
+   ],
+   [
+    "NI",
+    "TI"
+   ],
+   [
+    "NI",
+    "TI"
+   ],
+   [
+    "NI",
+    "TI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -8720.0,
+    7080.0,
+    -48730.0,
+    4770.0
+   ]
+  ]
+ ],
+ "reference": "Santhy 2015, doi:10.1016/j.jallcom.2014.08.200",
+ "bibtex": "santhy2015_17688d",
+ "weight": [
+  0.17337,
+  0.17337,
+  0.17337,
+  0.17337
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB NiTi-04Tok.tdb (sha256 362b1ea505e0ce057d1b71a3f11014d31197766e37770102925faeee28254c56), phase NI3TI_D024. Ids, in value order: ORC-H7SQPVQY5Z ORC-LXX4NRREAG ORC-O2SV5STX32 ORC-VWQAJJFQRF. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "NiTi-04Tok.tdb",
+   "path": "databases/sgte-binary/NiTi-04Tok.tdb",
+   "sha256": "362b1ea505e0ce057d1b71a3f11014d31197766e37770102925faeee28254c56",
+   "phase": "NI3TI_D024"
+  },
+  "registry_phase": "phase:ni-ti:ni3ti-d024",
+  "mapping": [
+   {
+    "id": "ORC-H7SQPVQY5Z",
+    "compound": "Ni3Ti",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-LXX4NRREAG",
+    "compound": "Ni3Ti",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-O2SV5STX32",
+    "compound": "Ni3Ti",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-VWQAJJFQRF",
+    "compound": "Ni3Ti",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.08.200"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.08.200"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 2884.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NI-TI",
+     "n": 78,
+     "sigma_robust_kJ": 2.884,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.17337,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -8.72,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-H7SQPVQY5Z",
+    "compound": "Ni3Ti"
+   },
+   {
+    "sigma": 2884.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NI-TI",
+     "n": 78,
+     "sigma_robust_kJ": 2.884,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.17337,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 7.08,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-LXX4NRREAG",
+    "compound": "Ni3Ti"
+   },
+   {
+    "sigma": 2884.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NI-TI",
+     "n": 78,
+     "sigma_robust_kJ": 2.884,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.17337,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -48.73,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-O2SV5STX32",
+    "compound": "Ni3Ti"
+   },
+   {
+    "sigma": 2884.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NI-TI",
+     "n": 78,
+     "sigma_robust_kJ": 2.884,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.17337,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 4.77,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-VWQAJJFQRF",
+    "compound": "Ni3Ti"
+   }
+  ]
+ }
+}

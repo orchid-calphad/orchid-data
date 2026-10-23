@@ -1,0 +1,270 @@
+{
+ "components": [
+  "PB",
+  "U"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID",
+  "ORTHORHOMBIC_A20",
+  "PB3U_L12",
+  "PBU",
+  "TETRAGONAL_U"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   598.15,
+   1493.15,
+   1483.15,
+   1398.15,
+   1038.15,
+   918.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "U"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "PB3U_L12",
+    [
+     "U"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "PB3U_L12",
+    [
+     "U"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.272
+    ]
+   ],
+   [
+    "PB3U_L12",
+    [
+     "U"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "PBU",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.995
+    ]
+   ],
+   [
+    "PBU",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "PBU",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A20",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "PBU",
+    [
+     "U"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2010, doi:10.1016/j.jnucmat.2010.02.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VLEFU5VY7N ORC-S7QXBVSNP2 ORC-DUQIZ53CNP ORC-PSS3EMOXOU ORC-PJUPZMYD4G ORC-7EJXLC4WWS",
+ "bibtex": "li2010_dc658d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VLEFU5VY7N",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-S7QXBVSNP2",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-DUQIZ53CNP",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-PSS3EMOXOU",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-PJUPZMYD4G",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-7EJXLC4WWS",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2010.02.002"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2010.02.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PbU-10Li/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

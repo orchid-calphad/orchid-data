@@ -1,0 +1,105 @@
+{
+ "components": [
+  "P",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID",
+  "SIP",
+  "SIP2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1443.15,
+   1451.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "SIP",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "SIP2",
+    [
+     "SI"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liang 2014, doi:10.1007/s11669-013-0269-3",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SFDR2OKXSO ORC-QNLCINLMLP",
+ "bibtex": "liang2014_4fd9ee",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SFDR2OKXSO",
+    "paper": "doi:10.1007/s11669-013-0269-3"
+   },
+   {
+    "id": "ORC-QNLCINLMLP",
+    "paper": "doi:10.1007/s11669-013-0269-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-013-0269-3"
+  ],
+  "dois": [
+   "10.1007/s11669-013-0269-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiP-14Lia/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

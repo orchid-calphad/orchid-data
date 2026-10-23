@@ -1,0 +1,117 @@
+{
+ "components": [
+  "PB",
+  "TE"
+ ],
+ "phases": [
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "PBTE_B1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1190,
+   673
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "PBTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.852
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PBTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1902, H. Fay and C.B. Gillson, Am. Chem. J. 27, 81 (1902).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JFVTYA26KG ORC-YXHYMEPAIR",
+ "bibtex": "fay1902_5f308e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JFVTYA26KG",
+    "paper": "doi:10.1007/s11664-009-0875-3",
+    "measured_in": "ref:175e89e31cde545b"
+   },
+   {
+    "id": "ORC-YXHYMEPAIR",
+    "paper": "doi:10.1007/s11664-009-0875-3",
+    "measured_in": "ref:175e89e31cde545b"
+   }
+  ],
+  "papers": [
+   "ref:175e89e31cde545b",
+   "doi:10.1007/s11664-009-0875-3"
+  ],
+  "dois": [
+   "10.1007/s11664-009-0875-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PbTe-09Liu/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

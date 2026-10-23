@@ -1,0 +1,174 @@
+{
+ "components": [
+  "B",
+  "TI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "TI3B4_D7B",
+  "TIB2_C32",
+  "TIB_B27"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2293.0,
+   2273.0,
+   1803.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TIB2_C32",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "TI3B4_D7B",
+    [
+     "TI"
+    ],
+    [
+     0.428571
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.38095199999999996
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TI3B4_D7B",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TIB_B27",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "TIB_B27",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2008, doi:10.1016/j.jallcom.2006.10.034",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IS5RPICR7P ORC-SXQMOMGQWS ORC-BANVNWY2EB",
+ "bibtex": "witusiewicz2008_3e009b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IS5RPICR7P",
+    "paper": "doi:10.1016/j.jallcom.2006.10.034"
+   },
+   {
+    "id": "ORC-SXQMOMGQWS",
+    "paper": "doi:10.1016/j.jallcom.2006.10.034"
+   },
+   {
+    "id": "ORC-BANVNWY2EB",
+    "paper": "doi:10.1016/j.jallcom.2006.10.034"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2006.10.034"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2006.10.034"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/TiB-08Wit/zpf-07.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

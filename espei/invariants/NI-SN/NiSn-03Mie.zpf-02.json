@@ -1,0 +1,161 @@
+{
+ "components": [
+  "NI",
+  "SN"
+ ],
+ "phases": [
+  "FCC_A1",
+  "NI3SN2",
+  "NI3SN_D019",
+  "NI3SN_D03"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1193,
+   1123,
+   1250
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     0.238
+    ]
+   ],
+   [
+    "NI3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.233
+    ]
+   ],
+   [
+    "NI3SN_D019",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "NI3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.273
+    ]
+   ],
+   [
+    "NI3SN_D019",
+    [
+     "SN"
+    ],
+    [
+     0.261
+    ]
+   ],
+   [
+    "NI3SN2",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "NI3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "NI3SN_D019",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ]
+ ],
+ "reference": "1964, L.A. Panteleimonov, A.Y. Khanna, I.G. Sokolova, A.K. Bagdasaryan, Vestn. Mosk. Univ. Ser. II: Khim. 19 (1964) 45–50.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ER7PWTWRGT ORC-Y37GWT2OQC ORC-KGOR5OEK3K",
+ "bibtex": "panteleimonov1964_6da62f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ER7PWTWRGT",
+    "paper": "doi:10.1016/j.calphad.2003.10.001",
+    "measured_in": "ref:5791d6a6a79d97ac",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-Y37GWT2OQC",
+    "paper": "doi:10.1016/j.calphad.2003.10.001",
+    "measured_in": "ref:5791d6a6a79d97ac"
+   },
+   {
+    "id": "ORC-KGOR5OEK3K",
+    "paper": "doi:10.1016/j.calphad.2003.10.001",
+    "measured_in": "ref:5791d6a6a79d97ac"
+   }
+  ],
+  "papers": [
+   "ref:5791d6a6a79d97ac",
+   "doi:10.1016/j.calphad.2003.10.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2003.10.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiSn-03Mie/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

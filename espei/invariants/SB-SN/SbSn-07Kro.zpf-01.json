@@ -1,0 +1,87 @@
+{
+ "components": [
+  "SB",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "LIQUID",
+  "SB2SN3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   519.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SB2SN3",
+    [
+     "SN"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Dreval 2017, doi:10.1016/j.jallcom.2016.11.003",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KYUL22ONF2",
+ "bibtex": "dreval2017_d6b069",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KYUL22ONF2",
+    "paper": "doi:10.1016/j.jallcom.2016.11.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2016.11.003",
+   "doi:10.1016/0021-9614(85)90113-2"
+  ],
+  "dois": [
+   "10.1016/0021-9614(85)90113-2",
+   "10.1016/j.jallcom.2016.11.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SbSn-07Kro/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

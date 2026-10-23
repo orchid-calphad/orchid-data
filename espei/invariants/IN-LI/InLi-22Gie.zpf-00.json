@@ -1,0 +1,79 @@
+{
+ "components": [
+  "IN",
+  "LI"
+ ],
+ "phases": [
+  "INLI_B32",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   903.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "INLI_B32",
+    [
+     "LI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gierlotka 2022, doi:10.2298/jmmb210205041g",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QRJDFLJGAT",
+ "bibtex": "gierlotka2022_917b6f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QRJDFLJGAT",
+    "paper": "doi:10.2298/jmmb210205041g"
+   }
+  ],
+  "papers": [
+   "doi:10.2298/jmmb210205041g",
+   "doi:10.1002/zaac.19562860302"
+  ],
+  "dois": [
+   "10.1002/zaac.19562860302",
+   "10.2298/jmmb210205041g"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/InLi-22Gie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

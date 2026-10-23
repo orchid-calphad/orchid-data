@@ -1,0 +1,168 @@
+{
+ "components": [
+  "SI",
+  "YB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_YB": [
+   0.625,
+   0.555556,
+   0.5,
+   0.214286,
+   0.214286,
+   0.375,
+   0.364964
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    4.5,
+    2.8,
+    4.9,
+    3.3,
+    3.3,
+    5.2,
+    7.6
+   ]
+  ]
+ ],
+ "reference": "Brutti 2005, doi:10.1016/j.calphad.2005.06.004",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5JLYA7TSHI.f51426 ORC-N6RXSPOU7I.74d94c ORC-NBVCD3AWCO.afcc31 ORC-IMUKKQP2HM.58e758 ORC-IMUKKQP2HM.6c3660 ORC-LCHDNP4URT.d9e56e ORC-F6QZLKXH6T.04c2c8",
+ "reference_states": {
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "YB": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "brutti2005_77759a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5JLYA7TSHI.f51426",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.06.004"
+   },
+   {
+    "id": "ORC-N6RXSPOU7I.74d94c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.06.004"
+   },
+   {
+    "id": "ORC-NBVCD3AWCO.afcc31",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.06.004"
+   },
+   {
+    "id": "ORC-IMUKKQP2HM.58e758",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.06.004"
+   },
+   {
+    "id": "ORC-IMUKKQP2HM.6c3660",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.06.004"
+   },
+   {
+    "id": "ORC-LCHDNP4URT.d9e56e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.06.004"
+   },
+   {
+    "id": "ORC-F6QZLKXH6T.04c2c8",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.06.004"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.06.004",
+   "doi:10.1016/s0966-9795(03)00152-3"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.06.004",
+   "10.1016/s0966-9795(03)00152-3"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SiYb-05Bru/smr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,459 @@
+{
+ "components": [
+  "AG",
+  "PB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 973.0,
+  "X_PB": [
+   0.96665,
+   0.95651,
+   0.92867,
+   0.91484,
+   0.88934,
+   0.8747199999999999,
+   0.84658,
+   0.83311,
+   0.80381,
+   0.7951699999999999,
+   0.7603800000000001,
+   0.7548,
+   0.7198,
+   0.71292,
+   0.67831,
+   0.67013,
+   0.6397999999999999,
+   0.6289100000000001,
+   0.6031500000000001,
+   0.59036,
+   0.56921,
+   0.55559
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    511.51,
+    615.34,
+    1005.74,
+    1102.07,
+    1429.89,
+    1508.7,
+    1801.94,
+    1871.65,
+    2085.85,
+    2129.36,
+    2301.49,
+    2344.12,
+    2460.54,
+    2511.77,
+    2560.93,
+    2604.7,
+    2594.29,
+    2624.7,
+    2598.14,
+    2575.12,
+    2554.38,
+    2569.96
+   ]
+  ]
+ ],
+ "reference": "Hassam 2010, doi:10.1016/j.tca.2010.06.020",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-T6RAN4AHKD ORC-SS7CK6ATF4 ORC-IZV5YZ7SE6 ORC-QTGTQIFNVZ ORC-KV6UPR5MNW ORC-7FGLOUT57J ORC-Y2RNWBI7HK ORC-3VRNMJHR26 ORC-BUDPD7PIPD ORC-ZXMQX3XQT7 ORC-TR6OTSC3BG ORC-QIHBDP6CGC ORC-2MEHHIKHDC ORC-YQ4YDFYGTV ORC-RWE3OKJDXP ORC-T3MXULTXNX ORC-2LMCEHDMP5 ORC-AIXTVC24NJ ORC-YZNMHSRB7G ORC-7MSKO3XCBT ORC-TLKVVLPTYZ ORC-DMR37LCE3S",
+ "reference_states": {
+  "AG": {
+   "phase": "LIQUID"
+  },
+  "PB": {
+   "phase": "LIQUID"
+  }
+ },
+ "bibtex": "hassam2010_6ebdda",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-T6RAN4AHKD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-SS7CK6ATF4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-IZV5YZ7SE6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-QTGTQIFNVZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-KV6UPR5MNW",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-7FGLOUT57J",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-Y2RNWBI7HK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-3VRNMJHR26",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-BUDPD7PIPD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-ZXMQX3XQT7",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-TR6OTSC3BG",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-QIHBDP6CGC",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-2MEHHIKHDC",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-YQ4YDFYGTV",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-RWE3OKJDXP",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-T3MXULTXNX",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-2LMCEHDMP5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-AIXTVC24NJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-YZNMHSRB7G",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-7MSKO3XCBT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-TLKVVLPTYZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-DMR37LCE3S",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.06.020",
+    "measured_in": "doi:10.1016/j.tca.2010.06.020",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2010.06.020"
+  ],
+  "dois": [
+   "10.1016/j.tca.2010.06.020"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AgPb-10Has/hmr-171.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

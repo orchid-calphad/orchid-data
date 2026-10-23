@@ -1,0 +1,85 @@
+{
+ "components": [
+  "GA",
+  "NA"
+ ],
+ "phases": [
+  "GA39NA22",
+  "GA4NA_D13",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   772.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.205
+    ]
+   ],
+   [
+    "GA4NA_D13",
+    [
+     "NA"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "GA39NA22",
+    [
+     "NA"
+    ],
+    [
+     0.36065573770491804
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2007, doi:10.1016/j.jcrysgro.2007.05.044",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RISBBMOJI3",
+ "bibtex": "wang2007_0062e8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RISBBMOJI3",
+    "paper": "doi:10.1016/j.jcrysgro.2007.05.044"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jcrysgro.2007.05.044"
+  ],
+  "dois": [
+   "10.1016/j.jcrysgro.2007.05.044"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaNa-07Wan/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

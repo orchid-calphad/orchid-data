@@ -1,0 +1,118 @@
+{
+ "components": [
+  "P",
+  "ZN"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "ZN3P2_HT",
+  "ZN3P2_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   674.15,
+   1113.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.025
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZN3P2_LT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "ZN3P2_HT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ]
+ ],
+ "reference": "1968, Y.A. Ugai, O.Y. Gukov, E.P. Domashevskaya, L.A. Ozerov, Phase diagrams of Zn–Zn3 P2 and Cd–Cd3 P2 systems, Izvest. Akad. Nauk SSSR Neorganicheskie Materialy 4 (1968) 147–148. English translation.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IAWNKM5ZAV ORC-IBPYZBIGYK",
+ "bibtex": "ugai1968_6c052a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IAWNKM5ZAV",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:56a2a0a77e1a828e"
+   },
+   {
+    "id": "ORC-IBPYZBIGYK",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:56a2a0a77e1a828e"
+   }
+  ],
+  "papers": [
+   "ref:56a2a0a77e1a828e",
+   "doi:10.1016/j.mtla.2019.100301"
+  ],
+  "dois": [
+   "10.1016/j.mtla.2019.100301"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ZnP-19Gha/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

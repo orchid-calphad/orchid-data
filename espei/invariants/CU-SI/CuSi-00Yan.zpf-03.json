@@ -1,0 +1,168 @@
+{
+ "components": [
+  "CU",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU19SI6",
+  "CU33SI7",
+  "CU56SI11_A13",
+  "DIAMOND_A4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   983.15,
+   1075.15,
+   1093.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CU33SI7",
+    [
+     "SI"
+    ],
+    [
+     0.182
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.212
+    ]
+   ],
+   [
+    "CU56SI11_A13",
+    [
+     "SI"
+    ],
+    [
+     0.17600000000000002
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.30100000000000005
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU19SI6",
+    [
+     "SI"
+    ],
+    [
+     0.249
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.19899999999999998
+    ]
+   ],
+   [
+    "CU19SI6",
+    [
+     "SI"
+    ],
+    [
+     0.23399999999999999
+    ]
+   ],
+   [
+    "CU33SI7",
+    [
+     "SI"
+    ],
+    [
+     0.196
+    ]
+   ]
+  ]
+ ],
+ "reference": "1929, C.S. Smith, Trans. AIME 83 (1929) 414.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MASOC5YGGW ORC-EBEZXBUYKC ORC-UL7OUDF3RG",
+ "bibtex": "smith1929_ee726e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MASOC5YGGW",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:f034243d77309ce7"
+   },
+   {
+    "id": "ORC-EBEZXBUYKC",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:f034243d77309ce7"
+   },
+   {
+    "id": "ORC-UL7OUDF3RG",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:f034243d77309ce7"
+   }
+  ],
+  "papers": [
+   "ref:f034243d77309ce7",
+   "doi:10.1016/s0925-8388(00)00983-x"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(00)00983-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

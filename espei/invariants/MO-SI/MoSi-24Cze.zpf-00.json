@@ -1,0 +1,279 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4",
+  "LIQUID",
+  "MO3SI_A15",
+  "MO5SI3_D8M",
+  "MOSI2_C11B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2298,
+   2293,
+   2453,
+   2173,
+   2293,
+   1673
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.257
+    ]
+   ],
+   [
+    "MO3SI_A15",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.264
+    ]
+   ],
+   [
+    "MO3SI_A15",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "MO5SI3_D8M",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "MO5SI3_D8M",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.54
+    ]
+   ],
+   [
+    "MO5SI3_D8M",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "MOSI2_C11B",
+    [
+     "SI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.666
+    ]
+   ],
+   [
+    "MOSI2_C11B",
+    [
+     "SI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.985
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MOSI2_C11B",
+    [
+     "SI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "1971, V. N. Svechnikov, Y. A. Kocherzhinskii, L. M. Yupko, Diagrammy Sostojanija Metalliceskich Sistem, Nauka, Moscow 1971.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LYK4WENRAA ORC-GJX3DQFZKJ ORC-IVW2X5IPD3 ORC-LIDWGTHPYO ORC-VZEWVF7ZTH ORC-YVY64WQPQV",
+ "bibtex": "svechnikov1971_862d68",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LYK4WENRAA",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "ref:19f15f830aa85075"
+   },
+   {
+    "id": "ORC-GJX3DQFZKJ",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "ref:19f15f830aa85075"
+   },
+   {
+    "id": "ORC-IVW2X5IPD3",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "ref:19f15f830aa85075"
+   },
+   {
+    "id": "ORC-LIDWGTHPYO",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "ref:19f15f830aa85075"
+   },
+   {
+    "id": "ORC-VZEWVF7ZTH",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "ref:19f15f830aa85075"
+   },
+   {
+    "id": "ORC-YVY64WQPQV",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "ref:19f15f830aa85075"
+   }
+  ],
+  "papers": [
+   "ref:19f15f830aa85075",
+   "doi:10.1002/adem.202302085"
+  ],
+  "dois": [
+   "10.1002/adem.202302085"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoSi-24Cze/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "GA",
+  "MG"
+ ],
+ "phases": [
+  "GA2MG5_D8G",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   695.7
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2MG5_D8G",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1938, W. Hume-Rothery, G.V. Raynor, J. Inst. Met. 63 (1938) 201–226.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DQIBSGVKSR",
+ "bibtex": "humerothery1938_c28fae",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DQIBSGVKSR",
+    "paper": "doi:10.1016/j.jallcom.2009.07.010",
+    "measured_in": "ref:16399884b9ac18bb"
+   }
+  ],
+  "papers": [
+   "ref:16399884b9ac18bb",
+   "doi:10.1016/j.jallcom.2009.07.010"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.07.010"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaMg-09Fen/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

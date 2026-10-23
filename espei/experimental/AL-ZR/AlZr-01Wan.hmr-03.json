@@ -1,0 +1,82 @@
+{
+ "components": [
+  "AL",
+  "ZR"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_ZR": [
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -51300.0
+   ]
+  ]
+ ],
+ "reference": "2001, doi:10.1007/s12385-001-0072-4",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-URPRRVRDVW",
+ "reference_states": {
+  "AL": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "ZR": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "wang2001_50f0ac",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-URPRRVRDVW",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s12385-001-0072-4"
+  ],
+  "dois": [
+   "10.1007/s12385-001-0072-4"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlZr-01Wan/hmr-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

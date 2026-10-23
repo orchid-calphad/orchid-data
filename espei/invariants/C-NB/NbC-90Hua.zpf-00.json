@@ -1,0 +1,85 @@
+{
+ "components": [
+  "C",
+  "NB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2503.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Huang 1990, doi:10.1179/mst.1990.6.8.687",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OA5N7QX6XM",
+ "bibtex": "huang1990_54ee0d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-OA5N7QX6XM",
+    "paper": "doi:10.1179/mst.1990.6.8.687"
+   }
+  ],
+  "papers": [
+   "doi:10.1179/mst.1990.6.8.687"
+  ],
+  "dois": [
+   "10.1179/mst.1990.6.8.687"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbC-90Hua/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

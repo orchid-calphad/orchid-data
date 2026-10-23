@@ -1,0 +1,87 @@
+{
+ "components": [
+  "CU",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU33SI7_HT",
+  "CU3SI_HT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1073
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CU3SI_HT",
+    [
+     "SI"
+    ],
+    [
+     0.235
+    ]
+   ],
+   [
+    "CU33SI7_HT",
+    [
+     "SI"
+    ],
+    [
+     0.194
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.212
+    ]
+   ]
+  ]
+ ],
+ "reference": "1931, K. Iokibe, Kinzoku-no-Kenkyu 8 (1931) 433.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BPIKL3VG5J",
+ "bibtex": "iokibe1931_e1f414",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BPIKL3VG5J",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:55d1645cbef0e446"
+   }
+  ],
+  "papers": [
+   "ref:55d1645cbef0e446",
+   "doi:10.1016/j.jct.2012.07.025"
+  ],
+  "dois": [
+   "10.1016/j.jct.2012.07.025"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

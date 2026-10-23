@@ -1,0 +1,260 @@
+{
+ "components": [
+  "MN",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "M3SI_D03",
+  "M5SI3_D88",
+  "MN11SI19",
+  "MSI_B20"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1348.15,
+   1510.15,
+   1423.15,
+   1422.15,
+   1542.75,
+   1556.35
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.213
+    ]
+   ],
+   [
+    "M5SI3_D88",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "M3SI_D03",
+    [
+     "SI"
+    ],
+    [
+     0.254
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.438
+    ]
+   ],
+   [
+    "M5SI3_D88",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "MSI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.6569
+    ]
+   ],
+   [
+    "MSI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "MN11SI19",
+    [
+     "SI"
+    ],
+    [
+     0.633333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.664
+    ]
+   ],
+   [
+    "MN11SI19",
+    [
+     "SI"
+    ],
+    [
+     0.633333
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "MSI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "M5SI3_D88",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chevalier 1995, doi:10.1016/0364-5916(95)00007-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QSIN42RTW7 ORC-7KZDC6TF6C ORC-KPN5M6V7JF ORC-JEPGKYQZDP ORC-P3XIMC46ZW ORC-5DEORYCP4V",
+ "bibtex": "chevalier1995_346ca1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QSIN42RTW7",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   },
+   {
+    "id": "ORC-7KZDC6TF6C",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   },
+   {
+    "id": "ORC-KPN5M6V7JF",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   },
+   {
+    "id": "ORC-JEPGKYQZDP",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   },
+   {
+    "id": "ORC-P3XIMC46ZW",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   },
+   {
+    "id": "ORC-5DEORYCP4V",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0364-5916(95)00007-2"
+  ],
+  "dois": [
+   "10.1016/0364-5916(95)00007-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnSi-95Che/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AL",
+  "LI"
+ ],
+ "phases": [
+  "BCC_4SL",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   871
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.26
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_4SL",
+    [
+     "LI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1937, F.I. Shamray and P.Ya. Saldau, Equilibrium Diagram of the System Al-Li, Izv. Akad. Nauk SSSR, Otd. Khim., 1937, 3, p 631640",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SLGJ6TEXEO",
+ "bibtex": "shamray1937_c3f58d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SLGJ6TEXEO",
+    "paper": "doi:10.1007/s11669-020-00827-z",
+    "measured_in": "ref:639878ea89f3392b"
+   }
+  ],
+  "papers": [
+   "ref:639878ea89f3392b",
+   "doi:10.1007/s11669-020-00827-z"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00827-z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlLi-20Lon/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

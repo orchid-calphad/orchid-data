@@ -1,0 +1,96 @@
+{
+ "components": [
+  "B",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "TA2B_C16",
+  "TA3B2_D5A"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2173.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "TA2B_C16",
+    [
+     "TA"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "TA3B2_D5A",
+    [
+     "TA"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.6333335
+    ]
+   ]
+  ]
+ ],
+ "reference": "OuYang 2017, doi:10.1007/s11669-017-0603-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HW3SQW6YCG",
+ "bibtex": "ouyang2017_f08684",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HW3SQW6YCG",
+    "paper": "doi:10.1007/s11669-017-0603-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-017-0603-2",
+   "doi:10.1007/bf02736442"
+  ],
+  "dois": [
+   "10.1007/bf02736442",
+   "10.1007/s11669-017-0603-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/TaB-17OuY/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

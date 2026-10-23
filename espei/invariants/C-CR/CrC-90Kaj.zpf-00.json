@@ -1,0 +1,255 @@
+{
+ "components": [
+  "C",
+  "CR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CR3C2_D510",
+  "GRAPHITE_A9",
+  "LIQUID",
+  "M23C6_D84",
+  "M7C3_D101"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1808,
+   1848,
+   2038,
+   1998,
+   2083
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "CR"
+    ],
+    [
+     0.7931034482758621
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "CR"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "CR"
+    ],
+    [
+     0.7931034482758621
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.7465517239999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "CR"
+    ],
+    [
+     0.7
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "CR"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "CR3C2_D510",
+    [
+     "CR"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.6499999999999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GRAPHITE_A9",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CR3C2_D510",
+    [
+     "CR"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ]
+ ],
+ "reference": "1981, O. Knotek, E. Lugscheider, H. Reimann, and H.G. Sasse: Metall, 1981, vol. 35, pp. 130-32.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UKM6TZ43W7 ORC-3IRDQRC6UL ORC-KBLJQOQ7U2 ORC-YE4Q6BLKDZ ORC-S75IHDDP4D",
+ "bibtex": "knotek1981_660cd4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UKM6TZ43W7",
+    "paper": "doi:10.1007/bf02646072",
+    "measured_in": "ref:5e6158f1f69bb470"
+   },
+   {
+    "id": "ORC-3IRDQRC6UL",
+    "paper": "doi:10.1007/bf02646072",
+    "measured_in": "ref:5e6158f1f69bb470"
+   },
+   {
+    "id": "ORC-KBLJQOQ7U2",
+    "paper": "doi:10.1007/bf02646072",
+    "measured_in": "ref:5e6158f1f69bb470"
+   },
+   {
+    "id": "ORC-YE4Q6BLKDZ",
+    "paper": "doi:10.1007/bf02646072",
+    "measured_in": "ref:5e6158f1f69bb470"
+   },
+   {
+    "id": "ORC-S75IHDDP4D",
+    "paper": "doi:10.1007/bf02646072",
+    "measured_in": "ref:5e6158f1f69bb470"
+   }
+  ],
+  "papers": [
+   "ref:5e6158f1f69bb470",
+   "doi:10.1007/bf02646072"
+  ],
+  "dois": [
+   "10.1007/bf02646072"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrC-90Kaj/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,509 @@
+{
+ "components": [
+  "NI",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID",
+  "NI10ZR7",
+  "NI11ZR9",
+  "NI21ZR8",
+  "NI5ZR_C15B",
+  "NI7ZR2",
+  "NIZR2_C16",
+  "NIZR_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1573.0,
+   1453.0,
+   1443.0,
+   1433.0,
+   1333.0,
+   1283.0,
+   1248.0,
+   1233.0,
+   1118.0,
+   1713.0,
+   1533.0,
+   1393
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.16
+    ]
+   ],
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.22
+    ]
+   ],
+   [
+    "NI5ZR_C15B",
+    [
+     "ZR"
+    ],
+    [
+     0.16666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.34
+    ]
+   ],
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.222222
+    ]
+   ],
+   [
+    "NI21ZR8",
+    [
+     "ZR"
+    ],
+    [
+     0.275862
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.42
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NI11ZR9",
+    [
+     "ZR"
+    ],
+    [
+     0.45
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.42
+    ]
+   ],
+   [
+    "NI11ZR9",
+    [
+     "ZR"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.363
+    ]
+   ],
+   [
+    "NI21ZR8",
+    [
+     "ZR"
+    ],
+    [
+     0.275862
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.635
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "NI11ZR9",
+    [
+     "ZR"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.4539216666666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.759
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.971
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.98
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.222222
+    ]
+   ],
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.222222
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "1961, M.E. Kirkpatrick, W.L. Larsen, Phase relationships in the Nickel-Zirconium and Nickel-Hafnium alloy systems, Trans. ASM 54 (1961) 580–590.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZTF4K6B2ZE ORC-WFF72E5KZF ORC-HE6IQO6THP ORC-2VUIKWFOB6 ORC-IOS2KO2L52 ORC-OVAYYER27E ORC-4EAHDTTZDN ORC-42JFIRKUNP ORC-VB572W2JWY ORC-B5OHNIQAQ5 ORC-Z4Y2XTR4OI ORC-PDWEPHQY4Y",
+ "bibtex": "kirkpatrick1961_c21396",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZTF4K6B2ZE",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-WFF72E5KZF",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-HE6IQO6THP",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-2VUIKWFOB6",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-IOS2KO2L52",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-OVAYYER27E",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-4EAHDTTZDN",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-42JFIRKUNP",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-VB572W2JWY",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-B5OHNIQAQ5",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-Z4Y2XTR4OI",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   },
+   {
+    "id": "ORC-PDWEPHQY4Y",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:c15d8b8bfabd1411"
+   }
+  ],
+  "papers": [
+   "ref:c15d8b8bfabd1411",
+   "doi:10.1016/j.intermet.2019.106640"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2019.106640"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZr-20Jan/zpf-09.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "components": [
+  "GA",
+  "TE"
+ ],
+ "phases": [
+  "GA2TE3_B3",
+  "GA2TE5",
+  "GATE",
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   303.0,
+   757.0,
+   704.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GATE",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2TE3_B3",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "GA2TE5",
+    [
+     "TE"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.657143
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2TE5",
+    [
+     "TE"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mouani 1995, doi:10.1016/0925-8388(95)01606-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WV5JZUBB4L ORC-LN57TSGEPJ ORC-RX6WQSJ2GD",
+ "bibtex": "mouani1995_f299e4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WV5JZUBB4L",
+    "paper": "doi:10.1007/s11669-022-00950-z",
+    "measured_in": "doi:10.1016/0925-8388(95)01606-6"
+   },
+   {
+    "id": "ORC-LN57TSGEPJ",
+    "paper": "doi:10.1007/s11669-022-00950-z",
+    "measured_in": "doi:10.1016/0925-8388(95)01606-6"
+   },
+   {
+    "id": "ORC-RX6WQSJ2GD",
+    "paper": "doi:10.1007/s11669-022-00950-z",
+    "measured_in": "doi:10.1016/0925-8388(95)01606-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(95)01606-6",
+   "doi:10.1007/s11669-022-00950-z"
+  ],
+  "dois": [
+   "10.1007/s11669-022-00950-z",
+   "10.1016/0925-8388(95)01606-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaTe-22Yu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

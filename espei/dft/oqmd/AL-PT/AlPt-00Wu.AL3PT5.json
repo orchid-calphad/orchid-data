@@ -1,0 +1,108 @@
+{
+ "components": [
+  "AL",
+  "PT"
+ ],
+ "phases": [
+  "AL3PT5"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   5.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "PT"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -88205.04
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.079378
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB AlPt-00Wu.tdb (sha256 ff7e2a521050dadbd49c60beb539c345c2e43ccec440c7dfb4d82f331b890d40), phase AL3PT5. Ids, in value order: oqmd-9984. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "AlPt-00Wu.tdb",
+   "path": "databases/sgte-binary/AlPt-00Wu.tdb",
+   "sha256": "ff7e2a521050dadbd49c60beb539c345c2e43ccec440c7dfb4d82f331b890d40",
+   "phase": "AL3PT5"
+  },
+  "registry_phase": "phase:al-pt:al3pt5",
+  "mapping": [
+   {
+    "id": "oqmd-9984",
+    "compound": "Al3 Pt5",
+    "basis": "registry DFT name oqmd:oqmd-9984",
+    "space_group": "Pbam",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6299.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "polymorph_ambiguous|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-PT",
+     "n": 236,
+     "sigma_robust_kJ": 6.299,
+     "bias_median_kJ_not_applied": 1.925,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      4.989,
+      7.352
+     ],
+     "n_full_stratum": 236
+    },
+    "weight_used": 0.079378,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.9141808175,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-9984",
+    "compound": "Al3 Pt5"
+   }
+  ]
+ }
+}

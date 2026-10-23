@@ -1,0 +1,87 @@
+{
+ "components": [
+  "LI",
+  "PB"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIPB_B2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   509
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.836
+    ]
+   ],
+   [
+    "LIPB_B2",
+    [
+     "PB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1947, S.A. Pogodin, E.S. Schpilineshkii, Russ. Izv. Akad. Nauk. Fiz. 15 (1947) 88.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V4LB5C4DDE",
+ "bibtex": "pogodin1947_f38d30",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-V4LB5C4DDE",
+    "paper": "doi:10.1016/j.jnucmat.2016.04.061",
+    "measured_in": "ref:4a657ef878f95559"
+   }
+  ],
+  "papers": [
+   "ref:4a657ef878f95559",
+   "doi:10.1016/j.jnucmat.2016.04.061"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2016.04.061"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LiPb-16Zho/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

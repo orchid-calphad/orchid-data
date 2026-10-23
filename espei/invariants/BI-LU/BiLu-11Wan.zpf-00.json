@@ -1,0 +1,87 @@
+{
+ "components": [
+  "BI",
+  "LU"
+ ],
+ "phases": [
+  "BI2LU",
+  "BILU_B1",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   483.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "LU"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "BILU_B1",
+    [
+     "LU"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BI2LU",
+    [
+     "LU"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2011, doi:10.1016/j.calphad.2011.05.003",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RSKUXW55HM",
+ "bibtex": "wang2011_9a7324",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RSKUXW55HM",
+    "paper": "doi:10.1016/j.calphad.2011.05.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2011.05.003",
+   "doi:10.1007/bf02648498"
+  ],
+  "dois": [
+   "10.1007/bf02648498",
+   "10.1016/j.calphad.2011.05.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiLu-11Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

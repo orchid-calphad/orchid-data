@@ -1,0 +1,101 @@
+{
+ "components": [
+  "SB",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 806.15,
+  "X_ZN": [
+   0.5625
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -21398.9
+   ]
+  ]
+ ],
+ "reference": "Zhang 2022, doi:10.1016/j.tca.2022.179327",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UQLMRPUW7V.8bd61b",
+ "reference_states": {
+  "SB": {
+   "phase": "LIQUID"
+  },
+  "ZN": {
+   "phase": "LIQUID"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "SbZn-22Zha.tdb",
+   "path": "databases/sgte-binary/SbZn-22Zha.tdb",
+   "sha256": "7c5dd94e653096cdc663fdd27557d7ed5e13124c2593bd414b3a987fe55bb960",
+   "catalog_entry": {
+    "name": "SbZn-22Zha.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-tca-2022-179327",
+   "doi": "10.1016/j.tca.2022.179327",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Zhang, Y. Yuan, Thermochim. Acta, 716, 179327(2022).",
+    "year": "2022"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "zhang2022_9e0ae3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-UQLMRPUW7V.8bd61b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2022.179327",
+    "measured_in": "doi:10.1016/j.tca.2022.179327"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2022.179327"
+  ],
+  "dois": [
+   "10.1016/j.tca.2022.179327"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/SbZn-22Zha/hmr-model-13.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

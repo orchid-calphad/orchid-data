@@ -1,0 +1,259 @@
+{
+ "components": [
+  "MN",
+  "TI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C14_LAVES",
+  "LIQUID",
+  "MN3TI",
+  "MN4TI",
+  "MNTI_BETA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1523,
+   1503,
+   1473,
+   1477,
+   1454
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "C14_LAVES",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN3TI",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN3TI",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "MN4TI",
+    [
+     "TI"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.225
+    ]
+   ]
+  ],
+  [
+   [
+    "C14_LAVES",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MNTI_BETA",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN4TI",
+    [
+     "TI"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MNTI_BETA",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1987, J.L. Murray (Ed.), Phase Diagram of Binary Titanium Alloys, ASM International, Matals Park, OH, 1987.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WFURIOR5PW ORC-O3PHNLUKSH ORC-ZOFL4PU4CB ORC-UJVGBW3XM2 ORC-NKC3PEUDLW",
+ "bibtex": "murray1987_8ad0f6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WFURIOR5PW",
+    "paper": "doi:10.1016/j.calphad.2009.08.002",
+    "measured_in": "ref:3c26ed2acaadd900"
+   },
+   {
+    "id": "ORC-O3PHNLUKSH",
+    "paper": "doi:10.1016/j.calphad.2009.08.002",
+    "measured_in": "ref:3c26ed2acaadd900"
+   },
+   {
+    "id": "ORC-ZOFL4PU4CB",
+    "paper": "doi:10.1016/j.calphad.2009.08.002",
+    "measured_in": "ref:3c26ed2acaadd900",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-UJVGBW3XM2",
+    "paper": "doi:10.1016/j.calphad.2009.08.002",
+    "measured_in": "ref:3c26ed2acaadd900"
+   },
+   {
+    "id": "ORC-NKC3PEUDLW",
+    "paper": "doi:10.1016/j.calphad.2009.08.002",
+    "measured_in": "ref:3c26ed2acaadd900"
+   }
+  ],
+  "papers": [
+   "ref:3c26ed2acaadd900",
+   "doi:10.1016/j.calphad.2009.08.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.08.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnTi-09Che/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

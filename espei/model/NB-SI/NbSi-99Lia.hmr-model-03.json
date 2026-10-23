@@ -1,0 +1,122 @@
+{
+ "components": [
+  "NB",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SI": [
+   0.375,
+   0.666667
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -52000.0,
+    -47000.0
+   ]
+  ]
+ ],
+ "reference": "Liang 1999, doi:10.1016/s0966-9795(98)00073-9",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LLYIQM4PHA.da7bba ORC-LLYIQM4PHA.1e077b",
+ "reference_states": {
+  "NB": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NbSi-99Lia.tdb",
+   "path": "databases/sgte-binary/NbSi-99Lia.tdb",
+   "sha256": "e706c2b5c4734dec5e70997fbedf3905053f043c56e7a05fa5e6a9f488915e71",
+   "catalog_entry": {
+    "name": "NbSi-99Lia.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-s0966-9795-98-00073-9",
+   "doi": "10.1016/S0966-9795(98)00073-9",
+   "citation": {
+    "authors": "see doi",
+    "title": "H. Liang, Y.A. Chang, Intermetallics, 7, 561-70(1999).",
+    "year": "1999"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "liang1999_c8b857",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-LLYIQM4PHA.da7bba",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2005.08.013",
+    "measured_in": "doi:10.1016/s0966-9795(98)00073-9"
+   },
+   {
+    "id": "ORC-LLYIQM4PHA.1e077b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2005.08.013",
+    "measured_in": "doi:10.1016/s0966-9795(98)00073-9"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0966-9795(98)00073-9",
+   "doi:10.1016/j.intermet.2005.08.013"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2005.08.013",
+   "10.1016/s0966-9795(98)00073-9"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NbSi-99Lia/hmr-model-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

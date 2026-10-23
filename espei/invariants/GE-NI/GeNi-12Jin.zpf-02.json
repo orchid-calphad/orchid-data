@@ -1,0 +1,134 @@
+{
+ "components": [
+  "GE",
+  "NI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4",
+  "GENI3_B32",
+  "GENI_B31",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1428.0,
+   1048.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "GENI3_B32",
+    [
+     "NI"
+    ],
+    [
+     0.744
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.747
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GENI_B31",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Jin 2012, doi:10.1016/j.calphad.2012.03.003",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HZIHKOMEY5 ORC-TNZV5US2MR",
+ "bibtex": "jin2012_0e4129",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HZIHKOMEY5",
+    "paper": "doi:10.1016/j.calphad.2012.03.003"
+   },
+   {
+    "id": "ORC-TNZV5US2MR",
+    "paper": "doi:10.1016/j.calphad.2012.03.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2012.03.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2012.03.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeNi-12Jin/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "components": [
+  "AL",
+  "CO"
+ ],
+ "phases": [
+  "AL3CO",
+  "AL5CO2_D811",
+  "B2_BCC",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1461.15,
+   1431.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "CO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AL5CO2_D811",
+    [
+     "CO"
+    ],
+    [
+     0.2857142857142857
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CO"
+    ],
+    [
+     0.39285714299999996
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5CO2_D811",
+    [
+     "CO"
+    ],
+    [
+     0.2857142857142857
+    ]
+   ],
+   [
+    "AL3CO",
+    [
+     "CO"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CO"
+    ],
+    [
+     0.26785714299999996
+    ]
+   ]
+  ]
+ ],
+ "reference": "Grushko 1996, doi:10.1016/0925-8388(95)02045-4",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HFMBN7QJCI ORC-JHRGHTJ56L",
+ "bibtex": "grushko1996_b08e3f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HFMBN7QJCI",
+    "paper": "doi:10.1016/j.intermet.2013.03.011",
+    "measured_in": "doi:10.1016/0925-8388(95)02045-4"
+   },
+   {
+    "id": "ORC-JHRGHTJ56L",
+    "paper": "doi:10.1016/j.intermet.2013.03.011",
+    "measured_in": "doi:10.1016/0925-8388(95)02045-4"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(95)02045-4",
+   "doi:10.1016/j.intermet.2013.03.011"
+  ],
+  "dois": [
+   "10.1016/0925-8388(95)02045-4",
+   "10.1016/j.intermet.2013.03.011"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlCo-13Ste/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

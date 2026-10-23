@@ -1,0 +1,202 @@
+{
+ "components": [
+  "CO",
+  "ZN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "COZN13",
+  "COZN7",
+  "COZN_A13",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1239.0,
+   1198.0,
+   1197.0,
+   839.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "ZN"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.64
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.495
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZN"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.495
+    ]
+   ],
+   [
+    "COZN_A13",
+    [
+     "ZN"
+    ],
+    [
+     0.475
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.665
+    ]
+   ],
+   [
+    "COZN_A13",
+    [
+     "ZN"
+    ],
+    [
+     0.515
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.535
+    ]
+   ]
+  ],
+  [
+   [
+    "COZN7",
+    [
+     "ZN"
+    ],
+    [
+     0.9
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.991
+    ]
+   ],
+   [
+    "COZN13",
+    [
+     "ZN"
+    ],
+    [
+     0.917
+    ]
+   ]
+  ]
+ ],
+ "reference": "Vassilev 2004, doi:10.1361/15477030419522",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QWBXOZQYNW ORC-SFSA7BYXGB ORC-JM2D3RTCWU ORC-II32GETFDS",
+ "bibtex": "vassilev2004_11b4a8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QWBXOZQYNW",
+    "paper": "doi:10.1361/15477030419522"
+   },
+   {
+    "id": "ORC-SFSA7BYXGB",
+    "paper": "doi:10.1361/15477030419522"
+   },
+   {
+    "id": "ORC-JM2D3RTCWU",
+    "paper": "doi:10.1361/15477030419522"
+   },
+   {
+    "id": "ORC-II32GETFDS",
+    "paper": "doi:10.1361/15477030419522"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/15477030419522"
+  ],
+  "dois": [
+   "10.1361/15477030419522"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoZn-04Vas-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

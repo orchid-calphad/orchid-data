@@ -1,0 +1,206 @@
+{
+ "components": [
+  "MN",
+  "ND"
+ ],
+ "phases": [
+  "DHCP",
+  "LIQUID",
+  "MN17ND2",
+  "MN23ND6_D8A",
+  "MN2ND_C14"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   968,
+   1093,
+   853,
+   753
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.73
+    ]
+   ],
+   [
+    "MN2ND_C14",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.488
+    ]
+   ],
+   [
+    "MN23ND6_D8A",
+    [
+     "ND"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "MN2ND_C14",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "MN2ND_C14",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "MN23ND6_D8A",
+    [
+     "ND"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     0.999
+    ]
+   ]
+  ],
+  [
+   [
+    "MN23ND6_D8A",
+    [
+     "ND"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "MN17ND2",
+    [
+     "ND"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     0.999
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, Makhalenko S, Kuźma Y. X-ray diffraction investigations of the Nd–Mn system. Izv Akad Nauk SSSR Neorg Mater. 1990;26:2432–3.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-37CPAN5FF6 ORC-J6OQ3FY6HN ORC-ZE6XW3O26B ORC-NT5TR55LXF",
+ "bibtex": "makhalenko1990_919dda",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-37CPAN5FF6",
+    "paper": "doi:10.1007/s10973-016-5636-y",
+    "measured_in": "ref:87c966552c8d132d"
+   },
+   {
+    "id": "ORC-J6OQ3FY6HN",
+    "paper": "doi:10.1007/s10973-016-5636-y",
+    "measured_in": "ref:87c966552c8d132d"
+   },
+   {
+    "id": "ORC-ZE6XW3O26B",
+    "paper": "doi:10.1007/s10973-016-5636-y",
+    "measured_in": "ref:87c966552c8d132d"
+   },
+   {
+    "id": "ORC-NT5TR55LXF",
+    "paper": "doi:10.1007/s10973-016-5636-y",
+    "measured_in": "ref:87c966552c8d132d"
+   }
+  ],
+  "papers": [
+   "ref:87c966552c8d132d",
+   "doi:10.1007/s10973-016-5636-y"
+  ],
+  "dois": [
+   "10.1007/s10973-016-5636-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnNd-16Ron/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

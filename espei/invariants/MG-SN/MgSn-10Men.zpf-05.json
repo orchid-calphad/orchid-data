@@ -1,0 +1,157 @@
+{
+ "components": [
+  "MG",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "HCP_A3",
+  "LIQUID",
+  "MG2SN_C1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   834,
+   1051,
+   473
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.105
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MG2SN_C1",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "MG2SN_C1",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.903
+    ]
+   ],
+   [
+    "MG2SN_C1",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1926, W. Hume-Rothery, J. Inst. Met. 35 (1926) 336–347.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ELRZVIN3OR ORC-QL3QBGLW22 ORC-3PUA3GPZTE",
+ "bibtex": "humerothery1926_8d2c50",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ELRZVIN3OR",
+    "paper": "doi:10.1016/j.jallcom.2010.08.124",
+    "measured_in": "ref:0dc5b53dbc3a2816"
+   },
+   {
+    "id": "ORC-QL3QBGLW22",
+    "paper": "doi:10.1016/j.jallcom.2010.08.124",
+    "measured_in": "ref:0dc5b53dbc3a2816"
+   },
+   {
+    "id": "ORC-3PUA3GPZTE",
+    "paper": "doi:10.1016/j.jallcom.2010.08.124",
+    "measured_in": "ref:0dc5b53dbc3a2816"
+   }
+  ],
+  "papers": [
+   "ref:0dc5b53dbc3a2816",
+   "doi:10.1016/j.jallcom.2010.08.124"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2010.08.124"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgSn-10Men/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

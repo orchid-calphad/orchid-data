@@ -1,0 +1,209 @@
+{
+ "components": [
+  "AL",
+  "YB"
+ ],
+ "phases": [
+  "AL2YB_C15",
+  "AL3YB_L12",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   900,
+   1338,
+   1723,
+   938
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     0.05
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3YB_L12",
+    [
+     "YB"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL2YB_C15",
+    [
+     "YB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AL3YB_L12",
+    [
+     "YB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.2916666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AL2YB_C15",
+    [
+     "YB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL2YB_C15",
+    [
+     "YB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1971, V.K. Kulifeev, G.P. Stanolevich, V.G. Kuzlow, Izv. Vyssh. Uchebn. Zaved. Tsvetn. Metall. (4) (1971) 108, in Russian.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UELEHJN6VV ORC-SD52HHLF2Q ORC-X5JMFDDAWI ORC-4OENAEZP7J",
+ "bibtex": "kulifeev1971_1c21da",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UELEHJN6VV",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "ref:753ba22614a5b100"
+   },
+   {
+    "id": "ORC-SD52HHLF2Q",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "ref:753ba22614a5b100",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-X5JMFDDAWI",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "ref:753ba22614a5b100"
+   },
+   {
+    "id": "ORC-4OENAEZP7J",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "ref:753ba22614a5b100"
+   }
+  ],
+  "papers": [
+   "ref:753ba22614a5b100",
+   "doi:10.1016/j.jallcom.2006.11.023"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2006.11.023"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlYb-08Men/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

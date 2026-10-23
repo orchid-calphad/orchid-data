@@ -1,0 +1,142 @@
+{
+ "components": [
+  "AL",
+  "IR"
+ ],
+ "phases": [
+  "AL13IR4",
+  "AL45IR13",
+  "AL9IR2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1168.0,
+   1149.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL13IR4",
+    [
+     "IR"
+    ],
+    [
+     0.235294
+    ]
+   ],
+   [
+    "AL45IR13",
+    [
+     "IR"
+    ],
+    [
+     0.224138
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.229716
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL45IR13",
+    [
+     "IR"
+    ],
+    [
+     0.224138
+    ]
+   ],
+   [
+    "AL9IR2",
+    [
+     "IR"
+    ],
+    [
+     0.181818
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.202978
+    ]
+   ]
+  ]
+ ],
+ "reference": "JIANG 2006, doi:10.1016/j.actamat.2006.03.058",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V2TFOGBBDI ORC-BLMYIB3V6X",
+ "bibtex": "jiang2006_eb3817",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-V2TFOGBBDI",
+    "paper": "doi:10.1016/j.actamat.2006.03.058"
+   },
+   {
+    "id": "ORC-BLMYIB3V6X",
+    "paper": "doi:10.1016/j.actamat.2006.03.058"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2006.03.058"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2006.03.058"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlIr-06Jia/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

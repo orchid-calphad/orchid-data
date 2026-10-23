@@ -1,0 +1,77 @@
+{
+ "components": [
+  "FE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2048
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.326
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.326
+    ]
+   ]
+  ]
+ ],
+ "reference": "1958, R.P. Elliott, W. Rostoker, The occurrence of Laves-type phases among transition elements, Trans. ASM 50 (1958) 617–632.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7P3CTG46LB",
+ "bibtex": "elliott1958_fe7085",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7P3CTG46LB",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "ref:9800b8f9b741c6b7"
+   }
+  ],
+  "papers": [
+   "ref:9800b8f9b741c6b7",
+   "doi:10.1016/j.calphad.2014.12.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.12.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-15Raj/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,266 @@
+{
+ "components": [
+  "AL",
+  "SC"
+ ],
+ "phases": [
+  "AL2SC_C15",
+  "ALSC2_B82",
+  "ALSC_B2",
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1463.15,
+   1513.15,
+   1493.15,
+   1573.15,
+   1458.15,
+   1243.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "AL2SC_C15",
+    [
+     "SC"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "ALSC_B2",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "ALSC_B2",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.58
+    ]
+   ],
+   [
+    "ALSC_B2",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "ALSC2_B82",
+    [
+     "SC"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "ALSC2_B82",
+    [
+     "SC"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.77
+    ]
+   ],
+   [
+    "ALSC2_B82",
+    [
+     "SC"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SC"
+    ],
+    [
+     0.85
+    ]
+   ],
+   [
+    "ALSC2_B82",
+    [
+     "SC"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SC"
+    ],
+    [
+     0.93
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cacciamani 1999, doi:10.1016/s0966-9795(98)00022-3",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NDMT36NUHB ORC-A74BDQ46DE ORC-LFGC7RMSDO ORC-SKJ7CQMK67 ORC-5ERFNQ3MIF ORC-CTK35ADYJ5",
+ "bibtex": "cacciamani1999_70e337",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NDMT36NUHB",
+    "paper": "doi:10.1016/s0966-9795(98)00022-3",
+    "measured_in": "doi:10.1016/s0966-9795(98)00022-3"
+   },
+   {
+    "id": "ORC-A74BDQ46DE",
+    "paper": "doi:10.1016/s0966-9795(98)00022-3",
+    "measured_in": "doi:10.1016/s0966-9795(98)00022-3"
+   },
+   {
+    "id": "ORC-LFGC7RMSDO",
+    "paper": "doi:10.1016/s0966-9795(98)00022-3",
+    "measured_in": "doi:10.1016/s0966-9795(98)00022-3"
+   },
+   {
+    "id": "ORC-SKJ7CQMK67",
+    "paper": "doi:10.1016/s0966-9795(98)00022-3",
+    "measured_in": "doi:10.1016/s0966-9795(98)00022-3"
+   },
+   {
+    "id": "ORC-5ERFNQ3MIF",
+    "paper": "doi:10.1016/s0966-9795(98)00022-3",
+    "measured_in": "doi:10.1016/s0966-9795(98)00022-3"
+   },
+   {
+    "id": "ORC-CTK35ADYJ5",
+    "paper": "doi:10.1016/s0966-9795(98)00022-3",
+    "measured_in": "doi:10.1016/s0966-9795(98)00022-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0966-9795(98)00022-3"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(98)00022-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlSc-99Cac-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

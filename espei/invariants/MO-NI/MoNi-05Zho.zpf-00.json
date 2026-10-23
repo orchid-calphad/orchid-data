@@ -1,0 +1,97 @@
+{
+ "components": [
+  "MO",
+  "NI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "NI4X_D1A",
+  "NI8X"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   555
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI4X_D1A",
+    [
+     "NI"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "NI8X",
+    [
+     "NI"
+    ],
+    [
+     0.8888888888888888
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.8444444445
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mayer 1985, doi:10.1002/pssa.2210900209",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X33ZTZK2XE",
+ "bibtex": "mayer1985_e50b2c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-X33ZTZK2XE",
+    "paper": "doi:10.1016/j.msea.2005.02.037",
+    "measured_in": "doi:10.1002/pssa.2210900209"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/pssa.2210900209",
+   "doi:10.1016/j.msea.2005.02.037"
+  ],
+  "dois": [
+   "10.1002/pssa.2210900209",
+   "10.1016/j.msea.2005.02.037"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoNi-05Zho/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

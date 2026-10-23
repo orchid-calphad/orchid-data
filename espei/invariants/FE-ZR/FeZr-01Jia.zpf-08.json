@@ -1,0 +1,197 @@
+{
+ "components": [
+  "FE",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C15_LAVES",
+  "FCC_A1",
+  "FE23ZR6_D8A",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1623.15,
+   1598.15,
+   1198.15,
+   1948.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.05
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.105
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.10800000000000001
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "1962, V.N. Svechnikov and A.T. Spektor: Dokl. Akad. Nauk SSSR, 1962, vol. 143, p. 613; cited in [1963Sve].",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FNENSPS4V2 ORC-IT2T7TGD67 ORC-VW5D63F4IT ORC-JSHKDZ7HPC",
+ "bibtex": "svechnikov1962_2756e0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FNENSPS4V2",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "ref:7adee1083e052a80"
+   },
+   {
+    "id": "ORC-IT2T7TGD67",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "ref:7adee1083e052a80"
+   },
+   {
+    "id": "ORC-VW5D63F4IT",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "ref:7adee1083e052a80"
+   },
+   {
+    "id": "ORC-JSHKDZ7HPC",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "ref:7adee1083e052a80"
+   }
+  ],
+  "papers": [
+   "ref:7adee1083e052a80",
+   "doi:10.1361/105497101770332965"
+  ],
+  "dois": [
+   "10.1361/105497101770332965"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeZr-01Jia/zpf-08.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

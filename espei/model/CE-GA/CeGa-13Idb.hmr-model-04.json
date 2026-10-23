@@ -1,0 +1,121 @@
+{
+ "components": [
+  "CE",
+  "GA"
+ ],
+ "phases": [
+  "CE3GA2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_GA": [
+   0.4,
+   0.4
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -69036.0,
+    -69036.0
+   ]
+  ]
+ ],
+ "reference": "Idbenali 2013, doi:10.1007/s11669-013-0261-y",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WI2T4P6TEC.3da4eb ORC-WI2T4P6TEC.3da4eb",
+ "reference_states": {
+  "CE": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "GA": {
+   "phase": "ORTHORHOMBIC_GA",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CeGa-13Idb.tdb",
+   "path": "databases/sgte-binary/CeGa-13Idb.tdb",
+   "sha256": "dbc99ec4eb8fcd0e72aef355968da7bf8572de3f04e8ce5e9a5e752afe76c38f",
+   "catalog_entry": {
+    "name": "CeGa-13Idb.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s11669-013-0261-y",
+   "doi": "10.1007/s11669-013-0261-y",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Phase Diag. Diffus., 34, 467-73(2013).",
+    "year": "2013"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "idbenali2013_3e01a3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-WI2T4P6TEC.3da4eb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "doi:10.1007/s11669-013-0261-y"
+   },
+   {
+    "id": "ORC-WI2T4P6TEC.3da4eb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-013-0261-y",
+    "measured_in": "doi:10.1007/s11669-013-0261-y"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-013-0261-y"
+  ],
+  "dois": [
+   "10.1007/s11669-013-0261-y"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CeGa-13Idb/hmr-model-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

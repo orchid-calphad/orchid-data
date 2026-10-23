@@ -1,0 +1,90 @@
+{
+ "components": [
+  "CR",
+  "FE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   783
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "FE"
+    ],
+    [
+     0.51
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "FE"
+    ],
+    [
+     0.857
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "FE"
+    ],
+    [
+     0.12
+    ]
+   ]
+  ]
+ ],
+ "reference": "1987, S.M. Dubiel, G. Inden, On the miscibility gap in the Fe-Cr system: a moessbauer study on long term annealed alloys, Z. Fuer Met. 78 (1987) 544–549.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JIWRVBUMUY",
+ "bibtex": "dubiel1987_3159c0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JIWRVBUMUY",
+    "paper": "doi:10.1016/j.calphad.2017.10.002",
+    "measured_in": "ref:36d37124241e719d",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:36d37124241e719d",
+   "doi:10.1016/j.calphad.2017.10.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2017.10.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrFe-18Jac/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

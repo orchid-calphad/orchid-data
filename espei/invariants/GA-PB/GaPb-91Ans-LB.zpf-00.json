@@ -1,0 +1,90 @@
+{
+ "components": [
+  "GA",
+  "PB"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   584.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.958
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     0.0048
+    ]
+   ]
+  ]
+ ],
+ "reference": "1959, J.N. Greenwood, \"The Solid Solutions of Gallium in Lead,\"./. Inst Met, 87, 91-93 (1958-59).(Equi Diagram;Experimental) *59Pre: B. Predel,\"Phase Diagram of the Ga-Pb and Ga-TISystems,\"Z. Metallk~, 50(11), 663-667 (1959) in German. (Equi Diagram, Thertoo; Experimental;#)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2AHURWIG6H",
+ "bibtex": "greenwood1959_9ebacd",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2AHURWIG6H",
+    "paper": "doi:10.1007/bf02663678",
+    "measured_in": "ref:f7b4d66cb91d08a6",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:f7b4d66cb91d08a6",
+   "doi:10.1007/bf02663678"
+  ],
+  "dois": [
+   "10.1007/bf02663678"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaPb-91Ans-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

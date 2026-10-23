@@ -1,0 +1,109 @@
+{
+ "components": [
+  "GE",
+  "HF"
+ ],
+ "phases": [
+  "GE2HF3_D5A"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "HF"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -67105.0
+   ]
+  ]
+ ],
+ "reference": "Tang 2014, doi:10.1007/s10853-013-7814-7",
+ "bibtex": "tang2014_8a8897",
+ "weight": [
+  0.075597
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB GeHf-14Tan.tdb (sha256 574342ac8bd9d16bdf547613289ee641bba41ebbdc478a520ca5e900102b2a75), phase GE2HF3_D5A. Ids, in value order: ORC-ZO7V5BPXHS.235c2a. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "GeHf-14Tan.tdb",
+   "path": "databases/sgte-binary/GeHf-14Tan.tdb",
+   "sha256": "574342ac8bd9d16bdf547613289ee641bba41ebbdc478a520ca5e900102b2a75",
+   "phase": "GE2HF3_D5A"
+  },
+  "registry_phase": "phase:ge-hf:ge2hf3-d5a",
+  "mapping": [
+   {
+    "id": "ORC-ZO7V5BPXHS.235c2a",
+    "compound": "Ge2Hf3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10853-013-7814-7"
+  ],
+  "dois": [
+   "10.1007/s10853-013-7814-7"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6614.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-HF",
+     "n": 95,
+     "sigma_robust_kJ": 6.614,
+     "bias_median_kJ_not_applied": 0.851,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.075597,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -67.105,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-ZO7V5BPXHS.235c2a",
+    "compound": "Ge2Hf3"
+   }
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "components": [
+  "MO",
+  "PD"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2013
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PD"
+    ],
+    [
+     0.5748
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "PD"
+    ],
+    [
+     0.07
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "PD"
+    ],
+    [
+     0.5186
+    ]
+   ]
+  ]
+ ],
+ "reference": "1958, C.W. Haworth and W. Hume-Rothery: J. Inst. Met., Vol 87, 1958, p 265-69.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DFZMBAXEL5",
+ "bibtex": "haworth1958_9c080e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DFZMBAXEL5",
+    "paper": "doi:10.1361/105497100770340390",
+    "measured_in": "ref:bf7b16d77bbaa4cf",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:bf7b16d77bbaa4cf",
+   "doi:10.1361/105497100770340390"
+  ],
+  "dois": [
+   "10.1361/105497100770340390"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoPd-00Gho/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

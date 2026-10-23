@@ -1,0 +1,167 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU5ZR_C15B",
+  "CU8ZR3",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1283,
+   1240,
+   1248
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU5ZR_C15B",
+    [
+     "ZR"
+    ],
+    [
+     0.166667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU5ZR_C15B",
+    [
+     "ZR"
+    ],
+    [
+     0.166667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU8ZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.272727
+    ]
+   ]
+  ]
+ ],
+ "reference": "1978, Kuznetsov GM, Fedorov VN, Rodnyanskaya AV. Sov Non-Ferrous Met Res 1978;6:91–4.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EPRB4PBMMG ORC-OTSRYXTKBQ ORC-MTQ7OSHP5O",
+ "bibtex": "kuznetsov1978_d95d40",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EPRB4PBMMG",
+    "paper": "doi:10.1016/j.actamat.2009.12.004",
+    "measured_in": "ref:526c183e5bbd787f"
+   },
+   {
+    "id": "ORC-OTSRYXTKBQ",
+    "paper": "doi:10.1016/j.actamat.2009.12.004",
+    "measured_in": "ref:526c183e5bbd787f"
+   },
+   {
+    "id": "ORC-MTQ7OSHP5O",
+    "paper": "doi:10.1016/j.actamat.2009.12.004",
+    "measured_in": "ref:526c183e5bbd787f"
+   }
+  ],
+  "papers": [
+   "ref:526c183e5bbd787f",
+   "doi:10.1016/j.actamat.2009.12.004"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2009.12.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuZr-10Zho/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

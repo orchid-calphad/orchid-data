@@ -1,0 +1,86 @@
+{
+ "components": [
+  "AL",
+  "HG"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   630.15,
+   293.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.9724
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.999851
+    ]
+   ]
+  ]
+ ],
+ "reference": "McAllster 1985, doi:10.1007/bf02880401",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6XVTUVVSNG ORC-BRZPLF26UJ",
+ "bibtex": "mcallster1985_60dda0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6XVTUVVSNG",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   },
+   {
+    "id": "ORC-BRZPLF26UJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02880401"
+  ],
+  "dois": [
+   "10.1007/bf02880401"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlHg-85McA/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

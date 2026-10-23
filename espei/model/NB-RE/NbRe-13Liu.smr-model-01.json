@@ -1,0 +1,121 @@
+{
+ "components": [
+  "NB",
+  "RE"
+ ],
+ "phases": [
+  "CHI_A12",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_RE": [
+   1.0,
+   1.0
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    25.456,
+    0.439
+   ]
+  ]
+ ],
+ "reference": "Liu 2013, doi:10.1016/j.calphad.2013.02.006",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DME4MEHYIB.96f08d ORC-DME4MEHYIB.72a7be",
+ "reference_states": {
+  "NB": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "RE": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NbRe-13Liu.tdb",
+   "path": "databases/sgte-binary/NbRe-13Liu.tdb",
+   "sha256": "9127581a18abfbf796e89ef8697ff3e913d6ac69087a786efa45855308b83b12",
+   "catalog_entry": {
+    "name": "NbRe-13Liu.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2013-02-006",
+   "doi": "10.1016/j.calphad.2013.02.006",
+   "citation": {
+    "authors": "see doi",
+    "title": "X.L. Liu, C.Z. Hargather, Z.-K. Liu, Calphad, 41, 119-27(2013).",
+    "year": "2013"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "liu2013_cb8618",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-DME4MEHYIB.96f08d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.02.006",
+    "measured_in": "doi:10.1016/j.calphad.2013.02.006"
+   },
+   {
+    "id": "ORC-DME4MEHYIB.72a7be",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.02.006",
+    "measured_in": "doi:10.1016/j.calphad.2013.02.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2013.02.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.02.006"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NbRe-13Liu/smr-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

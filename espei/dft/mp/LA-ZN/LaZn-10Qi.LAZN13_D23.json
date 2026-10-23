@@ -1,0 +1,106 @@
+{
+ "components": [
+  "LA",
+  "ZN"
+ ],
+ "phases": [
+  "LAZN13_D23"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   13.0
+  ],
+  "sublattice_configurations": [
+   [
+    "LA",
+    "ZN"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -19670.12
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.052219
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB LaZn-10Qi.tdb (sha256 97c5cfdc1bfd89273a4e94a12933d86ce7de3a80752d2709a518bc1fc241bc6c), phase LAZN13_D23. Ids, in value order: mp-aaacpxbe. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "LaZn-10Qi.tdb",
+   "path": "databases/sgte-binary/LaZn-10Qi.tdb",
+   "sha256": "97c5cfdc1bfd89273a4e94a12933d86ce7de3a80752d2709a518bc1fc241bc6c",
+   "phase": "LAZN13_D23"
+  },
+  "registry_phase": "phase:la-zn:lazn13-d23",
+  "mapping": [
+   {
+    "id": "mp-aaacpxbe",
+    "compound": "LaZn13",
+    "basis": "registry DFT name mp:mp-aaacpxbe",
+    "space_group": "Fm-3c",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9575.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "LA-ZN",
+     "n": 259,
+     "sigma_robust_kJ": 9.575,
+     "bias_median_kJ_not_applied": 5.187,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      8.274,
+      10.688
+     ],
+     "n_full_stratum": 259
+    },
+    "weight_used": 0.052219,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.20386644499999992,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaacpxbe",
+    "compound": "LaZn13"
+   }
+  ]
+ }
+}

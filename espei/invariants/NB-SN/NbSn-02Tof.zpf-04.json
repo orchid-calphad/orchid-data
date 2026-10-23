@@ -1,0 +1,85 @@
+{
+ "components": [
+  "NB",
+  "SN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "NB3SN_A15"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2406.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NB3SN_A15",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Toffolon 2002, doi:10.1361/1054971023604071",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XSYALMW4JI",
+ "bibtex": "toffolon2002_908a47",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XSYALMW4JI",
+    "paper": "doi:10.1361/1054971023604071"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/1054971023604071"
+  ],
+  "dois": [
+   "10.1361/1054971023604071"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbSn-02Tof/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

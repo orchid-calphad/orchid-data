@@ -1,0 +1,243 @@
+{
+ "components": [
+  "NI",
+  "SI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "NI2SI_C37",
+  "NI2SI_THETA",
+  "NI3SI_H",
+  "NI3SI_L12",
+  "NI3SI_M",
+  "NI5SI2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1424.15,
+   1436.15,
+   1487.15,
+   1558.15,
+   1313.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI3SI_H",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.222
+    ]
+   ],
+   [
+    "NI3SI_H",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "NI5SI2",
+    [
+     "SI"
+    ],
+    [
+     0.285714
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.306
+    ]
+   ],
+   [
+    "NI5SI2",
+    [
+     "SI"
+    ],
+    [
+     0.285714
+    ]
+   ],
+   [
+    "NI2SI_C37",
+    [
+     "SI"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "NI2SI_THETA",
+    [
+     "SI"
+    ],
+    [
+     0.333
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI3SI_L12",
+    [
+     "SI"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "NI3SI_M",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ]
+ ],
+ "reference": "1936, K. Iwase, M. Okamoto, Sci. Rep. Tohoku Univ., K. Honda Anniv. (1936) 777–792.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3NPDUXKVTM ORC-IRNSSOBXDQ ORC-OWSKGCPNDD ORC-DKQ2UIRYLI ORC-A5N2NKTANC",
+ "bibtex": "iwase1936_f7525b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3NPDUXKVTM",
+    "paper": "doi:10.1016/j.calphad.2005.08.001",
+    "measured_in": "ref:20676c9623806214"
+   },
+   {
+    "id": "ORC-IRNSSOBXDQ",
+    "paper": "doi:10.1016/j.calphad.2005.08.001",
+    "measured_in": "ref:20676c9623806214"
+   },
+   {
+    "id": "ORC-OWSKGCPNDD",
+    "paper": "doi:10.1016/j.calphad.2005.08.001",
+    "measured_in": "ref:20676c9623806214",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-DKQ2UIRYLI",
+    "paper": "doi:10.1016/j.calphad.2005.08.001",
+    "measured_in": "ref:20676c9623806214"
+   },
+   {
+    "id": "ORC-A5N2NKTANC",
+    "paper": "doi:10.1016/j.calphad.2005.08.001",
+    "measured_in": "ref:20676c9623806214"
+   }
+  ],
+  "papers": [
+   "ref:20676c9623806214",
+   "doi:10.1016/j.calphad.2005.08.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.08.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiSi-05Mie/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

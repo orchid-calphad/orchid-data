@@ -1,0 +1,294 @@
+{
+ "components": [
+  "SB",
+  "TB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7",
+  "SB2TB",
+  "SB3TB4_BETA",
+  "SB3TB5_D88",
+  "SBTB_B1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   896.15,
+   1013.15,
+   2043.15,
+   1923.15,
+   1403.15,
+   1538.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.008
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SB2TB",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.022000000000000002
+    ]
+   ],
+   [
+    "SBTB_B1",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "SB2TB",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.61
+    ]
+   ],
+   [
+    "SBTB_B1",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "SB3TB4_BETA",
+    [
+     "TB"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.6509999999999999
+    ]
+   ],
+   [
+    "SB3TB4_BETA",
+    [
+     "TB"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ],
+   [
+    "SB3TB5_D88",
+    [
+     "TB"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.86
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TB"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "SB3TB5_D88",
+    [
+     "TB"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TB"
+    ],
+    [
+     0.985
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TB"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.9159999999999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, T.B. Massalski, Sb–Tb (Antimony–Terbium), in: T.B. Massalski (Ed.), Binary Alloy Phase Diagrams, second ed., 1990.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5A3XBHVJP2 ORC-EMIOKABRX5 ORC-OHSZKX4V5Z ORC-DEKLZ4O2T5 ORC-RZKWOE5R2E ORC-WENDURIRNY",
+ "bibtex": "massalski1990_92c2f6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5A3XBHVJP2",
+    "paper": "doi:10.1016/j.calphad.2012.01.002",
+    "measured_in": "ref:d67db3d651d78abe"
+   },
+   {
+    "id": "ORC-EMIOKABRX5",
+    "paper": "doi:10.1016/j.calphad.2012.01.002",
+    "measured_in": "ref:d67db3d651d78abe"
+   },
+   {
+    "id": "ORC-OHSZKX4V5Z",
+    "paper": "doi:10.1016/j.calphad.2012.01.002",
+    "measured_in": "ref:d67db3d651d78abe",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-DEKLZ4O2T5",
+    "paper": "doi:10.1016/j.calphad.2012.01.002",
+    "measured_in": "ref:d67db3d651d78abe",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-RZKWOE5R2E",
+    "paper": "doi:10.1016/j.calphad.2012.01.002",
+    "measured_in": "ref:d67db3d651d78abe"
+   },
+   {
+    "id": "ORC-WENDURIRNY",
+    "paper": "doi:10.1016/j.calphad.2012.01.002",
+    "measured_in": "ref:d67db3d651d78abe"
+   }
+  ],
+  "papers": [
+   "ref:d67db3d651d78abe",
+   "doi:10.1016/j.calphad.2012.01.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2012.01.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SbTb-12Gao/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

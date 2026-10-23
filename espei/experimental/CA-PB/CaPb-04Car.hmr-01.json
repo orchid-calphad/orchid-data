@@ -1,0 +1,86 @@
+{
+ "components": [
+  "CA",
+  "PB"
+ ],
+ "phases": [
+  "CAPB_L10",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1040.0,
+  "X_PB": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -57000.0
+   ]
+  ]
+ ],
+ "reference": "Cartigny 2004, doi:10.1016/j.tca.2004.01.001",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YH5IZHGAMN",
+ "reference_states": {
+  "CA": {
+   "phase": "LIQUID"
+  },
+  "PB": {
+   "phase": "LIQUID"
+  }
+ },
+ "weight": 0.25,
+ "bibtex": "cartigny2004_7eac93",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YH5IZHGAMN",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2004.01.001",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2004.01.001"
+  ],
+  "dois": [
+   "10.1016/j.tca.2004.01.001"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CaPb-04Car/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 2000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 2.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.25,
+    "weight_used": 0.25
+   }
+  ]
+ }
+}

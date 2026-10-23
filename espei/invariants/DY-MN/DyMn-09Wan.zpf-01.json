@@ -1,0 +1,209 @@
+{
+ "components": [
+  "DY",
+  "MN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CUB_A13",
+  "DY6MN23_D8A",
+  "DYMN12_D2B",
+  "DYMN2_C15",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1128.15,
+   1203.15,
+   1393.15,
+   1348.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.287
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DYMN2_C15",
+    [
+     "MN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.371
+    ]
+   ],
+   [
+    "DY6MN23_D8A",
+    [
+     "MN"
+    ],
+    [
+     0.7931034482758621
+    ]
+   ],
+   [
+    "DYMN2_C15",
+    [
+     "MN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MN"
+    ],
+    [
+     0.9890000000000001
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.882
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "MN"
+    ],
+    [
+     0.9890000000000001
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "MN"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "DYMN12_D2B",
+    [
+     "MN"
+    ],
+    [
+     0.9230769230769231
+    ]
+   ],
+   [
+    "CUB_A13",
+    [
+     "MN"
+    ],
+    [
+     0.99
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, T.B. Massalski, P.R. Subramanian, H. Okamoto, L. Kacprzak, Binary Alloy Phase Diagrams, 2nd ed., ASM International, 1990.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XW7B32QAOY ORC-5DIMECRD6F ORC-DCDHYZMMCA ORC-L4DSHQPEIP",
+ "bibtex": "massalski1990_093e71",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XW7B32QAOY",
+    "paper": "doi:10.1016/j.jallcom.2008.01.092",
+    "measured_in": "ref:6377c70343cad517"
+   },
+   {
+    "id": "ORC-5DIMECRD6F",
+    "paper": "doi:10.1016/j.jallcom.2008.01.092",
+    "measured_in": "ref:6377c70343cad517"
+   },
+   {
+    "id": "ORC-DCDHYZMMCA",
+    "paper": "doi:10.1016/j.jallcom.2008.01.092",
+    "measured_in": "ref:6377c70343cad517"
+   },
+   {
+    "id": "ORC-L4DSHQPEIP",
+    "paper": "doi:10.1016/j.jallcom.2008.01.092",
+    "measured_in": "ref:6377c70343cad517"
+   }
+  ],
+  "papers": [
+   "ref:6377c70343cad517",
+   "doi:10.1016/j.jallcom.2008.01.092"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.01.092"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/DyMn-09Wan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

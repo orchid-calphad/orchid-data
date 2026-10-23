@@ -1,0 +1,91 @@
+{
+ "components": [
+  "B",
+  "C"
+ ],
+ "phases": [
+  "B4C_D1G",
+  "GRAPHITE_A9",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2648
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.29
+    ]
+   ],
+   [
+    "B4C_D1G",
+    [
+     "C"
+    ],
+    [
+     0.19899999999999998
+    ]
+   ],
+   [
+    "GRAPHITE_A9",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1961, Elliott RP. The boron-carbon system. Tech. rep. U.S. at. energy comm. Chicago: Illinois Inst. of Technol; 1961.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7UE3TNKHJS",
+ "bibtex": "elliott1961_eb215d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7UE3TNKHJS",
+    "paper": "doi:10.1016/j.actamat.2012.09.029",
+    "measured_in": "ref:28c069cde07b1f29",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:28c069cde07b1f29",
+   "doi:10.1016/j.actamat.2012.09.029"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2012.09.029"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BC-12Sae/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

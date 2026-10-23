@@ -1,0 +1,205 @@
+{
+ "components": [
+  "CU",
+  "GA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CUGA2",
+  "CUGA_GAM_1",
+  "CUGA_GAM_3",
+  "FCC_A1",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1182.0,
+   1108.0,
+   522.0,
+   302.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "GA"
+    ],
+    [
+     0.156
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GA"
+    ],
+    [
+     0.185
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "GA"
+    ],
+    [
+     0.28
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.305
+    ]
+   ],
+   [
+    "CUGA_GAM_1",
+    [
+     "GA"
+    ],
+    [
+     0.285
+    ]
+   ]
+  ],
+  [
+   [
+    "CUGA_GAM_3",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.94
+    ]
+   ],
+   [
+    "CUGA2",
+    [
+     "GA"
+    ],
+    [
+     0.56
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "CUGA2",
+    [
+     "GA"
+    ],
+    [
+     0.56
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "GA"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2008, doi:10.1016/j.calphad.2008.03.006",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BDC7T7T4FE ORC-IAGAE7EJ45 ORC-VWW5LAUUJB ORC-C4BST6RAST",
+ "bibtex": "li2008_966850",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BDC7T7T4FE",
+    "paper": "doi:10.1016/j.calphad.2008.03.006"
+   },
+   {
+    "id": "ORC-IAGAE7EJ45",
+    "paper": "doi:10.1016/j.calphad.2008.03.006"
+   },
+   {
+    "id": "ORC-VWW5LAUUJB",
+    "paper": "doi:10.1016/j.calphad.2008.03.006"
+   },
+   {
+    "id": "ORC-C4BST6RAST",
+    "paper": "doi:10.1016/j.calphad.2008.03.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2008.03.006",
+   "doi:10.1002/zaac.19342200309"
+  ],
+  "dois": [
+   "10.1002/zaac.19342200309",
+   "10.1016/j.calphad.2008.03.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuGa-08Li/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

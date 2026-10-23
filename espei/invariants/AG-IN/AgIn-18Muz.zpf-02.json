@@ -1,0 +1,247 @@
+{
+ "components": [
+  "AG",
+  "IN"
+ ],
+ "phases": [
+  "AG9IN4_D83",
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   966.1,
+   944.5,
+   934.4,
+   557.4,
+   478.3
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.19
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     0.282
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.249
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     0.192
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.233
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.228
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.261
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.253
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.316
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.327
+    ]
+   ],
+   [
+    "AG9IN4_D83",
+    [
+     "IN"
+    ],
+    [
+     0.327
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.387
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.332
+    ]
+   ],
+   [
+    "AG9IN4_D83",
+    [
+     "IN"
+    ],
+    [
+     0.9500000000000001
+    ]
+   ]
+  ]
+ ],
+ "reference": "Bahari 2009, doi:10.1016/j.jallcom.2008.10.030",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4IUBXY3676 ORC-5PCN6RG23M ORC-JRSIOS6CR5 ORC-IB6I5BULNQ ORC-F2ZBI4VUKJ",
+ "bibtex": "bahari2009_79ec76",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4IUBXY3676",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "doi:10.1016/j.jallcom.2008.10.030",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-5PCN6RG23M",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "doi:10.1016/j.jallcom.2008.10.030"
+   },
+   {
+    "id": "ORC-JRSIOS6CR5",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "doi:10.1016/j.jallcom.2008.10.030",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-IB6I5BULNQ",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "doi:10.1016/j.jallcom.2008.10.030"
+   },
+   {
+    "id": "ORC-F2ZBI4VUKJ",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "doi:10.1016/j.jallcom.2008.10.030",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2008.10.030",
+   "doi:10.1007/s10853-018-1999-8"
+  ],
+  "dois": [
+   "10.1007/s10853-018-1999-8",
+   "10.1016/j.jallcom.2008.10.030"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "components": [
+  "AG",
+  "SE"
+ ],
+ "phases": [
+  "FCC_A1",
+  "ION"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1163
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ION",
+    [
+     "SE"
+    ],
+    [
+     0.12
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ION",
+    [
+     "SE"
+    ],
+    [
+     0.313
+    ]
+   ]
+  ]
+ ],
+ "reference": "1915, G. Pellini, Le combinazioni del selenio con l’argento, Gazz. Chim. Ital., 1915, 45, p 533-539",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-J75BIA26YR",
+ "bibtex": "pellini1915_5e9849",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-J75BIA26YR",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "ref:aff1b51cd58798ab"
+   }
+  ],
+  "papers": [
+   "ref:aff1b51cd58798ab",
+   "doi:10.1007/s11669-018-0683-7"
+  ],
+  "dois": [
+   "10.1007/s11669-018-0683-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgSe-18Li/zpf-10.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

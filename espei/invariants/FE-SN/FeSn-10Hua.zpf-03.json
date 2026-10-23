@@ -1,0 +1,370 @@
+{
+ "components": [
+  "FE",
+  "SN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BCT_A5",
+  "FE3SN2",
+  "FE5SN3_B82",
+  "FESN2_C16",
+  "FESN_B35",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1183.15,
+   1079.15,
+   1055.15,
+   1043.15,
+   880.15,
+   786.15,
+   505.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE5SN3_B82",
+    [
+     "SN"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "FE5SN3_B82",
+    [
+     "SN"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE3SN2",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.3875
+    ]
+   ]
+  ],
+  [
+   [
+    "FE5SN3_B82",
+    [
+     "SN"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE3SN2",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.3875
+    ]
+   ]
+  ],
+  [
+   [
+    "FE3SN2",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FESN_B35",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.45
+    ]
+   ]
+  ],
+  [
+   [
+    "FE3SN2",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FESN_B35",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.45
+    ]
+   ]
+  ],
+  [
+   [
+    "FESN_B35",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FESN2_C16",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.5833333334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FESN2_C16",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1974, Treheux D, Guiraldenq P. Determination of solubility limits in alpha and gamma iron phases. Mem Sci Rev Met 1974;71:289.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4GTLOLVA76 ORC-LMRCRHGGOB ORC-GQDZ6UGI5H ORC-XTHJQ5TZN6 ORC-VWBQDEGXSV ORC-IO63HJ52E5 ORC-O5NN6EYMCY",
+ "bibtex": "treheux1974_81c45f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4GTLOLVA76",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:d851e8b226a2bc00"
+   },
+   {
+    "id": "ORC-LMRCRHGGOB",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:d851e8b226a2bc00"
+   },
+   {
+    "id": "ORC-GQDZ6UGI5H",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:d851e8b226a2bc00"
+   },
+   {
+    "id": "ORC-XTHJQ5TZN6",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:d851e8b226a2bc00"
+   },
+   {
+    "id": "ORC-VWBQDEGXSV",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:d851e8b226a2bc00"
+   },
+   {
+    "id": "ORC-IO63HJ52E5",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:d851e8b226a2bc00"
+   },
+   {
+    "id": "ORC-O5NN6EYMCY",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:d851e8b226a2bc00"
+   }
+  ],
+  "papers": [
+   "ref:d851e8b226a2bc00",
+   "doi:10.1016/j.intermet.2010.01.026"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2010.01.026"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeSn-10Hua/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

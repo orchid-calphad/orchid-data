@@ -1,0 +1,98 @@
+{
+ "components": [
+  "NB",
+  "SN"
+ ],
+ "phases": [
+  "LIQUID",
+  "NB6SN5",
+  "NBSN2_CB"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1093.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NBSN2_CB",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "NB6SN5",
+    [
+     "SN"
+    ],
+    [
+     0.45454545454545453
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.560606061
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [64Ell] of doi:10-1361-105497198770341978 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3QE72RQ23E",
+ "bibtex": "referencend_a9f5f4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3QE72RQ23E",
+    "paper": "doi:10.1361/105497198770341978",
+    "measured_in": "unresolved:source:doi:10-1361-105497198770341978#64ell"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1361-105497198770341978#64ell",
+   "doi:10.1361/105497198770341978"
+  ],
+  "dois": [
+   "10.1361/105497198770341978"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbSn-98Tof/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

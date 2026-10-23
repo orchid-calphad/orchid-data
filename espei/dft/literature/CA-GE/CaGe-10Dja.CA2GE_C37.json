@@ -1,0 +1,113 @@
+{
+ "components": [
+  "CA",
+  "GE"
+ ],
+ "phases": [
+  "CA2GE_C37"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CA",
+    "GE"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -58900.0
+   ]
+  ]
+ ],
+ "reference": "Djaballah 2010, doi:10.1016/j.jallcom.2010.02.189",
+ "bibtex": "djaballah2010_82bd45",
+ "weight": [
+  0.069735
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB CaGe-10Dja.tdb (sha256 cb8f461fa9247dd95d26913b91736503e7ccb96dfcb54222eba9e42e0c08a7c5), phase CA2GE_C37. Ids, in value order: ORC-4J47CMHRZC.770a03. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "CaGe-10Dja.tdb",
+   "path": "databases/sgte-binary/CaGe-10Dja.tdb",
+   "sha256": "cb8f461fa9247dd95d26913b91736503e7ccb96dfcb54222eba9e42e0c08a7c5",
+   "phase": "CA2GE_C37"
+  },
+  "registry_phase": "phase:ca-ge:ca2ge-c37",
+  "mapping": [
+   {
+    "id": "ORC-4J47CMHRZC.770a03",
+    "compound": "Ca2Ge",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2010.02.189"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2010.02.189"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 7170.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CA-GE",
+     "n": 97,
+     "sigma_robust_kJ": 7.17,
+     "bias_median_kJ_not_applied": 0.302,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.069735,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -58.9,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-4J47CMHRZC.770a03",
+    "compound": "Ca2Ge"
+   }
+  ]
+ }
+}

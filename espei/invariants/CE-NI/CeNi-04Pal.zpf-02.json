@@ -1,0 +1,252 @@
+{
+ "components": [
+  "CE",
+  "NI"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "CE2NI7",
+  "CE7NI3_D102",
+  "CENI3",
+  "CENI5_D2D",
+  "CENI_B33",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   762,
+   928,
+   1103,
+   1338,
+   1478
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.344
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.55
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.62
+    ]
+   ],
+   [
+    "CENI3",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.72
+    ]
+   ],
+   [
+    "CENI5_D2D",
+    [
+     "NI"
+    ],
+    [
+     0.8333333333333334
+    ]
+   ],
+   [
+    "CE2NI7",
+    [
+     "NI"
+    ],
+    [
+     0.7777777777777778
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.91
+    ]
+   ],
+   [
+    "CENI5_D2D",
+    [
+     "NI"
+    ],
+    [
+     0.8333333333333334
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1967, Gebhart IIIJM, Etter DE, Tucker PA. Proceedings of the Sixth R.E. Research Conference, May 3 –5. Ames, IA: Rare Earth Information Centre; 1967. p. 452–7.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-76XIL5VD73 ORC-MKMZRD7RCH ORC-YGJQUBW5R4 ORC-GP3HAZQM7B ORC-63NPGF36XY",
+ "bibtex": "gebhart1967_28830c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-76XIL5VD73",
+    "paper": "doi:10.1016/j.intermet.2004.04.035",
+    "measured_in": "ref:2192a7dedaa5aa47"
+   },
+   {
+    "id": "ORC-MKMZRD7RCH",
+    "paper": "doi:10.1016/j.intermet.2004.04.035",
+    "measured_in": "ref:2192a7dedaa5aa47"
+   },
+   {
+    "id": "ORC-YGJQUBW5R4",
+    "paper": "doi:10.1016/j.intermet.2004.04.035",
+    "measured_in": "ref:2192a7dedaa5aa47"
+   },
+   {
+    "id": "ORC-GP3HAZQM7B",
+    "paper": "doi:10.1016/j.intermet.2004.04.035",
+    "measured_in": "ref:2192a7dedaa5aa47"
+   },
+   {
+    "id": "ORC-63NPGF36XY",
+    "paper": "doi:10.1016/j.intermet.2004.04.035",
+    "measured_in": "ref:2192a7dedaa5aa47",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:2192a7dedaa5aa47",
+   "doi:10.1016/j.intermet.2004.04.035"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2004.04.035"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeNi-04Pal/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "components": [
+  "BI",
+  "ER",
+  "TE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_ER": [
+   0.5
+  ],
+  "X_TE": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -157000.0
+   ]
+  ]
+ ],
+ "reference": "Bennoui 2022, doi:10.1007/s11669-022-00947-8",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RAENSKTS3C",
+ "reference_states": {
+  "BI": {
+   "phase": "RHOMBOHEDRAL_A7"
+  },
+  "ER": {
+   "phase": "HCP_A3"
+  },
+  "TE": {
+   "phase": "HEXAGONAL_A8"
+  }
+ },
+ "weight": 0.008333,
+ "bibtex": "bennoui2022_12e58b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RAENSKTS3C",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-022-00947-8"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-022-00947-8"
+  ],
+  "dois": [
+   "10.1007/s11669-022-00947-8"
+  ],
+  "source_dataset": "db-v2.1/general/espei/no-model-BI-ER-TE/hmr-10.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 60000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 60.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.008333,
+    "weight_used": 0.008333
+   }
+  ]
+ }
+}

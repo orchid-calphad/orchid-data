@@ -1,0 +1,88 @@
+{
+ "components": [
+  "MN",
+  "ZN"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "MNZN13"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   689.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "MNZN13",
+    [
+     "ZN"
+    ],
+    [
+     0.872
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Siebe 1919, doi:10.1002/zaac.19191080113",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RWDVUBT6BI",
+ "bibtex": "siebe1919_ab7183",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RWDVUBT6BI",
+    "paper": "doi:10.1016/j.jallcom.2020.158484",
+    "measured_in": "doi:10.1002/zaac.19191080113"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/zaac.19191080113",
+   "doi:10.1016/j.jallcom.2020.158484"
+  ],
+  "dois": [
+   "10.1002/zaac.19191080113",
+   "10.1016/j.jallcom.2020.158484"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnZn-21Li/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "components": [
+  "AG",
+  "AL"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CUB_A13",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1053,
+   1000,
+   839,
+   883,
+   728
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.178
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.212
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     0.207
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.33
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.32
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.67
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.42
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.762
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     0.238
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.203
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.235
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.199
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.238
+    ]
+   ],
+   [
+    "CUB_A13",
+    [
+     "AL"
+    ],
+    [
+     0.232
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [69] of doi:10-1016-j-jallcom-2004-04-126 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-243NHKDVGC ORC-QONZXTYQJR ORC-AR6QJ2C7M4 ORC-T5NUSXFWFL ORC-GIZCPPFHRG",
+ "bibtex": "referencend_06f65f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-243NHKDVGC",
+    "paper": "doi:10.1016/j.jallcom.2004.04.126",
+    "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#69"
+   },
+   {
+    "id": "ORC-QONZXTYQJR",
+    "paper": "doi:10.1016/j.jallcom.2004.04.126",
+    "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#69"
+   },
+   {
+    "id": "ORC-AR6QJ2C7M4",
+    "paper": "doi:10.1016/j.jallcom.2004.04.126",
+    "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#69"
+   },
+   {
+    "id": "ORC-T5NUSXFWFL",
+    "paper": "doi:10.1016/j.jallcom.2004.04.126",
+    "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#69"
+   },
+   {
+    "id": "ORC-GIZCPPFHRG",
+    "paper": "doi:10.1016/j.jallcom.2004.04.126",
+    "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#69"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#69",
+   "doi:10.1016/j.jallcom.2004.04.126"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2004.04.126"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgAl-04Wit/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

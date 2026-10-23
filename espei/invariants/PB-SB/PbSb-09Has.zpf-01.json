@@ -1,0 +1,87 @@
+{
+ "components": [
+  "PB",
+  "SB"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   525.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.175
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [37] of doi:10-1016-j-jallcom-2008-09-002 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NNKFRRYWUM",
+ "bibtex": "referencend_d120c7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NNKFRRYWUM",
+    "paper": "doi:10.1016/j.jallcom.2008.09.002",
+    "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2008-09-002#37"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1016-j-jallcom-2008-09-002#37",
+   "doi:10.1016/j.jallcom.2008.09.002"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.09.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PbSb-09Has/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

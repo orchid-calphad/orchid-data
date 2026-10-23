@@ -1,0 +1,256 @@
+{
+ "components": [
+  "CO",
+  "TA"
+ ],
+ "phases": [
+  "CO2TA_C14",
+  "CO2TA_C15",
+  "CO2TA_C36",
+  "FCC_A1",
+  "LIQUID",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1843.15,
+   1823.15,
+   1723.15,
+   1563.15,
+   1403.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ],
+   [
+    "CO2TA_C15",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ],
+   [
+    "CO2TA_C14",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO2TA_C14",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO2TA_C15",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "CO2TA_C36",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO2TA_C36",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "CO2TA_C14",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO2TA_C15",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "1972, V.V. Pet’kov, Y.A. Kocherzhinskii, V.Y. Markiv, Investigations of the phase diagram in the system ta-co, Met. Akad. Nauk Ukr. SSR Inst. Met. 41 (1972) 93.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TEG5CESG2T ORC-C4IM367LIM ORC-FPZEIWOW3M ORC-4Q52XHGFK6 ORC-DPPGRG5SH5",
+ "bibtex": "pet1972_504d3a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-TEG5CESG2T",
+    "paper": "doi:10.1016/j.jallcom.2022.166723",
+    "measured_in": "ref:bd5bcaa70b62ff09",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-C4IM367LIM",
+    "paper": "doi:10.1016/j.jallcom.2022.166723",
+    "measured_in": "ref:bd5bcaa70b62ff09"
+   },
+   {
+    "id": "ORC-FPZEIWOW3M",
+    "paper": "doi:10.1016/j.jallcom.2022.166723",
+    "measured_in": "ref:bd5bcaa70b62ff09"
+   },
+   {
+    "id": "ORC-4Q52XHGFK6",
+    "paper": "doi:10.1016/j.jallcom.2022.166723",
+    "measured_in": "ref:bd5bcaa70b62ff09",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-DPPGRG5SH5",
+    "paper": "doi:10.1016/j.jallcom.2022.166723",
+    "measured_in": "ref:bd5bcaa70b62ff09",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:bd5bcaa70b62ff09",
+   "doi:10.1016/j.jallcom.2022.166723"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2022.166723"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoTa-22Wan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

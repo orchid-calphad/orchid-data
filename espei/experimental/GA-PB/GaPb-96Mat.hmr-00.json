@@ -1,0 +1,201 @@
+{
+ "components": [
+  "GA",
+  "PB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 923.0,
+  "X_PB": [
+   0.1,
+   0.2,
+   0.3,
+   0.4,
+   0.5,
+   0.6,
+   0.7,
+   0.8
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    1627.58,
+    2711.23,
+    3296.99,
+    3727.94,
+    3853.46,
+    3778.15,
+    3518.74,
+    3008.3
+   ]
+  ]
+ ],
+ "reference": "Mathon 1996, doi:10.1016/0925-8388(95)02178-7",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QWWWNWEUXZ ORC-GYC2ORGW3N ORC-OPCXQPPIPO ORC-4NTABAP7UK ORC-W7XHKZGMOU ORC-UIFEIFYW4B ORC-ULK7AZ46Z5 ORC-F3LQJJXLOO",
+ "reference_states": {
+  "GA": {
+   "phase": "LIQUID"
+  },
+  "PB": {
+   "phase": "LIQUID"
+  }
+ },
+ "bibtex": "mathon1996_155a25",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QWWWNWEUXZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-GYC2ORGW3N",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-OPCXQPPIPO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-4NTABAP7UK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-W7XHKZGMOU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-UIFEIFYW4B",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-ULK7AZ46Z5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-F3LQJJXLOO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(95)02178-7",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(95)02178-7",
+   "doi:10.1016/0022-5088(71)90093-2"
+  ],
+  "dois": [
+   "10.1016/0022-5088(71)90093-2",
+   "10.1016/0925-8388(95)02178-7"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GaPb-96Mat/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

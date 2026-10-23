@@ -1,0 +1,107 @@
+{
+ "components": [
+  "AL",
+  "FE"
+ ],
+ "phases": [
+  "AL13FE4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_FE": [
+   0.235294,
+   0.235294
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    27.96,
+    27.96
+   ]
+  ]
+ ],
+ "reference": "Ilatovskaia 2023, doi:10.1016/j.jallcom.2022.168361",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-O4GMR2GDCT.86cdc1 ORC-O4GMR2GDCT.86cdc1",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "AlFe-23Ila.tdb",
+   "path": "databases/sgte-binary/AlFe-23Ila.tdb",
+   "sha256": "2210cc1e5240d7500fc61c5b76b62824d379c3651579f2e15d78d23ab5774f10",
+   "catalog_entry": {
+    "name": "AlFe-23Ila.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2022-168361",
+   "doi": "10.1016/j.jallcom.2022.168361",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 936, 168361(2023).",
+    "year": "2023"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "ilatovskaia2023_fc489a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-O4GMR2GDCT.86cdc1",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2022.168361",
+    "measured_in": "doi:10.1016/j.jallcom.2022.168361"
+   },
+   {
+    "id": "ORC-O4GMR2GDCT.86cdc1",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2022.168361",
+    "measured_in": "doi:10.1016/j.jallcom.2022.168361"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2022.168361"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2022.168361"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/AlFe-23Ila/sm-model-07.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,231 @@
+{
+ "components": [
+  "NB",
+  "NI"
+ ],
+ "phases": [
+  "NBNI3_D0A"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "NB",
+    "NI"
+   ],
+   [
+    "NB",
+    "NI"
+   ],
+   [
+    "NB",
+    "NI"
+   ],
+   [
+    "NB",
+    "NI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -33410.0,
+    -28380.0,
+    -28510.0,
+    -31200.0
+   ]
+  ]
+ ],
+ "reference": "Santhy 2015, doi:10.1016/j.jallcom.2014.08.200; Sun 2023, doi:10.1016/j.calphad.2023.102563",
+ "bibtex": "santhy2015_17688d sun2023_9c4283",
+ "weight": [
+  0.117702,
+  0.117702,
+  0.117702,
+  0.117702
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB NbNi-06Che.tdb (sha256 94258649a65e03a5d250abd41c27423733960c75685d97192409edf98371d157), phase NBNI3_D0A. Ids, in value order: ORC-CROOJNHYVK.52c640 ORC-IOGJOZ7AOF.bba44e ORC-IOGJOZ7AOF.caffcc ORC-UWMR7VIUSG.009e3a. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "NbNi-06Che.tdb",
+   "path": "databases/sgte-binary/NbNi-06Che.tdb",
+   "sha256": "94258649a65e03a5d250abd41c27423733960c75685d97192409edf98371d157",
+   "phase": "NBNI3_D0A"
+  },
+  "registry_phase": "phase:nb-ni:nbni3-d0a",
+  "mapping": [
+   {
+    "id": "ORC-CROOJNHYVK.52c640",
+    "compound": "NbNi3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-IOGJOZ7AOF.bba44e",
+    "compound": "NbNi3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-IOGJOZ7AOF.caffcc",
+    "compound": "NbNi3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-UWMR7VIUSG.009e3a",
+    "compound": "NbNi3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.08.200",
+   "doi:10.1016/j.calphad.2023.102563"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2023.102563",
+   "10.1016/j.jallcom.2014.08.200"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 4248.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NB-NI",
+     "n": 81,
+     "sigma_robust_kJ": 4.248,
+     "bias_median_kJ_not_applied": 1.131,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.117702,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -33.41,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-CROOJNHYVK.52c640",
+    "compound": "NbNi3"
+   },
+   {
+    "sigma": 4248.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NB-NI",
+     "n": 81,
+     "sigma_robust_kJ": 4.248,
+     "bias_median_kJ_not_applied": 1.131,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.117702,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -28.38,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-IOGJOZ7AOF.bba44e",
+    "compound": "NbNi3"
+   },
+   {
+    "sigma": 4248.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NB-NI",
+     "n": 81,
+     "sigma_robust_kJ": 4.248,
+     "bias_median_kJ_not_applied": 1.131,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.117702,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -28.51,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-IOGJOZ7AOF.caffcc",
+    "compound": "NbNi3"
+   },
+   {
+    "sigma": 4248.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NB-NI",
+     "n": 81,
+     "sigma_robust_kJ": 4.248,
+     "bias_median_kJ_not_applied": 1.131,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.117702,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -31.2,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-UWMR7VIUSG.009e3a",
+    "compound": "NbNi3"
+   }
+  ]
+ }
+}

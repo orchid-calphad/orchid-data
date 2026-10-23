@@ -1,0 +1,250 @@
+{
+ "components": [
+  "AL",
+  "IR"
+ ],
+ "phases": [
+  "AL13IR4",
+  "AL3IR_D018",
+  "AL5IR2",
+  "AL9IR2",
+  "ALIR_B2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2331.0,
+   2393.0,
+   1723.0,
+   1288.0,
+   923.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "ALIR_B2",
+    [
+     "IR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     0.82
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "ALIR_B2",
+    [
+     "IR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5IR2",
+    [
+     "IR"
+    ],
+    [
+     0.27
+    ]
+   ],
+   [
+    "AL3IR_D018",
+    [
+     "IR"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3IR_D018",
+    [
+     "IR"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AL13IR4",
+    [
+     "IR"
+    ],
+    [
+     0.235294
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IR"
+    ],
+    [
+     0.242647
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IR"
+    ],
+    [
+     0.001
+    ]
+   ],
+   [
+    "AL9IR2",
+    [
+     "IR"
+    ],
+    [
+     0.181818
+    ]
+   ]
+  ]
+ ],
+ "reference": "JIANG 2006, doi:10.1016/j.actamat.2006.03.058",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XJL7RMAZQ3 ORC-CMXPVZJ5ES ORC-2OZR4FNUN5 ORC-CLD4ZCDX4N ORC-JDCGQV3YWW",
+ "bibtex": "jiang2006_eb3817",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XJL7RMAZQ3",
+    "paper": "doi:10.1016/j.actamat.2006.03.058"
+   },
+   {
+    "id": "ORC-CMXPVZJ5ES",
+    "paper": "doi:10.1016/j.actamat.2006.03.058"
+   },
+   {
+    "id": "ORC-2OZR4FNUN5",
+    "paper": "doi:10.1016/j.actamat.2006.03.058"
+   },
+   {
+    "id": "ORC-CLD4ZCDX4N",
+    "paper": "doi:10.1016/j.actamat.2006.03.058"
+   },
+   {
+    "id": "ORC-JDCGQV3YWW",
+    "paper": "doi:10.1016/j.actamat.2006.03.058"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2006.03.058"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2006.03.058"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlIr-06Jia/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

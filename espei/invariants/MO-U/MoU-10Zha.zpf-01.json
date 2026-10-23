@@ -1,0 +1,91 @@
+{
+ "components": [
+  "MO",
+  "U"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1557
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     0.61
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Garg 1977, doi:10.1016/0022-3115(77)90078-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PSK2CNZVFS",
+ "bibtex": "garg1977_c9a463",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PSK2CNZVFS",
+    "paper": "doi:10.1016/j.jnucmat.2010.04.018",
+    "measured_in": "doi:10.1016/0022-3115(77)90078-2",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-3115(77)90078-2",
+   "doi:10.1016/j.jnucmat.2010.04.018"
+  ],
+  "dois": [
+   "10.1016/0022-3115(77)90078-2",
+   "10.1016/j.jnucmat.2010.04.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoU-10Zha/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

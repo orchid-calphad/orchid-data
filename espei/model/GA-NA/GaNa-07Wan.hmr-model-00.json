@@ -1,0 +1,102 @@
+{
+ "components": [
+  "GA",
+  "NA"
+ ],
+ "phases": [
+  "GA4NA_D13",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 723.15,
+  "X_NA": [
+   0.2
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -20100.0
+   ]
+  ]
+ ],
+ "reference": "Wang 2007, doi:10.1016/j.jcrysgro.2007.05.044",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LQ262OVHFT",
+ "reference_states": {
+  "GA": {
+   "phase": "ORTHORHOMBIC_GA"
+  },
+  "NA": {
+   "phase": "BCC_A2"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "GaNa-07Wan.tdb",
+   "path": "databases/sgte-binary/GaNa-07Wan.tdb",
+   "sha256": "be24553ddd1d9c9aea912ad9bdc7ed2aa4206d08f95b9dd78e9ef60c1e28aaf0",
+   "catalog_entry": {
+    "name": "GaNa-07Wan.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jcrysgro-2007-05-044",
+   "doi": "10.1016/j.jcrysgro.2007.05.044",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Wang, W. Yuan, M. Li, J. Crystal Growth, 307, 59-65(2007).",
+    "year": "2007"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "wang2007_0062e8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-LQ262OVHFT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jcrysgro.2007.05.044",
+    "measured_in": "doi:10.1016/j.jcrysgro.2007.05.044"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jcrysgro.2007.05.044"
+  ],
+  "dois": [
+   "10.1016/j.jcrysgro.2007.05.044"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/GaNa-07Wan/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

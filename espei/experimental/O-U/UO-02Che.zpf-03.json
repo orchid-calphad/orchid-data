@@ -1,0 +1,89 @@
+{
+ "components": [
+  "O",
+  "U"
+ ],
+ "phases": [
+  "LIQUID",
+  "UO2_C1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1950.0,
+   1950.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.9438
+    ]
+   ]
+  ],
+  [
+   [
+    "UO2_C1",
+    [
+     "U"
+    ],
+    [
+     0.3391
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chevalier 2002, doi:10.1016/s0022-3115(02)00813-9",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DVI3SPM667 ORC-HKFB36OERH",
+ "bibtex": "chevalier2002_e9ce6d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DVI3SPM667",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   },
+   {
+    "id": "ORC-HKFB36OERH",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(02)00813-9"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0022-3115(02)00813-9",
+   "doi:10.1016/0022-3115(80)90287-1"
+  ],
+  "dois": [
+   "10.1016/0022-3115(80)90287-1",
+   "10.1016/s0022-3115(02)00813-9"
+  ],
+  "source_dataset": "db-v2.1/general/espei/UO-02Che/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

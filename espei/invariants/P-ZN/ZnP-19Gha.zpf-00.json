@@ -1,0 +1,77 @@
+{
+ "components": [
+  "P",
+  "ZN"
+ ],
+ "phases": [
+  "ZN3P2_HT",
+  "ZN3P2_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1118.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ZN3P2_LT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "ZN3P2_HT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ]
+ ],
+ "reference": "1977, C.W. Pistorius, J. Dark, J. Coetzer, G.J. Kruger, O. Kunze, High pressure phase relations and crystal structure determination for zinc phosphide, Zn3 P2 , and cadmium phosphide, Cd3 P2 , High Temp. High Press. 9 (1977) 471–482.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XGOCL4GYNI",
+ "bibtex": "pistorius1977_014d93",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XGOCL4GYNI",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:15e0a1697f4a2f10"
+   }
+  ],
+  "papers": [
+   "ref:15e0a1697f4a2f10",
+   "doi:10.1016/j.mtla.2019.100301"
+  ],
+  "dois": [
+   "10.1016/j.mtla.2019.100301"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ZnP-19Gha/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

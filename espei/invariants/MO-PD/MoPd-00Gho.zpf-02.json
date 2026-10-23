@@ -1,0 +1,90 @@
+{
+ "components": [
+  "MO",
+  "PD"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1643
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "PD"
+    ],
+    [
+     0.5344
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "PD"
+    ],
+    [
+     0.1367
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.7
+    ]
+   ]
+  ]
+ ],
+ "reference": "1964, E.M. Savitskii, M.A. Tylkina, and O.K. Khadimov: Russ. J. Inorg. Chem., Vol 9, 1964, p 1475-77.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-435YRFR4UJ",
+ "bibtex": "savitskii1964_bf756c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-435YRFR4UJ",
+    "paper": "doi:10.1361/105497100770340390",
+    "measured_in": "ref:1f8d9d912310f4bc",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:1f8d9d912310f4bc",
+   "doi:10.1361/105497100770340390"
+  ],
+  "dois": [
+   "10.1361/105497100770340390"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoPd-00Gho/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

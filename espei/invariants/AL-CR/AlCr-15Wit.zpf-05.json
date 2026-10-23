@@ -1,0 +1,77 @@
+{
+ "components": [
+  "AL",
+  "CR"
+ ],
+ "phases": [
+  "AL8CR5_D810",
+  "ALCR2_C11B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   627.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ALCR2_C11B",
+    [
+     "CR"
+    ],
+    [
+     0.64
+    ]
+   ],
+   [
+    "AL8CR5_D810",
+    [
+     "CR"
+    ],
+    [
+     0.384615
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2015, doi:10.1016/j.jallcom.2015.04.231",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UM4PYKCTNI",
+ "bibtex": "witusiewicz2015_916489",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UM4PYKCTNI",
+    "paper": "doi:10.1016/j.jallcom.2015.04.231"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2015.04.231"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2015.04.231"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlCr-15Wit/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

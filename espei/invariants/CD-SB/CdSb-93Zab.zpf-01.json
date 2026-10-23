@@ -1,0 +1,157 @@
+{
+ "components": [
+  "CD",
+  "SB"
+ ],
+ "phases": [
+  "CDSB_BE",
+  "HCP_A3",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   563.15,
+   729.15,
+   718.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.07
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CDSB_BE",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CDSB_BE",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.5700000000000001
+    ]
+   ],
+   [
+    "CDSB_BE",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     0.9984999999999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [10] of doi:10-1016-0364-5916-93-90012-z (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-B6TEHIRD5C ORC-LNZTXOUTF3 ORC-224FEW55PK",
+ "bibtex": "referencend_c59dbf",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-B6TEHIRD5C",
+    "paper": "doi:10.1016/0364-5916(93)90012-z",
+    "measured_in": "unresolved:source:doi:10-1016-0364-5916-93-90012-z#10"
+   },
+   {
+    "id": "ORC-LNZTXOUTF3",
+    "paper": "doi:10.1016/0364-5916(93)90012-z",
+    "measured_in": "unresolved:source:doi:10-1016-0364-5916-93-90012-z#10"
+   },
+   {
+    "id": "ORC-224FEW55PK",
+    "paper": "doi:10.1016/0364-5916(93)90012-z",
+    "measured_in": "unresolved:source:doi:10-1016-0364-5916-93-90012-z#10"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1016-0364-5916-93-90012-z#10",
+   "doi:10.1016/0364-5916(93)90012-z"
+  ],
+  "dois": [
+   "10.1016/0364-5916(93)90012-z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CdSb-93Zab/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

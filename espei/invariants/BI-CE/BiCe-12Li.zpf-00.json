@@ -1,0 +1,176 @@
+{
+ "components": [
+  "BI",
+  "CE"
+ ],
+ "phases": [
+  "BI2CE",
+  "BI3CE4_D73",
+  "BICE_B1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1183,
+   1903,
+   2013
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BICE_B1",
+    [
+     "CE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BI2CE",
+    [
+     "CE"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.4166666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BI3CE4_D73",
+    [
+     "CE"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ],
+   [
+    "BICE_B1",
+    [
+     "CE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CE"
+    ],
+    [
+     0.5357142855
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ],
+   [
+    "BI3CE4_D73",
+    [
+     "CE"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ]
+  ]
+ ],
+ "reference": "Vogel 1913, doi:10.1002/zaac.19130840125",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AENRE4JN2R ORC-UNPRGPY63A ORC-5YCDJ3CGAU",
+ "bibtex": "vogel1913_43f55c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AENRE4JN2R",
+    "paper": "doi:10.1016/j.calphad.2012.05.004",
+    "measured_in": "doi:10.1002/zaac.19130840125"
+   },
+   {
+    "id": "ORC-UNPRGPY63A",
+    "paper": "doi:10.1016/j.calphad.2012.05.004",
+    "measured_in": "doi:10.1002/zaac.19130840125"
+   },
+   {
+    "id": "ORC-5YCDJ3CGAU",
+    "paper": "doi:10.1016/j.calphad.2012.05.004",
+    "measured_in": "doi:10.1002/zaac.19130840125"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/zaac.19130840125",
+   "doi:10.1016/j.calphad.2012.05.004"
+  ],
+  "dois": [
+   "10.1002/zaac.19130840125",
+   "10.1016/j.calphad.2012.05.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiCe-12Li/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

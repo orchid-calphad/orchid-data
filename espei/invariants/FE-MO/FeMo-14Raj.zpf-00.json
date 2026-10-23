@@ -1,0 +1,87 @@
+{
+ "components": [
+  "FE",
+  "MO"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1883
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.394
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.752
+    ]
+   ],
+   [
+    "SIGMA_D8B",
+    [
+     "MO"
+    ],
+    [
+     0.542
+    ]
+   ]
+  ]
+ ],
+ "reference": "1979, Y. Ueshima, E. Ichise, T. Mori, Study on Fe–Mo phase diagram at steel production temperature (1550 \u0003 C), J. Iron Steel Inst. Jpn. 65 (11) (1979) S684.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X354C5P6EJ",
+ "bibtex": "ueshima1979_cd5d43",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-X354C5P6EJ",
+    "paper": "doi:10.1016/j.jallcom.2014.05.030",
+    "measured_in": "ref:05f26e2917e9fc00"
+   }
+  ],
+  "papers": [
+   "ref:05f26e2917e9fc00",
+   "doi:10.1016/j.jallcom.2014.05.030"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.05.030"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeMo-14Raj/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

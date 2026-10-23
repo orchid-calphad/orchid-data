@@ -1,0 +1,188 @@
+{
+ "components": [
+  "FE",
+  "PD"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "FEPD3_L12",
+  "FEPD_L10"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   873.0,
+   1033.0,
+   1063.0,
+   1093.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.43
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "PD"
+    ],
+    [
+     0.0087
+    ]
+   ],
+   [
+    "FEPD_L10",
+    [
+     "PD"
+    ],
+    [
+     0.4696
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.615
+    ]
+   ],
+   [
+    "FEPD_L10",
+    [
+     "PD"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FEPD3_L12",
+    [
+     "PD"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FEPD_L10",
+    [
+     "PD"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "FEPD3_L12",
+    [
+     "PD"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "Ghosh 1999, doi:10.1361/105497199770335811",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C3OOUTKWPA ORC-FJYHILTBJX ORC-2COTFPPHZM ORC-5GMYE4IL6R",
+ "bibtex": "ghosh1999_dbf4f6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-C3OOUTKWPA",
+    "paper": "doi:10.1361/105497199770335811"
+   },
+   {
+    "id": "ORC-FJYHILTBJX",
+    "paper": "doi:10.1361/105497199770335811"
+   },
+   {
+    "id": "ORC-2COTFPPHZM",
+    "paper": "doi:10.1361/105497199770335811"
+   },
+   {
+    "id": "ORC-5GMYE4IL6R",
+    "paper": "doi:10.1361/105497199770335811"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497199770335811"
+  ],
+  "dois": [
+   "10.1361/105497199770335811"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FePd-99Gho-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 30.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

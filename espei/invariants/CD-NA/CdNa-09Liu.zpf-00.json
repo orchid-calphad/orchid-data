@@ -1,0 +1,188 @@
+{
+ "components": [
+  "CD",
+  "NA"
+ ],
+ "phases": [
+  "CD11NA2_D8C",
+  "CD2NA",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   558.0,
+   633.0,
+   619.0,
+   658.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.055
+    ]
+   ],
+   [
+    "CD11NA2_D8C",
+    [
+     "NA"
+    ],
+    [
+     0.153846
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.153846
+    ]
+   ],
+   [
+    "CD11NA2_D8C",
+    [
+     "NA"
+    ],
+    [
+     0.153846
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "CD11NA2_D8C",
+    [
+     "NA"
+    ],
+    [
+     0.153846
+    ]
+   ],
+   [
+    "CD2NA",
+    [
+     "NA"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "CD2NA",
+    [
+     "NA"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mathewson 1906, doi:10.1002/zaac.19060500118",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HYW35CRJZD ORC-U5Y27NDFIC ORC-7QSXOVM625 ORC-O2XQZOWEOO",
+ "bibtex": "mathewson1906_724eee",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HYW35CRJZD",
+    "paper": "doi:10.1016/j.jallcom.2008.05.106",
+    "measured_in": "doi:10.1002/zaac.19060500118"
+   },
+   {
+    "id": "ORC-U5Y27NDFIC",
+    "paper": "doi:10.1016/j.jallcom.2008.05.106",
+    "measured_in": "doi:10.1002/zaac.19060500118"
+   },
+   {
+    "id": "ORC-7QSXOVM625",
+    "paper": "doi:10.1016/j.jallcom.2008.05.106",
+    "measured_in": "doi:10.1002/zaac.19060500118"
+   },
+   {
+    "id": "ORC-O2XQZOWEOO",
+    "paper": "doi:10.1016/j.jallcom.2008.05.106",
+    "measured_in": "doi:10.1002/zaac.19060500118"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/zaac.19060500118",
+   "doi:10.1016/j.jallcom.2008.05.106"
+  ],
+  "dois": [
+   "10.1002/zaac.19060500118",
+   "10.1016/j.jallcom.2008.05.106"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CdNa-09Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

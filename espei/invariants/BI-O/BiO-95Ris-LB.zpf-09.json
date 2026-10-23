@@ -1,0 +1,87 @@
+{
+ "components": [
+  "BI",
+  "O"
+ ],
+ "phases": [
+  "BI2O3_ALPHA",
+  "BI2O3_C1",
+  "ION"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1003
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BI2O3_C1",
+    [
+     "O"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BI2O3_ALPHA",
+    [
+     "O"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "ION",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1976, A.V. Korobeinikova, V.A. Kholmov, and L.A. Rezmitskii, Vest. Mosk. Univ. Khim., 17(3), 381 (1976) in Russian.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JXB7BQPI6N",
+ "bibtex": "korobeinikova1976_74b990",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JXB7BQPI6N",
+    "paper": "doi:10.1007/bf02667306",
+    "measured_in": "ref:12953a0bceeea084"
+   }
+  ],
+  "papers": [
+   "ref:12953a0bceeea084",
+   "doi:10.1007/bf02667306"
+  ],
+  "dois": [
+   "10.1007/bf02667306"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-09.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

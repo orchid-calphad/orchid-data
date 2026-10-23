@@ -1,0 +1,242 @@
+{
+ "components": [
+  "AL",
+  "ZR"
+ ],
+ "phases": [
+  "AL2ZR_C14",
+  "AL3ZR2",
+  "AL3ZR4",
+  "AL3ZR_D023",
+  "AL4ZR5",
+  "ALZR_B33",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1773,
+   1918,
+   1758,
+   1523,
+   1803
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.265
+    ]
+   ],
+   [
+    "AL3ZR_D023",
+    [
+     "ZR"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AL2ZR_C14",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "AL2ZR_C14",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AL3ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "AL4ZR5",
+    [
+     "ZR"
+    ],
+    [
+     0.5555555555555556
+    ]
+   ]
+  ],
+  [
+   [
+    "AL3ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "AL4ZR5",
+    [
+     "ZR"
+    ],
+    [
+     0.5555555555555556
+    ]
+   ],
+   [
+    "ALZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.4851851853333333
+    ]
+   ]
+  ],
+  [
+   [
+    "AL3ZR4",
+    [
+     "ZR"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ]
+  ]
+ ],
+ "reference": "1954, D.J. McPherson and M. Hansen, The System Zr-Al, Trans. ASM, 1954, 46, p 354-374",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5QWFXU7OI3 ORC-3ZZXAIW6MV ORC-WU2EWE4DHR ORC-T5J4MS54UM ORC-JG24KR55T7",
+ "bibtex": "mcpherson1954_a3dc24",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5QWFXU7OI3",
+    "paper": "doi:10.1007/s11669-015-0398-y",
+    "measured_in": "ref:984c8b9e2d43dc30",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-3ZZXAIW6MV",
+    "paper": "doi:10.1007/s11669-015-0398-y",
+    "measured_in": "ref:984c8b9e2d43dc30"
+   },
+   {
+    "id": "ORC-WU2EWE4DHR",
+    "paper": "doi:10.1007/s11669-015-0398-y",
+    "measured_in": "ref:984c8b9e2d43dc30"
+   },
+   {
+    "id": "ORC-T5J4MS54UM",
+    "paper": "doi:10.1007/s11669-015-0398-y",
+    "measured_in": "ref:984c8b9e2d43dc30"
+   },
+   {
+    "id": "ORC-JG24KR55T7",
+    "paper": "doi:10.1007/s11669-015-0398-y",
+    "measured_in": "ref:984c8b9e2d43dc30"
+   }
+  ],
+  "papers": [
+   "ref:984c8b9e2d43dc30",
+   "doi:10.1007/s11669-015-0398-y"
+  ],
+  "dois": [
+   "10.1007/s11669-015-0398-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlZr-15Fis/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

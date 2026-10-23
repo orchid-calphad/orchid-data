@@ -1,0 +1,116 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1823.0,
+  "X_ZR": [
+   0.85,
+   0.85
+  ]
+ },
+ "output": "ACR_ZR",
+ "values": [
+  [
+   [
+    0.85,
+    0.85
+   ]
+  ]
+ ],
+ "reference": "Wang 2006, doi:10.1016/j.calphad.2006.06.002",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-53NFUIBR57.c4014e ORC-53NFUIBR57.f6ac53",
+ "reference_state": {
+  "phases": [
+   "HCP_A3"
+  ],
+  "conditions": {
+   "P": 101325,
+   "T": 1823.0,
+   "X_ZR": 1.0
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CuZr-06Wan.tdb",
+   "path": "databases/sgte-binary/CuZr-06Wan.tdb",
+   "sha256": "0b76f1913f8d39fa69f11add8eae6284fd94558fd75693cfa7835c75204896d4",
+   "catalog_entry": {
+    "name": "CuZr-06Wan.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2006-06-002",
+   "doi": "10.1016/j.calphad.2006.06.002",
+   "citation": {
+    "authors": "see doi",
+    "title": "N. Wang, C. Li, Z. Du, F. Wang, W. Zhang, Calphad, 30, 461-69(2006).",
+    "year": "2006"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "wang2006_b1921d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-53NFUIBR57.c4014e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2006.06.002",
+    "measured_in": "doi:10.1016/j.calphad.2006.06.002"
+   },
+   {
+    "id": "ORC-53NFUIBR57.f6ac53",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2006.06.002",
+    "measured_in": "doi:10.1016/j.calphad.2006.06.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2006.06.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2006.06.002"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CuZr-06Wan/acr_zr-model-31.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "1 (activity)",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_ACR = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

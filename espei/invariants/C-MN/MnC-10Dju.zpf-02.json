@@ -1,0 +1,96 @@
+{
+ "components": [
+  "C",
+  "MN"
+ ],
+ "phases": [
+  "CEMENTITE_D011",
+  "M23C6_D84",
+  "M5C2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1240.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CEMENTITE_D011",
+    [
+     "MN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "M5C2",
+    [
+     "MN"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "MN"
+    ],
+    [
+     0.793103
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.752463
+    ]
+   ]
+  ]
+ ],
+ "reference": "Djurovic 2010, doi:10.1016/j.calphad.2010.05.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-F6IHGWFUDC",
+ "bibtex": "djurovic2010_7636ec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-F6IHGWFUDC",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.05.002",
+   "doi:10.1023/b:dopc.0000025219.06217.03"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2010.05.002",
+   "10.1023/b:dopc.0000025219.06217.03"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnC-10Dju/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

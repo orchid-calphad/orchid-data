@@ -1,0 +1,88 @@
+{
+ "components": [
+  "EU",
+  "PD"
+ ],
+ "phases": [
+  "EUPD5",
+  "EUPD7",
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   850
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "EUPD5",
+    [
+     "PD"
+    ],
+    [
+     0.8333333333333334
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.9
+    ]
+   ],
+   [
+    "EUPD7",
+    [
+     "PD"
+    ],
+    [
+     0.875
+    ]
+   ]
+  ]
+ ],
+ "reference": "Takao 1990, doi:10.1007/bf00585433",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ODCILR6KX4",
+ "bibtex": "takao1990_c373a3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ODCILR6KX4",
+    "paper": "doi:10.1016/s0925-8388(01)01411-6",
+    "measured_in": "doi:10.1007/bf00585433"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf00585433",
+   "doi:10.1016/s0925-8388(01)01411-6"
+  ],
+  "dois": [
+   "10.1007/bf00585433",
+   "10.1016/s0925-8388(01)01411-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/EuPd-01Du-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

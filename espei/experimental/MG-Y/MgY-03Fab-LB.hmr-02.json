@@ -1,0 +1,84 @@
+{
+ "components": [
+  "MG",
+  "Y"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_Y": [
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -17700.0
+   ]
+  ]
+ ],
+ "reference": "Fabrichnaya 2003, doi:10.1016/s0966-9795(03)00156-0",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EVNB6AMIKZ.d885a5",
+ "reference_states": {
+  "MG": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "Y": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "fabrichnaya2003_ed7b73",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EVNB6AMIKZ.d885a5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0966-9795(03)00156-0"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0966-9795(03)00156-0",
+   "doi:10.1016/0925-8388(95)01927-8"
+  ],
+  "dois": [
+   "10.1016/0925-8388(95)01927-8",
+   "10.1016/s0966-9795(03)00156-0"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MgY-03Fab-LB/hmr-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

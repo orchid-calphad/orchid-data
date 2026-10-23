@@ -1,0 +1,85 @@
+{
+ "components": [
+  "CA",
+  "PB"
+ ],
+ "phases": [
+  "CAPB3_L12",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   601.9
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.9964
+    ]
+   ],
+   [
+    "CAPB3_L12",
+    [
+     "PB"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     0.9949
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cartigny 2004, doi:10.1016/j.tca.2004.01.001",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CIRCG3VOUE",
+ "bibtex": "cartigny2004_7eac93",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CIRCG3VOUE",
+    "paper": "doi:10.1016/j.tca.2004.01.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2004.01.001"
+  ],
+  "dois": [
+   "10.1016/j.tca.2004.01.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CaPb-04Car/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

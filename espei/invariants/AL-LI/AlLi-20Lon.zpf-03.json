@@ -1,0 +1,117 @@
+{
+ "components": [
+  "AL",
+  "LI"
+ ],
+ "phases": [
+  "BCC_4SL",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   970,
+   875
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "BCC_4SL",
+    [
+     "LI"
+    ],
+    [
+     0.49
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.252
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     0.138
+    ]
+   ],
+   [
+    "BCC_4SL",
+    [
+     "LI"
+    ],
+    [
+     0.47500000000000003
+    ]
+   ]
+  ]
+ ],
+ "reference": "1981, E. Schürmann and H.J. Voss, Investigation of the Melting Equilibria of Mg-Li-Al Alloys, Giessereiforschung, 1981, 33, p 33",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7D74SQUJ54 ORC-5QBASPWCER",
+ "bibtex": "schu1981_fc0f33",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7D74SQUJ54",
+    "paper": "doi:10.1007/s11669-020-00827-z",
+    "measured_in": "ref:c1884defdae4ec20"
+   },
+   {
+    "id": "ORC-5QBASPWCER",
+    "paper": "doi:10.1007/s11669-020-00827-z",
+    "measured_in": "ref:c1884defdae4ec20"
+   }
+  ],
+  "papers": [
+   "ref:c1884defdae4ec20",
+   "doi:10.1007/s11669-020-00827-z"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00827-z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlLi-20Lon/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

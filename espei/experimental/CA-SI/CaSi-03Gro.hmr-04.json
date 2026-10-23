@@ -1,0 +1,100 @@
+{
+ "components": [
+  "CA",
+  "SI"
+ ],
+ "phases": [
+  "CASI2_C12",
+  "CASI_B33",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SI": [
+   0.5,
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -46000.0,
+    -36700.0
+   ]
+  ]
+ ],
+ "reference": "Gröbner 2003, doi:10.1016/j.intermet.2003.07.001",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GKI2CB5HSS.8d0d88 ORC-GKI2CB5HSS.528a27",
+ "reference_states": {
+  "CA": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "grobner2003_8346f8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GKI2CB5HSS.8d0d88",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2003.07.001"
+   },
+   {
+    "id": "ORC-GKI2CB5HSS.528a27",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2003.07.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2003.07.001",
+   "doi:10.1007/bf02664227"
+  ],
+  "dois": [
+   "10.1007/bf02664227",
+   "10.1016/j.intermet.2003.07.001"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CaSi-03Gro/hmr-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "components": [
+  "NI",
+  "ZR"
+ ],
+ "phases": [
+  "NI10ZR7",
+  "NI11ZR9",
+  "NIZR_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1206.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NI11ZR9",
+    [
+     "ZR"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.4539216666666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Jana 2020, doi:10.1016/j.intermet.2019.106640",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-L6VWEUPAQ5",
+ "bibtex": "jana2020_bdc191",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-L6VWEUPAQ5",
+    "paper": "doi:10.1016/j.intermet.2019.106640"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2019.106640",
+   "doi:10.1016/j.jallcom.2018.04.019"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2019.106640",
+   "10.1016/j.jallcom.2018.04.019"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZr-20Jan/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

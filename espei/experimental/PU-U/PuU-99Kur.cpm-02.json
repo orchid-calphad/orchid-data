@@ -1,0 +1,82 @@
+{
+ "components": [
+  "PU",
+  "U"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 840.0,
+  "X_U": [
+   0.9,
+   0.9
+  ]
+ },
+ "output": "CPM",
+ "values": [
+  [
+   [
+    44.5,
+    44.5
+   ]
+  ]
+ ],
+ "reference": "Kurata 1999, doi:10.1016/s0364-5916(00)00004-3",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KSXPAH2RSB.96e5b4 ORC-KSXPAH2RSB.4db829",
+ "bibtex": "kurata1999_03222c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KSXPAH2RSB.96e5b4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0364-5916(00)00004-3"
+   },
+   {
+    "id": "ORC-KSXPAH2RSB.4db829",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0364-5916(00)00004-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0364-5916(00)00004-3"
+  ],
+  "dois": [
+   "10.1016/s0364-5916(00)00004-3"
+  ],
+  "source_dataset": "db-v2.1/general/espei/PuU-99Kur/cpm-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_CPM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

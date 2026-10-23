@@ -1,0 +1,157 @@
+{
+ "components": [
+  "HG",
+  "TE"
+ ],
+ "phases": [
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "RHOMBO_A10",
+  "ZINCBLENDE_B3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   233,
+   943,
+   684
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "RHOMBO_A10",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZINCBLENDE_B3",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "ZINCBLENDE_B3",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "ZINCBLENDE_B3",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1986, T.B. Massalski, J.L. Murray, L.H. Bennet, H. Baker, in: T.B. Massalski (Ed.), Binary Alloy Phase Diagrams, American Society for Metals, Metals Park, OH, 1986.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QUH6KVSAB4 ORC-WGMFDCVXWT ORC-3WUBYWUD2R",
+ "bibtex": "massalski1986_479f07",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QUH6KVSAB4",
+    "paper": "doi:10.1016/j.jallcom.2010.01.003",
+    "measured_in": "ref:fe2e891ce845be7c"
+   },
+   {
+    "id": "ORC-WGMFDCVXWT",
+    "paper": "doi:10.1016/j.jallcom.2010.01.003",
+    "measured_in": "ref:fe2e891ce845be7c"
+   },
+   {
+    "id": "ORC-3WUBYWUD2R",
+    "paper": "doi:10.1016/j.jallcom.2010.01.003",
+    "measured_in": "ref:fe2e891ce845be7c"
+   }
+  ],
+  "papers": [
+   "ref:fe2e891ce845be7c",
+   "doi:10.1016/j.jallcom.2010.01.003"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2010.01.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HgTe-10Gie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

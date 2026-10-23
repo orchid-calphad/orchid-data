@@ -1,0 +1,107 @@
+{
+ "components": [
+  "B",
+  "ND"
+ ],
+ "phases": [
+  "NDB4_D1E"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   4.0
+  ],
+  "sublattice_configurations": [
+   [
+    "ND",
+    "B"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -54180.66
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.046773
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB NdB-16Zho-corrected.tdb (sha256 cae81a496f38b11baf672c692c03e03d65f243a869a4f0715776789e813528e3), phase NDB4_D1E. Ids, in value order: mp-aaaaacku. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "NdB-16Zho-corrected.tdb",
+   "path": "databases/sgte-binary/NdB-16Zho-corrected.tdb",
+   "sha256": "cae81a496f38b11baf672c692c03e03d65f243a869a4f0715776789e813528e3",
+   "phase": "NDB4_D1E"
+  },
+  "registry_phase": "phase:b-nd:ndb4-d1e",
+  "mapping": [
+   {
+    "id": "mp-aaaaacku",
+    "compound": "NdB4",
+    "basis": "registry DFT name mp:mp-aaaaacku",
+    "space_group": "P4/mbm",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10690.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "polymorph_ambiguous|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "B-ND",
+     "n": 332,
+     "sigma_robust_kJ": 10.69,
+     "bias_median_kJ_not_applied": -1.25,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      9.234,
+      13.55
+     ],
+     "n_full_stratum": 332
+    },
+    "weight_used": 0.046773,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.5615429838333327,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaacku",
+    "compound": "NdB4"
+   }
+  ]
+ }
+}

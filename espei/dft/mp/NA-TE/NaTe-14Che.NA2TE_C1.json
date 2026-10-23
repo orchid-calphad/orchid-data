@@ -1,0 +1,106 @@
+{
+ "components": [
+  "NA",
+  "TE"
+ ],
+ "phases": [
+  "NA2TE_C1"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "NA",
+    "TE"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -103201.44
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.050135
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB NaTe-14Che.tdb (sha256 345a0a074cafc669931dd4287c8fab592be447108b75b5510ce532b185f26c9f), phase NA2TE_C1. Ids, in value order: mp-aaaaaedc. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "NaTe-14Che.tdb",
+   "path": "databases/sgte-binary/NaTe-14Che.tdb",
+   "sha256": "345a0a074cafc669931dd4287c8fab592be447108b75b5510ce532b185f26c9f",
+   "phase": "NA2TE_C1"
+  },
+  "registry_phase": "phase:na-te:na2te-c1",
+  "mapping": [
+   {
+    "id": "mp-aaaaaedc",
+    "compound": "Na2Te",
+    "basis": "registry DFT name mp:mp-aaaaaedc",
+    "space_group": "Fm-3m",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9973.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NA-TE",
+     "n": 145,
+     "sigma_robust_kJ": 9.973,
+     "bias_median_kJ_not_applied": 1.305,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.797,
+      14.08
+     ],
+     "n_full_stratum": 145
+    },
+    "weight_used": 0.050135,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -1.069607549923372,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaaedc",
+    "compound": "Na2Te"
+   }
+  ]
+ }
+}

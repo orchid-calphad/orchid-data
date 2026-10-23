@@ -1,0 +1,351 @@
+{
+ "components": [
+  "PT",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "FCC_A1",
+  "LIQUID",
+  "PT2SN3",
+  "PT3SN_L12",
+  "PTSN2_C1",
+  "PTSN4_D1C",
+  "PTSN_B81"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1638,
+   1693,
+   1343,
+   1578,
+   1121,
+   1018,
+   795,
+   501
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PT3SN_L12",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "PT3SN_L12",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "PT3SN_L12",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "PTSN_B81",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.485
+    ]
+   ],
+   [
+    "PTSN_B81",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "PTSN_B81",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "PT2SN3",
+    [
+     "SN"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.81
+    ]
+   ],
+   [
+    "PT2SN3",
+    [
+     "SN"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "PTSN2_C1",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.95
+    ]
+   ],
+   [
+    "PTSN2_C1",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "PTSN4_D1C",
+    [
+     "SN"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.995
+    ]
+   ],
+   [
+    "PTSN4_D1C",
+    [
+     "SN"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, H. Hansen, K. Anderko, in: T.B. Massalski, P.R. Subramanian, H. Okamoto, L. Kacprzak (Eds.), Binary Alloy Phase Diagrams, ASM International, Metals Park, OH, 1990, p. 3130.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6ZSBO5TL5N ORC-Q5SKXPCIN4 ORC-CL5B5I7UPV ORC-AXDKOUKTM2 ORC-VNL57WUB7R ORC-WJXARBRZ3R ORC-YBQVIRX6PH ORC-NVNJ5QHGL2",
+ "bibtex": "hansen1990_481b9c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6ZSBO5TL5N",
+    "paper": "doi:10.1016/s0925-8388(01)01201-4",
+    "measured_in": "ref:55d15536541186c6"
+   },
+   {
+    "id": "ORC-Q5SKXPCIN4",
+    "paper": "doi:10.1016/s0925-8388(01)01201-4",
+    "measured_in": "ref:55d15536541186c6"
+   },
+   {
+    "id": "ORC-CL5B5I7UPV",
+    "paper": "doi:10.1016/s0925-8388(01)01201-4",
+    "measured_in": "ref:55d15536541186c6"
+   },
+   {
+    "id": "ORC-AXDKOUKTM2",
+    "paper": "doi:10.1016/s0925-8388(01)01201-4",
+    "measured_in": "ref:55d15536541186c6"
+   },
+   {
+    "id": "ORC-VNL57WUB7R",
+    "paper": "doi:10.1016/s0925-8388(01)01201-4",
+    "measured_in": "ref:55d15536541186c6",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-WJXARBRZ3R",
+    "paper": "doi:10.1016/s0925-8388(01)01201-4",
+    "measured_in": "ref:55d15536541186c6"
+   },
+   {
+    "id": "ORC-YBQVIRX6PH",
+    "paper": "doi:10.1016/s0925-8388(01)01201-4",
+    "measured_in": "ref:55d15536541186c6"
+   },
+   {
+    "id": "ORC-NVNJ5QHGL2",
+    "paper": "doi:10.1016/s0925-8388(01)01201-4",
+    "measured_in": "ref:55d15536541186c6"
+   }
+  ],
+  "papers": [
+   "ref:55d15536541186c6",
+   "doi:10.1016/s0925-8388(01)01201-4"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(01)01201-4"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PtSn-01Su/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

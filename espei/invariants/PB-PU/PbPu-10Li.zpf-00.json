@@ -1,0 +1,270 @@
+{
+ "components": [
+  "PB",
+  "PU"
+ ],
+ "phases": [
+  "LIQUID",
+  "PB2PU_ALPHA",
+  "PB2PU_BETA",
+  "PB3PU5_D8M",
+  "PB4PU5",
+  "PB5PU4",
+  "PBPU3_L12"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1169.15,
+   1606.15,
+   1458.15,
+   1402.15,
+   1397.15,
+   1379.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PB3PU5_D8M",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PBPU3_L12",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PB4PU5",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PB3PU5_D8M",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PB4PU5",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PB5PU4",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PB5PU4",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PB2PU_BETA",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PB2PU_BETA",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PBPU3_L12",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "PB2PU_ALPHA",
+    [
+     "PU"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "PB2PU_BETA",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2010, doi:10.1016/j.jnucmat.2010.02.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YKFMGTP4TS ORC-3TRB7YSYFH ORC-H3GELAID4W ORC-SZGSPGH7KB ORC-LOKGXI6343 ORC-FAZY3JM63O",
+ "bibtex": "li2010_dc658d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YKFMGTP4TS",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-3TRB7YSYFH",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-H3GELAID4W",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-SZGSPGH7KB",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-LOKGXI6343",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   },
+   {
+    "id": "ORC-FAZY3JM63O",
+    "paper": "doi:10.1016/j.jnucmat.2010.02.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2010.02.002"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2010.02.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PbPu-10Li/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

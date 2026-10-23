@@ -1,0 +1,494 @@
+{
+ "components": [
+  "EU",
+  "SN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BCT_A5",
+  "EU2SN_C37",
+  "EU3SN5",
+  "EU5SN3_D8M",
+  "EUSN3_L12",
+  "EUSN_B33",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1063,
+   1628,
+   1398,
+   1348,
+   1398,
+   1173,
+   1058,
+   1068,
+   503,
+   1058.0,
+   1063.0,
+   1398.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.05
+    ]
+   ],
+   [
+    "EU2SN_C37",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.3333
+    ]
+   ],
+   [
+    "EU2SN_C37",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.419
+    ]
+   ],
+   [
+    "EU2SN_C37",
+    [
+     "SN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "EU5SN3_D8M",
+    [
+     "SN"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.44
+    ]
+   ],
+   [
+    "EU5SN3_D8M",
+    [
+     "SN"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "EUSN_B33",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "EUSN_B33",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.62
+    ]
+   ],
+   [
+    "EUSN_B33",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "EU3SN5",
+    [
+     "SN"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.73
+    ]
+   ],
+   [
+    "EU3SN5",
+    [
+     "SN"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "EUSN3_L12",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "EUSN3_L12",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.998
+    ]
+   ],
+   [
+    "EUSN3_L12",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "EU3SN5",
+    [
+     "SN"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "EUSN3_L12",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.05
+    ]
+   ],
+   [
+    "EU2SN_C37",
+    [
+     "SN"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "EU2SN_C37",
+    [
+     "SN"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "EU5SN3_D8M",
+    [
+     "SN"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ]
+ ],
+ "reference": "Conclusions All of the experimental phase equilibria and thermodynamic data of the Eu–Sn system from the available literature have been critically evaluated. Within the regime of CALPHAD technique, the thermodynamic models for all the solution phases and the intermetallic compounds are selected and the Gibbs energy functions are optimized. A set of consistent thermodynamic parameters for the Eu–Sn",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CEPWHRVJ22 ORC-PVIOS72G73 ORC-QQH33KY63W ORC-QEXO2TZHTD ORC-AJVUFR4IIW ORC-3UDUKXOCCZ ORC-4IVMMUMMUR ORC-MPJBOVKZW3 ORC-QURZJ6Q4W4 ORC-Q6FGNBJLM5 ORC-P6UTRZVFKY ORC-HEX3VCHY6Z",
+ "bibtex": "conclusionsnd_66a7a7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CEPWHRVJ22",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-PVIOS72G73",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-QQH33KY63W",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-QEXO2TZHTD",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-AJVUFR4IIW",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-3UDUKXOCCZ",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-4IVMMUMMUR",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-MPJBOVKZW3",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-QURZJ6Q4W4",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-Q6FGNBJLM5",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-P6UTRZVFKY",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   },
+   {
+    "id": "ORC-HEX3VCHY6Z",
+    "paper": "doi:10.1016/j.jallcom.2004.02.012",
+    "measured_in": "ref:ac7573e7c99c4c3e"
+   }
+  ],
+  "papers": [
+   "ref:ac7573e7c99c4c3e",
+   "doi:10.1016/j.jallcom.2004.02.012"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2004.02.012"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/EuSn-04Liu-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

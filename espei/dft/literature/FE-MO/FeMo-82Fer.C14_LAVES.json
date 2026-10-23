@@ -1,0 +1,149 @@
+{
+ "components": [
+  "FE",
+  "MO"
+ ],
+ "phases": [
+  "C14_LAVES"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "FE",
+    "MO"
+   ],
+   [
+    "FE",
+    "MO"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -714.0,
+    -1534.0
+   ]
+  ]
+ ],
+ "reference": "Rajkumar 2014, doi:10.1016/j.jallcom.2014.05.030",
+ "bibtex": "rajkumar2014_e10b80",
+ "weight": [
+  0.153704,
+  0.153704
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB FeMo-82Fer.tdb (sha256 f5329b78d65288a2588b2e5a09df824bfc5a1c9874122a799522bcc4ce9f5465), phase C14_LAVES. Ids, in value order: ORC-UVWV2QWU4Z ORC-WN2HCDL4R2. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "FeMo-82Fer.tdb",
+   "path": "databases/sgte-binary/FeMo-82Fer.tdb",
+   "sha256": "f5329b78d65288a2588b2e5a09df824bfc5a1c9874122a799522bcc4ce9f5465",
+   "phase": "C14_LAVES"
+  },
+  "registry_phase": "phase:fe-mo:c14-laves",
+  "mapping": [
+   {
+    "id": "ORC-UVWV2QWU4Z",
+    "compound": "Fe2Mo",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-WN2HCDL4R2",
+    "compound": "Fe2Mo",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.05.030"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.05.030"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "FE-MO",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.714,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-UVWV2QWU4Z",
+    "compound": "Fe2Mo"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "FE-MO",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -1.534,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-WN2HCDL4R2",
+    "compound": "Fe2Mo"
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "NI",
+  "W"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "NIW"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1303.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NIW",
+    [
+     "W"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Guillermet 1986, doi:10.1007/bf02817278",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IK4EBAYMLF",
+ "bibtex": "guillermet1986_68499b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IK4EBAYMLF",
+    "paper": "doi:10.1007/bf02817278"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02817278",
+   "doi:10.1007/bf02644589"
+  ],
+  "dois": [
+   "10.1007/bf02644589",
+   "10.1007/bf02817278"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiW-86Fer-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

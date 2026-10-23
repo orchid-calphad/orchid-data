@@ -1,0 +1,205 @@
+{
+ "components": [
+  "NB",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "NB3SI",
+  "NB5SI3",
+  "NBSI2_C40"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2193.15,
+   2253.15,
+   2793.15,
+   2213.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.17500000000000002
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.035
+    ]
+   ],
+   [
+    "NB3SI",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.195
+    ]
+   ],
+   [
+    "NB5SI3",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "NB3SI",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "NB5SI3",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "NBSI2_C40",
+    [
+     "SI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6668333335000001
+    ]
+   ]
+  ]
+ ],
+ "reference": "1980, Kocherzhinskiy Yu. A, Yupko LM, Shishkin EA. Izv Akda Nauk SSSR Met 1980;1:184±8.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-H3KRLNWGQ4 ORC-JDBOWWGRLH ORC-SQILVUSUJH ORC-RALMHOZRJW",
+ "bibtex": "kocherzhinskiy1980_4abd2e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-H3KRLNWGQ4",
+    "paper": "doi:10.1016/s0966-9795(98)00073-9",
+    "measured_in": "ref:a8126ebcb1cf5857"
+   },
+   {
+    "id": "ORC-JDBOWWGRLH",
+    "paper": "doi:10.1016/s0966-9795(98)00073-9",
+    "measured_in": "ref:a8126ebcb1cf5857"
+   },
+   {
+    "id": "ORC-SQILVUSUJH",
+    "paper": "doi:10.1016/s0966-9795(98)00073-9",
+    "measured_in": "ref:a8126ebcb1cf5857"
+   },
+   {
+    "id": "ORC-RALMHOZRJW",
+    "paper": "doi:10.1016/s0966-9795(98)00073-9",
+    "measured_in": "ref:a8126ebcb1cf5857"
+   }
+  ],
+  "papers": [
+   "ref:a8126ebcb1cf5857",
+   "doi:10.1016/s0966-9795(98)00073-9"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(98)00073-9"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbSi-99Lia/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

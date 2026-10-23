@@ -1,0 +1,157 @@
+{
+ "components": [
+  "TE",
+  "YB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "YBTE_B1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   726,
+   2003,
+   1093
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "YBTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "YBTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "YBTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1970, N.Kh. Abrikosov, K.A. Zinchenko, A.A. Eliseev, Inorg. Mater. 6 (1970) 1021– 1023.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4R67FNHY4U ORC-NC54NZTUNU ORC-TOSSOPGGYT",
+ "bibtex": "kh1970_d90e0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4R67FNHY4U",
+    "paper": "doi:10.1016/j.jallcom.2015.03.224",
+    "measured_in": "ref:b8ce417a2f8e1749"
+   },
+   {
+    "id": "ORC-NC54NZTUNU",
+    "paper": "doi:10.1016/j.jallcom.2015.03.224",
+    "measured_in": "ref:b8ce417a2f8e1749"
+   },
+   {
+    "id": "ORC-TOSSOPGGYT",
+    "paper": "doi:10.1016/j.jallcom.2015.03.224",
+    "measured_in": "ref:b8ce417a2f8e1749"
+   }
+  ],
+  "papers": [
+   "ref:b8ce417a2f8e1749",
+   "doi:10.1016/j.jallcom.2015.03.224"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2015.03.224"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/YbTe-15Gha/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

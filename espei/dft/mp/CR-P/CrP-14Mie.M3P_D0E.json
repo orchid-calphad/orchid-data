@@ -1,0 +1,106 @@
+{
+ "components": [
+  "CR",
+  "P"
+ ],
+ "phases": [
+  "M3P_D0E"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CR",
+    "P"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -32768.48
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.050135
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB CrP-14Mie.tdb (sha256 13fd479377120522b9809dc36c02c00447b146c0c4c2f9c4fe1d8dc02472b5b3), phase M3P_D0E. Ids, in value order: mp-aaaaalog. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "CrP-14Mie.tdb",
+   "path": "databases/sgte-binary/CrP-14Mie.tdb",
+   "sha256": "13fd479377120522b9809dc36c02c00447b146c0c4c2f9c4fe1d8dc02472b5b3",
+   "phase": "M3P_D0E"
+  },
+  "registry_phase": "phase:cr-p:d0e-m3p",
+  "mapping": [
+   {
+    "id": "mp-aaaaalog",
+    "compound": "Cr3P",
+    "basis": "registry DFT name mp:mp-aaaaalog",
+    "space_group": "I-4",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9973.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CR-P",
+     "n": 145,
+     "sigma_robust_kJ": 9.973,
+     "bias_median_kJ_not_applied": 1.305,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.797,
+      14.08
+     ],
+     "n_full_stratum": 145
+    },
+    "weight_used": 0.050135,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.33962141395833356,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaalog",
+    "compound": "Cr3P"
+   }
+  ]
+ }
+}

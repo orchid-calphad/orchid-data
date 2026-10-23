@@ -1,0 +1,106 @@
+{
+ "components": [
+  "LA",
+  "SN"
+ ],
+ "phases": [
+  "LA3SN5",
+  "LASN3_L12",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1408.15,
+   1458.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "LASN3_L12",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "LA3SN5",
+    [
+     "SN"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2019, doi:10.1007/s11669-019-00751-x",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WID76OK3DY ORC-GQFJMJ4TYS",
+ "bibtex": "li2019_46c874",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WID76OK3DY",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-019-00751-x"
+   },
+   {
+    "id": "ORC-GQFJMJ4TYS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-019-00751-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-019-00751-x"
+  ],
+  "dois": [
+   "10.1007/s11669-019-00751-x"
+  ],
+  "source_dataset": "db-v2.1/general/espei/LaSn-19Li-ass/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

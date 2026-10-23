@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AL",
+  "B"
+ ],
+ "phases": [
+  "AL2B3",
+  "ALB2_C32",
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   798.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "B"
+    ],
+    [
+     4e-05
+    ]
+   ],
+   [
+    "ALB2_C32",
+    [
+     "B"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "AL2B3",
+    [
+     "B"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ]
+ ],
+ "reference": "Campbell 1999, doi:10.1361/105497199770340743",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-A7HDFU7DJT",
+ "bibtex": "campbell1999_ce0f46",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-A7HDFU7DJT",
+    "paper": "doi:10.1361/105497199770340743"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497199770340743",
+   "doi:10.1016/0956-7151(92)90080-x"
+  ],
+  "dois": [
+   "10.1016/0956-7151(92)90080-x",
+   "10.1361/105497199770340743"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlB-99Cam/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

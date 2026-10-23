@@ -1,0 +1,201 @@
+{
+ "components": [
+  "HG",
+  "IN"
+ ],
+ "phases": [
+  "FCC_A1",
+  "GAMMA_PU",
+  "HGIN",
+  "HGIN2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   236.0,
+   218.0,
+   243.0,
+   254.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GAMMA_PU",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HGIN",
+    [
+     "IN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "HGIN",
+    [
+     "IN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HGIN2",
+    [
+     "IN"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.5833335
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HGIN",
+    [
+     "IN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "HGIN",
+    [
+     "IN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gierlotka 2009, doi:10.1016/j.tca.2009.02.020",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UGVR7HGTAC ORC-MUTX6Y2IQS ORC-BPO56FDGSB ORC-DO77TKGQOG",
+ "bibtex": "gierlotka2009_ddc2e2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UGVR7HGTAC",
+    "paper": "doi:10.1016/j.tca.2009.02.020"
+   },
+   {
+    "id": "ORC-MUTX6Y2IQS",
+    "paper": "doi:10.1016/j.tca.2009.02.020"
+   },
+   {
+    "id": "ORC-BPO56FDGSB",
+    "paper": "doi:10.1016/j.tca.2009.02.020"
+   },
+   {
+    "id": "ORC-DO77TKGQOG",
+    "paper": "doi:10.1016/j.tca.2009.02.020"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2009.02.020"
+  ],
+  "dois": [
+   "10.1016/j.tca.2009.02.020"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HgIn-09Gie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

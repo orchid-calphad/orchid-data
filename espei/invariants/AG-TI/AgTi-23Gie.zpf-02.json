@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AG",
+  "TI"
+ ],
+ "phases": [
+  "AGTI_B11",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1273
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AGTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1953, N.A. Deccecco, J.M. Parks, The brazing of titanium, Weld J. (1953) 1071–1073. Fig. 6. The Vicker’s hardness of AgTi and AgTi2 obtained in this work compared with available literature data [41,42]. Investigation, Methodology, Software, Visualization, Writing – original draft. Władysław Gąsior: Supervision, Writing – original draft. Declaration of Competing Interest The authors declare the following",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-G35BX6SVQV",
+ "bibtex": "deccecco1953_2dd3ba",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-G35BX6SVQV",
+    "paper": "doi:10.1016/j.commatsci.2023.112519",
+    "measured_in": "ref:e626a20e5c0c34f2"
+   }
+  ],
+  "papers": [
+   "ref:e626a20e5c0c34f2",
+   "doi:10.1016/j.commatsci.2023.112519"
+  ],
+  "dois": [
+   "10.1016/j.commatsci.2023.112519"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgTi-23Gie/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

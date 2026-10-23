@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AG",
+  "ER"
+ ],
+ "phases": [
+  "AG51ER14",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1068.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ER"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AG51ER14",
+    [
+     "ER"
+    ],
+    [
+     0.215385
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ER"
+    ],
+    [
+     0.036
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2010, doi:10.1016/j.jallcom.2009.10.039",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-26RP6MQZ2O",
+ "bibtex": "wang2010_44ccf6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-26RP6MQZ2O",
+    "paper": "doi:10.1016/j.jallcom.2009.10.039"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.10.039"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.10.039"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgEr-10Wan/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

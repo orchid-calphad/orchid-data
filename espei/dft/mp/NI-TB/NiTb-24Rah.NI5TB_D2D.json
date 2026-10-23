@@ -1,0 +1,106 @@
+{
+ "components": [
+  "NI",
+  "TB"
+ ],
+ "phases": [
+  "NI5TB_D2D"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   5.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "NI",
+    "TB"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -31336.39
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.103584
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB NiTb-24Rah.tdb (sha256 cd81bfc018e845653150f121ab533338e5bb80592fe1090628751fee34b314f9), phase NI5TB_D2D. Ids, in value order: mp-aaaabtoy. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "NiTb-24Rah.tdb",
+   "path": "databases/sgte-binary/NiTb-24Rah.tdb",
+   "sha256": "cd81bfc018e845653150f121ab533338e5bb80592fe1090628751fee34b314f9",
+   "phase": "NI5TB_D2D"
+  },
+  "registry_phase": "phase:ni-tb:ni5tb-d2d",
+  "mapping": [
+   {
+    "id": "mp-aaaabtoy",
+    "compound": "TbNi5",
+    "basis": "registry DFT name mp:mp-aaaabtoy",
+    "space_group": "P6/mmm",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 4827.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "NI-TB",
+     "n": 68,
+     "sigma_robust_kJ": 4.827,
+     "bias_median_kJ_not_applied": 1.229,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      3.575,
+      6.73
+     ],
+     "n_full_stratum": 70
+    },
+    "weight_used": 0.103584,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.32477880499999995,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaabtoy",
+    "compound": "TbNi5"
+   }
+  ]
+ }
+}

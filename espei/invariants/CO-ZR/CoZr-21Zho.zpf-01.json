@@ -1,0 +1,300 @@
+{
+ "components": [
+  "CO",
+  "ZR"
+ ],
+ "phases": [
+  "B2_BCC",
+  "BCC_A2",
+  "C15_LAVES",
+  "CO11ZR2",
+  "CO23ZR6_D8A",
+  "COZR2_C16",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1503,
+   1543,
+   1723,
+   1583,
+   1333,
+   1253
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.095
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO11ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.15384615384615385
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "CO11ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.15384615384615385
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.180371353
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO23ZR6_D8A",
+    [
+     "ZR"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.466
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.65
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "COZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.785
+    ]
+   ],
+   [
+    "COZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1964, W.H. Pechin, D.E. Williams, and W.L. Larsen, W.H. Pechin, D.E. Williams, and W.L. Larsen, The Zirconium-Cobalt Alloy System, Trans. ASM, 1964, 57, p 464–473",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VLX5T5VRVY ORC-DFHNXUA72E ORC-YCCNE756VA ORC-ZNN7U4PM2K ORC-T4DLJTX5B5 ORC-YAE6OU5KNX",
+ "bibtex": "pechin1964_df5135",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VLX5T5VRVY",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:2fa38316f4bb5325"
+   },
+   {
+    "id": "ORC-DFHNXUA72E",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:2fa38316f4bb5325"
+   },
+   {
+    "id": "ORC-YCCNE756VA",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:2fa38316f4bb5325",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-ZNN7U4PM2K",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:2fa38316f4bb5325"
+   },
+   {
+    "id": "ORC-T4DLJTX5B5",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:2fa38316f4bb5325"
+   },
+   {
+    "id": "ORC-YAE6OU5KNX",
+    "paper": "doi:10.1007/s11669-020-00859-5",
+    "measured_in": "ref:2fa38316f4bb5325"
+   }
+  ],
+  "papers": [
+   "ref:2fa38316f4bb5325",
+   "doi:10.1007/s11669-020-00859-5"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00859-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoZr-21Zho/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

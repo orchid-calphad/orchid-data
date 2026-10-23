@@ -1,0 +1,78 @@
+{
+ "components": [
+  "CE",
+  "GA"
+ ],
+ "phases": [
+  "CEGA2_C32",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1717
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "CEGA2_C32",
+    [
+     "GA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Dayan 1979, doi:10.1016/0022-5088(79)90057-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UAPE6NNLM2",
+ "bibtex": "dayan1979_689708",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UAPE6NNLM2",
+    "paper": "doi:10.1007/s00706-019-02420-8",
+    "measured_in": "doi:10.1016/0022-5088(79)90057-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(79)90057-2",
+   "doi:10.1007/s00706-019-02420-8"
+  ],
+  "dois": [
+   "10.1007/s00706-019-02420-8",
+   "10.1016/0022-5088(79)90057-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeGa-19Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

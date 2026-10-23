@@ -1,0 +1,70 @@
+{
+ "components": [
+  "AL",
+  "NI"
+ ],
+ "phases": [
+  "AL3NI_D011",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_NI": [
+   0.25
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    25.4
+   ]
+  ]
+ ],
+ "reference": "Chen 2011, doi:10.1016/j.tca.2010.10.005",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V7YJ5MPN3I",
+ "bibtex": "chen2011_6d24ac",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-V7YJ5MPN3I",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2010.10.005",
+    "measured_in": "doi:10.1016/j.tca.2010.10.005"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2010.10.005"
+  ],
+  "dois": [
+   "10.1016/j.tca.2010.10.005"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlNi-11Che/sm-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

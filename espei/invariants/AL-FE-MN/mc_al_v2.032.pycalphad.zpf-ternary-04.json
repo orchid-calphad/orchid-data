@@ -1,0 +1,104 @@
+{
+ "components": [
+  "AL",
+  "FE",
+  "MN"
+ ],
+ "phases": [
+  "AL13FE4",
+  "AL6MN",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   927.25
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "FE",
+     "MN"
+    ],
+    [
+     0.00881,
+     0.003483
+    ]
+   ],
+   [
+    "AL6MN",
+    [
+     "FE",
+     "MN"
+    ],
+    [
+     null,
+     null
+    ]
+   ],
+   [
+    "AL13FE4",
+    [
+     "FE",
+     "MN"
+    ],
+    [
+     null,
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "FE",
+     "MN"
+    ],
+    [
+     null,
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zheng 2018, doi:10.1016/j.jallcom.2018.01.291",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "ternary",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ELVYEL74V3",
+ "bibtex": "zheng2018_0ed833",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ELVYEL74V3",
+    "paper": "doi:10.1016/j.jallcom.2018.01.291"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2018.01.291"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2018.01.291"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/mc_al_v2.032.pycalphad/zpf-ternary-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

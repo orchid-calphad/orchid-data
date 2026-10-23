@@ -1,0 +1,246 @@
+{
+ "components": [
+  "AL",
+  "YB"
+ ],
+ "phases": [
+  "AL2YB_C15",
+  "AL3YB_L12",
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   898,
+   1253,
+   1633,
+   948,
+   985
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     0.04
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3YB_L12",
+    [
+     "YB"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL2YB_C15",
+    [
+     "YB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AL3YB_L12",
+    [
+     "YB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "YB"
+    ],
+    [
+     0.2916666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AL2YB_C15",
+    [
+     "YB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     0.775
+    ]
+   ],
+   [
+    "AL2YB_C15",
+    [
+     "YB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "YB"
+    ],
+    [
+     0.975
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Palenzona 1972, doi:10.1016/0022-5088(72)90116-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-77HEZ5P7KQ ORC-XPUXQBNSQP ORC-3LDJZTFQNV ORC-4S5LSKAFFT ORC-D5NH73ETSR",
+ "bibtex": "palenzona1972_a1a713",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-77HEZ5P7KQ",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "doi:10.1016/0022-5088(72)90116-6"
+   },
+   {
+    "id": "ORC-XPUXQBNSQP",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "doi:10.1016/0022-5088(72)90116-6"
+   },
+   {
+    "id": "ORC-3LDJZTFQNV",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "doi:10.1016/0022-5088(72)90116-6"
+   },
+   {
+    "id": "ORC-4S5LSKAFFT",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "doi:10.1016/0022-5088(72)90116-6"
+   },
+   {
+    "id": "ORC-D5NH73ETSR",
+    "paper": "doi:10.1016/j.jallcom.2006.11.023",
+    "measured_in": "doi:10.1016/0022-5088(72)90116-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(72)90116-6",
+   "doi:10.1016/j.jallcom.2006.11.023"
+  ],
+  "dois": [
+   "10.1016/0022-5088(72)90116-6",
+   "10.1016/j.jallcom.2006.11.023"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlYb-08Men/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "components": [
+  "AS",
+  "GE"
+ ],
+ "phases": [
+  "GEAS"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "AS"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -4154.28
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.046716
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB GeAs-22Che.tdb (sha256 235bd45af2ef5f66e4c6caef5ab167cc9af2b1030c34cbbea53ca33992b77b2f), phase GEAS. Ids, in value order: mp-aaaaaodg. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "GeAs-22Che.tdb",
+   "path": "databases/sgte-binary/GeAs-22Che.tdb",
+   "sha256": "235bd45af2ef5f66e4c6caef5ab167cc9af2b1030c34cbbea53ca33992b77b2f",
+   "phase": "GEAS"
+  },
+  "registry_phase": "phase:as-ge:geas",
+  "mapping": [
+   {
+    "id": "mp-aaaaaodg",
+    "compound": "GeAs",
+    "basis": "registry DFT name mp:mp-aaaaaodg",
+    "space_group": "C2/m",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10703.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "polymorph_ambiguous|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AS-GE",
+     "n": 331,
+     "sigma_robust_kJ": 10.703,
+     "bias_median_kJ_not_applied": -1.25,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      9.234,
+      13.55
+     ],
+     "n_full_stratum": 332
+    },
+    "weight_used": 0.046716,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.04305604666666696,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaaodg",
+    "compound": "GeAs"
+   }
+  ]
+ }
+}

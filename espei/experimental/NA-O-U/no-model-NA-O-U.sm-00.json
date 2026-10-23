@@ -1,0 +1,159 @@
+{
+ "components": [
+  "NA",
+  "O",
+  "U"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_O": [
+   0.571429,
+   0.5,
+   0.636364,
+   0.6,
+   0.5
+  ],
+  "X_U": [
+   0.142857,
+   0.1,
+   0.181818,
+   0.2,
+   0.125
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    23.714285714285715,
+    24.75,
+    25.08181818181818,
+    26.560000000000002,
+    24.775
+   ]
+  ]
+ ],
+ "reference": "Smith 2017, doi:10.1016/j.jct.2017.04.003",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NBACGHOUKT.493dd6 ORC-UAK72SN4IB.02a81e ORC-QRFJ7MF5HX.96ec3f ORC-KJVQY5PHBZ.37210f ORC-MAEM6HMSSE.95cd53",
+ "weight": 0.4,
+ "bibtex": "smith2017_a46d4d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NBACGHOUKT.493dd6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jct.2017.04.003"
+   },
+   {
+    "id": "ORC-UAK72SN4IB.02a81e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jct.2017.04.003"
+   },
+   {
+    "id": "ORC-QRFJ7MF5HX.96ec3f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jct.2017.04.003"
+   },
+   {
+    "id": "ORC-KJVQY5PHBZ.37210f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jct.2017.04.003"
+   },
+   {
+    "id": "ORC-MAEM6HMSSE.95cd53",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jct.2017.04.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jct.2017.04.003",
+   "doi:10.1021/acs.inorgchem.5b00136"
+  ],
+  "dois": [
+   "10.1016/j.jct.2017.04.003",
+   "10.1021/acs.inorgchem.5b00136"
+  ],
+  "source_dataset": "db-v2.1/general/espei/no-model-NA-O-U/sm-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 0.5,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.5,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.4,
+    "weight_used": 0.4
+   },
+   {
+    "sigma": 6.2,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 6.2,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.032258,
+    "weight_used": 0.4
+   },
+   {
+    "sigma": 1.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.0,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.2,
+    "weight_used": 0.4
+   },
+   {
+    "sigma": 0.4,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.4,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.5,
+    "weight_used": 0.4
+   },
+   {
+    "sigma": 0.4,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.4,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.5,
+    "weight_used": 0.4
+   }
+  ]
+ }
+}

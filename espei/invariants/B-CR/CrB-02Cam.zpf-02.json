@@ -1,0 +1,87 @@
+{
+ "components": [
+  "B",
+  "CR"
+ ],
+ "phases": [
+  "BETA_RHOMBO_B",
+  "CRB4",
+  "MB2_C32"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1773.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "MB2_C32",
+    [
+     "B"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CRB4",
+    [
+     "B"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [21] of doi:10-1016-s0364-5916-02-00058-5 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CCWW7NYEWA",
+ "bibtex": "referencend_eb2fe9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CCWW7NYEWA",
+    "paper": "doi:10.1016/s0364-5916(02)00058-5",
+    "measured_in": "unresolved:source:doi:10-1016-s0364-5916-02-00058-5#21"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1016-s0364-5916-02-00058-5#21",
+   "doi:10.1016/s0364-5916(02)00058-5"
+  ],
+  "dois": [
+   "10.1016/s0364-5916(02)00058-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrB-02Cam/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

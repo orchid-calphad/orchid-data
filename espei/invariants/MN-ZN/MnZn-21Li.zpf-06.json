@@ -1,0 +1,87 @@
+{
+ "components": [
+  "MN",
+  "ZN"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "MNZN13"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   691.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.993
+    ]
+   ],
+   [
+    "MNZN13",
+    [
+     "ZN"
+    ],
+    [
+     0.875
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1915, N. Parravano, Alloys of zinc and manganese, Gazz. Chim. Ital. 45 (1915) 1–6.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HEYUSSHLSJ",
+ "bibtex": "parravano1915_9fb3ce",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HEYUSSHLSJ",
+    "paper": "doi:10.1016/j.jallcom.2020.158484",
+    "measured_in": "ref:ca9235c76cfa1f3b"
+   }
+  ],
+  "papers": [
+   "ref:ca9235c76cfa1f3b",
+   "doi:10.1016/j.jallcom.2020.158484"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2020.158484"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnZn-21Li/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

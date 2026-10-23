@@ -1,0 +1,131 @@
+{
+ "components": [
+  "AU",
+  "SN"
+ ],
+ "phases": [
+  "AU10SN_D024",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   792,
+   805
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "AU10SN_D024",
+    [
+     "SN"
+    ],
+    [
+     0.09090909090909091
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.216
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SN"
+    ],
+    [
+     0.138
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     0.071
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.211
+    ]
+   ],
+   [
+    "AU10SN_D024",
+    [
+     "SN"
+    ],
+    [
+     0.09090909090909091
+    ]
+   ]
+  ]
+ ],
+ "reference": "1987, B. Legendre, Chhay Hancheng, F. Hayes, C.A. Maxwell, D.S. Evans and A. Prince, in J.J. Couniout and M.T. Saugier-Cohen-Adad (Eds.), Treiziemes joumees d’etude des Cquilibres entre phases, Lyon, April 1987.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WSH667SZUH ORC-CZFLMZ7YWD",
+ "bibtex": "legendre1987_126ad4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WSH667SZUH",
+    "paper": "doi:10.1016/0040-6031(88)87045-x",
+    "measured_in": "ref:6856f2f107006d1a",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-CZFLMZ7YWD",
+    "paper": "doi:10.1016/0040-6031(88)87045-x",
+    "measured_in": "ref:6856f2f107006d1a"
+   }
+  ],
+  "papers": [
+   "ref:6856f2f107006d1a",
+   "doi:10.1016/0040-6031(88)87045-x"
+  ],
+  "dois": [
+   "10.1016/0040-6031(88)87045-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuSn-88Che/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

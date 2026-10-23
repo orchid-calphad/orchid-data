@@ -1,0 +1,107 @@
+{
+ "components": [
+  "GA",
+  "P"
+ ],
+ "phases": [
+  "ZINCBLENDE_B3"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GA",
+    "P"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -39544.15
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.046773
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB GaP-94Ans-LB.tdb (sha256 392a70d39e558f6244091074b57c71e145fe2237670b28f9ee772788d8ab59af), phase ZINCBLENDE_B3. Ids, in value order: mp-aaaaadru. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "GaP-94Ans-LB.tdb",
+   "path": "databases/sgte-binary/GaP-94Ans-LB.tdb",
+   "sha256": "392a70d39e558f6244091074b57c71e145fe2237670b28f9ee772788d8ab59af",
+   "phase": "ZINCBLENDE_B3"
+  },
+  "registry_phase": "phase:ga-p:b3-zincblende",
+  "mapping": [
+   {
+    "id": "mp-aaaaadru",
+    "compound": "GaP",
+    "basis": "registry DFT name mp:mp-aaaaadru",
+    "space_group": "F-43m",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10690.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "polymorph_ambiguous|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GA-P",
+     "n": 332,
+     "sigma_robust_kJ": 10.69,
+     "bias_median_kJ_not_applied": -1.25,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      9.234,
+      13.55
+     ],
+     "n_full_stratum": 332
+    },
+    "weight_used": 0.046773,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.409846250416666,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaadru",
+    "compound": "GaP"
+   }
+  ]
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "components": [
+  "CA",
+  "LI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CALI2_C14",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   643.15,
+   503.15,
+   414.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "LI"
+    ],
+    [
+     0.09
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     0.08
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.43
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "LI"
+    ],
+    [
+     0.105
+    ]
+   ],
+   [
+    "CALI2_C14",
+    [
+     "LI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.59
+    ]
+   ]
+  ],
+  [
+   [
+    "CALI2_C14",
+    [
+     "LI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "LI"
+    ],
+    [
+     0.98
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.92
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gröbner 2002, doi:10.1016/s0040-6031(01)00842-5",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-74ZISW3DST ORC-SAN4RXU25Q ORC-WXIRJKKLXQ",
+ "bibtex": "grobner2002_cffa72",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-74ZISW3DST",
+    "paper": "doi:10.1016/s0040-6031(01)00842-5"
+   },
+   {
+    "id": "ORC-SAN4RXU25Q",
+    "paper": "doi:10.1016/s0040-6031(01)00842-5"
+   },
+   {
+    "id": "ORC-WXIRJKKLXQ",
+    "paper": "doi:10.1016/s0040-6031(01)00842-5"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0040-6031(01)00842-5",
+   "doi:10.1007/bf02873196"
+  ],
+  "dois": [
+   "10.1007/bf02873196",
+   "10.1016/s0040-6031(01)00842-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CaLi-02Gro-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "components": [
+  "AU",
+  "PB"
+ ],
+ "phases": [
+  "AU2PB_C15",
+  "AUPB2_C16",
+  "AUPB3",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   707,
+   526,
+   494.5,
+   485
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.426
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU2PB_C15",
+    [
+     "PB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.738
+    ]
+   ],
+   [
+    "AU2PB_C15",
+    [
+     "PB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AUPB2_C16",
+    [
+     "PB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.822
+    ]
+   ],
+   [
+    "AUPB2_C16",
+    [
+     "PB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "AUPB3",
+    [
+     "PB"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.848
+    ]
+   ],
+   [
+    "AUPB3",
+    [
+     "PB"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1982, D.S. Evans, A. Prince, Alloy Phase Diagram, Proc. MRS Meeting, Boston, 1982.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CUQR7J5HAF ORC-NRWOQ6ZKIT ORC-KPL52MS2LB ORC-B2BKQU6LDN",
+ "bibtex": "evans1982_715a3d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CUQR7J5HAF",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:501ecb819ba0490a"
+   },
+   {
+    "id": "ORC-NRWOQ6ZKIT",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:501ecb819ba0490a"
+   },
+   {
+    "id": "ORC-KPL52MS2LB",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:501ecb819ba0490a"
+   },
+   {
+    "id": "ORC-B2BKQU6LDN",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:501ecb819ba0490a"
+   }
+  ],
+  "papers": [
+   "ref:501ecb819ba0490a",
+   "doi:10.1016/j.calphad.2004.05.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2004.05.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuPb-04Wan-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

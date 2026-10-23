@@ -1,0 +1,168 @@
+{
+ "components": [
+  "AL",
+  "BA"
+ ],
+ "phases": [
+  "AL13BA7",
+  "AL4BA_D13",
+  "AL5BA4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   933,
+   1187,
+   1003
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     0.002
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "BA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4BA_D13",
+    [
+     "BA"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "AL4BA_D13",
+    [
+     "BA"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "AL13BA7",
+    [
+     "BA"
+    ],
+    [
+     0.35
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     0.523
+    ]
+   ],
+   [
+    "AL13BA7",
+    [
+     "BA"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "AL5BA4",
+    [
+     "BA"
+    ],
+    [
+     0.4444444444444444
+    ]
+   ]
+  ]
+ ],
+ "reference": "Srikanth 1991, doi:10.1007/bf02679015",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-N35CG5UNKD ORC-ULGQROBETV ORC-XO4VWFNQX3",
+ "bibtex": "srikanth1991_51f899",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-N35CG5UNKD",
+    "paper": "doi:10.1007/s11669-016-0466-y",
+    "measured_in": "doi:10.1007/bf02679015"
+   },
+   {
+    "id": "ORC-ULGQROBETV",
+    "paper": "doi:10.1007/s11669-016-0466-y",
+    "measured_in": "doi:10.1007/bf02679015"
+   },
+   {
+    "id": "ORC-XO4VWFNQX3",
+    "paper": "doi:10.1007/s11669-016-0466-y",
+    "measured_in": "doi:10.1007/bf02679015"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02679015",
+   "doi:10.1007/s11669-016-0466-y"
+  ],
+  "dois": [
+   "10.1007/bf02679015",
+   "10.1007/s11669-016-0466-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlBa-16Bao/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

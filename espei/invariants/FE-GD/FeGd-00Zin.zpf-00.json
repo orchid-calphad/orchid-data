@@ -1,0 +1,80 @@
+{
+ "components": [
+  "FE",
+  "GD"
+ ],
+ "phases": [
+  "FE17GD2_HT",
+  "FE17GD2_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1488
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FE17GD2_LT",
+    [
+     "GD"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ],
+   [
+    "FE17GD2_HT",
+    [
+     "GD"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ]
+  ]
+ ],
+ "reference": "Atiq 1990, doi:10.1179/mst.1990.6.8.778",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BGHHP2LFQJ",
+ "bibtex": "atiq1990_e2933c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BGHHP2LFQJ",
+    "paper": "doi:10.1361/105497100770339923",
+    "measured_in": "doi:10.1179/mst.1990.6.8.778"
+   }
+  ],
+  "papers": [
+   "doi:10.1179/mst.1990.6.8.778",
+   "doi:10.1361/105497100770339923"
+  ],
+  "dois": [
+   "10.1179/mst.1990.6.8.778",
+   "10.1361/105497100770339923"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeGd-00Zin/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

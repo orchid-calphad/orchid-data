@@ -1,0 +1,236 @@
+{
+ "components": [
+  "SI",
+  "W"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4",
+  "LIQUID",
+  "SI2W_C11B",
+  "SI3W5_D8M"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2433,
+   2593,
+   2453,
+   2283,
+   1663
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "SI2W_C11B",
+    [
+     "W"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "SI3W5_D8M",
+    [
+     "W"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI3W5_D8M",
+    [
+     "W"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI3W5_D8M",
+    [
+     "W"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "SI2W_C11B",
+    [
+     "W"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "W"
+    ],
+    [
+     0.4791666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI2W_C11B",
+    [
+     "W"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "W"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1969, V.A. Maksimov, F.I. Shamrai, Izv. Akad. Nauk SSSR, Neorg. Mater. 6 (1969) 1136–1137.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MNONYTAUEP ORC-ZOYC7UTJ6D ORC-PHMG5PGDGH ORC-Z5EJSNGCVD ORC-TQVNTKWFVR",
+ "bibtex": "maksimov1969_c36092",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MNONYTAUEP",
+    "paper": "doi:10.1016/j.calphad.2013.04.004",
+    "measured_in": "ref:a3088aab69d034e8"
+   },
+   {
+    "id": "ORC-ZOYC7UTJ6D",
+    "paper": "doi:10.1016/j.calphad.2013.04.004",
+    "measured_in": "ref:a3088aab69d034e8"
+   },
+   {
+    "id": "ORC-PHMG5PGDGH",
+    "paper": "doi:10.1016/j.calphad.2013.04.004",
+    "measured_in": "ref:a3088aab69d034e8"
+   },
+   {
+    "id": "ORC-Z5EJSNGCVD",
+    "paper": "doi:10.1016/j.calphad.2013.04.004",
+    "measured_in": "ref:a3088aab69d034e8"
+   },
+   {
+    "id": "ORC-TQVNTKWFVR",
+    "paper": "doi:10.1016/j.calphad.2013.04.004",
+    "measured_in": "ref:a3088aab69d034e8"
+   }
+  ],
+  "papers": [
+   "ref:a3088aab69d034e8",
+   "doi:10.1016/j.calphad.2013.04.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.04.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiW-13Li/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

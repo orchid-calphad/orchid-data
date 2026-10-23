@@ -1,0 +1,186 @@
+{
+ "components": [
+  "FE",
+  "GD"
+ ],
+ "phases": [
+  "FCC_A1",
+  "FE17GD2",
+  "FE23GD6_D8A",
+  "FE2GD_C15",
+  "FE3GD",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1587,
+   1446,
+   1334
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE17GD2",
+    [
+     "GD"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE23GD6_D8A",
+    [
+     "GD"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "FE3GD",
+    [
+     "GD"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.228448276
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE3GD",
+    [
+     "GD"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FE2GD_C15",
+    [
+     "GD"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.2916666665
+    ]
+   ]
+  ]
+ ],
+ "reference": "1961, F. Spedding, A. Daane, B. Beaudry, I. Haefling, F. Hunter, M. Michel, H. Rider, F. Smidt, R. Valletta and W. Wunderlin, U.S. Atom. Energy Commun., 1S-700 (1963) C15. [ 27 ] E.M. Savitskii, V.F. Terekhova, 1.V. B urov and O.D. Chistyakov, Russ. J. Inorg. Chem., 6 (1961) 883-885.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2FLNJRIT6Y ORC-PZR5Q3IXGA ORC-2DYA36L3WA",
+ "bibtex": "spedding1961_ad37d2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2FLNJRIT6Y",
+    "paper": "doi:10.1016/0925-8388(95)01578-7",
+    "measured_in": "ref:5d0e65ca23291bf2"
+   },
+   {
+    "id": "ORC-PZR5Q3IXGA",
+    "paper": "doi:10.1016/0925-8388(95)01578-7",
+    "measured_in": "ref:5d0e65ca23291bf2"
+   },
+   {
+    "id": "ORC-2DYA36L3WA",
+    "paper": "doi:10.1016/0925-8388(95)01578-7",
+    "measured_in": "ref:5d0e65ca23291bf2"
+   }
+  ],
+  "papers": [
+   "ref:5d0e65ca23291bf2",
+   "doi:10.1016/0925-8388(95)01578-7"
+  ],
+  "dois": [
+   "10.1016/0925-8388(95)01578-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeGd-95Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

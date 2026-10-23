@@ -1,0 +1,162 @@
+{
+ "components": [
+  "SB",
+  "TE"
+ ],
+ "phases": [
+  "LIQUID",
+  "RHOMBOHEDRAL_A7",
+  "SB2TE_DELTA",
+  "SBTE_GAMMA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   823,
+   817,
+   821
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.753
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "TE"
+    ],
+    [
+     0.975
+    ]
+   ],
+   [
+    "SB2TE_DELTA",
+    [
+     "TE"
+    ],
+    [
+     0.831
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "SB2TE_DELTA",
+    [
+     "TE"
+    ],
+    [
+     0.69
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.65
+    ]
+   ],
+   [
+    "SBTE_GAMMA",
+    [
+     "TE"
+    ],
+    [
+     0.594
+    ]
+   ],
+   [
+    "SB2TE_DELTA",
+    [
+     "TE"
+    ],
+    [
+     0.63
+    ]
+   ]
+  ]
+ ],
+ "reference": "Bordas 1986, doi:10.1016/0040-6031(86)85051-1",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NBELS7HY4J ORC-NLD7U4AP6M ORC-F4IUY6PEXJ",
+ "bibtex": "bordas1986_2a92f2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NBELS7HY4J",
+    "paper": "doi:10.1007/s11664-014-3299-7",
+    "measured_in": "doi:10.1016/0040-6031(86)85051-1",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-NLD7U4AP6M",
+    "paper": "doi:10.1007/s11664-014-3299-7",
+    "measured_in": "doi:10.1016/0040-6031(86)85051-1"
+   },
+   {
+    "id": "ORC-F4IUY6PEXJ",
+    "paper": "doi:10.1007/s11664-014-3299-7",
+    "measured_in": "doi:10.1016/0040-6031(86)85051-1"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0040-6031(86)85051-1",
+   "doi:10.1007/s11664-014-3299-7"
+  ],
+  "dois": [
+   "10.1007/s11664-014-3299-7",
+   "10.1016/0040-6031(86)85051-1"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SbTe-14Guo/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

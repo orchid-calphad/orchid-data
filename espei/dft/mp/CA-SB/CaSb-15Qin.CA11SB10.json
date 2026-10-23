@@ -1,0 +1,106 @@
+{
+ "components": [
+  "CA",
+  "SB"
+ ],
+ "phases": [
+  "CA11SB10"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   11.0,
+   10.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CA",
+    "SB"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -100067.88
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.052029
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB CaSb-15Qin.tdb (sha256 91e975d298107dc1f1bd015a0a0a1f5e9211d2df3760064fdad74dffd2b9f9bc), phase CA11SB10. Ids, in value order: mp-aaaaascv. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "CaSb-15Qin.tdb",
+   "path": "databases/sgte-binary/CaSb-15Qin.tdb",
+   "sha256": "91e975d298107dc1f1bd015a0a0a1f5e9211d2df3760064fdad74dffd2b9f9bc",
+   "phase": "CA11SB10"
+  },
+  "registry_phase": "phase:ca-sb:ca11sb10",
+  "mapping": [
+   {
+    "id": "mp-aaaaascv",
+    "compound": "Ca11Sb10",
+    "basis": "registry DFT name mp:mp-aaaaascv",
+    "space_group": "I4/mmm",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9610.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CA-SB",
+     "n": 143,
+     "sigma_robust_kJ": 9.61,
+     "bias_median_kJ_not_applied": 1.027,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.797,
+      14.08
+     ],
+     "n_full_stratum": 145
+    },
+    "weight_used": 0.052029,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -1.037130466428571,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaascv",
+    "compound": "Ca11Sb10"
+   }
+  ]
+ }
+}

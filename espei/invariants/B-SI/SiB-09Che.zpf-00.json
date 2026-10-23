@@ -1,0 +1,187 @@
+{
+ "components": [
+  "B",
+  "SI"
+ ],
+ "phases": [
+  "BETA_RHOMBO_B",
+  "DIAMOND_A4",
+  "LIQUID",
+  "SIB24",
+  "SIB3_D1G",
+  "SIB6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2123.0,
+   2293.0,
+   1543.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIB24",
+    [
+     "SI"
+    ],
+    [
+     0.04
+    ]
+   ],
+   [
+    "SIB6",
+    [
+     "SI"
+    ],
+    [
+     0.142857
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.09142850000000001
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIB24",
+    [
+     "SI"
+    ],
+    [
+     0.04
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIB6",
+    [
+     "SI"
+    ],
+    [
+     0.142857
+    ]
+   ],
+   [
+    "SIB3_D1G",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.1964285
+    ]
+   ]
+  ]
+ ],
+ "reference": "Olesinski 1984, doi:10.1007/bf02872900",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NPIN26VHJI ORC-TW24BXKI5Q ORC-AUGSDK6PRY",
+ "bibtex": "olesinski1984_6d982b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NPIN26VHJI",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1007/bf02872900"
+   },
+   {
+    "id": "ORC-TW24BXKI5Q",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1007/bf02872900"
+   },
+   {
+    "id": "ORC-AUGSDK6PRY",
+    "paper": "doi:10.1016/j.jallcom.2009.03.044",
+    "measured_in": "doi:10.1007/bf02872900"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02872900",
+   "doi:10.1016/j.jallcom.2009.03.044"
+  ],
+  "dois": [
+   "10.1007/bf02872900",
+   "10.1016/j.jallcom.2009.03.044"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiB-09Che/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

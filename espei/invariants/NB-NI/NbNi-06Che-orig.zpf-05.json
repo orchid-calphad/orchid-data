@@ -1,0 +1,157 @@
+{
+ "components": [
+  "NB",
+  "NI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "MU_D85",
+  "NBNI3_D0A"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1555.15,
+   1675.15,
+   1448.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.84
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     0.873
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.774
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.595
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.725
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1994, A.J. Ardell, Metallic Alloys: Experimental and Theoretical Perspectives, Kluwer Academic Publishers, Dordrecht, 1994, p. 93.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SY5XZQWV4G ORC-DRCXZBA4GD ORC-GWIHKXT6UP",
+ "bibtex": "ardell1994_2f9cff",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SY5XZQWV4G",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "ref:d35842c459f1dc48"
+   },
+   {
+    "id": "ORC-DRCXZBA4GD",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "ref:d35842c459f1dc48"
+   },
+   {
+    "id": "ORC-GWIHKXT6UP",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "ref:d35842c459f1dc48"
+   }
+  ],
+  "papers": [
+   "ref:d35842c459f1dc48",
+   "doi:10.1016/j.calphad.2006.02.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2006.02.005"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbNi-06Che-orig/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

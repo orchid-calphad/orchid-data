@@ -1,0 +1,148 @@
+{
+ "components": [
+  "FE",
+  "Y"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 895.0,
+  "X_Y": [
+   0.105263,
+   0.105263,
+   0.105263,
+   0.105263
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -8350.0,
+    -8350.0,
+    -7660.0,
+    -7660.0
+   ]
+  ]
+ ],
+ "reference": "Kardellass 2014, doi:10.1016/j.jallcom.2013.07.010",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4L5AQFNUQI.db3220 ORC-4L5AQFNUQI.028ff6 ORC-HIIHOOYKXL.f238cc ORC-HIIHOOYKXL.c87a5a",
+ "reference_states": {
+  "FE": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "Y": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "FeY-14Kar.tdb",
+   "path": "databases/sgte-binary/FeY-14Kar.tdb",
+   "sha256": "0e4a9e2361dc9c9839bfc4a51be7d414a41b29cd1b3f6931cbc6ff40fbc4949c",
+   "catalog_entry": {
+    "name": "FeY-14Kar.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2013-07-010",
+   "doi": "10.1016/j.jallcom.2013.07.010",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 583, 598-606(2014).",
+    "year": "2014"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "kardellass2014_5f55c7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-4L5AQFNUQI.db3220",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-017-0574-3",
+    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
+   },
+   {
+    "id": "ORC-4L5AQFNUQI.028ff6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-017-0574-3",
+    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
+   },
+   {
+    "id": "ORC-HIIHOOYKXL.f238cc",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-017-0574-3",
+    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
+   },
+   {
+    "id": "ORC-HIIHOOYKXL.c87a5a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-017-0574-3",
+    "measured_in": "doi:10.1016/j.jallcom.2013.07.010"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2013.07.010",
+   "doi:10.1007/s11669-017-0574-3"
+  ],
+  "dois": [
+   "10.1007/s11669-017-0574-3",
+   "10.1016/j.jallcom.2013.07.010"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/FeY-14Kar/hmr-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

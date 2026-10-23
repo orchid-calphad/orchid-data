@@ -1,0 +1,124 @@
+{
+ "components": [
+  "CR",
+  "PD"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CR2PD3_L12",
+  "CRPD_L10",
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   843.0,
+   778.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "PD"
+    ],
+    [
+     0.004
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.628
+    ]
+   ],
+   [
+    "CRPD_L10",
+    [
+     "PD"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "CRPD_L10",
+    [
+     "PD"
+    ],
+    [
+     0.52
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.66
+    ]
+   ],
+   [
+    "CR2PD3_L12",
+    [
+     "PD"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ]
+ ],
+ "reference": "Ghosh 2000, doi:10.1361/105497100770340390",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7YESCKYGRM ORC-PTA6LLQCYW",
+ "bibtex": "ghosh2000_a481ac",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7YESCKYGRM",
+    "paper": "doi:10.1361/105497100770340390"
+   },
+   {
+    "id": "ORC-PTA6LLQCYW",
+    "paper": "doi:10.1361/105497100770340390"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497100770340390"
+  ],
+  "dois": [
+   "10.1361/105497100770340390"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrPd-00Gho-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

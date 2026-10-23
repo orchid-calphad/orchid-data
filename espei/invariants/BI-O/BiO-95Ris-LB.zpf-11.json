@@ -1,0 +1,87 @@
+{
+ "components": [
+  "BI",
+  "O"
+ ],
+ "phases": [
+  "BI2O3_ALPHA",
+  "BI2O3_C1",
+  "ION"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   991
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BI2O3_C1",
+    [
+     "O"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BI2O3_ALPHA",
+    [
+     "O"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "ION",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1995, G.M. Mehrotra, M.G. Frohberg, and M.L. Kapoor, \"Standard Free Energy of Formation of Bi203,\" Z Phys. Chem. Neue Folge, 99, 304-307 (1976). Journal of Phase Equilibria Vol. 16 No. 3 1995 233 S e c t i o n I: B a s i c a n d A p p l i e d R e s e a r c h",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2FIBYKG43Y",
+ "bibtex": "mehrotra1995_420bbc",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2FIBYKG43Y",
+    "paper": "doi:10.1007/bf02667306",
+    "measured_in": "ref:44a68a6240578823"
+   }
+  ],
+  "papers": [
+   "ref:44a68a6240578823",
+   "doi:10.1007/bf02667306"
+  ],
+  "dois": [
+   "10.1007/bf02667306"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-11.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

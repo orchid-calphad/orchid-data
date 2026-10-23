@@ -1,0 +1,88 @@
+{
+ "components": [
+  "CE",
+  "Y"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DHCP",
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   978
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.1
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Flandorfer 1997, doi:10.1007/s11661-997-0129-z",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-44HG3KHFVM",
+ "bibtex": "flandorfer1997_430b32",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-44HG3KHFVM",
+    "paper": "doi:10.1016/j.ssi.2008.06.011",
+    "measured_in": "doi:10.1007/s11661-997-0129-z"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11661-997-0129-z",
+   "doi:10.1016/j.ssi.2008.06.011"
+  ],
+  "dois": [
+   "10.1007/s11661-997-0129-z",
+   "10.1016/j.ssi.2008.06.011"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeY-08Dju/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

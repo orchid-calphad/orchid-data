@@ -1,0 +1,114 @@
+{
+ "components": [
+  "BI",
+  "TE"
+ ],
+ "phases": [
+  "BI2TE3_C33",
+  "BITE",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   838.15,
+   834.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BI2TE3_C33",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BI2TE3_C33",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BITE",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Drzewowska 2023, doi:10.1007/s11669-023-01049-9",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KUIYAM4CDW ORC-NBGMTDGCAS",
+ "bibtex": "drzewowska2023_0f86e3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KUIYAM4CDW",
+    "paper": "doi:10.1007/s11669-023-01049-9"
+   },
+   {
+    "id": "ORC-NBGMTDGCAS",
+    "paper": "doi:10.1007/s11669-023-01049-9"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-023-01049-9"
+  ],
+  "dois": [
+   "10.1007/s11669-023-01049-9"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiTe-23Drz/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

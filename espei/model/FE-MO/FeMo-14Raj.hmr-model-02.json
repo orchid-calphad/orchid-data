@@ -1,0 +1,108 @@
+{
+ "components": [
+  "FE",
+  "MO"
+ ],
+ "phases": [
+  "LIQUID",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_MO": [
+   0.461538
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -352.0
+   ]
+  ]
+ ],
+ "reference": "Rajkumar 2014, doi:10.1016/j.jallcom.2014.05.030",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NXQXMGYGSD",
+ "reference_states": {
+  "FE": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "MO": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "FeMo-14Raj.tdb",
+   "path": "databases/sgte-binary/FeMo-14Raj.tdb",
+   "sha256": "1e573137abd4fa1891eea6295b7ec2e8e32f624c4ecbf782cf2d1faad6d8f2ad",
+   "catalog_entry": {
+    "name": "FeMo-14Raj.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2014-05-030",
+   "doi": "10.1016/j.jallcom.2014.05.030",
+   "citation": {
+    "authors": "see doi",
+    "title": "V.B. Rajkumar, K.C. Hari Kumar, J. Alloys Compd., 611, 303-12(2014).",
+    "year": "2014"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "rajkumar2014_e10b80",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-NXQXMGYGSD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2014.05.030",
+    "measured_in": "doi:10.1016/j.jallcom.2014.05.030"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.05.030"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.05.030"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/FeMo-14Raj/hmr-model-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AU",
+  "ND"
+ ],
+ "phases": [
+  "AU6ND",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1068.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU6ND",
+    [
+     "ND"
+    ],
+    [
+     0.142857
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1965, P.E. Rider, K.A. Gschneidner, and O.D. McMasters, GoldRich Rare-Earth-Gold Solid Solutions, Trans. Metall. AIME, 1965, 233, p 1488-1496",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NSTF4PB5UG",
+ "bibtex": "rider1965_2652b5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NSTF4PB5UG",
+    "paper": "doi:10.1007/s11669-015-0378-2",
+    "measured_in": "ref:f7500ff732abd0a2"
+   }
+  ],
+  "papers": [
+   "ref:f7500ff732abd0a2",
+   "doi:10.1007/s11669-015-0378-2"
+  ],
+  "dois": [
+   "10.1007/s11669-015-0378-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuNd-15Wan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

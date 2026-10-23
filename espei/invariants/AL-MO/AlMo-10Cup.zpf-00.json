@@ -1,0 +1,85 @@
+{
+ "components": [
+  "AL",
+  "MO"
+ ],
+ "phases": [
+  "ALMO3_A15",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2423.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALMO3_A15",
+    [
+     "MO"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cupid 2010, doi:10.1016/j.intermet.2010.03.010",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YFFFSQ42EQ",
+ "bibtex": "cupid2010_04047a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YFFFSQ42EQ",
+    "paper": "doi:10.1016/j.intermet.2010.03.010"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2010.03.010"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2010.03.010"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlMo-10Cup/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

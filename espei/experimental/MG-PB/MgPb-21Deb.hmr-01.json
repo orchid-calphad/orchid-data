@@ -1,0 +1,178 @@
+{
+ "components": [
+  "MG",
+  "PB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1012.0,
+  "X_PB": [
+   0.3883,
+   0.25,
+   0.5,
+   0.861,
+   0.75
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -8849.0,
+    -7824.0,
+    -7900.0,
+    -2331.0,
+    -4267.0
+   ]
+  ]
+ ],
+ "reference": "Dębski 2021, doi:10.1016/j.jallcom.2020.158396",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VU3QP4GPMX.6f52cb ORC-WKFJYYJU7Q.c126ae ORC-GDBEZR33OB.63d4cf ORC-E7JBGPMQHL.34bb05 ORC-7X6VMMQSK3.a073c4",
+ "reference_states": {
+  "MG": {
+   "phase": "LIQUID"
+  },
+  "PB": {
+   "phase": "LIQUID"
+  }
+ },
+ "weight": 2.57732,
+ "bibtex": "debski2021_ece690",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VU3QP4GPMX.6f52cb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2020.158396",
+    "measured_in": "doi:10.1016/j.jallcom.2020.158396",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-WKFJYYJU7Q.c126ae",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2020.158396",
+    "measured_in": "doi:10.1016/j.jallcom.2020.158396",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-GDBEZR33OB.63d4cf",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2020.158396",
+    "measured_in": "doi:10.1016/j.jallcom.2020.158396",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-E7JBGPMQHL.34bb05",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2020.158396",
+    "measured_in": "doi:10.1016/j.jallcom.2020.158396",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-7X6VMMQSK3.a073c4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2020.158396",
+    "measured_in": "doi:10.1016/j.jallcom.2020.158396",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2020.158396"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2020.158396"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MgPb-21Deb/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 201.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.201,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 2.487562,
+    "weight_used": 2.57732
+   },
+   {
+    "sigma": 386.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.386,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 1.295337,
+    "weight_used": 2.57732
+   },
+   {
+    "sigma": 194.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.194,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 2.57732,
+    "weight_used": 2.57732
+   },
+   {
+    "sigma": 57.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.057,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 8.77193,
+    "weight_used": 2.57732
+   },
+   {
+    "sigma": 108.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.108,
+     "unit": "kJ/mol (basis unstated)",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 4.62963,
+    "weight_used": 2.57732
+   }
+  ]
+ }
+}

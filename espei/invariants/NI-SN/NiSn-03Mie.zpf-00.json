@@ -1,0 +1,78 @@
+{
+ "components": [
+  "NI",
+  "SN"
+ ],
+ "phases": [
+  "NI3SN_D019",
+  "NI3SN_D03"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1223
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NI3SN_D03",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "NI3SN_D019",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ]
+ ],
+ "reference": "Schubert 1956, doi:10.1007/bf00617585",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BRSTIR3B4N",
+ "bibtex": "schubert1956_a910b7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BRSTIR3B4N",
+    "paper": "doi:10.1016/j.calphad.2003.10.001",
+    "measured_in": "doi:10.1007/bf00617585"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf00617585",
+   "doi:10.1016/j.calphad.2003.10.001"
+  ],
+  "dois": [
+   "10.1007/bf00617585",
+   "10.1016/j.calphad.2003.10.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiSn-03Mie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

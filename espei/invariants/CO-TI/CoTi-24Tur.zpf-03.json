@@ -1,0 +1,241 @@
+{
+ "components": [
+  "CO",
+  "TI"
+ ],
+ "phases": [
+  "B2_BCC",
+  "C15_LAVES",
+  "C36_LAVES",
+  "FCC_A1",
+  "L12_FCC",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1483,
+   1443,
+   1483,
+   1508,
+   1793
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.207
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TI"
+    ],
+    [
+     0.145
+    ]
+   ],
+   [
+    "L12_FCC",
+    [
+     "TI"
+    ],
+    [
+     0.183
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.23
+    ]
+   ],
+   [
+    "L12_FCC",
+    [
+     "TI"
+    ],
+    [
+     0.219
+    ]
+   ],
+   [
+    "C36_LAVES",
+    [
+     "TI"
+    ],
+    [
+     0.291
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.275
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "TI"
+    ],
+    [
+     0.332
+    ]
+   ],
+   [
+    "C36_LAVES",
+    [
+     "TI"
+    ],
+    [
+     0.305
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.303
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.413
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "TI"
+    ],
+    [
+     0.334
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.493
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.493
+    ]
+   ]
+  ]
+ ],
+ "reference": "1971, V.V. Pet’kov and M.V. Kireev, Phase Equilibria and Interdiffusion in the Cobalt-Titanium System, Metallofizika, 1971, 33, p 107-115.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JNE5PHESQG.685029 ORC-6OSPRWQ5RH ORC-JNE5PHESQG.74a098 ORC-CMFT2T77HU ORC-A7TPQBIANK",
+ "bibtex": "pet1971_b5aef0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JNE5PHESQG.685029",
+    "paper": "doi:10.1007/s11669-024-01094-y",
+    "measured_in": "ref:4c5f03e7078b77bc",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-6OSPRWQ5RH",
+    "paper": "doi:10.1007/s11669-024-01094-y",
+    "measured_in": "ref:4c5f03e7078b77bc"
+   },
+   {
+    "id": "ORC-JNE5PHESQG.74a098",
+    "paper": "doi:10.1007/s11669-024-01094-y",
+    "measured_in": "ref:4c5f03e7078b77bc"
+   },
+   {
+    "id": "ORC-CMFT2T77HU",
+    "paper": "doi:10.1007/s11669-024-01094-y",
+    "measured_in": "ref:4c5f03e7078b77bc"
+   },
+   {
+    "id": "ORC-A7TPQBIANK",
+    "paper": "doi:10.1007/s11669-024-01094-y",
+    "measured_in": "ref:4c5f03e7078b77bc"
+   }
+  ],
+  "papers": [
+   "ref:4c5f03e7078b77bc",
+   "doi:10.1007/s11669-024-01094-y"
+  ],
+  "dois": [
+   "10.1007/s11669-024-01094-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoTi-24Tur/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

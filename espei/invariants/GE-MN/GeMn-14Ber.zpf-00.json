@@ -1,0 +1,173 @@
+{
+ "components": [
+  "GE",
+  "MN"
+ ],
+ "phases": [
+  "GE2MN5_HT",
+  "GEMN2_B82",
+  "GEMN3_D019",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1198.0,
+   1223.0,
+   1195.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GEMN2_B82",
+    [
+     "MN"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "GE2MN5_HT",
+    [
+     "MN"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.6904764999999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "GE2MN5_HT",
+    [
+     "MN"
+    ],
+    [
+     0.714286
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GE2MN5_HT",
+    [
+     "MN"
+    ],
+    [
+     0.714286
+    ]
+   ],
+   [
+    "GEMN3_D019",
+    [
+     "MN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.732143
+    ]
+   ]
+  ]
+ ],
+ "reference": "Berche 2014, doi:10.1016/j.intermet.2013.12.009",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IEF3PPIMCJ ORC-IASTXVHNPR ORC-5HDCE7KGPD",
+ "bibtex": "berche2014_1f3a0f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IEF3PPIMCJ",
+    "paper": "doi:10.1016/j.intermet.2013.12.009"
+   },
+   {
+    "id": "ORC-IASTXVHNPR",
+    "paper": "doi:10.1016/j.intermet.2013.12.009"
+   },
+   {
+    "id": "ORC-5HDCE7KGPD",
+    "paper": "doi:10.1016/j.intermet.2013.12.009"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2013.12.009",
+   "doi:10.1016/0022-5088(70)90030-5"
+  ],
+  "dois": [
+   "10.1016/0022-5088(70)90030-5",
+   "10.1016/j.intermet.2013.12.009"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeMn-14Ber/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

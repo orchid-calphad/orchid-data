@@ -1,0 +1,91 @@
+{
+ "components": [
+  "MO",
+  "RE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CHI_A12",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1398
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "RE"
+    ],
+    [
+     0.29000000000000004
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.77
+    ]
+   ]
+  ]
+ ],
+ "reference": "1958, A.G. Knapton, J. Inst. Met. 87 (1958–59) 62–64.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TWD3NJA5VQ",
+ "bibtex": "knapton1958_05f128",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-TWD3NJA5VQ",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "ref:630b2249335e32f9",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:630b2249335e32f9",
+   "doi:10.1016/j.calphad.2009.02.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.02.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoRe-09Far/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

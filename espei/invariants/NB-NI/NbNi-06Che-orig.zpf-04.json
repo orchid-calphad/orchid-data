@@ -1,0 +1,117 @@
+{
+ "components": [
+  "NB",
+  "NI"
+ ],
+ "phases": [
+  "LIQUID",
+  "MU_D85",
+  "NBNI3_D0A"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1676.15,
+   1448.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1941, S.A. Pogodin, A.N. Selikmann, C. R. Dokl. Akad. Sci. URSS 31 (1941) 895–897.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XA63AKUUI4 ORC-OZ4IGE6ICW",
+ "bibtex": "pogodin1941_7791c7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XA63AKUUI4",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "ref:4945139172d4b31d"
+   },
+   {
+    "id": "ORC-OZ4IGE6ICW",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "ref:4945139172d4b31d"
+   }
+  ],
+  "papers": [
+   "ref:4945139172d4b31d",
+   "doi:10.1016/j.calphad.2006.02.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2006.02.005"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbNi-06Che-orig/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1623.0,
+  "X_ZR": [
+   0.27,
+   0.27,
+   0.749,
+   0.749
+  ]
+ },
+ "output": "ACR_ZR",
+ "values": [
+  [
+   [
+    0.0643,
+    0.0643,
+    0.601,
+    0.601
+   ]
+  ]
+ ],
+ "reference": "Zaitsev 2003, doi:10.1039/b305089k",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZROKVQJL2B.b60b47 ORC-ZROKVQJL2B.7ed026 ORC-TY3NGMQR4C.3c0536 ORC-TY3NGMQR4C.404811",
+ "reference_state": {
+  "phases": [
+   "HCP_A3"
+  ],
+  "conditions": {
+   "P": 101325,
+   "T": 1623.0,
+   "X_ZR": 1.0
+  }
+ },
+ "bibtex": "zaitsev2003_306816",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZROKVQJL2B.b60b47",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2006.06.002",
+    "measured_in": "doi:10.1039/b305089k"
+   },
+   {
+    "id": "ORC-ZROKVQJL2B.7ed026",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2006.06.002",
+    "measured_in": "doi:10.1039/b305089k"
+   },
+   {
+    "id": "ORC-TY3NGMQR4C.3c0536",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2006.06.002",
+    "measured_in": "doi:10.1039/b305089k"
+   },
+   {
+    "id": "ORC-TY3NGMQR4C.404811",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2006.06.002",
+    "measured_in": "doi:10.1039/b305089k"
+   }
+  ],
+  "papers": [
+   "doi:10.1039/b305089k",
+   "doi:10.1016/j.calphad.2006.06.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2006.06.002",
+   "10.1039/b305089k"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CuZr-06Wan/acr_zr-11.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "1 (activity)",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_ACR = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

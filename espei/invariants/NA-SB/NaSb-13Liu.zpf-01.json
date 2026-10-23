@@ -1,0 +1,78 @@
+{
+ "components": [
+  "NA",
+  "SB"
+ ],
+ "phases": [
+  "LIQUID",
+  "NASB"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   723
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NASB",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Redslob 1982, doi:10.1515/zna-1982-0612",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MRN3627EJW",
+ "bibtex": "redslob1982_d3b73f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MRN3627EJW",
+    "paper": "doi:10.1016/j.tca.2013.07.009",
+    "measured_in": "doi:10.1515/zna-1982-0612"
+   }
+  ],
+  "papers": [
+   "doi:10.1515/zna-1982-0612",
+   "doi:10.1016/j.tca.2013.07.009"
+  ],
+  "dois": [
+   "10.1016/j.tca.2013.07.009",
+   "10.1515/zna-1982-0612"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NaSb-13Liu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "FE",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FEZR3_E1A",
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1068.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "Jiang 2001, doi:10.1361/105497101770332965",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MAOJJG2I6T",
+ "bibtex": "jiang2001_7f39b1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MAOJJG2I6T",
+    "paper": "doi:10.1361/105497101770332965"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497101770332965",
+   "doi:10.1016/0022-3115(90)90406-d"
+  ],
+  "dois": [
+   "10.1016/0022-3115(90)90406-d",
+   "10.1361/105497101770332965"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeZr-01Jia/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

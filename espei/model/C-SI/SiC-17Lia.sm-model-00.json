@@ -1,0 +1,95 @@
+{
+ "components": [
+  "C",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID",
+  "SIC_B3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SI": [
+   0.5
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    8.5
+   ]
+  ]
+ ],
+ "reference": "Liang 2017, doi:10.1016/j.jallcom.2016.12.271",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "single_reader",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KMV7KYOKJT",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "SiC-17Lia.tdb",
+   "path": "databases/sgte-binary/SiC-17Lia.tdb",
+   "sha256": "566c3667592d6971a51715235999496eac5252169814e077f6d6e0354f5e0f58",
+   "catalog_entry": {
+    "name": "SiC-17Lia.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2016-12-271",
+   "doi": "10.1016/j.jallcom.2016.12.271",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 698, 743-53(2017).",
+    "year": "2017"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "liang2017_0ec70e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-KMV7KYOKJT",
+    "reader_agreement": "single_reader",
+    "paper": "doi:10.1016/j.jallcom.2016.12.271",
+    "measured_in": "doi:10.1016/j.jallcom.2016.12.271"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2016.12.271"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2016.12.271"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/SiC-17Lia/sm-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "components": [
+  "AU",
+  "BI"
+ ],
+ "phases": [
+  "AU2BI_C15",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   644.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "BI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU2BI_C15",
+    [
+     "BI"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Servant 2006, doi:10.1016/j.calphad.2006.07.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5SUHAPRSU7",
+ "bibtex": "servant2006_5451e1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5SUHAPRSU7",
+    "paper": "doi:10.1016/j.calphad.2006.07.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2006.07.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2006.07.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuBi-06Ser/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "components": [
+  "SI",
+  "V"
+ ],
+ "phases": [
+  "LIQUID",
+  "SI2V_C40",
+  "SI3V5_D8M",
+  "SI5V6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1913.15,
+   1943.15,
+   2283.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.41000000000000003
+    ]
+   ],
+   [
+    "SI2V_C40",
+    [
+     "V"
+    ],
+    [
+     0.3340000000000001
+    ]
+   ],
+   [
+    "SI5V6",
+    [
+     "V"
+    ],
+    [
+     0.5454545454545454
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.42999999999999994
+    ]
+   ],
+   [
+    "SI3V5_D8M",
+    [
+     "V"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "SI5V6",
+    [
+     "V"
+    ],
+    [
+     0.5454545454545454
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "SI3V5_D8M",
+    [
+     "V"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ]
+ ],
+ "reference": "1973, Yu.A. Kocherzhinskii, O.G. Kulik, E. Shishkin, Dokl. Akad. Nauk SSSR 209 (6) (1973) 1347–1349.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IFUAEGAQYL ORC-7OGQT57CAQ ORC-5EHIFKM64N",
+ "bibtex": "yu1973_d22969",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IFUAEGAQYL",
+    "paper": "doi:10.1016/j.calphad.2007.12.005",
+    "measured_in": "ref:402dafdbfebf172b"
+   },
+   {
+    "id": "ORC-7OGQT57CAQ",
+    "paper": "doi:10.1016/j.calphad.2007.12.005",
+    "measured_in": "ref:402dafdbfebf172b"
+   },
+   {
+    "id": "ORC-5EHIFKM64N",
+    "paper": "doi:10.1016/j.calphad.2007.12.005",
+    "measured_in": "ref:402dafdbfebf172b"
+   }
+  ],
+  "papers": [
+   "ref:402dafdbfebf172b",
+   "doi:10.1016/j.calphad.2007.12.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2007.12.005"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiV-08Zha/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

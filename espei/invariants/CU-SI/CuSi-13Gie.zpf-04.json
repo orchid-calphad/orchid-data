@@ -1,0 +1,87 @@
+{
+ "components": [
+  "CU",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU33SI7_A13",
+  "CU33SI7_HT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   983
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CU33SI7_HT",
+    [
+     "SI"
+    ],
+    [
+     0.182
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.212
+    ]
+   ],
+   [
+    "CU33SI7_A13",
+    [
+     "SI"
+    ],
+    [
+     0.176
+    ]
+   ]
+  ]
+ ],
+ "reference": "1929, C.S. Smith, Trans. AIME 83 (1929) 414.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EDYZUZFPTO",
+ "bibtex": "smith1929_ee726e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EDYZUZFPTO",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:f034243d77309ce7"
+   }
+  ],
+  "papers": [
+   "ref:f034243d77309ce7",
+   "doi:10.1016/j.jct.2012.07.025"
+  ],
+  "dois": [
+   "10.1016/j.jct.2012.07.025"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

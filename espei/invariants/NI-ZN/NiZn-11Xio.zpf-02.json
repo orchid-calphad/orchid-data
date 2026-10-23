@@ -1,0 +1,91 @@
+{
+ "components": [
+  "NI",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID",
+  "NI2ZN11_D82",
+  "NIZN8"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   790
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI2ZN11_D82",
+    [
+     "ZN"
+    ],
+    [
+     0.8520000000000001
+    ]
+   ],
+   [
+    "NIZN8",
+    [
+     "ZN"
+    ],
+    [
+     0.88
+    ]
+   ]
+  ]
+ ],
+ "reference": "1935, K. Tamaru, O. Osawa, Further investigation of equilibrium diagram of Nickel–Zinc system, Sci. Rep. Tohoku Imp. Univ. 23 (1935) 794–815.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2LN2UPOLSB",
+ "bibtex": "tamaru1935_81693f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2LN2UPOLSB",
+    "paper": "doi:10.1016/j.calphad.2011.03.003",
+    "measured_in": "ref:acbc2eadd4b3e77b",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:acbc2eadd4b3e77b",
+   "doi:10.1016/j.calphad.2011.03.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2011.03.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZn-11Xio/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

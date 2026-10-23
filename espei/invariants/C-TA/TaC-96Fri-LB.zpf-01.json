@@ -1,0 +1,157 @@
+{
+ "components": [
+  "C",
+  "TA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "GRAPHITE_A9",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   4256,
+   3718,
+   3603
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.47
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.47
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.61
+    ]
+   ],
+   [
+    "GRAPHITE_A9",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.38
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "C"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.24
+    ]
+   ]
+  ]
+ ],
+ "reference": "1966, E. Rudy and D.E Harmon, Technical Rep. No. AFML-TR-652, Part I, Vol. V, 1966 (Aerojet General Corp.).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WUXHFFJTAL ORC-F74WPN53TG ORC-ZHRREABRJL",
+ "bibtex": "rudy1966_ab43e6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WUXHFFJTAL",
+    "paper": "doi:10.1016/0925-8388(96)02197-4",
+    "measured_in": "ref:8672a98d855856b0"
+   },
+   {
+    "id": "ORC-F74WPN53TG",
+    "paper": "doi:10.1016/0925-8388(96)02197-4",
+    "measured_in": "ref:8672a98d855856b0"
+   },
+   {
+    "id": "ORC-ZHRREABRJL",
+    "paper": "doi:10.1016/0925-8388(96)02197-4",
+    "measured_in": "ref:8672a98d855856b0"
+   }
+  ],
+  "papers": [
+   "ref:8672a98d855856b0",
+   "doi:10.1016/0925-8388(96)02197-4"
+  ],
+  "dois": [
+   "10.1016/0925-8388(96)02197-4"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/TaC-96Fri-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

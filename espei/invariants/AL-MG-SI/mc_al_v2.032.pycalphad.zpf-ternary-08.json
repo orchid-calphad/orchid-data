@@ -1,0 +1,106 @@
+{
+ "components": [
+  "AL",
+  "MG",
+  "SI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "MG2SI_B",
+  "SI_DIAMOND_A4"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   833.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MG",
+     "SI"
+    ],
+    [
+     0.051,
+     0.126
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "MG",
+     "SI"
+    ],
+    [
+     null,
+     null
+    ]
+   ],
+   [
+    "SI_DIAMOND_A4",
+    [
+     "MG",
+     "SI"
+    ],
+    [
+     null,
+     null
+    ]
+   ],
+   [
+    "MG2SI_B",
+    [
+     "MG",
+     "SI"
+    ],
+    [
+     null,
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Tang 2012, doi:10.1016/j.tca.2011.10.017",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "ternary",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VB3TN2LLQI",
+ "bibtex": "tang2012_afcdfc",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VB3TN2LLQI",
+    "paper": "doi:10.1016/j.tca.2011.10.017"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2011.10.017",
+   "doi:10.1007/bf02653497"
+  ],
+  "dois": [
+   "10.1007/bf02653497",
+   "10.1016/j.tca.2011.10.017"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/mc_al_v2.032.pycalphad/zpf-ternary-08.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

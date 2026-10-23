@@ -1,0 +1,563 @@
+{
+ "components": [
+  "CO",
+  "ND"
+ ],
+ "phases": [
+  "CO17ND2",
+  "CO19ND5",
+  "CO2ND5",
+  "CO2ND_C15",
+  "CO3ND",
+  "CO3ND2_HT",
+  "CO3ND2_LT",
+  "CO3ND4",
+  "CO5ND_D2D",
+  "CO7ND2",
+  "COND3_D011",
+  "DHCP",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1579.0,
+   695.0,
+   1539.0,
+   1425.0,
+   1416.0,
+   1373.0,
+   1323.0,
+   923.0,
+   856.0,
+   872.0,
+   839.0,
+   869.0,
+   919.0,
+   898.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.15
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ND"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "CO17ND2",
+    [
+     "ND"
+    ],
+    [
+     0.105263
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ND"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "CO17ND2",
+    [
+     "ND"
+    ],
+    [
+     0.105263
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.27
+    ]
+   ],
+   [
+    "CO17ND2",
+    [
+     "ND"
+    ],
+    [
+     0.105263
+    ]
+   ],
+   [
+    "CO5ND_D2D",
+    [
+     "ND"
+    ],
+    [
+     0.166667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "CO5ND_D2D",
+    [
+     "ND"
+    ],
+    [
+     0.166667
+    ]
+   ],
+   [
+    "CO19ND5",
+    [
+     "ND"
+    ],
+    [
+     0.208333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "CO19ND5",
+    [
+     "ND"
+    ],
+    [
+     0.208333
+    ]
+   ],
+   [
+    "CO7ND2",
+    [
+     "ND"
+    ],
+    [
+     0.222222
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "CO7ND2",
+    [
+     "ND"
+    ],
+    [
+     0.222222
+    ]
+   ],
+   [
+    "CO3ND",
+    [
+     "ND"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "CO3ND",
+    [
+     "ND"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "CO2ND_C15",
+    [
+     "ND"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.575
+    ]
+   ],
+   [
+    "CO2ND_C15",
+    [
+     "ND"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "CO3ND2_HT",
+    [
+     "ND"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "CO3ND2_HT",
+    [
+     "ND"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "CO3ND2_LT",
+    [
+     "ND"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.61
+    ]
+   ],
+   [
+    "CO3ND2_HT",
+    [
+     "ND"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "CO3ND4",
+    [
+     "ND"
+    ],
+    [
+     0.571429
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.64
+    ]
+   ],
+   [
+    "CO3ND4",
+    [
+     "ND"
+    ],
+    [
+     0.571429
+    ]
+   ],
+   [
+    "CO2ND5",
+    [
+     "ND"
+    ],
+    [
+     0.714286
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "COND3_D011",
+    [
+     "ND"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "CO2ND5",
+    [
+     "ND"
+    ],
+    [
+     0.714286
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "COND3_D011",
+    [
+     "ND"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "COND3_D011",
+    [
+     "ND"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2007, doi:10.1016/j.jallcom.2006.08.081",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-S255B3KK6S ORC-QGCNFC6UKH ORC-XYFC3PBK7T ORC-XB2ET67YKQ ORC-U6ABOFC2GQ ORC-BF4TP56N3M ORC-M36E43DXYU ORC-N32DSSBHWO ORC-XKMGYMTT3V ORC-KA6LENTYCA ORC-4QZJWTL3WJ ORC-ZKVEYZYQYO ORC-UNCE5VXIKR ORC-2W5IZGLEG6",
+ "bibtex": "liu2007_151340",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-S255B3KK6S",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-QGCNFC6UKH",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-XYFC3PBK7T",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-XB2ET67YKQ",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-U6ABOFC2GQ",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-BF4TP56N3M",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-M36E43DXYU",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-N32DSSBHWO",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-XKMGYMTT3V",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-KA6LENTYCA",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-4QZJWTL3WJ",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-ZKVEYZYQYO",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-UNCE5VXIKR",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   },
+   {
+    "id": "ORC-2W5IZGLEG6",
+    "paper": "doi:10.1016/j.jallcom.2006.08.081"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2006.08.081"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2006.08.081"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoNd-07Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

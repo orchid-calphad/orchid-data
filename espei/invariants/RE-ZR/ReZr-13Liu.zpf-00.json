@@ -1,0 +1,102 @@
+{
+ "components": [
+  "RE",
+  "ZR"
+ ],
+ "phases": [
+  "C14_LAVES",
+  "LIQUID",
+  "REZR2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2173
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "REZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1959, Savitskii EM, Tylkina MA, Tsyganova IA (1959) At Energy 7:231 (in Russian)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DFFOYPPTVR",
+ "bibtex": "savitskii1959_673b5f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DFFOYPPTVR",
+    "paper": "doi:10.1007/s00706-013-1040-5",
+    "measured_in": "ref:10a09d51dfb47b09",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:10a09d51dfb47b09",
+   "doi:10.1007/s00706-013-1040-5",
+   "doi:10.1007/bf01479962"
+  ],
+  "dois": [
+   "10.1007/bf01479962",
+   "10.1007/s00706-013-1040-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ReZr-13Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "components": [
+  "CO",
+  "V"
+ ],
+ "phases": [
+  "BCC_A2",
+  "COV3_A15",
+  "SIGMA_OLD"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1298.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "SIGMA_OLD",
+    [
+     "V"
+    ],
+    [
+     0.71
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     0.84
+    ]
+   ],
+   [
+    "COV3_A15",
+    [
+     "V"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2015, doi:10.1016/j.matchemphys.2015.06.028",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GH7T53CJCN",
+ "bibtex": "wang2015_83c0d8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GH7T53CJCN",
+    "paper": "doi:10.1016/j.matchemphys.2015.06.028"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.matchemphys.2015.06.028"
+  ],
+  "dois": [
+   "10.1016/j.matchemphys.2015.06.028"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoV-15Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

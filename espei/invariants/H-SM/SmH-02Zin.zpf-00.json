@@ -1,0 +1,92 @@
+{
+ "components": [
+  "H",
+  "SM"
+ ],
+ "phases": [
+  "H2GAS",
+  "SMH2_C1",
+  "SMH3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   587
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "SMH2_C1",
+    [
+     "H"
+    ],
+    [
+     0.706
+    ]
+   ],
+   [
+    "H2GAS",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SMH3",
+    [
+     "H"
+    ],
+    [
+     0.74
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mintz 1974, doi:10.1016/0022-5088(74)90025-3",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-A2WJZQIE73",
+ "bibtex": "mintz1974_1613a4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-A2WJZQIE73",
+    "paper": "doi:10.1016/s0925-8388(01)01990-9",
+    "measured_in": "doi:10.1016/0022-5088(74)90025-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(74)90025-3",
+   "doi:10.1016/s0925-8388(01)01990-9",
+   "doi:10.1016/0022-5088(76)90006-0"
+  ],
+  "dois": [
+   "10.1016/0022-5088(74)90025-3",
+   "10.1016/0022-5088(76)90006-0",
+   "10.1016/s0925-8388(01)01990-9"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SmH-02Zin/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

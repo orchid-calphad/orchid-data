@@ -1,0 +1,101 @@
+{
+ "components": [
+  "GD",
+  "ZR"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1493.0,
+   1463.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.025
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.025
+    ]
+   ]
+  ]
+ ],
+ "reference": "1964, M. Copeland and H. Kato: Physics and Material Problems of Reactor Control Rods, International Atomic Energy Agency, Vienna, 1964, pp. 295-317.",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5I2VQ4BVFK ORC-FWQKIRW3TH",
+ "bibtex": "copeland1964_9b61e7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5I2VQ4BVFK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770339283",
+    "measured_in": "ref:51c8a7729760d417"
+   },
+   {
+    "id": "ORC-FWQKIRW3TH",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770339283",
+    "measured_in": "ref:51c8a7729760d417"
+   }
+  ],
+  "papers": [
+   "ref:51c8a7729760d417",
+   "doi:10.1361/105497101770339283"
+  ],
+  "dois": [
+   "10.1361/105497101770339283"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GdZr-01Zin-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

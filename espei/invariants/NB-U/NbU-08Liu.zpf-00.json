@@ -1,0 +1,85 @@
+{
+ "components": [
+  "NB",
+  "U"
+ ],
+ "phases": [
+  "BCC_A2",
+  "ORTHORHOMBIC_A20",
+  "TETRAGONAL_U"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   937.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A20",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2008, doi:10.1016/j.jnucmat.2008.07.008",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JWOECY4HW5",
+ "bibtex": "liu2008_ea7973",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JWOECY4HW5",
+    "paper": "doi:10.1016/j.jnucmat.2008.07.008"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2008.07.008"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2008.07.008"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbU-08Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

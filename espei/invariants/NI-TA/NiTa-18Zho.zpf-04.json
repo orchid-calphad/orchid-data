@@ -1,0 +1,231 @@
+{
+ "components": [
+  "NI",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "NI2TA_C11B",
+  "NI3TA",
+  "NITA2_C16",
+  "NITA_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1808.0,
+   1678.0,
+   1634.0,
+   1843.0,
+   2061.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "NI3TA",
+    [
+     "TA"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "NI3TA",
+    [
+     "TA"
+    ],
+    [
+     0.285
+    ]
+   ],
+   [
+    "NI2TA_C11B",
+    [
+     "TA"
+    ],
+    [
+     0.34
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "NI2TA_C11B",
+    [
+     "TA"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "NITA_D85",
+    [
+     "TA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.489
+    ]
+   ],
+   [
+    "NITA2_C16",
+    [
+     "TA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "NITA_D85",
+    [
+     "TA"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.543
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "NITA2_C16",
+    [
+     "TA"
+    ],
+    [
+     0.675
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhou 2018, doi:10.1016/j.tca.2018.06.011",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RDNXYBTMO5 ORC-LXMVMHJXZ5 ORC-GJK35O3TI4 ORC-YEIWYJSXUC ORC-ARBM4EU2WF",
+ "bibtex": "zhou2018_986370",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RDNXYBTMO5",
+    "paper": "doi:10.1016/j.tca.2018.06.011"
+   },
+   {
+    "id": "ORC-LXMVMHJXZ5",
+    "paper": "doi:10.1016/j.tca.2018.06.011"
+   },
+   {
+    "id": "ORC-GJK35O3TI4",
+    "paper": "doi:10.1016/j.tca.2018.06.011"
+   },
+   {
+    "id": "ORC-YEIWYJSXUC",
+    "paper": "doi:10.1016/j.tca.2018.06.011"
+   },
+   {
+    "id": "ORC-ARBM4EU2WF",
+    "paper": "doi:10.1016/j.tca.2018.06.011"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2018.06.011"
+  ],
+  "dois": [
+   "10.1016/j.tca.2018.06.011"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiTa-18Zho/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

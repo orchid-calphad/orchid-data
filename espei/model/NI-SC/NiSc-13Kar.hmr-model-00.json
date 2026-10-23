@@ -1,0 +1,231 @@
+{
+ "components": [
+  "NI",
+  "SC"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SC": [
+   0.166667,
+   0.166667,
+   0.222222,
+   0.222222,
+   0.222222,
+   0.333333,
+   0.333333,
+   0.5,
+   0.5,
+   0.666667,
+   0.666667
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -19126.0,
+    -19600.0,
+    -33000.0,
+    -24450.0,
+    -25750.0,
+    -34996.0,
+    -37038.0,
+    -46532.0,
+    -45809.0,
+    -27429.0,
+    -26500.0
+   ]
+  ]
+ ],
+ "reference": "Kardellass 2013, doi:10.1016/j.calphad.2013.07.003",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-INRSDO6QD3 ORC-KA5GZCZRKW ORC-6X2XF4EHKJ ORC-YHF43MP3ET ORC-RVJ54JBE3W ORC-LME2MZEPAM ORC-42RFQ4Q5BC ORC-N7GFJ7U2E6 ORC-KRXZGR4XZ3 ORC-6RAGQTDH2R ORC-75UNXMBK5U",
+ "reference_states": {
+  "NI": {
+   "phase": "FCC_A1"
+  },
+  "SC": {
+   "phase": "HCP_A3"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NiSc-13Kar.tdb",
+   "path": "databases/sgte-binary/NiSc-13Kar.tdb",
+   "sha256": "49e8d54d4d81024bf4f03f2711f379f7f638cc4bd238e7c82e9347ccdbb733c3",
+   "catalog_entry": {
+    "name": "NiSc-13Kar.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2013-07-003",
+   "doi": "10.1016/j.calphad.2013.07.003",
+   "citation": {
+    "authors": "see doi",
+    "title": "Calphad, 42, 59-65(2013).",
+    "year": "2013"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "kardellass2013_a827fa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-INRSDO6QD3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-KA5GZCZRKW",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-6X2XF4EHKJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-YHF43MP3ET",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-RVJ54JBE3W",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-LME2MZEPAM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-42RFQ4Q5BC",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-N7GFJ7U2E6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-KRXZGR4XZ3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-6RAGQTDH2R",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   },
+   {
+    "id": "ORC-75UNXMBK5U",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2013.07.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.07.003"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NiSc-13Kar/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

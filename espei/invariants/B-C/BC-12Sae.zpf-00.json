@@ -1,0 +1,78 @@
+{
+ "components": [
+  "B",
+  "C"
+ ],
+ "phases": [
+  "B4C_D1G",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2723
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "B4C_D1G",
+    [
+     "C"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ]
+ ],
+ "reference": "Beauvy 1983, doi:10.1016/0022-5088(83)90067-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JNDQIDI6F5",
+ "bibtex": "beauvy1983_ec9be7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JNDQIDI6F5",
+    "paper": "doi:10.1016/j.actamat.2012.09.029",
+    "measured_in": "doi:10.1016/0022-5088(83)90067-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(83)90067-x",
+   "doi:10.1016/j.actamat.2012.09.029"
+  ],
+  "dois": [
+   "10.1016/0022-5088(83)90067-x",
+   "10.1016/j.actamat.2012.09.029"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BC-12Sae/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

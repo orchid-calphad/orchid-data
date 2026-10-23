@@ -1,0 +1,145 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "M3SI_A15",
+  "M5SI3_D8M",
+  "MOSI2_C11B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2163,
+   2323
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M5SI3_D8M",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "MOSI2_C11B",
+    [
+     "SI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.5208333334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M3SI_A15",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ]
+ ],
+ "reference": "1980, Zotov YuP, Kroshkina NN, Bukharin VE. Neorgan Mater 1980; 16(5):842±5.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PN5SPUEC22 ORC-BZJXIWQBT2",
+ "bibtex": "zotov1980_b82350",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PN5SPUEC22",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6",
+    "measured_in": "ref:af2d13e7ae20be2c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-BZJXIWQBT2",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6",
+    "measured_in": "ref:af2d13e7ae20be2c"
+   }
+  ],
+  "papers": [
+   "ref:af2d13e7ae20be2c",
+   "doi:10.1016/s0966-9795(00)00068-6"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(00)00068-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoSi-00Liu/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 31.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 40.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,338 @@
+{
+ "components": [
+  "SI",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4",
+  "LIQUID",
+  "SI2TA_C40",
+  "SI3TA5_D8L",
+  "SI3TA5_D8M",
+  "SITA2_C16",
+  "SITA3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1673,
+   2233,
+   2533,
+   2713,
+   2613,
+   2313,
+   2823,
+   2433.5
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI2TA_C40",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.38
+    ]
+   ],
+   [
+    "SI2TA_C40",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "SI3TA5_D8L",
+    [
+     "TA"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.83
+    ]
+   ],
+   [
+    "SITA3",
+    [
+     "TA"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "SI3TA5_D8M",
+    [
+     "TA"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.72
+    ]
+   ],
+   [
+    "SITA2_C16",
+    [
+     "TA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "SITA2_C16",
+    [
+     "TA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.78
+    ]
+   ],
+   [
+    "SITA3",
+    [
+     "TA"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.3333
+    ]
+   ],
+   [
+    "SI2TA_C40",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "SI3TA5_D8M",
+    [
+     "TA"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "SI3TA5_D8L",
+    [
+     "TA"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "SI3TA5_D8M",
+    [
+     "TA"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, T.D. Massalski, Si–Ta (Silicium-Tantalum), in: T.D. Massalski (Ed.), Binary Alloys Phase Diagrams, second ed., vol. 3, ASM International, Metals Park, Ohio, 1990, pp. 3364–3366.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JLZ2YTIJ37 ORC-GTHAIGCD5K ORC-2AX7Z2U6G7 ORC-RCUXKKXDLQ ORC-AY5R7HRCFV ORC-RCBHQLDBYC ORC-XYQHG3SW7C ORC-YXLDCRH5JK",
+ "bibtex": "massalski1990_6cdc41",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JLZ2YTIJ37",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148",
+    "measured_in": "ref:d0239d5fb22f2ee0"
+   },
+   {
+    "id": "ORC-GTHAIGCD5K",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148",
+    "measured_in": "ref:d0239d5fb22f2ee0"
+   },
+   {
+    "id": "ORC-2AX7Z2U6G7",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148",
+    "measured_in": "ref:d0239d5fb22f2ee0"
+   },
+   {
+    "id": "ORC-RCUXKKXDLQ",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148",
+    "measured_in": "ref:d0239d5fb22f2ee0"
+   },
+   {
+    "id": "ORC-AY5R7HRCFV",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148",
+    "measured_in": "ref:d0239d5fb22f2ee0"
+   },
+   {
+    "id": "ORC-RCBHQLDBYC",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148",
+    "measured_in": "ref:d0239d5fb22f2ee0"
+   },
+   {
+    "id": "ORC-XYQHG3SW7C",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148",
+    "measured_in": "ref:d0239d5fb22f2ee0"
+   },
+   {
+    "id": "ORC-YXLDCRH5JK",
+    "paper": "doi:10.1016/j.jallcom.2012.09.148",
+    "measured_in": "ref:d0239d5fb22f2ee0"
+   }
+  ],
+  "papers": [
+   "ref:d0239d5fb22f2ee0",
+   "doi:10.1016/j.jallcom.2012.09.148"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2012.09.148"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiTa-13Dro/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

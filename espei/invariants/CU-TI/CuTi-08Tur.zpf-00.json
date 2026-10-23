@@ -1,0 +1,436 @@
+{
+ "components": [
+  "CU",
+  "TI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU2TI",
+  "CU3TI2",
+  "CU4TI",
+  "CU4TI3",
+  "CUTI2",
+  "CUTI_B11",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1202.0,
+   1257.0,
+   1233.0,
+   1283.0,
+   1276.0,
+   1073.0,
+   1165.0,
+   1151.0,
+   1138.0,
+   1158.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUTI_B11",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU4TI3",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.43
+    ]
+   ],
+   [
+    "CUTI_B11",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUTI2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "CUTI2",
+    [
+     "TI"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "CUTI2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUTI2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU4TI",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.27
+    ]
+   ],
+   [
+    "CU4TI",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2TI",
+    [
+     "TI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "CU2TI",
+    [
+     "TI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "CU4TI",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU3TI2",
+    [
+     "TI"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU4TI3",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2TI",
+    [
+     "TI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Turchanin 2008, doi:10.1007/s11106-008-9026-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TPDG5GJXP4 ORC-655PDHMN3G ORC-46MGT7SF2R ORC-2CREMRATLT ORC-USRRBCUP45 ORC-3MYJMUGQP3 ORC-R5ZA3OAZ3X ORC-AYWBCISHMU ORC-TNUYXCBUSE ORC-JC4YEWZFME",
+ "bibtex": "turchanin2008_727b32",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-TPDG5GJXP4",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-655PDHMN3G",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-46MGT7SF2R",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-2CREMRATLT",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-USRRBCUP45",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-3MYJMUGQP3",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-R5ZA3OAZ3X",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-AYWBCISHMU",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-TNUYXCBUSE",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   },
+   {
+    "id": "ORC-JC4YEWZFME",
+    "paper": "doi:10.1007/s11106-008-9026-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11106-008-9026-2",
+   "doi:10.1002/pssa.2210520121"
+  ],
+  "dois": [
+   "10.1002/pssa.2210520121",
+   "10.1007/s11106-008-9026-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuTi-08Tur/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 4.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

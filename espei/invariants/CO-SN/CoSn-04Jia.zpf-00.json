@@ -1,0 +1,234 @@
+{
+ "components": [
+  "CO",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "CO3SN2_B82",
+  "COSN2_C16",
+  "COSN3",
+  "COSN_B35",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1385.15,
+   1200.15,
+   788.15,
+   502.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO3SN2_B82",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO3SN2_B82",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "COSN_B35",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.45
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COSN_B35",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "COSN2_C16",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.5833333334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COSN3",
+    [
+     "SN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Żemcżużny 1908, doi:10.1002/zaac.19080590133",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-67UF7XA72N ORC-RGZG2FP275 ORC-Z6BLR3GFWG ORC-X473MYWLCT",
+ "bibtex": "zemczuzny1908_45f55c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-67UF7XA72N",
+    "paper": "doi:10.1016/j.calphad.2004.08.001",
+    "measured_in": "doi:10.1002/zaac.19080590133"
+   },
+   {
+    "id": "ORC-RGZG2FP275",
+    "paper": "doi:10.1016/j.calphad.2004.08.001",
+    "measured_in": "doi:10.1002/zaac.19080590133",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-Z6BLR3GFWG",
+    "paper": "doi:10.1016/j.calphad.2004.08.001",
+    "measured_in": "doi:10.1002/zaac.19080590133",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-X473MYWLCT",
+    "paper": "doi:10.1016/j.calphad.2004.08.001",
+    "measured_in": "doi:10.1002/zaac.19080590133"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/zaac.19080590133",
+   "doi:10.1016/j.calphad.2004.08.001"
+  ],
+  "dois": [
+   "10.1002/zaac.19080590133",
+   "10.1016/j.calphad.2004.08.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoSn-04Jia/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

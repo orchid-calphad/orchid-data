@@ -1,0 +1,231 @@
+{
+ "components": [
+  "CO",
+  "TA"
+ ],
+ "phases": [
+  "CO2TA_C14",
+  "CO2TA_C15",
+  "CO2TA_C36",
+  "COTA2_C16",
+  "L12_FCC",
+  "LIQUID",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1373.15,
+   1623.15,
+   1573.15,
+   1754.25,
+   1736.85,
+   1702.4499999999998,
+   1637.75
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "L12_FCC",
+    [
+     "TA"
+    ],
+    [
+     0.033
+    ]
+   ],
+   [
+    "CO2TA_C36",
+    [
+     "TA"
+    ],
+    [
+     0.238
+    ]
+   ]
+  ],
+  [
+   [
+    "CO2TA_C15",
+    [
+     "TA"
+    ],
+    [
+     0.34
+    ]
+   ],
+   [
+    "CO2TA_C14",
+    [
+     "TA"
+    ],
+    [
+     0.359
+    ]
+   ]
+  ],
+  [
+   [
+    "MU_D85",
+    [
+     "TA"
+    ],
+    [
+     0.534
+    ]
+   ],
+   [
+    "COTA2_C16",
+    [
+     "TA"
+    ],
+    [
+     0.644
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.035
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.085
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.12
+    ]
+   ]
+  ]
+ ],
+ "reference": "Shinagawa 2014, doi:10.1016/j.intermet.2014.01.015",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7JMIM3QYF4 ORC-VSEBLTAE4K ORC-22M7PR4FZE ORC-QJB7BOVZP3 ORC-5N372VSDKD ORC-TOUOP256F5 ORC-UNWQMRRNIQ",
+ "bibtex": "shinagawa2014_1cb57f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7JMIM3QYF4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2014.01.015",
+    "measured_in": "doi:10.1016/j.intermet.2014.01.015"
+   },
+   {
+    "id": "ORC-VSEBLTAE4K",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2014.01.015",
+    "measured_in": "doi:10.1016/j.intermet.2014.01.015"
+   },
+   {
+    "id": "ORC-22M7PR4FZE",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2014.01.015",
+    "measured_in": "doi:10.1016/j.intermet.2014.01.015"
+   },
+   {
+    "id": "ORC-QJB7BOVZP3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2014.01.015",
+    "measured_in": "doi:10.1016/j.intermet.2014.01.015"
+   },
+   {
+    "id": "ORC-5N372VSDKD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2014.01.015",
+    "measured_in": "doi:10.1016/j.intermet.2014.01.015"
+   },
+   {
+    "id": "ORC-TOUOP256F5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2014.01.015",
+    "measured_in": "doi:10.1016/j.intermet.2014.01.015"
+   },
+   {
+    "id": "ORC-UNWQMRRNIQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2014.01.015",
+    "measured_in": "doi:10.1016/j.intermet.2014.01.015"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2014.01.015"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2014.01.015"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CoTa-14Shi/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

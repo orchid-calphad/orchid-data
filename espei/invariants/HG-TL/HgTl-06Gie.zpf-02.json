@@ -1,0 +1,77 @@
+{
+ "components": [
+  "HG",
+  "TL"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   291
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.28600000000000003
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     0.28600000000000003
+    ]
+   ]
+  ]
+ ],
+ "reference": "1958, M. Hansen, K. Anderko, Constitutions of Binary Alloys, McGraw Hill, New York, 1958.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LOJB53BEAO",
+ "bibtex": "hansen1958_426fab",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LOJB53BEAO",
+    "paper": "doi:10.1016/j.calphad.2006.07.006",
+    "measured_in": "ref:935f3ed5c076e1cb"
+   }
+  ],
+  "papers": [
+   "ref:935f3ed5c076e1cb",
+   "doi:10.1016/j.calphad.2006.07.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2006.07.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HgTl-06Gie/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

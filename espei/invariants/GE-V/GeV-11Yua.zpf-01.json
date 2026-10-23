@@ -1,0 +1,114 @@
+{
+ "components": [
+  "GE",
+  "V"
+ ],
+ "phases": [
+  "GE3V5_D8M",
+  "GE8V11",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2203.15,
+   1848.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GE3V5_D8M",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GE3V5_D8M",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GE8V11",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Yuan 2011, doi:10.1016/j.tca.2010.11.018",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2P4RIWB5VG ORC-FBHAXAC54M",
+ "bibtex": "yuan2011_8dd8d9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2P4RIWB5VG",
+    "paper": "doi:10.1016/j.tca.2010.11.018"
+   },
+   {
+    "id": "ORC-FBHAXAC54M",
+    "paper": "doi:10.1016/j.tca.2010.11.018"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2010.11.018"
+  ],
+  "dois": [
+   "10.1016/j.tca.2010.11.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeV-11Yua/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "ER",
+  "V"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1753.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.043
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "V"
+    ],
+    [
+     0.004
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1871, . Reaction Reaction type L1 ↔ L2 + (V) Monotectic L ↔ (Er) + (V) Eutectic Composition at% V T (◦ C) Ref. 11.4 11.5 97.5 97.5 99.9 99.9 1870 1871",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-P5Y2OI5RYQ",
+ "bibtex": "reaction1871_cd5d4e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-P5Y2OI5RYQ",
+    "paper": "doi:10.1016/j.jallcom.2008.11.110",
+    "measured_in": "ref:09d74c272c5121d3"
+   }
+  ],
+  "papers": [
+   "ref:09d74c272c5121d3",
+   "doi:10.1016/j.jallcom.2008.11.110"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.11.110"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ErV-09Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

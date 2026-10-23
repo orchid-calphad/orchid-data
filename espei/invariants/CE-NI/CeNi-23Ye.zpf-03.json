@@ -1,0 +1,96 @@
+{
+ "components": [
+  "CE",
+  "NI"
+ ],
+ "phases": [
+  "CE7NI3_D102",
+  "CENI_B33",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   757
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [33] of doi:10-1007-s10853-022-08039-1 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YYHMPOSRVZ",
+ "bibtex": "referencend_0ece3b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YYHMPOSRVZ",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "unresolved:source:doi:10-1007-s10853-022-08039-1#33"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1007-s10853-022-08039-1#33",
+   "doi:10.1007/s10853-022-08039-1"
+  ],
+  "dois": [
+   "10.1007/s10853-022-08039-1"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeNi-23Ye/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

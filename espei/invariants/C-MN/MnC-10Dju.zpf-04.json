@@ -1,0 +1,85 @@
+{
+ "components": [
+  "C",
+  "MN"
+ ],
+ "phases": [
+  "CBCC_A12",
+  "LIQUID",
+  "M7C3_D101"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1573.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "MN"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     0.774016
+    ]
+   ]
+  ]
+ ],
+ "reference": "Djurovic 2010, doi:10.1016/j.calphad.2010.05.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6FILQFE3RG",
+ "bibtex": "djurovic2010_7636ec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6FILQFE3RG",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.05.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2010.05.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnC-10Dju/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

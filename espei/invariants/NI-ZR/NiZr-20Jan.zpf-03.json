@@ -1,0 +1,227 @@
+{
+ "components": [
+  "NI",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID",
+  "NIZR2_C16",
+  "NIZR_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1258.0,
+   1234.0,
+   1081.0,
+   1743.0,
+   1473
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.635
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.759
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.98
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "1953, E.T. Hayes, A.H. Roberson, O.G. Paasche, The Zirconium-Nickel phase diagram, Trans. ASM 45 (1953) 893–900.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YIF3TTONO7 ORC-TWAV3NC2PW ORC-XVJ5LLI2K7 ORC-HMKBYSGZN2 ORC-S52RSEXR5X",
+ "bibtex": "hayes1953_f445e4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YIF3TTONO7",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:28c66992669d0d07"
+   },
+   {
+    "id": "ORC-TWAV3NC2PW",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:28c66992669d0d07"
+   },
+   {
+    "id": "ORC-XVJ5LLI2K7",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:28c66992669d0d07"
+   },
+   {
+    "id": "ORC-HMKBYSGZN2",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:28c66992669d0d07"
+   },
+   {
+    "id": "ORC-S52RSEXR5X",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "ref:28c66992669d0d07"
+   }
+  ],
+  "papers": [
+   "ref:28c66992669d0d07",
+   "doi:10.1016/j.intermet.2019.106640"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2019.106640"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZr-20Jan/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "components": [
+  "TA",
+  "V"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C15_LAVES",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2098,
+   1583
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.85
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     0.85
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     0.6699999999999999
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "V"
+    ],
+    [
+     0.6699999999999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "1965, A.P. Nefedov, E.M. Sokolovskaya, A.T. Grigor’ev, V.I. Chechernikov, I.G. Sokolova, L.S. Guzei, Vestnik Moskovskogo Universiteta Ser. 2 (1965) 42. 199",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HTH2ML4Z7L ORC-UUELXVBTD7",
+ "bibtex": "nefedov1965_76a3fa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HTH2ML4Z7L",
+    "paper": "doi:10.1016/s0925-8388(03)00728-x",
+    "measured_in": "ref:6521565d92e94ca3"
+   },
+   {
+    "id": "ORC-UUELXVBTD7",
+    "paper": "doi:10.1016/s0925-8388(03)00728-x",
+    "measured_in": "ref:6521565d92e94ca3"
+   }
+  ],
+  "papers": [
+   "ref:6521565d92e94ca3",
+   "doi:10.1016/s0925-8388(03)00728-x"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(03)00728-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/TaV-04Dan-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

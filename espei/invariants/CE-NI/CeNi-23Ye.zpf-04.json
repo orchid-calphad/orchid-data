@@ -1,0 +1,227 @@
+{
+ "components": [
+  "CE",
+  "NI"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "CE7NI3_D102",
+  "CENI_B33",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   750,
+   778,
+   768,
+   953,
+   928
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.22
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.33
+    ]
+   ],
+   [
+    "CE7NI3_D102",
+    [
+     "NI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.55
+    ]
+   ],
+   [
+    "CENI_B33",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "1967, Gebhart JM, Etter DE, Tucker PA (1967) Proceedings of the sixth R.E. research conference, Rare Earth Information Centre, Ames, IA, 3–5 May 1967, pp 452–457",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UVVTSPXBZ7 ORC-6LPWCVELAW ORC-2ETTLJEJTD ORC-SIKVFW6YUG ORC-I7VWZASE5K",
+ "bibtex": "gebhart1967_204bec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UVVTSPXBZ7",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "ref:66cad00910730d7e"
+   },
+   {
+    "id": "ORC-6LPWCVELAW",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "ref:66cad00910730d7e"
+   },
+   {
+    "id": "ORC-2ETTLJEJTD",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "ref:66cad00910730d7e"
+   },
+   {
+    "id": "ORC-SIKVFW6YUG",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "ref:66cad00910730d7e"
+   },
+   {
+    "id": "ORC-I7VWZASE5K",
+    "paper": "doi:10.1007/s10853-022-08039-1",
+    "measured_in": "ref:66cad00910730d7e"
+   }
+  ],
+  "papers": [
+   "ref:66cad00910730d7e",
+   "doi:10.1007/s10853-022-08039-1"
+  ],
+  "dois": [
+   "10.1007/s10853-022-08039-1"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeNi-23Ye/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

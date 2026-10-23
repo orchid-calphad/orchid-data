@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AL",
+  "CR"
+ ],
+ "phases": [
+  "AL4CR",
+  "AL5CR",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1176.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.05
+    ]
+   ],
+   [
+    "AL4CR",
+    [
+     "CR"
+    ],
+    [
+     0.185
+    ]
+   ],
+   [
+    "AL5CR",
+    [
+     "CR"
+    ],
+    [
+     0.154
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mahdouk 2000, doi:10.1361/105497100770340219",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RJ45A75VAH",
+ "bibtex": "mahdouk2000_dfc8eb",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RJ45A75VAH",
+    "paper": "doi:10.1016/j.tca.2013.03.033",
+    "measured_in": "doi:10.1361/105497100770340219"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497100770340219",
+   "doi:10.1016/j.tca.2013.03.033"
+  ],
+  "dois": [
+   "10.1016/j.tca.2013.03.033",
+   "10.1361/105497100770340219"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlCr-13Hu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "components": [
+  "FE",
+  "NB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C14_LAVES",
+  "FCC_A1",
+  "LIQUID",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1796.0,
+   1781.0,
+   1646.0,
+   1456.0,
+   1216.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.52
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "NB"
+    ],
+    [
+     0.376
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NB"
+    ],
+    [
+     0.465
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.586
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NB"
+    ],
+    [
+     0.51
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NB"
+    ],
+    [
+     0.91
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.082
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NB"
+    ],
+    [
+     0.032
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "NB"
+    ],
+    [
+     0.251
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NB"
+    ],
+    [
+     0.015
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NB"
+    ],
+    [
+     0.011
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "NB"
+    ],
+    [
+     0.265
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "NB"
+    ],
+    [
+     0.276
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Sun 2024, doi:10.1016/j.actamat.2024.119747",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WR5VYTA7OH ORC-55A2NR5KOX ORC-VYDLG3QV4O ORC-GM4JDAPI3A ORC-QQ5DDOG22V",
+ "bibtex": "sun2024_01fd5f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WR5VYTA7OH",
+    "paper": "doi:10.1016/j.actamat.2024.119747"
+   },
+   {
+    "id": "ORC-55A2NR5KOX",
+    "paper": "doi:10.1016/j.actamat.2024.119747"
+   },
+   {
+    "id": "ORC-VYDLG3QV4O",
+    "paper": "doi:10.1016/j.actamat.2024.119747"
+   },
+   {
+    "id": "ORC-GM4JDAPI3A",
+    "paper": "doi:10.1016/j.actamat.2024.119747"
+   },
+   {
+    "id": "ORC-QQ5DDOG22V",
+    "paper": "doi:10.1016/j.actamat.2024.119747"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2024.119747"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2024.119747"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeNb-24Sun/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 1.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 15.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 25.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "components": [
+  "AL",
+  "CD"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   988.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CD"
+    ],
+    [
+     0.034
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CD"
+    ],
+    [
+     0.925
+    ]
+   ]
+  ]
+ ],
+ "reference": "McAlister 1982, doi:10.1007/bf02892376",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6TAHHEPZJU",
+ "bibtex": "mcalister1982_d01215",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6TAHHEPZJU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02892376"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02892376"
+  ],
+  "dois": [
+   "10.1007/bf02892376"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlCd-82McA/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

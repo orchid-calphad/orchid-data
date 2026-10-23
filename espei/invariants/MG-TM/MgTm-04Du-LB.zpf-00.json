@@ -1,0 +1,251 @@
+{
+ "components": [
+  "MG",
+  "TM"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID",
+  "MG24TM5_A12",
+  "MG2TM_C14",
+  "MGTM_B2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   848,
+   863,
+   1033,
+   1473,
+   943
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.11
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TM"
+    ],
+    [
+     0.06
+    ]
+   ],
+   [
+    "MG24TM5_A12",
+    [
+     "TM"
+    ],
+    [
+     0.1724137931034483
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.13
+    ]
+   ],
+   [
+    "MG2TM_C14",
+    [
+     "TM"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "MG24TM5_A12",
+    [
+     "TM"
+    ],
+    [
+     0.1724137931034483
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.32
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TM"
+    ],
+    [
+     0.57
+    ]
+   ],
+   [
+    "MGTM_B2",
+    [
+     "TM"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.69
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TM"
+    ],
+    [
+     0.88
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TM"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TM"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "MGTM_B2",
+    [
+     "TM"
+    ],
+    [
+     0.52
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TM"
+    ],
+    [
+     0.87
+    ]
+   ]
+  ]
+ ],
+ "reference": "Saccone 1995, doi:10.1016/0925-8388(94)06023-1",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2B2KI7D33D ORC-NJAVRCS2NH ORC-EJVY27LGMZ ORC-C5VPMUDM5V ORC-B5KTIEUM4G",
+ "bibtex": "saccone1995_63b61e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2B2KI7D33D",
+    "paper": "doi:10.1016/j.jallcom.2003.10.033",
+    "measured_in": "doi:10.1016/0925-8388(94)06023-1"
+   },
+   {
+    "id": "ORC-NJAVRCS2NH",
+    "paper": "doi:10.1016/j.jallcom.2003.10.033",
+    "measured_in": "doi:10.1016/0925-8388(94)06023-1"
+   },
+   {
+    "id": "ORC-EJVY27LGMZ",
+    "paper": "doi:10.1016/j.jallcom.2003.10.033",
+    "measured_in": "doi:10.1016/0925-8388(94)06023-1"
+   },
+   {
+    "id": "ORC-C5VPMUDM5V",
+    "paper": "doi:10.1016/j.jallcom.2003.10.033",
+    "measured_in": "doi:10.1016/0925-8388(94)06023-1",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-B5KTIEUM4G",
+    "paper": "doi:10.1016/j.jallcom.2003.10.033",
+    "measured_in": "doi:10.1016/0925-8388(94)06023-1"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(94)06023-1",
+   "doi:10.1016/j.jallcom.2003.10.033"
+  ],
+  "dois": [
+   "10.1016/0925-8388(94)06023-1",
+   "10.1016/j.jallcom.2003.10.033"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgTm-04Du-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

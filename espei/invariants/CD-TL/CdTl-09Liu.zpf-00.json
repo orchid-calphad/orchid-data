@@ -1,0 +1,114 @@
+{
+ "components": [
+  "CD",
+  "TL"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   475.0,
+   431.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.71
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TL"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TL"
+    ],
+    [
+     0.944
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TL"
+    ],
+    [
+     0.958
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TL"
+    ],
+    [
+     0.98
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2009, doi:10.1016/j.jallcom.2008.05.106",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CDUUE2BAKH ORC-SXNH443T6P",
+ "bibtex": "liu2009_29d7da",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CDUUE2BAKH",
+    "paper": "doi:10.1016/j.jallcom.2008.05.106"
+   },
+   {
+    "id": "ORC-SXNH443T6P",
+    "paper": "doi:10.1016/j.jallcom.2008.05.106"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2008.05.106"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.05.106"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CdTl-09Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

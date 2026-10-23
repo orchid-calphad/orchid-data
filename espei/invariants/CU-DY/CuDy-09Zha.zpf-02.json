@@ -1,0 +1,221 @@
+{
+ "components": [
+  "CU",
+  "DY"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU2DY",
+  "CU7DY",
+  "CU9DY2",
+  "CUDY_B2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1153,
+   1138,
+   1113,
+   1081
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "DY"
+    ],
+    [
+     0.07400000000000001
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "DY"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU7DY",
+    [
+     "DY"
+    ],
+    [
+     0.125
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "DY"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU9DY2",
+    [
+     "DY"
+    ],
+    [
+     0.18181818181818182
+    ]
+   ],
+   [
+    "CU2DY",
+    [
+     "DY"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "DY"
+    ],
+    [
+     0.2575757575
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "DY"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2DY",
+    [
+     "DY"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "CUDY_B2",
+    [
+     "DY"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "DY"
+    ],
+    [
+     0.741
+    ]
+   ],
+   [
+    "CUDY_B2",
+    [
+     "DY"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "DY"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1982, C.S. Cheng, G.X. Xu, Acta Phys. Sinica 31 (1982) 807–809.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LC53Q6V3UG ORC-J6HCN2B46U ORC-A5GXLL43TI ORC-KQAKBYBTAV",
+ "bibtex": "cheng1982_4274d9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LC53Q6V3UG",
+    "paper": "doi:10.1016/j.jallcom.2008.03.007",
+    "measured_in": "ref:55cba08bc9b661d6"
+   },
+   {
+    "id": "ORC-J6HCN2B46U",
+    "paper": "doi:10.1016/j.jallcom.2008.03.007",
+    "measured_in": "ref:55cba08bc9b661d6"
+   },
+   {
+    "id": "ORC-A5GXLL43TI",
+    "paper": "doi:10.1016/j.jallcom.2008.03.007",
+    "measured_in": "ref:55cba08bc9b661d6"
+   },
+   {
+    "id": "ORC-KQAKBYBTAV",
+    "paper": "doi:10.1016/j.jallcom.2008.03.007",
+    "measured_in": "ref:55cba08bc9b661d6",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:55cba08bc9b661d6",
+   "doi:10.1016/j.jallcom.2008.03.007"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.03.007"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuDy-09Zha/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

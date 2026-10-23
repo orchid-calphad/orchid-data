@@ -1,0 +1,245 @@
+{
+ "components": [
+  "AG",
+  "AL"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CUB_A13",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1053,
+   1000,
+   839,
+   883,
+   728
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.178
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.212
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     0.207
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.33
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.32
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.67
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.42
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.762
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.203
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "AL"
+    ],
+    [
+     0.238
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.235
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.199
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.238
+    ]
+   ],
+   [
+    "CUB_A13",
+    [
+     "AL"
+    ],
+    [
+     0.232
+    ]
+   ]
+  ]
+ ],
+ "reference": "1969, Hansen M, Anderko K (1958)Constitution of binary alloys. McGraw-Hill, New York; Elliott RP (1965) 1st supplement; Shunk FA (1969) 2rid supplement",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XWGGGF223Y ORC-SGL3MTF5EH ORC-TOTSGOQCNM ORC-WF2C56PEMB ORC-46V4FZTKZN",
+ "bibtex": "hansen1969_cec87c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XWGGGF223Y",
+    "paper": "doi:10.1007/bf00810049",
+    "measured_in": "ref:6f4d13ea417231ef"
+   },
+   {
+    "id": "ORC-SGL3MTF5EH",
+    "paper": "doi:10.1007/bf00810049",
+    "measured_in": "ref:6f4d13ea417231ef"
+   },
+   {
+    "id": "ORC-TOTSGOQCNM",
+    "paper": "doi:10.1007/bf00810049",
+    "measured_in": "ref:6f4d13ea417231ef"
+   },
+   {
+    "id": "ORC-WF2C56PEMB",
+    "paper": "doi:10.1007/bf00810049",
+    "measured_in": "ref:6f4d13ea417231ef"
+   },
+   {
+    "id": "ORC-46V4FZTKZN",
+    "paper": "doi:10.1007/bf00810049",
+    "measured_in": "ref:6f4d13ea417231ef"
+   }
+  ],
+  "papers": [
+   "ref:6f4d13ea417231ef",
+   "doi:10.1007/bf00810049"
+  ],
+  "dois": [
+   "10.1007/bf00810049"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgAl-87Spe/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

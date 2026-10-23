@@ -1,0 +1,108 @@
+{
+ "components": [
+  "TA",
+  "V"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C15_LAVES",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2093,
+   1593
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.892
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     0.892
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     0.6699999999999999
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "V"
+    ],
+    [
+     0.6699999999999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "1959, O.N. Carlson, D.T. Eash, A.L. Eustice, in: W.R. Clough (Ed.), Reactive Metals, vol. 2, Interscience, New York, 1959, pp. 277–293.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BLMXTVKXXK ORC-3T7OUI2OHH",
+ "bibtex": "carlson1959_1d7d6e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BLMXTVKXXK",
+    "paper": "doi:10.1016/s0925-8388(03)00728-x",
+    "measured_in": "ref:3e8ba5b2776a4fee"
+   },
+   {
+    "id": "ORC-3T7OUI2OHH",
+    "paper": "doi:10.1016/s0925-8388(03)00728-x",
+    "measured_in": "ref:3e8ba5b2776a4fee"
+   }
+  ],
+  "papers": [
+   "ref:3e8ba5b2776a4fee",
+   "doi:10.1016/s0925-8388(03)00728-x"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(03)00728-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/TaV-04Dan-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

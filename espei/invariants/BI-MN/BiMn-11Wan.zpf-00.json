@@ -1,0 +1,89 @@
+{
+ "components": [
+  "BI",
+  "MN"
+ ],
+ "phases": [
+  "BIMN_B81",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   538.25
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     0.0269
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "MN"
+    ],
+    [
+     0.0042
+    ]
+   ],
+   [
+    "BIMN_B81",
+    [
+     "MN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2011, doi:10.1016/j.jnucmat.2011.02.021",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WGZXDCQVIQ",
+ "bibtex": "wang2011_d82a62",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WGZXDCQVIQ",
+    "paper": "doi:10.1016/j.jnucmat.2011.02.021"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2011.02.021",
+   "doi:10.1007/bf02700456"
+  ],
+  "dois": [
+   "10.1007/bf02700456",
+   "10.1016/j.jnucmat.2011.02.021"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiMn-11Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 0.3,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

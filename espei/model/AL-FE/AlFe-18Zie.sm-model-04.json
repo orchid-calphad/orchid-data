@@ -1,0 +1,109 @@
+{
+ "components": [
+  "AL",
+  "FE"
+ ],
+ "phases": [
+  "AL2FE",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_FE": [
+   0.333333,
+   0.333333
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    30.21,
+    30.21
+   ]
+  ]
+ ],
+ "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OQUBXYMF3T.b5ebd9 ORC-OQUBXYMF3T.b5ebd9",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "AlFe-18Zie.tdb",
+   "path": "databases/sgte-binary/AlFe-18Zie.tdb",
+   "sha256": "7be8d8a9158e1e624f9de2185cbfb13684569190b4c9b32b63b4fbd17a8f519a",
+   "catalog_entry": {
+    "name": "AlFe-18Zie.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2018-01-316",
+   "doi": "10.1016/j.jallcom.2018.01.316",
+   "citation": {
+    "authors": "see doi",
+    "title": "T. Zienert, O. Fabrichnaya, J. Alloys Compd., 743, 795-811(2018).",
+    "year": "2018"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "zienert2018_83e03a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-OQUBXYMF3T.b5ebd9",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2022.168361",
+    "measured_in": "doi:10.1016/j.jallcom.2018.01.316"
+   },
+   {
+    "id": "ORC-OQUBXYMF3T.b5ebd9",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2022.168361",
+    "measured_in": "doi:10.1016/j.jallcom.2018.01.316"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2018.01.316",
+   "doi:10.1016/j.jallcom.2022.168361"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2018.01.316",
+   "10.1016/j.jallcom.2022.168361"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/AlFe-18Zie/sm-model-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

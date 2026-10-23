@@ -1,0 +1,90 @@
+{
+ "components": [
+  "NB",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "NB3SI",
+  "NB5SI3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1943.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "NB3SI",
+    [
+     "SI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.016
+    ]
+   ],
+   [
+    "NB5SI3",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mendiratta 1991, doi:10.1016/0956-716x(91)90387-g",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NR2Q5R6S5P",
+ "bibtex": "mendiratta1991_4d53fa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NR2Q5R6S5P",
+    "paper": "doi:10.1016/s0966-9795(98)00073-9",
+    "measured_in": "doi:10.1016/0956-716x(91)90387-g"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0956-716x(91)90387-g",
+   "doi:10.1016/s0966-9795(98)00073-9"
+  ],
+  "dois": [
+   "10.1016/0956-716x(91)90387-g",
+   "10.1016/s0966-9795(98)00073-9"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbSi-99Lia/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 15.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

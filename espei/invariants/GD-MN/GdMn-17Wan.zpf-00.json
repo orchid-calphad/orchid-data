@@ -1,0 +1,184 @@
+{
+ "components": [
+  "GD",
+  "MN"
+ ],
+ "phases": [
+  "GD6MN23_D8A",
+  "GDMN12_D2B",
+  "GDMN2_C15",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1093.0,
+   1277.9,
+   1313.1
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GDMN2_C15",
+    [
+     "MN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GD6MN23_D8A",
+    [
+     "MN"
+    ],
+    [
+     0.7931034482758621
+    ]
+   ],
+   [
+    "GDMN2_C15",
+    [
+     "MN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.7298850575
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GD6MN23_D8A",
+    [
+     "MN"
+    ],
+    [
+     0.7931034482758621
+    ]
+   ],
+   [
+    "GDMN12_D2B",
+    [
+     "MN"
+    ],
+    [
+     0.9230769230769231
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MN"
+    ],
+    [
+     0.8580901855
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2017, doi:10.1007/s10973-016-6000-y",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6QGLXM5YF2 ORC-UGYZKARA36 ORC-3IGSD6MSRB",
+ "bibtex": "wang2017_4ca5ad",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6QGLXM5YF2",
+    "paper": "doi:10.1007/s10973-016-6000-y",
+    "measured_in": "doi:10.1007/s10973-016-6000-y"
+   },
+   {
+    "id": "ORC-UGYZKARA36",
+    "paper": "doi:10.1007/s10973-016-6000-y",
+    "measured_in": "doi:10.1007/s10973-016-6000-y"
+   },
+   {
+    "id": "ORC-3IGSD6MSRB",
+    "paper": "doi:10.1007/s10973-016-6000-y",
+    "measured_in": "doi:10.1007/s10973-016-6000-y"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-016-6000-y"
+  ],
+  "dois": [
+   "10.1007/s10973-016-6000-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GdMn-17Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AG",
+  "GE"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   923
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1936, H. Maucher, Forschungsarb. Metallk. Roetgen-Metallogr., No 20 (1936).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UVROGFCC4W",
+ "bibtex": "maucher1936_d72090",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UVROGFCC4W",
+    "paper": "doi:10.1016/0040-6031(88)87047-3",
+    "measured_in": "ref:224ed52208abd1eb"
+   }
+  ],
+  "papers": [
+   "ref:224ed52208abd1eb",
+   "doi:10.1016/0040-6031(88)87047-3"
+  ],
+  "dois": [
+   "10.1016/0040-6031(88)87047-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgGe-88Che-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

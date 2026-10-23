@@ -1,0 +1,114 @@
+{
+ "components": [
+  "BI",
+  "IN"
+ ],
+ "phases": [
+  "BIIN2_B82",
+  "LIQUID",
+  "TET_ALPHA1_A6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   363.0,
+   345.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BIIN2_B82",
+    [
+     "IN"
+    ],
+    [
+     0.666
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.666
+    ]
+   ]
+  ],
+  [
+   [
+    "BIIN2_B82",
+    [
+     "IN"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.784
+    ]
+   ],
+   [
+    "TET_ALPHA1_A6",
+    [
+     "IN"
+    ],
+    [
+     0.878
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chevalier 1988, doi:10.1016/0364-5916(88)90040-5",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PPS4SKL6HB ORC-DVGH7KAK6O",
+ "bibtex": "chevalier1988_56f35d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PPS4SKL6HB",
+    "paper": "doi:10.1016/0364-5916(88)90040-5"
+   },
+   {
+    "id": "ORC-DVGH7KAK6O",
+    "paper": "doi:10.1016/0364-5916(88)90040-5"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0364-5916(88)90040-5"
+  ],
+  "dois": [
+   "10.1016/0364-5916(88)90040-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiIn-88Che-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,709 @@
+{
+ "components": [
+  "CO",
+  "V"
+ ],
+ "phases": [
+  "CO3V"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ],
+   [
+    "CO",
+    "V"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    13938.7,
+    23284.4,
+    8496.7,
+    4514.9,
+    -1360.4,
+    -7005.5,
+    -16310.3,
+    -0.6,
+    9887.2,
+    1102.6,
+    -7137.4,
+    -7297.6,
+    17389.9,
+    4421.7,
+    7001.7,
+    1791.4
+   ]
+  ]
+ ],
+ "reference": "Wang 2020, doi:10.1016/j.calphad.2019.101729",
+ "bibtex": "wang2020_f5bf31",
+ "weight": [
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704,
+  0.153704
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB CoV-04Hua.tdb (sha256 dd5238a73f44104a905cad4b8cfcd80f3bc7c6c4425c88218d6ee0d57f5076a2), phase CO3V. Ids, in value order: ORC-2OVRJO3IAD ORC-6SODOQ4MGY ORC-6ZZU27SDIK ORC-7C2YMW7A77 ORC-BNGDYTKBIZ ORC-BO42QNAHFH ORC-DD374OL74D ORC-DDIXQSLYF6 ORC-JHN7POPRKN ORC-NUGYEFNDZM ORC-PHRU4NQ5CT ORC-QAIII4KUMU ORC-SZ65PHMG2Q ORC-UL2KXUEW66 ORC-VLFCSVZM2Q ORC-YZJXUT3IKL. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "CoV-04Hua.tdb",
+   "path": "databases/sgte-binary/CoV-04Hua.tdb",
+   "sha256": "dd5238a73f44104a905cad4b8cfcd80f3bc7c6c4425c88218d6ee0d57f5076a2",
+   "phase": "CO3V"
+  },
+  "registry_phase": "phase:co-v:co3v",
+  "mapping": [
+   {
+    "id": "ORC-2OVRJO3IAD",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-6SODOQ4MGY",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-6ZZU27SDIK",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-7C2YMW7A77",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-BNGDYTKBIZ",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-BO42QNAHFH",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-DD374OL74D",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-DDIXQSLYF6",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-JHN7POPRKN",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-NUGYEFNDZM",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-PHRU4NQ5CT",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-QAIII4KUMU",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-SZ65PHMG2Q",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-UL2KXUEW66",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-VLFCSVZM2Q",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-YZJXUT3IKL",
+    "compound": "Co3V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2019.101729"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2019.101729"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 13.9387,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-2OVRJO3IAD",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 23.2844,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-6SODOQ4MGY",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 8.4967,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-6ZZU27SDIK",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 4.5149,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-7C2YMW7A77",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -1.3604,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-BNGDYTKBIZ",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -7.0055,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-BO42QNAHFH",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -16.3103,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-DD374OL74D",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.0006,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-DDIXQSLYF6",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 9.8872,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-JHN7POPRKN",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 1.1026,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-NUGYEFNDZM",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -7.1374,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-PHRU4NQ5CT",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -7.2976,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-QAIII4KUMU",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 17.3899,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-SZ65PHMG2Q",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 4.4217,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-UL2KXUEW66",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 7.0017,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-VLFCSVZM2Q",
+    "compound": "Co3V"
+   },
+   {
+    "sigma": 3253.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-V",
+     "n": 94,
+     "sigma_robust_kJ": 3.253,
+     "bias_median_kJ_not_applied": 1.415,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.153704,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": 1.7914,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-YZJXUT3IKL",
+    "compound": "Co3V"
+   }
+  ]
+ }
+}

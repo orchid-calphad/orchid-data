@@ -1,0 +1,166 @@
+{
+ "components": [
+  "EU",
+  "IN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "EU2IN_C37",
+  "EUIN2",
+  "EUIN4",
+  "EUIN_B11",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   893.15,
+   1133.15,
+   723.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.15
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "EU2IN_C37",
+    [
+     "IN"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.535
+    ]
+   ],
+   [
+    "EUIN_B11",
+    [
+     "IN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "EUIN2",
+    [
+     "IN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.91
+    ]
+   ],
+   [
+    "EUIN2",
+    [
+     "IN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "EUIN4",
+    [
+     "IN"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gao 2011, doi:10.1016/j.calphad.2010.10.003",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RT3PMGMERC ORC-3OCQN5RO6J ORC-4QRPTASYX6",
+ "bibtex": "gao2011_9e7766",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RT3PMGMERC",
+    "paper": "doi:10.1016/j.calphad.2010.10.003"
+   },
+   {
+    "id": "ORC-3OCQN5RO6J",
+    "paper": "doi:10.1016/j.calphad.2010.10.003"
+   },
+   {
+    "id": "ORC-4QRPTASYX6",
+    "paper": "doi:10.1016/j.calphad.2010.10.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.10.003",
+   "doi:10.1016/0022-5088(83)90121-2"
+  ],
+  "dois": [
+   "10.1016/0022-5088(83)90121-2",
+   "10.1016/j.calphad.2010.10.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/EuIn-11Gao/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

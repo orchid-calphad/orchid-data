@@ -1,0 +1,74 @@
+{
+ "components": [
+  "BI",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1073.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.00062
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.00062
+    ]
+   ]
+  ]
+ ],
+ "reference": "Olesinski 1985, doi:10.1007/bf02880522",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DMQZDIJZPG",
+ "bibtex": "olesinski1985_577b03",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DMQZDIJZPG",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880522"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02880522"
+  ],
+  "dois": [
+   "10.1007/bf02880522"
+  ],
+  "source_dataset": "db-v2.1/general/espei/BiSi-85Ole-LB/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

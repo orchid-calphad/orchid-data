@@ -1,0 +1,90 @@
+{
+ "components": [
+  "CU",
+  "PT"
+ ],
+ "phases": [
+  "CUPT_L11",
+  "FCC_4SL",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_PT": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -15600.0
+   ]
+  ]
+ ],
+ "reference": "Abe 2006, doi:10.1361/105497196x92736",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6DJQSZYYIL",
+ "reference_states": {
+  "CU": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "PT": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "abe2006_962018",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6DJQSZYYIL",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497196x92736",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497196x92736",
+   "doi:10.1016/0001-6160(62)90102-5"
+  ],
+  "dois": [
+   "10.1016/0001-6160(62)90102-5",
+   "10.1361/105497196x92736"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CuPt-06Abe/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

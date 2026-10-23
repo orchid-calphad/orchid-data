@@ -1,0 +1,177 @@
+{
+ "components": [
+  "FE",
+  "SN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BCT_A5",
+  "FE5SN3_B82",
+  "FESN2_C16",
+  "FESN_B35",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1166.15,
+   769.15,
+   501.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE5SN3_B82",
+    [
+     "SN"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "FESN_B35",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FESN2_C16",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.5833333334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FESN2_C16",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1907, Isaac E, Tammann G. On the alloys of iron with tin and gold. Z Anorg Chem 1907;53:281.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-P26YSMXX7H ORC-FUNK6KUKBT ORC-FNSYAP5B3P",
+ "bibtex": "isaac1907_19d7ef",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-P26YSMXX7H",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:dceb104fc2d0dd33"
+   },
+   {
+    "id": "ORC-FUNK6KUKBT",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:dceb104fc2d0dd33"
+   },
+   {
+    "id": "ORC-FNSYAP5B3P",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:dceb104fc2d0dd33"
+   }
+  ],
+  "papers": [
+   "ref:dceb104fc2d0dd33",
+   "doi:10.1016/j.intermet.2010.01.026"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2010.01.026"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeSn-10Hua/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

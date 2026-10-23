@@ -1,0 +1,85 @@
+{
+ "components": [
+  "AL",
+  "SR"
+ ],
+ "phases": [
+  "AL4SR_D13",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   926.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.013
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4SR_D13",
+    [
+     "SR"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2003, doi:10.1016/s0925-8388(03)00046-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LJU2VSIJE6",
+ "bibtex": "wang2003_f768e1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LJU2VSIJE6",
+    "paper": "doi:10.1016/s0925-8388(03)00046-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0925-8388(03)00046-x"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(03)00046-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlSr-03Wan-LB/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

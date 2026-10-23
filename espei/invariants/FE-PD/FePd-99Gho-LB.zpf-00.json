@@ -1,0 +1,107 @@
+{
+ "components": [
+  "FE",
+  "PD"
+ ],
+ "phases": [
+  "FCC_A1",
+  "FEPD3_L12",
+  "FEPD_L10"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1056.0,
+   1083.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.5792
+    ]
+   ],
+   [
+    "FEPD_L10",
+    [
+     "PD"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PD"
+    ],
+    [
+     0.6596
+    ]
+   ],
+   [
+    "FEPD3_L12",
+    [
+     "PD"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "Ghosh 1999, doi:10.1361/105497199770335811",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-67S5MLXYXU ORC-H4DHGVLZNH",
+ "bibtex": "ghosh1999_dbf4f6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-67S5MLXYXU",
+    "paper": "doi:10.1361/105497199770335811"
+   },
+   {
+    "id": "ORC-H4DHGVLZNH",
+    "paper": "doi:10.1361/105497199770335811"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497199770335811",
+   "doi:10.2320/jinstmet1952.51.4_285"
+  ],
+  "dois": [
+   "10.1361/105497199770335811",
+   "10.2320/jinstmet1952.51.4_285"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FePd-99Gho-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

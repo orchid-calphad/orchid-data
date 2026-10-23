@@ -1,0 +1,101 @@
+{
+ "components": [
+  "GE",
+  "MG"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_MG": [
+   0.666667
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -39372.8
+   ]
+  ]
+ ],
+ "reference": "Islam 2006, doi:10.1016/j.jallcom.2006.01.050",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CHNOD5UYR2",
+ "reference_states": {
+  "GE": {
+   "phase": "DIAMOND_A4"
+  },
+  "MG": {
+   "phase": "HCP_A3"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "GeMg-06Isl.tdb",
+   "path": "databases/sgte-binary/GeMg-06Isl.tdb",
+   "sha256": "8081df690d59d0288fa48a0f6fcdd1eb86496be933061db1ef32b8b5bbd63859",
+   "catalog_entry": {
+    "name": "GeMg-06Isl.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2006-01-050",
+   "doi": "10.1016/j.jallcom.2006.01.050",
+   "citation": {
+    "authors": "see doi",
+    "title": "F. Islam, A.K. Thykadavil, M. Medraj, J. Alloys Compd., 425, 129-39(2006).",
+    "year": "2006"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "islam2006_337637",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-CHNOD5UYR2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2006.01.050",
+    "measured_in": "doi:10.1016/j.jallcom.2006.01.050"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2006.01.050"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2006.01.050"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/GeMg-06Isl/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

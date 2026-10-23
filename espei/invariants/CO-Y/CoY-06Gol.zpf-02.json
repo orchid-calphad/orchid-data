@@ -1,0 +1,114 @@
+{
+ "components": [
+  "CO",
+  "Y"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CO5Y_D2D",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1607.0,
+   1618.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.1157
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "Y"
+    ],
+    [
+     0.11
+    ]
+   ],
+   [
+    "CO5Y_D2D",
+    [
+     "Y"
+    ],
+    [
+     0.14
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.156
+    ]
+   ],
+   [
+    "CO5Y_D2D",
+    [
+     "Y"
+    ],
+    [
+     0.156
+    ]
+   ]
+  ]
+ ],
+ "reference": "Golumbfskie 2006, doi:10.1016/j.jallcom.2005.06.037",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4CHBWNSPP3 ORC-KTLGBNC665",
+ "bibtex": "golumbfskie2006_1dd354",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4CHBWNSPP3",
+    "paper": "doi:10.1016/j.jallcom.2005.06.037"
+   },
+   {
+    "id": "ORC-KTLGBNC665",
+    "paper": "doi:10.1016/j.jallcom.2005.06.037"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2005.06.037"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2005.06.037"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoY-06Gol/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

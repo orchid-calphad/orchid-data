@@ -1,0 +1,79 @@
+{
+ "components": [
+  "C",
+  "PU"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_PU": [
+   0.555556
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    69.59
+   ]
+  ]
+ ],
+ "reference": "Fischer 2008, doi:10.1016/j.calphad.2007.12.004",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ICTO4YCG3I.755cf3",
+ "weight": 0.1,
+ "bibtex": "fischer2008_9f802c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ICTO4YCG3I.755cf3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2007.12.004",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2007.12.004",
+   "doi:10.1016/0022-3115(80)90281-0"
+  ],
+  "dois": [
+   "10.1016/0022-3115(80)90281-0",
+   "10.1016/j.calphad.2007.12.004"
+  ],
+  "source_dataset": "db-v2.1/general/espei/PuC-08Fis/sm-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 2.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 2.0,
+     "unit": "J/mol (basis unstated)/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.1,
+    "weight_used": 0.1
+   }
+  ]
+ }
+}

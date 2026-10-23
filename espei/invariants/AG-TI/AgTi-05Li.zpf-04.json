@@ -1,0 +1,163 @@
+{
+ "components": [
+  "AG",
+  "TI"
+ ],
+ "phases": [
+  "AGTI2",
+  "AGTI_B11",
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1293.0,
+   1290.0,
+   1203.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.0116
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TI"
+    ],
+    [
+     0.0465
+    ]
+   ],
+   [
+    "AGTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.52
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.1
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.85
+    ]
+   ],
+   [
+    "AGTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.88
+    ]
+   ],
+   [
+    "AGTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.52
+    ]
+   ],
+   [
+    "AGTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2005, doi:10.1016/j.calphad.2005.09.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ACHFG732UW ORC-EK2W5PQ4X7 ORC-C75ZPM5A3A",
+ "bibtex": "li2005_32ecec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ACHFG732UW",
+    "paper": "doi:10.1016/j.calphad.2005.09.002"
+   },
+   {
+    "id": "ORC-EK2W5PQ4X7",
+    "paper": "doi:10.1016/j.calphad.2005.09.002"
+   },
+   {
+    "id": "ORC-C75ZPM5A3A",
+    "paper": "doi:10.1016/j.calphad.2005.09.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.09.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.09.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgTi-05Li/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

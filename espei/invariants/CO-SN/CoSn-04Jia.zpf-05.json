@@ -1,0 +1,100 @@
+{
+ "components": [
+  "CO",
+  "SN"
+ ],
+ "phases": [
+  "COSN2_C16",
+  "COSN_B35",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   798.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COSN_B35",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "COSN2_C16",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.5833333334999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "1968, N.M. Matveyeva, S.V. Nikitina, S.B. Zezin, Izv. Akad. Nauk SSSR Met. 5 (1968) 194–197.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4APBMYIXCT",
+ "bibtex": "matveyeva1968_2f2ce6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4APBMYIXCT",
+    "paper": "doi:10.1016/j.calphad.2004.08.001",
+    "measured_in": "ref:8d2d236f37b07f5c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:8d2d236f37b07f5c",
+   "doi:10.1016/j.calphad.2004.08.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2004.08.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoSn-04Jia/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

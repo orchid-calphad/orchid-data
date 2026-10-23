@@ -1,0 +1,93 @@
+{
+ "components": [
+  "GA",
+  "LI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "GALI2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   440
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     0.975
+    ]
+   ],
+   [
+    "GALI2",
+    [
+     "LI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1970, Th€ ummel R, Klemm W. Z Anorg Allg Chem 1970;376(1): 44.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OPACHICKJ4",
+ "bibtex": "th1970_053416",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-OPACHICKJ4",
+    "paper": "doi:10.1016/s1359-6462(02)00634-6",
+    "measured_in": "ref:8edddf33a8a95737"
+   }
+  ],
+  "papers": [
+   "ref:8edddf33a8a95737",
+   "doi:10.1016/s1359-6462(02)00634-6"
+  ],
+  "dois": [
+   "10.1016/s1359-6462(02)00634-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaLi-03Yua/zpf-01.json",
+  "espei_evaluation": {
+   "tdb": "GaLi-03Yua",
+   "vertices": 3,
+   "median_abs_driving_force_J": 1.36,
+   "max_abs_driving_force_J": 12.13
+  }
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

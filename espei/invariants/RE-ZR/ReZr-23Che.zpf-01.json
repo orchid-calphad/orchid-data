@@ -1,0 +1,254 @@
+{
+ "components": [
+  "RE",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C14_LAVES",
+  "HCP_A3",
+  "LIQUID",
+  "RE24ZR5_A12",
+  "RE25ZR21"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3123.0,
+   3110.0,
+   1916.0,
+   1866.0,
+   3263.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RE24ZR5_A12",
+    [
+     "ZR"
+    ],
+    [
+     0.172414
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "RE24ZR5_A12",
+    [
+     "ZR"
+    ],
+    [
+     0.172414
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.2528735
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "RE25ZR21",
+    [
+     "ZR"
+    ],
+    [
+     0.456522
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.3949275
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RE25ZR21",
+    [
+     "ZR"
+    ],
+    [
+     0.456522
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Che 2023, doi:10.1016/j.ijrmhm.2023.106259",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KMCSG3UTFD ORC-AMI3AHIQMS ORC-UZFOG6NHCA ORC-A52G4M4ODB ORC-F7YWB7B343",
+ "bibtex": "che2023_03cab4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KMCSG3UTFD",
+    "paper": "doi:10.1016/j.ijrmhm.2023.106259",
+    "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
+   },
+   {
+    "id": "ORC-AMI3AHIQMS",
+    "paper": "doi:10.1016/j.ijrmhm.2023.106259",
+    "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
+   },
+   {
+    "id": "ORC-UZFOG6NHCA",
+    "paper": "doi:10.1016/j.ijrmhm.2023.106259",
+    "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
+   },
+   {
+    "id": "ORC-A52G4M4ODB",
+    "paper": "doi:10.1016/j.ijrmhm.2023.106259",
+    "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
+   },
+   {
+    "id": "ORC-F7YWB7B343",
+    "paper": "doi:10.1016/j.ijrmhm.2023.106259",
+    "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.ijrmhm.2023.106259"
+  ],
+  "dois": [
+   "10.1016/j.ijrmhm.2023.106259"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ReZr-23Che/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

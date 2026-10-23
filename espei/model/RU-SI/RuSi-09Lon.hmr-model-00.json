@@ -1,0 +1,133 @@
+{
+ "components": [
+  "RU",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SI": [
+   0.428571,
+   0.5,
+   0.6
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -55011.0,
+    -57641.0,
+    -53053.0
+   ]
+  ]
+ ],
+ "reference": "Long 2009, doi:10.1016/j.jallcom.2009.01.079",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PY43W6C3Y7 ORC-3IXLGVOQ6Z ORC-EWXMHVI66O",
+ "reference_states": {
+  "RU": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "RuSi-09Lon.tdb",
+   "path": "databases/sgte-binary/RuSi-09Lon.tdb",
+   "sha256": "6b726c2f0814471a370bbdcb9e252adb9130cd416c639c037fb990d67613b213",
+   "catalog_entry": {
+    "name": "RuSi-09Lon.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2009-01-079",
+   "doi": "10.1016/j.jallcom.2009.01.079",
+   "citation": {
+    "authors": "see doi",
+    "title": "Z.H. Long, H.S. Liu, Z.P. Jin, J. Alloys Compd., 479, 262-67(2009).",
+    "year": "2009"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "long2009_cec8d5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-PY43W6C3Y7",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.01.079",
+    "measured_in": "doi:10.1016/j.jallcom.2009.01.079"
+   },
+   {
+    "id": "ORC-3IXLGVOQ6Z",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.01.079",
+    "measured_in": "doi:10.1016/j.jallcom.2009.01.079"
+   },
+   {
+    "id": "ORC-EWXMHVI66O",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.01.079",
+    "measured_in": "doi:10.1016/j.jallcom.2009.01.079"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.01.079"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.01.079"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/RuSi-09Lon/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

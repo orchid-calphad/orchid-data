@@ -1,0 +1,572 @@
+{
+ "components": [
+  "GD",
+  "GE"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "GD2GE3_BETA",
+  "GD2GE3_C32",
+  "GD2GE3_GAMMA",
+  "GD2GE5",
+  "GD5GE3_D88",
+  "GD5GE4",
+  "GDGE_B33",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1386.0,
+   2063.0,
+   1963.0,
+   1843.0,
+   1688.0,
+   1483.0,
+   1343.0,
+   1163.0,
+   1133.0,
+   1123.0,
+   1106.0,
+   1081.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GD5GE3_D88",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "GD5GE3_D88",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GD5GE3_D88",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "GD5GE4",
+    [
+     "GE"
+    ],
+    [
+     0.444444
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.40972200000000003
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GD5GE4",
+    [
+     "GE"
+    ],
+    [
+     0.444444
+    ]
+   ],
+   [
+    "GDGE_B33",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.47222200000000003
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GDGE_B33",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GD2GE3_GAMMA",
+    [
+     "GE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.55
+    ]
+   ]
+  ],
+  [
+   [
+    "GD2GE3_GAMMA",
+    [
+     "GE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "GDGE_B33",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GD2GE3_BETA",
+    [
+     "GE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.5633333333333334
+    ]
+   ]
+  ],
+  [
+   [
+    "GD2GE3_GAMMA",
+    [
+     "GE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "GD2GE3_BETA",
+    [
+     "GE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.595
+    ]
+   ]
+  ],
+  [
+   [
+    "GD2GE3_BETA",
+    [
+     "GE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GD2GE5",
+    [
+     "GE"
+    ],
+    [
+     0.719888
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.654944
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GD2GE5",
+    [
+     "GE"
+    ],
+    [
+     0.719888
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "GD2GE5",
+    [
+     "GE"
+    ],
+    [
+     0.719888
+    ]
+   ],
+   [
+    "GD2GE3_BETA",
+    [
+     "GE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.654944
+    ]
+   ]
+  ],
+  [
+   [
+    "GD2GE3_BETA",
+    [
+     "GE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "GD2GE3_C32",
+    [
+     "GE"
+    ],
+    [
+     0.59
+    ]
+   ]
+  ],
+  [
+   [
+    "GD2GE3_C32",
+    [
+     "GE"
+    ],
+    [
+     0.59
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GD5GE3_D88",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.4825
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chen 2008, doi:10.1016/j.jallcom.2007.07.105",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-76NURQZJ4J ORC-YAITKNUDNH ORC-75T43SHD35 ORC-DLPOYBO2CE ORC-X53IUZ5RF2 ORC-62DIQ2FIR7 ORC-EVK34Z2MRN ORC-W2QZISNQG3 ORC-WGQSX2UIEW ORC-GSX656ENZ6 ORC-RIGDWXY3H7 ORC-QWSFLZPNRH",
+ "bibtex": "chen2008_444dca",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-76NURQZJ4J",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-YAITKNUDNH",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-75T43SHD35",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-DLPOYBO2CE",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-X53IUZ5RF2",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-62DIQ2FIR7",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-EVK34Z2MRN",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-W2QZISNQG3",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-WGQSX2UIEW",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-GSX656ENZ6",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-RIGDWXY3H7",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   },
+   {
+    "id": "ORC-QWSFLZPNRH",
+    "paper": "doi:10.1016/j.jallcom.2007.07.105"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2007.07.105",
+   "doi:10.1007/bf00792035"
+  ],
+  "dois": [
+   "10.1007/bf00792035",
+   "10.1016/j.jallcom.2007.07.105"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GdGe-08Che/zpf-00.json",
+  "espei_evaluation": {
+   "tdb": "GdGe-08Che",
+   "vertices": 11,
+   "median_abs_driving_force_J": 0.89,
+   "max_abs_driving_force_J": 1876.66
+  }
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

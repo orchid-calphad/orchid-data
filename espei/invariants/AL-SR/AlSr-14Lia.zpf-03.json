@@ -1,0 +1,85 @@
+{
+ "components": [
+  "AL",
+  "SR"
+ ],
+ "phases": [
+  "AL4SR_D13",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   926.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4SR_D13",
+    [
+     "SR"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liang 2014, doi:10.1016/j.jallcom.2014.05.018",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BLHDBR7U33",
+ "bibtex": "liang2014_2dc5eb",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BLHDBR7U33",
+    "paper": "doi:10.1016/j.jallcom.2014.05.018"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.05.018"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.05.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlSr-14Lia/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

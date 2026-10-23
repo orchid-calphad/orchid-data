@@ -1,0 +1,159 @@
+{
+ "components": [
+  "FE",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C15_LAVES",
+  "FEZR2_C16",
+  "FEZR3_E1A",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1068.15,
+   1923.15,
+   1221.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.965
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZR"
+    ],
+    [
+     0.9997
+    ]
+   ],
+   [
+    "FEZR3_E1A",
+    [
+     "ZR"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.335
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.763
+    ]
+   ],
+   [
+    "FEZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.932
+    ]
+   ]
+  ]
+ ],
+ "reference": "1959, L.E. Tanner and D.W. Levinson: Trans. TMS-AIME, 1959, vol. 215, pp. 1066-67. 416",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OXJQAZVPJ7 ORC-KSHPVK45YO ORC-RKJYFMU5F3",
+ "bibtex": "tanner1959_30bdd3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-OXJQAZVPJ7",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "ref:b05b9e1cd473aef6"
+   },
+   {
+    "id": "ORC-KSHPVK45YO",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "ref:b05b9e1cd473aef6"
+   },
+   {
+    "id": "ORC-RKJYFMU5F3",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "ref:b05b9e1cd473aef6"
+   }
+  ],
+  "papers": [
+   "ref:b05b9e1cd473aef6",
+   "doi:10.1361/105497101770332965"
+  ],
+  "dois": [
+   "10.1361/105497101770332965"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeZr-01Jia/zpf-11.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

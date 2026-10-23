@@ -1,0 +1,319 @@
+{
+ "components": [
+  "CO",
+  "TI"
+ ],
+ "phases": [
+  "B2_BCC",
+  "COTI2",
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1223.0,
+   1223.0,
+   1223.0,
+   1223.0,
+   1223.0,
+   1223.0,
+   1223.0,
+   1223.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.5015
+    ]
+   ],
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6694
+    ]
+   ]
+  ],
+  [
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     0.672
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.9004
+    ]
+   ]
+  ],
+  [
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6762
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.9023
+    ]
+   ]
+  ],
+  [
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6778
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.9006
+    ]
+   ]
+  ],
+  [
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.504
+    ]
+   ],
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6739
+    ]
+   ]
+  ],
+  [
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6768
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.8827
+    ]
+   ]
+  ],
+  [
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6754
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.8787
+    ]
+   ]
+  ],
+  [
+   [
+    "COTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6709
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.8814
+    ]
+   ]
+  ]
+ ],
+ "reference": "Yang 2022, doi:10.1007/s42243-021-00736-6",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YC7HYXIVRK ORC-AZS4T3NXFT ORC-CRQ7RQFBQY ORC-I3NBPOCAP5 ORC-DE7Y3RNIWO ORC-FEANJEGC33 ORC-PPFDJJ7Z26 ORC-BQOQ4HFQPO",
+ "bibtex": "yang2022_9a0ff6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YC7HYXIVRK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00736-6",
+    "measured_in": "doi:10.1007/s42243-021-00736-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   },
+   {
+    "id": "ORC-AZS4T3NXFT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00736-6",
+    "measured_in": "doi:10.1007/s42243-021-00736-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   },
+   {
+    "id": "ORC-CRQ7RQFBQY",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00736-6",
+    "measured_in": "doi:10.1007/s42243-021-00736-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   },
+   {
+    "id": "ORC-I3NBPOCAP5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00736-6",
+    "measured_in": "doi:10.1007/s42243-021-00736-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   },
+   {
+    "id": "ORC-DE7Y3RNIWO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00736-6",
+    "measured_in": "doi:10.1007/s42243-021-00736-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   },
+   {
+    "id": "ORC-FEANJEGC33",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00736-6",
+    "measured_in": "doi:10.1007/s42243-021-00736-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   },
+   {
+    "id": "ORC-PPFDJJ7Z26",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00736-6",
+    "measured_in": "doi:10.1007/s42243-021-00736-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   },
+   {
+    "id": "ORC-BQOQ4HFQPO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s42243-021-00736-6",
+    "measured_in": "doi:10.1007/s42243-021-00736-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s42243-021-00736-6"
+  ],
+  "dois": [
+   "10.1007/s42243-021-00736-6"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CoTi-22Yan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

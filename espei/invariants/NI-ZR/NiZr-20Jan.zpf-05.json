@@ -1,0 +1,358 @@
+{
+ "components": [
+  "NI",
+  "ZR"
+ ],
+ "phases": [
+  "LIQUID",
+  "NI10ZR7",
+  "NI11ZR9",
+  "NI21ZR8",
+  "NI5ZR_C15B",
+  "NI7ZR2",
+  "NIZR_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1553.0,
+   1453.0,
+   1468.0,
+   1468.0,
+   1343.0,
+   1468.0,
+   1723.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.22
+    ]
+   ],
+   [
+    "NI5ZR_C15B",
+    [
+     "ZR"
+    ],
+    [
+     0.16666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.222222
+    ]
+   ],
+   [
+    "NI21ZR8",
+    [
+     "ZR"
+    ],
+    [
+     0.275862
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NI11ZR9",
+    [
+     "ZR"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.475
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI11ZR9",
+    [
+     "ZR"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.4308825
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "NI21ZR8",
+    [
+     "ZR"
+    ],
+    [
+     0.275862
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ]
+  ],
+  [
+   [
+    "NI11ZR9",
+    [
+     "ZR"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.4539216666666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.222222
+    ]
+   ],
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.222222
+    ]
+   ]
+  ]
+ ],
+ "reference": "1957, doi:10.1007/bf03398286",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FW6UNWSO2F ORC-FOY633YMXC ORC-4UZGRDTK6L ORC-NDA7CNFZO3 ORC-WHIVGQOYVT ORC-H7TGIYXKE2 ORC-GFXOQE2UG2",
+ "bibtex": "smith1957_320e3c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FW6UNWSO2F",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "doi:10.1007/bf03398286"
+   },
+   {
+    "id": "ORC-FOY633YMXC",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "doi:10.1007/bf03398286"
+   },
+   {
+    "id": "ORC-4UZGRDTK6L",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "doi:10.1007/bf03398286"
+   },
+   {
+    "id": "ORC-NDA7CNFZO3",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "doi:10.1007/bf03398286"
+   },
+   {
+    "id": "ORC-WHIVGQOYVT",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "doi:10.1007/bf03398286"
+   },
+   {
+    "id": "ORC-H7TGIYXKE2",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "doi:10.1007/bf03398286"
+   },
+   {
+    "id": "ORC-GFXOQE2UG2",
+    "paper": "doi:10.1016/j.intermet.2019.106640",
+    "measured_in": "doi:10.1007/bf03398286"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf03398286",
+   "doi:10.1016/j.intermet.2019.106640"
+  ],
+  "dois": [
+   "10.1007/bf03398286",
+   "10.1016/j.intermet.2019.106640"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZr-20Jan/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

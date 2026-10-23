@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AG",
+  "SE"
+ ],
+ "phases": [
+  "AG2SE_BETA",
+  "FCC_A1",
+  "ION"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1113
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ION",
+    [
+     "SE"
+    ],
+    [
+     0.32
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AG2SE_BETA",
+    [
+     "SE"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "1908, K. Friedrich and A. Leroux, The Fusion Diagram of Binary System Cu-Cu2Se, Ag-Ag2Se and Pb-Pb2Se, Metallurgie, 1908, 5, p 355-358",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FAPEESMBQB",
+ "bibtex": "friedrich1908_b7fdaf",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FAPEESMBQB",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "ref:2d490d6ef76515f4"
+   }
+  ],
+  "papers": [
+   "ref:2d490d6ef76515f4",
+   "doi:10.1007/s11669-018-0683-7"
+  ],
+  "dois": [
+   "10.1007/s11669-018-0683-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgSe-18Li/zpf-09.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

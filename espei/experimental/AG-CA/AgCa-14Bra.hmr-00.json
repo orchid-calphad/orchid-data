@@ -1,0 +1,144 @@
+{
+ "components": [
+  "AG",
+  "CA"
+ ],
+ "phases": [
+  "AG9CA2_C15B",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_CA": [
+   0.181818,
+   0.181818,
+   0.181818,
+   0.181818,
+   0.181818
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -14500.0,
+    -15200.0,
+    -14600.0,
+    -14500.0,
+    -15100.0
+   ]
+  ]
+ ],
+ "reference": "Braga 2014, doi:10.1016/j.jallcom.2014.05.141",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NGJRNJDINQ ORC-SLPLKWLDDS ORC-TR56TPVKUH ORC-NGJRNJDINQ ORC-K5URMPICWT",
+ "reference_states": {
+  "AG": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "CA": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "braga2014_8ee375",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NGJRNJDINQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2014.05.141",
+    "measured_in": "doi:10.1016/j.jallcom.2014.05.141"
+   },
+   {
+    "id": "ORC-SLPLKWLDDS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2014.05.141",
+    "measured_in": "doi:10.1016/j.jallcom.2014.05.141"
+   },
+   {
+    "id": "ORC-TR56TPVKUH",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2014.05.141",
+    "measured_in": "doi:10.1016/j.jallcom.2014.05.141"
+   },
+   {
+    "id": "ORC-NGJRNJDINQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2014.05.141",
+    "measured_in": "doi:10.1016/j.jallcom.2014.05.141"
+   },
+   {
+    "id": "ORC-K5URMPICWT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2014.05.141",
+    "measured_in": "doi:10.1016/j.jallcom.2014.05.141"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.05.141"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.05.141"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AgCa-14Bra/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

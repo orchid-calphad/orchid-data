@@ -1,0 +1,85 @@
+{
+ "components": [
+  "CU",
+  "HO"
+ ],
+ "phases": [
+  "CU5HO_C15B",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1137.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "HO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "HO"
+    ],
+    [
+     0.0002
+    ]
+   ],
+   [
+    "CU5HO_C15B",
+    [
+     "HO"
+    ],
+    [
+     0.166667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2009, doi:10.1016/j.jallcom.2009.08.042",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4NEYPYS5IP",
+ "bibtex": "wang2009_6e6f69",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4NEYPYS5IP",
+    "paper": "doi:10.1016/j.jallcom.2009.08.042"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.08.042"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.08.042"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuHo-09Wan-newHo/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

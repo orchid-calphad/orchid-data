@@ -1,0 +1,128 @@
+{
+ "components": [
+  "FE",
+  "ZR"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1673.15,
+  "X_ZR": [
+   0.333333,
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -31197.0,
+    -31197.0
+   ]
+  ]
+ ],
+ "reference": "Jiang 2001, doi:10.1361/105497101770332965",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4YWPNV5PQJ.05e0b3 ORC-4YWPNV5PQJ.05e0b3",
+ "reference_states": {
+  "FE": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "ZR": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "FeZr-01Jia.tdb",
+   "path": "databases/sgte-binary/FeZr-01Jia.tdb",
+   "sha256": "82597d9f7058970840f616a38cb159aea3b81425cb0c96d26aa7414f7b742092",
+   "catalog_entry": {
+    "name": "FeZr-01Jia.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1361-105497101770332965",
+   "doi": "10.1361/105497101770332965",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Phase Equilib., 22, 406-17(2001).",
+    "year": "2001"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "jiang2001_7f39b1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-4YWPNV5PQJ.05e0b3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "doi:10.1361/105497101770332965",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-4YWPNV5PQJ.05e0b3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497101770332965",
+    "measured_in": "doi:10.1361/105497101770332965",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497101770332965"
+  ],
+  "dois": [
+   "10.1361/105497101770332965"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/FeZr-01Jia/hmr-model-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

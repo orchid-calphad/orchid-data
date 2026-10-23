@@ -1,0 +1,104 @@
+{
+ "components": [
+  "GA",
+  "SE"
+ ],
+ "phases": [
+  "GA2SE3_B3",
+  "GA2SE3_BETA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   994.0,
+   1004.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GA2SE3_BETA",
+    [
+     "SE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "GA2SE3_B3",
+    [
+     "SE"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ],
+  [
+   [
+    "GA2SE3_BETA",
+    [
+     "SE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "GA2SE3_B3",
+    [
+     "SE"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zheng 2008, doi:10.1016/j.calphad.2008.03.004",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EZ53JWDKUZ ORC-WQBCQAHIAK",
+ "bibtex": "zheng2008_e786b7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EZ53JWDKUZ",
+    "paper": "doi:10.1016/j.calphad.2008.03.004"
+   },
+   {
+    "id": "ORC-WQBCQAHIAK",
+    "paper": "doi:10.1016/j.calphad.2008.03.004"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2008.03.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2008.03.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaSe-08Zhe/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

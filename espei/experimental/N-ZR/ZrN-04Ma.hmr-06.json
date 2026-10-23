@@ -1,0 +1,138 @@
+{
+ "components": [
+  "N",
+  "ZR"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_ZR": [
+   0.9009999999999999,
+   0.9009999999999999,
+   0.855,
+   0.855,
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -61703.0,
+    -61703.0,
+    -93366.0,
+    -93366.0,
+    -184515.0
+   ]
+  ]
+ ],
+ "reference": "Ma 2004, doi:10.1016/j.jallcom.2003.10.051",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LI75RO5UOF.0e04e4 ORC-LI75RO5UOF.b2865e ORC-TDKQYWMQ63.42461c ORC-TDKQYWMQ63.00a265 ORC-2S4RICR2I2",
+ "reference_states": {
+  "N": {
+   "phase": "1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "ZR": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "ma2004_c610a5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LI75RO5UOF.0e04e4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2003.10.051"
+   },
+   {
+    "id": "ORC-LI75RO5UOF.b2865e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2003.10.051"
+   },
+   {
+    "id": "ORC-TDKQYWMQ63.42461c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2003.10.051"
+   },
+   {
+    "id": "ORC-TDKQYWMQ63.00a265",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2003.10.051"
+   },
+   {
+    "id": "ORC-2S4RICR2I2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2003.10.051"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2003.10.051"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2003.10.051"
+  ],
+  "source_dataset": "db-v2.1/general/espei/ZrN-04Ma/hmr-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,271 @@
+{
+ "components": [
+  "FE",
+  "Y"
+ ],
+ "phases": [
+  "FE2Y_C15"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "FE",
+    "Y"
+   ],
+   [
+    "FE",
+    "Y"
+   ],
+   [
+    "FE",
+    "Y"
+   ],
+   [
+    "FE",
+    "Y"
+   ],
+   [
+    "FE",
+    "Y"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -6240.0,
+    -5920.0,
+    -7870.0,
+    -6048.0,
+    -7646.0
+   ]
+  ]
+ ],
+ "reference": "Fan 2021, doi:10.1007/s11669-021-00887-9; Saenko 2017, doi:10.1007/s11669-017-0574-3",
+ "bibtex": "fan2021_67b108 saenko2017_3a66b4",
+ "weight": [
+  0.130959,
+  0.130959,
+  0.130959,
+  0.130959,
+  0.130959
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB FeY-21Fan.tdb (sha256 d085f7eb5ccf15a0491d39b5c5a026ee3e18d96cdec7bdcd49f1177de01e0fdf), phase FE2Y_C15. Ids, in value order: ORC-5JJXMMJME6.30cd3e ORC-PCQ2OGESUG.aba3eb ORC-TRGBPRJC3Q.7968ed ORC-UOYPT6HQR5.907958 ORC-VZGTM7TYQ3.057816. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "FeY-21Fan.tdb",
+   "path": "databases/sgte-binary/FeY-21Fan.tdb",
+   "sha256": "d085f7eb5ccf15a0491d39b5c5a026ee3e18d96cdec7bdcd49f1177de01e0fdf",
+   "phase": "FE2Y_C15"
+  },
+  "registry_phase": "phase:fe-y:fe2y-c15",
+  "mapping": [
+   {
+    "id": "ORC-5JJXMMJME6.30cd3e",
+    "compound": "Fe2Y",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-PCQ2OGESUG.aba3eb",
+    "compound": "Fe2Y",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-TRGBPRJC3Q.7968ed",
+    "compound": "Fe2Y",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-UOYPT6HQR5.907958",
+    "compound": "Fe2Y",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-VZGTM7TYQ3.057816",
+    "compound": "Fe2Y",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-021-00887-9",
+   "doi:10.1007/s11669-017-0574-3"
+  ],
+  "dois": [
+   "10.1007/s11669-017-0574-3",
+   "10.1007/s11669-021-00887-9"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 3818.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "FE-Y",
+     "n": 74,
+     "sigma_robust_kJ": 3.818,
+     "bias_median_kJ_not_applied": 0.792,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.130959,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -6.24,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-5JJXMMJME6.30cd3e",
+    "compound": "Fe2Y"
+   },
+   {
+    "sigma": 3818.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "FE-Y",
+     "n": 74,
+     "sigma_robust_kJ": 3.818,
+     "bias_median_kJ_not_applied": 0.792,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.130959,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -5.92,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-PCQ2OGESUG.aba3eb",
+    "compound": "Fe2Y"
+   },
+   {
+    "sigma": 3818.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "FE-Y",
+     "n": 74,
+     "sigma_robust_kJ": 3.818,
+     "bias_median_kJ_not_applied": 0.792,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.130959,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -7.87,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-TRGBPRJC3Q.7968ed",
+    "compound": "Fe2Y"
+   },
+   {
+    "sigma": 3818.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "FE-Y",
+     "n": 74,
+     "sigma_robust_kJ": 3.818,
+     "bias_median_kJ_not_applied": 0.792,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.130959,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -6.048,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-UOYPT6HQR5.907958",
+    "compound": "Fe2Y"
+   },
+   {
+    "sigma": 3818.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "FE-Y",
+     "n": 74,
+     "sigma_robust_kJ": 3.818,
+     "bias_median_kJ_not_applied": 0.792,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.130959,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -7.646,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-VZGTM7TYQ3.057816",
+    "compound": "Fe2Y"
+   }
+  ]
+ }
+}

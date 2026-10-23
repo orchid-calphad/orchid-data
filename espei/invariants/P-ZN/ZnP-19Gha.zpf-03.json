@@ -1,0 +1,201 @@
+{
+ "components": [
+  "P",
+  "ZN"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "ZN3P2_HT",
+  "ZN3P2_LT",
+  "ZNP2_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   689.15,
+   1123.15,
+   1433.15,
+   1223.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.006600000000000001
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZN3P2_LT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "ZN3P2_LT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "ZN3P2_HT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "ZN3P2_HT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZN3P2_HT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "ZNP2_LT",
+    [
+     "P"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "P"
+    ],
+    [
+     0.5333333335
+    ]
+   ]
+  ]
+ ],
+ "reference": "1973, M. Schneider, M. Krumnacker, Investigations of the phase diagram zinc–phosphorus, Neue Hütte 18 (1973) 715–718.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZXLXV34Z3K ORC-GTLLG6A3IR ORC-YXHAVLOBHQ ORC-B2WW45SSL5",
+ "bibtex": "schneider1973_c33a1a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZXLXV34Z3K",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:7348d518043ab4b5"
+   },
+   {
+    "id": "ORC-GTLLG6A3IR",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:7348d518043ab4b5"
+   },
+   {
+    "id": "ORC-YXHAVLOBHQ",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:7348d518043ab4b5"
+   },
+   {
+    "id": "ORC-B2WW45SSL5",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:7348d518043ab4b5",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:7348d518043ab4b5",
+   "doi:10.1016/j.mtla.2019.100301"
+  ],
+  "dois": [
+   "10.1016/j.mtla.2019.100301"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ZnP-19Gha/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

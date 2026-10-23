@@ -1,0 +1,108 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "MOSI2_C11B"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "MO",
+    "SI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -47919.6
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.047366
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB MoSi-12Guo.tdb (sha256 890886f7912d3234d279dbe422fe60ffb533a78de3f6852060625bea67287e40), phase MOSI2_C11B. Ids, in value order: oqmd-17715. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "MoSi-12Guo.tdb",
+   "path": "databases/sgte-binary/MoSi-12Guo.tdb",
+   "sha256": "890886f7912d3234d279dbe422fe60ffb533a78de3f6852060625bea67287e40",
+   "phase": "MOSI2_C11B"
+  },
+  "registry_phase": "phase:mo-si:mosi2-c11b",
+  "mapping": [
+   {
+    "id": "oqmd-17715",
+    "compound": "Mo1 Si2",
+    "basis": "registry DFT name oqmd:oqmd-17715",
+    "space_group": "I4/mmm",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10556.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "polymorph_ambiguous|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "MO-SI",
+     "n": 347,
+     "sigma_robust_kJ": 10.556,
+     "bias_median_kJ_not_applied": 2.576,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.958,
+      11.207
+     ],
+     "n_full_stratum": 379
+    },
+    "weight_used": 0.047366,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.496651633333332,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-17715",
+    "compound": "Mo1 Si2"
+   }
+  ]
+ }
+}

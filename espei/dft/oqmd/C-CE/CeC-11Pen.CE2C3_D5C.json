@@ -1,0 +1,107 @@
+{
+ "components": [
+  "C",
+  "CE"
+ ],
+ "phases": [
+  "CE2C3_D5C"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CE",
+    "C"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -11082.8
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.065522
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB CeC-11Pen.tdb (sha256 bf3abd58850a15bae31d08b3d2409038b54d89e5687bd484219fae1590f7fce7), phase CE2C3_D5C. Ids, in value order: oqmd-13369. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "CeC-11Pen.tdb",
+   "path": "databases/sgte-binary/CeC-11Pen.tdb",
+   "sha256": "bf3abd58850a15bae31d08b3d2409038b54d89e5687bd484219fae1590f7fce7",
+   "phase": "CE2C3_D5C"
+  },
+  "registry_phase": "phase:c-ce:ce2c3-d5c",
+  "mapping": [
+   {
+    "id": "oqmd-13369",
+    "compound": "C3 Ce2",
+    "basis": "registry DFT name oqmd:oqmd-13369",
+    "space_group": "I-43d",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 7631.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "on_hull_single|pblock_anion",
+     "used": "source_level",
+     "leave_system_out": true,
+     "system_left_out": "C-CE",
+     "n": 1285,
+     "sigma_robust_kJ": 7.631,
+     "bias_median_kJ_not_applied": 2.266,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.084,
+      8.656
+     ],
+     "n_full_stratum": 1294
+    },
+    "weight_used": 0.065522,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.114865082999999,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-13369",
+    "compound": "C3 Ce2"
+   }
+  ]
+ }
+}

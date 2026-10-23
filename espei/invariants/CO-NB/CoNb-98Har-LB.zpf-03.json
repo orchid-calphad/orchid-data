@@ -1,0 +1,77 @@
+{
+ "components": [
+  "CO",
+  "NB"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1843
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NB"
+    ],
+    [
+     0.333
+    ]
+   ]
+  ]
+ ],
+ "reference": "1954, R.P. Elliot, Technical Report 1, OSR Technical Note OSR-TN-247. Tech. Rep., Armour Research Foundation, Chicago, IL, USA, 1954.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-I3TJEDENVR",
+ "bibtex": "elliot1954_769b21",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-I3TJEDENVR",
+    "paper": "doi:10.1016/s0925-8388(97)00465-9",
+    "measured_in": "ref:5889a916ce13a4e0"
+   }
+  ],
+  "papers": [
+   "ref:5889a916ce13a4e0",
+   "doi:10.1016/s0925-8388(97)00465-9"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(97)00465-9"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoNb-98Har-LB/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

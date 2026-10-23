@@ -1,0 +1,78 @@
+{
+ "components": [
+  "NI",
+  "TI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_TI": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -33900.0
+   ]
+  ]
+ ],
+ "reference": "Hu 2014, doi:10.1016/j.tca.2014.01.002",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HYPU3NBXDV",
+ "reference_states": {
+  "NI": {
+   "phase": "FCC_A1"
+  },
+  "TI": {
+   "phase": "HCP_A3"
+  }
+ },
+ "bibtex": "hu2014_a63078",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HYPU3NBXDV",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2014.01.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2014.01.002",
+   "doi:10.1039/tf9565200214"
+  ],
+  "dois": [
+   "10.1016/j.tca.2014.01.002",
+   "10.1039/tf9565200214"
+  ],
+  "source_dataset": "db-v2.1/general/espei/NiTi-14Hu/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

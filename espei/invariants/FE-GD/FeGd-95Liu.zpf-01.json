@@ -1,0 +1,266 @@
+{
+ "components": [
+  "FE",
+  "GD"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "FE17GD2",
+  "FE23GD6_D8A",
+  "FE2GD_C15",
+  "FE3GD",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1593,
+   1423,
+   1353,
+   1118,
+   1183
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE17GD2",
+    [
+     "GD"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE23GD6_D8A",
+    [
+     "GD"
+    ],
+    [
+     0.20689655172413793
+    ]
+   ],
+   [
+    "FE3GD",
+    [
+     "GD"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.228448276
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE3GD",
+    [
+     "GD"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FE2GD_C15",
+    [
+     "GD"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.2916666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE2GD_C15",
+    [
+     "GD"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE17GD2",
+    [
+     "GD"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1962, M.I. Copeland, M. Krug, C.E. Armantrout and H. Kato, USBur. Mines, Rep. Invest., 5925 (1962).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZCPUUBDH2P ORC-SOLNOOVAXU ORC-FHVANPAEEE ORC-3QGRPWDIJP ORC-3KCNYVYPYE",
+ "bibtex": "copeland1962_1e0328",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZCPUUBDH2P",
+    "paper": "doi:10.1016/0925-8388(95)01578-7",
+    "measured_in": "ref:b7949273829802d7"
+   },
+   {
+    "id": "ORC-SOLNOOVAXU",
+    "paper": "doi:10.1016/0925-8388(95)01578-7",
+    "measured_in": "ref:b7949273829802d7"
+   },
+   {
+    "id": "ORC-FHVANPAEEE",
+    "paper": "doi:10.1016/0925-8388(95)01578-7",
+    "measured_in": "ref:b7949273829802d7"
+   },
+   {
+    "id": "ORC-3QGRPWDIJP",
+    "paper": "doi:10.1016/0925-8388(95)01578-7",
+    "measured_in": "ref:b7949273829802d7"
+   },
+   {
+    "id": "ORC-3KCNYVYPYE",
+    "paper": "doi:10.1016/0925-8388(95)01578-7",
+    "measured_in": "ref:b7949273829802d7"
+   }
+  ],
+  "papers": [
+   "ref:b7949273829802d7",
+   "doi:10.1016/0925-8388(95)01578-7"
+  ],
+  "dois": [
+   "10.1016/0925-8388(95)01578-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeGd-95Liu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

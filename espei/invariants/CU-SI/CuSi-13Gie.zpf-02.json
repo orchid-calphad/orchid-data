@@ -1,0 +1,365 @@
+{
+ "components": [
+  "CU",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU33SI7_A13",
+  "CU33SI7_HT",
+  "CU3SI_HT",
+  "DIAMOND_A4",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   825,
+   984,
+   1073,
+   1075,
+   1093,
+   1097,
+   1115,
+   1126
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     0.115
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     0.097
+    ]
+   ],
+   [
+    "CU33SI7_A13",
+    [
+     "SI"
+    ],
+    [
+     0.164
+    ]
+   ]
+  ],
+  [
+   [
+    "CU33SI7_HT",
+    [
+     "SI"
+    ],
+    [
+     0.175
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "CU33SI7_A13",
+    [
+     "SI"
+    ],
+    [
+     0.164
+    ]
+   ]
+  ],
+  [
+   [
+    "CU3SI_HT",
+    [
+     "SI"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "CU33SI7_HT",
+    [
+     "SI"
+    ],
+    [
+     0.175
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.211
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.307
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU3SI_HT",
+    [
+     "SI"
+    ],
+    [
+     0.24
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.192
+    ]
+   ],
+   [
+    "CU3SI_HT",
+    [
+     "SI"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "CU33SI7_HT",
+    [
+     "SI"
+    ],
+    [
+     0.175
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.187
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.167
+    ]
+   ],
+   [
+    "CU33SI7_HT",
+    [
+     "SI"
+    ],
+    [
+     0.175
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.147
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     0.112
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     0.13
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.157
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     0.111
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.146
+    ]
+   ]
+  ]
+ ],
+ "reference": "2013, Xinyan Yan, Y.A. Chang, J. Alloys Compounds 308 (2000) 221. 38 W. Gierlotka, Md. Azizul Haque / J. Chem. Thermodynamics 57 (2013) 32–38",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-74LQXZ7Q2T ORC-LOYWGLOHGQ ORC-DEU7DZJC6O ORC-FEOIDWXNA4 ORC-ZCWI6YBUDV ORC-F62AK3PPEQ ORC-3OC6LV65XW ORC-KTL2RQXNHD",
+ "bibtex": "xinyan2013_b03178",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-74LQXZ7Q2T",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:5acdd2367da2d00a"
+   },
+   {
+    "id": "ORC-LOYWGLOHGQ",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:5acdd2367da2d00a"
+   },
+   {
+    "id": "ORC-DEU7DZJC6O",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:5acdd2367da2d00a"
+   },
+   {
+    "id": "ORC-FEOIDWXNA4",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:5acdd2367da2d00a"
+   },
+   {
+    "id": "ORC-ZCWI6YBUDV",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:5acdd2367da2d00a"
+   },
+   {
+    "id": "ORC-F62AK3PPEQ",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:5acdd2367da2d00a"
+   },
+   {
+    "id": "ORC-3OC6LV65XW",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:5acdd2367da2d00a"
+   },
+   {
+    "id": "ORC-KTL2RQXNHD",
+    "paper": "doi:10.1016/j.jct.2012.07.025",
+    "measured_in": "ref:5acdd2367da2d00a"
+   }
+  ],
+  "papers": [
+   "ref:5acdd2367da2d00a",
+   "doi:10.1016/j.jct.2012.07.025"
+  ],
+  "dois": [
+   "10.1016/j.jct.2012.07.025"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

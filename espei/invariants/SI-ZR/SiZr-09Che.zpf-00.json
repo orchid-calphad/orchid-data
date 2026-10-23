@@ -1,0 +1,88 @@
+{
+ "components": [
+  "SI",
+  "ZR"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "SI2ZR_C49"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1628.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.1
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI2ZR_C49",
+    [
+     "ZR"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Okamoto 1990, doi:10.1007/bf02898272",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NQ65XVBE26",
+ "bibtex": "okamoto1990_cd2779",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NQ65XVBE26",
+    "paper": "doi:10.1016/j.jallcom.2008.01.061",
+    "measured_in": "doi:10.1007/bf02898272"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02898272",
+   "doi:10.1016/j.jallcom.2008.01.061"
+  ],
+  "dois": [
+   "10.1007/bf02898272",
+   "10.1016/j.jallcom.2008.01.061"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiZr-09Che/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "components": [
+  "BI",
+  "NI"
+ ],
+ "phases": [
+  "BI3NI",
+  "BINI_B81",
+  "FCC_A1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   911.0,
+   748.0,
+   543.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BINI_B81",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BINI_B81",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BI3NI",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BI3NI",
+    [
+     "NI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2016, doi:10.1007/s11664-015-4272-9",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VRAY253E4P ORC-MKHZPXSCSC ORC-XMYP7IOAZ3",
+ "bibtex": "liu2016_171202",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VRAY253E4P",
+    "paper": "doi:10.1007/s11664-015-4272-9"
+   },
+   {
+    "id": "ORC-MKHZPXSCSC",
+    "paper": "doi:10.1007/s11664-015-4272-9"
+   },
+   {
+    "id": "ORC-XMYP7IOAZ3",
+    "paper": "doi:10.1007/s11664-015-4272-9"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11664-015-4272-9",
+   "doi:10.1002/zaac.19080570103"
+  ],
+  "dois": [
+   "10.1002/zaac.19080570103",
+   "10.1007/s11664-015-4272-9"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiNi-16Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

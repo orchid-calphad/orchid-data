@@ -1,0 +1,88 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "MOSI2_C11B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1683
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MOSI2_C11B",
+    [
+     "SI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Hansen 1958, doi:10.1149/1.2428700",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZIOSHIRQJR",
+ "bibtex": "hansen1958_22164f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZIOSHIRQJR",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6",
+    "measured_in": "doi:10.1149/1.2428700"
+   }
+  ],
+  "papers": [
+   "doi:10.1149/1.2428700",
+   "doi:10.1016/s0966-9795(00)00068-6"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(00)00068-6",
+   "10.1149/1.2428700"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoSi-00Liu/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

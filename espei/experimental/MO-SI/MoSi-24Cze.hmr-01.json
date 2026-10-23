@@ -1,0 +1,88 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID",
+  "MO3SI_A15"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SI": [
+   0.25
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -30500.0
+   ]
+  ]
+ ],
+ "reference": "Czerny 2024, doi:10.1002/adem.202302085",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AVYPG47NCJ.cab93f",
+ "reference_states": {
+  "MO": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.333333,
+ "bibtex": "czerny2024_d23903",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AVYPG47NCJ.cab93f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1002/adem.202302085"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/adem.202302085"
+  ],
+  "dois": [
+   "10.1002/adem.202302085"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MoSi-24Cze/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 1500.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.5,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.333333,
+    "weight_used": 0.333333
+   }
+  ]
+ }
+}

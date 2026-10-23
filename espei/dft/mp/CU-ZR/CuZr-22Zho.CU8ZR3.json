@@ -1,0 +1,106 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "CU8ZR3"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   8.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CU",
+    "ZR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -16120.38
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.053539
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB CuZr-22Zho.tdb (sha256 7239bcd57a75ba472018f47d3a9166fc4997234325d38eee333d01c2143d7331), phase CU8ZR3. Ids, in value order: mp-aaacqazd. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "CuZr-22Zho.tdb",
+   "path": "databases/sgte-binary/CuZr-22Zho.tdb",
+   "sha256": "7239bcd57a75ba472018f47d3a9166fc4997234325d38eee333d01c2143d7331",
+   "phase": "CU8ZR3"
+  },
+  "registry_phase": "phase:cu-zr:cu8zr3",
+  "mapping": [
+   {
+    "id": "mp-aaacqazd",
+    "compound": "Zr3Cu8",
+    "basis": "registry DFT name mp:mp-aaacqazd",
+    "space_group": "Pnma",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9339.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CU-ZR",
+     "n": 250,
+     "sigma_robust_kJ": 9.339,
+     "bias_median_kJ_not_applied": 5.37,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      8.274,
+      10.688
+     ],
+     "n_full_stratum": 259
+    },
+    "weight_used": 0.053539,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.16707595590909108,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaacqazd",
+    "compound": "Zr3Cu8"
+   }
+  ]
+ }
+}

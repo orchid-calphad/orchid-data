@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AG",
+  "SE"
+ ],
+ "phases": [
+  "FCC_A1",
+  "ION"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1163
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "ION",
+    [
+     "SE"
+    ],
+    [
+     0.08199999999999999
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ION",
+    [
+     "SE"
+    ],
+    [
+     0.312
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wiggett 1999, doi:10.1007/s11663-999-0019-4",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-35IHIHH2MO",
+ "bibtex": "wiggett1999_4129ef",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-35IHIHH2MO",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "doi:10.1007/s11663-999-0019-4"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11663-999-0019-4",
+   "doi:10.1007/s11669-018-0683-7"
+  ],
+  "dois": [
+   "10.1007/s11663-999-0019-4",
+   "10.1007/s11669-018-0683-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgSe-18Li/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "components": [
+  "CU",
+  "TE"
+ ],
+ "phases": [
+  "CU2TE_EPSILON",
+  "CU4TE3_BETA",
+  "CU4TE3_C38",
+  "CUTE_ALPHA",
+  "CUTE_BETA",
+  "HEXAGONAL_A8",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   903.15,
+   648.15,
+   688.15,
+   623.15,
+   613.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU2TE_EPSILON",
+    [
+     "TE"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "CU4TE3_BETA",
+    [
+     "TE"
+    ],
+    [
+     0.428571
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.38095199999999996
+    ]
+   ]
+  ],
+  [
+   [
+    "CU4TE3_BETA",
+    [
+     "TE"
+    ],
+    [
+     0.428571
+    ]
+   ],
+   [
+    "CU4TE3_C38",
+    [
+     "TE"
+    ],
+    [
+     0.428571
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU4TE3_BETA",
+    [
+     "TE"
+    ],
+    [
+     0.428571
+    ]
+   ],
+   [
+    "CUTE_BETA",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.4642855
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUTE_BETA",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "CUTE_BETA",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUTE_ALPHA",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Huang 2021, doi:10.1016/j.jallcom.2020.157373",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RCEYJGIW7B ORC-AI53BXU3B2 ORC-25QBW6GQEB ORC-IFKFEAIAGA ORC-BAR6DN4RDZ",
+ "bibtex": "huang2021_846153",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RCEYJGIW7B",
+    "paper": "doi:10.1016/j.jallcom.2020.157373"
+   },
+   {
+    "id": "ORC-AI53BXU3B2",
+    "paper": "doi:10.1016/j.jallcom.2020.157373"
+   },
+   {
+    "id": "ORC-25QBW6GQEB",
+    "paper": "doi:10.1016/j.jallcom.2020.157373"
+   },
+   {
+    "id": "ORC-IFKFEAIAGA",
+    "paper": "doi:10.1016/j.jallcom.2020.157373"
+   },
+   {
+    "id": "ORC-BAR6DN4RDZ",
+    "paper": "doi:10.1016/j.jallcom.2020.157373"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2020.157373"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2020.157373"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuTe-21Hua/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

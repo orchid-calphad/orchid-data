@@ -1,0 +1,157 @@
+{
+ "components": [
+  "IN",
+  "PB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID",
+  "TETRAGONAL_A6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   432,
+   445,
+   429
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.10160000000000001
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "PB"
+    ],
+    [
+     0.1267
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "PB"
+    ],
+    [
+     0.11560000000000001
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.195
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     0.29
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "PB"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.025
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "PB"
+    ],
+    [
+     0.025
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, T.B Massalski, Binary Alloy Phase Diagrams, American Society for Metals, Metals Park, OH, 1990.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RG4JKDMK2W ORC-6R6TWBTM3M ORC-RKKNXBKXAZ",
+ "bibtex": "massalski1990_f77657",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RG4JKDMK2W",
+    "paper": "doi:10.1016/j.tca.2003.10.020",
+    "measured_in": "ref:a8fd3a3e6975331f"
+   },
+   {
+    "id": "ORC-6R6TWBTM3M",
+    "paper": "doi:10.1016/j.tca.2003.10.020",
+    "measured_in": "ref:a8fd3a3e6975331f"
+   },
+   {
+    "id": "ORC-RKKNXBKXAZ",
+    "paper": "doi:10.1016/j.tca.2003.10.020",
+    "measured_in": "ref:a8fd3a3e6975331f"
+   }
+  ],
+  "papers": [
+   "ref:a8fd3a3e6975331f",
+   "doi:10.1016/j.tca.2003.10.020"
+  ],
+  "dois": [
+   "10.1016/j.tca.2003.10.020"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/InPb-04Dav/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

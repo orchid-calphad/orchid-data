@@ -1,0 +1,87 @@
+{
+ "components": [
+  "CO",
+  "SN"
+ ],
+ "phases": [
+  "CO3SN2_B82",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1381.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO3SN2_B82",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ]
+ ],
+ "reference": "1938, U. Hashimoto, J. Japan Inst. Met. 2 (1938) 67–77.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UCRTJM72KG",
+ "bibtex": "hashimoto1938_8537fe",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UCRTJM72KG",
+    "paper": "doi:10.1016/j.calphad.2004.08.001",
+    "measured_in": "ref:3c06491b82b1c684"
+   }
+  ],
+  "papers": [
+   "ref:3c06491b82b1c684",
+   "doi:10.1016/j.calphad.2004.08.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2004.08.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoSn-04Jia/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

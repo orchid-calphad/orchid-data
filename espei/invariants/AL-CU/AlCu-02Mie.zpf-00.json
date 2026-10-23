@@ -1,0 +1,167 @@
+{
+ "components": [
+  "AL",
+  "CU"
+ ],
+ "phases": [
+  "AL4CU9_GAMMA",
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1305.15,
+   1295.15,
+   840.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     0.844
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.83
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CU"
+    ],
+    [
+     0.8200000000000001
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "CU"
+    ],
+    [
+     0.6759999999999999
+    ]
+   ],
+   [
+    "AL4CU9_GAMMA",
+    [
+     "CU"
+    ],
+    [
+     0.6739999999999999
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.661
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     0.8029999999999999
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CU"
+    ],
+    [
+     0.761
+    ]
+   ],
+   [
+    "AL4CU9_GAMMA",
+    [
+     "CU"
+    ],
+    [
+     0.69
+    ]
+   ]
+  ]
+ ],
+ "reference": "Murray 1985, doi:10.1179/imr.1985.30.1.211",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V2NQDFSVTY ORC-Y4MYWFTXPL ORC-4FLZLE2TK3",
+ "bibtex": "murray1985_aa096a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-V2NQDFSVTY",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "doi:10.1179/imr.1985.30.1.211"
+   },
+   {
+    "id": "ORC-Y4MYWFTXPL",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "doi:10.1179/imr.1985.30.1.211"
+   },
+   {
+    "id": "ORC-4FLZLE2TK3",
+    "paper": "doi:10.1007/s11661-002-0173-7",
+    "measured_in": "doi:10.1179/imr.1985.30.1.211"
+   }
+  ],
+  "papers": [
+   "doi:10.1179/imr.1985.30.1.211",
+   "doi:10.1007/s11661-002-0173-7"
+  ],
+  "dois": [
+   "10.1007/s11661-002-0173-7",
+   "10.1179/imr.1985.30.1.211"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlCu-02Mie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

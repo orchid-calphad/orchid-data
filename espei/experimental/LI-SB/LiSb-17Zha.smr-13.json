@@ -1,0 +1,79 @@
+{
+ "components": [
+  "LI",
+  "SB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 686.65,
+  "X_SB": [
+   0.25
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    -15.0
+   ]
+  ]
+ ],
+ "reference": "Zhang 2017, doi:10.1016/j.calphad.2017.01.005",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4KBCL5U4BH.046030",
+ "reference_states": {
+  "LI": {
+   "phase": "LIQUID"
+  },
+  "SB": {
+   "phase": "RHOMBOHEDRAL_A7",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "zhang2017_b681d5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4KBCL5U4BH.046030",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2017.01.005"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2017.01.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2017.01.005"
+  ],
+  "source_dataset": "db-v2.1/general/espei/LiSb-17Zha/smr-13.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

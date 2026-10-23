@@ -1,0 +1,123 @@
+{
+ "components": [
+  "MG",
+  "NI"
+ ],
+ "phases": [
+  "C36_LAVES",
+  "LIQUID",
+  "MG2NI_CA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   781.0,
+   1033.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.113
+    ]
+   ],
+   [
+    "C36_LAVES",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MG2NI_CA",
+    [
+     "NI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.29
+    ]
+   ],
+   [
+    "C36_LAVES",
+    [
+     "NI"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "MG2NI_CA",
+    [
+     "NI"
+    ],
+    [
+     0.667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Islam 2005, doi:10.1016/j.calphad.2005.08.006",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3NV4BHYVYG ORC-KMDA6IMANR",
+ "bibtex": "islam2005_a4d91f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3NV4BHYVYG",
+    "paper": "doi:10.1016/j.calphad.2005.08.006"
+   },
+   {
+    "id": "ORC-KMDA6IMANR",
+    "paper": "doi:10.1016/j.calphad.2005.08.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.08.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.08.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgNi-05Isl/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

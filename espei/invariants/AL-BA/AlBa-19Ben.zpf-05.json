@@ -1,0 +1,167 @@
+{
+ "components": [
+  "AL",
+  "BA"
+ ],
+ "phases": [
+  "AL13BA7",
+  "AL5BA3",
+  "AL5BA4",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1018,
+   991,
+   804
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL13BA7",
+    [
+     "BA"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "AL5BA3",
+    [
+     "BA"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5BA3",
+    [
+     "BA"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "AL5BA4",
+    [
+     "BA"
+    ],
+    [
+     0.4444444444444444
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     0.726
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "BA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5BA4",
+    [
+     "BA"
+    ],
+    [
+     0.4444444444444444
+    ]
+   ]
+  ]
+ ],
+ "reference": "1952, E.M. Flanigen, Ph.D. Thesis, 1952",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C3VAOEXDFJ ORC-IQNF5VIKWF ORC-35Z2KG2RQQ",
+ "bibtex": "flanigen1952_f3c6c5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-C3VAOEXDFJ",
+    "paper": "doi:10.1007/s11669-019-00714-2",
+    "measured_in": "ref:f90bbd4a00d4a42c"
+   },
+   {
+    "id": "ORC-IQNF5VIKWF",
+    "paper": "doi:10.1007/s11669-019-00714-2",
+    "measured_in": "ref:f90bbd4a00d4a42c"
+   },
+   {
+    "id": "ORC-35Z2KG2RQQ",
+    "paper": "doi:10.1007/s11669-019-00714-2",
+    "measured_in": "ref:f90bbd4a00d4a42c"
+   }
+  ],
+  "papers": [
+   "ref:f90bbd4a00d4a42c",
+   "doi:10.1007/s11669-019-00714-2"
+  ],
+  "dois": [
+   "10.1007/s11669-019-00714-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlBa-19Ben/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,314 @@
+{
+ "components": [
+  "RE",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "HCP_A3",
+  "LIQUID",
+  "RE2SI",
+  "RESI2",
+  "RESI_B20"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2093.0,
+   2213.0,
+   2043.0,
+   2083.0,
+   1983.0,
+   1923.0,
+   1653.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.46
+    ]
+   ],
+   [
+    "RESI2",
+    [
+     "SI"
+    ],
+    [
+     0.643
+    ]
+   ],
+   [
+    "RESI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.643
+    ]
+   ],
+   [
+    "RESI2",
+    [
+     "SI"
+    ],
+    [
+     0.643
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "RE2SI",
+    [
+     "SI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "RESI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "RE2SI",
+    [
+     "SI"
+    ],
+    [
+     0.667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.26
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     0.1
+    ]
+   ],
+   [
+    "RE2SI",
+    [
+     "SI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "RESI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "RE2SI",
+    [
+     "SI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "RESI2",
+    [
+     "SI"
+    ],
+    [
+     0.643
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.9
+    ]
+   ],
+   [
+    "RESI2",
+    [
+     "SI"
+    ],
+    [
+     0.643
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "Yang 2010, doi:10.1016/j.intermet.2009.06.003",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IHMCY6HPR7 ORC-7DX6TDQAXU ORC-7QIEZXD6UI ORC-R42UGVSW7H ORC-B7ZK2GZBKM ORC-OHOOVKM64A ORC-FLHA3EBHSU",
+ "bibtex": "yang2010_bb6efd",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IHMCY6HPR7",
+    "paper": "doi:10.1016/j.intermet.2009.06.003"
+   },
+   {
+    "id": "ORC-7DX6TDQAXU",
+    "paper": "doi:10.1016/j.intermet.2009.06.003"
+   },
+   {
+    "id": "ORC-7QIEZXD6UI",
+    "paper": "doi:10.1016/j.intermet.2009.06.003"
+   },
+   {
+    "id": "ORC-R42UGVSW7H",
+    "paper": "doi:10.1016/j.intermet.2009.06.003"
+   },
+   {
+    "id": "ORC-B7ZK2GZBKM",
+    "paper": "doi:10.1016/j.intermet.2009.06.003"
+   },
+   {
+    "id": "ORC-OHOOVKM64A",
+    "paper": "doi:10.1016/j.intermet.2009.06.003"
+   },
+   {
+    "id": "ORC-FLHA3EBHSU",
+    "paper": "doi:10.1016/j.intermet.2009.06.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2009.06.003",
+   "doi:10.1007/bf02667640"
+  ],
+  "dois": [
+   "10.1007/bf02667640",
+   "10.1016/j.intermet.2009.06.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ReSi-10Yan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "components": [
+  "CE",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1173.15,
+  "X_ZN": [
+   0.916667
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -12250.0
+   ]
+  ]
+ ],
+ "reference": "Johnson 1970, doi:10.1007/bf02811772",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VSDOYLEF2H",
+ "reference_states": {
+  "CE": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "ZN": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "johnson1970_d12447",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VSDOYLEF2H",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2007.03.120",
+    "measured_in": "doi:10.1007/bf02811772"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02811772",
+   "doi:10.1016/j.jallcom.2007.03.120"
+  ],
+  "dois": [
+   "10.1007/bf02811772",
+   "10.1016/j.jallcom.2007.03.120"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CeZn-08Wan/gmr-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

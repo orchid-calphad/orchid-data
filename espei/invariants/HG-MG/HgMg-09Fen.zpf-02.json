@@ -1,0 +1,94 @@
+{
+ "components": [
+  "HG",
+  "MG"
+ ],
+ "phases": [
+  "HG3MG5_D88",
+  "HGMG2_C37",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   831.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HGMG2_C37",
+    [
+     "MG"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "HG3MG5_D88",
+    [
+     "MG"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.6458335
+    ]
+   ]
+  ]
+ ],
+ "reference": "Feng 2009, doi:10.1007/s11771-009-0005-7",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-O7BQ4TATHC",
+ "bibtex": "feng2009_797663",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-O7BQ4TATHC",
+    "paper": "doi:10.1007/s11771-009-0005-7"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11771-009-0005-7"
+  ],
+  "dois": [
+   "10.1007/s11771-009-0005-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HgMg-09Fen/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

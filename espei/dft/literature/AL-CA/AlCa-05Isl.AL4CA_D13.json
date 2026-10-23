@@ -1,0 +1,229 @@
+{
+ "components": [
+  "AL",
+  "CA"
+ ],
+ "phases": [
+  "AL4CA_D13"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   4.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "CA"
+   ],
+   [
+    "AL",
+    "CA"
+   ],
+   [
+    "AL",
+    "CA"
+   ],
+   [
+    "AL",
+    "CA"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -19208.0,
+    -19560.0,
+    -20034.0,
+    -21615.0
+   ]
+  ]
+ ],
+ "reference": "Ozturk 2005, doi:10.1007/s11661-005-0133-0",
+ "bibtex": "ozturk2005_a0320e",
+ "weight": [
+  0.075988,
+  0.075988,
+  0.075988,
+  0.075988
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AlCa-05Isl.tdb (sha256 595cde9e1659c565d74079d9104fdf1eaac723bfec572a9ee04c021587b6c00b), phase AL4CA_D13. Ids, in value order: ORC-2KOSDBV2KV.80c689 ORC-72BYE267EP.c00d79 ORC-ARDICSAW5Q.302cb1 ORC-J5T6TBKDML.ce13f5. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AlCa-05Isl.tdb",
+   "path": "databases/sgte-binary/AlCa-05Isl.tdb",
+   "sha256": "595cde9e1659c565d74079d9104fdf1eaac723bfec572a9ee04c021587b6c00b",
+   "phase": "AL4CA_D13"
+  },
+  "registry_phase": "phase:al-ca:al4ca-d13",
+  "mapping": [
+   {
+    "id": "ORC-2KOSDBV2KV.80c689",
+    "compound": "Al4Ca",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-72BYE267EP.c00d79",
+    "compound": "Al4Ca",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-ARDICSAW5Q.302cb1",
+    "compound": "Al4Ca",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-J5T6TBKDML.ce13f5",
+    "compound": "Al4Ca",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11661-005-0133-0"
+  ],
+  "dois": [
+   "10.1007/s11661-005-0133-0"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6580.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-CA",
+     "n": 88,
+     "sigma_robust_kJ": 6.58,
+     "bias_median_kJ_not_applied": 2.761,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.075988,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -19.208,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-2KOSDBV2KV.80c689",
+    "compound": "Al4Ca"
+   },
+   {
+    "sigma": 6580.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-CA",
+     "n": 88,
+     "sigma_robust_kJ": 6.58,
+     "bias_median_kJ_not_applied": 2.761,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.075988,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -19.56,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-72BYE267EP.c00d79",
+    "compound": "Al4Ca"
+   },
+   {
+    "sigma": 6580.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-CA",
+     "n": 88,
+     "sigma_robust_kJ": 6.58,
+     "bias_median_kJ_not_applied": 2.761,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.075988,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -20.034,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-ARDICSAW5Q.302cb1",
+    "compound": "Al4Ca"
+   },
+   {
+    "sigma": 6580.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-CA",
+     "n": 88,
+     "sigma_robust_kJ": 6.58,
+     "bias_median_kJ_not_applied": 2.761,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.075988,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -21.615,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-J5T6TBKDML.ce13f5",
+    "compound": "Al4Ca"
+   }
+  ]
+ }
+}

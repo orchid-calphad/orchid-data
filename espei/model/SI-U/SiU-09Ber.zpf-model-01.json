@@ -1,0 +1,114 @@
+{
+ "components": [
+  "SI",
+  "U"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1360.0,
+   1860.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.9603
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.5368
+    ]
+   ]
+  ]
+ ],
+ "reference": "Berche 2009, doi:10.1016/j.jnucmat.2009.01.014",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "phase_compositions_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JHQUOBQVDD ORC-ICMBIMIUJB",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "SiU-09Ber.tdb",
+   "path": "databases/sgte-binary/SiU-09Ber.tdb",
+   "sha256": "145f0a0d4b59bca1fec508ce829d2528d98fa56c9e95f1acd3e3120618d30dbc",
+   "catalog_entry": {
+    "name": "SiU-09Ber.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jnucmat-2009-01-014",
+   "doi": "10.1016/j.jnucmat.2009.01.014",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Nucl. Mater., 389, 101-7(2009).",
+    "year": "2009"
+   }
+  },
+  "model_reproduction": null
+ },
+ "bibtex": "berche2009_8c5ced",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-JHQUOBQVDD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jnucmat.2009.01.014",
+    "measured_in": "doi:10.1016/j.jnucmat.2009.01.014"
+   },
+   {
+    "id": "ORC-ICMBIMIUJB",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jnucmat.2009.01.014",
+    "measured_in": "doi:10.1016/j.jnucmat.2009.01.014"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2009.01.014"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2009.01.014"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/SiU-09Ber/zpf-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

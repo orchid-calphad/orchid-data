@@ -1,0 +1,109 @@
+{
+ "components": [
+  "CA",
+  "SN"
+ ],
+ "phases": [
+  "CA7SN6"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   7.0,
+   6.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CA",
+    "SN"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -65145.5
+   ]
+  ]
+ ],
+ "reference": "OHNO 2006, doi:10.1016/j.actamat.2006.06.017",
+ "bibtex": "ohno2006_6fbf91",
+ "weight": [
+  0.071974
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB CaSn-06Ohn.tdb (sha256 e68b6471da20d65744f091aeb35ae354d4b6eb620c10dbbe50afe1c17ac020e5), phase CA7SN6. Ids, in value order: ORC-IIXZAZBMZ3. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "CaSn-06Ohn.tdb",
+   "path": "databases/sgte-binary/CaSn-06Ohn.tdb",
+   "sha256": "e68b6471da20d65744f091aeb35ae354d4b6eb620c10dbbe50afe1c17ac020e5",
+   "phase": "CA7SN6"
+  },
+  "registry_phase": "phase:ca-sn:ca7sn6",
+  "mapping": [
+   {
+    "id": "ORC-IIXZAZBMZ3",
+    "compound": "Ca7Sn6",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2006.06.017"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2006.06.017"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6947.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CA-SN",
+     "n": 97,
+     "sigma_robust_kJ": 6.947,
+     "bias_median_kJ_not_applied": 0.214,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.071974,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -65.1455,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-IIXZAZBMZ3",
+    "compound": "Ca7Sn6"
+   }
+  ]
+ }
+}

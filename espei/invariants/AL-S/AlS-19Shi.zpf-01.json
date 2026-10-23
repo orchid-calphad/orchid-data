@@ -1,0 +1,85 @@
+{
+ "components": [
+  "AL",
+  "S"
+ ],
+ "phases": [
+  "AL2S3_ALPHA",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   388.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "S"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "AL2S3_ALPHA",
+    [
+     "S"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "S"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "Shi 2019, doi:10.1007/s11669-019-00733-z",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WRGUM72Y3M",
+ "bibtex": "shi2019_dd39b2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WRGUM72Y3M",
+    "paper": "doi:10.1007/s11669-019-00733-z"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-019-00733-z"
+  ],
+  "dois": [
+   "10.1007/s11669-019-00733-z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlS-19Shi/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

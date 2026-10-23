@@ -1,0 +1,167 @@
+{
+ "components": [
+  "B",
+  "CE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CEB4_D1E",
+  "CEB6_D21",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1071.15,
+   2438.15,
+   2263.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liao 1997, doi:10.1007/bf02647853",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DTVRGVTJCA ORC-2AIS56UPSY ORC-PRHT46B2YE",
+ "bibtex": "liao1997_4b01d9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DTVRGVTJCA",
+    "paper": "doi:10.1016/j.tca.2017.10.006",
+    "measured_in": "doi:10.1007/bf02647853"
+   },
+   {
+    "id": "ORC-2AIS56UPSY",
+    "paper": "doi:10.1016/j.tca.2017.10.006",
+    "measured_in": "doi:10.1007/bf02647853"
+   },
+   {
+    "id": "ORC-PRHT46B2YE",
+    "paper": "doi:10.1016/j.tca.2017.10.006",
+    "measured_in": "doi:10.1007/bf02647853"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02647853",
+   "doi:10.1016/j.tca.2017.10.006"
+  ],
+  "dois": [
+   "10.1007/bf02647853",
+   "10.1016/j.tca.2017.10.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeB-17Pre/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

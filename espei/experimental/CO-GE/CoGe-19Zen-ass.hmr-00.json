@@ -1,0 +1,91 @@
+{
+ "components": [
+  "CO",
+  "GE"
+ ],
+ "phases": [
+  "CO5GE3_B82",
+  "DIAMOND_A4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1060.0,
+  "X_GE": [
+   0.32
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -13697.0
+   ]
+  ]
+ ],
+ "reference": "Zeng 2019, doi:10.1016/j.jallcom.2018.12.205",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CHVOY6D4FJ.422766",
+ "reference_states": {
+  "CO": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "GE": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.574713,
+ "bibtex": "zeng2019_5ba00e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CHVOY6D4FJ.422766",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2018.12.205",
+   "doi:10.1016/0040-6031(79)85054-6"
+  ],
+  "dois": [
+   "10.1016/0040-6031(79)85054-6",
+   "10.1016/j.jallcom.2018.12.205"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CoGe-19Zen-ass/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 870.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.87,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.574713,
+    "weight_used": 0.574713
+   }
+  ]
+ }
+}

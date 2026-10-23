@@ -1,0 +1,118 @@
+{
+ "components": [
+  "AL",
+  "SM"
+ ],
+ "phases": [
+  "AL11SM3",
+  "AL4SM_D1B",
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   908.0,
+   873.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "SM"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "AL11SM3",
+    [
+     "SM"
+    ],
+    [
+     0.214
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SM"
+    ],
+    [
+     0.03
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SM"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "AL4SM_D1B",
+    [
+     "SM"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhou 2008, doi:10.1007/s11661-007-9445-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZWGJM37ALJ ORC-RO2CT6SGWC",
+ "bibtex": "zhou2008_e5c464",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZWGJM37ALJ",
+    "paper": "doi:10.1007/s11661-007-9445-6"
+   },
+   {
+    "id": "ORC-RO2CT6SGWC",
+    "paper": "doi:10.1007/s11661-007-9445-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11661-007-9445-6",
+   "doi:10.1016/0167-577x(95)00066-6"
+  ],
+  "dois": [
+   "10.1007/s11661-007-9445-6",
+   "10.1016/0167-577x(95)00066-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlSm-08Zho/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

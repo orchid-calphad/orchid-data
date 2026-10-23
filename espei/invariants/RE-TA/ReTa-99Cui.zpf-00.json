@@ -1,0 +1,243 @@
+{
+ "components": [
+  "RE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CHI_A12",
+  "HCP_A3",
+  "LIQUID",
+  "RE3TA2_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3033,
+   3068,
+   3018,
+   2968,
+   2737
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.16399999999999998
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TA"
+    ],
+    [
+     0.052000000000000005
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "TA"
+    ],
+    [
+     0.20500000000000002
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.215
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "TA"
+    ],
+    [
+     0.215
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "TA"
+    ],
+    [
+     0.376
+    ]
+   ],
+   [
+    "RE3TA2_D8B",
+    [
+     "TA"
+    ],
+    [
+     0.41000000000000003
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.49700000000000005
+    ]
+   ],
+   [
+    "RE3TA2_D8B",
+    [
+     "TA"
+    ],
+    [
+     0.41700000000000004
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.546
+    ]
+   ]
+  ],
+  [
+   [
+    "RE3TA2_D8B",
+    [
+     "TA"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.525
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "TA"
+    ],
+    [
+     0.39799999999999996
+    ]
+   ]
+  ]
+ ],
+ "reference": "1960, J.H. Brophy, P. Schwarzkopf, J. Wulff, Trans. AIME 218 (1960) 910.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-H66RCY7QDH ORC-2TYZUV3RGD ORC-G7PPCT3PXW ORC-PNYI3ST3PC ORC-AZG3VWBQQ3",
+ "bibtex": "brophy1960_558baa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-H66RCY7QDH",
+    "paper": "doi:10.1016/s0925-8388(98)01005-6",
+    "measured_in": "ref:0ee464cf491813ed"
+   },
+   {
+    "id": "ORC-2TYZUV3RGD",
+    "paper": "doi:10.1016/s0925-8388(98)01005-6",
+    "measured_in": "ref:0ee464cf491813ed"
+   },
+   {
+    "id": "ORC-G7PPCT3PXW",
+    "paper": "doi:10.1016/s0925-8388(98)01005-6",
+    "measured_in": "ref:0ee464cf491813ed",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-PNYI3ST3PC",
+    "paper": "doi:10.1016/s0925-8388(98)01005-6",
+    "measured_in": "ref:0ee464cf491813ed",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-AZG3VWBQQ3",
+    "paper": "doi:10.1016/s0925-8388(98)01005-6",
+    "measured_in": "ref:0ee464cf491813ed"
+   }
+  ],
+  "papers": [
+   "ref:0ee464cf491813ed",
+   "doi:10.1016/s0925-8388(98)01005-6"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(98)01005-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ReTa-99Cui/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

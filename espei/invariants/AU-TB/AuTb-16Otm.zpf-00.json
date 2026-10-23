@@ -1,0 +1,1020 @@
+{
+ "components": [
+  "AU",
+  "TB"
+ ],
+ "phases": [
+  "AU10TB7",
+  "AU2TB_C11B",
+  "AU3TB_D0A",
+  "AU4TB3",
+  "AU51TB14",
+  "AU6TB",
+  "AUTB2_C37",
+  "AUTB_B2",
+  "AUTB_B33",
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1483,
+   1153,
+   1273,
+   1863,
+   1613,
+   1483,
+   1468,
+   1538,
+   1433,
+   1498.0,
+   1448,
+   1128,
+   1078,
+   1163.0,
+   1273.0,
+   1628.0,
+   1483.0,
+   1553.0,
+   1443.0,
+   1488.0,
+   1498.0,
+   1388.0,
+   1033.0,
+   1023.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.975
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AUTB2_C37",
+    [
+     "TB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.71
+    ]
+   ],
+   [
+    "AUTB_B33",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AUTB2_C37",
+    [
+     "TB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AUTB_B2",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.41000000000000003
+    ]
+   ],
+   [
+    "AUTB_B33",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AU4TB3",
+    [
+     "TB"
+    ],
+    [
+     0.42857142857142855
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.38
+    ]
+   ],
+   [
+    "AU4TB3",
+    [
+     "TB"
+    ],
+    [
+     0.42857142857142855
+    ]
+   ],
+   [
+    "AU10TB7",
+    [
+     "TB"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "AU10TB7",
+    [
+     "TB"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ],
+   [
+    "AU2TB_C11B",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ],
+   [
+    "AU2TB_C11B",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.29000000000000004
+    ]
+   ],
+   [
+    "AU2TB_C11B",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AU3TB_D0A",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AU4TB3",
+    [
+     "TB"
+    ],
+    [
+     0.42857142857142855
+    ]
+   ],
+   [
+    "AU10TB7",
+    [
+     "TB"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.20999999999999996
+    ]
+   ],
+   [
+    "AU3TB_D0A",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AU51TB14",
+    [
+     "TB"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.12
+    ]
+   ],
+   [
+    "AU51TB14",
+    [
+     "TB"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ],
+   [
+    "AU6TB",
+    [
+     "TB"
+    ],
+    [
+     0.14285714285714285
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.10999999999999999
+    ]
+   ],
+   [
+    "AU6TB",
+    [
+     "TB"
+    ],
+    [
+     0.14285714285714285
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AUTB2_C37",
+    [
+     "TB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AUTB_B33",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AUTB2_C37",
+    [
+     "TB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.5833333334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AUTB_B33",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AU4TB3",
+    [
+     "TB"
+    ],
+    [
+     0.42857142857142855
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.4642857145
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU10TB7",
+    [
+     "TB"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ],
+   [
+    "AU2TB_C11B",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.37254901949999997
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AU2TB_C11B",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU2TB_C11B",
+    [
+     "TB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AU3TB_D0A",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.2916666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AU3TB_D0A",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AU3TB_D0A",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU3TB_D0A",
+    [
+     "TB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "AU51TB14",
+    [
+     "TB"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.2326923075
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU51TB14",
+    [
+     "TB"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ],
+   [
+    "AU6TB",
+    [
+     "TB"
+    ],
+    [
+     0.14285714285714285
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.179120879
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU6TB",
+    [
+     "TB"
+    ],
+    [
+     0.14285714285714285
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Saccone 2000, doi:10.1016/s0966-9795(99)00099-0",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JXYVV45RP5 ORC-5XML6LOHUZ ORC-W3CPAU7PRS ORC-WNKLRBFCOW ORC-X2NUAZEWVL ORC-LWX2A3633N ORC-6R5LWUXTP5 ORC-EBEM3UR2UW ORC-VLSWGFB7ED ORC-MMCOQ3TH5U ORC-JQAZ4BGJ43 ORC-WE5OJBYXAL ORC-BPO4HRART2 ORC-4AZLD6QH6I ORC-QUMX2D66NC ORC-HL3ISQK3P7 ORC-KJCQMZAPIZ ORC-OYEWDNBLYQ ORC-JC26GVUINI ORC-RH77BAKG3Q ORC-WLWF2VG7NR ORC-N7I7LYW67O ORC-TCOUV3WZOB ORC-TJFPUPNJSX",
+ "bibtex": "saccone2000_4cd480",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JXYVV45RP5",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-5XML6LOHUZ",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-W3CPAU7PRS",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-WNKLRBFCOW",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-X2NUAZEWVL",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-LWX2A3633N",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-6R5LWUXTP5",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-EBEM3UR2UW",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-VLSWGFB7ED",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-MMCOQ3TH5U",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-JQAZ4BGJ43",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-WE5OJBYXAL",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-BPO4HRART2",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-4AZLD6QH6I",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-QUMX2D66NC",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-HL3ISQK3P7",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-KJCQMZAPIZ",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-OYEWDNBLYQ",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-JC26GVUINI",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-RH77BAKG3Q",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-WLWF2VG7NR",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-N7I7LYW67O",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-TCOUV3WZOB",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   },
+   {
+    "id": "ORC-TJFPUPNJSX",
+    "paper": "doi:10.1016/j.jallcom.2016.01.260",
+    "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0966-9795(99)00099-0",
+   "doi:10.1016/j.jallcom.2016.01.260"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2016.01.260",
+   "10.1016/s0966-9795(99)00099-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuTb-16Otm/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "components": [
+  "AL",
+  "ZR"
+ ],
+ "phases": [
+  "ALZR3_L12"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "ZR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -29168.52
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.060827
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB AlZr-15Fis.tdb (sha256 24ba1ed7e58494bd89232a0f0a4d07afa20cadf492303da7d0763a8b5a559f79), phase ALZR3_L12. Ids, in value order: mp-aaaaacep. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "AlZr-15Fis.tdb",
+   "path": "databases/sgte-binary/AlZr-15Fis.tdb",
+   "sha256": "24ba1ed7e58494bd89232a0f0a4d07afa20cadf492303da7d0763a8b5a559f79",
+   "phase": "ALZR3_L12"
+  },
+  "registry_phase": "phase:al-zr:alzr3-l12",
+  "mapping": [
+   {
+    "id": "mp-aaaaacep",
+    "compound": "Zr3Al",
+    "basis": "registry DFT name mp:mp-aaaaacep",
+    "space_group": "Pm-3m",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 8220.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "polymorph_ambiguous|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-ZR",
+     "n": 88,
+     "sigma_robust_kJ": 8.22,
+     "bias_median_kJ_not_applied": 5.843,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.461,
+      10.592
+     ],
+     "n_full_stratum": 98
+    },
+    "weight_used": 0.060827,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.3023103925000008,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaacep",
+    "compound": "Zr3Al"
+   }
+  ]
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "components": [
+  "SI",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4",
+  "LIQUID",
+  "SI2TA_C40",
+  "SI3TA5",
+  "SITA3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1673,
+   2313,
+   2233,
+   2533
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.02
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI2TA_C40",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "SI2TA_C40",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.38
+    ]
+   ],
+   [
+    "SI2TA_C40",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "SI3TA5",
+    [
+     "TA"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.83
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SITA3",
+    [
+     "TA"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "reference [30] of doi:10-1016-0364-5916-89-90007-2 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QTEWYEHAWJ ORC-WM5LVE4OHM ORC-B6QHB4MD4W ORC-AFDOJYZLWH",
+ "bibtex": "referencend_9af8c5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QTEWYEHAWJ",
+    "paper": "doi:10.1016/0364-5916(89)90007-2",
+    "measured_in": "unresolved:source:doi:10-1016-0364-5916-89-90007-2#30"
+   },
+   {
+    "id": "ORC-WM5LVE4OHM",
+    "paper": "doi:10.1016/0364-5916(89)90007-2",
+    "measured_in": "unresolved:source:doi:10-1016-0364-5916-89-90007-2#30"
+   },
+   {
+    "id": "ORC-B6QHB4MD4W",
+    "paper": "doi:10.1016/0364-5916(89)90007-2",
+    "measured_in": "unresolved:source:doi:10-1016-0364-5916-89-90007-2#30"
+   },
+   {
+    "id": "ORC-AFDOJYZLWH",
+    "paper": "doi:10.1016/0364-5916(89)90007-2",
+    "measured_in": "unresolved:source:doi:10-1016-0364-5916-89-90007-2#30",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1016-0364-5916-89-90007-2#30",
+   "doi:10.1016/0364-5916(89)90007-2"
+  ],
+  "dois": [
+   "10.1016/0364-5916(89)90007-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiTa-89Vah/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "components": [
+  "SI",
+  "SR"
+ ],
+ "phases": [
+  "LIQUID",
+  "SI2SR_ALPHA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SR": [
+   0.333333,
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -42700.0,
+    -42700.0
+   ]
+  ]
+ ],
+ "reference": "Li 2011, doi:10.1016/j.calphad.2011.09.007",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MNLYH6ZXTW.6fcbcb ORC-MNLYH6ZXTW.6fcbcb",
+ "reference_states": {
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SR": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.116279,
+ "bibtex": "li2011_ce8afa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MNLYH6ZXTW.6fcbcb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2011.09.007"
+   },
+   {
+    "id": "ORC-MNLYH6ZXTW.6fcbcb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2011.09.007"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2011.09.007",
+   "doi:10.1016/j.intermet.2005.10.008",
+   "doi:10.1016/j.jallcom.2003.11.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2011.09.007",
+   "10.1016/j.intermet.2005.10.008",
+   "10.1016/j.jallcom.2003.11.003"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SiSr-11Li-ass/hmr-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 4300.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 4.3,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.116279,
+    "weight_used": 0.116279
+   },
+   {
+    "sigma": 4300.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 4.3,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.116279,
+    "weight_used": 0.116279
+   }
+  ]
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "components": [
+  "CU",
+  "GA"
+ ],
+ "phases": [
+  "CU3GA_D019",
+  "CUGA_GAM_1",
+  "FCC_A1",
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   595.0,
+   595.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU3GA_D019",
+    [
+     "GA"
+    ],
+    [
+     0.219
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "GA"
+    ],
+    [
+     0.205
+    ]
+   ],
+   [
+    "CUGA_GAM_1",
+    [
+     "GA"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CU3GA_D019",
+    [
+     "GA"
+    ],
+    [
+     0.219
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2008, doi:10.1016/j.calphad.2008.03.006",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GVR7EKMZLF ORC-BA7MYO42MK",
+ "bibtex": "li2008_966850",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GVR7EKMZLF",
+    "paper": "doi:10.1016/j.calphad.2008.03.006"
+   },
+   {
+    "id": "ORC-BA7MYO42MK",
+    "paper": "doi:10.1016/j.calphad.2008.03.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2008.03.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2008.03.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuGa-08Li/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

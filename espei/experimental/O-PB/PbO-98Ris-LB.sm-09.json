@@ -1,0 +1,85 @@
+{
+ "components": [
+  "O",
+  "PB"
+ ],
+ "phases": [
+  "LIQUID",
+  "PBO2_C4"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_PB": [
+   0.333333,
+   0.333333
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    23.933333333333334,
+    23.933333333333334
+   ]
+  ]
+ ],
+ "reference": "Risold 1998, doi:10.1361/105497198770342238",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CZYMM2JLMK.6d7ee3 ORC-CZYMM2JLMK.e610a8",
+ "bibtex": "risold1998_941f5a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CZYMM2JLMK.6d7ee3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497198770342238"
+   },
+   {
+    "id": "ORC-CZYMM2JLMK.e610a8",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497198770342238"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497198770342238",
+   "doi:10.1021/j100848a030"
+  ],
+  "dois": [
+   "10.1021/j100848a030",
+   "10.1361/105497198770342238"
+  ],
+  "source_dataset": "db-v2.1/general/espei/PbO-98Ris-LB/sm-09.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

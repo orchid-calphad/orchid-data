@@ -1,0 +1,128 @@
+{
+ "components": [
+  "BI",
+  "TE"
+ ],
+ "phases": [
+  "BI2TE",
+  "BI2TE3_C33",
+  "BI7TE3",
+  "HEXAGONAL_A8",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   585,
+   686
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.055
+    ]
+   ],
+   [
+    "BI2TE",
+    [
+     "TE"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "BI7TE3",
+    [
+     "TE"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.9
+    ]
+   ],
+   [
+    "BI2TE3_C33",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1958, N.K. Abrikosov, and V.F. Bankina, Study of Phase Diagram of the System Bi-Te, J. Inorg. Chem. USSR, 1958, 3, p 659–667.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2CKUMLD24F ORC-HEGD3AM5BM",
+ "bibtex": "abrikosov1958_16d92c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2CKUMLD24F",
+    "paper": "doi:10.1007/s11669-024-01093-z",
+    "measured_in": "ref:213490e1b081ab03"
+   },
+   {
+    "id": "ORC-HEGD3AM5BM",
+    "paper": "doi:10.1007/s11669-024-01093-z",
+    "measured_in": "ref:213490e1b081ab03"
+   }
+  ],
+  "papers": [
+   "ref:213490e1b081ab03",
+   "doi:10.1007/s11669-024-01093-z"
+  ],
+  "dois": [
+   "10.1007/s11669-024-01093-z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiTe-24Zho/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

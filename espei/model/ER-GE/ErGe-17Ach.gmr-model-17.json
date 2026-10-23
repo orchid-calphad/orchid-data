@@ -1,0 +1,224 @@
+{
+ "components": [
+  "ER",
+  "GE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 950.0,
+  "X_GE": [
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.666667,
+   0.666667,
+   0.666667,
+   0.666667,
+   0.666667,
+   0.666667
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -82920.0,
+    -83120.0,
+    -82900.0,
+    -83100.0,
+    -71610.0,
+    -71690.0,
+    -71620.0,
+    -71730.0,
+    -71540.0,
+    -71680.0
+   ]
+  ]
+ ],
+ "reference": "Achgar 2017, doi:10.1016/j.jallcom.2017.07.129",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q7FLMQBHKU.b15b76 ORC-RHY3T5V3A4.a62a73 ORC-PZS4R537IA.13e33b ORC-ACXKXPR5PP.35646e ORC-5HJJYFZRTZ.c7f3e6 ORC-NEELESJRBU.d2b1c8 ORC-5NCTUBP7YY.acd33b ORC-MNXVKCIQTN.c27dd9 ORC-TUA5HIYR7G.d1555d ORC-DIWZHZFXLD.e04f7c",
+ "reference_states": {
+  "ER": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "GE": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "ErGe-17Ach.tdb",
+   "path": "databases/sgte-binary/ErGe-17Ach.tdb",
+   "sha256": "734d825c539b2116bc40e48db92f736d49fcf28423faf12a27652e29002bc34e",
+   "catalog_entry": {
+    "name": "ErGe-17Ach.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2017-07-129",
+   "doi": "10.1016/j.jallcom.2017.07.129",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 724, 1157-66(2017).",
+    "year": "2017"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "achgar2017_193682",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-Q7FLMQBHKU.b15b76",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-RHY3T5V3A4.a62a73",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-PZS4R537IA.13e33b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-ACXKXPR5PP.35646e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-5HJJYFZRTZ.c7f3e6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-NEELESJRBU.d2b1c8",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-5NCTUBP7YY.acd33b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-MNXVKCIQTN.c27dd9",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-TUA5HIYR7G.d1555d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   },
+   {
+    "id": "ORC-DIWZHZFXLD.e04f7c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2017.07.129",
+    "measured_in": "doi:10.1016/j.jallcom.2017.07.129"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2017.07.129"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2017.07.129"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/ErGe-17Ach/gmr-model-17.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

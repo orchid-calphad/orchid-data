@@ -1,0 +1,107 @@
+{
+ "components": [
+  "AL",
+  "MN"
+ ],
+ "phases": [
+  "AL12MN"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   12.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "MN"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -9442.79
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.063621
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB AlMn-12Dju.tdb (sha256 2ec7184c9b84351908598a880e4d0176e30f74e4a256b777356e1701f23ce40a), phase AL12MN. Ids, in value order: oqmd-27878. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "AlMn-12Dju.tdb",
+   "path": "databases/sgte-binary/AlMn-12Dju.tdb",
+   "sha256": "2ec7184c9b84351908598a880e4d0176e30f74e4a256b777356e1701f23ce40a",
+   "phase": "AL12MN"
+  },
+  "registry_phase": "phase:al-mn:al12mn",
+  "mapping": [
+   {
+    "id": "oqmd-27878",
+    "compound": "Al12 Mn1",
+    "basis": "registry DFT name oqmd:oqmd-27878",
+    "space_group": "Im-3",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 7859.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "on_hull_single|magnetic_3d",
+     "used": "source_level",
+     "leave_system_out": true,
+     "system_left_out": "AL-MN",
+     "n": 1285,
+     "sigma_robust_kJ": 7.859,
+     "bias_median_kJ_not_applied": 2.408,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.084,
+      8.656
+     ],
+     "n_full_stratum": 1294
+    },
+    "weight_used": 0.063621,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.0978676433687003,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-27878",
+    "compound": "Al12 Mn1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "components": [
+  "NI",
+  "SC"
+ ],
+ "phases": [
+  "B2_BCC",
+  "C15_LAVES",
+  "FCC_A1",
+  "LIQUID",
+  "NI5SC_D2D",
+  "NI7SC2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1403,
+   1453,
+   1568,
+   1533,
+   1583,
+   1393
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.125
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SC"
+    ],
+    [
+     0.006999999999999999
+    ]
+   ],
+   [
+    "NI5SC_D2D",
+    [
+     "SC"
+    ],
+    [
+     0.16666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.142
+    ]
+   ],
+   [
+    "NI7SC2",
+    [
+     "SC"
+    ],
+    [
+     0.2222222222222222
+    ]
+   ],
+   [
+    "NI5SC_D2D",
+    [
+     "SC"
+    ],
+    [
+     0.16666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "NI7SC2",
+    [
+     "SC"
+    ],
+    [
+     0.2222222222222222
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.22219999999999998
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "NI7SC2",
+    [
+     "SC"
+    ],
+    [
+     0.2222222222222222
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "SC"
+    ],
+    [
+     0.31
+    ]
+   ]
+  ],
+  [
+   [
+    "C15_LAVES",
+    [
+     "SC"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.3333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SC"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "SC"
+    ],
+    [
+     0.35000000000000003
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "SC"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "2014, S.B. Maslenkov, G.S. Braslavskaya, Izv. Akad, Phase diagram of Ni–Sc (up to 36 at.%), Nauk SSSR Met. 1 (1984) 203–206. Z. Cao et al. / Thermochimica Acta 586 (2014) 30–39",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FHNXWWRQGF ORC-CJCBLBLF4J ORC-PGDVHP62NF ORC-DCMV46KG62 ORC-IZM4PJLAYC ORC-E6FZSRVU53",
+ "bibtex": "maslenkov2014_f64086",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FHNXWWRQGF",
+    "paper": "doi:10.1016/j.tca.2014.04.006",
+    "measured_in": "ref:884679b8f4f25d80"
+   },
+   {
+    "id": "ORC-CJCBLBLF4J",
+    "paper": "doi:10.1016/j.tca.2014.04.006",
+    "measured_in": "ref:884679b8f4f25d80"
+   },
+   {
+    "id": "ORC-PGDVHP62NF",
+    "paper": "doi:10.1016/j.tca.2014.04.006",
+    "measured_in": "ref:884679b8f4f25d80"
+   },
+   {
+    "id": "ORC-DCMV46KG62",
+    "paper": "doi:10.1016/j.tca.2014.04.006",
+    "measured_in": "ref:884679b8f4f25d80"
+   },
+   {
+    "id": "ORC-IZM4PJLAYC",
+    "paper": "doi:10.1016/j.tca.2014.04.006",
+    "measured_in": "ref:884679b8f4f25d80"
+   },
+   {
+    "id": "ORC-E6FZSRVU53",
+    "paper": "doi:10.1016/j.tca.2014.04.006",
+    "measured_in": "ref:884679b8f4f25d80"
+   }
+  ],
+  "papers": [
+   "ref:884679b8f4f25d80",
+   "doi:10.1016/j.tca.2014.04.006"
+  ],
+  "dois": [
+   "10.1016/j.tca.2014.04.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiSc-14Cao/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

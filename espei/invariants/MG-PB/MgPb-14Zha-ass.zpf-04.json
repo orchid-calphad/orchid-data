@@ -1,0 +1,85 @@
+{
+ "components": [
+  "MG",
+  "PB"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "MG2PB_C1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   739.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MG2PB_C1",
+    [
+     "PB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "PB"
+    ],
+    [
+     0.0714
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhang 2014, doi:10.2298/jmmb130824017z",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NY7MEPESMS",
+ "bibtex": "zhang2014_89cd4a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NY7MEPESMS",
+    "paper": "doi:10.2298/jmmb130824017z"
+   }
+  ],
+  "papers": [
+   "doi:10.2298/jmmb130824017z"
+  ],
+  "dois": [
+   "10.2298/jmmb130824017z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MgPb-14Zha-ass/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID",
+  "M3SI_A15"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SI": [
+   0.25,
+   0.25
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -29100.0,
+    -29100.0
+   ]
+  ]
+ ],
+ "reference": "Liu 2000, doi:10.1016/s0966-9795(00)00068-6",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6NJR2EL6DN.d6bdca ORC-6NJR2EL6DN.d6bdca",
+ "reference_states": {
+  "MO": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.166667,
+ "bibtex": "liu2000_1b78f0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6NJR2EL6DN.d6bdca",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6"
+   },
+   {
+    "id": "ORC-6NJR2EL6DN.d6bdca",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0966-9795(00)00068-6"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(00)00068-6"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MoSi-00Liu/hmr-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 3000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 3.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.166667,
+    "weight_used": 0.166667
+   },
+   {
+    "sigma": 3000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 3.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.166667,
+    "weight_used": 0.166667
+   }
+  ]
+ }
+}

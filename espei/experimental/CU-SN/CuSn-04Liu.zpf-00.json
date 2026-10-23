@@ -1,0 +1,76 @@
+{
+ "components": [
+  "CU",
+  "SN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DIAMOND_A4"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   873.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "SN"
+    ],
+    [
+     0.086
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SN"
+    ],
+    [
+     0.142
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2004, doi:10.1007/s11661-004-0073-0",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V6A6ATF67N",
+ "bibtex": "liu2004_aac576",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-V6A6ATF67N",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11661-004-0073-0",
+    "measured_in": "doi:10.1007/s11661-004-0073-0"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11661-004-0073-0"
+  ],
+  "dois": [
+   "10.1007/s11661-004-0073-0"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CuSn-04Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

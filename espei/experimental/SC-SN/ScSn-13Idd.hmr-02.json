@@ -1,0 +1,93 @@
+{
+ "components": [
+  "SC",
+  "SN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SN": [
+   0.375
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -70200.0
+   ]
+  ]
+ ],
+ "reference": "Iddaoudi 2013, doi:10.1016/j.calphad.2013.01.006",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IW5CIMGSI2",
+ "reference_states": {
+  "SC": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SN": {
+   "phase": "BCT_A5",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.277778,
+ "bibtex": "iddaoudi2013_8f7e3c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IW5CIMGSI2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.01.006",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2013.01.006",
+   "doi:10.1016/0925-8388(95)02190-6"
+  ],
+  "dois": [
+   "10.1016/0925-8388(95)02190-6",
+   "10.1016/j.calphad.2013.01.006"
+  ],
+  "source_dataset": "db-v2.1/general/espei/ScSn-13Idd/hmr-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 1800.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.8,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.277778,
+    "weight_used": 0.277778
+   }
+  ]
+ }
+}

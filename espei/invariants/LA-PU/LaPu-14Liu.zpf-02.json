@@ -1,0 +1,278 @@
+{
+ "components": [
+  "LA",
+  "PU"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BETA_PU",
+  "FCC_A1",
+  "GAMMA_PU",
+  "LIQUID",
+  "TETRAGONAL_A6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1108.15,
+   913.15,
+   756.15,
+   593.15,
+   488.15,
+   736.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GAMMA_PU",
+    [
+     "PU"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     0.96
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PU"
+    ],
+    [
+     0.191
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     0.985
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PU"
+    ],
+    [
+     0.128
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "PU"
+    ],
+    [
+     0.988
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "PU"
+    ],
+    [
+     0.997
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PU"
+    ],
+    [
+     0.071
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "PU"
+    ],
+    [
+     0.998
+    ]
+   ]
+  ],
+  [
+   [
+    "TETRAGONAL_A6",
+    [
+     "PU"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PU"
+    ],
+    [
+     0.036
+    ]
+   ],
+   [
+    "GAMMA_PU",
+    [
+     "PU"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "GAMMA_PU",
+    [
+     "PU"
+    ],
+    [
+     1.0
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PU"
+    ],
+    [
+     0.023
+    ]
+   ],
+   [
+    "BETA_PU",
+    [
+     "PU"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "PU"
+    ],
+    [
+     0.068
+    ]
+   ],
+   [
+    "TETRAGONAL_A6",
+    [
+     "PU"
+    ],
+    [
+     0.998
+    ]
+   ]
+  ]
+ ],
+ "reference": "2000, H. Okamoto, Desk Handbook-Phase Diagrams for Binary Alloys, ASM International, 2000.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CZXIFC2V6L ORC-5VY6DNJNBE ORC-6SAU74MBA7 ORC-IR7BGPI4I4 ORC-CCFYSC5K6H ORC-CKBUUPRJP2",
+ "bibtex": "okamoto2000_ad166c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CZXIFC2V6L",
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+    "measured_in": "ref:af1047d42018557b"
+   },
+   {
+    "id": "ORC-5VY6DNJNBE",
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+    "measured_in": "ref:af1047d42018557b"
+   },
+   {
+    "id": "ORC-6SAU74MBA7",
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+    "measured_in": "ref:af1047d42018557b"
+   },
+   {
+    "id": "ORC-IR7BGPI4I4",
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+    "measured_in": "ref:af1047d42018557b"
+   },
+   {
+    "id": "ORC-CCFYSC5K6H",
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+    "measured_in": "ref:af1047d42018557b"
+   },
+   {
+    "id": "ORC-CKBUUPRJP2",
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001",
+    "measured_in": "ref:af1047d42018557b"
+   }
+  ],
+  "papers": [
+   "ref:af1047d42018557b",
+   "doi:10.1016/j.jnucmat.2014.07.001"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2014.07.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LaPu-14Liu/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

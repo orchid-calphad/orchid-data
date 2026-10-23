@@ -1,0 +1,82 @@
+{
+ "components": [
+  "AL",
+  "C"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_C": [
+   0.428571
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -26200.0
+   ]
+  ]
+ ],
+ "reference": "Deffrennes 2019, doi:10.1016/j.calphad.2019.101648",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GCZG5SCLHX.5e1ccb",
+ "reference_states": {
+  "AL": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "C": {
+   "phase": "GRAPHITE",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "deffrennes2019_6c1ebe",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GCZG5SCLHX.5e1ccb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2019.101648"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2019.101648"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2019.101648"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlC-19Def/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

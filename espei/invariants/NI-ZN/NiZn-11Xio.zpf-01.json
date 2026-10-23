@@ -1,0 +1,87 @@
+{
+ "components": [
+  "NI",
+  "ZN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1313
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.528
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZN"
+    ],
+    [
+     0.40399999999999997
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1932, W. Heike, J. Schramm, O. Vaupel, Der gefuegeaufbau der Nickel–Zink– Legierungen I, Metallwirtsch. Metallwiss. Metalltech. 11 (1932) 525–530.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BDQETFWLRW",
+ "bibtex": "heike1932_d43c02",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BDQETFWLRW",
+    "paper": "doi:10.1016/j.calphad.2011.03.003",
+    "measured_in": "ref:a3a29140fabdde13"
+   }
+  ],
+  "papers": [
+   "ref:a3a29140fabdde13",
+   "doi:10.1016/j.calphad.2011.03.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2011.03.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZn-11Xio/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

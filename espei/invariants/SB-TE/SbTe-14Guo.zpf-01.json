@@ -1,0 +1,77 @@
+{
+ "components": [
+  "SB",
+  "TE"
+ ],
+ "phases": [
+  "LIQUID",
+  "SB2TE3_C33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   892
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "SB2TE3_C33",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ]
+ ],
+ "reference": "1964, B.W. Howlett, S. Misra, and M.B. Bever, Trans. AIME 230, 1367 (1964).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TCQNN46EFJ",
+ "bibtex": "howlett1964_31d6f6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-TCQNN46EFJ",
+    "paper": "doi:10.1007/s11664-014-3299-7",
+    "measured_in": "ref:7da69df167fec485"
+   }
+  ],
+  "papers": [
+   "ref:7da69df167fec485",
+   "doi:10.1007/s11664-014-3299-7"
+  ],
+  "dois": [
+   "10.1007/s11664-014-3299-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SbTe-14Guo/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

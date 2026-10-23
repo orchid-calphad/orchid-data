@@ -1,0 +1,315 @@
+{
+ "components": [
+  "MO",
+  "RE"
+ ],
+ "phases": [
+  "CHI_A12",
+  "HCP_A3",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1873.0,
+   1473.0,
+   1873.0,
+   1873.0,
+   1873.0,
+   1473.0,
+   1873.0,
+   1473.0,
+   1873.0,
+   1473.0,
+   1873.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     0.93
+    ]
+   ]
+  ],
+  [
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.78
+    ]
+   ]
+  ],
+  [
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.78
+    ]
+   ]
+  ],
+  [
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.751
+    ]
+   ],
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.69
+    ]
+   ]
+  ],
+  [
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.74
+    ]
+   ]
+  ],
+  [
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.77
+    ]
+   ]
+  ],
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.701
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.73
+    ]
+   ]
+  ],
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.681
+    ]
+   ]
+  ],
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.596
+    ]
+   ]
+  ],
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.54
+    ]
+   ]
+  ],
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.52
+    ]
+   ]
+  ]
+ ],
+ "reference": "Farzadfar 2009, doi:10.1016/j.calphad.2009.02.001",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RLRXSO5QQN ORC-X65WQRVG6H ORC-6OKPKM7OBH ORC-FAQ7Z4W2ZY ORC-SZLRKFKEDZ ORC-EXYA5IKD5V ORC-D5G7NNE62L ORC-RYMX265O6T ORC-ZNC5UFMBOK ORC-2C564TX2DS ORC-VYYOUAEXSK",
+ "bibtex": "farzadfar2009_46ab48",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RLRXSO5QQN",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-X65WQRVG6H",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-6OKPKM7OBH",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-FAQ7Z4W2ZY",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-SZLRKFKEDZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-EXYA5IKD5V",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-D5G7NNE62L",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-RYMX265O6T",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-ZNC5UFMBOK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-2C564TX2DS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   },
+   {
+    "id": "ORC-VYYOUAEXSK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "doi:10.1016/j.calphad.2009.02.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2009.02.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.02.001"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MoRe-09Far/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

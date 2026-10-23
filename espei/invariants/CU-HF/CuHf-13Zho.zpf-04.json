@@ -1,0 +1,228 @@
+{
+ "components": [
+  "CU",
+  "HF"
+ ],
+ "phases": [
+  "CU10HF7",
+  "CU51HF14",
+  "CU8HF3",
+  "CUHF2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1383,
+   1263,
+   1243,
+   1583,
+   1568.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CU51HF14",
+    [
+     "HF"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ]
+  ],
+  [
+   [
+    "CU8HF3",
+    [
+     "HF"
+    ],
+    [
+     0.2727272727272727
+    ]
+   ],
+   [
+    "CU51HF14",
+    [
+     "HF"
+    ],
+    [
+     0.2153846153846154
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     0.34
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     0.386
+    ]
+   ],
+   [
+    "CU8HF3",
+    [
+     "HF"
+    ],
+    [
+     0.2727272727272727
+    ]
+   ],
+   [
+    "CU10HF7",
+    [
+     "HF"
+    ],
+    [
+     0.4117647058823529
+    ]
+   ]
+  ],
+  [
+   [
+    "CUHF2",
+    [
+     "HF"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HF"
+    ],
+    [
+     0.72
+    ]
+   ],
+   [
+    "CUHF2",
+    [
+     "HF"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "HF"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1974, Markiv VY, Petkov VV, Storozhenko AI, Ivanchenko VG. Russ Metall 1974;2:123.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XXZN75GZHA ORC-5J37RFZYAF ORC-T426QSDSEY ORC-Q4EXSVQI2V ORC-FOYULYGYDR",
+ "bibtex": "markiv1974_72a0cb",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XXZN75GZHA",
+    "paper": "doi:10.1016/j.actamat.2012.10.014",
+    "measured_in": "ref:5e7ee9278188a0e1"
+   },
+   {
+    "id": "ORC-5J37RFZYAF",
+    "paper": "doi:10.1016/j.actamat.2012.10.014",
+    "measured_in": "ref:5e7ee9278188a0e1"
+   },
+   {
+    "id": "ORC-T426QSDSEY",
+    "paper": "doi:10.1016/j.actamat.2012.10.014",
+    "measured_in": "ref:5e7ee9278188a0e1"
+   },
+   {
+    "id": "ORC-Q4EXSVQI2V",
+    "paper": "doi:10.1016/j.actamat.2012.10.014",
+    "measured_in": "ref:5e7ee9278188a0e1"
+   },
+   {
+    "id": "ORC-FOYULYGYDR",
+    "paper": "doi:10.1016/j.actamat.2012.10.014",
+    "measured_in": "ref:5e7ee9278188a0e1"
+   }
+  ],
+  "papers": [
+   "ref:5e7ee9278188a0e1",
+   "doi:10.1016/j.actamat.2012.10.014"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2012.10.014"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuHf-13Zho/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

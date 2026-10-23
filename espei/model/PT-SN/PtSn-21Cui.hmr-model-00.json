@@ -1,0 +1,115 @@
+{
+ "components": [
+  "PT",
+  "SN"
+ ],
+ "phases": [
+  "LIQUID",
+  "PT3SN_L12"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1659.15,
+  "X_SN": [
+   0.25,
+   0.25
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -55300.0,
+    -55300.0
+   ]
+  ]
+ ],
+ "reference": "Cui 2021, doi:10.1016/j.jallcom.2020.157064",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OVQ3F762FA ORC-OVQ3F762FA",
+ "reference_states": {
+  "PT": {
+   "phase": "LIQUID"
+  },
+  "SN": {
+   "phase": "LIQUID"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "PtSn-21Cui.tdb",
+   "path": "databases/sgte-binary/PtSn-21Cui.tdb",
+   "sha256": "8a3b41718a07411c2f78e54aae90e22d97a267da64cd66fb989ae8b753643ed5",
+   "catalog_entry": {
+    "name": "PtSn-21Cui.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2020-157064",
+   "doi": "10.1016/j.jallcom.2020.157064",
+   "citation": {
+    "authors": "see doi",
+    "title": "S. Cui, M. Lynn, R.E. Napolitano, J. Alloys Compd., 854, 157064(2021).",
+    "year": "2021"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "cui2021_d95982",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-OVQ3F762FA",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2020.157064",
+    "measured_in": "doi:10.1016/j.jallcom.2020.157064"
+   },
+   {
+    "id": "ORC-OVQ3F762FA",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2020.157064",
+    "measured_in": "doi:10.1016/j.jallcom.2020.157064"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2020.157064"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2020.157064"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/PtSn-21Cui/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

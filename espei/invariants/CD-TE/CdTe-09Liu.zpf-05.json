@@ -1,0 +1,87 @@
+{
+ "components": [
+  "CD",
+  "TE"
+ ],
+ "phases": [
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "ZINCBLENDE_B3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   720
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZINCBLENDE_B3",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1963, B.M. Kulwicki (Ph.D. thesis, The University of Michigan, Ann Arbor, Michigan, USA, 1963).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-54H5OHNIE2",
+ "bibtex": "kulwicki1963_d27e0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-54H5OHNIE2",
+    "paper": "doi:10.1007/s11664-009-0875-3",
+    "measured_in": "ref:3e4bba03fe88cacc"
+   }
+  ],
+  "papers": [
+   "ref:3e4bba03fe88cacc",
+   "doi:10.1007/s11664-009-0875-3"
+  ],
+  "dois": [
+   "10.1007/s11664-009-0875-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CdTe-09Liu/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

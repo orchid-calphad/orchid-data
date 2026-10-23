@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AL",
+  "NI"
+ ],
+ "phases": [
+  "AL3NI5",
+  "B2_BCC",
+  "FCC_4SL"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   973
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "B2_BCC",
+    [
+     "NI"
+    ],
+    [
+     0.605
+    ]
+   ],
+   [
+    "FCC_4SL",
+    [
+     "NI"
+    ],
+    [
+     0.728
+    ]
+   ],
+   [
+    "AL3NI5",
+    [
+     "NI"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ]
+ ],
+ "reference": "Robertson 1984, doi:10.1016/0026-0800(84)90004-1",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X4UHZ5V3VW",
+ "bibtex": "robertson1984_643eda",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-X4UHZ5V3VW",
+    "paper": "doi:10.1016/j.intermet.2022.107647",
+    "measured_in": "doi:10.1016/0026-0800(84)90004-1"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0026-0800(84)90004-1",
+   "doi:10.1016/j.intermet.2022.107647"
+  ],
+  "dois": [
+   "10.1016/0026-0800(84)90004-1",
+   "10.1016/j.intermet.2022.107647"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlNi-22Yan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

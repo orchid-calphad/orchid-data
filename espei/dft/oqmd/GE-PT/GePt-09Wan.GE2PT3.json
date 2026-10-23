@@ -1,0 +1,108 @@
+{
+ "components": [
+  "GE",
+  "PT"
+ ],
+ "phases": [
+  "GE2PT3"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "PT"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -42023.63
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.078815
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB GePt-09Wan.tdb (sha256 f60778f39f10891123cdffd56e0355225a9a2dec3cf891e294efb69f3815ec9c), phase GE2PT3. Ids, in value order: oqmd-32367. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "GePt-09Wan.tdb",
+   "path": "databases/sgte-binary/GePt-09Wan.tdb",
+   "sha256": "f60778f39f10891123cdffd56e0355225a9a2dec3cf891e294efb69f3815ec9c",
+   "phase": "GE2PT3"
+  },
+  "registry_phase": "phase:ge-pt:ge2pt3",
+  "mapping": [
+   {
+    "id": "oqmd-32367",
+    "compound": "Ge2 Pt3",
+    "basis": "registry DFT name oqmd:oqmd-32367",
+    "space_group": "Pnma",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6344.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "polymorph_ambiguous|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-PT",
+     "n": 232,
+     "sigma_robust_kJ": 6.344,
+     "bias_median_kJ_not_applied": 1.955,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      4.989,
+      7.352
+     ],
+     "n_full_stratum": 236
+    },
+    "weight_used": 0.078815,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.43554420375,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-32367",
+    "compound": "Ge2 Pt3"
+   }
+  ]
+ }
+}

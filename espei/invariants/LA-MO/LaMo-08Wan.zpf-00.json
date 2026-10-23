@@ -1,0 +1,90 @@
+{
+ "components": [
+  "LA",
+  "MO"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2820.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.96
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.9987
+    ]
+   ]
+  ]
+ ],
+ "reference": "1980, L. Brewer, in: O. Kubaschewski (Ed.), Molybdenum, Physico-Chemical Properties of its Compounds and Alloys. Atomic Energy Review Special Issue No. 7, International Atomic Energy Agency, Vienna, 1980.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZVUU3AR6HU",
+ "bibtex": "brewer1980_df817a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZVUU3AR6HU",
+    "paper": "doi:10.1016/j.jallcom.2006.11.155",
+    "measured_in": "ref:bba7c5b8939acbe6",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:bba7c5b8939acbe6",
+   "doi:10.1016/j.jallcom.2006.11.155"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2006.11.155"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LaMo-08Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "components": [
+  "MO",
+  "O"
+ ],
+ "phases": [
+  "LIQUID",
+  "MO8O23",
+  "MO9O26",
+  "MOO3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1053.15,
+   1051.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MO8O23",
+    [
+     "O"
+    ],
+    [
+     0.7419354838709677
+    ]
+   ],
+   [
+    "MO9O26",
+    [
+     "O"
+    ],
+    [
+     0.7428571428571429
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.7423963135
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MO9O26",
+    [
+     "O"
+    ],
+    [
+     0.7428571428571429
+    ]
+   ],
+   [
+    "MOO3",
+    [
+     "O"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.7464285715000001
+    ]
+   ]
+  ]
+ ],
+ "reference": "1965, B. Phillips, L.L.Y. Chang, Condensed-phase relations in system Mo–O, Trans. Metall. Soc. AIME 233 (1965) 1433–1436.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CIPJAZEEG7 ORC-DUVVS2WS3I",
+ "bibtex": "phillips1965_600533",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CIPJAZEEG7",
+    "paper": "doi:10.1016/j.calphad.2013.12.006",
+    "measured_in": "ref:8cd46d39972c8802"
+   },
+   {
+    "id": "ORC-DUVVS2WS3I",
+    "paper": "doi:10.1016/j.calphad.2013.12.006",
+    "measured_in": "ref:8cd46d39972c8802"
+   }
+  ],
+  "papers": [
+   "ref:8cd46d39972c8802",
+   "doi:10.1016/j.calphad.2013.12.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.12.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoO-14Zha/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 15.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

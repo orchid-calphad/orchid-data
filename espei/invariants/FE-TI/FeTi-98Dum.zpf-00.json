@@ -1,0 +1,179 @@
+{
+ "components": [
+  "FE",
+  "TI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C14_LAVES",
+  "FETI_B2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1599,
+   1589,
+   1359
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "TI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "C14_LAVES",
+    [
+     "TI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "FETI_B2",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.4166666665
+    ]
+   ]
+  ],
+  [
+   [
+    "FETI_B2",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1979, P.H. Booker, 'q'emary Phase Equilibria in the Systems Ti-Fe-C, Ti-Co-C and Ti-Ni-C,\" Ph.D. Thesis, Oregon Graduate Center (1979).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EVFCA6NKVJ ORC-Z5225J6WZS ORC-2D6EQMCVQV",
+ "bibtex": "booker1979_ccf988",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EVFCA6NKVJ",
+    "paper": "doi:10.1361/105497198770341923",
+    "measured_in": "ref:258b1b82c4fa88f1",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-Z5225J6WZS",
+    "paper": "doi:10.1361/105497198770341923",
+    "measured_in": "ref:258b1b82c4fa88f1"
+   },
+   {
+    "id": "ORC-2D6EQMCVQV",
+    "paper": "doi:10.1361/105497198770341923",
+    "measured_in": "ref:258b1b82c4fa88f1"
+   }
+  ],
+  "papers": [
+   "ref:258b1b82c4fa88f1",
+   "doi:10.1361/105497198770341923"
+  ],
+  "dois": [
+   "10.1361/105497198770341923"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTi-98Dum/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

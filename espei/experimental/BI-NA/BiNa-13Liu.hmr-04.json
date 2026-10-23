@@ -1,0 +1,97 @@
+{
+ "components": [
+  "BI",
+  "NA"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_NA": [
+   0.5,
+   0.75
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -39150.0,
+    -52500.0
+   ]
+  ]
+ ],
+ "reference": "Liu 2013, doi:10.1016/j.tca.2013.01.029",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QYSC64K2CE ORC-KWFFGC4AC3",
+ "reference_states": {
+  "BI": {
+   "phase": "LIQUID"
+  },
+  "NA": {
+   "phase": "LIQUID"
+  }
+ },
+ "bibtex": "liu2013_883ba5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QYSC64K2CE",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-KWFFGC4AC3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2013.01.029"
+  ],
+  "dois": [
+   "10.1016/j.tca.2013.01.029"
+  ],
+  "source_dataset": "db-v2.1/general/espei/BiNa-13Liu/hmr-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

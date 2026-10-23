@@ -1,0 +1,85 @@
+{
+ "components": [
+  "PD",
+  "RU"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1867.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "RU"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gossé 2016, doi:10.1016/j.jnucmat.2016.03.025",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-N3XU5LTGY5",
+ "bibtex": "gosse2016_7687d6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-N3XU5LTGY5",
+    "paper": "doi:10.1016/j.jnucmat.2016.03.025"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2016.03.025"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2016.03.025"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PdRu-16Gos/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

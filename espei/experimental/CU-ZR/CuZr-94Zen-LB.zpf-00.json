@@ -1,0 +1,168 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "CU10ZR7",
+  "CU51ZR14",
+  "CUZR2",
+  "CUZR_B2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1373.0,
+   1208.0,
+   1273.0,
+   1168.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.215385
+    ]
+   ],
+   [
+    "CU51ZR14",
+    [
+     "ZR"
+    ],
+    [
+     0.215385
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUZR_B2",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "CUZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ],
+   [
+    "CU10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zeng 1994, doi:10.1007/bf02647618",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2HMIRZDSJ3 ORC-NYKVMVHSJT ORC-4EK2PJH36U ORC-TDHBYASPMD",
+ "bibtex": "zeng1994_6501e7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2HMIRZDSJ3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618"
+   },
+   {
+    "id": "ORC-NYKVMVHSJT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618"
+   },
+   {
+    "id": "ORC-4EK2PJH36U",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618"
+   },
+   {
+    "id": "ORC-TDHBYASPMD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02647618"
+  ],
+  "dois": [
+   "10.1007/bf02647618"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CuZr-94Zen-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

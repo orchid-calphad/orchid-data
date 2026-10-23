@@ -1,0 +1,169 @@
+{
+ "components": [
+  "AG",
+  "SN"
+ ],
+ "phases": [
+  "AG3SN_D0A",
+  "BCT_A5",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   494.15,
+   753.15,
+   997.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.962
+    ]
+   ],
+   [
+    "AG3SN_D0A",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "SN"
+    ],
+    [
+     0.228
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.496
+    ]
+   ],
+   [
+    "AG3SN_D0A",
+    [
+     "SN"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "SN"
+    ],
+    [
+     0.115
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.195
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SN"
+    ],
+    [
+     0.13
+    ]
+   ]
+  ]
+ ],
+ "reference": "1987, I. Karakaya and W.T. Thompson, Bul. Alloy Ph. Dia., B(4) (1987) 341.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TJ5FEGS4XI ORC-N6QNIM6D2V ORC-VOFXJHV7LK",
+ "bibtex": "karakaya1987_667572",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-TJ5FEGS4XI",
+    "paper": "doi:10.1016/0040-6031(88)87426-4",
+    "measured_in": "ref:3ac28cf58ec35dcb"
+   },
+   {
+    "id": "ORC-N6QNIM6D2V",
+    "paper": "doi:10.1016/0040-6031(88)87426-4",
+    "measured_in": "ref:3ac28cf58ec35dcb"
+   },
+   {
+    "id": "ORC-VOFXJHV7LK",
+    "paper": "doi:10.1016/0040-6031(88)87426-4",
+    "measured_in": "ref:3ac28cf58ec35dcb"
+   }
+  ],
+  "papers": [
+   "ref:3ac28cf58ec35dcb",
+   "doi:10.1016/0040-6031(88)87426-4",
+   "doi:10.1007/bf01033827"
+  ],
+  "dois": [
+   "10.1007/bf01033827",
+   "10.1016/0040-6031(88)87426-4"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgSn-88Che/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

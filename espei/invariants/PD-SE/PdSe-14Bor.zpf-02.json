@@ -1,0 +1,510 @@
+{
+ "components": [
+  "PD",
+  "SE"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "PD17SE15",
+  "PD34SE11",
+  "PD4SE_HT",
+  "PD4SE_LT",
+  "PD7SE2",
+  "PD7SE4",
+  "PD9SE2",
+  "PDSE",
+  "PDSE2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   908,
+   817,
+   811,
+   703,
+   688,
+   953,
+   893,
+   800,
+   658,
+   663
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PD9SE2",
+    [
+     "SE"
+    ],
+    [
+     0.18181818181818182
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PD9SE2",
+    [
+     "SE"
+    ],
+    [
+     0.18181818181818182
+    ]
+   ],
+   [
+    "PD4SE_HT",
+    [
+     "SE"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.190909091
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PD4SE_HT",
+    [
+     "SE"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "PD7SE2",
+    [
+     "SE"
+    ],
+    [
+     0.2222222222222222
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.21111111100000002
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PD7SE2",
+    [
+     "SE"
+    ],
+    [
+     0.2222222222222222
+    ]
+   ],
+   [
+    "PD34SE11",
+    [
+     "SE"
+    ],
+    [
+     0.24444444444444444
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.233333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PD17SE15",
+    [
+     "SE"
+    ],
+    [
+     0.46875
+    ]
+   ],
+   [
+    "PD7SE4",
+    [
+     "SE"
+    ],
+    [
+     0.36363636363636365
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.416193182
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PDSE2",
+    [
+     "SE"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "PD17SE15",
+    [
+     "SE"
+    ],
+    [
+     0.46875
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.5677083334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "PD17SE15",
+    [
+     "SE"
+    ],
+    [
+     0.46875
+    ]
+   ],
+   [
+    "PDSE2",
+    [
+     "SE"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "PDSE",
+    [
+     "SE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.545138889
+    ]
+   ]
+  ],
+  [
+   [
+    "PD4SE_HT",
+    [
+     "SE"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "PD4SE_LT",
+    [
+     "SE"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PD34SE11",
+    [
+     "SE"
+    ],
+    [
+     0.24444444444444444
+    ]
+   ],
+   [
+    "PD7SE4",
+    [
+     "SE"
+    ],
+    [
+     0.36363636363636365
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.304040404
+    ]
+   ]
+  ],
+  [
+   [
+    "PD9SE2",
+    [
+     "SE"
+    ],
+    [
+     0.18181818181818182
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "PD4SE_LT",
+    [
+     "SE"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SE"
+    ],
+    [
+     0.190909091
+    ]
+   ]
+  ]
+ ],
+ "reference": "Olsen 1979, doi:10.3891/acta.chem.scand.33a-0251",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SBVQTDO55S ORC-AFDKOFM24F ORC-LP7VAG4YZB ORC-LDB4ATMWOU ORC-4RVDN5JTD4 ORC-FTVOM6VWQX ORC-6LEZ2DBL6U ORC-MREYKDL5F4 ORC-SJLTELWR3W ORC-LGPDPM2ZXI",
+ "bibtex": "olsen1979_10601e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SBVQTDO55S",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-AFDKOFM24F",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-LP7VAG4YZB",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-LDB4ATMWOU",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-4RVDN5JTD4",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-FTVOM6VWQX",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-6LEZ2DBL6U",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-MREYKDL5F4",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-SJLTELWR3W",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   },
+   {
+    "id": "ORC-LGPDPM2ZXI",
+    "paper": "doi:10.1016/j.jnucmat.2014.03.044",
+    "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
+   }
+  ],
+  "papers": [
+   "doi:10.3891/acta.chem.scand.33a-0251",
+   "doi:10.1016/j.jnucmat.2014.03.044"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2014.03.044",
+   "10.3891/acta.chem.scand.33a-0251"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PdSe-14Bor/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

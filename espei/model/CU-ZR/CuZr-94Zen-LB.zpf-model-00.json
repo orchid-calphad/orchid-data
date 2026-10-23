@@ -1,0 +1,198 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "CU10ZR7",
+  "CU51ZR14",
+  "CUZR2",
+  "CUZR_B2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1386.0,
+   1209.0,
+   1275.0,
+   1164.4
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.215385
+    ]
+   ],
+   [
+    "CU51ZR14",
+    [
+     "ZR"
+    ],
+    [
+     0.215385
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CUZR_B2",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "CUZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ],
+   [
+    "CU10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.411765
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zeng 1994, doi:10.1007/bf02647618",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "phase_compositions_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RK4H7GXIA5 ORC-OY5FET34H3 ORC-QZ3RAS2LAJ ORC-4JY3RAWIOY",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CuZr-94Zen-LB.tdb",
+   "path": "databases/sgte-binary/CuZr-94Zen-LB.tdb",
+   "sha256": "4cce85fd056a6fced1c8270faca7a1d811d2f8227b305f70e0a221925bd07f69",
+   "catalog_entry": {
+    "name": "CuZr-94Zen-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-bf02647618",
+   "doi": "10.1007/BF02647618",
+   "citation": {
+    "authors": "see doi",
+    "title": "K.-J. Zeng, M. Hamalainen, H.L. Lukas, J. Phase Equilib., 15, 577-83(1994).",
+    "year": "1994"
+   }
+  },
+  "model_reproduction": null
+ },
+ "bibtex": "zeng1994_6501e7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-RK4H7GXIA5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618",
+    "measured_in": "doi:10.1007/bf02647618"
+   },
+   {
+    "id": "ORC-OY5FET34H3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618",
+    "measured_in": "doi:10.1007/bf02647618"
+   },
+   {
+    "id": "ORC-QZ3RAS2LAJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618",
+    "measured_in": "doi:10.1007/bf02647618"
+   },
+   {
+    "id": "ORC-4JY3RAWIOY",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02647618",
+    "measured_in": "doi:10.1007/bf02647618"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02647618"
+  ],
+  "dois": [
+   "10.1007/bf02647618"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CuZr-94Zen-LB/zpf-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

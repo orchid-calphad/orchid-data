@@ -1,0 +1,199 @@
+{
+ "components": [
+  "AL",
+  "SR"
+ ],
+ "phases": [
+  "AL7SR8"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   7.0,
+   8.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "SR"
+   ],
+   [
+    "AL",
+    "SR"
+   ],
+   [
+    "AL",
+    "SR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -21900.0,
+    -18900.0,
+    -21400.0
+   ]
+  ]
+ ],
+ "reference": "Zhong 2004, doi:10.1016/j.actamat.2004.02.022",
+ "bibtex": "zhong2004_15474a",
+ "weight": [
+  0.073866,
+  0.073866,
+  0.073866
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AlSr-14Lia.tdb (sha256 1fa45401a85a4430ea2eeeea089f261e20f3c655f4f1649d988ed43f81783b9a), phase AL7SR8. Ids, in value order: ORC-N57J72G3CN.e7469b ORC-O2YD2RYYWK.052d79 ORC-QFTGMTKHEN.a1cfbb. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AlSr-14Lia.tdb",
+   "path": "databases/sgte-binary/AlSr-14Lia.tdb",
+   "sha256": "1fa45401a85a4430ea2eeeea089f261e20f3c655f4f1649d988ed43f81783b9a",
+   "phase": "AL7SR8"
+  },
+  "registry_phase": "phase:al-sr:al7sr8",
+  "mapping": [
+   {
+    "id": "ORC-N57J72G3CN.e7469b",
+    "compound": "Al7Sr8",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "system_mismatch"
+    ]
+   },
+   {
+    "id": "ORC-O2YD2RYYWK.052d79",
+    "compound": "Al7Sr8",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "system_mismatch"
+    ]
+   },
+   {
+    "id": "ORC-QFTGMTKHEN.a1cfbb",
+    "compound": "Al7Sr8",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "system_mismatch"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2004.02.022"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2004.02.022"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6769.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-SR",
+     "n": 100,
+     "sigma_robust_kJ": 6.769,
+     "bias_median_kJ_not_applied": 0.577,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.073866,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -21.9,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-N57J72G3CN.e7469b",
+    "compound": "Al7Sr8"
+   },
+   {
+    "sigma": 6769.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-SR",
+     "n": 100,
+     "sigma_robust_kJ": 6.769,
+     "bias_median_kJ_not_applied": 0.577,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.073866,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -18.9,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-O2YD2RYYWK.052d79",
+    "compound": "Al7Sr8"
+   },
+   {
+    "sigma": 6769.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-SR",
+     "n": 100,
+     "sigma_robust_kJ": 6.769,
+     "bias_median_kJ_not_applied": 0.577,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.073866,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -21.4,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-QFTGMTKHEN.a1cfbb",
+    "compound": "Al7Sr8"
+   }
+  ]
+ }
+}

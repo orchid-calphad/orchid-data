@@ -1,0 +1,89 @@
+{
+ "components": [
+  "MN",
+  "O"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_O": [
+   0.571429
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -198364.2857142857
+   ]
+  ]
+ ],
+ "reference": "Grundy 2003, doi:10.1007/s11669-003-0004-6",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "single_reader",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZEYWTZTVRV",
+ "reference_states": {
+  "MN": {
+   "phase": "CBCC_A12",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "O": {
+   "phase": "1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "grundy2003_8bbb0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZEYWTZTVRV",
+    "reader_agreement": "single_reader",
+    "paper": "doi:10.1007/s11669-003-0004-6",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-003-0004-6",
+   "doi:10.1021/ja01245a016"
+  ],
+  "dois": [
+   "10.1007/s11669-003-0004-6",
+   "10.1021/ja01245a016"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MnO-03Gru-LB/hmr-12.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

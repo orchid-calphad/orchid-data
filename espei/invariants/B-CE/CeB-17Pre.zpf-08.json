@@ -1,0 +1,116 @@
+{
+ "components": [
+  "B",
+  "CE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CEB4_D1E",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   999.15,
+   1063.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CEB4_D1E",
+    [
+     "CE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Premović 2017, doi:10.1016/j.tca.2017.10.006",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-S6QFNOKFZZ ORC-7IK2QW7DFN",
+ "bibtex": "premovic2017_a0dda2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-S6QFNOKFZZ",
+    "paper": "doi:10.1016/j.tca.2017.10.006"
+   },
+   {
+    "id": "ORC-7IK2QW7DFN",
+    "paper": "doi:10.1016/j.tca.2017.10.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2017.10.006",
+   "doi:10.1007/bf02647853"
+  ],
+  "dois": [
+   "10.1007/bf02647853",
+   "10.1016/j.tca.2017.10.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeB-17Pre/zpf-08.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

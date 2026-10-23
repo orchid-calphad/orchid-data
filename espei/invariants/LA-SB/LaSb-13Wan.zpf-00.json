@@ -1,0 +1,270 @@
+{
+ "components": [
+  "LA",
+  "SB"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LA2SB",
+  "LA3SB2",
+  "LASB2",
+  "LASB_B1",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1118.0,
+   1733.0,
+   1813.0,
+   1963.0,
+   1383.0,
+   903.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.034
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LA2SB",
+    [
+     "SB"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.324
+    ]
+   ],
+   [
+    "LA3SB2",
+    [
+     "SB"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "LA2SB",
+    [
+     "SB"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.53
+    ]
+   ],
+   [
+    "LA3SB2",
+    [
+     "SB"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "LASB_B1",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "LA3SB2",
+    [
+     "SB"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.745
+    ]
+   ],
+   [
+    "LASB_B1",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LASB2",
+    [
+     "SB"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.995
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LASB2",
+    [
+     "SB"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2013, doi:10.1016/j.tca.2012.10.026",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XZBEWZUYUF ORC-PIUFA5QDAJ ORC-NAGF2ITJGN ORC-VLYT743HNB ORC-A7K7MSHMEV ORC-MAE3FUQEMZ",
+ "bibtex": "wang2013_c2cd2f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XZBEWZUYUF",
+    "paper": "doi:10.1016/j.tca.2012.10.026"
+   },
+   {
+    "id": "ORC-PIUFA5QDAJ",
+    "paper": "doi:10.1016/j.tca.2012.10.026"
+   },
+   {
+    "id": "ORC-NAGF2ITJGN",
+    "paper": "doi:10.1016/j.tca.2012.10.026"
+   },
+   {
+    "id": "ORC-VLYT743HNB",
+    "paper": "doi:10.1016/j.tca.2012.10.026"
+   },
+   {
+    "id": "ORC-A7K7MSHMEV",
+    "paper": "doi:10.1016/j.tca.2012.10.026"
+   },
+   {
+    "id": "ORC-MAE3FUQEMZ",
+    "paper": "doi:10.1016/j.tca.2012.10.026"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2012.10.026"
+  ],
+  "dois": [
+   "10.1016/j.tca.2012.10.026"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LaSb-13Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

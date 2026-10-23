@@ -1,0 +1,414 @@
+{
+ "components": [
+  "CO",
+  "NB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C14_LAVES",
+  "C15_LAVES",
+  "C36_LAVES",
+  "CO7NB2",
+  "FCC_A1",
+  "LIQUID",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1793.15,
+   1693.15,
+   1703.15,
+   1643.15,
+   1643.15,
+   1513.15,
+   1473.15,
+   1483.15,
+   1596.15,
+   1273.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NB"
+    ],
+    [
+     0.333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.47
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.51
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NB"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.47
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NB"
+    ],
+    [
+     0.461538
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.65
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NB"
+    ],
+    [
+     0.461538
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.165
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C36_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "C14_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NB"
+    ],
+    [
+     0.461538
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NB"
+    ],
+    [
+     0.15
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C36_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C36_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO7NB2",
+    [
+     "NB"
+    ],
+    [
+     0.222222
+    ]
+   ]
+  ],
+  [
+   [
+    "C36_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO7NB2",
+    [
+     "NB"
+    ],
+    [
+     0.222222
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "NB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "He 2015, doi:10.1016/j.jallcom.2015.02.182",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-F6LKGT4TNI ORC-UVGGXSD6D2 ORC-X22M5DLGCW ORC-OAMAEMMWJ4 ORC-DG2JHQELKG ORC-LG4BHIEYQI ORC-QRF3LW3UZ3 ORC-P2Y3BCE2EQ ORC-PABTLFMAKH ORC-6UUXQKJGXQ",
+ "bibtex": "he2015_20a606",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-F6LKGT4TNI",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-UVGGXSD6D2",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-X22M5DLGCW",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-OAMAEMMWJ4",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-DG2JHQELKG",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-LG4BHIEYQI",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-QRF3LW3UZ3",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-P2Y3BCE2EQ",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-PABTLFMAKH",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   },
+   {
+    "id": "ORC-6UUXQKJGXQ",
+    "paper": "doi:10.1016/j.jallcom.2015.02.182"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2015.02.182"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2015.02.182"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoNb-15He/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

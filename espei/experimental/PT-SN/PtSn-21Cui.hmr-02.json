@@ -1,0 +1,80 @@
+{
+ "components": [
+  "PT",
+  "SN"
+ ],
+ "phases": [
+  "LIQUID",
+  "PTSN_B81"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1354.15,
+  "X_SN": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -74000.0
+   ]
+  ]
+ ],
+ "reference": "Anres 1998, doi:10.1016/s0925-8388(98)00682-3",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7BLRFYPELH",
+ "reference_states": {
+  "PT": {
+   "phase": "LIQUID"
+  },
+  "SN": {
+   "phase": "LIQUID"
+  }
+ },
+ "bibtex": "anres1998_5c7a0b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7BLRFYPELH",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2020.157064",
+    "measured_in": "doi:10.1016/s0925-8388(98)00682-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0925-8388(98)00682-3",
+   "doi:10.1016/j.jallcom.2020.157064"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2020.157064",
+   "10.1016/s0925-8388(98)00682-3"
+  ],
+  "source_dataset": "db-v2.1/general/espei/PtSn-21Cui/hmr-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

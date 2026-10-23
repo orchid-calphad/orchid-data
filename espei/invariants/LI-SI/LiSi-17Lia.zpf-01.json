@@ -1,0 +1,171 @@
+{
+ "components": [
+  "LI",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LI12SI7",
+  "LI7SI3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1017.0,
+   913.0,
+   860.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "LI7SI3",
+    [
+     "SI"
+    ],
+    [
+     0.3
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LI7SI3",
+    [
+     "SI"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "LI12SI7",
+    [
+     "SI"
+    ],
+    [
+     0.368421
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.33421049999999997
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LI12SI7",
+    [
+     "SI"
+    ],
+    [
+     0.368421
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Braga 2014, doi:10.1016/j.jallcom.2014.06.212",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AZRR5JRCRC ORC-A47PJVQQEM ORC-EQM7QJXKKW",
+ "bibtex": "braga2014_910a02",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AZRR5JRCRC",
+    "paper": "doi:10.1016/j.intermet.2017.02.024",
+    "measured_in": "doi:10.1016/j.jallcom.2014.06.212"
+   },
+   {
+    "id": "ORC-A47PJVQQEM",
+    "paper": "doi:10.1016/j.intermet.2017.02.024",
+    "measured_in": "doi:10.1016/j.jallcom.2014.06.212"
+   },
+   {
+    "id": "ORC-EQM7QJXKKW",
+    "paper": "doi:10.1016/j.intermet.2017.02.024",
+    "measured_in": "doi:10.1016/j.jallcom.2014.06.212"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.06.212",
+   "doi:10.1016/j.intermet.2017.02.024"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2017.02.024",
+   "10.1016/j.jallcom.2014.06.212"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LiSi-17Lia/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

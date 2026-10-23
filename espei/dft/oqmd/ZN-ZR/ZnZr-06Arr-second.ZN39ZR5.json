@@ -1,0 +1,107 @@
+{
+ "components": [
+  "ZN",
+  "ZR"
+ ],
+ "phases": [
+  "ZN39ZR5"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   39.0,
+   5.0
+  ],
+  "sublattice_configurations": [
+   [
+    "ZN",
+    "ZR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -16255.15
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.0455
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB ZnZr-06Arr-second.tdb (sha256 223fd6e8657920e18c35af20dd34e8b400526e59e2759815b2e6f032b10f9891), phase ZN39ZR5. Ids, in value order: oqmd-685473. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "ZnZr-06Arr-second.tdb",
+   "path": "databases/sgte-binary/ZnZr-06Arr-second.tdb",
+   "sha256": "223fd6e8657920e18c35af20dd34e8b400526e59e2759815b2e6f032b10f9891",
+   "phase": "ZN39ZR5"
+  },
+  "registry_phase": "phase:zn-zr:zn39zr5",
+  "mapping": [
+   {
+    "id": "oqmd-685473",
+    "compound": "Zn39 Zr5",
+    "basis": "registry DFT name oqmd:oqmd-685473",
+    "space_group": "C2/m",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10989.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "on_hull_single|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "ZN-ZR",
+     "n": 37,
+     "sigma_robust_kJ": 10.989,
+     "bias_median_kJ_not_applied": 4.962,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.696,
+      12.85
+     ],
+     "n_full_stratum": 37
+    },
+    "weight_used": 0.0455,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.16847272931818225,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-685473",
+    "compound": "Zn39 Zr5"
+   }
+  ]
+ }
+}

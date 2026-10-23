@@ -1,0 +1,144 @@
+{
+ "components": [
+  "MN",
+  "O"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_O": [
+   0.571429,
+   0.6,
+   0.666667
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -197534.2857142857,
+    -192518.0,
+    -173493.33333333334
+   ]
+  ]
+ ],
+ "reference": "Grundy 2003, doi:10.1007/s11669-003-0004-6",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "single_reader_text_layer",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JYMEPN5NSB ORC-DQIKEJQME3 ORC-7XK3NJVYAK",
+ "reference_states": {
+  "MN": {
+   "phase": "CBCC_A12",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "O": {
+   "phase": "1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "MnO-03Gru-LB.tdb",
+   "path": "databases/sgte-binary/MnO-03Gru-LB.tdb",
+   "sha256": "2f59cdf668abb9e9b63c4e51c301e56a79ea939461bfe9b832d2f4fccf8acab9",
+   "catalog_entry": {
+    "name": "MnO-03Gru-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s11669-003-0004-6",
+   "doi": "10.1007/s11669-003-0004-6",
+   "citation": {
+    "authors": "see doi",
+    "title": "A.N. Grundy, B. Hallstedt, L.J. Gauckler, J. Phase Equilib., 24, 21-39(2003).",
+    "year": "2003"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "grundy2003_8bbb0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-JYMEPN5NSB",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1007/s11669-003-0004-6",
+    "measured_in": "doi:10.1007/s11669-003-0004-6",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-DQIKEJQME3",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1007/s11669-003-0004-6",
+    "measured_in": "doi:10.1007/s11669-003-0004-6",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-7XK3NJVYAK",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1007/s11669-003-0004-6",
+    "measured_in": "doi:10.1007/s11669-003-0004-6",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-003-0004-6"
+  ],
+  "dois": [
+   "10.1007/s11669-003-0004-6"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/MnO-03Gru-LB/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

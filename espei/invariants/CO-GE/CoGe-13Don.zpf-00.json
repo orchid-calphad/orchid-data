@@ -1,0 +1,178 @@
+{
+ "components": [
+  "CO",
+  "GE"
+ ],
+ "phases": [
+  "CO5GE3_B82",
+  "COGE",
+  "COGE2",
+  "DIAMOND_A4",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1383,
+   1255,
+   1083
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO5GE3_B82",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO5GE3_B82",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "COGE",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.4375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COGE2",
+    [
+     "GE"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "doi:10.1515/ijmr-1949-401006",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q7YYXH2UNB ORC-LKAQYZ46GS ORC-CPN3DE7NDN",
+ "bibtex": "sterernd_2fefa3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Q7YYXH2UNB",
+    "paper": "doi:10.1016/j.tca.2013.08.026",
+    "measured_in": "doi:10.1515/ijmr-1949-401006"
+   },
+   {
+    "id": "ORC-LKAQYZ46GS",
+    "paper": "doi:10.1016/j.tca.2013.08.026",
+    "measured_in": "doi:10.1515/ijmr-1949-401006"
+   },
+   {
+    "id": "ORC-CPN3DE7NDN",
+    "paper": "doi:10.1016/j.tca.2013.08.026",
+    "measured_in": "doi:10.1515/ijmr-1949-401006"
+   }
+  ],
+  "papers": [
+   "doi:10.1515/ijmr-1949-401006",
+   "doi:10.1016/j.tca.2013.08.026"
+  ],
+  "dois": [
+   "10.1016/j.tca.2013.08.026",
+   "10.1515/ijmr-1949-401006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoGe-13Don/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

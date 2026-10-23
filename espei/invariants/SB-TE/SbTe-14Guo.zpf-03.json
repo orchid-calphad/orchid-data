@@ -1,0 +1,161 @@
+{
+ "components": [
+  "SB",
+  "TE"
+ ],
+ "phases": [
+  "LIQUID",
+  "RHOMBOHEDRAL_A7",
+  "SB2TE_DELTA",
+  "SBTE_GAMMA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   823,
+   811,
+   821
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "TE"
+    ],
+    [
+     0.99
+    ]
+   ],
+   [
+    "SB2TE_DELTA",
+    [
+     "TE"
+    ],
+    [
+     0.8200000000000001
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.6799999999999999
+    ]
+   ],
+   [
+    "SB2TE_DELTA",
+    [
+     "TE"
+    ],
+    [
+     0.6799999999999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.63
+    ]
+   ],
+   [
+    "SBTE_GAMMA",
+    [
+     "TE"
+    ],
+    [
+     0.5800000000000001
+    ]
+   ],
+   [
+    "SB2TE_DELTA",
+    [
+     "TE"
+    ],
+    [
+     0.61
+    ]
+   ]
+  ]
+ ],
+ "reference": "1959, NKh Abrikosov, L.V. Poretskaya, and I.E. Ivanova, Zh. Neorg. Khim. 4, 2525 (1959).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RCSBJPEEQK ORC-C4VSNWYZKH ORC-ZSTO3IRCT3",
+ "bibtex": "nkh1959_67f0a2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RCSBJPEEQK",
+    "paper": "doi:10.1007/s11664-014-3299-7",
+    "measured_in": "ref:d8fc92a44f34bffe",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-C4VSNWYZKH",
+    "paper": "doi:10.1007/s11664-014-3299-7",
+    "measured_in": "ref:d8fc92a44f34bffe"
+   },
+   {
+    "id": "ORC-ZSTO3IRCT3",
+    "paper": "doi:10.1007/s11664-014-3299-7",
+    "measured_in": "ref:d8fc92a44f34bffe"
+   }
+  ],
+  "papers": [
+   "ref:d8fc92a44f34bffe",
+   "doi:10.1007/s11664-014-3299-7"
+  ],
+  "dois": [
+   "10.1007/s11664-014-3299-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SbTe-14Guo/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

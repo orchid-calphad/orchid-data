@@ -1,0 +1,87 @@
+{
+ "components": [
+  "CE",
+  "NI"
+ ],
+ "phases": [
+  "CENI5_D2D",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1477.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.9109999999999999
+    ]
+   ],
+   [
+    "CENI5_D2D",
+    [
+     "NI"
+    ],
+    [
+     0.8333333333333334
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "2006, Pisch A, Wang J, Jorda JL. Int J Mater Res 2006;97:737e43.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4TJW7HQTGA",
+ "bibtex": "pisch2006_f24752",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4TJW7HQTGA",
+    "paper": "doi:10.1016/j.intermet.2007.04.004",
+    "measured_in": "ref:f5af223315c00a44"
+   }
+  ],
+  "papers": [
+   "ref:f5af223315c00a44",
+   "doi:10.1016/j.intermet.2007.04.004"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2007.04.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeNi-07Xio/zpf-08.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

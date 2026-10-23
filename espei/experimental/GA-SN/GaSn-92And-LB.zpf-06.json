@@ -1,0 +1,243 @@
+{
+ "components": [
+  "GA",
+  "SN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   483.25,
+   459.25,
+   441.25,
+   421.25,
+   403.25,
+   386.25,
+   366.25,
+   338.25,
+   300.75
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.005
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.002
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "1985, A.A. Trebukhov, R.G. Sarmurzina, and D.V. Sokol'skii, \"Study of the Physico-Chemical Properties of the Ga-Sn System,\" Zh. Fiz. Khim., 59(8), 2065-2067 (1985) in Russian. (Equi Diagram, Thermo; Experimental)",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2TLM7VXWIZ ORC-4XNDYINBXE ORC-K46IZWJGV3 ORC-UKJTJBUYSU ORC-H7O7LU2SSN ORC-UN77ERUO3L ORC-6UHGMBURXU ORC-MYGGF2TXJS ORC-DITQPASBTD",
+ "bibtex": "trebukhov1985_26da26",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2TLM7VXWIZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   },
+   {
+    "id": "ORC-4XNDYINBXE",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   },
+   {
+    "id": "ORC-K46IZWJGV3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   },
+   {
+    "id": "ORC-UKJTJBUYSU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   },
+   {
+    "id": "ORC-H7O7LU2SSN",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   },
+   {
+    "id": "ORC-UN77ERUO3L",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   },
+   {
+    "id": "ORC-6UHGMBURXU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   },
+   {
+    "id": "ORC-MYGGF2TXJS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   },
+   {
+    "id": "ORC-DITQPASBTD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667485",
+    "measured_in": "ref:3b0c53fe36f5373c"
+   }
+  ],
+  "papers": [
+   "ref:3b0c53fe36f5373c",
+   "doi:10.1007/bf02667485"
+  ],
+  "dois": [
+   "10.1007/bf02667485"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GaSn-92And-LB/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

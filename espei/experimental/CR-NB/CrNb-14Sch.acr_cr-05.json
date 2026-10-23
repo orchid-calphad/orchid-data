@@ -1,0 +1,123 @@
+{
+ "components": [
+  "CR",
+  "NB"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1472.0,
+  "X_NB": [
+   0.7,
+   0.7,
+   0.53,
+   0.53
+  ]
+ },
+ "output": "ACR_CR",
+ "values": [
+  [
+   [
+    0.41,
+    0.41,
+    0.42,
+    0.42
+   ]
+  ]
+ ],
+ "reference": "Schmetterer 2014, doi:10.1007/s11669-014-0313-y",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZKE56KTRWC.f9b1d8 ORC-ZKE56KTRWC.a2311b ORC-GQNFWJEWL3.30af1a ORC-GQNFWJEWL3.467cc7",
+ "reference_state": {
+  "phases": [
+   "BCC_A2"
+  ],
+  "conditions": {
+   "P": 101325,
+   "T": 1472.0,
+   "X_CR": 1.0
+  }
+ },
+ "bibtex": "schmetterer2014_b4a790",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZKE56KTRWC.f9b1d8",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y"
+   },
+   {
+    "id": "ORC-ZKE56KTRWC.a2311b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y"
+   },
+   {
+    "id": "ORC-GQNFWJEWL3.30af1a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y"
+   },
+   {
+    "id": "ORC-GQNFWJEWL3.467cc7",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-014-0313-y"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-014-0313-y",
+   "doi:10.1039/tf9706601065"
+  ],
+  "dois": [
+   "10.1007/s11669-014-0313-y",
+   "10.1039/tf9706601065"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CrNb-14Sch/acr_cr-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "1 (activity)",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_ACR = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

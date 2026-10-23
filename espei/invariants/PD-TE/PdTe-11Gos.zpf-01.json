@@ -1,0 +1,146 @@
+{
+ "components": [
+  "PD",
+  "TE"
+ ],
+ "phases": [
+  "PD20TE7",
+  "PD7TE3",
+  "PD8TE3",
+  "PD9TE4"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   836,
+   768
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "PD8TE3",
+    [
+     "TE"
+    ],
+    [
+     0.2727272727272727
+    ]
+   ],
+   [
+    "PD20TE7",
+    [
+     "TE"
+    ],
+    [
+     0.25925925925925924
+    ]
+   ],
+   [
+    "PD9TE4",
+    [
+     "TE"
+    ],
+    [
+     0.3076923076923077
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.2798929466666667
+    ]
+   ]
+  ],
+  [
+   [
+    "PD20TE7",
+    [
+     "TE"
+    ],
+    [
+     0.25925925925925924
+    ]
+   ],
+   [
+    "PD9TE4",
+    [
+     "TE"
+    ],
+    [
+     0.3076923076923077
+    ]
+   ],
+   [
+    "PD7TE3",
+    [
+     "TE"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.2889838556666667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chattopadhyay 1986, doi:10.1016/0022-5088(86)90134-7",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-L66SXX7VAW ORC-Y2AC5FSJL3",
+ "bibtex": "chattopadhyay1986_e6ec0c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-L66SXX7VAW",
+    "paper": "doi:10.1016/j.intermet.2010.12.014",
+    "measured_in": "doi:10.1016/0022-5088(86)90134-7"
+   },
+   {
+    "id": "ORC-Y2AC5FSJL3",
+    "paper": "doi:10.1016/j.intermet.2010.12.014",
+    "measured_in": "doi:10.1016/0022-5088(86)90134-7"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(86)90134-7",
+   "doi:10.1016/j.intermet.2010.12.014"
+  ],
+  "dois": [
+   "10.1016/0022-5088(86)90134-7",
+   "10.1016/j.intermet.2010.12.014"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PdTe-11Gos/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

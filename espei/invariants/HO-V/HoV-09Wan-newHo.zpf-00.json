@@ -1,0 +1,130 @@
+{
+ "components": [
+  "HO",
+  "V"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2150.15,
+   1703.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.9790000000000001
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.106
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.035
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "V"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "V"
+    ],
+    [
+     0.004
+    ]
+   ]
+  ]
+ ],
+ "reference": "1989, J.F. Smith, K.J. Lee, Phase Diagrams of Binary Vanadium Alloys, ASM International, 1989, pp. 118–119.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ND2N2WXNMN ORC-R4YUYNU6LD",
+ "bibtex": "smith1989_231169",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ND2N2WXNMN",
+    "paper": "doi:10.1016/j.jallcom.2009.08.042",
+    "measured_in": "ref:91bde5923eb602d8",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-R4YUYNU6LD",
+    "paper": "doi:10.1016/j.jallcom.2009.08.042",
+    "measured_in": "ref:91bde5923eb602d8"
+   }
+  ],
+  "papers": [
+   "ref:91bde5923eb602d8",
+   "doi:10.1016/j.jallcom.2009.08.042"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.08.042"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HoV-09Wan-newHo/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

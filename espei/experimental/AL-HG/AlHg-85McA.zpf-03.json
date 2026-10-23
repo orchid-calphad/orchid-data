@@ -1,0 +1,214 @@
+{
+ "components": [
+  "AL",
+  "HG"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   868.15,
+   854.15,
+   833.15,
+   810.15,
+   775.15,
+   743.15,
+   705.15,
+   695.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.173
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.346
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.564
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.678
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.835
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.878
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.911
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "HG"
+    ],
+    [
+     0.925
+    ]
+   ]
+  ]
+ ],
+ "reference": "McAllster 1985, doi:10.1007/bf02880401",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-H4XRDWNQRO ORC-4ZFWAKL2WK ORC-24GU3366C3 ORC-FYDCRY3HFY ORC-3YS762D7ZO ORC-PN44VOJKKL ORC-X47JQBRVUD ORC-VBZJXAIXCD",
+ "bibtex": "mcallster1985_60dda0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-H4XRDWNQRO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   },
+   {
+    "id": "ORC-4ZFWAKL2WK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   },
+   {
+    "id": "ORC-24GU3366C3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   },
+   {
+    "id": "ORC-FYDCRY3HFY",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   },
+   {
+    "id": "ORC-3YS762D7ZO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   },
+   {
+    "id": "ORC-PN44VOJKKL",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   },
+   {
+    "id": "ORC-X47JQBRVUD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   },
+   {
+    "id": "ORC-VBZJXAIXCD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02880401"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02880401",
+   "doi:10.1002/zaac.19402450307"
+  ],
+  "dois": [
+   "10.1002/zaac.19402450307",
+   "10.1007/bf02880401"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlHg-85McA/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

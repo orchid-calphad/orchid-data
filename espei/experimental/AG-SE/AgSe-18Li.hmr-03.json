@@ -1,0 +1,143 @@
+{
+ "components": [
+  "AG",
+  "SE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SE": [
+   0.333333,
+   0.333333,
+   0.333333,
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -14233.333333333334,
+    -14233.333333333334,
+    -14233.333333333334,
+    -14233.333333333334
+   ]
+  ]
+ ],
+ "reference": "Nasar 1997, doi:10.1007/s11663-997-0120-5",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FORFJG353E.18dd13 ORC-NOQDCUENTV.b287ad ORC-FORFJG353E.18dd13 ORC-FORFJG353E.50f713",
+ "reference_states": {
+  "AG": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SE": {
+   "phase": "HEXAGONAL_A8",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "nasar1997_3eed7e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FORFJG353E.18dd13",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "doi:10.1007/s11663-997-0120-5",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-NOQDCUENTV.b287ad",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "doi:10.1007/s11663-997-0120-5",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-FORFJG353E.18dd13",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "doi:10.1007/s11663-997-0120-5",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-FORFJG353E.50f713",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "doi:10.1007/s11663-997-0120-5",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11663-997-0120-5",
+   "doi:10.1007/s11669-018-0683-7"
+  ],
+  "dois": [
+   "10.1007/s11663-997-0120-5",
+   "10.1007/s11669-018-0683-7"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AgSe-18Li/hmr-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

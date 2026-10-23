@@ -1,0 +1,93 @@
+{
+ "components": [
+  "B",
+  "SC"
+ ],
+ "phases": [
+  "LIQUID",
+  "SCB12_D2F"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2313.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.923
+    ]
+   ],
+   [
+    "SCB12_D2F",
+    [
+     "B"
+    ],
+    [
+     0.9230769230769231
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.9230384615
+    ]
+   ]
+  ]
+ ],
+ "reference": "Peshev 1970, doi:10.1016/0025-5408(70)90017-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YUHBKKFWDB",
+ "bibtex": "peshev1970_51fd53",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YUHBKKFWDB",
+    "paper": "doi:10.1016/j.jallcom.2008.02.018",
+    "measured_in": "doi:10.1016/0025-5408(70)90017-6",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0025-5408(70)90017-6",
+   "doi:10.1016/j.jallcom.2008.02.018"
+  ],
+  "dois": [
+   "10.1016/0025-5408(70)90017-6",
+   "10.1016/j.jallcom.2008.02.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ScB-09Liu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 50.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

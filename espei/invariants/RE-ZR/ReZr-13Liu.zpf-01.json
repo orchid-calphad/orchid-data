@@ -1,0 +1,89 @@
+{
+ "components": [
+  "RE",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID",
+  "REZR2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1873
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.86
+    ]
+   ],
+   [
+    "REZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1965, Elliot RP (1965) Constitution of binary alloys, 1st supplement. McGraw-Hill, New York",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QDM7KGLNHD",
+ "bibtex": "elliot1965_a59e52",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QDM7KGLNHD",
+    "paper": "doi:10.1007/s00706-013-1040-5",
+    "measured_in": "ref:61c8a502fb7b3f2a"
+   }
+  ],
+  "papers": [
+   "ref:61c8a502fb7b3f2a",
+   "doi:10.1007/s00706-013-1040-5",
+   "doi:10.1007/bf01479962"
+  ],
+  "dois": [
+   "10.1007/bf01479962",
+   "10.1007/s00706-013-1040-5"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ReZr-13Liu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

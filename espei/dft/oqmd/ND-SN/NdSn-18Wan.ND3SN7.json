@@ -1,0 +1,107 @@
+{
+ "components": [
+  "ND",
+  "SN"
+ ],
+ "phases": [
+  "ND3SN7"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   7.0
+  ],
+  "sublattice_configurations": [
+   [
+    "ND",
+    "SN"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -63527.59
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.0455
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB NdSn-18Wan.tdb (sha256 4721c8d300ba1e9b8b4ac3962e1a26539d9a16da91fa0ccfa69a215498c79e91), phase ND3SN7. Ids, in value order: oqmd-1453997. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "NdSn-18Wan.tdb",
+   "path": "databases/sgte-binary/NdSn-18Wan.tdb",
+   "sha256": "4721c8d300ba1e9b8b4ac3962e1a26539d9a16da91fa0ccfa69a215498c79e91",
+   "phase": "ND3SN7"
+  },
+  "registry_phase": "phase:nd-sn:nd3sn7",
+  "mapping": [
+   {
+    "id": "oqmd-1453997",
+    "compound": "Nd3 Sn7",
+    "basis": "registry DFT name oqmd:oqmd-1453997",
+    "space_group": "Cmmm",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10989.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "on_hull_single|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "ND-SN",
+     "n": 37,
+     "sigma_robust_kJ": 10.989,
+     "bias_median_kJ_not_applied": 4.962,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.696,
+      12.85
+     ],
+     "n_full_stratum": 37
+    },
+    "weight_used": 0.0455,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.6584170922958414,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-1453997",
+    "compound": "Nd3 Sn7"
+   }
+  ]
+ }
+}

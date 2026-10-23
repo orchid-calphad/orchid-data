@@ -1,0 +1,237 @@
+{
+ "components": [
+  "AL",
+  "TI"
+ ],
+ "phases": [
+  "AL2TI",
+  "AL3TI_D022",
+  "AL5TI2",
+  "ALTI_L10",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1688.15,
+   1668.15,
+   1448.15,
+   1263.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALTI_L10",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AL5TI2",
+    [
+     "TI"
+    ],
+    [
+     0.285714
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.392857
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5TI2",
+    [
+     "TI"
+    ],
+    [
+     0.285714
+    ]
+   ],
+   [
+    "AL3TI_D022",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.267857
+    ]
+   ]
+  ],
+  [
+   [
+    "ALTI_L10",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AL5TI2",
+    [
+     "TI"
+    ],
+    [
+     0.285714
+    ]
+   ],
+   [
+    "AL2TI",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.3730156666666667
+    ]
+   ]
+  ],
+  [
+   [
+    "AL5TI2",
+    [
+     "TI"
+    ],
+    [
+     0.285714
+    ]
+   ],
+   [
+    "AL2TI",
+    [
+     "TI"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "AL3TI_D022",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.2896823333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Kattner 1992, doi:10.1007/bf02646001",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6VUMM3W54E ORC-7QFQQWJJJW ORC-QZIZ4MMMFC ORC-QWRUJJK4TT",
+ "bibtex": "kattner1992_8415be",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6VUMM3W54E",
+    "paper": "doi:10.1007/bf02646001"
+   },
+   {
+    "id": "ORC-7QFQQWJJJW",
+    "paper": "doi:10.1007/bf02646001"
+   },
+   {
+    "id": "ORC-QZIZ4MMMFC",
+    "paper": "doi:10.1007/bf02646001"
+   },
+   {
+    "id": "ORC-QWRUJJK4TT",
+    "paper": "doi:10.1007/bf02646001"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02646001"
+  ],
+  "dois": [
+   "10.1007/bf02646001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlTi-92Kat/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AL",
+  "NI"
+ ],
+ "phases": [
+  "AL3NI_D011",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   913
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.027000000000000003
+    ]
+   ],
+   [
+    "AL3NI_D011",
+    [
+     "NI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1934, W.L. Fink, H. Freche, Correlation of equilibrium relations in binary aluminum alloys of high purity, Am. Inst. Min. Metall. Eng. Inst. Met. Div. Tech. Publ. 99 (1934) 141–148.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KX5CYW4KQA",
+ "bibtex": "fink1934_9804fc",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-KX5CYW4KQA",
+    "paper": "doi:10.1016/j.intermet.2022.107647",
+    "measured_in": "ref:e0dde90218136cd5"
+   }
+  ],
+  "papers": [
+   "ref:e0dde90218136cd5",
+   "doi:10.1016/j.intermet.2022.107647"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2022.107647"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlNi-22Yan/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

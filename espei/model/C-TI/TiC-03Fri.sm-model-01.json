@@ -1,0 +1,94 @@
+{
+ "components": [
+  "C",
+  "TI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_TI": [
+   0.5
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    12.0
+   ]
+  ]
+ ],
+ "reference": "Frisk 2003, doi:10.1016/j.calphad.2004.01.004",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-M3ZR2NE26Z.0a9e87",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "TiC-03Fri.tdb",
+   "path": "databases/sgte-binary/TiC-03Fri.tdb",
+   "sha256": "9f4e6802632c842e13cd4b81a9fbae51a3f4e0d34475bcfab24858cd331d065b",
+   "catalog_entry": {
+    "name": "TiC-03Fri.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2004-01-004",
+   "doi": "10.1016/j.calphad.2004.01.004",
+   "citation": {
+    "authors": "see doi",
+    "title": "K. Frisk, Calphad, 27, 367-73(2003).",
+    "year": "2003"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "frisk2003_9a8ff0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-M3ZR2NE26Z.0a9e87",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2004.01.004",
+    "measured_in": "doi:10.1016/j.calphad.2004.01.004"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2004.01.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2004.01.004"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/TiC-03Fri/sm-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

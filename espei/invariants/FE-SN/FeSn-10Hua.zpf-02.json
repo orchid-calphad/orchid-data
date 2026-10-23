@@ -1,0 +1,96 @@
+{
+ "components": [
+  "FE",
+  "SN"
+ ],
+ "phases": [
+  "FESN2_C16",
+  "FESN_B35",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   769.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FESN_B35",
+    [
+     "SN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FESN2_C16",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.5833333334999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "1931, Edwards CA, Preese A. Constitution of the iron–tin alloy. J Iron Steel Inst London 1931;124:41.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GPG7MSSQW5",
+ "bibtex": "edwards1931_5b1672",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GPG7MSSQW5",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "ref:62a902674359101f"
+   }
+  ],
+  "papers": [
+   "ref:62a902674359101f",
+   "doi:10.1016/j.intermet.2010.01.026"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2010.01.026"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeSn-10Hua/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

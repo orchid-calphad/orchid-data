@@ -1,0 +1,116 @@
+{
+ "components": [
+  "MN",
+  "O"
+ ],
+ "phases": [
+  "B1_OXIDE",
+  "LIQUID",
+  "MN3O4_H11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1828.0,
+   2033.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN3O4_H11",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B1_OXIDE",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "B1_OXIDE",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Grundy 2003, doi:10.1007/s11669-003-0004-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-B3HKXHSTP7 ORC-6PDLODDU2L",
+ "bibtex": "grundy2003_8bbb0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-B3HKXHSTP7",
+    "paper": "doi:10.1007/s11669-003-0004-6"
+   },
+   {
+    "id": "ORC-6PDLODDU2L",
+    "paper": "doi:10.1007/s11669-003-0004-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-003-0004-6",
+   "doi:10.1149/1.2426584"
+  ],
+  "dois": [
+   "10.1007/s11669-003-0004-6",
+   "10.1149/1.2426584"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnO-03Gru-LB/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

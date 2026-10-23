@@ -1,0 +1,87 @@
+{
+ "components": [
+  "NI",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID",
+  "NI2SI_C37",
+  "NI2SI_THETA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1528.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.308
+    ]
+   ],
+   [
+    "NI2SI_THETA",
+    [
+     "SI"
+    ],
+    [
+     0.334
+    ]
+   ],
+   [
+    "NI2SI_C37",
+    [
+     "SI"
+    ],
+    [
+     0.333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Tokunaga 2003, doi:10.1016/s0364-5916(03)00049-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ILSFIQJ6YH",
+ "bibtex": "tokunaga2003_832b45",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ILSFIQJ6YH",
+    "paper": "doi:10.1016/s0364-5916(03)00049-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0364-5916(03)00049-x",
+   "doi:10.1007/bf02868885"
+  ],
+  "dois": [
+   "10.1007/bf02868885",
+   "10.1016/s0364-5916(03)00049-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiSi-03Tok/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

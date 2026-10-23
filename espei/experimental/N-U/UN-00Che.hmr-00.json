@@ -1,0 +1,84 @@
+{
+ "components": [
+  "N",
+  "U"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_U": [
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -143302.0
+   ]
+  ]
+ ],
+ "reference": "Chevalier 2000, doi:10.1016/s0022-3115(00)00043-x",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LMA2OLIQAJ",
+ "reference_states": {
+  "N": {
+   "phase": "1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "U": {
+   "phase": "ORTHORHOMBIC_A20",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "chevalier2000_caa411",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LMA2OLIQAJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0022-3115(00)00043-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0022-3115(00)00043-x",
+   "doi:10.1002/zaac.19322070204"
+  ],
+  "dois": [
+   "10.1002/zaac.19322070204",
+   "10.1016/s0022-3115(00)00043-x"
+  ],
+  "source_dataset": "db-v2.1/general/espei/UN-00Che/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

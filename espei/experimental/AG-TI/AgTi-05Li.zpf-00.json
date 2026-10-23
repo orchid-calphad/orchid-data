@@ -1,0 +1,107 @@
+{
+ "components": [
+  "AG",
+  "TI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1373.0,
+   1473.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.063
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.8335
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.125
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.8077
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2005, doi:10.1016/j.calphad.2005.09.002",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6JBG2DNRCG ORC-A5OWE3D36K",
+ "bibtex": "li2005_32ecec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-6JBG2DNRCG",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.09.002",
+    "measured_in": "doi:10.1016/j.calphad.2005.09.002"
+   },
+   {
+    "id": "ORC-A5OWE3D36K",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.09.002",
+    "measured_in": "doi:10.1016/j.calphad.2005.09.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.09.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.09.002"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AgTi-05Li/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "components": [
+  "P",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID",
+  "SIP"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SI": [
+   0.5
+  ]
+ },
+ "output": "SM",
+ "values": [
+  [
+   [
+    17.37
+   ]
+  ]
+ ],
+ "reference": "Liang 2014, doi:10.1007/s11669-013-0269-3",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WR54NXQDJY",
+ "bibtex": "liang2014_4fd9ee",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WR54NXQDJY",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-013-0269-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-013-0269-3"
+  ],
+  "dois": [
+   "10.1007/s11669-013-0269-3"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SiP-14Lia/sm-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

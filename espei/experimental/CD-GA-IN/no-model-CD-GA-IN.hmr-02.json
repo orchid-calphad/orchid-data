@@ -1,0 +1,89 @@
+{
+ "components": [
+  "CD",
+  "GA",
+  "IN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 662.0,
+  "X_GA": [
+   0.66727
+  ],
+  "X_IN": [
+   0.0
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    2644.0
+   ]
+  ]
+ ],
+ "reference": "Zakulski 1993, doi:10.1007/bf02667807",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YGQ4QWSD6D",
+ "reference_states": {
+  "CD": {
+   "phase": "LIQUID"
+  },
+  "GA": {
+   "phase": "LIQUID"
+  },
+  "IN": {
+   "phase": "LIQUID"
+  }
+ },
+ "bibtex": "zakulski1993_7e3321",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YGQ4QWSD6D",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667807",
+    "measured_in": "doi:10.1007/bf02667807",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02667807"
+  ],
+  "dois": [
+   "10.1007/bf02667807"
+  ],
+  "source_dataset": "db-v2.1/general/espei/no-model-CD-GA-IN/hmr-02.json",
+  "values_dropped": 9
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

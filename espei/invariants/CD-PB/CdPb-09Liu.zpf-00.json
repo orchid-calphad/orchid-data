@@ -1,0 +1,88 @@
+{
+ "components": [
+  "CD",
+  "PB"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   520.9
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     0.945
+    ]
+   ]
+  ]
+ ],
+ "reference": "Schuffenecker 1980, doi:10.1016/0040-6031(80)87151-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TZPNS7NSAP",
+ "bibtex": "schuffenecker1980_4348d4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-TZPNS7NSAP",
+    "paper": "doi:10.1007/s11664-009-0875-3",
+    "measured_in": "doi:10.1016/0040-6031(80)87151-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0040-6031(80)87151-6",
+   "doi:10.1007/s11664-009-0875-3"
+  ],
+  "dois": [
+   "10.1007/s11664-009-0875-3",
+   "10.1016/0040-6031(80)87151-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CdPb-09Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

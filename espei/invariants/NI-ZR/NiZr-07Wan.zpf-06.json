@@ -1,0 +1,262 @@
+{
+ "components": [
+  "NI",
+  "ZR"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "NI10ZR7",
+  "NI21ZR8",
+  "NI5ZR_C15B",
+  "NI7ZR2",
+  "NIZR2_C16",
+  "NIZR_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1693.0,
+   1573.0,
+   1448.0,
+   1483.0,
+   1343.0,
+   1438.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.0022
+    ]
+   ],
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.0022
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     0.0022
+    ]
+   ],
+   [
+    "NI5ZR_C15B",
+    [
+     "ZR"
+    ],
+    [
+     0.166667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.00098
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     6e-05
+    ]
+   ],
+   [
+    "NI5ZR_C15B",
+    [
+     "ZR"
+    ],
+    [
+     0.166667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.005
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.005
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.00375
+    ]
+   ],
+   [
+    "NI21ZR8",
+    [
+     "ZR"
+    ],
+    [
+     0.00286
+    ]
+   ],
+   [
+    "NI10ZR7",
+    [
+     "ZR"
+    ],
+    [
+     0.0041
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.00523
+    ]
+   ],
+   [
+    "NIZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.005
+    ]
+   ],
+   [
+    "NIZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.00667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2007, doi:10.1016/j.calphad.2007.07.001",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UW4T27M4RI ORC-HQ3UARSZNP ORC-RAARFD6GDJ ORC-6R7NLJQGKF ORC-YFH4R5KW47 ORC-5J2NRGVXEQ",
+ "bibtex": "wang2007_6ead73",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UW4T27M4RI",
+    "paper": "doi:10.1016/j.calphad.2007.07.001"
+   },
+   {
+    "id": "ORC-HQ3UARSZNP",
+    "paper": "doi:10.1016/j.calphad.2007.07.001"
+   },
+   {
+    "id": "ORC-RAARFD6GDJ",
+    "paper": "doi:10.1016/j.calphad.2007.07.001"
+   },
+   {
+    "id": "ORC-6R7NLJQGKF",
+    "paper": "doi:10.1016/j.calphad.2007.07.001"
+   },
+   {
+    "id": "ORC-YFH4R5KW47",
+    "paper": "doi:10.1016/j.calphad.2007.07.001"
+   },
+   {
+    "id": "ORC-5J2NRGVXEQ",
+    "paper": "doi:10.1016/j.calphad.2007.07.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2007.07.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2007.07.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZr-07Wan/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

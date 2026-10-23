@@ -1,0 +1,87 @@
+{
+ "components": [
+  "GA",
+  "ZR"
+ ],
+ "phases": [
+  "BCC_A2",
+  "GAZR2_C16",
+  "GAZR_BG"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1133.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     0.982
+    ]
+   ],
+   [
+    "GAZR_BG",
+    [
+     "ZR"
+    ],
+    [
+     0.992
+    ]
+   ],
+   [
+    "GAZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Luo 2014, doi:10.1016/j.jallcom.2013.10.199",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SSKUBGLCHX",
+ "bibtex": "luo2014_5d6ee5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SSKUBGLCHX",
+    "paper": "doi:10.1016/j.jallcom.2013.10.199"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2013.10.199",
+   "doi:10.1007/bf03037856"
+  ],
+  "dois": [
+   "10.1007/bf03037856",
+   "10.1016/j.jallcom.2013.10.199"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaZr-14Luo/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

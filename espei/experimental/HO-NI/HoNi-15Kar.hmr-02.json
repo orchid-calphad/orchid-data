@@ -1,0 +1,114 @@
+{
+ "components": [
+  "HO",
+  "NI"
+ ],
+ "phases": [
+  "HONI5_D2D",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1474.0,
+  "X_NI": [
+   0.833333,
+   0.833333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -29900.0,
+    -29900.0
+   ]
+  ]
+ ],
+ "reference": "Kardellass 2015, doi:10.1007/s10973-014-4189-1",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UTYLURSU47.0df886 ORC-UTYLURSU47.0df886",
+ "reference_states": {
+  "HO": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "NI": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.625,
+ "bibtex": "kardellass2015_811e4f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UTYLURSU47.0df886",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-014-4189-1",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-UTYLURSU47.0df886",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-014-4189-1",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-014-4189-1"
+  ],
+  "dois": [
+   "10.1007/s10973-014-4189-1"
+  ],
+  "source_dataset": "db-v2.1/general/espei/HoNi-15Kar/hmr-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 800.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.8,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.625,
+    "weight_used": 0.625
+   },
+   {
+    "sigma": 800.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.8,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.625,
+    "weight_used": 0.625
+   }
+  ]
+ }
+}

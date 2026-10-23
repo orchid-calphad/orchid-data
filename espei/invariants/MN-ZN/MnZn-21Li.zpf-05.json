@@ -1,0 +1,130 @@
+{
+ "components": [
+  "MN",
+  "ZN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CUB_A13",
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   923.15,
+   827.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZN"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZN"
+    ],
+    [
+     0.35
+    ]
+   ],
+   [
+    "CUB_A13",
+    [
+     "ZN"
+    ],
+    [
+     0.17999999999999994
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1949, E.V. Potter, R.W. Huber, Manganese-zinc phase diagram from 0 to 50% Zinc, Trans. ASM 41 (1949) 1001–1022.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-N5E4FFRJ4R ORC-ZKEKX2J72T",
+ "bibtex": "potter1949_5cb13c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-N5E4FFRJ4R",
+    "paper": "doi:10.1016/j.jallcom.2020.158484",
+    "measured_in": "ref:7003ecd22975e215",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-ZKEKX2J72T",
+    "paper": "doi:10.1016/j.jallcom.2020.158484",
+    "measured_in": "ref:7003ecd22975e215"
+   }
+  ],
+  "papers": [
+   "ref:7003ecd22975e215",
+   "doi:10.1016/j.jallcom.2020.158484"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2020.158484"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnZn-21Li/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

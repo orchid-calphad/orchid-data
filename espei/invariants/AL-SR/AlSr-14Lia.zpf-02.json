@@ -1,0 +1,210 @@
+{
+ "components": [
+  "AL",
+  "SR"
+ ],
+ "phases": [
+  "AL2SR",
+  "AL4SR_D13",
+  "AL7SR8",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   908.15,
+   1313.15,
+   1213.15,
+   951.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4SR_D13",
+    [
+     "SR"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "AL4SR_D13",
+    [
+     "SR"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4SR_D13",
+    [
+     "SR"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "AL2SR",
+    [
+     "SR"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.26666650000000003
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL2SR",
+    [
+     "SR"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "AL7SR8",
+    [
+     "SR"
+    ],
+    [
+     0.533333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SR"
+    ],
+    [
+     0.43333299999999997
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liang 2014, doi:10.1016/j.jallcom.2014.05.018",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YFSGXUBETT ORC-FOBESNRPFN ORC-4NCKGOZC4Z ORC-YH7FRULAZR",
+ "bibtex": "liang2014_2dc5eb",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YFSGXUBETT",
+    "paper": "doi:10.1016/j.jallcom.2014.05.018"
+   },
+   {
+    "id": "ORC-FOBESNRPFN",
+    "paper": "doi:10.1016/j.jallcom.2014.05.018"
+   },
+   {
+    "id": "ORC-4NCKGOZC4Z",
+    "paper": "doi:10.1016/j.jallcom.2014.05.018"
+   },
+   {
+    "id": "ORC-YH7FRULAZR",
+    "paper": "doi:10.1016/j.jallcom.2014.05.018"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2014.05.018"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2014.05.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlSr-14Lia/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

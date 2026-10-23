@@ -1,0 +1,78 @@
+{
+ "components": [
+  "CO",
+  "TI"
+ ],
+ "phases": [
+  "B2_BCC",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1776
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.504
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.504
+    ]
+   ]
+  ]
+ ],
+ "reference": "Davydov 2001, doi:10.1007/s11661-001-0193-8",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RY5H7KYYFX",
+ "bibtex": "davydov2001_bf04e9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RY5H7KYYFX",
+    "paper": "doi:10.1007/s11669-024-01094-y",
+    "measured_in": "doi:10.1007/s11661-001-0193-8"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11661-001-0193-8",
+   "doi:10.1007/s11669-024-01094-y"
+  ],
+  "dois": [
+   "10.1007/s11661-001-0193-8",
+   "10.1007/s11669-024-01094-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoTi-24Tur/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

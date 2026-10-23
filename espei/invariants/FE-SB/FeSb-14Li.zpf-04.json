@@ -1,0 +1,98 @@
+{
+ "components": [
+  "FE",
+  "SB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FESB2_C18",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1018.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FESB2_C18",
+    [
+     "SB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.5833333334999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2014, doi:10.1016/j.calphad.2014.05.005",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WKGF6ZJ3BB",
+ "bibtex": "li2014_be4e1e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WKGF6ZJ3BB",
+    "paper": "doi:10.1016/j.calphad.2014.05.005"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2014.05.005",
+   "doi:10.3891/acta.chem.scand.31a-0517"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.05.005",
+   "10.3891/acta.chem.scand.31a-0517"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeSb-14Li/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 4.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

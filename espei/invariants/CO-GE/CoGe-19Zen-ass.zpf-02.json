@@ -1,0 +1,231 @@
+{
+ "components": [
+  "CO",
+  "GE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CO5GE3_B82",
+  "COGE",
+  "COGE2",
+  "DIAMOND_A4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1473.0,
+   1383.0,
+   1255.0,
+   1115.0,
+   1083.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.345
+    ]
+   ],
+   [
+    "CO5GE3_B82",
+    [
+     "GE"
+    ],
+    [
+     0.345
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.255
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GE"
+    ],
+    [
+     0.18
+    ]
+   ],
+   [
+    "CO5GE3_B82",
+    [
+     "GE"
+    ],
+    [
+     0.325
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.525
+    ]
+   ],
+   [
+    "CO5GE3_B82",
+    [
+     "GE"
+    ],
+    [
+     0.43
+    ]
+   ],
+   [
+    "COGE",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.71
+    ]
+   ],
+   [
+    "COGE",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "COGE2",
+    [
+     "GE"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.73
+    ]
+   ],
+   [
+    "COGE2",
+    [
+     "GE"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zeng 2019, doi:10.1016/j.jallcom.2018.12.205",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LFJUSHEJIU ORC-GXYWY4JEO4 ORC-MJ27G4RB7U ORC-766QUTF5RL ORC-OYOWP3LK23",
+ "bibtex": "zeng2019_5ba00e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LFJUSHEJIU",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   },
+   {
+    "id": "ORC-GXYWY4JEO4",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   },
+   {
+    "id": "ORC-MJ27G4RB7U",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   },
+   {
+    "id": "ORC-766QUTF5RL",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   },
+   {
+    "id": "ORC-OYOWP3LK23",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2018.12.205"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2018.12.205"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoGe-19Zen-ass/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

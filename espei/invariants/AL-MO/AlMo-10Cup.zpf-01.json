@@ -1,0 +1,284 @@
+{
+ "components": [
+  "AL",
+  "MO"
+ ],
+ "phases": [
+  "AL63MO37",
+  "AL8MO3",
+  "ALMO3_A15",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1993.0,
+   1843.0,
+   1808.0,
+   1763.0,
+   1743.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALMO3_A15",
+    [
+     "MO"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AL63MO37",
+    [
+     "MO"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.435
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL63MO37",
+    [
+     "MO"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "AL8MO3",
+    [
+     "MO"
+    ],
+    [
+     0.272727
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.3213635
+    ]
+   ]
+  ],
+  [
+   [
+    "AL63MO37",
+    [
+     "MO"
+    ],
+    [
+     0.37
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AL8MO3",
+    [
+     "MO"
+    ],
+    [
+     0.272727
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.380909
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "MO"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "ALMO3_A15",
+    [
+     "MO"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "AL8MO3",
+    [
+     "MO"
+    ],
+    [
+     0.272727
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MO"
+    ],
+    [
+     0.5075756666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cupid 2010, doi:10.1016/j.intermet.2010.03.010",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ONG5OVQRRL ORC-UKLQTNEFEW ORC-VGJK25FWKY ORC-EBGO3EI5UM ORC-J6FVTSOC57",
+ "bibtex": "cupid2010_04047a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ONG5OVQRRL",
+    "paper": "doi:10.1016/j.intermet.2010.03.010"
+   },
+   {
+    "id": "ORC-UKLQTNEFEW",
+    "paper": "doi:10.1016/j.intermet.2010.03.010"
+   },
+   {
+    "id": "ORC-VGJK25FWKY",
+    "paper": "doi:10.1016/j.intermet.2010.03.010"
+   },
+   {
+    "id": "ORC-EBGO3EI5UM",
+    "paper": "doi:10.1016/j.intermet.2010.03.010"
+   },
+   {
+    "id": "ORC-J6FVTSOC57",
+    "paper": "doi:10.1016/j.intermet.2010.03.010"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2010.03.010"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2010.03.010"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlMo-10Cup/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

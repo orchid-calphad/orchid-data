@@ -1,0 +1,96 @@
+{
+ "components": [
+  "AL",
+  "NI"
+ ],
+ "phases": [
+  "AL3NI2_D513",
+  "AL4NI3",
+  "B2_BCC"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   973
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "B2_BCC",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3NI2_D513",
+    [
+     "NI"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "AL4NI3",
+    [
+     "NI"
+    ],
+    [
+     0.42857142857142855
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.4142857145
+    ]
+   ]
+  ]
+ ],
+ "reference": "1997, T. Gödecke, M. Scheffer, R. Lück, S. Ritsch, C. Beeli, Formation and phase boundaries of (Co, Ni)3Al4 and the ternary X phase in the Al-AlCo-AlNi system, Z. Metallkd 88 (1997) 687–697.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CJ2T3MHPM3",
+ "bibtex": "go1997_3df4c6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CJ2T3MHPM3",
+    "paper": "doi:10.1016/j.intermet.2022.107647",
+    "measured_in": "ref:de2b332c2862a991"
+   }
+  ],
+  "papers": [
+   "ref:de2b332c2862a991",
+   "doi:10.1016/j.intermet.2022.107647"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2022.107647"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlNi-22Yan/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

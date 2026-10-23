@@ -1,0 +1,218 @@
+{
+ "components": [
+  "GA",
+  "HO"
+ ],
+ "phases": [
+  "GA2HO_C32",
+  "GA3HO",
+  "GA6HO",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1573.15,
+   1158.15,
+   585.15,
+   301.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "HO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2HO_C32",
+    [
+     "HO"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "GA3HO",
+    [
+     "HO"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2HO_C32",
+    [
+     "HO"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HO"
+    ],
+    [
+     0.2916665
+    ]
+   ]
+  ],
+  [
+   [
+    "GA6HO",
+    [
+     "HO"
+    ],
+    [
+     0.142857
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA3HO",
+    [
+     "HO"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "HO"
+    ],
+    [
+     0.1964285
+    ]
+   ]
+  ],
+  [
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "HO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "HO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA6HO",
+    [
+     "HO"
+    ],
+    [
+     0.142857
+    ]
+   ]
+  ]
+ ],
+ "reference": "Boukideur 2020, doi:10.1007/s10973-019-08689-5",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VNWK3SLGRW ORC-MMDMJSX5GT ORC-SX3VFDK42Z ORC-Q5H4FWHJTO",
+ "bibtex": "boukideur2020_4d5d66",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VNWK3SLGRW",
+    "paper": "doi:10.1007/s10973-019-08689-5"
+   },
+   {
+    "id": "ORC-MMDMJSX5GT",
+    "paper": "doi:10.1007/s10973-019-08689-5"
+   },
+   {
+    "id": "ORC-SX3VFDK42Z",
+    "paper": "doi:10.1007/s10973-019-08689-5"
+   },
+   {
+    "id": "ORC-Q5H4FWHJTO",
+    "paper": "doi:10.1007/s10973-019-08689-5"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-019-08689-5",
+   "doi:10.1016/0025-5416(82)90075-1"
+  ],
+  "dois": [
+   "10.1007/s10973-019-08689-5",
+   "10.1016/0025-5416(82)90075-1"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaHo-20Ait/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 7.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

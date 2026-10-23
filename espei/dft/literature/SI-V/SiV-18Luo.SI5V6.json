@@ -1,0 +1,111 @@
+{
+ "components": [
+  "SI",
+  "V"
+ ],
+ "phases": [
+  "SI5V6"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   5.0,
+   6.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SI",
+    "V"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -51220.0
+   ]
+  ]
+ ],
+ "reference": "Zhang 2007, doi:10.1007/s10853-007-1865-6",
+ "bibtex": "zhang2007_a51e15",
+ "weight": [
+  0.071439
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB SiV-18Luo.tdb (sha256 0d98c164803523054de1cfded3e7f11063a581698511cbd28859742e852128d1), phase SI5V6. Ids, in value order: ORC-KP72AHKTW2. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "SiV-18Luo.tdb",
+   "path": "databases/sgte-binary/SiV-18Luo.tdb",
+   "sha256": "0d98c164803523054de1cfded3e7f11063a581698511cbd28859742e852128d1",
+   "phase": "SI5V6"
+  },
+  "registry_phase": "phase:si-v:si5v6",
+  "mapping": [
+   {
+    "id": "ORC-KP72AHKTW2",
+    "compound": "Si5V6",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10853-007-1865-6",
+   "doi:10.1016/j.calphad.2007.12.005"
+  ],
+  "dois": [
+   "10.1007/s10853-007-1865-6",
+   "10.1016/j.calphad.2007.12.005"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6999.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "SI-V",
+     "n": 56,
+     "sigma_robust_kJ": 6.999,
+     "bias_median_kJ_not_applied": 1.079,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.071439,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -51.22,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-KP72AHKTW2",
+    "compound": "Si5V6"
+   }
+  ]
+ }
+}

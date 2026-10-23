@@ -1,0 +1,165 @@
+{
+ "components": [
+  "MO",
+  "RU"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID",
+  "SIGMA_OLD"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2228,
+   2188,
+   1416
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     0.42
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.324
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.485
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.324
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.485
+    ]
+   ],
+   [
+    "SIGMA_OLD",
+    [
+     "RU"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "SIGMA_OLD",
+    [
+     "RU"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.11
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RU"
+    ],
+    [
+     0.59
+    ]
+   ]
+  ]
+ ],
+ "reference": "Oh 2000, doi:10.1016/s0925-8388(00)01192-0",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C2UWYVIRMM ORC-Y4TGD7SJ44 ORC-YRTTJEUMNX",
+ "bibtex": "oh2000_603a1d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-C2UWYVIRMM",
+    "paper": "doi:10.1016/s0925-8388(00)01192-0",
+    "measured_in": "doi:10.1016/s0925-8388(00)01192-0"
+   },
+   {
+    "id": "ORC-Y4TGD7SJ44",
+    "paper": "doi:10.1016/s0925-8388(00)01192-0",
+    "measured_in": "doi:10.1016/s0925-8388(00)01192-0"
+   },
+   {
+    "id": "ORC-YRTTJEUMNX",
+    "paper": "doi:10.1016/s0925-8388(00)01192-0",
+    "measured_in": "doi:10.1016/s0925-8388(00)01192-0"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0925-8388(00)01192-0"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(00)01192-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoRu-00Oh-oldsigma/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

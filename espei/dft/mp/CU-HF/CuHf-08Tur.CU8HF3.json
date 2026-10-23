@@ -1,0 +1,106 @@
+{
+ "components": [
+  "CU",
+  "HF"
+ ],
+ "phases": [
+  "CU8HF3"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   8.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CU",
+    "HF"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -16067.77
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.052367
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB CuHf-08Tur.tdb (sha256 06d472151340d413caab538d0c986d4360544f591246ec54e843796570015f0d), phase CU8HF3. Ids, in value order: mp-aaaaakwv. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "CuHf-08Tur.tdb",
+   "path": "databases/sgte-binary/CuHf-08Tur.tdb",
+   "sha256": "06d472151340d413caab538d0c986d4360544f591246ec54e843796570015f0d",
+   "phase": "CU8HF3"
+  },
+  "registry_phase": "phase:cu-hf:cu8hf3",
+  "mapping": [
+   {
+    "id": "mp-aaaaakwv",
+    "compound": "Hf3Cu8",
+    "basis": "registry DFT name mp:mp-aaaaakwv",
+    "space_group": "Pnma",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9548.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CU-HF",
+     "n": 256,
+     "sigma_robust_kJ": 9.548,
+     "bias_median_kJ_not_applied": 5.227,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      8.274,
+      10.688
+     ],
+     "n_full_stratum": 259
+    },
+    "weight_used": 0.052367,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.1665307384090905,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaakwv",
+    "compound": "Hf3Cu8"
+   }
+  ]
+ }
+}

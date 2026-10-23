@@ -1,0 +1,106 @@
+{
+ "components": [
+  "AG",
+  "SE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_SE": [
+   0.333333,
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -13366.666666666666,
+    -13366.666666666666
+   ]
+  ]
+ ],
+ "reference": "2005, Å. Olin, B. Noläng, L.-O. Öhman, E. Osadchii, and E. Rosén, Chemical Thermodynamics of Selenium, Elsevier Science, Amsterdam, 2005",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RMJA7ZD7GC.3990b7 ORC-RMJA7ZD7GC.11b1bd",
+ "reference_states": {
+  "AG": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SE": {
+   "phase": "HEXAGONAL_A8",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "olin2005_8167c5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RMJA7ZD7GC.3990b7",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "ref:285359605a4e6a64",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-RMJA7ZD7GC.11b1bd",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-018-0683-7",
+    "measured_in": "ref:285359605a4e6a64",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:285359605a4e6a64",
+   "doi:10.1007/s11669-018-0683-7"
+  ],
+  "dois": [
+   "10.1007/s11669-018-0683-7"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AgSe-18Li/hmr-09.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

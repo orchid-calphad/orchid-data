@@ -1,0 +1,132 @@
+{
+ "components": [
+  "F",
+  "NB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_NB": [
+   0.5,
+   0.333333,
+   0.166667,
+   0.166667
+  ]
+ },
+ "output": "CPM",
+ "values": [
+  [
+   [
+    18.923,
+    21.487666666666666,
+    21.77525,
+    22.25277777777778
+   ]
+  ]
+ ],
+ "reference": "Capelli 2018, doi:10.1016/j.jfluchem.2018.01.011",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CLYRTLS66S.b04ea9 ORC-ZVWDFNQA6L.269c71 ORC-ZSMYDT6LEW.973152 ORC-5FDDV435DD.7a916f",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NbF-18Cap.tdb",
+   "path": "databases/sgte-binary/NbF-18Cap.tdb",
+   "sha256": "ce57e253cc4ca1be3f63c3b9eadc11f749ce7ff303d936f6d734ac6602f12b93",
+   "catalog_entry": {
+    "name": "NbF-18Cap.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jfluchem-2018-01-011",
+   "doi": "10.1016/j.jfluchem.2018.01.011",
+   "citation": {
+    "authors": "see doi",
+    "title": "E. Capelli, R.J.M. Konings, J. Fluorine Chem., 208, 55-64(2018).",
+    "year": "2018"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "capelli2018_96968b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-CLYRTLS66S.b04ea9",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jfluchem.2018.01.011",
+    "measured_in": "doi:10.1016/j.jfluchem.2018.01.011"
+   },
+   {
+    "id": "ORC-ZVWDFNQA6L.269c71",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jfluchem.2018.01.011",
+    "measured_in": "doi:10.1016/j.jfluchem.2018.01.011"
+   },
+   {
+    "id": "ORC-ZSMYDT6LEW.973152",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jfluchem.2018.01.011",
+    "measured_in": "doi:10.1016/j.jfluchem.2018.01.011"
+   },
+   {
+    "id": "ORC-5FDDV435DD.7a916f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jfluchem.2018.01.011",
+    "measured_in": "doi:10.1016/j.jfluchem.2018.01.011"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jfluchem.2018.01.011"
+  ],
+  "dois": [
+   "10.1016/j.jfluchem.2018.01.011"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NbF-18Cap/cpm-model-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_CPM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

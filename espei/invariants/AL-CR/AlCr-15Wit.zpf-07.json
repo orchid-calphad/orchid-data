@@ -1,0 +1,98 @@
+{
+ "components": [
+  "AL",
+  "CR"
+ ],
+ "phases": [
+  "AL5CR",
+  "AL7CR",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1108.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5CR",
+    [
+     "CR"
+    ],
+    [
+     0.153846
+    ]
+   ],
+   [
+    "AL7CR",
+    [
+     "CR"
+    ],
+    [
+     0.125
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.13942300000000002
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2015, doi:10.1016/j.jallcom.2015.04.231",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AONVPXDAAU",
+ "bibtex": "witusiewicz2015_916489",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AONVPXDAAU",
+    "paper": "doi:10.1016/j.jallcom.2015.04.231"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2015.04.231",
+   "doi:10.1016/0925-8388(92)90601-5",
+   "doi:10.1007/s10853-005-6525-0"
+  ],
+  "dois": [
+   "10.1007/s10853-005-6525-0",
+   "10.1016/0925-8388(92)90601-5",
+   "10.1016/j.jallcom.2015.04.231"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlCr-15Wit/zpf-07.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

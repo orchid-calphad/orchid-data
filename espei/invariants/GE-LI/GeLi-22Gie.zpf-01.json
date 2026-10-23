@@ -1,0 +1,85 @@
+{
+ "components": [
+  "GE",
+  "LI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "GE4LI17",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   453.5
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GE4LI17",
+    [
+     "LI"
+    ],
+    [
+     0.809524
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gierlotka 2022, doi:10.1016/j.jct.2022.106883",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OMNXEQJE2E",
+ "bibtex": "gierlotka2022_418384",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-OMNXEQJE2E",
+    "paper": "doi:10.1016/j.jct.2022.106883"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jct.2022.106883"
+  ],
+  "dois": [
+   "10.1016/j.jct.2022.106883"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeLi-22Gie/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "components": [
+  "AG",
+  "TI"
+ ],
+ "phases": [
+  "AGTI2",
+  "AGTI_B11",
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1232.0,
+   1293.0,
+   1218.0,
+   1124.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.05
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TI"
+    ],
+    [
+     0.05
+    ]
+   ],
+   [
+    "AGTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.06
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.847
+    ]
+   ],
+   [
+    "AGTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.872
+    ]
+   ],
+   [
+    "AGTI_B11",
+    [
+     "TI"
+    ],
+    [
+     0.51
+    ]
+   ],
+   [
+    "AGTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     0.916
+    ]
+   ],
+   [
+    "AGTI2",
+    [
+     "TI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     0.958
+    ]
+   ]
+  ]
+ ],
+ "reference": "Li 2005, doi:10.1016/j.calphad.2005.09.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AU36ZGKQN4 ORC-EQRGTI6EMA ORC-FUJFGCYL6Z ORC-ZKZROTRPM2",
+ "bibtex": "li2005_32ecec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AU36ZGKQN4",
+    "paper": "doi:10.1016/j.calphad.2005.09.002"
+   },
+   {
+    "id": "ORC-EQRGTI6EMA",
+    "paper": "doi:10.1016/j.calphad.2005.09.002"
+   },
+   {
+    "id": "ORC-FUJFGCYL6Z",
+    "paper": "doi:10.1016/j.calphad.2005.09.002"
+   },
+   {
+    "id": "ORC-ZKZROTRPM2",
+    "paper": "doi:10.1016/j.calphad.2005.09.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.09.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.09.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgTi-05Li/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "components": [
+  "AL",
+  "Y"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1473.0,
+  "X_Y": [
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -50400.0
+   ]
+  ]
+ ],
+ "reference": "Gröbner 1995, doi:10.1016/0925-8388(94)06028-2",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MMSUJPXEYZ",
+ "reference_states": {
+  "AL": {
+   "phase": "FCC_A1"
+  },
+  "Y": {
+   "phase": "HCP_A3"
+  }
+ },
+ "bibtex": "grobner1995_1fe495",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MMSUJPXEYZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0925-8388(94)06028-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(94)06028-2",
+   "doi:10.1016/0925-8388(91)90039-x"
+  ],
+  "dois": [
+   "10.1016/0925-8388(91)90039-x",
+   "10.1016/0925-8388(94)06028-2"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlY-95Gro-LB/hmr-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

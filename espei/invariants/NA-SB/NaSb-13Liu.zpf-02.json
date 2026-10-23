@@ -1,0 +1,77 @@
+{
+ "components": [
+  "NA",
+  "SB"
+ ],
+ "phases": [
+  "LIQUID",
+  "NA3SB_D018"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1132
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "NA3SB_D018",
+    [
+     "SB"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ]
+ ],
+ "reference": "1961, Y.A. Ugai, Some new semiconducting phases based on Sb, Tr. Chetvert. Saveshch. Vopr. Met. Fiz. Oluprovod. Akad. Nauk SSSR, Moscow (1961) 107–109. This work",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RBB2SVM4UM",
+ "bibtex": "ugai1961_ca743a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RBB2SVM4UM",
+    "paper": "doi:10.1016/j.tca.2013.07.009",
+    "measured_in": "ref:ddb08ddaff78a26e"
+   }
+  ],
+  "papers": [
+   "ref:ddb08ddaff78a26e",
+   "doi:10.1016/j.tca.2013.07.009"
+  ],
+  "dois": [
+   "10.1016/j.tca.2013.07.009"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NaSb-13Liu/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "components": [
+  "NI",
+  "SN"
+ ],
+ "phases": [
+  "LIQUID",
+  "NI3SN2",
+  "NI3SN4"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1066
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     0.904
+    ]
+   ],
+   [
+    "NI3SN2",
+    [
+     "SN"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "NI3SN4",
+    [
+     "SN"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ]
+  ]
+ ],
+ "reference": "1937, W. Mikulus, L. Thomassen, C. Upthegrove, Trans. AIME Inst. Met. Div. 124 (1937) 111–137.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2UUAE6XOG7",
+ "bibtex": "mikulus1937_6d8193",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2UUAE6XOG7",
+    "paper": "doi:10.1016/j.calphad.2003.10.001",
+    "measured_in": "ref:c9f4ba9de06ef3b2",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:c9f4ba9de06ef3b2",
+   "doi:10.1016/j.calphad.2003.10.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2003.10.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiSn-03Mie/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

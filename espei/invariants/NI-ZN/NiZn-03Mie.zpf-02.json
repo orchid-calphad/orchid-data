@@ -1,0 +1,157 @@
+{
+ "components": [
+  "NI",
+  "ZN"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "NI2ZN11_D82",
+  "NIZN8"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   763,
+   692,
+   1154
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.991
+    ]
+   ],
+   [
+    "NI2ZN11_D82",
+    [
+     "ZN"
+    ],
+    [
+     0.853
+    ]
+   ],
+   [
+    "NIZN8",
+    [
+     "ZN"
+    ],
+    [
+     0.882
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.997
+    ]
+   ],
+   [
+    "NIZN8",
+    [
+     "ZN"
+    ],
+    [
+     0.882
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     0.999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NI2ZN11_D82",
+    [
+     "ZN"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "1933, W. Heike, J. Schramm, O. Vaupel, Metallwirtschaft 12 (1933) 115–120.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RI2KFGLNEB ORC-5XI3YII5AV ORC-QTME2PWFLG",
+ "bibtex": "heike1933_82f96f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RI2KFGLNEB",
+    "paper": "doi:10.1016/j.calphad.2003.09.002",
+    "measured_in": "ref:6565cdb9f13c910c"
+   },
+   {
+    "id": "ORC-5XI3YII5AV",
+    "paper": "doi:10.1016/j.calphad.2003.09.002",
+    "measured_in": "ref:6565cdb9f13c910c"
+   },
+   {
+    "id": "ORC-QTME2PWFLG",
+    "paper": "doi:10.1016/j.calphad.2003.09.002",
+    "measured_in": "ref:6565cdb9f13c910c"
+   }
+  ],
+  "papers": [
+   "ref:6565cdb9f13c910c",
+   "doi:10.1016/j.calphad.2003.09.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2003.09.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZn-03Mie/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

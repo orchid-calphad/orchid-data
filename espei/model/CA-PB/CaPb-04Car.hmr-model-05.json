@@ -1,0 +1,123 @@
+{
+ "components": [
+  "CA",
+  "PB"
+ ],
+ "phases": [
+  "CAPB3_L12",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1020.0,
+  "X_PB": [
+   0.75,
+   0.75
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -27426.0,
+    -27426.0
+   ]
+  ]
+ ],
+ "reference": "Cartigny 2004, doi:10.1016/j.tca.2004.01.001",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IB4R7S2BR5.333a77 ORC-IB4R7S2BR5.7c97b4",
+ "reference_states": {
+  "CA": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "PB": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CaPb-04Car.tdb",
+   "path": "databases/sgte-binary/CaPb-04Car.tdb",
+   "sha256": "189da9f48238a281880f6dd45f8bd40ae6124ab40a5243ee040846e0353af3f9",
+   "catalog_entry": {
+    "name": "CaPb-04Car.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-tca-2004-01-001",
+   "doi": "10.1016/j.tca.2004.01.001",
+   "citation": {
+    "authors": "see doi",
+    "title": "Thermochim. Acta, 414, 197-202(2004).",
+    "year": "2004"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "cartigny2004_7eac93",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-IB4R7S2BR5.333a77",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2007.10.004",
+    "measured_in": "doi:10.1016/j.tca.2004.01.001"
+   },
+   {
+    "id": "ORC-IB4R7S2BR5.7c97b4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2007.10.004",
+    "measured_in": "doi:10.1016/j.tca.2004.01.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2004.01.001",
+   "doi:10.1016/j.calphad.2007.10.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2007.10.004",
+   "10.1016/j.tca.2004.01.001"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CaPb-04Car/hmr-model-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

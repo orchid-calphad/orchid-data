@@ -1,0 +1,78 @@
+{
+ "components": [
+  "AL",
+  "NI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1953.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Cotton 1993, doi:10.1007/bf02669138",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VTWDESYI2O",
+ "bibtex": "cotton1993_2d3dc0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VTWDESYI2O",
+    "paper": "doi:10.1016/j.calphad.2005.02.002",
+    "measured_in": "doi:10.1007/bf02669138"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02669138",
+   "doi:10.1016/j.calphad.2005.02.002"
+  ],
+  "dois": [
+   "10.1007/bf02669138",
+   "10.1016/j.calphad.2005.02.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlNi-05Mie/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

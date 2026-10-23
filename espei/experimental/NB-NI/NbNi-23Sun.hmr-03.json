@@ -1,0 +1,97 @@
+{
+ "components": [
+  "NB",
+  "NI"
+ ],
+ "phases": [
+  "LIQUID",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_NI": [
+   0.461538,
+   0.461538
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -22450.0,
+    -22450.0
+   ]
+  ]
+ ],
+ "reference": "Sun 2023, doi:10.1016/j.calphad.2023.102563",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-J7U4WVA25P.53a2b3 ORC-J7U4WVA25P.e730dc",
+ "reference_states": {
+  "NB": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "NI": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "sun2023_9c4283",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-J7U4WVA25P.53a2b3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2023.102563"
+   },
+   {
+    "id": "ORC-J7U4WVA25P.e730dc",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2023.102563"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2023.102563"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2023.102563"
+  ],
+  "source_dataset": "db-v2.1/general/espei/NbNi-23Sun/hmr-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

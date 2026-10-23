@@ -1,0 +1,93 @@
+{
+ "components": [
+  "SC",
+  "TH"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1423.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TH"
+    ],
+    [
+     0.34
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TH"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TH"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1990, G.I. Terekhov, S.I. Sinyakova, Izv. Akad. Nauk SSSR, Met. 3 (1990) 215–218.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X56UUT365T",
+ "bibtex": "terekhov1990_bcffac",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-X56UUT365T",
+    "paper": "doi:10.1016/j.jallcom.2008.02.018",
+    "measured_in": "ref:862eda39de72ed8a"
+   }
+  ],
+  "papers": [
+   "ref:862eda39de72ed8a",
+   "doi:10.1016/j.jallcom.2008.02.018"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.02.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ScTh-09Liu/zpf-00.json",
+  "espei_evaluation": {
+   "tdb": "ScTh-09Liu",
+   "vertices": 3,
+   "median_abs_driving_force_J": 2.17,
+   "max_abs_driving_force_J": 61.24
+  }
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

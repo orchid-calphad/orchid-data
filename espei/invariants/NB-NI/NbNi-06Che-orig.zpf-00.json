@@ -1,0 +1,207 @@
+{
+ "components": [
+  "NB",
+  "NI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID",
+  "MU_D85",
+  "NBNI3_D0A",
+  "NBNI8"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1558.15,
+   1677.15,
+   1453.15,
+   788.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NBNI8",
+    [
+     "NI"
+    ],
+    [
+     0.8888888888888888
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.8194444445
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chen 2005, doi:10.1007/s10853-005-4553-4",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UIJBKAUNJN ORC-PSOLU3HRSJ ORC-5NXHRVYNPA ORC-K75THPNOW7",
+ "bibtex": "chen2005_5af362",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UIJBKAUNJN",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "doi:10.1007/s10853-005-4553-4"
+   },
+   {
+    "id": "ORC-PSOLU3HRSJ",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "doi:10.1007/s10853-005-4553-4"
+   },
+   {
+    "id": "ORC-5NXHRVYNPA",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "doi:10.1007/s10853-005-4553-4"
+   },
+   {
+    "id": "ORC-K75THPNOW7",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "doi:10.1007/s10853-005-4553-4"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10853-005-4553-4",
+   "doi:10.1016/j.calphad.2006.02.005"
+  ],
+  "dois": [
+   "10.1007/s10853-005-4553-4",
+   "10.1016/j.calphad.2006.02.005"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbNi-06Che-orig/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

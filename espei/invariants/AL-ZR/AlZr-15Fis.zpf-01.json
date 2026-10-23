@@ -1,0 +1,195 @@
+{
+ "components": [
+  "AL",
+  "ZR"
+ ],
+ "phases": [
+  "AL2ZR3",
+  "AL3ZR4",
+  "AL3ZR5_D8M",
+  "AL4ZR5",
+  "ALZR2_B82",
+  "ALZR_B33"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1303,
+   1273,
+   1273
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "AL4ZR5",
+    [
+     "ZR"
+    ],
+    [
+     0.5555555555555556
+    ]
+   ],
+   [
+    "AL2ZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "AL3ZR4",
+    [
+     "ZR"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5756613756666666
+    ]
+   ]
+  ],
+  [
+   [
+    "AL3ZR5_D8M",
+    [
+     "ZR"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "ALZR2_B82",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "AL2ZR3",
+    [
+     "ZR"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6305555556666667
+    ]
+   ]
+  ],
+  [
+   [
+    "AL4ZR5",
+    [
+     "ZR"
+    ],
+    [
+     0.5555555555555556
+    ]
+   ],
+   [
+    "AL3ZR4",
+    [
+     "ZR"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ],
+   [
+    "ALZR_B33",
+    [
+     "ZR"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.5423280423333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "2015, M. Potzschke and K. Schubert, Zum Aufbau einiger zu T4-B3 Homologer und Quasihomologer Systeme (To Build some Homology with T4-B3 and Quasi-Homologous Systems), Z. Metallkd., 1962, 53(8), p 548-561 Journal of Phase Equilibria and Diffusion Vol. 36 No. 5 2015 413",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZXQ7W576YC ORC-CK6BLEXIYS ORC-ZZW7RHNQ3H",
+ "bibtex": "potzschke2015_eb8f4c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZXQ7W576YC",
+    "paper": "doi:10.1007/s11669-015-0398-y",
+    "measured_in": "ref:0d1facddb947a2a5"
+   },
+   {
+    "id": "ORC-CK6BLEXIYS",
+    "paper": "doi:10.1007/s11669-015-0398-y",
+    "measured_in": "ref:0d1facddb947a2a5"
+   },
+   {
+    "id": "ORC-ZZW7RHNQ3H",
+    "paper": "doi:10.1007/s11669-015-0398-y",
+    "measured_in": "ref:0d1facddb947a2a5"
+   }
+  ],
+  "papers": [
+   "ref:0d1facddb947a2a5",
+   "doi:10.1007/s11669-015-0398-y"
+  ],
+  "dois": [
+   "10.1007/s11669-015-0398-y"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlZr-15Fis/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

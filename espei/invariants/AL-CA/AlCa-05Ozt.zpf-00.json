@@ -1,0 +1,178 @@
+{
+ "components": [
+  "AL",
+  "CA"
+ ],
+ "phases": [
+  "AL14CA13",
+  "AL3CA8",
+  "AL4CA_D13",
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   884,
+   820,
+   820
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CA"
+    ],
+    [
+     0.055999999999999994
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4CA_D13",
+    [
+     "CA"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL14CA13",
+    [
+     "CA"
+    ],
+    [
+     0.48148148148148145
+    ]
+   ],
+   [
+    "AL3CA8",
+    [
+     "CA"
+    ],
+    [
+     0.7272727272727273
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CA"
+    ],
+    [
+     0.604377104
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3CA8",
+    [
+     "CA"
+    ],
+    [
+     0.7272727272727273
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Donski 1908, doi:10.1002/zaac.19080570109",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PWCITDEOCO ORC-XNCTZ2SWF4 ORC-JTP4H7ZJAP",
+ "bibtex": "donski1908_251880",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PWCITDEOCO",
+    "paper": "doi:10.1007/s11661-005-0133-0",
+    "measured_in": "doi:10.1002/zaac.19080570109"
+   },
+   {
+    "id": "ORC-XNCTZ2SWF4",
+    "paper": "doi:10.1007/s11661-005-0133-0",
+    "measured_in": "doi:10.1002/zaac.19080570109"
+   },
+   {
+    "id": "ORC-JTP4H7ZJAP",
+    "paper": "doi:10.1007/s11661-005-0133-0",
+    "measured_in": "doi:10.1002/zaac.19080570109"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/zaac.19080570109",
+   "doi:10.1007/s11661-005-0133-0"
+  ],
+  "dois": [
+   "10.1002/zaac.19080570109",
+   "10.1007/s11661-005-0133-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlCa-05Ozt/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

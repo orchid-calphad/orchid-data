@@ -1,0 +1,169 @@
+{
+ "components": [
+  "NI",
+  "SC"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SC": [
+   0.166667,
+   0.222222,
+   0.333333,
+   0.5,
+   0.666667
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -20614.0,
+    -27129.0,
+    -33099.0,
+    -41992.0,
+    -24976.0
+   ]
+  ]
+ ],
+ "reference": "Zhu 2015, doi:10.1016/j.calphad.2014.11.005",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-L77DXQBRRR ORC-E4XZA626BF ORC-EGDT7OBSW6 ORC-O3EIOQGIFV ORC-KGGTNPAH4C",
+ "reference_states": {
+  "NI": {
+   "phase": "FCC_A1"
+  },
+  "SC": {
+   "phase": "HCP_A3"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NiSc-15Zhu.tdb",
+   "path": "databases/sgte-binary/NiSc-15Zhu.tdb",
+   "sha256": "93e76d916a3807e795016b0078bca1a16a3453bd28e44fca7cc69af19f4140bc",
+   "catalog_entry": {
+    "name": "NiSc-15Zhu.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2014-11-005",
+   "doi": "10.1016/j.calphad.2014.11.005",
+   "citation": {
+    "authors": "see doi",
+    "title": "D. Zhu, C. Li, C. Guo, Z. Du, J. Li, Calphad, 48, 106-12(2015).",
+    "year": "2015"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "zhu2015_323b28",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-L77DXQBRRR",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.11.005",
+    "measured_in": "doi:10.1016/j.calphad.2014.11.005",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-E4XZA626BF",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.11.005",
+    "measured_in": "doi:10.1016/j.calphad.2014.11.005",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-EGDT7OBSW6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.11.005",
+    "measured_in": "doi:10.1016/j.calphad.2014.11.005",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-O3EIOQGIFV",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.11.005",
+    "measured_in": "doi:10.1016/j.calphad.2014.11.005",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-KGGTNPAH4C",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.11.005",
+    "measured_in": "doi:10.1016/j.calphad.2014.11.005",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2014.11.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.11.005"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NiSc-15Zhu/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

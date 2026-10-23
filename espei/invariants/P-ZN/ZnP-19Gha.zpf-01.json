@@ -1,0 +1,249 @@
+{
+ "components": [
+  "P",
+  "ZN"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID",
+  "ZN3P2_HT",
+  "ZN3P2_LT",
+  "ZNP2_HT",
+  "ZNP2_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   692.15,
+   1153.15,
+   1466.15,
+   1253.15,
+   1263.15,
+   1313.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.006600000000000001
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "P"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ZN3P2_LT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "ZN3P2_LT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "ZN3P2_HT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "ZN3P2_HT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.55
+    ]
+   ],
+   [
+    "ZN3P2_HT",
+    [
+     "P"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "ZNP2_LT",
+    [
+     "P"
+    ],
+    [
+     0.6659999999999999
+    ]
+   ]
+  ],
+  [
+   [
+    "ZNP2_LT",
+    [
+     "P"
+    ],
+    [
+     0.6659999999999999
+    ]
+   ],
+   [
+    "ZNP2_HT",
+    [
+     "P"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "P"
+    ],
+    [
+     0.6659999999999999
+    ]
+   ],
+   [
+    "ZNP2_HT",
+    [
+     "P"
+    ],
+    [
+     0.6659999999999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "1969, J. Berak, Z. Pruchnik, Phase equilibria in the zinc–cadmium–phosphorus system. Part 2: the zinc–phosphorus system, Roczn. Chem. 43 (1969) 1141–1146.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SCRFRWHFTM ORC-WUJJT5243Q ORC-4BOLKZ3DV4 ORC-BO6LTQWKJF ORC-K43AVFS6WB ORC-XHYKPYHTYS",
+ "bibtex": "berak1969_ca4913",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SCRFRWHFTM",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:20efeb8f84bae46d"
+   },
+   {
+    "id": "ORC-WUJJT5243Q",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:20efeb8f84bae46d"
+   },
+   {
+    "id": "ORC-4BOLKZ3DV4",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:20efeb8f84bae46d"
+   },
+   {
+    "id": "ORC-BO6LTQWKJF",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:20efeb8f84bae46d"
+   },
+   {
+    "id": "ORC-K43AVFS6WB",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:20efeb8f84bae46d"
+   },
+   {
+    "id": "ORC-XHYKPYHTYS",
+    "paper": "doi:10.1016/j.mtla.2019.100301",
+    "measured_in": "ref:20efeb8f84bae46d"
+   }
+  ],
+  "papers": [
+   "ref:20efeb8f84bae46d",
+   "doi:10.1016/j.mtla.2019.100301"
+  ],
+  "dois": [
+   "10.1016/j.mtla.2019.100301"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ZnP-19Gha/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

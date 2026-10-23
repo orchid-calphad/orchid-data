@@ -1,0 +1,113 @@
+{
+ "components": [
+  "BE",
+  "V"
+ ],
+ "phases": [
+  "BE12V_D2B"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   12.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "BE",
+    "V"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -16000.0
+   ]
+  ]
+ ],
+ "reference": "Nishimura 2006, doi:10.2320/jinstmet.70.122",
+ "bibtex": "nishimura2006_a86ff2",
+ "weight": [
+  0.073866
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB BeV-06Nis.tdb (sha256 a71e996fa3a5588a47a1bd2f1f9867e176533c6773034486f121334ed457ac4c), phase BE12V_D2B. Ids, in value order: ORC-PGJRBM3ILK. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "BeV-06Nis.tdb",
+   "path": "databases/sgte-binary/BeV-06Nis.tdb",
+   "sha256": "a71e996fa3a5588a47a1bd2f1f9867e176533c6773034486f121334ed457ac4c",
+   "phase": "BE12V_D2B"
+  },
+  "registry_phase": "phase:be-v:be12v-d2b",
+  "mapping": [
+   {
+    "id": "ORC-PGJRBM3ILK",
+    "compound": "Be12V",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.2320/jinstmet.70.122"
+  ],
+  "dois": [
+   "10.2320/jinstmet.70.122"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6769.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "BE-V",
+     "n": 100,
+     "sigma_robust_kJ": 6.769,
+     "bias_median_kJ_not_applied": 0.577,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.073866,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -16.0,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-PGJRBM3ILK",
+    "compound": "Be12V"
+   }
+  ]
+ }
+}

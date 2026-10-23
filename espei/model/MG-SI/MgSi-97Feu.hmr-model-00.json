@@ -1,0 +1,107 @@
+{
+ "components": [
+  "MG",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SI": [
+   0.333333
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -65220.0
+   ]
+  ]
+ ],
+ "reference": "Feufel 1997, doi:10.1016/s0925-8388(96)02655-2",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7UMSNJ5ULE",
+ "reference_states": {
+  "MG": {
+   "phase": "HCP_A3"
+  },
+  "SI": {
+   "phase": "DIAMOND_A4"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "MgSi-97Feu.tdb",
+   "path": "databases/sgte-binary/MgSi-97Feu.tdb",
+   "sha256": "ebffb15d1bb1ae713a974883794182d50b7db69577957dc87b49777834197069",
+   "catalog_entry": {
+    "name": "MgSi-97Feu.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-s0925-8388-96-02655-2",
+   "doi": "10.1016/S0925-8388(96)02655-2",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 247, 31-42(1997).",
+    "year": "1997"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "feufel1997_f13695",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-7UMSNJ5ULE",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497100770339914",
+    "measured_in": "doi:10.1016/s0925-8388(96)02655-2",
+    "caveats": [
+     "dft_outlier_unexplained"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0925-8388(96)02655-2",
+   "doi:10.1361/105497100770339914"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(96)02655-2",
+   "10.1361/105497100770339914"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/MgSi-97Feu/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

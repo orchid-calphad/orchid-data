@@ -1,0 +1,210 @@
+{
+ "components": [
+  "AU",
+  "PB"
+ ],
+ "phases": [
+  "AU2PB_C15",
+  "AUPB2_C16",
+  "AUPB3",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   702,
+   524,
+   490,
+   483
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.43
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AU2PB_C15",
+    [
+     "PB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.71
+    ]
+   ],
+   [
+    "AU2PB_C15",
+    [
+     "PB"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AUPB2_C16",
+    [
+     "PB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.77
+    ]
+   ],
+   [
+    "AUPB2_C16",
+    [
+     "PB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "AUPB3",
+    [
+     "PB"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.85
+    ]
+   ],
+   [
+    "AUPB3",
+    [
+     "PB"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1971, B. Legendre, S. Jaulmes, C. Souleau, C. R. Acad. Sci. (Paris) 273C (1971) 356.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DCS5DCGTQD ORC-YZLGYIBN46 ORC-UG2MP2JB34 ORC-KGAEEJR7MB",
+ "bibtex": "legendre1971_bd11fa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DCS5DCGTQD",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:a18285287d3f5d53"
+   },
+   {
+    "id": "ORC-YZLGYIBN46",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:a18285287d3f5d53"
+   },
+   {
+    "id": "ORC-UG2MP2JB34",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:a18285287d3f5d53",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-KGAEEJR7MB",
+    "paper": "doi:10.1016/j.calphad.2004.05.003",
+    "measured_in": "ref:a18285287d3f5d53"
+   }
+  ],
+  "papers": [
+   "ref:a18285287d3f5d53",
+   "doi:10.1016/j.calphad.2004.05.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2004.05.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuPb-04Wan-LB/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

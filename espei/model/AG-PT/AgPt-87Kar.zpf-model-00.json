@@ -1,0 +1,318 @@
+{
+ "components": [
+  "AG",
+  "PT"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1263.15,
+   1318.15,
+   1393.15,
+   1454.15,
+   1736.15,
+   1808.15,
+   1832.15,
+   1861.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.014
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.014
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.056
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.056
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.133
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.133
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.197
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.197
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.36
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.36
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.455
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.455
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.525
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.525
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.694
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PT"
+    ],
+    [
+     0.694
+    ]
+   ]
+  ]
+ ],
+ "reference": "Karakaya 1987, doi:10.1007/bf02869269",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "phase_compositions_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-J6L4OUO2KN ORC-GQSR4DMQ2O ORC-535YVXSQNK ORC-OTFX7V25YX ORC-2SDUABR2DE ORC-BC3NEZ5E5Q ORC-OECBDUB3MT ORC-Z4BHOEP5TU",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "AgPt-87Kar.tdb",
+   "path": "databases/sgte-binary/AgPt-87Kar.tdb",
+   "sha256": "8f1b7c8efd759d85fd7f42982ce1b6a6f8ef476b2a97b7f64c034036e47e3405",
+   "catalog_entry": {
+    "name": "AgPt-87Kar.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-bf02869269",
+   "doi": "10.1007/BF02869269",
+   "citation": {
+    "authors": "see doi",
+    "title": "I. Karakaya, W.T. Thompson, Bull. Alloy Phase Diag., 8, 334-40(1987).",
+    "year": "1987"
+   }
+  },
+  "model_reproduction": null
+ },
+ "bibtex": "karakaya1987_d5b1d2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-J6L4OUO2KN",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269",
+    "measured_in": "doi:10.1007/bf02869269"
+   },
+   {
+    "id": "ORC-GQSR4DMQ2O",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269",
+    "measured_in": "doi:10.1007/bf02869269"
+   },
+   {
+    "id": "ORC-535YVXSQNK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269",
+    "measured_in": "doi:10.1007/bf02869269"
+   },
+   {
+    "id": "ORC-OTFX7V25YX",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269",
+    "measured_in": "doi:10.1007/bf02869269"
+   },
+   {
+    "id": "ORC-2SDUABR2DE",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269",
+    "measured_in": "doi:10.1007/bf02869269"
+   },
+   {
+    "id": "ORC-BC3NEZ5E5Q",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269",
+    "measured_in": "doi:10.1007/bf02869269"
+   },
+   {
+    "id": "ORC-OECBDUB3MT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269",
+    "measured_in": "doi:10.1007/bf02869269"
+   },
+   {
+    "id": "ORC-Z4BHOEP5TU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02869269",
+    "measured_in": "doi:10.1007/bf02869269"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02869269"
+  ],
+  "dois": [
+   "10.1007/bf02869269"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/AgPt-87Kar/zpf-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

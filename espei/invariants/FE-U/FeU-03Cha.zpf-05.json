@@ -1,0 +1,199 @@
+{
+ "components": [
+  "FE",
+  "U"
+ ],
+ "phases": [
+  "FE2U_C15",
+  "FEU6_D2C",
+  "LIQUID",
+  "TETRAGONAL_U"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1503.0,
+   1002.0,
+   1078.0,
+   1034.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "FE2U_C15",
+    [
+     "U"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE2U_C15",
+    [
+     "U"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "FEU6_D2C",
+    [
+     "U"
+    ],
+    [
+     0.857143
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.5952379999999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.85
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     0.985
+    ]
+   ],
+   [
+    "FEU6_D2C",
+    [
+     "U"
+    ],
+    [
+     0.857143
+    ]
+   ]
+  ],
+  [
+   [
+    "FEU6_D2C",
+    [
+     "U"
+    ],
+    [
+     0.857143
+    ]
+   ],
+   [
+    "TETRAGONAL_U",
+    [
+     "U"
+    ],
+    [
+     0.996
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chatain 2003, doi:10.1361/105497103770330730",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GNXJRBP2LZ ORC-EA4KWL7QEQ ORC-PNTHXAGHJB ORC-4KHWWPMSDQ",
+ "bibtex": "chatain2003_585885",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GNXJRBP2LZ",
+    "paper": "doi:10.1361/105497103770330730"
+   },
+   {
+    "id": "ORC-EA4KWL7QEQ",
+    "paper": "doi:10.1361/105497103770330730"
+   },
+   {
+    "id": "ORC-PNTHXAGHJB",
+    "paper": "doi:10.1361/105497103770330730"
+   },
+   {
+    "id": "ORC-4KHWWPMSDQ",
+    "paper": "doi:10.1361/105497103770330730"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497103770330730"
+  ],
+  "dois": [
+   "10.1361/105497103770330730"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeU-03Cha/zpf-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,257 @@
+{
+ "components": [
+  "GA",
+  "TB"
+ ],
+ "phases": [
+  "GA2TB_C32",
+  "GA3TB5_D8L",
+  "GA6TB",
+  "GATB_B33",
+  "HCP_A3",
+  "LIQUID",
+  "ORTHORHOMBIC_A11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1153.0,
+   1403.0,
+   1483.0,
+   1653.0,
+   303.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA3TB5_D8L",
+    [
+     "TB"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GATB_B33",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GA3TB5_D8L",
+    [
+     "TB"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.5625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2TB_C32",
+    [
+     "TB"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "GATB_B33",
+    [
+     "TB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.4166665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.333333
+    ]
+   ],
+   [
+    "GA2TB_C32",
+    [
+     "TB"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ORTHORHOMBIC_A11",
+    [
+     "TB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA6TB",
+    [
+     "TB"
+    ],
+    [
+     0.142857
+    ]
+   ]
+  ]
+ ],
+ "reference": "Yatsenko 1979, doi:10.1016/0022-5088(79)90170-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HKX4M5JPO7 ORC-4RPJZDE7XU ORC-FYYG6JFKN5 ORC-7V5BNX2HNM ORC-GUVA3NONAN",
+ "bibtex": "yatsenko1979_d8084f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HKX4M5JPO7",
+    "paper": "doi:10.1016/j.jallcom.2007.09.067",
+    "measured_in": "doi:10.1016/0022-5088(79)90170-x"
+   },
+   {
+    "id": "ORC-4RPJZDE7XU",
+    "paper": "doi:10.1016/j.jallcom.2007.09.067",
+    "measured_in": "doi:10.1016/0022-5088(79)90170-x"
+   },
+   {
+    "id": "ORC-FYYG6JFKN5",
+    "paper": "doi:10.1016/j.jallcom.2007.09.067",
+    "measured_in": "doi:10.1016/0022-5088(79)90170-x"
+   },
+   {
+    "id": "ORC-7V5BNX2HNM",
+    "paper": "doi:10.1016/j.jallcom.2007.09.067",
+    "measured_in": "doi:10.1016/0022-5088(79)90170-x"
+   },
+   {
+    "id": "ORC-GUVA3NONAN",
+    "paper": "doi:10.1016/j.jallcom.2007.09.067",
+    "measured_in": "doi:10.1016/0022-5088(79)90170-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(79)90170-x",
+   "doi:10.1016/j.jallcom.2007.09.067"
+  ],
+  "dois": [
+   "10.1016/0022-5088(79)90170-x",
+   "10.1016/j.jallcom.2007.09.067"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaTb-08Jun/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "CO",
+  "SB"
+ ],
+ "phases": [
+  "BCC_A2",
+  "COSB2_C18",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1209.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.86
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SB"
+    ],
+    [
+     0.525
+    ]
+   ],
+   [
+    "COSB2_C18",
+    [
+     "SB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhang 2008, doi:10.1016/j.calphad.2007.11.001",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3KZ3MV7EC6",
+ "bibtex": "zhang2008_14aca1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3KZ3MV7EC6",
+    "paper": "doi:10.1016/j.calphad.2007.11.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2007.11.001",
+   "doi:10.1007/bf02645725"
+  ],
+  "dois": [
+   "10.1007/bf02645725",
+   "10.1016/j.calphad.2007.11.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoSb-08Zha/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "components": [
+  "BE",
+  "PU"
+ ],
+ "phases": [
+  "BE13PU_D23"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   13.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "BE",
+    "PU"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -10581.02
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.0455
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB BePu-16Hua.tdb (sha256 69b3a8a86d81e94343331396aea20d1e74a77436e26494f5db403e5179e24dff), phase BE13PU_D23. Ids, in value order: oqmd-10898. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "BePu-16Hua.tdb",
+   "path": "databases/sgte-binary/BePu-16Hua.tdb",
+   "sha256": "69b3a8a86d81e94343331396aea20d1e74a77436e26494f5db403e5179e24dff",
+   "phase": "BE13PU_D23"
+  },
+  "registry_phase": "phase:be-pu:be13pu-d23",
+  "mapping": [
+   {
+    "id": "oqmd-10898",
+    "compound": "Be13 Pu1",
+    "basis": "registry DFT name oqmd:oqmd-10898",
+    "space_group": "Fm-3c",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10989.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "on_hull_single|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "BE-PU",
+     "n": 37,
+     "sigma_robust_kJ": 10.989,
+     "bias_median_kJ_not_applied": 4.962,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.696,
+      12.85
+     ],
+     "n_full_stratum": 37
+    },
+    "weight_used": 0.0455,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.109664544642857,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-10898",
+    "compound": "Be13 Pu1"
+   }
+  ]
+ }
+}

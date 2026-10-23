@@ -1,0 +1,106 @@
+{
+ "components": [
+  "TE",
+  "TL"
+ ],
+ "phases": [
+  "TL2TE"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "TL",
+    "TE"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -42538.37
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.050135
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB TlTe-10Gie.tdb (sha256 57b4b9547de53b526a523a5489d844943b824c3bfbabe52d38e096d6c8f30359), phase TL2TE. Ids, in value order: mp-aaabhebp. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "TlTe-10Gie.tdb",
+   "path": "databases/sgte-binary/TlTe-10Gie.tdb",
+   "sha256": "57b4b9547de53b526a523a5489d844943b824c3bfbabe52d38e096d6c8f30359",
+   "phase": "TL2TE"
+  },
+  "registry_phase": "phase:te-tl:tl2te",
+  "mapping": [
+   {
+    "id": "mp-aaabhebp",
+    "compound": "Tl2Te",
+    "basis": "registry DFT name mp:mp-aaabhebp",
+    "space_group": "C2/c",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9973.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "TE-TL",
+     "n": 145,
+     "sigma_robust_kJ": 9.973,
+     "bias_median_kJ_not_applied": 1.305,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.797,
+      14.08
+     ],
+     "n_full_stratum": 145
+    },
+    "weight_used": 0.050135,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.44087916232323227,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaabhebp",
+    "compound": "Tl2Te"
+   }
+  ]
+ }
+}

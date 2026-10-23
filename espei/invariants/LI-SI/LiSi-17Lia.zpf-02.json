@@ -1,0 +1,96 @@
+{
+ "components": [
+  "LI",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LI12SI7",
+  "LISI"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   756.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LI12SI7",
+    [
+     "SI"
+    ],
+    [
+     0.368421
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LISI",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.4342105
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liang 2017, doi:10.1016/j.intermet.2017.02.024",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PXOGSMK4Z2",
+ "bibtex": "liang2017_b21878",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PXOGSMK4Z2",
+    "paper": "doi:10.1016/j.intermet.2017.02.024"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2017.02.024",
+   "doi:10.1149/2.089308jes"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2017.02.024",
+   "10.1149/2.089308jes"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LiSi-17Lia/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

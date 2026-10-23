@@ -1,0 +1,149 @@
+{
+ "components": [
+  "AG",
+  "ND"
+ ],
+ "phases": [
+  "AG2ND_ALPHA",
+  "AG2ND_BETA",
+  "AGND_B2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1083,
+   1218,
+   893
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.41000000000000003
+    ]
+   ],
+   [
+    "AG2ND_BETA",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AGND_B2",
+    [
+     "ND"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "AGND_B2",
+    [
+     "ND"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "AG2ND_ALPHA",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "AG2ND_BETA",
+    [
+     "ND"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mulokozi 1978, doi:10.1016/0022-5088(78)90247-3",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LGTIR34DK3 ORC-HWOKYTRIWN ORC-COBVSF4HUM",
+ "bibtex": "mulokozi1978_ecb934",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LGTIR34DK3",
+    "paper": "doi:10.1016/j.jallcom.2008.03.039",
+    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
+   },
+   {
+    "id": "ORC-HWOKYTRIWN",
+    "paper": "doi:10.1016/j.jallcom.2008.03.039",
+    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
+   },
+   {
+    "id": "ORC-COBVSF4HUM",
+    "paper": "doi:10.1016/j.jallcom.2008.03.039",
+    "measured_in": "doi:10.1016/0022-5088(78)90247-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(78)90247-3",
+   "doi:10.1016/j.jallcom.2008.03.039"
+  ],
+  "dois": [
+   "10.1016/0022-5088(78)90247-3",
+   "10.1016/j.jallcom.2008.03.039"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgNd-09Hua/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

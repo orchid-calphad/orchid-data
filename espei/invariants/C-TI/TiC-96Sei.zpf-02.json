@@ -1,0 +1,87 @@
+{
+ "components": [
+  "C",
+  "TI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1193
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "C"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1956, EC. Wagner, E.J. Bucur, and M.A. Steinberg, ''The Rate of Diffusion of Carbon in Alpha and Beta Titanium,\" Metall. Trans. ASM, 48, 742-761 (1956).",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7QR5RO4BKA",
+ "bibtex": "ec1956_31f06f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-7QR5RO4BKA",
+    "paper": "doi:10.1007/bf02648366",
+    "measured_in": "ref:e1a3f0173e6d2cb0"
+   }
+  ],
+  "papers": [
+   "ref:e1a3f0173e6d2cb0",
+   "doi:10.1007/bf02648366"
+  ],
+  "dois": [
+   "10.1007/bf02648366"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/TiC-96Sei/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

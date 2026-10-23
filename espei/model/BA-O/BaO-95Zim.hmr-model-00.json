@@ -1,0 +1,224 @@
+{
+ "components": [
+  "BA",
+  "O"
+ ],
+ "phases": [
+  "BAO",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_O": [
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.666667,
+   0.666667,
+   0.5,
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -276680.0,
+    -276680.0,
+    -250138.0,
+    -250138.0,
+    -211900.0,
+    -211900.0,
+    -60450.0,
+    -60450.0
+   ]
+  ]
+ ],
+ "reference": "Zimmermann 1995, doi:10.1016/0364-5916(95)00012-4",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6UBIDCFIOR.411216 ORC-6UBIDCFIOR.411216 ORC-ZTEM7HIHVT.1cef31 ORC-ZTEM7HIHVT.1cef31 ORC-FZDHSR2W56.243809 ORC-FZDHSR2W56.243809 ORC-TSAWQE6B7D.67270d ORC-TSAWQE6B7D.67270d",
+ "reference_states": {
+  "BA": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "O": {
+   "phase": "1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "BaO-95Zim.tdb",
+   "path": "databases/sgte-binary/BaO-95Zim.tdb",
+   "sha256": "a0f7658f38a4a7d7eb4fba12550e7fb56477c73cbf19cc89076a0a1247457773",
+   "catalog_entry": {
+    "name": "BaO-95Zim.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-0364-5916-95-00012-4",
+   "doi": "10.1016/0364-5916(95)00012-4",
+   "citation": {
+    "authors": "see doi",
+    "title": "E. Zimmermann, K. Hack, D. Neuschutz, Calphad, 19, 119-27(1995).",
+    "year": "1995"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "zimmermann1995_ba4352",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-6UBIDCFIOR.411216",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00012-4",
+    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-6UBIDCFIOR.411216",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00012-4",
+    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-ZTEM7HIHVT.1cef31",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00012-4",
+    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-ZTEM7HIHVT.1cef31",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00012-4",
+    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-FZDHSR2W56.243809",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00012-4",
+    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-FZDHSR2W56.243809",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00012-4",
+    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-TSAWQE6B7D.67270d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00012-4",
+    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-TSAWQE6B7D.67270d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(95)00012-4",
+    "measured_in": "doi:10.1016/0364-5916(95)00012-4",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0364-5916(95)00012-4"
+  ],
+  "dois": [
+   "10.1016/0364-5916(95)00012-4"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/BaO-95Zim/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

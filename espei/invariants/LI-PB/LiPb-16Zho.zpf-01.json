@@ -1,0 +1,88 @@
+{
+ "components": [
+  "LI",
+  "PB"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIPB_B2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   504
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.837
+    ]
+   ],
+   [
+    "LIPB_B2",
+    [
+     "PB"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     0.977
+    ]
+   ]
+  ]
+ ],
+ "reference": "doi:10.1515/ijmr-1927-191-1239",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-37Y34KKVD2",
+ "bibtex": "czochralskind_dbb865",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-37Y34KKVD2",
+    "paper": "doi:10.1016/j.jnucmat.2016.04.061",
+    "measured_in": "doi:10.1515/ijmr-1927-191-1239"
+   }
+  ],
+  "papers": [
+   "doi:10.1515/ijmr-1927-191-1239",
+   "doi:10.1016/j.jnucmat.2016.04.061"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2016.04.061",
+   "10.1515/ijmr-1927-191-1239"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LiPb-16Zho/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

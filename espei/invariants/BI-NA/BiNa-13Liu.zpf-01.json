@@ -1,0 +1,198 @@
+{
+ "components": [
+  "BI",
+  "NA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "BINA3_D018",
+  "BINA_L10",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   491,
+   718,
+   1048,
+   370
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BINA_L10",
+    [
+     "NA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.469
+    ]
+   ],
+   [
+    "BINA3_D018",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BINA_L10",
+    [
+     "NA"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BINA3_D018",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BINA3_D018",
+    [
+     "NA"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "NA"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mathewson 1906, doi:10.1002/zaac.19060500118",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GNV72U5O3Z ORC-VOW35PW5PX ORC-5I3UNRRYGL ORC-NTFMYECH55",
+ "bibtex": "mathewson1906_724eee",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GNV72U5O3Z",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "measured_in": "doi:10.1002/zaac.19060500118"
+   },
+   {
+    "id": "ORC-VOW35PW5PX",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "measured_in": "doi:10.1002/zaac.19060500118"
+   },
+   {
+    "id": "ORC-5I3UNRRYGL",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "measured_in": "doi:10.1002/zaac.19060500118"
+   },
+   {
+    "id": "ORC-NTFMYECH55",
+    "paper": "doi:10.1016/j.tca.2013.01.029",
+    "measured_in": "doi:10.1002/zaac.19060500118"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/zaac.19060500118",
+   "doi:10.1016/j.tca.2013.01.029"
+  ],
+  "dois": [
+   "10.1002/zaac.19060500118",
+   "10.1016/j.tca.2013.01.029"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiNa-13Liu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

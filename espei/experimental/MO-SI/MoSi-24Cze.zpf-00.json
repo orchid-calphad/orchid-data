@@ -1,0 +1,170 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "MO3SI_A15",
+  "MO5SI3_D8M"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1573.15,
+   1573.15,
+   1573.15,
+   1573.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.018
+    ]
+   ],
+   [
+    "MO3SI_A15",
+    [
+     "SI"
+    ],
+    [
+     0.241
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.015
+    ]
+   ],
+   [
+    "MO3SI_A15",
+    [
+     "SI"
+    ],
+    [
+     0.227
+    ]
+   ]
+  ],
+  [
+   [
+    "MO3SI_A15",
+    [
+     "SI"
+    ],
+    [
+     0.231
+    ]
+   ],
+   [
+    "MO5SI3_D8M",
+    [
+     "SI"
+    ],
+    [
+     0.371
+    ]
+   ]
+  ],
+  [
+   [
+    "MO3SI_A15",
+    [
+     "SI"
+    ],
+    [
+     0.228
+    ]
+   ],
+   [
+    "MO5SI3_D8M",
+    [
+     "SI"
+    ],
+    [
+     0.37
+    ]
+   ]
+  ]
+ ],
+ "reference": "Czerny 2024, doi:10.1002/adem.202302085",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EQ3TF5DIYD ORC-KJ4JCPAWO2 ORC-YMER3IEDPL ORC-DGFPBOAKG6",
+ "bibtex": "czerny2024_d23903",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EQ3TF5DIYD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "doi:10.1002/adem.202302085"
+   },
+   {
+    "id": "ORC-KJ4JCPAWO2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "doi:10.1002/adem.202302085"
+   },
+   {
+    "id": "ORC-YMER3IEDPL",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "doi:10.1002/adem.202302085"
+   },
+   {
+    "id": "ORC-DGFPBOAKG6",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1002/adem.202302085",
+    "measured_in": "doi:10.1002/adem.202302085"
+   }
+  ],
+  "papers": [
+   "doi:10.1002/adem.202302085"
+  ],
+  "dois": [
+   "10.1002/adem.202302085"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MoSi-24Cze/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "components": [
+  "SN",
+  "Y"
+ ],
+ "phases": [
+  "BCT_A5",
+  "LIQUID",
+  "SN2Y_C49",
+  "SN3Y",
+  "SN5Y2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   503,
+   703,
+   798
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.005
+    ]
+   ],
+   [
+    "SN3Y",
+    [
+     "Y"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.016
+    ]
+   ],
+   [
+    "SN5Y2",
+    [
+     "Y"
+    ],
+    [
+     0.2857142857142857
+    ]
+   ],
+   [
+    "SN3Y",
+    [
+     "Y"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.022
+    ]
+   ],
+   [
+    "SN2Y_C49",
+    [
+     "Y"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "SN5Y2",
+    [
+     "Y"
+    ],
+    [
+     0.2857142857142857
+    ]
+   ]
+  ]
+ ],
+ "reference": "Palenzona 1993, doi:10.1016/0925-8388(93)90859-l",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DI44KTG44S ORC-K5I4YTNKTU ORC-LJXRKWGAZL",
+ "bibtex": "palenzona1993_959019",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DI44KTG44S",
+    "paper": "doi:10.1016/s1002-0721(14)60121-6",
+    "measured_in": "doi:10.1016/0925-8388(93)90859-l"
+   },
+   {
+    "id": "ORC-K5I4YTNKTU",
+    "paper": "doi:10.1016/s1002-0721(14)60121-6",
+    "measured_in": "doi:10.1016/0925-8388(93)90859-l"
+   },
+   {
+    "id": "ORC-LJXRKWGAZL",
+    "paper": "doi:10.1016/s1002-0721(14)60121-6",
+    "measured_in": "doi:10.1016/0925-8388(93)90859-l",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0925-8388(93)90859-l",
+   "doi:10.1016/s1002-0721(14)60121-6"
+  ],
+  "dois": [
+   "10.1016/0925-8388(93)90859-l",
+   "10.1016/s1002-0721(14)60121-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SnY-14Lu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

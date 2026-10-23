@@ -1,0 +1,94 @@
+{
+ "components": [
+  "GE",
+  "RU"
+ ],
+ "phases": [
+  "BCC_A2",
+  "GERU",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1733.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "RU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GERU",
+    [
+     "RU"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "RU"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RU"
+    ],
+    [
+     0.45
+    ]
+   ]
+  ]
+ ],
+ "reference": "Long 2009, doi:10.1016/j.jallcom.2009.01.079",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZIRHR3AD5A",
+ "bibtex": "long2009_cec8d5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZIRHR3AD5A",
+    "paper": "doi:10.1016/j.jallcom.2009.01.079"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.01.079"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.01.079"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeRu-09Lon/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

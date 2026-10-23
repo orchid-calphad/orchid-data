@@ -1,0 +1,89 @@
+{
+ "components": [
+  "SI",
+  "V"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1681.15,
+   1683.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.07
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.03
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhang 2008, doi:10.1016/j.calphad.2007.12.005",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "single_reader",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Y6VNBZ5YVJ ORC-QBD7WXU7XC",
+ "bibtex": "zhang2008_2cfaa1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Y6VNBZ5YVJ",
+    "reader_agreement": "single_reader",
+    "paper": "doi:10.1016/j.calphad.2007.12.005",
+    "measured_in": "doi:10.1016/j.calphad.2007.12.005"
+   },
+   {
+    "id": "ORC-QBD7WXU7XC",
+    "reader_agreement": "single_reader",
+    "paper": "doi:10.1016/j.calphad.2007.12.005",
+    "measured_in": "doi:10.1016/j.calphad.2007.12.005"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2007.12.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2007.12.005"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SiV-08Zha/zpf-06.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

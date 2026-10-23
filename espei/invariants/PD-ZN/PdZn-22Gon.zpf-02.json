@@ -1,0 +1,85 @@
+{
+ "components": [
+  "PD",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID",
+  "PD2ZN9_D82",
+  "PDZN10"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   703.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.98
+    ]
+   ],
+   [
+    "PD2ZN9_D82",
+    [
+     "ZN"
+    ],
+    [
+     0.85
+    ]
+   ],
+   [
+    "PDZN10",
+    [
+     "ZN"
+    ],
+    [
+     0.92
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gong 2022, doi:10.1016/j.calphad.2022.102491",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4CVKFVGAAS",
+ "bibtex": "gong2022_c08556",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4CVKFVGAAS",
+    "paper": "doi:10.1016/j.calphad.2022.102491"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2022.102491"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2022.102491"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/PdZn-22Gon/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AG",
+  "YB"
+ ],
+ "phases": [
+  "AG9YB2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   968
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "YB"
+    ],
+    [
+     0.13
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "YB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AG9YB2",
+    [
+     "YB"
+    ],
+    [
+     0.18181818181818182
+    ]
+   ]
+  ]
+ ],
+ "reference": "Gschneidner 1970, doi:10.1007/bf02642796",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-V6I3H7HLKG",
+ "bibtex": "gschneidner1970_18f05e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-V6I3H7HLKG",
+    "paper": "doi:10.1016/j.jallcom.2006.11.022",
+    "measured_in": "doi:10.1007/bf02642796"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02642796",
+   "doi:10.1016/j.jallcom.2006.11.022"
+  ],
+  "dois": [
+   "10.1007/bf02642796",
+   "10.1016/j.jallcom.2006.11.022"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgYb-08Zha/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

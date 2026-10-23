@@ -1,0 +1,614 @@
+{
+ "components": [
+  "ND",
+  "ZN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "DHCP",
+  "HCP_A3",
+  "LIQUID",
+  "ND13ZN58",
+  "ND2ZN17",
+  "ND3ZN11",
+  "ND3ZN22",
+  "NDZN11_HT",
+  "NDZN11_LT",
+  "NDZN2",
+  "NDZN3",
+  "NDZN_B2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   903.0,
+   895.0,
+   1196.0,
+   1141.0,
+   1198.0,
+   1127.0,
+   1122.0,
+   1143.0,
+   1175.0,
+   1223.0,
+   1254.0,
+   1053.0,
+   813.0,
+   693.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.0023
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NDZN_B2",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NDZN_B2",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NDZN_B2",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.00575
+    ]
+   ],
+   [
+    "NDZN_B2",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "NDZN2",
+    [
+     "ZN"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "NDZN2",
+    [
+     "ZN"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.00737
+    ]
+   ],
+   [
+    "NDZN2",
+    [
+     "ZN"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "ND3ZN11",
+    [
+     "ZN"
+    ],
+    [
+     0.785714
+    ]
+   ]
+  ],
+  [
+   [
+    "NDZN2",
+    [
+     "ZN"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "ND3ZN11",
+    [
+     "ZN"
+    ],
+    [
+     0.785714
+    ]
+   ],
+   [
+    "NDZN3",
+    [
+     "ZN"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.734127
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ND13ZN58",
+    [
+     "ZN"
+    ],
+    [
+     0.816901
+    ]
+   ],
+   [
+    "ND3ZN11",
+    [
+     "ZN"
+    ],
+    [
+     0.785714
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8013075000000001
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ND3ZN22",
+    [
+     "ZN"
+    ],
+    [
+     0.88
+    ]
+   ],
+   [
+    "ND13ZN58",
+    [
+     "ZN"
+    ],
+    [
+     0.816901
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8484505
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ND2ZN17",
+    [
+     "ZN"
+    ],
+    [
+     0.894737
+    ]
+   ],
+   [
+    "ND3ZN22",
+    [
+     "ZN"
+    ],
+    [
+     0.88
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8873685
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.894737
+    ]
+   ],
+   [
+    "ND2ZN17",
+    [
+     "ZN"
+    ],
+    [
+     0.894737
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ND2ZN17",
+    [
+     "ZN"
+    ],
+    [
+     0.894737
+    ]
+   ],
+   [
+    "NDZN11_HT",
+    [
+     "ZN"
+    ],
+    [
+     0.916667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.905702
+    ]
+   ]
+  ],
+  [
+   [
+    "NDZN11_HT",
+    [
+     "ZN"
+    ],
+    [
+     0.916667
+    ]
+   ],
+   [
+    "NDZN11_LT",
+    [
+     "ZN"
+    ],
+    [
+     0.916667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "NDZN11_LT",
+    [
+     "ZN"
+    ],
+    [
+     0.916667
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Mason 1972, doi:10.1007/bf02652852",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FQA2FHLZ6F ORC-ZYKETIRH7T ORC-ZNS4HCYR53 ORC-MJFPZIVIQR ORC-OTBFQQ6KPK ORC-ZEYDBTUY3O ORC-WHURHGS24W ORC-VSMRRA2BYR ORC-W6BH4FZULU ORC-2X76UB4MIC ORC-CO4KVWHIXL ORC-3SW7WMZNBN ORC-C7SZSMZXAG ORC-7WTV5G6IHS",
+ "bibtex": "mason1972_b7290d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FQA2FHLZ6F",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-ZYKETIRH7T",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-ZNS4HCYR53",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-MJFPZIVIQR",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-OTBFQQ6KPK",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-ZEYDBTUY3O",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-WHURHGS24W",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-VSMRRA2BYR",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-W6BH4FZULU",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-2X76UB4MIC",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-CO4KVWHIXL",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-3SW7WMZNBN",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-C7SZSMZXAG",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   },
+   {
+    "id": "ORC-7WTV5G6IHS",
+    "paper": "doi:10.1016/j.jallcom.2007.03.134",
+    "measured_in": "doi:10.1007/bf02652852"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02652852",
+   "doi:10.1016/j.jallcom.2007.03.134"
+  ],
+  "dois": [
+   "10.1007/bf02652852",
+   "10.1016/j.jallcom.2007.03.134"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NdZn-08Qi/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

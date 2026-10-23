@@ -1,0 +1,242 @@
+{
+ "components": [
+  "FE",
+  "TM"
+ ],
+ "phases": [
+  "FCC_A1",
+  "FE17TM2",
+  "FE23TM6_D8A",
+  "FE2TM_C15",
+  "FE3TM",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1573.15,
+   1528.15,
+   1543.15,
+   1573.15,
+   1210.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.125
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE17TM2",
+    [
+     "TM"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.16
+    ]
+   ],
+   [
+    "FE17TM2",
+    [
+     "TM"
+    ],
+    [
+     0.10526315789473684
+    ]
+   ],
+   [
+    "FE23TM6_D8A",
+    [
+     "TM"
+    ],
+    [
+     0.206
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.187
+    ]
+   ],
+   [
+    "FE3TM",
+    [
+     "TM"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FE23TM6_D8A",
+    [
+     "TM"
+    ],
+    [
+     0.206
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.333
+    ]
+   ],
+   [
+    "FE2TM_C15",
+    [
+     "TM"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TM"
+    ],
+    [
+     0.73
+    ]
+   ],
+   [
+    "FE2TM_C15",
+    [
+     "TM"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1993, H. Okamoto, Phase diagrams of binary iron alloys, in: H. Okamoto (Ed.), Materials Information Society, Materials Park, Ohio, 1993.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QXI5UHKJ7Z ORC-JXGYT5YQ5N ORC-JJNSFXAIJM ORC-K7VPHZWOX5 ORC-Q3WZOLBHYC",
+ "bibtex": "okamoto1993_6db1b4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QXI5UHKJ7Z",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b"
+   },
+   {
+    "id": "ORC-JXGYT5YQ5N",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b"
+   },
+   {
+    "id": "ORC-JJNSFXAIJM",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b"
+   },
+   {
+    "id": "ORC-K7VPHZWOX5",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b"
+   },
+   {
+    "id": "ORC-Q3WZOLBHYC",
+    "paper": "doi:10.1016/j.calphad.2014.01.003",
+    "measured_in": "ref:389704579c2cf19b",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:389704579c2cf19b",
+   "doi:10.1016/j.calphad.2014.01.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.01.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTm-14Kar/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

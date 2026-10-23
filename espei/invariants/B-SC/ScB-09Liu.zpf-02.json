@@ -1,0 +1,92 @@
+{
+ "components": [
+  "B",
+  "SC"
+ ],
+ "phases": [
+  "LIQUID",
+  "SCB2_C32"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2523.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "SCB2_C32",
+    [
+     "B"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "B"
+    ],
+    [
+     0.6668333335000001
+    ]
+   ]
+  ]
+ ],
+ "reference": "1965, G.V. Samsonov, High Temperature Compounds of Rare-Earth Metals with Nonmetals, Consultants Bureau, New York, 1965, pp. 1–100.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FMJ4W6NLIT",
+ "bibtex": "samsonov1965_f20669",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FMJ4W6NLIT",
+    "paper": "doi:10.1016/j.jallcom.2008.02.018",
+    "measured_in": "ref:9f4ca89f4971201c",
+    "caveats": [
+     "judge_adjudicated"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:9f4ca89f4971201c",
+   "doi:10.1016/j.jallcom.2008.02.018"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.02.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ScB-09Liu/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 50.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

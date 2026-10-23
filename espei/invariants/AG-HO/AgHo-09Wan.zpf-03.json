@@ -1,0 +1,91 @@
+{
+ "components": [
+  "AG",
+  "HO"
+ ],
+ "phases": [
+  "AG51HO14",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1038.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "HO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AG51HO14",
+    [
+     "HO"
+    ],
+    [
+     0.222
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "HO"
+    ],
+    [
+     0.016
+    ]
+   ]
+  ]
+ ],
+ "reference": "1965, W.J. Wunderlin, B.J. Beaudry, A.H. Daane, Trans. Met. Soc. AIME 223 (1965) 436.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4LFFWTCMPI",
+ "bibtex": "wunderlin1965_6f751c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4LFFWTCMPI",
+    "paper": "doi:10.1016/j.jallcom.2009.04.037",
+    "measured_in": "ref:5bab588306d7dee0",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:5bab588306d7dee0",
+   "doi:10.1016/j.jallcom.2009.04.037"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.04.037"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgHo-09Wan/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

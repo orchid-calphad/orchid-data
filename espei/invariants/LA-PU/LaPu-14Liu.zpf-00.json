@@ -1,0 +1,114 @@
+{
+ "components": [
+  "LA",
+  "PU"
+ ],
+ "phases": [
+  "FCC_A1",
+  "GAMMA_PU",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1119.15,
+   1106.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     0.23
+    ]
+   ],
+   [
+    "GAMMA_PU",
+    [
+     "PU"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "GAMMA_PU",
+    [
+     "PU"
+    ],
+    [
+     0.18
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PU"
+    ],
+    [
+     0.16
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liu 2014, doi:10.1016/j.jnucmat.2014.07.001",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BJQJ6J7T3R ORC-SWSB5IGWGD",
+ "bibtex": "liu2014_a06549",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BJQJ6J7T3R",
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001"
+   },
+   {
+    "id": "ORC-SWSB5IGWGD",
+    "paper": "doi:10.1016/j.jnucmat.2014.07.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2014.07.001"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2014.07.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LaPu-14Liu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

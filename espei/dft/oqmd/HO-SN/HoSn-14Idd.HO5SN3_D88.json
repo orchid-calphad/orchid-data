@@ -1,0 +1,107 @@
+{
+ "components": [
+  "HO",
+  "SN"
+ ],
+ "phases": [
+  "HO5SN3_D88"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   5.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "HO",
+    "SN"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -72627.84
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.0455
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB HoSn-14Idd.tdb (sha256 41e6877408a408d40e75d925a0ed2e20731707b02b3cc6aabf3cf9bb6457243b), phase HO5SN3_D88. Ids, in value order: oqmd-17478. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "HoSn-14Idd.tdb",
+   "path": "databases/sgte-binary/HoSn-14Idd.tdb",
+   "sha256": "41e6877408a408d40e75d925a0ed2e20731707b02b3cc6aabf3cf9bb6457243b",
+   "phase": "HO5SN3_D88"
+  },
+  "registry_phase": "phase:ho-sn:ho5sn3-d88",
+  "mapping": [
+   {
+    "id": "oqmd-17478",
+    "compound": "Ho5 Sn3",
+    "basis": "registry DFT name oqmd:oqmd-17478",
+    "space_group": "P63/mcm",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 10989.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "on_hull_single|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "HO-SN",
+     "n": 37,
+     "sigma_robust_kJ": 10.989,
+     "bias_median_kJ_not_applied": 4.962,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.696,
+      12.85
+     ],
+     "n_full_stratum": 37
+    },
+    "weight_used": 0.0455,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.752734518402533,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-17478",
+    "compound": "Ho5 Sn3"
+   }
+  ]
+ }
+}

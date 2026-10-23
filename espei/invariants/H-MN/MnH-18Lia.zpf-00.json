@@ -1,0 +1,211 @@
+{
+ "components": [
+  "H",
+  "MN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CBCC_A12",
+  "CUB_A13",
+  "FCC_A1",
+  "GAS",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1489.15,
+   1416.15,
+   1330.15,
+   935.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "H"
+    ],
+    [
+     0.062000000000000006
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "H"
+    ],
+    [
+     0.042
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "H"
+    ],
+    [
+     0.033
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "H"
+    ],
+    [
+     0.046
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "H"
+    ],
+    [
+     0.040999999999999995
+    ]
+   ],
+   [
+    "CUB_A13",
+    [
+     "H"
+    ],
+    [
+     0.034
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "CUB_A13",
+    [
+     "H"
+    ],
+    [
+     0.027999999999999997
+    ]
+   ],
+   [
+    "CBCC_A12",
+    [
+     "H"
+    ],
+    [
+     0.018000000000000002
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "H"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1982, H.E. Serdyuk and B.I. Shapovalov, The Constitution Diagram of the Manganese-Hydride System, lzv. EU.Z Chernaya Metall., 1982, 8, p 70-74",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3XBXHJA3ZZ ORC-BXQGGNX5W7 ORC-ANZ7FXN4YG ORC-HZ7ILJYSMD",
+ "bibtex": "serdyuk1982_1ed9ae",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3XBXHJA3ZZ",
+    "paper": "doi:10.1007/s11669-018-0622-7",
+    "measured_in": "ref:8dbe9615a890288c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-BXQGGNX5W7",
+    "paper": "doi:10.1007/s11669-018-0622-7",
+    "measured_in": "ref:8dbe9615a890288c"
+   },
+   {
+    "id": "ORC-ANZ7FXN4YG",
+    "paper": "doi:10.1007/s11669-018-0622-7",
+    "measured_in": "ref:8dbe9615a890288c"
+   },
+   {
+    "id": "ORC-HZ7ILJYSMD",
+    "paper": "doi:10.1007/s11669-018-0622-7",
+    "measured_in": "ref:8dbe9615a890288c"
+   }
+  ],
+  "papers": [
+   "ref:8dbe9615a890288c",
+   "doi:10.1007/s11669-018-0622-7"
+  ],
+  "dois": [
+   "10.1007/s11669-018-0622-7"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnH-18Lia/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

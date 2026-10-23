@@ -1,0 +1,106 @@
+{
+ "components": [
+  "GE",
+  "TI"
+ ],
+ "phases": [
+  "GE2TI_C54"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "TI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -40414.65
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.051964
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB GeTi-23Zob.tdb (sha256 ecd81bb074f7659acc8f3a8e5fd9841fec8abeb4da6accb63d20ba6fa8be4037), phase GE2TI_C54. Ids, in value order: mp-aaabgibx. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "GeTi-23Zob.tdb",
+   "path": "databases/sgte-binary/GeTi-23Zob.tdb",
+   "sha256": "ecd81bb074f7659acc8f3a8e5fd9841fec8abeb4da6accb63d20ba6fa8be4037",
+   "phase": "GE2TI_C54"
+  },
+  "registry_phase": "phase:ge-ti:ge2ti-c54",
+  "mapping": [
+   {
+    "id": "mp-aaabgibx",
+    "compound": "TiGe2",
+    "basis": "registry DFT name mp:mp-aaabgibx",
+    "space_group": "Fddd",
+    "match_quality": "on_hull_single"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 9622.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "on_hull_single|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "GE-TI",
+     "n": 257,
+     "sigma_robust_kJ": 9.622,
+     "bias_median_kJ_not_applied": 5.202,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      8.274,
+      10.688
+     ],
+     "n_full_stratum": 259
+    },
+    "weight_used": 0.051964,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.41886831777777783,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaabgibx",
+    "compound": "TiGe2"
+   }
+  ]
+ }
+}

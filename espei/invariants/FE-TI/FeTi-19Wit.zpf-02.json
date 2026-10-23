@@ -1,0 +1,124 @@
+{
+ "components": [
+  "FE",
+  "TI"
+ ],
+ "phases": [
+  "A2_BCC",
+  "B2_BCC",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1353.0,
+   848.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "A2_BCC",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "A2_BCC",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2019, doi:10.1016/j.jallcom.2019.05.341",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-B3CQTTJNC3 ORC-AORNKM5LCI",
+ "bibtex": "witusiewicz2019_f3538e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-B3CQTTJNC3",
+    "paper": "doi:10.1016/j.jallcom.2019.05.341"
+   },
+   {
+    "id": "ORC-AORNKM5LCI",
+    "paper": "doi:10.1016/j.jallcom.2019.05.341"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2019.05.341"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2019.05.341"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTi-19Wit/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

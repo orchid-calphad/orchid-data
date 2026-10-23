@@ -1,0 +1,88 @@
+{
+ "components": [
+  "N",
+  "SI"
+ ],
+ "phases": [
+  "GAS",
+  "LIQUID",
+  "SI3N4"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2150
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GAS",
+    [
+     "N"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SI3N4",
+    [
+     "N"
+    ],
+    [
+     0.5714285714285714
+    ]
+   ]
+  ]
+ ],
+ "reference": "Dörner 1981, doi:10.1007/bf00542737",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-26V5FOWT2X",
+ "bibtex": "dorner1981_3bbda6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-26V5FOWT2X",
+    "paper": "doi:10.1016/j.calphad.2003.12.005",
+    "measured_in": "doi:10.1007/bf00542737"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf00542737",
+   "doi:10.1016/j.calphad.2003.12.005"
+  ],
+  "dois": [
+   "10.1007/bf00542737",
+   "10.1016/j.calphad.2003.12.005"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiN-03Ma-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

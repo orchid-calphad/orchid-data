@@ -1,0 +1,237 @@
+{
+ "components": [
+  "SR",
+  "TE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "SR2TE3",
+  "SRTE2",
+  "SRTE_B1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1033,
+   1193,
+   1123,
+   722,
+   1763
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SRTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.9820000000000001
+    ]
+   ],
+   [
+    "SRTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "SR2TE3",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.988
+    ]
+   ],
+   [
+    "SR2TE3",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "SRTE2",
+    [
+     "TE"
+    ],
+    [
+     0.6659999999999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SRTE2",
+    [
+     "TE"
+    ],
+    [
+     0.6659999999999999
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "SRTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1975, Y.B. Lyskova, and A. Vakhobov, Phase Diagrams of Sr-Se and Sr-Te Systems, Izvestiya Akademii Nauk SSSR, Neorg. Mater., 1975, 11, p 361–362.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3UW5R2CU5H ORC-CWT5Z2JQZU ORC-5SRN4PLCQS ORC-OWZS5ZBQPW ORC-RC3O4W4YLK",
+ "bibtex": "lyskova1975_74c5ef",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3UW5R2CU5H",
+    "paper": "doi:10.1007/s11669-022-00950-z",
+    "measured_in": "ref:ea02a8a8da40633c"
+   },
+   {
+    "id": "ORC-CWT5Z2JQZU",
+    "paper": "doi:10.1007/s11669-022-00950-z",
+    "measured_in": "ref:ea02a8a8da40633c"
+   },
+   {
+    "id": "ORC-5SRN4PLCQS",
+    "paper": "doi:10.1007/s11669-022-00950-z",
+    "measured_in": "ref:ea02a8a8da40633c"
+   },
+   {
+    "id": "ORC-OWZS5ZBQPW",
+    "paper": "doi:10.1007/s11669-022-00950-z",
+    "measured_in": "ref:ea02a8a8da40633c"
+   },
+   {
+    "id": "ORC-RC3O4W4YLK",
+    "paper": "doi:10.1007/s11669-022-00950-z",
+    "measured_in": "ref:ea02a8a8da40633c"
+   }
+  ],
+  "papers": [
+   "ref:ea02a8a8da40633c",
+   "doi:10.1007/s11669-022-00950-z"
+  ],
+  "dois": [
+   "10.1007/s11669-022-00950-z"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SrTe-22Yu/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

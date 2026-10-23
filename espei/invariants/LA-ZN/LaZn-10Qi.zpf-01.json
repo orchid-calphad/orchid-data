@@ -1,0 +1,246 @@
+{
+ "components": [
+  "LA",
+  "ZN"
+ ],
+ "phases": [
+  "B2_BCC",
+  "LA2ZN17",
+  "LAZN2",
+  "LAZN4",
+  "LAZN5_D2D",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1033,
+   1128,
+   1055,
+   1145,
+   1247
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LAZN2",
+    [
+     "ZN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "LAZN2",
+    [
+     "ZN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LAZN2",
+    [
+     "ZN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "LAZN4",
+    [
+     "ZN"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.7333333335000001
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LAZN5_D2D",
+    [
+     "ZN"
+    ],
+    [
+     0.8333333333333334
+    ]
+   ],
+   [
+    "LAZN4",
+    [
+     "ZN"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.8166666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.8947368421052632
+    ]
+   ],
+   [
+    "LA2ZN17",
+    [
+     "ZN"
+    ],
+    [
+     0.8947368421052632
+    ]
+   ]
+  ]
+ ],
+ "reference": "1941, L. Rolla, A. Iandelli, Ric. Sci. 20 (1941) 1216–1226.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-O3SHZBHBEZ ORC-6ZPBSNSEFX ORC-SICHBQDKZI ORC-CMFND3Q5KC ORC-SPCNIHPKID",
+ "bibtex": "rolla1941_1d2c99",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-O3SHZBHBEZ",
+    "paper": "doi:10.1016/j.jallcom.2010.03.062",
+    "measured_in": "ref:c8111b6b7af34c15"
+   },
+   {
+    "id": "ORC-6ZPBSNSEFX",
+    "paper": "doi:10.1016/j.jallcom.2010.03.062",
+    "measured_in": "ref:c8111b6b7af34c15"
+   },
+   {
+    "id": "ORC-SICHBQDKZI",
+    "paper": "doi:10.1016/j.jallcom.2010.03.062",
+    "measured_in": "ref:c8111b6b7af34c15"
+   },
+   {
+    "id": "ORC-CMFND3Q5KC",
+    "paper": "doi:10.1016/j.jallcom.2010.03.062",
+    "measured_in": "ref:c8111b6b7af34c15"
+   },
+   {
+    "id": "ORC-SPCNIHPKID",
+    "paper": "doi:10.1016/j.jallcom.2010.03.062",
+    "measured_in": "ref:c8111b6b7af34c15"
+   }
+  ],
+  "papers": [
+   "ref:c8111b6b7af34c15",
+   "doi:10.1016/j.jallcom.2010.03.062"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2010.03.062"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LaZn-10Qi/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

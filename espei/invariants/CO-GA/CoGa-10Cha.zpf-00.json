@@ -1,0 +1,123 @@
+{
+ "components": [
+  "CO",
+  "GA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1480.0,
+   1111.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.3
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GA"
+    ],
+    [
+     0.13
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GA"
+    ],
+    [
+     0.275
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GA"
+    ],
+    [
+     0.65
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chari 2010, doi:10.1016/j.calphad.2010.02.004",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-D6WNBGBJOB ORC-UCZO7ZVBCL",
+ "bibtex": "chari2010_125166",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-D6WNBGBJOB",
+    "paper": "doi:10.1016/j.calphad.2010.02.004"
+   },
+   {
+    "id": "ORC-UCZO7ZVBCL",
+    "paper": "doi:10.1016/j.calphad.2010.02.004"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.02.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2010.02.004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoGa-10Cha/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

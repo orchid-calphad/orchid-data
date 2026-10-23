@@ -1,0 +1,97 @@
+{
+ "components": [
+  "GE",
+  "LI"
+ ],
+ "phases": [
+  "GE3LI7",
+  "GE4LI9",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   801.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "LI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GE4LI9",
+    [
+     "LI"
+    ],
+    [
+     0.692308
+    ]
+   ],
+   [
+    "GE3LI7",
+    [
+     "LI"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LI"
+    ],
+    [
+     0.6961539999999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "Pell 1957, doi:10.1016/0022-3697(57)90050-1",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IH4YUQ3AYT",
+ "bibtex": "pell1957_a7e422",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-IH4YUQ3AYT",
+    "paper": "doi:10.1016/j.jct.2022.106883",
+    "measured_in": "doi:10.1016/0022-3697(57)90050-1"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-3697(57)90050-1",
+   "doi:10.1016/j.jct.2022.106883"
+  ],
+  "dois": [
+   "10.1016/0022-3697(57)90050-1",
+   "10.1016/j.jct.2022.106883"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeLi-22Gie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

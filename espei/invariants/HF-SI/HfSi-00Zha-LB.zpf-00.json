@@ -1,0 +1,97 @@
+{
+ "components": [
+  "HF",
+  "SI"
+ ],
+ "phases": [
+  "HF2SI_C16",
+  "HF3SI2_D5A",
+  "HF5SI3_D88"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2198.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "HF5SI3_D88",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "HF2SI_C16",
+    [
+     "SI"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "HF3SI2_D5A",
+    [
+     "SI"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.36944444433333334
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhao 2000, doi:10.1361/105497100770340408",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CC2JCK7FEQ",
+ "bibtex": "zhao2000_c2b107",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CC2JCK7FEQ",
+    "paper": "doi:10.1361/105497100770340408",
+    "measured_in": "doi:10.1361/105497100770340408"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497100770340408"
+  ],
+  "dois": [
+   "10.1361/105497100770340408"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HfSi-00Zha-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 25.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

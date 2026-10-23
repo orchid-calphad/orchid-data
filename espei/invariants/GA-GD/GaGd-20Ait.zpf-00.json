@@ -1,0 +1,252 @@
+{
+ "components": [
+  "GA",
+  "GD"
+ ],
+ "phases": [
+  "BCC_A2",
+  "GA2GD3",
+  "GA2GD_C32",
+  "GA3GD5",
+  "GAGD_B33",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1468.15,
+   1383.15,
+   1363.15,
+   1123.15,
+   1508.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     0.55
+    ]
+   ],
+   [
+    "GA2GD_C32",
+    [
+     "GD"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "GAGD_B33",
+    [
+     "GD"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     0.615
+    ]
+   ],
+   [
+    "GAGD_B33",
+    [
+     "GD"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "GA2GD3",
+    [
+     "GD"
+    ],
+    [
+     0.6
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     0.64
+    ]
+   ],
+   [
+    "GA2GD3",
+    [
+     "GD"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "GA3GD5",
+    [
+     "GD"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "GA3GD5",
+    [
+     "GD"
+    ],
+    [
+     0.625
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     0.9500000000000001
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Palenzona 1990, doi:10.1007/bf02841585",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NLHBXJTWCI ORC-AW76HODC5N ORC-X6DFC5RNXF ORC-ODNYSNIX5E ORC-7HMX6J72KM",
+ "bibtex": "palenzona1990_d41aa3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NLHBXJTWCI",
+    "paper": "doi:10.1016/j.matpr.2019.07.598",
+    "measured_in": "doi:10.1007/bf02841585"
+   },
+   {
+    "id": "ORC-AW76HODC5N",
+    "paper": "doi:10.1016/j.matpr.2019.07.598",
+    "measured_in": "doi:10.1007/bf02841585"
+   },
+   {
+    "id": "ORC-X6DFC5RNXF",
+    "paper": "doi:10.1016/j.matpr.2019.07.598",
+    "measured_in": "doi:10.1007/bf02841585",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-ODNYSNIX5E",
+    "paper": "doi:10.1016/j.matpr.2019.07.598",
+    "measured_in": "doi:10.1007/bf02841585"
+   },
+   {
+    "id": "ORC-7HMX6J72KM",
+    "paper": "doi:10.1016/j.matpr.2019.07.598",
+    "measured_in": "doi:10.1007/bf02841585"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02841585",
+   "doi:10.1016/j.matpr.2019.07.598"
+  ],
+  "dois": [
+   "10.1007/bf02841585",
+   "10.1016/j.matpr.2019.07.598"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GaGd-20Ait/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

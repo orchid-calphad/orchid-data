@@ -1,0 +1,124 @@
+{
+ "components": [
+  "AL",
+  "SM"
+ ],
+ "phases": [
+  "AL2SM_C15",
+  "ALSM2_C37",
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1473.0,
+   1013.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SM"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "AL2SM_C15",
+    [
+     "SM"
+    ],
+    [
+     0.333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALSM2_C37",
+    [
+     "SM"
+    ],
+    [
+     0.667
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhou 2008, doi:10.1007/s11661-007-9445-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C6RGJSTBSO ORC-OA6PVAELQG",
+ "bibtex": "zhou2008_e5c464",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-C6RGJSTBSO",
+    "paper": "doi:10.1007/s11661-007-9445-6"
+   },
+   {
+    "id": "ORC-OA6PVAELQG",
+    "paper": "doi:10.1007/s11661-007-9445-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11661-007-9445-6"
+  ],
+  "dois": [
+   "10.1007/s11661-007-9445-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlSm-08Zho/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "components": [
+  "AL",
+  "FE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1440.0,
+  "X_FE": [
+   0.391
+  ]
+ },
+ "output": "CPM",
+ "values": [
+  [
+   [
+    42.7
+   ]
+  ]
+ ],
+ "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4NPK7P5GRQ",
+ "bibtex": "zienert2018_83e03a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4NPK7P5GRQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2018.01.316",
+    "measured_in": "doi:10.1016/j.jallcom.2018.01.316",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2018.01.316"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2018.01.316"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-09.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_CPM = 0.2 J/mol/K"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 0.2,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

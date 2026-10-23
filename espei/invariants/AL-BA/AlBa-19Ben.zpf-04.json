@@ -1,0 +1,158 @@
+{
+ "components": [
+  "AL",
+  "BA"
+ ],
+ "phases": [
+  "AL4BA_D13",
+  "AL5BA4",
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   924,
+   1370,
+   801
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     0.0045000000000000005
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "BA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4BA_D13",
+    [
+     "BA"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "AL4BA_D13",
+    [
+     "BA"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "BA"
+    ],
+    [
+     0.7000000000000001
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "BA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5BA4",
+    [
+     "BA"
+    ],
+    [
+     0.4444444444444444
+    ]
+   ]
+  ]
+ ],
+ "reference": "1953, M. Lida, System Al-Ba, Nippon Kinzoku Gakkaish, 1953, 17, p 632-634",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MXFIQIFIKK ORC-4LCPWSE6SQ ORC-2ACFU4AJLZ",
+ "bibtex": "lida1953_80d137",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MXFIQIFIKK",
+    "paper": "doi:10.1007/s11669-019-00714-2",
+    "measured_in": "ref:27cfab88411f49b0"
+   },
+   {
+    "id": "ORC-4LCPWSE6SQ",
+    "paper": "doi:10.1007/s11669-019-00714-2",
+    "measured_in": "ref:27cfab88411f49b0"
+   },
+   {
+    "id": "ORC-2ACFU4AJLZ",
+    "paper": "doi:10.1007/s11669-019-00714-2",
+    "measured_in": "ref:27cfab88411f49b0"
+   }
+  ],
+  "papers": [
+   "ref:27cfab88411f49b0",
+   "doi:10.1007/s11669-019-00714-2"
+  ],
+  "dois": [
+   "10.1007/s11669-019-00714-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlBa-19Ben/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

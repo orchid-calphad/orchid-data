@@ -1,0 +1,132 @@
+{
+ "components": [
+  "FE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1493,
+   1247
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.015
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     0.002
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.003
+    ]
+   ]
+  ]
+ ],
+ "reference": "1936, R. Genders, R. Harrison, Tantalum–iron alloys and tantalum steels, J. Iron Steel Inst. 134 (1936) 173–209.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VUPRFQ23TZ ORC-IJFCPAUX4U",
+ "bibtex": "genders1936_bdc205",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-VUPRFQ23TZ",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "ref:77d3fe7e9cc5718a",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-IJFCPAUX4U",
+    "paper": "doi:10.1016/j.calphad.2014.12.006",
+    "measured_in": "ref:77d3fe7e9cc5718a",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:77d3fe7e9cc5718a",
+   "doi:10.1016/j.calphad.2014.12.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2014.12.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-15Raj/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

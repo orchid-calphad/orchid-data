@@ -1,0 +1,172 @@
+{
+ "components": [
+  "MN",
+  "SI"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "M5SI3_D88",
+  "MN11SI19",
+  "MSI_B20"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1514.15,
+   1416.15,
+   1410.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.454
+    ]
+   ],
+   [
+    "M5SI3_D88",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "MSI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MSI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "MN11SI19",
+    [
+     "SI"
+    ],
+    [
+     0.633333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.5666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN11SI19",
+    [
+     "SI"
+    ],
+    [
+     0.633333
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Chevalier 1995, doi:10.1016/0364-5916(95)00007-2",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CRGLOFWHVG ORC-CLOISFAMZ6 ORC-IMANHZ77OC",
+ "bibtex": "chevalier1995_346ca1",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CRGLOFWHVG",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   },
+   {
+    "id": "ORC-CLOISFAMZ6",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   },
+   {
+    "id": "ORC-IMANHZ77OC",
+    "paper": "doi:10.1016/0364-5916(95)00007-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0364-5916(95)00007-2"
+  ],
+  "dois": [
+   "10.1016/0364-5916(95)00007-2"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnSi-95Che/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

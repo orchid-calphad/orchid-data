@@ -1,0 +1,106 @@
+{
+ "components": [
+  "C",
+  "MN"
+ ],
+ "phases": [
+  "CBCC_A12",
+  "M23C6_D84"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1260.0,
+   1031.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     0.851239
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "MN"
+    ],
+    [
+     0.793103
+    ]
+   ]
+  ],
+  [
+   [
+    "CBCC_A12",
+    [
+     "MN"
+    ],
+    [
+     0.92103
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "MN"
+    ],
+    [
+     0.793103
+    ]
+   ]
+  ]
+ ],
+ "reference": "Djurovic 2010, doi:10.1016/j.calphad.2010.05.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NBQ7LZID5U ORC-ABGIQDU2W6",
+ "bibtex": "djurovic2010_7636ec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NBQ7LZID5U",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   },
+   {
+    "id": "ORC-ABGIQDU2W6",
+    "paper": "doi:10.1016/j.calphad.2010.05.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.05.002",
+   "doi:10.1007/bf02655933"
+  ],
+  "dois": [
+   "10.1007/bf02655933",
+   "10.1016/j.calphad.2010.05.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnC-10Dju/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

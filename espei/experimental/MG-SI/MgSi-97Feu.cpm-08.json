@@ -1,0 +1,74 @@
+{
+ "components": [
+  "MG",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 523.0,
+  "X_SI": [
+   0.333333
+  ]
+ },
+ "output": "CPM",
+ "values": [
+  [
+   [
+    24.1
+   ]
+  ]
+ ],
+ "reference": "Feufel 1997, doi:10.1016/s0925-8388(96)02655-2",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NZ7AR4A2I3",
+ "weight": 0.4,
+ "bibtex": "feufel1997_f13695",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NZ7AR4A2I3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(96)02655-2",
+    "measured_in": "doi:10.1016/s0925-8388(96)02655-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0925-8388(96)02655-2"
+  ],
+  "dois": [
+   "10.1016/s0925-8388(96)02655-2"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MgSi-97Feu/cpm-08.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_CPM = 0.2 J/mol/K"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_CPM = 0.2 J/mol/K / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 0.5,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.5,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.4,
+    "weight_used": 0.4
+   }
+  ]
+ }
+}

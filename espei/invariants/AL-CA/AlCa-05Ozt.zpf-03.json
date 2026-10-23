@@ -1,0 +1,87 @@
+{
+ "components": [
+  "AL",
+  "CA"
+ ],
+ "phases": [
+  "AL4CA_D13",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   886
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CA"
+    ],
+    [
+     0.064
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL4CA_D13",
+    [
+     "CA"
+    ],
+    [
+     0.2
+    ]
+   ]
+  ]
+ ],
+ "reference": "1928, G. Bozza and C. Sonnino: Giorn. Chim. Ind. Appl., 1928, vol. 10, pp. 443-49.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YAZBHKUIZO",
+ "bibtex": "bozza1928_99eda2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YAZBHKUIZO",
+    "paper": "doi:10.1007/s11661-005-0133-0",
+    "measured_in": "ref:1a659c176b74a3a4"
+   }
+  ],
+  "papers": [
+   "ref:1a659c176b74a3a4",
+   "doi:10.1007/s11661-005-0133-0"
+  ],
+  "dois": [
+   "10.1007/s11661-005-0133-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlCa-05Ozt/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

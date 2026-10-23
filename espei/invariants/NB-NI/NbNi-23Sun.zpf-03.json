@@ -1,0 +1,126 @@
+{
+ "components": [
+  "NB",
+  "NI"
+ ],
+ "phases": [
+  "LIQUID",
+  "MU_D85",
+  "NBNI3_D0A"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1676,
+   1448
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "NI"
+    ],
+    [
+     0.46153846153846156
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.605769231
+    ]
+   ]
+  ]
+ ],
+ "reference": "1941, S.A. Pogodin, A.N. Selikmann, On the Phase Diagram of the System Nickel-Niobium, in: CR Acad. Sci. URSS, 1941: pp. 895–897.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LT653MCK27 ORC-OXHYOUAFQ4",
+ "bibtex": "pogodin1941_ed6334",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LT653MCK27",
+    "paper": "doi:10.1016/j.calphad.2023.102563",
+    "measured_in": "ref:f06b417ce0545872"
+   },
+   {
+    "id": "ORC-OXHYOUAFQ4",
+    "paper": "doi:10.1016/j.calphad.2023.102563",
+    "measured_in": "ref:f06b417ce0545872"
+   }
+  ],
+  "papers": [
+   "ref:f06b417ce0545872",
+   "doi:10.1016/j.calphad.2023.102563"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2023.102563"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbNi-23Sun/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

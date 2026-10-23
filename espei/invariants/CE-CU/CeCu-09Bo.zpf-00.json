@@ -1,0 +1,386 @@
+{
+ "components": [
+  "CE",
+  "CU"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CECU2",
+  "CECU4",
+  "CECU5_D2D",
+  "CECU6",
+  "CECU_B27",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1149,
+   1211,
+   1071,
+   1069,
+   1029,
+   1090,
+   789,
+   697,
+   981
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.91
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CECU6",
+    [
+     "CU"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.857
+    ]
+   ],
+   [
+    "CECU6",
+    [
+     "CU"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.766
+    ]
+   ],
+   [
+    "CECU6",
+    [
+     "CU"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "CECU5_D2D",
+    [
+     "CU"
+    ],
+    [
+     0.8333333333333334
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.765
+    ]
+   ],
+   [
+    "CECU5_D2D",
+    [
+     "CU"
+    ],
+    [
+     0.8333333333333334
+    ]
+   ],
+   [
+    "CECU4",
+    [
+     "CU"
+    ],
+    [
+     0.8
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "CECU4",
+    [
+     "CU"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "CECU2",
+    [
+     "CU"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "CECU2",
+    [
+     "CU"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.4
+    ]
+   ],
+   [
+    "CECU2",
+    [
+     "CU"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "CECU_B27",
+    [
+     "CU"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.28
+    ]
+   ],
+   [
+    "CECU_B27",
+    [
+     "CU"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     0.06000000000000005
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1964, T.B. Rhinehammer, D.E. Etter, J.E. Selle, P.Z. Tucker, Trans. Metall. Soc. AIME 230 (1964) 1193–1198.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XA2CCOYH5C ORC-VIRE7URQS5 ORC-RD2FI2KLAF ORC-3BR2SMGQUV ORC-LFTJBBYIG7 ORC-MJOE4T4X6J ORC-2UFMPLFEHO ORC-4DXDTU56SK ORC-GQHDGPQ25S",
+ "bibtex": "rhinehammer1964_0c25bf",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XA2CCOYH5C",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   },
+   {
+    "id": "ORC-VIRE7URQS5",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   },
+   {
+    "id": "ORC-RD2FI2KLAF",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   },
+   {
+    "id": "ORC-3BR2SMGQUV",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   },
+   {
+    "id": "ORC-LFTJBBYIG7",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   },
+   {
+    "id": "ORC-MJOE4T4X6J",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   },
+   {
+    "id": "ORC-2UFMPLFEHO",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   },
+   {
+    "id": "ORC-4DXDTU56SK",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   },
+   {
+    "id": "ORC-GQHDGPQ25S",
+    "paper": "doi:10.1016/j.jallcom.2009.04.083",
+    "measured_in": "ref:311af5f57f1d8984"
+   }
+  ],
+  "papers": [
+   "ref:311af5f57f1d8984",
+   "doi:10.1016/j.jallcom.2009.04.083"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.04.083"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeCu-09Bo/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

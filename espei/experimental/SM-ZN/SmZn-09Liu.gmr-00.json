@@ -1,0 +1,174 @@
+{
+ "components": [
+  "SM",
+  "ZN"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 773.15,
+  "X_ZN": [
+   0.5,
+   0.666667,
+   0.75,
+   0.785714,
+   0.816901,
+   0.88,
+   0.894737
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -33280.0,
+    -35450.0,
+    -32140.0,
+    -30660.0,
+    -28930.0,
+    -23960.0,
+    -22520.0
+   ]
+  ]
+ ],
+ "reference": "1967, P. Chiotti, J.T. Mason, Trans. Met. Soc. AIME 239 (1967) 547–552.",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CSB4QY535P ORC-CCKH2ZC3OC ORC-NO76GSQUOM ORC-SJLG4VVRQL ORC-ZTYQWQQDBR ORC-RPTA4PZEF7 ORC-MIGPL255DV",
+ "reference_states": {
+  "SM": {
+   "phase": "RHOMB_C19",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "ZN": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "chiotti1967_254472",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CSB4QY535P",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2008.01.003",
+    "measured_in": "ref:335a9b3e601cd45a"
+   },
+   {
+    "id": "ORC-CCKH2ZC3OC",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2008.01.003",
+    "measured_in": "ref:335a9b3e601cd45a"
+   },
+   {
+    "id": "ORC-NO76GSQUOM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2008.01.003",
+    "measured_in": "ref:335a9b3e601cd45a"
+   },
+   {
+    "id": "ORC-SJLG4VVRQL",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2008.01.003",
+    "measured_in": "ref:335a9b3e601cd45a"
+   },
+   {
+    "id": "ORC-ZTYQWQQDBR",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2008.01.003",
+    "measured_in": "ref:335a9b3e601cd45a"
+   },
+   {
+    "id": "ORC-RPTA4PZEF7",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2008.01.003",
+    "measured_in": "ref:335a9b3e601cd45a"
+   },
+   {
+    "id": "ORC-MIGPL255DV",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2008.01.003",
+    "measured_in": "ref:335a9b3e601cd45a"
+   }
+  ],
+  "papers": [
+   "ref:335a9b3e601cd45a",
+   "doi:10.1016/j.jallcom.2008.01.003"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2008.01.003"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SmZn-09Liu/gmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

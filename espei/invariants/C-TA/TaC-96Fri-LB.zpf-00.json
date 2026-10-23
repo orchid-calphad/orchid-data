@@ -1,0 +1,91 @@
+{
+ "components": [
+  "C",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3103
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "C"
+    ],
+    [
+     0.07
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "C"
+    ],
+    [
+     0.26
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "C"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1967, E.K. Storms, The Refractory Carbides, Academic Press, New York, 1967.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NDXEXJ54VF",
+ "bibtex": "storms1967_6c7fc0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-NDXEXJ54VF",
+    "paper": "doi:10.1016/0925-8388(96)02197-4",
+    "measured_in": "ref:4481d652fc01a214",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "ref:4481d652fc01a214",
+   "doi:10.1016/0925-8388(96)02197-4"
+  ],
+  "dois": [
+   "10.1016/0925-8388(96)02197-4"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/TaC-96Fri-LB/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "components": [
+  "MG",
+  "O"
+ ],
+ "phases": [
+  "B1_OXIDE",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   3073.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "B1_OXIDE",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Liang 2018, doi:10.1016/j.jeurceramsoc.2018.06.015",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3WKU277YLT",
+ "bibtex": "liang2018_2a1422",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3WKU277YLT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jeurceramsoc.2018.06.015"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jeurceramsoc.2018.06.015",
+   "doi:10.1351/pac198254030681"
+  ],
+  "dois": [
+   "10.1016/j.jeurceramsoc.2018.06.015",
+   "10.1351/pac198254030681"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MgO-18Lia/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 20.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

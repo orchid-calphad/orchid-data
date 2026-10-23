@@ -1,0 +1,109 @@
+{
+ "components": [
+  "B",
+  "CE"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_CE": [
+   0.142857,
+   0.2
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -48400.0,
+    -53500.0
+   ]
+  ]
+ ],
+ "reference": "Premović 2017, doi:10.1016/j.tca.2017.10.006",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "single_reader_text_layer",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-F6ZPQE7FEV ORC-QCFZKOEYX3",
+ "reference_states": {
+  "B": {
+   "phase": "BETA_RHOMBO_B",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "CE": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.09009,
+ "bibtex": "premovic2017_a0dda2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-F6ZPQE7FEV",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2017.10.006"
+   },
+   {
+    "id": "ORC-QCFZKOEYX3",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1016/j.tca.2017.10.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2017.10.006",
+   "doi:10.1016/0925-8388(95)80024-7"
+  ],
+  "dois": [
+   "10.1016/0925-8388(95)80024-7",
+   "10.1016/j.tca.2017.10.006"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CeB-17Pre/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 9600.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 9.6,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.052083,
+    "weight_used": 0.09009
+   },
+   {
+    "sigma": 1500.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.5,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.333333,
+    "weight_used": 0.09009
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "components": [
+  "CR",
+  "CU"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1349.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "CU"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Turchanin 2006, doi:10.1007/s11106-006-0106-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HITXKPZJKY",
+ "bibtex": "turchanin2006_e54cf5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-HITXKPZJKY",
+    "paper": "doi:10.1007/s11106-006-0106-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11106-006-0106-x",
+   "doi:10.1002/zaac.19231310113"
+  ],
+  "dois": [
+   "10.1002/zaac.19231310113",
+   "10.1007/s11106-006-0106-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrCu-06Tur/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

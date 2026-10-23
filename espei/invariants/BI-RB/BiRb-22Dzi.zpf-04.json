@@ -1,0 +1,192 @@
+{
+ "components": [
+  "BI",
+  "RB"
+ ],
+ "phases": [
+  "BI2RB3",
+  "BI2RB_C15",
+  "BIRB3_D03",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   513.0,
+   933.0,
+   723.0,
+   913.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BI2RB_C15",
+    [
+     "RB"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     0.3333
+    ]
+   ],
+   [
+    "BI2RB_C15",
+    [
+     "RB"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BI2RB3",
+    [
+     "RB"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "BIRB3_D03",
+    [
+     "RB"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "RB"
+    ],
+    [
+     0.675
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RB"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "BIRB3_D03",
+    [
+     "RB"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ]
+ ],
+ "reference": "Dziri 2022, doi:10.1007/s11669-022-00968-3",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MKWH6GNGYK ORC-QMMLWDTIT5 ORC-FUIK5QLUNK ORC-2F64XSANVR",
+ "bibtex": "dziri2022_7a1c7b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-MKWH6GNGYK",
+    "paper": "doi:10.1007/s11669-022-00968-3"
+   },
+   {
+    "id": "ORC-QMMLWDTIT5",
+    "paper": "doi:10.1007/s11669-022-00968-3"
+   },
+   {
+    "id": "ORC-FUIK5QLUNK",
+    "paper": "doi:10.1007/s11669-022-00968-3"
+   },
+   {
+    "id": "ORC-2F64XSANVR",
+    "paper": "doi:10.1007/s11669-022-00968-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-022-00968-3"
+  ],
+  "dois": [
+   "10.1007/s11669-022-00968-3"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiRb-22Dzi/zpf-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

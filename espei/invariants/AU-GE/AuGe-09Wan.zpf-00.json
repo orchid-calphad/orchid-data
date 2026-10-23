@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AU",
+  "GE"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   634
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     0.28
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Hassam 1988, doi:10.1007/bf02649254",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AAVF5J7KZ4",
+ "bibtex": "hassam1988_b43169",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AAVF5J7KZ4",
+    "paper": "doi:10.1016/j.jallcom.2009.03.114",
+    "measured_in": "doi:10.1007/bf02649254"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02649254",
+   "doi:10.1016/j.jallcom.2009.03.114"
+  ],
+  "dois": [
+   "10.1007/bf02649254",
+   "10.1016/j.jallcom.2009.03.114"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AuGe-09Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

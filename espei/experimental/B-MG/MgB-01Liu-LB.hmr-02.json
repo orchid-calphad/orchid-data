@@ -1,0 +1,88 @@
+{
+ "components": [
+  "B",
+  "MG"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_MG": [
+   0.142857
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -13.39
+   ]
+  ]
+ ],
+ "reference": "Liu 2001, doi:10.1016/s0364-5916(01)00050-5",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "single_reader_text_layer",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3LPA54QJQD",
+ "reference_states": {
+  "B": {
+   "phase": "BETA_RHOMBO_B",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "MG": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 833.333333,
+ "bibtex": "liu2001_ad7e87",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3LPA54QJQD",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1016/s0364-5916(01)00050-5"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0364-5916(01)00050-5"
+  ],
+  "dois": [
+   "10.1016/s0364-5916(01)00050-5"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MgB-01Liu-LB/hmr-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 0.6,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.0006,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 833.333333,
+    "weight_used": 833.333333
+   }
+  ]
+ }
+}

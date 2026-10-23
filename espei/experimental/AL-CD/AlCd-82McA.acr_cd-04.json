@@ -1,0 +1,162 @@
+{
+ "components": [
+  "AL",
+  "CD"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1373.15,
+  "X_CD": [
+   0.09699999999999999,
+   0.14400000000000002,
+   0.198,
+   0.3,
+   0.5,
+   0.6970000000000001,
+   0.878
+  ]
+ },
+ "output": "ACR_CD",
+ "values": [
+  [
+   [
+    0.59,
+    0.66,
+    0.73,
+    0.79,
+    0.81,
+    0.84,
+    0.9
+   ]
+  ]
+ ],
+ "reference": "McAlister 1982, doi:10.1007/bf02892376",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q4NI4GZU6W.7ce7e2 ORC-66HH64XBPD.bd5181 ORC-6SBGKUBE4X.83edf4 ORC-ADMC7DY64T.f74903 ORC-CD43ZFW4L3.12e449 ORC-VMZRO26SIB.e4e29b ORC-R4V5B5GJNZ.d34aa5",
+ "reference_state": {
+  "phases": [
+   "LIQUID"
+  ],
+  "conditions": {
+   "P": 101325,
+   "T": 1373.15,
+   "X_CD": 1.0
+  }
+ },
+ "bibtex": "mcalister1982_d01215",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Q4NI4GZU6W.7ce7e2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02892376"
+   },
+   {
+    "id": "ORC-66HH64XBPD.bd5181",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02892376"
+   },
+   {
+    "id": "ORC-6SBGKUBE4X.83edf4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02892376"
+   },
+   {
+    "id": "ORC-ADMC7DY64T.f74903",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02892376"
+   },
+   {
+    "id": "ORC-CD43ZFW4L3.12e449",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02892376"
+   },
+   {
+    "id": "ORC-VMZRO26SIB.e4e29b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02892376"
+   },
+   {
+    "id": "ORC-R4V5B5GJNZ.d34aa5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02892376"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02892376"
+  ],
+  "dois": [
+   "10.1007/bf02892376"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlCd-82McA/acr_cd-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "1 (activity)",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_ACR = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

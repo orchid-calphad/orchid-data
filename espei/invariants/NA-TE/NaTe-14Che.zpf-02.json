@@ -1,0 +1,187 @@
+{
+ "components": [
+  "NA",
+  "TE"
+ ],
+ "phases": [
+  "HEXAGONAL_A8",
+  "LIQUID",
+  "NA2TE_C1",
+  "NATE",
+  "NATE3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   621,
+   590,
+   676
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NA2TE_C1",
+    [
+     "TE"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "NATE",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.4166666665
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NATE3",
+    [
+     "TE"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NATE",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.625
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NATE3",
+    [
+     "TE"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1910, G. Pellini, E. Quercigh, Atti. Acad. Lincei. 19 (2) (1910) 350.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PILYUS57G3 ORC-AHSHBC6H2X ORC-W5Q7T3MLB3",
+ "bibtex": "pellini1910_717ec0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PILYUS57G3",
+    "paper": "doi:10.1016/j.jallcom.2013.11.094",
+    "measured_in": "ref:79e0cc5a16a96cce"
+   },
+   {
+    "id": "ORC-AHSHBC6H2X",
+    "paper": "doi:10.1016/j.jallcom.2013.11.094",
+    "measured_in": "ref:79e0cc5a16a96cce"
+   },
+   {
+    "id": "ORC-W5Q7T3MLB3",
+    "paper": "doi:10.1016/j.jallcom.2013.11.094",
+    "measured_in": "ref:79e0cc5a16a96cce"
+   }
+  ],
+  "papers": [
+   "ref:79e0cc5a16a96cce",
+   "doi:10.1016/j.jallcom.2013.11.094",
+   "doi:10.1021/j150301a004"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2013.11.094",
+   "10.1021/j150301a004"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NaTe-14Che/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

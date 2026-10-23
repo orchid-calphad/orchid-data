@@ -1,0 +1,124 @@
+{
+ "components": [
+  "BI",
+  "CE"
+ ],
+ "phases": [
+  "BI2CE",
+  "BI3CE4_D73",
+  "BICE_B1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1183.0,
+   1903.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     0.21
+    ]
+   ],
+   [
+    "BICE_B1",
+    [
+     "CE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "BI2CE",
+    [
+     "CE"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CE"
+    ],
+    [
+     0.465
+    ]
+   ],
+   [
+    "BI3CE4_D73",
+    [
+     "CE"
+    ],
+    [
+     0.571429
+    ]
+   ],
+   [
+    "BICE_B1",
+    [
+     "CE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2017, doi:10.1016/j.jnucmat.2017.08.016",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SIDSMVZGOS ORC-E43YZZUUSD",
+ "bibtex": "wang2017_e8887a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-SIDSMVZGOS",
+    "paper": "doi:10.1016/j.jnucmat.2017.08.016"
+   },
+   {
+    "id": "ORC-E43YZZUUSD",
+    "paper": "doi:10.1016/j.jnucmat.2017.08.016"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jnucmat.2017.08.016"
+  ],
+  "dois": [
+   "10.1016/j.jnucmat.2017.08.016"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/BiCe-17Wan/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

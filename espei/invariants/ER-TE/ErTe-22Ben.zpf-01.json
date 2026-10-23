@@ -1,0 +1,166 @@
+{
+ "components": [
+  "ER",
+  "TE"
+ ],
+ "phases": [
+  "ER2TE3",
+  "ERTE3",
+  "ERTE_B1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   848,
+   1773,
+   1543
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.78
+    ]
+   ],
+   [
+    "ER2TE3",
+    [
+     "TE"
+    ],
+    [
+     0.6
+    ]
+   ],
+   [
+    "ERTE3",
+    [
+     "TE"
+    ],
+    [
+     0.75
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "ERTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TE"
+    ],
+    [
+     0.13
+    ]
+   ],
+   [
+    "ERTE_B1",
+    [
+     "TE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Haase 1965, doi:10.1021/ic50026a021",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EKAHNP3ZHE ORC-LK7LBX3VLR ORC-DHV457PYTM",
+ "bibtex": "haase1965_dd8cdc",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EKAHNP3ZHE",
+    "paper": "doi:10.1007/s11669-022-00947-8",
+    "measured_in": "doi:10.1021/ic50026a021",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-LK7LBX3VLR",
+    "paper": "doi:10.1007/s11669-022-00947-8",
+    "measured_in": "doi:10.1021/ic50026a021"
+   },
+   {
+    "id": "ORC-DHV457PYTM",
+    "paper": "doi:10.1007/s11669-022-00947-8",
+    "measured_in": "doi:10.1021/ic50026a021",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1021/ic50026a021",
+   "doi:10.1007/s11669-022-00947-8"
+  ],
+  "dois": [
+   "10.1007/s11669-022-00947-8",
+   "10.1021/ic50026a021"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/ErTe-22Ben/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

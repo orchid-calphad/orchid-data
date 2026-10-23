@@ -1,0 +1,108 @@
+{
+ "components": [
+  "AL",
+  "NI"
+ ],
+ "phases": [
+  "AL3NI_D011"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "NI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -39608.6
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.090123
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB AlNi-03Sun.tdb (sha256 b61858b6243ad431784c8a36bdfb3d8b0248977a099350c24a55d4985361b0fb), phase AL3NI_D011. Ids, in value order: oqmd-10517. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "AlNi-03Sun.tdb",
+   "path": "databases/sgte-binary/AlNi-03Sun.tdb",
+   "sha256": "b61858b6243ad431784c8a36bdfb3d8b0248977a099350c24a55d4985361b0fb",
+   "phase": "AL3NI_D011"
+  },
+  "registry_phase": "phase:al-ni:al3ni-d011",
+  "mapping": [
+   {
+    "id": "oqmd-10517",
+    "compound": "Al3 Ni1",
+    "basis": "registry DFT name oqmd:oqmd-10517",
+    "space_group": "Pnma",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 5548.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "polymorph_ambiguous|magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-NI",
+     "n": 86,
+     "sigma_robust_kJ": 5.548,
+     "bias_median_kJ_not_applied": -0.401,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      3.929,
+      6.838
+     ],
+     "n_full_stratum": 103
+    },
+    "weight_used": 0.090123,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.410514218125001,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-10517",
+    "compound": "Al3 Ni1"
+   }
+  ]
+ }
+}

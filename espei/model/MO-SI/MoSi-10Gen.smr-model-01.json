@@ -1,0 +1,133 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_SI": [
+   0.25,
+   0.375,
+   0.666667
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    1.3007,
+    3.545,
+    1.84786
+   ]
+  ]
+ ],
+ "reference": "Geng 2010, doi:10.1016/j.calphad.2010.07.003",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C3QZAHPECJ.8498fa ORC-C3QZAHPECJ.8b246f ORC-C3QZAHPECJ.e0903a",
+ "reference_states": {
+  "MO": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SI": {
+   "phase": "DIAMOND_A4",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "MoSi-10Gen.tdb",
+   "path": "databases/sgte-binary/MoSi-10Gen.tdb",
+   "sha256": "c30043974bebebf9b126a87458b4e158c2336d137926562fb1fc8a102c0ffa07",
+   "catalog_entry": {
+    "name": "MoSi-10Gen.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2010-07-003",
+   "doi": "10.1016/j.calphad.2010.07.003",
+   "citation": {
+    "authors": "see doi",
+    "title": "T. Geng, C. Li, X. Zhao, H. Xu, Z. Du, C. Guo, Calphad, 34, 363-76(2010).",
+    "year": "2010"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "geng2010_7f5f4b",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-C3QZAHPECJ.8498fa",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2010.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2010.07.003"
+   },
+   {
+    "id": "ORC-C3QZAHPECJ.8b246f",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2010.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2010.07.003"
+   },
+   {
+    "id": "ORC-C3QZAHPECJ.e0903a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2010.07.003",
+    "measured_in": "doi:10.1016/j.calphad.2010.07.003"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.07.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2010.07.003"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/MoSi-10Gen/smr-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

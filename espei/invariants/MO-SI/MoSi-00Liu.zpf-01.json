@@ -1,0 +1,172 @@
+{
+ "components": [
+  "MO",
+  "SI"
+ ],
+ "phases": [
+  "LIQUID",
+  "M5SI3_D8M",
+  "MOSI2_C11B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2173,
+   2358,
+   2253
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M5SI3_D8M",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "MOSI2_C11B",
+    [
+     "SI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.5208333334999999
+    ]
+   ]
+  ],
+  [
+   [
+    "M5SI3_D8M",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "MOSI2_C11B",
+    [
+     "SI"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6668333335000001
+    ]
+   ]
+  ]
+ ],
+ "reference": "CHERNIACK 1964, doi:10.1111/j.1151-2916.1964.tb14372.x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-W3HODEVHAU ORC-LZFTICME7T ORC-77IUZL26R7",
+ "bibtex": "cherniack1964_3d739d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-W3HODEVHAU",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6",
+    "measured_in": "doi:10.1111/j.1151-2916.1964.tb14372.x"
+   },
+   {
+    "id": "ORC-LZFTICME7T",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6",
+    "measured_in": "doi:10.1111/j.1151-2916.1964.tb14372.x"
+   },
+   {
+    "id": "ORC-77IUZL26R7",
+    "paper": "doi:10.1016/s0966-9795(00)00068-6",
+    "measured_in": "doi:10.1111/j.1151-2916.1964.tb14372.x"
+   }
+  ],
+  "papers": [
+   "doi:10.1111/j.1151-2916.1964.tb14372.x",
+   "doi:10.1016/s0966-9795(00)00068-6"
+  ],
+  "dois": [
+   "10.1016/s0966-9795(00)00068-6",
+   "10.1111/j.1151-2916.1964.tb14372.x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoSi-00Liu/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

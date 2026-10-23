@@ -1,0 +1,149 @@
+{
+ "components": [
+  "ZN",
+  "ZR"
+ ],
+ "phases": [
+  "ZNZR_B2"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "ZN",
+    "ZR"
+   ],
+   [
+    "ZN",
+    "ZR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -29680.0,
+    -27600.0
+   ]
+  ]
+ ],
+ "reference": "Arroyave 2006, doi:10.1016/j.calphad.2005.12.006",
+ "bibtex": "arroyave2006_3b43fd",
+ "weight": [
+  0.07934,
+  0.07934
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB ZnZr-06Arr-first.tdb (sha256 d8bfc9b911d493b605f3799d6390fad2ad17ec42086ef574e75c2a986de2b0ff), phase ZNZR_B2. Ids, in value order: ORC-AIA6QBUC23 ORC-XGNHGIBKUK. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "ZnZr-06Arr-first.tdb",
+   "path": "databases/sgte-binary/ZnZr-06Arr-first.tdb",
+   "sha256": "d8bfc9b911d493b605f3799d6390fad2ad17ec42086ef574e75c2a986de2b0ff",
+   "phase": "ZNZR_B2"
+  },
+  "registry_phase": "phase:zn-zr:znzr-b2",
+  "mapping": [
+   {
+    "id": "ORC-AIA6QBUC23",
+    "compound": "ZnZr",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-XGNHGIBKUK",
+    "compound": "ZnZr",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.12.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2005.12.006"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6302.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "ZN-ZR",
+     "n": 90,
+     "sigma_robust_kJ": 6.302,
+     "bias_median_kJ_not_applied": -0.335,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.07934,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -29.68,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-AIA6QBUC23",
+    "compound": "ZnZr"
+   },
+   {
+    "sigma": 6302.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "ZN-ZR",
+     "n": 90,
+     "sigma_robust_kJ": 6.302,
+     "bias_median_kJ_not_applied": -0.335,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.07934,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -27.6,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-XGNHGIBKUK",
+    "compound": "ZnZr"
+   }
+  ]
+ }
+}

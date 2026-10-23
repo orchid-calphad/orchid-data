@@ -1,0 +1,92 @@
+{
+ "components": [
+  "MG",
+  "NI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_NI": [
+   0.333333,
+   0.666667
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -18050.0,
+    -19860.0
+   ]
+  ]
+ ],
+ "reference": "Islam 2005, doi:10.1016/j.calphad.2005.08.006",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZUOAQ2M7RC.58e75d ORC-ZUOAQ2M7RC.3ec3c2",
+ "reference_states": {
+  "MG": {
+   "phase": "HCP_A3"
+  },
+  "NI": {
+   "phase": "FCC_A1"
+  }
+ },
+ "bibtex": "islam2005_a4d91f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZUOAQ2M7RC.58e75d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.08.006"
+   },
+   {
+    "id": "ORC-ZUOAQ2M7RC.3ec3c2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2005.08.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2005.08.006",
+   "doi:10.1016/0001-6160(60)90188-7"
+  ],
+  "dois": [
+   "10.1016/0001-6160(60)90188-7",
+   "10.1016/j.calphad.2005.08.006"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MgNi-05Isl/gmr-09.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": null,
+    "sigma_basis": "none (not printed; ESPEI has no experimental default for GM, its code uses sigma = 1)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

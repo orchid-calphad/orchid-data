@@ -1,0 +1,87 @@
+{
+ "components": [
+  "B",
+  "CE"
+ ],
+ "phases": [
+  "BETA_RHOMBO_B",
+  "CEB6_D21",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2273.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "B"
+    ],
+    [
+     0.96
+    ]
+   ],
+   [
+    "CEB6_D21",
+    [
+     "B"
+    ],
+    [
+     0.8571428571428571
+    ]
+   ],
+   [
+    "BETA_RHOMBO_B",
+    [
+     "B"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1960, A.U. Seybolt, Trans. ASM 52 (1960) 971–989.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JECTH64KG3",
+ "bibtex": "seybolt1960_71ef39",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-JECTH64KG3",
+    "paper": "doi:10.1016/j.calphad.2013.03.001",
+    "measured_in": "ref:968e963a4239f6d2"
+   }
+  ],
+  "papers": [
+   "ref:968e963a4239f6d2",
+   "doi:10.1016/j.calphad.2013.03.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.03.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CeB-13Wan/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

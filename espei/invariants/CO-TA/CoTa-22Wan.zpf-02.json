@@ -1,0 +1,172 @@
+{
+ "components": [
+  "CO",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CO2TA_C14",
+  "CO2TA_C15",
+  "COTA2_C16",
+  "LIQUID",
+  "MU_D85"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2073.15,
+   1943.15,
+   1843.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COTA2_C16",
+    [
+     "TA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MU_D85",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COTA2_C16",
+    [
+     "TA"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO2TA_C15",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ],
+   [
+    "CO2TA_C14",
+    [
+     "TA"
+    ],
+    [
+     0.3333333333333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "1976, V.B. Bernard, L.A. Yurchenko, O.I. Bodak, V.V. Kuprina, Investigation of phasediagram of system Ta-Co, Vestn. Mosk. Univ. SERIYA 2 KHIMIYA 17 (1976) 208–212.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ENXVWUWFBV ORC-IYHKQW7FV4 ORC-ZI3MCCQH2B",
+ "bibtex": "bernard1976_7d85b7",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ENXVWUWFBV",
+    "paper": "doi:10.1016/j.jallcom.2022.166723",
+    "measured_in": "ref:cbc24dd00dce4d7c"
+   },
+   {
+    "id": "ORC-IYHKQW7FV4",
+    "paper": "doi:10.1016/j.jallcom.2022.166723",
+    "measured_in": "ref:cbc24dd00dce4d7c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-ZI3MCCQH2B",
+    "paper": "doi:10.1016/j.jallcom.2022.166723",
+    "measured_in": "ref:cbc24dd00dce4d7c"
+   }
+  ],
+  "papers": [
+   "ref:cbc24dd00dce4d7c",
+   "doi:10.1016/j.jallcom.2022.166723"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2022.166723"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoTa-22Wan/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

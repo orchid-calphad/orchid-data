@@ -1,0 +1,88 @@
+{
+ "components": [
+  "FE",
+  "SN"
+ ],
+ "phases": [
+  "BCT_A5",
+  "FESN2_C16",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   505.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FESN2_C16",
+    [
+     "SN"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCT_A5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Connolly 1975, doi:10.1016/0001-6160(75)90039-5",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PA3B47JTS3",
+ "bibtex": "connolly1975_cd31ad",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-PA3B47JTS3",
+    "paper": "doi:10.1016/j.intermet.2010.01.026",
+    "measured_in": "doi:10.1016/0001-6160(75)90039-5"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0001-6160(75)90039-5",
+   "doi:10.1016/j.intermet.2010.01.026"
+  ],
+  "dois": [
+   "10.1016/0001-6160(75)90039-5",
+   "10.1016/j.intermet.2010.01.026"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeSn-10Hua/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

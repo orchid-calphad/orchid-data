@@ -1,0 +1,89 @@
+{
+ "components": [
+  "MN",
+  "O"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_O": [
+   0.571429
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    196780.0
+   ]
+  ]
+ ],
+ "reference": "Kjellqvist 2010, doi:10.1007/s11669-009-9643-6",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OF7YZ4OCHX",
+ "reference_states": {
+  "MN": {
+   "phase": "CBCC_A12",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "O": {
+   "phase": "1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "bibtex": "kjellqvist2010_a146ca",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-OF7YZ4OCHX",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-009-9643-6",
+    "caveats": [
+     "basis_inferred_from_magnitude",
+     "unsigned_in_print"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-009-9643-6",
+   "doi:10.1002/cber.19130460159"
+  ],
+  "dois": [
+   "10.1002/cber.19130460159",
+   "10.1007/s11669-009-9643-6"
+  ],
+  "source_dataset": "db-v2.1/general/espei/MnO-10Kje/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

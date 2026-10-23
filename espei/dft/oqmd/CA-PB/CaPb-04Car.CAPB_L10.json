@@ -1,0 +1,108 @@
+{
+ "components": [
+  "CA",
+  "PB"
+ ],
+ "phases": [
+  "CAPB_L10"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CA",
+    "PB"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -51190.43
+   ]
+  ]
+ ],
+ "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
+ "bibtex": "saal2013_oqmd kirklin2015_oqmd",
+ "weight": [
+  0.078162
+ ],
+ "tags": [
+  "dft_oqmd",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (oqmd), third-party DFT database; TDB CaPb-04Car.tdb (sha256 189da9f48238a281880f6dd45f8bd40ae6124ab40a5243ee040846e0353af3f9), phase CAPB_L10. Ids, in value order: oqmd-28966. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "oqmd",
+  "tdb": {
+   "name": "CaPb-04Car.tdb",
+   "path": "databases/sgte-binary/CaPb-04Car.tdb",
+   "sha256": "189da9f48238a281880f6dd45f8bd40ae6124ab40a5243ee040846e0353af3f9",
+   "phase": "CAPB_L10"
+  },
+  "registry_phase": "phase:ca-pb:capb-l10",
+  "mapping": [
+   {
+    "id": "oqmd-28966",
+    "compound": "Ca1 Pb1",
+    "basis": "registry DFT name oqmd:oqmd-28966",
+    "space_group": "P4/mmm",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1007/s11837-013-0755-4",
+   "10.1038/npjcompumats.2015.10"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6397.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "oqmd",
+     "stratum": "polymorph_ambiguous|metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CA-PB",
+     "n": 229,
+     "sigma_robust_kJ": 6.397,
+     "bias_median_kJ_not_applied": 1.912,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      4.989,
+      7.352
+     ],
+     "n_full_stratum": 236
+    },
+    "weight_used": 0.078162,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.530551455,
+     "unit": "eV/atom"
+    },
+    "id": "oqmd-28966",
+    "compound": "Ca1 Pb1"
+   }
+  ]
+ }
+}

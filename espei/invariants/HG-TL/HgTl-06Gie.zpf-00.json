@@ -1,0 +1,88 @@
+{
+ "components": [
+  "HG",
+  "TL"
+ ],
+ "phases": [
+  "BCC_A2",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   273.9
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TL"
+    ],
+    [
+     0.405
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TL"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TL"
+    ],
+    [
+     0.2857142857142857
+    ]
+   ]
+  ]
+ ],
+ "reference": "Richter 1973, doi:10.1016/0001-6160(73)90195-8",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4VFOSJNDII",
+ "bibtex": "richter1973_850e94",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4VFOSJNDII",
+    "paper": "doi:10.1016/j.calphad.2006.07.006",
+    "measured_in": "doi:10.1016/0001-6160(73)90195-8"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0001-6160(73)90195-8",
+   "doi:10.1016/j.calphad.2006.07.006"
+  ],
+  "dois": [
+   "10.1016/0001-6160(73)90195-8",
+   "10.1016/j.calphad.2006.07.006"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/HgTl-06Gie/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

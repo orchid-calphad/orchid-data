@@ -1,0 +1,184 @@
+{
+ "components": [
+  "FE",
+  "Y"
+ ],
+ "phases": [
+  "FE23Y6_D8A",
+  "FE2Y_C15",
+  "FE3Y",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1573.0,
+   1523.0,
+   1608.0,
+   1398.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.206897
+    ]
+   ],
+   [
+    "FE23Y6_D8A",
+    [
+     "Y"
+    ],
+    [
+     0.206897
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.237
+    ]
+   ],
+   [
+    "FE23Y6_D8A",
+    [
+     "Y"
+    ],
+    [
+     0.206897
+    ]
+   ],
+   [
+    "FE3Y",
+    [
+     "Y"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FE3Y",
+    [
+     "Y"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "Y"
+    ],
+    [
+     0.424
+    ]
+   ],
+   [
+    "FE3Y",
+    [
+     "Y"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "FE2Y_C15",
+    [
+     "Y"
+    ],
+    [
+     0.333333
+    ]
+   ]
+  ]
+ ],
+ "reference": "Ye 2023, doi:10.20517/jmi.2023.08",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-R2JEKGPPAP ORC-3RHX27HEF6 ORC-UE5Q4NFHYY ORC-U7XJRFZN7J",
+ "bibtex": "ye2023_5e8ba2",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-R2JEKGPPAP",
+    "paper": "doi:10.20517/jmi.2023.08"
+   },
+   {
+    "id": "ORC-3RHX27HEF6",
+    "paper": "doi:10.20517/jmi.2023.08"
+   },
+   {
+    "id": "ORC-UE5Q4NFHYY",
+    "paper": "doi:10.20517/jmi.2023.08"
+   },
+   {
+    "id": "ORC-U7XJRFZN7J",
+    "paper": "doi:10.20517/jmi.2023.08"
+   }
+  ],
+  "papers": [
+   "doi:10.20517/jmi.2023.08"
+  ],
+  "dois": [
+   "10.20517/jmi.2023.08"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeY-14Kar/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 25.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

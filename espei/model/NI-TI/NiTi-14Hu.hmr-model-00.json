@@ -1,0 +1,140 @@
+{
+ "components": [
+  "NI",
+  "TI"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_TI": [
+   0.5,
+   0.5,
+   0.25,
+   0.75
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -33850.0,
+    -9800.0,
+    -30680.0,
+    -13680.0
+   ]
+  ]
+ ],
+ "reference": "Hu 2014, doi:10.1016/j.tca.2014.01.002",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AMXW2U6OBS ORC-TZDUPCUZ3I ORC-B56Y6OEZBZ ORC-WKLF5QN66S",
+ "reference_states": {
+  "NI": {
+   "phase": "FCC_A1"
+  },
+  "TI": {
+   "phase": "HCP_A3"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NiTi-14Hu.tdb",
+   "path": "databases/sgte-binary/NiTi-14Hu.tdb",
+   "sha256": "83c0ad45fde56b371df4f38e3e86d022e6fa3c08bc62327ab5b69278071dc3e8",
+   "catalog_entry": {
+    "name": "NiTi-14Hu.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-tca-2014-01-002",
+   "doi": "10.1016/j.tca.2014.01.002",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 578, 35-42(2014).",
+    "year": "2014"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "hu2014_a63078",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-AMXW2U6OBS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2014.01.002",
+    "measured_in": "doi:10.1016/j.tca.2014.01.002"
+   },
+   {
+    "id": "ORC-TZDUPCUZ3I",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2014.01.002",
+    "measured_in": "doi:10.1016/j.tca.2014.01.002"
+   },
+   {
+    "id": "ORC-B56Y6OEZBZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2014.01.002",
+    "measured_in": "doi:10.1016/j.tca.2014.01.002"
+   },
+   {
+    "id": "ORC-WKLF5QN66S",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2014.01.002",
+    "measured_in": "doi:10.1016/j.tca.2014.01.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2014.01.002"
+  ],
+  "dois": [
+   "10.1016/j.tca.2014.01.002"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NiTi-14Hu/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

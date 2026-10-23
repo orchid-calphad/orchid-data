@@ -1,0 +1,270 @@
+{
+ "components": [
+  "CO",
+  "GE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CO5GE3_B82",
+  "CO5GE7",
+  "COGE",
+  "COGE2",
+  "DIAMOND_A4",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1391.0,
+   1263.0,
+   1112.0,
+   1099.0,
+   1089.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO5GE3_B82",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CO5GE3_B82",
+    [
+     "GE"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "COGE",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.4375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COGE",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "COGE2",
+    [
+     "GE"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.5833335
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "COGE2",
+    [
+     "GE"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "GE"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "COGE2",
+    [
+     "GE"
+    ],
+    [
+     0.666667
+    ]
+   ],
+   [
+    "COGE",
+    [
+     "GE"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "CO5GE7",
+    [
+     "GE"
+    ],
+    [
+     0.583333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GE"
+    ],
+    [
+     0.5833333333333334
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zeng 2019, doi:10.1016/j.jallcom.2018.12.205",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2BAK36DQHF ORC-IDI4YT6Y57 ORC-MBCMUUL6JI ORC-XYHT5UBJGJ ORC-N4FGHOOX7Q",
+ "bibtex": "zeng2019_5ba00e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2BAK36DQHF",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   },
+   {
+    "id": "ORC-IDI4YT6Y57",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   },
+   {
+    "id": "ORC-MBCMUUL6JI",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   },
+   {
+    "id": "ORC-XYHT5UBJGJ",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   },
+   {
+    "id": "ORC-N4FGHOOX7Q",
+    "paper": "doi:10.1016/j.jallcom.2018.12.205"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2018.12.205",
+   "doi:10.1007/s11669-017-0592-1"
+  ],
+  "dois": [
+   "10.1007/s11669-017-0592-1",
+   "10.1016/j.jallcom.2018.12.205"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CoGe-19Zen-ass/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "components": [
+  "MG",
+  "SB"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 923.0,
+  "X_SB": [
+   0.4,
+   0.4
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -52400.0,
+    -52400.0
+   ]
+  ]
+ ],
+ "reference": "Jönsson 1987, doi:10.1007/bf02646653",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MQX3HO7MYO.7825da ORC-MQX3HO7MYO.7825da",
+ "reference_states": {
+  "MG": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "SB": {
+   "phase": "RHOMBOHEDRAL_A7",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "MgSb-87Jon.tdb",
+   "path": "databases/sgte-binary/MgSb-87Jon.tdb",
+   "sha256": "9ad9f434fc7c389f36c6de1248379c0141452516879fcfa94abd1548cf6d7f22",
+   "catalog_entry": {
+    "name": "MgSb-87Jon.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-bf02646653",
+   "doi": "10.1007/BF02646653",
+   "citation": {
+    "authors": "see doi",
+    "title": "B. Joensson, J. Agren, Metall. Trans. A, 18A, 1395-1401(1987).",
+    "year": "1987"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "jonsson1987_d5717f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-MQX3HO7MYO.7825da",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02646653",
+    "measured_in": "doi:10.1007/bf02646653"
+   },
+   {
+    "id": "ORC-MQX3HO7MYO.7825da",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02646653",
+    "measured_in": "doi:10.1007/bf02646653"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02646653"
+  ],
+  "dois": [
+   "10.1007/bf02646653"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/MgSb-87Jon/hmr-model-05.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

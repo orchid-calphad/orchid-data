@@ -1,0 +1,75 @@
+{
+ "components": [
+  "AL",
+  "NA"
+ ],
+ "phases": [
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   932.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "NA"
+    ],
+    [
+     0.0014
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "NA"
+    ],
+    [
+     2e-05
+    ]
+   ]
+  ]
+ ],
+ "reference": "Zhang 2006, doi:10.1016/j.jallcom.2005.10.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4WVY22J5YD",
+ "bibtex": "zhang2006_367249",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-4WVY22J5YD",
+    "paper": "doi:10.1016/j.jallcom.2005.10.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2005.10.002"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2005.10.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AlNa-06Zha/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

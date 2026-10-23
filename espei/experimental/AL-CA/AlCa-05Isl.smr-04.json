@@ -1,0 +1,88 @@
+{
+ "components": [
+  "AL",
+  "CA"
+ ],
+ "phases": [
+  "AL2CA_C15",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 800.0,
+  "X_CA": [
+   0.333333
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    -6.1
+   ]
+  ]
+ ],
+ "reference": "ISLAM 2005, doi:10.1179/cmq.2005.44.4.523",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EVWHCHSGOM.38c47c",
+ "reference_states": {
+  "AL": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "CA": {
+   "phase": "FCC_A1",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.181818,
+ "bibtex": "islam2005_0b1b3d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EVWHCHSGOM.38c47c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1179/cmq.2005.44.4.523"
+   }
+  ],
+  "papers": [
+   "doi:10.1179/cmq.2005.44.4.523"
+  ],
+  "dois": [
+   "10.1179/cmq.2005.44.4.523"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlCa-05Isl/smr-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 1.1,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.1,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.181818,
+    "weight_used": 0.181818
+   }
+  ]
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "components": [
+  "FE",
+  "PD"
+ ],
+ "phases": [
+  "FEPD3_L12",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_PD": [
+   0.75
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -22010.0
+   ]
+  ]
+ ],
+ "reference": "Ghosh 1999, doi:10.1361/105497199770335811",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SE2VKKEEEZ",
+ "reference_states": {
+  "FE": {
+   "phase": "BCC_A2"
+  },
+  "PD": {
+   "phase": "FCC_A1"
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "FePd-99Gho-LB.tdb",
+   "path": "databases/sgte-binary/FePd-99Gho-LB.tdb",
+   "sha256": "44714d50700b1a28a8ad1b6936558770de176bbf6f8c72c21311a0c71ec9cd02",
+   "catalog_entry": {
+    "name": "FePd-99Gho-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1361-105497199770335811",
+   "doi": "10.1361/105497199770335811",
+   "citation": {
+    "authors": "see doi",
+    "title": "G. Ghosh, C. Kantner, G.B. Olson, J. Phase Equilib., 20, 295-308(1999).",
+    "year": "1999"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "ghosh1999_dbf4f6",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-SE2VKKEEEZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497199770335811",
+    "measured_in": "doi:10.1361/105497199770335811"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497199770335811"
+  ],
+  "dois": [
+   "10.1361/105497199770335811"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/FePd-99Gho-LB/hmr-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

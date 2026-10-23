@@ -1,0 +1,77 @@
+{
+ "components": [
+  "SI",
+  "V"
+ ],
+ "phases": [
+  "LIQUID",
+  "SI2V_C40"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1943.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "V"
+    ],
+    [
+     0.3340000000000001
+    ]
+   ],
+   [
+    "SI2V_C40",
+    [
+     "V"
+    ],
+    [
+     0.3340000000000001
+    ]
+   ]
+  ]
+ ],
+ "reference": "1968, G.I. Kalishevich, P.V. Gel’d, Yu.V. Putinsev, High Temp. (USSR) 6 (1968) 959–962.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CU3XYZJYTA",
+ "bibtex": "kalishevich1968_ac799d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-CU3XYZJYTA",
+    "paper": "doi:10.1016/j.calphad.2007.12.005",
+    "measured_in": "ref:12b796f09f23bd69"
+   }
+  ],
+  "papers": [
+   "ref:12b796f09f23bd69",
+   "doi:10.1016/j.calphad.2007.12.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2007.12.005"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/SiV-08Zha/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

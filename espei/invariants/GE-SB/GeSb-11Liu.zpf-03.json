@@ -1,0 +1,88 @@
+{
+ "components": [
+  "GE",
+  "SB"
+ ],
+ "phases": [
+  "DIAMOND_A4",
+  "LIQUID",
+  "RHOMBOHEDRAL_A7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   860
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SB"
+    ],
+    [
+     0.857
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2009, doi:10.1016/j.jallcom.2009.06.030",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XFQ33HDSKM",
+ "bibtex": "wang2009_591245",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XFQ33HDSKM",
+    "paper": "doi:10.1016/j.tca.2011.03.008",
+    "measured_in": "doi:10.1016/j.jallcom.2009.06.030"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.06.030",
+   "doi:10.1016/j.tca.2011.03.008"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.06.030",
+   "10.1016/j.tca.2011.03.008"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/GeSb-11Liu/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

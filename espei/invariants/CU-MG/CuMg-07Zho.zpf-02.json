@@ -1,0 +1,157 @@
+{
+ "components": [
+  "CU",
+  "MG"
+ ],
+ "phases": [
+  "C15_LAVES",
+  "CUMG2_CB",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   841,
+   825,
+   758
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "CUMG2_CB",
+    [
+     "MG"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUMG2_CB",
+    [
+     "MG"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "C15_LAVES",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     0.855
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CUMG2_CB",
+    [
+     "MG"
+    ],
+    [
+     0.667
+    ]
+   ]
+  ]
+ ],
+ "reference": "1931, W.R.D. Jones, The copper-magnesium Alloys. Part IV. The Equilibrium Diagram, J. Inst. Met., 1931, 46, p 395-419",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-E3SFBB2MVC ORC-6VHE5RFFET ORC-KGKAT37NZP",
+ "bibtex": "jones1931_f1546f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-E3SFBB2MVC",
+    "paper": "doi:10.1007/s11669-007-9022-0",
+    "measured_in": "ref:012d18eb694d496e"
+   },
+   {
+    "id": "ORC-6VHE5RFFET",
+    "paper": "doi:10.1007/s11669-007-9022-0",
+    "measured_in": "ref:012d18eb694d496e"
+   },
+   {
+    "id": "ORC-KGKAT37NZP",
+    "paper": "doi:10.1007/s11669-007-9022-0",
+    "measured_in": "ref:012d18eb694d496e"
+   }
+  ],
+  "papers": [
+   "ref:012d18eb694d496e",
+   "doi:10.1007/s11669-007-9022-0"
+  ],
+  "dois": [
+   "10.1007/s11669-007-9022-0"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuMg-07Zho/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

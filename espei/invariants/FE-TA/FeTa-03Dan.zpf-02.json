@@ -1,0 +1,75 @@
+{
+ "components": [
+  "FE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2048.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.326
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.326
+    ]
+   ]
+  ]
+ ],
+ "reference": "Danon 2003, doi:10.1016/s0022-3115(03)00196-x",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-XF2IVSVL3P",
+ "bibtex": "danon2003_89cd9c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-XF2IVSVL3P",
+    "paper": "doi:10.1016/s0022-3115(03)00196-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0022-3115(03)00196-x"
+  ],
+  "dois": [
+   "10.1016/s0022-3115(03)00196-x"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-03Dan/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "components": [
+  "SI",
+  "SR"
+ ],
+ "phases": [
+  "SISR2_C37"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SI",
+    "SR"
+   ],
+   [
+    "SI",
+    "SR"
+   ],
+   [
+    "SI",
+    "SR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -37900.0,
+    -41300.0,
+    -37600.0
+   ]
+  ]
+ ],
+ "reference": "Garay 2009, doi:10.1016/j.calphad.2009.07.001",
+ "bibtex": "garay2009_710725",
+ "weight": [
+  0.038763,
+  0.038763,
+  0.038763
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB SiSr-11Li-sub.tdb (sha256 284219837343eb2894f690ee9127fec853b809bed39de4f5df91b8e36d94e750), phase SISR2_C37. Ids, in value order: ORC-5BVWOE3YM2.88c8cb ORC-C4KDRUOFUL.8881a7 ORC-FUSAJZBPJH.5aba72. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "SiSr-11Li-sub.tdb",
+   "path": "databases/sgte-binary/SiSr-11Li-sub.tdb",
+   "sha256": "284219837343eb2894f690ee9127fec853b809bed39de4f5df91b8e36d94e750",
+   "phase": "SISR2_C37"
+  },
+  "registry_phase": "phase:si-sr:sisr2-c37",
+  "mapping": [
+   {
+    "id": "ORC-5BVWOE3YM2.88c8cb",
+    "compound": "SiSr2",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-C4KDRUOFUL.8881a7",
+    "compound": "SiSr2",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-FUSAJZBPJH.5aba72",
+    "compound": "SiSr2",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2009.07.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.07.001"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 12899.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "SI-SR",
+     "n": 45,
+     "sigma_robust_kJ": 12.899,
+     "bias_median_kJ_not_applied": 0.0,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.038763,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -37.9,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-5BVWOE3YM2.88c8cb",
+    "compound": "SiSr2"
+   },
+   {
+    "sigma": 12899.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "SI-SR",
+     "n": 45,
+     "sigma_robust_kJ": 12.899,
+     "bias_median_kJ_not_applied": 0.0,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.038763,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -41.3,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-C4KDRUOFUL.8881a7",
+    "compound": "SiSr2"
+   },
+   {
+    "sigma": 12899.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "SI-SR",
+     "n": 45,
+     "sigma_robust_kJ": 12.899,
+     "bias_median_kJ_not_applied": 0.0,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.262,
+      11.505
+     ],
+     "n_full_stratum": 60
+    },
+    "weight_used": 0.038763,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -37.6,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-FUSAJZBPJH.5aba72",
+    "compound": "SiSr2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "components": [
+  "FE",
+  "TA"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C14_LAVES",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1713,
+   1512,
+   1245
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     0.079
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.027999999999999997
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.011000000000000001
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     0.005
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "TA"
+    ],
+    [
+     0.003
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "TA"
+    ],
+    [
+     0.33299999999999996
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TA"
+    ],
+    [
+     0.006
+    ]
+   ]
+  ]
+ ],
+ "reference": "1967, Sinha AK, Hume-Rothery W. J Iron Steel Inst 1967;205:671.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2GPTOXBEZ7 ORC-M33CYEXGAO ORC-K2UZ43CFCY",
+ "bibtex": "sinha1967_985681",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-2GPTOXBEZ7",
+    "paper": "doi:10.1016/j.intermet.2011.03.018",
+    "measured_in": "ref:acddaf214c3da4fc",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-M33CYEXGAO",
+    "paper": "doi:10.1016/j.intermet.2011.03.018",
+    "measured_in": "ref:acddaf214c3da4fc"
+   },
+   {
+    "id": "ORC-K2UZ43CFCY",
+    "paper": "doi:10.1016/j.intermet.2011.03.018",
+    "measured_in": "ref:acddaf214c3da4fc"
+   }
+  ],
+  "papers": [
+   "ref:acddaf214c3da4fc",
+   "doi:10.1016/j.intermet.2011.03.018"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2011.03.018"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-11Wit/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 3.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

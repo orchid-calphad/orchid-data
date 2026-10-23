@@ -1,0 +1,121 @@
+{
+ "components": [
+  "C",
+  "MN"
+ ],
+ "phases": [
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_MN": [
+   0.5,
+   0.5
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    0.0,
+    0.0
+   ]
+  ]
+ ],
+ "reference": "Djurovic 2010, doi:10.1016/j.calphad.2010.05.002",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UPJRWTBPOR.9e8021 ORC-UPJRWTBPOR.0fa690",
+ "reference_states": {
+  "C": {
+   "phase": "GRAPHITE",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "MN": {
+   "phase": "CBCC_A12",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "MnC-10Dju.tdb",
+   "path": "databases/sgte-binary/MnC-10Dju.tdb",
+   "sha256": "9389526bde1e09c7744ab0fb126492dda5df101bf7e009e901d9978372e2dc57",
+   "catalog_entry": {
+    "name": "MnC-10Dju.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2010-05-002",
+   "doi": "10.1016/j.calphad.2010.05.002",
+   "citation": {
+    "authors": "see doi",
+    "title": "Calphad, 34, 279-85(2010).",
+    "year": "2010"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "djurovic2010_7636ec",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-UPJRWTBPOR.9e8021",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2010.05.002",
+    "measured_in": "doi:10.1016/j.calphad.2010.05.002"
+   },
+   {
+    "id": "ORC-UPJRWTBPOR.0fa690",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2010.05.002",
+    "measured_in": "doi:10.1016/j.calphad.2010.05.002"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2010.05.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2010.05.002"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/MnC-10Dju/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,348 @@
+{
+ "components": [
+  "LU",
+  "PB"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID",
+  "LU5PB3_D88",
+  "LU5PB4_HT",
+  "LU5PB4_LT",
+  "LU6PB5",
+  "LUPB2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1558.15,
+   1968.15,
+   1773.15,
+   1748.15,
+   1443.15,
+   843.15,
+   597.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.17500000000000002
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "PB"
+    ],
+    [
+     0.01
+    ]
+   ],
+   [
+    "LU5PB3_D88",
+    [
+     "PB"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "LU5PB3_D88",
+    [
+     "PB"
+    ],
+    [
+     0.375
+    ]
+   ]
+  ],
+  [
+   [
+    "LU5PB3_D88",
+    [
+     "PB"
+    ],
+    [
+     0.375
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LU5PB4_HT",
+    [
+     "PB"
+    ],
+    [
+     0.4444444444444444
+    ]
+   ]
+  ],
+  [
+   [
+    "LU5PB4_HT",
+    [
+     "PB"
+    ],
+    [
+     0.4444444444444444
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LU5PB4_LT",
+    [
+     "PB"
+    ],
+    [
+     0.4444444444444444
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LU5PB4_LT",
+    [
+     "PB"
+    ],
+    [
+     0.4444444444444444
+    ]
+   ],
+   [
+    "LU6PB5",
+    [
+     "PB"
+    ],
+    [
+     0.45454545454545453
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PB"
+    ],
+    [
+     0.4494949495
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LU6PB5",
+    [
+     "PB"
+    ],
+    [
+     0.45454545454545453
+    ]
+   ],
+   [
+    "LUPB2",
+    [
+     "PB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "PB"
+    ],
+    [
+     0.560606061
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LUPB2",
+    [
+     "PB"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "PB"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "McMasters 1969, doi:10.1016/0022-5088(69)90179-9",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FX2EHPIODP ORC-DYTQ7AYCF7 ORC-DGULCJ43MU ORC-RDJ32CNAWX ORC-CZEBPEX4J3 ORC-A6MTI2NV27 ORC-ZV6YCFSOIL",
+ "bibtex": "mcmasters1969_a08ba8",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-FX2EHPIODP",
+    "paper": "doi:10.1016/j.calphad.2013.01.007",
+    "measured_in": "doi:10.1016/0022-5088(69)90179-9"
+   },
+   {
+    "id": "ORC-DYTQ7AYCF7",
+    "paper": "doi:10.1016/j.calphad.2013.01.007",
+    "measured_in": "doi:10.1016/0022-5088(69)90179-9"
+   },
+   {
+    "id": "ORC-DGULCJ43MU",
+    "paper": "doi:10.1016/j.calphad.2013.01.007",
+    "measured_in": "doi:10.1016/0022-5088(69)90179-9"
+   },
+   {
+    "id": "ORC-RDJ32CNAWX",
+    "paper": "doi:10.1016/j.calphad.2013.01.007",
+    "measured_in": "doi:10.1016/0022-5088(69)90179-9"
+   },
+   {
+    "id": "ORC-CZEBPEX4J3",
+    "paper": "doi:10.1016/j.calphad.2013.01.007",
+    "measured_in": "doi:10.1016/0022-5088(69)90179-9"
+   },
+   {
+    "id": "ORC-A6MTI2NV27",
+    "paper": "doi:10.1016/j.calphad.2013.01.007",
+    "measured_in": "doi:10.1016/0022-5088(69)90179-9"
+   },
+   {
+    "id": "ORC-ZV6YCFSOIL",
+    "paper": "doi:10.1016/j.calphad.2013.01.007",
+    "measured_in": "doi:10.1016/0022-5088(69)90179-9"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0022-5088(69)90179-9",
+   "doi:10.1016/j.calphad.2013.01.007"
+  ],
+  "dois": [
+   "10.1016/0022-5088(69)90179-9",
+   "10.1016/j.calphad.2013.01.007"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/LuPb-13Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 5.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "components": [
+  "CO",
+  "Y"
+ ],
+ "phases": [
+  "COY3_D011"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CO",
+    "Y"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -16960.0
+   ]
+  ]
+ ],
+ "reference": "Golumbfskie 2006, doi:10.1016/j.jallcom.2005.06.037",
+ "bibtex": "golumbfskie2006_1dd354",
+ "weight": [
+  0.163773
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB CoY-06Gol.tdb (sha256 aac7ff05f1475e50844ebcb446d5055f1be34dc36ef817d26749319a7385ec6a), phase COY3_D011. Ids, in value order: ORC-QQWL4KHWNN. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "CoY-06Gol.tdb",
+   "path": "databases/sgte-binary/CoY-06Gol.tdb",
+   "sha256": "aac7ff05f1475e50844ebcb446d5055f1be34dc36ef817d26749319a7385ec6a",
+   "phase": "COY3_D011"
+  },
+  "registry_phase": "phase:co-y:coy3-d011",
+  "mapping": [
+   {
+    "id": "ORC-QQWL4KHWNN",
+    "compound": "CoY3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2005.06.037"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2005.06.037"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 3053.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "magnetic_3d",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CO-Y",
+     "n": 92,
+     "sigma_robust_kJ": 3.053,
+     "bias_median_kJ_not_applied": 1.586,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      2.466,
+      4.577
+     ],
+     "n_full_stratum": 94
+    },
+    "weight_used": 0.163773,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -16.96,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-QQWL4KHWNN",
+    "compound": "CoY3"
+   }
+  ]
+ }
+}

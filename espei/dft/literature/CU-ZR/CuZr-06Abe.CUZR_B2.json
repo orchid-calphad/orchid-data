@@ -1,0 +1,199 @@
+{
+ "components": [
+  "CU",
+  "ZR"
+ ],
+ "phases": [
+  "CUZR_B2"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CU",
+    "ZR"
+   ],
+   [
+    "CU",
+    "ZR"
+   ],
+   [
+    "CU",
+    "ZR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -12710.0,
+    -10530.0,
+    -10580.0
+   ]
+  ]
+ ],
+ "reference": "Zhou 2010, doi:10.1016/j.actamat.2009.12.004",
+ "bibtex": "zhou2010_89bf91",
+ "weight": [
+  0.079592,
+  0.079592,
+  0.079592
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB CuZr-06Abe.tdb (sha256 e2697dff02826d36559d03f5f1bc5364842978de3a6488e81a92963853d2c547), phase CUZR_B2. Ids, in value order: ORC-5TEI2DLH4X.4f5a7d ORC-KGNQKQQYYY.788a48 ORC-ZWFODO6HRM.35f0e8. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "CuZr-06Abe.tdb",
+   "path": "databases/sgte-binary/CuZr-06Abe.tdb",
+   "sha256": "e2697dff02826d36559d03f5f1bc5364842978de3a6488e81a92963853d2c547",
+   "phase": "CUZR_B2"
+  },
+  "registry_phase": "phase:cu-zr:cuzr-b2",
+  "mapping": [
+   {
+    "id": "ORC-5TEI2DLH4X.4f5a7d",
+    "compound": "CuZr",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-KGNQKQQYYY.788a48",
+    "compound": "CuZr",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-ZWFODO6HRM.35f0e8",
+    "compound": "CuZr",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.actamat.2009.12.004"
+  ],
+  "dois": [
+   "10.1016/j.actamat.2009.12.004"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6282.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CU-ZR",
+     "n": 78,
+     "sigma_robust_kJ": 6.282,
+     "bias_median_kJ_not_applied": 0.203,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.079592,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -12.71,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-5TEI2DLH4X.4f5a7d",
+    "compound": "CuZr"
+   },
+   {
+    "sigma": 6282.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CU-ZR",
+     "n": 78,
+     "sigma_robust_kJ": 6.282,
+     "bias_median_kJ_not_applied": 0.203,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.079592,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -10.53,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-KGNQKQQYYY.788a48",
+    "compound": "CuZr"
+   },
+   {
+    "sigma": 6282.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CU-ZR",
+     "n": 78,
+     "sigma_robust_kJ": 6.282,
+     "bias_median_kJ_not_applied": 0.203,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.079592,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -10.58,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-ZWFODO6HRM.35f0e8",
+    "compound": "CuZr"
+   }
+  ]
+ }
+}

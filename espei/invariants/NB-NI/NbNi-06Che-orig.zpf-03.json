@@ -1,0 +1,97 @@
+{
+ "components": [
+  "NB",
+  "NI"
+ ],
+ "phases": [
+  "FCC_A1",
+  "NBNI3_D0A",
+  "NBNI8"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   808.15
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NBNI3_D0A",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "NBNI8",
+    [
+     "NI"
+    ],
+    [
+     0.8888888888888888
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.8194444445
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wekken 1971, doi:10.1179/030634571790439487",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WGQCPYT4L5",
+ "bibtex": "wekken1971_be2bce",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-WGQCPYT4L5",
+    "paper": "doi:10.1016/j.calphad.2006.02.005",
+    "measured_in": "doi:10.1179/030634571790439487"
+   }
+  ],
+  "papers": [
+   "doi:10.1179/030634571790439487",
+   "doi:10.1016/j.calphad.2006.02.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2006.02.005",
+   "10.1179/030634571790439487"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NbNi-06Che-orig/zpf-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

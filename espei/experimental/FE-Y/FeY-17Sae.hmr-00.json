@@ -1,0 +1,89 @@
+{
+ "components": [
+  "FE",
+  "Y"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 895.0,
+  "X_Y": [
+   0.105263
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -7930.0
+   ]
+  ]
+ ],
+ "reference": "Saenko 2017, doi:10.1007/s11669-017-0574-3",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YIWT6AZWC6.097dc8",
+ "reference_states": {
+  "FE": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "Y": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 50.0,
+ "bibtex": "saenko2017_3a66b4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YIWT6AZWC6.097dc8",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-017-0574-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-017-0574-3",
+   "doi:10.1021/je7003353"
+  ],
+  "dois": [
+   "10.1007/s11669-017-0574-3",
+   "10.1021/je7003353"
+  ],
+  "source_dataset": "db-v2.1/general/espei/FeY-17Sae/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 10.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 0.01,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 50.0,
+    "weight_used": 50.0
+   }
+  ]
+ }
+}

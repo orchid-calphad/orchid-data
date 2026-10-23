@@ -1,0 +1,129 @@
+{
+ "components": [
+  "C",
+  "PU"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_PU": [
+   0.543478,
+   0.526316,
+   0.5
+  ]
+ },
+ "output": "CPM",
+ "values": [
+  [
+   [
+    44.16,
+    45.11,
+    46.69
+   ]
+  ]
+ ],
+ "reference": "Fischer 2008, doi:10.1016/j.calphad.2007.12.004",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SRRGTSNGMO.bd9940 ORC-UIGWAPEFNG.049b5a ORC-MOYSFEYTAM.7f6a84",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "PuC-08Fis.tdb",
+   "path": "databases/sgte-binary/PuC-08Fis.tdb",
+   "sha256": "06c1c7c1016da9991e0a5a00b3564693eac9efa85f278a64cb2dab766e3f9084",
+   "catalog_entry": {
+    "name": "PuC-08Fis.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2007-12-004",
+   "doi": "10.1016/j.calphad.2007.12.004",
+   "citation": {
+    "authors": "see doi",
+    "title": "E. Fischer, Calphad, 32, 371-77(2008).",
+    "year": "2008"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "fischer2008_9f802c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-SRRGTSNGMO.bd9940",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2007.12.004",
+    "measured_in": "doi:10.1016/j.calphad.2007.12.004",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-UIGWAPEFNG.049b5a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2007.12.004",
+    "measured_in": "doi:10.1016/j.calphad.2007.12.004",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   },
+   {
+    "id": "ORC-MOYSFEYTAM.7f6a84",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2007.12.004",
+    "measured_in": "doi:10.1016/j.calphad.2007.12.004",
+    "caveats": [
+     "energy_basis_unstated"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2007.12.004"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2007.12.004"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/PuC-08Fis/cpm-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_CPM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ }
+}

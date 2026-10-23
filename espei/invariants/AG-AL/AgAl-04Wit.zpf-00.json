@@ -1,0 +1,86 @@
+{
+ "components": [
+  "AG",
+  "AL"
+ ],
+ "phases": [
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   838
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "AL"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "AL"
+    ],
+    [
+     0.39
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "AL"
+    ],
+    [
+     0.73
+    ]
+   ]
+  ]
+ ],
+ "reference": "Witusiewicz 2004, doi:10.1016/j.jallcom.2004.04.126",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LSPWJMZAVQ",
+ "bibtex": "witusiewicz2004_4893db",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-LSPWJMZAVQ",
+    "paper": "doi:10.1016/j.jallcom.2004.04.126",
+    "measured_in": "doi:10.1016/j.jallcom.2004.04.126"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2004.04.126"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2004.04.126"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgAl-04Wit/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

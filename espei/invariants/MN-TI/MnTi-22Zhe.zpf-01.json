@@ -1,0 +1,176 @@
+{
+ "components": [
+  "MN",
+  "TI"
+ ],
+ "phases": [
+  "BCC_A2",
+  "C14_LAVES",
+  "LIQUID",
+  "MN3TI",
+  "MN4TI"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1523,
+   1503,
+   1477
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "C14_LAVES",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN3TI",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN3TI",
+    [
+     "TI"
+    ],
+    [
+     0.25
+    ]
+   ],
+   [
+    "MN4TI",
+    [
+     "TI"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.225
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "MN4TI",
+    [
+     "TI"
+    ],
+    [
+     0.2
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "1987, J.L. Murray, Phase diagrams of binary titanium alloys, Materials Park, ASM International, 1987, pp. 159–168.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RC6FWLNONE ORC-5KKVXDLSRE ORC-I6PABDH2UP",
+ "bibtex": "murray1987_6bebc4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-RC6FWLNONE",
+    "paper": "doi:10.1016/j.jallcom.2021.161957",
+    "measured_in": "ref:f4c671d3065ff1d3"
+   },
+   {
+    "id": "ORC-5KKVXDLSRE",
+    "paper": "doi:10.1016/j.jallcom.2021.161957",
+    "measured_in": "ref:f4c671d3065ff1d3"
+   },
+   {
+    "id": "ORC-I6PABDH2UP",
+    "paper": "doi:10.1016/j.jallcom.2021.161957",
+    "measured_in": "ref:f4c671d3065ff1d3"
+   }
+  ],
+  "papers": [
+   "ref:f4c671d3065ff1d3",
+   "doi:10.1016/j.jallcom.2021.161957"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2021.161957"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnTi-22Zhe/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

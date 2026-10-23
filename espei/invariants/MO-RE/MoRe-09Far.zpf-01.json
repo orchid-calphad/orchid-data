@@ -1,0 +1,171 @@
+{
+ "components": [
+  "MO",
+  "RE"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CHI_A12",
+  "HCP_A3",
+  "LIQUID",
+  "SIGMA_D8B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   2778,
+   2918,
+   2348
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "RE"
+    ],
+    [
+     0.42499999999999993
+    ]
+   ],
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.53
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.69
+    ]
+   ]
+  ],
+  [
+   [
+    "SIGMA_D8B",
+    [
+     "RE"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "RE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CHI_A12",
+    [
+     "RE"
+    ],
+    [
+     0.76
+    ]
+   ]
+  ]
+ ],
+ "reference": "1959, J.M. Dickinson, L.S. Richardson, Trans. ASM 51 (1959) 1055–1071.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BJ3QU4D3LC ORC-PQ7PAAIBV5.4e538e ORC-3QUDDZBOEX",
+ "bibtex": "dickinson1959_2c178f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BJ3QU4D3LC",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "ref:a0dd85795125856f"
+   },
+   {
+    "id": "ORC-PQ7PAAIBV5.4e538e",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "ref:a0dd85795125856f",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-3QUDDZBOEX",
+    "paper": "doi:10.1016/j.calphad.2009.02.001",
+    "measured_in": "ref:a0dd85795125856f"
+   }
+  ],
+  "papers": [
+   "ref:a0dd85795125856f",
+   "doi:10.1016/j.calphad.2009.02.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.02.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MoRe-09Far/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

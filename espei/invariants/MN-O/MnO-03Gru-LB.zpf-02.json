@@ -1,0 +1,116 @@
+{
+ "components": [
+  "MN",
+  "O"
+ ],
+ "phases": [
+  "B1_OXIDE",
+  "CBCC_A12",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1515.0,
+   2115.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "CBCC_A12",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "B1_OXIDE",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.0001
+    ]
+   ]
+  ],
+  [
+   [
+    "B1_OXIDE",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "Grundy 2003, doi:10.1007/s11669-003-0004-6",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DJM5PSR7DJ ORC-IA643BOB2O",
+ "bibtex": "grundy2003_8bbb0a",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-DJM5PSR7DJ",
+    "paper": "doi:10.1007/s11669-003-0004-6"
+   },
+   {
+    "id": "ORC-IA643BOB2O",
+    "paper": "doi:10.1007/s11669-003-0004-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-003-0004-6",
+   "doi:10.1002/srin.196402318"
+  ],
+  "dois": [
+   "10.1002/srin.196402318",
+   "10.1007/s11669-003-0004-6"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/MnO-03Gru-LB/zpf-02.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ }
+}

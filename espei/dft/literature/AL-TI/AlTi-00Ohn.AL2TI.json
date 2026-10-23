@@ -1,0 +1,156 @@
+{
+ "components": [
+  "AL",
+  "TI"
+ ],
+ "phases": [
+  "AL2TI"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "TI"
+   ],
+   [
+    "AL",
+    "TI"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -27823.33,
+    -41103.82
+   ]
+  ]
+ ],
+ "reference": "Liang 2024, doi:10.1007/s11669-024-01124-9",
+ "bibtex": "liang2024_8e69c3",
+ "weight": [
+  0.073866,
+  0.073866
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AlTi-00Ohn.tdb (sha256 f6830a89b441de8eecaf5220a38e09983544e90675750730adc7f7341098581a), phase AL2TI. Ids, in value order: ORC-HYZE77CKMI ORC-KBECAONIIO. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AlTi-00Ohn.tdb",
+   "path": "databases/sgte-binary/AlTi-00Ohn.tdb",
+   "sha256": "f6830a89b441de8eecaf5220a38e09983544e90675750730adc7f7341098581a",
+   "phase": "AL2TI"
+  },
+  "registry_phase": "phase:al-ti:al2ti",
+  "mapping": [
+   {
+    "id": "ORC-HYZE77CKMI",
+    "compound": "Al2Ti",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-KBECAONIIO",
+    "compound": "Al2Ti",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-024-01124-9"
+  ],
+  "dois": [
+   "10.1007/s11669-024-01124-9"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "values": [
+   {
+    "sigma": 6769.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-TI",
+     "n": 100,
+     "sigma_robust_kJ": 6.769,
+     "bias_median_kJ_not_applied": 0.577,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.073866,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -27.82333079,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-HYZE77CKMI",
+    "compound": "Al2Ti"
+   },
+   {
+    "sigma": 6769.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-TI",
+     "n": 100,
+     "sigma_robust_kJ": 6.769,
+     "bias_median_kJ_not_applied": 0.577,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      5.381,
+      8.734
+     ],
+     "n_full_stratum": 100
+    },
+    "weight_used": 0.073866,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -41.103821,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-KBECAONIIO",
+    "compound": "Al2Ti"
+   }
+  ]
+ }
+}
