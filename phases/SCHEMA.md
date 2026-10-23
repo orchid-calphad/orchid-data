@@ -232,9 +232,9 @@ not confirmed by mmc2 carry `%TODO verify`. `st:liquid` and `st:gas` are definit
  "phases_with_literature_values": 4961,
  "literature_phase_mentions_linked": 71700,
  "literature_phase_mentions_unlinked": 23472,
- "phases_with_references": 9927,
- "references_listed": 25192,
- "distinct_reference_dois": 3015,
+ "phases_with_references": 9914,
+ "references_listed": 25149,
+ "distinct_reference_dois": 3012,
  "phases_with_stability": 8544,
  "tdb_definitions": {
   "models_with_definition": 22556,

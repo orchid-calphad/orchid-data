@@ -58,7 +58,7 @@ Table: Phase transition, Er–Ti system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1161.15 K | 1161.15 | other: (Er) ? (bTi) $ (aTi) | model | [1] Yao 2018 | p. 6 | “As can be seen from Fig. 2 and Table 2, the calculated eutectic point of reaction Liquid $ (Er) ? (bTi) lies at 1314 °C and 29.0 at.% Ti and the calculated peritectoid point of reaction (Er) ? (bTi) $ (aTi) is located at 888 °C and 0.4 at.% Ti, which agree well with the literature's reported ones.\[16\]” |
-| Phase transition | 1593.15 K | 1593.15 | Liquid $ (Er) ? (bTi) | experimental | [1] Yao 2018; _cites Love 1960_ [doi](https://doi.org/10.1071/mu960074) | p. 6 | “Due to the limited experimental data from the literature, the invariant reaction Liquid $ (Er) ? (bTi) at 1320 ± 20 °C and 26 at.% Ti reported by Love\[16\] is considered to be reliable in this work.” |
+| Phase transition | 1593.15 K | 1593.15 | Liquid $ (Er) ? (bTi) | experimental | [1] Yao 2018; _cites Love 1960_ | p. 6 | “Due to the limited experimental data from the literature, the invariant reaction Liquid $ (Er) ? (bTi) at 1320 ± 20 °C and 26 at.% Ti reported by Love\[16\] is considered to be reliable in this work.” |
 
 ## Sources
 

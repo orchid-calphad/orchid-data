@@ -67,12 +67,10 @@ _tdb: _tdb:CrU-11Ber.tdb:BCC_A2
 31: CONST BCC_A2 : CR% U% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1063/1.440209](https://doi.org/10.1063/1.440209) M. Venkatraman, J.P. Neumann, D.E. Peterson, Bull. Alloy Phase Diagrams 6 (5) (1985) 425–429; M. Venkatraman, J.P. Neumann, D.E. Peterson, J. Chem. Phys. 73 (2) (1980) 908–912.  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (Cr–U)
 
@@ -148,12 +146,10 @@ _tdb: _tdb:CrU-11Ber.tdb:LIQUID
 21: CONST LIQUID:L : CR U : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1063/1.440209](https://doi.org/10.1063/1.440209) M. Venkatraman, J.P. Neumann, D.E. Peterson, Bull. Alloy Phase Diagrams 6 (5) (1985) 425–429; M. Venkatraman, J.P. Neumann, D.E. Peterson, J. Chem. Phys. 73 (2) (1980) 908–912.  
-_cited as the source of values for this phase_
 
 ## TETRAGONAL_U (Cr–U)
 
@@ -179,12 +175,10 @@ _tdb: _tdb:CrU-11Ber.tdb:TETRAGONAL_U
 46: CONST TETRAGONAL_U : CR U% : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1063/1.440209](https://doi.org/10.1063/1.440209) M. Venkatraman, J.P. Neumann, D.E. Peterson, Bull. Alloy Phase Diagrams 6 (5) (1985) 425–429; M. Venkatraman, J.P. Neumann, D.E. Peterson, J. Chem. Phys. 73 (2) (1980) 908–912.  
-_cited as the source of values for this phase_
 
 ## Please cite
 

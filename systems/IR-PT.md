@@ -17,7 +17,7 @@ Table: Assessments with a calculated phase diagram
 | TDB file | Assessment | SHA-256 | Links |
 |---|---|---|---|
 | IrPt-06Jan-LB.tdb | T. Jantzen, unpublished work, GTT, 2006. | `7d4a5acd2c2507443a1afb004e28d0040536c036f097f5a12c0882b6ef7bd0cc` | [viewer](https://orchid-project.org/phase-diagrams/#IR-PT/IrPt-06Jan-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/IrPt-06Jan-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/IrPt-06Jan-LB.json) |
-| IrPt-09Yam.tdb | Y. Yamabe-Mitarai, T. Aoyagi, T. Abe, J. Alloys Compd., 484, 327-34(2009). [doi:10.2320/jinstmet.73.180](https://doi.org/10.2320/jinstmet.73.180) | `91d0e7520169877989b3564d269f817270cda171885fb84a40d364c5aa6667cc` | [viewer](https://orchid-project.org/phase-diagrams/#IR-PT/IrPt-09Yam.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/IrPt-09Yam.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/IrPt-09Yam.json) |
+| IrPt-09Yam.tdb | Y. Yamabe-Mitarai, T. Aoyagi, T. Abe, J. Alloys Compd., 484, 327-34(2009). | `91d0e7520169877989b3564d269f817270cda171885fb84a40d364c5aa6667cc` | [viewer](https://orchid-project.org/phase-diagrams/#IR-PT/IrPt-09Yam.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/IrPt-09Yam.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/IrPt-09Yam.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/IR/IR-PT.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/IR/IR-PT.json) · [CALPHAD hull IrPt-06Jan-LB](https://data.orchid-project.org/hulls/calphad-sgte/IR/IR-PT--IrPt-06Jan-LB.json)
 

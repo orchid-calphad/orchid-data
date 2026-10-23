@@ -467,7 +467,7 @@
    ]
   ]
  ],
- "reference": "D.H. Wood, E.M. Cramer, and P.L. Wallace, Nucl. Metall., 17, 707-719 (1970) doi:10.1016/0011-7471(70)90036-7; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 61",
+ "reference": "D.H. Wood, E.M. Cramer, and P.L. Wallace, Nucl. Metall., 17, 707-719 (1970); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 61",
  "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AG-PU-p61; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition.",
  "orchid": {
   "evidence_class": "assessed_phase_diagram",

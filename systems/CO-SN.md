@@ -103,9 +103,9 @@ Table: Invariant reactions reported in the literature for the Co–Sn system (62
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1472.15 | congruent melting: β-Co3Sn2 -> liq. | β-Co3Sn2: Sn 0.399; L: Sn 0.399 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 2 |  |
+| 1472.15 | congruent melting: β-Co3Sn2 -> liq. | β-Co3Sn2: Sn 0.399; L: Sn 0.399 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 2 |  |
 | 1469.85 | congruent melting: β-Co3Sn2 -> liq. | β-Co3Sn2: Sn 0.398; L: Sn 0.398 | model | [1] Jedličková 2019 | Table 3, p. 11, row 1 |  |
-| 1400.15 | eutectic: liq -> (α-Co) + β-Co3Sn2 | L: Sn 0.23; (α-Co): Sn 0.016; β-Co3Sn2: Sn 0.393 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 4 |  |
+| 1400.15 | eutectic: liq -> (α-Co) + β-Co3Sn2 | L: Sn 0.23; (α-Co): Sn 0.016; β-Co3Sn2: Sn 0.393 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 4 |  |
 | 1398.15 | L -> Co3Sn2_beta + FCC | Co3Sn2_beta: Sn 0.4 | unspecified | [2] Liu 2004; _cites Okamato 1993_ | Table II, p. 3, row 15 |  |
 | 1398.15 | eutectic: L -> (αCo) + βCo3Sn2 | βCo3Sn2: Sn 0.4 | experimental | [3] Jiang 2004; _cites Comert 1992_ [doi](https://doi.org/10.1007/bf02658043) | Table 1, p. 3, row 5 |  |
 | 1392.15 | eutectic: liq -> (α-Co) + β-Co3Sn2 | L: Sn 0.234; (α-Co): Sn 0.017; β-Co3Sn2: Sn 0.394 | model | [1] Jedličková 2019 | Table 3, p. 11, row 3 |  |
@@ -116,7 +116,7 @@ Table: Invariant reactions reported in the literature for the Co–Sn system (62
 | 1381.15 | eutectic: L -> (αCo) + βCo3Sn2 | βCo3Sn2: Sn 0.4 | experimental | [3] Jiang 2004; _cites Hashimoto 1938_ | Table 1, p. 3, row 3 |  |
 | 1376.15 | eutectic: L -> (αCo) + βCo3Sn2 | βCo3Sn2: Sn 0.4 | model | [3] Jiang 2004 | Table 1, p. 3, row 6 |  |
 | 1368.15 | eutectic: L -> (αCo) + βCo3Sn2 | βCo3Sn2: Sn 0.4 | experimental | [3] Jiang 2004; _cites Lewkonja 1908_ | Table 1, p. 3, row 1 |  |
-| 1240.15 | peritectic: liq + β-Co3Sn2 -> CoSn | L: Sn 0.729; β-Co3Sn2: Sn 0.418; CoSn: Sn 0.5 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 6 |  |
+| 1240.15 | peritectic: liq + β-Co3Sn2 -> CoSn | L: Sn 0.729; β-Co3Sn2: Sn 0.418; CoSn: Sn 0.5 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 6 |  |
 | 1240.15 | peritectic: liq + β-Co3Sn2 -> CoSn | L: Sn 0.709; β-Co3Sn2: Sn 0.413; CoSn: Sn 0.5 | model | [1] Jedličková 2019 | Table 3, p. 11, row 5 |  |
 | 1239.15 | peritectic: L + βCo3Sn2 -> CoSn | βCo3Sn2: Sn 0.4; CoSn: Sn 0.5 | experimental | [3] Jiang 2004; _cites Comert 1992_ [doi](https://doi.org/10.1007/bf02658043) | Table 1, p. 3, row 13 |  |
 | 1238.15 | peritectic: L + βCo3Sn2 -> CoSn | βCo3Sn2: Sn 0.4; CoSn: Sn 0.5 | model | [3] Jiang 2004 | Table 1, p. 3, row 14 |  |
@@ -127,12 +127,12 @@ Table: Invariant reactions reported in the literature for the Co–Sn system (62
 | 1209.15 | peritectic: L + βCo3Sn2 -> CoSn | βCo3Sn2: Sn 0.4; CoSn: Sn 0.5 | experimental | [3] Jiang 2004; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663681) | Table 1, p. 3, row 12 |  |
 | 1200.15 | peritectic: L + βCo3Sn2 -> CoSn | βCo3Sn2: Sn 0.4; CoSn: Sn 0.5 | experimental | [3] Jiang 2004; _cites Zemczuzny 1908_ [doi](https://doi.org/10.1002/zaac.19080590133) | Table 1, p. 3, row 11 |  |
 | 847.35 | peritectic: (α-Co) + β-Co3Sn2 -> α-Co3Sn2 | β-Co3Sn2: Sn 0.401; α-Co3Sn2: Sn 0.4 | model | [1] Jedličková 2019 | Table 3, p. 11, row 7 |  |
-| 845.15 | peritectic: liq + CoSn -> CoSn2 | L: Sn 0.959; CoSn: Sn 0.5; CoSn2: Sn 0.667 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 10 |  |
+| 845.15 | peritectic: liq + CoSn -> CoSn2 | L: Sn 0.959; CoSn: Sn 0.5; CoSn2: Sn 0.667 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 10 |  |
 | 845.05 | peritectic: liq + CoSn -> CoSn2 | L: Sn 0.973; CoSn: Sn 0.5; CoSn2: Sn 0.667 | model | [1] Jedličková 2019 | Table 3, p. 11, row 9 |  |
 | 844.15 | peritectic: L + CoSn ↔ CoSn2 |  | experimental | [3] Jiang 2004 | p. 2 | “Additionally, the peritectic temperature of L + CoSn ↔ CoSn2 was also reported to be 571 ± 3 ◦ C, which is higher than the values of 525 ◦ C \[16\] and 550 ◦ C \[14\] in the previous studies.” |
 | 844.15 | peritectic: L + CoSn -> CoSn2 | CoSn: Sn 0.5; CoSn2: Sn 0.666667 | experimental | [3] Jiang 2004; _cites Lang 1996_ | Table 1, p. 3, row 23 |  |
 | 843.15 | peritectic: L + CoSn -> CoSn2 | CoSn: Sn 0.5; CoSn2: Sn 0.666667 | model | [3] Jiang 2004 | Table 1, p. 3, row 24 |  |
-| 826.15 | peritectic: (α-Co) + β-Co3Sn2 -> α-Co3Sn2 | (α-Co): Sn 0.008; β-Co3Sn2: Sn 0.406; α-Co3Sn2: Sn 0.397 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 8 |  |
+| 826.15 | peritectic: (α-Co) + β-Co3Sn2 -> α-Co3Sn2 | (α-Co): Sn 0.008; β-Co3Sn2: Sn 0.406; α-Co3Sn2: Sn 0.397 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 8 |  |
 | 823.15 | peritectic: L + CoSn ↔ CoSn2 |  | experimental | [3] Jiang 2004; _cites Comert 1992_ [doi](https://doi.org/10.1007/bf02658043) | p. 2 | “Additionally, the peritectic temperature of L + CoSn ↔ CoSn2 was also reported to be 571 ± 3 ◦ C, which is higher than the values of 525 ◦ C \[16\] and 550 ◦ C \[14\] in the previous studies.” |
 | 823.15 | peritectic: L + CoSn -> CoSn2 | CoSn: Sn 0.5; CoSn2: Sn 0.666667 | experimental | [3] Jiang 2004; _cites Comert 1992_ [doi](https://doi.org/10.1007/bf02658043) | Table 1, p. 3, row 22 |  |
 | 798.15 | peritectic: L + CoSn ↔ CoSn2 |  | model | [3] Jiang 2004; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663681) | p. 2 | “Additionally, the peritectic temperature of L + CoSn ↔ CoSn2 was also reported to be 571 ± 3 ◦ C, which is higher than the values of 525 ◦ C \[16\] and 550 ◦ C \[14\] in the previous studies.” |
@@ -142,20 +142,20 @@ Table: Invariant reactions reported in the literature for the Co–Sn system (62
 | 798.15 | peritectic: L + CoSn -> CoSn2 | CoSn: Sn 0.5; CoSn2: Sn 0.666667 | experimental | [3] Jiang 2004; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663681) | Table 1, p. 3, row 21 |  |
 | 798.15 | L + CoSn -> CoSn2 | CoSn: Sn 0.5; CoSn2: Sn 0.666667 | unspecified | [2] Liu 2004; _cites Okamato 1993_ | Table II, p. 3, row 6 |  |
 | 793.15 | peritectic: L + CoSn -> CoSn2 | CoSn: Sn 0.5; CoSn2: Sn 0.666667 | experimental | [3] Jiang 2004; _cites Lewkonja 1908_ | Table 1, p. 3, row 18 |  |
-| 793.15 | eutectic: β-Co3Sn2 -> α-Co3Sn2 + CoSn | β-Co3Sn2: Sn 0.411; α-Co3Sn2: Sn 0.399; CoSn: Sn 0.5; β-CoSn3: Sn 0.411 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 12 |  |
+| 793.15 | eutectic: β-Co3Sn2 -> α-Co3Sn2 + CoSn | β-Co3Sn2: Sn 0.411; α-Co3Sn2: Sn 0.399; CoSn: Sn 0.5; β-CoSn3: Sn 0.411 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 12 |  |
 | 793.05 | eutectic: β-Co3Sn2 -> α-Co3Sn2 + CoSn | β-Co3Sn2: Sn 0.408; α-Co3Sn2: Sn 0.4; CoSn: Sn 0.5; β-CoSn3: Sn 0.408 | model | [1] Jedličková 2019 | Table 3, p. 11, row 11 |  |
 | 788.15 | peritectic: L + CoSn -> CoSn2 | CoSn: Sn 0.5; CoSn2: Sn 0.666667 | experimental | [3] Jiang 2004; _cites Zemczuzny 1908_ [doi](https://doi.org/10.1002/zaac.19080590133) | Table 1, p. 3, row 19 |  |
 | 695.15 | eutectoid: (αCo) -> (εCo) + αCo3Sn2 | αCo3Sn2: Sn 0.4 | model | [3] Jiang 2004 | Table 1, p. 3, row 27 |  |
 | 694.95 | eutectic: (α-Co) -> (ε-Co) + α-Co3Sn2 | α-Co3Sn2: Sn 0.4 | model | [1] Jedličková 2019 | Table 3, p. 11, row 13 |  |
 | 694.15 | eutectoid: (αCo) -> (εCo) + αCo3Sn2 | αCo3Sn2: Sn 0.4 | experimental | [3] Jiang 2004; _cites Comert 1992_ [doi](https://doi.org/10.1007/bf02658043) | Table 1, p. 3, row 26 |  |
-| 693.15 | eutectic: (α-Co) -> (ε-Co) + α-Co3Sn2 | (α-Co): Sn 0.028; (ε-Co): Sn 0.0035; α-Co3Sn2: Sn 0.397 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 14 |  |
+| 693.15 | eutectic: (α-Co) -> (ε-Co) + α-Co3Sn2 | (α-Co): Sn 0.028; (ε-Co): Sn 0.0035; α-Co3Sn2: Sn 0.397 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 14 |  |
 | 693.15 | eutectoid: (αCo) -> (εCo) + αCo3Sn2 | αCo3Sn2: Sn 0.4 | experimental | [3] Jiang 2004; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663681) | Table 1, p. 3, row 25 |  |
 | 618.25 | peritectic: liq + CoSn2 -> β-CoSn3 | L: Sn 0.998; CoSn2: Sn 0.667; β-CoSn3: Sn 0.75 | model | [1] Jedličková 2019 | Table 3, p. 11, row 15 |  |
-| 618.15 | peritectic: liq + CoSn2 -> β-CoSn3 | L: Sn 0.996; CoSn2: Sn 0.667; β-CoSn3: Sn 0.75 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 16 |  |
+| 618.15 | peritectic: liq + CoSn2 -> β-CoSn3 | L: Sn 0.996; CoSn2: Sn 0.667; β-CoSn3: Sn 0.75 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 16 |  |
 | 618.15 | peritectic: L + CoSn2 -> βCoSn3 | CoSn2: Sn 0.666667; βCoSn3: Sn 0.75 | experimental | [3] Jiang 2004; _cites Lang 1996_ | Table 1, p. 3, row 28 |  |
 | 618.15 | peritectic: L + CoSn2 -> βCoSn3 | CoSn2: Sn 0.666667; βCoSn3: Sn 0.75 | model | [3] Jiang 2004 | Table 1, p. 3, row 29 |  |
-| 548.15 | liq + β-CoSn3 -> α-CoSn3 | L: Sn 0.999; β-CoSn3: Sn 0.25; α-CoSn3: Sn 0.25 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 18 |  |
-| 548.15 | β-CoSn3 -> α-CoSn3 + CoSn2 | β-CoSn3: Sn 0.25; α-CoSn3: Sn 0.25; CoSn2: Sn 0.667 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ [doi](https://doi.org/10.7121/msi-eureka-20.11366.1.8) | Table 3, p. 11, row 20 |  |
+| 548.15 | liq + β-CoSn3 -> α-CoSn3 | L: Sn 0.999; β-CoSn3: Sn 0.25; α-CoSn3: Sn 0.25 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 18 |  |
+| 548.15 | β-CoSn3 -> α-CoSn3 + CoSn2 | β-CoSn3: Sn 0.25; α-CoSn3: Sn 0.25; CoSn2: Sn 0.667 | unspecified | [1] Jedličková 2019; _cites Bulanova 2015_ | Table 3, p. 11, row 20 |  |
 | 547.75 | β-CoSn3 -> α-CoSn3 + CoSn2 | β-CoSn3: Sn 0.25; α-CoSn3: Sn 0.25; CoSn2: Sn 0.667 | model | [1] Jedličková 2019 | Table 3, p. 11, row 19 |  |
 | 547.75 | liq + β-CoSn3 -> α-CoSn3 | L: Sn 0.999; β-CoSn3: Sn 0.25; α-CoSn3: Sn 0.25 | model | [1] Jedličková 2019 | Table 3, p. 11, row 17 |  |
 | 505.15 | eutectic: L -> αCoSn3 + (βSn) | αCoSn3: Sn 0.75; (βSn): Sn 1 | model | [3] Jiang 2004 | Table 1, p. 3, row 35 |  |

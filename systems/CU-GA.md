@@ -135,9 +135,9 @@ Table: Invariant reactions reported in the literature for the Cu–Ga system (87
 | 598 | GAMMA_ORD + HCP_A3 + CU0778GA0222 | GAMMA_ORD: Cu 0.5, Ga 0.5; CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 31 |  |
 | 596 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 34 |  |
 | 595 | peritectoid: hcp + gamma1 \<-> zeta' | hcp: Ga 0.205; gamma1: Cu 0.5, Ga 0.5; zeta': Ga 0.219 | experimental | [2] Li 2008; _cites Kittl 1964_ | Table 1, p. 2, row 28 |  |
-| 595 | GAMMA_ORD + HCP_A3 + CU0778GA0222 | GAMMA_ORD: Cu 0.5, Ga 0.5; CU0778GA0222: Cu 0.778, Ga 0.222 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Kittl 1965_ [doi](https://doi.org/10.1001/jama.1964.03060380116096) | Table 4, p. 5, row 33 |  |
+| 595 | GAMMA_ORD + HCP_A3 + CU0778GA0222 | GAMMA_ORD: Cu 0.5, Ga 0.5; CU0778GA0222: Cu 0.778, Ga 0.222 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Kittl 1965_ | Table 4, p. 5, row 33 |  |
 | 595 | eutectoid: hcp \<-> fcc + zeta' | zeta': Ga 0.219 | experimental | [2] Li 2008; _cites Kittl 1964_ | Table 1, p. 2, row 25 |  |
-| 595 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Kittl 1965_ [doi](https://doi.org/10.1001/jama.1964.03060380116096) | Table 4, p. 5, row 36 |  |
+| 595 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Kittl 1965_ | Table 4, p. 5, row 36 |  |
 | 593 | GAMMA_ORD + HCP_A3 + CU0778GA0222 | GAMMA_ORD: Cu 0.5, Ga 0.5; CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 32 |  |
 | 592 | peritectoid: hcp + gamma1 \<-> zeta' | hcp: Ga 0.213; gamma1: Ga 0.296; zeta': Ga 0.00222 | model | [2] Li 2008 | Table 1, p. 2, row 27 |  |
 | 591 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 35 |  |

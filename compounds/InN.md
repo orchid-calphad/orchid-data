@@ -14,19 +14,19 @@ Table: Enthalpy of formation of InN reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -143.5 per formula unit | InN | 298.15 | experimental | Decomposition of InN (+In) powders, high pressure autoclave-derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010; _cites MacChesney 1970_ | Table III, p. 10, row 2 |  |
-| -136.4 per formula unit ± 19 | InN | 298.15 | experimental | Mass-spectrometer, Knudsen cell, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010; _cites Vorobev 1973_ | Table III, p. 10, row 5 |  |
-| -132.6 per formula unit ± 6 | InN | 298.15 | experimental | Mass-spectrometer, Knudsen cell, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010; _cites Vorobev 1971_ | Table III, p. 10, row 4 |  |
-| -131.4 per formula unit ± 7 | InN | 298.15 | experimental | Mass-spectrometer static, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010; _cites Jones 1987_ | Table III, p. 10, row 7 |  |
-| -127.6 per formula unit ± 3 | InN | 298.15 | experimental | Mass-spectrometer, Knudsen cell, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010; _cites Gordienko 1977_ | Table III, p. 10, row 6 |  |
-| -113 per formula unit ± 42 | InN | 298.15 | experimental | Mass-spectrometer, static, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010; _cites Vorobev 1971_ | Table III, p. 10, row 3 |  |
-| -28.6 per formula unit ± 9.2 | InN | 298.15 | experimental | Oxidative drop solution calorimetry at 975 K | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010; _cites Ranade 2001_ | Table III, p. 10, row 8 |  |
-| -19.2 per formula unit ± 2 | InN | 298.15 | experimental | Combustion of InN in a bomb-calorimeter (b) | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010; _cites Hahn 1940_ | Table III, p. 10, row 10 |  |
-| -96.5 per formula unit | InN | 298.15 | model | Calculated from S°298(InN) and T^LSG = 773 K at 1 bar, first choice | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] F 2010 | Table III, p. 10, row 11 |  |
+| -143.5 per formula unit | InN | 298.15 | experimental | Decomposition of InN (+In) powders, high pressure autoclave-derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites MacChesney 1970_ | Table III, p. 10, row 2 |  |
+| -136.4 per formula unit ± 19 | InN | 298.15 | experimental | Mass-spectrometer, Knudsen cell, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Vorobev 1973_ | Table III, p. 10, row 5 |  |
+| -132.6 per formula unit ± 6 | InN | 298.15 | experimental | Mass-spectrometer, Knudsen cell, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Vorobev 1971_ | Table III, p. 10, row 4 |  |
+| -131.4 per formula unit ± 7 | InN | 298.15 | experimental | Mass-spectrometer static, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Jones 1987_ | Table III, p. 10, row 7 |  |
+| -127.6 per formula unit ± 3 | InN | 298.15 | experimental | Mass-spectrometer, Knudsen cell, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Gordienko 1977_ | Table III, p. 10, row 6 |  |
+| -113 per formula unit ± 42 | InN | 298.15 | experimental | Mass-spectrometer, static, derived from P(T) curve slope | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Vorobev 1971_ | Table III, p. 10, row 3 |  |
+| -28.6 per formula unit ± 9.2 | InN | 298.15 | experimental | Oxidative drop solution calorimetry at 975 K | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Ranade 2001_ | Table III, p. 10, row 8 |  |
+| -19.2 per formula unit ± 2 | InN | 298.15 | experimental | Combustion of InN in a bomb-calorimeter (b) | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002; _cites Hahn 1940_ | Table III, p. 10, row 10 |  |
+| -96.5 per formula unit | InN | 298.15 | model | Calculated from S°298(InN) and T^LSG = 773 K at 1 bar, first choice | [In–N](https://data.orchid-project.org/systems/IN-N.html) | [1] Onderka 2002 | Table III, p. 10, row 11 |  |
 
 ## Sources
 
-1. F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010). [doi:10.1557/jmr](https://doi.org/10.1557/jmr)
+1. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

@@ -182,7 +182,7 @@ _tdb: _tdb:CoSn-04Jia.tdb:BCC_A2, tdb:CoSn-04Liu.tdb:BCC_A2, tdb:CoSn-09Don.tdb:
 31: CONST BCC_A2 : CO SN : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s11669-018-0687-3](https://doi.org/10.1007/s11669-018-0687-3) V. Jedličková, A. Zemanová, A. Kroupa, The Thermodynamic Assessment of the Co-Sn System, J. Phase Equilib. Diffus. 40, 21-33 (2019).  
 _assessment that models this phase; reports values for this phase_
@@ -192,8 +192,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2004.08.001](https://doi.org/10.1016/j.calphad.2004.08.001) M. Jiang, J. Sato, I. Ohnuma, R. Kainuma, K. Ishida, A thermodynamic assessment of the Co–Sn system, Calphad 28, 213-220 (2004).  
 _assessment that models this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
-_cited as the source of values for this phase_
 
 ## CO3SN2_ALPHA (Co–Sn)
 
@@ -227,14 +225,12 @@ _tdb: _tdb:CoSn-04Liu.tdb:CO3SN2_ALPHA, tdb:CoSn-19Jed.tdb:CO3SN2_ALPHA
 51: CONST CO3SN2_ALPHA : CO : SN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-018-0687-3](https://doi.org/10.1007/s11669-018-0687-3) V. Jedličková, A. Zemanová, A. Kroupa, The Thermodynamic Assessment of the Co-Sn System, J. Phase Equilib. Diffus. 40, 21-33 (2019).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-004-0019-8](https://doi.org/10.1007/s11664-004-0019-8) Libin Liu, Cristina Andersson, Johan Liu, Thermodynamic assessment of the Sn-Co lead-free solder system, Journal of Elec Materi 33, 935-939 (2004).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02663681](https://doi.org/10.1007/bf02663681) K Ishida, T Nishizawa, The Co-Sn (Cobalt-Tin) System, JPE 12, 88-93 (1991).  
 _cited as the source of values for this phase_
 
@@ -289,7 +285,7 @@ _tdb: _tdb:CoSn-04Jia.tdb:CO3SN2_B82, tdb:CoSn-04Liu.tdb:CO3SN2_B82, tdb:CoSn-09
 56: CONST CO3SN2_B82 : CO VA : CO VA : SN : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2004.08.001](https://doi.org/10.1016/j.calphad.2004.08.001) M. Jiang, J. Sato, I. Ohnuma, R. Kainuma, K. Ishida, A thermodynamic assessment of the Co–Sn system, Calphad 28, 213-220 (2004).  
 _assessment that models this phase; reports values for this phase_
@@ -302,8 +298,6 @@ _assessment that models this phase_
 - [doi:10.1007/bf02663681](https://doi.org/10.1007/bf02663681) K Ishida, T Nishizawa, The Co-Sn (Cobalt-Tin) System, JPE 12, 88-93 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02658043](https://doi.org/10.1007/bf02658043) H. Cömert, J. N. Pratt, Constitutional studies of cobalt-tin alloys, Metall Trans A 23, 2401-2407 (1992).  
-_cited as the source of values for this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19080590133](https://doi.org/10.1002/zaac.19080590133) S. F. Żemcżużny, S. W. Belynsky, Kobalt‐Zinnlegierungen, Z. Anorg. Chem. 59, 364-370 (1908).  
 _cited as the source of values for this phase_
@@ -355,7 +349,7 @@ _tdb: _tdb:CoSn-04Jia.tdb:COSN_B35, tdb:CoSn-04Liu.tdb:COSN_B35, tdb:CoSn-09Don.
 61: CONST COSN_B35 : CO : SN : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2004.08.001](https://doi.org/10.1016/j.calphad.2004.08.001) M. Jiang, J. Sato, I. Ohnuma, R. Kainuma, K. Ishida, A thermodynamic assessment of the Co–Sn system, Calphad 28, 213-220 (2004).  
 _assessment that models this phase; reports values for this phase_
@@ -366,8 +360,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009).  
 _assessment that models this phase_
 - [doi:10.1007/bf02663681](https://doi.org/10.1007/bf02663681) K Ishida, T Nishizawa, The Co-Sn (Cobalt-Tin) System, JPE 12, 88-93 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19080590133](https://doi.org/10.1002/zaac.19080590133) S. F. Żemcżużny, S. W. Belynsky, Kobalt‐Zinnlegierungen, Z. Anorg. Chem. 59, 364-370 (1908).  
 _cited as the source of values for this phase_
@@ -418,7 +410,7 @@ _tdb: _tdb:CoSn-04Jia.tdb:COSN2_C16, tdb:CoSn-04Liu.tdb:COSN2_C16, tdb:CoSn-09Do
 66: CONST COSN2_C16 : CO : SN : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2004.08.001](https://doi.org/10.1016/j.calphad.2004.08.001) M. Jiang, J. Sato, I. Ohnuma, R. Kainuma, K. Ishida, A thermodynamic assessment of the Co–Sn system, Calphad 28, 213-220 (2004).  
 _assessment that models this phase; reports values for this phase_
@@ -429,8 +421,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009).  
 _assessment that models this phase_
 - [doi:10.1007/bf02663681](https://doi.org/10.1007/bf02663681) K Ishida, T Nishizawa, The Co-Sn (Cobalt-Tin) System, JPE 12, 88-93 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19080590133](https://doi.org/10.1002/zaac.19080590133) S. F. Żemcżużny, S. W. Belynsky, Kobalt‐Zinnlegierungen, Z. Anorg. Chem. 59, 364-370 (1908).  
 _cited as the source of values for this phase_
@@ -505,12 +495,10 @@ _tdb: _tdb:CoSn-19Jed.tdb:COSN3_HT
 76: CONST COSN3_HT : CO : SN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-018-0687-3](https://doi.org/10.1007/s11669-018-0687-3) V. Jedličková, A. Zemanová, A. Kroupa, The Thermodynamic Assessment of the Co-Sn System, J. Phase Equilib. Diffus. 40, 21-33 (2019).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
-_cited as the source of values for this phase_
 
 ## COSN3_LT (Co–Sn)
 
@@ -537,12 +525,10 @@ _tdb: _tdb:CoSn-19Jed.tdb:COSN3_LT
 71: CONST COSN3_LT : CO : SN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-018-0687-3](https://doi.org/10.1007/s11669-018-0687-3) V. Jedličková, A. Zemanová, A. Kroupa, The Thermodynamic Assessment of the Co-Sn System, J. Phase Equilib. Diffus. 40, 21-33 (2019).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (Co–Sn)
 
@@ -587,7 +573,7 @@ _tdb: _tdb:CoSn-04Jia.tdb:FCC_A1, tdb:CoSn-04Liu.tdb:FCC_A1, tdb:CoSn-09Don.tdb:
 26: CONST FCC_A1 : CO% SN : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2004.08.001](https://doi.org/10.1016/j.calphad.2004.08.001) M. Jiang, J. Sato, I. Ohnuma, R. Kainuma, K. Ishida, A thermodynamic assessment of the Co–Sn system, Calphad 28, 213-220 (2004).  
 _assessment that models this phase; reports values for this phase_
@@ -598,8 +584,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009).  
 _assessment that models this phase_
 - [doi:10.1007/bf02663681](https://doi.org/10.1007/bf02663681) K Ishida, T Nishizawa, The Co-Sn (Cobalt-Tin) System, JPE 12, 88-93 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02658043](https://doi.org/10.1007/bf02658043) H. Cömert, J. N. Pratt, Constitutional studies of cobalt-tin alloys, Metall Trans A 23, 2401-2407 (1992).  
 _cited as the source of values for this phase_
@@ -707,7 +691,7 @@ _tdb: _tdb:CoSn-04Jia.tdb:LIQUID, tdb:CoSn-04Liu.tdb:LIQUID, tdb:CoSn-09Don.tdb:
 21: CONST LIQUID:L : CO SN : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2004.08.001](https://doi.org/10.1016/j.calphad.2004.08.001) M. Jiang, J. Sato, I. Ohnuma, R. Kainuma, K. Ishida, A thermodynamic assessment of the Co–Sn system, Calphad 28, 213-220 (2004).  
 _assessment that models this phase; reports values for this phase_
@@ -718,8 +702,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009).  
 _assessment that models this phase_
 - [doi:10.1007/bf02663681](https://doi.org/10.1007/bf02663681) K Ishida, T Nishizawa, The Co-Sn (Cobalt-Tin) System, JPE 12, 88-93 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.7121/msi-eureka-20.11366.1.8](https://doi.org/10.7121/msi-eureka-20.11366.1.8) M. Bulanova, N. Kolchugina, T. Zienert, N. Heiden, Co-Sn (Cobalt-Tin Binary Phase Diagram Evaluation, in MSI Eureka, ed. by G. Effenberg (MSI, Materials Science International, Stuttgart, 2015), Document ID: 20.16656.1.3  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19080590133](https://doi.org/10.1002/zaac.19080590133) S. F. Żemcżużny, S. W. Belynsky, Kobalt‐Zinnlegierungen, Z. Anorg. Chem. 59, 364-370 (1908).  
 _cited as the source of values for this phase_

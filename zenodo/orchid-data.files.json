@@ -33,7 +33,7 @@
   {
    "path": "DATASET_CARD.md",
    "bytes": 50128,
-   "sha256": "15be19d8076db5bb112258e8b248e76f05594500a9125d419dfe4e60b2ceaff2"
+   "sha256": "1e1cb78db297fa0cacec2eb4003babf8bfcd37fd709576edb696471ba04528d9"
   },
   {
    "path": "LICENSE",
@@ -58,7 +58,7 @@
   {
    "path": "parquet/MANIFEST.json",
    "bytes": 22957,
-   "sha256": "660377e712ff1d12b06c6ba3e7d74f2a4f95d5ab1f75518097c1bf23a9ddb84e"
+   "sha256": "cd6e2ee12dc271adb2aba60e6d4bfa8652342656ebcc2c839f5778a56af868f8"
   },
   {
    "path": "zenodo/README.md",

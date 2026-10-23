@@ -54,12 +54,12 @@
   {
    "path": "literature/dft_parity.json",
    "bytes": 4170597,
-   "sha256": "4be547cdcea23f9fff61458992e9d21f70da34a88eec36c9696a367a70dd8724"
+   "sha256": "4ee9bd074da4afb419e9602edb47c75b12c1e2c128dbb2aa1dd286aa79d6c2bb"
   },
   {
    "path": "literature/kim2017_crosscheck.json",
    "bytes": 7083,
-   "sha256": "6e64ae5688e03c0673e1791b9b64026b43f87230dfd70391d8962b7524e3e824"
+   "sha256": "849512486dddfbf9210373443c25ca1dc05c7f46e5574750ca810f1033f1afdd"
   },
   {
    "path": "literature/kim2017_crosscheck.md",
@@ -69,7 +69,7 @@
   {
    "path": "parquet/MANIFEST.json",
    "bytes": 22957,
-   "sha256": "660377e712ff1d12b06c6ba3e7d74f2a4f95d5ab1f75518097c1bf23a9ddb84e"
+   "sha256": "cd6e2ee12dc271adb2aba60e6d4bfa8652342656ebcc2c839f5778a56af868f8"
   },
   {
    "path": "parquet/dft_parity.parquet",

@@ -56,11 +56,6 @@ _tdb: _tdb:NiTi-14Hu.tdb:BCC_4SL
 73: CONST BCC_4SL:B : NI TI : NI TI : NI TI : NI TI : VA :  !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002) Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014).  
-_assessment that models this phase_
-
 ## BCC_A2 (Ni–Ti)
 
 - Id: `phase:ni-ti:bcc-a2`; status `assigned`
@@ -230,7 +225,7 @@ _tdb: _tdb:NiTi-04Tok.tdb:BCC_A2, tdb:NiTi-09Key.tdb:A2_BCC, tdb:NiTi-09Key.tdb:
 43: CONST BCC_A2 : NI TI% : VA : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
@@ -243,8 +238,6 @@ _assessment that models this phase_
 - [doi:10.1016/j.calphad.2021.102256](https://doi.org/10.1016/j.calphad.2021.102256) B. Jin, X. Lu, S. Liu, K. Xu, Y. Du, S. Zhang, M. Chu, Calphad, 73, 102256(2021).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102505](https://doi.org/10.1016/j.calphad.2022.102505) H. Sun, Y. Zhang, Q. Pan, Y. Liu, W. Zheng, and X.-G. Lu, Thermodynamic Modeling of the Ni-Ti-Cr System and the B2/ B190 Martensitic Transformation, Calphad, 2022, 79, 102505. https://doi.org/10.1016/j.calphad.2022.102505  
-_assessment that models this phase_
-- [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002) Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014).  
 _assessment that models this phase_
 - [doi:10.1016/S1359-6454(99)00193-7](https://doi.org/10.1016/S1359-6454%2899%2900193-7) W. Tang, B. Sundman, R. Sandstrom, C. Qiu, Acta Mater., 47, 3457-68(1999).  
 _assessment that models this phase_
@@ -402,11 +395,6 @@ _tdb: _tdb:NiTi-09Key.tdb:FCC_4SL, tdb:NiTi-14Hu.tdb:FCC_4SL
 57: CONST FCC_4SL:F : NI TI : NI TI : NI TI : NI TI : VA :  !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002) Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014).  
-_assessment that models this phase_
-
 ## FCC_A1 (Ni–Ti)
 
 - Id: `phase:ni-ti:fcc-a1`; status `assigned`
@@ -527,7 +515,7 @@ _tdb: _tdb:NiTi-04Tok.tdb:FCC_A1, tdb:NiTi-09Key.tdb:A1_FCC, tdb:NiTi-09Key.tdb:
 38: CONST FCC_A1 : NI% TI : VA : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
@@ -540,8 +528,6 @@ _assessment that models this phase_
 - [doi:10.1016/j.calphad.2021.102256](https://doi.org/10.1016/j.calphad.2021.102256) B. Jin, X. Lu, S. Liu, K. Xu, Y. Du, S. Zhang, M. Chu, Calphad, 73, 102256(2021).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102505](https://doi.org/10.1016/j.calphad.2022.102505) H. Sun, Y. Zhang, Q. Pan, Y. Liu, W. Zheng, and X.-G. Lu, Thermodynamic Modeling of the Ni-Ti-Cr System and the B2/ B190 Martensitic Transformation, Calphad, 2022, 79, 102505. https://doi.org/10.1016/j.calphad.2022.102505  
-_assessment that models this phase_
-- [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002) Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014).  
 _assessment that models this phase_
 - [doi:10.1016/S1359-6454(99)00193-7](https://doi.org/10.1016/S1359-6454%2899%2900193-7) W. Tang, B. Sundman, R. Sandstrom, C. Qiu, Acta Mater., 47, 3457-68(1999).  
 _assessment that models this phase_
@@ -656,7 +642,7 @@ _tdb: _tdb:NiTi-04Tok.tdb:HCP_A3, tdb:NiTi-09Key.tdb:HCP_A3, tdb:NiTi-13Pov.tdb:
 58: CONST HCP_A3 : NI TI% : VA : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
@@ -669,8 +655,6 @@ _assessment that models this phase_
 - [doi:10.1016/j.calphad.2021.102256](https://doi.org/10.1016/j.calphad.2021.102256) B. Jin, X. Lu, S. Liu, K. Xu, Y. Du, S. Zhang, M. Chu, Calphad, 73, 102256(2021).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102505](https://doi.org/10.1016/j.calphad.2022.102505) H. Sun, Y. Zhang, Q. Pan, Y. Liu, W. Zheng, and X.-G. Lu, Thermodynamic Modeling of the Ni-Ti-Cr System and the B2/ B190 Martensitic Transformation, Calphad, 2022, 79, 102505. https://doi.org/10.1016/j.calphad.2022.102505  
-_assessment that models this phase_
-- [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002) Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014).  
 _assessment that models this phase_
 - [doi:10.1016/S1359-6454(99)00193-7](https://doi.org/10.1016/S1359-6454%2899%2900193-7) W. Tang, B. Sundman, R. Sandstrom, C. Qiu, Acta Mater., 47, 3457-68(1999).  
 _assessment that models this phase_
@@ -785,7 +769,7 @@ _tdb: _tdb:NiTi-04Tok.tdb:LIQUID, tdb:NiTi-09Key.tdb:LIQUID, tdb:NiTi-13Pov.tdb:
 33: CONST LIQUID:L : NI TI : !
 ~~~~
 
-Example references (10 of 11; assessments first): 
+Example references (10 of 10; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
@@ -801,12 +785,12 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102505](https://doi.org/10.1016/j.calphad.2022.102505) H. Sun, Y. Zhang, Q. Pan, Y. Liu, W. Zheng, and X.-G. Lu, Thermodynamic Modeling of the Ni-Ti-Cr System and the B2/ B190 Martensitic Transformation, Calphad, 2022, 79, 102505. https://doi.org/10.1016/j.calphad.2022.102505  
 _assessment that models this phase_
-- [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002) Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014).  
-_assessment that models this phase_
 - [doi:10.1515/ijmr-1996-871207](https://doi.org/10.1515/ijmr-1996-871207) P. Bellen, K.C. Hari Kumar, P. Wollants, Z. Metallkd., 87, 972-78(1996).  
 _assessment that models this phase_
 - [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507) Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).  
 _assessment that models this phase_
+- [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
+_reports values for this phase_
 
 ## NI3TI_D024 (Ni–Ti)
 
@@ -925,7 +909,7 @@ _tdb: _tdb:NiTi-04Tok.tdb:NI3TI_D024, tdb:NiTi-09Key.tdb:NI3TI_D024, tdb:NiTi-13
 63: CONST NI3TI_D024 : NI% TI : NI TI% : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
@@ -939,14 +923,14 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102505](https://doi.org/10.1016/j.calphad.2022.102505) H. Sun, Y. Zhang, Q. Pan, Y. Liu, W. Zheng, and X.-G. Lu, Thermodynamic Modeling of the Ni-Ti-Cr System and the B2/ B190 Martensitic Transformation, Calphad, 2022, 79, 102505. https://doi.org/10.1016/j.calphad.2022.102505  
 _assessment that models this phase_
-- [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002) Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014).  
-_assessment that models this phase_
 - [doi:10.1016/S1359-6454(99)00193-7](https://doi.org/10.1016/S1359-6454%2899%2900193-7) W. Tang, B. Sundman, R. Sandstrom, C. Qiu, Acta Mater., 47, 3457-68(1999).  
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1996-871207](https://doi.org/10.1515/ijmr-1996-871207) P. Bellen, K.C. Hari Kumar, P. Wollants, Z. Metallkd., 87, 972-78(1996).  
 _assessment that models this phase_
 - [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507) Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).  
 _assessment that models this phase_
+- [doi:10.1103/physrevb.52.15176](https://doi.org/10.1103/physrevb.52.15176) A. Pasturel, C. Colinet, D. Nguyen Manh, A. T. Paxton, M. van Schilfgaarde, Electronic structure and phase stability study in the Ni-Ti system, Phys. Rev. B 52, 15176-15190 (1995).  
+_cited as the source of values for this phase_
 
 ## NI3TI2 (Ni–Ti)
 
@@ -1225,7 +1209,7 @@ _tdb: _tdb:NiTi-04Tok.tdb:NITI2, tdb:NiTi-09Key.tdb:NITI2, tdb:NiTi-13Pov.tdb:NI
 74: CONST NITI2 : NI : TI : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
@@ -1239,14 +1223,14 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102505](https://doi.org/10.1016/j.calphad.2022.102505) H. Sun, Y. Zhang, Q. Pan, Y. Liu, W. Zheng, and X.-G. Lu, Thermodynamic Modeling of the Ni-Ti-Cr System and the B2/ B190 Martensitic Transformation, Calphad, 2022, 79, 102505. https://doi.org/10.1016/j.calphad.2022.102505  
 _assessment that models this phase_
-- [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002) Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014).  
-_assessment that models this phase_
 - [doi:10.1016/S1359-6454(99)00193-7](https://doi.org/10.1016/S1359-6454%2899%2900193-7) W. Tang, B. Sundman, R. Sandstrom, C. Qiu, Acta Mater., 47, 3457-68(1999).  
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1996-871207](https://doi.org/10.1515/ijmr-1996-871207) P. Bellen, K.C. Hari Kumar, P. Wollants, Z. Metallkd., 87, 972-78(1996).  
 _assessment that models this phase_
 - [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507) Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).  
 _assessment that models this phase_
+- [doi:10.1103/physrevb.52.15176](https://doi.org/10.1103/physrevb.52.15176) A. Pasturel, C. Colinet, D. Nguyen Manh, A. T. Paxton, M. van Schilfgaarde, Electronic structure and phase stability study in the Ni-Ti system, Phys. Rev. B 52, 15176-15190 (1995).  
+_cited as the source of values for this phase_
 
 ## Please cite
 

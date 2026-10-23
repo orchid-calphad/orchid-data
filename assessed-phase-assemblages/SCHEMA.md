@@ -27,7 +27,7 @@ Builder: `tools/build_assessed_assemblages.py` (orchid-project.org; deterministi
 | `review_state` | `expert decision (tier 5)`, `expert-reviewed (tier 5)`, or `not reviewed by the expert` |
 | `flags` | `local_conflict`, `carried_against_rules`, `phase_not_in_table`, `hull_support:<both|disagree|mp_only|oqmd_only|none>`, `partly_drawn_dft_corroborated` |
 | `sgte_crosscheck[]` | per calculated SGTE diagram of the system: `{tdb, tdb_sha256, cell{T_K, x}, calculated (TDB phase set at the nearest grid cell), result: agrees / disagrees / not_comparable, reason}`. Phase sets compared as registry ids. Never changes the assessed record |
-| `citations[]` | original evaluation(s) first (`citation`, `doi`, `doi_matched_by`, `kind`), then the handbook (`role: compilation`, `page_pdf`, `locator`) |
+| `citations[]` | original evaluation(s) first (`citation`, `doi`, `doi_matched_by`, `kind`; `doi` null with `doi_status: dropped_mismatch` and `doi_correction` when the DOI matched to the printed source line describes a different work, `tools/doi_corrections.json`), then the handbook (`role: compilation`, `page_pdf`, `locator`) |
 | `method` | builder, version, annotation run, tool hashes |
 
 ## Point placement

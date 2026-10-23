@@ -4165,7 +4165,9 @@
     "sha256": "3508ed819c3d3fff01e3d7ddcaacb5680442e584c697f5e126a7eda480c3c234",
     "grid": true,
     "citation": "F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).",
-    "doi": "10.1557/JMR"
+    "doi": null,
+    "doi_status": "dropped_mismatch",
+    "doi_correction": "doicorr-19"
    },
    {
     "file": "AuSn-13Don.json",
@@ -10161,7 +10163,9 @@
     "sha256": "6a3bb3f347ded5af8287b69c053e9a879351f5c2da1b3e7f4bc4de0edf6c3f02",
     "grid": true,
     "citation": "W. Gierlotka, S.-W. Chen, J. Mater. Res., 23, 258-63(2008).",
-    "doi": "10.1557/JMR"
+    "doi": null,
+    "doi_status": "dropped_mismatch",
+    "doi_correction": "doicorr-20"
    },
    {
     "file": "CuZn-11Wan.json",
@@ -14555,7 +14559,9 @@
     "sha256": "1390e31379d591aaa398d0e7e5bcc28cd39443a1232bfcf05b852ced52672411",
     "grid": true,
     "citation": "B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).",
-    "doi": "10.1557/JMR"
+    "doi": null,
+    "doi_status": "dropped_mismatch",
+    "doi_correction": "doicorr-18"
    }
   ],
   "IN-NA": [
@@ -14891,7 +14897,9 @@
     "sha256": "91d0e7520169877989b3564d269f817270cda171885fb84a40d364c5aa6667cc",
     "grid": true,
     "citation": "Y. Yamabe-Mitarai, T. Aoyagi, T. Abe, J. Alloys Compd., 484, 327-34(2009).",
-    "doi": "10.2320/jinstmet.73.180"
+    "doi": null,
+    "doi_status": "dropped_mismatch",
+    "doi_correction": "doicorr-21"
    }
   ],
   "IR-RH": [
@@ -19359,7 +19367,9 @@
     "sha256": "83c0ad45fde56b371df4f38e3e86d022e6fa3c08bc62327ab5b69278071dc3e8",
     "grid": true,
     "citation": "B. Hu, Y. Du, J.C. Schuster, W. Sun, S. Liu, C. Tang, J. Alloys Compd., 578, 35-42(2014).",
-    "doi": "10.1016/j.tca.2014.01.002"
+    "doi": null,
+    "doi_status": "dropped_mismatch",
+    "doi_correction": "doicorr-06"
    },
    {
     "file": "NiTi-15San.json",

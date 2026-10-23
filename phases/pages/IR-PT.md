@@ -45,11 +45,6 @@ _tdb: _tdb:IrPt-06Jan-LB.tdb:BCC_A2, tdb:IrPt-09Yam.tdb:BCC_A2
 33: CONST BCC_A2 : IR PT : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.2320/jinstmet.73.180](https://doi.org/10.2320/jinstmet.73.180) Kenta Yamada, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Mo-Nb-B Ternary Phase Diagram, J. Japan Inst. Metals 73, 180-188 (2009).  
-_assessment that models this phase_
-
 ## FCC_A1 (Ir–Pt)
 
 - Id: `phase:ir-pt:fcc-a1`; status `assigned`
@@ -77,11 +72,6 @@ _tdb: _tdb:IrPt-06Jan-LB.tdb:FCC_A1, tdb:IrPt-09Yam.tdb:FCC_A1
 27: PHASE FCC_A1 %A 2 1 1 !
 28: CONST FCC_A1 : IR PT : VA : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.2320/jinstmet.73.180](https://doi.org/10.2320/jinstmet.73.180) Kenta Yamada, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Mo-Nb-B Ternary Phase Diagram, J. Japan Inst. Metals 73, 180-188 (2009).  
-_assessment that models this phase_
 
 ## HCP_A3 (Ir–Pt)
 
@@ -111,11 +101,6 @@ _tdb: _tdb:IrPt-06Jan-LB.tdb:HCP_A3, tdb:IrPt-09Yam.tdb:HCP_A3
 38: CONST HCP_A3 : IR PT : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.2320/jinstmet.73.180](https://doi.org/10.2320/jinstmet.73.180) Kenta Yamada, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Mo-Nb-B Ternary Phase Diagram, J. Japan Inst. Metals 73, 180-188 (2009).  
-_assessment that models this phase_
-
 ## LIQUID (Ir–Pt)
 
 - Id: `phase:ir-pt:liquid`; status `assigned`
@@ -143,11 +128,6 @@ _tdb: _tdb:IrPt-06Jan-LB.tdb:LIQUID, tdb:IrPt-09Yam.tdb:LIQUID
 22: PHASE LIQUID:L % 1 1 !
 23: CONST LIQUID:L : IR PT : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.2320/jinstmet.73.180](https://doi.org/10.2320/jinstmet.73.180) Kenta Yamada, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Mo-Nb-B Ternary Phase Diagram, J. Japan Inst. Metals 73, 180-188 (2009).  
-_assessment that models this phase_
 
 ## Please cite
 

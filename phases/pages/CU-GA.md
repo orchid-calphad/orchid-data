@@ -137,14 +137,12 @@ _tdb: _tdb:CuGa-08Li.tdb:CU3GA_D019, tdb:CuGa-15Jen.tdb:CU3GA_D019
 53: CONST CU3GA_D019 : CU : GA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.03.006](https://doi.org/10.1016/j.calphad.2008.03.006) J.-B. Li, L.N. Ji, J.K. Liang, Y. Zhang, J. Luo, C.R. Li et al., A thermodynamic assessment of the copper–gallium system, Calphad 32, 447-453 (2008).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2014.08.037](https://doi.org/10.1016/j.jallcom.2014.08.037) Dominika Jendrzejczyk-Handzlik, Krzysztof Fitzner, Wojciech Gierlotka, On the Cu–Ga system: Electromotive force measurement and thermodynamic reoptimization, Journal of Alloys and Compounds 621, 287-294 (2015).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1001/jama.1964.03060380116096](https://doi.org/10.1001/jama.1964.03060380116096) J. E. Kittl, T.B. Massalski, J. Inst. Met. 93 (1964–1965) 182–188.  
-_cited as the source of values for this phase_
 
 ## CUGA_GAM_1 (Cu–Ga)
 
@@ -177,14 +175,12 @@ _tdb: _tdb:CuGa-08Li.tdb:CUGA_GAM_1, tdb:CuGa-15Jen.tdb:CUGA_GAM_1
 58: CONST CUGA_GAM_1 : CU : CU GA : CU GA : GA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.03.006](https://doi.org/10.1016/j.calphad.2008.03.006) J.-B. Li, L.N. Ji, J.K. Liang, Y. Zhang, J. Luo, C.R. Li et al., A thermodynamic assessment of the copper–gallium system, Calphad 32, 447-453 (2008).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2014.08.037](https://doi.org/10.1016/j.jallcom.2014.08.037) Dominika Jendrzejczyk-Handzlik, Krzysztof Fitzner, Wojciech Gierlotka, On the Cu–Ga system: Electromotive force measurement and thermodynamic reoptimization, Journal of Alloys and Compounds 621, 287-294 (2015).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1001/jama.1964.03060380116096](https://doi.org/10.1001/jama.1964.03060380116096) J. E. Kittl, T.B. Massalski, J. Inst. Met. 93 (1964–1965) 182–188.  
-_cited as the source of values for this phase_
 - [doi:10.1002/zaac.19342200309](https://doi.org/10.1002/zaac.19342200309) Friedrich Weibke, Das Zustandsdiagramm des Systems Kupfer–Gallium, Z. Anorg. Allg. Chem. 220, 293-311 (1934).  
 _cited as the source of values for this phase_
 
@@ -336,7 +332,7 @@ _tdb: _tdb:CuGa-08Li.tdb:FCC_A1, tdb:CuGa-15Jen.tdb:FCC_A1
 33: CONST FCC_A1 : CU% GA : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.03.006](https://doi.org/10.1016/j.calphad.2008.03.006) J.-B. Li, L.N. Ji, J.K. Liang, Y. Zhang, J. Luo, C.R. Li et al., A thermodynamic assessment of the copper–gallium system, Calphad 32, 447-453 (2008).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -345,8 +341,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1002/zaac.19342200309](https://doi.org/10.1002/zaac.19342200309) Friedrich Weibke, Das Zustandsdiagramm des Systems Kupfer–Gallium, Z. Anorg. Allg. Chem. 220, 293-311 (1934).  
 _cited as the source of values for this phase_
 - [doi:10.1098/rsta.1934.0014](https://doi.org/10.1098/rsta.1934.0014) William Hume-Rothery, Gilbert, W. Mabbott, K. M. Channel Evans, The freezing points, melting points, and solid solubility limits of the alloys of sliver and copper with the elements of the b sub-groups, Philosophical Transactions of the Royal Society of London. Series A, Containing Papers of a Mathematical or Physical Character 233, 1-97 (1934).  
-_cited as the source of values for this phase_
-- [doi:10.1001/jama.1964.03060380116096](https://doi.org/10.1001/jama.1964.03060380116096) J. E. Kittl, T.B. Massalski, J. Inst. Met. 93 (1964–1965) 182–188.  
 _cited as the source of values for this phase_
 
 ## HCP_A3 (Cu–Ga)
@@ -378,14 +372,12 @@ _tdb: _tdb:CuGa-08Li.tdb:HCP_A3, tdb:CuGa-15Jen.tdb:HCP_A3
 43: CONST HCP_A3 : CU GA : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.03.006](https://doi.org/10.1016/j.calphad.2008.03.006) J.-B. Li, L.N. Ji, J.K. Liang, Y. Zhang, J. Luo, C.R. Li et al., A thermodynamic assessment of the copper–gallium system, Calphad 32, 447-453 (2008).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2014.08.037](https://doi.org/10.1016/j.jallcom.2014.08.037) Dominika Jendrzejczyk-Handzlik, Krzysztof Fitzner, Wojciech Gierlotka, On the Cu–Ga system: Electromotive force measurement and thermodynamic reoptimization, Journal of Alloys and Compounds 621, 287-294 (2015).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1001/jama.1964.03060380116096](https://doi.org/10.1001/jama.1964.03060380116096) J. E. Kittl, T.B. Massalski, J. Inst. Met. 93 (1964–1965) 182–188.  
-_cited as the source of values for this phase_
 
 ## LIQUID (Cu–Ga)
 

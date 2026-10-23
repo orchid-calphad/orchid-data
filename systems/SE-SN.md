@@ -124,7 +124,7 @@ Table: Phase transition, Se–Sn system
 | Phase transition | 527.5 K | 527.5 | polymorphic: \[81Bal\] | experimental | [1] Feutelais 1996; _cites ref. 81Bal_ | Table 5, p. 3, row 8 |  |
 | Phase transition | 535 K | 535 | polymorphic: \[63Dem\] | experimental | [1] Feutelais 1996; _cites Dembovskii 1964_ | Table 5, p. 3, row 2 |  |
 | Phase transition | 787.15 K | 787.15 | polymorphic: \[74Bla1\] | experimental | [1] Feutelais 1996; _cites ref. 74Bla1_ | Table 5, p. 3, row 4 |  |
-| Phase transition | 787.15 K | 787.15 | polymorphic: \[74Bla2\] | experimental | [1] Feutelais 1996; _cites Blachnik 1974_ [doi](https://doi.org/10.1515/zna-1974-0813) | Table 5, p. 3, row 5 |  |
+| Phase transition | 787.15 K | 787.15 | polymorphic: \[74Bla2\] | experimental | [1] Feutelais 1996; _cites Blachnik 1974_ | Table 5, p. 3, row 5 |  |
 | Phase transition | 792.05 K | 792.05 | other: Invariants; _alloy: Se 0.59, Sn 0.41_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 53 |  |
 | Phase transition | 792.75 K | 792.75 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 6 |  |
 | Phase transition | 792.75 K | 792.75 | other: Invariants; _alloy: Se 0.6, Sn 0.4_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 56 |  |

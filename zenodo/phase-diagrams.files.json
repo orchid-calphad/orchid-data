@@ -17,7 +17,7 @@
  ],
  "exclude": [],
  "n_files": 2785,
- "total_bytes": 123499704,
+ "total_bytes": 123499969,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -47,17 +47,17 @@
   {
    "path": "parquet/MANIFEST.json",
    "bytes": 22957,
-   "sha256": "660377e712ff1d12b06c6ba3e7d74f2a4f95d5ab1f75518097c1bf23a9ddb84e"
+   "sha256": "cd6e2ee12dc271adb2aba60e6d4bfa8652342656ebcc2c839f5778a56af868f8"
   },
   {
    "path": "parquet/phase_diagram_index.parquet",
-   "bytes": 263411,
-   "sha256": "f59ca77a1c59f007a8c0793dee054e84fb946bb408cd211f189afe798f8e4160"
+   "bytes": 263405,
+   "sha256": "51f4f60c4b9bca2a7ec42e14fd01af8d5d0c29147a62288e55b999b2f8544975"
   },
   {
    "path": "parquet/phase_diagram_invariants.parquet",
-   "bytes": 850031,
-   "sha256": "6f761dc576c26e5c6401185a81f18c97547a6bc26ea15468f9be8adc90a2e14b"
+   "bytes": 849970,
+   "sha256": "50d9426a1f98f35580e7c0487997c6515f0ccfe814784938a46fcf29ce74285b"
   },
   {
    "path": "phase-diagrams/CITATION.cff",
@@ -66,8 +66,8 @@
   },
   {
    "path": "phase-diagrams/index.json",
-   "bytes": 850368,
-   "sha256": "270021a3862302374f337a6dab578415f89892e56a15a79d414d72eb90b8896b"
+   "bytes": 850667,
+   "sha256": "aa86a608b94b800f099b32fa3cc8566654e58459801f38b9c27221049850b2fc"
   },
   {
    "path": "phase-diagrams/sgte/AgAl-04Wit.json",
@@ -2481,8 +2481,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AuSn-10Gao.json",
-   "bytes": 30397,
-   "sha256": "8466ce228d25964409599802218848705e15b44abcc9f8bc84d98aafbece1bb0"
+   "bytes": 30414,
+   "sha256": "0bce6df8487c2333a62cb9bbd05b057b3cc4d4dbda6bdc8bcf49e92fde00baed"
   },
   {
    "path": "phase-diagrams/sgte/AuSn-13Don.json",
@@ -5881,8 +5881,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CuZn-08Gie.json",
-   "bytes": 21959,
-   "sha256": "0cba5ad7474ef5c25b34760bfd438be2edb02bf5c347dc0ebd0e4e15efdc2abf"
+   "bytes": 21976,
+   "sha256": "8255b24c3af568f5047c832abafc9b1994afaf000e66d2346cf319daf568f657"
   },
   {
    "path": "phase-diagrams/sgte/CuZn-11Wan.json",
@@ -8371,8 +8371,8 @@
   },
   {
    "path": "phase-diagrams/sgte/InN-02Ond.json",
-   "bytes": 18219,
-   "sha256": "9dfec958a223837ebc76db657681c2dd7d1e8b3c5c8f5d27e4abe2032b37b043"
+   "bytes": 18236,
+   "sha256": "0d8e6bd14eb4c174eb4054ab6a1592c75e207aaf987a82119bf2ca9e9e82458c"
   },
   {
    "path": "phase-diagrams/sgte/InNa-13Wan.json",
@@ -8551,8 +8551,8 @@
   },
   {
    "path": "phase-diagrams/sgte/IrPt-09Yam.json",
-   "bytes": 30785,
-   "sha256": "88ce2425909a67f115d55b08f1e6cd603befed9efbfc642cce35924764288c9b"
+   "bytes": 30778,
+   "sha256": "1d4c24ca3e94f0ba78e912f67f44edef29fb2cae7c826488fd7a0013fe4bc8ee"
   },
   {
    "path": "phase-diagrams/sgte/IrRh-06Jan-LB.json",
@@ -11106,8 +11106,8 @@
   },
   {
    "path": "phase-diagrams/sgte/NiTi-14Hu.json",
-   "bytes": 109583,
-   "sha256": "9b0ad5e409269a5901a4c0aecca73ffc8fc31d9f47f109377a8c70fb7421297a"
+   "bytes": 109572,
+   "sha256": "993079fe9d7cb15349755d3b3d03f9dea24571a8e9cd43ead23de53ba068b942"
   },
   {
    "path": "phase-diagrams/sgte/NiTi-15San.json",

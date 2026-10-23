@@ -51,11 +51,11 @@ papers, page images, crops and full text are **not** redistributed.
 | `transition_kind`, `transition_kind_printed` | controlled reaction / transition class (see Controlled vocabularies) and the class as printed or read |
 | `evidence_class` | `experimental`, `model` (value from a CALPHAD/thermodynamic model), `dft` (first-principles), `unspecified` (origin could not be settled). Never mixed or averaged |
 | `origin` | `{class, basis, measured_in, measured_in_basis, own_work_of_paper, attribution_note}`: how the evidence class was decided (e.g. `printed_source_experimental`, `cited_work_before_1980_assumed_experimental`), the paper the value was measured/calculated in, and whether that is the containing paper itself |
-| `model` | for `model` values linked unambiguously to a TDB: `{tdb, tdb_path, tdb_sha256, catalog_entry, link_basis, model_citation, model_doi, reproduced_by_calculation}`; `model_unlinked_reason` otherwise |
+| `model` | for `model` values linked unambiguously to a TDB: `{tdb, tdb_path, tdb_sha256, catalog_entry, link_basis, model_citation, model_doi, reproduced_by_calculation}`; `model_unlinked_reason` otherwise. `model_doi` is null with `model_doi_status: dropped_mismatch` and `model_doi_correction` when the TDB header citation's DOI is a mismatch (`tools/doi_corrections.json`) |
 | `method` | row-level method only when printed (table cell/column, or inside the value's quoted sentence); `method_basis` says which |
 | `conditions` | `{kind: paper_context, paper}`: the containing paper's own experimental context applies (see `contexts`); `paper_context_not_extracted`; `cited_source` ("conditions in the cited source"): the value is cited from another work and the containing paper's context does **not** apply; `not_applicable_own_calculation` |
 | `conditions_summary` | (CSV only) accepted context items of that paper, condensed |
-| `cited_sources` | the value's own source(s) as printed in the paper's reference list: `{label, reference, doi, first_author, year, kind, status, paper}` |
+| `cited_sources` | the value's own source(s) as printed in the paper's reference list: `{label, reference, doi, first_author, year, kind, status, paper}`; a DOI dropped as a mismatch is null with `doi_status: dropped_mismatch` and `doi_correction` (the printed `reference` is kept) |
 | `citations_printed` | (text) citation labels printed in the sentence |
 | `paper` | id of the containing paper (`doi:<doi>` or `sha256:<pdf prefix>`) -> `papers.json`; CSV adds `paper_citation`, `paper_doi` |
 | `quote`, `quote_page` | (running text) the one verbatim sentence backing the value and its page (`null` with `flags.page_unreadable` when the page read was not a page number); for tables `locator` gives table label, caption, page and row instead |
@@ -89,8 +89,11 @@ reference states and outliers, and the complete variant tables for the vocabular
 ## Paper fields (`papers.json`)
 
 Ids are `doi:<doi>` (corpus papers and cited works with a DOI), `sha256:<16 hex>` (corpus papers without DOI),
-`ref:<hash>` (a cited work without DOI, citation = the printed reference) or `unresolved:...` (a reference label the
-citing paper's list could not resolve). Fields: `id`, `doi`, `doi_url`, `citation` (formatted from local Crossref metadata, the TDB header, or the printed reference),
+`ref:<hash>` (a cited work without DOI, citation = the printed reference), `nodoi:<hash>` (a cited work whose matched
+DOI was dropped as a mismatch, same id as in the bibliography) or `unresolved:...` (a reference label the
+citing paper's list could not resolve). Fields: `id`, `doi`, `doi_status` / `doi_correction` (`dropped_mismatch` and
+the entry id of `tools/doi_corrections.json` when the DOI an upstream matcher assigned was dropped because its Crossref
+record describes a different work; `doi` is then null and the citation is the printed one), `doi_url`, `citation` (formatted from local Crossref metadata, the TDB header, or the printed reference),
 `title`, `authors`, `year`, `container`, `kind` (`corpus_paper`: a paper the values were read from; `cited_work`:
 a work cited for a value), `roles` (`reporting_paper`, `cited_source`), `systems`, `metadata_source`,
 `pdf_sha256_prefix` (first 16 hex of the source PDF's SHA-256, an identifier only; the PDF is not distributed).

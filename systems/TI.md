@@ -33,18 +33,18 @@ Table: Enthalpies of formation, Ti system (19)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | bcc |  | 6.029 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
 | bcc |  | 7.062 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Vrest 2012_ | Table 4, p. 5, row 4 |  |
-| bcc |  | 9.649 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ [doi](https://doi.org/10.1016/0364-5916%2896%2900003-x) | Table 4, p. 5, row 6 |  |
+| bcc |  | 9.649 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
 | bcc |  | 10.295 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 4, p. 5, row 2 |  |
 | bcc |  | 10.517 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Hu 2010_ [doi](https://doi.org/10.1063/1.3407560) | Table 4, p. 5, row 3 |  |
 | bcc |  | 10.556 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Mei 2009_ [doi](https://doi.org/10.1103/physrevb.80.104116) | Table 4, p. 5, row 1 |  |
 | bcc |  | 10.619 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
-| fcc |  | 5.403 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ [doi](https://doi.org/10.1016/0364-5916%2896%2900003-x) | Table 4, p. 5, row 6 |  |
+| fcc |  | 5.403 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
 | fcc |  | 5.438 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
 | fcc |  | 5.509 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 4, p. 5, row 2 |  |
 | fcc |  | 5.91 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
 | fcc |  | 6 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 7 |  |
 | fcc |  | 6.77 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Vrest 2012_ | Table 4, p. 5, row 4 |  |
-| ω |  | -1.351 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ [doi](https://doi.org/10.1016/0364-5916%2896%2900003-x) | Table 4, p. 5, row 6 |  |
+| ω |  | -1.351 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
 | ω |  | -0.788 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Argaman 2015_ [doi](https://doi.org/10.1088/2053-1591/2/1/016505) | Table 4, p. 5, row 5 |  |
 | ω |  | -0.579 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Hu 2010_ [doi](https://doi.org/10.1063/1.3407560) | Table 4, p. 5, row 3 |  |
 | ω |  | -0.571 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020 | Table 4, p. 5, row 8 |  |

@@ -90,7 +90,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:DIAMOND_A4, tdb:AuSn-07Gro.tdb:DIAMOND_A4, tdb:AuSn-09
 46: CONST DIAMOND_A4 : SN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s11664-003-0025-2](https://doi.org/10.1007/s11664-003-0025-2) H. S. Liu, C. L. Liu, K. Ishida, Z. P. Jin, Thermodynamic modeling of the Au-In-Sn system, J. Electron. Mater. 32, 1290-1296 (2003).  
 _assessment that models this phase_
@@ -99,8 +99,6 @@ _assessment that models this phase_
 - [doi:10.1016/0040-6031(88)87045-X](https://doi.org/10.1016/0040-6031%2888%2987045-X) P.-Y. Chevalier, Thermochim. Acta, 130, 1-13(1988).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
-_assessment that models this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
 _assessment that models this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase_
@@ -169,7 +167,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:BCT_A5, tdb:AuSn-07Gro.tdb:BCT_A5, tdb:AuSn-09Don.tdb:
 51: CONST BCT_A5 : AU SN% : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/0040-6031(88)87045-X](https://doi.org/10.1016/0040-6031%2888%2987045-X) P.-Y. Chevalier, Thermochim. Acta, 130, 1-13(1988).  
 _assessment that models this phase; reports values for this phase_
@@ -181,8 +179,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19050460105](https://doi.org/10.1002/zaac.19050460105) Rudolf Vogel, XIII. Über Gold‐Zinnlegierungen, Z. Anorg. Chem. 46, 60-75 (1905).  
@@ -296,7 +292,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:AU5SN, tdb:AuSn-07Gro.tdb:AU5SN, tdb:AuSn-09Don.tdb:AU
 62: CONST AU5SN : AU : SN : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
@@ -308,8 +304,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(93)90273-p](https://doi.org/10.1016/0925-8388%2893%2990273-p) J. Ciulik, M.R. Notis, The AuSn phase diagram, Journal of Alloys and Compounds 191, 71-78 (1993).  
@@ -380,7 +374,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:AUSN_B81, tdb:AuSn-07Gro.tdb:AUSN_B81, tdb:AuSn-09Don.
 67: CONST AUSN_B81 : AU : SN : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
@@ -392,8 +386,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19050460105](https://doi.org/10.1002/zaac.19050460105) Rudolf Vogel, XIII. Über Gold‐Zinnlegierungen, Z. Anorg. Chem. 46, 60-75 (1905).  
@@ -470,7 +462,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:AUSN2, tdb:AuSn-07Gro.tdb:AUSN2, tdb:AuSn-09Don.tdb:AU
 72: CONST AUSN2 : AU : SN : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/0040-6031(88)87045-X](https://doi.org/10.1016/0040-6031%2888%2987045-X) P.-Y. Chevalier, Thermochim. Acta, 130, 1-13(1988).  
 _assessment that models this phase; reports values for this phase_
@@ -482,8 +474,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0040-6031(81)80241-9](https://doi.org/10.1016/0040-6031%2881%2980241-9) Peter C. Wallbrecht, Roger Blachnik, Kenneth C. Mills, The heat capacity and enthalpy of some hume—rothery phases formed by copper, silver and gold. Part II. Cu + Ge, Cu + Sn, Ag + Sn, Au + Sn, Au + Pb systems, Thermochimica Acta 46, 167-174 (1981).  
@@ -558,7 +548,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:AUSN4_D1C, tdb:AuSn-07Gro.tdb:AUSN4_D1C, tdb:AuSn-09Do
 77: CONST AUSN4_D1C : AU : SN : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/0040-6031(88)87045-X](https://doi.org/10.1016/0040-6031%2888%2987045-X) P.-Y. Chevalier, Thermochim. Acta, 130, 1-13(1988).  
 _assessment that models this phase; reports values for this phase_
@@ -570,8 +560,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0040-6031(81)80241-9](https://doi.org/10.1016/0040-6031%2881%2980241-9) Peter C. Wallbrecht, Roger Blachnik, Kenneth C. Mills, The heat capacity and enthalpy of some hume—rothery phases formed by copper, silver and gold. Part II. Cu + Ge, Cu + Sn, Ag + Sn, Au + Sn, Au + Pb systems, Thermochimica Acta 46, 167-174 (1981).  
@@ -644,7 +632,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:BCC_A2, tdb:AuSn-07Gro.tdb:BCC_A2, tdb:AuSn-09Don.tdb:
 36: CONST BCC_A2 : AU SN : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s11664-003-0025-2](https://doi.org/10.1007/s11664-003-0025-2) H. S. Liu, C. L. Liu, K. Ishida, Z. P. Jin, Thermodynamic modeling of the Au-In-Sn system, J. Electron. Mater. 32, 1290-1296 (2003).  
 _assessment that models this phase_
@@ -653,8 +641,6 @@ _assessment that models this phase_
 - [doi:10.1016/0040-6031(88)87045-X](https://doi.org/10.1016/0040-6031%2888%2987045-X) P.-Y. Chevalier, Thermochim. Acta, 130, 1-13(1988).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
-_assessment that models this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
 _assessment that models this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase_
@@ -727,7 +713,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:DHCP, tdb:AuSn-07Gro.tdb:DHCP, tdb:AuSn-09Don.tdb:DHCP
 58: CONST DHCP : AU SN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
@@ -737,8 +723,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1016/0925-8388(93)90273-p](https://doi.org/10.1016/0925-8388%2893%2990273-p) J. Ciulik, M.R. Notis, The AuSn phase diagram, Journal of Alloys and Compounds 191, 71-78 (1993).  
 _cited as the source of values for this phase_
 
@@ -806,7 +790,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:FCC_A1, tdb:AuSn-07Gro.tdb:FCC_A1, tdb:AuSn-09Don.tdb:
 31: CONST FCC_A1 : AU% SN : VA : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/0040-6031(88)87045-X](https://doi.org/10.1016/0040-6031%2888%2987045-X) P.-Y. Chevalier, Thermochim. Acta, 130, 1-13(1988).  
 _assessment that models this phase; reports values for this phase_
@@ -818,8 +802,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0040-6031(81)80241-9](https://doi.org/10.1016/0040-6031%2881%2980241-9) Peter C. Wallbrecht, Roger Blachnik, Kenneth C. Mills, The heat capacity and enthalpy of some hume—rothery phases formed by copper, silver and gold. Part II. Cu + Ge, Cu + Sn, Ag + Sn, Au + Sn, Au + Pb systems, Thermochimica Acta 46, 167-174 (1981).  
@@ -891,7 +873,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:HCP_A3, tdb:AuSn-07Gro.tdb:HCP_A3, tdb:AuSn-09Don.tdb:
 41: CONST HCP_A3 : AU SN : VA : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/0040-6031(88)87045-X](https://doi.org/10.1016/0040-6031%2888%2987045-X) P.-Y. Chevalier, Thermochim. Acta, 130, 1-13(1988).  
 _assessment that models this phase; reports values for this phase_
@@ -903,8 +885,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(93)90273-p](https://doi.org/10.1016/0925-8388%2893%2990273-p) J. Ciulik, M.R. Notis, The AuSn phase diagram, Journal of Alloys and Compounds 191, 71-78 (1993).  
@@ -978,7 +958,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:LIQUID, tdb:AuSn-07Gro.tdb:LIQUID, tdb:AuSn-09Don.tdb:
 26: CONST LIQUID:L : AU SN : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
@@ -990,8 +970,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) F. Gao, C. Wang, X. Liu, J. Mater. Res., 25, 576-86(2010).  
-_assessment that models this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0040-6031(81)80241-9](https://doi.org/10.1016/0040-6031%2881%2980241-9) Peter C. Wallbrecht, Roger Blachnik, Kenneth C. Mills, The heat capacity and enthalpy of some hume—rothery phases formed by copper, silver and gold. Part II. Cu + Ge, Cu + Sn, Ag + Sn, Au + Sn, Au + Pb systems, Thermochimica Acta 46, 167-174 (1981).  

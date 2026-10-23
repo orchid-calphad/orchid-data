@@ -43,11 +43,6 @@ _tdb: _tdb:InN-02Ond.tdb:TETRAGONAL_A6
 55: CONST TETRAGONAL_A6 : IN : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).  
-_assessment that models this phase_
-
 ## BCC_A2 (In–N)
 
 - Id: `phase:in-n:bcc-a2`; status `assigned`
@@ -68,11 +63,6 @@ _tdb: _tdb:InN-02Ond.tdb:BCC_A2
 44: PHASE BCC_A2 %B 2 1 3 !
 45: CONST BCC_A2 : IN : N VA% : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).  
-_assessment that models this phase_
 
 ## FCC_A1 (In–N)
 
@@ -95,11 +85,6 @@ _tdb: _tdb:InN-02Ond.tdb:FCC_A1
 40: CONST FCC_A1 : IN : N VA% : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).  
-_assessment that models this phase_
-
 ## GAS (In–N)
 
 - Id: `phase:in-n:gas`; status `assigned`
@@ -120,11 +105,6 @@ _tdb: _tdb:InN-02Ond.tdb:GAS
 65: PHASE GAS:G % 1 1 !
 66: CONST GAS:G : N N2 N3 : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).  
-_assessment that models this phase_
 
 ## HCP_A3 (In–N)
 
@@ -147,11 +127,6 @@ _tdb: _tdb:InN-02Ond.tdb:HCP_A3
 50: CONST HCP_A3 : IN : N VA% : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).  
-_assessment that models this phase_
-
 ## INN_B4 (In–N)
 
 - Id: `phase:in-n:inn-b4`; status `assigned`
@@ -162,7 +137,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-n:inn-b4)
 
 Names (3): _corpus: _corpus:phase:in-n:inn-b4  
-_paper: _paper:10.1557/jmr:InN  
+_paper: _paper:10.1557/jmr.2002.0445:InN  
 _tdb: _tdb:InN-02Ond.tdb:INN_B4  
 
 
@@ -177,8 +152,8 @@ _tdb: _tdb:InN-02Ond.tdb:INN_B4
 
 Example references (1 of 1; assessments first): 
 
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).  
-_assessment that models this phase; reports values for this phase_
+- [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445) B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002).  
+_reports values for this phase_
 
 ## LIQUID (In–N)
 
@@ -189,7 +164,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-n:liquid)
 
 Names (3): _corpus: _corpus:phase:in-n:liquid  
-_paper: _paper:10.1557/jmr:liquid(In-rich)  
+_paper: _paper:10.1557/jmr.2002.0445:liquid(In-rich)  
 _tdb: _tdb:InN-02Ond.tdb:LIQUID  
 
 
@@ -204,8 +179,8 @@ _tdb: _tdb:InN-02Ond.tdb:LIQUID
 
 Example references (1 of 1; assessments first): 
 
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).  
-_assessment that models this phase; reports values for this phase_
+- [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445) B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002).  
+_reports values for this phase_
 
 ## N2GAS (In–N)
 
@@ -227,11 +202,6 @@ _tdb: _tdb:InN-02Ond.tdb:N2GAS
 62: PHASE N2GAS % 1 1 !
 63: CONST N2GAS : N2 : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1557/JMR](https://doi.org/10.1557/JMR) B. Onderka, J. Unland, R. Schmid-Fetzer, J. Mater. Res., 17, 3065-83(2002).  
-_assessment that models this phase_
 
 ## Please cite
 

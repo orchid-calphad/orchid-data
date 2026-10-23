@@ -14,7 +14,7 @@
  ],
  "exclude": [],
  "n_files": 7656,
- "total_bytes": 40218172,
+ "total_bytes": 40217955,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -69,12 +69,12 @@
   {
    "path": "espei/dft/CALIBRATION.json",
    "bytes": 248256,
-   "sha256": "3082a8f10d90288a4967f5a83ff74d0b975a780b91cede0bf3f678d0f1c30798"
+   "sha256": "81ec2f2f864b72f7ce1ff89b9dab0013ea4b6fbbcc590b512a75ce21d6d3d037"
   },
   {
    "path": "espei/dft/CALIBRATION.md",
    "bytes": 9993,
-   "sha256": "3d194ad6e44a8b468f710742b3f307ee642719fb47867b5bf0d3feebafa68534"
+   "sha256": "0308e2309816a6c1e6c2e18cdb563abe6bb68c9b85b6793b42689205ef96c8f0"
   },
   {
    "path": "espei/dft/literature/AG-SE/AgSe-18Li.AG2SE_ALPHA.json",
@@ -23768,13 +23768,13 @@
   },
   {
    "path": "espei/index.csv",
-   "bytes": 4038795,
-   "sha256": "fc1a009b6932d55347d280af140374c1c9b59102636a73374716f96c3dc94d33"
+   "bytes": 4038748,
+   "sha256": "8fd4ee7391af1029bdcbf8ba2bebbe0a3fd71f52e7855b3f78294458b8bedc3c"
   },
   {
    "path": "espei/index.json",
-   "bytes": 10033972,
-   "sha256": "9e3e88754a49290cca9db75cb1a5c5795df3e42faa40620511d35c992ea7ae7b"
+   "bytes": 10033918,
+   "sha256": "eb9e9768ce30f5a23c696f4982dc31d27b6d059f5795a4dfc281ddc980a0b114"
   },
   {
    "path": "espei/invariants/AG-AL/AgAl-04Wit.zpf-00.json",
@@ -28503,8 +28503,8 @@
   },
   {
    "path": "espei/invariants/CU-GA/CuGa-15Jen.zpf-00.json",
-   "bytes": 2174,
-   "sha256": "c8da48c896f3778b90e56ab0bcfd414d165f404ab7e5970cc590e8d93d36dff0"
+   "bytes": 2121,
+   "sha256": "42650c1bbc4dc63cc9cbc85fef192004dec40914489bc2953c266242bc8d8d9e"
   },
   {
    "path": "espei/invariants/CU-GA/CuGa-15Jen.zpf-01.json",
@@ -38283,8 +38283,8 @@
   },
   {
    "path": "espei/references.bib",
-   "bytes": 946443,
-   "sha256": "025b455a9885c8dfc8800631888f3e2be8df749f374d1ffd2203554d90aba1e4"
+   "bytes": 946380,
+   "sha256": "28244390ea94d32d832c6999995b506835e462511a695ad08d003c616fb1f2cf"
   },
   {
    "path": "espei/validation.json",

@@ -112,6 +112,25 @@
    }
   }
  },
+ "doi_corrections": {
+  "table": "tools/doi_corrections.json",
+  "version": "1.0.0",
+  "sha256": "1406a2c1b91197ce810bbced42af8ecf80fe2c58b53e5bef60091cdf47655d96",
+  "entries": 22,
+  "records_with_dropped_original_doi": 89,
+  "systems": [
+   "AG-PU",
+   "CE-SB",
+   "CL-EU",
+   "CL-RE",
+   "I-P",
+   "IN-TE",
+   "OS-RE",
+   "S-SC",
+   "SB-SR",
+   "SR-TE"
+  ]
+ },
  "cite_as": {
   "dataset": "assessed-phase-assemblages",
   "version": "2026.10",
@@ -138,22 +157,22 @@
  "files": {
   "bytes_by_file_or_dir": {
    "CITATION.cff": 1891,
-   "espei-zpf": 3733807,
-   "espei-zpf-with-tie-lines": 3580398,
+   "espei-zpf": 3733686,
+   "espei-zpf-with-tie-lines": 3580277,
    "espei_exclusions.jsonl": 1680689,
    "exclusions.csv": 322521,
    "exclusions.jsonl": 542384,
-   "records.csv": 10709345,
-   "records.jsonl.gz": 3563007,
-   "records.parquet": 1659123,
+   "records.csv": 10707230,
+   "records.jsonl.gz": 3563290,
+   "records.parquet": 1658324,
    "summary.json": 0
   }
  },
  "parquet": {
   "table": "records.parquet",
   "rows": 23131,
-  "csv_sha256": "87e84ee76fc7975712c2200f988c4ac61f062b42e506eb4a25fe8d7992cb14ca",
-  "content_sha256": "0808e6a0a6abc0892b2f8e7e876d571dbc186a71ceb2813c12404678286879ce",
+  "csv_sha256": "a09ed89b4f15000ac1dd04fdb3dd70cc37f78040e5fccd44f4e37d18a6bb4799",
+  "content_sha256": "2e370dfd17f3fb417b05944504ca76ff912cb625539e3db5b9f7b3de10fac172",
   "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
  }
 }

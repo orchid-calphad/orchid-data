@@ -21,7 +21,7 @@
    "above_hull": "lowest DFT entry at the composition lies above the hull"
   }
  },
- "pairs_release": "dft_parity.json inputs literature sha256 6f7555f2dedb06177e127f447f61a3a139223b2a629af886a83a497ff832ff6d",
+ "pairs_release": "dft_parity.json inputs literature sha256 114c7cf9aae49e2ba5d33251c25200a2ebf6d324c269e1aebbf53c3c377ae9e2",
  "sources": {
   "literature": {
    "all": {

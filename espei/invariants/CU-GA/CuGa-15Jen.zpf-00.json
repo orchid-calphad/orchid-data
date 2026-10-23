@@ -110,10 +110,9 @@
   ],
   "papers": [
    "doi:10.1016/j.jallcom.2014.08.037",
-   "doi:10.1001/jama.1964.03060380116096"
+   "nodoi:29bb06ed579a1f96"
   ],
   "dois": [
-   "10.1001/jama.1964.03060380116096",
    "10.1016/j.jallcom.2014.08.037"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuGa-15Jen/zpf-00.json"

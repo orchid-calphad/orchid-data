@@ -12,10 +12,10 @@ deterministic, offline from a Crossref response cache; `--check` verifies these 
 
 | | papers | with DOI |
 |---|---:|---:|
-| all | 9569 | 7813 |
+| all | 9568 | 7812 |
 | `corpus_assessment_read` | 1426 | 1411 |
 | `cited_original_source` | 3576 | 3013 |
-| `tdb_source_assessment` | 1888 | 1688 |
+| `tdb_source_assessment` | 1886 | 1686 |
 | `tdb_compilation` | 1 | 1 |
 | `handbook_diagram_source` | 2283 | 1290 |
 | `discovery_lead` | 2806 | 2806 |
@@ -23,21 +23,22 @@ deterministic, offline from a Crossref response cache; `--check` verifies these 
 | `espei_reference` | 1 | 1 |
 
 Papers without a DOI: 1756 (ids derived from first author, year and title, flagged `no_doi`).
-Crossref records: 7784 found, 29 DOIs unknown to Crossref (404),
+Crossref records: 7784 found, 28 DOIs unknown to Crossref (404),
 0 not fetched; retrieved 2026-10-23 to 2026-10-23.
 DOIs matched from a printed reference, checked against Crossref (first author, year +-1, title, journal):
 5385 verified, 104 weak (kept, flagged),
 23 unverifiable (no Crossref record); 19 mismatched
 DOIs (22 matches) were dropped: those works are kept as no-DOI records with the
-printed reference (`DOI_MISMATCHES.md`).
+printed reference (`DOI_MISMATCHES.md`). The same scoped corrections are applied by every ORCHID exporter that emits
+DOIs, from one versioned table (`doi_corrections.json`, v1.0.0).
 Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4126.
 
 | edge type | edges |
 |---|---:|
 | `cites` | 3793 |
 | `used_in_assessment` | 3793 |
-| `models_system_in_tdb` | 3760 |
-| `reassesses` | 1537 |
+| `models_system_in_tdb` | 3757 |
+| `reassesses` | 1536 |
 | `handbook_reproduces` | 2466 |
 | `cited_by_crossref` | 44888 |
 
@@ -79,7 +80,9 @@ One record: `https://data.orchid-project.org/bibliography/papers/<key>.json` wit
 
 - Bibliographic metadata only (no abstracts, no full text, no PDFs, no local paths). Crossref metadata is used as
   deposited. A DOI that an upstream matcher found for a printed reference is kept only when its Crossref record agrees
-  with the printed reference (`doi_match`: verified or weak); mismatches are dropped and listed in `DOI_MISMATCHES.md`.
+  with the printed reference (`doi_match`: verified or weak); mismatches are dropped and listed in `DOI_MISMATCHES.md`;
+  `doi_corrections.json` is the shared correction table (context, scope, reason, printed citation) the other datasets
+  apply, so a dropped DOI is null with `doi_status: dropped_mismatch` there too.
 - Roles and evidence counts are derived from the ORCHID release files (literature values, ESPEI bundle, phase
   registry, assessed phase assemblages) and from the SGTE-corpus link tables; see `provenance` in each record.
 - Edges are never inferred: `cites` / `used_in_assessment` come from the citation printed for each value ORCHID
