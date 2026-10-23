@@ -120,24 +120,24 @@
   "hulls/dft-mp/catalog.json": "bdc876fb1b6d51850c3e77f1a0ca97225ebdd095a7bdaef828c563129e1407b0",
   "hulls/dft-oqmd/catalog.json": "bc670a18e181479caddd88ce3e5a4a81c9f8e095c21ae836c3d1b33a62e44537",
   "literature/contexts.json": "1024a04f0c72088c6edcc8ab3b628ae5a6a729c5f55a34a5a89255253e296c3f",
-  "literature/dft_parity.json": "50a261b86ed9923b129c0cc45f6a22ec729f4f8184bb574358136c8b4e61a3e0",
-  "literature/index.json": "e1fb9df7b8d14c44bda1525bcfc20c834f57e7c6b61f22ebb731c4a9573c47f5",
-  "literature/orchid-literature.jsonl.gz": "a4b72c282ebf7ac96a79d7d2107be820e0fe4369a7351759f8706d1a93390599",
-  "literature/papers.json": "8f4e8a8b88c612d5fd4451ae4793f145b831c13b852badd0bb72308f39512fc1",
+  "literature/dft_parity.json": "4be547cdcea23f9fff61458992e9d21f70da34a88eec36c9696a367a70dd8724",
+  "literature/index.json": "0a663baee08c0e757b88202714890a6a58edfd219eccee100da801fa122fa649",
+  "literature/orchid-literature.jsonl.gz": "6f7555f2dedb06177e127f447f61a3a139223b2a629af886a83a497ff832ff6d",
+  "literature/papers.json": "298968ec00c23280238a36c2850e317a8ac478e4ab2de3b1458e3962704c5b49",
   "phase-diagrams/index.json": "270021a3862302374f337a6dab578415f89892e56a15a79d414d72eb90b8896b",
   "phase-diagrams/sgte/*.json (sha256 of 'sha256  name' lines)": "e45dc48fe72cb03c5db7d7a675b9681a09f1f803369a946c19f02161c5f79b7d"
  },
  "kJ_per_mol_per_eV": 96.485,
- "release": "orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)",
+ "release": "orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v2.1.19r, text+context fixup-20261022)",
  "split_rule": "sha256('orchid-split-v1:' + paper_id)[:8] mod 100: <80 train, <90 validation, else test",
  "tables": {
   "dft_parity": {
-   "bytes": 270741,
-   "content_sha256": "6a7aa78f143b0fbefb40d6cadfff7acae4c716a3552467b227716b245aa69bd6",
+   "bytes": 272193,
+   "content_sha256": "f4abdaeeaff348cb3acd1aabe2598c1b6c8ca7794812b73711f09d7488399678",
    "dataset": "dft-benchmark",
    "file": "dft_parity.parquet",
-   "file_sha256": "1bbabb50dcaaa02c4125508f002e69b96959b3a9d023dab453ed1c41c3f85f65",
-   "rows": 7826,
+   "file_sha256": "e6b750e8b805593064208589bf9baa7a97b862d079852bfeb58cf85bae70aec5",
+   "rows": 7888,
    "schema": "record_id: string\ndft_source: string\nsystem: string\nelements: list<element: string>\n  child 0, element: string\nformula: string\nphase_label: string\ncomposition: list<element: struct<element: string, x: double>>\n  child 0, element: struct<element: string, x: double>\n      child 0, element: string\n      child 1, x: double\nformula_match: string\nmatch_note: string\nlit_kJ_per_mol_atom: double\ndft_kJ_per_mol_atom: double\ndft_eV_per_atom: double\nresidual_kJ_per_mol_atom: double\nehull_kJ_per_mol_atom: double\ndft_material_id: string\ndft_spacegroup: string\ndft_theoretical: bool\ndft_n_polymorphs: int32\nevidence_class: string\naccepted: bool\nown_work_of_paper: bool\nunsigned: bool\nsign_lost: bool\nsign_verified: bool\nsign_check: string\nsuspect: list<element: string>\n  child 0, element: string\nchem_class: string\nmethod_class: string\nmethod: string\ntemperature_K: double\nrecord_kind: string\npaper_id: string\npage: int32\ntable: string\nquote: string\ncited_dois: list<element: string>\n  child 0, element: string\ndefault_subset: bool\ndft_release: string\nquality_fix: string\nunit_basis: string\nbasis_inferred_from_magnitude: bool"
   },
   "experimental_context": {
@@ -145,7 +145,7 @@
    "content_sha256": "e328126c6f2f75303a89d7c8aa7f7dd92c95921c049593ccd0ad8073e5f0df5f",
    "dataset": "literature",
    "file": "experimental_context.parquet",
-   "file_sha256": "192b73a758b8f671ff80856e0135490f810a154a7913eacbac7d68cbe473bd8c",
+   "file_sha256": "f047b86b9636fd85d7c8cbbf9266ad8b02f35c99a02ccd9886baa6830ece027c",
    "rows": 1504,
    "schema": "paper_id: string\ncontext_id: string\nsection_basis: string\ncontext_reader_tier: string\ncontext_readers: list<element: string>\n  child 0, element: string\nitem_id: string\ntype: string\nlabel: string\npurity: string\nstarting_materials: string\nsynthesis: string\nnominal_composition: string\ncomposition_basis: string\nmeasured_composition: string\ntemperature_printed: string\ntemperature_status: string\nduration: string\natmosphere_or_container: string\ncooling: string\npurpose: string\nmethod: string\ninstrument: string\nheating_or_cooling_rate: string\natmosphere: string\ncrucible: string\ncalibration: string\nstated_uncertainty: string\napplies_to: string\ntemperature_K: double\nduration_hours: double\nquote: string\npage: int32\nextraction_accepted: bool\nsecond_reader_agrees: bool\nhas_dropped_fields: bool\nreview_flags: list<element: string>\n  child 0, element: string"
   },
@@ -154,26 +154,26 @@
    "content_sha256": "42f75376fc7afdbf32d6ff9062c1b681a5b9145b80c59e8ae68400ea9bd15cbe",
    "dataset": "hulls",
    "file": "hull_vertices.parquet",
-   "file_sha256": "e2400577fb9d00db84895002b4fec99df2ccc0f7375ce5e6a6cc76bf98e0d114",
+   "file_sha256": "6e24a0f072d0530d7afde90134e04a3c7757ad8fe6e1119532b957dc37c0256c",
    "rows": 28143,
    "schema": "system: string\nsource: string\na_element: string\nx_element: string\nformula: string\nx: double\nformation_energy_eV_per_atom: double\nformation_energy_kJ_per_mol_atom: double\nenergy_per_atom_eV: double\nmaterial_id: string\nspacegroup_symbol: string\nspacegroup_number: int32\ntheoretical: bool\ncollinear: bool\ndegenerate_ids: list<element: string>\n  child 0, element: string\nis_endpoint: bool\nreference_kind: string\nrelease: string\nthermo_type: string\nentry_pool: string\nsnapshot_sha256: string"
   },
   "literature_values": {
-   "bytes": 6067938,
-   "content_sha256": "685b37935cc58e96fa77a5b5691f9978657b9c1628b220dca12503d9c6e159c1",
+   "bytes": 6136691,
+   "content_sha256": "3376fdb173f665431ca4e1de849d72e29524e271a60564219910a678a6b02fbd",
    "dataset": "literature",
    "file": "literature_values.parquet",
-   "file_sha256": "064efe0205efa282987126fe70be89f1fab3836cc994f03bf9f470a5fd8bb5bb",
-   "rows": 76432,
-   "schema": "id: string\npid: string\nsystem: string\nelements: list<element: string>\n  child 0, element: string\nn_elements: int32\nrecord_kind: string\nobservation_type: string\nproperty: string\nproperty_group: string\nproperty_printed: string\nvalue: double\nvalue_min: double\nvalue_max: double\nvalue_expression: string\nunit: string\nvalue_stored: double\nunit_stored: string\nvalue_printed: double\nunit_printed: string\nuncertainty_value: double\nuncertainty_basis: string\nuncertainty_note: string\nbound: string\ntemperature_bound_K: double\ntemperature_K: double\ntemperature_min_K: double\ntemperature_max_K: double\ntemperature_printed: string\ntemperature_basis: string\ntemperature_approximate: bool\ntemperature_uncertainty_value: double\ntemperature_uncertainty_basis: string\npressure_Pa: double\npressure_basis: string\nphases: list<element: string>\n  child 0, element: string\nmodel_phases: list<element: string>\n  child 0, element: string\nphase_details: list<element: struct<label: string, model_phase: string, mapping_confidence: string, pearson_symbol: (... 28 chars omitted)\n  child 0, element: struct<label: string, model_phase: string, mapping_confidence: string, pearson_symbol: string, proto (... 13 chars omitted)\n      child 0, label: string\n      child 1, model_phase: string\n      child 2, mapping_confidence: string\n      child 3, pearson_symbol: string\n      child 4, prototype: string\nreaction: string\nreaction_type: string\ntransition_kind: string\ntransition_kind_printed: string\nproperty_code_raw: string\nunit_basis: string\nper_formula_unit_divisor: double\nvalue_before_quality_fix: double\nmerged_ids: list<element: string>\n  child 0, element: string\ncompositions: list<element: struct<phase: string, element: string, value: double, basis: string, source: string>>\n  child 0, element: struct<phase: string, element: string, value: double, basis: string, source: string>\n      child 0, phase: string\n      child 1, element: string\n      child 2, value: double\n      child 3, basis: string\n      child 4, source: string\noverall_composition: list<element: struct<element: string, value: double>>\n  child 0, element: struct<element: string, value: double>\n      child 0, element: string\n      child 1, value: double\noverall_composition_basis: string\nreference_state_json: string\ncomponent: string\nstructure_pearson_symbol: string\nstructure_prototype: string\nstructure_strukturbericht: string\nstructure_space_group: string\nstructure_space_group_number: int32\nevidence_class: string\norigin: string\norigin_class: string\norigin_measured_in: string\norigin_own_work_of_paper: bool\naccepted: bool\nflag_espei_ready: bool\nflag_judge_adjudicated: bool\nflag_magnitude_suspect: bool\nflag_source_disputed: bool\nflag_system_mismatch: bool\nflag_unsigned_in_print: bool\nflag_sign_pdf_page_verified: bool\nflag_has_dropped_fields: bool\nflag_composition_conflict_between_readers: bool\nflag_unit_conflict_between_readers: bool\nflag_page_unreadable: bool\nflag_basis_inferred_from_magnitude: bool\nflag_basis_corrected_from_formula: bool\nflag_sign_from_heading: bool\nflag_dft_outlier_unexplained: bool\nflag_reference_state_dropped_not_in_quote: bool\nflag_state_fully_specified: bool\nflag_value_in_quote: bool\ndropped_field_count: int32\nreview_state: string\nrow_state: string\nreview_flags: list<element: string>\n  child 0, element: string\nspecification_gaps: list<element: string>\n  child 0, element: string\nplausibility_result: string\nplausibility_dT_K: double\nplausibility_model: string\nmethod: string\nmethod_basis: string\nconditions_kind: string\nconditions_paper: string\npaper_id: string\npaper_doi: string\npaper_citation: string\npaper_year: int32\ncited_dois: list<element: string>\n  child 0, element: string\ncited_labels: list<element: string>\n  child 0, element: string\nquote: string\nquote_page: int32\nlink_rule: string\nartifact: string\nartifact_label: string\nartifact_caption: string\npage: int32\ntable_row: int32\nmodel_tdb: string\nmodel_tdb_path: string\nmodel_tdb_sha256: string\nmodel_doi: string\nmodel_reproduced_by_calculation: bool\nmodel_unlinked_reason: string\nreaders: list<element: string>\n  child 0, element: string\nreader_tier: string\ntool_release: string\nrelease: string\nsplit: string"
+   "file_sha256": "dc27857325dc25601b3be406dc12edbb0da67c865e3fe0583190e7c650d185f8",
+   "rows": 77540,
+   "schema": "id: string\npid: string\nsystem: string\nelements: list<element: string>\n  child 0, element: string\nn_elements: int32\nrecord_kind: string\nobservation_type: string\nproperty: string\nproperty_group: string\nproperty_printed: string\nvalue: double\nvalue_min: double\nvalue_max: double\nvalue_expression: string\nunit: string\nvalue_stored: double\nunit_stored: string\nvalue_printed: double\nunit_printed: string\nuncertainty_value: double\nuncertainty_basis: string\nuncertainty_note: string\nbound: string\ntemperature_bound_K: double\ntemperature_K: double\ntemperature_min_K: double\ntemperature_max_K: double\ntemperature_printed: string\ntemperature_basis: string\ntemperature_approximate: bool\ntemperature_uncertainty_value: double\ntemperature_uncertainty_basis: string\npressure_Pa: double\npressure_basis: string\nphases: list<element: string>\n  child 0, element: string\nmodel_phases: list<element: string>\n  child 0, element: string\nphase_details: list<element: struct<label: string, model_phase: string, mapping_confidence: string, pearson_symbol: (... 28 chars omitted)\n  child 0, element: struct<label: string, model_phase: string, mapping_confidence: string, pearson_symbol: string, proto (... 13 chars omitted)\n      child 0, label: string\n      child 1, model_phase: string\n      child 2, mapping_confidence: string\n      child 3, pearson_symbol: string\n      child 4, prototype: string\nreaction: string\nreaction_type: string\ntransition_kind: string\ntransition_kind_printed: string\nproperty_code_raw: string\nunit_basis: string\nper_formula_unit_divisor: double\nvalue_before_quality_fix: double\nmerged_ids: list<element: string>\n  child 0, element: string\ncompositions: list<element: struct<phase: string, element: string, value: double, basis: string, source: string>>\n  child 0, element: struct<phase: string, element: string, value: double, basis: string, source: string>\n      child 0, phase: string\n      child 1, element: string\n      child 2, value: double\n      child 3, basis: string\n      child 4, source: string\noverall_composition: list<element: struct<element: string, value: double>>\n  child 0, element: struct<element: string, value: double>\n      child 0, element: string\n      child 1, value: double\noverall_composition_basis: string\nreference_state_json: string\ncomponent: string\nstructure_pearson_symbol: string\nstructure_prototype: string\nstructure_strukturbericht: string\nstructure_space_group: string\nstructure_space_group_number: int32\nevidence_class: string\norigin: string\norigin_class: string\norigin_measured_in: string\norigin_own_work_of_paper: bool\naccepted: bool\nflag_espei_ready: bool\nflag_judge_adjudicated: bool\nflag_magnitude_suspect: bool\nflag_source_disputed: bool\nflag_system_mismatch: bool\nflag_unsigned_in_print: bool\nflag_sign_pdf_page_verified: bool\nflag_has_dropped_fields: bool\nflag_composition_conflict_between_readers: bool\nflag_unit_conflict_between_readers: bool\nflag_page_unreadable: bool\nflag_basis_inferred_from_magnitude: bool\nflag_basis_corrected_from_formula: bool\nflag_sign_from_heading: bool\nflag_dft_outlier_unexplained: bool\nflag_reference_state_dropped_not_in_quote: bool\nflag_state_fully_specified: bool\nflag_value_in_quote: bool\ndropped_field_count: int32\nreview_state: string\nrow_state: string\nreview_flags: list<element: string>\n  child 0, element: string\nspecification_gaps: list<element: string>\n  child 0, element: string\nplausibility_result: string\nplausibility_dT_K: double\nplausibility_model: string\nmethod: string\nmethod_basis: string\nconditions_kind: string\nconditions_paper: string\npaper_id: string\npaper_doi: string\npaper_citation: string\npaper_year: int32\ncited_dois: list<element: string>\n  child 0, element: string\ncited_labels: list<element: string>\n  child 0, element: string\nquote: string\nquote_page: int32\nlink_rule: string\nartifact: string\nartifact_label: string\nartifact_caption: string\npage: int32\ntable_row: int32\nmodel_tdb: string\nmodel_tdb_path: string\nmodel_tdb_sha256: string\nmodel_doi: string\nmodel_reproduced_by_calculation: bool\nmodel_unlinked_reason: string\nreaders: list<element: string>\n  child 0, element: string\nreader_tier: string\nreader_agreement: string\nreader_agreement_label: string\ntool_release: string\nrelease: string\nsplit: string"
   },
   "papers": {
-   "bytes": 529209,
-   "content_sha256": "832ab0121219bad12394acf947b0f71f302a452231e15838db3472f46b8978bb",
+   "bytes": 529595,
+   "content_sha256": "411d374aaf3a39e9f0ed5272b8f2d324f38324f4a854f1f5131d6819b5e12ba2",
    "dataset": "literature",
    "file": "papers.parquet",
-   "file_sha256": "8fe4b11fe471a2932d8567804fccc05222852b37f28f64e915432290cbfc5acb",
-   "rows": 4877,
+   "file_sha256": "37f3ec44942517a6ad55152da1223b88a44e488b4d847788abe6eab068060bfe",
+   "rows": 4881,
    "schema": "id: string\ndoi: string\ndoi_url: string\ncitation: string\ntitle: string\nauthors: list<element: string>\n  child 0, element: string\nyear: int32\ncontainer: string\nkind: string\nroles: list<element: string>\n  child 0, element: string\nsource_kinds: list<element: string>\n  child 0, element: string\nsystems: list<element: string>\n  child 0, element: string\nmetadata_source: string\npdf_sha256_prefix: string\nn_values: int32"
   },
   "phase_diagram_index": {
@@ -181,7 +181,7 @@
    "content_sha256": "9a9746799b0316cb4da0dd050786a41c5a7e4cab70458bc3dfb6d020a8ea9cb7",
    "dataset": "phase-diagrams",
    "file": "phase_diagram_index.parquet",
-   "file_sha256": "209318f86c29f32ca4130681907d8867ee8972cddc5cd6980e009c37bfaa5829",
+   "file_sha256": "f59ca77a1c59f007a8c0793dee054e84fb946bb408cd211f189afe798f8e4160",
    "rows": 2774,
    "schema": "system: string\nelements: list<element: string>\n  child 0, element: string\nfile: string\ntdb: string\ntdb_sha256: string\nstatus: string\nlisted_in_index: bool\nhas_grid: bool\nx_component: string\nT_min_K: double\nT_max_K: double\nphases: list<element: string>\n  child 0, element: string\nn_invariants: int32\nengine: string\ncitation: string\ndoi: string"
   },
@@ -190,7 +190,7 @@
    "content_sha256": "8f9e6200f843b539fc2ba97640303b1da5120707b40a5083c4acbb4e3047d7fb",
    "dataset": "phase-diagrams",
    "file": "phase_diagram_invariants.parquet",
-   "file_sha256": "7ff3c86b4558af8f8a1e068efd30ee5db83a9ef31e596bbdf462e34aa489a114",
+   "file_sha256": "6f761dc576c26e5c6401185a81f18c97547a6bc26ea15468f9be8adc90a2e14b",
    "rows": 24828,
    "schema": "system: string\nfile: string\ntdb: string\ntdb_sha256: string\nx_component: string\ninvariant_index: int32\nT_K: double\nn_phases: int32\nphases: list<element: string>\n  child 0, element: string\ncompositions: list<element: struct<phase: string, x: double>>\n  child 0, element: struct<phase: string, x: double>\n      child 0, phase: string\n      child 1, x: double\nx_min: double\nx_max: double\nengine: string\ncitation: string\ndoi: string"
   }

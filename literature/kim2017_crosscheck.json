@@ -8,12 +8,12 @@
  "inputs": {
   "literature": {
    "path": "data/literature/orchid-literature.jsonl.gz",
-   "sha256": "a4b72c282ebf7ac96a79d7d2107be820e0fe4369a7351759f8706d1a93390599"
+   "sha256": "6f7555f2dedb06177e127f447f61a3a139223b2a629af886a83a497ff832ff6d"
   }
  },
  "orchid_candidates": {
   "formulas": 603,
-  "records": 1498
+  "records": 1503
  },
  "reference": {
   "citation": "G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162.",

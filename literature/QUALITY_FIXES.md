@@ -1,6 +1,6 @@
 # ORCHID literature data: quality fixes
 
-Release: `orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)`. Written by `tools/export_literature_data.py` via `tools/literature_quality.py` (deterministic). Machine-readable copy: `quality_fixes.json`.
+Release: `orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v2.1.19r, text+context fixup-20261022)`. Written by `tools/export_literature_data.py` via `tools/literature_quality.py` (deterministic). Machine-readable copy: `quality_fixes.json`.
 
 Every rule re-labels, normalizes, merges or flags; no value is invented. Where a value changed, the original is kept in the record (`value_before_quality_fix`, `transition_kind_printed`, `property_code_raw`, `value_stored`/`unit_stored`, `merged_ids`).
 
@@ -11,13 +11,13 @@ Records identical in paper, page, property, value, unit, temperature, phases and
 | scope | groups | records removed |
 |---|---:|---:|
 | same row | 2614 | 2614 |
-| rows of one artifact | 545 | 737 |
-| several artifacts | 155 | 159 |
-| **total** | **3314** | **3510** |
+| rows of one artifact | 561 | 757 |
+| several artifacts | 155 | 179 |
+| **total** | **3330** | **3550** |
 
 ## 2. Controlled vocabularies
 
-`transition_kind` (21444 records, 187 printed variants, 15910 relabelled); raw value in `transition_kind_printed`; `reaction.type` carries the controlled term.
+`transition_kind` (21703 records, 187 printed variants, 15971 relabelled); raw value in `transition_kind_printed`; `reaction.type` carries the controlled term.
 
 | transition_kind | records |
 |---|---:|
@@ -31,7 +31,7 @@ Records identical in paper, page, property, value, unit, temperature, phases and
 | monotectic | 196 |
 | monotectoid | 26 |
 | order-disorder | 23 |
-| other | 3745 |
+| other | 4004 |
 | peritectic | 4467 |
 | peritectoid | 783 |
 | polymorphic | 828 |
@@ -125,8 +125,8 @@ Mapped printed variants (all; `rule` says why):
 | Order–disorder | order-disorder | keyword | 4 |
 | Ordering reaction fcc ↔ L12 | order-disorder | keyword | 3 |
 | Ordering reaction fcc ↔ L10 | order-disorder | keyword | 1 |
-| liquidus | other | no_rule | 1493 |
-| other | other | no_rule | 1410 |
+| other | other | no_rule | 1608 |
+| liquidus | other | no_rule | 1554 |
 | solidus | other | no_rule | 418 |
 | max | other | unqualified_letter_or_extremum | 101 |
 | Transition | other | no_rule | 64 |
@@ -234,7 +234,7 @@ Mapped printed variants (all; `rule` says why):
 | Quasi-peritectic | quasi-peritectic | keyword | 1 |
 | Syntectic | syntectic | keyword | 9 |
 
-Property codes (504 records; raw code in `property_code_raw`):
+Property codes (528 records; raw code in `property_code_raw`):
 
 | raw | clean | n |
 |---|---|---:|
@@ -257,6 +257,7 @@ Property codes (504 records; raw code in `property_code_raw`):
 | `LATTICE_LATTICE_PARAMETER_ALPHA` | `LATTICE_ALPHA` | 4 |
 | `LATTICE_LATTICE_PARAMETER_B` | `LATTICE_B` | 27 |
 | `LATTICE_LATTICE_PARAMETER_C` | `LATTICE_C` | 76 |
+| `LATTICE_LATTICE_PARAMETER_DIFFERENCE_AT_AT_25_C_` | `LATTICE_DIFFERENCE_AT_AT_25_C` | 24 |
 | `LATTICE_LATTICE_PARAMETER_GAMMA` | `LATTICE_GAMMA` | 2 |
 | `LATTICE_VAT` | `LATTICE_V_ATOM` | 90 |
 | `LATTICE_V_AT` | `LATTICE_V_ATOM` | 4 |
@@ -528,7 +529,7 @@ Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose sin
 Formation enthalpies / Gibbs energies of formation, mixing enthalpies, Gibbs energies of mixing and partial molar enthalpies are given in kJ (`value`, `unit`) with the value before conversion in `value_stored`/`unit_stored` and the printed value/unit beside them. `unit_basis` records how the per-atom basis was established (printed_unit, column_header, caption, reviewer, state_completion_*, magnitude_heuristic, assumed_per_mole_of_atoms, unstated).
 
 * mixing / partial values converted to kJ/mol-atom (explicit per-atom basis): 1132
-* mixing / partial values converted to kJ/mol (basis unstated): 1995
+* mixing / partial values converted to kJ/mol (basis unstated): 2166
 * of these, per-atom labels from a heuristic or assumption demoted to basis unstated: 9
 * formation values whose per-atom basis comes only from the record builder's magnitude heuristic (kept, flagged `flags.basis_inferred_from_magnitude`): see `index.json` totals
 

@@ -15,7 +15,7 @@ Table: Phases of the Cu–Tl system (4)
 | [BCC_A2](#phase-cu-tl-bcc-a2); _phase:cu-tl:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300.75–2499.5 K, x(Tl) 0.99999–1 | 0 | 2 |
 | [FCC_A1](#phase-cu-tl-fcc-a1); _phase:cu-tl:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1366.77 K, x(Tl) 0–0.00264 | 0 | 2 |
 | [HCP_A3](#phase-cu-tl-hcp-a3); _phase:cu-tl:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–507 K, x(Tl) 1–1 | 0 | 2 |
-| [LIQUID](#phase-cu-tl-liquid); _phase:cu-tl:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 576.5–2500 K, x(Tl) 0–1 | 77 | 2 |
+| [LIQUID](#phase-cu-tl-liquid); _phase:cu-tl:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 576.5–2500 K, x(Tl) 0–1 | 103 | 2 |
 
 ## BCC_A2 (Cu–Tl)
 
@@ -121,7 +121,7 @@ _assessment that models this phase_
 - Id: `phase:cu-tl:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 576.5–2500 K, x(Tl) 0–1
-- Literature: 77 values (77 accepted) from 1 papers
+- Literature: 103 values (103 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-tl:liquid)
 
 Names (6): _corpus: _corpus:phase:cu-tl:liquid  

@@ -15,11 +15,11 @@ Table: Phases of the Ga–Ti system (13)
 | [ORTHORHOMBIC_A11](#phase-ga-ti-a11-orthorhombic); _phase:ga-ti:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–302.91 K, x(Ti) 0–0 | 0 | 2 |
 | [BCC_A2](#phase-ga-ti-bcc-a2); _phase:ga-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1154.99–2499.04 K, x(Ti) 0.73134–1 | 27 | 2 |
 | [FCC_A1](#phase-ga-ti-fcc-a1); _phase:ga-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [GA2TI](#phase-ga-ti-ga2ti); _phase:ga-ti:ga2ti_ | Ga2Hf · tI24 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1439.64 K, x(Ti) 0.33333–0.33333 | 46 | 2 |
+| [GA2TI](#phase-ga-ti-ga2ti); _phase:ga-ti:ga2ti_ | Ga2Hf · tI24 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1439.64 K, x(Ti) 0.33333–0.33333 | 52 | 2 |
 | [GA3TI_D022](#phase-ga-ti-ga3ti-d022); _phase:ga-ti:ga3ti-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1203.07 K, x(Ti) 0.25–0.25 | 15 | 2 |
-| [GA3TI2](#phase-ga-ti-ga3ti2); _phase:ga-ti:ga3ti2_ | Ga3Ti2 · tP10 · P4/m (83) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1400 K, x(Ti) 0.4–0.4 | 13 | 2 |
+| [GA3TI2](#phase-ga-ti-ga3ti2); _phase:ga-ti:ga3ti2_ | Ga3Ti2 · tP10 · P4/m (83) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1400 K, x(Ti) 0.4–0.4 | 19 | 2 |
 | [GA3TI5_D8M](#phase-ga-ti-ga3ti5-d8m); _phase:ga-ti:ga3ti5-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1711.43 K, x(Ti) 0.625–0.625 | 21 | 2 |
-| [GA4TI5](#phase-ga-ti-ga4ti5); _phase:ga-ti:ga4ti5_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1714 K, x(Ti) 0.51907–0.59425 | 25 | 2 |
+| [GA4TI5](#phase-ga-ti-ga4ti5); _phase:ga-ti:ga4ti5_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1714 K, x(Ti) 0.51907–0.59425 | 31 | 2 |
 | [GATI_L10](#phase-ga-ti-gati-l10); _phase:ga-ti:gati-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1523.84 K, x(Ti) 0.40583–0.49669 | 25 | 2 |
 | [GATI2_B82](#phase-ga-ti-gati2-b82); _phase:ga-ti:gati2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1704.7 K, x(Ti) 0.66667–0.66667 | 30 | 2 |
 | [GATI3_D019](#phase-ga-ti-gati3-d019); _phase:ga-ti:gati3-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1303.07 K, x(Ti) 0.74469–0.77565 | 18 | 2 |
@@ -145,7 +145,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_141_matches_5_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.6667, Ti 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1439.64 K, x(Ti) 0.33333–0.33333
-- Literature: 46 values (46 accepted) from 2 papers
+- Literature: 52 values (52 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-ti:ga2ti)
 
 Names (5): _corpus: _corpus:phase:ga-ti:ga2ti  
@@ -171,10 +171,10 @@ _tdb: _tdb:GaTi-03Li-LB.tdb:GA2TI, tdb:GaTi-13Liu.tdb:GA2TI
 
 Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/S0925-8388(03)00131-2](https://doi.org/10.1016/S0925-8388%2803%2900131-2) J.-B. Li, J.-C. Tedenac, M.-C. Record, J. Alloys Compd., 358, 133-41(2003).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.02.003](https://doi.org/10.1016/j.calphad.2013.02.003) Y. Liu, J.C. Tedenac, X.P. Su, C. Colinet, J.H. Wang, An updated thermodynamic modeling of the Ga–Ti system, Calphad 41, 140-149 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0925-8388(03)00131-2](https://doi.org/10.1016/S0925-8388%2803%2900131-2) J.-B. Li, J.-C. Tedenac, M.-C. Record, J. Alloys Compd., 358, 133-41(2003).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/s0925-8388(00)01416-x](https://doi.org/10.1016/s0925-8388%2800%2901416-x) N.V. Antonova, L.A. Tretyachenko, Phase diagram of the Ti–Ga system, Journal of Alloys and Compounds 317-318, 398-405 (2001).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0378-4371(84)90096-7](https://doi.org/10.1016/0378-4371%2884%2990096-7) J.M. Sanchez, F. Ducastelle, D. Gratias, Generalized cluster description of multicomponent systems, Physica A: Statistical Mechanics and its Applications 128, 334-350 (1984).  
@@ -234,7 +234,7 @@ _cited as the source of values for this phase_
 - Structure: Ga3Ti2 · tP10 · P4/m (83); type `st:ga3ti2-tp10`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ga 0.6000, Ti 0.4000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1400 K, x(Ti) 0.4–0.4
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 19 values (19 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-ti:ga3ti2)
 
 Names (7): _corpus: _corpus:phase:ga-ti:ga3ti2  
@@ -260,13 +260,17 @@ _tdb: _tdb:GaTi-03Li-LB.tdb:GA3TI2, tdb:GaTi-13Liu.tdb:GA3TI2
 60: CONST GA3TI2 : GA : TI : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/S0925-8388(03)00131-2](https://doi.org/10.1016/S0925-8388%2803%2900131-2) J.-B. Li, J.-C. Tedenac, M.-C. Record, J. Alloys Compd., 358, 133-41(2003).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.02.003](https://doi.org/10.1016/j.calphad.2013.02.003) Y. Liu, J.C. Tedenac, X.P. Su, C. Colinet, J.H. Wang, An updated thermodynamic modeling of the Ga–Ti system, Calphad 41, 140-149 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0925-8388(03)00131-2](https://doi.org/10.1016/S0925-8388%2803%2900131-2) J.-B. Li, J.-C. Tedenac, M.-C. Record, J. Alloys Compd., 358, 133-41(2003).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/s0925-8388(00)01416-x](https://doi.org/10.1016/s0925-8388%2800%2901416-x) N.V. Antonova, L.A. Tretyachenko, Phase diagram of the Ti–Ga system, Journal of Alloys and Compounds 317-318, 398-405 (2001).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0378-4371(84)90096-7](https://doi.org/10.1016/0378-4371%2884%2990096-7) J.M. Sanchez, F. Ducastelle, D. Gratias, Generalized cluster description of multicomponent systems, Physica A: Statistical Mechanics and its Applications 128, 334-350 (1984).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2010.12.003](https://doi.org/10.1016/j.calphad.2010.12.003) C. Colinet, J.-C. Tedenac, CALPHAD 35 (2011) 133–141.  
 _cited as the source of values for this phase_
 
 ## GA3TI5_D8M (Ga–Ti)
@@ -318,7 +322,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1714 K, x(Ti) 0.51907–0.59425
-- Literature: 25 values (25 accepted) from 2 papers
+- Literature: 31 values (31 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-ti:ga4ti5)
 
 Names (5): _corpus: _corpus:phase:ga-ti:ga4ti5  
@@ -342,13 +346,17 @@ _tdb: _tdb:GaTi-03Li-LB.tdb:GA4TI5, tdb:GaTi-13Liu.tdb:GA4TI5
 70: CONST GA4TI5 : GA% TI : GA TI% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/S0925-8388(03)00131-2](https://doi.org/10.1016/S0925-8388%2803%2900131-2) J.-B. Li, J.-C. Tedenac, M.-C. Record, J. Alloys Compd., 358, 133-41(2003).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.02.003](https://doi.org/10.1016/j.calphad.2013.02.003) Y. Liu, J.C. Tedenac, X.P. Su, C. Colinet, J.H. Wang, An updated thermodynamic modeling of the Ga–Ti system, Calphad 41, 140-149 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0925-8388(03)00131-2](https://doi.org/10.1016/S0925-8388%2803%2900131-2) J.-B. Li, J.-C. Tedenac, M.-C. Record, J. Alloys Compd., 358, 133-41(2003).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/s0925-8388(00)01416-x](https://doi.org/10.1016/s0925-8388%2800%2901416-x) N.V. Antonova, L.A. Tretyachenko, Phase diagram of the Ti–Ga system, Journal of Alloys and Compounds 317-318, 398-405 (2001).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0378-4371(84)90096-7](https://doi.org/10.1016/0378-4371%2884%2990096-7) J.M. Sanchez, F. Ducastelle, D. Gratias, Generalized cluster description of multicomponent systems, Physica A: Statistical Mechanics and its Applications 128, 334-350 (1984).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2010.12.003](https://doi.org/10.1016/j.calphad.2010.12.003) C. Colinet, J.-C. Tedenac, CALPHAD 35 (2011) 133–141.  
 _cited as the source of values for this phase_
 
 ## GATI_L10 (Ga–Ti)

@@ -20,7 +20,7 @@ Table: Phases of the B–Nb system (11)
 | [NB2B3](#phase-b-nb-nb2b3); _phase:b-nb:nb2b3_ | V2B3 · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–2710 K, x(B) 0.6–0.6 | 2 | 4 |
 | [NB3B2_D5A](#phase-b-nb-nb3b2-d5a); _phase:b-nb:nb3b2-d5a_ | Si2U3 · D5_a · tP10 · P4/mbm (127) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2460 K, x(B) 0.4–0.4 | 7 | 5 |
 | [NB3B4_D7B](#phase-b-nb-nb3b4-d7b); _phase:b-nb:nb3b4-d7b_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–3213.89 K, x(B) 0.57143–0.572 | 11 | 5 |
-| [NB5B6](#phase-b-nb-nb5b6); _phase:b-nb:nb5b6_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–3197.32 K, x(B) 0.545–0.54545 | 3 | 5 |
+| [NB5B6](#phase-b-nb-nb5b6); _phase:b-nb:nb5b6_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–3197.32 K, x(B) 0.545–0.54545 | 9 | 5 |
 | [NBB_B33](#phase-b-nb-nbb-b33); _phase:b-nb:nbb-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–3193.41 K, x(B) 0.47539–0.5 | 18 | 5 |
 | [NBB2_C32](#phase-b-nb-nbb2-c32); _phase:b-nb:nbb2-c32_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–3320.66 K, x(B) 0.60952–0.72082 | 15 | 5 |
 
@@ -564,7 +564,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): V5B6 · oC22 · Cmmm — NbB-09Nak.tdb: 'Prototype V5B6 (oC22, Cmmm)'
 - Candidate (tdb_comment): V5B6 · oC22 · Cmmm — NbB-23Pan.tdb: 'Prototype V5B6 (oC22, Cmmm)'
 - Stability: stable in 5 of 5 calculated diagram(s): 300–3197.32 K, x(B) 0.545–0.54545
-- Literature: 3 values (3 accepted) from 2 papers
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-nb:nb5b6)
 
 Names (8): _corpus: _corpus:phase:b-nb:nb5b6  
@@ -609,11 +609,11 @@ _tdb: _tdb:NbB-07Pec.tdb:NB5B6, tdb:NbB-08Wit.tdb:NB5B6, tdb:NbB-08Yos.tdb:NB5B6
 62: CONST NB5B6 : NB : B : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2006.10.054](https://doi.org/10.1016/j.intermet.2006.10.054) Rockfeller Maciel Peçanha, Flávio Ferreira, Gilberto Carvalho Coelho, Carlos Angelo Nunes, Bo Sundman, Thermodynamic modeling of the Nb–B system, Intermetallics 15, 999-1005 (2007).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102602](https://doi.org/10.1016/j.calphad.2023.102602) Y. Pan, X. Yang, Z. Fan, A. Liu, J. Zhang, F. Luo, Y. Du, L. Huang, Calphad, 82, 102602(2023).  
 _assessment that models this phase_
@@ -621,6 +621,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.48.835](https://doi.org/10.2355/isijinternational.48.835) K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).  
 _assessment that models this phase_
+- [doi:10.1016/0022-5088(90)90170-o](https://doi.org/10.1016/0022-5088%2890%2990170-o) H. Bolmgren, T. Lundström, A new binary boride, Nb5B6, Journal of the Less Common Metals 159, L25-L27 (1990).  
+_cited as the source of values for this phase_
 
 ## NBB_B33 (B–Nb)
 

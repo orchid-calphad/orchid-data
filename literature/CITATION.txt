@@ -1,4 +1,4 @@
-ORCHID literature values: orchid-literature.csv.gz, orchid-literature.jsonl.gz, index.json, systems/*.json, papers.json, contexts.json (release orchid-literature 2026-10-22 (record store db-v2.1: invariant/general v2.1.19p, text+context fixup-20261022)).
+ORCHID literature values: orchid-literature.csv.gz, orchid-literature.jsonl.gz, index.json, systems/*.json, papers.json, contexts.json (release orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v2.1.19r, text+context fixup-20261022)).
 
 Please cite:
 
