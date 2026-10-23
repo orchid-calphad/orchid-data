@@ -1,0 +1,318 @@
+{
+ "papers": {
+  "table": "papers.parquet",
+  "rows": 9560,
+  "id_column": "id",
+  "csv_sha256": "692ed89a13eef464d1fedbbfbe14febe263f686d73a525636005fffa17b54dda",
+  "content_sha256": "59788ac9142e32910c9da06a34e8f3272b30310284859115524cfa70178dc34b"
+ },
+ "edges": {
+  "table": "edges.parquet",
+  "rows": 60239,
+  "id_column": "id",
+  "csv_sha256": "ac5ebc493a169d55e7ca20be9e0bb7405a7012f52c1ff8f0ef8289064d035858",
+  "content_sha256": "95ddf93b1d93591b82e30659a01785d98ea1a6fa241c242baaa1e036a8ea0bf8"
+ },
+ "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder",
+ "fields": {
+  "papers": [
+   {
+    "name": "id",
+    "dataType": "sc:Text",
+    "description": "Stable bibliography id: 'doi:<lowercase DOI>' or 'nodoi:<16 hex>' (sha256 of folded first-author surname|year|folded title or printed reference). Primary key."
+   },
+   {
+    "name": "key",
+    "dataType": "sc:Text",
+    "description": "URL-safe file key: 'p' + first 16 hex of sha256(id). Record at papers/<key>.json, page at pages/papers/<key>.html."
+   },
+   {
+    "name": "doi",
+    "dataType": "sc:Text",
+    "description": "DOI in lower case (empty when the work has none)."
+   },
+   {
+    "name": "no_doi",
+    "dataType": "sc:Boolean",
+    "description": "True when the work has no DOI and the id is derived from first author, year and title."
+   },
+   {
+    "name": "title",
+    "dataType": "sc:Text",
+    "description": "Title (Crossref; for works without a Crossref record: the title held by ORCHID's sources, may be empty)."
+   },
+   {
+    "name": "authors",
+    "dataType": "sc:Text",
+    "description": "Authors as 'Given Family', '; '-joined, in Crossref order."
+   },
+   {
+    "name": "orcids",
+    "dataType": "sc:Text",
+    "description": "ORCID iDs deposited with Crossref for the authors, '; '-joined."
+   },
+   {
+    "name": "container_title",
+    "dataType": "sc:Text",
+    "description": "Journal, book or proceedings title."
+   },
+   {
+    "name": "volume",
+    "dataType": "sc:Text",
+    "description": "Volume."
+   },
+   {
+    "name": "issue",
+    "dataType": "sc:Text",
+    "description": "Issue."
+   },
+   {
+    "name": "pages",
+    "dataType": "sc:Text",
+    "description": "Page range or article number."
+   },
+   {
+    "name": "year",
+    "dataType": "sc:Integer",
+    "description": "Publication year (Crossref 'issued'; otherwise as printed)."
+   },
+   {
+    "name": "publisher",
+    "dataType": "sc:Text",
+    "description": "Publisher (Crossref)."
+   },
+   {
+    "name": "type",
+    "dataType": "sc:Text",
+    "description": "Crossref work type (journal-article, book-chapter, ...)."
+   },
+   {
+    "name": "metadata_source",
+    "dataType": "sc:Text",
+    "description": "Where the bibliographic fields come from: 'crossref', or the ORCHID source that printed the reference (orchid_literature_printed_reference, tdb_header, handbook_reference, discovery_snapshot, ...)."
+   },
+   {
+    "name": "citation",
+    "dataType": "sc:Text",
+    "description": "One-line citation built from the metadata (printed reference for works without a Crossref record)."
+   },
+   {
+    "name": "systems",
+    "dataType": "sc:Text",
+    "description": "Chemical systems the work covers in ORCHID (sorted element symbols joined by '-'), ';'-joined. Discovery leads contribute only systems named in their title."
+   },
+   {
+    "name": "roles",
+    "dataType": "sc:Text",
+    "description": "Roles in ORCHID, ';'-joined: corpus_assessment_read, cited_original_source, tdb_source_assessment, tdb_compilation, handbook_diagram_source, discovery_lead, context_source, espei_reference."
+   },
+   {
+    "name": "tdb_files",
+    "dataType": "sc:Text",
+    "description": "TDB files whose header cites this work as the assessment (tdb_source_assessment), ';'-joined."
+   },
+   {
+    "name": "handbook_systems",
+    "dataType": "sc:Text",
+    "description": "Systems whose assessed (handbook) diagram names this work as its source, ';'-joined."
+   },
+   {
+    "name": "discovery_rank",
+    "dataType": "sc:Integer",
+    "description": "Rank in the Crossref higher-order assessment discovery (discovery_lead)."
+   },
+   {
+    "name": "values_reported",
+    "dataType": "sc:Integer",
+    "description": "Literature values ORCHID read from this paper (all released records, accepted or not)."
+   },
+   {
+    "name": "values_reported_accepted",
+    "dataType": "sc:Integer",
+    "description": "Of those, values with flags.extraction_accepted."
+   },
+   {
+    "name": "values_reported_experimental",
+    "dataType": "sc:Integer",
+    "description": "Values read from this paper with evidence class experimental."
+   },
+   {
+    "name": "values_reported_model",
+    "dataType": "sc:Integer",
+    "description": "... evidence class model."
+   },
+   {
+    "name": "values_reported_dft",
+    "dataType": "sc:Integer",
+    "description": "... evidence class dft."
+   },
+   {
+    "name": "values_reported_unspecified",
+    "dataType": "sc:Integer",
+    "description": "... evidence class unspecified."
+   },
+   {
+    "name": "values_cited",
+    "dataType": "sc:Integer",
+    "description": "Values in other papers whose printed source (cited_sources) is this work."
+   },
+   {
+    "name": "values_cited_accepted",
+    "dataType": "sc:Integer",
+    "description": "Of those, accepted values."
+   },
+   {
+    "name": "property_groups",
+    "dataType": "sc:Text",
+    "description": "Property groups of the values reported in or citing this work, ';'-joined."
+   },
+   {
+    "name": "properties",
+    "dataType": "sc:Text",
+    "description": "Property codes (HM_FORM, INVARIANT_TEMPERATURE, ...) of those values, ';'-joined."
+   },
+   {
+    "name": "n_tables",
+    "dataType": "sc:Integer",
+    "description": "Distinct tables of this paper the released values come from."
+   },
+   {
+    "name": "n_text_passages",
+    "dataType": "sc:Integer",
+    "description": "Distinct sentences (running-text quotes) of this paper the released values come from."
+   },
+   {
+    "name": "n_espei_datasets",
+    "dataType": "sc:Integer",
+    "description": "ESPEI datasets of the ORCHID bundle derived from values of this work (paths in papers.jsonl)."
+   },
+   {
+    "name": "n_phase_registry_phases",
+    "dataType": "sc:Integer",
+    "description": "Phase-registry phases that cite this work (paper label or reference)."
+   },
+   {
+    "name": "n_assessed_assemblage_records",
+    "dataType": "sc:Integer",
+    "description": "Assessed phase-assemblage records whose original evaluation is this work."
+   },
+   {
+    "name": "open_access_license",
+    "dataType": "sc:URL",
+    "description": "First Creative Commons licence URL in the Crossref license field (empty: none deposited). Never inferred from elsewhere."
+   },
+   {
+    "name": "license_urls",
+    "dataType": "sc:Text",
+    "description": "Every licence URL in the Crossref license field (TDM, publisher, CC), ';'-joined."
+   },
+   {
+    "name": "is_referenced_by_count",
+    "dataType": "sc:Integer",
+    "description": "Crossref is-referenced-by-count on the retrieval date."
+   },
+   {
+    "name": "is_referenced_by_count_retrieved",
+    "dataType": "sc:Date",
+    "description": "Date the Crossref record was retrieved."
+   },
+   {
+    "name": "crossref_status",
+    "dataType": "sc:Text",
+    "description": "found | not_found (404 at Crossref) | no_doi | not_fetched."
+   },
+   {
+    "name": "doi_check",
+    "dataType": "sc:Text",
+    "description": "consistent | mismatch_suspect: Crossref first author / year / title compared with the reference printed in ORCHID's source (empty: nothing printed to compare)."
+   },
+   {
+    "name": "read_by_orchid",
+    "dataType": "sc:Text",
+    "description": "yes: ORCHID processed the paper's full text in its extraction corpus; no otherwise."
+   },
+   {
+    "name": "edges_out",
+    "dataType": "sc:Integer",
+    "description": "Edges with this paper as src (edges.*)."
+   },
+   {
+    "name": "edges_in",
+    "dataType": "sc:Integer",
+    "description": "Edges with this paper as dst."
+   },
+   {
+    "name": "json_url",
+    "dataType": "sc:URL",
+    "description": "Resolvable JSON record of this paper."
+   },
+   {
+    "name": "html_url",
+    "dataType": "sc:URL",
+    "description": "Static HTML page of this paper."
+   }
+  ],
+  "edges": [
+   {
+    "name": "id",
+    "dataType": "sc:Text",
+    "description": "Stable edge id: 'e' + first 16 hex of sha256(type|src|dst|provenance source). Primary key."
+   },
+   {
+    "name": "type",
+    "dataType": "sc:Text",
+    "description": "cites | used_in_assessment | models_system_in_tdb | reassesses | handbook_reproduces | cited_by_crossref."
+   },
+   {
+    "name": "src",
+    "dataType": "sc:Text",
+    "description": "Source node id (paper id, or handbook:okamoto-2010:<SYS> for handbook_reproduces)."
+   },
+   {
+    "name": "dst",
+    "dataType": "sc:Text",
+    "description": "Target node id (paper id, or tdb:<file> for models_system_in_tdb)."
+   },
+   {
+    "name": "src_kind",
+    "dataType": "sc:Text",
+    "description": "paper | handbook_diagram."
+   },
+   {
+    "name": "dst_kind",
+    "dataType": "sc:Text",
+    "description": "paper | tdb_file."
+   },
+   {
+    "name": "count",
+    "dataType": "sc:Integer",
+    "description": "cites / used_in_assessment: number of values carrying that citation."
+   },
+   {
+    "name": "provenance_source",
+    "dataType": "sc:Text",
+    "description": "orchid_extraction | crossref_reference_list | sgte_tdb_header | orchid_literature_model_link | verified_assessment | okamoto_handbook_source_line | citation+same-system."
+   },
+   {
+    "name": "provenance_dataset",
+    "dataType": "sc:Text",
+    "description": "Input the edge was read from."
+   },
+   {
+    "name": "provenance_method",
+    "dataType": "sc:Text",
+    "description": "How the edge was established."
+   },
+   {
+    "name": "systems",
+    "dataType": "sc:Text",
+    "description": "Chemical system(s) of the edge, ';'-joined."
+   },
+   {
+    "name": "attrs",
+    "dataType": "sc:Text",
+    "description": "Remaining attributes as compact JSON (evidence-class and citation-status counts, TDB sha256, page, ...)."
+   }
+  ]
+ }
+}

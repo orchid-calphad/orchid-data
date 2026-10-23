@@ -1,0 +1,28 @@
+{
+ "@context": {
+  "@vocab": "https://schema.org/",
+  "schema": "https://schema.org/",
+  "orchid": "https://orchid-project.org/vocab/bibliography#",
+  "roles": {
+   "@id": "orchid:role",
+   "@container": "@set"
+  },
+  "edgeType": "orchid:edgeType",
+  "citation": {
+   "@id": "schema:citation",
+   "@type": "@id"
+  },
+  "sameAs": {
+   "@id": "schema:sameAs",
+   "@type": "@id"
+  },
+  "url": {
+   "@id": "schema:url",
+   "@type": "@id"
+  },
+  "license": {
+   "@id": "schema:license",
+   "@type": "@id"
+  }
+ }
+}
